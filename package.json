@@ -24,5 +24,8 @@
     "preact": "^10.0.0",
     "tailwindcss": "^4.0.0",
     "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.5"
   }
 }

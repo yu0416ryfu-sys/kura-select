@@ -37,6 +37,25 @@ const { title, description, ogImage, canonical, noindex } = Astro.props;
       gtag('js', new Date());
       gtag('config', 'G-9ZPLHX62KS');
     </script>
+
+    <!-- 楽天リンクのクリックをGA4に送信 -->
+    <script is:inline>
+      document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('click', function(e) {
+          // クリックされた要素、またはその親要素に data-ga-event があるか探す
+          var link = e.target.closest('[data-ga-event]');
+          if (!link) return;
+
+          // GA4にイベントを送信
+          if (typeof gtag === 'function') {
+            gtag('event', link.dataset.gaEvent, {
+              product_name: link.dataset.gaProduct || '不明',
+              link_url: link.href || ''
+            });
+          }
+        });
+      });
+    </script>
   </head>
   <body class="min-h-screen flex flex-col bg-[var(--color-bg)]">
     <Header />
