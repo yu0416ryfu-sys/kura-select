@@ -1,32 +1,31 @@
 ---
-title: "洗濯洗剤のコスパ比較【2024年版】おすすめ4選"
+title: "洗濯洗剤のコスパ比較【2026年版】おすすめ4選"
 description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉・ジェルボール別に特徴と価格を分かりやすく解説します。"
 category: laundry-detergent
 publishedAt: 2024-11-15
-updatedAt: 2024-12-01
+updatedAt: 2026-04-29
 products:
   - rank: 1
-    name: "大容量液体洗剤 抗菌タイプ 4.5kg"
-    brand: "サンプルブランドA"
-    price: 1280
-    capacity: "4.5kg（約150回分）"
-    pricePerUnit: "約8.5円/回"
-    rating: 4.3
-    reviewCount: 3200
+    name: "アリエール 洗濯洗剤 液体 詰め替え 超ジャンボ 1000g×4セット"
+    brand: "アリエール（P&G）"
+    price: 4078
+    capacity: "4000g（約148回分）"
+    pricePerUnit: "約27.6円/回"
     features:
-      - "抗菌・防臭効果"
-      - "液体タイプで溶け残りなし"
-      - "詰め替え用あり"
+      - "国内シェアトップクラスの液体洗剤"
+      - "詰め替えタイプで経済的"
+      - "超ジャンボサイズで買い替え頻度が下がる"
+      - "1種類を選べる（タイプが選択可）"
     pros:
-      - "1回あたりのコストが低い"
-      - "抗菌効果で部屋干しにも対応"
-      - "楽天レビューでは平均4.3点の安定した評価"
+      - "アリエールは洗浄力の高さで支持者が多いブランド"
+      - "詰め替え用なのでゴミが少なくエコ"
+      - "まとめ買いで単価を抑えられる"
     cons:
-      - "ボトルが大きく保管場所をとる"
-      - "移動・持ち運びが重い"
-    recommendedFor: "コスパ重視・抗菌ケアをしたい方"
-    rakutenUrl: "https://example.com/placeholder/laundry-a"
-    imageUrl: "/placeholder/product-1.svg"
+      - "1回あたりのコストはやや高め"
+      - "4本分の保管スペースが必要"
+    recommendedFor: "洗浄力・ブランド信頼性を重視する方・詰め替え派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bfd78.5033be53.534bfd79.f21e95e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405421%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://hbb.afl.rakuten.co.jp/hgb/534bfd78.5033be53.534bfd79.f21e95e8/?me_id=1261122&item_id=11279561&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Frakuten24%2Fcabinet%2F421%2F405421.jpg%3F_ex%3D240x240&s=240x240&t=picttext"
 
   - rank: 2
     name: "粉末洗剤 業務用 5kg"
