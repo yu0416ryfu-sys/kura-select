@@ -28,6 +28,15 @@ const { title, description, ogImage, canonical, noindex } = Astro.props;
     />
     <link rel="icon" type="image/svg+xml" href={url("/favicon.svg")} />
     <slot name="head" />
+
+    <!-- Google Analytics -->
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-9ZPLHX62KS"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-9ZPLHX62KS');
+    </script>
   </head>
   <body class="min-h-screen flex flex-col bg-[var(--color-bg)]">
     <Header />
