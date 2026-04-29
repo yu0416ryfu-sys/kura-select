@@ -8,9 +8,10 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "node scripts/generate-ogp.mjs && astro build",
     "preview": "astro preview",
     "astro": "astro",
+    "generate-ogp": "node scripts/generate-ogp.mjs",
     "update-products": "node scripts/update-products.mjs",
     "update-products:dry": "node scripts/update-products.mjs --dry-run",
     "test": "vitest run",

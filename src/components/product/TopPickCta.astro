@@ -1,0 +1,83 @@
+---
+import RakutenLink from "./RakutenLink.astro";
+
+interface Product {
+  rank: number;
+  name: string;
+  brand: string;
+  price: number;
+  capacity: string;
+  pricePerUnit?: string;
+  rating?: number;
+  reviewCount?: number;
+  rakutenUrl: string;
+  imageUrl?: string;
+}
+
+interface Props {
+  product: Product;
+}
+
+const { product } = Astro.props;
+---
+
+<div class="bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200 rounded-xl p-4 md:p-5 mb-8 shadow-sm">
+  <div class="flex items-center gap-2 mb-3">
+    <span class="bg-amber-400 text-white text-xs font-bold px-2.5 py-1 rounded-full">🏆 編集部イチオシ</span>
+    <span class="text-xs text-[var(--color-text-sub)]">この記事の1位</span>
+  </div>
+
+  <div class="flex items-center gap-4">
+    <!-- 商品画像 -->
+    <div class="shrink-0 w-16 h-16 md:w-20 md:h-20 rounded-lg overflow-hidden bg-white border border-[var(--color-border)]">
+      <img
+        src={product.imageUrl ?? "/placeholder/product-default.svg"}
+        alt={`${product.name}の商品画像`}
+        width="80"
+        height="80"
+        class="w-full h-full object-contain"
+        loading="eager"
+      />
+    </div>
+
+    <!-- 商品情報 -->
+    <div class="flex-1 min-w-0">
+      <p class="text-xs text-[var(--color-text-sub)]">{product.brand}</p>
+      <h2 class="font-bold text-sm md:text-base text-[var(--color-text)] leading-tight line-clamp-2">
+        {product.name}
+      </h2>
+      <div class="flex items-center gap-3 mt-1.5 flex-wrap">
+        <span class="text-lg font-bold text-[var(--color-text)]">¥{product.price.toLocaleString()}</span>
+        {product.pricePerUnit && (
+          <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium">
+            {product.pricePerUnit}
+          </span>
+        )}
+        {product.rating !== undefined && (
+          <span class="flex items-center gap-0.5 text-sm">
+            <span class="text-[var(--color-warning)]">★</span>
+            <span class="font-medium">{product.rating.toFixed(1)}</span>
+          </span>
+        )}
+      </div>
+    </div>
+
+    <!-- CTAボタン（PC） -->
+    <div class="hidden md:block shrink-0">
+      <RakutenLink
+        href={product.rakutenUrl}
+        productName={product.name}
+        size="md"
+      />
+    </div>
+  </div>
+
+  <!-- CTAボタン（モバイル：全幅） -->
+  <div class="md:hidden mt-3">
+    <RakutenLink
+      href={product.rakutenUrl}
+      productName={product.name}
+      size="md"
+    />
+  </div>
+</div>

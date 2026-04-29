@@ -4,6 +4,7 @@ import Container from "../components/layout/Container.astro";
 import JsonLd from "../components/seo/JsonLd.astro";
 import ComparisonTable from "../components/product/ComparisonTable.astro";
 import ProductCard from "../components/product/ProductCard.astro";
+import TopPickCta from "../components/product/TopPickCta.astro";
 import { SITE, url } from "../lib/site";
 import type { CollectionEntry } from "astro:content";
 
@@ -16,6 +17,9 @@ interface Props {
 
 const { article, categoryName, categorySlug, relatedArticles } = Astro.props;
 const { data } = article;
+
+// 記事別OGP画像パス（ビルド時に generate-ogp.mjs で生成）
+const ogImage = `/og/articles/${article.id}.png`;
 
 const articleJsonLd = {
   "@context": "https://schema.org",
@@ -66,6 +70,7 @@ const productJsonLds = data.products
 <BaseLayout
   title={data.title}
   description={data.description}
+  ogImage={ogImage}
 >
   <Fragment slot="head">
     <JsonLd data={articleJsonLd} />
@@ -112,6 +117,11 @@ const productJsonLds = data.products
             )}
           </div>
         </header>
+
+        <!-- ファーストビューCTA: 1位商品 -->
+        {data.products.length > 0 && (
+          <TopPickCta product={data.products.find((p) => p.rank === 1) ?? data.products[0]} />
+        )}
 
         <!-- 比較表 -->
         <section aria-label="商品比較表">
