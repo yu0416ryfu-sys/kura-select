@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:item.rakuten.co.jp)",
+      "WebFetch(domain:kakaku.com)",
+      "Bash(git push *)"
+    ]
+  }
+}
