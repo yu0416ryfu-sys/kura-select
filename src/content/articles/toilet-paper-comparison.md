@@ -1,9 +1,9 @@
 ---
-title: "トイレットペーパーのコスパ比較【2024年版】おすすめ5選"
+title: "トイレットペーパーのコスパ比較【2026年版】おすすめ5選"
 description: "トイレットペーパーをコスパで徹底比較。1mあたりの価格や肌触り、枚数の違いを分かりやすく解説します。"
 category: toilet-paper
 publishedAt: 2024-11-01
-updatedAt: 2024-12-01
+updatedAt: 2026-04-29
 products:
   - rank: 1
     name: "まとめ買いトイレットペーパー シングル 100m×12ロール"
@@ -75,27 +75,26 @@ products:
     imageUrl: "/placeholder/product-3.svg"
 
   - rank: 4
-    name: "再生紙トイレットペーパー ダブル 60m×12ロール"
-    brand: "サンプルブランドD"
-    price: 1080
-    capacity: "60m×12ロール"
-    pricePerUnit: "約1.50円/m"
-    rating: 4.0
-    reviewCount: 320
+    name: "再生紙トイレットペーパー ダブル 27.5m×96ロール（1パック12ロール）"
+    brand: "無地・無印刷（エコ仕様）"
+    price: 3200
+    capacity: "ダブル 27.5m×96ロール"
+    pricePerUnit: "約1.21円/m"
     features:
       - "100%再生紙使用"
-      - "環境配慮型製品"
-      - "FSC認証素材"
+      - "無地・無印刷でシンプル"
+      - "108mm幅のスタンダードサイズ"
+      - "まとめ買いで長期保存可"
     pros:
-      - "環境にやさしい"
-      - "再生紙とは思えない品質との声も"
-      - "企業のSDGs取組みに活用できる"
+      - "再生紙でも使い心地が気になりにくいダブルタイプ"
+      - "96ロールの大容量で買い物の手間が減る"
+      - "環境負荷が低く日常使いしやすい"
     cons:
-      - "再生紙特有の若干の色味"
-      - "バージンパルプ製品と比べると肌触りで差がある場合も"
-    recommendedFor: "環境意識の高い方・エコ重視の家庭"
-    rakutenUrl: "https://example.com/placeholder/toilet-paper-d"
-    imageUrl: "/placeholder/product-4.svg"
+      - "バージンパルプ製品と比べると若干厚みが劣る場合も"
+      - "大容量のため保管スペースが必要"
+    recommendedFor: "環境を意識しつつコスパも重視したい方・まとめ買い派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bf543.ac9209e0.534bf544.a1517c70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoming%2Fjun1kyuhinrolls-recycle12rw%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://hbb.afl.rakuten.co.jp/hgb/534bf543.ac9209e0.534bf544.a1517c70/?me_id=1269408&item_id=10000440&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fcoming%2Fcabinet%2Fdaiichimoji%2Fimgrc0096851285.jpg%3F_ex%3D240x240&s=240x240&t=picttext"
 
   - rank: 5
     name: "プレミアムトイレットペーパー 3枚重ね 25m×12ロール"
