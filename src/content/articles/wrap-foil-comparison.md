@@ -31,7 +31,7 @@ products:
   - rank: 2
     name: "サランラップ 30cm×50m 3本パック"
     brand: "旭化成（サランラップ）"
-    price: 6706
+    price: 15800
     capacity: "30cm×50m×3本（150m）"
     pricePerUnit: "約7.2円/m"
     rating: 4.5
@@ -48,8 +48,8 @@ products:
       - "30cmなので小さい容器には使いにくいことも"
       - "3本で150mとクレラップより総量が少ない"
     recommendedFor: "大きな容器・食品保存にこだわる方・定番品を使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901670110180-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10067188%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic01/4901670110180.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00upj3n.3rdw6ae7.g00upj3n.3rdw77a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffansfactory%2F4901670110180-30set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffansfactory%2Fi%2F10012403%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fansfactory/cabinet/images42/805c06e52c69f51e80_1.jpg?_ex=128x128"
 
   - rank: 3
     name: "東洋アルミ アルファミュー アルミホイル 30cm×50m"
@@ -94,8 +94,8 @@ products:
       - "クレラップ・サランラップと比べて密着力が劣る"
       - "プロ向けのシンプル包装でデザイン性は低い"
     recommendedFor: "コスト最優先の方・業務・大量使用・電子レンジ加熱が多い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7dn.3rdw6546.g00un7dn.3rdw75a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsumehoudai%2F36467p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsumehoudai%2Fi%2F10000736%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsumehoudai/cabinet/lap6.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7dn.3rdw6546.g00un7dn.3rdw75a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsumehoudai%2F36467%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsumehoudai%2Fi%2F10000735%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsumehoudai/cabinet/lap5.jpg?_ex=128x128"
 
 tags:
   - ラップ
