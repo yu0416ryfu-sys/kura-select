@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kura-select.vercel.app/sitemap-index.xml
+Sitemap: https://yu0416ryfu-sys.github.io/kura-select/sitemap-index.xml
