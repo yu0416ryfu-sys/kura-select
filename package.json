@@ -10,7 +10,9 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "update-products": "node scripts/update-products.mjs",
+    "update-products:dry": "node scripts/update-products.mjs --dry-run"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.0",
