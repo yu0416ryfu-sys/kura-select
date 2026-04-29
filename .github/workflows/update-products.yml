@@ -1,0 +1,75 @@
+name: 商品データ自動更新
+
+on:
+  schedule:
+    # 毎週月曜 03:00 UTC（日本時間 12:00）
+    - cron: '0 3 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: .
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: latest
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: 依存関係インストール
+        run: pnpm install
+
+      - name: 商品データ更新
+        run: pnpm update-products
+        env:
+          RAKUTEN_APPLICATION_ID: ${{ secrets.RAKUTEN_APPLICATION_ID }}
+          RAKUTEN_ACCESS_KEY: ${{ secrets.RAKUTEN_ACCESS_KEY }}
+          PUBLIC_RAKUTEN_AFFILIATE_ID: ${{ secrets.PUBLIC_RAKUTEN_AFFILIATE_ID }}
+
+      - name: 変更を確認
+        id: check-changes
+        run: |
+          git diff --quiet src/content/articles/ || echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: 変更をコミット＆プッシュ
+        if: steps.check-changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/content/articles/
+          git commit -m "商品データを自動更新（$(date '+%Y-%m-%d')）"
+          git push
+
+      - name: デプロイワークフローをトリガー
+        if: steps.check-changes.outputs.has_changes == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'deploy.yml',
+              ref: 'main',
+            });
+
+      - name: 結果サマリー
+        run: |
+          if [ "${{ steps.check-changes.outputs.has_changes }}" = "true" ]; then
+            echo "### ✅ 商品データを更新しました" >> $GITHUB_STEP_SUMMARY
+            echo "変更をコミットし、デプロイをトリガーしました。" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "### ℹ️ 商品データに変更はありませんでした" >> $GITHUB_STEP_SUMMARY
+          fi

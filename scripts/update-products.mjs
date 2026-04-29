@@ -19,22 +19,24 @@ import { resolve, join, basename } from 'path';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 
-// ─── .env を手動パース ───────────────────────────────────────────────────────
+// ─── 環境変数を読み込み（.env またはプロセス環境変数） ─────────────────────────
 function loadEnv() {
   const envPath = resolve(process.cwd(), '.env');
-  if (!existsSync(envPath)) {
-    console.error('❌ .env ファイルが見つかりません。.env.example をコピーして .env を作成してください。');
-    process.exit(1);
+  if (existsSync(envPath)) {
+    // ローカル開発: .env ファイルからパース
+    const env = {};
+    for (const line of readFileSync(envPath, 'utf-8').split('\n')) {
+      const trimmed = line.trim();
+      if (!trimmed || trimmed.startsWith('#')) continue;
+      const eqIdx = trimmed.indexOf('=');
+      if (eqIdx === -1) continue;
+      env[trimmed.slice(0, eqIdx).trim()] = trimmed.slice(eqIdx + 1).trim();
+    }
+    return env;
   }
-  const env = {};
-  for (const line of readFileSync(envPath, 'utf-8').split('\n')) {
-    const trimmed = line.trim();
-    if (!trimmed || trimmed.startsWith('#')) continue;
-    const eqIdx = trimmed.indexOf('=');
-    if (eqIdx === -1) continue;
-    env[trimmed.slice(0, eqIdx).trim()] = trimmed.slice(eqIdx + 1).trim();
-  }
-  return env;
+  // CI環境: process.env から読み込み
+  console.log('ℹ .env ファイルが見つかりません。プロセス環境変数を使用します。');
+  return process.env;
 }
 
 const env = loadEnv();
