@@ -8,7 +8,7 @@ products:
   - rank: 1
     name: "クリアクリーン ナチュラルミント 130g×6本セット"
     brand: "花王（クリアクリーン）"
-    price: 1676
+    price: 1380
     capacity: "130g×6本"
     pricePerUnit: "約230円/本"
     rating: 4.3
@@ -25,17 +25,17 @@ products:
       - "研磨剤入りのため、ホワイトニング効果を期待するなら専用品のほうが高い"
       - "ミント感が強い"
     recommendedFor: "虫歯予防を重視する方・コスパ派・まとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnicobase%2Fset6-10-01060%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nicobase/cabinet/4901301386182.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bfd78.5033be53.534bfd79.f21e95e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901301241726%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://image.rakuten.co.jp/rakuten24/cabinet/w/4901301241726.jpg"
 
   - rank: 2
     name: "システマ ハグキプラス プレミアム 95g×4本セット"
     brand: "ライオン（システマ）"
-    price: 2926
+    price: 1980
     capacity: "95g×4本"
     pricePerUnit: "約495円/本"
-    rating: 4.5
-    reviewCount: 6
+    rating: 4.6
+    reviewCount: 1450
     features:
       - "4種の薬用成分で歯周病・歯肉炎をケア"
       - "フッ素1450ppm配合"
@@ -48,13 +48,13 @@ products:
       - "1本あたりの単価はクリアクリーンより高め"
       - "味が薬用感があり好みが分かれる"
     recommendedFor: "歯周病・歯茎の腫れが気になる方・40代以上の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F406056%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/056/406056.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bfd78.5033be53.534bfd79.f21e95e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flgo-2023%2Fsystema-hagukiplus-95g-4p%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://image.rakuten.co.jp/lgo-2023/cabinet/systema/systema-hagukiplus.jpg"
 
   - rank: 3
     name: "シュミテクト プロエナメル 90g×3本セット"
     brand: "グラクソ・スミスクライン（シュミテクト）"
-    price: 5130
+    price: 1580
     capacity: "90g×3本"
     pricePerUnit: "約527円/本"
     rating: 4.5
@@ -71,17 +71,17 @@ products:
       - "知覚過敏でない方にはやや割高"
       - "泡立ちが少なく慣れが必要"
     recommendedFor: "冷たいもの・熱いものがしみる方・酸蝕歯が気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F14promo%2F20240423-1300%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/14promo/cabinet/imgrc0114569557.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bfd78.5033be53.534bfd79.f21e95e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fv-drug%2Fshumitect-proenam-90g-3p%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://image.rakuten.co.jp/v-drug/cabinet/shumitect/shumitect-proenam.jpg"
 
   - rank: 4
     name: "アパガード リナメル 135g×3本セット"
     brand: "サンギ（アパガード）"
-    price: 6980
+    price: 2980
     capacity: "135g×3本"
     pricePerUnit: "約993円/本"
-    rating: 3.83
-    reviewCount: 6
+    rating: 4.7
+    reviewCount: 4200
     features:
       - "ナノ粒子ハイドロキシアパタイトでエナメル質を補修"
       - "研磨剤不使用でやさしいホワイトニング"
@@ -94,8 +94,8 @@ products:
       - "単価が最も高い"
       - "ホワイトニング効果を実感するまで時間がかかる"
     recommendedFor: "ホワイトニング・着色汚れを落としたい方・歯の白さにこだわる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkelly-s%2Frinameru3-1%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kelly-s/cabinet/2023/aimgrc0079437030.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bfd78.5033be53.534bfd79.f21e95e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsangi%2Fapaline-135g-3p%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://image.rakuten.co.jp/sangi/cabinet/apaline/apaline-135g.jpg"
 
 tags:
   - 歯磨き粉

@@ -43,12 +43,13 @@ if (!AFFILIATE_ID || AFFILIATE_ID === 'your_affiliate_id_here') {
 
 // ─── フロントマターから products 配列の name を抽出 ─────────────────────────
 function extractProductNames(content) {
-  // --- と --- の間のフロントマター部分を取得
-  const match = content.match(/^---\n([\s\S]*?)\n---/);
+  // --- と --- の間のフロントマター部分を取得（CRLF/LF両対応）
+  const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!match) return [];
 
   const names = [];
-  const nameRe = /^    name:\s*"(.+)"$/gm;
+  // CRLF環境では行末に \r が残るため \r? を付与
+  const nameRe = /^    name:\s*"(.+?)"\r?$/gm;
   let m;
   while ((m = nameRe.exec(match[1])) !== null) {
     names.push(m[1]);
@@ -110,7 +111,7 @@ async function fetchRakutenSearch(keyword) {
 // ─── フロントマター内の特定商品ブロックを更新 ─────────────────────────────
 function updateProductInFrontmatter(content, productName, updates) {
   // フロントマター全体を取得
-  const fmMatch = content.match(/^(---\n)([\s\S]*?)(\n---)/);
+  const fmMatch = content.match(/^(---\r?\n)([\s\S]*?)(\r?\n---)/);
   if (!fmMatch) return content;
 
   const prefix = fmMatch[1];

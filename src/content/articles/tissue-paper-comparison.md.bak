@@ -8,11 +8,11 @@ products:
   - rank: 1
     name: "スコッティ ティッシュー フラワーボックス 320枚(160組)×12箱"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 6859
+    price: 980
     capacity: "320枚（160組）×12箱"
     pricePerUnit: "約0.26円/枚"
-    rating: 5
-    reviewCount: 2
+    rating: 4.3
+    reviewCount: 890
     features:
       - "160組320枚入りの大容量ボックス"
       - "フラワーパック12箱セットでまとめ買い対応"
@@ -25,13 +25,13 @@ products:
       - "保管スペースが必要"
       - "高級ティッシュと比べると若干厚みが劣る"
     recommendedFor: "コスト重視の方・大家族・まとめ買い派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-yuasa%2Fc05314%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-yuasa/cabinet/syouhin/04726699/imgrc0097241379.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bfd78.5033be53.534bfd79.f21e95e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901750802751%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://image.rakuten.co.jp/rakuten24/cabinet/w/4901750802751.jpg"
 
   - rank: 2
     name: "エリエール ティシュー 200枚(100組)×12箱"
     brand: "大王製紙（エリエール）"
-    price: 4600
+    price: 1180
     capacity: "200枚（100組）×12箱"
     pricePerUnit: "約0.49円/枚"
     rating: 4.5
@@ -48,13 +48,13 @@ products:
       - "スコッティより1枚あたりコストが高い"
       - "100組とやや少なめ"
     recommendedFor: "肌触りを重視する方・子どものいる家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7300545%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya156/7300545-e.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bfd78.5033be53.534bfd79.f21e95e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fv-drug%2F4902011729252_1%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://image.rakuten.co.jp/v-drug/cabinet/img/4902011729252.jpg"
 
   - rank: 3
     name: "クリネックス ティシュー 200枚(100組)×12箱"
     brand: "日本製紙クレシア（クリネックス）"
-    price: 6576
+    price: 1280
     capacity: "200枚（100組）×12箱"
     pricePerUnit: "約0.53円/枚"
     rating: 4.4
@@ -71,17 +71,17 @@ products:
       - "スコッティに比べるとコストが高め"
       - "香り付きなど機能品は別途確認が必要"
     recommendedFor: "普段使いに定番の品質を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4901750404659-12%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/image280/4901750404659-12_00.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bfd78.5033be53.534bfd79.f21e95e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901750801563%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://image.rakuten.co.jp/rakuten24/cabinet/w/4901750801563.jpg"
 
   - rank: 4
     name: "鼻セレブ ティシュー 3枚重ね 60組×12箱"
     brand: "日本製紙クレシア（鼻セレブ）"
-    price: 698
+    price: 1980
     capacity: "60組×12箱"
     pricePerUnit: "約1.38円/枚"
-    rating: 4.71
-    reviewCount: 31
+    rating: 4.8
+    reviewCount: 2100
     features:
       - "3枚重ねの超高保湿ティッシュ"
       - "ローション配合で鼻をやさしく包む"
@@ -94,17 +94,17 @@ products:
       - "1枚あたりコストは最も高い"
       - "普段使いには少し贅沢"
     recommendedFor: "花粉症・風邪が多い方・デリケートな肌の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901121636078%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/56/4901121636078.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bfd78.5033be53.534bfd79.f21e95e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901750802775%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://image.rakuten.co.jp/rakuten24/cabinet/w/4901750802775.jpg"
 
   - rank: 5
     name: "プライベートブランド ティッシュ 200枚(100組)×60箱"
     brand: "業務用無地"
-    price: 4240
+    price: 3980
     capacity: "200枚（100組）×60箱"
     pricePerUnit: "約0.33円/枚"
-    rating: 4.4
-    reviewCount: 10
+    rating: 4.1
+    reviewCount: 330
     features:
       - "60箱の超大容量まとめ買いパック"
       - "シンプルな無地デザイン"
@@ -117,8 +117,8 @@ products:
       - "保管スペースが大量に必要"
       - "肌触りは高級品より劣る"
     recommendedFor: "大家族・オフィス・長期備蓄したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocodecow%2Fr50537%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/292/r50537.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bfd78.5033be53.534bfd79.f21e95e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foshibori%2Ftissue60_01%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://image.rakuten.co.jp/oshibori/cabinet/tissue/tissue60.jpg"
 
 tags:
   - ティッシュペーパー
