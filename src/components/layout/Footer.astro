@@ -1,6 +1,6 @@
 ---
 import Container from "./Container.astro";
-import { SITE } from "../../lib/site";
+import { SITE, url } from "../../lib/site";
 
 const currentYear = new Date().getFullYear();
 ---
@@ -11,7 +11,7 @@ const currentYear = new Date().getFullYear();
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
         <!-- サイト情報 -->
         <div>
-          <a href="/" class="text-[var(--color-primary)] font-bold text-lg hover:opacity-80 transition-opacity">
+          <a href={url("/")} class="text-[var(--color-primary)] font-bold text-lg hover:opacity-80 transition-opacity">
             {SITE.nameJa}
           </a>
           <p class="mt-2 text-sm text-[var(--color-text-sub)] leading-relaxed">
@@ -23,10 +23,10 @@ const currentYear = new Date().getFullYear();
         <div>
           <h3 class="font-semibold text-sm text-[var(--color-text)] mb-3">サイト情報</h3>
           <ul class="space-y-2">
-            <li><a href="/about" class="text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors">このサイトについて</a></li>
-            <li><a href="/disclaimer" class="text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors">免責事項・広告ポリシー</a></li>
-            <li><a href="/privacy" class="text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors">プライバシーポリシー</a></li>
-            <li><a href="/contact" class="text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors">お問い合わせ</a></li>
+            <li><a href={url("/about")} class="text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors">このサイトについて</a></li>
+            <li><a href={url("/disclaimer")} class="text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors">免責事項・広告ポリシー</a></li>
+            <li><a href={url("/privacy")} class="text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors">プライバシーポリシー</a></li>
+            <li><a href={url("/contact")} class="text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors">お問い合わせ</a></li>
           </ul>
         </div>
 
@@ -34,7 +34,7 @@ const currentYear = new Date().getFullYear();
         <div>
           <h3 class="font-semibold text-sm text-[var(--color-text)] mb-3">フィード</h3>
           <a
-            href="/rss.xml"
+            href={url("/rss.xml")}
             class="inline-flex items-center gap-1.5 text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors"
           >
             <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">

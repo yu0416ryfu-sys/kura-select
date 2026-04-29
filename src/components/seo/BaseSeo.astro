@@ -1,5 +1,5 @@
 ---
-import { SITE } from "../../lib/site";
+import { SITE, url } from "../../lib/site";
 
 interface Props {
   title: string;
@@ -48,4 +48,4 @@ const ogImageUrl = ogImage.startsWith("http") ? ogImage : new URL(ogImage, SITE.
 {SITE.twitterHandle && <meta name="twitter:site" content={`@${SITE.twitterHandle}`} />}
 
 <!-- RSS自動検出 -->
-<link rel="alternate" type="application/rss+xml" title={`${SITE.nameJa} RSS`} href="/rss.xml" />
+<link rel="alternate" type="application/rss+xml" title={`${SITE.nameJa} RSS`} href={url("/rss.xml")} />

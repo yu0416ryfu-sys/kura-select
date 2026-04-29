@@ -1,12 +1,12 @@
 ---
 import Container from "./Container.astro";
-import { SITE } from "../../lib/site";
+import { SITE, url } from "../../lib/site";
 
 const navItems = [
-  { label: "ホーム", href: "/" },
-  { label: "カテゴリ", href: "/#categories" },
-  { label: "記事一覧", href: "/#articles" },
-  { label: "このサイトについて", href: "/about" },
+  { label: "ホーム", href: url("/") },
+  { label: "カテゴリ", href: url("/#categories") },
+  { label: "記事一覧", href: url("/#articles") },
+  { label: "このサイトについて", href: url("/about") },
 ];
 ---
 
@@ -22,7 +22,7 @@ const navItems = [
   <Container>
     <div class="flex items-center justify-between h-16">
       <!-- ロゴ -->
-      <a href="/" class="flex items-center gap-2 text-[var(--color-primary)] font-bold text-xl hover:opacity-80 transition-opacity">
+      <a href={url("/")} class="flex items-center gap-2 text-[var(--color-primary)] font-bold text-xl hover:opacity-80 transition-opacity">
         <span class="text-2xl">🏠</span>
         <span>{SITE.nameJa}</span>
       </a>

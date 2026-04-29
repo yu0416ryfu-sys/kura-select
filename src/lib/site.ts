@@ -7,3 +7,11 @@ export const SITE = {
   twitterHandle: "",
   author: "KuraSelect編集部",
 } as const;
+
+const _base = import.meta.env.BASE_URL.replace(/\/$/, "");
+
+export function url(path: string = "/"): string {
+  if (path === "/") return `${_base}/`;
+  if (path.startsWith("/")) return `${_base}${path}`;
+  return `${_base}/${path}`;
+}

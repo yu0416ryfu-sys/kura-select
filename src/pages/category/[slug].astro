@@ -2,6 +2,7 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Container from "../../components/layout/Container.astro";
 import { getCollection } from "astro:content";
+import { url } from "../../lib/site";
 
 export async function getStaticPaths() {
   const categories = await getCollection("categories");
@@ -32,7 +33,7 @@ const { data } = category;
     <header class="mb-10">
       <nav aria-label="パンくずリスト" class="mb-4">
         <ol class="flex items-center gap-1.5 text-sm text-[var(--color-text-sub)]">
-          <li><a href="/" class="hover:text-[var(--color-primary)] transition-colors">ホーム</a></li>
+          <li><a href={url("/")} class="hover:text-[var(--color-primary)] transition-colors">ホーム</a></li>
           <li aria-hidden="true" class="text-[var(--color-border)]">/</li>
           <li class="text-[var(--color-text)] font-medium">{data.name}</li>
         </ol>
@@ -54,7 +55,7 @@ const { data } = category;
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {articles.map((article) => (
           <a
-            href={`/articles/${article.id}`}
+            href={url(`/articles/${article.id}`)}
             class="group bg-white rounded-xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all overflow-hidden focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
           >
             <div class="p-5">
