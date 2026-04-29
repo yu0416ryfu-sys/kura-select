@@ -34,6 +34,8 @@ jobs:
 
       - name: ビルド
         run: pnpm build
+        env:
+          PUBLIC_RAKUTEN_AFFILIATE_ID: ${{ secrets.PUBLIC_RAKUTEN_AFFILIATE_ID }}
 
       - uses: actions/upload-pages-artifact@v3
         with:
