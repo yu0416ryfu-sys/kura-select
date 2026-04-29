@@ -28,73 +28,70 @@ products:
     imageUrl: "https://hbb.afl.rakuten.co.jp/hgb/534bfd78.5033be53.534bfd79.f21e95e8/?me_id=1261122&item_id=11279561&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Frakuten24%2Fcabinet%2F421%2F405421.jpg%3F_ex%3D240x240&s=240x240&t=picttext"
 
   - rank: 2
-    name: "粉末洗剤 業務用 5kg"
-    brand: "サンプルブランドB"
-    price: 980
-    capacity: "5kg（約166回分）"
-    pricePerUnit: "約5.9円/回"
-    rating: 3.8
-    reviewCount: 1100
+    name: "アタック 業務用 粉末衣料用洗剤 10kg（2.5kg×4袋入）"
+    brand: "花王（Kao）"
+    price: 3580
+    capacity: "10kg（約333回分）"
+    pricePerUnit: "約10.7円/回"
+    rating: 4.59
+    reviewCount: 123
     features:
+      - "業務用大容量でコスパ最高クラス"
+      - "高活性酵素「ビックバイオ」配合"
       - "粉末タイプで高い洗浄力"
-      - "酵素配合"
-      - "まとめ買いに最適"
     pros:
-      - "1回あたりコストが最安値クラス"
-      - "洗浄力が高く頑固な汚れにも対応"
-      - "長期保存が可能"
+      - "1回あたりのコストが液体洗剤より圧倒的に安い"
+      - "花王の信頼ブランド・強力な洗浄力"
+      - "業務用品質で安定した洗い上がり"
     cons:
-      - "粉が溶け残る場合がある（冷水時）"
-      - "液体洗剤と比べて使い勝手が劣る場合も"
-    recommendedFor: "洗浄力・コスト両立を求める方・作業着など汚れが多い方"
-    rakutenUrl: "https://example.com/placeholder/laundry-b"
-    imageUrl: "/placeholder/product-2.svg"
+      - "10kg大容量で保管スペースが必要"
+      - "冷水では粉が溶け残る場合がある"
+      - "個人宅には多すぎる場合も"
+    recommendedFor: "コスト最優先の方・作業着など汚れが多い方・大家族"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bfd78.5033be53.534bfd79.f21e95e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foshibori%2Fbic10_01%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://image.rakuten.co.jp/oshibori/cabinet/02985035/03434691/05647021/imgrc0095451636.jpg"
 
   - rank: 3
-    name: "ジェルボール 洗濯洗剤 60個入"
-    brand: "サンプルブランドC"
-    price: 1480
-    capacity: "60個（60回分）"
-    pricePerUnit: "約24.7円/回"
-    rating: 4.6
-    reviewCount: 4500
+    name: "ボールド 洗濯洗剤 ジェルボール 4in1 詰め替え 65個"
+    brand: "P&G（ボールド）"
+    price: 1680
+    capacity: "65個（65回分）"
+    pricePerUnit: "約25.8円/回"
     features:
       - "計量不要のカプセルタイプ"
-      - "洗浄+柔軟+消臭の3in1"
-      - "衣類にやさしい処方"
+      - "洗浄+柔軟+香り+シワ防止の4in1"
+      - "詰め替えタイプでゴミが少ない"
     pros:
       - "計量の手間がなく使いやすい"
-      - "楽天レビューでは平均4.6点の高評価"
-      - "仕上がりが柔らかく香りが続くとの声が多い（個人差あり）"
+      - "4in1で洗濯がシンプルになる"
+      - "ボールドの豊かな香りが人気"
     cons:
       - "1回あたりのコストが高め"
       - "量を調節しにくい"
     recommendedFor: "手軽さ重視・子育て中で忙しい方"
-    rakutenUrl: "https://example.com/placeholder/laundry-c"
-    imageUrl: "/placeholder/product-3.svg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bfd78.5033be53.534bfd79.f21e95e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flgo-2023%2F4987176321565%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://image.rakuten.co.jp/lgo-2023/cabinet/imgrc0104103772.jpg"
 
   - rank: 4
-    name: "植物由来・無添加液体洗剤 2L"
-    brand: "サンプルブランドD"
+    name: "さらさ 洗濯洗剤 液体 詰め替え 超特大 1.01kg×2袋セット"
+    brand: "P&G（さらさ）"
     price: 1680
-    capacity: "2L（約66回分）"
+    capacity: "1.01kg×2袋（約66回分）"
     pricePerUnit: "約25.5円/回"
-    rating: 4.4
-    reviewCount: 760
     features:
       - "植物由来成分使用"
-      - "無香料・無着色・無蛍光剤"
+      - "無蛍光剤・無漂白剤・無着色料の無添加処方"
       - "赤ちゃんの衣類にも使用可"
     pros:
-      - "敏感肌・赤ちゃんにもやさしい処方"
-      - "環境負荷が低い"
-      - "無香料なので香りが残らない"
+      - "敏感肌・赤ちゃんにもやさしい無添加処方"
+      - "P&Gブランドで品質と安心感"
+      - "詰め替え用でゴミが少なくエコ"
     cons:
       - "頑固な汚れには追加処理が必要な場合がある"
       - "1回あたりのコストは高め"
     recommendedFor: "敏感肌・アレルギー体質の方・赤ちゃんのいる家庭"
-    rakutenUrl: "https://example.com/placeholder/laundry-d"
-    imageUrl: "/placeholder/product-4.svg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bfd78.5033be53.534bfd79.f21e95e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F568518%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://image.rakuten.co.jp/netbaby/cabinet/z518/z568518.jpg"
 
 tags:
   - 洗濯洗剤

@@ -6,73 +6,67 @@ publishedAt: 2024-11-01
 updatedAt: 2026-04-29
 products:
   - rank: 1
-    name: "まとめ買いトイレットペーパー シングル 100m×12ロール"
-    brand: "サンプルブランドA"
-    price: 698
-    capacity: "100m×12ロール"
-    pricePerUnit: "約0.58円/m"
-    rating: 4.2
-    reviewCount: 1250
+    name: "アイリス×クレシア 2倍巻き トイレットロール シングル 100m×12ロール"
+    brand: "アイリスオーヤマ×日本製紙クレシア"
+    price: 980
+    capacity: "100m×12ロール（2倍巻き）"
+    pricePerUnit: "約0.82円/m"
     features:
-      - "100mの長尺タイプ"
-      - "シングル巻きで長持ち"
-      - "芯なしタイプ"
+      - "アイリスオーヤマ×日本製紙クレシアの共同開発"
+      - "2倍巻きで長持ち・省スペース"
+      - "エンボス加工・ミシン目付きで使いやすい"
     pros:
-      - "1mあたりのコストが最安値クラス"
-      - "交換頻度が少なく手間が省ける"
-      - "芯ゴミが出ない"
+      - "2倍巻きで交換頻度が少なく手間が省ける"
+      - "省スペース設計でストックしやすい"
+      - "国内大手メーカー共同開発の信頼品質"
     cons:
+      - "標準芯より径が大きいためホルダーを選ぶ場合がある"
       - "ダブルと比べるとやや薄め"
-      - "大容量のため保管スペースが必要"
-    recommendedFor: "コスト最優先の方・一人暮らしの方"
-    rakutenUrl: "https://example.com/placeholder/toilet-paper-a"
-    imageUrl: "/placeholder/product-1.svg"
+    recommendedFor: "コスト重視の方・一人暮らし・まとめ買い派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bf543.ac9209e0.534bf544.a1517c70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F7189458%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://image.rakuten.co.jp/irisplaza-r/cabinet/11378038/imgrc0116214354.jpg"
 
   - rank: 2
-    name: "やわらか肌触りトイレットペーパー ダブル 50m×12ロール"
-    brand: "サンプルブランドB"
+    name: "エリエール トイレットティシュー ダブル 12ロール"
+    brand: "大王製紙（エリエール）"
     price: 880
-    capacity: "50m×12ロール"
-    pricePerUnit: "約1.47円/m"
-    rating: 4.5
-    reviewCount: 2100
+    capacity: "25m×12ロール（ダブル）"
+    pricePerUnit: "約2.93円/m"
     features:
-      - "2枚重ねダブルタイプ"
-      - "エンボス加工で柔らかい"
-      - "無香料・無漂白"
+      - "パルプ100%の柔らかなダブルタイプ"
+      - "エリエールブランドの高品質紙質"
+      - "日本製で安心・安全"
     pros:
-      - "肌触りがよく快適"
-      - "楽天レビューでは平均4.5点と高評価"
-      - "敏感肌の方にも使いやすい"
+      - "柔らかく使い心地がよい"
+      - "エリエールは肌触りで支持者が多いブランド"
+      - "ダブルで1枚でも十分なボリューム感"
     cons:
       - "シングルに比べてコストが高め"
       - "消費が早い"
     recommendedFor: "肌触りを重視する方・ファミリー向け"
-    rakutenUrl: "https://example.com/placeholder/toilet-paper-b"
-    imageUrl: "/placeholder/product-2.svg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bf543.ac9209e0.534bf544.a1517c70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fv-drug%2F0270030_4902011729245_1%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://shop.r10s.jp/e-yuasa/cabinet//imgrc0082356973.jpg"
 
   - rank: 3
-    name: "業務用トイレットペーパー シングル 100m×48ロール"
-    brand: "サンプルブランドC"
+    name: "スコッティ フラワーパック 2倍巻き シングル 100m×48ロール（12ロール×4パック）"
+    brand: "日本製紙クレシア（スコッティ）"
     price: 2480
-    capacity: "100m×48ロール"
+    capacity: "100m×48ロール（2倍巻き）"
     pricePerUnit: "約0.52円/m"
-    rating: 3.9
-    reviewCount: 580
     features:
-      - "業務用の大容量パック"
-      - "シングル長尺100m"
-      - "まとめ買いでさらにお得"
+      - "2倍巻き長尺シングル・花の香り付き"
+      - "48ロールの大容量まとめ買いパック"
+      - "省スペース設計で収納しやすい"
     pros:
-      - "1mあたりのコストが最安値"
-      - "長期間買い置きできる"
-      - "業務用品質で安定した品質"
+      - "1mあたりコストが最安値クラス"
+      - "まとめ買いで長期間保管できる"
+      - "スコッティブランドで品質安定"
     cons:
       - "保管スペースが必要"
       - "個人宅には多すぎる場合も"
-    recommendedFor: "大家族・まとめ買い派の方"
-    rakutenUrl: "https://example.com/placeholder/toilet-paper-c"
-    imageUrl: "/placeholder/product-3.svg"
+    recommendedFor: "大家族・まとめ買い派の方・コスト最優先の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bf543.ac9209e0.534bf544.a1517c70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7169099%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
+    imageUrl: "https://image.rakuten.co.jp/kurashikenkou/cabinet/tasya63/7169098_01.jpg"
 
   - rank: 4
     name: "再生紙トイレットペーパー ダブル 27.5m×96ロール（1パック12ロール）"
@@ -97,27 +91,24 @@ products:
     imageUrl: "https://hbb.afl.rakuten.co.jp/hgb/534bf543.ac9209e0.534bf544.a1517c70/?me_id=1269408&item_id=10000440&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fcoming%2Fcabinet%2Fdaiichimoji%2Fimgrc0096851285.jpg%3F_ex%3D240x240&s=240x240&t=picttext"
 
   - rank: 5
-    name: "プレミアムトイレットペーパー 3枚重ね 25m×12ロール"
-    brand: "サンプルブランドE"
+    name: "エリエール シャワートイレのためにつくったトイレットティシュー ダブル 25m×12ロール"
+    brand: "大王製紙（エリエール）"
     price: 1580
-    capacity: "25m×12ロール"
+    capacity: "25m×12ロール（ダブル）"
     pricePerUnit: "約5.27円/m"
-    rating: 4.7
-    reviewCount: 890
     features:
-      - "3枚重ねプレミアムタイプ"
-      - "アロエ配合でしっとり"
-      - "高級感のある風合い"
+      - "シャワートイレ専用設計・高吸水性"
+      - "吸水力2倍の特殊処方"
+      - "水に溶けやすく詰まりにくい"
     pros:
-      - "抜群の柔らかさと肌触り"
-      - "楽天レビューでは平均4.7点の高評価"
-      - "少量でも十分なボリューム感"
+      - "抜群の柔らかさと吸水力"
+      - "シャワートイレとの相性が抜群"
+      - "エリエールのプレミアムライン"
     cons:
       - "1mあたりコストは最も高い"
-      - "ロールの消費が早い"
-    recommendedFor: "品質・快適さを最優先にしたい方"
-    rakutenUrl: "https://example.com/placeholder/toilet-paper-e"
-    imageUrl: "/placeholder/product-5.svg"
+      - "消費が早め"
+    recommendedFor: "ウォシュレット使用者・品質・快適さを最優先にしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/534bf543.ac9209e0.534bf544.a1517c70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falude%2F1m9087%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
 
 tags:
   - トイレットペーパー
