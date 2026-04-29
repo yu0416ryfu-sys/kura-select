@@ -1,0 +1,58 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Container from "../components/layout/Container.astro";
+---
+
+<BaseLayout
+  title="このサイトについて"
+  description="KuraSelect（暮らセレクト）の運営方針とサイト概要をご紹介します。"
+>
+  <Container class="py-12 md:py-16 max-w-3xl">
+    <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)] mb-8">このサイトについて</h1>
+
+    <div class="space-y-8 text-[var(--color-text)] leading-relaxed">
+      <section>
+        <h2 class="text-xl font-bold mb-3">サイトの目的</h2>
+        <p>
+          KuraSelect（暮らセレクト）は、トイレットペーパーや洗濯洗剤などの日用品・消耗品を
+          コスパの観点から比較し、賢い買い物のお手伝いをすることを目的としています。
+        </p>
+        <p class="mt-3">
+          毎日使う消耗品は、選び方ひとつで年間数万円の差が生まれることもあります。
+          価格・容量・品質を客観的なデータで比較し、あなたに合った商品を見つけるお手伝いをします。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">情報の信頼性について</h2>
+        <p>
+          当サイトは以下の基準で情報を提供しています：
+        </p>
+        <ul class="list-disc list-inside space-y-1 mt-2 text-[var(--color-text-sub)]">
+          <li>価格・容量などの客観データを中心に比較</li>
+          <li>主観的な評価は「個人の感想」として明記</li>
+          <li>楽天レビューの評価を参考指標として掲載（執筆時点）</li>
+          <li>効能・効果の断定的な表現は使用しない</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">運営方針</h2>
+        <p>
+          当サイトは楽天アフィリエイトプログラムに参加しており、
+          商品リンクをクリックして購入いただいた場合、当サイトが報酬を受け取る場合があります。
+          ただし、アフィリエイト報酬の有無が記事の評価・順位に影響することはありません。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">免責事項</h2>
+        <p>
+          当サイトの情報は参考情報であり、商品の購入を推奨するものではありません。
+          最終的な購入判断はご自身でお願いします。
+          詳しくは<a href="/disclaimer" class="text-[var(--color-primary)] hover:underline">免責事項・広告ポリシー</a>をご覧ください。
+        </p>
+      </section>
+    </div>
+  </Container>
+</BaseLayout>

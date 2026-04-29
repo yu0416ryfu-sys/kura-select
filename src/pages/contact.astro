@@ -1,0 +1,40 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Container from "../components/layout/Container.astro";
+---
+
+<BaseLayout
+  title="お問い合わせ"
+  description="KuraSelect（暮らセレクト）へのお問い合わせはこちらから。"
+>
+  <Container class="py-12 md:py-16 max-w-2xl">
+    <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)] mb-4">お問い合わせ</h1>
+    <p class="text-[var(--color-text-sub)] mb-8 leading-relaxed">
+      当サイトへのご意見・ご感想・掲載内容に関するお問い合わせは、
+      以下のメールアドレスまでご連絡ください。
+    </p>
+
+    <div class="bg-[var(--color-surface)] rounded-xl p-6 border border-[var(--color-border)]">
+      <h2 class="font-semibold text-[var(--color-text)] mb-3">メールアドレス</h2>
+      <!-- スパム対策: HTMLエンティティでエンコード -->
+      <p class="text-[var(--color-text)]">
+        <a
+          href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#107;&#117;&#114;&#97;&#45;&#115;&#101;&#108;&#101;&#99;&#116;&#46;&#101;&#120;&#97;&#109;&#112;&#108;&#101;&#46;&#99;&#111;&#109;"
+          class="text-[var(--color-primary)] hover:underline focus-visible:ring-2 focus-visible:ring-[var(--color-primary)]"
+        >
+          &#105;&#110;&#102;&#111;&#64;&#107;&#117;&#114;&#97;&#45;&#115;&#101;&#108;&#101;&#99;&#116;&#46;&#101;&#120;&#97;&#109;&#112;&#108;&#101;&#46;&#99;&#111;&#109;
+        </a>
+      </p>
+      <!-- TODO: 上記メールアドレスを実際のアドレスに変更してください -->
+    </div>
+
+    <div class="mt-6 p-4 bg-sky-50 rounded-xl border border-sky-100">
+      <h3 class="font-semibold text-sky-700 mb-2 text-sm">お問い合わせの際のお願い</h3>
+      <ul class="text-sm text-sky-800 space-y-1 list-disc list-inside">
+        <li>お名前と件名を記載してください</li>
+        <li>掲載内容に関するご指摘は、記事URLをお知らせください</li>
+        <li>返信まで数日かかる場合があります</li>
+      </ul>
+    </div>
+  </Container>
+</BaseLayout>

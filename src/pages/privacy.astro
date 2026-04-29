@@ -1,0 +1,74 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Container from "../components/layout/Container.astro";
+---
+
+<BaseLayout
+  title="プライバシーポリシー"
+  description="KuraSelect（暮らセレクト）のプライバシーポリシーです。"
+>
+  <Container class="py-12 md:py-16 max-w-3xl">
+    <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)] mb-2">プライバシーポリシー</h1>
+    <p class="text-sm text-[var(--color-text-sub)] mb-8">最終更新日: 2024年11月1日</p>
+
+    <div class="space-y-8 text-[var(--color-text)] leading-relaxed">
+      <!-- TODO: サイト運営者の名前・連絡先を記入してください -->
+      <section>
+        <h2 class="text-xl font-bold mb-3">1. 基本方針</h2>
+        <p>
+          KuraSelect（以下「当サイト」）は、ユーザーの個人情報の重要性を認識し、
+          適切に保護することを基本方針とします。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">2. 収集する情報</h2>
+        <p>当サイトは以下の情報を収集する場合があります：</p>
+        <ul class="list-disc list-inside space-y-1 mt-2 text-[var(--color-text-sub)]">
+          <li>アクセスログ（IPアドレス、ブラウザ種類、参照URL等）</li>
+          <!-- TODO: Googleアナリティクスを使用する場合は以下を有効化 -->
+          <!-- <li>Google アナリティクスによるアクセス解析データ（匿名）</li> -->
+          <li>お問い合わせフォームからご連絡いただいた情報</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">3. Cookieについて</h2>
+        <p>
+          当サイトはCookieを使用する場合があります。
+          ブラウザの設定でCookieを無効にすることができますが、
+          一部の機能が利用できなくなる場合があります。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">4. 楽天アフィリエイト</h2>
+        <p>
+          当サイトは楽天アフィリエイトプログラムに参加しており、
+          楽天市場へのリンクをクリックした場合、楽天がCookieを使用して
+          購入を追跡する場合があります。
+          詳しくは<a href="https://affiliate.rakuten.co.jp/" class="text-[var(--color-primary)] hover:underline" rel="noopener noreferrer" target="_blank">楽天アフィリエイト</a>の規約をご確認ください。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">5. 個人情報の管理</h2>
+        <p>
+          収集した個人情報は適切に管理し、以下の場合を除き第三者に提供しません：
+        </p>
+        <ul class="list-disc list-inside space-y-1 mt-2 text-[var(--color-text-sub)]">
+          <li>法令に基づく場合</li>
+          <li>人命・財産の保護に必要な場合</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">6. お問い合わせ</h2>
+        <!-- TODO: お問い合わせ先を記入してください -->
+        <p>
+          プライバシーポリシーに関するお問い合わせは、<a href="/contact" class="text-[var(--color-primary)] hover:underline">お問い合わせページ</a>からご連絡ください。
+        </p>
+      </section>
+    </div>
+  </Container>
+</BaseLayout>

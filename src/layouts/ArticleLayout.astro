@@ -1,0 +1,169 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import Container from "../components/layout/Container.astro";
+import JsonLd from "../components/seo/JsonLd.astro";
+import ComparisonTable from "../components/product/ComparisonTable.astro";
+import ProductCard from "../components/product/ProductCard.astro";
+import { SITE } from "../lib/site";
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  article: CollectionEntry<"articles">;
+  categoryName: string;
+  categorySlug: string;
+  relatedArticles: CollectionEntry<"articles">[];
+}
+
+const { article, categoryName, categorySlug, relatedArticles } = Astro.props;
+const { data } = article;
+
+const articleJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: data.title,
+  description: data.description,
+  datePublished: data.publishedAt.toISOString(),
+  dateModified: (data.updatedAt ?? data.publishedAt).toISOString(),
+  author: { "@type": "Organization", name: SITE.author },
+  publisher: { "@type": "Organization", name: SITE.nameJa },
+  image: data.heroImage ? String(data.heroImage) : `${SITE.url}${SITE.ogImage}`,
+  url: `${SITE.url}/articles/${article.id}`,
+};
+
+const breadcrumbJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "ホーム", item: SITE.url },
+    { "@type": "ListItem", position: 2, name: categoryName, item: `${SITE.url}/category/${categorySlug}` },
+    { "@type": "ListItem", position: 3, name: data.title, item: `${SITE.url}/articles/${article.id}` },
+  ],
+};
+
+const productJsonLds = data.products
+  .filter((p) => p.rating !== undefined)
+  .map((p) => ({
+    "@context": "https://schema.org",
+    "@type": "Product",
+    name: p.name,
+    brand: { "@type": "Brand", name: p.brand },
+    offers: {
+      "@type": "Offer",
+      priceCurrency: "JPY",
+      price: p.price,
+      availability: "https://schema.org/InStock",
+    },
+    aggregateRating: p.rating !== undefined ? {
+      "@type": "AggregateRating",
+      ratingValue: p.rating,
+      reviewCount: p.reviewCount ?? 1,
+      bestRating: 5,
+      worstRating: 1,
+    } : undefined,
+  }));
+---
+
+<BaseLayout
+  title={data.title}
+  description={data.description}
+>
+  <Fragment slot="head">
+    <JsonLd data={articleJsonLd} />
+    <JsonLd data={breadcrumbJsonLd} />
+    {productJsonLds.map((ld) => <JsonLd data={ld} />)}
+  </Fragment>
+
+  <Container class="py-8 md:py-12">
+    <!-- パンくずリスト -->
+    <nav aria-label="パンくずリスト" class="mb-6">
+      <ol class="flex items-center gap-1.5 text-sm text-[var(--color-text-sub)] flex-wrap">
+        <li><a href="/" class="hover:text-[var(--color-primary)] transition-colors">ホーム</a></li>
+        <li aria-hidden="true" class="text-[var(--color-border)]">/</li>
+        <li><a href={`/category/${categorySlug}`} class="hover:text-[var(--color-primary)] transition-colors">{categoryName}</a></li>
+        <li aria-hidden="true" class="text-[var(--color-border)]">/</li>
+        <li class="text-[var(--color-text)] font-medium truncate max-w-xs">{data.title}</li>
+      </ol>
+    </nav>
+
+    <div class="lg:grid lg:grid-cols-[1fr_280px] lg:gap-10">
+      <!-- メインコンテンツ -->
+      <article>
+        <!-- 記事ヘッダー -->
+        <header class="mb-8">
+          <div class="flex items-center gap-2 mb-3">
+            <a
+              href={`/category/${categorySlug}`}
+              class="inline-block bg-sky-100 text-sky-700 text-xs font-medium px-2.5 py-0.5 rounded-full hover:bg-sky-200 transition-colors"
+            >
+              {categoryName}
+            </a>
+          </div>
+          <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)] leading-tight mb-4">
+            {data.title}
+          </h1>
+          <div class="flex items-center gap-4 text-sm text-[var(--color-text-sub)]">
+            <time datetime={data.publishedAt.toISOString()}>
+              公開: {data.publishedAt.toLocaleDateString("ja-JP")}
+            </time>
+            {data.updatedAt && (
+              <time datetime={data.updatedAt.toISOString()}>
+                更新: {data.updatedAt.toLocaleDateString("ja-JP")}
+              </time>
+            )}
+          </div>
+        </header>
+
+        <!-- 比較表 -->
+        <section aria-label="商品比較表">
+          <ComparisonTable products={data.products} caption={`${data.title} 比較表`} />
+        </section>
+
+        <!-- 記事本文 -->
+        <div class="prose prose-slate max-w-none mt-8 [&_h2]:text-xl [&_h2]:font-bold [&_h2]:mt-8 [&_h2]:mb-4 [&_h3]:text-lg [&_h3]:font-semibold [&_h3]:mt-6 [&_h3]:mb-3 [&_p]:mb-4 [&_ul]:mb-4 [&_li]:mb-1 [&_table]:w-full [&_table]:text-sm [&_th]:bg-[var(--color-surface)] [&_th]:px-3 [&_th]:py-2 [&_td]:px-3 [&_td]:py-2 [&_td]:border-b [&_td]:border-[var(--color-border)]">
+          <slot />
+        </div>
+
+        <!-- 商品詳細セクション -->
+        <section aria-label="商品詳細" class="mt-10">
+          <h2 class="text-xl font-bold mb-6">各商品の詳細</h2>
+          <div class="space-y-6">
+            {data.products.map((product) => (
+              <ProductCard product={product} />
+            ))}
+          </div>
+        </section>
+
+        <!-- アフィリエイト表記 -->
+        <div class="mt-10 p-4 bg-amber-50 rounded-xl border border-amber-200 text-sm text-amber-800">
+          <p class="font-semibold mb-1">広告・免責事項</p>
+          <p>当サイトのリンクには楽天アフィリエイトを含みます。商品購入により当サイトが報酬を得る場合があります。掲載価格は執筆時点のものです。最新価格は楽天市場でご確認ください。</p>
+        </div>
+      </article>
+
+      <!-- サイドバー -->
+      <aside>
+        <!-- 関連記事 -->
+        {relatedArticles.length > 0 && (
+          <div class="mt-8 lg:mt-0 bg-[var(--color-surface)] rounded-xl p-5 border border-[var(--color-border)]">
+            <h2 class="font-bold text-[var(--color-text)] mb-4">関連記事</h2>
+            <ul class="space-y-3">
+              {relatedArticles.slice(0, 3).map((a) => (
+                <li>
+                  <a
+                    href={`/articles/${a.id}`}
+                    class="block hover:text-[var(--color-primary)] transition-colors"
+                  >
+                    <span class="text-sm font-medium leading-snug">{a.data.title}</span>
+                    <span class="block text-xs text-[var(--color-text-sub)] mt-0.5">
+                      {a.data.publishedAt.toLocaleDateString("ja-JP")}
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </aside>
+    </div>
+  </Container>
+</BaseLayout>

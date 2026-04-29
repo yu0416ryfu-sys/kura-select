@@ -1,0 +1,88 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Container from "../../components/layout/Container.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const categories = await getCollection("categories");
+  const articles = await getCollection("articles");
+
+  return categories.map((cat) => {
+    const catArticles = articles
+      .filter((a) => !a.data.draft && a.data.category.id === cat.id)
+      .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+
+    return {
+      params: { slug: cat.data.slug },
+      props: { category: cat, articles: catArticles },
+    };
+  });
+}
+
+const { category, articles } = Astro.props;
+const { data } = category;
+---
+
+<BaseLayout
+  title={`${data.name}のコスパ比較 | 暮らセレクト`}
+  description={data.description}
+>
+  <Container class="py-10 md:py-14">
+    <!-- ヘッダー -->
+    <header class="mb-10">
+      <nav aria-label="パンくずリスト" class="mb-4">
+        <ol class="flex items-center gap-1.5 text-sm text-[var(--color-text-sub)]">
+          <li><a href="/" class="hover:text-[var(--color-primary)] transition-colors">ホーム</a></li>
+          <li aria-hidden="true" class="text-[var(--color-border)]">/</li>
+          <li class="text-[var(--color-text)] font-medium">{data.name}</li>
+        </ol>
+      </nav>
+
+      <div class="flex items-center gap-4">
+        {data.icon && <span class="text-4xl" aria-hidden="true">{data.icon}</span>}
+        <div>
+          <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)]">
+            {data.name}
+          </h1>
+          <p class="text-[var(--color-text-sub)] mt-1">{data.description}</p>
+        </div>
+      </div>
+    </header>
+
+    <!-- 記事一覧 -->
+    {articles.length > 0 ? (
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {articles.map((article) => (
+          <a
+            href={`/articles/${article.id}`}
+            class="group bg-white rounded-xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all overflow-hidden focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+          >
+            <div class="p-5">
+              <h2 class="font-bold text-[var(--color-text)] leading-snug group-hover:text-[var(--color-primary)] transition-colors line-clamp-2">
+                {article.data.title}
+              </h2>
+              <p class="text-sm text-[var(--color-text-sub)] mt-2 line-clamp-3 leading-relaxed">
+                {article.data.description}
+              </p>
+              <div class="flex items-center justify-between mt-4">
+                <time
+                  datetime={article.data.publishedAt.toISOString()}
+                  class="text-xs text-[var(--color-text-sub)]"
+                >
+                  {article.data.publishedAt.toLocaleDateString("ja-JP")}
+                </time>
+                <span class="text-xs text-[var(--color-primary)] font-medium">
+                  {article.data.products.length}商品を比較 →
+                </span>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-20 text-[var(--color-text-sub)]">
+        <p>このカテゴリの記事は準備中です。</p>
+      </div>
+    )}
+  </Container>
+</BaseLayout>

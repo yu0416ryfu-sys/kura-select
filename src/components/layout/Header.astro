@@ -1,0 +1,84 @@
+---
+import Container from "./Container.astro";
+import { SITE } from "../../lib/site";
+
+const navItems = [
+  { label: "ホーム", href: "/" },
+  { label: "カテゴリ", href: "/#categories" },
+  { label: "記事一覧", href: "/#articles" },
+  { label: "このサイトについて", href: "/about" },
+];
+---
+
+<header class="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-[var(--color-border)] shadow-sm">
+  <!-- メインコンテンツへスキップ -->
+  <a
+    href="#main-content"
+    class="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 bg-[var(--color-primary)] text-white px-4 py-2 rounded-lg z-50"
+  >
+    メインコンテンツへスキップ
+  </a>
+
+  <Container>
+    <div class="flex items-center justify-between h-16">
+      <!-- ロゴ -->
+      <a href="/" class="flex items-center gap-2 text-[var(--color-primary)] font-bold text-xl hover:opacity-80 transition-opacity">
+        <span class="text-2xl">🏠</span>
+        <span>{SITE.nameJa}</span>
+      </a>
+
+      <!-- デスクトップナビ -->
+      <nav class="hidden md:flex items-center gap-6" aria-label="メインナビゲーション">
+        {navItems.map((item) => (
+          <a
+            href={item.href}
+            class="text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors text-sm font-medium"
+          >
+            {item.label}
+          </a>
+        ))}
+      </nav>
+
+      <!-- ハンバーガーメニュー(モバイル) -->
+      <button
+        id="hamburger-btn"
+        class="md:hidden flex flex-col gap-1.5 p-2 rounded-lg hover:bg-[var(--color-surface)] transition-colors"
+        aria-expanded="false"
+        aria-controls="mobile-menu"
+        aria-label="メニューを開く"
+      >
+        <span class="w-6 h-0.5 bg-[var(--color-text)] block transition-all"></span>
+        <span class="w-6 h-0.5 bg-[var(--color-text)] block transition-all"></span>
+        <span class="w-6 h-0.5 bg-[var(--color-text)] block transition-all"></span>
+      </button>
+    </div>
+  </Container>
+
+  <!-- モバイルメニュー -->
+  <div id="mobile-menu" class="hidden md:hidden border-t border-[var(--color-border)]" role="navigation" aria-label="モバイルナビゲーション">
+    <Container>
+      <nav class="py-4 flex flex-col gap-1">
+        {navItems.map((item) => (
+          <a
+            href={item.href}
+            class="py-2 px-3 text-[var(--color-text-sub)] hover:text-[var(--color-primary)] hover:bg-[var(--color-surface)] rounded-lg transition-colors"
+          >
+            {item.label}
+          </a>
+        ))}
+      </nav>
+    </Container>
+  </div>
+</header>
+
+<script>
+  const btn = document.getElementById("hamburger-btn");
+  const menu = document.getElementById("mobile-menu");
+
+  btn?.addEventListener("click", () => {
+    const isExpanded = btn.getAttribute("aria-expanded") === "true";
+    btn.setAttribute("aria-expanded", String(!isExpanded));
+    menu?.classList.toggle("hidden");
+    btn.setAttribute("aria-label", isExpanded ? "メニューを開く" : "メニューを閉じる");
+  });
+</script>

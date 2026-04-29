@@ -1,0 +1,30 @@
+---
+import ComparisonTableSort from "./ComparisonTableSort.tsx";
+
+interface Product {
+  rank: number;
+  name: string;
+  brand: string;
+  price: number;
+  capacity: string;
+  pricePerUnit?: string;
+  rating?: number;
+  reviewCount?: number;
+  rakutenUrl: string;
+  imageUrl?: string;
+}
+
+interface Props {
+  products: Product[];
+  caption?: string;
+}
+
+const { products, caption = "商品比較表" } = Astro.props;
+---
+
+<div class="my-8">
+  <p class="text-xs text-[var(--color-text-sub)] mb-2">
+    ※ 掲載価格は執筆時点のものです。最新価格は楽天市場でご確認ください。
+  </p>
+  <ComparisonTableSort products={products} caption={caption} client:visible />
+</div>

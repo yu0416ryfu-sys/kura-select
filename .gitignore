@@ -1,0 +1,27 @@
+# 依存関係
+node_modules/
+.pnpm-store/
+
+# ビルド出力
+dist/
+.astro/
+
+# 環境変数
+.env
+.env.local
+.env.*.local
+
+# エディタ
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ログ
+*.log
+npm-debug.log*
+pnpm-debug.log*

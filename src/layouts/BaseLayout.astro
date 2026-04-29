@@ -1,0 +1,38 @@
+---
+import Header from "../components/layout/Header.astro";
+import Footer from "../components/layout/Footer.astro";
+import BaseSeo from "../components/seo/BaseSeo.astro";
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+  ogImage?: string;
+  canonical?: string;
+  noindex?: boolean;
+}
+
+const { title, description, ogImage, canonical, noindex } = Astro.props;
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <BaseSeo
+      title={title}
+      description={description}
+      ogImage={ogImage}
+      canonical={canonical}
+      noindex={noindex}
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <slot name="head" />
+  </head>
+  <body class="min-h-screen flex flex-col bg-[var(--color-bg)]">
+    <Header />
+    <main id="main-content" class="flex-1">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

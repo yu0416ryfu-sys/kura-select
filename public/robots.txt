@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kura-select.vercel.app/sitemap-index.xml

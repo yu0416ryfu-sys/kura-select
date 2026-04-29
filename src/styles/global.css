@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #ffffff;
+  --color-surface: #f8fafc;
+  --color-border: #e2e8f0;
+  --color-text: #0f172a;
+  --color-text-sub: #475569;
+  --color-primary: #0ea5e9;
+  --color-accent: #10b981;
+  --color-warning: #f59e0b;
+
+  --font-sans: "Hiragino Sans", "Noto Sans JP", system-ui, sans-serif;
+
+  --line-height-body: 1.8;
+  --line-height-heading: 1.4;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: var(--color-text);
+    background-color: var(--color-bg);
+    font-size: 16px;
+  }
+
+  @media (min-width: 768px) {
+    html {
+      font-size: 17px;
+    }
+  }
+
+  body {
+    line-height: var(--line-height-body);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    line-height: var(--line-height-heading);
+    font-weight: 700;
+  }
+
+  /* フォーカスリング */
+  :focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  /* フォント最適化 */
+  @font-face {
+    font-family: "Noto Sans JP";
+    font-style: normal;
+    font-display: swap;
+  }
+}

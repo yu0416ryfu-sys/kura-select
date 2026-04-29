@@ -1,0 +1,61 @@
+---
+import Container from "./Container.astro";
+import { SITE } from "../../lib/site";
+
+const currentYear = new Date().getFullYear();
+---
+
+<footer class="bg-[var(--color-surface)] border-t border-[var(--color-border)] mt-20">
+  <Container>
+    <div class="py-12">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+        <!-- サイト情報 -->
+        <div>
+          <a href="/" class="text-[var(--color-primary)] font-bold text-lg hover:opacity-80 transition-opacity">
+            {SITE.nameJa}
+          </a>
+          <p class="mt-2 text-sm text-[var(--color-text-sub)] leading-relaxed">
+            日用品・消耗品のコスパ比較サイト。<br />毎日使うものをお得に選ぶお手伝い。
+          </p>
+        </div>
+
+        <!-- リンク -->
+        <div>
+          <h3 class="font-semibold text-sm text-[var(--color-text)] mb-3">サイト情報</h3>
+          <ul class="space-y-2">
+            <li><a href="/about" class="text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors">このサイトについて</a></li>
+            <li><a href="/disclaimer" class="text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors">免責事項・広告ポリシー</a></li>
+            <li><a href="/privacy" class="text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors">プライバシーポリシー</a></li>
+            <li><a href="/contact" class="text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors">お問い合わせ</a></li>
+          </ul>
+        </div>
+
+        <!-- RSS/アフィリエイト表記 -->
+        <div>
+          <h3 class="font-semibold text-sm text-[var(--color-text)] mb-3">フィード</h3>
+          <a
+            href="/rss.xml"
+            class="inline-flex items-center gap-1.5 text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors"
+          >
+            <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/>
+            </svg>
+            RSSフィード
+          </a>
+
+          <div class="mt-4 p-3 bg-amber-50 rounded-lg border border-amber-200">
+            <p class="text-xs text-amber-800">
+              当サイトのリンクには楽天アフィリエイトを含みます。商品購入により当サイトが報酬を得る場合があります。
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pt-6 border-t border-[var(--color-border)] text-center">
+        <p class="text-xs text-[var(--color-text-sub)]">
+          &copy; {currentYear} {SITE.nameJa}. All rights reserved.
+        </p>
+      </div>
+    </div>
+  </Container>
+</footer>

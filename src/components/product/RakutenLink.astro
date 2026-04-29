@@ -1,0 +1,55 @@
+---
+interface Props {
+  href: string;
+  label?: string;
+  variant?: "primary" | "outline";
+  size?: "sm" | "md" | "lg";
+  productName?: string;
+}
+
+const {
+  href,
+  label = "楽天市場で見る",
+  variant = "primary",
+  size = "md",
+  productName,
+} = Astro.props;
+
+const ariaLabel = productName
+  ? `${productName}を楽天市場で見る（別タブで開く）`
+  : `${label}（別タブで開く）`;
+
+const sizeClasses = {
+  sm: "px-4 py-2 text-sm min-h-[36px]",
+  md: "px-6 py-2.5 text-sm min-h-[44px]",
+  lg: "px-8 py-3 text-base min-h-[52px]",
+};
+
+const variantClasses = {
+  primary:
+    "bg-[var(--color-warning)] text-white hover:opacity-90 shadow-sm hover:shadow-md",
+  outline:
+    "border-2 border-[var(--color-warning)] text-[var(--color-warning)] hover:bg-amber-50",
+};
+
+// GA4クリックイベント送信フック（実装時は以下のdata属性を活用）
+// data-ga-event="click_rakuten_link" data-ga-product={productName}
+---
+
+<a
+  href={href}
+  rel="sponsored nofollow noopener"
+  target="_blank"
+  aria-label={ariaLabel}
+  class={`inline-flex items-center justify-center gap-2 rounded-lg font-semibold transition-all focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2 ${sizeClasses[size]} ${variantClasses[variant]}`}
+  data-ga-event="click_rakuten_link"
+  data-ga-product={productName}
+>
+  <svg class="w-4 h-4 shrink-0" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/>
+  </svg>
+  {label}
+  <svg class="w-3.5 h-3.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+  </svg>
+</a>

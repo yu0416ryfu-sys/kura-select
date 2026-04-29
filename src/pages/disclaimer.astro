@@ -1,0 +1,76 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Container from "../components/layout/Container.astro";
+---
+
+<BaseLayout
+  title="免責事項・広告ポリシー"
+  description="KuraSelect（暮らセレクト）の免責事項と広告ポリシーです。"
+>
+  <Container class="py-12 md:py-16 max-w-3xl">
+    <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)] mb-2">免責事項・広告ポリシー</h1>
+    <p class="text-sm text-[var(--color-text-sub)] mb-8">最終更新日: 2024年11月1日</p>
+
+    <!-- アフィリエイト表記(重要) -->
+    <div class="bg-amber-50 border border-amber-300 rounded-xl p-5 mb-10">
+      <h2 class="font-bold text-amber-800 mb-2">広告・アフィリエイトについて</h2>
+      <p class="text-amber-800 text-sm leading-relaxed">
+        当サイトは<strong>楽天アフィリエイトプログラムに参加しています</strong>。
+        当サイトに掲載の商品リンクをクリックし、楽天市場で購入いただいた場合、
+        当サイトが報酬を得る場合があります。
+        ただし、アフィリエイト報酬の有無が記事内の評価・掲載順位に影響することはありません。
+      </p>
+    </div>
+
+    <div class="space-y-8 text-[var(--color-text)] leading-relaxed">
+      <section>
+        <h2 class="text-xl font-bold mb-3">免責事項</h2>
+        <p>
+          当サイト（KuraSelect / 暮らセレクト）に掲載する情報は、
+          執筆時点での情報を基にしており、正確性・完全性を保証するものではありません。
+        </p>
+        <p class="mt-3">
+          当サイトの情報を利用した結果生じたいかなる損害についても、
+          当サイトは責任を負いません。最終的な商品の購入判断はご自身でお願いします。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">価格・情報の正確性について</h2>
+        <ul class="list-disc list-inside space-y-2 text-[var(--color-text-sub)]">
+          <li>掲載価格は執筆時点のものであり、予告なく変更される場合があります</li>
+          <li>最新の価格・在庫情報は各販売ページでご確認ください</li>
+          <li>楽天レビューの評価は掲載時点のものです</li>
+          <li>商品の仕様・内容量は変更される場合があります</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">コンテンツポリシー</h2>
+        <p>当サイトは以下のポリシーに基づいてコンテンツを作成しています：</p>
+        <ul class="list-disc list-inside space-y-2 mt-2 text-[var(--color-text-sub)]">
+          <li>薬機法・景品表示法を遵守し、効能効果の断定的な表現は使用しません</li>
+          <li>「最強」「No.1」などの根拠のない誇張表現は使用しません</li>
+          <li>価格・容量などの客観データを比較の中心に置きます</li>
+          <li>主観的な意見は「〜という声が多い」等、出典・主観を明示します</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">著作権</h2>
+        <p>
+          当サイトに掲載のテキスト・画像・デザイン等の著作権は当サイトに帰属します。
+          無断転載・複製はお断りします。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">リンクについて</h2>
+        <p>
+          当サイトへのリンクは自由です。ただし、フレーム内表示等の特殊な方法でのリンクはお断りします。
+          当サイトから外部サイトへのリンクについて、リンク先の内容に責任を負いません。
+        </p>
+      </section>
+    </div>
+  </Container>
+</BaseLayout>

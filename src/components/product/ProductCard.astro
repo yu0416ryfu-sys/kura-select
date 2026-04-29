@@ -1,0 +1,153 @@
+---
+import RakutenLink from "./RakutenLink.astro";
+
+interface Product {
+  rank: number;
+  name: string;
+  brand: string;
+  price: number;
+  capacity: string;
+  pricePerUnit?: string;
+  rating?: number;
+  reviewCount?: number;
+  features: string[];
+  pros: string[];
+  cons: string[];
+  recommendedFor: string;
+  rakutenUrl: string;
+  imageUrl?: string;
+}
+
+interface Props {
+  product: Product;
+}
+
+const { product } = Astro.props;
+
+const rankColors: Record<number, string> = {
+  1: "bg-amber-400 text-white",
+  2: "bg-slate-400 text-white",
+  3: "bg-amber-600 text-white",
+};
+const rankColor = rankColors[product.rank] ?? "bg-[var(--color-surface)] text-[var(--color-text-sub)]";
+---
+
+<article class="bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow border border-[var(--color-border)] overflow-hidden">
+  <!-- ヘッダー部 -->
+  <div class="flex items-start gap-4 p-5 border-b border-[var(--color-border)]">
+    <!-- 順位バッジ -->
+    <div class={`shrink-0 w-10 h-10 rounded-full flex items-center justify-center font-bold text-lg ${rankColor}`}>
+      {product.rank}
+    </div>
+
+    <!-- 商品画像 -->
+    <div class="shrink-0 w-20 h-20 rounded-lg overflow-hidden bg-[var(--color-surface)] border border-[var(--color-border)]">
+      <img
+        src={product.imageUrl ?? "/placeholder/product-default.svg"}
+        alt={`${product.name}の商品画像`}
+        width="80"
+        height="80"
+        class="w-full h-full object-contain"
+        loading="lazy"
+      />
+    </div>
+
+    <!-- 商品情報 -->
+    <div class="flex-1 min-w-0">
+      <p class="text-xs text-[var(--color-text-sub)] mb-1">{product.brand}</p>
+      <h3 class="font-bold text-[var(--color-text)] leading-tight line-clamp-2">{product.name}</h3>
+
+      {product.rating !== undefined && (
+        <div class="flex items-center gap-1.5 mt-1.5">
+          <div class="flex" aria-label={`評価 ${product.rating}点`}>
+            {Array.from({ length: 5 }, (_, i) => (
+              <svg
+                class={`w-3.5 h-3.5 ${i < Math.round(product.rating!) ? "text-[var(--color-warning)]" : "text-gray-300"}`}
+                fill="currentColor"
+                viewBox="0 0 20 20"
+                aria-hidden="true"
+              >
+                <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+              </svg>
+            ))}
+          </div>
+          <span class="text-xs text-[var(--color-text-sub)]">
+            {product.rating.toFixed(1)}
+            {product.reviewCount !== undefined && `（${product.reviewCount.toLocaleString()}件）`}
+          </span>
+        </div>
+      )}
+    </div>
+  </div>
+
+  <!-- 価格・容量 -->
+  <div class="px-5 py-3 bg-[var(--color-surface)] flex items-baseline gap-4 flex-wrap">
+    <div>
+      <span class="text-xs text-[var(--color-text-sub)]">価格</span>
+      <span class="ml-1 text-xl font-bold text-[var(--color-text)]">¥{product.price.toLocaleString()}</span>
+    </div>
+    <div>
+      <span class="text-xs text-[var(--color-text-sub)]">容量</span>
+      <span class="ml-1 text-sm font-medium">{product.capacity}</span>
+    </div>
+    {product.pricePerUnit && (
+      <div class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium">
+        {product.pricePerUnit}
+      </div>
+    )}
+  </div>
+
+  <!-- 詳細 -->
+  <div class="p-5 space-y-4">
+    <!-- 特徴 -->
+    <div>
+      <h4 class="text-xs font-semibold text-[var(--color-text-sub)] uppercase tracking-wide mb-2">特徴</h4>
+      <ul class="flex flex-wrap gap-1.5">
+        {product.features.map((f) => (
+          <li class="text-xs bg-sky-50 text-sky-700 px-2 py-0.5 rounded-full border border-sky-200">{f}</li>
+        ))}
+      </ul>
+    </div>
+
+    <!-- Pros/Cons -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+      <div>
+        <h4 class="text-xs font-semibold text-green-600 mb-1.5">メリット</h4>
+        <ul class="space-y-1">
+          {product.pros.map((p) => (
+            <li class="flex items-start gap-1.5 text-xs text-[var(--color-text)]">
+              <span class="text-green-500 mt-0.5 shrink-0">✓</span>
+              {p}
+            </li>
+          ))}
+        </ul>
+      </div>
+      <div>
+        <h4 class="text-xs font-semibold text-red-500 mb-1.5">デメリット</h4>
+        <ul class="space-y-1">
+          {product.cons.map((c) => (
+            <li class="flex items-start gap-1.5 text-xs text-[var(--color-text)]">
+              <span class="text-red-400 mt-0.5 shrink-0">✕</span>
+              {c}
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    <!-- おすすめ -->
+    <div class="bg-sky-50 rounded-lg px-3 py-2 border border-sky-100">
+      <span class="text-xs font-semibold text-sky-700">こんな方におすすめ: </span>
+      <span class="text-xs text-[var(--color-text)]">{product.recommendedFor}</span>
+    </div>
+
+    <!-- 楽天ボタン -->
+    <div class="pt-1">
+      <RakutenLink
+        href={product.rakutenUrl}
+        productName={product.name}
+        size="md"
+      />
+    </div>
+  </div>
+</article>
