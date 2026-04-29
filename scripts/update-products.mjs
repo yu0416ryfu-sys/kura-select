@@ -1,6 +1,10 @@
 /**
- * 楽天検索ページから実際の商品データを取得して、記事のフロントマターを更新するスクリプト
- * APIキー不要。楽天の公開検索ページから JSON-LD 構造化データを取得する。
+ * 楽天商品検索APIを使って商品データを取得し、記事のフロントマターを更新するスクリプト
+ *
+ * 必要な環境変数（.env に設定）:
+ *   RAKUTEN_APPLICATION_ID  — 楽天 Web Service アプリID
+ *   RAKUTEN_ACCESS_KEY      — 楽天 Web Service アクセスキー
+ *   PUBLIC_RAKUTEN_AFFILIATE_ID — 楽天アフィリエイトID（アフィリエイトURL生成用）
  *
  * 使い方:
  *   node scripts/update-products.mjs
@@ -34,8 +38,18 @@ function loadEnv() {
 }
 
 const env = loadEnv();
+const APPLICATION_ID = env.RAKUTEN_APPLICATION_ID;
+const ACCESS_KEY = env.RAKUTEN_ACCESS_KEY;
 const AFFILIATE_ID = env.PUBLIC_RAKUTEN_AFFILIATE_ID;
 
+if (!APPLICATION_ID) {
+  console.error('❌ RAKUTEN_APPLICATION_ID が .env に設定されていません');
+  process.exit(1);
+}
+if (!ACCESS_KEY) {
+  console.error('❌ RAKUTEN_ACCESS_KEY が .env に設定されていません');
+  process.exit(1);
+}
 if (!AFFILIATE_ID || AFFILIATE_ID === 'your_affiliate_id_here') {
   console.error('❌ PUBLIC_RAKUTEN_AFFILIATE_ID が .env に設定されていません');
   process.exit(1);
@@ -57,54 +71,85 @@ function extractProductNames(content) {
   return names;
 }
 
-// ─── 楽天検索ページから JSON-LD を取得 ─────────────────────────────────────
-async function fetchRakutenSearch(keyword) {
-  const encodedKeyword = encodeURIComponent(keyword);
-  const url = `https://search.rakuten.co.jp/search/mall/${encodedKeyword}/`;
+// ─── 楽天商品検索APIで商品データを取得 ───────────────────────────────────
+const RAKUTEN_API_ENDPOINT = 'https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20220601';
 
+// 商品名から検索キーワードを生成（長すぎると0件になるため短縮）
+function buildSearchKeyword(productName) {
+  // 容量・数量の詳細情報を除去してコアな商品名に絞る
+  let kw = productName
+    .replace(/\s*[（(].+?[）)]/g, '')           // 括弧内を除去
+    .replace(/\s*\d+[mMlLgG枚本袋個入パック巻]+.*$/g, '') // 容量・数量以降を除去
+    .replace(/\s*(×|x|X)\s*\d+.*$/g, '')        // ×N以降を除去
+    .replace(/\s*(大容量|超大型|超特大|特大|大型|レギュラー|ミニ)/g, '') // サイズ表現を除去
+    .trim();
+
+  // それでも長すぎる場合は先頭40文字に切り詰め
+  if (kw.length > 40) {
+    kw = kw.slice(0, 40);
+  }
+
+  // 短すぎる場合は元の名前の先頭30文字を使用
+  if (kw.length < 3) {
+    kw = productName.slice(0, 30);
+  }
+
+  return kw;
+}
+
+async function fetchRakutenSearch(keyword) {
+  const searchKeyword = buildSearchKeyword(keyword);
+
+  const params = new URLSearchParams({
+    applicationId: APPLICATION_ID,
+    affiliateId: AFFILIATE_ID,
+    keyword: searchKeyword,
+    hits: '3',           // 上位3件を取得（最も近い商品を選ぶため）
+    imageFlag: '1',      // 画像付き商品のみ
+    formatVersion: '2',  // 改善版レスポンス形式
+    elements: [
+      'itemName', 'itemPrice', 'itemUrl', 'affiliateUrl',
+      'mediumImageUrls', 'reviewCount', 'reviewAverage',
+    ].join(','),
+  });
+
+  const url = `${RAKUTEN_API_ENDPOINT}?${params}`;
   const res = await fetch(url, {
     headers: {
-      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36',
-      'Accept-Language': 'ja,en;q=0.9',
+      'accessKey': ACCESS_KEY,
+      'Origin': 'https://yu0416ryfu-sys.github.io',
+      'Referer': 'https://yu0416ryfu-sys.github.io/',
     },
   });
 
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const html = await res.text();
-
-  // JSON-LD の ItemList ブロックを抽出
-  const ldMatch = html.match(/<script[^>]+type="application\/ld\+json"[^>]*>([\s\S]*?ItemList[\s\S]*?)<\/script>/);
-  if (!ldMatch) throw new Error('JSON-LD ItemList が見つかりませんでした');
-
-  const jsonld = JSON.parse(ldMatch[1]);
-  if (!jsonld.itemListElement || jsonld.itemListElement.length === 0) {
-    throw new Error('検索結果が空です');
+  if (res.status === 429) {
+    throw new Error('APIリクエスト制限超過。しばらく待ってから再試行してください');
+  }
+  if (!res.ok) {
+    const body = await res.text();
+    throw new Error(`API HTTP ${res.status}: ${body.slice(0, 200)}`);
   }
 
-  // 1件目の商品データを取得
-  const first = jsonld.itemListElement[0].item;
-  const itemUrl = first.url.split('?')[0];
+  const data = await res.json();
 
-  // 商品画像URLを取得（楽天の画像URLを標準形式に変換）
-  const rawImageUrl = first.image ?? null;
-  let imageUrl = rawImageUrl;
-  if (imageUrl && imageUrl.includes('thumbnail.image.rakuten.co.jp')) {
-    // サムネイルURLから直接画像URLに変換
-    const pcMatch = imageUrl.match(/[?&]pc=([^&]+)/);
-    if (pcMatch) imageUrl = decodeURIComponent(pcMatch[1]);
+  if (!data.Items || data.Items.length === 0) {
+    throw new Error('検索結果が0件です');
   }
 
-  // アフィリエイトURLを生成
-  const affiliateUrl = `https://hb.afl.rakuten.co.jp/hgc/${AFFILIATE_ID}/?pc=${encodeURIComponent(itemUrl)}&link_type=picttext`;
+  // 1件目の商品データを使用
+  const item = data.Items[0];
+
+  // 画像URLを取得（128px角のサムネイル）
+  const imageUrl = item.mediumImageUrls?.[0] ?? null;
 
   return {
-    name: first.name,
-    price: first.offers?.price ? Number(first.offers.price) : null,
-    rating: first.aggregateRating?.ratingValue ? Number(first.aggregateRating.ratingValue) : null,
-    reviewCount: first.aggregateRating?.reviewCount ? Number(first.aggregateRating.reviewCount) : null,
-    itemUrl,
+    name: item.itemName,
+    price: item.itemPrice ?? null,
+    rating: item.reviewAverage ? Number(item.reviewAverage) : null,
+    reviewCount: item.reviewCount ? Number(item.reviewCount) : null,
+    itemUrl: item.itemUrl,
     imageUrl,
-    affiliateUrl,
+    affiliateUrl: item.affiliateUrl ?? null,
   };
 }
 
@@ -206,8 +251,8 @@ async function main() {
         results.push({ success: false, name: shortName, reason: e.message });
         totalFail++;
       }
-      // サーバー負荷軽減のため間隔を空ける
-      await new Promise(r => setTimeout(r, 1500));
+      // APIレート制限対策（1秒間隔）
+      await new Promise(r => setTimeout(r, 1000));
     }
 
     if (!DRY_RUN && updatedContent !== content) {

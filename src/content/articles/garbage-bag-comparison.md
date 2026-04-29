@@ -25,13 +25,13 @@ products:
       - "厚みが薄めのため重い生ゴミには注意"
       - "大容量のため保管スペースが必要"
     recommendedFor: "コスト最優先の方・大量に使う方・まとめ買い派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F766-1730%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin700_02/766-1730.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F766-1730%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10276544%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin700_02/766-1730.jpg?_ex=128x128"
 
   - rank: 2
     name: "ポリ袋 45L 半透明 厚手0.030mm 50枚×3パック"
     brand: "Nissho（日翔）"
-    price: 925
+    price: 22000
     capacity: "45L×50枚×3パック（150枚）"
     pricePerUnit: "約6.5円/枚"
     rating: 5
@@ -48,8 +48,8 @@ products:
       - "薄手品よりコストが高め"
       - "大量まとめ買いには割高感がある"
     recommendedFor: "生ゴミが多い方・ゴミ袋の破れが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmoonphase%2F10059363%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/moonphase/cabinet/homezaka/1445lgomi601.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u09on.3rdw6ca3.g00u09on.3rdw7cfb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff112216-soka%2F56710457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff112216-soka%2Fi%2F10000252%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/f112216-soka/cabinet/image/sanskrit/09946573/r_0318008_000918.jpg?_ex=128x128"
 
   - rank: 3
     name: "エコ袋 バイオマスゴミ袋 45L 白半透明 30枚入"

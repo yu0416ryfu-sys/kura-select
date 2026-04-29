@@ -8,7 +8,7 @@ products:
   - rank: 1
     name: "アイリス×クレシア 2倍巻き トイレットロール シングル 100m×12ロール"
     brand: "アイリスオーヤマ×日本製紙クレシア"
-    price: 3880
+    price: 1080
     capacity: "100m×12ロール（2倍巻き）"
     pricePerUnit: "約0.82円/m"
     features:
@@ -23,13 +23,13 @@ products:
       - "標準芯より径が大きいためホルダーを選ぶ場合がある"
       - "ダブルと比べるとやや薄め"
     recommendedFor: "コスト重視の方・一人暮らし・まとめ買い派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F7251547%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/12351902/imgrc0113995531.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7189458%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10086941%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/tasya103/imgrc0086274236.jpg?_ex=128x128"
 
   - rank: 2
     name: "エリエール トイレットティシュー ダブル 12ロール"
     brand: "大王製紙（エリエール）"
-    price: 5260
+    price: 6383
     capacity: "25m×12ロール（ダブル）"
     pricePerUnit: "約2.93円/m"
     features:
@@ -44,13 +44,13 @@ products:
       - "シングルに比べてコストが高め"
       - "消費が早い"
     recommendedFor: "肌触りを重視する方・ファミリー向け"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felleair%2Fdsi21001131-6%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/elleair/cabinet/item-img/img20250620/imgrc0167238239.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F14495%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10678469%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/495/14495.jpg?_ex=128x128"
 
   - rank: 3
     name: "スコッティ フラワーパック 2倍巻き シングル 100m×48ロール（12ロール×4パック）"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 3880
+    price: 4480
     capacity: "100m×48ロール（2倍巻き）"
     pricePerUnit: "約0.52円/m"
     features:
@@ -65,13 +65,13 @@ products:
       - "保管スペースが必要"
       - "個人宅には多すぎる場合も"
     recommendedFor: "大家族・まとめ買い派の方・コスト最優先の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F962-0636%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin900_08/962-0636.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7169099%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10075280%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7169099.jpg?_ex=128x128"
 
   - rank: 4
     name: "再生紙トイレットペーパー ダブル 27.5m×96ロール（1パック12ロール）"
     brand: "無地・無印刷（エコ仕様）"
-    price: 3200
+    price: 4048
     capacity: "ダブル 27.5m×96ロール"
     pricePerUnit: "約1.21円/m"
     features:
@@ -87,13 +87,13 @@ products:
       - "バージンパルプ製品と比べると若干厚みが劣る場合も"
       - "大容量のため保管スペースが必要"
     recommendedFor: "環境を意識しつつコスパも重視したい方・まとめ買い派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoming%2Fjun1kyuhinrolls-recycle12rw%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/coming/cabinet/daiichimoji/imgrc0096851285.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r90rn.3rdw6d63.g00r90rn.3rdw7ade/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwakuwaku-kobe%2F4972165012074%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwakuwaku-kobe%2Fi%2F10001689%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wakuwaku-kobe/cabinet/toipe_ippann/imgrc0095014555.jpg?_ex=128x128"
 
   - rank: 5
     name: "エリエール シャワートイレのためにつくったトイレットティシュー ダブル 25m×12ロール"
     brand: "大王製紙（エリエール）"
-    price: 3953
+    price: 4943
     capacity: "25m×12ロール（ダブル）"
     pricePerUnit: "約5.27円/m"
     features:
@@ -108,7 +108,7 @@ products:
       - "1mあたりコストは最も高い"
       - "消費が早め"
     recommendedFor: "ウォシュレット使用者・品質・快適さを最優先にしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F769-2741%2F&link_type=picttext"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902011821734-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F11754377%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
 
 tags:
   - トイレットペーパー

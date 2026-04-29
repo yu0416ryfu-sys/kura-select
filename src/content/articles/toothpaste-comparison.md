@@ -8,11 +8,11 @@ products:
   - rank: 1
     name: "クリアクリーン ナチュラルミント 130g×6本セット"
     brand: "花王（クリアクリーン）"
-    price: 1676
+    price: 1040
     capacity: "130g×6本"
     pricePerUnit: "約230円/本"
-    rating: 4.3
-    reviewCount: 870
+    rating: 4.85
+    reviewCount: 26
     features:
       - "フッ素1450ppm配合で虫歯予防に効果的"
       - "ナチュラルミントの爽快感"
@@ -25,17 +25,17 @@ products:
       - "研磨剤入りのため、ホワイトニング効果を期待するなら専用品のほうが高い"
       - "ミント感が強い"
     recommendedFor: "虫歯予防を重視する方・コスパ派・まとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnicobase%2Fset6-10-01060%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nicobase/cabinet/4901301386182.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F90537%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10986146%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/537/90537.jpg?_ex=128x128"
 
   - rank: 2
     name: "システマ ハグキプラス プレミアム 95g×4本セット"
     brand: "ライオン（システマ）"
-    price: 2926
+    price: 3393
     capacity: "95g×4本"
     pricePerUnit: "約495円/本"
-    rating: 4.5
-    reviewCount: 6
+    rating: 4.53
+    reviewCount: 34
     features:
       - "4種の薬用成分で歯周病・歯肉炎をケア"
       - "フッ素1450ppm配合"
@@ -48,8 +48,8 @@ products:
       - "1本あたりの単価はクリアクリーンより高め"
       - "味が薬用感があり好みが分かれる"
     recommendedFor: "歯周病・歯茎の腫れが気になる方・40代以上の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F406056%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/056/406056.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F517581%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11078039%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/581/517581.jpg?_ex=128x128"
 
   - rank: 3
     name: "シュミテクト プロエナメル 90g×3本セット"
@@ -71,17 +71,17 @@ products:
       - "知覚過敏でない方にはやや割高"
       - "泡立ちが少なく慣れが必要"
     recommendedFor: "冷たいもの・熱いものがしみる方・酸蝕歯が気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F14promo%2F20240423-1300%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/14promo/cabinet/imgrc0114569557.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tth2n.3rdw67a0.g00tth2n.3rdw76f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F14promo%2F20240423-1300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F14promo%2Fi%2F10027463%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/14promo/cabinet/imgrc0114569557.jpg?_ex=128x128"
 
   - rank: 4
     name: "アパガード リナメル 135g×3本セット"
     brand: "サンギ（アパガード）"
-    price: 6980
+    price: 7320
     capacity: "135g×3本"
     pricePerUnit: "約993円/本"
-    rating: 3.83
-    reviewCount: 6
+    rating: 4.71
+    reviewCount: 96
     features:
       - "ナノ粒子ハイドロキシアパタイトでエナメル質を補修"
       - "研磨剤不使用でやさしいホワイトニング"
@@ -94,8 +94,8 @@ products:
       - "単価が最も高い"
       - "ホワイトニング効果を実感するまで時間がかかる"
     recommendedFor: "ホワイトニング・着色汚れを落としたい方・歯の白さにこだわる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkelly-s%2Frinameru3-1%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kelly-s/cabinet/2023/aimgrc0079437030.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49934%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007221%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg01/49934_sam2.jpg?_ex=128x128"
 
 tags:
   - 歯磨き粉

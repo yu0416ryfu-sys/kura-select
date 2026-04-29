@@ -24,17 +24,17 @@ products:
       - "1回あたりのコストはやや高め"
       - "4本分の保管スペースが必要"
     recommendedFor: "洗浄力・ブランド信頼性を重視する方・詰め替え派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405421%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/923/599923.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11279561%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/421/405421.jpg?_ex=128x128"
 
   - rank: 2
     name: "アタック 業務用 粉末衣料用洗剤 10kg（2.5kg×4袋入）"
     brand: "花王（Kao）"
-    price: 4341
+    price: 5980
     capacity: "10kg（約333回分）"
     pricePerUnit: "約10.7円/回"
-    rating: 4.82
-    reviewCount: 102
+    rating: 4.59
+    reviewCount: 32
     features:
       - "業務用大容量でコスパ最高クラス"
       - "高活性酵素「ビックバイオ」配合"
@@ -48,13 +48,13 @@ products:
       - "冷水では粉が溶け残る場合がある"
       - "個人宅には多すぎる場合も"
     recommendedFor: "コスト最優先の方・作業着など汚れが多い方・大家族"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprolabshop%2F62-3785-07%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/prolabshop/cabinet/507/62378507.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rfmln.3rdw63d9.g00rfmln.3rdw7e87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foshibori%2Fbic10_01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foshibori%2Fi%2F10000066%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oshibori/cabinet/02985035/03434691/05647021/imgrc0095645203.jpg?_ex=128x128"
 
   - rank: 3
     name: "ボールド 洗濯洗剤 ジェルボール 4in1 詰め替え 65個"
     brand: "P&G（ボールド）"
-    price: 2680
+    price: 2728
     capacity: "65個（65回分）"
     pricePerUnit: "約25.8円/回"
     features:
@@ -69,8 +69,8 @@ products:
       - "1回あたりのコストが高め"
       - "量を調節しにくい"
     recommendedFor: "手軽さ重視・子育て中で忙しい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopypp22%2F20251124-1800-1%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shopypp22/cabinet/12189184/compass1763967831.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F700042%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10040682%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/sku/700042-sku.jpg?_ex=128x128"
 
   - rank: 4
     name: "さらさ 洗濯洗剤 液体 詰め替え 超特大 1.01kg×2袋セット"

@@ -8,7 +8,7 @@ products:
   - rank: 1
     name: "レノア 本格消臭 柔軟剤 詰め替え 超特大 1260mL×2袋"
     brand: "P&G（レノア）"
-    price: 3225
+    price: 2636
     capacity: "1260mL×2袋（約126回分）"
     pricePerUnit: "約12.5円/回"
     rating: 4.4
@@ -25,13 +25,13 @@ products:
       - "香りが強いと感じる場合がある"
       - "敏感肌には刺激を感じることも"
     recommendedFor: "消臭重視の方・部屋干しが多い方・コスパ派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fburiruby%2Fraqjcd6fghnwuig5sfqarilc74%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/buriruby/cabinet/12427336/39669032_1.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ukzzn.3rdw63b8.g00ukzzn.3rdw7164/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanairoshop%2F20250605060825_114%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnanairoshop%2Fi%2F10126355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nanairoshop/cabinet/r_2024051257/20250605060825_114_1.jpg?_ex=128x128"
 
   - rank: 2
     name: "ハミングファイン 柔軟剤 詰め替え 大容量 1500mL"
     brand: "花王（ハミングファイン）"
-    price: 950
+    price: 2980
     capacity: "1500mL（約100回分）"
     pricePerUnit: "約8.8円/回"
     rating: 4.5
@@ -48,8 +48,8 @@ products:
       - "香りの持続時間はレノアに劣る"
       - "香りのバリエーションが少ない"
     recommendedFor: "コスト最優先の方・静電気が気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenko-depart%2F435821%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenko-depart/cabinet/gazou3/435821_1.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4zwn.3rdw6c99.g00u4zwn.3rdw7a8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzukidenkioutlets%2F4901301348845%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuzukidenkioutlets%2Fi%2F10003956%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suzukidenkioutlets/cabinet/system202301-06/4901301348845.jpg?_ex=128x128"
 
   - rank: 3
     name: "ダウニー インフュージョンズ 柔軟剤 ローズ＆チャンパカ 1.5L"
@@ -95,8 +95,8 @@ products:
       - "香りの主張が弱めなため物足りない方も"
       - "消臭効果はレノアに比べると控えめ"
     recommendedFor: "敏感肌・赤ちゃんのいる家庭・低刺激処方を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F2010123672%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/201/01236/2010123672_k.jpg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2ngn.3rdw6e7c.g00t2ngn.3rdw797f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F2010123672%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhikaritv%2Fi%2F10221045%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/201/01236/2010123672_k.jpg?_ex=128x128"
 
 tags:
   - 柔軟剤
