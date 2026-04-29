@@ -8,7 +8,7 @@ products:
   - rank: 1
     name: "レノア 本格消臭 柔軟剤 詰め替え 超特大 1260mL×2袋"
     brand: "P&G（レノア）"
-    price: 2667
+    price: 2636
     capacity: "1260mL×2袋（約126回分）"
     pricePerUnit: "約12.5円/回"
     rating: 4.4
@@ -25,8 +25,8 @@ products:
       - "香りが強いと感じる場合がある"
       - "敏感肌には刺激を感じることも"
     recommendedFor: "消臭重視の方・部屋干しが多い方・コスパ派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tis7n.3rdw6f7e.g00tis7n.3rdw7c9e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocomakai%2Fcocafb2d291fc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocomakai%2Fi%2F10082146%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocomakai/cabinet/onesell328/cocafb2d291fc.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ukzzn.3rdw63b8.g00ukzzn.3rdw7164/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanairoshop%2F20250605060825_114%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnanairoshop%2Fi%2F10126355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nanairoshop/cabinet/r_2024051257/20250605060825_114_1.jpg?_ex=128x128"
 
   - rank: 2
     name: "ハミングファイン 柔軟剤 詰め替え 大容量 1500mL"
