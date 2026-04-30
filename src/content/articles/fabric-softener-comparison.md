@@ -78,11 +78,11 @@ products:
   - rank: 4
     name: "さらさ 柔軟剤 詰め替え 超特大 1260mL"
     brand: "P&G（さらさ）"
-    price: 6978
+    price: 6977
     capacity: "1260mL（約84回分）"
     pricePerUnit: "約11.7円/回"
-    rating: 4.83
-    reviewCount: 139
+    rating: 4.57
+    reviewCount: 160
     features:
       - "植物由来成分使用の低刺激処方"
       - "無蛍光剤・無漂白剤・無着色料"
@@ -95,8 +95,8 @@ products:
       - "香りの主張が弱めなため物足りない方も"
       - "消臭効果はレノアに比べると控えめ"
     recommendedFor: "敏感肌・赤ちゃんのいる家庭・低刺激処方を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2ngn.3rdw6e7c.g00t2ngn.3rdw797f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F2010123672%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhikaritv%2Fi%2F10221045%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/201/01236/2010123672_k.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7174547%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077966%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/tenposupport21/7261004.jpg?_ex=128x128"
 
 tags:
   - 柔軟剤

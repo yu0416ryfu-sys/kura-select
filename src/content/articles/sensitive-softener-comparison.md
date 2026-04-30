@@ -8,11 +8,11 @@ products:
   - rank: 1
     name: "さらさ 柔軟剤 詰め替え 超特大 850mL×2袋"
     brand: "P&G（さらさ）"
-    price: 1298
+    price: 6977
     capacity: "850mL×2袋（約100回分）"
     pricePerUnit: "約13.0円/回"
-    rating: 4.58
-    reviewCount: 456
+    rating: 4.57
+    reviewCount: 160
     features:
       - "着色料無添加・皮膚科医監修の低刺激処方"
       - "植物由来の柔軟成分で肌にやさしい"
@@ -25,17 +25,17 @@ products:
       - "香りが弱めで物足りないと感じる方もいる"
       - "柔軟効果は通常の柔軟剤よりやや控えめ"
     recommendedFor: "赤ちゃんがいる家庭・敏感肌の方・無添加にこだわる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2595%25E3%2582%2589%25E3%2581%2595+%25E6%259F%2594%25E8%25BB%259F%25E5%2589%25A4+%25E8%25A9%25B0%25E3%2582%2581%25E6%259B%25BF%25E3%2581%2588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4987176054400.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7174547%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077966%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/tenposupport21/7261004.jpg?_ex=128x128"
 
   - rank: 2
     name: "ファーファ フリー&（フリーアンド）柔軟剤 無香料 詰め替え 480mL×3袋"
     brand: "NSファーファ・ジャパン"
-    price: 1180
+    price: 1019
     capacity: "480mL×3袋（約90回分）"
     pricePerUnit: "約13.1円/回"
-    rating: 4.65
-    reviewCount: 378
+    rating: 4
+    reviewCount: 1
     features:
       - "香料・着色料・シリコン・抗菌剤 4つの無添加"
       - "柔軟成分は植物由来100%"
@@ -48,8 +48,8 @@ products:
       - "香りを楽しみたい方には物足りない"
       - "通常の柔軟剤に比べてふんわり感はやや控えめ"
     recommendedFor: "化学物質過敏症の方・香料アレルギーの方・徹底的に無添加を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1+%25E3%2583%2595%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25A2%25E3%2583%25B3%25E3%2583%2589+%25E6%259F%2594%25E8%25BB%259F%25E5%2589%25A4+%25E7%2584%25A1%25E9%25A6%2599%25E6%2596%2599%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/goods/4902135541400.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn68n.3rdw6313.g00qn68n.3rdw75ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4902135322537%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10933554%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/pics/620/4902135322537.jpg?_ex=128x128"
 
   - rank: 3
     name: "ベビーファーファ 柔軟剤 600mL×3本"
@@ -71,17 +71,17 @@ products:
       - "1回あたりのコストがやや高め"
       - "取り扱い店舗がやや少ない"
     recommendedFor: "新生児から使いたい方・天然由来の香りが好きな方・赤ちゃん専用にこだわる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1+%25E6%259F%2594%25E8%25BB%259F%25E5%2589%25A4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1+%25E6%259F%2594%25E8%25BB%259F%25E5%2589%25A4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1+%25E6%259F%2594%25E8%25BB%259F%25E5%2589%25A4%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/goods/4902135541500.jpg?_ex=128x128"
 
   - rank: 4
     name: "ランドリン ボタニカル 柔軟剤 リラックスグリーンティー 詰め替え 大容量 860mL"
     brand: "ネイチャーラボ（ランドリン）"
-    price: 798
+    price: 1482
     capacity: "860mL（約43回分）"
     pricePerUnit: "約18.6円/回"
-    rating: 4.42
-    reviewCount: 289
+    rating: 4.88
+    reviewCount: 16
     features:
       - "植物由来成分90%以上の低刺激処方"
       - "オーガニック認証エキス配合"
@@ -94,8 +94,8 @@ products:
       - "1回あたりのコストは最も高い"
       - "香りが好みに合わない場合がある"
     recommendedFor: "オーガニックにこだわる方・香りも楽しみたい敏感肌の方・ボタニカル志向の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25B3+%25E3%2583%259C%25E3%2582%25BF%25E3%2583%258B%25E3%2582%25AB%25E3%2583%25AB+%25E6%259F%2594%25E8%25BB%259F%25E5%2589%25A4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4990110001400.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4582469507727%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11070069%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/727/4582469507727.jpg?_ex=128x128"
 
 tags:
   - 柔軟剤

@@ -8,11 +8,11 @@ products:
   - rank: 1
     name: "スコッティ ティッシュー フラワーボックス 320枚(160組)×12箱"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 43000
+    price: 43500
     capacity: "320枚（160組）×12箱"
     pricePerUnit: "約0.26円/枚"
     rating: 5
-    reviewCount: 2
+    reviewCount: 8
     features:
       - "160組320枚入りの大容量ボックス"
       - "フラワーパック12箱セットでまとめ買い対応"
@@ -25,8 +25,8 @@ products:
       - "保管スペースが必要"
       - "高級ティッシュと比べると若干厚みが劣る"
     recommendedFor: "コスト重視の方・大家族・まとめ買い派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tg4cn.3rdw6a18.g00tg4cn.3rdw71f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff262013-fukuchiyama%2Ffcas026%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff262013-fukuchiyama%2Fi%2F10001675%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/f262013-fukuchiyama/cabinet/10019999/fcas026-r-1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tg4cn.3rdw6a18.g00tg4cn.3rdw71f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff262013-fukuchiyama%2Ffcas025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff262013-fukuchiyama%2Fi%2F10001674%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/f262013-fukuchiyama/cabinet/10019999/fcas025-r-1.jpg?_ex=128x128"
 
   - rank: 2
     name: "エリエール ティシュー 200枚(100組)×12箱"
@@ -77,7 +77,7 @@ products:
   - rank: 4
     name: "鼻セレブ ティシュー 3枚重ね 60組×12箱"
     brand: "日本製紙クレシア（鼻セレブ）"
-    price: 934
+    price: 2396
     capacity: "60組×12箱"
     pricePerUnit: "約1.38円/枚"
     rating: 4.92
@@ -94,8 +94,8 @@ products:
       - "1枚あたりコストは最も高い"
       - "普段使いには少し贅沢"
     recommendedFor: "花粉症・風邪が多い方・デリケートな肌の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901121626505%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10006148%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/rich05/4901121626505.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxaln.3rdw610a.g00sxaln.3rdw7f93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoikenkou%2F4901121626376-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyoikenkou%2Fi%2F10126496%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yoikenkou/cabinet/rich05/4901121626376.jpg?_ex=128x128"
 
   - rank: 5
     name: "プライベートブランド ティッシュ 200枚(100組)×60箱"

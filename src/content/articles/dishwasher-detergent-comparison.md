@@ -8,7 +8,7 @@ products:
   - rank: 1
     name: "フィニッシュ パワー&ピュア パウダー 大型 900g"
     brand: "レキットベンキーザー（フィニッシュ）"
-    price: 718
+    price: 4659
     capacity: "900g（約200回分）"
     pricePerUnit: "約3.6円/回"
     rating: 4.45
@@ -25,17 +25,17 @@ products:
       - "計量が必要で手間がかかる"
       - "溶け残りが発生する場合がある"
     recommendedFor: "コスパ最優先の方・毎日食洗機を使う家庭・洗浄力重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2595%25E3%2582%25A3%25E3%2583%258B%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5+%25E3%2583%2591%25E3%2582%25A6%25E3%2583%2580%25E3%2583%25BC+%25E9%25A3%259F%25E6%25B4%2597%25E6%25A9%259F%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4906156601138.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5nyn.3rdw649e.g00u5nyn.3rdw7766/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnrfonline%2Fnrf634cffe30c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnrfonline%2Fi%2F10124217%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nrfonline/cabinet/onesell706/nrf634cffe30c_0.jpg?_ex=128x128"
 
   - rank: 2
     name: "キュキュット ウルトラクリーン すっきりシトラスの香り 詰め替え 840g"
     brand: "花王（キュキュット）"
-    price: 898
+    price: 1999
     capacity: "840g（約140回分）"
     pricePerUnit: "約6.4円/回"
-    rating: 4.52
-    reviewCount: 312
+    rating: 4.7
+    reviewCount: 89
     features:
       - "クエン酸配合でグラスくもりを防止"
       - "酵素の力でこびりつき汚れを分解"
@@ -48,17 +48,17 @@ products:
       - "粉末タイプより1回あたりのコストが高い"
       - "パッケージが大きく収納場所を取る"
     recommendedFor: "グラス・食器のくもりが気になる方・除菌も重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AD%25E3%2583%25A5%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%2583%25E3%2583%2588+%25E3%2582%25A6%25E3%2583%25AB%25E3%2583%2588%25E3%2583%25A9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3+%25E9%25A3%259F%25E6%25B4%2597%25E6%25A9%259F%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4901301404955.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F555031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11156970%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/031/555031.jpg?_ex=128x128"
 
   - rank: 3
     name: "ジョイ ジェルタブ 食洗機用洗剤 42個入り"
     brand: "P&G（ジョイ）"
-    price: 1298
+    price: 9980
     capacity: "42個（42回分）"
     pricePerUnit: "約30.9円/回"
-    rating: 4.58
-    reviewCount: 456
+    rating: 4.92
+    reviewCount: 12
     features:
       - "ジェルとパウダーの2層構造で強力洗浄"
       - "予洗いなしでも油汚れを落とす"
@@ -71,13 +71,13 @@ products:
       - "1回あたりのコストが最も高い"
       - "少量の食器だけ洗うには割高"
     recommendedFor: "手軽さ最優先の方・予洗いの手間を省きたい方・洗浄力重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B8%25E3%2583%25A7%25E3%2582%25A4+%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25AB%25E3%2582%25BF%25E3%2583%2596+%25E9%25A3%259F%25E6%25B4%2597%25E6%25A9%259F%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/goods/4987176054299.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uci6n.3rdw636f.g00uci6n.3rdw7988/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopypp%2F3799-001195%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopypp%2Fi%2F10000169%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shopypp/cabinet/192197.jpg?_ex=128x128"
 
   - rank: 4
     name: "チャーミークリスタ 消臭ジェル 詰め替え 大容量 840g"
     brand: "ライオン（チャーミークリスタ）"
-    price: 798
+    price: 1844
     capacity: "840g（約140回分）"
     pricePerUnit: "約5.7円/回"
     rating: 4.41
@@ -94,8 +94,8 @@ products:
       - "計量キャップの使い勝手がやや悪い"
       - "頑固な焦げ付きにはやや弱い"
     recommendedFor: "庫内のニオイが気になる方・ジェルタイプが好きな方・低温コースを使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%25BF+%25E9%25A3%259F%25E6%25B4%2597%25E6%25A9%259F%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4903301601138.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqbhn.3rdw61a3.g00uqbhn.3rdw7b21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgozigen-shop%2Fgod1087c39b4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgozigen-shop%2Fi%2F10003738%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gozigen-shop/cabinet/onesell024/god1087c39b4.jpg?_ex=128x128"
 
 tags:
   - 食洗機用洗剤

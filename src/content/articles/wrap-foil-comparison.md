@@ -31,11 +31,11 @@ products:
   - rank: 2
     name: "サランラップ 30cm×50m 3本パック"
     brand: "旭化成（サランラップ）"
-    price: 6706
+    price: 262
     capacity: "30cm×50m×3本（150m）"
     pricePerUnit: "約7.2円/m"
-    rating: 4.5
-    reviewCount: 2
+    rating: 4.85
+    reviewCount: 68
     features:
       - "旭化成の定番ポリ塩化ビニリデン製ラップ"
       - "電子レンジ・冷凍庫対応（高温は除く）"
@@ -48,8 +48,8 @@ products:
       - "30cmなので小さい容器には使いにくいことも"
       - "3本で150mとクレラップより総量が少ない"
     recommendedFor: "大きな容器・食品保存にこだわる方・定番品を使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901670110180-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10067188%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic01/4901670110180.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901670106336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10006411%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic02/4901670110210.jpg?_ex=128x128"
 
   - rank: 3
     name: "東洋アルミ アルファミュー アルミホイル 30cm×50m"

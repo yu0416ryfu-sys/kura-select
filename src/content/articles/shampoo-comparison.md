@@ -8,11 +8,11 @@ products:
   - rank: 1
     name: "いち髪 なめらかスムースケア シャンプー 詰め替え 660mL×2個"
     brand: "クラシエ（いち髪）"
-    price: 1280
+    price: 18000
     capacity: "660mL×2個（約6ヶ月分）"
     pricePerUnit: "約0.97円/mL"
-    rating: 4.55
-    reviewCount: 312
+    rating: 4.94
+    reviewCount: 31
     features:
       - "純・和草プレミアムエキス配合で髪のダメージを補修"
       - "ノンシリコン処方でふんわり軽い仕上がり"
@@ -25,17 +25,17 @@ products:
       - "ダメージが強い髪にはやや物足りない"
       - "香りの好みが分かれる"
     recommendedFor: "コスパ重視の方・普通〜軽いダメージ髪の方・ノンシリコン派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2584%25E3%2581%25A1%25E9%25AB%25AA+%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25BC+%25E8%25A9%25B0%25E3%2582%2581%25E6%259B%25BF%25E3%2581%2588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4901417734143.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00trk9n.3rdw6a9f.g00trk9n.3rdw7f18/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff232327-aisai%2Faebe003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff232327-aisai%2Fi%2F10000401%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/f232327-aisai/cabinet/item/aebe/aebe003.jpg?_ex=128x128"
 
   - rank: 2
     name: "メリット シャンプー 詰め替え 大容量 1200mL"
     brand: "花王（メリット）"
-    price: 1078
+    price: 1474
     capacity: "1200mL（約4ヶ月分）"
     pricePerUnit: "約0.90円/mL"
-    rating: 4.48
-    reviewCount: 189
+    rating: 4.67
+    reviewCount: 3
     features:
       - "地肌すっきり成分でフケ・かゆみを防ぐ"
       - "ノンシリコン処方で地肌にやさしい"
@@ -48,17 +48,17 @@ products:
       - "しっとり感は控えめ"
       - "ダメージケア効果は弱い"
     recommendedFor: "家族で使いたい方・地肌ケア重視の方・シンプルなシャンプーを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A1%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2588+%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25BC+%25E8%25A9%25B0%25E3%2582%2581%25E6%259B%25BF%25E3%2581%2588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4901301734143.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301448941%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10026564%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/941/4901301448941.jpg?_ex=128x128"
 
   - rank: 3
     name: "パンテーン エクストラダメージケア シャンプー 詰め替え 超特大 950mL"
     brand: "P&G（パンテーン）"
-    price: 1298
+    price: 3980
     capacity: "950mL（約3ヶ月分）"
     pricePerUnit: "約1.37円/mL"
-    rating: 4.42
-    reviewCount: 276
+    rating: 4.65
+    reviewCount: 55
     features:
       - "プロビタミン処方で毛先までダメージ補修"
       - "濃厚トリートメント級のうるおい"
@@ -71,17 +71,17 @@ products:
       - "コスパは中程度"
       - "しっとりしすぎると感じる方もいる"
     recommendedFor: "ダメージヘアの方・まとまりを求める方・カラーやパーマをしている方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25BC%25E3%2583%25B3+%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25BC+%25E8%25A9%25B0%25E3%2582%2581%25E6%259B%25BF%25E3%2581%2588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/goods/4987176054241.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tynxn.3rdw6ad8.g00tynxn.3rdw7e17/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkzstore%2F2734-000217%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkzstore%2Fi%2F10000068%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kzstore/cabinet/amayahoo/10812595/imgrc0093288667.jpg?_ex=128x128"
 
   - rank: 4
     name: "LUX スーパーリッチシャイン ダメージリペア シャンプー 詰め替え 660g"
     brand: "ユニリーバ（LUX）"
-    price: 698
+    price: 2480
     capacity: "660g（約2ヶ月分）"
     pricePerUnit: "約1.06円/mL"
-    rating: 4.35
-    reviewCount: 198
+    rating: 4.71
+    reviewCount: 14
     features:
       - "ホワイトアルガンオイル配合でツヤのある仕上がり"
       - "ダメージ補修プロテイン配合"
@@ -94,8 +94,8 @@ products:
       - "シリコン配合のためボリュームが出にくい"
       - "脂性肌の方にはやや重い"
     recommendedFor: "ツヤ髪を目指す方・香りを楽しみたい方・パサつきが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLUX+%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25BC+%25E8%25A9%25B0%25E3%2582%2581%25E6%259B%25BF%25E3%2581%2588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4902111773063.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ub9fn.3rdw617e.g00ub9fn.3rdw7fc0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-pal%2Fdamage-repair%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshop-pal%2Fi%2F10000671%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shop-pal/cabinet/compass1759200308.jpg?_ex=128x128"
 
 tags:
   - シャンプー

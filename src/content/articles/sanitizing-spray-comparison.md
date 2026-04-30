@@ -8,11 +8,11 @@ products:
   - rank: 1
     name: "パストリーゼ77 スプレーヘッド付き 800mL"
     brand: "ドーバー酒造（パストリーゼ）"
-    price: 1298
+    price: 1058
     capacity: "800mL"
     pricePerUnit: "約1.62円/mL"
-    rating: 4.78
-    reviewCount: 1245
+    rating: 5
+    reviewCount: 1
     features:
       - "アルコール濃度77%の高濃度除菌"
       - "酒造メーカーのサトウキビ由来アルコール"
@@ -25,17 +25,17 @@ products:
       - "1mLあたりの価格はやや高め"
       - "人気商品のため品切れになりやすい"
     recommendedFor: "食品まわりの除菌を重視する方・キッチン用に最適・品質重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BC77+800mL%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4560378601138.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10131071%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10071328%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/shouhin57/4510759790016.jpg?_ex=128x128"
 
   - rank: 2
     name: "フマキラー キッチン用 アルコール除菌スプレー 詰め替え 720mL×2本"
     brand: "フマキラー"
-    price: 898
+    price: 3289
     capacity: "720mL×2本（1440mL）"
     pricePerUnit: "約0.62円/mL"
-    rating: 4.42
-    reviewCount: 356
+    rating: 4.74
+    reviewCount: 27
     features:
       - "100%天然由来のアルコール成分"
       - "食器・調理器具にそのまま使える"
@@ -48,17 +48,17 @@ products:
       - "アルコール濃度はパストリーゼより低い"
       - "スプレーボトルは別途必要"
     recommendedFor: "コスパ最優先の方・キッチン用がメインの方・大量に使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2595%25E3%2583%259E%25E3%2582%25AD%25E3%2583%25A9%25E3%2583%25BC+%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%25AB%25E9%2599%25A4%25E8%258F%258C+%25E8%25A9%25B0%25E3%2582%2581%25E6%259B%25BF%25E3%2581%2588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/goods/4902424441138.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F263-5631%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10618186%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin200_06/263-5631.jpg?_ex=128x128"
 
   - rank: 3
     name: "カビキラー アルコール除菌 キッチン用 詰め替え 630mL×3本"
     brand: "ジョンソン（カビキラー）"
-    price: 1180
+    price: 3520
     capacity: "630mL×3本（1890mL）"
     pricePerUnit: "約0.62円/mL"
-    rating: 4.48
-    reviewCount: 289
+    rating: 4.93
+    reviewCount: 14
     features:
       - "高濃度アルコールで除菌力が高い"
       - "食品添加物のみで構成された安全処方"
@@ -71,13 +71,13 @@ products:
       - "詰め替え作業がやや手間"
       - "噴射量の調整がしにくい"
     recommendedFor: "安全性を重視する方・まな板や調理器具の除菌に・まとめ買い派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AB%25E3%2583%2593%25E3%2582%25AD%25E3%2583%25A9%25E3%2583%25BC+%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%25AB%25E9%2599%25A4%25E8%258F%258C+%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2581%25E3%2583%25B3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4901609001200.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901609015012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10019800%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/012/4901609015012.jpg?_ex=128x128"
 
   - rank: 4
     name: "手ピカスプレー 消毒用アルコール 420mL"
     brand: "健栄製薬（手ピカ）"
-    price: 698
+    price: 550
     capacity: "420mL"
     pricePerUnit: "約1.66円/mL"
     rating: 4.55
@@ -94,8 +94,8 @@ products:
       - "手指専用のため物の除菌には不向き"
       - "容量に対してやや割高"
     recommendedFor: "手指消毒がメインの方・手荒れが気になる方・医薬部外品を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%2589%258B%25E3%2583%2594%25E3%2582%25AB%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC+420mL%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/goods/4987286416113.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00srsfn.3rdw61f5.g00srsfn.3rdw7376/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstacon%2F4987286415437%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstacon%2Fi%2F10044977%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/stacon/cabinet/2017new/4987286415437_1.jpg?_ex=128x128"
 
 tags:
   - 除菌スプレー

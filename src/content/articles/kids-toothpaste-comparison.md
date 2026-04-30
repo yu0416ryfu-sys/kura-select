@@ -8,11 +8,11 @@ products:
   - rank: 1
     name: "ライオン チェックアップ kodomo 60g×3本セット"
     brand: "ライオン歯科材（チェックアップ）"
-    price: 898
+    price: 2420
     capacity: "60g×3本（約6ヶ月分）"
     pricePerUnit: "約4.99円/g"
-    rating: 4.72
-    reviewCount: 567
+    rating: 4.91
+    reviewCount: 224
     features:
       - "フッ素950ppm配合で乳歯のむし歯予防に最適"
       - "低研磨・低発泡・低香味で子どもに使いやすい"
@@ -25,17 +25,17 @@ products:
       - "市販では取扱店が限られる"
       - "味のバリエーションが少ない"
     recommendedFor: "歯科医推奨の歯磨き粉を使いたい方・2歳以上のお子さま・むし歯予防重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597+kodomo%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4903301198413.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugykn.3rdw6a2f.g00ugykn.3rdw7299/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhano-senmonten%2F4903301166054-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhano-senmonten%2Fi%2F10000039%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hano-senmonten/cabinet/senyuritu/4903301166054-10.jpg?_ex=128x128"
 
   - rank: 2
     name: "クリニカKid's ジェルハミガキ いちご 60g×3本"
     brand: "ライオン（クリニカKid's）"
-    price: 780
+    price: 3494
     capacity: "60g×3本（約6ヶ月分）"
     pricePerUnit: "約4.33円/g"
-    rating: 4.55
-    reviewCount: 345
+    rating: 5
+    reviewCount: 3
     features:
       - "フッ素950ppmで乳歯・生えたての永久歯を強化"
       - "ジェルタイプで歯のすみずみまで行き渡る"
@@ -48,17 +48,17 @@ products:
       - "チューブから出しすぎやすい"
       - "研磨剤が入っていないため着色汚れには弱い"
     recommendedFor: "歯磨き嫌いのお子さま・仕上げ磨きに使いたい方・ジェルタイプが好きな方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%258B%25E3%2582%25ABKid%2527s+%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25AB%25E3%2583%258F%25E3%2583%259F%25E3%2582%25AC%25E3%2582%25AD%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/goods/4903301198500.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F0000049795240-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10184891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/aa/49795240.jpg?_ex=128x128"
 
   - rank: 3
     name: "ピジョン 親子で乳歯ケア ジェル状歯みがき ぷちキッズ 50g×2本"
     brand: "ピジョン"
-    price: 980
+    price: 1404
     capacity: "50g×2本（約4ヶ月分）"
     pricePerUnit: "約9.80円/g"
-    rating: 4.48
-    reviewCount: 234
+    rating: 4.83
+    reviewCount: 6
     features:
       - "フッ素500ppmで1歳6ヶ月から使える低濃度設計"
       - "食品用原料成分使用で飲み込んでも安心"
@@ -71,8 +71,8 @@ products:
       - "フッ素濃度が低いため効果はおだやか"
       - "容量が少なくコスパはやや劣る"
     recommendedFor: "1歳半〜3歳のお子さま・初めての歯磨き粉に・安全性最重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2594%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3+%25E4%25B9%25B3%25E6%25AD%25AF%25E3%2582%25B1%25E3%2582%25A2+%25E3%2581%25B7%25E3%2581%25A1%25E3%2582%25AD%25E3%2583%2583%25E3%2582%25BA%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/goods/4902508103831.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F73318%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10937709%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/318/73318.jpg?_ex=128x128"
 
   - rank: 4
     name: "ライオン こどもハミガキ ガリガリ君 ソーダ香味 40g×3本"
@@ -94,7 +94,7 @@ products:
       - "発泡剤入りで泡立ちが多い"
       - "低年齢の子どもには味がやや強い"
     recommendedFor: "歯磨き嫌いを克服したいお子さま・キャラクター好きな子・4歳以上のお子さま"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25AA%25E3%2583%25B3+%25E3%2581%2593%25E3%2581%25A9%25E3%2582%2582%25E3%2583%258F%25E3%2583%259F%25E3%2582%25AC%25E3%2582%25AD%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25AA%25E3%2583%25B3+%25E3%2581%2593%25E3%2581%25A9%25E3%2582%2582%25E3%2583%258F%25E3%2583%259F%25E3%2582%25AC%25E3%2582%25AD+%25E3%2582%25AC%25E3%2583%25AA%25E3%2582%25AC%25E3%2583%25AA%25E5%2590%259B%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25AA%25E3%2583%25B3+%25E3%2581%2593%25E3%2581%25A9%25E3%2582%2582%25E3%2583%258F%25E3%2583%259F%25E3%2582%25AC%25E3%2582%25AD+%25E3%2582%25AC%25E3%2583%25AA%25E3%2582%25AC%25E3%2583%25AA%25E5%2590%259B%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4903301198600.jpg?_ex=128x128"
 
 tags:

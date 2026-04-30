@@ -31,11 +31,11 @@ products:
   - rank: 2
     name: "システマ ハグキプラス プレミアム 95g×4本セット"
     brand: "ライオン（システマ）"
-    price: 3393
+    price: 1014
     capacity: "95g×4本"
     pricePerUnit: "約495円/本"
-    rating: 4.53
-    reviewCount: 34
+    rating: 4.75
+    reviewCount: 4
     features:
       - "4種の薬用成分で歯周病・歯肉炎をケア"
       - "フッ素1450ppm配合"
@@ -48,8 +48,8 @@ products:
       - "1本あたりの単価はクリアクリーンより高め"
       - "味が薬用感があり好みが分かれる"
     recommendedFor: "歯周病・歯茎の腫れが気になる方・40代以上の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F517581%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11078039%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/581/517581.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4903301326632%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10014559%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/sku/4903301326632-sku.jpg?_ex=128x128"
 
   - rank: 3
     name: "シュミテクト プロエナメル 90g×3本セット"

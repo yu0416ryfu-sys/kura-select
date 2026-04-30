@@ -93,7 +93,7 @@ products:
   - rank: 5
     name: "エリエール シャワートイレのためにつくったトイレットティシュー ダブル 25m×12ロール"
     brand: "大王製紙（エリエール）"
-    price: 4943
+    price: 5181
     capacity: "25m×12ロール（ダブル）"
     pricePerUnit: "約5.27円/m"
     features:

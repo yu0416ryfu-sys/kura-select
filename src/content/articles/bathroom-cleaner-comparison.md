@@ -8,11 +8,11 @@ products:
   - rank: 1
     name: "バスマジックリン エアジェット 詰め替え 大容量 820mL×2袋"
     brand: "花王（バスマジックリン）"
-    price: 1298
+    price: 801
     capacity: "820mL×2袋（約240回分）"
     pricePerUnit: "約5.4円/回"
-    rating: 4.55
-    reviewCount: 378
+    rating: 4.67
+    reviewCount: 3
     features:
       - "エアジェット噴射で浴室全体にムラなく広がる"
       - "こすらずに60秒待って流すだけ"
@@ -25,17 +25,17 @@ products:
       - "頑固な水垢には別途対策が必要"
       - "スプレーボトルが別途必要"
     recommendedFor: "こすらず掃除したい方・コスパ重視の方・毎日の日常洗いに"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2590%25E3%2582%25B9%25E3%2583%259E%25E3%2582%25B8%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25B3+%25E3%2582%25A8%25E3%2582%25A2%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%2583%25E3%2583%2588+%25E8%25A9%25B0%25E3%2582%2581%25E6%259B%25BF%25E3%2581%2588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4901301404900.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301453273%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10028929%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/273/4901301453273.jpg?_ex=128x128"
 
   - rank: 2
     name: "ルック バスタブクレンジング 詰め替え 大容量 800mL"
     brand: "ライオン（ルック）"
-    price: 598
+    price: 15000
     capacity: "800mL（約120回分）"
     pricePerUnit: "約5.0円/回"
-    rating: 4.48
-    reviewCount: 267
+    rating: 4.8
+    reviewCount: 64
     features:
       - "ミストスプレーで浴槽全体に広がる"
       - "こすらず60秒で皮脂汚れを分解"
@@ -48,13 +48,13 @@ products:
       - "詰め替え時にこぼしやすい"
       - "カビ取り効果はない（日常洗い専用）"
     recommendedFor: "最安値を求める方・浴槽掃除がメインの方・すすぎの楽さを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AB%25E3%2583%2583%25E3%2582%25AF+%25E3%2583%2590%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2596%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25B3%25E3%2582%25B0+%25E8%25A9%25B0%25E3%2582%2581%25E6%259B%25BF%25E3%2581%2588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/goods/4903301601200.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ts4in.3rdw6405.g00ts4in.3rdw7e0e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff122190-ichihara%2F56890543%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff122190-ichihara%2Fi%2F10000143%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/f122190-ichihara/cabinet/d_202007/56890543_01_web_s.jpg?_ex=128x128"
 
   - rank: 3
     name: "カビキラー 特大サイズ 本体 1000g"
     brand: "ジョンソン（カビキラー）"
-    price: 698
+    price: 3460
     capacity: "1000g（約100回分）"
     pricePerUnit: "約7.0円/回"
     rating: 4.65
@@ -71,17 +71,17 @@ products:
       - "塩素系のため刺激臭が強い"
       - "換気が必須で安全面に注意が必要"
     recommendedFor: "黒カビに悩んでいる方・ゴムパッキンのカビを取りたい方・強力なカビ取りが必要な方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AB%25E3%2583%2593%25E3%2582%25AD%25E3%2583%25A9%25E3%2583%25BC+%25E7%2589%25B9%25E5%25A4%25A7+1000g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4901609001138.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxaln.3rdw610a.g00sxaln.3rdw7f93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoikenkou%2F4901609000148_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyoikenkou%2Fi%2F10046312%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yoikenkou/cabinet/d/4901609000148.jpg?_ex=128x128"
 
   - rank: 4
     name: "ウタマロクリーナー 本体 400mL + 詰め替え 350mL セット"
     brand: "東邦（ウタマロ）"
-    price: 880
+    price: 8870
     capacity: "本体400mL+詰め替え350mL（約110回分）"
     pricePerUnit: "約8.0円/回"
-    rating: 4.71
-    reviewCount: 634
+    rating: 5
+    reviewCount: 1
     features:
       - "中性・無色透明で素材を傷めない"
       - "お風呂だけでなくキッチン・リビングにも使える"
@@ -94,8 +94,8 @@ products:
       - "強力なカビ取り効果はない"
       - "専用洗剤に比べると洗浄力はおだやか"
     recommendedFor: "ナチュラル洗剤派の方・1本で家中掃除したい方・手肌にやさしい洗剤を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A6%25E3%2582%25BF%25E3%2583%259E%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%258A%25E3%2583%25BC+%25E8%25A9%25B0%25E3%2582%2581%25E6%259B%25BF%25E3%2581%2588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/goods/4901301601200.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rzxgn.3rdw6956.g00rzxgn.3rdw7856/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatinozakka%2F10010692%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatinozakka%2Fi%2F10010692%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matinozakka/cabinet/04001897/img64493459.jpg?_ex=128x128"
 
 tags:
   - お風呂用洗剤

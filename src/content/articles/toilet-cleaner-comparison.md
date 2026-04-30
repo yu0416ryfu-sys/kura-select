@@ -8,11 +8,11 @@ products:
   - rank: 1
     name: "サンポール トイレ洗剤 尿石除去 1000mL"
     brand: "大日本除虫菊（サンポール）"
-    price: 398
+    price: 1780
     capacity: "1000mL（約50回分）"
     pricePerUnit: "約8.0円/回"
-    rating: 4.52
-    reviewCount: 423
+    rating: 4.5
+    reviewCount: 4
     features:
       - "強力な酸性洗剤で尿石・黄ばみを溶かす"
       - "便器のフチ裏にもかけやすいノズル設計"
@@ -25,17 +25,17 @@ products:
       - "塩素系洗剤との併用は絶対NG"
       - "酸性のため長時間放置すると素材を傷める"
     recommendedFor: "尿石・黄ばみに悩む方・コスパ重視の方・頑固な汚れを落としたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AB+1000mL%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4987115851138.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987115851764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10108088%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/84/4987115851764.jpg?_ex=128x128"
 
   - rank: 2
     name: "スクラビングバブル 超強力トイレクリーナー 400g×3本"
     brand: "ジョンソン（スクラビングバブル）"
-    price: 1080
+    price: 2277
     capacity: "400g×3本（約90回分）"
     pricePerUnit: "約12.0円/回"
-    rating: 4.45
-    reviewCount: 312
+    rating: 4.69
+    reviewCount: 29
     features:
       - "強力な粘度のあるジェルがフチ裏に密着"
       - "塩素系の漂白・除菌効果で黒ずみを除去"
@@ -48,17 +48,17 @@ products:
       - "塩素系のため酸性洗剤との併用NG"
       - "刺激臭があるため換気が必要"
     recommendedFor: "フチ裏の汚れに悩む方・黒ずみ・カビを落としたい方・塩素系洗剤派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2593%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2590%25E3%2583%2596%25E3%2583%25AB+%25E3%2583%2588%25E3%2582%25A4%25E3%2583%25AC+%25E5%25BC%25B7%25E5%258A%259B%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/goods/4901609001200.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F542515%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11127321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/515/542515.jpg?_ex=128x128"
 
   - rank: 3
     name: "ドメスト 除菌クリーナー 500mL×3本"
     brand: "ユニリーバ（ドメスト）"
-    price: 980
+    price: 1582
     capacity: "500mL×3本（約90回分）"
     pricePerUnit: "約10.9円/回"
-    rating: 4.58
-    reviewCount: 356
+    rating: 4.84
+    reviewCount: 73
     features:
       - "粘度の高い液体が便器内側に密着"
       - "除菌率99.99%の強力な除菌効果"
@@ -71,13 +71,13 @@ products:
       - "酸性洗剤との併用は厳禁"
       - "独特の塩素臭がある"
     recommendedFor: "除菌を徹底したい方・衛生面を重視する方・定期的な集中掃除に"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25B9%25E3%2583%2588+%25E9%2599%25A4%25E8%258F%258C+500mL%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4902111773200.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F508946%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11053649%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/946/508946.jpg?_ex=128x128"
 
   - rank: 4
     name: "ブルーレット おくだけ 除菌EX ミントの香り 付替 3個パック"
     brand: "小林製薬（ブルーレット）"
-    price: 798
+    price: 2009
     capacity: "3個（約3ヶ月分）"
     pricePerUnit: "約8.9円/日"
     rating: 4.35
@@ -94,8 +94,8 @@ products:
       - "単体ではしっかりした掃除の代わりにはならない"
       - "ランニングコストは月約270円"
     recommendedFor: "掃除の頻度を減らしたい方・トイレの清潔感を保ちたい方・手軽な予防対策に"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2588+%25E3%2581%258A%25E3%2581%258F%25E3%2581%25A0%25E3%2581%2591+%25E9%2599%25A4%25E8%258F%258CEX%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/goods/4987072073513.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4o6n.3rdw655e.g00s4o6n.3rdw773a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2Fha-4987072092651_3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F10925491%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ulmaxjapan2/cabinet/zg179/4987072092651.jpg?_ex=128x128"
 
 tags:
   - トイレ用洗剤

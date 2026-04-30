@@ -25,13 +25,13 @@ products:
       - "さっぱり系のため冬場はやや物足りない"
       - "泡の持続力がやや短い"
     recommendedFor: "家族で使いたい方・敏感肌の方・泡タイプが好きな方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2593%25E3%2582%25AA%25E3%2583%25ACu+%25E3%2583%259C%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BD%25E3%2583%25BC%25E3%2583%2597+%25E6%25B3%25A1+%25E8%25A9%25B0%25E3%2582%2581%25E6%259B%25BF%25E3%2581%2588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4901301400055.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11166894%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/032/405032.jpg?_ex=128x128"
 
   - rank: 2
     name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
     brand: "ライオン（hadakara）"
-    price: 698
+    price: 732
     capacity: "800mL（約100回分）"
     pricePerUnit: "約0.87円/mL"
     rating: 4.51
@@ -48,17 +48,17 @@ products:
       - "泡立ちにはスポンジ等が必要"
       - "さっぱり派にはやや保湿感が強い"
     recommendedFor: "保湿重視の方・乾燥肌の方・コスパと保湿を両立したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fhadakara+%25E3%2583%259C%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BD%25E3%2583%25BC%25E3%2583%2597+%25E8%25A9%25B0%25E3%2582%2581%25E6%259B%25BF%25E3%2581%2588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/goods/4903301400055.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs40n.3rdw6e75.g00qs40n.3rdw7092/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fladies-online-shop%2F10021895%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fladies-online-shop%2Fi%2F10021895%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ladies-online-shop/cabinet/okashi/mo58077154.jpg?_ex=128x128"
 
   - rank: 3
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 720g"
     brand: "ユニリーバ（ダヴ）"
-    price: 598
+    price: 4460
     capacity: "720g（約2ヶ月分）"
     pricePerUnit: "約0.83円/mL"
-    rating: 4.38
-    reviewCount: 245
+    rating: 4.76
+    reviewCount: 17
     features:
       - "ニュートリアムモイスチャー配合で肌にうるおい"
       - "クリーミーな泡で肌を包み込む"
@@ -71,17 +71,17 @@ products:
       - "しっとりしすぎると感じる方もいる"
       - "ボトルが大きく置き場所を取る"
     recommendedFor: "しっとりした洗い上がりが好きな方・乾燥肌で保湿重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2580%25E3%2583%25B4+%25E3%2583%259C%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5+%25E8%25A9%25B0%25E3%2582%2581%25E6%259B%25BF%25E3%2581%2588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4902111773100.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4902111764443-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10034136%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/09857135/dove-22.jpg?_ex=128x128"
 
   - rank: 4
     name: "ミノン 全身シャンプー 泡タイプ 詰め替え 400mL"
     brand: "第一三共ヘルスケア（ミノン）"
-    price: 1098
+    price: 2993
     capacity: "400mL（約100回分）"
     pricePerUnit: "約2.75円/mL"
-    rating: 4.72
-    reviewCount: 421
+    rating: 4.77
+    reviewCount: 87
     features:
       - "製薬会社開発の薬用処方"
       - "植物性アミノ酸系洗浄成分100%"
@@ -94,8 +94,8 @@ products:
       - "1mLあたりの価格がやや高い"
       - "洗浄力は控えめで脂性肌には物足りない"
     recommendedFor: "敏感肌・アトピー肌の方・赤ちゃんがいる家庭・低刺激にこだわる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259F%25E3%2583%258E%25E3%2583%25B3+%25E5%2585%25A8%25E8%25BA%25AB%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25BC+%25E8%25A9%25B0%25E3%2582%2581%25E6%259B%25BF%25E3%2581%2588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/goods/4987107623911.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F68857%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10910706%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/857/68857.jpg?_ex=128x128"
 
 tags:
   - ボディソープ

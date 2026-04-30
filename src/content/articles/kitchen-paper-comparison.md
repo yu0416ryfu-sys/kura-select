@@ -8,11 +8,11 @@ products:
   - rank: 1
     name: "スコッティ ファイン 3倍巻き キッチンタオル 4ロール×4パック"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 3480
+    price: 7280
     capacity: "4ロール×4パック（150カット×16ロール）"
     pricePerUnit: "約1.45円/枚"
-    rating: 4.56
-    reviewCount: 289
+    rating: 5
+    reviewCount: 2
     features:
       - "3倍巻きで交換頻度が1/3に"
       - "エンボス加工で吸水力アップ"
@@ -25,17 +25,17 @@ products:
       - "通常ロールに比べてやや厚みがある"
       - "ホルダーによっては入らない場合がある"
     recommendedFor: "コスパ重視の方・交換頻度を減らしたい方・まとめ買い派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%2583%25E3%2583%2586%25E3%2582%25A3+%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2581%25E3%2583%25B3%25E3%2582%25BF%25E3%2582%25AA%25E3%2583%25AB+3%25E5%2580%258D%25E5%25B7%25BB%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4901655654213.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzvkn.3rdw6b15.g00qzvkn.3rdw7644/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fl-plus%2F7169105%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fl-plus%2Fi%2F10223677%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/l-plus/cabinet/tasya68/7169105-e.jpg?_ex=128x128"
 
   - rank: 2
     name: "エリエール 超吸収キッチンタオル 70カット×4ロール×4パック"
     brand: "大王製紙（エリエール）"
-    price: 2980
+    price: 3980
     capacity: "70カット×16ロール（1120枚）"
     pricePerUnit: "約2.66円/枚"
-    rating: 4.62
-    reviewCount: 345
+    rating: 4
+    reviewCount: 1
     features:
       - "独自のフェルト構造で圧倒的な吸水力"
       - "1枚で雑巾1枚分の吸水量"
@@ -48,17 +48,17 @@ products:
       - "1枚あたりの単価はやや高め"
       - "薄手のキッチンペーパーに慣れていると厚く感じる"
     recommendedFor: "吸水力重視の方・水回りの掃除にも使いたい方・品質重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%25AA%25E3%2582%25A8%25E3%2583%25BC%25E3%2583%25AB+%25E8%25B6%2585%25E5%2590%25B8%25E5%258F%258E+%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2581%25E3%2583%25B3%25E3%2582%25BF%25E3%2582%25AA%25E3%2583%25AB%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4902011734143.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tiz9n.3rdw6353.g00tiz9n.3rdw771a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprotoolshop%2F4902011724028%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprotoolshop%2Fi%2F10085112%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/protoolshop/cabinet/028/4902011724028.jpg?_ex=128x128"
 
   - rank: 3
     name: "ネピア 激吸収 キッチンタオル 100カット×2ロール×12パック"
     brand: "王子ネピア（ネピア）"
-    price: 3280
+    price: 398
     capacity: "100カット×24ロール（2400枚）"
     pricePerUnit: "約1.37円/枚"
-    rating: 4.38
-    reviewCount: 178
+    rating: 4.9
+    reviewCount: 48
     features:
       - "激吸収構造で水分をすばやくキャッチ"
       - "大容量24ロールでまとめ買いに最適"
@@ -71,17 +71,17 @@ products:
       - "エリエール超吸収に比べると強度はやや劣る"
       - "大量パックで保管場所が必要"
     recommendedFor: "最安値を求める方・大家族・まとめ買いでストックしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%258D%25E3%2583%2594%25E3%2582%25A2+%25E6%25BF%2580%25E5%2590%25B8%25E5%258F%258E+%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2581%25E3%2583%25B3%25E3%2582%25BF%25E3%2582%25AA%25E3%2583%25AB%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/goods/4901121654213.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901121335032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10111149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/80/4901121335032.jpg?_ex=128x128"
 
   - rank: 4
     name: "業務用 ペーパータオル 中判 200枚×30パック"
     brand: "業務用（各社OEM）"
-    price: 3980
+    price: 3969
     capacity: "200枚×30パック（6000枚）"
     pricePerUnit: "約0.66円/枚"
-    rating: 4.21
-    reviewCount: 156
+    rating: 4.41
+    reviewCount: 41
     features:
       - "1枚あたり約0.66円の圧倒的コスパ"
       - "業務用の安定した品質"
@@ -94,8 +94,8 @@ products:
       - "吸水力はロールタイプに劣る"
       - "大量のため保管スペースが必要"
     recommendedFor: "徹底的にコストを抑えたい方・手拭き用がメインの方・大家族"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rfmln.3rdw63d9.g00rfmln.3rdw7e87/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%25A5%25AD%25E5%258B%2599%25E7%2594%25A8+%25E3%2583%259A%25E3%2583%25BC%25E3%2583%2591%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25AA%25E3%2583%25AB+200%25E6%259E%259A%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oshibori/cabinet/goods/4901301654213.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq8tn.3rdw6841.g00qq8tn.3rdw7945/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocodecow%2Frd0286%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocodecow%2Fi%2F10249545%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/832/rd0286.jpg?_ex=128x128"
 
 tags:
   - キッチンペーパー
