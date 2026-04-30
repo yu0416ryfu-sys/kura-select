@@ -50,12 +50,27 @@ const productJsonLds = data.products
     "@context": "https://schema.org",
     "@type": "Product",
     name: p.name,
+    description: `${p.brand}の${p.name}。${p.capacity}。${p.recommendedFor}`,
     brand: { "@type": "Brand", name: p.brand },
+    image: p.imageUrl || `${SITE.url}${SITE.ogImage}`,
     offers: {
       "@type": "Offer",
       priceCurrency: "JPY",
       price: p.price,
+      url: p.rakutenUrl,
       availability: "https://schema.org/InStock",
+      shippingDetails: {
+        "@type": "OfferShippingDetails",
+        shippingDestination: {
+          "@type": "DefinedRegion",
+          addressCountry: "JP",
+        },
+      },
+      hasMerchantReturnPolicy: {
+        "@type": "MerchantReturnPolicy",
+        applicableCountry: "JP",
+        returnPolicyCategory: "https://schema.org/MerchantReturnNotPermitted",
+      },
     },
     aggregateRating: p.rating !== undefined ? {
       "@type": "AggregateRating",
