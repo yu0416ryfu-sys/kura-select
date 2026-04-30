@@ -31,11 +31,11 @@ products:
   - rank: 2
     name: "ルック バスタブクレンジング 詰め替え 大容量 800mL"
     brand: "ライオン（ルック）"
-    price: 15000
+    price: 2179
     capacity: "800mL（約120回分）"
     pricePerUnit: "約5.0円/回"
-    rating: 4.8
-    reviewCount: 64
+    rating: 4.74
+    reviewCount: 68
     features:
       - "ミストスプレーで浴槽全体に広がる"
       - "こすらず60秒で皮脂汚れを分解"
@@ -48,17 +48,17 @@ products:
       - "詰め替え時にこぼしやすい"
       - "カビ取り効果はない（日常洗い専用）"
     recommendedFor: "最安値を求める方・浴槽掃除がメインの方・すすぎの楽さを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ts4in.3rdw6405.g00ts4in.3rdw7e0e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff122190-ichihara%2F56890543%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff122190-ichihara%2Fi%2F10000143%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/f122190-ichihara/cabinet/d_202007/56890543_01_web_s.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4903301322832%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10017984%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/832/4903301322832.jpg?_ex=128x128"
 
   - rank: 3
     name: "カビキラー 特大サイズ 本体 1000g"
     brand: "ジョンソン（カビキラー）"
-    price: 3460
+    price: 670
     capacity: "1000g（約100回分）"
     pricePerUnit: "約7.0円/回"
-    rating: 4.65
-    reviewCount: 512
+    rating: 5
+    reviewCount: 2
     features:
       - "強力な塩素系成分でカビの根まで除去"
       - "スプレーして5分待つだけで黒カビを漂白"
@@ -71,8 +71,8 @@ products:
       - "塩素系のため刺激臭が強い"
       - "換気が必須で安全面に注意が必要"
     recommendedFor: "黒カビに悩んでいる方・ゴムパッキンのカビを取りたい方・強力なカビ取りが必要な方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxaln.3rdw610a.g00sxaln.3rdw7f93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoikenkou%2F4901609000148_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyoikenkou%2Fi%2F10046312%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yoikenkou/cabinet/d/4901609000148.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901609000148-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F11836688%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic4900/4901609000148_1.jpg?_ex=128x128"
 
   - rank: 4
     name: "ウタマロクリーナー 本体 400mL + 詰め替え 350mL セット"

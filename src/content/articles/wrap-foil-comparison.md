@@ -77,7 +77,7 @@ products:
   - rank: 4
     name: "業務用ポリラップ 無添加 22cm×100m 3本セット"
     brand: "ポリラップ（ポリエチレン製）"
-    price: 12900
+    price: 13080
     capacity: "22cm×100m×3本（300m）"
     pricePerUnit: "約2.6円/m"
     rating: 4.0
@@ -94,8 +94,8 @@ products:
       - "クレラップ・サランラップと比べて密着力が劣る"
       - "プロ向けのシンプル包装でデザイン性は低い"
     recommendedFor: "コスト最優先の方・業務・大量使用・電子レンジ加熱が多い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7dn.3rdw6546.g00un7dn.3rdw75a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsumehoudai%2F36467%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsumehoudai%2Fi%2F10000735%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsumehoudai/cabinet/lap5.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7dn.3rdw6546.g00un7dn.3rdw75a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsumehoudai%2F36168%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsumehoudai%2Fi%2F10000739%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsumehoudai/cabinet/lap9.jpg?_ex=128x128"
 
 tags:
   - ラップ
