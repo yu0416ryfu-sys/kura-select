@@ -8,11 +8,11 @@ products:
   - rank: 1
     name: "キレイキレイ 薬用泡ハンドソープ 詰め替え 大容量 800mL×2袋"
     brand: "ライオン（キレイキレイ）"
-    price: 4164
+    price: 2806
     capacity: "800mL×2袋（約400回分）"
     pricePerUnit: "約1.5円/回"
-    rating: 4.7
-    reviewCount: 383
+    rating: 4.21
+    reviewCount: 384
     features:
       - "殺菌成分イソプロピルメチルフェノール配合"
       - "きめ細かい泡で手全体をしっかり洗える"
@@ -25,8 +25,8 @@ products:
       - "保湿力はやや控えめ"
       - "香りの好みが分かれる場合がある"
     recommendedFor: "殺菌力重視の方・家族で使う方・コスパを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F90667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10986242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/667/90667.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4903301321347%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11035854%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/347/4903301321347.jpg?_ex=128x128"
 
   - rank: 2
     name: "ビオレu 泡ハンドソープ 詰め替え 大容量 800mL×2袋"
@@ -54,11 +54,11 @@ products:
   - rank: 3
     name: "ミューズ 泡ハンドソープ 詰め替え 大容量 900mL"
     brand: "レキットベンキーザー（ミューズ）"
-    price: 2950
+    price: 1914
     capacity: "900mL（約300回分）"
     pricePerUnit: "約1.8円/回"
-    rating: 4.68
-    reviewCount: 234
+    rating: 4.28
+    reviewCount: 1450
     features:
       - "幅広いバイ菌を殺菌・消毒"
       - "ミューズ独自の殺菌処方で高い除菌力"
@@ -71,17 +71,17 @@ products:
       - "1回あたりのコストがやや高め"
       - "乾燥肌の方は保湿ケアが別途必要"
     recommendedFor: "殺菌力を最重視する方・しっかり洗いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00toizn.3rdw6228.g00toizn.3rdw730f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonoworld%2Fzakka-0029%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmonoworld%2Fi%2F10000154%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/monoworld/cabinet/10151410/compass1703598547.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404861%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11127123%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/861/404861.jpg?_ex=128x128"
 
   - rank: 4
     name: "ミヨシ 無添加 泡のせっけんハンドソープ 詰め替え 300mL×3個"
     brand: "ミヨシ石鹸"
-    price: 298
+    price: 471
     capacity: "300mL×3個（約225回分）"
     pricePerUnit: "約2.0円/回"
-    rating: 4.8
-    reviewCount: 40
+    rating: 4.74
+    reviewCount: 561
     features:
       - "香料・着色料・防腐剤無添加の純せっけん"
       - "植物性油脂から作られた肌にやさしい処方"
@@ -94,8 +94,8 @@ products:
       - "殺菌成分は含まれていない"
       - "容量が少なく詰め替え頻度がやや高い"
     recommendedFor: "敏感肌・アレルギー体質の方・無添加にこだわる方・エコ志向の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4904551100614%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10082996%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202503_5/4904551100614.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200474%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10114171%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/614/4904551100614.jpg?_ex=128x128"
 
 tags:
   - ハンドソープ

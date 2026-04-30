@@ -68,17 +68,19 @@ async function fetchRakutenSearch(keyword) {
     applicationId: APPLICATION_ID,
     affiliateId: AFFILIATE_ID,
     keyword: searchKeyword,
-    hits: '3',           // 上位3件を取得（最も近い商品を選ぶため）
+    hits: '10',          // ふるさと納税・高額セット除外のため多めに取得
     imageFlag: '1',      // 画像付き商品のみ
+    sort: '-reviewCount', // レビュー件数の多い順（人気順）
     formatVersion: '2',  // 改善版レスポンス形式
     elements: [
       'itemName', 'itemPrice', 'itemUrl', 'affiliateUrl',
       'mediumImageUrls', 'reviewCount', 'reviewAverage',
+      'shopName', 'shopUrl',
     ].join(','),
   });
 
   const url = `${RAKUTEN_API_ENDPOINT}?${params}`;
-  const res = await fetch(url, {
+  let res = await fetch(url, {
     headers: {
       'accessKey': ACCESS_KEY,
       'Origin': 'https://yu0416ryfu-sys.github.io',
@@ -87,7 +89,20 @@ async function fetchRakutenSearch(keyword) {
   });
 
   if (res.status === 429) {
-    throw new Error('APIリクエスト制限超過。しばらく待ってから再試行してください');
+    // レート制限: 5秒待ってリトライ
+    await new Promise(r => setTimeout(r, 5000));
+    const res2 = await fetch(url, {
+      headers: {
+        'accessKey': ACCESS_KEY,
+        'Origin': 'https://yu0416ryfu-sys.github.io',
+        'Referer': 'https://yu0416ryfu-sys.github.io/',
+      },
+    });
+    if (!res2.ok) {
+      const body = await res2.text();
+      throw new Error(`APIリクエスト制限超過（リトライ後も失敗: ${res2.status}）`);
+    }
+    res = res2;
   }
   if (!res.ok) {
     const body = await res.text();
@@ -100,8 +115,25 @@ async function fetchRakutenSearch(keyword) {
     throw new Error('検索結果が0件です');
   }
 
-  // 1件目の商品データを使用
-  const item = data.Items[0];
+  // ふるさと納税・異常価格の商品を除外
+  const filtered = data.Items.filter(item => {
+    const url = item.itemUrl || item.affiliateUrl || '';
+    const name = (item.itemName || '').toLowerCase();
+    const shopUrl = item.shopUrl || '';
+    // ふるさと納税ショップURLパターン: f{数字}-{自治体名}
+    if (/\/f\d{4,}-[a-z]/.test(shopUrl) || /\/f\d{4,}-[a-z]/.test(url)) return false;
+    // 商品名やショップ名にふるさと納税関連ワード
+    if (/ふるさと納税|ふるさと|寄付|寄附|返礼品/.test(item.itemName || '')) return false;
+    if (/ふるさと納税|furusato/.test(item.shopName || '')) return false;
+    return true;
+  });
+
+  if (filtered.length === 0) {
+    throw new Error('通常商品が見つかりません（ふるさと納税のみ）');
+  }
+
+  // フィルタ後の1件目を使用
+  const item = filtered[0];
 
   // 画像URLを取得（128px角のサムネイル）
   const imageUrl = item.mediumImageUrls?.[0] ?? null;
@@ -163,8 +195,8 @@ async function main() {
         results.push({ success: false, name: shortName, reason: e.message });
         totalFail++;
       }
-      // APIレート制限対策（1秒間隔）
-      await new Promise(r => setTimeout(r, 1000));
+      // APIレート制限対策（2秒間隔）
+      await new Promise(r => setTimeout(r, 2000));
     }
 
     if (!DRY_RUN && updatedContent !== content) {

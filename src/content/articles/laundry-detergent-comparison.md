@@ -54,7 +54,7 @@ products:
   - rank: 3
     name: "ボールド 洗濯洗剤 ジェルボール 4in1 詰め替え 65個"
     brand: "P&G（ボールド）"
-    price: 2728
+    price: 4480
     capacity: "65個（65回分）"
     pricePerUnit: "約25.8円/回"
     features:
@@ -69,8 +69,8 @@ products:
       - "1回あたりのコストが高め"
       - "量を調節しにくい"
     recommendedFor: "手軽さ重視・子育て中で忙しい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F700042%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10040682%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/sku/700042-sku.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2ngn.3rdw6e7c.g00t2ngn.3rdw797f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F1710000080%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhikaritv%2Fi%2F10234804%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000080_k.jpg?_ex=128x128"
 
   - rank: 4
     name: "さらさ 洗濯洗剤 液体 詰め替え 超特大 1.01kg×2袋セット"

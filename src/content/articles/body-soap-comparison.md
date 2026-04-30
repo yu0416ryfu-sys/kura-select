@@ -54,11 +54,11 @@ products:
   - rank: 3
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 720g"
     brand: "ユニリーバ（ダヴ）"
-    price: 4460
+    price: 2598
     capacity: "720g（約2ヶ月分）"
     pricePerUnit: "約0.83円/mL"
-    rating: 4.76
-    reviewCount: 17
+    rating: 4.69
+    reviewCount: 32
     features:
       - "ニュートリアムモイスチャー配合で肌にうるおい"
       - "クリーミーな泡で肌を包み込む"
@@ -71,8 +71,8 @@ products:
       - "しっとりしすぎると感じる方もいる"
       - "ボトルが大きく置き場所を取る"
     recommendedFor: "しっとりした洗い上がりが好きな方・乾燥肌で保湿重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4902111764443-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10034136%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/09857135/dove-22.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4902111764443%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10032736%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/09857135/4902111776576r.jpg?_ex=128x128"
 
   - rank: 4
     name: "ミノン 全身シャンプー 泡タイプ 詰め替え 400mL"

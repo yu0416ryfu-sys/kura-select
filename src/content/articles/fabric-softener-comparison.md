@@ -8,7 +8,7 @@ products:
   - rank: 1
     name: "レノア 本格消臭 柔軟剤 詰め替え 超特大 1260mL×2袋"
     brand: "P&G（レノア）"
-    price: 2636
+    price: 3020
     capacity: "1260mL×2袋（約126回分）"
     pricePerUnit: "約12.5円/回"
     rating: 4.4
@@ -25,13 +25,13 @@ products:
       - "香りが強いと感じる場合がある"
       - "敏感肌には刺激を感じることも"
     recommendedFor: "消臭重視の方・部屋干しが多い方・コスパ派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ukzzn.3rdw63b8.g00ukzzn.3rdw7164/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanairoshop%2F20250605060825_114%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnanairoshop%2Fi%2F10126355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nanairoshop/cabinet/r_2024051257/20250605060825_114_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00up3bn.3rdw60f2.g00up3bn.3rdw7ff6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyksakai%2Frm5gaghcckomnptjv3ixcugo64%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyksakai%2Fi%2F10470645%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yksakai/cabinet/12902079/39758845_1.jpg?_ex=128x128"
 
   - rank: 2
     name: "ハミングファイン 柔軟剤 詰め替え 大容量 1500mL"
     brand: "花王（ハミングファイン）"
-    price: 2367
+    price: 1583
     capacity: "1500mL（約100回分）"
     pricePerUnit: "約8.8円/回"
     rating: 4.5
@@ -48,8 +48,8 @@ products:
       - "香りの持続時間はレノアに劣る"
       - "香りのバリエーションが少ない"
     recommendedFor: "コスト最優先の方・静電気が気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tis7n.3rdw6f7e.g00tis7n.3rdw7c9e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocomakai%2Fcoc51032e664b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocomakai%2Fi%2F10066051%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocomakai/cabinet/onesell148/coc51032e664b.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uo14n.3rdw68f0.g00uo14n.3rdw7116/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanamaru-shouten%2F20251007151525_105%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanamaru-shouten%2Fi%2F10043743%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanamaru-shouten/cabinet/r_2025042840/20251007151525_105_1.jpg?_ex=128x128"
 
   - rank: 3
     name: "ダウニー インフュージョンズ 柔軟剤 ローズ＆チャンパカ 1.5L"
@@ -78,11 +78,11 @@ products:
   - rank: 4
     name: "さらさ 柔軟剤 詰め替え 超特大 1260mL"
     brand: "P&G（さらさ）"
-    price: 6977
+    price: 2664
     capacity: "1260mL（約84回分）"
     pricePerUnit: "約11.7円/回"
-    rating: 4.57
-    reviewCount: 160
+    rating: 4.42
+    reviewCount: 445
     features:
       - "植物由来成分使用の低刺激処方"
       - "無蛍光剤・無漂白剤・無着色料"
@@ -95,8 +95,8 @@ products:
       - "香りの主張が弱めなため物足りない方も"
       - "消臭効果はレノアに比べると控えめ"
     recommendedFor: "敏感肌・赤ちゃんのいる家庭・低刺激処方を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7174547%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077966%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/tenposupport21/7261004.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1osn.3rdw6db5.g00r1osn.3rdw76c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarasa-designstore%2Fset-ls021x3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarasa-designstore%2Fi%2F10002237%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sarasa-designstore/cabinet/c05/set-ls021x3_ver2.jpg?_ex=128x128"
 
 tags:
   - 柔軟剤

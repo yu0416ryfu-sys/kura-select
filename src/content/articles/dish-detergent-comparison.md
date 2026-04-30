@@ -34,8 +34,8 @@ products:
     price: 2710
     capacity: "770mL×2袋（約385回分）"
     pricePerUnit: "約2.1円/回"
-    rating: 4.58
-    reviewCount: 19
+    rating: 4.78
+    reviewCount: 41
     features:
       - "コンパクト処方で少量でもよく落ちる"
       - "食洗機非対応・手洗い専用設計"
@@ -48,8 +48,8 @@ products:
       - "キュキュットより若干価格が高め"
       - "香りが強めと感じる方も"
     recommendedFor: "洗浄力最優先の方・油の多い料理をする方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7269456%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10092406%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09344783/7269456.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7269456%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10221021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasyakura/7269456.jpg?_ex=128x128"
 
   - rank: 3
     name: "チャーミーマジカ 食器用洗剤 詰め替え 超大型 1380mL"
@@ -77,7 +77,7 @@ products:
   - rank: 4
     name: "ヤシノミ洗剤 食器・野菜用 詰め替え 540mL"
     brand: "サラヤ（ヤシノミ洗剤）"
-    price: 2180
+    price: 2769
     capacity: "540mL（約180回分）"
     pricePerUnit: "約2.7円/回"
     rating: 4.5
@@ -94,8 +94,8 @@ products:
       - "容量が少なく詰め替え頻度が高い"
       - "強い油汚れには複数回使用が必要"
     recommendedFor: "敏感肌・手荒れが心配な方・食材も洗いたい方・エコ志向の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s358n.3rdw6221.g00s358n.3rdw7e18/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworldselect%2F0953-001597%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworldselect%2Fi%2F10052269%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/worldselect/cabinet/amayahoo/06389904/0953-001597.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqv2n.3rdw6222.g00uqv2n.3rdw7c45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fastershop%2Fbomdykhfin55h3inene676douq%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fastershop%2Fi%2F10191599%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/astershop/cabinet/11876517/33242660_1.jpg?_ex=128x128"
 
 tags:
   - 食器用洗剤

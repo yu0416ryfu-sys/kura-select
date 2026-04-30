@@ -8,11 +8,11 @@ products:
   - rank: 1
     name: "クレラップ レギュラー 22cm×50m 4本パック"
     brand: "クレハ（クレラップ）"
-    price: 463
+    price: 567
     capacity: "22cm×50m×4本（200m）"
     pricePerUnit: "約4.9円/m"
-    rating: 4.7
-    reviewCount: 5800
+    rating: 4.66
+    reviewCount: 199
     features:
       - "日本製ポリ塩化ビニリデン製の高機能ラップ"
       - "抜群の密着力で食品の鮮度を長持ち"
@@ -25,17 +25,17 @@ products:
       - "ポリ塩化ビニリデン製のため高温への使用は注意が必要"
       - "サランラップと比べると価格が高め"
     recommendedFor: "食品保存にこだわる方・鮮度を長持ちさせたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00unman.3rdw6bbf.g00unman.3rdw702d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftszakka%2Fts-4901422152505%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftszakka%2Fi%2F10000571%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tszakka/cabinet/4901422152505.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200078%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10094690%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/505/4901422152505.jpg?_ex=128x128"
 
   - rank: 2
     name: "サランラップ 30cm×50m 3本パック"
     brand: "旭化成（サランラップ）"
-    price: 262
+    price: 14300
     capacity: "30cm×50m×3本（150m）"
     pricePerUnit: "約7.2円/m"
-    rating: 4.85
-    reviewCount: 68
+    rating: 4.83
+    reviewCount: 78
     features:
       - "旭化成の定番ポリ塩化ビニリデン製ラップ"
       - "電子レンジ・冷凍庫対応（高温は除く）"
@@ -48,8 +48,8 @@ products:
       - "30cmなので小さい容器には使いにくいことも"
       - "3本で150mとクレラップより総量が少ない"
     recommendedFor: "大きな容器・食品保存にこだわる方・定番品を使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901670106336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10006411%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic02/4901670110210.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sjkzn.3rdw6654.g00sjkzn.3rdw73bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsatoiku%2Fsaranwrap_30_30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsatoiku%2Fi%2F10020877%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/satoiku/cabinet/05239510/4901670110388_2.jpg?_ex=128x128"
 
   - rank: 3
     name: "東洋アルミ アルファミュー アルミホイル 30cm×50m"
@@ -94,8 +94,8 @@ products:
       - "クレラップ・サランラップと比べて密着力が劣る"
       - "プロ向けのシンプル包装でデザイン性は低い"
     recommendedFor: "コスト最優先の方・業務・大量使用・電子レンジ加熱が多い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7dn.3rdw6546.g00un7dn.3rdw75a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsumehoudai%2F36168%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsumehoudai%2Fi%2F10000739%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsumehoudai/cabinet/lap9.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7dn.3rdw6546.g00un7dn.3rdw75a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsumehoudai%2F36168p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsumehoudai%2Fi%2F10000740%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsumehoudai/cabinet/lap10.jpg?_ex=128x128"
 
 tags:
   - ラップ

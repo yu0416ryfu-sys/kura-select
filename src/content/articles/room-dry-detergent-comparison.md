@@ -8,11 +8,11 @@ products:
   - rank: 1
     name: "アタック 抗菌EX 部屋干し用 詰め替え 超特大 1800g"
     brand: "花王（アタック）"
-    price: 2143
+    price: 6980
     capacity: "1800g（約60回分）"
     pricePerUnit: "約15.0円/回"
-    rating: 4.52
-    reviewCount: 423
+    rating: 4.84
+    reviewCount: 74
     features:
       - "抗菌水洗浄で生乾き臭の原因菌を99%除去"
       - "24時間部屋干ししても臭わない抗菌力"
@@ -25,17 +25,17 @@ products:
       - "香りがやや強めと感じる方もいる"
       - "濃縮タイプのため計量に注意が必要"
     recommendedFor: "コスパと抗菌力を両立したい方・毎日部屋干しする方・すすぎ1回派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F609838%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11350049%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/838/609838.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u7dvn.3rdw6bc7.g00u7dvn.3rdw7a34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuterastar%2Fb0d4z7rrlp-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuterastar%2Fi%2F10002720%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suterastar/cabinet/goq002/1617_1.jpg?_ex=128x128"
 
   - rank: 2
     name: "トップ NANOX 部屋干し専用 詰め替え 超特大 1230g"
     brand: "ライオン（トップ NANOX）"
-    price: 4480
+    price: 17800
     capacity: "1230g（約62回分）"
     pricePerUnit: "約12.9円/回"
-    rating: 4.48
-    reviewCount: 312
+    rating: 5
+    reviewCount: 1
     features:
       - "ナノ洗浄で繊維の奥の臭い菌まで分解"
       - "高濃度リフトアウト洗浄で頑固な汚れも落とす"
@@ -48,17 +48,17 @@ products:
       - "香りが控えめで好みが分かれる"
       - "頑固な皮脂汚れにはやや弱い場面も"
     recommendedFor: "最安値を求める方・ドラム式洗濯機ユーザー・部屋干し専用を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugptn.3rdw6cf8.g00ugptn.3rdw75d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcleanwarehouse%2Fcompass1727097981%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcleanwarehouse%2Fi%2F10000044%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cleanwarehouse/cabinet/biiino/award/20251201201647_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4qcn.3rdw6396.g00u4qcn.3rdw78c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatinum-eight%2F425%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatinum-eight%2Fi%2F10000459%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platinum-eight/cabinet/compass1706417618.jpg?_ex=128x128"
 
   - rank: 3
     name: "アリエール ジェルボール4D 部屋干し用 詰め替え 63個"
     brand: "P&G（アリエール）"
-    price: 5171
+    price: 4398
     capacity: "63個（63回分）"
     pricePerUnit: "約27.0円/回"
-    rating: 4.62
-    reviewCount: 534
+    rating: 4.75
+    reviewCount: 8
     features:
       - "4層構造のジェルボールで計量不要"
       - "抗菌・消臭・洗浄・柔軟の4in1"
@@ -71,17 +71,17 @@ products:
       - "1回あたり約27円とコストは高め"
       - "少量の洗濯物には割高"
     recommendedFor: "手軽さ重視の方・柔軟剤を別で買いたくない方・ジェルボール派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ukzzn.3rdw63b8.g00ukzzn.3rdw7164/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanairoshop%2F20250114054819_114%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnanairoshop%2Fi%2F10111620%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nanairoshop/cabinet/r_2024051455/20250114054819_114_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F10001948%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10001948%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/437423353757726.jpg?_ex=128x128"
 
   - rank: 4
     name: "部屋干しトップ 除菌EX 粉末 900g×2個"
     brand: "ライオン（トップ）"
-    price: 4980
+    price: 498
     capacity: "900g×2個（約56回分）"
     pricePerUnit: "約22.9円/回"
-    rating: 5
-    reviewCount: 1
+    rating: 4.36
+    reviewCount: 11
     features:
       - "除菌成分配合で部屋干し臭を元からカット"
       - "粉末タイプの高い洗浄力"
@@ -94,8 +94,8 @@ products:
       - "粉末のため水温が低いと溶け残る"
       - "液体タイプに比べて使い勝手はやや劣る"
     recommendedFor: "洗浄力重視の方・粉末洗剤派の方・食べこぼしが多い家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10180417%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10112658%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/syohin95/10180417.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q7yxn.3rdw6516.g00q7yxn.3rdw7e1e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmebox%2Fj4903301340133%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmebox%2Fi%2F10045049%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmebox/cabinet/item63/j4903301340133_1.jpg?_ex=128x128"
 
 tags:
   - 部屋干し

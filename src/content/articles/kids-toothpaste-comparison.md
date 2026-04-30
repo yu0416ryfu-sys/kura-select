@@ -54,11 +54,11 @@ products:
   - rank: 3
     name: "ピジョン 親子で乳歯ケア ジェル状歯みがき ぷちキッズ 50g×2本"
     brand: "ピジョン"
-    price: 1404
+    price: 660
     capacity: "50g×2本（約4ヶ月分）"
     pricePerUnit: "約9.80円/g"
-    rating: 4.83
-    reviewCount: 6
+    rating: 4.78
+    reviewCount: 27
     features:
       - "フッ素500ppmで1歳6ヶ月から使える低濃度設計"
       - "食品用原料成分使用で飲み込んでも安心"
@@ -71,8 +71,8 @@ products:
       - "フッ素濃度が低いため効果はおだやか"
       - "容量が少なくコスパはやや劣る"
     recommendedFor: "1歳半〜3歳のお子さま・初めての歯磨き粉に・安全性最重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F73318%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10937709%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/318/73318.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Ff001269197142%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10024084%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/463/4902508104463.jpg?_ex=128x128"
 
   - rank: 4
     name: "ライオン こどもハミガキ ガリガリ君 ソーダ香味 40g×3本"

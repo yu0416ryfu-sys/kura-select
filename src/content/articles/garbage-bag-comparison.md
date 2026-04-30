@@ -31,11 +31,11 @@ products:
   - rank: 2
     name: "ポリ袋 45L 半透明 厚手0.030mm 50枚×3パック"
     brand: "Nissho（日翔）"
-    price: 22000
+    price: 4070
     capacity: "45L×50枚×3パック（150枚）"
     pricePerUnit: "約6.5円/枚"
-    rating: 5
-    reviewCount: 1
+    rating: 4.52
+    reviewCount: 2077
     features:
       - "厚手0.030mmで破れにくい強度"
       - "50枚入りで適度な量のまとめ買い"
@@ -48,8 +48,8 @@ products:
       - "薄手品よりコストが高め"
       - "大量まとめ買いには割高感がある"
     recommendedFor: "生ゴミが多い方・ゴミ袋の破れが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u09on.3rdw6ca3.g00u09on.3rdw7cfb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff112216-soka%2F56710457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff112216-soka%2Fi%2F10000252%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/f112216-soka/cabinet/image/sanskrit/09946573/r_0318008_000918.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qb0ln.3rdw6ac4.g00qb0ln.3rdw7ccd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Ftrash%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10000215%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_11g/p10n-4/idc1002-00006-0_gt01.jpg?_ex=128x128"
 
   - rank: 3
     name: "エコ袋 バイオマスゴミ袋 45L 白半透明 30枚入"
