@@ -28,3 +28,6 @@ pnpm-debug.log*
 
 # スクリプトバックアップ
 *.bak
+
+# ClaudeCode作業メモ
+ClaudeCode/
