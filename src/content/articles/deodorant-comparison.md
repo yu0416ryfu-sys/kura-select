@@ -81,7 +81,7 @@ products:
     capacity: "20g"
     pricePerUnit: "約50円/g"
     rating: 4.82
-    reviewCount: 260
+    reviewCount: 263
     features:
       - "天然アルム石（ミョウバン）が有効成分"
       - "スティックタイプで直塗りできる"

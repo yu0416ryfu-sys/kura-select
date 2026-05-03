@@ -58,7 +58,7 @@ products:
     capacity: "45枚×8個（360枚）"
     pricePerUnit: "約3.6円/枚"
     rating: 4.74
-    reviewCount: 221
+    reviewCount: 222
     features:
       - "ノンアルコール・無香料で敏感肌にやさしい"
       - "99.99%除菌（ノンアルコールでも高い除菌力）"

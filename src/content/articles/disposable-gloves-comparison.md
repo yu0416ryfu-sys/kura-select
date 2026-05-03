@@ -35,7 +35,7 @@ products:
     capacity: "100枚×3箱（300枚）"
     pricePerUnit: "約7.9円/枚"
     rating: 4.7
-    reviewCount: 1210
+    reviewCount: 1216
     features:
       - "ニトリル素材で油・薬品にも強い高い耐久性"
       - "手にフィットして細かい作業もしやすい"
@@ -58,7 +58,7 @@ products:
     capacity: "100枚×3箱（300枚）"
     pricePerUnit: "約5.6円/枚"
     rating: 4.7
-    reviewCount: 1210
+    reviewCount: 1216
     features:
       - "PVC（ポリ塩化ビニル）素材でほどよいフィット感"
       - "粉なしで手荒れしにくい"
@@ -77,7 +77,7 @@ products:
   - rank: 4
     name: "ファミリー ビニール 使いきり手袋 うす手 100枚入"
     brand: "エステー（ファミリー）"
-    price: 24576
+    price: 2961
     capacity: "100枚"
     pricePerUnit: "約7.8円/枚"
     rating: 4.2
@@ -94,8 +94,8 @@ products:
       - "100枚入りのみで大容量パックがない"
       - "業務用と比べるとコスパは劣る"
     recommendedFor: "市販品で手軽に買いたい方・品質重視の方・少量使いの方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4o6n.3rdw655e.g00s4o6n.3rdw773a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2Fha-4901070760435_10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F10945098%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ulmaxjapan2/cabinet/zg135/4901070760435.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4o6n.3rdw655e.g00s4o6n.3rdw773a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2Fha-4901070760381_5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F10941711%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ulmaxjapan2/cabinet/zg135/4901070760381.jpg?_ex=128x128"
 
 tags:
   - 使い捨て手袋

@@ -12,7 +12,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約5円/g"
     rating: 4.71
-    reviewCount: 68
+    reviewCount: 69
     features:
       - "海泥（かいでい）が毛穴汚れを吸着除去"
       - "きめ細かいクリーミーな泡立ち"

@@ -12,7 +12,7 @@ products:
     capacity: "820mL×2袋（約410回分）"
     pricePerUnit: "約1.9円/回"
     rating: 4.74
-    reviewCount: 496
+    reviewCount: 497
     features:
       - "花王独自の界面活性剤で油汚れをすっきり落とす"
       - "詰め替え大容量でコスパ優秀"
@@ -34,8 +34,8 @@ products:
     price: 2710
     capacity: "770mL×2袋（約385回分）"
     pricePerUnit: "約2.1円/回"
-    rating: 4.78
-    reviewCount: 41
+    rating: 4.79
+    reviewCount: 42
     features:
       - "コンパクト処方で少量でもよく落ちる"
       - "食洗機非対応・手洗い専用設計"

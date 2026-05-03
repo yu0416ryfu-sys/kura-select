@@ -34,8 +34,8 @@ products:
     price: 1370
     capacity: "480mL×3袋（約90回分）"
     pricePerUnit: "約13.1円/回"
-    rating: 4.67
-    reviewCount: 36
+    rating: 4.68
+    reviewCount: 37
     features:
       - "香料・着色料・シリコン・抗菌剤 4つの無添加"
       - "柔軟成分は植物由来100%"
@@ -54,7 +54,7 @@ products:
   - rank: 3
     name: "ベビーファーファ 柔軟剤 600mL×3本"
     brand: "NSファーファ・ジャパン（ベビーファーファ）"
-    price: 1480
+    price: 8178
     capacity: "600mL×3本（約90回分）"
     pricePerUnit: "約16.4円/回"
     rating: 4.52
@@ -71,8 +71,8 @@ products:
       - "1回あたりのコストがやや高め"
       - "取り扱い店舗がやや少ない"
     recommendedFor: "新生児から使いたい方・天然由来の香りが好きな方・赤ちゃん専用にこだわる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1+%25E6%259F%2594%25E8%25BB%259F%25E5%2589%25A4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1+%25E6%259F%2594%25E8%25BB%259F%25E5%2589%25A4%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/goods/4902135541500.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3i4n.3rdw6daa.g00u3i4n.3rdw7473/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgr-online%2Fooc91bd2d3ac%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgr-online%2Fi%2F10045762%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gr-online/cabinet/onesell021/ooc91bd2d3ac.jpg?_ex=128x128"
 
   - rank: 4
     name: "ランドリン ボタニカル 柔軟剤 リラックスグリーンティー 詰め替え 大容量 860mL"

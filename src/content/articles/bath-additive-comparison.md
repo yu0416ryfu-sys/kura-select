@@ -8,7 +8,7 @@ products:
   - rank: 1
     name: "バブ 厳選4種類の香りセレクトBOX 48錠"
     brand: "花王（バブ）"
-    price: 2880
+    price: 4340
     capacity: "48錠（48回分）"
     pricePerUnit: "約35円/回"
     rating: 4.6
@@ -25,8 +25,8 @@ products:
       - "香りが控えめで物足りない方も"
       - "追い焚き機能との相性に注意"
     recommendedFor: "コスパ重視の方・毎日入浴剤を使いたい方・家族で使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhpkn.3rdw6530.g00uhpkn.3rdw73ed/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskgroup%2F4901301411747%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskgroup%2Fi%2F10005170%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/skgroup/cabinet/12164821/babu1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un3nn.3rdw669e.g00un3nn.3rdw7b90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuroku-1%2Figpebstvhfft2z4dc6iwkue5py%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuroku-1%2Fi%2F10126004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuroku-1/cabinet/11689083/28702162_0.jpg?_ex=128x128"
 
   - rank: 2
     name: "バスクリン 大容量 600g×3個"

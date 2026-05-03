@@ -80,8 +80,8 @@ products:
     price: 2178
     capacity: "300mL（約600回分）"
     pricePerUnit: "約2.2円/回"
-    rating: 4.46
-    reviewCount: 402
+    rating: 4.47
+    reviewCount: 404
     features:
       - "ANA国際線ファーストクラスで採用実績"
       - "MA-T（二酸化塩素系）で強力除菌"

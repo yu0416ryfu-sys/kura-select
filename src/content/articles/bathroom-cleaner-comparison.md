@@ -8,7 +8,7 @@ products:
   - rank: 1
     name: "バスマジックリン エアジェット 詰め替え 大容量 820mL×2袋"
     brand: "花王（バスマジックリン）"
-    price: 745
+    price: 722
     capacity: "820mL×2袋（約240回分）"
     pricePerUnit: "約5.4円/回"
     rating: 4.88
@@ -35,7 +35,7 @@ products:
     capacity: "800mL（約120回分）"
     pricePerUnit: "約5.0円/回"
     rating: 4.71
-    reviewCount: 244
+    reviewCount: 245
     features:
       - "ミストスプレーで浴槽全体に広がる"
       - "こすらず60秒で皮脂汚れを分解"

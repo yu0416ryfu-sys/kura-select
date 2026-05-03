@@ -12,7 +12,7 @@ products:
     capacity: "1000mL×2本（約3ヶ月分）"
     pricePerUnit: "約1.10円/mL"
     rating: 4.67
-    reviewCount: 418
+    reviewCount: 419
     features:
       - "4つの有効成分で口内の原因菌を99.9%殺菌"
       - "虫歯・歯肉炎・口臭・歯石・着色の7大トラブルに対応"
@@ -81,7 +81,7 @@ products:
     capacity: "100mL（約700回分）"
     pricePerUnit: "約1.50円/回"
     rating: 4.76
-    reviewCount: 529
+    reviewCount: 530
     features:
       - "歯科医院で推奨される薬用マウスウォッシュ"
       - "グルコン酸クロルヘキシジン配合で高い殺菌力"
