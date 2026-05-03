@@ -5,13 +5,8 @@ import rss from "@astrojs/rss";
 import mdx from "@astrojs/mdx";
 import tailwindcss from "@tailwindcss/vite";
 
-// カスタムドメイン設定時は base を削除し site を変更する
-const GITHUB_PAGES_SITE = "https://yu0416ryfu-sys.github.io";
-const BASE_PATH = "/kura-select";
-
 export default defineConfig({
-  site: GITHUB_PAGES_SITE,
-  base: BASE_PATH,
+  site: "https://www.kura-select.com",
   integrations: [
     preact({ compat: true }),
     sitemap(),
@@ -29,7 +24,7 @@ export default defineConfig({
       PUBLIC_SITE_URL: envField.string({
         context: "client",
         access: "public",
-        default: "https://yu0416ryfu-sys.github.io/kura-select",
+        default: "https://www.kura-select.com",
       }),
     },
   },
