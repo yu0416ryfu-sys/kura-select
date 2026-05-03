@@ -95,7 +95,7 @@ export function updateProductInFrontmatter(
   }
   if (updates.imageUrl) {
     block = block.replace(
-      /^    imageUrl: ".+"$/m,
+      /^    imageUrl: ".*"$/m,
       `    imageUrl: "${updates.imageUrl}"`
     );
   }

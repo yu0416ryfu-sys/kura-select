@@ -26,7 +26,7 @@ products:
       - "立体型と比べると顔に密着しやすい"
     recommendedFor: "肌へのやさしさと着用感を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugwon.3rdw61af.g00ugwon.3rdw786a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fechi-zen-r%2Fcho-kaiteki-mask-m-50-1pc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fechi-zen-r%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/echi-zen-r/cabinet/biiino/item/main-image/20240213101506_1.jpg?_ex=128x128"
 
   - rank: 2
     name: "エリエール i:na ウイルスシャットアウトマスク ふつうサイズ 30枚入"
@@ -72,7 +72,7 @@ products:
       - "密着性はやや低め"
     recommendedFor: "コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4967576481694-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12363072%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2021b/4967576481694.jpg?_ex=128x128"
 
   - rank: 4
     name: "花王 バイキング クリアフィット 不織布マスク ふつうサイズ 30枚入"

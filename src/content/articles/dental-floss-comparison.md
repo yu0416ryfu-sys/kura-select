@@ -49,7 +49,7 @@ products:
       - "大量ごみが出やすい"
     recommendedFor: "奥歯のケアをしっかりしたい方・フロス初心者の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301203896%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10013302%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic201404/4903301203896_1.jpg?_ex=128x128"
 
   - rank: 3
     name: "小林製薬 糸ようじ フロス&ピック デンタルフロス 60本入"
@@ -72,7 +72,7 @@ products:
       - "フロスの長さが短く1回で使える範囲が限られる"
     recommendedFor: "手軽にフロスを始めたい方・外出先でも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa003200200606%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10123742%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/895/4987072025895.jpg?_ex=128x128"
 
   - rank: 4
     name: "P&G オーラルB スーパーフロス 歯間ブラシ 50本入"

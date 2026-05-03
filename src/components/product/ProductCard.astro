@@ -43,7 +43,7 @@ const rankColor = rankColors[product.rank] ?? "bg-[var(--color-surface)] text-[v
     <!-- 商品画像 -->
     <div class="shrink-0 w-20 h-20 rounded-lg overflow-hidden bg-[var(--color-surface)] border border-[var(--color-border)]">
       <img
-        src={product.imageUrl ?? "/placeholder/product-default.svg"}
+        src={product.imageUrl || "/placeholder/product-default.svg"}
         alt={`${product.name}の商品画像`}
         width="80"
         height="80"

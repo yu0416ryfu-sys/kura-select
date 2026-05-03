@@ -26,7 +26,7 @@ products:
       - "保管場所のスペースが必要"
     recommendedFor: "コスパ最優先の方・大容量のまとめ買い派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F528254%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10018584%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/web06/e-net_299166.jpg?_ex=128x128"
 
   - rank: 2
     name: "ニトムズ コロコロ スペアテープ フロアクリン 3巻入り"
@@ -49,7 +49,7 @@ products:
       - "3巻入りなのでまとめ買い感は薄い"
     recommendedFor: "フローリングで使いたい方・めくりやすさを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qw0cn.3rdw6b5c.g00qw0cn.3rdw7b11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhareya%2Fnc2500_5set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhareya%2Fi%2F10000317%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hareya/cabinet/syouhin/daily3/nc4352x5_on.jpg?_ex=128x128"
 
   - rank: 3
     name: "レック 激コロ スゴ技カット スペアテープ 3巻入り"
@@ -72,7 +72,7 @@ products:
       - "3巻入りのみで大容量パックがない"
     recommendedFor: "ペットを飼っている方・カーペットの掃除が多い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ucoln.3rdw667d.g00ucoln.3rdw71eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenicy2022%2Ff671%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenicy2022%2Fi%2F10009158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enicy2022/cabinet/tmb/f/f671.jpg?_ex=128x128"
 
   - rank: 4
     name: "3M スコッチ・ブライト 粘着ローラー スペアテープ 4巻入り"

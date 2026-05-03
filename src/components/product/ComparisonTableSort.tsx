@@ -146,7 +146,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                 <td class="px-4 py-3">
                   <div class="flex items-center gap-2">
                     <img
-                      src={p.imageUrl ?? "/placeholder/product-default.svg"}
+                      src={p.imageUrl || "/placeholder/product-default.svg"}
                       alt=""
                       width="40"
                       height="40"
@@ -210,7 +210,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                 {p.rank}
               </span>
               <img
-                src={p.imageUrl ?? "/placeholder/product-default.svg"}
+                src={p.imageUrl || "/placeholder/product-default.svg"}
                 alt=""
                 width="56"
                 height="56"

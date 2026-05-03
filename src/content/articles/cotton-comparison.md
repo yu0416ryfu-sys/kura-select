@@ -26,7 +26,7 @@ products:
       - "ミシン目なしのため自分でサイズ調整はできない"
     recommendedFor: "コスパと品質のバランスを求める方・毎日コットンを使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10034333%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10034333%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin56/4901301729286.jpg?_ex=128x128"
 
   - rank: 2
     name: "小林製薬 コットンラボ すっぴん素肌コットン 70枚入"
@@ -72,7 +72,7 @@ products:
       - "66枚入と他と比べて入数が少ない"
     recommendedFor: "化粧水をたっぷり使いたい方・肌が敏感な方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903111456789-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12194578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4903111456789.jpg?_ex=128x128"
 
   - rank: 4
     name: "太陽油脂 パックスナチュロン オーガニックコットン 80枚入"
