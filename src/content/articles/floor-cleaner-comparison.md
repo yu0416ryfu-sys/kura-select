@@ -75,7 +75,7 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin63/4901301327826.jpg?_ex=128x128"
 
   - rank: 4
-    name: "P&G ファブリーズ W消臭 フロアワイパーシート 30枚入"
+    name: "ファブリーズ フロアワイパーシート 30枚入"
     brand: "P&G（ファブリーズ）"
     price: 645
     capacity: "30枚入"

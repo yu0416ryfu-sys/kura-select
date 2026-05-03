@@ -29,13 +29,13 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg/yyyy27_sam01.jpg?_ex=128x128"
 
   - rank: 2
-    name: "デンターシステマ ハブラシ コンパクト 4列 ふつう 6本パック"
+    name: "デンターシステマ ハブラシ コンパクト 6本"
     brand: "ライオン（システマ）"
-    price: 0
+    price: 262
     capacity: "6本（約6ヶ月分）"
     pricePerUnit: "約150円/本"
-    rating: 4.5
-    reviewCount: 100
+    rating: 5
+    reviewCount: 2
     features:
       - "超極細毛が歯周ポケットの奥まで届く"
       - "薄型ヘッドで奥歯の裏側も磨きやすい"
@@ -48,8 +48,8 @@ products:
       - "毛が柔らかく力を入れないとプラーク除去力が弱め"
       - "極細毛のため開きやすい"
     recommendedFor: "歯周病が気になる方・歯ぐきが弱い方"
-    rakutenUrl: "https://search.rakuten.co.jp/search/mall/システマ+ハブラシ+コンパクト+6本/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pukwn.3rdw61de.g00pukwn.3rdw7759/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4903301328476-73-30001029-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F11962061%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0411/4903301328476.jpg?_ex=128x128"
 
   - rank: 3
     name: "クリニカアドバンテージ ハブラシ 4列 コンパクト ふつう 3本パック"

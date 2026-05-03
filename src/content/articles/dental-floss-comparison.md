@@ -6,13 +6,13 @@ publishedAt: 2026-05-03
 updatedAt: 2026-05-03
 products:
   - rank: 1
-    name: "サンスター GUM デンタルフロス 平行型 1個 550m"
+    name: "GUM デンタルフロス 550m"
     brand: "サンスター（GUM）"
-    price: 750
+    price: 280
     capacity: "550m"
     pricePerUnit: "約1.4円/m"
-    rating: 4.5
-    reviewCount: 1500
+    rating: 4.64
+    reviewCount: 58
     features:
       - "550mの超大容量でまとめ買い不要"
       - "歯の形に沿うフラット糸で汚れをしっかりかき出す"
@@ -25,8 +25,8 @@ products:
       - "フォルダーなしの糸タイプのため指への巻き付けに慣れが必要"
       - "移動中や外出先では使いにくい"
     recommendedFor: "毎日フロスを使う方・コスパ最優先でまとめ買いしたい方"
-    rakutenUrl: "https://search.rakuten.co.jp/search/mall/dental-floss/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shohin08/28528.jpg?_ex=128x128"
 
   - rank: 2
     name: "ライオン クリニカ アドバンテージ デンタルフロス Y字タイプ 30本入"
@@ -75,27 +75,27 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/895/4987072025895.jpg?_ex=128x128"
 
   - rank: 4
-    name: "P&G オーラルB スーパーフロス 歯間ブラシ 50本入"
-    brand: "P&G（オーラルB）"
-    price: 880
-    capacity: "50本入"
-    pricePerUnit: "約18円/本"
-    rating: 4.3
-    reviewCount: 300
+    name: "デンタルプロ 歯間ブラシ Mサイズ 10本入×3個"
+    brand: "デンタルプロ"
+    price: 467
+    capacity: "30本入（10本×3個）"
+    pricePerUnit: "約23円/本"
+    rating: 4.44
+    reviewCount: 9
     features:
-      - "ブリッジ・インプラント・矯正器具周りに使える特殊フロス"
-      - "3つのゾーン（固い部分・やわらかい部分・通常フロス）で構成"
-      - "歯科推奨の高機能デンタルフロス"
+      - "I字型で前歯から奥歯まで使いやすいスタンダード設計"
+      - "細軸タイプで歯間が広めの方に適した太さ"
+      - "3個セットのまとめ買いでコスパが良い"
     pros:
-      - "矯正中・ブリッジ使用中でも使えるP&G独自設計"
-      - "通常フロスでは難しい部位のクリーニングが可能"
-      - "歯科医や歯科衛生士も推奨する処方"
+      - "GUM・糸ようじとは異なる第4のブランドで比較選択肢が広がる"
+      - "3個セットで購入するとバラ買いより割安"
+      - "歯周病ケアに有効な歯間ブラシタイプ"
     cons:
-      - "1本単価が最も高め"
-      - "通常の歯間クリーニング目的では他製品で十分"
-    recommendedFor: "矯正中・ブリッジやインプラントのある方"
-    rakutenUrl: "https://search.rakuten.co.jp/search/mall/dental-floss/"
-    imageUrl: ""
+      - "歯間が狭い方はSSサイズを選ぶ必要がある"
+      - "フロスと比べると一本単価はやや高め"
+    recommendedFor: "歯間ブラシを初めて使う方・歯周病ケアをしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fd412800h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10014395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/634/4973227834634.jpg?_ex=128x128"
 
 tags:
   - "デンタルフロス おすすめ"

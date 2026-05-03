@@ -29,27 +29,27 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/echi-zen-r/cabinet/biiino/item/main-image/20240213101506_1.jpg?_ex=128x128"
 
   - rank: 2
-    name: "エリエール i:na ウイルスシャットアウトマスク ふつうサイズ 30枚入"
+    name: "エリエール ハイパーブロックマスク 30枚入"
     brand: "大王製紙（エリエール）"
-    price: 780
+    price: 2600
     capacity: "30枚入"
     pricePerUnit: "約26円/枚"
-    rating: 4.5
-    reviewCount: 500
+    rating: 4.71
+    reviewCount: 168
     features:
-      - "ウイルスシャットアウト加工でウイルス飛沫をブロック"
-      - "肌に触れる内側は柔らかな不織布素材"
-      - "ノーズフィットで鼻まわりのすき間を防ぐ"
+      - "高密度エレクトレット不織布でウイルス飛沫・花粉をブロック"
+      - "肌に触れる内側に柔らかな素材を使用"
+      - "ノーズフィット付きで鼻まわりのすき間を防ぐ"
     pros:
-      - "ウイルス対策機能が高く感染予防に優れる"
-      - "呼吸のしやすさと防護性のバランスが良い"
-      - "エリエールブランドで品質が安定している"
+      - "エリエールのハイスペックラインで高いフィルタリング性能"
+      - "呼吸のしやすさと防護性のバランスが優れている"
+      - "大王製紙ブランドで品質が安定している"
     cons:
       - "1枚単価はやや高め"
       - "プリーツタイプで立体感はやや少ない"
-    recommendedFor: "ウイルス対策を重視する方・花粉症の季節に使いたい方"
-    rakutenUrl: "https://search.rakuten.co.jp/search/mall/mask/"
-    imageUrl: ""
+    recommendedFor: "ウイルス・花粉対策を重視する方・高機能マスクを試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00trvxn.3rdw692d.g00trvxn.3rdw77c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frunnrunn-shop%2Fdaiomask-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frunnrunn-shop%2Fi%2F10000121%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/runnrunn-shop/cabinet/10802269/imgrc0107306132.jpg?_ex=128x128"
 
   - rank: 3
     name: "アイリスオーヤマ 使い捨て不織布マスク ふつうサイズ 60枚入"
@@ -75,27 +75,27 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2021b/4967576481694.jpg?_ex=128x128"
 
   - rank: 4
-    name: "花王 バイキング クリアフィット 不織布マスク ふつうサイズ 30枚入"
-    brand: "花王（バイキング）"
-    price: 695
+    name: "白元アース 超立体マスク ふつうサイズ 30枚入"
+    brand: "白元アース"
+    price: 840
     capacity: "30枚入"
-    pricePerUnit: "約23円/枚"
-    rating: 4.3
-    reviewCount: 400
+    pricePerUnit: "約19円/枚"
+    rating: 5
+    reviewCount: 1
     features:
-      - "独自のW蒸散システムで内側の湿気をコントロール"
-      - "蒸れにくく快適な着用感が続く"
-      - "花王の技術によるフィット感と通気性の両立"
+      - "超立体形状で口まわりに空間ができ息がしやすい"
+      - "ノーズフィットで鼻すき間をしっかりブロック"
+      - "内側がやわらかい不織布で長時間でも肌への負担が少ない"
     pros:
-      - "マスク内の蒸れが少なく夏場でも快適"
-      - "花王ブランドの品質保証"
-      - "しっかりしたフィット感で隙間ができにくい"
+      - "立体設計で長時間着用でも口元が蒸れにくい"
+      - "口紅が付きにくく、会話もしやすい"
+      - "白元アースの老舗マスクブランドとしての信頼感"
     cons:
-      - "30枚入のみのため大量購入には複数購入が必要"
-      - "プリーツ型で口元空間はやや少なめ"
-    recommendedFor: "蒸れを気にする方・夏場も快適に使いたい方"
-    rakutenUrl: "https://search.rakuten.co.jp/search/mall/mask/"
-    imageUrl: ""
+      - "プリーツタイプより収納時にかさばりやすい"
+      - "コスパ重視の大容量品より1枚単価は高め"
+    recommendedFor: "立体型の着用感を好む方・息苦しさを感じやすい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902407581938-yoru202410%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12617577%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/d/4902407581938.jpg?_ex=128x128"
 
 tags:
   - "使い捨てマスク おすすめ"

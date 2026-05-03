@@ -29,7 +29,7 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin56/4901301729286.jpg?_ex=128x128"
 
   - rank: 2
-    name: "小林製薬 コットンラボ すっぴん素肌コットン 70枚入"
+    name: "コットンラボ すっぴん素肌コットン 70枚入"
     brand: "小林製薬（コットンラボ）"
     price: 330
     capacity: "70枚入"
@@ -75,7 +75,7 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4903111456789.jpg?_ex=128x128"
 
   - rank: 4
-    name: "太陽油脂 パックスナチュロン オーガニックコットン 80枚入"
+    name: "パックスナチュロン オーガニックコットン 80枚入"
     brand: "太陽油脂（パックスナチュロン）"
     price: 880
     capacity: "80枚入"

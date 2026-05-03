@@ -6,9 +6,9 @@ publishedAt: 2026-05-03
 updatedAt: 2026-05-03
 products:
   - rank: 1
-    name: "ビオレ クレンジングウォーター さっぱりタイプ 300mL"
+    name: "ビオレ 素肌つるるんクレンジングウォーター 300mL"
     brand: "花王（ビオレ）"
-    price: 570
+    price: 6263
     capacity: "300mL"
     pricePerUnit: "約1.9円/mL"
     rating: 4.4
@@ -25,13 +25,13 @@ products:
       - "濃いメイクはコットンで数回拭き取る必要がある"
       - "摩擦が気になる方にはジェルやオイルタイプが向いている"
     recommendedFor: "ライトメイクの方・時短スキンケアをしたい方"
-    rakutenUrl: "https://search.rakuten.co.jp/search/mall/cleansing/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ujrwn.3rdw65e1.g00ujrwn.3rdw73b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorro%2F20250623203939_94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorro%2Fi%2F10047472%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/morro/cabinet/r_2025062255/20250623203939_94_1.jpg?_ex=128x128"
 
   - rank: 2
-    name: "コーセー ソフティモ スピーディーオイルクレンジング ポンプ 230mL"
+    name: "ソフティモ スピーディオイルクレンジング 230mL"
     brand: "コーセー（ソフティモ）"
-    price: 680
+    price: 2270
     capacity: "230mL"
     pricePerUnit: "約3円/mL"
     rating: 4.3
@@ -48,17 +48,17 @@ products:
       - "オイルタイプなので洗い流しが必要"
       - "ニキビ肌の方は刺激を感じる場合がある"
     recommendedFor: "フルメイク派の方・ウォータープルーフアイテムをよく使う方"
-    rakutenUrl: "https://search.rakuten.co.jp/search/mall/cleansing/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw2pn.3rdw6069.g00tw2pn.3rdw7b19/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyland%2F1736928005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyland%2Fi%2F10000272%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyland/cabinet/compass1736927868.jpg?_ex=128x128"
 
   - rank: 3
-    name: "DHC 濃密オリーブ プレミアムクレンジングオイル L 200mL"
+    name: "DHC ディープクレンジングオイル 200mL"
     brand: "DHC"
-    price: 1500
+    price: 2717
     capacity: "200mL"
     pricePerUnit: "約7.5円/mL"
-    rating: 4.6
-    reviewCount: 2000
+    rating: 4.71
+    reviewCount: 632
     features:
       - "オリーブバージンオイル配合でメイクと馴染みやすい"
       - "マッサージしながら毛穴汚れもオフ"
@@ -71,13 +71,13 @@ products:
       - "1mL単価は他と比べてやや高め"
       - "オイルタイプなので洗い流しが必要"
     recommendedFor: "クレンジング品質を重視する方・乾燥が気になる方"
-    rakutenUrl: "https://search.rakuten.co.jp/search/mall/cleansing/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qy5un.3rdw6b7b.g00qy5un.3rdw754e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdhcshop%2F8000000300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdhcshop%2Fi%2F10000077%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dhcshop/cabinet/8000000300.jpg?_ex=128x128"
 
   - rank: 4
-    name: "花王 キュレル 潤浸保湿 クレンジングフォーム 150mL"
+    name: "キュレル 潤浸保湿 クレンジングフォーム 150mL"
     brand: "花王（キュレル）"
-    price: 890
+    price: 1280
     capacity: "150mL"
     pricePerUnit: "約5.9円/mL"
     rating: 4.5
@@ -94,8 +94,8 @@ products:
       - "150mLで容量が少なめのため頻繁に購入が必要"
       - "濃いメイクはしっかり落ちにくい場合がある"
     recommendedFor: "敏感肌・乾燥肌の方・肌荒れが気になる方"
-    rakutenUrl: "https://search.rakuten.co.jp/search/mall/cleansing/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sc3vn.3rdw62af.g00sc3vn.3rdw76d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuidrug%2F4901301447586%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuidrug%2Fi%2F10054545%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuidrug/cabinet/item241029/4901301447586.jpg?_ex=128x128"
 
 tags:
   - "クレンジング おすすめ"
