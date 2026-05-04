@@ -12,7 +12,7 @@ products:
     capacity: "1800g（約60回分）"
     pricePerUnit: "約15.0円/回"
     rating: 4.84
-    reviewCount: 74
+    reviewCount: 76
     features:
       - "抗菌水洗浄で生乾き臭の原因菌を99%除去"
       - "24時間部屋干ししても臭わない抗菌力"
@@ -31,7 +31,7 @@ products:
   - rank: 2
     name: "トップ NANOX 部屋干し専用 詰め替え 超特大 1230g"
     brand: "ライオン（トップ NANOX）"
-    price: 17800
+    price: 18800
     capacity: "1230g（約62回分）"
     pricePerUnit: "約12.9円/回"
     rating: 5
