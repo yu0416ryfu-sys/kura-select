@@ -54,7 +54,7 @@ products:
   - rank: 3
     name: "ハイジア 除菌・消臭スプレー 詰め替え 大容量 800mL"
     brand: "ライオン（ハイジア）"
-    price: 3537
+    price: 3765
     capacity: "800mL（約1,000回分）"
     pricePerUnit: "約0.58円/回"
     rating: 4.2
