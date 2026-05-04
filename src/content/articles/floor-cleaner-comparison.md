@@ -75,27 +75,27 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin63/4901301327826.jpg?_ex=128x128"
 
   - rank: 4
-    name: "ファブリーズ フロアワイパーシート 30枚入"
-    brand: "P&G（ファブリーズ）"
-    price: 645
+    name: "レック 激落ち 除菌 床用ウェットシート 30枚入"
+    brand: "レック（激落ちくん）"
+    price: 148
     capacity: "30枚入"
-    pricePerUnit: "約22円/枚"
-    rating: 4.3
-    reviewCount: 400
+    pricePerUnit: "約16円/枚"
+    rating: 4
+    reviewCount: 5
     features:
-      - "床を拭きながら同時に消臭ができるW消臭設計"
-      - "ペット・タバコ・食べ物のニオイを消臭する独自成分配合"
-      - "しっかりした厚手シートで拭き取り力が高い"
+      - "除菌成分配合で床を拭くと同時に除菌ケア"
+      - "激落ちくんブランドの高い汚れ落とし性能"
+      - "フロアワイパーに取り付けて手軽に使えるシート"
     pros:
-      - "掃除と消臭が1枚で完結するオールインワン設計"
-      - "ペットや小さな子どもがいる家庭の床ケアに最適"
-      - "ファブリーズブランドの高い消臭力"
+      - "除菌×清潔力のバランスが良いコスパタイプ"
+      - "激落ちくんブランドの信頼ある洗浄力"
+      - "主要フロアワイパーに対応する規格サイズ"
     cons:
-      - "1枚単価が最も高め"
-      - "香りが苦手な方には向かない場合がある"
-    recommendedFor: "消臭ケアも同時にしたい方・ペットを飼っている方"
-    rakutenUrl: "https://search.rakuten.co.jp/search/mall/floor-cleaner/"
-    imageUrl: ""
+      - "香り付きタイプは選択肢が少ない"
+      - "クイックルワイパーと比べると知名度はやや低い"
+    recommendedFor: "除菌ケアをしつつコスパも重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2jfn.3rdw67d5.g00s2jfn.3rdw75cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcolorfulbox%2F4903320481701%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcolorfulbox%2Fi%2F10010893%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/colorfulbox/cabinet/maker_lec5/4903320481701.jpg?_ex=128x128"
 
 tags:
   - "フローリングシート おすすめ"

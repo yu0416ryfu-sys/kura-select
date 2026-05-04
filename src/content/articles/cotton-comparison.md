@@ -29,13 +29,13 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin56/4901301729286.jpg?_ex=128x128"
 
   - rank: 2
-    name: "コットンラボ すっぴん素肌コットン 70枚入"
+    name: "コットンラボ コットン 70枚入"
     brand: "小林製薬（コットンラボ）"
-    price: 330
+    price: 1470
     capacity: "70枚入"
     pricePerUnit: "約4.7円/枚"
-    rating: 4.5
-    reviewCount: 600
+    rating: 4.78
+    reviewCount: 73
     features:
       - "国産コットン使用の日本製高品質コットン"
       - "厚みのある4層構造で化粧水の含みが良い"
@@ -48,8 +48,8 @@ products:
       - "70枚入のため消費量が多い方は頻繁に購入が必要"
       - "ビオレと比べると若干コストが高め"
     recommendedFor: "日本製にこだわる方・化粧水をたっぷり使いたい方"
-    rakutenUrl: "https://search.rakuten.co.jp/search/mall/cotton/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F64330%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10898172%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/330/64330.jpg?_ex=128x128"
 
   - rank: 3
     name: "ユニ・チャーム シルコット うるうるコットン 66枚入"
@@ -75,13 +75,13 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4903111456789.jpg?_ex=128x128"
 
   - rank: 4
-    name: "パックスナチュロン オーガニックコットン 80枚入"
+    name: "パックスナチュロン コットン 80枚入"
     brand: "太陽油脂（パックスナチュロン）"
-    price: 880
+    price: 3894
     capacity: "80枚入"
     pricePerUnit: "約11円/枚"
-    rating: 4.4
-    reviewCount: 300
+    rating: 4.5
+    reviewCount: 4
     features:
       - "オーガニック認定コットン100%使用"
       - "農薬・化学肥料不使用のコットンで肌にも地球にもやさしい"
@@ -94,8 +94,8 @@ products:
       - "1枚単価が最も高め"
       - "オーガニック品質を求めない方には割高感がある"
     recommendedFor: "オーガニック・自然派スキンケアにこだわる方・アトピー肌の方"
-    rakutenUrl: "https://search.rakuten.co.jp/search/mall/cotton/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Ft0010102%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10020176%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/08896213/t0010102.jpg?_ex=128x128"
 
 tags:
   - "コットン おすすめ"
