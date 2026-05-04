@@ -6,13 +6,13 @@ publishedAt: 2026-04-30
 updatedAt: 2026-04-30
 products:
   - rank: 1
-    name: "アタック 抗菌EX 部屋干し用 詰め替え 超特大 1800g"
+    name: "アタック 抗菌EX 部屋干し用 詰め替え 2380g×6個セット"
     brand: "花王（アタック）"
     price: 6980
-    capacity: "1800g（約60回分）"
-    pricePerUnit: "約15.0円/回"
+    capacity: "2380g×6個（約476回分）"
+    pricePerUnit: "約14.7円/回"
     rating: 4.84
-    reviewCount: 74
+    reviewCount: 75
     features:
       - "抗菌水洗浄で生乾き臭の原因菌を99%除去"
       - "24時間部屋干ししても臭わない抗菌力"
@@ -29,10 +29,10 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suterastar/cabinet/goq002/1617_1.jpg?_ex=128x128"
 
   - rank: 2
-    name: "トップ NANOX 部屋干し専用 詰め替え 超特大 1230g"
-    brand: "ライオン（トップ NANOX）"
+    name: "トップ スーパーナノックス ニオイ専用 部屋干し 詰め替え 1510g×6個セット"
+    brand: "ライオン（トップ スーパーナノックス）"
     price: 17800
-    capacity: "1230g（約62回分）"
+    capacity: "1510g×6個（約363回分）"
     pricePerUnit: "約12.9円/回"
     rating: 5
     reviewCount: 1
@@ -52,11 +52,11 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platinum-eight/cabinet/compass1706417618.jpg?_ex=128x128"
 
   - rank: 3
-    name: "アリエール ジェルボール4D 部屋干し用 詰め替え 63個"
+    name: "アリエール ジェルボール4D 部屋干し用 詰め替え 140個入り"
     brand: "P&G（アリエール）"
     price: 4398
-    capacity: "63個（63回分）"
-    pricePerUnit: "約27.0円/回"
+    capacity: "140個（140回分）"
+    pricePerUnit: "約31円/回"
     rating: 4.75
     reviewCount: 8
     features:
@@ -68,32 +68,32 @@ products:
       - "柔軟剤効果も入った4in1で時短"
       - "抗菌・消臭力の高い評価"
     cons:
-      - "1回あたり約27円とコストは高め"
+      - "1回あたり約31円とコストは高め"
       - "少量の洗濯物には割高"
     recommendedFor: "手軽さ重視の方・柔軟剤を別で買いたくない方・ジェルボール派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F10001948%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10001948%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/437423353757726.jpg?_ex=128x128"
 
   - rank: 4
-    name: "部屋干しトップ 除菌EX 粉末 900g×2個"
+    name: "部屋干しトップ 除菌EX 詰め替え用 810g"
     brand: "ライオン（トップ）"
     price: 498
-    capacity: "900g×2個（約56回分）"
+    capacity: "810g（約22回分）"
     pricePerUnit: "約22.9円/回"
     rating: 4.36
     reviewCount: 11
     features:
       - "除菌成分配合で部屋干し臭を元からカット"
-      - "粉末タイプの高い洗浄力"
+      - "詰め替え用タイプの手軽な洗浄力"
       - "酵素の力でタンパク質汚れを分解"
     pros:
-      - "粉末ならではの高い洗浄力"
-      - "酵素配合で食べこぼしにも強い"
       - "除菌EXで臭いの原因菌を除去"
+      - "酵素配合で食べこぼしにも強い"
+      - "詰め替え用でゴミが少なくエコ"
     cons:
-      - "粉末のため水温が低いと溶け残る"
-      - "液体タイプに比べて使い勝手はやや劣る"
-    recommendedFor: "洗浄力重視の方・粉末洗剤派の方・食べこぼしが多い家庭"
+      - "容量がやや少なく詰め替え頻度が高い"
+      - "大容量タイプに比べてコストが割高"
+    recommendedFor: "洗浄力重視の方・小容量でお試ししたい方・食べこぼしが多い家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q7yxn.3rdw6516.g00q7yxn.3rdw7e1e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmebox%2Fj4903301340133%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmebox%2Fi%2F10045049%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmebox/cabinet/item63/j4903301340133_1.jpg?_ex=128x128"
 
@@ -161,11 +161,11 @@ draft: false
 
 ### 単価計算の考え方
 
-部屋干しを週5回行う家庭では、年間約260回洗剤を使用します。1回あたり12.9円なら年間約3,354円、27円なら約7,020円。**年間で約3,600円の差**が生まれます。すすぎ1回対応なら水道代も**年間約3,000〜4,000円**節約できます。
+部屋干しを週5回行う家庭では、年間約260回洗剤を使用します。1回あたり12.9円なら年間約3,354円、31円なら約8,060円。**年間で約4,700円の差**が生まれます。すすぎ1回対応なら水道代も**年間約3,000〜4,000円**節約できます。
 
 ### 柔軟剤との組み合わせ
 
-部屋干し洗剤と柔軟剤を別々に買う場合、洗剤+柔軟剤で1回あたり約20〜35円になります。柔軟剤一体型のジェルボール（約27円/回）は、別買いとほぼ同コストで手間が減ります。
+部屋干し洗剤と柔軟剤を別々に買う場合、洗剤+柔軟剤で1回あたり約20〜35円になります。柔軟剤一体型のジェルボール（約31円/回）は、別買いとほぼ同コストで手間が減ります。
 
 ### まとめ買いの注意点
 

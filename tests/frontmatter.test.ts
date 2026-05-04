@@ -3,6 +3,9 @@ import {
   extractProductNames,
   buildSearchKeyword,
   updateProductInFrontmatter,
+  extractProductCapacity,
+  extractCapacityTotal,
+  calcPricePerUnit,
 } from "../scripts/lib/frontmatter";
 
 // ─── テスト用フィクスチャ ─────────────────────────────────────────────────
@@ -204,5 +207,108 @@ describe("updateProductInFrontmatter", () => {
       imageUrl: "https://new-img.example.com/x.jpg",
     });
     expect(updated).toContain("\n本文テキスト。\n");
+  });
+
+  it("pricePerUnit フィールドが存在する場合は更新する", () => {
+    const updated = updateProductInFrontmatter(SAMPLE_FRONTMATTER, "商品A 超特大 1200mL×2袋", {
+      price: null,
+      rating: null,
+      reviewCount: null,
+      affiliateUrl: null,
+      imageUrl: null,
+      pricePerUnit: "約1.2円/mL",
+    });
+    expect(updated).toContain('    pricePerUnit: "約1.2円/mL"');
+    // 商品Bは変更されない
+    expect(updated).not.toContain('    pricePerUnit: "約1.2円/mL"\n    rating: 4.0');
+  });
+
+  it("pricePerUnit が null の場合は既存値を保持する", () => {
+    const updated = updateProductInFrontmatter(SAMPLE_FRONTMATTER, "商品A 超特大 1200mL×2袋", {
+      price: 2500,
+      rating: null,
+      reviewCount: null,
+      affiliateUrl: null,
+      imageUrl: null,
+      pricePerUnit: null,
+    });
+    expect(updated).toContain('    pricePerUnit: "約10円/回"');
+  });
+});
+
+// ─── extractProductCapacity ───────────────────────────────────────────────
+describe("extractProductCapacity", () => {
+  it("商品名から capacity を取得する", () => {
+    expect(extractProductCapacity(SAMPLE_FRONTMATTER, "商品A 超特大 1200mL×2袋")).toBe("1200mL×2袋");
+  });
+
+  it("2番目の商品の capacity を取得する", () => {
+    expect(extractProductCapacity(SAMPLE_FRONTMATTER, "商品B レギュラー 500g")).toBe("500g");
+  });
+
+  it("存在しない商品名の場合は null を返す", () => {
+    expect(extractProductCapacity(SAMPLE_FRONTMATTER, "存在しない商品")).toBeNull();
+  });
+});
+
+// ─── extractCapacityTotal ─────────────────────────────────────────────────
+describe("extractCapacityTotal", () => {
+  it("括弧内の総量（コンマ付き）を抽出する", () => {
+    expect(extractCapacityTotal("60枚×48個（2,880枚）")).toEqual({ total: 2880, unit: "枚" });
+  });
+
+  it("複数の掛け算を含む括弧総量を抽出する", () => {
+    expect(extractCapacityTotal("43枚×8個×4セット（1,376枚）")).toEqual({ total: 1376, unit: "枚" });
+  });
+
+  it("括弧内が数値でない場合は掛け算パターンにフォールバック", () => {
+    expect(extractCapacityTotal("1200mL×2袋")).toEqual({ total: 2400, unit: "mL" });
+  });
+
+  it("携帯用など説明文の括弧でも手前の数値を使う", () => {
+    expect(extractCapacityTotal("30枚（携帯用）")).toEqual({ total: 30, unit: "枚" });
+  });
+
+  it("シンプルな単位のみの場合を解析する", () => {
+    expect(extractCapacityTotal("500g")).toEqual({ total: 500, unit: "g" });
+  });
+
+  it("括弧総量が最優先される", () => {
+    expect(extractCapacityTotal("70枚×3個（210枚）")).toEqual({ total: 210, unit: "枚" });
+  });
+
+  it("解析できない文字列は null を返す", () => {
+    expect(extractCapacityTotal("詰め替え用")).toBeNull();
+  });
+});
+
+// ─── calcPricePerUnit ─────────────────────────────────────────────────────
+describe("calcPricePerUnit", () => {
+  it("括弧付き容量から単価を計算する（小数1桁）", () => {
+    expect(calcPricePerUnit(7480, "60枚×48個（2,880枚）")).toBe("約2.6円/枚");
+  });
+
+  it("小パック商品の単価を計算する", () => {
+    expect(calcPricePerUnit(250, "30枚（携帯用）")).toBe("約8.3円/枚");
+  });
+
+  it("詰め替えパックの単価を計算する", () => {
+    expect(calcPricePerUnit(1097, "70枚×3個（210枚）")).toBe("約5.2円/枚");
+  });
+
+  it("複数セットの単価を計算する", () => {
+    expect(calcPricePerUnit(5269, "43枚×8個×4セット（1,376枚）")).toBe("約3.8円/枚");
+  });
+
+  it("1円未満の単価は小数2桁で表示する", () => {
+    expect(calcPricePerUnit(217, "30枚×10個（300枚）")).toBe("約0.72円/枚");
+  });
+
+  it("10円以上の単価は整数で表示する", () => {
+    expect(calcPricePerUnit(1500, "50枚")).toBe("約30円/枚");
+  });
+
+  it("解析できない容量は null を返す", () => {
+    expect(calcPricePerUnit(1000, "詰め替え用")).toBeNull();
   });
 });

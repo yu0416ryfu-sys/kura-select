@@ -26,7 +26,7 @@ products:
       - "持続時間はやや短め（4〜6時間）"
     recommendedFor: "コスパ重視の方・手軽にサッと使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4901301333834%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10462163%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0064/4901301333834_1.jpg?_ex=128x128"
 
   - rank: 2
     name: "Ban 汗ブロックロールオン プレミアムラベル 40mL"
@@ -49,7 +49,7 @@ products:
       - "広い範囲には塗りにくい"
     recommendedFor: "ワキ汗をしっかり抑えたい方・制汗力重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5nyn.3rdw649e.g00u5nyn.3rdw7766/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnrfonline%2Fnrfdb87f906a9%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnrfonline%2Fi%2F10125429%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nrfonline/cabinet/onesell725/nrfdb87f906a9_0.jpg?_ex=128x128"
 
   - rank: 3
     name: "エージーデオ24 パウダースプレー 無香料 180g"
@@ -72,7 +72,7 @@ products:
       - "香り付きタイプと間違いやすい"
     recommendedFor: "ニオイケアを長時間持続させたい方・大容量で家族共有したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00umkyn.3rdw6eac.g00umkyn.3rdw7d2b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fburiruby%2Fplwduu6zfep6pqvwj6ico43byu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fburiruby%2Fi%2F10800028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/buriruby/cabinet/12709467/39781338_1.jpg?_ex=128x128"
 
   - rank: 4
     name: "デオナチュレ ソフトストーンW 20g"
@@ -95,7 +95,7 @@ products:
       - "ワキ以外の広い部位には使いにくい"
     recommendedFor: "制汗力・持続力を最優先する方・朝のケアだけで済ませたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F84667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10965528%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/667/84667.jpg?_ex=128x128"
 
 tags:
   - "制汗剤 おすすめ"

@@ -16,7 +16,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync } from 'fs';
 import { resolve, join, basename } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractCapacityTotal, calcPricePerUnit } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 
@@ -149,6 +149,27 @@ async function fetchRakutenSearch(keyword) {
   };
 }
 
+// ─── 容量差異の警告 ────────────────────────────────────────────────────────
+// 楽天の itemName 内の括弧表記（例: 「210枚」）と記事の capacity を比較し、
+// 5%超の差異があれば警告を出す
+function warnIfCapacityMismatch(articleCapacity, rakutenItemName) {
+  const rakutenRe = new RegExp(`[（(]([\\d,]+)\\s*(mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒)[）)]`);
+  const rakutenM = rakutenItemName.match(rakutenRe);
+  if (!rakutenM) return;
+
+  const rakutenTotal = parseInt(rakutenM[1].replace(/,/g, ''), 10);
+  const articleExtracted = extractCapacityTotal(articleCapacity);
+  if (!articleExtracted) return;
+
+  const diff = Math.abs(rakutenTotal - articleExtracted.total) / articleExtracted.total;
+  if (diff > 0.05) {
+    console.log(`  ⚠ 容量の差異を検出`);
+    console.log(`    記事の capacity: "${articleCapacity}"（${articleExtracted.total}${articleExtracted.unit}）`);
+    console.log(`    楽天の情報: ${rakutenTotal}${rakutenM[2]}（${rakutenItemName.slice(0, 70)}）`);
+    console.log(`    → capacity と pricePerUnit を手動で確認してください`);
+  }
+}
+
 // ─── メイン処理 ────────────────────────────────────────────────────────────
 async function main() {
   const articlesDir = resolve(process.cwd(), 'src/content/articles');
@@ -180,15 +201,27 @@ async function main() {
       process.stdout.write(`   [${shortName}...] `);
       try {
         const data = await fetchRakutenSearch(name);
+
+        // capacity を読み取り pricePerUnit を再計算
+        const capacity = extractProductCapacity(updatedContent, name);
+        const newPricePerUnit = (capacity && data.price !== null)
+          ? calcPricePerUnit(data.price, capacity)
+          : null;
+
+        // 楽天 itemName と記事 capacity を比較して差異を警告
+        if (capacity) warnIfCapacityMismatch(capacity, data.name);
+
         updatedContent = updateProductInFrontmatter(updatedContent, name, {
           price: data.price,
           rating: data.rating,
           reviewCount: data.reviewCount,
           affiliateUrl: data.affiliateUrl,
           imageUrl: data.imageUrl,
+          pricePerUnit: newPricePerUnit,
         });
         results.push({ success: true, name: data.name.slice(0, 40), price: data.price, rating: data.rating, reviewCount: data.reviewCount });
-        console.log(`✅ ¥${data.price?.toLocaleString()} 評価${data.rating}(${data.reviewCount?.toLocaleString()}件)`);
+        const ppuSuffix = newPricePerUnit ? ` → ${newPricePerUnit}` : '';
+        console.log(`✅ ¥${data.price?.toLocaleString()} 評価${data.rating}(${data.reviewCount?.toLocaleString()}件)${ppuSuffix}`);
         totalSuccess++;
       } catch (e) {
         console.log(`❌ ${e.message}`);

@@ -4,7 +4,10 @@
       "WebSearch",
       "WebFetch(domain:item.rakuten.co.jp)",
       "WebFetch(domain:kakaku.com)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(pnpm update-products *)",
+      "Bash(pnpm test *)",
+      "Bash(git add *)"
     ]
   }
 }
