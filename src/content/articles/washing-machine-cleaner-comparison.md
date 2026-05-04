@@ -10,7 +10,7 @@ products:
     brand: "ジョンソン（カビキラー）"
     price: 1693
     capacity: "550g×3個（3回分）"
-    pricePerUnit: "約367円/回"
+    pricePerUnit: "約1.0円/g"
     rating: 4.5
     reviewCount: 200
     features:
@@ -33,7 +33,7 @@ products:
     brand: "エスケー石鹸"
     price: 3780
     capacity: "500g×2個（2回分）"
-    pricePerUnit: "約440円/回"
+    pricePerUnit: "約3.8円/g"
     rating: 4.78
     reviewCount: 263
     features:
@@ -56,7 +56,7 @@ products:
     brand: "グラフィコ（オキシクリーン）"
     price: 3425
     capacity: "1500g（約10回分）"
-    pricePerUnit: "約108円/回"
+    pricePerUnit: "約2.3円/g"
     rating: 4.64
     reviewCount: 1413
     features:
@@ -79,7 +79,7 @@ products:
     brand: "パナソニック"
     price: 1627
     capacity: "750mL（1回分）"
-    pricePerUnit: "約2,200円/回"
+    pricePerUnit: "約2.2円/mL"
     rating: 4.54
     reviewCount: 35
     features:

@@ -10,9 +10,9 @@ products:
     brand: "オーラルケア（タフト24）"
     price: 1380
     capacity: "10本（約10ヶ月分）"
-    pricePerUnit: "約70円/本"
+    pricePerUnit: "約138円/本"
     rating: 4.69
-    reviewCount: 2033
+    reviewCount: 2034
     features:
       - "歯科医院でも採用される定番ブラシ"
       - "PBT毛材で耐久性が高くヘタりにくい"
@@ -33,7 +33,7 @@ products:
     brand: "ライオン（システマ）"
     price: 262
     capacity: "6本（約6ヶ月分）"
-    pricePerUnit: "約150円/本"
+    pricePerUnit: "約44円/本"
     rating: 5
     reviewCount: 2
     features:
@@ -56,7 +56,7 @@ products:
     brand: "ライオン（クリニカ）"
     price: 3379
     capacity: "3本（約3ヶ月分）"
-    pricePerUnit: "約180円/本"
+    pricePerUnit: "約1126円/本"
     rating: 4.49
     reviewCount: 74
     features:
@@ -79,7 +79,7 @@ products:
     brand: "サンスター（GUM）"
     price: 268
     capacity: "4本（約4ヶ月分）"
-    pricePerUnit: "約200円/本"
+    pricePerUnit: "約67円/本"
     rating: 4.67
     reviewCount: 6
     features:

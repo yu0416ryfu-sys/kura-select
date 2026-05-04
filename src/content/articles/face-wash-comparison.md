@@ -10,7 +10,7 @@ products:
     brand: "ロゼット"
     price: 1210
     capacity: "120g"
-    pricePerUnit: "約5円/g"
+    pricePerUnit: "約10円/g"
     rating: 4.71
     reviewCount: 69
     features:
@@ -33,7 +33,7 @@ products:
     brand: "資生堂（専科）"
     price: 1597
     capacity: "120g"
-    pricePerUnit: "約6円/g"
+    pricePerUnit: "約13円/g"
     rating: 4.75
     reviewCount: 12
     features:
@@ -56,7 +56,7 @@ products:
     brand: "花王（ビオレ）"
     price: 566
     capacity: "150g"
-    pricePerUnit: "約5円/g"
+    pricePerUnit: "約3.8円/g"
     rating: 1.8
     reviewCount: 5
     features:
@@ -79,7 +79,7 @@ products:
     brand: "ユニリーバ（ダヴ）"
     price: 1577
     capacity: "130g"
-    pricePerUnit: "約6円/g"
+    pricePerUnit: "約12円/g"
     rating: 4.62
     reviewCount: 13
     features:

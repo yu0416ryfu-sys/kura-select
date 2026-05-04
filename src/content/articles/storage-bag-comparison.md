@@ -10,7 +10,7 @@ products:
     brand: "岩谷マテリアル（アイラップ）"
     price: 2420
     capacity: "60枚×5箱（300枚）"
-    pricePerUnit: "約3.7円/枚"
+    pricePerUnit: "約8.1円/枚"
     rating: 4.79
     reviewCount: 671
     features:
@@ -56,7 +56,7 @@ products:
     brand: "業務用"
     price: 8510
     capacity: "100枚"
-    pricePerUnit: "約6.8円/枚"
+    pricePerUnit: "約85円/枚"
     rating: 4.2
     reviewCount: 100
     features:

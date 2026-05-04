@@ -10,7 +10,7 @@ products:
     brand: "ドーバー酒造（パストリーゼ）"
     price: 1944
     capacity: "800mL"
-    pricePerUnit: "約1.62円/mL"
+    pricePerUnit: "約2.4円/mL"
     rating: 4.74
     reviewCount: 463
     features:
@@ -33,7 +33,7 @@ products:
     brand: "フマキラー"
     price: 657
     capacity: "720mL×2本（1440mL）"
-    pricePerUnit: "約0.62円/mL"
+    pricePerUnit: "約0.46円/mL"
     rating: 4.7
     reviewCount: 61
     features:
@@ -56,7 +56,7 @@ products:
     brand: "ジョンソン（カビキラー）"
     price: 1130
     capacity: "630mL×3本（1890mL）"
-    pricePerUnit: "約0.62円/mL"
+    pricePerUnit: "約0.60円/mL"
     rating: 4.67
     reviewCount: 18
     features:
@@ -79,7 +79,7 @@ products:
     brand: "健栄製薬（手ピカ）"
     price: 4961
     capacity: "420mL"
-    pricePerUnit: "約1.66円/mL"
+    pricePerUnit: "約12円/mL"
     rating: 5
     reviewCount: 12
     features:

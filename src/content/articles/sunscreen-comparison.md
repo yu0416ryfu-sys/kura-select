@@ -10,7 +10,7 @@ products:
     brand: "花王（ニベア）"
     price: 975
     capacity: "160g"
-    pricePerUnit: "約6円/g"
+    pricePerUnit: "約6.1円/g"
     rating: 4.79
     reviewCount: 14
     features:
@@ -33,7 +33,7 @@ products:
     brand: "ロート製薬（スキンアクア）"
     price: 897
     capacity: "110g"
-    pricePerUnit: "約8円/g"
+    pricePerUnit: "約8.2円/g"
     rating: 5
     reviewCount: 4
     features:
@@ -56,7 +56,7 @@ products:
     brand: "花王（ビオレ）"
     price: 2480
     capacity: "70g"
-    pricePerUnit: "約12円/g"
+    pricePerUnit: "約35円/g"
     rating: 4.82
     reviewCount: 28
     features:
@@ -79,7 +79,7 @@ products:
     brand: "カネボウ（アリィー）"
     price: 1430
     capacity: "90g"
-    pricePerUnit: "約22円/g"
+    pricePerUnit: "約16円/g"
     rating: 4.67
     reviewCount: 125
     features:

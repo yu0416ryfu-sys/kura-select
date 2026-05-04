@@ -10,7 +10,7 @@ products:
     brand: "花王（ビオレ）"
     price: 565
     capacity: "82枚入"
-    pricePerUnit: "約3.4円/枚"
+    pricePerUnit: "約6.9円/枚"
     rating: 4.67
     reviewCount: 15
     features:
@@ -33,7 +33,7 @@ products:
     brand: "小林製薬（コットンラボ）"
     price: 1470
     capacity: "70枚入"
-    pricePerUnit: "約4.7円/枚"
+    pricePerUnit: "約21円/枚"
     rating: 4.78
     reviewCount: 73
     features:
@@ -56,7 +56,7 @@ products:
     brand: "ユニ・チャーム（シルコット）"
     price: 341
     capacity: "66枚入"
-    pricePerUnit: "約6.7円/枚"
+    pricePerUnit: "約5.2円/枚"
     rating: 4.74
     reviewCount: 23
     features:
@@ -79,7 +79,7 @@ products:
     brand: "太陽油脂（パックスナチュロン）"
     price: 3894
     capacity: "80枚入"
-    pricePerUnit: "約11円/枚"
+    pricePerUnit: "約49円/枚"
     rating: 4.5
     reviewCount: 4
     features:

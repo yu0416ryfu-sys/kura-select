@@ -33,7 +33,7 @@ products:
     brand: "花王（メリット）"
     price: 6600
     capacity: "1200mL（約4ヶ月分）"
-    pricePerUnit: "約0.87円/mL"
+    pricePerUnit: "約5.5円/mL"
     rating: 4
     reviewCount: 3
     features:
@@ -56,7 +56,7 @@ products:
     brand: "P&G（パンテーン）"
     price: 421
     capacity: "950g（約3ヶ月分）"
-    pricePerUnit: "約1.31円/mL"
+    pricePerUnit: "約0.44円/g"
     rating: 5
     reviewCount: 1
     features:
@@ -79,7 +79,7 @@ products:
     brand: "ユニリーバ（LUX）"
     price: 299
     capacity: "660g（約2ヶ月分）"
-    pricePerUnit: "約1.01円/mL"
+    pricePerUnit: "約0.45円/g"
     rating: 5
     reviewCount: 7
     features:

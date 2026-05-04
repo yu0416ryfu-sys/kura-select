@@ -10,7 +10,7 @@ products:
     brand: "アイリスオーヤマ"
     price: 298
     capacity: "80枚入"
-    pricePerUnit: "約9円/枚"
+    pricePerUnit: "約3.7円/枚"
     rating: 3.76
     reviewCount: 25
     features:
@@ -33,7 +33,7 @@ products:
     brand: "ユニ・チャーム（ウェーブ）"
     price: 777
     capacity: "36枚入"
-    pricePerUnit: "約13円/枚"
+    pricePerUnit: "約22円/枚"
     rating: 4.4
     reviewCount: 500
     features:
@@ -79,7 +79,7 @@ products:
     brand: "レック（激落ちくん）"
     price: 148
     capacity: "30枚入"
-    pricePerUnit: "約16円/枚"
+    pricePerUnit: "約4.9円/枚"
     rating: 4
     reviewCount: 5
     features:

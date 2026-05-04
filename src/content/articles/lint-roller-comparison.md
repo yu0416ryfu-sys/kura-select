@@ -10,7 +10,7 @@ products:
     brand: "アイリスオーヤマ"
     price: 820
     capacity: "90巻（1巻90周）"
-    pricePerUnit: "約28円/巻"
+    pricePerUnit: "約9.1円/巻"
     rating: 4.78
     reviewCount: 9
     features:
@@ -33,7 +33,7 @@ products:
     brand: "ニトムズ"
     price: 4200
     capacity: "3巻（1巻40周）"
-    pricePerUnit: "約250円/巻"
+    pricePerUnit: "約1400円/巻"
     rating: 4.73
     reviewCount: 124
     features:
@@ -56,7 +56,7 @@ products:
     brand: "レック"
     price: 790
     capacity: "3巻（1巻70周）"
-    pricePerUnit: "約170円/巻"
+    pricePerUnit: "約263円/巻"
     rating: 5
     reviewCount: 2
     features:
@@ -79,7 +79,7 @@ products:
     brand: "3M（スコッチ・ブライト）"
     price: 820
     capacity: "4巻（1巻56周）"
-    pricePerUnit: "約200円/巻"
+    pricePerUnit: "約205円/巻"
     rating: 4.5
     reviewCount: 100
     features:

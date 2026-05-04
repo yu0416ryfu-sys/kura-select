@@ -33,7 +33,7 @@ products:
     brand: "大王製紙（エリエール）"
     price: 5171
     capacity: "70カット×16ロール（1120枚）"
-    pricePerUnit: "約2.66円/枚"
+    pricePerUnit: "約4.6円/枚"
     rating: 4.6
     reviewCount: 210
     features:
@@ -56,7 +56,7 @@ products:
     brand: "王子ネピア（ネピア）"
     price: 5396
     capacity: "100カット×24ロール（2400枚）"
-    pricePerUnit: "約1.37円/枚"
+    pricePerUnit: "約2.2円/枚"
     rating: 4.6
     reviewCount: 55
     features:
@@ -79,9 +79,9 @@ products:
     brand: "業務用（各社OEM）"
     price: 5995
     capacity: "200枚×30パック（6000枚）"
-    pricePerUnit: "約0.66円/枚"
+    pricePerUnit: "約1.00円/枚"
     rating: 4.88
-    reviewCount: 719
+    reviewCount: 720
     features:
       - "1枚あたり約0.66円の圧倒的コスパ"
       - "業務用の安定した品質"

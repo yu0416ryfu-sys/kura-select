@@ -10,7 +10,7 @@ products:
     brand: "P&G（レノア）"
     price: 3020
     capacity: "1260mL×2袋（約126回分）"
-    pricePerUnit: "約12.5円/回"
+    pricePerUnit: "約1.2円/mL"
     rating: 4.4
     reviewCount: 980
     features:
@@ -33,7 +33,7 @@ products:
     brand: "花王（ハミングファイン）"
     price: 1583
     capacity: "1500mL（約100回分）"
-    pricePerUnit: "約8.8円/回"
+    pricePerUnit: "約1.1円/mL"
     rating: 4.5
     reviewCount: 2
     features:
@@ -80,7 +80,7 @@ products:
     brand: "P&G（さらさ）"
     price: 2664
     capacity: "1260mL（約84回分）"
-    pricePerUnit: "約11.7円/回"
+    pricePerUnit: "約2.1円/mL"
     rating: 4.42
     reviewCount: 445
     features:

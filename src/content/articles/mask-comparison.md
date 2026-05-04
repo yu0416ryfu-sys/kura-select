@@ -33,7 +33,7 @@ products:
     brand: "大王製紙（エリエール）"
     price: 2600
     capacity: "30枚入"
-    pricePerUnit: "約26円/枚"
+    pricePerUnit: "約87円/枚"
     rating: 4.71
     reviewCount: 168
     features:
@@ -56,7 +56,7 @@ products:
     brand: "アイリスオーヤマ"
     price: 320
     capacity: "60枚入"
-    pricePerUnit: "約11円/枚"
+    pricePerUnit: "約5.3円/枚"
     rating: 5
     reviewCount: 3
     features:
@@ -79,7 +79,7 @@ products:
     brand: "白元アース"
     price: 840
     capacity: "30枚入"
-    pricePerUnit: "約19円/枚"
+    pricePerUnit: "約28円/枚"
     rating: 5
     reviewCount: 1
     features:

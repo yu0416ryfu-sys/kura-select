@@ -10,7 +10,7 @@ products:
     brand: "大日本除虫菊（サンポール）"
     price: 1780
     capacity: "1000mL（約50回分）"
-    pricePerUnit: "約8.0円/回"
+    pricePerUnit: "約1.8円/mL"
     rating: 4.5
     reviewCount: 4
     features:
@@ -33,7 +33,7 @@ products:
     brand: "ジョンソン（スクラビングバブル）"
     price: 441
     capacity: "400g×3本（約90回分）"
-    pricePerUnit: "約12.0円/回"
+    pricePerUnit: "約0.37円/g"
     rating: 4.65
     reviewCount: 344
     features:
@@ -56,7 +56,7 @@ products:
     brand: "ユニリーバ（ドメスト）"
     price: 1188
     capacity: "500mL×3本（約90回分）"
-    pricePerUnit: "約10.9円/回"
+    pricePerUnit: "約0.79円/mL"
     rating: 4.72
     reviewCount: 78
     features:
@@ -79,7 +79,7 @@ products:
     brand: "小林製薬（ブルーレット）"
     price: 2009
     capacity: "3個（約3ヶ月分）"
-    pricePerUnit: "約8.9円/日"
+    pricePerUnit: "約670円/個"
     rating: 4.35
     reviewCount: 234
     features:

@@ -10,7 +10,7 @@ products:
     brand: "レキットベンキーザー（フィニッシュ）"
     price: 1760
     capacity: "900g（約200回分）"
-    pricePerUnit: "約3.6円/回"
+    pricePerUnit: "約2.0円/g"
     rating: 4
     reviewCount: 1
     features:
@@ -33,7 +33,7 @@ products:
     brand: "花王（キュキュット）"
     price: 1999
     capacity: "840g（約140回分）"
-    pricePerUnit: "約6.4円/回"
+    pricePerUnit: "約2.4円/g"
     rating: 4.7
     reviewCount: 89
     features:
@@ -56,7 +56,7 @@ products:
     brand: "P&G（ジョイ）"
     price: 5480
     capacity: "42個（42回分）"
-    pricePerUnit: "約30.9円/回"
+    pricePerUnit: "約130円/個"
     rating: 4.55
     reviewCount: 29
     features:
@@ -79,7 +79,7 @@ products:
     brand: "ライオン（チャーミークリスタ）"
     price: 8600
     capacity: "840g（約140回分）"
-    pricePerUnit: "約5.7円/回"
+    pricePerUnit: "約10円/g"
     rating: 5
     reviewCount: 5
     features:

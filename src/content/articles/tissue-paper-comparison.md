@@ -10,7 +10,7 @@ products:
     brand: "日本製紙クレシア（スコッティ）"
     price: 7399
     capacity: "320枚（160組）×12箱"
-    pricePerUnit: "約0.26円/枚"
+    pricePerUnit: "約23円/枚"
     rating: 4.71
     reviewCount: 883
     features:
@@ -33,7 +33,7 @@ products:
     brand: "大王製紙（エリエール）"
     price: 5258
     capacity: "200枚（100組）×12箱"
-    pricePerUnit: "約0.49円/枚"
+    pricePerUnit: "約26円/枚"
     rating: 4.64
     reviewCount: 653
     features:
@@ -56,7 +56,7 @@ products:
     brand: "日本製紙クレシア（クリネックス）"
     price: 6146
     capacity: "200枚（100組）×12箱"
-    pricePerUnit: "約0.53円/枚"
+    pricePerUnit: "約31円/枚"
     rating: 4.67
     reviewCount: 247
     features:
@@ -102,7 +102,7 @@ products:
     brand: "業務用無地"
     price: 5760
     capacity: "200枚（100組）×60箱"
-    pricePerUnit: "約0.33円/枚"
+    pricePerUnit: "約29円/枚"
     rating: 4.4
     reviewCount: 10
     features:

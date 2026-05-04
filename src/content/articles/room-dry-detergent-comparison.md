@@ -10,7 +10,7 @@ products:
     brand: "花王（アタック）"
     price: 6980
     capacity: "2380g×6個（約476回分）"
-    pricePerUnit: "約14.7円/回"
+    pricePerUnit: "約0.49円/g"
     rating: 4.84
     reviewCount: 76
     features:
@@ -33,7 +33,7 @@ products:
     brand: "ライオン（トップ スーパーナノックス）"
     price: 18800
     capacity: "1510g×6個（約363回分）"
-    pricePerUnit: "約12.9円/回"
+    pricePerUnit: "約2.1円/g"
     rating: 5
     reviewCount: 1
     features:
@@ -56,7 +56,7 @@ products:
     brand: "P&G（アリエール）"
     price: 4398
     capacity: "140個（140回分）"
-    pricePerUnit: "約31円/回"
+    pricePerUnit: "約31円/個"
     rating: 4.75
     reviewCount: 8
     features:
@@ -77,11 +77,11 @@ products:
   - rank: 4
     name: "部屋干しトップ 除菌EX 詰め替え用 810g"
     brand: "ライオン（トップ）"
-    price: 498
+    price: 4700
     capacity: "810g（約22回分）"
-    pricePerUnit: "約22.9円/回"
-    rating: 4.36
-    reviewCount: 11
+    pricePerUnit: "約5.8円/g"
+    rating: 4.88
+    reviewCount: 101
     features:
       - "除菌成分配合で部屋干し臭を元からカット"
       - "詰め替え用タイプの手軽な洗浄力"
@@ -94,8 +94,8 @@ products:
       - "容量がやや少なく詰め替え頻度が高い"
       - "大容量タイプに比べてコストが割高"
     recommendedFor: "洗浄力重視の方・小容量でお試ししたい方・食べこぼしが多い家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q7yxn.3rdw6516.g00q7yxn.3rdw7e1e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmebox%2Fj4903301340133%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmebox%2Fi%2F10045049%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmebox/cabinet/item63/j4903301340133_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgean.3rdw65b6.g00tgean.3rdw7d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyyshop-japan%2Fjan-4903301340133-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyyshop-japan%2Fi%2F10015523%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yyshop-japan/cabinet/09361252/4903301340133-10.jpg?_ex=128x128"
 
 tags:
   - 部屋干し

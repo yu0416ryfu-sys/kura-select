@@ -10,7 +10,7 @@ products:
     brand: "花王（リセッシュ）"
     price: 328
     capacity: "680mL×3個（約2,700回分）"
-    pricePerUnit: "約0.47円/回"
+    pricePerUnit: "約0.16円/mL"
     rating: 4.7
     reviewCount: 10
     features:
@@ -33,7 +33,7 @@ products:
     brand: "P&G（ファブリーズ）"
     price: 3132
     capacity: "640mL×3個（約2,400回分）"
-    pricePerUnit: "約0.58円/回"
+    pricePerUnit: "約1.6円/mL"
     rating: 4.45
     reviewCount: 20
     features:
@@ -56,7 +56,7 @@ products:
     brand: "ライオン（ハイジア）"
     price: 3765
     capacity: "800mL（約1,000回分）"
-    pricePerUnit: "約0.58円/回"
+    pricePerUnit: "約4.7円/mL"
     rating: 4.2
     reviewCount: 50
     features:
@@ -79,7 +79,7 @@ products:
     brand: "A2Care"
     price: 2178
     capacity: "300mL（約600回分）"
-    pricePerUnit: "約2.2円/回"
+    pricePerUnit: "約7.3円/mL"
     rating: 4.47
     reviewCount: 404
     features:

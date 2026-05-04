@@ -10,7 +10,7 @@ products:
     brand: "業務用"
     price: 220
     capacity: "100枚×5箱（500枚）"
-    pricePerUnit: "約2.0円/枚"
+    pricePerUnit: "約0.44円/枚"
     rating: 4.26
     reviewCount: 19
     features:
@@ -33,7 +33,7 @@ products:
     brand: "業務用"
     price: 1380
     capacity: "100枚×3箱（300枚）"
-    pricePerUnit: "約7.9円/枚"
+    pricePerUnit: "約4.6円/枚"
     rating: 4.71
     reviewCount: 1217
     features:
@@ -56,7 +56,7 @@ products:
     brand: "ショーワグローブ"
     price: 1380
     capacity: "100枚×3箱（300枚）"
-    pricePerUnit: "約5.6円/枚"
+    pricePerUnit: "約4.6円/枚"
     rating: 4.71
     reviewCount: 1217
     features:
@@ -79,7 +79,7 @@ products:
     brand: "エステー（ファミリー）"
     price: 24576
     capacity: "100枚"
-    pricePerUnit: "約7.8円/枚"
+    pricePerUnit: "約246円/枚"
     rating: 4.2
     reviewCount: 100
     features:

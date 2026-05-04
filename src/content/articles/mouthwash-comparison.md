@@ -10,7 +10,7 @@ products:
     brand: "ジョンソン・エンド・ジョンソン（リステリン）"
     price: 3980
     capacity: "1000mL×4本セット（約6ヶ月分）"
-    pricePerUnit: "約1.0円/mL"
+    pricePerUnit: "約0.99円/mL"
     rating: 4.67
     reviewCount: 419
     features:
@@ -33,7 +33,7 @@ products:
     brand: "アース製薬（モンダミン）"
     price: 5280
     capacity: "1300mL（約2ヶ月分）"
-    pricePerUnit: "約0.75円/mL"
+    pricePerUnit: "約4.1円/mL"
     rating: 4.77
     reviewCount: 13
     features:
@@ -56,7 +56,7 @@ products:
     brand: "サンスター（GUM）"
     price: 1038
     capacity: "900mL（約1.5ヶ月分）"
-    pricePerUnit: "約0.98円/mL"
+    pricePerUnit: "約1.2円/mL"
     rating: 4.71
     reviewCount: 34
     features:
@@ -79,7 +79,7 @@ products:
     brand: "ウエルテック（コンクール）"
     price: 2100
     capacity: "100mL（約700回分）"
-    pricePerUnit: "約1.50円/回"
+    pricePerUnit: "約21円/mL"
     rating: 4.76
     reviewCount: 530
     features:

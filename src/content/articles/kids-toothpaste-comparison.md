@@ -10,7 +10,7 @@ products:
     brand: "ライオン歯科材（チェックアップ）"
     price: 2420
     capacity: "60g×3本（約6ヶ月分）"
-    pricePerUnit: "約4.99円/g"
+    pricePerUnit: "約13円/g"
     rating: 4.91
     reviewCount: 224
     features:
@@ -33,7 +33,7 @@ products:
     brand: "ライオン（クリニカKid's）"
     price: 3494
     capacity: "60g×3本（約6ヶ月分）"
-    pricePerUnit: "約4.33円/g"
+    pricePerUnit: "約19円/g"
     rating: 5
     reviewCount: 3
     features:
@@ -56,7 +56,7 @@ products:
     brand: "ピジョン"
     price: 660
     capacity: "50g×2本（約4ヶ月分）"
-    pricePerUnit: "約9.80円/g"
+    pricePerUnit: "約6.6円/g"
     rating: 4.78
     reviewCount: 27
     features:

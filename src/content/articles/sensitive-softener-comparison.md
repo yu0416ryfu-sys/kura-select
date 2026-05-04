@@ -10,7 +10,7 @@ products:
     brand: "P&G（さらさ）"
     price: 2664
     capacity: "850mL×2袋（約100回分）"
-    pricePerUnit: "約13.0円/回"
+    pricePerUnit: "約1.6円/mL"
     rating: 4.42
     reviewCount: 445
     features:
@@ -33,7 +33,7 @@ products:
     brand: "NSファーファ・ジャパン"
     price: 1370
     capacity: "480mL×3袋（約90回分）"
-    pricePerUnit: "約13.1円/回"
+    pricePerUnit: "約0.95円/mL"
     rating: 4.68
     reviewCount: 37
     features:
@@ -56,7 +56,7 @@ products:
     brand: "NSファーファ・ジャパン（ベビーファーファ）"
     price: 8178
     capacity: "600mL×3本（約90回分）"
-    pricePerUnit: "約16.4円/回"
+    pricePerUnit: "約4.5円/mL"
     rating: 4.52
     reviewCount: 234
     features:
@@ -79,7 +79,7 @@ products:
     brand: "ネイチャーラボ（ランドリン）"
     price: 1042
     capacity: "860mL（約43回分）"
-    pricePerUnit: "約18.6円/回"
+    pricePerUnit: "約1.2円/mL"
     rating: 4.65
     reviewCount: 48
     features:

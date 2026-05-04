@@ -10,7 +10,7 @@ products:
     brand: "花王（8×4）"
     price: 492
     capacity: "150g"
-    pricePerUnit: "約4円/g"
+    pricePerUnit: "約3.3円/g"
     rating: 5
     reviewCount: 2
     features:
@@ -33,7 +33,7 @@ products:
     brand: "ライオン（Ban）"
     price: 2723
     capacity: "40mL"
-    pricePerUnit: "約25円/mL"
+    pricePerUnit: "約68円/mL"
     rating: 4.5
     reviewCount: 100
     features:
@@ -56,7 +56,7 @@ products:
     brand: "資生堂（Ag DEO 24）"
     price: 1808
     capacity: "180g"
-    pricePerUnit: "約6円/g"
+    pricePerUnit: "約10円/g"
     rating: 4.5
     reviewCount: 100
     features:
@@ -79,7 +79,7 @@ products:
     brand: "シービック（デオナチュレ）"
     price: 2970
     capacity: "20g"
-    pricePerUnit: "約50円/g"
+    pricePerUnit: "約149円/g"
     rating: 4.82
     reviewCount: 264
     features:
