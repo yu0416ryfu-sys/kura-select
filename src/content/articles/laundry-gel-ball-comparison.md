@@ -28,7 +28,7 @@ products:
   - rank: 2
     name: "アタックZERO ワンパック 7個パック"
     brand: "花王（アタック）"
-    price: 312
+    price: 2280
     capacity: "7個（7回分）"
     features:
       - "高浸透洗浄技術で繊維の奥まで洗浄"
