@@ -54,7 +54,7 @@ products:
   - rank: 3
     name: "激乾 除湿剤 タンクタイプ（400mL×3個パック）"
     brand: "フマキラー（激乾）"
-    price: 1149
+    price: 421
     capacity: "400mL×3個（1,200mL分）"
     pricePerUnit: "0円"
     rating: 0
@@ -71,8 +71,8 @@ products:
       - "大容量タンクタイプより交換頻度が高め"
       - "広めの収納スペースには不向き"
     recommendedFor: "下駄箱・引き出し・小さめの収納スペースに"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u122n.3rdw6a75.g00u122n.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fboveda%2Fb62%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fboveda%2Fi%2F10000074%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/boveda/cabinet/product/10p-th/10044201/b62-67-owc.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ramcn.3rdw6d52.g00ramcn.3rdw79d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmdse%2Fho-4902424439014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frcmdse%2Fi%2F14732325%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmdse/cabinet/ho01/ho-4902424439014.jpg?_ex=128x128"
 
   - rank: 4
     name: "備長炭ドライペット 除湿剤 シートタイプ クローゼット用(122g×2枚入)"
