@@ -29,11 +29,11 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg/yyyy27_sam01.jpg?_ex=128x128"
 
   - rank: 2
-    name: "デンターシステマ ハブラシ コンパクト 6本"
+    name: "システマハブラシ 超コンパクト ふつう 1本"
     brand: "ライオン（システマ）"
     price: 262
-    capacity: "6本（約6ヶ月分）"
-    pricePerUnit: "約150円/本"
+    capacity: "1本（約1ヶ月分）"
+    pricePerUnit: "約262円/本"
     rating: 5
     reviewCount: 2
     features:
@@ -43,7 +43,7 @@ products:
     pros:
       - "歯周ポケットケアに最適な超極細毛"
       - "薄型ヘッドで口の中で小回りが利く"
-      - "6本パックでまとめ買いしやすい"
+      - "超コンパクトヘッドで奥歯の裏側まで届く"
     cons:
       - "毛が柔らかく力を入れないとプラーク除去力が弱め"
       - "極細毛のため開きやすい"
@@ -52,11 +52,11 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0411/4903301328476.jpg?_ex=128x128"
 
   - rank: 3
-    name: "クリニカアドバンテージ ハブラシ 4列 コンパクト ふつう 3本パック"
+    name: "クリニカ アドバンテージ ハブラシ 4列 超コンパクト ふつう 12本セット"
     brand: "ライオン（クリニカ）"
     price: 3379
-    capacity: "3本（約3ヶ月分）"
-    pricePerUnit: "約180円/本"
+    capacity: "12本（約12ヶ月分）"
+    pricePerUnit: "約282円/本"
     rating: 4.49
     reviewCount: 74
     features:
@@ -68,18 +68,18 @@ products:
       - "握りやすいハンドル設計"
       - "大手メーカーで入手しやすい"
     cons:
-      - "3本パックなのでまとめ買い割安感は少なめ"
+      - "1本あたりの単価はタフト24より高め"
       - "毛の硬さの選択肢が限られる"
     recommendedFor: "しっかりプラークを落としたい方・磨き心地を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F71453%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10926222%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/453/71453.jpg?_ex=128x128"
 
   - rank: 4
-    name: "GUM デンタルブラシ #211 3列コンパクト ふつう 4本セット"
+    name: "GUM デンタルブラシ #211 3列コンパクト ふつう 1本"
     brand: "サンスター（GUM）"
     price: 268
-    capacity: "4本（約4ヶ月分）"
-    pricePerUnit: "約200円/本"
+    capacity: "1本（約1ヶ月分）"
+    pricePerUnit: "約268円/本"
     rating: 4.67
     reviewCount: 6
     features:
@@ -92,7 +92,7 @@ products:
       - "歯科専門ブランドの安心感"
     cons:
       - "3列タイプは磨くのに時間がかかる"
-      - "1本あたり約200円とやや高め"
+      - "1本あたり約268円とやや高め"
     recommendedFor: "歯間ケアを重視する方・丁寧にブラッシングしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10019611%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10019611%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin89/10019611.jpg?_ex=128x128"
