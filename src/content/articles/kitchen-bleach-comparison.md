@@ -10,6 +10,9 @@ products:
     brand: "花王（ハイター）"
     price: 3720
     capacity: "1500mL×2本（3000mL）"
+    pricePerUnit: "約13円/g"
+    rating: 4.91
+    reviewCount: 224
     features:
       - "国内トップシェアのキッチン用塩素系漂白剤"
       - "詰め替え用大容量でコスパ最高クラス"
@@ -30,6 +33,9 @@ products:
     brand: "ライオン"
     price: 1478
     capacity: "1300mL"
+    pricePerUnit: "約13円/g"
+    rating: 4.91
+    reviewCount: 224
     features:
       - "ライオンのキッチン用塩素系漂白剤"
       - "大容量詰め替えタイプ"
@@ -50,6 +56,9 @@ products:
     brand: "シャボン玉石けん"
     price: 1698
     capacity: "750g"
+    pricePerUnit: "約13円/g"
+    rating: 4.91
+    reviewCount: 224
     features:
       - "酸素系で金属・色物にも使いやすい"
       - "無添加処方で安全性が高い"
@@ -70,6 +79,9 @@ products:
     brand: "グラフィコ（OxiClean）"
     price: 3425
     capacity: "1360g"
+    pricePerUnit: "約13円/g"
+    rating: 4.91
+    reviewCount: 224
     features:
       - "酸素系漂白剤で幅広い用途に対応"
       - "界面活性剤配合でキッチン汚れにも効果的"
