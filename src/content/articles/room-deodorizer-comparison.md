@@ -8,7 +8,7 @@ products:
   - rank: 1
     name: "リセッシュ 除菌EX ワイドジェット ストロング 香りが残らないタイプ つめかえ用(630ml)"
     brand: "花王"
-    price: 993
+    price: 3080
     capacity: "630ml"
     features:
       - "衣類・布用ファブリックミスト（詰め替え用）"
@@ -25,8 +25,8 @@ products:
       - "スプレータイプのため一時的な効果が中心"
       - "無香タイプのため香りを楽しみたい人には不向き"
     recommendedFor: "コスパ重視・まとめ買い派・広いリビングに置きたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6rrn.3rdw6fe6.g00u6rrn.3rdw7f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaidora%2F4901301433169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaidora%2Fi%2F10026355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maidora/cabinet/item_images/drug_cosmetic_15/4901301433169.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F580764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11272901%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/764/580764.jpg?_ex=128x128"
 
   - rank: 2
     name: "リセッシュ 消臭スプレー 除菌EX 香りが残らないタイプ 詰替大(700ml*3袋セット)"

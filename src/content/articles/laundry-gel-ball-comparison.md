@@ -22,13 +22,13 @@ products:
       - "大容量のため保管スペースが必要"
       - "1個あたりの量調整ができない"
     recommendedFor: "洗浄力重視・大容量まとめ買い派・時短派"
-    rakutenUrl: "https://item.rakuten.co.jp/r-kojima/4987176194411/"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r8mvn.3rdw64c9.g00r8mvn.3rdw71c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F4987176194411%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11431716%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r-kojima/cabinet/n0000000903/4987176194411_1.jpg?_ex=128x128"
 
   - rank: 2
     name: "アタックZERO ワンパック 7個パック"
     brand: "花王（アタック）"
-    price: 312
+    price: 2280
     capacity: "7個（7回分）"
     features:
       - "高浸透洗浄技術で繊維の奥まで洗浄"
@@ -42,8 +42,8 @@ products:
       - "大容量タイプに比べて1個あたりの単価が高い"
       - "香りは控えめ"
     recommendedFor: "節水・時短重視・少量から試したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/ikkyuuhinnnomiseikkyuu/ss-4901301365422/"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ikkyuuhinnnomiseikkyuu/cabinet/kaou01/4901301365422.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ulujn.3rdw68ec.g00ulujn.3rdw7a89/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flgo-2023%2F3931-000027%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flgo-2023%2Fi%2F10000021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lgo-2023/cabinet/imgrc0109870964.jpg?_ex=128x128"
 
   - rank: 3
     name: "ボールド ジェルボール 4in1 詰め替え メガジャンボ（選べる香り）"
@@ -62,7 +62,7 @@ products:
       - "洗浄特化型より洗浄力は控えめ"
       - "香りの好みが分かれる"
     recommendedFor: "香り・柔軟効果重視・洗濯用品をシンプルにしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/hikaritv/1710000080/"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2ngn.3rdw6e7c.g00t2ngn.3rdw797f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F1710000080%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhikaritv%2Fi%2F10234804%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000080_k.jpg?_ex=128x128"
 
   - rank: 4
@@ -81,7 +81,7 @@ products:
       - "他商品より1個あたり単価が高い"
       - "洗浄力は特化型より控えめ"
     recommendedFor: "敏感肌・赤ちゃんのいる家庭・無添加志向の方"
-    rakutenUrl: "https://search.rakuten.co.jp/search/mall/%E3%81%95%E3%82%89%E3%81%95+%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB+%E8%A9%B0%E3%82%81%E6%9B%BF%E3%81%88/"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u59un.3rdw6a0f.g00u59un.3rdw7dbe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feinverse-hokkaido%2Frjk-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feinverse-hokkaido%2Fi%2F10000108%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/einverse-hokkaido/cabinet/08901840/jk/jk-10.jpg?_ex=128x128"
 
 tags:
