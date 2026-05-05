@@ -31,9 +31,9 @@ products:
   - rank: 2
     name: "ソフティモ スピーディオイルクレンジング 230mL"
     brand: "コーセー（ソフティモ）"
-    price: 2462
+    price: 2270
     capacity: "230mL"
-    pricePerUnit: "約11円/mL"
+    pricePerUnit: "約9.9円/mL"
     rating: 4.3
     reviewCount: 600
     features:
@@ -48,8 +48,8 @@ products:
       - "オイルタイプなので洗い流しが必要"
       - "ニキビ肌の方は刺激を感じる場合がある"
     recommendedFor: "フルメイク派の方・ウォータープルーフアイテムをよく使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4o6n.3rdw655e.g00s4o6n.3rdw773a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2Fha-4971710576214_2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F10923105%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ulmaxjapan2/cabinet/zg168/4971710576214.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw2pn.3rdw6069.g00tw2pn.3rdw7b19/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyland%2F1736928005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyland%2Fi%2F10000272%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyland/cabinet/compass1736927868.jpg?_ex=128x128"
 
   - rank: 3
     name: "DHC ディープクレンジングオイル 200mL"
