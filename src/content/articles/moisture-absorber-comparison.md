@@ -66,10 +66,10 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/boveda/cabinet/product/10p-th/10044201/b62-67-owc.jpg?_ex=128x128"
 
   - rank: 4
-    name: "備長炭ドライペット 除湿剤 シートタイプ クローゼット用（122g×2枚入）"
+    name: "備長炭ドライペット 除湿剤 シートタイプ クローゼット用(122g×2枚入)"
     brand: "エステー（備長炭ドライペット）"
     price: 757
-    capacity: "240g×2枚（クローゼット用シート）"
+    capacity: "122g×2枚入"
     features:
       - "備長炭配合で除湿＋強力消臭"
       - "シートタイプでクローゼット内に吊り下げ可能"
