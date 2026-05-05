@@ -6,81 +6,90 @@ publishedAt: 2026-05-05
 updatedAt: 2026-05-05
 products:
   - rank: 1
-    name: "消臭力 EX 詰め替え 720mL×2本"
-    brand: "エステー"
+    name: "リセッシュ 除菌EX ワイドジェット ストロング 香りが残らないタイプ つめかえ用(630ml)"
+    brand: "花王"
     price: 993
-    capacity: "720mL×2本（1440mL）"
+    capacity: "630ml"
     features:
-      - "国内シェアトップクラスの置き型消臭剤"
-      - "詰め替えタイプで経済的"
-      - "抗菌・防カビ成分配合"
+      - "衣類・布用ファブリックミスト（詰め替え用）"
+      - "除菌EXで強力消臭・除菌"
+      - "香りが残らないストロングタイプ"
+      - "ワイドジェットで広範囲に素早くミスト"
     pros:
-      - "大容量詰め替えで1mLあたりのコストを抑えられる"
-      - "エステーの信頼ブランドで品質が安定"
-      - "香り・無香料など選択肢が豊富"
+      - "大容量詰め替えでコスパ良好"
+      - "香り残りが少ないので使いやすい"
+      - "花王の信頼できる品質"
+      - "衣類や布製品の消臭・除菌に特化"
     cons:
-      - "1回購入分の保管スペースが必要"
-      - "詰め替え作業がやや手間"
+      - "詰め替え作業が必要"
+      - "スプレータイプのため一時的な効果が中心"
+      - "無香タイプのため香りを楽しみたい人には不向き"
     recommendedFor: "コスパ重視・まとめ買い派・広いリビングに置きたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6rrn.3rdw6fe6.g00u6rrn.3rdw7f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaidora%2F4901301433169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaidora%2Fi%2F10026355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maidora/cabinet/item_images/drug_cosmetic_15/4901301433169.jpg?_ex=128x128"
 
   - rank: 2
-    name: "リセッシュ 除菌EX 消臭スプレー 詰め替え 大容量 800mL"
-    brand: "花王（リセッシュ）"
+    name: "リセッシュ 消臭スプレー 除菌EX 香りが残らないタイプ 詰替大(700ml*3袋セット)"
+    brand: "花王"
     price: 2040
-    capacity: "800mL"
+    capacity: "700mL×3袋（2100mL）"
     features:
-      - "花王の除菌消臭スプレーブランド「リセッシュ」"
-      - "大容量詰め替えでコスパ良好"
-      - "除菌・消臭・防臭の3効果"
+      - "汗・皮脂臭まで徹底消臭、24時間ニオイ0へ"
+      - "布の奥まで浸透する中和消臭＋皮脂酸化ブロック技術"
+      - "99%除菌＆布製品の防カビ効果"
+      - "香りが残らないタイプ"
     pros:
-      - "花王の信頼ブランドで品質が安定"
-      - "大容量800mLで買い替え頻度が下がる"
-      - "布製品・空間の両方に使えるマルチタイプ"
+      - "大容量3袋セットでコスパ良好"
+      - "花王の信頼品質で高い消臭力"
+      - "衣類・布製品・空間に幅広く使用可能"
     cons:
-      - "置き型と違いスプレーする手間がある"
-      - "無香タイプより香りが残る場合がある"
+      - "詰め替え作業が必要で手間"
+      - "保管時に液漏れに注意"
+      - "香りを求める人には不向き"
     recommendedFor: "布製品の臭い消し・キッチンや玄関にも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F511307%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11059514%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/307/511307.jpg?_ex=128x128"
 
   - rank: 3
-    name: "無香空間 特大本体 400mL"
+    name: "無香空間 本体 315g"
     brand: "小林製薬"
     price: 448
-    capacity: "400mL"
+    capacity: "315g"
     features:
-      - "無香料タイプで香りが気にならない"
-      - "嫌な臭いだけを吸着・中和"
-      - "特大サイズで交換頻度が低い"
-    pros:
-      - "無香料なので香り疲れしない"
-      - "赤ちゃん・ペットのいる家庭でも安心"
-      - "シンプルなデザインで部屋に馴染む"
-    cons:
-      - "香りによる消臭効果は期待できない"
-      - "無香タイプの中ではやや割高"
+      - "香りでごまかさずにしっかり消臭する置き型消臭剤"  
+      - "アミノ酸系消臭成分を配合した透明ビーズ"  
+      - "部屋・玄関・トイレ・靴箱など様々な場所で使用可能"
+    pros:  
+      - "無香料で香りが苦手な人にも使いやすい"  
+      - "アミノ酸系成分でニオイをしっかり分解消臭"  
+      - "本体タイプで即使用可能"
+    cons:  
+      - "詰め替え用と比べて1回あたりのコストが高い"  
+      - "大容量タイプに比べて持続期間が短め"  
+      - "保管時に場所を取る"
     recommendedFor: "香りが苦手な方・赤ちゃん・ペットがいる家庭・寝室に置きたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fkb0017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10009562%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/life/life05/kb0017_1a.jpg?_ex=128x128"
 
   - rank: 4
-    name: "ファブリーズ W除菌 消臭スプレー 詰め替え 大容量 800mL"
-    brand: "P&G（ファブリーズ）"
+    name: "ファブリーズ W除菌+消臭スプレー 衣類・布製品用 香りが残らない 詰め替え 4回分(1280ml×2セット)"
+    brand: "ファブリーズ(febreze) / P&G"
     price: 3132
-    capacity: "800mL"
-    features:
-      - "W除菌で除菌と消臭を同時に実現"
-      - "大容量詰め替えでコスパ良好"
-      - "繊維・空間の臭いを消臭・除菌"
-    pros:
-      - "P&Gのロングセラーブランドで信頼性が高い"
-      - "W除菌の高い除菌効果"
-      - "香りの種類が豊富で選びやすい"
-    cons:
-      - "置き型ではなくスプレータイプのため手間がある"
-      - "香りが強い商品もあるため好みが分かれる"
+    capacity: "1280ml×2セット（合計2560ml、4回分×2）"
+    features:  
+      - "48時間爽やか続く消臭効果"  
+      - "W除菌+消臭で衣類・布製品にスプレーするだけ"  
+      - "香りが残らない無香タイプ"  
+      - "シワ取り効果もあり"
+    pros:  
+      - "大容量詰め替えでコスパが良い"  
+      - "除菌・消臭成分を配合し、衣類や布団などに使いやすい"  
+      - "お子さまのいる家庭でも使用可能"  
+      - "ボトルに4回詰め替え可能で経済的"
+    cons:  
+      - "詰め替え作業が必要で少し手間"  
+      - "大容量のため保管スペースを取る"  
+      - "特定の素材（革・和装品など）には使用不可"
     recommendedFor: "布製品・空間の消臭除菌を手軽にしたい方・ファブリーズユーザー"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598756%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321889%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/756/598756.jpg?_ex=128x128"
