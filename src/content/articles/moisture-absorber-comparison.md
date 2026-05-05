@@ -10,9 +10,9 @@ products:
     brand: "オカモト（水とりぞうさん）"
     price: 4280
     capacity: "550mL×45個（24,750mL分）"
-    pricePerUnit: "0円"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約0.17円/mL"
+    rating: 4.83
+    reviewCount: 230
     features:
       - "国内定番の大容量タンクタイプ除湿剤"
       - "強力脱臭・防臭・防カビ効果"
@@ -33,9 +33,9 @@ products:
     brand: "エステー（ドライペット）"
     price: 1914
     capacity: "420mL×18個（7,560mL分）"
-    pricePerUnit: "0円"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約0.25円/mL"
+    rating: 4.49
+    reviewCount: 37
     features:
       - "備長炭配合で除湿＋消臭"
       - "タンクタイプで吸湿した水が一目でわかる"
@@ -56,7 +56,7 @@ products:
     brand: "フマキラー（激乾）"
     price: 421
     capacity: "400mL×3個（1,200mL分）"
-    pricePerUnit: "0円"
+    pricePerUnit: "約0.35円/mL"
     rating: 0
     reviewCount: 0
     features:
@@ -79,9 +79,9 @@ products:
     brand: "エステー（備長炭ドライペット）"
     price: 757
     capacity: "122g×2枚入"
-    pricePerUnit: "0円"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約3.1円/g"
+    rating: 4.54
+    reviewCount: 24
     features:
       - "備長炭配合で除湿＋強力消臭"
       - "シートタイプでクローゼット内に吊り下げ可能"

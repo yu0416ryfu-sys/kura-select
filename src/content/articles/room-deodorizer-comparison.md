@@ -10,9 +10,9 @@ products:
     brand: "花王"
     price: 3080
     capacity: "630ml"
-    pricePerUnit: "0円"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約4.9円/ml"
+    rating: 5
+    reviewCount: 4
     features:
       - "衣類・布用ファブリックミスト（詰め替え用）"
       - "除菌EXで強力消臭・除菌"
@@ -36,9 +36,9 @@ products:
     brand: "花王"
     price: 2040
     capacity: "700mL×3袋（2100mL）"
-    pricePerUnit: "0円"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約0.97円/mL"
+    rating: 4.74
+    reviewCount: 288
     features:
       - "汗・皮脂臭まで徹底消臭、24時間ニオイ0へ"
       - "布の奥まで浸透する中和消臭＋皮脂酸化ブロック技術"
@@ -61,9 +61,9 @@ products:
     brand: "小林製薬"
     price: 448
     capacity: "315g"
-    pricePerUnit: "0円"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約1.4円/g"
+    rating: 4
+    reviewCount: 4
     features:
       - "香りでごまかさずにしっかり消臭する置き型消臭剤"  
       - "アミノ酸系消臭成分を配合した透明ビーズ"  

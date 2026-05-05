@@ -11,8 +11,8 @@ products:
     price: 3680
     capacity: "100m×12ロール（2倍巻き）"
     pricePerUnit: "約3.1円/m"
-    rating: 0
-    reviewCount: 0
+    rating: 4.91
+    reviewCount: 11
     features:
       - "アイリスオーヤマ×日本製紙クレシアの共同開発"
       - "2倍巻きで長持ち・省スペース"
@@ -34,8 +34,8 @@ products:
     price: 6383
     capacity: "25m×12ロール（ダブル）"
     pricePerUnit: "約21円/m"
-    rating: 0
-    reviewCount: 0
+    rating: 4.51
+    reviewCount: 582
     features:
       - "パルプ100%の柔らかなダブルタイプ"
       - "エリエールブランドの高品質紙質"
@@ -57,8 +57,8 @@ products:
     price: 4799
     capacity: "100m×48ロール（2倍巻き）"
     pricePerUnit: "約1.00円/m"
-    rating: 0
-    reviewCount: 0
+    rating: 4.66
+    reviewCount: 389
     features:
       - "2倍巻き長尺シングル・花の香り付き"
       - "48ロールの大容量まとめ買いパック"
@@ -80,8 +80,8 @@ products:
     price: 580
     capacity: "ダブル 27.5m×96ロール"
     pricePerUnit: "約1.21円/m"
-    rating: 0
-    reviewCount: 0
+    rating: 4.71
+    reviewCount: 7
     features:
       - "100%再生紙使用"
       - "無地・無印刷でシンプル"
