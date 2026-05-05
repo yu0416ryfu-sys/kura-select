@@ -10,7 +10,7 @@ products:
     brand: "ボシュロム（エピカコールド）"
     price: 3040
     capacity: "360mL"
-    pricePerUnit: "約3.3円/mL"
+    pricePerUnit: "約8.4円/mL"
     rating: 4.8
     reviewCount: 35
     features:
@@ -33,7 +33,7 @@ products:
     brand: "アルコン（オプティフリー）"
     price: 3890
     capacity: "470mL"
-    pricePerUnit: "約2.8円/mL"
+    pricePerUnit: "約8.3円/mL"
     rating: 4.72
     reviewCount: 74
     features:
@@ -56,7 +56,7 @@ products:
     brand: "AMO（コンプリート）"
     price: 1424
     capacity: "360mL"
-    pricePerUnit: "約3.1円/mL"
+    pricePerUnit: "約4.0円/mL"
     rating: 4.9
     reviewCount: 21
     features:
@@ -79,7 +79,7 @@ products:
     brand: "メニコン"
     price: 7360
     capacity: "450mL"
-    pricePerUnit: "約3.1円/mL"
+    pricePerUnit: "約16円/mL"
     rating: 4.74
     reviewCount: 158
     features:

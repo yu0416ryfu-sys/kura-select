@@ -10,7 +10,7 @@ products:
     brand: "クラシエ（いち髪）"
     price: 1000
     capacity: "660mL×2個（約6ヶ月分）"
-    pricePerUnit: "約0.97円/mL"
+    pricePerUnit: "約0.76円/mL"
     rating: 4.75
     reviewCount: 8
     features:
@@ -33,7 +33,7 @@ products:
     brand: "花王（メリット）"
     price: 6600
     capacity: "1200mL（約4ヶ月分）"
-    pricePerUnit: "約0.90円/mL"
+    pricePerUnit: "約5.5円/mL"
     rating: 4.1
     reviewCount: 10
     features:
@@ -56,7 +56,7 @@ products:
     brand: "P&G（パンテーン）"
     price: 3980
     capacity: "950mL（約3ヶ月分）"
-    pricePerUnit: "約1.37円/mL"
+    pricePerUnit: "約4.2円/mL"
     rating: 4.65
     reviewCount: 55
     features:
@@ -79,7 +79,7 @@ products:
     brand: "ユニリーバ（LUX）"
     price: 2480
     capacity: "660g（約2ヶ月分）"
-    pricePerUnit: "約1.06円/mL"
+    pricePerUnit: "約3.8円/g"
     rating: 4.71
     reviewCount: 14
     features:

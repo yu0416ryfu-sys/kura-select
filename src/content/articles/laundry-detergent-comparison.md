@@ -10,7 +10,7 @@ products:
     brand: "アリエール（P&G）"
     price: 4078
     capacity: "4000g（約148回分）"
-    pricePerUnit: "約27.6円/回"
+    pricePerUnit: "約1.0円/g"
     features:
       - "国内シェアトップクラスの液体洗剤"
       - "詰め替えタイプで経済的"
@@ -32,7 +32,7 @@ products:
     brand: "花王（Kao）"
     price: 5980
     capacity: "10kg（約333回分）"
-    pricePerUnit: "約10.7円/回"
+    pricePerUnit: "約598円/kg"
     rating: 4.59
     reviewCount: 32
     features:
@@ -56,7 +56,7 @@ products:
     brand: "P&G（ボールド）"
     price: 4480
     capacity: "65個（65回分）"
-    pricePerUnit: "約25.8円/回"
+    pricePerUnit: "約69円/個"
     features:
       - "計量不要のカプセルタイプ"
       - "洗浄+柔軟+香り+シワ防止の4in1"

@@ -10,7 +10,7 @@ products:
     brand: "花王（バスマジックリン）"
     price: 722
     capacity: "820mL×2袋（約240回分）"
-    pricePerUnit: "約5.4円/回"
+    pricePerUnit: "約0.44円/mL"
     rating: 4.88
     reviewCount: 17
     features:
@@ -33,7 +33,7 @@ products:
     brand: "ライオン（ルック）"
     price: 3262
     capacity: "800mL（約120回分）"
-    pricePerUnit: "約5.0円/回"
+    pricePerUnit: "約4.1円/mL"
     rating: 4.71
     reviewCount: 245
     features:
@@ -56,7 +56,7 @@ products:
     brand: "ジョンソン（カビキラー）"
     price: 784
     capacity: "1000g（約100回分）"
-    pricePerUnit: "約7.0円/回"
+    pricePerUnit: "約0.78円/g"
     rating: 4.6
     reviewCount: 53
     features:

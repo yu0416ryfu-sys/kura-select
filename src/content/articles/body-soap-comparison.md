@@ -33,7 +33,7 @@ products:
     brand: "ライオン（hadakara）"
     price: 732
     capacity: "800mL（約100回分）"
-    pricePerUnit: "約0.87円/mL"
+    pricePerUnit: "約0.92円/mL"
     rating: 4.51
     reviewCount: 195
     features:
@@ -56,7 +56,7 @@ products:
     brand: "ユニリーバ（ダヴ）"
     price: 2598
     capacity: "720g（約2ヶ月分）"
-    pricePerUnit: "約0.83円/mL"
+    pricePerUnit: "約3.6円/g"
     rating: 4.69
     reviewCount: 32
     features:
@@ -79,7 +79,7 @@ products:
     brand: "第一三共ヘルスケア（ミノン）"
     price: 2993
     capacity: "400mL（約100回分）"
-    pricePerUnit: "約2.75円/mL"
+    pricePerUnit: "約7.5円/mL"
     rating: 4.77
     reviewCount: 87
     features:

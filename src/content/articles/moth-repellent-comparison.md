@@ -10,7 +10,7 @@ products:
     brand: "エステー（ムシューダ）"
     price: 1628
     capacity: "24個入"
-    pricePerUnit: "約50円/個"
+    pricePerUnit: "約68円/個"
     rating: 4.73
     reviewCount: 124
     features:
@@ -33,7 +33,7 @@ products:
     brand: "白元アース（タンスにゴン）"
     price: 657
     capacity: "12個入"
-    pricePerUnit: "約46円/個"
+    pricePerUnit: "約55円/個"
     rating: 4.82
     reviewCount: 11
     features:
@@ -56,7 +56,7 @@ products:
     brand: "フマキラー（ムシコナーズ）"
     price: 5754
     capacity: "12個入"
-    pricePerUnit: "約58円/個"
+    pricePerUnit: "約480円/個"
     rating: 4.3
     reviewCount: 300
     features:
@@ -79,7 +79,7 @@ products:
     brand: "アース製薬"
     price: 616
     capacity: "24個入"
-    pricePerUnit: "約42円/個"
+    pricePerUnit: "約26円/個"
     rating: 5
     reviewCount: 1
     features:

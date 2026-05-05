@@ -10,7 +10,7 @@ products:
     brand: "サンスター（GUM）"
     price: 280
     capacity: "550m"
-    pricePerUnit: "約1.4円/m"
+    pricePerUnit: "約0.51円/m"
     rating: 4.64
     reviewCount: 58
     features:
@@ -33,7 +33,7 @@ products:
     brand: "ライオン（クリニカ）"
     price: 292
     capacity: "30本入"
-    pricePerUnit: "約16円/本"
+    pricePerUnit: "約9.7円/本"
     rating: 4.95
     reviewCount: 21
     features:
@@ -56,7 +56,7 @@ products:
     brand: "小林製薬（糸ようじ）"
     price: 770
     capacity: "60本入"
-    pricePerUnit: "約7.1円/本"
+    pricePerUnit: "約13円/本"
     rating: 4.6
     reviewCount: 114
     features:
@@ -79,7 +79,7 @@ products:
     brand: "デンタルプロ"
     price: 467
     capacity: "30本入（10本×3個）"
-    pricePerUnit: "約23円/本"
+    pricePerUnit: "約16円/本"
     rating: 4.44
     reviewCount: 9
     features:

@@ -10,7 +10,7 @@ products:
     brand: "ライオン（キレイキレイ）"
     price: 2806
     capacity: "800mL×2袋（約400回分）"
-    pricePerUnit: "約1.5円/回"
+    pricePerUnit: "約1.8円/mL"
     rating: 4.21
     reviewCount: 384
     features:
@@ -33,7 +33,7 @@ products:
     brand: "花王（ビオレu）"
     price: 2950
     capacity: "800mL×2袋（約400回分）"
-    pricePerUnit: "約1.6円/回"
+    pricePerUnit: "約1.8円/mL"
     rating: 4.68
     reviewCount: 234
     features:
@@ -56,7 +56,7 @@ products:
     brand: "レキットベンキーザー（ミューズ）"
     price: 1914
     capacity: "900mL（約300回分）"
-    pricePerUnit: "約1.8円/回"
+    pricePerUnit: "約2.1円/mL"
     rating: 4.28
     reviewCount: 1450
     features:
@@ -79,7 +79,7 @@ products:
     brand: "ミヨシ石鹸"
     price: 471
     capacity: "300mL×3個（約225回分）"
-    pricePerUnit: "約2.0円/回"
+    pricePerUnit: "約0.52円/mL"
     rating: 4.74
     reviewCount: 561
     features:

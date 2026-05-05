@@ -10,7 +10,7 @@ products:
     brand: "花王（クリアクリーン）"
     price: 1040
     capacity: "130g×6本"
-    pricePerUnit: "約230円/本"
+    pricePerUnit: "約1.3円/g"
     rating: 4.85
     reviewCount: 26
     features:
@@ -33,7 +33,7 @@ products:
     brand: "ライオン（システマ）"
     price: 798
     capacity: "95g×4本"
-    pricePerUnit: "約495円/本"
+    pricePerUnit: "約2.1円/g"
     rating: 4.6
     reviewCount: 52
     features:
@@ -56,7 +56,7 @@ products:
     brand: "グラクソ・スミスクライン（シュミテクト）"
     price: 5130
     capacity: "90g×3本"
-    pricePerUnit: "約527円/本"
+    pricePerUnit: "約19円/g"
     rating: 4.5
     reviewCount: 1020
     features:
@@ -79,7 +79,7 @@ products:
     brand: "サンギ（アパガード）"
     price: 1480
     capacity: "135g×3本"
-    pricePerUnit: "約993円/本"
+    pricePerUnit: "約3.7円/g"
     rating: 4.68
     reviewCount: 1621
     features:

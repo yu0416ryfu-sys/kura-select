@@ -10,7 +10,7 @@ products:
     brand: "花王（ニベア）"
     price: 698
     capacity: "100g"
-    pricePerUnit: "約3.5円/g"
+    pricePerUnit: "約7.0円/g"
     rating: 4.63
     reviewCount: 16
     features:
@@ -33,7 +33,7 @@ products:
     brand: "ユニリーバ（ヴァセリン）"
     price: 380
     capacity: "75mL"
-    pricePerUnit: "約6.7円/mL"
+    pricePerUnit: "約5.1円/mL"
     rating: 4.4
     reviewCount: 600
     features:
@@ -56,7 +56,7 @@ products:
     brand: "ユースキン製薬"
     price: 2790
     capacity: "70g"
-    pricePerUnit: "約8.6円/g"
+    pricePerUnit: "約40円/g"
     rating: 5
     reviewCount: 3
     features:
@@ -79,7 +79,7 @@ products:
     brand: "興和（ケラチナミン）"
     price: 56400
     capacity: "60g"
-    pricePerUnit: "約15円/g"
+    pricePerUnit: "約940円/g"
     rating: 4.5
     reviewCount: 400
     features:

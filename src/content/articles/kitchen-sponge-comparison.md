@@ -10,7 +10,7 @@ products:
     brand: "3M（スコッチ・ブライト）"
     price: 1404
     capacity: "10個（約10ヶ月分）"
-    pricePerUnit: "約78円/個"
+    pricePerUnit: "約140円/個"
     rating: 4.73
     reviewCount: 66
     features:
@@ -33,7 +33,7 @@ products:
     brand: "ダスキン"
     price: 1060
     capacity: "6個（約6ヶ月分）"
-    pricePerUnit: "約293円/個"
+    pricePerUnit: "約177円/個"
     rating: 4.78
     reviewCount: 9856
     features:
@@ -56,7 +56,7 @@ products:
     brand: "キクロン"
     price: 185
     capacity: "5個（約5ヶ月分）"
-    pricePerUnit: "約90円/個"
+    pricePerUnit: "約37円/個"
     rating: 4.2
     reviewCount: 50
     features:
@@ -79,7 +79,7 @@ products:
     brand: "太陽油脂（パックスナチュロン）"
     price: 199
     capacity: "8個（約8ヶ月分）"
-    pricePerUnit: "約156円/個"
+    pricePerUnit: "約25円/個"
     rating: 4.76
     reviewCount: 470
     features:

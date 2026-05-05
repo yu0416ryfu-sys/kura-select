@@ -10,7 +10,7 @@ products:
     brand: "クレハ（クレラップ）"
     price: 567
     capacity: "22cm×50m×4本（200m）"
-    pricePerUnit: "約4.9円/m"
+    pricePerUnit: "約2.8円/m"
     rating: 4.66
     reviewCount: 199
     features:
@@ -33,7 +33,7 @@ products:
     brand: "旭化成（サランラップ）"
     price: 14300
     capacity: "30cm×50m×3本（150m）"
-    pricePerUnit: "約7.2円/m"
+    pricePerUnit: "約95円/m"
     rating: 4.83
     reviewCount: 78
     features:
@@ -79,7 +79,7 @@ products:
     brand: "ポリラップ（ポリエチレン製）"
     price: 13080
     capacity: "22cm×100m×3本（300m）"
-    pricePerUnit: "約2.6円/m"
+    pricePerUnit: "約44円/m"
     rating: 4.0
     reviewCount: 980
     features:

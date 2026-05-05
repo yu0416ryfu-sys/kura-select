@@ -10,7 +10,7 @@ products:
     brand: "ユニ・チャーム（ソフィ）"
     price: 1408
     capacity: "52枚入"
-    pricePerUnit: "約12.5円/枚"
+    pricePerUnit: "約27円/枚"
     rating: 4.83
     reviewCount: 6
     features:
@@ -33,7 +33,7 @@ products:
     brand: "花王（ロリエ）"
     price: 529
     capacity: "30枚入"
-    pricePerUnit: "約20円/枚"
+    pricePerUnit: "約18円/枚"
     rating: 4.63
     reviewCount: 93
     features:
@@ -56,7 +56,7 @@ products:
     brand: "大王製紙（エリス）"
     price: 2183
     capacity: "52枚入"
-    pricePerUnit: "約12円/枚"
+    pricePerUnit: "約42円/枚"
     rating: 5
     reviewCount: 2
     features:
@@ -79,7 +79,7 @@ products:
     brand: "P&G（ウィスパー）"
     price: 6558
     capacity: "28枚入"
-    pricePerUnit: "約20円/枚"
+    pricePerUnit: "約234円/枚"
     rating: 4.53
     reviewCount: 194
     features:

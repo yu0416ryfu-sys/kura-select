@@ -77,9 +77,9 @@ products:
   - rank: 4
     name: "キレイキレイ 除菌ウェットシート ノンアルコール 30枚 携帯用"
     brand: "ライオン（キレイキレイ）"
-    price: 250
+    price: 217
     capacity: "30枚（携帯用）"
-    pricePerUnit: "約8.3円/枚"
+    pricePerUnit: "約7.2円/枚"
     rating: 4.67
     reviewCount: 9
     features:

@@ -10,7 +10,7 @@ products:
     brand: "アイリスオーヤマ×日本製紙クレシア"
     price: 3680
     capacity: "100m×12ロール（2倍巻き）"
-    pricePerUnit: "約0.82円/m"
+    pricePerUnit: "約3.1円/m"
     features:
       - "アイリスオーヤマ×日本製紙クレシアの共同開発"
       - "2倍巻きで長持ち・省スペース"
@@ -31,7 +31,7 @@ products:
     brand: "大王製紙（エリエール）"
     price: 6383
     capacity: "25m×12ロール（ダブル）"
-    pricePerUnit: "約2.93円/m"
+    pricePerUnit: "約21円/m"
     features:
       - "パルプ100%の柔らかなダブルタイプ"
       - "エリエールブランドの高品質紙質"
@@ -52,7 +52,7 @@ products:
     brand: "日本製紙クレシア（スコッティ）"
     price: 4799
     capacity: "100m×48ロール（2倍巻き）"
-    pricePerUnit: "約0.52円/m"
+    pricePerUnit: "約1.00円/m"
     features:
       - "2倍巻き長尺シングル・花の香り付き"
       - "48ロールの大容量まとめ買いパック"

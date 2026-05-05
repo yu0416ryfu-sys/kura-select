@@ -8,7 +8,7 @@ products:
   - rank: 1
     name: "バブ 厳選4種類の香りセレクトBOX 56錠"
     brand: "花王（バブ）"
-    price: 3822
+    price: 4340
     capacity: "56錠（56回分）"
     pricePerUnit: "約68円/回"
     rating: 4.6
@@ -33,7 +33,7 @@ products:
     brand: "バスクリン"
     price: 2465
     capacity: "600g×3個（約60回分）"
-    pricePerUnit: "約30円/回"
+    pricePerUnit: "約1.4円/g"
     rating: 4.75
     reviewCount: 210
     features:
@@ -56,7 +56,7 @@ products:
     brand: "バスクリン（きき湯）"
     price: 1980
     capacity: "360g（約12回分）"
-    pricePerUnit: "約65円/回"
+    pricePerUnit: "約5.5円/g"
     rating: 4.87
     reviewCount: 53
     features:
@@ -79,7 +79,7 @@ products:
     brand: "シークリスタルス"
     price: 1720
     capacity: "3kg（約20回分）"
-    pricePerUnit: "約74円/回"
+    pricePerUnit: "約573円/kg"
     rating: 4.54
     reviewCount: 347
     features:

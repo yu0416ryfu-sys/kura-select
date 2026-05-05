@@ -10,7 +10,7 @@ products:
     brand: "花王（ビオレ）"
     price: 6263
     capacity: "300mL"
-    pricePerUnit: "約1.9円/mL"
+    pricePerUnit: "約21円/mL"
     rating: 4.4
     reviewCount: 800
     features:
@@ -33,7 +33,7 @@ products:
     brand: "コーセー（ソフティモ）"
     price: 2270
     capacity: "230mL"
-    pricePerUnit: "約3円/mL"
+    pricePerUnit: "約9.9円/mL"
     rating: 4.3
     reviewCount: 600
     features:
@@ -56,7 +56,7 @@ products:
     brand: "DHC"
     price: 2717
     capacity: "200mL"
-    pricePerUnit: "約7.5円/mL"
+    pricePerUnit: "約14円/mL"
     rating: 4.71
     reviewCount: 632
     features:
@@ -79,7 +79,7 @@ products:
     brand: "花王（キュレル）"
     price: 1280
     capacity: "150mL"
-    pricePerUnit: "約5.9円/mL"
+    pricePerUnit: "約8.5円/mL"
     rating: 4.5
     reviewCount: 700
     features:

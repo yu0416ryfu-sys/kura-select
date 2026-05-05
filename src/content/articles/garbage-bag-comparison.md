@@ -10,7 +10,7 @@ products:
     brand: "TANOSEE（国内大手OEM）"
     price: 5742
     capacity: "45L×100枚×5パック（500枚）"
-    pricePerUnit: "約4.0円/枚"
+    pricePerUnit: "約11円/枚"
     rating: 4.68
     reviewCount: 31
     features:
@@ -33,7 +33,7 @@ products:
     brand: "Nissho（日翔）"
     price: 4070
     capacity: "45L×50枚×3パック（150枚）"
-    pricePerUnit: "約6.5円/枚"
+    pricePerUnit: "約27円/枚"
     rating: 4.52
     reviewCount: 2077
     features:

@@ -10,7 +10,7 @@ products:
     brand: "花王（ワイドハイター）"
     price: 2360
     capacity: "880mL×2個（約120回分）"
-    pricePerUnit: "約8.2円/回"
+    pricePerUnit: "約1.3円/mL"
     rating: 4.76
     reviewCount: 367
     features:
@@ -33,7 +33,7 @@ products:
     brand: "グラフィコ（オキシクリーン）"
     price: 3425
     capacity: "1500g（約75回分）"
-    pricePerUnit: "約14.4円/回"
+    pricePerUnit: "約2.3円/g"
     rating: 4.64
     reviewCount: 1413
     features:
@@ -56,7 +56,7 @@ products:
     brand: "ライオン（ブライト）"
     price: 3680
     capacity: "900mL（約60回分）"
-    pricePerUnit: "約8.0円/回"
+    pricePerUnit: "約4.1円/mL"
     rating: 5
     reviewCount: 9
     features:
@@ -79,7 +79,7 @@ products:
     brand: "シャボン玉石けん"
     price: 1698
     capacity: "750g（約37回分）"
-    pricePerUnit: "約14.9円/回"
+    pricePerUnit: "約2.3円/g"
     rating: 4.66
     reviewCount: 845
     features:

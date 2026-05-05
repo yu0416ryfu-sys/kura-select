@@ -10,7 +10,7 @@ products:
     brand: "ファイントゥデイ（フィーノ）"
     price: 2041
     capacity: "230g"
-    pricePerUnit: "約3.9円/g"
+    pricePerUnit: "約8.9円/g"
     rating: 5
     reviewCount: 10
     features:
@@ -33,7 +33,7 @@ products:
     brand: "ユニリーバ（LUX）"
     price: 1054
     capacity: "200g"
-    pricePerUnit: "約3円/g"
+    pricePerUnit: "約5.3円/g"
     rating: 5
     reviewCount: 1
     features:
@@ -56,7 +56,7 @@ products:
     brand: "クラシエ（いち髪）"
     price: 990
     capacity: "200g"
-    pricePerUnit: "約4.5円/g"
+    pricePerUnit: "約5.0円/g"
     rating: 4.89
     reviewCount: 27
     features:
@@ -79,7 +79,7 @@ products:
     brand: "P&G（パンテーン）"
     price: 790
     capacity: "100mL"
-    pricePerUnit: "約7.5円/mL"
+    pricePerUnit: "約7.9円/mL"
     rating: 5
     reviewCount: 1
     features:

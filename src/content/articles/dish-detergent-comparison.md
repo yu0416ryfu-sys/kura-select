@@ -10,7 +10,7 @@ products:
     brand: "花王（キュキュット）"
     price: 5035
     capacity: "820mL×2袋（約410回分）"
-    pricePerUnit: "約1.9円/回"
+    pricePerUnit: "約3.1円/mL"
     rating: 4.74
     reviewCount: 497
     features:
@@ -33,7 +33,7 @@ products:
     brand: "P&G（ジョイ）"
     price: 2710
     capacity: "770mL×2袋（約385回分）"
-    pricePerUnit: "約2.1円/回"
+    pricePerUnit: "約1.8円/mL"
     rating: 4.79
     reviewCount: 42
     features:
@@ -56,7 +56,7 @@ products:
     brand: "ライオン（チャーミー）"
     price: 6165
     capacity: "1380mL（約276回分）"
-    pricePerUnit: "約2.4円/回"
+    pricePerUnit: "約4.5円/mL"
     rating: 4.77
     reviewCount: 13
     features:
@@ -79,7 +79,7 @@ products:
     brand: "サラヤ（ヤシノミ洗剤）"
     price: 2769
     capacity: "540mL（約180回分）"
-    pricePerUnit: "約2.7円/回"
+    pricePerUnit: "約5.1円/mL"
     rating: 4.5
     reviewCount: 2
     features:
