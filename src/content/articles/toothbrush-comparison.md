@@ -32,13 +32,8 @@ products:
     name: "システマハブラシ 超コンパクト ふつう 1本"
     brand: "ライオン（システマ）"
     price: 262
-<<<<<<< HEAD
     capacity: "1本（約1ヶ月分）"
     pricePerUnit: "約262円/本"
-=======
-    capacity: "6本（約6ヶ月分）"
-    pricePerUnit: "約44円/本"
->>>>>>> f35ee17533061c00bc8e5d103c0a95f0ba17a70b
     rating: 5
     reviewCount: 2
     features:
@@ -60,13 +55,8 @@ products:
     name: "クリニカ アドバンテージ ハブラシ 4列 超コンパクト ふつう 12本セット"
     brand: "ライオン（クリニカ）"
     price: 3379
-<<<<<<< HEAD
     capacity: "12本（約12ヶ月分）"
     pricePerUnit: "約282円/本"
-=======
-    capacity: "3本（約3ヶ月分）"
-    pricePerUnit: "約1126円/本"
->>>>>>> f35ee17533061c00bc8e5d103c0a95f0ba17a70b
     rating: 4.49
     reviewCount: 74
     features:
@@ -88,13 +78,8 @@ products:
     name: "GUM デンタルブラシ #211 3列コンパクト ふつう 1本"
     brand: "サンスター（GUM）"
     price: 268
-<<<<<<< HEAD
     capacity: "1本（約1ヶ月分）"
     pricePerUnit: "約268円/本"
-=======
-    capacity: "4本（約4ヶ月分）"
-    pricePerUnit: "約67円/本"
->>>>>>> f35ee17533061c00bc8e5d103c0a95f0ba17a70b
     rating: 4.67
     reviewCount: 6
     features:
