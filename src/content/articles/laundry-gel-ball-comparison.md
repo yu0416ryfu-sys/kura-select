@@ -10,6 +10,9 @@ products:
     brand: "アリエール（P&G）"
     price: 8700
     capacity: "332個（332回分）"
+    pricePerUnit: "0円"
+    rating: 0
+    reviewCount: 0
     features:
       - "4Dの高密度洗浄技術で頑固な汚れに強い"
       - "微香タイプで香りが控えめ"
@@ -30,6 +33,9 @@ products:
     brand: "花王（アタック）"
     price: 2280
     capacity: "7個（7回分）"
+    pricePerUnit: "0円"
+    rating: 0
+    reviewCount: 0
     features:
       - "高浸透洗浄技術で繊維の奥まで洗浄"
       - "すすぎ1回対応で節水・時短"
@@ -50,6 +56,9 @@ products:
     brand: "P&G（ボールド）"
     price: 4480
     capacity: "55〜64個×2袋程度（商品により変動）"
+    pricePerUnit: "0円"
+    rating: 0
+    reviewCount: 0
     features:
       - "洗浄・柔軟剤・消臭・シワ防止の4in1"
       - "豊かな香りが長続き"
@@ -71,6 +80,9 @@ products:
     brand: "P&G（さらさ）"
     price: 1100
     capacity: "40個前後（商品により変動）"
+    pricePerUnit: "0円"
+    rating: 0
+    reviewCount: 0
     features:
       - "植物由来成分・無添加処方"
       - "蛍光剤・漂白剤・着色料不使用"

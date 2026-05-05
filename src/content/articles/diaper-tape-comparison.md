@@ -10,6 +10,9 @@ products:
     brand: "花王（メリーズ）"
     price: 2200
     capacity: "84枚×4袋（336枚）"
+    pricePerUnit: "0円"
+    rating: 0
+    reviewCount: 0
     features:
       - "花王独自のエアスルー素材で通気性抜群"
       - "肌へのやさしさで人気トップクラス"
@@ -30,6 +33,9 @@ products:
     brand: "ユニ・チャーム（ムーニー）"
     price: 2200
     capacity: "84枚×4袋（336枚）"
+    pricePerUnit: "0円"
+    rating: 0
+    reviewCount: 0
     features:
       - "羽つきテープでずれにくいフィット感"
       - "ユニ・チャームの定番おむつブランド"
@@ -50,6 +56,9 @@ products:
     brand: "P&G（パンパース）"
     price: 8680
     capacity: "74枚×4袋（296枚）"
+    pricePerUnit: "0円"
+    rating: 0
+    reviewCount: 0
     features:
       - "世界No.1シェアの信頼ブランド"
       - "肌のpHバランスを考慮した処方"
@@ -70,6 +79,9 @@ products:
     brand: "ユニ・チャーム（グーン）"
     price: 2200
     capacity: "80枚×4袋（320枚）"
+    pricePerUnit: "0円"
+    rating: 0
+    reviewCount: 0
     features:
       - "価格を抑えたコスパ重視のシリーズ"
       - "ゆるうんちポケットで漏れを防ぐ"
