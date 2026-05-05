@@ -81,7 +81,7 @@ products:
     capacity: "135g×3本"
     pricePerUnit: "約3.7円/g"
     rating: 4.68
-    reviewCount: 1621
+    reviewCount: 1622
     features:
       - "ナノ粒子ハイドロキシアパタイトでエナメル質を補修"
       - "研磨剤不使用でやさしいホワイトニング"

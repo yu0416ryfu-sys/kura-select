@@ -31,11 +31,11 @@ products:
   - rank: 2
     name: "システマハブラシ 超コンパクト ふつう 1本"
     brand: "ライオン（システマ）"
-    price: 262
+    price: 3196
     capacity: "1本（約1ヶ月分）"
-    pricePerUnit: "約262円/本"
-    rating: 5
-    reviewCount: 2
+    pricePerUnit: "約3196円/本"
+    rating: 4.63
+    reviewCount: 16
     features:
       - "超極細毛が歯周ポケットの奥まで届く"
       - "薄型ヘッドで奥歯の裏側も磨きやすい"
@@ -48,8 +48,8 @@ products:
       - "毛が柔らかく力を入れないとプラーク除去力が弱め"
       - "極細毛のため開きやすい"
     recommendedFor: "歯周病が気になる方・歯ぐきが弱い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pukwn.3rdw61de.g00pukwn.3rdw7759/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4903301328476-73-30001029-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F11962061%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0411/4903301328476.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10901946%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/032/65032.jpg?_ex=128x128"
 
   - rank: 3
     name: "クリニカ アドバンテージ ハブラシ 4列 超コンパクト ふつう 12本セット"

@@ -77,10 +77,10 @@ products:
   - rank: 4
     name: "チャーミークリスタ 消臭ジェル 詰め替え 大容量 840g"
     brand: "ライオン（チャーミークリスタ）"
-    price: 8600
+    price: 798
     capacity: "840g（約140回分）"
-    pricePerUnit: "約10円/g"
-    rating: 5
+    pricePerUnit: "約0.95円/g"
+    rating: 4.8
     reviewCount: 5
     features:
       - "消臭成分配合で生乾き臭を防ぐ"
@@ -94,8 +94,8 @@ products:
       - "計量キャップの使い勝手がやや悪い"
       - "頑固な焦げ付きにはやや弱い"
     recommendedFor: "庫内のニオイが気になる方・ジェルタイプが好きな方・低温コースを使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fdish-soap144%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10002035%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item10/dish-soap144-a1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4903301214441%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F10770600%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/1439/00000003027675_a01.jpg?_ex=128x128"
 
 tags:
   - 食洗機用洗剤

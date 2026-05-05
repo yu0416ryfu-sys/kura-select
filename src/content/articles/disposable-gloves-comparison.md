@@ -35,7 +35,7 @@ products:
     capacity: "100枚×3箱（300枚）"
     pricePerUnit: "約4.6円/枚"
     rating: 4.71
-    reviewCount: 1217
+    reviewCount: 1218
     features:
       - "ニトリル素材で油・薬品にも強い高い耐久性"
       - "手にフィットして細かい作業もしやすい"
@@ -58,7 +58,7 @@ products:
     capacity: "100枚×3箱（300枚）"
     pricePerUnit: "約4.6円/枚"
     rating: 4.71
-    reviewCount: 1217
+    reviewCount: 1218
     features:
       - "PVC（ポリ塩化ビニル）素材でほどよいフィット感"
       - "粉なしで手荒れしにくい"
