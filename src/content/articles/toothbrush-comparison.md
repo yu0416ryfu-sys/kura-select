@@ -29,11 +29,11 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg/yyyy27_sam01.jpg?_ex=128x128"
 
   - rank: 2
-    name: "システマハブラシ 超コンパクト ふつう 1本"
+    name: "システマハブラシ 超コンパクト ふつう 12本"
     brand: "ライオン（システマ）"
     price: 3196
-    capacity: "1本（約1ヶ月分）"
-    pricePerUnit: "約3196円/本"
+    capacity: "12本（約1年分）"
+    pricePerUnit: "約266円/本"
     rating: 4.63
     reviewCount: 16
     features:
