@@ -6,19 +6,18 @@ publishedAt: 2026-05-04
 updatedAt: 2026-05-04
 products:
   - rank: 1
-    name: "ニベア ハンドクリーム 100g"
+    name: "ニベア ハンドクリーム 75g"
     brand: "花王（ニベア）"
     price: 698
-    capacity: "100g"
-    pricePerUnit: "約7.0円/g"
+    capacity: "75g"
+    pricePerUnit: "約9.3円/g"
     rating: 4.63
     reviewCount: 16
     features:
-      - "100gの大容量でまとめ買い向けコスパ設計"
+      - "75gの大容量でまとめ買い向けコスパ設計"
       - "グリセリン配合で手肌をしっとり保湿"
       - "ニベアブルーの定番ハンドクリーム"
     pros:
-      - "1g約3.5円と4製品中最もコスパが良い"
       - "ベタつきが少なく日中でも使いやすい"
       - "世界中で愛される定番ブランドの安心感"
     cons:
@@ -29,11 +28,11 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pupuhima/cabinet/goq003/24657_1.jpg?_ex=128x128"
 
   - rank: 2
-    name: "ヴァセリン インテンシブケア ハンドクリーム 75mL"
+    name: "ヴァセリン インテンシブケア ハンドクリーム 60mL"
     brand: "ユニリーバ（ヴァセリン）"
     price: 380
-    capacity: "75mL"
-    pricePerUnit: "約5.1円/mL"
+    capacity: "60mL"
+    pricePerUnit: "約6.3円/mL"
     rating: 4.4
     reviewCount: 600
     features:
@@ -52,11 +51,11 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/narushop/cabinet/unilever/vl-7.jpg?_ex=128x128"
 
   - rank: 3
-    name: "ユースキンA 70g"
+    name: "ユースキンA 180g"
     brand: "ユースキン製薬"
     price: 2790
-    capacity: "70g"
-    pricePerUnit: "約40円/g"
+    capacity: "180g"
+    pricePerUnit: "約15.5円/g"
     rating: 5
     reviewCount: 3
     features:
@@ -75,11 +74,11 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fumichan/cabinet/07809991/4987353190618-2.jpg?_ex=128x128"
 
   - rank: 4
-    name: "ケラチナミン コーワ 尿素配合クリーム 60g"
+    name: "ケラチナミン コーワ 尿素配合クリーム 30g 120個セット"
     brand: "興和（ケラチナミン）"
     price: 56400
-    capacity: "60g"
-    pricePerUnit: "約940円/g"
+    capacity: "30g"
+    pricePerUnit: "約15.6円/g"
     rating: 4.5
     reviewCount: 400
     features:
