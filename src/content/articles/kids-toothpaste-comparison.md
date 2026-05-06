@@ -1,39 +1,16 @@
 ---
 title: "子ども用歯磨き粉 おすすめランキング【2026年版】フッ素濃度・年齢別に比較"
 description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比較。クリニカKid's・チェックアップ・ライオンこどもハミガキなど人気4選を安全性・効果で解説。"
-category: toothpaste
-publishedAt: 2026-04-30
-updatedAt: 2026-04-30
+category: "toothpaste"
+publishedAt: "2026-04-30"
+updatedAt: 2026-05-06
 products:
   - rank: 1
-    name: "ライオン チェックアップ kodomo 60g×3本セット"
-    brand: "ライオン歯科材（チェックアップ）"
-    price: 2420
-    capacity: "60g×3本（約6ヶ月分）"
-    pricePerUnit: "約13円/g"
-    rating: 4.91
-    reviewCount: 224
-    features:
-      - "フッ素950ppm配合で乳歯のむし歯予防に最適"
-      - "低研磨・低発泡・低香味で子どもに使いやすい"
-      - "歯科医院で最も推奨されるブランド"
-    pros:
-      - "歯科医推奨No.1の信頼性"
-      - "低発泡で口の中が泡だらけにならない"
-      - "3本セットでコスパが良い"
-    cons:
-      - "市販では取扱店が限られる"
-      - "味のバリエーションが少ない"
-    recommendedFor: "歯科医推奨の歯磨き粉を使いたい方・2歳以上のお子さま・むし歯予防重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugykn.3rdw6a2f.g00ugykn.3rdw7299/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhano-senmonten%2F4903301166054-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhano-senmonten%2Fi%2F10000039%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hano-senmonten/cabinet/senyuritu/4903301166054-10.jpg?_ex=128x128"
-
-  - rank: 2
-    name: "クリニカKid's ジェルハミガキ いちご 60g×3本"
+    name: "【10個で送料無料】ライオン クリニカキッズ　クリニカKid"
     brand: "ライオン（クリニカKid's）"
     price: 3494
-    capacity: "60g×3本（約6ヶ月分）"
-    pricePerUnit: "約19円/g"
+    capacity: "60g×10"
+    pricePerUnit: "約5.8円/g"
     rating: 5
     reviewCount: 3
     features:
@@ -50,13 +27,12 @@ products:
     recommendedFor: "歯磨き嫌いのお子さま・仕上げ磨きに使いたい方・ジェルタイプが好きな方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F0000049795240-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10184891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/aa/49795240.jpg?_ex=128x128"
-
-  - rank: 3
-    name: "ピジョン 親子で乳歯ケア ジェル状歯みがき ぷちキッズ 50g×2本"
+  - rank: 2
+    name: "ピジョン ジェル状歯みがき ぷちキッズ ぶどう味【親子で乳歯ケア】"
     brand: "ピジョン"
     price: 660
-    capacity: "50g×2本（約4ヶ月分）"
-    pricePerUnit: "約6.6円/g"
+    capacity: "（50g）"
+    pricePerUnit: "約13円/g"
     rating: 4.78
     reviewCount: 27
     features:
@@ -73,37 +49,35 @@ products:
     recommendedFor: "1歳半〜3歳のお子さま・初めての歯磨き粉に・安全性最重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Ff001269197142%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10024084%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/463/4902508104463.jpg?_ex=128x128"
-
-  - rank: 4
-    name: "ライオン こどもハミガキ ガリガリ君 ソーダ香味 40g×3本"
-    brand: "ライオン"
-    price: 598
-    capacity: "40g×3本（約4ヶ月分）"
-    pricePerUnit: "約4.98円/g"
-    rating: 4.35
-    reviewCount: 178
+  - rank: 3
+    name: "ライオン チェックアップ kodomo 歯磨きペースト"
+    brand: "ライオン歯科材（チェックアップ）"
+    price: 2420
+    capacity: "60g"
+    pricePerUnit: "約40円/g"
+    rating: 4.91
+    reviewCount: 224
     features:
-      - "人気キャラクターで歯磨き習慣を楽しくサポート"
-      - "フッ素950ppmでしっかりむし歯予防"
-      - "子どもに人気のソーダ味"
+      - "フッ素950ppm配合で乳歯のむし歯予防に最適"
+      - "低研磨・低発泡・低香味で子どもに使いやすい"
+      - "歯科医院で最も推奨されるブランド"
     pros:
-      - "キャラクターデザインで歯磨きが楽しくなる"
-      - "フッ素950ppmの本格むし歯予防"
-      - "3本セットで最もコスパが良い"
+      - "歯科医推奨No.1の信頼性"
+      - "低発泡で口の中が泡だらけにならない"
+      - "3本セットでコスパが良い"
     cons:
-      - "発泡剤入りで泡立ちが多い"
-      - "低年齢の子どもには味がやや強い"
-    recommendedFor: "歯磨き嫌いを克服したいお子さま・キャラクター好きな子・4歳以上のお子さま"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25AA%25E3%2583%25B3+%25E3%2581%2593%25E3%2581%25A9%25E3%2582%2582%25E3%2583%258F%25E3%2583%259F%25E3%2582%25AC%25E3%2582%25AD+%25E3%2582%25AC%25E3%2583%25AA%25E3%2582%25AC%25E3%2583%25AA%25E5%2590%259B%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25AA%25E3%2583%25B3+%25E3%2581%2593%25E3%2581%25A9%25E3%2582%2582%25E3%2583%258F%25E3%2583%259F%25E3%2582%25AC%25E3%2582%25AD+%25E3%2582%25AC%25E3%2583%25AA%25E3%2582%25AC%25E3%2583%25AA%25E5%2590%259B%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/goods/4903301198600.jpg?_ex=128x128"
-
+      - "市販では取扱店が限られる"
+      - "味のバリエーションが少ない"
+    recommendedFor: "歯科医推奨の歯磨き粉を使いたい方・2歳以上のお子さま・むし歯予防重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugykn.3rdw6a2f.g00ugykn.3rdw7299/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhano-senmonten%2F4903301166054-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhano-senmonten%2Fi%2F10000039%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hano-senmonten/cabinet/senyuritu/4903301166054-10.jpg?_ex=128x128"
 tags:
-  - 歯磨き粉
-  - 子ども
-  - フッ素
-  - むし歯予防
-  - コスパ
-  - 日用品
+  - "歯磨き粉"
+  - "子ども"
+  - "フッ素"
+  - "むし歯予防"
+  - "コスパ"
+  - "日用品"
 draft: false
 ---
 

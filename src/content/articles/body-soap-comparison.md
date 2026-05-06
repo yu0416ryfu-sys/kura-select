@@ -1,9 +1,9 @@
 ---
 title: "ボディソープ コスパ最強ランキング【2026年版】保湿・敏感肌で比較"
 description: "ボディソープを1mLあたりのコストで徹底比較。ビオレu・ダヴ・ハダカラ・ミノンなど人気4選を保湿力・洗浄力・コスパで解説します。"
-category: body-soap
-publishedAt: 2026-04-30
-updatedAt: 2026-04-30
+category: "body-soap"
+publishedAt: "2026-04-30"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "ビオレu ザ ボディ 泡タイプ 詰め替え 800mL×2袋"
@@ -27,7 +27,6 @@ products:
     recommendedFor: "家族で使いたい方・敏感肌の方・泡タイプが好きな方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11166894%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/032/405032.jpg?_ex=128x128"
-
   - rank: 2
     name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
     brand: "ライオン（hadakara）"
@@ -50,7 +49,6 @@ products:
     recommendedFor: "保湿重視の方・乾燥肌の方・コスパと保湿を両立したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs40n.3rdw6e75.g00qs40n.3rdw7092/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fladies-online-shop%2F10021895%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fladies-online-shop%2Fi%2F10021895%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ladies-online-shop/cabinet/okashi/mo58077154.jpg?_ex=128x128"
-
   - rank: 3
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 720g"
     brand: "ユニリーバ（ダヴ）"
@@ -73,7 +71,6 @@ products:
     recommendedFor: "しっとりした洗い上がりが好きな方・乾燥肌で保湿重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4902111764443%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10032736%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/09857135/4902111776576r.jpg?_ex=128x128"
-
   - rank: 4
     name: "ミノン 全身シャンプー 泡タイプ 詰め替え 400mL"
     brand: "第一三共ヘルスケア（ミノン）"
@@ -96,13 +93,12 @@ products:
     recommendedFor: "敏感肌・アトピー肌の方・赤ちゃんがいる家庭・低刺激にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F68857%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10910706%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/857/68857.jpg?_ex=128x128"
-
 tags:
-  - ボディソープ
-  - コスパ
-  - 節約
-  - 日用品
-  - 保湿
+  - "ボディソープ"
+  - "コスパ"
+  - "節約"
+  - "日用品"
+  - "保湿"
 draft: false
 ---
 

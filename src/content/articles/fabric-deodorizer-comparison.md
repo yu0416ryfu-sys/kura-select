@@ -1,9 +1,9 @@
 ---
 title: "衣類・布用消臭スプレー コスパ最強ランキング【2026年版】除菌力・消臭力で比較"
 description: "衣類・布用消臭スプレーを1プッシュあたりのコストで徹底比較。ファブリーズ・リセッシュ・A2Care・ハイジアなど人気4選を消臭力で解説します。"
-category: sanitizing-spray
-publishedAt: 2026-05-01
-updatedAt: 2026-05-01
+category: "sanitizing-spray"
+publishedAt: "2026-05-01"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "リセッシュ除菌EX デオドラントパワー 詰め替え 大容量 680mL×3個"
@@ -27,7 +27,6 @@ products:
     recommendedFor: "コスパ重視の方・大量に使う方・加齢臭対策に・部屋干し臭対策に"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4901301348333%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F12290365%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/3683/00000005696710_a01.jpg?_ex=128x128"
-
   - rank: 2
     name: "ファブリーズ W除菌 詰め替え 大容量 640mL×3個"
     brand: "P&G（ファブリーズ）"
@@ -50,7 +49,6 @@ products:
     recommendedFor: "ブランド重視の方・臭いを根本から消したい方・無香料派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598756%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321889%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/756/598756.jpg?_ex=128x128"
-
   - rank: 3
     name: "ハイジア 除菌・消臭スプレー 詰め替え 大容量 800mL"
     brand: "ライオン（ハイジア）"
@@ -73,7 +71,6 @@ products:
     recommendedFor: "部屋干しが多い方・枕やシーツの臭い対策に・コスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3bvn.3rdw6436.g00u3bvn.3rdw79c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffidela%2Ffid6-00f050vya%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffidela%2Fi%2F10445637%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fidela/cabinet/fid6pic/systempic021/fid6-00f050vya1.jpg?_ex=128x128"
-
   - rank: 4
     name: "A2Care 除菌消臭スプレー 300mL"
     brand: "A2Care"
@@ -96,14 +93,13 @@ products:
     recommendedFor: "品質最優先の方・無臭にこだわる方・赤ちゃん・ペットのいる家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00thfbn.3rdw6868.g00thfbn.3rdw7b07/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa2care-official%2F10000003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa2care-official%2Fi%2F10000003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a2care-official/cabinet/ef/kago/10000003_kago.jpg?_ex=128x128"
-
 tags:
-  - 消臭スプレー
-  - ファブリーズ
-  - リセッシュ
-  - コスパ
-  - 節約
-  - 日用品
+  - "消臭スプレー"
+  - "ファブリーズ"
+  - "リセッシュ"
+  - "コスパ"
+  - "節約"
+  - "日用品"
 draft: false
 ---
 

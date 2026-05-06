@@ -1,39 +1,38 @@
 ---
 title: "クレンジング コスパ最強ランキング【2026年版】1mLあたり最安で比較"
 description: "クレンジングを1mLあたりのコストで徹底比較。DHC・ビオレ・ソフティモ・キュレルなど人気4選をメイク落ち・肌へのやさしさ・コスパで解説します。"
-category: cleansing
-publishedAt: 2026-05-03
-updatedAt: 2026-05-03
+category: "cleansing"
+publishedAt: "2026-05-03"
+updatedAt: 2026-05-06
 products:
   - rank: 1
-    name: "ビオレ 素肌つるるんクレンジングウォーター 300mL"
-    brand: "花王（ビオレ）"
-    price: 6263
-    capacity: "300mL"
-    pricePerUnit: "約21円/mL"
-    rating: 4.4
-    reviewCount: 800
+    name: "キュレル 潤浸保湿 クレンジングフォーム 150mL"
+    brand: "花王（キュレル）"
+    price: 1280
+    capacity: "150mL"
+    pricePerUnit: "約8.5円/mL"
+    rating: 4.5
+    reviewCount: 700
     features:
-      - "水のようなテクスチャーでコットンに含ませて拭き取るだけ"
-      - "300mLの大容量でコスパ抜群"
-      - "洗い流し不要で素早くメイクオフ"
+      - "セラミドケア処方で洗いながら潤いを守る"
+      - "敏感肌・乾燥肌向けに設計された低刺激フォーム"
+      - "泡立てて使うクレンジングフォームタイプ"
     pros:
-      - "1mL約1.9円と最もコスパが良い"
-      - "洗い流し不要で時短になる"
-      - "花王ブランドの安心感と品質"
+      - "皮膚科医・アレルギー専門医の協力のもと開発された低刺激処方"
+      - "洗い流し後も肌がしっとりしてつっぱらない"
+      - "敏感肌でも使いやすい処方で肌荒れしにくい"
     cons:
-      - "濃いメイクはコットンで数回拭き取る必要がある"
-      - "摩擦が気になる方にはジェルやオイルタイプが向いている"
-    recommendedFor: "ライトメイクの方・時短スキンケアをしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ujrwn.3rdw65e1.g00ujrwn.3rdw73b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorro%2F20250623203939_94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorro%2Fi%2F10047472%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/morro/cabinet/r_2025062255/20250623203939_94_1.jpg?_ex=128x128"
-
+      - "150mLで容量が少なめのため頻繁に購入が必要"
+      - "濃いメイクはしっかり落ちにくい場合がある"
+    recommendedFor: "敏感肌・乾燥肌の方・肌荒れが気になる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sc3vn.3rdw62af.g00sc3vn.3rdw76d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuidrug%2F4901301447586%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuidrug%2Fi%2F10054545%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuidrug/cabinet/item241029/4901301447586.jpg?_ex=128x128"
   - rank: 2
     name: "ソフティモ スピーディオイルクレンジング 230mL"
     brand: "コーセー（ソフティモ）"
-    price: 2270
+    price: 2462
     capacity: "230mL"
-    pricePerUnit: "約9.9円/mL"
+    pricePerUnit: "約11円/mL"
     rating: 4.3
     reviewCount: 600
     features:
@@ -48,9 +47,8 @@ products:
       - "オイルタイプなので洗い流しが必要"
       - "ニキビ肌の方は刺激を感じる場合がある"
     recommendedFor: "フルメイク派の方・ウォータープルーフアイテムをよく使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw2pn.3rdw6069.g00tw2pn.3rdw7b19/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyland%2F1736928005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyland%2Fi%2F10000272%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyland/cabinet/compass1736927868.jpg?_ex=128x128"
-
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4o6n.3rdw655e.g00s4o6n.3rdw773a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2Fha-4971710576214_2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F10923105%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ulmaxjapan2/cabinet/zg168/4971710576214.jpg?_ex=128x128"
   - rank: 3
     name: "DHC ディープクレンジングオイル 200mL"
     brand: "DHC"
@@ -73,30 +71,28 @@ products:
     recommendedFor: "クレンジング品質を重視する方・乾燥が気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qy5un.3rdw6b7b.g00qy5un.3rdw754e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdhcshop%2F8000000300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdhcshop%2Fi%2F10000077%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dhcshop/cabinet/8000000300.jpg?_ex=128x128"
-
   - rank: 4
-    name: "キュレル 潤浸保湿 クレンジングフォーム 150mL"
-    brand: "花王（キュレル）"
-    price: 1280
-    capacity: "150mL"
-    pricePerUnit: "約8.5円/mL"
-    rating: 4.5
-    reviewCount: 700
+    name: "ビオレ 素肌つるるんクレンジングウォーター 300mL"
+    brand: "花王（ビオレ）"
+    price: 6263
+    capacity: "300mL"
+    pricePerUnit: "約21円/mL"
+    rating: 4.4
+    reviewCount: 800
     features:
-      - "セラミドケア処方で洗いながら潤いを守る"
-      - "敏感肌・乾燥肌向けに設計された低刺激フォーム"
-      - "泡立てて使うクレンジングフォームタイプ"
+      - "水のようなテクスチャーでコットンに含ませて拭き取るだけ"
+      - "300mLの大容量でコスパ抜群"
+      - "洗い流し不要で素早くメイクオフ"
     pros:
-      - "皮膚科医・アレルギー専門医の協力のもと開発された低刺激処方"
-      - "洗い流し後も肌がしっとりしてつっぱらない"
-      - "敏感肌でも使いやすい処方で肌荒れしにくい"
+      - "1mL約1.9円と最もコスパが良い"
+      - "洗い流し不要で時短になる"
+      - "花王ブランドの安心感と品質"
     cons:
-      - "150mLで容量が少なめのため頻繁に購入が必要"
-      - "濃いメイクはしっかり落ちにくい場合がある"
-    recommendedFor: "敏感肌・乾燥肌の方・肌荒れが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sc3vn.3rdw62af.g00sc3vn.3rdw76d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuidrug%2F4901301447586%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuidrug%2Fi%2F10054545%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuidrug/cabinet/item241029/4901301447586.jpg?_ex=128x128"
-
+      - "濃いメイクはコットンで数回拭き取る必要がある"
+      - "摩擦が気になる方にはジェルやオイルタイプが向いている"
+    recommendedFor: "ライトメイクの方・時短スキンケアをしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ujrwn.3rdw65e1.g00ujrwn.3rdw73b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorro%2F20250623203939_94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorro%2Fi%2F10047472%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/morro/cabinet/r_2025062255/20250623203939_94_1.jpg?_ex=128x128"
 tags:
   - "クレンジング おすすめ"
   - "クレンジング コスパ"

@@ -1,34 +1,11 @@
 ---
 title: "ナプキン コスパ最強ランキング【2026年版】1枚あたり最安で比較"
 description: "生理用ナプキンを1枚あたりのコストで徹底比較。ソフィ・ロリエ・エリス・ウィスパーなど人気4選を吸収力・肌へのやさしさ・コスパで解説します。"
-category: sanitary-napkin
-publishedAt: 2026-05-04
-updatedAt: 2026-05-04
+category: "sanitary-napkin"
+publishedAt: "2026-05-04"
+updatedAt: 2026-05-06
 products:
   - rank: 1
-    name: "ソフィ はだおもい 普通の日用 羽なし 52枚入"
-    brand: "ユニ・チャーム（ソフィ）"
-    price: 1408
-    capacity: "52枚入"
-    pricePerUnit: "約27円/枚"
-    rating: 4.83
-    reviewCount: 6
-    features:
-      - "肌に触れる面がふんわり素材で敏感肌にやさしい"
-      - "52枚入の大容量でまとめ買いに最適"
-      - "羽なしタイプでショーツへの装着がシンプル"
-    pros:
-      - "1枚約12.5円と4製品中最もコスパが良い"
-      - "肌ざわりが柔らかく長時間着用でも蒸れにくい"
-      - "52枚入でまとめ買いすると月2〜3回分をカバーできる"
-    cons:
-      - "羽なしのためズレ防止力は羽ありに劣る"
-      - "多い日の昼用としては吸収量がやや少なめ"
-    recommendedFor: "コスパ重視の方・普通の日のデイリー使いに最適な方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F73337%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10937723%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/337/73337.jpg?_ex=128x128"
-
-  - rank: 2
     name: "ロリエ 多い昼 羽つき 30枚入"
     brand: "花王（ロリエ）"
     price: 529
@@ -50,13 +27,34 @@ products:
     recommendedFor: "多い日の昼間・動き回る日に安心して使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000944%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10123008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/283/4901301254283.jpg?_ex=128x128"
-
+  - rank: 2
+    name: "ソフィ はだおもい 極うすスリム 多い昼〜ふつうの日用 21cm 羽なし【ソフィ"
+    brand: "ユニ・チャーム（ソフィ）"
+    price: 1408
+    capacity: "27枚"
+    pricePerUnit: "約52円/枚"
+    rating: 4.83
+    reviewCount: 6
+    features:
+      - "肌に触れる面がふんわり素材で敏感肌にやさしい"
+      - "52枚入の大容量でまとめ買いに最適"
+      - "羽なしタイプでショーツへの装着がシンプル"
+    pros:
+      - "1枚約12.5円と4製品中最もコスパが良い"
+      - "肌ざわりが柔らかく長時間着用でも蒸れにくい"
+      - "52枚入でまとめ買いすると月2〜3回分をカバーできる"
+    cons:
+      - "羽なしのためズレ防止力は羽ありに劣る"
+      - "多い日の昼用としては吸収量がやや少なめ"
+    recommendedFor: "コスパ重視の方・普通の日のデイリー使いに最適な方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F73337%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10937723%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/337/73337.jpg?_ex=128x128"
   - rank: 3
-    name: "エリス 超スリム 素肌のきもち 普通の日用 52枚入"
+    name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20"
     brand: "大王製紙（エリス）"
     price: 2183
-    capacity: "52枚入"
-    pricePerUnit: "約42円/枚"
+    capacity: "27枚"
+    pricePerUnit: "約81円/枚"
     rating: 5
     reviewCount: 2
     features:
@@ -73,7 +71,6 @@ products:
     recommendedFor: "薄さと存在感のなさを重視する方・軽い日に使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F600587%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11325644%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/587/600587.jpg?_ex=128x128"
-
   - rank: 4
     name: "ウィスパー うすさら 28枚入"
     brand: "P&G（ウィスパー）"
@@ -96,7 +93,6 @@ products:
     recommendedFor: "薄さと吸収力を両立したい方・外出先でも快適に過ごしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405705%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11299524%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/705/405705.jpg?_ex=128x128"
-
 tags:
   - "ナプキン おすすめ"
   - "生理用品 コスパ"

@@ -1,9 +1,9 @@
 ---
 title: "入浴剤 コスパ最強ランキング【2026年版】炭酸・薬用・バスソルトで比較"
 description: "入浴剤を1回あたりのコストで徹底比較。バブ・バスクリン・きき湯・エプソムソルトなど人気4選を効能・香り・コスパで解説します。"
-category: bath-additive
-publishedAt: 2026-05-01
-updatedAt: 2026-05-01
+category: "bath-additive"
+publishedAt: "2026-05-01"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "バブ 厳選4種類の香りセレクトBOX 56錠"
@@ -27,7 +27,6 @@ products:
     recommendedFor: "コスパ重視の方・毎日入浴剤を使いたい方・家族で使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un3nn.3rdw669e.g00un3nn.3rdw7b90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuroku-1%2Figpebstvhfft2z4dc6iwkue5py%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuroku-1%2Fi%2F10126004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuroku-1/cabinet/11689083/28702162_0.jpg?_ex=128x128"
-
   - rank: 2
     name: "バスクリン 大容量 600g×3個"
     brand: "バスクリン"
@@ -50,13 +49,12 @@ products:
     recommendedFor: "最安値を求める方・温泉気分を楽しみたい方・疲労回復を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sa3qn.3rdw64a4.g00sa3qn.3rdw76a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopavail%2F1789%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopavail%2Fi%2F10001642%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shopavail/cabinet/nichiyouzakka/compass1724032816.jpg?_ex=128x128"
-
   - rank: 3
-    name: "きき湯 炭酸入浴剤 360g"
+    name: "【1種類を選べる】きき湯 炭酸湯【きき湯】[炭酸入浴剤 薬用 温泉 風呂 温浴 "
     brand: "バスクリン（きき湯）"
     price: 1980
-    capacity: "360g（約12回分）"
-    pricePerUnit: "約5.5円/g"
+    capacity: "360g×3"
+    pricePerUnit: "約1.8円/g"
     rating: 4.87
     reviewCount: 53
     features:
@@ -73,7 +71,6 @@ products:
     recommendedFor: "体の不調を入浴でケアしたい方・本格的な薬用入浴剤を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11231979%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/199/405199.jpg?_ex=128x128"
-
   - rank: 4
     name: "エプソムソルト 3kg"
     brand: "シークリスタルス"
@@ -96,13 +93,12 @@ products:
     recommendedFor: "肌質改善を求める方・無添加志向の方・追い焚きしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r4tyn.3rdw66a6.g00r4tyn.3rdw770c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-epsomsalt%2Fesc-3kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-epsomsalt%2Fi%2F10000221%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-epsomsalt/cabinet/sma_original/imgrc0119581948.jpg?_ex=128x128"
-
 tags:
-  - 入浴剤
-  - コスパ
-  - 節約
-  - 日用品
-  - バスタイム
+  - "入浴剤"
+  - "コスパ"
+  - "節約"
+  - "日用品"
+  - "バスタイム"
 draft: false
 ---
 

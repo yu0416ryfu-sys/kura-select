@@ -1,16 +1,38 @@
 ---
 title: "コットン コスパ最強ランキング【2026年版】1枚あたり最安で比較"
 description: "コットン・コットンパッドを1枚あたりのコストで徹底比較。シルコット・コットンラボ・ビオレ・パックスナチュロンなど人気4選を肌触り・コスパで解説します。"
-category: cotton
-publishedAt: 2026-05-03
-updatedAt: 2026-05-03
+category: "cotton"
+publishedAt: "2026-05-03"
+updatedAt: 2026-05-06
 products:
   - rank: 1
-    name: "花王 ビオレ コットン 82枚入"
+    name: "【1点限り！令和お試し価格】ユニ・チャーム シルコット うるうる コットン"
+    brand: "ユニ・チャーム（シルコット）"
+    price: 341
+    capacity: "80枚"
+    pricePerUnit: "約4.3円/枚"
+    rating: 4.74
+    reviewCount: 23
+    features:
+      - "ウルトラ吸水加工で化粧水を繊維内にたっぷり保持"
+      - "独自の波形加工で摩擦が少なく肌へのダメージを軽減"
+      - "1/2カットで使えるミシン目付き設計"
+    pros:
+      - "化粧水の消費量を通常比30%削減できる高吸収設計"
+      - "波形加工で肌への摩擦が少なく敏感肌にも優しい"
+      - "楽天市場でも人気No.1クラスの定番コットン"
+    cons:
+      - "1枚単価は比較4製品の中で最も高め"
+      - "66枚入と他と比べて入数が少ない"
+    recommendedFor: "化粧水をたっぷり使いたい方・肌が敏感な方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903111456789-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12194578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4903111456789.jpg?_ex=128x128"
+  - rank: 2
+    name: "花王　ビオレ　メイク落とし　ふくだけコットン　つめかえ用　詰め替え用　クレンジン"
     brand: "花王（ビオレ）"
     price: 565
-    capacity: "82枚入"
-    pricePerUnit: "約6.9円/枚"
+    capacity: "46枚"
+    pricePerUnit: "約12円/枚"
     rating: 4.67
     reviewCount: 15
     features:
@@ -27,8 +49,7 @@ products:
     recommendedFor: "コスパと品質のバランスを求める方・毎日コットンを使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10034333%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10034333%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin56/4901301729286.jpg?_ex=128x128"
-
-  - rank: 2
+  - rank: 3
     name: "コットンラボ コットン 70枚入"
     brand: "小林製薬（コットンラボ）"
     price: 1470
@@ -50,30 +71,6 @@ products:
     recommendedFor: "日本製にこだわる方・化粧水をたっぷり使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F64330%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10898172%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/330/64330.jpg?_ex=128x128"
-
-  - rank: 3
-    name: "ユニ・チャーム シルコット うるうるコットン 66枚入"
-    brand: "ユニ・チャーム（シルコット）"
-    price: 341
-    capacity: "66枚入"
-    pricePerUnit: "約5.2円/枚"
-    rating: 4.74
-    reviewCount: 23
-    features:
-      - "ウルトラ吸水加工で化粧水を繊維内にたっぷり保持"
-      - "独自の波形加工で摩擦が少なく肌へのダメージを軽減"
-      - "1/2カットで使えるミシン目付き設計"
-    pros:
-      - "化粧水の消費量を通常比30%削減できる高吸収設計"
-      - "波形加工で肌への摩擦が少なく敏感肌にも優しい"
-      - "楽天市場でも人気No.1クラスの定番コットン"
-    cons:
-      - "1枚単価は比較4製品の中で最も高め"
-      - "66枚入と他と比べて入数が少ない"
-    recommendedFor: "化粧水をたっぷり使いたい方・肌が敏感な方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903111456789-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12194578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4903111456789.jpg?_ex=128x128"
-
   - rank: 4
     name: "パックスナチュロン コットン 80枚入"
     brand: "太陽油脂（パックスナチュロン）"
@@ -96,7 +93,6 @@ products:
     recommendedFor: "オーガニック・自然派スキンケアにこだわる方・アトピー肌の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Ft0010102%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10020176%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/08896213/t0010102.jpg?_ex=128x128"
-
 tags:
   - "コットン おすすめ"
   - "コットンパッド コスパ"

@@ -1,9 +1,9 @@
 ---
 title: "部屋干し洗剤 おすすめランキング【2026年版】生乾き臭を防ぐ最強洗剤を比較"
 description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底比較。アタック抗菌EX・アリエール部屋干し・トップNANOXなど人気4選を抗菌力・消臭力で解説。"
-category: laundry-detergent
-publishedAt: 2026-04-30
-updatedAt: 2026-04-30
+category: "laundry-detergent"
+publishedAt: "2026-04-30"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "アタック 抗菌EX 部屋干し用 詰め替え 2380g×6個セット"
@@ -27,7 +27,6 @@ products:
     recommendedFor: "コスパと抗菌力を両立したい方・毎日部屋干しする方・すすぎ1回派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u7dvn.3rdw6bc7.g00u7dvn.3rdw7a34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuterastar%2Fb0d4z7rrlp-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuterastar%2Fi%2F10002720%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suterastar/cabinet/goq002/1617_1.jpg?_ex=128x128"
-
   - rank: 2
     name: "トップ スーパーナノックス ニオイ専用 部屋干し 詰め替え 1510g×6個セット"
     brand: "ライオン（トップ スーパーナノックス）"
@@ -50,7 +49,6 @@ products:
     recommendedFor: "最安値を求める方・ドラム式洗濯機ユーザー・部屋干し専用を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4qcn.3rdw6396.g00u4qcn.3rdw78c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatinum-eight%2F425%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatinum-eight%2Fi%2F10000459%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platinum-eight/cabinet/compass1706417618.jpg?_ex=128x128"
-
   - rank: 3
     name: "アリエール ジェルボール4D 部屋干し用 詰め替え 140個入り"
     brand: "P&G（アリエール）"
@@ -73,13 +71,12 @@ products:
     recommendedFor: "手軽さ重視の方・柔軟剤を別で買いたくない方・ジェルボール派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F10001948%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10001948%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/437423353757726.jpg?_ex=128x128"
-
   - rank: 4
-    name: "部屋干しトップ 除菌EX 詰め替え用 810g"
+    name: "【送料無料】部屋干しトップ 除菌EX つめかえ用"
     brand: "ライオン（トップ）"
     price: 4700
-    capacity: "810g（約22回分）"
-    pricePerUnit: "約5.8円/g"
+    capacity: "810g×10個"
+    pricePerUnit: "約0.58円/g"
     rating: 4.88
     reviewCount: 101
     features:
@@ -96,14 +93,13 @@ products:
     recommendedFor: "洗浄力重視の方・小容量でお試ししたい方・食べこぼしが多い家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgean.3rdw65b6.g00tgean.3rdw7d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyyshop-japan%2Fjan-4903301340133-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyyshop-japan%2Fi%2F10015523%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yyshop-japan/cabinet/09361252/4903301340133-10.jpg?_ex=128x128"
-
 tags:
-  - 部屋干し
-  - 洗濯洗剤
-  - コスパ
-  - 節約
-  - 日用品
-  - 生乾き臭
+  - "部屋干し"
+  - "洗濯洗剤"
+  - "コスパ"
+  - "節約"
+  - "日用品"
+  - "生乾き臭"
 draft: false
 ---
 

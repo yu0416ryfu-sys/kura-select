@@ -1,9 +1,9 @@
 ---
 title: "粘着クリーナー コスパ最強ランキング【2026年版】1巻あたり最安で比較"
 description: "粘着クリーナー（コロコロ）を1巻あたりのコストで徹底比較。ニトムズ・アイリスオーヤマ・3M・レックなど人気4選を粘着力・コスパで解説します。"
-category: lint-roller
-publishedAt: 2026-05-01
-updatedAt: 2026-05-01
+category: "lint-roller"
+publishedAt: "2026-05-01"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "アイリスオーヤマ 粘着クリーナー スペアテープ 90巻入り"
@@ -27,31 +27,7 @@ products:
     recommendedFor: "コスパ最優先の方・大容量のまとめ買い派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F528254%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10018584%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/web06/e-net_299166.jpg?_ex=128x128"
-
   - rank: 2
-    name: "ニトムズ コロコロ スペアテープ フロアクリン 3巻入り"
-    brand: "ニトムズ"
-    price: 4200
-    capacity: "3巻（1巻40周）"
-    pricePerUnit: "約1400円/巻"
-    rating: 4.73
-    reviewCount: 124
-    features:
-      - "フローリング対応で床に貼り付きにくい"
-      - "独自のミシン目で片手でめくれる"
-      - "コロコロの元祖ブランドの高品質"
-    pros:
-      - "フローリング・畳・カーペットどこでも使える"
-      - "床に貼り付かない特殊粘着剤"
-      - "めくりやすさNo.1のミシン目設計"
-    cons:
-      - "1巻あたりの単価は高め"
-      - "3巻入りなのでまとめ買い感は薄い"
-    recommendedFor: "フローリングで使いたい方・めくりやすさを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qw0cn.3rdw6b5c.g00qw0cn.3rdw7b11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhareya%2Fnc2500_5set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhareya%2Fi%2F10000317%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hareya/cabinet/syouhin/daily3/nc4352x5_on.jpg?_ex=128x128"
-
-  - rank: 3
     name: "レック 激コロ スゴ技カット スペアテープ 3巻入り"
     brand: "レック"
     price: 790
@@ -73,13 +49,12 @@ products:
     recommendedFor: "ペットを飼っている方・カーペットの掃除が多い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ucoln.3rdw667d.g00ucoln.3rdw71eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenicy2022%2Ff671%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenicy2022%2Fi%2F10009158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enicy2022/cabinet/tmb/f/f671.jpg?_ex=128x128"
-
-  - rank: 4
-    name: "スコッチブライト 粘着クリーナー スペアテープ 4巻入"
+  - rank: 3
+    name: "3M スコッチ ブライト 衣類用粘着クリーナー ペタコロ用ス"
     brand: "3M（スコッチ・ブライト）"
     price: 820
-    capacity: "4巻（1巻56周）"
-    pricePerUnit: "約205円/巻"
+    capacity: "2巻"
+    pricePerUnit: "約410円/巻"
     rating: 4.5
     reviewCount: 100
     features:
@@ -96,7 +71,28 @@ products:
     recommendedFor: "花粉・ハウスダスト対策をしたい方・カーペット中心のお部屋の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qj2wn.3rdw69ec.g00qj2wn.3rdw70c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmd%2F4t-2948702%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frcmd%2Fi%2F36179191%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmd/cabinet/4t71/4t-2948702.jpg?_ex=128x128"
-
+  - rank: 4
+    name: "ニトムズ コロコロ スペアテープ フロアクリン 3巻入り"
+    brand: "ニトムズ"
+    price: 4200
+    capacity: "3巻（1巻40周）"
+    pricePerUnit: "約1400円/巻"
+    rating: 4.73
+    reviewCount: 124
+    features:
+      - "フローリング対応で床に貼り付きにくい"
+      - "独自のミシン目で片手でめくれる"
+      - "コロコロの元祖ブランドの高品質"
+    pros:
+      - "フローリング・畳・カーペットどこでも使える"
+      - "床に貼り付かない特殊粘着剤"
+      - "めくりやすさNo.1のミシン目設計"
+    cons:
+      - "1巻あたりの単価は高め"
+      - "3巻入りなのでまとめ買い感は薄い"
+    recommendedFor: "フローリングで使いたい方・めくりやすさを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qw0cn.3rdw6b5c.g00qw0cn.3rdw7b11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhareya%2Fnc2500_5set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhareya%2Fi%2F10000317%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hareya/cabinet/syouhin/daily3/nc4352x5_on.jpg?_ex=128x128"
 tags:
   - "コロコロ おすすめ"
   - "粘着クリーナー コスパ"

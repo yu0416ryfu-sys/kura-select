@@ -1,16 +1,16 @@
 ---
 title: "洗顔料 コスパ最強ランキング【2026年版】1gあたり最安で比較"
 description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴ・専科など人気4選を成分・洗い上がり・コスパで解説します。"
-category: face-wash
-publishedAt: 2026-05-01
-updatedAt: 2026-05-01
+category: "face-wash"
+publishedAt: "2026-05-01"
+updatedAt: 2026-05-06
 products:
   - rank: 1
-    name: "ロゼット 洗顔パスタ 海泥スムース 120g"
+    name: "洗顔フォーム 毛穴 ロゼット洗顔パスタ 海泥スムース WEB限定2倍"
     brand: "ロゼット"
     price: 1210
-    capacity: "120g"
-    pricePerUnit: "約10円/g"
+    capacity: "240g"
+    pricePerUnit: "約5.0円/g"
     rating: 4.71
     reviewCount: 69
     features:
@@ -27,36 +27,12 @@ products:
     recommendedFor: "毛穴汚れが気になる方・コスパ最優先の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u529n.3rdw64b3.g00u529n.3rdw7138/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frosette-shop%2Fpasta_ks240_1ps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frosette-shop%2Fi%2F10000066%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rosette-shop/cabinet/thumbna/pasta_ks240_1ps/imgrc0108556464.jpg?_ex=128x128"
-
   - rank: 2
-    name: "専科 パーフェクトホイップ 120g"
-    brand: "資生堂（専科）"
-    price: 1597
-    capacity: "120g"
-    pricePerUnit: "約13円/g"
-    rating: 4.75
-    reviewCount: 12
-    features:
-      - "天然由来シルクエッセンス配合でしっとり洗い上げ"
-      - "濃密な白まゆ泡がクッションになり肌に優しい"
-      - "うるおい導入技術で洗顔後のつっぱり感を軽減"
-    pros:
-      - "もっちり濃密泡が簡単に作れる"
-      - "洗い上がりがしっとりで乾燥しにくい"
-      - "120gの大容量でコスパ良好"
-    cons:
-      - "脂性肌にはやや洗浄力が物足りない場合も"
-      - "香りの好みが分かれる"
-    recommendedFor: "乾燥肌の方・しっとりした洗い上がりを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F563477%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11186753%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/477/563477.jpg?_ex=128x128"
-
-  - rank: 3
-    name: "ビオレ おうちdeエステ 肌をなめらかにするマッサージ洗顔ジェル 150g"
+    name: "ビオレ おうちdeエステ 肌をなめらかにするマッサージ洗顔ジェル【ビオレフェイス"
     brand: "花王（ビオレ）"
     price: 566
-    capacity: "150g"
-    pricePerUnit: "約3.8円/g"
+    capacity: "（60g）"
+    pricePerUnit: "約9.4円/g"
     rating: 1.8
     reviewCount: 5
     features:
@@ -73,8 +49,7 @@ products:
     recommendedFor: "朝の洗顔を時短したい方・毛穴ケアを手軽にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901301394941%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11048297%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/941/4901301394941.jpg?_ex=128x128"
-
-  - rank: 4
+  - rank: 3
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
     brand: "ユニリーバ（ダヴ）"
     price: 1577
@@ -96,7 +71,28 @@ products:
     recommendedFor: "敏感肌・乾燥肌の方・マイルドな洗い心地を好む方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F563823%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11186459%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/823/563823.jpg?_ex=128x128"
-
+  - rank: 4
+    name: "専科 パーフェクトホイップ 120g"
+    brand: "資生堂（専科）"
+    price: 1597
+    capacity: "120g"
+    pricePerUnit: "約13円/g"
+    rating: 4.75
+    reviewCount: 12
+    features:
+      - "天然由来シルクエッセンス配合でしっとり洗い上げ"
+      - "濃密な白まゆ泡がクッションになり肌に優しい"
+      - "うるおい導入技術で洗顔後のつっぱり感を軽減"
+    pros:
+      - "もっちり濃密泡が簡単に作れる"
+      - "洗い上がりがしっとりで乾燥しにくい"
+      - "120gの大容量でコスパ良好"
+    cons:
+      - "脂性肌にはやや洗浄力が物足りない場合も"
+      - "香りの好みが分かれる"
+    recommendedFor: "乾燥肌の方・しっとりした洗い上がりを求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F563477%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11186753%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/477/563477.jpg?_ex=128x128"
 tags:
   - "洗顔料 おすすめ"
   - "洗顔料 コスパ"

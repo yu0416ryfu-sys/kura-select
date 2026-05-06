@@ -1,9 +1,9 @@
 ---
 title: "コンディショナー コスパ最強ランキング【2026年版】1mLあたり最安で比較"
 description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気4選をダメージケア・コスパで解説します。"
-category: conditioner
-publishedAt: 2026-05-01
-updatedAt: 2026-05-01
+category: "conditioner"
+publishedAt: "2026-05-01"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
@@ -27,7 +27,6 @@ products:
     recommendedFor: "コスパ重視の方・普通〜軽いダメージ髪の方・いち髪シャンプーと揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhm1n.3rdw621b.g00uhm1n.3rdw7ede/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep0104%2Fichikami-smth%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep0104%2Fi%2F10000229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep0104/cabinet/10645709/11494580/imgrc0187994441.jpg?_ex=128x128"
-
   - rank: 2
     name: "メリット コンディショナー 詰め替え 大容量 1200mL"
     brand: "花王（メリット）"
@@ -50,7 +49,6 @@ products:
     recommendedFor: "家族で使いたい方・地肌ケア重視の方・シンプルなケアを求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F601325%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11330382%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/325/601325.jpg?_ex=128x128"
-
   - rank: 3
     name: "パンテーン エクストラダメージケア トリートメントコンディショナー 詰め替え 超特大 950g"
     brand: "P&G（パンテーン）"
@@ -73,13 +71,12 @@ products:
     recommendedFor: "ダメージヘアの方・まとまりを求める方・カラーやパーマをしている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F2873444011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10570891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000212/2873444011.jpg?_ex=128x128"
-
   - rank: 4
-    name: "LUX スーパーリッチシャイン ダメージリペア コンディショナー 詰め替え 660g"
+    name: "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア"
     brand: "ユニリーバ（LUX）"
     price: 299
-    capacity: "660g（約2ヶ月分）"
-    pricePerUnit: "約0.45円/g"
+    capacity: "290g"
+    pricePerUnit: "約1.0円/g"
     rating: 5
     reviewCount: 7
     features:
@@ -96,13 +93,12 @@ products:
     recommendedFor: "ツヤ髪を目指す方・香りを楽しみたい方・パサつきが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902111773964-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2023a/4902111773964.jpg?_ex=128x128"
-
 tags:
-  - コンディショナー
-  - コスパ
-  - 節約
-  - 日用品
-  - ヘアケア
+  - "コンディショナー"
+  - "コスパ"
+  - "節約"
+  - "日用品"
+  - "ヘアケア"
 draft: false
 ---
 

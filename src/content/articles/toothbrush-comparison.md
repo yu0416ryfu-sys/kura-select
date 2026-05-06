@@ -1,9 +1,9 @@
 ---
 title: "歯ブラシ コスパ最強ランキング【2026年版】1本あたり最安で比較"
 description: "歯ブラシを1本あたりのコストで徹底比較。システマ・クリニカ・GUM・タフト24など人気4選を磨き心地・耐久性・コスパで解説します。"
-category: toothpaste
-publishedAt: 2026-05-01
-updatedAt: 2026-05-01
+category: "toothpaste"
+publishedAt: "2026-05-01"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "タフト24 歯ブラシ 10本セット MS"
@@ -27,7 +27,6 @@ products:
     recommendedFor: "歯科医推奨の品質をコスパよく使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fyyyy27%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007716%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg/yyyy27_sam01.jpg?_ex=128x128"
-
   - rank: 2
     name: "システマハブラシ 超コンパクト ふつう 12本"
     brand: "ライオン（システマ）"
@@ -50,31 +49,7 @@ products:
     recommendedFor: "歯周病が気になる方・歯ぐきが弱い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10901946%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/032/65032.jpg?_ex=128x128"
-
   - rank: 3
-    name: "クリニカ アドバンテージ ハブラシ 4列 超コンパクト ふつう 12本セット"
-    brand: "ライオン（クリニカ）"
-    price: 3379
-    capacity: "12本（約12ヶ月分）"
-    pricePerUnit: "約282円/本"
-    rating: 4.49
-    reviewCount: 74
-    features:
-      - "弾力フィット毛で歯の凹凸にフィット"
-      - "独自カーブネック設計で力が均一に伝わる"
-      - "奥歯の奥までしっかり届くコンパクトヘッド"
-    pros:
-      - "歯面への密着度が高くプラーク除去力が優秀"
-      - "握りやすいハンドル設計"
-      - "大手メーカーで入手しやすい"
-    cons:
-      - "1本あたりの単価はタフト24より高め"
-      - "毛の硬さの選択肢が限られる"
-    recommendedFor: "しっかりプラークを落としたい方・磨き心地を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F71453%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10926222%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/453/71453.jpg?_ex=128x128"
-
-  - rank: 4
     name: "GUM デンタルブラシ #211 3列コンパクト ふつう 1本"
     brand: "サンスター（GUM）"
     price: 268
@@ -96,7 +71,28 @@ products:
     recommendedFor: "歯間ケアを重視する方・丁寧にブラッシングしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10019611%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10019611%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin89/10019611.jpg?_ex=128x128"
-
+  - rank: 4
+    name: "クリニカ アドバンテージ ハブラシ 4列 超コンパクト ふつう 12本セット"
+    brand: "ライオン（クリニカ）"
+    price: 3379
+    capacity: "12本（約12ヶ月分）"
+    pricePerUnit: "約282円/本"
+    rating: 4.49
+    reviewCount: 74
+    features:
+      - "弾力フィット毛で歯の凹凸にフィット"
+      - "独自カーブネック設計で力が均一に伝わる"
+      - "奥歯の奥までしっかり届くコンパクトヘッド"
+    pros:
+      - "歯面への密着度が高くプラーク除去力が優秀"
+      - "握りやすいハンドル設計"
+      - "大手メーカーで入手しやすい"
+    cons:
+      - "1本あたりの単価はタフト24より高め"
+      - "毛の硬さの選択肢が限られる"
+    recommendedFor: "しっかりプラークを落としたい方・磨き心地を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F71453%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10926222%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/453/71453.jpg?_ex=128x128"
 tags:
   - "歯ブラシ おすすめ"
   - "歯ブラシ コスパ"

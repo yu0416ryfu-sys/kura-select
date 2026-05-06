@@ -1,39 +1,16 @@
 ---
 title: "日焼け止め コスパ最強ランキング【2026年版】1mLあたり最安で比較"
 description: "日焼け止めを1mLあたりのコストで徹底比較。ビオレUV・スキンアクア・ニベアUV・アリィーなど人気4選をUV防御力・コスパで解説します。"
-category: sunscreen
-publishedAt: 2026-05-01
-updatedAt: 2026-05-01
+category: "sunscreen"
+publishedAt: "2026-05-01"
+updatedAt: 2026-05-06
 products:
   - rank: 1
-    name: "ニベアUV ウォータージェル SPF50 160g"
-    brand: "花王（ニベア）"
-    price: 975
-    capacity: "160g"
-    pricePerUnit: "約6.1円/g"
-    rating: 4.79
-    reviewCount: 14
-    features:
-      - "大容量160gでたっぷり使えるポンプタイプ"
-      - "ジェルタイプで伸びが良くベタつかない"
-      - "SPF50/PA+++の高いUV防御力"
-    pros:
-      - "ポンプ式で量の調節がしやすい"
-      - "160gの大容量で家族全員で使える"
-      - "化粧水感覚で使えるみずみずしいテクスチャー"
-    cons:
-      - "汗・水に弱くこまめな塗り直しが必要"
-      - "ウォータープルーフではない"
-    recommendedFor: "毎日使いでコスパを重視する方・家族で共有したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F103-4901301298706%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10627469%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/re2021/4901301298706.jpg?_ex=128x128"
-
-  - rank: 2
-    name: "スキンアクア スーパーモイスチャージェル SPF50+ 110g"
+    name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
     brand: "ロート製薬（スキンアクア）"
     price: 897
-    capacity: "110g"
-    pricePerUnit: "約8.2円/g"
+    capacity: "（140g）"
+    pricePerUnit: "約6.4円/g"
     rating: 5
     reviewCount: 4
     features:
@@ -50,13 +27,34 @@ products:
     recommendedFor: "乾燥が気になる方・日常使いのUVケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10156053%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10092000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/syohin90/10156053.jpg?_ex=128x128"
-
+  - rank: 2
+    name: "花王 ニベアUV　ニベアサン ウォータージェル SPF50 詰替え"
+    brand: "花王（ニベア）"
+    price: 975
+    capacity: "125g"
+    pricePerUnit: "約7.8円/g"
+    rating: 4.79
+    reviewCount: 14
+    features:
+      - "大容量160gでたっぷり使えるポンプタイプ"
+      - "ジェルタイプで伸びが良くベタつかない"
+      - "SPF50/PA+++の高いUV防御力"
+    pros:
+      - "ポンプ式で量の調節がしやすい"
+      - "160gの大容量で家族全員で使える"
+      - "化粧水感覚で使えるみずみずしいテクスチャー"
+    cons:
+      - "汗・水に弱くこまめな塗り直しが必要"
+      - "ウォータープルーフではない"
+    recommendedFor: "毎日使いでコスパを重視する方・家族で共有したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F103-4901301298706%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10627469%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/re2021/4901301298706.jpg?_ex=128x128"
   - rank: 3
-    name: "ビオレUV アクアリッチ ウォータリーエッセンス SPF50+ 70g"
+    name: "ビオレUV アクアリッチ ウォータリーエッセンス フレッシュパウチ"
     brand: "花王（ビオレ）"
     price: 2480
-    capacity: "70g"
-    pricePerUnit: "約35円/g"
+    capacity: "120g"
+    pricePerUnit: "約21円/g"
     rating: 4.82
     reviewCount: 28
     features:
@@ -73,13 +71,12 @@ products:
     recommendedFor: "化粧下地としても使いたい方・汗をかく場面が多い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uh2zn.3rdw6fa6.g00uh2zn.3rdw7b39/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyeveryday%2F4901301416957%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyeveryday%2Fi%2F10000706%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyeveryday/cabinet/sukinkea2023/12115112/aquarich_01v2.jpg?_ex=128x128"
-
   - rank: 4
-    name: "アリィー クロノビューティ ジェルUV EX SPF50+ 90g"
+    name: "【国内正規品 全12種】ALLIE アリィー 日焼け止め クロノビューティ トー"
     brand: "カネボウ（アリィー）"
     price: 1430
-    capacity: "90g"
-    pricePerUnit: "約16円/g"
+    capacity: "60g"
+    pricePerUnit: "約24円/g"
     rating: 4.67
     reviewCount: 125
     features:
@@ -96,7 +93,6 @@ products:
     recommendedFor: "屋外でのスポーツ・レジャーが多い方・絶対焼きたくない方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t269n.3rdw662f.g00t269n.3rdw745b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Farianakosume%2Fallie-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Farianakosume%2Fi%2F10006763%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/main-ariana/allie-001-ra-rk.jpg?_ex=128x128"
-
 tags:
   - "日焼け止め おすすめ"
   - "日焼け止め コスパ"

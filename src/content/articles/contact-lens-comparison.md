@@ -1,33 +1,32 @@
 ---
 title: "コンタクトレンズ洗浄液 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
 description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹底比較。エピカコールド・オプティフリー・コンプリート・メニコンなど人気4選を洗浄力・コスパで解説します。"
-category: contact-lens
-publishedAt: 2026-05-04
-updatedAt: 2026-05-04
+category: "contact-lens"
+publishedAt: "2026-05-04"
+updatedAt: 2026-05-06
 products:
   - rank: 1
-    name: "エピカコールド コンタクトレンズ洗浄液 360mL"
-    brand: "ボシュロム（エピカコールド）"
-    price: 3040
+    name: "コンプリート ダブルモイスト コンタクト洗浄液 360mL"
+    brand: "AMO（コンプリート）"
+    price: 1424
     capacity: "360mL"
-    pricePerUnit: "約8.4円/mL"
-    rating: 4.8
-    reviewCount: 35
+    pricePerUnit: "約4.0円/mL"
+    rating: 4.9
+    reviewCount: 21
     features:
-      - "こすり洗い不要のノーラブ処方（一部製品）"
-      - "タンパク除去成分配合で汚れをすっきりオフ"
-      - "360mLで約4〜6ヶ月分のコスパ"
+      - "2種類の保湿成分（コンドロイチン硫酸・ヒアルロン酸）配合"
+      - "レンズのうるおいを長時間キープ"
+      - "AMO独自の消毒技術で安全性が高い"
     pros:
-      - "ボシュロムの高い洗浄・消毒技術"
-      - "楽天でも人気No.1クラスの定番商品"
-      - "幅広いソフトコンタクトレンズに対応"
+      - "ダブル保湿成分でレンズのつけ心地が長続きする"
+      - "眼のうるおいを重視した設計"
+      - "コンプリートブランドの信頼性"
     cons:
-      - "冷感タイプのため刺激を感じる方もいる"
-      - "コスパ最強タイプと比べると1mL単価はやや高め"
-    recommendedFor: "確かな洗浄力と定番ブランドを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvxen.3rdw62ee.g00rvxen.3rdw7466/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fatcontact%2Fk_mc_epc3z0_02_h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fatcontact%2Fi%2F10002192%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/atcontact/cabinet/thumb2021/k_mc_epc3z0_02_h.jpg?_ex=128x128"
-
+      - "保湿重視のため洗浄力は高洗浄タイプより控えめ"
+      - "一部のレンズと相性が良くない場合がある"
+    recommendedFor: "目の乾燥が気になる方・長時間装用する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe406550h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10439837%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/746/4987617003746.jpg?_ex=128x128"
   - rank: 2
     name: "オプティフリープラス コンタクトレンズ洗浄液 470mL"
     brand: "アルコン（オプティフリー）"
@@ -50,30 +49,28 @@ products:
     recommendedFor: "コスパと保湿力を両立したい方・大容量まとめ買いをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qym5n.3rdw62ce.g00qym5n.3rdw72cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhitomi-cl%2Fopfplus_6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhitomi-cl%2Fi%2F10000358%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hitomi-cl/cabinet/care/optifreeplus/opx10_6.jpg?_ex=128x128"
-
   - rank: 3
-    name: "コンプリート ダブルモイスト コンタクト洗浄液 360mL"
-    brand: "AMO（コンプリート）"
-    price: 1424
+    name: "エピカコールド コンタクトレンズ洗浄液 360mL"
+    brand: "ボシュロム（エピカコールド）"
+    price: 3040
     capacity: "360mL"
-    pricePerUnit: "約4.0円/mL"
-    rating: 4.9
-    reviewCount: 21
+    pricePerUnit: "約8.4円/mL"
+    rating: 4.8
+    reviewCount: 35
     features:
-      - "2種類の保湿成分（コンドロイチン硫酸・ヒアルロン酸）配合"
-      - "レンズのうるおいを長時間キープ"
-      - "AMO独自の消毒技術で安全性が高い"
+      - "こすり洗い不要のノーラブ処方（一部製品）"
+      - "タンパク除去成分配合で汚れをすっきりオフ"
+      - "360mLで約4〜6ヶ月分のコスパ"
     pros:
-      - "ダブル保湿成分でレンズのつけ心地が長続きする"
-      - "眼のうるおいを重視した設計"
-      - "コンプリートブランドの信頼性"
+      - "ボシュロムの高い洗浄・消毒技術"
+      - "楽天でも人気No.1クラスの定番商品"
+      - "幅広いソフトコンタクトレンズに対応"
     cons:
-      - "保湿重視のため洗浄力は高洗浄タイプより控えめ"
-      - "一部のレンズと相性が良くない場合がある"
-    recommendedFor: "目の乾燥が気になる方・長時間装用する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe406550h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10439837%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/746/4987617003746.jpg?_ex=128x128"
-
+      - "冷感タイプのため刺激を感じる方もいる"
+      - "コスパ最強タイプと比べると1mL単価はやや高め"
+    recommendedFor: "確かな洗浄力と定番ブランドを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvxen.3rdw62ee.g00rvxen.3rdw7466/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fatcontact%2Fk_mc_epc3z0_02_h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fatcontact%2Fi%2F10002192%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/atcontact/cabinet/thumb2021/k_mc_epc3z0_02_h.jpg?_ex=128x128"
   - rank: 4
     name: "メニコン 洗浄保存液 コンタクト 450mL"
     brand: "メニコン"
@@ -96,7 +93,6 @@ products:
     recommendedFor: "メニコンのコンタクトを使用している方・純正品にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rfvyn.3rdw697a.g00rfvyn.3rdw7b2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flenscare%2Feye-car-08019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flenscare%2Fi%2F10001377%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lenscare/cabinet/contact_care/contact_cart03/eye-car-08019.jpg?_ex=128x128"
-
 tags:
   - "コンタクト洗浄液 おすすめ"
   - "コンタクト MPS コスパ"

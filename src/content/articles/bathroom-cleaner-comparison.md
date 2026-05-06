@@ -1,9 +1,9 @@
 ---
 title: "お風呂用洗剤 コスパ最強ランキング【2026年版】カビ取り・防カビで比較"
 description: "お風呂用洗剤を1回あたりのコストで徹底比較。バスマジックリン・ルック・カビキラー・ウタマロの人気4選を洗浄力・コスパで解説します。"
-category: bathroom-cleaner
-publishedAt: 2026-04-30
-updatedAt: 2026-04-30
+category: "bathroom-cleaner"
+publishedAt: "2026-04-30"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "バスマジックリン エアジェット 詰め替え 大容量 820mL×2袋"
@@ -27,7 +27,6 @@ products:
     recommendedFor: "こすらず掃除したい方・コスパ重視の方・毎日の日常洗いに"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301453242%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10028927%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/242/4901301453242.jpg?_ex=128x128"
-
   - rank: 2
     name: "ルック バスタブクレンジング 詰め替え 大容量 800mL"
     brand: "ライオン（ルック）"
@@ -50,7 +49,6 @@ products:
     recommendedFor: "最安値を求める方・浴槽掃除がメインの方・すすぎの楽さを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F85253%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10966194%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/253/85253.jpg?_ex=128x128"
-
   - rank: 3
     name: "カビキラー 特大サイズ 本体 1000g"
     brand: "ジョンソン（カビキラー）"
@@ -73,7 +71,6 @@ products:
     recommendedFor: "黒カビに悩んでいる方・ゴムパッキンのカビを取りたい方・強力なカビ取りが必要な方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10099450%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/148/4901609000148.jpg?_ex=128x128"
-
   - rank: 4
     name: "ウタマロクリーナー 本体 400mL + 詰め替え 350mL セット"
     brand: "東邦（ウタマロ）"
@@ -96,14 +93,13 @@ products:
     recommendedFor: "ナチュラル洗剤派の方・1本で家中掃除したい方・手肌にやさしい洗剤を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4904766130215%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10003963%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pp/4904766130215.jpg?_ex=128x128"
-
 tags:
-  - お風呂用洗剤
-  - コスパ
-  - 節約
-  - 日用品
-  - 掃除
-  - カビ取り
+  - "お風呂用洗剤"
+  - "コスパ"
+  - "節約"
+  - "日用品"
+  - "掃除"
+  - "カビ取り"
 draft: false
 ---
 

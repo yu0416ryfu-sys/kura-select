@@ -1,80 +1,11 @@
 ---
 title: "衣類防虫剤 コスパ最強ランキング【2026年版】1個あたり最安で比較"
 description: "クローゼット用衣類防虫剤を1個あたりのコストで徹底比較。ムシューダ・タンスにゴン・ムシコナーズ・アース製薬など人気4選を防虫力・コスパで解説します。"
-category: moth-repellent
-publishedAt: 2026-05-04
-updatedAt: 2026-05-04
+category: "moth-repellent"
+publishedAt: "2026-05-04"
+updatedAt: 2026-05-06
 products:
   - rank: 1
-    name: "ムシューダ クローゼット 防虫剤 24個入"
-    brand: "エステー（ムシューダ）"
-    price: 1628
-    capacity: "24個入"
-    pricePerUnit: "約68円/個"
-    rating: 4.73
-    reviewCount: 124
-    features:
-      - "有効期間1年で年1回の交換でOK"
-      - "衣類への移り香防止処方"
-      - "24個入の大容量でまとめ買いに最適"
-    pros:
-      - "1年間有効で年1回の交換管理が楽"
-      - "衣類への香り移りが少なく服を清潔に保てる"
-      - "エステーの信頼ブランドで品質が安定"
-    cons:
-      - "1個単価は比較4製品の中でやや高め"
-      - "香りが苦手な方には気になる場合がある"
-    recommendedFor: "管理を楽にしたい方・年1回まとめ替えしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65240%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902781%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/240/65240.jpg?_ex=128x128"
-
-  - rank: 2
-    name: "タンスにゴン クローゼット 防虫 12個入"
-    brand: "白元アース（タンスにゴン）"
-    price: 657
-    capacity: "12個入"
-    pricePerUnit: "約55円/個"
-    rating: 4.82
-    reviewCount: 11
-    features:
-      - "有効期間1年のロングラスト設計"
-      - "防虫・防カビ・消臭の3役を1個でこなす"
-      - "吊り下げ式でクローゼットにすっきり設置できる"
-    pros:
-      - "防虫＋防カビ＋消臭の3機能で衣類を総合保護"
-      - "吊り下げ式で取り付け・取り外しが簡単"
-      - "白元アースの定番ブランドで信頼性が高い"
-    cons:
-      - "12個入のため大量購入時は複数セット必要"
-      - "消臭効果は専用品には劣る"
-    recommendedFor: "防虫・防カビ・消臭をまとめてケアしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4987115842472%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10436024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0053/4987115842472_1.jpg?_ex=128x128"
-
-  - rank: 3
-    name: "ムシコナーズ プレミアム 吊り下げ 防虫剤 12個入"
-    brand: "フマキラー（ムシコナーズ）"
-    price: 5754
-    capacity: "12個入"
-    pricePerUnit: "約480円/個"
-    rating: 4.3
-    reviewCount: 300
-    features:
-      - "有効期間1年のプレミアム防虫剤"
-      - "フマキラー独自の防虫成分で高い忌避効果"
-      - "吊り下げ式でクローゼットの隅々まで成分が行き渡る"
-    pros:
-      - "フマキラーの殺虫技術をもとにした高い防虫力"
-      - "吊り下げ式で使いやすく、収納スペースを取らない"
-      - "プレミアム処方で高品質な衣類を安心して保管できる"
-    cons:
-      - "1個単価は4製品中最も高め"
-      - "12個入のため大量購入時は費用がかさむ"
-    recommendedFor: "高品質な衣類・コートをしっかり守りたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4o6n.3rdw655e.g00s4o6n.3rdw773a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2Fdk-4987115545182_5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F11022829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ulmaxjapan2/cabinet/zg122/4987115545182.jpg?_ex=128x128"
-
-  - rank: 4
     name: "アース製薬 衣類防虫剤 クローゼット 24個入"
     brand: "アース製薬"
     price: 616
@@ -96,7 +27,72 @@ products:
     recommendedFor: "コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4901080158819%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10561767%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0095/4901080158819_1.jpg?_ex=128x128"
-
+  - rank: 2
+    name: "大日本除蟲菊 タンスにゴンゴン 衣類の防虫剤 クローゼット用 無臭"
+    brand: "白元アース（タンスにゴン）"
+    price: 657
+    capacity: "3個"
+    pricePerUnit: "約219円/個"
+    rating: 4.82
+    reviewCount: 11
+    features:
+      - "有効期間1年のロングラスト設計"
+      - "防虫・防カビ・消臭の3役を1個でこなす"
+      - "吊り下げ式でクローゼットにすっきり設置できる"
+    pros:
+      - "防虫＋防カビ＋消臭の3機能で衣類を総合保護"
+      - "吊り下げ式で取り付け・取り外しが簡単"
+      - "白元アースの定番ブランドで信頼性が高い"
+    cons:
+      - "12個入のため大量購入時は複数セット必要"
+      - "消臭効果は専用品には劣る"
+    recommendedFor: "防虫・防カビ・消臭をまとめてケアしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4987115842472%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10436024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0053/4987115842472_1.jpg?_ex=128x128"
+  - rank: 3
+    name: "ムシューダ クローゼット用 衣類用 防虫剤 防カビ剤配合 無香タイプ 1年間有効"
+    brand: "エステー（ムシューダ）"
+    price: 1628
+    capacity: "3個"
+    pricePerUnit: "約543円/個"
+    rating: 4.73
+    reviewCount: 124
+    features:
+      - "有効期間1年で年1回の交換でOK"
+      - "衣類への移り香防止処方"
+      - "24個入の大容量でまとめ買いに最適"
+    pros:
+      - "1年間有効で年1回の交換管理が楽"
+      - "衣類への香り移りが少なく服を清潔に保てる"
+      - "エステーの信頼ブランドで品質が安定"
+    cons:
+      - "1個単価は比較4製品の中でやや高め"
+      - "香りが苦手な方には気になる場合がある"
+    recommendedFor: "管理を楽にしたい方・年1回まとめ替えしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65240%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902781%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/240/65240.jpg?_ex=128x128"
+  - rank: 4
+    name: "【5個セット】 金鳥 蚊に効く 虫コナーズ プレミアム プレ"
+    brand: "フマキラー（ムシコナーズ）"
+    price: 5754
+    capacity: "5個"
+    pricePerUnit: "約1151円/個"
+    rating: 4.3
+    reviewCount: 300
+    features:
+      - "有効期間1年のプレミアム防虫剤"
+      - "フマキラー独自の防虫成分で高い忌避効果"
+      - "吊り下げ式でクローゼットの隅々まで成分が行き渡る"
+    pros:
+      - "フマキラーの殺虫技術をもとにした高い防虫力"
+      - "吊り下げ式で使いやすく、収納スペースを取らない"
+      - "プレミアム処方で高品質な衣類を安心して保管できる"
+    cons:
+      - "1個単価は4製品中最も高め"
+      - "12個入のため大量購入時は費用がかさむ"
+    recommendedFor: "高品質な衣類・コートをしっかり守りたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4o6n.3rdw655e.g00s4o6n.3rdw773a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2Fdk-4987115545182_5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F11022829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ulmaxjapan2/cabinet/zg122/4987115545182.jpg?_ex=128x128"
 tags:
   - "衣類防虫剤 おすすめ"
   - "防虫剤 コスパ"
