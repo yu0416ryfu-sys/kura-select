@@ -130,13 +130,20 @@ export function extractCapacityTotal(capacity: string): { total: number; unit: s
     if (total > 0) return { total, unit: bracketM[2] };
   }
 
-  // パターン2: "数値unit×数値" の掛け算 "660mL×2個"
-  const mulRe = new RegExp(`^([\\d,]+)\\s*(${CAPACITY_UNITS})\\s*[×xX]\\s*([\\d,]+)`);
-  const mulM = capacity.match(mulRe);
-  if (mulM) {
-    const perPack = parseInt(mulM[1].replace(/,/g, ''), 10);
-    const count = parseInt(mulM[3].replace(/,/g, ''), 10);
-    if (perPack > 0 && count > 0) return { total: perPack * count, unit: mulM[2] };
+  // パターン2: "数値unit×N1[×N2...]" の掛け算（複数因子対応）
+  // 例: "660mL×2個"           → 660×2=1320mL
+  // 例: "500枚×60箱"           → 500×60=30000枚
+  // 例: "500枚×5箱×12パック"   → 500×5×12=30000枚
+  const mulBaseRe = new RegExp(`^([\\d,]+)\\s*(${CAPACITY_UNITS})(.*)`);
+  const mulBaseM = capacity.match(mulBaseRe);
+  if (mulBaseM) {
+    const base = parseInt(mulBaseM[1].replace(/,/g, ''), 10);
+    const unit = mulBaseM[2];
+    const factors = [...mulBaseM[3].matchAll(/[×xX]\s*([\d,]+)/g)];
+    if (base > 0 && factors.length > 0) {
+      const multiplier = factors.reduce((acc, f) => acc * parseInt(f[1].replace(/,/g, ''), 10), 1);
+      if (multiplier > 1) return { total: base * multiplier, unit };
+    }
   }
 
   // パターン3: シンプルな単位 "30枚" "500g"
@@ -179,12 +186,33 @@ export function calcPricePerUnit(price: number, capacity: string): string | null
  * 例: "ビオレ ボディウォッシュ 500mL" → "500mL"
  */
 export function extractCapacityFromItemName(itemName: string): string | null {
-  // パターン1: × 区切り乗算 "200枚×5箱" "50m×72ロール"（楽天名内を検索）
-  const mulRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})\\s*[×xX]\\s*(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})?`);
+  // パターン1: × 区切り乗算チェーン（複数因子対応）"200枚×5箱" "500枚×5箱×12パック"
+  // 非CAPACITY_UNITS単位（箱・パック等）はスキップして数値のみ連結する
+  const mulRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})`);
   const mulM = itemName.match(mulRe);
-  if (mulM) {
-    const base = `${mulM[1]}${mulM[2]}×${mulM[3]}`;
-    return mulM[4] ? `${base}${mulM[4]}` : base;
+  if (mulM && mulM.index !== undefined) {
+    const capacityUnitRe = new RegExp(`^(${CAPACITY_UNITS})`);
+    let result = mulM[1] + mulM[2];
+    let pos = mulM.index + mulM[0].length;
+    let foundChain = false;
+    while (pos < itemName.length) {
+      const ahead = itemName.slice(pos);
+      // 非数字・非×文字を読み飛ばして次の × を探す
+      const xMatch = ahead.match(/^([^×xX\d]*)[×xX]\s*(\d[\d,]*)/);
+      if (!xMatch) break;
+      // × より前に数字が混入していたら別の数値表現として中断
+      if (/\d/.test(xMatch[1])) break;
+      result += '×' + xMatch[2];
+      pos += xMatch[0].length;
+      // × 直後に CAPACITY_UNITS が続く場合は含める
+      const unitM = itemName.slice(pos).match(capacityUnitRe);
+      if (unitM) {
+        result += unitM[1];
+        pos += unitM[1].length;
+      }
+      foundChain = true;
+    }
+    if (foundChain) return result;
   }
 
   // パターン1b: スペース区切りの数量表現 "50m 72ロール" → "50m×72ロール"

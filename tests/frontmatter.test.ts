@@ -284,6 +284,18 @@ describe("extractCapacityTotal", () => {
   it("解析できない文字列は null を返す", () => {
     expect(extractCapacityTotal("詰め替え用")).toBeNull();
   });
+
+  it("3因子の掛け算を計算する（箱・パック単位）", () => {
+    expect(extractCapacityTotal("500枚×5箱×12パック")).toEqual({ total: 30000, unit: "枚" });
+  });
+
+  it("2因子の掛け算（非CAPACITY_UNITS単位あり）を計算する", () => {
+    expect(extractCapacityTotal("500枚×60箱")).toEqual({ total: 30000, unit: "枚" });
+  });
+
+  it("括弧注釈付きは枚数のみ返す", () => {
+    expect(extractCapacityTotal("500枚(250組)")).toEqual({ total: 500, unit: "枚" });
+  });
 });
 
 // ─── updateProductInFrontmatter (newName / newCapacity) ──────────────────
@@ -347,6 +359,10 @@ describe("extractCapacityFromItemName", () => {
 
   it("× 区切りの場合はパターン1が優先される", () => {
     expect(extractCapacityFromItemName("エリエール 50m×72ロール ダブル")).toBe("50m×72");
+  });
+
+  it("3因子の掛け算チェーンを抽出する", () => {
+    expect(extractCapacityFromItemName("スコッティ ティッシュ 500枚×5箱×12パック")).toBe("500枚×5×12");
   });
 });
 

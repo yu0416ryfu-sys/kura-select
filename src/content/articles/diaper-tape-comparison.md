@@ -29,28 +29,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tasya108/imgrc0116993733.jpg?_ex=128x128"
   - rank: 2
     name: "たっぷり"
-    brand: "花王（メリーズ）"
-    price: 2200
-    capacity: "28枚"
-    pricePerUnit: "約79円/枚"
-    rating: 4.75
-    reviewCount: 52
-    features:
-      - "花王独自のエアスルー素材で通気性抜群"
-      - "肌へのやさしさで人気トップクラス"
-      - "4袋セットでまとめ買いコスパ◎"
-    pros:
-      - "肌触りがやわらかく肌荒れしにくいと評判"
-      - "通気性が高く蒸れにくい"
-      - "336枚入りで買い替え頻度が下がる"
-    cons:
-      - "他ブランドと比べると1枚あたりの価格がやや高め"
-      - "お腹まわりのフィット感が好みにより異なる"
-    recommendedFor: "肌がデリケートな赤ちゃん・肌荒れが気になる方・品質重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r310n.3rdw699f.g00r310n.3rdw7350/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faleppo-souq%2F10001027%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faleppo-souq%2Fi%2F10001027%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aleppo-souq/cabinet/03029818/07920183/imgrc0112100931.jpg?_ex=128x128"
-  - rank: 3
-    name: "たっぷり"
     brand: "ユニ・チャーム（ムーニー）"
     price: 2200
     capacity: "28枚"
@@ -71,7 +49,7 @@ products:
     recommendedFor: "夜間の長時間使用・活発に動く赤ちゃん・フィット感重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r310n.3rdw699f.g00r310n.3rdw7350/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faleppo-souq%2F10001027%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faleppo-souq%2Fi%2F10001027%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aleppo-souq/cabinet/03029818/07920183/imgrc0112100931.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "たっぷり"
     brand: "ユニ・チャーム（グーン）"
     price: 2200
@@ -93,6 +71,28 @@ products:
     recommendedFor: "コスパ重視・毎日の使用コストを抑えたい方・双子・多子家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r310n.3rdw699f.g00r310n.3rdw7350/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faleppo-souq%2F10001027%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faleppo-souq%2Fi%2F10001027%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aleppo-souq/cabinet/03029818/07920183/imgrc0112100931.jpg?_ex=128x128"
+  - rank: 4
+    name: "たっぷり"
+    brand: "花王（メリーズ）"
+    price: 3980
+    capacity: "28枚"
+    pricePerUnit: "約142円/枚"
+    rating: 4.28
+    reviewCount: 22878
+    features:
+      - "花王独自のエアスルー素材で通気性抜群"
+      - "肌へのやさしさで人気トップクラス"
+      - "4袋セットでまとめ買いコスパ◎"
+    pros:
+      - "肌触りがやわらかく肌荒れしにくいと評判"
+      - "通気性が高く蒸れにくい"
+      - "336枚入りで買い替え頻度が下がる"
+    cons:
+      - "他ブランドと比べると1枚あたりの価格がやや高め"
+      - "お腹まわりのフィット感が好みにより異なる"
+    recommendedFor: "肌がデリケートな赤ちゃん・肌荒れが気になる方・品質重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pt2hn.3rdw62c1.g00pt2hn.3rdw7d43/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkamachu%2Fmix%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkamachu%2Fi%2F10000209%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kamachu/cabinet/06488113/mix24750.jpg?_ex=128x128"
 tags:
   - "紙おむつ おすすめ"
   - "紙おむつ コスパ"

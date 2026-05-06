@@ -28,6 +28,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3ztn.3rdw6b30.g00t3ztn.3rdw7dc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F1920418%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10156833%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/11073544/12250154/imgrc0110739750.jpg?_ex=128x128"
   - rank: 2
+    name: "ユニチャーム シルコット ピュアウォーターウェットティッシュ 詰替 【"
+    brand: "ユニ・チャーム（シルコット）"
+    price: 1279
+    capacity: "58枚×8個"
+    pricePerUnit: "約2.8円/枚"
+    rating: 4.74
+    reviewCount: 222
+    features:
+      - "ノンアルコール・無香料で敏感肌にやさしい"
+      - "99.99%除菌（ノンアルコールでも高い除菌力）"
+      - "なめらかな肌触りで手肌・顔にも使える"
+    pros:
+      - "ノンアルコールで赤ちゃんにも安心"
+      - "肌触りが良く手や顔の拭き取りにも"
+      - "パラベン・香料フリーの低刺激設計"
+    cons:
+      - "1枚あたり約3.8円とやや高め"
+      - "アルコールタイプと比べると除菌力はやや控えめ"
+    recommendedFor: "赤ちゃんのいる家庭・敏感肌の方・手肌に使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uov8n.3rdw6d00.g00uov8n.3rdw7627/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fayumi-shop%2Fb0cm8z1vgs%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fayumi-shop%2Fi%2F10000374%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ayumi-shop/cabinet/variation1/b0cm8z1vgs_1.jpg?_ex=128x128"
+  - rank: 3
     name: "エリエール 除菌できるアルコールタオル ウイルス除去用 詰め替え 70枚×3個"
     brand: "大王製紙（エリエール）"
     price: 1097
@@ -49,7 +71,7 @@ products:
     recommendedFor: "除菌力を最重視する方・キッチン周りの除菌に・ブランド重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe387819h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10315025%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/256/4902011734256.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "キレイキレイ 除菌ウェットシート ノンアルコール 30枚 携帯用"
     brand: "ライオン（キレイキレイ）"
     price: 217
@@ -71,28 +93,6 @@ products:
     recommendedFor: "子どものいる家庭・外出用に・ブランドの信頼性を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10048919%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10048919%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin76/10048919.jpg?_ex=128x128"
-  - rank: 4
-    name: "シルコット ノンアルコール 除菌 ウェットティッシュ 詰替【シルコットウェット】"
-    brand: "ユニ・チャーム（シルコット）"
-    price: 5269
-    capacity: "43枚"
-    pricePerUnit: "約123円/枚"
-    rating: 4.74
-    reviewCount: 222
-    features:
-      - "ノンアルコール・無香料で敏感肌にやさしい"
-      - "99.99%除菌（ノンアルコールでも高い除菌力）"
-      - "なめらかな肌触りで手肌・顔にも使える"
-    pros:
-      - "ノンアルコールで赤ちゃんにも安心"
-      - "肌触りが良く手や顔の拭き取りにも"
-      - "パラベン・香料フリーの低刺激設計"
-    cons:
-      - "1枚あたり約3.8円とやや高め"
-      - "アルコールタイプと比べると除菌力はやや控えめ"
-    recommendedFor: "赤ちゃんのいる家庭・敏感肌の方・手肌に使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4903111460106%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11222052%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/106/4903111460106.jpg?_ex=128x128"
 tags:
   - "ウェットティッシュ"
   - "除菌"

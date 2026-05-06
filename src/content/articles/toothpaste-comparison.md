@@ -28,28 +28,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301326694-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12280697%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/d/202410/imagej115.jpg?_ex=128x128"
   - rank: 2
-    name: "クリアクリーン ナチュラルミント BIGサイズ スタンディングチューブ【クリアク"
-    brand: "花王（クリアクリーン）"
-    price: 1040
-    capacity: "170g"
-    pricePerUnit: "約6.1円/g"
-    rating: 4.85
-    reviewCount: 26
-    features:
-      - "フッ素1450ppm配合で虫歯予防に効果的"
-      - "ナチュラルミントの爽快感"
-      - "まとめ買いセットでコスト削減"
-    pros:
-      - "高濃度フッ素で虫歯リスクを低減"
-      - "花王ブランドで安定した品質"
-      - "6本セットで長期間使用可能"
-    cons:
-      - "研磨剤入りのため、ホワイトニング効果を期待するなら専用品のほうが高い"
-      - "ミント感が強い"
-    recommendedFor: "虫歯予防を重視する方・コスパ派・まとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F90537%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10986146%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/537/90537.jpg?_ex=128x128"
-  - rank: 3
     name: "シュミテクト プロエナメル 90g×3本セット"
     brand: "グラクソ・スミスクライン（シュミテクト）"
     price: 5130
@@ -71,7 +49,7 @@ products:
     recommendedFor: "冷たいもの・熱いものがしみる方・酸蝕歯が気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tth2n.3rdw67a0.g00tth2n.3rdw76f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F14promo%2F20240423-1300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F14promo%2Fi%2F10027463%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/14promo/cabinet/imgrc0114569557.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "歯ブラシ まとめ買い 大人 おとな用歯ブラシアソート"
     brand: "サンギ（アパガード）"
     price: 1480

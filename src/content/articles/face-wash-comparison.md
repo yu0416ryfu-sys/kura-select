@@ -28,28 +28,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u529n.3rdw64b3.g00u529n.3rdw7138/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frosette-shop%2Fpasta_ks240_1ps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frosette-shop%2Fi%2F10000066%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rosette-shop/cabinet/thumbna/pasta_ks240_1ps/imgrc0108556464.jpg?_ex=128x128"
   - rank: 2
-    name: "ビオレ おうちdeエステ 肌をなめらかにするマッサージ洗顔ジェル【ビオレフェイス"
-    brand: "花王（ビオレ）"
-    price: 566
-    capacity: "（60g）"
-    pricePerUnit: "約9.4円/g"
-    rating: 1.8
-    reviewCount: 5
-    features:
-      - "泡立て不要のジェルタイプで時短ケア"
-      - "角栓クリア処方で毛穴汚れをオフ"
-      - "マッサージしながら使える柔らかテクスチャー"
-    pros:
-      - "泡立て不要で朝の洗顔が時短になる"
-      - "毛穴の角栓・ザラつきケアができる"
-      - "150gで長持ちしコスパも良い"
-    cons:
-      - "泡洗顔派には物足りなさを感じることも"
-      - "しっかりメイクのクレンジングには不向き"
-    recommendedFor: "朝の洗顔を時短したい方・毛穴ケアを手軽にしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901301394941%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11048297%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/941/4901301394941.jpg?_ex=128x128"
-  - rank: 3
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
     brand: "ユニリーバ（ダヴ）"
     price: 1577
@@ -71,7 +49,7 @@ products:
     recommendedFor: "敏感肌・乾燥肌の方・マイルドな洗い心地を好む方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F563823%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11186459%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/823/563823.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "専科 パーフェクトホイップ 120g"
     brand: "資生堂（専科）"
     price: 1597

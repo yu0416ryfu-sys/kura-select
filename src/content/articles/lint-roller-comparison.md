@@ -28,6 +28,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F528254%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10018584%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/web06/e-net_299166.jpg?_ex=128x128"
   - rank: 2
+    name: "3M スコッチ ブライト 衣類用粘着クリーナー ペタコロ用ス"
+    brand: "3M（スコッチ・ブライト）"
+    price: 413
+    capacity: "2巻"
+    pricePerUnit: "約207円/巻"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "花粉・ハウスダストもキャッチする強粘着"
+      - "56周のロングタイプで長持ち"
+      - "ななめカットでスムーズにめくれる"
+    pros:
+      - "微細なホコリまで逃さない強力粘着"
+      - "4巻入りで程よいまとめ買いサイズ"
+      - "世界的ブランドの品質・信頼感"
+    cons:
+      - "粘着が強すぎてフローリングには不向き"
+      - "カーペット以外では使いにくい場面も"
+    recommendedFor: "花粉・ハウスダスト対策をしたい方・カーペット中心のお部屋の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tiz9n.3rdw6353.g00tiz9n.3rdw771a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprotoolshop%2F4547452231119%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprotoolshop%2Fi%2F10170127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/protoolshop/cabinet/119/4547452231119.jpg?_ex=128x128"
+  - rank: 3
     name: "レック 激コロ スゴ技カット スペアテープ 3巻入り"
     brand: "レック"
     price: 790
@@ -49,28 +71,6 @@ products:
     recommendedFor: "ペットを飼っている方・カーペットの掃除が多い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ucoln.3rdw667d.g00ucoln.3rdw71eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenicy2022%2Ff671%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenicy2022%2Fi%2F10009158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enicy2022/cabinet/tmb/f/f671.jpg?_ex=128x128"
-  - rank: 3
-    name: "3M スコッチ ブライト 衣類用粘着クリーナー ペタコロ用ス"
-    brand: "3M（スコッチ・ブライト）"
-    price: 820
-    capacity: "2巻"
-    pricePerUnit: "約410円/巻"
-    rating: 4.5
-    reviewCount: 100
-    features:
-      - "花粉・ハウスダストもキャッチする強粘着"
-      - "56周のロングタイプで長持ち"
-      - "ななめカットでスムーズにめくれる"
-    pros:
-      - "微細なホコリまで逃さない強力粘着"
-      - "4巻入りで程よいまとめ買いサイズ"
-      - "世界的ブランドの品質・信頼感"
-    cons:
-      - "粘着が強すぎてフローリングには不向き"
-      - "カーペット以外では使いにくい場面も"
-    recommendedFor: "花粉・ハウスダスト対策をしたい方・カーペット中心のお部屋の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qj2wn.3rdw69ec.g00qj2wn.3rdw70c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmd%2F4t-2948702%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frcmd%2Fi%2F36179191%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmd/cabinet/4t71/4t-2948702.jpg?_ex=128x128"
   - rank: 4
     name: "ニトムズ コロコロ スペアテープ フロアクリン 3巻入り"
     brand: "ニトムズ"

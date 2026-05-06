@@ -30,11 +30,11 @@ products:
   - rank: 2
     name: "ピジョン ジェル状歯みがき ぷちキッズ ぶどう味【親子で乳歯ケア】"
     brand: "ピジョン"
-    price: 660
+    price: 485
     capacity: "（50g）"
-    pricePerUnit: "約13円/g"
-    rating: 4.78
-    reviewCount: 27
+    pricePerUnit: "約9.7円/g"
+    rating: 4.5
+    reviewCount: 2
     features:
       - "フッ素500ppmで1歳6ヶ月から使える低濃度設計"
       - "食品用原料成分使用で飲み込んでも安心"
@@ -47,8 +47,8 @@ products:
       - "フッ素濃度が低いため効果はおだやか"
       - "容量が少なくコスパはやや劣る"
     recommendedFor: "1歳半〜3歳のお子さま・初めての歯磨き粉に・安全性最重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Ff001269197142%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10024084%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/463/4902508104463.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4902508104463%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10044509%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/83/4902508104463.jpg?_ex=128x128"
   - rank: 3
     name: "ライオン チェックアップ kodomo 歯磨きペースト"
     brand: "ライオン歯科材（チェックアップ）"

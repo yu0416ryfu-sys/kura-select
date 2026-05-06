@@ -29,29 +29,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11279561%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/421/405421.jpg?_ex=128x128"
   - rank: 2
-    name: "あす楽対応 送料無料 数量限定2箱迄花王 アタック 業務用 10kg粉末衣料用洗"
-    brand: "花王（Kao）"
-    price: 5980
-    capacity: "5kg×4袋"
-    pricePerUnit: "約299円/kg"
-    rating: 4.59
-    reviewCount: 32
-    features:
-      - "業務用大容量でコスパ最高クラス"
-      - "高活性酵素「ビックバイオ」配合"
-      - "粉末タイプで高い洗浄力"
-    pros:
-      - "1回あたりのコストが液体洗剤より圧倒的に安い"
-      - "花王の信頼ブランド・強力な洗浄力"
-      - "業務用品質で安定した洗い上がり"
-    cons:
-      - "10kg大容量で保管スペースが必要"
-      - "冷水では粉が溶け残る場合がある"
-      - "個人宅には多すぎる場合も"
-    recommendedFor: "コスト最優先の方・作業着など汚れが多い方・大家族"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rfmln.3rdw63d9.g00rfmln.3rdw7e87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foshibori%2Fbic10_01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foshibori%2Fi%2F10000066%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oshibori/cabinet/02985035/03434691/05647021/imgrc0095645203.jpg?_ex=128x128"
-  - rank: 3
     name: "ボールド 洗濯洗剤 ジェルボール 4in1 詰め替え 65個"
     brand: "P&G（ボールド）"
     price: 4480

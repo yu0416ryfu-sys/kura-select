@@ -72,13 +72,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00udivn.3rdw6f9e.g00udivn.3rdw7dcb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmk-mart2%2Fbright-strong%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmk-mart2%2Fi%2F10000572%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mk-mart2/cabinet/imgrc0130421186.jpg?_ex=128x128"
   - rank: 4
-    name: "洗たく槽クリーナー"
+    name: "洗たく槽クリーナー【2sh24】【シャボン玉石けん】"
     brand: "シャボン玉石けん"
-    price: 1698
-    capacity: "500g×2袋"
-    pricePerUnit: "約1.7円/g"
-    rating: 4.66
-    reviewCount: 845
+    price: 562
+    capacity: "（500g）"
+    pricePerUnit: "約1.1円/g"
+    rating: 4.69
+    reviewCount: 2421
     features:
       - "過炭酸ナトリウム100%の無添加処方"
       - "界面活性剤・香料・着色料不使用"
@@ -91,8 +91,8 @@ products:
       - "界面活性剤がない分、洗浄力はやや控えめ"
       - "お湯で溶かさないと効果が弱い"
     recommendedFor: "無添加志向の方・赤ちゃんがいる家庭・環境配慮派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qnb0n.3rdw67eb.g00qnb0n.3rdw74f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fichikawa929%2Fshabon_c2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fichikawa929%2Fi%2F10000207%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ichikawa929/cabinet/resetter/200.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fr001200200154%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10203982%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/033/4901797100033.jpg?_ex=128x128"
 tags:
   - "漂白剤"
   - "コスパ"

@@ -77,8 +77,8 @@ products:
     price: 4700
     capacity: "810g×10個"
     pricePerUnit: "約0.58円/g"
-    rating: 4.88
-    reviewCount: 101
+    rating: 4.87
+    reviewCount: 102
     features:
       - "除菌成分配合で部屋干し臭を元からカット"
       - "詰め替え用タイプの手軽な洗浄力"

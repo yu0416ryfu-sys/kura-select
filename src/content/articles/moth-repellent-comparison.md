@@ -53,8 +53,8 @@ products:
     name: "ムシューダ クローゼット用 衣類用 防虫剤 防カビ剤配合 無香タイプ 1年間有効"
     brand: "エステー（ムシューダ）"
     price: 1628
-    capacity: "3個"
-    pricePerUnit: "約543円/個"
+    capacity: "3個×2"
+    pricePerUnit: "約271円/個"
     rating: 4.73
     reviewCount: 124
     features:
@@ -72,11 +72,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65240%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902781%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/240/65240.jpg?_ex=128x128"
   - rank: 4
-    name: "【5個セット】 金鳥 蚊に効く 虫コナーズ プレミアム プレ"
+    name: "【5個セット】 大日本除虫菊 金鳥 蚊に効く 虫コナーズプレ"
     brand: "フマキラー（ムシコナーズ）"
-    price: 5754
-    capacity: "5個"
-    pricePerUnit: "約1151円/個"
+    price: 6584
+    capacity: "（1個）"
+    pricePerUnit: "約6584円/個"
     rating: 4.3
     reviewCount: 300
     features:
@@ -91,8 +91,8 @@ products:
       - "1個単価は4製品中最も高め"
       - "12個入のため大量購入時は費用がかさむ"
     recommendedFor: "高品質な衣類・コートをしっかり守りたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4o6n.3rdw655e.g00s4o6n.3rdw773a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2Fdk-4987115545182_5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F11022829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ulmaxjapan2/cabinet/zg122/4987115545182.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r9icn.3rdw664a.g00r9icn.3rdw7660/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbloomgreen%2F8111242%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbloomgreen%2Fi%2F10498570%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bloomgreen/cabinet/bg10187334/4987115550025.jpg?_ex=128x128"
 tags:
   - "衣類防虫剤 おすすめ"
   - "防虫剤 コスパ"

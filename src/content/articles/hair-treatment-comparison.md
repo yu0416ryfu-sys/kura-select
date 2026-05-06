@@ -30,9 +30,9 @@ products:
   - rank: 2
     name: "LUXスーパーリッチシャイン ダメージリペア 洗い流すトリートメント ヘアマスク"
     brand: "ユニリーバ（LUX）"
-    price: 1054
+    price: 2377
     capacity: "150g"
-    pricePerUnit: "約7.0円/g"
+    pricePerUnit: "約16円/g"
     rating: 5
     reviewCount: 1
     features:
@@ -47,8 +47,8 @@ products:
       - "フィーノと比べると集中補修力は控えめ"
       - "ダメージがひどい場合は物足りないこともある"
     recommendedFor: "毎日のケアとしてコスパよく続けたい方・香りを楽しみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5nyn.3rdw649e.g00u5nyn.3rdw7766/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnrfonline%2Fnrf233cc32747%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnrfonline%2Fi%2F10131847%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nrfonline/cabinet/onesell008/nrf233cc32747_0.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prvmn.3rdw683e.g00prvmn.3rdw7a5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwich%2Fluxhairmaskset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwich%2Fi%2F10023186%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wich/cabinet/gazou62/luxhairmaskset-1.jpg?_ex=128x128"
   - rank: 3
     name: "いち髪 ヘアマスク 200g"
     brand: "クラシエ（いち髪）"

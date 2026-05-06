@@ -50,13 +50,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F426722%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10000829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/426722.jpg?_ex=128x128"
   - rank: 3
-    name: "洗たく槽クリーナー"
+    name: "洗たく槽クリーナー【2sh24】【シャボン玉石けん】"
     brand: "シャボン玉石けん"
-    price: 1698
-    capacity: "500g×2袋"
-    pricePerUnit: "約1.7円/g"
-    rating: 4.66
-    reviewCount: 845
+    price: 562
+    capacity: "（500g）"
+    pricePerUnit: "約1.1円/g"
+    rating: 4.69
+    reviewCount: 2421
     features:
       - "酸素系で金属・色物にも使いやすい"
       - "無添加処方で安全性が高い"
@@ -69,8 +69,8 @@ products:
       - "塩素系と比べると漂白・除菌力は劣る"
       - "頑固な黄ばみ・カビには効果が薄い場合がある"
     recommendedFor: "金属・色物の食器にも使いたい方・環境配慮型を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qnb0n.3rdw67eb.g00qnb0n.3rdw74f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fichikawa929%2Fshabon_c2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fichikawa929%2Fi%2F10000207%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ichikawa929/cabinet/resetter/200.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fr001200200154%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10203982%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/033/4901797100033.jpg?_ex=128x128"
   - rank: 4
     name: "オキシクリーン マルチパーパスクリーナー 1360g"
     brand: "グラフィコ（OxiClean）"

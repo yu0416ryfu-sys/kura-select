@@ -6,6 +6,72 @@ publishedAt: "2024-11-01"
 updatedAt: 2026-05-06
 products:
   - rank: 1
+    name: "ネピア おしりセレブ ダブル"
+    brand: "王子ネピア（ネピア）"
+    price: 598
+    capacity: "40m×4ロール×20セット（1ケース）"
+    pricePerUnit: "約0.19円/m"
+    rating: 4.82
+    reviewCount: 157
+    features:
+      - "トリートメント配合で肌に優しい"
+      - "長めシート設計で少量でも十分"
+      - "丈夫で破れにくい構造"
+    pros:
+      - "敏感肌でも使いやすい柔らかな肌触り"
+      - "伸びが良く破れにくいと評判"
+      - "ケース購入でコスパが向上"
+    cons:
+      - "通常トイレットペーパーより高価格帯"
+      - "ケース単位（80ロール）での購入が必要"
+    recommendedFor: "肌の敏感な方・シャワートイレ使用者・品質最優先の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quq9n.3rdw60c1.g00quq9n.3rdw73f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-hachidai%2F888779%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-hachidai%2Fi%2F10539450%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-hachidai/cabinet/1/gazou4/imgrc0095878725.jpg?_ex=128x128"
+  - rank: 2
+    name: "【最安値に挑戦中！】 トイレットペーパー シングル 業務用 ワンタッチ"
+    brand: "コアレックス（CORELEX）"
+    price: 4980
+    capacity: "150m×48ロール"
+    pricePerUnit: "約0.69円/m"
+    rating: 4.74
+    reviewCount: 54
+    features:
+      - "芯なし設計でゴミが出ない環境配慮型"
+      - "130m超長尺でトップクラスの長持ち"
+      - "国産・再生紙使用で環境に優しい"
+    pros:
+      - "130mの超長尺で交換頻度が激減"
+      - "芯なしでゴミが減り環境に優しい"
+      - "60ロール大容量でコスパが高い"
+    cons:
+      - "芯なしのためロール終盤が使いにくい場合がある"
+      - "大容量のため保管スペースが必要"
+    recommendedFor: "交換の手間を最小化したい方・環境意識が高い方・大容量まとめ買い派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ttjtn.3rdw6711.g00ttjtn.3rdw7380/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcorelex%2Fgyoumuonetouchcoreress150ms6r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcorelex%2Fi%2F10000051%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/corelex/cabinet/toilet/10585247/gyoum1tchcoress150-1.jpg?_ex=128x128"
+  - rank: 3
+    name: "スコッティ フラワーパック 2倍長持ち トイレットペーパー シングル【スコッティ"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 1345
+    capacity: "100m×12"
+    pricePerUnit: "約1.1円/m"
+    rating: 4.61
+    reviewCount: 411
+    features:
+      - "2倍巻き長尺シングル・花の香り付き"
+      - "48ロールの大容量まとめ買いパック"
+      - "省スペース設計で収納しやすい"
+    pros:
+      - "1mあたりコストが最安値クラス"
+      - "まとめ買いで長期間保管できる"
+      - "スコッティブランドで品質安定"
+    cons:
+      - "保管スペースが必要"
+      - "個人宅には多すぎる場合も"
+    recommendedFor: "大家族・まとめ買い派の方・コスト最優先の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fx255560h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10205326%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/106/4901750153106.jpg?_ex=128x128"
+  - rank: 4
     name: "再生紙トイレットペーパー ダブル 27.5m×96ロール（1パック12ロール）"
     brand: "無地・無印刷（エコ仕様）"
     price: 580
@@ -28,34 +94,12 @@ products:
     recommendedFor: "環境を意識しつつコスパも重視したい方・まとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902727015670-today202411%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12619846%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2024w/4902727015670.jpg?_ex=128x128"
-  - rank: 2
-    name: "ネピア おしりセレブ ダブル"
-    brand: "王子ネピア（ネピア）"
-    price: 598
-    capacity: "40m×4ロール×20セット（1ケース）"
-    pricePerUnit: "約3.7円/m"
-    rating: 4.82
-    reviewCount: 157
-    features:
-      - "トリートメント配合で肌に優しい"
-      - "長めシート設計で少量でも十分"
-      - "丈夫で破れにくい構造"
-    pros:
-      - "敏感肌でも使いやすい柔らかな肌触り"
-      - "伸びが良く破れにくいと評判"
-      - "ケース購入でコスパが向上"
-    cons:
-      - "通常トイレットペーパーより高価格帯"
-      - "ケース単位（80ロール）での購入が必要"
-    recommendedFor: "肌の敏感な方・シャワートイレ使用者・品質最優先の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quq9n.3rdw60c1.g00quq9n.3rdw73f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-hachidai%2F888779%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-hachidai%2Fi%2F10539450%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-hachidai/cabinet/1/gazou4/imgrc0095878725.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 5
     name: "スコッティ フラワーパック 3倍長持ち ダブル"
     brand: "日本製紙クレシア（スコッティ）"
     price: 5980
     capacity: "75m×4ロール×12パック（3倍巻き）"
-    pricePerUnit: "約20円/m"
+    pricePerUnit: "約1.7円/m"
     rating: 4.76
     reviewCount: 882
     features:
@@ -72,7 +116,29 @@ products:
     recommendedFor: "交換頻度を減らしたい方・まとめ買い派・コスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7165192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077532%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7165192.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 6
+    name: "大王製紙　エリエール　i：naトイレットティシュー　シングル　芯あり"
+    brand: "大王製紙（エリエール）"
+    price: 1193
+    capacity: "100m"
+    pricePerUnit: "約12円/m"
+    rating: 4.78
+    reviewCount: 50
+    features:
+      - "柔らかさと強度を両立したダブルタイプ"
+      - "2倍巻きで長持ち・交換頻度が半減"
+      - "パルプ100%使用で安心素材"
+    pros:
+      - "エリエールブランドの柔らかな肌触り"
+      - "2倍巻きで交換の手間が半減"
+      - "6個セット購入でコスパが向上"
+    cons:
+      - "通常シングルと比べてコストが高め"
+      - "6個セット購入のため保管スペースが必要"
+    recommendedFor: "柔らかさと長持ちを両立したい方・ファミリー世帯"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F369-3195%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10102400%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin300_05/369-3195.jpg?_ex=128x128"
+  - rank: 7
     name: "エリエール トイレットティシュー ダブル 12ロール"
     brand: "大王製紙（エリエール）"
     price: 6383
@@ -94,36 +160,14 @@ products:
     recommendedFor: "肌触りを重視する方・ファミリー向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F14495%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10678469%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/495/14495.jpg?_ex=128x128"
-  - rank: 5
-    name: "【最安値に挑戦中！】 トイレットペーパー シングル 業務用 ワンタッチ"
-    brand: "コアレックス（CORELEX）"
-    price: 4980
-    capacity: "150m"
-    pricePerUnit: "約33円/m"
-    rating: 4.74
-    reviewCount: 54
-    features:
-      - "芯なし設計でゴミが出ない環境配慮型"
-      - "130m超長尺でトップクラスの長持ち"
-      - "国産・再生紙使用で環境に優しい"
-    pros:
-      - "130mの超長尺で交換頻度が激減"
-      - "芯なしでゴミが減り環境に優しい"
-      - "60ロール大容量でコスパが高い"
-    cons:
-      - "芯なしのためロール終盤が使いにくい場合がある"
-      - "大容量のため保管スペースが必要"
-    recommendedFor: "交換の手間を最小化したい方・環境意識が高い方・大容量まとめ買い派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ttjtn.3rdw6711.g00ttjtn.3rdw7380/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcorelex%2Fgyoumuonetouchcoreress150ms6r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcorelex%2Fi%2F10000051%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/corelex/cabinet/toilet/10585247/gyoum1tchcoress150-1.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 8
     name: "≪ポイント5倍★7日9:59迄≫ 【48ロール】トイレットペーパー 2倍巻 シン"
     brand: "アイリスオーヤマ×日本製紙クレシア"
-    price: 3680
+    price: 4480
     capacity: "100m"
-    pricePerUnit: "約37円/m"
-    rating: 4.91
-    reviewCount: 11
+    pricePerUnit: "約45円/m"
+    rating: 4.69
+    reviewCount: 86
     features:
       - "アイリスオーヤマ×日本製紙クレシアの共同開発"
       - "2倍巻きで長持ち・省スペース"
@@ -136,31 +180,9 @@ products:
       - "標準芯より径が大きいためホルダーを選ぶ場合がある"
       - "ダブルと比べるとやや薄め"
     recommendedFor: "コスト重視の方・一人暮らし・まとめ買い派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7267324%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10220230%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya113/7267324.jpg?_ex=128x128"
-  - rank: 7
-    name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
-    brand: "日本製紙クレシア（スコッティ）"
-    price: 4799
-    capacity: "100m"
-    pricePerUnit: "約48円/m"
-    rating: 4.66
-    reviewCount: 389
-    features:
-      - "2倍巻き長尺シングル・花の香り付き"
-      - "48ロールの大容量まとめ買いパック"
-      - "省スペース設計で収納しやすい"
-    pros:
-      - "1mあたりコストが最安値クラス"
-      - "まとめ買いで長期間保管できる"
-      - "スコッティブランドで品質安定"
-    cons:
-      - "保管スペースが必要"
-      - "個人宅には多すぎる場合も"
-    recommendedFor: "大家族・まとめ買い派の方・コスト最優先の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fxh277%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10020157%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/008/main-xh277.jpg?_ex=128x128"
-  - rank: 8
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7169099%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10195911%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasyakura/7169099.jpg?_ex=128x128"
+  - rank: 9
     name: "ハロー トイレットペーパー ダブル 2倍巻き"
     brand: "ハロー"
     price: 6210
@@ -182,28 +204,6 @@ products:
     recommendedFor: "品質と環境配慮を両立したい方・業務用にも使えるまとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4580287284745%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11346354%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/745/4580287284745.jpg?_ex=128x128"
-  - rank: 9
-    name: "エリエール i:na イーナ トイレットペーパー 華やぐフローラルの香り"
-    brand: "大王製紙（エリエール）"
-    price: 8500
-    capacity: "50m"
-    pricePerUnit: "約170円/m"
-    rating: 5
-    reviewCount: 5
-    features:
-      - "柔らかさと強度を両立したダブルタイプ"
-      - "2倍巻きで長持ち・交換頻度が半減"
-      - "パルプ100%使用で安心素材"
-    pros:
-      - "エリエールブランドの柔らかな肌触り"
-      - "2倍巻きで交換の手間が半減"
-      - "6個セット購入でコスパが向上"
-    cons:
-      - "通常シングルと比べてコストが高め"
-      - "6個セット購入のため保管スペースが必要"
-    recommendedFor: "柔らかさと長持ちを両立したい方・ファミリー世帯"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Ftoiletpaper170%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10001166%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item4/toiletpaper170-a1.jpg?_ex=128x128"
 tags:
   - "トイレットペーパー"
   - "コスパ"

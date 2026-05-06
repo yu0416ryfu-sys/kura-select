@@ -6,6 +6,28 @@ publishedAt: "2026-05-03"
 updatedAt: 2026-05-06
 products:
   - rank: 1
+    name: "【50枚入×2箱セット】大王製紙 大王製紙 エリエール サー"
+    brand: "大王製紙（エリエール）"
+    price: 2600
+    capacity: "50枚×2"
+    pricePerUnit: "約26円/枚"
+    rating: 4.71
+    reviewCount: 168
+    features:
+      - "高密度エレクトレット不織布でウイルス飛沫・花粉をブロック"
+      - "肌に触れる内側に柔らかな素材を使用"
+      - "ノーズフィット付きで鼻まわりのすき間を防ぐ"
+    pros:
+      - "エリエールのハイスペックラインで高いフィルタリング性能"
+      - "呼吸のしやすさと防護性のバランスが優れている"
+      - "大王製紙ブランドで品質が安定している"
+    cons:
+      - "1枚単価はやや高め"
+      - "プリーツタイプで立体感はやや少ない"
+    recommendedFor: "ウイルス・花粉対策を重視する方・高機能マスクを試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00trvxn.3rdw692d.g00trvxn.3rdw77c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frunnrunn-shop%2Fdaiomask-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frunnrunn-shop%2Fi%2F10000121%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/runnrunn-shop/cabinet/10802269/imgrc0107306132.jpg?_ex=128x128"
+  - rank: 2
     name: "【夜の市★合算2千円超で送料無料対象】【数量限定】白元アース ビースタイル 立体"
     brand: "白元アース"
     price: 840
@@ -27,7 +49,7 @@ products:
     recommendedFor: "立体型の着用感を好む方・息苦しさを感じやすい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902407581938-yoru202410%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12617577%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/d/4902407581938.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 3
     name: "ユニ・チャーム 超快適マスク プリーツタイプ ふつうサイズ 50枚入"
     brand: "ユニ・チャーム"
     price: 2260
@@ -49,7 +71,7 @@ products:
     recommendedFor: "肌へのやさしさと着用感を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugwon.3rdw61af.g00ugwon.3rdw786a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fechi-zen-r%2Fcho-kaiteki-mask-m-50-1pc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fechi-zen-r%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/echi-zen-r/cabinet/biiino/item/main-image/20240213101506_1.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "【1点限り！令和お試し価格】アイリスオーヤマ ナノエアーマスク"
     brand: "アイリスオーヤマ"
     price: 320
@@ -71,28 +93,6 @@ products:
     recommendedFor: "コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4967576481694-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12363072%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2021b/4967576481694.jpg?_ex=128x128"
-  - rank: 4
-    name: "【50枚入×2箱セット】大王製紙 大王製紙 エリエール サー"
-    brand: "大王製紙（エリエール）"
-    price: 2600
-    capacity: "50枚"
-    pricePerUnit: "約52円/枚"
-    rating: 4.71
-    reviewCount: 168
-    features:
-      - "高密度エレクトレット不織布でウイルス飛沫・花粉をブロック"
-      - "肌に触れる内側に柔らかな素材を使用"
-      - "ノーズフィット付きで鼻まわりのすき間を防ぐ"
-    pros:
-      - "エリエールのハイスペックラインで高いフィルタリング性能"
-      - "呼吸のしやすさと防護性のバランスが優れている"
-      - "大王製紙ブランドで品質が安定している"
-    cons:
-      - "1枚単価はやや高め"
-      - "プリーツタイプで立体感はやや少ない"
-    recommendedFor: "ウイルス・花粉対策を重視する方・高機能マスクを試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00trvxn.3rdw692d.g00trvxn.3rdw77c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frunnrunn-shop%2Fdaiomask-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frunnrunn-shop%2Fi%2F10000121%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/runnrunn-shop/cabinet/10802269/imgrc0107306132.jpg?_ex=128x128"
 tags:
   - "使い捨てマスク おすすめ"
   - "不織布マスク コスパ"
