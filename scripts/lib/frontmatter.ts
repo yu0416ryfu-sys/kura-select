@@ -1,19 +1,43 @@
 // フロントマター解析・更新ユーティリティ
+import yaml from 'js-yaml';
+
+// フロントマターを YAML としてパースし、data と body に分割する
+function parseFrontmatter(content: string): { data: Record<string, unknown>; body: string } | null {
+  const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---([\s\S]*)$/);
+  if (!match) return null;
+  try {
+    const data = (yaml.load(match[1], { schema: yaml.JSON_SCHEMA }) as Record<string, unknown>) ?? {};
+    return { data, body: match[2] };
+  } catch (e) {
+    console.warn('YAML parse failed:', (e as Error).message);
+    return null;
+  }
+}
+
+// data を YAML に変換して Markdown フロントマターとして組み立てる
+function dumpFrontmatter(data: Record<string, unknown>, body: string): string {
+  const fm = yaml.dump(data, {
+    indent: 2,
+    lineWidth: -1,
+    quotingType: '"',
+    forceQuotes: true,
+    noRefs: true,
+    noCompatMode: true,
+    schema: yaml.JSON_SCHEMA,
+    sortKeys: false,
+  });
+  return '---\n' + fm.trimEnd() + '\n---' + body;
+}
 
 /**
  * Markdownファイルのフロントマターから products 配列の name を抽出する
  */
 export function extractProductNames(content: string): string[] {
-  const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
-  if (!match) return [];
-
-  const names: string[] = [];
-  const nameRe = /^    name:\s*"(.+?)"\r?$/gm;
-  let m: RegExpExecArray | null;
-  while ((m = nameRe.exec(match[1])) !== null) {
-    names.push(m[1]);
-  }
-  return names;
+  const parsed = parseFrontmatter(content);
+  if (!parsed) return [];
+  const products = parsed.data.products;
+  if (!Array.isArray(products)) return [];
+  return products.map((p: unknown) => (p as { name: string }).name).filter(Boolean);
 }
 
 /**
@@ -57,89 +81,34 @@ export function updateProductInFrontmatter(
   productName: string,
   updates: ProductUpdates
 ): string {
-  const fmMatch = content.match(/^(---\r?\n)([\s\S]*?)(\r?\n---)/);
-  if (!fmMatch) return content;
+  const parsed = parseFrontmatter(content);
+  if (!parsed || !Array.isArray(parsed.data.products)) return content;
 
-  const prefix = fmMatch[1];
-  let fm = fmMatch[2];
-  const suffix = fmMatch[3];
-  const rest = content.slice(prefix.length + fm.length + suffix.length);
+  type P = Record<string, unknown>;
+  const product = (parsed.data.products as P[]).find(p => p.name === productName);
+  if (!product) return content;
 
-  const nameIdx = fm.indexOf(`    name: "${productName}"`);
-  if (nameIdx === -1) {
-    return content;
-  }
+  if (updates.price !== null)        product.price = updates.price;
+  if (updates.rating !== null)       product.rating = updates.rating;
+  if (updates.reviewCount !== null)  product.reviewCount = updates.reviewCount;
+  if (updates.affiliateUrl)          product.rakutenUrl = updates.affiliateUrl;
+  if (updates.imageUrl)              product.imageUrl = updates.imageUrl;
+  if (updates.pricePerUnit != null)  product.pricePerUnit = updates.pricePerUnit;
+  if (updates.newName)               product.name = updates.newName;
+  if (updates.newCapacity)           product.capacity = updates.newCapacity;
 
-  const blockStart = fm.lastIndexOf("  - rank:", nameIdx);
-  if (blockStart === -1) return content;
-
-  const nextBlockIdx = fm.indexOf("  - rank:", blockStart + 1);
-  const blockEnd = nextBlockIdx === -1 ? fm.length : nextBlockIdx;
-
-  let block = fm.slice(blockStart, blockEnd);
-
-  if (updates.price !== null) {
-    block = block.replace(/^    price: .+$/m, `    price: ${updates.price}`);
-  }
-  if (updates.rating !== null) {
-    block = block.replace(/^    rating: .+$/m, `    rating: ${updates.rating}`);
-  }
-  if (updates.reviewCount !== null) {
-    block = block.replace(
-      /^    reviewCount: .+$/m,
-      `    reviewCount: ${updates.reviewCount}`
-    );
-  }
-  if (updates.affiliateUrl) {
-    block = block.replace(
-      /^    rakutenUrl: ".+"$/m,
-      `    rakutenUrl: "${updates.affiliateUrl}"`
-    );
-  }
-  if (updates.imageUrl) {
-    block = block.replace(
-      /^    imageUrl: ".*"$/m,
-      `    imageUrl: "${updates.imageUrl}"`
-    );
-  }
-  if (updates.pricePerUnit != null) {
-    block = block.replace(
-      /^    pricePerUnit: ".+"$/m,
-      `    pricePerUnit: "${updates.pricePerUnit}"`
-    );
-  }
-  // name/capacity は他フィールドより後に処理（ブロック特定は旧名で済んでいる）
-  if (updates.newName) {
-    block = block.replace(/^    name: ".+"$/m, `    name: "${updates.newName}"`);
-  }
-  if (updates.newCapacity) {
-    block = block.replace(/^    capacity: ".+"$/m, `    capacity: "${updates.newCapacity}"`);
-  }
-
-  fm = fm.slice(0, blockStart) + block + fm.slice(blockEnd);
-  return prefix + fm + suffix + rest;
+  return dumpFrontmatter(parsed.data, parsed.body);
 }
 
 /**
  * フロントマター内の特定商品の capacity フィールドの値を取得する
  */
 export function extractProductCapacity(content: string, productName: string): string | null {
-  const fmMatch = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
-  if (!fmMatch) return null;
-
-  const fm = fmMatch[1];
-  const nameIdx = fm.indexOf(`    name: "${productName}"`);
-  if (nameIdx === -1) return null;
-
-  const blockStart = fm.lastIndexOf("  - rank:", nameIdx);
-  if (blockStart === -1) return null;
-
-  const nextBlockIdx = fm.indexOf("  - rank:", blockStart + 1);
-  const blockEnd = nextBlockIdx === -1 ? fm.length : nextBlockIdx;
-  const block = fm.slice(blockStart, blockEnd);
-
-  const m = block.match(/^    capacity:\s*"(.+?)"$/m);
-  return m ? m[1] : null;
+  const parsed = parseFrontmatter(content);
+  if (!parsed || !Array.isArray(parsed.data.products)) return null;
+  const product = (parsed.data.products as Array<{ name: string; capacity?: string }>)
+    .find(p => p.name === productName);
+  return product?.capacity ?? null;
 }
 
 const CAPACITY_UNITS = 'mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒';
@@ -240,45 +209,19 @@ export function extractCapacityFromItemName(itemName: string): string | null {
  * 最後の1商品の場合は削除せず null を返す。
  */
 export function removeProductFromFrontmatter(content: string, productName: string): string | null {
-  const fmMatch = content.match(/^(---\r?\n)([\s\S]*?)(\r?\n---)/);
-  if (!fmMatch) return null;
+  const parsed = parseFrontmatter(content);
+  if (!parsed || !Array.isArray(parsed.data.products)) return null;
 
-  const prefix = fmMatch[1];
-  let fm = fmMatch[2];
-  const suffix = fmMatch[3];
-  const rest = content.slice(prefix.length + fm.length + suffix.length);
+  type P = Record<string, unknown>;
+  const products = parsed.data.products as P[];
+  if (products.length <= 1) return null;
 
-  // 最後の1商品は削除しない
-  const rankCount = (fm.match(/^  - rank:/gm) ?? []).length;
-  if (rankCount <= 1) return null;
+  const idx = products.findIndex(p => p.name === productName);
+  if (idx === -1) return null;
 
-  const nameIdx = fm.indexOf(`    name: "${productName}"`);
-  if (nameIdx === -1) return null;
-
-  const blockStart = fm.lastIndexOf('  - rank:', nameIdx);
-  if (blockStart === -1) return null;
-
-  const nextBlockIdx = fm.indexOf('  - rank:', blockStart + 1);
-  const blockEnd = nextBlockIdx === -1 ? fm.length : nextBlockIdx;
-
-  // ブロックを除去
-  fm = fm.slice(0, blockStart) + fm.slice(blockEnd);
-
-  // rank を 1 から振り直す（split + 再組み立て方式）
-  const sep = '  - rank:';
-  const firstSepIdx = fm.indexOf(sep);
-  if (firstSepIdx !== -1) {
-    const preProducts = fm.slice(0, firstSepIdx);
-    const productBlocks = fm.slice(firstSepIdx).split(sep).slice(1);
-    const renumbered = productBlocks.map((block, i) => {
-      const nlIdx = block.indexOf('\n');
-      const restOfBlock = nlIdx !== -1 ? block.slice(nlIdx) : block;
-      return `${sep} ${i + 1}${restOfBlock}`;
-    }).join('');
-    fm = preProducts + renumbered;
-  }
-
-  return prefix + fm + suffix + rest;
+  products.splice(idx, 1);
+  products.forEach((p, i) => { p.rank = i + 1; });
+  return dumpFrontmatter(parsed.data, parsed.body);
 }
 
 /**
@@ -303,37 +246,24 @@ export function updateUpdatedAt(content: string, date: string): string {
 export function reorderProductsByPricePerUnit(
   content: string
 ): { content: string; changed: boolean; log: string[] } {
-  const fmMatch = content.match(/^(---\r?\n)([\s\S]*?)(\r?\n---)/);
-  if (!fmMatch) return { content, changed: false, log: [] };
+  const parsed = parseFrontmatter(content);
+  if (!parsed || !Array.isArray(parsed.data.products)) return { content, changed: false, log: [] };
 
-  const prefix = fmMatch[1];
-  let fm = fmMatch[2];
-  const suffix = fmMatch[3];
-  const rest = content.slice(prefix.length + fm.length + suffix.length);
+  type P = Record<string, unknown>;
+  const products = parsed.data.products as P[];
+  if (products.length <= 1) return { content, changed: false, log: [] };
 
-  const sep = '  - rank:';
-  const sepIdx = fm.indexOf(sep);
-  if (sepIdx === -1) return { content, changed: false, log: [] };
-
-  const preProducts = fm.slice(0, sepIdx);
-  const productBlocks = fm.slice(sepIdx).split(sep).slice(1); // parts[0]="" を除去
-
-  if (productBlocks.length <= 1) return { content, changed: false, log: [] };
-
-  const ppuRe = /^\s*pricePerUnit:\s*"約?([\d.]+)円\/(.+?)"$/m;
-  const nameRe = /^\s*name:\s*"(.+?)"$/m;
-
-  const blockInfos = productBlocks.map((block) => {
-    const ppuMatch = block.match(ppuRe);
-    const nameMatch = block.match(nameRe);
-    let ppuValue = Infinity;
-    let unit = '';
-    if (ppuMatch) {
-      ppuValue = parseFloat(ppuMatch[1]);
-      if (isNaN(ppuValue) || ppuValue === 0) ppuValue = Infinity;
-      unit = ppuMatch[2];
-    }
-    return { rawBlock: block, ppuValue, unit, name: nameMatch?.[1] ?? '' };
+  const ppuRe = /約?([\d.]+)円\/(.+)/;
+  const blockInfos = products.map((p, origIdx) => {
+    const ppu = typeof p.pricePerUnit === 'string' ? p.pricePerUnit.match(ppuRe) : null;
+    const ppuValue = ppu ? parseFloat(ppu[1]) : Infinity;
+    return {
+      product: p,
+      ppuValue: isNaN(ppuValue) || ppuValue === 0 ? Infinity : ppuValue,
+      unit: ppu?.[2] ?? '',
+      origIdx,
+      name: String(p.name ?? ''),
+    };
   });
 
   const validBlocks = blockInfos.filter(b => b.ppuValue !== Infinity);
@@ -345,19 +275,14 @@ export function reorderProductsByPricePerUnit(
   }
 
   const sorted = [...blockInfos].sort((a, b) => a.ppuValue - b.ppuValue);
-  if (sorted.every((b, i) => b === blockInfos[i])) return { content, changed: false, log: [] };
+  const changed = sorted.some((b, i) => b.origIdx !== blockInfos[i].origIdx);
+  if (!changed) return { content, changed: false, log: [] };
 
   const log: string[] = [];
-  const newProductsSection = sorted.map((b, newIdx) => {
-    const oldIdx = blockInfos.indexOf(b);
-    const nlIdx = b.rawBlock.indexOf('\n');
-    const restOfBlock = nlIdx !== -1 ? b.rawBlock.slice(nlIdx) : b.rawBlock;
-    if (oldIdx !== newIdx) {
-      log.push(`rank ${oldIdx + 1} → rank ${newIdx + 1}: ${b.name}`);
-    }
-    return `${sep} ${newIdx + 1}${restOfBlock}`;
-  }).join('');
-
-  fm = preProducts + newProductsSection;
-  return { content: prefix + fm + suffix + rest, changed: true, log };
+  sorted.forEach((b, newIdx) => {
+    b.product.rank = newIdx + 1;
+    if (b.origIdx !== newIdx) log.push(`rank ${b.origIdx + 1} → rank ${newIdx + 1}: ${b.name}`);
+  });
+  parsed.data.products = sorted.map(b => b.product);
+  return { content: dumpFrontmatter(parsed.data, parsed.body), changed: true, log };
 }
