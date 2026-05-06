@@ -1,85 +1,16 @@
 ---
 title: "フローリングシート コスパ最強ランキング【2026年版】1枚あたり最安で比較"
 description: "フローリング掃除シートを1枚あたりのコストで徹底比較。クイックルワイパー・ウェーブ・アイリスオーヤマ・ファブリーズなど人気4選を清潔力・コスパで解説します。"
-category: floor-cleaner
-publishedAt: 2026-05-03
-updatedAt: 2026-05-03
+category: "floor-cleaner"
+publishedAt: "2026-05-03"
+updatedAt: 2026-05-06
 products:
   - rank: 1
-    name: "アイリスオーヤマ フロアワイパーシート ウェットタイプ 80枚入"
-    brand: "アイリスオーヤマ"
-    price: 298
-    capacity: "80枚入"
-    pricePerUnit: "約3.7円/枚"
-    rating: 3.76
-    reviewCount: 25
-    features:
-      - "80枚入の大容量でまとめ買いに最適"
-      - "一般的なフロアワイパーに対応する規格サイズ"
-      - "シートが厚手で拭き取り面積が広い"
-    pros:
-      - "1枚約9円と最もコスパが良い"
-      - "80枚で2〜3ヶ月分をまとめ買い可能"
-      - "クイックルワイパー・ウェーブなど主要ワイパーに対応"
-    cons:
-      - "香り付きタイプの選択肢が少ない"
-      - "プレミアム品と比べると薄手"
-    recommendedFor: "コスパ最優先で毎日掃除したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3ztn.3rdw6b30.g00t3ztn.3rdw7dc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F205995%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10158683%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/10172579/imgrc0107615257.jpg?_ex=128x128"
-
-  - rank: 2
-    name: "ユニ・チャーム ウェーブ 吸着ウェットシート 36枚入"
-    brand: "ユニ・チャーム（ウェーブ）"
-    price: 777
-    capacity: "36枚入"
-    pricePerUnit: "約22円/枚"
-    rating: 4.4
-    reviewCount: 500
-    features:
-      - "静電気で細かいホコリ・花粉を吸着するウェーブ構造"
-      - "たっぷりの洗浄液でしつこい汚れもしっかり拭き取れる"
-      - "ウェーブ専用ワイパーと組み合わせると効果最大"
-    pros:
-      - "吸着性が高く一度拭くだけで細かいホコリが取れる"
-      - "コスパと清潔力のバランスが良い"
-      - "36枚入でコンパクトに収納できる"
-    cons:
-      - "大容量タイプと比べると割高"
-      - "ウェーブ専用ワイパーでないと吸着性能が十分に発揮されない場合がある"
-    recommendedFor: "ホコリ・花粉対策を重視する方・毎日の掃除習慣をつけたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00srsfn.3rdw61f5.g00srsfn.3rdw7376/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstacon%2F4903111466115%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstacon%2Fi%2F10054037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/stacon/cabinet/2022-0921/4903111466115_1.jpg?_ex=128x128"
-
-  - rank: 3
-    name: "花王 クイックルワイパー 立体吸着ウェットシート 30枚入"
-    brand: "花王（クイックルワイパー）"
-    price: 599
-    capacity: "30枚入"
-    pricePerUnit: "約20円/枚"
-    rating: 4.68
-    reviewCount: 25
-    features:
-      - "立体吸着繊維が床のすき間まで細かい汚れを絡め取る"
-      - "除菌・消臭成分配合で清潔な床を維持"
-      - "花王の技術による高い拭き取り性能"
-    pros:
-      - "フローリングシートの定番で圧倒的な品質と評価"
-      - "除菌成分配合で赤ちゃんやペットがいる家庭でも安心"
-      - "1枚で広い範囲をすっきり拭き取れる"
-    cons:
-      - "30枚入でコスパは他製品に劣る"
-      - "1枚単価が高めのため、毎日使うとコストがかさむ"
-    recommendedFor: "拭き取り品質を重視する方・除菌ケアをしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10006153%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10006153%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin63/4901301327826.jpg?_ex=128x128"
-
-  - rank: 4
-    name: "レック 激落ち 除菌 床用ウェットシート 30枚入"
+    name: "激落ちくん ウェットシート 水の激落ちシート Ba フローリング＆リビング用シー"
     brand: "レック（激落ちくん）"
     price: 148
-    capacity: "30枚入"
-    pricePerUnit: "約4.9円/枚"
+    capacity: "20枚"
+    pricePerUnit: "約7.4円/枚"
     rating: 4
     reviewCount: 5
     features:
@@ -96,7 +27,72 @@ products:
     recommendedFor: "除菌ケアをしつつコスパも重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2jfn.3rdw67d5.g00s2jfn.3rdw75cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcolorfulbox%2F4903320481701%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcolorfulbox%2Fi%2F10010893%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/colorfulbox/cabinet/maker_lec5/4903320481701.jpg?_ex=128x128"
-
+  - rank: 2
+    name: "【20枚/40枚】【スターターセット】フローリングワイパー用"
+    brand: "アイリスオーヤマ"
+    price: 298
+    capacity: "20枚"
+    pricePerUnit: "約15円/枚"
+    rating: 3.76
+    reviewCount: 25
+    features:
+      - "80枚入の大容量でまとめ買いに最適"
+      - "一般的なフロアワイパーに対応する規格サイズ"
+      - "シートが厚手で拭き取り面積が広い"
+    pros:
+      - "1枚約9円と最もコスパが良い"
+      - "80枚で2〜3ヶ月分をまとめ買い可能"
+      - "クイックルワイパー・ウェーブなど主要ワイパーに対応"
+    cons:
+      - "香り付きタイプの選択肢が少ない"
+      - "プレミアム品と比べると薄手"
+    recommendedFor: "コスパ最優先で毎日掃除したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3ztn.3rdw6b30.g00t3ztn.3rdw7dc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F205995%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10158683%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/10172579/imgrc0107615257.jpg?_ex=128x128"
+  - rank: 3
+    name: "花王 クイックルワイパー 立体吸着ウエットシート 香りが残らないタイプ"
+    brand: "花王（クイックルワイパー）"
+    price: 599
+    capacity: "16枚"
+    pricePerUnit: "約37円/枚"
+    rating: 4.68
+    reviewCount: 25
+    features:
+      - "立体吸着繊維が床のすき間まで細かい汚れを絡め取る"
+      - "除菌・消臭成分配合で清潔な床を維持"
+      - "花王の技術による高い拭き取り性能"
+    pros:
+      - "フローリングシートの定番で圧倒的な品質と評価"
+      - "除菌成分配合で赤ちゃんやペットがいる家庭でも安心"
+      - "1枚で広い範囲をすっきり拭き取れる"
+    cons:
+      - "30枚入でコスパは他製品に劣る"
+      - "1枚単価が高めのため、毎日使うとコストがかさむ"
+    recommendedFor: "拭き取り品質を重視する方・除菌ケアをしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10006153%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10006153%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin63/4901301327826.jpg?_ex=128x128"
+  - rank: 4
+    name: "ウェーブ 超保水 フロアウェットシート 微香タイプ"
+    brand: "ユニ・チャーム（ウェーブ）"
+    price: 777
+    capacity: "16枚"
+    pricePerUnit: "約49円/枚"
+    rating: 4.4
+    reviewCount: 500
+    features:
+      - "静電気で細かいホコリ・花粉を吸着するウェーブ構造"
+      - "たっぷりの洗浄液でしつこい汚れもしっかり拭き取れる"
+      - "ウェーブ専用ワイパーと組み合わせると効果最大"
+    pros:
+      - "吸着性が高く一度拭くだけで細かいホコリが取れる"
+      - "コスパと清潔力のバランスが良い"
+      - "36枚入でコンパクトに収納できる"
+    cons:
+      - "大容量タイプと比べると割高"
+      - "ウェーブ専用ワイパーでないと吸着性能が十分に発揮されない場合がある"
+    recommendedFor: "ホコリ・花粉対策を重視する方・毎日の掃除習慣をつけたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00srsfn.3rdw61f5.g00srsfn.3rdw7376/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstacon%2F4903111466115%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstacon%2Fi%2F10054037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/stacon/cabinet/2022-0921/4903111466115_1.jpg?_ex=128x128"
 tags:
   - "フローリングシート おすすめ"
   - "床掃除 コスパ"

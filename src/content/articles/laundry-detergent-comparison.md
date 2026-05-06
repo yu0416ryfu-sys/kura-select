@@ -1,9 +1,9 @@
 ---
 title: "洗濯洗剤 コスパ最強ランキング【2026年版】1回あたり最安10円台も"
 description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉末・ジェルボール別におすすめ4選を紹介。楽天で買えるコスパ最強の洗濯洗剤を探している方必見です。"
-category: laundry-detergent
-publishedAt: 2024-11-15
-updatedAt: 2026-04-29
+category: "laundry-detergent"
+publishedAt: "2024-11-15"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "アリエール 洗濯洗剤 液体 詰め替え 超ジャンボ 1000g×4セット"
@@ -12,7 +12,7 @@ products:
     capacity: "4000g（約148回分）"
     pricePerUnit: "約1.0円/g"
     rating: 4.65
-    reviewCount: 441
+    reviewCount: 442
     features:
       - "国内シェアトップクラスの液体洗剤"
       - "詰め替えタイプで経済的"
@@ -28,13 +28,12 @@ products:
     recommendedFor: "洗浄力・ブランド信頼性を重視する方・詰め替え派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11279561%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/421/405421.jpg?_ex=128x128"
-
   - rank: 2
-    name: "アタック 業務用 粉末衣料用洗剤 10kg（2.5kg×4袋入）"
+    name: "あす楽対応 送料無料 数量限定2箱迄花王 アタック 業務用 10kg粉末衣料用洗"
     brand: "花王（Kao）"
     price: 5980
-    capacity: "10kg（約333回分）"
-    pricePerUnit: "約598円/kg"
+    capacity: "5kg×4袋"
+    pricePerUnit: "約299円/kg"
     rating: 4.59
     reviewCount: 32
     features:
@@ -52,7 +51,6 @@ products:
     recommendedFor: "コスト最優先の方・作業着など汚れが多い方・大家族"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rfmln.3rdw63d9.g00rfmln.3rdw7e87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foshibori%2Fbic10_01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foshibori%2Fi%2F10000066%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oshibori/cabinet/02985035/03434691/05647021/imgrc0095645203.jpg?_ex=128x128"
-
   - rank: 3
     name: "ボールド 洗濯洗剤 ジェルボール 4in1 詰め替え 65個"
     brand: "P&G（ボールド）"
@@ -75,36 +73,12 @@ products:
     recommendedFor: "手軽さ重視・子育て中で忙しい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2ngn.3rdw6e7c.g00t2ngn.3rdw797f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F1710000080%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhikaritv%2Fi%2F10234804%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000080_k.jpg?_ex=128x128"
-
-  - rank: 4
-    name: "さらさ 洗濯洗剤 液体 詰め替え 超特大 1.01kg×2袋セット"
-    brand: "P&G（さらさ）"
-    price: 5480
-    capacity: "1.01kg×2袋（約66回分）"
-    pricePerUnit: "約25.5円/回"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "植物由来成分使用"
-      - "無蛍光剤・無漂白剤・無着色料の無添加処方"
-      - "赤ちゃんの衣類にも使用可"
-    pros:
-      - "敏感肌・赤ちゃんにもやさしい無添加処方"
-      - "P&Gブランドで品質と安心感"
-      - "詰め替え用でゴミが少なくエコ"
-    cons:
-      - "頑固な汚れには追加処理が必要な場合がある"
-      - "1回あたりのコストは高め"
-    recommendedFor: "敏感肌・アレルギー体質の方・赤ちゃんのいる家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/53451e16.4970a80f.53451e17.e292153a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkukuna-online%2Fcompass1756749134%2F&link_type=picttext"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kukuna-online/cabinet/compass1756749074.jpg"
-
 tags:
-  - 洗濯洗剤
-  - コスパ
-  - 節約
-  - 日用品
-  - 洗濯
+  - "洗濯洗剤"
+  - "コスパ"
+  - "節約"
+  - "日用品"
+  - "洗濯"
 draft: false
 ---
 

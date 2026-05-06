@@ -1,81 +1,12 @@
 ---
 title: "コーヒーフィルター コスパ最強ランキング【2026年版】1枚あたり最安で比較"
 description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒーの人気4選を漂白タイプ・形状・コスパで解説します。"
-category: coffee-filter
-publishedAt: 2026-05-05
-updatedAt: 2026-05-05
+category: "coffee-filter"
+publishedAt: "2026-05-05"
+updatedAt: 2026-05-06
 draft: false
 products:
   - rank: 1
-    name: "メリタ アロマフィルター AF-M 100枚"
-    brand: "メリタ"
-    price: 853
-    capacity: "100枚（1〜2杯用）"
-    pricePerUnit: "約8.5円/枚"
-    rating: 4.82
-    reviewCount: 17
-    features:
-      - "台形フィルター設計でドリッパーに密着しやすい"
-      - "独自の波状フィルターで均一抽出を実現"
-      - "酸素漂白パルプ100%・日本規格適合品"
-    pros:
-      - "110年以上の歴史を持つメリタの信頼ブランド品質"
-      - "波状フィルターでコーヒーの旨味を引き出す設計"
-      - "メリタドリッパーとの組み合わせで最大限の性能を発揮"
-    cons:
-      - "メリタ専用台形ドリッパー以外には使用不可"
-      - "円錐型ドリッパーへの転用は不可"
-    recommendedFor: "定番ブランドの安心品質を求める方・ペーパードリップ初心者の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5ncn.3rdw6781.g00u5ncn.3rdw77ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmelittajapan%2Faromafilter01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmelittajapan%2Fi%2F10000085%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/5.jpg?_ex=128x128"
-
-  - rank: 2
-    name: "カリタ コーヒーフィルター 101 100枚"
-    brand: "カリタ"
-    price: 209
-    capacity: "100枚（1〜2杯用）"
-    pricePerUnit: "約2.1円/枚"
-    rating: 5
-    reviewCount: 82
-    features:
-      - "コーヒー専門メーカーの定番台形フィルター"
-      - "パルプ100%酸素漂白・1〜2杯用の標準サイズ"
-      - "コーヒーショップや喫茶店でも採用される実績品"
-    pros:
-      - "カリタドリッパーとの相性が抜群で安定した抽出"
-      - "コーヒー専業メーカーならではの品質管理"
-      - "100枚入りで日常使いのコスパが高い"
-    cons:
-      - "カリタ対応の台形ドリッパー専用"
-      - "他社ドリッパーとの互換性確認が必要"
-    recommendedFor: "カリタのドリッパーを使っている方・コーヒーの味にこだわる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ppmon.3rdw6f65.g00ppmon.3rdw7779/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiroshimacoffee%2F426221%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiroshimacoffee%2Fi%2F10000898%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiroshimacoffee/cabinet/ikou_20100212/img10062543083.jpg?_ex=128x128"
-
-  - rank: 3
-    name: "ハリオ V60 ペーパーフィルター みさらし 100枚"
-    brand: "ハリオ"
-    price: 438
-    capacity: "100枚（1〜4杯用）"
-    pricePerUnit: "約4.4円/枚"
-    rating: 4.67
-    reviewCount: 534
-    features:
-      - "V60専用の円錐型フィルター（みさらし・無漂白）"
-      - "100枚入り・日本製で品質安定"
-      - "コーヒーオイルを適度に通過させコクを引き出す"
-    pros:
-      - "スペシャルティコーヒー愛好家に支持されるV60専用"
-      - "無漂白で化学薬品不使用の自然素材"
-      - "湯量と速度の調整でコーヒーの個性を引き出しやすい"
-    cons:
-      - "V60ドリッパー専用のため汎用性が限られる"
-      - "無漂白特有の紙のにおいが気になる場合は湯通しが必要"
-    recommendedFor: "ハリオV60ドリッパーをお使いの方・スペシャルティコーヒーを楽しみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl5fn.3rdw6571.g00pl5fn.3rdw7e5a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1355-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001877%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/1300/1355-02-item01.jpg?_ex=128x128"
-
-  - rank: 4
     name: "キーコーヒー コーヒーフィルター 無漂白 100枚"
     brand: "キーコーヒー"
     price: 184
@@ -97,7 +28,72 @@ products:
     recommendedFor: "エコ志向の方・自然素材にこだわりたい方・キーコーヒーブランドを信頼している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fcf0475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10348950%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/syoku/syoku11/cf0475.jpg?_ex=128x128"
-
+  - rank: 2
+    name: "ハリオ V60 ペーパーフィルター みさらし 100枚"
+    brand: "ハリオ"
+    price: 438
+    capacity: "100枚（1〜4杯用）"
+    pricePerUnit: "約4.4円/枚"
+    rating: 4.67
+    reviewCount: 534
+    features:
+      - "V60専用の円錐型フィルター（みさらし・無漂白）"
+      - "100枚入り・日本製で品質安定"
+      - "コーヒーオイルを適度に通過させコクを引き出す"
+    pros:
+      - "スペシャルティコーヒー愛好家に支持されるV60専用"
+      - "無漂白で化学薬品不使用の自然素材"
+      - "湯量と速度の調整でコーヒーの個性を引き出しやすい"
+    cons:
+      - "V60ドリッパー専用のため汎用性が限られる"
+      - "無漂白特有の紙のにおいが気になる場合は湯通しが必要"
+    recommendedFor: "ハリオV60ドリッパーをお使いの方・スペシャルティコーヒーを楽しみたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl5fn.3rdw6571.g00pl5fn.3rdw7e5a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1355-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001877%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/1300/1355-02-item01.jpg?_ex=128x128"
+  - rank: 3
+    name: "【カリタ】コーヒーフィルターみさらし101濾紙1〜2人用/"
+    brand: "カリタ"
+    price: 209
+    capacity: "40枚"
+    pricePerUnit: "約5.2円/枚"
+    rating: 5
+    reviewCount: 82
+    features:
+      - "コーヒー専門メーカーの定番台形フィルター"
+      - "パルプ100%酸素漂白・1〜2杯用の標準サイズ"
+      - "コーヒーショップや喫茶店でも採用される実績品"
+    pros:
+      - "カリタドリッパーとの相性が抜群で安定した抽出"
+      - "コーヒー専業メーカーならではの品質管理"
+      - "100枚入りで日常使いのコスパが高い"
+    cons:
+      - "カリタ対応の台形ドリッパー専用"
+      - "他社ドリッパーとの互換性確認が必要"
+    recommendedFor: "カリタのドリッパーを使っている方・コーヒーの味にこだわる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ppmon.3rdw6f65.g00ppmon.3rdw7779/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiroshimacoffee%2F426221%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiroshimacoffee%2Fi%2F10000898%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiroshimacoffee/cabinet/ikou_20100212/img10062543083.jpg?_ex=128x128"
+  - rank: 4
+    name: "メリタ アロマフィルター AF-M 100枚"
+    brand: "メリタ"
+    price: 853
+    capacity: "100枚（1〜2杯用）"
+    pricePerUnit: "約8.5円/枚"
+    rating: 4.82
+    reviewCount: 17
+    features:
+      - "台形フィルター設計でドリッパーに密着しやすい"
+      - "独自の波状フィルターで均一抽出を実現"
+      - "酸素漂白パルプ100%・日本規格適合品"
+    pros:
+      - "110年以上の歴史を持つメリタの信頼ブランド品質"
+      - "波状フィルターでコーヒーの旨味を引き出す設計"
+      - "メリタドリッパーとの組み合わせで最大限の性能を発揮"
+    cons:
+      - "メリタ専用台形ドリッパー以外には使用不可"
+      - "円錐型ドリッパーへの転用は不可"
+    recommendedFor: "定番ブランドの安心品質を求める方・ペーパードリップ初心者の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5ncn.3rdw6781.g00u5ncn.3rdw77ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmelittajapan%2Faromafilter01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmelittajapan%2Fi%2F10000085%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/5.jpg?_ex=128x128"
 tags:
   - "コーヒーフィルター おすすめ"
   - "コーヒーフィルター コスパ"

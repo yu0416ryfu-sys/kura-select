@@ -1,9 +1,9 @@
 ---
 title: "トイレ用洗剤 コスパ最強ランキング【2026年版】除菌力・洗浄力で比較"
 description: "トイレ用洗剤を1回あたりのコストで徹底比較。サンポール・スクラビングバブル・ドメスト・ブルーレットの人気4選を解説します。"
-category: toilet-cleaner
-publishedAt: 2026-04-30
-updatedAt: 2026-05-05
+category: "toilet-cleaner"
+publishedAt: "2026-04-30"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "サンポール トイレ洗剤 尿石除去 大容量 5L"
@@ -27,13 +27,12 @@ products:
     recommendedFor: "尿石・黄ばみに悩む方・コスパ重視の方・頑固な汚れを落としたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987115851764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10108088%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/84/4987115851764.jpg?_ex=128x128"
-
   - rank: 2
-    name: "スクラビングバブル 超強力トイレクリーナー 400g×3本"
+    name: "スクラビングバブル 超強力トイレクリーナー【スクラビングバブル】[トイレ洗剤 ト"
     brand: "ジョンソン（スクラビングバブル）"
     price: 441
-    capacity: "400g×3本（約90回分）"
-    pricePerUnit: "約0.37円/g"
+    capacity: "（400g）"
+    pricePerUnit: "約1.1円/g"
     rating: 4.65
     reviewCount: 344
     features:
@@ -50,7 +49,6 @@ products:
     recommendedFor: "フチ裏の汚れに悩む方・黒ずみ・カビを落としたい方・塩素系洗剤派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe341234h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10252628%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/440/4901609005440.jpg?_ex=128x128"
-
   - rank: 3
     name: "ドメスト 除菌クリーナー 500mL×3本"
     brand: "ユニリーバ（ドメスト）"
@@ -73,7 +71,6 @@ products:
     recommendedFor: "除菌を徹底したい方・衛生面を重視する方・定期的な集中掃除に"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F35475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10844048%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/475/35475.jpg?_ex=128x128"
-
   - rank: 4
     name: "ブルーレット おくだけ 除菌EX ミントの香り 付替 3個パック"
     brand: "小林製薬（ブルーレット）"
@@ -96,14 +93,13 @@ products:
     recommendedFor: "掃除の頻度を減らしたい方・トイレの清潔感を保ちたい方・手軽な予防対策に"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn2hn.3rdw6e09.g00qn2hn.3rdw7ff0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-ulmax%2Fha-4987072092651_3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-ulmax%2Fi%2F11911239%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-ulmax/cabinet/zg179/4987072092651.jpg?_ex=128x128"
-
 tags:
-  - トイレ用洗剤
-  - コスパ
-  - 節約
-  - 日用品
-  - 掃除
-  - 除菌
+  - "トイレ用洗剤"
+  - "コスパ"
+  - "節約"
+  - "日用品"
+  - "掃除"
+  - "除菌"
 draft: false
 ---
 

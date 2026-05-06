@@ -1,9 +1,9 @@
 ---
 title: "デンタルフロス コスパ最強ランキング【2026年版】1本あたり最安で比較"
 description: "デンタルフロス・歯間ブラシを1本あたりのコストで徹底比較。GUM・クリニカ・糸ようじ・オーラルBなど人気4選を使いやすさ・清潔効果・コスパで解説します。"
-category: toothpaste
-publishedAt: 2026-05-03
-updatedAt: 2026-05-03
+category: "toothpaste"
+publishedAt: "2026-05-03"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "GUM デンタルフロス 550m"
@@ -27,13 +27,12 @@ products:
     recommendedFor: "毎日フロスを使う方・コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shohin08/28528.jpg?_ex=128x128"
-
   - rank: 2
-    name: "ライオン クリニカ アドバンテージ デンタルフロス Y字タイプ 30本入"
+    name: "ライオン クリニカ アドバンテージ フロス Y字タイプ"
     brand: "ライオン（クリニカ）"
     price: 292
-    capacity: "30本入"
-    pricePerUnit: "約9.7円/本"
+    capacity: "18本"
+    pricePerUnit: "約16円/本"
     rating: 4.95
     reviewCount: 21
     features:
@@ -50,7 +49,6 @@ products:
     recommendedFor: "奥歯のケアをしっかりしたい方・フロス初心者の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301203896%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10013302%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic201404/4903301203896_1.jpg?_ex=128x128"
-
   - rank: 3
     name: "小林製薬 糸ようじ フロス&ピック デンタルフロス 60本入"
     brand: "小林製薬（糸ようじ）"
@@ -73,13 +71,12 @@ products:
     recommendedFor: "手軽にフロスを始めたい方・外出先でも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa003200200606%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10123742%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/895/4987072025895.jpg?_ex=128x128"
-
   - rank: 4
-    name: "デンタルプロ 歯間ブラシ Mサイズ 10本入×3個"
+    name: "デンタルプロ 歯間ブラシ 4【more30】【デンタルプロ】"
     brand: "デンタルプロ"
     price: 467
-    capacity: "30本入（10本×3個）"
-    pricePerUnit: "約16円/本"
+    capacity: "15本"
+    pricePerUnit: "約31円/本"
     rating: 4.44
     reviewCount: 9
     features:
@@ -96,7 +93,6 @@ products:
     recommendedFor: "歯間ブラシを初めて使う方・歯周病ケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fd412800h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10014395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/634/4973227834634.jpg?_ex=128x128"
-
 tags:
   - "デンタルフロス おすすめ"
   - "歯間ブラシ コスパ"

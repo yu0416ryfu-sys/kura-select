@@ -1,9 +1,9 @@
 ---
 title: "キッチン漂白剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
 description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気4選を除菌力・コスパ・安全性で解説します。"
-category: kitchen-bleach
-publishedAt: 2026-05-05
-updatedAt: 2026-05-05
+category: "kitchen-bleach"
+publishedAt: "2026-05-05"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "キッチンハイター 詰め替え 1500mL×2本"
@@ -27,7 +27,6 @@ products:
     recommendedFor: "まな板・ふきん・食器の漂白除菌に・コスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6mcn.3rdw6191.g00r6mcn.3rdw73f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujix-sizai%2F4901301021144%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujix-sizai%2Fi%2F10000866%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fujix-sizai/cabinet/shohin00/kao/4901301021144.jpg?_ex=128x128"
-
   - rank: 2
     name: "キッチンパワーブリーチ 詰め替え 1300mL"
     brand: "ライオン"
@@ -50,13 +49,12 @@ products:
     recommendedFor: "ライオン製品愛用者・まとめ買いで日常使いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F426722%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10000829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/426722.jpg?_ex=128x128"
-
   - rank: 3
-    name: "シャボン玉 酸素系漂白剤 750g"
+    name: "洗たく槽クリーナー"
     brand: "シャボン玉石けん"
     price: 1698
-    capacity: "750g"
-    pricePerUnit: "約2.3円/g"
+    capacity: "500g×2袋"
+    pricePerUnit: "約1.7円/g"
     rating: 4.66
     reviewCount: 845
     features:
@@ -73,7 +71,6 @@ products:
     recommendedFor: "金属・色物の食器にも使いたい方・環境配慮型を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qnb0n.3rdw67eb.g00qnb0n.3rdw74f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fichikawa929%2Fshabon_c2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fichikawa929%2Fi%2F10000207%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ichikawa929/cabinet/resetter/200.jpg?_ex=128x128"
-
   - rank: 4
     name: "オキシクリーン マルチパーパスクリーナー 1360g"
     brand: "グラフィコ（OxiClean）"
@@ -96,13 +93,12 @@ products:
     recommendedFor: "漬けおき洗いをよく使う方・キッチン全般の洗浄に・臭いが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F309892sm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0079732773.jpg?_ex=128x128"
-
 tags:
-  - キッチン漂白剤 おすすめ
-  - キッチンハイター コスパ
-  - 酸素系漂白剤
-  - まな板 除菌
-  - まとめ買い
+  - "キッチン漂白剤 おすすめ"
+  - "キッチンハイター コスパ"
+  - "酸素系漂白剤"
+  - "まな板 除菌"
+  - "まとめ買い"
 draft: false
 ---
 

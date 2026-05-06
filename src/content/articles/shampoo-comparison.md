@@ -1,9 +1,9 @@
 ---
 title: "シャンプー コスパ最強ランキング【2026年版】1mLあたり最安で比較"
 description: "シャンプーを1mLあたりのコストで徹底比較。LUX・パンテーン・いち髪・メリットなど人気4選を成分・仕上がり・コスパで解説します。"
-category: shampoo
-publishedAt: 2026-04-30
-updatedAt: 2026-04-30
+category: "shampoo"
+publishedAt: "2026-04-30"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "いち髪 なめらかスムースケア シャンプー 詰め替え 660mL×2個"
@@ -27,7 +27,6 @@ products:
     recommendedFor: "コスパ重視の方・普通〜軽いダメージ髪の方・ノンシリコン派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhm1n.3rdw621b.g00uhm1n.3rdw7ede/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep0104%2Fichikami-smth%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep0104%2Fi%2F10000229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep0104/cabinet/10645709/11494580/imgrc0187994441.jpg?_ex=128x128"
-
   - rank: 2
     name: "メリット シャンプー 詰め替え 大容量 1200mL"
     brand: "花王（メリット）"
@@ -50,7 +49,6 @@ products:
     recommendedFor: "家族で使いたい方・地肌ケア重視の方・シンプルなシャンプーを求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F601322%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11330372%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/322/601322.jpg?_ex=128x128"
-
   - rank: 3
     name: "パンテーン エクストラダメージケア シャンプー 詰め替え 超特大 950mL"
     brand: "P&G（パンテーン）"
@@ -73,7 +71,6 @@ products:
     recommendedFor: "ダメージヘアの方・まとまりを求める方・カラーやパーマをしている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tynxn.3rdw6ad8.g00tynxn.3rdw7e17/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkzstore%2F2734-000217%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkzstore%2Fi%2F10000068%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kzstore/cabinet/amayahoo/10812595/imgrc0093288667.jpg?_ex=128x128"
-
   - rank: 4
     name: "LUX スーパーリッチシャイン ダメージリペア シャンプー 詰め替え 660g"
     brand: "ユニリーバ（LUX）"
@@ -96,13 +93,12 @@ products:
     recommendedFor: "ツヤ髪を目指す方・香りを楽しみたい方・パサつきが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ub9fn.3rdw617e.g00ub9fn.3rdw7fc0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-pal%2Fdamage-repair%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshop-pal%2Fi%2F10000671%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shop-pal/cabinet/compass1759200308.jpg?_ex=128x128"
-
 tags:
-  - シャンプー
-  - コスパ
-  - 節約
-  - 日用品
-  - ヘアケア
+  - "シャンプー"
+  - "コスパ"
+  - "節約"
+  - "日用品"
+  - "ヘアケア"
 draft: false
 ---
 

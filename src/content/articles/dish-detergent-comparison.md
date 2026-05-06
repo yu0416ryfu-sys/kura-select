@@ -1,11 +1,33 @@
 ---
 title: "食器用洗剤 コスパ最強ランキング【2026年版】除菌力・泡立ちで比較"
 description: "食器用洗剤を1回あたりのコストで徹底比較。ジョイ・キュキュット・ヤシノミ洗剤など人気4選を紹介。手荒れが気になる方・油汚れが多い方に最適な商品が分かります。"
-category: dish-detergent
-publishedAt: 2026-04-29
-updatedAt: 2026-04-29
+category: "dish-detergent"
+publishedAt: "2026-04-29"
+updatedAt: 2026-05-06
 products:
   - rank: 1
+    name: "ジョイ コンパクト 食器用洗剤 詰め替え 大容量 770mL×2袋"
+    brand: "P&G（ジョイ）"
+    price: 2710
+    capacity: "770mL×2袋（約385回分）"
+    pricePerUnit: "約1.8円/mL"
+    rating: 4.79
+    reviewCount: 43
+    features:
+      - "コンパクト処方で少量でもよく落ちる"
+      - "食洗機非対応・手洗い専用設計"
+      - "ジョイは洗浄力の強さで国内トップシェア"
+    pros:
+      - "1滴で驚くほどよく落ちるコンパクト処方"
+      - "P&Gブランドの安定した品質"
+      - "泡切れがよく後処理が楽"
+    cons:
+      - "キュキュットより若干価格が高め"
+      - "香りが強めと感じる方も"
+    recommendedFor: "洗浄力最優先の方・油の多い料理をする方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7269456%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10221021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasyakura/7269456.jpg?_ex=128x128"
+  - rank: 2
     name: "キュキュット 食器用洗剤 詰め替え 大容量 820mL×2袋"
     brand: "花王（キュキュット）"
     price: 5035
@@ -27,30 +49,6 @@ products:
     recommendedFor: "コスパ重視・油汚れが多い方・衛生面を気にする方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404955%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148566%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/955/404955.jpg?_ex=128x128"
-
-  - rank: 2
-    name: "ジョイ コンパクト 食器用洗剤 詰め替え 大容量 770mL×2袋"
-    brand: "P&G（ジョイ）"
-    price: 2710
-    capacity: "770mL×2袋（約385回分）"
-    pricePerUnit: "約1.8円/mL"
-    rating: 4.79
-    reviewCount: 42
-    features:
-      - "コンパクト処方で少量でもよく落ちる"
-      - "食洗機非対応・手洗い専用設計"
-      - "ジョイは洗浄力の強さで国内トップシェア"
-    pros:
-      - "1滴で驚くほどよく落ちるコンパクト処方"
-      - "P&Gブランドの安定した品質"
-      - "泡切れがよく後処理が楽"
-    cons:
-      - "キュキュットより若干価格が高め"
-      - "香りが強めと感じる方も"
-    recommendedFor: "洗浄力最優先の方・油の多い料理をする方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7269456%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10221021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasyakura/7269456.jpg?_ex=128x128"
-
   - rank: 3
     name: "チャーミーマジカ 食器用洗剤 詰め替え 超大型 1380mL"
     brand: "ライオン（チャーミー）"
@@ -73,7 +71,6 @@ products:
     recommendedFor: "コストを最小限にしたい方・除菌・消臭も重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F10053002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10053002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/10053002.jpg?_ex=128x128"
-
   - rank: 4
     name: "ヤシノミ洗剤 食器・野菜用 詰め替え 540mL"
     brand: "サラヤ（ヤシノミ洗剤）"
@@ -96,12 +93,11 @@ products:
     recommendedFor: "敏感肌・手荒れが心配な方・食材も洗いたい方・エコ志向の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqv2n.3rdw6222.g00uqv2n.3rdw7c45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fastershop%2Fbomdykhfin55h3inene676douq%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fastershop%2Fi%2F10191599%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/astershop/cabinet/11876517/33242660_1.jpg?_ex=128x128"
-
 tags:
-  - 食器用洗剤
-  - コスパ
-  - 節約
-  - 日用品
+  - "食器用洗剤"
+  - "コスパ"
+  - "節約"
+  - "日用品"
 draft: false
 ---
 

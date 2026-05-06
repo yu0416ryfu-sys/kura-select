@@ -1,16 +1,16 @@
 ---
 title: "消臭剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
 description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・リセッシュ・無香空間・ファブリーズなど人気4選を香り・持続力・コスパで解説します。"
-category: room-deodorizer
-publishedAt: 2026-05-05
-updatedAt: 2026-05-05
+category: "room-deodorizer"
+publishedAt: "2026-05-05"
+updatedAt: 2026-05-06
 products:
   - rank: 1
-    name: "リセッシュ 除菌EX ワイドジェット ストロング 香りが残らないタイプ つめかえ用(630ml)"
+    name: "リセッシュ 除菌EX ワイドジェット ストロング 香りが残らないタイプ つめかえ"
     brand: "花王"
     price: 3080
-    capacity: "630ml"
-    pricePerUnit: "約4.9円/ml"
+    capacity: "630ml×4"
+    pricePerUnit: "約1.2円/ml"
     rating: 5
     reviewCount: 4
     features:
@@ -30,7 +30,6 @@ products:
     recommendedFor: "コスパ重視・まとめ買い派・広いリビングに置きたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F580764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11272901%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/764/580764.jpg?_ex=128x128"
-
   - rank: 2
     name: "リセッシュ 消臭スプレー 除菌EX 香りが残らないタイプ 詰替大(700ml*3袋セット)"
     brand: "花王"
@@ -55,7 +54,6 @@ products:
     recommendedFor: "布製品の臭い消し・キッチンや玄関にも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F511307%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11059514%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/307/511307.jpg?_ex=128x128"
-
   - rank: 3
     name: "無香空間 本体 315g"
     brand: "小林製薬"
@@ -65,21 +63,20 @@ products:
     rating: 4
     reviewCount: 4
     features:
-      - "香りでごまかさずにしっかり消臭する置き型消臭剤"  
-      - "アミノ酸系消臭成分を配合した透明ビーズ"  
+      - "香りでごまかさずにしっかり消臭する置き型消臭剤"
+      - "アミノ酸系消臭成分を配合した透明ビーズ"
       - "部屋・玄関・トイレ・靴箱など様々な場所で使用可能"
-    pros:  
-      - "無香料で香りが苦手な人にも使いやすい"  
-      - "アミノ酸系成分でニオイをしっかり分解消臭"  
+    pros:
+      - "無香料で香りが苦手な人にも使いやすい"
+      - "アミノ酸系成分でニオイをしっかり分解消臭"
       - "本体タイプで即使用可能"
-    cons:  
-      - "詰め替え用と比べて1回あたりのコストが高い"  
-      - "大容量タイプに比べて持続期間が短め"  
+    cons:
+      - "詰め替え用と比べて1回あたりのコストが高い"
+      - "大容量タイプに比べて持続期間が短め"
       - "保管時に場所を取る"
     recommendedFor: "香りが苦手な方・赤ちゃん・ペットがいる家庭・寝室に置きたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fkb0017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10009562%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/life/life05/kb0017_1a.jpg?_ex=128x128"
-
   - rank: 4
     name: "ファブリーズ W除菌+消臭スプレー 衣類・布製品用 香りが残らない 詰め替え 4回分(1280ml×2セット)"
     brand: "ファブリーズ(febreze) / P&G"
@@ -88,30 +85,29 @@ products:
     pricePerUnit: "0円"
     rating: 0
     reviewCount: 0
-    features:  
-      - "48時間爽やか続く消臭効果"  
-      - "W除菌+消臭で衣類・布製品にスプレーするだけ"  
-      - "香りが残らない無香タイプ"  
+    features:
+      - "48時間爽やか続く消臭効果"
+      - "W除菌+消臭で衣類・布製品にスプレーするだけ"
+      - "香りが残らない無香タイプ"
       - "シワ取り効果もあり"
-    pros:  
-      - "大容量詰め替えでコスパが良い"  
-      - "除菌・消臭成分を配合し、衣類や布団などに使いやすい"  
-      - "お子さまのいる家庭でも使用可能"  
+    pros:
+      - "大容量詰め替えでコスパが良い"
+      - "除菌・消臭成分を配合し、衣類や布団などに使いやすい"
+      - "お子さまのいる家庭でも使用可能"
       - "ボトルに4回詰め替え可能で経済的"
-    cons:  
-      - "詰め替え作業が必要で少し手間"  
-      - "大容量のため保管スペースを取る"  
+    cons:
+      - "詰め替え作業が必要で少し手間"
+      - "大容量のため保管スペースを取る"
       - "特定の素材（革・和装品など）には使用不可"
     recommendedFor: "布製品・空間の消臭除菌を手軽にしたい方・ファブリーズユーザー"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598756%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321889%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/756/598756.jpg?_ex=128x128"
-
 tags:
-  - 消臭剤 おすすめ
-  - 消臭剤 コスパ
-  - 置き型消臭剤
-  - 消臭剤 比較
-  - まとめ買い
+  - "消臭剤 おすすめ"
+  - "消臭剤 コスパ"
+  - "置き型消臭剤"
+  - "消臭剤 比較"
+  - "まとめ買い"
 draft: false
 ---
 

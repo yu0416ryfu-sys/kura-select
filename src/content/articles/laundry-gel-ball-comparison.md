@@ -1,9 +1,9 @@
 ---
 title: "ジェルボール洗剤 コスパ最強ランキング【2026年版】1個あたり最安で比較"
 description: "ジェルボール洗剤を1個あたりのコストで徹底比較。アリエール・アタックZERO・ボールドなど人気商品を洗浄力・香り・コスパで解説します。"
-category: laundry-detergent
-publishedAt: 2026-05-05
-updatedAt: 2026-05-05
+category: "laundry-detergent"
+publishedAt: "2026-05-05"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え用 メガジャンボサイズ 332個 (83個×4)"
@@ -27,8 +27,28 @@ products:
     recommendedFor: "洗浄力重視・大容量まとめ買い派・時短派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r8mvn.3rdw64c9.g00r8mvn.3rdw71c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F4987176194411%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11431716%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r-kojima/cabinet/n0000000903/4987176194411_1.jpg?_ex=128x128"
-
   - rank: 2
+    name: "さらさ ジェルボール 詰め替え"
+    brand: "P&G（さらさ）"
+    price: 1100
+    capacity: "40個前後（商品により変動）"
+    pricePerUnit: "約28円/個"
+    rating: 4.21
+    reviewCount: 19
+    features:
+      - "植物由来成分・無添加処方"
+      - "蛍光剤・漂白剤・着色料不使用"
+      - "赤ちゃんの衣類にも安心"
+    pros:
+      - "敏感肌・赤ちゃん衣類に優しい"
+      - "P&G品質の安心感"
+    cons:
+      - "他商品より1個あたり単価が高い"
+      - "洗浄力は特化型より控えめ"
+    recommendedFor: "敏感肌・赤ちゃんのいる家庭・無添加志向の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u59un.3rdw6a0f.g00u59un.3rdw7dbe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feinverse-hokkaido%2Frjk-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feinverse-hokkaido%2Fi%2F10000108%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/einverse-hokkaido/cabinet/08901840/jk/jk-10.jpg?_ex=128x128"
+  - rank: 3
     name: "アタックZERO ワンパック 7個パック"
     brand: "花王（アタック）"
     price: 2280
@@ -50,8 +70,7 @@ products:
     recommendedFor: "節水・時短重視・少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ulujn.3rdw68ec.g00ulujn.3rdw7a89/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flgo-2023%2F3931-000027%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flgo-2023%2Fi%2F10000021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lgo-2023/cabinet/imgrc0109870964.jpg?_ex=128x128"
-
-  - rank: 3
+  - rank: 4
     name: "ボールド ジェルボール 4in1 詰め替え メガジャンボ（選べる香り）"
     brand: "P&G（ボールド）"
     price: 4480
@@ -73,37 +92,12 @@ products:
     recommendedFor: "香り・柔軟効果重視・洗濯用品をシンプルにしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2ngn.3rdw6e7c.g00t2ngn.3rdw797f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F1710000080%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhikaritv%2Fi%2F10234804%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000080_k.jpg?_ex=128x128"
-
-
-  - rank: 4
-    name: "さらさ ジェルボール 詰め替え"
-    brand: "P&G（さらさ）"
-    price: 1100
-    capacity: "40個前後（商品により変動）"
-    pricePerUnit: "約28円/個"
-    rating: 4.21
-    reviewCount: 19
-    features:
-      - "植物由来成分・無添加処方"
-      - "蛍光剤・漂白剤・着色料不使用"
-      - "赤ちゃんの衣類にも安心"
-    pros:
-      - "敏感肌・赤ちゃん衣類に優しい"
-      - "P&G品質の安心感"
-    cons:
-      - "他商品より1個あたり単価が高い"
-      - "洗浄力は特化型より控えめ"
-    recommendedFor: "敏感肌・赤ちゃんのいる家庭・無添加志向の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u59un.3rdw6a0f.g00u59un.3rdw7dbe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feinverse-hokkaido%2Frjk-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feinverse-hokkaido%2Fi%2F10000108%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/einverse-hokkaido/cabinet/08901840/jk/jk-10.jpg?_ex=128x128"
-
-
 tags:
-  - ジェルボール 洗剤
-  - ジェルボール おすすめ
-  - ジェルボール コスパ
-  - 洗濯洗剤 比較
-  - まとめ買い
+  - "ジェルボール 洗剤"
+  - "ジェルボール おすすめ"
+  - "ジェルボール コスパ"
+  - "洗濯洗剤 比較"
+  - "まとめ買い"
 draft: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "ボールペン コスパ最強ランキング【2026年版】1本あたり最安で比較"
 description: "ボールペンを書き心地・インク・デザインで徹底比較。uni・ZEBRA・Parker・CROSSの人気4選をコスパ・ギフト適性で解説します。"
-category: ballpoint-pen
-publishedAt: 2026-05-06
+category: "ballpoint-pen"
+publishedAt: "2026-05-06"
 updatedAt: 2026-05-06
 draft: false
 products:
@@ -28,7 +28,6 @@ products:
     recommendedFor: "プレゼント・記念品を探している方・1本で多機能をまとめたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q656n.3rdw61ae.g00q656n.3rdw7d60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbunbougu-shibuya%2Fmsxe5-1000-05n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbunbougu-shibuya%2Fi%2F10074288%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bunbougu-shibuya/cabinet/73/msxe5-1000n_.jpg?_ex=128x128"
-
   - rank: 2
     name: "サラサグランド ビンテージ ジェルボールペン"
     brand: "ZEBRA（ゼブラ）"
@@ -51,31 +50,7 @@ products:
     recommendedFor: "おしゃれなデザインを重視する方・滑らかなゲルの書き心地を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q020n.3rdw6d49.g00q020n.3rdw75a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fogawahan%2F10008119%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fogawahan%2Fi%2F10008119%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ogawahan/cabinet/pen/sarasa-gr/new01.jpg?_ex=128x128"
-
   - rank: 3
-    name: "パーカー IM ボールペン"
-    brand: "Parker（パーカー）"
-    price: 3470
-    capacity: "1本（替え芯対応）"
-    pricePerUnit: "約3470円/本"
-    rating: 4.73
-    reviewCount: 2836
-    features:
-      - "創業135年以上の英国老舗ブランド・パーカーのエントリーモデル"
-      - "長さ140mm・直径11mm・重さ27gのバランスの良い設計"
-      - "Mサイズ替え芯対応で長期間使用可能"
-    pros:
-      - "英国ブランドの信頼性と品質感がコスパよく手に入る"
-      - "ビジネス・プレゼント用途に最適なギフトボックス付き"
-      - "複数カラー展開でシーンに合わせた選択が可能"
-    cons:
-      - "純正替え芯が国産ペンと比べてやや高額"
-      - "油性インクのためゲルモデルよりインクのくっきり感が劣る場合がある"
-    recommendedFor: "海外ブランドの品質感を求める方・ビジネスギフトを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rviqn.3rdw6978.g00rviqn.3rdw793e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaireya%2Fparkerim%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaireya%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naireya/cabinet/item/parker/parker-bp-im-mbk.jpg?_ex=128x128"
-
-  - rank: 4
     name: "クロス カレイ ボールペン"
     brand: "CROSS（クロス）"
     price: 2640
@@ -97,7 +72,28 @@ products:
     recommendedFor: "クラシックなデザインを好む方・米国ブランドの高級ペンを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qm7tn.3rdw6475.g00qm7tn.3rdw747f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-youstyle%2Fcr-at0112-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-youstyle%2Fi%2F10044341%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-youstyle/cabinet/cross/10744491/cr-at0112-1.jpg?_ex=128x128"
-
+  - rank: 4
+    name: "パーカー IM ボールペン"
+    brand: "Parker（パーカー）"
+    price: 3470
+    capacity: "1本（替え芯対応）"
+    pricePerUnit: "約3470円/本"
+    rating: 4.73
+    reviewCount: 2836
+    features:
+      - "創業135年以上の英国老舗ブランド・パーカーのエントリーモデル"
+      - "長さ140mm・直径11mm・重さ27gのバランスの良い設計"
+      - "Mサイズ替え芯対応で長期間使用可能"
+    pros:
+      - "英国ブランドの信頼性と品質感がコスパよく手に入る"
+      - "ビジネス・プレゼント用途に最適なギフトボックス付き"
+      - "複数カラー展開でシーンに合わせた選択が可能"
+    cons:
+      - "純正替え芯が国産ペンと比べてやや高額"
+      - "油性インクのためゲルモデルよりインクのくっきり感が劣る場合がある"
+    recommendedFor: "海外ブランドの品質感を求める方・ビジネスギフトを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rviqn.3rdw6978.g00rviqn.3rdw793e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaireya%2Fparkerim%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaireya%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naireya/cabinet/item/parker/parker-bp-im-mbk.jpg?_ex=128x128"
 tags:
   - "ボールペン おすすめ"
   - "ボールペン コスパ"

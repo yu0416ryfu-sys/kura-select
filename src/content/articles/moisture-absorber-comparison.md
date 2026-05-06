@@ -1,9 +1,9 @@
 ---
 title: "除湿剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
 description: "除湿剤を吸湿量あたりのコストで徹底比較。水とりぞうさん・ドライペット・激乾など人気商品をタイプ・コスパ・使いやすさで解説します。"
-category: moisture-absorber
-publishedAt: 2026-05-05
-updatedAt: 2026-05-05
+category: "moisture-absorber"
+publishedAt: "2026-05-05"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
@@ -27,7 +27,6 @@ products:
     recommendedFor: "押し入れ・クローゼット・納戸など湿気の多い広い収納スペースに"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F4904637999866set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10017235%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_okamoto1/4904637999804set.jpg?_ex=128x128"
-
   - rank: 2
     name: "備長炭ドライペット 除湿剤 タンクタイプ どこでも用（3個パック×6個）"
     brand: "エステー（ドライペット）"
@@ -50,7 +49,6 @@ products:
     recommendedFor: "湿気＋臭い対策をしたい方・複数箇所使用派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901070939398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11075355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/398/4901070939398.jpg?_ex=128x128"
-
   - rank: 3
     name: "激乾 除湿剤 タンクタイプ（400mL×3個パック）"
     brand: "フマキラー（激乾）"
@@ -73,7 +71,6 @@ products:
     recommendedFor: "下駄箱・引き出し・小さめの収納スペースに"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ramcn.3rdw6d52.g00ramcn.3rdw79d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmdse%2Fho-4902424439014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frcmdse%2Fi%2F14732325%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmdse/cabinet/ho01/ho-4902424439014.jpg?_ex=128x128"
-
   - rank: 4
     name: "備長炭ドライペット 除湿剤 シートタイプ クローゼット用(122g×2枚入)"
     brand: "エステー（備長炭ドライペット）"
@@ -96,13 +93,12 @@ products:
     recommendedFor: "衣類の湿気・臭い対策をしたい方・クローゼット専用に"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe426969h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10517510%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/681/4901070909681.jpg?_ex=128x128"
-
 tags:
-  - 除湿剤 おすすめ
-  - 除湿剤 コスパ
-  - 除湿剤 比較
-  - 梅雨対策
-  - まとめ買い
+  - "除湿剤 おすすめ"
+  - "除湿剤 コスパ"
+  - "除湿剤 比較"
+  - "梅雨対策"
+  - "まとめ買い"
 draft: false
 ---
 

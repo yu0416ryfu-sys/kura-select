@@ -1,9 +1,9 @@
 ---
 title: "ヘアトリートメント コスパ最強ランキング【2026年版】1mLあたり最安で比較"
 description: "ヘアトリートメント・ヘアマスクを1mLあたりのコストで徹底比較。フィーノ・パンテーン・いち髪・LUXなど人気4選を補修力・コスパで解説します。"
-category: hair-treatment
-publishedAt: 2026-05-04
-updatedAt: 2026-05-04
+category: "hair-treatment"
+publishedAt: "2026-05-04"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
@@ -27,13 +27,12 @@ products:
     recommendedFor: "カラー・パーマのダメージを集中ケアしたい方・サロン品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F2873936011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10607476%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000343/2873936011.jpg?_ex=128x128"
-
   - rank: 2
-    name: "LUX スーパーリッチシャイン ダメージリペア ヘアマスク 200g"
+    name: "LUXスーパーリッチシャイン ダメージリペア 洗い流すトリートメント ヘアマスク"
     brand: "ユニリーバ（LUX）"
     price: 1054
-    capacity: "200g"
-    pricePerUnit: "約5.3円/g"
+    capacity: "150g"
+    pricePerUnit: "約7.0円/g"
     rating: 5
     reviewCount: 1
     features:
@@ -50,7 +49,6 @@ products:
     recommendedFor: "毎日のケアとしてコスパよく続けたい方・香りを楽しみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5nyn.3rdw649e.g00u5nyn.3rdw7766/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnrfonline%2Fnrf233cc32747%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnrfonline%2Fi%2F10131847%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nrfonline/cabinet/onesell008/nrf233cc32747_0.jpg?_ex=128x128"
-
   - rank: 3
     name: "いち髪 ヘアマスク 200g"
     brand: "クラシエ（いち髪）"
@@ -73,7 +71,6 @@ products:
     recommendedFor: "和成分・自然派ケアにこだわる方・しっとりまとまる仕上がりを好む方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901417618795-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F11969571%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2020a/4901417618795.jpg?_ex=128x128"
-
   - rank: 4
     name: "パンテーン ミラクルズ ヘアトリートメント 100mL"
     brand: "P&G（パンテーン）"
@@ -96,7 +93,6 @@ products:
     recommendedFor: "洗い流し不要のアウトバスケアを習慣にしたい方・ドライヤー前の熱ケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987176174024-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461929%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4987176174024.jpg?_ex=128x128"
-
 tags:
   - "ヘアトリートメント おすすめ"
   - "ヘアマスク コスパ"

@@ -1,34 +1,11 @@
 ---
 title: "除菌スプレー コスパ最強ランキング【2026年版】濃度・容量で比較"
 description: "除菌スプレー・アルコールを1mLあたりのコストで徹底比較。パストリーゼ・カビキラー除菌・フマキラーなど人気4選を解説します。"
-category: sanitizing-spray
-publishedAt: 2026-04-30
-updatedAt: 2026-04-30
+category: "sanitizing-spray"
+publishedAt: "2026-04-30"
+updatedAt: 2026-05-06
 products:
   - rank: 1
-    name: "パストリーゼ77 スプレーヘッド付き 800mL"
-    brand: "ドーバー酒造（パストリーゼ）"
-    price: 1944
-    capacity: "800mL"
-    pricePerUnit: "約2.4円/mL"
-    rating: 4.74
-    reviewCount: 463
-    features:
-      - "アルコール濃度77%の高濃度除菌"
-      - "酒造メーカーのサトウキビ由来アルコール"
-      - "食品にも直接噴霧できる安全性"
-    pros:
-      - "食品にも使える圧倒的な安全性"
-      - "高濃度77%で確実な除菌効果"
-      - "プロの料理人も愛用する信頼の品質"
-    cons:
-      - "1mLあたりの価格はやや高め"
-      - "人気商品のため品切れになりやすい"
-    recommendedFor: "食品まわりの除菌を重視する方・キッチン用に最適・品質重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001204134002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10023547%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/016/4510759790016.jpg?_ex=128x128"
-
-  - rank: 2
     name: "フマキラー キッチン用 アルコール除菌スプレー 詰め替え 720mL×2本"
     brand: "フマキラー"
     price: 657
@@ -50,8 +27,7 @@ products:
     recommendedFor: "コスパ最優先の方・キッチン用がメインの方・大量に使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4902424441727%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10675585%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/727/4902424441727.jpg?_ex=128x128"
-
-  - rank: 3
+  - rank: 2
     name: "カビキラー アルコール除菌 キッチン用 詰め替え 630mL×3本"
     brand: "ジョンソン（カビキラー）"
     price: 1130
@@ -73,7 +49,28 @@ products:
     recommendedFor: "安全性を重視する方・まな板や調理器具の除菌に・まとめ買い派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901609016491%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11230047%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/491/4901609016491.jpg?_ex=128x128"
-
+  - rank: 3
+    name: "パストリーゼ77 スプレーヘッド付き 800mL"
+    brand: "ドーバー酒造（パストリーゼ）"
+    price: 1944
+    capacity: "800mL"
+    pricePerUnit: "約2.4円/mL"
+    rating: 4.74
+    reviewCount: 463
+    features:
+      - "アルコール濃度77%の高濃度除菌"
+      - "酒造メーカーのサトウキビ由来アルコール"
+      - "食品にも直接噴霧できる安全性"
+    pros:
+      - "食品にも使える圧倒的な安全性"
+      - "高濃度77%で確実な除菌効果"
+      - "プロの料理人も愛用する信頼の品質"
+    cons:
+      - "1mLあたりの価格はやや高め"
+      - "人気商品のため品切れになりやすい"
+    recommendedFor: "食品まわりの除菌を重視する方・キッチン用に最適・品質重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001204134002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10023547%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/016/4510759790016.jpg?_ex=128x128"
   - rank: 4
     name: "手ピカスプレー 消毒用アルコール 420mL"
     brand: "健栄製薬（手ピカ）"
@@ -96,14 +93,13 @@ products:
     recommendedFor: "手指消毒がメインの方・手荒れが気になる方・医薬部外品を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F103-4987286415437-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12254363%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/yy/4987286415437.jpg?_ex=128x128"
-
 tags:
-  - 除菌スプレー
-  - アルコール
-  - コスパ
-  - 節約
-  - 日用品
-  - 衛生
+  - "除菌スプレー"
+  - "アルコール"
+  - "コスパ"
+  - "節約"
+  - "日用品"
+  - "衛生"
 draft: false
 ---
 

@@ -1,34 +1,11 @@
 ---
 title: "敏感肌・赤ちゃん向け柔軟剤 おすすめランキング【2026年版】無添加・低刺激で比較"
 description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹底比較。さらさ・ランドリンボタニカル・ファーファフリー&など人気4選を低刺激性で解説。"
-category: fabric-softener
-publishedAt: 2026-04-30
-updatedAt: 2026-04-30
+category: "fabric-softener"
+publishedAt: "2026-04-30"
+updatedAt: 2026-05-06
 products:
   - rank: 1
-    name: "さらさ 柔軟剤 詰め替え 超特大 850mL×2袋"
-    brand: "P&G（さらさ）"
-    price: 2664
-    capacity: "850mL×2袋（約100回分）"
-    pricePerUnit: "約1.6円/mL"
-    rating: 4.42
-    reviewCount: 445
-    features:
-      - "着色料無添加・皮膚科医監修の低刺激処方"
-      - "植物由来の柔軟成分で肌にやさしい"
-      - "赤ちゃんの衣類にも使える安全性"
-    pros:
-      - "皮膚科医監修で敏感肌・赤ちゃんに安心"
-      - "ほのかなピュアソープの香り"
-      - "大容量でコスパが良い"
-    cons:
-      - "香りが弱めで物足りないと感じる方もいる"
-      - "柔軟効果は通常の柔軟剤よりやや控えめ"
-    recommendedFor: "赤ちゃんがいる家庭・敏感肌の方・無添加にこだわる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1osn.3rdw6db5.g00r1osn.3rdw76c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarasa-designstore%2Fset-ls021x3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarasa-designstore%2Fi%2F10002237%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sarasa-designstore/cabinet/c05/set-ls021x3_ver2.jpg?_ex=128x128"
-
-  - rank: 2
     name: "ファーファ フリー&（フリーアンド）柔軟剤 無香料 詰め替え 480mL×3袋"
     brand: "NSファーファ・ジャパン"
     price: 1370
@@ -50,31 +27,7 @@ products:
     recommendedFor: "化学物質過敏症の方・香料アレルギーの方・徹底的に無添加を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2Fs970428%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10002109%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/06059944/imgrc0118446811.jpg?_ex=128x128"
-
-  - rank: 3
-    name: "ベビーファーファ 柔軟剤 600mL×3本"
-    brand: "NSファーファ・ジャパン（ベビーファーファ）"
-    price: 8178
-    capacity: "600mL×3本（約90回分）"
-    pricePerUnit: "約4.5円/mL"
-    rating: 4.52
-    reviewCount: 234
-    features:
-      - "赤ちゃん専用設計の低刺激柔軟剤"
-      - "天然ベルガモットの精油でほのかに香る"
-      - "合成香料・着色料・シリコン無添加"
-    pros:
-      - "赤ちゃん専用ブランドの安心感"
-      - "天然精油の自然な香り"
-      - "洗い上がりがふんわりやわらか"
-    cons:
-      - "1回あたりのコストがやや高め"
-      - "取り扱い店舗がやや少ない"
-    recommendedFor: "新生児から使いたい方・天然由来の香りが好きな方・赤ちゃん専用にこだわる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3i4n.3rdw6daa.g00u3i4n.3rdw7473/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgr-online%2Fooc91bd2d3ac%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgr-online%2Fi%2F10045762%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gr-online/cabinet/onesell021/ooc91bd2d3ac.jpg?_ex=128x128"
-
-  - rank: 4
+  - rank: 2
     name: "ランドリン ボタニカル 柔軟剤 リラックスグリーンティー 詰め替え 大容量 860mL"
     brand: "ネイチャーラボ（ランドリン）"
     price: 1042
@@ -96,14 +49,57 @@ products:
     recommendedFor: "オーガニックにこだわる方・香りも楽しみたい敏感肌の方・ボタニカル志向の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe534100h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10635765%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/517/4582469502517.jpg?_ex=128x128"
-
+  - rank: 3
+    name: "さらさ 柔軟剤 詰め替え 超特大 850mL×2袋"
+    brand: "P&G（さらさ）"
+    price: 2664
+    capacity: "850mL×2袋（約100回分）"
+    pricePerUnit: "約1.6円/mL"
+    rating: 4.42
+    reviewCount: 445
+    features:
+      - "着色料無添加・皮膚科医監修の低刺激処方"
+      - "植物由来の柔軟成分で肌にやさしい"
+      - "赤ちゃんの衣類にも使える安全性"
+    pros:
+      - "皮膚科医監修で敏感肌・赤ちゃんに安心"
+      - "ほのかなピュアソープの香り"
+      - "大容量でコスパが良い"
+    cons:
+      - "香りが弱めで物足りないと感じる方もいる"
+      - "柔軟効果は通常の柔軟剤よりやや控えめ"
+    recommendedFor: "赤ちゃんがいる家庭・敏感肌の方・無添加にこだわる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1osn.3rdw6db5.g00r1osn.3rdw76c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarasa-designstore%2Fset-ls021x3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarasa-designstore%2Fi%2F10002237%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sarasa-designstore/cabinet/c05/set-ls021x3_ver2.jpg?_ex=128x128"
+  - rank: 4
+    name: "ベビーファーファ 柔軟剤 600mL×3本"
+    brand: "NSファーファ・ジャパン（ベビーファーファ）"
+    price: 8178
+    capacity: "600mL×3本（約90回分）"
+    pricePerUnit: "約4.5円/mL"
+    rating: 4.52
+    reviewCount: 234
+    features:
+      - "赤ちゃん専用設計の低刺激柔軟剤"
+      - "天然ベルガモットの精油でほのかに香る"
+      - "合成香料・着色料・シリコン無添加"
+    pros:
+      - "赤ちゃん専用ブランドの安心感"
+      - "天然精油の自然な香り"
+      - "洗い上がりがふんわりやわらか"
+    cons:
+      - "1回あたりのコストがやや高め"
+      - "取り扱い店舗がやや少ない"
+    recommendedFor: "新生児から使いたい方・天然由来の香りが好きな方・赤ちゃん専用にこだわる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3i4n.3rdw6daa.g00u3i4n.3rdw7473/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgr-online%2Fooc91bd2d3ac%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgr-online%2Fi%2F10045762%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gr-online/cabinet/onesell021/ooc91bd2d3ac.jpg?_ex=128x128"
 tags:
-  - 柔軟剤
-  - 敏感肌
-  - 赤ちゃん
-  - 無添加
-  - コスパ
-  - 日用品
+  - "柔軟剤"
+  - "敏感肌"
+  - "赤ちゃん"
+  - "無添加"
+  - "コスパ"
+  - "日用品"
 draft: false
 ---
 

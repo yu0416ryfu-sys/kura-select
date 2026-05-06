@@ -1,9 +1,9 @@
 ---
 title: "衣料用漂白剤 コスパ最強ランキング【2026年版】酸素系・塩素系で比較"
 description: "衣料用漂白剤を1回あたりのコストで徹底比較。オキシクリーン・ワイドハイター・ブライトなど人気4選を漂白力・色柄物対応で解説します。"
-category: laundry-detergent
-publishedAt: 2026-05-01
-updatedAt: 2026-05-01
+category: "laundry-detergent"
+publishedAt: "2026-05-01"
+updatedAt: 2026-05-06
 products:
   - rank: 1
     name: "ワイドハイターEX パワー 詰め替え用 大容量 880mL×2個"
@@ -27,7 +27,6 @@ products:
     recommendedFor: "毎日の洗濯で除菌・消臭したい方・色柄物が多い方・コスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvhdn.3rdw6896.g00rvhdn.3rdw7113/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaily-shop%2F10000211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaily-shop%2Fi%2F10000211%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daily-shop/cabinet/35/4901301509819-tg0.jpg?_ex=128x128"
-
   - rank: 2
     name: "オキシクリーン 1500g"
     brand: "グラフィコ（オキシクリーン）"
@@ -50,7 +49,6 @@ products:
     recommendedFor: "多用途に使いたい方・つけ置き漂白派の方・SNSで話題の商品を試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F309892sm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0079732773.jpg?_ex=128x128"
-
   - rank: 3
     name: "ブライトSTRONG 衣類用漂白剤 詰め替え 大容量 900mL"
     brand: "ライオン（ブライト）"
@@ -73,13 +71,12 @@ products:
     recommendedFor: "コスパ最優先の方・外干し派の方・手軽に漂白したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00udivn.3rdw6f9e.g00udivn.3rdw7dcb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmk-mart2%2Fbright-strong%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmk-mart2%2Fi%2F10000572%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mk-mart2/cabinet/imgrc0130421186.jpg?_ex=128x128"
-
   - rank: 4
-    name: "シャボン玉 酸素系漂白剤 750g"
+    name: "洗たく槽クリーナー"
     brand: "シャボン玉石けん"
     price: 1698
-    capacity: "750g（約37回分）"
-    pricePerUnit: "約2.3円/g"
+    capacity: "500g×2袋"
+    pricePerUnit: "約1.7円/g"
     rating: 4.66
     reviewCount: 845
     features:
@@ -96,13 +93,12 @@ products:
     recommendedFor: "無添加志向の方・赤ちゃんがいる家庭・環境配慮派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qnb0n.3rdw67eb.g00qnb0n.3rdw74f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fichikawa929%2Fshabon_c2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fichikawa929%2Fi%2F10000207%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ichikawa929/cabinet/resetter/200.jpg?_ex=128x128"
-
 tags:
-  - 漂白剤
-  - コスパ
-  - 節約
-  - 日用品
-  - 洗濯
+  - "漂白剤"
+  - "コスパ"
+  - "節約"
+  - "日用品"
+  - "洗濯"
 draft: false
 ---
 
