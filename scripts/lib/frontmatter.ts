@@ -179,12 +179,20 @@ export function calcPricePerUnit(price: number, capacity: string): string | null
  * 例: "ビオレ ボディウォッシュ 500mL" → "500mL"
  */
 export function extractCapacityFromItemName(itemName: string): string | null {
-  // パターン1: 掛け算 "200枚×5箱"（楽天名内を検索）
+  // パターン1: × 区切り乗算 "200枚×5箱" "50m×72ロール"（楽天名内を検索）
   const mulRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})\\s*[×xX]\\s*(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})?`);
   const mulM = itemName.match(mulRe);
   if (mulM) {
     const base = `${mulM[1]}${mulM[2]}×${mulM[3]}`;
     return mulM[4] ? `${base}${mulM[4]}` : base;
+  }
+
+  // パターン1b: スペース区切りの数量表現 "50m 72ロール" → "50m×72ロール"
+  // × を使わず「長さ ロール数」と並べる楽天商品名（例: "50m 72ロール ダブル"）に対応
+  const spaceMulRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})\\s+(\\d[\\d,]*)\\s*(ロール|パック|セット)`);
+  const spaceMulM = itemName.match(spaceMulRe);
+  if (spaceMulM) {
+    return `${spaceMulM[1]}${spaceMulM[2]}×${spaceMulM[3]}${spaceMulM[4]}`;
   }
 
   // パターン2: 括弧内総量 "（2,880枚）"

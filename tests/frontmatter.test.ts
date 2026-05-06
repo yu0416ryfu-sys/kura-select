@@ -336,6 +336,18 @@ describe("extractCapacityFromItemName", () => {
   it("容量表記がない場合は null を返す", () => {
     expect(extractCapacityFromItemName("商品名のみ テキスト")).toBeNull();
   });
+
+  it("スペース区切りのロール数を掛け算として認識する（× なし）", () => {
+    expect(extractCapacityFromItemName("エリエール i:na 50m 72ロール ダブル")).toBe("50m×72ロール");
+  });
+
+  it("スペース区切りのパック数を掛け算として認識する", () => {
+    expect(extractCapacityFromItemName("ハロー トイレットペーパー 50m 12ロール×6パック")).toBe("50m×12ロール");
+  });
+
+  it("× 区切りの場合はパターン1が優先される", () => {
+    expect(extractCapacityFromItemName("エリエール 50m×72ロール ダブル")).toBe("50m×72");
+  });
 });
 
 // ─── removeProductFromFrontmatter ─────────────────────────────────────────
