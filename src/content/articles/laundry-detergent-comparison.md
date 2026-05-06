@@ -11,8 +11,8 @@ products:
     price: 4078
     capacity: "4000g（約148回分）"
     pricePerUnit: "約1.0円/g"
-    rating: 4.66
-    reviewCount: 440
+    rating: 4.65
+    reviewCount: 441
     features:
       - "国内シェアトップクラスの液体洗剤"
       - "詰め替えタイプで経済的"

@@ -76,9 +76,9 @@ products:
   - rank: 4
     name: "ケラチナミン コーワ 尿素配合クリーム 30g 120個セット"
     brand: "興和（ケラチナミン）"
-    price: 5194
+    price: 56400
     capacity: "30g"
-    pricePerUnit: "約173円/g"
+    pricePerUnit: "約1880円/g"
     rating: 4.5
     reviewCount: 400
     features:
@@ -93,8 +93,8 @@ products:
       - "1g単価は4製品中最も高め"
       - "尿素特有のにおいが気になる場合がある"
     recommendedFor: "カサカサ・角質の厚みが気になる方・かかともまとめてケアしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q4lgn.3rdw6ecb.g00q4lgn.3rdw7b42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuei%2F709-7808-003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuei%2Fi%2F10068415%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuei/cabinet/03/709-7808-003_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rt9yn.3rdw6420.g00rt9yn.3rdw720c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbesthbi%2F4987067261901-120%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbesthbi%2Fi%2F10039349%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/besthbi/cabinet/goq003/42942_1.jpg?_ex=128x128"
 
 tags:
   - "ハンドクリーム おすすめ"

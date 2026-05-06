@@ -8,7 +8,7 @@ products:
   - rank: 1
     name: "バブ 厳選4種類の香りセレクトBOX 56錠"
     brand: "花王（バブ）"
-    price: 4340
+    price: 3954
     capacity: "56錠（56回分）"
     pricePerUnit: "約68円/回"
     rating: 4.6
@@ -35,7 +35,7 @@ products:
     capacity: "600g×3個（約60回分）"
     pricePerUnit: "約1.4円/g"
     rating: 4.75
-    reviewCount: 210
+    reviewCount: 211
     features:
       - "温泉ミネラル成分配合で本格的な温浴効果"
       - "天然の香料を使用した豊かな香り"

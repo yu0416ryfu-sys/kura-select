@@ -38,7 +38,7 @@ products:
     capacity: "700mL×3袋（2100mL）"
     pricePerUnit: "約0.97円/mL"
     rating: 4.74
-    reviewCount: 288
+    reviewCount: 289
     features:
       - "汗・皮脂臭まで徹底消臭、24時間ニオイ0へ"
       - "布の奥まで浸透する中和消臭＋皮脂酸化ブロック技術"
