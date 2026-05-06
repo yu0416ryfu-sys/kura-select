@@ -31,3 +31,13 @@ pnpm-debug.log*
 
 # ClaudeCode作業メモ
 ClaudeCode/
+
+# Claude Code ローカル設定
+.claude/settings.local.json
+
+# 一時ファイル
+_tmp_*
+
+# OGP 自動生成画像（pnpm build / CI で毎回生成されるため管理不要）
+public/og-default.png
+public/og/

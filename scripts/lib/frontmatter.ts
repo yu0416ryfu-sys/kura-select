@@ -45,6 +45,8 @@ export interface ProductUpdates {
   affiliateUrl: string | null;
   imageUrl: string | null;
   pricePerUnit?: string | null;
+  newName?: string;     // name フィールドを置き換え（検索キーワード兼用）
+  newCapacity?: string; // capacity フィールドを置き換え
 }
 
 /**
@@ -105,6 +107,13 @@ export function updateProductInFrontmatter(
       /^    pricePerUnit: ".+"$/m,
       `    pricePerUnit: "${updates.pricePerUnit}"`
     );
+  }
+  // name/capacity は他フィールドより後に処理（ブロック特定は旧名で済んでいる）
+  if (updates.newName) {
+    block = block.replace(/^    name: ".+"$/m, `    name: "${updates.newName}"`);
+  }
+  if (updates.newCapacity) {
+    block = block.replace(/^    capacity: ".+"$/m, `    capacity: "${updates.newCapacity}"`);
   }
 
   fm = fm.slice(0, blockStart) + block + fm.slice(blockEnd);
@@ -192,4 +201,148 @@ export function calcPricePerUnit(price: number, capacity: string): string | null
   }
 
   return `約${formatted}円/${extracted.unit}`;
+}
+
+/**
+ * 楽天商品名から容量文字列を抽出する（extractCapacityTotal で解析可能な形式で返す）
+ * 例: "スコッティ 200枚×5箱"      → "200枚×5箱"
+ * 例: "ネピア 60枚（2,880枚）"    → "（2,880枚）"
+ * 例: "ビオレ ボディウォッシュ 500mL" → "500mL"
+ */
+export function extractCapacityFromItemName(itemName: string): string | null {
+  // パターン1: 掛け算 "200枚×5箱"（楽天名内を検索）
+  const mulRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})\\s*[×xX]\\s*(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})?`);
+  const mulM = itemName.match(mulRe);
+  if (mulM) {
+    const base = `${mulM[1]}${mulM[2]}×${mulM[3]}`;
+    return mulM[4] ? `${base}${mulM[4]}` : base;
+  }
+
+  // パターン2: 括弧内総量 "（2,880枚）"
+  const bracketRe = new RegExp(`[（(]([\\d,]+)\\s*(${CAPACITY_UNITS})[）)]`);
+  const bracketM = itemName.match(bracketRe);
+  if (bracketM) {
+    return `（${bracketM[1]}${bracketM[2]}）`;
+  }
+
+  // パターン3: シンプル "500mL"（最初に見つかる数値+単位）
+  const simpleRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})`);
+  const simpleM = itemName.match(simpleRe);
+  if (simpleM) {
+    return `${simpleM[1]}${simpleM[2]}`;
+  }
+
+  return null;
+}
+
+/**
+ * フロントマターから指定商品ブロックを削除し、残りの rank を振り直す。
+ * 最後の1商品の場合は削除せず null を返す。
+ */
+export function removeProductFromFrontmatter(content: string, productName: string): string | null {
+  const fmMatch = content.match(/^(---\r?\n)([\s\S]*?)(\r?\n---)/);
+  if (!fmMatch) return null;
+
+  const prefix = fmMatch[1];
+  let fm = fmMatch[2];
+  const suffix = fmMatch[3];
+  const rest = content.slice(prefix.length + fm.length + suffix.length);
+
+  // 最後の1商品は削除しない
+  const rankCount = (fm.match(/^  - rank:/gm) ?? []).length;
+  if (rankCount <= 1) return null;
+
+  const nameIdx = fm.indexOf(`    name: "${productName}"`);
+  if (nameIdx === -1) return null;
+
+  const blockStart = fm.lastIndexOf('  - rank:', nameIdx);
+  if (blockStart === -1) return null;
+
+  const nextBlockIdx = fm.indexOf('  - rank:', blockStart + 1);
+  const blockEnd = nextBlockIdx === -1 ? fm.length : nextBlockIdx;
+
+  // ブロックを除去
+  fm = fm.slice(0, blockStart) + fm.slice(blockEnd);
+
+  // rank を 1 から振り直す（split + 再組み立て方式）
+  const sep = '  - rank:';
+  const firstSepIdx = fm.indexOf(sep);
+  if (firstSepIdx !== -1) {
+    const preProducts = fm.slice(0, firstSepIdx);
+    const productBlocks = fm.slice(firstSepIdx).split(sep).slice(1);
+    const renumbered = productBlocks.map((block, i) => {
+      const nlIdx = block.indexOf('\n');
+      const restOfBlock = nlIdx !== -1 ? block.slice(nlIdx) : block;
+      return `${sep} ${i + 1}${restOfBlock}`;
+    }).join('');
+    fm = preProducts + renumbered;
+  }
+
+  return prefix + fm + suffix + rest;
+}
+
+/**
+ * フロントマター内の全商品を pricePerUnit の安い順に並び替え、rank を振り直す。
+ * 有効な pricePerUnit が2件未満、または単位が混在する場合はスキップ。
+ */
+export function reorderProductsByPricePerUnit(
+  content: string
+): { content: string; changed: boolean; log: string[] } {
+  const fmMatch = content.match(/^(---\r?\n)([\s\S]*?)(\r?\n---)/);
+  if (!fmMatch) return { content, changed: false, log: [] };
+
+  const prefix = fmMatch[1];
+  let fm = fmMatch[2];
+  const suffix = fmMatch[3];
+  const rest = content.slice(prefix.length + fm.length + suffix.length);
+
+  const sep = '  - rank:';
+  const sepIdx = fm.indexOf(sep);
+  if (sepIdx === -1) return { content, changed: false, log: [] };
+
+  const preProducts = fm.slice(0, sepIdx);
+  const productBlocks = fm.slice(sepIdx).split(sep).slice(1); // parts[0]="" を除去
+
+  if (productBlocks.length <= 1) return { content, changed: false, log: [] };
+
+  const ppuRe = /^\s*pricePerUnit:\s*"約?([\d.]+)円\/(.+?)"$/m;
+  const nameRe = /^\s*name:\s*"(.+?)"$/m;
+
+  const blockInfos = productBlocks.map((block) => {
+    const ppuMatch = block.match(ppuRe);
+    const nameMatch = block.match(nameRe);
+    let ppuValue = Infinity;
+    let unit = '';
+    if (ppuMatch) {
+      ppuValue = parseFloat(ppuMatch[1]);
+      if (isNaN(ppuValue) || ppuValue === 0) ppuValue = Infinity;
+      unit = ppuMatch[2];
+    }
+    return { rawBlock: block, ppuValue, unit, name: nameMatch?.[1] ?? '' };
+  });
+
+  const validBlocks = blockInfos.filter(b => b.ppuValue !== Infinity);
+  if (validBlocks.length <= 1) return { content, changed: false, log: [] };
+
+  const units = new Set(validBlocks.map(b => b.unit));
+  if (units.size > 1) {
+    return { content, changed: false, log: [`単位が混在しているため並び替えをスキップ: ${[...units].join(', ')}`] };
+  }
+
+  const sorted = [...blockInfos].sort((a, b) => a.ppuValue - b.ppuValue);
+  if (sorted.every((b, i) => b === blockInfos[i])) return { content, changed: false, log: [] };
+
+  const log: string[] = [];
+  const newProductsSection = sorted.map((b, newIdx) => {
+    const oldIdx = blockInfos.indexOf(b);
+    const nlIdx = b.rawBlock.indexOf('\n');
+    const restOfBlock = nlIdx !== -1 ? b.rawBlock.slice(nlIdx) : b.rawBlock;
+    if (oldIdx !== newIdx) {
+      log.push(`rank ${oldIdx + 1} → rank ${newIdx + 1}: ${b.name}`);
+    }
+    return `${sep} ${newIdx + 1}${restOfBlock}`;
+  }).join('');
+
+  fm = preProducts + newProductsSection;
+  return { content: prefix + fm + suffix + rest, changed: true, log };
 }

@@ -6,6 +6,9 @@ import {
   extractProductCapacity,
   extractCapacityTotal,
   calcPricePerUnit,
+  extractCapacityFromItemName,
+  removeProductFromFrontmatter,
+  reorderProductsByPricePerUnit,
 } from "../scripts/lib/frontmatter";
 
 // ─── テスト用フィクスチャ ─────────────────────────────────────────────────
@@ -279,6 +282,201 @@ describe("extractCapacityTotal", () => {
 
   it("解析できない文字列は null を返す", () => {
     expect(extractCapacityTotal("詰め替え用")).toBeNull();
+  });
+});
+
+// ─── updateProductInFrontmatter (newName / newCapacity) ──────────────────
+describe("updateProductInFrontmatter (newName/newCapacity)", () => {
+  it("newName で name フィールドを更新する", () => {
+    const updated = updateProductInFrontmatter(SAMPLE_FRONTMATTER, "商品A 超特大 1200mL×2袋", {
+      price: null,
+      rating: null,
+      reviewCount: null,
+      affiliateUrl: null,
+      imageUrl: null,
+      newName: "商品A 新名称",
+    });
+    expect(updated).toContain('    name: "商品A 新名称"');
+    expect(updated).not.toContain('    name: "商品A 超特大 1200mL×2袋"');
+  });
+
+  it("newCapacity で capacity フィールドを更新する", () => {
+    const updated = updateProductInFrontmatter(SAMPLE_FRONTMATTER, "商品A 超特大 1200mL×2袋", {
+      price: null,
+      rating: null,
+      reviewCount: null,
+      affiliateUrl: null,
+      imageUrl: null,
+      newCapacity: "1200mL×3袋",
+    });
+    expect(updated).toContain('    capacity: "1200mL×3袋"');
+    expect(updated).not.toContain('    capacity: "1200mL×2袋"');
+  });
+});
+
+// ─── extractCapacityFromItemName ──────────────────────────────────────────
+describe("extractCapacityFromItemName", () => {
+  it("掛け算パターンを抽出する", () => {
+    expect(extractCapacityFromItemName("スコッティ 200枚×5箱")).toBe("200枚×5");
+  });
+
+  it("掛け算パターンで後の単位も含める", () => {
+    expect(extractCapacityFromItemName("ネピア 50mL×3本")).toBe("50mL×3本");
+  });
+
+  it("括弧内総量パターンを抽出する", () => {
+    expect(extractCapacityFromItemName("ネピア ティシュー（2,880枚）")).toBe("（2,880枚）");
+  });
+
+  it("シンプルパターンを抽出する", () => {
+    expect(extractCapacityFromItemName("ビオレ ボディウォッシュ 500mL")).toBe("500mL");
+  });
+
+  it("容量表記がない場合は null を返す", () => {
+    expect(extractCapacityFromItemName("商品名のみ テキスト")).toBeNull();
+  });
+});
+
+// ─── removeProductFromFrontmatter ─────────────────────────────────────────
+const SINGLE_PRODUCT_FRONTMATTER = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "商品A 超特大 1200mL×2袋"
+    brand: "ブランドA"
+    price: 1980
+    capacity: "1200mL×2袋"
+    rating: 4.5
+    reviewCount: 500
+    features:
+      - "特徴1"
+    pros:
+      - "メリット1"
+    cons:
+      - "デメリット1"
+    recommendedFor: "テスト対象者"
+    rakutenUrl: "https://example.com/product-a"
+    imageUrl: "https://example.com/image-a.jpg"
+---
+
+本文テキスト。
+`;
+
+describe("removeProductFromFrontmatter", () => {
+  it("2商品から1番目を削除すると残りが rank:1 になる", () => {
+    const result = removeProductFromFrontmatter(SAMPLE_FRONTMATTER, "商品A 超特大 1200mL×2袋");
+    expect(result).not.toBeNull();
+    expect(result).toContain('  - rank: 1');
+    expect(result).toContain('"商品B レギュラー 500g"');
+    expect(result).not.toContain('"商品A 超特大 1200mL×2袋"');
+    expect(result).not.toContain('  - rank: 2');
+  });
+
+  it("2商品から2番目を削除すると残りが rank:1 になる", () => {
+    const result = removeProductFromFrontmatter(SAMPLE_FRONTMATTER, "商品B レギュラー 500g");
+    expect(result).not.toBeNull();
+    expect(result).toContain('  - rank: 1');
+    expect(result).toContain('"商品A 超特大 1200mL×2袋"');
+    expect(result).not.toContain('"商品B レギュラー 500g"');
+    expect(result).not.toContain('  - rank: 2');
+  });
+
+  it("最後の1商品の場合は null を返す", () => {
+    const result = removeProductFromFrontmatter(SINGLE_PRODUCT_FRONTMATTER, "商品A 超特大 1200mL×2袋");
+    expect(result).toBeNull();
+  });
+
+  it("存在しない商品名の場合は null を返す", () => {
+    const result = removeProductFromFrontmatter(SAMPLE_FRONTMATTER, "存在しない商品");
+    expect(result).toBeNull();
+  });
+});
+
+// ─── reorderProductsByPricePerUnit ────────────────────────────────────────
+const PPU_SAMPLE = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "商品A"
+    price: 1000
+    capacity: "100枚"
+    pricePerUnit: "約10円/枚"
+    rakutenUrl: "https://example.com/a"
+    imageUrl: "https://example.com/a.jpg"
+  - rank: 2
+    name: "商品B"
+    price: 500
+    capacity: "100枚"
+    pricePerUnit: "約5円/枚"
+    rakutenUrl: "https://example.com/b"
+    imageUrl: "https://example.com/b.jpg"
+---
+
+本文テキスト。
+`;
+
+const PPU_SORTED_SAMPLE = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "商品A"
+    price: 500
+    capacity: "100枚"
+    pricePerUnit: "約5円/枚"
+    rakutenUrl: "https://example.com/a"
+    imageUrl: "https://example.com/a.jpg"
+  - rank: 2
+    name: "商品B"
+    price: 1000
+    capacity: "100枚"
+    pricePerUnit: "約10円/枚"
+    rakutenUrl: "https://example.com/b"
+    imageUrl: "https://example.com/b.jpg"
+---
+
+本文テキスト。
+`;
+
+describe("reorderProductsByPricePerUnit", () => {
+  it("安い順に並び替えて changed:true を返す", () => {
+    const result = reorderProductsByPricePerUnit(PPU_SAMPLE);
+    expect(result.changed).toBe(true);
+    // 商品B（5円/枚）が rank:1、商品A（10円/枚）が rank:2 になる
+    expect(result.content).toMatch(/- rank: 1[\s\S]*?name: "商品B"/);
+    expect(result.content).toMatch(/- rank: 2[\s\S]*?name: "商品A"/);
+    expect(result.log.length).toBeGreaterThan(0);
+  });
+
+  it("既に安い順の場合は changed:false を返す", () => {
+    const result = reorderProductsByPricePerUnit(PPU_SORTED_SAMPLE);
+    expect(result.changed).toBe(false);
+    expect(result.log).toEqual([]);
+  });
+
+  it("pricePerUnit が1件以下の場合はスキップ", () => {
+    const result = reorderProductsByPricePerUnit(SAMPLE_FRONTMATTER);
+    expect(result.changed).toBe(false);
+  });
+
+  it("単位が混在する場合はスキップしてログを返す", () => {
+    const mixedSample = PPU_SAMPLE.replace('約5円/枚', '約5円/mL');
+    const result = reorderProductsByPricePerUnit(mixedSample);
+    expect(result.changed).toBe(false);
+    expect(result.log[0]).toContain('単位が混在');
+  });
+
+  it("商品が1件の場合はスキップ", () => {
+    const result = reorderProductsByPricePerUnit(SINGLE_PRODUCT_FRONTMATTER);
+    expect(result.changed).toBe(false);
   });
 });
 

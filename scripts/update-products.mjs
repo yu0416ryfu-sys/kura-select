@@ -16,7 +16,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync } from 'fs';
 import { resolve, join, basename } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractCapacityTotal, calcPricePerUnit } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, removeProductFromFrontmatter, reorderProductsByPricePerUnit } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 
@@ -149,26 +149,6 @@ async function fetchRakutenSearch(keyword) {
   };
 }
 
-// ─── 容量差異の警告 ────────────────────────────────────────────────────────
-// 楽天の itemName 内の括弧表記（例: 「210枚」）と記事の capacity を比較し、
-// 5%超の差異があれば警告を出す
-function warnIfCapacityMismatch(articleCapacity, rakutenItemName) {
-  const rakutenRe = new RegExp(`[（(]([\\d,]+)\\s*(mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒)[）)]`);
-  const rakutenM = rakutenItemName.match(rakutenRe);
-  if (!rakutenM) return;
-
-  const rakutenTotal = parseInt(rakutenM[1].replace(/,/g, ''), 10);
-  const articleExtracted = extractCapacityTotal(articleCapacity);
-  if (!articleExtracted) return;
-
-  const diff = Math.abs(rakutenTotal - articleExtracted.total) / articleExtracted.total;
-  if (diff > 0.05) {
-    console.log(`  ⚠ 容量の差異を検出`);
-    console.log(`    記事の capacity: "${articleCapacity}"（${articleExtracted.total}${articleExtracted.unit}）`);
-    console.log(`    楽天の情報: ${rakutenTotal}${rakutenM[2]}（${rakutenItemName.slice(0, 70)}）`);
-    console.log(`    → capacity と pricePerUnit を手動で確認してください`);
-  }
-}
 
 // ─── メイン処理 ────────────────────────────────────────────────────────────
 async function main() {
@@ -208,28 +188,70 @@ async function main() {
           ? calcPricePerUnit(data.price, capacity)
           : null;
 
-        // 楽天 itemName と記事 capacity を比較して差異を警告
-        if (capacity) warnIfCapacityMismatch(capacity, data.name);
-
-        updatedContent = updateProductInFrontmatter(updatedContent, name, {
+        const updates = {
           price: data.price,
           rating: data.rating,
           reviewCount: data.reviewCount,
           affiliateUrl: data.affiliateUrl,
           imageUrl: data.imageUrl,
           pricePerUnit: newPricePerUnit,
-        });
+        };
+
+        // 機能3: 容量差異の自動修正（5%超の差異を検知して name/capacity/pricePerUnit を更新）
+        if (capacity && data.name) {
+          const extractedCap = extractCapacityFromItemName(data.name);
+          if (extractedCap) {
+            const oldTotal = extractCapacityTotal(capacity);
+            const newTotal = extractCapacityTotal(extractedCap);
+            if (oldTotal && newTotal && oldTotal.unit === newTotal.unit) {
+              const diff = Math.abs(newTotal.total - oldTotal.total) / oldTotal.total;
+              if (diff > 0.05) {
+                updates.newName = buildSearchKeyword(data.name);
+                updates.newCapacity = extractedCap;
+                updates.pricePerUnit = data.price !== null
+                  ? calcPricePerUnit(data.price, extractedCap)
+                  : newPricePerUnit;
+                console.log(`🔄 容量修正: "${capacity}" → "${extractedCap}", name → "${updates.newName}"`);
+              }
+            }
+          }
+        }
+
+        updatedContent = updateProductInFrontmatter(updatedContent, name, updates);
         results.push({ success: true, name: data.name.slice(0, 40), price: data.price, rating: data.rating, reviewCount: data.reviewCount });
-        const ppuSuffix = newPricePerUnit ? ` → ${newPricePerUnit}` : '';
+        const ppuSuffix = updates.pricePerUnit ? ` → ${updates.pricePerUnit}` : '';
         console.log(`✅ ¥${data.price?.toLocaleString()} 評価${data.rating}(${data.reviewCount?.toLocaleString()}件)${ppuSuffix}`);
         totalSuccess++;
       } catch (e) {
-        console.log(`❌ ${e.message}`);
+        // 機能2: 検索0件エラー時は商品ブロックを自動削除
+        const isZeroResult = e.message.includes('0件') || e.message.includes('通常商品が見つかりません');
+        if (isZeroResult) {
+          const removed = removeProductFromFrontmatter(updatedContent, name);
+          if (removed === null) {
+            console.log(`❌ ${e.message} ⚠ 削除スキップ（最後の1商品）`);
+          } else if (!DRY_RUN) {
+            updatedContent = removed;
+            console.log(`🗑 削除: "${name}"`);
+          } else {
+            console.log(`🗑 [dry-run] 削除予定: "${name}"`);
+          }
+        } else {
+          console.log(`❌ ${e.message}`);
+        }
         results.push({ success: false, name: shortName, reason: e.message });
         totalFail++;
       }
       // APIレート制限対策（2秒間隔）
       await new Promise(r => setTimeout(r, 2000));
+    }
+
+    // 機能1: コスパ順並び替え（全商品処理後）
+    const reorderResult = reorderProductsByPricePerUnit(updatedContent);
+    if (reorderResult.changed) {
+      updatedContent = reorderResult.content;
+      reorderResult.log.forEach(l => console.log(`   🔀 ${l}`));
+    } else if (reorderResult.log.length > 0) {
+      reorderResult.log.forEach(l => console.log(`   ⚠ ${l}`));
     }
 
     if (!DRY_RUN && updatedContent !== content) {
