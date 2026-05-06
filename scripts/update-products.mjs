@@ -16,7 +16,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync } from 'fs';
 import { resolve, join, basename } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, removeProductFromFrontmatter, reorderProductsByPricePerUnit } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 
@@ -255,11 +255,14 @@ async function main() {
     }
 
     if (!DRY_RUN && updatedContent !== content) {
-      // バックアップ作成
+      // updatedAt を当日の JST 日付で更新（sv ロケールは YYYY-MM-DD 形式）
+      const today = new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Tokyo' }).format(new Date());
+      updatedContent = updateUpdatedAt(updatedContent, today);
+      // バックアップ作成（元ファイルを保存）
       writeFileSync(filePath + '.bak', content, 'utf-8');
       // ファイル更新
       writeFileSync(filePath, updatedContent, 'utf-8');
-      console.log(`   💾 更新完了（バックアップ: ${basename(filePath)}.bak）`);
+      console.log(`   💾 更新完了（updatedAt: ${today}、バックアップ: ${basename(filePath)}.bak）`);
     }
   }
 

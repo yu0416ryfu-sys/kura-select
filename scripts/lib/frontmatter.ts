@@ -282,6 +282,21 @@ export function removeProductFromFrontmatter(content: string, productName: strin
 }
 
 /**
+ * フロントマターの updatedAt フィールドを指定日付で更新する（YYYY-MM-DD 形式）
+ * updatedAt が存在しない場合は publishedAt の直後に挿入する
+ */
+export function updateUpdatedAt(content: string, date: string): string {
+  if (/^updatedAt:\s+\S+/m.test(content)) {
+    return content.replace(/^(updatedAt:)\s+\S+/m, `$1 ${date}`);
+  }
+  if (/^publishedAt:\s+\S+/m.test(content)) {
+    return content.replace(/^(publishedAt:\s+\S+)/m, `$1\nupdatedAt: ${date}`);
+  }
+  // どちらもない場合はフロントマター末尾の closing --- 直前に追加
+  return content.replace(/^(---\s*)$/m, `updatedAt: ${date}\n$1`);
+}
+
+/**
  * フロントマター内の全商品を pricePerUnit の安い順に並び替え、rank を振り直す。
  * 有効な pricePerUnit が2件未満、または単位が混在する場合はスキップ。
  */

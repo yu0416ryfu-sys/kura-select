@@ -9,6 +9,7 @@ import {
   extractCapacityFromItemName,
   removeProductFromFrontmatter,
   reorderProductsByPricePerUnit,
+  updateUpdatedAt,
 } from "../scripts/lib/frontmatter";
 
 // ─── テスト用フィクスチャ ─────────────────────────────────────────────────
@@ -477,6 +478,39 @@ describe("reorderProductsByPricePerUnit", () => {
   it("商品が1件の場合はスキップ", () => {
     const result = reorderProductsByPricePerUnit(SINGLE_PRODUCT_FRONTMATTER);
     expect(result.changed).toBe(false);
+  });
+});
+
+// ─── updateUpdatedAt ──────────────────────────────────────────────────────
+const UPDATED_AT_SAMPLE = `---
+title: "テスト記事"
+publishedAt: 2026-04-01
+updatedAt: 2026-04-01
+---
+本文`;
+
+describe("updateUpdatedAt", () => {
+  it("既存の updatedAt を指定日付で置換する", () => {
+    const result = updateUpdatedAt(UPDATED_AT_SAMPLE, "2026-05-06");
+    expect(result).toContain("updatedAt: 2026-05-06");
+    expect(result).not.toContain("updatedAt: 2026-04-01");
+  });
+
+  it("updatedAt がない場合は publishedAt の直後に挿入する", () => {
+    const noUpdatedAt = UPDATED_AT_SAMPLE.replace("\nupdatedAt: 2026-04-01", "");
+    const result = updateUpdatedAt(noUpdatedAt, "2026-05-06");
+    expect(result).toContain("publishedAt: 2026-04-01\nupdatedAt: 2026-05-06");
+  });
+
+  it("publishedAt も updatedAt もない場合でも updatedAt を追加する", () => {
+    const minimal = `---\ntitle: "テスト"\n---\n本文`;
+    const result = updateUpdatedAt(minimal, "2026-05-06");
+    expect(result).toContain("updatedAt: 2026-05-06");
+  });
+
+  it("本文部分は変更されない", () => {
+    const result = updateUpdatedAt(UPDATED_AT_SAMPLE, "2026-05-06");
+    expect(result).toContain("本文");
   });
 });
 
