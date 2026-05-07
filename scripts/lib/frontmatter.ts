@@ -112,6 +112,13 @@ export function extractProductCapacity(content: string, productName: string): st
 }
 
 const CAPACITY_UNITS = 'mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒';
+const PACK_UNITS = 'ロール|パック|セット|箱|缶';
+
+function normalizeItemName(s: string): string {
+  return s.replace(/[ａ-ｚＡ-Ｚ０-９]/g, c =>
+    String.fromCharCode(c.charCodeAt(0) - 0xFEE0)
+  );
+}
 
 /**
  * capacity フィールドの文字列から総量と単位を抽出する
@@ -122,6 +129,7 @@ const CAPACITY_UNITS = 'mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒';
  * 例: "500g"                        → { total: 500,  unit: "g"  }
  */
 export function extractCapacityTotal(capacity: string): { total: number; unit: string } | null {
+  capacity = normalizeItemName(capacity);
   // パターン1: 括弧内に明示された総量 "（1,376枚）"（最も信頼性が高い）
   const bracketRe = new RegExp(`[（(]([\\d,]+)\\s*(${CAPACITY_UNITS})[）)]`);
   const bracketM = capacity.match(bracketRe);
@@ -186,12 +194,13 @@ export function calcPricePerUnit(price: number, capacity: string): string | null
  * 例: "ビオレ ボディウォッシュ 500mL" → "500mL"
  */
 export function extractCapacityFromItemName(itemName: string): string | null {
-  // パターン1: × 区切り乗算チェーン（複数因子対応）"200枚×5箱" "500枚×5箱×12パック"
-  // 非CAPACITY_UNITS単位（箱・パック等）はスキップして数値のみ連結する
+  itemName = normalizeItemName(itemName);
+  // パターン1: × 区切り乗算チェーン（複数因子対応）"200枚×5箱" "50m×12ロール×6パック"
+  // CAPACITY_UNITS および PACK_UNITS（ロール・パック・箱等）の両方を単位として認識する
   const mulRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})`);
   const mulM = itemName.match(mulRe);
   if (mulM && mulM.index !== undefined) {
-    const capacityUnitRe = new RegExp(`^(${CAPACITY_UNITS})`);
+    const capacityUnitRe = new RegExp(`^(${CAPACITY_UNITS}|${PACK_UNITS})`);
     let result = mulM[1] + mulM[2];
     let pos = mulM.index + mulM[0].length;
     let foundChain = false;

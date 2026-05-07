@@ -296,6 +296,18 @@ describe("extractCapacityTotal", () => {
   it("括弧注釈付きは枚数のみ返す", () => {
     expect(extractCapacityTotal("500枚(250組)")).toEqual({ total: 500, unit: "枚" });
   });
+
+  it("ロール単位付き掛け算の総量を計算する", () => {
+    expect(extractCapacityTotal("40m×4ロール")).toEqual({ total: 160, unit: "m" });
+  });
+
+  it("ロール＋パック単位の3因子掛け算を計算する", () => {
+    expect(extractCapacityTotal("50m×12ロール×6パック")).toEqual({ total: 3600, unit: "m" });
+  });
+
+  it("全角ｍを正規化して計算する", () => {
+    expect(extractCapacityTotal("25ｍ×12ロール")).toEqual({ total: 300, unit: "m" });
+  });
 });
 
 // ─── updateProductInFrontmatter (newName / newCapacity) ──────────────────
@@ -329,8 +341,8 @@ describe("updateProductInFrontmatter (newName/newCapacity)", () => {
 
 // ─── extractCapacityFromItemName ──────────────────────────────────────────
 describe("extractCapacityFromItemName", () => {
-  it("掛け算パターンを抽出する", () => {
-    expect(extractCapacityFromItemName("スコッティ 200枚×5箱")).toBe("200枚×5");
+  it("掛け算パターンを抽出する（箱単位も保持する）", () => {
+    expect(extractCapacityFromItemName("スコッティ 200枚×5箱")).toBe("200枚×5箱");
   });
 
   it("掛け算パターンで後の単位も含める", () => {
@@ -357,12 +369,28 @@ describe("extractCapacityFromItemName", () => {
     expect(extractCapacityFromItemName("ハロー トイレットペーパー 50m 12ロール×6パック")).toBe("50m×12ロール");
   });
 
-  it("× 区切りの場合はパターン1が優先される", () => {
-    expect(extractCapacityFromItemName("エリエール 50m×72ロール ダブル")).toBe("50m×72");
+  it("× 区切りの場合はパターン1が優先され、ロール単位も保持する", () => {
+    expect(extractCapacityFromItemName("エリエール 50m×72ロール ダブル")).toBe("50m×72ロール");
   });
 
-  it("3因子の掛け算チェーンを抽出する", () => {
-    expect(extractCapacityFromItemName("スコッティ ティッシュ 500枚×5箱×12パック")).toBe("500枚×5×12");
+  it("3因子の掛け算チェーンで箱・パック単位を保持する", () => {
+    expect(extractCapacityFromItemName("スコッティ ティッシュ 500枚×5箱×12パック")).toBe("500枚×5箱×12パック");
+  });
+
+  it("× 区切りでロール単位を保持する", () => {
+    expect(extractCapacityFromItemName("トイレットペーパー 40m×4ロール シングル")).toBe("40m×4ロール");
+  });
+
+  it("× 区切りでロール＋パックを両方保持する", () => {
+    expect(extractCapacityFromItemName("50m×12ロール×6パック まとめ買い")).toBe("50m×12ロール×6パック");
+  });
+
+  it("3因子チェーン（ロール＋パック）を抽出する", () => {
+    expect(extractCapacityFromItemName("100m×12ロール×4パック")).toBe("100m×12ロール×4パック");
+  });
+
+  it("全角ｍを半角mに正規化して抽出する", () => {
+    expect(extractCapacityFromItemName("25ｍ×12ロール")).toBe("25m×12ロール");
   });
 });
 
