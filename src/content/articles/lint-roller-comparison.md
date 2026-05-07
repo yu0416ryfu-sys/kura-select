@@ -3,7 +3,7 @@ title: "粘着クリーナー コスパ最強ランキング【2026年版】1巻
 description: "粘着クリーナー（コロコロ）を1巻あたりのコストで徹底比較。ニトムズ・アイリスオーヤマ・3M・レックなど人気4選を粘着力・コスパで解説します。"
 category: "lint-roller"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-06
+updatedAt: 2026-05-07
 products:
   - rank: 1
     name: "アイリスオーヤマ 粘着クリーナー スペアテープ 90巻入り"
@@ -52,9 +52,9 @@ products:
   - rank: 3
     name: "レック 激コロ スゴ技カット スペアテープ 3巻入り"
     brand: "レック"
-    price: 790
+    price: 690
     capacity: "3巻（1巻70周）"
-    pricePerUnit: "約263円/巻"
+    pricePerUnit: "約230円/巻"
     rating: 5
     reviewCount: 2
     features:
