@@ -117,11 +117,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F369-3195%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10102400%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin300_05/369-3195.jpg?_ex=128x128"
   - rank: 6
-    name: "エリエール トイレットティシュー ダブル 12ロール"
+    name: "エリエール トイレットティシュー たっぷり長持ち ダブル 12ロール×6個セット"
     brand: "大王製紙（エリエール）"
     price: 6383
-    capacity: "25m×12ロール（ダブル）"
-    pricePerUnit: "約21円/m"
+    capacity: "45m×12ロール×6個"
+    pricePerUnit: "約2.0円/m"
     rating: 4.51
     reviewCount: 582
     features:

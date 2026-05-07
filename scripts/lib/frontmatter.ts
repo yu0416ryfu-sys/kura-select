@@ -197,7 +197,8 @@ export function extractCapacityFromItemName(itemName: string): string | null {
   itemName = normalizeItemName(itemName);
   // パターン1: × 区切り乗算チェーン（複数因子対応）"200枚×5箱" "50m×12ロール×6パック"
   // CAPACITY_UNITS および PACK_UNITS（ロール・パック・箱等）の両方を単位として認識する
-  const mulRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})`);
+  // PACK_UNITS も起点として認識する（例: "（12ロール×6個セット）" で 12ロール を先に捕捉）
+  const mulRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS}|${PACK_UNITS})`);
   const mulM = itemName.match(mulRe);
   if (mulM && mulM.index !== undefined) {
     const capacityUnitRe = new RegExp(`^(${CAPACITY_UNITS}|${PACK_UNITS})`);

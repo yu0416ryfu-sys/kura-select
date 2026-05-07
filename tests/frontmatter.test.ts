@@ -414,6 +414,12 @@ describe("extractCapacityFromItemName", () => {
       extractCapacityFromItemName("50m ケース販売(12ロール×6パック入)")
     ).toBe("50m×12ロール×6パック");
   });
+
+  it("PACK_UNIT 始まりのチェーンを正しい順序で抽出する（mulRe PACK_UNITS 拡張）", () => {
+    expect(
+      extractCapacityFromItemName("エリエール トイレットティシュー たっぷり長持ち ダブル（12ロール×6個セット）")
+    ).toBe("12ロール×6個");
+  });
 });
 
 // ─── removeProductFromFrontmatter ─────────────────────────────────────────
