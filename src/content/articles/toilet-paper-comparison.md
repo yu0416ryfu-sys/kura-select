@@ -164,8 +164,8 @@ products:
     name: "ハロー トイレットペーパー ダブル 2倍巻き"
     brand: "ハロー"
     price: 6210
-    capacity: "50m"
-    pricePerUnit: "約124円/m"
+    capacity: "50m×12ロール×6パック"
+    pricePerUnit: "約1.7円/m"
     rating: 4
     reviewCount: 3
     features:

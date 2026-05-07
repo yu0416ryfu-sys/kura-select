@@ -222,6 +222,18 @@ export function extractCapacityFromItemName(itemName: string): string | null {
       foundChain = true;
     }
     if (foundChain) return result;
+
+    // パターン1d: 括弧内に PACK_UNITS の乗算チェーンがある場合
+    // 例: "50m ケース販売(12ロール×6パック入)" → "50m×12ロール×6パック"
+    const parenFactorRe = /[（(]([^）)]+)[）)]/g;
+    let parenMatch: RegExpExecArray | null;
+    while ((parenMatch = parenFactorRe.exec(itemName)) !== null) {
+      const packFactors = [...parenMatch[1].matchAll(new RegExp(`(\\d[\\d,]*)\\s*(${PACK_UNITS})`, 'g'))];
+      if (packFactors.length >= 1) {
+        for (const f of packFactors) result += '×' + f[1] + f[2];
+        return result;
+      }
+    }
   }
 
   // パターン1b: スペース区切りの数量表現 "50m 72ロール" → "50m×72ロール"
