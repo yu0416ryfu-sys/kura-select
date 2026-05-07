@@ -365,8 +365,8 @@ describe("extractCapacityFromItemName", () => {
     expect(extractCapacityFromItemName("エリエール i:na 50m 72ロール ダブル")).toBe("50m×72ロール");
   });
 
-  it("スペース区切りのパック数を掛け算として認識する", () => {
-    expect(extractCapacityFromItemName("ハロー トイレットペーパー 50m 12ロール×6パック")).toBe("50m×12ロール");
+  it("スペース区切りで始まり × チェーンが続く場合に全因子を保持する（Pattern 1c）", () => {
+    expect(extractCapacityFromItemName("ハロー トイレットペーパー 50m 12ロール×6パック")).toBe("50m×12ロール×6パック");
   });
 
   it("× 区切りの場合はパターン1が優先され、ロール単位も保持する", () => {
@@ -391,6 +391,28 @@ describe("extractCapacityFromItemName", () => {
 
   it("全角ｍを半角mに正規化して抽出する", () => {
     expect(extractCapacityFromItemName("25ｍ×12ロール")).toBe("25m×12ロール");
+  });
+
+  it("スペース区切り＋× チェーンでロール×パックを抽出する（Pattern 1c）", () => {
+    expect(extractCapacityFromItemName("スコッティ フラワーパック 100m 12ロール×4パック")).toBe("100m×12ロール×4パック");
+  });
+
+  it("スペース区切り＋× チェーン後の括弧内総量は無視する（Pattern 1c）", () => {
+    expect(extractCapacityFromItemName("スコッティ フラワーパック 100m 12ロール×4パック(48ロール)")).toBe("100m×12ロール×4パック");
+  });
+
+  it("数量1のパック単位は Pattern 1d に委譲する（1パック はスキップ）", () => {
+    expect(
+      extractCapacityFromItemName(
+        "大王製紙 エリエール i:na（イーナ）トイレットティシュー シングル 100m 1パック（12ロール）"
+      )
+    ).toBe("100m×12ロール");
+  });
+
+  it("括弧内に複数の PACK_UNITS がある場合に結合する（Pattern 1d）", () => {
+    expect(
+      extractCapacityFromItemName("50m ケース販売(12ロール×6パック入)")
+    ).toBe("50m×12ロール×6パック");
   });
 });
 

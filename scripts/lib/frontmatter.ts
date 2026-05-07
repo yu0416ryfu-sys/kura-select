@@ -223,6 +223,30 @@ export function extractCapacityFromItemName(itemName: string): string | null {
     }
     if (foundChain) return result;
 
+    // パターン1c: スペース区切り PACK_UNIT から始まり × チェーンが続くケース
+    // 例: "100m 12ロール×4パック" → "100m×12ロール×4パック"
+    // 数量1の集合単位（"1パック" 等）は Pattern 1d に委譲するため qty > 1 のみ対象
+    const remaining = itemName.slice(pos);
+    const packStartRe = new RegExp(`^\\s+(\\d[\\d,]*)\\s*(${PACK_UNITS})`);
+    const packStartM = remaining.match(packStartRe);
+    if (packStartM && parseInt(packStartM[1].replace(/,/g, ''), 10) > 1) {
+      let chainResult = result + '×' + packStartM[1] + packStartM[2];
+      let chainPos = pos + packStartM[0].length;
+      while (chainPos < itemName.length) {
+        const ahead = itemName.slice(chainPos);
+        const xMatch = ahead.match(/^([^×xX\d]*)[×xX]\s*(\d[\d,]*)/);
+        if (!xMatch || /\d/.test(xMatch[1])) break;
+        chainResult += '×' + xMatch[2];
+        chainPos += xMatch[0].length;
+        const unitM = itemName.slice(chainPos).match(capacityUnitRe);
+        if (unitM) {
+          chainResult += unitM[1];
+          chainPos += unitM[1].length;
+        }
+      }
+      return chainResult;
+    }
+
     // パターン1d: 括弧内に PACK_UNITS の乗算チェーンがある場合
     // 例: "50m ケース販売(12ロール×6パック入)" → "50m×12ロール×6パック"
     const parenFactorRe = /[（(]([^）)]+)[）)]/g;

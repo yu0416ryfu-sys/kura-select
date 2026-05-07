@@ -98,8 +98,8 @@ products:
     name: "大王製紙　エリエール　i：naトイレットティシュー　シングル　芯あり"
     brand: "大王製紙（エリエール）"
     price: 1193
-    capacity: "100m"
-    pricePerUnit: "約12円/m"
+    capacity: "100m×12ロール"
+    pricePerUnit: "約1円/m"
     rating: 4.78
     reviewCount: 50
     features:
@@ -139,11 +139,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F14495%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10678469%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/495/14495.jpg?_ex=128x128"
   - rank: 7
-    name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
+    name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち"
     brand: "日本製紙クレシア（スコッティ）"
     price: 4799
-    capacity: "100m"
-    pricePerUnit: "約48円/m"
+    capacity: "100m×12ロール×4パック"
+    pricePerUnit: "約1円/m"
     rating: 4.66
     reviewCount: 389
     features:
