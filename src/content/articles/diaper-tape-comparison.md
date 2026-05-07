@@ -30,11 +30,11 @@ products:
   - rank: 2
     name: "たっぷり"
     brand: "ユニ・チャーム（グーン）"
-    price: 2200
+    price: 3980
     capacity: "28枚"
-    pricePerUnit: "約79円/枚"
-    rating: 4.75
-    reviewCount: 52
+    pricePerUnit: "約142円/枚"
+    rating: 4.28
+    reviewCount: 22879
     features:
       - "価格を抑えたコスパ重視のシリーズ"
       - "ゆるうんちポケットで漏れを防ぐ"
@@ -47,8 +47,8 @@ products:
       - "ムーニーと比べると機能がシンプル"
       - "肌触りはプレミアムラインには劣る"
     recommendedFor: "コスパ重視・毎日の使用コストを抑えたい方・双子・多子家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r310n.3rdw699f.g00r310n.3rdw7350/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faleppo-souq%2F10001027%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faleppo-souq%2Fi%2F10001027%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aleppo-souq/cabinet/03029818/07920183/imgrc0112100931.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pt2hn.3rdw62c1.g00pt2hn.3rdw7d43/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkamachu%2Fmix%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkamachu%2Fi%2F10000209%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kamachu/cabinet/06488113/mix24750.jpg?_ex=128x128"
   - rank: 3
     name: "たっぷり"
     brand: "ユニ・チャーム（ムーニー）"
