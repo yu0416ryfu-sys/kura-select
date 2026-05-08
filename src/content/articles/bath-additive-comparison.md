@@ -31,7 +31,7 @@ products:
     name: "バスクリン 大容量 600g×3個"
     brand: "バスクリン"
     price: 2465
-    capacity: "600g×3個（約60回分）"
+    capacity: "30g×82個"
     pricePerUnit: "約1.4円/g"
     rating: 4.75
     reviewCount: 211
