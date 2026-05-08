@@ -3,7 +3,7 @@ title: "洗濯洗剤 コスパ最強ランキング【2026年版】1回あたり
 description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉末・ジェルボール別におすすめ4選を紹介。楽天で買えるコスパ最強の洗濯洗剤を探している方必見です。"
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
-updatedAt: 2026-05-07
+updatedAt: 2026-05-08
 products:
   - rank: 1
     name: "アリエール 洗濯洗剤 液体 詰め替え 超ジャンボ 1000g×4セット"

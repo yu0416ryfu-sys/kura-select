@@ -3,7 +3,7 @@ title: "歯ブラシ コスパ最強ランキング【2026年版】1本あたり
 description: "歯ブラシを1本あたりのコストで徹底比較。システマ・クリニカ・GUM・タフト24など人気4選を磨き心地・耐久性・コスパで解説します。"
 category: "toothpaste"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-07
+updatedAt: 2026-05-08
 products:
   - rank: 1
     name: "タフト24 歯ブラシ 10本セット MS"

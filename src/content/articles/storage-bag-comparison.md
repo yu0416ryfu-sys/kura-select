@@ -3,7 +3,7 @@ title: "保存袋・フリーザーバッグ コスパ最強ランキング【20
 description: "保存袋・フリーザーバッグを1枚あたりのコストで徹底比較。ジップロック・アイラップ・業務用など人気4選を密封性・耐久性で解説します。"
 category: "wrap-foil"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-07
+updatedAt: 2026-05-08
 products:
   - rank: 1
     name: "アイラップ 60枚入×5箱セット"
