@@ -5,6 +5,7 @@ import JsonLd from "../components/seo/JsonLd.astro";
 import ComparisonTable from "../components/product/ComparisonTable.astro";
 import ProductCard from "../components/product/ProductCard.astro";
 import TopPickCta from "../components/product/TopPickCta.astro";
+import RakutenLink from "../components/product/RakutenLink.astro";
 import { SITE, url } from "../lib/site";
 import type { CollectionEntry } from "astro:content";
 
@@ -86,6 +87,7 @@ const productJsonLds = data.products
   title={data.title}
   description={data.description}
   ogImage={ogImage}
+  ogType="article"
 >
   <Fragment slot="head">
     <JsonLd data={articleJsonLd} />
@@ -147,6 +149,21 @@ const productJsonLds = data.products
         <div class="prose prose-slate max-w-none mt-8 [&_h2]:text-xl [&_h2]:font-bold [&_h2]:mt-8 [&_h2]:mb-4 [&_h3]:text-lg [&_h3]:font-semibold [&_h3]:mt-6 [&_h3]:mb-3 [&_p]:mb-4 [&_ul]:mb-4 [&_li]:mb-1 [&_table]:w-full [&_table]:text-sm [&_th]:bg-[var(--color-surface)] [&_th]:px-3 [&_th]:py-2 [&_td]:px-3 [&_td]:py-2 [&_td]:border-b [&_td]:border-[var(--color-border)]">
           <slot />
         </div>
+
+        <!-- 記事本文後インライン CTA（1位商品） -->
+        {data.products.length > 0 && (() => {
+          const top = data.products.find((p) => p.rank === 1) ?? data.products[0];
+          return (
+            <div class="mt-8 p-4 md:p-5 bg-sky-50 border border-sky-200 rounded-xl flex flex-col sm:flex-row items-start sm:items-center gap-4">
+              <div class="flex-1 min-w-0">
+                <p class="text-xs font-semibold text-sky-600 mb-1">この記事の結論</p>
+                <p class="font-bold text-[var(--color-text)] text-sm leading-snug line-clamp-2">{top.name}</p>
+                <p class="text-sm text-[var(--color-text-sub)] mt-0.5">¥{top.price.toLocaleString()}{top.pricePerUnit ? `　${top.pricePerUnit}` : ""}</p>
+              </div>
+              <RakutenLink href={top.rakutenUrl} productName={top.name} size="sm" />
+            </div>
+          );
+        })()}
 
         <!-- 商品詳細セクション -->
         <section aria-label="商品詳細" class="mt-10">

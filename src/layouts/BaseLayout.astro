@@ -11,9 +11,10 @@ interface Props {
   ogImage?: string;
   canonical?: string;
   noindex?: boolean;
+  ogType?: string;
 }
 
-const { title, description, ogImage, canonical, noindex } = Astro.props;
+const { title, description, ogImage, canonical, noindex, ogType } = Astro.props;
 ---
 
 <!doctype html>
@@ -25,6 +26,7 @@ const { title, description, ogImage, canonical, noindex } = Astro.props;
       ogImage={ogImage}
       canonical={canonical}
       noindex={noindex}
+      ogType={ogType}
     />
     <link rel="icon" type="image/svg+xml" href={url("/favicon.svg")} />
     <slot name="head" />

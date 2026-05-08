@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yu0416ryfu-sys.github.io/kura-select/sitemap-index.xml
+Sitemap: https://www.kura-select.com/sitemap-index.xml
