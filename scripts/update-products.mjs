@@ -16,7 +16,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync } from 'fs';
 import { resolve, join, basename } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 
@@ -252,6 +252,13 @@ async function main() {
       reorderResult.log.forEach(l => console.log(`   🔀 ${l}`));
     } else if (reorderResult.log.length > 0) {
       reorderResult.log.forEach(l => console.log(`   ⚠ ${l}`));
+    }
+
+    // 機能4: name に埋め込まれた容量と capacity フィールドの食い違いを修正
+    const nameCapResult = fixNameCapacityConflicts(updatedContent);
+    if (nameCapResult.changed) {
+      updatedContent = nameCapResult.content;
+      nameCapResult.log.forEach(l => console.log(`   🔧 ${l}`));
     }
 
     if (!DRY_RUN && updatedContent !== content) {

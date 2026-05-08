@@ -332,6 +332,55 @@ export function removeProductFromFrontmatter(content: string, productName: strin
 }
 
 /**
+ * 全商品の name に埋め込まれた容量が capacity と食い違う場合、
+ * name 内の容量を capacity の値で上書きする。
+ * × を含む複合表記・単位不一致はスキップ（安全側）。
+ */
+export function fixNameCapacityConflicts(
+  content: string
+): { content: string; changed: boolean; log: string[] } {
+  const parsed = parseFrontmatter(content);
+  if (!parsed || !Array.isArray(parsed.data.products)) {
+    return { content, changed: false, log: [] };
+  }
+
+  type P = Record<string, unknown>;
+  const products = parsed.data.products as P[];
+  let changed = false;
+  const log: string[] = [];
+
+  for (const product of products) {
+    const rank = typeof product.rank === 'number' ? product.rank : '?';
+    const name = typeof product.name === 'string' ? product.name : null;
+    const capacity = typeof product.capacity === 'string' ? product.capacity : null;
+    if (!name || !capacity) continue;
+
+    const embeddedCap = extractCapacityFromItemName(name);
+    if (!embeddedCap) continue;
+    if (embeddedCap === capacity) continue;
+    // × 含む複合表記は置換が危険（例: "300mL×2個" → capacity "290mL" は意味が変わる）
+    if (/[×xX]/.test(embeddedCap)) continue;
+
+    const embeddedParsed = extractCapacityTotal(embeddedCap);
+    const capacityParsed = extractCapacityTotal(capacity);
+    if (!embeddedParsed || !capacityParsed) continue;
+    if (embeddedParsed.unit !== capacityParsed.unit) continue;
+    if (embeddedParsed.total === capacityParsed.total) continue;
+
+    // indexOf/slice で置換（capacity に $ が含まれる場合の String.replace 誤動作を回避）
+    const idx = name.indexOf(embeddedCap);
+    if (idx === -1) continue;
+
+    product.name = name.slice(0, idx) + capacity + name.slice(idx + embeddedCap.length);
+    log.push(`rank ${rank}: name の ${embeddedCap} を ${capacity} に修正`);
+    changed = true;
+  }
+
+  if (!changed) return { content, changed: false, log };
+  return { content: dumpFrontmatter(parsed.data, parsed.body), changed: true, log };
+}
+
+/**
  * フロントマターの updatedAt フィールドを指定日付で更新する（YYYY-MM-DD 形式）
  * updatedAt が存在しない場合は publishedAt の直後に挿入する
  */

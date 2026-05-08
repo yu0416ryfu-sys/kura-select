@@ -10,6 +10,7 @@ import {
   removeProductFromFrontmatter,
   reorderProductsByPricePerUnit,
   updateUpdatedAt,
+  fixNameCapacityConflicts,
 } from "../scripts/lib/frontmatter";
 
 // ─── テスト用フィクスチャ ─────────────────────────────────────────────────
@@ -682,5 +683,134 @@ describe("calcPricePerUnit", () => {
 
   it("解析できない容量は null を返す", () => {
     expect(calcPricePerUnit(1000, "詰め替え用")).toBeNull();
+  });
+});
+
+// ─── fixNameCapacityConflicts ─────────────────────────────────────────────
+
+const CONFLICT_SAMPLE = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "ビオレ 素肌つるるんクレンジングウォーター 300mL"
+    brand: "花王"
+    price: 6263
+    capacity: "290mL"
+    rating: 4.4
+    reviewCount: 800
+    features:
+      - "特徴1"
+    pros:
+      - "メリット1"
+    cons:
+      - "デメリット1"
+    recommendedFor: "ライトメイクの方"
+    rakutenUrl: "https://example.com/biore"
+    imageUrl: "https://example.com/biore.jpg"
+---
+本文。
+`;
+
+describe("fixNameCapacityConflicts", () => {
+  it("name の埋め込み容量が capacity と食い違う場合に capacity の値で置換する", () => {
+    const result = fixNameCapacityConflicts(CONFLICT_SAMPLE);
+    expect(result.changed).toBe(true);
+    expect(result.content).toContain('"ビオレ 素肌つるるんクレンジングウォーター 290mL"');
+    expect(result.content).not.toContain("300mL");
+    expect(result.log).toHaveLength(1);
+    expect(result.log[0]).toContain("rank 1");
+    expect(result.log[0]).toContain("300mL");
+    expect(result.log[0]).toContain("290mL");
+  });
+
+  it("name の埋め込み容量が capacity と完全一致する場合はスキップする", () => {
+    const content = CONFLICT_SAMPLE.replace('capacity: "290mL"', 'capacity: "300mL"');
+    const result = fixNameCapacityConflicts(content);
+    expect(result.changed).toBe(false);
+    expect(result.log).toHaveLength(0);
+    expect(result.content).toBe(content);
+  });
+
+  it("name に埋め込まれた容量が × を含む複合表記の場合はスキップする", () => {
+    const content = CONFLICT_SAMPLE
+      .replace('"ビオレ 素肌つるるんクレンジングウォーター 300mL"', '"商品X 300mL×2個 詰め替えセット"');
+    const result = fixNameCapacityConflicts(content);
+    expect(result.changed).toBe(false);
+    expect(result.content).toBe(content);
+  });
+
+  it("name の埋め込み容量と capacity の単位が異なる場合はスキップする", () => {
+    const content = CONFLICT_SAMPLE.replace('capacity: "290mL"', 'capacity: "290g"');
+    const result = fixNameCapacityConflicts(content);
+    expect(result.changed).toBe(false);
+  });
+
+  it("name と capacity の total が同じ場合はスキップする", () => {
+    const content = CONFLICT_SAMPLE
+      .replace('"ビオレ 素肌つるるんクレンジングウォーター 300mL"', '"商品Y 500g 詰め替え"')
+      .replace('capacity: "290mL"', 'capacity: "500g"');
+    const result = fixNameCapacityConflicts(content);
+    expect(result.changed).toBe(false);
+  });
+
+  it("複数商品のうち食い違いがある商品だけを修正し他は変更しない", () => {
+    const multi = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "商品A 300mL ローション"
+    brand: "ブランドA"
+    price: 1200
+    capacity: "290mL"
+    rating: 4.0
+    reviewCount: 100
+    features:
+      - "特徴1"
+    pros:
+      - "メリット1"
+    cons:
+      - "デメリット1"
+    recommendedFor: "テスト"
+    rakutenUrl: "https://example.com/a"
+    imageUrl: "https://example.com/a.jpg"
+  - rank: 2
+    name: "商品B 500g クリーム"
+    brand: "ブランドB"
+    price: 800
+    capacity: "500g"
+    rating: 4.0
+    reviewCount: 100
+    features:
+      - "特徴2"
+    pros:
+      - "メリット2"
+    cons:
+      - "デメリット2"
+    recommendedFor: "テスト"
+    rakutenUrl: "https://example.com/b"
+    imageUrl: "https://example.com/b.jpg"
+---
+本文。
+`;
+    const result = fixNameCapacityConflicts(multi);
+    expect(result.changed).toBe(true);
+    expect(result.content).toContain('"商品A 290mL ローション"');
+    expect(result.content).toContain('"商品B 500g クリーム"');
+    expect(result.log).toHaveLength(1);
+    expect(result.log[0]).toContain("rank 1");
+  });
+
+  it("name に容量表記が含まれない場合はスキップする", () => {
+    const content = CONFLICT_SAMPLE
+      .replace('"ビオレ 素肌つるるんクレンジングウォーター 300mL"', '"シャンプー ナチュラル ハーブの香り"');
+    const result = fixNameCapacityConflicts(content);
+    expect(result.changed).toBe(false);
+    expect(result.content).toBe(content);
   });
 });
