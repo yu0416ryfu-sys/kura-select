@@ -116,28 +116,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4560309810022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10077258%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/56/4560309810022.jpg?_ex=128x128"
   - rank: 6
-    name: "ドライ＆ドライUP NECO【ドライ＆ドライアップ】[除湿剤 湿気取り コンパク"
-    brand: "ドライ&ドライアップ"
-    price: 4081
-    capacity: "1000mL×8箱"
-    pricePerUnit: "約0.51円/mL"
-    rating: 4.92
-    reviewCount: 12
-    features:
-      - "ワンプラスシステムで高い吸湿力を実現"
-      - "1個あたり1000mLの大容量タンクタイプ"
-      - "16個まとめ買いセットでコスパ抜群"
-    pros:
-      - "16個の大容量セットで家中の湿気対策が一度に揃う"
-      - "1000mL大容量で交換頻度が大幅に減少"
-      - "クローゼット・靴箱・押入れなど多用途に使える"
-    cons:
-      - "大量セットのため保管スペースを確保する必要がある"
-      - "一度に大量購入するため初期コストがかかる"
-    recommendedFor: "家中の複数箇所に設置したい方・まとめ買いでコスパを最大化したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F541802%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11126411%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/802/541802.jpg?_ex=128x128"
-  - rank: 7
     name: "炭八 室内用"
     brand: "イエノLabo."
     price: 2376
@@ -159,7 +137,7 @@ products:
     recommendedFor: "コストと環境への影響を重視する方・繰り返し使える除湿剤を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s69sn.3rdw615f.g00s69sn.3rdw718e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fienolabo%2Fielabo100031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fienolabo%2Fi%2F10000031%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ienolabo/cabinet/itempic/17/ielabo100031-mb-1.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "MK除湿剤 タンクタイプ炭入り"
     brand: "matsukiyo（マツモトキヨシ）"
     price: 273
@@ -181,7 +159,7 @@ products:
     recommendedFor: "消臭効果も求める方・まとめ買いで経済的に揃えたいマツキヨユーザー"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4562184191272%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10492864%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0040/4562184191272_1.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "備長炭ドライペット 除湿剤 シートタイプ クローゼット用【備長炭ドライペット】"
     brand: "エステー（ドライペット）"
     price: 787
@@ -203,12 +181,12 @@ products:
     recommendedFor: "クローゼット用の除湿剤を複数枚まとめて揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4901070909681%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F11043165%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/1708/00000003216892_a01.jpg?_ex=128x128"
-  - rank: 10
-    name: "水とりぞうさん 防虫剤付クローゼット用"
+  - rank: 9
+    name: "オカモト 湿気とり 水とりぞうさん 防虫剤付 クローゼット用 大判タイプ"
     brand: "オカモト（水とりぞうさん）"
     price: 833
-    capacity: "2シート入り"
-    pricePerUnit: "0円/枚"
+    capacity: "2個"
+    pricePerUnit: "約417円/個"
     rating: 4.5
     reviewCount: 2
     features:
