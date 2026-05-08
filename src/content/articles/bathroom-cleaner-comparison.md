@@ -72,11 +72,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10099450%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/148/4901609000148.jpg?_ex=128x128"
   - rank: 4
-    name: "ウタマロクリーナー 本体 400mL + 詰め替え 350mL セット"
+    name: "東邦　ウタマロ クリーナー"
     brand: "東邦（ウタマロ）"
     price: 470
-    capacity: "本体400mL+詰め替え350mL（約110回分）"
-    pricePerUnit: "約8.0円/回"
+    capacity: "400ml"
+    pricePerUnit: "約1.2円/ml"
     rating: 4.74
     reviewCount: 125
     features:

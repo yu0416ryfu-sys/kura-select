@@ -6,50 +6,6 @@ publishedAt: "2026-05-05"
 updatedAt: 2026-05-08
 products:
   - rank: 1
-    name: "ムーニーナチュラル テープ 新生児サイズ"
-    brand: "ユニ・チャーム（ムーニー）"
-    price: 6680
-    capacity: "248枚（62枚×4個・新生児サイズ・〜5000g）"
-    pricePerUnit: "約26.9円/枚"
-    rating: 3.75
-    reviewCount: 4
-    features:
-      - "ナチュラル素材で赤ちゃんの肌に優しい"
-      - "248枚まとめ買いセットで1枚あたりコストが安い"
-      - "新生児〜5000g対応"
-    pros:
-      - "ナチュラル素材で生まれたての繊細な肌を優しくケア"
-      - "62枚×4個の大容量で新生児期のまとめ買いに最適"
-      - "コスパと素材品質を両立したシリーズ"
-    cons:
-      - "新生児期は成長が速くサイズアウトのリスクがある"
-      - "4袋まとめ買いのため使い切れない場合がある"
-    recommendedFor: "新生児期にまとめ買いでコストを抑えたい方・ナチュラル素材を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00st9kn.3rdw6336.g00st9kn.3rdw7d77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoiree-hanaoka%2F4903111143429_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoiree-hanaoka%2Fi%2F10003127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/soiree-hanaoka/cabinet/g/09552678/imgrc0111461149.jpg?_ex=128x128"
-  - rank: 2
-    name: "パンパース さらさらケア テープ Mサイズ"
-    brand: "P&G（パンパース）"
-    price: 8680
-    capacity: "208枚（52枚×4個・Mサイズ・6〜11kg）"
-    pricePerUnit: "約10円/枚"
-    rating: 4.69
-    reviewCount: 64
-    features:
-      - "360度ぐるうーるギャザーで全方向漏れ防止"
-      - "最長12時間の高吸収力"
-      - "Mサイズ208枚の大容量セット"
-    pros:
-      - "大容量208枚で1枚あたりコストを大幅に抑えられる"
-      - "最長12時間吸収で夜間や外出時も安心"
-      - "4袋セットでまとめ買いの手間が少ない"
-    cons:
-      - "プレミアムラインより肌触りはシンプル"
-      - "箱が大きいため収納スペースが必要"
-    recommendedFor: "Mサイズ時期にコストを抑えてまとめ買いしたい方・夜間の漏れ対策をしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7252901%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10193037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tasya108/imgrc0116993733.jpg?_ex=128x128"
-  - rank: 3
     name: "ムーニー マシュマロ肌ごこち テープ Sサイズ"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1800
@@ -71,7 +27,29 @@ products:
     recommendedFor: "肌触りを重視したい方・ムーニーブランドを愛用している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00utr6n.3rdw61a0.g00utr6n.3rdw7bd8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonoria%2Fehxt8d51r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmonoria%2Fi%2F10001107%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/monoria/cabinet/2026_4/ehxt8d51r.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 2
+    name: "ムーニーナチュラル テープ 新生児サイズ"
+    brand: "ユニ・チャーム（ムーニー）"
+    price: 6680
+    capacity: "248枚（62枚×4個・新生児サイズ・〜5000g）"
+    pricePerUnit: "約27円/枚"
+    rating: 3.75
+    reviewCount: 4
+    features:
+      - "ナチュラル素材で赤ちゃんの肌に優しい"
+      - "248枚まとめ買いセットで1枚あたりコストが安い"
+      - "新生児〜5000g対応"
+    pros:
+      - "ナチュラル素材で生まれたての繊細な肌を優しくケア"
+      - "62枚×4個の大容量で新生児期のまとめ買いに最適"
+      - "コスパと素材品質を両立したシリーズ"
+    cons:
+      - "新生児期は成長が速くサイズアウトのリスクがある"
+      - "4袋まとめ買いのため使い切れない場合がある"
+    recommendedFor: "新生児期にまとめ買いでコストを抑えたい方・ナチュラル素材を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00st9kn.3rdw6336.g00st9kn.3rdw7d77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoiree-hanaoka%2F4903111143429_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoiree-hanaoka%2Fi%2F10003127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/soiree-hanaoka/cabinet/g/09552678/imgrc0111461149.jpg?_ex=128x128"
+  - rank: 3
     name: "パンパース テープ Sサイズ 74枚×4袋"
     brand: "P&G（パンパース）"
     price: 8680
@@ -93,7 +71,7 @@ products:
     recommendedFor: "産院でパンパースを使っていた方・世界基準の品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7252901%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10193037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tasya108/imgrc0116993733.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 4
     name: "メリーズ エアスルー テープ Mサイズ"
     brand: "花王（メリーズ）"
     price: 1680
@@ -115,7 +93,7 @@ products:
     recommendedFor: "通気性と肌触りを重視したい方・Mサイズでメリーズを試してみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4901301437716%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F14683768%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/10072/00000012749433_a01.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 5
     name: "ワケあり　旧パッケージ [テープ]メリーズ ずっと肌さらエアスルー Sサイズ"
     brand: "花王（メリーズ）"
     price: 4250
@@ -137,29 +115,7 @@ products:
     recommendedFor: "蒸れやおむつかぶれが気になる方・コスパ重視でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6xln.3rdw632a.g00u6xln.3rdw7ef6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjandcbaby%2Fkao-ts88%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjandcbaby%2Fi%2F10000078%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jandcbaby/cabinet/08963043/imgrc0111965819.jpg?_ex=128x128"
-  - rank: 7
-    name: "パンパース オムツ はじめての肌へのいちばん テープ Sサイズ【パンパース】"
-    brand: "P&G（パンパース）"
-    price: 3980
-    capacity: "108枚"
-    pricePerUnit: "約37円/枚"
-    rating: 4.5
-    reviewCount: 6
-    features:
-      - "ネット状の肌触りで蒸れにくく快適"
-      - "パラベン・アルコール無添加の低刺激処方"
-      - "産院採用率が高いプレミアムライン"
-    pros:
-      - "敏感な赤ちゃんの肌に配慮した無添加処方"
-      - "108枚入りで一定期間まとめ買いが可能"
-      - "パンパース最上位プレミアムラインで品質が高い"
-    cons:
-      - "通常のパンパースと比べて価格が高め"
-      - "大容量セットがなくまとめ買いの割引幅が小さい"
-    recommendedFor: "肌が敏感な赤ちゃんがいる家庭・産院のおむつをそのまま使い続けたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4987176206206%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10052269%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/206/4987176206206.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 6
     name: "グーンプラス テープ BIGサイズ"
     brand: "大王製紙（グーンプラス）"
     price: 1518
@@ -181,29 +137,29 @@ products:
     recommendedFor: "肌荒れやかぶれが気になる敏感肌の赤ちゃん・BIGサイズをお探しの方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00unsmn.3rdw6139.g00unsmn.3rdw7a37/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felleair%2F21001262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felleair%2Fi%2F10000171%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/elleair/cabinet/item-img/img01/21001262-01.jpg?_ex=128x128"
-  - rank: 9
-    name: "パンパース オムツ はじめての肌へのいちばん テープ Mサイズ【パンパース】"
+  - rank: 7
+    name: "パンパース さらさらケア テープ Mサイズ"
     brand: "P&G（パンパース）"
-    price: 3980
-    capacity: "96枚"
-    pricePerUnit: "約41円/枚"
-    rating: 5
-    reviewCount: 1
+    price: 8680
+    capacity: "208枚（52枚×4個・Mサイズ・6〜11kg）"
+    pricePerUnit: "約42円/枚"
+    rating: 4.69
+    reviewCount: 64
     features:
-      - "ネット状の肌触りで蒸れにくく快適"
-      - "パラベン・アルコール無添加の低刺激処方"
-      - "全周ギャザーと3D凹凸加工で漏れをしっかり防止"
+      - "360度ぐるうーるギャザーで全方向漏れ防止"
+      - "最長12時間の高吸収力"
+      - "Mサイズ208枚の大容量セット"
     pros:
-      - "プレミアム素材で敏感な肌への配慮が高い"
-      - "96枚入りで一定期間のまとめ買いが可能"
-      - "Sサイズから同シリーズで継続できて安心"
+      - "大容量208枚で1枚あたりコストを大幅に抑えられる"
+      - "最長12時間吸収で夜間や外出時も安心"
+      - "4袋セットでまとめ買いの手間が少ない"
     cons:
-      - "さらさらケアと比べて価格が高め"
-      - "さらさらケアほど大容量セットがない"
-    recommendedFor: "Mサイズでも品質重視で選びたい方・Sサイズ時代からパンパース派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4987176206374%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10052272%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/374/4987176206374.jpg?_ex=128x128"
-  - rank: 10
+      - "プレミアムラインより肌触りはシンプル"
+      - "箱が大きいため収納スペースが必要"
+    recommendedFor: "Mサイズ時期にコストを抑えてまとめ買いしたい方・夜間の漏れ対策をしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7252901%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10193037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tasya108/imgrc0116993733.jpg?_ex=128x128"
+  - rank: 8
     name: "エリエール　グーン　スーパービッグ　テープ止めタイプ"
     brand: "大王製紙（グーン）"
     price: 5992
@@ -225,6 +181,50 @@ products:
     recommendedFor: "体型が大きめの赤ちゃん・スーパービッグサイズをお探しの方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qob6n.3rdw6dbc.g00qob6n.3rdw7ca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fladydrug%2F60000000002751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fladydrug%2Fi%2F10357147%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ladydrug/cabinet/pic2738/60000000002751_2.jpg?_ex=128x128"
+  - rank: 9
+    name: "パンパース オムツ はじめての肌へのいちばん テープ Sサイズ【パンパース】"
+    brand: "P&G（パンパース）"
+    price: 6180
+    capacity: "108枚"
+    pricePerUnit: "約57円/枚"
+    rating: 4.5
+    reviewCount: 6
+    features:
+      - "ネット状の肌触りで蒸れにくく快適"
+      - "パラベン・アルコール無添加の低刺激処方"
+      - "産院採用率が高いプレミアムライン"
+    pros:
+      - "敏感な赤ちゃんの肌に配慮した無添加処方"
+      - "108枚入りで一定期間まとめ買いが可能"
+      - "パンパース最上位プレミアムラインで品質が高い"
+    cons:
+      - "通常のパンパースと比べて価格が高め"
+      - "大容量セットがなくまとめ買いの割引幅が小さい"
+    recommendedFor: "肌が敏感な赤ちゃんがいる家庭・産院のおむつをそのまま使い続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uq6on.3rdw6202.g00uq6on.3rdw7f42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftokyoabcstore%2Fcompass1748853340%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftokyoabcstore%2Fi%2F10000214%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tokyoabcstore/cabinet/compass1764138947.jpg?_ex=128x128"
+  - rank: 10
+    name: "パンパース オムツ はじめての肌へのいちばん テープ Mサイズ【パンパース】"
+    brand: "P&G（パンパース）"
+    price: 6880
+    capacity: "96枚"
+    pricePerUnit: "約72円/枚"
+    rating: 4.73
+    reviewCount: 160
+    features:
+      - "ネット状の肌触りで蒸れにくく快適"
+      - "パラベン・アルコール無添加の低刺激処方"
+      - "全周ギャザーと3D凹凸加工で漏れをしっかり防止"
+    pros:
+      - "プレミアム素材で敏感な肌への配慮が高い"
+      - "96枚入りで一定期間のまとめ買いが可能"
+      - "Sサイズから同シリーズで継続できて安心"
+    cons:
+      - "さらさらケアと比べて価格が高め"
+      - "さらさらケアほど大容量セットがない"
+    recommendedFor: "Mサイズでも品質重視で選びたい方・Sサイズ時代からパンパース派の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2ngn.3rdw6e7c.g00t2ngn.3rdw797f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F1710000043%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhikaritv%2Fi%2F10227865%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000043_k.jpg?_ex=128x128"
   - rank: 11
     name: "バンボネイチャー ジュニア サイズ5"
     brand: "BAMBO Nature（バンボネイチャー）"

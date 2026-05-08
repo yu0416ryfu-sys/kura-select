@@ -6,27 +6,27 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-08
 products:
   - rank: 1
-    name: "ミヨシ石鹸 無添加せっけん 泡のハンドソープ リフィル【イチオシ】【100ycp"
-    brand: "ミヨシ石鹸"
-    price: 471
-    capacity: "（300mL）"
-    pricePerUnit: "約1.6円/mL"
-    rating: 4.74
-    reviewCount: 561
+    name: "キレイキレイ 薬用泡ハンドソープ シトラスフルーティの香り つめかえ用サイズ【イ"
+    brand: "ライオン（キレイキレイ）"
+    price: 475
+    capacity: "（450mL）"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.79
+    reviewCount: 92
     features:
-      - "香料・着色料・防腐剤無添加の純せっけん"
-      - "植物性油脂から作られた肌にやさしい処方"
-      - "敏感肌・アレルギー体質の方に最適"
+      - "殺菌成分イソプロピルメチルフェノール配合"
+      - "きめ細かい泡で手全体をしっかり洗える"
+      - "詰め替え大容量でコスパ抜群"
     pros:
-      - "完全無添加で肌への負担が最小限"
-      - "アレルギーが心配な方も安心して使える"
-      - "環境にやさしい生分解性の高い成分"
+      - "殺菌力が高く衛生面で安心"
+      - "泡立ちがよく少量で十分な洗浄力"
+      - "大容量パックでコストを抑えられる"
     cons:
-      - "殺菌成分は含まれていない"
-      - "容量が少なく詰め替え頻度がやや高い"
-    recommendedFor: "敏感肌・アレルギー体質の方・無添加にこだわる方・エコ志向の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200474%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10114171%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/614/4904551100614.jpg?_ex=128x128"
+      - "保湿力はやや控えめ"
+      - "香りの好みが分かれる場合がある"
+    recommendedFor: "殺菌力重視の方・家族で使う方・コスパを求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001223385714%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10057813%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/862/4903301176862.jpg?_ex=128x128"
   - rank: 2
     name: "ビオレu 泡ハンドソープ 詰め替え 大容量 800mL×2袋"
     brand: "花王（ビオレu）"
@@ -71,28 +71,6 @@ products:
     recommendedFor: "殺菌力を最重視する方・しっかり洗いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404861%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11127123%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/861/404861.jpg?_ex=128x128"
-  - rank: 4
-    name: "キレイキレイ 薬用泡ハンドソープ シトラスフルーティの香り 詰替用【キレイキレイ"
-    brand: "ライオン（キレイキレイ）"
-    price: 4164
-    capacity: "800mL"
-    pricePerUnit: "約5.2円/mL"
-    rating: 4.7
-    reviewCount: 384
-    features:
-      - "殺菌成分イソプロピルメチルフェノール配合"
-      - "きめ細かい泡で手全体をしっかり洗える"
-      - "詰め替え大容量でコスパ抜群"
-    pros:
-      - "殺菌力が高く衛生面で安心"
-      - "泡立ちがよく少量で十分な洗浄力"
-      - "大容量パックでコストを抑えられる"
-    cons:
-      - "保湿力はやや控えめ"
-      - "香りの好みが分かれる場合がある"
-    recommendedFor: "殺菌力重視の方・家族で使う方・コスパを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F90667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10986242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/667/90667.jpg?_ex=128x128"
 tags:
   - "ハンドソープ"
   - "コスパ"

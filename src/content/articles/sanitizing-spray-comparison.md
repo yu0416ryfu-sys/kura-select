@@ -50,28 +50,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4902424441727%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10675585%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/727/4902424441727.jpg?_ex=128x128"
   - rank: 3
-    name: "ドーバー パストリーゼ77 スプレーヘッド付き【パストリーゼ77】[除菌 抗菌]"
-    brand: "ドーバー酒造（パストリーゼ）"
-    price: 1944
-    capacity: "（500mL）"
-    pricePerUnit: "約3.9円/mL"
-    rating: 4.74
-    reviewCount: 463
-    features:
-      - "アルコール濃度77%の高濃度除菌"
-      - "酒造メーカーのサトウキビ由来アルコール"
-      - "食品にも直接噴霧できる安全性"
-    pros:
-      - "食品にも使える圧倒的な安全性"
-      - "高濃度77%で確実な除菌効果"
-      - "プロの料理人も愛用する信頼の品質"
-    cons:
-      - "1mLあたりの価格はやや高め"
-      - "人気商品のため品切れになりやすい"
-    recommendedFor: "食品まわりの除菌を重視する方・キッチン用に最適・品質重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001204134002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10023547%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/016/4510759790016.jpg?_ex=128x128"
-  - rank: 4
     name: "手ピカスプレー 消毒用アルコール 420mL"
     brand: "健栄製薬（手ピカ）"
     price: 4961

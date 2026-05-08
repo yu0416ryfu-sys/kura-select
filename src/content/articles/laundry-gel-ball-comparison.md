@@ -71,11 +71,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ulujn.3rdw68ec.g00ulujn.3rdw7a89/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flgo-2023%2F3931-000027%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flgo-2023%2Fi%2F10000021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lgo-2023/cabinet/imgrc0109870964.jpg?_ex=128x128"
   - rank: 4
-    name: "ボールド ジェルボール 4in1 詰め替え メガジャンボ（選べる香り）"
+    name: "＼レビュー投稿で500円クーポンGET！／【選べる4タイプ】ボールド 洗濯洗剤 "
     brand: "P&G（ボールド）"
     price: 4480
-    capacity: "55〜64個×2袋程度（商品により変動）"
-    pricePerUnit: "0円"
+    capacity: "2袋"
+    pricePerUnit: "約2240円/袋"
     rating: 4.87
     reviewCount: 78
     features:

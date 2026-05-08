@@ -6,11 +6,11 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-08
 products:
   - rank: 1
-    name: "サンポール トイレ洗剤 尿石除去 大容量 5L"
+    name: "大日本除虫菊 KINCHO サンポール トイレ洗剤 尿石除去"
     brand: "大日本除虫菊（サンポール）"
     price: 1780
-    capacity: "大容量 5L（約250回分）"
-    pricePerUnit: "約0.35円/mL"
+    capacity: "5L"
+    pricePerUnit: "約356円/L"
     rating: 4.5
     reviewCount: 4
     features:
@@ -50,28 +50,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe341234h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10252628%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/440/4901609005440.jpg?_ex=128x128"
   - rank: 3
-    name: "ドメスト 除菌クリーナー【ドメスト】[まとめ買い トイレ掃除 次亜塩素酸配合 除"
-    brand: "ユニリーバ（ドメスト）"
-    price: 1188
-    capacity: "500mL"
-    pricePerUnit: "約2.4円/mL"
-    rating: 4.7
-    reviewCount: 79
-    features:
-      - "粘度の高い液体が便器内側に密着"
-      - "除菌率99.99%の強力な除菌効果"
-      - "ヌメリ・黄ばみ・黒ずみをまとめて除去"
-    pros:
-      - "除菌力が非常に高い"
-      - "粘度が高く便器にしっかり密着"
-      - "世界的ブランドの信頼性"
-    cons:
-      - "酸性洗剤との併用は厳禁"
-      - "独特の塩素臭がある"
-    recommendedFor: "除菌を徹底したい方・衛生面を重視する方・定期的な集中掃除に"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F35475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10844048%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/475/35475.jpg?_ex=128x128"
-  - rank: 4
     name: "ブルーレット おくだけ 除菌EX ミントの香り 付替 3個パック"
     brand: "小林製薬（ブルーレット）"
     price: 2009
