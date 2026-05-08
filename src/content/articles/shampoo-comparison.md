@@ -28,11 +28,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhm1n.3rdw621b.g00uhm1n.3rdw7ede/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep0104%2Fichikami-smth%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep0104%2Fi%2F10000229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep0104/cabinet/10645709/11494580/imgrc0187994441.jpg?_ex=128x128"
   - rank: 2
-    name: "メリット シャンプー 詰め替え 大容量 1200mL"
+    name: "【店長のおすすめ 送料無料】 メリット キッズ 泡で出てくるシャンプー ナチュラ"
     brand: "花王（メリット）"
     price: 1640
-    capacity: "1200mL（約4ヶ月分）"
-    pricePerUnit: "約1.4円/mL"
+    capacity: "270mL×3袋"
+    pricePerUnit: "約2.0円/mL"
     rating: 4.74
     reviewCount: 128
     features:
@@ -50,11 +50,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvt5n.3rdw6d57.g00tvt5n.3rdw7e99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeedy-street%2F4901301314543%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeedy-street%2Fi%2F10000736%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/speedy-street/cabinet/biiino/item/main-image-4/20250528154245_1.jpg?_ex=128x128"
   - rank: 3
-    name: "パンテーン エクストラダメージケア シャンプー 詰め替え 超特大 950mL"
+    name: "パンテーン シャンプー 詰め替え エクストラダメージケア"
     brand: "P&G（パンテーン）"
     price: 3980
-    capacity: "950mL（約3ヶ月分）"
-    pricePerUnit: "約4.2円/mL"
+    capacity: "1700mL×2個"
+    pricePerUnit: "約1.2円/mL"
     rating: 4.65
     reviewCount: 55
     features:

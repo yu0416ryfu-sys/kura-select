@@ -77,7 +77,7 @@ products:
     capacity: "55〜64個×2袋程度（商品により変動）"
     pricePerUnit: "0円"
     rating: 4.87
-    reviewCount: 77
+    reviewCount: 78
     features:
       - "洗浄・柔軟剤・消臭・シワ防止の4in1"
       - "豊かな香りが長続き"

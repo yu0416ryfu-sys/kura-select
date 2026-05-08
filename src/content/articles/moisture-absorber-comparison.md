@@ -116,11 +116,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4560309810022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10077258%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/56/4560309810022.jpg?_ex=128x128"
   - rank: 6
-    name: "ドライドライUP NECO"
+    name: "ドライ＆ドライUP NECO【ドライ＆ドライアップ】[除湿剤 湿気取り コンパク"
     brand: "ドライ&ドライアップ"
     price: 4081
-    capacity: "1000mL×2個×8箱（合計16個・16,000mL分）"
-    pricePerUnit: "約0.26円/mL"
+    capacity: "1000mL×8箱"
+    pricePerUnit: "約0.51円/mL"
     rating: 4.92
     reviewCount: 12
     features:

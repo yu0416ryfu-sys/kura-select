@@ -6,11 +6,11 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-08
 products:
   - rank: 1
-    name: "ミヨシ 無添加 泡のせっけんハンドソープ 詰め替え 300mL×3個"
+    name: "ミヨシ石鹸 無添加せっけん 泡のハンドソープ リフィル【イチオシ】【100ycp"
     brand: "ミヨシ石鹸"
     price: 471
-    capacity: "300mL×3個（約225回分）"
-    pricePerUnit: "約0.52円/mL"
+    capacity: "（300mL）"
+    pricePerUnit: "約1.6円/mL"
     rating: 4.74
     reviewCount: 561
     features:
@@ -72,11 +72,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404861%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11127123%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/861/404861.jpg?_ex=128x128"
   - rank: 4
-    name: "キレイキレイ 薬用泡ハンドソープ 詰め替え 大容量 800mL×2袋"
+    name: "キレイキレイ 薬用泡ハンドソープ シトラスフルーティの香り 詰替用【キレイキレイ"
     brand: "ライオン（キレイキレイ）"
     price: 4164
-    capacity: "800mL×2袋（約400回分）"
-    pricePerUnit: "約2.6円/mL"
+    capacity: "800mL"
+    pricePerUnit: "約5.2円/mL"
     rating: 4.7
     reviewCount: 384
     features:

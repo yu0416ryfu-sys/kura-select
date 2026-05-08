@@ -34,7 +34,7 @@ products:
     capacity: "28枚"
     pricePerUnit: "約128円/枚"
     rating: 4.28
-    reviewCount: 22879
+    reviewCount: 22880
     features:
       - "価格を抑えたコスパ重視のシリーズ"
       - "ゆるうんちポケットで漏れを防ぐ"

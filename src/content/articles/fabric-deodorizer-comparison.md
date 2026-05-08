@@ -6,11 +6,11 @@ publishedAt: "2026-05-01"
 updatedAt: 2026-05-08
 products:
   - rank: 1
-    name: "リセッシュ除菌EX デオドラントパワー 詰め替え 大容量 680mL×3個"
+    name: "花王｜Kao Resesh リセッシュ 除菌EX デオドラントパワー 香りが残ら"
     brand: "花王（リセッシュ）"
     price: 328
-    capacity: "680mL×3個（約2,700回分）"
-    pricePerUnit: "約0.16円/mL"
+    capacity: "310mL"
+    pricePerUnit: "約1.1円/mL"
     rating: 4.7
     reviewCount: 10
     features:
@@ -50,28 +50,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598756%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321889%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/756/598756.jpg?_ex=128x128"
   - rank: 3
-    name: "ハイジア 除菌・消臭スプレー 詰め替え 大容量 800mL"
-    brand: "ライオン（ハイジア）"
-    price: 3765
-    capacity: "800mL（約1,000回分）"
-    pricePerUnit: "約4.7円/mL"
-    rating: 4.2
-    reviewCount: 50
-    features:
-      - "部屋干し臭の原因菌を99.9%除菌"
-      - "抗菌成分が繊維に留まり効果が長続き"
-      - "衣類だけでなく枕・シーツにも使える"
-    pros:
-      - "部屋干し臭に特化した処方"
-      - "800mLの大容量でたっぷり使える"
-      - "1本で約1,000回使える"
-    cons:
-      - "ファブリーズ・リセッシュより知名度が低い"
-      - "香りの種類が少ない"
-    recommendedFor: "部屋干しが多い方・枕やシーツの臭い対策に・コスパ重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3bvn.3rdw6436.g00u3bvn.3rdw79c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffidela%2Ffid6-00f050vya%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffidela%2Fi%2F10445637%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fidela/cabinet/fid6pic/systempic021/fid6-00f050vya1.jpg?_ex=128x128"
-  - rank: 4
     name: "A2Care 除菌消臭スプレー 300mL"
     brand: "A2Care"
     price: 2178
@@ -93,6 +71,28 @@ products:
     recommendedFor: "品質最優先の方・無臭にこだわる方・赤ちゃん・ペットのいる家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00thfbn.3rdw6868.g00thfbn.3rdw7b07/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa2care-official%2F10000003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa2care-official%2Fi%2F10000003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a2care-official/cabinet/ef/kago/10000003_kago.jpg?_ex=128x128"
+  - rank: 4
+    name: "トップ ハイジア 除菌・消臭スプレー 詰め替え"
+    brand: "ライオン（ハイジア）"
+    price: 3765
+    capacity: "320mL"
+    pricePerUnit: "約12円/mL"
+    rating: 4.2
+    reviewCount: 50
+    features:
+      - "部屋干し臭の原因菌を99.9%除菌"
+      - "抗菌成分が繊維に留まり効果が長続き"
+      - "衣類だけでなく枕・シーツにも使える"
+    pros:
+      - "部屋干し臭に特化した処方"
+      - "800mLの大容量でたっぷり使える"
+      - "1本で約1,000回使える"
+    cons:
+      - "ファブリーズ・リセッシュより知名度が低い"
+      - "香りの種類が少ない"
+    recommendedFor: "部屋干しが多い方・枕やシーツの臭い対策に・コスパ重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3bvn.3rdw6436.g00u3bvn.3rdw79c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffidela%2Ffid6-00f050vya%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffidela%2Fi%2F10445637%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fidela/cabinet/fid6pic/systempic021/fid6-00f050vya1.jpg?_ex=128x128"
 tags:
   - "消臭スプレー"
   - "ファブリーズ"

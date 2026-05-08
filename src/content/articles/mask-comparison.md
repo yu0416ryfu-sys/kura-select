@@ -28,28 +28,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00trvxn.3rdw692d.g00trvxn.3rdw77c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frunnrunn-shop%2Fdaiomask-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frunnrunn-shop%2Fi%2F10000121%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/runnrunn-shop/cabinet/10802269/imgrc0107306132.jpg?_ex=128x128"
   - rank: 2
-    name: "【夜の市★合算2千円超で送料無料対象】【数量限定】白元アース ビースタイル 立体"
-    brand: "白元アース"
-    price: 840
-    capacity: "20枚"
-    pricePerUnit: "約42円/枚"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "超立体形状で口まわりに空間ができ息がしやすい"
-      - "ノーズフィットで鼻すき間をしっかりブロック"
-      - "内側がやわらかい不織布で長時間でも肌への負担が少ない"
-    pros:
-      - "立体設計で長時間着用でも口元が蒸れにくい"
-      - "口紅が付きにくく、会話もしやすい"
-      - "白元アースの老舗マスクブランドとしての信頼感"
-    cons:
-      - "プリーツタイプより収納時にかさばりやすい"
-      - "コスパ重視の大容量品より1枚単価は高め"
-    recommendedFor: "立体型の着用感を好む方・息苦しさを感じやすい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902407581938-yoru202410%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12617577%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/d/4902407581938.jpg?_ex=128x128"
-  - rank: 3
     name: "ユニ・チャーム 超快適マスク プリーツタイプ ふつうサイズ 50枚入"
     brand: "ユニ・チャーム"
     price: 2260
@@ -71,7 +49,7 @@ products:
     recommendedFor: "肌へのやさしさと着用感を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugwon.3rdw61af.g00ugwon.3rdw786a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fechi-zen-r%2Fcho-kaiteki-mask-m-50-1pc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fechi-zen-r%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/echi-zen-r/cabinet/biiino/item/main-image/20240213101506_1.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "【1点限り！令和お試し価格】アイリスオーヤマ ナノエアーマスク"
     brand: "アイリスオーヤマ"
     price: 320

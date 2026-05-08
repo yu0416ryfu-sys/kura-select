@@ -31,11 +31,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F580764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11272901%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/764/580764.jpg?_ex=128x128"
   - rank: 2
-    name: "リセッシュ 消臭スプレー 除菌EX 香りが残らないタイプ 詰替大(700ml*3袋セット)"
+    name: "リセッシュ 消臭スプレー 除菌EX 香りが残らないタイプ 詰替大【リセッシュ】"
     brand: "花王"
     price: 2040
-    capacity: "700mL×3袋（2100mL）"
-    pricePerUnit: "約0.97円/mL"
+    capacity: "700mL"
+    pricePerUnit: "約2.9円/mL"
     rating: 4.74
     reviewCount: 289
     features:

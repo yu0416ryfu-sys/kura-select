@@ -50,11 +50,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe341234h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10252628%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/440/4901609005440.jpg?_ex=128x128"
   - rank: 3
-    name: "ドメスト 除菌クリーナー 500mL×3本"
+    name: "ドメスト 除菌クリーナー【ドメスト】[まとめ買い トイレ掃除 次亜塩素酸配合 除"
     brand: "ユニリーバ（ドメスト）"
     price: 1188
-    capacity: "500mL×3本（約90回分）"
-    pricePerUnit: "約0.79円/mL"
+    capacity: "500mL"
+    pricePerUnit: "約2.4円/mL"
     rating: 4.7
     reviewCount: 79
     features:

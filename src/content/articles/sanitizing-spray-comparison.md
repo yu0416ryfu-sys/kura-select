@@ -6,33 +6,11 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-08
 products:
   - rank: 1
-    name: "フマキラー キッチン用 アルコール除菌スプレー 詰め替え 720mL×2本"
-    brand: "フマキラー"
-    price: 657
-    capacity: "720mL×2本（1440mL）"
-    pricePerUnit: "約0.46円/mL"
-    rating: 4.7
-    reviewCount: 61
-    features:
-      - "100%天然由来のアルコール成分"
-      - "食器・調理器具にそのまま使える"
-      - "大容量の詰め替え2本セットでお得"
-    pros:
-      - "1mLあたり約0.62円で最安クラス"
-      - "天然由来成分で食品まわりも安心"
-      - "2本セットでまとめ買いコスパ◎"
-    cons:
-      - "アルコール濃度はパストリーゼより低い"
-      - "スプレーボトルは別途必要"
-    recommendedFor: "コスパ最優先の方・キッチン用がメインの方・大量に使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4902424441727%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10675585%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/727/4902424441727.jpg?_ex=128x128"
-  - rank: 2
-    name: "カビキラー アルコール除菌 キッチン用 詰め替え 630mL×3本"
+    name: "カビキラー アルコール除菌 キッチン用 詰め替え用【カビキラー】[アルコールスプ"
     brand: "ジョンソン（カビキラー）"
     price: 1130
-    capacity: "630mL×3本（1890mL）"
-    pricePerUnit: "約0.60円/mL"
+    capacity: "（1260mL）"
+    pricePerUnit: "約0.90円/mL"
     rating: 4.67
     reviewCount: 18
     features:
@@ -49,12 +27,34 @@ products:
     recommendedFor: "安全性を重視する方・まな板や調理器具の除菌に・まとめ買い派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901609016491%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11230047%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/491/4901609016491.jpg?_ex=128x128"
+  - rank: 2
+    name: "フマキラー キッチン用 アルコール除菌スプレー つめかえ用【フマキラー アルコー"
+    brand: "フマキラー"
+    price: 657
+    capacity: "（720mL）"
+    pricePerUnit: "約0.91円/mL"
+    rating: 4.7
+    reviewCount: 61
+    features:
+      - "100%天然由来のアルコール成分"
+      - "食器・調理器具にそのまま使える"
+      - "大容量の詰め替え2本セットでお得"
+    pros:
+      - "1mLあたり約0.62円で最安クラス"
+      - "天然由来成分で食品まわりも安心"
+      - "2本セットでまとめ買いコスパ◎"
+    cons:
+      - "アルコール濃度はパストリーゼより低い"
+      - "スプレーボトルは別途必要"
+    recommendedFor: "コスパ最優先の方・キッチン用がメインの方・大量に使う方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4902424441727%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10675585%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/727/4902424441727.jpg?_ex=128x128"
   - rank: 3
-    name: "パストリーゼ77 スプレーヘッド付き 800mL"
+    name: "ドーバー パストリーゼ77 スプレーヘッド付き【パストリーゼ77】[除菌 抗菌]"
     brand: "ドーバー酒造（パストリーゼ）"
     price: 1944
-    capacity: "800mL"
-    pricePerUnit: "約2.4円/mL"
+    capacity: "（500mL）"
+    pricePerUnit: "約3.9円/mL"
     rating: 4.74
     reviewCount: 463
     features:

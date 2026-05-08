@@ -77,8 +77,8 @@ products:
     price: 2993
     capacity: "400mL（約100回分）"
     pricePerUnit: "約7.5円/mL"
-    rating: 4.77
-    reviewCount: 88
+    rating: 4.76
+    reviewCount: 89
     features:
       - "製薬会社開発の薬用処方"
       - "植物性アミノ酸系洗浄成分100%"

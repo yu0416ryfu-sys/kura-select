@@ -28,11 +28,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhm1n.3rdw621b.g00uhm1n.3rdw7ede/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep0104%2Fichikami-smth%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep0104%2Fi%2F10000229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep0104/cabinet/10645709/11494580/imgrc0187994441.jpg?_ex=128x128"
   - rank: 2
-    name: "メリット コンディショナー 詰め替え 大容量 1200mL"
+    name: "メリット コンディショナー つめかえ用【メリット】"
     brand: "花王（メリット）"
     price: 6600
-    capacity: "1200mL（約4ヶ月分）"
-    pricePerUnit: "約5.5円/mL"
+    capacity: "1800mL×4セット"
+    pricePerUnit: "約0.92円/mL"
     rating: 4
     reviewCount: 3
     features:

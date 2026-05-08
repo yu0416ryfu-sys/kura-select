@@ -33,8 +33,8 @@ products:
     price: 2465
     capacity: "30g×82個"
     pricePerUnit: "約1.0円/g"
-    rating: 4.75
-    reviewCount: 211
+    rating: 4.74
+    reviewCount: 212
     features:
       - "温泉ミネラル成分配合で本格的な温浴効果"
       - "天然の香料を使用した豊かな香り"

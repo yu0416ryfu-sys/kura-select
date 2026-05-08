@@ -6,11 +6,11 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-08
 products:
   - rank: 1
-    name: "バスマジックリン エアジェット 詰め替え 大容量 820mL×2袋"
+    name: "バスマジックリン エアジェット 除菌EX ハーバルクリアの香り つめかえ用"
     brand: "花王（バスマジックリン）"
     price: 722
-    capacity: "820mL×2袋（約240回分）"
-    pricePerUnit: "約0.44円/mL"
+    capacity: "1000mL"
+    pricePerUnit: "約0.72円/mL"
     rating: 4.88
     reviewCount: 17
     features:

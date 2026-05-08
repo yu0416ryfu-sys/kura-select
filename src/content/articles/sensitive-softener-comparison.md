@@ -6,28 +6,6 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-08
 products:
   - rank: 1
-    name: "ファーファ フリー&（フリーアンド）柔軟剤 無香料 詰め替え 480mL×3袋"
-    brand: "NSファーファ・ジャパン"
-    price: 1370
-    capacity: "480mL×3袋（約90回分）"
-    pricePerUnit: "約0.95円/mL"
-    rating: 4.68
-    reviewCount: 37
-    features:
-      - "香料・着色料・シリコン・抗菌剤 4つの無添加"
-      - "柔軟成分は植物由来100%"
-      - "無香料で他の香りと干渉しない"
-    pros:
-      - "4つの無添加で肌への負担が最小限"
-      - "無香料で香り酔いの心配なし"
-      - "植物由来100%で環境にもやさしい"
-    cons:
-      - "香りを楽しみたい方には物足りない"
-      - "通常の柔軟剤に比べてふんわり感はやや控えめ"
-    recommendedFor: "化学物質過敏症の方・香料アレルギーの方・徹底的に無添加を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2Fs970428%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10002109%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/06059944/imgrc0118446811.jpg?_ex=128x128"
-  - rank: 2
     name: "ランドリン ボタニカル 柔軟剤 リラックスグリーンティー 詰め替え 大容量 860mL"
     brand: "ネイチャーラボ（ランドリン）"
     price: 1042
@@ -49,12 +27,34 @@ products:
     recommendedFor: "オーガニックにこだわる方・香りも楽しみたい敏感肌の方・ボタニカル志向の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe534100h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10635765%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/517/4582469502517.jpg?_ex=128x128"
+  - rank: 2
+    name: "送料無料　ファーファ　フリー＆　濃縮柔軟剤　無香料　エコパックお試しセット　本体"
+    brand: "NSファーファ・ジャパン"
+    price: 1370
+    capacity: "900mL"
+    pricePerUnit: "約1.5円/mL"
+    rating: 4.68
+    reviewCount: 38
+    features:
+      - "香料・着色料・シリコン・抗菌剤 4つの無添加"
+      - "柔軟成分は植物由来100%"
+      - "無香料で他の香りと干渉しない"
+    pros:
+      - "4つの無添加で肌への負担が最小限"
+      - "無香料で香り酔いの心配なし"
+      - "植物由来100%で環境にもやさしい"
+    cons:
+      - "香りを楽しみたい方には物足りない"
+      - "通常の柔軟剤に比べてふんわり感はやや控えめ"
+    recommendedFor: "化学物質過敏症の方・香料アレルギーの方・徹底的に無添加を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2Fs970428%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10002109%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/06059944/imgrc0118446811.jpg?_ex=128x128"
   - rank: 3
-    name: "さらさ 柔軟剤 詰め替え 超特大 850mL×2袋"
+    name: "【シリーズ累計50万本突破】ランドリーボトル 洗濯ボトル 洗剤ボトル ［セット "
     brand: "P&G（さらさ）"
     price: 2664
-    capacity: "850mL×2袋（約100回分）"
-    pricePerUnit: "約1.6円/mL"
+    capacity: "700mL"
+    pricePerUnit: "約3.8円/mL"
     rating: 4.42
     reviewCount: 445
     features:
@@ -72,11 +72,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1osn.3rdw6db5.g00r1osn.3rdw76c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarasa-designstore%2Fset-ls021x3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarasa-designstore%2Fi%2F10002237%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sarasa-designstore/cabinet/c05/set-ls021x3_ver2.jpg?_ex=128x128"
   - rank: 4
-    name: "ベビーファーファ 柔軟剤 600mL×3本"
+    name: "ベビー ファーファ 濃縮 柔軟剤 詰替"
     brand: "NSファーファ・ジャパン（ベビーファーファ）"
     price: 8178
-    capacity: "600mL×3本（約90回分）"
-    pricePerUnit: "約4.5円/mL"
+    capacity: "（540mL）"
+    pricePerUnit: "約15円/mL"
     rating: 4.52
     reviewCount: 234
     features:

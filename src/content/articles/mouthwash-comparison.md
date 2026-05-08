@@ -6,28 +6,6 @@ publishedAt: "2026-05-01"
 updatedAt: 2026-05-08
 products:
   - rank: 1
-    name: "リステリン トータルケアプラス 1000mL×4本セット"
-    brand: "ジョンソン・エンド・ジョンソン（リステリン）"
-    price: 3980
-    capacity: "1000mL×4本セット（約6ヶ月分）"
-    pricePerUnit: "約0.99円/mL"
-    rating: 4.67
-    reviewCount: 421
-    features:
-      - "4つの有効成分で口内の原因菌を99.9%殺菌"
-      - "虫歯・歯肉炎・口臭・歯石・着色の7大トラブルに対応"
-      - "液体だから歯ブラシが届かない場所もケア"
-    pros:
-      - "1mLあたり約1.0円で高コスパ"
-      - "殺菌力が最も高いマウスウォッシュの一つ"
-      - "4本セットでまとめ買いに最適"
-    cons:
-      - "刺激が強く、初心者には辛い"
-      - "アルコール配合で口が乾燥しやすい"
-    recommendedFor: "口臭・虫歯予防を徹底したい方・刺激に慣れている方・コスパ重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F89402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10982576%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/402/89402.jpg?_ex=128x128"
-  - rank: 2
     name: "GUM デンタルリンス ナイトケア 900mL"
     brand: "サンスター（GUM）"
     price: 1038
@@ -49,6 +27,28 @@ products:
     recommendedFor: "朝の口臭が気になる方・就寝中の口内ケアを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10035032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10035032%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin52/4901616010888.jpg?_ex=128x128"
+  - rank: 2
+    name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
+    brand: "ジョンソン・エンド・ジョンソン（リステリン）"
+    price: 3980
+    capacity: "1000mL"
+    pricePerUnit: "約4.0円/mL"
+    rating: 4.67
+    reviewCount: 421
+    features:
+      - "4つの有効成分で口内の原因菌を99.9%殺菌"
+      - "虫歯・歯肉炎・口臭・歯石・着色の7大トラブルに対応"
+      - "液体だから歯ブラシが届かない場所もケア"
+    pros:
+      - "1mLあたり約1.0円で高コスパ"
+      - "殺菌力が最も高いマウスウォッシュの一つ"
+      - "4本セットでまとめ買いに最適"
+    cons:
+      - "刺激が強く、初心者には辛い"
+      - "アルコール配合で口が乾燥しやすい"
+    recommendedFor: "口臭・虫歯予防を徹底したい方・刺激に慣れている方・コスパ重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F89402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10982576%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/402/89402.jpg?_ex=128x128"
   - rank: 3
     name: "モンダミン プレミアムケア 1300mL"
     brand: "アース製薬（モンダミン）"

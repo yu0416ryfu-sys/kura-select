@@ -8,11 +8,11 @@ products:
   - rank: 1
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
     brand: "花王（キュレル）"
-    price: 1280
+    price: 1320
     capacity: "180mL"
-    pricePerUnit: "約7.1円/mL"
-    rating: 4.5
-    reviewCount: 700
+    pricePerUnit: "約7.3円/mL"
+    rating: 4.63
+    reviewCount: 8
     features:
       - "セラミドケア処方で洗いながら潤いを守る"
       - "敏感肌・乾燥肌向けに設計された低刺激フォーム"
@@ -25,8 +25,8 @@ products:
       - "150mLで容量が少なめのため頻繁に購入が必要"
       - "濃いメイクはしっかり落ちにくい場合がある"
     recommendedFor: "敏感肌・乾燥肌の方・肌荒れが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sc3vn.3rdw62af.g00sc3vn.3rdw76d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuidrug%2F4901301447586%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuidrug%2Fi%2F10054545%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuidrug/cabinet/item241029/4901301447586.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tjrkn.3rdw628c.g00tjrkn.3rdw754d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsup-s-r%2Fr20250207-curel-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsup-s-r%2Fi%2F10001251%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sup-s-r/cabinet/curel/imgrc0095274370.jpg?_ex=128x128"
   - rank: 2
     name: "ソフティモ スピーディオイルクレンジング 230mL"
     brand: "コーセー（ソフティモ）"

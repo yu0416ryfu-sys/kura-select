@@ -35,7 +35,7 @@ products:
     capacity: "65個（65回分）"
     pricePerUnit: "約69円/個"
     rating: 4.87
-    reviewCount: 77
+    reviewCount: 78
     features:
       - "計量不要のカプセルタイプ"
       - "洗浄+柔軟+香り+シワ防止の4in1"
