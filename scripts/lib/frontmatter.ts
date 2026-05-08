@@ -479,3 +479,53 @@ export function reorderProductsByPricePerUnit(
   parsed.data.products = sorted.map(b => b.product);
   return { content: dumpFrontmatter(parsed.data, parsed.body), changed: true, log };
 }
+
+/**
+ * フロントマターから全商品の基本データを抽出する（入れ替え候補レポート用）
+ */
+export interface ProductBasicData {
+  rank: number;
+  name: string;
+  reviewCount: number | null;
+  rakutenUrl: string;
+}
+
+export function extractAllProductsData(content: string): ProductBasicData[] {
+  const parsed = parseFrontmatter(content);
+  if (!parsed) return [];
+  const products = parsed.data.products;
+  if (!Array.isArray(products)) return [];
+  return products
+    .map((p: unknown) => {
+      const product = p as Record<string, unknown>;
+      return {
+        rank: typeof product.rank === 'number' ? product.rank : 0,
+        name: typeof product.name === 'string' ? product.name : '',
+        reviewCount: typeof product.reviewCount === 'number' ? product.reviewCount : null,
+        rakutenUrl: typeof product.rakutenUrl === 'string' ? product.rakutenUrl : '',
+      };
+    })
+    .filter(p => p.name && p.rakutenUrl);
+}
+
+/**
+ * フロントマターから記事タイトルを抽出する（商品追加候補レポート用）
+ */
+export function extractArticleTitle(content: string): string | null {
+  const parsed = parseFrontmatter(content);
+  if (!parsed) return null;
+  return typeof parsed.data.title === 'string' ? parsed.data.title : null;
+}
+
+/**
+ * 記事タイトルから楽天API検索用キーワードを生成する。
+ * 「ジェルボール洗剤 コスパ最強ランキング【2026年版】...」→「ジェルボール洗剤」
+ */
+export function buildArticleSearchKeyword(title: string): string {
+  // 【...】の前、または「コスパ」「おすすめ」「比較」「ランキング」の前を切り出す
+  let kw = title
+    .replace(/【[^】]*】.*/g, '')        // 【2026年版】以降を削除
+    .replace(/[\s　](コスパ|おすすめ|比較|ランキング|人気|レビュー).*/g, '') // 付加語以降を削除
+    .trim();
+  return kw.slice(0, 40) || title.slice(0, 20);
+}

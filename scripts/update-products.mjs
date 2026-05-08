@@ -14,12 +14,16 @@
  * バックアップ: 実行前に <ファイル名>.bak を自動作成
  */
 
-import { readFileSync, writeFileSync, readdirSync, existsSync } from 'fs';
-import { resolve, join, basename } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts } from './lib/frontmatter.ts';
+import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
+import { resolve, join, basename, dirname } from 'path';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
+const CHECK_REPLACEMENTS = process.argv.includes('--check-replacements');
+const CHECK_ADDITIONS = process.argv.includes('--check-additions');
 const FILE_FILTER = process.argv.find(a => a.startsWith('--file='))?.split('=')[1] ?? null;
+const THRESHOLD = parseFloat(process.argv.find(a => a.startsWith('--threshold='))?.split('=')[1] ?? '2');
+const TARGET_COUNT = parseInt(process.argv.find(a => a.startsWith('--target='))?.split('=')[1] ?? '10');
 
 // ─── 環境変数を読み込み（.env またはプロセス環境変数） ─────────────────────────
 function loadEnv() {
@@ -292,6 +296,263 @@ async function isApiHealthy() {
 }
 
 
+// ─── 複数件取得（追加候補レポート用） ────────────────────────────────────────
+/**
+ * 検索キーワードで楽天APIを叩き、最大 hits 件（上限30）の商品リストを返す
+ */
+async function fetchRakutenSearchMany(keyword, hits = 30) {
+  const searchKeyword = buildSearchKeyword(keyword);
+  const params = new URLSearchParams({
+    applicationId: APPLICATION_ID,
+    affiliateId: AFFILIATE_ID,
+    keyword: searchKeyword,
+    hits: String(Math.min(hits, 30)),
+    imageFlag: '1',
+    sort: '-reviewCount',
+    formatVersion: '2',
+    elements: [
+      'itemName', 'itemPrice', 'itemUrl', 'affiliateUrl',
+      'mediumImageUrls', 'reviewCount', 'reviewAverage',
+      'shopName', 'shopUrl',
+    ].join(','),
+  });
+
+  const url = `${RAKUTEN_API_ENDPOINT}?${params}`;
+  const reqHeaders = {
+    'accessKey': ACCESS_KEY,
+    'Origin': 'https://yu0416ryfu-sys.github.io',
+    'Referer': 'https://yu0416ryfu-sys.github.io/',
+  };
+
+  let res = await fetch(url, { headers: reqHeaders });
+  if (res.status === 429) {
+    await new Promise(r => setTimeout(r, 5000));
+    res = await fetch(url, { headers: reqHeaders });
+  }
+  if (!res.ok) throw new Error(`API HTTP ${res.status}`);
+
+  const data = await res.json();
+  if (!data.Items || data.Items.length === 0) return [];
+
+  return data.Items
+    .filter(item => {
+      const shopUrl = item.shopUrl || '';
+      const itemUrl = item.itemUrl || '';
+      if (/\/f\d{4,}-[a-z]/.test(shopUrl) || /\/f\d{4,}-[a-z]/.test(itemUrl)) return false;
+      if (/ふるさと納税|ふるさと|寄付|寄附|返礼品/.test(item.itemName || '')) return false;
+      if (/ふるさと納税|furusato/.test(item.shopName || '')) return false;
+      return true;
+    })
+    .map(item => ({
+      name: item.itemName,
+      price: item.itemPrice ?? null,
+      rating: item.reviewAverage ? Number(item.reviewAverage) : null,
+      reviewCount: item.reviewCount ? Number(item.reviewCount) : null,
+      itemUrl: item.itemUrl,
+      affiliateUrl: item.affiliateUrl ?? null,
+    }));
+}
+
+// ─── 商品追加候補レポート ─────────────────────────────────────────────────────
+async function checkAdditions() {
+  const articlesDir = resolve(process.cwd(), 'src/content/articles');
+  const files = readdirSync(articlesDir)
+    .filter(f => f.endsWith('.md'))
+    .filter(f => !FILE_FILTER || f === FILE_FILTER);
+
+  const today = new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Tokyo' }).format(new Date());
+  console.log(`📊 商品追加候補チェック（目標: ${TARGET_COUNT}商品/記事）\n`);
+
+  const sections = [];
+
+  for (const file of files) {
+    const filePath = join(articlesDir, file);
+    const content = readFileSync(filePath, 'utf-8');
+    const products = extractAllProductsData(content);
+    const title = extractArticleTitle(content);
+
+    if (products.length >= TARGET_COUNT) {
+      console.log(`✅ ${file}: ${products.length}商品（スキップ）`);
+      continue;
+    }
+
+    const needed = TARGET_COUNT - products.length;
+    const searchKeyword = buildArticleSearchKeyword(title ?? products[0]?.name ?? file);
+    console.log(`\n📄 ${file}: ${products.length}商品 → あと${needed}件必要（検索: "${searchKeyword}"）`);
+
+    // 既存商品のURLセット（重複除外用）
+    const existingUrls = new Set(
+      products.map(p => toDirectItemUrl(p.rakutenUrl)).filter(Boolean)
+    );
+
+    try {
+      const candidates = await fetchRakutenSearchMany(searchKeyword, 30);
+
+      // 既存商品を除外
+      const newCandidates = candidates.filter(c => {
+        const url = toDirectItemUrl(c.itemUrl);
+        return !url || !existingUrls.has(url);
+      });
+
+      const suggestions = newCandidates.slice(0, needed);
+
+      if (suggestions.length === 0) {
+        console.log(`   ⚠ 新規候補が見つかりませんでした`);
+        continue;
+      }
+
+      console.log(`   → ${suggestions.length}件の候補を取得`);
+
+      let section = `## ${file}（現在: ${products.length}商品 → あと${needed}件必要）\n\n`;
+      section += `検索キーワード: \`${searchKeyword}\`\n\n`;
+
+      for (let i = 0; i < suggestions.length; i++) {
+        const s = suggestions[i];
+        const directUrl = toDirectItemUrl(s.itemUrl) ?? s.itemUrl ?? '（URL取得不可）';
+        section += `### 候補${i + 1}: ${s.name}\n`;
+        section += `- URL: ${directUrl}\n`;
+        section += `- 価格: ¥${s.price?.toLocaleString() ?? '不明'}\n`;
+        section += `- 評価: ${s.rating ?? '-'}（${(s.reviewCount ?? 0).toLocaleString()}件）\n`;
+        section += `\n`;
+      }
+      sections.push(section);
+    } catch (e) {
+      console.log(`❌ ${e.message}`);
+    }
+
+    await new Promise(r => setTimeout(r, 2000));
+  }
+
+  // Markdown レポート出力
+  const reportsDir = resolve(process.cwd(), 'reports');
+  if (!existsSync(reportsDir)) mkdirSync(reportsDir, { recursive: true });
+
+  const outPath = join(reportsDir, `addition-candidates-${today}.md`);
+  const header = [
+    `# 商品追加候補レポート`,
+    ``,
+    `生成日: ${today}`,
+    `目標商品数: ${TARGET_COUNT}商品/記事`,
+    ``,
+    sections.length === 0
+      ? '> すべての記事が目標商品数に達しています。'
+      : `追加候補あり記事: ${sections.length} 件`,
+    ``,
+    `---`,
+    ``,
+  ].join('\n');
+
+  writeFileSync(outPath, header + sections.join('\n---\n\n'), 'utf-8');
+  console.log(`\n✅ レポート出力: ${outPath}`);
+  console.log(`   追加候補あり記事: ${sections.length} 件`);
+}
+
+// ─── 入れ替え候補レポート ───────────────────────────────────────────────────
+/**
+ * affiliateUrl / item.rakuten.co.jp URL を正規化して
+ * https://item.rakuten.co.jp/{shopCode}/{itemCode}/ 形式で返す
+ */
+function toDirectItemUrl(url) {
+  if (!url) return null;
+  const parsed = parseRakutenItemUrl(url);
+  if (parsed) return `https://item.rakuten.co.jp/${parsed.shopCode}/${parsed.itemCode}/`;
+  // すでに item.rakuten.co.jp 形式ならそのまま
+  try {
+    const u = new URL(url);
+    if (u.hostname === 'item.rakuten.co.jp') return url;
+  } catch { /* ignore */ }
+  return null;
+}
+
+async function checkReplacements() {
+  const articlesDir = resolve(process.cwd(), 'src/content/articles');
+  const files = readdirSync(articlesDir)
+    .filter(f => f.endsWith('.md'))
+    .filter(f => !FILE_FILTER || f === FILE_FILTER);
+
+  const today = new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Tokyo' }).format(new Date());
+  console.log(`📊 入れ替え候補チェック（閾値: ${THRESHOLD}倍以上）\n`);
+
+  const sections = [];
+
+  for (const file of files) {
+    const filePath = join(articlesDir, file);
+    const content = readFileSync(filePath, 'utf-8');
+    const products = extractAllProductsData(content);
+
+    if (products.length === 0) continue;
+
+    console.log(`\n📄 ${file} (${products.length}商品)`);
+
+    const candidates = [];
+
+    for (const product of products) {
+      const shortName = product.name.slice(0, 40);
+      process.stdout.write(`   [${shortName}...] `);
+      try {
+        const data = await fetchRakutenSearch(product.name);
+
+        const currentCount = product.reviewCount ?? 0;
+        const candidateCount = data.reviewCount ?? 0;
+        const ratio = currentCount > 0 ? candidateCount / currentCount : (candidateCount > 0 ? Infinity : 0);
+
+        const isSameItem = (() => {
+          const currentDirect = toDirectItemUrl(product.rakutenUrl);
+          const candidateDirect = toDirectItemUrl(data.itemUrl);
+          return currentDirect && candidateDirect && currentDirect === candidateDirect;
+        })();
+
+        if (!isSameItem && ratio >= THRESHOLD) {
+          candidates.push({ current: product, candidate: data, ratio });
+          console.log(`🔔 候補あり: ${candidateCount.toLocaleString()}件 (${ratio === Infinity ? '∞' : ratio.toFixed(1)}倍)`);
+        } else {
+          console.log(`  現在: ${currentCount.toLocaleString()}件 / 候補: ${candidateCount.toLocaleString()}件`);
+        }
+      } catch (e) {
+        console.log(`❌ ${e.message}`);
+      }
+      await new Promise(r => setTimeout(r, 2000));
+    }
+
+    if (candidates.length > 0) {
+      let section = `## ${file}\n`;
+      for (const { current, candidate, ratio } of candidates) {
+        const currentUrl = toDirectItemUrl(current.rakutenUrl) ?? current.rakutenUrl;
+        const candidateUrl = toDirectItemUrl(candidate.itemUrl) ?? candidate.itemUrl ?? '（URL取得不可）';
+        const ratioStr = ratio === Infinity ? '∞' : `${ratio.toFixed(1)}倍`;
+        section += `\n### ランク${current.rank}: ${current.name}\n`;
+        section += `- 現在のレビュー数: ${(current.reviewCount ?? 0).toLocaleString()}件\n`;
+        section += `- 現行URL: ${currentUrl}\n`;
+        section += `\n**候補商品:** ${candidate.name}\n`;
+        section += `- 候補のレビュー数: ${(candidate.reviewCount ?? 0).toLocaleString()}件（${ratioStr}）\n`;
+        section += `- 候補URL: ${candidateUrl}\n`;
+      }
+      sections.push(section);
+    }
+  }
+
+  // Markdown レポート出力
+  const reportsDir = resolve(process.cwd(), 'reports');
+  if (!existsSync(reportsDir)) mkdirSync(reportsDir, { recursive: true });
+
+  const outPath = join(reportsDir, `replacement-candidates-${today}.md`);
+  const header = [
+    `# 商品入れ替え候補レポート`,
+    ``,
+    `生成日: ${today}`,
+    `閾値: 現在のレビュー数の ${THRESHOLD} 倍以上`,
+    ``,
+    sections.length === 0 ? '> 入れ替え候補はありませんでした。' : `候補あり記事: ${sections.length} 件`,
+    ``,
+    `---`,
+    ``,
+  ].join('\n');
+
+  writeFileSync(outPath, header + sections.join('\n---\n\n'), 'utf-8');
+  console.log(`\n✅ レポート出力: ${outPath}`);
+  console.log(`   候補あり記事: ${sections.length} 件`);
+}
+
 // ─── メイン処理 ────────────────────────────────────────────────────────────
 async function main() {
   const articlesDir = resolve(process.cwd(), 'src/content/articles');
@@ -484,7 +745,7 @@ async function main() {
   }
 }
 
-main().catch(err => {
+(CHECK_REPLACEMENTS ? checkReplacements() : CHECK_ADDITIONS ? checkAdditions() : main()).catch(err => {
   console.error('予期しないエラー:', err);
   process.exit(1);
 });

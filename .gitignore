@@ -29,6 +29,9 @@ pnpm-debug.log*
 # スクリプトバックアップ
 *.bak
 
+# 入れ替え候補レポート（ローカル作業用）
+reports/
+
 # ClaudeCode作業メモ
 ClaudeCode/
 
