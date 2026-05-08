@@ -70,7 +70,7 @@ products:
       - "入手しにくいことがある"
     recommendedFor: "品質最優先の方・無臭にこだわる方・赤ちゃん・ペットのいる家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00thfbn.3rdw6868.g00thfbn.3rdw7b07/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa2care-official%2F10000003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa2care-official%2Fi%2F10000003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a2care-official/cabinet/ef/kago/10000003_kago.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a2care-official/cabinet/ef/sale-kago/10000003_5off-cp.jpg?_ex=128x128"
   - rank: 4
     name: "トップ ハイジア 除菌・消臭スプレー 詰め替え"
     brand: "ライオン（ハイジア）"
