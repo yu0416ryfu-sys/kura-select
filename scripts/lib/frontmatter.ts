@@ -111,8 +111,8 @@ export function extractProductCapacity(content: string, productName: string): st
   return product?.capacity ?? null;
 }
 
-const CAPACITY_UNITS = 'mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒';
-const PACK_UNITS = 'ロール|パック|セット|箱|缶';
+const CAPACITY_UNITS = 'mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒|包|錠';
+const PACK_UNITS = 'ロール|パック|セット|箱|缶|ケース';
 
 function normalizeItemName(s: string): string {
   return s.replace(/[ａ-ｚＡ-Ｚ０-９]/g, c =>
@@ -127,6 +127,8 @@ function normalizeItemName(s: string): string {
  * 例: "660mL×2個"                   → { total: 1320, unit: "mL" }
  * 例: "30枚（携帯用）"               → { total: 30,   unit: "枚" }
  * 例: "500g"                        → { total: 500,  unit: "g"  }
+ * 例: "48ロール"                     → { total: 48,   unit: "ロール" }
+ * 例: "12ロール×4パック"             → { total: 48,   unit: "ロール" }
  */
 export function extractCapacityTotal(capacity: string): { total: number; unit: string } | null {
   capacity = normalizeItemName(capacity);
@@ -160,6 +162,21 @@ export function extractCapacityTotal(capacity: string): { total: number; unit: s
   if (simpleM) {
     const total = parseInt(simpleM[1].replace(/,/g, ''), 10);
     if (total > 0) return { total, unit: simpleM[2] };
+  }
+
+  // パターン4: PACK_UNITS が基底単位（例: "48ロール", "12ロール×4パック"）
+  // CAPACITY_UNITS パターンがすべて不一致の場合のフォールバック
+  const mulPackRe = new RegExp(`^([\\d,]+)\\s*(${PACK_UNITS})(.*)`);
+  const mulPackM = capacity.match(mulPackRe);
+  if (mulPackM) {
+    const base = parseInt(mulPackM[1].replace(/,/g, ''), 10);
+    const unit = mulPackM[2];
+    const factors = [...mulPackM[3].matchAll(/[×xX]\s*([\d,]+)/g)];
+    if (base > 0 && factors.length > 0) {
+      const multiplier = factors.reduce((acc, f) => acc * parseInt(f[1].replace(/,/g, ''), 10), 1);
+      if (multiplier > 1) return { total: base * multiplier, unit };
+    }
+    if (base > 0) return { total: base, unit };
   }
 
   return null;
@@ -281,6 +298,14 @@ export function extractCapacityFromItemName(itemName: string): string | null {
   const simpleM = itemName.match(simpleRe);
   if (simpleM) {
     return `${simpleM[1]}${simpleM[2]}`;
+  }
+
+  // パターン4: PACK_UNITS のみの単独表記（例: "48ロール"）
+  // CAPACITY_UNITS パターンがすべて不一致の場合のフォールバック
+  const simplePackRe = new RegExp(`(\\d[\\d,]*)\\s*(${PACK_UNITS})`);
+  const simplePackM = itemName.match(simplePackRe);
+  if (simplePackM) {
+    return `${simplePackM[1]}${simplePackM[2]}`;
   }
 
   return null;

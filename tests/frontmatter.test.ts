@@ -308,6 +308,34 @@ describe("extractCapacityTotal", () => {
   it("全角ｍを正規化して計算する", () => {
     expect(extractCapacityTotal("25ｍ×12ロール")).toEqual({ total: 300, unit: "m" });
   });
+
+  it("包単位のシンプルな数量を計算する", () => {
+    expect(extractCapacityTotal("82包")).toEqual({ total: 82, unit: "包" });
+  });
+
+  it("錠単位のシンプルな数量を計算する", () => {
+    expect(extractCapacityTotal("56錠")).toEqual({ total: 56, unit: "錠" });
+  });
+
+  it("包単位の掛け算を計算する", () => {
+    expect(extractCapacityTotal("30包×3セット")).toEqual({ total: 90, unit: "包" });
+  });
+
+  it("ロール単位のみの容量を解析する（PACK_UNITS基底単位）", () => {
+    expect(extractCapacityTotal("48ロール")).toEqual({ total: 48, unit: "ロール" });
+  });
+
+  it("ロール×パック単位の掛け算を計算する（PACK_UNITS基底単位）", () => {
+    expect(extractCapacityTotal("12ロール×4パック")).toEqual({ total: 48, unit: "ロール" });
+  });
+
+  it("箱単位のみの容量を解析する（PACK_UNITS基底単位）", () => {
+    expect(extractCapacityTotal("6箱")).toEqual({ total: 6, unit: "箱" });
+  });
+
+  it("CAPACITY_UNITS基底単位のケースをPACK_UNITSより優先する（既存動作の回帰確認）", () => {
+    expect(extractCapacityTotal("40m×4ロール")).toEqual({ total: 160, unit: "m" });
+  });
 });
 
 // ─── updateProductInFrontmatter (newName / newCapacity) ──────────────────
@@ -393,6 +421,18 @@ describe("extractCapacityFromItemName", () => {
     expect(extractCapacityFromItemName("25ｍ×12ロール")).toBe("25m×12ロール");
   });
 
+  it("包単位を抽出する", () => {
+    expect(extractCapacityFromItemName("バスクリン 日本の名湯 82包 15種アソート 入浴剤")).toBe("82包");
+  });
+
+  it("錠単位を抽出する", () => {
+    expect(extractCapacityFromItemName("バブ 厳選4種類の香りセレクトBOX 56錠")).toBe("56錠");
+  });
+
+  it("ケース単位を含む3因子チェーンを抽出する", () => {
+    expect(extractCapacityFromItemName("エリエール 200枚×48個×2ケース まとめ買い")).toBe("200枚×48個×2ケース");
+  });
+
   it("スペース区切り＋× チェーンでロール×パックを抽出する（Pattern 1c）", () => {
     expect(extractCapacityFromItemName("スコッティ フラワーパック 100m 12ロール×4パック")).toBe("100m×12ロール×4パック");
   });
@@ -419,6 +459,22 @@ describe("extractCapacityFromItemName", () => {
     expect(
       extractCapacityFromItemName("エリエール トイレットティシュー たっぷり長持ち ダブル（12ロール×6個セット）")
     ).toBe("12ロール×6個");
+  });
+
+  it("ロール単位のみのタイトルからロール数を抽出する（Pattern 4）", () => {
+    expect(extractCapacityFromItemName("エリエール トイレットペーパー 48ロール まとめ買い")).toBe("48ロール");
+  });
+
+  it("パック単位のみのタイトルからパック数を抽出する（Pattern 4）", () => {
+    expect(extractCapacityFromItemName("洗剤 詰め替え 3パック お得セット")).toBe("3パック");
+  });
+
+  it("箱単位のみのタイトルから箱数を抽出する（Pattern 4）", () => {
+    expect(extractCapacityFromItemName("スコッティ ティッシュ 5箱 まとめ買い")).toBe("5箱");
+  });
+
+  it("CAPACITY_UNITSが存在する場合はPattern 4より優先する（回帰確認）", () => {
+    expect(extractCapacityFromItemName("シャンプー 500mL 3パック")).toBe("500mL×3パック");
   });
 });
 
