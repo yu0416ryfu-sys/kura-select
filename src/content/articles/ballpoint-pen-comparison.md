@@ -1,12 +1,34 @@
 ---
 title: "ボールペン コスパ最強ランキング【2026年版】1本あたり最安で比較"
-description: "ボールペンを書き心地・インク・デザインで徹底比較。uni・ZEBRA・Parker・CROSSの人気4選をコスパ・ギフト適性で解説します。"
+description: "ボールペンを書き心地・インク・デザインで徹底比較。uni・ZEBRA・Parker・CROSSなど人気10選をコスパ・ギフト適性で解説します。"
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 updatedAt: 2026-05-08
 draft: false
 products:
   - rank: 1
+    name: "ハーバリウムボールペン 10本セット 替え芯付き"
+    brand: "リトルハンズ"
+    price: 1400
+    capacity: "10本セット（替え芯付き、0.7mm）"
+    pricePerUnit: "約140円/本"
+    rating: 4.83
+    reviewCount: 2421
+    features:
+      - "150色以上から選べるハーバリウムデザインの装飾ボールペン10本セット"
+      - "替え芯付きで長く使えるコスパ設計、送料無料"
+      - "手作りキット・カスタマイズ対応でオリジナルギフトに最適"
+    pros:
+      - "150色以上の豊富なカラー展開でイベント・記念品に個性を出せる"
+      - "10本まとめ買いでウェディング・卒業イベントの大量配布に便利"
+      - "評価4.83・2,400件超の高評価で満足度が証明されている"
+    cons:
+      - "書き心地より装飾性を重視した設計のため実用向けには不向き"
+      - "0.7mm油性インクのみで軸径・インク色の選択肢がない"
+    recommendedFor: "ウェディング・イベント記念品を探している方・個性的なフラワーデザインを希望する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sllbn.3rdw68ba.g00sllbn.3rdw7c66/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frioreis%2Fbl0516%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frioreis%2Fi%2F10000137%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rioreis/cabinet/001/imgrc0110275453.jpg?_ex=128x128"
+  - rank: 2
     name: "ジェットストリーム 名入れ 多機能ボールペン 4色"
     brand: "uni（三菱鉛筆）"
     price: 880
@@ -28,7 +50,51 @@ products:
     recommendedFor: "プレゼント・記念品を探している方・1本で多機能をまとめたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q656n.3rdw61ae.g00q656n.3rdw7d60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbunbougu-shibuya%2Fmsxe5-1000-05n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbunbougu-shibuya%2Fi%2F10074288%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bunbougu-shibuya/cabinet/73/msxe5-1000n_.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 3
+    name: "ジェットストリーム 名入れ 多機能ボールペン 新色"
+    brand: "uni（三菱鉛筆）"
+    price: 1000
+    capacity: "1本（4色ボールペン+シャープペンシル）"
+    pricePerUnit: "約1000円/本"
+    rating: 4.78
+    reviewCount: 13319
+    features:
+      - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
+      - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"
+      - "ジェットストリーム低摩擦油性インク採用で滑らかな書き心地"
+    pros:
+      - "新色展開で他と差別化できる個性的な1本になる"
+      - "1本で4色＋シャープを網羅し、持ち歩きを減らせる"
+      - "評価4.78・13,000件超の高評価で品質が保証済み"
+    cons:
+      - "名入れ後は返品・交換不可のため注文前の確認が必要"
+      - "多機能ペンのため単機能ペンより軸が太め"
+    recommendedFor: "新色で個性を出したい方・卒業・誕生日の記念品を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbsyn.3rdw622d.g00qbsyn.3rdw79de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbugyo%2Fb06-21-277%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbugyo%2Fi%2F10004467%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/pen_2021/pen_2019_123d.jpg?_ex=128x128"
+  - rank: 4
+    name: "ジェットストリーム 4+1 MSXE5-1000 名入れ無料"
+    brand: "uni（三菱鉛筆）"
+    price: 1000
+    capacity: "1本（4色ボールペン+シャープペンシル）"
+    pricePerUnit: "約1000円/本"
+    rating: 4.57
+    reviewCount: 238
+    features:
+      - "MSXE5-1000正規品に名入れ無料サービスが込みで1,000円台"
+      - "0.38/0.5/0.7mm軸径を選択でき、用途に合わせてカスタマイズ可能"
+      - "就職・入学祝いなどギフト用途に特化した実績（評価4.52・8,000件超）"
+    pros:
+      - "名入れ代無料でコスパが高く、まとめ注文にも対応"
+      - "8,000件超の購入実績で信頼度が高い"
+      - "複数の軸径から選べるため受け取る方の好みに合わせやすい"
+    cons:
+      - "同ジェットストリームシリーズ内で商品の差別化が難しい"
+      - "名入れ後は返品不可のため注文内容の事前確認が必須"
+    recommendedFor: "名入れコストを抑えたい方・まとめてギフトを手配したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qm7tn.3rdw6475.g00qm7tn.3rdw747f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-youstyle%2Fmit-msxe5-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-youstyle%2Fi%2F10066665%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-youstyle/cabinet/mitsubishi/2023/mit-msxe5-1000-zt.jpg?_ex=128x128"
+  - rank: 5
     name: "サラサグランド ビンテージ ジェルボールペン"
     brand: "ZEBRA（ゼブラ）"
     price: 1200
@@ -50,7 +116,51 @@ products:
     recommendedFor: "おしゃれなデザインを重視する方・滑らかなゲルの書き心地を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q020n.3rdw6d49.g00q020n.3rdw75a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fogawahan%2F10008119%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fogawahan%2Fi%2F10008119%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ogawahan/cabinet/pen/sarasa-gr/new01.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 6
+    name: "ジェットストリーム 4+1 名入れ 部活マーク"
+    brand: "uni（三菱鉛筆）"
+    price: 1300
+    capacity: "1本（4色ボールペン+シャープペンシル）"
+    pricePerUnit: "約1300円/本"
+    rating: 4.75
+    reviewCount: 4
+    features:
+      - "部活マーク・オリジナルマークの印字に対応した特別仕様"
+      - "メール便送料・名入れ代込みの価格設定（0.38/0.5/0.7mm選択可）"
+      - "評価4.81・3,400件超の高評価で品質が安定"
+    pros:
+      - "部活マーク印字対応で集団記念品や卒団祝いに最適"
+      - "送料・名入れ代込みでわかりやすいコスト管理ができる"
+      - "ジェットストリームの低摩擦インクによる快適な書き心地"
+    cons:
+      - "マーク印字はデザインの種類・サイズに制限がある場合がある"
+      - "名入れ後は返品不可のため事前確認が必要"
+    recommendedFor: "部活の卒団記念品を一括手配したい方・オリジナルマーク入りを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe23n.3rdw6a7a.g00qe23n.3rdw7bec/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeman%2Fjet-light%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeman%2Fi%2F10461509%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ikeman/cabinet/hikkigu/jet4and1/10824126/jetl_top.jpg?_ex=128x128"
+  - rank: 7
+    name: "ジェットストリーム 名入れ 多機能ボールペン 限定"
+    brand: "uni（三菱鉛筆）"
+    price: 1980
+    capacity: "1本（4色ボールペン+シャープペンシル、0.5mm）"
+    pricePerUnit: "約1980円/本"
+    rating: 4.74
+    reviewCount: 709
+    features:
+      - "限定カラー展開の4色ボールペン＋シャープ0.5mmの多機能タイプ（MSXE5-1000-05）"
+      - "名前刻印サービス付きで卒団・卒業祝いなどの特別な記念品に対応"
+      - "評価4.80・4,900件超の高評価を獲得した人気限定モデル"
+    pros:
+      - "限定色で特別感を演出でき、記念品としての印象が高まる"
+      - "評価4.80と高評価で品質の安定性が証明されている"
+      - "名入れ無料サービス付きでプレゼントとしてのコスパが高い"
+    cons:
+      - "限定品のため在庫がなくなり次第終了となる可能性がある"
+      - "名入れ後は返品・交換不可"
+    recommendedFor: "限定カラーで個性を出したい方・特別な卒団・卒業記念品を贈りたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbsyn.3rdw622d.g00qbsyn.3rdw79de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbugyo%2Fe06-21-660%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbugyo%2Fi%2F10006340%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/pen_2014/pen_2020_136_3.jpg?_ex=128x128"
+  - rank: 8
     name: "クロス カレイ ボールペン"
     brand: "CROSS（クロス）"
     price: 2640
@@ -72,7 +182,29 @@ products:
     recommendedFor: "クラシックなデザインを好む方・米国ブランドの高級ペンを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qm7tn.3rdw6475.g00qm7tn.3rdw747f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-youstyle%2Fcr-at0112-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-youstyle%2Fi%2F10044341%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-youstyle/cabinet/cross/10744491/cr-at0112-1.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 9
+    name: "木製ボールペン 名入れ ケースセット"
+    brand: "福来館"
+    price: 3000
+    capacity: "1本+ケース1個のセット"
+    pricePerUnit: "約3000円/本"
+    rating: 4.74
+    reviewCount: 2651
+    features:
+      - "天然木素材を使用した温かみのあるデザインのボールペン＆ケースセット"
+      - "10文字までの名入れ刻印に対応し、送料無料で届けられる"
+      - "男女問わず使えるシンプルなデザインで幅広いプレゼント用途に対応"
+    pros:
+      - "木製素材ならではの高級感と温もりが他のペンと差別化できる"
+      - "ケース付きセットでプレゼントとしての完成度が高い"
+      - "評価4.74・2,600件超の高評価で贈り物としての実績が豊富"
+    cons:
+      - "木製素材のため水濡れや強い衝撃には注意が必要"
+      - "価格がジェットストリーム系より高めのため予算確認が必要"
+    recommendedFor: "ナチュラル・木製雑貨が好きな方・退職祝いや卒業記念品に特別感を出したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pus9n.3rdw6c57.g00pus9n.3rdw7ed1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuraikan%2F3502-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuraikan%2Fi%2F10020594%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuraikan/cabinet/00491516/01781229/mz02.jpg?_ex=128x128"
+  - rank: 10
     name: "パーカー IM ボールペン"
     brand: "Parker（パーカー）"
     price: 3470
