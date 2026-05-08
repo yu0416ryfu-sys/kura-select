@@ -61,6 +61,7 @@ if (!AFFILIATE_ID || AFFILIATE_ID === 'your_affiliate_id_here') {
 
 // ─── 楽天商品検索APIで商品データを取得 ───────────────────────────────────
 const RAKUTEN_API_ENDPOINT = 'https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20220601';
+const CONSECUTIVE_ZERO_ABORT = 3; // 連続この件数以上の0件エラーで中断（API障害検知用）
 /**
  * 楽天アフィリエイトURL または item.rakuten.co.jp 直接URL から
  * { shopCode, itemCode } を抽出する
@@ -261,6 +262,35 @@ async function fetchRakutenSearch(keyword) {
   };
 }
 
+/**
+ * 汎用ワード「日用品」で楽天APIが正常応答しているか確認するプローブ。
+ * 1件以上ヒット → true（正常）、0件/エラー → false（障害の可能性）
+ */
+async function isApiHealthy() {
+  try {
+    const params = new URLSearchParams({
+      applicationId: APPLICATION_ID,
+      affiliateId: AFFILIATE_ID,
+      keyword: '日用品',
+      hits: '1',
+      formatVersion: '2',
+      elements: 'itemName',
+    });
+    const res = await fetch(`${RAKUTEN_API_ENDPOINT}?${params}`, {
+      headers: {
+        'accessKey': ACCESS_KEY,
+        'Origin': 'https://yu0416ryfu-sys.github.io',
+        'Referer': 'https://yu0416ryfu-sys.github.io/',
+      },
+    });
+    if (!res.ok) return false;
+    const data = await res.json();
+    return Array.isArray(data.Items) && data.Items.length > 0;
+  } catch {
+    return false;
+  }
+}
+
 
 // ─── メイン処理 ────────────────────────────────────────────────────────────
 async function main() {
@@ -274,6 +304,7 @@ async function main() {
 
   let totalSuccess = 0;
   let totalFail = 0;
+  let consecutiveZeroResults = 0; // 連続0件カウンター（API障害検知用）
 
   for (const file of files) {
     const filePath = join(articlesDir, file);
@@ -374,10 +405,31 @@ async function main() {
         const ppuSuffix = updates.pricePerUnit ? ` → ${updates.pricePerUnit}` : '';
         console.log(`✅ ¥${data.price?.toLocaleString()} 評価${data.rating}(${data.reviewCount?.toLocaleString()}件)${ppuSuffix}`);
         totalSuccess++;
+        consecutiveZeroResults = 0; // 成功したらリセット
       } catch (e) {
         // 機能2: 検索0件エラー時は商品ブロックを自動削除
         const isZeroResult = e.message.includes('0件') || e.message.includes('通常商品が見つかりません');
         if (isZeroResult) {
+          consecutiveZeroResults++;
+
+          // ② 連続N件で中断（API障害と判断）
+          if (consecutiveZeroResults >= CONSECUTIVE_ZERO_ABORT) {
+            console.error(`\n🚨 連続${consecutiveZeroResults}件の検索0件エラーが発生しました。`);
+            console.error('   API障害の可能性があるため処理を中断します。ファイルへの書き込みは行っていません。');
+            process.exit(1);
+          }
+
+          // ① プローブクエリ：APIが正常かを確認してから削除判断
+          process.stdout.write('\n   🔍 API疎通確認中... ');
+          const healthy = await isApiHealthy();
+          if (!healthy) {
+            console.error(`\n🚨 API障害を検知しました（プローブ失敗）。"${name.slice(0, 30)}" の削除をスキップして処理を中断します。`);
+            console.error('   ファイルへの書き込みは行っていません。次回実行時に再試行してください。');
+            process.exit(1);
+          }
+          console.log('OK（正常）');
+
+          // API正常 → 廃番と判断して削除
           const removed = removeProductFromFrontmatter(updatedContent, name);
           if (removed === null) {
             console.log(`❌ ${e.message} ⚠ 削除スキップ（最後の1商品）`);
