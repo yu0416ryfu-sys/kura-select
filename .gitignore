@@ -35,6 +35,16 @@ ClaudeCode/
 # Claude Code ローカル設定
 .claude/settings.local.json
 
+# Claudeの内部作業領域（最も重要な除外）
+.claude/worktrees/
+
+# その他のClaude一時・キャッシュ系
+.claude/cache/
+.claude/tmp/
+.claude/logs/
+.claude/sessions/
+.claude/temp/
+
 # 一時ファイル
 _tmp_*
 
