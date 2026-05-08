@@ -285,8 +285,32 @@ export function extractCapacityFromItemName(itemName: string): string | null {
     while ((parenMatch = parenFactorRe.exec(itemName)) !== null) {
       const packFactors = [...parenMatch[1].matchAll(new RegExp(`(\\d[\\d,]*)\\s*(${PACK_UNITS})`, 'g'))];
       if (packFactors.length >= 1) {
+        // 単一因子かつ result 末尾と同一単位で整数倍の場合は合計括弧とみなしてスキップ
+        // 例: result="12ロール" のとき "(48ロール)" は 12×4=48 の合計 → 因子ではない
+        if (packFactors.length === 1) {
+          const fVal = parseInt(packFactors[0][1].replace(/,/g, ''), 10);
+          const fUnit = packFactors[0][2];
+          const rEndM = result.match(new RegExp(`(\\d[\\d,]*)\\s*(${PACK_UNITS})$`));
+          if (rEndM) {
+            const rVal = parseInt(rEndM[1].replace(/,/g, ''), 10);
+            if (rEndM[2] === fUnit && fVal > rVal && fVal % rVal === 0) continue;
+          }
+        }
         for (const f of packFactors) result += '×' + f[1] + f[2];
         return result;
+      }
+    }
+
+    // パターン1e: PACK×PACK 乗算チェーンと CAPACITY_UNIT が別々に出現するケースを結合
+    // 例: "12ロール(シングル) 12ロール×4パック(48ロール) 100m" → "100m×12ロール×4パック"
+    // Pattern 1/1c/1d が CAPACITY_UNIT 起点のチェーンを拾えなかった場合のフォールバック
+    const packXpackRe = new RegExp(`(\\d[\\d,]*)\\s*(${PACK_UNITS})\\s*[×xX]\\s*(\\d[\\d,]*)\\s*(${PACK_UNITS})`);
+    const packXpackM = itemName.match(packXpackRe);
+    if (packXpackM) {
+      const capUnitSearchRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})`);
+      const capUnitM = itemName.match(capUnitSearchRe);
+      if (capUnitM) {
+        return `${capUnitM[1]}${capUnitM[2]}×${packXpackM[1]}${packXpackM[2]}×${packXpackM[3]}${packXpackM[4]}`;
       }
     }
   }

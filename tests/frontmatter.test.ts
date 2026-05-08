@@ -487,6 +487,24 @@ describe("extractCapacityFromItemName", () => {
     ).toBe("50m×12ロール×6パック");
   });
 
+  it("PACK×PACK チェーン後の合計括弧を乗算因子と誤認しない（Pattern 1d 修正）", () => {
+    // "(48ロール)" は "12ロール×4パック" の合計（12×4=48）なので因子としてスキップ
+    expect(
+      extractCapacityFromItemName(
+        "スコッティ トイレットペーパー 12ロール(シングル) 12ロール×4パック(48ロール) 100m"
+      )
+    ).toBe("100m×12ロール×4パック");
+  });
+
+  it("PACK×PACK と CAPACITY_UNIT が離れて出現するケースを結合する（Pattern 1e）", () => {
+    // "12ロール×4パック" チェーンと "100m" が別位置 → 結合して "100m×12ロール×4パック"
+    expect(
+      extractCapacityFromItemName(
+        "スコッティ フラワーパック 2倍長持ち 12ロール(シングル) 12ロール×4パック(48ロール) シングル 2倍巻き 倍 100m トイレ用品"
+      )
+    ).toBe("100m×12ロール×4パック");
+  });
+
   it("PACK_UNIT 始まりのチェーンを正しい順序で抽出する（mulRe PACK_UNITS 拡張）", () => {
     expect(
       extractCapacityFromItemName("エリエール トイレットティシュー たっぷり長持ち ダブル（12ロール×6個セット）")

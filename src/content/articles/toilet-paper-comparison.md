@@ -72,11 +72,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F369-3195%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10102400%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin300_05/369-3195.jpg?_ex=128x128"
   - rank: 4
-    name: "再生紙トイレットペーパー ダブル 27.5m×96ロール（1パック12ロール）"
+    name: "【1点限り！令和お試し価格】丸富製紙 ミッフィー トイレットペーパー ダブル 1"
     brand: "無地・無印刷（エコ仕様）"
     price: 580
-    capacity: "ダブル 27.5m×96ロール"
-    pricePerUnit: "約1.21円/m"
+    capacity: "12ロール"
+    pricePerUnit: "約48円/ロール"
     rating: 4.71
     reviewCount: 7
     features:
@@ -161,11 +161,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F14495%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10678469%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/495/14495.jpg?_ex=128x128"
   - rank: 8
-    name: "スコッティ フラワーパック 2倍長持ち トイレットペーパー シングル【スコッティ"
+    name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
     brand: "日本製紙クレシア（スコッティ）"
     price: 4799
-    capacity: "100m×12ロール"
-    pricePerUnit: "約4.0円/m"
+    capacity: "100m×12ロール×4パック"
+    pricePerUnit: "約1.00円/m"
     rating: 4.66
     reviewCount: 389
     features:
