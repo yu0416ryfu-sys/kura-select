@@ -6,28 +6,6 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-08
 products:
   - rank: 1
-    name: "キレイキレイ 薬用泡ハンドソープ シトラスフルーティの香り つめかえ用サイズ【イ"
-    brand: "ライオン（キレイキレイ）"
-    price: 475
-    capacity: "（450mL）"
-    pricePerUnit: "約1.1円/mL"
-    rating: 4.79
-    reviewCount: 92
-    features:
-      - "殺菌成分イソプロピルメチルフェノール配合"
-      - "きめ細かい泡で手全体をしっかり洗える"
-      - "詰め替え大容量でコスパ抜群"
-    pros:
-      - "殺菌力が高く衛生面で安心"
-      - "泡立ちがよく少量で十分な洗浄力"
-      - "大容量パックでコストを抑えられる"
-    cons:
-      - "保湿力はやや控えめ"
-      - "香りの好みが分かれる場合がある"
-    recommendedFor: "殺菌力重視の方・家族で使う方・コスパを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001223385714%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10057813%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/862/4903301176862.jpg?_ex=128x128"
-  - rank: 2
     name: "ビオレu 泡ハンドソープ 詰め替え 大容量 800mL×2袋"
     brand: "花王（ビオレu）"
     price: 2950
@@ -49,7 +27,7 @@ products:
     recommendedFor: "敏感肌の方・小さな子どもがいる家庭・保湿も重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00toizn.3rdw6228.g00toizn.3rdw730f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonoworld%2Fzakka-0029%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmonoworld%2Fi%2F10000154%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/monoworld/cabinet/10151410/compass1703598547.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "ミューズ 泡ハンドソープ 詰め替え 大容量 900mL"
     brand: "レキットベンキーザー（ミューズ）"
     price: 1914
