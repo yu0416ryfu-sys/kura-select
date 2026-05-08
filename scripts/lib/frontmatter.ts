@@ -160,7 +160,9 @@ export function extractCapacityTotal(capacity: string): { total: number; unit: s
   if (mulBaseM) {
     const base = parseInt(mulBaseM[1].replace(/,/g, ''), 10);
     const unit = mulBaseM[2];
-    const factors = [...mulBaseM[3].matchAll(/[×xX]\s*([\d,]+)/g)];
+    // 括弧内（注釈・内訳）の × は乗数ではないため除外する
+    const restWithoutBrackets = mulBaseM[3].replace(/[（(][^）)]*[）)]/g, '');
+    const factors = [...restWithoutBrackets.matchAll(/[×xX]\s*([\d,]+)/g)];
     if (base > 0 && factors.length > 0) {
       const multiplier = factors.reduce((acc, f) => acc * parseInt(f[1].replace(/,/g, ''), 10), 1);
       if (multiplier > 1) return { total: base * multiplier, unit };

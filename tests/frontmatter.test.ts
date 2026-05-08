@@ -312,6 +312,11 @@ describe("extractCapacityTotal", () => {
     expect(extractCapacityTotal("詰め替え用")).toBeNull();
   });
 
+  it("括弧内の内訳を乗数として誤認しない（先頭数値が総量）", () => {
+    // "248枚（62枚×4個・...）" → 括弧は内訳注釈なので 248 がそのまま総量
+    expect(extractCapacityTotal("248枚（62枚×4個・新生児サイズ・〜5000g）")).toEqual({ total: 248, unit: "枚" });
+  });
+
   it("3因子の掛け算を計算する（箱・パック単位）", () => {
     expect(extractCapacityTotal("500枚×5箱×12パック")).toEqual({ total: 30000, unit: "枚" });
   });

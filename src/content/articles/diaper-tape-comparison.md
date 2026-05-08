@@ -10,7 +10,7 @@ products:
     brand: "ユニ・チャーム（ムーニー）"
     price: 6680
     capacity: "248枚（62枚×4個・新生児サイズ・〜5000g）"
-    pricePerUnit: "約6.7円/枚"
+    pricePerUnit: "約26.9円/枚"
     rating: 3.75
     reviewCount: 4
     features:
