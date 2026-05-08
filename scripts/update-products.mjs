@@ -16,9 +16,10 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync } from 'fs';
 import { resolve, join, basename } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
+const FILE_FILTER = process.argv.find(a => a.startsWith('--file='))?.split('=')[1] ?? null;
 
 // ─── 環境変数を読み込み（.env またはプロセス環境変数） ─────────────────────────
 function loadEnv() {
@@ -60,6 +61,117 @@ if (!AFFILIATE_ID || AFFILIATE_ID === 'your_affiliate_id_here') {
 
 // ─── 楽天商品検索APIで商品データを取得 ───────────────────────────────────
 const RAKUTEN_API_ENDPOINT = 'https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20220601';
+/**
+ * 楽天アフィリエイトURL または item.rakuten.co.jp 直接URL から
+ * { shopCode, itemCode } を抽出する
+ */
+function parseRakutenItemUrl(url) {
+  if (!url || typeof url !== 'string') return null;
+  try {
+    const parsed = new URL(url);
+    if (parsed.hostname === 'hb.afl.rakuten.co.jp') {
+      const pc = parsed.searchParams.get('pc');
+      if (!pc) return null;
+      const inner = new URL(decodeURIComponent(pc));
+      if (inner.hostname !== 'item.rakuten.co.jp') return null;
+      const m = inner.pathname.match(/^\/([^/]+)\/([^/]+)\/?$/);
+      if (!m) return null;
+      return { shopCode: m[1], itemCode: m[2] };
+    }
+    if (parsed.hostname === 'item.rakuten.co.jp') {
+      const m = parsed.pathname.match(/^\/([^/]+)\/([^/]+)\/?$/);
+      if (!m) return null;
+      return { shopCode: m[1], itemCode: m[2] };
+    }
+    return null;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * shopCode でショップを絞り込んだ Search API 結果から itemCode が一致する商品を返す
+ * 商品が見つからない（廃番・商品名変更で未ヒット）場合は null → キーワード検索へフォールバック
+ */
+async function fetchRakutenItem(shopCode, itemCode, productName) {
+  const searchKeyword = buildSearchKeyword(productName);
+  const params = new URLSearchParams({
+    applicationId: APPLICATION_ID,
+    affiliateId: AFFILIATE_ID,
+    keyword: searchKeyword,
+    shopCode,
+    hits: '10',
+    imageFlag: '1',
+    sort: '-reviewCount',
+    formatVersion: '2',
+    elements: [
+      'itemName', 'itemPrice', 'itemUrl', 'affiliateUrl',
+      'mediumImageUrls', 'reviewCount', 'reviewAverage',
+      'shopName', 'shopUrl',
+    ].join(','),
+  });
+
+  const url = `${RAKUTEN_API_ENDPOINT}?${params}`;
+  const headers = {
+    'accessKey': ACCESS_KEY,
+    'Origin': 'https://yu0416ryfu-sys.github.io',
+    'Referer': 'https://yu0416ryfu-sys.github.io/',
+  };
+
+  let res;
+  try {
+    res = await fetch(url, { headers });
+  } catch {
+    return null;
+  }
+
+  if (res.status === 429) {
+    await new Promise(r => setTimeout(r, 5000));
+    try {
+      res = await fetch(url, { headers });
+    } catch {
+      return null;
+    }
+  }
+
+  if (!res.ok) return null;
+
+  let data;
+  try { data = await res.json(); } catch { return null; }
+
+  if (!data.Items || data.Items.length === 0) return null;
+
+  // ふるさと納税除外（fetchRakutenSearch と同じ基準）
+  const filtered = data.Items.filter(item => {
+    if (/\/f\d{4,}-[a-z]/.test(item.shopUrl || '') || /\/f\d{4,}-[a-z]/.test(item.itemUrl || '')) return false;
+    if (/ふるさと納税|ふるさと|寄付|寄附|返礼品/.test(item.itemName || '')) return false;
+    if (/ふるさと納税|furusato/.test(item.shopName || '')) return false;
+    return true;
+  });
+
+  // shopCode/itemCode で完全一致する商品を探す
+  // itemUrl はアフィリエイトURL形式（pc= パラメータにURLエンコード）で返ることがあるため
+  // decodeURIComponent してから比較する
+  const matchesItem = (rawUrl) => {
+    if (!rawUrl) return false;
+    const decoded = decodeURIComponent(rawUrl);
+    return decoded.includes(`/${shopCode}/${itemCode}/`) || decoded.endsWith(`/${shopCode}/${itemCode}`);
+  };
+
+  const target = filtered.find(item => matchesItem(item.itemUrl) || matchesItem(item.affiliateUrl));
+
+  if (!target) return null;
+
+  return {
+    name: target.itemName,
+    price: target.itemPrice ?? null,
+    rating: target.reviewAverage ? Number(target.reviewAverage) : null,
+    reviewCount: target.reviewCount ? Number(target.reviewCount) : null,
+    itemUrl: target.itemUrl,
+    imageUrl: target.mediumImageUrls?.[0] ?? null,
+    affiliateUrl: target.affiliateUrl ?? null,
+  };
+}
 
 async function fetchRakutenSearch(keyword) {
   const searchKeyword = buildSearchKeyword(keyword);
@@ -153,7 +265,9 @@ async function fetchRakutenSearch(keyword) {
 // ─── メイン処理 ────────────────────────────────────────────────────────────
 async function main() {
   const articlesDir = resolve(process.cwd(), 'src/content/articles');
-  const files = readdirSync(articlesDir).filter(f => f.endsWith('.md'));
+  const files = readdirSync(articlesDir)
+    .filter(f => f.endsWith('.md'))
+    .filter(f => !FILE_FILTER || f === FILE_FILTER);
 
   console.log(`📂 対象ファイル: ${files.length}件\n`);
   if (DRY_RUN) console.log('⚠ --dry-run モード: ファイルは書き換えません\n');
@@ -180,9 +294,32 @@ async function main() {
       const shortName = name.slice(0, 45);
       process.stdout.write(`   [${shortName}...] `);
       try {
-        const data = await fetchRakutenSearch(name);
+        // ── Step 1: Item/Get で直接取得を試みる ────────────────────────
+        let data = null;
+        let method = '[Search]';
 
-        // capacity を読み取り pricePerUnit を再計算
+        const existingUrl = extractProductRakutenUrl(updatedContent, name);
+        const parsed = parseRakutenItemUrl(existingUrl);
+
+        if (parsed) {
+          const itemData = await fetchRakutenItem(parsed.shopCode, parsed.itemCode, name);
+          if (itemData) {
+            data = itemData;
+            method = '[Item/Get]';
+          } else {
+            // 廃番・404 など → キーワード検索にフォールバック
+            method = '[Search(fallback)]';
+          }
+        }
+
+        // ── Step 2: フォールバック（キーワード検索） ──────────────────
+        if (!data) {
+          data = await fetchRakutenSearch(name);
+        }
+
+        process.stdout.write(`${method} `);
+
+        // ── Step 3: pricePerUnit 再計算・更新（既存ロジック） ─────────
         const capacity = extractProductCapacity(updatedContent, name);
         const newPricePerUnit = (capacity && data.price !== null)
           ? calcPricePerUnit(data.price, capacity)
@@ -197,21 +334,28 @@ async function main() {
           pricePerUnit: newPricePerUnit,
         };
 
-        // 機能3: 容量差異の自動修正（5%超の差異を検知して name/capacity/pricePerUnit を更新）
+        // 機能3: 容量差異の自動修正
+        // Item/Get は同一商品確定のため差異があれば即更新、Search は誤ヒット防止のため5%超のみ更新
         if (capacity && data.name) {
           const extractedCap = extractCapacityFromItemName(data.name);
           if (extractedCap) {
             const oldTotal = extractCapacityTotal(capacity);
             const newTotal = extractCapacityTotal(extractedCap);
-            if (oldTotal && newTotal && oldTotal.unit === newTotal.unit) {
+            // 単位比較は大文字小文字を無視（"mL" と "ml" を同一視）
+            if (oldTotal && newTotal && oldTotal.unit.toLowerCase() === newTotal.unit.toLowerCase()) {
               const diff = Math.abs(newTotal.total - oldTotal.total) / oldTotal.total;
-              if (diff > 0.05) {
+              const threshold = method === '[Item/Get]' ? 0 : 0.05;
+              if (diff > threshold) {
                 updates.newName = buildSearchKeyword(data.name);
-                updates.newCapacity = extractedCap;
+                // 単位表記を既存の capacity の表記に統一（ml→mL など）
+                const normalizedCap = extractedCap.replace(
+                  new RegExp(newTotal.unit, 'g'), oldTotal.unit
+                );
+                updates.newCapacity = normalizedCap;
                 updates.pricePerUnit = data.price !== null
-                  ? calcPricePerUnit(data.price, extractedCap)
+                  ? calcPricePerUnit(data.price, normalizedCap)
                   : newPricePerUnit;
-                console.log(`🔄 容量修正: "${capacity}" → "${extractedCap}", name → "${updates.newName}"`);
+                console.log(`🔄 容量修正: "${capacity}" → "${normalizedCap}", name → "${updates.newName}"`);
               }
             }
           }

@@ -4,6 +4,7 @@ import {
   buildSearchKeyword,
   updateProductInFrontmatter,
   extractProductCapacity,
+  extractProductRakutenUrl,
   extractCapacityTotal,
   calcPricePerUnit,
   extractCapacityFromItemName,
@@ -253,6 +254,31 @@ describe("extractProductCapacity", () => {
 
   it("存在しない商品名の場合は null を返す", () => {
     expect(extractProductCapacity(SAMPLE_FRONTMATTER, "存在しない商品")).toBeNull();
+  });
+});
+
+// ─── extractProductRakutenUrl ─────────────────────────────────────────────
+describe("extractProductRakutenUrl", () => {
+  it("1番目の商品の rakutenUrl を取得する", () => {
+    expect(extractProductRakutenUrl(SAMPLE_FRONTMATTER, "商品A 超特大 1200mL×2袋"))
+      .toBe("https://example.com/product-a");
+  });
+
+  it("2番目の商品の rakutenUrl を取得する", () => {
+    expect(extractProductRakutenUrl(SAMPLE_FRONTMATTER, "商品B レギュラー 500g"))
+      .toBe("https://example.com/product-b");
+  });
+
+  it("存在しない商品名の場合は null を返す", () => {
+    expect(extractProductRakutenUrl(SAMPLE_FRONTMATTER, "存在しない商品")).toBeNull();
+  });
+
+  it("rakutenUrl フィールドがない商品は null を返す", () => {
+    const noUrl = SAMPLE_FRONTMATTER.replace(
+      '    rakutenUrl: "https://example.com/product-a"\n',
+      ''
+    );
+    expect(extractProductRakutenUrl(noUrl, "商品A 超特大 1200mL×2袋")).toBeNull();
   });
 });
 

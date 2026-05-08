@@ -74,11 +74,11 @@ products:
   - rank: 4
     name: "パンテーン ミラクルズ ヘアトリートメント 100mL"
     brand: "P&G（パンテーン）"
-    price: 790
+    price: 1000
     capacity: "100mL"
-    pricePerUnit: "約7.9円/mL"
-    rating: 5
-    reviewCount: 1
+    pricePerUnit: "約10円/mL"
+    rating: 4
+    reviewCount: 2
     features:
       - "洗い流さないアウトバストリートメントタイプ"
       - "ビタミン成分配合でダメージを補修しながら乾燥から守る"
@@ -91,8 +91,8 @@ products:
       - "100mLで容量が少なく頻繁に購入が必要"
       - "1mL単価は他の3製品より高め"
     recommendedFor: "洗い流し不要のアウトバスケアを習慣にしたい方・ドライヤー前の熱ケアをしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987176174024-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461929%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4987176174024.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987176174048-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461240%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4987176174048.jpg?_ex=128x128"
 tags:
   - "ヘアトリートメント おすすめ"
   - "ヘアマスク コスパ"

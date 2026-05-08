@@ -32,7 +32,7 @@ products:
     brand: "日本製紙クレシア（スコッティ）"
     price: 7280
     capacity: "4ロール×4パック（150カット×16ロール）"
-    pricePerUnit: "約1.45円/枚"
+    pricePerUnit: "約28円/ロール"
     rating: 5
     reviewCount: 4
     features:

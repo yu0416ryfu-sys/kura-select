@@ -73,9 +73,9 @@ products:
   - rank: 4
     name: "ケラチナミン コーワ 尿素配合クリーム 30g 120個セット"
     brand: "興和（ケラチナミン）"
-    price: 1488
+    price: 1738
     capacity: "30g"
-    pricePerUnit: "約50円/g"
+    pricePerUnit: "約58円/g"
     rating: 4.5
     reviewCount: 400
     features:
@@ -90,8 +90,8 @@ products:
       - "1g単価は4製品中最も高め"
       - "尿素特有のにおいが気になる場合がある"
     recommendedFor: "カサカサ・角質の厚みが気になる方・かかともまとめてケアしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tffxn.3rdw6dfd.g00tffxn.3rdw7ab7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokkamachi%2F10001800%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyokkamachi%2Fi%2F10001800%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yokkamachi/cabinet/pinkmac/free_1642216261268.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r452n.3rdw63fc.g00r452n.3rdw79c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fehac%2F4987067227808%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fehac%2Fi%2F10072006%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ehac/cabinet/iyaku2/4987067227808_1.jpg?_ex=128x128"
 tags:
   - "ハンドクリーム おすすめ"
   - "ハンドクリーム コスパ"

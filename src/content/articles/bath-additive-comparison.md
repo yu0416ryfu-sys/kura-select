@@ -10,7 +10,7 @@ products:
     brand: "花王（バブ）"
     price: 4273
     capacity: "56錠（56回分）"
-    pricePerUnit: "約68円/回"
+    pricePerUnit: "約76円/錠"
     rating: 4.6
     reviewCount: 500
     features:
@@ -32,7 +32,7 @@ products:
     brand: "バスクリン"
     price: 2465
     capacity: "30g×82個"
-    pricePerUnit: "約1.4円/g"
+    pricePerUnit: "約1.0円/g"
     rating: 4.75
     reviewCount: 211
     features:

@@ -72,7 +72,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65240%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902781%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/240/65240.jpg?_ex=128x128"
   - rank: 4
-    name: "【5個セット】 大日本除虫菊 金鳥 蚊に効く 虫コナーズプレ"
+    name: "【（1個）セット】 大日本除虫菊 金鳥 蚊に効く 虫コナーズプレ"
     brand: "フマキラー（ムシコナーズ）"
     price: 6584
     capacity: "（1個）"

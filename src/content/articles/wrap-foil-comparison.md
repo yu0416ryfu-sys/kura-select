@@ -28,7 +28,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200078%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10094690%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/505/4901422152505.jpg?_ex=128x128"
   - rank: 2
-    name: "業務用ポリラップ 無添加 22cm×100m 3本セット"
+    name: "業務用ポリラップ 無添加 22cm×22cm×100m×3本（300m） 3本セット"
     brand: "ポリラップ（ポリエチレン製）"
     price: 13080
     capacity: "22cm×100m×3本（300m）"

@@ -111,6 +111,17 @@ export function extractProductCapacity(content: string, productName: string): st
   return product?.capacity ?? null;
 }
 
+/**
+ * フロントマター内の特定商品の rakutenUrl フィールドの値を取得する
+ */
+export function extractProductRakutenUrl(content: string, productName: string): string | null {
+  const parsed = parseFrontmatter(content);
+  if (!parsed || !Array.isArray(parsed.data.products)) return null;
+  const product = (parsed.data.products as Array<{ name: string; rakutenUrl?: string }>)
+    .find(p => p.name === productName);
+  return product?.rakutenUrl ?? null;
+}
+
 const CAPACITY_UNITS = 'mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒|包|錠';
 const PACK_UNITS = 'ロール|パック|セット|箱|缶|ケース';
 

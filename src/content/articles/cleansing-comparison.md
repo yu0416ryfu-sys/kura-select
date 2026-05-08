@@ -6,11 +6,11 @@ publishedAt: "2026-05-03"
 updatedAt: 2026-05-08
 products:
   - rank: 1
-    name: "キュレル 潤浸保湿 クレンジングフォーム 150mL"
+    name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
     brand: "花王（キュレル）"
     price: 1280
-    capacity: "150mL"
-    pricePerUnit: "約8.5円/mL"
+    capacity: "180mL"
+    pricePerUnit: "約7.1円/mL"
     rating: 4.5
     reviewCount: 700
     features:
@@ -72,11 +72,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qy5un.3rdw6b7b.g00qy5un.3rdw754e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdhcshop%2F8000000300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdhcshop%2Fi%2F10000077%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dhcshop/cabinet/8000000300.jpg?_ex=128x128"
   - rank: 4
-    name: "ビオレ 素肌つるるんクレンジングウォーター 300mL"
+    name: "Bioré ビオレ素肌つるるんクレンジングウォーター詰替"
     brand: "花王（ビオレ）"
     price: 6263
-    capacity: "300mL"
-    pricePerUnit: "約21円/mL"
+    capacity: "290mL"
+    pricePerUnit: "約22円/mL"
     rating: 4.4
     reviewCount: 800
     features:
