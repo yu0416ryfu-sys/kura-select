@@ -658,11 +658,154 @@ describe("reorderProductsByPricePerUnit", () => {
     expect(result.changed).toBe(false);
   });
 
-  it("単位が混在する場合はスキップしてログを返す", () => {
-    const mixedSample = PPU_SAMPLE.replace('約5円/枚', '約5円/mL');
+  it("単位が混在する場合は同一単位グループ内で並び替える", () => {
+    const mixedSample = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "mL高い商品"
+    price: 1000
+    capacity: "100mL"
+    pricePerUnit: "約10円/mL"
+    reviewCount: 10
+    rakutenUrl: "https://example.com/a"
+  - rank: 2
+    name: "枚の商品"
+    price: 300
+    capacity: "100枚"
+    pricePerUnit: "約3円/枚"
+    reviewCount: 100
+    rakutenUrl: "https://example.com/b"
+  - rank: 3
+    name: "mL安い商品"
+    price: 500
+    capacity: "100mL"
+    pricePerUnit: "約5円/mL"
+    reviewCount: 20
+    rakutenUrl: "https://example.com/c"
+---`;
     const result = reorderProductsByPricePerUnit(mixedSample);
+    expect(result.changed).toBe(true);
+    expect(result.content).toMatch(/- rank: 1[\s\S]*?name: "mL安い商品"/);
+    expect(result.content).toMatch(/- rank: 2[\s\S]*?name: "mL高い商品"/);
+    expect(result.content).toMatch(/- rank: 3[\s\S]*?name: "枚の商品"/);
+  });
+
+  it("換算できる単位は同一グループとしてコスパ比較する", () => {
+    const convertibleSample = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "1L商品"
+    price: 1200
+    capacity: "1L"
+    pricePerUnit: "約1200円/L"
+    rakutenUrl: "https://example.com/a"
+  - rank: 2
+    name: "mL商品"
+    price: 1500
+    capacity: "1000mL"
+    pricePerUnit: "約1.5円/mL"
+    rakutenUrl: "https://example.com/b"
+---`;
+    const result = reorderProductsByPricePerUnit(convertibleSample);
     expect(result.changed).toBe(false);
-    expect(result.log[0]).toContain('単位が混在');
+  });
+
+  it("グループ内商品数が多いグループを上位にする", () => {
+    const groupSizeSample = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "枚商品"
+    price: 100
+    pricePerUnit: "約1円/枚"
+    rakutenUrl: "https://example.com/a"
+  - rank: 2
+    name: "mL商品1"
+    price: 300
+    pricePerUnit: "約3円/mL"
+    rakutenUrl: "https://example.com/b"
+  - rank: 3
+    name: "mL商品2"
+    price: 200
+    pricePerUnit: "約2円/mL"
+    rakutenUrl: "https://example.com/c"
+---`;
+    const result = reorderProductsByPricePerUnit(groupSizeSample);
+    expect(result.changed).toBe(true);
+    expect(result.content).toMatch(/- rank: 1[\s\S]*?name: "mL商品2"/);
+    expect(result.content).toMatch(/- rank: 2[\s\S]*?name: "mL商品1"/);
+    expect(result.content).toMatch(/- rank: 3[\s\S]*?name: "枚商品"/);
+  });
+
+  it("グループ数が同じ場合はレビュー数、レビューが比較できない場合は次順位で比較する", () => {
+    const reviewSample = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "mL1位"
+    price: 100
+    pricePerUnit: "約1円/mL"
+    reviewCount: 1000
+    rakutenUrl: "https://example.com/c"
+  - rank: 2
+    name: "mL2位"
+    price: 200
+    pricePerUnit: "約2円/mL"
+    reviewCount: 100
+    rakutenUrl: "https://example.com/d"
+  - rank: 3
+    name: "枚1位"
+    price: 100
+    pricePerUnit: "約1円/枚"
+    rakutenUrl: "https://example.com/a"
+  - rank: 4
+    name: "枚2位"
+    price: 200
+    pricePerUnit: "約2円/枚"
+    reviewCount: 500
+    rakutenUrl: "https://example.com/b"
+---`;
+    const result = reorderProductsByPricePerUnit(reviewSample);
+    expect(result.changed).toBe(true);
+    expect(result.content).toMatch(/- rank: 1[\s\S]*?name: "枚1位"/);
+    expect(result.content).toMatch(/- rank: 2[\s\S]*?name: "枚2位"/);
+  });
+
+  it("レビュー数で比較できない場合はグループ内1位商品の価格が安い順にする", () => {
+    const priceSample = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "高い枚商品"
+    price: 1000
+    pricePerUnit: "約1円/枚"
+    rakutenUrl: "https://example.com/a"
+  - rank: 2
+    name: "安いmL商品"
+    price: 500
+    pricePerUnit: "約1円/mL"
+    rakutenUrl: "https://example.com/b"
+---`;
+    const result = reorderProductsByPricePerUnit(priceSample);
+    expect(result.changed).toBe(true);
+    expect(result.content).toMatch(/- rank: 1[\s\S]*?name: "安いmL商品"/);
   });
 
   it("商品が1件の場合はスキップ", () => {

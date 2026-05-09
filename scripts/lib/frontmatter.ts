@@ -434,8 +434,21 @@ export function updateUpdatedAt(content: string, date: string): string {
 
 /**
  * フロントマター内の全商品を pricePerUnit の安い順に並び替え、rank を振り直す。
- * 有効な pricePerUnit が2件未満、または単位が混在する場合はスキップ。
+ * 単位が混在する場合は同一単位グループ内で並び替え、グループ単位でランキングする。
  */
+function normalizePricePerUnit(value: number, unit: string): { value: number; unit: string } | null {
+  const normalizedUnit = unit.trim();
+  const lowerUnit = normalizedUnit.toLowerCase();
+  if (!Number.isFinite(value) || value <= 0 || !normalizedUnit) return null;
+
+  if (lowerUnit === 'ml') return { value, unit: 'mL' };
+  if (lowerUnit === 'l') return { value: value / 1000, unit: 'mL' };
+  if (lowerUnit === 'g') return { value, unit: 'g' };
+  if (lowerUnit === 'kg') return { value: value / 1000, unit: 'g' };
+
+  return { value, unit: normalizedUnit };
+}
+
 export function reorderProductsByPricePerUnit(
   content: string
 ): { content: string; changed: boolean; log: string[] } {
@@ -450,10 +463,13 @@ export function reorderProductsByPricePerUnit(
   const blockInfos = products.map((p, origIdx) => {
     const ppu = typeof p.pricePerUnit === 'string' ? p.pricePerUnit.match(ppuRe) : null;
     const ppuValue = ppu ? parseFloat(ppu[1]) : Infinity;
+    const normalized = ppu ? normalizePricePerUnit(ppuValue, ppu[2]) : null;
     return {
       product: p,
-      ppuValue: isNaN(ppuValue) || ppuValue === 0 ? Infinity : ppuValue,
-      unit: ppu?.[2] ?? '',
+      ppuValue: normalized?.value ?? Infinity,
+      unit: normalized?.unit ?? '',
+      price: typeof p.price === 'number' ? p.price : Infinity,
+      reviewCount: typeof p.reviewCount === 'number' ? p.reviewCount : null,
       origIdx,
       name: String(p.name ?? ''),
     };
@@ -462,12 +478,38 @@ export function reorderProductsByPricePerUnit(
   const validBlocks = blockInfos.filter(b => b.ppuValue !== Infinity);
   if (validBlocks.length <= 1) return { content, changed: false, log: [] };
 
-  const units = new Set(validBlocks.map(b => b.unit));
-  if (units.size > 1) {
-    return { content, changed: false, log: [`単位が混在しているため並び替えをスキップ: ${[...units].join(', ')}`] };
+  const groups = new Map<string, typeof validBlocks>();
+  for (const block of validBlocks) {
+    const group = groups.get(block.unit) ?? [];
+    group.push(block);
+    groups.set(block.unit, group);
   }
 
-  const sorted = [...blockInfos].sort((a, b) => a.ppuValue - b.ppuValue);
+  const sortedGroups = [...groups.entries()]
+    .map(([unit, items]) => ({
+      unit,
+      firstOrigIdx: Math.min(...items.map(item => item.origIdx)),
+      items: [...items].sort((a, b) => a.ppuValue - b.ppuValue || a.price - b.price || a.origIdx - b.origIdx),
+    }))
+    .sort((a, b) => {
+      if (b.items.length !== a.items.length) return b.items.length - a.items.length;
+
+      const maxLen = Math.max(a.items.length, b.items.length);
+      for (let i = 0; i < maxLen; i++) {
+        const aReview = a.items[i]?.reviewCount;
+        const bReview = b.items[i]?.reviewCount;
+        if (typeof aReview !== 'number' || typeof bReview !== 'number') continue;
+        if (bReview !== aReview) return bReview - aReview;
+      }
+
+      const aPrice = a.items[0]?.price ?? Infinity;
+      const bPrice = b.items[0]?.price ?? Infinity;
+      if (aPrice !== bPrice) return aPrice - bPrice;
+      return a.firstOrigIdx - b.firstOrigIdx;
+    });
+
+  const invalidBlocks = blockInfos.filter(b => b.ppuValue === Infinity);
+  const sorted = [...sortedGroups.flatMap(group => group.items), ...invalidBlocks];
   const changed = sorted.some((b, i) => b.origIdx !== blockInfos[i].origIdx);
   if (!changed) return { content, changed: false, log: [] };
 
