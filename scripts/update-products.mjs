@@ -489,6 +489,18 @@ function checkAdditionCandidateCategory(candidate, rule) {
   return { ok: true, reason: null };
 }
 
+function getAdditionCandidateDiagnostics(candidate, rule) {
+  const text = candidateText(candidate);
+  return {
+    includeHits: findTermHits(text, rule.include),
+    excludeHits: findTermHits(text, rule.exclude),
+  };
+}
+
+function formatTermHits(label, hits) {
+  return `${label}: ${hits.length > 0 ? hits.slice(0, 5).join(', ') : 'なし'}`;
+}
+
 function scoreAdditionCandidate(candidate, rule) {
   const text = candidateText(candidate);
   const reasons = [];
@@ -529,6 +541,9 @@ function buildExcludedCandidatesSection(excludedCandidates) {
     if (item.capacity) section += ` / 容量: ${item.capacity}`;
     if (item.score !== null) section += ` / スコア: ${item.score}`;
     section += `\n`;
+    if (item.includeHits || item.excludeHits) {
+      section += `  - 判定: ${formatTermHits('カテゴリ語', item.includeHits ?? [])} / ${formatTermHits('除外語', item.excludeHits ?? [])}\n`;
+    }
     section += `  - URL: ${item.url}\n`;
     section += `  - 商品名: ${item.name}\n`;
   }
@@ -672,6 +687,7 @@ async function checkAdditions() {
       const recordExcluded = (reason, candidate, extra = {}) => {
         if (excludedCandidates.length >= 20) return;
         const directUrl = extra.directUrl ?? toDirectItemUrl(candidate.itemUrl) ?? toDirectItemUrl(candidate.affiliateUrl) ?? candidate.itemUrl ?? candidate.affiliateUrl ?? '（URL取得不可）';
+        const diagnostics = getAdditionCandidateDiagnostics(candidate, searchRule);
         excludedCandidates.push({
           reason,
           name: candidate.name,
@@ -679,6 +695,8 @@ async function checkAdditions() {
           capacity: extra.capacity ?? null,
           score: extra.score ?? null,
           sourceKeyword: candidate.sourceKeyword ?? '-',
+          includeHits: diagnostics.includeHits,
+          excludeHits: diagnostics.excludeHits,
         });
       };
 
@@ -776,6 +794,8 @@ async function checkAdditions() {
         section += `- 推定単価: ${s.pricePerUnit ?? '-'}\n`;
         section += `- 評価: ${s.rating ?? '-'}（${(s.reviewCount ?? 0).toLocaleString()}件）\n`;
         section += `- スコア: ${s.score}（検索: ${s.sourceKeyword}${s.scoreReasons.length ? ` / ${s.scoreReasons.join(' / ')}` : ''}）\n`;
+        const diagnostics = getAdditionCandidateDiagnostics(s, searchRule);
+        section += `- 判定: ${formatTermHits('カテゴリ語', diagnostics.includeHits)} / ${formatTermHits('除外語', diagnostics.excludeHits)}\n`;
         section += `\n`;
       }
       section += buildExcludedCandidatesSection(excludedCandidates);
