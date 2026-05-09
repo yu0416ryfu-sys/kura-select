@@ -16,7 +16,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, mergeExistingMeasureWithSalesQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeCapacityFromProductName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeCapacityFromProductName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const VERBOSE = process.argv.includes('--verbose');
@@ -1156,6 +1156,11 @@ async function main() {
               } else {
                 capacityNotes.push(`capacity判定: API抽出の販売数量は既存 capacity に含まれるため維持`);
               }
+            } else if (
+              method === '[Item/Get]' &&
+              isSameMeasureBaseWithExistingQuantity(capacity, extractedCap)
+            ) {
+              capacityNotes.push(`capacity判定: API抽出は既存 capacity の単品容量と一致するため維持`);
             } else if (
               method === '[Item/Get]' &&
               isSalesQuantityCapacity(capacity) &&

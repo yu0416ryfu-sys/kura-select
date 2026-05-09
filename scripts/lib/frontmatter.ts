@@ -208,6 +208,38 @@ export function mergeExistingMeasureWithSalesQuantity(
   return normalizedExisting.replace(re, `${match[1]}${match[2]}${extracted.total}${match[4]}`);
 }
 
+export function isSameMeasureBaseWithExistingQuantity(
+  existingCapacity: string | null | undefined,
+  extractedCapacity: string | null | undefined
+): boolean {
+  if (!existingCapacity || existingCapacity === '-' || !extractedCapacity || extractedCapacity === '-') return false;
+
+  const normalizedExisting = normalizeItemName(existingCapacity);
+  const normalizedExtracted = normalizeItemName(extractedCapacity);
+  const measure = `([\\d,]+)\\s*(${MEASURE_UNITS})`;
+  const extractedRe = new RegExp(`^${measure}\\s*$`, 'i');
+  const existingRe = new RegExp(`^${measure}\\s*[${MULTIPLY_RE_CHAR_CLASS}]\\s*\\d`, 'i');
+  const extractedM = normalizedExtracted.match(extractedRe);
+  const existingM = normalizedExisting.match(existingRe);
+  if (!extractedM || !existingM) return false;
+
+  const extractedTotal = normalizeCapacityTotal({
+    total: parseInt(extractedM[1].replace(/,/g, ''), 10),
+    unit: extractedM[2],
+  });
+  const existingBase = normalizeCapacityTotal({
+    total: parseInt(existingM[1].replace(/,/g, ''), 10),
+    unit: existingM[2],
+  });
+
+  return Boolean(
+    extractedTotal &&
+    existingBase &&
+    extractedTotal.total === existingBase.total &&
+    extractedTotal.unit.toLowerCase() === existingBase.unit.toLowerCase()
+  );
+}
+
 export function isLikelySalesQuantityCapacityMisread(itemName: string, extractedCapacity: string): boolean {
   const normalizedName = normalizeItemName(itemName);
   const normalizedCapacity = normalizeItemName(extractedCapacity);

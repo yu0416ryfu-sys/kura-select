@@ -1,6 +1,6 @@
 ---
 title: "コンタクトレンズ洗浄液 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹底比較。エピカコールド・オプティフリー・コンプリート・メニコンなど人気4選を洗浄力・コスパで解説します。"
+description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹底比較。エピカコールド・オプティフリー・コンプリート・メニコンなど人気15選を洗浄力・コスパで解説します。"
 category: "contact-lens"
 publishedAt: "2026-05-04"
 updatedAt: 2026-05-09
@@ -28,6 +28,248 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qym5n.3rdw62ce.g00qym5n.3rdw72cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhitomi-cl%2Fopfplus_6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhitomi-cl%2Fi%2F10000358%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hitomi-cl/cabinet/care/optifreeplus/opx10_6.jpg?_ex=128x128"
   - rank: 2
+    name: "ロートCキューブ ソフトワン モイストa"
+    brand: "ロート"
+    price: 3290
+    capacity: "500mL×6本"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.84
+    reviewCount: 455
+    features:
+      - "ソフトコンタクトレンズ用の洗浄・保存液"
+      - "モイストタイプを複数本まとめて備えられる"
+      - "500mLボトルで毎日のケアに使いやすい"
+    pros:
+      - "保湿感を意識した洗浄液を選びたい方に向いている"
+      - "ロートCキューブを継続利用しやすい"
+      - "家族利用や予備ストックにも使いやすい"
+    cons:
+      - "大きめボトルのため携帯用には向かない"
+      - "ソフトレンズ専用品のためレンズ種別確認が必要"
+    recommendedFor: "ロートCキューブのモイストタイプをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqgnn.3rdw6d89.g00qqgnn.3rdw7d55/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcontact-clean%2F026%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcontact-clean%2Fi%2F10000343%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/contact-clean/cabinet/01094370/care/sale_moist_6n.jpg?_ex=128x128"
+  - rank: 3
+    name: "ロート Cキューブ ソフトワン モイストα"
+    brand: "ロート"
+    price: 3320
+    capacity: "500mL×6本"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.88
+    reviewCount: 1244
+    features:
+      - "ソフトコンタクトレンズ用の洗浄・すすぎ・消毒・保存液"
+      - "大きめボトルを複数本そろえられるセット構成"
+      - "Cキューブシリーズのモイストタイプ"
+    pros:
+      - "毎日使う洗浄液を切らしにくい"
+      - "保湿感を重視したいソフトレンズユーザーに向いている"
+      - "ロートのケア用品でそろえたい方に選びやすい"
+    cons:
+      - "ボトルサイズが大きめで持ち運びには向かない"
+      - "ハードレンズには使用できない"
+    recommendedFor: "ソフトレンズ用のモイストタイプをまとめて備えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r4lin.3rdw65b0.g00r4lin.3rdw7b10/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeasis%2F4987241150236-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeasis%2Fi%2F10000112%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/measis/cabinet/rakuten/87-rohto/soft1moist/moist_006.jpg?_ex=128x128"
+  - rank: 4
+    name: "レニューフレッシュ 355ml 10本セット"
+    brand: "ボシュロム"
+    price: 3960
+    capacity: "355mL×10本"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.78
+    reviewCount: 2396
+    features:
+      - "ソフトコンタクトレンズ向けの洗浄・すすぎ・消毒・保存に対応"
+      - "レニューフレッシュをまとめて備えられる10本セット"
+      - "ボシュロムの定番マルチパーパスソリューション"
+    pros:
+      - "同じ洗浄液を継続して使いたい方に選びやすい"
+      - "家族で使う場合やストック管理に向いている"
+      - "洗浄から保存まで1本で済ませやすい"
+    cons:
+      - "本数が多いため保管スペースを確保したい"
+      - "ハードコンタクトレンズ用ではない点に注意が必要"
+    recommendedFor: "レニューフレッシュを日常使いしている方・ソフトレンズ用をまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pz3gn.3rdw66dc.g00pz3gn.3rdw75dd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakuracl%2Fckea-renup-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakuracl%2Fi%2F10004462%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakuracl/cabinet/10119032/renu_10.jpg?_ex=128x128"
+  - rank: 5
+    name: "レニューフレッシュ 355ml 12本"
+    brand: "ボシュロム"
+    price: 4490
+    capacity: "355mL×12本"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.81
+    reviewCount: 2891
+    features:
+      - "ソフトコンタクトレンズ用の洗浄・保存液セット"
+      - "ボシュロムのレニューフレッシュを大容量で用意できる"
+      - "ケア用品の買い忘れを防ぎやすいまとめ買い構成"
+    pros:
+      - "普段からレニューを使う方のストックに向いている"
+      - "洗浄から保存まで一連のケアをまとめやすい"
+      - "同一製品でケア方法を統一できる"
+    cons:
+      - "置き場所と使用期限の確認が必要"
+      - "刺激感や装用感の好みは個人差がある"
+    recommendedFor: "ボシュロムの定番MPSを多めに確保したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqgnn.3rdw6d89.g00qqgnn.3rdw7d55/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcontact-clean%2F10000061-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcontact-clean%2Fi%2F10000334%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/contact-clean/cabinet/01094370/care/sale_renu_12n_n.jpg?_ex=128x128"
+  - rank: 6
+    name: "レニューフレッシュ 355ml 12本セット"
+    brand: "ボシュロム"
+    price: 4560
+    capacity: "355mL×12本"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.78
+    reviewCount: 1115
+    features:
+      - "レニューフレッシュの大容量まとめ買いセット"
+      - "洗浄・すすぎ・消毒・保存に使えるソフトレンズ用MPS"
+      - "毎日使うケア用品を長めにストックできる構成"
+    pros:
+      - "買い足し頻度を減らしたい方に便利"
+      - "家族利用や複数人での共有ストックに向いている"
+      - "定番ブランドで継続利用しやすい"
+    cons:
+      - "使用期限と保管場所を事前に確認したい"
+      - "過酸化水素タイプを使いたい方には向かない"
+    recommendedFor: "レニューを継続利用するソフトレンズユーザー・ストック重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pz3gn.3rdw66dc.g00pz3gn.3rdw75dd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakuracl%2Fckea-renup-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakuracl%2Fi%2F10004997%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakuracl/cabinet/10119032/renu_12.jpg?_ex=128x128"
+  - rank: 7
+    name: "レニューフレッシュ 355ml 10本"
+    brand: "ボシュロム"
+    price: 4127
+    capacity: "355mL×10本"
+    pricePerUnit: "約1.2円/mL"
+    rating: 4.77
+    reviewCount: 1453
+    features:
+      - "レニューフレッシュの10本まとめ買いセット"
+      - "ソフトコンタクトレンズ用の洗浄・保存に対応"
+      - "ケース付きで日常ケアに取り入れやすい"
+    pros:
+      - "定番品を切らさず使いたい方に便利"
+      - "まとめ買いで買い物の手間を減らせる"
+      - "同じケア用品を継続しやすい"
+    cons:
+      - "初めて使う場合は少量セットで相性確認も検討したい"
+      - "保管場所と使用期限を確認してから購入したい"
+    recommendedFor: "レニューを使い慣れている方・10本単位で備えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbtqn.3rdw6f47.g00qbtqn.3rdw768d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworldcontact%2Frenump5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworldcontact%2Fi%2F10000314%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/worldcontact/cabinet/00416142/imgrc0079830739.jpg?_ex=128x128"
+  - rank: 8
+    name: "レニューフレッシュ 355ml 4本"
+    brand: "ボシュロム"
+    price: 2260
+    capacity: "355mL×4本"
+    pricePerUnit: "約1.6円/mL"
+    rating: 4.74
+    reviewCount: 1929
+    features:
+      - "レニューフレッシュを試しやすい本数でそろえられるセット"
+      - "ソフトレンズの洗浄・すすぎ・消毒・保存に対応"
+      - "ケース付きで日常ケアを始めやすい構成"
+    pros:
+      - "大量セットの前に使い勝手を確認しやすい"
+      - "一人暮らしでも管理しやすい本数"
+      - "定番MPSを手軽にストックできる"
+    cons:
+      - "大容量セットより買い足し頻度は高くなりやすい"
+      - "過酸化水素タイプとはケア感が異なる"
+    recommendedFor: "レニューを少なめの本数から試したい方・保管場所を抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbtqn.3rdw6f47.g00qbtqn.3rdw768d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworldcontact%2Frenump3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworldcontact%2Fi%2F10000058%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/worldcontact/cabinet/00416142/imgrc0079830743.jpg?_ex=128x128"
+  - rank: 9
+    name: "コンセプト ワンステップ トリプルパック"
+    brand: "ジョンソン・エンド・ジョンソン"
+    price: 4718
+    capacity: "300mL×6本"
+    pricePerUnit: "約2.6円/mL"
+    rating: 4.7
+    reviewCount: 585
+    features:
+      - "コンセプトワンステップのトリプルパック構成"
+      - "ソフトコンタクトレンズ向けの洗浄・保存・消毒ケア"
+      - "複数本をまとめて用意できるセット"
+    pros:
+      - "ワンステップ式を継続したい方に選びやすい"
+      - "自宅用ストックとして本数を確保しやすい"
+      - "MPSとは違うケア方式を試したい方の候補になる"
+    cons:
+      - "専用手順を守らないとトラブルにつながる可能性がある"
+      - "短時間で付け外しを繰り返す用途には向かない"
+    recommendedFor: "コンセプトワンステップをまとめて購入したいソフトレンズユーザー"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rupxn.3rdw625a.g00rupxn.3rdw7ed5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flensget%2Famsoco300t-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flensget%2Fi%2F10000311%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lensget/cabinet/product/sub/am/imgrc0087821164.jpg?_ex=128x128"
+  - rank: 10
+    name: "アイミー ワンオーケア"
+    brand: "アイミー"
+    price: 4000
+    capacity: "120mL×12本"
+    pricePerUnit: "約2.8円/mL"
+    rating: 4.86
+    reviewCount: 5256
+    features:
+      - "ハードコンタクトレンズ向けの洗浄・保存ケア"
+      - "小さめボトルを複数本そろえられるセット"
+      - "毎日のハードレンズケアに使いやすいワンオーケア"
+    pros:
+      - "小分けボトルで開封後の管理がしやすい"
+      - "ハードレンズ用をまとめて備えられる"
+      - "自宅用と予備用を分けて置きやすい"
+    cons:
+      - "ソフトレンズ用MPSとは用途が異なる"
+      - "ボトル本数が多く在庫管理が必要"
+    recommendedFor: "ハードコンタクトレンズのケア用品をまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q9o5n.3rdw6c0d.g00q9o5n.3rdw78c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujicontact%2F923527%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujicontact%2Fi%2F10000274%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fujicontact/cabinet/01403281/01403306/oneallcare12.jpg?_ex=128x128"
+  - rank: 11
+    name: "コンセプトワンステップ"
+    brand: "コンセプト"
+    price: 10186
+    capacity: "300mL×12本"
+    pricePerUnit: "約2.8円/mL"
+    rating: 4.84
+    reviewCount: 1941
+    features:
+      - "ソフトコンタクトレンズ用のワンステップケア用品"
+      - "ケース付きでケア用品をまとめてそろえやすい"
+      - "消毒と保存を手順化しやすいタイプ"
+    pros:
+      - "MPS以外のケア方式を選びたい方に向いている"
+      - "まとめ買いで買い足し頻度を抑えやすい"
+      - "専用ケース付きで届いてから使い始めやすい"
+    cons:
+      - "決められた中和・放置時間を守る必要がある"
+      - "旅行用には別途小分けや携帯用品を検討したい"
+    recommendedFor: "ワンステップ式のケア用品をまとめて用意したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbtqn.3rdw6f47.g00qbtqn.3rdw768d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworldcontact%2F1step-12-218%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworldcontact%2Fi%2F10000336%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/worldcontact/cabinet/00416046/imgrc0082331906.jpg?_ex=128x128"
+  - rank: 12
+    name: "クリアケア 480ml 12本"
+    brand: "アルコン"
+    price: 19960
+    capacity: "480mL×12本"
+    pricePerUnit: "約3.5円/mL"
+    rating: 4.73
+    reviewCount: 2295
+    features:
+      - "過酸化水素タイプのソフトコンタクトレンズ用ケア用品"
+      - "中和用ディスク付きディスポカップが付属する構成"
+      - "こすり洗いが苦手な方にも候補になるクリアケア"
+    pros:
+      - "MPSとは異なるケア方法を選びたい方に向いている"
+      - "中和カップ付きで必要な付属品をそろえやすい"
+      - "大容量ボトルをまとめて備えられる"
+    cons:
+      - "中和前の液を直接目に入れないよう注意が必要"
+      - "専用カップでの中和時間を守る必要がある"
+    recommendedFor: "過酸化水素タイプでしっかりケアしたいソフトレンズユーザー"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqgnn.3rdw6d89.g00qqgnn.3rdw7d55/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcontact-clean%2F10000046-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcontact-clean%2Fi%2F10000329%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/contact-clean/cabinet/01094370/care/clearc_480_12.jpg?_ex=128x128"
+  - rank: 13
     name: "【送料無料】エピカ"
     brand: "ボシュロム（エピカコールド）"
     price: 3040
@@ -49,7 +291,7 @@ products:
     recommendedFor: "確かな洗浄力と定番ブランドを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvxen.3rdw62ee.g00rvxen.3rdw7466/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fatcontact%2Fk_mc_epc3z0_02_h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fatcontact%2Fi%2F10002192%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/atcontact/cabinet/thumb2021/k_mc_epc3z0_02_h.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 14
     name: "【送料無料】 メニコン 抗菌O2ケアミルファ"
     brand: "メニコン"
     price: 7360
@@ -71,6 +313,28 @@ products:
     recommendedFor: "メニコンのコンタクトを使用している方・純正品にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rfvyn.3rdw697a.g00rfvyn.3rdw7b2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flenscare%2Feye-car-08019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flenscare%2Fi%2F10001377%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lenscare/cabinet/contact_care/contact_cart03/eye-car-08019.jpg?_ex=128x128"
+  - rank: 15
+    name: "HOYA シンプルワン"
+    brand: "HOYA"
+    price: 4440
+    capacity: "240mL×3本"
+    pricePerUnit: "約6.2円/mL"
+    rating: 4.79
+    reviewCount: 1155
+    features:
+      - "ハードコンタクトレンズ向けの洗浄・保存ケア用品"
+      - "酵素洗浄とタンパク除去を意識した設計"
+      - "HOYAのハードレンズユーザー向け定番ケア"
+    pros:
+      - "ハードレンズ用を探している方に選びやすい"
+      - "洗浄と保存をまとめて行いやすい"
+      - "タンパク汚れが気になる方の候補になる"
+    cons:
+      - "ソフトコンタクトレンズ用ではない"
+      - "MPSタイプとは使い方が異なるため説明書確認が必要"
+    recommendedFor: "ハードコンタクトレンズを使っている方・HOYA系ケア用品を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q7ojn.3rdw66c2.g00q7ojn.3rdw71eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhochopla%2Fcare0091%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhochopla%2Fi%2F10000914%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hochopla/cabinet/contact_care/contact_cart/rak-car-15023.jpg?_ex=128x128"
 tags:
   - "コンタクト洗浄液 おすすめ"
   - "コンタクト MPS コスパ"

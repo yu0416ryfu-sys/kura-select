@@ -11,6 +11,7 @@ import {
   calcPricePerUnit,
   extractCapacityFromItemName,
   mergeExistingMeasureWithSalesQuantity,
+  isSameMeasureBaseWithExistingQuantity,
   isSalesQuantityCapacity,
   hasMeasureCapacity,
   isLikelySalesQuantityCapacityMisread,
@@ -629,6 +630,13 @@ describe("mergeExistingMeasureWithSalesQuantity", () => {
 });
 
 describe("capacity kind helpers", () => {
+  it("既存capacityの単品容量だけがAPI抽出された場合を判定する", () => {
+    expect(isSameMeasureBaseWithExistingQuantity("355mL×12本", "355ml")).toBe(true);
+    expect(isSameMeasureBaseWithExistingQuantity("500mL×6本", "500mL")).toBe(true);
+    expect(isSameMeasureBaseWithExistingQuantity("355mL×12本", "360ml")).toBe(false);
+    expect(isSameMeasureBaseWithExistingQuantity("355mL", "355ml")).toBe(false);
+  });
+
   it("販売数量のみのcapacityを判定する", () => {
     expect(isSalesQuantityCapacity("10個")).toBe(true);
     expect(isSalesQuantityCapacity("12本")).toBe(true);
