@@ -3,7 +3,7 @@ title: "衣類防虫剤 コスパ最強ランキング【2026年版】1個あた
 description: "クローゼット用衣類防虫剤を1個あたりのコストで徹底比較。ムシューダ・タンスにゴン・ムシコナーズ・アース製薬など人気4選を防虫力・コスパで解説します。"
 category: "moth-repellent"
 publishedAt: "2026-05-04"
-updatedAt: 2026-05-08
+updatedAt: 2026-05-09
 products:
   - rank: 1
     name: "アース製薬 衣類防虫剤 クローゼット 24個入"

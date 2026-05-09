@@ -3,7 +3,7 @@ title: "敏感肌・赤ちゃん向け柔軟剤 おすすめランキング【20
 description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹底比較。さらさ・ランドリンボタニカル・ファーファフリー&など人気4選を低刺激性で解説。"
 category: "fabric-softener"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-08
+updatedAt: 2026-05-09
 products:
   - rank: 1
     name: "ランドリン ボタニカル 柔軟剤 リラックスグリーンティー 詰め替え 大容量 860mL"
@@ -56,7 +56,7 @@ products:
     capacity: "700mL"
     pricePerUnit: "約3.8円/mL"
     rating: 4.42
-    reviewCount: 445
+    reviewCount: 446
     features:
       - "着色料無添加・皮膚科医監修の低刺激処方"
       - "植物由来の柔軟成分で肌にやさしい"

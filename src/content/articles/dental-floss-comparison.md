@@ -3,7 +3,7 @@ title: "デンタルフロス コスパ最強ランキング【2026年版】1本
 description: "デンタルフロス・歯間ブラシを1本あたりのコストで徹底比較。GUM・クリニカ・糸ようじ・オーラルBなど人気4選を使いやすさ・清潔効果・コスパで解説します。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
-updatedAt: 2026-05-08
+updatedAt: 2026-05-09
 products:
   - rank: 1
     name: "GUM デンタルフロス 550m"

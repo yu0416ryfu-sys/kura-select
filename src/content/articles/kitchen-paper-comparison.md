@@ -3,7 +3,7 @@ title: "キッチンペーパー コスパ最強ランキング【2026年版】1
 description: "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気4選を吸水力・強度・コスパで解説します。"
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-08
+updatedAt: 2026-05-09
 products:
   - rank: 1
     name: "業務用 ペーパータオル 中判 200枚×30パック"
@@ -12,7 +12,7 @@ products:
     capacity: "200枚×30パック（6000枚）"
     pricePerUnit: "約1.00円/枚"
     rating: 4.88
-    reviewCount: 720
+    reviewCount: 721
     features:
       - "1枚あたり約0.66円の圧倒的コスパ"
       - "業務用の安定した品質"

@@ -3,12 +3,12 @@ title: "ジェルボール洗剤 コスパ最強ランキング【2026年版】1
 description: "ジェルボール洗剤を1個あたりのコストで徹底比較。アリエール・アタックZERO・ボールドなど人気商品を洗浄力・香り・コスパで解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
-updatedAt: 2026-05-08
+updatedAt: 2026-05-09
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え用 メガジャンボサイズ 332個 (83個×4)"
     brand: "アリエール（P&G）"
-    price: 8700
+    price: 8670
     capacity: "332個（332回分）"
     pricePerUnit: "約26円/個"
     rating: 4.88
