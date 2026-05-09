@@ -1,6 +1,6 @@
 ---
 title: "ボディソープ コスパ最強ランキング【2026年版】保湿・敏感肌で比較"
-description: "ボディソープを1mLあたりのコストで徹底比較。ビオレu・ダヴ・ハダカラ・ミノンなど人気4選を保湿力・洗浄力・コスパで解説します。"
+description: "ボディソープを1mLあたりのコストで徹底比較。ビオレu・ダヴ・ハダカラ・ミノンなど人気8選を保湿力・洗浄力・コスパで解説します。"
 category: "body-soap"
 publishedAt: "2026-04-30"
 updatedAt: 2026-05-09
@@ -93,6 +93,94 @@ products:
     recommendedFor: "敏感肌・アトピー肌の方・赤ちゃんがいる家庭・低刺激にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F68857%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10910706%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/857/68857.jpg?_ex=128x128"
+  - rank: 5
+    name: "ジャムウスキンバランスソープ 1個"
+    brand: "ラヴィナビューティー（ジャムウ）"
+    price: 1400
+    capacity: "1個"
+    pricePerUnit: "1,400円/個"
+    rating: 4.47
+    reviewCount: 6496
+    features:
+      - "デリケートゾーンやVIOにも使いやすい石けん"
+      - "無添加処方で敏感肌にも配慮"
+      - "日本製で保湿ケアにも使える"
+    pros:
+      - "レビュー件数が多く使用感を確認しやすい"
+      - "ニオイや黒ずみケアを意識した処方"
+      - "全身の気になる部位に使いやすい"
+    cons:
+      - "液体ボディソープより泡立てに手間がかかる"
+      - "容量あたりのコスパは比較しにくい"
+    recommendedFor: "デリケートゾーンのケアを重視したい方・固形石けん派の方"
+    rakutenUrl: "https://item.rakuten.co.jp/ravina/10000001/"
+    imageUrl: ""
+  - rank: 6
+    name: "ミョウバン柿渋石鹸 ナチュラルクリアソープ 80g"
+    brand: "AIMERE"
+    price: 880
+    capacity: "80g"
+    pricePerUnit: "約11.0円/g"
+    rating: 4.14
+    reviewCount: 2761
+    features:
+      - "ミョウバンと柿渋を配合した石けん"
+      - "ペパーミントやチャ葉エキスを配合"
+      - "エタノール不使用の枠練りタイプ"
+    pros:
+      - "ニオイ対策を重視したい人に選びやすい"
+      - "880円で試しやすい価格帯"
+      - "足やワキなど部分洗いにも使える"
+    cons:
+      - "保湿重視のボディソープよりさっぱり寄り"
+      - "固形石けんなので保管に水切りが必要"
+    recommendedFor: "汗やニオイが気になる方・さっぱり洗いたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/aimere/b0110001/"
+    imageUrl: ""
+  - rank: 7
+    name: "BOTANIST ボタニカル ボディーソープ サクラとバニラの香り"
+    brand: "BOTANIST"
+    price: 1100
+    capacity: "490mL"
+    pricePerUnit: "約2.24円/mL"
+    rating: 4.43
+    reviewCount: 2070
+    features:
+      - "季節限定のサクラとバニラの香り"
+      - "保湿や乾燥肌ケアを意識したボディウォッシュ"
+      - "低刺激処方で家族でも使いやすい"
+    pros:
+      - "香りを楽しみながら全身を洗える"
+      - "人気ブランドで購入しやすい"
+      - "1本1,100円で日常使いしやすい"
+    cons:
+      - "限定の香りは時期により入手しにくい"
+      - "香りが苦手な方には合わない場合がある"
+    recommendedFor: "香りも重視したい方・乾燥肌向けのボディソープを探す方"
+    rakutenUrl: "https://item.rakuten.co.jp/kobe-beauty-labo/bota-bodysoap-01/"
+    imageUrl: ""
+  - rank: 8
+    name: "ベイビースキンソープ 訳ありミニ石鹸10個セット 130g"
+    brand: "ベイビースキンソープ"
+    price: 1250
+    capacity: "130g（ミニ石鹸10個）"
+    pricePerUnit: "約9.62円/g"
+    rating: 4.53
+    reviewCount: 1485
+    features:
+      - "訳ありミニ石鹸10個セット"
+      - "洗顔やボディケアに使える固形石けん"
+      - "メール便送料無料で試しやすい"
+    pros:
+      - "小分けで旅行や家族での使い分けに便利"
+      - "1,250円で10個入りと試しやすい"
+      - "レビュー件数が多く評価も高い"
+    cons:
+      - "訳あり品のため形や見た目にばらつきがある"
+      - "液体ボディソープより保管の手間がある"
+    recommendedFor: "固形石けんをまとめて試したい方・洗顔とボディケアを兼用したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/ikum-shop/bsp-wakemini-12/"
+    imageUrl: ""
 tags:
   - "ボディソープ"
   - "コスパ"
