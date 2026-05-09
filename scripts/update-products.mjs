@@ -1085,13 +1085,6 @@ async function main() {
                   : newPricePerUnit;
                 console.log(`🔄 容量修正: "${capacity}" → "${normalizedCap}", name → "${updates.newName}"`);
               }
-            } else if (oldComparable && newComparable && method === '[Item/Get]') {
-              updates.newName = buildSearchKeyword(data.name);
-              updates.newCapacity = extractedCap;
-              updates.pricePerUnit = data.price !== null
-                ? calcPricePerUnit(data.price, extractedCap)
-                : newPricePerUnit;
-              console.log(`🔄 容量修正（単位不一致→API値）: "${capacity}" → "${extractedCap}", name → "${updates.newName}"`);
             } else if (!oldTotal && newTotal && method === '[Item/Get]') {
               // 既存 capacity が未認識単位等でパース不能な場合、Item/Get 確定商品なら API 値で置換
               updates.newName = buildSearchKeyword(data.name);
