@@ -1192,7 +1192,6 @@ async function main() {
               const diff = Math.abs(newComparable.total - oldComparable.total) / oldComparable.total;
               const threshold = method === '[Item/Get]' ? 0 : 0.05;
               if (diff > threshold) {
-                updates.newName = buildSearchKeyword(data.name);
                 // 同一単位の表記ゆれ（ml→mL など）のみ既存表記に統一し、kg/g などの実単位は楽天表記を保持
                 const normalizedCap = oldTotal && newTotal && oldTotal.unit.toLowerCase() === newTotal.unit.toLowerCase()
                   ? extractedCap.replace(new RegExp(newTotal.unit, 'g'), oldTotal.unit)

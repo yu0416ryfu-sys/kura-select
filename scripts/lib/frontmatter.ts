@@ -422,6 +422,11 @@ export function extractCapacityFromItemName(itemName: string): string | null {
     const parenFactorRe = /[（(]([^）)]+)[）)]/g;
     let parenMatch: RegExpExecArray | null;
     while ((parenMatch = parenFactorRe.exec(itemName)) !== null) {
+      // 括弧内に実数量がある場合は内訳注釈として扱う。
+      // 例: "200枚(50枚束×4セット)" は総量200枚で、200枚×4セットではない。
+      if (new RegExp(`\\d[\\d,]*\\s*(${CAPACITY_UNITS})`).test(parenMatch[1])) {
+        continue;
+      }
       const packFactors = [...parenMatch[1].matchAll(new RegExp(`(\\d[\\d,]*)\\s*(${PACK_UNITS})`, 'g'))];
       if (packFactors.length >= 1) {
         // 単一因子かつ result 末尾と同一単位で整数倍の場合は合計括弧とみなしてスキップ

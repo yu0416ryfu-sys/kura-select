@@ -553,6 +553,16 @@ describe("extractCapacityFromItemName", () => {
     ).toBe("50m×12ロール×6パック");
   });
 
+  it("括弧内の実数量内訳を外側の総量に掛けない（Pattern 1d 回帰）", () => {
+    const capacity = extractCapacityFromItemName(
+      "【まとめて格安200枚】ドリップバッグフィルター／1杯用 業務用バルク２００枚(５０枚束×４セット）"
+    );
+
+    expect(capacity).toBe("200枚");
+    expect(extractCapacityTotal(capacity ?? "")).toEqual({ total: 200, unit: "枚" });
+    expect(calcPricePerUnit(2530, capacity ?? "")).toBe("約13円/枚");
+  });
+
   it("PACK×PACK チェーン後の合計括弧を乗算因子と誤認しない（Pattern 1d 修正）", () => {
     // "(48ロール)" は "12ロール×4パック" の合計（12×4=48）なので因子としてスキップ
     expect(
