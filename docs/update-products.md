@@ -18,7 +18,7 @@
 node scripts/update-products.mjs --file=toilet-paper-comparison.md
 node scripts/update-products.mjs --check-additions --file=toilet-paper-comparison.md
 
-# 目標商品数を変更（check-additions、デフォルト: 10）
+# 目標商品数を変更（check-additions、デフォルト: 11）
 node scripts/update-products.mjs --check-additions --target=8
 
 # 入れ替え候補の閾値を変更（check-replacements、デフォルト: 2倍）

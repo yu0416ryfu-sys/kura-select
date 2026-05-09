@@ -23,7 +23,7 @@ const CHECK_REPLACEMENTS = process.argv.includes('--check-replacements');
 const CHECK_ADDITIONS = process.argv.includes('--check-additions');
 const FILE_FILTER = process.argv.find(a => a.startsWith('--file='))?.split('=')[1] ?? null;
 const THRESHOLD = parseFloat(process.argv.find(a => a.startsWith('--threshold='))?.split('=')[1] ?? '2');
-const TARGET_COUNT = parseInt(process.argv.find(a => a.startsWith('--target='))?.split('=')[1] ?? '10');
+const TARGET_COUNT = parseInt(process.argv.find(a => a.startsWith('--target='))?.split('=')[1] ?? '11');
 
 // ─── 環境変数を読み込み（.env またはプロセス環境変数） ─────────────────────────
 function loadEnv() {

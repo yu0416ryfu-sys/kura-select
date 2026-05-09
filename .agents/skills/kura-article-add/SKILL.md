@@ -1,0 +1,129 @@
+---
+name: kura-article-add
+description: |
+  KuraSelectの既存比較記事（{slug}-comparison.md）に商品エントリを追加・ランキングを拡張するスキル。
+  既存記事へのランク追加・件数増加・楽天URLを渡して商品を追記したい場合に使う。
+  新規記事をゼロから作る場合は kura-article-create を使う。
+---
+
+# KuraSelect 商品追加スキル
+
+既存の `src/content/articles/{slug}-comparison.md` に商品エントリを追加する。
+
+---
+
+## 入力形式
+
+ユーザーから以下を受け取る:
+- **対象ファイル**: `src/content/articles/{slug}-comparison.md` のパス
+- **追加商品URL**: ランク番号と `item.rakuten.co.jp` URLのペア（1件以上）
+
+---
+
+## Step 1: 既存ファイルの確認
+
+対象ファイルを Read して以下を把握する:
+
+| 確認項目 | 目的 |
+|---------|------|
+| `products[]` の現在の件数・最後の `rank` 番号 | 追加する rank の起点を決める |
+| `title` の文字列 | 「N選」「おすすめN選」等の件数表記があれば更新対象 |
+| `description` の文字列 | 件数に言及していれば更新対象 |
+| `updatedAt` | 今日の日付に更新する |
+
+---
+
+## Step 2: 各URLをWebFetchして商品情報を取得
+
+追加商品URLを順に WebFetch し、各商品について確定する:
+
+| 取得項目 | フィールド |
+|---------|-----------|
+| 正式商品名（楽天ページ上の表記） | `name` |
+| ブランド名 | `brand` |
+| 容量・枚数・個数（セット構成含む） | `capacity` |
+| 商品説明・特徴テキスト | `features` / `pros` / `cons` / `recommendedFor` の生成元 |
+
+> `name` と `capacity` はスクリプトで上書きされない。推測せず必ずWebFetchで確認すること。
+
+---
+
+## Step 3: `name` フィールドの正規化
+
+`update-products.mjs` は `name` をそのまま楽天API検索キーワードとして使う。以下のルールを厳守:
+
+- **メーカー名プレフィックスを除く** → 「花王 マジックリン」→「マジックリン」
+- **`&` と `・`（中点）を含めない**
+- **容量除去後に英字1文字（L/M/S）が末尾に残らないようにする**
+- 全角スペースや記号が含まれている場合は半角に正規化する
+
+---
+
+## Step 4: `products[]` に新エントリを追加
+
+以下テンプレートで既存 `products[]` の末尾に追加する。
+
+**フィールド制約**:
+
+| フィールド | 制約 |
+|-----------|------|
+| `rank` | 既存の最後の rank + 1 から連番 |
+| `price` | `0`（update-products で更新） |
+| `pricePerUnit` | `"0円/単位"` — **単位はカテゴリに合わせる**（例: 個、枚、ml、g、回） |
+| `rating` | `0`（update-products で更新） |
+| `reviewCount` | `0`（update-products で更新） |
+| `rakutenUrl` | 入力の `item.rakuten.co.jp` URL をそのまま使用 |
+| `imageUrl` | `""` （update-products で更新） |
+| `features` | 3件 |
+| `pros` | 3件 |
+| `cons` | 2件 |
+
+**YAMLテンプレート**（インデントは既存エントリに合わせる）:
+
+```yaml
+  - rank: N
+    name: ""
+    brand: ""
+    price: 0
+    capacity: ""
+    pricePerUnit: "0円/単位"
+    rating: 0
+    reviewCount: 0
+    features:
+      - ""
+      - ""
+      - ""
+    pros:
+      - ""
+      - ""
+      - ""
+    cons:
+      - ""
+      - ""
+    recommendedFor: ""
+    rakutenUrl: "https://item.rakuten.co.jp/..."
+    imageUrl: ""
+```
+
+---
+
+## Step 5: `title` / `description` / `updatedAt` の更新
+
+- **title**: 「○選」「おすすめ○選」など件数表記があれば新しい件数に更新（最大60文字）
+- **description**: 件数に言及していれば更新（最大160文字）
+- **updatedAt**: 今日の日付（`YYYY-MM-DD` 形式）に更新
+
+---
+
+## Step 6: 完了後の案内
+
+作業完了後、ユーザーに以下をそのまま伝える:
+
+```
+追加完了。次の手順:
+1. pnpm update-products  （price / rating / rakutenUrl / imageUrl を楽天APIで更新）
+2. grep -r "item.rakuten.co.jp" src/content/articles/{slug}-comparison.md
+   → 残っている場合は name を修正して再実行
+3. pnpm build  （Zodスキーマ検証 + OGP生成）
+4. git add / commit / push
+```
