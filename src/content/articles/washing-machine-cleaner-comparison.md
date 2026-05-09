@@ -28,6 +28,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F309892sm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0079732773.jpg?_ex=128x128"
   - rank: 2
+    name: "洗濯槽カビキラー 塩素系液体タイプ 550g×3個"
+    brand: "ジョンソン（カビキラー）"
+    price: 1767
+    capacity: "550g×3個（3回分）"
+    pricePerUnit: "約1.1円/g"
+    rating: 4.5
+    reviewCount: 200
+    features:
+      - "塩素系で黒カビを99.9%除去"
+      - "つけおき不要で手軽に使える"
+      - "縦型・ドラム式両対応"
+    pros:
+      - "1回あたり約367円でコスパ良好"
+      - "つけおき不要で手間いらず"
+      - "除菌・消臭効果が高い"
+    cons:
+      - "塩素のニオイが強い"
+      - "ステンレス槽以外には使えない場合あり"
+    recommendedFor: "手軽にカビ対策したい方・塩素系の強力洗浄を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uq8kn.3rdw6894.g00uq8kn.3rdw73cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffree-1121%2Ff0196083ki%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffree-1121%2Fi%2F10029960%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/free-1121/cabinet/imagepic/systempic094/f0196083ki1.jpg?_ex=128x128"
+  - rank: 3
     name: "洗たく槽クリーナー エスケー石鹸 500g×2個"
     brand: "エスケー石鹸"
     price: 3780
@@ -49,7 +71,7 @@ products:
     recommendedFor: "赤ちゃんの衣類を洗う方・環境配慮派・汚れを目で確認したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rl91n.3rdw6dd1.g00rl91n.3rdw7bbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiimonotokusen%2Fesuke-03%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiimonotokusen%2Fi%2F10000090%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iimonotokusen/cabinet/06423142/06423152/06667656/imgrc0077767095.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "パナソニック 洗濯槽クリーナー ドラム式専用 N-W2 750mL"
     brand: "パナソニック"
     price: 1627
@@ -71,28 +93,6 @@ products:
     recommendedFor: "ドラム式洗濯機ユーザー・メーカー推奨品を使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4549077290441%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10184735%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/gg/4549077290441.jpg?_ex=128x128"
-  - rank: 4
-    name: "洗濯槽カビキラー 塩素系液体タイプ"
-    brand: "ジョンソン（カビキラー）"
-    price: 1767
-    capacity: "-"
-    pricePerUnit: "-"
-    rating: 4.5
-    reviewCount: 200
-    features:
-      - "塩素系で黒カビを99.9%除去"
-      - "つけおき不要で手軽に使える"
-      - "縦型・ドラム式両対応"
-    pros:
-      - "1回あたり約367円でコスパ良好"
-      - "つけおき不要で手間いらず"
-      - "除菌・消臭効果が高い"
-    cons:
-      - "塩素のニオイが強い"
-      - "ステンレス槽以外には使えない場合あり"
-    recommendedFor: "手軽にカビ対策したい方・塩素系の強力洗浄を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uq8kn.3rdw6894.g00uq8kn.3rdw73cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffree-1121%2Ff0196083ki%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffree-1121%2Fi%2F10029960%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/free-1121/cabinet/imagepic/systempic094/f0196083ki1.jpg?_ex=128x128"
 tags:
   - "洗濯槽クリーナー"
   - "コスパ"

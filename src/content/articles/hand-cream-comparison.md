@@ -6,6 +6,49 @@ publishedAt: "2026-05-04"
 updatedAt: 2026-05-09
 products:
   - rank: 1
+    name: "ニベア ハンドクリーム 75g"
+    brand: "花王（ニベア）"
+    price: 698
+    capacity: "75g"
+    pricePerUnit: "約9.3円/g"
+    rating: 4.63
+    reviewCount: 16
+    features:
+      - "75gの大容量でまとめ買い向けコスパ設計"
+      - "グリセリン配合で手肌をしっとり保湿"
+      - "ニベアブルーの定番ハンドクリーム"
+    pros:
+      - "ベタつきが少なく日中でも使いやすい"
+      - "世界中で愛される定番ブランドの安心感"
+    cons:
+      - "高保湿タイプと比べると乾燥が強い日には物足りない場合がある"
+      - "チューブ末端まで使い切りにくい形状"
+    recommendedFor: "コスパ重視の方・毎日こまめに使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q9fkn.3rdw6d18.g00q9fkn.3rdw7d1e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpupuhima%2Fbea-12947-4901301326324%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpupuhima%2Fi%2F10044017%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pupuhima/cabinet/goq003/24657_1.jpg?_ex=128x128"
+  - rank: 2
+    name: "ユースキンA 180g"
+    brand: "ユースキン製薬"
+    price: 2790
+    capacity: "180g"
+    pricePerUnit: "約16円/g"
+    rating: 5
+    reviewCount: 3
+    features:
+      - "ビタミンB2・ビタミンE・グリチルリチン酸配合の薬用処方"
+      - "ひび・あかぎれ・手荒れに効く第2類医薬品"
+      - "日本製の国産薬用ハンドクリーム"
+    pros:
+      - "医薬品成分配合で荒れた手肌に高い治療効果"
+      - "国産製造で品質管理が徹底されている"
+      - "黄色いチューブの定番で薬局でも入手しやすい"
+    cons:
+      - "独特の香りが気になる方もいる"
+      - "黄色い色素が白い布につく場合がある"
+    recommendedFor: "手荒れ・ひび・あかぎれが気になる方・薬用成分を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00teiqn.3rdw6c4d.g00teiqn.3rdw7ea6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffumichan%2F4987353190618-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffumichan%2Fi%2F10004284%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fumichan/cabinet/07809991/4987353190618-2.jpg?_ex=128x128"
+  - rank: 3
     name: "ヴァセリン インテンシブケア ハンドクリーム 60mL"
     brand: "ユニリーバ（ヴァセリン）"
     price: 380
@@ -27,49 +70,6 @@ products:
     recommendedFor: "乾燥が気になる方・敏感肌の方・バリア機能を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uicnn.3rdw69f9.g00uicnn.3rdw721b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnarushop%2Fvl-8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnarushop%2Fi%2F10000105%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/narushop/cabinet/unilever/vl-7.jpg?_ex=128x128"
-  - rank: 2
-    name: "ニベア ハンドクリーム 75g"
-    brand: "花王（ニベア）"
-    price: 698
-    capacity: "75g"
-    pricePerUnit: "約9.3円/g"
-    rating: 4.63
-    reviewCount: 16
-    features:
-      - "75gの大容量でまとめ買い向けコスパ設計"
-      - "グリセリン配合で手肌をしっとり保湿"
-      - "ニベアブルーの定番ハンドクリーム"
-    pros:
-      - "ベタつきが少なく日中でも使いやすい"
-      - "世界中で愛される定番ブランドの安心感"
-    cons:
-      - "高保湿タイプと比べると乾燥が強い日には物足りない場合がある"
-      - "チューブ末端まで使い切りにくい形状"
-    recommendedFor: "コスパ重視の方・毎日こまめに使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q9fkn.3rdw6d18.g00q9fkn.3rdw7d1e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpupuhima%2Fbea-12947-4901301326324%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpupuhima%2Fi%2F10044017%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pupuhima/cabinet/goq003/24657_1.jpg?_ex=128x128"
-  - rank: 3
-    name: "ユースキンA"
-    brand: "ユースキン製薬"
-    price: 2790
-    capacity: "-"
-    pricePerUnit: "-"
-    rating: 5
-    reviewCount: 3
-    features:
-      - "ビタミンB2・ビタミンE・グリチルリチン酸配合の薬用処方"
-      - "ひび・あかぎれ・手荒れに効く第2類医薬品"
-      - "日本製の国産薬用ハンドクリーム"
-    pros:
-      - "医薬品成分配合で荒れた手肌に高い治療効果"
-      - "国産製造で品質管理が徹底されている"
-      - "黄色いチューブの定番で薬局でも入手しやすい"
-    cons:
-      - "独特の香りが気になる方もいる"
-      - "黄色い色素が白い布につく場合がある"
-    recommendedFor: "手荒れ・ひび・あかぎれが気になる方・薬用成分を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00teiqn.3rdw6c4d.g00teiqn.3rdw7ea6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffumichan%2F4987353190618-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffumichan%2Fi%2F10004284%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fumichan/cabinet/07809991/4987353190618-2.jpg?_ex=128x128"
   - rank: 4
     name: "ケラチナミン コーワ 尿素配合クリーム 30g 120個セット"
     brand: "興和（ケラチナミン）"

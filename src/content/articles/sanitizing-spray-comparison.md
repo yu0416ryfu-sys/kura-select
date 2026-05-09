@@ -50,11 +50,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4902424441727%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10675585%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/727/4902424441727.jpg?_ex=128x128"
   - rank: 3
-    name: "手ピカスプレー 消毒用アルコール"
+    name: "手ピカスプレー 消毒用アルコール 420mL"
     brand: "健栄製薬（手ピカ）"
     price: 4961
-    capacity: "-"
-    pricePerUnit: "-"
+    capacity: "420mL"
+    pricePerUnit: "約12円/mL"
     rating: 5
     reviewCount: 12
     features:

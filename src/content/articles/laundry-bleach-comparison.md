@@ -72,11 +72,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvhdn.3rdw6896.g00rvhdn.3rdw7113/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaily-shop%2F10000211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaily-shop%2Fi%2F10000211%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daily-shop/cabinet/35/4901301509819-tg0.jpg?_ex=128x128"
   - rank: 4
-    name: "ブライトSTRONG 衣類用漂白剤 詰め替え 大容量"
+    name: "ブライトSTRONG 衣類用漂白剤 詰め替え 大容量 900mL"
     brand: "ライオン（ブライト）"
     price: 3680
-    capacity: "-"
-    pricePerUnit: "-"
+    capacity: "900mL（約60回分）"
+    pricePerUnit: "約4.1円/mL"
     rating: 5
     reviewCount: 9
     features:

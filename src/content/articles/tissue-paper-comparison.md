@@ -28,7 +28,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F13337%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10024834%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/020/main-13337re.jpg?_ex=128x128"
   - rank: 2
-    name: "プライベートブランド ティッシュ 200枚（100組）×60箱（100組）×60箱（100組）×60箱（100組）×60箱（100組）×60箱（100組）×60箱(100組)×60箱"
+    name: "プライベートブランド ティッシュ 200枚（100組）×60箱（100組）×60箱（100組）×60箱（100組）×60箱（100組）×60箱(100組)×60箱"
     brand: "業務用無地"
     price: 5760
     capacity: "200枚（100組）×60箱"
@@ -50,7 +50,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s581n.3rdw6f03.g00s581n.3rdw79ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-bomber-shop%2F251641002216000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-bomber-shop%2Fi%2F10124307%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-bomber-shop/cabinet/mastertool70/251641002216000.jpg?_ex=128x128"
   - rank: 3
-    name: "エリエール ティシュー 200枚（100組）×12箱（100組）×12箱（100組）×12箱（100組）×12箱（100組）×12箱（100組）×12箱(100組)×12箱"
+    name: "エリエール ティシュー 200枚（100組）×12箱（100組）×12箱（100組）×12箱（100組）×12箱（100組）×12箱(100組)×12箱"
     brand: "大王製紙（エリエール）"
     price: 5258
     capacity: "200枚（100組）×12箱"
@@ -72,7 +72,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tiz9n.3rdw6353.g00tiz9n.3rdw771a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprotoolshop%2F4902011722734%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprotoolshop%2Fi%2F10006509%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/protoolshop/cabinet/734/4902011722734.jpg?_ex=128x128"
   - rank: 4
-    name: "クリネックス ティシュー 200枚（100組）×12箱（100組）×12箱（100組）×12箱（100組）×12箱（100組）×12箱（100組）×12箱(100組)×12箱"
+    name: "クリネックス ティシュー 200枚（100組）×12箱（100組）×12箱（100組）×12箱（100組）×12箱（100組）×12箱(100組)×12箱"
     brand: "日本製紙クレシア（クリネックス）"
     price: 6146
     capacity: "200枚（100組）×12箱"

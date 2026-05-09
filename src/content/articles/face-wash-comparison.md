@@ -6,6 +6,28 @@ publishedAt: "2026-05-01"
 updatedAt: 2026-05-09
 products:
   - rank: 1
+    name: "センカ パーフェクトホイップ f【専科】"
+    brand: "資生堂（専科）"
+    price: 1597
+    capacity: "120g×3本"
+    pricePerUnit: "約4.4円/g"
+    rating: 4.77
+    reviewCount: 13
+    features:
+      - "天然由来シルクエッセンス配合でしっとり洗い上げ"
+      - "濃密な白まゆ泡がクッションになり肌に優しい"
+      - "うるおい導入技術で洗顔後のつっぱり感を軽減"
+    pros:
+      - "もっちり濃密泡が簡単に作れる"
+      - "洗い上がりがしっとりで乾燥しにくい"
+      - "120gの大容量でコスパ良好"
+    cons:
+      - "脂性肌にはやや洗浄力が物足りない場合も"
+      - "香りの好みが分かれる"
+    recommendedFor: "乾燥肌の方・しっとりした洗い上がりを求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F563477%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11186753%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/477/563477.jpg?_ex=128x128"
+  - rank: 2
     name: "洗顔フォーム 毛穴 ロゼット洗顔パスタ 海泥スムース WEB限定2倍"
     brand: "ロゼット"
     price: 1210
@@ -27,28 +49,6 @@ products:
     recommendedFor: "毛穴汚れが気になる方・コスパ最優先の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u529n.3rdw64b3.g00u529n.3rdw7138/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frosette-shop%2Fpasta_ks240_1ps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frosette-shop%2Fi%2F10000066%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rosette-shop/cabinet/thumbna/pasta_ks240_1ps/imgrc0108556464.jpg?_ex=128x128"
-  - rank: 2
-    name: "【企画品】センカ パーフェクトホイップf BT21デザイン【専科】"
-    brand: "資生堂（専科）"
-    price: 624
-    capacity: "（120g）"
-    pricePerUnit: "約5.2円/g"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "天然由来シルクエッセンス配合でしっとり洗い上げ"
-      - "濃密な白まゆ泡がクッションになり肌に優しい"
-      - "うるおい導入技術で洗顔後のつっぱり感を軽減"
-    pros:
-      - "もっちり濃密泡が簡単に作れる"
-      - "洗い上がりがしっとりで乾燥しにくい"
-      - "120gの大容量でコスパ良好"
-    cons:
-      - "脂性肌にはやや洗浄力が物足りない場合も"
-      - "香りの好みが分かれる"
-    recommendedFor: "乾燥肌の方・しっとりした洗い上がりを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ufaun.3rdw6841.g00ufaun.3rdw78e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24-cosmetics%2F4550516491404%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24-cosmetics%2Fi%2F10040331%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24-cosmetics/cabinet/404/4550516491404.jpg?_ex=128x128"
   - rank: 3
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
     brand: "ユニリーバ（ダヴ）"

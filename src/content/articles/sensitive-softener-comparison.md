@@ -55,8 +55,8 @@ products:
     price: 2664
     capacity: "700mL"
     pricePerUnit: "約3.8円/mL"
-    rating: 4.43
-    reviewCount: 447
+    rating: 4.42
+    reviewCount: 446
     features:
       - "着色料無添加・皮膚科医監修の低刺激処方"
       - "植物由来の柔軟成分で肌にやさしい"
