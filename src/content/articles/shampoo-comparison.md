@@ -6,28 +6,6 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "いち髪 なめらかスムースケア シャンプー 詰め替え 660mL×2個"
-    brand: "クラシエ（いち髪）"
-    price: 1000
-    capacity: "660mL×2個（約6ヶ月分）"
-    pricePerUnit: "約0.76円/mL"
-    rating: 4.75
-    reviewCount: 8
-    features:
-      - "純・和草プレミアムエキス配合で髪のダメージを補修"
-      - "ノンシリコン処方でふんわり軽い仕上がり"
-      - "みずみずしい山桜の香り"
-    pros:
-      - "1mLあたり約0.97円と圧倒的コスパ"
-      - "ドラッグストアで手に入りやすい"
-      - "ノンシリコンでも指通りなめらか"
-    cons:
-      - "ダメージが強い髪にはやや物足りない"
-      - "香りの好みが分かれる"
-    recommendedFor: "コスパ重視の方・普通〜軽いダメージ髪の方・ノンシリコン派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhm1n.3rdw621b.g00uhm1n.3rdw7ede/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep0104%2Fichikami-smth%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep0104%2Fi%2F10000229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep0104/cabinet/10645709/11494580/imgrc0187994441.jpg?_ex=128x128"
-  - rank: 2
     name: "パンテーン シャンプー 詰め替え エクストラダメージケア"
     brand: "P&G（パンテーン）"
     price: 3980
@@ -49,7 +27,7 @@ products:
     recommendedFor: "ダメージヘアの方・まとまりを求める方・カラーやパーマをしている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tynxn.3rdw6ad8.g00tynxn.3rdw7e17/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkzstore%2F2734-000217%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkzstore%2Fi%2F10000068%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kzstore/cabinet/amayahoo/10812595/imgrc0093288667.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "【店長のおすすめ 送料無料】 メリット キッズ 泡で出てくるシャンプー ナチュラ"
     brand: "花王（メリット）"
     price: 1640
@@ -71,7 +49,7 @@ products:
     recommendedFor: "家族で使いたい方・地肌ケア重視の方・シンプルなシャンプーを求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvt5n.3rdw6d57.g00tvt5n.3rdw7e99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeedy-street%2F4901301314543%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeedy-street%2Fi%2F10000736%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/speedy-street/cabinet/biiino/item/main-image-4/20250528154245_1.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "LUX ラックス スーパーリッチシャイン ダメージリペア シャンプー 詰替え用 "
     brand: "ユニリーバ（LUX）"
     price: 2480
@@ -93,6 +71,28 @@ products:
     recommendedFor: "ツヤ髪を目指す方・香りを楽しみたい方・パサつきが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ub9fn.3rdw617e.g00ub9fn.3rdw7fc0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-pal%2Fdamage-repair%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshop-pal%2Fi%2F10000671%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shop-pal/cabinet/compass1759200308.jpg?_ex=128x128"
+  - rank: 4
+    name: "いち髪 なめらかスムースケア シャンプー 詰め替え 660mL×2個"
+    brand: "クラシエ（いち髪）"
+    price: 1000
+    capacity: "-"
+    pricePerUnit: "-"
+    rating: 4.75
+    reviewCount: 8
+    features:
+      - "純・和草プレミアムエキス配合で髪のダメージを補修"
+      - "ノンシリコン処方でふんわり軽い仕上がり"
+      - "みずみずしい山桜の香り"
+    pros:
+      - "1mLあたり約0.97円と圧倒的コスパ"
+      - "ドラッグストアで手に入りやすい"
+      - "ノンシリコンでも指通りなめらか"
+    cons:
+      - "ダメージが強い髪にはやや物足りない"
+      - "香りの好みが分かれる"
+    recommendedFor: "コスパ重視の方・普通〜軽いダメージ髪の方・ノンシリコン派の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhm1n.3rdw621b.g00uhm1n.3rdw7ede/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep0104%2Fichikami-smth%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep0104%2Fi%2F10000229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep0104/cabinet/10645709/11494580/imgrc0187994441.jpg?_ex=128x128"
 tags:
   - "シャンプー"
   - "コスパ"

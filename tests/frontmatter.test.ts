@@ -10,6 +10,7 @@ import {
   calcPricePerUnit,
   extractCapacityFromItemName,
   isLikelySalesQuantityCapacityMisread,
+  removeCapacityFromProductName,
   removeProductFromFrontmatter,
   reorderProductsByPricePerUnit,
   updateUpdatedAt,
@@ -567,6 +568,21 @@ describe("isLikelySalesQuantityCapacityMisread", () => {
     expect(
       isLikelySalesQuantityCapacityMisread("除菌スプレー 3個セット まとめ買い", "3個")
     ).toBe(false);
+  });
+});
+
+describe("removeCapacityFromProductName", () => {
+  it("商品名に埋め込まれた掛け算容量を削除する", () => {
+    expect(
+      removeCapacityFromProductName(
+        "いち髪 なめらかスムースケア シャンプー 詰め替え 660mL×2個",
+        "660mL×2個（約6ヶ月分）"
+      )
+    ).toBe("いち髪 なめらかスムースケア シャンプー 詰め替え");
+  });
+
+  it("商品名に容量がない場合はそのまま返す", () => {
+    expect(removeCapacityFromProductName("シャンプー 詰め替え", "660mL")).toBe("シャンプー 詰め替え");
   });
 });
 

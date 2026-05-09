@@ -16,7 +16,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, isLikelySalesQuantityCapacityMisread, removeCapacityFromProductName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const CHECK_REPLACEMENTS = process.argv.includes('--check-replacements');
@@ -1066,9 +1066,10 @@ async function main() {
             // 単位比較は大文字小文字を無視（"mL" と "ml" を同一視）
             // さらに同系単位（"kg" と "g", "L" と "mL"）も基準単位に揃えて比較する
             if (method === '[Item/Get]' && isLikelySalesQuantityCapacityMisread(data.name, extractedCap)) {
+              updates.newName = removeCapacityFromProductName(name, capacity);
               updates.newCapacity = '-';
               updates.pricePerUnit = '-';
-              console.log(`⚠ 容量抽出が販売数量の可能性: "${extractedCap}" / capacity を "-" に変更`);
+              console.log(`⚠ 容量抽出が販売数量の可能性: "${extractedCap}" / capacity を "-", name → "${updates.newName}"`);
             } else if (oldComparable && newComparable && oldComparable.unit.toLowerCase() === newComparable.unit.toLowerCase()) {
               const diff = Math.abs(newComparable.total - oldComparable.total) / oldComparable.total;
               const threshold = method === '[Item/Get]' ? 0 : 0.05;
@@ -1102,9 +1103,10 @@ async function main() {
             }
           } else if (!extractedCap && method === '[Item/Get]') {
             // 同一商品を確定取得できたのに容量が読めない場合は、不明として明示する。
+            updates.newName = removeCapacityFromProductName(name, capacity);
             updates.newCapacity = '-';
             updates.pricePerUnit = '-';
-            console.log(`⚠ 容量取得不可: capacity / pricePerUnit を "-" に変更`);
+            console.log(`⚠ 容量取得不可: capacity / pricePerUnit を "-", name → "${updates.newName}"`);
           }
         }
 

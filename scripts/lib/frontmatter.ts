@@ -385,6 +385,23 @@ export function extractCapacityFromItemName(itemName: string): string | null {
  * フロントマターから指定商品ブロックを削除し、残りの rank を振り直す。
  * 最後の1商品の場合は削除せず null を返す。
  */
+export function removeCapacityFromProductName(productName: string, capacity?: string | null): string {
+  const embeddedCapacity = extractCapacityFromItemName(productName);
+  const capacityWithoutNote = capacity?.replace(/[（(].*$/, '').trim() ?? null;
+  const candidates = [embeddedCapacity, capacityWithoutNote, capacity]
+    .filter((v): v is string => Boolean(v && v !== '-'));
+
+  for (const candidate of candidates) {
+    const idx = productName.indexOf(candidate);
+    if (idx === -1) continue;
+    return (productName.slice(0, idx) + productName.slice(idx + candidate.length))
+      .replace(/\s{2,}/g, ' ')
+      .trim();
+  }
+
+  return productName;
+}
+
 export function removeProductFromFrontmatter(content: string, productName: string): string | null {
   const parsed = parseFrontmatter(content);
   if (!parsed || !Array.isArray(parsed.data.products)) return null;
