@@ -98,7 +98,7 @@ products:
     brand: "ラヴィナビューティー（ジャムウ）"
     price: 1400
     capacity: "1個"
-    pricePerUnit: "1,400円/個"
+    pricePerUnit: "約1400円/個"
     rating: 4.47
     reviewCount: 6496
     features:
@@ -113,14 +113,14 @@ products:
       - "液体ボディソープより泡立てに手間がかかる"
       - "容量あたりのコスパは比較しにくい"
     recommendedFor: "デリケートゾーンのケアを重視したい方・固形石けん派の方"
-    rakutenUrl: "https://item.rakuten.co.jp/ravina/10000001/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2idn.3rdw6104.g00s2idn.3rdw76c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fravina%2F10000001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fravina%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ravina/cabinet/mada/08647942/imgrc0127301418.jpg?_ex=128x128"
   - rank: 6
     name: "ミョウバン柿渋石鹸 ナチュラルクリアソープ 80g"
     brand: "AIMERE"
     price: 880
     capacity: "80g"
-    pricePerUnit: "約11.0円/g"
+    pricePerUnit: "約11円/g"
     rating: 4.14
     reviewCount: 2761
     features:
@@ -135,14 +135,14 @@ products:
       - "保湿重視のボディソープよりさっぱり寄り"
       - "固形石けんなので保管に水切りが必要"
     recommendedFor: "汗やニオイが気になる方・さっぱり洗いたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/aimere/b0110001/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Fb0110001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10001851%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/smartphone/cosme/myoubankakisibusoap/imgrc0119024289.jpg?_ex=128x128"
   - rank: 7
     name: "BOTANIST ボタニカル ボディーソープ サクラとバニラの香り"
     brand: "BOTANIST"
     price: 1100
     capacity: "490mL"
-    pricePerUnit: "約2.24円/mL"
+    pricePerUnit: "約2.2円/mL"
     rating: 4.43
     reviewCount: 2070
     features:
@@ -157,16 +157,16 @@ products:
       - "限定の香りは時期により入手しにくい"
       - "香りが苦手な方には合わない場合がある"
     recommendedFor: "香りも重視したい方・乾燥肌向けのボディソープを探す方"
-    rakutenUrl: "https://item.rakuten.co.jp/kobe-beauty-labo/bota-bodysoap-01/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r23nn.3rdw64a0.g00r23nn.3rdw7ccf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobe-beauty-labo%2Fbota-bodysoap-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkobe-beauty-labo%2Fi%2F10000263%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/1st_thum/bota-bodysoap-01_d.jpg?_ex=128x128"
   - rank: 8
     name: "ベイビースキンソープ 訳ありミニ石鹸10個セット 130g"
     brand: "ベイビースキンソープ"
-    price: 1250
+    price: 1380
     capacity: "130g（ミニ石鹸10個）"
-    pricePerUnit: "約9.62円/g"
-    rating: 4.53
-    reviewCount: 1485
+    pricePerUnit: "約11円/g"
+    rating: 4.59
+    reviewCount: 668
     features:
       - "訳ありミニ石鹸10個セット"
       - "洗顔やボディケアに使える固形石けん"
@@ -179,8 +179,8 @@ products:
       - "訳あり品のため形や見た目にばらつきがある"
       - "液体ボディソープより保管の手間がある"
     recommendedFor: "固形石けんをまとめて試したい方・洗顔とボディケアを兼用したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/ikum-shop/bsp-wakemini-12/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4cdn.3rdw6a10.g00s4cdn.3rdw730b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikum-shop%2Fbsp80-03%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikum-shop%2Fi%2F10000040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ikum-shop/cabinet/bsp/shohin/imgrc0099795269.jpg?_ex=128x128"
 tags:
   - "ボディソープ"
   - "コスパ"
