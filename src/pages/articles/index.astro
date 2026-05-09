@@ -1,0 +1,88 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Container from "../../components/layout/Container.astro";
+import { getCollection } from "astro:content";
+import { url } from "../../lib/site";
+import type { CollectionEntry } from "astro:content";
+
+type ArticleEntry = CollectionEntry<"articles">;
+
+const categories = await getCollection("categories");
+const categoryNameById = new Map(categories.map((cat) => [cat.id, cat.data.name]));
+
+const getDisplayDate = (article: ArticleEntry) => article.data.updatedAt ?? article.data.publishedAt;
+
+const articles = (await getCollection("articles"))
+  .filter((article) => !article.data.draft)
+  .sort((a, b) => getDisplayDate(b).getTime() - getDisplayDate(a).getTime());
+---
+
+<BaseLayout
+  title="記事一覧 | 暮らセレクト"
+  description="暮らセレクトの比較記事一覧です。日用品・消耗品の記事を新しい順に確認できます。"
+>
+  <Container class="py-10 md:py-14">
+    <header class="mb-10">
+      <nav aria-label="パンくずリスト" class="mb-4">
+        <ol class="flex items-center gap-1.5 text-sm text-[var(--color-text-sub)]">
+          <li><a href={url("/")} class="hover:text-[var(--color-primary)] transition-colors">ホーム</a></li>
+          <li aria-hidden="true" class="text-[var(--color-border)]">/</li>
+          <li class="text-[var(--color-text)] font-medium">記事一覧</li>
+        </ol>
+      </nav>
+
+      <div class="flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
+        <div>
+          <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)]">記事一覧</h1>
+          <p class="text-[var(--color-text-sub)] mt-2">
+            日用品・消耗品の比較記事を新しい順に掲載しています。
+          </p>
+        </div>
+        <a
+          href={url("/search")}
+          class="inline-flex items-center justify-center rounded-lg border border-[var(--color-border)] bg-white px-4 py-2 text-sm font-medium text-[var(--color-text)] transition-colors hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+        >
+          記事・商品を検索
+        </a>
+      </div>
+    </header>
+
+    {articles.length > 0 ? (
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {articles.map((article) => (
+          <a
+            href={url(`/articles/${article.id}`)}
+            class="group bg-white rounded-xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all overflow-hidden focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+          >
+            <div class="p-5">
+              <p class="text-xs text-[var(--color-primary)] font-medium mb-2">
+                {categoryNameById.get(article.data.category.id) ?? article.data.category.id}
+              </p>
+              <h2 class="font-bold text-[var(--color-text)] leading-snug group-hover:text-[var(--color-primary)] transition-colors line-clamp-2">
+                {article.data.title}
+              </h2>
+              <p class="text-sm text-[var(--color-text-sub)] mt-2 line-clamp-3 leading-relaxed">
+                {article.data.description}
+              </p>
+              <div class="flex items-center justify-between gap-3 mt-4">
+                <time
+                  datetime={getDisplayDate(article).toISOString()}
+                  class="text-xs text-[var(--color-text-sub)]"
+                >
+                  更新日: {getDisplayDate(article).toLocaleDateString("ja-JP")}
+                </time>
+                <span class="shrink-0 text-xs text-[var(--color-primary)] font-medium">
+                  {article.data.products.length}商品を比較
+                </span>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-20 text-[var(--color-text-sub)]">
+        <p>記事は準備中です。</p>
+      </div>
+    )}
+  </Container>
+</BaseLayout>

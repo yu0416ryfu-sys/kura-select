@@ -124,7 +124,12 @@ const articles = allArticles
   {articles.length > 0 && (
     <section id="articles" class="py-12 md:py-20 bg-[var(--color-surface)]">
       <Container>
-        <h2 class="text-2xl font-bold text-[var(--color-text)] mb-8">最新の比較記事</h2>
+        <div class="flex items-end justify-between gap-4 mb-8">
+          <h2 class="text-2xl font-bold text-[var(--color-text)]">最新の比較記事</h2>
+          <a href={url("/articles")} class="text-sm font-medium text-[var(--color-primary)] hover:opacity-80">
+            もっと見る
+          </a>
+        </div>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {articles.map((article) => (
             <a
