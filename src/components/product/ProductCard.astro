@@ -20,9 +20,10 @@ interface Product {
 
 interface Props {
   product: Product;
+  id?: string;
 }
 
-const { product } = Astro.props;
+const { product, id } = Astro.props;
 
 const rankColors: Record<number, string> = {
   1: "bg-amber-400 text-white",
@@ -32,7 +33,7 @@ const rankColors: Record<number, string> = {
 const rankColor = rankColors[product.rank] ?? "bg-[var(--color-surface)] text-[var(--color-text-sub)]";
 ---
 
-<article class="bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow border border-[var(--color-border)] overflow-hidden">
+<article id={id} class="scroll-mt-24 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow border border-[var(--color-border)] overflow-hidden">
   <!-- ヘッダー部 -->
   <div class="flex items-start gap-4 p-5 border-b border-[var(--color-border)]">
     <!-- 順位バッジ -->

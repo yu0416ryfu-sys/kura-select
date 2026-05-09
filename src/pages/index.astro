@@ -1,16 +1,31 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Container from "../components/layout/Container.astro";
+import SearchBox from "../components/search/SearchBox.astro";
 import { getCollection } from "astro:content";
 import { SITE, url } from "../lib/site";
+import { popularArticleIds } from "../data/popularArticles";
+import type { CollectionEntry } from "astro:content";
 
 const categories = (await getCollection("categories")).sort(
   (a, b) => a.data.order - b.data.order
 );
 
-const articles = (await getCollection("articles"))
-  .filter((a) => !a.data.draft)
-  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime())
+type ArticleEntry = CollectionEntry<"articles">;
+
+const getDisplayDate = (article: ArticleEntry) => article.data.updatedAt ?? article.data.publishedAt;
+const categoryNameById = new Map(categories.map((cat) => [cat.id, cat.data.name]));
+
+const allArticles = (await getCollection("articles")).filter((a) => !a.data.draft);
+const articleById = new Map(allArticles.map((article) => [article.id, article]));
+
+const popularArticles = popularArticleIds
+  .map((id) => articleById.get(id))
+  .filter((article): article is ArticleEntry => Boolean(article))
+  .slice(0, 6);
+
+const articles = allArticles
+  .sort((a, b) => getDisplayDate(b).getTime() - getDisplayDate(a).getTime())
   .slice(0, 6);
 ---
 
@@ -37,8 +52,50 @@ const articles = (await getCollection("articles"))
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
         </svg>
       </a>
+      <div class="mt-8">
+        <SearchBox />
+      </div>
     </Container>
   </section>
+
+  <!-- 人気記事 -->
+  {popularArticles.length > 0 && (
+    <section class="py-12 md:py-20 bg-[var(--color-surface)]">
+      <Container>
+        <div class="flex items-end justify-between gap-4 mb-8">
+          <h2 class="text-2xl font-bold text-[var(--color-text)]">人気記事</h2>
+          <a href={url("/search")} class="text-sm font-medium text-[var(--color-primary)] hover:opacity-80">
+            記事を探す
+          </a>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {popularArticles.map((article, index) => (
+            <a
+              href={url(`/articles/${article.id}`)}
+              class="group bg-white rounded-xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all overflow-hidden focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+            >
+              <div class="p-5">
+                <div class="flex items-center gap-2 mb-3">
+                  <span class="inline-flex h-7 w-7 items-center justify-center rounded-full bg-[var(--color-primary)] text-xs font-bold text-white">
+                    {index + 1}
+                  </span>
+                  <span class="text-xs text-[var(--color-primary)] font-medium">
+                    {categoryNameById.get(article.data.category.id) ?? article.data.category.id}
+                  </span>
+                </div>
+                <h3 class="font-bold text-[var(--color-text)] leading-snug group-hover:text-[var(--color-primary)] transition-colors line-clamp-2">
+                  {article.data.title}
+                </h3>
+                <p class="text-sm text-[var(--color-text-sub)] mt-2 line-clamp-2 leading-relaxed">
+                  {article.data.description}
+                </p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </Container>
+    </section>
+  )}
 
   <!-- カテゴリグリッド -->
   <section id="categories" class="py-12 md:py-20">
@@ -76,7 +133,7 @@ const articles = (await getCollection("articles"))
             >
               <div class="p-5">
                 <p class="text-xs text-[var(--color-primary)] font-medium mb-2">
-                  {article.data.category.id}
+                  {categoryNameById.get(article.data.category.id) ?? article.data.category.id}
                 </p>
                 <h3 class="font-bold text-[var(--color-text)] leading-snug group-hover:text-[var(--color-primary)] transition-colors line-clamp-2">
                   {article.data.title}
@@ -85,10 +142,10 @@ const articles = (await getCollection("articles"))
                   {article.data.description}
                 </p>
                 <time
-                  datetime={article.data.publishedAt.toISOString()}
+                  datetime={getDisplayDate(article).toISOString()}
                   class="block text-xs text-[var(--color-text-sub)] mt-3"
                 >
-                  {article.data.publishedAt.toLocaleDateString("ja-JP")}
+                  更新日: {getDisplayDate(article).toLocaleDateString("ja-JP")}
                 </time>
               </div>
             </a>

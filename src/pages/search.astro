@@ -1,0 +1,162 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Container from "../components/layout/Container.astro";
+import SearchBox from "../components/search/SearchBox.astro";
+import { getCollection } from "astro:content";
+import { SITE, url } from "../lib/site";
+
+const categories = await getCollection("categories");
+const categoryNameById = new Map(categories.map((cat) => [cat.id, cat.data.name]));
+
+const articles = (await getCollection("articles"))
+  .filter((article) => !article.data.draft)
+  .sort((a, b) => {
+    const dateA = a.data.updatedAt ?? a.data.publishedAt;
+    const dateB = b.data.updatedAt ?? b.data.publishedAt;
+    return dateB.getTime() - dateA.getTime();
+  });
+
+const searchData = {
+  articles: articles.map((article) => {
+    const categoryName = categoryNameById.get(article.data.category.id) ?? article.data.category.id;
+    const displayDate = article.data.updatedAt ?? article.data.publishedAt;
+    return {
+      title: article.data.title,
+      description: article.data.description,
+      categoryName,
+      href: url(`/articles/${article.id}`),
+      updatedAt: displayDate.toISOString(),
+      updatedAtLabel: displayDate.toLocaleDateString("ja-JP"),
+      keywords: [
+        article.data.title,
+        article.data.description,
+        categoryName,
+        ...(article.data.tags ?? []),
+        ...article.data.products.map((product) => product.name),
+        ...article.data.products.map((product) => product.brand),
+      ].join(" "),
+    };
+  }),
+  products: articles.flatMap((article) => {
+    const categoryName = categoryNameById.get(article.data.category.id) ?? article.data.category.id;
+    return article.data.products.map((product) => ({
+      name: product.name,
+      brand: product.brand,
+      price: product.price,
+      capacity: product.capacity,
+      imageUrl: product.imageUrl || "/placeholder/product-default.svg",
+      articleTitle: article.data.title,
+      categoryName,
+      href: url(`/articles/${article.id}#product-${product.rank}`),
+      keywords: [
+        product.name,
+        product.brand,
+        product.capacity,
+        product.pricePerUnit,
+        product.recommendedFor,
+        categoryName,
+        ...product.features,
+      ].filter(Boolean).join(" "),
+    }));
+  }),
+};
+
+const searchDataJson = JSON.stringify(searchData).replace(/</g, "\\u003c");
+---
+
+<BaseLayout
+  title={`検索 - ${SITE.nameJa}`}
+  description="暮らセレクトの記事と掲載商品を検索できます。"
+>
+  <section class="bg-[var(--color-surface)] border-b border-[var(--color-border)]">
+    <Container class="py-10 md:py-14">
+      <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)] mb-5">記事・商品検索</h1>
+      <SearchBox />
+    </Container>
+  </section>
+
+  <Container class="py-10 md:py-14">
+    <p id="search-summary" class="text-sm text-[var(--color-text-sub)] mb-8">
+      探したい日用品名やカテゴリ名を入力してください。
+    </p>
+
+    <section id="article-results-section" class="mb-12 hidden">
+      <h2 class="text-xl font-bold text-[var(--color-text)] mb-5">記事にヒット</h2>
+      <div id="article-results" class="grid grid-cols-1 md:grid-cols-2 gap-5"></div>
+    </section>
+
+    <section id="product-results-section" class="hidden">
+      <h2 class="text-xl font-bold text-[var(--color-text)] mb-5">商品にヒット</h2>
+      <div id="product-results" class="grid grid-cols-1 md:grid-cols-2 gap-5"></div>
+    </section>
+  </Container>
+
+  <script id="search-data" type="application/json" set:html={searchDataJson} />
+  <script>
+    const dataEl = document.getElementById("search-data");
+    const data = JSON.parse(dataEl?.textContent || "{\"articles\":[],\"products\":[]}");
+    const params = new URLSearchParams(window.location.search);
+    const query = (params.get("q") || "").trim();
+    const normalizedQuery = query.toLowerCase();
+    const input = document.getElementById("site-search");
+    const summary = document.getElementById("search-summary");
+    const articleSection = document.getElementById("article-results-section");
+    const productSection = document.getElementById("product-results-section");
+    const articleResultsEl = document.getElementById("article-results");
+    const productResultsEl = document.getElementById("product-results");
+
+    if (input instanceof HTMLInputElement) {
+      input.value = query;
+    }
+
+    const escapeHtml = (value) =>
+      String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+
+    const matchesQuery = (item) => item.keywords.toLowerCase().includes(normalizedQuery);
+    const articleResults = normalizedQuery ? data.articles.filter(matchesQuery) : [];
+    const productResults = normalizedQuery ? data.products.filter(matchesQuery).slice(0, 30) : [];
+
+    if (query && summary) {
+      summary.textContent = `「${query}」の検索結果: 記事 ${articleResults.length}件 / 商品 ${productResults.length}件`;
+    }
+
+    if (query && articleSection && articleResultsEl) {
+      articleSection.classList.remove("hidden");
+      articleResultsEl.innerHTML = articleResults.length
+        ? articleResults.map((article) => `
+          <a href="${escapeHtml(article.href)}" class="group block rounded-xl border border-[var(--color-border)] bg-white p-5 shadow-sm transition-all hover:shadow-md focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2">
+            <p class="text-xs font-medium text-[var(--color-primary)] mb-2">${escapeHtml(article.categoryName)}</p>
+            <h3 class="font-bold text-[var(--color-text)] leading-snug group-hover:text-[var(--color-primary)] transition-colors">${escapeHtml(article.title)}</h3>
+            <p class="text-sm text-[var(--color-text-sub)] mt-2 line-clamp-2 leading-relaxed">${escapeHtml(article.description)}</p>
+            <time datetime="${escapeHtml(article.updatedAt)}" class="block text-xs text-[var(--color-text-sub)] mt-3">更新日: ${escapeHtml(article.updatedAtLabel)}</time>
+          </a>
+        `).join("")
+        : `<p class="text-sm text-[var(--color-text-sub)]">該当する記事はありません。</p>`;
+    }
+
+    if (query && productSection && productResultsEl) {
+      productSection.classList.remove("hidden");
+      productResultsEl.innerHTML = productResults.length
+        ? productResults.map((product) => `
+          <a href="${escapeHtml(product.href)}" class="group flex gap-4 rounded-xl border border-[var(--color-border)] bg-white p-4 shadow-sm transition-all hover:shadow-md focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2">
+            <div class="shrink-0 w-20 h-20 rounded-lg overflow-hidden bg-[var(--color-surface)] border border-[var(--color-border)]">
+              <img src="${escapeHtml(product.imageUrl)}" alt="${escapeHtml(product.name)}の商品画像" width="80" height="80" loading="lazy" class="w-full h-full object-contain" />
+            </div>
+            <div class="min-w-0 flex-1">
+              <p class="text-xs font-medium text-[var(--color-primary)] mb-1">${escapeHtml(product.categoryName)}</p>
+              <h3 class="font-bold text-[var(--color-text)] leading-snug line-clamp-2 group-hover:text-[var(--color-primary)] transition-colors">${escapeHtml(product.name)}</h3>
+              <p class="text-xs text-[var(--color-text-sub)] mt-1">${escapeHtml(product.brand)}</p>
+              <p class="text-sm text-[var(--color-text)] mt-2">¥${Number(product.price).toLocaleString()} / ${escapeHtml(product.capacity)}</p>
+              <p class="text-xs text-[var(--color-text-sub)] mt-2 line-clamp-1">掲載記事: ${escapeHtml(product.articleTitle)}</p>
+            </div>
+          </a>
+        `).join("")
+        : `<p class="text-sm text-[var(--color-text-sub)]">該当する商品はありません。</p>`;
+    }
+  </script>
+</BaseLayout>
