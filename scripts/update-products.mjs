@@ -379,6 +379,13 @@ const CATEGORY_SEARCH_RULES = {
     exclude: ['食器用', 'ボディソープ', '洗顔'],
     units: ['ml', '個'],
   },
+  'cleansing': {
+    keywords: ['クレンジング', 'メイク落とし', 'クレンジングオイル'],
+    include: ['クレンジング', 'メイク落とし', 'メーク落とし', '化粧落とし'],
+    exclude: ['洗顔ネット', '泡立てネット', '泡ネット', '洗顔料', '洗顔石鹸', '洗顔せっけん', '石鹸', '石けん', 'せっけん', '石鹸シャンプー', 'ホホバオイル', 'キャリアオイル', '美容オイル', 'マッサージ', 'ヘアオイル', '乳化ワックス', '乳化剤', '手作りコスメ', '手作り化粧品'],
+    units: ['ml', 'g', '個'],
+    minScore: 5,
+  },
   'dish-detergent': {
     keywords: ['食器用洗剤', '台所用洗剤', 'キッチン洗剤'],
     include: ['食器用', '台所用', 'キッチン', '洗剤'],
@@ -444,6 +451,7 @@ function getAdditionSearchRule(category, baseKeyword) {
     exclude: [...DEFAULT_EXCLUDE_TERMS, ...(rule.exclude ?? [])],
     units: rule.units ?? null,
     minScore: rule.minScore ?? 4,
+    requireInclude: rule.requireInclude ?? true,
   };
 }
 
@@ -458,18 +466,41 @@ function candidateText(candidate) {
   return String(candidate.name ?? '').normalize('NFKC').toLowerCase();
 }
 
+function normalizedTerm(term) {
+  return String(term ?? '').normalize('NFKC').toLowerCase();
+}
+
+function findTermHits(text, terms) {
+  return terms.filter(term => text.includes(normalizedTerm(term)));
+}
+
+function checkAdditionCandidateCategory(candidate, rule) {
+  const text = candidateText(candidate);
+  const includeHits = findTermHits(text, rule.include);
+  const excludeHits = findTermHits(text, rule.exclude);
+
+  if (excludeHits.length > 0) {
+    return { ok: false, reason: `除外語: ${excludeHits.slice(0, 3).join(', ')}` };
+  }
+  if (rule.requireInclude && includeHits.length === 0) {
+    return { ok: false, reason: 'カテゴリ語なし' };
+  }
+
+  return { ok: true, reason: null };
+}
+
 function scoreAdditionCandidate(candidate, rule) {
   const text = candidateText(candidate);
   const reasons = [];
   let score = 0;
 
-  const includeHits = rule.include.filter(term => text.includes(term.normalize('NFKC').toLowerCase()));
+  const includeHits = findTermHits(text, rule.include);
   if (includeHits.length > 0) {
     score += 3 + Math.min(includeHits.length - 1, 2);
     reasons.push(`カテゴリ語: ${includeHits.slice(0, 3).join(', ')}`);
   }
 
-  const excludeHits = rule.exclude.filter(term => text.includes(term.normalize('NFKC').toLowerCase()));
+  const excludeHits = findTermHits(text, rule.exclude);
   if (excludeHits.length > 0) {
     score -= 4 * excludeHits.length;
     reasons.push(`除外語: ${excludeHits.slice(0, 3).join(', ')}`);
@@ -513,17 +544,38 @@ function normalizeProductIdentity(name) {
     .replace(/\d+[,.]?\d*(ml|ｍｌ|g|ｇ|kg|ｋｇ|l|ｌ|個|本|袋|枚|包|錠|ロール|パック|セット)/g, '');
 }
 
+const PRODUCT_IDENTITY_STOP_TERMS = [
+  'クレンジングオイル', 'クレンジングジェル', 'クレンジングバーム', 'クレンジングウォーター', 'クレンジングミルク', 'クレンジングクリーム',
+  'クレンジング', 'メイク落とし', 'メーク落とし', '化粧落とし',
+  'オイル', 'ジェル', 'バーム', 'ウォーター', 'ミルク', 'クリーム',
+  'ボディソープ', 'ボディウォッシュ', 'シャンプー', 'コンディショナー', 'ハンドソープ',
+  '洗剤', 'ティッシュ', 'トイレットペーパー', 'ロール',
+];
+const PRODUCT_IDENTITY_STOP_RE = new RegExp(
+  PRODUCT_IDENTITY_STOP_TERMS
+    .map(term => term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+    .join('|'),
+  'g'
+);
+
+function productDistinctKey(key) {
+  return key.replace(PRODUCT_IDENTITY_STOP_RE, '');
+}
+
 function productNameLooksSame(candidateKey, existingKey) {
   if (!candidateKey || !existingKey) return false;
-  if (candidateKey.includes(existingKey) || existingKey.includes(candidateKey)) return true;
+  const candidateDistinctKey = productDistinctKey(candidateKey);
+  const existingDistinctKey = productDistinctKey(existingKey);
+  if (candidateDistinctKey.length < 4 || existingDistinctKey.length < 4) return false;
+  if (candidateDistinctKey.includes(existingDistinctKey) || existingDistinctKey.includes(candidateDistinctKey)) return true;
 
   const grams = new Set();
-  for (let i = 0; i <= existingKey.length - 4; i++) {
-    grams.add(existingKey.slice(i, i + 4));
+  for (let i = 0; i <= existingDistinctKey.length - 4; i++) {
+    grams.add(existingDistinctKey.slice(i, i + 4));
   }
-  const hits = [...grams].filter(gram => candidateKey.includes(gram));
+  const hits = [...grams].filter(gram => candidateDistinctKey.includes(gram));
   const hitChars = hits.length * 4;
-  return hits.length >= 2 && hitChars / existingKey.length >= 0.4;
+  return hits.length >= 2 && hitChars / existingDistinctKey.length >= 0.4;
 }
 
 function isSameProductDifferentUrl(candidateName, candidateCapacity, existingProducts) {
@@ -657,6 +709,12 @@ async function checkAdditions() {
         if (isSameProductDifferentUrl(c.name, capacity, products)) {
           stats.sameProduct++;
           recordExcluded('URL違い同一商品', c, { directUrl, capacity });
+          continue;
+        }
+        const categoryCheck = checkAdditionCandidateCategory(c, searchRule);
+        if (!categoryCheck.ok) {
+          stats.lowScore++;
+          recordExcluded(`カテゴリ外（${categoryCheck.reason}）`, c, { directUrl, capacity });
           continue;
         }
 
