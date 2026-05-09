@@ -529,6 +529,7 @@ export function reorderProductsByPricePerUnit(
 export interface ProductBasicData {
   rank: number;
   name: string;
+  capacity: string | null;
   reviewCount: number | null;
   rakutenUrl: string;
 }
@@ -544,6 +545,7 @@ export function extractAllProductsData(content: string): ProductBasicData[] {
       return {
         rank: typeof product.rank === 'number' ? product.rank : 0,
         name: typeof product.name === 'string' ? product.name : '',
+        capacity: typeof product.capacity === 'string' ? product.capacity : null,
         reviewCount: typeof product.reviewCount === 'number' ? product.reviewCount : null,
         rakutenUrl: typeof product.rakutenUrl === 'string' ? product.rakutenUrl : '',
       };
@@ -558,6 +560,15 @@ export function extractArticleTitle(content: string): string | null {
   const parsed = parseFrontmatter(content);
   if (!parsed) return null;
   return typeof parsed.data.title === 'string' ? parsed.data.title : null;
+}
+
+/**
+ * フロントマターから記事カテゴリを抽出する（商品追加候補レポート用）
+ */
+export function extractArticleCategory(content: string): string | null {
+  const parsed = parseFrontmatter(content);
+  if (!parsed) return null;
+  return typeof parsed.data.category === 'string' ? parsed.data.category : null;
 }
 
 /**

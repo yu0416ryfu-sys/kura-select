@@ -16,14 +16,14 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const CHECK_REPLACEMENTS = process.argv.includes('--check-replacements');
 const CHECK_ADDITIONS = process.argv.includes('--check-additions');
 const FILE_FILTER = process.argv.find(a => a.startsWith('--file='))?.split('=')[1] ?? null;
 const THRESHOLD = parseFloat(process.argv.find(a => a.startsWith('--threshold='))?.split('=')[1] ?? '2');
-const TARGET_COUNT = parseInt(process.argv.find(a => a.startsWith('--target='))?.split('=')[1] ?? '11');
+const TARGET_COUNT = parseInt(process.argv.find(a => a.startsWith('--target='))?.split('=')[1] ?? '15');
 
 // ─── 環境変数を読み込み（.env またはプロセス環境変数） ─────────────────────────
 function loadEnv() {
@@ -300,13 +300,14 @@ async function isApiHealthy() {
 /**
  * 検索キーワードで楽天APIを叩き、最大 hits 件（上限30）の商品リストを返す
  */
-async function fetchRakutenSearchMany(keyword, hits = 30) {
+async function fetchRakutenSearchMany(keyword, hits = 30, page = 1) {
   const searchKeyword = buildSearchKeyword(keyword);
   const params = new URLSearchParams({
     applicationId: APPLICATION_ID,
     affiliateId: AFFILIATE_ID,
     keyword: searchKeyword,
     hits: String(Math.min(hits, 30)),
+    page: String(page),
     imageFlag: '1',
     sort: '-reviewCount',
     formatVersion: '2',
@@ -353,6 +354,185 @@ async function fetchRakutenSearchMany(keyword, hits = 30) {
     }));
 }
 
+const CATEGORY_SEARCH_RULES = {
+  'body-soap': {
+    keywords: ['ボディソープ', 'ボディウォッシュ', '全身シャンプー'],
+    include: ['ボディソープ', 'ボディーソープ', 'ボディウォッシュ', '全身シャンプー', '全身', '石鹸', '石けん', 'せっけん'],
+    exclude: ['洗顔', '顔ダニ', 'フェイス', 'クレンジング', 'スクラブ', 'シャンプー', 'ハンドソープ', 'ワイプ', 'シート'],
+    units: ['ml', 'g', '個'],
+  },
+  'shampoo': {
+    keywords: ['シャンプー', 'ヘアシャンプー', 'スカルプシャンプー'],
+    include: ['シャンプー', 'スカルプ', 'ヘアケア'],
+    exclude: ['トリートメント', 'コンディショナー', 'ボディソープ', 'ブラシ'],
+    units: ['ml'],
+  },
+  'conditioner': {
+    keywords: ['コンディショナー', 'リンス', 'ヘアコンディショナー'],
+    include: ['コンディショナー', 'リンス', 'トリートメント'],
+    exclude: ['シャンプーのみ', 'ブラシ', 'ヘッドスパ'],
+    units: ['ml', 'g'],
+  },
+  'hand-soap': {
+    keywords: ['ハンドソープ', '泡ハンドソープ', '薬用ハンドソープ'],
+    include: ['ハンドソープ', '手洗い', '泡'],
+    exclude: ['食器用', 'ボディソープ', '洗顔'],
+    units: ['ml', '個'],
+  },
+  'dish-detergent': {
+    keywords: ['食器用洗剤', '台所用洗剤', 'キッチン洗剤'],
+    include: ['食器用', '台所用', 'キッチン', '洗剤'],
+    exclude: ['食洗機', '洗濯', 'ハンドソープ', 'ディスペンサー'],
+    units: ['ml', 'g', '個'],
+  },
+  'laundry-detergent': {
+    keywords: ['洗濯洗剤', '液体洗剤', '衣料用洗剤'],
+    include: ['洗濯', '衣料用', '洗剤'],
+    exclude: ['食器用', '柔軟剤', '漂白剤', '洗濯槽'],
+    units: ['ml', 'g', '個'],
+  },
+  'toilet-paper': {
+    keywords: ['トイレットペーパー', 'トイレットティシュー', 'トイレットロール'],
+    include: ['トイレット', 'ロール'],
+    exclude: ['ホルダー', '収納', 'ケース'],
+    units: ['m', 'ロール'],
+  },
+  'tissue-paper': {
+    keywords: ['ティッシュペーパー', '箱ティッシュ', 'ソフトパックティッシュ'],
+    include: ['ティッシュ', 'ティシュー'],
+    exclude: ['ケース', 'カバー', '保湿クリーム'],
+    units: ['枚', '個', '箱'],
+  },
+  'garbage-bag': {
+    keywords: ['ゴミ袋', 'ごみ袋', 'ポリ袋 45L'],
+    include: ['ゴミ袋', 'ごみ袋', 'ポリ袋'],
+    exclude: ['ゴミ箱', 'ごみ箱', 'ダストボックス', 'スタンド'],
+    units: ['枚'],
+  },
+  'coffee-filter': {
+    keywords: ['コーヒーフィルター', 'ペーパーフィルター', '円すい コーヒーフィルター'],
+    include: ['コーヒーフィルター', 'ペーパーフィルター', 'フィルター'],
+    exclude: ['ドリッパー', 'サーバー', '豆', '粉'],
+    units: ['枚'],
+  },
+  'contact-lens': {
+    keywords: ['コンタクトレンズ洗浄液', 'コンタクト 洗浄液', 'コンタクト 保存液'],
+    include: ['コンタクト', '洗浄液', '保存液'],
+    exclude: ['カラコン', 'レンズ 1day', 'ケースのみ'],
+    units: ['ml'],
+  },
+};
+
+const DEFAULT_EXCLUDE_TERMS = ['ケースのみ', 'ホルダー', 'スタンド', '収納', '詰め替え容器', 'ディスペンサー'];
+
+function uniqueStrings(values) {
+  return [...new Set(values.map(v => String(v ?? '').trim()).filter(Boolean))];
+}
+
+function getAdditionSearchRule(category, baseKeyword) {
+  const rule = CATEGORY_SEARCH_RULES[category] ?? {};
+  const keywords = uniqueStrings([
+    ...(rule.keywords ?? []),
+    baseKeyword,
+    `${baseKeyword} 大容量`,
+    `${baseKeyword} まとめ買い`,
+  ]).slice(0, 3);
+
+  return {
+    keywords,
+    include: rule.include ?? [baseKeyword],
+    exclude: [...DEFAULT_EXCLUDE_TERMS, ...(rule.exclude ?? [])],
+    units: rule.units ?? null,
+    minScore: rule.minScore ?? 4,
+  };
+}
+
+function isAllowedCapacityUnit(capacity, rule) {
+  if (!rule.units) return true;
+  const parsed = extractCapacityTotal(capacity);
+  if (!parsed) return false;
+  return rule.units.some(unit => unit.toLowerCase() === parsed.unit.toLowerCase());
+}
+
+function candidateText(candidate) {
+  return String(candidate.name ?? '').normalize('NFKC').toLowerCase();
+}
+
+function scoreAdditionCandidate(candidate, rule) {
+  const text = candidateText(candidate);
+  const reasons = [];
+  let score = 0;
+
+  const includeHits = rule.include.filter(term => text.includes(term.normalize('NFKC').toLowerCase()));
+  if (includeHits.length > 0) {
+    score += 3 + Math.min(includeHits.length - 1, 2);
+    reasons.push(`カテゴリ語: ${includeHits.slice(0, 3).join(', ')}`);
+  }
+
+  const excludeHits = rule.exclude.filter(term => text.includes(term.normalize('NFKC').toLowerCase()));
+  if (excludeHits.length > 0) {
+    score -= 4 * excludeHits.length;
+    reasons.push(`除外語: ${excludeHits.slice(0, 3).join(', ')}`);
+  }
+
+  if (candidate.price !== null) {
+    score += 1;
+    reasons.push('価格あり');
+  }
+  if ((candidate.reviewCount ?? 0) >= 1000) score += 3;
+  else if ((candidate.reviewCount ?? 0) >= 300) score += 2;
+  else if ((candidate.reviewCount ?? 0) >= 50) score += 1;
+
+  if ((candidate.rating ?? 0) >= 4.5) score += 2;
+  else if ((candidate.rating ?? 0) >= 4.0) score += 1;
+
+  return { score, reasons };
+}
+
+function normalizeProductIdentity(name) {
+  return String(name ?? '')
+    .normalize('NFKC')
+    .toLowerCase()
+    .replace(/[\s　"'“”‘’`´【】\[\]（）()「」『』・･&＆/／\\|｜\-ー―＿_:：,，.。+＋]/g, '')
+    .replace(/(送料無料|公式|正規品|楽天|ランキング|総合1位|期間限定|限定|訳あり|わけあり|大容量|詰め替え|詰替え|セット|まとめ買い|お徳用|お得用|セール|ポイント\d+倍|p\d+倍|off|円|税込|メール便|クーポン)/g, '')
+    .replace(/\d+[,.]?\d*(ml|ｍｌ|g|ｇ|kg|ｋｇ|l|ｌ|個|本|袋|枚|包|錠|ロール|パック|セット)/g, '');
+}
+
+function productNameLooksSame(candidateKey, existingKey) {
+  if (!candidateKey || !existingKey) return false;
+  if (candidateKey.includes(existingKey) || existingKey.includes(candidateKey)) return true;
+
+  const grams = new Set();
+  for (let i = 0; i <= existingKey.length - 4; i++) {
+    grams.add(existingKey.slice(i, i + 4));
+  }
+  const hits = [...grams].filter(gram => candidateKey.includes(gram));
+  const hitChars = hits.length * 4;
+  return hits.length >= 2 && hitChars / existingKey.length >= 0.4;
+}
+
+function isSameProductDifferentUrl(candidateName, candidateCapacity, existingProducts) {
+  const candidateKey = normalizeProductIdentity(candidateName);
+  const candidateTotal = extractCapacityTotal(candidateCapacity);
+  if (!candidateKey) return false;
+
+  return existingProducts.some(product => {
+    const existingKey = normalizeProductIdentity(product.name);
+    if (!existingKey) return false;
+    if (!productNameLooksSame(candidateKey, existingKey)) return false;
+
+    const existingCapacity = product.capacity && product.capacity !== '-'
+      ? product.capacity
+      : extractCapacityFromItemName(product.name);
+    const existingTotal = existingCapacity ? extractCapacityTotal(existingCapacity) : null;
+    if (!candidateTotal || !existingTotal) return true;
+    if (existingTotal.unit.toLowerCase() === candidateTotal.unit.toLowerCase() && existingTotal.total === candidateTotal.total) return true;
+
+    // 候補名・既存名が十分近い場合は、容量抽出の揺れ（例: 10個 vs 130g）より商品名を優先する。
+    return true;
+  });
+}
+
 // ─── 商品追加候補レポート ─────────────────────────────────────────────────────
 async function checkAdditions() {
   const articlesDir = resolve(process.cwd(), 'src/content/articles');
@@ -364,6 +544,7 @@ async function checkAdditions() {
   console.log(`📊 商品追加候補チェック（目標: ${TARGET_COUNT}商品/記事）\n`);
 
   const sections = [];
+  const urlSections = [];
   const noCandidateSections = [];
   const errorSections = [];
   let reachedTarget = 0;
@@ -374,6 +555,7 @@ async function checkAdditions() {
     const content = readFileSync(filePath, 'utf-8');
     const products = extractAllProductsData(content);
     const title = extractArticleTitle(content);
+    const category = extractArticleCategory(content) ?? file.replace(/-comparison\.md$/, '');
 
     if (products.length >= TARGET_COUNT) {
       reachedTarget++;
@@ -383,8 +565,9 @@ async function checkAdditions() {
 
     needsAdditions++;
     const needed = TARGET_COUNT - products.length;
-    const searchKeyword = buildArticleSearchKeyword(title ?? products[0]?.name ?? file);
-    console.log(`\n📄 ${file}: ${products.length}商品 → あと${needed}件必要（検索: "${searchKeyword}"）`);
+    const baseKeyword = buildArticleSearchKeyword(title ?? products[0]?.name ?? file);
+    const searchRule = getAdditionSearchRule(category, baseKeyword);
+    console.log(`\n📄 ${file}: ${products.length}商品 → あと${needed}件必要（検索: "${searchRule.keywords.join('", "')}"）`);
 
     // 既存商品のURLセット（重複除外用）
     const existingUrls = new Set(
@@ -392,13 +575,28 @@ async function checkAdditions() {
     );
 
     try {
-      const candidates = await fetchRakutenSearchMany(searchKeyword, 30);
+      const candidates = [];
+      const seenCandidateUrls = new Set();
+      for (const keyword of searchRule.keywords) {
+        const fetched = await fetchRakutenSearchMany(keyword, 30);
+        for (const item of fetched) {
+          const url = toDirectItemUrl(item.itemUrl) ?? toDirectItemUrl(item.affiliateUrl);
+          const dedupeKey = url ?? normalizeProductIdentity(item.name);
+          if (!dedupeKey || seenCandidateUrls.has(dedupeKey)) continue;
+          seenCandidateUrls.add(dedupeKey);
+          candidates.push({ ...item, sourceKeyword: keyword });
+        }
+        await new Promise(r => setTimeout(r, 500));
+      }
 
       const stats = {
         fetched: candidates.length,
         duplicate: 0,
+        sameProduct: 0,
         noUrl: 0,
         noCapacity: 0,
+        badCapacityUnit: 0,
+        lowScore: 0,
       };
 
       // 既存商品・URL不明・容量不明を除外したうえで、必要件数まで補完する
@@ -419,11 +617,29 @@ async function checkAdditions() {
           stats.noCapacity++;
           continue;
         }
+        if (!isAllowedCapacityUnit(capacity, searchRule)) {
+          stats.badCapacityUnit++;
+          continue;
+        }
+        if (isSameProductDifferentUrl(c.name, capacity, products)) {
+          stats.sameProduct++;
+          continue;
+        }
 
         const pricePerUnit = c.price !== null ? calcPricePerUnit(c.price, capacity) : null;
-        validCandidates.push({ ...c, directUrl, capacity, pricePerUnit });
+        const scored = scoreAdditionCandidate(c, searchRule);
+        if (scored.score < searchRule.minScore) {
+          stats.lowScore++;
+          continue;
+        }
+        validCandidates.push({ ...c, directUrl, capacity, pricePerUnit, score: scored.score, scoreReasons: scored.reasons });
       }
 
+      validCandidates.sort((a, b) =>
+        b.score - a.score ||
+        (b.reviewCount ?? 0) - (a.reviewCount ?? 0) ||
+        (b.rating ?? 0) - (a.rating ?? 0)
+      );
       const suggestions = validCandidates.slice(0, needed);
 
       if (suggestions.length === 0) {
@@ -431,11 +647,14 @@ async function checkAdditions() {
         noCandidateSections.push(
           `## ${file}\n\n` +
           `現在: ${products.length}商品 / あと${needed}件必要\n\n` +
-          `検索キーワード: \`${searchKeyword}\`\n\n` +
+          `検索キーワード: ${searchRule.keywords.map(k => `\`${k}\``).join(' / ')}\n\n` +
           `- 取得候補: ${stats.fetched}件\n` +
           `- 既存URL重複で除外: ${stats.duplicate}件\n` +
+          `- URL違い同一商品で除外: ${stats.sameProduct}件\n` +
           `- URL取得不可で除外: ${stats.noUrl}件\n` +
           `- 容量抽出不可で除外: ${stats.noCapacity}件\n` +
+          `- 比較対象外の容量単位で除外: ${stats.badCapacityUnit}件\n` +
+          `- スコア不足で除外: ${stats.lowScore}件\n` +
           `- 有効候補: ${validCandidates.length}件\n`
         );
         continue;
@@ -444,11 +663,14 @@ async function checkAdditions() {
       console.log(`   → ${suggestions.length}件の候補を取得（容量不明除外: ${stats.noCapacity}件）`);
 
       let section = `## ${file}（現在: ${products.length}商品 → あと${needed}件必要）\n\n`;
-      section += `検索キーワード: \`${searchKeyword}\`\n\n`;
+      section += `検索キーワード: ${searchRule.keywords.map(k => `\`${k}\``).join(' / ')}\n\n`;
       section += `- 取得候補: ${stats.fetched}件\n`;
       section += `- 既存URL重複で除外: ${stats.duplicate}件\n`;
+      section += `- URL違い同一商品で除外: ${stats.sameProduct}件\n`;
       section += `- URL取得不可で除外: ${stats.noUrl}件\n`;
       section += `- 容量抽出不可で除外: ${stats.noCapacity}件\n`;
+      section += `- 比較対象外の容量単位で除外: ${stats.badCapacityUnit}件\n`;
+      section += `- スコア不足で除外: ${stats.lowScore}件\n`;
       section += `- 有効候補: ${validCandidates.length}件\n\n`;
 
       for (let i = 0; i < suggestions.length; i++) {
@@ -459,15 +681,22 @@ async function checkAdditions() {
         section += `- 抽出容量: ${s.capacity}\n`;
         section += `- 推定単価: ${s.pricePerUnit ?? '-'}\n`;
         section += `- 評価: ${s.rating ?? '-'}（${(s.reviewCount ?? 0).toLocaleString()}件）\n`;
+        section += `- スコア: ${s.score}（検索: ${s.sourceKeyword}${s.scoreReasons.length ? ` / ${s.scoreReasons.join(' / ')}` : ''}）\n`;
         section += `\n`;
       }
       sections.push(section);
+
+      let urlSection = `## src/content/articles/${file}（現在: ${products.length}商品 → あと${needed}件必要）\n`;
+      for (const s of suggestions) {
+        urlSection += `- ${s.directUrl} — ${s.name}\n`;
+      }
+      urlSections.push(urlSection);
     } catch (e) {
       console.log(`❌ ${e.message}`);
       errorSections.push(
         `## ${file}\n\n` +
         `現在: ${products.length}商品 / あと${needed}件必要\n\n` +
-        `検索キーワード: \`${searchKeyword}\`\n\n` +
+        `検索キーワード: ${searchRule.keywords.map(k => `\`${k}\``).join(' / ')}\n\n` +
         `- エラー: ${e.message}\n`
       );
     }
@@ -480,6 +709,7 @@ async function checkAdditions() {
   if (!existsSync(reportsDir)) mkdirSync(reportsDir, { recursive: true });
 
   const outPath = join(reportsDir, `addition-candidates-${today}.md`);
+  const urlsOutPath = join(reportsDir, `addition-urls-${today}.md`);
   const summary = sections.length > 0
     ? `追加候補あり記事: ${sections.length} 件`
     : needsAdditions === 0
@@ -510,7 +740,22 @@ async function checkAdditions() {
   ].filter(Boolean);
 
   writeFileSync(outPath, header + reportSections.join('\n\n---\n\n'), 'utf-8');
+  const urlHeader = [
+    `# 商品追加用URLリスト`,
+    ``,
+    `生成日: ${today}`,
+    `目標商品数: ${TARGET_COUNT}商品/記事`,
+    ``,
+    urlSections.length === 0
+      ? '> 追加候補URLはありません。'
+      : `追加候補あり記事: ${urlSections.length} 件`,
+    ``,
+    `---`,
+    ``,
+  ].join('\n');
+  writeFileSync(urlsOutPath, urlHeader + urlSections.join('\n\n'), 'utf-8');
   console.log(`\n✅ レポート出力: ${outPath}`);
+  console.log(`✅ 商品追加用URLリスト出力: ${urlsOutPath}`);
   console.log(`   追加候補あり記事: ${sections.length} 件`);
   console.log(`   候補なし: ${noCandidateSections.length} 件 / 取得失敗: ${errorSections.length} 件`);
 }
