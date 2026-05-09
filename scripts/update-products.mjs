@@ -364,6 +364,10 @@ async function checkAdditions() {
   console.log(`📊 商品追加候補チェック（目標: ${TARGET_COUNT}商品/記事）\n`);
 
   const sections = [];
+  const noCandidateSections = [];
+  const errorSections = [];
+  let reachedTarget = 0;
+  let needsAdditions = 0;
 
   for (const file of files) {
     const filePath = join(articlesDir, file);
@@ -372,10 +376,12 @@ async function checkAdditions() {
     const title = extractArticleTitle(content);
 
     if (products.length >= TARGET_COUNT) {
+      reachedTarget++;
       console.log(`✅ ${file}: ${products.length}商品（スキップ）`);
       continue;
     }
 
+    needsAdditions++;
     const needed = TARGET_COUNT - products.length;
     const searchKeyword = buildArticleSearchKeyword(title ?? products[0]?.name ?? file);
     console.log(`\n📄 ${file}: ${products.length}商品 → あと${needed}件必要（検索: "${searchKeyword}"）`);
@@ -388,36 +394,82 @@ async function checkAdditions() {
     try {
       const candidates = await fetchRakutenSearchMany(searchKeyword, 30);
 
-      // 既存商品を除外
-      const newCandidates = candidates.filter(c => {
-        const url = toDirectItemUrl(c.itemUrl);
-        return !url || !existingUrls.has(url);
-      });
+      const stats = {
+        fetched: candidates.length,
+        duplicate: 0,
+        noUrl: 0,
+        noCapacity: 0,
+      };
 
-      const suggestions = newCandidates.slice(0, needed);
+      // 既存商品・URL不明・容量不明を除外したうえで、必要件数まで補完する
+      const validCandidates = [];
+      for (const c of candidates) {
+        const directUrl = toDirectItemUrl(c.itemUrl) ?? toDirectItemUrl(c.affiliateUrl);
+        if (!directUrl) {
+          stats.noUrl++;
+          continue;
+        }
+        if (existingUrls.has(directUrl)) {
+          stats.duplicate++;
+          continue;
+        }
+
+        const capacity = extractCapacityFromItemName(c.name);
+        if (!capacity) {
+          stats.noCapacity++;
+          continue;
+        }
+
+        const pricePerUnit = c.price !== null ? calcPricePerUnit(c.price, capacity) : null;
+        validCandidates.push({ ...c, directUrl, capacity, pricePerUnit });
+      }
+
+      const suggestions = validCandidates.slice(0, needed);
 
       if (suggestions.length === 0) {
-        console.log(`   ⚠ 新規候補が見つかりませんでした`);
+        console.log(`   ⚠ 有効な新規候補が見つかりませんでした（容量不明除外: ${stats.noCapacity}件）`);
+        noCandidateSections.push(
+          `## ${file}\n\n` +
+          `現在: ${products.length}商品 / あと${needed}件必要\n\n` +
+          `検索キーワード: \`${searchKeyword}\`\n\n` +
+          `- 取得候補: ${stats.fetched}件\n` +
+          `- 既存URL重複で除外: ${stats.duplicate}件\n` +
+          `- URL取得不可で除外: ${stats.noUrl}件\n` +
+          `- 容量抽出不可で除外: ${stats.noCapacity}件\n` +
+          `- 有効候補: ${validCandidates.length}件\n`
+        );
         continue;
       }
 
-      console.log(`   → ${suggestions.length}件の候補を取得`);
+      console.log(`   → ${suggestions.length}件の候補を取得（容量不明除外: ${stats.noCapacity}件）`);
 
       let section = `## ${file}（現在: ${products.length}商品 → あと${needed}件必要）\n\n`;
       section += `検索キーワード: \`${searchKeyword}\`\n\n`;
+      section += `- 取得候補: ${stats.fetched}件\n`;
+      section += `- 既存URL重複で除外: ${stats.duplicate}件\n`;
+      section += `- URL取得不可で除外: ${stats.noUrl}件\n`;
+      section += `- 容量抽出不可で除外: ${stats.noCapacity}件\n`;
+      section += `- 有効候補: ${validCandidates.length}件\n\n`;
 
       for (let i = 0; i < suggestions.length; i++) {
         const s = suggestions[i];
-        const directUrl = toDirectItemUrl(s.itemUrl) ?? s.itemUrl ?? '（URL取得不可）';
         section += `### 候補${i + 1}: ${s.name}\n`;
-        section += `- URL: ${directUrl}\n`;
+        section += `- URL: ${s.directUrl}\n`;
         section += `- 価格: ¥${s.price?.toLocaleString() ?? '不明'}\n`;
+        section += `- 抽出容量: ${s.capacity}\n`;
+        section += `- 推定単価: ${s.pricePerUnit ?? '-'}\n`;
         section += `- 評価: ${s.rating ?? '-'}（${(s.reviewCount ?? 0).toLocaleString()}件）\n`;
         section += `\n`;
       }
       sections.push(section);
     } catch (e) {
       console.log(`❌ ${e.message}`);
+      errorSections.push(
+        `## ${file}\n\n` +
+        `現在: ${products.length}商品 / あと${needed}件必要\n\n` +
+        `検索キーワード: \`${searchKeyword}\`\n\n` +
+        `- エラー: ${e.message}\n`
+      );
     }
 
     await new Promise(r => setTimeout(r, 2000));
@@ -428,23 +480,39 @@ async function checkAdditions() {
   if (!existsSync(reportsDir)) mkdirSync(reportsDir, { recursive: true });
 
   const outPath = join(reportsDir, `addition-candidates-${today}.md`);
+  const summary = sections.length > 0
+    ? `追加候補あり記事: ${sections.length} 件`
+    : needsAdditions === 0
+      ? '> すべての記事が目標商品数に達しています。'
+      : '> 目標未達の記事はありますが、有効な追加候補は見つかりませんでした。';
   const header = [
     `# 商品追加候補レポート`,
     ``,
     `生成日: ${today}`,
     `目標商品数: ${TARGET_COUNT}商品/記事`,
+    `対象記事: ${files.length}件`,
+    `目標達成済み: ${reachedTarget}件`,
+    `目標未達: ${needsAdditions}件`,
+    `追加候補あり: ${sections.length}件`,
+    `候補なし: ${noCandidateSections.length}件`,
+    `取得失敗: ${errorSections.length}件`,
     ``,
-    sections.length === 0
-      ? '> すべての記事が目標商品数に達しています。'
-      : `追加候補あり記事: ${sections.length} 件`,
+    summary,
     ``,
     `---`,
     ``,
   ].join('\n');
 
-  writeFileSync(outPath, header + sections.join('\n---\n\n'), 'utf-8');
+  const reportSections = [
+    sections.length > 0 ? `# 追加候補あり\n\n${sections.join('\n---\n\n')}` : '',
+    noCandidateSections.length > 0 ? `# 候補なし\n\n${noCandidateSections.join('\n---\n\n')}` : '',
+    errorSections.length > 0 ? `# 取得失敗\n\n${errorSections.join('\n---\n\n')}` : '',
+  ].filter(Boolean);
+
+  writeFileSync(outPath, header + reportSections.join('\n\n---\n\n'), 'utf-8');
   console.log(`\n✅ レポート出力: ${outPath}`);
   console.log(`   追加候補あり記事: ${sections.length} 件`);
+  console.log(`   候補なし: ${noCandidateSections.length} 件 / 取得失敗: ${errorSections.length} 件`);
 }
 
 // ─── 入れ替え候補レポート ───────────────────────────────────────────────────
