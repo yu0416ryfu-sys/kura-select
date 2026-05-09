@@ -10,6 +10,7 @@ import {
   normalizeCapacityTotal,
   calcPricePerUnit,
   extractCapacityFromItemName,
+  isMultiMeasureVariantItemName,
   mergeExistingMeasureWithSalesQuantity,
   isSameMeasureBaseWithExistingQuantity,
   isSalesQuantityCapacity,
@@ -601,6 +602,25 @@ describe("extractCapacityFromItemName", () => {
 
   it("CAPACITY_UNITSが存在する場合はPattern 4より優先する（回帰確認）", () => {
     expect(extractCapacityFromItemName("シャンプー 500mL 3パック")).toBe("500mL×3パック");
+  });
+});
+
+describe("isMultiMeasureVariantItemName", () => {
+  it("複数の重量バリエーションが並ぶ商品名を検知する", () => {
+    expect(
+      isMultiMeasureVariantItemName(
+        "令和7年 佐渡産 コシヒカリ 朱鷺認証米 特別栽培米 2kg 5kg 10kg 15kg 20kg 25kg"
+      )
+    ).toBe(true);
+  });
+
+  it("単一容量の商品名は検知しない", () => {
+    expect(isMultiMeasureVariantItemName("令和7年 佐渡産コシヒカリ 5kg")).toBe(false);
+  });
+
+  it("実容量と販売数量の掛け算は複数容量扱いにしない", () => {
+    expect(isMultiMeasureVariantItemName("無洗米 コシヒカリ 5kg×2袋")).toBe(false);
+    expect(isMultiMeasureVariantItemName("シャンプー 500mL×3本")).toBe(false);
   });
 });
 

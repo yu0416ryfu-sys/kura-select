@@ -16,7 +16,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeCapacityFromProductName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeCapacityFromProductName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const VERBOSE = process.argv.includes('--verbose');
@@ -57,6 +57,17 @@ function buildAfterSnapshot(before, updates) {
     capacity: updates.newCapacity ?? before?.capacity ?? null,
     pricePerUnit: updates.pricePerUnit != null ? updates.pricePerUnit : before?.pricePerUnit ?? null,
   };
+}
+
+function isSameComparableCapacity(a, b) {
+  const aTotal = normalizeCapacityTotal(extractCapacityTotal(a ?? ''));
+  const bTotal = normalizeCapacityTotal(extractCapacityTotal(b ?? ''));
+  return Boolean(
+    aTotal &&
+    bTotal &&
+    aTotal.total === bTotal.total &&
+    aTotal.unit.toLowerCase() === bTotal.unit.toLowerCase()
+  );
 }
 
 function buildProductLogLines({ before, after, data, extractedCap, oldComparable, apiComparable, capacityNotes }) {
@@ -1120,12 +1131,25 @@ async function main() {
 
         // ── Step 3: pricePerUnit 再計算・更新（既存ロジック） ─────────
         const capacity = extractProductCapacity(updatedContent, name);
-        const newPricePerUnit = (capacity && data.price !== null)
+        const embeddedProductCapacity = extractCapacityFromItemName(name);
+        const isManualCapacityApiConflict = Boolean(
+          method === '[Item/Get]' &&
+          capacity &&
+          embeddedProductCapacity &&
+          extractedCap &&
+          isSameComparableCapacity(capacity, embeddedProductCapacity) &&
+          !isSameComparableCapacity(capacity, extractedCap)
+        );
+        const shouldFreezePriceCapacity = Boolean(
+          (data.name && isMultiMeasureVariantItemName(data.name)) ||
+          isManualCapacityApiConflict
+        );
+        const newPricePerUnit = (!shouldFreezePriceCapacity && capacity && data.price !== null)
           ? calcPricePerUnit(data.price, capacity)
           : null;
 
         const updates = {
-          price: data.price,
+          price: shouldFreezePriceCapacity ? null : data.price,
           rating: data.rating,
           reviewCount: data.reviewCount,
           affiliateUrl: data.affiliateUrl,
@@ -1136,7 +1160,9 @@ async function main() {
         // 機能3: 容量差異の自動修正
         // Item/Get は同一商品確定のため差異があれば即更新、Search は誤ヒット防止のため5%超のみ更新
         if (data.name) {
-          if (capacity && extractedCap) {
+          if (shouldFreezePriceCapacity) {
+            capacityNotes.push(`capacity判定: 複数容量バリエーションのため要確認。price/capacity/pricePerUnitは自動更新しない`);
+          } else if (capacity && extractedCap) {
             const oldTotal = extractCapacityTotal(capacity);
             const newTotal = extractCapacityTotal(extractedCap);
             const oldComparable = normalizeCapacityTotal(oldTotal);

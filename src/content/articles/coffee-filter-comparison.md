@@ -7,28 +7,6 @@ updatedAt: 2026-05-10
 draft: false
 products:
   - rank: 1
-    name: "ドリップバッグフィルター 1杯用 200枚"
-    brand: "国内メーカー品"
-    price: 2530
-    capacity: "200枚"
-    pricePerUnit: "約13円/枚"
-    rating: 4.76
-    reviewCount: 82
-    features:
-      - "ドリップ用のコーヒーフィルター"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "自宅や職場での抽出に使いやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "使用する器具との相性を確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "自宅や職場での抽出に使いやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po9en.3rdw6f1a.g00po9en.3rdw7de4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhyperlink%2Fdbfilter10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhyperlink%2Fi%2F10000098%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hyperlink/cabinet/image/coffee/dripbag_r1000px200.jpg?_ex=128x128"
-  - rank: 2
     name: "ハリオ V60 ペーパーフィルター みさらし 100枚"
     brand: "ハリオ"
     price: 438
@@ -50,7 +28,7 @@ products:
     recommendedFor: "ハリオV60ドリッパーをお使いの方・スペシャルティコーヒーを楽しみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl5fn.3rdw6571.g00pl5fn.3rdw7e5a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1355-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001877%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/1300/1355-02-item01.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "【カリタ】コーヒーフィルターみさらし101濾紙1〜2人用/"
     brand: "カリタ"
     price: 209
@@ -72,6 +50,28 @@ products:
     recommendedFor: "カリタのドリッパーを使っている方・コーヒーの味にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ppmon.3rdw6f65.g00ppmon.3rdw7779/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiroshimacoffee%2F426221%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiroshimacoffee%2Fi%2F10000898%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiroshimacoffee/cabinet/ikou_20100212/img10062543083.jpg?_ex=128x128"
+  - rank: 3
+    name: "ドリップバッグフィルター 1杯用 200枚"
+    brand: "国内メーカー品"
+    price: 2530
+    capacity: "200枚"
+    pricePerUnit: "約13円/枚"
+    rating: 4.76
+    reviewCount: 82
+    features:
+      - "ドリップ用のコーヒーフィルター"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "自宅や職場での抽出に使いやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "使用する器具との相性を確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "自宅や職場での抽出に使いやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po9en.3rdw6f1a.g00po9en.3rdw7de4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhyperlink%2Fdbfilter10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhyperlink%2Fi%2F10000098%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hyperlink/cabinet/image/coffee/dripbag_r1000px200.jpg?_ex=128x128"
   - rank: 4
     name: "キーコーヒー コーヒーフィルター 無漂白 100枚"
     brand: "キーコーヒー"

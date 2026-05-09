@@ -357,6 +357,30 @@ export function calcPricePerUnit(price: number, capacity: string): string | null
 }
 
 /**
+ * 楽天の容量選択式商品名かどうかを判定する。
+ * 例: "2kg 5kg 10kg" は価格が最小容量側を指すことがあるため自動単価更新を避ける。
+ */
+export function isMultiMeasureVariantItemName(itemName: string): boolean {
+  const normalized = normalizeItemName(itemName);
+  const matches = [...normalized.matchAll(new RegExp(`(\\d[\\d,]*)\\s*(${MEASURE_UNITS})`, 'gi'))];
+  const totalsByUnit = new Map<string, Set<number>>();
+
+  for (const match of matches) {
+    const parsed = normalizeCapacityTotal({
+      total: parseInt(match[1].replace(/,/g, ''), 10),
+      unit: match[2],
+    });
+    if (!parsed) continue;
+    const unitKey = parsed.unit.toLowerCase();
+    const totals = totalsByUnit.get(unitKey) ?? new Set<number>();
+    totals.add(parsed.total);
+    totalsByUnit.set(unitKey, totals);
+  }
+
+  return [...totalsByUnit.values()].some(totals => totals.size >= 2);
+}
+
+/**
  * 楽天商品名から容量文字列を抽出する（extractCapacityTotal で解析可能な形式で返す）
  * 例: "スコッティ 200枚×5箱"      → "200枚×5箱"
  * 例: "ネピア 60枚（2,880枚）"    → "（2,880枚）"
