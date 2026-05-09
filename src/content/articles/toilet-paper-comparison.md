@@ -6,28 +6,6 @@ publishedAt: "2024-11-01"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "ネピア おしりセレブ ダブル"
-    brand: "王子ネピア（ネピア）"
-    price: 598
-    capacity: "40m×4ロール×20セット（1ケース）"
-    pricePerUnit: "約0.19円/m"
-    rating: 4.82
-    reviewCount: 157
-    features:
-      - "トリートメント配合で肌に優しい"
-      - "長めシート設計で少量でも十分"
-      - "丈夫で破れにくい構造"
-    pros:
-      - "敏感肌でも使いやすい柔らかな肌触り"
-      - "伸びが良く破れにくいと評判"
-      - "ケース購入でコスパが向上"
-    cons:
-      - "通常トイレットペーパーより高価格帯"
-      - "ケース単位（80ロール）での購入が必要"
-    recommendedFor: "肌の敏感な方・シャワートイレ使用者・品質最優先の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quq9n.3rdw60c1.g00quq9n.3rdw73f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-hachidai%2F888779%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-hachidai%2Fi%2F10539450%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-hachidai/cabinet/1/gazou4/imgrc0095878725.jpg?_ex=128x128"
-  - rank: 2
     name: "【最安値に挑戦中！】 トイレットペーパー シングル 業務用 ワンタッチ"
     brand: "コアレックス（CORELEX）"
     price: 4980
@@ -49,7 +27,7 @@ products:
     recommendedFor: "交換の手間を最小化したい方・環境意識が高い方・大容量まとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ttjtn.3rdw6711.g00ttjtn.3rdw7380/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcorelex%2Fgyoumuonetouchcoreress150ms6r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcorelex%2Fi%2F10000051%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/corelex/cabinet/toilet/10585247/gyoum1tchcoress150-1.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "大王製紙　エリエール　i：naトイレットティシュー　シングル　芯あり"
     brand: "大王製紙（エリエール）"
     price: 1193
@@ -71,29 +49,7 @@ products:
     recommendedFor: "柔らかさと長持ちを両立したい方・ファミリー世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F369-3195%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10102400%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin300_05/369-3195.jpg?_ex=128x128"
-  - rank: 4
-    name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
-    brand: "日本製紙クレシア（スコッティ）"
-    price: 4799
-    capacity: "100m×12ロール×4パック"
-    pricePerUnit: "約1.00円/m"
-    rating: 4.66
-    reviewCount: 389
-    features:
-      - "2倍巻き長尺シングル・花の香り付き"
-      - "48ロールの大容量まとめ買いパック"
-      - "省スペース設計で収納しやすい"
-    pros:
-      - "1mあたりコストが最安値クラス"
-      - "まとめ買いで長期間保管できる"
-      - "スコッティブランドで品質安定"
-    cons:
-      - "保管スペースが必要"
-      - "個人宅には多すぎる場合も"
-    recommendedFor: "大家族・まとめ買い派の方・コスト最優先の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fxh277%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10020157%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/008/main-xh277.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 3
     name: "スコッティ フラワーパック 3倍長持ち ダブル"
     brand: "日本製紙クレシア（スコッティ）"
     price: 5850
@@ -115,7 +71,7 @@ products:
     recommendedFor: "交換頻度を減らしたい方・まとめ買い派・コスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7165192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077532%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7165192.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 4
     name: "ハロー トイレットペーパー ダブル 2倍巻き"
     brand: "ハロー"
     price: 6210
@@ -137,7 +93,29 @@ products:
     recommendedFor: "品質と環境配慮を両立したい方・業務用にも使えるまとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4580287284745%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11346354%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/745/4580287284745.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 5
+    name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 4799
+    capacity: "50m×12ロール×4パック"
+    pricePerUnit: "約2.0円/m"
+    rating: 4.69
+    reviewCount: 208
+    features:
+      - "2倍巻き長尺シングル・花の香り付き"
+      - "48ロールの大容量まとめ買いパック"
+      - "省スペース設計で収納しやすい"
+    pros:
+      - "1mあたりコストが最安値クラス"
+      - "まとめ買いで長期間保管できる"
+      - "スコッティブランドで品質安定"
+    cons:
+      - "保管スペースが必要"
+      - "個人宅には多すぎる場合も"
+    recommendedFor: "大家族・まとめ買い派の方・コスト最優先の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fxh278%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10020158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/008/main-xh278.jpg?_ex=128x128"
+  - rank: 6
     name: "エリエール トイレットティシュー たっぷり長持ち ダブル 12ロール×6個セット"
     brand: "大王製紙（エリエール）"
     price: 6383
@@ -159,6 +137,28 @@ products:
     recommendedFor: "肌触りを重視する方・ファミリー向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F14495%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10678469%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/495/14495.jpg?_ex=128x128"
+  - rank: 7
+    name: "ネピア おしりセレブ ダブル"
+    brand: "王子ネピア（ネピア）"
+    price: 598
+    capacity: "40m×4ロール"
+    pricePerUnit: "約3.7円/m"
+    rating: 4.82
+    reviewCount: 157
+    features:
+      - "トリートメント配合で肌に優しい"
+      - "長めシート設計で少量でも十分"
+      - "丈夫で破れにくい構造"
+    pros:
+      - "敏感肌でも使いやすい柔らかな肌触り"
+      - "伸びが良く破れにくいと評判"
+      - "ケース購入でコスパが向上"
+    cons:
+      - "通常トイレットペーパーより高価格帯"
+      - "ケース単位（80ロール）での購入が必要"
+    recommendedFor: "肌の敏感な方・シャワートイレ使用者・品質最優先の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quq9n.3rdw60c1.g00quq9n.3rdw73f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-hachidai%2F888779%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-hachidai%2Fi%2F10539450%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-hachidai/cabinet/1/gazou4/imgrc0095878725.jpg?_ex=128x128"
   - rank: 8
     name: "【1点限り！令和お試し価格】丸富製紙 ミッフィー トイレットペーパー ダブル 1"
     brand: "無地・無印刷（エコ仕様）"
