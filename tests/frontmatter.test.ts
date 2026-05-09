@@ -3,6 +3,7 @@ import {
   extractProductNames,
   buildSearchKeyword,
   updateProductInFrontmatter,
+  extractProductSnapshot,
   extractProductCapacity,
   extractProductRakutenUrl,
   extractCapacityTotal,
@@ -246,6 +247,41 @@ describe("updateProductInFrontmatter", () => {
 });
 
 // ─── extractProductCapacity ───────────────────────────────────────────────
+describe("extractProductSnapshot", () => {
+  it("returns log fields for a product", () => {
+    const content = `---
+title: "Sample"
+products:
+  - name: "Alpha"
+    price: 1200
+    rating: 4.5
+    reviewCount: 30
+    rakutenUrl: "https://example.com/a"
+    imageUrl: "https://example.com/a.jpg"
+    capacity: "500mL"
+    pricePerUnit: "2.4/mL"
+---
+
+body
+`;
+
+    expect(extractProductSnapshot(content, "Alpha")).toEqual({
+      name: "Alpha",
+      price: 1200,
+      rating: 4.5,
+      reviewCount: 30,
+      rakutenUrl: "https://example.com/a",
+      imageUrl: "https://example.com/a.jpg",
+      capacity: "500mL",
+      pricePerUnit: "2.4/mL",
+    });
+  });
+
+  it("returns null for a missing product", () => {
+    expect(extractProductSnapshot(SAMPLE_FRONTMATTER, "Missing")).toBeNull();
+  });
+});
+
 describe("extractProductCapacity", () => {
   it("商品名から capacity を取得する", () => {
     expect(extractProductCapacity(SAMPLE_FRONTMATTER, "商品A 超特大 1200mL×2袋")).toBe("1200mL×2袋");

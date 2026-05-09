@@ -16,14 +16,73 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, isLikelySalesQuantityCapacityMisread, removeCapacityFromProductName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, isLikelySalesQuantityCapacityMisread, removeCapacityFromProductName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
+const VERBOSE = process.argv.includes('--verbose');
 const CHECK_REPLACEMENTS = process.argv.includes('--check-replacements');
 const CHECK_ADDITIONS = process.argv.includes('--check-additions');
 const FILE_FILTER = process.argv.find(a => a.startsWith('--file='))?.split('=')[1] ?? null;
 const THRESHOLD = parseFloat(process.argv.find(a => a.startsWith('--threshold='))?.split('=')[1] ?? '2');
 const TARGET_COUNT = parseInt(process.argv.find(a => a.startsWith('--target='))?.split('=')[1] ?? '15');
+
+function formatLogValue(value, type = 'text') {
+  if (value === null || value === undefined || value === '') return '-';
+  if (type === 'price' && typeof value === 'number') return `¥${value.toLocaleString()}`;
+  if (type === 'count' && typeof value === 'number') return `${value.toLocaleString()}件`;
+  return `"${String(value)}"`;
+}
+
+function formatCapacityTotal(total) {
+  if (!total) return '-';
+  return `${total.total.toLocaleString()}${total.unit}`;
+}
+
+function pushChangeLine(lines, label, before, after, type = 'text') {
+  const normalizedBefore = before ?? null;
+  const normalizedAfter = after ?? null;
+  if (normalizedBefore === normalizedAfter) return false;
+  lines.push(`${label}: ${formatLogValue(before, type)} -> ${formatLogValue(after, type)}`);
+  return true;
+}
+
+function buildAfterSnapshot(before, updates) {
+  return {
+    name: updates.newName ?? before?.name ?? '',
+    price: updates.price !== null ? updates.price : before?.price ?? null,
+    rating: updates.rating !== null ? updates.rating : before?.rating ?? null,
+    reviewCount: updates.reviewCount !== null ? updates.reviewCount : before?.reviewCount ?? null,
+    rakutenUrl: updates.affiliateUrl || (before?.rakutenUrl ?? null),
+    imageUrl: updates.imageUrl || (before?.imageUrl ?? null),
+    capacity: updates.newCapacity ?? before?.capacity ?? null,
+    pricePerUnit: updates.pricePerUnit != null ? updates.pricePerUnit : before?.pricePerUnit ?? null,
+  };
+}
+
+function buildProductLogLines({ before, after, data, extractedCap, oldComparable, apiComparable, capacityNotes }) {
+  const lines = [];
+  lines.push(`capacity(API抽出): ${formatLogValue(extractedCap)} -> ${formatCapacityTotal(apiComparable)}`);
+  pushChangeLine(lines, 'name', before?.name, after.name);
+  pushChangeLine(lines, 'price', before?.price, after.price, 'price');
+  pushChangeLine(lines, 'rating', before?.rating, after.rating);
+  pushChangeLine(lines, 'reviewCount', before?.reviewCount, after.reviewCount, 'count');
+  pushChangeLine(lines, 'capacity', before?.capacity, after.capacity);
+  pushChangeLine(lines, 'pricePerUnit', before?.pricePerUnit, after.pricePerUnit);
+  if (VERBOSE) {
+    lines.push(`楽天商品名: ${formatLogValue(data.name)}`);
+    lines.push(`capacity(既存比較値): ${formatCapacityTotal(oldComparable)}`);
+    lines.push(`capacity(API比較値): ${formatCapacityTotal(apiComparable)}`);
+    lines.push(`rakutenUrl(既存): ${formatLogValue(before?.rakutenUrl)}`);
+    lines.push(`rakutenUrl(API): ${formatLogValue(data.affiliateUrl)}`);
+    lines.push(`imageUrl(既存): ${formatLogValue(before?.imageUrl)}`);
+    lines.push(`imageUrl(API): ${formatLogValue(data.imageUrl)}`);
+  } else {
+    if ((before?.rakutenUrl ?? null) !== (after.rakutenUrl ?? null)) lines.push('rakutenUrl: 変更あり');
+    if ((before?.imageUrl ?? null) !== (after.imageUrl ?? null)) lines.push('imageUrl: 変更あり');
+  }
+  capacityNotes.forEach(note => lines.push(note));
+  return lines;
+}
 
 // ─── 環境変数を読み込み（.env またはプロセス環境変数） ─────────────────────────
 function loadEnv() {
@@ -993,6 +1052,11 @@ async function main() {
 
   let totalSuccess = 0;
   let totalFail = 0;
+  let totalChanged = 0;
+  let totalUnchanged = 0;
+  let totalCapacityChanged = 0;
+  let totalCapacityMissing = 0;
+  let totalDeleted = 0;
   let consecutiveZeroResults = 0; // 連続0件カウンター（API障害検知用）
 
   for (const file of files) {
@@ -1009,6 +1073,14 @@ async function main() {
 
     let updatedContent = content;
     const results = [];
+    const fileStats = {
+      changed: 0,
+      unchanged: 0,
+      capacityChanged: 0,
+      capacityMissing: 0,
+      deleted: 0,
+      failed: 0,
+    };
 
     for (const name of productNames) {
       const shortName = name.slice(0, 45);
@@ -1037,7 +1109,14 @@ async function main() {
           data = await fetchRakutenSearch(name);
         }
 
-        process.stdout.write(`${method} `);
+        process.stdout.write(`${method}\n`);
+        const beforeSnapshot = extractProductSnapshot(updatedContent, name);
+        const capacityNotes = [];
+        const extractedCap = data.name ? extractCapacityFromItemName(data.name) : null;
+        const oldCapacityTotalForLog = extractCapacityTotal(extractProductCapacity(updatedContent, name) ?? '');
+        const oldComparableForLog = normalizeCapacityTotal(oldCapacityTotalForLog);
+        const apiTotal = extractedCap ? extractCapacityTotal(extractedCap) : null;
+        const apiComparable = normalizeCapacityTotal(apiTotal);
 
         // ── Step 3: pricePerUnit 再計算・更新（既存ロジック） ─────────
         const capacity = extractProductCapacity(updatedContent, name);
@@ -1057,7 +1136,6 @@ async function main() {
         // 機能3: 容量差異の自動修正
         // Item/Get は同一商品確定のため差異があれば即更新、Search は誤ヒット防止のため5%超のみ更新
         if (data.name) {
-          const extractedCap = extractCapacityFromItemName(data.name);
           if (capacity && extractedCap) {
             const oldTotal = extractCapacityTotal(capacity);
             const newTotal = extractCapacityTotal(extractedCap);
@@ -1069,7 +1147,7 @@ async function main() {
               updates.newName = removeCapacityFromProductName(name, capacity);
               updates.newCapacity = '-';
               updates.pricePerUnit = '-';
-              console.log(`⚠ 容量抽出が販売数量の可能性: "${extractedCap}" / capacity を "-", name → "${updates.newName}"`);
+              capacityNotes.push(`capacity判定: 販売数量の可能性があるため capacity を "-" に変更`);
             } else if (oldComparable && newComparable && oldComparable.unit.toLowerCase() === newComparable.unit.toLowerCase()) {
               const diff = Math.abs(newComparable.total - oldComparable.total) / oldComparable.total;
               const threshold = method === '[Item/Get]' ? 0 : 0.05;
@@ -1083,7 +1161,7 @@ async function main() {
                 updates.pricePerUnit = data.price !== null
                   ? calcPricePerUnit(data.price, normalizedCap)
                   : newPricePerUnit;
-                console.log(`🔄 容量修正: "${capacity}" → "${normalizedCap}", name → "${updates.newName}"`);
+                capacityNotes.push(`capacity判定: 差異検出により capacity を更新`);
               }
             } else if (!oldTotal && newTotal && method === '[Item/Get]') {
               // 既存 capacity が未認識単位等でパース不能な場合、Item/Get 確定商品なら API 値で置換
@@ -1092,21 +1170,55 @@ async function main() {
               updates.pricePerUnit = data.price !== null
                 ? calcPricePerUnit(data.price, extractedCap)
                 : newPricePerUnit;
-              console.log(`🔄 容量修正（解析不能→置換）: "${capacity}" → "${extractedCap}", name → "${updates.newName}"`);
+              capacityNotes.push(`capacity判定: 既存値を解析できないため API 抽出値に置換`);
             }
           } else if (!extractedCap && method === '[Item/Get]') {
-            // 同一商品を確定取得できたのに容量が読めない場合は、不明として明示する。
-            updates.newName = removeCapacityFromProductName(name, capacity);
-            updates.newCapacity = '-';
-            updates.pricePerUnit = '-';
-            console.log(`⚠ 容量取得不可: capacity / pricePerUnit を "-", name → "${updates.newName}"`);
+            capacityNotes.push(`capacity判定: API商品名から容量取得不可のため既存 capacity を維持`);
           }
         }
 
+        const afterSnapshot = buildAfterSnapshot(beforeSnapshot, updates);
+        const changed = [
+          ['name', beforeSnapshot?.name, afterSnapshot.name],
+          ['price', beforeSnapshot?.price, afterSnapshot.price],
+          ['rating', beforeSnapshot?.rating, afterSnapshot.rating],
+          ['reviewCount', beforeSnapshot?.reviewCount, afterSnapshot.reviewCount],
+          ['rakutenUrl', beforeSnapshot?.rakutenUrl, afterSnapshot.rakutenUrl],
+          ['imageUrl', beforeSnapshot?.imageUrl, afterSnapshot.imageUrl],
+          ['capacity', beforeSnapshot?.capacity, afterSnapshot.capacity],
+          ['pricePerUnit', beforeSnapshot?.pricePerUnit, afterSnapshot.pricePerUnit],
+        ].some(([, beforeValue, afterValue]) => (beforeValue ?? null) !== (afterValue ?? null));
+        const capacityChanged = (beforeSnapshot?.capacity ?? null) !== (afterSnapshot.capacity ?? null);
+        const capacityMissing = !extractedCap && method === '[Item/Get]';
+
         updatedContent = updateProductInFrontmatter(updatedContent, name, updates);
         results.push({ success: true, name: data.name.slice(0, 40), price: data.price, rating: data.rating, reviewCount: data.reviewCount });
-        const ppuSuffix = updates.pricePerUnit ? ` → ${updates.pricePerUnit}` : '';
-        console.log(`✅ ¥${data.price?.toLocaleString()} 評価${data.rating}(${data.reviewCount?.toLocaleString()}件)${ppuSuffix}`);
+        const logLines = buildProductLogLines({
+          before: beforeSnapshot,
+          after: afterSnapshot,
+          data,
+          extractedCap,
+          oldComparable: oldComparableForLog,
+          apiComparable,
+          capacityNotes,
+        });
+        logLines.forEach(line => console.log(`      ${line}`));
+        if (!changed) console.log('      変更なし');
+        if (changed) {
+          fileStats.changed++;
+          totalChanged++;
+        } else {
+          fileStats.unchanged++;
+          totalUnchanged++;
+        }
+        if (capacityChanged) {
+          fileStats.capacityChanged++;
+          totalCapacityChanged++;
+        }
+        if (capacityMissing) {
+          fileStats.capacityMissing++;
+          totalCapacityMissing++;
+        }
         totalSuccess++;
         consecutiveZeroResults = 0; // 成功したらリセット
       } catch (e) {
@@ -1138,14 +1250,19 @@ async function main() {
             console.log(`❌ ${e.message} ⚠ 削除スキップ（最後の1商品）`);
           } else if (!DRY_RUN) {
             updatedContent = removed;
+            fileStats.deleted++;
+            totalDeleted++;
             console.log(`🗑 削除: "${name}"`);
           } else {
+            fileStats.deleted++;
+            totalDeleted++;
             console.log(`🗑 [dry-run] 削除予定: "${name}"`);
           }
         } else {
           console.log(`❌ ${e.message}`);
         }
         results.push({ success: false, name: shortName, reason: e.message });
+        fileStats.failed++;
         totalFail++;
       }
       // APIレート制限対策（2秒間隔）
@@ -1178,10 +1295,12 @@ async function main() {
       writeFileSync(filePath, updatedContent, 'utf-8');
       console.log(`   💾 更新完了（updatedAt: ${today}、バックアップ: ${basename(filePath)}.bak）`);
     }
+    console.log(`   📊 記事集計: 更新 ${fileStats.changed}件 / 変更なし ${fileStats.unchanged}件 / capacity修正 ${fileStats.capacityChanged}件 / capacity取得不可 ${fileStats.capacityMissing}件 / 削除 ${fileStats.deleted}件 / 失敗 ${fileStats.failed}件`);
   }
 
   console.log('\n' + '═'.repeat(60));
   console.log(`✅ 成功: ${totalSuccess}件  ❌ 失敗: ${totalFail}件`);
+  console.log(`📊 変更あり: ${totalChanged}件 / 変更なし: ${totalUnchanged}件 / capacity修正: ${totalCapacityChanged}件 / capacity取得不可: ${totalCapacityMissing}件 / 削除: ${totalDeleted}件`);
   if (!DRY_RUN && totalSuccess > 0) {
     console.log('各ファイルの .bak でいつでも元に戻せます。');
   }

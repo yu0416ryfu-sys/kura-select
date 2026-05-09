@@ -100,6 +100,37 @@ export function updateProductInFrontmatter(
   return dumpFrontmatter(parsed.data, parsed.body);
 }
 
+export interface ProductSnapshot {
+  name: string;
+  price: number | null;
+  rating: number | null;
+  reviewCount: number | null;
+  rakutenUrl: string | null;
+  imageUrl: string | null;
+  capacity: string | null;
+  pricePerUnit: string | null;
+}
+
+export function extractProductSnapshot(content: string, productName: string): ProductSnapshot | null {
+  const parsed = parseFrontmatter(content);
+  if (!parsed || !Array.isArray(parsed.data.products)) return null;
+
+  const product = (parsed.data.products as Array<Record<string, unknown>>)
+    .find(p => p.name === productName);
+  if (!product) return null;
+
+  return {
+    name: typeof product.name === 'string' ? product.name : '',
+    price: typeof product.price === 'number' ? product.price : null,
+    rating: typeof product.rating === 'number' ? product.rating : null,
+    reviewCount: typeof product.reviewCount === 'number' ? product.reviewCount : null,
+    rakutenUrl: typeof product.rakutenUrl === 'string' ? product.rakutenUrl : null,
+    imageUrl: typeof product.imageUrl === 'string' ? product.imageUrl : null,
+    capacity: typeof product.capacity === 'string' ? product.capacity : null,
+    pricePerUnit: typeof product.pricePerUnit === 'string' ? product.pricePerUnit : null,
+  };
+}
+
 /**
  * フロントマター内の特定商品の capacity フィールドの値を取得する
  */
