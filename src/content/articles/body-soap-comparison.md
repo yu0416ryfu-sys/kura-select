@@ -1,11 +1,33 @@
 ---
 title: "ボディソープ コスパ最強ランキング【2026年版】保湿・敏感肌で比較"
-description: "ボディソープを1mLあたりのコストで徹底比較。ビオレu・ダヴ・ハダカラ・ミノンなど人気8選を保湿力・洗浄力・コスパで解説します。"
+description: "ボディソープを1mLあたりのコストで徹底比較。ビオレu・ダヴ・ハダカラ・ミノンなど人気14選を保湿力・洗浄力・コスパで解説します。"
 category: "body-soap"
 publishedAt: "2026-04-30"
 updatedAt: 2026-05-09
 products:
   - rank: 1
+    name: "Dove ボディウォッシュ 詰め替え 640g×9セット"
+    brand: "ユニリーバ（ダヴ）"
+    price: 4671
+    capacity: "640g×9セット"
+    pricePerUnit: "約0.81円/g"
+    rating: 4.76
+    reviewCount: 276
+    features:
+      - "ボディソープとして使える洗浄料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "毎日の入浴ケアに取り入れやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りや洗い上がりの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "毎日の入浴ケアに取り入れやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405206%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11233159%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/206/405206.jpg?_ex=128x128"
+  - rank: 2
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
     brand: "ユニリーバ（ダヴ）"
     price: 2598
@@ -27,7 +49,7 @@ products:
     recommendedFor: "しっとりした洗い上がりが好きな方・乾燥肌で保湿重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4902111764443%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10032736%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/09857135/4902111776576r.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 3
     name: "ミョウバン柿渋石鹸 ナチュラルクリアソープ 80g"
     brand: "AIMERE"
     price: 880
@@ -49,7 +71,29 @@ products:
     recommendedFor: "汗やニオイが気になる方・さっぱり洗いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Fb0110001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10001851%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/smartphone/cosme/myoubankakisibusoap/imgrc0119024289.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
+    name: "みんなでみらいを 米ぬか酵素 ボディウォッシュ 詰替用 115g"
+    brand: "みんなでみらいを"
+    price: 1288
+    capacity: "115g"
+    pricePerUnit: "約11円/g"
+    rating: 4.8
+    reviewCount: 316
+    features:
+      - "ボディソープとして使える洗浄料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "毎日の入浴ケアに取り入れやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りや洗い上がりの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "毎日の入浴ケアに取り入れやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvhpn.3rdw61d2.g00pvhpn.3rdw7ef2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakashop%2Fmndmrw-kbwt0%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakashop%2Fi%2F10014821%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakashop/cabinet/esl/mndmrw-kbwt01.jpg?_ex=128x128"
+  - rank: 5
     name: "ベイビースキンソープ 訳ありミニ石鹸10個セット 130g"
     brand: "ベイビースキンソープ"
     price: 1380
@@ -71,7 +115,29 @@ products:
     recommendedFor: "固形石けんをまとめて試したい方・洗顔とボディケアを兼用したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4cdn.3rdw6a10.g00s4cdn.3rdw730b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikum-shop%2Fbsp80-03%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikum-shop%2Fi%2F10000040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ikum-shop/cabinet/bsp/shohin/imgrc0099795269.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 6
+    name: "みんなでみらいを 米ぬか酵素 ボディウォッシュ 115g"
+    brand: "みんなでみらいを"
+    price: 1716
+    capacity: "115g"
+    pricePerUnit: "約15円/g"
+    rating: 4.65
+    reviewCount: 224
+    features:
+      - "ボディソープとして使える洗浄料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "毎日の入浴ケアに取り入れやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りや洗い上がりの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "毎日の入浴ケアに取り入れやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvhpn.3rdw61d2.g00pvhpn.3rdw7ef2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakashop%2Fmndmrw-kbw0%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakashop%2Fi%2F10014819%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakashop/cabinet/esl/mndmrw-kbw.jpg?_ex=128x128"
+  - rank: 7
     name: "ビオレu ザ ボディ 泡タイプ 詰め替え 800mL×2袋"
     brand: "花王（ビオレu）"
     price: 1980
@@ -93,7 +159,7 @@ products:
     recommendedFor: "家族で使いたい方・敏感肌の方・泡タイプが好きな方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11166894%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/032/405032.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 8
     name: "ミノン 全身シャンプー 泡タイプ 詰め替え 400mL×3袋"
     brand: "第一三共ヘルスケア（ミノン）"
     price: 2993
@@ -115,7 +181,73 @@ products:
     recommendedFor: "敏感肌・アトピー肌の方・赤ちゃんがいる家庭・低刺激にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F68857%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10910706%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/857/68857.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 9
+    name: "KnS 柿のさち 薬用柿渋ボディソープ 450mL"
+    brand: "KnS"
+    price: 2300
+    capacity: "450mL"
+    pricePerUnit: "約5.1円/mL"
+    rating: 4.42
+    reviewCount: 1198
+    features:
+      - "ボディソープとして使える洗浄料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "毎日の入浴ケアに取り入れやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りや洗い上がりの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "毎日の入浴ケアに取り入れやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtvin.3rdw6f25.g00qtvin.3rdw74fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoapmax%2F20004905%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoapmax%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/soapmax/cabinet/20004905_2603.jpg?_ex=128x128"
+  - rank: 10
+    name: "NATURECO デリケートゾーンソープケア 200mL"
+    brand: "NATURECO"
+    price: 1600
+    capacity: "200mL"
+    pricePerUnit: "約8.0円/mL"
+    rating: 4.46
+    reviewCount: 872
+    features:
+      - "ボディソープとして使える洗浄料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "毎日の入浴ケアに取り入れやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りや洗い上がりの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "毎日の入浴ケアに取り入れやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2mpn.3rdw6905.g00s2mpn.3rdw76e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvirginbeautyshop%2Fnr-dw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvirginbeautyshop%2Fi%2F10005507%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/virginbeautyshop/cabinet/campaign/202605marathon1/img/nr-dw.jpg?_ex=128x128"
+  - rank: 11
+    name: "デリシャスボディ ベアウォッシュ 200mL"
+    brand: "デリシャスボディ"
+    price: 2640
+    capacity: "200mL"
+    pricePerUnit: "約13円/mL"
+    rating: 4.45
+    reviewCount: 750
+    features:
+      - "ボディソープとして使える洗浄料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "毎日の入浴ケアに取り入れやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りや洗い上がりの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "毎日の入浴ケアに取り入れやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s3nkn.3rdw65c8.g00s3nkn.3rdw76b2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmcosme-style%2Fdebbod0000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmcosme-style%2Fi%2F10001964%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mcosme-style/cabinet/item2/dbodyn6.jpg?_ex=128x128"
+  - rank: 12
     name: "ジャムウスキンバランスソープ 1個"
     brand: "ラヴィナビューティー（ジャムウ）"
     price: 1400
@@ -137,7 +269,7 @@ products:
     recommendedFor: "デリケートゾーンのケアを重視したい方・固形石けん派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2idn.3rdw6104.g00s2idn.3rdw76c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fravina%2F10000001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fravina%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ravina/cabinet/mada/08647942/imgrc0127301418.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 13
     name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
     brand: "ライオン（hadakara）"
     price: 732
@@ -159,7 +291,7 @@ products:
     recommendedFor: "保湿重視の方・乾燥肌の方・コスパと保湿を両立したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs40n.3rdw6e75.g00qs40n.3rdw7092/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fladies-online-shop%2F10021895%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fladies-online-shop%2Fi%2F10021895%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ladies-online-shop/cabinet/okashi/mo58077154.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 14
     name: "BOTANIST ボタニカル ボディーソープ サクラとバニラの香り"
     brand: "BOTANIST"
     price: 1100

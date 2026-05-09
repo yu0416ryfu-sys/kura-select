@@ -1,6 +1,6 @@
 ---
 title: "キッチンペーパー コスパ最強ランキング【2026年版】1枚あたり最安で比較"
-description: "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気4選を吸水力・強度・コスパで解説します。"
+description: "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気5選を吸水力・強度・コスパで解説します。"
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 updatedAt: 2026-05-09
@@ -50,6 +50,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F14506%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10645679%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/506/14506.jpg?_ex=128x128"
   - rank: 3
+    name: "イイナ キッチンペーパー 75枚 12ロール"
+    brand: "イイナ"
+    price: 5200
+    capacity: "75枚×12ロール"
+    pricePerUnit: "約5.8円/枚"
+    rating: 4.53
+    reviewCount: 17
+    features:
+      - "キッチンで使うペーパー用品"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "調理や掃除に使いやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "設置場所やホルダーとの相性を確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "調理や掃除に使いやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fkitchen19%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10000212%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item_r/kitchen19-a1.jpg?_ex=128x128"
+  - rank: 4
     name: "【数量限定】 ネピア 激吸収 キッチンタオル 4ロール×"
     brand: "王子ネピア（ネピア）"
     price: 5396
@@ -71,7 +93,7 @@ products:
     recommendedFor: "最安値を求める方・大家族・まとめ買いでストックしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcsnn.3rdw6570.g00qcsnn.3rdw762b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyoto23%2F10000311%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyoto23%2Fi%2F10000311%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kyoto23/cabinet/img3/10000311.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "スコッティ ファイン 3倍巻き キッチンタオル 4ロール×4パック"
     brand: "日本製紙クレシア（スコッティ）"
     price: 7280

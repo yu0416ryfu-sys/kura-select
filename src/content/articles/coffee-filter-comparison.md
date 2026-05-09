@@ -1,12 +1,34 @@
 ---
 title: "コーヒーフィルター コスパ最強ランキング【2026年版】1枚あたり最安で比較"
-description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒーの人気4選を漂白タイプ・形状・コスパで解説します。"
+description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒーの人気5選を漂白タイプ・形状・コスパで解説します。"
 category: "coffee-filter"
 publishedAt: "2026-05-05"
 updatedAt: 2026-05-09
 draft: false
 products:
   - rank: 1
+    name: "ドリップバッグフィルター 1杯用 200枚×4セット"
+    brand: "国内メーカー品"
+    price: 2530
+    capacity: "200枚×4セット"
+    pricePerUnit: "約3.2円/枚"
+    rating: 4.76
+    reviewCount: 82
+    features:
+      - "ドリップ用のコーヒーフィルター"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "自宅や職場での抽出に使いやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "使用する器具との相性を確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "自宅や職場での抽出に使いやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po9en.3rdw6f1a.g00po9en.3rdw7de4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhyperlink%2Fdbfilter10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhyperlink%2Fi%2F10000098%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hyperlink/cabinet/image/coffee/dripbag_r1000px200.jpg?_ex=128x128"
+  - rank: 2
     name: "ハリオ V60 ペーパーフィルター みさらし 100枚"
     brand: "ハリオ"
     price: 438
@@ -28,7 +50,7 @@ products:
     recommendedFor: "ハリオV60ドリッパーをお使いの方・スペシャルティコーヒーを楽しみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl5fn.3rdw6571.g00pl5fn.3rdw7e5a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1355-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001877%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/1300/1355-02-item01.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 3
     name: "【カリタ】コーヒーフィルターみさらし101濾紙1〜2人用/"
     brand: "カリタ"
     price: 209
@@ -50,7 +72,7 @@ products:
     recommendedFor: "カリタのドリッパーを使っている方・コーヒーの味にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ppmon.3rdw6f65.g00ppmon.3rdw7779/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiroshimacoffee%2F426221%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiroshimacoffee%2Fi%2F10000898%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiroshimacoffee/cabinet/ikou_20100212/img10062543083.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "キーコーヒー コーヒーフィルター 無漂白 100枚"
     brand: "キーコーヒー"
     price: 184
@@ -72,7 +94,7 @@ products:
     recommendedFor: "エコ志向の方・自然素材にこだわりたい方・キーコーヒーブランドを信頼している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fcf0475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10348950%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/syoku/syoku11/cf0475.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "メリタ アロマフィルター AF-M 100枚"
     brand: "メリタ"
     price: 853

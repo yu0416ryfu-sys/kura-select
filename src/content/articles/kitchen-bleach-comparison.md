@@ -1,6 +1,6 @@
 ---
 title: "キッチン漂白剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気4選を除菌力・コスパ・安全性で解説します。"
+description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気6選を除菌力・コスパ・安全性で解説します。"
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 updatedAt: 2026-05-09
@@ -50,6 +50,50 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fr001200200154%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10203982%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/033/4901797100033.jpg?_ex=128x128"
   - rank: 3
+    name: "丹羽久 niwaQ キッチン漂白剤 ボトル 300g"
+    brand: "丹羽久"
+    price: 445
+    capacity: "300g"
+    pricePerUnit: "約1.5円/g"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "キッチンまわりに使う漂白剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "台所用品のケアに取り入れやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "素材や使用方法の確認が必要"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "台所用品のケアに取り入れやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sccjn.3rdw63ca.g00sccjn.3rdw709f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffines-f%2F4528931002130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffines-f%2Fi%2F10026578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fines-f/cabinet/06547305/07785924/imgrc0074882627.jpg?_ex=128x128"
+  - rank: 4
+    name: "niwaQ キッチン漂白剤 ボトル 300g"
+    brand: "丹羽久"
+    price: 696
+    capacity: "300g"
+    pricePerUnit: "約2.3円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "キッチンまわりに使う漂白剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "台所用品のケアに取り入れやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "素材や使用方法の確認が必要"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "台所用品のケアに取り入れやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tkpzn.3rdw6397.g00tkpzn.3rdw7d6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famuro-express%2Fvoalaeb47p6xfliyku535a6qay%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famuro-express%2Fi%2F10103439%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amuro-express/cabinet/10846748/32021029_0.jpg?_ex=128x128"
+  - rank: 5
     name: "キッチンパワーブリーチ 詰め替え 1300mL"
     brand: "ライオン"
     price: 1478
@@ -71,7 +115,7 @@ products:
     recommendedFor: "ライオン製品愛用者・まとめ買いで日常使いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F426722%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10000829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/426722.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 6
     name: "キッチンハイター 詰め替え 1500mL×2本"
     brand: "花王（ハイター）"
     price: 3720

@@ -1,6 +1,6 @@
 ---
 title: "クレンジング コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "クレンジングを1mLあたりのコストで徹底比較。DHC・ビオレ・ソフティモ・キュレルなど人気14選をメイク落ち・肌へのやさしさ・コスパで解説します。"
+description: "クレンジングを1mLあたりのコストで徹底比較。DHC・ビオレ・ソフティモ・キュレルなど人気15選をメイク落ち・肌へのやさしさ・コスパで解説します。"
 category: "cleansing"
 publishedAt: "2026-05-03"
 updatedAt: 2026-05-09
@@ -28,13 +28,35 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tjrkn.3rdw628c.g00tjrkn.3rdw754d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsup-s-r%2Fr20250207-curel-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsup-s-r%2Fi%2F10001251%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sup-s-r/cabinet/curel/imgrc0095274370.jpg?_ex=128x128"
   - rank: 2
+    name: "レステモ クレンジングオイル プロサイズ 480mL"
+    brand: "レステモ"
+    price: 3980
+    capacity: "480mL"
+    pricePerUnit: "約8.3円/mL"
+    rating: 4.51
+    reviewCount: 1818
+    features:
+      - "メイク落としに使うクレンジング"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "メイクの濃さに合わせて選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "肌質や使用感の好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "メイクの濃さに合わせて選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdaen.3rdw686c.g00qdaen.3rdw7002/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flesthemo%2Fcl-480ml%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flesthemo%2Fi%2F10000258%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/cleansing480ml_27.jpg?_ex=128x128"
+  - rank: 3
     name: "manyo ピュアクレンジングオイル 400mL"
     brand: "manyo"
     price: 3780
     capacity: "400mL"
     pricePerUnit: "約9.4円/mL"
-    rating: 4.66
-    reviewCount: 1047
+    rating: 4.65
+    reviewCount: 1048
     features:
       - "天然由来成分を重視したクレンジングオイル"
       - "400mLの大容量タイプ"
@@ -49,7 +71,7 @@ products:
     recommendedFor: "韓国コスメの大容量オイルを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdwjn.3rdw6201.g00tdwjn.3rdw7cc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmanyo-official%2Fma127%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmanyo-official%2Fi%2F10000132%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/manyo-official/cabinet/10979173/11951582/imgrc0131294882.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "ソフティモ スピーディオイルクレンジング 230mL"
     brand: "コーセー（ソフティモ）"
     price: 2270
@@ -71,7 +93,7 @@ products:
     recommendedFor: "フルメイク派の方・ウォータープルーフアイテムをよく使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw2pn.3rdw6069.g00tw2pn.3rdw7b19/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyland%2F1736928005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyland%2Fi%2F10000272%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyland/cabinet/compass1736927868.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "Anua ドクダミポアコントロールクレンジングオイル 200mL"
     brand: "Anua"
     price: 2300
@@ -93,7 +115,7 @@ products:
     recommendedFor: "皮脂汚れや毛穴汚れが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6mzn.3rdw632b.g00u6mzn.3rdw764e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00061/anua00061_kamitoku.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "manyo ピュアクレンジングオイル 200mL"
     brand: "manyo"
     price: 2530
@@ -115,7 +137,7 @@ products:
     recommendedFor: "manyoのクレンジングをまず試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdwjn.3rdw6201.g00tdwjn.3rdw7cc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmanyo-official%2Fma105%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmanyo-official%2Fi%2F10000089%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/manyo-official/cabinet/10979173/12298620/imgrc0131021703.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "DHC ディープクレンジングオイル 200mL"
     brand: "DHC"
     price: 2717
@@ -137,7 +159,7 @@ products:
     recommendedFor: "クレンジング品質を重視する方・乾燥が気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qy5un.3rdw6b7b.g00qy5un.3rdw754e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdhcshop%2F8000000300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdhcshop%2Fi%2F10000077%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dhcshop/cabinet/8000000300.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 8
     name: "Bioré ビオレ素肌つるるんクレンジングウォーター詰替"
     brand: "花王（ビオレ）"
     price: 6263
@@ -159,7 +181,7 @@ products:
     recommendedFor: "ライトメイクの方・時短スキンケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ujrwn.3rdw65e1.g00ujrwn.3rdw73b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorro%2F20250623203939_94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorro%2Fi%2F10047472%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/morro/cabinet/r_2025062255/20250623203939_94_1.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "PINCHER マルチクレンズ 500mL"
     brand: "PINCHER"
     price: 15980
@@ -181,7 +203,7 @@ products:
     recommendedFor: "大容量で長く使いたい方・W洗顔の手間を減らしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rx1yn.3rdw64f7.g00rx1yn.3rdw7ae1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftwentycompany%2F10000025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftwentycompany%2Fi%2F10000047%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/twentycompany/cabinet/09354816/imgrc0081437455.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "KINS クレンジングオイル 100mL"
     brand: "KINS"
     price: 4378
@@ -203,7 +225,29 @@ products:
     recommendedFor: "発酵由来成分のクレンジングを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3u5n.3rdw6176.g00u3u5n.3rdw7186/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkins%2Fv_41744114712753%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkins%2Fi%2F10000027%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kins/cabinet/item/11808837/13043807/thumb_1_1.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 11
+    name: "ink.LiT クレンジングバーム 無香料 90g×3個"
+    brand: "ink.LiT"
+    price: 2980
+    capacity: "90g×9個"
+    pricePerUnit: "約3.7円/g"
+    rating: 4.59
+    reviewCount: 1619
+    features:
+      - "90gバームの3個セット"
+      - "W洗顔不要で毛穴ケアにも使える"
+      - "無香料・無着色など7つのフリー設計"
+    pros:
+      - "まとめ買いで単価を抑えやすい"
+      - "バームタイプでメイク汚れになじませやすい"
+      - "セラミドなど保湿成分を配合"
+    cons:
+      - "3個セットなので初回購入量が多い"
+      - "バーム特有の油分感が残る場合がある"
+    recommendedFor: "クレンジングバームをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00smron.3rdw6bb1.g00smron.3rdw76f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F129-ink%2Fink04-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F129-ink%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/129-ink/cabinet/products/barm/2025bestcosme/muzi3.jpg?_ex=128x128"
+  - rank: 12
     name: "プリュ アミノ モイスチュア クレンジングジェル 300g"
     brand: "PLuS"
     price: 2826
@@ -225,36 +269,14 @@ products:
     recommendedFor: "ジェルタイプで毛穴汚れもケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po0zn.3rdw627e.g00po0zn.3rdw7621/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fplacge1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10005375%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/html3/amicle03_moff20.jpg?_ex=128x128"
-  - rank: 11
-    name: "ink.LiT クレンジングバーム 無香料 90g×3個"
-    brand: "ink.LiT"
-    price: 2980
-    capacity: "90g×3個"
-    pricePerUnit: "約11円/g"
-    rating: 4.59
-    reviewCount: 1619
-    features:
-      - "90gバームの3個セット"
-      - "W洗顔不要で毛穴ケアにも使える"
-      - "無香料・無着色など7つのフリー設計"
-    pros:
-      - "まとめ買いで単価を抑えやすい"
-      - "バームタイプでメイク汚れになじませやすい"
-      - "セラミドなど保湿成分を配合"
-    cons:
-      - "3個セットなので初回購入量が多い"
-      - "バーム特有の油分感が残る場合がある"
-    recommendedFor: "クレンジングバームをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00smron.3rdw6bb1.g00smron.3rdw76f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F129-ink%2Fink04-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F129-ink%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/129-ink/cabinet/products/barm/2025bestcosme/muzi3.jpg?_ex=128x128"
-  - rank: 12
+  - rank: 13
     name: "オルナオーガニック クレンジングジェル 130g"
     brand: "ALLNA ORGANIC"
     price: 2200
     capacity: "130g"
     pricePerUnit: "約17円/g"
     rating: 4.6
-    reviewCount: 3313
+    reviewCount: 3314
     features:
       - "美容液成分を多く配合したジェルタイプ"
       - "毛穴汚れやメイクになじませて落とす"
@@ -269,7 +291,7 @@ products:
     recommendedFor: "毛穴汚れが気になる方・ジェルタイプを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b01ennx47u%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000257%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/event/20260509m/905b01ennx47u-50.jpg?_ex=128x128"
-  - rank: 13
+  - rank: 14
     name: "パーフェクトワン フォーカス スムースクレンジングバーム 75g"
     brand: "PERFECT ONE FOCUS"
     price: 2970
@@ -291,6 +313,28 @@ products:
     recommendedFor: "毛穴汚れが気になる方・バームタイプを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prrun.3rdw68b1.g00prrun.3rdw74b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshinnihonseiyaku%2Ffocus_scb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshinnihonseiyaku%2Fi%2F10000478%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shinnihonseiyaku/cabinet/cmp/260509/scbrn_thumb.jpg?_ex=128x128"
+  - rank: 15
+    name: "ロゼット 夢みるバーム 選べる2個セット"
+    brand: "ロゼット"
+    price: 3960
+    capacity: "2個"
+    pricePerUnit: "約1980円/個"
+    rating: 4.66
+    reviewCount: 1687
+    features:
+      - "メイク落としに使うクレンジング"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "メイクの濃さに合わせて選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "肌質や使用感の好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "メイクの濃さに合わせて選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u529n.3rdw64b3.g00u529n.3rdw7138/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frosette-shop%2Fyumemiru_ksm_2ps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frosette-shop%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rosette-shop/cabinet/thumbna/10856923/13241016/imgrc0115086725.jpg?_ex=128x128"
 tags:
   - "クレンジング おすすめ"
   - "クレンジング コスパ"

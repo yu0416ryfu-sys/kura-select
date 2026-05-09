@@ -1,11 +1,77 @@
 ---
 title: "柔軟剤 コスパ最強ランキング【2026年版】香り・低刺激・大容量で比較"
-description: "柔軟剤を1回あたりのコストで徹底比較。消臭重視・香り重視・敏感肌向けのおすすめ4選を紹介。部屋干し臭や赤ちゃんのいる家庭に最適な柔軟剤が見つかります。"
+description: "柔軟剤を1回あたりのコストで徹底比較。消臭重視・香り重視・敏感肌向けのおすすめ9選を紹介。部屋干し臭や赤ちゃんのいる家庭に最適な柔軟剤が見つかります。"
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 updatedAt: 2026-05-09
 products:
   - rank: 1
+    name: "ダウニー サンライズフレッシュ 4L×3本セット"
+    brand: "Downy"
+    price: 6980
+    capacity: "4L×3本"
+    pricePerUnit: "約582円/L"
+    rating: 4.67
+    reviewCount: 1571
+    features:
+      - "洗濯時に使う柔軟仕上げ剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "香りや仕上がりの好みに合わせやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りの強さは好みが分かれやすい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "香りや仕上がりの好みに合わせやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzvkn.3rdw6b15.g00qzvkn.3rdw7644/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fl-plus%2F9590334-time%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fl-plus%2Fi%2F10018163%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/l-plus/cabinet/tasya117/imgrc0099964193.jpg?_ex=128x128"
+  - rank: 2
+    name: "メキシコダウニー アロマフローラル 8.5L×2本"
+    brand: "Downy"
+    price: 6980
+    capacity: "5L×2本"
+    pricePerUnit: "約698円/L"
+    rating: 4.5
+    reviewCount: 1012
+    features:
+      - "洗濯時に使う柔軟仕上げ剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "香りや仕上がりの好みに合わせやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りの強さは好みが分かれやすい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "香りや仕上がりの好みに合わせやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzvkn.3rdw6b15.g00qzvkn.3rdw7644/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fl-plus%2Fi9419689%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fl-plus%2Fi%2F10018127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/l-plus/cabinet/tasya153/i9419689.jpg?_ex=128x128"
+  - rank: 3
+    name: "メキシコダウニー アロマフローラル 8.5L"
+    brand: "Downy"
+    price: 3560
+    capacity: "5L"
+    pricePerUnit: "約712円/L"
+    rating: 4.58
+    reviewCount: 1275
+    features:
+      - "洗濯時に使う柔軟仕上げ剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "香りや仕上がりの好みに合わせやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りの強さは好みが分かれやすい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "香りや仕上がりの好みに合わせやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzvkn.3rdw6b15.g00qzvkn.3rdw7644/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fl-plus%2F9419689%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fl-plus%2Fi%2F10002240%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/l-plus/cabinet/tasya153/9419689.jpg?_ex=128x128"
+  - rank: 4
     name: "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え"
     brand: "P&G（レノア）"
     price: 3020
@@ -27,7 +93,7 @@ products:
     recommendedFor: "消臭重視の方・部屋干しが多い方・コスパ派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00up3bn.3rdw60f2.g00up3bn.3rdw7ff6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyksakai%2Frm5gaghcckomnptjv3ixcugo64%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyksakai%2Fi%2F10470645%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yksakai/cabinet/12902079/39758845_1.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 5
     name: "ハミングファイン 柔軟剤 リフレッシュグリーンの香り 詰替用"
     brand: "花王（ハミングファイン）"
     price: 1583
@@ -49,14 +115,14 @@ products:
     recommendedFor: "コスト最優先の方・静電気が気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uo14n.3rdw68f0.g00uo14n.3rdw7116/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanamaru-shouten%2F20251007151525_105%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanamaru-shouten%2Fi%2F10043743%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanamaru-shouten/cabinet/r_2025042840/20251007151525_105_1.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 6
     name: "【シリーズ累計50万本突破】ランドリーボトル 洗濯ボトル 洗剤ボトル ［セット "
     brand: "P&G（さらさ）"
     price: 2664
     capacity: "700mL"
     pricePerUnit: "約3.8円/mL"
-    rating: 4.42
-    reviewCount: 446
+    rating: 4.43
+    reviewCount: 447
     features:
       - "植物由来成分使用の低刺激処方"
       - "無蛍光剤・無漂白剤・無着色料"
@@ -71,6 +137,72 @@ products:
     recommendedFor: "敏感肌・赤ちゃんのいる家庭・低刺激処方を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1osn.3rdw6db5.g00r1osn.3rdw76c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarasa-designstore%2Fset-ls021x3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarasa-designstore%2Fi%2F10002237%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sarasa-designstore/cabinet/c05/set-ls021x3_ver2.jpg?_ex=128x128"
+  - rank: 7
+    name: "マイランドリー 柔軟剤 500mL 5本セット"
+    brand: "My Laundry"
+    price: 3680
+    capacity: "500mL"
+    pricePerUnit: "約7.4円/mL"
+    rating: 4.73
+    reviewCount: 958
+    features:
+      - "洗濯時に使う柔軟仕上げ剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "香りや仕上がりの好みに合わせやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りの強さは好みが分かれやすい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "香りや仕上がりの好みに合わせやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvwtn.3rdw692d.g00qvwtn.3rdw71dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsapri-bk%2Fmylaundry-5setb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsapri-bk%2Fi%2F10009814%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sapri-bk/cabinet/zakka/imgrc0076777801.jpg?_ex=128x128"
+  - rank: 8
+    name: "ダウニー コンフォート お試し柔軟剤 4袋セット"
+    brand: "Downy"
+    price: 473
+    capacity: "4袋"
+    pricePerUnit: "約118円/袋"
+    rating: 4.57
+    reviewCount: 1293
+    features:
+      - "洗濯時に使う柔軟仕上げ剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "香りや仕上がりの好みに合わせやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りの強さは好みが分かれやすい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "香りや仕上がりの好みに合わせやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqlnn.3rdw6746.g00qqlnn.3rdw79d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatina-shop%2F10000457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatina-shop%2Fi%2F10000457%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platina-shop/cabinet/01370227/imgrc0077946738.jpg?_ex=128x128"
+  - rank: 9
+    name: "ハミングフレア 柔軟剤 つめかえ用 4袋入"
+    brand: "花王（ハミングフレア）"
+    price: 4994
+    capacity: "4袋"
+    pricePerUnit: "約1249円/袋"
+    rating: 4.76
+    reviewCount: 1385
+    features:
+      - "洗濯時に使う柔軟仕上げ剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "香りや仕上がりの好みに合わせやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りの強さは好みが分かれやすい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "香りや仕上がりの好みに合わせやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404953%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148573%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/953/404953.jpg?_ex=128x128"
 tags:
   - "柔軟剤"
   - "コスパ"

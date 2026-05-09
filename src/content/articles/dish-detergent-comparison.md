@@ -1,6 +1,6 @@
 ---
 title: "食器用洗剤 コスパ最強ランキング【2026年版】除菌力・泡立ちで比較"
-description: "食器用洗剤を1回あたりのコストで徹底比較。ジョイ・キュキュット・ヤシノミ洗剤など人気4選を紹介。手荒れが気になる方・油汚れが多い方に最適な商品が分かります。"
+description: "食器用洗剤を1回あたりのコストで徹底比較。ジョイ・キュキュット・ヤシノミ洗剤など人気15選を紹介。手荒れが気になる方・油汚れが多い方に最適な商品が分かります。"
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 updatedAt: 2026-05-09
@@ -138,6 +138,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q931n.3rdw6861.g00q931n.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftida-market%2F768628%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftida-market%2Fi%2F10000063%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tida-market/cabinet/ivorydishsoap.jpg?_ex=128x128"
   - rank: 7
+    name: "AlmaWin ディッシュソープ レモングラス 500mL"
+    brand: "AlmaWin"
+    price: 814
+    capacity: "500mL"
+    pricePerUnit: "約1.6円/mL"
+    rating: 4.51
+    reviewCount: 49
+    features:
+      - "食器洗いに使う台所用洗剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "日常の食器洗いに取り入れやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りや泡立ちの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "日常の食器洗いに取り入れやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100000977%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10001005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/4935137804411_03.jpg?_ex=128x128"
+  - rank: 8
     name: "daily キッチンクリーナー 400mL"
     brand: "daily"
     price: 1100
@@ -159,7 +181,7 @@ products:
     recommendedFor: "食器洗い後のキッチン掃除用品もそろえたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tds6n.3rdw611c.g00tds6n.3rdw70ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdailymukuri%2Fhg0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdailymukuri%2Fi%2F10000006%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dailymukuri/cabinet/06704639/imgrc0099846037.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "フロッシュ 食器用洗剤 スポンジワイプ ギフトセット"
     brand: "Frosch"
     price: 1307
@@ -181,7 +203,7 @@ products:
     recommendedFor: "食器用洗剤をちょっとした贈り物にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q9yfn.3rdw673f.g00q9yfn.3rdw70cd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flugh%2Ffrs0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flugh%2Fi%2F10000109%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lugh/cabinet/frosch/frs0055new3.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "ヤシノミ洗剤 食器・野菜用 詰め替え 540mL"
     brand: "サラヤ（ヤシノミ洗剤）"
     price: 2769
@@ -203,7 +225,7 @@ products:
     recommendedFor: "敏感肌・手荒れが心配な方・食材も洗いたい方・エコ志向の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqv2n.3rdw6222.g00uqv2n.3rdw7c45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fastershop%2Fbomdykhfin55h3inene676douq%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fastershop%2Fi%2F10191599%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/astershop/cabinet/11876517/33242660_1.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 11
     name: "キッチンエネロ 食器用固形洗剤 3個セット"
     brand: "キッチンエネロ"
     price: 2828
@@ -225,7 +247,7 @@ products:
     recommendedFor: "固形洗剤で食器洗いコストを抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t6ndn.3rdw641d.g00t6ndn.3rdw78d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvictortradingnetshop%2F001-283%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvictortradingnetshop%2Fi%2F10000304%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/victortradingnetshop/cabinet/biiino/item/main-image-2/20260330161410_1.jpg?_ex=128x128"
-  - rank: 11
+  - rank: 12
     name: "ミスターQ 固形洗剤"
     brand: "ミスターQ"
     price: 1880
@@ -247,7 +269,29 @@ products:
     recommendedFor: "無香料の固形洗剤をキッチンで使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uigun.3rdw6b41.g00uigun.3rdw7f9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmisterq-soap%2Fmisterq001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmisterq-soap%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/misterq-soap/cabinet/misterq/top02.jpg?_ex=128x128"
-  - rank: 12
+  - rank: 13
+    name: "エリート洗剤 固形食器洗い洗剤 580g"
+    brand: "ニッシン化研"
+    price: 789
+    capacity: "580g"
+    pricePerUnit: "約1.4円/g"
+    rating: 4.69
+    reviewCount: 52
+    features:
+      - "食器洗いに使う台所用洗剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "日常の食器洗いに取り入れやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りや泡立ちの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "日常の食器洗いに取り入れやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv0vn.3rdw631e.g00pv0vn.3rdw7702/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhonest%2F454096%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhonest%2Fi%2F10000332%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/honest/cabinet/shohin200/elite-senzai-580.jpg?_ex=128x128"
+  - rank: 14
     name: "エネロ キッチンエネロ 固形食器用洗剤 350g"
     brand: "KAMINAGA"
     price: 1320
@@ -269,7 +313,7 @@ products:
     recommendedFor: "無香料の固形食器用洗剤を使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhk9n.3rdw61cf.g00uhk9n.3rdw7497/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaminagaonline%2F99883180-05%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaminagaonline%2Fi%2F10000007%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaminagaonline/cabinet/biiino/item/main-image/20251226104726_1.jpg?_ex=128x128"
-  - rank: 13
+  - rank: 15
     name: "サンサンスポンジ キッチンスポンジ 固形食器用洗剤セット"
     brand: "サンサンスポンジ"
     price: 1000
