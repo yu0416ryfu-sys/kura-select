@@ -125,11 +125,23 @@ export function extractProductRakutenUrl(content: string, productName: string): 
 const CAPACITY_UNITS = 'mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒|包|錠';
 const PACK_UNITS = 'ロール|パック|セット|箱|缶|ケース';
 const MULTIPLY_RE_CHAR_CLASS = '×xX*＊';
+const SALES_QUANTITY_UNITS = '個|本|袋|セット|パック|箱|ケース';
+const MEASURE_UNITS = 'mL|ml|L|g|kg';
 
 function normalizeItemName(s: string): string {
   return s.replace(/[ａ-ｚＡ-Ｚ０-９]/g, c =>
     String.fromCharCode(c.charCodeAt(0) - 0xFEE0)
   );
+}
+
+export function isLikelySalesQuantityCapacityMisread(itemName: string, extractedCapacity: string): boolean {
+  const normalizedName = normalizeItemName(itemName);
+  const normalizedCapacity = normalizeItemName(extractedCapacity);
+  const extracted = extractCapacityTotal(normalizedCapacity);
+  if (!extracted) return false;
+  if (!new RegExp(`^(${SALES_QUANTITY_UNITS})$`).test(extracted.unit)) return false;
+  if (new RegExp(`\\d[\\d,]*\\s*(${MEASURE_UNITS})`, 'i').test(normalizedCapacity)) return false;
+  return new RegExp(`\\d[\\d,]*\\s*(${MEASURE_UNITS})`, 'i').test(normalizedName);
 }
 
 /**

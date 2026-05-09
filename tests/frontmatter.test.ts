@@ -9,6 +9,7 @@ import {
   normalizeCapacityTotal,
   calcPricePerUnit,
   extractCapacityFromItemName,
+  isLikelySalesQuantityCapacityMisread,
   removeProductFromFrontmatter,
   reorderProductsByPricePerUnit,
   updateUpdatedAt,
@@ -549,6 +550,23 @@ describe("extractCapacityFromItemName", () => {
 
   it("CAPACITY_UNITSが存在する場合はPattern 4より優先する（回帰確認）", () => {
     expect(extractCapacityFromItemName("シャンプー 500mL 3パック")).toBe("500mL×3パック");
+  });
+});
+
+describe("isLikelySalesQuantityCapacityMisread", () => {
+  it("商品名に液量・重量があるのに販売数量だけを抽出した場合は誤読扱いにする", () => {
+    expect(
+      isLikelySalesQuantityCapacityMisread(
+        "いち髪 なめらかスムースケア シャンプー 大容量 1個 680g 2個分",
+        "1個"
+      )
+    ).toBe(true);
+  });
+
+  it("商品名も抽出結果も販売数量のみなら誤読扱いにしない", () => {
+    expect(
+      isLikelySalesQuantityCapacityMisread("除菌スプレー 3個セット まとめ買い", "3個")
+    ).toBe(false);
   });
 });
 
