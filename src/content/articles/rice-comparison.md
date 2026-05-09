@@ -6,28 +6,6 @@ publishedAt: "2026-05-09"
 updatedAt: 2026-05-10
 products:
   - rank: 1
-    name: "令和7年 佐渡産コシヒカリ 2kg"
-    brand: "食の宝島佐渡"
-    price: 4280
-    capacity: "2kg"
-    features:
-      - "佐渡産コシヒカリの2kg商品"
-      - "白米・無洗米・玄米など精米方法を選べる商品"
-      - "特別栽培米を検討したい方に向く"
-    pros:
-      - "栽培方法や産地背景を重視して選びやすい"
-      - "精米方法を家庭の好みに合わせやすい"
-      - "贈答や少しこだわった日常米にも検討しやすい"
-    cons:
-      - "通常の白米セットより価格が高くなる場合がある"
-      - "注文時に精米方法の選択を確認したい"
-    recommendedFor: "産地や栽培方法にこだわってお米を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qll1n.3rdw6927.g00qll1n.3rdw75a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-syokunosado%2F10000229%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-syokunosado%2Fi%2F10000251%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    rating: 4.77
-    reviewCount: 30
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-syokunosado/cabinet/1/r-toki-g-sku.jpg?_ex=128x128"
-    pricePerUnit: "約2140円/kg"
-  - rank: 2
     name: "令和7年産 無洗米 新潟産コシヒカリ 10kg"
     brand: "ミツハシライス"
     price: 8980
@@ -49,7 +27,7 @@ products:
     reviewCount: 343
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/echigo-inahoya/cabinet/m-hikari/r7mnk10.jpg?_ex=128x128"
     pricePerUnit: "約898円/kg"
-  - rank: 3
+  - rank: 2
     name: "無洗米 富山県産コシヒカリ 10kg"
     brand: "ヤマトライス"
     price: 9780
@@ -71,7 +49,7 @@ products:
     reviewCount: 152
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/tym/koshi/bg/000324-2p10.jpg?_ex=128x128"
     pricePerUnit: "約978円/kg"
-  - rank: 4
+  - rank: 3
     name: "無洗米 農薬節減米 岩手県産ひとめぼれ 10kg"
     brand: "ヤマトライス"
     price: 9880
@@ -93,7 +71,7 @@ products:
     reviewCount: 71
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/iwt/hitome/008963-2.jpg?_ex=128x128"
     pricePerUnit: "約988円/kg"
-  - rank: 5
+  - rank: 4
     name: "無洗米 新潟県産コシヒカリ 10kg"
     brand: "ヤマトライス"
     price: 9980
@@ -115,7 +93,7 @@ products:
     reviewCount: 103
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/ngt/koshi/bg/004550-2.jpg?_ex=128x128"
     pricePerUnit: "約998円/kg"
-  - rank: 6
+  - rank: 5
     name: "くりやの無洗米 香川県産コシヒカリ 10kg"
     brand: "お米のくりや"
     price: 11300
@@ -137,7 +115,7 @@ products:
     reviewCount: 107
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/okome-kuriya/cabinet/item/11424198/thumb_musen_10kg.jpg?_ex=128x128"
     pricePerUnit: "約1130円/kg"
-  - rank: 7
+  - rank: 6
     name: "令和7年産 無洗米 茨城県産コシヒカリ 10kg"
     brand: "ミツハシライス"
     price: 11480
@@ -159,6 +137,28 @@ products:
     reviewCount: 19
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/521/88521.jpg?_ex=128x128"
     pricePerUnit: "約1148円/kg"
+  - rank: 7
+    name: "令和7年 佐渡産コシヒカリ 2kg"
+    brand: "食の宝島佐渡"
+    price: 4280
+    capacity: "2kg"
+    features:
+      - "佐渡産コシヒカリの2kg商品"
+      - "白米・無洗米・玄米など精米方法を選べる商品"
+      - "特別栽培米を検討したい方に向く"
+    pros:
+      - "栽培方法や産地背景を重視して選びやすい"
+      - "精米方法を家庭の好みに合わせやすい"
+      - "贈答や少しこだわった日常米にも検討しやすい"
+    cons:
+      - "通常の白米セットより価格が高くなる場合がある"
+      - "注文時に精米方法の選択を確認したい"
+    recommendedFor: "産地や栽培方法にこだわってお米を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qll1n.3rdw6927.g00qll1n.3rdw75a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-syokunosado%2F10000229%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-syokunosado%2Fi%2F10000251%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rating: 4.77
+    reviewCount: 30
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-syokunosado/cabinet/1/r-toki-g-sku.jpg?_ex=128x128"
+    pricePerUnit: "約2140円/kg"
 tags:
   - "お米"
   - "米"
