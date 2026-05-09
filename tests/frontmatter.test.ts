@@ -296,6 +296,10 @@ describe("extractCapacityTotal", () => {
     expect(extractCapacityTotal("1200mL×2袋")).toEqual({ total: 2400, unit: "mL" });
   });
 
+  it("アスタリスク区切りの掛け算を計算する", () => {
+    expect(extractCapacityTotal("400mL*3袋")).toEqual({ total: 1200, unit: "mL" });
+  });
+
   it("携帯用など説明文の括弧でも手前の数値を使う", () => {
     expect(extractCapacityTotal("30枚（携帯用）")).toEqual({ total: 30, unit: "枚" });
   });
@@ -407,6 +411,12 @@ describe("extractCapacityFromItemName", () => {
 
   it("掛け算パターンで後の単位も含める", () => {
     expect(extractCapacityFromItemName("ネピア 50mL×3本")).toBe("50mL×3本");
+  });
+
+  it("楽天商品名のアスタリスク区切りを掛け算として抽出する", () => {
+    expect(
+      extractCapacityFromItemName("ミノン 全身シャンプー 泡タイプ 詰替え用(400ml*3袋セット)")
+    ).toBe("400ml×3袋");
   });
 
   it("括弧内総量パターンを抽出する", () => {

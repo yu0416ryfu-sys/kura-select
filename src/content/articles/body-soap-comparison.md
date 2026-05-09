@@ -72,11 +72,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r23nn.3rdw64a0.g00r23nn.3rdw7ccf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobe-beauty-labo%2Fbota-bodysoap-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkobe-beauty-labo%2Fi%2F10000263%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/1st_thum/bota-bodysoap-01_d.jpg?_ex=128x128"
   - rank: 4
-    name: "ミノン 全身シャンプー 泡タイプ 詰め替え 400mL"
+    name: "ミノン 全身シャンプー 泡タイプ 詰め替え 400mL×3袋"
     brand: "第一三共ヘルスケア（ミノン）"
     price: 2993
-    capacity: "400mL（約100回分）"
-    pricePerUnit: "約7.5円/mL"
+    capacity: "400mL×3袋（約300回分）"
+    pricePerUnit: "約2.5円/mL"
     rating: 4.76
     reviewCount: 89
     features:

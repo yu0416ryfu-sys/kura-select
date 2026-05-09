@@ -124,6 +124,7 @@ export function extractProductRakutenUrl(content: string, productName: string): 
 
 const CAPACITY_UNITS = 'mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒|包|錠';
 const PACK_UNITS = 'ロール|パック|セット|箱|缶|ケース';
+const MULTIPLY_RE_CHAR_CLASS = '×xX*＊';
 
 function normalizeItemName(s: string): string {
   return s.replace(/[ａ-ｚＡ-Ｚ０-９]/g, c =>
@@ -162,7 +163,7 @@ export function extractCapacityTotal(capacity: string): { total: number; unit: s
     const unit = mulBaseM[2];
     // 括弧内（注釈・内訳）の × は乗数ではないため除外する
     const restWithoutBrackets = mulBaseM[3].replace(/[（(][^）)]*[）)]/g, '');
-    const factors = [...restWithoutBrackets.matchAll(/[×xX]\s*([\d,]+)/g)];
+    const factors = [...restWithoutBrackets.matchAll(new RegExp(`[${MULTIPLY_RE_CHAR_CLASS}]\\s*([\\d,]+)`, 'g'))];
     if (base > 0 && factors.length > 0) {
       const multiplier = factors.reduce((acc, f) => acc * parseInt(f[1].replace(/,/g, ''), 10), 1);
       if (multiplier > 1) return { total: base * multiplier, unit };
@@ -184,7 +185,7 @@ export function extractCapacityTotal(capacity: string): { total: number; unit: s
   if (mulPackM) {
     const base = parseInt(mulPackM[1].replace(/,/g, ''), 10);
     const unit = mulPackM[2];
-    const factors = [...mulPackM[3].matchAll(/[×xX]\s*([\d,]+)/g)];
+    const factors = [...mulPackM[3].matchAll(new RegExp(`[${MULTIPLY_RE_CHAR_CLASS}]\\s*([\\d,]+)`, 'g'))];
     if (base > 0 && factors.length > 0) {
       const multiplier = factors.reduce((acc, f) => acc * parseInt(f[1].replace(/,/g, ''), 10), 1);
       if (multiplier > 1) return { total: base * multiplier, unit };
@@ -225,7 +226,7 @@ export function calcPricePerUnit(price: number, capacity: string): string | null
  */
 export function extractCapacityFromItemName(itemName: string): string | null {
   itemName = normalizeItemName(itemName);
-  // パターン1: × 区切り乗算チェーン（複数因子対応）"200枚×5箱" "50m×12ロール×6パック"
+  // パターン1: × / * 区切り乗算チェーン（複数因子対応）"200枚×5箱" "400ml*3袋"
   // CAPACITY_UNITS および PACK_UNITS（ロール・パック・箱等）の両方を単位として認識する
   // PACK_UNITS も起点として認識する（例: "（12ロール×6個セット）" で 12ロール を先に捕捉）
   const mulRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS}|${PACK_UNITS})`);
@@ -237,8 +238,8 @@ export function extractCapacityFromItemName(itemName: string): string | null {
     let foundChain = false;
     while (pos < itemName.length) {
       const ahead = itemName.slice(pos);
-      // 非数字・非×文字を読み飛ばして次の × を探す
-      const xMatch = ahead.match(/^([^×xX\d]*)[×xX]\s*(\d[\d,]*)/);
+      // 非数字・非乗算記号文字を読み飛ばして次の乗算記号を探す
+      const xMatch = ahead.match(new RegExp(`^([^${MULTIPLY_RE_CHAR_CLASS}\\d]*)[${MULTIPLY_RE_CHAR_CLASS}]\\s*(\\d[\\d,]*)`));
       if (!xMatch) break;
       // × より前に数字が混入していたら別の数値表現として中断
       if (/\d/.test(xMatch[1])) break;
@@ -265,7 +266,7 @@ export function extractCapacityFromItemName(itemName: string): string | null {
       let chainPos = pos + packStartM[0].length;
       while (chainPos < itemName.length) {
         const ahead = itemName.slice(chainPos);
-        const xMatch = ahead.match(/^([^×xX\d]*)[×xX]\s*(\d[\d,]*)/);
+        const xMatch = ahead.match(new RegExp(`^([^${MULTIPLY_RE_CHAR_CLASS}\\d]*)[${MULTIPLY_RE_CHAR_CLASS}]\\s*(\\d[\\d,]*)`));
         if (!xMatch || /\d/.test(xMatch[1])) break;
         chainResult += '×' + xMatch[2];
         chainPos += xMatch[0].length;
@@ -304,7 +305,7 @@ export function extractCapacityFromItemName(itemName: string): string | null {
     // パターン1e: PACK×PACK 乗算チェーンと CAPACITY_UNIT が別々に出現するケースを結合
     // 例: "12ロール(シングル) 12ロール×4パック(48ロール) 100m" → "100m×12ロール×4パック"
     // Pattern 1/1c/1d が CAPACITY_UNIT 起点のチェーンを拾えなかった場合のフォールバック
-    const packXpackRe = new RegExp(`(\\d[\\d,]*)\\s*(${PACK_UNITS})\\s*[×xX]\\s*(\\d[\\d,]*)\\s*(${PACK_UNITS})`);
+    const packXpackRe = new RegExp(`(\\d[\\d,]*)\\s*(${PACK_UNITS})\\s*[${MULTIPLY_RE_CHAR_CLASS}]\\s*(\\d[\\d,]*)\\s*(${PACK_UNITS})`);
     const packXpackM = itemName.match(packXpackRe);
     if (packXpackM) {
       const capUnitSearchRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})`);
