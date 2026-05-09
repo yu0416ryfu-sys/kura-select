@@ -6,50 +6,28 @@ publishedAt: "2026-05-05"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "キッチンハイター 詰め替え 1500mL×2本"
-    brand: "花王（ハイター）"
-    price: 3720
-    capacity: "1500mL×2本（3000mL）"
-    pricePerUnit: "約1.2円/mL"
-    rating: 4.86
-    reviewCount: 97
+    name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.26kg！★【"
+    brand: "グラフィコ（OxiClean）"
+    price: 3425
+    capacity: "26kg"
+    pricePerUnit: "約132円/kg"
+    rating: 4.64
+    reviewCount: 1413
     features:
-      - "国内トップシェアのキッチン用塩素系漂白剤"
-      - "詰め替え用大容量でコスパ最高クラス"
-      - "漂白・除菌・消臭を1本で実現"
+      - "酸素系漂白剤で幅広い用途に対応"
+      - "界面活性剤配合でキッチン汚れにも効果的"
+      - "漬けおきで頑固な汚れを浮かして落とす"
     pros:
-      - "大容量詰め替えで1mLあたりのコストを大幅に抑えられる"
-      - "花王の信頼ブランドで品質安定"
-      - "漂白・除菌・消臭の3役を一本でこなす"
+      - "キッチン・食器・まな板の漬けおき洗いに効果的"
+      - "酸素系で塩素臭がなく使いやすい"
+      - "大容量で長期間使える"
     cons:
-      - "塩素系のため金属・色物への使用は不可"
-      - "塩素臭が強い"
-    recommendedFor: "まな板・ふきん・食器の漂白除菌に・コスパ重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6mcn.3rdw6191.g00r6mcn.3rdw73f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujix-sizai%2F4901301021144%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujix-sizai%2Fi%2F10000866%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fujix-sizai/cabinet/shohin00/kao/4901301021144.jpg?_ex=128x128"
+      - "粉末タイプのため溶かす手間がある"
+      - "塩素系ほどの即効性はない"
+    recommendedFor: "漬けおき洗いをよく使う方・キッチン全般の洗浄に・臭いが気になる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F309892sm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0079732773.jpg?_ex=128x128"
   - rank: 2
-    name: "キッチンパワーブリーチ 詰め替え 1300mL"
-    brand: "ライオン"
-    price: 1478
-    capacity: "1300mL"
-    pricePerUnit: "約1.1円/mL"
-    rating: 4.77
-    reviewCount: 13
-    features:
-      - "ライオンのキッチン用塩素系漂白剤"
-      - "大容量詰め替えタイプ"
-      - "まな板・ふきん・食器の除菌漂白に"
-    pros:
-      - "ライオンブランドの安定した品質"
-      - "大容量で買い替え頻度が下がる"
-      - "日常のキッチン衛生管理に使いやすい"
-    cons:
-      - "キッチンハイターと比べると容量が少ない"
-      - "塩素臭が強い"
-    recommendedFor: "ライオン製品愛用者・まとめ買いで日常使いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F426722%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10000829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/426722.jpg?_ex=128x128"
-  - rank: 3
     name: "洗たく槽クリーナー【2sh24】【シャボン玉石けん】"
     brand: "シャボン玉石けん"
     price: 562
@@ -71,28 +49,50 @@ products:
     recommendedFor: "金属・色物の食器にも使いたい方・環境配慮型を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fr001200200154%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10203982%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/033/4901797100033.jpg?_ex=128x128"
-  - rank: 4
-    name: "オキシクリーン マルチパーパスクリーナー 1360g"
-    brand: "グラフィコ（OxiClean）"
-    price: 3425
-    capacity: "1360g"
-    pricePerUnit: "約2.5円/g"
-    rating: 4.64
-    reviewCount: 1413
+  - rank: 3
+    name: "キッチンパワーブリーチ 詰め替え 1300mL"
+    brand: "ライオン"
+    price: 1478
+    capacity: "1300mL"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.77
+    reviewCount: 13
     features:
-      - "酸素系漂白剤で幅広い用途に対応"
-      - "界面活性剤配合でキッチン汚れにも効果的"
-      - "漬けおきで頑固な汚れを浮かして落とす"
+      - "ライオンのキッチン用塩素系漂白剤"
+      - "大容量詰め替えタイプ"
+      - "まな板・ふきん・食器の除菌漂白に"
     pros:
-      - "キッチン・食器・まな板の漬けおき洗いに効果的"
-      - "酸素系で塩素臭がなく使いやすい"
-      - "大容量で長期間使える"
+      - "ライオンブランドの安定した品質"
+      - "大容量で買い替え頻度が下がる"
+      - "日常のキッチン衛生管理に使いやすい"
     cons:
-      - "粉末タイプのため溶かす手間がある"
-      - "塩素系ほどの即効性はない"
-    recommendedFor: "漬けおき洗いをよく使う方・キッチン全般の洗浄に・臭いが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F309892sm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0079732773.jpg?_ex=128x128"
+      - "キッチンハイターと比べると容量が少ない"
+      - "塩素臭が強い"
+    recommendedFor: "ライオン製品愛用者・まとめ買いで日常使いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F426722%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10000829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/426722.jpg?_ex=128x128"
+  - rank: 4
+    name: "キッチンハイター 詰め替え 1500mL×2本"
+    brand: "花王（ハイター）"
+    price: 3720
+    capacity: "1500mL×2本（3000mL）"
+    pricePerUnit: "約1.2円/mL"
+    rating: 4.86
+    reviewCount: 97
+    features:
+      - "国内トップシェアのキッチン用塩素系漂白剤"
+      - "詰め替え用大容量でコスパ最高クラス"
+      - "漂白・除菌・消臭を1本で実現"
+    pros:
+      - "大容量詰め替えで1mLあたりのコストを大幅に抑えられる"
+      - "花王の信頼ブランドで品質安定"
+      - "漂白・除菌・消臭の3役を一本でこなす"
+    cons:
+      - "塩素系のため金属・色物への使用は不可"
+      - "塩素臭が強い"
+    recommendedFor: "まな板・ふきん・食器の漂白除菌に・コスパ重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6mcn.3rdw6191.g00r6mcn.3rdw73f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujix-sizai%2F4901301021144%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujix-sizai%2Fi%2F10000866%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fujix-sizai/cabinet/shohin00/kao/4901301021144.jpg?_ex=128x128"
 tags:
   - "キッチン漂白剤 おすすめ"
   - "キッチンハイター コスパ"

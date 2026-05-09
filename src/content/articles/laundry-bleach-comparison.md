@@ -6,33 +6,11 @@ publishedAt: "2026-05-01"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "ワイドハイターEX パワー 詰め替え用 大容量 880mL×2個"
-    brand: "花王（ワイドハイター）"
-    price: 2360
-    capacity: "880mL×2個（約120回分）"
-    pricePerUnit: "約1.3円/mL"
-    rating: 4.76
-    reviewCount: 367
-    features:
-      - "酸素系漂白剤で色柄物にも安心"
-      - "除菌・消臭効果で部屋干し臭も撃退"
-      - "洗濯洗剤と一緒に入れるだけの簡単使用"
-    pros:
-      - "1回あたり約8.2円で高コスパ"
-      - "色柄物に使えるので毎日の洗濯に最適"
-      - "洗濯洗剤との併用で洗浄力アップ"
-    cons:
-      - "頑固なシミには単独での効果が弱い"
-      - "塩素系ほどの漂白力はない"
-    recommendedFor: "毎日の洗濯で除菌・消臭したい方・色柄物が多い方・コスパ重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvhdn.3rdw6896.g00rvhdn.3rdw7113/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaily-shop%2F10000211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaily-shop%2Fi%2F10000211%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daily-shop/cabinet/35/4901301509819-tg0.jpg?_ex=128x128"
-  - rank: 2
-    name: "オキシクリーン 1500g"
+    name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.26kg！★【"
     brand: "グラフィコ（オキシクリーン）"
     price: 3425
-    capacity: "1500g（約75回分）"
-    pricePerUnit: "約2.3円/g"
+    capacity: "26kg"
+    pricePerUnit: "約132円/kg"
     rating: 4.64
     reviewCount: 1413
     features:
@@ -49,29 +27,7 @@ products:
     recommendedFor: "多用途に使いたい方・つけ置き漂白派の方・SNSで話題の商品を試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F309892sm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0079732773.jpg?_ex=128x128"
-  - rank: 3
-    name: "ブライトSTRONG 衣類用漂白剤 詰め替え 大容量 900mL"
-    brand: "ライオン（ブライト）"
-    price: 3680
-    capacity: "900mL（約60回分）"
-    pricePerUnit: "約4.1円/mL"
-    rating: 5
-    reviewCount: 9
-    features:
-      - "酸素系漂白剤で色柄物にも使える"
-      - "光漂白成分で干すだけで白さが蘇る"
-      - "抗菌防臭効果で部屋干し臭を防止"
-    pros:
-      - "1回あたり約8.0円で最安クラス"
-      - "干すだけで白くなる光漂白技術"
-      - "洗剤と一緒に投入するだけで手軽"
-    cons:
-      - "つけ置きでの漂白力はオキシクリーンに劣る"
-      - "光が当たらないと光漂白効果が発揮されない"
-    recommendedFor: "コスパ最優先の方・外干し派の方・手軽に漂白したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00udivn.3rdw6f9e.g00udivn.3rdw7dcb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmk-mart2%2Fbright-strong%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmk-mart2%2Fi%2F10000572%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mk-mart2/cabinet/imgrc0130421186.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 2
     name: "洗たく槽クリーナー【2sh24】【シャボン玉石けん】"
     brand: "シャボン玉石けん"
     price: 562
@@ -93,6 +49,50 @@ products:
     recommendedFor: "無添加志向の方・赤ちゃんがいる家庭・環境配慮派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fr001200200154%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10203982%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/033/4901797100033.jpg?_ex=128x128"
+  - rank: 3
+    name: "【衣料用漂白剤】ワイドハイターEXパワー 4."
+    brand: "花王（ワイドハイター）"
+    price: 2360
+    capacity: "5L"
+    pricePerUnit: "約472円/L"
+    rating: 4.76
+    reviewCount: 367
+    features:
+      - "酸素系漂白剤で色柄物にも安心"
+      - "除菌・消臭効果で部屋干し臭も撃退"
+      - "洗濯洗剤と一緒に入れるだけの簡単使用"
+    pros:
+      - "1回あたり約8.2円で高コスパ"
+      - "色柄物に使えるので毎日の洗濯に最適"
+      - "洗濯洗剤との併用で洗浄力アップ"
+    cons:
+      - "頑固なシミには単独での効果が弱い"
+      - "塩素系ほどの漂白力はない"
+    recommendedFor: "毎日の洗濯で除菌・消臭したい方・色柄物が多い方・コスパ重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvhdn.3rdw6896.g00rvhdn.3rdw7113/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaily-shop%2F10000211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaily-shop%2Fi%2F10000211%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daily-shop/cabinet/35/4901301509819-tg0.jpg?_ex=128x128"
+  - rank: 4
+    name: "ブライトSTRONG 衣類用漂白剤 詰め替え 大容量 900mL"
+    brand: "ライオン（ブライト）"
+    price: 3680
+    capacity: "900mL（約60回分）"
+    pricePerUnit: "約4.1円/mL"
+    rating: 5
+    reviewCount: 9
+    features:
+      - "酸素系漂白剤で色柄物にも使える"
+      - "光漂白成分で干すだけで白さが蘇る"
+      - "抗菌防臭効果で部屋干し臭を防止"
+    pros:
+      - "1回あたり約8.0円で最安クラス"
+      - "干すだけで白くなる光漂白技術"
+      - "洗剤と一緒に投入するだけで手軽"
+    cons:
+      - "つけ置きでの漂白力はオキシクリーンに劣る"
+      - "光が当たらないと光漂白効果が発揮されない"
+    recommendedFor: "コスパ最優先の方・外干し派の方・手軽に漂白したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00udivn.3rdw6f9e.g00udivn.3rdw7dcb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmk-mart2%2Fbright-strong%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmk-mart2%2Fi%2F10000572%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mk-mart2/cabinet/imgrc0130421186.jpg?_ex=128x128"
 tags:
   - "漂白剤"
   - "コスパ"

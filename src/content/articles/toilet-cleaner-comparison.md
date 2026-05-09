@@ -6,28 +6,6 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "大日本除虫菊 KINCHO サンポール トイレ洗剤 尿石除去"
-    brand: "大日本除虫菊（サンポール）"
-    price: 1780
-    capacity: "5L"
-    pricePerUnit: "約356円/L"
-    rating: 4.5
-    reviewCount: 4
-    features:
-      - "強力な酸性洗剤で尿石・黄ばみを溶かす"
-      - "便器のフチ裏にもかけやすいノズル設計"
-      - "50年以上のロングセラー商品"
-    pros:
-      - "尿石・黄ばみ除去力はNo.1"
-      - "1回あたり約7円の高コスパ"
-      - "大容量5Lで長持ち"
-    cons:
-      - "塩素系洗剤との併用は絶対NG"
-      - "酸性のため長時間放置すると素材を傷める"
-    recommendedFor: "尿石・黄ばみに悩む方・コスパ重視の方・頑固な汚れを落としたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987115851764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10108088%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/84/4987115851764.jpg?_ex=128x128"
-  - rank: 2
     name: "スクラビングバブル 超強力トイレクリーナー【スクラビングバブル】[トイレ洗剤 ト"
     brand: "ジョンソン（スクラビングバブル）"
     price: 441
@@ -49,7 +27,7 @@ products:
     recommendedFor: "フチ裏の汚れに悩む方・黒ずみ・カビを落としたい方・塩素系洗剤派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe341234h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10252628%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/440/4901609005440.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "ブルーレット おくだけ 除菌EX ミントの香り 付替 3個パック"
     brand: "小林製薬（ブルーレット）"
     price: 2009
@@ -71,6 +49,28 @@ products:
     recommendedFor: "掃除の頻度を減らしたい方・トイレの清潔感を保ちたい方・手軽な予防対策に"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn2hn.3rdw6e09.g00qn2hn.3rdw7ff0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-ulmax%2Fha-4987072092651_3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-ulmax%2Fi%2F11911239%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-ulmax/cabinet/zg179/4987072092651.jpg?_ex=128x128"
+  - rank: 3
+    name: "大日本除虫菊 KINCHO サンポール トイレ洗剤 尿石除去"
+    brand: "大日本除虫菊（サンポール）"
+    price: 1780
+    capacity: "5L"
+    pricePerUnit: "約356円/L"
+    rating: 4.5
+    reviewCount: 4
+    features:
+      - "強力な酸性洗剤で尿石・黄ばみを溶かす"
+      - "便器のフチ裏にもかけやすいノズル設計"
+      - "50年以上のロングセラー商品"
+    pros:
+      - "尿石・黄ばみ除去力はNo.1"
+      - "1回あたり約7円の高コスパ"
+      - "大容量5Lで長持ち"
+    cons:
+      - "塩素系洗剤との併用は絶対NG"
+      - "酸性のため長時間放置すると素材を傷める"
+    recommendedFor: "尿石・黄ばみに悩む方・コスパ重視の方・頑固な汚れを落としたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987115851764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10108088%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/84/4987115851764.jpg?_ex=128x128"
 tags:
   - "トイレ用洗剤"
   - "コスパ"

@@ -6,6 +6,50 @@ publishedAt: "2026-04-29"
 updatedAt: 2026-05-09
 products:
   - rank: 1
+    name: "ライオン CHARMY Magica 除菌＋ プロフェッショナル 無香料 ハーバ"
+    brand: "ライオン（チャーミー）"
+    price: 6165
+    capacity: "8L×3個"
+    pricePerUnit: "約257円/L"
+    rating: 4.77
+    reviewCount: 13
+    features:
+      - "1本あたりの容量が多くコストダウンに貢献"
+      - "電解水と酵素の力で汚れをしっかり落とす"
+      - "ライオン独自の抗菌処方"
+    pros:
+      - "1本の量が多く詰め替え頻度が少ない"
+      - "電解水の力で除菌・消臭が同時にできる"
+      - "価格が安くコストを最小化できる"
+    cons:
+      - "泡立ちはジョイ・キュキュットに比べてやや控えめ"
+      - "特に強い油汚れには追加使用が必要な場合も"
+    recommendedFor: "コストを最小限にしたい方・除菌・消臭も重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F10053002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10053002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/10053002.jpg?_ex=128x128"
+  - rank: 2
+    name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
+    brand: "P&G（ジョイ）"
+    price: 2651
+    capacity: "4L"
+    pricePerUnit: "約663円/L"
+    rating: 4.79
+    reviewCount: 43
+    features:
+      - "コンパクト処方で少量でもよく落ちる"
+      - "食洗機非対応・手洗い専用設計"
+      - "ジョイは洗浄力の強さで国内トップシェア"
+    pros:
+      - "1滴で驚くほどよく落ちるコンパクト処方"
+      - "P&Gブランドの安定した品質"
+      - "泡切れがよく後処理が楽"
+    cons:
+      - "キュキュットより若干価格が高め"
+      - "香りが強めと感じる方も"
+    recommendedFor: "洗浄力最優先の方・油の多い料理をする方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7269456%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10221021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasyakura/7269456.jpg?_ex=128x128"
+  - rank: 3
     name: "【1種類を選べる】キュキュット 食器用洗剤 つめかえ用 ジャンボサイズ 梱販売用"
     brand: "花王（キュキュット）"
     price: 5035
@@ -27,50 +71,6 @@ products:
     recommendedFor: "コスパ重視・油汚れが多い方・衛生面を気にする方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404955%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148566%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/955/404955.jpg?_ex=128x128"
-  - rank: 2
-    name: "ジョイ コンパクト 食器用洗剤 詰め替え 大容量 770mL×2袋"
-    brand: "P&G（ジョイ）"
-    price: 2710
-    capacity: "770mL×2袋（約385回分）"
-    pricePerUnit: "約1.8円/mL"
-    rating: 4.79
-    reviewCount: 43
-    features:
-      - "コンパクト処方で少量でもよく落ちる"
-      - "食洗機非対応・手洗い専用設計"
-      - "ジョイは洗浄力の強さで国内トップシェア"
-    pros:
-      - "1滴で驚くほどよく落ちるコンパクト処方"
-      - "P&Gブランドの安定した品質"
-      - "泡切れがよく後処理が楽"
-    cons:
-      - "キュキュットより若干価格が高め"
-      - "香りが強めと感じる方も"
-    recommendedFor: "洗浄力最優先の方・油の多い料理をする方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7269456%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10221021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasyakura/7269456.jpg?_ex=128x128"
-  - rank: 3
-    name: "チャーミーマジカ 食器用洗剤 詰め替え 超大型 1380mL"
-    brand: "ライオン（チャーミー）"
-    price: 6165
-    capacity: "1380mL（約276回分）"
-    pricePerUnit: "約4.5円/mL"
-    rating: 4.77
-    reviewCount: 13
-    features:
-      - "1本あたりの容量が多くコストダウンに貢献"
-      - "電解水と酵素の力で汚れをしっかり落とす"
-      - "ライオン独自の抗菌処方"
-    pros:
-      - "1本の量が多く詰め替え頻度が少ない"
-      - "電解水の力で除菌・消臭が同時にできる"
-      - "価格が安くコストを最小化できる"
-    cons:
-      - "泡立ちはジョイ・キュキュットに比べてやや控えめ"
-      - "特に強い油汚れには追加使用が必要な場合も"
-    recommendedFor: "コストを最小限にしたい方・除菌・消臭も重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F10053002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10053002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/10053002.jpg?_ex=128x128"
   - rank: 4
     name: "ヤシノミ洗剤 食器・野菜用 詰め替え 540mL"
     brand: "サラヤ（ヤシノミ洗剤）"

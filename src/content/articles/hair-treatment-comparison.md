@@ -6,27 +6,27 @@ publishedAt: "2026-05-04"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
-    brand: "ファイントゥデイ（フィーノ）"
-    price: 2041
-    capacity: "230g"
-    pricePerUnit: "約8.9円/g"
-    rating: 5
-    reviewCount: 10
+    name: "いち髪 ヘアマスク 200g"
+    brand: "クラシエ（いち髪）"
+    price: 990
+    capacity: "200g"
+    pricePerUnit: "約5.0円/g"
+    rating: 4.89
+    reviewCount: 27
     features:
-      - "7種の美容液成分配合で傷んだ髪を集中補修"
-      - "週1〜2回の集中トリートメントタイプ"
-      - "230gの大容量でコスパが良い"
+      - "米ぬか・山椿など和の保湿成分配合"
+      - "日本の水・日本人の髪に合わせた処方"
+      - "なめらかな指通りと自然なツヤを実現"
     pros:
-      - "楽天市場ランキング上位の人気No.1トリートメント"
-      - "1回使うだけでサロン帰りのようなツヤと指通りを実感"
-      - "コスパと効果のバランスが最高水準"
+      - "和成分配合でしっとりまとまる仕上がり"
+      - "日本人の髪質に最適化された処方"
+      - "いち髪シリーズとの相性が良く統一ケアが可能"
     cons:
-      - "毎日使用タイプではなく週1〜2回の集中ケア向け"
-      - "ヘビーな使用感のため細い髪は重くなりすぎることがある"
-    recommendedFor: "カラー・パーマのダメージを集中ケアしたい方・サロン品質を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F2873936011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10607476%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000343/2873936011.jpg?_ex=128x128"
+      - "強いダメージへの即効性はフィーノに劣る"
+      - "1g単価はLUXより高め"
+    recommendedFor: "和成分・自然派ケアにこだわる方・しっとりまとまる仕上がりを好む方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901417618795-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F11969571%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2020a/4901417618795.jpg?_ex=128x128"
   - rank: 2
     name: "LUXスーパーリッチシャイン ダメージリペア 洗い流すトリートメント ヘアマスク"
     brand: "ユニリーバ（LUX）"
@@ -50,28 +50,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prvmn.3rdw683e.g00prvmn.3rdw7a5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwich%2Fluxhairmaskset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwich%2Fi%2F10023186%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wich/cabinet/gazou62/luxhairmaskset-1.jpg?_ex=128x128"
   - rank: 3
-    name: "いち髪 ヘアマスク 200g"
-    brand: "クラシエ（いち髪）"
-    price: 990
-    capacity: "200g"
-    pricePerUnit: "約5.0円/g"
-    rating: 4.89
-    reviewCount: 27
-    features:
-      - "米ぬか・山椿など和の保湿成分配合"
-      - "日本の水・日本人の髪に合わせた処方"
-      - "なめらかな指通りと自然なツヤを実現"
-    pros:
-      - "和成分配合でしっとりまとまる仕上がり"
-      - "日本人の髪質に最適化された処方"
-      - "いち髪シリーズとの相性が良く統一ケアが可能"
-    cons:
-      - "強いダメージへの即効性はフィーノに劣る"
-      - "1g単価はLUXより高め"
-    recommendedFor: "和成分・自然派ケアにこだわる方・しっとりまとまる仕上がりを好む方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901417618795-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F11969571%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2020a/4901417618795.jpg?_ex=128x128"
-  - rank: 4
     name: "パンテーン ミラクルズ ヘアトリートメント 100mL"
     brand: "P&G（パンテーン）"
     price: 1000
@@ -93,6 +71,28 @@ products:
     recommendedFor: "洗い流し不要のアウトバスケアを習慣にしたい方・ドライヤー前の熱ケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987176174048-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461240%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4987176174048.jpg?_ex=128x128"
+  - rank: 4
+    name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
+    brand: "ファイントゥデイ（フィーノ）"
+    price: 2041
+    capacity: "-"
+    pricePerUnit: "-"
+    rating: 5
+    reviewCount: 10
+    features:
+      - "7種の美容液成分配合で傷んだ髪を集中補修"
+      - "週1〜2回の集中トリートメントタイプ"
+      - "230gの大容量でコスパが良い"
+    pros:
+      - "楽天市場ランキング上位の人気No.1トリートメント"
+      - "1回使うだけでサロン帰りのようなツヤと指通りを実感"
+      - "コスパと効果のバランスが最高水準"
+    cons:
+      - "毎日使用タイプではなく週1〜2回の集中ケア向け"
+      - "ヘビーな使用感のため細い髪は重くなりすぎることがある"
+    recommendedFor: "カラー・パーマのダメージを集中ケアしたい方・サロン品質を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F2873936011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10607476%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000343/2873936011.jpg?_ex=128x128"
 tags:
   - "ヘアトリートメント おすすめ"
   - "ヘアマスク コスパ"

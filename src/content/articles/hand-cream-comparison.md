@@ -27,28 +27,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q9fkn.3rdw6d18.g00q9fkn.3rdw7d1e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpupuhima%2Fbea-12947-4901301326324%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpupuhima%2Fi%2F10044017%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pupuhima/cabinet/goq003/24657_1.jpg?_ex=128x128"
   - rank: 2
-    name: "ヴァセリン インテンシブケア ハンドクリーム 60mL"
-    brand: "ユニリーバ（ヴァセリン）"
-    price: 380
-    capacity: "60mL"
-    pricePerUnit: "約6.3円/mL"
-    rating: 4.4
-    reviewCount: 600
-    features:
-      - "ピュアワセリン配合で乾燥した手肌をしっかり保護"
-      - "非コメドジェニックテスト済みで肌に優しい処方"
-      - "パンプス式で衛生的に適量を取り出せる"
-    pros:
-      - "ワセリンベースで高い保湿バリア機能"
-      - "香料・着色料不使用で敏感肌でも使いやすい"
-      - "パンプスタイプで片手でも使いやすい"
-    cons:
-      - "テクスチャーがやや重めで速乾性は低い"
-      - "ニベアと比べると1mL単価が高め"
-    recommendedFor: "乾燥が気になる方・敏感肌の方・バリア機能を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uicnn.3rdw69f9.g00uicnn.3rdw721b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnarushop%2Fvl-8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnarushop%2Fi%2F10000105%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/narushop/cabinet/unilever/vl-7.jpg?_ex=128x128"
-  - rank: 3
     name: "ユースキンA 180g"
     brand: "ユースキン製薬"
     price: 2790
@@ -70,12 +48,34 @@ products:
     recommendedFor: "手荒れ・ひび・あかぎれが気になる方・薬用成分を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00teiqn.3rdw6c4d.g00teiqn.3rdw7ea6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffumichan%2F4987353190618-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffumichan%2Fi%2F10004284%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fumichan/cabinet/07809991/4987353190618-2.jpg?_ex=128x128"
+  - rank: 3
+    name: "ヴァセリン インテンシブケア ハンドクリーム 60mL"
+    brand: "ユニリーバ（ヴァセリン）"
+    price: 380
+    capacity: "60mL"
+    pricePerUnit: "約6.3円/mL"
+    rating: 4.4
+    reviewCount: 600
+    features:
+      - "ピュアワセリン配合で乾燥した手肌をしっかり保護"
+      - "非コメドジェニックテスト済みで肌に優しい処方"
+      - "パンプス式で衛生的に適量を取り出せる"
+    pros:
+      - "ワセリンベースで高い保湿バリア機能"
+      - "香料・着色料不使用で敏感肌でも使いやすい"
+      - "パンプスタイプで片手でも使いやすい"
+    cons:
+      - "テクスチャーがやや重めで速乾性は低い"
+      - "ニベアと比べると1mL単価が高め"
+    recommendedFor: "乾燥が気になる方・敏感肌の方・バリア機能を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uicnn.3rdw69f9.g00uicnn.3rdw721b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnarushop%2Fvl-8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnarushop%2Fi%2F10000105%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/narushop/cabinet/unilever/vl-7.jpg?_ex=128x128"
   - rank: 4
     name: "ケラチナミン コーワ 尿素配合クリーム 30g 120個セット"
     brand: "興和（ケラチナミン）"
     price: 1738
-    capacity: "30g"
-    pricePerUnit: "約58円/g"
+    capacity: "-"
+    pricePerUnit: "-"
     rating: 4.5
     reviewCount: 400
     features:

@@ -6,6 +6,28 @@ publishedAt: "2026-05-01"
 updatedAt: 2026-05-09
 products:
   - rank: 1
+    name: "【訳あり】モンダミン マウスウォッシュ プレミアムケア【モンダミン】[洗口液 口"
+    brand: "アース製薬（モンダミン）"
+    price: 5280
+    capacity: "08L×6個"
+    pricePerUnit: "約110円/L"
+    rating: 4.77
+    reviewCount: 13
+    features:
+      - "3種の殺菌成分でむし歯・歯肉炎・口臭を予防"
+      - "ノンアルコールで低刺激"
+      - "プレミアムミントの爽快感"
+    pros:
+      - "1mLあたり約0.75円で最安クラス"
+      - "ノンアルコールで刺激が少ない"
+      - "大容量1300mLで長く使える"
+    cons:
+      - "殺菌力はリステリンに劣る"
+      - "甘味料の味が好みが分かれる"
+    recommendedFor: "低刺激を求める方・コスパ最優先の方・大容量でまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F73617%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10938988%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/617/73617.jpg?_ex=128x128"
+  - rank: 2
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
     brand: "ジョンソン・エンド・ジョンソン（リステリン）"
     price: 964
@@ -27,7 +49,7 @@ products:
     recommendedFor: "口臭・虫歯予防を徹底したい方・刺激に慣れている方・コスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ukdzn.3rdw666d.g00ukdzn.3rdw7ec6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplant-online%2Fp10605%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplant-online%2Fi%2F10000064%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/plant-online/cabinet/image/p10605_1.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 3
     name: "GUM デンタルリンス ナイトケア 900mL"
     brand: "サンスター（GUM）"
     price: 1038
@@ -49,28 +71,6 @@ products:
     recommendedFor: "朝の口臭が気になる方・就寝中の口内ケアを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10035032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10035032%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin52/4901616010888.jpg?_ex=128x128"
-  - rank: 3
-    name: "モンダミン プレミアムケア 1300mL"
-    brand: "アース製薬（モンダミン）"
-    price: 5280
-    capacity: "1300mL（約2ヶ月分）"
-    pricePerUnit: "約4.1円/mL"
-    rating: 4.77
-    reviewCount: 13
-    features:
-      - "3種の殺菌成分でむし歯・歯肉炎・口臭を予防"
-      - "ノンアルコールで低刺激"
-      - "プレミアムミントの爽快感"
-    pros:
-      - "1mLあたり約0.75円で最安クラス"
-      - "ノンアルコールで刺激が少ない"
-      - "大容量1300mLで長く使える"
-    cons:
-      - "殺菌力はリステリンに劣る"
-      - "甘味料の味が好みが分かれる"
-    recommendedFor: "低刺激を求める方・コスパ最優先の方・大容量でまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F73617%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10938988%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/617/73617.jpg?_ex=128x128"
   - rank: 4
     name: "コンクールF 100mL"
     brand: "ウエルテック（コンクール）"

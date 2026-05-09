@@ -6,28 +6,6 @@ publishedAt: "2026-05-01"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "アイラップ 60枚入×5箱セット"
-    brand: "岩谷マテリアル（アイラップ）"
-    price: 2420
-    capacity: "60枚×5箱（300枚）"
-    pricePerUnit: "約8.1円/枚"
-    rating: 4.79
-    reviewCount: 671
-    features:
-      - "耐熱120℃で湯煎・電子レンジ調理に対応"
-      - "冷凍・冷蔵・常温の保存にマルチに使える"
-      - "袋のまま湯煎調理ができる画期的な万能ポリ袋"
-    pros:
-      - "1枚あたり約3.7円で圧倒的最安"
-      - "湯煎・レンジ対応で調理にも使える"
-      - "SNSで話題の時短調理が手軽に"
-    cons:
-      - "ジッパーがないため密封性はやや劣る"
-      - "液漏れ防止にはクリップ等が必要"
-    recommendedFor: "コスパ最優先の方・湯煎調理に使いたい方・大量消費する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn4on.3rdw6e6d.g00qn4on.3rdw7c3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamayuu%2Fyj-3976%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamayuu%2Fi%2F10020394%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamayuu/cabinet/01023319/04410742/09250753/yj-3976_sam01y.jpg?_ex=128x128"
-  - rank: 2
     name: "ジップロック ストックバッグ L 大容量 32枚入×3箱"
     brand: "旭化成（ジップロック）"
     price: 1350
@@ -49,7 +27,7 @@ products:
     recommendedFor: "冷蔵保存がメインの方・大きめサイズが必要な方・開けやすさ重視の方"
     rakutenUrl: "https://example.com/placeholder/ziploc-stock-l-96"
     imageUrl: "/placeholder/product-4.svg"
-  - rank: 3
+  - rank: 2
     name: "ジップロック フリーザーバッグ M 90枚入"
     brand: "旭化成（ジップロック）"
     price: 1280
@@ -71,7 +49,7 @@ products:
     recommendedFor: "冷凍保存をよくする方・液物を保存したい方・品質重視の方"
     rakutenUrl: "https://example.com/placeholder/ziploc-m-90"
     imageUrl: "/placeholder/product-2.svg"
-  - rank: 4
+  - rank: 3
     name: "業務用 チャック付きポリ袋 B5サイズ 100枚入"
     brand: "業務用"
     price: 8510
@@ -93,6 +71,28 @@ products:
     recommendedFor: "チャック付きでもコスパを追求したい方・食品以外にも使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pwv9n.3rdw663c.g00pwv9n.3rdw7da1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-gallery%2Fds-1530040%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-gallery%2Fi%2F10414572%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-gallery/cabinet/dsproducts/341/0001530040-1.jpg?_ex=128x128"
+  - rank: 4
+    name: "アイラップ 60枚入×5箱セット"
+    brand: "岩谷マテリアル（アイラップ）"
+    price: 2420
+    capacity: "-"
+    pricePerUnit: "-"
+    rating: 4.79
+    reviewCount: 671
+    features:
+      - "耐熱120℃で湯煎・電子レンジ調理に対応"
+      - "冷凍・冷蔵・常温の保存にマルチに使える"
+      - "袋のまま湯煎調理ができる画期的な万能ポリ袋"
+    pros:
+      - "1枚あたり約3.7円で圧倒的最安"
+      - "湯煎・レンジ対応で調理にも使える"
+      - "SNSで話題の時短調理が手軽に"
+    cons:
+      - "ジッパーがないため密封性はやや劣る"
+      - "液漏れ防止にはクリップ等が必要"
+    recommendedFor: "コスパ最優先の方・湯煎調理に使いたい方・大量消費する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn4on.3rdw6e6d.g00qn4on.3rdw7c3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamayuu%2Fyj-3976%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamayuu%2Fi%2F10020394%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamayuu/cabinet/01023319/04410742/09250753/yj-3976_sam01y.jpg?_ex=128x128"
 tags:
   - "フリーザーバッグ"
   - "保存袋"

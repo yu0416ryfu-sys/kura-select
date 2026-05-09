@@ -6,6 +6,28 @@ publishedAt: "2026-05-01"
 updatedAt: 2026-05-09
 products:
   - rank: 1
+    name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.26kg！★【"
+    brand: "グラフィコ（オキシクリーン）"
+    price: 3425
+    capacity: "26kg"
+    pricePerUnit: "約132円/kg"
+    rating: 4.64
+    reviewCount: 1413
+    features:
+      - "酸素系漂白剤で洗濯槽以外にも多用途"
+      - "界面活性剤入りで洗浄力を強化（日本版）"
+      - "コストコ等で大容量も入手可能"
+    pros:
+      - "1回あたり約108円で圧倒的コスパ"
+      - "洗濯槽以外にも風呂・キッチンに使える"
+      - "衣類の漂白にも兼用可能"
+    cons:
+      - "計量が必要で手間がかかる"
+      - "ドラム式では効果が出にくい場合あり"
+    recommendedFor: "コスパ最優先の方・多用途に使いたい方・縦型洗濯機の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F309892sm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0079732773.jpg?_ex=128x128"
+  - rank: 2
     name: "洗濯槽カビキラー 塩素系液体タイプ 550g×3個"
     brand: "ジョンソン（カビキラー）"
     price: 1767
@@ -27,7 +49,7 @@ products:
     recommendedFor: "手軽にカビ対策したい方・塩素系の強力洗浄を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uq8kn.3rdw6894.g00uq8kn.3rdw73cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffree-1121%2Ff0196083ki%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffree-1121%2Fi%2F10029960%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/free-1121/cabinet/imagepic/systempic094/f0196083ki1.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 3
     name: "洗たく槽クリーナー エスケー石鹸 500g×2個"
     brand: "エスケー石鹸"
     price: 3780
@@ -49,28 +71,6 @@ products:
     recommendedFor: "赤ちゃんの衣類を洗う方・環境配慮派・汚れを目で確認したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rl91n.3rdw6dd1.g00rl91n.3rdw7bbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiimonotokusen%2Fesuke-03%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiimonotokusen%2Fi%2F10000090%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iimonotokusen/cabinet/06423142/06423152/06667656/imgrc0077767095.jpg?_ex=128x128"
-  - rank: 3
-    name: "オキシクリーン 1500g"
-    brand: "グラフィコ（オキシクリーン）"
-    price: 3425
-    capacity: "1500g（約10回分）"
-    pricePerUnit: "約2.3円/g"
-    rating: 4.64
-    reviewCount: 1413
-    features:
-      - "酸素系漂白剤で洗濯槽以外にも多用途"
-      - "界面活性剤入りで洗浄力を強化（日本版）"
-      - "コストコ等で大容量も入手可能"
-    pros:
-      - "1回あたり約108円で圧倒的コスパ"
-      - "洗濯槽以外にも風呂・キッチンに使える"
-      - "衣類の漂白にも兼用可能"
-    cons:
-      - "計量が必要で手間がかかる"
-      - "ドラム式では効果が出にくい場合あり"
-    recommendedFor: "コスパ最優先の方・多用途に使いたい方・縦型洗濯機の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F309892sm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0079732773.jpg?_ex=128x128"
   - rank: 4
     name: "パナソニック 洗濯槽クリーナー ドラム式専用 N-W2 750mL"
     brand: "パナソニック"

@@ -28,50 +28,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u7dvn.3rdw6bc7.g00u7dvn.3rdw7a34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuterastar%2Fb0d4z7rrlp-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuterastar%2Fi%2F10002720%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suterastar/cabinet/goq002/1617_1.jpg?_ex=128x128"
   - rank: 2
-    name: "トップ スーパーナノックス ニオイ専用 部屋干し 詰め替え 1510g×6個セット"
-    brand: "ライオン（トップ スーパーナノックス）"
-    price: 18800
-    capacity: "1510g×6個（約363回分）"
-    pricePerUnit: "約2.1円/g"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "ナノ洗浄で繊維の奥の臭い菌まで分解"
-      - "高濃度リフトアウト洗浄で頑固な汚れも落とす"
-      - "全自動洗濯機・ドラム式対応"
-    pros:
-      - "1回あたり約12.9円で最安クラス"
-      - "ナノレベルの洗浄で臭いの原因を根本除去"
-      - "どの洗濯機でも使える汎用性"
-    cons:
-      - "香りが控えめで好みが分かれる"
-      - "頑固な皮脂汚れにはやや弱い場面も"
-    recommendedFor: "最安値を求める方・ドラム式洗濯機ユーザー・部屋干し専用を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4qcn.3rdw6396.g00u4qcn.3rdw78c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatinum-eight%2F425%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatinum-eight%2Fi%2F10000459%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platinum-eight/cabinet/compass1706417618.jpg?_ex=128x128"
-  - rank: 3
-    name: "アリエール ジェルボール4D 部屋干し用 詰め替え 140個入り"
-    brand: "P&G（アリエール）"
-    price: 4398
-    capacity: "140個（140回分）"
-    pricePerUnit: "約31円/個"
-    rating: 4.75
-    reviewCount: 8
-    features:
-      - "4層構造のジェルボールで計量不要"
-      - "抗菌・消臭・洗浄・柔軟の4in1"
-      - "部屋干し24時間でも臭わない"
-    pros:
-      - "ポンと入れるだけで計量不要の手軽さ"
-      - "柔軟剤効果も入った4in1で時短"
-      - "抗菌・消臭力の高い評価"
-    cons:
-      - "1回あたり約31円とコストは高め"
-      - "少量の洗濯物には割高"
-    recommendedFor: "手軽さ重視の方・柔軟剤を別で買いたくない方・ジェルボール派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F10001948%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10001948%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/437423353757726.jpg?_ex=128x128"
-  - rank: 4
     name: "【送料無料】部屋干しトップ 除菌EX つめかえ用"
     brand: "ライオン（トップ）"
     price: 4700
@@ -93,6 +49,50 @@ products:
     recommendedFor: "洗浄力重視の方・小容量でお試ししたい方・食べこぼしが多い家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgean.3rdw65b6.g00tgean.3rdw7d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyyshop-japan%2Fjan-4903301340133-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyyshop-japan%2Fi%2F10015523%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yyshop-japan/cabinet/09361252/4903301340133-10.jpg?_ex=128x128"
+  - rank: 3
+    name: "トップ スーパーナノックス ニオイ専用 部屋干し 詰め替え 1510g×6個セット"
+    brand: "ライオン（トップ スーパーナノックス）"
+    price: 18800
+    capacity: "1510g×6個（約363回分）"
+    pricePerUnit: "約2.1円/g"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "ナノ洗浄で繊維の奥の臭い菌まで分解"
+      - "高濃度リフトアウト洗浄で頑固な汚れも落とす"
+      - "全自動洗濯機・ドラム式対応"
+    pros:
+      - "1回あたり約12.9円で最安クラス"
+      - "ナノレベルの洗浄で臭いの原因を根本除去"
+      - "どの洗濯機でも使える汎用性"
+    cons:
+      - "香りが控えめで好みが分かれる"
+      - "頑固な皮脂汚れにはやや弱い場面も"
+    recommendedFor: "最安値を求める方・ドラム式洗濯機ユーザー・部屋干し専用を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4qcn.3rdw6396.g00u4qcn.3rdw78c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatinum-eight%2F425%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatinum-eight%2Fi%2F10000459%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platinum-eight/cabinet/compass1706417618.jpg?_ex=128x128"
+  - rank: 4
+    name: "アリエール ジェルボール4D 部屋干し用 詰め替え 140個入り"
+    brand: "P&G（アリエール）"
+    price: 4398
+    capacity: "140個（140回分）"
+    pricePerUnit: "約31円/個"
+    rating: 4.75
+    reviewCount: 8
+    features:
+      - "4層構造のジェルボールで計量不要"
+      - "抗菌・消臭・洗浄・柔軟の4in1"
+      - "部屋干し24時間でも臭わない"
+    pros:
+      - "ポンと入れるだけで計量不要の手軽さ"
+      - "柔軟剤効果も入った4in1で時短"
+      - "抗菌・消臭力の高い評価"
+    cons:
+      - "1回あたり約31円とコストは高め"
+      - "少量の洗濯物には割高"
+    recommendedFor: "手軽さ重視の方・柔軟剤を別で買いたくない方・ジェルボール派の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F10001948%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10001948%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/437423353757726.jpg?_ex=128x128"
 tags:
   - "部屋干し"
   - "洗濯洗剤"

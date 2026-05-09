@@ -72,34 +72,33 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F369-3195%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10102400%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin300_05/369-3195.jpg?_ex=128x128"
   - rank: 4
-    name: "【1点限り！令和お試し価格】丸富製紙 ミッフィー トイレットペーパー ダブル 1"
-    brand: "無地・無印刷（エコ仕様）"
-    price: 580
-    capacity: "12ロール"
-    pricePerUnit: "約48円/ロール"
-    rating: 4.71
-    reviewCount: 7
+    name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 4799
+    capacity: "100m×12ロール×4パック"
+    pricePerUnit: "約1.00円/m"
+    rating: 4.66
+    reviewCount: 389
     features:
-      - "100%再生紙使用"
-      - "無地・無印刷でシンプル"
-      - "108mm幅のスタンダードサイズ"
-      - "まとめ買いで長期保存可"
+      - "2倍巻き長尺シングル・花の香り付き"
+      - "48ロールの大容量まとめ買いパック"
+      - "省スペース設計で収納しやすい"
     pros:
-      - "再生紙でも使い心地が気になりにくいダブルタイプ"
-      - "96ロールの大容量で買い物の手間が減る"
-      - "環境負荷が低く日常使いしやすい"
+      - "1mあたりコストが最安値クラス"
+      - "まとめ買いで長期間保管できる"
+      - "スコッティブランドで品質安定"
     cons:
-      - "バージンパルプ製品と比べると若干厚みが劣る場合も"
-      - "大容量のため保管スペースが必要"
-    recommendedFor: "環境を意識しつつコスパも重視したい方・まとめ買い派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902727015670-today202411%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12619846%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2024w/4902727015670.jpg?_ex=128x128"
+      - "保管スペースが必要"
+      - "個人宅には多すぎる場合も"
+    recommendedFor: "大家族・まとめ買い派の方・コスト最優先の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fxh277%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10020157%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/008/main-xh277.jpg?_ex=128x128"
   - rank: 5
     name: "スコッティ フラワーパック 3倍長持ち ダブル"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5980
+    price: 5850
     capacity: "75m×4ロール×12パック（3倍巻き）"
-    pricePerUnit: "約1.7円/m"
+    pricePerUnit: "約1.6円/m"
     rating: 4.76
     reviewCount: 883
     features:
@@ -161,27 +160,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F14495%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10678469%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/495/14495.jpg?_ex=128x128"
   - rank: 8
-    name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
-    brand: "日本製紙クレシア（スコッティ）"
-    price: 4799
-    capacity: "100m×12ロール×4パック"
-    pricePerUnit: "約1.00円/m"
-    rating: 4.66
-    reviewCount: 389
+    name: "【1点限り！令和お試し価格】丸富製紙 ミッフィー トイレットペーパー ダブル 1"
+    brand: "無地・無印刷（エコ仕様）"
+    price: 580
+    capacity: "12ロール"
+    pricePerUnit: "約48円/ロール"
+    rating: 4.71
+    reviewCount: 7
     features:
-      - "2倍巻き長尺シングル・花の香り付き"
-      - "48ロールの大容量まとめ買いパック"
-      - "省スペース設計で収納しやすい"
+      - "100%再生紙使用"
+      - "無地・無印刷でシンプル"
+      - "108mm幅のスタンダードサイズ"
+      - "まとめ買いで長期保存可"
     pros:
-      - "1mあたりコストが最安値クラス"
-      - "まとめ買いで長期間保管できる"
-      - "スコッティブランドで品質安定"
+      - "再生紙でも使い心地が気になりにくいダブルタイプ"
+      - "96ロールの大容量で買い物の手間が減る"
+      - "環境負荷が低く日常使いしやすい"
     cons:
-      - "保管スペースが必要"
-      - "個人宅には多すぎる場合も"
-    recommendedFor: "大家族・まとめ買い派の方・コスト最優先の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fxh277%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10020157%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/008/main-xh277.jpg?_ex=128x128"
+      - "バージンパルプ製品と比べると若干厚みが劣る場合も"
+      - "大容量のため保管スペースが必要"
+    recommendedFor: "環境を意識しつつコスパも重視したい方・まとめ買い派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902727015670-today202411%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12619846%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2024w/4902727015670.jpg?_ex=128x128"
 tags:
   - "トイレットペーパー"
   - "コスパ"

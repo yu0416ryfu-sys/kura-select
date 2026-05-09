@@ -6,28 +6,6 @@ publishedAt: "2026-05-01"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "アイリスオーヤマ 粘着クリーナー スペアテープ 90巻入り"
-    brand: "アイリスオーヤマ"
-    price: 820
-    capacity: "90巻（1巻90周）"
-    pricePerUnit: "約9.1円/巻"
-    rating: 4.78
-    reviewCount: 9
-    features:
-      - "90巻入りの圧倒的大容量パック"
-      - "1巻90周でたっぷり使える"
-      - "斜めカットでめくりやすい"
-    pros:
-      - "1巻あたり約28円で最安クラス"
-      - "大容量なので長期間買い足し不要"
-      - "めくりやすいミシン目入り"
-    cons:
-      - "粘着力は標準的でペットの毛にはやや弱め"
-      - "保管場所のスペースが必要"
-    recommendedFor: "コスパ最優先の方・大容量のまとめ買い派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F528254%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10018584%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/web06/e-net_299166.jpg?_ex=128x128"
-  - rank: 2
     name: "3M スコッチ ブライト 衣類用粘着クリーナー ペタコロ用ス"
     brand: "3M（スコッチ・ブライト）"
     price: 413
@@ -49,7 +27,7 @@ products:
     recommendedFor: "花粉・ハウスダスト対策をしたい方・カーペット中心のお部屋の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tiz9n.3rdw6353.g00tiz9n.3rdw771a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprotoolshop%2F4547452231119%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprotoolshop%2Fi%2F10170127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/protoolshop/cabinet/119/4547452231119.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "レック 激コロ スゴ技カット スペアテープ 3巻入り"
     brand: "レック"
     price: 690
@@ -71,7 +49,7 @@ products:
     recommendedFor: "ペットを飼っている方・カーペットの掃除が多い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ucoln.3rdw667d.g00ucoln.3rdw71eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenicy2022%2Ff671%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenicy2022%2Fi%2F10009158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enicy2022/cabinet/tmb/f/f671.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "ニトムズ コロコロ スペアテープ フロアクリン 3巻入り"
     brand: "ニトムズ"
     price: 4200
@@ -93,6 +71,28 @@ products:
     recommendedFor: "フローリングで使いたい方・めくりやすさを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qw0cn.3rdw6b5c.g00qw0cn.3rdw7b11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhareya%2Fnc2500_5set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhareya%2Fi%2F10000317%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hareya/cabinet/syouhin/daily3/nc4352x5_on.jpg?_ex=128x128"
+  - rank: 4
+    name: "アイリスオーヤマ 粘着クリーナー スペアテープ 90巻入り"
+    brand: "アイリスオーヤマ"
+    price: 820
+    capacity: "-"
+    pricePerUnit: "-"
+    rating: 4.78
+    reviewCount: 9
+    features:
+      - "90巻入りの圧倒的大容量パック"
+      - "1巻90周でたっぷり使える"
+      - "斜めカットでめくりやすい"
+    pros:
+      - "1巻あたり約28円で最安クラス"
+      - "大容量なので長期間買い足し不要"
+      - "めくりやすいミシン目入り"
+    cons:
+      - "粘着力は標準的でペットの毛にはやや弱め"
+      - "保管場所のスペースが必要"
+    recommendedFor: "コスパ最優先の方・大容量のまとめ買い派の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F528254%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10018584%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/web06/e-net_299166.jpg?_ex=128x128"
 tags:
   - "コロコロ おすすめ"
   - "粘着クリーナー コスパ"

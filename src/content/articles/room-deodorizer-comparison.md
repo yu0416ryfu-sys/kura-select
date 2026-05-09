@@ -6,6 +6,30 @@ publishedAt: "2026-05-05"
 updatedAt: 2026-05-09
 products:
   - rank: 1
+    name: "リセッシュ 消臭スプレー 除菌EX デオドラントパワー 香りが残らないタイプ 詰"
+    brand: "花王"
+    price: 603
+    capacity: "680mL"
+    pricePerUnit: "約0.89円/mL"
+    rating: 4.82
+    reviewCount: 11
+    features:
+      - "汗・皮脂臭まで徹底消臭、24時間ニオイ0へ"
+      - "布の奥まで浸透する中和消臭＋皮脂酸化ブロック技術"
+      - "99%除菌＆布製品の防カビ効果"
+      - "香りが残らないタイプ"
+    pros:
+      - "大容量3袋セットでコスパ良好"
+      - "花王の信頼品質で高い消臭力"
+      - "衣類・布製品・空間に幅広く使用可能"
+    cons:
+      - "詰め替え作業が必要で手間"
+      - "保管時に液漏れに注意"
+      - "香りを求める人には不向き"
+    recommendedFor: "布製品の臭い消し・キッチンや玄関にも使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301388544%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10016824%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/544/4901301388544.jpg?_ex=128x128"
+  - rank: 2
     name: "リセッシュ 除菌EX ワイドジェット ストロング 香りが残らないタイプ つめかえ"
     brand: "花王"
     price: 3080
@@ -30,30 +54,6 @@ products:
     recommendedFor: "コスパ重視・まとめ買い派・広いリビングに置きたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F580764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11272901%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/764/580764.jpg?_ex=128x128"
-  - rank: 2
-    name: "リセッシュ 消臭スプレー 除菌EX デオドラントパワー 香りが残らないタイプ 詰"
-    brand: "花王"
-    price: 603
-    capacity: "680mL"
-    pricePerUnit: "約0.89円/mL"
-    rating: 4.82
-    reviewCount: 11
-    features:
-      - "汗・皮脂臭まで徹底消臭、24時間ニオイ0へ"
-      - "布の奥まで浸透する中和消臭＋皮脂酸化ブロック技術"
-      - "99%除菌＆布製品の防カビ効果"
-      - "香りが残らないタイプ"
-    pros:
-      - "大容量3袋セットでコスパ良好"
-      - "花王の信頼品質で高い消臭力"
-      - "衣類・布製品・空間に幅広く使用可能"
-    cons:
-      - "詰め替え作業が必要で手間"
-      - "保管時に液漏れに注意"
-      - "香りを求める人には不向き"
-    recommendedFor: "布製品の臭い消し・キッチンや玄関にも使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301388544%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10016824%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/544/4901301388544.jpg?_ex=128x128"
   - rank: 3
     name: "無香空間 本体 315g"
     brand: "小林製薬"

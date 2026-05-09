@@ -28,28 +28,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhm1n.3rdw621b.g00uhm1n.3rdw7ede/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep0104%2Fichikami-smth%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep0104%2Fi%2F10000229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep0104/cabinet/10645709/11494580/imgrc0187994441.jpg?_ex=128x128"
   - rank: 2
-    name: "【店長のおすすめ 送料無料】 メリット キッズ 泡で出てくるシャンプー ナチュラ"
-    brand: "花王（メリット）"
-    price: 1640
-    capacity: "270mL×3袋"
-    pricePerUnit: "約2.0円/mL"
-    rating: 4.74
-    reviewCount: 128
-    features:
-      - "地肌すっきり成分でフケ・かゆみを防ぐ"
-      - "ノンシリコン処方で地肌にやさしい"
-      - "家族全員で使えるやさしい処方"
-    pros:
-      - "1mLあたり約0.90円で最安クラス"
-      - "大容量1200mLで詰め替え頻度が少ない"
-      - "家族みんなで使えるシンプル処方"
-    cons:
-      - "しっとり感は控えめ"
-      - "ダメージケア効果は弱い"
-    recommendedFor: "家族で使いたい方・地肌ケア重視の方・シンプルなシャンプーを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvt5n.3rdw6d57.g00tvt5n.3rdw7e99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeedy-street%2F4901301314543%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeedy-street%2Fi%2F10000736%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/speedy-street/cabinet/biiino/item/main-image-4/20250528154245_1.jpg?_ex=128x128"
-  - rank: 3
     name: "パンテーン シャンプー 詰め替え エクストラダメージケア"
     brand: "P&G（パンテーン）"
     price: 3980
@@ -71,12 +49,34 @@ products:
     recommendedFor: "ダメージヘアの方・まとまりを求める方・カラーやパーマをしている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tynxn.3rdw6ad8.g00tynxn.3rdw7e17/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkzstore%2F2734-000217%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkzstore%2Fi%2F10000068%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kzstore/cabinet/amayahoo/10812595/imgrc0093288667.jpg?_ex=128x128"
+  - rank: 3
+    name: "【店長のおすすめ 送料無料】 メリット キッズ 泡で出てくるシャンプー ナチュラ"
+    brand: "花王（メリット）"
+    price: 1640
+    capacity: "270mL×3袋"
+    pricePerUnit: "約2.0円/mL"
+    rating: 4.74
+    reviewCount: 128
+    features:
+      - "地肌すっきり成分でフケ・かゆみを防ぐ"
+      - "ノンシリコン処方で地肌にやさしい"
+      - "家族全員で使えるやさしい処方"
+    pros:
+      - "1mLあたり約0.90円で最安クラス"
+      - "大容量1200mLで詰め替え頻度が少ない"
+      - "家族みんなで使えるシンプル処方"
+    cons:
+      - "しっとり感は控えめ"
+      - "ダメージケア効果は弱い"
+    recommendedFor: "家族で使いたい方・地肌ケア重視の方・シンプルなシャンプーを求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvt5n.3rdw6d57.g00tvt5n.3rdw7e99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeedy-street%2F4901301314543%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeedy-street%2Fi%2F10000736%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/speedy-street/cabinet/biiino/item/main-image-4/20250528154245_1.jpg?_ex=128x128"
   - rank: 4
-    name: "LUX スーパーリッチシャイン ダメージリペア シャンプー 詰め替え 660g"
+    name: "LUX ラックス スーパーリッチシャイン ダメージリペア シャンプー 詰替え用 "
     brand: "ユニリーバ（LUX）"
     price: 2480
-    capacity: "660g（約2ヶ月分）"
-    pricePerUnit: "約3.8円/g"
+    capacity: "2kg"
+    pricePerUnit: "約1240円/kg"
     rating: 4.71
     reviewCount: 14
     features:

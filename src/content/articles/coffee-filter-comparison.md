@@ -7,28 +7,6 @@ updatedAt: 2026-05-09
 draft: false
 products:
   - rank: 1
-    name: "キーコーヒー コーヒーフィルター 無漂白 100枚"
-    brand: "キーコーヒー"
-    price: 184
-    capacity: "100枚（2〜4杯用）"
-    pricePerUnit: "約1.8円/枚"
-    rating: 4.92
-    reviewCount: 13
-    features:
-      - "台形型・無漂白パルプ100%の自然素材フィルター"
-      - "タブ付き設計で取り出しやすく衛生的"
-      - "キーコーヒー公式ショップで安心購入可能"
-    pros:
-      - "無漂白でエコ志向・自然素材へのこだわりに応える"
-      - "タブ付きで指を汚さず1枚ずつ取り出せる"
-      - "老舗コーヒーブランドの品質保証"
-    cons:
-      - "無漂白のため若干紙の色が出る場合がある"
-      - "ホワイトタイプと比較して好みが分かれる"
-    recommendedFor: "エコ志向の方・自然素材にこだわりたい方・キーコーヒーブランドを信頼している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fcf0475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10348950%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/syoku/syoku11/cf0475.jpg?_ex=128x128"
-  - rank: 2
     name: "ハリオ V60 ペーパーフィルター みさらし 100枚"
     brand: "ハリオ"
     price: 438
@@ -50,7 +28,7 @@ products:
     recommendedFor: "ハリオV60ドリッパーをお使いの方・スペシャルティコーヒーを楽しみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl5fn.3rdw6571.g00pl5fn.3rdw7e5a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1355-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10001877%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/1300/1355-02-item01.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "【カリタ】コーヒーフィルターみさらし101濾紙1〜2人用/"
     brand: "カリタ"
     price: 209
@@ -72,12 +50,34 @@ products:
     recommendedFor: "カリタのドリッパーを使っている方・コーヒーの味にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ppmon.3rdw6f65.g00ppmon.3rdw7779/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiroshimacoffee%2F426221%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiroshimacoffee%2Fi%2F10000898%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiroshimacoffee/cabinet/ikou_20100212/img10062543083.jpg?_ex=128x128"
+  - rank: 3
+    name: "キーコーヒー コーヒーフィルター 無漂白 100枚"
+    brand: "キーコーヒー"
+    price: 184
+    capacity: "-"
+    pricePerUnit: "-"
+    rating: 4.92
+    reviewCount: 13
+    features:
+      - "台形型・無漂白パルプ100%の自然素材フィルター"
+      - "タブ付き設計で取り出しやすく衛生的"
+      - "キーコーヒー公式ショップで安心購入可能"
+    pros:
+      - "無漂白でエコ志向・自然素材へのこだわりに応える"
+      - "タブ付きで指を汚さず1枚ずつ取り出せる"
+      - "老舗コーヒーブランドの品質保証"
+    cons:
+      - "無漂白のため若干紙の色が出る場合がある"
+      - "ホワイトタイプと比較して好みが分かれる"
+    recommendedFor: "エコ志向の方・自然素材にこだわりたい方・キーコーヒーブランドを信頼している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fcf0475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10348950%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/syoku/syoku11/cf0475.jpg?_ex=128x128"
   - rank: 4
     name: "メリタ アロマフィルター AF-M 100枚"
     brand: "メリタ"
     price: 853
-    capacity: "100枚（1〜2杯用）"
-    pricePerUnit: "約8.5円/枚"
+    capacity: "-"
+    pricePerUnit: "-"
     rating: 4.82
     reviewCount: 17
     features:

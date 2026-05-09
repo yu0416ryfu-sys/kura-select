@@ -31,8 +31,8 @@ products:
     name: "キュキュット 食洗機用洗剤 ウルトラクリーン すっきりシトラスの香り 詰め替え【"
     brand: "花王（キュキュット）"
     price: 1999
-    capacity: "770g"
-    pricePerUnit: "約2.6円/g"
+    capacity: "770g×3袋"
+    pricePerUnit: "約0.87円/g"
     rating: 4.7
     reviewCount: 89
     features:
@@ -50,28 +50,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F555031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11156970%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/031/555031.jpg?_ex=128x128"
   - rank: 3
-    name: "ジョイ ジェルタブ PRO W除菌 食洗機用洗剤"
-    brand: "P&G（ジョイ）"
-    price: 5480
-    capacity: "100個×2袋"
-    pricePerUnit: "約27円/個"
-    rating: 4.55
-    reviewCount: 29
-    features:
-      - "ジェルとパウダーの2層構造で強力洗浄"
-      - "予洗いなしでも油汚れを落とす"
-      - "個包装で計量不要・手が汚れない"
-    pros:
-      - "ポンと入れるだけで計量不要"
-      - "予洗いなしでOKの強力な洗浄力"
-      - "個包装で保管が簡単"
-    cons:
-      - "1回あたりのコストが最も高い"
-      - "少量の食器だけ洗うには割高"
-    recommendedFor: "手軽さ最優先の方・予洗いの手間を省きたい方・洗浄力重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uci6n.3rdw636f.g00uci6n.3rdw7988/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopypp%2F3799-001192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopypp%2Fi%2F10000167%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shopypp/cabinet/192196.jpg?_ex=128x128"
-  - rank: 4
     name: "チャーミー クリスタ 消臭ジェル つめかえ用"
     brand: "ライオン（チャーミークリスタ）"
     price: 8600
@@ -93,6 +71,28 @@ products:
     recommendedFor: "庫内のニオイが気になる方・ジェルタイプが好きな方・低温コースを使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fdish-soap144%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10002035%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item10/dish-soap144-a1.jpg?_ex=128x128"
+  - rank: 4
+    name: "ジョイ ジェルタブ PRO W除菌 食洗機用洗剤"
+    brand: "P&G（ジョイ）"
+    price: 5480
+    capacity: "100個×2袋"
+    pricePerUnit: "約27円/個"
+    rating: 4.55
+    reviewCount: 29
+    features:
+      - "ジェルとパウダーの2層構造で強力洗浄"
+      - "予洗いなしでも油汚れを落とす"
+      - "個包装で計量不要・手が汚れない"
+    pros:
+      - "ポンと入れるだけで計量不要"
+      - "予洗いなしでOKの強力な洗浄力"
+      - "個包装で保管が簡単"
+    cons:
+      - "1回あたりのコストが最も高い"
+      - "少量の食器だけ洗うには割高"
+    recommendedFor: "手軽さ最優先の方・予洗いの手間を省きたい方・洗浄力重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uci6n.3rdw636f.g00uci6n.3rdw7988/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopypp%2F3799-001192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopypp%2Fi%2F10000167%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shopypp/cabinet/192196.jpg?_ex=128x128"
 tags:
   - "食洗機用洗剤"
   - "コスパ"

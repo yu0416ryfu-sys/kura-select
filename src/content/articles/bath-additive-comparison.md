@@ -6,72 +6,6 @@ publishedAt: "2026-05-01"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "バブ 厳選4種類の香りセレクトBOX 56錠"
-    brand: "花王（バブ）"
-    price: 3835
-    capacity: "56錠（56回分）"
-    pricePerUnit: "約68円/錠"
-    rating: 4.6
-    reviewCount: 500
-    features:
-      - "炭酸力が温浴効果を高めて血行促進"
-      - "4種類の香りが楽しめるバラエティセット"
-      - "赤ちゃんと一緒に入浴OK（無着色タイプ）"
-    pros:
-      - "1回あたり約75円でコスパ良好"
-      - "炭酸の温浴効果で体が芯から温まる"
-      - "4種類の香りで飽きがこない"
-    cons:
-      - "香りが控えめで物足りない方も"
-      - "追い焚き機能との相性に注意"
-    recommendedFor: "コスパ重視の方・毎日入浴剤を使いたい方・家族で使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un3nn.3rdw669e.g00un3nn.3rdw7b90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuroku-1%2Figpebstvhfft2z4dc6iwkue5py%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuroku-1%2Fi%2F10126004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuroku-1/cabinet/11689083/28702162_0.jpg?_ex=128x128"
-  - rank: 2
-    name: "バスクリン 大容量 600g×3個"
-    brand: "バスクリン"
-    price: 2465
-    capacity: "30g×82個"
-    pricePerUnit: "約1.0円/g"
-    rating: 4.74
-    reviewCount: 212
-    features:
-      - "温泉ミネラル成分配合で本格的な温浴効果"
-      - "天然の香料を使用した豊かな香り"
-      - "有効成分が温浴効果を高めて疲労回復"
-    pros:
-      - "1回あたり約30円で最安クラス"
-      - "温泉気分が味わえる豊かな香り"
-      - "肩こり・腰痛・冷え性に効果的"
-    cons:
-      - "粉末タイプで溶け残りが気になることがある"
-      - "浴槽の着色が気になる色もある"
-    recommendedFor: "最安値を求める方・温泉気分を楽しみたい方・疲労回復を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sa3qn.3rdw64a4.g00sa3qn.3rdw76a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopavail%2F1789%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopavail%2Fi%2F10001642%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shopavail/cabinet/nichiyouzakka/compass1724032816.jpg?_ex=128x128"
-  - rank: 3
-    name: "【1種類を選べる】きき湯 炭酸湯【きき湯】[炭酸入浴剤 薬用 温泉 風呂 温浴 "
-    brand: "バスクリン（きき湯）"
-    price: 1980
-    capacity: "360g×3"
-    pricePerUnit: "約1.8円/g"
-    rating: 4.87
-    reviewCount: 53
-    features:
-      - "温泉科学に基づいた本格的な薬用入浴剤"
-      - "炭酸ガスが細かい泡で肌を包み込む"
-      - "症状別に選べる豊富なラインナップ"
-    pros:
-      - "温泉科学プロジェクト発の本格処方"
-      - "症状に合わせて選べる（肩こり・腰痛・冷え性）"
-      - "炭酸の泡立ちが心地よい"
-    cons:
-      - "1回あたり約65円とやや高め"
-      - "容量がやや少なめ"
-    recommendedFor: "体の不調を入浴でケアしたい方・本格的な薬用入浴剤を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11231979%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/199/405199.jpg?_ex=128x128"
-  - rank: 4
     name: "エプソムソルト 3kg"
     brand: "シークリスタルス"
     price: 1720
@@ -93,28 +27,94 @@ products:
     recommendedFor: "肌質改善を求める方・無添加志向の方・追い焚きしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r4tyn.3rdw66a6.g00r4tyn.3rdw770c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-epsomsalt%2Fesc-3kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-epsomsalt%2Fi%2F10000221%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-epsomsalt/cabinet/sma_original/imgrc0119581948.jpg?_ex=128x128"
-  - rank: 5
-    name: "入浴剤 福袋 100個セット"
-    brand: "YOU通販"
-    price: 3780
-    capacity: "100個セット"
-    pricePerUnit: "約38円/個"
-    rating: 4.56
-    reviewCount: 9938
+  - rank: 2
+    name: "ヒマラヤ岩塩バスソルト ピンクソルト 訳あり"
+    brand: "アースコンシャス"
+    price: 2139
+    capacity: "3kg（約100回分）"
+    pricePerUnit: "約713円/kg"
+    rating: 4.55
+    reviewCount: 6191
     features:
-      - "日本製の入浴剤を100個詰め合わせた福袋"
-      - "テレビランキング番組1位獲得のロングセラー"
-      - "複数の香り・種類がランダムで楽しめる"
+      - "最高級ヒマラヤ産岩塩100%の天然バスソルト"
+      - "ミネラル豊富で発汗・デトックス効果"
+      - "計量スプーン・オーガンジーポーチ付きで使いやすい"
     pros:
-      - "1個あたり約38円の高コスパ"
-      - "バリエーション豊富で毎日飽きない"
-      - "ギフトや贈り物にも最適"
+      - "3kgの大容量で1回あたり約21円と最安クラス"
+      - "訳あり品でさらにお得に購入できる"
+      - "天然無添加で敏感肌にも安心"
     cons:
-      - "中身が選べないランダムセット"
-      - "沖縄・離島は別途送料が発生"
-    recommendedFor: "コスパ重視の方・毎日入浴剤を使う方・ギフトを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r685n.3rdw6e25.g00r685n.3rdw7405/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyou2han%2F10001336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyou2han%2Fi%2F10001336%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/you2han/cabinet/nyzai/nyu100-20161.jpg?_ex=128x128"
+      - "天然岩塩のため色や粒サイズにばらつきがある"
+      - "追い焚き機能への影響に注意が必要"
+    recommendedFor: "デトックス・発汗を求める方・コスパ重視の方・天然素材派の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpfrn.3rdw65fd.g00qpfrn.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fganentonya%2Fbathsalt-pink-wakeari%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fganentonya%2Fi%2F10000079%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ganentonya/cabinet/00973047/wakep/wp-003_new.jpg?_ex=128x128"
+  - rank: 3
+    name: "バスクリン 大容量 600g×3個"
+    brand: "バスクリン"
+    price: 2465
+    capacity: "30g×82個"
+    pricePerUnit: "約1.0円/g"
+    rating: 4.74
+    reviewCount: 212
+    features:
+      - "温泉ミネラル成分配合で本格的な温浴効果"
+      - "天然の香料を使用した豊かな香り"
+      - "有効成分が温浴効果を高めて疲労回復"
+    pros:
+      - "1回あたり約30円で最安クラス"
+      - "温泉気分が味わえる豊かな香り"
+      - "肩こり・腰痛・冷え性に効果的"
+    cons:
+      - "粉末タイプで溶け残りが気になることがある"
+      - "浴槽の着色が気になる色もある"
+    recommendedFor: "最安値を求める方・温泉気分を楽しみたい方・疲労回復を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sa3qn.3rdw64a4.g00sa3qn.3rdw76a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopavail%2F1789%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopavail%2Fi%2F10001642%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shopavail/cabinet/nichiyouzakka/compass1724032816.jpg?_ex=128x128"
+  - rank: 4
+    name: "エプソムソルト 選べる香り 6個セット"
+    brand: "BASSPA"
+    price: 1480
+    capacity: "150g×6個（900g）"
+    pricePerUnit: "約1.6円/g"
+    rating: 4.43
+    reviewCount: 4270
+    features:
+      - "純度99%以上の硫酸マグネシウム配合"
+      - "好みの香りを6種類から自由に選べる個包装"
+      - "BASSPA公式ストアのお試しサイズ"
+    pros:
+      - "香りが選べるので気分に合わせて楽しめる"
+      - "個包装で使い切りやすく衛生的"
+      - "高純度エプソムソルトでミネラルケア"
+    cons:
+      - "1個150gで1〜2回分程度と少なめ"
+      - "香り付きのため追い焚き・残り湯使用に注意"
+    recommendedFor: "香りを楽しみたい方・エプソムソルト初心者の方・お試しに最適"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tm6bn.3rdw6b3c.g00tm6bn.3rdw7960/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flibertylife%2F201028-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flibertylife%2Fi%2F10000500%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/libertylife/cabinet/sale/11972903/imgrc0092756510.jpg?_ex=128x128"
+  - rank: 5
+    name: "【1種類を選べる】きき湯 炭酸湯【きき湯】[炭酸入浴剤 薬用 温泉 風呂 温浴 "
+    brand: "バスクリン（きき湯）"
+    price: 1980
+    capacity: "360g×3"
+    pricePerUnit: "約1.8円/g"
+    rating: 4.87
+    reviewCount: 53
+    features:
+      - "温泉科学に基づいた本格的な薬用入浴剤"
+      - "炭酸ガスが細かい泡で肌を包み込む"
+      - "症状別に選べる豊富なラインナップ"
+    pros:
+      - "温泉科学プロジェクト発の本格処方"
+      - "症状に合わせて選べる（肩こり・腰痛・冷え性）"
+      - "炭酸の泡立ちが心地よい"
+    cons:
+      - "1回あたり約65円とやや高め"
+      - "容量がやや少なめ"
+    recommendedFor: "体の不調を入浴でケアしたい方・本格的な薬用入浴剤を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11231979%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/199/405199.jpg?_ex=128x128"
   - rank: 6
     name: "水素入浴剤 アッシュアンド"
     brand: "SUISOSUM"
@@ -138,28 +138,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00szo9n.3rdw677a.g00szo9n.3rdw7c42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuisosum-shop%2Fhakusui%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuisosum-shop%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suisosum-shop/cabinet/h_/pc_01/750g/hakusui_sa_62.jpg?_ex=128x128"
   - rank: 7
-    name: "ヒマラヤ岩塩バスソルト ピンクソルト 訳あり"
-    brand: "アースコンシャス"
-    price: 2139
-    capacity: "3kg（約100回分）"
-    pricePerUnit: "約713円/kg"
-    rating: 4.55
-    reviewCount: 6191
-    features:
-      - "最高級ヒマラヤ産岩塩100%の天然バスソルト"
-      - "ミネラル豊富で発汗・デトックス効果"
-      - "計量スプーン・オーガンジーポーチ付きで使いやすい"
-    pros:
-      - "3kgの大容量で1回あたり約21円と最安クラス"
-      - "訳あり品でさらにお得に購入できる"
-      - "天然無添加で敏感肌にも安心"
-    cons:
-      - "天然岩塩のため色や粒サイズにばらつきがある"
-      - "追い焚き機能への影響に注意が必要"
-    recommendedFor: "デトックス・発汗を求める方・コスパ重視の方・天然素材派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpfrn.3rdw65fd.g00qpfrn.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fganentonya%2Fbathsalt-pink-wakeari%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fganentonya%2Fi%2F10000079%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ganentonya/cabinet/00973047/wakep/wp-003_new.jpg?_ex=128x128"
-  - rank: 8
     name: "木酢液 紀州備長炭 原液"
     brand: "紀州びお和歌山"
     price: 1400
@@ -181,29 +159,7 @@ products:
     recommendedFor: "冷え性・肌荒れが気になる方・自然派志向の方・フットケアも一緒にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqr3n.3rdw62f5.g00qqr3n.3rdw7e06/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkisyubio-wakayama%2Fmokusaku06%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkisyubio-wakayama%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kisyubio-wakayama/cabinet/imgrc0101345136.jpg?_ex=128x128"
-  - rank: 9
-    name: "エプソムソルト 選べる香り 6個セット"
-    brand: "BASSPA"
-    price: 1480
-    capacity: "150g×6個（900g）"
-    pricePerUnit: "約1.6円/g"
-    rating: 4.43
-    reviewCount: 4270
-    features:
-      - "純度99%以上の硫酸マグネシウム配合"
-      - "好みの香りを6種類から自由に選べる個包装"
-      - "BASSPA公式ストアのお試しサイズ"
-    pros:
-      - "香りが選べるので気分に合わせて楽しめる"
-      - "個包装で使い切りやすく衛生的"
-      - "高純度エプソムソルトでミネラルケア"
-    cons:
-      - "1個150gで1〜2回分程度と少なめ"
-      - "香り付きのため追い焚き・残り湯使用に注意"
-    recommendedFor: "香りを楽しみたい方・エプソムソルト初心者の方・お試しに最適"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tm6bn.3rdw6b3c.g00tm6bn.3rdw7960/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flibertylife%2F201028-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flibertylife%2Fi%2F10000500%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/libertylife/cabinet/sale/11972903/imgrc0092756510.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 8
     name: "【送料無料】 精油"
     brand: "花の日"
     price: 1980
@@ -225,6 +181,50 @@ products:
     recommendedFor: "アロマ入浴を楽しみたい方・ギフトを探している方・複数の香りを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q31ln.3rdw669d.g00q31ln.3rdw709c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftonyatonya%2Fset2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftonyatonya%2Fi%2F10000050%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tonyatonya/cabinet/item/4honset500x500.jpg?_ex=128x128"
+  - rank: 9
+    name: "入浴剤 福袋 100個セット"
+    brand: "YOU通販"
+    price: 3780
+    capacity: "100個セット"
+    pricePerUnit: "約38円/個"
+    rating: 4.56
+    reviewCount: 9938
+    features:
+      - "日本製の入浴剤を100個詰め合わせた福袋"
+      - "テレビランキング番組1位獲得のロングセラー"
+      - "複数の香り・種類がランダムで楽しめる"
+    pros:
+      - "1個あたり約38円の高コスパ"
+      - "バリエーション豊富で毎日飽きない"
+      - "ギフトや贈り物にも最適"
+    cons:
+      - "中身が選べないランダムセット"
+      - "沖縄・離島は別途送料が発生"
+    recommendedFor: "コスパ重視の方・毎日入浴剤を使う方・ギフトを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r685n.3rdw6e25.g00r685n.3rdw7405/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyou2han%2F10001336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyou2han%2Fi%2F10001336%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/you2han/cabinet/nyzai/nyu100-20161.jpg?_ex=128x128"
+  - rank: 10
+    name: "バブ 厳選4種類の香りセレクトBOX 56錠"
+    brand: "花王（バブ）"
+    price: 4273
+    capacity: "56錠（56回分）"
+    pricePerUnit: "約76円/錠"
+    rating: 4.6
+    reviewCount: 500
+    features:
+      - "炭酸力が温浴効果を高めて血行促進"
+      - "4種類の香りが楽しめるバラエティセット"
+      - "赤ちゃんと一緒に入浴OK（無着色タイプ）"
+    pros:
+      - "1回あたり約75円でコスパ良好"
+      - "炭酸の温浴効果で体が芯から温まる"
+      - "4種類の香りで飽きがこない"
+    cons:
+      - "香りが控えめで物足りない方も"
+      - "追い焚き機能との相性に注意"
+    recommendedFor: "コスパ重視の方・毎日入浴剤を使いたい方・家族で使う方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un3nn.3rdw669e.g00un3nn.3rdw7b90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuroku-1%2Figpebstvhfft2z4dc6iwkue5py%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuroku-1%2Fi%2F10126004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuroku-1/cabinet/11689083/28702162_0.jpg?_ex=128x128"
 tags:
   - "入浴剤"
   - "コスパ"

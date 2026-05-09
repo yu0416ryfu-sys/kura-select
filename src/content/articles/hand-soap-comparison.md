@@ -6,11 +6,11 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "ビオレu 泡ハンドソープ 詰め替え 大容量 800mL×2袋"
+    name: "ビオレ泡4リットル ビオレu　泡ハンドソープ"
     brand: "花王（ビオレu）"
     price: 2950
-    capacity: "800mL×2袋（約400回分）"
-    pricePerUnit: "約1.8円/mL"
+    capacity: "2L×2本"
+    pricePerUnit: "約738円/L"
     rating: 4.68
     reviewCount: 234
     features:

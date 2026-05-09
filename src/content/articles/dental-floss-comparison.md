@@ -6,27 +6,27 @@ publishedAt: "2026-05-03"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "GUM デンタルフロス 550m"
-    brand: "サンスター（GUM）"
-    price: 280
-    capacity: "550m"
-    pricePerUnit: "約0.51円/m"
-    rating: 4.64
-    reviewCount: 58
+    name: "小林製薬 糸ようじ フロス&ピック デンタルフロス 60本入"
+    brand: "小林製薬（糸ようじ）"
+    price: 770
+    capacity: "60本入"
+    pricePerUnit: "約13円/本"
+    rating: 4.6
+    reviewCount: 114
     features:
-      - "550mの超大容量でまとめ買い不要"
-      - "歯の形に沿うフラット糸で汚れをしっかりかき出す"
-      - "ワックス加工で歯と歯の間に通しやすい"
+      - "フロスとピックが一体化した2Way設計"
+      - "60本入の大容量でコスパが良い"
+      - "フロス側で食べかす・ピック側で大きな詰まりを除去"
     pros:
-      - "1m約1.4円と群を抜くコスパの良さ"
-      - "550mで約1年分（1日50cm使用の場合）が1本でまかなえる"
-      - "ワックス付きで歯間が狭い方でも通しやすい"
+      - "フロスとピックが1本で使えて収納・携帯がコンパクト"
+      - "60本入でまとめ買いに適した大容量"
+      - "国内シェアNo.1の実績ある定番商品"
     cons:
-      - "フォルダーなしの糸タイプのため指への巻き付けに慣れが必要"
-      - "移動中や外出先では使いにくい"
-    recommendedFor: "毎日フロスを使う方・コスパ最優先でまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0409_p5100/kirikae3/28528.jpg?_ex=128x128"
+      - "糸タイプのロールフロスよりも1本単価は高め"
+      - "フロスの長さが短く1回で使える範囲が限られる"
+    recommendedFor: "手軽にフロスを始めたい方・外出先でも使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa003200200606%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10123742%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/895/4987072025895.jpg?_ex=128x128"
   - rank: 2
     name: "ライオン クリニカ アドバンテージ フロス Y字タイプ"
     brand: "ライオン（クリニカ）"
@@ -50,28 +50,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301203896%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10013302%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic201404/4903301203896_1.jpg?_ex=128x128"
   - rank: 3
-    name: "小林製薬 糸ようじ フロス&ピック デンタルフロス 60本入"
-    brand: "小林製薬（糸ようじ）"
-    price: 770
-    capacity: "60本入"
-    pricePerUnit: "約13円/本"
-    rating: 4.6
-    reviewCount: 114
-    features:
-      - "フロスとピックが一体化した2Way設計"
-      - "60本入の大容量でコスパが良い"
-      - "フロス側で食べかす・ピック側で大きな詰まりを除去"
-    pros:
-      - "フロスとピックが1本で使えて収納・携帯がコンパクト"
-      - "60本入でまとめ買いに適した大容量"
-      - "国内シェアNo.1の実績ある定番商品"
-    cons:
-      - "糸タイプのロールフロスよりも1本単価は高め"
-      - "フロスの長さが短く1回で使える範囲が限られる"
-    recommendedFor: "手軽にフロスを始めたい方・外出先でも使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa003200200606%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10123742%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/895/4987072025895.jpg?_ex=128x128"
-  - rank: 4
     name: "デンタルプロ 歯間ブラシ 4【more30】【デンタルプロ】"
     brand: "デンタルプロ"
     price: 467
@@ -93,6 +71,28 @@ products:
     recommendedFor: "歯間ブラシを初めて使う方・歯周病ケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fd412800h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10014395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/634/4973227834634.jpg?_ex=128x128"
+  - rank: 4
+    name: "GUM デンタルフロス 550m"
+    brand: "サンスター（GUM）"
+    price: 280
+    capacity: "550m"
+    pricePerUnit: "約0.51円/m"
+    rating: 4.64
+    reviewCount: 58
+    features:
+      - "550mの超大容量でまとめ買い不要"
+      - "歯の形に沿うフラット糸で汚れをしっかりかき出す"
+      - "ワックス加工で歯と歯の間に通しやすい"
+    pros:
+      - "1m約1.4円と群を抜くコスパの良さ"
+      - "550mで約1年分（1日50cm使用の場合）が1本でまかなえる"
+      - "ワックス付きで歯間が狭い方でも通しやすい"
+    cons:
+      - "フォルダーなしの糸タイプのため指への巻き付けに慣れが必要"
+      - "移動中や外出先では使いにくい"
+    recommendedFor: "毎日フロスを使う方・コスパ最優先でまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0409_p5100/kirikae3/28528.jpg?_ex=128x128"
 tags:
   - "デンタルフロス おすすめ"
   - "歯間ブラシ コスパ"

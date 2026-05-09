@@ -50,28 +50,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F601325%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11330382%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/325/601325.jpg?_ex=128x128"
   - rank: 3
-    name: "パンテーン エクストラダメージケア トリートメントコンディショナー 詰め替え 超特大 950g"
-    brand: "P&G（パンテーン）"
-    price: 421
-    capacity: "950g（約3ヶ月分）"
-    pricePerUnit: "約0.44円/g"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "プロビタミン処方で毛先までダメージ補修"
-      - "濃厚トリートメント級のうるおい"
-      - "枝毛・切れ毛を防いでなめらかな髪へ"
-    pros:
-      - "ダメージケア効果が高い"
-      - "トリートメント不要なほどしっとり"
-      - "世界的ブランドの安定した品質"
-    cons:
-      - "コスパは中程度"
-      - "しっとりしすぎると感じる方もいる"
-    recommendedFor: "ダメージヘアの方・まとまりを求める方・カラーやパーマをしている方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F2873444011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10570891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000212/2873444011.jpg?_ex=128x128"
-  - rank: 4
     name: "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア"
     brand: "ユニリーバ（LUX）"
     price: 299
@@ -93,6 +71,28 @@ products:
     recommendedFor: "ツヤ髪を目指す方・香りを楽しみたい方・パサつきが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902111773964-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2023a/4902111773964.jpg?_ex=128x128"
+  - rank: 4
+    name: "パンテーン エクストラダメージケア トリートメントコンディショナー 詰め替え 超特大 950g"
+    brand: "P&G（パンテーン）"
+    price: 421
+    capacity: "-"
+    pricePerUnit: "-"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "プロビタミン処方で毛先までダメージ補修"
+      - "濃厚トリートメント級のうるおい"
+      - "枝毛・切れ毛を防いでなめらかな髪へ"
+    pros:
+      - "ダメージケア効果が高い"
+      - "トリートメント不要なほどしっとり"
+      - "世界的ブランドの安定した品質"
+    cons:
+      - "コスパは中程度"
+      - "しっとりしすぎると感じる方もいる"
+    recommendedFor: "ダメージヘアの方・まとまりを求める方・カラーやパーマをしている方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F2873444011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10570891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000212/2873444011.jpg?_ex=128x128"
 tags:
   - "コンディショナー"
   - "コスパ"
