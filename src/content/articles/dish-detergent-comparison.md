@@ -72,6 +72,116 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404955%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148566%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/955/404955.jpg?_ex=128x128"
   - rank: 4
+    name: "パックス 200番 台所用石けん 詰替用 2300mL×2本 2本セット"
+    brand: "太陽油脂"
+    price: 4550
+    capacity: "2300mL×2本"
+    pricePerUnit: "約0.99円/mL"
+    rating: 4.62
+    reviewCount: 52
+    features:
+      - "台所用石けんの大容量詰め替えセット"
+      - "液体タイプで日常の食器洗いに使いやすい"
+      - "業務用や家族用のストックに向く容量"
+    pros:
+      - "詰め替え頻度を減らしやすい"
+      - "石けん系洗剤をまとめて使いたい家庭に向いている"
+      - "ボトルを再利用しやすく在庫管理もしやすい"
+    cons:
+      - "保管スペースを確保する必要がある"
+      - "石けん系特有の使用感は好みが分かれる"
+    recommendedFor: "台所用石けんを大容量でまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pk2an.3rdw647a.g00pk2an.3rdw7456/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuyeki%2F395%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fuyeki%2Fi%2F10000474%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/uyeki/cabinet/syohin1/item01/packs/pax200_set2.jpg?_ex=128x128"
+  - rank: 5
+    name: "マジックリン キッチン用洗剤 ハンディスプレー 付け替え 400mL"
+    brand: "マジックリン"
+    price: 441
+    capacity: "400mL"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.62
+    reviewCount: 53
+    features:
+      - "キッチンの油汚れ掃除に使うスプレー洗剤"
+      - "付け替え用で本体ボトルを再利用しやすい"
+      - "コンロまわりなどの掃除に使いやすい"
+    pros:
+      - "食器洗いとは別に油汚れ掃除を強化できる"
+      - "定番ブランドで買い足ししやすい"
+      - "付け替えタイプでストックしやすい"
+    cons:
+      - "食器用洗剤ではなく掃除用洗剤"
+      - "食器や調理器具への使用可否は表示確認が必要"
+    recommendedFor: "キッチン掃除用の洗剤も一緒に比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000989%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10122732%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/179/4901301036179.jpg?_ex=128x128"
+  - rank: 6
+    name: "IVORY DISH SOAP クラシック 食器用洗剤 709mL"
+    brand: "IVORY"
+    price: 980
+    capacity: "709mL"
+    pricePerUnit: "約1.4円/mL"
+    rating: 4.79
+    reviewCount: 56
+    features:
+      - "海外ブランドの大容量食器用洗剤"
+      - "濃縮タイプで油汚れに使いやすい"
+      - "クラシックな香りと使用感が特徴"
+    pros:
+      - "海外洗剤の使用感を試したい方に向いている"
+      - "容量が多く日常の食器洗いに使いやすい"
+      - "ボトルの見た目にこだわりたい方にも選びやすい"
+    cons:
+      - "香りの好みが分かれやすい"
+      - "国内定番品と比べて詰め替え運用しにくい"
+    recommendedFor: "海外ブランドの食器用洗剤を使ってみたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q931n.3rdw6861.g00q931n.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftida-market%2F768628%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftida-market%2Fi%2F10000063%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tida-market/cabinet/ivorydishsoap.jpg?_ex=128x128"
+  - rank: 7
+    name: "daily キッチンクリーナー 400mL"
+    brand: "daily"
+    price: 1100
+    capacity: "400mL"
+    pricePerUnit: "約2.8円/mL"
+    rating: 4.54
+    reviewCount: 114
+    features:
+      - "キッチンまわりの拭き掃除に使える中性クリーナー"
+      - "無香料で二度拭き不要の設計"
+      - "コンロやIHまわりの掃除に使いやすい"
+    pros:
+      - "食器洗い後のキッチン掃除までまとめて整えやすい"
+      - "インテリアになじみやすいボトルを選びたい方に向く"
+      - "拭きムラを抑えて日常掃除に使いやすい"
+    cons:
+      - "食器用洗剤ではなくキッチン掃除用"
+      - "食器洗いのコスパ比較対象としては用途が異なる"
+    recommendedFor: "食器洗い後のキッチン掃除用品もそろえたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tds6n.3rdw611c.g00tds6n.3rdw70ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdailymukuri%2Fhg0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdailymukuri%2Fi%2F10000006%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dailymukuri/cabinet/06704639/imgrc0099846037.jpg?_ex=128x128"
+  - rank: 8
+    name: "フロッシュ 食器用洗剤 スポンジワイプ ギフトセット"
+    brand: "Frosch"
+    price: 1307
+    capacity: "300mL"
+    pricePerUnit: "約4.4円/mL"
+    rating: 4.49
+    reviewCount: 244
+    features:
+      - "フロッシュ食器用洗剤とスポンジワイプのセット"
+      - "引越し挨拶や内祝いに使いやすいギフト構成"
+      - "のしやバッグ付きで手渡ししやすい"
+    pros:
+      - "実用的なキッチン消耗品を贈れる"
+      - "見た目も整ったギフトにしやすい"
+      - "ナチュラル系洗剤を好む相手に合わせやすい"
+    cons:
+      - "普段使いのコスパ比較では不利になりやすい"
+      - "洗剤の種類や香りは購入時の確認が必要"
+    recommendedFor: "食器用洗剤をちょっとした贈り物にしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q9yfn.3rdw673f.g00q9yfn.3rdw70cd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flugh%2Ffrs0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flugh%2Fi%2F10000109%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lugh/cabinet/frosch/frs0055new3.jpg?_ex=128x128"
+  - rank: 9
     name: "ヤシノミ洗剤 食器・野菜用 詰め替え 540mL"
     brand: "サラヤ（ヤシノミ洗剤）"
     price: 2769
@@ -93,6 +203,94 @@ products:
     recommendedFor: "敏感肌・手荒れが心配な方・食材も洗いたい方・エコ志向の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqv2n.3rdw6222.g00uqv2n.3rdw7c45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fastershop%2Fbomdykhfin55h3inene676douq%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fastershop%2Fi%2F10191599%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/astershop/cabinet/11876517/33242660_1.jpg?_ex=128x128"
+  - rank: 10
+    name: "キッチンエネロ 食器用固形洗剤 3個セット"
+    brand: "キッチンエネロ"
+    price: 2828
+    capacity: "3個セット"
+    pricePerUnit: "約943円/個"
+    rating: 4.62
+    reviewCount: 103
+    features:
+      - "日本製の固形食器用洗剤"
+      - "油汚れやフライパン洗いにも使いやすい"
+      - "無リンタイプで日常使いしやすい"
+    pros:
+      - "固形タイプで長持ちしやすい"
+      - "液だれしにくくシンクまわりをすっきり保ちやすい"
+      - "まとめ買いでストックしやすい"
+    cons:
+      - "液体洗剤より泡立てに慣れが必要"
+      - "置き場所や水切れに注意が必要"
+    recommendedFor: "固形洗剤で食器洗いコストを抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t6ndn.3rdw641d.g00t6ndn.3rdw78d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvictortradingnetshop%2F001-283%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvictortradingnetshop%2Fi%2F10000304%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/victortradingnetshop/cabinet/biiino/item/main-image-2/20260330161410_1.jpg?_ex=128x128"
+  - rank: 11
+    name: "ミスターQ 固形洗剤"
+    brand: "ミスターQ"
+    price: 1880
+    capacity: "1個"
+    pricePerUnit: "約1880円/個"
+    rating: 4.33
+    reviewCount: 201
+    features:
+      - "食器やキッチンまわりに使える日本製固形洗剤"
+      - "無香料・無リン・無着色タイプ"
+      - "M・Lサイズや複数個セットを選べる"
+    pros:
+      - "用途を広げて使える固形洗剤を探している方に向く"
+      - "無香料で食器洗いにも使いやすい"
+      - "液だれしにくくキッチンに置きやすい"
+    cons:
+      - "サイズや個数の選択肢を確認して購入する必要がある"
+      - "液体洗剤より泡立てに手間を感じる場合がある"
+    recommendedFor: "無香料の固形洗剤をキッチンで使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uigun.3rdw6b41.g00uigun.3rdw7f9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmisterq-soap%2Fmisterq001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmisterq-soap%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/misterq-soap/cabinet/misterq/top02.jpg?_ex=128x128"
+  - rank: 12
+    name: "エネロ キッチンエネロ 固形食器用洗剤 350g"
+    brand: "KAMINAGA"
+    price: 1320
+    capacity: "350g"
+    pricePerUnit: "約3.8円/g"
+    rating: 4.52
+    reviewCount: 58
+    features:
+      - "業務用としても使いやすい固形食器用洗剤"
+      - "無リン・無香料タイプ"
+      - "吸盤付きでシンクまわりに置きやすい"
+    pros:
+      - "弁当箱やグラスなど幅広い食器に使いやすい"
+      - "無香料で食器への香り移りが気になりにくい"
+      - "固形タイプをしっかり試したい方に向いている"
+    cons:
+      - "固形洗剤に慣れていないと泡立て方に差が出やすい"
+      - "水に濡れたまま放置すると減りが早くなりやすい"
+    recommendedFor: "無香料の固形食器用洗剤を使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhk9n.3rdw61cf.g00uhk9n.3rdw7497/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaminagaonline%2F99883180-05%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaminagaonline%2Fi%2F10000007%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaminagaonline/cabinet/biiino/item/main-image/20251226104726_1.jpg?_ex=128x128"
+  - rank: 13
+    name: "サンサンスポンジ キッチンスポンジ 固形食器用洗剤セット"
+    brand: "サンサンスポンジ"
+    price: 1000
+    capacity: "洗剤100g"
+    pricePerUnit: "0円/g"
+    rating: 4.36
+    reviewCount: 428
+    features:
+      - "キッチンスポンジと固形食器用洗剤のセット"
+      - "固形洗剤を試しやすいお試し構成"
+      - "シンプルなキッチン用品でそろえやすい"
+    pros:
+      - "液体洗剤以外の使い心地を試せる"
+      - "スポンジとの相性を同時に確認できる"
+      - "省スペースで置きやすい固形タイプ"
+    cons:
+      - "液体洗剤に慣れていると使い方に差を感じやすい"
+      - "洗剤量はストック向きではない"
+    recommendedFor: "固形食器用洗剤を初めて試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r384n.3rdw62f6.g00r384n.3rdw76df/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdainichi-corp%2F10000017-1000set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdainichi-corp%2Fi%2F10000216%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dainichi-corp/cabinet/nsp/11608270/imgrc0107219701.jpg?_ex=128x128"
 tags:
   - "食器用洗剤"
   - "コスパ"

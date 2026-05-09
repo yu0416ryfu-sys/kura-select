@@ -6,72 +6,28 @@ publishedAt: "2026-05-01"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "8x4 パウダースプレー 無香料 150g"
-    brand: "花王（8×4）"
-    price: 492
-    capacity: "150g"
-    pricePerUnit: "約3.3円/g"
-    rating: 5
-    reviewCount: 2
+    name: "クリニーク フォー メン アンティ パースパイラント デオドラント ロールオン N 75mL"
+    brand: "CLINIQUE"
+    price: 4950
+    capacity: "75mL"
+    pricePerUnit: "約66円/mL"
+    rating: 4.72
+    reviewCount: 661
     features:
-      - "殺菌成分配合でニオイの原因菌を抑制"
-      - "パウダー配合で肌をサラサラに保つ"
-      - "150gの大容量で長持ち"
+      - "メンズ向けのロールオン制汗デオドラント"
+      - "汗やニオイが気になるワキに直接塗れる"
+      - "75mL入りで日常ケアに使いやすい"
     pros:
-      - "150gの大容量で圧倒的コスパ"
-      - "無香料で場所を選ばず使える"
-      - "パウダーでベタつかないさらっとした使用感"
+      - "身だしなみケアとして取り入れやすい"
+      - "スプレーの飛び散りを避けたい方に向いている"
+      - "ブランド感がありプレゼント用途にも合わせやすい"
     cons:
-      - "スプレータイプで周囲に飛散する"
-      - "持続時間はやや短め（4〜6時間）"
-    recommendedFor: "コスパ重視の方・手軽にサッと使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4901301333834%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10462163%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0064/4901301333834_1.jpg?_ex=128x128"
+      - "乾くまで衣類を着るタイミングに注意が必要"
+      - "広範囲に素早く使うならスプレーの方が楽"
+    recommendedFor: "男性向けのロールオン制汗剤を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s54yn.3rdw6a20.g00s54yn.3rdw7634/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclinique%2F6933%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclinique%2Fi%2F10000172%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/clinique/cabinet/thumb/260509_mara_p/6933.jpg?_ex=128x128"
   - rank: 2
-    name: "エージーデオ24 パウダースプレー 無香料 180g"
-    brand: "資生堂（Ag DEO 24）"
-    price: 1808
-    capacity: "180g"
-    pricePerUnit: "約10円/g"
-    rating: 4.5
-    reviewCount: 100
-    features:
-      - "銀含有アパタイトがニオイ菌を殺菌"
-      - "24時間ずっとニオイケアできる持続処方"
-      - "180gの大容量スプレー"
-    pros:
-      - "殺菌力が高く汗のニオイを長時間抑える"
-      - "180gの大容量で家族で使える"
-      - "肌にやさしいヒアルロン酸パウダー配合"
-    cons:
-      - "スプレー缶のため飛行機への持ち込み制限あり"
-      - "香り付きタイプと間違いやすい"
-    recommendedFor: "ニオイケアを長時間持続させたい方・大容量で家族共有したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00umkyn.3rdw6eac.g00umkyn.3rdw7d2b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fburiruby%2Fplwduu6zfep6pqvwj6ico43byu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fburiruby%2Fi%2F10800028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/buriruby/cabinet/12709467/39781338_1.jpg?_ex=128x128"
-  - rank: 3
-    name: "デオナチュレ ソフトストーンW【デオナチュレ】"
-    brand: "シービック（デオナチュレ）"
-    price: 2970
-    capacity: "20g×3個"
-    pricePerUnit: "約50円/g"
-    rating: 4.82
-    reviewCount: 266
-    features:
-      - "天然アルム石（ミョウバン）が有効成分"
-      - "スティックタイプで直塗りできる"
-      - "朝ひと塗りで夜まで効果が持続"
-    pros:
-      - "制汗・防臭の持続力がトップクラス"
-      - "スティック式で適量を簡単に塗れる"
-      - "無香料・無着色で肌にやさしい"
-    cons:
-      - "20gで容量が少なく単価は高め"
-      - "ワキ以外の広い部位には使いにくい"
-    recommendedFor: "制汗力・持続力を最優先する方・朝のケアだけで済ませたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F84667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10965528%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/667/84667.jpg?_ex=128x128"
-  - rank: 4
     name: "Ban 汗ブロックロールオン プレミアムラベル 40mL"
     brand: "ライオン（Ban）"
     price: 2723
@@ -93,6 +49,292 @@ products:
     recommendedFor: "ワキ汗をしっかり抑えたい方・制汗力重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5nyn.3rdw649e.g00u5nyn.3rdw7766/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnrfonline%2Fnrfdb87f906a9%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnrfonline%2Fi%2F10125429%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nrfonline/cabinet/onesell725/nrfdb87f906a9_0.jpg?_ex=128x128"
+  - rank: 3
+    name: "クデオ ジェルクリーム 30mL"
+    brand: "クデオ"
+    price: 3300
+    capacity: "30mL"
+    pricePerUnit: "約110円/mL"
+    rating: 4.4
+    reviewCount: 2116
+    features:
+      - "ジェルクリームタイプのワキ向けデオドラント"
+      - "子どもから大人まで使いやすい設計"
+      - "脇汗や足のニオイ対策にも使いやすい"
+    pros:
+      - "クリームタイプで気になる部分へ密着させやすい"
+      - "スプレーの飛び散りが気になる場面でも使いやすい"
+      - "ピンポイントで塗れるため使用量を調整しやすい"
+    cons:
+      - "手で塗る場合は使用後の手洗いが必要"
+      - "広範囲に素早く使う用途にはやや手間がかかる"
+    recommendedFor: "ワキのニオイを重点的にケアしたい方・クリームタイプが好みの方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru6ln.3rdw63ec.g00ru6ln.3rdw7083/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhigh-touch%2Fqdeo-0001-a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhigh-touch%2Fi%2F10000044%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/high-touch/cabinet/q01/q01_thum1_v7.jpg?_ex=128x128"
+  - rank: 4
+    name: "クデオ ジェルクリーム ロールオン 30mL"
+    brand: "クデオ"
+    price: 3300
+    capacity: "30mL"
+    pricePerUnit: "約110円/mL"
+    rating: 4.5
+    reviewCount: 409
+    features:
+      - "ロールオンで塗れるジェルクリームタイプ"
+      - "手を汚しにくくワキへ直塗りしやすい"
+      - "脇汗や脇のニオイ対策に使いやすい"
+    pros:
+      - "クリームの密着感とロールオンの手軽さを両立"
+      - "外出前でも短時間で塗りやすい"
+      - "子どもや家族用としても選びやすい"
+    cons:
+      - "ロール部分の衛生管理に注意が必要"
+      - "広い範囲には塗り広げにくい"
+    recommendedFor: "手を汚さずにワキケアしたい方・直塗りタイプが好みの方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru6ln.3rdw63ec.g00ru6ln.3rdw7083/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhigh-touch%2Fqdeo-0010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhigh-touch%2Fi%2F10000218%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/high-touch/cabinet/q10/q10_thum_v3.jpg?_ex=128x128"
+  - rank: 5
+    name: "パースピレックス コンフォート 20mL×2個 2個セット"
+    brand: "Perspirex"
+    price: 4790
+    capacity: "20mL×2個"
+    pricePerUnit: "約120円/mL"
+    rating: 4.29
+    reviewCount: 663
+    features:
+      - "敏感肌向けのロールオン制汗デオドラント"
+      - "無香料で使いやすい海外製アイテム"
+      - "2個セットでストックしやすい"
+    pros:
+      - "香りを残したくない場面でも使いやすい"
+      - "継続使用する方のまとめ買いに向いている"
+      - "ロールオンで必要な部位に塗りやすい"
+    cons:
+      - "海外製のため使用感や刺激の相性確認が必要"
+      - "初回は単品で試したい方には量が多い"
+    recommendedFor: "無香料のロールオン制汗剤をまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sx68n.3rdw6b00.g00sx68n.3rdw7236/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenbasket%2Fuk-perspirexcom20ml-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenbasket%2Fi%2F10000042%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/product_uk/ukproduct/perspirexnew/imgrc0098357565.jpg?_ex=128x128"
+  - rank: 6
+    name: "パースピレックス オリジナル 20mL×2個 2個セット"
+    brand: "Perspirex"
+    price: 4790
+    capacity: "20mL×2個"
+    pricePerUnit: "約120円/mL"
+    rating: 4.41
+    reviewCount: 469
+    features:
+      - "オリジナルタイプのロールオン制汗デオドラント"
+      - "無香料で汗とニオイのケアに使いやすい"
+      - "2個セットで継続使用に向いている"
+    pros:
+      - "しっかり制汗したい方の候補にしやすい"
+      - "ストックを切らさず使いやすいセット内容"
+      - "香水や柔軟剤の香りを邪魔しにくい"
+    cons:
+      - "肌が敏感な方は使用頻度に注意が必要"
+      - "初めて使う場合はまとめ買いが多く感じる"
+    recommendedFor: "無香料の海外ロールオン制汗剤を継続したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sx68n.3rdw6b00.g00sx68n.3rdw7236/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenbasket%2Fuk-perspirexorg20ml-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenbasket%2Fi%2F10000046%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/product_uk/ukproduct/perspirexnew/imgrc0098357570.jpg?_ex=128x128"
+  - rank: 7
+    name: "8x4 パウダースプレー 無香料 150g"
+    brand: "花王（8×4）"
+    price: 492
+    capacity: "150g"
+    pricePerUnit: "約3.3円/g"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "殺菌成分配合でニオイの原因菌を抑制"
+      - "パウダー配合で肌をサラサラに保つ"
+      - "150gの大容量で長持ち"
+    pros:
+      - "150gの大容量で圧倒的コスパ"
+      - "無香料で場所を選ばず使える"
+      - "パウダーでベタつかないさらっとした使用感"
+    cons:
+      - "スプレータイプで周囲に飛散する"
+      - "持続時間はやや短め（4〜6時間）"
+    recommendedFor: "コスパ重視の方・手軽にサッと使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4901301333834%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10462163%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0064/4901301333834_1.jpg?_ex=128x128"
+  - rank: 8
+    name: "エージーデオ24 パウダースプレー 無香料 180g"
+    brand: "資生堂（Ag DEO 24）"
+    price: 1808
+    capacity: "180g"
+    pricePerUnit: "約10円/g"
+    rating: 4.5
+    reviewCount: 100
+    features:
+      - "銀含有アパタイトがニオイ菌を殺菌"
+      - "24時間ずっとニオイケアできる持続処方"
+      - "180gの大容量スプレー"
+    pros:
+      - "殺菌力が高く汗のニオイを長時間抑える"
+      - "180gの大容量で家族で使える"
+      - "肌にやさしいヒアルロン酸パウダー配合"
+    cons:
+      - "スプレー缶のため飛行機への持ち込み制限あり"
+      - "香り付きタイプと間違いやすい"
+    recommendedFor: "ニオイケアを長時間持続させたい方・大容量で家族共有したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00umkyn.3rdw6eac.g00umkyn.3rdw7d2b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fburiruby%2Fplwduu6zfep6pqvwj6ico43byu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fburiruby%2Fi%2F10800028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/buriruby/cabinet/12709467/39781338_1.jpg?_ex=128x128"
+  - rank: 9
+    name: "勉強堂 デオドラントクリーム 50g"
+    brand: "勉強堂"
+    price: 1800
+    capacity: "50g"
+    pricePerUnit: "約36円/g"
+    rating: 4.37
+    reviewCount: 1295
+    features:
+      - "クリームタイプの医薬部外品デオドラント"
+      - "ワキガやワキ汗対策向けの処方"
+      - "50g入りで部分使いしやすい"
+    pros:
+      - "気になる部分に厚みを調整して塗りやすい"
+      - "制汗クリームを探している方の候補にしやすい"
+      - "スプレー音や飛散が気になる場所でも使いやすい"
+    cons:
+      - "塗布後のべたつきが気になる場合がある"
+      - "朝の時短ケアではスプレーより手間に感じやすい"
+    recommendedFor: "クリームでワキ汗・ニオイ対策をしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq6xn.3rdw6fac.g00pq6xn.3rdw73f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenkyo%2F4580392000254%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenkyo%2Fi%2F10145514%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/benkyo/cabinet/02562713_3/4580392000254.jpg?_ex=128x128"
+  - rank: 10
+    name: "【送料無料・まとめ買い"
+    brand: "シービック（デオナチュレ）"
+    price: 4647
+    capacity: "20g×4"
+    pricePerUnit: "約58円/g"
+    rating: 4.76
+    reviewCount: 174
+    features:
+      - "天然アルム石（ミョウバン）が有効成分"
+      - "スティックタイプで直塗りできる"
+      - "朝ひと塗りで夜まで効果が持続"
+    pros:
+      - "制汗・防臭の持続力がトップクラス"
+      - "スティック式で適量を簡単に塗れる"
+      - "無香料・無着色で肌にやさしい"
+    cons:
+      - "20gで容量が少なく単価は高め"
+      - "ワキ以外の広い部位には使いにくい"
+    recommendedFor: "制汗力・持続力を最優先する方・朝のケアだけで済ませたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4971825011747-004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10017245%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/vic202001/imgrc0076856241.jpg?_ex=128x128"
+  - rank: 11
+    name: "Lady Speed Stick レディスピードスティック デオドラント 制汗剤"
+    brand: "Lady Speed Stick"
+    price: 913
+    capacity: "6g"
+    pricePerUnit: "約152円/g"
+    rating: 4.49
+    reviewCount: 940
+    features:
+      - "海外ブランドのスティック型デオドラント"
+      - "複数の香りから選べるラインナップ"
+      - "39.6g入りで持ち運びしやすい"
+    pros:
+      - "香り付きのデオドラントを楽しみたい方に向いている"
+      - "スティック型で塗る量を調整しやすい"
+      - "ポーチやバッグに入れやすいサイズ感"
+    cons:
+      - "香りの好みが分かれやすい"
+      - "無香料派には向きにくい"
+    recommendedFor: "香り付きの海外デオドラントを試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q931n.3rdw6861.g00q931n.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftida-market%2F871455%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftida-market%2Fi%2F10000265%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tida-market/cabinet/lss.jpg?_ex=128x128"
+  - rank: 12
+    name: "オドレミスト 制汗デオドラント"
+    brand: "オドレミスト"
+    price: 2637
+    capacity: "2本"
+    pricePerUnit: "約1319円/本"
+    rating: 4.39
+    reviewCount: 2361
+    features:
+      - "スプレーや詰め替えなど複数タイプから選べる制汗剤"
+      - "ワキ・足まわりなど汗が気になる部位に使いやすい"
+      - "無香料タイプで日常使いしやすい"
+    pros:
+      - "使い方に合わせて本体や詰め替えを選べる"
+      - "香りでごまかさない汗対策をしたい方に向いている"
+      - "家族で使い分けしやすいラインナップ"
+    cons:
+      - "選択肢が多く購入時にタイプ確認が必要"
+      - "肌質によっては使用感の相性が分かれる"
+    recommendedFor: "無香料の制汗ケアを探している方・詰め替え運用したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q95kn.3rdw6551.g00q95kn.3rdw745a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaichan%2F4573181180015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaichan%2Fi%2F10001336%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daichan/cabinet/odoremist/10th/imgrc0131757620.jpg?_ex=128x128"
+  - rank: 13
+    name: "オドレミスト 2本セット"
+    brand: "オドレミスト"
+    price: 3900
+    capacity: "2本"
+    pricePerUnit: "約1950円/本"
+    rating: 4.56
+    reviewCount: 709
+    features:
+      - "オドレミストをまとめて用意できる2本セット"
+      - "スプレーと詰め替えなど組み合わせを選べる"
+      - "無香料で日常の汗対策に使いやすい"
+    pros:
+      - "家用と持ち歩き用で分けて使いやすい"
+      - "継続使用する方のストックに向いている"
+      - "単品購入より買い足しの手間を減らせる"
+    cons:
+      - "初めて使う場合は単品より相性確認がしにくい"
+      - "選択タイプを間違えないよう確認が必要"
+    recommendedFor: "オドレミストを継続使用したい方・家族で分けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q95kn.3rdw6551.g00q95kn.3rdw745a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaichan%2F4573181180015-2set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaichan%2Fi%2F10001371%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daichan/cabinet/odoremist/10th/imgrc0131757621.jpg?_ex=128x128"
+  - rank: 14
+    name: "薬用デオマックス デオダブルマックス"
+    brand: "デオマックス"
+    price: 1980
+    capacity: "4個"
+    pricePerUnit: "約495円/個"
+    rating: 4.21
+    reviewCount: 540
+    features:
+      - "体臭や汗のニオイ対策向けの薬用デオドラント"
+      - "ワキ・足・頭皮など幅広い部位のケアを想定"
+      - "無香料タイプで日常使いしやすい"
+    pros:
+      - "部位を限定せずニオイケアしたい方に選びやすい"
+      - "ボディーソープ系のケアと組み合わせやすい"
+      - "家族で使うデオドラント候補にしやすい"
+    cons:
+      - "商品タイプの確認をしてから選ぶ必要がある"
+      - "ピンポイントの制汗目的なら専用ロールオンの方が選びやすい"
+    recommendedFor: "体臭ケアを広めに考えたい方・無香料を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq23n.3rdw669a.g00qq23n.3rdw7ddc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwitchery%2Fitem22-sale02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwitchery%2Fi%2F10000376%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/witchery/cabinet/gazou/deowmaxsv9bk.jpg?_ex=128x128"
+  - rank: 15
+    name: "クリニーク アンティ パースパイラント デオドラント ロールオン N 75mL"
+    brand: "CLINIQUE"
+    price: 0
+    capacity: "75mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ロールオンでワキに直接塗れる制汗デオドラント"
+      - "汗とニオイのケアを重視した医薬部外品"
+      - "持ち運びしやすいボトルタイプ"
+    pros:
+      - "狙った部位に塗りやすく外出前のケアに使いやすい"
+      - "香りが強いスプレーが苦手な方でも選びやすい"
+      - "ブランド品としてギフト用途にも合わせやすい"
+    cons:
+      - "乾くまで少し待つ必要がある"
+      - "広い範囲へ一度に使う用途には向きにくい"
+    recommendedFor: "ロールオンでしっかり汗対策したい方・ブランド品を選びたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/clinique/5678/"
+    imageUrl: ""
 tags:
   - "制汗剤 おすすめ"
   - "デオドラント コスパ"
