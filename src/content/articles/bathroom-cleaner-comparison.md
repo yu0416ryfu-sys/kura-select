@@ -1,99 +1,11 @@
 ---
 title: "お風呂用洗剤 コスパ最強ランキング【2026年版】カビ取り・防カビで比較"
-description: "お風呂用洗剤を1回あたりのコストで徹底比較。バスマジックリン・ルック・カビキラー・ウタマロの人気10選を洗浄力・コスパで解説します。"
+description: "お風呂用洗剤を1回あたりのコストで徹底比較。バスマジックリン・ルック・カビキラー・ウタマロの人気11選を洗浄力・コスパで解説します。"
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "カビキラー 特大サイズ 本体 1000g"
-    brand: "ジョンソン（カビキラー）"
-    price: 784
-    capacity: "1000g（約100回分）"
-    pricePerUnit: "約0.78円/g"
-    rating: 4.6
-    reviewCount: 53
-    features:
-      - "強力な塩素系成分でカビの根まで除去"
-      - "スプレーして5分待つだけで黒カビを漂白"
-      - "ゴムパッキン・タイル目地にも効果的"
-    pros:
-      - "カビ取り効果は圧倒的No.1"
-      - "黒カビを根こそぎ除去できる"
-      - "特大サイズでたっぷり使える"
-    cons:
-      - "塩素系のため刺激臭が強い"
-      - "換気が必須で安全面に注意が必要"
-    recommendedFor: "黒カビに悩んでいる方・ゴムパッキンのカビを取りたい方・強力なカビ取りが必要な方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10099450%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/148/4901609000148.jpg?_ex=128x128"
-  - rank: 2
-    name: "エコメイト 風呂釜クリーナー 6個セット"
-    brand: "木村石鹸工業"
-    price: 7722
-    capacity: "300g×6個（18回分）"
-    pricePerUnit: "約4.3円/g"
-    rating: 4.6
-    reviewCount: 379
-    features:
-      - "植物由来100%のエコ風呂釜クリーナーお得6個セット"
-      - "一つ穴・二つ穴両対応の万能風呂釜洗浄剤"
-      - "18回分の大容量で約1年半分をまとめ買い"
-    pros:
-      - "6個まとめ買いで1回あたりのコストが最安"
-      - "天然成分でパイプへのダメージが少ない"
-      - "定期的な風呂釜メンテで配管の詰まり予防"
-    cons:
-      - "初期費用がやや高め（約7,000円）"
-      - "保管スペースが必要"
-    recommendedFor: "定期的に風呂釜洗浄をしている方・まとめ買いでコストを下げたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F659544%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000660%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/ecomate_hgc_05.jpg?_ex=128x128"
-  - rank: 3
-    name: "エコメイト 風呂釜クリーナー"
-    brand: "木村石鹸工業"
-    price: 1386
-    capacity: "300g（3回分）"
-    pricePerUnit: "約4.6円/g"
-    rating: 4.55
-    reviewCount: 325
-    features:
-      - "植物由来100%で風呂釜の内部汚れを洗浄"
-      - "一つ穴・二つ穴どちらにも対応"
-      - "1個からお試しできる少量タイプ"
-    pros:
-      - "まず試してみたい方に最適な1個入り"
-      - "エコ成分で浴槽・配管を傷めない"
-      - "使い方がシンプルで扱いやすい"
-    cons:
-      - "単品購入は1回あたりのコストがやや高め"
-      - "3回分のみなので継続使用には複数購入が必要"
-    recommendedFor: "風呂釜クリーナーを初めて試す方・少量でお試ししたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F457870%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000636%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/eco02/4935137900434_01.jpg?_ex=128x128"
-  - rank: 4
-    name: "エコメイト 風呂釜クリーナー 3個セット"
-    brand: "木村石鹸工業"
-    price: 4158
-    capacity: "300g×3個（9回分）"
-    pricePerUnit: "約4.6円/g"
-    rating: 4.2
-    reviewCount: 665
-    features:
-      - "13年以上の実績を持つ植物由来の風呂釜クリーナー"
-      - "一つ穴・二つ穴両対応でほぼすべての風呂釜に使える"
-      - "天然成分100%でエコかつ洗浄力も確か"
-    pros:
-      - "植物由来で環境と体に優しい"
-      - "3個セットでまとめ買いコスパが良い"
-      - "24時間浸け置きで風呂釜の奥まで洗浄"
-    cons:
-      - "化学系クリーナーより洗浄力はおだやか"
-      - "1回分300gと使用量が多め"
-    recommendedFor: "自然派洗剤派の方・定期的に風呂釜洗浄したい方・エコ洗剤を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100000031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000033%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/ecomate_hgc_03.jpg?_ex=128x128"
-  - rank: 5
     name: "ルックプラス バスタブクレンジング 銀イオンプラス ハーバルグリーン 詰替サイズ"
     brand: "ライオン（ルック）"
     price: 3262
@@ -115,7 +27,7 @@ products:
     recommendedFor: "最安値を求める方・浴槽掃除がメインの方・すすぎの楽さを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F85253%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10966194%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/253/85253.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 2
     name: "バスマジックリン エアジェット 除菌EX ハーバルクリアの香り つめかえ用"
     brand: "花王（バスマジックリン）"
     price: 722
@@ -137,7 +49,7 @@ products:
     recommendedFor: "こすらず掃除したい方・コスパ重視の方・毎日の日常洗いに"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301453242%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10028927%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/242/4901301453242.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 3
     name: "東邦　ウタマロ クリーナー"
     brand: "東邦（ウタマロ）"
     price: 470
@@ -159,7 +71,117 @@ products:
     recommendedFor: "ナチュラル洗剤派の方・1本で家中掃除したい方・手肌にやさしい洗剤を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4904766130215%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10003963%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pp/4904766130215.jpg?_ex=128x128"
+  - rank: 4
+    name: "カビ取り一発 液体カビ取り洗浄剤 2L"
+    brand: "おそうじキレイ"
+    price: 2999
+    capacity: "2L"
+    pricePerUnit: "約1500円/L"
+    rating: 4.63
+    reviewCount: 108
+    features:
+      - "業務用の液体カビ取り洗浄剤で浴室のカビ汚れに対応"
+      - "たっぷり使える2L容量で広い範囲の掃除に使いやすい"
+      - "壁・浴槽まわり・ぬめりが気になる場所の集中掃除向け"
+    pros:
+      - "2Lの大容量で浴室全体のカビ取りに使いやすい"
+      - "業務用タイプで頑固なカビ汚れ対策に向く"
+      - "浴室以外の壁紙や壁クロスまわりにも使える商品設計"
+    cons:
+      - "強力タイプのため使用場所と換気に注意が必要"
+      - "日常の軽い掃除には容量が多く感じる場合がある"
+    recommendedFor: "浴室の頑固なカビをまとめて掃除したい方・大容量のカビ取り剤を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quomn.3rdw6fd3.g00quomn.3rdw7ac8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosouji-kis%2Fkabi-ekitai2000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosouji-kis%2Fi%2F10000218%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osouji-kis/cabinet/motogazou/kabi/ek2000a.gif?_ex=128x128"
+  - rank: 5
+    name: "カビキラー 特大サイズ 本体 1000g"
+    brand: "ジョンソン（カビキラー）"
+    price: 784
+    capacity: "1000g（約100回分）"
+    pricePerUnit: "約0.78円/g"
+    rating: 4.6
+    reviewCount: 53
+    features:
+      - "強力な塩素系成分でカビの根まで除去"
+      - "スプレーして5分待つだけで黒カビを漂白"
+      - "ゴムパッキン・タイル目地にも効果的"
+    pros:
+      - "カビ取り効果は圧倒的No.1"
+      - "黒カビを根こそぎ除去できる"
+      - "特大サイズでたっぷり使える"
+    cons:
+      - "塩素系のため刺激臭が強い"
+      - "換気が必須で安全面に注意が必要"
+    recommendedFor: "黒カビに悩んでいる方・ゴムパッキンのカビを取りたい方・強力なカビ取りが必要な方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10099450%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/148/4901609000148.jpg?_ex=128x128"
+  - rank: 6
+    name: "エコメイト 風呂釜クリーナー 6個セット"
+    brand: "木村石鹸工業"
+    price: 7722
+    capacity: "300g×6個（18回分）"
+    pricePerUnit: "約4.3円/g"
+    rating: 4.6
+    reviewCount: 379
+    features:
+      - "植物由来100%のエコ風呂釜クリーナーお得6個セット"
+      - "一つ穴・二つ穴両対応の万能風呂釜洗浄剤"
+      - "18回分の大容量で約1年半分をまとめ買い"
+    pros:
+      - "6個まとめ買いで1回あたりのコストが最安"
+      - "天然成分でパイプへのダメージが少ない"
+      - "定期的な風呂釜メンテで配管の詰まり予防"
+    cons:
+      - "初期費用がやや高め（約7,000円）"
+      - "保管スペースが必要"
+    recommendedFor: "定期的に風呂釜洗浄をしている方・まとめ買いでコストを下げたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F659544%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000660%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/ecomate_hgc_05.jpg?_ex=128x128"
+  - rank: 7
+    name: "エコメイト 風呂釜クリーナー"
+    brand: "木村石鹸工業"
+    price: 1386
+    capacity: "300g（3回分）"
+    pricePerUnit: "約4.6円/g"
+    rating: 4.55
+    reviewCount: 325
+    features:
+      - "植物由来100%で風呂釜の内部汚れを洗浄"
+      - "一つ穴・二つ穴どちらにも対応"
+      - "1個からお試しできる少量タイプ"
+    pros:
+      - "まず試してみたい方に最適な1個入り"
+      - "エコ成分で浴槽・配管を傷めない"
+      - "使い方がシンプルで扱いやすい"
+    cons:
+      - "単品購入は1回あたりのコストがやや高め"
+      - "3回分のみなので継続使用には複数購入が必要"
+    recommendedFor: "風呂釜クリーナーを初めて試す方・少量でお試ししたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F457870%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000636%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/eco02/4935137900434_01.jpg?_ex=128x128"
   - rank: 8
+    name: "エコメイト 風呂釜クリーナー 3個セット"
+    brand: "木村石鹸工業"
+    price: 4158
+    capacity: "300g×3個（9回分）"
+    pricePerUnit: "約4.6円/g"
+    rating: 4.2
+    reviewCount: 665
+    features:
+      - "13年以上の実績を持つ植物由来の風呂釜クリーナー"
+      - "一つ穴・二つ穴両対応でほぼすべての風呂釜に使える"
+      - "天然成分100%でエコかつ洗浄力も確か"
+    pros:
+      - "植物由来で環境と体に優しい"
+      - "3個セットでまとめ買いコスパが良い"
+      - "24時間浸け置きで風呂釜の奥まで洗浄"
+    cons:
+      - "化学系クリーナーより洗浄力はおだやか"
+      - "1回分300gと使用量が多め"
+    recommendedFor: "自然派洗剤派の方・定期的に風呂釜洗浄したい方・エコ洗剤を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100000031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000033%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/ecomate_hgc_03.jpg?_ex=128x128"
+  - rank: 9
     name: "マグネットバスルームクリーニングツールホルダー タワー"
     brand: "山崎実業"
     price: 1760
@@ -181,7 +203,7 @@ products:
     recommendedFor: "バスルームの整理整頓をしたい方・掃除道具の収納に悩んでいる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s670n.3rdw613d.g00s670n.3rdw79ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbathroom%2Fyj-4976%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbathroom%2Fi%2F10003422%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bathroom/cabinet/0001/04521919/yj-4976_sam01b.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "風呂釜クリヤ"
     brand: "CLEAR CHEMICAL"
     price: 506
@@ -203,7 +225,7 @@ products:
     recommendedFor: "風呂釜クリーナーを低価格でお試ししたい方・コスパ優先の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rcwen.3rdw614e.g00rcwen.3rdw7d63/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamano%2F70-101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamano%2Fi%2F10000105%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamano/cabinet/syouhinn/hurogama/item/c_furogama_sku.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 11
     name: "マグネットバスルームクリーニングツールホルダー タワー"
     brand: "山崎実業"
     price: 0
