@@ -628,9 +628,9 @@ async function main() {
 
         // 機能3: 容量差異の自動修正
         // Item/Get は同一商品確定のため差異があれば即更新、Search は誤ヒット防止のため5%超のみ更新
-        if (capacity && data.name) {
+        if (data.name) {
           const extractedCap = extractCapacityFromItemName(data.name);
-          if (extractedCap) {
+          if (capacity && extractedCap) {
             const oldTotal = extractCapacityTotal(capacity);
             const newTotal = extractCapacityTotal(extractedCap);
             // 単位比較は大文字小文字を無視（"mL" と "ml" を同一視）
@@ -658,6 +658,11 @@ async function main() {
                 : newPricePerUnit;
               console.log(`🔄 容量修正（解析不能→置換）: "${capacity}" → "${extractedCap}", name → "${updates.newName}"`);
             }
+          } else if (!extractedCap && method === '[Item/Get]') {
+            // 同一商品を確定取得できたのに容量が読めない場合は、不明として明示する。
+            updates.newCapacity = '-';
+            updates.pricePerUnit = '-';
+            console.log(`⚠ 容量取得不可: capacity / pricePerUnit を "-" に変更`);
           }
         }
 

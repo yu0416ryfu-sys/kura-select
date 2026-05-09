@@ -477,7 +477,7 @@ export function reorderProductsByPricePerUnit(
   });
 
   const validBlocks = blockInfos.filter(b => b.ppuValue !== Infinity);
-  if (validBlocks.length <= 1) return { content, changed: false, log: [] };
+  if (validBlocks.length === 0) return { content, changed: false, log: [] };
 
   const groups = new Map<string, typeof validBlocks>();
   for (const block of validBlocks) {

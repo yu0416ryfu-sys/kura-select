@@ -6,94 +6,6 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
-    brand: "ライオン（hadakara）"
-    price: 732
-    capacity: "800mL（約100回分）"
-    pricePerUnit: "約0.92円/mL"
-    rating: 4.51
-    reviewCount: 195
-    features:
-      - "吸着保湿技術で洗い上がりしっとり"
-      - "肌に保湿成分が残る独自処方"
-      - "サラサラ仕上がりでベタつかない"
-    pros:
-      - "1mLあたり約0.87円で最安クラス"
-      - "洗い上がりの保湿感が長続き"
-      - "べたつかないサラサラ仕上がり"
-    cons:
-      - "泡立ちにはスポンジ等が必要"
-      - "さっぱり派にはやや保湿感が強い"
-    recommendedFor: "保湿重視の方・乾燥肌の方・コスパと保湿を両立したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs40n.3rdw6e75.g00qs40n.3rdw7092/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fladies-online-shop%2F10021895%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fladies-online-shop%2Fi%2F10021895%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ladies-online-shop/cabinet/okashi/mo58077154.jpg?_ex=128x128"
-  - rank: 2
-    name: "ビオレu ザ ボディ 泡タイプ 詰め替え 800mL×2袋"
-    brand: "花王（ビオレu）"
-    price: 1980
-    capacity: "800mL×2袋（約400回分）"
-    pricePerUnit: "約1.24円/mL"
-    rating: 4.62
-    reviewCount: 287
-    features:
-      - "素肌と同じ弱酸性で肌にやさしい"
-      - "きめ細かい泡で摩擦を軽減"
-      - "保湿成分シアバター・濃グリセリン配合"
-    pros:
-      - "弱酸性で子どもにも使える"
-      - "泡タイプで泡立ての手間不要"
-      - "大容量でコスパ抜群"
-    cons:
-      - "さっぱり系のため冬場はやや物足りない"
-      - "泡の持続力がやや短い"
-    recommendedFor: "家族で使いたい方・敏感肌の方・泡タイプが好きな方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11166894%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/032/405032.jpg?_ex=128x128"
-  - rank: 3
-    name: "BOTANIST ボタニカル ボディーソープ サクラとバニラの香り"
-    brand: "BOTANIST"
-    price: 1100
-    capacity: "490mL"
-    pricePerUnit: "約2.2円/mL"
-    rating: 4.43
-    reviewCount: 2070
-    features:
-      - "季節限定のサクラとバニラの香り"
-      - "保湿や乾燥肌ケアを意識したボディウォッシュ"
-      - "低刺激処方で家族でも使いやすい"
-    pros:
-      - "香りを楽しみながら全身を洗える"
-      - "人気ブランドで購入しやすい"
-      - "1本1,100円で日常使いしやすい"
-    cons:
-      - "限定の香りは時期により入手しにくい"
-      - "香りが苦手な方には合わない場合がある"
-    recommendedFor: "香りも重視したい方・乾燥肌向けのボディソープを探す方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r23nn.3rdw64a0.g00r23nn.3rdw7ccf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobe-beauty-labo%2Fbota-bodysoap-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkobe-beauty-labo%2Fi%2F10000263%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/1st_thum/bota-bodysoap-01_d.jpg?_ex=128x128"
-  - rank: 4
-    name: "ミノン 全身シャンプー 泡タイプ 詰め替え 400mL×3袋"
-    brand: "第一三共ヘルスケア（ミノン）"
-    price: 2993
-    capacity: "400mL×3袋（約300回分）"
-    pricePerUnit: "約2.5円/mL"
-    rating: 4.76
-    reviewCount: 89
-    features:
-      - "製薬会社開発の薬用処方"
-      - "植物性アミノ酸系洗浄成分100%"
-      - "赤ちゃんから大人まで全身に使える"
-    pros:
-      - "アミノ酸系で肌への刺激が最小限"
-      - "皮膚科医も推奨する低刺激処方"
-      - "頭から体まで全身に使える"
-    cons:
-      - "1mLあたりの価格がやや高い"
-      - "洗浄力は控えめで脂性肌には物足りない"
-    recommendedFor: "敏感肌・アトピー肌の方・赤ちゃんがいる家庭・低刺激にこだわる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F68857%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10910706%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/857/68857.jpg?_ex=128x128"
-  - rank: 5
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 720g"
     brand: "ユニリーバ（ダヴ）"
     price: 2598
@@ -115,7 +27,7 @@ products:
     recommendedFor: "しっとりした洗い上がりが好きな方・乾燥肌で保湿重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4902111764443%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10032736%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/09857135/4902111776576r.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 2
     name: "ミョウバン柿渋石鹸 ナチュラルクリアソープ 80g"
     brand: "AIMERE"
     price: 880
@@ -137,7 +49,7 @@ products:
     recommendedFor: "汗やニオイが気になる方・さっぱり洗いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Fb0110001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10001851%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/smartphone/cosme/myoubankakisibusoap/imgrc0119024289.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 3
     name: "ベイビースキンソープ 訳ありミニ石鹸10個セット 130g"
     brand: "ベイビースキンソープ"
     price: 1380
@@ -159,7 +71,51 @@ products:
     recommendedFor: "固形石けんをまとめて試したい方・洗顔とボディケアを兼用したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4cdn.3rdw6a10.g00s4cdn.3rdw730b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikum-shop%2Fbsp80-03%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikum-shop%2Fi%2F10000040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ikum-shop/cabinet/bsp/shohin/imgrc0099795269.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 4
+    name: "ビオレu ザ ボディ 泡タイプ 詰め替え 800mL×2袋"
+    brand: "花王（ビオレu）"
+    price: 1980
+    capacity: "800mL×2袋（約400回分）"
+    pricePerUnit: "約1.24円/mL"
+    rating: 4.62
+    reviewCount: 287
+    features:
+      - "素肌と同じ弱酸性で肌にやさしい"
+      - "きめ細かい泡で摩擦を軽減"
+      - "保湿成分シアバター・濃グリセリン配合"
+    pros:
+      - "弱酸性で子どもにも使える"
+      - "泡タイプで泡立ての手間不要"
+      - "大容量でコスパ抜群"
+    cons:
+      - "さっぱり系のため冬場はやや物足りない"
+      - "泡の持続力がやや短い"
+    recommendedFor: "家族で使いたい方・敏感肌の方・泡タイプが好きな方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11166894%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/032/405032.jpg?_ex=128x128"
+  - rank: 5
+    name: "ミノン 全身シャンプー 泡タイプ 詰め替え 400mL×3袋"
+    brand: "第一三共ヘルスケア（ミノン）"
+    price: 2993
+    capacity: "400mL×3袋（約300回分）"
+    pricePerUnit: "約2.5円/mL"
+    rating: 4.76
+    reviewCount: 89
+    features:
+      - "製薬会社開発の薬用処方"
+      - "植物性アミノ酸系洗浄成分100%"
+      - "赤ちゃんから大人まで全身に使える"
+    pros:
+      - "アミノ酸系で肌への刺激が最小限"
+      - "皮膚科医も推奨する低刺激処方"
+      - "頭から体まで全身に使える"
+    cons:
+      - "1mLあたりの価格がやや高い"
+      - "洗浄力は控えめで脂性肌には物足りない"
+    recommendedFor: "敏感肌・アトピー肌の方・赤ちゃんがいる家庭・低刺激にこだわる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F68857%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10910706%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/857/68857.jpg?_ex=128x128"
+  - rank: 6
     name: "ジャムウスキンバランスソープ 1個"
     brand: "ラヴィナビューティー（ジャムウ）"
     price: 1400
@@ -181,6 +137,50 @@ products:
     recommendedFor: "デリケートゾーンのケアを重視したい方・固形石けん派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2idn.3rdw6104.g00s2idn.3rdw76c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fravina%2F10000001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fravina%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ravina/cabinet/mada/08647942/imgrc0127301418.jpg?_ex=128x128"
+  - rank: 7
+    name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
+    brand: "ライオン（hadakara）"
+    price: 732
+    capacity: "-"
+    pricePerUnit: "-"
+    rating: 4.51
+    reviewCount: 195
+    features:
+      - "吸着保湿技術で洗い上がりしっとり"
+      - "肌に保湿成分が残る独自処方"
+      - "サラサラ仕上がりでベタつかない"
+    pros:
+      - "1mLあたり約0.87円で最安クラス"
+      - "洗い上がりの保湿感が長続き"
+      - "べたつかないサラサラ仕上がり"
+    cons:
+      - "泡立ちにはスポンジ等が必要"
+      - "さっぱり派にはやや保湿感が強い"
+    recommendedFor: "保湿重視の方・乾燥肌の方・コスパと保湿を両立したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs40n.3rdw6e75.g00qs40n.3rdw7092/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fladies-online-shop%2F10021895%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fladies-online-shop%2Fi%2F10021895%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ladies-online-shop/cabinet/okashi/mo58077154.jpg?_ex=128x128"
+  - rank: 8
+    name: "BOTANIST ボタニカル ボディーソープ サクラとバニラの香り"
+    brand: "BOTANIST"
+    price: 1100
+    capacity: "-"
+    pricePerUnit: "-"
+    rating: 4.43
+    reviewCount: 2070
+    features:
+      - "季節限定のサクラとバニラの香り"
+      - "保湿や乾燥肌ケアを意識したボディウォッシュ"
+      - "低刺激処方で家族でも使いやすい"
+    pros:
+      - "香りを楽しみながら全身を洗える"
+      - "人気ブランドで購入しやすい"
+      - "1本1,100円で日常使いしやすい"
+    cons:
+      - "限定の香りは時期により入手しにくい"
+      - "香りが苦手な方には合わない場合がある"
+    recommendedFor: "香りも重視したい方・乾燥肌向けのボディソープを探す方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r23nn.3rdw64a0.g00r23nn.3rdw7ccf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobe-beauty-labo%2Fbota-bodysoap-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkobe-beauty-labo%2Fi%2F10000263%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/1st_thum/bota-bodysoap-01_d.jpg?_ex=128x128"
 tags:
   - "ボディソープ"
   - "コスパ"

@@ -668,6 +668,32 @@ describe("reorderProductsByPricePerUnit", () => {
     expect(result.changed).toBe(false);
   });
 
+  it("pricePerUnit が不明な商品は有効な商品より下に並び替える", () => {
+    const unknownPpuSample = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "単価不明商品"
+    price: 1000
+    capacity: "-"
+    pricePerUnit: "-"
+    rakutenUrl: "https://example.com/a"
+  - rank: 2
+    name: "単価あり商品"
+    price: 500
+    capacity: "100mL"
+    pricePerUnit: "約5円/mL"
+    rakutenUrl: "https://example.com/b"
+---`;
+    const result = reorderProductsByPricePerUnit(unknownPpuSample);
+    expect(result.changed).toBe(true);
+    expect(result.content).toMatch(/- rank: 1[\s\S]*?name: "単価あり商品"/);
+    expect(result.content).toMatch(/- rank: 2[\s\S]*?name: "単価不明商品"/);
+  });
+
   it("単位が混在する場合は同一単位グループ内で並び替える", () => {
     const mixedSample = `---
 title: "テスト記事"
