@@ -6,11 +6,11 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 720g"
+    name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
     brand: "ユニリーバ（ダヴ）"
     price: 2598
-    capacity: "720g（約2ヶ月分）"
-    pricePerUnit: "約3.6円/g"
+    capacity: "3kg"
+    pricePerUnit: "約866円/kg"
     rating: 4.69
     reviewCount: 32
     features:

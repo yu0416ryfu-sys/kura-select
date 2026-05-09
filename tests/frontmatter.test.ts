@@ -6,6 +6,7 @@ import {
   extractProductCapacity,
   extractProductRakutenUrl,
   extractCapacityTotal,
+  normalizeCapacityTotal,
   calcPricePerUnit,
   extractCapacityFromItemName,
   removeProductFromFrontmatter,
@@ -371,6 +372,19 @@ describe("extractCapacityTotal", () => {
 
   it("CAPACITY_UNITS基底単位のケースをPACK_UNITSより優先する（既存動作の回帰確認）", () => {
     expect(extractCapacityTotal("40m×4ロール")).toEqual({ total: 160, unit: "m" });
+  });
+});
+
+// ─── normalizeCapacityTotal ───────────────────────────────────────────────
+describe("normalizeCapacityTotal", () => {
+  it("kg と g を比較用に g へ正規化する", () => {
+    expect(normalizeCapacityTotal(extractCapacityTotal("3kg"))).toEqual({ total: 3000, unit: "g" });
+    expect(normalizeCapacityTotal(extractCapacityTotal("720g"))).toEqual({ total: 720, unit: "g" });
+  });
+
+  it("L と mL を比較用に mL へ正規化する", () => {
+    expect(normalizeCapacityTotal(extractCapacityTotal("1L"))).toEqual({ total: 1000, unit: "mL" });
+    expect(normalizeCapacityTotal(extractCapacityTotal("750mL"))).toEqual({ total: 750, unit: "mL" });
   });
 });
 

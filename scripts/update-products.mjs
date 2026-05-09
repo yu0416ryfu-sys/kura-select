@@ -16,7 +16,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const CHECK_REPLACEMENTS = process.argv.includes('--check-replacements');
@@ -489,6 +489,21 @@ function scoreAdditionCandidate(candidate, rule) {
   return { score, reasons };
 }
 
+function buildExcludedCandidatesSection(excludedCandidates) {
+  if (excludedCandidates.length === 0) return '';
+
+  let section = `\n#### 除外候補サンプル（ロジック見直し用）\n`;
+  for (const item of excludedCandidates) {
+    section += `- 理由: ${item.reason} / 検索: ${item.sourceKeyword}`;
+    if (item.capacity) section += ` / 容量: ${item.capacity}`;
+    if (item.score !== null) section += ` / スコア: ${item.score}`;
+    section += `\n`;
+    section += `  - URL: ${item.url}\n`;
+    section += `  - 商品名: ${item.name}\n`;
+  }
+  return section;
+}
+
 function normalizeProductIdentity(name) {
   return String(name ?? '')
     .normalize('NFKC')
@@ -601,28 +616,47 @@ async function checkAdditions() {
 
       // 既存商品・URL不明・容量不明を除外したうえで、必要件数まで補完する
       const validCandidates = [];
+      const excludedCandidates = [];
+      const recordExcluded = (reason, candidate, extra = {}) => {
+        if (excludedCandidates.length >= 20) return;
+        const directUrl = extra.directUrl ?? toDirectItemUrl(candidate.itemUrl) ?? toDirectItemUrl(candidate.affiliateUrl) ?? candidate.itemUrl ?? candidate.affiliateUrl ?? '（URL取得不可）';
+        excludedCandidates.push({
+          reason,
+          name: candidate.name,
+          url: directUrl,
+          capacity: extra.capacity ?? null,
+          score: extra.score ?? null,
+          sourceKeyword: candidate.sourceKeyword ?? '-',
+        });
+      };
+
       for (const c of candidates) {
         const directUrl = toDirectItemUrl(c.itemUrl) ?? toDirectItemUrl(c.affiliateUrl);
         if (!directUrl) {
           stats.noUrl++;
+          recordExcluded('URL取得不可', c);
           continue;
         }
         if (existingUrls.has(directUrl)) {
           stats.duplicate++;
+          recordExcluded('既存URL重複', c, { directUrl });
           continue;
         }
 
         const capacity = extractCapacityFromItemName(c.name);
         if (!capacity) {
           stats.noCapacity++;
+          recordExcluded('容量抽出不可', c, { directUrl });
           continue;
         }
         if (!isAllowedCapacityUnit(capacity, searchRule)) {
           stats.badCapacityUnit++;
+          recordExcluded('比較対象外の容量単位', c, { directUrl, capacity });
           continue;
         }
         if (isSameProductDifferentUrl(c.name, capacity, products)) {
           stats.sameProduct++;
+          recordExcluded('URL違い同一商品', c, { directUrl, capacity });
           continue;
         }
 
@@ -630,6 +664,7 @@ async function checkAdditions() {
         const scored = scoreAdditionCandidate(c, searchRule);
         if (scored.score < searchRule.minScore) {
           stats.lowScore++;
+          recordExcluded('スコア不足', c, { directUrl, capacity, score: scored.score });
           continue;
         }
         validCandidates.push({ ...c, directUrl, capacity, pricePerUnit, score: scored.score, scoreReasons: scored.reasons });
@@ -655,7 +690,8 @@ async function checkAdditions() {
           `- 容量抽出不可で除外: ${stats.noCapacity}件\n` +
           `- 比較対象外の容量単位で除外: ${stats.badCapacityUnit}件\n` +
           `- スコア不足で除外: ${stats.lowScore}件\n` +
-          `- 有効候補: ${validCandidates.length}件\n`
+          `- 有効候補: ${validCandidates.length}件\n` +
+          buildExcludedCandidatesSection(excludedCandidates)
         );
         continue;
       }
@@ -684,6 +720,7 @@ async function checkAdditions() {
         section += `- スコア: ${s.score}（検索: ${s.sourceKeyword}${s.scoreReasons.length ? ` / ${s.scoreReasons.join(' / ')}` : ''}）\n`;
         section += `\n`;
       }
+      section += buildExcludedCandidatesSection(excludedCandidates);
       sections.push(section);
 
       let urlSection = `## src/content/articles/${file}（現在: ${products.length}商品 → あと${needed}件必要）\n`;
@@ -946,16 +983,19 @@ async function main() {
           if (capacity && extractedCap) {
             const oldTotal = extractCapacityTotal(capacity);
             const newTotal = extractCapacityTotal(extractedCap);
+            const oldComparable = normalizeCapacityTotal(oldTotal);
+            const newComparable = normalizeCapacityTotal(newTotal);
             // 単位比較は大文字小文字を無視（"mL" と "ml" を同一視）
-            if (oldTotal && newTotal && oldTotal.unit.toLowerCase() === newTotal.unit.toLowerCase()) {
-              const diff = Math.abs(newTotal.total - oldTotal.total) / oldTotal.total;
+            // さらに同系単位（"kg" と "g", "L" と "mL"）も基準単位に揃えて比較する
+            if (oldComparable && newComparable && oldComparable.unit.toLowerCase() === newComparable.unit.toLowerCase()) {
+              const diff = Math.abs(newComparable.total - oldComparable.total) / oldComparable.total;
               const threshold = method === '[Item/Get]' ? 0 : 0.05;
               if (diff > threshold) {
                 updates.newName = buildSearchKeyword(data.name);
-                // 単位表記を既存の capacity の表記に統一（ml→mL など）
-                const normalizedCap = extractedCap.replace(
-                  new RegExp(newTotal.unit, 'g'), oldTotal.unit
-                );
+                // 同一単位の表記ゆれ（ml→mL など）のみ既存表記に統一し、kg/g などの実単位は楽天表記を保持
+                const normalizedCap = oldTotal && newTotal && oldTotal.unit.toLowerCase() === newTotal.unit.toLowerCase()
+                  ? extractedCap.replace(new RegExp(newTotal.unit, 'g'), oldTotal.unit)
+                  : extractedCap;
                 updates.newCapacity = normalizedCap;
                 updates.pricePerUnit = data.price !== null
                   ? calcPricePerUnit(data.price, normalizedCap)

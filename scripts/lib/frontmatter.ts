@@ -197,6 +197,26 @@ export function extractCapacityTotal(capacity: string): { total: number; unit: s
 }
 
 /**
+ * 容量比較用に同系単位を基準単位へ正規化する。
+ * 例: 3kg → 3000g, 1L → 1000mL
+ */
+export function normalizeCapacityTotal(
+  capacity: { total: number; unit: string } | null
+): { total: number; unit: string } | null {
+  if (!capacity || !Number.isFinite(capacity.total) || capacity.total <= 0) return null;
+
+  const unit = capacity.unit.trim();
+  const lowerUnit = unit.toLowerCase();
+
+  if (lowerUnit === 'kg') return { total: capacity.total * 1000, unit: 'g' };
+  if (lowerUnit === 'g') return { total: capacity.total, unit: 'g' };
+  if (lowerUnit === 'l') return { total: capacity.total * 1000, unit: 'mL' };
+  if (lowerUnit === 'ml') return { total: capacity.total, unit: 'mL' };
+
+  return { total: capacity.total, unit };
+}
+
+/**
  * price と capacity から pricePerUnit 文字列を計算する
  * 例: (7480, "60枚×48個（2,880枚）") → "約2.6円/枚"
  * 例: (250,  "30枚（携帯用）")        → "約8.3円/枚"
