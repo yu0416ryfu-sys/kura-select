@@ -55,8 +55,8 @@ products:
     price: 2664
     capacity: "700mL"
     pricePerUnit: "約3.8円/mL"
-    rating: 4.42
-    reviewCount: 446
+    rating: 4.43
+    reviewCount: 447
     features:
       - "植物由来成分使用の低刺激処方"
       - "無蛍光剤・無漂白剤・無着色料"

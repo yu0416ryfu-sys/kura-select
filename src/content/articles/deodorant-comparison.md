@@ -50,13 +50,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00umkyn.3rdw6eac.g00umkyn.3rdw7d2b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fburiruby%2Fplwduu6zfep6pqvwj6ico43byu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fburiruby%2Fi%2F10800028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/buriruby/cabinet/12709467/39781338_1.jpg?_ex=128x128"
   - rank: 3
-    name: "デオナチュレ ソフトストーンW【デオナチュレ】"
+    name: "【送料無料・まとめ買い"
     brand: "シービック（デオナチュレ）"
-    price: 2970
-    capacity: "20g×3個"
-    pricePerUnit: "約50円/g"
-    rating: 4.82
-    reviewCount: 266
+    price: 4647
+    capacity: "20g×4"
+    pricePerUnit: "約58円/g"
+    rating: 4.76
+    reviewCount: 174
     features:
       - "天然アルム石（ミョウバン）が有効成分"
       - "スティックタイプで直塗りできる"
@@ -69,8 +69,8 @@ products:
       - "20gで容量が少なく単価は高め"
       - "ワキ以外の広い部位には使いにくい"
     recommendedFor: "制汗力・持続力を最優先する方・朝のケアだけで済ませたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F84667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10965528%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/667/84667.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4971825011747-004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10017245%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/vic202001/imgrc0076856241.jpg?_ex=128x128"
   - rank: 4
     name: "Ban 汗ブロックロールオン プレミアムラベル 40mL"
     brand: "ライオン（Ban）"

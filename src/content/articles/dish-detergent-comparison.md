@@ -72,11 +72,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404955%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148566%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/955/404955.jpg?_ex=128x128"
   - rank: 4
-    name: "ヤシノミ洗剤 食器・野菜用 詰め替え 540mL"
+    name: "ヤシノミ洗剤 食器・野菜用 詰め替え"
     brand: "サラヤ（ヤシノミ洗剤）"
     price: 2769
-    capacity: "540mL（約180回分）"
-    pricePerUnit: "約5.1円/mL"
+    capacity: "-"
+    pricePerUnit: "-"
     rating: 4.5
     reviewCount: 2
     features:

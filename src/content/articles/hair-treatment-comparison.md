@@ -28,28 +28,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901417618795-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F11969571%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2020a/4901417618795.jpg?_ex=128x128"
   - rank: 2
-    name: "LUXスーパーリッチシャイン ダメージリペア 洗い流すトリートメント ヘアマスク"
-    brand: "ユニリーバ（LUX）"
-    price: 2377
-    capacity: "150g"
-    pricePerUnit: "約16円/g"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "シルクエッセンス配合でダメージ髪を補修"
-      - "200gの大容量で継続使用しやすい"
-      - "LUXプレミアムラインのヘアマスク"
-    pros:
-      - "1g約3円とコスパが最も良い"
-      - "LUXの香りが良くバスタイムを豊かにしてくれる"
-      - "毎日使いやすい軽めのテクスチャー"
-    cons:
-      - "フィーノと比べると集中補修力は控えめ"
-      - "ダメージがひどい場合は物足りないこともある"
-    recommendedFor: "毎日のケアとしてコスパよく続けたい方・香りを楽しみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prvmn.3rdw683e.g00prvmn.3rdw7a5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwich%2Fluxhairmaskset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwich%2Fi%2F10023186%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wich/cabinet/gazou62/luxhairmaskset-1.jpg?_ex=128x128"
-  - rank: 3
     name: "パンテーン ミラクルズ ヘアトリートメント 100mL"
     brand: "P&G（パンテーン）"
     price: 1000
@@ -71,6 +49,28 @@ products:
     recommendedFor: "洗い流し不要のアウトバスケアを習慣にしたい方・ドライヤー前の熱ケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987176174048-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461240%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4987176174048.jpg?_ex=128x128"
+  - rank: 3
+    name: "LUXスーパーリッチシャイン ダメージリペア 洗い流すトリートメント ヘアマスク"
+    brand: "ユニリーバ（LUX）"
+    price: 2377
+    capacity: "-"
+    pricePerUnit: "-"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "シルクエッセンス配合でダメージ髪を補修"
+      - "200gの大容量で継続使用しやすい"
+      - "LUXプレミアムラインのヘアマスク"
+    pros:
+      - "1g約3円とコスパが最も良い"
+      - "LUXの香りが良くバスタイムを豊かにしてくれる"
+      - "毎日使いやすい軽めのテクスチャー"
+    cons:
+      - "フィーノと比べると集中補修力は控えめ"
+      - "ダメージがひどい場合は物足りないこともある"
+    recommendedFor: "毎日のケアとしてコスパよく続けたい方・香りを楽しみたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prvmn.3rdw683e.g00prvmn.3rdw7a5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwich%2Fluxhairmaskset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwich%2Fi%2F10023186%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wich/cabinet/gazou62/luxhairmaskset-1.jpg?_ex=128x128"
   - rank: 4
     name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
     brand: "ファイントゥデイ（フィーノ）"

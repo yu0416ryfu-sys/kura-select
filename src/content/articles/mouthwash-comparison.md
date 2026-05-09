@@ -72,11 +72,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10035032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10035032%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin52/4901616010888.jpg?_ex=128x128"
   - rank: 4
-    name: "コンクールF 100mL"
+    name: "コンクールF"
     brand: "ウエルテック（コンクール）"
     price: 2100
-    capacity: "100mL（約700回分）"
-    pricePerUnit: "約21円/mL"
+    capacity: "-"
+    pricePerUnit: "-"
     rating: 4.76
     reviewCount: 535
     features:

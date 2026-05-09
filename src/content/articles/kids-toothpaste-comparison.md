@@ -6,28 +6,6 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "【10個で送料無料】ライオン クリニカキッズ　クリニカKid"
-    brand: "ライオン（クリニカKid's）"
-    price: 3494
-    capacity: "60g×10"
-    pricePerUnit: "約5.8円/g"
-    rating: 5
-    reviewCount: 3
-    features:
-      - "フッ素950ppmで乳歯・生えたての永久歯を強化"
-      - "ジェルタイプで歯のすみずみまで行き渡る"
-      - "キシリトール配合でむし歯菌の活動を抑制"
-    pros:
-      - "いちご味で子どもが嫌がらない"
-      - "ジェルタイプで仕上げ磨きにも最適"
-      - "3本セットでまとめ買いコスパ◎"
-    cons:
-      - "チューブから出しすぎやすい"
-      - "研磨剤が入っていないため着色汚れには弱い"
-    recommendedFor: "歯磨き嫌いのお子さま・仕上げ磨きに使いたい方・ジェルタイプが好きな方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F0000049795240-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10184891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/aa/49795240.jpg?_ex=128x128"
-  - rank: 2
     name: "ピジョン ジェル状歯みがき ぷちキッズ ぶどう味【親子で乳歯ケア】"
     brand: "ピジョン"
     price: 485
@@ -49,7 +27,7 @@ products:
     recommendedFor: "1歳半〜3歳のお子さま・初めての歯磨き粉に・安全性最重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4902508104463%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10044509%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/83/4902508104463.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "ライオン チェックアップ kodomo 歯磨きペースト"
     brand: "ライオン歯科材（チェックアップ）"
     price: 1420
@@ -71,6 +49,28 @@ products:
     recommendedFor: "歯科医推奨の歯磨き粉を使いたい方・2歳以上のお子さま・むし歯予防重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzj4n.3rdw68f0.g00tzj4n.3rdw7213/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosline%2Fli-500gel-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosline%2Fi%2F10002959%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosline/cabinet/11411007/11411015/imgrc0105153626.jpg?_ex=128x128"
+  - rank: 3
+    name: "【で送料無料】ライオン クリニカキッズ　クリニカKid"
+    brand: "ライオン（クリニカKid's）"
+    price: 3494
+    capacity: "-"
+    pricePerUnit: "-"
+    rating: 5
+    reviewCount: 3
+    features:
+      - "フッ素950ppmで乳歯・生えたての永久歯を強化"
+      - "ジェルタイプで歯のすみずみまで行き渡る"
+      - "キシリトール配合でむし歯菌の活動を抑制"
+    pros:
+      - "いちご味で子どもが嫌がらない"
+      - "ジェルタイプで仕上げ磨きにも最適"
+      - "3本セットでまとめ買いコスパ◎"
+    cons:
+      - "チューブから出しすぎやすい"
+      - "研磨剤が入っていないため着色汚れには弱い"
+    recommendedFor: "歯磨き嫌いのお子さま・仕上げ磨きに使いたい方・ジェルタイプが好きな方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F0000049795240-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10184891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/aa/49795240.jpg?_ex=128x128"
 tags:
   - "歯磨き粉"
   - "子ども"

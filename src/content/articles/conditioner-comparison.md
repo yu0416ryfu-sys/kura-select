@@ -6,27 +6,27 @@ publishedAt: "2026-05-01"
 updatedAt: 2026-05-09
 products:
   - rank: 1
-    name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
-    brand: "クラシエ（いち髪）"
-    price: 1000
-    capacity: "660mL×2個（約6ヶ月分）"
-    pricePerUnit: "約0.76円/mL"
-    rating: 4.75
-    reviewCount: 8
+    name: "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア"
+    brand: "ユニリーバ（LUX）"
+    price: 299
+    capacity: "290g"
+    pricePerUnit: "約1.0円/g"
+    rating: 5
+    reviewCount: 7
     features:
-      - "純・和草プレミアムエキス配合で髪のダメージを補修"
-      - "ノンシリコン処方でふんわり軽い仕上がり"
-      - "みずみずしい山桜の香りがシャンプーと統一感"
+      - "ホワイトアルガンオイル配合でツヤのある仕上がり"
+      - "ダメージ補修プロテイン配合"
+      - "華やかなフローラル系の香り"
     pros:
-      - "1mLあたり約0.76円と圧倒的コスパ"
-      - "同シリーズのシャンプーとセットで相乗効果"
-      - "ドラッグストアで手に入りやすい"
+      - "ツヤ感のある仕上がりが特徴"
+      - "シャンプーと揃えると香りが統一"
+      - "指通りなめらかな仕上がり"
     cons:
-      - "ダメージが強い髪にはやや物足りない"
-      - "しっとり感は控えめ"
-    recommendedFor: "コスパ重視の方・普通〜軽いダメージ髪の方・いち髪シャンプーと揃えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhm1n.3rdw621b.g00uhm1n.3rdw7ede/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep0104%2Fichikami-smth%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep0104%2Fi%2F10000229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep0104/cabinet/10645709/11494580/imgrc0187994441.jpg?_ex=128x128"
+      - "シリコン配合のためボリュームが出にくい"
+      - "脂性肌の方にはやや重い"
+    recommendedFor: "ツヤ髪を目指す方・香りを楽しみたい方・パサつきが気になる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902111773964-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2023a/4902111773964.jpg?_ex=128x128"
   - rank: 2
     name: "メリット コンディショナー つめかえ用【メリット】"
     brand: "花王（メリット）"
@@ -50,27 +50,27 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F601325%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11330382%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/325/601325.jpg?_ex=128x128"
   - rank: 3
-    name: "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア"
-    brand: "ユニリーバ（LUX）"
-    price: 299
-    capacity: "290g"
-    pricePerUnit: "約1.0円/g"
-    rating: 5
-    reviewCount: 7
+    name: "いち髪 なめらかスムースケア コンディショナー 詰め替え"
+    brand: "クラシエ（いち髪）"
+    price: 1000
+    capacity: "-"
+    pricePerUnit: "-"
+    rating: 4.75
+    reviewCount: 8
     features:
-      - "ホワイトアルガンオイル配合でツヤのある仕上がり"
-      - "ダメージ補修プロテイン配合"
-      - "華やかなフローラル系の香り"
+      - "純・和草プレミアムエキス配合で髪のダメージを補修"
+      - "ノンシリコン処方でふんわり軽い仕上がり"
+      - "みずみずしい山桜の香りがシャンプーと統一感"
     pros:
-      - "ツヤ感のある仕上がりが特徴"
-      - "シャンプーと揃えると香りが統一"
-      - "指通りなめらかな仕上がり"
+      - "1mLあたり約0.76円と圧倒的コスパ"
+      - "同シリーズのシャンプーとセットで相乗効果"
+      - "ドラッグストアで手に入りやすい"
     cons:
-      - "シリコン配合のためボリュームが出にくい"
-      - "脂性肌の方にはやや重い"
-    recommendedFor: "ツヤ髪を目指す方・香りを楽しみたい方・パサつきが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902111773964-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2023a/4902111773964.jpg?_ex=128x128"
+      - "ダメージが強い髪にはやや物足りない"
+      - "しっとり感は控えめ"
+    recommendedFor: "コスパ重視の方・普通〜軽いダメージ髪の方・いち髪シャンプーと揃えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhm1n.3rdw621b.g00uhm1n.3rdw7ede/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep0104%2Fichikami-smth%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep0104%2Fi%2F10000229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep0104/cabinet/10645709/11494580/imgrc0187994441.jpg?_ex=128x128"
   - rank: 4
     name: "パンテーン エクストラダメージケア トリートメントコンディショナー 詰め替え 超特大 950g"
     brand: "P&G（パンテーン）"
