@@ -10,6 +10,9 @@ import {
   normalizeCapacityTotal,
   calcPricePerUnit,
   extractCapacityFromItemName,
+  mergeExistingMeasureWithSalesQuantity,
+  isSalesQuantityCapacity,
+  hasMeasureCapacity,
   isLikelySalesQuantityCapacityMisread,
   removeCapacityFromProductName,
   removeProductFromFrontmatter,
@@ -604,6 +607,40 @@ describe("isLikelySalesQuantityCapacityMisread", () => {
     expect(
       isLikelySalesQuantityCapacityMisread("除菌スプレー 3個セット まとめ買い", "3個")
     ).toBe(false);
+  });
+});
+
+describe("mergeExistingMeasureWithSalesQuantity", () => {
+  it("既存capacityに同じ販売数量が含まれる場合はそのまま返す", () => {
+    expect(mergeExistingMeasureWithSalesQuantity("420ml×10個", "10個")).toBe("420ml×10個");
+  });
+
+  it("既存の実容量を維持してAPI販売数量だけ更新する", () => {
+    expect(mergeExistingMeasureWithSalesQuantity("420ml×10個", "12個")).toBe("420ml×12個");
+  });
+
+  it("販売数量の単位が違う場合は合成しない", () => {
+    expect(mergeExistingMeasureWithSalesQuantity("420ml×10個", "12本")).toBeNull();
+  });
+
+  it("既存capacityに実容量がない場合は合成しない", () => {
+    expect(mergeExistingMeasureWithSalesQuantity("10個", "12個")).toBeNull();
+  });
+});
+
+describe("capacity kind helpers", () => {
+  it("販売数量のみのcapacityを判定する", () => {
+    expect(isSalesQuantityCapacity("10個")).toBe(true);
+    expect(isSalesQuantityCapacity("12本")).toBe(true);
+    expect(isSalesQuantityCapacity("420mL×10個")).toBe(false);
+    expect(isSalesQuantityCapacity("420mL")).toBe(false);
+  });
+
+  it("実容量を含むcapacityを判定する", () => {
+    expect(hasMeasureCapacity("420mL")).toBe(true);
+    expect(hasMeasureCapacity("420mL×10個")).toBe(true);
+    expect(hasMeasureCapacity("10個")).toBe(false);
+    expect(hasMeasureCapacity("-")).toBe(false);
   });
 });
 

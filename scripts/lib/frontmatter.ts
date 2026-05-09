@@ -165,12 +165,55 @@ function normalizeItemName(s: string): string {
   );
 }
 
+function escapeRegExp(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function isSalesQuantityUnit(unit: string): boolean {
+  return new RegExp(`^(${SALES_QUANTITY_UNITS})$`).test(unit);
+}
+
+export function isSalesQuantityCapacity(capacity: string | null | undefined): boolean {
+  if (!capacity || capacity === '-') return false;
+  const normalized = normalizeItemName(capacity);
+  const extracted = extractCapacityTotal(normalized);
+  if (!extracted || !isSalesQuantityUnit(extracted.unit)) return false;
+  return !new RegExp(`\\d[\\d,]*\\s*(${MEASURE_UNITS})`, 'i').test(normalized);
+}
+
+export function hasMeasureCapacity(capacity: string | null | undefined): boolean {
+  if (!capacity || capacity === '-') return false;
+  return new RegExp(`\\d[\\d,]*\\s*(${MEASURE_UNITS})`, 'i').test(normalizeItemName(capacity));
+}
+
+export function mergeExistingMeasureWithSalesQuantity(
+  existingCapacity: string | null | undefined,
+  extractedCapacity: string
+): string | null {
+  if (!existingCapacity || existingCapacity === '-') return null;
+
+  const normalizedExisting = normalizeItemName(existingCapacity);
+  const normalizedExtracted = normalizeItemName(extractedCapacity);
+  const extracted = extractCapacityTotal(normalizedExtracted);
+  if (!extracted || !isSalesQuantityCapacity(normalizedExtracted)) return null;
+
+  const unit = escapeRegExp(extracted.unit);
+  const re = new RegExp(`(\\d[\\d,]*\\s*(?:${MEASURE_UNITS}))(\\s*[${MULTIPLY_RE_CHAR_CLASS}]\\s*)(\\d[\\d,]*)(\\s*${unit})`, 'i');
+  const match = normalizedExisting.match(re);
+  if (!match) return null;
+
+  const oldQuantity = parseInt(match[3].replace(/,/g, ''), 10);
+  if (!Number.isFinite(oldQuantity) || oldQuantity <= 0) return null;
+
+  return normalizedExisting.replace(re, `${match[1]}${match[2]}${extracted.total}${match[4]}`);
+}
+
 export function isLikelySalesQuantityCapacityMisread(itemName: string, extractedCapacity: string): boolean {
   const normalizedName = normalizeItemName(itemName);
   const normalizedCapacity = normalizeItemName(extractedCapacity);
   const extracted = extractCapacityTotal(normalizedCapacity);
   if (!extracted) return false;
-  if (!new RegExp(`^(${SALES_QUANTITY_UNITS})$`).test(extracted.unit)) return false;
+  if (!isSalesQuantityUnit(extracted.unit)) return false;
   if (new RegExp(`\\d[\\d,]*\\s*(${MEASURE_UNITS})`, 'i').test(normalizedCapacity)) return false;
   return new RegExp(`\\d[\\d,]*\\s*(${MEASURE_UNITS})`, 'i').test(normalizedName);
 }

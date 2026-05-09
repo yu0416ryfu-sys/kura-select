@@ -16,7 +16,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, isLikelySalesQuantityCapacityMisread, removeCapacityFromProductName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, mergeExistingMeasureWithSalesQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeCapacityFromProductName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const VERBOSE = process.argv.includes('--verbose');
@@ -1143,7 +1143,42 @@ async function main() {
             const newComparable = normalizeCapacityTotal(newTotal);
             // 単位比較は大文字小文字を無視（"mL" と "ml" を同一視）
             // さらに同系単位（"kg" と "g", "L" と "mL"）も基準単位に揃えて比較する
-            if (method === '[Item/Get]' && isLikelySalesQuantityCapacityMisread(data.name, extractedCap)) {
+            const mergedCapacity = method === '[Item/Get]'
+              ? mergeExistingMeasureWithSalesQuantity(capacity, extractedCap)
+              : null;
+            if (mergedCapacity) {
+              if (mergedCapacity !== capacity) {
+                updates.newCapacity = mergedCapacity;
+                updates.pricePerUnit = data.price !== null
+                  ? calcPricePerUnit(data.price, mergedCapacity)
+                  : newPricePerUnit;
+                capacityNotes.push(`capacity判定: 既存の実容量を維持し、API販売数量だけ更新`);
+              } else {
+                capacityNotes.push(`capacity判定: API抽出の販売数量は既存 capacity に含まれるため維持`);
+              }
+            } else if (
+              method === '[Item/Get]' &&
+              isSalesQuantityCapacity(capacity) &&
+              isSalesQuantityCapacity(extractedCap) &&
+              oldComparable &&
+              newComparable &&
+              oldComparable.unit.toLowerCase() === newComparable.unit.toLowerCase()
+            ) {
+              const diff = Math.abs(newComparable.total - oldComparable.total) / oldComparable.total;
+              if (diff > 0) {
+                updates.newCapacity = extractedCap;
+                updates.pricePerUnit = data.price !== null
+                  ? calcPricePerUnit(data.price, extractedCap)
+                  : newPricePerUnit;
+                capacityNotes.push(`capacity判定: 販売数量のみ同士のため API 値に更新`);
+              }
+            } else if (
+              method === '[Item/Get]' &&
+              hasMeasureCapacity(capacity) &&
+              isSalesQuantityCapacity(extractedCap)
+            ) {
+              capacityNotes.push(`capacity判定: 既存 capacity に実容量があるため API販売数量のみでは更新しない`);
+            } else if (method === '[Item/Get]' && isLikelySalesQuantityCapacityMisread(data.name, extractedCap)) {
               updates.newName = removeCapacityFromProductName(name, capacity);
               updates.newCapacity = '-';
               updates.pricePerUnit = '-';

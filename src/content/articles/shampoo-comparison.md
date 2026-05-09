@@ -72,7 +72,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ub9fn.3rdw617e.g00ub9fn.3rdw7fc0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-pal%2Fdamage-repair%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshop-pal%2Fi%2F10000671%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shop-pal/cabinet/compass1759200308.jpg?_ex=128x128"
   - rank: 4
-    name: "いち髪 なめらかスムースケア シャンプー 詰め替え 660mL×2個"
+    name: "いち髪 なめらかスムースケア シャンプー 詰め替え"
     brand: "クラシエ（いち髪）"
     price: 1000
     capacity: "-"
