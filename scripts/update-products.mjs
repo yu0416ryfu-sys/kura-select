@@ -1170,7 +1170,7 @@ async function main() {
           : null;
 
         const updates = {
-          price: shouldFreezePriceCapacity ? null : data.price,
+          price: data.price,
           rating: data.rating,
           reviewCount: data.reviewCount,
           affiliateUrl: data.affiliateUrl,
@@ -1182,7 +1182,7 @@ async function main() {
         // Item/Get は同一商品確定のため差異があれば即更新、Search は誤ヒット防止のため5%超のみ更新
         if (data.name) {
           if (shouldFreezePriceCapacity) {
-            capacityNotes.push(`capacity判定: 複数容量バリエーションのため要確認。price/capacity/pricePerUnitは自動更新しない`);
+            capacityNotes.push(`capacity判定: 複数容量バリエーションのため要確認。capacity/pricePerUnitは自動更新しない`);
           } else if (capacity && extractedCap) {
             const oldTotal = extractCapacityTotal(capacity);
             const newTotal = extractCapacityTotal(extractedCap);
