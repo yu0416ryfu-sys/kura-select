@@ -3,32 +3,10 @@ title: "IH対応一人用鍋おすすめ比較｜16cm・18cmの選び方"
 description: "IH対応の一人用鍋を16cm・18cm中心に比較。卓上鍋、すきやき鍋、片手鍋など、少人数調理に使いやすい鍋を選び方とあわせて紹介します。"
 category: "cooking-pot"
 publishedAt: "2026-05-10"
-updatedAt: 2026-05-10
+updatedAt: "2026-05-10"
 draft: false
 products:
   - rank: 1
-    name: "片手鍋 16cm 1."
-    brand: "宮崎製作所"
-    price: 6840
-    capacity: "5L"
-    pricePerUnit: "約1368円/L"
-    rating: 4.85
-    reviewCount: 66
-    features:
-      - "IHを含む幅広い熱源に対応"
-      - "全面7層構造のステンレス製片手鍋"
-      - "メーカー15年保証付き"
-    pros:
-      - "少量の煮物やスープを毎日作りやすい"
-      - "劣化しにくいステンレス鍋を長く使える"
-      - "オーブン調理にも対応しやすい"
-    cons:
-      - "卓上鍋と比べると価格は高め"
-      - "重量があり、軽さ重視の人には向きにくい"
-    recommendedFor: "一人用でも長く使える本格的な小鍋を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq0yn.3rdw6ae3.g00qq0yn.3rdw7edd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftel-j%2F10001009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftel-j%2Fi%2F10001009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tel-j/cabinet/miyaco/geoproduct/geo16n.jpg?_ex=128x128"
-  - rank: 2
     name: "卓上鍋 16cm IH対応 軽量 蓋付き プチなべ"
     brand: "和平フレイズ"
     price: 2740
@@ -50,7 +28,7 @@ products:
     recommendedFor: "一人暮らしで卓上鍋をコンパクトに使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F462342%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10207571%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_wahei10/462342.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "卓上鍋 18cm IH対応 軽量 蓋付き プチなべ"
     brand: "和平フレイズ"
     price: 2950
@@ -72,7 +50,7 @@ products:
     recommendedFor: "一人鍋だけでなく、少人数の取り分けにも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F462344%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10207572%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_wahei10/462344.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "パール金属 おうち御膳 すきやき鍋 18cm HB-6603"
     brand: "パール金属"
     price: 2490
@@ -94,7 +72,7 @@ products:
     recommendedFor: "すき焼きや卓上調理を中心に使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu3n.3rdw6ae6.g00tzu3n.3rdw7f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fttcshop%2F4549308566031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fttcshop%2Fi%2F10014842%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ttcshop/cabinet/pl12/4549308566031.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 4
     name: "アルミ卓上鍋 SHIEN 旨宴 16cm IH対応"
     brand: "リビング"
     price: 2470
@@ -116,6 +94,28 @@ products:
     recommendedFor: "見た目も落ち着いた卓上用の一人鍋を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvhdn.3rdw6896.g00rvhdn.3rdw7113/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaily-shop%2F10003997%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaily-shop%2Fi%2F10003997%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daily-shop/cabinet/35/4546490506692-tg0.jpg?_ex=128x128"
+  - rank: 5
+    name: "ジオ・プロダクト 片手鍋 16cm GEO-16N"
+    brand: "宮崎製作所"
+    price: 6840
+    capacity: "16cm / 約1.5L"
+    pricePerUnit: "1個あたり約6,840円"
+    rating: 4.85
+    reviewCount: 66
+    features:
+      - "IHを含む幅広い熱源に対応"
+      - "全面7層構造のステンレス製片手鍋"
+      - "メーカー15年保証付き"
+    pros:
+      - "少量の煮物やスープを毎日作りやすい"
+      - "劣化しにくいステンレス鍋を長く使える"
+      - "オーブン調理にも対応しやすい"
+    cons:
+      - "卓上鍋と比べると価格は高め"
+      - "重量があり、軽さ重視の人には向きにくい"
+    recommendedFor: "一人用でも長く使える本格的な小鍋を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq0yn.3rdw6ae3.g00qq0yn.3rdw7edd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftel-j%2F10001009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftel-j%2Fi%2F10001009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tel-j/cabinet/miyaco/geoproduct/geo16n.jpg?_ex=128x128"
 tags:
   - "IH対応鍋"
   - "一人用鍋"

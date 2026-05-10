@@ -16,7 +16,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeCapacityFromProductName, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const VERBOSE = process.argv.includes('--verbose');
@@ -1210,11 +1210,15 @@ async function main() {
             ) {
               capacityNotes.push(`capacity判定: 既存 capacity に実容量があるため API販売数量のみでは更新しない`);
             } else if (method === '[Item/Get]' && isLikelySalesQuantityCapacityMisread(data.name, extractedCap)) {
-              updates.newName = removeCapacityFromProductName(name, capacity);
               updates.newCapacity = '-';
               updates.pricePerUnit = '-';
               capacityNotes.push(`capacity判定: 販売数量の可能性があるため capacity を "-" に変更`);
-            } else if (oldComparable && newComparable && oldComparable.unit.toLowerCase() === newComparable.unit.toLowerCase()) {
+            } else if (
+              method === '[Item/Get]' &&
+              oldComparable &&
+              newComparable &&
+              oldComparable.unit.toLowerCase() === newComparable.unit.toLowerCase()
+            ) {
               const diff = Math.abs(newComparable.total - oldComparable.total) / oldComparable.total;
               const threshold = method === '[Item/Get]' ? 0 : 0.05;
               if (diff > threshold) {
@@ -1228,9 +1232,8 @@ async function main() {
                   : newPricePerUnit;
                 capacityNotes.push(`capacity判定: 差異検出により capacity を更新`);
               }
-            } else if (!oldTotal && newTotal && method === '[Item/Get]') {
+            } else if (!capacity && !oldTotal && newTotal && method === '[Item/Get]') {
               // 既存 capacity が未認識単位等でパース不能な場合、Item/Get 確定商品なら API 値で置換
-              updates.newName = buildSearchKeyword(data.name);
               updates.newCapacity = extractedCap;
               updates.pricePerUnit = data.price !== null
                 ? calcPricePerUnit(data.price, extractedCap)
