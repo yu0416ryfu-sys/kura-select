@@ -3,7 +3,7 @@ title: "歯ブラシ コスパ最強ランキング【2026年版】1本あたり
 description: "歯ブラシを1本あたりのコストで徹底比較。システマ・クリニカ・GUM・タフト24など人気4選を磨き心地・耐久性・コスパで解説します。"
 category: "toothpaste"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-09
+updatedAt: 2026-05-10
 products:
   - rank: 1
     name: "タフト24 歯ブラシ 10本セット MS"
@@ -12,7 +12,7 @@ products:
     capacity: "10本（約10ヶ月分）"
     pricePerUnit: "約138円/本"
     rating: 4.69
-    reviewCount: 2039
+    reviewCount: 2041
     features:
       - "歯科医院でも採用される定番ブラシ"
       - "PBT毛材で耐久性が高くヘタりにくい"
@@ -26,7 +26,7 @@ products:
       - "デザインがシンプルすぎる"
     recommendedFor: "歯科医推奨の品質をコスパよく使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fyyyy27%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007716%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0409_p5100/kirikae3/yyyy27_sam01.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0510_100b/kirikae3/yyyy27_sam01.jpg?_ex=128x128"
   - rank: 2
     name: "システマハブラシ 超コンパクト ふつう 12本"
     brand: "ライオン（システマ）"

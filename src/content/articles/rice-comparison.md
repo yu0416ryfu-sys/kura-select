@@ -8,7 +8,7 @@ products:
   - rank: 1
     name: "令和7年産 無洗米 新潟産コシヒカリ 10kg"
     brand: "ミツハシライス"
-    price: 8980
+    price: 8400
     capacity: "10kg"
     features:
       - "新潟県産コシヒカリの無洗米タイプ"
@@ -22,10 +22,10 @@ products:
       - "価格は産地や販売状況で変動しやすい"
       - "無洗米は水加減に慣れが必要な場合がある"
     recommendedFor: "新潟県産コシヒカリを無洗米で使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q6g7n.3rdw66fd.g00q6g7n.3rdw7222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fechigo-inahoya%2Fmusen-koshi-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fechigo-inahoya%2Fi%2F10000016%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    rating: 4.77
-    reviewCount: 343
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/echigo-inahoya/cabinet/m-hikari/r7mnk10.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3eon.3rdw616f.g00q3eon.3rdw7349/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakizawa%2F2019090073%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftakizawa%2Fi%2F10000227%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rating: 4.89
+    reviewCount: 99
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/takizawa/cabinet/syouhinn/08533100/musenmai10kgver3.jpg?_ex=128x128"
     pricePerUnit: "約898円/kg"
   - rank: 2
     name: "無洗米 富山県産コシヒカリ 10kg"

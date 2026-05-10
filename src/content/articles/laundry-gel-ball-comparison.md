@@ -6,6 +6,28 @@ publishedAt: "2026-05-05"
 updatedAt: 2026-05-10
 products:
   - rank: 1
+    name: "トップ クリアリキッド 詰め替え"
+    brand: "ライオン（トップ）"
+    price: 5130
+    capacity: "4kg×3本"
+    pricePerUnit: "約428円/kg"
+    rating: 4.8
+    reviewCount: 215
+    features:
+      - "界面活性剤21%配合の高浸透型液体洗濯洗剤"
+      - "詰め替え用パッケージでプラスチック削減に貢献"
+      - "ライオンの定番ブランドによる安定した洗浄品質"
+    pros:
+      - "初回・お試し限定価格で気軽に試せるコスパの良さ"
+      - "ライオンブランドの安定した品質と洗浄力が期待できる"
+      - "詰め替え用で本体容器を再利用するエコな選択肢"
+    cons:
+      - "初回限定・お一人様1回限りの価格制限がある"
+      - "500gと少量のため頻繁に洗濯する家庭では消費が早い"
+    recommendedFor: "新しい洗剤をお試し価格で試したい方・ライオン製品を初めて使う方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r74en.3rdw6e21.g00r74en.3rdw7279/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-nontarou%2Fr5-15080k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-nontarou%2Fi%2F10001040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-nontarou/cabinet/r5-15080.jpg?_ex=128x128"
+  - rank: 2
     name: "ファーファ ベビーフローラル"
     brand: "ファーファ"
     price: 3978
@@ -27,7 +49,7 @@ products:
     recommendedFor: "まとめ買いでコスパを重視する方・香り付き洗剤を好む方・消臭・抗菌効果も求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2Fs621006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10002096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/9fa-fa/fafa4/02539939/4902135147420_case.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 3
     name: "さらさ 洗濯洗剤 詰め替え 6個セット"
     brand: "P&G（さらさ）"
     price: 8670
@@ -49,7 +71,7 @@ products:
     recommendedFor: "さらさをヘビーユーザーとして使っている方・コスパ最優先で大容量まとめ買いをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzvkn.3rdw6b15.g00qzvkn.3rdw7644/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fl-plus%2F7175761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fl-plus%2Fi%2F10226984%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/l-plus/cabinet/tenposupport21/7287020.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "さらさ 洗濯洗剤 詰め替え"
     brand: "P&G（さらさ）"
     price: 8670
@@ -71,7 +93,7 @@ products:
     recommendedFor: "敏感肌の方・赤ちゃんがいる家庭・環境に配慮した洗剤を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7175761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10078291%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/tenposupport21/7287020.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "ハイベック プレミアムドライ"
     brand: "ハイベック"
     price: 6600
@@ -93,7 +115,7 @@ products:
     recommendedFor: "スーツやコートを自宅でドライクリーニングしたい方・衣替えの季節に高級衣類をまとめて洗いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3zun.3rdw6a0f.g00r3zun.3rdw79f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec%2F00000101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec%2Fi%2F10000019%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec/cabinet/10613881/11103765/imgrc0113501552.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "サンベック高級洗剤"
     brand: "トップライン"
     price: 6380
@@ -115,7 +137,7 @@ products:
     recommendedFor: "高級衣類を自宅でクリーニングしたい方・ドライクリーニング代を節約したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsb1000-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000195%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/18sb.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "サンベックドライ洗剤"
     brand: "トップライン"
     price: 3980
@@ -137,28 +159,6 @@ products:
     recommendedFor: "ドライ洗剤を初めて試す方・衣類の少ない一人暮らしの方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsbd500-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000197%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/imgrc0074782606.jpg?_ex=128x128"
-  - rank: 7
-    name: "トップ クリアリキッド 詰め替え"
-    brand: "ライオン（トップ）"
-    price: 5130
-    capacity: "500g"
-    pricePerUnit: "約10円/g"
-    rating: 4.8
-    reviewCount: 215
-    features:
-      - "界面活性剤21%配合の高浸透型液体洗濯洗剤"
-      - "詰め替え用パッケージでプラスチック削減に貢献"
-      - "ライオンの定番ブランドによる安定した洗浄品質"
-    pros:
-      - "初回・お試し限定価格で気軽に試せるコスパの良さ"
-      - "ライオンブランドの安定した品質と洗浄力が期待できる"
-      - "詰め替え用で本体容器を再利用するエコな選択肢"
-    cons:
-      - "初回限定・お一人様1回限りの価格制限がある"
-      - "500gと少量のため頻繁に洗濯する家庭では消費が早い"
-    recommendedFor: "新しい洗剤をお試し価格で試したい方・ライオン製品を初めて使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r74en.3rdw6e21.g00r74en.3rdw7279/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-nontarou%2Fr5-15080k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-nontarou%2Fi%2F10001040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-nontarou/cabinet/r5-15080.jpg?_ex=128x128"
   - rank: 8
     name: "緑の魔女 ランドリー 2個セット"
     brand: "ミマスクリーンケア（緑の魔女）"
