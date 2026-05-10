@@ -665,7 +665,7 @@ function productNameLooksSame(candidateKey, existingKey) {
 
 function isSameProductDifferentUrl(candidateName, candidateCapacity, existingProducts) {
   const candidateKey = normalizeProductIdentity(candidateName);
-  const candidateTotal = extractCapacityTotal(candidateCapacity);
+  const candidateTotal = candidateCapacity ? extractCapacityTotal(candidateCapacity) : null;
   if (!candidateKey) return false;
 
   return existingProducts.some(product => {
@@ -747,12 +747,14 @@ async function checkAdditions() {
         sameProduct: 0,
         noUrl: 0,
         noCapacity: 0,
+        noCapacityUsed: 0,
         badCapacityUnit: 0,
         lowScore: 0,
       };
 
-      // 既存商品・URL不明・容量不明を除外したうえで、必要件数まで補完する
+      // 既存商品・URL不明を除外し、容量不明は必要件数に足りない場合だけ補完候補にする
       const validCandidates = [];
+      const noCapacityCandidates = [];
       const excludedCandidates = [];
       const recordExcluded = (reason, candidate, extra = {}) => {
         if (excludedCandidates.length >= 20) return;
@@ -784,12 +786,7 @@ async function checkAdditions() {
         }
 
         const capacity = extractCapacityFromItemName(c.name);
-        if (!capacity) {
-          stats.noCapacity++;
-          recordExcluded('容量抽出不可', c, { directUrl });
-          continue;
-        }
-        if (!isAllowedCapacityUnit(capacity, searchRule)) {
+        if (capacity && !isAllowedCapacityUnit(capacity, searchRule)) {
           stats.badCapacityUnit++;
           recordExcluded('比較対象外の容量単位', c, { directUrl, capacity });
           continue;
@@ -806,25 +803,46 @@ async function checkAdditions() {
           continue;
         }
 
-        const pricePerUnit = c.price !== null ? calcPricePerUnit(c.price, capacity) : null;
         const scored = scoreAdditionCandidate(c, searchRule);
         if (scored.score < searchRule.minScore) {
           stats.lowScore++;
           recordExcluded('スコア不足', c, { directUrl, capacity, score: scored.score });
           continue;
         }
+
+        if (!capacity) {
+          stats.noCapacity++;
+          noCapacityCandidates.push({
+            ...c,
+            directUrl,
+            capacity: null,
+            pricePerUnit: null,
+            score: scored.score,
+            scoreReasons: [...scored.reasons, '容量抽出不可の補完候補'],
+            usedAsNoCapacityFallback: true,
+          });
+          continue;
+        }
+
+        const pricePerUnit = c.price !== null ? calcPricePerUnit(c.price, capacity) : null;
         validCandidates.push({ ...c, directUrl, capacity, pricePerUnit, score: scored.score, scoreReasons: scored.reasons });
       }
 
-      validCandidates.sort((a, b) =>
+      const sortCandidates = (a, b) =>
         b.score - a.score ||
         (b.reviewCount ?? 0) - (a.reviewCount ?? 0) ||
-        (b.rating ?? 0) - (a.rating ?? 0)
-      );
+        (b.rating ?? 0) - (a.rating ?? 0);
+      validCandidates.sort(sortCandidates);
+      noCapacityCandidates.sort(sortCandidates);
       const suggestions = validCandidates.slice(0, needed);
+      if (suggestions.length < needed) {
+        const fallbackSuggestions = noCapacityCandidates.slice(0, needed - suggestions.length);
+        stats.noCapacityUsed = fallbackSuggestions.length;
+        suggestions.push(...fallbackSuggestions);
+      }
 
       if (suggestions.length === 0) {
-        console.log(`   ⚠ 有効な新規候補が見つかりませんでした（容量不明除外: ${stats.noCapacity}件）`);
+        console.log(`   ⚠ 有効な新規候補が見つかりませんでした（容量不明候補: ${stats.noCapacity}件）`);
         noCandidateSections.push(
           `## ${file}\n\n` +
           `現在: ${products.length}商品 / あと${needed}件必要\n\n` +
@@ -833,16 +851,17 @@ async function checkAdditions() {
           `- 既存URL重複で除外: ${stats.duplicate}件\n` +
           `- URL違い同一商品で除外: ${stats.sameProduct}件\n` +
           `- URL取得不可で除外: ${stats.noUrl}件\n` +
-          `- 容量抽出不可で除外: ${stats.noCapacity}件\n` +
+          `- 容量抽出不可候補: ${stats.noCapacity}件\n` +
+          `- 容量抽出不可で補完採用: ${stats.noCapacityUsed}件\n` +
           `- 比較対象外の容量単位で除外: ${stats.badCapacityUnit}件\n` +
           `- スコア不足で除外: ${stats.lowScore}件\n` +
-          `- 有効候補: ${validCandidates.length}件\n` +
+          `- 有効候補: ${validCandidates.length}件 / 容量抽出不可の補完候補: ${noCapacityCandidates.length}件\n` +
           buildExcludedCandidatesSection(excludedCandidates)
         );
         continue;
       }
 
-      console.log(`   → ${suggestions.length}件の候補を取得（容量不明除外: ${stats.noCapacity}件）`);
+      console.log(`   → ${suggestions.length}件の候補を取得（容量不明補完: ${stats.noCapacityUsed}件）`);
 
       let section = `## ${file}（現在: ${products.length}商品 → あと${needed}件必要）\n\n`;
       section += `検索キーワード: ${searchRule.keywords.map(k => `\`${k}\``).join(' / ')}\n\n`;
@@ -850,10 +869,11 @@ async function checkAdditions() {
       section += `- 既存URL重複で除外: ${stats.duplicate}件\n`;
       section += `- URL違い同一商品で除外: ${stats.sameProduct}件\n`;
       section += `- URL取得不可で除外: ${stats.noUrl}件\n`;
-      section += `- 容量抽出不可で除外: ${stats.noCapacity}件\n`;
+      section += `- 容量抽出不可候補: ${stats.noCapacity}件\n`;
+      section += `- 容量抽出不可で補完採用: ${stats.noCapacityUsed}件\n`;
       section += `- 比較対象外の容量単位で除外: ${stats.badCapacityUnit}件\n`;
       section += `- スコア不足で除外: ${stats.lowScore}件\n`;
-      section += `- 有効候補: ${validCandidates.length}件\n\n`;
+      section += `- 有効候補: ${validCandidates.length}件 / 容量抽出不可の補完候補: ${noCapacityCandidates.length}件\n\n`;
 
       for (let i = 0; i < suggestions.length; i++) {
         const s = suggestions[i];
@@ -864,6 +884,7 @@ async function checkAdditions() {
         section += `- 推定単価: ${s.pricePerUnit ?? '-'}\n`;
         section += `- 評価: ${s.rating ?? '-'}（${(s.reviewCount ?? 0).toLocaleString()}件）\n`;
         section += `- スコア: ${s.score}（検索: ${s.sourceKeyword}${s.scoreReasons.length ? ` / ${s.scoreReasons.join(' / ')}` : ''}）\n`;
+        if (s.usedAsNoCapacityFallback) section += `- 容量抽出不可の補完採用\n`;
         const diagnostics = getAdditionCandidateDiagnostics(s, searchRule);
         section += `- 判定: ${formatTermHits('カテゴリ語', diagnostics.includeHits)} / ${formatTermHits('除外語', diagnostics.excludeHits)}\n`;
         section += `\n`;
