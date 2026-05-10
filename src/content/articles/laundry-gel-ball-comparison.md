@@ -3,9 +3,229 @@ title: "ジェルボール洗剤 コスパ最強ランキング【2026年版】1
 description: "ジェルボール洗剤を1個あたりのコストで徹底比較。アリエール・アタックZERO・ボールドなど人気商品を洗浄力・香り・コスパで解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
-updatedAt: 2026-05-09
+updatedAt: 2026-05-10
 products:
   - rank: 1
+    name: "ファーファ ベビーフローラル"
+    brand: "ファーファ"
+    price: 3978
+    capacity: "1100g×8個セット"
+    pricePerUnit: "約0.45円/g"
+    rating: 4.75
+    reviewCount: 181
+    features:
+      - "ベビーフローラルの心地よい香りが特徴の液体洗剤"
+      - "洗浄力・消臭・抗菌の三機能を一本で実現"
+      - "ケース販売の大容量8個セットで長期保管が可能"
+    pros:
+      - "ベビーフローラルの穏やかな香りで洗い上がりが爽やか"
+      - "消臭・抗菌機能で部屋干しの臭い対策にも効果的"
+      - "ケース購入で1本あたりのコストを抑えられる大容量タイプ"
+    cons:
+      - "ケース販売のため初回に大きなスペースと購入コストが必要"
+      - "香りの好みが合わないと大量に余ってしまうリスクがある"
+    recommendedFor: "まとめ買いでコスパを重視する方・香り付き洗剤を好む方・消臭・抗菌効果も求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2Fs621006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10002096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/9fa-fa/fafa4/02539939/4902135147420_case.jpg?_ex=128x128"
+  - rank: 2
+    name: "さらさ 洗濯洗剤 詰め替え 6個セット"
+    brand: "P&G（さらさ）"
+    price: 8670
+    capacity: "1490g×6個セット"
+    pricePerUnit: "約0.97円/g"
+    rating: 4.72
+    reviewCount: 161
+    features:
+      - "植物由来成分の無添加液体洗剤を6個セットで大容量購入"
+      - "すすぎ1回対応で水道代・時間を節約できるエコ設計"
+      - "赤ちゃんの衣類にも安心のやさしい処方"
+    pros:
+      - "6個まとめ買いで1個あたりの単価を最大限に抑えられる"
+      - "長期在庫を確保でき頻繁な購入の手間が省ける"
+      - "最安値挑戦の価格設定でコスパ最強クラスのまとめ買い"
+    cons:
+      - "6個の大容量で保管スペースを大きく使う"
+      - "品質に満足しなかった場合に大量在庫が残るリスクがある"
+    recommendedFor: "さらさをヘビーユーザーとして使っている方・コスパ最優先で大容量まとめ買いをしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzvkn.3rdw6b15.g00qzvkn.3rdw7644/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fl-plus%2F7175761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fl-plus%2Fi%2F10226984%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/l-plus/cabinet/tenposupport21/7287020.jpg?_ex=128x128"
+  - rank: 3
+    name: "さらさ 洗濯洗剤 詰め替え"
+    brand: "P&G（さらさ）"
+    price: 8670
+    capacity: "1490g"
+    pricePerUnit: "約5.8円/g"
+    rating: 4.55
+    reviewCount: 253
+    features:
+      - "植物由来成分配合の無添加液体洗濯洗剤"
+      - "すすぎ1回対応で水道代と時間を節約できる"
+      - "赤ちゃんの衣類にも使用できる肌に優しい処方"
+    pros:
+      - "植物由来成分で敏感肌や赤ちゃん衣類にも安心して使える"
+      - "すすぎ1回対応で洗濯時間と水道代を節約できる経済性"
+      - "大容量1490gで買い替え頻度を減らせるコスパの良さ"
+    cons:
+      - "洗浄力が化学系洗剤と比較するとやや控えめの場合がある"
+      - "頑固な汚れには漂白剤の併用が必要になることがある"
+    recommendedFor: "敏感肌の方・赤ちゃんがいる家庭・環境に配慮した洗剤を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7175761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10078291%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/tenposupport21/7287020.jpg?_ex=128x128"
+  - rank: 4
+    name: "ハイベック プレミアムドライ"
+    brand: "ハイベック"
+    price: 6600
+    capacity: "1100g"
+    pricePerUnit: "約6.0円/g"
+    rating: 4.62
+    reviewCount: 785
+    features:
+      - "スーツ・ダウン・ニット向けドライ洗剤の定番ブランド"
+      - "無香料処方で衣類の素材感を損なわない"
+      - "365日即日出荷対応の安定した供給体制"
+    pros:
+      - "ドライ洗剤の定番ブランドとして長く愛用されている信頼性"
+      - "1100gの大容量で約550回分の使用が可能なコスパ"
+      - "スーツからダウンまで幅広い衣類に対応できる多用途性"
+    cons:
+      - "一般的な洗濯洗剤に比べて価格がやや高め"
+      - "使用方法を誤ると衣類を傷める可能性がある"
+    recommendedFor: "スーツやコートを自宅でドライクリーニングしたい方・衣替えの季節に高級衣類をまとめて洗いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3zun.3rdw6a0f.g00r3zun.3rdw79f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec%2F00000101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec%2Fi%2F10000019%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec/cabinet/10613881/11103765/imgrc0113501552.jpg?_ex=128x128"
+  - rank: 5
+    name: "サンベック高級洗剤"
+    brand: "トップライン"
+    price: 6380
+    capacity: "1000g"
+    pricePerUnit: "約6.4円/g"
+    rating: 4.7
+    reviewCount: 637
+    features:
+      - "スーツ・コート・ダウン・ニット・カシミアが洗えるドライ洗剤"
+      - "無香料処方で素材本来の風合いを守る"
+      - "1000gの大容量で家庭での長期使用に対応"
+    pros:
+      - "高級衣類のホームクリーニングがプロ並みにできる"
+      - "無香料設計で衣類に余計な香りが移らない"
+      - "ドライクリーニング代を節約できるコスト削減効果が高い"
+    cons:
+      - "通常の洗濯洗剤として使えないため用途が限られる"
+      - "初回は使い方に慣れるまで多少の学習コストがかかる"
+    recommendedFor: "高級衣類を自宅でクリーニングしたい方・ドライクリーニング代を節約したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsb1000-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000195%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/18sb.jpg?_ex=128x128"
+  - rank: 6
+    name: "サンベックドライ洗剤"
+    brand: "トップライン"
+    price: 3980
+    capacity: "500g"
+    pricePerUnit: "約8.0円/g"
+    rating: 4.67
+    reviewCount: 543
+    features:
+      - "スーツ・コート・ダウン・ニット・カシミアに対応するドライ洗剤"
+      - "無香料設計で素材への影響を最小化"
+      - "500gの使い切りやすいコンパクトサイズ"
+    pros:
+      - "お試しに最適な500gサイズで使い勝手を確認しやすい"
+      - "1000gタイプと同じ品質のドライ洗剤が少量購入で試せる"
+      - "保管場所を取らないコンパクトサイズが使いやすい"
+    cons:
+      - "大容量タイプに比べると1gあたりの単価が高くなる"
+      - "衣類が多い家庭では頻繁に補充が必要になる"
+    recommendedFor: "ドライ洗剤を初めて試す方・衣類の少ない一人暮らしの方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsbd500-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000197%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/imgrc0074782606.jpg?_ex=128x128"
+  - rank: 7
+    name: "トップ クリアリキッド 詰め替え"
+    brand: "ライオン（トップ）"
+    price: 5130
+    capacity: "500g"
+    pricePerUnit: "約10円/g"
+    rating: 4.8
+    reviewCount: 215
+    features:
+      - "界面活性剤21%配合の高浸透型液体洗濯洗剤"
+      - "詰め替え用パッケージでプラスチック削減に貢献"
+      - "ライオンの定番ブランドによる安定した洗浄品質"
+    pros:
+      - "初回・お試し限定価格で気軽に試せるコスパの良さ"
+      - "ライオンブランドの安定した品質と洗浄力が期待できる"
+      - "詰め替え用で本体容器を再利用するエコな選択肢"
+    cons:
+      - "初回限定・お一人様1回限りの価格制限がある"
+      - "500gと少量のため頻繁に洗濯する家庭では消費が早い"
+    recommendedFor: "新しい洗剤をお試し価格で試したい方・ライオン製品を初めて使う方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r74en.3rdw6e21.g00r74en.3rdw7279/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-nontarou%2Fr5-15080k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-nontarou%2Fi%2F10001040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-nontarou/cabinet/r5-15080.jpg?_ex=128x128"
+  - rank: 8
+    name: "緑の魔女 ランドリー 2個セット"
+    brand: "ミマスクリーンケア（緑の魔女）"
+    price: 5480
+    capacity: "5L×2本セット"
+    pricePerUnit: "約548円/L"
+    rating: 4.73
+    reviewCount: 514
+    features:
+      - "業務用の大容量5L×2本セットで長期間使えるコスパ商品"
+      - "衣類洗浄に加え排水管清掃にも使える多用途性"
+      - "送料無料で大容量まとめ買いのコストパフォーマンスが高い"
+    pros:
+      - "業務用サイズの大容量で1本あたりのコストが格段に抑えられる"
+      - "洗濯洗剤と排水管クリーナーを兼ねる多目的な使い方が可能"
+      - "2本セットで在庫切れを心配せず長期間使い続けられる"
+    cons:
+      - "大容量のため保管スペースが必要になる"
+      - "液体のため重量があり持ち運びや詰め替えに手間がかかる"
+    recommendedFor: "洗濯頻度が高い家庭・大容量まとめ買いでコスパを最大化したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7091429%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10060352%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/thum/naosi/syoumou_set/7091429_khome.jpg?_ex=128x128"
+  - rank: 9
+    name: "おまかせドライ"
+    brand: "ファーファ"
+    price: 1540
+    capacity: "450ml"
+    pricePerUnit: "約3.4円/ml"
+    rating: 4.75
+    reviewCount: 165
+    features:
+      - "ウール・シルク・麻・綿・合成繊維に対応のドライマーク用液体洗剤"
+      - "自宅でクリーニング品質の洗い上がりを実現"
+      - "おしゃれ着全般に使えるオールラウンドなドライ洗剤"
+    pros:
+      - "ドライマーク衣類から一般衣類まで幅広く使える汎用性"
+      - "ファーファブランドで信頼の品質と洗い上がりを実現"
+      - "自宅でクリーニング代を節約できるコストダウン効果"
+    cons:
+      - "容量450mlと少なめのため消費が早く頻繁に購入が必要"
+      - "頑固な汚れには専用のスポット処理が別途必要になる場合がある"
+    recommendedFor: "ドライマーク衣類を自宅で手軽に洗いたい方・クリーニング代を節約したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2F620666%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10001124%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/01/dry/omakase2017.jpg?_ex=128x128"
+  - rank: 10
+    name: "メイクブラシクリーナー"
+    brand: "博雲堂（ハクウンドウ）"
+    price: 3729
+    capacity: "500ml"
+    pricePerUnit: "約7.5円/ml"
+    rating: 4.53
+    reviewCount: 263
+    features:
+      - "メイクブラシ専用の液体クリーニング洗剤"
+      - "天然由来成分配合でブラシの毛並みを傷めない設計"
+      - "500mlの使いやすい容量でブラシケアに特化"
+    pros:
+      - "専用洗剤でブラシの素材を傷めず効果的に汚れを除去できる"
+      - "天然由来成分配合で肌に触れる道具を安心して洗える"
+      - "500mlの適切な容量でコスパよく使い続けられる"
+    cons:
+      - "メイクブラシ専用のため他の用途には使いにくい"
+      - "頻繁にブラシを洗う習慣がないと使い切るまで時間がかかる"
+    recommendedFor: "メイクブラシのケアに気を使う方・天然素材の洗浄剤を好む方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tmqun.3rdw6b53.g00tmqun.3rdw7696/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhakuundou%2Fcl01a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhakuundou%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hakuundou/cabinet/item03/lp01-1.jpg?_ex=128x128"
+  - rank: 11
     name: "アリエール ジェルボール4D 微香 詰め替え用 メガジャンボサイズ 332個 (83個×4)"
     brand: "アリエール（P&G）"
     price: 8670
@@ -27,7 +247,7 @@ products:
     recommendedFor: "洗浄力重視・大容量まとめ買い派・時短派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r8mvn.3rdw64c9.g00r8mvn.3rdw71c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F4987176194411%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11431716%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r-kojima/cabinet/n0000000903/4987176194411_1.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 12
     name: "さらさ ジェルボール 詰め替え"
     brand: "P&G（さらさ）"
     price: 1100
@@ -48,7 +268,7 @@ products:
     recommendedFor: "敏感肌・赤ちゃんのいる家庭・無添加志向の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u59un.3rdw6a0f.g00u59un.3rdw7dbe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feinverse-hokkaido%2Frjk-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feinverse-hokkaido%2Fi%2F10000108%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/einverse-hokkaido/cabinet/08901840/jk/jk-10.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 13
     name: "アタックZERO ワンパック 7個パック"
     brand: "花王（アタック）"
     price: 2280
@@ -70,14 +290,14 @@ products:
     recommendedFor: "節水・時短重視・少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ulujn.3rdw68ec.g00ulujn.3rdw7a89/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flgo-2023%2F3931-000027%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flgo-2023%2Fi%2F10000021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lgo-2023/cabinet/imgrc0109870964.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 14
     name: "＼レビュー投稿で500円クーポンGET！／【選べる4タイプ】ボールド 洗濯洗剤 "
     brand: "P&G（ボールド）"
     price: 4480
     capacity: "2袋"
     pricePerUnit: "約2240円/袋"
-    rating: 4.87
-    reviewCount: 78
+    rating: 4.88
+    reviewCount: 80
     features:
       - "洗浄・柔軟剤・消臭・シワ防止の4in1"
       - "豊かな香りが長続き"
@@ -91,7 +311,29 @@ products:
       - "香りの好みが分かれる"
     recommendedFor: "香り・柔軟効果重視・洗濯用品をシンプルにしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2ngn.3rdw6e7c.g00t2ngn.3rdw797f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F1710000080%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhikaritv%2Fi%2F10234804%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000080_k.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/sale/1710000080_rma.jpg?_ex=128x128"
+  - rank: 15
+    name: "プロウォッシュ"
+    brand: "アスパイラル"
+    price: 3850
+    capacity: "1000ml"
+    pricePerUnit: "0円/回"
+    rating: 4.55
+    reviewCount: 69
+    features:
+      - "プロ仕様のドライマーク衣類対応おしゃれ着洗剤"
+      - "ウール・カシミヤ・シルク・レーヨンなど繊細素材に対応"
+      - "無香料処方で素材本来の風合いを守る"
+    pros:
+      - "プロクオリティの洗浄力で高級衣類を自宅でケアできる"
+      - "無香料で衣類に香りが残らず素材の良さを活かせる"
+      - "大容量1000mlで長期間使用でき経済的"
+    cons:
+      - "クリーニング店に比べると洗浄力に限界がある場合がある"
+      - "一般的な綿・麻衣類には使用できない"
+    recommendedFor: "ドライマーク衣類を自宅で洗いたい方・高級素材のコートやニットのケアを頻繁にする方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2b0n.3rdw6085.g00r2b0n.3rdw7a27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faspa%2Farigatou031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faspa%2Fi%2F10000037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aspa/cabinet/item/item280/kawadon_280_w_new.jpg?_ex=128x128"
 tags:
   - "ジェルボール 洗剤"
   - "ジェルボール おすすめ"
