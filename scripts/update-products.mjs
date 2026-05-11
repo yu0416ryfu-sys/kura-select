@@ -1218,6 +1218,7 @@ async function main() {
     for (const name of productNames) {
       const shortName = name.slice(0, 45);
       process.stdout.write(`   [${shortName}...] `);
+      let existingItemRef = null;
       try {
         // ── Step 1: Item/Get で直接取得を試みる ────────────────────────
         let data = null;
@@ -1225,6 +1226,7 @@ async function main() {
 
         const existingUrl = extractProductRakutenUrl(updatedContent, name);
         const parsed = parseRakutenItemUrl(existingUrl);
+        existingItemRef = parsed;
 
         if (parsed) {
           const itemData = await fetchRakutenItem(parsed.shopCode, parsed.itemCode, name);
@@ -1232,8 +1234,7 @@ async function main() {
             data = itemData;
             method = '[Item/Get]';
           } else {
-            // 廃番・404 など → キーワード検索にフォールバック
-            method = '[Search(fallback)]';
+            throw new Error(`既存rakutenUrlの商品をAPIで確認できません（${parsed.shopCode}/${parsed.itemCode}）。削除・置換をスキップ`);
           }
         }
 
@@ -1464,6 +1465,15 @@ async function main() {
         // 機能2: 検索0件エラー時は商品ブロックを自動削除
         const isZeroResult = e.message.includes('0件') || e.message.includes('通常商品が見つかりません');
         if (isZeroResult) {
+          if (existingItemRef) {
+            console.log(`❌ ${e.message} ⚠ 削除スキップ（既存 rakutenUrl あり: ${existingItemRef.shopCode}/${existingItemRef.itemCode}）`);
+            results.push({ success: false, name: shortName, reason: e.message });
+            fileStats.failed++;
+            totalFail++;
+            await new Promise(r => setTimeout(r, 2000));
+            continue;
+          }
+
           consecutiveZeroResults++;
 
           // ② 連続N件で中断（API障害と判断）

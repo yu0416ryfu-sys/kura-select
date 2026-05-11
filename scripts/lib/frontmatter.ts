@@ -45,6 +45,7 @@ export function extractProductNames(content: string): string[] {
  */
 export function buildSearchKeyword(productName: string): string {
   let kw = productName
+    .replace(/\s*[【\[].+?[】\]]/g, "")
     .replace(/\s*[（(].+?[）)]/g, "")
     .replace(/\s*\d+[mMlLgG枚本袋個入パック巻]+.*$/g, "")
     .replace(/\s*(×|x|X)\s*\d+.*$/g, "")

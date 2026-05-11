@@ -119,6 +119,12 @@ describe("buildSearchKeyword", () => {
     );
   });
 
+  it("販促用の隅付き括弧を除去する", () => {
+    expect(buildSearchKeyword("【1点限り！令和お試し価格】ユニ・チャーム シルコット うるうる コットン")).toBe(
+      "ユニ・チャーム シルコット うるうる コットン"
+    );
+  });
+
   it("容量・数量以降を除去する", () => {
     expect(buildSearchKeyword("ボールド 詰め替え 1500mL×3袋")).toBe(
       "ボールド 詰め替え"
