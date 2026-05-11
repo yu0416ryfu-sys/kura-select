@@ -157,7 +157,7 @@ export function extractProductRakutenUrl(content: string, productName: string): 
 const CAPACITY_UNITS = 'mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒|包|錠';
 const PACK_UNITS = 'ロール|パック|セット|箱|缶|ケース';
 const MULTIPLY_RE_CHAR_CLASS = '×xX*＊';
-const SALES_QUANTITY_UNITS = '個|本|袋|セット|パック|箱|ケース';
+const SALES_QUANTITY_UNITS = '枚|個|本|袋|セット|パック|箱|ケース';
 const MEASURE_UNITS = 'mL|ml|L|g|kg';
 
 function normalizeItemName(s: string): string {
@@ -389,6 +389,14 @@ export function isMultiMeasureVariantItemName(itemName: string): boolean {
  */
 export function extractCapacityFromItemName(itemName: string): string | null {
   itemName = normalizeItemName(itemName);
+  // パターン0: 括弧内に総枚数と内訳があるケース
+  // 例: "45L 1セット（1000枚：100枚×10パック）" → "（1000枚）"
+  const bracketTotalWithBreakdownRe = new RegExp(`[（(][^）)]*?([\\d,]+)\\s*(${CAPACITY_UNITS})\\s*[：:][^）)]*[）)]`);
+  const bracketTotalWithBreakdownM = itemName.match(bracketTotalWithBreakdownRe);
+  if (bracketTotalWithBreakdownM) {
+    return `（${bracketTotalWithBreakdownM[1]}${bracketTotalWithBreakdownM[2]}）`;
+  }
+
   // パターン1: × / * 区切り乗算チェーン（複数因子対応）"200枚×5箱" "400ml*3袋"
   // CAPACITY_UNITS および PACK_UNITS（ロール・パック・箱等）の両方を単位として認識する
   // PACK_UNITS も起点として認識する（例: "（12ロール×6個セット）" で 12ロール を先に捕捉）
@@ -488,7 +496,7 @@ export function extractCapacityFromItemName(itemName: string): string | null {
   // × を使わず「長さ ロール数」と並べる楽天商品名（例: "50m 72ロール ダブル"）に対応
   const spaceMulRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})\\s+(\\d[\\d,]*)\\s*(ロール|パック|セット)`);
   const spaceMulM = itemName.match(spaceMulRe);
-  if (spaceMulM) {
+  if (spaceMulM && parseInt(spaceMulM[3].replace(/,/g, ''), 10) > 1) {
     return `${spaceMulM[1]}${spaceMulM[2]}×${spaceMulM[3]}${spaceMulM[4]}`;
   }
 
@@ -565,6 +573,15 @@ function getCapacityCandidateTotals(itemName: string): Array<{ raw: string; tota
     .filter((v): v is { raw: string; total: { total: number; unit: string }; normalizedTotal: { total: number; unit: string } | null } => Boolean(v));
 }
 
+function hasExplicitBracketTotalWithBreakdown(itemName: string): boolean {
+  const normalized = normalizeItemName(itemName);
+  return new RegExp(`[（(][^）)]*?[\\d,]+\\s*(${CAPACITY_UNITS})\\s*[：:][^）)]*[）)]`).test(normalized);
+}
+
+function isMeasureUnit(unit: string): boolean {
+  return new RegExp(`^(${MEASURE_UNITS})$`, 'i').test(unit);
+}
+
 export function analyzeCapacityFromItemName(itemName: string): CapacityAnalysis {
   const normalizedName = normalizeItemName(itemName);
   const capacity = extractCapacityFromItemName(normalizedName);
@@ -584,7 +601,10 @@ export function analyzeCapacityFromItemName(itemName: string): CapacityAnalysis 
     };
   }
 
-  const ambiguousTerms = AMBIGUOUS_CAPACITY_TERMS.filter(term => normalizedName.includes(term));
+  const explicitBracketTotal = hasExplicitBracketTotalWithBreakdown(normalizedName);
+  const ambiguousTerms = AMBIGUOUS_CAPACITY_TERMS
+    .filter(term => normalizedName.includes(term))
+    .filter(term => !(term === "セット" && explicitBracketTotal));
   if (ambiguousTerms.length > 0) {
     reasons.push(`曖昧語を含む: ${ambiguousTerms.slice(0, 3).join(", ")}`);
   }
@@ -595,6 +615,27 @@ export function analyzeCapacityFromItemName(itemName: string): CapacityAnalysis 
 
   const distinctTotals = new Set(
     getCapacityCandidateTotals(normalizedName)
+      .filter(candidate => {
+        const comparable = candidate.normalizedTotal ?? candidate.total;
+        const extractedComparable = normalizedTotal ?? total;
+
+        if (
+          isSalesQuantityUnit(extractedComparable.unit) &&
+          (isMeasureUnit(comparable.unit) || new RegExp(`^(${PACK_UNITS})$`).test(comparable.unit))
+        ) {
+          return false;
+        }
+
+        if (
+          comparable.unit.toLowerCase() === extractedComparable.unit.toLowerCase() &&
+          comparable.total < extractedComparable.total &&
+          extractedComparable.total % comparable.total === 0
+        ) {
+          return false;
+        }
+
+        return true;
+      })
       .map(candidate => candidate.normalizedTotal ?? candidate.total)
       .map(candidate => `${candidate.total}:${candidate.unit.toLowerCase()}`)
   );

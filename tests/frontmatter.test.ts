@@ -487,6 +487,14 @@ describe("extractCapacityFromItemName", () => {
     expect(extractCapacityFromItemName("ネピア ティシュー（2,880枚）")).toBe("（2,880枚）");
   });
 
+  it("括弧内の総量と内訳から総枚数を抽出する", () => {
+    const capacity = extractCapacityFromItemName(
+      "TANOSEE ゴミ袋エコノミー 乳白半透明 45L 1セット（1000枚：100枚×10パック）"
+    );
+    expect(capacity).toBe("（1000枚）");
+    expect(extractCapacityTotal(capacity ?? "")).toEqual({ total: 1000, unit: "枚" });
+  });
+
   it("シンプルパターンを抽出する", () => {
     expect(extractCapacityFromItemName("ビオレ ボディウォッシュ 500mL")).toBe("500mL");
   });
@@ -628,6 +636,26 @@ describe("isMultiMeasureVariantItemName", () => {
   it("実容量と販売数量の掛け算は複数容量扱いにしない", () => {
     expect(isMultiMeasureVariantItemName("無洗米 コシヒカリ 5kg×2袋")).toBe(false);
     expect(isMultiMeasureVariantItemName("シャンプー 500mL×3本")).toBe(false);
+  });
+});
+
+describe("analyzeCapacityFromItemName garbage-bag cases", () => {
+  it("45Lの袋サイズより括弧内の総枚数を優先する", () => {
+    const result = analyzeCapacityFromItemName(
+      "TANOSEE　ゴミ袋エコノミー　乳白半透明　45L　1セット（1000枚：100枚×10パック） 【送料無料】"
+    );
+    expect(result.capacity).toBe("（1000枚）");
+    expect(result.normalizedTotal).toEqual({ total: 1000, unit: "枚" });
+    expect(result.confidence).toBe("high");
+  });
+
+  it("総枚数と内訳枚数が同じ商品を複数capacity扱いにしない", () => {
+    const result = analyzeCapacityFromItemName(
+      "HEIKO PP食パン袋 半斤用 300枚 (100枚×3束) 生ごみ 袋"
+    );
+    expect(result.capacity).toBe("300枚");
+    expect(result.normalizedTotal).toEqual({ total: 300, unit: "枚" });
+    expect(result.confidence).toBe("high");
   });
 });
 

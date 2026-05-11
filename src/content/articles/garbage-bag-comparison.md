@@ -1,22 +1,22 @@
 ---
 title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L 1枚あたり最安2円台"
-description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・20Lのまとめ買いから薄手・厚手・エコ素材まで家庭向けおすすめ4選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
+description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ3選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
-updatedAt: 2026-05-10
+updatedAt: 2026-05-11
 products:
   - rank: 1
     name: "TANOSEE　ゴミ袋エコノミー　乳白半透明"
     brand: "TANOSEE（国内大手OEM）"
     price: 5742
-    capacity: "100枚×10"
+    capacity: "100枚×10パック（1000枚）"
     pricePerUnit: "約5.7円/枚"
     rating: 4.68
     reviewCount: 31
     features:
       - "45Lの標準サイズで家庭の燃えるゴミに最適"
       - "半透明で中身が確認しやすい"
-      - "500枚入りの大容量まとめ買いパック"
+      - "1000枚入りの大容量まとめ買いパック"
     pros:
       - "1枚あたりのコストが最安値クラス"
       - "まとめ買いで長期間ストックできる"
@@ -30,11 +30,11 @@ products:
   - rank: 2
     name: "HEIKO PP食パン袋 半斤用 300枚"
     brand: "HEIKO"
-    price: 1990
+    price: 2020
     capacity: "300枚"
-    pricePerUnit: "約6.6円/枚"
+    pricePerUnit: "約6.7円/枚"
     rating: 4.78
-    reviewCount: 1449
+    reviewCount: 1450
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -52,9 +52,9 @@ products:
   - rank: 3
     name: "HEIKO PPパン袋 20-30 300枚"
     brand: "HEIKO"
-    price: 2980
+    price: 3980
     capacity: "300枚"
-    pricePerUnit: "約9.9円/枚"
+    pricePerUnit: "約13円/枚"
     rating: 4.86
     reviewCount: 281
     features:
@@ -71,28 +71,6 @@ products:
     recommendedFor: "家庭内のにおい対策や分別に使いやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u8lpn.3rdw6471.g00u8lpn.3rdw751c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivlan%2F1004-000190%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivlan%2Fi%2F10000794%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livlan/cabinet/ranking/1004-000190_logo.jpg?_ex=128x128"
-  - rank: 4
-    name: "ポリ袋 45L 半透明 厚手0.030mm 50枚×3パック"
-    brand: "Nissho（日翔）"
-    price: 13280
-    capacity: "45L×50枚×3パック（150枚）"
-    pricePerUnit: "約89円/枚"
-    rating: 4.74
-    reviewCount: 45800
-    features:
-      - "厚手0.030mmで破れにくい強度"
-      - "50枚入りで適度な量のまとめ買い"
-      - "半透明で中身が見える安心設計"
-    pros:
-      - "厚手で生ゴミや重いものも安心して入れられる"
-      - "適度な枚数で保管場所をとらない"
-      - "破れにくく二重にする必要がない"
-    cons:
-      - "薄手品よりコストが高め"
-      - "大量まとめ買いには割高感がある"
-    recommendedFor: "生ゴミが多い方・ゴミ袋の破れが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtn3n.3rdw6fc6.g00qtn3n.3rdw7aa1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frice-akita%2F1000000130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frice-akita%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rice-akita/cabinet/03459843/05525503/09674048/imgrc0081536274.jpg?_ex=128x128"
 tags:
   - "ゴミ袋"
   - "コスパ"

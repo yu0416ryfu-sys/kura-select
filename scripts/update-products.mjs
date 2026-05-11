@@ -70,6 +70,34 @@ function isSameComparableCapacity(a, b) {
   );
 }
 
+const GENERIC_PRODUCT_NAME_TOKENS = new Set([
+  'ゴミ袋',
+  'ポリ袋',
+  '袋',
+  '送料無料',
+  'セット',
+  'パック',
+  'まとめ買い',
+  '大容量',
+]);
+
+function getDistinctiveProductNameTokens(name) {
+  return buildSearchKeyword(name)
+    .replace(/[【】［］\[\]（）()]/g, ' ')
+    .split(/[\s　・、。／/｜|]+/)
+    .map(token => token.trim().toLowerCase())
+    .filter(token => token.length >= 2)
+    .filter(token => !GENERIC_PRODUCT_NAME_TOKENS.has(token))
+    .filter(token => !/^[\d.,]+(?:ml|mL|l|L|g|kg|枚|本|袋|個|パック|セット|mm)?$/i.test(token));
+}
+
+function isLikelySameProductName(currentName, apiName) {
+  const tokens = getDistinctiveProductNameTokens(currentName);
+  if (tokens.length === 0) return true;
+  const normalizedApiName = apiName.toLowerCase();
+  return tokens.some(token => normalizedApiName.includes(token));
+}
+
 function buildProductLogLines({ before, after, data, extractedCap, oldComparable, apiComparable, capacityNotes }) {
   const lines = [];
   lines.push(`capacity(API抽出): ${formatLogValue(extractedCap)} -> ${formatCapacityTotal(apiComparable)}`);
@@ -1231,6 +1259,9 @@ async function main() {
         if (parsed) {
           const itemData = await fetchRakutenItem(parsed.shopCode, parsed.itemCode, name);
           if (itemData) {
+            if (!isLikelySameProductName(name, itemData.name ?? '')) {
+              throw new Error(`既存rakutenUrlの商品名が現在の商品と一致しません（API商品名: ${itemData.name ?? '-'}）。更新をスキップ`);
+            }
             data = itemData;
             method = '[Item/Get]';
           } else {
