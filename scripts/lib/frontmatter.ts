@@ -520,6 +520,102 @@ export function extractCapacityFromItemName(itemName: string): string | null {
  * フロントマターから指定商品ブロックを削除し、残りの rank を振り直す。
  * 最後の1商品の場合は削除せず null を返す。
  */
+export type CapacityConfidence = "high" | "medium" | "low";
+
+export interface CapacityAnalysis {
+  capacity: string | null;
+  total: { total: number; unit: string } | null;
+  normalizedTotal: { total: number; unit: string } | null;
+  confidence: CapacityConfidence;
+  reasons: string[];
+  shouldAutoUpdate: boolean;
+}
+
+const AMBIGUOUS_CAPACITY_TERMS = [
+  "選べる",
+  "選択",
+  "セット",
+  "詰め合わせ",
+  "詰合せ",
+  "本体+詰替",
+  "本体＋詰替",
+  "本体 詰替",
+  "詰替",
+  "お試し",
+  "各種",
+  "サイズ選択",
+  "バリエーション",
+  "アソート",
+  "ランダム",
+  "福袋",
+  "よりどり",
+];
+
+function getCapacityCandidateTotals(itemName: string): Array<{ raw: string; total: { total: number; unit: string }; normalizedTotal: { total: number; unit: string } | null }> {
+  const normalized = normalizeItemName(itemName);
+  const re = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS}|${PACK_UNITS})`, 'gi');
+  return [...normalized.matchAll(re)]
+    .map(match => {
+      const raw = `${match[1]}${match[2]}`;
+      const total = extractCapacityTotal(raw);
+      if (!total) return null;
+      return { raw, total, normalizedTotal: normalizeCapacityTotal(total) };
+    })
+    .filter((v): v is { raw: string; total: { total: number; unit: string }; normalizedTotal: { total: number; unit: string } | null } => Boolean(v));
+}
+
+export function analyzeCapacityFromItemName(itemName: string): CapacityAnalysis {
+  const normalizedName = normalizeItemName(itemName);
+  const capacity = extractCapacityFromItemName(normalizedName);
+  const total = capacity ? extractCapacityTotal(capacity) : null;
+  const normalizedTotal = normalizeCapacityTotal(total);
+  const reasons: string[] = [];
+
+  if (!capacity || !total) {
+    reasons.push("API商品名からcapacityを抽出できない");
+    return {
+      capacity,
+      total,
+      normalizedTotal,
+      confidence: "low",
+      reasons,
+      shouldAutoUpdate: false,
+    };
+  }
+
+  const ambiguousTerms = AMBIGUOUS_CAPACITY_TERMS.filter(term => normalizedName.includes(term));
+  if (ambiguousTerms.length > 0) {
+    reasons.push(`曖昧語を含む: ${ambiguousTerms.slice(0, 3).join(", ")}`);
+  }
+
+  if (isMultiMeasureVariantItemName(normalizedName)) {
+    reasons.push("複数の実容量候補を含む");
+  }
+
+  const distinctTotals = new Set(
+    getCapacityCandidateTotals(normalizedName)
+      .map(candidate => candidate.normalizedTotal ?? candidate.total)
+      .map(candidate => `${candidate.total}:${candidate.unit.toLowerCase()}`)
+  );
+  if (distinctTotals.size > 1) {
+    reasons.push("複数のcapacity候補を含む");
+  }
+
+  const confidence: CapacityConfidence = reasons.length > 0 ? "low" : "high";
+  if (confidence === "high") {
+    reasons.push("単一のcapacity候補として解析可能");
+  }
+
+  return {
+    capacity,
+    total,
+    normalizedTotal,
+    confidence,
+    reasons,
+    shouldAutoUpdate: confidence === "high",
+  };
+}
+
 export function removeCapacityFromProductName(productName: string, capacity?: string | null): string {
   const embeddedCapacity = extractCapacityFromItemName(productName);
   const capacityWithoutNote = capacity?.replace(/[（(].*$/, '').trim() ?? null;

@@ -10,6 +10,7 @@ import {
   normalizeCapacityTotal,
   calcPricePerUnit,
   extractCapacityFromItemName,
+  analyzeCapacityFromItemName,
   isMultiMeasureVariantItemName,
   mergeExistingMeasureWithSalesQuantity,
   isSameMeasureBaseWithExistingQuantity,
@@ -1199,5 +1200,41 @@ products:
     const result = fixNameCapacityConflicts(content);
     expect(result.changed).toBe(false);
     expect(result.content).toBe(content);
+  });
+});
+
+describe("analyzeCapacityFromItemName", () => {
+  it("treats a single measurable capacity as high confidence", () => {
+    const result = analyzeCapacityFromItemName("Sample 500mL");
+    expect(result.capacity).toBe("500mL");
+    expect(result.confidence).toBe("high");
+    expect(result.shouldAutoUpdate).toBe(true);
+  });
+
+  it("treats a multiplier capacity as high confidence", () => {
+    const result = analyzeCapacityFromItemName("Sample 400mL*3");
+    expect(result.capacity).toBe("400mL×3");
+    expect(result.confidence).toBe("high");
+    expect(result.shouldAutoUpdate).toBe(true);
+  });
+
+  it("treats a simple count unit as high confidence", () => {
+    const result = analyzeCapacityFromItemName("Sample 30枚");
+    expect(result.capacity).toBe("30枚");
+    expect(result.confidence).toBe("high");
+    expect(result.shouldAutoUpdate).toBe(true);
+  });
+
+  it("treats multiple measurable capacities as low confidence", () => {
+    const result = analyzeCapacityFromItemName("Sample 500mL 250mL 選べる");
+    expect(result.confidence).toBe("low");
+    expect(result.shouldAutoUpdate).toBe(false);
+  });
+
+  it("treats item names without parseable capacity as low confidence", () => {
+    const result = analyzeCapacityFromItemName("Sample 本体+詰替");
+    expect(result.capacity).toBeNull();
+    expect(result.confidence).toBe("low");
+    expect(result.shouldAutoUpdate).toBe(false);
   });
 });

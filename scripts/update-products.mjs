@@ -16,7 +16,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const VERBOSE = process.argv.includes('--verbose');
@@ -96,6 +96,105 @@ function buildProductLogLines({ before, after, data, extractedCap, oldComparable
 }
 
 // ─── 環境変数を読み込み（.env またはプロセス環境変数） ─────────────────────────
+function isSameNormalizedTotal(a, b) {
+  return Boolean(
+    a &&
+    b &&
+    a.total === b.total &&
+    a.unit.toLowerCase() === b.unit.toLowerCase()
+  );
+}
+
+function shouldReviewCapacity({ method, capacity, capacityAnalysis, oldComparable, proposedComparable, shouldFreezePriceCapacity }) {
+  const reasons = [];
+
+  if (shouldFreezePriceCapacity) reasons.push('multiple capacity variant or manual/API conflict');
+  if (capacityAnalysis.confidence !== 'high') reasons.push(...capacityAnalysis.reasons);
+  if (oldComparable && proposedComparable && !isSameNormalizedTotal(oldComparable, proposedComparable)) {
+    reasons.push('existing capacity and API extracted capacity differ');
+  }
+  if (!capacityAnalysis.capacity && capacity) {
+    reasons.push('API item name has no parseable capacity; keep existing capacity');
+  }
+
+  return {
+    needsReview: reasons.length > 0,
+    reasons: [...new Set(reasons)],
+  };
+}
+
+function buildCapacityReviewItem({ file, category, method, beforeSnapshot, data, capacityAnalysis, extractedCap, reviewReasons, action }) {
+  return {
+    articleFile: `src/content/articles/${file}`,
+    category,
+    method,
+    current: {
+      name: beforeSnapshot?.name ?? '',
+      capacity: beforeSnapshot?.capacity ?? null,
+      pricePerUnit: beforeSnapshot?.pricePerUnit ?? null,
+    },
+    api: {
+      itemName: data.name ?? '',
+      price: data.price ?? null,
+      rating: data.rating ?? null,
+      reviewCount: data.reviewCount ?? null,
+      itemUrl: data.itemUrl ?? null,
+      affiliateUrl: data.affiliateUrl ?? null,
+      imageUrl: data.imageUrl ?? null,
+    },
+    ruleAnalysis: {
+      extractedCapacity: extractedCap,
+      confidence: capacityAnalysis.confidence,
+      reasons: reviewReasons,
+    },
+    action,
+  };
+}
+
+function formatCapacityReviewMarkdown(items, today) {
+  const lines = [
+    '# capacity review report',
+    '',
+    `Generated: ${today}`,
+    `Items: ${items.length}`,
+    '',
+  ];
+
+  for (const item of items) {
+    lines.push(`## ${item.articleFile}`);
+    lines.push('');
+    lines.push(`### ${item.current.name || item.api.itemName || '(no name)'}`);
+    lines.push(`- method: ${item.method}`);
+    lines.push(`- current name: ${item.current.name || '-'}`);
+    lines.push(`- current capacity: ${item.current.capacity ?? '-'}`);
+    lines.push(`- current pricePerUnit: ${item.current.pricePerUnit ?? '-'}`);
+    lines.push(`- API itemName: ${item.api.itemName || '-'}`);
+    lines.push(`- API extracted capacity: ${item.ruleAnalysis.extractedCapacity ?? '-'}`);
+    lines.push(`- confidence: ${item.ruleAnalysis.confidence}`);
+    lines.push(`- action: ${item.action}`);
+    lines.push(`- rakutenUrl: ${item.api.itemUrl || item.api.affiliateUrl || '-'}`);
+    lines.push('- reasons:');
+    for (const reason of item.ruleAnalysis.reasons) lines.push(`  - ${reason}`);
+    lines.push('');
+  }
+
+  return lines.join('\n');
+}
+
+function writeCapacityReviewReports(items) {
+  if (items.length === 0) return null;
+
+  const today = new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Tokyo' }).format(new Date());
+  const reportsDir = resolve(process.cwd(), 'reports');
+  if (!existsSync(reportsDir)) mkdirSync(reportsDir, { recursive: true });
+
+  const mdPath = join(reportsDir, `capacity-review-${today}.md`);
+  const jsonlPath = join(reportsDir, `ai-capacity-input-${today}.jsonl`);
+  writeFileSync(mdPath, formatCapacityReviewMarkdown(items, today), 'utf-8');
+  writeFileSync(jsonlPath, items.map(item => JSON.stringify(item)).join('\n') + '\n', 'utf-8');
+  return { mdPath, jsonlPath };
+}
+
 function loadEnv() {
   const envPath = resolve(process.cwd(), '.env');
   if (existsSync(envPath)) {
@@ -1089,12 +1188,14 @@ async function main() {
   let totalCapacityChanged = 0;
   let totalCapacityMissing = 0;
   let totalDeleted = 0;
+  const capacityReviewItems = [];
   let consecutiveZeroResults = 0; // 連続0件カウンター（API障害検知用）
 
   for (const file of files) {
     const filePath = join(articlesDir, file);
     const content = readFileSync(filePath, 'utf-8');
     const productNames = extractProductNames(content);
+    const articleCategory = extractArticleCategory(content) ?? file.replace(/-comparison\.md$/, '');
 
     console.log(`\n📄 ${file} (${productNames.length}商品)`);
 
@@ -1145,6 +1246,14 @@ async function main() {
         const beforeSnapshot = extractProductSnapshot(updatedContent, name);
         const capacityNotes = [];
         const extractedCap = data.name ? extractCapacityFromItemName(data.name) : null;
+        const capacityAnalysis = data.name ? analyzeCapacityFromItemName(data.name) : {
+          capacity: null,
+          total: null,
+          normalizedTotal: null,
+          confidence: 'low',
+          reasons: ['API item name is empty'],
+          shouldAutoUpdate: false,
+        };
         const oldCapacityTotalForLog = extractCapacityTotal(extractProductCapacity(updatedContent, name) ?? '');
         const oldComparableForLog = normalizeCapacityTotal(oldCapacityTotalForLog);
         const apiTotal = extractedCap ? extractCapacityTotal(extractedCap) : null;
@@ -1264,6 +1373,47 @@ async function main() {
           } else if (!extractedCap && method === '[Item/Get]') {
             capacityNotes.push(`capacity判定: API商品名から容量取得不可のため既存 capacity を維持`);
           }
+        }
+
+        const proposedCapacity = updates.newCapacity ?? null;
+        const proposedTotal = proposedCapacity ? extractCapacityTotal(proposedCapacity) : null;
+        const proposedComparable = normalizeCapacityTotal(proposedTotal);
+        const capacityReview = shouldReviewCapacity({
+          method,
+          capacity,
+          capacityAnalysis,
+          oldComparable: oldComparableForLog,
+          proposedComparable: proposedComparable ?? apiComparable,
+          shouldFreezePriceCapacity,
+        });
+
+        if (capacityReview.needsReview) {
+          const hadProposedCapacityUpdate = updates.newCapacity != null;
+          if (hadProposedCapacityUpdate) {
+            delete updates.newCapacity;
+          }
+
+          const existingCapacityPricePerUnit = capacity && data.price !== null
+            ? calcPricePerUnit(data.price, capacity)
+            : null;
+          updates.pricePerUnit = existingCapacityPricePerUnit ?? beforeSnapshot?.pricePerUnit ?? null;
+
+          const action = hadProposedCapacityUpdate
+            ? 'blocked capacity auto-update; kept existing capacity'
+            : 'kept existing capacity; review recommended';
+          capacityNotes.push(`capacity safety: ${action}`);
+          capacityReview.reasons.forEach(reason => capacityNotes.push(`capacity review: ${reason}`));
+          capacityReviewItems.push(buildCapacityReviewItem({
+            file,
+            category: articleCategory,
+            method,
+            beforeSnapshot,
+            data,
+            capacityAnalysis,
+            extractedCap,
+            reviewReasons: capacityReview.reasons,
+            action,
+          }));
         }
 
         const afterSnapshot = buildAfterSnapshot(beforeSnapshot, updates);
@@ -1390,6 +1540,11 @@ async function main() {
   console.log('\n' + '═'.repeat(60));
   console.log(`✅ 成功: ${totalSuccess}件  ❌ 失敗: ${totalFail}件`);
   console.log(`📊 変更あり: ${totalChanged}件 / 変更なし: ${totalUnchanged}件 / capacity修正: ${totalCapacityChanged}件 / capacity取得不可: ${totalCapacityMissing}件 / 削除: ${totalDeleted}件`);
+  const capacityReport = writeCapacityReviewReports(capacityReviewItems);
+  if (capacityReport) {
+    console.log(`capacity review report: ${capacityReport.mdPath}`);
+    console.log(`AI capacity input: ${capacityReport.jsonlPath}`);
+  }
   if (!DRY_RUN && totalSuccess > 0) {
     console.log('各ファイルの .bak でいつでも元に戻せます。');
   }
