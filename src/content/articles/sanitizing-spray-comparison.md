@@ -53,8 +53,8 @@ products:
     name: "手ピカスプレー 消毒用アルコール"
     brand: "健栄製薬（手ピカ）"
     price: 4961
-    capacity: "-"
-    pricePerUnit: "-"
+    capacity: "420ml×10個"
+    pricePerUnit: "1.18円/ml"
     rating: 5
     reviewCount: 12
     features:

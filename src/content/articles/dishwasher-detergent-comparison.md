@@ -6,11 +6,11 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-10
 products:
   - rank: 1
-    name: "食洗機用ジョイ オレンジ 詰替特大 930g×8個"
+    name: "P&G 食洗機用ジョイ オレンジピール成分入り 詰替 490g"
     brand: "P&G（ジョイ）"
     price: 315
-    capacity: "930g×8個"
-    pricePerUnit: "約0.04円/g"
+    capacity: "490"
+    pricePerUnit: "約0.64円/g"
     rating: 4.5
     reviewCount: 12
     features:
@@ -28,11 +28,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902430708494-kksale%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10323617%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4902430708494.jpg?_ex=128x128"
   - rank: 2
-    name: "食洗機用ジョイ 除菌 詰替特大 930g×8個"
+    name: "食洗機用ジョイ 除菌 詰替特大 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
-    capacity: "930g×8個"
-    pricePerUnit: "約0.37円/g"
+    capacity: "930g×3袋"
+    pricePerUnit: "約1円/g"
     rating: 4.36
     reviewCount: 89
     features:
