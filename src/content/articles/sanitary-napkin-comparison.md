@@ -3,7 +3,7 @@ title: "ナプキン コスパ最強ランキング【2026年版】1枚あたり
 description: "生理用ナプキンを1枚あたりのコストで徹底比較。ソフィ・ロリエ・エリス・ウィスパーなど人気4選を吸収力・肌へのやさしさ・コスパで解説します。"
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
-updatedAt: 2026-05-10
+updatedAt: "2026-05-12"
 products:
   - rank: 1
     name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20"
@@ -28,11 +28,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F600587%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11325644%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/587/600587.jpg?_ex=128x128"
   - rank: 2
-    name: "ロリエ 多い昼 羽つき 30枚入"
+    name: "ロリエ スリムガード 特に多い昼用 羽つき 19個入"
     brand: "花王（ロリエ）"
     price: 529
-    capacity: "30枚入"
-    pricePerUnit: "約18円/枚"
+    capacity: "19枚入"
+    pricePerUnit: "約28円/枚"
     rating: 4.63
     reviewCount: 93
     features:

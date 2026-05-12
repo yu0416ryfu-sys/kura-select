@@ -1,9 +1,9 @@
 ---
 title: "お風呂用洗剤 コスパ最強ランキング【2026年版】カビ取り・防カビで比較"
-description: "お風呂用洗剤を1回あたりのコストで徹底比較。バスマジックリン・ルック・カビキラー・ウタマロの人気11選を洗浄力・コスパで解説します。"
+description: "お風呂用洗剤を1回あたりのコストで徹底比較。バスマジックリン・ルック・カビキラー・ウタマロの人気9選を洗浄力・コスパで解説します。"
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-11
+updatedAt: 2026-05-12
 products:
   - rank: 1
     name: "ルックプラス バスタブクレンジング 銀イオンプラス ハーバルグリーン 詰替サイズ"
@@ -182,28 +182,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100000031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000033%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/ecomate_hgc_03.jpg?_ex=128x128"
   - rank: 9
-    name: "マグネットバスルームクリーニングツールホルダー タワー"
-    brand: "山崎実業"
-    price: 1760
-    capacity: "-"
-    pricePerUnit: "-"
-    rating: 4.77
-    reviewCount: 480
-    features:
-      - "マグネット式でスポンジ・ブラシをスッキリ収納"
-      - "ホワイト・ブラック2色展開でインテリアに馴染む"
-      - "工具不要で浴室の金属面に簡単取り付け"
-    pros:
-      - "掃除道具が整理されて浴室がスッキリ"
-      - "シンプルデザインでどんな浴室にも合う"
-      - "洗剤・スポンジを一か所にまとめて掃除が効率化"
-    cons:
-      - "金属面（マグネットが付く壁）でないと使用不可"
-      - "収納グッズであり洗浄成分はなし"
-    recommendedFor: "バスルームの整理整頓をしたい方・掃除道具の収納に悩んでいる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s670n.3rdw613d.g00s670n.3rdw79ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbathroom%2Fyj-4976%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbathroom%2Fi%2F10003422%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bathroom/cabinet/0001/04521919/yj-4976_sam01b.jpg?_ex=128x128"
-  - rank: 10
     name: "風呂釜クリヤ"
     brand: "CLEAR CHEMICAL"
     price: 506
@@ -225,28 +203,6 @@ products:
     recommendedFor: "風呂釜クリーナーを低価格でお試ししたい方・コスパ優先の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rcwen.3rdw614e.g00rcwen.3rdw7d63/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamano%2F70-101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamano%2Fi%2F10000105%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamano/cabinet/syouhinn/hurogama/item/c_furogama_sku.jpg?_ex=128x128"
-  - rank: 11
-    name: "マグネットバスルームクリーニングツールホルダー タワー"
-    brand: "山崎実業"
-    price: 0
-    capacity: "1個"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "マグネット式でスポンジ・ブラシをスッキリ収納"
-      - "ホワイト・ブラック2色展開でインテリアに馴染む"
-      - "工具不要で浴室の金属面に簡単取り付け"
-    pros:
-      - "掃除道具が整理されて浴室がスッキリ"
-      - "シンプルデザインでどんな浴室にも合う"
-      - "洗剤・スポンジを一か所にまとめて掃除が効率化"
-    cons:
-      - "金属面（マグネットが付く壁）でないと使用不可"
-      - "収納グッズであり洗浄成分はなし"
-    recommendedFor: "バスルームの整理整頓をしたい方・掃除道具の収納に悩んでいる方"
-    rakutenUrl: "https://item.rakuten.co.jp/yamayuu/yj-4976/"
-    imageUrl: ""
 tags:
   - "お風呂用洗剤"
   - "コスパ"

@@ -3,7 +3,7 @@ title: "ジェルボール洗剤 コスパ最強ランキング【2026年版】1
 description: "ジェルボール洗剤を1個あたりのコストで徹底比較。アリエール・アタックZERO・ボールドなど人気商品を洗浄力・香り・コスパで解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
-updatedAt: 2026-05-10
+updatedAt: 2026-05-12
 products:
   - rank: 1
     name: "トップ クリアリキッド 詰め替え"
@@ -122,7 +122,7 @@ products:
     capacity: "1000g"
     pricePerUnit: "約6.4円/g"
     rating: 4.7
-    reviewCount: 637
+    reviewCount: 638
     features:
       - "スーツ・コート・ダウン・ニット・カシミアが洗えるドライ洗剤"
       - "無香料処方で素材本来の風合いを守る"
@@ -166,7 +166,7 @@ products:
     capacity: "5L×2本セット"
     pricePerUnit: "約548円/L"
     rating: 4.73
-    reviewCount: 514
+    reviewCount: 515
     features:
       - "業務用の大容量5L×2本セットで長期間使えるコスパ商品"
       - "衣類洗浄に加え排水管清掃にも使える多用途性"
@@ -232,7 +232,7 @@ products:
     capacity: "332個（332回分）"
     pricePerUnit: "約26円/個"
     rating: 4.88
-    reviewCount: 58
+    reviewCount: 59
     features:
       - "4Dの高密度洗浄技術で頑固な汚れに強い"
       - "微香タイプで香りが控えめ"
@@ -312,28 +312,6 @@ products:
     recommendedFor: "香り・柔軟効果重視・洗濯用品をシンプルにしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2ngn.3rdw6e7c.g00t2ngn.3rdw797f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F1710000080%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhikaritv%2Fi%2F10234804%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/sale/1710000080_rma.jpg?_ex=128x128"
-  - rank: 15
-    name: "プロウォッシュ"
-    brand: "アスパイラル"
-    price: 3850
-    capacity: "1000ml"
-    pricePerUnit: "0円/回"
-    rating: 4.55
-    reviewCount: 69
-    features:
-      - "プロ仕様のドライマーク衣類対応おしゃれ着洗剤"
-      - "ウール・カシミヤ・シルク・レーヨンなど繊細素材に対応"
-      - "無香料処方で素材本来の風合いを守る"
-    pros:
-      - "プロクオリティの洗浄力で高級衣類を自宅でケアできる"
-      - "無香料で衣類に香りが残らず素材の良さを活かせる"
-      - "大容量1000mlで長期間使用でき経済的"
-    cons:
-      - "クリーニング店に比べると洗浄力に限界がある場合がある"
-      - "一般的な綿・麻衣類には使用できない"
-    recommendedFor: "ドライマーク衣類を自宅で洗いたい方・高級素材のコートやニットのケアを頻繁にする方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2b0n.3rdw6085.g00r2b0n.3rdw7a27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faspa%2Farigatou031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faspa%2Fi%2F10000037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aspa/cabinet/item/item280/kawadon_280_w_new.jpg?_ex=128x128"
 tags:
   - "ジェルボール 洗剤"
   - "ジェルボール おすすめ"
