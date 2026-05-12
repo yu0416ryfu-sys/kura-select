@@ -3,7 +3,7 @@ title: "ボールペン コスパ最強ランキング【2026年版】1本あた
 description: "ボールペンを書き心地・インク・デザインで徹底比較。uni・ZEBRA・Parker・CROSSなど人気10選をコスパ・ギフト適性で解説します。"
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
-updatedAt: 2026-05-12
+updatedAt: 2026-05-13
 draft: false
 products:
   - rank: 1
@@ -73,6 +73,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbsyn.3rdw622d.g00qbsyn.3rdw79de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbugyo%2Fe06-21-660%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbugyo%2Fi%2F10006340%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/pen_2014/pen_2020_136_3.jpg?_ex=128x128"
   - rank: 4
+    name: "PARKER IM ボールペン"
+    brand: "PARKER"
+    price: 2680
+    capacity: "1本"
+    pricePerUnit: "約2680円/本"
+    rating: 4.57
+    reviewCount: 1321
+    features:
+      - "本体タイプのボールペンで日常の筆記に使いやすい"
+      - "まとめ買いやギフト用途でも選びやすい"
+      - "職場や学校で使いやすいシンプルな仕様"
+    pros:
+      - "普段使いに取り入れやすい"
+      - "用途に合わせて選びやすい"
+      - "ストックや配布用にも向く"
+    cons:
+      - "色や芯径は購入時に確認が必要"
+      - "価格は更新タイミングで変わる"
+    recommendedFor: "仕事や学習用のボールペンを追加で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzren.3rdw6689.g00pzren.3rdw7116/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpenroom%2Fparker0028%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpenroom%2Fi%2F10016658%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/penroom/cabinet/parker3/1900_r.jpg?_ex=128x128"
+  - rank: 5
     name: "木製ボールペン 名入れ ケースセット"
     brand: "福来館"
     price: 3000
@@ -94,7 +116,7 @@ products:
     recommendedFor: "ナチュラル・木製雑貨が好きな方・退職祝いや卒業記念品に特別感を出したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pus9n.3rdw6c57.g00pus9n.3rdw7ed1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuraikan%2F3502-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuraikan%2Fi%2F10020594%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuraikan/cabinet/00491516/01781229/mz02.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "パーカー IM ボールペン"
     brand: "Parker（パーカー）"
     price: 3470
@@ -116,7 +138,29 @@ products:
     recommendedFor: "海外ブランドの品質感を求める方・ビジネスギフトを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rviqn.3rdw6978.g00rviqn.3rdw793e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaireya%2Fparkerim%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaireya%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naireya/cabinet/item/parker/parker-bp-im-mbk.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
+    name: "CROSS ATX 名入れボールペン"
+    brand: "CROSS"
+    price: 4700
+    capacity: "1本"
+    pricePerUnit: "約4700円/本"
+    rating: 4.73
+    reviewCount: 40
+    features:
+      - "本体タイプのボールペンで日常の筆記に使いやすい"
+      - "まとめ買いやギフト用途でも選びやすい"
+      - "職場や学校で使いやすいシンプルな仕様"
+    pros:
+      - "普段使いに取り入れやすい"
+      - "用途に合わせて選びやすい"
+      - "ストックや配布用にも向く"
+    cons:
+      - "色や芯径は購入時に確認が必要"
+      - "価格は更新タイミングで変わる"
+    recommendedFor: "仕事や学習用のボールペンを追加で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tlg5n.3rdw6c53.g00tlg5n.3rdw7b17/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshoppress%2Fcrossn882%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshoppress%2Fi%2F10000169%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shoppress/cabinet/cross/crossn882a_1.jpg?_ex=128x128"
+  - rank: 8
     name: "ジェットストリーム 名入れ 多機能ボールペン 4色"
     brand: "uni（三菱鉛筆）"
     price: 880
@@ -138,7 +182,7 @@ products:
     recommendedFor: "プレゼント・記念品を探している方・1本で多機能をまとめたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q656n.3rdw61ae.g00q656n.3rdw7d60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbunbougu-shibuya%2Fmsxe5-1000-05n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbunbougu-shibuya%2Fi%2F10074288%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bunbougu-shibuya/cabinet/73/msxe5-1000n_.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 9
     name: "ジェットストリーム 4+1 MSXE5-1000 名入れ無料"
     brand: "uni（三菱鉛筆）"
     price: 1000
@@ -160,7 +204,7 @@ products:
     recommendedFor: "名入れコストを抑えたい方・まとめてギフトを手配したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qm7tn.3rdw6475.g00qm7tn.3rdw747f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-youstyle%2Fmit-msxe5-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-youstyle%2Fi%2F10066665%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-youstyle/cabinet/rakulogo/rakulogo-01/imgrc0099064926.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 10
     name: "サラサグランド ビンテージ ジェルボールペン"
     brand: "ZEBRA（ゼブラ）"
     price: 1200
@@ -182,7 +226,7 @@ products:
     recommendedFor: "おしゃれなデザインを重視する方・滑らかなゲルの書き心地を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q020n.3rdw6d49.g00q020n.3rdw75a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fogawahan%2F10008119%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fogawahan%2Fi%2F10008119%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ogawahan/cabinet/pen/sarasa-gr/new01.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 11
     name: "ジェットストリーム 4+1 名入れ 部活マーク"
     brand: "uni（三菱鉛筆）"
     price: 1300
@@ -204,7 +248,7 @@ products:
     recommendedFor: "部活の卒団記念品を一括手配したい方・オリジナルマーク入りを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe23n.3rdw6a7a.g00qe23n.3rdw7bec/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeman%2Fjet-light%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeman%2Fi%2F10461509%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ikeman/cabinet/hikkigu/jet4and1/10824126/jetl_top.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 12
     name: "クロス カレイ ボールペン"
     brand: "CROSS（クロス）"
     price: 2640
@@ -226,6 +270,50 @@ products:
     recommendedFor: "クラシックなデザインを好む方・米国ブランドの高級ペンを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qm7tn.3rdw6475.g00qm7tn.3rdw747f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-youstyle%2Fcr-at0112-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-youstyle%2Fi%2F10044341%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-youstyle/cabinet/cross/10744491/cr-at0112-1.jpg?_ex=128x128"
+  - rank: 13
+    name: "多色ボールペン"
+    brand: "文具"
+    price: 0
+    capacity: "1本"
+    pricePerUnit: "要更新"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "本体タイプのボールペンで日常の筆記に使いやすい"
+      - "まとめ買いやギフト用途でも選びやすい"
+      - "職場や学校で使いやすいシンプルな仕様"
+    pros:
+      - "普段使いに取り入れやすい"
+      - "用途に合わせて選びやすい"
+      - "ストックや配布用にも向く"
+    cons:
+      - "色や芯径は購入時に確認が必要"
+      - "価格は更新タイミングで変わる"
+    recommendedFor: "仕事や学習用のボールペンを追加で比較したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/happy-bell/allpen/"
+    imageUrl: ""
+  - rank: 14
+    name: "名入れ多色ボールペン"
+    brand: "文具"
+    price: 0
+    capacity: "1本"
+    pricePerUnit: "要更新"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "本体タイプのボールペンで日常の筆記に使いやすい"
+      - "まとめ買いやギフト用途でも選びやすい"
+      - "職場や学校で使いやすいシンプルな仕様"
+    pros:
+      - "普段使いに取り入れやすい"
+      - "用途に合わせて選びやすい"
+      - "ストックや配布用にも向く"
+    cons:
+      - "色や芯径は購入時に確認が必要"
+      - "価格は更新タイミングで変わる"
+    recommendedFor: "仕事や学習用のボールペンを追加で比較したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/cigar-shop/pen-3-4/"
+    imageUrl: ""
 tags:
   - "ボールペン おすすめ"
   - "ボールペン コスパ"
@@ -233,6 +321,7 @@ tags:
   - "高級ボールペン"
   - "ボールペン ギフト"
 ---
+
 
 ## ボールペンの選び方ガイド
 

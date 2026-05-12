@@ -3,7 +3,7 @@ title: "コンディショナー コスパ最強ランキング【2026年版】1
 description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気4選をダメージケア・コスパで解説します。"
 category: "conditioner"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-12
+updatedAt: 2026-05-13
 products:
   - rank: 1
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"

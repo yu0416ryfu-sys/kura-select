@@ -3,14 +3,14 @@ title: "洗濯洗剤 コスパ最強ランキング【2026年版】1回あたり
 description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉末・ジェルボール別におすすめ13選を紹介。楽天で買えるコスパ最強の洗濯洗剤を探している方必見です。"
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
-updatedAt: "2026-05-12"
+updatedAt: 2026-05-13
 products:
   - rank: 1
     name: "トップ クリアリキッド 業務用 4kg×3本"
     brand: "ライオン（トップ）"
     price: 5130
     capacity: "4kg×3本"
-    pricePerUnit: "約0.43円/g"
+    pricePerUnit: "約428円/kg"
     rating: 4.8
     reviewCount: 215
     features:
@@ -50,11 +50,33 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2Fs621006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10002096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/9fa-fa/fafa4/02539939/4902135147420_case.jpg?_ex=128x128"
   - rank: 3
+    name: "WORKERS 作業着液体洗剤 業務用"
+    brand: "WORKERS"
+    price: 9800
+    capacity: "4500g×4本"
+    pricePerUnit: "約0.54円/g"
+    rating: 4.61
+    reviewCount: 169
+    features:
+      - "衣類用の液体洗剤"
+      - "業務用・大容量で使いやすい"
+      - "汚れの多い衣類にも選びやすい"
+    pros:
+      - "まとめ買い向き"
+      - "使用頻度が高い家庭に向く"
+      - "作業着洗いに使いやすい"
+    cons:
+      - "保管場所が必要"
+      - "通常衣類への使い方は表示確認が必要"
+    recommendedFor: "大容量の洗濯洗剤を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2F620905a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10000769%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/01/workers/workers2019_4500_c.jpg?_ex=128x128"
+  - rank: 4
     name: "アリエール 部屋干し 除菌プラス 詰め替え 超ジャンボ 1kg×6袋"
     brand: "アリエール（P&G）"
     price: 5580
     capacity: "1kg×6袋"
-    pricePerUnit: "約0.93円/g"
+    pricePerUnit: "約930円/kg"
     rating: 4.75
     reviewCount: 16
     features:
@@ -72,7 +94,7 @@ products:
     recommendedFor: "洗浄力・ブランド信頼性を重視する方・詰め替え派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7260889%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10217201%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11514673/7280531.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "アタックZERO ワンハンド 本体 380g×4セット"
     brand: "花王（アタックZERO）"
     price: 2345
@@ -94,7 +116,7 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404956%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148575%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/956/404956.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "ハイベック プレミアムドライ 1100g"
     brand: "ハイベック"
     price: 6600
@@ -116,7 +138,7 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3zun.3rdw6a0f.g00r3zun.3rdw79f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec%2F00000101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec%2Fi%2F10000019%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec/cabinet/10613881/11103765/imgrc0113501552.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "サンベック高級洗剤 1000g"
     brand: "サンベック"
     price: 6380
@@ -138,7 +160,7 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsb1000-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000195%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/18sb.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 8
     name: "海へ Fukii 詰替 380g"
     brand: "がんこ本舗"
     price: 2552
@@ -160,7 +182,7 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100003250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10003319%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/4525048232214_03.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "海へ Fukii 詰替 380g×3個セット"
     brand: "がんこ本舗"
     price: 7656
@@ -182,14 +204,14 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100003252%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10003321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/4525048232214_09.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "サンベックドライ洗剤 500g"
     brand: "サンベック"
     price: 3980
     capacity: "500g"
     pricePerUnit: "約8.0円/g"
     rating: 4.67
-    reviewCount: 543
+    reviewCount: 544
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -204,7 +226,7 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsbd500-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000197%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/imgrc0074782606.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 11
     name: "緑の魔女 ランドリー 5L×2個セット"
     brand: "ミマスクリーンケア"
     price: 5480
@@ -226,7 +248,7 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7091429%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10060352%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/thum/naosi/syoumou_set/7091429_khome.jpg?_ex=128x128"
-  - rank: 11
+  - rank: 12
     name: "おまかせドライ 本体 450mL"
     brand: "ファーファ"
     price: 1540
@@ -248,7 +270,7 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2F620666%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10001124%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/01/dry/omakase2017.jpg?_ex=128x128"
-  - rank: 12
+  - rank: 13
     name: "プロ・ウォッシュ 1000mL"
     brand: "プロ・ウォッシュ"
     price: 3450
@@ -270,7 +292,7 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2b0n.3rdw6085.g00r2b0n.3rdw7a27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faspa%2Farigatou004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faspa%2Fi%2F10000003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aspa/cabinet/item/item280/pro_700_w.jpg?_ex=128x128"
-  - rank: 13
+  - rank: 14
     name: "ボールド 洗濯洗剤 ジェルボール 4in1 詰め替え 65個"
     brand: "P&G（ボールド）"
     price: 4480
@@ -300,6 +322,7 @@ tags:
   - "洗濯"
 draft: false
 ---
+
 
 ## 洗濯洗剤の選び方ガイド
 
