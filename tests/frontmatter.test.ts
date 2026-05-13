@@ -1081,6 +1081,22 @@ products:
 
     expect(result.changed).toBe(true);
     expect(result.removed).toBe(2);
+    expect(result.removedProducts).toEqual([
+      {
+        rank: 11,
+        name: "商品11",
+        capacity: null,
+        reviewCount: null,
+        rakutenUrl: "https://example.com/11",
+      },
+      {
+        rank: 12,
+        name: "商品12",
+        capacity: null,
+        reviewCount: null,
+        rakutenUrl: "https://example.com/12",
+      },
+    ]);
     expect(result.content).toContain('name: "商品1"');
     expect(result.content).toContain('name: "商品2"');
     expect(result.content).not.toContain('name: "商品11"');

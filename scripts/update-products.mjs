@@ -14,7 +14,7 @@
  * バックアップ: 実行前に <ファイル名>.bak を自動作成
  */
 
-import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
+import { readFileSync, writeFileSync, appendFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
 import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 
@@ -251,6 +251,75 @@ function todayJst() {
 
 function ensureDir(dir) {
   if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
+}
+
+const DELETED_PRODUCT_HISTORY_PATH = resolve(process.cwd(), 'data/deleted-products-history.jsonl');
+const RECENT_DELETED_DAYS = 7;
+
+function parseDateAsUtc(date) {
+  if (typeof date !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(date)) return null;
+  const parsed = new Date(`${date}T00:00:00.000Z`);
+  return Number.isNaN(parsed.getTime()) ? null : parsed;
+}
+
+function isWithinRecentDays(date, today, days) {
+  const target = parseDateAsUtc(date);
+  const base = parseDateAsUtc(today);
+  if (!target || !base) return false;
+  const diffDays = (base.getTime() - target.getTime()) / 86400000;
+  return diffDays >= 0 && diffDays <= days;
+}
+
+function readDeletedProductHistory() {
+  if (!existsSync(DELETED_PRODUCT_HISTORY_PATH)) return [];
+  return readFileSync(DELETED_PRODUCT_HISTORY_PATH, 'utf-8')
+    .split(/\r?\n/)
+    .map(line => line.trim())
+    .filter(Boolean)
+    .map(line => {
+      try { return JSON.parse(line); } catch { return null; }
+    })
+    .filter(Boolean);
+}
+
+function getRecentDeletedProductsForArticle(articleFile, today) {
+  return readDeletedProductHistory()
+    .filter(item => item.articleFile === articleFile)
+    .filter(item => isWithinRecentDays(item.deletedAt, today, RECENT_DELETED_DAYS));
+}
+
+function findRecentDeletedProduct(directUrl, recentDeletedProducts) {
+  if (!directUrl) return null;
+  return recentDeletedProducts.find(item => item.directUrl === directUrl) ?? null;
+}
+
+function appendDeletedProductHistory(items) {
+  if (items.length === 0) return null;
+  ensureDir(dirname(DELETED_PRODUCT_HISTORY_PATH));
+  appendFileSync(
+    DELETED_PRODUCT_HISTORY_PATH,
+    items.map(item => JSON.stringify(item)).join('\n') + '\n',
+    'utf-8'
+  );
+  return DELETED_PRODUCT_HISTORY_PATH;
+}
+
+function buildDeletedProductHistoryItems({ file, category, products, maxRank }) {
+  const deletedAt = todayJst();
+  return products.map(product => ({
+    deletedAt,
+    articleFile: `src/content/articles/${file}`,
+    category,
+    reason: 'rank-limit',
+    maxRank,
+    rank: product.rank ?? null,
+    name: product.name ?? '',
+    capacity: product.capacity ?? null,
+    reviewCount: product.reviewCount ?? null,
+    rakutenUrl: product.rakutenUrl ?? '',
+    directUrl: toDirectItemUrl(product.rakutenUrl) ?? product.rakutenUrl ?? '',
+    identityKey: normalizeProductIdentity(product.name ?? ''),
+  }));
 }
 
 function normalizePathForCompare(path) {
@@ -1289,7 +1358,12 @@ async function checkAdditions() {
     const needed = TARGET_COUNT - products.length;
     const baseKeyword = buildArticleSearchKeyword(title ?? products[0]?.name ?? file);
     const searchRule = getAdditionSearchRule(category, baseKeyword);
+    const articleFile = `src/content/articles/${file}`;
+    const recentDeletedProducts = getRecentDeletedProductsForArticle(articleFile, today);
     console.log(`\n📄 ${file}: ${products.length}商品 → あと${needed}件必要（検索: "${searchRule.keywords.join('", "')}"）`);
+    if (recentDeletedProducts.length > 0) {
+      console.log(`   🧹 直近${RECENT_DELETED_DAYS}日以内の削除履歴: ${recentDeletedProducts.length}件`);
+    }
 
     // 既存商品のURLセット（重複除外用）
     const existingUrls = new Set(
@@ -1319,6 +1393,7 @@ async function checkAdditions() {
         noCapacity: 0,
         noCapacityUsed: 0,
         badCapacityUnit: 0,
+        recentDeleted: 0,
         lowScore: 0,
       };
 
@@ -1352,6 +1427,12 @@ async function checkAdditions() {
         if (existingUrls.has(directUrl)) {
           stats.duplicate++;
           recordExcluded('既存URL重複', c, { directUrl });
+          continue;
+        }
+        const recentDeleted = findRecentDeletedProduct(directUrl, recentDeletedProducts);
+        if (recentDeleted) {
+          stats.recentDeleted++;
+          recordExcluded(`直近削除履歴（${recentDeleted.deletedAt}にrank上限で削除）`, c, { directUrl });
           continue;
         }
 
@@ -1424,6 +1505,7 @@ async function checkAdditions() {
           `- 容量抽出不可候補: ${stats.noCapacity}件\n` +
           `- 容量抽出不可で補完採用: ${stats.noCapacityUsed}件\n` +
           `- 比較対象外の容量単位で除外: ${stats.badCapacityUnit}件\n` +
+          `- 直近削除履歴で除外: ${stats.recentDeleted}件\n` +
           `- スコア不足で除外: ${stats.lowScore}件\n` +
           `- 有効候補: ${validCandidates.length}件 / 容量抽出不可の補完候補: ${noCapacityCandidates.length}件\n` +
           buildExcludedCandidatesSection(excludedCandidates)
@@ -1442,6 +1524,7 @@ async function checkAdditions() {
       section += `- 容量抽出不可候補: ${stats.noCapacity}件\n`;
       section += `- 容量抽出不可で補完採用: ${stats.noCapacityUsed}件\n`;
       section += `- 比較対象外の容量単位で除外: ${stats.badCapacityUnit}件\n`;
+      section += `- 直近削除履歴で除外: ${stats.recentDeleted}件\n`;
       section += `- スコア不足で除外: ${stats.lowScore}件\n`;
       section += `- 有効候補: ${validCandidates.length}件 / 容量抽出不可の補完候補: ${noCapacityCandidates.length}件\n\n`;
 
@@ -2013,10 +2096,17 @@ async function processArticle(file, articlesDir, zeroState) {
   }
 
   // 機能5: 並び替え後、rank 11位以下の商品を削除
+  let rankLimitDeletedHistoryItems = [];
   const limitResult = limitProductsByRank(updatedContent, 10);
   if (limitResult.changed) {
     updatedContent = limitResult.content;
     result.stats.deleted += limitResult.removed;
+    rankLimitDeletedHistoryItems = buildDeletedProductHistoryItems({
+      file,
+      category: articleCategory,
+      products: limitResult.removedProducts,
+      maxRank: 10,
+    });
     limitResult.log.forEach(l => log(`   🗑 ${DRY_RUN ? '[dry-run] ' : ''}${l}`));
   }
 
@@ -2042,6 +2132,10 @@ async function processArticle(file, articlesDir, zeroState) {
     writeFileSync(filePath + '.bak', content, 'utf-8');
     // ファイル更新
     writeFileSync(filePath, updatedContent, 'utf-8');
+    const historyPath = appendDeletedProductHistory(rankLimitDeletedHistoryItems);
+    if (historyPath) {
+      log(`   🧾 削除履歴を記録: ${historyPath}`);
+    }
     log(`   💾 更新完了（updatedAt: ${today}、バックアップ: ${basename(filePath)}.bak）`);
   }
   log(`   📊 記事集計: 更新 ${result.stats.changed}件 / 変更なし ${result.stats.unchanged}件 / capacity修正 ${result.stats.capacityChanged}件 / capacity取得不可 ${result.stats.capacityMissing}件 / 削除 ${result.stats.deleted}件 / 失敗 ${result.stats.failed}件`);

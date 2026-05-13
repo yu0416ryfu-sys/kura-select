@@ -860,10 +860,10 @@ export function reorderProductsByPricePerUnit(
 export function limitProductsByRank(
   content: string,
   maxRank = 10
-): { content: string; changed: boolean; removed: number; log: string[] } {
+): { content: string; changed: boolean; removed: number; removedProducts: ProductBasicData[]; log: string[] } {
   const parsed = parseFrontmatter(content);
   if (!parsed || !Array.isArray(parsed.data.products)) {
-    return { content, changed: false, removed: 0, log: [] };
+    return { content, changed: false, removed: 0, removedProducts: [], log: [] };
   }
 
   type P = Record<string, unknown>;
@@ -874,22 +874,29 @@ export function limitProductsByRank(
   });
 
   const removed = products.length - kept.length;
-  if (removed <= 0) return { content, changed: false, removed: 0, log: [] };
+  if (removed <= 0) return { content, changed: false, removed: 0, removedProducts: [], log: [] };
+
+  const removedBlocks = products.filter(product => !kept.includes(product));
+  const removedProducts = removedBlocks.map(product => ({
+    rank: typeof product.rank === 'number' ? product.rank : Number(product.rank) || 0,
+    name: typeof product.name === 'string' ? product.name : '',
+    capacity: typeof product.capacity === 'string' ? product.capacity : null,
+    reviewCount: typeof product.reviewCount === 'number' ? product.reviewCount : null,
+    rakutenUrl: typeof product.rakutenUrl === 'string' ? product.rakutenUrl : '',
+  })).filter(product => product.name || product.rakutenUrl);
 
   kept.forEach((product, index) => {
     product.rank = index + 1;
   });
   parsed.data.products = kept;
 
-  const removedNames = products
-    .filter(product => !kept.includes(product))
-    .map(product => String(product.name ?? '(nameなし)'));
+  const removedNames = removedBlocks.map(product => String(product.name ?? '(nameなし)'));
   const log = [
     `rank ${maxRank + 1}位以下を${removed}件削除`,
     ...removedNames.map(name => `削除: ${name}`),
   ];
 
-  return { content: dumpFrontmatter(parsed.data, parsed.body), changed: true, removed, log };
+  return { content: dumpFrontmatter(parsed.data, parsed.body), changed: true, removed, removedProducts, log };
 }
 
 /**
