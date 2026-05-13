@@ -171,7 +171,7 @@ $OutputEncoding = [System.Text.UTF8Encoding]::new($false)
 例:
 
 ```bash
-node -e "const fs=require('fs');const input='reports/product-match-input-YYYY-MM-DD.jsonl';const p='reports/ai-matches/pending/product-match-output-YYYY-MM-DD.jsonl';const inLines=fs.readFileSync(input,'utf8').trim().split(/\r?\n/).map(JSON.parse);const outLines=fs.readFileSync(p,'utf8').trim().split(/\r?\n/).map(JSON.parse);if(inLines.length!==outLines.length)throw new Error('count mismatch');let r=0,v=0;for(let i=0;i<outLines.length;i++){const o=outLines[i],src=inLines[i];if(o.action==='replace')r++;else if(o.action==='review')v++;else throw new Error('bad action line '+(i+1));if(/[?]{3,}/.test(o.reason||'')||/[?]{3,}/.test(o.newName||'')||/[?]{3,}/.test(o.newCapacity||''))throw new Error('mojibake line '+(i+1));if(o.action==='replace'){const candidates=src.candidates||[];for(const [key,ckey] of [['selectedItemUrl','itemUrl'],['selectedAffiliateUrl','affiliateUrl'],['selectedImageUrl','imageUrl']]){if(!candidates.some(c=>c[ckey]===o[key]))throw new Error(key+' not from candidates line '+(i+1));}const md=fs.readFileSync(o.articleFile,'utf8');const rankRe=new RegExp('rank:\\\\s*'+String(o.rank)+'[\\\\s\\\\S]*?name:\\\\s*[\"'']?'+o.current.name.replace(/[.*+?^${}()|[\\]\\\\]/g,'\\\\$&')+'[\"'']?');if(!rankRe.test(md))throw new Error('rank/current.name mismatch line '+(i+1));}}console.log('valid jsonl',outLines.length,'replace',r,'review',v);"
+node .agents/skills/kura-product-match-ai/scripts/validate-output.mjs reports/product-match-input-YYYY-MM-DD.jsonl reports/ai-matches/pending/product-match-output-YYYY-MM-DD.jsonl
 ```
 
 ## 適用確認
