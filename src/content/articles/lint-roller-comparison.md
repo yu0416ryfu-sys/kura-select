@@ -1,6 +1,6 @@
 ---
 title: "粘着クリーナー コスパ最強ランキング【2026年版】1巻あたり最安で比較"
-description: "粘着クリーナー（コロコロ）を1巻あたりのコストで徹底比較。ニトムズ・アイリスオーヤマ・3M・レックなど人気4選を粘着力・コスパで解説します。"
+description: "粘着クリーナー（コロコロ）を1巻あたりのコストで徹底比較。ニトムズ・アイリスオーヤマ・3M・レックなど人気10選を粘着力・コスパで解説します。"
 category: "lint-roller"
 publishedAt: "2026-05-01"
 updatedAt: 2026-05-13
@@ -203,6 +203,28 @@ products:
     recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F310671%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10113721%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_nitomuzu1/310671.jpg?_ex=128x128"
+  - rank: 10
+    name: "粘着ローラー無限 洗って繰り返し使える粘着クリーナー"
+    brand: "セールプラザ"
+    price: 0
+    capacity: "1個"
+    pricePerUnit: "0円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "水洗いで粘着力が復活するシリコン素材採用"
+      - "スペアテープ不要で繰り返し使えるエコ設計"
+      - "衣類・ソファ・カーペット・車内など幅広い用途に対応"
+    pros:
+      - "ランニングコストがかからずコスパ重視の方に向く"
+      - "ゴミが出ないためエコ意識の高い方に最適"
+      - "引っ掛け穴付きで収納しやすく取り出しやすい"
+    cons:
+      - "使用後は毎回水洗いと乾燥が必要"
+      - "使い捨てテープタイプと比べて粘着力の持続性は異なる"
+    recommendedFor: "スペアテープの買い替えをなくしたい方・エコな掃除グッズを探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/s-plaza/10012290/"
+    imageUrl: ""
 tags:
   - "コロコロ おすすめ"
   - "粘着クリーナー コスパ"

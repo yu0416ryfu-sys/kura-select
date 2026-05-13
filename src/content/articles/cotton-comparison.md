@@ -1,6 +1,6 @@
 ---
-title: "コットン コスパ最強ランキング【2026年版】1枚あたり最安で比較"
-description: "コットン・コットンパッドを1枚あたりのコストで比較。ビオレ・シルコットなど、楽天リンクの整合性を確認できた商品を肌触り・コスパで解説します。"
+title: "コットン コスパ最強ランキング【2026年版】11選 1枚あたり最安で比較"
+description: "コットン・コットンパッドを1枚あたりのコストで比較。ビオレ・シルコットなど11商品を肌触り・コスパで解説します。"
 category: "cotton"
 publishedAt: "2026-05-03"
 updatedAt: 2026-05-13
@@ -225,6 +225,28 @@ products:
     recommendedFor: "トナーパッドで手軽にふき取りケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5tzn.3rdw6175.g00u5tzn.3rdw760d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonedaysyou%2Fdactopadrefill2_copy%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonedaysyou%2Fi%2F10000136%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onedaysyou/cabinet/12819556/12846370/imgrc0114009555.jpg?_ex=128x128"
+  - rank: 11
+    name: "シルコット なめらか仕立て 化粧用コットン 5点セット"
+    brand: "ユニ・チャーム（シルコット）"
+    price: 0
+    capacity: "82枚×5点"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "発泡構造によるやわらかい肌あたりとなめらかな使用感"
+      - "化粧水の塗布やパッティングに使いやすいコットンタイプ"
+      - "まとめ買いしやすい5点セット構成"
+    pros:
+      - "なめらかな肌触りを重視してコットンを選びたい方に向いている"
+      - "敏感肌や摩擦が気になる方の日常ケアに取り入れやすい"
+      - "5点セットでストックを確保しやすい"
+    cons:
+      - "超吸水タイプと比べると化粧水の節約効果は限定的"
+      - "単品購入よりセット購入が前提のため使いきるまでの保管場所が必要"
+    recommendedFor: "なめらかな使い心地のコットンをまとめて備えたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/at-life/4903111455546-005/"
+    imageUrl: ""
 tags:
   - "コットン おすすめ"
   - "コットンパッド コスパ"

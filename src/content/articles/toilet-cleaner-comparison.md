@@ -1,9 +1,9 @@
 ---
 title: "トイレ用洗剤 コスパ最強ランキング【2026年版】除菌力・洗浄力で比較"
-description: "トイレ用洗剤を1回あたりのコストで徹底比較。サンポール・スクラビングバブル・ドメスト・ブルーレットの人気4選を解説します。"
+description: "トイレ用洗剤を1回あたりのコストで徹底比較。サンポール・スクラビングバブル・ドメスト・ブルーレットなど人気9選を解説します。"
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-13
+updatedAt: "2026-05-13"
 products:
   - rank: 1
     name: "大日本除虫菊 KINCHO サンポール トイレ洗剤 尿石除去"
@@ -203,6 +203,116 @@ products:
     recommendedFor: "フチ裏の汚れに悩む方・黒ずみ・カビを落としたい方・塩素系洗剤派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe341234h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10252628%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/440/4901609005440.jpg?_ex=128x128"
+  - rank: 10
+    name: "スクラビングバブル 超強力トイレクリーナー 3本セット"
+    brand: "ジョンソン（スクラビングバブル）"
+    price: 0
+    capacity: "400g×3本"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "塩素系ジェルがフチ裏に密着して除菌・漂白"
+      - "まとめ買いしやすい3本セット構成"
+      - "ブラシを使わずに汚れを落とせる処方設計"
+    pros:
+      - "3本まとめ買いで買い置きストックができる"
+      - "フチ裏の黒ずみ・カビに対応した洗浄力"
+      - "日常使いと集中掃除の両方に活用しやすい"
+    cons:
+      - "塩素系のため酸性洗剤との同時使用は不可"
+      - "刺激臭があるため使用時は換気が必要"
+    recommendedFor: "まとめ買いでコストを抑えたい方・フチ裏の汚れに悩む方"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/22501/"
+    imageUrl: ""
+  - rank: 11
+    name: "スクラビングバブル 超強力トイレクリーナー 5本セット"
+    brand: "ジョンソン（スクラビングバブル）"
+    price: 0
+    capacity: "400g×5本"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "塩素系ジェルで黒ずみ・カビを漂白・除菌"
+      - "大容量5本セットで長期ストック向け"
+      - "フチ裏まで届くノズルで密着洗浄"
+    pros:
+      - "5本セットでまとめて揃えられ交換の手間が減る"
+      - "黒ずみ・カビを塩素系の漂白力で仕上げられる"
+      - "トイレ専用設計で使い方がシンプル"
+    cons:
+      - "塩素系洗剤のため酸性洗剤との併用は厳禁"
+      - "強い香りが苦手な方には向かない場合がある"
+    recommendedFor: "長期ストックを想定したい方・塩素系洗剤を定期購入したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/72256/"
+    imageUrl: ""
+  - rank: 12
+    name: "スクラビングバブル 超強力トイレクリーナー 10本セット"
+    brand: "ジョンソン（スクラビングバブル）"
+    price: 0
+    capacity: "400g×10本"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "塩素系ジェルがフチ裏の黒ずみ・カビを除去"
+      - "業務用に近い10本まとめ買いセット"
+      - "1本あたりのコストを抑えやすい大容量構成"
+    pros:
+      - "大家族や頻繁に使う環境でもストック切れしにくい"
+      - "1本単位より割安になりやすいまとめ買い構成"
+      - "定期的なトイレ掃除のルーティン化がしやすい"
+    cons:
+      - "保管スペースが必要になる"
+      - "酸性洗剤と同時使用は危険なため管理に注意が必要"
+    recommendedFor: "大容量まとめ買いでコストを最小化したい方・頻繁にトイレ掃除をする方"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/542515/"
+    imageUrl: ""
+  - rank: 13
+    name: "ソネット ナチュラルトイレットクリーナー"
+    brand: "SONETT（ソネット）"
+    price: 0
+    capacity: "750ml"
+    pricePerUnit: "0円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ドイツ発の天然由来成分を使用したエコ洗剤"
+      - "動物実験非実施ポリシーで製造"
+      - "NCP・CSEなど複数の環境認証を取得"
+    pros:
+      - "成分にこだわりたい方・環境配慮型洗剤を探している方に向いている"
+      - "便器以外に床やタイル洗浄にも使いやすい多用途性"
+      - "セスキ炭酸塩などの天然成分が配合されており素材へのやさしさを重視"
+    cons:
+      - "国産の塩素系・酸性洗剤と比べて洗浄力の傾向が異なる"
+      - "取り扱い店舗が限られ入手ルートを確認する必要がある"
+    recommendedFor: "環境配慮型洗剤を選びたい方・天然由来成分にこだわる方"
+    rakutenUrl: "https://item.rakuten.co.jp/greenpacks/100000730/"
+    imageUrl: ""
+  - rank: 14
+    name: "ルック まめピカ トイレクリーナー つめかえ用"
+    brand: "ライオン（ルック）"
+    price: 0
+    capacity: "190ml"
+    pricePerUnit: "0円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "詰め替え用タイプで本体容器を繰り返し使用可能"
+      - "便器内の黒ずみ・黄ばみを浮かせて除去する処方"
+      - "フロック付きで吹きかけやすい設計"
+    pros:
+      - "詰め替えタイプのためプラスチックごみを減らせる"
+      - "本体容器を持っていれば継続使用のコストを抑えやすい"
+      - "スプレー式で便座まわりの細かい部分に使いやすい"
+    cons:
+      - "別売りの本体容器が必要なため単独では使用できない"
+      - "頑固な尿石・黒ずみには専用洗剤との使い分けが推奨される"
+    recommendedFor: "詰め替え運用でコストを抑えたい方・日常の軽い掃除に使いやすい洗剤を探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/at-life/4903301118336_24/"
+    imageUrl: ""
 tags:
   - "トイレ用洗剤"
   - "コスパ"

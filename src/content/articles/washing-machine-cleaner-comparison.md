@@ -1,6 +1,6 @@
 ---
 title: "洗濯槽クリーナー コスパ最強ランキング【2026年版】塩素系・酸素系で比較"
-description: "洗濯槽クリーナーを1回あたりのコストで徹底比較。塩素系・酸素系の違いやオキシクリーン・洗濯槽カビキラーなど人気4選を解説します。"
+description: "洗濯槽クリーナーを1回あたりのコストで徹底比較。塩素系・酸素系の違いやオキシクリーン・洗濯槽カビキラーなど人気15選を解説します。"
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 updatedAt: 2026-05-13
@@ -93,6 +93,248 @@ products:
     recommendedFor: "ドラム式洗濯機ユーザー・メーカー推奨品を使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4549077290441%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10184735%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/gg/4549077290441.jpg?_ex=128x128"
+  - rank: 5
+    name: "洗濯槽快 10個セット 専用ネット付 ホタテ貝殻素材"
+    brand: "くらし快適ショップ"
+    price: 0
+    capacity: "10個セット（専用ネット1枚付）"
+    pricePerUnit: "0円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ホタテ貝殻を原料とした天然素材系クリーナー"
+      - "カビ防止・除菌・消臭の3つの機能を持つ"
+      - "業務用箱なしでコンパクトに届く10個セット"
+    pros:
+      - "天然素材が気になる方に向いている"
+      - "まとめ買いで使い続けやすい"
+      - "梅雨時や部屋干し対策として定期使用しやすい"
+    cons:
+      - "ホタテ貝殻素材の効果には個人差がある"
+      - "一般的な化学系クリーナーと洗浄機序が異なる点に注意"
+    recommendedFor: "天然素材にこだわりたい方・まとめ買いで節約したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/kurashikaiteki-shop/10000168/"
+    imageUrl: ""
+  - rank: 6
+    name: "過炭酸ナトリウム 酸素系漂白剤 950g"
+    brand: "NICHIGA（ニチガ）"
+    price: 0
+    capacity: "950g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "過炭酸ナトリウム100%の酸素系漂白剤"
+      - "pH10.5のアルカリ性で汚れに働きかける"
+      - "洗濯槽クリーニングから衣類漂白まで多用途"
+    pros:
+      - "塩素系のような強いにおいがなく使いやすい"
+      - "色柄物の衣類にも使用できる"
+      - "洗濯槽以外の掃除にも活用できる汎用性がある"
+    cons:
+      - "つけおき時間が必要なため手軽さは塩素系に劣る"
+      - "計量が必要で手間がかかる"
+    recommendedFor: "においが気になる方・多用途に使いたい方・酸素系を試してみたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/auc-garlic/katannsann1/"
+    imageUrl: ""
+  - rank: 7
+    name: "シャボン玉 洗たく槽クリーナー 500g 2袋セット"
+    brand: "シャボン玉石けん"
+    price: 0
+    capacity: "500g×2袋（2回分）"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "合成界面活性剤不使用の石けん系処方"
+      - "30〜40℃のぬるま湯で使用する酸素系クリーナー"
+      - "プラスチック製・ステンレス製両対応"
+    pros:
+      - "無添加処方を重視する方に向いている"
+      - "2袋セットでまとめ買いができる"
+      - "衣類や肌への成分残留が気になる方に選ばれやすい"
+    cons:
+      - "つけおき時間が必要で時間に余裕がある日向き"
+      - "50℃以上のお湯では使用不可のため温度管理が必要"
+    recommendedFor: "無添加・石けん派の方・まとめ買いで節約したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/ichikawa929/shabon_c2/"
+    imageUrl: ""
+  - rank: 8
+    name: "シャボン玉 洗たく槽クリーナー"
+    brand: "シャボン玉石けん"
+    price: 0
+    capacity: "500g（1回分）"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "合成界面活性剤不使用の酸素系石けん系クリーナー"
+      - "塩素系漂白剤を含まない処方"
+      - "ステンレス製・プラスチック製の槽に対応"
+    pros:
+      - "1個単位で試しやすい"
+      - "無添加系クリーナーの入門として選びやすい"
+      - "塩素系が苦手な方の選択肢になる"
+    cons:
+      - "つけおき3〜4分後に数回注水が必要で手順が多め"
+      - "強力なカビ汚れには塩素系より時間がかかる場合がある"
+    recommendedFor: "無添加クリーナーを初めて試す方・塩素系が苦手な方"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/r001200200154/"
+    imageUrl: ""
+  - rank: 9
+    name: "シャボン玉 洗たく槽クリーナー"
+    brand: "シャボン玉石けん"
+    price: 0
+    capacity: "500g（1回分）"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "合成界面活性剤不使用の酸素系石けん系クリーナー"
+      - "塩素系漂白剤を含まない処方"
+      - "ステンレス製・プラスチック製の槽に対応"
+    pros:
+      - "健康ストアでの取り扱いで品質管理が確認しやすい"
+      - "塩素系のにおいが苦手な方に向いている"
+      - "無添加志向の方が選びやすい"
+    cons:
+      - "つけおきと注水を繰り返す手順が必要"
+      - "頑固なカビには事前の塩素系使用が効果的な場合がある"
+    recommendedFor: "健康・無添加志向の方・塩素系を避けたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/kenkocom/s413080h/"
+    imageUrl: ""
+  - rank: 10
+    name: "過炭酸ナトリウム 酸素系漂白剤 950g"
+    brand: "NICHIGA（ニチガ）"
+    price: 0
+    capacity: "950g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "過炭酸ナトリウム100%の酸素系漂白剤"
+      - "pH10.5のアルカリ性で汚れに働きかける"
+      - "洗濯槽クリーニングから衣類漂白まで多用途"
+    pros:
+      - "塩素系のような強いにおいがなく使いやすい"
+      - "色柄物の衣類にも使用できる"
+      - "洗濯槽以外の掃除にも活用できる汎用性がある"
+    cons:
+      - "つけおき時間が必要なため手軽さは塩素系に劣る"
+      - "計量が必要で手間がかかる"
+    recommendedFor: "においが気になる方・多用途に使いたい方・酸素系を試してみたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/auc-garlic/10000015/"
+    imageUrl: ""
+  - rank: 11
+    name: "WASHMANIA 洗濯槽クリーナー 3個セット"
+    brand: "四国化成（WASHMANIA）"
+    price: 0
+    capacity: "200g×3個（3回分）"
+    pricePerUnit: "0円/回"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "酵素と塩素系成分を組み合わせたクリーナー"
+      - "縦型・ドラム式両対応の設計"
+      - "1回分200gの使い切り個包装タイプ"
+    pros:
+      - "縦型・ドラム式どちらにも使えて汎用性が高い"
+      - "個包装で計量不要・使い切りで衛生的"
+      - "3個セットでまとめ買いしやすい"
+    cons:
+      - "塩素系成分を含むため換気が必要"
+      - "四国化成ブランドのため流通量が限られる場合がある"
+    recommendedFor: "縦型・ドラム式どちらにも使える汎用品を探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/shikokukasei/wadhmania02/"
+    imageUrl: ""
+  - rank: 12
+    name: "パナソニック 洗濯槽クリーナー 縦型用N-W1A"
+    brand: "パナソニック"
+    price: 0
+    capacity: "縦型用（N-W1A）"
+    pricePerUnit: "0円/回"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "パナソニック製縦型洗濯機に向けた純正クリーナー"
+      - "塩素系で槽内の黒カビ・雑菌を強力除去"
+      - "縦型洗濯機の構造に最適化された処方"
+    pros:
+      - "メーカー純正品で安心感がある"
+      - "縦型洗濯機ユーザーに最適化された洗浄力"
+      - "複数個まとめ買いオプションがある"
+    cons:
+      - "縦型専用のため汎用性がない"
+      - "純正品のためコストは市販品より高め"
+    recommendedFor: "パナソニック縦型洗濯機ユーザー・メーカー推奨品を使いたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/dentendo/va60200108/"
+    imageUrl: ""
+  - rank: 13
+    name: "洗濯槽快 2個入 ホタテ貝殻素材"
+    brand: "くらし快適ショップ"
+    price: 0
+    capacity: "2個入り（新ネット付）"
+    pricePerUnit: "0円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ホタテ貝殻を原料とした天然素材系クリーナー"
+      - "カビ防止・除菌・消臭の3つの機能を持つ"
+      - "少量でお試しできる2個入りタイプ"
+    pros:
+      - "試し買いしやすい少量パック"
+      - "天然素材にこだわりたい方に向いている"
+      - "部屋干し時のにおい対策として手軽に使える"
+    cons:
+      - "ホタテ貝殻素材の効果には個人差がある"
+      - "まとめ買いより割高になる場合がある"
+    recommendedFor: "天然素材クリーナーを初めて試したい方・少量から始めたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/kurashikaiteki-shop/10000770/"
+    imageUrl: ""
+  - rank: 14
+    name: "過酸化ナトリウム 酸素系漂白剤 900g"
+    brand: "アレスヘルスケア"
+    price: 0
+    capacity: "900g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "酸素系漂白剤（過炭酸ナトリウム）国内製造"
+      - "洗濯槽のカビ取り・除菌・つけおき洗いに対応"
+      - "メール便送料無料で入手しやすい"
+    pros:
+      - "国内製造品で品質を確認しやすい"
+      - "900gでコスパよく使い続けられる"
+      - "塩素系のにおいが苦手な方に向いている"
+    cons:
+      - "つけおき時間が必要なため即効性は塩素系に劣る"
+      - "計量が必要で手間がかかる"
+    recommendedFor: "国産酸素系漂白剤を探している方・コスパ重視の方"
+    rakutenUrl: "https://item.rakuten.co.jp/ares-hc/700181001/"
+    imageUrl: ""
+  - rank: 15
+    name: "強力除菌 プロ仕様 除菌はくり洗剤 500g"
+    brand: "オプティマルライフショップ"
+    price: 0
+    capacity: "500g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "プロ仕様と謳う強力除菌タイプの粉末洗浄剤"
+      - "洗濯槽・ドラム式洗濯機・食器洗い機にも対応"
+      - "無農薬・無添加成分使用"
+    pros:
+      - "ドラム式洗濯機にも使用できる汎用性がある"
+      - "無添加成分が気になる方に向いている"
+      - "食器洗い機にも使えて多用途"
+    cons:
+      - "「プロ仕様」の根拠・成分詳細を購入前に確認したい"
+      - "小規模ショップのため継続購入時の在庫確認が必要"
+    recommendedFor: "強力除菌を求める方・ドラム式洗濯機にも使える洗剤を探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/optimallife/30000002/"
+    imageUrl: ""
 tags:
   - "洗濯槽クリーナー"
   - "コスパ"

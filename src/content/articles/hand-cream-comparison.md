@@ -1,6 +1,6 @@
 ---
-title: "ハンドクリーム コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "ハンドクリームを1mLあたりのコストで徹底比較。ニベア・ヴァセリン・ユースキン・ケラチナミンなど人気4選を保湿力・コスパで解説します。"
+title: "ハンドクリーム コスパ最強ランキング【2026年版】人気13選を徹底比較"
+description: "ハンドクリームをコスパ・保湿力・成分で徹底比較。ニベア・ヴァセリン・ユースキン・ロクシタンなど人気13選をランキング形式で解説します。"
 category: "hand-cream"
 publishedAt: "2026-05-04"
 updatedAt: 2026-05-13
@@ -92,6 +92,204 @@ products:
     recommendedFor: "カサカサ・角質の厚みが気になる方・かかともまとめてケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r452n.3rdw63fc.g00r452n.3rdw79c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fehac%2F4987067227808%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fehac%2Fi%2F10072006%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ehac/cabinet/iyaku2/4987067227808_1.jpg?_ex=128x128"
+  - rank: 5
+    name: "ハンドクリーム 80g べたつかない 無香料"
+    brand: "てんまん香粧薬房"
+    price: 2500
+    capacity: "80g"
+    pricePerUnit: "約31円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "80g入りの大容量チューブタイプ"
+      - "無香料処方で香りが苦手な方も使いやすい"
+      - "べたつきにくい軽めのテクスチャー設計"
+    pros:
+      - "無香料なのでオフィスや公共の場でも使いやすい"
+      - "大容量で家族共用の据え置き用に向く"
+      - "軽いつけ心地で日中のこまめな保湿に使いやすい"
+    cons:
+      - "高保湿成分重視のタイプと比べると保湿持続時間が短い場合がある"
+      - "無香料のため香りによるリラックス効果は期待できない"
+    recommendedFor: "香りが苦手な方・職場や外出先でこまめに使いたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/tenman-kosho-yakubo/bvhs02/"
+    imageUrl: ""
+  - rank: 6
+    name: "ハンドクリーム ミニ プチギフト 40g"
+    brand: "てんまん香粧薬房"
+    price: 1540
+    capacity: "40g"
+    pricePerUnit: "約39円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "40gのコンパクトサイズでポーチに収まりやすい"
+      - "プチギフト・プレゼント用途に対応したパッケージ"
+      - "てんまん香粧薬房の処方をそのまま小容量に凝縮"
+    pros:
+      - "持ち運びしやすいサイズ感でバッグに常備しやすい"
+      - "プレゼントや試し買いに使いやすい容量"
+      - "大容量タイプと同じ処方を少量から試せる"
+    cons:
+      - "80g版と比べると1g単価が高くなる"
+      - "据え置き用としてはすぐに使い切ってしまう容量"
+    recommendedFor: "外出時の携帯用に持ち歩きたい方・ギフトを探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/tenman-kosho-yakubo/th034/"
+    imageUrl: ""
+  - rank: 7
+    name: "卵殻膜 ハンドクリーム OVO 5g お試し"
+    brand: "コラーゲンのルウ研究所"
+    price: 0
+    capacity: "5g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "卵殻膜エキス配合のナチュラルモイスチュアクリーム"
+      - "5gのお試しサイズで使用感を確認しやすい"
+      - "低刺激処方で顔・全身に使えるマルチクリーム"
+    pros:
+      - "お試し価格で成分・使用感を試してから継続購入を判断できる"
+      - "顔・手・全身に使えるので複数アイテムを持ち歩く手間が省ける"
+      - "卵殻膜由来の天然保湿成分でうるおいを補える"
+    cons:
+      - "5gのため1本での使用日数は非常に短い"
+      - "まとめ買いするとコストが高くなる場合がある"
+    recommendedFor: "新しい保湿クリームを試してみたい方・天然由来成分を重視する方"
+    rakutenUrl: "https://item.rakuten.co.jp/ru-collagen/ovosample/"
+    imageUrl: ""
+  - rank: 8
+    name: "ロクシタン ハンドクリーム 30mL 選べる1本"
+    brand: "ロクシタン"
+    price: 1680
+    capacity: "30mL"
+    pricePerUnit: "約56円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "フランス発ブランドの定番ハンドクリーム 30mL"
+      - "ラベンダー・シア・バーベナなど複数の香りから選択可能"
+      - "並行輸入品でメール便対応の送料無料仕様"
+    pros:
+      - "ブランドの香りと保湿力を手軽な価格で試せる"
+      - "好みの香りを選んで購入できるセレクト仕様"
+      - "携帯しやすいサイズ感でバッグに入れやすい"
+    cons:
+      - "並行輸入品のため国内正規品と仕様が異なる場合がある"
+      - "30mLは使用頻度が高いとすぐに使い切るサイズ"
+    recommendedFor: "ブランドハンドクリームを日常使いしたい方・プレゼントを探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/kawasakigroup/loccitane/"
+    imageUrl: ""
+  - rank: 9
+    name: "ALLNA ORGANIC ハンドクリーム 43g"
+    brand: "ALLNA ORGANIC"
+    price: 0
+    capacity: "43g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "オーガニック認証原料を使用したハンドクリーム"
+      - "43gの使いやすいサイズでギフト用途にも対応"
+      - "敏感肌を考慮した低刺激設計の処方"
+    pros:
+      - "オーガニック成分で肌への優しさを重視した設計"
+      - "ギフト対応のパッケージで贈り物にも使いやすい"
+      - "日常の手荒れ保湿と特別感を両立できる"
+    cons:
+      - "価格帯がドラッグストア系より高めになる傾向がある"
+      - "オーガニック系は香りや成分に好みが分かれることがある"
+    recommendedFor: "オーガニック・自然派コスメを好む方・ギフト用途を検討している方"
+    rakutenUrl: "https://item.rakuten.co.jp/tsurunishi/905b072wnfzkl/"
+    imageUrl: ""
+  - rank: 10
+    name: "ロクシタン ハンドクリーム ギフト ブリキマルチボックス 30mL"
+    brand: "ロクシタン"
+    price: 3800
+    capacity: "30mL"
+    pricePerUnit: "約127円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ロクシタンのシグネチャーハンドクリームをブリキ缶にセットしたギフト仕様"
+      - "30mLのハンドクリームとブリキマルチボックスのセット"
+      - "ラッピング対応でプレゼントとしてそのまま渡せる仕様"
+    pros:
+      - "ブリキ缶はハンドクリーム以外の小物入れとして再利用できる"
+      - "ラッピング済みで誕生日や記念日のギフトに使いやすい"
+      - "ロクシタンのブランド品を手ごろな価格帯で贈れる"
+    cons:
+      - "ハンドクリーム単体と比べると容量あたりのコストが高い"
+      - "自家用より贈り物向けのため日常の補充には向かない"
+    recommendedFor: "誕生日や季節のギフトを探している方・ブランドコスメを贈りたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/trefle/10008995/"
+    imageUrl: ""
+  - rank: 11
+    name: "ハンドキューティクルクリーム 60g"
+    brand: "ミロビーナ"
+    price: 0
+    capacity: "60g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ハンドクリームとキューティクルケアを1本で行える複合処方"
+      - "60g入りでコスパよく使えるサイズ"
+      - "オーガニック認証成分配合の低刺激設計"
+    pros:
+      - "手とキューティクル両方をまとめてケアできる"
+      - "ネイルケアと保湿を同時に行いたい方の手間を省ける"
+      - "オーガニック由来成分で乾燥が気になる季節のデイリーケアに向く"
+    cons:
+      - "キューティクルクリームを兼ねるため使用感がやや重めになる場合がある"
+      - "60gは頻繁に使うと比較的早く使い切るサイズ"
+    recommendedFor: "手の保湿とネイルケアをまとめて行いたい方・自然派成分を好む方"
+    rakutenUrl: "https://item.rakuten.co.jp/mahou-soap/381899/"
+    imageUrl: ""
+  - rank: 12
+    name: "ロクシタン パフューム ハンドクリーム 30mL 選べる5種類"
+    brand: "ロクシタン"
+    price: 1000
+    capacity: "30mL"
+    pricePerUnit: "約33円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "香水のような香りを楽しめるパフューム処方のハンドクリーム"
+      - "5種類の香りから選べるセレクト仕様"
+      - "30mLの携帯しやすいサイズ"
+    pros:
+      - "香りのバリエーションが豊富でその日の気分に合わせて選べる"
+      - "保湿しながら香りも楽しめる2in1の使用感"
+      - "ネコポス対応で送料を抑えて購入しやすい"
+    cons:
+      - "香水系の香りは好みが分かれることがある"
+      - "30mLのため毎日使うとすぐに使い切る容量感"
+    recommendedFor: "保湿と香りを同時に楽しみたい方・ハンドクリームをプチ贅沢として使いたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/sara-style/m-c-lt-081/"
+    imageUrl: ""
+  - rank: 13
+    name: "オーガニックシアバター 精製 35g 選べる9種類の香り"
+    brand: "SH"
+    price: 0
+    capacity: "35g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "100%ピュアシアバターを精製したオーガニック処方"
+      - "9種類の香りから選べるセレクト仕様"
+      - "国内製造で品質管理が行われた日本製"
+    pros:
+      - "添加物不使用の純粋なシアバターで保湿力が高い"
+      - "好みの香りを選べるため継続して使いやすい"
+      - "ハンドクリームとしてだけでなく全身の保湿にも使える汎用性"
+    cons:
+      - "シアバター特有のこってりとした重めテクスチャーで日中は使いにくい場合がある"
+      - "35gのため頻繁な使用ではすぐ使い切るサイズ"
+    recommendedFor: "天然由来の高保湿ケアを求める方・就寝前の集中ケアに使いたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/kumokumo-square/10042086/"
+    imageUrl: ""
 tags:
   - "ハンドクリーム おすすめ"
   - "ハンドクリーム コスパ"

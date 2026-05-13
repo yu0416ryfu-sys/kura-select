@@ -1,9 +1,9 @@
 ---
-title: "コーヒーフィルター コスパ最強ランキング【2026年版】1枚あたり最安で比較"
-description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒーの人気5選を漂白タイプ・形状・コスパで解説します。"
+title: "コーヒーフィルター コスパ最強ランキング【2026年版】1枚あたり最安で比較10選"
+description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒー・KONO・珈琲考具など人気10選を漂白タイプ・形状・コスパで解説します。"
 category: "coffee-filter"
 publishedAt: "2026-05-05"
-updatedAt: 2026-05-13
+updatedAt: "2026-05-13"
 draft: false
 products:
   - rank: 1
@@ -116,6 +116,116 @@ products:
     recommendedFor: "定番ブランドの安心品質を求める方・ペーパードリップ初心者の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5ncn.3rdw6781.g00u5ncn.3rdw77ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmelittajapan%2Faromafilter01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmelittajapan%2Fi%2F10000085%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/5.jpg?_ex=128x128"
+  - rank: 6
+    name: "KONO ドリップ用コーヒーフィルター 2杯用"
+    brand: "KONO"
+    price: 0
+    capacity: "40枚（2杯用）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "KONO専用の円錐型ペーパーフィルター（ホワイト・漂白タイプ）"
+      - "特殊ナローグルーブ設計でクリーンな風味の抽出を実現"
+      - "2杯用ドリッパー専用サイズ"
+    pros:
+      - "KONOドリッパーと組み合わせてブランド推奨の抽出性能を発揮"
+      - "漂白タイプで紙のにおいが出にくく扱いやすい"
+      - "小容量・少人数向けで使い切りやすいサイズ感"
+    cons:
+      - "KONO専用のため他社ドリッパーへの転用には向かない"
+      - "40枚入りのためまとめ買いセットと比較して割高になる場合がある"
+    recommendedFor: "KONOドリッパー2杯用をお使いの方・少人数でこだわりのコーヒーを楽しみたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/fcinterior/30817-11300/"
+    imageUrl: ""
+  - rank: 7
+    name: "KONO ドリップ用コーヒーフィルター 4杯用"
+    brand: "KONO"
+    price: 0
+    capacity: "40枚（4杯用）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "KONO専用の円錐型ペーパーフィルター（ホワイト・漂白タイプ）"
+      - "特殊ナローグルーブ設計でクリーンな風味の抽出を実現"
+      - "4杯用ドリッパー対応の大きめサイズ"
+    pros:
+      - "KONOドリッパー4杯用に最適で安定した抽出が期待できる"
+      - "漂白タイプで使用前のリンスなしで扱いやすい"
+      - "複数杯分をまとめて淹れる家庭や職場用途に向いている"
+    cons:
+      - "KONO4杯用ドリッパー専用のため汎用性が限られる"
+      - "40枚入りのためまとめ買いセットと比較して割高になる場合がある"
+    recommendedFor: "KONOドリッパー4杯用をお使いの方・複数人分のコーヒーをまとめて淹れる方"
+    rakutenUrl: "https://item.rakuten.co.jp/fcinterior/30816-11299/"
+    imageUrl: ""
+  - rank: 8
+    name: "珈琲考具 コットンフィルター 2-4杯用"
+    brand: "下村企販"
+    price: 0
+    capacity: "60枚（2-4杯用）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "綿素材使用のコットンフィルター・ネルドリップに近い淹れ心地を実現"
+      - "日本製・珈琲考具ドリッパー対応設計"
+      - "サイズ17.5cm×12.5cm・60枚入り"
+    pros:
+      - "コットン素材でペーパーフィルターよりなめらかなコーヒーオイルの通過を楽しめる"
+      - "60枚入りで日常使いのストックに適した容量"
+      - "珈琲考具シリーズとの統一感ある使用が可能"
+    cons:
+      - "珈琲考具ドリッパー専用設計のため他社ドリッパーへの適合確認が必要"
+      - "コットン素材特有の扱い方に慣れが必要な場合がある"
+    recommendedFor: "珈琲考具ドリッパー2-4杯用をお使いの方・ネルドリップに近い風味を試したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/simomura-kihan/43452/"
+    imageUrl: ""
+  - rank: 9
+    name: "珈琲考具 コットンフィルター 1-2杯用"
+    brand: "下村企販"
+    price: 0
+    capacity: "60枚（1-2杯用）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "綿素材使用のコットンフィルター・ネルドリップに近い淹れ心地を実現"
+      - "日本製・珈琲考具ドリッパー対応設計"
+      - "サイズ14.5cm×10.5cm・60枚入り"
+    pros:
+      - "1-2杯用の少量サイズで一人暮らしや少人数家庭に向いている"
+      - "コットン素材でペーパーフィルターとは異なる風味を楽しめる"
+      - "60枚入りでコストを抑えながら継続使用できる"
+    cons:
+      - "珈琲考具ドリッパー1-2杯用専用設計のため他社ドリッパーへの適合確認が必要"
+      - "コットン素材特有の扱い方に慣れが必要な場合がある"
+    recommendedFor: "珈琲考具ドリッパー1-2杯用をお使いの方・少人数向けにネルドリップ風味を試したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/simomura-kihan/43451/"
+    imageUrl: ""
+  - rank: 10
+    name: "リネン コーヒーフィルター 3枚入り"
+    brand: "WPB-shop.R"
+    price: 0
+    capacity: "3枚（1-4杯用・繰り返し使用可）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "リネン100%の繰り返し使える布製コーヒーフィルター"
+      - "サイズ18.0cm×13.0cm・1-4杯用対応"
+      - "洗って繰り返し使用できるエコ設計"
+    pros:
+      - "繰り返し使用できるためランニングコストを長期的に抑えられる"
+      - "リネン素材で無臭・無着色・ペーパーフィルターのゴミが出ない"
+      - "1-4杯用対応の汎用サイズで多人数にも少人数にも使いやすい"
+    cons:
+      - "使用後の洗浄・乾燥の手間がかかりペーパーフィルターより手軽さで劣る"
+      - "3枚入りのため在庫管理と使い回しのローテーションが必要"
+    recommendedFor: "エコ志向の方・繰り返し使えるフィルターでコストを抑えたい方・リネン素材の風合いを楽しみたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/wpb-shop/clothfilter_w-as-ash-c/"
+    imageUrl: ""
 tags:
   - "コーヒーフィルター おすすめ"
   - "コーヒーフィルター コスパ"

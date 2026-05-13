@@ -1,6 +1,6 @@
 ---
 title: "コンディショナー コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気4選をダメージケア・コスパで解説します。"
+description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気6選をダメージケア・コスパで解説します。"
 category: "conditioner"
 publishedAt: "2026-05-01"
 updatedAt: 2026-05-13
@@ -93,6 +93,50 @@ products:
     recommendedFor: "ダメージヘアの方・まとまりを求める方・カラーやパーマをしている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F2873444011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10570891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000212/2873444011.jpg?_ex=128x128"
+  - rank: 5
+    name: "トリートメント フォンダン オレオ リラックス 200mL"
+    brand: "ケラスターゼ"
+    price: 0
+    capacity: "200mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "シアバター配合で髪をしなやかに整える"
+      - "ナバナ由来成分など天然由来原料を配合"
+      - "広がり・うねり・ごわつきのある髪向け処方"
+    pros:
+      - "高級サロンブランドによる信頼性の高いケア"
+      - "オレンジ系の上品な香りで毎日のケアが心地よい"
+      - "少量で伸びがよく使いやすい"
+    cons:
+      - "内容量が少なく頻繁な購入が必要"
+      - "価格帯が高めでコスパ重視の方には向かない"
+    recommendedFor: "広がりやうねりが気になる方・サロン品質を自宅で体験したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/kerastase-varie/dp-fondor_200/"
+    imageUrl: ""
+  - rank: 6
+    name: "デミ ミレアム ヘアケア コンディショナー 1800mL 詰替"
+    brand: "デミ"
+    price: 0
+    capacity: "1800mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "L.P.P.（髪のアミノ酸複合体）配合で毛髪を補修"
+      - "ドライヤーの熱や紫外線から髪を保護する処方"
+      - "大容量1800mLの詰め替え用リフィルタイプ"
+    pros:
+      - "業務用サイズで詰め替え頻度を大幅に減らせる"
+      - "プロフェッショナル向け処方で指通りなめらかな仕上がり"
+      - "毛髪補修成分配合で繰り返しのケアに向く"
+    cons:
+      - "サロン専用品のため一般流通が限られる"
+      - "大容量のため保管スペースが必要"
+    recommendedFor: "大容量でコストを抑えたい方・サロン品質のコンディショナーを求める方"
+    rakutenUrl: "https://item.rakuten.co.jp/ymura7200/milleum-co1800/"
+    imageUrl: ""
 tags:
   - "コンディショナー"
   - "コスパ"

@@ -1,6 +1,6 @@
 ---
-title: "マウスウォッシュ コスパ最強ランキング【2026年版】殺菌力・低刺激で比較"
-description: "マウスウォッシュを1mLあたりのコストで徹底比較。リステリン・モンダミン・GUM・コンクールなど人気4選を殺菌力・刺激性で解説します。"
+title: "マウスウォッシュ コスパ最強ランキング【2026年版】殺菌力・低刺激で比較9選"
+description: "マウスウォッシュを1mLあたりのコストで徹底比較。リステリン・モンダミン・GUM・コンクールなど人気9選を殺菌力・刺激性で解説します。"
 category: "mouthwash"
 publishedAt: "2026-05-01"
 updatedAt: 2026-05-13
@@ -93,6 +93,116 @@ products:
     recommendedFor: "歯科医推奨品を求める方・歯周病予防を重視する方・長く使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fdf2819%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10012094%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0509_p502/kirikae2/df2819_1450ppm.jpg?_ex=128x128"
+  - rank: 5
+    name: "WHITH WHITE マウスウォッシュ"
+    brand: "WHITH WHITE（フィスホワイト）"
+    price: 0
+    capacity: "300mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ホワイトニング成分配合でセルフケアに対応"
+      - "ノンアルコール処方で低刺激"
+      - "日本製の医薬部外品"
+    pros:
+      - "歯の着色が気になる方のホワイトニングケアに"
+      - "低刺激で敏感な口腔環境にも使いやすい"
+      - "子どもから大人まで使える幅広い対応"
+    cons:
+      - "300mLとやや小容量"
+      - "ホワイトニング効果は継続使用が前提"
+    recommendedFor: "ホワイトニングケアを日常に取り入れたい方・低刺激マウスウォッシュを探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/whithwhite/906b071gypvwv/"
+    imageUrl: ""
+  - rank: 6
+    name: "ナタデウォッシュ"
+    brand: "ナチュラルガーデン（ナタデ）"
+    price: 0
+    capacity: "500mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "医薬部外品で口臭予防・歯周炎対策に対応"
+      - "薬用成分配合で継続的なオーラルケアをサポート"
+      - "日本製で品質管理が徹底"
+    pros:
+      - "口臭が気になる方の毎日のケアに"
+      - "歯周炎予防を意識したい方に"
+      - "選べるセット展開でまとめ買いに対応"
+    cons:
+      - "ブランド知名度が大手より低い"
+      - "香りや味のバリエーションが限られる"
+    recommendedFor: "口臭・歯周炎ケアを重視する方・国産マウスウォッシュを探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/nat-gar/1484526/"
+    imageUrl: ""
+  - rank: 7
+    name: "プロフレッシュ 口臭ケア マウスウォッシュ"
+    brand: "PROFRESH（プロフレッシュ）"
+    price: 0
+    capacity: "500mL×3本"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "二酸化塩素（ClO2）配合で口臭の原因菌を抑制"
+      - "無香料・ノンアルコール処方で低刺激"
+      - "1本あたり約195回分の使用量を確保"
+    pros:
+      - "年齢とともに気になる口臭ケアに特化した処方"
+      - "無香料で香りが苦手な方にも使いやすい"
+      - "まとめ買いで長期間のコスト管理がしやすい"
+    cons:
+      - "無香料のため使用感に爽快感が少ない"
+      - "ClO2成分が初めての方は効果を実感するまで時間がかかることも"
+    recommendedFor: "口臭が強く気になる方・無香料マウスウォッシュを探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/alpha-net/020-prf-0013/"
+    imageUrl: ""
+  - rank: 8
+    name: "薬用リステリン トータルケアゼロプラス ノンアルコール クリーンミント味"
+    brand: "ジョンソン・エンド・ジョンソン（リステリン）"
+    price: 0
+    capacity: "1000mL×4本"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ノンアルコール処方で刺激を抑えながら殺菌"
+      - "バクテリアフィルムに作用する7種の機能性成分配合"
+      - "クリーンミントの爽快な後味"
+    pros:
+      - "刺激が苦手な方もリステリンの殺菌力を体感できる"
+      - "4本まとめ買いで長期間の使用コストを抑えられる"
+      - "リステリンブランドの信頼性とノンアルコールの低刺激を両立"
+    cons:
+      - "アルコール配合タイプと比べると爽快感がやや控えめ"
+      - "4本セットのため保管スペースが必要"
+    recommendedFor: "リステリンを試したいがアルコール刺激が不安な方・まとめ買いでコストを抑えたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/89403/"
+    imageUrl: ""
+  - rank: 9
+    name: "ドクターウォッシュ デンタル露ウォッシュ"
+    brand: "ビーラッシュストア"
+    price: 0
+    capacity: "330mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "天然植物由来成分100%使用の低刺激処方"
+      - "パラベンフリー・アルコールフリーで敏感な方にも対応"
+      - "子どもから大人まで使えるマイルドな口腔ケア"
+    pros:
+      - "天然成分を重視したい方のナチュラルケアに"
+      - "アルコールフリーで口の乾燥を気にせず使える"
+      - "子どものいる家庭で家族全員が使いやすい"
+    cons:
+      - "天然成分のみのため殺菌力は医薬部外品より穏やか"
+      - "330mLとやや小容量でコスパは控えめ"
+    recommendedFor: "天然成分・低刺激処方にこだわる方・家族みんなで使えるマウスウォッシュを探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/irie/item_dr-wash2/"
+    imageUrl: ""
 tags:
   - "マウスウォッシュ"
   - "コスパ"

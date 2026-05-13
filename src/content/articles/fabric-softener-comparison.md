@@ -1,6 +1,6 @@
 ---
 title: "柔軟剤 コスパ最強ランキング【2026年版】香り・低刺激・大容量で比較"
-description: "柔軟剤を1回あたりのコストで徹底比較。消臭重視・香り重視・敏感肌向けのおすすめ9選を紹介。部屋干し臭や赤ちゃんのいる家庭に最適な柔軟剤が見つかります。"
+description: "柔軟剤を1回あたりのコストで徹底比較。消臭重視・香り重視・敏感肌向けのおすすめ10選を紹介。部屋干し臭や赤ちゃんのいる家庭に最適な柔軟剤が見つかります。"
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 updatedAt: 2026-05-13
@@ -203,6 +203,28 @@ products:
     recommendedFor: "香りや仕上がりの好みに合わせやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404953%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148573%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/953/404953.jpg?_ex=128x128"
+  - rank: 10
+    name: "ダウニー メキシコダウニー アロマフローラル 8.5L 2本セット"
+    brand: "Downy"
+    price: 0
+    capacity: "8.5L×2本"
+    pricePerUnit: "0円/L"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "洗濯時に使う柔軟仕上げ剤"
+      - "非濃縮タイプの大容量液体柔軟剤"
+      - "フローラル系の香りが楽しめる仕上げ剤"
+    pros:
+      - "大容量セットでまとめ買いに向いている"
+      - "香りにこだわりたい方に選ばれやすい"
+      - "ふんわりした衣類の仕上がりを求める方に適している"
+    cons:
+      - "香りの強さは好みが分かれやすい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "大容量まとめ買い派・フローラル系の香りが好みの方"
+    rakutenUrl: "https://item.rakuten.co.jp/kurashikenkou/9414891/"
+    imageUrl: ""
 tags:
   - "柔軟剤"
   - "コスパ"

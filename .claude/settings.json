@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(src/content/articles/*-comparison.md)",
+      "Write(src/content/articles/*-comparison.md)"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 title: "敏感肌・赤ちゃん向け柔軟剤 おすすめランキング【2026年版】無添加・低刺激で比較"
-description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹底比較。さらさ・ランドリンボタニカル・ファーファフリー&など人気4選を低刺激性で解説。"
+description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹底比較。さらさ・ランドリンボタニカル・ファーファフリー&など人気5選を低刺激性で解説。"
 category: "fabric-softener"
 publishedAt: "2026-04-30"
 updatedAt: 2026-05-13
@@ -93,6 +93,28 @@ products:
     recommendedFor: "新生児から使いたい方・天然由来の香りが好きな方・赤ちゃん専用にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3i4n.3rdw6daa.g00u3i4n.3rdw7473/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgr-online%2Fooc91bd2d3ac%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgr-online%2Fi%2F10045762%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gr-online/cabinet/onesell021/ooc91bd2d3ac.jpg?_ex=128x128"
+  - rank: 5
+    name: "ランドリン ティーフレグランス グッドティータイム 柔軟剤"
+    brand: "ネイチャーラボ（ランドリン）"
+    price: 0
+    capacity: "600mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "無添加・オーガニック処方の液体柔軟剤"
+      - "植物由来成分配合のボタニカル処方"
+      - "ダージリンレモンティーなど紅茶・ハーブ系の香りを選択可能"
+    pros:
+      - "無添加処方で香りにこだわりながら低刺激を求める方に向く"
+      - "複数の香りバリエーションから好みで選べる"
+      - "抗菌・防臭機能も備えており実用性が高い"
+    cons:
+      - "茶系の香りが好みに合わない場合は選択肢が限られる"
+      - "天然由来の香料でも人によってはアレルギー反応が出る場合がある"
+    recommendedFor: "香りにこだわりたい敏感肌の方・オーガニック志向でティー系の香りが好きな方"
+    rakutenUrl: "https://item.rakuten.co.jp/naturelab/laundrin-teatime/"
+    imageUrl: ""
 tags:
   - "柔軟剤"
   - "敏感肌"

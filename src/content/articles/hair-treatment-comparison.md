@@ -1,6 +1,6 @@
 ---
 title: "ヘアトリートメント コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "ヘアトリートメント・ヘアマスクを1mLあたりのコストで徹底比較。フィーノ・パンテーン・いち髪・LUXなど人気4選を補修力・コスパで解説します。"
+description: "ヘアトリートメント・ヘアマスクを1mLあたりのコストで徹底比較。フィーノ・いち髪・ケラスターゼなど人気10選を補修力・コスパで解説します。"
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 updatedAt: 2026-05-13
@@ -93,6 +93,138 @@ products:
     recommendedFor: "カラー・パーマのダメージを集中ケアしたい方・サロン品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F2873936011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10607476%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000343/2873936011.jpg?_ex=128x128"
+  - rank: 5
+    name: "スペシャルトリートメント マスク クロノロジスト 200mL"
+    brand: "ケラスターゼ"
+    price: 0
+    capacity: "200mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "エイジングケア特化のクロノロジストライン集中マスク"
+      - "ダメージ補修とエイジングケアを同時にアプローチする処方"
+      - "シャンプー後5〜10分放置して洗い流す集中トリートメントタイプ"
+    pros:
+      - "切れ毛・枝毛・ダメージに集中的にアプローチできる"
+      - "エイジングケアとダメージ補修を一度に行いたい方に適している"
+      - "クロノロジストシリーズと組み合わせて相乗効果が得られる"
+    cons:
+      - "サロン品質のため価格帯が高く、日常使いはコストがかかる"
+      - "同ラインの他製品と併用することが推奨されており単独使用では効果が限定的"
+    recommendedFor: "エイジングケアとダメージ補修を同時にしたい方・カラーやパーマで傷みが気になる方"
+    rakutenUrl: "https://item.rakuten.co.jp/kerastase-varie/ch-masqc_200/"
+    imageUrl: ""
+  - rank: 6
+    name: "ALLNA ORGANIC ヘアトリートメント 180g"
+    brand: "ALLNA ORGANIC（イルミルド）"
+    price: 0
+    capacity: "180g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "12種の植物成分を含む25種以上の植物由来成分配合"
+      - "シルク・ココナッツオイル・アルガンオイルなどの保湿成分を配合"
+      - "硫酸塩・パラベンなど8つの無添加処方"
+    pros:
+      - "植物由来成分主体で頭皮や髪に低刺激なケアができる"
+      - "オーガニック志向で成分にこだわりたい方に適している"
+      - "シャンプー後2〜3分放置するだけの手軽な使い方"
+    cons:
+      - "無添加処方のため強いダメージへの即効性は高補修タイプに劣る"
+      - "180gとやや少なめの容量"
+    recommendedFor: "成分・無添加にこだわりたい方・植物由来のナチュラルヘアケアを求める方"
+    rakutenUrl: "https://item.rakuten.co.jp/tsurunishi/905b07gkxh2ss/"
+    imageUrl: ""
+  - rank: 7
+    name: "BC クア カラースペシフィック ヘアマスク 500g"
+    brand: "シュワルツコフ"
+    price: 0
+    capacity: "500g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "カラーリング後の髪を対象とした色彩ケア特化の集中トリートメント"
+      - "セラミド・タンパク質・18種のアミノ酸・オーガニックオイル配合"
+      - "500gの大容量でコスパよく継続使用できる"
+    pros:
+      - "カラー後の色持ちを維持しながらダメージをケアできる"
+      - "大容量タイプで頻繁に購入しなくてよい"
+      - "アミノ酸・セラミドで潤いとツヤを補給できる"
+    cons:
+      - "カラーケア特化のため非カラー毛への汎用性は限定的"
+      - "大容量ゆえに開封後の使い切りに時間がかかる"
+    recommendedFor: "カラーリングを繰り返す方・色持ちとダメージケアを両立したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/ymura7200/schwarzkopf-kur-clsphm500/"
+    imageUrl: ""
+  - rank: 8
+    name: "スペシャルトリートメント マスク オレオ リラックス 200mL"
+    brand: "ケラスターゼ"
+    price: 0
+    capacity: "200mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "くせ毛ケア特化のディシプリンライン集中トリートメントマスク"
+      - "湿気・広がり・アホ毛をまとめるポリマー・シーディ成分配合"
+      - "オレンジの香りが特徴のサロンクオリティマスク"
+    pros:
+      - "湿気による広がりやくせを抑えてまとまりやすい髪にできる"
+      - "サロン品質の成分でスペシャルケアができる"
+      - "ディシプリンシリーズと組み合わせてくせ毛ケアを強化できる"
+    cons:
+      - "くせ毛ケア特化のため直毛や軟毛には向かないことがある"
+      - "サロン品質のため価格帯が高く、コスパを重視する方には不向き"
+    recommendedFor: "くせ毛・広がりが悩みの方・湿気に負けないまとまり髪を目指す方"
+    rakutenUrl: "https://item.rakuten.co.jp/kerastase-varie/dp-masqor_200/"
+    imageUrl: ""
+  - rank: 9
+    name: "トリートメント フォンダン オレオ リラックス 200mL"
+    brand: "ケラスターゼ"
+    price: 0
+    capacity: "200mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "くせ毛ケアのディシプリンラインのコンディショナータイプ"
+      - "髪の広がりを抑えまとまりのある艶やかな仕上がりをもたらす処方"
+      - "オレンジの香りが特徴のデイリーケア向けコンディショナー"
+    pros:
+      - "毎日使いでくせ・広がりをコントロールしやすい"
+      - "マスクより手軽に使えるコンディショナーとして日常ケアに組み込める"
+      - "ディシプリンシリーズのマスクと組み合わせて相乗効果が得られる"
+    cons:
+      - "集中補修マスクタイプに比べると一度の補修力は控えめ"
+      - "サロン品質のため価格が高く、コスパを優先する方には不向き"
+    recommendedFor: "日常的にくせ毛・広がりをケアしたい方・毎日コンディショナーを使う習慣がある方"
+    rakutenUrl: "https://item.rakuten.co.jp/kerastase-varie/dp-fondor_200/"
+    imageUrl: ""
+  - rank: 10
+    name: "クイーンズバスルーム システムトリートメント Step1 Step2 各240g"
+    brand: "クイーンズバスルーム"
+    price: 0
+    capacity: "240g×2"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "Step1とStep2の2剤式で段階的にダメージを補修するシステムトリートメント"
+      - "ケラチン・濃厚補修成分配合でハイダメージ・ブリーチ毛にアプローチ"
+      - "くせ毛・縮毛矯正・髪質改善ケアにも対応した多機能処方"
+    pros:
+      - "2ステップで深部からの補修と仕上げを分けて行えるため効果的"
+      - "ブリーチ毛・ハイダメージ毛など重度のダメージにも対応できる"
+      - "各240gの大容量セットでコスパよく続けられる"
+    cons:
+      - "2剤式のため手順が多く、時短を重視する方には手間がかかる"
+      - "Step1とStep2をセットで揃える必要があり初期費用がかかる"
+    recommendedFor: "ブリーチ・ハイダメージ毛を本格的にケアしたい方・2ステップのサロンライクなケアを自宅で行いたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/que-bath/10000082/"
+    imageUrl: ""
 tags:
   - "ヘアトリートメント おすすめ"
   - "ヘアマスク コスパ"
