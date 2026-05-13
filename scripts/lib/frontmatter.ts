@@ -426,6 +426,14 @@ export function extractCapacityFromItemName(itemName: string): string | null {
     }
     if (foundChain) return result;
 
+    // パターン1a: ティッシュ系の内訳注釈を含む販売数量
+    // 例: "200枚（100組）×12箱" → "200枚（100組）×12箱"
+    const tissueBreakdownRe = new RegExp(`^\\s*[（(]\\s*\\d[\\d,]*\\s*組\\s*[）)]\\s*[${MULTIPLY_RE_CHAR_CLASS}]\\s*(\\d[\\d,]*)\\s*(${PACK_UNITS})`);
+    const tissueBreakdownM = itemName.slice(pos).match(tissueBreakdownRe);
+    if (tissueBreakdownM && mulM[2] === '枚') {
+      return `${result}${tissueBreakdownM[0].trim()}`;
+    }
+
     // パターン1c: スペース区切り PACK_UNIT から始まり × チェーンが続くケース
     // 例: "100m 12ロール×4パック" → "100m×12ロール×4パック"
     // 数量1の集合単位（"1パック" 等）は Pattern 1d に委譲するため qty > 1 のみ対象

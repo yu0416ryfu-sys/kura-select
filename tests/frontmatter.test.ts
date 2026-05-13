@@ -618,6 +618,15 @@ describe("extractCapacityFromItemName", () => {
   it("CAPACITY_UNITSが存在する場合はPattern 4より優先する（回帰確認）", () => {
     expect(extractCapacityFromItemName("シャンプー 500mL 3パック")).toBe("500mL×3パック");
   });
+
+  it("ティッシュの組数注釈つき箱数を1つのcapacityとして抽出する", () => {
+    const capacity = extractCapacityFromItemName(
+      "エリエール ティシュー 200枚（100組）×12箱"
+    );
+
+    expect(capacity).toBe("200枚（100組）×12箱");
+    expect(extractCapacityTotal(capacity ?? "")).toEqual({ total: 2400, unit: "枚" });
+  });
 });
 
 describe("isMultiMeasureVariantItemName", () => {
@@ -1160,6 +1169,20 @@ describe("fixNameCapacityConflicts", () => {
     const content = CONFLICT_SAMPLE
       .replace('"ビオレ 素肌つるるんクレンジングウォーター 300mL"', '"商品X 300mL×2個 詰め替えセット"');
     const result = fixNameCapacityConflicts(content);
+    expect(result.changed).toBe(false);
+    expect(result.content).toBe(content);
+  });
+
+  it("ティッシュの組数注釈つき箱数をnameへ重複追加しない", () => {
+    const content = CONFLICT_SAMPLE
+      .replace(
+        '"ビオレ 素肌つるるんクレンジングウォーター 300mL"',
+        '"エリエール ティシュー 200枚（100組）×12箱"'
+      )
+      .replace('capacity: "290mL"', 'capacity: "200枚（100組）×12箱"');
+
+    const result = fixNameCapacityConflicts(content);
+
     expect(result.changed).toBe(false);
     expect(result.content).toBe(content);
   });
