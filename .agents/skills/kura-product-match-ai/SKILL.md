@@ -17,6 +17,8 @@ reports/product-match-input-*.jsonl
 
 入力 JSONL は各行が独立した商品照合タスク。md 全文は読まない。必要最小限として、各行の `current` / `failure` / `searchKeywords` / `candidates` だけで判断する。
 
+最初に入力件数を確認し、作業後の出力行数と必ず一致させる。
+
 ## 出力先
 
 AI判定結果は以下に置く。
@@ -73,6 +75,8 @@ AI判定結果に使えるURLは、最終的に JSONL の `candidates` に存在
 
 確信できない場合は無理に選ばず `review` にする。
 
+同じ `articleFile` + `rank` + `current.name` が複数行に出る場合は注意する。先の行で `replace` すると、後続の同一 rank は dry-run 時に `rank/current.name mismatch` になることがある。重複が見つかったら、原則として最も確信できる1行だけ `replace` にし、残りは `review` にする。
+
 ## 商品名ルール
 
 `newName` は楽天の商品名をそのまま使わず、比較記事向けに短く整える。
@@ -117,6 +121,13 @@ AI判定結果に使えるURLは、最終的に JSONL の `candidates` に存在
 
 入力1行につき出力1行。入力行数と出力行数を一致させる。
 
+Windows PowerShell で日本語入り JSONL を生成する場合は文字化けに注意する。`@' ... '@ | node` のようにパイプで JavaScript を渡すと、環境によって `newName` / `reason` の日本語が `????` になることがある。生成後に UTF-8 と JSON parse を必ず確認し、`?` 連続が混ざっていないことを見る。必要なら事前に以下を設定してから生成する。
+
+```powershell
+$OutputEncoding = [System.Text.UTF8Encoding]::new($false)
+[Console]::OutputEncoding = [System.Text.UTF8Encoding]::new($false)
+```
+
 ### replace の形式
 
 ```json
@@ -138,10 +149,28 @@ AI判定結果に使えるURLは、最終的に JSONL の `candidates` に存在
 - `selectedImageUrl` は candidates の `imageUrl` を使う
 - `articleFile`、`rank`、`current.name` は入力から引き継ぐ
 - `replace` 適用時は `rank + current.name` の二重照合が行われるため、`current.name` を省略しない
+- 同一 `articleFile` + `rank` が入力内に重複する場合は、後続行が mismatch にならないよう片方を `review` にする
 - `action` は `replace` または `review` のみ
 - `confidence` は `high` / `medium` / `low`
 - `replace` は確信がある場合のみ
 - 判断根拠は `reason` に短く書く
+
+## 出力後チェック
+
+出力後は最低限以下を確認する。
+
+- 入力行数と出力行数が一致する
+- 全行が JSON として parse できる
+- `action` が `replace` / `review` のみ
+- `replace` 件数と `review` 件数を把握する
+- `newName` / `newCapacity` / `newPricePerUnit` / `reason` に `????` などの文字化けがない
+- `selectedItemUrl` / `selectedAffiliateUrl` / `selectedImageUrl` は選択した candidate 由来
+
+例:
+
+```bash
+node -e "const fs=require('fs');const p='reports/ai-matches/pending/product-match-output-YYYY-MM-DD.jsonl';const lines=fs.readFileSync(p,'utf8').trim().split(/\r?\n/);let r=0,v=0;for(const l of lines){const o=JSON.parse(l);if(o.action==='replace')r++;if(o.action==='review')v++;if(/[?]{3,}/.test(o.reason||'')||/[?]{3,}/.test(o.newName||''))throw new Error('mojibake');}console.log('valid jsonl',lines.length,'replace',r,'review',v);"
+```
 
 ## 適用確認
 
@@ -150,6 +179,15 @@ AI判定結果に使えるURLは、最終的に JSONL の `candidates` に存在
 ```bash
 pnpm update-products:dry
 ```
+
+dry-run の AI match 部分で以下を確認する。
+
+- `AI match summary` が `failed 0` になっている
+- `rank/current.name mismatch` が出ていない
+- `would move to processed` が出ている
+- `review skipped` は想定内だが、`replace applied` の対象記事が意図と合っている
+
+`pnpm update-products:dry` は AI match 適用後に全記事の楽天 API dry-run まで進むため、時間切れになることがある。その場合でも、AI match 部分で `processed 1, failed 0` と `would move to processed` が確認できていれば、pending JSONL の入口検証としては通っている。
 
 問題なければ本実行する。
 
