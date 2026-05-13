@@ -16,7 +16,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const VERBOSE = process.argv.includes('--verbose');
@@ -1956,6 +1956,21 @@ async function processArticle(file, articlesDir, zeroState) {
     reorderResult.log.forEach(l => log(`   🔀 ${l}`));
   } else if (reorderResult.log.length > 0) {
     reorderResult.log.forEach(l => log(`   ⚠ ${l}`));
+  }
+
+  // 機能5: 並び替え後、rank 11位以下の商品を削除
+  const limitResult = limitProductsByRank(updatedContent, 10);
+  if (limitResult.changed) {
+    updatedContent = limitResult.content;
+    result.stats.deleted += limitResult.removed;
+    limitResult.log.forEach(l => log(`   🗑 ${DRY_RUN ? '[dry-run] ' : ''}${l}`));
+  }
+
+  // 機能6: title の「N選」を実際の商品数に同期
+  const titleCountResult = syncTitleProductCount(updatedContent);
+  if (titleCountResult.changed) {
+    updatedContent = titleCountResult.content;
+    log(`   📝 title商品数: "${titleCountResult.before}" -> "${titleCountResult.after}"`);
   }
 
   // 機能4: name に埋め込まれた容量と capacity フィールドの食い違いを修正

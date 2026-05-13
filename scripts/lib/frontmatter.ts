@@ -854,6 +854,71 @@ export function reorderProductsByPricePerUnit(
 }
 
 /**
+ * rank の上限を超える商品を削除し、残りの rank を振り直す。
+ * 並び替え後のランキングに対して使う想定。
+ */
+export function limitProductsByRank(
+  content: string,
+  maxRank = 10
+): { content: string; changed: boolean; removed: number; log: string[] } {
+  const parsed = parseFrontmatter(content);
+  if (!parsed || !Array.isArray(parsed.data.products)) {
+    return { content, changed: false, removed: 0, log: [] };
+  }
+
+  type P = Record<string, unknown>;
+  const products = parsed.data.products as P[];
+  const kept = products.filter(product => {
+    const rank = typeof product.rank === 'number' ? product.rank : Number(product.rank);
+    return Number.isFinite(rank) && rank <= maxRank;
+  });
+
+  const removed = products.length - kept.length;
+  if (removed <= 0) return { content, changed: false, removed: 0, log: [] };
+
+  kept.forEach((product, index) => {
+    product.rank = index + 1;
+  });
+  parsed.data.products = kept;
+
+  const removedNames = products
+    .filter(product => !kept.includes(product))
+    .map(product => String(product.name ?? '(nameなし)'));
+  const log = [
+    `rank ${maxRank + 1}位以下を${removed}件削除`,
+    ...removedNames.map(name => `削除: ${name}`),
+  ];
+
+  return { content: dumpFrontmatter(parsed.data, parsed.body), changed: true, removed, log };
+}
+
+/**
+ * title 内の「N選」を products 件数に同期する。
+ * 「N選」がないタイトルは記事意図を壊さないため変更しない。
+ */
+export function syncTitleProductCount(
+  content: string
+): { content: string; changed: boolean; before: string | null; after: string | null } {
+  const parsed = parseFrontmatter(content);
+  if (!parsed || !Array.isArray(parsed.data.products) || typeof parsed.data.title !== 'string') {
+    return { content, changed: false, before: null, after: null };
+  }
+
+  const count = parsed.data.products.length;
+  const title = parsed.data.title;
+  const nextTitle = title.replace(/[0-9０-９]+選/, `${count}選`);
+  if (nextTitle === title) return { content, changed: false, before: title, after: title };
+
+  parsed.data.title = nextTitle;
+  return {
+    content: dumpFrontmatter(parsed.data, parsed.body),
+    changed: true,
+    before: title,
+    after: nextTitle,
+  };
+}
+
+/**
  * フロントマターから全商品の基本データを抽出する（入れ替え候補レポート用）
  */
 export interface ProductBasicData {

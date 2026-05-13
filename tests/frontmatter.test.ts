@@ -20,6 +20,8 @@ import {
   removeCapacityFromProductName,
   removeProductFromFrontmatter,
   reorderProductsByPricePerUnit,
+  limitProductsByRank,
+  syncTitleProductCount,
   updateUpdatedAt,
   fixNameCapacityConflicts,
 } from "../scripts/lib/frontmatter";
@@ -1050,6 +1052,97 @@ products:
   it("商品が1件の場合はスキップ", () => {
     const result = reorderProductsByPricePerUnit(SINGLE_PRODUCT_FRONTMATTER);
     expect(result.changed).toBe(false);
+  });
+});
+
+// ─── limitProductsByRank / syncTitleProductCount ──────────────────────────
+describe("limitProductsByRank", () => {
+  it("rank上限を超える商品を削除し、残りのrankを振り直す", () => {
+    const content = `---
+title: "おすすめ12選"
+products:
+  - rank: 1
+    name: "商品1"
+    rakutenUrl: "https://example.com/1"
+  - rank: 2
+    name: "商品2"
+    rakutenUrl: "https://example.com/2"
+  - rank: 11
+    name: "商品11"
+    rakutenUrl: "https://example.com/11"
+  - rank: 12
+    name: "商品12"
+    rakutenUrl: "https://example.com/12"
+---
+本文
+`;
+
+    const result = limitProductsByRank(content, 10);
+
+    expect(result.changed).toBe(true);
+    expect(result.removed).toBe(2);
+    expect(result.content).toContain('name: "商品1"');
+    expect(result.content).toContain('name: "商品2"');
+    expect(result.content).not.toContain('name: "商品11"');
+    expect(result.content).not.toContain('name: "商品12"');
+    expect(result.content).toMatch(/- rank: 1[\s\S]*?name: "商品1"/);
+    expect(result.content).toMatch(/- rank: 2[\s\S]*?name: "商品2"/);
+    expect(result.log[0]).toContain("rank 11位以下を2件削除");
+  });
+
+  it("上限内の商品だけなら変更しない", () => {
+    const result = limitProductsByRank(SAMPLE_FRONTMATTER, 10);
+    expect(result.changed).toBe(false);
+    expect(result.removed).toBe(0);
+    expect(result.content).toBe(SAMPLE_FRONTMATTER);
+  });
+});
+
+describe("syncTitleProductCount", () => {
+  it("titleのN選を実際の商品数に合わせる", () => {
+    const content = `---
+title: "歯磨き粉おすすめ4選"
+products:
+  - rank: 1
+    name: "商品1"
+  - rank: 2
+    name: "商品2"
+  - rank: 3
+    name: "商品3"
+---
+本文
+`;
+
+    const result = syncTitleProductCount(content);
+
+    expect(result.changed).toBe(true);
+    expect(result.before).toBe("歯磨き粉おすすめ4選");
+    expect(result.after).toBe("歯磨き粉おすすめ3選");
+    expect(result.content).toContain('title: "歯磨き粉おすすめ3選"');
+  });
+
+  it("全角数字のN選も更新する", () => {
+    const content = `---
+title: "おすすめ８選"
+products:
+  - rank: 1
+    name: "商品1"
+  - rank: 2
+    name: "商品2"
+---
+本文
+`;
+
+    const result = syncTitleProductCount(content);
+
+    expect(result.changed).toBe(true);
+    expect(result.after).toBe("おすすめ2選");
+  });
+
+  it("N選がないtitleは変更しない", () => {
+    const result = syncTitleProductCount(SAMPLE_FRONTMATTER);
+    expect(result.changed).toBe(false);
+    expect(result.content).toBe(SAMPLE_FRONTMATTER);
   });
 });
 
