@@ -1141,12 +1141,49 @@ const CATEGORY_SEARCH_RULES = {
 
 const DEFAULT_EXCLUDE_TERMS = ['ケースのみ', 'ホルダー', 'スタンド', '収納', '詰め替え容器', 'ディスペンサー'];
 
+function getArticleSpecificAdditionRule(category, baseKeyword) {
+  if (category === 'toothpaste' && /デンタルフロス|フロス|歯間ブラシ|糸ようじ/.test(baseKeyword)) {
+    return {
+      keywords: ['デンタルフロス', 'フロスピック 100本', 'ウルトラフロス 30本'],
+      include: [
+        'デンタルフロス',
+        'フロス',
+        'フロスピック',
+        '糸ようじ',
+        '糸ピックス',
+        '歯間ブラシ',
+        '歯間清掃',
+        'ウルトラフロス',
+        'フロアフロス',
+        'fluorfloss',
+      ],
+      exclude: [
+        '歯ブラシ',
+        '歯磨き粉',
+        '歯みがき粉',
+        'ジェットウォッシャー',
+        '口腔洗浄器',
+        '口腔洗浄機',
+        'マウスウォッシャー',
+        'ウォーターフロス',
+        '電動フロス',
+        'スタンド',
+        'ケース',
+        '収納',
+      ],
+      units: ['本', 'm', '個'],
+      minScore: 4,
+    };
+  }
+  return null;
+}
+
 function uniqueStrings(values) {
   return [...new Set(values.map(v => String(v ?? '').trim()).filter(Boolean))];
 }
 
 function getAdditionSearchRule(category, baseKeyword) {
-  const rule = CATEGORY_SEARCH_RULES[category] ?? {};
+  const rule = getArticleSpecificAdditionRule(category, baseKeyword) ?? CATEGORY_SEARCH_RULES[category] ?? {};
   const keywords = uniqueStrings([
     ...(rule.keywords ?? []),
     baseKeyword,
@@ -1319,8 +1356,7 @@ function isSameProductDifferentUrl(candidateName, candidateCapacity, existingPro
     if (!candidateTotal || !existingTotal) return true;
     if (existingTotal.unit.toLowerCase() === candidateTotal.unit.toLowerCase() && existingTotal.total === candidateTotal.total) return true;
 
-    // 候補名・既存名が十分近い場合は、容量抽出の揺れ（例: 10個 vs 130g）より商品名を優先する。
-    return true;
+    return false;
   });
 }
 
@@ -1442,15 +1478,15 @@ async function checkAdditions() {
           recordExcluded('比較対象外の容量単位', c, { directUrl, capacity });
           continue;
         }
-        if (isSameProductDifferentUrl(c.name, capacity, products)) {
-          stats.sameProduct++;
-          recordExcluded('URL違い同一商品', c, { directUrl, capacity });
-          continue;
-        }
         const categoryCheck = checkAdditionCandidateCategory(c, searchRule);
         if (!categoryCheck.ok) {
           stats.lowScore++;
           recordExcluded(`カテゴリ外（${categoryCheck.reason}）`, c, { directUrl, capacity });
+          continue;
+        }
+        if (isSameProductDifferentUrl(c.name, capacity, products)) {
+          stats.sameProduct++;
+          recordExcluded('URL違い同一商品', c, { directUrl, capacity });
           continue;
         }
 
