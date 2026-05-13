@@ -797,9 +797,19 @@ function stripCapacityForKeyword(name) {
     .trim();
 }
 
+function stripSizeAndCapacityForKeyword(name) {
+  return stripCapacityForKeyword(name)
+    .split(/\s+/)
+    .filter(token => !/^(?:SS|S|M|L|LL|XL|2L|3L|大|小|大容量|小容量)$/i.test(token))
+    .join(' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 function buildProductMatchSearchKeywords({ productName, articleTitle, category }) {
   const normalizedName = String(productName ?? '').normalize('NFKC').trim();
   const strippedName = stripCapacityForKeyword(normalizedName);
+  const fallbackName = stripSizeAndCapacityForKeyword(normalizedName);
   const baseKeyword = buildSearchKeyword(normalizedName);
   const tokens = strippedName.split(/\s+/).filter(Boolean);
   const articleKeyword = articleTitle ? buildArticleSearchKeyword(articleTitle) : '';
@@ -810,6 +820,7 @@ function buildProductMatchSearchKeywords({ productName, articleTitle, category }
     strippedName,
     tokens.slice(0, 4).join(' '),
     tokens.slice(0, 3).join(' '),
+    fallbackName,
     ...categoryKeywords.slice(0, 2),
     articleKeyword,
   ])

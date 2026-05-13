@@ -15,7 +15,7 @@ KuraSelect の `pnpm update-products` が生成した商品照合候補レポー
 reports/product-match-input-*.jsonl
 ```
 
-入力 JSONL は各行が独立した商品照合タスク。md 全文は読まない。必要最小限として、各行の `current` / `failure` / `candidates` だけで判断する。
+入力 JSONL は各行が独立した商品照合タスク。md 全文は読まない。必要最小限として、各行の `current` / `failure` / `searchKeywords` / `candidates` だけで判断する。
 
 ## 出力先
 
@@ -31,11 +31,23 @@ reports/ai-matches/pending/product-match-output-YYYY-MM-DD.jsonl
 
 `current` 商品と `candidates` の中から、同一または実質的に同じ商品を選ぶ。
 
+候補が弱い場合は、すぐ `review` にせず、`current.name` から検索用キーワードを段階的に作る。数量・容量つきの商品名は楽天検索で外れやすいため、以下の順に短くする。
+
+1. 元の商品名から数量・容量を除く
+   - 例: `ジップロック ストックバッグ L 大容量 32枚入×3箱` → `ジップロック ストックバッグ L 大容量`
+   - 例: `ジップロック フリーザーバッグ M 90枚入` → `ジップロック フリーザーバッグ M`
+2. それでも候補が弱い場合は、サイズ・容量訴求語も除く
+   - 例: `ジップロック ストックバッグ L 大容量` → `ジップロック ストックバッグ`
+   - 例: `ジップロック フリーザーバッグ M` → `ジップロック フリーザーバッグ`
+3. `searchKeywords` に上記の短縮語がない、または候補がカテゴリ一般語だけで同一ブランド候補がない場合は、候補レポートの再生成を検討する。`scripts/update-products.mjs` 側の `buildProductMatchSearchKeywords` が数量除去・サイズ除去の検索語を出す前提で、再生成後の `candidates` から選ぶ。
+
+AI判定結果に使えるURLは、最終的に JSONL の `candidates` に存在する候補だけ。検索語を推測しても、候補にない URL を作らない。
+
 優先する一致条件:
 
 - ブランド一致
 - 商品種別一致
-- サイズ一致
+- サイズ一致。ただしサイズを外した検索で見つかった同一シリーズは、商品名・容量からサイズを再確認する
 - 用途一致
 - 容量または総枚数が current と近い
 - affiliateUrl / itemUrl / imageUrl が有効
@@ -120,6 +132,7 @@ reports/ai-matches/pending/product-match-output-YYYY-MM-DD.jsonl
 ## 必須ルール
 
 - `candidates` にない URL を作らない
+- 既存候補がカテゴリ一般語だけで同一ブランド候補を含まない場合は、短縮検索語で候補を取り直す前提にする。取り直せない場合は `review`
 - `selectedAffiliateUrl` は candidates の `affiliateUrl` を使う
 - `selectedItemUrl` は candidates の `itemUrl` を使う
 - `selectedImageUrl` は candidates の `imageUrl` を使う
