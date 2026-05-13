@@ -144,7 +144,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約8.0円/g"
     rating: 4.67
-    reviewCount: 544
+    reviewCount: 545
     features:
       - "スーツ・コート・ダウン・ニット・カシミアに対応するドライ洗剤"
       - "無香料設計で素材への影響を最小化"

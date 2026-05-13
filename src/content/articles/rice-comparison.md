@@ -12,7 +12,7 @@ products:
     capacity: "20kg"
     pricePerUnit: "約534円/kg"
     rating: 4.59
-    reviewCount: 14622
+    reviewCount: 14623
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"

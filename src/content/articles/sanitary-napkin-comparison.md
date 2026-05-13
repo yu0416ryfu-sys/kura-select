@@ -122,7 +122,7 @@ products:
     capacity: "1枚"
     pricePerUnit: "約999円/枚"
     rating: 4.61
-    reviewCount: 6025
+    reviewCount: 6026
     features:
       - "布ナプキンやライナーとして使える"
       - "肌面素材やサイズで選びやすい"
@@ -144,7 +144,7 @@ products:
     capacity: "1枚"
     pricePerUnit: "約999円/枚"
     rating: 4.61
-    reviewCount: 6025
+    reviewCount: 6026
     features:
       - "布ナプキンやライナーとして使える"
       - "肌面素材やサイズで選びやすい"

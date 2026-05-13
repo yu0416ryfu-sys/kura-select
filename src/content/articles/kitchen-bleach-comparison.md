@@ -56,7 +56,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約651円/kg"
     rating: 4.64
-    reviewCount: 1414
+    reviewCount: 1415
     features:
       - "酸素系漂白剤で幅広い用途に対応"
       - "界面活性剤配合でキッチン汚れにも効果的"

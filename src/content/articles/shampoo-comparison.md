@@ -210,7 +210,7 @@ products:
     capacity: "1本"
     pricePerUnit: "約4970円/本"
     rating: 4.4
-    reviewCount: 519
+    reviewCount: 520
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"

@@ -56,7 +56,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約651円/kg"
     rating: 4.64
-    reviewCount: 1414
+    reviewCount: 1415
     features:
       - "酸素系漂白剤の代名詞的ブランド"
       - "衣類・洗濯槽・キッチン・風呂と多用途"
@@ -210,7 +210,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約8.0円/g"
     rating: 4.67
-    reviewCount: 544
+    reviewCount: 545
     features:
       - "スーツ・コート・ダウン・ニット・カシミアに対応するドライ洗剤"
       - "無香料設計で素材への影響を最小化"

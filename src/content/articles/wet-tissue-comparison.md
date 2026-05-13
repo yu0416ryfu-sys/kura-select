@@ -12,7 +12,7 @@ products:
     capacity: "80枚×15個"
     pricePerUnit: "約1.8円/枚"
     rating: 4.68
-    reviewCount: 4437
+    reviewCount: 4438
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"

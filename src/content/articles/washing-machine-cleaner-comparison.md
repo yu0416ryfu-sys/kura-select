@@ -34,7 +34,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約651円/kg"
     rating: 4.64
-    reviewCount: 1414
+    reviewCount: 1415
     features:
       - "酸素系漂白剤で洗濯槽以外にも多用途"
       - "界面活性剤入りで洗浄力を強化（日本版）"

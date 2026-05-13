@@ -119,7 +119,7 @@ products:
     name: "業務用ティッシュ POPティシュ200W 60箱"
     brand: "OneStep"
     price: 7968
-    capacity: "200組×60箱（12000組）"
+    capacity: "200組×5箱×12（60箱）"
     pricePerUnit: "約0.7円/組"
     rating: 3.5
     reviewCount: 2

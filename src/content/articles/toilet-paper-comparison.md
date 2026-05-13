@@ -78,7 +78,7 @@ products:
     capacity: "50m×12ロール×6パック"
     pricePerUnit: "約1.7円/m"
     rating: 4
-    reviewCount: 3
+    reviewCount: 4
     features:
       - "PEFC認証パルプ100%使用で品質と環境に配慮"
       - "2倍巻きで長持ち・交換頻度が少ない"

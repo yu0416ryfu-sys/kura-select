@@ -211,7 +211,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約8.0円/g"
     rating: 4.67
-    reviewCount: 544
+    reviewCount: 545
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
