@@ -25,6 +25,19 @@ const CHECK_ADDITIONS = process.argv.includes('--check-additions');
 const FILE_FILTER = process.argv.find(a => a.startsWith('--file='))?.split('=')[1] ?? null;
 const THRESHOLD = parseFloat(process.argv.find(a => a.startsWith('--threshold='))?.split('=')[1] ?? '2');
 const TARGET_COUNT = parseInt(process.argv.find(a => a.startsWith('--target='))?.split('=')[1] ?? '15');
+const CONCURRENCY = parsePositiveIntArg('--concurrency=', 2, { min: 1, max: 8 });
+const API_INTERVAL_MS = parsePositiveIntArg('--api-interval=', 1000, { min: 0, max: 10000 });
+
+function parsePositiveIntArg(prefix, fallback, { min = 1, max = Number.MAX_SAFE_INTEGER } = {}) {
+  const raw = process.argv.find(a => a.startsWith(prefix))?.split('=')[1];
+  const parsed = raw == null ? fallback : parseInt(raw, 10);
+  if (!Number.isFinite(parsed)) return fallback;
+  return Math.max(min, Math.min(max, parsed));
+}
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
 
 function formatLogValue(value, type = 'text') {
   if (value === null || value === undefined || value === '') return '-';
@@ -498,6 +511,20 @@ if (!AFFILIATE_ID || AFFILIATE_ID === 'your_affiliate_id_here') {
 // ─── 楽天商品検索APIで商品データを取得 ───────────────────────────────────
 const RAKUTEN_API_ENDPOINT = 'https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20220601';
 const CONSECUTIVE_ZERO_ABORT = 3; // 連続この件数以上の0件エラーで中断（API障害検知用）
+let apiQueue = Promise.resolve();
+let lastApiRequestAt = 0;
+
+async function rateLimitedFetch(url, options) {
+  const run = apiQueue.then(async () => {
+    const waitMs = Math.max(0, API_INTERVAL_MS - (Date.now() - lastApiRequestAt));
+    if (waitMs > 0) await sleep(waitMs);
+    lastApiRequestAt = Date.now();
+    return fetch(url, options);
+  });
+  apiQueue = run.catch(() => {});
+  return run;
+}
+
 /**
  * 楽天アフィリエイトURL または item.rakuten.co.jp 直接URL から
  * { shopCode, itemCode } を抽出する
@@ -557,15 +584,15 @@ async function fetchRakutenItem(shopCode, itemCode, productName) {
 
   let res;
   try {
-    res = await fetch(url, { headers });
+    res = await rateLimitedFetch(url, { headers });
   } catch {
     return null;
   }
 
   if (res.status === 429) {
-    await new Promise(r => setTimeout(r, 5000));
+    await sleep(5000);
     try {
-      res = await fetch(url, { headers });
+      res = await rateLimitedFetch(url, { headers });
     } catch {
       return null;
     }
@@ -629,7 +656,7 @@ async function fetchRakutenSearch(keyword) {
   });
 
   const url = `${RAKUTEN_API_ENDPOINT}?${params}`;
-  let res = await fetch(url, {
+  let res = await rateLimitedFetch(url, {
     headers: {
       'accessKey': ACCESS_KEY,
       'Origin': 'https://yu0416ryfu-sys.github.io',
@@ -639,8 +666,8 @@ async function fetchRakutenSearch(keyword) {
 
   if (res.status === 429) {
     // レート制限: 5秒待ってリトライ
-    await new Promise(r => setTimeout(r, 5000));
-    const res2 = await fetch(url, {
+    await sleep(5000);
+    const res2 = await rateLimitedFetch(url, {
       headers: {
         'accessKey': ACCESS_KEY,
         'Origin': 'https://yu0416ryfu-sys.github.io',
@@ -712,7 +739,7 @@ async function isApiHealthy() {
       formatVersion: '2',
       elements: 'itemName',
     });
-    const res = await fetch(`${RAKUTEN_API_ENDPOINT}?${params}`, {
+    const res = await rateLimitedFetch(`${RAKUTEN_API_ENDPOINT}?${params}`, {
       headers: {
         'accessKey': ACCESS_KEY,
         'Origin': 'https://yu0416ryfu-sys.github.io',
@@ -757,10 +784,10 @@ async function fetchRakutenSearchMany(keyword, hits = 30, page = 1) {
     'Referer': 'https://yu0416ryfu-sys.github.io/',
   };
 
-  let res = await fetch(url, { headers: reqHeaders });
+  let res = await rateLimitedFetch(url, { headers: reqHeaders });
   if (res.status === 429) {
-    await new Promise(r => setTimeout(r, 5000));
-    res = await fetch(url, { headers: reqHeaders });
+    await sleep(5000);
+    res = await rateLimitedFetch(url, { headers: reqHeaders });
   }
   if (!res.ok) throw new Error(`API HTTP ${res.status}`);
 
@@ -1561,6 +1588,398 @@ async function checkReplacements() {
   console.log(`   候補あり記事: ${sections.length} 件`);
 }
 
+function createArticleResult(file) {
+  return {
+    file,
+    logs: [],
+    capacityReviewItems: [],
+    productMatchItems: [],
+    stats: {
+      success: 0,
+      fail: 0,
+      changed: 0,
+      unchanged: 0,
+      capacityChanged: 0,
+      capacityMissing: 0,
+      deleted: 0,
+      failed: 0,
+    },
+  };
+}
+
+async function asyncPool(items, concurrency, worker) {
+  const results = new Array(items.length);
+  let nextIndex = 0;
+  const workers = Array.from({ length: Math.min(concurrency, items.length) }, async () => {
+    while (nextIndex < items.length) {
+      const currentIndex = nextIndex++;
+      results[currentIndex] = await worker(items[currentIndex], currentIndex);
+    }
+  });
+  await Promise.all(workers);
+  return results;
+}
+
+async function processArticle(file, articlesDir, zeroState) {
+  const result = createArticleResult(file);
+  const log = line => result.logs.push(line);
+  const filePath = join(articlesDir, file);
+  const content = readFileSync(filePath, 'utf-8');
+  const productNames = extractProductNames(content);
+  const articleCategory = extractArticleCategory(content) ?? file.replace(/-comparison\.md$/, '');
+  const articleTitle = extractArticleTitle(content) ?? '';
+
+  log(`\n📄 ${file} (${productNames.length}商品)`);
+
+  if (productNames.length === 0) {
+    log('   → 商品なし。スキップ');
+    return result;
+  }
+
+  let updatedContent = content;
+
+  for (const name of productNames) {
+    const shortName = name.slice(0, 45);
+    let existingItemRef = null;
+    try {
+      // ── Step 1: Item/Get で直接取得を試みる ────────────────────────
+      let data = null;
+      let method = '[Search]';
+
+      const existingUrl = extractProductRakutenUrl(updatedContent, name);
+      const parsed = parseRakutenItemUrl(existingUrl);
+      existingItemRef = parsed;
+
+      if (parsed) {
+        const itemData = await fetchRakutenItem(parsed.shopCode, parsed.itemCode, name);
+        if (itemData) {
+          if (!isLikelySameProductName(name, itemData.name ?? '')) {
+            throw new Error(`既存rakutenUrlの商品名が現在の商品と一致しません（API商品名: ${itemData.name ?? '-'}）。更新をスキップ`);
+          }
+          data = itemData;
+          method = '[Item/Get]';
+        } else {
+          throw new Error(`既存rakutenUrlの商品をAPIで確認できません（${parsed.shopCode}/${parsed.itemCode}）。削除・置換をスキップ`);
+        }
+      }
+
+      // ── Step 2: フォールバック（キーワード検索） ──────────────────
+      if (!data) {
+        data = await fetchRakutenSearch(name);
+      }
+
+      log(`   [${shortName}...] ${method}`);
+      const beforeSnapshot = extractProductSnapshot(updatedContent, name);
+      const capacityNotes = [];
+      const extractedCap = data.name ? extractCapacityFromItemName(data.name) : null;
+      const capacityAnalysis = data.name ? analyzeCapacityFromItemName(data.name) : {
+        capacity: null,
+        total: null,
+        normalizedTotal: null,
+        confidence: 'low',
+        reasons: ['API item name is empty'],
+        shouldAutoUpdate: false,
+      };
+      const oldCapacityTotalForLog = extractCapacityTotal(extractProductCapacity(updatedContent, name) ?? '');
+      const oldComparableForLog = normalizeCapacityTotal(oldCapacityTotalForLog);
+      const apiTotal = extractedCap ? extractCapacityTotal(extractedCap) : null;
+      const apiComparable = normalizeCapacityTotal(apiTotal);
+
+      // ── Step 3: pricePerUnit 再計算・更新（既存ロジック） ─────────
+      const capacity = extractProductCapacity(updatedContent, name);
+      const embeddedProductCapacity = extractCapacityFromItemName(name);
+      const isManualCapacityApiConflict = Boolean(
+        method === '[Item/Get]' &&
+        capacity &&
+        embeddedProductCapacity &&
+        extractedCap &&
+        isSameComparableCapacity(capacity, embeddedProductCapacity) &&
+        !isSameComparableCapacity(capacity, extractedCap)
+      );
+      const shouldFreezePriceCapacity = Boolean(
+        (data.name && isMultiMeasureVariantItemName(data.name)) ||
+        isManualCapacityApiConflict
+      );
+      const newPricePerUnit = (!shouldFreezePriceCapacity && capacity && data.price !== null)
+        ? calcPricePerUnit(data.price, capacity)
+        : null;
+
+      const updates = {
+        price: data.price,
+        rating: data.rating,
+        reviewCount: data.reviewCount,
+        affiliateUrl: data.affiliateUrl,
+        imageUrl: data.imageUrl,
+        pricePerUnit: newPricePerUnit,
+      };
+
+      // 機能3: 容量差異の自動修正
+      // Item/Get は同一商品確定のため差異があれば即更新、Search は誤ヒット防止のため5%超のみ更新
+      if (data.name) {
+        if (shouldFreezePriceCapacity) {
+          capacityNotes.push(`capacity判定: 複数容量バリエーションのため要確認。capacity/pricePerUnitは自動更新しない`);
+        } else if (capacity && extractedCap) {
+          const oldTotal = extractCapacityTotal(capacity);
+          const newTotal = extractCapacityTotal(extractedCap);
+          const oldComparable = normalizeCapacityTotal(oldTotal);
+          const newComparable = normalizeCapacityTotal(newTotal);
+          // 単位比較は大文字小文字を無視（"mL" と "ml" を同一視）
+          // さらに同系単位（"kg" と "g", "L" と "mL"）も基準単位に揃えて比較する
+          const mergedCapacity = method === '[Item/Get]'
+            ? mergeExistingMeasureWithSalesQuantity(capacity, extractedCap)
+            : null;
+          if (mergedCapacity) {
+            if (mergedCapacity !== capacity) {
+              updates.newCapacity = mergedCapacity;
+              updates.pricePerUnit = data.price !== null
+                ? calcPricePerUnit(data.price, mergedCapacity)
+                : newPricePerUnit;
+              capacityNotes.push(`capacity判定: 既存の実容量を維持し、API販売数量だけ更新`);
+            } else {
+              capacityNotes.push(`capacity判定: API抽出の販売数量は既存 capacity に含まれるため維持`);
+            }
+          } else if (
+            method === '[Item/Get]' &&
+            isSameMeasureBaseWithExistingQuantity(capacity, extractedCap)
+          ) {
+            capacityNotes.push(`capacity判定: API抽出は既存 capacity の単品容量と一致するため維持`);
+          } else if (
+            method === '[Item/Get]' &&
+            isSalesQuantityCapacity(capacity) &&
+            isSalesQuantityCapacity(extractedCap) &&
+            oldComparable &&
+            newComparable &&
+            oldComparable.unit.toLowerCase() === newComparable.unit.toLowerCase()
+          ) {
+            const diff = Math.abs(newComparable.total - oldComparable.total) / oldComparable.total;
+            if (diff > 0) {
+              updates.newCapacity = extractedCap;
+              updates.pricePerUnit = data.price !== null
+                ? calcPricePerUnit(data.price, extractedCap)
+                : newPricePerUnit;
+              capacityNotes.push(`capacity判定: 販売数量のみ同士のため API 値に更新`);
+            }
+          } else if (
+            method === '[Item/Get]' &&
+            hasMeasureCapacity(capacity) &&
+            isSalesQuantityCapacity(extractedCap)
+          ) {
+            capacityNotes.push(`capacity判定: 既存 capacity に実容量があるため API販売数量のみでは更新しない`);
+          } else if (method === '[Item/Get]' && isLikelySalesQuantityCapacityMisread(data.name, extractedCap)) {
+            updates.newCapacity = '-';
+            updates.pricePerUnit = '-';
+            capacityNotes.push(`capacity判定: 販売数量の可能性があるため capacity を "-" に変更`);
+          } else if (
+            method === '[Item/Get]' &&
+            oldComparable &&
+            newComparable &&
+            oldComparable.unit.toLowerCase() === newComparable.unit.toLowerCase()
+          ) {
+            const diff = Math.abs(newComparable.total - oldComparable.total) / oldComparable.total;
+            const threshold = method === '[Item/Get]' ? 0 : 0.05;
+            if (diff > threshold) {
+              // 同一単位の表記ゆれ（ml→mL など）のみ既存表記に統一し、kg/g などの実単位は楽天表記を保持
+              const normalizedCap = oldTotal && newTotal && oldTotal.unit.toLowerCase() === newTotal.unit.toLowerCase()
+                ? extractedCap.replace(new RegExp(newTotal.unit, 'g'), oldTotal.unit)
+                : extractedCap;
+              updates.newCapacity = normalizedCap;
+              updates.pricePerUnit = data.price !== null
+                ? calcPricePerUnit(data.price, normalizedCap)
+                : newPricePerUnit;
+              capacityNotes.push(`capacity判定: 差異検出により capacity を更新`);
+            }
+          } else if (!capacity && !oldTotal && newTotal && method === '[Item/Get]') {
+            // 既存 capacity が未認識単位等でパース不能な場合、Item/Get 確定商品なら API 値で置換
+            updates.newCapacity = extractedCap;
+            updates.pricePerUnit = data.price !== null
+              ? calcPricePerUnit(data.price, extractedCap)
+              : newPricePerUnit;
+            capacityNotes.push(`capacity判定: 既存値を解析できないため API 抽出値に置換`);
+          }
+        } else if (!extractedCap && method === '[Item/Get]') {
+          capacityNotes.push(`capacity判定: API商品名から容量取得不可のため既存 capacity を維持`);
+        }
+      }
+
+      const proposedCapacity = updates.newCapacity ?? null;
+      const proposedTotal = proposedCapacity ? extractCapacityTotal(proposedCapacity) : null;
+      const proposedComparable = normalizeCapacityTotal(proposedTotal);
+      const capacityReview = shouldReviewCapacity({
+        method,
+        capacity,
+        capacityAnalysis,
+        oldComparable: oldComparableForLog,
+        proposedComparable: proposedComparable ?? apiComparable,
+        shouldFreezePriceCapacity,
+      });
+
+      if (capacityReview.needsReview) {
+        const hadProposedCapacityUpdate = updates.newCapacity != null;
+        if (hadProposedCapacityUpdate) {
+          delete updates.newCapacity;
+        }
+
+        const existingCapacityPricePerUnit = capacity && data.price !== null
+          ? calcPricePerUnit(data.price, capacity)
+          : null;
+        updates.pricePerUnit = existingCapacityPricePerUnit ?? beforeSnapshot?.pricePerUnit ?? null;
+
+        const action = hadProposedCapacityUpdate
+          ? 'blocked capacity auto-update; kept existing capacity'
+          : 'kept existing capacity; review recommended';
+        capacityNotes.push(`capacity safety: ${action}`);
+        capacityReview.reasons.forEach(reason => capacityNotes.push(`capacity review: ${reason}`));
+        result.capacityReviewItems.push(buildCapacityReviewItem({
+          file,
+          category: articleCategory,
+          method,
+          beforeSnapshot,
+          data,
+          capacityAnalysis,
+          extractedCap,
+          reviewReasons: capacityReview.reasons,
+          action,
+        }));
+      }
+
+      const afterSnapshot = buildAfterSnapshot(beforeSnapshot, updates);
+      const changed = [
+        ['name', beforeSnapshot?.name, afterSnapshot.name],
+        ['price', beforeSnapshot?.price, afterSnapshot.price],
+        ['rating', beforeSnapshot?.rating, afterSnapshot.rating],
+        ['reviewCount', beforeSnapshot?.reviewCount, afterSnapshot.reviewCount],
+        ['rakutenUrl', beforeSnapshot?.rakutenUrl, afterSnapshot.rakutenUrl],
+        ['imageUrl', beforeSnapshot?.imageUrl, afterSnapshot.imageUrl],
+        ['capacity', beforeSnapshot?.capacity, afterSnapshot.capacity],
+        ['pricePerUnit', beforeSnapshot?.pricePerUnit, afterSnapshot.pricePerUnit],
+      ].some(([, beforeValue, afterValue]) => (beforeValue ?? null) !== (afterValue ?? null));
+      const capacityChanged = (beforeSnapshot?.capacity ?? null) !== (afterSnapshot.capacity ?? null);
+      const capacityMissing = !extractedCap && method === '[Item/Get]';
+
+      updatedContent = updateProductInFrontmatter(updatedContent, name, updates);
+      const logLines = buildProductLogLines({
+        before: beforeSnapshot,
+        after: afterSnapshot,
+        data,
+        extractedCap,
+        oldComparable: oldComparableForLog,
+        apiComparable,
+        capacityNotes,
+      });
+      logLines.forEach(line => log(`      ${line}`));
+      if (!changed) log('      変更なし');
+      if (changed) {
+        result.stats.changed++;
+      } else {
+        result.stats.unchanged++;
+      }
+      if (capacityChanged) {
+        result.stats.capacityChanged++;
+      }
+      if (capacityMissing) {
+        result.stats.capacityMissing++;
+      }
+      result.stats.success++;
+      zeroState.count = 0; // 成功したらリセット
+    } catch (e) {
+      const errorMessage = e instanceof Error ? e.message : String(e ?? '');
+      let queuedProductMatch = false;
+      try {
+        const matchItem = await buildProductMatchReportItem({
+          file,
+          category: articleCategory,
+          articleTitle,
+          content: updatedContent,
+          productName: name,
+          error: e,
+          existingItemRef,
+        });
+        result.productMatchItems.push(matchItem);
+        queuedProductMatch = true;
+        log(`      product match候補: ${matchItem.candidates.length}件（${matchItem.failure.stage}）`);
+      } catch (reportError) {
+        log(`      product match候補生成失敗: ${reportError.message}`);
+      }
+
+      // 機能2: 検索0件エラー時は商品ブロックを自動削除
+      const isZeroResult = errorMessage.includes('0件') || errorMessage.includes('通常商品が見つかりません');
+      if (isZeroResult && queuedProductMatch) {
+        log(`❌ ${errorMessage} ⚠ AI商品照合候補に追加したため削除スキップ`);
+      } else if (isZeroResult) {
+        if (existingItemRef) {
+          log(`❌ ${errorMessage} ⚠ 削除スキップ（既存 rakutenUrl あり: ${existingItemRef.shopCode}/${existingItemRef.itemCode}）`);
+          result.stats.failed++;
+          result.stats.fail++;
+          await sleep(2000);
+          continue;
+        }
+
+        zeroState.count++;
+
+        // ② 連続N件で中断（API障害と判断）
+        if (zeroState.count >= CONSECUTIVE_ZERO_ABORT) {
+          throw new Error(`連続${zeroState.count}件の検索0件エラーが発生しました。API障害の可能性があるため処理を中断します。`);
+        }
+
+        // ① プローブクエリ：APIが正常かを確認してから削除判断
+        log('   🔍 API疎通確認中...');
+        const healthy = await isApiHealthy();
+        if (!healthy) {
+          throw new Error(`API障害を検知しました（プローブ失敗）。"${name.slice(0, 30)}" の削除をスキップして処理を中断します。`);
+        }
+        log('   🔍 API疎通確認 OK（正常）');
+
+        // API正常 → 廃番と判断して削除
+        const removed = removeProductFromFrontmatter(updatedContent, name);
+        if (removed === null) {
+          log(`❌ ${errorMessage} ⚠ 削除スキップ（最後の1商品）`);
+        } else if (!DRY_RUN) {
+          updatedContent = removed;
+          result.stats.deleted++;
+          log(`🗑 削除: "${name}"`);
+        } else {
+          result.stats.deleted++;
+          log(`🗑 [dry-run] 削除予定: "${name}"`);
+        }
+      } else {
+        log(`❌ ${errorMessage}`);
+      }
+      result.stats.failed++;
+      result.stats.fail++;
+    }
+  }
+
+  // 機能1: コスパ順並び替え（全商品処理後）
+  const reorderResult = reorderProductsByPricePerUnit(updatedContent);
+  if (reorderResult.changed) {
+    updatedContent = reorderResult.content;
+    reorderResult.log.forEach(l => log(`   🔀 ${l}`));
+  } else if (reorderResult.log.length > 0) {
+    reorderResult.log.forEach(l => log(`   ⚠ ${l}`));
+  }
+
+  // 機能4: name に埋め込まれた容量と capacity フィールドの食い違いを修正
+  const nameCapResult = fixNameCapacityConflicts(updatedContent);
+  if (nameCapResult.changed) {
+    updatedContent = nameCapResult.content;
+    nameCapResult.log.forEach(l => log(`   🔧 ${l}`));
+  }
+
+  if (!DRY_RUN && updatedContent !== content) {
+    // updatedAt を当日の JST 日付で更新（sv ロケールは YYYY-MM-DD 形式）
+    const today = new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Tokyo' }).format(new Date());
+    updatedContent = updateUpdatedAt(updatedContent, today);
+    // バックアップ作成（元ファイルを保存）
+    writeFileSync(filePath + '.bak', content, 'utf-8');
+    // ファイル更新
+    writeFileSync(filePath, updatedContent, 'utf-8');
+    log(`   💾 更新完了（updatedAt: ${today}、バックアップ: ${basename(filePath)}.bak）`);
+  }
+  log(`   📊 記事集計: 更新 ${result.stats.changed}件 / 変更なし ${result.stats.unchanged}件 / capacity修正 ${result.stats.capacityChanged}件 / capacity取得不可 ${result.stats.capacityMissing}件 / 削除 ${result.stats.deleted}件 / 失敗 ${result.stats.failed}件`);
+
+  return result;
+}
+
 // ─── メイン処理 ────────────────────────────────────────────────────────────
 async function main() {
   const aiMatchResult = applyPendingAiMatches();
@@ -1573,415 +1992,54 @@ async function main() {
     .filter(f => f.endsWith('.md'))
     .filter(f => !FILE_FILTER || f === FILE_FILTER);
 
-  console.log(`📂 対象ファイル: ${files.length}件\n`);
+  console.log(`📂 対象ファイル: ${files.length}件`);
+  console.log(`⚙ 並列数: ${CONCURRENCY} / API間隔: ${API_INTERVAL_MS}ms\n`);
   if (DRY_RUN) console.log('⚠ --dry-run モード: ファイルは書き換えません\n');
 
-  let totalSuccess = 0;
-  let totalFail = 0;
-  let totalChanged = 0;
-  let totalUnchanged = 0;
-  let totalCapacityChanged = 0;
-  let totalCapacityMissing = 0;
-  let totalDeleted = 0;
-  const capacityReviewItems = [];
-  const productMatchItems = [];
-  let consecutiveZeroResults = 0; // 連続0件カウンター（API障害検知用）
+  const zeroState = { count: 0 };
+  const articleResults = await asyncPool(files, CONCURRENCY, file => processArticle(file, articlesDir, zeroState));
 
-  for (const file of files) {
-    const filePath = join(articlesDir, file);
-    const content = readFileSync(filePath, 'utf-8');
-    const productNames = extractProductNames(content);
-    const articleCategory = extractArticleCategory(content) ?? file.replace(/-comparison\.md$/, '');
-    const articleTitle = extractArticleTitle(content) ?? '';
-
-    console.log(`\n📄 ${file} (${productNames.length}商品)`);
-
-    if (productNames.length === 0) {
-      console.log('   → 商品なし。スキップ');
-      continue;
-    }
-
-    let updatedContent = content;
-    const results = [];
-    const fileStats = {
-      changed: 0,
-      unchanged: 0,
-      capacityChanged: 0,
-      capacityMissing: 0,
-      deleted: 0,
-      failed: 0,
-    };
-
-    for (const name of productNames) {
-      const shortName = name.slice(0, 45);
-      process.stdout.write(`   [${shortName}...] `);
-      let existingItemRef = null;
-      try {
-        // ── Step 1: Item/Get で直接取得を試みる ────────────────────────
-        let data = null;
-        let method = '[Search]';
-
-        const existingUrl = extractProductRakutenUrl(updatedContent, name);
-        const parsed = parseRakutenItemUrl(existingUrl);
-        existingItemRef = parsed;
-
-        if (parsed) {
-          const itemData = await fetchRakutenItem(parsed.shopCode, parsed.itemCode, name);
-          if (itemData) {
-            if (!isLikelySameProductName(name, itemData.name ?? '')) {
-              throw new Error(`既存rakutenUrlの商品名が現在の商品と一致しません（API商品名: ${itemData.name ?? '-'}）。更新をスキップ`);
-            }
-            data = itemData;
-            method = '[Item/Get]';
-          } else {
-            throw new Error(`既存rakutenUrlの商品をAPIで確認できません（${parsed.shopCode}/${parsed.itemCode}）。削除・置換をスキップ`);
-          }
-        }
-
-        // ── Step 2: フォールバック（キーワード検索） ──────────────────
-        if (!data) {
-          data = await fetchRakutenSearch(name);
-        }
-
-        process.stdout.write(`${method}\n`);
-        const beforeSnapshot = extractProductSnapshot(updatedContent, name);
-        const capacityNotes = [];
-        const extractedCap = data.name ? extractCapacityFromItemName(data.name) : null;
-        const capacityAnalysis = data.name ? analyzeCapacityFromItemName(data.name) : {
-          capacity: null,
-          total: null,
-          normalizedTotal: null,
-          confidence: 'low',
-          reasons: ['API item name is empty'],
-          shouldAutoUpdate: false,
-        };
-        const oldCapacityTotalForLog = extractCapacityTotal(extractProductCapacity(updatedContent, name) ?? '');
-        const oldComparableForLog = normalizeCapacityTotal(oldCapacityTotalForLog);
-        const apiTotal = extractedCap ? extractCapacityTotal(extractedCap) : null;
-        const apiComparable = normalizeCapacityTotal(apiTotal);
-
-        // ── Step 3: pricePerUnit 再計算・更新（既存ロジック） ─────────
-        const capacity = extractProductCapacity(updatedContent, name);
-        const embeddedProductCapacity = extractCapacityFromItemName(name);
-        const isManualCapacityApiConflict = Boolean(
-          method === '[Item/Get]' &&
-          capacity &&
-          embeddedProductCapacity &&
-          extractedCap &&
-          isSameComparableCapacity(capacity, embeddedProductCapacity) &&
-          !isSameComparableCapacity(capacity, extractedCap)
-        );
-        const shouldFreezePriceCapacity = Boolean(
-          (data.name && isMultiMeasureVariantItemName(data.name)) ||
-          isManualCapacityApiConflict
-        );
-        const newPricePerUnit = (!shouldFreezePriceCapacity && capacity && data.price !== null)
-          ? calcPricePerUnit(data.price, capacity)
-          : null;
-
-        const updates = {
-          price: data.price,
-          rating: data.rating,
-          reviewCount: data.reviewCount,
-          affiliateUrl: data.affiliateUrl,
-          imageUrl: data.imageUrl,
-          pricePerUnit: newPricePerUnit,
-        };
-
-        // 機能3: 容量差異の自動修正
-        // Item/Get は同一商品確定のため差異があれば即更新、Search は誤ヒット防止のため5%超のみ更新
-        if (data.name) {
-          if (shouldFreezePriceCapacity) {
-            capacityNotes.push(`capacity判定: 複数容量バリエーションのため要確認。capacity/pricePerUnitは自動更新しない`);
-          } else if (capacity && extractedCap) {
-            const oldTotal = extractCapacityTotal(capacity);
-            const newTotal = extractCapacityTotal(extractedCap);
-            const oldComparable = normalizeCapacityTotal(oldTotal);
-            const newComparable = normalizeCapacityTotal(newTotal);
-            // 単位比較は大文字小文字を無視（"mL" と "ml" を同一視）
-            // さらに同系単位（"kg" と "g", "L" と "mL"）も基準単位に揃えて比較する
-            const mergedCapacity = method === '[Item/Get]'
-              ? mergeExistingMeasureWithSalesQuantity(capacity, extractedCap)
-              : null;
-            if (mergedCapacity) {
-              if (mergedCapacity !== capacity) {
-                updates.newCapacity = mergedCapacity;
-                updates.pricePerUnit = data.price !== null
-                  ? calcPricePerUnit(data.price, mergedCapacity)
-                  : newPricePerUnit;
-                capacityNotes.push(`capacity判定: 既存の実容量を維持し、API販売数量だけ更新`);
-              } else {
-                capacityNotes.push(`capacity判定: API抽出の販売数量は既存 capacity に含まれるため維持`);
-              }
-            } else if (
-              method === '[Item/Get]' &&
-              isSameMeasureBaseWithExistingQuantity(capacity, extractedCap)
-            ) {
-              capacityNotes.push(`capacity判定: API抽出は既存 capacity の単品容量と一致するため維持`);
-            } else if (
-              method === '[Item/Get]' &&
-              isSalesQuantityCapacity(capacity) &&
-              isSalesQuantityCapacity(extractedCap) &&
-              oldComparable &&
-              newComparable &&
-              oldComparable.unit.toLowerCase() === newComparable.unit.toLowerCase()
-            ) {
-              const diff = Math.abs(newComparable.total - oldComparable.total) / oldComparable.total;
-              if (diff > 0) {
-                updates.newCapacity = extractedCap;
-                updates.pricePerUnit = data.price !== null
-                  ? calcPricePerUnit(data.price, extractedCap)
-                  : newPricePerUnit;
-                capacityNotes.push(`capacity判定: 販売数量のみ同士のため API 値に更新`);
-              }
-            } else if (
-              method === '[Item/Get]' &&
-              hasMeasureCapacity(capacity) &&
-              isSalesQuantityCapacity(extractedCap)
-            ) {
-              capacityNotes.push(`capacity判定: 既存 capacity に実容量があるため API販売数量のみでは更新しない`);
-            } else if (method === '[Item/Get]' && isLikelySalesQuantityCapacityMisread(data.name, extractedCap)) {
-              updates.newCapacity = '-';
-              updates.pricePerUnit = '-';
-              capacityNotes.push(`capacity判定: 販売数量の可能性があるため capacity を "-" に変更`);
-            } else if (
-              method === '[Item/Get]' &&
-              oldComparable &&
-              newComparable &&
-              oldComparable.unit.toLowerCase() === newComparable.unit.toLowerCase()
-            ) {
-              const diff = Math.abs(newComparable.total - oldComparable.total) / oldComparable.total;
-              const threshold = method === '[Item/Get]' ? 0 : 0.05;
-              if (diff > threshold) {
-                // 同一単位の表記ゆれ（ml→mL など）のみ既存表記に統一し、kg/g などの実単位は楽天表記を保持
-                const normalizedCap = oldTotal && newTotal && oldTotal.unit.toLowerCase() === newTotal.unit.toLowerCase()
-                  ? extractedCap.replace(new RegExp(newTotal.unit, 'g'), oldTotal.unit)
-                  : extractedCap;
-                updates.newCapacity = normalizedCap;
-                updates.pricePerUnit = data.price !== null
-                  ? calcPricePerUnit(data.price, normalizedCap)
-                  : newPricePerUnit;
-                capacityNotes.push(`capacity判定: 差異検出により capacity を更新`);
-              }
-            } else if (!capacity && !oldTotal && newTotal && method === '[Item/Get]') {
-              // 既存 capacity が未認識単位等でパース不能な場合、Item/Get 確定商品なら API 値で置換
-              updates.newCapacity = extractedCap;
-              updates.pricePerUnit = data.price !== null
-                ? calcPricePerUnit(data.price, extractedCap)
-                : newPricePerUnit;
-              capacityNotes.push(`capacity判定: 既存値を解析できないため API 抽出値に置換`);
-            }
-          } else if (!extractedCap && method === '[Item/Get]') {
-            capacityNotes.push(`capacity判定: API商品名から容量取得不可のため既存 capacity を維持`);
-          }
-        }
-
-        const proposedCapacity = updates.newCapacity ?? null;
-        const proposedTotal = proposedCapacity ? extractCapacityTotal(proposedCapacity) : null;
-        const proposedComparable = normalizeCapacityTotal(proposedTotal);
-        const capacityReview = shouldReviewCapacity({
-          method,
-          capacity,
-          capacityAnalysis,
-          oldComparable: oldComparableForLog,
-          proposedComparable: proposedComparable ?? apiComparable,
-          shouldFreezePriceCapacity,
-        });
-
-        if (capacityReview.needsReview) {
-          const hadProposedCapacityUpdate = updates.newCapacity != null;
-          if (hadProposedCapacityUpdate) {
-            delete updates.newCapacity;
-          }
-
-          const existingCapacityPricePerUnit = capacity && data.price !== null
-            ? calcPricePerUnit(data.price, capacity)
-            : null;
-          updates.pricePerUnit = existingCapacityPricePerUnit ?? beforeSnapshot?.pricePerUnit ?? null;
-
-          const action = hadProposedCapacityUpdate
-            ? 'blocked capacity auto-update; kept existing capacity'
-            : 'kept existing capacity; review recommended';
-          capacityNotes.push(`capacity safety: ${action}`);
-          capacityReview.reasons.forEach(reason => capacityNotes.push(`capacity review: ${reason}`));
-          capacityReviewItems.push(buildCapacityReviewItem({
-            file,
-            category: articleCategory,
-            method,
-            beforeSnapshot,
-            data,
-            capacityAnalysis,
-            extractedCap,
-            reviewReasons: capacityReview.reasons,
-            action,
-          }));
-        }
-
-        const afterSnapshot = buildAfterSnapshot(beforeSnapshot, updates);
-        const changed = [
-          ['name', beforeSnapshot?.name, afterSnapshot.name],
-          ['price', beforeSnapshot?.price, afterSnapshot.price],
-          ['rating', beforeSnapshot?.rating, afterSnapshot.rating],
-          ['reviewCount', beforeSnapshot?.reviewCount, afterSnapshot.reviewCount],
-          ['rakutenUrl', beforeSnapshot?.rakutenUrl, afterSnapshot.rakutenUrl],
-          ['imageUrl', beforeSnapshot?.imageUrl, afterSnapshot.imageUrl],
-          ['capacity', beforeSnapshot?.capacity, afterSnapshot.capacity],
-          ['pricePerUnit', beforeSnapshot?.pricePerUnit, afterSnapshot.pricePerUnit],
-        ].some(([, beforeValue, afterValue]) => (beforeValue ?? null) !== (afterValue ?? null));
-        const capacityChanged = (beforeSnapshot?.capacity ?? null) !== (afterSnapshot.capacity ?? null);
-        const capacityMissing = !extractedCap && method === '[Item/Get]';
-
-        updatedContent = updateProductInFrontmatter(updatedContent, name, updates);
-        results.push({ success: true, name: data.name.slice(0, 40), price: data.price, rating: data.rating, reviewCount: data.reviewCount });
-        const logLines = buildProductLogLines({
-          before: beforeSnapshot,
-          after: afterSnapshot,
-          data,
-          extractedCap,
-          oldComparable: oldComparableForLog,
-          apiComparable,
-          capacityNotes,
-        });
-        logLines.forEach(line => console.log(`      ${line}`));
-        if (!changed) console.log('      変更なし');
-        if (changed) {
-          fileStats.changed++;
-          totalChanged++;
-        } else {
-          fileStats.unchanged++;
-          totalUnchanged++;
-        }
-        if (capacityChanged) {
-          fileStats.capacityChanged++;
-          totalCapacityChanged++;
-        }
-        if (capacityMissing) {
-          fileStats.capacityMissing++;
-          totalCapacityMissing++;
-        }
-        totalSuccess++;
-        consecutiveZeroResults = 0; // 成功したらリセット
-      } catch (e) {
-        const errorMessage = e instanceof Error ? e.message : String(e ?? '');
-        let queuedProductMatch = false;
-        try {
-          const matchItem = await buildProductMatchReportItem({
-            file,
-            category: articleCategory,
-            articleTitle,
-            content: updatedContent,
-            productName: name,
-            error: e,
-            existingItemRef,
-          });
-          productMatchItems.push(matchItem);
-          queuedProductMatch = true;
-          console.log(`\n      product match候補: ${matchItem.candidates.length}件（${matchItem.failure.stage}）`);
-        } catch (reportError) {
-          console.log(`\n      product match候補生成失敗: ${reportError.message}`);
-        }
-
-        // 機能2: 検索0件エラー時は商品ブロックを自動削除
-        const isZeroResult = errorMessage.includes('0件') || errorMessage.includes('通常商品が見つかりません');
-        if (isZeroResult && queuedProductMatch) {
-          console.log(`❌ ${errorMessage} ⚠ AI商品照合候補に追加したため削除スキップ`);
-        } else if (isZeroResult) {
-          if (existingItemRef) {
-            console.log(`❌ ${errorMessage} ⚠ 削除スキップ（既存 rakutenUrl あり: ${existingItemRef.shopCode}/${existingItemRef.itemCode}）`);
-            results.push({ success: false, name: shortName, reason: errorMessage });
-            fileStats.failed++;
-            totalFail++;
-            await new Promise(r => setTimeout(r, 2000));
-            continue;
-          }
-
-          consecutiveZeroResults++;
-
-          // ② 連続N件で中断（API障害と判断）
-          if (consecutiveZeroResults >= CONSECUTIVE_ZERO_ABORT) {
-            console.error(`\n🚨 連続${consecutiveZeroResults}件の検索0件エラーが発生しました。`);
-            console.error('   API障害の可能性があるため処理を中断します。ファイルへの書き込みは行っていません。');
-            process.exit(1);
-          }
-
-          // ① プローブクエリ：APIが正常かを確認してから削除判断
-          process.stdout.write('\n   🔍 API疎通確認中... ');
-          const healthy = await isApiHealthy();
-          if (!healthy) {
-            console.error(`\n🚨 API障害を検知しました（プローブ失敗）。"${name.slice(0, 30)}" の削除をスキップして処理を中断します。`);
-            console.error('   ファイルへの書き込みは行っていません。次回実行時に再試行してください。');
-            process.exit(1);
-          }
-          console.log('OK（正常）');
-
-          // API正常 → 廃番と判断して削除
-          const removed = removeProductFromFrontmatter(updatedContent, name);
-          if (removed === null) {
-            console.log(`❌ ${errorMessage} ⚠ 削除スキップ（最後の1商品）`);
-          } else if (!DRY_RUN) {
-            updatedContent = removed;
-            fileStats.deleted++;
-            totalDeleted++;
-            console.log(`🗑 削除: "${name}"`);
-          } else {
-            fileStats.deleted++;
-            totalDeleted++;
-            console.log(`🗑 [dry-run] 削除予定: "${name}"`);
-          }
-        } else {
-          console.log(`❌ ${errorMessage}`);
-        }
-        results.push({ success: false, name: shortName, reason: errorMessage });
-        fileStats.failed++;
-        totalFail++;
-      }
-      // APIレート制限対策（2秒間隔）
-      await new Promise(r => setTimeout(r, 2000));
-    }
-
-    // 機能1: コスパ順並び替え（全商品処理後）
-    const reorderResult = reorderProductsByPricePerUnit(updatedContent);
-    if (reorderResult.changed) {
-      updatedContent = reorderResult.content;
-      reorderResult.log.forEach(l => console.log(`   🔀 ${l}`));
-    } else if (reorderResult.log.length > 0) {
-      reorderResult.log.forEach(l => console.log(`   ⚠ ${l}`));
-    }
-
-    // 機能4: name に埋め込まれた容量と capacity フィールドの食い違いを修正
-    const nameCapResult = fixNameCapacityConflicts(updatedContent);
-    if (nameCapResult.changed) {
-      updatedContent = nameCapResult.content;
-      nameCapResult.log.forEach(l => console.log(`   🔧 ${l}`));
-    }
-
-    if (!DRY_RUN && updatedContent !== content) {
-      // updatedAt を当日の JST 日付で更新（sv ロケールは YYYY-MM-DD 形式）
-      const today = new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Tokyo' }).format(new Date());
-      updatedContent = updateUpdatedAt(updatedContent, today);
-      // バックアップ作成（元ファイルを保存）
-      writeFileSync(filePath + '.bak', content, 'utf-8');
-      // ファイル更新
-      writeFileSync(filePath, updatedContent, 'utf-8');
-      console.log(`   💾 更新完了（updatedAt: ${today}、バックアップ: ${basename(filePath)}.bak）`);
-    }
-    console.log(`   📊 記事集計: 更新 ${fileStats.changed}件 / 変更なし ${fileStats.unchanged}件 / capacity修正 ${fileStats.capacityChanged}件 / capacity取得不可 ${fileStats.capacityMissing}件 / 削除 ${fileStats.deleted}件 / 失敗 ${fileStats.failed}件`);
+  for (const result of articleResults) {
+    result.logs.forEach(line => console.log(line));
   }
 
+  const totals = articleResults.reduce((acc, result) => {
+    acc.success += result.stats.success;
+    acc.fail += result.stats.fail;
+    acc.changed += result.stats.changed;
+    acc.unchanged += result.stats.unchanged;
+    acc.capacityChanged += result.stats.capacityChanged;
+    acc.capacityMissing += result.stats.capacityMissing;
+    acc.deleted += result.stats.deleted;
+    acc.capacityReviewItems.push(...result.capacityReviewItems);
+    acc.productMatchItems.push(...result.productMatchItems);
+    return acc;
+  }, {
+    success: 0,
+    fail: 0,
+    changed: 0,
+    unchanged: 0,
+    capacityChanged: 0,
+    capacityMissing: 0,
+    deleted: 0,
+    capacityReviewItems: [],
+    productMatchItems: [],
+  });
+
   console.log('\n' + '═'.repeat(60));
-  console.log(`✅ 成功: ${totalSuccess}件  ❌ 失敗: ${totalFail}件`);
-  console.log(`📊 変更あり: ${totalChanged}件 / 変更なし: ${totalUnchanged}件 / capacity修正: ${totalCapacityChanged}件 / capacity取得不可: ${totalCapacityMissing}件 / 削除: ${totalDeleted}件`);
-  const capacityReport = writeCapacityReviewReports(capacityReviewItems);
+  console.log(`✅ 成功: ${totals.success}件  ❌ 失敗: ${totals.fail}件`);
+  console.log(`📊 変更あり: ${totals.changed}件 / 変更なし: ${totals.unchanged}件 / capacity修正: ${totals.capacityChanged}件 / capacity取得不可: ${totals.capacityMissing}件 / 削除: ${totals.deleted}件`);
+  const capacityReport = writeCapacityReviewReports(totals.capacityReviewItems);
   if (capacityReport) {
     console.log(`capacity review report: ${capacityReport.mdPath}`);
     console.log(`AI capacity input: ${capacityReport.jsonlPath}`);
   }
-  const productMatchReport = writeProductMatchReport(productMatchItems);
+  const productMatchReport = writeProductMatchReport(totals.productMatchItems);
   if (productMatchReport) {
     console.log(`product match input: ${productMatchReport}`);
-    console.log(`product match items: ${productMatchItems.length}`);
+    console.log(`product match items: ${totals.productMatchItems.length}`);
   }
-  if (!DRY_RUN && totalSuccess > 0) {
+  if (!DRY_RUN && totals.success > 0) {
     console.log('各ファイルの .bak でいつでも元に戻せます。');
   }
 }

@@ -28,7 +28,7 @@
 | コンテンツ | Content Collections（Zod スキーマ + glob loader） |
 | Markdown 拡張 | MDX |
 | OGP 画像生成 | Sharp |
-| テスト | Vitest（`tests/frontmatter.test.ts` の 17 件のみ） |
+| テスト | Vitest（`tests/frontmatter.test.ts` の frontmatter ユーティリティテスト） |
 | パッケージマネージャ | **pnpm 固定**（`pnpm-lock.yaml` あり、`npm` / `yarn` 使用禁止） |
 | Node | 22.x 以上 |
 | デプロイ | GitHub Pages（GitHub Actions 経由、CNAME `www.kura-select.com`） |
@@ -40,14 +40,17 @@
 
 ```bash
 pnpm install               # 依存導入
-pnpm dev                   # 開発サーバー (http://localhost:4321/kura-select)
+pnpm dev                   # 開発サーバー (http://localhost:4321)
 pnpm build                 # OGP 画像生成 → Astro ビルド
 pnpm preview               # ビルド成果物のローカルプレビュー
-pnpm test                  # Vitest（現状テスト 0 件）
+pnpm test                  # Vitest
 pnpm test:watch            # Vitest watch モード
 pnpm generate-ogp          # OGP 画像のみ手動生成
 pnpm update-products       # 楽天 API から商品データを更新
 pnpm update-products:dry   # 上記の dry-run
+pnpm update-products -- --concurrency=2 --api-interval=1000  # 記事並列数/API間隔を指定
+pnpm check-additions -- --target=15       # 商品追加候補レポート
+pnpm check-replacements -- --threshold=2  # 商品入れ替え候補レポート
 ```
 
 `pnpm build` は **必ず `generate-ogp.mjs` を先に実行**してから Astro をビルドします（`package.json` で連結済み）。記事を追加・更新した後にデプロイする場合は、ローカルで `pnpm build` を回して OGP が生成されることを確認してください。
@@ -68,7 +71,7 @@ KuraSelect/
 │  └ update-products.yml     # 月曜 12:00 JST に楽天 API 同期 → commit → deploy
 ├ Codex/                # ローカル作業メモ（.gitignore 済み、Codex が触らない）
 ├ tests/
-│  └ frontmatter.test.ts     # frontmatter ライブラリの Vitest スイート（17 件）
+│  └ frontmatter.test.ts     # frontmatter ライブラリの Vitest スイート
 ├ public/                    # 静的アセット（favicon, placeholder, og 画像出力先）
 ├ scripts/
 │  ├ generate-ogp.mjs        # OGP 画像生成（ビルド前自動実行）
@@ -78,8 +81,8 @@ KuraSelect/
    ├ content.config.ts       # Zod スキーマ（articles / categories）★唯一の正
    ├ env.d.ts                # Astro / env 型定義
    ├ content/
-   │  ├ articles/            # 記事 .md / .mdx（34 本）
-   │  └ categories/          # カテゴリ .md（26 件）
+   │  ├ articles/            # 記事 .md / .mdx（53 本）
+   │  └ categories/          # カテゴリ .md（43 件）
    ├ layouts/
    │  ├ BaseLayout.astro     # 全ページ共通（GA, Header, Footer, CSS 変数）
    │  └ ArticleLayout.astro  # 記事ページ専用（CTA、比較表、JSON-LD）
@@ -105,7 +108,7 @@ KuraSelect/
 
 ### 5.1 スキーマは `src/content.config.ts` が唯一の正
 
-記事 (`articles`) と カテゴリ (`categories`) のスキーマは Zod で定義されています。**スキーマを変更する場合は既存の 34 記事すべてに影響する**ことを意識し、必ず破壊的影響を見積もったうえでユーザーに確認してください。
+記事 (`articles`) と カテゴリ (`categories`) のスキーマは Zod で定義されています。**スキーマを変更する場合は既存の 53 記事すべてに影響する**ことを意識し、必ず破壊的影響を見積もったうえでユーザーに確認してください。
 
 主要バリデーション:
 - `title`: 最大 **60 文字**
@@ -139,20 +142,21 @@ KuraSelect/
 
 - リポジトリの `main` ブランチに push すると `.github/workflows/deploy.yml` が起動し、`pnpm install` → `pnpm build` → `actions/deploy-pages@v4` で Pages に公開する。
 - `CNAME` ファイルでカスタムドメイン `www.kura-select.com` を設定済み。
-- ただし `astro.config.mjs` は依然 `site: https://yu0416ryfu-sys.github.io` / `base: /kura-select` のまま — **CNAME と整合していない**（既知の負債、§14 参照）。実態として今は `yu0416ryfu-sys.github.io/kura-select` で動作している前提。
+- `astro.config.mjs` は `site: https://www.kura-select.com`、`base` なしで運用中。
 - 内部リンクは必ず `src/lib/site.ts` の `url()` ヘルパー経由で `BASE_URL` を解決すること（`/articles/...` のような直書きは GH Pages で 404 になる）。
 
 ### 商品データ自動更新（cron）
 
 - `.github/workflows/update-products.yml` が **毎週月曜 03:00 UTC（日本時間 12:00）** に走り、`pnpm update-products` で楽天 API から最新価格などを取得 → `src/content/articles/` を `git commit & push`（bot コミット）→ `deploy.yml` を workflow_dispatch で起動。
+- `pnpm update-products` は記事ファイル単位で並列処理する。既定は `--concurrency=2 --api-interval=1000`。楽天 API の 429 が出る場合は `--concurrency=1 --api-interval=2000` などに下げる。
 - secrets: `RAKUTEN_APPLICATION_ID` / `RAKUTEN_ACCESS_KEY` / `PUBLIC_RAKUTEN_AFFILIATE_ID`。
 
 ### カスタムドメイン化 / Vercel 移行時の作業
 
-- `astro.config.mjs` の `base: "/kura-select"` を**削除**し、`site` を新ドメイン (`https://www.kura-select.com`) に更新。
+- `astro.config.mjs` の `site` / `base` 設定を移行先ドメインに合わせて確認。
 - 全記事・OGP・サイトマップが新ドメイン基準で再生成されるため、`pnpm build` の差分を必ず確認。
 - Vercel 移行なら `vercel.json` 追加検討、`update-products.yml` のデプロイトリガーも書き換え。
-- README の旧 Vercel デプロイ手順は **GitHub Pages 実態と乖離している**ため、移行判断時にあわせて修正。
+- README は GitHub Pages / `security.checkOrigin` / CSP 未設定の実態に合わせて更新済み。移行時は再確認する。
 
 ---
 
@@ -216,7 +220,7 @@ Lighthouse の **Performance / SEO / Accessibility / Best Practices すべて 95
 
 ## 12. テスト
 
-- 現状のテストは `tests/frontmatter.test.ts` の **17 件のみ**（`scripts/lib/frontmatter.ts` のユーティリティを対象、`pnpm test` で実行可）。
+- 現状のテストは `tests/frontmatter.test.ts`（`scripts/lib/frontmatter.ts` のユーティリティを対象、`pnpm test` で実行可）。
 - 追加するなら優先順位は次の通り:
   1. `src/lib/rakuten.ts` のロジック関数（現在スタブ、実装と並行で）
   2. Zod スキーマの境界値（title 60 文字、description 160 文字、`rakutenUrl` の URL 検証など）
@@ -229,8 +233,8 @@ Lighthouse の **Performance / SEO / Accessibility / Best Practices すべて 95
 
 1. **ファイル変更前に必ず Read**。推測で編集しない
 2. 一括置換は破壊的になりやすい。まず 1 ファイルで動作確認 → 横展開
-3. スキーマ変更（`content.config.ts`）は影響範囲（既存 34 記事）をユーザーに提示してから着手
-4. README と `astro.config.mjs` には**乖離がある**（README は Vercel / `experimental.csp` 前提、実体は GitHub Pages / CSP 未設定）。どちらかを触るときは整合性を意識
+3. スキーマ変更（`content.config.ts`）は影響範囲（既存 53 記事）をユーザーに提示してから着手
+4. README と `astro.config.mjs` のデプロイ設定・CSP 記述を触るときは整合性を確認
 5. 日本語コンテンツが主。記事本文や見出しのコピーは**原則そのまま保持**、変更時はユーザー確認
 6. コミットメッセージは日本語可
 7. `node_modules`, `dist`, `.astro/` は触らない・読まない（時間の無駄）
@@ -242,14 +246,14 @@ Lighthouse の **Performance / SEO / Accessibility / Best Practices すべて 95
 ## 14. 既知の負債 / TODO
 
 - ~~[x] **`astro.config.mjs` と CNAME の不整合**：解消済み（2026-05-03）。`site` を `https://www.kura-select.com` に変更、`base` を削除~~
-- [ ] README の「Vercel デプロイ」「`experimental.csp` 有効化」記述を GitHub Pages / CSP 未設定の実態に合わせて修正
+- ~~[x] README の「Vercel デプロイ」「`experimental.csp` 有効化」記述を GitHub Pages / CSP 未設定の実態に合わせて修正~~（2026-05-13）
 - ~~[x] `*.md.bak`（5 本）の扱い：**残す**で確定（2026-05-03 ユーザー判断）。`.gitignore` 済みなのでコミットには影響しない~~
 - [ ] `src/lib/rakuten.ts` の実装（現状スタブ。`update-products.mjs` と統合余地）
 - [ ] `astro.config.mjs` の `image.domains` に `thumbnail.image.rakuten.co.jp` 追加検討（楽天画像の最適化）
 - [ ] ESLint / Prettier / EditorConfig の導入可否
-- [ ] `scripts/update-products.mjs` の使い方ドキュメント（README 未記載）
+- ~~[x] `scripts/update-products.mjs` の使い方ドキュメント（README 未記載）~~ README に通常更新・並列/API制御・追加/入れ替え候補レポート・AI照合ファイルの扱いを追記（2026-05-13）
 - [ ] CSP の本格設定（楽天画像ドメイン許可など）
-- [ ] Vitest テストの拡充（現状 17 件、`rakuten.ts` / Zod 境界値が手薄）
+- [ ] Vitest テストの拡充（`rakuten.ts` / Zod 境界値が手薄）
 
 ---
 

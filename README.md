@@ -4,7 +4,7 @@
 
 Astro 6 + Preact 10（compat）+ Tailwind CSS v4 + TypeScript（strict）で構築した静的サイト（SSG）。GitHub Pages にデプロイされ、楽天 Web Service API から商品データを定期更新する仕組みを GitHub Actions で組んでいます。
 
-> Claude（Claude Code / Cowork など）でこのリポジトリを触るときは、最初に [`CLAUDE.md`](./CLAUDE.md) を読んでください。コーディング規約・スキーマ規約・既知の負債が集約されています。
+> Codex / Claude Code / Cowork などでこのリポジトリを触るときは、最初に [`AGENTS.md`](./AGENTS.md) / [`CLAUDE.md`](./CLAUDE.md) を読んでください。コーディング規約・スキーマ規約・既知の負債が集約されています。
 
 ---
 
@@ -25,7 +25,7 @@ pnpm install
 
 ```bash
 pnpm dev
-# http://localhost:4321/kura-select で起動（base path /kura-select に注意）
+# http://localhost:4321 で起動
 ```
 
 ### ビルド
@@ -44,7 +44,7 @@ pnpm preview
 ### テスト
 
 ```bash
-pnpm test          # vitest run（現状 tests/frontmatter.test.ts の 17 件）
+pnpm test          # vitest run
 pnpm test:watch    # watch モード
 ```
 
@@ -54,6 +54,57 @@ pnpm test:watch    # watch モード
 pnpm update-products       # 楽天 API 呼び出し → 記事 frontmatter 更新
 pnpm update-products:dry   # 同上の dry-run（ファイルは書かない）
 ```
+
+通常更新は `src/content/articles/*.md` を対象に、記事ファイル単位で並列処理します。各記事内の商品は安全のため逐次処理し、楽天 API 呼び出しは全体共有のレート制御キューを通します。
+
+主な更新内容:
+
+- 既存 `rakutenUrl` から商品を直接確認し、価格・評価・レビュー数・画像・アフィリエイト URL を更新
+- 直接確認できない場合は商品名検索にフォールバック
+- `capacity` と `pricePerUnit` を再計算し、不確実な容量差分は自動更新せず review レポートに出力
+- `pricePerUnit` 順に商品を並び替え
+- 商品名と `capacity` の明らかな食い違いを補正
+- 検索 0 件や商品不一致は AI 商品照合用 JSONL に出力
+- 変更時は元ファイルを `<記事名>.md.bak` にバックアップ
+
+よく使うオプション:
+
+```bash
+pnpm update-products:dry -- --file=storage-bag-comparison.md
+pnpm update-products -- --concurrency=2 --api-interval=1000
+pnpm update-products:dry -- --concurrency=1 --api-interval=2000
+```
+
+| オプション | 既定値 | 用途 |
+|------------|--------|------|
+| `--dry-run` | false | ファイルを書き換えず処理結果だけ確認 |
+| `--file=<filename>` | なし | 対象記事を 1 ファイルに限定 |
+| `--concurrency=<n>` | `2` | 通常更新の記事ファイル並列数（1〜8） |
+| `--api-interval=<ms>` | `1000` | 楽天 API 呼び出し間隔（全体共有、0〜10000ms） |
+
+`429 Too many requests` が出る場合は `--concurrency=1 --api-interval=2000` などに下げてください。
+
+### 商品メンテナンス用レポート
+
+```bash
+pnpm check-additions -- --target=15
+pnpm check-additions -- --file=storage-bag-comparison.md --target=15
+pnpm check-replacements -- --threshold=2
+pnpm check-replacements -- --file=storage-bag-comparison.md --threshold=2
+```
+
+- `check-additions`: 商品数が目標未満の記事について追加候補を検索し、`reports/addition-candidates-YYYY-MM-DD.md` と `reports/addition-urls-YYYY-MM-DD.md` を出力
+- `check-replacements`: 既存商品よりレビュー数が多い入れ替え候補を探し、`reports/replacement-candidates-YYYY-MM-DD.md` を出力
+- `--target`: 追加候補チェックの目標商品数（既定 `15`）
+- `--threshold`: 入れ替え候補のレビュー数倍率（既定 `2`）
+
+通常更新で出力される review / AI 照合ファイル:
+
+- `reports/capacity-review-YYYY-MM-DD.md`
+- `reports/ai-capacity-input-YYYY-MM-DD.jsonl`
+- `reports/product-match-input-YYYY-MM-DD.jsonl`
+
+AI などで照合済みの JSONL は `reports/ai-matches/pending/` に置いてから `pnpm update-products` を実行すると、起動時に記事へ反映されます。処理済みファイルは `reports/ai-matches/processed/`、要確認は `reports/ai-matches/review/`、失敗は `reports/ai-matches/failed/` に移動します。
 
 ---
 
@@ -158,14 +209,16 @@ OGP 画像（`public/og/articles/<slug>.png`）が新規生成されることも
 ### ドメイン
 
 - リポジトリ: `yu0416ryfu-sys/kura-select`
-- 公開 URL（github.io 既定）: `https://yu0416ryfu-sys.github.io/kura-select`
+- 公開 URL: `https://www.kura-select.com`
 - カスタムドメイン: `CNAME` に `www.kura-select.com` を設定済み
 
-> **注意**: `astro.config.mjs` は現状 `site: https://yu0416ryfu-sys.github.io` / `base: /kura-select` のままです。カスタムドメインに切替時は `base` を削除し `site` を `https://www.kura-select.com` に変更してください（[`CLAUDE.md` §6 / §14](./CLAUDE.md) 参照）。
+`astro.config.mjs` は `site: https://www.kura-select.com`、`base` なしで運用しています。
 
 ### 商品データ自動更新（cron）
 
 `.github/workflows/update-products.yml` が **毎週月曜 03:00 UTC（日本時間 12:00）** に走り、楽天 API から最新の価格・レビューを取得 → `src/content/articles/` を bot コミット → デプロイをトリガーします。
+
+通常更新の既定は `--concurrency=2 --api-interval=1000` 相当です。
 
 必要な GitHub Secrets:
 
@@ -232,8 +285,8 @@ KuraSelect/
 ├ scripts/                    # generate-ogp.mjs / update-products.mjs
 ├ src/
 │  ├ content.config.ts        # Zod スキーマ
-│  ├ content/articles/        # 記事 .md / .mdx（34 本）
-│  ├ content/categories/      # カテゴリ .md（26 件）
+│  ├ content/articles/        # 記事 .md / .mdx（53 本）
+│  ├ content/categories/      # カテゴリ .md（43 件）
 │  ├ layouts/                 # BaseLayout / ArticleLayout
 │  ├ components/{layout,product,seo}/
 │  ├ pages/                   # ルーティング
