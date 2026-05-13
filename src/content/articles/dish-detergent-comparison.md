@@ -56,7 +56,7 @@ products:
     capacity: "1250mL×6本"
     pricePerUnit: "約0.67円/mL"
     rating: 4.74
-    reviewCount: 499
+    reviewCount: 500
     features:
       - "花王独自の界面活性剤で油汚れをすっきり落とす"
       - "詰め替え大容量でコスパ優秀"
@@ -253,8 +253,8 @@ products:
     price: 1320
     capacity: "350g"
     pricePerUnit: "約3.8円/g"
-    rating: 4.51
-    reviewCount: 59
+    rating: 4.52
+    reviewCount: 60
     features:
       - "業務用としても使いやすい固形食器用洗剤"
       - "無リン・無香料タイプ"

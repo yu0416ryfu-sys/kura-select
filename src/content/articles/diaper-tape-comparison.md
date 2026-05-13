@@ -6,6 +6,28 @@ publishedAt: "2026-05-05"
 updatedAt: 2026-05-13
 products:
   - rank: 1
+    name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚"
+    brand: "花王（メリーズ）"
+    price: 2930
+    capacity: "124枚+8枚（132枚）"
+    pricePerUnit: "約22円/枚"
+    rating: 4
+    reviewCount: 5
+    features:
+      - "全面通気性に優れたエアスルー素材採用"
+      - "132枚大容量で1枚あたりコストが安い"
+      - "Sサイズ4〜8kg対応"
+    pros:
+      - "通気性に優れており蒸れにくく肌さらさらをキープ"
+      - "132枚の大容量でコストパフォーマンスが高い"
+      - "花王の定番人気ブランドで安心の品質"
+    cons:
+      - "通気性重視のため長時間は漏れリスクが上がる場合も"
+      - "プレミアムラインと比べると肌触りはシンプル"
+    recommendedFor: "蒸れやおむつかぶれが気になる方・コスパ重視でまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6xln.3rdw632a.g00u6xln.3rdw7ef6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjandcbaby%2Fkao-ts88%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjandcbaby%2Fi%2F10000078%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jandcbaby/cabinet/08963043/imgrc0111965819.jpg?_ex=128x128"
+  - rank: 2
     name: "ムーニー マシュマロ肌ごこち テープ Sサイズ"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1800
@@ -27,7 +49,7 @@ products:
     recommendedFor: "肌触りを重視したい方・ムーニーブランドを愛用している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00utr6n.3rdw61a0.g00utr6n.3rdw7bd8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonoria%2Fehxt8d51r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmonoria%2Fi%2F10001107%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/monoria/cabinet/2026_4/ehxt8d51r.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 3
     name: "ムーニーナチュラル テープ 新生児サイズ"
     brand: "ユニ・チャーム（ムーニー）"
     price: 6680
@@ -49,7 +71,7 @@ products:
     recommendedFor: "新生児期にまとめ買いでコストを抑えたい方・ナチュラル素材を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00st9kn.3rdw6336.g00st9kn.3rdw7d77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoiree-hanaoka%2F4903111143429_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoiree-hanaoka%2Fi%2F10003127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/soiree-hanaoka/cabinet/g/09552678/imgrc0111461149.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "パンパース テープ Sサイズ 74枚×4袋"
     brand: "P&G（パンパース）"
     price: 8680
@@ -71,7 +93,7 @@ products:
     recommendedFor: "産院でパンパースを使っていた方・世界基準の品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7252901%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10193037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tasya108/imgrc0116993733.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "メリーズ エアスルー テープ Mサイズ"
     brand: "花王（メリーズ）"
     price: 1680
@@ -93,28 +115,6 @@ products:
     recommendedFor: "通気性と肌触りを重視したい方・Mサイズでメリーズを試してみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4901301437716%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F14683768%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/10072/00000012749433_a01.jpg?_ex=128x128"
-  - rank: 5
-    name: "ワケあり　旧パッケージ [テープ]メリーズ ずっと肌さらエアスルー Sサイズ"
-    brand: "花王（メリーズ）"
-    price: 4250
-    capacity: "124枚"
-    pricePerUnit: "約34円/枚"
-    rating: 4
-    reviewCount: 5
-    features:
-      - "全面通気性に優れたエアスルー素材採用"
-      - "132枚大容量で1枚あたりコストが安い"
-      - "Sサイズ4〜8kg対応"
-    pros:
-      - "通気性に優れており蒸れにくく肌さらさらをキープ"
-      - "132枚の大容量でコストパフォーマンスが高い"
-      - "花王の定番人気ブランドで安心の品質"
-    cons:
-      - "通気性重視のため長時間は漏れリスクが上がる場合も"
-      - "プレミアムラインと比べると肌触りはシンプル"
-    recommendedFor: "蒸れやおむつかぶれが気になる方・コスパ重視でまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6xln.3rdw632a.g00u6xln.3rdw7ef6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjandcbaby%2Fkao-ts88%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjandcbaby%2Fi%2F10000078%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jandcbaby/cabinet/08963043/imgrc0111965819.jpg?_ex=128x128"
   - rank: 6
     name: "グーンプラス テープ BIGサイズ"
     brand: "大王製紙（グーンプラス）"

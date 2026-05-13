@@ -78,7 +78,7 @@ products:
     capacity: "100mL（約700回分）"
     pricePerUnit: "約21円/mL"
     rating: 4.76
-    reviewCount: 536
+    reviewCount: 537
     features:
       - "歯科医院で推奨される薬用マウスウォッシュ"
       - "グルコン酸クロルヘキシジン配合で高い殺菌力"

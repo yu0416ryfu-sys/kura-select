@@ -28,6 +28,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2Fe242_999tekuchi15p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10001752%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00975-1.jpg?_ex=128x128"
   - rank: 2
+    name: "シルコット ピュアウォーター ウェットティッシュ 詰替 58枚×8個"
+    brand: "ユニ・チャーム（シルコット）"
+    price: 1160
+    capacity: "58枚×8個（464枚）"
+    pricePerUnit: "約2.5円/枚"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "ノンアルコール・無香料で敏感肌にやさしい"
+      - "99.99%除菌（ノンアルコールでも高い除菌力）"
+      - "なめらかな肌触りで手肌・顔にも使える"
+    pros:
+      - "ノンアルコールで赤ちゃんにも安心"
+      - "肌触りが良く手や顔の拭き取りにも"
+      - "パラベン・香料フリーの低刺激設計"
+    cons:
+      - "1枚あたり約3.8円とやや高め"
+      - "アルコールタイプと比べると除菌力はやや控えめ"
+    recommendedFor: "赤ちゃんのいる家庭・敏感肌の方・手肌に使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00px5en.3rdw6083.g00px5en.3rdw70cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzaccaya-r%2F4903111459049%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzaccaya-r%2Fi%2F10054177%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/zaccaya-r/cabinet/231207/4903111459049.jpg?_ex=128x128"
+  - rank: 3
     name: "アイリスオーヤマ 除菌ウェットティッシュ 60枚×48個"
     brand: "アイリスオーヤマ"
     price: 7480
@@ -49,28 +71,6 @@ products:
     recommendedFor: "最安値を求める方・大量消費する家庭・除菌メインで使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3ztn.3rdw6b30.g00t3ztn.3rdw7dc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F1920418%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10156833%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/11073544/12250154/imgrc0110739750.jpg?_ex=128x128"
-  - rank: 3
-    name: "ユニチャーム シルコット ピュアウォーターウェットティッシュ 詰替 【"
-    brand: "ユニ・チャーム（シルコット）"
-    price: 1279
-    capacity: "58枚×8個"
-    pricePerUnit: "約2.8円/枚"
-    rating: 4.74
-    reviewCount: 222
-    features:
-      - "ノンアルコール・無香料で敏感肌にやさしい"
-      - "99.99%除菌（ノンアルコールでも高い除菌力）"
-      - "なめらかな肌触りで手肌・顔にも使える"
-    pros:
-      - "ノンアルコールで赤ちゃんにも安心"
-      - "肌触りが良く手や顔の拭き取りにも"
-      - "パラベン・香料フリーの低刺激設計"
-    cons:
-      - "1枚あたり約3.8円とやや高め"
-      - "アルコールタイプと比べると除菌力はやや控えめ"
-    recommendedFor: "赤ちゃんのいる家庭・敏感肌の方・手肌に使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uov8n.3rdw6d00.g00uov8n.3rdw7627/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fayumi-shop%2Fb0cm8z1vgs%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fayumi-shop%2Fi%2F10000374%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ayumi-shop/cabinet/variation1/b0cm8z1vgs_1.jpg?_ex=128x128"
   - rank: 4
     name: "エリエール 除菌できるアルコールタオル ウイルス除去用 詰め替え 70枚×3個"
     brand: "大王製紙（エリエール）"

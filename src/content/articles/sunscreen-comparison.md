@@ -250,11 +250,11 @@ products:
   - rank: 12
     name: "ラロッシュポゼ UVイデアXL ティント セット"
     brand: "ラロッシュポゼ"
-    price: 0
+    price: 3960
     capacity: "1個"
     pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
+    rating: 4.54
+    reviewCount: 2735
     features:
       - "UVケアに使える日焼け止め・化粧下地"
       - "顔用や子ども向けも選べる"
@@ -267,8 +267,8 @@ products:
       - "色味や使用感の好みは分かれる"
       - "肌に合うか確認が必要"
     recommendedFor: "日焼け止めを使用感と用途で比較したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/pycno/rarossyu33/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi2mn.3rdw6aae.g00qi2mn.3rdw7998/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpycno%2Frarossyu33%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpycno%2Fi%2F10000734%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pycno/cabinet/lrp/rarossyu33_hqs2.jpg?_ex=128x128"
   - rank: 13
     name: "ラロッシュポゼ UVイデアXL ティント"
     brand: "ラロッシュポゼ"

@@ -122,7 +122,7 @@ products:
     capacity: "1000g"
     pricePerUnit: "約6.4円/g"
     rating: 4.7
-    reviewCount: 638
+    reviewCount: 639
     features:
       - "スーツ・コート・ダウン・ニット・カシミアが洗えるドライ洗剤"
       - "無香料処方で素材本来の風合いを守る"
@@ -291,7 +291,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ulujn.3rdw68ec.g00ulujn.3rdw7a89/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flgo-2023%2F3931-000027%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flgo-2023%2Fi%2F10000021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lgo-2023/cabinet/imgrc0109870964.jpg?_ex=128x128"
   - rank: 14
-    name: "＼レビュー投稿で500円クーポンGET！／【選べる4タイプ】ボールド 洗濯洗剤 "
+    name: "ボールド ジェルボール 4in1 詰替 メガジャンボ 2袋"
     brand: "P&G（ボールド）"
     price: 4480
     capacity: "2袋"

@@ -6,13 +6,13 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-13
 products:
   - rank: 1
-    name: "業務用 ペーパータオル 中判 200枚×30パック"
+    name: "ペーパータオル エコタイプ 中判 200枚×30袋"
     brand: "業務用（各社OEM）"
-    price: 5995
-    capacity: "200枚×30パック（6000枚）"
-    pricePerUnit: "約1.00円/枚"
-    rating: 4.88
-    reviewCount: 721
+    price: 3875
+    capacity: "200枚×30袋（6000枚）"
+    pricePerUnit: "約0.65円/枚"
+    rating: 4.61
+    reviewCount: 305
     features:
       - "1枚あたり約0.66円の圧倒的コスパ"
       - "業務用の安定した品質"
@@ -25,8 +25,8 @@ products:
       - "吸水力はロールタイプに劣る"
       - "大量のため保管スペースが必要"
     recommendedFor: "徹底的にコストを抑えたい方・手拭き用がメインの方・大家族"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tszqn.3rdw6853.g00tszqn.3rdw7518/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpro-ste%2F9001183692%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpro-ste%2Fi%2F10009093%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pro-ste/cabinet/item-003/9001183692-01.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F1228689%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/1228689_001-2.jpg?_ex=128x128"
   - rank: 2
     name: "エリエール 超吸収キッチンタオル 70カット×4ロール×4パック"
     brand: "大王製紙（エリエール）"

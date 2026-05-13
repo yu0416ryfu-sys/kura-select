@@ -94,11 +94,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00up3bn.3rdw60f2.g00up3bn.3rdw7ff6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyksakai%2Frm5gaghcckomnptjv3ixcugo64%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyksakai%2Fi%2F10470645%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yksakai/cabinet/12902079/39758845_1.jpg?_ex=128x128"
   - rank: 5
-    name: "ハミングファイン 柔軟剤 リフレッシュグリーンの香り 詰替用"
+    name: "ハミングファイン リフレッシュグリーン 詰替用 480mL"
     brand: "花王（ハミングファイン）"
-    price: 1583
+    price: 1638
     capacity: "480mL"
-    pricePerUnit: "約3.3円/mL"
+    pricePerUnit: "約3.4円/mL"
     rating: 4.5
     reviewCount: 2
     features:
@@ -113,8 +113,8 @@ products:
       - "香りの持続時間はレノアに劣る"
       - "香りのバリエーションが少ない"
     recommendedFor: "コスト最優先の方・静電気が気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uo14n.3rdw68f0.g00uo14n.3rdw7116/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanamaru-shouten%2F20251007151525_105%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanamaru-shouten%2Fi%2F10043743%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanamaru-shouten/cabinet/r_2025042840/20251007151525_105_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00up7wn.3rdw6989.g00up7wn.3rdw7434/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finokoya%2Fwg364gw6e5xopdxomjxibtlnc4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finokoya%2Fi%2F10036202%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inokoya/cabinet/11497814/21481051_3.jpg?_ex=128x128"
   - rank: 6
     name: "【シリーズ累計50万本突破】ランドリーボトル 洗濯ボトル 洗剤ボトル ［セット "
     brand: "P&G（さらさ）"

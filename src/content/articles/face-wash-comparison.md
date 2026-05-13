@@ -94,13 +94,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b01n0bsytw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000261%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/event/20260509god/905b01n0bsytw-39.jpg?_ex=128x128"
   - rank: 5
-    name: "どろばーゆ 泡洗顔 120g"
+    name: "どろばーゆ あわ洗顔 120g"
     brand: "ナチュボーテ"
-    price: 1380
+    price: 1420
     capacity: "120g"
     pricePerUnit: "約12円/g"
-    rating: 4.58
-    reviewCount: 1555
+    rating: 4.31
+    reviewCount: 1944
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -113,8 +113,8 @@ products:
       - "使用感や香りの好みを確認したい"
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "肌質や洗い上がりで選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r97bn.3rdw60e8.g00r97bn.3rdw72a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-cueb%2Fawasoapa-2set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-cueb%2Fi%2F10005406%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-cueb/cabinet/03069387/natubeaute/claywash/acdoro2_sn.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rxkjn.3rdw66be.g00rxkjn.3rdw76b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmeplatinum%2Fawasoap%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmeplatinum%2Fi%2F10000425%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmeplatinum/cabinet/awasoap/awasoap_new2.jpg?_ex=128x128"
   - rank: 6
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
     brand: "ユニリーバ（ダヴ）"
@@ -254,7 +254,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約33円/g"
     rating: 4.47
-    reviewCount: 2617
+    reviewCount: 2619
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"

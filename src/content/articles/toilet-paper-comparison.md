@@ -160,13 +160,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quq9n.3rdw60c1.g00quq9n.3rdw73f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-hachidai%2F888779%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-hachidai%2Fi%2F10539450%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-hachidai/cabinet/1/gazou4/imgrc0095878725.jpg?_ex=128x128"
   - rank: 8
-    name: "【1点限り！令和お試し価格】丸富製紙 ミッフィー トイレットペーパー ダブル 1"
+    name: "丸富製紙 ミッフィー トイレットペーパー ダブル 12ロール"
     brand: "無地・無印刷（エコ仕様）"
-    price: 580
+    price: 594
     capacity: "12ロール"
-    pricePerUnit: "約48円/ロール"
-    rating: 4.71
-    reviewCount: 7
+    pricePerUnit: "約50円/ロール"
+    rating: 5
+    reviewCount: 1
     features:
       - "100%再生紙使用"
       - "無地・無印刷でシンプル"
@@ -180,8 +180,8 @@ products:
       - "バージンパルプ製品と比べると若干厚みが劣る場合も"
       - "大容量のため保管スペースが必要"
     recommendedFor: "環境を意識しつつコスパも重視したい方・まとめ買い派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902727015670-today202411%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12619846%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2024w/4902727015670.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sargn.3rdw6a7b.g00sargn.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyrepi-2%2F4902727015670ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmyrepi-2%2Fi%2F10240208%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/myrepi-2/cabinet/2024w/4902727015670.jpg?_ex=128x128"
 tags:
   - "トイレットペーパー"
   - "コスパ"

@@ -99,13 +99,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F580764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11272901%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/764/580764.jpg?_ex=128x128"
   - rank: 5
-    name: "ファブリーズ W除菌+消臭スプレー 衣類・布製品用 香りが残らない 詰め替え 4回分(1280ml×2セット)"
+    name: "ファブリーズ W除菌+消臭 詰め替え 1280mL×2セット"
     brand: "ファブリーズ(febreze) / P&G"
     price: 3132
-    capacity: "1280ml×2セット（合計2560ml、4回分×2）"
-    pricePerUnit: "約1.2円/ml"
-    rating: 0
-    reviewCount: 0
+    capacity: "1280mL×2セット（2560mL）"
+    pricePerUnit: "約1.2円/mL"
+    rating: 4.45
+    reviewCount: 20
     features:
       - "48時間爽やか続く消臭効果"
       - "W除菌+消臭で衣類・布製品にスプレーするだけ"
@@ -130,7 +130,7 @@ products:
     capacity: "2L"
     pricePerUnit: "約1397円/L"
     rating: 4.6
-    reviewCount: 16467
+    reviewCount: 16468
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -263,7 +263,7 @@ products:
     capacity: "55g"
     pricePerUnit: "約54円/g"
     rating: 4.32
-    reviewCount: 6021
+    reviewCount: 6022
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"

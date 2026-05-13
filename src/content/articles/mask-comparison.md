@@ -6,6 +6,28 @@ publishedAt: "2026-05-03"
 updatedAt: 2026-05-13
 products:
   - rank: 1
+    name: "立体不織布マスク 50枚"
+    brand: "ashop"
+    price: 264
+    capacity: "50枚"
+    pricePerUnit: "約5.3円/枚"
+    rating: 4.19
+    reviewCount: 22016
+    features:
+      - "使い捨て不織布マスク"
+      - "日常使いしやすい枚数"
+      - "サイズや形状で選びやすい"
+    pros:
+      - "まとめ買いしやすい"
+      - "家族用に備えやすい"
+      - "通勤・通学に使いやすい"
+    cons:
+      - "顔のサイズに合うか確認が必要"
+      - "色や形状の好みは分かれる"
+    recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rgdwn.3rdw6bcc.g00rgdwn.3rdw740b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fweiwei%2Fbwm8yp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fweiwei%2Fi%2F10022881%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/weiwei/cabinet/shouhin-image03/bwm8r.jpg?_ex=128x128"
+  - rank: 2
     name: "WEIMALL 子供用立体マスク"
     brand: "WEIMALL"
     price: 298
@@ -27,7 +49,51 @@ products:
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rgdwn.3rdw6bcc.g00rgdwn.3rdw740b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fweiwei%2Fbwm2yp50%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fweiwei%2Fi%2F10022826%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/weiwei/cabinet/shouhin-image03/bwm2yp50.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 3
+    name: "子供用 3D不織布マスク 51枚"
+    brand: "MTKSHOP"
+    price: 398
+    capacity: "51枚"
+    pricePerUnit: "約7.8円/枚"
+    rating: 4.22
+    reviewCount: 5735
+    features:
+      - "使い捨て不織布マスク"
+      - "日常使いしやすい枚数"
+      - "サイズや形状で選びやすい"
+    pros:
+      - "まとめ買いしやすい"
+      - "家族用に備えやすい"
+      - "通勤・通学に使いやすい"
+    cons:
+      - "顔のサイズに合うか確認が必要"
+      - "色や形状の好みは分かれる"
+    recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sa33n.3rdw66a9.g00sa33n.3rdw7255/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcicib%2Fmskbhxh50%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcicib%2Fi%2F10002044%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cicib/cabinet/08727032/top3-.jpg?_ex=128x128"
+  - rank: 4
+    name: "不織布カラーマスク 50枚"
+    brand: "ashop"
+    price: 450
+    capacity: "50枚"
+    pricePerUnit: "約9.0円/枚"
+    rating: 4.19
+    reviewCount: 2338
+    features:
+      - "使い捨て不織布マスク"
+      - "日常使いしやすい枚数"
+      - "サイズや形状で選びやすい"
+    pros:
+      - "まとめ買いしやすい"
+      - "家族用に備えやすい"
+      - "通勤・通学に使いやすい"
+    cons:
+      - "顔のサイズに合うか確認が必要"
+      - "色や形状の好みは分かれる"
+    recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tmjzn.3rdw6ae9.g00tmjzn.3rdw7078/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclassort%2Fbwm1yp50%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclassort%2Fi%2F10000150%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/classort/cabinet/shouhin-image/bwm1yp50.jpg?_ex=128x128"
+  - rank: 5
     name: "接触冷感 3D不織布マスク"
     brand: "alice-zk"
     price: 274
@@ -49,7 +115,7 @@ products:
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5hnn.3rdw6544.g00s5hnn.3rdw7f71/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falice-zk%2Fny263%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falice-zk%2Fi%2F10002994%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/alice-zk/cabinet/ny04/ny263n69.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 6
     name: "改良版 不織布プリーツマスク"
     brand: "SHINKO"
     price: 1780
@@ -71,7 +137,7 @@ products:
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00thrzn.3rdw684a.g00thrzn.3rdw7f74/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshinko9868%2Fmasks-daer-200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshinko9868%2Fi%2F10000187%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shinko9868/cabinet/07694242/09376804/imgrc0086038883.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 7
     name: "ST快適立体マスク"
     brand: "ST-TRADE"
     price: 2480
@@ -93,7 +159,7 @@ products:
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvon.3rdw65e4.g00qwvon.3rdw7875/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flife-life%2Fmask120kf%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flife-life%2Fi%2F10006321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/life-life/cabinet/mask/mask120kf06.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 8
     name: "【50枚入×2箱セット】大王製紙 大王製紙 エリエール サー"
     brand: "大王製紙（エリエール）"
     price: 2600
@@ -115,7 +181,7 @@ products:
     recommendedFor: "ウイルス・花粉対策を重視する方・高機能マスクを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00trvxn.3rdw692d.g00trvxn.3rdw77c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frunnrunn-shop%2Fdaiomask-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frunnrunn-shop%2Fi%2F10000121%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/runnrunn-shop/cabinet/10802269/imgrc0107306132.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 9
     name: "ユニ・チャーム 超快適マスク プリーツタイプ ふつうサイズ 50枚入"
     brand: "ユニ・チャーム"
     price: 2260
@@ -137,7 +203,7 @@ products:
     recommendedFor: "肌へのやさしさと着用感を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugwon.3rdw61af.g00ugwon.3rdw786a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fechi-zen-r%2Fcho-kaiteki-mask-m-50-1pc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fechi-zen-r%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/echi-zen-r/cabinet/biiino/item/main-image/20240213101506_1.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 10
     name: "【1点限り！令和お試し価格】アイリスオーヤマ ナノエアーマスク"
     brand: "アイリスオーヤマ"
     price: 320
@@ -159,7 +225,7 @@ products:
     recommendedFor: "コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4967576481694-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12363072%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2021b/4967576481694.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 11
     name: "子供用不織布マスク 153枚セット"
     brand: "MTKSHOP"
     price: 0
@@ -181,7 +247,7 @@ products:
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://item.rakuten.co.jp/mtkshop/145-cms50-2/"
     imageUrl: ""
-  - rank: 9
+  - rank: 12
     name: "不織布プリーツマスク 大容量セット"
     brand: "SHINKO"
     price: 0
@@ -203,29 +269,7 @@ products:
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://item.rakuten.co.jp/shinko9868/masks-daerduo2-200/"
     imageUrl: ""
-  - rank: 10
-    name: "子供用不織布マスク 51枚"
-    brand: "MTKSHOP"
-    price: 0
-    capacity: "51枚"
-    pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "使い捨て不織布マスク"
-      - "日常使いしやすい枚数"
-      - "サイズや形状で選びやすい"
-    pros:
-      - "まとめ買いしやすい"
-      - "家族用に備えやすい"
-      - "通勤・通学に使いやすい"
-    cons:
-      - "顔のサイズに合うか確認が必要"
-      - "色や形状の好みは分かれる"
-    recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/mtkshop/145-cms50/"
-    imageUrl: ""
-  - rank: 11
+  - rank: 13
     name: "立体バイカラーマスク"
     brand: "ashop"
     price: 0
@@ -247,7 +291,7 @@ products:
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://item.rakuten.co.jp/ashop/ny439/"
     imageUrl: ""
-  - rank: 12
+  - rank: 14
     name: "大容量3D不織布マスク"
     brand: "alice-zk"
     price: 0
@@ -268,50 +312,6 @@ products:
       - "色や形状の好みは分かれる"
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://item.rakuten.co.jp/alice-zk/ny473/"
-    imageUrl: ""
-  - rank: 13
-    name: "立体不織布マスク 50枚"
-    brand: "ashop"
-    price: 0
-    capacity: "50枚"
-    pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "使い捨て不織布マスク"
-      - "日常使いしやすい枚数"
-      - "サイズや形状で選びやすい"
-    pros:
-      - "まとめ買いしやすい"
-      - "家族用に備えやすい"
-      - "通勤・通学に使いやすい"
-    cons:
-      - "顔のサイズに合うか確認が必要"
-      - "色や形状の好みは分かれる"
-    recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/ashop/ny331-50/"
-    imageUrl: ""
-  - rank: 14
-    name: "不織布カラーマスク 50枚"
-    brand: "ashop"
-    price: 0
-    capacity: "50枚"
-    pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "使い捨て不織布マスク"
-      - "日常使いしやすい枚数"
-      - "サイズや形状で選びやすい"
-    pros:
-      - "まとめ買いしやすい"
-      - "家族用に備えやすい"
-      - "通勤・通学に使いやすい"
-    cons:
-      - "顔のサイズに合うか確認が必要"
-      - "色や形状の好みは分かれる"
-    recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/ashop/ny393-50/"
     imageUrl: ""
 tags:
   - "使い捨てマスク おすすめ"

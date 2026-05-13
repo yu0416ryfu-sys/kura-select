@@ -72,6 +72,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/paste_ok_08.jpg?_ex=128x128"
   - rank: 4
+    name: "キラルン 2点ミニセット パウダー5g+15g（20g） ペースト15g"
+    brand: "RUKEN"
+    price: 328
+    capacity: "5g+15g（20g）"
+    pricePerUnit: "約16.4円/g"
+    rating: 4.19
+    reviewCount: 4718
+    features:
+      - "毎日の歯みがきに使える歯磨き粉"
+      - "ホワイトニングや口臭ケア系も選べる"
+      - "容量で比較しやすい"
+    pros:
+      - "日常ケアに取り入れやすい"
+      - "目的別に選べる"
+      - "ストックしやすい"
+    cons:
+      - "成分や使用感の好みは分かれる"
+      - "医薬部外品表記の確認が必要"
+    recommendedFor: "歯磨き粉を目的と容量で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothsmple%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/toothpsnew.jpg?_ex=128x128"
+  - rank: 5
     name: "キラルンパウダー"
     brand: "RUKEN"
     price: 1000
@@ -93,7 +115,7 @@ products:
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothmini%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000114%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/05964132/item00kirarunpwd.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "WHITH WHITE 薬用歯磨き"
     brand: "WHITH WHITE"
     price: 2580
@@ -115,7 +137,7 @@ products:
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b07qzwqjrm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260509m/906b07qzwqjrm-50.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "アパガードリナメル"
     brand: "アパガード"
     price: 2870
@@ -137,7 +159,7 @@ products:
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F84449%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10005817%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0509_p502/kirikae2/04645_1.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 8
     name: "薬用しろえ 歯磨きジェル"
     brand: "しろえ"
     price: 2200
@@ -159,7 +181,7 @@ products:
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rx8qn.3rdw6a27.g00rx8qn.3rdw73bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshizenshop%2Fshiroewhitening%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshizenshop%2Fi%2F10000095%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shizenshop/cabinet/04836660/thumbnail_2.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "歯ブラシ まとめ買い 大人 おとな用歯ブラシアソート"
     brand: "サンギ（アパガード）"
     price: 1480
@@ -181,7 +203,7 @@ products:
     recommendedFor: "ホワイトニング・着色汚れを落としたい方・歯の白さにこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F36667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10004851%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0509_p502/kirikae1/36667.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "しろえ ホワイトニングパウダー"
     brand: "しろえ"
     price: 1798
@@ -203,7 +225,7 @@ products:
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rx8qn.3rdw6a27.g00rx8qn.3rdw73bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshizenshop%2Fwhitening-powder%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshizenshop%2Fi%2F10000299%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shizenshop/cabinet/whitening-powder/thumbnail4.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 11
     name: "ちゅらトゥースホワイトニング"
     brand: "ちゅらトゥース"
     price: 3975
@@ -225,7 +247,7 @@ products:
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tey3n.3rdw69dd.g00tey3n.3rdw7949/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchuracos%2Fr_churatooth-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchuracos%2Fi%2F10000010%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/churacos/cabinet/churatooth_pc/churat_thumbnail_01.jpg?_ex=128x128"
-  - rank: 11
+  - rank: 12
     name: "シュミテクト プロエナメル 90g×3本セット"
     brand: "グラクソ・スミスクライン（シュミテクト）"
     price: 5130
@@ -247,28 +269,6 @@ products:
     recommendedFor: "冷たいもの・熱いものがしみる方・酸蝕歯が気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tth2n.3rdw67a0.g00tth2n.3rdw76f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F14promo%2F20240423-1300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F14promo%2Fi%2F10027463%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/14promo/cabinet/imgrc0114569557.jpg?_ex=128x128"
-  - rank: 12
-    name: "キラルン ミニセット"
-    brand: "RUKEN"
-    price: 0
-    capacity: "5g+15g"
-    pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "毎日の歯みがきに使える歯磨き粉"
-      - "ホワイトニングや口臭ケア系も選べる"
-      - "容量で比較しやすい"
-    pros:
-      - "日常ケアに取り入れやすい"
-      - "目的別に選べる"
-      - "ストックしやすい"
-    cons:
-      - "成分や使用感の好みは分かれる"
-      - "医薬部外品表記の確認が必要"
-    recommendedFor: "歯磨き粉を目的と容量で比較したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/ru-collagen/toothsmple/"
-    imageUrl: ""
   - rank: 13
     name: "OraLuLu 薬用ホワイトニング歯磨き粉"
     brand: "OraLuLu"

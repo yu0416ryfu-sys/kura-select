@@ -297,8 +297,8 @@ products:
     price: 946
     capacity: "-"
     pricePerUnit: "-"
-    rating: 4.27
-    reviewCount: 52
+    rating: 4.28
+    reviewCount: 53
     features:
       - "季節限定のサクラとバニラの香り"
       - "保湿や乾燥肌ケアを意識したボディウォッシュ"

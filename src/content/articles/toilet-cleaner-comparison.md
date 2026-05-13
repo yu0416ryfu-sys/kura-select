@@ -182,10 +182,10 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qkrpn.3rdw6a84.g00qkrpn.3rdw7c55/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkimurasoap%2Fnozuru%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkimurasoap%2Fi%2F10000007%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kimurasoap/cabinet/toilet/nozuru_thumb.jpg?_ex=128x128"
   - rank: 9
-    name: "スクラビングバブル 超強力トイレクリーナー【スクラビングバブル】[トイレ洗剤 ト"
+    name: "スクラビングバブル 超強力トイレクリーナー 400g"
     brand: "ジョンソン（スクラビングバブル）"
     price: 441
-    capacity: "（400g）"
+    capacity: "400g"
     pricePerUnit: "約1.1円/g"
     rating: 4.65
     reviewCount: 344

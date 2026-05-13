@@ -232,7 +232,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約14円/枚"
     rating: 4.71
-    reviewCount: 1238
+    reviewCount: 1240
     features:
       - "ニトリル素材で油・薬品にも強い高い耐久性"
       - "手にフィットして細かい作業もしやすい"
@@ -270,11 +270,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz97n.3rdw61ff.g00tz97n.3rdw7e95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrinity-cosme%2Fsan350532x1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrinity-cosme%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/trinity-cosme/cabinet/09165139/09165140/imgrc0106437735.jpg?_ex=128x128"
   - rank: 13
-    name: "ファミリー ビニール 使いきり手袋 うす手 100枚入"
+    name: "ファミリー 使いきり手袋 ビニール 極うす手 100枚"
     brand: "エステー（ファミリー）"
-    price: 24576
+    price: 1665
     capacity: "100枚"
-    pricePerUnit: "約246円/枚"
+    pricePerUnit: "約17円/枚"
     rating: 4.2
     reviewCount: 100
     features:
@@ -289,8 +289,8 @@ products:
       - "100枚入りのみで大容量パックがない"
       - "業務用と比べるとコスパは劣る"
     recommendedFor: "市販品で手軽に買いたい方・品質重視の方・少量使いの方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4o6n.3rdw655e.g00s4o6n.3rdw773a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2Fha-4901070760435_10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F10945098%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ulmaxjapan2/cabinet/zg135/4901070760435.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uoa7n.3rdw6ad2.g00uoa7n.3rdw7444/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feiseidou-store%2Fys01jfxq2ko%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feiseidou-store%2Fi%2F10053337%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eiseidou-store/cabinet/gazou1pic/systempic047/ys01jfxq2ko1.jpg?_ex=128x128"
   - rank: 14
     name: "エステー モデルローブ No.1200 フードタッチグローブ"
     brand: "エステー"

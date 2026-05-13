@@ -138,6 +138,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qefin.3rdw6426.g00qefin.3rdw77ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewlinge%2Fts-s-l3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewlinge%2Fi%2F10004003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jewlinge/cabinet/01067786/11748914/11848138/liner_kanban_202602.jpg?_ex=128x128"
   - rank: 7
+    name: "JEWLINGE オーガニックおりものライナー 1枚"
+    brand: "JEWLINGE"
+    price: 999
+    capacity: "1枚"
+    pricePerUnit: "約999円/枚"
+    rating: 4.61
+    reviewCount: 6025
+    features:
+      - "布ナプキンやライナーとして使える"
+      - "肌面素材やサイズで選びやすい"
+      - "洗って繰り返し使えるタイプ"
+    pros:
+      - "使い捨て以外の選択肢になる"
+      - "サイズ展開を選びやすい"
+      - "温活用途にも合わせやすい"
+    cons:
+      - "洗濯・管理の手間がある"
+      - "吸収量やサイズ確認が必要"
+    recommendedFor: "布ナプキンやライナーを比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qefin.3rdw6426.g00qefin.3rdw77ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewlinge%2Fts-s-l3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewlinge%2Fi%2F10004003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jewlinge/cabinet/01067786/11748914/11848138/liner_kanban_202602.jpg?_ex=128x128"
+  - rank: 8
     name: "JEWLINGE 布ナプキン お試し一体型"
     brand: "JEWLINGE"
     price: 1100
@@ -159,7 +181,7 @@ products:
     recommendedFor: "布ナプキンやライナーを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qefin.3rdw6426.g00qefin.3rdw77ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewlinge%2Fsuper-onecoin%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewlinge%2Fi%2F10004332%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jewlinge/cabinet/01067786/07436588/merged/imgrc0134635601.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "メイドインアース リトル布ナプキン"
     brand: "メイドインアース"
     price: 2310
@@ -181,7 +203,7 @@ products:
     recommendedFor: "布ナプキンやライナーを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pitwn.3rdw6d1d.g00pitwn.3rdw73f3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fearth%2Fx-nnlt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fearth%2Fi%2F10001815%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/earth/cabinet/sanitary/3/set-nnlt.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "JEWLINGE おりものライナープラス"
     brand: "JEWLINGE"
     price: 1250
@@ -203,7 +225,7 @@ products:
     recommendedFor: "布ナプキンやライナーを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qefin.3rdw6426.g00qefin.3rdw77ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewlinge%2Forimono-plus-2009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewlinge%2Fi%2F10002473%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jewlinge/cabinet/01067786/04124167/imgrc0123997213.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 11
     name: "ソフィ はだおもい 極うすスリム 多い昼〜ふつうの日用 21cm 羽なし【ソフィ"
     brand: "ユニ・チャーム（ソフィ）"
     price: 416
@@ -225,28 +247,6 @@ products:
     recommendedFor: "コスパ重視の方・普通の日のデイリー使いに最適な方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qkwxn.3rdw6942.g00qkwxn.3rdw7551/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-tsuhan%2F4903111361922%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-tsuhan%2Fi%2F10047327%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-tsuhan/cabinet/thu0094865105.jpg?_ex=128x128"
-  - rank: 11
-    name: "JEWLINGE オーガニックおりものライナー お試し"
-    brand: "JEWLINGE"
-    price: 0
-    capacity: "1枚"
-    pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "布ナプキンやライナーとして使える"
-      - "肌面素材やサイズで選びやすい"
-      - "洗って繰り返し使えるタイプ"
-    pros:
-      - "使い捨て以外の選択肢になる"
-      - "サイズ展開を選びやすい"
-      - "温活用途にも合わせやすい"
-    cons:
-      - "洗濯・管理の手間がある"
-      - "吸収量やサイズ確認が必要"
-    recommendedFor: "布ナプキンやライナーを比較したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/jewlinge/ts-444-l-k/"
-    imageUrl: ""
   - rank: 12
     name: "Sunny Days 布ライナー お試し"
     brand: "Sunny Days"

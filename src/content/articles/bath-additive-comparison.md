@@ -116,138 +116,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00szo9n.3rdw677a.g00szo9n.3rdw7c42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuisosum-shop%2Fhakusui%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuisosum-shop%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suisosum-shop/cabinet/h_/pc_01/750g/hakusui_sa_62.jpg?_ex=128x128"
   - rank: 6
-    name: "木酢液 紀州備長炭 原液"
-    brand: "紀州びお和歌山"
-    price: 1400
-    capacity: "500ml"
-    pricePerUnit: "約2.8円/ml"
-    rating: 4.21
-    reviewCount: 6080
-    features:
-      - "紀州備長炭由来の100%原液木酢液"
-      - "30年以上の実績を持つ和歌山産の高品質品"
-      - "入浴剤・フットケア・肌ケアなど多用途"
-    pros:
-      - "天然素材100%で体に優しい"
-      - "独特の温浴効果で体が芯から温まる"
-      - "少量で使えるためコスパが良い"
-    cons:
-      - "独特の燻製香（煙臭）が苦手な方も"
-      - "原液のため使用量の調整が必要"
-    recommendedFor: "冷え性・肌荒れが気になる方・自然派志向の方・フットケアも一緒にしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqr3n.3rdw62f5.g00qqr3n.3rdw7e06/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkisyubio-wakayama%2Fmokusaku06%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkisyubio-wakayama%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kisyubio-wakayama/cabinet/imgrc0101345136.jpg?_ex=128x128"
-  - rank: 7
-    name: "ミネラル鉱泉浴"
-    brand: "SMC"
-    price: 8800
-    capacity: "1L"
-    pricePerUnit: "約8800円/L"
-    rating: 4.66
-    reviewCount: 1572
-    features:
-      - "毎日の入浴に使いやすい入浴剤"
-      - "まとめ買いしやすい容量設定"
-      - "香りや使用感で選びやすい"
-    pros:
-      - "ストックしやすい"
-      - "家族でも使いやすい"
-      - "気分に合わせて選びやすい"
-    cons:
-      - "香りの好みは分かれやすい"
-      - "浴槽素材との相性確認が必要"
-    recommendedFor: "入浴剤をコスパと使いやすさで選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pmifn.3rdw68a6.g00pmifn.3rdw7d34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmc%2F10000368%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmc%2Fi%2F10000368%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/smc/cabinet/1/kosen/c5-240401-6.jpg?_ex=128x128"
-  - rank: 8
-    name: "【送料無料】 精油"
-    brand: "花の日"
-    price: 1980
-    capacity: "10ml"
-    pricePerUnit: "約198円/ml"
-    rating: 4.77
-    reviewCount: 3677
-    features:
-      - "100%天然由来の精油（エッセンシャルオイル）4本セット"
-      - "複数の香りから選べるお試しセット"
-      - "入浴剤・アロマ・マッサージオイルなど多用途"
-    pros:
-      - "4種類の香りでバスタイムのバリエーションが広がる"
-      - "少量からお試しできるお得なセット"
-      - "ギフトや贈り物にもなる高級感ある香り"
-    cons:
-      - "精油は原液のため肌への直接塗布不可"
-      - "バスオイルとして使う際は適切な希釈が必要"
-    recommendedFor: "アロマ入浴を楽しみたい方・ギフトを探している方・複数の香りを試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q31ln.3rdw669d.g00q31ln.3rdw709c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftonyatonya%2Fset2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftonyatonya%2Fi%2F10000050%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tonyatonya/cabinet/item/4honset500x500.jpg?_ex=128x128"
-  - rank: 9
-    name: "BARTH 中性重炭酸入浴剤 90錠×2個2個セット"
-    brand: "BARTH"
-    price: 13200
-    capacity: "90錠×2個"
-    pricePerUnit: "約73円/錠"
-    rating: 4.78
-    reviewCount: 324
-    features:
-      - "毎日の入浴に使いやすい入浴剤"
-      - "まとめ買いしやすい容量設定"
-      - "香りや使用感で選びやすい"
-    pros:
-      - "ストックしやすい"
-      - "家族でも使いやすい"
-      - "気分に合わせて選びやすい"
-    cons:
-      - "香りの好みは分かれやすい"
-      - "浴槽素材との相性確認が必要"
-    recommendedFor: "入浴剤をコスパと使いやすさで選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sk3un.3rdw6ff2.g00sk3un.3rdw72b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsleepdays%2F2003024a1690%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsleepdays%2Fi%2F10000036%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sleepdays/cabinet/item/barth/set/imgrc0098673074.jpg?_ex=128x128"
-  - rank: 10
-    name: "バブ 厳選4種類の香りセレクトBOX 56錠"
-    brand: "花王（バブ）"
-    price: 4205
-    capacity: "56錠（56回分）"
-    pricePerUnit: "約75円/錠"
-    rating: 4.6
-    reviewCount: 500
-    features:
-      - "炭酸力が温浴効果を高めて血行促進"
-      - "4種類の香りが楽しめるバラエティセット"
-      - "赤ちゃんと一緒に入浴OK（無着色タイプ）"
-    pros:
-      - "1回あたり約75円でコスパ良好"
-      - "炭酸の温浴効果で体が芯から温まる"
-      - "4種類の香りで飽きがこない"
-    cons:
-      - "香りが控えめで物足りない方も"
-      - "追い焚き機能との相性に注意"
-    recommendedFor: "コスパ重視の方・毎日入浴剤を使いたい方・家族で使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un3nn.3rdw669e.g00un3nn.3rdw7b90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuroku-1%2Figpebstvhfft2z4dc6iwkue5py%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuroku-1%2Fi%2F10126004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuroku-1/cabinet/11689083/28702162_0.jpg?_ex=128x128"
-  - rank: 11
-    name: "BARTH 中性重炭酸入浴剤 30錠"
-    brand: "BARTH"
-    price: 2750
-    capacity: "30錠"
-    pricePerUnit: "約92円/錠"
-    rating: 4.47
-    reviewCount: 1321
-    features:
-      - "毎日の入浴に使いやすい入浴剤"
-      - "まとめ買いしやすい容量設定"
-      - "香りや使用感で選びやすい"
-    pros:
-      - "ストックしやすい"
-      - "家族でも使いやすい"
-      - "気分に合わせて選びやすい"
-    cons:
-      - "香りの好みは分かれやすい"
-      - "浴槽素材との相性確認が必要"
-    recommendedFor: "入浴剤をコスパと使いやすさで選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sk3un.3rdw6ff2.g00sk3un.3rdw72b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsleepdays%2F20000002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsleepdays%2Fi%2F10000012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sleepdays/cabinet/item/barth/10688795/imgrc0116514278.jpg?_ex=128x128"
-  - rank: 12
     name: "入浴剤 福袋 100個セット"
     brand: "YOU通販"
     price: 3780
@@ -269,7 +137,29 @@ products:
     recommendedFor: "コスパ重視の方・毎日入浴剤を使う方・ギフトを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r685n.3rdw6e25.g00r685n.3rdw7405/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyou2han%2F10001336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyou2han%2Fi%2F10001336%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/you2han/cabinet/nyzai/nyu100-20161.jpg?_ex=128x128"
-  - rank: 13
+  - rank: 7
+    name: "あまおういちご 入浴剤 26個セット"
+    brand: "湯屋の手土産"
+    price: 1300
+    capacity: "26個"
+    pricePerUnit: "約50円/個"
+    rating: 4.64
+    reviewCount: 137
+    features:
+      - "毎日の入浴に使いやすい入浴剤"
+      - "まとめ買いしやすい容量設定"
+      - "香りや使用感で選びやすい"
+    pros:
+      - "ストックしやすい"
+      - "家族でも使いやすい"
+      - "気分に合わせて選びやすい"
+    cons:
+      - "香りの好みは分かれやすい"
+      - "浴槽素材との相性確認が必要"
+    recommendedFor: "入浴剤をコスパと使いやすさで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ts2zn.3rdw659d.g00ts2zn.3rdw7108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuyanotemiyage%2F27040004-30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuyanotemiyage%2Fi%2F10000276%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuyanotemiyage/cabinet/27040004-30_01.jpg?_ex=128x128"
+  - rank: 8
     name: "バスクリン きき湯 オリジナルギフトセット"
     brand: "バスクリン"
     price: 3150
@@ -291,7 +181,139 @@ products:
     recommendedFor: "最安値を求める方・温泉気分を楽しみたい方・疲労回復を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pye9n.3rdw63be.g00pye9n.3rdw7c6f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faikuru%2F111542030%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faikuru%2Fi%2F10103648%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aikuru/cabinet/2024sh-sogo6/0548-052-34_2.jpg?_ex=128x128"
+  - rank: 9
+    name: "木酢液 紀州備長炭 原液"
+    brand: "紀州びお和歌山"
+    price: 1400
+    capacity: "500ml"
+    pricePerUnit: "約2.8円/ml"
+    rating: 4.21
+    reviewCount: 6080
+    features:
+      - "紀州備長炭由来の100%原液木酢液"
+      - "30年以上の実績を持つ和歌山産の高品質品"
+      - "入浴剤・フットケア・肌ケアなど多用途"
+    pros:
+      - "天然素材100%で体に優しい"
+      - "独特の温浴効果で体が芯から温まる"
+      - "少量で使えるためコスパが良い"
+    cons:
+      - "独特の燻製香（煙臭）が苦手な方も"
+      - "原液のため使用量の調整が必要"
+    recommendedFor: "冷え性・肌荒れが気になる方・自然派志向の方・フットケアも一緒にしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqr3n.3rdw62f5.g00qqr3n.3rdw7e06/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkisyubio-wakayama%2Fmokusaku06%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkisyubio-wakayama%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kisyubio-wakayama/cabinet/imgrc0101345136.jpg?_ex=128x128"
+  - rank: 10
+    name: "ミネラル鉱泉浴"
+    brand: "SMC"
+    price: 8800
+    capacity: "1L"
+    pricePerUnit: "約8800円/L"
+    rating: 4.66
+    reviewCount: 1572
+    features:
+      - "毎日の入浴に使いやすい入浴剤"
+      - "まとめ買いしやすい容量設定"
+      - "香りや使用感で選びやすい"
+    pros:
+      - "ストックしやすい"
+      - "家族でも使いやすい"
+      - "気分に合わせて選びやすい"
+    cons:
+      - "香りの好みは分かれやすい"
+      - "浴槽素材との相性確認が必要"
+    recommendedFor: "入浴剤をコスパと使いやすさで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pmifn.3rdw68a6.g00pmifn.3rdw7d34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmc%2F10000368%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmc%2Fi%2F10000368%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/smc/cabinet/1/kosen/c5-240401-6.jpg?_ex=128x128"
+  - rank: 11
+    name: "【送料無料】 精油"
+    brand: "花の日"
+    price: 1980
+    capacity: "10ml"
+    pricePerUnit: "約198円/ml"
+    rating: 4.77
+    reviewCount: 3677
+    features:
+      - "100%天然由来の精油（エッセンシャルオイル）4本セット"
+      - "複数の香りから選べるお試しセット"
+      - "入浴剤・アロマ・マッサージオイルなど多用途"
+    pros:
+      - "4種類の香りでバスタイムのバリエーションが広がる"
+      - "少量からお試しできるお得なセット"
+      - "ギフトや贈り物にもなる高級感ある香り"
+    cons:
+      - "精油は原液のため肌への直接塗布不可"
+      - "バスオイルとして使う際は適切な希釈が必要"
+    recommendedFor: "アロマ入浴を楽しみたい方・ギフトを探している方・複数の香りを試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q31ln.3rdw669d.g00q31ln.3rdw709c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftonyatonya%2Fset2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftonyatonya%2Fi%2F10000050%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tonyatonya/cabinet/item/4honset500x500.jpg?_ex=128x128"
+  - rank: 12
+    name: "BARTH 中性重炭酸入浴剤 90錠×2個2個セット"
+    brand: "BARTH"
+    price: 13200
+    capacity: "90錠×2個"
+    pricePerUnit: "約73円/錠"
+    rating: 4.78
+    reviewCount: 324
+    features:
+      - "毎日の入浴に使いやすい入浴剤"
+      - "まとめ買いしやすい容量設定"
+      - "香りや使用感で選びやすい"
+    pros:
+      - "ストックしやすい"
+      - "家族でも使いやすい"
+      - "気分に合わせて選びやすい"
+    cons:
+      - "香りの好みは分かれやすい"
+      - "浴槽素材との相性確認が必要"
+    recommendedFor: "入浴剤をコスパと使いやすさで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sk3un.3rdw6ff2.g00sk3un.3rdw72b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsleepdays%2F2003024a1690%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsleepdays%2Fi%2F10000036%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sleepdays/cabinet/item/barth/set/imgrc0098673074.jpg?_ex=128x128"
+  - rank: 13
+    name: "バブ 厳選4種類の香りセレクトBOX 56錠"
+    brand: "花王（バブ）"
+    price: 4205
+    capacity: "56錠（56回分）"
+    pricePerUnit: "約75円/錠"
+    rating: 4.6
+    reviewCount: 500
+    features:
+      - "炭酸力が温浴効果を高めて血行促進"
+      - "4種類の香りが楽しめるバラエティセット"
+      - "赤ちゃんと一緒に入浴OK（無着色タイプ）"
+    pros:
+      - "1回あたり約75円でコスパ良好"
+      - "炭酸の温浴効果で体が芯から温まる"
+      - "4種類の香りで飽きがこない"
+    cons:
+      - "香りが控えめで物足りない方も"
+      - "追い焚き機能との相性に注意"
+    recommendedFor: "コスパ重視の方・毎日入浴剤を使いたい方・家族で使う方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un3nn.3rdw669e.g00un3nn.3rdw7b90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuroku-1%2Figpebstvhfft2z4dc6iwkue5py%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuroku-1%2Fi%2F10126004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuroku-1/cabinet/11689083/28702162_0.jpg?_ex=128x128"
   - rank: 14
+    name: "BARTH 中性重炭酸入浴剤 30錠"
+    brand: "BARTH"
+    price: 2750
+    capacity: "30錠"
+    pricePerUnit: "約92円/錠"
+    rating: 4.47
+    reviewCount: 1321
+    features:
+      - "毎日の入浴に使いやすい入浴剤"
+      - "まとめ買いしやすい容量設定"
+      - "香りや使用感で選びやすい"
+    pros:
+      - "ストックしやすい"
+      - "家族でも使いやすい"
+      - "気分に合わせて選びやすい"
+    cons:
+      - "香りの好みは分かれやすい"
+      - "浴槽素材との相性確認が必要"
+    recommendedFor: "入浴剤をコスパと使いやすさで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sk3un.3rdw6ff2.g00sk3un.3rdw72b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsleepdays%2F20000002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsleepdays%2Fi%2F10000012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sleepdays/cabinet/item/barth/10688795/imgrc0116514278.jpg?_ex=128x128"
+  - rank: 15
     name: "湯宿めぐり 入浴剤 120包セット"
     brand: "湯宿めぐり"
     price: 2980
@@ -313,28 +335,6 @@ products:
     recommendedFor: "入浴剤をコスパと使いやすさで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rzyyn.3rdw693a.g00rzyyn.3rdw76d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwagonsale-kanahashi%2F4960433101575-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwagonsale-kanahashi%2Fi%2F10001878%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wagonsale-kanahashi/cabinet/11346547/4960433101575-10p01.jpg?_ex=128x128"
-  - rank: 15
-    name: "あまおういちご入浴剤セット"
-    brand: "湯屋の手土産"
-    price: 0
-    capacity: "26個"
-    pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "毎日の入浴に使いやすい入浴剤"
-      - "まとめ買いしやすい容量設定"
-      - "香りや使用感で選びやすい"
-    pros:
-      - "ストックしやすい"
-      - "家族でも使いやすい"
-      - "気分に合わせて選びやすい"
-    cons:
-      - "香りの好みは分かれやすい"
-      - "浴槽素材との相性確認が必要"
-    recommendedFor: "入浴剤をコスパと使いやすさで選びたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/yuyanotemiyage/27040004-30/"
-    imageUrl: ""
 tags:
   - "入浴剤"
   - "コスパ"
