@@ -235,6 +235,7 @@ Lighthouse の **Performance / SEO / Accessibility / Best Practices すべて 95
 6. コミットメッセージは日本語可
 7. `node_modules`, `dist`, `.astro/` は触らない・読まない（時間の無駄）
 8. 大きな変更は `pnpm build` を回して Zod / TS / OGP 全工程が通ることを確認
+9. このリポジトリは原則 UTF-8。PowerShell の `Get-Content` では日本語が表示上文字化けすることがあるため、文字化けをファイル破損と即断しない。日本語内容を確認する場合は `Get-Content -Encoding utf8` と UTF-8 出力設定を使う。文字化けして見える本文を推測で編集しない。
 
 ---
 
