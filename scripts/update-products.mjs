@@ -14,7 +14,7 @@
  * バックアップ: 実行前に <ファイル名>.bak を自動作成
  */
 
-import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
+import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
 import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 
@@ -221,6 +221,232 @@ function writeCapacityReviewReports(items) {
   writeFileSync(mdPath, formatCapacityReviewMarkdown(items, today), 'utf-8');
   writeFileSync(jsonlPath, items.map(item => JSON.stringify(item)).join('\n') + '\n', 'utf-8');
   return { mdPath, jsonlPath };
+}
+
+function todayJst() {
+  return new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Tokyo' }).format(new Date());
+}
+
+function ensureDir(dir) {
+  if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
+}
+
+function normalizePathForCompare(path) {
+  return resolve(path).toLowerCase();
+}
+
+function isSafeArticleFile(articleFile) {
+  if (typeof articleFile !== 'string' || !articleFile) return false;
+  const articlesDir = resolve(process.cwd(), 'src/content/articles');
+  const target = resolve(process.cwd(), articleFile);
+  return normalizePathForCompare(target).startsWith(normalizePathForCompare(articlesDir) + '\\')
+    || normalizePathForCompare(target).startsWith(normalizePathForCompare(articlesDir) + '/');
+}
+
+function parseJsonlFile(filePath) {
+  const lines = readFileSync(filePath, 'utf-8')
+    .split(/\r?\n/)
+    .map(line => line.trim())
+    .filter(Boolean);
+  return lines.map((line, index) => {
+    try {
+      return { ok: true, lineNo: index + 1, data: JSON.parse(line) };
+    } catch (e) {
+      return { ok: false, lineNo: index + 1, error: e.message };
+    }
+  });
+}
+
+function getAiMatchCurrentName(match) {
+  return match.currentName
+    ?? match.current?.name
+    ?? match.current?.productName
+    ?? null;
+}
+
+function getProductByRank(products, rank) {
+  if (rank === null || rank === undefined) return null;
+  const normalizedRank = typeof rank === 'number' ? rank : Number(rank);
+  if (!Number.isFinite(normalizedRank)) return null;
+  return products.find(product => product.rank === normalizedRank) ?? null;
+}
+
+function buildAiMatchUpdates(match) {
+  return {
+    price: typeof match.newPrice === 'number' ? match.newPrice : null,
+    rating: typeof match.newRating === 'number' ? match.newRating : null,
+    reviewCount: typeof match.newReviewCount === 'number' ? match.newReviewCount : null,
+    affiliateUrl: typeof match.selectedAffiliateUrl === 'string' ? match.selectedAffiliateUrl : null,
+    imageUrl: typeof match.selectedImageUrl === 'string' ? match.selectedImageUrl : null,
+    pricePerUnit: match.newPricePerUnit ?? null,
+    newName: typeof match.newName === 'string' && match.newName ? match.newName : undefined,
+    newCapacity: typeof match.newCapacity === 'string' && match.newCapacity ? match.newCapacity : undefined,
+  };
+}
+
+function validateUrlLike(value) {
+  if (typeof value !== 'string' || !value) return false;
+  try {
+    const parsed = new URL(value);
+    return parsed.protocol === 'http:' || parsed.protocol === 'https:';
+  } catch {
+    return false;
+  }
+}
+
+function applyAiMatchToContent(content, match) {
+  if (match.action === 'review') {
+    return { ok: true, changed: false, review: true, message: match.reason ?? 'review' };
+  }
+  if (match.action !== 'replace') {
+    return { ok: false, message: `unsupported action: ${match.action ?? '-'}` };
+  }
+  if (!validateUrlLike(match.selectedAffiliateUrl)) {
+    return { ok: false, message: 'replace requires selectedAffiliateUrl' };
+  }
+
+  const rankProduct = getProductByRank(extractAllProductsData(content), match.rank);
+  const currentName = getAiMatchCurrentName(match);
+  if (!rankProduct || !currentName) {
+    return { ok: false, message: 'rank and current.name are required for replace' };
+  }
+  if (rankProduct.name !== currentName) {
+    return {
+      ok: false,
+      message: `rank/current.name mismatch: rank ${match.rank} is "${rankProduct.name}", JSONL current is "${currentName}"`,
+    };
+  }
+
+  const before = extractProductSnapshot(content, rankProduct.name);
+  const updates = buildAiMatchUpdates(match);
+  const nextContent = updateProductInFrontmatter(content, rankProduct.name, updates);
+  const after = extractProductSnapshot(nextContent, updates.newName ?? rankProduct.name);
+  const changed = nextContent !== content;
+  return { ok: true, changed, before, after, review: false, message: match.reason ?? '', content: nextContent };
+}
+
+function writeAiMatchReviewReport(reviewItems) {
+  if (reviewItems.length === 0) return null;
+  const reviewDir = resolve(process.cwd(), 'reports/ai-matches/review');
+  ensureDir(reviewDir);
+  const path = join(reviewDir, `product-match-review-${todayJst()}.jsonl`);
+  writeFileSync(path, reviewItems.map(item => JSON.stringify(item)).join('\n') + '\n', 'utf-8');
+  return path;
+}
+
+function moveAiMatchFile(filePath, status) {
+  const targetDir = resolve(process.cwd(), `reports/ai-matches/${status}`);
+  ensureDir(targetDir);
+  let targetPath = join(targetDir, basename(filePath));
+  if (existsSync(targetPath)) {
+    const extIdx = basename(filePath).lastIndexOf('.');
+    const base = extIdx >= 0 ? basename(filePath).slice(0, extIdx) : basename(filePath);
+    const ext = extIdx >= 0 ? basename(filePath).slice(extIdx) : '';
+    targetPath = join(targetDir, `${base}-${Date.now()}${ext}`);
+  }
+  renameSync(filePath, targetPath);
+  return targetPath;
+}
+
+function applyPendingAiMatches() {
+  const pendingDir = resolve(process.cwd(), 'reports/ai-matches/pending');
+  if (!existsSync(pendingDir)) return { processed: 0, failed: 0, reviews: 0 };
+
+  const pendingFiles = readdirSync(pendingDir)
+    .filter(file => file.endsWith('.jsonl'))
+    .map(file => join(pendingDir, file));
+  if (pendingFiles.length === 0) return { processed: 0, failed: 0, reviews: 0 };
+
+  console.log(`\nAI match pending files: ${pendingFiles.length}`);
+  const reviewItems = [];
+  let processed = 0;
+  let failed = 0;
+
+  for (const pendingFile of pendingFiles) {
+    console.log(`   apply: ${basename(pendingFile)}`);
+    const parsedLines = parseJsonlFile(pendingFile);
+    let hasFailure = parsedLines.some(line => !line.ok);
+    const byArticle = new Map();
+
+    for (const line of parsedLines) {
+      if (!line.ok) {
+        console.log(`      line ${line.lineNo}: JSON parse failed: ${line.error}`);
+        continue;
+      }
+      const match = line.data;
+      if (!isSafeArticleFile(match.articleFile)) {
+        hasFailure = true;
+        console.log(`      line ${line.lineNo}: invalid articleFile`);
+        continue;
+      }
+      if (FILE_FILTER && basename(match.articleFile) !== FILE_FILTER) {
+        console.log(`      line ${line.lineNo}: skipped by --file`);
+        continue;
+      }
+      const articlePath = resolve(process.cwd(), match.articleFile);
+      if (!existsSync(articlePath)) {
+        hasFailure = true;
+        console.log(`      line ${line.lineNo}: article file not found`);
+        continue;
+      }
+      const items = byArticle.get(articlePath) ?? [];
+      items.push({ lineNo: line.lineNo, match });
+      byArticle.set(articlePath, items);
+    }
+
+    for (const [articlePath, items] of byArticle.entries()) {
+      const originalContent = readFileSync(articlePath, 'utf-8');
+      let content = originalContent;
+
+      for (const item of items) {
+        const result = applyAiMatchToContent(content, item.match);
+        if (!result.ok) {
+          hasFailure = true;
+          console.log(`      line ${item.lineNo}: ${result.message}`);
+          continue;
+        }
+        if (result.review) {
+          reviewItems.push({
+            sourceFile: basename(pendingFile),
+            articleFile: item.match.articleFile,
+            rank: item.match.rank ?? null,
+            currentName: getAiMatchCurrentName(item.match),
+            reason: item.match.reason ?? null,
+          });
+          console.log(`      line ${item.lineNo}: review skipped`);
+          continue;
+        }
+        content = result.content;
+        console.log(`      line ${item.lineNo}: replace ${result.changed ? 'applied' : 'no change'}`);
+      }
+
+      if (!DRY_RUN && content !== originalContent) {
+        const today = todayJst();
+        content = updateUpdatedAt(content, today);
+        writeFileSync(articlePath + '.bak', originalContent, 'utf-8');
+        writeFileSync(articlePath, content, 'utf-8');
+        console.log(`      saved: ${basename(articlePath)} (updatedAt: ${today})`);
+      } else if (DRY_RUN && content !== originalContent) {
+        console.log(`      [dry-run] would save: ${basename(articlePath)}`);
+      }
+    }
+
+    if (!DRY_RUN) {
+      const status = hasFailure ? 'failed' : 'processed';
+      const movedTo = moveAiMatchFile(pendingFile, status);
+      console.log(`      moved to ${status}: ${movedTo}`);
+    } else {
+      console.log(`      [dry-run] would move to ${hasFailure ? 'failed' : 'processed'}`);
+    }
+
+    if (hasFailure) failed++;
+    else processed++;
+  }
+
+  const reviewPath = DRY_RUN ? null : writeAiMatchReviewReport(reviewItems);
+  if (reviewPath) console.log(`AI match review report: ${reviewPath}`);
+  if (DRY_RUN && reviewItems.length > 0) console.log(`AI match review report: [dry-run] ${reviewItems.length} items`);
+  return { processed, failed, reviews: reviewItems.length };
 }
 
 function loadEnv() {
@@ -1201,6 +1427,11 @@ async function checkReplacements() {
 
 // ─── メイン処理 ────────────────────────────────────────────────────────────
 async function main() {
+  const aiMatchResult = applyPendingAiMatches();
+  if (aiMatchResult.processed || aiMatchResult.failed || aiMatchResult.reviews) {
+    console.log(`AI match summary: processed ${aiMatchResult.processed}, failed ${aiMatchResult.failed}, review ${aiMatchResult.reviews}`);
+  }
+
   const articlesDir = resolve(process.cwd(), 'src/content/articles');
   const files = readdirSync(articlesDir)
     .filter(f => f.endsWith('.md'))
