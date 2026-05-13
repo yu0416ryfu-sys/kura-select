@@ -232,7 +232,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約14円/枚"
     rating: 4.71
-    reviewCount: 1236
+    reviewCount: 1238
     features:
       - "ニトリル素材で油・薬品にも強い高い耐久性"
       - "手にフィットして細かい作業もしやすい"

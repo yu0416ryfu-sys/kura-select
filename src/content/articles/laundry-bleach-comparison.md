@@ -143,8 +143,8 @@ products:
     price: 8670
     capacity: "1490g"
     pricePerUnit: "約5.8円/g"
-    rating: 4.55
-    reviewCount: 253
+    rating: 4.56
+    reviewCount: 254
     features:
       - "植物由来成分配合の無添加液体洗濯洗剤"
       - "すすぎ1回対応で水道代と時間を節約できる"

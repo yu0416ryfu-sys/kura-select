@@ -3,7 +3,7 @@ title: "IH対応一人用鍋おすすめ比較｜16cm・18cmの選び方"
 description: "IH対応の一人用鍋を16cm・18cm中心に比較。卓上鍋、すきやき鍋、片手鍋など、少人数調理に使いやすい鍋を選び方とあわせて紹介します。"
 category: "cooking-pot"
 publishedAt: "2026-05-10"
-updatedAt: "2026-05-10"
+updatedAt: 2026-05-13
 draft: false
 products:
   - rank: 1
@@ -101,7 +101,7 @@ products:
     capacity: "16cm / 約1.5L"
     pricePerUnit: "1個あたり約6,840円"
     rating: 4.85
-    reviewCount: 66
+    reviewCount: 67
     features:
       - "IHを含む幅広い熱源に対応"
       - "全面7層構造のステンレス製片手鍋"

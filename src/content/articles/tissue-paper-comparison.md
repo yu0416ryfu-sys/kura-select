@@ -50,7 +50,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcsnn.3rdw6570.g00qcsnn.3rdw762b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyoto23%2F10000355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyoto23%2Fi%2F10000355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kyoto23/cabinet/img2/10000355sb.jpg?_ex=128x128"
   - rank: 3
-    name: "プライベートブランド ティッシュ 200枚（100組）×60箱（100組）×60箱"
+    name: "プライベートブランド ティッシュ 200枚（100組）×60箱（100組）×60箱（100組）×60箱"
     brand: "業務用無地"
     price: 5760
     capacity: "200枚（100組）×60箱"
@@ -72,7 +72,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s581n.3rdw6f03.g00s581n.3rdw79ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-bomber-shop%2F251641002216000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-bomber-shop%2Fi%2F10124307%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-bomber-shop/cabinet/mastertool70/251641002216000.jpg?_ex=128x128"
   - rank: 4
-    name: "エリエール ティシュー 200枚（100組）×12箱（100組）×12箱"
+    name: "エリエール ティシュー 200枚（100組）×12箱（100組）×12箱（100組）×12箱"
     brand: "大王製紙（エリエール）"
     price: 5258
     capacity: "200枚（100組）×12箱"

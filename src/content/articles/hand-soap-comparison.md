@@ -33,8 +33,8 @@ products:
     price: 1914
     capacity: "900mL（約300回分）"
     pricePerUnit: "約2.1円/mL"
-    rating: 4.28
-    reviewCount: 1451
+    rating: 4.27
+    reviewCount: 1452
     features:
       - "幅広いバイ菌を殺菌・消毒"
       - "ミューズ独自の殺菌処方で高い除菌力"

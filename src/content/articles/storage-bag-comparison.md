@@ -6,11 +6,33 @@ publishedAt: "2026-05-01"
 updatedAt: 2026-05-13
 products:
   - rank: 1
-    name: "ジップロック ストックバッグ L 大容量 32枚入×3箱"
+    name: "ジップロック フリーザーバッグ M 120枚"
     brand: "旭化成（ジップロック）"
-    price: 1350
-    capacity: "32枚×3箱（96枚）"
-    pricePerUnit: "約14.1円/枚"
+    price: 1917
+    capacity: "120枚"
+    pricePerUnit: "約16.0円/枚"
+    rating: 4.67
+    reviewCount: 36
+    features:
+      - "ダブルジッパーで液漏れしにくい密封性"
+      - "フリーザーバッグは冷凍保存に最適な厚手素材"
+      - "書き込みスペース付きで日付管理が便利"
+    pros:
+      - "密封性が高く液物・汁物も安心"
+      - "厚手で冷凍焼けを防ぐ"
+      - "日付が書き込めて食材管理しやすい"
+    cons:
+      - "1枚あたり約14.2円とやや高め"
+      - "アイラップと比べると枚数あたりのコスパは劣る"
+    recommendedFor: "冷凍保存をよくする方・液物を保存したい方・品質重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901670116243%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11229485%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/243/4901670116243.jpg?_ex=128x128"
+  - rank: 2
+    name: "ジップロック ストックバッグ L 16枚"
+    brand: "旭化成（ジップロック）"
+    price: 1288
+    capacity: "16枚"
+    pricePerUnit: "約80.5円/枚"
     rating: 4.4
     reviewCount: 200
     features:
@@ -25,30 +47,8 @@ products:
       - "フリーザーバッグより薄手で冷凍保存には不向き"
       - "ダブルジッパーではないため密封性はやや劣る"
     recommendedFor: "冷蔵保存がメインの方・大きめサイズが必要な方・開けやすさ重視の方"
-    rakutenUrl: "https://example.com/placeholder/ziploc-stock-l-96"
-    imageUrl: "/placeholder/product-4.svg"
-  - rank: 2
-    name: "ジップロック フリーザーバッグ M 90枚入"
-    brand: "旭化成（ジップロック）"
-    price: 1280
-    capacity: "90枚"
-    pricePerUnit: "約14.2円/枚"
-    rating: 4.5
-    reviewCount: 400
-    features:
-      - "ダブルジッパーで液漏れしにくい密封性"
-      - "フリーザーバッグは冷凍保存に最適な厚手素材"
-      - "書き込みスペース付きで日付管理が便利"
-    pros:
-      - "密封性が高く液物・汁物も安心"
-      - "厚手で冷凍焼けを防ぐ"
-      - "日付が書き込めて食材管理しやすい"
-    cons:
-      - "1枚あたり約14.2円とやや高め"
-      - "アイラップと比べると枚数あたりのコスパは劣る"
-    recommendedFor: "冷凍保存をよくする方・液物を保存したい方・品質重視の方"
-    rakutenUrl: "https://example.com/placeholder/ziploc-m-90"
-    imageUrl: "/placeholder/product-2.svg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqv2n.3rdw6222.g00uqv2n.3rdw7c45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fastershop%2Fxpdxwzpdurl4lwg37kw655h3vu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fastershop%2Fi%2F10198196%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/astershop/cabinet/11875643/34547266_1.jpg?_ex=128x128"
   - rank: 3
     name: "業務用 チャック付きポリ袋 B5サイズ 100枚入"
     brand: "業務用"

@@ -210,7 +210,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約44円/mL"
     rating: 4.57
-    reviewCount: 1638
+    reviewCount: 1639
     features:
       - "発酵オイルを配合したクレンジングオイル"
       - "W洗顔不要でメイクと毛穴汚れを落とす"
@@ -320,7 +320,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約1980円/個"
     rating: 4.66
-    reviewCount: 1689
+    reviewCount: 1690
     features:
       - "メイク落としに使うクレンジング"
       - "継続利用しやすい定番構成"
