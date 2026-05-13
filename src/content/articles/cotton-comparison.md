@@ -6,6 +6,72 @@ publishedAt: "2026-05-03"
 updatedAt: 2026-05-13
 products:
   - rank: 1
+    name: "コットンパフ カット綿 大判"
+    brand: "7エステ"
+    price: 1347
+    capacity: "500枚"
+    pricePerUnit: "約2.7円/枚"
+    rating: 4.46
+    reviewCount: 87
+    features:
+      - "カット綿タイプの化粧用コットン"
+      - "拭き取りやローションパックに使いやすい大判タイプ"
+      - "フェイシャルエステ用途にも使われる業務用設計"
+    pros:
+      - "日常的にたっぷり使いたい方に選びやすい"
+      - "顔全体のふき取りやパック用途に使い分けやすい"
+      - "ストック用途として管理しやすい"
+    cons:
+      - "家庭用の小箱タイプより保管スペースを取りやすい"
+      - "小さめサイズを好む方には大きく感じる場合がある"
+    recommendedFor: "コットンを日常的に多めに使う方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbjkn.3rdw681d.g00qbjkn.3rdw7a7f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F7esthe-pro%2F10000740%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F7esthe-pro%2Fi%2F10000740%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/7esthe-pro/cabinet/esthe/goods_expendable_2/10445_88.jpg?_ex=128x128"
+  - rank: 2
+    name: "業務用コットン"
+    brand: "エステタイム"
+    price: 2585
+    capacity: "900枚"
+    pricePerUnit: "約2.9円/枚"
+    rating: 4.83
+    reviewCount: 12
+    features:
+      - "エステサロン向けの化粧用コットン"
+      - "ローションパックやふき取りに使いやすいタイプ"
+      - "業務用としてストックしやすい構成"
+    pros:
+      - "毎日のケアで使用量が多い方に向いている"
+      - "家族で共用するストックとしても選びやすい"
+      - "ふき取りからパッティングまで幅広く使いやすい"
+    cons:
+      - "少量ずつ購入したい方には量が多く感じる場合がある"
+      - "収納場所を先に確認しておきたい"
+    recommendedFor: "使用頻度が高くストック重視で選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r4h2n.3rdw6775.g00r4h2n.3rdw7687/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Festhe-time%2Feye058%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Festhe-time%2Fi%2F10000304%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/esthe-time/cabinet/02514599/lineup/eye3000/cotton_p1.jpg?_ex=128x128"
+  - rank: 3
+    name: "業務用フェイシャルコットン"
+    brand: "エステマート"
+    price: 1782
+    capacity: "600枚"
+    pricePerUnit: "約3.0円/枚"
+    rating: 4.76
+    reviewCount: 33
+    features:
+      - "エステ向けの化粧用フェイシャルコットン"
+      - "カットメンとして使えるプロ仕様タイプ"
+      - "化粧水塗布やふき取りに使いやすい形状"
+    pros:
+      - "シンプルな業務用コットンを探す方に選びやすい"
+      - "毎日のスキンケアで惜しまず使いやすい"
+      - "用途を限定せずに使い回しやすい"
+    cons:
+      - "パッケージの見た目より実用性を重視する方向け"
+      - "携帯用や個包装を求める方には向きにくい"
+    recommendedFor: "実用性重視でフェイシャルコットンを選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q72tn.3rdw624c.g00q72tn.3rdw7fe6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Festhemart%2Fetf-cotton68%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Festhemart%2Fi%2F10001046%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/esthemart/cabinet/img56562367.jpg?_ex=128x128"
+  - rank: 4
     name: "【1点限り！令和お試し価格】ユニ・チャーム シルコット うるうる コットン"
     brand: "ユニ・チャーム（シルコット）"
     price: 341
@@ -27,7 +93,95 @@ products:
     recommendedFor: "化粧水をたっぷり使いたい方・肌が敏感な方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903111456789-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12194578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4903111456789.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 5
+    name: "ナチュラルパフ コットンパフ セット"
+    brand: "アコレ"
+    price: 780
+    capacity: "50枚×2個"
+    pricePerUnit: "約7.8円/枚"
+    rating: 4.88
+    reviewCount: 8
+    features:
+      - "使い捨てタイプのコットンパフ"
+      - "国内製造のパフとして扱いやすい構成"
+      - "スキンケアやメイクまわりに使いやすいシンプルタイプ"
+    pros:
+      - "普段使いのコットンパフを補充したい方に選びやすい"
+      - "シンプルな使用感を求める方に向いている"
+      - "少なめのセットから試しやすい"
+    cons:
+      - "高吸水や特殊加工を重視する方には物足りない場合がある"
+      - "パック用途ではサイズ感を確認しておきたい"
+    recommendedFor: "シンプルなコットンパフを日常使いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ut3hn.3rdw6e12.g00ut3hn.3rdw713e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fippinstore%2F220824-r000209000434%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fippinstore%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ippinstore/cabinet/12553331/12643423/12643432/3.jpg?_ex=128x128"
+  - rank: 6
+    name: "フェイシャルコットンパッド"
+    brand: "Luvum"
+    price: 400
+    capacity: "50枚"
+    pricePerUnit: "約8.0円/枚"
+    rating: 4.67
+    reviewCount: 3
+    features:
+      - "フェイシャルケア向けの単品コットンパッド"
+      - "ふき取りやメイク落とし補助に使いやすいタイプ"
+      - "日々のスキンケアで扱いやすいパッド形状"
+    pros:
+      - "まず少量から試したい方に選びやすい"
+      - "化粧水やエッセンスを含ませて使いやすい"
+      - "クレンジング後のふき取りにも取り入れやすい"
+    cons:
+      - "継続利用ではセット品とのコスパ比較が必要"
+      - "一般的な大判コットンより用途が限定される場合がある"
+    recommendedFor: "コットンパッドを少量から試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5myn.3rdw6d6d.g00u5myn.3rdw7a77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyeppeuda%2Fluvum-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyeppeuda%2Fi%2F10000127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yeppeuda/cabinet/luvum/luvum_00/luvum-4_00.jpg?_ex=128x128"
+  - rank: 7
+    name: "フェイシャルコットンパッド セット"
+    brand: "Luvum"
+    price: 2000
+    capacity: "50枚×5箱"
+    pricePerUnit: "約8.0円/枚"
+    rating: 5
+    reviewCount: 3
+    features:
+      - "フェイシャルケア向けのコットンパッド"
+      - "ふき取りやクレンジング補助に使えるタイプ"
+      - "韓国コスメ系ブランドのケアグッズ"
+    pros:
+      - "コットンパックやふき取りケアを使い分けやすい"
+      - "まとめてストックしたい方に選びやすい"
+      - "毛羽立ちにくさを重視したい方の候補になる"
+    cons:
+      - "ブランドや使用感の好みが分かれる場合がある"
+      - "少量だけ試したい方は単品候補との比較が必要"
+    recommendedFor: "韓国コスメ系のコットンパッドをまとめて使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5myn.3rdw6d6d.g00u5myn.3rdw7a77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyeppeuda%2Fluvumset-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyeppeuda%2Fi%2F10000132%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yeppeuda/cabinet/luvum/luvum_00/luvumset-5_00.jpg?_ex=128x128"
+  - rank: 8
+    name: "クオリティー コットン"
+    brand: "SK-II"
+    price: 990
+    capacity: "100枚"
+    pricePerUnit: "約9.9円/枚"
+    rating: 4.75
+    reviewCount: 91
+    features:
+      - "スキンケア向けの化粧用コットン"
+      - "化粧水やふき取りケアに使いやすいタイプ"
+      - "公式ショップで扱われるブランドコットン"
+    pros:
+      - "ブランドラインでスキンケア用品をそろえたい方に選びやすい"
+      - "化粧水の塗布やふき取りを一つで兼用しやすい"
+      - "日常ケアからメイク落とし補助まで使い分けやすい"
+    cons:
+      - "シンプルな大容量品を重視する方には割高に感じる場合がある"
+      - "ブランド指定がない方は他候補との単価比較が必要"
+    recommendedFor: "ブランドラインの使い心地を重視したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00siy3n.3rdw6c23.g00siy3n.3rdw73c7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsk-ii%2Fsk2cotton%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsk-ii%2Fi%2F10003320%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sk-ii/cabinet/item/thumb/sk2cotton/sk2cotton.jpg?_ex=128x128"
+  - rank: 9
     name: "花王　ビオレ　メイク落とし　ふくだけコットン　つめかえ用　詰め替え用　クレンジン"
     brand: "花王（ビオレ）"
     price: 565
@@ -49,6 +203,28 @@ products:
     recommendedFor: "コスパと品質のバランスを求める方・毎日コットンを使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10034333%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10034333%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin56/4901301729286.jpg?_ex=128x128"
+  - rank: 10
+    name: "ダクトパッド 詰め替えセット"
+    brand: "One-day's you"
+    price: 2090
+    capacity: "60枚×2個"
+    pricePerUnit: "約17円/枚"
+    rating: 4.89
+    reviewCount: 87
+    features:
+      - "トナーパッドタイプのスキンケア用コットン"
+      - "詰め替え用として使いやすいセット構成"
+      - "拭き取りパッドやコットンパックに使えるタイプ"
+    pros:
+      - "化粧水を含ませる手間を抑えたい方に向いている"
+      - "洗顔後のふき取りケアを習慣化しやすい"
+      - "韓国コスメ系のスキンケアを選びたい方に合いやすい"
+    cons:
+      - "一般的な乾いたコットンとは使用感が異なる"
+      - "成分や香りの好みを購入前に確認したい"
+    recommendedFor: "トナーパッドで手軽にふき取りケアをしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5tzn.3rdw6175.g00u5tzn.3rdw760d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonedaysyou%2Fdactopadrefill2_copy%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonedaysyou%2Fi%2F10000136%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onedaysyou/cabinet/12819556/12846370/imgrc0114009555.jpg?_ex=128x128"
 tags:
   - "コットン おすすめ"
   - "コットンパッド コスパ"
