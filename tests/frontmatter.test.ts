@@ -629,6 +629,22 @@ describe("extractCapacityFromItemName", () => {
     expect(capacity).toBe("200枚（100組）×12箱");
     expect(extractCapacityTotal(capacity ?? "")).toEqual({ total: 2400, unit: "枚" });
   });
+
+  it("ラップの幅×長さ表記では長さと販売数量を抽出する", () => {
+    const capacity = extractCapacityFromItemName(
+      "NEWクレラップ レギュラー 30cm*50m(1コ入*3コセット)"
+    );
+
+    expect(capacity).toBe("50m×3個");
+    expect(extractCapacityTotal(capacity ?? "")).toEqual({ total: 150, unit: "m" });
+  });
+
+  it("ラップ単品の幅×長さ表記では長さだけを抽出する", () => {
+    const capacity = extractCapacityFromItemName("サランラップ ミニ 22cm×50m");
+
+    expect(capacity).toBe("50m");
+    expect(extractCapacityTotal(capacity ?? "")).toEqual({ total: 50, unit: "m" });
+  });
 });
 
 describe("isMultiMeasureVariantItemName", () => {

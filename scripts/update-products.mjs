@@ -1077,6 +1077,31 @@ const CATEGORY_SEARCH_RULES = {
     exclude: ['ドリッパー', 'サーバー', '豆', '粉'],
     units: ['枚'],
   },
+  'wrap-foil': {
+    keywords: ['クレラップ 50m', 'サランラップ 50m', 'アルミホイル 25m'],
+    include: ['クレラップ', 'サランラップ', 'ポリラップ', '食品ラップ', 'キッチンラップ', 'ラップフィルム', 'アルミホイル', 'キッチンホイル'],
+    exclude: [
+      'ホルダー',
+      'ケース',
+      'カッター',
+      '収納',
+      'ラック',
+      'ストッカー',
+      'ティッシュ',
+      'バッグ',
+      'ストックバッグ',
+      'フリーザーバッグ',
+      'ジッパーバッグ',
+      'ポリ袋',
+      '鞄',
+      'かばん',
+      'ネイル',
+      'ジェル',
+      'リムーバー',
+      'コットン',
+    ],
+    units: ['m'],
+  },
   'contact-lens': {
     keywords: ['コンタクトレンズ洗浄液', 'コンタクト 洗浄液', 'コンタクト 保存液'],
     include: ['コンタクト', '洗浄液', '保存液'],
@@ -1305,6 +1330,11 @@ function normalizeProductIdentity(name) {
     .replace(/\d+[,.]?\d*(ml|ｍｌ|g|ｇ|kg|ｋｇ|l|ｌ|個|本|袋|枚|包|錠|ロール|パック|セット)/g, '');
 }
 
+function extractProductWidthCm(name) {
+  const match = String(name ?? '').normalize('NFKC').match(/(\d+(?:\.\d+)?)\s*cm/i);
+  return match ? Number(match[1]) : null;
+}
+
 const PRODUCT_IDENTITY_STOP_TERMS = [
   'クレンジングオイル', 'クレンジングジェル', 'クレンジングバーム', 'クレンジングウォーター', 'クレンジングミルク', 'クレンジングクリーム',
   'クレンジング', 'メイク落とし', 'メーク落とし', '化粧落とし',
@@ -1354,6 +1384,9 @@ function isSameProductDifferentUrl(candidateName, candidateCapacity, existingPro
       : extractCapacityFromItemName(product.name);
     const existingTotal = existingCapacity ? extractCapacityTotal(existingCapacity) : null;
     if (!candidateTotal || !existingTotal) return true;
+    const candidateWidth = extractProductWidthCm(candidateName);
+    const existingWidth = extractProductWidthCm(product.name);
+    if (candidateWidth !== null && existingWidth !== null && candidateWidth !== existingWidth) return false;
     if (existingTotal.unit.toLowerCase() === candidateTotal.unit.toLowerCase() && existingTotal.total === candidateTotal.total) return true;
 
     return false;

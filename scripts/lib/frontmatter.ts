@@ -397,6 +397,20 @@ export function extractCapacityFromItemName(itemName: string): string | null {
     return `（${bracketTotalWithBreakdownM[1]}${bracketTotalWithBreakdownM[2]}）`;
   }
 
+  // パターン0a: ラップ・ホイル系の幅×長さ表記
+  // 例: "30cm×50m(1コ入*3コセット)" → "50m×3個"
+  // 幅の cm は単価計算対象ではないため、長さ m と販売数量だけを抽出する。
+  const widthLengthRe = new RegExp(`\\d[\\d,]*\\s*cm\\s*[${MULTIPLY_RE_CHAR_CLASS}]\\s*(\\d[\\d,]*)\\s*m`, 'i');
+  const widthLengthM = itemName.match(widthLengthRe);
+  if (widthLengthM) {
+    const after = itemName.slice((widthLengthM.index ?? 0) + widthLengthM[0].length);
+    const qtyMatches = [...after.matchAll(new RegExp(`(?:[${MULTIPLY_RE_CHAR_CLASS}]|[（(][^）)]*?)(\\d[\\d,]*)\\s*(?:個|コ|本|セット)`, 'gi'))]
+      .map(match => parseInt(match[1].replace(/,/g, ''), 10))
+      .filter(qty => qty > 1);
+    const multiplier = qtyMatches.length > 0 ? qtyMatches.reduce((acc, qty) => acc * qty, 1) : 1;
+    return multiplier > 1 ? `${widthLengthM[1]}m×${multiplier}個` : `${widthLengthM[1]}m`;
+  }
+
   // パターン1: × / * 区切り乗算チェーン（複数因子対応）"200枚×5箱" "400ml*3袋"
   // CAPACITY_UNITS および PACK_UNITS（ロール・パック・箱等）の両方を単位として認識する
   // PACK_UNITS も起点として認識する（例: "（12ロール×6個セット）" で 12ロール を先に捕捉）
