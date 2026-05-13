@@ -223,6 +223,15 @@ function writeCapacityReviewReports(items) {
   return { mdPath, jsonlPath };
 }
 
+function writeProductMatchReport(items) {
+  if (items.length === 0) return null;
+  const reportsDir = resolve(process.cwd(), 'reports');
+  ensureDir(reportsDir);
+  const jsonlPath = join(reportsDir, `product-match-input-${todayJst()}.jsonl`);
+  writeFileSync(jsonlPath, items.map(item => JSON.stringify(item)).join('\n') + '\n', 'utf-8');
+  return jsonlPath;
+}
+
 function todayJst() {
   return new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Tokyo' }).format(new Date());
 }
@@ -774,7 +783,123 @@ async function fetchRakutenSearchMany(keyword, hits = 30, page = 1) {
       reviewCount: item.reviewCount ? Number(item.reviewCount) : null,
       itemUrl: item.itemUrl,
       affiliateUrl: item.affiliateUrl ?? null,
+      imageUrl: item.mediumImageUrls?.[0] ?? null,
     }));
+}
+
+function stripCapacityForKeyword(name) {
+  return String(name ?? '')
+    .normalize('NFKC')
+    .replace(/[【\[].+?[】\]]/g, ' ')
+    .replace(/[（(].+?[）)]/g, ' ')
+    .replace(/\d[\d,.]*\s*(?:mL|ml|ML|L|l|g|G|kg|KG|枚|個|本|袋|箱|パック|セット|ロール|巻|包|錠|m|M).*/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function buildProductMatchSearchKeywords({ productName, articleTitle, category }) {
+  const normalizedName = String(productName ?? '').normalize('NFKC').trim();
+  const strippedName = stripCapacityForKeyword(normalizedName);
+  const baseKeyword = buildSearchKeyword(normalizedName);
+  const tokens = strippedName.split(/\s+/).filter(Boolean);
+  const articleKeyword = articleTitle ? buildArticleSearchKeyword(articleTitle) : '';
+  const categoryKeywords = CATEGORY_SEARCH_RULES[category]?.keywords ?? [];
+
+  return uniqueStrings([
+    baseKeyword,
+    strippedName,
+    tokens.slice(0, 4).join(' '),
+    tokens.slice(0, 3).join(' '),
+    ...categoryKeywords.slice(0, 2),
+    articleKeyword,
+  ])
+    .filter(keyword => keyword.length >= 2)
+    .slice(0, 6);
+}
+
+async function collectProductMatchCandidates(searchKeywords, maxCandidates = 10) {
+  const candidates = [];
+  const seenUrls = new Set();
+
+  for (const keyword of searchKeywords) {
+    let fetched = [];
+    try {
+      fetched = await fetchRakutenSearchMany(keyword, 10);
+    } catch {
+      continue;
+    }
+
+    for (const item of fetched) {
+      const directItemUrl = toDirectItemUrl(item.itemUrl) ?? toDirectItemUrl(item.affiliateUrl) ?? item.itemUrl ?? null;
+      const dedupeKey = directItemUrl ?? item.affiliateUrl ?? item.name;
+      if (!dedupeKey || seenUrls.has(dedupeKey)) continue;
+      seenUrls.add(dedupeKey);
+      candidates.push({
+        itemName: item.name ?? '',
+        itemUrl: item.itemUrl ?? directItemUrl,
+        directItemUrl,
+        affiliateUrl: item.affiliateUrl ?? null,
+        price: item.price ?? null,
+        rating: item.rating ?? null,
+        reviewCount: item.reviewCount ?? null,
+        imageUrl: item.imageUrl ?? null,
+        capacityExtracted: item.name ? extractCapacityFromItemName(item.name) : null,
+        sourceKeyword: keyword,
+      });
+      if (candidates.length >= maxCandidates) return candidates;
+    }
+  }
+
+  return candidates;
+}
+
+function isPlaceholderProductUrl(url) {
+  if (!url || typeof url !== 'string') return false;
+  return url.includes('example.com') || url.includes('/placeholder/');
+}
+
+function getFailureStage(errorMessage, existingItemRef, existingUrl) {
+  errorMessage = String(errorMessage ?? '');
+  if (isPlaceholderProductUrl(existingUrl)) return 'placeholder-url';
+  if (errorMessage.includes('keyword is not valid')) return 'search-keyword-invalid';
+  if (errorMessage.includes('0件') || errorMessage.includes('通常商品が見つかりません')) return 'search-zero-result';
+  if (errorMessage.includes('商品名が現在の商品と一致しません')) return 'item-name-mismatch';
+  if (errorMessage.includes('APIで確認できません')) return 'item-get-failed';
+  if (existingItemRef) return 'item-update-failed';
+  return 'update-failed';
+}
+
+async function buildProductMatchReportItem({ file, category, articleTitle, content, productName, error, existingItemRef }) {
+  const errorMessage = error instanceof Error ? error.message : String(error ?? '');
+  const current = extractProductSnapshot(content, productName);
+  const products = extractAllProductsData(content);
+  const productBasic = products.find(product => product.name === productName);
+  const existingUrl = current?.rakutenUrl ?? productBasic?.rakutenUrl ?? null;
+  const searchKeywords = buildProductMatchSearchKeywords({ productName, articleTitle, category });
+  const candidates = await collectProductMatchCandidates(searchKeywords);
+
+  return {
+    articleFile: `src/content/articles/${file}`,
+    rank: productBasic?.rank ?? null,
+    category,
+    current: {
+      name: current?.name ?? productName,
+      capacity: current?.capacity ?? null,
+      price: current?.price ?? null,
+      pricePerUnit: current?.pricePerUnit ?? null,
+      rating: current?.rating ?? null,
+      reviewCount: current?.reviewCount ?? null,
+      rakutenUrl: existingUrl,
+      imageUrl: current?.imageUrl ?? null,
+    },
+    failure: {
+      stage: getFailureStage(errorMessage, existingItemRef, existingUrl),
+      error: errorMessage,
+      existingItemRef,
+    },
+    searchKeywords,
+    candidates,
+  };
 }
 
 const CATEGORY_SEARCH_RULES = {
@@ -1448,6 +1573,7 @@ async function main() {
   let totalCapacityMissing = 0;
   let totalDeleted = 0;
   const capacityReviewItems = [];
+  const productMatchItems = [];
   let consecutiveZeroResults = 0; // 連続0件カウンター（API障害検知用）
 
   for (const file of files) {
@@ -1455,6 +1581,7 @@ async function main() {
     const content = readFileSync(filePath, 'utf-8');
     const productNames = extractProductNames(content);
     const articleCategory = extractArticleCategory(content) ?? file.replace(/-comparison\.md$/, '');
+    const articleTitle = extractArticleTitle(content) ?? '';
 
     console.log(`\n📄 ${file} (${productNames.length}商品)`);
 
@@ -1724,12 +1851,33 @@ async function main() {
         totalSuccess++;
         consecutiveZeroResults = 0; // 成功したらリセット
       } catch (e) {
+        const errorMessage = e instanceof Error ? e.message : String(e ?? '');
+        let queuedProductMatch = false;
+        try {
+          const matchItem = await buildProductMatchReportItem({
+            file,
+            category: articleCategory,
+            articleTitle,
+            content: updatedContent,
+            productName: name,
+            error: e,
+            existingItemRef,
+          });
+          productMatchItems.push(matchItem);
+          queuedProductMatch = true;
+          console.log(`\n      product match候補: ${matchItem.candidates.length}件（${matchItem.failure.stage}）`);
+        } catch (reportError) {
+          console.log(`\n      product match候補生成失敗: ${reportError.message}`);
+        }
+
         // 機能2: 検索0件エラー時は商品ブロックを自動削除
-        const isZeroResult = e.message.includes('0件') || e.message.includes('通常商品が見つかりません');
-        if (isZeroResult) {
+        const isZeroResult = errorMessage.includes('0件') || errorMessage.includes('通常商品が見つかりません');
+        if (isZeroResult && queuedProductMatch) {
+          console.log(`❌ ${errorMessage} ⚠ AI商品照合候補に追加したため削除スキップ`);
+        } else if (isZeroResult) {
           if (existingItemRef) {
-            console.log(`❌ ${e.message} ⚠ 削除スキップ（既存 rakutenUrl あり: ${existingItemRef.shopCode}/${existingItemRef.itemCode}）`);
-            results.push({ success: false, name: shortName, reason: e.message });
+            console.log(`❌ ${errorMessage} ⚠ 削除スキップ（既存 rakutenUrl あり: ${existingItemRef.shopCode}/${existingItemRef.itemCode}）`);
+            results.push({ success: false, name: shortName, reason: errorMessage });
             fileStats.failed++;
             totalFail++;
             await new Promise(r => setTimeout(r, 2000));
@@ -1758,7 +1906,7 @@ async function main() {
           // API正常 → 廃番と判断して削除
           const removed = removeProductFromFrontmatter(updatedContent, name);
           if (removed === null) {
-            console.log(`❌ ${e.message} ⚠ 削除スキップ（最後の1商品）`);
+            console.log(`❌ ${errorMessage} ⚠ 削除スキップ（最後の1商品）`);
           } else if (!DRY_RUN) {
             updatedContent = removed;
             fileStats.deleted++;
@@ -1770,9 +1918,9 @@ async function main() {
             console.log(`🗑 [dry-run] 削除予定: "${name}"`);
           }
         } else {
-          console.log(`❌ ${e.message}`);
+          console.log(`❌ ${errorMessage}`);
         }
-        results.push({ success: false, name: shortName, reason: e.message });
+        results.push({ success: false, name: shortName, reason: errorMessage });
         fileStats.failed++;
         totalFail++;
       }
@@ -1816,6 +1964,11 @@ async function main() {
   if (capacityReport) {
     console.log(`capacity review report: ${capacityReport.mdPath}`);
     console.log(`AI capacity input: ${capacityReport.jsonlPath}`);
+  }
+  const productMatchReport = writeProductMatchReport(productMatchItems);
+  if (productMatchReport) {
+    console.log(`product match input: ${productMatchReport}`);
+    console.log(`product match items: ${productMatchItems.length}`);
   }
   if (!DRY_RUN && totalSuccess > 0) {
     console.log('各ファイルの .bak でいつでも元に戻せます。');
