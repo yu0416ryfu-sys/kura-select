@@ -8,9 +8,9 @@ products:
   - rank: 1
     name: "大日本除蟲菊 タンスにゴンゴン 衣類の防虫剤 クローゼット用 無臭"
     brand: "白元アース（タンスにゴン）"
-    price: 657
+    price: 617
     capacity: "3個"
-    pricePerUnit: "約219円/個"
+    pricePerUnit: "約206円/個"
     rating: 4.82
     reviewCount: 11
     features:
@@ -74,7 +74,7 @@ products:
   - rank: 4
     name: "アース製薬 衣類防虫剤 クローゼット 24個入"
     brand: "アース製薬"
-    price: 616
+    price: 625
     capacity: "-"
     pricePerUnit: "-"
     rating: 5
