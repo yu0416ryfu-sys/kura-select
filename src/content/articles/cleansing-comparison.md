@@ -56,7 +56,7 @@ products:
     capacity: "400mL"
     pricePerUnit: "約9.4円/mL"
     rating: 4.65
-    reviewCount: 1048
+    reviewCount: 1049
     features:
       - "天然由来成分を重視したクレンジングオイル"
       - "400mLの大容量タイプ"
@@ -210,7 +210,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約44円/mL"
     rating: 4.57
-    reviewCount: 1639
+    reviewCount: 1640
     features:
       - "発酵オイルを配合したクレンジングオイル"
       - "W洗顔不要でメイクと毛穴汚れを落とす"
@@ -225,116 +225,6 @@ products:
     recommendedFor: "発酵由来成分のクレンジングを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3u5n.3rdw6176.g00u3u5n.3rdw7186/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkins%2Fv_41744114712753%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkins%2Fi%2F10000027%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kins/cabinet/item/11808837/13043807/thumb_1_1.jpg?_ex=128x128"
-  - rank: 11
-    name: "プリュ アミノ モイスチュア クレンジングジェル 300g"
-    brand: "PLuS"
-    price: 2826
-    capacity: "300g"
-    pricePerUnit: "約9.4円/g"
-    rating: 4.39
-    reviewCount: 9579
-    features:
-      - "蒟蒻スクラブ入りのクレンジングジェル"
-      - "300gの大容量ボトルタイプ"
-      - "W洗顔不要で使える美容液クレンジング"
-    pros:
-      - "大容量で毎日使いやすい"
-      - "ジェルがメイクとなじみやすい"
-      - "乾燥肌でも使いやすいしっとり系"
-    cons:
-      - "スクラブ感が苦手な方には不向き"
-      - "濃いアイメイクは落ちにくい場合がある"
-    recommendedFor: "ジェルタイプで毛穴汚れもケアしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po0zn.3rdw627e.g00po0zn.3rdw7621/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fplacge1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10005375%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/html3/amicle03_moff20.jpg?_ex=128x128"
-  - rank: 12
-    name: "ink.LiT クレンジングバーム 無香料 90g×3個"
-    brand: "ink.LiT"
-    price: 2980
-    capacity: "90g×3個"
-    pricePerUnit: "約11円/g"
-    rating: 4.59
-    reviewCount: 1619
-    features:
-      - "90gバームの3個セット"
-      - "W洗顔不要で毛穴ケアにも使える"
-      - "無香料・無着色など7つのフリー設計"
-    pros:
-      - "まとめ買いで単価を抑えやすい"
-      - "バームタイプでメイク汚れになじませやすい"
-      - "セラミドなど保湿成分を配合"
-    cons:
-      - "3個セットなので初回購入量が多い"
-      - "バーム特有の油分感が残る場合がある"
-    recommendedFor: "クレンジングバームをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00smron.3rdw6bb1.g00smron.3rdw76f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F129-ink%2Fink04-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F129-ink%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/129-ink/cabinet/products/barm/2025bestcosme/muzi3.jpg?_ex=128x128"
-  - rank: 13
-    name: "オルナオーガニック クレンジングジェル 130g"
-    brand: "ALLNA ORGANIC"
-    price: 2200
-    capacity: "130g"
-    pricePerUnit: "約17円/g"
-    rating: 4.6
-    reviewCount: 3317
-    features:
-      - "美容液成分を多く配合したジェルタイプ"
-      - "毛穴汚れやメイクになじませて落とす"
-      - "マツエク中でも使いやすい処方"
-    pros:
-      - "ジェルタイプで摩擦を抑えながら使いやすい"
-      - "植物由来成分や保湿成分を重視した設計"
-      - "130gで日常使いしやすい容量"
-    cons:
-      - "濃いポイントメイクは専用リムーバー併用が安心"
-      - "W洗顔が必要な場合がある"
-    recommendedFor: "毛穴汚れが気になる方・ジェルタイプを選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b01ennx47u%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000257%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/event/20260509m/905b01ennx47u-50.jpg?_ex=128x128"
-  - rank: 14
-    name: "パーフェクトワン フォーカス スムースクレンジングバーム 75g"
-    brand: "PERFECT ONE FOCUS"
-    price: 2970
-    capacity: "75g"
-    pricePerUnit: "約40円/g"
-    rating: 4.67
-    reviewCount: 1812
-    features:
-      - "とろけるバームでメイクや毛穴汚れになじむ"
-      - "W洗顔不要で時短しやすい"
-      - "ビタミンC誘導体や保湿成分を配合"
-    pros:
-      - "バームタイプでしっかりメイクにも使いやすい"
-      - "洗い上がりがしっとりしやすい"
-      - "スパチュラ不要なやわらかいテクスチャー"
-    cons:
-      - "75gで大容量タイプより単価は高め"
-      - "バームをなじませる手間がある"
-    recommendedFor: "毛穴汚れが気になる方・バームタイプを試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prrun.3rdw68b1.g00prrun.3rdw74b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshinnihonseiyaku%2Ffocus_scb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshinnihonseiyaku%2Fi%2F10000478%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shinnihonseiyaku/cabinet/cmp/260509/scbrn_thumb.jpg?_ex=128x128"
-  - rank: 15
-    name: "ロゼット 夢みるバーム 選べる2個セット"
-    brand: "ロゼット"
-    price: 3960
-    capacity: "2個"
-    pricePerUnit: "約1980円/個"
-    rating: 4.66
-    reviewCount: 1690
-    features:
-      - "メイク落としに使うクレンジング"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "メイクの濃さに合わせて選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "肌質や使用感の好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "メイクの濃さに合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u529n.3rdw64b3.g00u529n.3rdw7138/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frosette-shop%2Fyumemiru_ksm_2ps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frosette-shop%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rosette-shop/cabinet/thumbna/10856923/13241016/imgrc0116339662.jpg?_ex=128x128"
 tags:
   - "クレンジング おすすめ"
   - "クレンジング コスパ"

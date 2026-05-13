@@ -56,7 +56,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 10926
+    reviewCount: 10927
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -225,72 +225,6 @@ products:
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rx8qn.3rdw6a27.g00rx8qn.3rdw73bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshizenshop%2Fwhitening-powder%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshizenshop%2Fi%2F10000299%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shizenshop/cabinet/whitening-powder/thumbnail4.jpg?_ex=128x128"
-  - rank: 11
-    name: "ちゅらトゥースホワイトニング"
-    brand: "ちゅらトゥース"
-    price: 3975
-    capacity: "30g"
-    pricePerUnit: "約133円/g"
-    rating: 4.19
-    reviewCount: 912
-    features:
-      - "毎日の歯みがきに使える歯磨き粉"
-      - "ホワイトニングや口臭ケア系も選べる"
-      - "容量で比較しやすい"
-    pros:
-      - "日常ケアに取り入れやすい"
-      - "目的別に選べる"
-      - "ストックしやすい"
-    cons:
-      - "成分や使用感の好みは分かれる"
-      - "医薬部外品表記の確認が必要"
-    recommendedFor: "歯磨き粉を目的と容量で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tey3n.3rdw69dd.g00tey3n.3rdw7949/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchuracos%2Fr_churatooth-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchuracos%2Fi%2F10000010%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/churacos/cabinet/churatooth_pc/churat_thumbnail_01.jpg?_ex=128x128"
-  - rank: 12
-    name: "シュミテクト プロエナメル 90g×3本セット"
-    brand: "グラクソ・スミスクライン（シュミテクト）"
-    price: 5130
-    capacity: "-"
-    pricePerUnit: "-"
-    rating: 4.5
-    reviewCount: 1020
-    features:
-      - "知覚過敏ケアの専用処方"
-      - "酸による歯のダメージをケア"
-      - "フッ素1450ppm配合で虫歯予防も"
-    pros:
-      - "知覚過敏・しみる痛みに高い効果"
-      - "酸蝕歯へのケアができる唯一のブランド"
-      - "使い続けることで効果が実感しやすい"
-    cons:
-      - "知覚過敏でない方にはやや割高"
-      - "泡立ちが少なく慣れが必要"
-    recommendedFor: "冷たいもの・熱いものがしみる方・酸蝕歯が気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tth2n.3rdw67a0.g00tth2n.3rdw76f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F14promo%2F20240423-1300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F14promo%2Fi%2F10027463%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/14promo/cabinet/imgrc0114569557.jpg?_ex=128x128"
-  - rank: 13
-    name: "OraLuLu 薬用ホワイトニング歯磨き粉"
-    brand: "OraLuLu"
-    price: 0
-    capacity: "150g"
-    pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "毎日の歯みがきに使える歯磨き粉"
-      - "ホワイトニングや口臭ケア系も選べる"
-      - "容量で比較しやすい"
-    pros:
-      - "日常ケアに取り入れやすい"
-      - "目的別に選べる"
-      - "ストックしやすい"
-    cons:
-      - "成分や使用感の好みは分かれる"
-      - "医薬部外品表記の確認が必要"
-    recommendedFor: "歯磨き粉を目的と容量で比較したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/life-plus-one/tooth-paste/"
-    imageUrl: ""
 tags:
   - "歯磨き粉"
   - "コスパ"

@@ -122,7 +122,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約5.6円/枚"
     rating: 4.76
-    reviewCount: 243
+    reviewCount: 245
     features:
       - "使い切りで使える作業用手袋"
       - "継続利用しやすい定番構成"
@@ -225,94 +225,6 @@ products:
     recommendedFor: "掃除や調理補助に備えやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz0kn.3rdw6a1c.g00tz0kn.3rdw7d29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbt-iimono%2Fdj-blue-01-100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbt-iimono%2Fi%2F10000176%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bt-iimono/cabinet/08681942/100.jpg?_ex=128x128"
-  - rank: 11
-    name: "【楽天1位★最安挑戦】ニトリル手袋"
-    brand: "業務用"
-    price: 1380
-    capacity: "100枚"
-    pricePerUnit: "約14円/枚"
-    rating: 4.71
-    reviewCount: 1240
-    features:
-      - "ニトリル素材で油・薬品にも強い高い耐久性"
-      - "手にフィットして細かい作業もしやすい"
-      - "粉なしタイプで手肌にやさしい"
-    pros:
-      - "フィット感が良く調理・掃除に最適"
-      - "油汚れ・洗剤にも強い耐薬品性"
-      - "ラテックスアレルギーの方も使える"
-    cons:
-      - "ポリエチレンと比べるとやや高い"
-      - "密着性が高いため蒸れやすい"
-    recommendedFor: "フィット感重視の方・掃除や油汚れ作業に・ラテックスアレルギーの方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz97n.3rdw61ff.g00tz97n.3rdw7e95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrinity-cosme%2Fsan350532x1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrinity-cosme%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/trinity-cosme/cabinet/09165139/09165140/imgrc0106437735.jpg?_ex=128x128"
-  - rank: 12
-    name: "【楽天1位★最安挑戦】ニトリル手袋"
-    brand: "ショーワグローブ"
-    price: 1380
-    capacity: "100枚"
-    pricePerUnit: "約14円/枚"
-    rating: 4.71
-    reviewCount: 1222
-    features:
-      - "PVC（ポリ塩化ビニル）素材でほどよいフィット感"
-      - "粉なしで手荒れしにくい"
-      - "ニトリルとポリエチレンの中間的な性能"
-    pros:
-      - "ニトリルより安くポリエチレンよりフィットする"
-      - "料理・掃除・介護に幅広く使える"
-      - "ショーワグローブの品質で安心"
-    cons:
-      - "油や有機溶剤に対する耐性はニトリルに劣る"
-      - "長時間使用では手が蒸れやすい"
-    recommendedFor: "コスパとフィット感のバランス重視の方・介護用途に"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz97n.3rdw61ff.g00tz97n.3rdw7e95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrinity-cosme%2Fsan350532x1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrinity-cosme%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/trinity-cosme/cabinet/09165139/09165140/imgrc0106437735.jpg?_ex=128x128"
-  - rank: 13
-    name: "ファミリー 使いきり手袋 ビニール 極うす手 100枚"
-    brand: "エステー（ファミリー）"
-    price: 1665
-    capacity: "100枚"
-    pricePerUnit: "約17円/枚"
-    rating: 4.2
-    reviewCount: 100
-    features:
-      - "家庭用手袋メーカーの安心品質"
-      - "薄手でフィット感がありつつ丈夫"
-      - "パウダーフリーで手肌にやさしい"
-    pros:
-      - "エステーの品質管理で安心"
-      - "スーパー・ドラッグストアで手に入りやすい"
-      - "薄手で手の感覚を損なわない"
-    cons:
-      - "100枚入りのみで大容量パックがない"
-      - "業務用と比べるとコスパは劣る"
-    recommendedFor: "市販品で手軽に買いたい方・品質重視の方・少量使いの方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uoa7n.3rdw6ad2.g00uoa7n.3rdw7444/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feiseidou-store%2Fys01jfxq2ko%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feiseidou-store%2Fi%2F10053337%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eiseidou-store/cabinet/gazou1pic/systempic047/ys01jfxq2ko1.jpg?_ex=128x128"
-  - rank: 14
-    name: "エステー モデルローブ No.1200 フードタッチグローブ"
-    brand: "エステー"
-    price: 2480
-    capacity: "1個"
-    pricePerUnit: "約2480円/個"
-    rating: 5
-    reviewCount: 2
-    features:
-      - "使い切りで使える作業用手袋"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "掃除や調理補助に備えやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "素材やサイズの相性を確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "掃除や調理補助に備えやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00su0un.3rdw6dd4.g00su0un.3rdw713c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamashita-yamasen%2F1200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamashita-yamasen%2Fi%2F10000382%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamashita-yamasen/cabinet/item_images/st/st_1200_1.jpg?_ex=128x128"
 tags:
   - "使い捨て手袋"
   - "ニトリル手袋"

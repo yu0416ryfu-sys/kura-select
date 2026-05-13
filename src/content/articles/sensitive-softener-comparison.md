@@ -28,6 +28,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe534100h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10635765%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/517/4582469502517.jpg?_ex=128x128"
   - rank: 2
+    name: "ランドリン ティーフレグランス グッドティータイム 柔軟剤"
+    brand: "ネイチャーラボ（ランドリン）"
+    price: 800
+    capacity: "600mL"
+    pricePerUnit: "約1.3円/mL"
+    rating: 4.63
+    reviewCount: 172
+    features:
+      - "無添加・オーガニック処方の液体柔軟剤"
+      - "植物由来成分配合のボタニカル処方"
+      - "ダージリンレモンティーなど紅茶・ハーブ系の香りを選択可能"
+    pros:
+      - "無添加処方で香りにこだわりながら低刺激を求める方に向く"
+      - "複数の香りバリエーションから好みで選べる"
+      - "抗菌・防臭機能も備えており実用性が高い"
+    cons:
+      - "茶系の香りが好みに合わない場合は選択肢が限られる"
+      - "天然由来の香料でも人によってはアレルギー反応が出る場合がある"
+    recommendedFor: "香りにこだわりたい敏感肌の方・オーガニック志向でティー系の香りが好きな方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2Flaundrin-teatime%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10006940%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08869620/imgrc0118802483.jpg?_ex=128x128"
+  - rank: 3
     name: "送料無料　ファーファ　フリー＆　濃縮柔軟剤　無香料　エコパックお試しセット　本体"
     brand: "NSファーファ・ジャパン"
     price: 1370
@@ -49,7 +71,7 @@ products:
     recommendedFor: "化学物質過敏症の方・香料アレルギーの方・徹底的に無添加を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2Fs970428%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10002109%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/06059944/imgrc0118446811.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "【シリーズ累計50万本突破】ランドリーボトル 洗濯ボトル 洗剤ボトル ［セット "
     brand: "P&G（さらさ）"
     price: 2664
@@ -71,7 +93,7 @@ products:
     recommendedFor: "赤ちゃんがいる家庭・敏感肌の方・無添加にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1osn.3rdw6db5.g00r1osn.3rdw76c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarasa-designstore%2Fset-ls021x3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarasa-designstore%2Fi%2F10002237%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sarasa-designstore/cabinet/c05/set-ls021x3_ver2.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "ベビー ファーファ 濃縮 柔軟剤 詰替"
     brand: "NSファーファ・ジャパン（ベビーファーファ）"
     price: 8178
@@ -93,28 +115,6 @@ products:
     recommendedFor: "新生児から使いたい方・天然由来の香りが好きな方・赤ちゃん専用にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3i4n.3rdw6daa.g00u3i4n.3rdw7473/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgr-online%2Fooc91bd2d3ac%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgr-online%2Fi%2F10045762%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gr-online/cabinet/onesell021/ooc91bd2d3ac.jpg?_ex=128x128"
-  - rank: 5
-    name: "ランドリン ティーフレグランス グッドティータイム 柔軟剤"
-    brand: "ネイチャーラボ（ランドリン）"
-    price: 0
-    capacity: "600mL"
-    pricePerUnit: "0円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "無添加・オーガニック処方の液体柔軟剤"
-      - "植物由来成分配合のボタニカル処方"
-      - "ダージリンレモンティーなど紅茶・ハーブ系の香りを選択可能"
-    pros:
-      - "無添加処方で香りにこだわりながら低刺激を求める方に向く"
-      - "複数の香りバリエーションから好みで選べる"
-      - "抗菌・防臭機能も備えており実用性が高い"
-    cons:
-      - "茶系の香りが好みに合わない場合は選択肢が限られる"
-      - "天然由来の香料でも人によってはアレルギー反応が出る場合がある"
-    recommendedFor: "香りにこだわりたい敏感肌の方・オーガニック志向でティー系の香りが好きな方"
-    rakutenUrl: "https://item.rakuten.co.jp/naturelab/laundrin-teatime/"
-    imageUrl: ""
 tags:
   - "柔軟剤"
   - "敏感肌"

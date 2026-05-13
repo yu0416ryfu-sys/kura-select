@@ -34,7 +34,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約6.0円/枚"
     rating: 4.16
-    reviewCount: 3690
+    reviewCount: 3691
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -100,7 +100,7 @@ products:
     capacity: "20枚"
     pricePerUnit: "約14円/枚"
     rating: 4.06
-    reviewCount: 9151
+    reviewCount: 9153
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -225,94 +225,6 @@ products:
     recommendedFor: "コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4967576481694-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12363072%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2021b/4967576481694.jpg?_ex=128x128"
-  - rank: 11
-    name: "子供用不織布マスク 153枚セット"
-    brand: "MTKSHOP"
-    price: 0
-    capacity: "153枚"
-    pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "使い捨て不織布マスク"
-      - "日常使いしやすい枚数"
-      - "サイズや形状で選びやすい"
-    pros:
-      - "まとめ買いしやすい"
-      - "家族用に備えやすい"
-      - "通勤・通学に使いやすい"
-    cons:
-      - "顔のサイズに合うか確認が必要"
-      - "色や形状の好みは分かれる"
-    recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/mtkshop/145-cms50-2/"
-    imageUrl: ""
-  - rank: 12
-    name: "不織布プリーツマスク 大容量セット"
-    brand: "SHINKO"
-    price: 0
-    capacity: "200枚"
-    pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "使い捨て不織布マスク"
-      - "日常使いしやすい枚数"
-      - "サイズや形状で選びやすい"
-    pros:
-      - "まとめ買いしやすい"
-      - "家族用に備えやすい"
-      - "通勤・通学に使いやすい"
-    cons:
-      - "顔のサイズに合うか確認が必要"
-      - "色や形状の好みは分かれる"
-    recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/shinko9868/masks-daerduo2-200/"
-    imageUrl: ""
-  - rank: 13
-    name: "立体バイカラーマスク"
-    brand: "ashop"
-    price: 0
-    capacity: "40枚"
-    pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "使い捨て不織布マスク"
-      - "日常使いしやすい枚数"
-      - "サイズや形状で選びやすい"
-    pros:
-      - "まとめ買いしやすい"
-      - "家族用に備えやすい"
-      - "通勤・通学に使いやすい"
-    cons:
-      - "顔のサイズに合うか確認が必要"
-      - "色や形状の好みは分かれる"
-    recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/ashop/ny439/"
-    imageUrl: ""
-  - rank: 14
-    name: "大容量3D不織布マスク"
-    brand: "alice-zk"
-    price: 0
-    capacity: "80枚"
-    pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "使い捨て不織布マスク"
-      - "日常使いしやすい枚数"
-      - "サイズや形状で選びやすい"
-    pros:
-      - "まとめ買いしやすい"
-      - "家族用に備えやすい"
-      - "通勤・通学に使いやすい"
-    cons:
-      - "顔のサイズに合うか確認が必要"
-      - "色や形状の好みは分かれる"
-    recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/alice-zk/ny473/"
-    imageUrl: ""
 tags:
   - "使い捨てマスク おすすめ"
   - "不織布マスク コスパ"

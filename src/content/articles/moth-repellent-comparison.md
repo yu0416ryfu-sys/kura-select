@@ -1,11 +1,77 @@
 ---
-title: "衣類防虫剤 コスパ最強ランキング【2026年版】1個あたり最安で比較15選"
+title: "衣類防虫剤 コスパ最強ランキング【2026年版】1個あたり最安で比較10選"
 description: "クローゼット用衣類防虫剤を1個あたりのコストで徹底比較。ムシューダ・タンスにゴン・天然樟脳・アース製薬など人気15選を防虫力・コスパで解説します。"
 category: "moth-repellent"
 publishedAt: "2026-05-04"
 updatedAt: 2026-05-13
 products:
   - rank: 1
+    name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×2箱セット"
+    brand: "エステー（ムシューダ）"
+    price: 1779
+    capacity: "32個×2箱"
+    pricePerUnit: "約28円/個"
+    rating: 4.79
+    reviewCount: 123
+    features:
+      - "引き出し・衣装ケース用に最適化された設計"
+      - "1年間有効で交換頻度を抑えられる"
+      - "2箱セットで複数の収納をまとめてカバー"
+    pros:
+      - "2箱セットで引き出しを多く持つ家庭に対応"
+      - "年1回の交換で管理コストを抑えられる"
+      - "衣装ケース専用サイズで効率よく防虫成分が広がる"
+    cons:
+      - "まとめ購入のため在庫保管スペースが必要"
+      - "クローゼット用とは別購入が必要な場合がある"
+    recommendedFor: "引き出し・衣装ケースが多くまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65238%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902779%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/238/65238.jpg?_ex=128x128"
+  - rank: 2
+    name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×3箱セット"
+    brand: "エステー（ムシューダ）"
+    price: 2640
+    capacity: "32個×3箱"
+    pricePerUnit: "約28円/個"
+    rating: 4.67
+    reviewCount: 86
+    features:
+      - "3箱セットで大量の引き出し・衣装ケースをまとめてカバー"
+      - "1年間有効でシーズン交換の手間を最小化"
+      - "引き出し・衣装ケース専用設計で効果的に防虫成分が広がる"
+    pros:
+      - "3箱まとめ買いで長期ストックが可能"
+      - "引き出し収納が多い家庭にコスパよく対応"
+      - "1年有効で年1回の管理が楽"
+    cons:
+      - "大量購入のため保管場所を確保する必要がある"
+      - "クローゼット吊り下げタイプと用途が異なる"
+    recommendedFor: "引き出し収納が多く長期ストックしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902786%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/245/65245.jpg?_ex=128x128"
+  - rank: 3
+    name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入"
+    brand: "エステー（ムシューダ）"
+    price: 1045
+    capacity: "32個"
+    pricePerUnit: "約33円/個"
+    rating: 4.52
+    reviewCount: 124
+    features:
+      - "引き出し・衣装ケース専用設計で省スペース収納に対応"
+      - "1年間有効で年1回交換の手間が少ない"
+      - "32個入の大容量でたっぷり使える"
+    pros:
+      - "引き出し収納に特化した形状で設置しやすい"
+      - "大容量32個入でまとめ買いに最適"
+      - "エステーブランドで品質が安定している"
+    cons:
+      - "クローゼット吊り下げタイプとは別途購入が必要"
+      - "大量入りのため使い切るまでに時間がかかる場合がある"
+    recommendedFor: "引き出し・衣装ケース収納が多い方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe392400h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10428447%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/045/4901070303045.jpg?_ex=128x128"
+  - rank: 4
     name: "大日本除蟲菊 タンスにゴンゴン 衣類の防虫剤 クローゼット用 無臭"
     brand: "白元アース（タンスにゴン）"
     price: 617
@@ -27,7 +93,51 @@ products:
     recommendedFor: "防虫・防カビ・消臭をまとめてケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4987115842472%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10436024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0053/4987115842472_1.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 5
+    name: "ムシューダ クローゼット用 防カビ剤配合 無香タイプ 1年間有効 3個入×5箱セット"
+    brand: "エステー（ムシューダ）"
+    price: 3982
+    capacity: "3個×5箱"
+    pricePerUnit: "約265円/個"
+    rating: 4.67
+    reviewCount: 21
+    features:
+      - "5箱セットでクローゼットを長期間まとめてカバー"
+      - "防虫・防カビの2役を1年間有効で発揮"
+      - "無香タイプで衣類への香り移りを最小限に抑える"
+    pros:
+      - "5箱の大容量セットで複数クローゼットを長期管理"
+      - "防カビ剤配合で湿気が多い時季も安心"
+      - "まとめ買いで購入コストと手間を削減できる"
+    cons:
+      - "大量購入のため使い切るまでに時間がかかる"
+      - "保管場所が必要なためスペースの確保が求められる"
+    recommendedFor: "クローゼットが多く長期ストックで管理したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65253%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902794%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/253/65253.jpg?_ex=128x128"
+  - rank: 6
+    name: "ムシューダ クローゼット用 防カビ剤配合 無香タイプ 1年間有効 3個入×3箱セット"
+    brand: "エステー（ムシューダ）"
+    price: 2409
+    capacity: "3個×3箱"
+    pricePerUnit: "約268円/個"
+    rating: 4.77
+    reviewCount: 119
+    features:
+      - "防虫・防カビの2役を1年間有効でカバー"
+      - "無香タイプで衣類への香り移りを防ぐ"
+      - "まとめ買いでクローゼット複数箇所をまとめて管理できる"
+    pros:
+      - "3箱セットで複数のクローゼットをまとめてケアできる"
+      - "防カビ剤配合で湿気の多い季節も安心"
+      - "無香タイプで香りに敏感な方にも使いやすい"
+    cons:
+      - "個単価はまとめ買いの箱数により異なる"
+      - "大量購入のため保管スペースが必要"
+    recommendedFor: "複数のクローゼットをまとめて防虫・防カビケアしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65247%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902788%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/247/65247.jpg?_ex=128x128"
+  - rank: 7
     name: "ムシューダ クローゼット用 衣類用 防虫剤 防カビ剤配合 無香タイプ 1年間有効"
     brand: "エステー（ムシューダ）"
     price: 1628
@@ -49,7 +159,51 @@ products:
     recommendedFor: "管理を楽にしたい方・年1回まとめ替えしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65240%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902781%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/240/65240.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 8
+    name: "ムシューダ ウォークインクローゼット専用 無香タイプ 1年間有効 3個入×3箱セット"
+    brand: "エステー（ムシューダ）"
+    price: 4455
+    capacity: "3個×3箱"
+    pricePerUnit: "約495円/個"
+    rating: 4.59
+    reviewCount: 22
+    features:
+      - "ウォークインクローゼット専用の大容量まとめ買いセット"
+      - "無香タイプで香りの好みを問わず使える"
+      - "3箱セットで長期間のストックが可能"
+    pros:
+      - "3箱まとめ買いでウォークインクローゼットを長期間カバー"
+      - "無香タイプで家族全員が使いやすい"
+      - "まとめ買いで購入の手間を減らせる"
+    cons:
+      - "大量購入のため保管スペースを確保する必要がある"
+      - "ウォークインクローゼット専用で他の収納との兼用はしにくい"
+    recommendedFor: "ウォークインクローゼットを長期まとめケアしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65248%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902789%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/248/65248.jpg?_ex=128x128"
+  - rank: 9
+    name: "ムシューダ ウォークインクローゼット専用 無香タイプ 1年間有効 3個入"
+    brand: "エステー（ムシューダ）"
+    price: 1695
+    capacity: "3個"
+    pricePerUnit: "約565円/個"
+    rating: 4.6
+    reviewCount: 45
+    features:
+      - "ウォークインクローゼット専用設計で広い空間をカバー"
+      - "無香タイプで衣類への香り移りを防ぐ"
+      - "1年間有効で年1回交換の管理が楽"
+    pros:
+      - "ウォークインクローゼットの広い空間に対応した防虫効果"
+      - "無香タイプで香りに敏感な方でも使いやすい"
+      - "通常のクローゼット用より広範囲を1個でカバー"
+    cons:
+      - "通常クローゼット用との使い分けが必要"
+      - "専用品のため汎用性は限られる"
+    recommendedFor: "ウォークインクローゼットをしっかり防虫したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa003200200111%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10121630%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/444/4901070302444.jpg?_ex=128x128"
+  - rank: 10
     name: "【（1個）セット】 大日本除虫菊 金鳥 蚊に効く 虫コナーズプレ"
     brand: "フマキラー（ムシコナーズ）"
     price: 6584
@@ -71,270 +225,6 @@ products:
     recommendedFor: "高品質な衣類・コートをしっかり守りたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r9icn.3rdw664a.g00r9icn.3rdw7660/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbloomgreen%2F8111242%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbloomgreen%2Fi%2F10498570%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bloomgreen/cabinet/bg10187334/4987115550025.jpg?_ex=128x128"
-  - rank: 4
-    name: "アース製薬 衣類防虫剤 クローゼット 24個入"
-    brand: "アース製薬"
-    price: 625
-    capacity: "-"
-    pricePerUnit: "-"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "24個入の大容量でコスパが良い"
-      - "クローゼット全体を防虫成分でカバー"
-      - "アース製薬の害虫対策技術を応用した処方"
-    pros:
-      - "1個約42円と4製品中最もコスパが良い"
-      - "24個まとめ買いで年間コストを最小化できる"
-      - "ゴキブリ対策で有名なアース製薬の品質保証"
-    cons:
-      - "他ブランドと比べると知名度は若干低め"
-      - "24個一括購入のため少量から試しにくい"
-    recommendedFor: "コスパ最優先でまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4901080158819%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10561767%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0095/4901080158819_1.jpg?_ex=128x128"
-  - rank: 5
-    name: "ムシューダ クローゼット用 防カビ剤配合 無香タイプ 1年間有効 3個入×3箱セット"
-    brand: "エステー（ムシューダ）"
-    price: 0
-    capacity: "3個×3箱"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "防虫・防カビの2役を1年間有効でカバー"
-      - "無香タイプで衣類への香り移りを防ぐ"
-      - "まとめ買いでクローゼット複数箇所をまとめて管理できる"
-    pros:
-      - "3箱セットで複数のクローゼットをまとめてケアできる"
-      - "防カビ剤配合で湿気の多い季節も安心"
-      - "無香タイプで香りに敏感な方にも使いやすい"
-    cons:
-      - "個単価はまとめ買いの箱数により異なる"
-      - "大量購入のため保管スペースが必要"
-    recommendedFor: "複数のクローゼットをまとめて防虫・防カビケアしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/65247/"
-    imageUrl: ""
-  - rank: 6
-    name: "衣類の防虫剤 天然樟脳 10包入り"
-    brand: "私の生活"
-    price: 0
-    capacity: "10包"
-    pricePerUnit: "0円/包"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "天然樟脳100%使用で化学防虫剤が気になる方に対応"
-      - "タブレット型で引き出し・クローゼットなど場所を選ばない"
-      - "1包2粒入りで設置量を調節しやすい"
-    pros:
-      - "天然由来成分で安心感が高い"
-      - "タブレット型で取り扱いが簡単"
-      - "小容量からお試しできる"
-    cons:
-      - "天然成分のため合成防虫剤より揮散速度が異なる場合がある"
-      - "大容量入りに比べると割高になる場合がある"
-    recommendedFor: "天然素材の防虫剤を試してみたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/watasinoseikatu/sho-00002/"
-    imageUrl: ""
-  - rank: 7
-    name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入"
-    brand: "エステー（ムシューダ）"
-    price: 0
-    capacity: "32個"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "引き出し・衣装ケース専用設計で省スペース収納に対応"
-      - "1年間有効で年1回交換の手間が少ない"
-      - "32個入の大容量でたっぷり使える"
-    pros:
-      - "引き出し収納に特化した形状で設置しやすい"
-      - "大容量32個入でまとめ買いに最適"
-      - "エステーブランドで品質が安定している"
-    cons:
-      - "クローゼット吊り下げタイプとは別途購入が必要"
-      - "大量入りのため使い切るまでに時間がかかる場合がある"
-    recommendedFor: "引き出し・衣装ケース収納が多い方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/e392400h/"
-    imageUrl: ""
-  - rank: 8
-    name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×2箱セット"
-    brand: "エステー（ムシューダ）"
-    price: 0
-    capacity: "32個×2箱"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "引き出し・衣装ケース用に最適化された設計"
-      - "1年間有効で交換頻度を抑えられる"
-      - "2箱セットで複数の収納をまとめてカバー"
-    pros:
-      - "2箱セットで引き出しを多く持つ家庭に対応"
-      - "年1回の交換で管理コストを抑えられる"
-      - "衣装ケース専用サイズで効率よく防虫成分が広がる"
-    cons:
-      - "まとめ購入のため在庫保管スペースが必要"
-      - "クローゼット用とは別購入が必要な場合がある"
-    recommendedFor: "引き出し・衣装ケースが多くまとめ買いしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/65238/"
-    imageUrl: ""
-  - rank: 9
-    name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×3箱セット"
-    brand: "エステー（ムシューダ）"
-    price: 0
-    capacity: "32個×3箱"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "3箱セットで大量の引き出し・衣装ケースをまとめてカバー"
-      - "1年間有効でシーズン交換の手間を最小化"
-      - "引き出し・衣装ケース専用設計で効果的に防虫成分が広がる"
-    pros:
-      - "3箱まとめ買いで長期ストックが可能"
-      - "引き出し収納が多い家庭にコスパよく対応"
-      - "1年有効で年1回の管理が楽"
-    cons:
-      - "大量購入のため保管場所を確保する必要がある"
-      - "クローゼット吊り下げタイプと用途が異なる"
-    recommendedFor: "引き出し収納が多く長期ストックしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/65245/"
-    imageUrl: ""
-  - rank: 10
-    name: "衣類の防虫剤 天然樟脳 30包入り"
-    brand: "私の生活"
-    price: 0
-    capacity: "30包"
-    pricePerUnit: "0円/包"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "天然樟脳100%使用でナチュラル志向の方に適した防虫剤"
-      - "30包入の大容量でクローゼットや引き出しをたっぷりカバー"
-      - "タブレット型で設置場所を選ばず使いやすい"
-    pros:
-      - "天然素材のため合成化学物質が気になる方にも安心"
-      - "30包入で長期間ストックできる大容量"
-      - "独特の樟脳の香りが天然防虫効果を発揮"
-    cons:
-      - "樟脳特有の香りが好みを選ぶ場合がある"
-      - "合成防虫剤と比べると揮散の特性が異なる"
-    recommendedFor: "天然素材の大容量防虫剤をまとめ買いしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/watasinoseikatu/sho-00001/"
-    imageUrl: ""
-  - rank: 11
-    name: "ムシューダ ウォークインクローゼット専用 無香タイプ 1年間有効 3個入"
-    brand: "エステー（ムシューダ）"
-    price: 0
-    capacity: "3個"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "ウォークインクローゼット専用設計で広い空間をカバー"
-      - "無香タイプで衣類への香り移りを防ぐ"
-      - "1年間有効で年1回交換の管理が楽"
-    pros:
-      - "ウォークインクローゼットの広い空間に対応した防虫効果"
-      - "無香タイプで香りに敏感な方でも使いやすい"
-      - "通常のクローゼット用より広範囲を1個でカバー"
-    cons:
-      - "通常クローゼット用との使い分けが必要"
-      - "専用品のため汎用性は限られる"
-    recommendedFor: "ウォークインクローゼットをしっかり防虫したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/a003200200111/"
-    imageUrl: ""
-  - rank: 12
-    name: "ムシューダ ウォークインクローゼット専用 無香タイプ 1年間有効 3個入×3箱セット"
-    brand: "エステー（ムシューダ）"
-    price: 0
-    capacity: "3個×3箱"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "ウォークインクローゼット専用の大容量まとめ買いセット"
-      - "無香タイプで香りの好みを問わず使える"
-      - "3箱セットで長期間のストックが可能"
-    pros:
-      - "3箱まとめ買いでウォークインクローゼットを長期間カバー"
-      - "無香タイプで家族全員が使いやすい"
-      - "まとめ買いで購入の手間を減らせる"
-    cons:
-      - "大量購入のため保管スペースを確保する必要がある"
-      - "ウォークインクローゼット専用で他の収納との兼用はしにくい"
-    recommendedFor: "ウォークインクローゼットを長期まとめケアしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/65248/"
-    imageUrl: ""
-  - rank: 13
-    name: "ムシューダ クローゼット用 防カビ剤配合 無香タイプ 1年間有効 3個入×5箱セット"
-    brand: "エステー（ムシューダ）"
-    price: 0
-    capacity: "3個×5箱"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "5箱セットでクローゼットを長期間まとめてカバー"
-      - "防虫・防カビの2役を1年間有効で発揮"
-      - "無香タイプで衣類への香り移りを最小限に抑える"
-    pros:
-      - "5箱の大容量セットで複数クローゼットを長期管理"
-      - "防カビ剤配合で湿気が多い時季も安心"
-      - "まとめ買いで購入コストと手間を削減できる"
-    cons:
-      - "大量購入のため使い切るまでに時間がかかる"
-      - "保管場所が必要なためスペースの確保が求められる"
-    recommendedFor: "クローゼットが多く長期ストックで管理したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/65253/"
-    imageUrl: ""
-  - rank: 14
-    name: "衣類防虫剤 天然樟脳 お徳用セット"
-    brand: "私の生活"
-    price: 0
-    capacity: "樟脳10包・くすのきブロック5本・樟脳オイル等セット"
-    pricePerUnit: "0円/セット"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "樟脳タブレット・ブロック・オイルをまとめたお徳用セット"
-      - "天然樟脳由来で化学防虫剤が気になる方にも対応"
-      - "複数のアイテムを組み合わせて収納場所ごとに使い分けられる"
-    pros:
-      - "タブレット・ブロック・オイルと複数形状が揃い収納に合わせて選べる"
-      - "天然素材で安心感が高い"
-      - "お徳用セットでコスパよく複数種を試せる"
-    cons:
-      - "セット内容が多様なため用途ごとの使い方を確認する必要がある"
-      - "独特の樟脳の香りが好みを選ぶ"
-    recommendedFor: "天然樟脳防虫剤をまとめてお得に試したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/watasinoseikatu/2023121203/"
-    imageUrl: ""
-  - rank: 15
-    name: "アース製薬 ピレパラアース 防虫剤 1年用 フローラルソープの香り 48包入"
-    brand: "アース製薬"
-    price: 0
-    capacity: "48包"
-    pricePerUnit: "0円/包"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "引き出し・衣装ケース・タンス対応の大容量48包入"
-      - "フローラルソープの香りで衣類をやさしく包む"
-      - "1年間有効でシーズンを通じて効果が続く"
-    pros:
-      - "48包の大容量でたっぷり使えコスパが高い"
-      - "アース製薬品質で安定した防虫効果"
-      - "フローラルソープの香りで衣類をさわやかに保管"
-    cons:
-      - "香り付きのため無香タイプを好む方には向かない"
-      - "大容量のため少量から試しにくい"
-    recommendedFor: "香り付き防虫剤を大容量でコスパよく使いたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/auc-leadonline/10134497/"
-    imageUrl: ""
 tags:
   - "衣類防虫剤 おすすめ"
   - "防虫剤 コスパ"

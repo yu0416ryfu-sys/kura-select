@@ -225,28 +225,6 @@ products:
     recommendedFor: "Mサイズでも品質重視で選びたい方・Sサイズ時代からパンパース派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2ngn.3rdw6e7c.g00t2ngn.3rdw797f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F1710000043%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhikaritv%2Fi%2F10227865%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/sale/1710000043_rma.jpg?_ex=128x128"
-  - rank: 11
-    name: "バンボネイチャー ジュニア サイズ5"
-    brand: "BAMBO Nature（バンボネイチャー）"
-    price: 3190
-    capacity: "20枚（サイズ5・L・11〜17kg）"
-    pricePerUnit: "約160円/枚"
-    rating: 5
-    reviewCount: 2
-    features:
-      - "デンマーク王室御用達の高品質プレミアムおむつ"
-      - "OEKO-TEX Standard 100認証取得の安全素材"
-      - "環境配慮型設計でサステナブルな選択肢"
-    pros:
-      - "欧州基準の厳格な品質管理で素材の安全性が高い"
-      - "通気性と吸収性に優れた設計で快適な装着感"
-      - "プレミアム素材使用で敏感肌の赤ちゃんにも安心"
-    cons:
-      - "20枚入りと少量のため頻繁な購入が必要"
-      - "国産ブランドと比べて価格が高め"
-    recommendedFor: "素材の安全性や環境配慮を重視する方・海外ブランドに興味がある方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcnfn.3rdw6f9c.g00qcnfn.3rdw70c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu996525%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10023905%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/natural-living/cabinet/spr/5/7/576932700265.jpg?_ex=128x128"
 tags:
   - "紙おむつ おすすめ"
   - "紙おむつ コスパ"

@@ -50,6 +50,94 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3ztn.3rdw6b30.g00t3ztn.3rdw7dc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F205995%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10158683%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/10172579/imgrc0107615257.jpg?_ex=128x128"
   - rank: 3
+    name: "クイックルワイパー ドライシート"
+    brand: "花王（クイックルワイパー）"
+    price: 630
+    capacity: "40枚"
+    pricePerUnit: "約16円/枚"
+    rating: 4.6
+    reviewCount: 15
+    features:
+      - "立体吸着繊維がフローリングの細かいホコリや髪の毛をすばやくキャッチ"
+      - "ペットの毛や細かいゴミにも対応できる吸着力"
+      - "薬剤不使用で床材に優しい設計"
+    pros:
+      - "40枚入で日常的な床掃除に十分な枚数をまとめて購入できる"
+      - "フローリングからペットの毛まで幅広い汚れに対応"
+      - "花王ブランドの安定した品質で安心して使用できる"
+    cons:
+      - "ウェット機能がないため床のベタつきや液体汚れには不向き"
+      - "大容量セットと比べると1枚あたりの単価がやや高くなる"
+    recommendedFor: "日常のホコリ取りとペットの毛対策を兼ねたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901301281999%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10069085%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/55/4901301281999.jpg?_ex=128x128"
+  - rank: 4
+    name: "クイックルワイパー 立体吸着ドライシート"
+    brand: "花王（クイックルワイパー）"
+    price: 2424
+    capacity: "40枚×3個"
+    pricePerUnit: "約20円/枚"
+    rating: 4.54
+    reviewCount: 80
+    features:
+      - "立体吸着構造が床の凹凸に密着しホコリ・チリを逃さず捕捉"
+      - "薬剤不使用のドライタイプで各種フロアワイパーに対応"
+      - "40枚入×3個セットのまとめ買い仕様"
+    pros:
+      - "大容量セットで補充頻度を抑えてコスト管理しやすい"
+      - "薬剤不使用のため子どもやペットがいる家庭でも安心"
+      - "まとめ買いで買い替えの手間を減らせる"
+    cons:
+      - "ウェット機能はないため皮脂汚れや飲み物シミには別途ウェットシートが必要"
+      - "大容量のため収納スペースが必要"
+    recommendedFor: "毎日の床掃除をまとめ買いでコスト管理したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F73109%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10933630%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/109/73109.jpg?_ex=128x128"
+  - rank: 5
+    name: "クイックルワイパー ワイド 立体吸着ドライシート 業務用"
+    brand: "花王"
+    price: 1512
+    capacity: "50枚"
+    pricePerUnit: "約30円/枚"
+    rating: 4.61
+    reviewCount: 18
+    features:
+      - "業務用ワイドサイズで広い床面を素早くカバーする立体吸着ドライシート"
+      - "ホテル・施設など業務環境での日常清掃に適した仕様"
+      - "立体吸着繊維でホコリやゴミを効率よく捕捉"
+    pros:
+      - "ワイドタイプで一拭きあたりの清掃面積が広く作業効率が高い"
+      - "業務環境での日常使いに耐える高い耐久性"
+      - "50枚の大容量で頻繁な補充が不要"
+    cons:
+      - "通常サイズのフロアワイパーには装着できないため専用ワイパーが必要"
+      - "一般家庭には過剰スペックになりやすい"
+    recommendedFor: "ホテル・店舗・施設など業務現場での日常的な床掃除が必要な方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhtnn.3rdw6490.g00qhtnn.3rdw7b45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmine-waribashi%2F31-130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmine-waribashi%2Fi%2F10000221%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mine-waribashi/cabinet/senzai_kao/imgrc0117256375.jpg?_ex=128x128"
+  - rank: 6
+    name: "クイックルワイパー ドライシート 業務用ワイドサイズ"
+    brand: "花王"
+    price: 1815
+    capacity: "50枚"
+    pricePerUnit: "約36円/枚"
+    rating: 4.81
+    reviewCount: 21
+    features:
+      - "家庭用の約2倍のワイドサイズで一度の拭き取り面積が大幅に増加"
+      - "業務用設計で広い床面を効率よくカバーできる"
+      - "立体吸着構造でホコリ・ゴミをしっかり捕捉"
+    pros:
+      - "ワイドサイズで1回の拭き取りで広い面積をカバーでき掃除時間を短縮"
+      - "業務用の高い耐久性で力を入れて使っても型崩れしにくい"
+      - "大容量の50枚入で補充頻度を抑えられる"
+    cons:
+      - "家庭用サイズに慣れていると大きさに違和感を感じる場合がある"
+      - "対応するワイドワイパーが必要で通常サイズのワイパーには装着できない"
+    recommendedFor: "LDKや廊下など広い床面を効率よく掃除したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufjn.3rdw6521.g00qufjn.3rdw7716/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoyaclean%2Fkao197375h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoyaclean%2Fi%2F10000301%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/toyaclean/cabinet/20220825-1.jpg?_ex=128x128"
+  - rank: 7
     name: "花王 クイックルワイパー 立体吸着ウエットシート 香りが残らないタイプ"
     brand: "花王（クイックルワイパー）"
     price: 599
@@ -71,7 +159,29 @@ products:
     recommendedFor: "拭き取り品質を重視する方・除菌ケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10006153%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10006153%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin63/4901301327826.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 8
+    name: "クイックルワイパー ドライシート 業務用"
+    brand: "花王プロフェッショナル"
+    price: 2032
+    capacity: "50枚"
+    pricePerUnit: "約41円/枚"
+    rating: 4.79
+    reviewCount: 28
+    features:
+      - "業務用仕様でオフィスや店舗などの広い床面の清掃に対応"
+      - "マイクロファイバー構造で微細なゴミを効率よく除去"
+      - "無香料設計で作業環境を問わず使用しやすい"
+    pros:
+      - "業務用の大容量で頻繁な清掃が必要な場所でも長期間使える"
+      - "無香料のため香りが気になる環境でも使いやすい"
+      - "プロ仕様の捕捉力で清掃効率が上がる"
+    cons:
+      - "業務用のため一般家庭では過剰スペックになる場合がある"
+      - "家庭用と比べて購入できる店舗が限られる"
+    recommendedFor: "広い部屋や複数フロアの清掃を効率化したいオフィス・店舗利用者"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fr000256000051%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10141201%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/409/4901301029409.jpg?_ex=128x128"
+  - rank: 9
     name: "ウェーブ 超保水 フロアウェットシート 微香タイプ"
     brand: "ユニ・チャーム（ウェーブ）"
     price: 777
@@ -93,58 +203,14 @@ products:
     recommendedFor: "ホコリ・花粉対策を重視する方・毎日の掃除習慣をつけたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00srsfn.3rdw61f5.g00srsfn.3rdw7376/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstacon%2F4903111466115%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstacon%2Fi%2F10054037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/stacon/cabinet/2022-0921/4903111466115_1.jpg?_ex=128x128"
-  - rank: 5
-    name: "クイックルワイパー 立体吸着ドライシート"
-    brand: "花王（クイックルワイパー）"
-    price: 0
-    capacity: "40枚×3個"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "立体吸着構造が床の凹凸に密着しホコリ・チリを逃さず捕捉"
-      - "薬剤不使用のドライタイプで各種フロアワイパーに対応"
-      - "40枚入×3個セットのまとめ買い仕様"
-    pros:
-      - "大容量セットで補充頻度を抑えてコスト管理しやすい"
-      - "薬剤不使用のため子どもやペットがいる家庭でも安心"
-      - "まとめ買いで買い替えの手間を減らせる"
-    cons:
-      - "ウェット機能はないため皮脂汚れや飲み物シミには別途ウェットシートが必要"
-      - "大容量のため収納スペースが必要"
-    recommendedFor: "毎日の床掃除をまとめ買いでコスト管理したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/73109/"
-    imageUrl: ""
-  - rank: 6
-    name: "クイックルワイパー 立体吸着ドライシート"
-    brand: "花王（クイックルワイパー）"
-    price: 0
-    capacity: "32枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "立体吸着繊維が床の細かいホコリ・チリを効率よく絡め取る"
-      - "薬剤不使用のドライシートでフローリングや畳などに対応"
-      - "32枚入で使い切りやすいサイズ"
-    pros:
-      - "定番クイックルワイパーシートの標準サイズで使いやすい"
-      - "薬剤なしで床材を傷めず安心して使える"
-      - "主要フロアワイパーに対応する規格サイズ"
-    cons:
-      - "大容量タイプと比べると1枚あたりの単価がやや高い"
-      - "ウェットシートと異なり洗浄効果はない"
-    recommendedFor: "クイックルワイパー純正ドライシートを手軽に購入したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/404432/"
-    imageUrl: ""
-  - rank: 7
+  - rank: 10
     name: "クイックルワイパー 立体吸着ウェットシート"
     brand: "花王（クイックルワイパー）"
-    price: 0
+    price: 2123
     capacity: "32枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約66円/枚"
+    rating: 4.69
+    reviewCount: 186
     features:
       - "立体吸着構造の洗浄液入りウェットシートで皮脂汚れをしっかり拭き取る"
       - "1枚でゴミ取りと拭き掃除を同時にこなせる設計"
@@ -157,184 +223,8 @@ products:
       - "ウェットシートのため乾燥した床の静電気吸着にはドライシートより劣る"
       - "大容量タイプと比べると1枚あたりの単価がやや高い"
     recommendedFor: "床の皮脂汚れや食べこぼしを手軽に拭き取りたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/404960/"
-    imageUrl: ""
-  - rank: 8
-    name: "クイックルワイパー 立体吸着ドライシート"
-    brand: "花王（クイックルワイパー）"
-    price: 0
-    capacity: "40枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "立体吸着繊維が床の微細なゴミからホコリまで幅広く捕捉"
-      - "薬剤不使用でフローリングの素材を傷めない設計"
-      - "40枚入でコスパと保管のバランスが取りやすい"
-    pros:
-      - "純正ドライシートの40枚入で補充頻度を抑えられる"
-      - "薬剤不使用のため子どもやペットがいる家庭で安心"
-      - "定番サイズで主要フロアワイパーと互換性が高い"
-    cons:
-      - "洗浄液なしのため床のベタつきや油汚れは落とせない"
-      - "プレミアムシートと比べると吸着繊維の密度はやや控えめ"
-    recommendedFor: "毎日のホコリ取りをクイックルワイパー純正で行いたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/a002256000434/"
-    imageUrl: ""
-  - rank: 9
-    name: "クイックルワイパー 立体吸着ドライシート"
-    brand: "花王（クイックルワイパー）"
-    price: 0
-    capacity: "20枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "立体吸着繊維がホコリや髪の毛を逃さずキャッチする設計"
-      - "薬剤不使用のドライシートで床材を傷めない"
-      - "20枚入のコンパクトサイズで少量ストックに最適"
-    pros:
-      - "少量パックのため試し買いや補充に使いやすい"
-      - "薬剤なしで安全に使えるため赤ちゃんがいる家庭にも向いている"
-      - "主要フロアワイパーとの互換性が高く取り付けが簡単"
-    cons:
-      - "枚数が少ないため頻繁に補充が必要になる"
-      - "大容量タイプと比べると1枚あたりのコストが割高"
-    recommendedFor: "少量から試したい方・補充用に少量だけ必要な方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/a002256000433/"
-    imageUrl: ""
-  - rank: 10
-    name: "クイックルワイパー ドライシート 業務用"
-    brand: "花王プロフェッショナル"
-    price: 0
-    capacity: "50枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "業務用仕様でオフィスや店舗などの広い床面の清掃に対応"
-      - "マイクロファイバー構造で微細なゴミを効率よく除去"
-      - "無香料設計で作業環境を問わず使用しやすい"
-    pros:
-      - "業務用の大容量で頻繁な清掃が必要な場所でも長期間使える"
-      - "無香料のため香りが気になる環境でも使いやすい"
-      - "プロ仕様の捕捉力で清掃効率が上がる"
-    cons:
-      - "業務用のため一般家庭では過剰スペックになる場合がある"
-      - "家庭用と比べて購入できる店舗が限られる"
-    recommendedFor: "広い部屋や複数フロアの清掃を効率化したいオフィス・店舗利用者"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/r000256000051/"
-    imageUrl: ""
-  - rank: 11
-    name: "クイックルワイパー ドライシート 業務用ワイドサイズ"
-    brand: "花王"
-    price: 0
-    capacity: "50枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "家庭用の約2倍のワイドサイズで一度の拭き取り面積が大幅に増加"
-      - "業務用設計で広い床面を効率よくカバーできる"
-      - "立体吸着構造でホコリ・ゴミをしっかり捕捉"
-    pros:
-      - "ワイドサイズで1回の拭き取りで広い面積をカバーでき掃除時間を短縮"
-      - "業務用の高い耐久性で力を入れて使っても型崩れしにくい"
-      - "大容量の50枚入で補充頻度を抑えられる"
-    cons:
-      - "家庭用サイズに慣れていると大きさに違和感を感じる場合がある"
-      - "対応するワイドワイパーが必要で通常サイズのワイパーには装着できない"
-    recommendedFor: "LDKや廊下など広い床面を効率よく掃除したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/toyaclean/kao197375h/"
-    imageUrl: ""
-  - rank: 12
-    name: "クイックルワイパー ワイド 立体吸着ドライシート 業務用"
-    brand: "花王"
-    price: 0
-    capacity: "50枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "業務用ワイドサイズで広い床面を素早くカバーする立体吸着ドライシート"
-      - "ホテル・施設など業務環境での日常清掃に適した仕様"
-      - "立体吸着繊維でホコリやゴミを効率よく捕捉"
-    pros:
-      - "ワイドタイプで一拭きあたりの清掃面積が広く作業効率が高い"
-      - "業務環境での日常使いに耐える高い耐久性"
-      - "50枚の大容量で頻繁な補充が不要"
-    cons:
-      - "通常サイズのフロアワイパーには装着できないため専用ワイパーが必要"
-      - "一般家庭には過剰スペックになりやすい"
-    recommendedFor: "ホテル・店舗・施設など業務現場での日常的な床掃除が必要な方"
-    rakutenUrl: "https://item.rakuten.co.jp/mine-waribashi/31-130/"
-    imageUrl: ""
-  - rank: 13
-    name: "クイックルワイパー 立体吸着ウェットシート 業務用"
-    brand: "花王プロフェッショナル"
-    price: 0
-    capacity: "30枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "業務用設計のウェットシートでシート寸法540mm×205mmの大判サイズ"
-      - "立体吸着構造で床の汚れを拭き取りながらゴミもキャッチ"
-      - "ポリエステル・綿・レーヨン・ポリプロピレン複合素材で高い拭き取り性能"
-    pros:
-      - "大判サイズで広い床を少ない枚数で拭ける"
-      - "ウェットタイプで皮脂汚れや床のベタつきをしっかり除去できる"
-      - "プロ仕様の耐久性で力を入れても破れにくい"
-    cons:
-      - "業務用のため一般家庭では1パックを使い切るのに時間がかかる"
-      - "大判サイズ対応のワイパーが必要"
-    recommendedFor: "オフィスや店舗の床の拭き掃除を効率よく行いたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/e306501h/"
-    imageUrl: ""
-  - rank: 14
-    name: "クイックルワイパー ドライシート"
-    brand: "花王（クイックルワイパー）"
-    price: 0
-    capacity: "40枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "立体吸着繊維がフローリングの細かいホコリや髪の毛をすばやくキャッチ"
-      - "ペットの毛や細かいゴミにも対応できる吸着力"
-      - "薬剤不使用で床材に優しい設計"
-    pros:
-      - "40枚入で日常的な床掃除に十分な枚数をまとめて購入できる"
-      - "フローリングからペットの毛まで幅広い汚れに対応"
-      - "花王ブランドの安定した品質で安心して使用できる"
-    cons:
-      - "ウェット機能がないため床のベタつきや液体汚れには不向き"
-      - "大容量セットと比べると1枚あたりの単価がやや高くなる"
-    recommendedFor: "日常のホコリ取りとペットの毛対策を兼ねたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/sundrug/4901301281999/"
-    imageUrl: ""
-  - rank: 15
-    name: "クイックルワイパー もふもふシート"
-    brand: "花王（クイックルワイパー）"
-    price: 0
-    capacity: "3枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "柔らかなふわふわ素材で床面を優しく拭き取るソフトタイプのシート"
-      - "シートサイズ約210mm×300mmで一般的なフロアワイパーに対応"
-      - "床材に傷をつけにくい素材設計"
-    pros:
-      - "ソフトな素材で繊細な床材にも使いやすい"
-      - "試し使いや買い足しに手軽な少量パック"
-      - "柔らかな素材がホコリや細かいゴミを包み込むように吸着"
-    cons:
-      - "3枚入のため継続使用には頻繁な補充が必要"
-      - "通常のドライシートと比べてまとめ買い時のコスト効率は劣る"
-    recommendedFor: "もふもふシートを試してみたい方・少量だけ必要な方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/a001256000750/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404960%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148569%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/960/404960.jpg?_ex=128x128"
 tags:
   - "フローリングシート おすすめ"
   - "床掃除 コスパ"

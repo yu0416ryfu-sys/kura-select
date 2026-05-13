@@ -78,7 +78,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約64円/本"
     rating: 4.74
-    reviewCount: 1960
+    reviewCount: 1961
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -122,7 +122,7 @@ products:
     capacity: "10本（約10ヶ月分）"
     pricePerUnit: "約138円/本"
     rating: 4.69
-    reviewCount: 2046
+    reviewCount: 2048
     features:
       - "歯科医院でも採用される定番ブラシ"
       - "PBT毛材で耐久性が高くヘタりにくい"
@@ -225,116 +225,6 @@ products:
     recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6l1n.3rdw6f6f.g00r6l1n.3rdw7918/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyhair%2Foral-b-co%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyhair%2Fi%2F10005065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyhair/cabinet/mbimg/burashi/oral-b-select-202509.jpg?_ex=128x128"
-  - rank: 11
-    name: "システマハブラシ 超コンパクト ふつう 12本"
-    brand: "ライオン（システマ）"
-    price: 3196
-    capacity: "12本（約1年分）"
-    pricePerUnit: "約266円/本"
-    rating: 4.63
-    reviewCount: 16
-    features:
-      - "超極細毛が歯周ポケットの奥まで届く"
-      - "薄型ヘッドで奥歯の裏側も磨きやすい"
-      - "独自の超極細毛で歯周ケアに特化"
-    pros:
-      - "歯周ポケットケアに最適な超極細毛"
-      - "薄型ヘッドで口の中で小回りが利く"
-      - "超コンパクトヘッドで奥歯の裏側まで届く"
-    cons:
-      - "毛が柔らかく力を入れないとプラーク除去力が弱め"
-      - "極細毛のため開きやすい"
-    recommendedFor: "歯周病が気になる方・歯ぐきが弱い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10901946%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/032/65032.jpg?_ex=128x128"
-  - rank: 12
-    name: "GUM デンタルブラシ #211 3列コンパクト ふつう 1本"
-    brand: "サンスター（GUM）"
-    price: 268
-    capacity: "1本（約1ヶ月分）"
-    pricePerUnit: "約268円/本"
-    rating: 4.67
-    reviewCount: 6
-    features:
-      - "先端3本毛で歯間・歯周ポケットを効率的にケア"
-      - "薄型3列ヘッドで磨き残しを軽減"
-      - "歯科医推奨の歯周病予防設計"
-    pros:
-      - "歯間部への到達力が高い"
-      - "3列ヘッドで細かい部分まで丁寧に磨ける"
-      - "歯科専門ブランドの安心感"
-    cons:
-      - "3列タイプは磨くのに時間がかかる"
-      - "1本あたり約268円とやや高め"
-    recommendedFor: "歯間ケアを重視する方・丁寧にブラッシングしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10019611%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10019611%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin89/10019611.jpg?_ex=128x128"
-  - rank: 13
-    name: "クリニカ アドバンテージ ハブラシ 4列 超コンパクト ふつう 12本セット"
-    brand: "ライオン（クリニカ）"
-    price: 3379
-    capacity: "12本（約12ヶ月分）"
-    pricePerUnit: "約282円/本"
-    rating: 4.49
-    reviewCount: 74
-    features:
-      - "弾力フィット毛で歯の凹凸にフィット"
-      - "独自カーブネック設計で力が均一に伝わる"
-      - "奥歯の奥までしっかり届くコンパクトヘッド"
-    pros:
-      - "歯面への密着度が高くプラーク除去力が優秀"
-      - "握りやすいハンドル設計"
-      - "大手メーカーで入手しやすい"
-    cons:
-      - "1本あたりの単価はタフト24より高め"
-      - "毛の硬さの選択肢が限られる"
-    recommendedFor: "しっかりプラークを落としたい方・磨き心地を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F71453%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10926222%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/453/71453.jpg?_ex=128x128"
-  - rank: 14
-    name: "音波式 電動歯ブラシ"
-    brand: "favori"
-    price: 1800
-    capacity: "1本"
-    pricePerUnit: "約1800円/本"
-    rating: 4.07
-    reviewCount: 1504
-    features:
-      - "歯ブラシ本体または電動歯ブラシ"
-      - "まとめ買いしやすい本数"
-      - "大人用・子ども用を選べる"
-    pros:
-      - "家族分をまとめて備えやすい"
-      - "交換用ストックに向く"
-      - "用途に合わせて選べる"
-    cons:
-      - "毛のかたさやサイズ確認が必要"
-      - "電動タイプは替えブラシ確認が必要"
-    recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rjvpn.3rdw62e7.g00rjvpn.3rdw7045/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbagsaifufavori%2Fd-a0067%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbagsaifufavori%2Fi%2F10009339%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bagsaifufavori/cabinet/machine/d-a0067-tp.jpg?_ex=128x128"
-  - rank: 15
-    name: "ロイヤルソニック CRYSTAL RENEW 音波電動歯ブラシ"
-    brand: "cholylife"
-    price: 5280
-    capacity: "1本"
-    pricePerUnit: "約5280円/本"
-    rating: 4.2
-    reviewCount: 1497
-    features:
-      - "歯ブラシ本体または電動歯ブラシ"
-      - "まとめ買いしやすい本数"
-      - "大人用・子ども用を選べる"
-    pros:
-      - "家族分をまとめて備えやすい"
-      - "交換用ストックに向く"
-      - "用途に合わせて選べる"
-    cons:
-      - "毛のかたさやサイズ確認が必要"
-      - "電動タイプは替えブラシ確認が必要"
-    recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pixyn.3rdw6aa3.g00pixyn.3rdw7435/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwide%2F2390-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwide%2Fi%2F10001470%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wide/cabinet/guide/80007-r1.jpg?_ex=128x128"
 tags:
   - "歯ブラシ おすすめ"
   - "歯ブラシ コスパ"

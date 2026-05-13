@@ -74,11 +74,11 @@ products:
   - rank: 4
     name: "サランラップ 家庭用 22cm"
     brand: "旭化成（サランラップ）"
-    price: 0
+    price: 197
     capacity: "22cm×20m"
     pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
+    rating: 4.84
+    reviewCount: 87
     features:
       - "旭化成定番のポリ塩化ビニリデン製ラップ"
       - "22cm幅で小皿・お茶碗など日常使いのサイズ"
@@ -91,16 +91,16 @@ products:
       - "20mと短めのため使用頻度が高い家庭では交換頻度が増える"
       - "ポリ塩化ビニリデン製のため高温調理での使用には注意が必要"
     recommendedFor: "小皿やお茶碗によく使う方・少量ずつ購入したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/at-life/4901670106343-60/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901670106343-60%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10010877%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic01/4901670110227.jpg?_ex=128x128"
   - rank: 5
     name: "サランラップ 家庭用 30cm"
     brand: "旭化成（サランラップ）"
-    price: 0
+    price: 262
     capacity: "30cm×20m"
     pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
+    rating: 4.85
+    reviewCount: 68
     features:
       - "旭化成定番のポリ塩化ビニリデン製ラップ"
       - "幅広30cmで大皿やボウルもカバーできるサイズ"
@@ -113,16 +113,16 @@ products:
       - "20mと短めのため頻繁に使う場合は交換頻度が増える"
       - "小さい容器には幅が余りやすい"
     recommendedFor: "大皿やボウルを多用する方・サランラップの定番サイズを試したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/at-life/4901670106336/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901670106336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10006411%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic02/4901670110210.jpg?_ex=128x128"
   - rank: 6
     name: "NEWクレラップ お徳用レギュラー 30cm"
     brand: "クレハ（クレラップ）"
-    price: 0
+    price: 455
     capacity: "30cm×50m"
     pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
+    rating: 4.53
+    reviewCount: 68
     features:
       - "クレハのポリ塩化ビニリデン製ラップ・幅広30cmタイプ"
       - "のこぎり刃でカットしやすい設計"
@@ -135,16 +135,16 @@ products:
       - "小さい容器には幅が余りやすい"
       - "ポリ塩化ビニリデン製のため高温調理での使用には注意が必要"
     recommendedFor: "大きな食器を多用する方・まとめ買いでコストを抑えたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/sundrug/4901422153502/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901422153502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10072573%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/55/4901422153502.jpg?_ex=128x128"
   - rank: 7
     name: "サランラップ ミニ 22cm"
     brand: "旭化成（サランラップ）"
-    price: 0
+    price: 348
     capacity: "22cm×50m"
     pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
+    rating: 4.77
+    reviewCount: 57
     features:
       - "旭化成のポリ塩化ビニリデン製ラップ・50mロール"
       - "22cm幅で日常使いしやすいサイズ"
@@ -157,16 +157,16 @@ products:
       - "密着性に特化した設計のため価格はポリエチレン製より高め"
       - "高温調理への使用は耐熱温度を確認する必要がある"
     recommendedFor: "長めのロールでコスパを上げたい方・22cm幅を日常使いする方"
-    rakutenUrl: "https://item.rakuten.co.jp/sundrug/4901670110197/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901670110197%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10090294%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/57/4901670110197.jpg?_ex=128x128"
   - rank: 8
     name: "NEWクレラップ レギュラー 30cm 3本セット"
     brand: "クレハ（クレラップ）"
-    price: 0
+    price: 1852
     capacity: "30cm×50m×3本"
     pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
+    rating: 4.78
+    reviewCount: 41
     features:
       - "クレハのポリ塩化ビニリデン製ラップ・30cmまとめ買い3本セット"
       - "のこぎり刃でカットしやすい設計"
@@ -179,16 +179,16 @@ products:
       - "保管スペースが必要"
       - "小さい容器には幅が余りやすい"
     recommendedFor: "まとめ買いでコストを抑えたい方・30cm幅をよく使う家庭"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/17272/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F17272%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10674333%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/272/17272.jpg?_ex=128x128"
   - rank: 9
     name: "NEWクレラップ ミニミニ 15cm"
     brand: "クレハ（クレラップ）"
-    price: 0
+    price: 275
     capacity: "15cm×50m"
     pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
+    rating: 4.83
+    reviewCount: 36
     features:
       - "クレハのポリ塩化ビニリデン製ラップ・幅15cmのコンパクトタイプ"
       - "小さめサイズでハーフサイズ食器やコップにぴったり"
@@ -201,16 +201,16 @@ products:
       - "大きめの食器には幅が足りず複数枚必要になることがある"
       - "取り扱い店舗や販売店が22cm・30cmより少ない場合がある"
     recommendedFor: "小さめ食器が多い方・コップやマグカップのラップに使いたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/sundrug/4901422151508/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901422151508%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10072575%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/55/4901422151508.jpg?_ex=128x128"
   - rank: 10
     name: "NEWクレラップ ミニ 22cm 3本セット"
     brand: "クレハ（クレラップ）"
-    price: 0
+    price: 1499
     capacity: "22cm×50m×3本"
     pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
+    rating: 4.71
+    reviewCount: 31
     features:
       - "クレハのポリ塩化ビニリデン製ラップ・22cmまとめ買い3本セット"
       - "のこぎり刃でカットしやすい設計"
@@ -223,74 +223,8 @@ products:
       - "保管スペースが必要"
       - "密着性特化の設計のためポリエチレン製より価格は高め"
     recommendedFor: "22cm幅のまとめ買いでコストを抑えたい方・クレラップをよく使う家庭"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/17271/"
-    imageUrl: ""
-  - rank: 11
-    name: "NEWクレラップ ミニ 22cm 20m"
-    brand: "クレハ（クレラップ）"
-    price: 0
-    capacity: "22cm×20m"
-    pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "クレハのポリ塩化ビニリデン製ラップ・22cmスタンダードサイズ"
-      - "のこぎり刃でカットしやすい設計"
-      - "電子レンジ・冷凍保存に対応"
-    pros:
-      - "コンパクトな20mサイズで少量から試しやすい"
-      - "密着性が高く食品の酸化・乾燥を防ぎやすい"
-      - "22cm幅は小皿・お茶碗など日常使いの食器に使いやすい"
-    cons:
-      - "20mと短めのため使用頻度が高い家庭では交換頻度が増える"
-      - "ポリ塩化ビニリデン製のため高温調理での使用には注意が必要"
-    recommendedFor: "少量から購入したい方・クレラップを初めて試す方"
-    rakutenUrl: "https://item.rakuten.co.jp/at-life/4901422152208-1/"
-    imageUrl: ""
-  - rank: 12
-    name: "NEWクレラップ レギュラー 30cm 50m"
-    brand: "クレハ（クレラップ）"
-    price: 0
-    capacity: "30cm×50m"
-    pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "クレハのポリ塩化ビニリデン製ラップ・幅広30cmタイプ"
-      - "のこぎり刃でカットしやすい設計"
-      - "電子レンジ・冷凍保存に対応"
-    pros:
-      - "30cm幅で大皿やボウルをカバーしやすい"
-      - "50mの徳用サイズで交換頻度を抑えられる"
-      - "密着性が高く食品の鮮度保持に優れる"
-    cons:
-      - "小さい容器には幅が余りやすい"
-      - "ポリ塩化ビニリデン製のため高温調理での使用には注意が必要"
-    recommendedFor: "大きな食器を多用する方・30cmのまとめ買いでコストを抑えたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/wellness-web/10014533/"
-    imageUrl: ""
-  - rank: 13
-    name: "NEWクレラップ 30cm×20m"
-    brand: "クレハ（クレラップ）"
-    price: 0
-    capacity: "30cm×20m"
-    pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "クレハのポリ塩化ビニリデン製ラップ・幅広30cmタイプ"
-      - "のこぎり刃でカットしやすい設計"
-      - "電子レンジ・冷凍保存に対応"
-    pros:
-      - "30cm幅で大皿やボウルもカバーしやすい"
-      - "コンパクトな20mサイズで少量から試しやすい"
-      - "密着性が高く食品の鮮度保持に優れる"
-    cons:
-      - "20mと短めのため使用頻度が高い家庭では交換頻度が増える"
-      - "小さい容器には幅が余りやすい"
-    recommendedFor: "大きめの食器を使う方・30cmクレラップを少量から試したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/at-life/4901422153205-1/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F17271%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10674332%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/271/17271.jpg?_ex=128x128"
 tags:
   - "ラップ"
   - "アルミホイル"

@@ -1,11 +1,33 @@
 ---
-title: "デンタルフロス コスパ最強ランキング【2026年版】1本あたり最安で比較13選"
+title: "デンタルフロス コスパ最強ランキング【2026年版】1本あたり最安で比較10選"
 description: "デンタルフロス・歯間ブラシを1本あたりのコストで徹底比較。GUM・クリニカ・糸ようじ・フロアフロスなど人気13選を使いやすさ・清潔効果・コスパで解説します。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
 updatedAt: 2026-05-13
 products:
   - rank: 1
+    name: "Dr.デンリスト こども糸ピックス 30本入×4個"
+    brand: "Dr.デンリスト"
+    price: 1099
+    capacity: "30本×4個"
+    pricePerUnit: "約9.2円/本"
+    rating: 4.8
+    reviewCount: 307
+    features:
+      - "対象年齢2歳からの子ども向け設計"
+      - "糸ピックス一体型で子どもでも使いやすいサイズ"
+      - "4個セットのまとめ買いで管理が楽"
+    pros:
+      - "小さな子どもの歯間ケアを習慣化しやすい"
+      - "4個セットで家族分まとめて購入できる"
+      - "子ども向けサイズで安全に使用しやすい"
+    cons:
+      - "大人には小さくて使いにくい場合がある"
+      - "子ども向け専用品のため用途が限定される"
+    recommendedFor: "幼児から小学生の子どもの歯間ケアを始めたい親御さん"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rzyyn.3rdw693a.g00rzyyn.3rdw76d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwagonsale-kanahashi%2F4901387051189-z-s-4-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwagonsale-kanahashi%2Fi%2F10002834%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wagonsale-kanahashi/cabinet/11346547/4901387051189z4p01.jpg?_ex=128x128"
+  - rank: 2
     name: "小林製薬 糸ようじ フロス&ピック デンタルフロス 60本入"
     brand: "小林製薬（糸ようじ）"
     price: 770
@@ -27,7 +49,7 @@ products:
     recommendedFor: "手軽にフロスを始めたい方・外出先でも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa003200200606%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10123742%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/895/4987072025895.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 3
     name: "ライオン クリニカ アドバンテージ フロス Y字タイプ"
     brand: "ライオン（クリニカ）"
     price: 292
@@ -49,7 +71,7 @@ products:
     recommendedFor: "奥歯のケアをしっかりしたい方・フロス初心者の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301203896%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10013302%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic201404/4903301203896_1.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "デンタルプロ 歯間ブラシ 4【more30】【デンタルプロ】"
     brand: "デンタルプロ"
     price: 467
@@ -71,7 +93,51 @@ products:
     recommendedFor: "歯間ブラシを初めて使う方・歯周病ケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fd412800h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10014395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/634/4973227834634.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
+    name: "DENT.EX ウルトラフロスS 10本入×10パック"
+    brand: "ライオン（DENT.EX）"
+    price: 4850
+    capacity: "100本(10本×10)"
+    pricePerUnit: "約49円/本"
+    rating: 4.86
+    reviewCount: 99
+    features:
+      - "Y字フォルダー付きで奥歯にも届きやすい設計"
+      - "10本×10パックの大量まとめ買いセット"
+      - "ライオンの歯科専用ブランドDENT.EXシリーズ"
+    pros:
+      - "大量100本セットで長期間ストックができる"
+      - "Y字設計で奥歯のケアがしやすい"
+      - "歯科専用ブランドの信頼性"
+    cons:
+      - "1本使い切りのためロールタイプよりごみが多い"
+      - "まとめ買いのため初期費用が高め"
+    recommendedFor: "奥歯のケアを重視する方・まとめ買いで節約したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F13122%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10000202%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0509_p502/kirikae1/04080.jpg?_ex=128x128"
+  - rank: 6
+    name: "DENT.EX ウルトラフロスS 院内指導用 40本入"
+    brand: "ライオン（DENT.EX）"
+    price: 2000
+    capacity: "40本"
+    pricePerUnit: "約50円/本"
+    rating: 4.78
+    reviewCount: 91
+    features:
+      - "Y字フォルダー付きで奥歯にも届きやすい設計"
+      - "院内指導用として個別包装された清潔設計"
+      - "ライオンの歯科専用ブランドDENT.EXシリーズ"
+    pros:
+      - "個別包装で衛生的に持ち運びができる"
+      - "Y字設計で奥歯のケアがしやすい"
+      - "歯科医院でも使用される信頼性の高いフロス"
+    cons:
+      - "1本使い切りのためロールタイプよりごみが多い"
+      - "個別包装分のコストが上乗せされやすい"
+    recommendedFor: "外出先でも衛生的にフロスを使いたい方・奥歯のケアを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F13121%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10002248%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0509_p502/kirikae1/ultra_s.jpg?_ex=128x128"
+  - rank: 7
     name: "GUM デンタルフロス 550m"
     brand: "サンスター（GUM）"
     price: 280
@@ -93,102 +159,14 @@ products:
     recommendedFor: "毎日フロスを使う方・コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0509_p502/kirikae3/28528.jpg?_ex=128x128"
-  - rank: 5
-    name: "フロアフロス 45m 2個セット"
-    brand: "fluorfloss"
-    price: 3980
-    capacity: "45m×2個"
-    pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "384本の細い繊維を束ねた高密度フロス設計"
-      - "1セットで90mの使用量を確保"
-      - "歯科医院専売品として開発されたプロ仕様フロス"
-    pros:
-      - "2個セットでまとめ買いができてストックに便利"
-      - "細い繊維が歯周ポケットの汚れをかき出しやすい"
-      - "歯科医院専売品質のフロスを自宅で使用できる"
-    cons:
-      - "ロール型のため指への巻き付けに慣れが必要"
-      - "価格帯がやや高めで試しにくい"
-    recommendedFor: "歯科医院品質のフロスを求める方・歯周ポケットのケアを重視する方"
-    rakutenUrl: "https://item.rakuten.co.jp/d-fit/49759/"
-    imageUrl: ""
-  - rank: 6
-    name: "フロアフロス 250m"
-    brand: "fluorfloss"
-    price: 3980
-    capacity: "250m"
-    pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "384本の細い繊維を束ねた高密度フロス設計"
-      - "250mの大容量でまとめ買い不要"
-      - "歯科医院専売品として開発されたプロ仕様フロス"
-    pros:
-      - "大容量250mで長期間使用できてコスパが良い"
-      - "細い繊維が歯周ポケットの汚れをかき出しやすい"
-      - "歯科医院専売品質のフロスを自宅で使用できる"
-    cons:
-      - "ロール型のため指への巻き付けに慣れが必要"
-      - "初期購入コストがやや高め"
-    recommendedFor: "大容量フロスを求める方・毎日フロスを使う方"
-    rakutenUrl: "https://item.rakuten.co.jp/d-fit/pppp25/"
-    imageUrl: ""
-  - rank: 7
-    name: "Dr.デンリスト こども糸ピックス 30本入×4個"
-    brand: "Dr.デンリスト"
-    price: 0
-    capacity: "30本×4個"
-    pricePerUnit: "0円/本"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "対象年齢2歳からの子ども向け設計"
-      - "糸ピックス一体型で子どもでも使いやすいサイズ"
-      - "4個セットのまとめ買いで管理が楽"
-    pros:
-      - "小さな子どもの歯間ケアを習慣化しやすい"
-      - "4個セットで家族分まとめて購入できる"
-      - "子ども向けサイズで安全に使用しやすい"
-    cons:
-      - "大人には小さくて使いにくい場合がある"
-      - "子ども向け専用品のため用途が限定される"
-    recommendedFor: "幼児から小学生の子どもの歯間ケアを始めたい親御さん"
-    rakutenUrl: "https://item.rakuten.co.jp/wagonsale-kanahashi/4901387051189-z-s-4-1/"
-    imageUrl: ""
   - rank: 8
-    name: "REACH デンタルフロス 55ヤード ワックス 6個入り"
-    brand: "REACH（リーチ）"
-    price: 3980
-    capacity: "55ヤード(50.2m)×6個"
-    pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "ワックス加工で歯間が狭くても通しやすい設計"
-      - "ノンフレーバーとミントフレーバーから選択可能"
-      - "55ヤード(50.2m)×6個の大量まとめ買いセット"
-    pros:
-      - "ワックスコーティングで初心者でも歯間に通しやすい"
-      - "6個セットで長期ストックができる"
-      - "フレーバー選択でお好みの使用感を選べる"
-    cons:
-      - "まとめ買いのため初期費用が高め"
-      - "ロール型のため指への巻き付けに慣れが必要"
-    recommendedFor: "まとめ買いでコスパを重視する方・ワックス付きフロスを好む方"
-    rakutenUrl: "https://item.rakuten.co.jp/d-fit/29860/"
-    imageUrl: ""
-  - rank: 9
     name: "フロアフロス 250m 詰め替え用"
     brand: "fluorfloss"
-    price: 3980
+    price: 2640
     capacity: "250m"
-    pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約11円/m"
+    rating: 4.81
+    reviewCount: 238
     features:
       - "384本の細い繊維を束ねた高密度フロス設計"
       - "詰め替え用でホルダーを再利用できるエコ設計"
@@ -201,16 +179,38 @@ products:
       - "専用ホルダーが別途必要な場合がある"
       - "初期購入コストがやや高め"
     recommendedFor: "環境に配慮した使い方をしたい方・フロアフロスのリピーター"
-    rakutenUrl: "https://item.rakuten.co.jp/hanico/0090024/"
-    imageUrl: ""
-  - rank: 10
-    name: "フロアフロス 45m 3個セット"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F0090024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000767%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/0090024_001.jpg?_ex=128x128"
+  - rank: 9
+    name: "フロアフロス 250m"
     brand: "fluorfloss"
-    price: 3980
+    price: 2998
+    capacity: "250m"
+    pricePerUnit: "約12円/m"
+    rating: 4.71
+    reviewCount: 463
+    features:
+      - "384本の細い繊維を束ねた高密度フロス設計"
+      - "250mの大容量でまとめ買い不要"
+      - "歯科医院専売品として開発されたプロ仕様フロス"
+    pros:
+      - "大容量250mで長期間使用できてコスパが良い"
+      - "細い繊維が歯周ポケットの汚れをかき出しやすい"
+      - "歯科医院専売品質のフロスを自宅で使用できる"
+    cons:
+      - "ロール型のため指への巻き付けに慣れが必要"
+      - "初期購入コストがやや高め"
+    recommendedFor: "大容量フロスを求める方・毎日フロスを使う方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fpppp25%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0509_p502/mini/pppp25_15thsam01.jpg?_ex=128x128"
+  - rank: 10
+    name: "フロアフロス 45m×3個 3個セット"
+    brand: "fluorfloss"
+    price: 2230
     capacity: "45m×3個"
-    pricePerUnit: "0円/m"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約17円/m"
+    rating: 4.79
+    reviewCount: 179
     features:
       - "384本の細い繊維を束ねた高密度フロス設計"
       - "1セットで135mの使用量を確保"
@@ -223,74 +223,8 @@ products:
       - "ロール型のため指への巻き付けに慣れが必要"
       - "価格帯がやや高めで試しにくい"
     recommendedFor: "歯科医院品質のフロスをまとめて揃えたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/d-fit/49760/"
-    imageUrl: ""
-  - rank: 11
-    name: "プロキシソフト 3in1 フロス レギュラータイプ 100本"
-    brand: "Johnson & Johnson（プロキシソフト）"
-    price: 0
-    capacity: "100本(3箱)"
-    pricePerUnit: "0円/本"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "スポンジ部・フロス部・硬質端部の3in1構造"
-      - "ブリッジ・インプラント・矯正器具に対応した専用設計"
-      - "硬質端部でワイヤー下にも通しやすい"
-    pros:
-      - "矯正器具やブリッジがある方に特化したフロス"
-      - "3in1構造で通常フロスでは届きにくい部位をケアできる"
-      - "100本入でまとめ買いができる"
-    cons:
-      - "通常のフロスと比べて使い方に慣れが必要"
-      - "矯正器具がない方には過剰スペックになりやすい"
-    recommendedFor: "矯正器具・ブリッジ・インプラントを使用中の方"
-    rakutenUrl: "https://item.rakuten.co.jp/kurumusubi/643-3/"
-    imageUrl: ""
-  - rank: 12
-    name: "DENT.EX ウルトラフロスS 10本入×10パック"
-    brand: "ライオン（DENT.EX）"
-    price: 3980
-    capacity: "100本(10本×10)"
-    pricePerUnit: "0円/本"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "Y字フォルダー付きで奥歯にも届きやすい設計"
-      - "10本×10パックの大量まとめ買いセット"
-      - "ライオンの歯科専用ブランドDENT.EXシリーズ"
-    pros:
-      - "大量100本セットで長期間ストックができる"
-      - "Y字設計で奥歯のケアがしやすい"
-      - "歯科専用ブランドの信頼性"
-    cons:
-      - "1本使い切りのためロールタイプよりごみが多い"
-      - "まとめ買いのため初期費用が高め"
-    recommendedFor: "奥歯のケアを重視する方・まとめ買いで節約したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/d-fit/13122/"
-    imageUrl: ""
-  - rank: 13
-    name: "DENT.EX ウルトラフロスS 院内指導用 40本入"
-    brand: "ライオン（DENT.EX）"
-    price: 3980
-    capacity: "40本"
-    pricePerUnit: "0円/本"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "Y字フォルダー付きで奥歯にも届きやすい設計"
-      - "院内指導用として個別包装された清潔設計"
-      - "ライオンの歯科専用ブランドDENT.EXシリーズ"
-    pros:
-      - "個別包装で衛生的に持ち運びができる"
-      - "Y字設計で奥歯のケアがしやすい"
-      - "歯科医院でも使用される信頼性の高いフロス"
-    cons:
-      - "1本使い切りのためロールタイプよりごみが多い"
-      - "個別包装分のコストが上乗せされやすい"
-    recommendedFor: "外出先でも衛生的にフロスを使いたい方・奥歯のケアを重視する方"
-    rakutenUrl: "https://item.rakuten.co.jp/d-fit/13121/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49760%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008760%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0509_p502/kirikae2/49760_n.jpg?_ex=128x128"
 tags:
   - "デンタルフロス おすすめ"
   - "歯間ブラシ コスパ"

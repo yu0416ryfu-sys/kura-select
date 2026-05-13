@@ -166,7 +166,7 @@ products:
     capacity: "180ml"
     pricePerUnit: "約5.6円/ml"
     rating: 4.65
-    reviewCount: 4004
+    reviewCount: 4005
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"
@@ -225,72 +225,6 @@ products:
     recommendedFor: "除菌スプレーを用途と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tfaun.3rdw63b0.g00tfaun.3rdw7d50/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fandwpaia%2Fandwpaia_100x300x600_copy%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fandwpaia%2Fi%2F10000035%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/andwpaia/cabinet/07621536/imgrc0089044303.jpg?_ex=128x128"
-  - rank: 11
-    name: "アクアヴィーナス 除菌スプレーセット"
-    brand: "アクアヴィーナス"
-    price: 2800
-    capacity: "1セット"
-    pricePerUnit: "約2800円/セット"
-    rating: 4.57
-    reviewCount: 732
-    features:
-      - "除菌・消臭用途のスプレーまたは液剤"
-      - "靴や室内など用途別に選びやすい"
-      - "詰替やセット品も選べる"
-    pros:
-      - "気になる場所に使いやすい"
-      - "容量違いを選びやすい"
-      - "ストック向き"
-    cons:
-      - "対象素材への使用可否確認が必要"
-      - "成分や濃度の確認が必要"
-    recommendedFor: "除菌スプレーを用途と容量で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qmwwn.3rdw64bc.g00qmwwn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faquavinus%2F10000006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faquavinus%2Fi%2F10000006%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aquavinus/cabinet/aqua/aq-d-1n-1.jpg?_ex=128x128"
-  - rank: 12
-    name: "Dr.けっぺきくん 次亜塩素酸水"
-    brand: "Dr.けっぺきくん"
-    price: 1680
-    capacity: "2.5L"
-    pricePerUnit: "要更新"
-    rating: 4.69
-    reviewCount: 396
-    features:
-      - "除菌・消臭用途のスプレーまたは液剤"
-      - "靴や室内など用途別に選びやすい"
-      - "詰替やセット品も選べる"
-    pros:
-      - "気になる場所に使いやすい"
-      - "容量違いを選びやすい"
-      - "ストック向き"
-    cons:
-      - "対象素材への使用可否確認が必要"
-      - "成分や濃度の確認が必要"
-    recommendedFor: "除菌スプレーを用途と容量で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4bwn.3rdw613b.g00s4bwn.3rdw7e90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-lune%2Fdr-230-200ppm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshop-lune%2Fi%2F10003861%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shop-lune/cabinet/keppeki/imgrc0094737174.jpg?_ex=128x128"
-  - rank: 13
-    name: "アクアヴィーナス 介護用除菌スプレーセット"
-    brand: "アクアヴィーナス"
-    price: 0
-    capacity: "1セット"
-    pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "除菌・消臭用途のスプレーまたは液剤"
-      - "靴や室内など用途別に選びやすい"
-      - "詰替やセット品も選べる"
-    pros:
-      - "気になる場所に使いやすい"
-      - "容量違いを選びやすい"
-      - "ストック向き"
-    cons:
-      - "対象素材への使用可否確認が必要"
-      - "成分や濃度の確認が必要"
-    recommendedFor: "除菌スプレーを用途と容量で比較したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/aquavinus/10000009/"
-    imageUrl: ""
 tags:
   - "除菌スプレー"
   - "アルコール"

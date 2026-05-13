@@ -50,6 +50,50 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F601325%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11330382%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/325/601325.jpg?_ex=128x128"
   - rank: 3
+    name: "デミ ミレアム ヘアケア コンディショナー 1800mL 詰替"
+    brand: "デミ"
+    price: 1839
+    capacity: "1800mL"
+    pricePerUnit: "約1.0円/mL"
+    rating: 4.54
+    reviewCount: 1328
+    features:
+      - "L.P.P.（髪のアミノ酸複合体）配合で毛髪を補修"
+      - "ドライヤーの熱や紫外線から髪を保護する処方"
+      - "大容量1800mLの詰め替え用リフィルタイプ"
+    pros:
+      - "業務用サイズで詰め替え頻度を大幅に減らせる"
+      - "プロフェッショナル向け処方で指通りなめらかな仕上がり"
+      - "毛髪補修成分配合で繰り返しのケアに向く"
+    cons:
+      - "サロン専用品のため一般流通が限られる"
+      - "大容量のため保管スペースが必要"
+    recommendedFor: "大容量でコストを抑えたい方・サロン品質のコンディショナーを求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qklvn.3rdw6cc2.g00qklvn.3rdw7141/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymura7200%2Fmilleum-co1800%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymura7200%2Fi%2F10000987%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymura7200/cabinet/deimi/demi-mlm4.jpg?_ex=128x128"
+  - rank: 4
+    name: "トリートメント フォンダン オレオ リラックス 200mL"
+    brand: "ケラスターゼ"
+    price: 4400
+    capacity: "200mL"
+    pricePerUnit: "約22円/mL"
+    rating: 4.73
+    reviewCount: 1163
+    features:
+      - "シアバター配合で髪をしなやかに整える"
+      - "ナバナ由来成分など天然由来原料を配合"
+      - "広がり・うねり・ごわつきのある髪向け処方"
+    pros:
+      - "高級サロンブランドによる信頼性の高いケア"
+      - "オレンジ系の上品な香りで毎日のケアが心地よい"
+      - "少量で伸びがよく使いやすい"
+    cons:
+      - "内容量が少なく頻繁な購入が必要"
+      - "価格帯が高めでコスパ重視の方には向かない"
+    recommendedFor: "広がりやうねりが気になる方・サロン品質を自宅で体験したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fdp-fondor_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000134%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/dp-fondor_200/dp-fondor_200_01.jpg?_ex=128x128"
+  - rank: 5
     name: "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア"
     brand: "ユニリーバ（LUX）"
     price: 299
@@ -71,7 +115,7 @@ products:
     recommendedFor: "ツヤ髪を目指す方・香りを楽しみたい方・パサつきが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902111773964-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2023a/4902111773964.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 6
     name: "パンテーン エクストラダメージケア トリートメントコンディショナー 詰め替え 超特大 950g"
     brand: "P&G（パンテーン）"
     price: 421
@@ -93,50 +137,6 @@ products:
     recommendedFor: "ダメージヘアの方・まとまりを求める方・カラーやパーマをしている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F2873444011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10570891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000212/2873444011.jpg?_ex=128x128"
-  - rank: 5
-    name: "トリートメント フォンダン オレオ リラックス 200mL"
-    brand: "ケラスターゼ"
-    price: 0
-    capacity: "200mL"
-    pricePerUnit: "0円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "シアバター配合で髪をしなやかに整える"
-      - "ナバナ由来成分など天然由来原料を配合"
-      - "広がり・うねり・ごわつきのある髪向け処方"
-    pros:
-      - "高級サロンブランドによる信頼性の高いケア"
-      - "オレンジ系の上品な香りで毎日のケアが心地よい"
-      - "少量で伸びがよく使いやすい"
-    cons:
-      - "内容量が少なく頻繁な購入が必要"
-      - "価格帯が高めでコスパ重視の方には向かない"
-    recommendedFor: "広がりやうねりが気になる方・サロン品質を自宅で体験したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/kerastase-varie/dp-fondor_200/"
-    imageUrl: ""
-  - rank: 6
-    name: "デミ ミレアム ヘアケア コンディショナー 1800mL 詰替"
-    brand: "デミ"
-    price: 0
-    capacity: "1800mL"
-    pricePerUnit: "0円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "L.P.P.（髪のアミノ酸複合体）配合で毛髪を補修"
-      - "ドライヤーの熱や紫外線から髪を保護する処方"
-      - "大容量1800mLの詰め替え用リフィルタイプ"
-    pros:
-      - "業務用サイズで詰め替え頻度を大幅に減らせる"
-      - "プロフェッショナル向け処方で指通りなめらかな仕上がり"
-      - "毛髪補修成分配合で繰り返しのケアに向く"
-    cons:
-      - "サロン専用品のため一般流通が限られる"
-      - "大容量のため保管スペースが必要"
-    recommendedFor: "大容量でコストを抑えたい方・サロン品質のコンディショナーを求める方"
-    rakutenUrl: "https://item.rakuten.co.jp/ymura7200/milleum-co1800/"
-    imageUrl: ""
 tags:
   - "コンディショナー"
   - "コスパ"

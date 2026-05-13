@@ -50,6 +50,72 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598756%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321889%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/756/598756.jpg?_ex=128x128"
   - rank: 3
+    name: "フレナチュラ 除菌スプレー 消臭スプレー 400mL"
+    brand: "フレナチュラ"
+    price: 2200
+    capacity: "400mL"
+    pricePerUnit: "約5.5円/mL"
+    rating: 4.49
+    reviewCount: 505
+    features:
+      - "99%除菌効果の無香料タイプ"
+      - "速乾性処方で衣類が乾きやすい"
+      - "カーテン・ソファ・ベッドなど布製品全般に使用可"
+    pros:
+      - "無香料なので香りが苦手な方や香水を使う方にも向く"
+      - "衣類だけでなくインテリア布製品にも幅広く使える"
+      - "速乾性で衣類が濡れたままにならない"
+    cons:
+      - "価格情報の確認が必要"
+      - "無香料のため消臭効果の実感がわかりにくい場合がある"
+    recommendedFor: "無香料派の方・衣類以外の布製品にも消臭したい方・香り残りを避けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvz8n.3rdw6c0a.g00rvz8n.3rdw7b90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-seiketu%2Ffrais_natula_c3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-seiketu%2Fi%2F10001146%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-seiketu/cabinet/shohin01/05356845/imgrc0071384228.jpg?_ex=128x128"
+  - rank: 4
+    name: "フレナチュラ グレージュ カラーボトル 400mL"
+    brand: "フレナチュラ"
+    price: 2200
+    capacity: "400mL"
+    pricePerUnit: "約5.5円/mL"
+    rating: 4.38
+    reviewCount: 309
+    features:
+      - "インテリアになじむグレージュカラーのボトルデザイン"
+      - "99%除菌対応の無臭処方"
+      - "キッチン・トイレ・ペット用品など多用途に使用可"
+    pros:
+      - "おしゃれなボトルデザインで洗面台や玄関に出しっぱなしにできる"
+      - "無臭タイプで使用場所を選ばない"
+      - "ペットのいる家庭でも使いやすい処方"
+    cons:
+      - "価格情報の確認が必要"
+      - "デザイン重視のためコスパより見た目優先の商品"
+    recommendedFor: "インテリアにこだわる方・見た目にもこだわりたい方・ペットのいる家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvz8n.3rdw6c0a.g00rvz8n.3rdw7b90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-seiketu%2Ffrais_natula%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-seiketu%2Fi%2F10001136%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-seiketu/cabinet/shohin01/05356845/06732711/imgrc0075825306.jpg?_ex=128x128"
+  - rank: 5
+    name: "K・ガード プラスnine 500mLスプレー"
+    brand: "K・ガード"
+    price: 3080
+    capacity: "500mL"
+    pricePerUnit: "約6.2円/mL"
+    rating: 4.51
+    reviewCount: 634
+    features:
+      - "次亜塩素酸ナトリウムを有効成分とした除菌消臭スプレー"
+      - "衣類・布製品・ペット用品など幅広い用途に対応"
+      - "スプレータイプで素早く噴霧できる"
+    pros:
+      - "次亜塩素酸ナトリウム系で高い除菌効果"
+      - "500mLの使いやすいサイズ感"
+      - "ペットのいる家庭にも使いやすい処方"
+    cons:
+      - "次亜塩素酸系のため素材によっては注意が必要"
+      - "知名度がやや低く入手場所が限られる"
+    recommendedFor: "ペットのいる家庭・高い除菌効果を求める方・幅広い用途で使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7p2n.3rdw6864.g00r7p2n.3rdw7093/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fminna-kaigo%2Fk-guard%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fminna-kaigo%2Fi%2F10000942%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/minna-kaigo/cabinet/kguard/kguardnew01.jpg?_ex=128x128"
+  - rank: 6
     name: "A2Care 除菌消臭スプレー 300mL"
     brand: "A2Care"
     price: 2178
@@ -71,7 +137,7 @@ products:
     recommendedFor: "品質最優先の方・無臭にこだわる方・赤ちゃん・ペットのいる家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00thfbn.3rdw6868.g00thfbn.3rdw7b07/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa2care-official%2F10000003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa2care-official%2Fi%2F10000003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a2care-official/cabinet/ef/sale-kago/10000003_5off-cp.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 7
     name: "トップ ハイジア 除菌・消臭スプレー 詰め替え"
     brand: "ライオン（ハイジア）"
     price: 3734
@@ -93,7 +159,29 @@ products:
     recommendedFor: "部屋干しが多い方・枕やシーツの臭い対策に・コスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3bvn.3rdw6436.g00u3bvn.3rdw79c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffidela%2Ffid6-00f050vya%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffidela%2Fi%2F10445637%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fidela/cabinet/fid6pic/systempic021/fid6-00f050vya1.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 8
+    name: "シュシュキッキ リフレッシャー除菌消臭ミスト 20mL"
+    brand: "ナカノザダイレクト"
+    price: 550
+    capacity: "20mL"
+    pricePerUnit: "約28円/mL"
+    rating: 4.26
+    reviewCount: 946
+    features:
+      - "100%植物由来成分使用の日本製処方"
+      - "無臭タイプでスーツやマスクにも使いやすい"
+      - "携帯サイズで持ち運びに便利"
+    pros:
+      - "カバンに入れて外出先でもすぐ使える携帯サイズ"
+      - "植物由来成分で肌に触れる衣類にも安心"
+      - "完全無臭で衣類の香りを変えない"
+    cons:
+      - "20mLと容量が少なく自宅使いにはコスパが低い"
+      - "美容室専売品のため購入経路が限られる"
+    recommendedFor: "外出先での応急消臭に・スーツやジャケットを持ち歩きケアしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptlfn.3rdw66e3.g00ptlfn.3rdw7472/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakano-d%2Fkesisaru-20%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakano-d%2Fi%2F10015727%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakano-d/cabinet/brand/bracebe/pic/chouchoukikki_20_1.jpg?_ex=128x128"
+  - rank: 9
     name: "Sourif SET 500ml 詰替1000ml"
     brand: "Sourif（スリーフ）"
     price: 2980
@@ -114,94 +202,6 @@ products:
       - "初期コストが高め"
     recommendedFor: "まとめ買いで手間を減らしたい方・詰め替え運用でコスト管理したい方"
     rakutenUrl: "https://item.rakuten.co.jp/cubic-square/10000009/"
-    imageUrl: ""
-  - rank: 6
-    name: "K・ガード プラスnine 500mLスプレー"
-    brand: "K・ガード"
-    price: 3080
-    capacity: "500mL"
-    pricePerUnit: "0円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "次亜塩素酸ナトリウムを有効成分とした除菌消臭スプレー"
-      - "衣類・布製品・ペット用品など幅広い用途に対応"
-      - "スプレータイプで素早く噴霧できる"
-    pros:
-      - "次亜塩素酸ナトリウム系で高い除菌効果"
-      - "500mLの使いやすいサイズ感"
-      - "ペットのいる家庭にも使いやすい処方"
-    cons:
-      - "次亜塩素酸系のため素材によっては注意が必要"
-      - "知名度がやや低く入手場所が限られる"
-    recommendedFor: "ペットのいる家庭・高い除菌効果を求める方・幅広い用途で使いたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/minna-kaigo/k-guard/"
-    imageUrl: ""
-  - rank: 7
-    name: "シュシュキッキ リフレッシャー除菌消臭ミスト 20mL"
-    brand: "ナカノザダイレクト"
-    price: 0
-    capacity: "20mL"
-    pricePerUnit: "0円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "100%植物由来成分使用の日本製処方"
-      - "無臭タイプでスーツやマスクにも使いやすい"
-      - "携帯サイズで持ち運びに便利"
-    pros:
-      - "カバンに入れて外出先でもすぐ使える携帯サイズ"
-      - "植物由来成分で肌に触れる衣類にも安心"
-      - "完全無臭で衣類の香りを変えない"
-    cons:
-      - "20mLと容量が少なく自宅使いにはコスパが低い"
-      - "美容室専売品のため購入経路が限られる"
-    recommendedFor: "外出先での応急消臭に・スーツやジャケットを持ち歩きケアしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/nakano-d/kesisaru-20/"
-    imageUrl: ""
-  - rank: 8
-    name: "フレナチュラ 除菌スプレー 消臭スプレー 400mL"
-    brand: "フレナチュラ"
-    price: 0
-    capacity: "400mL"
-    pricePerUnit: "0円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "99%除菌効果の無香料タイプ"
-      - "速乾性処方で衣類が乾きやすい"
-      - "カーテン・ソファ・ベッドなど布製品全般に使用可"
-    pros:
-      - "無香料なので香りが苦手な方や香水を使う方にも向く"
-      - "衣類だけでなくインテリア布製品にも幅広く使える"
-      - "速乾性で衣類が濡れたままにならない"
-    cons:
-      - "価格情報の確認が必要"
-      - "無香料のため消臭効果の実感がわかりにくい場合がある"
-    recommendedFor: "無香料派の方・衣類以外の布製品にも消臭したい方・香り残りを避けたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/auc-seiketu/frais_natula_c3/"
-    imageUrl: ""
-  - rank: 9
-    name: "フレナチュラ グレージュ カラーボトル 400mL"
-    brand: "フレナチュラ"
-    price: 0
-    capacity: "400mL"
-    pricePerUnit: "0円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "インテリアになじむグレージュカラーのボトルデザイン"
-      - "99%除菌対応の無臭処方"
-      - "キッチン・トイレ・ペット用品など多用途に使用可"
-    pros:
-      - "おしゃれなボトルデザインで洗面台や玄関に出しっぱなしにできる"
-      - "無臭タイプで使用場所を選ばない"
-      - "ペットのいる家庭でも使いやすい処方"
-    cons:
-      - "価格情報の確認が必要"
-      - "デザイン重視のためコスパより見た目優先の商品"
-    recommendedFor: "インテリアにこだわる方・見た目にもこだわりたい方・ペットのいる家庭"
-    rakutenUrl: "https://item.rakuten.co.jp/auc-seiketu/frais_natula/"
     imageUrl: ""
 tags:
   - "消臭スプレー"

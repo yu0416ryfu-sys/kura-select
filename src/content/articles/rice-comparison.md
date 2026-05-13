@@ -34,7 +34,7 @@ products:
     capacity: "5kg×2袋"
     pricePerUnit: "約568円/kg"
     rating: 4.27
-    reviewCount: 13594
+    reviewCount: 13595
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -225,50 +225,6 @@ products:
     reviewCount: 30
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-syokunosado/cabinet/1/r-toki-g-sku.jpg?_ex=128x128"
     pricePerUnit: "約2140円/kg"
-  - rank: 11
-    name: "八代目儀兵衛 十二単 満開"
-    brand: "八代目儀兵衛"
-    price: 8800
-    capacity: "2合×12個"
-    pricePerUnit: "要更新"
-    rating: 4.78
-    reviewCount: 10658
-    features:
-      - "家庭用に使いやすい米商品"
-      - "まとめ買いやギフトに対応"
-      - "容量で比較しやすい"
-    pros:
-      - "日常の主食として使いやすい"
-      - "まとめ買いに向く"
-      - "用途に合わせて選べる"
-    cons:
-      - "精米時期や保存方法の確認が必要"
-      - "銘柄の好みは分かれる"
-    recommendedFor: "お米を容量と用途で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q912n.3rdw6700.g00q912n.3rdw7dca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgihee%2Fjh50%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgihee%2Fi%2F10000089%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gihee/cabinet/newitempage/jh_new/jh50/jh50_pg_001.jpg?_ex=128x128"
-  - rank: 12
-    name: "熊本県産 ヒノヒカリ"
-    brand: "こめたつ"
-    price: 0
-    capacity: "10kg"
-    pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "家庭用に使いやすい米商品"
-      - "まとめ買いやギフトに対応"
-      - "容量で比較しやすい"
-    pros:
-      - "日常の主食として使いやすい"
-      - "まとめ買いに向く"
-      - "用途に合わせて選べる"
-    cons:
-      - "精米時期や保存方法の確認が必要"
-      - "銘柄の好みは分かれる"
-    recommendedFor: "お米を容量と用途で比較したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/fuchigami/10000003/"
-    imageUrl: ""
 tags:
   - "お米"
   - "米"
