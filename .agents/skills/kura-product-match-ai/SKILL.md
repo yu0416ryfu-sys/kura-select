@@ -1,6 +1,6 @@
 ---
 name: kura-product-match-ai
-description: KuraSelect の reports/product-match-input-*.jsonl をもとに、update-products が自動更新できなかった商品の楽天候補を照合し、reports/ai-matches/pending/ に置ける JSONL を生成するスキル。商品候補の同一性判定、比較記事向けの商品名整形、capacity / pricePerUnit の整合判断を行う。
+description: KuraSelect の reports/toAI/kura-product-match-ai/product-match-input-*.jsonl をもとに、update-products が自動更新できなかった商品の楽天候補を照合し、reports/ai-matches/pending/ に置ける JSONL を生成するスキル。商品候補の同一性判定、比較記事向けの商品名整形、capacity / pricePerUnit の整合判断を行う。
 ---
 
 # kura-product-match-ai
@@ -12,8 +12,10 @@ KuraSelect の `pnpm update-products` が生成した商品照合候補レポー
 主に以下のファイルを対象にする。
 
 ```text
-reports/product-match-input-*.jsonl
+reports/toAI/kura-product-match-ai/product-match-input-*.jsonl
 ```
+
+ユーザーが入力 JSONL を指定していない場合は、`reports/toAI/kura-product-match-ai/` 直下の `product-match-input-*.jsonl` を対象にする。`done/` 配下は処理済みとして対象外。複数ある場合はファイル名の日付が古いものから順に処理する。
 
 入力 JSONL は各行が独立した商品照合タスク。md 全文は読まない。必要最小限として、各行の `current` / `failure` / `searchKeywords` / `candidates` だけで判断する。
 
@@ -28,6 +30,12 @@ reports/ai-matches/pending/product-match-output-YYYY-MM-DD.jsonl
 ```
 
 次回 `pnpm update-products` 実行時に自動適用される。
+
+検証まで完了した入力 JSONL は以下へ移動する。
+
+```text
+reports/toAI/kura-product-match-ai/done/product-match-input-YYYY-MM-DD.jsonl
+```
 
 ## 判定方針
 
@@ -171,12 +179,12 @@ $OutputEncoding = [System.Text.UTF8Encoding]::new($false)
 例:
 
 ```bash
-node .agents/skills/kura-product-match-ai/scripts/validate-output.mjs reports/product-match-input-YYYY-MM-DD.jsonl reports/ai-matches/pending/product-match-output-YYYY-MM-DD.jsonl
+node .agents/skills/kura-product-match-ai/scripts/validate-output.mjs reports/toAI/kura-product-match-ai/product-match-input-YYYY-MM-DD.jsonl reports/ai-matches/pending/product-match-output-YYYY-MM-DD.jsonl
 ```
 
 ## 適用確認
 
-出力 JSONL を `reports/ai-matches/pending/` に置いた後は、上記のローカル検証を必須とする。`pnpm update-products:dry` は AI match 適用後に全記事の楽天 API dry-run まで進み、通常の作業ではタイムアウトしやすいため必須にしない。
+出力 JSONL を `reports/ai-matches/pending/` に置いた後は、上記のローカル検証を必須とする。検証が通ったら、入力 JSONL を `reports/toAI/kura-product-match-ai/done/` に移動する。`pnpm update-products:dry` は AI match 適用後に全記事の楽天 API dry-run まで進み、通常の作業ではタイムアウトしやすいため必須にしない。
 
 ユーザーが明示的に希望した場合、またはローカル検証だけでは不安が残る場合のみ dry-run を実行する。
 

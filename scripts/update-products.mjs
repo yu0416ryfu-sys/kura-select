@@ -238,9 +238,9 @@ function writeCapacityReviewReports(items) {
 
 function writeProductMatchReport(items) {
   if (items.length === 0) return null;
-  const reportsDir = resolve(process.cwd(), 'reports');
-  ensureDir(reportsDir);
-  const jsonlPath = join(reportsDir, `product-match-input-${todayJst()}.jsonl`);
+  const inputDir = resolve(process.cwd(), 'reports/toAI/kura-product-match-ai');
+  ensureDir(inputDir);
+  const jsonlPath = join(inputDir, `product-match-input-${todayJst()}.jsonl`);
   writeFileSync(jsonlPath, items.map(item => JSON.stringify(item)).join('\n') + '\n', 'utf-8');
   return jsonlPath;
 }

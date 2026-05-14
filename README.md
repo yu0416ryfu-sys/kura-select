@@ -102,9 +102,9 @@ pnpm check-replacements -- --file=storage-bag-comparison.md --threshold=2
 
 - `reports/capacity-review-YYYY-MM-DD.md`
 - `reports/ai-capacity-input-YYYY-MM-DD.jsonl`
-- `reports/product-match-input-YYYY-MM-DD.jsonl`
+- `reports/toAI/kura-product-match-ai/product-match-input-YYYY-MM-DD.jsonl`
 
-AI などで照合済みの JSONL は `reports/ai-matches/pending/` に置いてから `pnpm update-products` を実行すると、起動時に記事へ反映されます。処理済みファイルは `reports/ai-matches/processed/`、要確認は `reports/ai-matches/review/`、失敗は `reports/ai-matches/failed/` に移動します。
+AI などで照合済みの JSONL は `reports/ai-matches/pending/` に置いてから `pnpm update-products` を実行すると、起動時に記事へ反映されます。AI 処理後の入力 JSONL は `reports/toAI/kura-product-match-ai/done/` に移動します。適用済みファイルは `reports/ai-matches/processed/`、要確認は `reports/ai-matches/review/`、失敗は `reports/ai-matches/failed/` に移動します。
 
 ---
 

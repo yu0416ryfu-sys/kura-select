@@ -1,9 +1,27 @@
 import fs from 'node:fs';
+import path from 'node:path';
 
-const [inputPath, outputPath] = process.argv.slice(2);
+const args = process.argv.slice(2);
+let [inputPath, outputPath] = args;
+
+function findDefaultInputPath() {
+  const inputDir = 'reports/toAI/kura-product-match-ai';
+  if (!fs.existsSync(inputDir)) return null;
+  const files = fs.readdirSync(inputDir, { withFileTypes: true })
+    .filter((entry) => entry.isFile() && /^product-match-input-.*\.jsonl$/.test(entry.name))
+    .map((entry) => path.join(inputDir, entry.name))
+    .sort((a, b) => a.localeCompare(b));
+  return files[0] ?? null;
+}
+
+if (args.length === 1) {
+  outputPath = args[0];
+  inputPath = findDefaultInputPath();
+}
 
 if (!inputPath || !outputPath) {
-  console.error('Usage: node .agents/skills/kura-product-match-ai/scripts/validate-output.mjs <input.jsonl> <output.jsonl>');
+  console.error('Usage: node .agents/skills/kura-product-match-ai/scripts/validate-output.mjs [input.jsonl] <output.jsonl>');
+  console.error('Default input: reports/toAI/kura-product-match-ai/product-match-input-*.jsonl');
   process.exit(1);
 }
 
