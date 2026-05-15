@@ -56,7 +56,7 @@ products:
     capacity: "30mL"
     pricePerUnit: "約110円/mL"
     rating: 4.4
-    reviewCount: 2117
+    reviewCount: 2118
     features:
       - "ジェルクリームタイプのワキ向けデオドラント"
       - "子どもから大人まで使いやすい設計"

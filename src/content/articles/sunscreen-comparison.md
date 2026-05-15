@@ -56,7 +56,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約21円/g"
     rating: 4.83
-    reviewCount: 29
+    reviewCount: 30
     features:
       - "世界初のミクロディフェンス処方で塗りムラを防止"
       - "水感エッセンスで軽いつけ心地"

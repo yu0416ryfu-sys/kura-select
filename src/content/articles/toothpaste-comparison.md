@@ -78,7 +78,7 @@ products:
     capacity: "パウダー5g + ペースト15g（計20g）"
     pricePerUnit: "約16.4円/g"
     rating: 4.19
-    reviewCount: 4720
+    reviewCount: 4721
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -144,7 +144,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約24円/g"
     rating: 4.6
-    reviewCount: 783
+    reviewCount: 784
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"

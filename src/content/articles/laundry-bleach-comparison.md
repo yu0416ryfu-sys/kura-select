@@ -122,7 +122,7 @@ products:
     capacity: "380g×4セット"
     pricePerUnit: "約1.5円/g"
     rating: 4.65
-    reviewCount: 702
+    reviewCount: 703
     features:
       - "高浸透洗浄技術で繊維の奥まで洗浄する液体洗剤"
       - "片手で使えるワンハンドポンプで使い勝手が良い"

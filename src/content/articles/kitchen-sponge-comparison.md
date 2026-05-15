@@ -78,7 +78,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.81
-    reviewCount: 461
+    reviewCount: 463
     features:
       - "ポリエステル＋ウレタンフォームのハードタイプ構造"
       - "3色パック×2セットのカラフルな6個組"
@@ -122,7 +122,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約199円/個"
     rating: 4.76
-    reviewCount: 471
+    reviewCount: 472
     features:
       - "天然素材のセルロース＋綿で環境にやさしい"
       - "速乾性が高く雑菌が繁殖しにくい"

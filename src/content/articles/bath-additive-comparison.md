@@ -78,7 +78,7 @@ products:
     capacity: "360g×3"
     pricePerUnit: "約1.8円/g"
     rating: 4.87
-    reviewCount: 53
+    reviewCount: 54
     features:
       - "温泉科学に基づいた本格的な薬用入浴剤"
       - "炭酸ガスが細かい泡で肌を包み込む"
