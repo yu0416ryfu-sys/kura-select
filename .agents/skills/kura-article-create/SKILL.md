@@ -84,7 +84,7 @@ description: ""     # 最大160文字
 category: category-slug
 publishedAt: YYYY-MM-DD
 updatedAt: YYYY-MM-DD
-draft: false
+draft: true            # update-products / build 後に問題なければ false へ変更
 products:
   - rank: 1
     name: ""
@@ -162,6 +162,7 @@ tags:
 ```bash
 rg "item.rakuten.co.jp" src/content/articles/{slug}-comparison.md
 pnpm update-products
+pnpm check-additions -- --target=10  # 10商品未満で候補追加したい場合のみ
 pnpm test
 pnpm build
 ```
@@ -169,6 +170,9 @@ pnpm build
 確認観点:
 
 - `rg "item.rakuten.co.jp"` が残る場合は `name` を修正して `pnpm update-products` を再実行
+- 初期作成は `draft: true`。`pnpm update-products` / `pnpm build` 後に問題なければ `draft: false` へ変更
+- 新規カテゴリでは `CATEGORY_SEARCH_RULES`、既存カテゴリの派生記事では `getArticleSpecificAdditionRule()` の追加を検討
+- `pnpm update-products` 後は `reports/` と `reports/toAI/` に要確認ファイルが出ていないか確認
 - category slug が実在する
 - title 60文字以内、description 160文字以内
 - `products[].rank` が連番
@@ -184,7 +188,9 @@ pnpm build
 1. pnpm update-products  （price / rating / rakutenUrl / imageUrl を更新）
 2. rg "item.rakuten.co.jp" src/content/articles/{slug}-comparison.md
    → 残っている場合は name を修正して再実行
-3. pnpm test
-4. pnpm build
-5. git add / commit / push
+3. reports/ と reports/toAI/ の要確認ファイルを確認
+4. 10商品未満なら pnpm check-additions -- --target=10 を検討
+5. pnpm test
+6. pnpm build
+7. 問題なければ draft: false にして git add / commit / push
 ```
