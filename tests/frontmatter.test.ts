@@ -1212,6 +1212,48 @@ products:
     expect(result.changed).toBe(false);
     expect(result.content).toBe(SAMPLE_FRONTMATTER);
   });
+
+  it("descriptionのN選も実際の商品数に合わせる", () => {
+    const content = `---
+title: "歯磨き粉おすすめ4選"
+description: "人気4選を徹底比較"
+products:
+  - rank: 1
+    name: "商品1"
+  - rank: 2
+    name: "商品2"
+  - rank: 3
+    name: "商品3"
+---
+本文
+`;
+    const result = syncTitleProductCount(content);
+
+    expect(result.changed).toBe(true);
+    expect(result.after).toBe("歯磨き粉おすすめ3選");
+    expect(result.descAfter).toBe("人気3選を徹底比較");
+    expect(result.content).toContain('description: "人気3選を徹底比較"');
+  });
+
+  it("descriptionにN選がなければdescriptionは変更しない", () => {
+    const content = `---
+title: "歯磨き粉おすすめ4選"
+description: "コスパで選ぶ歯磨き粉ガイド"
+products:
+  - rank: 1
+    name: "商品1"
+  - rank: 2
+    name: "商品2"
+---
+本文
+`;
+    const result = syncTitleProductCount(content);
+
+    expect(result.changed).toBe(true);
+    expect(result.after).toBe("歯磨き粉おすすめ2選");
+    expect(result.descBefore).toBe(result.descAfter);
+    expect(result.content).toContain('description: "コスパで選ぶ歯磨き粉ガイド"');
+  });
 });
 
 // ─── updateUpdatedAt ──────────────────────────────────────────────────────

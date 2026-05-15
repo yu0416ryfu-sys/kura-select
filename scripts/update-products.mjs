@@ -2580,11 +2580,16 @@ async function processArticle(file, articlesDir, zeroState) {
     limitResult.log.forEach(l => log(`   🗑 ${DRY_RUN ? '[dry-run] ' : ''}${l}`));
   }
 
-  // 機能6: title の「N選」を実際の商品数に同期
+  // 機能6: title・description の「N選」を実際の商品数に同期
   const titleCountResult = syncTitleProductCount(updatedContent);
   if (titleCountResult.changed) {
     updatedContent = titleCountResult.content;
-    log(`   📝 title商品数: "${titleCountResult.before}" -> "${titleCountResult.after}"`);
+    if (titleCountResult.before !== titleCountResult.after) {
+      log(`   📝 title商品数: "${titleCountResult.before}" -> "${titleCountResult.after}"`);
+    }
+    if (titleCountResult.descBefore !== titleCountResult.descAfter) {
+      log(`   📝 description商品数: "${titleCountResult.descBefore}" -> "${titleCountResult.descAfter}"`);
+    }
   }
 
   // 機能4: name に埋め込まれた容量と capacity フィールドの食い違いを修正

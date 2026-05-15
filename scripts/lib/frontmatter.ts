@@ -914,28 +914,61 @@ export function limitProductsByRank(
 }
 
 /**
- * title 内の「N選」を products 件数に同期する。
- * 「N選」がないタイトルは記事意図を壊さないため変更しない。
+ * title・description 内の「N選」を products 件数に同期する。
+ * 「N選」がないフィールドは記事意図を壊さないため変更しない。
  */
 export function syncTitleProductCount(
   content: string
-): { content: string; changed: boolean; before: string | null; after: string | null } {
+): {
+  content: string;
+  changed: boolean;
+  before: string | null;
+  after: string | null;
+  descBefore: string | null;
+  descAfter: string | null;
+} {
   const parsed = parseFrontmatter(content);
-  if (!parsed || !Array.isArray(parsed.data.products) || typeof parsed.data.title !== 'string') {
-    return { content, changed: false, before: null, after: null };
+  if (!parsed || !Array.isArray(parsed.data.products)) {
+    return { content, changed: false, before: null, after: null, descBefore: null, descAfter: null };
   }
 
   const count = parsed.data.products.length;
-  const title = parsed.data.title;
-  const nextTitle = title.replace(/[0-9０-９]+選/, `${count}選`);
-  if (nextTitle === title) return { content, changed: false, before: title, after: title };
+  const nSenRe = /[0-9０-９]+選/;
+  let changed = false;
 
-  parsed.data.title = nextTitle;
+  let before: string | null = null;
+  let after: string | null = null;
+  if (typeof parsed.data.title === 'string') {
+    const next = parsed.data.title.replace(nSenRe, `${count}選`);
+    before = parsed.data.title;
+    after = next;
+    if (next !== parsed.data.title) {
+      parsed.data.title = next;
+      changed = true;
+    }
+  }
+
+  let descBefore: string | null = null;
+  let descAfter: string | null = null;
+  if (typeof parsed.data.description === 'string') {
+    const next = parsed.data.description.replace(nSenRe, `${count}選`);
+    descBefore = parsed.data.description;
+    descAfter = next;
+    if (next !== parsed.data.description) {
+      parsed.data.description = next;
+      changed = true;
+    }
+  }
+
+  if (!changed) return { content, changed: false, before, after, descBefore, descAfter };
+
   return {
     content: dumpFrontmatter(parsed.data, parsed.body),
     changed: true,
-    before: title,
-    after: nextTitle,
+    before,
+    after,
+    descBefore,
+    descAfter,
   };
 }
 
