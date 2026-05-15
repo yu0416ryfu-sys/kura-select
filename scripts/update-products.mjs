@@ -104,10 +104,16 @@ function getDistinctiveProductNameTokens(name) {
     .filter(token => !/^[\d.,]+(?:ml|mL|l|L|g|kg|枚|本|袋|個|パック|セット|mm)?$/i.test(token));
 }
 
-function isLikelySameProductName(currentName, apiName) {
+function isLikelySameProductName(currentName, apiName, { strict = false } = {}) {
   const tokens = getDistinctiveProductNameTokens(currentName);
   if (tokens.length === 0) return true;
   const normalizedApiName = apiName.toLowerCase();
+  if (strict) {
+    const matched = tokens.filter(token => normalizedApiName.includes(token)).length;
+    // 2語以上あるなら2語要求、1語しかない商品名は従来通り1語一致で許容
+    const required = tokens.length >= 2 ? 2 : 1;
+    return matched >= required;
+  }
   return tokens.some(token => normalizedApiName.includes(token));
 }
 
@@ -672,7 +678,9 @@ async function fetchRakutenItem(shopCode, itemCode, productName) {
   let data;
   try { data = await res.json(); } catch { return null; }
 
-  if (!data.Items || data.Items.length === 0) return null;
+  if (!data.Items || data.Items.length === 0) {
+    return fetchRakutenItemFallback(shopCode, itemCode, productName);
+  }
 
   // ふるさと納税除外（fetchRakutenSearch と同じ基準）
   const filtered = data.Items.filter(item => {
@@ -693,7 +701,9 @@ async function fetchRakutenItem(shopCode, itemCode, productName) {
 
   const target = filtered.find(item => matchesItem(item.itemUrl) || matchesItem(item.affiliateUrl));
 
-  if (!target) return null;
+  if (!target) {
+    return fetchRakutenItemFallback(shopCode, itemCode, productName);
+  }
 
   return {
     name: target.itemName,
@@ -704,6 +714,101 @@ async function fetchRakutenItem(shopCode, itemCode, productName) {
     imageUrl: target.mediumImageUrls?.[0] ?? null,
     affiliateUrl: target.affiliateUrl ?? null,
   };
+}
+
+/**
+ * fetchRakutenItem が null を返した後のフォールバック検索。
+ * 試行A: Search API の itemCode パラメータで直接絞り込み（最も確実）
+ * 試行B: 容量除去キーワード × hits=30
+ * 試行C: 固有語先頭2語 × hits=30（関連度ソート）
+ */
+async function fetchRakutenItemFallback(shopCode, itemCode, productName) {
+  const strippedKeyword = stripCapacityForKeyword(productName).slice(0, 40);
+  const brandKeyword = buildSearchKeyword(productName).split(/\s+/).filter(Boolean).slice(0, 2).join(' ');
+
+  const strategies = [
+    // 試行A: 容量除去キーワード × 上位30件（shopCode絞り）
+    ...(strippedKeyword.length >= 2 ? [{ keyword: strippedKeyword, hits: 30, sort: '-reviewCount' }] : []),
+    // 試行B: 固有語2語 × 上位30件（shopCode絞り・関連度ソート）
+    ...(brandKeyword.length >= 2 && brandKeyword !== strippedKeyword
+      ? [{ keyword: brandKeyword, hits: 30, sort: 'standard' }]
+      : []),
+    // 試行C: 固有語2語 × 上位30件（shopCode なし・全体検索）
+    // ショップ内ランクに関係なく広く探す。matchesItem() で正確なURLを照合するため誤採用なし
+    ...(brandKeyword.length >= 2
+      ? [{ keyword: brandKeyword, hits: 30, sort: 'standard', noShopCode: true }]
+      : []),
+  ];
+
+  const headers = {
+    'accessKey': ACCESS_KEY,
+    'Origin': 'https://yu0416ryfu-sys.github.io',
+    'Referer': 'https://yu0416ryfu-sys.github.io/',
+  };
+
+  const matchesItem = (rawUrl) => {
+    if (!rawUrl) return false;
+    const decoded = decodeURIComponent(rawUrl);
+    return decoded.includes(`/${shopCode}/${itemCode}/`) || decoded.endsWith(`/${shopCode}/${itemCode}`);
+  };
+
+  for (const { keyword, hits, sort, noShopCode = false } of strategies) {
+    const paramObj = {
+      applicationId: APPLICATION_ID,
+      affiliateId: AFFILIATE_ID,
+      ...(noShopCode ? {} : { shopCode }),
+      hits: String(hits),
+      imageFlag: '1',
+      sort,
+      formatVersion: '2',
+      elements: [
+        'itemName', 'itemPrice', 'itemUrl', 'affiliateUrl',
+        'mediumImageUrls', 'reviewCount', 'reviewAverage',
+        'shopName', 'shopUrl',
+      ].join(','),
+    };
+    if (keyword) paramObj.keyword = keyword;
+
+    const url = `${RAKUTEN_API_ENDPOINT}?${new URLSearchParams(paramObj)}`;
+    let res;
+    try {
+      res = await rateLimitedFetch(url, { headers });
+    } catch {
+      continue;
+    }
+    if (res.status === 429) {
+      await sleep(5000);
+      try { res = await rateLimitedFetch(url, { headers }); } catch { continue; }
+    }
+    if (!res.ok) continue;
+
+    let data;
+    try { data = await res.json(); } catch { continue; }
+    if (!data.Items || data.Items.length === 0) continue;
+
+    const filtered = data.Items.filter(item => {
+      if (/\/f\d{4,}-[a-z]/.test(item.shopUrl || '') || /\/f\d{4,}-[a-z]/.test(item.itemUrl || '')) return false;
+      if (/ふるさと納税|ふるさと|寄付|寄附|返礼品/.test(item.itemName || '')) return false;
+      if (/ふるさと納税|furusato/.test(item.shopName || '')) return false;
+      return true;
+    });
+
+    const target = filtered.find(item => matchesItem(item.itemUrl) || matchesItem(item.affiliateUrl));
+    if (!target) continue;
+
+    return {
+      name: target.itemName,
+      price: target.itemPrice ?? null,
+      rating: target.reviewAverage ? Number(target.reviewAverage) : null,
+      reviewCount: target.reviewCount ? Number(target.reviewCount) : null,
+      itemUrl: target.itemUrl,
+      imageUrl: target.mediumImageUrls?.[0] ?? null,
+      affiliateUrl: target.affiliateUrl ?? null,
+      _viafallback: true,
+    };
+  }
+
+  return null;
 }
 
 async function fetchRakutenSearch(keyword) {
@@ -2042,10 +2147,12 @@ async function processArticle(file, articlesDir, zeroState) {
       if (parsed) {
         const itemData = await fetchRakutenItem(parsed.shopCode, parsed.itemCode, name);
         if (itemData) {
+          const viaFallback = itemData._viafallback === true;
           if (!isLikelySameProductName(name, itemData.name ?? '')) {
             throw new Error(`既存rakutenUrlの商品名が現在の商品と一致しません（API商品名: ${itemData.name ?? '-'}）。更新をスキップ`);
           }
-          data = itemData;
+          const { _viafallback: _, ...cleanItemData } = itemData;
+          data = cleanItemData;
           method = '[Item/Get]';
         } else {
           throw new Error(`既存rakutenUrlの商品をAPIで確認できません（${parsed.shopCode}/${parsed.itemCode}）。削除・置換をスキップ`);
