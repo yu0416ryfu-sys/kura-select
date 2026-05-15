@@ -3,7 +3,7 @@ title: "ジェルボール洗剤 コスパ最強ランキング【2026年版】1
 description: "ジェルボール洗剤を1個あたりのコストで徹底比較。アリエール・アタックZERO・ボールドなど人気商品を洗浄力・香り・コスパで解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
-updatedAt: 2026-05-13
+updatedAt: 2026-05-15
 products:
   - rank: 1
     name: "トップ クリアリキッド 詰め替え"
@@ -122,7 +122,7 @@ products:
     capacity: "1000g"
     pricePerUnit: "約6.4円/g"
     rating: 4.7
-    reviewCount: 639
+    reviewCount: 640
     features:
       - "スーツ・コート・ダウン・ニット・カシミアが洗えるドライ洗剤"
       - "無香料処方で素材本来の風合いを守る"
@@ -166,7 +166,7 @@ products:
     capacity: "5L×2本セット"
     pricePerUnit: "約548円/L"
     rating: 4.73
-    reviewCount: 515
+    reviewCount: 516
     features:
       - "業務用の大容量5L×2本セットで長期間使えるコスパ商品"
       - "衣類洗浄に加え排水管清掃にも使える多用途性"

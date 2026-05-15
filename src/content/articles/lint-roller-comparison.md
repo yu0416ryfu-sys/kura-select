@@ -3,7 +3,7 @@ title: "粘着クリーナー コスパ最強ランキング【2026年版】1巻
 description: "粘着クリーナー（コロコロ）を1巻あたりのコストで徹底比較。ニトムズ・アイリスオーヤマ・3M・レックなど人気10選を粘着力・コスパで解説します。"
 category: "lint-roller"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-13
+updatedAt: 2026-05-15
 products:
   - rank: 1
     name: "3M スコッチ ブライト 衣類用粘着クリーナー ペタコロ用ス"
