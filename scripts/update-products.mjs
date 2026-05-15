@@ -1079,7 +1079,10 @@ async function fetchRakutenSearchMany(keyword, hits = 30, page = 1) {
     await sleep(5000);
     res = await rateLimitedFetch(url, { headers: reqHeaders });
   }
-  if (!res.ok) throw new Error(`API HTTP ${res.status}`);
+  if (!res.ok) {
+    const body = await res.text().catch(() => '');
+    throw new Error(`API HTTP ${res.status}: ${body.slice(0, 200)}`);
+  }
 
   const data = await res.json();
   if (!data.Items || data.Items.length === 0) return [];
@@ -1559,8 +1562,84 @@ const CATEGORY_SEARCH_RULES = {
 };
 
 const DEFAULT_EXCLUDE_TERMS = ['ケースのみ', 'ホルダー', 'スタンド', '収納', '詰め替え容器', 'ディスペンサー'];
+const DIAPER_ACCESSORY_EXCLUDE_TERMS = [
+  'おむつカバー',
+  'オムツカバー',
+  '布おむつ',
+  '布オムツ',
+  'カバー',
+  'マジックテープ',
+  'トレーニングパンツ',
+  'トレパン',
+  'おねしょ',
+  '防水',
+  'ロンパース',
+  '服',
+  '保育園',
+  '入園',
+  '試供品',
+  '試着',
+  'お試し',
+  'お試しセット',
+  '初回購入限定',
+];
 
 function getArticleSpecificAdditionRule(category, baseKeyword) {
+  if (category === 'diaper' && /新生児/.test(baseKeyword)) {
+    return {
+      keywords: ['新生児 おむつ テープ', '紙おむつ 新生児', 'パンパース 新生児 テープ'],
+      include: ['おむつ', 'オムツ', '紙おむつ', 'テープ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
+      requiredGroups: [['新生児', 'nb', '5kg', '5000g'], ['テープ']],
+      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, 'Sサイズ', 'Mサイズ', 'Lサイズ', 'BIG', 'ビッグ', 'パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      units: ['枚'],
+      minScore: 4,
+    };
+  }
+
+  if (category === 'diaper' && /Sサイズ|S サイズ/.test(baseKeyword)) {
+    return {
+      keywords: ['Sサイズ おむつ テープ', '紙おむつ S テープ', 'パンパース S テープ'],
+      include: ['おむつ', 'オムツ', '紙おむつ', 'テープ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
+      requiredGroups: [['Sサイズ', 'S サイズ', 'テープ S', 'S テープ'], ['テープ']],
+      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, '新生児', 'NB', 'Mサイズ', 'Lサイズ', 'BIG', 'ビッグ', 'パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      units: ['枚'],
+      minScore: 4,
+    };
+  }
+
+  if (category === 'diaper' && /Mサイズ|M サイズ/.test(baseKeyword)) {
+    return {
+      keywords: ['Mサイズ おむつ テープ', '紙おむつ M テープ', 'パンパース M テープ'],
+      include: ['おむつ', 'オムツ', '紙おむつ', 'テープ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
+      requiredGroups: [['Mサイズ', 'M サイズ', 'テープ M', 'M テープ'], ['テープ']],
+      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, '新生児', 'NB', 'Sサイズ', 'Lサイズ', 'BIG', 'ビッグ', 'パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      units: ['枚'],
+      minScore: 4,
+    };
+  }
+
+  if (category === 'diaper' && /パンツ/.test(baseKeyword)) {
+    return {
+      keywords: ['パンツ おむつ M', 'パンツ おむつ L', 'パンツ おむつ BIG'],
+      include: ['おむつ', 'オムツ', '紙おむつ', 'パンツ', 'パンツタイプ', 'パンツ型', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
+      requiredGroups: [['パンツ', 'パンツタイプ', 'パンツ型']],
+      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, 'テープ', 'テープタイプ', '新生児', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      units: ['枚'],
+      minScore: 4,
+    };
+  }
+
+  if (category === 'diaper' && /BIG|ビッグ|スーパービッグ/.test(baseKeyword)) {
+    return {
+      keywords: ['BIG おむつ', 'ビッグ おむつ', 'スーパービッグ おむつ'],
+      include: ['おむつ', 'オムツ', '紙おむつ', 'BIG', 'ビッグ', 'スーパービッグ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
+      requiredGroups: [['BIG', 'ビッグ', 'スーパービッグ']],
+      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, '新生児', 'Sサイズ', 'Mサイズ', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      units: ['枚'],
+      minScore: 4,
+    };
+  }
+
   if (category === 'wrap-foil' && /保存袋|フリーザーバッグ|ストックバッグ|ジッパーバッグ/.test(baseKeyword)) {
     return {
       keywords: ['フリーザーバッグ', '保存袋', 'ジッパーバッグ'],
@@ -1668,13 +1747,25 @@ function findTermHits(text, terms) {
   return terms.filter(term => text.includes(normalizedTerm(term)));
 }
 
+function findRequiredGroupHits(text, groups = []) {
+  return groups.map(group => ({
+    group,
+    hits: findTermHits(text, group),
+  }));
+}
+
 function checkAdditionCandidateCategory(candidate, rule) {
   const text = candidateText(candidate);
   const includeHits = findTermHits(text, rule.include);
   const excludeHits = findTermHits(text, rule.exclude);
+  const requiredGroupHits = findRequiredGroupHits(text, rule.requiredGroups);
 
   if (excludeHits.length > 0) {
     return { ok: false, reason: `除外語: ${excludeHits.slice(0, 3).join(', ')}` };
+  }
+  const missingRequired = requiredGroupHits.find(group => group.hits.length === 0);
+  if (missingRequired) {
+    return { ok: false, reason: `必須語なし: ${missingRequired.group.slice(0, 3).join('/')}` };
   }
   if (rule.requireInclude && includeHits.length === 0) {
     return { ok: false, reason: 'カテゴリ語なし' };
@@ -1688,11 +1779,17 @@ function getAdditionCandidateDiagnostics(candidate, rule) {
   return {
     includeHits: findTermHits(text, rule.include),
     excludeHits: findTermHits(text, rule.exclude),
+    requiredGroupHits: findRequiredGroupHits(text, rule.requiredGroups),
   };
 }
 
 function formatTermHits(label, hits) {
   return `${label}: ${hits.length > 0 ? hits.slice(0, 5).join(', ') : 'なし'}`;
+}
+
+function formatRequiredGroupHits(groups = []) {
+  if (groups.length === 0) return '必須語: なし';
+  return `必須語: ${groups.map(group => group.hits.length > 0 ? group.hits.slice(0, 2).join('|') : `未一致(${group.group.slice(0, 2).join('/')})`).join(' / ')}`;
 }
 
 function scoreAdditionCandidate(candidate, rule) {
@@ -1704,6 +1801,13 @@ function scoreAdditionCandidate(candidate, rule) {
   if (includeHits.length > 0) {
     score += 3 + Math.min(includeHits.length - 1, 2);
     reasons.push(`カテゴリ語: ${includeHits.slice(0, 3).join(', ')}`);
+  }
+  const requiredGroupHits = findRequiredGroupHits(text, rule.requiredGroups);
+  for (const group of requiredGroupHits) {
+    if (group.hits.length > 0) {
+      score += 2;
+      reasons.push(`必須語: ${group.hits.slice(0, 2).join(', ')}`);
+    }
   }
 
   const excludeHits = findTermHits(text, rule.exclude);
@@ -1735,8 +1839,8 @@ function buildExcludedCandidatesSection(excludedCandidates) {
     if (item.capacity) section += ` / 容量: ${item.capacity}`;
     if (item.score !== null) section += ` / スコア: ${item.score}`;
     section += `\n`;
-    if (item.includeHits || item.excludeHits) {
-      section += `  - 判定: ${formatTermHits('カテゴリ語', item.includeHits ?? [])} / ${formatTermHits('除外語', item.excludeHits ?? [])}\n`;
+    if (item.includeHits || item.excludeHits || item.requiredGroupHits) {
+      section += `  - 判定: ${formatTermHits('カテゴリ語', item.includeHits ?? [])} / ${formatTermHits('除外語', item.excludeHits ?? [])} / ${formatRequiredGroupHits(item.requiredGroupHits ?? [])}\n`;
     }
     section += `  - URL: ${item.url}\n`;
     section += `  - 商品名: ${item.name}\n`;
@@ -1866,7 +1970,13 @@ async function checkAdditions() {
       const candidates = [];
       const seenCandidateUrls = new Set();
       for (const keyword of searchRule.keywords) {
-        const fetched = await fetchRakutenSearchMany(keyword, 30);
+        let fetched = [];
+        try {
+          fetched = await fetchRakutenSearchMany(keyword, 30);
+        } catch (e) {
+          console.log(`   ⚠ 検索失敗: "${keyword}" - ${e.message}`);
+          continue;
+        }
         for (const item of fetched) {
           const url = toDirectItemUrl(item.itemUrl) ?? toDirectItemUrl(item.affiliateUrl);
           const dedupeKey = url ?? normalizeProductIdentity(item.name);
@@ -1875,6 +1985,10 @@ async function checkAdditions() {
           candidates.push({ ...item, sourceKeyword: keyword });
         }
         await new Promise(r => setTimeout(r, 500));
+      }
+
+      if (candidates.length === 0) {
+        throw new Error('全検索キーワードで候補を取得できませんでした');
       }
 
       const stats = {
@@ -1906,6 +2020,7 @@ async function checkAdditions() {
           sourceKeyword: candidate.sourceKeyword ?? '-',
           includeHits: diagnostics.includeHits,
           excludeHits: diagnostics.excludeHits,
+          requiredGroupHits: diagnostics.requiredGroupHits,
         });
       };
 
@@ -2031,7 +2146,7 @@ async function checkAdditions() {
         section += `- スコア: ${s.score}（検索: ${s.sourceKeyword}${s.scoreReasons.length ? ` / ${s.scoreReasons.join(' / ')}` : ''}）\n`;
         if (s.usedAsNoCapacityFallback) section += `- 容量抽出不可の補完採用\n`;
         const diagnostics = getAdditionCandidateDiagnostics(s, searchRule);
-        section += `- 判定: ${formatTermHits('カテゴリ語', diagnostics.includeHits)} / ${formatTermHits('除外語', diagnostics.excludeHits)}\n`;
+        section += `- 判定: ${formatTermHits('カテゴリ語', diagnostics.includeHits)} / ${formatTermHits('除外語', diagnostics.excludeHits)} / ${formatRequiredGroupHits(diagnostics.requiredGroupHits)}\n`;
         section += `\n`;
       }
       section += buildExcludedCandidatesSection(excludedCandidates);

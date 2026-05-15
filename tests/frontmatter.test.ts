@@ -145,6 +145,10 @@ describe("buildSearchKeyword", () => {
     );
   });
 
+  it("単独の英字サイズトークンを除去する", () => {
+    expect(buildSearchKeyword("おむつ テープ M")).toBe("おむつ テープ");
+  });
+
   it("40文字を超える場合は切り詰める", () => {
     const longName = "あ".repeat(50);
     expect(buildSearchKeyword(longName).length).toBe(40);

@@ -50,6 +50,9 @@ export function buildSearchKeyword(productName: string): string {
     .replace(/\s*\d+[mMlLgG枚本袋個入パック巻]+.*$/g, "")
     .replace(/\s*(×|x|X)\s*\d+.*$/g, "")
     .replace(/\s*(大容量|超大型|超特大|特大|大型|レギュラー|ミニ)/g, "")
+    .split(/\s+/)
+    .filter(token => !/^[A-Za-z]$/.test(token))
+    .join(" ")
     .trim();
 
   if (kw.length > 40) {
