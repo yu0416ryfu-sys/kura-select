@@ -8,34 +8,21 @@ description: |
 
 # KuraSelect 新規記事生成スキル
 
+楽天URLから `src/content/articles/{slug}-comparison.md` を新規作成する。品質とトークン節約を優先し、商品ページの長文説明を読み込みすぎない。
+
 ## 入力
 
-- **カテゴリ**: 既存slug（`references/categories.md` 参照）または `新規: slug|日本語名|説明文|絵文字`
-- **商品URL**: ランク1〜4の `item.rakuten.co.jp` URL（最低4件推奨）
+- 必須: `slug` / 記事テーマ / カテゴリslugまたは `新規: slug|日本語名|説明文|絵文字` / 楽天商品URL
+- 任意: 比較単位（枚、本,mL,g,回など）/ 想定読者 / 除外したい商品タイプ
+- 楽天URLは最低4件推奨。10件を超える場合は、初期記事では上位10件までにする
 
----
+## Step 1: 既存カテゴリ確認
 
-## Step 1: 商品情報取得
+`references/categories.md` は補助情報として扱い、必ず実体の `src/content/categories/*.md` を確認する。
 
-全URLをWebFetchし、各商品の `name` / `brand` / `capacity` / 特徴テキストを確定する。
-
-> `name` と `capacity` はスクリプトで上書きされない。推測せず必ずWebFetchで確認すること。
-
-## Step 2: `name` 正規化（厳守）
-
-`update-products.mjs` が `name` をそのまま楽天API検索キーワードに使うため、以下を守る:
-
-- メーカー名プレフィックスを除く（「花王 マジックリン」→「マジックリン」）
-- `&` と `・`（中点）を含めない
-- 容量除去後に英字1文字（L/M/S）が末尾に残らないようにする
-- 全角スペース・記号は半角に正規化する
-
-## Step 3: カテゴリ処理
-
-`references/categories.md` を Read して既存カテゴリを確認する。
-
-- **既存slug**: そのまま使用
-- **新規指定時**: `src/content/categories/{slug}.md` を作成（`order` は現在の最大値 + 1）
+- 既存slug: `src/content/categories/{slug}.md` が存在することを確認
+- 新規カテゴリ: 全カテゴリの `order` 最大値 + 1 で `src/content/categories/{slug}.md` を作成
+- 記事テーマとカテゴリslugが明らかにズレる場合は編集前にユーザーへ確認する
 
 ```yaml
 ---
@@ -43,17 +30,56 @@ name: カテゴリ日本語名
 slug: category-slug
 description: 説明文（1〜2文）
 icon: 絵文字
-order: 41
+order: 44
 ---
 ```
 
-## Step 4: 記事ファイルを生成
+## Step 2: 商品情報取得
 
-`src/content/articles/{slug}-comparison.md` を以下のテンプレートで生成する。
+全URLを確認するが、取得対象は最小限にする。
+
+| 取得項目 | 用途 |
+|---|---|
+| 正式商品名 | `name` 正規化の元 |
+| ブランド名 | `brand` |
+| 容量・枚数・個数 | `capacity` |
+| 商品タイプ・仕様 | `features` / 本文の根拠 |
+
+価格・rating・reviewCount・imageUrl・affiliateUrl は `pnpm update-products` に任せる。商品ページの長いレビュー、広告文、ランキング文言は読まない。
+
+> `name` と `capacity` は初期品質に直結する。推測せず、商品ページまたはURLから確認できる範囲で確定する。
+
+## Step 3: カテゴリ適合チェック
+
+各URLが記事テーマの「商品本体」か確認する。
+
+- 明らかなカテゴリ外商品は追加しない
+- 関連アクセサリ、収納用品、詰め替え容器、交換部品のみの商品は原則除外
+- 近接カテゴリの商品は、主用途が違えば除外
+- 判断が微妙、またはユーザー指定URLを除外する場合は編集前に確認する
+
+## Step 4: `name` / `capacity` 正規化
+
+`update-products.mjs` は `name` を検索キーワードに使うため、短く比較表向けに整える。
+
+- `name` は60文字以内目安
+- メーカー名プレフィックスを除く。ただし商品理解に必要なブランドは残す
+- 送料無料、最安、ランキング、ショップ名、広告文、記号過多を除く
+- `&` と `・`（中点）を含めない
+- 容量除去後に英字1文字（L/M/S）が末尾に残らないようにする
+- 全角スペース・記号は半角に寄せる
+- `capacity` は `calcPricePerUnit` が解釈しやすい短い表記にする
+  - 例: `30枚×3個（90枚）`, `400mL×3袋`, `12ロール`, `10本`
+
+## Step 5: 記事ファイル生成
+
+既存記事全文は大量に読まない。構成確認が必要な場合は、近いカテゴリの記事を1本だけ読む。
+
+`src/content/articles/{slug}-comparison.md` を作成する。
 
 ```yaml
 ---
-title: ""           # 最大60文字。形式: ○○ コスパ最強ランキング【2026年版】1{単位}あたり最安で比較
+title: ""           # 最大60文字
 description: ""     # 最大160文字
 category: category-slug
 publishedAt: YYYY-MM-DD
@@ -65,7 +91,7 @@ products:
     brand: ""
     price: 0
     capacity: ""
-    pricePerUnit: "0円/単位"   # 単位はカテゴリに合わせる（個/枚/ml/g/回 など）
+    pricePerUnit: "0円/単位"
     rating: 0
     reviewCount: 0
     features:
@@ -82,7 +108,6 @@ products:
     recommendedFor: ""
     rakutenUrl: "https://item.rakuten.co.jp/..."
     imageUrl: ""
-  # rank 2〜4 も同形式
 tags:
   - "○○ おすすめ"
   - "○○ コスパ"
@@ -91,52 +116,75 @@ tags:
 ---
 ```
 
-### `features` / `pros` / `cons` 作成ルール
+## Product Copy Rules
 
-- `features` / `pros` / `cons` / `recommendedFor` には、価格・容量・個数・本数・枚数・単価・レビュー件数・ランキング順位など、更新で変わりうる具体的な数字を書かない
-- 数値情報は `price` / `capacity` / `pricePerUnit` / `rating` / `reviewCount` の各フィールドに閉じ込める
-- 「安い」「大容量」「高評価」など、数値更新で崩れやすい表現は避ける。使う場合は「比較的」「選びやすい」など断定しない表現にする
-- `features` は商品ページで確認できる仕様・設計・素材・タイプなどの客観情報を書く
-- `pros` は購入者にとっての使いやすさ・選びやすさ・向いている用途を書く
-- `cons` は欠点を煽らず、合わない用途・注意点・好みが分かれる点として書く
-- 各項目は重複させず、1行1観点にする
+- `features` / `pros` / `cons` / `recommendedFor` に、価格・容量・個数・本数・枚数・単価・レビュー件数・ランキング順位など更新で変わる数字を書かない
+- 数値情報は `price` / `capacity` / `pricePerUnit` / `rating` / `reviewCount` に閉じ込める
+- 「安い」「大容量」「高評価」など更新で崩れやすい表現は避ける
+- `features`: 商品ページで確認できる仕様・設計・素材・タイプ
+- `pros`: 使いやすさ、選びやすい用途、ユーザー像
+- `cons`: 合わない用途、注意点、好みが分かれる点
+- 商品ごとの文言を使い回さない。完全同一の `features` / `pros` / `cons` を複数商品に並べない
 - 薬機法・景表法に触れやすい効果効能の断定、「最安」「No.1」など根拠が必要な断定は避ける
 
-**役割の目安**:
+## Body Rules
 
-- `features`: 客観的な商品特徴、タイプや使用感の方向性、仕様・設計上の違い
-- `pros`: 日常シーンでの便利さ、選びやすいユーザー像、他候補と比べた実用面の良さ
-- `cons`: 好みが分かれる点、向かない使い方、購入前に確認したい点
+本文は選び方中心にし、更新で壊れる固定数字を避ける。
 
-**本文構成（この順序で生成）**:
+- 価格、レビュー件数、ランキング順位、年間コスト、特定商品の単価を本文に固定しない
+- 商品名の列挙は必要最小限にする。ランキングや比較は frontmatter の比較表に任せる
+- 「コスパ比較のポイント」では、単価の考え方・容量単位・まとめ買い時の注意点を書く
+- FAQは3〜4問。医薬品的な効果効能、過度な断定、根拠のない推奨を避ける
 
-```
+本文構成:
+
+```markdown
 ## ○○の選び方ガイド
 ### [商材に合った観点 2〜4個]
 
 ## タイプ別の特徴と使い分け
 
 ## コスパ比較のポイント
-[比較表を含む]
 
 ## よくある質問（FAQ）
-[Q&A 3〜4問]
 
 ## まとめ
 
 ---
+
 ※ 価格は記事執筆時点の楽天市場での販売価格です。価格は変動する場合があります。
 ```
 
-## Step 5: 完了後の案内
+## Step 6: 生成後チェック
 
-生成完了後、ユーザーに以下をそのまま伝える（`{slug}` は実際のスラグに置換）:
+可能な範囲で確認する。
 
+```bash
+rg "item.rakuten.co.jp" src/content/articles/{slug}-comparison.md
+pnpm update-products
+pnpm test
+pnpm build
 ```
-生成完了。次の手順:
+
+確認観点:
+
+- `rg "item.rakuten.co.jp"` が残る場合は `name` を修正して `pnpm update-products` を再実行
+- category slug が実在する
+- title 60文字以内、description 160文字以内
+- `products[].rank` が連番
+- `features` / `pros` / `cons` が商品間で完全重複していない
+- 本文に更新で壊れる価格・レビュー件数・年間コストが残っていない
+
+## 完了案内
+
+生成完了後、実行済みコマンドと未実行コマンドを短く伝える。
+
+```text
+生成完了。次の確認:
 1. pnpm update-products  （price / rating / rakutenUrl / imageUrl を更新）
-2. grep -r "item.rakuten.co.jp" src/content/articles/{slug}-comparison.md
-   → 残っている場合は商品名を修正して再実行
-3. pnpm build  （スキーマ検証）
-4. git add / commit / push
+2. rg "item.rakuten.co.jp" src/content/articles/{slug}-comparison.md
+   → 残っている場合は name を修正して再実行
+3. pnpm test
+4. pnpm build
+5. git add / commit / push
 ```
