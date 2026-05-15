@@ -50,6 +50,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qklvn.3rdw6cc2.g00qklvn.3rdw7141/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymura7200%2Fschwarzkopf-kur-clsphm500%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymura7200%2Fi%2F10009582%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymura7200/cabinet/schwrzkopf/schwarzkopf-spc8.jpg?_ex=128x128"
   - rank: 3
+    name: "オルナオーガニック ヘアトリートメント 180g"
+    brand: "ALLNA ORGANIC（イルミルド）"
+    price: 2200
+    capacity: "180g"
+    pricePerUnit: "約12円/g"
+    rating: 4.65
+    reviewCount: 2199
+    features:
+      - "12種の植物成分を含む25種以上の植物由来成分配合"
+      - "シルク・ココナッツオイル・アルガンオイルなどの保湿成分を配合"
+      - "硫酸塩・パラベンなど8つの無添加処方"
+    pros:
+      - "植物由来成分主体で頭皮や髪に低刺激なケアができる"
+      - "オーガニック志向で成分にこだわりたい方に適している"
+      - "シャンプー後2〜3分放置するだけの手軽な使い方"
+    cons:
+      - "無添加処方のため強いダメージへの即効性は高補修タイプに劣る"
+      - "180gとやや少なめの容量"
+    recommendedFor: "成分・無添加にこだわりたい方・植物由来のナチュラルヘアケアを求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b07gkxh2ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000959%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/ctr/905b07gkxh2ss-39.jpg?_ex=128x128"
+  - rank: 4
     name: "クイーンズバスルーム システムトリートメント Step1 Step2 各240g×2"
     brand: "クイーンズバスルーム"
     price: 6600
@@ -71,7 +93,7 @@ products:
     recommendedFor: "ブリーチ・ハイダメージ毛を本格的にケアしたい方・2ステップのサロンライクなケアを自宅で行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qjlvn.3rdw6daa.g00qjlvn.3rdw7d36/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fque-bath%2F10000082%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fque-bath%2Fi%2F10000082%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/que-bath/cabinet/10259420/imgrc0089577437.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "LUXスーパーリッチシャイン ダメージリペア 洗い流すトリートメント ヘアマスク"
     brand: "ユニリーバ（LUX）"
     price: 2377
@@ -93,7 +115,7 @@ products:
     recommendedFor: "毎日のケアとしてコスパよく続けたい方・香りを楽しみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prvmn.3rdw683e.g00prvmn.3rdw7a5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwich%2Fluxhairmaskset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwich%2Fi%2F10023186%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wich/cabinet/gazou62/luxhairmaskset-1.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "パンテーン ミラクルズ ヘアトリートメント 100mL"
     brand: "P&G（パンテーン）"
     price: 1000
@@ -115,7 +137,7 @@ products:
     recommendedFor: "洗い流し不要のアウトバスケアを習慣にしたい方・ドライヤー前の熱ケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987176174048-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461240%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4987176174048.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "トリートメント フォンダン オレオ リラックス 200mL"
     brand: "ケラスターゼ"
     price: 4400
@@ -137,7 +159,7 @@ products:
     recommendedFor: "日常的にくせ毛・広がりをケアしたい方・毎日コンディショナーを使う習慣がある方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fdp-fondor_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000134%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/dp-fondor_200/dp-fondor_200_01.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 8
     name: "スペシャルトリートメント マスク オレオ リラックス 200mL"
     brand: "ケラスターゼ"
     price: 7040
@@ -159,7 +181,7 @@ products:
     recommendedFor: "くせ毛・広がりが悩みの方・湿気に負けないまとまり髪を目指す方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fdp-masqor_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/itempage/dp-masqor_200/new_251121.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "スペシャルトリートメント マスク クロノロジスト 200mL"
     brand: "ケラスターゼ"
     price: 13200
@@ -181,7 +203,7 @@ products:
     recommendedFor: "エイジングケアとダメージ補修を同時にしたい方・カラーやパーマで傷みが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fch-masqc_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/ch-masqc_200/260428new.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
     brand: "ファイントゥデイ（フィーノ）"
     price: 2321
@@ -203,28 +225,6 @@ products:
     recommendedFor: "カラー・パーマのダメージを集中ケアしたい方・サロン品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F2873936011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10607476%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000343/2873936011.jpg?_ex=128x128"
-  - rank: 10
-    name: "ALLNA ORGANIC ヘアトリートメント 180g"
-    brand: "ALLNA ORGANIC（イルミルド）"
-    price: 0
-    capacity: "180g"
-    pricePerUnit: "0円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "12種の植物成分を含む25種以上の植物由来成分配合"
-      - "シルク・ココナッツオイル・アルガンオイルなどの保湿成分を配合"
-      - "硫酸塩・パラベンなど8つの無添加処方"
-    pros:
-      - "植物由来成分主体で頭皮や髪に低刺激なケアができる"
-      - "オーガニック志向で成分にこだわりたい方に適している"
-      - "シャンプー後2〜3分放置するだけの手軽な使い方"
-    cons:
-      - "無添加処方のため強いダメージへの即効性は高補修タイプに劣る"
-      - "180gとやや少なめの容量"
-    recommendedFor: "成分・無添加にこだわりたい方・植物由来のナチュラルヘアケアを求める方"
-    rakutenUrl: "https://item.rakuten.co.jp/tsurunishi/905b07gkxh2ss/"
-    imageUrl: ""
 tags:
   - "ヘアトリートメント おすすめ"
   - "ヘアマスク コスパ"

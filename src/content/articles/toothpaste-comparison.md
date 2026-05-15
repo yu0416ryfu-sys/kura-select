@@ -72,13 +72,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/paste_ok_08.jpg?_ex=128x128"
   - rank: 4
-    name: "キラルン 2点ミニセット パウダー5g+15g（20g） ペースト15g"
+    name: "キラルン 2点ミニセット パウダー5g＋ペースト15g"
     brand: "RUKEN"
     price: 328
-    capacity: "5g+15g（20g）"
+    capacity: "パウダー5g + ペースト15g（計20g）"
     pricePerUnit: "約16.4円/g"
     rating: 4.19
-    reviewCount: 4718
+    reviewCount: 4720
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"

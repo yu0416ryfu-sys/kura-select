@@ -206,7 +206,7 @@ products:
   - rank: 10
     name: "令和7年 佐渡産コシヒカリ 2kg"
     brand: "食の宝島佐渡"
-    price: 4280
+    price: 3922
     capacity: "2kg"
     features:
       - "佐渡産コシヒカリの2kg商品"
@@ -224,7 +224,7 @@ products:
     rating: 4.77
     reviewCount: 30
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-syokunosado/cabinet/1/r-toki-g-sku.jpg?_ex=128x128"
-    pricePerUnit: "約2140円/kg"
+    pricePerUnit: "約1961円/kg"
 tags:
   - "お米"
   - "米"

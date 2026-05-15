@@ -182,13 +182,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptlfn.3rdw66e3.g00ptlfn.3rdw7472/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakano-d%2Fkesisaru-20%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakano-d%2Fi%2F10015727%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakano-d/cabinet/brand/bracebe/pic/chouchoukikki_20_1.jpg?_ex=128x128"
   - rank: 9
-    name: "Sourif SET 500ml 詰替1000ml"
+    name: "Sourif（スリーフ）除菌スプレー 500ml＋詰替1L"
     brand: "Sourif（スリーフ）"
-    price: 2980
-    capacity: "500mL 詰替1000mL"
+    price: 3200
+    capacity: "本体500ml + 詰替1000ml"
     pricePerUnit: "0円/mL"
-    rating: 0
-    reviewCount: 0
+    rating: 4.54
+    reviewCount: 1031
     features:
       - "本体500mLと詰め替え1000mLのセット販売"
       - "速乾性の高いスプレータイプ"
@@ -201,8 +201,8 @@ products:
       - "大容量のため保管スペースが必要"
       - "初期コストが高め"
     recommendedFor: "まとめ買いで手間を減らしたい方・詰め替え運用でコスト管理したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/cubic-square/10000009/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sughn.3rdw62df.g00sughn.3rdw7388/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcubic-square%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcubic-square%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cubic-square/cabinet/mem_item/asrk/c/10000009line12.jpg?_ex=128x128"
 tags:
   - "消臭スプレー"
   - "ファブリーズ"

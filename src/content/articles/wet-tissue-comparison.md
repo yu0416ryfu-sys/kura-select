@@ -116,13 +116,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10048919%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10048919%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin76/10048919.jpg?_ex=128x128"
   - rank: 6
-    name: "Hugmuu 厚手ウェットティッシュ"
+    name: "Hugmuu 厚手ウェットティッシュ 96枚"
     brand: "Hugmuu"
-    price: 0
-    capacity: "80枚"
-    pricePerUnit: "要更新"
-    rating: 0
-    reviewCount: 0
+    price: 2980
+    capacity: "96枚（蓋付き）"
+    pricePerUnit: "約31円/枚"
+    rating: 4.35
+    reviewCount: 275
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -135,8 +135,8 @@ products:
       - "用途に合う成分確認が必要"
       - "乾燥しない保管が必要"
     recommendedFor: "ウェットティッシュを枚数と使いやすさで比較したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/slotre/10000199/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t237n.3rdw6c98.g00t237n.3rdw7b8b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fslotre%2F10000234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fslotre%2Fi%2F10000356%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/sale-main/hunwariatude_5_3.jpg?_ex=128x128"
 tags:
   - "ウェットティッシュ"
   - "除菌"

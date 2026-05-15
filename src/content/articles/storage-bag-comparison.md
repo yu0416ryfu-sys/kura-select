@@ -118,9 +118,9 @@ products:
   - rank: 6
     name: "ジップロック ストックバッグ L 16枚"
     brand: "旭化成（ジップロック）"
-    price: 1323
+    price: 1288
     capacity: "16枚"
-    pricePerUnit: "約82.7円/枚"
+    pricePerUnit: "約80.5円/枚"
     rating: 4.4
     reviewCount: 200
     features:
@@ -135,8 +135,8 @@ products:
       - "フリーザーバッグより薄手で冷凍保存には不向き"
       - "ダブルジッパーではないため密封性はやや劣る"
     recommendedFor: "冷蔵保存がメインの方・大きめサイズが必要な方・開けやすさ重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ug2dn.3rdw6cca.g00ug2dn.3rdw7c69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpontakushop%2Fq7nvozb4qasz5rbkxq3kuqagj4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpontakushop%2Fi%2F10639285%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pontakushop/cabinet/12042624/25426750_0.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqv2n.3rdw6222.g00uqv2n.3rdw7c45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fastershop%2Fxpdxwzpdurl4lwg37kw655h3vu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fastershop%2Fi%2F10198196%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/astershop/cabinet/11875643/34547266_1.jpg?_ex=128x128"
   - rank: 7
     name: "業務用 チャック付きポリ袋 B5サイズ 100枚入"
     brand: "業務用"

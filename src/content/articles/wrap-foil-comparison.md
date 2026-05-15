@@ -52,9 +52,9 @@ products:
   - rank: 3
     name: "【ケース販売】サランラップ 業務用 BOXタイプ 30cm×"
     brand: "旭化成（サランラップ）"
-    price: 14300
+    price: 15400
     capacity: "50m"
-    pricePerUnit: "約286円/m"
+    pricePerUnit: "約308円/m"
     rating: 4.83
     reviewCount: 78
     features:

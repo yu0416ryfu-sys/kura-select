@@ -158,7 +158,7 @@ products:
       - "ケース単位（80ロール）での購入が必要"
     recommendedFor: "肌の敏感な方・シャワートイレ使用者・品質最優先の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quq9n.3rdw60c1.g00quq9n.3rdw73f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-hachidai%2F888779%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-hachidai%2Fi%2F10539450%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-hachidai/cabinet/1/gazou4/imgrc0095878725.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-hachidai/cabinet/sozai/smn/oshiri_celeb2_0.jpg?_ex=128x128"
   - rank: 8
     name: "丸富製紙 ミッフィー トイレットペーパー ダブル 12ロール"
     brand: "無地・無印刷（エコ仕様）"
