@@ -1303,7 +1303,7 @@ const CATEGORY_SEARCH_RULES = {
   'fabric-softener': {
     keywords: ['柔軟剤', '無添加 柔軟剤', '赤ちゃん 柔軟剤'],
     include: ['柔軟剤', 'ソフラン', 'レノア', 'ハミング', 'さらさ', 'ファーファ', 'ランドリン'],
-    exclude: ['洗剤', '漂白剤', 'ビーズ', '消臭スプレー', 'シート'],
+    exclude: ['洗剤', '漂白剤', 'ビーズ', '消臭スプレー', 'シート', '精油', 'エッセンシャルオイル', 'アロマオイル'],
     units: ['ml', '個'],
   },
   'face-wash': {
@@ -1559,6 +1559,25 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
       minScore: 4,
     };
   }
+
+  // 敏感肌・赤ちゃん向け柔軟剤記事の専用ルール
+  // fabric-softener カテゴリのうち「敏感肌/低刺激/赤ちゃん」をテーマにした記事向け。
+  // デフォルトの fabric-softener ルールでは精油・アロマオイルや一般柔軟剤（ダウニー等）が
+  // 混入するため、include/exclude をより厳格にする。
+  if (category === 'fabric-softener' && /敏感肌|低刺激|赤ちゃん/.test(baseKeyword)) {
+    return {
+      keywords: ['無添加 柔軟剤', '敏感肌 柔軟剤', '赤ちゃん 柔軟剤'],
+      include: ['柔軟剤', 'ファーファ', 'ランドリン', 'さらさ', '無添加', '低刺激', '赤ちゃん', 'ベビー', '敏感肌'],
+      exclude: [
+        '洗剤', '漂白剤', 'ビーズ', '消臭スプレー', 'シート',
+        '精油', 'エッセンシャルオイル', 'アロマオイル',
+        'ダウニー',
+      ],
+      units: ['ml', '個'],
+      minScore: 4,
+    };
+  }
+
   return null;
 }
 
