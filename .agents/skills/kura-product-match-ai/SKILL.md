@@ -41,6 +41,13 @@ reports/toAI/kura-product-match-ai/done/product-match-input-YYYY-MM-DD.jsonl
 
 `current` 商品と `candidates` の中から、同一または実質的に同じ商品を選ぶ。
 
+**判定の最初のステップ: candidates に既存 URL が含まれるか確認する**
+
+`current.rakutenUrl` のショップコード＋商品コード部分と、各 candidate の `directItemUrl` を照合する。一致するものがあれば failure stage によらず高確信で `replace` にできる。
+
+- `failure.stage` が `item-name-mismatch` の場合: 商品は楽天に存在し名前が変わっただけなので、candidates に**必ず**同一 URL の商品が含まれる。見つからない場合は実装バグの疑いがあるため `review` にしてユーザーへ報告する。
+- `failure.stage` が `item-get-failed` の場合: 検索経由で同一 URL が candidates に含まれることがある。含まれない場合のみブランド・種別・容量で照合する。
+
 候補が弱い場合は、すぐ `review` にせず、`current.name` から検索用キーワードを段階的に作る。数量・容量つきの商品名は楽天検索で外れやすいため、以下の順に短くする。
 
 1. 元の商品名から数量・容量を除く
@@ -80,6 +87,12 @@ AI判定結果に使えるURLは、最終的に JSONL の `candidates` に存在
 - ショップ独自セットで中身が不明
 - current の特徴文と矛盾する商品
 - 確信できない候補
+
+**全候補がカテゴリ外になる場合**
+
+candidates が全て対象商品と無関係なカテゴリで埋まっている場合（例: ハンドソープ検索でソープディスペンサー機器のみ、歯間ブラシ検索で歯磨き粉のみ）、`searchKeywords` の生成元である `current.category` フィールドが誤っている可能性がある。`candidates[*].sourceKeyword` と `current.category` を確認し、商品ジャンルと一致しているかを見る。
+
+この場合は `review` にしたうえで、`reason` に「searchKeywords カテゴリズレの疑い: `current.category = "xxx"` が商品内容と不一致」と記載する。作業後にユーザーへ報告する。
 
 確信できない場合は無理に選ばず `review` にする。
 
