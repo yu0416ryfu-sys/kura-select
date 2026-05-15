@@ -815,6 +815,42 @@ describe("removeProductFromFrontmatter", () => {
     const result = removeProductFromFrontmatter(SAMPLE_FRONTMATTER, "存在しない商品");
     expect(result).toBeNull();
   });
+
+  it("3商品の中間 rank:2 を削除すると元 rank:3 が rank:2 に詰まる", () => {
+    const three = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "商品A"
+    price: 1000
+    rakutenUrl: "https://example.com/a"
+    imageUrl: "https://example.com/a.jpg"
+  - rank: 2
+    name: "商品B"
+    price: 900
+    rakutenUrl: "https://example.com/b"
+    imageUrl: "https://example.com/b.jpg"
+  - rank: 3
+    name: "商品C"
+    price: 800
+    rakutenUrl: "https://example.com/c"
+    imageUrl: "https://example.com/c.jpg"
+---
+
+本文テキスト。
+`;
+    const result = removeProductFromFrontmatter(three, "商品B");
+    expect(result).not.toBeNull();
+    expect(result).toContain('  - rank: 1');
+    expect(result).toContain('"商品A"');
+    expect(result).toContain('  - rank: 2');
+    expect(result).toContain('"商品C"');
+    expect(result).not.toContain('"商品B"');
+    expect(result).not.toContain('  - rank: 3');
+  });
 });
 
 // ─── reorderProductsByPricePerUnit ────────────────────────────────────────

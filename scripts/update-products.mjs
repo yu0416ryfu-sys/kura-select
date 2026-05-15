@@ -16,6 +16,7 @@
 
 import { readFileSync, writeFileSync, appendFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
+import { spawnSync } from 'child_process';
 import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
@@ -393,7 +394,42 @@ function validateUrlLike(value) {
 
 function applyAiMatchToContent(content, match) {
   if (match.action === 'review') {
-    return { ok: true, changed: false, review: true, message: match.reason ?? 'review' };
+    if (match.decision === 'delete') {
+      const allProducts = extractAllProductsData(content);
+      const rankProduct = getProductByRank(allProducts, match.rank);
+      const currentName = getAiMatchCurrentName(match);
+      if (!rankProduct || !currentName) {
+        return { ok: false, message: 'review delete requires rank and current.name' };
+      }
+      if (rankProduct.name !== currentName) {
+        return {
+          ok: false,
+          message: `rank/current.name mismatch: rank ${match.rank} is "${rankProduct.name}", JSONL current is "${currentName}"`,
+        };
+      }
+      const duplicates = allProducts.filter(p => p.name === currentName);
+      if (duplicates.length > 1) {
+        return {
+          ok: true, changed: false, review: true, deleted: false,
+          deletedName: null, deletedProduct: null, content: null,
+          message: `duplicate name "${currentName}": skipped deletion`,
+        };
+      }
+      const nextContent = removeProductFromFrontmatter(content, currentName);
+      if (nextContent === null) {
+        return {
+          ok: true, changed: false, review: true, deleted: false,
+          deletedName: null, deletedProduct: null, content: null,
+          message: `last product: cannot delete "${currentName}"`,
+        };
+      }
+      return {
+        ok: true, changed: true, review: true, deleted: true,
+        deletedName: currentName, deletedProduct: rankProduct, content: nextContent,
+        message: match.reason ?? '',
+      };
+    }
+    return { ok: true, changed: false, review: true, deleted: false, message: match.reason ?? 'review' };
   }
   if (match.action !== 'replace') {
     return { ok: false, message: `unsupported action: ${match.action ?? '-'}` };
@@ -447,15 +483,16 @@ function moveAiMatchFile(filePath, status) {
 
 function applyPendingAiMatches() {
   const pendingDir = resolve(process.cwd(), 'reports/ai-matches/pending');
-  if (!existsSync(pendingDir)) return { processed: 0, failed: 0, reviews: 0 };
+  if (!existsSync(pendingDir)) return { processed: 0, failed: 0, reviews: 0, deletedArticles: new Set() };
 
   const pendingFiles = readdirSync(pendingDir)
     .filter(file => file.endsWith('.jsonl'))
     .map(file => join(pendingDir, file));
-  if (pendingFiles.length === 0) return { processed: 0, failed: 0, reviews: 0 };
+  if (pendingFiles.length === 0) return { processed: 0, failed: 0, reviews: 0, deletedArticles: new Set() };
 
   console.log(`\nAI match pending files: ${pendingFiles.length}`);
   const reviewItems = [];
+  const deletedArticles = new Set();
   let processed = 0;
   let failed = 0;
 
@@ -494,8 +531,16 @@ function applyPendingAiMatches() {
     for (const [articlePath, items] of byArticle.entries()) {
       const originalContent = readFileSync(articlePath, 'utf-8');
       let content = originalContent;
+      const pendingDeletedHistoryItems = [];
 
-      for (const item of items) {
+      // replace を先に、review delete は rank 降順に処理してrank詰め直しのずれを防ぐ
+      const replaceItems = items.filter(i => i.match.action === 'replace');
+      const reviewItems2 = items
+        .filter(i => i.match.action === 'review')
+        .sort((a, b) => (b.match.rank ?? 0) - (a.match.rank ?? 0));
+      const orderedItems = [...replaceItems, ...reviewItems2];
+
+      for (const item of orderedItems) {
         const result = applyAiMatchToContent(content, item.match);
         if (!result.ok) {
           hasFailure = true;
@@ -509,8 +554,30 @@ function applyPendingAiMatches() {
             rank: item.match.rank ?? null,
             currentName: getAiMatchCurrentName(item.match),
             reason: item.match.reason ?? null,
+            decision: item.match.decision ?? 'manual',
+            deleted: result.deleted ?? false,
           });
-          console.log(`      line ${item.lineNo}: review skipped`);
+          if (result.deleted && result.content) {
+            content = result.content;
+            deletedArticles.add(basename(item.match.articleFile));
+            const articleCategory = extractArticleCategory(content) ?? basename(articlePath).replace(/-comparison\.md$/, '');
+            pendingDeletedHistoryItems.push({
+              deletedAt: todayJst(),
+              articleFile: item.match.articleFile,
+              category: articleCategory,
+              reason: 'ai-review',
+              rank: result.deletedProduct.rank ?? null,
+              name: result.deletedProduct.name ?? '',
+              capacity: result.deletedProduct.capacity ?? null,
+              reviewCount: result.deletedProduct.reviewCount ?? null,
+              rakutenUrl: result.deletedProduct.rakutenUrl ?? '',
+              directUrl: toDirectItemUrl(result.deletedProduct.rakutenUrl) ?? result.deletedProduct.rakutenUrl ?? '',
+              identityKey: normalizeProductIdentity(result.deletedProduct.name ?? ''),
+            });
+            console.log(`      line ${item.lineNo}: review deleted "${result.deletedName}"`);
+          } else {
+            console.log(`      line ${item.lineNo}: review skipped (${result.message})`);
+          }
           continue;
         }
         content = result.content;
@@ -522,9 +589,13 @@ function applyPendingAiMatches() {
         content = updateUpdatedAt(content, today);
         writeFileSync(articlePath + '.bak', originalContent, 'utf-8');
         writeFileSync(articlePath, content, 'utf-8');
+        appendDeletedProductHistory(pendingDeletedHistoryItems);
         console.log(`      saved: ${basename(articlePath)} (updatedAt: ${today})`);
       } else if (DRY_RUN && content !== originalContent) {
         console.log(`      [dry-run] would save: ${basename(articlePath)}`);
+        if (pendingDeletedHistoryItems.length > 0) {
+          console.log(`      [dry-run] would record ${pendingDeletedHistoryItems.length} ai-review deletion(s) to history`);
+        }
       }
     }
 
@@ -543,7 +614,7 @@ function applyPendingAiMatches() {
   const reviewPath = DRY_RUN ? null : writeAiMatchReviewReport(reviewItems);
   if (reviewPath) console.log(`AI match review report: ${reviewPath}`);
   if (DRY_RUN && reviewItems.length > 0) console.log(`AI match review report: [dry-run] ${reviewItems.length} items`);
-  return { processed, failed, reviews: reviewItems.length };
+  return { processed, failed, reviews: reviewItems.length, deletedArticles };
 }
 
 function loadEnv() {
@@ -1921,11 +1992,12 @@ async function checkAdditions() {
   }
 
   // Markdown レポート出力
-  const reportsDir = resolve(process.cwd(), 'reports');
+  const reportsDir = resolve(process.cwd(), 'reports/toAI/kura-article-add');
   if (!existsSync(reportsDir)) mkdirSync(reportsDir, { recursive: true });
 
-  const outPath = join(reportsDir, `addition-candidates-${today}.md`);
-  const urlsOutPath = join(reportsDir, `addition-urls-${today}.md`);
+  const ts = Date.now();
+  const outPath = join(reportsDir, `addition-candidates-${today}-${ts}.md`);
+  const urlsOutPath = join(reportsDir, `addition-urls-${today}-${ts}.md`);
   const summary = sections.length > 0
     ? `追加候補あり記事: ${sections.length} 件`
     : needsAdditions === 0
@@ -2088,6 +2160,7 @@ function createArticleResult(file) {
     logs: [],
     capacityReviewItems: [],
     productMatchItems: [],
+    refillNeeded: false,
     stats: {
       success: 0,
       fail: 0,
@@ -2131,6 +2204,7 @@ async function processArticle(file, articlesDir, zeroState) {
   }
 
   let updatedContent = content;
+  const zeroSearchDeletedHistoryItems = [];
 
   for (const name of productNames) {
     const shortName = name.slice(0, 45);
@@ -2426,15 +2500,33 @@ async function processArticle(file, articlesDir, zeroState) {
         log('   🔍 API疎通確認 OK（正常）');
 
         // API正常 → 廃番と判断して削除
+        const productBeforeDelete = extractAllProductsData(updatedContent).find(p => p.name === name);
         const removed = removeProductFromFrontmatter(updatedContent, name);
         if (removed === null) {
           log(`❌ ${errorMessage} ⚠ 削除スキップ（最後の1商品）`);
         } else if (!DRY_RUN) {
           updatedContent = removed;
           result.stats.deleted++;
+          result.refillNeeded = true;
+          if (productBeforeDelete) {
+            zeroSearchDeletedHistoryItems.push({
+              deletedAt: todayJst(),
+              articleFile: `src/content/articles/${file}`,
+              category: articleCategory,
+              reason: 'zero-search',
+              rank: productBeforeDelete.rank ?? null,
+              name: productBeforeDelete.name ?? '',
+              capacity: productBeforeDelete.capacity ?? null,
+              reviewCount: productBeforeDelete.reviewCount ?? null,
+              rakutenUrl: productBeforeDelete.rakutenUrl ?? '',
+              directUrl: toDirectItemUrl(productBeforeDelete.rakutenUrl) ?? productBeforeDelete.rakutenUrl ?? '',
+              identityKey: normalizeProductIdentity(productBeforeDelete.name ?? ''),
+            });
+          }
           log(`🗑 削除: "${name}"`);
         } else {
           result.stats.deleted++;
+          result.refillNeeded = true;
           log(`🗑 [dry-run] 削除予定: "${name}"`);
         }
       } else {
@@ -2491,7 +2583,7 @@ async function processArticle(file, articlesDir, zeroState) {
     writeFileSync(filePath + '.bak', content, 'utf-8');
     // ファイル更新
     writeFileSync(filePath, updatedContent, 'utf-8');
-    const historyPath = appendDeletedProductHistory(rankLimitDeletedHistoryItems);
+    const historyPath = appendDeletedProductHistory([...zeroSearchDeletedHistoryItems, ...rankLimitDeletedHistoryItems]);
     if (historyPath) {
       log(`   🧾 削除履歴を記録: ${historyPath}`);
     }
@@ -2563,6 +2655,35 @@ async function main() {
   }
   if (!DRY_RUN && totals.success > 0) {
     console.log('各ファイルの .bak でいつでも元に戻せます。');
+  }
+
+  // 補充が必要な記事に check-additions を自動実行
+  const deletedArticlesForRefill = aiMatchResult.deletedArticles ?? new Set();
+  for (const result of articleResults) {
+    if (result.refillNeeded) deletedArticlesForRefill.add(result.file);
+  }
+
+  if (deletedArticlesForRefill.size > 0) {
+    console.log(`\ncheck-additions 自動実行（補充対象: ${deletedArticlesForRefill.size}件）`);
+    for (const articleFile of deletedArticlesForRefill) {
+      if (!DRY_RUN) {
+        const spawnResult = spawnSync(
+          process.execPath,
+          [
+            'scripts/update-products.mjs',
+            '--check-additions',
+            `--file=${articleFile}`,
+            '--target=11',
+          ],
+          { stdio: 'inherit', cwd: process.cwd() }
+        );
+        if (spawnResult.status !== 0) {
+          console.log(`   check-additions 失敗: ${articleFile}`);
+        }
+      } else {
+        console.log(`   [dry-run] would run check-additions --file=${articleFile} --target=11`);
+      }
+    }
   }
 }
 

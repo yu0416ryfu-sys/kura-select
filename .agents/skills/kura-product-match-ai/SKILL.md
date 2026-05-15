@@ -142,11 +142,27 @@ $OutputEncoding = [System.Text.UTF8Encoding]::new($false)
 {"articleFile":"src/content/articles/storage-bag-comparison.md","rank":1,"current":{"name":"ジップロック ストックバッグ L 大容量 32枚入×3箱"},"action":"replace","selectedItemUrl":"https://item.rakuten.co.jp/...","selectedAffiliateUrl":"https://hb.afl.rakuten.co.jp/...","selectedImageUrl":"https://thumbnail.image.rakuten.co.jp/...","newName":"ジップロック ストックバッグ L 32枚×3箱","newCapacity":"32枚×3箱（96枚）","newPrice":1234,"newPricePerUnit":"約12.9円/枚","newRating":4.5,"newReviewCount":100,"confidence":"high","reason":"ブランド・商品種別・サイズ・総枚数が一致"}
 ```
 
-### review の形式
+### review の形式（人間確認のみ）
+
+候補が弱く人間に確認させたい場合。`decision` は `manual` または省略。
 
 ```json
-{"articleFile":"src/content/articles/storage-bag-comparison.md","rank":1,"current":{"name":"ジップロック ストックバッグ L 大容量 32枚入×3箱"},"action":"review","selectedItemUrl":null,"selectedAffiliateUrl":null,"selectedImageUrl":null,"newName":null,"newCapacity":null,"newPrice":null,"newPricePerUnit":null,"newRating":null,"newReviewCount":null,"confidence":"low","reason":"候補がサイズ違いまたは商品種別違いのため確定不可"}
+{"articleFile":"src/content/articles/storage-bag-comparison.md","rank":1,"current":{"name":"ジップロック ストックバッグ L 大容量 32枚入×3箱"},"action":"review","decision":"manual","selectedItemUrl":null,"selectedAffiliateUrl":null,"selectedImageUrl":null,"newName":null,"newCapacity":null,"newPrice":null,"newPricePerUnit":null,"newRating":null,"newReviewCount":null,"confidence":"low","reason":"候補がサイズ違いまたは商品種別違いのため確定不可"}
 ```
+
+### review の形式（削除対象）
+
+既存URLの商品が取得不能で同一商品候補も見つからない場合。`decision: "delete"` を明示する。
+
+```json
+{"articleFile":"src/content/articles/storage-bag-comparison.md","rank":1,"current":{"name":"ジップロック ストックバッグ L 大容量 32枚入×3箱"},"action":"review","decision":"delete","selectedItemUrl":null,"selectedAffiliateUrl":null,"selectedImageUrl":null,"newName":null,"newCapacity":null,"newPrice":null,"newPricePerUnit":null,"newRating":null,"newReviewCount":null,"confidence":"low","reason":"既存URLの商品が取得不能で、同一商品候補も見つからないため削除対象"}
+```
+
+`decision: "delete"` の場合の制約:
+
+- `selectedItemUrl` / `selectedAffiliateUrl` / `selectedImageUrl` は必ず `null`
+- `rank` と `current.name` は必須（削除対象の特定に使用）
+- `update-products` 実行時に記事 MD から自動削除される
 
 ## 必須ルール
 
@@ -159,6 +175,8 @@ $OutputEncoding = [System.Text.UTF8Encoding]::new($false)
 - `replace` 適用時は `rank + current.name` の二重照合が行われるため、`current.name` を省略しない
 - 同一 `articleFile` + `rank` が入力内に重複する場合は、後続行が mismatch にならないよう片方を `review` にする
 - `action` は `replace` または `review` のみ
+- `review` の `decision` は `manual` / `delete` のみ（省略時は `manual` 扱い）
+- `decision: "delete"` は既存URLの商品が完全に取得不能かつ同一商品候補がない場合のみ使う
 - `confidence` は `high` / `medium` / `low`
 - `replace` は確信がある場合のみ
 - 判断根拠は `reason` に短く書く
@@ -170,7 +188,7 @@ $OutputEncoding = [System.Text.UTF8Encoding]::new($false)
 - 入力行数と出力行数が一致する
 - 全行が JSON として parse できる
 - `action` が `replace` / `review` のみ
-- `replace` 件数と `review` 件数を把握する
+- `replace` 件数と `review` 件数（`manual` / `delete` 内訳）を把握する
 - `newName` / `newCapacity` / `newPricePerUnit` / `reason` に `????` などの文字化けがない
 - `selectedItemUrl` / `selectedAffiliateUrl` / `selectedImageUrl` は選択した candidate 由来
 - `replace` 行は、現在の記事 frontmatter にある同じ `rank` の `name` と `current.name` が一致する

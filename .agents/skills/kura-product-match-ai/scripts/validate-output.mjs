@@ -67,6 +67,7 @@ if (inputLines.length !== outputLines.length) {
 
 let replaceCount = 0;
 let reviewCount = 0;
+let reviewDeleteCount = 0;
 
 for (let i = 0; i < outputLines.length; i += 1) {
   const lineNo = i + 1;
@@ -74,7 +75,41 @@ for (let i = 0; i < outputLines.length; i += 1) {
   const output = outputLines[i];
 
   if (output.action === 'replace') replaceCount += 1;
-  else if (output.action === 'review') reviewCount += 1;
+  else if (output.action === 'review') {
+    const decision = output.decision ?? 'manual';
+    if (!['manual', 'delete'].includes(decision)) {
+      throw new Error(`line ${lineNo}: invalid decision "${decision}" for review`);
+    }
+    if (decision === 'delete') {
+      reviewDeleteCount += 1;
+      if (output.rank === null || output.rank === undefined) {
+        throw new Error(`line ${lineNo}: review delete requires rank`);
+      }
+      const currentName = output.current?.name ?? output.currentName ?? null;
+      if (!currentName) {
+        throw new Error(`line ${lineNo}: review delete requires current.name`);
+      }
+      const urlFields = ['selectedItemUrl', 'selectedAffiliateUrl', 'selectedImageUrl'];
+      for (const field of urlFields) {
+        if (output[field] !== null && output[field] !== undefined) {
+          throw new Error(`line ${lineNo}: review delete must have null ${field}`);
+        }
+      }
+    }
+    reviewCount += 1;
+
+    if ((output.decision ?? 'manual') === 'delete') {
+      const articleFile = output.articleFile ?? input.articleFile;
+      const block = getArticleProductBlock(articleFile, output.rank);
+      const currentName = output.current?.name ?? output.currentName ?? null;
+      const articleName = getNameFromProductBlock(block);
+      if (!articleName || articleName !== currentName) {
+        throw new Error(
+          `line ${lineNo}: rank/current.name mismatch (review delete): article has "${articleName ?? '-'}", output has "${currentName ?? '-'}"`,
+        );
+      }
+    }
+  }
   else throw new Error(`line ${lineNo}: unsupported action ${output.action ?? '-'}`);
 
   const textFields = [output.reason, output.newName, output.newCapacity, output.newPricePerUnit].filter(Boolean);
@@ -107,4 +142,4 @@ for (let i = 0; i < outputLines.length; i += 1) {
   }
 }
 
-console.log(`valid jsonl ${outputLines.length} replace ${replaceCount} review ${reviewCount}`);
+console.log(`valid jsonl ${outputLines.length} replace ${replaceCount} review ${reviewCount} (delete ${reviewDeleteCount})`);
