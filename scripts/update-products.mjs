@@ -9,6 +9,8 @@
  * 使い方:
  *   node scripts/update-products.mjs
  *   node scripts/update-products.mjs --dry-run  # ファイルを書き換えず結果だけ表示
+ *   node scripts/update-products.mjs --file=diaper*  # ワイルドカード指定
+ *   node scripts/update-products.mjs --file=/^diaper-(newborn|tape)/  # 正規表現指定
  *
  * 更新対象フィールド: price / rating / reviewCount / rakutenUrl / imageUrl
  * バックアップ: 実行前に <ファイル名>.bak を自動作成
@@ -28,6 +30,49 @@ const THRESHOLD = parseFloat(process.argv.find(a => a.startsWith('--threshold=')
 const TARGET_COUNT = parseInt(process.argv.find(a => a.startsWith('--target='))?.split('=')[1] ?? '15');
 const CONCURRENCY = parsePositiveIntArg('--concurrency=', 6, { min: 1, max: 8 });
 const API_INTERVAL_MS = parsePositiveIntArg('--api-interval=', 1000, { min: 0, max: 10000 });
+
+function normalizeArticleFileName(value) {
+  return basename(String(value ?? '').replace(/\\/g, '/')).trim();
+}
+
+function escapeRegExp(value) {
+  return String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function globToRegExp(glob) {
+  let source = '';
+  for (const ch of glob) {
+    if (ch === '*') source += '.*';
+    else if (ch === '?') source += '.';
+    else source += escapeRegExp(ch);
+  }
+  return new RegExp(`^${source}$`);
+}
+
+function parseSlashRegExp(value) {
+  const match = String(value).match(/^\/(.+)\/([dgimsuvy]*)$/);
+  if (!match) return null;
+  return new RegExp(match[1], match[2]);
+}
+
+function matchesFileFilter(file, rawFilter = FILE_FILTER) {
+  if (!rawFilter) return true;
+
+  const filter = normalizeArticleFileName(rawFilter);
+  const fileName = normalizeArticleFileName(file);
+  const fileStem = fileName.replace(/\.md$/, '');
+  const filterStem = filter.replace(/\.md$/, '');
+
+  const slashRegex = parseSlashRegExp(rawFilter);
+  if (slashRegex) return slashRegex.test(fileName) || slashRegex.test(fileStem);
+
+  if (/[*?]/.test(filter)) {
+    const re = globToRegExp(filter);
+    return re.test(fileName) || re.test(fileStem);
+  }
+
+  return fileName === filter || fileStem === filterStem;
+}
 
 function parsePositiveIntArg(prefix, fallback, { min = 1, max = Number.MAX_SAFE_INTEGER } = {}) {
   const raw = process.argv.find(a => a.startsWith(prefix))?.split('=')[1];
@@ -513,7 +558,7 @@ function applyPendingAiMatches() {
         console.log(`      line ${line.lineNo}: invalid articleFile`);
         continue;
       }
-      if (FILE_FILTER && basename(match.articleFile) !== FILE_FILTER) {
+      if (!matchesFileFilter(basename(match.articleFile))) {
         console.log(`      line ${line.lineNo}: skipped by --file`);
         continue;
       }
@@ -1776,7 +1821,7 @@ async function checkAdditions() {
   const articlesDir = resolve(process.cwd(), 'src/content/articles');
   const files = readdirSync(articlesDir)
     .filter(f => f.endsWith('.md'))
-    .filter(f => !FILE_FILTER || f === FILE_FILTER);
+    .filter(f => matchesFileFilter(f));
 
   const today = new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Tokyo' }).format(new Date());
   console.log(`📊 商品追加候補チェック（目標: ${TARGET_COUNT}商品/記事）\n`);
@@ -2088,7 +2133,7 @@ async function checkReplacements() {
   const articlesDir = resolve(process.cwd(), 'src/content/articles');
   const files = readdirSync(articlesDir)
     .filter(f => f.endsWith('.md'))
-    .filter(f => !FILE_FILTER || f === FILE_FILTER);
+    .filter(f => matchesFileFilter(f));
 
   const today = new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Tokyo' }).format(new Date());
   console.log(`📊 入れ替え候補チェック（閾値: ${THRESHOLD}倍以上）\n`);
@@ -2628,7 +2673,7 @@ async function main() {
   const articlesDir = resolve(process.cwd(), 'src/content/articles');
   const files = readdirSync(articlesDir)
     .filter(f => f.endsWith('.md'))
-    .filter(f => !FILE_FILTER || f === FILE_FILTER);
+    .filter(f => matchesFileFilter(f));
 
   console.log(`📂 対象ファイル: ${files.length}件`);
   console.log(`⚙ 並列数: ${CONCURRENCY} / API間隔: ${API_INTERVAL_MS}ms\n`);
