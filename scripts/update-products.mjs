@@ -26,7 +26,7 @@ const CHECK_ADDITIONS = process.argv.includes('--check-additions');
 const FILE_FILTER = process.argv.find(a => a.startsWith('--file='))?.split('=')[1] ?? null;
 const THRESHOLD = parseFloat(process.argv.find(a => a.startsWith('--threshold='))?.split('=')[1] ?? '2');
 const TARGET_COUNT = parseInt(process.argv.find(a => a.startsWith('--target='))?.split('=')[1] ?? '15');
-const CONCURRENCY = parsePositiveIntArg('--concurrency=', 2, { min: 1, max: 8 });
+const CONCURRENCY = parsePositiveIntArg('--concurrency=', 6, { min: 1, max: 8 });
 const API_INTERVAL_MS = parsePositiveIntArg('--api-interval=', 1000, { min: 0, max: 10000 });
 
 function parsePositiveIntArg(prefix, fallback, { min = 1, max = Number.MAX_SAFE_INTEGER } = {}) {
