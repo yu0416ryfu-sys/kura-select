@@ -1,6 +1,6 @@
 ---
 name: kura-product-match-ai
-description: KuraSelect の reports/product-match-input-*.jsonl をもとに、update-products が自動更新できなかった商品の楽天候補を照合し、reports/ai-matches/pending/ に置ける JSONL を生成するスキル。商品候補の同一性判定、比較記事向けの商品名整形、capacity / pricePerUnit の整合判断を行う。
+description: KuraSelect の reports/toAI/kura-product-match-ai/product-match-input-*.jsonl をもとに、update-products が自動更新できなかった商品の楽天候補を照合し、reports/ai-matches/pending/ に置ける JSONL を生成するスキル。商品候補の同一性判定、比較記事向けの商品名整形、capacity / pricePerUnit の整合判断を行う。
 ---
 
 # kura-product-match-ai
@@ -12,8 +12,10 @@ KuraSelect の `pnpm update-products` が生成した商品照合候補レポー
 主に以下のファイルを対象にする。
 
 ```text
-reports/product-match-input-*.jsonl
+reports/toAI/kura-product-match-ai/product-match-input-*.jsonl
 ```
+
+ユーザーが入力 JSONL を指定していない場合は、`reports/toAI/kura-product-match-ai/` 直下の `product-match-input-*.jsonl` を対象にする。`done/` 配下は処理済みとして対象外。複数ある場合はファイル名の日付が古いものから順に処理する。
 
 入力 JSONL は各行が独立した商品照合タスク。md 全文は読まない。必要最小限として、各行の `current` / `failure` / `searchKeywords` / `candidates` だけで判断する。
 
@@ -28,6 +30,12 @@ reports/ai-matches/pending/product-match-output-YYYY-MM-DD.jsonl
 ```
 
 次回 `pnpm update-products` 実行時に自動適用される。
+
+検証まで完了した入力 JSONL は以下へ移動する。
+
+```text
+reports/toAI/kura-product-match-ai/done/product-match-input-YYYY-MM-DD.jsonl
+```
 
 ## 判定方針
 
@@ -165,29 +173,31 @@ $OutputEncoding = [System.Text.UTF8Encoding]::new($false)
 - `replace` 件数と `review` 件数を把握する
 - `newName` / `newCapacity` / `newPricePerUnit` / `reason` に `????` などの文字化けがない
 - `selectedItemUrl` / `selectedAffiliateUrl` / `selectedImageUrl` は選択した candidate 由来
+- `replace` 行は、現在の記事 frontmatter にある同じ `rank` の `name` と `current.name` が一致する
+- `replace` 行の `selectedItemUrl` / `selectedAffiliateUrl` / `selectedImageUrl` は、同じ入力行の `candidates` に存在する
 
 例:
 
 ```bash
-node -e "const fs=require('fs');const p='reports/ai-matches/pending/product-match-output-YYYY-MM-DD.jsonl';const lines=fs.readFileSync(p,'utf8').trim().split(/\r?\n/);let r=0,v=0;for(const l of lines){const o=JSON.parse(l);if(o.action==='replace')r++;if(o.action==='review')v++;if(/[?]{3,}/.test(o.reason||'')||/[?]{3,}/.test(o.newName||''))throw new Error('mojibake');}console.log('valid jsonl',lines.length,'replace',r,'review',v);"
+node .agents/skills/kura-product-match-ai/scripts/validate-output.mjs reports/toAI/kura-product-match-ai/product-match-input-YYYY-MM-DD.jsonl reports/ai-matches/pending/product-match-output-YYYY-MM-DD.jsonl
 ```
 
 ## 適用確認
 
-出力 JSONL を `reports/ai-matches/pending/` に置いた後は、まず dry-run で確認する。
+出力 JSONL を `reports/ai-matches/pending/` に置いた後は、上記のローカル検証を必須とする。検証が通ったら、入力 JSONL を `reports/toAI/kura-product-match-ai/done/` に移動する。`pnpm update-products:dry` は AI match 適用後に全記事の楽天 API dry-run まで進み、通常の作業ではタイムアウトしやすいため必須にしない。
+
+ユーザーが明示的に希望した場合、またはローカル検証だけでは不安が残る場合のみ dry-run を実行する。
 
 ```bash
 pnpm update-products:dry
 ```
 
-dry-run の AI match 部分で以下を確認する。
+dry-run を実行した場合は、AI match 部分で以下を確認する。全記事の楽天 API dry-run の完走は求めない。
 
 - `AI match summary` が `failed 0` になっている
 - `rank/current.name mismatch` が出ていない
 - `would move to processed` が出ている
 - `review skipped` は想定内だが、`replace applied` の対象記事が意図と合っている
-
-`pnpm update-products:dry` は AI match 適用後に全記事の楽天 API dry-run まで進むため、時間切れになることがある。その場合でも、AI match 部分で `processed 1, failed 0` と `would move to processed` が確認できていれば、pending JSONL の入口検証としては通っている。
 
 問題なければ本実行する。
 
