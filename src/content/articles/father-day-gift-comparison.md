@@ -29,11 +29,11 @@ products:
     reviewCount: 19
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/brewery/cabinet/26fd_n-ev_1200.jpg?_ex=128x128"
   - rank: 2
-    name: "名入れ木製ボールペン"
+    name: "名入れ 木製ボールペン"
     brand: "名入れできる雑貨屋 リコルド"
-    price: 1500
+    price: 1320
     capacity: "1本"
-    pricePerUnit: "約1500円/本"
+    pricePerUnit: "約1320円/本"
     features:
       - "木製軸に名前を入れられる、父の日向けの名入れボールペン"
       - "手になじみやすいシンプルな軸デザインで毎日使いやすい"
@@ -46,7 +46,10 @@ products:
       - "筆記具にこだわりが強い人は芯や書き味の好みを確認したい"
       - "木製軸は水濡れや強い衝撃に少し気をつけたい"
     recommendedFor: "毎日使える実用品に名入れの特別感を足したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/ricordo/pw5/"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rc6kn.3rdw6041.g00rc6kn.3rdw7ff1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhappy-gift%2F008-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhappy-gift%2Fi%2F10000027%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rating: 4.6
+    reviewCount: 98
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/happy-gift/cabinet/04391796/008-001.jpg?_ex=128x128"
   - rank: 3
     name: "パーカー ジョッター"
     brand: "名入れ文具のイケマン"

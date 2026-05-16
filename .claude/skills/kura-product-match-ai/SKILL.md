@@ -159,13 +159,15 @@ $OutputEncoding = [System.Text.UTF8Encoding]::new($false)
 
 候補が弱く人間に確認させたい場合。`decision` は `manual` または省略。
 
+ただし、入力の `current.rakutenUrl` が楽天アフィリエイトURL（`https://hb.afl.rakuten.co.jp/...`）ではない場合、`review/manual` で残してはいけない。同一商品の `affiliateUrl` を candidates から取得できるなら `replace`、取得できないなら `review/delete` にする。
+
 ```json
 {"articleFile":"src/content/articles/storage-bag-comparison.md","rank":1,"current":{"name":"ジップロック ストックバッグ L 大容量 32枚入×3箱"},"action":"review","decision":"manual","selectedItemUrl":null,"selectedAffiliateUrl":null,"selectedImageUrl":null,"newName":null,"newCapacity":null,"newPrice":null,"newPricePerUnit":null,"newRating":null,"newReviewCount":null,"confidence":"low","reason":"候補がサイズ違いまたは商品種別違いのため確定不可"}
 ```
 
 ### review の形式（削除対象）
 
-既存URLの商品が取得不能で同一商品候補も見つからない場合。`decision: "delete"` を明示する。
+既存URLの商品が取得不能で同一商品候補も見つからない場合、または現在の `rakutenUrl` がアフィリエイトURLではなく同一商品の `affiliateUrl` を candidates から取得できない場合。`decision: "delete"` を明示する。
 
 ```json
 {"articleFile":"src/content/articles/storage-bag-comparison.md","rank":1,"current":{"name":"ジップロック ストックバッグ L 大容量 32枚入×3箱"},"action":"review","decision":"delete","selectedItemUrl":null,"selectedAffiliateUrl":null,"selectedImageUrl":null,"newName":null,"newCapacity":null,"newPrice":null,"newPricePerUnit":null,"newRating":null,"newReviewCount":null,"confidence":"low","reason":"既存URLの商品が取得不能で、同一商品候補も見つからないため削除対象"}
@@ -190,6 +192,7 @@ $OutputEncoding = [System.Text.UTF8Encoding]::new($false)
 - `action` は `replace` または `review` のみ
 - `review` の `decision` は `manual` / `delete` のみ（省略時は `manual` 扱い）
 - `decision: "delete"` は既存URLの商品が完全に取得不能かつ同一商品候補がない場合のみ使う
+- 入力の `current.rakutenUrl` が `https://hb.afl.rakuten.co.jp/...` ではない場合は、直接URLを残さない。出力は同一商品の `affiliateUrl` を使った `replace`、または `review/delete` のどちらかにする
 - `confidence` は `high` / `medium` / `low`
 - `replace` は確信がある場合のみ
 - 判断根拠は `reason` に短く書く
@@ -204,6 +207,7 @@ $OutputEncoding = [System.Text.UTF8Encoding]::new($false)
 - `replace` 件数と `review` 件数（`manual` / `delete` 内訳）を把握する
 - `newName` / `newCapacity` / `newPricePerUnit` / `reason` に `????` などの文字化けがない
 - `selectedItemUrl` / `selectedAffiliateUrl` / `selectedImageUrl` は選択した candidate 由来
+- 入力の `current.rakutenUrl` がアフィリエイトURLではない行が `review/manual` になっていない
 - `replace` 行は、現在の記事 frontmatter にある同じ `rank` の `name` と `current.name` が一致する
 - `replace` 行の `selectedItemUrl` / `selectedAffiliateUrl` / `selectedImageUrl` は、同じ入力行の `candidates` に存在する
 

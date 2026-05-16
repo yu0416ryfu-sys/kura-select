@@ -58,6 +58,16 @@ function getNameFromProductBlock(block) {
   return match ? (match[1] ?? match[2] ?? match[3]?.trim() ?? null) : null;
 }
 
+function isRakutenAffiliateUrl(value) {
+  if (typeof value !== 'string' || !value) return false;
+  try {
+    const url = new URL(value);
+    return url.protocol === 'https:' && url.hostname === 'hb.afl.rakuten.co.jp';
+  } catch {
+    return false;
+  }
+}
+
 const inputLines = readJsonl(inputPath);
 const outputLines = readJsonl(outputPath);
 
@@ -98,6 +108,13 @@ for (let i = 0; i < outputLines.length; i += 1) {
     }
     reviewCount += 1;
 
+    const currentRakutenUrl = input.current?.rakutenUrl ?? null;
+    if (currentRakutenUrl && !isRakutenAffiliateUrl(currentRakutenUrl) && decision !== 'delete') {
+      throw new Error(
+        `line ${lineNo}: non-affiliate current.rakutenUrl must be replace or review/delete, not review/${decision}`,
+      );
+    }
+
     if ((output.decision ?? 'manual') === 'delete') {
       const articleFile = output.articleFile ?? input.articleFile;
       const block = getArticleProductBlock(articleFile, output.rank);
@@ -129,6 +146,9 @@ for (let i = 0; i < outputLines.length; i += 1) {
     if (!candidates.some((candidate) => candidate[candidateKey] === output[outputKey])) {
       throw new Error(`line ${lineNo}: ${outputKey} is not from candidates`);
     }
+  }
+  if (!isRakutenAffiliateUrl(output.selectedAffiliateUrl)) {
+    throw new Error(`line ${lineNo}: selectedAffiliateUrl must be a Rakuten affiliate URL`);
   }
 
   const articleFile = output.articleFile ?? input.articleFile;
