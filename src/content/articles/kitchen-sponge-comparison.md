@@ -1,9 +1,9 @@
 ---
 title: "食器用スポンジ コスパ最強ランキング【2026年版】耐久性・泡立ちで比較"
-description: "食器用スポンジを1個あたりのコストで徹底比較。スコッチ・ブライト・ダスキン・キクロンなど人気4選を耐久性・泡立ちで解説します。"
+description: "食器用スポンジを1個あたりのコストで徹底比較。スコッチ・ブライト・ダスキン・キクロンなど人気10選を耐久性・泡立ちで解説します。"
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "セルロース製食器洗いスポンジ 6個パック"
@@ -34,7 +34,7 @@ products:
     capacity: "6個（約6ヶ月分）"
     pricePerUnit: "約177円/個"
     rating: 4.78
-    reviewCount: 9862
+    reviewCount: 9863
     features:
       - "3層構造で泡立ち・水切れ・耐久性を両立"
       - "楽天レビュー数トップクラスの圧倒的人気"
@@ -56,7 +56,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.75
-    reviewCount: 1318
+    reviewCount: 1320
     features:
       - "ポリウレタンフォーム＋ナイロン不織布＋ポリエステルの3素材構造"
       - "ブラック・グレー・ホワイトのモノトーン3色展開"
@@ -78,7 +78,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.81
-    reviewCount: 463
+    reviewCount: 464
     features:
       - "ポリエステル＋ウレタンフォームのハードタイプ構造"
       - "3色パック×2セットのカラフルな6個組"
@@ -122,7 +122,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約199円/個"
     rating: 4.76
-    reviewCount: 472
+    reviewCount: 473
     features:
       - "天然素材のセルロース＋綿で環境にやさしい"
       - "速乾性が高く雑菌が繁殖しにくい"

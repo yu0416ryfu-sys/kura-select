@@ -1,18 +1,40 @@
 ---
 title: "トイレットペーパー ダブル コスパランキング【2026年版】"
-description: "ダブルのトイレットペーパーを1mあたりの価格で比較。2倍巻き・3倍巻き・肌触り重視の商品からおすすめ5選を紹介します。"
+description: "ダブルのトイレットペーパーを1mあたりの価格で比較。2倍巻き・3倍巻き・肌触り重視の商品からおすすめ6選を紹介します。"
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 updatedAt: 2026-05-16
 products:
   - rank: 1
+    name: "再生紙トイレットペーパー ダブル"
+    brand: "カミングネット"
+    price: 3200
+    capacity: "27.5m×12ロール×8パック（96ロール）"
+    pricePerUnit: "約1.2円/m"
+    rating: 4.58
+    reviewCount: 3455
+    features:
+      - "再生紙を使ったダブルタイプ"
+      - "無地・無印刷で日常使いしやすい"
+      - "まとめ買い向けのケース販売"
+    pros:
+      - "日常使いのストックをまとめて確保しやすい"
+      - "再生紙タイプを選びたい家庭に向いている"
+      - "シンプルな仕様で家庭用にも業務用にも使いやすい"
+    cons:
+      - "パルプ製品と比べると肌触りの好みが分かれる"
+      - "大容量のため保管スペースを事前に確認したい"
+    recommendedFor: "再生紙のダブルタイプをまとめ買いしたい方・家庭用のストックを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7hcn.3rdw6d10.g00r7hcn.3rdw7ef9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoming%2Fjun1kyuhinrolls-recycle12rw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoming%2Fi%2F10000440%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/coming/cabinet/daiichimoji/imgrc0096851285.jpg?_ex=128x128"
+  - rank: 2
     name: "スコッティ フラワーパック 3倍長持ち ダブル"
     brand: "日本製紙クレシア（スコッティ）"
     price: 5850
     capacity: "75m×4ロール×12パック（3倍巻き）"
     pricePerUnit: "約1.6円/m"
     rating: 4.75
-    reviewCount: 886
+    reviewCount: 888
     features:
       - "3倍長持ち設計で交換頻度が大幅に減る"
       - "ダブルタイプで使い心地が良い"
@@ -27,7 +49,7 @@ products:
     recommendedFor: "交換頻度を減らしたい方・まとめ買い派・コスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7165192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077532%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7165192.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 3
     name: "ハロー トイレットペーパー ダブル 2倍巻き"
     brand: "ハロー"
     price: 6210
@@ -49,7 +71,7 @@ products:
     recommendedFor: "品質と環境配慮を両立したい方・業務用にも使えるまとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4580287284745%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11346354%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/745/4580287284745.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
     brand: "日本製紙クレシア（スコッティ）"
     price: 4799
@@ -71,7 +93,7 @@ products:
     recommendedFor: "大家族・まとめ買い派の方・ダブルでもコストを抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fxh278%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10020158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/008/main-xh278.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "エリエール トイレットティシュー たっぷり長持ち ダブル 12ロール×6個セット"
     brand: "大王製紙（エリエール）"
     price: 6383
@@ -93,14 +115,14 @@ products:
     recommendedFor: "肌触りを重視する方・ファミリー向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F14495%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10678469%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/495/14495.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "ネピア おしりセレブ ダブル"
     brand: "王子ネピア（ネピア）"
     price: 598
     capacity: "40m×4ロール"
     pricePerUnit: "約3.7円/m"
     rating: 4.82
-    reviewCount: 157
+    reviewCount: 158
     features:
       - "トリートメント配合で肌に優しい"
       - "長めシート設計で少量でも十分"

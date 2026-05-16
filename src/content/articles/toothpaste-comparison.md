@@ -1,9 +1,9 @@
 ---
 title: "歯磨き粉 おすすめランキング【2026年版】虫歯予防・ホワイトニング・歯周病ケア"
-description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較。虫歯予防・ホワイトニング・歯周病ケア・知覚過敏のおすすめ4選を紹介。目的に合った歯磨き粉が楽天で見つかります。"
+description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較。虫歯予防・ホワイトニング・歯周病ケア・知覚過敏のおすすめ10選を紹介。目的に合った歯磨き粉が楽天で見つかります。"
 category: "toothpaste"
 publishedAt: "2026-04-29"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "システマ ハグキプラス プレミアム 95g×4本セット"
@@ -34,7 +34,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約10円/g"
     rating: 4.32
-    reviewCount: 1320
+    reviewCount: 1321
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -56,7 +56,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 10928
+    reviewCount: 10929
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -94,11 +94,33 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothsmple%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/toothpsnew.jpg?_ex=128x128"
   - rank: 5
+    name: "WHITH WHITE 薬用歯磨き"
+    brand: "WHITH WHITE"
+    price: 2580
+    capacity: "120g"
+    pricePerUnit: "約22円/g"
+    rating: 4.47
+    reviewCount: 2169
+    features:
+      - "毎日の歯みがきに使える歯磨き粉"
+      - "ホワイトニングや口臭ケア系も選べる"
+      - "容量で比較しやすい"
+    pros:
+      - "日常ケアに取り入れやすい"
+      - "目的別に選べる"
+      - "ストックしやすい"
+    cons:
+      - "成分や使用感の好みは分かれる"
+      - "医薬部外品表記の確認が必要"
+    recommendedFor: "歯磨き粉を目的と容量で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b07qzwqjrm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260509m/906b07qzwqjrm-50.jpg?_ex=128x128"
+  - rank: 6
     name: "キラルンパウダー"
     brand: "RUKEN"
-    price: 1000
+    price: 1254
     capacity: "55g"
-    pricePerUnit: "約18円/g"
+    pricePerUnit: "約23円/g"
     rating: 4.31
     reviewCount: 3266
     features:
@@ -115,28 +137,6 @@ products:
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothmini%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000114%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/05964132/item00kirarunpwd.jpg?_ex=128x128"
-  - rank: 6
-    name: "WHITH WHITE 薬用歯磨き"
-    brand: "WHITH WHITE"
-    price: 2580
-    capacity: "120g"
-    pricePerUnit: "約22円/g"
-    rating: 4.47
-    reviewCount: 2168
-    features:
-      - "毎日の歯みがきに使える歯磨き粉"
-      - "ホワイトニングや口臭ケア系も選べる"
-      - "容量で比較しやすい"
-    pros:
-      - "日常ケアに取り入れやすい"
-      - "目的別に選べる"
-      - "ストックしやすい"
-    cons:
-      - "成分や使用感の好みは分かれる"
-      - "医薬部外品表記の確認が必要"
-    recommendedFor: "歯磨き粉を目的と容量で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b07qzwqjrm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260509m/906b07qzwqjrm-50.jpg?_ex=128x128"
   - rank: 7
     name: "アパガードリナメル"
     brand: "アパガード"
@@ -144,7 +144,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約24円/g"
     rating: 4.6
-    reviewCount: 784
+    reviewCount: 785
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -158,7 +158,7 @@ products:
       - "医薬部外品表記の確認が必要"
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F84449%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10005817%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0515_100b/kirikae2/04645_1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/wb_logo_6/04645_1.jpg?_ex=128x128"
   - rank: 8
     name: "薬用しろえ 歯磨きジェル"
     brand: "しろえ"
@@ -202,7 +202,7 @@ products:
       - "ホワイトニング効果を実感するまで時間がかかる"
     recommendedFor: "ホワイトニング・着色汚れを落としたい方・歯の白さにこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F36667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10004851%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0515_100b/kirikae1/36667.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/07319599/36667.jpg?_ex=128x128"
   - rank: 10
     name: "しろえ ホワイトニングパウダー"
     brand: "しろえ"

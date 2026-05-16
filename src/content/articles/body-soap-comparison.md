@@ -1,9 +1,9 @@
 ---
 title: "ボディソープ コスパ最強ランキング【2026年版】保湿・敏感肌で比較"
-description: "ボディソープを1mLあたりのコストで徹底比較。ビオレu・ダヴ・ハダカラ・ミノンなど人気11選を保湿力・洗浄力・コスパで解説します。"
+description: "ボディソープを1mLあたりのコストで徹底比較。ビオレu・ダヴ・ハダカラ・ミノンなど人気10選を保湿力・洗浄力・コスパで解説します。"
 category: "body-soap"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "Dove ボディウォッシュ 詰め替え 640g×9セット"
@@ -12,7 +12,7 @@ products:
     capacity: "640g×9セット"
     pricePerUnit: "約0.81円/g"
     rating: 4.76
-    reviewCount: 279
+    reviewCount: 280
     features:
       - "ボディソープとして使える洗浄料"
       - "継続利用しやすい定番構成"
@@ -56,7 +56,7 @@ products:
     capacity: "200g×4個（800g）"
     pricePerUnit: "約3.9円/g"
     rating: 4.55
-    reviewCount: 1235
+    reviewCount: 1236
     features:
       - "オリーブオイルと月桂樹オイルを配合した伝統的な固形石けん"
       - "無添加・天然素材で顔から全身まで使える"
@@ -100,7 +100,7 @@ products:
     capacity: "115g"
     pricePerUnit: "約11円/g"
     rating: 4.8
-    reviewCount: 317
+    reviewCount: 318
     features:
       - "ボディソープとして使える洗浄料"
       - "継続利用しやすい定番構成"
@@ -224,7 +224,7 @@ products:
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "毎日の入浴ケアに取り入れやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2mpn.3rdw6905.g00s2mpn.3rdw76e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvirginbeautyshop%2Fnr-dw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvirginbeautyshop%2Fi%2F10005507%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/virginbeautyshop/cabinet/campaign/202605marathon1/img/nr-dw.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/virginbeautyshop/cabinet/04226192/natureco/nr-dw_thum_b.jpg?_ex=128x128"
 tags:
   - "ボディソープ"
   - "コスパ"

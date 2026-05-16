@@ -1,9 +1,9 @@
 ---
 title: "クレンジング コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "クレンジングを1mLあたりのコストで徹底比較。DHC・ビオレ・ソフティモ・キュレルなど人気15選をメイク落ち・肌へのやさしさ・コスパで解説します。"
+description: "クレンジングを1mLあたりのコストで徹底比較。DHC・ビオレ・ソフティモ・キュレルなど人気10選をメイク落ち・肌へのやさしさ・コスパで解説します。"
 category: "cleansing"
 publishedAt: "2026-05-03"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
@@ -56,7 +56,7 @@ products:
     capacity: "400mL"
     pricePerUnit: "約9.4円/mL"
     rating: 4.65
-    reviewCount: 1049
+    reviewCount: 1050
     features:
       - "天然由来成分を重視したクレンジングオイル"
       - "400mLの大容量タイプ"
@@ -100,7 +100,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約12円/mL"
     rating: 4.69
-    reviewCount: 532
+    reviewCount: 534
     features:
       - "ドクダミエキス配合のクレンジングオイル"
       - "毛穴や皮脂汚れまで落とす韓国コスメ"
@@ -188,7 +188,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3156
+    reviewCount: 3158
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"

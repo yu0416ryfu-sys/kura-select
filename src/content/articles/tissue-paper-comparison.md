@@ -1,9 +1,9 @@
 ---
 title: "ティッシュペーパー コスパ最強ランキング【2026年版】1枚あたり最安0.2円台"
-description: "ティッシュペーパーを1枚あたりの価格で徹底比較。まとめ買いでお得な商品から花粉症向け高保湿タイプまでおすすめ5選を紹介。楽天最安値で選ぶティッシュの決定版。"
+description: "ティッシュペーパーを1枚あたりの価格で徹底比較。まとめ買いでお得な商品から花粉症向け高保湿タイプまでおすすめ10選を紹介。楽天最安値で選ぶティッシュの決定版。"
 category: "tissue-paper"
 publishedAt: "2026-04-29"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "スコッティ ティッシュペーパー フラワーボックス"
@@ -78,7 +78,7 @@ products:
     capacity: "200枚（100組）×12箱"
     pricePerUnit: "約2.2円/枚"
     rating: 4.64
-    reviewCount: 656
+    reviewCount: 657
     features:
       - "パルプ100%の柔らかな2枚重ね"
       - "エリエールブランドの高品質"
@@ -166,7 +166,7 @@ products:
     capacity: "200組×80個"
     pricePerUnit: "要更新"
     rating: 4.66
-    reviewCount: 1267
+    reviewCount: 1268
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"
@@ -188,7 +188,7 @@ products:
     capacity: "150組×50個"
     pricePerUnit: "要更新"
     rating: 4.53
-    reviewCount: 752
+    reviewCount: 753
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"

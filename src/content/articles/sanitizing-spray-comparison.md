@@ -1,9 +1,9 @@
 ---
 title: "除菌スプレー コスパ最強ランキング【2026年版】濃度・容量で比較"
-description: "除菌スプレー・アルコールを1mLあたりのコストで徹底比較。パストリーゼ・カビキラー除菌・フマキラーなど人気4選を解説します。"
+description: "除菌スプレー・アルコールを1mLあたりのコストで徹底比較。パストリーゼ・カビキラー除菌・フマキラーなど人気10選を解説します。"
 category: "sanitizing-spray"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "カビキラー アルコール除菌 キッチン用 詰め替え用【カビキラー】[アルコールスプ"
@@ -100,7 +100,7 @@ products:
     capacity: "500ml×3本"
     pricePerUnit: "約2.9円/ml"
     rating: 4.79
-    reviewCount: 426
+    reviewCount: 427
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"
@@ -166,7 +166,7 @@ products:
     capacity: "180ml"
     pricePerUnit: "約5.6円/ml"
     rating: 4.65
-    reviewCount: 4005
+    reviewCount: 4006
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"

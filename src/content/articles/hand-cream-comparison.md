@@ -1,9 +1,9 @@
 ---
 title: "ハンドクリーム コスパ最強ランキング【2026年版】人気10選を徹底比較"
-description: "ハンドクリームをコスパ・保湿力・成分で徹底比較。ニベア・ヴァセリン・ユースキン・ロクシタンなど人気13選をランキング形式で解説します。"
+description: "ハンドクリームをコスパ・保湿力・成分で徹底比較。ニベア・ヴァセリン・ユースキン・ロクシタンなど人気10選をランキング形式で解説します。"
 category: "hand-cream"
 publishedAt: "2026-05-04"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "ニベア ハンドクリーム 75g"
@@ -91,7 +91,7 @@ products:
       - "無香料のため香りによるリラックス効果は期待できない"
     recommendedFor: "香りが苦手な方・職場や外出先でこまめに使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rujan.3rdw6444.g00rujan.3rdw7e0d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenman-kosho-yakubo%2Fbvhs02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenman-kosho-yakubo%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tenman-kosho-yakubo/cabinet/tenman-handcream/80g/th003_001.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tenman-kosho-yakubo/cabinet/tenman-handcream/80g/th003_006.jpg?_ex=128x128"
   - rank: 5
     name: "ハンドクリーム ミニ プチギフト 40g"
     brand: "てんまん香粧薬房"
@@ -113,7 +113,7 @@ products:
       - "据え置き用としてはすぐに使い切ってしまう容量"
     recommendedFor: "外出時の携帯用に持ち歩きたい方・ギフトを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rujan.3rdw6444.g00rujan.3rdw7e0d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenman-kosho-yakubo%2Fth034%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenman-kosho-yakubo%2Fi%2F10000039%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tenman-kosho-yakubo/cabinet/tenman-handcream/40g/th034_001.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tenman-kosho-yakubo/cabinet/tenman-handcream/40g/th034_008.jpg?_ex=128x128"
   - rank: 6
     name: "卵殻膜 ハンドクリーム OVO 5g お試し"
     brand: "コラーゲンのルウ研究所"

@@ -1,9 +1,9 @@
 ---
 title: "洗顔料 コスパ最強ランキング【2026年版】1gあたり最安で比較"
-description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴ・専科など人気11選を成分・洗い上がり・コスパで解説します。"
+description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴ・専科など人気10選を成分・洗い上がり・コスパで解説します。"
 category: "face-wash"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "無添加生活 泡洗顔 炭酸泡洗顔フォーム 3本セット"
@@ -52,9 +52,9 @@ products:
   - rank: 3
     name: "【企画品】センカ パーフェクトホイップf BT21デザイン【専科】"
     brand: "資生堂（専科）"
-    price: 655
+    price: 631
     capacity: "（120g）"
-    pricePerUnit: "約5.5円/g"
+    pricePerUnit: "約5.3円/g"
     rating: 5
     reviewCount: 1
     features:
@@ -94,28 +94,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b01n0bsytw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000261%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/event/20260509god/905b01n0bsytw-39.jpg?_ex=128x128"
   - rank: 5
-    name: "どろばーゆ あわ洗顔 120g"
-    brand: "ナチュボーテ"
-    price: 1420
-    capacity: "120g"
-    pricePerUnit: "約12円/g"
-    rating: 4.31
-    reviewCount: 1944
-    features:
-      - "顔の洗浄に使う洗顔料"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "肌質や洗い上がりで選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "使用感や香りの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "肌質や洗い上がりで選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rxkjn.3rdw66be.g00rxkjn.3rdw76b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmeplatinum%2Fawasoap%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmeplatinum%2Fi%2F10000425%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmeplatinum/cabinet/awasoap/awasoap_new2.jpg?_ex=128x128"
-  - rank: 6
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
     brand: "ユニリーバ（ダヴ）"
     price: 1577
@@ -137,6 +115,28 @@ products:
     recommendedFor: "敏感肌・乾燥肌の方・マイルドな洗い心地を好む方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F563823%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11186459%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/823/563823.jpg?_ex=128x128"
+  - rank: 6
+    name: "どろばーゆ あわ洗顔 120g"
+    brand: "ナチュボーテ"
+    price: 1580
+    capacity: "120g"
+    pricePerUnit: "約13円/g"
+    rating: 4.31
+    reviewCount: 1944
+    features:
+      - "顔の洗浄に使う洗顔料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "肌質や洗い上がりで選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "使用感や香りの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "肌質や洗い上がりで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rxkjn.3rdw66be.g00rxkjn.3rdw76b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmeplatinum%2Fawasoap%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmeplatinum%2Fi%2F10000425%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmeplatinum/cabinet/awasoap/awasoap_new2.jpg?_ex=128x128"
   - rank: 7
     name: "プリュ カーボニック クリーニング パック 150g×2点"
     brand: "PLuS"

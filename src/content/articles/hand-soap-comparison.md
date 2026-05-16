@@ -1,9 +1,9 @@
 ---
 title: "ハンドソープ コスパ最強ランキング【2026年版】殺菌力・保湿成分で比較10選"
-description: "ハンドソープを1回あたりのコストで徹底比較。キレイキレイ・ビオレu・ミューズ・ジェームズマーティンなど人気14選を紹介。殺菌力重視・保湿重視・家族向けに最適な商品が分かります。"
+description: "ハンドソープを1回あたりのコストで徹底比較。キレイキレイ・ビオレu・ミューズ・ジェームズマーティンなど人気10選を紹介。殺菌力重視・保湿重視・家族向けに最適な商品が分かります。"
 category: "hand-soap"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "ビオレ泡4リットル ビオレu　泡ハンドソープ"
@@ -121,8 +121,8 @@ products:
     price: 737
     capacity: "350ml"
     pricePerUnit: "約2.1円/ml"
-    rating: 4.82
-    reviewCount: 22
+    rating: 4.78
+    reviewCount: 23
     features:
       - "医薬部外品の薬用処方で殺菌・消毒成分を配合した詰め替えタイプ"
       - "濃密な泡が手指全体を包み込む設計で爪の間まで洗いやすい"
@@ -144,7 +144,7 @@ products:
     capacity: "900mL（約300回分）"
     pricePerUnit: "約2.1円/mL"
     rating: 4.28
-    reviewCount: 1453
+    reviewCount: 1454
     features:
       - "幅広いバイ菌を殺菌・消毒"
       - "ミューズ独自の殺菌処方で高い除菌力"

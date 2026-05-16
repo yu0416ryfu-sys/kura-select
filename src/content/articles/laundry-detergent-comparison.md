@@ -1,9 +1,9 @@
 ---
 title: "洗濯洗剤 コスパ最強ランキング【2026年版】1回あたり最安10円台も"
-description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉末・ジェルボール別におすすめ13選を紹介。楽天で買えるコスパ最強の洗濯洗剤を探している方必見です。"
+description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉末・ジェルボール別におすすめ10選を紹介。楽天で買えるコスパ最強の洗濯洗剤を探している方必見です。"
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "トップ クリアリキッド 業務用 4kg×3本"
@@ -211,7 +211,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約8.0円/g"
     rating: 4.67
-    reviewCount: 545
+    reviewCount: 546
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"

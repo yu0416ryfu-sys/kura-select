@@ -1,9 +1,9 @@
 ---
 title: "食器用洗剤 コスパ最強ランキング【2026年版】除菌力・泡立ちで比較"
-description: "食器用洗剤を1回あたりのコストで徹底比較。ジョイ・キュキュット・ヤシノミ洗剤など人気15選を紹介。手荒れが気になる方・油汚れが多い方に最適な商品が分かります。"
+description: "食器用洗剤を1回あたりのコストで徹底比較。ジョイ・キュキュット・ヤシノミ洗剤など人気10選を紹介。手荒れが気になる方・油汚れが多い方に最適な商品が分かります。"
 category: "dish-detergent"
 publishedAt: "2026-04-29"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "ライオン CHARMY Magica 除菌＋ プロフェッショナル 無香料 ハーバ"
@@ -28,11 +28,33 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F10053002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10053002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/10053002.jpg?_ex=128x128"
   - rank: 2
+    name: "【1種類を選べる】キュキュット 食器用洗剤 つめかえ用 ジャンボサイズ 梱販売用"
+    brand: "花王（キュキュット）"
+    price: 5035
+    capacity: "1250mL×6本"
+    pricePerUnit: "約0.67円/mL"
+    rating: 4.74
+    reviewCount: 503
+    features:
+      - "花王独自の界面活性剤で油汚れをすっきり落とす"
+      - "詰め替え大容量でコスパ優秀"
+      - "除菌99.9%の抗菌処方"
+    pros:
+      - "少量でよく泡立ち経済的"
+      - "花王の信頼ブランドで安心感"
+      - "除菌効果で衛生的な食器洗いができる"
+    cons:
+      - "手荒れが気になる方は手袋使用を推奨"
+      - "詰め替え袋の開封が少し手間"
+    recommendedFor: "コスパ重視・油汚れが多い方・衛生面を気にする方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404955%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148566%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/955/404955.jpg?_ex=128x128"
+  - rank: 3
     name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
     brand: "P&G（ジョイ）"
-    price: 2651
+    price: 2750
     capacity: "4L"
-    pricePerUnit: "約663円/L"
+    pricePerUnit: "約688円/L"
     rating: 4.79
     reviewCount: 43
     features:
@@ -49,28 +71,6 @@ products:
     recommendedFor: "洗浄力最優先の方・油の多い料理をする方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7269456%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10221021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasyakura/7269456.jpg?_ex=128x128"
-  - rank: 3
-    name: "【1種類を選べる】キュキュット 食器用洗剤 つめかえ用 ジャンボサイズ 梱販売用"
-    brand: "花王（キュキュット）"
-    price: 5035
-    capacity: "1250mL×6本"
-    pricePerUnit: "約0.67円/mL"
-    rating: 4.74
-    reviewCount: 502
-    features:
-      - "花王独自の界面活性剤で油汚れをすっきり落とす"
-      - "詰め替え大容量でコスパ優秀"
-      - "除菌99.9%の抗菌処方"
-    pros:
-      - "少量でよく泡立ち経済的"
-      - "花王の信頼ブランドで安心感"
-      - "除菌効果で衛生的な食器洗いができる"
-    cons:
-      - "手荒れが気になる方は手袋使用を推奨"
-      - "詰め替え袋の開封が少し手間"
-    recommendedFor: "コスパ重視・油汚れが多い方・衛生面を気にする方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404955%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148566%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/955/404955.jpg?_ex=128x128"
   - rank: 4
     name: "パックス 200番 台所用石けん 詰替用 2300mL×2本 2本セット"
     brand: "太陽油脂"

@@ -1,9 +1,9 @@
 ---
 title: "衣料用漂白剤 コスパ最強ランキング【2026年版】酸素系・塩素系で比較"
-description: "衣料用漂白剤を1回あたりのコストで徹底比較。オキシクリーン・ワイドハイター・ブライトなど人気15選を漂白力・色柄物対応で解説します。"
+description: "衣料用漂白剤を1回あたりのコストで徹底比較。オキシクリーン・ワイドハイター・ブライトなど人気10選を漂白力・色柄物対応で解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "トップ クリアリキッド 詰め替え"
@@ -210,7 +210,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約8.0円/g"
     rating: 4.67
-    reviewCount: 545
+    reviewCount: 546
     features:
       - "スーツ・コート・ダウン・ニット・カシミアに対応するドライ洗剤"
       - "無香料設計で素材への影響を最小化"

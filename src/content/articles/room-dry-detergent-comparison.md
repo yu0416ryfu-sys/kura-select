@@ -1,9 +1,9 @@
 ---
 title: "部屋干し洗剤 おすすめランキング【2026年版】生乾き臭を防ぐ最強洗剤を比較9選"
-description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底比較。アタック抗菌EX・緑の魔女・さらさなど人気12選を抗菌力・消臭力で解説。"
+description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底比較。アタック抗菌EX・緑の魔女・さらさなど人気9選を抗菌力・消臭力で解説。"
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "アタック 抗菌EX 部屋干し用 詰め替え 2380g×6個セット"
@@ -122,7 +122,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約8.0円/g"
     rating: 4.67
-    reviewCount: 545
+    reviewCount: 546
     features:
       - "おしゃれ着やドライマーク衣類向けの洗剤"
       - "ニットやスーツなどに使いやすい"

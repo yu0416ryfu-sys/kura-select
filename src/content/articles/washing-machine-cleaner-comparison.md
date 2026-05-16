@@ -1,9 +1,9 @@
 ---
 title: "洗濯槽クリーナー コスパ最強ランキング【2026年版】塩素系・酸素系で比較"
-description: "洗濯槽クリーナーを1回あたりのコストで徹底比較。塩素系・酸素系の違いやオキシクリーン・洗濯槽カビキラーなど人気15選を解説します。"
+description: "洗濯槽クリーナーを1回あたりのコストで徹底比較。塩素系・酸素系の違いやオキシクリーン・洗濯槽カビキラーなど人気10選を解説します。"
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "過炭酸ナトリウム 酸素系漂白剤 950g"
@@ -144,7 +144,7 @@ products:
     capacity: "200g×3個（3回分）"
     pricePerUnit: "約4.2円/g"
     rating: 4.63
-    reviewCount: 658
+    reviewCount: 659
     features:
       - "酵素と塩素系成分を組み合わせたクリーナー"
       - "縦型・ドラム式両対応の設計"

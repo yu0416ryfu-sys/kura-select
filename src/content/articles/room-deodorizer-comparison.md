@@ -1,9 +1,9 @@
 ---
 title: "消臭剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・リセッシュ・無香空間・ファブリーズなど人気4選を香り・持続力・コスパで解説します。"
+description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・リセッシュ・無香空間・ファブリーズなど人気10選を香り・持続力・コスパで解説します。"
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "サライウォーター 大容量 次亜塩素酸水"
@@ -174,7 +174,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1183円/kg"
     rating: 4.79
-    reviewCount: 2901
+    reviewCount: 2902
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"

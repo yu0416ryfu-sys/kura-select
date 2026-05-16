@@ -1,9 +1,9 @@
 ---
 title: "日焼け止め コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "日焼け止めを1mLあたりのコストで徹底比較。ビオレUV・スキンアクア・ニベアUV・アリィーなど人気4選をUV防御力・コスパで解説します。"
+description: "日焼け止めを1mLあたりのコストで徹底比較。ビオレUV・スキンアクア・ニベアUV・アリィーなど人気10選をUV防御力・コスパで解説します。"
 category: "sunscreen"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -92,7 +92,7 @@ products:
       - "落とすときは丁寧なクレンジングが必要"
     recommendedFor: "屋外でのスポーツ・レジャーが多い方・絶対焼きたくない方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t269n.3rdw662f.g00t269n.3rdw745b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Farianakosume%2Fallie-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Farianakosume%2Fi%2F10006763%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/marason-ariana/allie-001-ra-rk.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/main-ariana/allie-001-ra-rk.jpg?_ex=128x128"
   - rank: 5
     name: "レステモ 美白BBクリーム"
     brand: "レステモ"

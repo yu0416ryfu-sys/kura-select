@@ -1,9 +1,9 @@
 ---
 title: "制汗剤 コスパ最強ランキング【2026年版】1gあたり最安で比較"
-description: "制汗剤・デオドラントを1gあたりのコストで徹底比較。8×4・Ban・エージーデオ24・デオナチュレなど人気4選を持続力・コスパで解説します。"
+description: "制汗剤・デオドラントを1gあたりのコストで徹底比較。8×4・Ban・エージーデオ24・デオナチュレなど人気10選を持続力・コスパで解説します。"
 category: "deodorant"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-15
+updatedAt: 2026-05-16
 products:
   - rank: 1
     name: "クリニーク フォー メン アンティ パースパイラント デオドラント ロールオン N 75mL"
@@ -96,9 +96,9 @@ products:
   - rank: 5
     name: "パースピレックス コンフォート 20mL×2個 2個セット"
     brand: "Perspirex"
-    price: 4790
+    price: 6040
     capacity: "20mL×2個"
-    pricePerUnit: "約120円/mL"
+    pricePerUnit: "約151円/mL"
     rating: 4.29
     reviewCount: 665
     features:
@@ -118,9 +118,9 @@ products:
   - rank: 6
     name: "パースピレックス オリジナル 20mL×2個 2個セット"
     brand: "Perspirex"
-    price: 4790
+    price: 6040
     capacity: "20mL×2個"
-    pricePerUnit: "約120円/mL"
+    pricePerUnit: "約151円/mL"
     rating: 4.41
     reviewCount: 470
     features:
