@@ -50,13 +50,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000404%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10122166%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/755/4901301018755.jpg?_ex=128x128"
   - rank: 3
-    name: "ルック まめピカ トイレクリーナー つめかえ用"
+    name: "ルック まめピカ トイレクリーナー つめかえ用 190ml"
     brand: "ライオン（ルック）"
-    price: 190
+    price: 217
     capacity: "190ml"
-    pricePerUnit: "約1.0円/ml"
-    rating: 4.84
-    reviewCount: 45
+    pricePerUnit: "約1.1円/ml"
+    rating: 4.88
+    reviewCount: 8
     features:
       - "詰め替え用タイプで本体容器を繰り返し使用可能"
       - "便器内の黒ずみ・黄ばみを浮かせて除去する処方"
@@ -69,7 +69,7 @@ products:
       - "別売りの本体容器が必要なため単独では使用できない"
       - "頑固な尿石・黒ずみには専用洗剤との使い分けが推奨される"
     recommendedFor: "詰め替え運用でコストを抑えたい方・日常の軽い掃除に使いやすい洗剤を探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301118336_24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10012128%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301118336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10003250%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/c/4903301118336.jpg?_ex=128x128"
   - rank: 4
     name: "ソネット ナチュラルトイレットクリーナー"
@@ -182,10 +182,10 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F22501%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10674601%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/501/22501.jpg?_ex=128x128"
   - rank: 9
-    name: "スクラビングバブル 超強力トイレクリーナー 5本セット"
+    name: "スクラビングバブル 超強力トイレクリーナー 400g×5本セット"
     brand: "ジョンソン（スクラビングバブル）"
     price: 1214
-    capacity: "400g×5本"
+    capacity: "400g×5本（2000g）"
     pricePerUnit: "約0.61円/g"
     rating: 4.84
     reviewCount: 96

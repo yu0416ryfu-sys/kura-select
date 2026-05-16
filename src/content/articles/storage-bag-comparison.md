@@ -160,13 +160,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pwv9n.3rdw663c.g00pwv9n.3rdw7da1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-gallery%2Fds-1530040%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-gallery%2Fi%2F10414572%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-gallery/cabinet/dsproducts/341/0001530040-1.jpg?_ex=128x128"
   - rank: 8
-    name: "マーナ パン冷凍保存袋"
+    name: "マーナ パン冷凍保存袋 一斤 2枚入り"
     brand: "マーナ"
-    price: 748
-    capacity: "2枚入り"
-    pricePerUnit: "約374円/枚"
-    rating: 4.42
-    reviewCount: 189
+    price: 980
+    capacity: "2枚"
+    pricePerUnit: "約490円/枚"
+    rating: 4.66
+    reviewCount: 143
     features:
       - "ポリエチレン・PET複合フィルムで冷凍対応の専用設計"
       - "乾燥防止・臭い移り防止機能を備えたパン専用保存袋"
@@ -179,8 +179,8 @@ products:
       - "1セット2枚入りのため複数本まとめて冷凍したい場合は複数購入が必要"
       - "パン専用設計のため汎用保存袋としての用途は限定的"
     recommendedFor: "パンをまとめ買いして冷凍保存する方・食パンの鮮度を保ちたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ssg5n.3rdw69f0.g00ssg5n.3rdw7a60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshimoyama-onlineshop%2F2101mn094%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshimoyama-onlineshop%2Fi%2F10001494%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shimoyama-onlineshop/cabinet/07802218/imgrc0078037117.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ssg5n.3rdw69f0.g00ssg5n.3rdw7a60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshimoyama-onlineshop%2F2112mn124%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshimoyama-onlineshop%2Fi%2F10001890%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shimoyama-onlineshop/cabinet/07802218/imgrc0077999930.jpg?_ex=128x128"
   - rank: 9
     name: "アイラップ 60枚入×5箱セット"
     brand: "岩谷マテリアル（アイラップ）"

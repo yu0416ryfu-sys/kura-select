@@ -6,7 +6,7 @@ publishedAt: "2026-05-03"
 updatedAt: 2026-05-16
 products:
   - rank: 1
-    name: "立体不織布マスク 50枚（血色・バイカラー）"
+    name: "立体不織布マスク 50枚 バイカラー"
     brand: "ashop"
     price: 264
     capacity: "50枚"

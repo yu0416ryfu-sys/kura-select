@@ -1,33 +1,11 @@
 ---
-title: "マウスウォッシュ コスパ最強ランキング【2026年版】殺菌力・低刺激で比較9選"
-description: "マウスウォッシュを1mLあたりのコストで徹底比較。リステリン・モンダミン・GUM・コンクールなど人気9選を殺菌力・刺激性で解説します。"
+title: "マウスウォッシュ コスパ最強ランキング【2026年版】殺菌力・低刺激で比較8選"
+description: "マウスウォッシュを1mLあたりのコストで徹底比較。リステリン・モンダミン・GUM・コンクールなど人気8選を殺菌力・刺激性で解説します。"
 category: "mouthwash"
 publishedAt: "2026-05-01"
 updatedAt: 2026-05-16
 products:
   - rank: 1
-    name: "【訳あり】モンダミン マウスウォッシュ プレミアムケア【モンダミン】[洗口液 口"
-    brand: "アース製薬（モンダミン）"
-    price: 5280
-    capacity: "08L×6個"
-    pricePerUnit: "約110円/L"
-    rating: 4.77
-    reviewCount: 13
-    features:
-      - "3種の殺菌成分でむし歯・歯肉炎・口臭を予防"
-      - "ノンアルコールで低刺激"
-      - "プレミアムミントの爽快感"
-    pros:
-      - "1mLあたり約0.75円で最安クラス"
-      - "ノンアルコールで刺激が少ない"
-      - "大容量1300mLで長く使える"
-    cons:
-      - "殺菌力はリステリンに劣る"
-      - "甘味料の味が好みが分かれる"
-    recommendedFor: "低刺激を求める方・コスパ最優先の方・大容量でまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F73617%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10938988%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/617/73617.jpg?_ex=128x128"
-  - rank: 2
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
     brand: "ジョンソン・エンド・ジョンソン（リステリン）"
     price: 964
@@ -49,7 +27,7 @@ products:
     recommendedFor: "口臭・虫歯予防を徹底したい方・刺激に慣れている方・コスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ukdzn.3rdw666d.g00ukdzn.3rdw7ec6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplant-online%2Fp10605%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplant-online%2Fi%2F10000064%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/plant-online/cabinet/image/p10605_1.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "薬用リステリン トータルケアゼロプラス ノンアルコール クリーンミント味"
     brand: "ジョンソン・エンド・ジョンソン（リステリン）"
     price: 3980
@@ -71,7 +49,7 @@ products:
     recommendedFor: "リステリンを試したいがアルコール刺激が不安な方・まとめ買いでコストを抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F89403%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10982577%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/403/89403.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "GUM デンタルリンス ナイトケア 900mL"
     brand: "サンスター（GUM）"
     price: 1038
@@ -93,7 +71,7 @@ products:
     recommendedFor: "朝の口臭が気になる方・就寝中の口内ケアを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10035032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10035032%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin52/4901616010888.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 4
     name: "プロフレッシュ 口臭ケア マウスウォッシュ"
     brand: "PROFRESH（プロフレッシュ）"
     price: 7425
@@ -115,6 +93,28 @@ products:
     recommendedFor: "口臭が強く気になる方・無香料マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pz2wn.3rdw6ac8.g00pz2wn.3rdw7cbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falpha-net%2F020-prf-0013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falpha-net%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/alpha-net/cabinet/profresh/imgrc0134851319.jpg?_ex=128x128"
+  - rank: 5
+    name: "WHITH WHITE マウスウォッシュ 300ml"
+    brand: "WHITH WHITE（フィスホワイト）"
+    price: 2200
+    capacity: "300ml"
+    pricePerUnit: "約7.3円/ml"
+    rating: 4.59
+    reviewCount: 2721
+    features:
+      - "ホワイトニング成分配合でセルフケアに対応"
+      - "ノンアルコール処方で低刺激"
+      - "日本製の医薬部外品"
+    pros:
+      - "歯の着色が気になる方のホワイトニングケアに"
+      - "低刺激で敏感な口腔環境にも使いやすい"
+      - "子どもから大人まで使える幅広い対応"
+    cons:
+      - "300mLとやや小容量"
+      - "ホワイトニング効果は継続使用が前提"
+    recommendedFor: "ホワイトニングケアを日常に取り入れたい方・低刺激マウスウォッシュを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b071gypvwv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000116%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260509m/906b071gypvwv-50.jpg?_ex=128x128"
   - rank: 6
     name: "ドクターウォッシュ デンタル露ウォッシュ"
     brand: "ビーラッシュストア"
@@ -181,28 +181,6 @@ products:
     recommendedFor: "口臭・歯周炎ケアを重視する方・国産マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr2qn.3rdw64f0.g00pr2qn.3rdw7a58/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnat-gar%2F1484526%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnat-gar%2Fi%2F10004814%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nat-gar/cabinet/ynata/c/cart-r-ynata5x250b6.jpg?_ex=128x128"
-  - rank: 9
-    name: "WHITH WHITE マウスウォッシュ"
-    brand: "WHITH WHITE（フィスホワイト）"
-    price: 0
-    capacity: "300mL"
-    pricePerUnit: "0円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "ホワイトニング成分配合でセルフケアに対応"
-      - "ノンアルコール処方で低刺激"
-      - "日本製の医薬部外品"
-    pros:
-      - "歯の着色が気になる方のホワイトニングケアに"
-      - "低刺激で敏感な口腔環境にも使いやすい"
-      - "子どもから大人まで使える幅広い対応"
-    cons:
-      - "300mLとやや小容量"
-      - "ホワイトニング効果は継続使用が前提"
-    recommendedFor: "ホワイトニングケアを日常に取り入れたい方・低刺激マウスウォッシュを探している方"
-    rakutenUrl: "https://item.rakuten.co.jp/whithwhite/906b071gypvwv/"
-    imageUrl: ""
 tags:
   - "マウスウォッシュ"
   - "コスパ"

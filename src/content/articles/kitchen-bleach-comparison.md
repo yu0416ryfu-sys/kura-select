@@ -1,6 +1,6 @@
 ---
 title: "キッチン漂白剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気10選を除菌力・コスパ・安全性で解説します。"
+description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気9選を除菌力・コスパ・安全性で解説します。"
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 updatedAt: 2026-05-16
@@ -182,28 +182,6 @@ products:
     rakutenUrl: "https://item.rakuten.co.jp/rakuten24/a002256000139/"
     imageUrl: ""
   - rank: 9
-    name: "キッチンハイター 小ボトル"
-    brand: "花王（ハイター）"
-    price: 0
-    capacity: "600ml"
-    pricePerUnit: "0円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "塩素系台所用漂白剤のコンパクトボトルタイプ"
-      - "まな板・ふきん・食器の漂白と除菌に対応"
-      - "収納スペースが限られるキッチンに適したサイズ"
-    pros:
-      - "収納場所を選ばないコンパクトなサイズ感"
-      - "少量ずつ試したい方や一人暮らし・少人数世帯に向いている"
-      - "使いきりやすいため劣化しにくく常に新鮮な状態で使用できる"
-    cons:
-      - "大容量タイプと比べると1mlあたりの単価は高め"
-      - "頻繁に使う場合は補充頻度が上がりやすい"
-    recommendedFor: "収納スペースが限られる方・少量ずつ使いたい一人暮らしや少人数世帯の方"
-    rakutenUrl: "https://item.rakuten.co.jp/wellness-web/10006211/"
-    imageUrl: ""
-  - rank: 10
     name: "キッチンハイター 特大ボトル 2本セット"
     brand: "花王（ハイター）"
     price: 0

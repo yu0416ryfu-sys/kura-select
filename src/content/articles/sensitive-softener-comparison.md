@@ -1,6 +1,6 @@
 ---
 title: "敏感肌・赤ちゃん向け柔軟剤 おすすめランキング【2026年版】無添加・低刺激で比較"
-description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹底比較。さらさ・ランドリンボタニカル・ファーファフリー&など人気5選を低刺激性で解説。"
+description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹底比較。さらさ・ランドリンボタニカル・ファーファフリー&など人気4選を低刺激性で解説。"
 category: "fabric-softener"
 publishedAt: "2026-04-30"
 updatedAt: 2026-05-16
@@ -93,28 +93,6 @@ products:
     recommendedFor: "赤ちゃんがいる家庭・敏感肌の方・無添加にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1osn.3rdw6db5.g00r1osn.3rdw76c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarasa-designstore%2Fset-ls021x3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarasa-designstore%2Fi%2F10002237%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sarasa-designstore/cabinet/c05/set-ls021x3_ver2.jpg?_ex=128x128"
-  - rank: 5
-    name: "ベビー ファーファ 濃縮 柔軟剤 詰替"
-    brand: "NSファーファ・ジャパン（ベビーファーファ）"
-    price: 8178
-    capacity: "（540mL）"
-    pricePerUnit: "約15円/mL"
-    rating: 4.52
-    reviewCount: 234
-    features:
-      - "赤ちゃん専用設計の低刺激柔軟剤"
-      - "天然ベルガモットの精油でほのかに香る"
-      - "合成香料・着色料・シリコン無添加"
-    pros:
-      - "赤ちゃん専用ブランドの安心感"
-      - "天然精油の自然な香り"
-      - "洗い上がりがふんわりやわらか"
-    cons:
-      - "1回あたりのコストがやや高め"
-      - "取り扱い店舗がやや少ない"
-    recommendedFor: "新生児から使いたい方・天然由来の香りが好きな方・赤ちゃん専用にこだわる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3i4n.3rdw6daa.g00u3i4n.3rdw7473/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgr-online%2Fooc91bd2d3ac%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgr-online%2Fi%2F10045762%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gr-online/cabinet/onesell021/ooc91bd2d3ac.jpg?_ex=128x128"
 tags:
   - "柔軟剤"
   - "敏感肌"

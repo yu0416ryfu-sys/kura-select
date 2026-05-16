@@ -6,13 +6,13 @@ publishedAt: "2026-04-30"
 updatedAt: 2026-05-16
 products:
   - rank: 1
-    name: "ライオン おふろのルック 詰替用"
+    name: "ライオン おふろのルック つめかえ用 350ml"
     brand: "ライオン"
-    price: 143
+    price: 117
     capacity: "350ml"
-    pricePerUnit: "約0.41円/ml"
-    rating: 4.65
-    reviewCount: 26
+    pricePerUnit: "約0.33円/ml"
+    rating: 5
+    reviewCount: 1
     features:
       - "浴室掃除に使える洗浄剤"
       - "汚れの種類に合わせて選びやすい"
@@ -25,8 +25,8 @@ products:
       - "用途外使用は避ける必要がある"
       - "素材への影響は事前確認が必要"
     recommendedFor: "浴室用洗剤を用途別に比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301015369-24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10010868%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4903301015369.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q8den.3rdw61ea.g00q8den.3rdw7cb4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatsuzakka-plus1%2F4903301015369%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatsuzakka-plus1%2Fi%2F10126208%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/seikatsuzakka-plus1/cabinet/r310-dcitem/0009/4903301015369.jpg?_ex=128x128"
   - rank: 2
     name: "ルックプラス バスタブクレンジング 銀イオンプラス ハーバルグリーン 詰替サイズ"
     brand: "ライオン（ルック）"

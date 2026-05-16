@@ -1,6 +1,6 @@
 ---
-title: "コーヒーフィルター コスパ最強ランキング【2026年版】1枚あたり最安で比較10選"
-description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒー・KONO・珈琲考具など人気10選を漂白タイプ・形状・コスパで解説します。"
+title: "コーヒーフィルター コスパ最強ランキング【2026年版】1枚あたり最安で比較8選"
+description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒー・KONO・珈琲考具など人気8選を漂白タイプ・形状・コスパで解説します。"
 category: "coffee-filter"
 publishedAt: "2026-05-05"
 updatedAt: 2026-05-16
@@ -182,50 +182,6 @@ products:
     recommendedFor: "定番ブランドの安心品質を求める方・ペーパードリップ初心者の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5ncn.3rdw6781.g00u5ncn.3rdw77ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmelittajapan%2Faromafilter01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmelittajapan%2Fi%2F10000085%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/5.jpg?_ex=128x128"
-  - rank: 9
-    name: "KONO ドリップ用コーヒーフィルター 2杯用"
-    brand: "KONO"
-    price: 0
-    capacity: "40枚（2杯用）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "KONO専用の円錐型ペーパーフィルター（ホワイト・漂白タイプ）"
-      - "特殊ナローグルーブ設計でクリーンな風味の抽出を実現"
-      - "2杯用ドリッパー専用サイズ"
-    pros:
-      - "KONOドリッパーと組み合わせてブランド推奨の抽出性能を発揮"
-      - "漂白タイプで紙のにおいが出にくく扱いやすい"
-      - "小容量・少人数向けで使い切りやすいサイズ感"
-    cons:
-      - "KONO専用のため他社ドリッパーへの転用には向かない"
-      - "40枚入りのためまとめ買いセットと比較して割高になる場合がある"
-    recommendedFor: "KONOドリッパー2杯用をお使いの方・少人数でこだわりのコーヒーを楽しみたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/fcinterior/30817-11300/"
-    imageUrl: ""
-  - rank: 10
-    name: "KONO ドリップ用コーヒーフィルター 4杯用"
-    brand: "KONO"
-    price: 0
-    capacity: "40枚（4杯用）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "KONO専用の円錐型ペーパーフィルター（ホワイト・漂白タイプ）"
-      - "特殊ナローグルーブ設計でクリーンな風味の抽出を実現"
-      - "4杯用ドリッパー対応の大きめサイズ"
-    pros:
-      - "KONOドリッパー4杯用に最適で安定した抽出が期待できる"
-      - "漂白タイプで使用前のリンスなしで扱いやすい"
-      - "複数杯分をまとめて淹れる家庭や職場用途に向いている"
-    cons:
-      - "KONO4杯用ドリッパー専用のため汎用性が限られる"
-      - "40枚入りのためまとめ買いセットと比較して割高になる場合がある"
-    recommendedFor: "KONOドリッパー4杯用をお使いの方・複数人分のコーヒーをまとめて淹れる方"
-    rakutenUrl: "https://item.rakuten.co.jp/fcinterior/30816-11299/"
-    imageUrl: ""
 tags:
   - "コーヒーフィルター おすすめ"
   - "コーヒーフィルター コスパ"

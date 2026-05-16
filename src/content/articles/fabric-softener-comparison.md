@@ -1,6 +1,6 @@
 ---
 title: "柔軟剤 コスパ最強ランキング【2026年版】香り・低刺激・大容量で比較"
-description: "柔軟剤を1回あたりのコストで徹底比較。消臭重視・香り重視・敏感肌向けのおすすめ10選を紹介。部屋干し臭や赤ちゃんのいる家庭に最適な柔軟剤が見つかります。"
+description: "柔軟剤を1回あたりのコストで徹底比較。消臭重視・香り重視・敏感肌向けのおすすめ9選を紹介。部屋干し臭や赤ちゃんのいる家庭に最適な柔軟剤が見つかります。"
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 updatedAt: 2026-05-16
@@ -94,28 +94,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00up3bn.3rdw60f2.g00up3bn.3rdw7ff6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyksakai%2Frm5gaghcckomnptjv3ixcugo64%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyksakai%2Fi%2F10470645%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yksakai/cabinet/12902079/39758845_1.jpg?_ex=128x128"
   - rank: 5
-    name: "ハミングファイン リフレッシュグリーン 詰替用 480mL"
-    brand: "花王（ハミングファイン）"
-    price: 1638
-    capacity: "480mL"
-    pricePerUnit: "約3.4円/mL"
-    rating: 4.5
-    reviewCount: 2
-    features:
-      - "花王の定番柔軟剤シリーズ"
-      - "1500mLの大容量詰め替えパック"
-      - "静電気防止効果あり"
-    pros:
-      - "1回あたりのコストが安く家計に優しい"
-      - "花王ブランドで品質が安定"
-      - "静電気やほこりの付着を防ぐ効果"
-    cons:
-      - "香りの持続時間はレノアに劣る"
-      - "香りのバリエーションが少ない"
-    recommendedFor: "コスト最優先の方・静電気が気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00up7wn.3rdw6989.g00up7wn.3rdw7434/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finokoya%2Fwg364gw6e5xopdxomjxibtlnc4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finokoya%2Fi%2F10036202%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inokoya/cabinet/11497814/21481051_3.jpg?_ex=128x128"
-  - rank: 6
     name: "【シリーズ累計50万本突破】ランドリーボトル 洗濯ボトル 洗剤ボトル ［セット "
     brand: "P&G（さらさ）"
     price: 2664
@@ -137,7 +115,7 @@ products:
     recommendedFor: "敏感肌・赤ちゃんのいる家庭・低刺激処方を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1osn.3rdw6db5.g00r1osn.3rdw76c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarasa-designstore%2Fset-ls021x3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarasa-designstore%2Fi%2F10002237%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sarasa-designstore/cabinet/c05/set-ls021x3_ver2.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "マイランドリー 柔軟剤 500mL 5本セット"
     brand: "My Laundry"
     price: 3680
@@ -159,7 +137,7 @@ products:
     recommendedFor: "香りや仕上がりの好みに合わせやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvwtn.3rdw692d.g00qvwtn.3rdw71dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsapri-bk%2Fmylaundry-5setb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsapri-bk%2Fi%2F10009814%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sapri-bk/cabinet/zakka/imgrc0076777801.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "ダウニー コンフォート お試し柔軟剤 4袋セット"
     brand: "Downy"
     price: 473
@@ -181,7 +159,7 @@ products:
     recommendedFor: "香りや仕上がりの好みに合わせやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqlnn.3rdw6746.g00qqlnn.3rdw79d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatina-shop%2F10000457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatina-shop%2Fi%2F10000457%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platina-shop/cabinet/01370227/imgrc0077946738.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "ハミングフレア 柔軟剤 つめかえ用 4袋入"
     brand: "花王（ハミングフレア）"
     price: 4994
@@ -203,7 +181,7 @@ products:
     recommendedFor: "香りや仕上がりの好みに合わせやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404953%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148573%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/953/404953.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "ダウニー メキシコダウニー アロマフローラル 8.5L 2本セット"
     brand: "Downy"
     price: 6980

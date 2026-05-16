@@ -28,11 +28,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tynxn.3rdw6ad8.g00tynxn.3rdw7e17/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkzstore%2F2734-000217%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkzstore%2Fi%2F10000068%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kzstore/cabinet/amayahoo/10812595/imgrc0093288667.jpg?_ex=128x128"
   - rank: 2
-    name: "【店長のおすすめ 送料無料】 メリット キッズ 泡で出てくるシャンプー ナチュラ"
+    name: "メリットキッズ 泡で出てくるシャンプー ナチュラルフローラル 330ml"
     brand: "花王（メリット）"
-    price: 1640
-    capacity: "270mL×3袋"
-    pricePerUnit: "約2.0円/mL"
+    price: 770
+    capacity: "330ml"
+    pricePerUnit: "約2.3円/ml"
     rating: 4.74
     reviewCount: 128
     features:
@@ -47,8 +47,8 @@ products:
       - "しっとり感は控えめ"
       - "ダメージケア効果は弱い"
     recommendedFor: "家族で使いたい方・地肌ケア重視の方・シンプルなシャンプーを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvt5n.3rdw6d57.g00tvt5n.3rdw7e99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeedy-street%2F4901301314543%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeedy-street%2Fi%2F10000736%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/speedy-street/cabinet/biiino/item/main-image-4/20250528154245_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qawwn.3rdw6843.g00qawwn.3rdw7de1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000207354%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecomonline%2Fi%2F10166811%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecomonline/cabinet/item-img221/item_1000207354_1.jpg?_ex=128x128"
   - rank: 3
     name: "ザクロー精炭酸シャンプー 詰替用"
     brand: "サニープレイス"

@@ -1,6 +1,6 @@
 ---
 title: "ヘアトリートメント コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "ヘアトリートメント・ヘアマスクを1mLあたりのコストで徹底比較。フィーノ・いち髪・ケラスターゼなど人気10選を補修力・コスパで解説します。"
+description: "ヘアトリートメント・ヘアマスクを1mLあたりのコストで徹底比較。フィーノ・いち髪・ケラスターゼなど人気9選を補修力・コスパで解説します。"
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 updatedAt: 2026-05-16
@@ -116,28 +116,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prvmn.3rdw683e.g00prvmn.3rdw7a5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwich%2Fluxhairmaskset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwich%2Fi%2F10023186%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wich/cabinet/gazou62/luxhairmaskset-1.jpg?_ex=128x128"
   - rank: 6
-    name: "パンテーン ミラクルズ ヘアトリートメント 100mL"
-    brand: "P&G（パンテーン）"
-    price: 1000
-    capacity: "100mL"
-    pricePerUnit: "約10円/mL"
-    rating: 4
-    reviewCount: 2
-    features:
-      - "洗い流さないアウトバストリートメントタイプ"
-      - "ビタミン成分配合でダメージを補修しながら乾燥から守る"
-      - "ドライヤー前に使うことで熱ダメージも軽減"
-    pros:
-      - "洗い流し不要でドライヤー前に手軽に使える"
-      - "熱ダメージ保護と補修を同時にできる"
-      - "パンテーンブランドの安定した品質"
-    cons:
-      - "100mLで容量が少なく頻繁に購入が必要"
-      - "1mL単価は他の3製品より高め"
-    recommendedFor: "洗い流し不要のアウトバスケアを習慣にしたい方・ドライヤー前の熱ケアをしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987176174048-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461240%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4987176174048.jpg?_ex=128x128"
-  - rank: 7
     name: "トリートメント フォンダン オレオ リラックス 200mL"
     brand: "ケラスターゼ"
     price: 4400
@@ -159,7 +137,7 @@ products:
     recommendedFor: "日常的にくせ毛・広がりをケアしたい方・毎日コンディショナーを使う習慣がある方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fdp-fondor_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000134%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/dp-fondor_200/dp-fondor_200_01.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "スペシャルトリートメント マスク オレオ リラックス 200mL"
     brand: "ケラスターゼ"
     price: 7040
@@ -181,7 +159,7 @@ products:
     recommendedFor: "くせ毛・広がりが悩みの方・湿気に負けないまとまり髪を目指す方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fdp-masqor_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/itempage/dp-masqor_200/new_251121.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "スペシャルトリートメント マスク クロノロジスト 200mL"
     brand: "ケラスターゼ"
     price: 13200
@@ -203,7 +181,7 @@ products:
     recommendedFor: "エイジングケアとダメージ補修を同時にしたい方・カラーやパーマで傷みが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fch-masqc_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/ch-masqc_200/260428new.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
     brand: "ファイントゥデイ（フィーノ）"
     price: 2321

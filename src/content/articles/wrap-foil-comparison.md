@@ -6,6 +6,28 @@ publishedAt: "2026-04-29"
 updatedAt: 2026-05-16
 products:
   - rank: 1
+    name: "サランラップ 家庭用 22cm×50m"
+    brand: "旭化成（サランラップ）"
+    price: 476
+    capacity: "50m"
+    pricePerUnit: "約9.5円/m"
+    rating: 4.76
+    reviewCount: 17
+    features:
+      - "旭化成定番のポリ塩化ビニリデン製ラップ"
+      - "22cm幅で小皿・お茶碗など日常使いのサイズ"
+      - "電子レンジ・冷凍保存に対応"
+    pros:
+      - "家庭用として扱いやすいコンパクトな20mサイズ"
+      - "密着性が高く食品の酸化・乾燥を防ぎやすい"
+      - "一般的な食器サイズにフィットしやすい幅"
+    cons:
+      - "20mと短めのため使用頻度が高い家庭では交換頻度が増える"
+      - "ポリ塩化ビニリデン製のため高温調理での使用には注意が必要"
+    recommendedFor: "小皿やお茶碗によく使う方・少量ずつ購入したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901670110197%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10016753%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic01/4901670110197.jpg?_ex=128x128"
+  - rank: 2
     name: "NEWクレラップ 22cm*"
     brand: "クレハ（クレラップ）"
     price: 567
@@ -27,7 +49,7 @@ products:
     recommendedFor: "食品保存にこだわる方・鮮度を長持ちさせたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200078%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10094690%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/505/4901422152505.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 3
     name: "業務用ポリラップ 無添加 22cm×22cm×100m×3本（300m） 3本セット"
     brand: "ポリラップ（ポリエチレン製）"
     price: 13080
@@ -49,7 +71,7 @@ products:
     recommendedFor: "コスト最優先の方・業務・大量使用・電子レンジ加熱が多い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7dn.3rdw6546.g00un7dn.3rdw75a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsumehoudai%2F36168p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsumehoudai%2Fi%2F10000740%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsumehoudai/cabinet/lap10.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "【ケース販売】サランラップ 業務用 BOXタイプ 30cm×"
     brand: "旭化成（サランラップ）"
     price: 15400
@@ -71,28 +93,6 @@ products:
     recommendedFor: "大きな容器・食品保存にこだわる方・定番品を使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sjkzn.3rdw6654.g00sjkzn.3rdw73bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsatoiku%2Fsaranwrap_30_30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsatoiku%2Fi%2F10020877%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/satoiku/cabinet/05239510/4901670110388_2.jpg?_ex=128x128"
-  - rank: 4
-    name: "サランラップ 家庭用 22cm"
-    brand: "旭化成（サランラップ）"
-    price: 197
-    capacity: "22cm×20m"
-    pricePerUnit: "0円/m"
-    rating: 4.84
-    reviewCount: 87
-    features:
-      - "旭化成定番のポリ塩化ビニリデン製ラップ"
-      - "22cm幅で小皿・お茶碗など日常使いのサイズ"
-      - "電子レンジ・冷凍保存に対応"
-    pros:
-      - "家庭用として扱いやすいコンパクトな20mサイズ"
-      - "密着性が高く食品の酸化・乾燥を防ぎやすい"
-      - "一般的な食器サイズにフィットしやすい幅"
-    cons:
-      - "20mと短めのため使用頻度が高い家庭では交換頻度が増える"
-      - "ポリ塩化ビニリデン製のため高温調理での使用には注意が必要"
-    recommendedFor: "小皿やお茶碗によく使う方・少量ずつ購入したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901670106343-60%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10010877%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic01/4901670110227.jpg?_ex=128x128"
   - rank: 5
     name: "サランラップ 家庭用 30cm"
     brand: "旭化成（サランラップ）"
