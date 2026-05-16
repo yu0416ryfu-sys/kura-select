@@ -27,6 +27,72 @@ products:
     recommendedFor: "テープ型のおむつ替えが大変になってきた方・Mサイズのパンツ型を試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcnfn.3rdw6f9c.g00qcnfn.3rdw70c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu940041%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10036335%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/natural-living/cabinet/6/7/7/677198362716.jpg?_ex=128x128"
+  - rank: 2
+    name: "オヤスミマン 男の子 ビッグ以上 夜用"
+    brand: "ユニ・チャーム（ムーニー）"
+    price: 4785
+    capacity: "22枚×3袋（13kg～28kg）"
+    pricePerUnit: "約73円/枚"
+    rating: 4.69
+    reviewCount: 163
+    features:
+      - "8回分の吸収力を持つ夜用設計"
+      - "360°モレ徹底ガード構造"
+      - "男の子の身体に合わせた設計"
+    pros:
+      - "夜間の睡眠を邪魔しない吸収性"
+      - "朝までモレなし設計で安心感がある"
+      - "複数デザインから選べる"
+    cons:
+      - "夜用のため枚数が通常タイプより少ない"
+      - "価格帯が通常のパンツ型より高い傾向"
+    recommendedFor: "夜間のおむつ替え対応が大変な方・男の子用パンツ型夜用を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F100420%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10001435%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/oyasumiman/100420-sin.jpg?_ex=128x128"
+  - rank: 3
+    name: "オヤスミマン 女の子 ビッグ以上 夜用"
+    brand: "ユニ・チャーム"
+    price: 4785
+    capacity: "22枚×3袋（13kg～28kg）"
+    pricePerUnit: "約73円/枚"
+    rating: 4.78
+    reviewCount: 122
+    features:
+      - "8回分の吸収力を持つ夜用設計"
+      - "360°モレ徹底ガード構造"
+      - "女の子の身体に合わせた設計"
+    pros:
+      - "夜間の睡眠を邪魔しない吸収性"
+      - "朝までモレなし設計で安心感がある"
+      - "女の子向けのデザイン展開"
+    cons:
+      - "夜用のため枚数が通常タイプより少ない"
+      - "価格帯が通常のパンツ型より高い傾向"
+    recommendedFor: "夜間のおむつ替え対応が大変な方・女の子用パンツ型夜用を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F100421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10001436%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/oyasumiman/100421-sin.jpg?_ex=128x128"
+  - rank: 4
+    name: "Genki！"
+    brand: "アイリスオーヤマ"
+    price: 3280
+    capacity: "M150枚・L126枚・BIG108枚・BIG+72枚セット"
+    pricePerUnit: "0円/枚"
+    rating: 4.66
+    reviewCount: 1566
+    features:
+      - "複数サイズをセットで選べる"
+      - "ふわもちタッチで肌に優しい"
+      - "最長12時間の吸収性能"
+    pros:
+      - "成長段階に合わせて複数サイズを試せる"
+      - "セット購入でコストパフォーマンスに優れている"
+      - "横モレ対策の工夫がある"
+    cons:
+      - "セットのため、特定サイズ集中購入できない"
+      - "セット内の複数サイズで使用時期がずれる可能性"
+    recommendedFor: "成長に合わせて複数サイズを試したい方・パンツ型おむつを試し始める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F1925663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10225492%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/jisyakura2/1925663_.jpg?_ex=128x128"
 tags:
   - "パンツ型おむつ"
   - "紙おむつ コスパ"

@@ -1334,7 +1334,7 @@ const CATEGORY_SEARCH_RULES = {
     keywords: ['紙おむつ テープ', 'おむつ テープ M', 'パンパース テープ'],
     include: ['おむつ', 'オムツ', '紙おむつ', 'テープ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
     exclude: ['パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', 'ペット'],
-    units: ['枚'],
+    units: ['枚', '個'],
   },
   'dishwasher-detergent': {
     keywords: ['食洗機用洗剤', '食器洗い乾燥機 洗剤', '食洗機 タブレット'],
@@ -1575,8 +1575,6 @@ const DIAPER_ACCESSORY_EXCLUDE_TERMS = [
   '防水',
   'ロンパース',
   '服',
-  '保育園',
-  '入園',
   '試供品',
   '試着',
   'お試し',
@@ -1607,14 +1605,30 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
     };
   }
 
+  if (category === 'conditioner') {
+    return {
+      keywords: ['コンディショナー', 'リンス', 'ヘアコンディショナー'],
+      include: ['コンディショナー', 'リンス', 'トリートメント'],
+      exclude: [
+        'シャンプー&', 'シャンプー＋', 'シャンプーと', 'シャンプーに混ぜる',
+        'シャンプー', 'ボディソープ', 'ボディウォッシュ', 'ディスペンサー',
+        'ブラシ', 'ヘッドスパ', '美容液', 'ヘアブースター', 'ヘアマスク',
+        'セット', '詰め合わせ', 'トライアル', 'サンプル', 'お試し', '試供品',
+        'リンス不要', '混ぜる',
+      ],
+      units: ['ml', 'g'],
+      minScore: 4,
+    };
+  }
+
   if (category === 'diaper' && /新生児/.test(baseKeyword)) {
     return {
       keywords: ['新生児 おむつ テープ', '紙おむつ 新生児', 'パンパース 新生児 テープ'],
       include: ['おむつ', 'オムツ', '紙おむつ', 'テープ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
       requiredGroups: [['新生児', 'nb', '5kg', '5000g'], ['テープ']],
       exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, 'Sサイズ', 'Mサイズ', 'Lサイズ', 'BIG', 'ビッグ', 'パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
-      units: ['枚'],
-      minScore: 4,
+      units: ['枚', '個'],
+      minScore: 3,
     };
   }
 
@@ -1624,8 +1638,8 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
       include: ['おむつ', 'オムツ', '紙おむつ', 'テープ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
       requiredGroups: [['Sサイズ', 'S サイズ', 'テープ S', 'S テープ'], ['テープ']],
       exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, '新生児', 'NB', 'Mサイズ', 'Lサイズ', 'BIG', 'ビッグ', 'パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
-      units: ['枚'],
-      minScore: 4,
+      units: ['枚', '個'],
+      minScore: 3,
     };
   }
 
@@ -1635,8 +1649,8 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
       include: ['おむつ', 'オムツ', '紙おむつ', 'テープ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
       requiredGroups: [['Mサイズ', 'M サイズ', 'テープ M', 'M テープ'], ['テープ']],
       exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, '新生児', 'NB', 'Sサイズ', 'Lサイズ', 'BIG', 'ビッグ', 'パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
-      units: ['枚'],
-      minScore: 4,
+      units: ['枚', '個'],
+      minScore: 3,
     };
   }
 
@@ -1646,8 +1660,8 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
       include: ['おむつ', 'オムツ', '紙おむつ', 'パンツ', 'パンツタイプ', 'パンツ型', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
       requiredGroups: [['パンツ', 'パンツタイプ', 'パンツ型']],
       exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, 'テープ', 'テープタイプ', '新生児', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
-      units: ['枚'],
-      minScore: 4,
+      units: ['枚', '個'],
+      minScore: 3,
     };
   }
 
@@ -1657,8 +1671,8 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
       include: ['おむつ', 'オムツ', '紙おむつ', 'BIG', 'ビッグ', 'スーパービッグ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
       requiredGroups: [['BIG', 'ビッグ', 'スーパービッグ']],
       exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, '新生児', 'Sサイズ', 'Mサイズ', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
-      units: ['枚'],
-      minScore: 4,
+      units: ['枚', '個'],
+      minScore: 3,
     };
   }
 
