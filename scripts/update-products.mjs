@@ -1585,6 +1585,28 @@ const DIAPER_ACCESSORY_EXCLUDE_TERMS = [
 ];
 
 function getArticleSpecificAdditionRule(category, baseKeyword) {
+  if (category === 'toilet-paper' && /シングル/.test(baseKeyword)) {
+    return {
+      keywords: ['トイレットペーパー シングル', 'トイレットロール シングル', 'シングル 長尺 トイレットペーパー'],
+      include: ['トイレット', 'トイレットペーパー', 'トイレットティシュー', 'トイレットロール', 'ロール'],
+      requiredGroups: [['シングル']],
+      exclude: ['ダブル', '2枚重ね', '二枚重ね', 'ホルダー', '収納', 'ケース', 'カバー', '芯棒'],
+      units: ['m', 'ロール'],
+      minScore: 4,
+    };
+  }
+
+  if (category === 'toilet-paper' && /ダブル/.test(baseKeyword)) {
+    return {
+      keywords: ['トイレットペーパー ダブル', 'トイレットロール ダブル', 'ダブル 長尺 トイレットペーパー'],
+      include: ['トイレット', 'トイレットペーパー', 'トイレットティシュー', 'トイレットロール', 'ロール'],
+      requiredGroups: [['ダブル']],
+      exclude: ['シングル', '1枚重ね', '一枚重ね', 'ホルダー', '収納', 'ケース', 'カバー', '芯棒'],
+      units: ['m', 'ロール'],
+      minScore: 4,
+    };
+  }
+
   if (category === 'diaper' && /新生児/.test(baseKeyword)) {
     return {
       keywords: ['新生児 おむつ テープ', '紙おむつ 新生児', 'パンパース 新生児 テープ'],
