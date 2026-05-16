@@ -171,7 +171,9 @@ pnpm build
 
 - `rg "item.rakuten.co.jp"` が残る場合は `name` を修正して `pnpm update-products` を再実行
 - 初期作成は `draft: true`。`pnpm update-products` / `pnpm build` 後に問題なければ `draft: false` へ変更
-- 新規カテゴリでは `CATEGORY_SEARCH_RULES`、既存カテゴリの派生記事では `getArticleSpecificAdditionRule()` の追加を検討
+- 新規カテゴリでは `CATEGORY_SEARCH_RULES` への同slugルール追加を検討
+- 既存カテゴリ内の派生記事では `getArticleSpecificAdditionRule()` を必ず検討。別サイズ・別形状・別タイプが混ざる場合のみ、`keywords` / `requiredGroups` / `exclude` / `units` を最小限で追加
+- `getArticleSpecificAdditionRule()` を追加した場合は `pnpm check-additions -- --file={slug}-comparison.md --target=10` で候補が記事意図に合うか確認
 - `pnpm update-products` 後は `reports/` と `reports/toAI/` に要確認ファイルが出ていないか確認
 - category slug が実在する
 - title 60文字以内、description 160文字以内
