@@ -28,6 +28,72 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00st9kn.3rdw6336.g00st9kn.3rdw7d77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoiree-hanaoka%2F4903111143429_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoiree-hanaoka%2Fi%2F10003127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/soiree-hanaoka/cabinet/g/09552678/imgrc0111461149.jpg?_ex=128x128"
   - rank: 2
+    name: "パンパース テープ新生児 144枚"
+    brand: "P&G（パンパース）"
+    price: 5500
+    capacity: "144枚（72枚×2袋・新生児用・〜5kg）"
+    pricePerUnit: "約38円/枚"
+    rating: 4.29
+    reviewCount: 7
+    features:
+      - "新生児向けのテープタイプ"
+      - "72枚×2袋のまとめ買い構成"
+      - "コストコ通販系の大容量パック"
+    pros:
+      - "大容量で補充の頻度を抑えやすい"
+      - "定番ブランドで比較しやすい"
+      - "新生児期の備蓄向き"
+    cons:
+      - "同一ブランドの近い商品と重なりやすい"
+      - "置き場所を取りやすい"
+    recommendedFor: "新生児期をまとめて備えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2Fck00015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000166%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/187811354738718.jpg?_ex=128x128"
+  - rank: 3
+    name: "パンパース はじめての肌へのいちばん テープ3S"
+    brand: "P&G（パンパース）"
+    price: 8506
+    capacity: "216枚（36枚×6個セット・新生児用・3000gまで）"
+    pricePerUnit: "約39円/枚"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "新生児より小さめの赤ちゃん向けテープタイプ"
+      - "36枚×6個のケース買い"
+      - "生まれたての小柄な赤ちゃんを想定したサイズ"
+    pros:
+      - "体重が小さめの時期に合わせやすい"
+      - "まとまった枚数で備えやすい"
+      - "パンパース系を継続したい家庭に向く"
+    cons:
+      - "使える期間が短くなりやすい"
+      - "体格が大きめだと早めのサイズ移行が必要"
+    recommendedFor: "出生体重が小さめの赤ちゃんに備えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sargn.3rdw6a7b.g00sargn.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyrepi-2%2F4987176238498-6r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmyrepi-2%2Fi%2F10176330%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/myrepi-2/cabinet/2024a/4987176238498.jpg?_ex=128x128"
+  - rank: 4
+    name: "バンボネイチャー ドリーム テープ/パンツ ニューボーン"
+    brand: "BAMBO Nature"
+    price: 3190
+    capacity: "36枚（サイズ1・2〜4kg）"
+    pricePerUnit: "約89円/枚"
+    rating: 4.74
+    reviewCount: 47
+    features:
+      - "オーガニック系のプレミアム紙おむつ"
+      - "テープ/パンツの案内がある海外ブランド"
+      - "デンマーク王室御用達をうたう商品"
+    pros:
+      - "素材感を重視して選びやすい"
+      - "ギフト用途にも使いやすい"
+      - "ナチュラル志向と相性がよい"
+    cons:
+      - "価格は高めになりやすい"
+      - "取扱店が限られやすい"
+    recommendedFor: "素材感やプレミアム感を重視したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcnfn.3rdw6f9c.g00qcnfn.3rdw70c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu684137%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10037852%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/natural-living/cabinet/spr/1/1/118753296834.jpg?_ex=128x128"
+  - rank: 5
     name: "パンパース はじめての肌へのいちばん テープ新生児"
     brand: "P&G（パンパース）"
     price: 0
@@ -49,29 +115,7 @@ products:
     recommendedFor: "新生児期をまとめ買いで備えたい方"
     rakutenUrl: "https://item.rakuten.co.jp/auc-hyottokomrkt/57542/"
     imageUrl: ""
-  - rank: 3
-    name: "パンパース はじめての肌へのいちばん テープ3S"
-    brand: "P&G（パンパース）"
-    price: 0
-    capacity: "216枚（36枚×6個セット・新生児用・3000gまで）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "新生児より小さめの赤ちゃん向けテープタイプ"
-      - "36枚×6個のケース買い"
-      - "生まれたての小柄な赤ちゃんを想定したサイズ"
-    pros:
-      - "体重が小さめの時期に合わせやすい"
-      - "まとまった枚数で備えやすい"
-      - "パンパース系を継続したい家庭に向く"
-    cons:
-      - "使える期間が短くなりやすい"
-      - "体格が大きめだと早めのサイズ移行が必要"
-    recommendedFor: "出生体重が小さめの赤ちゃんに備えたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/myrepi-2/4987176238498-6r/"
-    imageUrl: ""
-  - rank: 4
+  - rank: 6
     name: "パンパース はじめての肌へのいちばん テープ新生児"
     brand: "P&G（パンパース）"
     price: 0
@@ -93,29 +137,7 @@ products:
     recommendedFor: "新生児期を大容量で備えたい方"
     rakutenUrl: "https://item.rakuten.co.jp/whiteleaf/costoco_pampers-small/"
     imageUrl: ""
-  - rank: 5
-    name: "パンパース テープ新生児 144枚"
-    brand: "P&G（パンパース）"
-    price: 0
-    capacity: "144枚（72枚×2袋・新生児用・〜5kg）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "新生児向けのテープタイプ"
-      - "72枚×2袋のまとめ買い構成"
-      - "コストコ通販系の大容量パック"
-    pros:
-      - "大容量で補充の頻度を抑えやすい"
-      - "定番ブランドで比較しやすい"
-      - "新生児期の備蓄向き"
-    cons:
-      - "同一ブランドの近い商品と重なりやすい"
-      - "置き場所を取りやすい"
-    recommendedFor: "新生児期をまとめて備えたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/good-mam88/ck00015/"
-    imageUrl: ""
-  - rank: 6
+  - rank: 7
     name: "パンパース はじめての肌へのいちばん / ウルトラジャンボ 新生児"
     brand: "P&G（パンパース）"
     price: 0
@@ -137,36 +159,14 @@ products:
     recommendedFor: "まずは1パックから試したい方"
     rakutenUrl: "https://item.rakuten.co.jp/irisplaza-r/7263227/"
     imageUrl: ""
-  - rank: 7
-    name: "バンボネイチャー ドリーム テープ/パンツ ニューボーン"
-    brand: "BAMBO Nature"
-    price: 0
-    capacity: "36枚（サイズ1・2〜4kg）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "オーガニック系のプレミアム紙おむつ"
-      - "テープ/パンツの案内がある海外ブランド"
-      - "デンマーク王室御用達をうたう商品"
-    pros:
-      - "素材感を重視して選びやすい"
-      - "ギフト用途にも使いやすい"
-      - "ナチュラル志向と相性がよい"
-    cons:
-      - "価格は高めになりやすい"
-      - "取扱店が限られやすい"
-    recommendedFor: "素材感やプレミアム感を重視したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/natural-living/u684137/"
-    imageUrl: ""
   - rank: 8
     name: "メリーズ ファーストプレミアム テープ 新生児/S/M"
     brand: "花王（メリーズ）"
-    price: 0
+    price: 6900
     capacity: "新生児用60枚×4袋・S54枚×4袋・M48枚×4袋"
     pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
+    rating: 4.72
+    reviewCount: 25
     features:
       - "カシミヤタッチをうたうプレミアムシリーズ"
       - "新生児・S・Mのテープサイズを選べる"
@@ -179,8 +179,8 @@ products:
       - "サイズ展開が多く選択に迷いやすい"
       - "プレミアム系で価格は上がりやすい"
     recommendedFor: "肌触りとシリーズ継続を重視したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/natural-living/u956695/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcnfn.3rdw6f9c.g00qcnfn.3rdw70c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu956695%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10036151%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/natural-living/cabinet/spr/6/8/688616251038_6.jpg?_ex=128x128"
 tags:
   - "新生児 おむつ"
   - "紙おむつ コスパ"
