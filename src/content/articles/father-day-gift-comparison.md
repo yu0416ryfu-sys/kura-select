@@ -1,17 +1,17 @@
 ---
-title: "父の日プレゼントランキング【2026年版】実用派ギフト10選"
-description: "父の日に贈りやすい実用ギフトを比較。名入れボールペン、靴下、グラス、ビールなど定番10選をコスパと特別感で選びます。"
+title: "父の日プレゼントランキング【2026年版】実用派ギフト8選"
+description: "父の日に贈りやすい実用ギフトを比較。名入れボールペン、靴下、グラス、ビールなど定番8選をコスパと特別感で選びます。"
 category: "gift"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-16
+updatedAt: 2026-05-17
 draft: true
 products:
   - rank: 1
-    name: "THE軽井沢ビール 父の日ギフト"
+    name: "THE軽井沢ビール 6種飲み比べ 350ml缶×6本"
     brand: "軽井沢ブルワリー"
-    price: 4980
-    capacity: "8本セット（330ml瓶×2本+350ml缶×6本）"
-    pricePerUnit: "約623円/本"
+    price: 2280
+    capacity: "350ml×6本"
+    pricePerUnit: "約380円/本"
     features:
       - "複数種類のビールを飲み比べしやすいギフトセット"
       - "父の日向けの特別感がある、季節感の強いプレゼント"
@@ -24,7 +24,10 @@ products:
       - "お酒を飲まない相手には向かない"
       - "受け取る時期や保存方法を少し気にしたい"
     recommendedFor: "晩酌が好きなお父さんに、季節感のあるギフトを贈りたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/brewery/2b6cgiftset/"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00slwon.3rdw6053.g00slwon.3rdw7b42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrewery%2Fn-ev-f%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbrewery%2Fi%2F10000411%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rating: 4.37
+    reviewCount: 19
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/brewery/cabinet/26fd_n-ev_1200.jpg?_ex=128x128"
   - rank: 2
     name: "名入れ木製ボールペン"
     brand: "名入れできる雑貨屋 リコルド"
@@ -89,64 +92,6 @@ products:
     reviewCount: 4
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/printdog/cabinet/biiino/item/main-image/20230424214450_1.jpg?_ex=128x128"
   - rank: 5
-    name: "GUNZE ハンカチ&ソックス2足セット"
-    brand: "グンゼオンラインショップ"
-    price: 2200
-    capacity: "1セット（ハンカチ1枚+ソックス2足）"
-    pricePerUnit: "約2200円/セット"
-    features:
-      - "ハンカチとソックスをまとめた、使いやすい実用品セット"
-      - "落ち着いたデザインで、年代を問わず贈りやすい"
-      - "ボックス感があり、ちょっとしたきちんと感を出しやすい"
-    pros:
-      - "ビジネスでも普段使いでも活躍しやすい"
-      - "予算を抑えつつ、見栄えのするギフトにしやすい"
-      - "消耗しやすい小物をまとめて補える"
-    cons:
-      - "ファッションの好みに合わないと使われにくい"
-      - "サイズや色の雰囲気は事前に確認したい"
-    recommendedFor: "気軽すぎず、日常で役立つ父の日ギフトを選びたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/gunze/pl0915/"
-  - rank: 6
-    name: "今治タオル ハンカチ付きタンブラーセット"
-    brand: "ヘルシーグッド 楽天市場店"
-    price: 3300
-    capacity: "1セット（タンブラー1個+ハンカチ1枚）"
-    pricePerUnit: "約3300円/セット"
-    features:
-      - "タンブラーと今治タオルハンカチを組み合わせたセット"
-      - "毎日使う飲み物まわりと身だしなみ小物を同時に贈れる"
-      - "シンプルで落ち着いた雰囲気のプレゼントにまとめやすい"
-    pros:
-      - "実用小物の組み合わせで、使う場面を想像しやすい"
-      - "晩酌派でも職場派でも合わせやすい"
-      - "軽すぎない価格帯で贈答感を出しやすい"
-    cons:
-      - "タンブラーの容量や素材感は好みが分かれやすい"
-      - "セット内容が多いぶん、好み外だと使い分けが難しい"
-    recommendedFor: "実用的で、少し見栄えのある父の日ギフトを選びたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/healthy-good/fff-situsiima/"
-  - rank: 7
-    name: "名前入りタンブラーとハンディビアサーバーセット"
-    brand: "名入れギフトJORIO"
-    price: 10120
-    capacity: "1セット（タンブラー1個+ビアサーバー1台）"
-    pricePerUnit: "約10120円/セット"
-    features:
-      - "名前入りタンブラーとビアサーバーを組み合わせた晩酌向けセット"
-      - "自宅でビール時間を楽しみやすいギフト構成"
-      - "記念日感のある名入れで、父の日らしい特別感を出しやすい"
-    pros:
-      - "実用性とサプライズ感の両方を狙いやすい"
-      - "ビール好きの相手に合わせやすい"
-      - "名入れで贈り物らしさを強められる"
-    cons:
-      - "お酒を飲まない相手には使いにくい"
-      - "セット内容が多いぶん、収納スペースはやや必要"
-    recommendedFor: "晩酌好きのお父さんへ、少し特別な父の日ギフトを贈りたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u22ln.3rdw679d.g00u22ln.3rdw757e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaire-jorio%2F10000806%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaire-jorio%2Fi%2F10001107%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naire-jorio/cabinet/11614016/compass1744359650.jpg?_ex=128x128"
-  - rank: 8
     name: "切子グラス 光明"
     brand: "AZUL 楽天市場店"
     price: 4378
@@ -166,7 +111,7 @@ products:
     recommendedFor: "晩酌や食卓を少し上質にしたいお父さんへ贈りたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tddfn.3rdw6713.g00tddfn.3rdw720b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fazul%2F10000049%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fazul%2Fi%2F10000051%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/azul/cabinet/06834766/07583404/imgrc0144009698.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 6
     name: "生涯を添い遂げるマグ"
     brand: "Wired Beans"
     price: 8580
@@ -188,12 +133,12 @@ products:
     rating: 4.67
     reviewCount: 3
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wiredbeans/cabinet/05633541/12071_90naire.jpg?_ex=128x128"
-  - rank: 10
-    name: "ラルフローレン メンズ靴下 6足セット"
+  - rank: 7
+    name: "ポロ ラルフローレン メンズ靴下 6足セット"
     brand: "Polo Ralph Lauren"
-    price: 5000
+    price: 2980
     capacity: "6足"
-    pricePerUnit: "約833円/足"
+    pricePerUnit: "約497円/足"
     features:
       - "まとめて贈りやすい6足セットのメンズソックス"
       - "ブラック基調でビジネスにも合わせやすい"
@@ -206,7 +151,30 @@ products:
       - "好みの丈や厚みは事前に確認したい"
       - "靴下だけだと少し軽く見える場合がある"
     recommendedFor: "実用性を重視しつつ、定番ブランドで外したくない方"
-    rakutenUrl: "https://item.rakuten.co.jp/auc-koten/ra-827149pk3/"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rdztn.3rdw6487.g00rdztn.3rdw7366/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcavatina%2Fralph-117%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcavatina%2Fi%2F10036342%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rating: 5
+    reviewCount: 1
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cavatina/cabinet/ralph-01/ralph-01/ralph-117.jpg?_ex=128x128"
+  - rank: 8
+    name: "名前入りタンブラーとハンディビアサーバーセット"
+    brand: "名入れギフトJORIO"
+    price: 10120
+    capacity: "1セット（タンブラー1個+ビアサーバー1台）"
+    pricePerUnit: "約10120円/セット"
+    features:
+      - "名前入りタンブラーとビアサーバーを組み合わせた晩酌向けセット"
+      - "自宅でビール時間を楽しみやすいギフト構成"
+      - "記念日感のある名入れで、父の日らしい特別感を出しやすい"
+    pros:
+      - "実用性とサプライズ感の両方を狙いやすい"
+      - "ビール好きの相手に合わせやすい"
+      - "名入れで贈り物らしさを強められる"
+    cons:
+      - "お酒を飲まない相手には使いにくい"
+      - "セット内容が多いぶん、収納スペースはやや必要"
+    recommendedFor: "晩酌好きのお父さんへ、少し特別な父の日ギフトを贈りたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u22ln.3rdw679d.g00u22ln.3rdw757e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaire-jorio%2F10000806%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaire-jorio%2Fi%2F10001107%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naire-jorio/cabinet/11614016/compass1744359650.jpg?_ex=128x128"
 tags:
   - "父の日 プレゼント"
   - "父の日 ギフト"
