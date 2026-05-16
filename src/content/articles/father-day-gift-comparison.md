@@ -4,7 +4,7 @@ description: "父の日に贈りやすい実用ギフトを比較。名入れボ
 category: "gift"
 publishedAt: "2026-05-16"
 updatedAt: 2026-05-17
-draft: true
+draft: false
 products:
   - rank: 1
     name: "THE軽井沢ビール 6種飲み比べ 350ml缶×6本"
