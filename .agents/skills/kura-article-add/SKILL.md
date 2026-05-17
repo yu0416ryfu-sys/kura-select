@@ -17,6 +17,7 @@ description: |
 ユーザーから以下を受け取る:
 - **対象ファイル**: `src/content/articles/{slug}-comparison.md` のパス
 - **追加商品URL**: ランク番号と `item.rakuten.co.jp` URLのペア（1件以上）
+- または **追加候補レポート/JSONL**: `reports/addition-urls-*.md`、`reports/addition-candidates-*.md`、またはそれを加工したJSONLの商品候補
 
 ---
 
@@ -64,6 +65,28 @@ description: |
 ```
 
 ユーザーが除外を選んだ商品は追加せず、残りの商品だけで `rank` を連番にする。
+
+### check-additions 由来候補でカテゴリ外を検知した場合
+
+入力元が `pnpm check-additions` の出力、`reports/addition-urls-*.md`、`reports/addition-candidates-*.md`、またはそれを加工したJSONLの場合、カテゴリ外商品は単に除外して終わらせない。
+
+以下を控える:
+
+- 対象記事ファイル
+- 期待カテゴリ（記事frontmatterの `category`）
+- カテゴリ外と判断した商品名
+- URL
+- カテゴリ外と判断した理由
+- レポート上の診断行（確認できる場合）
+
+そのうえで、記事への追加作業はカテゴリ適合商品のみに限定して進める。カテゴリ外候補が `check-additions` の候補生成精度に起因すると見える場合は、`kura-check-additions-debug` を使って `check-additions` の精度改善へ進む。
+
+以下の場合は `kura-check-additions-debug` を使わず、通常のカテゴリ適合チェックとして扱う:
+
+- ユーザーが手入力した楽天URL
+- ユーザーが明示的に「この商品を追加」と指定したURL
+- カテゴリ境界が曖昧で、記事側に入れるべきか判断が割れる商品
+- 入力元が `check-additions` 由来か判断できない候補
 
 ---
 
@@ -163,3 +186,10 @@ description: |
 3. pnpm build  （Zodスキーマ検証 + OGP生成）
 4. git add / commit / push
 ```
+
+カテゴリ外候補を除外した場合は、完了報告に以下も含める:
+
+- 追加しなかった商品
+- 除外理由
+- `check-additions` 由来なら、精度改善へ進んだかどうか
+- `kura-check-additions-debug` を使った場合は、その原因分類・修正内容・再生成後の候補状態
