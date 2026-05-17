@@ -5,7 +5,9 @@ import JsonLd from "../components/seo/JsonLd.astro";
 import ComparisonTable from "../components/product/ComparisonTable.astro";
 import ProductCard from "../components/product/ProductCard.astro";
 import TopPickCta from "../components/product/TopPickCta.astro";
-import RakutenLink from "../components/product/RakutenLink.astro";
+import AffiliateLink from "../components/product/AffiliateLink.astro";
+import { ENABLE_YAHOO_AFFILIATE } from "../lib/env";
+import { getPrimaryOffer, getVisibleOffers } from "../lib/offers";
 import { SITE, url } from "../lib/site";
 import type { CollectionEntry } from "astro:content";
 
@@ -47,7 +49,9 @@ const breadcrumbJsonLd = {
 
 const productJsonLds = data.products
   .filter((p) => p.rating !== undefined)
-  .map((p) => ({
+  .map((p) => ({ product: p, primaryOffer: getPrimaryOffer(p, { enableYahoo: ENABLE_YAHOO_AFFILIATE }) }))
+  .filter(({ primaryOffer }) => primaryOffer !== null)
+  .map(({ product: p, primaryOffer }) => ({
     "@context": "https://schema.org",
     "@type": "Product",
     name: p.name,
@@ -57,8 +61,8 @@ const productJsonLds = data.products
     offers: {
       "@type": "Offer",
       priceCurrency: "JPY",
-      price: p.price,
-      url: p.rakutenUrl,
+      price: primaryOffer?.price ?? p.price,
+      url: primaryOffer?.url,
       availability: "https://schema.org/InStock",
       shippingDetails: {
         "@type": "OfferShippingDetails",
@@ -155,6 +159,7 @@ const productJsonLds = data.products
         <!-- 記事本文後インライン CTA（1位商品） -->
         {data.products.length > 0 && (() => {
           const top = data.products.find((p) => p.rank === 1) ?? data.products[0];
+          const visibleOffers = getVisibleOffers(top, { enableYahoo: ENABLE_YAHOO_AFFILIATE });
           return (
             <div class="mt-8 p-4 md:p-5 bg-sky-50 border border-sky-200 rounded-xl flex flex-col sm:flex-row items-start sm:items-center gap-4">
               <div class="flex-1 min-w-0">
@@ -162,7 +167,18 @@ const productJsonLds = data.products
                 <p class="font-bold text-[var(--color-text)] text-sm leading-snug line-clamp-2">{top.name}</p>
                 <p class="text-sm text-[var(--color-text-sub)] mt-0.5">¥{top.price.toLocaleString()}{top.pricePerUnit ? `　${top.pricePerUnit}` : ""}</p>
               </div>
-              <RakutenLink href={top.rakutenUrl} productName={top.name} size="sm" />
+              <div class="flex flex-col sm:flex-row gap-2">
+                {visibleOffers.map((offer) => (
+                  <AffiliateLink
+                    href={offer.url}
+                    provider={offer.provider}
+                    label={offer.label}
+                    productName={top.name}
+                    size="sm"
+                    variant={offer.provider === "rakuten" ? "primary" : "outline"}
+                  />
+                ))}
+              </div>
             </div>
           );
         })()}
@@ -182,7 +198,7 @@ const productJsonLds = data.products
         <!-- アフィリエイト表記 -->
         <div class="mt-10 p-4 bg-amber-50 rounded-xl border border-amber-200 text-sm text-amber-800">
           <p class="font-semibold mb-1">広告・免責事項</p>
-          <p>当サイトのリンクには楽天アフィリエイトを含みます。商品購入により当サイトが報酬を得る場合があります。掲載価格は執筆時点のものです。最新価格は楽天市場でご確認ください。</p>
+          <p>当サイトのリンクには楽天・Yahoo!ショッピング等のアフィリエイトを含みます。商品購入により当サイトが報酬を得る場合があります。掲載価格は執筆時点のものです。最新価格は各ショップでご確認ください。</p>
         </div>
       </article>
 

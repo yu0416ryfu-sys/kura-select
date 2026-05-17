@@ -1,5 +1,6 @@
 ---
 import { SITE, url } from "../../lib/site";
+import { FORCE_NOINDEX } from "../../lib/env";
 
 interface Props {
   title: string;
@@ -22,6 +23,7 @@ const {
 const fullTitle = title.endsWith(SITE.nameJa) ? title : `${title} | ${SITE.nameJa}`;
 const canonicalUrl = canonical ?? new URL(Astro.url.pathname, SITE.url).toString();
 const ogImageUrl = ogImage.startsWith("http") ? ogImage : new URL(ogImage, SITE.url).toString();
+const shouldNoindex = FORCE_NOINDEX || noindex;
 ---
 
 <title>{fullTitle}</title>
@@ -29,7 +31,7 @@ const ogImageUrl = ogImage.startsWith("http") ? ogImage : new URL(ogImage, SITE.
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="description" content={description} />
 <link rel="canonical" href={canonicalUrl} />
-{noindex && <meta name="robots" content="noindex, nofollow" />}
+{shouldNoindex && <meta name="robots" content="noindex,nofollow" />}
 
 <!-- OGP -->
 <meta property="og:type" content={ogType} />

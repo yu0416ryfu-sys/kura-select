@@ -36,6 +36,8 @@ jobs:
         run: pnpm build
         env:
           PUBLIC_RAKUTEN_AFFILIATE_ID: ${{ secrets.PUBLIC_RAKUTEN_AFFILIATE_ID }}
+          PUBLIC_ENABLE_YAHOO_AFFILIATE: "false"
+          PUBLIC_NOINDEX: "false"
 
       - uses: actions/upload-pages-artifact@v3
         with:

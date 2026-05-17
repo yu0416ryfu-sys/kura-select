@@ -1,5 +1,7 @@
 ---
-import RakutenLink from "./RakutenLink.astro";
+import AffiliateLink from "./AffiliateLink.astro";
+import { ENABLE_YAHOO_AFFILIATE } from "../../lib/env";
+import { getVisibleOffers, type ProductOffer } from "../../lib/offers";
 
 interface Product {
   rank: number;
@@ -16,6 +18,7 @@ interface Product {
   recommendedFor: string;
   rakutenUrl: string;
   imageUrl?: string;
+  offers?: ProductOffer[];
 }
 
 interface Props {
@@ -24,6 +27,7 @@ interface Props {
 }
 
 const { product, id } = Astro.props;
+const visibleOffers = getVisibleOffers(product, { enableYahoo: ENABLE_YAHOO_AFFILIATE });
 
 const rankColors: Record<number, string> = {
   1: "bg-amber-400 text-white",
@@ -142,13 +146,18 @@ const rankColor = rankColors[product.rank] ?? "bg-[var(--color-surface)] text-[v
       <span class="text-xs text-[var(--color-text)]">{product.recommendedFor}</span>
     </div>
 
-    <!-- 楽天ボタン -->
-    <div class="pt-1">
-      <RakutenLink
-        href={product.rakutenUrl}
-        productName={product.name}
-        size="md"
-      />
+    <!-- 購入ボタン -->
+    <div class="pt-1 flex flex-col sm:flex-row gap-2">
+      {visibleOffers.map((offer) => (
+        <AffiliateLink
+          href={offer.url}
+          provider={offer.provider}
+          label={offer.label}
+          productName={product.name}
+          size="md"
+          variant={offer.provider === "rakuten" ? "primary" : "outline"}
+        />
+      ))}
     </div>
   </div>
 </article>

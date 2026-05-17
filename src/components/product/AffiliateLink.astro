@@ -1,0 +1,65 @@
+---
+import type { OfferProvider } from "../../lib/offers";
+
+interface Props {
+  href: string;
+  provider: OfferProvider;
+  label?: string;
+  variant?: "primary" | "outline";
+  size?: "sm" | "md" | "lg";
+  productName?: string;
+}
+
+const {
+  href,
+  provider,
+  label,
+  variant = "primary",
+  size = "md",
+  productName,
+} = Astro.props;
+
+const defaultLabel = provider === "rakuten" ? "楽天市場で見る" : "Yahoo!ショッピングで見る";
+const displayLabel = label ?? defaultLabel;
+const providerName = provider === "rakuten" ? "楽天市場" : "Yahoo!ショッピング";
+const ariaLabel = productName
+  ? `${productName}を${providerName}で見る（別タブで開く）`
+  : `${displayLabel}（別タブで開く）`;
+
+const sizeClasses = {
+  sm: "px-4 py-2 text-sm min-h-[36px]",
+  md: "px-6 py-2.5 text-sm min-h-[44px]",
+  lg: "px-8 py-3 text-base min-h-[52px]",
+};
+
+const primaryClasses =
+  provider === "rakuten"
+    ? "bg-[var(--color-warning)] text-white hover:opacity-90 shadow-sm hover:shadow-md"
+    : "bg-[var(--color-primary)] text-white hover:opacity-90 shadow-sm hover:shadow-md";
+const outlineClasses =
+  provider === "rakuten"
+    ? "border-2 border-[var(--color-warning)] text-[var(--color-warning)] hover:bg-amber-50"
+    : "border-2 border-[var(--color-primary)] text-[var(--color-primary)] hover:bg-sky-50";
+
+const variantClass = variant === "primary" ? primaryClasses : outlineClasses;
+const gaEvent = provider === "rakuten" ? "click_rakuten_link" : "click_yahoo_link";
+---
+
+<a
+  href={href}
+  rel="sponsored nofollow noopener"
+  target="_blank"
+  aria-label={ariaLabel}
+  class={`inline-flex items-center justify-center gap-2 rounded-lg font-semibold transition-all focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2 ${sizeClasses[size]} ${variantClass}`}
+  data-ga-event={gaEvent}
+  data-ga-provider={provider}
+  data-ga-product={productName}
+>
+  <svg class="w-4 h-4 shrink-0" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/>
+  </svg>
+  {displayLabel}
+  <svg class="w-3.5 h-3.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+  </svg>
+</a>

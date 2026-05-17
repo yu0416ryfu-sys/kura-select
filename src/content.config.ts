@@ -2,6 +2,16 @@ import { defineCollection, reference } from "astro:content";
 import { glob } from "astro/loaders";
 import { z } from "astro/zod";
 
+const offerSchema = z.object({
+  provider: z.enum(["rakuten", "yahoo"]),
+  label: z.string().optional(),
+  price: z.number().int().nonnegative().optional(),
+  url: z.string().url(),
+  imageUrl: z.string().url().optional(),
+  available: z.boolean().optional(),
+  updatedAt: z.coerce.date().optional(),
+});
+
 const articles = defineCollection({
   loader: glob({ pattern: "**/*.{md,mdx}", base: "./src/content/articles" }),
   schema: ({ image }) =>
@@ -28,6 +38,7 @@ const articles = defineCollection({
           recommendedFor: z.string(),
           rakutenUrl: z.string().url(),
           imageUrl: z.string().optional(),
+          offers: z.array(offerSchema).optional(),
         })
       ),
       tags: z.array(z.string()).optional(),

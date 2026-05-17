@@ -11,6 +11,11 @@ interface Product {
   reviewCount?: number;
   rakutenUrl: string;
   imageUrl?: string;
+  visibleOffers?: {
+    provider: "rakuten" | "yahoo";
+    label?: string;
+    url: string;
+  }[];
 }
 
 type SortKey = "rank" | "price" | "pricePerUnit" | "rating";
@@ -127,7 +132,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
               >
                 評価{sortKey === "rating" && <span class="ml-1">{sortDir === "asc" ? "↑" : "↓"}</span>}
               </th>
-              <th class="px-4 py-3 text-center font-semibold text-[var(--color-text-sub)]">楽天</th>
+              <th class="px-4 py-3 text-center font-semibold text-[var(--color-text-sub)]">購入</th>
             </tr>
           </thead>
           <tbody>
@@ -180,15 +185,25 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                   )}
                 </td>
                 <td class="px-4 py-3 text-center">
-                  <a
-                    href={p.rakutenUrl}
-                    rel="sponsored nofollow noopener"
-                    target="_blank"
-                    aria-label={`${p.name}を楽天市場で見る（別タブで開く）`}
-                    class="inline-flex items-center gap-1 bg-[var(--color-warning)] text-white text-xs px-3 py-1.5 rounded-lg font-medium hover:opacity-90 transition-opacity min-h-[36px]"
-                  >
-                    楽天で見る
-                  </a>
+                  <div class="flex flex-col items-center gap-1.5">
+                    {(p.visibleOffers ?? []).map((offer) => (
+                      <a
+                        key={`${p.name}-${offer.provider}`}
+                        href={offer.url}
+                        rel="sponsored nofollow noopener"
+                        target="_blank"
+                        aria-label={`${p.name}を${offer.provider === "rakuten" ? "楽天市場" : "Yahoo!ショッピング"}で見る（別タブで開く）`}
+                        class={`inline-flex items-center gap-1 text-white text-xs px-3 py-1.5 rounded-lg font-medium hover:opacity-90 transition-opacity min-h-[36px] ${
+                          offer.provider === "rakuten" ? "bg-[var(--color-warning)]" : "bg-[var(--color-primary)]"
+                        }`}
+                        data-ga-event={offer.provider === "rakuten" ? "click_rakuten_link" : "click_yahoo_link"}
+                        data-ga-provider={offer.provider}
+                        data-ga-product={p.name}
+                      >
+                        {offer.label ?? (offer.provider === "rakuten" ? "楽天" : "Yahoo!")}
+                      </a>
+                    ))}
+                  </div>
                 </td>
               </tr>
             ))}
@@ -237,15 +252,25 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                 </span>
               )}
             </div>
-            <a
-              href={p.rakutenUrl}
-              rel="sponsored nofollow noopener"
-              target="_blank"
-              aria-label={`${p.name}を楽天市場で見る（別タブで開く）`}
-              class="w-full inline-flex items-center justify-center gap-2 bg-[var(--color-warning)] text-white text-sm px-4 py-2 rounded-lg font-medium hover:opacity-90 transition-opacity min-h-[44px]"
-            >
-              楽天市場で見る
-            </a>
+            <div class="flex flex-col gap-2">
+              {(p.visibleOffers ?? []).map((offer) => (
+                <a
+                  key={`${p.name}-${offer.provider}`}
+                  href={offer.url}
+                  rel="sponsored nofollow noopener"
+                  target="_blank"
+                  aria-label={`${p.name}を${offer.provider === "rakuten" ? "楽天市場" : "Yahoo!ショッピング"}で見る（別タブで開く）`}
+                  class={`w-full inline-flex items-center justify-center gap-2 text-white text-sm px-4 py-2 rounded-lg font-medium hover:opacity-90 transition-opacity min-h-[44px] ${
+                    offer.provider === "rakuten" ? "bg-[var(--color-warning)]" : "bg-[var(--color-primary)]"
+                  }`}
+                  data-ga-event={offer.provider === "rakuten" ? "click_rakuten_link" : "click_yahoo_link"}
+                  data-ga-provider={offer.provider}
+                  data-ga-product={p.name}
+                >
+                  {offer.label ?? (offer.provider === "rakuten" ? "楽天市場で見る" : "Yahoo!ショッピングで見る")}
+                </a>
+              ))}
+            </div>
           </div>
         ))}
       </div>

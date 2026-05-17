@@ -1,0 +1,71 @@
+name: Yahoo商品データ検証更新（staging）
+
+on:
+  workflow_dispatch:
+    inputs:
+      write:
+        description: "Write changes to staging"
+        required: true
+        default: "false"
+      article:
+        description: "Optional article slug"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  update-yahoo:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/staging'
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: staging
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: 依存関係インストール
+        run: pnpm install
+
+      - name: Yahoo商品データ dry-run
+        if: inputs.write != 'true'
+        run: pnpm update-yahoo-products -- --dry-run ${{ inputs.article && format('--article={0}', inputs.article) || '' }}
+        env:
+          YAHOO_SHOPPING_APP_ID: ${{ secrets.YAHOO_SHOPPING_APP_ID }}
+          VALUECOMMERCE_SID: ${{ secrets.VALUECOMMERCE_SID }}
+          VALUECOMMERCE_PID: ${{ secrets.VALUECOMMERCE_PID }}
+
+      - name: Yahoo商品データ write
+        if: inputs.write == 'true'
+        run: pnpm update-yahoo-products -- --write ${{ inputs.article && format('--article={0}', inputs.article) || '' }}
+        env:
+          YAHOO_SHOPPING_APP_ID: ${{ secrets.YAHOO_SHOPPING_APP_ID }}
+          VALUECOMMERCE_SID: ${{ secrets.VALUECOMMERCE_SID }}
+          VALUECOMMERCE_PID: ${{ secrets.VALUECOMMERCE_PID }}
+
+      - name: 変更を確認
+        id: check-changes
+        if: inputs.write == 'true'
+        run: |
+          if [ -n "$(git status --porcelain src/content/articles/ reports/)" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 変更をコミット＆プッシュ
+        if: inputs.write == 'true' && steps.check-changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/content/articles/ reports/
+          git commit -m "Yahoo商品データをstaging更新（$(date '+%Y-%m-%d')）"
+          git pull --rebase origin staging
+          git push origin staging
