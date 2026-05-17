@@ -3,7 +3,7 @@ title: "Sサイズ紙おむつ テープ型コスパ比較【2026年版】"
 description: "Sサイズのテープ型紙おむつを1枚あたりの価格で比較。メリーズ・ムーニー・パンパースをコスパと肌触りで選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-16
+updatedAt: 2026-05-17
 products:
   - rank: 1
     name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚"

@@ -3,7 +3,7 @@ title: "シャンプー比較【2026年版】コスパと仕上がりで選ぶ10
 description: "シャンプーを1mLあたりの価格と仕上がりで比較。家族用・ダメージケア・スカルプ系まで、選び方の基準を整理します。"
 category: "shampoo"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-16
+updatedAt: 2026-05-17
 products:
   - rank: 1
     name: "パンテーン シャンプー 詰め替え エクストラダメージケア"

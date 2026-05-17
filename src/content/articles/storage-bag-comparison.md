@@ -3,7 +3,7 @@ title: "保存袋・フリーザーバッグ コスパ最強ランキング【20
 description: "保存袋・フリーザーバッグを1枚あたりのコストで徹底比較。ジップロック・アイラップ・業務用など人気10選を密封性・耐久性で解説します。"
 category: "wrap-foil"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-16
+updatedAt: 2026-05-17
 products:
   - rank: 1
     name: "システムポリマー XP-11 スライダー付ジッパー保存袋"
