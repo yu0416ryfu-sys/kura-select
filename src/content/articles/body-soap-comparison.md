@@ -1,33 +1,11 @@
 ---
 title: "ボディソープ コスパ最強ランキング【2026年版】保湿・敏感肌で比較"
-description: "ボディソープを1mLあたりのコストで徹底比較。ビオレu・ダヴ・ハダカラ・ミノンなど人気10選を保湿力・洗浄力・コスパで解説します。"
+description: "ボディソープを1mLあたりのコストで徹底比較。ビオレu・ダヴ・ハダカラ・ミノンなど人気9選を保湿力・洗浄力・コスパで解説します。"
 category: "body-soap"
 publishedAt: "2026-04-30"
 updatedAt: 2026-05-17
 products:
   - rank: 1
-    name: "Dove ボディウォッシュ 詰め替え 640g×9セット"
-    brand: "ユニリーバ（ダヴ）"
-    price: 4671
-    capacity: "640g×9セット"
-    pricePerUnit: "約0.81円/g"
-    rating: 4.76
-    reviewCount: 280
-    features:
-      - "ボディソープとして使える洗浄料"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "毎日の入浴ケアに取り入れやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "香りや洗い上がりの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "毎日の入浴ケアに取り入れやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405206%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11233159%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/206/405206.jpg?_ex=128x128"
-  - rank: 2
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
     brand: "ユニリーバ（ダヴ）"
     price: 2598
@@ -49,6 +27,28 @@ products:
     recommendedFor: "しっとりした洗い上がりが好きな方・乾燥肌で保湿重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4902111764443%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10032736%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/09857135/4902111776576r.jpg?_ex=128x128"
+  - rank: 2
+    name: "Dove ボディウォッシュ 詰め替え 330g×18袋"
+    brand: "ユニリーバ（ダヴ）"
+    price: 5280
+    capacity: "330g×18袋（5,940g）"
+    pricePerUnit: "約0.89円/g"
+    rating: 4.59
+    reviewCount: 152
+    features:
+      - "ボディソープとして使える洗浄料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "毎日の入浴ケアに取り入れやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りや洗い上がりの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "毎日の入浴ケアに取り入れやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404792%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11110065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/792/404792.jpg?_ex=128x128"
   - rank: 3
     name: "アレッポの石鹸 ノーマル 200g×4個"
     brand: "アレッポの石鹸"
@@ -203,28 +203,6 @@ products:
     recommendedFor: "毎日の入浴ケアに取り入れやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtvin.3rdw6f25.g00qtvin.3rdw74fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoapmax%2F20004905%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoapmax%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/soapmax/cabinet/20004905_2603.jpg?_ex=128x128"
-  - rank: 10
-    name: "NATURECO デリケートゾーンソープケア 200mL"
-    brand: "NATURECO"
-    price: 1600
-    capacity: "200mL"
-    pricePerUnit: "約8.0円/mL"
-    rating: 4.46
-    reviewCount: 872
-    features:
-      - "ボディソープとして使える洗浄料"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "毎日の入浴ケアに取り入れやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "香りや洗い上がりの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "毎日の入浴ケアに取り入れやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2mpn.3rdw6905.g00s2mpn.3rdw76e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvirginbeautyshop%2Fnr-dw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvirginbeautyshop%2Fi%2F10005507%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/virginbeautyshop/cabinet/04226192/natureco/nr-dw_thum_b.jpg?_ex=128x128"
 tags:
   - "ボディソープ"
   - "コスパ"

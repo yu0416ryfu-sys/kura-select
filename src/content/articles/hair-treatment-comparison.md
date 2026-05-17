@@ -166,7 +166,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約66円/mL"
     rating: 4.77
-    reviewCount: 1129
+    reviewCount: 1130
     features:
       - "エイジングケア特化のクロノロジストライン集中マスク"
       - "ダメージ補修とエイジングケアを同時にアプローチする処方"

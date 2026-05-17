@@ -12,7 +12,7 @@ products:
     capacity: "5kg×2袋"
     pricePerUnit: "約568円/kg"
     rating: 4.27
-    reviewCount: 13605
+    reviewCount: 13606
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -162,7 +162,7 @@ products:
   - rank: 8
     name: "令和7年産 無洗米 茨城県産コシヒカリ 10kg"
     brand: "ミツハシライス"
-    price: 10607
+    price: 10220
     capacity: "10kg"
     features:
       - "洗米不要で炊飯前の手間を減らしやすい"
@@ -180,7 +180,7 @@ products:
     rating: 4
     reviewCount: 19
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/521/88521.jpg?_ex=128x128"
-    pricePerUnit: "約1061円/kg"
+    pricePerUnit: "約1022円/kg"
   - rank: 9
     name: "くりやの無洗米 香川県産コシヒカリ 10kg"
     brand: "お米のくりや"

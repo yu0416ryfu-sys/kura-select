@@ -138,28 +138,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcnfn.3rdw6f9c.g00qcnfn.3rdw70c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu684137%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10037852%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/natural-living/cabinet/spr/1/1/118753296834.jpg?_ex=128x128"
   - rank: 7
-    name: "パンパース はじめての肌へのいちばん / ウルトラジャンボ 新生児"
-    brand: "P&G（パンパース）"
-    price: 0
-    capacity: "72枚（新生児用・〜5kg）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "ウルトラジャンボの単品パック"
-      - "新生児向けテープタイプ"
-      - "デザイン違いのパッケージ展開"
-    pros:
-      - "まずは試しやすい"
-      - "必要な分だけ買い足しやすい"
-      - "大容量セットより置き場所を取りにくい"
-    cons:
-      - "まとめ買い単価は大容量セットに劣りやすい"
-      - "消費が早い時期は買い足し回数が増える"
-    recommendedFor: "まずは1パックから試したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/irisplaza-r/7263227/"
-    imageUrl: ""
-  - rank: 8
     name: "メリーズ ファーストプレミアム テープ 新生児/S/M"
     brand: "花王（メリーズ）"
     price: 6900

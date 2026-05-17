@@ -1,99 +1,11 @@
 ---
-title: "コンディショナー コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気6選をダメージケア・コスパで解説します。"
+title: "コンディショナー コスパ最強ランキング【2026年版】1mLあたり最安で比較 10選"
+description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気10選をダメージケア・コスパで解説します。"
 category: "conditioner"
 publishedAt: "2026-05-01"
 updatedAt: 2026-05-17
 products:
   - rank: 1
-    name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
-    brand: "クラシエ（いち髪）"
-    price: 1000
-    capacity: "660mL×2個（約6ヶ月分）"
-    pricePerUnit: "約0.76円/mL"
-    rating: 4.75
-    reviewCount: 8
-    features:
-      - "純・和草プレミアムエキス配合で髪のダメージを補修"
-      - "ノンシリコン処方でふんわり軽い仕上がり"
-      - "みずみずしい山桜の香りがシャンプーと統一感"
-    pros:
-      - "1mLあたり約0.76円と圧倒的コスパ"
-      - "同シリーズのシャンプーとセットで相乗効果"
-      - "ドラッグストアで手に入りやすい"
-    cons:
-      - "ダメージが強い髪にはやや物足りない"
-      - "しっとり感は控えめ"
-    recommendedFor: "コスパ重視の方・普通〜軽いダメージ髪の方・いち髪シャンプーと揃えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhm1n.3rdw621b.g00uhm1n.3rdw7ede/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep0104%2Fichikami-smth%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep0104%2Fi%2F10000229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep0104/cabinet/10645709/11494580/imgrc0187994441.jpg?_ex=128x128"
-  - rank: 2
-    name: "メリット コンディショナー つめかえ用【メリット】"
-    brand: "花王（メリット）"
-    price: 6600
-    capacity: "1800mL×4セット"
-    pricePerUnit: "約0.92円/mL"
-    rating: 4
-    reviewCount: 3
-    features:
-      - "地肌すっきり成分でフケ・かゆみを防ぐ"
-      - "ダストシールド技術でホコリや花粉をブロック"
-      - "家族全員で使えるやさしい処方"
-    pros:
-      - "1mLあたり約0.87円で最安クラス"
-      - "大容量1200mLで詰め替え頻度が少ない"
-      - "家族みんなで使えるシンプル処方"
-    cons:
-      - "ダメージケア効果は弱い"
-      - "仕上がりが軽めで物足りない場合がある"
-    recommendedFor: "家族で使いたい方・地肌ケア重視の方・シンプルなケアを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F601325%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11330382%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/325/601325.jpg?_ex=128x128"
-  - rank: 3
-    name: "デミ ミレアム ヘアケア コンディショナー 1800mL 詰替"
-    brand: "デミ"
-    price: 1839
-    capacity: "1800mL"
-    pricePerUnit: "約1.0円/mL"
-    rating: 4.54
-    reviewCount: 1328
-    features:
-      - "L.P.P.（髪のアミノ酸複合体）配合で毛髪を補修"
-      - "ドライヤーの熱や紫外線から髪を保護する処方"
-      - "大容量1800mLの詰め替え用リフィルタイプ"
-    pros:
-      - "業務用サイズで詰め替え頻度を大幅に減らせる"
-      - "プロフェッショナル向け処方で指通りなめらかな仕上がり"
-      - "毛髪補修成分配合で繰り返しのケアに向く"
-    cons:
-      - "サロン専用品のため一般流通が限られる"
-      - "大容量のため保管スペースが必要"
-    recommendedFor: "大容量でコストを抑えたい方・サロン品質のコンディショナーを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qklvn.3rdw6cc2.g00qklvn.3rdw7141/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymura7200%2Fmilleum-co1800%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymura7200%2Fi%2F10000987%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymura7200/cabinet/deimi/demi-mlm4.jpg?_ex=128x128"
-  - rank: 4
-    name: "トリートメント フォンダン オレオ リラックス 200mL"
-    brand: "ケラスターゼ"
-    price: 4400
-    capacity: "200mL"
-    pricePerUnit: "約22円/mL"
-    rating: 4.73
-    reviewCount: 1167
-    features:
-      - "シアバター配合で髪をしなやかに整える"
-      - "ナバナ由来成分など天然由来原料を配合"
-      - "広がり・うねり・ごわつきのある髪向け処方"
-    pros:
-      - "高級サロンブランドによる信頼性の高いケア"
-      - "オレンジ系の上品な香りで毎日のケアが心地よい"
-      - "少量で伸びがよく使いやすい"
-    cons:
-      - "内容量が少なく頻繁な購入が必要"
-      - "価格帯が高めでコスパ重視の方には向かない"
-    recommendedFor: "広がりやうねりが気になる方・サロン品質を自宅で体験したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fdp-fondor_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000134%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/dp-fondor_200/dp-fondor_200_01.jpg?_ex=128x128"
-  - rank: 5
     name: "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア"
     brand: "ユニリーバ（LUX）"
     price: 299
@@ -115,28 +27,204 @@ products:
     recommendedFor: "ツヤ髪を目指す方・香りを楽しみたい方・パサつきが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902111773964-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2023a/4902111773964.jpg?_ex=128x128"
-  - rank: 6
-    name: "パンテーン エクストラダメージケア トリートメントコンディショナー 詰め替え 超特大 950g"
-    brand: "P&G（パンテーン）"
-    price: 421
-    capacity: "-"
-    pricePerUnit: "-"
-    rating: 5
-    reviewCount: 1
+  - rank: 2
+    name: "ホーユー レセ ソーダベースメイク ヘアコンディショナー 350g"
+    brand: "ホーユー（レセ）"
+    price: 2145
+    capacity: "350g"
+    pricePerUnit: "約6.1円/g"
+    rating: 4.51
+    reviewCount: 314
     features:
-      - "プロビタミン処方で毛先までダメージ補修"
-      - "濃厚トリートメント級のうるおい"
-      - "枝毛・切れ毛を防いでなめらかな髪へ"
+      - "炭酸クレンジング処方で毛穴の汚れを浮かせる"
+      - "ダメージした髪に輝きと滑らかさを戻す"
+      - "サロン専売品の高品質な処方"
     pros:
-      - "ダメージケア効果が高い"
-      - "トリートメント不要なほどしっとり"
-      - "世界的ブランドの安定した品質"
+      - "週1回の特別トリートメントで髪がリセット"
+      - "色落ちしやすいカラー髪の色持ちが良くなる"
+      - "プロの美容師に信頼されている"
     cons:
-      - "コスパは中程度"
-      - "しっとりしすぎると感じる方もいる"
-    recommendedFor: "ダメージヘアの方・まとまりを求める方・カラーやパーマをしている方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F2873444011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10570891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000212/2873444011.jpg?_ex=128x128"
+      - "毎日使うコンディショナーではなく週1程度の使用"
+      - "350gと小容量のため頻繁な購入が必要"
+    recommendedFor: "カラーやパーマで傷んだ髪の方・毎週のヘアケアを強化したい方・サロン品質のケアを自宅で行いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptlfn.3rdw66e3.g00ptlfn.3rdw7472/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakano-d%2Flesse-soda350%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakano-d%2Fi%2F10015726%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakano-d/cabinet/brand/hoyu/pic/lesse-soda350_1.jpg?_ex=128x128"
+  - rank: 3
+    name: "パルガ ヘアコンディショナー アクアリッチ 500g 詰替"
+    brand: "パルガ"
+    price: 4950
+    capacity: "500g"
+    pricePerUnit: "約9.9円/g"
+    rating: 4.62
+    reviewCount: 101
+    features:
+      - "アミノ酸たっぷりのトリートメント処方"
+      - "ノンシリコン処方で髪に優しい"
+      - "詰替用で環境配慮"
+    pros:
+      - "サロン専売品の高い補修力"
+      - "細い髪もしなやかにまとまる"
+      - "詰替用で継続的にコスト削減"
+    cons:
+      - "サロン専用品のため一般流通が限られる"
+      - "500g容量で頻繁な購入が必要"
+    recommendedFor: "細い髪の方・サロン品質のコンディショナーを求める方・継続的なダメージケアを行いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000013%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989115/parga_2026_ar500.jpg?_ex=128x128"
+  - rank: 4
+    name: "パルガ ヘアコンディショナー ソフトリッチR 500g 詰替"
+    brand: "パルガ"
+    price: 4950
+    capacity: "500g"
+    pricePerUnit: "約9.9円/g"
+    rating: 4.55
+    reviewCount: 65
+    features:
+      - "硬い髪向けにカスタマイズされた処方"
+      - "アミノ酸補修成分配合"
+      - "詰替用で環境配慮"
+    pros:
+      - "硬くなりやすい髪を柔らかくまとめる"
+      - "サロン専売品の信頼性"
+      - "詰替用で継続的にコスト削減"
+    cons:
+      - "硬い髪向けのため柔らかい髪には重いかもしれない"
+      - "一般流通が限られる"
+    recommendedFor: "硬い髪の方・ふんわり感よりまとまりを求める方・継続的なケアを行いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989115/parga_2026_sr500.jpg?_ex=128x128"
+  - rank: 5
+    name: "THANN トリートメントコンディショナー OE 200g"
+    brand: "THANN"
+    price: 2640
+    capacity: "200g"
+    pricePerUnit: "約13円/g"
+    rating: 4.56
+    reviewCount: 34
+    features:
+      - "レモングラス米ぬか油精油配合"
+      - "200gの濃厚タイプで少量で伸びが良い"
+      - "オリエンタルエッセンス香で香りが特徴的"
+    pros:
+      - "天然成分配合でダメージ髪に優しい"
+      - "少量で伸びがよく長持ちする"
+      - "ギフトとしても利用できる上品な香り"
+    cons:
+      - "内容量が少なく頻繁な購入が必要"
+      - "個性的な香りで好みが分かれる"
+    recommendedFor: "天然由来成分を重視する方・香りを楽しみたい方・少量で長く使える商品を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tld4n.3rdw6a04.g00tld4n.3rdw7115/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthann-natural%2F10000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthann-natural%2Fi%2F10000017%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thann-natural/cabinet/compass1580371769.jpg?_ex=128x128"
+  - rank: 6
+    name: "パルガ ヘアコンディショナー アクアリッチ 210g"
+    brand: "パルガ"
+    price: 2750
+    capacity: "210g"
+    pricePerUnit: "約13円/g"
+    rating: 4.64
+    reviewCount: 78
+    features:
+      - "アミノ酸補修成分配合"
+      - "細い髪向けに処方"
+      - "ハリコシを出す成分配合"
+    pros:
+      - "トラベルサイズで持ち運びやすい"
+      - "小容量から試しやすい"
+      - "細い髪がふんわりまとまる"
+    cons:
+      - "210gと小容量のため頻繁な購入が必要"
+      - "詰替用ではなく通常ボトル"
+    recommendedFor: "携帯用を探している方・細い髪の方・まずは試してみたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-09%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000010%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989115/parga_2026_ar210.jpg?_ex=128x128"
+  - rank: 7
+    name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
+    brand: "クラシエ（いち髪）"
+    price: 1000
+    capacity: "660mL×2個（約6ヶ月分）"
+    pricePerUnit: "約0.76円/mL"
+    rating: 4.75
+    reviewCount: 8
+    features:
+      - "純・和草プレミアムエキス配合で髪のダメージを補修"
+      - "ノンシリコン処方でふんわり軽い仕上がり"
+      - "みずみずしい山桜の香りがシャンプーと統一感"
+    pros:
+      - "1mLあたり約0.76円と圧倒的コスパ"
+      - "同シリーズのシャンプーとセットで相乗効果"
+      - "ドラッグストアで手に入りやすい"
+    cons:
+      - "ダメージが強い髪にはやや物足りない"
+      - "しっとり感は控えめ"
+    recommendedFor: "コスパ重視の方・普通〜軽いダメージ髪の方・いち髪シャンプーと揃えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhm1n.3rdw621b.g00uhm1n.3rdw7ede/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep0104%2Fichikami-smth%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep0104%2Fi%2F10000229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep0104/cabinet/10645709/11494580/imgrc0187994441.jpg?_ex=128x128"
+  - rank: 8
+    name: "メリット コンディショナー つめかえ用【メリット】"
+    brand: "花王（メリット）"
+    price: 6600
+    capacity: "1800mL×4セット"
+    pricePerUnit: "約0.92円/mL"
+    rating: 4
+    reviewCount: 3
+    features:
+      - "地肌すっきり成分でフケ・かゆみを防ぐ"
+      - "ダストシールド技術でホコリや花粉をブロック"
+      - "家族全員で使えるやさしい処方"
+    pros:
+      - "1mLあたり約0.87円で最安クラス"
+      - "大容量1200mLで詰め替え頻度が少ない"
+      - "家族みんなで使えるシンプル処方"
+    cons:
+      - "ダメージケア効果は弱い"
+      - "仕上がりが軽めで物足りない場合がある"
+    recommendedFor: "家族で使いたい方・地肌ケア重視の方・シンプルなケアを求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F601325%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11330382%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/325/601325.jpg?_ex=128x128"
+  - rank: 9
+    name: "デミ ミレアム ヘアケア コンディショナー 1800mL 詰替"
+    brand: "デミ"
+    price: 1839
+    capacity: "1800mL"
+    pricePerUnit: "約1.0円/mL"
+    rating: 4.54
+    reviewCount: 1328
+    features:
+      - "L.P.P.（髪のアミノ酸複合体）配合で毛髪を補修"
+      - "ドライヤーの熱や紫外線から髪を保護する処方"
+      - "大容量1800mLの詰め替え用リフィルタイプ"
+    pros:
+      - "業務用サイズで詰め替え頻度を大幅に減らせる"
+      - "プロフェッショナル向け処方で指通りなめらかな仕上がり"
+      - "毛髪補修成分配合で繰り返しのケアに向く"
+    cons:
+      - "サロン専用品のため一般流通が限られる"
+      - "大容量のため保管スペースが必要"
+    recommendedFor: "大容量でコストを抑えたい方・サロン品質のコンディショナーを求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qklvn.3rdw6cc2.g00qklvn.3rdw7141/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymura7200%2Fmilleum-co1800%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymura7200%2Fi%2F10000987%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymura7200/cabinet/deimi/demi-mlm4.jpg?_ex=128x128"
+  - rank: 10
+    name: "アンナトゥモール モイストヘアコンディショナー 300ml 詰替"
+    brand: "アンナトゥモール"
+    price: 2860
+    capacity: "300ml"
+    pricePerUnit: "約9.5円/ml"
+    rating: 4.6
+    reviewCount: 126
+    features:
+      - "ハチミツローヤルゼリーコラーゲン配合"
+      - "ノンシリコン処方で頭皮に優しい"
+      - "詰替用でリサイクル対応"
+    pros:
+      - "ノンシリコンでも潤いのある仕上がり"
+      - "詰替用で継続的にコスト削減"
+      - "パラベンフリーで肌負担が少ない"
+    cons:
+      - "300mlと中容量のため比較的頻繁な購入が必要"
+      - "ノンシリコンのため慣れるまできしみを感じることがある"
+    recommendedFor: "頭皮の健康を重視する方・ノンシリコンで潤いのあるコンディショナーを探している方・パラベンフリーにこだわる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Fa0090013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10001865%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/02716961/02830334/imgrc0114048910.jpg?_ex=128x128"
 tags:
   - "コンディショナー"
   - "コスパ"

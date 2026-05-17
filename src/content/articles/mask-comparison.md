@@ -6,13 +6,13 @@ publishedAt: "2026-05-03"
 updatedAt: 2026-05-17
 products:
   - rank: 1
-    name: "立体不織布マスク 50枚 バイカラー"
+    name: "立体不織布マスク バイカラー 50枚"
     brand: "ashop"
     price: 264
     capacity: "50枚"
     pricePerUnit: "約5.3円/枚"
     rating: 4.19
-    reviewCount: 22030
+    reviewCount: 22032
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"

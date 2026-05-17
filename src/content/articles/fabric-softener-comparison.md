@@ -34,7 +34,7 @@ products:
     capacity: "5L×2本"
     pricePerUnit: "約698円/L"
     rating: 4.5
-    reviewCount: 1012
+    reviewCount: 1013
     features:
       - "洗濯時に使う柔軟仕上げ剤"
       - "継続利用しやすい定番構成"
@@ -166,7 +166,7 @@ products:
     capacity: "4袋"
     pricePerUnit: "約1249円/袋"
     rating: 4.76
-    reviewCount: 1396
+    reviewCount: 1397
     features:
       - "洗濯時に使う柔軟仕上げ剤"
       - "継続利用しやすい定番構成"

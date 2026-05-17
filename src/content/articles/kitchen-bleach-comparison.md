@@ -1,6 +1,6 @@
 ---
 title: "キッチン漂白剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気9選を除菌力・コスパ・安全性で解説します。"
+description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気7選を除菌力・コスパ・安全性で解説します。"
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 updatedAt: 2026-05-17
@@ -159,50 +159,6 @@ products:
     recommendedFor: "日常的にキッチン除菌を行う方・コスパと扱いやすさを両立したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000921%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10122674%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/370/4901301019370.jpg?_ex=128x128"
-  - rank: 8
-    name: "キッチンハイター 特大ボトル"
-    brand: "花王（ハイター）"
-    price: 0
-    capacity: "2500ml"
-    pricePerUnit: "0円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "塩素系台所用漂白剤の特大ボトルタイプ"
-      - "まな板・ふきん・食器の漂白と除菌に対応"
-      - "2分程度の浸け置きで効果を発揮する液体タイプ"
-    pros:
-      - "大容量のため買い替え頻度を抑えられる"
-      - "花王の定番キッチン漂白剤で使い慣れた方に選びやすい"
-      - "プラスチック・陶器・ガラス製品など白色素材に幅広く使用できる"
-    cons:
-      - "塩素系のため金属・色物への使用は不可"
-      - "酸性洗剤との混合厳禁のため取り扱いに注意が必要"
-    recommendedFor: "まな板・ふきんを定期的に除菌漂白する方・まとめ買いでストックしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/a002256000139/"
-    imageUrl: ""
-  - rank: 9
-    name: "キッチンハイター 特大ボトル 2本セット"
-    brand: "花王（ハイター）"
-    price: 0
-    capacity: "2500ml×2本"
-    pricePerUnit: "0円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "塩素系台所用漂白剤2500mlを2本まとめ買いできるセット"
-      - "まな板・ふきん・食器の漂白と除菌に対応"
-      - "30分以上の浸け置きでさらに強力な効果を発揮"
-    pros:
-      - "まとめ買いで補充の手間と頻度を大幅に削減できる"
-      - "ストックとして使用しやすく日用品の在庫管理がしやすい"
-      - "花王の定番キッチン漂白剤を業務用感覚で使いたい方に最適"
-    cons:
-      - "保管スペースが必要なため置き場所の確認が必要"
-      - "塩素系のため金属・色物への使用は不可"
-    recommendedFor: "キッチン漂白剤を頻繁に使う家庭・ストックを常備しておきたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/508035/"
-    imageUrl: ""
 tags:
   - "キッチン漂白剤 おすすめ"
   - "キッチンハイター コスパ"
