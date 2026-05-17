@@ -99,8 +99,8 @@ products:
     price: 562
     capacity: "10枚〜50枚（サイズ・枚数選択可）"
     pricePerUnit: "約56円/枚"
-    rating: 4.73
-    reviewCount: 128
+    rating: 4.74
+    reviewCount: 129
     features:
       - "アルミ素材により防湿・遮光・防臭効果を発揮"
       - "マチ付き構造で自立可能な設計"

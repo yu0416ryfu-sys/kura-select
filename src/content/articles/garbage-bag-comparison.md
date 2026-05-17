@@ -30,9 +30,9 @@ products:
   - rank: 2
     name: "HEIKO PP食パン袋 半斤用 300枚"
     brand: "HEIKO"
-    price: 1865
+    price: 1900
     capacity: "300枚"
-    pricePerUnit: "約6.2円/枚"
+    pricePerUnit: "約6.3円/枚"
     rating: 4.78
     reviewCount: 1454
     features:

@@ -12,7 +12,7 @@ products:
     capacity: "5kg×2袋"
     pricePerUnit: "約568円/kg"
     rating: 4.27
-    reviewCount: 13606
+    reviewCount: 13607
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -34,7 +34,7 @@ products:
     capacity: "10kg"
     pricePerUnit: "約588円/kg"
     rating: 4.39
-    reviewCount: 16095
+    reviewCount: 16096
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"

@@ -78,7 +78,7 @@ products:
     capacity: "200枚（100組）×12箱"
     pricePerUnit: "約2.2円/枚"
     rating: 4.64
-    reviewCount: 657
+    reviewCount: 658
     features:
       - "パルプ100%の柔らかな2枚重ね"
       - "エリエールブランドの高品質"

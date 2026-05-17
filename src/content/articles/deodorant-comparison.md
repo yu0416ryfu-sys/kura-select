@@ -100,7 +100,7 @@ products:
     capacity: "20mL×2個"
     pricePerUnit: "約151円/mL"
     rating: 4.29
-    reviewCount: 665
+    reviewCount: 666
     features:
       - "敏感肌向けのロールオン制汗デオドラント"
       - "無香料で使いやすい海外製アイテム"

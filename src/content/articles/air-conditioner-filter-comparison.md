@@ -35,8 +35,8 @@ products:
     price: 1060
     capacity: "4枚"
     pricePerUnit: "約265円/枚"
-    rating: 4.63
-    reviewCount: 89
+    rating: 4.62
+    reviewCount: 90
     features:
       - "粘着式（フレームなし）"
       - "約2ヶ月の交換サイクル"

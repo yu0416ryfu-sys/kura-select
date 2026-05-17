@@ -12,7 +12,7 @@ products:
     capacity: "2380g×6個（約476回分）"
     pricePerUnit: "約0.49円/g"
     rating: 4.85
-    reviewCount: 78
+    reviewCount: 80
     features:
       - "抗菌水洗浄で生乾き臭の原因菌を99%除去"
       - "24時間部屋干ししても臭わない抗菌力"
@@ -100,7 +100,7 @@ products:
     capacity: "1000g"
     pricePerUnit: "約6.4円/g"
     rating: 4.7
-    reviewCount: 640
+    reviewCount: 641
     features:
       - "おしゃれ着やドライマーク衣類向けの洗剤"
       - "ニットやスーツなどに使いやすい"

@@ -209,8 +209,8 @@ products:
     price: 1499
     capacity: "22cm×50m×3本"
     pricePerUnit: "0円/m"
-    rating: 4.71
-    reviewCount: 31
+    rating: 4.72
+    reviewCount: 32
     features:
       - "クレハのポリ塩化ビニリデン製ラップ・22cmまとめ買い3本セット"
       - "のこぎり刃でカットしやすい設計"
