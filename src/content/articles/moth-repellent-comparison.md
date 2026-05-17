@@ -187,8 +187,8 @@ products:
     price: 1628
     capacity: "3個×2"
     pricePerUnit: "約271円/個"
-    rating: 4.73
-    reviewCount: 124
+    rating: 4.74
+    reviewCount: 125
     features:
       - "有効期間1年で年1回の交換でOK"
       - "衣類への移り香防止処方"

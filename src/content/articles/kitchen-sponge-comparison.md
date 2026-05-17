@@ -56,7 +56,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.75
-    reviewCount: 1320
+    reviewCount: 1321
     features:
       - "ポリウレタンフォーム＋ナイロン不織布＋ポリエステルの3素材構造"
       - "ブラック・グレー・ホワイトのモノトーン3色展開"

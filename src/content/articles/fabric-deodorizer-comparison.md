@@ -28,13 +28,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4901301348333%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F12290365%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/3683/00000005696710_a01.jpg?_ex=128x128"
   - rank: 2
-    name: "ファブリーズ W除菌 詰め替え 大容量 640mL×3個"
+    name: "ファブリーズ W除菌+消臭 詰め替え 1280ml×2セット"
     brand: "P&G（ファブリーズ）"
-    price: 3132
-    capacity: "640mL×3個（約2,400回分）"
-    pricePerUnit: "約1.6円/mL"
-    rating: 4.45
-    reviewCount: 20
+    price: 3297
+    capacity: "1280ml×2セット（2,560ml）"
+    pricePerUnit: "約1.3円/ml"
+    rating: 4.75
+    reviewCount: 4
     features:
       - "独自のW除菌成分で菌を99.9%除去"
       - "トウモロコシ由来の消臭成分で臭いを分解"
@@ -47,8 +47,8 @@ products:
       - "リセッシュと比べるとやや割高"
       - "噴霧が粗く感じることがある"
     recommendedFor: "ブランド重視の方・臭いを根本から消したい方・無香料派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598756%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321889%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/756/598756.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598757%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321967%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/757/598757.jpg?_ex=128x128"
   - rank: 3
     name: "フレナチュラ 除菌スプレー 消臭スプレー 400mL"
     brand: "フレナチュラ"

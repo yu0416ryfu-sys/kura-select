@@ -7,11 +7,11 @@ updatedAt: 2026-05-17
 draft: false
 products:
   - rank: 1
-    name: "THE軽井沢ビール 6種飲み比べ 350ml缶×6本"
+    name: "日本のクラフトビール 6種飲み比べセット 6本入り"
     brand: "軽井沢ブルワリー"
-    price: 2280
-    capacity: "350ml×6本"
-    pricePerUnit: "約380円/本"
+    price: 3980
+    capacity: "6本"
+    pricePerUnit: "約663円/本"
     features:
       - "複数種類のビールを飲み比べしやすいギフトセット"
       - "父の日向けの特別感がある、季節感の強いプレゼント"
@@ -24,10 +24,10 @@ products:
       - "お酒を飲まない相手には向かない"
       - "受け取る時期や保存方法を少し気にしたい"
     recommendedFor: "晩酌が好きなお父さんに、季節感のあるギフトを贈りたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00slwon.3rdw6053.g00slwon.3rdw7b42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrewery%2Fn-ev-f%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbrewery%2Fi%2F10000411%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tjlgn.3rdw6b08.g00tjlgn.3rdw7ab7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgift-hiroba%2Fmsk-beer-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgift-hiroba%2Fi%2F10003185%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 4.37
     reviewCount: 19
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/brewery/cabinet/26fd_n-ev_1200.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gift-hiroba/cabinet/food/09693125/24051614.jpg?_ex=128x128"
   - rank: 2
     name: "名入れ 木製ボールペン"
     brand: "名入れできる雑貨屋 リコルド"

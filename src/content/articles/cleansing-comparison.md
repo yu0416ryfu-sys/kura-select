@@ -100,7 +100,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約12円/mL"
     rating: 4.69
-    reviewCount: 534
+    reviewCount: 535
     features:
       - "ドクダミエキス配合のクレンジングオイル"
       - "毛穴や皮脂汚れまで落とす韓国コスメ"

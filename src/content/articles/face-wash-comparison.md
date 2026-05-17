@@ -72,28 +72,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ufaun.3rdw6841.g00ufaun.3rdw78e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24-cosmetics%2F4550516491404%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24-cosmetics%2Fi%2F10040331%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24-cosmetics/cabinet/404/4550516491404.jpg?_ex=128x128"
   - rank: 4
-    name: "オルナオーガニック 泥洗顔 130g"
-    brand: "ALLNA ORGANIC"
-    price: 1342
-    capacity: "130g"
-    pricePerUnit: "約10円/g"
-    rating: 4.62
-    reviewCount: 1211
-    features:
-      - "顔の洗浄に使う洗顔料"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "肌質や洗い上がりで選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "使用感や香りの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "肌質や洗い上がりで選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b01n0bsytw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000261%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/event/20260509god/905b01n0bsytw-39.jpg?_ex=128x128"
-  - rank: 5
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
     brand: "ユニリーバ（ダヴ）"
     price: 1577
@@ -115,6 +93,28 @@ products:
     recommendedFor: "敏感肌・乾燥肌の方・マイルドな洗い心地を好む方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F563823%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11186459%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/823/563823.jpg?_ex=128x128"
+  - rank: 5
+    name: "オルナ オーガニック 泥洗顔 130g"
+    brand: "ALLNA ORGANIC"
+    price: 1580
+    capacity: "130g"
+    pricePerUnit: "約12円/g"
+    rating: 4.62
+    reviewCount: 1211
+    features:
+      - "顔の洗浄に使う洗顔料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "肌質や洗い上がりで選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "使用感や香りの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "肌質や洗い上がりで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u73vn.3rdw6440.g00u73vn.3rdw7ee8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fboundless%2F4589587181037%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fboundless%2Fi%2F10005117%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/boundless/cabinet/10359033/13136929/4589587181037.jpg?_ex=128x128"
   - rank: 6
     name: "どろばーゆ あわ洗顔 120g"
     brand: "ナチュボーテ"
@@ -138,28 +138,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rxkjn.3rdw66be.g00rxkjn.3rdw76b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmeplatinum%2Fawasoap%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmeplatinum%2Fi%2F10000425%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmeplatinum/cabinet/awasoap/awasoap_new2.jpg?_ex=128x128"
   - rank: 7
-    name: "プリュ カーボニック クリーニング パック 150g×2点"
-    brand: "PLuS"
-    price: 4396
-    capacity: "150g×2"
-    pricePerUnit: "約15円/g"
-    rating: 4.45
-    reviewCount: 3662
-    features:
-      - "顔の洗浄に使う洗顔料"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "肌質や洗い上がりで選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "使用感や香りの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "肌質や洗い上がりで選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po0zn.3rdw627e.g00po0zn.3rdw7621/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fpscp11000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10005954%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/html3/clpack-2_off30.jpg?_ex=128x128"
-  - rank: 8
     name: "DoMeCare マイクロクレイウォッシュ 110g"
     brand: "DoMeCare"
     price: 1980
@@ -181,7 +159,7 @@ products:
     recommendedFor: "肌質や洗い上がりで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tfrwn.3rdw669e.g00tfrwn.3rdw74a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdomecare%2Fdmc_micro-cray-wash%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdomecare%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/domecare/cabinet/microcraywash/mcwsam2-8.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "レステモ フェイシャル ソープ 150g"
     brand: "レステモ"
     price: 2680
@@ -203,7 +181,7 @@ products:
     recommendedFor: "肌質や洗い上がりで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdaen.3rdw686c.g00qdaen.3rdw7002/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flesthemo%2Fsoap150g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flesthemo%2Fi%2F10000018%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/soap_150_2500px_05.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "ルアド 洗顔パウダー 67g×3袋"
     brand: "ルアド"
     price: 4125
@@ -225,6 +203,28 @@ products:
     recommendedFor: "肌質や洗い上がりで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pytjn.3rdw6c43.g00pytjn.3rdw73fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fadpentel%2F590765%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fadpentel%2Fi%2F10000082%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/adpentel/cabinet/pro/imgrc0079724986.jpg?_ex=128x128"
+  - rank: 10
+    name: "プリュ カーボニック クリーニング パック 150g"
+    brand: "PLuS"
+    price: 3140
+    capacity: "150g（1本）"
+    pricePerUnit: "約3140円/本"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "顔の洗浄に使う洗顔料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "肌質や洗い上がりで選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "使用感や香りの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "肌質や洗い上がりで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po0zn.3rdw627e.g00po0zn.3rdw7621/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fpscp11000-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10006260%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/plus04/clpack-t_01.jpg?_ex=128x128"
 tags:
   - "洗顔料 おすすめ"
   - "洗顔料 コスパ"

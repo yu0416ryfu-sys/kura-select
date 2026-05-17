@@ -1,6 +1,6 @@
 ---
-title: "ハンドソープ コスパ最強ランキング【2026年版】殺菌力・保湿成分で比較10選"
-description: "ハンドソープを1回あたりのコストで徹底比較。キレイキレイ・ビオレu・ミューズ・ジェームズマーティンなど人気10選を紹介。殺菌力重視・保湿重視・家族向けに最適な商品が分かります。"
+title: "ハンドソープ コスパ最強ランキング【2026年版】殺菌力・保湿成分で比較9選"
+description: "ハンドソープを1回あたりのコストで徹底比較。キレイキレイ・ビオレu・ミューズ・ジェームズマーティンなど人気9選を紹介。殺菌力重視・保湿重視・家族向けに最適な商品が分かります。"
 category: "hand-soap"
 publishedAt: "2026-04-30"
 updatedAt: 2026-05-17
@@ -50,13 +50,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qydvn.3rdw6679.g00qydvn.3rdw7b3d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenko-depart%2F409774%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenko-depart%2Fi%2F10008350%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenko-depart/cabinet/gazou3/409774-2023-10.jpg?_ex=128x128"
   - rank: 3
-    name: "キレイキレイ 薬用泡ハンドソープ シトラスフルーティの香り 詰替用"
+    name: "キレイキレイ 薬用泡ハンドソープ シトラスフルーティ 詰替用 450ml×6袋"
     brand: "ライオン（キレイキレイ）"
-    price: 4164
-    capacity: "800ml×6個"
-    pricePerUnit: "約0.87円/ml"
+    price: 2772
+    capacity: "450ml×6袋（2,700ml）"
+    pricePerUnit: "約1.0円/ml"
     rating: 4.71
-    reviewCount: 387
+    reviewCount: 34
     features:
       - "殺菌成分配合の医薬部外品で、手指の細菌を素早く洗い流す薬用タイプ"
       - "シトラスフルーティの香りで毎回の手洗いが爽やかな気分になる"
@@ -69,8 +69,8 @@ products:
       - "まとめ買いのため保管スペースが必要"
       - "香りが苦手な方や無香料を好む方には合わない場合がある"
     recommendedFor: "家族が多い家庭・殺菌力を重視しながら詰め替えをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F90667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10986242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/667/90667.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F99035%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11017200%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/035/99035.jpg?_ex=128x128"
   - rank: 4
     name: "キレイキレイ 薬用泡ハンドソープ シトラスフルーティの香り つめかえ用 大型サイズ"
     brand: "ライオン（キレイキレイ）"
@@ -203,28 +203,6 @@ products:
     recommendedFor: "無香料で薬用・弱酸性のハンドソープを求める方・匂いに敏感な職場や家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe474931h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10572500%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/011/4573388510011.jpg?_ex=128x128"
-  - rank: 10
-    name: "ナチュラチェック 無添加 詰替用 泡ハンドソープ"
-    brand: "Natura Check（ナチュラチェック）"
-    price: 0
-    capacity: "230ml×3個"
-    pricePerUnit: "0円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "合成界面活性剤・香料・着色料などを含まない完全無添加処方"
-      - "国産・日本製で品質管理が徹底された製品"
-      - "泡タイプの詰め替え用でセット販売"
-    pros:
-      - "添加物ゼロにこだわる方や新生児のいる家庭でも使いやすい"
-      - "肌が敏感な方やアトピー気質の方に向いている"
-      - "詰め替えセットなのでまとめてストックしやすい"
-    cons:
-      - "殺菌成分は配合されていないため薬用タイプを求める方には不向き"
-      - "容量が少なめのため家族が多い場合は使用頻度が高くなる"
-    recommendedFor: "無添加・天然成分にこだわる方・赤ちゃんや敏感肌の家族がいる家庭"
-    rakutenUrl: "https://item.rakuten.co.jp/naturacheck/983/"
-    imageUrl: ""
 tags:
   - "ハンドソープ"
   - "コスパ"

@@ -5,6 +5,7 @@ description: |
   `scripts/update-products.mjs` の候補生成・カテゴリ判定・重複判定・容量抽出まわりを改善するスキル。
   候補にカテゴリ外商品が混ざる、正しい商品が除外される、追加候補が0件になる、
   reports/addition-urls-*.md の精度を上げたい場合に使う。
+  kura-article-add が check-additions 由来候補のカテゴリ外混入を検知した場合にも使う。
 ---
 
 # KuraSelect check-additions 精度改善スキル
@@ -16,6 +17,7 @@ description: |
 - 対象記事: `src/content/articles/{slug}-comparison.md`
 - 不適切候補の例: `reports/addition-urls-*.md` のURL・商品名
 - 期待カテゴリ: 記事frontmatterの `category`
+- `kura-article-add` のカテゴリ適合チェックで除外された候補がある場合、その商品名・URL・除外理由・レポート診断行
 
 ## 調査手順
 
@@ -59,4 +61,5 @@ corepack pnpm test
 - 原因分類
 - 修正したロジック
 - 対象記事で再生成された候補の状態
+- `kura-article-add` から引き継いだカテゴリ外候補がある場合、その候補が再生成後の `addition-urls` に残っていないか
 - 実行した検証コマンド
