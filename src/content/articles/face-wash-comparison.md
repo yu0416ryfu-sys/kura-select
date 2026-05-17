@@ -12,7 +12,7 @@ products:
     capacity: "150g×3本"
     pricePerUnit: "約2.4円/g"
     rating: 4.66
-    reviewCount: 680
+    reviewCount: 681
     features:
       - "泡タイプの洗顔料"
       - "まとめ買いしやすいセット"
