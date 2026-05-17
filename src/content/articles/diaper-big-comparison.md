@@ -3,7 +3,7 @@ title: "BIG・スーパービッグ紙おむつ比較【2026年版】"
 description: "BIGサイズ・スーパービッグサイズの紙おむつを1枚あたりの価格で比較。大きめ体型や夜間漏れ対策に向く商品を選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-16
+updatedAt: 2026-05-17
 products:
   - rank: 1
     name: "グーンプラス テープ BIGサイズ"
@@ -11,8 +11,8 @@ products:
     price: 1518
     capacity: "38枚（BIGサイズ・12〜20kg）"
     pricePerUnit: "約40円/枚"
-    rating: 0
-    reviewCount: 0
+    rating: 5
+    reviewCount: 1
     features:
       - "敏感肌向けのやわらかタッチ素材を採用"
       - "BIGサイズ12〜20kg対応で長く使える"
@@ -210,7 +210,7 @@ products:
     capacity: "ビッグ108枚（3個セット）"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 1565
+    reviewCount: 1567
     features:
       - "パンツタイプの紙おむつ"
       - "ふわもちタッチの肌あたりに配慮した設計"
