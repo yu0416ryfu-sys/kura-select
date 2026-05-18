@@ -38,7 +38,7 @@ describe("yahoo-shopping", () => {
     expect(normalizeYahooItemSearchResponse(success)).toEqual([
       {
         provider: "yahoo",
-        label: "Yahoo!ショッピング",
+        label: "Yahoo!",
         name: "サンプル洗剤 詰め替え 1200mL",
         price: 1280,
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=1&pid=2&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsample%2Fitem.html",

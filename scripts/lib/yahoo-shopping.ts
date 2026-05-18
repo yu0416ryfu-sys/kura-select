@@ -10,7 +10,7 @@ export interface YahooShoppingHit {
 
 export interface YahooOfferCandidate {
   provider: "yahoo";
-  label: "Yahoo!ショッピング";
+  label: "Yahoo!";
   name: string;
   price: number | null;
   url: string;
@@ -61,7 +61,7 @@ export function normalizeYahooItemSearchResponse(response: unknown): YahooOfferC
       if (!hit.name || !hit.url) return null;
       return {
         provider: "yahoo" as const,
-        label: "Yahoo!ショッピング" as const,
+        label: "Yahoo!" as const,
         name: hit.name,
         price: typeof hit.price === "number" ? hit.price : null,
         url: hit.url,

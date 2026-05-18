@@ -29,9 +29,9 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maki-seishi/cabinet/03277389/03277390/imgrc0095115036.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
-        label: "Yahoo!ショッピング"
+        label: "Yahoo!"
         price: 3500
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaki-seishi%2Fmori100ms30.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaki-seishi%2Fmori100ms30.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/maki-seishi_mori100ms30"
         available: true
         updatedAt: "2026-05-18"
@@ -59,9 +59,9 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya112/imgrc0093775466.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
-        label: "Yahoo!ショッピング"
+        label: "Yahoo!"
         price: 5180
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F7270428.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F7270428.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_7270428"
         available: true
         updatedAt: "2026-05-18"
@@ -89,9 +89,9 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/048/766492.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
-        label: "Yahoo!ショッピング"
+        label: "Yahoo!"
         price: 5130
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F520721.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F520721.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_520721"
         available: true
         updatedAt: "2026-05-18"
@@ -119,9 +119,9 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wakuwaku-kobe/cabinet/toipe_ippann/03375414/imgrc0080421778.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
-        label: "Yahoo!ショッピング"
+        label: "Yahoo!"
         price: 6290
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7166410.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7166410.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7166410"
         available: true
         updatedAt: "2026-05-18"
@@ -171,9 +171,9 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/corelex/cabinet/toilet/10585247/gyoum1tchcoress150-1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
-        label: "Yahoo!ショッピング"
+        label: "Yahoo!"
         price: 5080
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgreen-consumer-shop%2Fgyoumuyou-onetouch-170.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgreen-consumer-shop%2Fgyoumuyou-onetouch-170.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/green-consumer-shop_gyoumuyou-onetouch-170"
         available: true
         updatedAt: "2026-05-18"
@@ -201,9 +201,9 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/itoman/cabinet/toiletroll/ittoco_10150008/10150008.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
-        label: "Yahoo!ショッピング"
+        label: "Yahoo!"
         price: 4980
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Feconvecoco%2F0417005.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Feconvecoco%2F0417005.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/econvecoco_0417005"
         available: true
         updatedAt: "2026-05-18"
@@ -231,9 +231,9 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/coreka/cabinet/07115477/232260/imgrc0087350170_2.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
-        label: "Yahoo!ショッピング"
+        label: "Yahoo!"
         price: 5300
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcleanshoponline%2F72014.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcleanshoponline%2F72014.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cleanshoponline_72014"
         available: true
         updatedAt: "2026-05-18"
@@ -283,9 +283,9 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/itoman/cabinet/toiletroll/11_comfy/comfy_10150034/10150034.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
-        label: "Yahoo!ショッピング"
+        label: "Yahoo!"
         price: 4235
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitoman%2F10150019.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitoman%2F10150019.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/itoman_10150019"
         available: true
         updatedAt: "2026-05-18"

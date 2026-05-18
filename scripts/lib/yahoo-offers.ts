@@ -54,7 +54,7 @@ export function upsertYahooOfferInFrontmatter(
     : [];
   const nextOffer = {
     provider: "yahoo",
-    label: "Yahoo!ショッピング",
+    label: candidate.label,
     price: candidate.price ?? undefined,
     url: candidate.url,
     imageUrl: candidate.imageUrl ?? undefined,
