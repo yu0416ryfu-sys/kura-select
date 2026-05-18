@@ -3,7 +3,7 @@ title: "コンディショナー コスパ最強ランキング【2026年版】1
 description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気10選をダメージケア・コスパで解説します。"
 category: "conditioner"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-17
+updatedAt: 2026-05-18
 products:
   - rank: 1
     name: "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア"
@@ -121,8 +121,8 @@ products:
     price: 2750
     capacity: "210g"
     pricePerUnit: "約13円/g"
-    rating: 4.64
-    reviewCount: 78
+    rating: 4.65
+    reviewCount: 79
     features:
       - "アミノ酸補修成分配合"
       - "細い髪向けに処方"

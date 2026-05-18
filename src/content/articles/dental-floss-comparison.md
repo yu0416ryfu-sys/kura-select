@@ -3,7 +3,7 @@ title: "デンタルフロス コスパ最強ランキング【2026年版】1本
 description: "デンタルフロス・歯間ブラシを1本あたりのコストで徹底比較。GUM・クリニカ・糸ようじ・フロアフロスなど人気10選を使いやすさ・清潔効果・コスパで解説します。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
-updatedAt: 2026-05-17
+updatedAt: 2026-05-18
 products:
   - rank: 1
     name: "Dr.デンリスト こども糸ピックス 30本入×4個"

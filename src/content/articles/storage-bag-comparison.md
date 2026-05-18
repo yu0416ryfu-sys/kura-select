@@ -3,7 +3,7 @@ title: "保存袋・フリーザーバッグ コスパ最強ランキング【20
 description: "保存袋・フリーザーバッグを1枚あたりのコストで徹底比較。ジップロック・アイラップ・業務用など人気10選を密封性・耐久性で解説します。"
 category: "wrap-foil"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-17
+updatedAt: 2026-05-18
 products:
   - rank: 1
     name: "システムポリマー XP-11 スライダー付ジッパー保存袋"
@@ -77,8 +77,8 @@ products:
     price: 1917
     capacity: "120枚"
     pricePerUnit: "約16円/枚"
-    rating: 4.64
-    reviewCount: 39
+    rating: 4.63
+    reviewCount: 40
     features:
       - "ダブルジッパーで液漏れしにくい密封性"
       - "フリーザーバッグは冷凍保存に最適な厚手素材"
@@ -99,8 +99,8 @@ products:
     price: 562
     capacity: "10枚〜50枚（サイズ・枚数選択可）"
     pricePerUnit: "約56円/枚"
-    rating: 4.73
-    reviewCount: 128
+    rating: 4.74
+    reviewCount: 129
     features:
       - "アルミ素材により防湿・遮光・防臭効果を発揮"
       - "マチ付き構造で自立可能な設計"
@@ -118,9 +118,9 @@ products:
   - rank: 6
     name: "ジップロック ストックバッグ L 16枚"
     brand: "旭化成（ジップロック）"
-    price: 1288
+    price: 1308
     capacity: "16枚"
-    pricePerUnit: "約81円/枚"
+    pricePerUnit: "約82円/枚"
     rating: 4.4
     reviewCount: 200
     features:

@@ -3,7 +3,7 @@ title: "Sサイズ紙おむつ テープ型9選比較【2026年版】"
 description: "Sサイズのテープ型紙おむつ9製品を1枚あたりの価格で比較。メリーズ・ムーニー・パンパースほか、コスパと肌触りで選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-17
+updatedAt: 2026-05-18
 products:
   - rank: 1
     name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚"
@@ -100,7 +100,7 @@ products:
     capacity: "54枚×4個セット"
     pricePerUnit: "約33円/枚"
     rating: 4.75
-    reviewCount: 467
+    reviewCount: 468
     features:
       - "低刺激処方で敏感肌向けに配慮"
       - "安心設計のテープタイプ"
@@ -118,9 +118,9 @@ products:
   - rank: 6
     name: "パンパース はじめての肌へのいちばん テープ Sサイズ 大容量"
     brand: "P&G（パンパース）"
-    price: 4678
+    price: 5598
     capacity: "132枚/2パック"
-    pricePerUnit: "約35円/枚"
+    pricePerUnit: "約42円/枚"
     rating: 5
     reviewCount: 11
     features:
@@ -166,7 +166,7 @@ products:
     capacity: "84枚/4パック"
     pricePerUnit: "約109円/枚"
     rating: 4.68
-    reviewCount: 3867
+    reviewCount: 3868
     features:
       - "全面通気性に優れたエアスルー素材採用"
       - "360度フィットで漏れを防止"

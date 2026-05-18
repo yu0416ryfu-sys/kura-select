@@ -1,9 +1,9 @@
 ---
-title: "ウェットティッシュ コスパ最強ランキング【2026年版】除菌・ノンアルで比較 8選"
-description: "ウェットティッシュを1枚あたりのコストで徹底比較。エリエール・シルコット・キレイキレイ・アイリスオーヤマなど人気8選を除菌力・肌やさしさで解説します。"
+title: "ウェットティッシュ コスパ最強ランキング【2026年版】除菌・ノンアルで比較 7選"
+description: "ウェットティッシュを1枚あたりのコストで徹底比較。エリエール・シルコット・キレイキレイ・アイリスオーヤマなど人気7選を除菌力・肌やさしさで解説します。"
 category: "tissue-paper"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-17
+updatedAt: 2026-05-18
 products:
   - rank: 1
     name: "レック 水99.9％ 手口ふき"
@@ -12,7 +12,7 @@ products:
     capacity: "80枚×15個"
     pricePerUnit: "約1.8円/枚"
     rating: 4.68
-    reviewCount: 4448
+    reviewCount: 4452
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -34,7 +34,7 @@ products:
     capacity: "80枚×24個（1920枚）"
     pricePerUnit: "約2.1円/枚"
     rating: 4.52
-    reviewCount: 1291
+    reviewCount: 1292
     features:
       - "99.5%水分で無添加処方"
       - "スタンドアップパッケージで使いやすい"
@@ -144,7 +144,7 @@ products:
     capacity: "96枚"
     pricePerUnit: "約31円/枚"
     rating: 4.36
-    reviewCount: 279
+    reviewCount: 280
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
