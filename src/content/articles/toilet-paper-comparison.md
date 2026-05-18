@@ -109,14 +109,6 @@ products:
     recommendedFor: "芯なし長巻きのコスパを重視してまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r90rn.3rdw6d63.g00r90rn.3rdw7ade/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwakuwaku-kobe%2F10000005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwakuwaku-kobe%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wakuwaku-kobe/cabinet/toipe_ippann/03375414/imgrc0080421778.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 6290
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7166410.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7166410"
-        available: true
-        updatedAt: "2026-05-18"
   - rank: 5
     name: "良い紙 業務用コアレス シングル"
     brand: "良い紙"
@@ -161,14 +153,6 @@ products:
     recommendedFor: "交換の手間を最小化したい方・環境意識が高い方・大容量まとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ttjtn.3rdw6711.g00ttjtn.3rdw7380/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcorelex%2Fgyoumuonetouchcoreress150ms6r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcorelex%2Fi%2F10000051%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/corelex/cabinet/toilet/10585247/gyoum1tchcoress150-1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 5080
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgreen-consumer-shop%2Fgyoumuyou-onetouch-170.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/green-consumer-shop_gyoumuyou-onetouch-170"
-        available: true
-        updatedAt: "2026-05-18"
   - rank: 7
     name: "イットコ スリム シングル 芯なし"
     brand: "イトマン"
