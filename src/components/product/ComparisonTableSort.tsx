@@ -193,7 +193,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                         rel="sponsored nofollow noopener"
                         target="_blank"
                         aria-label={`${p.name}を${offer.provider === "rakuten" ? "楽天市場" : "Yahoo!ショッピング"}で見る（別タブで開く）`}
-                        class={`w-full inline-flex items-center justify-center gap-1 text-white text-xs px-3 py-1.5 rounded-lg font-medium hover:opacity-90 transition-opacity min-h-[36px] ${
+                        class={`w-full whitespace-nowrap inline-flex items-center justify-center gap-1 text-white text-xs px-3 py-1.5 rounded-lg font-medium hover:opacity-90 transition-opacity min-h-[36px] ${
                           offer.provider === "rakuten" ? "bg-[var(--color-warning)]" : "bg-[var(--color-primary)]"
                         }`}
                         data-ga-event={offer.provider === "rakuten" ? "click_rakuten_link" : "click_yahoo_link"}

@@ -57,14 +57,6 @@ products:
     recommendedFor: "日常使いと備蓄を兼ねて芯なしロールをまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7096355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10151090%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya112/imgrc0093775466.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 5180
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F7270428.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_7270428"
-        available: true
-        updatedAt: "2026-05-18"
   - rank: 3
     name: "コアユース 無包装 シングル 芯なし"
     brand: "春日製紙"

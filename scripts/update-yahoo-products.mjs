@@ -72,6 +72,8 @@ function isLikelySameProduct(currentName, candidateName) {
   const tokens = normalizeTokens(currentName);
   if (tokens.length === 0) return false;
   const normalizedCandidate = candidateName.toLowerCase();
+  // 最初のトークン（ブランド名相当）が候補に含まれない場合は別商品と判定
+  if (!normalizedCandidate.includes(tokens[0])) return false;
   const matched = tokens.filter((token) => normalizedCandidate.includes(token)).length;
   return matched >= Math.min(2, tokens.length);
 }
