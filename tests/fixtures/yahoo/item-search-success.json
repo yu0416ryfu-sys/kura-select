@@ -1,0 +1,23 @@
+{
+  "totalResultsAvailable": 1,
+  "totalResultsReturned": 1,
+  "firstResultsPosition": 1,
+  "hits": [
+    {
+      "name": "サンプル洗剤 詰め替え 1200mL",
+      "url": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=1&pid=2&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsample%2Fitem.html",
+      "price": 1280,
+      "inStock": true,
+      "image": {
+        "small": "https://item-shopping.c.yimg.jp/i/c/sample_small",
+        "medium": "https://item-shopping.c.yimg.jp/i/g/sample_medium"
+      },
+      "exImage": {
+        "url": "https://item-shopping.c.yimg.jp/i/n/sample_300"
+      },
+      "seller": {
+        "name": "サンプルストア"
+      }
+    }
+  ]
+}

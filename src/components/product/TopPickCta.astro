@@ -1,5 +1,7 @@
 ---
-import RakutenLink from "./RakutenLink.astro";
+import AffiliateLink from "./AffiliateLink.astro";
+import { ENABLE_YAHOO_AFFILIATE } from "../../lib/env";
+import { getVisibleOffers, type ProductOffer } from "../../lib/offers";
 
 interface Product {
   rank: number;
@@ -12,6 +14,7 @@ interface Product {
   reviewCount?: number;
   rakutenUrl: string;
   imageUrl?: string;
+  offers?: ProductOffer[];
 }
 
 interface Props {
@@ -19,6 +22,7 @@ interface Props {
 }
 
 const { product } = Astro.props;
+const visibleOffers = getVisibleOffers(product, { enableYahoo: ENABLE_YAHOO_AFFILIATE });
 ---
 
 <div class="bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200 rounded-xl p-4 md:p-5 mb-8 shadow-sm">
@@ -63,21 +67,31 @@ const { product } = Astro.props;
     </div>
 
     <!-- CTAボタン（PC） -->
-    <div class="hidden md:block shrink-0">
-      <RakutenLink
-        href={product.rakutenUrl}
-        productName={product.name}
-        size="md"
-      />
+    <div class="hidden md:flex shrink-0 flex-col gap-2">
+      {visibleOffers.map((offer) => (
+        <AffiliateLink
+          href={offer.url}
+          provider={offer.provider}
+          label={offer.label}
+          productName={product.name}
+          size="md"
+          variant={offer.provider === "rakuten" ? "primary" : "outline"}
+        />
+      ))}
     </div>
   </div>
 
   <!-- CTAボタン（モバイル：全幅） -->
-  <div class="md:hidden mt-3">
-    <RakutenLink
-      href={product.rakutenUrl}
-      productName={product.name}
-      size="md"
-    />
+  <div class="md:hidden mt-3 flex flex-col gap-2">
+    {visibleOffers.map((offer) => (
+      <AffiliateLink
+        href={offer.url}
+        provider={offer.provider}
+        label={offer.label}
+        productName={product.name}
+        size="md"
+        variant={offer.provider === "rakuten" ? "primary" : "outline"}
+      />
+    ))}
   </div>
 </div>
