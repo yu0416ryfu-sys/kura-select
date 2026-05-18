@@ -5,10 +5,28 @@
  */
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from "fs";
-import { join } from "path";
+import { join, resolve } from "path";
 import { buildSearchKeyword } from "./lib/frontmatter.ts";
 import { searchYahooShoppingItems } from "./lib/yahoo-shopping.ts";
 import { upsertYahooOfferInFrontmatter } from "./lib/yahoo-offers.ts";
+
+function loadEnv() {
+  const envPath = resolve(process.cwd(), ".env");
+  if (existsSync(envPath)) {
+    const parsed = {};
+    for (const line of readFileSync(envPath, "utf-8").split("\n")) {
+      const trimmed = line.trim();
+      if (!trimmed || trimmed.startsWith("#")) continue;
+      const eqIdx = trimmed.indexOf("=");
+      if (eqIdx === -1) continue;
+      parsed[trimmed.slice(0, eqIdx).trim()] = trimmed.slice(eqIdx + 1).trim();
+    }
+    return parsed;
+  }
+  return process.env;
+}
+
+const rawEnv = loadEnv();
 
 const args = process.argv.slice(2);
 const WRITE = args.includes("--write");
@@ -20,9 +38,9 @@ const ARTICLES_DIR = join(process.cwd(), "src", "content", "articles");
 const REPORTS_DIR = join(process.cwd(), "reports");
 
 const env = {
-  appId: process.env.YAHOO_SHOPPING_APP_ID ?? "",
-  valueCommerceSid: process.env.VALUECOMMERCE_SID ?? "",
-  valueCommercePid: process.env.VALUECOMMERCE_PID ?? "",
+  appId: rawEnv.YAHOO_SHOPPING_APP_ID ?? "",
+  valueCommerceSid: rawEnv.VALUECOMMERCE_SID ?? "",
+  valueCommercePid: rawEnv.VALUECOMMERCE_PID ?? "",
 };
 
 function sleep(ms) {

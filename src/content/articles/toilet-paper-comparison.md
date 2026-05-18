@@ -3,7 +3,7 @@ title: "トイレットペーパー シングル コスパランキング【2026
 description: "シングルのトイレットペーパーを1mあたりの価格で比較。長尺・芯なし・まとめ買い向けの商品を厳選して紹介します。"
 category: "toilet-paper"
 publishedAt: "2024-11-01"
-updatedAt: 2026-05-17
+updatedAt: "2026-05-17"
 products:
   - rank: 1
     name: "森を守ろう トイレットペーパー シングル"
@@ -27,6 +27,14 @@ products:
     recommendedFor: "個包装の無漂白トイレットペーパーをまとめて備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqs8n.3rdw6363.g00rqs8n.3rdw7957/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaki-seishi%2Fmori100ms60%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaki-seishi%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maki-seishi/cabinet/03277389/03277390/imgrc0095115036.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!ショッピング"
+        price: 3500
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaki-seishi%2Fmori100ms30.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/maki-seishi_mori100ms30"
+        available: true
+        updatedAt: "2026-05-18"
   - rank: 2
     name: "コアユース シングル 芯なし"
     brand: "コアユース"
@@ -49,6 +57,14 @@ products:
     recommendedFor: "日常使いと備蓄を兼ねて芯なしロールをまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7096355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10151090%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya112/imgrc0093775466.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!ショッピング"
+        price: 5180
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F7270428.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_7270428"
+        available: true
+        updatedAt: "2026-05-18"
   - rank: 3
     name: "コアユース 無包装 シングル 芯なし"
     brand: "春日製紙"
@@ -71,6 +87,14 @@ products:
     recommendedFor: "無包装の芯なしロールを箱買いして補充を楽にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq8tn.3rdw6841.g00qq8tn.3rdw7945/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocodecow%2F766492%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocodecow%2Fi%2F10015781%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/048/766492.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!ショッピング"
+        price: 5130
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F520721.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_520721"
+        available: true
+        updatedAt: "2026-05-18"
   - rank: 4
     name: "ワンタッチ 再生紙 トイレットペーパー シングル 芯なし"
     brand: "ワンタッチ"
@@ -93,6 +117,14 @@ products:
     recommendedFor: "芯なし長巻きのコスパを重視してまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r90rn.3rdw6d63.g00r90rn.3rdw7ade/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwakuwaku-kobe%2F10000005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwakuwaku-kobe%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wakuwaku-kobe/cabinet/toipe_ippann/03375414/imgrc0080421778.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!ショッピング"
+        price: 6290
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7166410.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7166410"
+        available: true
+        updatedAt: "2026-05-18"
   - rank: 5
     name: "良い紙 業務用コアレス シングル"
     brand: "良い紙"
@@ -137,6 +169,14 @@ products:
     recommendedFor: "交換の手間を最小化したい方・環境意識が高い方・大容量まとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ttjtn.3rdw6711.g00ttjtn.3rdw7380/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcorelex%2Fgyoumuonetouchcoreress150ms6r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcorelex%2Fi%2F10000051%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/corelex/cabinet/toilet/10585247/gyoum1tchcoress150-1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!ショッピング"
+        price: 5080
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgreen-consumer-shop%2Fgyoumuyou-onetouch-170.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/green-consumer-shop_gyoumuyou-onetouch-170"
+        available: true
+        updatedAt: "2026-05-18"
   - rank: 7
     name: "イットコ スリム シングル 芯なし"
     brand: "イトマン"
@@ -159,6 +199,14 @@ products:
     recommendedFor: "交換頻度を減らしつつ個包装で清潔に保管したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q242n.3rdw6f72.g00q242n.3rdw7b52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitoman%2Fcoreself150eco%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fitoman%2Fi%2F10000023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/itoman/cabinet/toiletroll/ittoco_10150008/10150008.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!ショッピング"
+        price: 4980
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Feconvecoco%2F0417005.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/econvecoco_0417005"
+        available: true
+        updatedAt: "2026-05-18"
   - rank: 8
     name: "トーヨ クリーンテックス シングル 個包装"
     brand: "トーヨ"
@@ -181,6 +229,14 @@ products:
     recommendedFor: "個包装の扱いやすさと国産品を重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgo7n.3rdw64d9.g00tgo7n.3rdw7646/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoreka%2F232260%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoreka%2Fi%2F10000026%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/coreka/cabinet/07115477/232260/imgrc0087350170_2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!ショッピング"
+        price: 5300
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcleanshoponline%2F72014.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cleanshoponline_72014"
+        available: true
+        updatedAt: "2026-05-18"
   - rank: 9
     name: "スマートエール 消臭機能付き シングル 芯なし"
     brand: "アイリスプラザ"
@@ -225,6 +281,14 @@ products:
     recommendedFor: "個包装の芯なしロールを少し控えめな箱数で選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q242n.3rdw6f72.g00q242n.3rdw7b52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitoman%2Fcoreself150eco-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fitoman%2Fi%2F10001046%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/itoman/cabinet/toiletroll/11_comfy/comfy_10150034/10150034.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!ショッピング"
+        price: 4235
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=2025875&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitoman%2F10150019.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itoman_10150019"
+        available: true
+        updatedAt: "2026-05-18"
 tags:
   - "トイレットペーパー"
   - "シングル"
