@@ -78,7 +78,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.81
-    reviewCount: 466
+    reviewCount: 467
     features:
       - "ポリエステル＋ウレタンフォームのハードタイプ構造"
       - "3色パック×2セットのカラフルな6個組"
@@ -210,7 +210,7 @@ products:
     capacity: "8個"
     pricePerUnit: "約384円/個"
     rating: 4.81
-    reviewCount: 2449
+    reviewCount: 2450
     features:
       - "全9色展開でカラーコーディネートを楽しめる"
       - "まとめ買いで常にストックを切らさない"

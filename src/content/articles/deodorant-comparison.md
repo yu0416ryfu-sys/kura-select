@@ -12,7 +12,7 @@ products:
     capacity: "75mL"
     pricePerUnit: "約66円/mL"
     rating: 4.72
-    reviewCount: 661
+    reviewCount: 662
     features:
       - "メンズ向けのロールオン制汗デオドラント"
       - "汗やニオイが気になるワキに直接塗れる"
@@ -188,7 +188,7 @@ products:
     capacity: "50g"
     pricePerUnit: "約36円/g"
     rating: 4.38
-    reviewCount: 1296
+    reviewCount: 1297
     features:
       - "クリームタイプの医薬部外品デオドラント"
       - "ワキガやワキ汗対策向けの処方"

@@ -122,7 +122,7 @@ products:
     capacity: "500ml＋1L"
     pricePerUnit: "約6.4円/ml"
     rating: 4.54
-    reviewCount: 1031
+    reviewCount: 1032
     features:
       - "本体500mLと詰め替え1000mLのセット販売"
       - "速乾性の高いスプレータイプ"

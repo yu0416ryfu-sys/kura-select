@@ -78,7 +78,7 @@ products:
     capacity: "1490g"
     pricePerUnit: "約5.8円/g"
     rating: 4.56
-    reviewCount: 254
+    reviewCount: 255
     features:
       - "植物由来成分配合の無添加液体洗濯洗剤"
       - "すすぎ1回対応で水道代と時間を節約できる"
@@ -122,7 +122,7 @@ products:
     capacity: "1000g"
     pricePerUnit: "約6.4円/g"
     rating: 4.7
-    reviewCount: 641
+    reviewCount: 643
     features:
       - "スーツ・コート・ダウン・ニット・カシミアが洗えるドライ洗剤"
       - "無香料処方で素材本来の風合いを守る"

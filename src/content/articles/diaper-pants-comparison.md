@@ -100,7 +100,7 @@ products:
     capacity: "M/L/BIG/BIGより大きいから選択、各3個パック"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 5972
+    reviewCount: 5980
     features:
       - "素早く吸収する立体ギャザー設計"
       - "通気性に優れた素材で蒸れを軽減"
@@ -188,7 +188,7 @@ products:
     capacity: "M/L/BIGから選択、3個パック"
     pricePerUnit: "0円/枚"
     rating: 4.79
-    reviewCount: 7906
+    reviewCount: 7909
     features:
       - "ドラえもんのキャラクターデザイン採用"
       - "12時間までの長時間吸収対応"

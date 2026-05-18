@@ -13,7 +13,7 @@ products:
     capacity: "40×60cm / 50×80cm"
     pricePerUnit: "円/枚"
     rating: 4.65
-    reviewCount: 3185
+    reviewCount: 3186
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"

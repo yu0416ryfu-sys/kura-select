@@ -52,9 +52,9 @@ products:
   - rank: 3
     name: "オルナオーガニック ヘアトリートメント 180g"
     brand: "ALLNA ORGANIC（イルミルド）"
-    price: 2200
+    price: 2380
     capacity: "180g"
-    pricePerUnit: "約12円/g"
+    pricePerUnit: "約13円/g"
     rating: 4.65
     reviewCount: 2202
     features:
@@ -122,7 +122,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約22円/mL"
     rating: 4.73
-    reviewCount: 1167
+    reviewCount: 1168
     features:
       - "くせ毛ケアのディシプリンラインのコンディショナータイプ"
       - "髪の広がりを抑えまとまりのある艶やかな仕上がりをもたらす処方"
@@ -166,7 +166,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約66円/mL"
     rating: 4.77
-    reviewCount: 1134
+    reviewCount: 1135
     features:
       - "エイジングケア特化のクロノロジストライン集中マスク"
       - "ダメージ補修とエイジングケアを同時にアプローチする処方"

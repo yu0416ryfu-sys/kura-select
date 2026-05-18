@@ -12,7 +12,7 @@ products:
     capacity: "32個×2箱"
     pricePerUnit: "約28円/個"
     rating: 4.79
-    reviewCount: 125
+    reviewCount: 126
     features:
       - "引き出し・衣装ケース用に最適化された設計"
       - "1年間有効で交換頻度を抑えられる"

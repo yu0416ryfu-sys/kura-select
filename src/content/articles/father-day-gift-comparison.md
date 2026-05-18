@@ -113,7 +113,7 @@ products:
       - "使うシーンが限られる人には少し贅沢に感じる場合がある"
     recommendedFor: "晩酌や食卓を少し上質にしたいお父さんへ贈りたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tddfn.3rdw6713.g00tddfn.3rdw720b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fazul%2F10000049%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fazul%2Fi%2F10000051%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/azul/cabinet/06834766/07583404/imgrc0144009698.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/azul/cabinet/06834766/07583404/imgrc0127645312.jpg?_ex=128x128"
   - rank: 6
     name: "生涯を添い遂げるマグ"
     brand: "Wired Beans"

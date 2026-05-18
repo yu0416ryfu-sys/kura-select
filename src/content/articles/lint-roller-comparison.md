@@ -121,8 +121,8 @@ products:
     price: 1890
     capacity: "1本"
     pricePerUnit: "約1890円/本"
-    rating: 4.7
-    reviewCount: 33
+    rating: 4.71
+    reviewCount: 34
     features:
       - "カーペットや衣類のホコリ取りに使える"
       - "本体または替えテープとして選べる"

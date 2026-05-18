@@ -12,7 +12,7 @@ products:
     capacity: "150g×3本"
     pricePerUnit: "約2.4円/g"
     rating: 4.66
-    reviewCount: 681
+    reviewCount: 682
     features:
       - "泡タイプの洗顔料"
       - "まとめ買いしやすいセット"
@@ -52,9 +52,9 @@ products:
   - rank: 3
     name: "【企画品】センカ パーフェクトホイップf BT21デザイン【専科】"
     brand: "資生堂（専科）"
-    price: 631
+    price: 651
     capacity: "（120g）"
-    pricePerUnit: "約5.3円/g"
+    pricePerUnit: "約5.4円/g"
     rating: 5
     reviewCount: 1
     features:

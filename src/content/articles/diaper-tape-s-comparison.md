@@ -100,7 +100,7 @@ products:
     capacity: "54枚×4個セット"
     pricePerUnit: "約33円/枚"
     rating: 4.75
-    reviewCount: 468
+    reviewCount: 469
     features:
       - "低刺激処方で敏感肌向けに配慮"
       - "安心設計のテープタイプ"

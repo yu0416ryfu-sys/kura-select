@@ -144,7 +144,7 @@ products:
     capacity: "180ml×3本"
     pricePerUnit: "約5.4円/ml"
     rating: 4.69
-    reviewCount: 1700
+    reviewCount: 1701
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"
@@ -166,7 +166,7 @@ products:
     capacity: "180ml"
     pricePerUnit: "約5.6円/ml"
     rating: 4.65
-    reviewCount: 4010
+    reviewCount: 4011
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"

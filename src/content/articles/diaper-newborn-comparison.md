@@ -11,8 +11,8 @@ products:
     price: 6680
     capacity: "248枚（62枚×4個・新生児サイズ・〜5000g）"
     pricePerUnit: "約27円/枚"
-    rating: 3.75
-    reviewCount: 4
+    rating: 3.4
+    reviewCount: 5
     features:
       - "ナチュラル素材で赤ちゃんの肌に優しい"
       - "248枚まとめ買いセットで1枚あたりコストが安い"

@@ -12,7 +12,7 @@ products:
     capacity: "38枚（BIGサイズ・12〜20kg）"
     pricePerUnit: "約40円/枚"
     rating: 5
-    reviewCount: 1
+    reviewCount: 2
     features:
       - "敏感肌向けのやわらかタッチ素材を採用"
       - "BIGサイズ12〜20kg対応で長く使える"

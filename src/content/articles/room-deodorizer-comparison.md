@@ -130,7 +130,7 @@ products:
     capacity: "2L"
     pricePerUnit: "約1397円/L"
     rating: 4.6
-    reviewCount: 16468
+    reviewCount: 16469
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"

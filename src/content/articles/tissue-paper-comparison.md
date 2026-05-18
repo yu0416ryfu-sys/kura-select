@@ -166,7 +166,7 @@ products:
     capacity: "200組×80個"
     pricePerUnit: "要更新"
     rating: 4.66
-    reviewCount: 1268
+    reviewCount: 1269
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"
@@ -188,7 +188,7 @@ products:
     capacity: "150組×50個"
     pricePerUnit: "要更新"
     rating: 4.53
-    reviewCount: 753
+    reviewCount: 755
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"

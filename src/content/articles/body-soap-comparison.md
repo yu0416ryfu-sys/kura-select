@@ -100,7 +100,7 @@ products:
     capacity: "115g"
     pricePerUnit: "約11円/g"
     rating: 4.8
-    reviewCount: 318
+    reviewCount: 319
     features:
       - "ボディソープとして使える洗浄料"
       - "継続利用しやすい定番構成"
@@ -162,9 +162,9 @@ products:
   - rank: 8
     name: "ミノン 全身シャンプー 泡タイプ 詰め替え 400mL×3袋"
     brand: "第一三共ヘルスケア（ミノン）"
-    price: 2993
+    price: 3300
     capacity: "400mL×3袋（約300回分）"
-    pricePerUnit: "約2.5円/mL"
+    pricePerUnit: "約2.8円/mL"
     rating: 4.76
     reviewCount: 89
     features:

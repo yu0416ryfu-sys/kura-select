@@ -56,7 +56,7 @@ products:
     capacity: "50本"
     pricePerUnit: "約73円/本"
     rating: 4.66
-    reviewCount: 1132
+    reviewCount: 1135
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -188,7 +188,7 @@ products:
     capacity: "10本（約10ヶ月分）"
     pricePerUnit: "約140円/本"
     rating: 4.69
-    reviewCount: 2053
+    reviewCount: 2054
     features:
       - "歯科医院でも採用される定番ブラシ"
       - "PBT毛材で耐久性が高くヘタりにくい"

@@ -56,7 +56,7 @@ products:
     capacity: "5個"
     pricePerUnit: "約660円/個"
     rating: 4.61
-    reviewCount: 5099
+    reviewCount: 5100
     features:
       - "湿気対策に使える除湿・調湿アイテム"
       - "クローゼットや押入れに置きやすい"
@@ -122,7 +122,7 @@ products:
     capacity: "12L大袋×4個セット"
     pricePerUnit: "約50円/L"
     rating: 4.65
-    reviewCount: 1040
+    reviewCount: 1039
     features:
       - "調湿木炭で繰り返し使える環境にやさしい除湿剤"
       - "天日干しで吸湿力が復活するため長期間使用可能"

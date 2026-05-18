@@ -56,7 +56,7 @@ products:
     capacity: "400mL"
     pricePerUnit: "約9.4円/mL"
     rating: 4.65
-    reviewCount: 1050
+    reviewCount: 1051
     features:
       - "天然由来成分を重視したクレンジングオイル"
       - "400mLの大容量タイプ"
@@ -100,7 +100,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約12円/mL"
     rating: 4.69
-    reviewCount: 535
+    reviewCount: 537
     features:
       - "ドクダミエキス配合のクレンジングオイル"
       - "毛穴や皮脂汚れまで落とす韓国コスメ"
@@ -210,7 +210,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約44円/mL"
     rating: 4.57
-    reviewCount: 1641
+    reviewCount: 1642
     features:
       - "発酵オイルを配合したクレンジングオイル"
       - "W洗顔不要でメイクと毛穴汚れを落とす"

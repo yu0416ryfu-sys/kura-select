@@ -12,7 +12,7 @@ products:
     capacity: "4L×3本"
     pricePerUnit: "約582円/L"
     rating: 4.67
-    reviewCount: 1571
+    reviewCount: 1572
     features:
       - "洗濯時に使う柔軟仕上げ剤"
       - "継続利用しやすい定番構成"
