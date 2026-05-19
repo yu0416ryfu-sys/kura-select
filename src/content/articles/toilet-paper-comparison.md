@@ -33,7 +33,9 @@ products:
         price: 3500
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaki-seishi%2Fmori100ms30.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/maki-seishi_mori100ms30"
-        available: true
+        available: false
+        matchStatus: "review"
+        matchNotes: "容量違い疑い: 楽天は100m×60ロール、Yahoo候補URLはmori100ms30（30ロール品の可能性）"
         updatedAt: "2026-05-18"
   - rank: 2
     name: "コアユース シングル 芯なし"

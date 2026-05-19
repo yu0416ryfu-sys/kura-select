@@ -20,6 +20,7 @@ import { readFileSync, writeFileSync, appendFileSync, readdirSync, existsSync, m
 import { resolve, join, basename, dirname } from 'path';
 import { spawnSync } from 'child_process';
 import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const VERBOSE = process.argv.includes('--verbose');
@@ -2649,6 +2650,36 @@ async function processArticle(file, articlesDir, zeroState) {
       const capacityMissing = !extractedCap && method === '[Item/Get]';
 
       updatedContent = updateProductInFrontmatter(updatedContent, name, updates);
+
+      // 商品差し替え条件: name/capacity/rakutenUrl の direct item URL が変わった場合はYahoo offerをreview化
+      if (!DRY_RUN) {
+        const nameActuallyChanged = Boolean(updates.newName) && (beforeSnapshot?.name ?? null) !== (afterSnapshot.name ?? null);
+        const capacityActuallyChanged = Boolean(updates.newCapacity) && (beforeSnapshot?.capacity ?? null) !== (afterSnapshot.capacity ?? null);
+        const beforeParsed = parseRakutenItemUrl(beforeSnapshot?.rakutenUrl ?? '');
+        const afterParsed = parseRakutenItemUrl(afterSnapshot.rakutenUrl ?? '');
+        const rakutenItemUrlChanged = Boolean(beforeParsed && afterParsed) &&
+          (beforeParsed.shopCode !== afterParsed.shopCode || beforeParsed.itemCode !== afterParsed.itemCode);
+
+        if (nameActuallyChanged || capacityActuallyChanged || rakutenItemUrlChanged) {
+          const changeReasons = [];
+          if (nameActuallyChanged) changeReasons.push(`商品名変更: "${beforeSnapshot?.name}" → "${afterSnapshot.name}"`);
+          if (capacityActuallyChanged) changeReasons.push(`容量変更: "${beforeSnapshot?.capacity}" → "${afterSnapshot.capacity}"`);
+          if (rakutenItemUrlChanged) changeReasons.push(`楽天商品URL変更`);
+          // updateProductInFrontmatter で newName が適用済みのため新名称で検索する
+          const reviewLookupName = updates.newName ?? name;
+          const reviewResult = markProviderOffersForReview(
+            updatedContent,
+            reviewLookupName,
+            'yahoo',
+            `楽天基準商品の変更によりYahoo再確認が必要: ${changeReasons.join(', ')}`
+          );
+          if (reviewResult.changed) {
+            updatedContent = reviewResult.content;
+            log(`      Yahoo offer → review（${changeReasons.join(', ')}）`);
+          }
+        }
+      }
+
       const logLines = buildProductLogLines({
         before: beforeSnapshot,
         after: afterSnapshot,

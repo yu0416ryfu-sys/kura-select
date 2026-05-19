@@ -1502,3 +1502,79 @@ describe("analyzeCapacityFromItemName", () => {
     expect(result.shouldAutoUpdate).toBe(false);
   });
 });
+
+// ─── updateProductInFrontmatter - Yahoo offer 保持 ────────────────────────
+describe("updateProductInFrontmatter - Yahoo offer 保持", () => {
+  const CONTENT_WITH_YAHOO = `---
+title: "テスト記事"
+description: "説明"
+category: test-category
+publishedAt: 2026-04-01
+products:
+  - rank: 1
+    name: "商品A"
+    brand: "ブランドA"
+    price: 5000
+    capacity: "100m×60ロール"
+    pricePerUnit: "約0.83円/m"
+    features:
+      - "特徴1"
+    pros:
+      - "メリット1"
+    cons:
+      - "デメリット1"
+    recommendedFor: "テスト対象者"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/example/"
+    imageUrl: "https://example.com/image.jpg"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 5100
+        url: "https://store.shopping.yahoo.co.jp/example/item.html"
+        available: true
+        matchStatus: "matched"
+        updatedAt: "2026-05-18"
+---
+本文
+`;
+
+  it("price 更新時に offers[] が保持される", () => {
+    const updated = updateProductInFrontmatter(CONTENT_WITH_YAHOO, "商品A", {
+      price: 4800,
+      rating: null,
+      reviewCount: null,
+      affiliateUrl: null,
+      imageUrl: null,
+    });
+    expect(updated).toContain('"yahoo"');
+    expect(updated).toContain('"matched"');
+    expect(updated).toContain("store.shopping.yahoo.co.jp");
+  });
+
+  it("imageUrl 更新時に offers[] が保持される", () => {
+    const updated = updateProductInFrontmatter(CONTENT_WITH_YAHOO, "商品A", {
+      price: null,
+      rating: null,
+      reviewCount: null,
+      affiliateUrl: null,
+      imageUrl: "https://example.com/new-image.jpg",
+    });
+    expect(updated).toContain('"yahoo"');
+    expect(updated).toContain("store.shopping.yahoo.co.jp");
+    expect(updated).toContain("new-image.jpg");
+  });
+
+  it("newCapacity 更新時に offers[] が保持される", () => {
+    const updated = updateProductInFrontmatter(CONTENT_WITH_YAHOO, "商品A", {
+      price: null,
+      rating: null,
+      reviewCount: null,
+      affiliateUrl: null,
+      imageUrl: null,
+      newCapacity: "100m×48ロール",
+    });
+    expect(updated).toContain('"yahoo"');
+    expect(updated).toContain('"matched"');
+    expect(updated).toContain("100m×48ロール");
+  });
+});

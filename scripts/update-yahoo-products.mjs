@@ -14,6 +14,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from "fs";
 import { join, resolve } from "path";
+import yaml from "js-yaml";
 import { buildSearchKeyword } from "./lib/frontmatter.ts";
 import { searchYahooShoppingItems } from "./lib/yahoo-shopping.ts";
 import { upsertYahooOfferInFrontmatter } from "./lib/yahoo-offers.ts";
@@ -108,19 +109,27 @@ function targetArticleFiles() {
   return LIMIT > 0 ? files.slice(0, LIMIT) : files;
 }
 
-// ─── frontmatter から商品リストを取得 ────────────────────────────────────────
+// ─── frontmatter から商品リストを取得（YAMLパーサー使用）────────────────────
 
 function parseProducts(content) {
   const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!match) return [];
-  const products = [];
-  const blocks = match[1].split(/\n(?=\s{2}- rank: )/);
-  for (const block of blocks) {
-    const name = block.match(/^\s{4}name:\s*["']?(.+?)["']?\s*$/m)?.[1];
-    const rank = Number(block.match(/^\s{2}-\s+rank:\s*(\d+)/m)?.[1] ?? 0);
-    if (name) products.push({ name, rank });
+  try {
+    const data = yaml.load(match[1], { schema: yaml.JSON_SCHEMA }) ?? {};
+    if (!Array.isArray(data.products)) return [];
+    return data.products
+      .filter((p) => p && typeof p.name === "string" && p.name)
+      .map((p) => ({
+        name: p.name,
+        rank: typeof p.rank === "number" ? p.rank : 0,
+        capacity: typeof p.capacity === "string" ? p.capacity : null,
+        brand: typeof p.brand === "string" ? p.brand : null,
+        rakutenUrl: typeof p.rakutenUrl === "string" ? p.rakutenUrl : null,
+        offers: Array.isArray(p.offers) ? p.offers : [],
+      }));
+  } catch {
+    return [];
   }
-  return products;
 }
 
 // ─── 商品名マッチング ────────────────────────────────────────────────────────

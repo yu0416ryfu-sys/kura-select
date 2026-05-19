@@ -1,7 +1,7 @@
 ---
 import ComparisonTableSort from "./ComparisonTableSort.tsx";
-import { ENABLE_YAHOO_AFFILIATE } from "../../lib/env";
-import { getVisibleOffers, type ProductOffer } from "../../lib/offers";
+import { getVisibleOffers, getOfferPriceSummary, type ProductOffer } from "../../lib/offers";
+const ENABLE_YAHOO_AFFILIATE = import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true";
 
 interface Product {
   rank: number;
@@ -26,6 +26,7 @@ const { products, caption = "商品比較表" } = Astro.props;
 const productsForTable = products.map((product) => ({
   ...product,
   visibleOffers: getVisibleOffers(product, { enableYahoo: ENABLE_YAHOO_AFFILIATE }),
+  priceSummary: getOfferPriceSummary(product, { enableYahoo: ENABLE_YAHOO_AFFILIATE }),
 }));
 ---
 

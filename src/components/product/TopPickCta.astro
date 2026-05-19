@@ -1,7 +1,7 @@
 ---
 import AffiliateLink from "./AffiliateLink.astro";
-import { ENABLE_YAHOO_AFFILIATE } from "../../lib/env";
-import { getVisibleOffers, type ProductOffer } from "../../lib/offers";
+import { getVisibleOffers, getOfferPriceSummary, type ProductOffer } from "../../lib/offers";
+const ENABLE_YAHOO_AFFILIATE = import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true";
 
 interface Product {
   rank: number;
@@ -23,6 +23,8 @@ interface Props {
 
 const { product } = Astro.props;
 const visibleOffers = getVisibleOffers(product, { enableYahoo: ENABLE_YAHOO_AFFILIATE });
+const priceSummary = getOfferPriceSummary(product, { enableYahoo: ENABLE_YAHOO_AFFILIATE });
+const displayPrice = priceSummary.lowestPrice ?? product.price;
 ---
 
 <div class="bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200 rounded-xl p-4 md:p-5 mb-8 shadow-sm">
@@ -51,8 +53,11 @@ const visibleOffers = getVisibleOffers(product, { enableYahoo: ENABLE_YAHOO_AFFI
         {product.name}
       </h2>
       <div class="flex items-center gap-3 mt-1.5 flex-wrap">
-        <span class="text-lg font-bold text-[var(--color-text)]">¥{product.price.toLocaleString()}</span>
-        {product.pricePerUnit && (
+        <span class="text-lg font-bold text-[var(--color-text)]">¥{displayPrice.toLocaleString()}</span>
+        {priceSummary.priceRows.length >= 2 && priceSummary.priceDifferenceLabel && (
+          <span class="text-xs text-sky-600">{priceSummary.priceDifferenceLabel}</span>
+        )}
+        {product.pricePerUnit && priceSummary.lowestProvider !== "yahoo" && (
           <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium">
             {product.pricePerUnit}
           </span>

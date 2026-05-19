@@ -6,10 +6,10 @@ import ComparisonTable from "../components/product/ComparisonTable.astro";
 import ProductCard from "../components/product/ProductCard.astro";
 import TopPickCta from "../components/product/TopPickCta.astro";
 import AffiliateLink from "../components/product/AffiliateLink.astro";
-import { ENABLE_YAHOO_AFFILIATE } from "../lib/env";
-import { getPrimaryOffer, getVisibleOffers } from "../lib/offers";
+import { getLowestOffer, getRakutenFallbackOffer, getOfferPriceSummary, getVisibleOffers } from "../lib/offers";
 import { SITE, url } from "../lib/site";
 import type { CollectionEntry } from "astro:content";
+const ENABLE_YAHOO_AFFILIATE = import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true";
 
 interface Props {
   article: CollectionEntry<"articles">;
@@ -49,9 +49,24 @@ const breadcrumbJsonLd = {
 
 const productJsonLds = data.products
   .filter((p) => p.rating !== undefined)
-  .map((p) => ({ product: p, primaryOffer: getPrimaryOffer(p, { enableYahoo: ENABLE_YAHOO_AFFILIATE }) }))
-  .filter(({ primaryOffer }) => primaryOffer !== null)
-  .map(({ product: p, primaryOffer }) => ({
+  .map((p) => {
+    // feature flag ON: 最安comparable offer。OFF: 楽天fallback。
+    // Yahoo URL + 楽天価格の組み合わせを防ぐため getLowestOffer を使う。
+    let jsonLdOffer: { price: number; url: string } | null = null;
+    if (ENABLE_YAHOO_AFFILIATE) {
+      const lowest = getLowestOffer(p, { enableYahoo: true });
+      if (lowest) jsonLdOffer = { price: lowest.price, url: lowest.url };
+    }
+    if (!jsonLdOffer) {
+      const rakuten = getRakutenFallbackOffer(p);
+      if (rakuten && typeof rakuten.price === "number" && rakuten.price > 0) {
+        jsonLdOffer = { price: rakuten.price, url: rakuten.url };
+      }
+    }
+    return { product: p, jsonLdOffer };
+  })
+  .filter(({ jsonLdOffer }) => jsonLdOffer !== null)
+  .map(({ product: p, jsonLdOffer }) => ({
     "@context": "https://schema.org",
     "@type": "Product",
     name: p.name,
@@ -61,8 +76,8 @@ const productJsonLds = data.products
     offers: {
       "@type": "Offer",
       priceCurrency: "JPY",
-      price: primaryOffer?.price ?? p.price,
-      url: primaryOffer?.url,
+      price: jsonLdOffer!.price,
+      url: jsonLdOffer!.url,
       availability: "https://schema.org/InStock",
       shippingDetails: {
         "@type": "OfferShippingDetails",
@@ -160,12 +175,17 @@ const productJsonLds = data.products
         {data.products.length > 0 && (() => {
           const top = data.products.find((p) => p.rank === 1) ?? data.products[0];
           const visibleOffers = getVisibleOffers(top, { enableYahoo: ENABLE_YAHOO_AFFILIATE });
+          const topSummary = getOfferPriceSummary(top, { enableYahoo: ENABLE_YAHOO_AFFILIATE });
+          const topDisplayPrice = topSummary.lowestPrice ?? top.price;
           return (
             <div class="mt-8 p-4 md:p-5 bg-sky-50 border border-sky-200 rounded-xl flex flex-col sm:flex-row items-start sm:items-center gap-4">
               <div class="flex-1 min-w-0">
                 <p class="text-xs font-semibold text-sky-600 mb-1">この記事の結論</p>
                 <p class="font-bold text-[var(--color-text)] text-sm leading-snug line-clamp-2">{top.name}</p>
-                <p class="text-sm text-[var(--color-text-sub)] mt-0.5">¥{top.price.toLocaleString()}{top.pricePerUnit ? `　${top.pricePerUnit}` : ""}</p>
+                <p class="text-sm text-[var(--color-text-sub)] mt-0.5">¥{topDisplayPrice.toLocaleString()}{(topSummary.lowestProvider !== "yahoo" && top.pricePerUnit) ? `　${top.pricePerUnit}` : ""}</p>
+                {topSummary.priceDifferenceLabel && (
+                  <p class="text-xs text-sky-600 mt-0.5">{topSummary.priceDifferenceLabel}</p>
+                )}
               </div>
               <div class="flex flex-col sm:flex-row gap-2">
                 {visibleOffers.map((offer) => (

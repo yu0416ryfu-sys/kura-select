@@ -10,6 +10,10 @@ const offerSchema = z.object({
   imageUrl: z.string().url().optional(),
   available: z.boolean().optional(),
   updatedAt: z.coerce.date().optional(),
+  matchStatus: z.enum(["matched", "pending", "review", "rejected"]).optional(),
+  matchConfidence: z.enum(["high", "medium", "low"]).optional(),
+  matchedCapacity: z.string().optional(),
+  matchNotes: z.string().optional(),
 });
 
 const articles = defineCollection({

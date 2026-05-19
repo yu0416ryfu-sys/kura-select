@@ -1,5 +1,12 @@
 import { useState, useMemo } from "preact/hooks";
 
+interface OfferPriceSummary {
+  lowestPrice: number | null;
+  lowestProvider: "rakuten" | "yahoo" | null;
+  priceRows: { provider: "rakuten" | "yahoo"; label: string; price: number }[];
+  priceDifferenceLabel: string | null;
+}
+
 interface Product {
   rank: number;
   name: string;
@@ -16,6 +23,7 @@ interface Product {
     label?: string;
     url: string;
   }[];
+  priceSummary?: OfferPriceSummary;
 }
 
 type SortKey = "rank" | "price" | "pricePerUnit" | "rating";
@@ -38,10 +46,9 @@ export default function ComparisonTableSort({ products, caption }: Props) {
         av = a.rank;
         bv = b.rank;
       } else if (sortKey === "price") {
-        av = a.price;
-        bv = b.price;
+        av = a.priceSummary?.lowestPrice ?? a.price;
+        bv = b.priceSummary?.lowestPrice ?? b.price;
       } else if (sortKey === "pricePerUnit") {
-        // 「約X円/m」などの文字列から数値を抽出
         const extract = (s?: string) =>
           s ? parseFloat(s.replace(/[^0-9.]/g, "")) : Infinity;
         av = extract(a.pricePerUnit);
@@ -76,6 +83,13 @@ export default function ComparisonTableSort({ products, caption }: Props) {
   const inactiveCls =
     "bg-white text-[var(--color-text-sub)] border-[var(--color-border)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]";
 
+  function lowestBadgeCls(provider: "rakuten" | "yahoo" | null | undefined) {
+    if (!provider) return "";
+    return provider === "rakuten"
+      ? "bg-amber-100 text-amber-700"
+      : "bg-sky-100 text-sky-700";
+  }
+
   return (
     <div>
       {/* ソートボタン群 */}
@@ -83,7 +97,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
         {(
           [
             { key: "rank" as SortKey, label: "おすすめ順" },
-            { key: "price" as SortKey, label: "価格順" },
+            { key: "price" as SortKey, label: "最安価格順" },
             { key: "pricePerUnit" as SortKey, label: "コスパ順" },
             { key: "rating" as SortKey, label: "評価順" },
           ] as { key: SortKey; label: string }[]
@@ -115,7 +129,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                 aria-sort={ariaSortAttr("price")}
                 onClick={() => handleSort("price")}
               >
-                価格{sortKey === "price" && <span class="ml-1">{sortDir === "asc" ? "↑" : "↓"}</span>}
+                最安価格{sortKey === "price" && <span class="ml-1">{sortDir === "asc" ? "↑" : "↓"}</span>}
               </th>
               <th class="px-4 py-3 text-left font-semibold text-[var(--color-text-sub)]">容量</th>
               <th
@@ -164,10 +178,39 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                     </div>
                   </div>
                 </td>
-                <td class="px-4 py-3 text-right font-bold">¥{p.price.toLocaleString()}</td>
+                <td class="px-4 py-3 text-right">
+                  {p.priceSummary && p.priceSummary.priceRows.length > 0 ? (
+                    <div>
+                      <div class="flex items-center justify-end gap-1.5 mb-0.5">
+                        {p.priceSummary.lowestProvider && p.priceSummary.priceRows.length >= 2 && (
+                          <span class={`text-xs font-bold px-1.5 py-0.5 rounded ${lowestBadgeCls(p.priceSummary.lowestProvider)}`}>
+                            最安
+                          </span>
+                        )}
+                        <span class="font-bold">
+                          ¥{(p.priceSummary.lowestPrice ?? p.price).toLocaleString()}
+                        </span>
+                      </div>
+                      {p.priceSummary.priceRows.length >= 2 && (
+                        <div class="text-xs text-[var(--color-text-sub)] space-y-0.5 text-right">
+                          {p.priceSummary.priceRows.map((row) => (
+                            <div key={row.provider}>
+                              {row.provider === "rakuten" ? "楽天" : "Yahoo"} ¥{row.price.toLocaleString()}
+                            </div>
+                          ))}
+                          {p.priceSummary.priceDifferenceLabel && (
+                            <div class="text-sky-600">{p.priceSummary.priceDifferenceLabel}</div>
+                          )}
+                        </div>
+                      )}
+                    </div>
+                  ) : (
+                    <span class="font-bold">¥{p.price.toLocaleString()}</span>
+                  )}
+                </td>
                 <td class="px-4 py-3 text-sm">{p.capacity}</td>
                 <td class="px-4 py-3">
-                  {p.pricePerUnit && (
+                  {p.pricePerUnit && p.priceSummary?.lowestProvider !== "yahoo" && (
                     <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium">
                       {p.pricePerUnit}
                     </span>
@@ -238,9 +281,27 @@ export default function ComparisonTableSort({ products, caption }: Props) {
               </div>
             </div>
             <div class="flex flex-wrap gap-2 mb-3 text-sm">
-              <span class="font-bold">¥{p.price.toLocaleString()}</span>
+              {p.priceSummary && p.priceSummary.priceRows.length > 0 ? (
+                <>
+                  <span class="font-bold">
+                    ¥{(p.priceSummary.lowestPrice ?? p.price).toLocaleString()}
+                  </span>
+                  {p.priceSummary.lowestProvider && p.priceSummary.priceRows.length >= 2 && (
+                    <span class={`text-xs font-bold px-1.5 py-0.5 rounded self-center ${lowestBadgeCls(p.priceSummary.lowestProvider)}`}>
+                      最安
+                    </span>
+                  )}
+                  {p.priceSummary.priceRows.length >= 2 && p.priceSummary.priceDifferenceLabel && (
+                    <span class="text-xs text-sky-600 self-center">
+                      {p.priceSummary.priceDifferenceLabel}
+                    </span>
+                  )}
+                </>
+              ) : (
+                <span class="font-bold">¥{p.price.toLocaleString()}</span>
+              )}
               <span class="text-[var(--color-text-sub)]">{p.capacity}</span>
-              {p.pricePerUnit && (
+              {p.pricePerUnit && p.priceSummary?.lowestProvider !== "yahoo" && (
                 <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium">
                   {p.pricePerUnit}
                 </span>
