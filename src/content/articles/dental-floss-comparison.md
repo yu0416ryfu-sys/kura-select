@@ -3,7 +3,7 @@ title: "デンタルフロス コスパ最強ランキング【2026年版】1本
 description: "デンタルフロス・歯間ブラシを1本あたりのコストで徹底比較。GUM・クリニカ・糸ようじ・フロアフロスなど人気10選を使いやすさ・清潔効果・コスパで解説します。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
-updatedAt: 2026-05-18
+updatedAt: 2026-05-21
 products:
   - rank: 1
     name: "Dr.デンリスト こども糸ピックス 30本入×4個"
@@ -122,7 +122,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約50円/本"
     rating: 4.78
-    reviewCount: 91
+    reviewCount: 92
     features:
       - "Y字フォルダー付きで奥歯にも届きやすい設計"
       - "院内指導用として個別包装された清潔設計"
@@ -187,8 +187,8 @@ products:
     price: 2998
     capacity: "250m"
     pricePerUnit: "約12円/m"
-    rating: 4.71
-    reviewCount: 464
+    rating: 4.7
+    reviewCount: 466
     features:
       - "384本の細い繊維を束ねた高密度フロス設計"
       - "250mの大容量でまとめ買い不要"

@@ -3,7 +3,7 @@ title: "洗濯洗剤 コスパ最強ランキング【2026年版】1回あたり
 description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉末・ジェルボール別におすすめ9選を紹介。楽天で買えるコスパ最強の洗濯洗剤を探している方必見です。"
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
-updatedAt: 2026-05-18
+updatedAt: 2026-05-21
 products:
   - rank: 1
     name: "トップ クリアリキッド 業務用 4kg×3本"
@@ -93,7 +93,7 @@ products:
       - "4本分の保管スペースが必要"
     recommendedFor: "洗浄力・ブランド信頼性を重視する方・詰め替え派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7260889%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10217201%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11514673/7280531.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/7280531.jpg?_ex=128x128"
   - rank: 5
     name: "ハイベック プレミアムドライ 1100g"
     brand: "ハイベック"
@@ -188,8 +188,8 @@ products:
     price: 3980
     capacity: "500g"
     pricePerUnit: "約8.0円/g"
-    rating: 4.67
-    reviewCount: 546
+    rating: 4.68
+    reviewCount: 549
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"

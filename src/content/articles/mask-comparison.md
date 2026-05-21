@@ -3,7 +3,7 @@ title: "使い捨てマスク コスパ最強ランキング【2026年版】1枚
 description: "使い捨て不織布マスクを1枚あたりのコストで徹底比較。超快適マスク・i:na・アイリスオーヤマ・バイキングなど人気10選を快適性・コスパで解説します。"
 category: "mask"
 publishedAt: "2026-05-03"
-updatedAt: 2026-05-18
+updatedAt: 2026-05-21
 products:
   - rank: 1
     name: "立体不織布マスク バイカラー 50枚"
@@ -12,7 +12,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約5.3円/枚"
     rating: 4.19
-    reviewCount: 22032
+    reviewCount: 22039
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -34,7 +34,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約6.0円/枚"
     rating: 4.17
-    reviewCount: 3696
+    reviewCount: 3698
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -56,7 +56,7 @@ products:
     capacity: "51枚"
     pricePerUnit: "約7.8円/枚"
     rating: 4.22
-    reviewCount: 5742
+    reviewCount: 5744
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -100,7 +100,7 @@ products:
     capacity: "20枚"
     pricePerUnit: "約14円/枚"
     rating: 4.06
-    reviewCount: 9158
+    reviewCount: 9161
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"

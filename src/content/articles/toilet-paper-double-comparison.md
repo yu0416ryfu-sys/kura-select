@@ -3,7 +3,7 @@ title: "トイレットペーパー ダブル コスパランキング【2026年
 description: "ダブルのトイレットペーパーを1mあたりの価格で比較。2倍巻き・3倍巻き・肌触り重視の商品からおすすめ6選を紹介します。"
 category: "toilet-paper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-18
+updatedAt: 2026-05-21
 products:
   - rank: 1
     name: "再生紙トイレットペーパー ダブル"
@@ -12,7 +12,7 @@ products:
     capacity: "27.5m×12ロール×8パック（96ロール）"
     pricePerUnit: "約1.2円/m"
     rating: 4.58
-    reviewCount: 3457
+    reviewCount: 3461
     features:
       - "再生紙を使ったダブルタイプ"
       - "無地・無印刷で日常使いしやすい"
@@ -34,7 +34,7 @@ products:
     capacity: "75m×4ロール×12パック（3倍巻き）"
     pricePerUnit: "約1.6円/m"
     rating: 4.75
-    reviewCount: 889
+    reviewCount: 890
     features:
       - "3倍長持ち設計で交換頻度が大幅に減る"
       - "ダブルタイプで使い心地が良い"
@@ -100,7 +100,7 @@ products:
     capacity: "45m×12ロール×6個"
     pricePerUnit: "約2.0円/m"
     rating: 4.51
-    reviewCount: 584
+    reviewCount: 585
     features:
       - "パルプ100%の柔らかなダブルタイプ"
       - "エリエールブランドの高品質紙質"
@@ -121,8 +121,8 @@ products:
     price: 598
     capacity: "40m×4ロール"
     pricePerUnit: "約3.7円/m"
-    rating: 4.82
-    reviewCount: 159
+    rating: 4.81
+    reviewCount: 160
     features:
       - "トリートメント配合で肌に優しい"
       - "長めシート設計で少量でも十分"

@@ -3,7 +3,7 @@ title: "コットン コスパ最強ランキング【2026年版】10選 1枚あ
 description: "コットン・コットンパッドを1枚あたりのコストで比較。ビオレ・シルコットなど11商品を肌触り・コスパで解説します。"
 category: "cotton"
 publishedAt: "2026-05-03"
-updatedAt: 2026-05-18
+updatedAt: 2026-05-21
 products:
   - rank: 1
     name: "コットンパフ カット綿 大判"

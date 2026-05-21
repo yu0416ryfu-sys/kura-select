@@ -3,7 +3,7 @@ title: "おしりふき コスパ最強ランキング【2026年版】10選"
 description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比較。ムーニー、パンパース、グーン、レックなど人気メーカーの商品を肌優しさ・容量・単価で徹底比較。"
 category: "baby-wipes"
 publishedAt: "2026-05-17"
-updatedAt: 2026-05-18
+updatedAt: "2026-05-21"
 draft: false
 products:
   - rank: 1
@@ -30,6 +30,15 @@ products:
     recommendedFor: "肌への優しさと価格のバランスを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhjwn.3rdw671d.g00uhjwn.3rdw7aba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faeonstyleonline%2Fp-4902011831931%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faeonstyleonline%2Fi%2F10002076%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aeonstyleonline/cabinet/thumbnailimg/kids/p-490201183193100.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 3381
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902011831924x4.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902011831924x4"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-21"
   - rank: 2
     name: "おしりナップ やわらか厚手仕上げ 限定デザイン"
     brand: "ピジョン"
@@ -37,7 +46,7 @@ products:
     capacity: "80枚×40個"
     pricePerUnit: "約1.3円/枚"
     rating: 4.77
-    reviewCount: 7348
+    reviewCount: 7357
     features:
       - "天然由来成分のシアバター、アロエエキス配合"
       - "99%が水分で肌に優しい処方"
@@ -52,6 +61,15 @@ products:
     recommendedFor: "新生児～でき肌が敏感な赤ちゃん、天然由来成分を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgivn.3rdw6956.g00tgivn.3rdw72f6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpigeon-shop%2F2000363s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpigeon-shop%2Fi%2F10001747%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pigeon-shop/cabinet/thumb/11827558/1039243.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 4070
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpigeon-shop%2F2000363s.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_2000363s"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-21"
   - rank: 3
     name: "おしりふき ふんわり 菌99.9除去 大容量"
     brand: "レック"
@@ -98,6 +116,15 @@ products:
     recommendedFor: "毎日大量に使う方、長く使い続けたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F100695%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10001904%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/care/100695.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 2169
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftoysrus-babierus%2F741512500.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/toysrus-babierus_741512500"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-21"
   - rank: 5
     name: "おしりふき 手口ふき シンプル"
     brand: "and mom"
@@ -120,6 +147,15 @@ products:
     recommendedFor: "シンプルで経済的な選択肢を求める方、環境への配慮を重視する家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t960n.3rdw6406.g00t960n.3rdw7aa2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foga13%2Foshirihuki24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foga13%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oga13/cabinet/thumbnail2025/oshirihuki24_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 1100
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftakeya-official%2F3110915050.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/takeya-official_3110915050"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-21"
   - rank: 6
     name: "おしりふき 厚手 水99.9% ネット限定デザイン"
     brand: "レック"
@@ -127,7 +163,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.3円/枚"
     rating: 4.84
-    reviewCount: 2595
+    reviewCount: 2604
     features:
       - "99.9%の純水成分で肌に優しい"
       - "厚手シートで吸収性が優れている"
@@ -171,7 +207,7 @@ products:
     capacity: "54枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.61
-    reviewCount: 3726
+    reviewCount: 3732
     features:
       - "菌を99.9%除去する除菌処理"
       - "厚手タイプで吸収性が高い"
@@ -193,7 +229,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.4
-    reviewCount: 1588
+    reviewCount: 1590
     features:
       - "トイレに流せる素材で処理が簡単"
       - "菌を99.9%除去する除菌効果"
