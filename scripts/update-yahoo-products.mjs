@@ -15,7 +15,12 @@
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from "fs";
 import { join, resolve } from "path";
 import yaml from "js-yaml";
-import { buildSearchKeyword } from "./lib/frontmatter.ts";
+import {
+  buildSearchKeyword,
+  extractCapacityFromItemName,
+  extractCapacityTotal,
+  normalizeCapacityTotal,
+} from "./lib/frontmatter.ts";
 import { searchYahooShoppingItems } from "./lib/yahoo-shopping.ts";
 import { upsertYahooOfferInFrontmatter } from "./lib/yahoo-offers.ts";
 
@@ -152,6 +157,44 @@ function isLikelySameProduct(currentName, candidateName) {
   return matched >= Math.min(2, tokens.length);
 }
 
+// ─── 容量比較 helper ─────────────────────────────────────────────────────────
+
+function toComparableCapacity(capacity) {
+  return normalizeCapacityTotal(extractCapacityTotal(capacity ?? ""));
+}
+
+function isSameComparableCapacity(a, b) {
+  const aTotal = toComparableCapacity(a);
+  const bTotal = toComparableCapacity(b);
+  return Boolean(
+    aTotal &&
+    bTotal &&
+    aTotal.total === bTotal.total &&
+    aTotal.unit.toLowerCase() === bTotal.unit.toLowerCase()
+  );
+}
+
+function evaluateYahooCandidate(product, candidate) {
+  if (!isLikelySameProduct(product.name, candidate.name)) {
+    return { ok: false, reason: "商品名トークン不一致" };
+  }
+
+  const currentCapacity = product.capacity;
+  const candidateCapacity = extractCapacityFromItemName(candidate.name);
+
+  if (!currentCapacity) {
+    return { ok: false, reason: "既存capacityなし" };
+  }
+  if (!candidateCapacity) {
+    return { ok: false, reason: "Yahoo候補からcapacity抽出不可", candidateCapacity: null };
+  }
+  if (!isSameComparableCapacity(currentCapacity, candidateCapacity)) {
+    return { ok: false, reason: "capacity不一致", candidateCapacity };
+  }
+
+  return { ok: true, reason: "capacity一致", candidateCapacity };
+}
+
 // ─── 並列処理プール ──────────────────────────────────────────────────────────
 
 async function runWithConcurrency(tasks, concurrency) {
@@ -186,17 +229,38 @@ async function processArticle(file) {
 
     try {
       const candidates = await searchYahooShoppingItems(query, { ...env, results: 5 });
-      const selected = candidates.find((c) => isLikelySameProduct(product.name, c.name));
+
+      let selected = null;
+      const rejectedReasons = [];
+      for (const c of candidates) {
+        const evaluation = evaluateYahooCandidate(product, c);
+        if (evaluation.ok) {
+          selected = c;
+          lines.push("- decision: auto");
+          lines.push(`- candidate: ${c.name}`);
+          lines.push(`- price: ${c.price ?? "-"}`);
+          lines.push(`- url: ${c.url}`);
+          const candidateCap = evaluation.candidateCapacity ?? "-";
+          const currentCap = product.capacity ?? "-";
+          lines.push(`- capacity: ${currentCap} -> ${toComparableCapacity(currentCap)?.total ?? "-"}${toComparableCapacity(currentCap)?.unit ?? ""}`);
+          lines.push(`- candidate capacity: ${candidateCap} -> ${toComparableCapacity(candidateCap)?.total ?? "-"}${toComparableCapacity(candidateCap)?.unit ?? ""}`);
+          break;
+        } else {
+          rejectedReasons.push({ name: c.name, reason: evaluation.reason, candidateCapacity: evaluation.candidateCapacity ?? null });
+        }
+      }
 
       if (!selected) {
         lines.push("- decision: review");
         lines.push(`- candidates: ${candidates.length}`);
+        for (const r of rejectedReasons.slice(0, 5)) {
+          lines.push(`- rejected: ${r.name}`);
+          lines.push(`  - reason: ${r.reason}`);
+          if (r.candidateCapacity) {
+            lines.push(`  - candidate capacity: ${r.candidateCapacity}`);
+          }
+        }
       } else {
-        lines.push("- decision: auto");
-        lines.push(`- candidate: ${selected.name}`);
-        lines.push(`- price: ${selected.price ?? "-"}`);
-        lines.push(`- url: ${selected.url}`);
-
         if (!DRY_RUN) {
           const result = upsertYahooOfferInFrontmatter(content, product.name, selected, today);
           if (result.changed) content = result.content;
