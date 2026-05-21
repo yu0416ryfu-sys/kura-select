@@ -82,6 +82,14 @@ export default function ComparisonTableSort({ products, caption }: Props) {
     "bg-[var(--color-primary)] text-white border-[var(--color-primary)]";
   const inactiveCls =
     "bg-white text-[var(--color-text-sub)] border-[var(--color-border)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]";
+  const desktopPriceRowCls =
+    "grid grid-cols-[38px_68px_112px] items-center gap-2";
+  const mobilePriceRowCls =
+    "grid grid-cols-[36px_minmax(70px,1fr)_132px] items-center gap-2";
+  const purchaseButtonCls =
+    "whitespace-nowrap inline-flex items-center justify-center gap-1 text-white text-xs px-2.5 py-1.5 rounded-lg font-medium hover:opacity-90 transition-opacity min-h-[32px] w-[112px]";
+  const mobilePurchaseButtonCls =
+    "whitespace-nowrap inline-flex items-center justify-center gap-1 text-white text-sm px-3 py-2 rounded-lg font-medium hover:opacity-90 transition-opacity min-h-[40px] w-full";
 
   function lowestBadgeCls(provider: "rakuten" | "yahoo") {
     return provider === "rakuten"
@@ -117,29 +125,29 @@ export default function ComparisonTableSort({ products, caption }: Props) {
 
       {/* テーブル(PC) */}
       <div class="hidden md:block overflow-x-auto rounded-xl border border-[var(--color-border)]">
-        <table class="w-full text-sm">
+        <table class="w-full min-w-[800px] text-sm">
           <caption class="sr-only">{caption}</caption>
           <thead class="bg-[var(--color-surface)] sticky top-0">
             <tr>
-              <th class="px-4 py-3 text-left font-semibold text-[var(--color-text-sub)] w-12">順位</th>
-              <th class="px-4 py-3 text-left font-semibold text-[var(--color-text-sub)]">商品名</th>
+              <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] whitespace-nowrap w-12">順位</th>
+              <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] min-w-[220px]">商品名</th>
               <th
-                class="px-4 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[260px]"
+                class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[258px] whitespace-nowrap"
                 aria-sort={ariaSortAttr("price")}
                 onClick={() => handleSort("price")}
               >
                 価格・購入{sortKey === "price" && <span class="ml-1">{sortDir === "asc" ? "↑" : "↓"}</span>}
               </th>
-              <th class="px-4 py-3 text-left font-semibold text-[var(--color-text-sub)]">容量</th>
+              <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] min-w-[66px] whitespace-nowrap">容量</th>
               <th
-                class="px-4 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none"
+                class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[88px] whitespace-nowrap"
                 aria-sort={ariaSortAttr("pricePerUnit")}
                 onClick={() => handleSort("pricePerUnit")}
               >
                 コスパ{sortKey === "pricePerUnit" && <span class="ml-1">{sortDir === "asc" ? "↑" : "↓"}</span>}
               </th>
               <th
-                class="px-4 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none"
+                class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[82px] whitespace-nowrap"
                 aria-sort={ariaSortAttr("rating")}
                 onClick={() => handleSort("rating")}
               >
@@ -155,8 +163,8 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                   : [{ provider: "rakuten" as const, url: p.rakutenUrl }];
               const multiOffer = offers.length > 1;
               return (
-                <tr key={p.name} class={i % 2 === 0 ? "bg-white" : "bg-[var(--color-surface)]"}>
-                  <td class="px-4 py-3 text-center">
+                <tr key={p.name} class={`${i % 2 === 0 ? "bg-white" : "bg-[var(--color-surface)]"} border-t border-[var(--color-border)]/70 hover:bg-[var(--color-primary)]/5 transition-colors`}>
+                  <td class="px-3 py-3 text-center">
                     <span class={`inline-flex items-center justify-center w-7 h-7 rounded-full text-xs font-bold ${
                       p.rank === 1 ? "bg-amber-400 text-white" :
                       p.rank === 2 ? "bg-slate-400 text-white" :
@@ -166,7 +174,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                       {p.rank}
                     </span>
                   </td>
-                  <td class="px-4 py-3">
+                  <td class="px-3 py-3">
                     <div class="flex items-center gap-2">
                       <img
                         src={p.imageUrl || "/placeholder/product-default.svg"}
@@ -182,8 +190,8 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                       </div>
                     </div>
                   </td>
-                  <td class="px-4 py-3">
-                    <div class="space-y-1.5">
+                  <td class="px-3 py-3 align-middle">
+                    <div class="space-y-2">
                       {offers.map((offer) => {
                         const priceRow = p.priceSummary?.priceRows.find(
                           (r) => r.provider === offer.provider
@@ -196,17 +204,16 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                           price != null &&
                           price === p.priceSummary.lowestPrice;
                         return (
-                          <div key={offer.provider} class="flex items-center gap-2">
-                            {multiOffer && (
-                              <span
-                                class={`text-xs font-bold px-1.5 py-0.5 rounded text-center min-w-[30px] ${
-                                  isLowest ? lowestBadgeCls(offer.provider) : "invisible"
-                                }`}
-                              >
-                                最安
-                              </span>
-                            )}
-                            <span class="font-bold tabular-nums">
+                          <div key={offer.provider} class={desktopPriceRowCls}>
+                            <span
+                              aria-hidden={!multiOffer || !isLowest}
+                              class={`text-xs font-bold px-1.5 py-0.5 rounded text-center w-[38px] whitespace-nowrap ${
+                                multiOffer && isLowest ? lowestBadgeCls(offer.provider) : "invisible"
+                              }`}
+                            >
+                              最安
+                            </span>
+                            <span class="font-bold tabular-nums text-right whitespace-nowrap">
                               {price != null ? `¥${price.toLocaleString()}` : "価格確認"}
                             </span>
                             <a
@@ -214,7 +221,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                               rel="sponsored nofollow noopener"
                               target="_blank"
                               aria-label={`${p.name}を${offer.provider === "rakuten" ? "楽天市場" : "Yahoo!ショッピング"}で購入（別タブで開く）`}
-                              class={`whitespace-nowrap inline-flex items-center justify-center gap-1 text-white text-xs px-3 py-1.5 rounded-lg font-medium hover:opacity-90 transition-opacity min-h-[32px] ${
+                              class={`${purchaseButtonCls} ${
                                 offer.provider === "rakuten"
                                   ? "bg-[var(--color-warning)]"
                                   : "bg-[var(--color-primary)]"
@@ -234,17 +241,17 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                       })}
                     </div>
                   </td>
-                  <td class="px-4 py-3 text-sm">{p.capacity}</td>
-                  <td class="px-4 py-3">
+                  <td class="px-3 py-3 text-sm whitespace-nowrap align-middle">{p.capacity}</td>
+                  <td class="px-3 py-3 align-middle">
                     {p.pricePerUnit && p.priceSummary?.lowestProvider !== "yahoo" && (
-                      <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium">
+                      <span class="inline-flex min-w-[78px] justify-center bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium whitespace-nowrap">
                         {p.pricePerUnit}
                       </span>
                     )}
                   </td>
-                  <td class="px-4 py-3">
+                  <td class="px-3 py-3 align-middle">
                     {p.rating !== undefined && (
-                      <div class="flex items-center gap-1">
+                      <div class="flex items-center gap-1 whitespace-nowrap">
                         <span class="text-[var(--color-warning)]">★</span>
                         <span class="font-medium">{p.rating.toFixed(1)}</span>
                         {p.reviewCount !== undefined && (
@@ -294,9 +301,9 @@ export default function ComparisonTableSort({ products, caption }: Props) {
               </div>
               {/* 容量・コスパ・評価 */}
               <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                <span class="text-[var(--color-text-sub)]">{p.capacity}</span>
+                <span class="text-[var(--color-text-sub)] whitespace-nowrap">{p.capacity}</span>
                 {p.pricePerUnit && p.priceSummary?.lowestProvider !== "yahoo" && (
-                  <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium">
+                  <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium whitespace-nowrap">
                     {p.pricePerUnit}
                   </span>
                 )}
@@ -321,17 +328,16 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                     price != null &&
                     price === p.priceSummary.lowestPrice;
                   return (
-                    <div key={offer.provider} class="flex items-center gap-2">
-                      {multiOffer && (
-                        <span
-                          class={`text-xs font-bold px-1.5 py-0.5 rounded text-center min-w-[30px] shrink-0 ${
-                            isLowest ? lowestBadgeCls(offer.provider) : "invisible"
-                          }`}
-                        >
-                          最安
-                        </span>
-                      )}
-                      <span class="font-bold tabular-nums text-sm flex-1">
+                    <div key={offer.provider} class={mobilePriceRowCls}>
+                      <span
+                        aria-hidden={!multiOffer || !isLowest}
+                        class={`text-xs font-bold px-1.5 py-0.5 rounded text-center w-9 whitespace-nowrap ${
+                          multiOffer && isLowest ? lowestBadgeCls(offer.provider) : "invisible"
+                        }`}
+                      >
+                        最安
+                      </span>
+                      <span class="font-bold tabular-nums text-sm whitespace-nowrap">
                         {price != null ? `¥${price.toLocaleString()}` : "価格確認"}
                       </span>
                       <a
@@ -339,7 +345,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                         rel="sponsored nofollow noopener"
                         target="_blank"
                         aria-label={`${p.name}を${offer.provider === "rakuten" ? "楽天市場" : "Yahoo!ショッピング"}で購入（別タブで開く）`}
-                        class={`whitespace-nowrap inline-flex items-center justify-center gap-1 text-white text-sm px-3 py-2 rounded-lg font-medium hover:opacity-90 transition-opacity min-h-[40px] ${
+                        class={`${mobilePurchaseButtonCls} ${
                           offer.provider === "rakuten"
                             ? "bg-[var(--color-warning)]"
                             : "bg-[var(--color-primary)]"
