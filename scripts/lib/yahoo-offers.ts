@@ -37,7 +37,8 @@ export function upsertYahooOfferInFrontmatter(
   content: string,
   productName: string,
   candidate: YahooOfferCandidate,
-  updatedAt: string
+  updatedAt: string,
+  options: { capacityVerified?: boolean } = {}
 ): YahooOfferUpdateResult {
   const parsed = parseFrontmatter(content);
   if (!parsed || !Array.isArray(parsed.data.products)) {
@@ -78,17 +79,32 @@ export function upsertYahooOfferInFrontmatter(
         updatedAt,
       };
     } else if (existingMatchStatus === "pending") {
-      // pending: 同一URLなら更新可、別URLはスキップ
-      if (existingUrl !== candidate.url) {
-        return { content, changed: false, reason: "pendingの別URL候補はレポートのみ、既存値を維持" };
+      const urlChanged = existingUrl !== candidate.url;
+      if (urlChanged) {
+        // 容量確認済みの場合のみ別URL候補で pending を差し替える（誤追加修正）
+        if (!options.capacityVerified) {
+          return { content, changed: false, reason: "pendingの別URL候補はレポートのみ、既存値を維持" };
+        }
       }
-      offers[existingIndex] = {
+      const newOffer: Record<string, unknown> = {
         ...existing,
-        price: candidate.price ?? existing.price,
-        imageUrl: candidate.imageUrl ?? existing.imageUrl,
+        label: candidate.label,
+        url: candidate.url,
         available: candidate.available,
         updatedAt,
       };
+      if (urlChanged) {
+        // URL変更時: 旧商品のデータを引き継がない。null はフィールドを削除してスキーマ違反を防ぐ
+        if (candidate.price != null) newOffer.price = candidate.price;
+        else delete newOffer.price;
+        if (candidate.imageUrl != null) newOffer.imageUrl = candidate.imageUrl;
+        else delete newOffer.imageUrl;
+      } else {
+        // 同一URL更新: API が一時的に null を返す場合は既存値を維持
+        newOffer.price = candidate.price ?? existing.price;
+        newOffer.imageUrl = candidate.imageUrl ?? existing.imageUrl;
+      }
+      offers[existingIndex] = newOffer;
     } else {
       return { content, changed: false, reason: `不明なmatchStatus: ${existingMatchStatus}` };
     }

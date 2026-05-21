@@ -262,7 +262,7 @@ async function processArticle(file) {
         }
       } else {
         if (!DRY_RUN) {
-          const result = upsertYahooOfferInFrontmatter(content, product.name, selected, today);
+          const result = upsertYahooOfferInFrontmatter(content, product.name, selected, today, { capacityVerified: true });
           if (result.changed) content = result.content;
           else lines.push(`- write skipped: ${result.reason ?? "unchanged"}`);
         }

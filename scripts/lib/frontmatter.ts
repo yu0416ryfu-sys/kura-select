@@ -392,6 +392,25 @@ export function isMultiMeasureVariantItemName(itemName: string): boolean {
  */
 export function extractCapacityFromItemName(itemName: string): string | null {
   itemName = normalizeItemName(itemName);
+  // 先頭の【N個/セット/パック】を乗算子として処理
+  // 例: "【2個】ビオレ 500mL" → "500mL×2個"（乗数が未内包なので折り込む）
+  // 例: "【12個】グーン 70枚×12P" → "70枚×12"（×12に既に内包されているのでそのまま）
+  const leadingCountRe = /^【(\d[\d,]*)(?:個|セット|パック)】\s*/;
+  const leadingCountM = itemName.match(leadingCountRe);
+  if (leadingCountM) {
+    const multiplierStr = leadingCountM[1];
+    const multiplierNum = parseInt(multiplierStr.replace(/,/g, ''), 10);
+    const countUnit = (leadingCountM[0].match(/個|セット|パック/) ?? ['個'])[0];
+    const rest = itemName.slice(leadingCountM[0].length);
+    const restCap = rest ? extractCapacityFromItemName(rest) : null;
+    if (restCap) {
+      // multiplierNum が restCap のチェーンに既に含まれているか確認
+      const embedded = new RegExp(`[×xX*＊]\\s*${multiplierNum}(?:[^\\d]|$)`).test(restCap);
+      return embedded ? restCap : `${restCap}×${multiplierStr}${countUnit}`;
+    }
+    // rest から抽出できない場合はブラケットを除去して後続パターンで処理
+    itemName = rest;
+  }
   // パターン0: 括弧内に総枚数と内訳があるケース
   // 例: "45L 1セット（1000枚：100枚×10パック）" → "（1000枚）"
   const bracketTotalWithBreakdownRe = new RegExp(`[（(][^）)]*?([\\d,]+)\\s*(${CAPACITY_UNITS})\\s*[：:][^）)]*[）)]`);
