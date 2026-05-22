@@ -123,7 +123,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujiyaku%2F4903111159802-4.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4903111159802-4"
         available: true
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-05-22"
   - rank: 5
     name: "おしりふき 手口ふき シンプル"
