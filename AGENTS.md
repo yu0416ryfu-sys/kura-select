@@ -70,12 +70,20 @@ KuraSelect/
 │  ├ deploy.yml              # main push で Pages にデプロイ
 │  └ update-products.yml     # 月曜 12:00 JST に楽天 API 同期 → commit → deploy
 ├ Codex/                # ローカル作業メモ（.gitignore 済み、Codex が触らない）
+├ data/
+│  └ rag/                    # RAG データ（export-ai-rag で生成。products / capacity-patterns / match-decisions / category-rules）
+├ docs/
+│  └ AI_OPERATIONS.md        # AI 運用手順書（RAG・MCP・照合フロー）
 ├ tests/
-│  └ frontmatter.test.ts     # frontmatter ライブラリの Vitest スイート
+│  ├ frontmatter.test.ts     # frontmatter ライブラリの Vitest スイート
+│  └ mcp-content-tools.test.ts  # MCP content-tools の Vitest スイート
 ├ public/                    # 静的アセット（favicon, placeholder, og 画像出力先）
 ├ scripts/
 │  ├ generate-ogp.mjs        # OGP 画像生成（ビルド前自動実行）
 │  ├ update-products.mjs     # 楽天 API から商品情報を更新
+│  ├ mcp/
+│  │  ├ kura-content-mcp.mjs  # 読み取り専用 MCP サーバー（stdio）
+│  │  └ lib/content-tools.ts  # MCP ツール実装
 │  └ lib/frontmatter.ts      # frontmatter 操作ユーティリティ
 └ src/
    ├ content.config.ts       # Zod スキーマ（articles / categories）★唯一の正
@@ -108,7 +116,7 @@ KuraSelect/
 
 ### 5.1 スキーマは `src/content.config.ts` が唯一の正
 
-記事 (`articles`) と カテゴリ (`categories`) のスキーマは Zod で定義されています。**スキーマを変更する場合は既存の 53 記事すべてに影響する**ことを意識し、必ず破壊的影響を見積もったうえでユーザーに確認してください。
+記事 (`articles`) と カテゴリ (`categories`) のスキーマは Zod で定義されています。**スキーマを変更する場合は既存の 63 記事すべてに影響する**ことを意識し、必ず破壊的影響を見積もったうえでユーザーに確認してください。
 
 主要バリデーション:
 - `title`: 最大 **60 文字**
@@ -220,7 +228,7 @@ Lighthouse の **Performance / SEO / Accessibility / Best Practices すべて 95
 
 ## 12. テスト
 
-- 現状のテストは `tests/frontmatter.test.ts`（`scripts/lib/frontmatter.ts` のユーティリティを対象、`pnpm test` で実行可）。
+- テストは `tests/frontmatter.test.ts`（frontmatter ユーティリティ）と `tests/mcp-content-tools.test.ts`（MCP content-tools）の 2 ファイル（`pnpm test` で実行可）。
 - 追加するなら優先順位は次の通り:
   1. `src/lib/rakuten.ts` のロジック関数（現在スタブ、実装と並行で）
   2. Zod スキーマの境界値（title 60 文字、description 160 文字、`rakutenUrl` の URL 検証など）
@@ -240,6 +248,9 @@ Lighthouse の **Performance / SEO / Accessibility / Best Practices すべて 95
 7. `node_modules`, `dist`, `.astro/` は触らない・読まない（時間の無駄）
 8. 大きな変更は `pnpm build` を回して Zod / TS / OGP 全工程が通ることを確認
 9. このリポジトリは原則 UTF-8。PowerShell の `Get-Content` では日本語が表示上文字化けすることがあるため、文字化けをファイル破損と即断しない。日本語内容を確認する場合は `Get-Content -Encoding utf8` と UTF-8 出力設定を使う。文字化けして見える本文を推測で編集しない。
+10. `data/rag/` は `pnpm export-ai-rag` で自動生成されるため直接編集しない。更新後は `data/rag/summary.json` で記事数・商品数を確認する。
+11. `scripts/mcp/kura-content-mcp.mjs` は**読み取り専用**の MCP サーバー。書き込み操作は既存スクリプト（`update-products.mjs` など）経由で行う。
+12. `reports/` は `.gitignore` 済み。レポートファイルはコミットしない。
 
 ---
 
