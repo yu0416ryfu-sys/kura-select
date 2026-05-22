@@ -251,6 +251,42 @@ products:
       expect(result.strictMatch).toBe(true);
     });
 
+    it("送り仮名ゆれ: 商品名「詰め替え」と候補名「詰替」で strictMatch: true になる", () => {
+      const result = evaluateYahooCandidate(
+        { name: "ムーニー おしりふき やわらか素材 詰め替え", capacity: "76枚×32個", brand: "ムーニー" },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "ムーニーおしりふきやわらか素材　詰替　76枚×8個入り×4パック　PP",
+          price: 3731,
+          url: "https://example.com/e",
+          imageUrl: null,
+          available: true,
+          sellerName: null,
+        }
+      );
+      expect(result.ok).toBe(true);
+      expect(result.strictMatch).toBe(true);
+    });
+
+    it("送り仮名ゆれ: 一般語のひらがな除去では strictMatch を通さない", () => {
+      const result = evaluateYahooCandidate(
+        { name: "ムーニー おしりふき やわらか素材", capacity: "76枚×32個", brand: "ムーニー" },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "ムーニーおしりふき素材　76枚×8個入り×4パック",
+          price: 3731,
+          url: "https://example.com/f",
+          imageUrl: null,
+          available: true,
+          sellerName: null,
+        }
+      );
+      expect(result.ok).toBe(true);
+      expect(result.strictMatch).toBe(false);
+    });
+
     it("capacity 不一致 → ok: false", () => {
       const result = evaluateYahooCandidate(baseProduct, {
         provider: "yahoo",

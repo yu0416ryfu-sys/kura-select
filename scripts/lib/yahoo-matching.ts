@@ -74,6 +74,18 @@ export function isSameComparableCapacity(
   );
 }
 
+/** 送り仮名ゆれの既知マッピング。直接 includes が失敗したトークンのフォールバック候補を返す */
+const OKURIGANA_TOKEN_ALIASES: Readonly<Record<string, readonly string[]>> = {
+  "詰め替え": ["詰替"],
+  "つめかえ": ["詰替", "詰め替え"],
+  "取り替え": ["取替"],
+  "取替え":   ["取替"],
+};
+
+function getOkuriganaAliases(token: string): readonly string[] {
+  return OKURIGANA_TOKEN_ALIASES[token] ?? [];
+}
+
 export function evaluateYahooCandidate(
   product: ProductForMatching,
   candidate: YahooOfferCandidate
@@ -122,7 +134,11 @@ export function evaluateYahooCandidate(
   // 候補名をそのまま小文字化する。後半にブランド名が出る商品名で切り捨てが起きるのを防ぐ。
   const tokens = normalizeTokens(product.name);
   const normCandidate = candidate.name.toLowerCase();
-  const allTokensMatch = tokens.length > 0 && tokens.every((t) => normCandidate.includes(t));
+  // 送り仮名ゆれ対応: 直接一致しない場合のみ既知 alias でフォールバック照合する
+  const allTokensMatch = tokens.length > 0 && tokens.every((t) => {
+    if (normCandidate.includes(t)) return true;
+    return getOkuriganaAliases(t).some((alias) => normCandidate.includes(alias));
+  });
   // 案A: brand フィールドがある場合は matched 昇格の追加条件として照合する
   // ok 判定には影響させない（品種・パッケージ違いをブロックするための追加ゲート）
   // brand は buildSearchKeyword で括弧エイリアスを除去して正規化する。
