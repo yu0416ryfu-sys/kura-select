@@ -1,26 +1,13 @@
 import { describe, it, expect } from "vitest";
 import {
   extractCapacityFromItemName,
-  extractCapacityTotal,
-  normalizeCapacityTotal,
 } from "../scripts/lib/frontmatter";
 import { upsertYahooOfferInFrontmatter } from "../scripts/lib/yahoo-offers";
-
-// update-yahoo-products.mjs の helper と同じロジックをここで検証する
-function toComparableCapacity(capacity: string | null | undefined) {
-  return normalizeCapacityTotal(extractCapacityTotal(capacity ?? ""));
-}
-
-function isSameComparableCapacity(a: string | null | undefined, b: string | null | undefined): boolean {
-  const aTotal = toComparableCapacity(a);
-  const bTotal = toComparableCapacity(b);
-  return Boolean(
-    aTotal &&
-    bTotal &&
-    aTotal.total === bTotal.total &&
-    aTotal.unit.toLowerCase() === bTotal.unit.toLowerCase()
-  );
-}
+import {
+  toComparableCapacity,
+  isSameComparableCapacity,
+  evaluateYahooCandidate,
+} from "../scripts/lib/yahoo-matching";
 
 describe("Yahoo候補の容量照合", () => {
   describe("isSameComparableCapacity", () => {
@@ -175,6 +162,107 @@ products:
       expect(result.content).not.toMatch(/price:\s*3000/);
       // null をそのまま書き込まない（スキーマ違反防止）
       expect(result.content).not.toContain("price: null");
+    });
+
+    it("capacityVerified: true, strictMatch: true, 同一URL のとき matched に昇格する", () => {
+      const sameCandidate = { ...candidate, url: "https://example.com/old" };
+      const result = upsertYahooOfferInFrontmatter(BASE_FM, "商品A", sameCandidate, "2026-05-22", {
+        capacityVerified: true,
+        strictMatch: true,
+      });
+      expect(result.changed).toBe(true);
+      expect(result.content).toContain('matchStatus: "matched"');
+    });
+
+    it("capacityVerified: true でも strictMatch: false なら pending のまま", () => {
+      const sameCandidate = { ...candidate, url: "https://example.com/old" };
+      const result = upsertYahooOfferInFrontmatter(BASE_FM, "商品A", sameCandidate, "2026-05-22", {
+        capacityVerified: true,
+        strictMatch: false,
+      });
+      expect(result.changed).toBe(true);
+      expect(result.content).toContain('matchStatus: "pending"');
+    });
+
+    it("strictMatch: true でも別URL のとき matched に昇格しない（pending のまま）", () => {
+      const result = upsertYahooOfferInFrontmatter(BASE_FM, "商品A", candidate, "2026-05-22", {
+        capacityVerified: true,
+        strictMatch: true,
+      });
+      expect(result.changed).toBe(true);
+      expect(result.content).toContain('matchStatus: "pending"');
+      expect(result.content).toContain("https://example.com/new");
+    });
+  });
+
+  describe("evaluateYahooCandidate", () => {
+    const baseProduct = {
+      name: "グーン 肌にやさしい おしりふき",
+      capacity: "70枚×12個",
+      brand: "グーン",
+    };
+
+    it("商品名トークン一致 + capacity一致 → ok: true", () => {
+      const result = evaluateYahooCandidate(baseProduct, {
+        provider: "yahoo",
+        label: "Yahoo!",
+        name: "【12個】グーン 肌にやさしいおしりふき 70枚×12P",
+        price: 1800,
+        url: "https://example.com/a",
+        imageUrl: null,
+        available: true,
+        sellerName: null,
+      });
+      expect(result.ok).toBe(true);
+    });
+
+    it("brand フィールドが候補名に含まれない場合、strictMatch: false（ok は true のまま）", () => {
+      // product.brand に製造メーカー名（大王製紙）を設定すると候補名に含まれず strictMatch: false になる
+      const manufacturerBrand = { ...baseProduct, brand: "大王製紙" };
+      const result = evaluateYahooCandidate(manufacturerBrand, {
+        provider: "yahoo",
+        label: "Yahoo!",
+        name: "グーン 肌にやさしい おしりふき 70枚×12P",
+        price: 1800,
+        url: "https://example.com/b",
+        imageUrl: null,
+        available: true,
+        sellerName: null,
+      });
+      expect(result.ok).toBe(true);          // isLikelySameProduct（先頭トークン"グーン"一致）は通る
+      expect(result.strictMatch).toBe(false); // brand "大王製紙" が候補名にないため matched 昇格しない
+    });
+
+    it("brand フィールド未設定の場合、brand 照合はスキップして strictMatch を評価する", () => {
+      const noBrand = { ...baseProduct, brand: null };
+      const result = evaluateYahooCandidate(noBrand, {
+        provider: "yahoo",
+        label: "Yahoo!",
+        name: "グーン 肌にやさしい おしりふき 70枚×12P",
+        price: 1800,
+        url: "https://example.com/c",
+        imageUrl: null,
+        available: true,
+        sellerName: null,
+      });
+      expect(result.ok).toBe(true);
+      // brand 未設定 → brandMatch は true 扱い。全トークン一致なら strictMatch: true
+      expect(result.strictMatch).toBe(true);
+    });
+
+    it("capacity 不一致 → ok: false", () => {
+      const result = evaluateYahooCandidate(baseProduct, {
+        provider: "yahoo",
+        label: "Yahoo!",
+        name: "グーン 肌にやさしい おしりふき 70枚×10個",
+        price: 1500,
+        url: "https://example.com/d",
+        imageUrl: null,
+        available: true,
+        sellerName: null,
+      });
+      expect(result.ok).toBe(false);
+      expect(result.reason).toContain("capacity不一致");
     });
   });
 });

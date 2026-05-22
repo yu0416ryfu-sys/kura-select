@@ -38,7 +38,7 @@ export function upsertYahooOfferInFrontmatter(
   productName: string,
   candidate: YahooOfferCandidate,
   updatedAt: string,
-  options: { capacityVerified?: boolean } = {}
+  options: { capacityVerified?: boolean; strictMatch?: boolean } = {}
 ): YahooOfferUpdateResult {
   const parsed = parseFrontmatter(content);
   if (!parsed || !Array.isArray(parsed.data.products)) {
@@ -103,6 +103,10 @@ export function upsertYahooOfferInFrontmatter(
         // 同一URL更新: API が一時的に null を返す場合は既存値を維持
         newOffer.price = candidate.price ?? existing.price;
         newOffer.imageUrl = candidate.imageUrl ?? existing.imageUrl;
+        // 同一URL + capacityVerified + strictMatch が揃った場合のみ matched に昇格
+        if (options.capacityVerified && options.strictMatch) {
+          newOffer.matchStatus = "matched";
+        }
       }
       offers[existingIndex] = newOffer;
     } else {

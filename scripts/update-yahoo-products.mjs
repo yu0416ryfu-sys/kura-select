@@ -15,14 +15,13 @@
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from "fs";
 import { join, resolve } from "path";
 import yaml from "js-yaml";
-import {
-  buildSearchKeyword,
-  extractCapacityFromItemName,
-  extractCapacityTotal,
-  normalizeCapacityTotal,
-} from "./lib/frontmatter.ts";
+import { buildSearchKeyword } from "./lib/frontmatter.ts";
 import { searchYahooShoppingItems } from "./lib/yahoo-shopping.ts";
 import { upsertYahooOfferInFrontmatter } from "./lib/yahoo-offers.ts";
+import {
+  evaluateYahooCandidate,
+  toComparableCapacity,
+} from "./lib/yahoo-matching.ts";
 
 // ─── 環境変数を読み込み ──────────────────────────────────────────────────────
 
@@ -128,71 +127,13 @@ function parseProducts(content) {
         name: p.name,
         rank: typeof p.rank === "number" ? p.rank : 0,
         capacity: typeof p.capacity === "string" ? p.capacity : null,
-        brand: typeof p.brand === "string" ? p.brand : null,
+        brand: typeof p.brand === "string" && p.brand !== "" ? p.brand : null,
         rakutenUrl: typeof p.rakutenUrl === "string" ? p.rakutenUrl : null,
         offers: Array.isArray(p.offers) ? p.offers : [],
       }));
   } catch {
     return [];
   }
-}
-
-// ─── 商品名マッチング ────────────────────────────────────────────────────────
-
-function normalizeTokens(value) {
-  return buildSearchKeyword(value)
-    .toLowerCase()
-    .split(/[\s　・、。／/｜|]+/)
-    .filter((token) => token.length >= 2)
-    .filter((token) => !/^[\d.,]+/.test(token));
-}
-
-function isLikelySameProduct(currentName, candidateName) {
-  const tokens = normalizeTokens(currentName);
-  if (tokens.length === 0) return false;
-  const normalizedCandidate = candidateName.toLowerCase();
-  // 最初のトークン（ブランド名相当）が候補に含まれない場合は別商品と判定
-  if (!normalizedCandidate.includes(tokens[0])) return false;
-  const matched = tokens.filter((token) => normalizedCandidate.includes(token)).length;
-  return matched >= Math.min(2, tokens.length);
-}
-
-// ─── 容量比較 helper ─────────────────────────────────────────────────────────
-
-function toComparableCapacity(capacity) {
-  return normalizeCapacityTotal(extractCapacityTotal(capacity ?? ""));
-}
-
-function isSameComparableCapacity(a, b) {
-  const aTotal = toComparableCapacity(a);
-  const bTotal = toComparableCapacity(b);
-  return Boolean(
-    aTotal &&
-    bTotal &&
-    aTotal.total === bTotal.total &&
-    aTotal.unit.toLowerCase() === bTotal.unit.toLowerCase()
-  );
-}
-
-function evaluateYahooCandidate(product, candidate) {
-  if (!isLikelySameProduct(product.name, candidate.name)) {
-    return { ok: false, reason: "商品名トークン不一致" };
-  }
-
-  const currentCapacity = product.capacity;
-  const candidateCapacity = extractCapacityFromItemName(candidate.name);
-
-  if (!currentCapacity) {
-    return { ok: false, reason: "既存capacityなし" };
-  }
-  if (!candidateCapacity) {
-    return { ok: false, reason: "Yahoo候補からcapacity抽出不可", candidateCapacity: null };
-  }
-  if (!isSameComparableCapacity(currentCapacity, candidateCapacity)) {
-    return { ok: false, reason: "capacity不一致", candidateCapacity };
-  }
-
-  return { ok: true, reason: "capacity一致", candidateCapacity };
 }
 
 // ─── 並列処理プール ──────────────────────────────────────────────────────────
@@ -231,11 +172,13 @@ async function processArticle(file) {
       const candidates = await searchYahooShoppingItems(query, { ...env, results: 5 });
 
       let selected = null;
+      let selectedEvaluation = null;
       const rejectedReasons = [];
       for (const c of candidates) {
         const evaluation = evaluateYahooCandidate(product, c);
         if (evaluation.ok) {
           selected = c;
+          selectedEvaluation = evaluation;
           lines.push("- decision: auto");
           lines.push(`- candidate: ${c.name}`);
           lines.push(`- price: ${c.price ?? "-"}`);
@@ -262,7 +205,10 @@ async function processArticle(file) {
         }
       } else {
         if (!DRY_RUN) {
-          const result = upsertYahooOfferInFrontmatter(content, product.name, selected, today, { capacityVerified: true });
+          const result = upsertYahooOfferInFrontmatter(content, product.name, selected, today, {
+            capacityVerified: true,
+            strictMatch: selectedEvaluation?.strictMatch ?? false,
+          });
           if (result.changed) content = result.content;
           else lines.push(`- write skipped: ${result.reason ?? "unchanged"}`);
         }
