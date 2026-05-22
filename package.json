@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": ">=22.0.0"
+    "node": ">=22.6.0"
   },
   "scripts": {
     "dev": "astro dev",
@@ -12,17 +12,19 @@
     "preview": "astro preview",
     "astro": "astro",
     "generate-ogp": "node scripts/generate-ogp.mjs",
-    "update-products": "node scripts/update-products.mjs",
-    "update-products:dry": "node scripts/update-products.mjs --dry-run",
-    "update-yahoo-products": "node scripts/update-yahoo-products.mjs",
-    "update-yahoo-products:dry": "node scripts/update-yahoo-products.mjs --dry-run",
-    "check-replacements": "node scripts/update-products.mjs --check-replacements",
-    "check-additions": "node scripts/update-products.mjs --check-additions",
-    "export-ai-rag": "node scripts/export-ai-rag-data.mjs",
+    "update-products": "node --experimental-strip-types scripts/update-products.mjs",
+    "update-products:dry": "node --experimental-strip-types scripts/update-products.mjs --dry-run",
+    "update-yahoo-products": "node --experimental-strip-types scripts/update-yahoo-products.mjs",
+    "update-yahoo-products:dry": "node --experimental-strip-types scripts/update-yahoo-products.mjs --dry-run",
+    "check-replacements": "node --experimental-strip-types scripts/update-products.mjs --check-replacements",
+    "check-additions": "node --experimental-strip-types scripts/update-products.mjs --check-additions",
+    "export-ai-rag": "node --experimental-strip-types scripts/export-ai-rag-data.mjs",
+    "mcp:kura-content": "node --experimental-strip-types scripts/mcp/kura-content-mcp.mjs",
     "test": "vitest run",
     "test:watch": "vitest"
   },
   "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
     "@astrojs/mdx": "^5.0.0",
     "@astrojs/preact": "^5.0.0",
     "@astrojs/rss": "^4.0.0",

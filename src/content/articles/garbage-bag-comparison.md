@@ -3,7 +3,7 @@ title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
 description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ3選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
-updatedAt: 2026-05-21
+updatedAt: 2026-05-22
 products:
   - rank: 1
     name: "TANOSEE　ゴミ袋エコノミー　乳白半透明"
@@ -34,7 +34,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約6.2円/枚"
     rating: 4.78
-    reviewCount: 1459
+    reviewCount: 1461
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -55,8 +55,8 @@ products:
     price: 3980
     capacity: "300枚"
     pricePerUnit: "約13円/枚"
-    rating: 4.86
-    reviewCount: 281
+    rating: 4.85
+    reviewCount: 282
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"

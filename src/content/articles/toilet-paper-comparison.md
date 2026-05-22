@@ -3,7 +3,7 @@ title: "トイレットペーパー シングル コスパランキング【2026
 description: "シングルのトイレットペーパーを1mあたりの価格で比較。長尺・芯なし・まとめ買い向けの商品を厳選して紹介します。"
 category: "toilet-paper"
 publishedAt: "2024-11-01"
-updatedAt: 2026-05-21
+updatedAt: 2026-05-22
 products:
   - rank: 1
     name: "森を守ろう トイレットペーパー シングル"

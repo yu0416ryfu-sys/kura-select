@@ -3,7 +3,7 @@ title: "ボールペン コスパ最強ランキング【2026年版】1本あた
 description: "ボールペンを書き心地・インク・デザインで徹底比較。uni・ZEBRA・Parker・CROSSなど人気10選をコスパ・ギフト適性で解説します。"
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
-updatedAt: 2026-05-21
+updatedAt: 2026-05-22
 draft: false
 products:
   - rank: 1
@@ -35,7 +35,7 @@ products:
     capacity: "1本（4色ボールペン+シャープペンシル）"
     pricePerUnit: "約1000円/本"
     rating: 4.78
-    reviewCount: 13341
+    reviewCount: 13343
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"
@@ -211,7 +211,7 @@ products:
     capacity: "-"
     pricePerUnit: "-"
     rating: 4.81
-    reviewCount: 282
+    reviewCount: 283
     features:
       - "ビンテージカラーのおしゃれなデザインで日常使いからギフトまで対応"
       - "0.5mm・0.3mm選択可能なゲルインク採用"

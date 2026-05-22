@@ -3,7 +3,7 @@ title: "おしりふき コスパ最強ランキング【2026年版】10選"
 description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比較。ムーニー、パンパース、グーン、レックなど人気メーカーの商品を肌優しさ・容量・単価で徹底比較。"
 category: "baby-wipes"
 publishedAt: "2026-05-17"
-updatedAt: "2026-05-21"
+updatedAt: 2026-05-22
 draft: false
 products:
   - rank: 1
@@ -46,7 +46,7 @@ products:
     capacity: "80枚×40個"
     pricePerUnit: "約1.3円/枚"
     rating: 4.77
-    reviewCount: 7357
+    reviewCount: 7363
     features:
       - "天然由来成分のシアバター、アロエエキス配合"
       - "99%が水分で肌に優しい処方"
@@ -163,7 +163,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.3円/枚"
     rating: 4.84
-    reviewCount: 2604
+    reviewCount: 2605
     features:
       - "99.9%の純水成分で肌に優しい"
       - "厚手シートで吸収性が優れている"
@@ -185,7 +185,7 @@ products:
     capacity: "54枚×24個"
     pricePerUnit: "約2.3円/枚"
     rating: 4.67
-    reviewCount: 574
+    reviewCount: 575
     features:
       - "厚手シートで拭き心地が良い"
       - "菌を99.9%除去する除菌効果"
@@ -207,7 +207,7 @@ products:
     capacity: "54枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.61
-    reviewCount: 3732
+    reviewCount: 3738
     features:
       - "菌を99.9%除去する除菌処理"
       - "厚手タイプで吸収性が高い"
@@ -228,8 +228,8 @@ products:
     price: 2120
     capacity: "60枚×15個"
     pricePerUnit: "約2.4円/枚"
-    rating: 4.4
-    reviewCount: 1590
+    rating: 4.41
+    reviewCount: 1592
     features:
       - "トイレに流せる素材で処理が簡単"
       - "菌を99.9%除去する除菌効果"
