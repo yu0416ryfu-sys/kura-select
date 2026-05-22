@@ -11,6 +11,7 @@ import {
   getProviderShortLabel,
   getProviderName,
   isAmazonOfferFresh,
+  buildYahooSearchUrl,
   PROVIDER_META,
 } from "../src/lib/offers";
 
@@ -422,6 +423,120 @@ describe("isAmazonOfferFresh", () => {
   it("非 Amazon offer は常に true", () => {
     const offer = { provider: "rakuten" as const, url: rakutenUrl };
     expect(isAmazonOfferFresh(offer, now)).toBe(true);
+  });
+});
+
+// ─── Yahoo 検索フォールバック ─────────────────────────────────────────────────
+describe("Yahoo 検索フォールバック", () => {
+  const sid = "3770852";
+  const pid = "892615315";
+  const fallbackOptions = {
+    enabledProviders: ["rakuten", "yahoo"] as const,
+    yahooSearchFallback: { enabled: true, sid, pid },
+  };
+
+  it("buildYahooSearchUrl が正しい ValueCommerce + Yahoo 検索 URL を生成する", () => {
+    const url = buildYahooSearchUrl("パンパース テープ", sid, pid);
+    expect(url).toContain(`sid=${sid}`);
+    expect(url).toContain(`pid=${pid}`);
+    const vcUrl = decodeURIComponent(url.split("vc_url=")[1]);
+    expect(vcUrl).toContain("shopping.yahoo.co.jp/search?p=");
+    expect(vcUrl).toContain(encodeURIComponent("パンパース テープ"));
+  });
+
+  it("Yahoo offer がない商品には 'Yahoo!で探す' フォールバックが追加される", () => {
+    const offers = getVisibleOffers(
+      { name: "テスト商品", rakutenUrl },
+      fallbackOptions
+    );
+    const yahoo = offers.find((o) => o.provider === "yahoo");
+    expect(yahoo?.label).toBe("Yahoo!で探す");
+    expect(yahoo?.url).toContain("valuecommerce.com");
+  });
+
+  it("matched Yahoo offer がある場合はフォールバックを追加しない", () => {
+    const offers = getVisibleOffers(
+      {
+        name: "テスト商品",
+        rakutenUrl,
+        offers: [{ provider: "yahoo", url: yahooUrl, available: true, matchStatus: "matched" as const }],
+      },
+      fallbackOptions
+    );
+    expect(offers.filter((o) => o.provider === "yahoo")).toHaveLength(1);
+    expect(offers.find((o) => o.provider === "yahoo")?.label).not.toBe("Yahoo!で探す");
+  });
+
+  it("pending Yahoo offer がある場合もフォールバックを追加しない", () => {
+    const offers = getVisibleOffers(
+      {
+        name: "テスト商品",
+        rakutenUrl,
+        offers: [{ provider: "yahoo", url: yahooUrl, available: true, matchStatus: "pending" as const }],
+      },
+      fallbackOptions
+    );
+    expect(offers.some((o) => o.label === "Yahoo!で探す")).toBe(false);
+  });
+
+  it("review Yahoo offer がある場合もフォールバックを追加しない", () => {
+    const offers = getVisibleOffers(
+      {
+        name: "テスト商品",
+        rakutenUrl,
+        offers: [{ provider: "yahoo", url: yahooUrl, matchStatus: "review" as const }],
+      },
+      fallbackOptions
+    );
+    expect(offers.some((o) => o.label === "Yahoo!で探す")).toBe(false);
+  });
+
+  it("rejected Yahoo offer がある場合もフォールバックを追加しない", () => {
+    const offers = getVisibleOffers(
+      {
+        name: "テスト商品",
+        rakutenUrl,
+        offers: [{ provider: "yahoo", url: yahooUrl, available: true, matchStatus: "rejected" as const }],
+      },
+      fallbackOptions
+    );
+    expect(offers.some((o) => o.label === "Yahoo!で探す")).toBe(false);
+  });
+
+  it("enabled: false の場合はフォールバックを追加しない", () => {
+    const offers = getVisibleOffers(
+      { name: "テスト商品", rakutenUrl },
+      { ...fallbackOptions, yahooSearchFallback: { enabled: false, sid, pid } }
+    );
+    expect(offers.some((o) => o.label === "Yahoo!で探す")).toBe(false);
+  });
+
+  it("SID が未設定の場合はフォールバックを追加しない", () => {
+    const offers = getVisibleOffers(
+      { name: "テスト商品", rakutenUrl },
+      { ...fallbackOptions, yahooSearchFallback: { enabled: true, sid: "", pid } }
+    );
+    expect(offers.some((o) => o.label === "Yahoo!で探す")).toBe(false);
+  });
+
+  it("商品名がない場合はフォールバックを追加しない", () => {
+    const offers = getVisibleOffers(
+      { rakutenUrl },
+      fallbackOptions
+    );
+    expect(offers.some((o) => o.label === "Yahoo!で探す")).toBe(false);
+  });
+
+  it("フォールバック offer は price を持たないため getComparableOffers に入らない", () => {
+    const product = { name: "テスト商品", rakutenUrl, price: 5000 };
+    const comparable = getComparableOffers(product, fallbackOptions);
+    expect(comparable.some((o) => o.label === "Yahoo!で探す")).toBe(false);
+  });
+
+  it("フォールバック offer は getOfferPriceSummary の priceRows に入らない", () => {
+    const product = { name: "テスト商品", rakutenUrl, price: 5000 };
+    const summary = getOfferPriceSummary(product, fallbackOptions);
+    expect(summary.priceRows.some((r) => r.label === "Yahoo!で探す")).toBe(false);
   });
 });
 

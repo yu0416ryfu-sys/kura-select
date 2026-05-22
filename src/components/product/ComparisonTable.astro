@@ -32,8 +32,14 @@ interface Props {
 
 const { products, caption = "商品比較表" } = Astro.props;
 
+const yahooSearchFallback = {
+  enabled: import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true",
+  sid: import.meta.env.VALUECOMMERCE_SID,
+  pid: import.meta.env.VALUECOMMERCE_PID,
+};
+
 const productsForTable = products.map((product) => {
-  const rawVisible = getVisibleOffers(product, { enabledProviders: linkProviders });
+  const rawVisible = getVisibleOffers(product, { enabledProviders: linkProviders, yahooSearchFallback });
   return {
     ...product,
     // Amazon は price/available/imageUrl を渡さない（SSG 鮮度制約）

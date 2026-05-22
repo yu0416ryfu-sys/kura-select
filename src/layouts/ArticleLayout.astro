@@ -181,7 +181,12 @@ const productJsonLds = data.products
         <!-- 記事本文後インライン CTA（1位商品） -->
         {data.products.length > 0 && (() => {
           const top = data.products.find((p) => p.rank === 1) ?? data.products[0];
-          const visibleOffers = getVisibleOffers(top, { enabledProviders: linkProviders });
+          const yahooSearchFallback = {
+            enabled: import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true",
+            sid: import.meta.env.VALUECOMMERCE_SID,
+            pid: import.meta.env.VALUECOMMERCE_PID,
+          };
+          const visibleOffers = getVisibleOffers(top, { enabledProviders: linkProviders, yahooSearchFallback });
           const topSummary = getOfferPriceSummary(top, { enabledProviders: priceProviders });
           const topDisplayPrice = topSummary.lowestPrice ?? top.price;
           return (

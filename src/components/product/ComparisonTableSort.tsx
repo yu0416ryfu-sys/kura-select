@@ -225,13 +225,13 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                               href={offer.url}
                               rel="sponsored nofollow noopener"
                               target="_blank"
-                              aria-label={`${p.name}を${getProviderName(offer.provider)}で購入（別タブで開く）`}
+                              aria-label={`${p.name}を${offer.label ?? getProviderPurchaseLabel(offer.provider)}（別タブで開く）`}
                               class={`${purchaseButtonCls} ${getProviderButtonClass(offer.provider, "primary")}`}
                               data-ga-event={getProviderGaEvent(offer.provider)}
                               data-ga-provider={offer.provider}
                               data-ga-product={p.name}
                             >
-                              {getProviderPurchaseLabel(offer.provider)}
+                              {offer.label ?? getProviderPurchaseLabel(offer.provider)}
                             </a>
                           </div>
                         );
@@ -341,13 +341,13 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                         href={offer.url}
                         rel="sponsored nofollow noopener"
                         target="_blank"
-                        aria-label={`${p.name}を${getProviderName(offer.provider)}で購入（別タブで開く）`}
+                        aria-label={`${p.name}を${offer.label ?? getProviderPurchaseLabel(offer.provider)}（別タブで開く）`}
                         class={`${mobilePurchaseButtonCls} ${getProviderButtonClass(offer.provider, "primary")}`}
                         data-ga-event={getProviderGaEvent(offer.provider)}
                         data-ga-provider={offer.provider}
                         data-ga-product={p.name}
                       >
-                        {getProviderPurchaseLabel(offer.provider)}
+                        {offer.label ?? getProviderPurchaseLabel(offer.provider)}
                       </a>
                     </div>
                   );

@@ -38,6 +38,8 @@ jobs:
           PUBLIC_RAKUTEN_AFFILIATE_ID: ${{ secrets.PUBLIC_RAKUTEN_AFFILIATE_ID }}
           PUBLIC_ENABLE_YAHOO_AFFILIATE: "true"
           PUBLIC_NOINDEX: "false"
+          VALUECOMMERCE_SID: ${{ secrets.VALUECOMMERCE_SID }}
+          VALUECOMMERCE_PID: ${{ secrets.VALUECOMMERCE_PID }}
 
       - uses: actions/upload-pages-artifact@v3
         with:

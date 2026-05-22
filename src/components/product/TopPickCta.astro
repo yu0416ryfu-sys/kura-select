@@ -30,7 +30,12 @@ interface Props {
 }
 
 const { product } = Astro.props;
-const visibleOffers = getVisibleOffers(product, { enabledProviders: linkProviders });
+const yahooSearchFallback = {
+  enabled: import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true",
+  sid: import.meta.env.VALUECOMMERCE_SID,
+  pid: import.meta.env.VALUECOMMERCE_PID,
+};
+const visibleOffers = getVisibleOffers(product, { enabledProviders: linkProviders, yahooSearchFallback });
 const priceSummary = getOfferPriceSummary(product, { enabledProviders: priceProviders });
 const displayPrice = priceSummary.lowestPrice ?? product.price;
 ---

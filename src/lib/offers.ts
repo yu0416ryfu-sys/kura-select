@@ -24,12 +24,20 @@ export interface OfferPriceSummary {
   priceDifferenceLabel: string | null;
 }
 
+export interface YahooSearchFallbackOptions {
+  enabled?: boolean;
+  sid?: string;
+  pid?: string;
+}
+
 export interface OfferVisibilityOptions {
   enabledProviders?: readonly OfferProvider[];
   allowAmazonPrice?: boolean;
+  yahooSearchFallback?: YahooSearchFallbackOptions;
 }
 
 interface ProductWithOffers {
+  name?: string;
   offers?: ProductOffer[];
   rakutenUrl?: string;
   price?: number;
@@ -184,6 +192,24 @@ export function getRakutenFallbackOffer(product: ProductWithOffers): ProductOffe
   };
 }
 
+export function buildYahooSearchUrl(keyword: string, sid: string, pid: string): string {
+  const yahooSearch = `https://shopping.yahoo.co.jp/search?p=${encodeURIComponent(keyword)}`;
+  return `https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=${sid}&pid=${pid}&vc_url=${encodeURIComponent(yahooSearch)}`;
+}
+
+export function getYahooSearchFallbackOffer(
+  product: { name: string },
+  sid: string,
+  pid: string
+): ProductOffer {
+  return {
+    provider: "yahoo",
+    label: "Yahoo!で探す",
+    url: buildYahooSearchUrl(product.name, sid, pid),
+    available: true,
+  };
+}
+
 // 表示対象 offer（matchStatus/available/provider フィルタ済み）
 export function getVisibleOffers(
   product: ProductWithOffers,
@@ -199,8 +225,29 @@ export function getVisibleOffers(
   const fallback = hasRakutenOffer ? null : getRakutenFallbackOffer(product);
   const visibleOffers = fallback ? [...offers, fallback] : offers;
 
+  const hasAnyYahooOffer = (product.offers ?? []).some((offer) => offer.provider === "yahoo");
+  const yahooFallback = options.yahooSearchFallback;
+  const shouldAddYahooSearchFallback =
+    (enabledProviders as OfferProvider[]).includes("yahoo") &&
+    Boolean(yahooFallback?.enabled) &&
+    Boolean(yahooFallback?.sid) &&
+    Boolean(yahooFallback?.pid) &&
+    Boolean(product.name) &&
+    !hasAnyYahooOffer;
+
+  const visibleWithFallback = shouldAddYahooSearchFallback
+    ? [
+        ...visibleOffers,
+        getYahooSearchFallbackOffer(
+          { name: product.name! },
+          yahooFallback!.sid!,
+          yahooFallback!.pid!
+        ),
+      ]
+    : visibleOffers;
+
   const seen = new Set<string>();
-  return visibleOffers
+  return visibleWithFallback
     .filter((offer) => {
       const key = `${offer.provider}:${offer.url}`;
       if (seen.has(key)) return false;
