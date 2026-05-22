@@ -3,7 +3,7 @@ title: "ボールペン コスパ最強ランキング【2026年版】1本あた
 description: "ボールペンを書き心地・インク・デザインで徹底比較。uni・ZEBRA・Parker・CROSSなど人気10選をコスパ・ギフト適性で解説します。"
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
-updatedAt: 2026-05-22
+updatedAt: "2026-05-22"
 draft: false
 products:
   - rank: 1
@@ -50,6 +50,15 @@ products:
     recommendedFor: "新色で個性を出したい方・卒業・誕生日の記念品を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbsyn.3rdw622d.g00qbsyn.3rdw79de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbugyo%2Fb06-21-277%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbugyo%2Fi%2F10004467%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/pen_2021/pen_2019_123d.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 870
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakishimado%2Fnashimsxe5-1000soukomi.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/akishimado_nashimsxe5-1000soukomi"
+        available: true
+        matchStatus: "reject"
+        updatedAt: "2026-05-22"
   - rank: 3
     name: "ジェットストリーム 名入れ 多機能ボールペン 限定"
     brand: "uni（三菱鉛筆）"
@@ -94,6 +103,15 @@ products:
     recommendedFor: "仕事や学習用のボールペンを追加で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzren.3rdw6689.g00pzren.3rdw7116/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpenroom%2Fparker0028%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpenroom%2Fi%2F10016658%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/penroom/cabinet/parker3/1900_r.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 6567
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaireya%2Fparker-refillbox-im.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/naireya_parker-refillbox-im"
+        available: true
+        matchStatus: "reject"
+        updatedAt: "2026-05-22"
   - rank: 5
     name: "木製ボールペン 名入れ ケースセット"
     brand: "福来館"
