@@ -1,7 +1,17 @@
 ---
 import AffiliateLink from "./AffiliateLink.astro";
-import { getVisibleOffers, getOfferPriceSummary, type ProductOffer } from "../../lib/offers";
-const ENABLE_YAHOO_AFFILIATE = import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true";
+import {
+  getVisibleOffers,
+  getOfferPriceSummary,
+  getEnabledAffiliateProvidersFromEnv,
+  getStaticAffiliateProvidersFromEnv,
+  getProviderBadgeClass,
+  getProviderShortLabel,
+  type ProductOffer,
+} from "../../lib/offers";
+
+const linkProviders = getEnabledAffiliateProvidersFromEnv(import.meta.env);
+const priceProviders = getStaticAffiliateProvidersFromEnv(import.meta.env);
 
 interface Product {
   rank: number;
@@ -27,8 +37,8 @@ interface Props {
 }
 
 const { product, id } = Astro.props;
-const visibleOffers = getVisibleOffers(product, { enableYahoo: ENABLE_YAHOO_AFFILIATE });
-const priceSummary = getOfferPriceSummary(product, { enableYahoo: ENABLE_YAHOO_AFFILIATE });
+const visibleOffers = getVisibleOffers(product, { enabledProviders: linkProviders });
+const priceSummary = getOfferPriceSummary(product, { enabledProviders: priceProviders });
 const displayPrice = priceSummary.lowestPrice ?? product.price;
 const hasMultipleProviders = priceSummary.priceRows.length >= 2;
 
@@ -95,14 +105,12 @@ const rankColor = rankColors[product.rank] ?? "bg-[var(--color-surface)] text-[v
       <div class="flex items-center gap-1.5 mt-0.5">
         <span class="text-xl font-bold text-[var(--color-text)]">¥{displayPrice.toLocaleString()}</span>
         {hasMultipleProviders && priceSummary.lowestProvider && (
-          <span class={`text-xs font-bold px-1.5 py-0.5 rounded ${
-            priceSummary.lowestProvider === "rakuten" ? "bg-amber-100 text-amber-700" : "bg-sky-100 text-sky-700"
-          }`}>最安</span>
+          <span class={`text-xs font-bold px-1.5 py-0.5 rounded ${getProviderBadgeClass(priceSummary.lowestProvider)}`}>最安</span>
         )}
       </div>
       {hasMultipleProviders && (
         <div class="text-xs text-[var(--color-text-sub)] mt-0.5">
-          {priceSummary.priceRows.map((row) => `${row.provider === "rakuten" ? "楽天" : "Yahoo!"} ¥${row.price.toLocaleString()}`).join(" / ")}
+          {priceSummary.priceRows.map((row) => `${getProviderShortLabel(row.provider)} ¥${row.price.toLocaleString()}`).join(" / ")}
         </div>
       )}
       {priceSummary.priceDifferenceLabel && (
@@ -113,7 +121,7 @@ const rankColor = rankColors[product.rank] ?? "bg-[var(--color-surface)] text-[v
       <span class="text-xs text-[var(--color-text-sub)]">容量</span>
       <span class="ml-1 text-sm font-medium">{product.capacity}</span>
     </div>
-    {product.pricePerUnit && priceSummary.lowestProvider !== "yahoo" && (
+    {product.pricePerUnit && priceSummary.lowestProvider === "rakuten" && (
       <div class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium self-center">
         {product.pricePerUnit}
       </div>

@@ -1,7 +1,15 @@
 ---
 import AffiliateLink from "./AffiliateLink.astro";
-import { getVisibleOffers, getOfferPriceSummary, type ProductOffer } from "../../lib/offers";
-const ENABLE_YAHOO_AFFILIATE = import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true";
+import {
+  getVisibleOffers,
+  getOfferPriceSummary,
+  getEnabledAffiliateProvidersFromEnv,
+  getStaticAffiliateProvidersFromEnv,
+  type ProductOffer,
+} from "../../lib/offers";
+
+const linkProviders = getEnabledAffiliateProvidersFromEnv(import.meta.env);
+const priceProviders = getStaticAffiliateProvidersFromEnv(import.meta.env);
 
 interface Product {
   rank: number;
@@ -22,8 +30,8 @@ interface Props {
 }
 
 const { product } = Astro.props;
-const visibleOffers = getVisibleOffers(product, { enableYahoo: ENABLE_YAHOO_AFFILIATE });
-const priceSummary = getOfferPriceSummary(product, { enableYahoo: ENABLE_YAHOO_AFFILIATE });
+const visibleOffers = getVisibleOffers(product, { enabledProviders: linkProviders });
+const priceSummary = getOfferPriceSummary(product, { enabledProviders: priceProviders });
 const displayPrice = priceSummary.lowestPrice ?? product.price;
 ---
 
@@ -57,7 +65,7 @@ const displayPrice = priceSummary.lowestPrice ?? product.price;
         {priceSummary.priceRows.length >= 2 && priceSummary.priceDifferenceLabel && (
           <span class="text-xs text-sky-600">{priceSummary.priceDifferenceLabel}</span>
         )}
-        {product.pricePerUnit && priceSummary.lowestProvider !== "yahoo" && (
+        {product.pricePerUnit && priceSummary.lowestProvider === "rakuten" && (
           <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium">
             {product.pricePerUnit}
           </span>

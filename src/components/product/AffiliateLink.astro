@@ -1,5 +1,11 @@
 ---
 import type { OfferProvider } from "../../lib/offers";
+import {
+  getProviderButtonClass,
+  getProviderGaEvent,
+  getProviderLabel,
+  getProviderName,
+} from "../../lib/offers";
 
 interface Props {
   href: string;
@@ -19,9 +25,9 @@ const {
   productName,
 } = Astro.props;
 
-const defaultLabel = provider === "rakuten" ? "楽天市場で見る" : "Yahoo!ショッピングで見る";
+const defaultLabel = `${getProviderLabel(provider)}で見る`;
 const displayLabel = label ?? defaultLabel;
-const providerName = provider === "rakuten" ? "楽天市場" : "Yahoo!ショッピング";
+const providerName = getProviderName(provider);
 const ariaLabel = productName
   ? `${productName}を${providerName}で見る（別タブで開く）`
   : `${displayLabel}（別タブで開く）`;
@@ -32,17 +38,8 @@ const sizeClasses = {
   lg: "px-8 py-3 text-base min-h-[52px]",
 };
 
-const primaryClasses =
-  provider === "rakuten"
-    ? "bg-[var(--color-warning)] text-white hover:opacity-90 shadow-sm hover:shadow-md"
-    : "bg-[var(--color-primary)] text-white hover:opacity-90 shadow-sm hover:shadow-md";
-const outlineClasses =
-  provider === "rakuten"
-    ? "border-2 border-[var(--color-warning)] text-[var(--color-warning)] hover:bg-amber-50"
-    : "border-2 border-[var(--color-primary)] text-[var(--color-primary)] hover:bg-sky-50";
-
-const variantClass = variant === "primary" ? primaryClasses : outlineClasses;
-const gaEvent = provider === "rakuten" ? "click_rakuten_link" : "click_yahoo_link";
+const variantClass = getProviderButtonClass(provider, variant);
+const gaEvent = getProviderGaEvent(provider);
 ---
 
 <a

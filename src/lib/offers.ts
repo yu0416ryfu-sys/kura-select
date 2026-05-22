@@ -1,10 +1,11 @@
-export type OfferProvider = "rakuten" | "yahoo";
+export type OfferProvider = "rakuten" | "yahoo" | "amazon";
 
 export type MatchStatus = "matched" | "pending" | "review" | "rejected";
 
 export interface ProductOffer {
   provider: OfferProvider;
   label?: string;
+  asin?: string;
   price?: number;
   url: string;
   imageUrl?: string;
@@ -23,6 +24,11 @@ export interface OfferPriceSummary {
   priceDifferenceLabel: string | null;
 }
 
+export interface OfferVisibilityOptions {
+  enabledProviders?: readonly OfferProvider[];
+  allowAmazonPrice?: boolean;
+}
+
 interface ProductWithOffers {
   offers?: ProductOffer[];
   rakutenUrl?: string;
@@ -30,10 +36,116 @@ interface ProductWithOffers {
   imageUrl?: string;
 }
 
+export const PROVIDER_META = {
+  rakuten: {
+    name: "楽天市場",
+    shortLabel: "楽天",
+    defaultLabel: "楽天市場",
+    purchaseLabel: "楽天市場で購入",
+    gaEvent: "click_rakuten_link",
+    badgeClass: "bg-amber-100 text-amber-700",
+    primaryClass: "bg-[var(--color-warning)] text-white hover:opacity-90 shadow-sm hover:shadow-md",
+    outlineClass: "border-2 border-[var(--color-warning)] text-[var(--color-warning)] hover:bg-amber-50",
+  },
+  yahoo: {
+    name: "Yahoo!ショッピング",
+    shortLabel: "Yahoo!",
+    defaultLabel: "Yahoo!ショッピング",
+    purchaseLabel: "Yahoo!で購入",
+    gaEvent: "click_yahoo_link",
+    badgeClass: "bg-sky-100 text-sky-700",
+    primaryClass: "bg-[var(--color-primary)] text-white hover:opacity-90 shadow-sm hover:shadow-md",
+    outlineClass: "border-2 border-[var(--color-primary)] text-[var(--color-primary)] hover:bg-sky-50",
+  },
+  amazon: {
+    name: "Amazon",
+    shortLabel: "Amazon",
+    defaultLabel: "Amazon",
+    purchaseLabel: "Amazonで購入",
+    gaEvent: "click_amazon_link",
+    badgeClass: "bg-neutral-100 text-neutral-800",
+    primaryClass: "bg-neutral-900 text-white hover:bg-neutral-800 shadow-sm hover:shadow-md",
+    outlineClass: "border-2 border-neutral-700 text-neutral-800 hover:bg-neutral-50",
+  },
+} satisfies Record<
+  OfferProvider,
+  {
+    name: string;
+    shortLabel: string;
+    defaultLabel: string;
+    purchaseLabel: string;
+    gaEvent: string;
+    badgeClass: string;
+    primaryClass: string;
+    outlineClass: string;
+  }
+>;
+
+export function getProviderName(provider: OfferProvider): string {
+  return PROVIDER_META[provider].name;
+}
+
+export function getProviderLabel(provider: OfferProvider): string {
+  return PROVIDER_META[provider].defaultLabel;
+}
+
+export function getProviderShortLabel(provider: OfferProvider): string {
+  return PROVIDER_META[provider].shortLabel;
+}
+
+export function getProviderPurchaseLabel(provider: OfferProvider): string {
+  return PROVIDER_META[provider].purchaseLabel;
+}
+
+export function getProviderGaEvent(provider: OfferProvider): string {
+  return PROVIDER_META[provider].gaEvent;
+}
+
+export function getProviderBadgeClass(provider: OfferProvider): string {
+  return PROVIDER_META[provider].badgeClass;
+}
+
+export function getProviderButtonClass(
+  provider: OfferProvider,
+  variant: "primary" | "outline"
+): string {
+  return variant === "primary"
+    ? PROVIDER_META[provider].primaryClass
+    : PROVIDER_META[provider].outlineClass;
+}
+
+// Astro コンポーネント専用（import.meta.env を直接渡す）
+// リンク表示用: rakuten + 有効な provider をすべて返す
+export function getEnabledAffiliateProvidersFromEnv(env: ImportMetaEnv): OfferProvider[] {
+  const providers: OfferProvider[] = ["rakuten"];
+  if (env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true") providers.push("yahoo");
+  if (env.PUBLIC_ENABLE_AMAZON_AFFILIATE === "true") providers.push("amazon");
+  return providers;
+}
+
+// 価格比較・JSON-LD 専用: Amazon を含めない
+export function getStaticAffiliateProvidersFromEnv(env: ImportMetaEnv): OfferProvider[] {
+  const providers: OfferProvider[] = ["rakuten"];
+  if (env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true") providers.push("yahoo");
+  return providers;
+}
+
 const PROVIDER_ORDER: Record<OfferProvider, number> = {
   rakuten: 0,
   yahoo: 1,
+  amazon: 2,
 };
+
+const AMAZON_CACHE_TTL_MS = 24 * 60 * 60 * 1000;
+
+// Amazon offer の price/available/imageUrl 表示可否チェック（24h TTL）
+// now を注入可能にすることでテストを時刻非依存にする
+export function isAmazonOfferFresh(offer: ProductOffer, now?: number): boolean {
+  if (offer.provider !== "amazon") return true;
+  if (!offer.updatedAt) return false;
+  const updated = new Date(offer.updatedAt).getTime();
+  return (now ?? Date.now()) - updated < AMAZON_CACHE_TTL_MS;
+}
 
 function isValidUrl(value: string | undefined): value is string {
   if (!value) return false;
@@ -56,9 +168,7 @@ function normalizeOffer(offer: ProductOffer): ProductOffer | null {
   if (!isVisibleByMatchStatus(offer)) return null;
   return {
     ...offer,
-    label:
-      offer.label ??
-      (offer.provider === "rakuten" ? "楽天市場" : "Yahoo!ショッピング"),
+    label: offer.label ?? getProviderLabel(offer.provider),
   };
 }
 
@@ -74,15 +184,16 @@ export function getRakutenFallbackOffer(product: ProductWithOffers): ProductOffe
   };
 }
 
-// 表示対象 offer（matchStatus/available フィルタ済み）
+// 表示対象 offer（matchStatus/available/provider フィルタ済み）
 export function getVisibleOffers(
   product: ProductWithOffers,
-  options: { enableYahoo: boolean }
+  options: OfferVisibilityOptions = {}
 ): ProductOffer[] {
+  const enabledProviders = options.enabledProviders ?? ["rakuten"];
   const offers = (product.offers ?? [])
     .map(normalizeOffer)
     .filter((offer): offer is ProductOffer => Boolean(offer))
-    .filter((offer) => options.enableYahoo || offer.provider !== "yahoo");
+    .filter((offer) => (enabledProviders as OfferProvider[]).includes(offer.provider));
 
   const hasRakutenOffer = offers.some((offer) => offer.provider === "rakuten");
   const fallback = hasRakutenOffer ? null : getRakutenFallbackOffer(product);
@@ -99,20 +210,22 @@ export function getVisibleOffers(
     .sort((a, b) => PROVIDER_ORDER[a.provider] - PROVIDER_ORDER[b.provider]);
 }
 
-// 価格比較対象 offer（price > 0 を追加フィルタ）
+// 価格比較対象 offer（price > 0 を追加フィルタ、Amazon はデフォルト除外）
 export function getComparableOffers(
   product: ProductWithOffers,
-  options: { enableYahoo: boolean }
+  options: OfferVisibilityOptions = {}
 ): (ProductOffer & { price: number })[] {
-  return getVisibleOffers(product, options).filter(
-    (offer): offer is ProductOffer & { price: number } =>
-      typeof offer.price === "number" && offer.price > 0
-  );
+  return getVisibleOffers(product, options)
+    .filter((offer) => options.allowAmazonPrice || offer.provider !== "amazon")
+    .filter(
+      (offer): offer is ProductOffer & { price: number } =>
+        typeof offer.price === "number" && offer.price > 0
+    );
 }
 
 export function getLowestOffer(
   product: ProductWithOffers,
-  options: { enableYahoo: boolean }
+  options: OfferVisibilityOptions = {}
 ): (ProductOffer & { price: number }) | null {
   const comparable = getComparableOffers(product, options);
   if (comparable.length === 0) return null;
@@ -122,18 +235,17 @@ export function getLowestOffer(
 export function getPriceDifferenceLabel(
   comparable: (ProductOffer & { price: number })[]
 ): string | null {
-  const rakuten = comparable.find((o) => o.provider === "rakuten");
-  const yahoo = comparable.find((o) => o.provider === "yahoo");
-  if (!rakuten || !yahoo) return null;
-  const diff = rakuten.price - yahoo.price;
+  const sorted = [...comparable].sort((a, b) => a.price - b.price);
+  if (sorted.length < 2) return null;
+  const [lowest, second] = sorted;
+  const diff = second.price - lowest.price;
   if (diff === 0) return "同価格";
-  if (diff > 0) return `Yahoo!が${diff.toLocaleString()}円安い`;
-  return `楽天が${(-diff).toLocaleString()}円安い`;
+  return `${getProviderShortLabel(lowest.provider)}が${diff.toLocaleString()}円安い`;
 }
 
 export function getOfferPriceSummary(
   product: ProductWithOffers,
-  options: { enableYahoo: boolean }
+  options: OfferVisibilityOptions = {}
 ): OfferPriceSummary {
   const comparable = getComparableOffers(product, options);
 
@@ -144,7 +256,7 @@ export function getOfferPriceSummary(
   const lowest = comparable.reduce((a, b) => (a.price <= b.price ? a : b));
   const priceRows = comparable.map((o) => ({
     provider: o.provider,
-    label: o.label ?? (o.provider === "rakuten" ? "楽天市場" : "Yahoo!ショッピング"),
+    label: o.label ?? getProviderLabel(o.provider),
     price: o.price,
   }));
   const priceDifferenceLabel = getPriceDifferenceLabel(comparable);
@@ -154,7 +266,7 @@ export function getOfferPriceSummary(
 
 export function getPrimaryOffer(
   product: ProductWithOffers,
-  options: { enableYahoo: boolean }
+  options: OfferVisibilityOptions = {}
 ): ProductOffer | null {
   const visibleOffers = getVisibleOffers(product, options);
   return visibleOffers.find((offer) => offer.provider === "rakuten") ?? visibleOffers[0] ?? null;

@@ -1,13 +1,23 @@
 import { useState, useMemo } from "preact/hooks";
+import type { OfferProvider, OfferPriceSummary } from "../../lib/offers";
+import {
+  getProviderBadgeClass,
+  getProviderButtonClass,
+  getProviderGaEvent,
+  getProviderName,
+  getProviderPurchaseLabel,
+} from "../../lib/offers";
 
-interface OfferPriceSummary {
-  lowestPrice: number | null;
-  lowestProvider: "rakuten" | "yahoo" | null;
-  priceRows: { provider: "rakuten" | "yahoo"; label: string; price: number }[];
-  priceDifferenceLabel: string | null;
+interface VisibleOfferForTable {
+  provider: OfferProvider;
+  label?: string;
+  url: string;
+  asin?: string;
+  // Astro 側で .toISOString() して渡す（z.coerce.date() が Date に変換するため）
+  updatedAt?: string;
 }
 
-interface Product {
+interface ProductForComparisonTable {
   rank: number;
   name: string;
   brand: string;
@@ -18,19 +28,16 @@ interface Product {
   reviewCount?: number;
   rakutenUrl: string;
   imageUrl?: string;
-  visibleOffers?: {
-    provider: "rakuten" | "yahoo";
-    label?: string;
-    url: string;
-  }[];
   priceSummary?: OfferPriceSummary;
+  visibleOffers?: VisibleOfferForTable[];
 }
 
 type SortKey = "rank" | "price" | "pricePerUnit" | "rating";
 
 interface Props {
-  products: Product[];
+  products: ProductForComparisonTable[];
   caption: string;
+  enabledProviders: OfferProvider[];
 }
 
 export default function ComparisonTableSort({ products, caption }: Props) {
@@ -76,6 +83,10 @@ export default function ComparisonTableSort({ products, caption }: Props) {
     return sortDir === "asc" ? "ascending" : "descending";
   }
 
+  function lowestBadgeCls(provider: OfferProvider) {
+    return getProviderBadgeClass(provider);
+  }
+
   const sortBtnBase =
     "px-3 py-1.5 rounded-lg text-sm font-medium transition-colors min-h-[36px] border";
   const activeCls =
@@ -87,15 +98,9 @@ export default function ComparisonTableSort({ products, caption }: Props) {
   const mobilePriceRowCls =
     "grid grid-cols-[36px_minmax(70px,1fr)_132px] items-center gap-2";
   const purchaseButtonCls =
-    "whitespace-nowrap inline-flex items-center justify-center gap-1 text-white text-xs px-2.5 py-1.5 rounded-lg font-medium hover:opacity-90 transition-opacity min-h-[32px] w-[112px]";
+    "whitespace-nowrap inline-flex items-center justify-center gap-1 text-xs px-2.5 py-1.5 rounded-lg font-medium transition-all min-h-[32px] w-[112px]";
   const mobilePurchaseButtonCls =
-    "whitespace-nowrap inline-flex items-center justify-center gap-1 text-white text-sm px-3 py-2 rounded-lg font-medium hover:opacity-90 transition-opacity min-h-[40px] w-full";
-
-  function lowestBadgeCls(provider: "rakuten" | "yahoo") {
-    return provider === "rakuten"
-      ? "bg-amber-100 text-amber-700"
-      : "bg-sky-100 text-sky-700";
-  }
+    "whitespace-nowrap inline-flex items-center justify-center gap-1 text-sm px-3 py-2 rounded-lg font-medium transition-all min-h-[40px] w-full";
 
   return (
     <div>
@@ -220,21 +225,13 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                               href={offer.url}
                               rel="sponsored nofollow noopener"
                               target="_blank"
-                              aria-label={`${p.name}を${offer.provider === "rakuten" ? "楽天市場" : "Yahoo!ショッピング"}で購入（別タブで開く）`}
-                              class={`${purchaseButtonCls} ${
-                                offer.provider === "rakuten"
-                                  ? "bg-[var(--color-warning)]"
-                                  : "bg-[var(--color-primary)]"
-                              }`}
-                              data-ga-event={
-                                offer.provider === "rakuten"
-                                  ? "click_rakuten_link"
-                                  : "click_yahoo_link"
-                              }
+                              aria-label={`${p.name}を${getProviderName(offer.provider)}で購入（別タブで開く）`}
+                              class={`${purchaseButtonCls} ${getProviderButtonClass(offer.provider, "primary")}`}
+                              data-ga-event={getProviderGaEvent(offer.provider)}
                               data-ga-provider={offer.provider}
                               data-ga-product={p.name}
                             >
-                              {offer.provider === "rakuten" ? "楽天市場で購入" : "Yahoo!で購入"}
+                              {getProviderPurchaseLabel(offer.provider)}
                             </a>
                           </div>
                         );
@@ -243,7 +240,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                   </td>
                   <td class="px-3 py-3 text-sm whitespace-nowrap align-middle">{p.capacity}</td>
                   <td class="px-3 py-3 align-middle">
-                    {p.pricePerUnit && p.priceSummary?.lowestProvider !== "yahoo" && (
+                    {p.pricePerUnit && p.priceSummary?.lowestProvider === "rakuten" && (
                       <span class="inline-flex min-w-[78px] justify-center bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium whitespace-nowrap">
                         {p.pricePerUnit}
                       </span>
@@ -302,7 +299,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
               {/* 容量・コスパ・評価 */}
               <div class="flex flex-wrap gap-2 mb-3 text-sm">
                 <span class="text-[var(--color-text-sub)] whitespace-nowrap">{p.capacity}</span>
-                {p.pricePerUnit && p.priceSummary?.lowestProvider !== "yahoo" && (
+                {p.pricePerUnit && p.priceSummary?.lowestProvider === "rakuten" && (
                   <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium whitespace-nowrap">
                     {p.pricePerUnit}
                   </span>
@@ -344,21 +341,13 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                         href={offer.url}
                         rel="sponsored nofollow noopener"
                         target="_blank"
-                        aria-label={`${p.name}を${offer.provider === "rakuten" ? "楽天市場" : "Yahoo!ショッピング"}で購入（別タブで開く）`}
-                        class={`${mobilePurchaseButtonCls} ${
-                          offer.provider === "rakuten"
-                            ? "bg-[var(--color-warning)]"
-                            : "bg-[var(--color-primary)]"
-                        }`}
-                        data-ga-event={
-                          offer.provider === "rakuten"
-                            ? "click_rakuten_link"
-                            : "click_yahoo_link"
-                        }
+                        aria-label={`${p.name}を${getProviderName(offer.provider)}で購入（別タブで開く）`}
+                        class={`${mobilePurchaseButtonCls} ${getProviderButtonClass(offer.provider, "primary")}`}
+                        data-ga-event={getProviderGaEvent(offer.provider)}
                         data-ga-provider={offer.provider}
                         data-ga-product={p.name}
                       >
-                        {offer.provider === "rakuten" ? "楽天市場で購入" : "Yahoo!で購入"}
+                        {getProviderPurchaseLabel(offer.provider)}
                       </a>
                     </div>
                   );

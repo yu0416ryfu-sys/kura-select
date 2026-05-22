@@ -3,8 +3,9 @@ import { glob } from "astro/loaders";
 import { z } from "astro/zod";
 
 const offerSchema = z.object({
-  provider: z.enum(["rakuten", "yahoo"]),
+  provider: z.enum(["rakuten", "yahoo", "amazon"]),
   label: z.string().optional(),
+  asin: z.string().optional(),
   price: z.number().int().nonnegative().optional(),
   url: z.string().url(),
   imageUrl: z.string().url().optional(),

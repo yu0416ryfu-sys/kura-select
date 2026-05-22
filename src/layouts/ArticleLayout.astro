@@ -6,10 +6,20 @@ import ComparisonTable from "../components/product/ComparisonTable.astro";
 import ProductCard from "../components/product/ProductCard.astro";
 import TopPickCta from "../components/product/TopPickCta.astro";
 import AffiliateLink from "../components/product/AffiliateLink.astro";
-import { getLowestOffer, getRakutenFallbackOffer, getOfferPriceSummary, getVisibleOffers } from "../lib/offers";
+import {
+  getLowestOffer,
+  getRakutenFallbackOffer,
+  getOfferPriceSummary,
+  getVisibleOffers,
+  getEnabledAffiliateProvidersFromEnv,
+  getStaticAffiliateProvidersFromEnv,
+} from "../lib/offers";
 import { SITE, url } from "../lib/site";
 import type { CollectionEntry } from "astro:content";
-const ENABLE_YAHOO_AFFILIATE = import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true";
+
+const linkProviders = getEnabledAffiliateProvidersFromEnv(import.meta.env);
+const priceProviders = getStaticAffiliateProvidersFromEnv(import.meta.env);
+const jsonLdProviders = getStaticAffiliateProvidersFromEnv(import.meta.env);
 
 interface Props {
   article: CollectionEntry<"articles">;
@@ -47,16 +57,13 @@ const breadcrumbJsonLd = {
   ],
 };
 
+// JSON-LD は楽天・Yahoo のみ（Amazon は 24h 鮮度を SSG で保証できないため除外）
 const productJsonLds = data.products
   .filter((p) => p.rating !== undefined)
   .map((p) => {
-    // feature flag ON: 最安comparable offer。OFF: 楽天fallback。
-    // Yahoo URL + 楽天価格の組み合わせを防ぐため getLowestOffer を使う。
     let jsonLdOffer: { price: number; url: string } | null = null;
-    if (ENABLE_YAHOO_AFFILIATE) {
-      const lowest = getLowestOffer(p, { enableYahoo: true });
-      if (lowest) jsonLdOffer = { price: lowest.price, url: lowest.url };
-    }
+    const lowest = getLowestOffer(p, { enabledProviders: jsonLdProviders });
+    if (lowest) jsonLdOffer = { price: lowest.price, url: lowest.url };
     if (!jsonLdOffer) {
       const rakuten = getRakutenFallbackOffer(p);
       if (rakuten && typeof rakuten.price === "number" && rakuten.price > 0) {
@@ -174,15 +181,15 @@ const productJsonLds = data.products
         <!-- 記事本文後インライン CTA（1位商品） -->
         {data.products.length > 0 && (() => {
           const top = data.products.find((p) => p.rank === 1) ?? data.products[0];
-          const visibleOffers = getVisibleOffers(top, { enableYahoo: ENABLE_YAHOO_AFFILIATE });
-          const topSummary = getOfferPriceSummary(top, { enableYahoo: ENABLE_YAHOO_AFFILIATE });
+          const visibleOffers = getVisibleOffers(top, { enabledProviders: linkProviders });
+          const topSummary = getOfferPriceSummary(top, { enabledProviders: priceProviders });
           const topDisplayPrice = topSummary.lowestPrice ?? top.price;
           return (
             <div class="mt-8 p-4 md:p-5 bg-sky-50 border border-sky-200 rounded-xl flex flex-col sm:flex-row items-start sm:items-center gap-4">
               <div class="flex-1 min-w-0">
                 <p class="text-xs font-semibold text-sky-600 mb-1">この記事の結論</p>
                 <p class="font-bold text-[var(--color-text)] text-sm leading-snug line-clamp-2">{top.name}</p>
-                <p class="text-sm text-[var(--color-text-sub)] mt-0.5">¥{topDisplayPrice.toLocaleString()}{(topSummary.lowestProvider !== "yahoo" && top.pricePerUnit) ? `　${top.pricePerUnit}` : ""}</p>
+                <p class="text-sm text-[var(--color-text-sub)] mt-0.5">¥{topDisplayPrice.toLocaleString()}{(topSummary.lowestProvider === "rakuten" && top.pricePerUnit) ? `　${top.pricePerUnit}` : ""}</p>
                 {topSummary.priceDifferenceLabel && (
                   <p class="text-xs text-sky-600 mt-0.5">{topSummary.priceDifferenceLabel}</p>
                 )}
@@ -218,7 +225,7 @@ const productJsonLds = data.products
         <!-- アフィリエイト表記 -->
         <div class="mt-10 p-4 bg-amber-50 rounded-xl border border-amber-200 text-sm text-amber-800">
           <p class="font-semibold mb-1">広告・免責事項</p>
-          <p>当サイトのリンクには楽天・Yahoo!ショッピング等のアフィリエイトを含みます。商品購入により当サイトが報酬を得る場合があります。掲載価格は執筆時点のものです。最新価格は各ショップでご確認ください。</p>
+          <p>当サイトのリンクには楽天・Yahoo!ショッピング・Amazon等のアフィリエイトを含みます。商品購入により当サイトが報酬を得る場合があります。掲載価格は執筆時点のものです。最新価格は各ショップでご確認ください。</p>
         </div>
       </article>
 
