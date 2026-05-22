@@ -18,6 +18,7 @@
     "update-yahoo-products:dry": "node scripts/update-yahoo-products.mjs --dry-run",
     "check-replacements": "node scripts/update-products.mjs --check-replacements",
     "check-additions": "node scripts/update-products.mjs --check-additions",
+    "export-ai-rag": "node scripts/export-ai-rag-data.mjs",
     "test": "vitest run",
     "test:watch": "vitest"
   },
