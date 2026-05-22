@@ -37,6 +37,14 @@ reports/ai-matches/pending/product-match-output-YYYY-MM-DD.jsonl
 reports/toAI/kura-product-match-ai/done/product-match-input-YYYY-MM-DD.jsonl
 ```
 
+## RAG参照
+
+`data/rag/match-decisions.jsonl` が存在する場合、同一商品（同一 `articleFile` + `rank`、または `currentName` 近似）の過去判定を参照し、action / confidence の傾向を確認する。
+
+`data/rag/category-rules.jsonl` が存在する場合、カテゴリの典型単位・頻出ブランドを参照し、除外語・容量単位の整合判断に使う。
+
+RAGファイルが存在しない場合は従来フローで続行する。
+
 ## 判定方針
 
 `current` 商品と `candidates` の中から、同一または実質的に同じ商品を選ぶ。

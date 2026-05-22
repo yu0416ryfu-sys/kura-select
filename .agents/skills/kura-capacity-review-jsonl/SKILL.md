@@ -107,6 +107,12 @@ corepack pnpm build
 
 ネットワーク制限で `fetch failed` になった場合は、同じ dry-run を承認付きで再実行する。
 
+## RAG参照
+
+`data/rag/capacity-patterns.jsonl` が存在する場合、同一または類似の capacity 表記（同じ `name` / 同じ `articleFile`）の既存判断を確認し、修正方針の一貫性を保つ。カテゴリ単位で絞り込む場合は `data/rag/products.jsonl` の `category` フィールドを併用する。
+
+修正を行った後は `kura-rag-refresh` スキルで `data/rag/` を再生成することを推奨する。存在しない場合は従来フローで続行する。
+
 ## 完了報告
 
 ユーザーには簡潔に以下を伝える。
