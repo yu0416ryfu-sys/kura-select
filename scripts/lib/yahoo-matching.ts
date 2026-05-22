@@ -118,13 +118,15 @@ export function evaluateYahooCandidate(
   }
 
   // strictMatch: matched 昇格可否の判定（案A + 案B）
-  // 案B: candidate 側も buildSearchKeyword で正規化して表記ゆれを吸収
+  // normCandidate は全文照合用のため buildSearchKeyword（40文字制限あり）を使わず
+  // 候補名をそのまま小文字化する。後半にブランド名が出る商品名で切り捨てが起きるのを防ぐ。
   const tokens = normalizeTokens(product.name);
-  const normCandidate = buildSearchKeyword(candidate.name).toLowerCase();
+  const normCandidate = candidate.name.toLowerCase();
   const allTokensMatch = tokens.length > 0 && tokens.every((t) => normCandidate.includes(t));
   // 案A: brand フィールドがある場合は matched 昇格の追加条件として照合する
   // ok 判定には影響させない（品種・パッケージ違いをブロックするための追加ゲート）
-  // brand 側も buildSearchKeyword で正規化して記号・全角半角差分を統一する（案B と一貫性を保つ）
+  // brand は buildSearchKeyword で括弧エイリアスを除去して正規化する。
+  // brand 名は短いため 40 文字制限の影響はなく、normCandidate の切り詰め問題とは独立。
   // parseProducts() で "" → null 正規化済みの前提だが、明示的ガードで堅牢性を確保する
   const normalizedBrand = product.brand ? buildSearchKeyword(product.brand).toLowerCase() : "";
   const brandMatch = normalizedBrand ? normCandidate.includes(normalizedBrand) : true;
