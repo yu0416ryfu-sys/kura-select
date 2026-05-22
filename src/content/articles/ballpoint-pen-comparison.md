@@ -57,7 +57,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakishimado%2Fnashimsxe5-1000soukomi.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akishimado_nashimsxe5-1000soukomi"
         available: true
-        matchStatus: "reject"
+        matchStatus: "rejected"
         updatedAt: "2026-05-22"
   - rank: 3
     name: "ジェットストリーム 名入れ 多機能ボールペン 限定"
@@ -110,7 +110,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaireya%2Fparker-refillbox-im.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naireya_parker-refillbox-im"
         available: true
-        matchStatus: "reject"
+        matchStatus: "rejected"
         updatedAt: "2026-05-22"
   - rank: 5
     name: "木製ボールペン 名入れ ケースセット"
