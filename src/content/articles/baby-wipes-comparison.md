@@ -46,7 +46,7 @@ products:
     capacity: "80枚×40個"
     pricePerUnit: "約1.3円/枚"
     rating: 4.77
-    reviewCount: 7363
+    reviewCount: 7364
     features:
       - "天然由来成分のシアバター、アロエエキス配合"
       - "99%が水分で肌に優しい処方"
