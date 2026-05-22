@@ -34,6 +34,35 @@ description: |
 
 ---
 
+## RAG参照
+
+WebFetch前に以下を確認する。
+
+**`data/rag/match-decisions.jsonl` が存在する場合**
+対象記事の過去照合判定を参照し、商品ごとの URL 変更履歴・照合の難易度傾向を把握する。
+WebFetch・カテゴリ適合チェックは省略しない。
+
+```bash
+rg '"articleFile":"src/content/articles/{slug}-comparison.md"' data/rag/match-decisions.jsonl
+```
+
+存在しない場合はスキップする。
+
+**`data/rag/capacity-patterns.jsonl` が存在する場合**
+対象カテゴリの既存 capacity 表記パターンを確認し、Step 4 の正規化で一貫した形式を使う。
+`capacity-patterns.jsonl` に `category` フィールドはないため、`products.jsonl` で `articleFile` を確認してから絞り込む。対象記事の `articleFile` を優先し、複数の `articleFile` がある場合は重複除去して複数確認する。
+
+```bash
+rg '"category":"{対象カテゴリslug}"' data/rag/products.jsonl
+rg '"articleFile":"{確認したarticleFile}"' data/rag/capacity-patterns.jsonl
+```
+
+表示された行の `articleFile` を確認し、対象記事または同カテゴリの記事の capacity パターン確認に使う。
+
+`data/rag/products.jsonl` または `data/rag/capacity-patterns.jsonl` が存在しない場合、または対象カテゴリの行が見つからない場合は、この手順をスキップして Step 2 へ進む。
+
+---
+
 ## Step 2: 各URLをWebFetchして商品情報を取得
 
 追加商品URLを順に WebFetch し、各商品について確定する:

@@ -58,6 +58,23 @@ order: 44
 - 近接カテゴリの商品は、主用途が違えば除外
 - 判断が微妙、またはユーザー指定URLを除外する場合は編集前に確認する
 
+## RAG参照
+
+`data/rag/capacity-patterns.jsonl` が存在する場合、対象カテゴリの既存 capacity 表記パターンを確認し、Step 4 の正規化で一貫した形式を使う。
+
+`capacity-patterns.jsonl` には `category` フィールドがないため、まず `products.jsonl` で対象カテゴリの `articleFile` を確認し、その `articleFile` で絞り込む。対象記事が既に存在する場合は対象記事の `articleFile` を優先し、複数の `articleFile` がある場合は重複除去して複数確認する。
+
+```bash
+# Step 1: カテゴリに属するarticleFileを確認
+rg '"category":"{対象カテゴリslug}"' data/rag/products.jsonl
+# Step 2: そのarticleFileでcapacityパターンを確認
+rg '"articleFile":"{確認したarticleFile}"' data/rag/capacity-patterns.jsonl
+```
+
+表示された行の `articleFile` を確認し、対象記事または同カテゴリの記事の capacity パターン確認に使う。
+
+`data/rag/products.jsonl` または `data/rag/capacity-patterns.jsonl` が存在しない場合、または対象カテゴリの行が見つからない場合は、この手順をスキップして Step 4 へ進む。
+
 ## Step 4: `name` / `capacity` 正規化
 
 `update-products.mjs` は `name` を検索キーワードに使うため、短く比較表向けに整える。

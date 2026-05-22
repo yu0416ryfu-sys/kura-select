@@ -22,6 +22,17 @@ description: |
 ## 調査手順
 
 1. 対象記事の `category`、既存 `products[]`、既存URLを確認する。
+
+   ### RAG参照（Step 1 完了後に実施）
+
+   `data/rag/category-rules.jsonl` が存在する場合、対象カテゴリの典型単位・頻出ブランドを確認し、`CATEGORY_SEARCH_RULES` の `units` / `exclude` 調整の根拠として使う。
+
+   ```bash
+   rg '"category":"{対象カテゴリslug}"' data/rag/category-rules.jsonl
+   ```
+
+   存在しない場合はスキップする。
+
 2. `reports/addition-candidates-*.md` と `reports/addition-urls-*.md` を確認する。
 3. `scripts/update-products.mjs` の以下を順に疑う。
    - `CATEGORY_SEARCH_RULES`: 検索語、include、exclude、units、minScore
