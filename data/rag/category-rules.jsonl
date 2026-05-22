@@ -17,7 +17,7 @@
 {"type":"category-rule","category":"dishwasher-detergent","units":["g"],"commonBrands":["P&G（ジョイ）","SONETT","ミマスクリーンケア"],"reviewSignals":[],"productCount":10}
 {"type":"category-rule","category":"disposable-gloves","units":["枚"],"commonBrands":["厳選いいもの本舗","明成","サンユー"],"reviewSignals":[],"productCount":8}
 {"type":"category-rule","category":"fabric-softener","units":["mL","袋"],"commonBrands":["Downy","P&G（さらさ）","ネイチャーラボ（ランドリン）"],"reviewSignals":["お試し"],"productCount":13}
-{"type":"category-rule","category":"face-wash","units":["g","本"],"commonBrands":[],"reviewSignals":[],"productCount":10}
+{"type":"category-rule","category":"face-wash","units":["g"],"commonBrands":[],"reviewSignals":[],"productCount":10}
 {"type":"category-rule","category":"floor-cleaner","units":["枚"],"commonBrands":["花王（クイックルワイパー）","花王"],"reviewSignals":[],"productCount":10}
 {"type":"category-rule","category":"garbage-bag","units":["枚"],"commonBrands":["HEIKO"],"reviewSignals":[],"productCount":3}
 {"type":"category-rule","category":"gift","units":["本","個","セット"],"commonBrands":[],"reviewSignals":[],"productCount":8}
