@@ -3,7 +3,7 @@ title: "BIG・スーパービッグ紙おむつ比較【2026年版】"
 description: "BIGサイズ・スーパービッグサイズの紙おむつを1枚あたりの価格で比較。大きめ体型や夜間漏れ対策に向く商品を選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-21
+updatedAt: "2026-05-21"
 products:
   - rank: 1
     name: "グーンプラス テープ BIGサイズ"
@@ -27,6 +27,15 @@ products:
     recommendedFor: "肌荒れやかぶれが気になる敏感肌の赤ちゃん・BIGサイズをお探しの方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00unsmn.3rdw6139.g00unsmn.3rdw7a37/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felleair%2F21001262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felleair%2Fi%2F10000171%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/elleair/cabinet/item-img/img01/21001262-01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 2745
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcompmoto-y%2F4902011102871.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-22"
   - rank: 2
     name: "エリエール　グーン　スーパービッグ　テープ止めタイプ"
     brand: "大王製紙（グーン）"
@@ -49,6 +58,15 @@ products:
     recommendedFor: "体型が大きめの赤ちゃん・スーパービッグサイズをお探しの方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qob6n.3rdw6dbc.g00qob6n.3rdw7ca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fladydrug%2F60000000002751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fladydrug%2Fi%2F10357147%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ladydrug/cabinet/pic2738/60000000002751_2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 5944
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F60000000002751.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_60000000002751"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-22"
   - rank: 3
     name: "オヤスミマン 男の子 ビッグ以上"
     brand: "ユニ・チャーム（ムーニー）"
@@ -71,6 +89,15 @@ products:
     recommendedFor: "男の子の夜用ビッグ以上サイズを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F100420%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10001435%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/oyasumiman/100420-sin.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 5214
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4903111211647x3.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111211647x3"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-22"
   - rank: 4
     name: "オヤスミマン 女の子 ビッグ以上"
     brand: "ユニ・チャーム（ムーニー）"
@@ -93,6 +120,15 @@ products:
     recommendedFor: "女の子の夜用ビッグ以上サイズを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F100421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10001436%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/oyasumiman/100421-sin.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 5214
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4903111211807x3.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111211807x3"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-22"
   - rank: 5
     name: "グーン スーパービッグ パンツタイプ"
     brand: "大王製紙（グーン）"
@@ -115,6 +151,15 @@ products:
     recommendedFor: "スーパービッグのパンツタイプを少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa066269197075%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10121735%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/081/4902011743081.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 1254
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4902011743081-1.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4902011743081-1"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-22"
   - rank: 6
     name: "グーン スーパーBIG パンツ"
     brand: "大王製紙（グーン）"
@@ -137,6 +182,15 @@ products:
     recommendedFor: "グーンのスーパーBIGを単品で購入したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902011743081%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10002350%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4902011743081.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 7681
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902011743081x6.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902011743081x6"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-22"
   - rank: 7
     name: "グーン スーパーBIG パンツ ケース販売"
     brand: "大王製紙（グーン）"
@@ -181,6 +235,15 @@ products:
     recommendedFor: "男の子用のスーパービッグパンツを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4903111171675%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10023222%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0015/4903111171675_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 9480
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111171675x6.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111171675x6"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-22"
   - rank: 9
     name: "ムーニーマン スーパービッグ 女の子"
     brand: "ユニ・チャーム（ムーニー）"
@@ -203,6 +266,15 @@ products:
     recommendedFor: "女の子用のスーパービッグパンツを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4903111171750%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10071378%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0015/4903111171750_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 9480
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111171750x6.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111171750x6"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-22"
   - rank: 10
     name: "あんしんGenki！パンツ ビッグ"
     brand: "アイリスオーヤマ"

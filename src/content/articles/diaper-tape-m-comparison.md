@@ -3,7 +3,7 @@ title: "Mサイズ紙おむつ テープ型9選【2026年版】コスパ比較"
 description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価格で比較。メリーズ・パンパース・ムーニーなど主要ブランドから選ぶコツを解説します。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-21
+updatedAt: "2026-05-21"
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ"
@@ -27,6 +27,15 @@ products:
     recommendedFor: "通気性と肌触りを重視したい方・Mサイズでメリーズを試してみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4901301437716%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F14683768%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/10072/00000012749433_a01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 7031
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2875571012.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2875571012"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-22"
   - rank: 2
     name: "メリーズファストプレミアム テープ Mサイズ"
     brand: "花王（メリーズ）"

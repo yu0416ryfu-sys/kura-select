@@ -3,7 +3,7 @@ title: "パンツ型おむつ コスパ比較【2026年版】"
 description: "パンツ型おむつを1枚あたりの価格で比較。まずはMサイズのメリーズを例に、テープ型からの切り替え目安も解説します。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-21
+updatedAt: "2026-05-21"
 products:
   - rank: 1
     name: "メリーズ エアスルー パンツ Mサイズ"
@@ -27,6 +27,15 @@ products:
     recommendedFor: "テープ型のおむつ替えが大変になってきた方・Mサイズのパンツ型を試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcnfn.3rdw6f9c.g00qcnfn.3rdw70c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu940041%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10036335%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/natural-living/cabinet/6/7/7/677198362716.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 4995
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301418579-3.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301418579-3"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-22"
   - rank: 2
     name: "オヤスミマン 男の子 ビッグ以上 夜用"
     brand: "ユニ・チャーム（ムーニー）"
@@ -49,6 +58,15 @@ products:
     recommendedFor: "夜間のおむつ替え対応が大変な方・男の子用パンツ型夜用を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F100420%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10001435%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/oyasumiman/100420-sin.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 5544
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujiyaku%2F4903111211647-3.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4903111211647-3"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-22"
   - rank: 3
     name: "オヤスミマン 女の子 ビッグ以上 夜用"
     brand: "ユニ・チャーム"
@@ -71,6 +89,15 @@ products:
     recommendedFor: "夜間のおむつ替え対応が大変な方・女の子用パンツ型夜用を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F100421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10001436%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/oyasumiman/100421-sin.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 5544
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujiyaku%2F4903111211807-3.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4903111211807-3"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-22"
   - rank: 4
     name: "Genki！"
     brand: "アイリスオーヤマ"
