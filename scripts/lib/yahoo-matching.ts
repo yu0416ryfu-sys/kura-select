@@ -17,6 +17,25 @@ export interface EvaluateResult {
   reason: string;
   candidateCapacity?: string | null;
   strictMatch?: boolean;
+  urlMultiplier?: number;
+}
+
+/**
+ * ValueCommerce 経由の Yahoo URL から販売数量倍率を抽出する。
+ * 例: ...vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902011743081x6.html → 6
+ * 倍率なし・解析不能の場合は 1 を返す。
+ */
+export function extractUrlQuantityMultiplier(url: string): number {
+  let targetUrl = url;
+  const vcMatch = url.match(/vc_url=([^&]+)/);
+  if (vcMatch) {
+    try { targetUrl = decodeURIComponent(vcMatch[1]); } catch {}
+  }
+  // JAN コード系（8桁以上の数字）+ x{N} パターン
+  const match = targetUrl.match(/\/\d{8,}x(\d+)\.html/);
+  if (!match) return 1;
+  const n = parseInt(match[1], 10);
+  return Number.isFinite(n) && n >= 2 ? n : 1;
 }
 
 export function normalizeTokens(value: string): string[] {
@@ -73,8 +92,29 @@ export function evaluateYahooCandidate(
   if (!candidateCapacity) {
     return { ok: false, reason: "Yahoo候補からcapacity抽出不可", candidateCapacity: null };
   }
-  if (!isSameComparableCapacity(currentCapacity, candidateCapacity)) {
-    return { ok: false, reason: "capacity不一致", candidateCapacity };
+  // URL 由来の数量倍率を取得し、capacity に反映する
+  const urlMultiplier = extractUrlQuantityMultiplier(candidate.url);
+  let effectiveCandidateCapacity = candidateCapacity;
+  if (urlMultiplier > 1) {
+    const alreadyIncluded = new RegExp(
+      `[×xX*＊]\\s*${urlMultiplier}(?:[^\\d]|$)`
+    ).test(candidateCapacity);
+    if (!alreadyIncluded) {
+      const extracted = extractCapacityTotal(candidateCapacity);
+      if (extracted) {
+        effectiveCandidateCapacity = `${extracted.total * urlMultiplier}${extracted.unit}`;
+      }
+    }
+  }
+  if (!isSameComparableCapacity(currentCapacity, effectiveCandidateCapacity)) {
+    return {
+      ok: false,
+      reason: urlMultiplier > 1
+        ? `capacity不一致（URL倍率×${urlMultiplier}考慮: ${effectiveCandidateCapacity} vs ${currentCapacity}）`
+        : "capacity不一致",
+      candidateCapacity: effectiveCandidateCapacity,
+      urlMultiplier,
+    };
   }
 
   // strictMatch: matched 昇格可否の判定（案A + 案B）
@@ -90,5 +130,5 @@ export function evaluateYahooCandidate(
   const brandMatch = normalizedBrand ? normCandidate.includes(normalizedBrand) : true;
   const strictMatch = allTokensMatch && brandMatch;
 
-  return { ok: true, reason: "capacity一致", candidateCapacity, strictMatch };
+  return { ok: true, reason: "capacity一致", candidateCapacity, strictMatch, urlMultiplier };
 }

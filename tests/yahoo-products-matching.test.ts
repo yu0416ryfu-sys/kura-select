@@ -7,6 +7,7 @@ import {
   toComparableCapacity,
   isSameComparableCapacity,
   evaluateYahooCandidate,
+  extractUrlQuantityMultiplier,
 } from "../scripts/lib/yahoo-matching";
 
 describe("Yahoo候補の容量照合", () => {
@@ -263,6 +264,113 @@ products:
       });
       expect(result.ok).toBe(false);
       expect(result.reason).toContain("capacity不一致");
+    });
+  });
+
+  describe("extractUrlQuantityMultiplier", () => {
+    it("ValueCommerce vc_url の x6 サフィックスから 6 を返す", () => {
+      const url =
+        "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=xxx&pid=yyy&vc_url=" +
+        encodeURIComponent("https://store.shopping.yahoo.co.jp/sundrugec/4902011743081x6.html");
+      expect(extractUrlQuantityMultiplier(url)).toBe(6);
+    });
+
+    it("x サフィックスなし URL では 1 を返す", () => {
+      const url =
+        "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=xxx&pid=yyy&vc_url=" +
+        encodeURIComponent("https://store.shopping.yahoo.co.jp/v-drug/4902011743081.html");
+      expect(extractUrlQuantityMultiplier(url)).toBe(1);
+    });
+
+    it("ハイフン区切り（v-drug 系）でも誤検知しない", () => {
+      const url =
+        "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=xxx&pid=yyy&vc_url=" +
+        encodeURIComponent("https://store.shopping.yahoo.co.jp/v-drug/0270030-4902011743081-1.html");
+      expect(extractUrlQuantityMultiplier(url)).toBe(1);
+    });
+
+    it("x1 は倍率 1 として扱う（>= 2 のみ有効）", () => {
+      const url = "https://store.shopping.yahoo.co.jp/store/4902011743081x1.html";
+      expect(extractUrlQuantityMultiplier(url)).toBe(1);
+    });
+  });
+
+  describe("evaluateYahooCandidate — URL 倍率", () => {
+    const baseUrl =
+      "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=xxx&pid=yyy&vc_url=" +
+      encodeURIComponent("https://store.shopping.yahoo.co.jp/sundrugec/4902011743081x6.html");
+
+    it("楽天 14枚 / Yahoo名 14枚 / URL x6 → ok: false（84枚 vs 14枚）", () => {
+      const result = evaluateYahooCandidate(
+        { name: "グーン スーパーBIG パンツ", capacity: "14枚", brand: "大王製紙（グーン）" },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "グーン スーパーBIG パンツ 14枚 スーパービッグ",
+          price: 7681,
+          url: baseUrl,
+          imageUrl: null,
+          available: true,
+          sellerName: "sundrugec",
+        }
+      );
+      expect(result.ok).toBe(false);
+      expect(result.urlMultiplier).toBe(6);
+    });
+
+    it("楽天 14枚×6個 / Yahoo名 14枚 / URL x6 → ok: true（84枚 vs 84枚）", () => {
+      const result = evaluateYahooCandidate(
+        { name: "グーン スーパーBIG パンツ ケース販売", capacity: "14枚×6個", brand: "大王製紙（グーン）" },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "グーン スーパーBIG パンツ 14枚",
+          price: 7681,
+          url: baseUrl,
+          imageUrl: null,
+          available: true,
+          sellerName: "sundrugec",
+        }
+      );
+      expect(result.ok).toBe(true);
+    });
+
+    it("URL x6 / Yahoo名に既に ×6 含む → 二重計算しない（84枚 vs 14枚 → ok: false）", () => {
+      const result = evaluateYahooCandidate(
+        { name: "グーン スーパーBIG パンツ", capacity: "14枚", brand: "大王製紙（グーン）" },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "グーン スーパーBIG パンツ 14枚×6個",
+          price: 7681,
+          url: baseUrl,
+          imageUrl: null,
+          available: true,
+          sellerName: "sundrugec",
+        }
+      );
+      expect(result.ok).toBe(false);
+    });
+
+    it("URL x{N} なし → 既存動作を維持", () => {
+      const singleUrl =
+        "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=xxx&pid=yyy&vc_url=" +
+        encodeURIComponent("https://store.shopping.yahoo.co.jp/v-drug/4902011743081.html");
+      const result = evaluateYahooCandidate(
+        { name: "グーン スーパーBIG パンツ", capacity: "14枚", brand: "大王製紙（グーン）" },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "グーン スーパーBIG パンツ 14枚",
+          price: 1254,
+          url: singleUrl,
+          imageUrl: null,
+          available: true,
+          sellerName: "v-drug",
+        }
+      );
+      expect(result.ok).toBe(true);
+      expect(result.urlMultiplier).toBe(1);
     });
   });
 });

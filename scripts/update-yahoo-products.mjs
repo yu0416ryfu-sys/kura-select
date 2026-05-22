@@ -187,6 +187,7 @@ async function processArticle(file) {
           const currentCap = product.capacity ?? "-";
           lines.push(`- capacity: ${currentCap} -> ${toComparableCapacity(currentCap)?.total ?? "-"}${toComparableCapacity(currentCap)?.unit ?? ""}`);
           lines.push(`- candidate capacity: ${candidateCap} -> ${toComparableCapacity(candidateCap)?.total ?? "-"}${toComparableCapacity(candidateCap)?.unit ?? ""}`);
+          lines.push(`- url multiplier: ×${selectedEvaluation?.urlMultiplier ?? 1}`);
           break;
         } else {
           rejectedReasons.push({ name: c.name, reason: evaluation.reason, candidateCapacity: evaluation.candidateCapacity ?? null });
