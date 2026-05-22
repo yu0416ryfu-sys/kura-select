@@ -145,6 +145,12 @@ describe("buildSearchKeyword", () => {
     );
   });
 
+  it("菌XX%除去のマーケティング表現を除去する", () => {
+    expect(buildSearchKeyword("おしりふき ふんわり 菌99.9除去 大容量")).toBe(
+      "おしりふき ふんわり"
+    );
+  });
+
   it("単独の英字サイズトークンを除去する", () => {
     expect(buildSearchKeyword("おむつ テープ M")).toBe("おむつ テープ");
   });
