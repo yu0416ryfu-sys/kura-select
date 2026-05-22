@@ -3,7 +3,7 @@ title: "キッチンペーパー コスパ最強ランキング【2026年版】1
 description: "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気5選を吸水力・強度・コスパで解説します。"
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-22
+updatedAt: "2026-05-22"
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -27,6 +27,15 @@ products:
     recommendedFor: "徹底的にコストを抑えたい方・手拭き用がメインの方・大家族"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F1228689%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/1228689_001-2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F1228689.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-22"
+        price: 3970
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_1228689"
+        available: true
   - rank: 2
     name: "エリエール 超吸収キッチンタオル 70カット×4ロール×4パック"
     brand: "大王製紙（エリエール）"
@@ -93,6 +102,15 @@ products:
     recommendedFor: "最安値を求める方・大家族・まとめ買いでストックしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcsnn.3rdw6570.g00qcsnn.3rdw762b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyoto23%2F10000311%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyoto23%2Fi%2F10000311%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kyoto23/cabinet/img3/10000311.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsukasa1%2F10000311.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-22"
+        price: 5173
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsukasa1_10000311"
+        available: true
   - rank: 5
     name: "スコッティ ファイン 3倍巻き キッチンタオル 4ロール×4パック"
     brand: "日本製紙クレシア（スコッティ）"

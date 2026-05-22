@@ -269,6 +269,43 @@ products:
       expect(result.strictMatch).toBe(true);
     });
 
+    it("括弧エイリアス: brand「王子ネピア（ネピア）」でも候補名に「ネピア」があれば strictMatch: true", () => {
+      const result = evaluateYahooCandidate(
+        { name: "ネピア 激吸収 キッチンタオル 100枚", capacity: "100枚", brand: "王子ネピア（ネピア）" },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "ネピア 激吸収 キッチンタオル 100枚 送料無料",
+          price: 3000,
+          url: "https://example.com/nepia",
+          imageUrl: null,
+          available: true,
+          sellerName: null,
+        }
+      );
+      expect(result.ok).toBe(true);
+      // "王子ネピア" は候補名にないが、括弧エイリアス "ネピア" で一致 → strictMatch: true
+      expect(result.strictMatch).toBe(true);
+    });
+
+    it("括弧エイリアスが役に立たない場合（業務用（各社OEM））は strictMatch: false のまま", () => {
+      const result = evaluateYahooCandidate(
+        { name: "ペーパータオル エコタイプ 中判 200枚×30袋", capacity: "200枚×30袋（6000枚）", brand: "業務用（各社OEM）" },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "ペーパータオル エコタイプ 中判 200枚入 × 30袋 ベクストミル 紙タオル 手拭き",
+          price: 3970,
+          url: "https://example.com/oem",
+          imageUrl: null,
+          available: true,
+          sellerName: null,
+        }
+      );
+      expect(result.ok).toBe(true);
+      expect(result.strictMatch).toBe(false); // "業務用" も "各社oem" も候補名にない
+    });
+
     it("送り仮名ゆれ: 一般語のひらがな除去では strictMatch を通さない", () => {
       const result = evaluateYahooCandidate(
         { name: "ムーニー おしりふき やわらか素材", capacity: "76枚×32個", brand: "ムーニー" },

@@ -141,11 +141,18 @@ export function evaluateYahooCandidate(
   });
   // 案A: brand フィールドがある場合は matched 昇格の追加条件として照合する
   // ok 判定には影響させない（品種・パッケージ違いをブロックするための追加ゲート）
-  // brand は buildSearchKeyword で括弧エイリアスを除去して正規化する。
-  // brand 名は短いため 40 文字制限の影響はなく、normCandidate の切り詰め問題とは独立。
-  // parseProducts() で "" → null 正規化済みの前提だが、明示的ガードで堅牢性を確保する
-  const normalizedBrand = product.brand ? buildSearchKeyword(product.brand).toLowerCase() : "";
-  const brandMatch = normalizedBrand ? normCandidate.includes(normalizedBrand) : true;
+  // "王子ネピア（ネピア）" のように括弧内にブランド略称がある場合、
+  // buildSearchKeyword は括弧を除去するため "王子ネピア" のみになる。
+  // Yahoo 候補名に略称 "ネピア" しか出ない場合でも一致できるよう、
+  // 括弧内エイリアスも候補トークンとして追加する。
+  const primaryBrand = product.brand ? buildSearchKeyword(product.brand).toLowerCase() : "";
+  const brandAliases: string[] = product.brand
+    ? [...product.brand.matchAll(/[（(]([^）)]+)[）)]/g)]
+        .map(m => m[1].trim().toLowerCase())
+        .filter(a => a.length >= 2 && a !== primaryBrand)
+    : [];
+  const brandTokens = primaryBrand ? [primaryBrand, ...brandAliases] : brandAliases;
+  const brandMatch = brandTokens.length === 0 || brandTokens.some(t => normCandidate.includes(t));
   const strictMatch = allTokensMatch && brandMatch;
 
   return { ok: true, reason: "capacity一致", candidateCapacity, strictMatch, urlMultiplier };
