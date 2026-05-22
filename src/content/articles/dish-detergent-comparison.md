@@ -30,9 +30,9 @@ products:
   - rank: 2
     name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
     brand: "P&G（ジョイ）"
-    price: 2651
+    price: 2500
     capacity: "4L"
-    pricePerUnit: "約663円/L"
+    pricePerUnit: "約625円/L"
     rating: 4.79
     reviewCount: 43
     features:

@@ -40,11 +40,11 @@ products:
   - rank: 2
     name: "コアユース シングル 芯なし"
     brand: "コアユース"
-    price: 5100
+    price: 4980
     capacity: "170m×48ロール"
-    pricePerUnit: "約0.63円/m"
+    pricePerUnit: "約0.61円/m"
     rating: 4.52
-    reviewCount: 1952
+    reviewCount: 1954
     features:
       - "芯なしのロングタイプで交換の手間を減らしやすい"
       - "再生紙を使用した家庭用にも業務用にも使える仕様"
@@ -62,9 +62,9 @@ products:
   - rank: 3
     name: "コアユース 無包装 シングル 芯なし"
     brand: "春日製紙"
-    price: 5130
+    price: 5090
     capacity: "170m×48ロール"
-    pricePerUnit: "約0.63円/m"
+    pricePerUnit: "約0.62円/m"
     rating: 4.61
     reviewCount: 840
     features:
@@ -117,8 +117,8 @@ products:
     price: 4840
     capacity: "150m×48ロール"
     pricePerUnit: "約0.67円/m"
-    rating: 4.77
-    reviewCount: 1031
+    rating: 4.78
+    reviewCount: 1032
     features:
       - "太穴コアレスのシングルトイレットペーパー"
       - "再生紙を使用した長巻きタイプ"
@@ -139,8 +139,8 @@ products:
     price: 4980
     capacity: "150m×48ロール"
     pricePerUnit: "約0.69円/m"
-    rating: 4.75
-    reviewCount: 57
+    rating: 4.76
+    reviewCount: 58
     features:
       - "芯なし設計でゴミが出にくい環境配慮型"
       - "150mの長尺ロールで交換頻度を減らせる"

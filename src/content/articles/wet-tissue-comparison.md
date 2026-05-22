@@ -48,7 +48,7 @@ products:
       - "開封後の乾燥防止が工夫が必要"
     recommendedFor: "赤ちゃんのいる家庭・敏感肌向け・大容量を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t960n.3rdw6406.g00t960n.3rdw7aa2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foga13%2Foshirihuki24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foga13%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oga13/cabinet/thumbnail2025/oshirihuki24_1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oga13/cabinet/2026kikaku/260421_s01.jpg?_ex=128x128"
   - rank: 3
     name: "シルコット ピュアウォーター ウェットティッシュ 詰替 58枚×8個"
     brand: "ユニ・チャーム（シルコット）"

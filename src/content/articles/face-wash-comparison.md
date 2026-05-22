@@ -52,7 +52,7 @@ products:
   - rank: 3
     name: "【企画品】センカ パーフェクトホイップf BT21デザイン【専科】"
     brand: "資生堂（専科）"
-    price: 684
+    price: 687
     capacity: "（120g）"
     pricePerUnit: "約5.7円/g"
     rating: 5
@@ -138,72 +138,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rxkjn.3rdw66be.g00rxkjn.3rdw76b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmeplatinum%2Fawasoap%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmeplatinum%2Fi%2F10000425%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmeplatinum/cabinet/awasoap/awasoap_new2.jpg?_ex=128x128"
   - rank: 7
-    name: "DoMeCare マイクロクレイウォッシュ 110g"
-    brand: "DoMeCare"
-    price: 1980
-    capacity: "110g"
-    pricePerUnit: "約18円/g"
-    rating: 4.61
-    reviewCount: 1635
-    features:
-      - "顔の洗浄に使う洗顔料"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "肌質や洗い上がりで選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "使用感や香りの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "肌質や洗い上がりで選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tfrwn.3rdw669e.g00tfrwn.3rdw74a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdomecare%2Fdmc_micro-cray-wash%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdomecare%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/domecare/cabinet/campain1/50per/mcwsamnew_50per.jpg?_ex=128x128"
-  - rank: 8
-    name: "レステモ フェイシャル ソープ 150g"
-    brand: "レステモ"
-    price: 2680
-    capacity: "150g"
-    pricePerUnit: "約18円/g"
-    rating: 4.61
-    reviewCount: 3554
-    features:
-      - "顔の洗浄に使う洗顔料"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "肌質や洗い上がりで選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "使用感や香りの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "肌質や洗い上がりで選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdaen.3rdw686c.g00qdaen.3rdw7002/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flesthemo%2Fsoap150g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flesthemo%2Fi%2F10000018%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/soap_150_2500px_05.jpg?_ex=128x128"
-  - rank: 9
-    name: "ルアド 洗顔パウダー 67g×3袋"
-    brand: "ルアド"
-    price: 4125
-    capacity: "67g×3袋"
-    pricePerUnit: "約21円/g"
-    rating: 4.83
-    reviewCount: 5608
-    features:
-      - "顔の洗浄に使う洗顔料"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "肌質や洗い上がりで選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "使用感や香りの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "肌質や洗い上がりで選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pytjn.3rdw6c43.g00pytjn.3rdw73fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fadpentel%2F590765%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fadpentel%2Fi%2F10000082%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/adpentel/cabinet/pro/imgrc0079724986.jpg?_ex=128x128"
-  - rank: 10
     name: "プリュ カーボニック クリーニング パック 150g"
     brand: "PLuS"
     price: 2198
@@ -225,6 +159,72 @@ products:
     recommendedFor: "肌質や洗い上がりで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po0zn.3rdw627e.g00po0zn.3rdw7621/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fpscp11000-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10006260%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/html3/clpack-t_off30.jpg?_ex=128x128"
+  - rank: 8
+    name: "DoMeCare マイクロクレイウォッシュ 110g"
+    brand: "DoMeCare"
+    price: 1980
+    capacity: "110g"
+    pricePerUnit: "約18円/g"
+    rating: 4.61
+    reviewCount: 1635
+    features:
+      - "顔の洗浄に使う洗顔料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "肌質や洗い上がりで選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "使用感や香りの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "肌質や洗い上がりで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tfrwn.3rdw669e.g00tfrwn.3rdw74a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdomecare%2Fdmc_micro-cray-wash%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdomecare%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/domecare/cabinet/campain1/50per/mcwsamnew_50per.jpg?_ex=128x128"
+  - rank: 9
+    name: "レステモ フェイシャル ソープ 150g"
+    brand: "レステモ"
+    price: 2680
+    capacity: "150g"
+    pricePerUnit: "約18円/g"
+    rating: 4.61
+    reviewCount: 3554
+    features:
+      - "顔の洗浄に使う洗顔料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "肌質や洗い上がりで選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "使用感や香りの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "肌質や洗い上がりで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdaen.3rdw686c.g00qdaen.3rdw7002/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flesthemo%2Fsoap150g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flesthemo%2Fi%2F10000018%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/soap_150_2500px_05.jpg?_ex=128x128"
+  - rank: 10
+    name: "ルアド 洗顔パウダー 67g×3袋"
+    brand: "ルアド"
+    price: 4125
+    capacity: "67g×3袋"
+    pricePerUnit: "約21円/g"
+    rating: 4.83
+    reviewCount: 5608
+    features:
+      - "顔の洗浄に使う洗顔料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "肌質や洗い上がりで選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "使用感や香りの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "肌質や洗い上がりで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pytjn.3rdw6c43.g00pytjn.3rdw73fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fadpentel%2F590765%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fadpentel%2Fi%2F10000082%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/adpentel/cabinet/pro/imgrc0079724986.jpg?_ex=128x128"
 tags:
   - "洗顔料 おすすめ"
   - "洗顔料 コスパ"

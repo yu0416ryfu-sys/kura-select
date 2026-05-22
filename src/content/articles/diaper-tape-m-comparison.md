@@ -86,8 +86,8 @@ products:
     price: 7579
     capacity: "168枚（56枚×3個・Mサイズ・6〜11kg）"
     pricePerUnit: "約45円/枚"
-    rating: 4.91
-    reviewCount: 23
+    rating: 4.92
+    reviewCount: 24
     features:
       - "3D立体フィットで漏れを防止"
       - "デュアルレイヤー足ギャザー設計"

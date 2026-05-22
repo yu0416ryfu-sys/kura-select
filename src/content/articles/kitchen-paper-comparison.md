@@ -12,7 +12,7 @@ products:
     capacity: "200枚×30袋（6000枚）"
     pricePerUnit: "約0.65円/枚"
     rating: 4.61
-    reviewCount: 306
+    reviewCount: 307
     features:
       - "1枚あたり約0.66円の圧倒的コスパ"
       - "業務用の安定した品質"

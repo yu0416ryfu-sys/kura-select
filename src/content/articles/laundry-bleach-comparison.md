@@ -34,7 +34,7 @@ products:
     capacity: "1100g×8個セット"
     pricePerUnit: "約0.45円/g"
     rating: 4.75
-    reviewCount: 181
+    reviewCount: 182
     features:
       - "ベビーフローラルの心地よい香りが特徴の液体洗剤"
       - "洗浄力・消臭・抗菌の三機能を一本で実現"
@@ -118,9 +118,9 @@ products:
   - rank: 6
     name: "さらさ 洗濯洗剤 詰め替え"
     brand: "P&G（さらさ）"
-    price: 8670
+    price: 7909
     capacity: "1490g"
-    pricePerUnit: "約5.8円/g"
+    pricePerUnit: "約5.3円/g"
     rating: 4.55
     reviewCount: 257
     features:

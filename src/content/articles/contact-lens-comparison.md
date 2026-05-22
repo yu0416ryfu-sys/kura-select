@@ -210,7 +210,7 @@ products:
     capacity: "120mL×12本"
     pricePerUnit: "約2.8円/mL"
     rating: 4.86
-    reviewCount: 5256
+    reviewCount: 5257
     features:
       - "ハードコンタクトレンズ向けの洗浄・保存ケア"
       - "小さめボトルを複数本そろえられるセット"

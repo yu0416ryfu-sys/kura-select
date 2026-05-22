@@ -30,7 +30,7 @@ products:
   - rank: 2
     name: "スコッティ フラワーパック 3倍長持ち ダブル"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5850
+    price: 5841
     capacity: "75m×4ロール×12パック（3倍巻き）"
     pricePerUnit: "約1.6円/m"
     rating: 4.75

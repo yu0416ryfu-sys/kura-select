@@ -72,6 +72,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902430708494-kksale%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10323617%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4902430708494.jpg?_ex=128x128"
   - rank: 4
+    name: "緑の魔女 食洗機用洗剤 800g"
+    brand: "ミマスクリーンケア"
+    price: 590
+    capacity: "800g"
+    pricePerUnit: "約0.74円/g"
+    rating: 4.46
+    reviewCount: 52
+    features:
+      - "食器洗い乾燥機専用の洗剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "食洗機の運用に合わせて選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "対応機種や投入量を確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "食洗機の運用に合わせて選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F9847343%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10096247%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya114/9847343.jpg?_ex=128x128"
+  - rank: 5
     name: "ジョイ 食洗機用洗剤 オレンジ 詰め替え 930g×3個"
     brand: "P&G（ジョイ）"
     price: 2108
@@ -93,7 +115,7 @@ products:
     recommendedFor: "食洗機の運用に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqbhn.3rdw61a3.g00uqbhn.3rdw7b21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgozigen-shop%2Fgo9e9a0091c3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgozigen-shop%2Fi%2F10003750%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gozigen-shop/cabinet/onesell024/go9e9a0091c3.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "★大容量2200g入り★フィニッシュ パウダー/ミューズ/ "
     brand: "レキットベンキーザー（フィニッシュ）"
     price: 1760
@@ -115,7 +137,7 @@ products:
     recommendedFor: "コスパ最優先の方・毎日食洗機を使う家庭・洗浄力重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F10001821%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10001821%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0099041248.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "緑の魔女 オートキッチン 800g"
     brand: "ミマスクリーンケア"
     price: 648
@@ -137,14 +159,14 @@ products:
     recommendedFor: "食洗機の運用に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvhdn.3rdw6896.g00rvhdn.3rdw7113/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaily-shop%2F10000305%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaily-shop%2Fi%2F10000305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daily-shop/cabinet/32/4902875020915-tg1.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 8
     name: "キュキュット 食洗機用洗剤 ウルトラクリーン すっきりシトラスの香り 詰め替え【"
     brand: "花王（キュキュット）"
     price: 1999
     capacity: "770g×3袋"
     pricePerUnit: "約0.87円/g"
     rating: 4.7
-    reviewCount: 89
+    reviewCount: 90
     features:
       - "クエン酸配合でグラスくもりを防止"
       - "酵素の力でこびりつき汚れを分解"
@@ -159,7 +181,7 @@ products:
     recommendedFor: "グラス・食器のくもりが気になる方・除菌も重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F555031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11156970%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/031/555031.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "食洗機用ジョイ 除菌 詰替特大 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
@@ -181,7 +203,7 @@ products:
     recommendedFor: "食洗機の運用に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F508248%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11051824%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/248/508248.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "食洗機用ジョイ 除菌 詰め替え 特大 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
@@ -203,28 +225,6 @@ products:
     recommendedFor: "食洗機の運用に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F508248%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11051824%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/248/508248.jpg?_ex=128x128"
-  - rank: 10
-    name: "緑の魔女 食洗機用洗剤 800g"
-    brand: "ミマスクリーンケア"
-    price: 990
-    capacity: "800g"
-    pricePerUnit: "約1.2円/g"
-    rating: 4.46
-    reviewCount: 52
-    features:
-      - "食器洗い乾燥機専用の洗剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "食洗機の運用に合わせて選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "対応機種や投入量を確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "食洗機の運用に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F9847343%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10096247%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya114/9847343.jpg?_ex=128x128"
 tags:
   - "食洗機用洗剤"
   - "コスパ"

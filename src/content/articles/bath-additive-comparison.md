@@ -70,7 +70,7 @@ products:
       - "香り付きのため追い焚き・残り湯使用に注意"
     recommendedFor: "香りを楽しみたい方・エプソムソルト初心者の方・お試しに最適"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tm6bn.3rdw6b3c.g00tm6bn.3rdw7960/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flibertylife%2F201028-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flibertylife%2Fi%2F10000500%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/libertylife/cabinet/sale/tujou/imgrc0104320090.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/libertylife/cabinet/sale/11972903/imgrc0092756510.jpg?_ex=128x128"
   - rank: 4
     name: "【1種類を選べる】きき湯 炭酸湯【きき湯】[炭酸入浴剤 薬用 温泉 風呂 温浴 "
     brand: "バスクリン（きき湯）"

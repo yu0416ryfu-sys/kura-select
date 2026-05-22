@@ -100,7 +100,7 @@ products:
     capacity: "250ml"
     pricePerUnit: "約13円/ml"
     rating: 4.67
-    reviewCount: 1000
+    reviewCount: 1001
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -136,7 +136,7 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rtxcn.3rdw61bb.g00rtxcn.3rdw7a34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fu-ma-store%2F001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fu-ma-store%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-ma-store/cabinet/main/shampoo_3.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-ma-store/cabinet/main/08719356/12786555/imgrc0111056026.jpg?_ex=128x128"
   - rank: 7
     name: "ケラスターゼ バン ニュートリ フォーティファイ"
     brand: "ケラスターゼ"

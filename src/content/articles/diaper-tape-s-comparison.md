@@ -187,8 +187,8 @@ products:
     price: 7579
     capacity: "66枚/3パック"
     pricePerUnit: "約115円/枚"
-    rating: 4.91
-    reviewCount: 23
+    rating: 4.92
+    reviewCount: 24
     features:
       - "パラベン・アルコール無添加の低刺激処方"
       - "8層構造の吸収力で長時間安心"

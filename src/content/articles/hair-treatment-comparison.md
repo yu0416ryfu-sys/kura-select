@@ -122,7 +122,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約22円/mL"
     rating: 4.73
-    reviewCount: 1171
+    reviewCount: 1172
     features:
       - "くせ毛ケアのディシプリンラインのコンディショナータイプ"
       - "髪の広がりを抑えまとまりのある艶やかな仕上がりをもたらす処方"

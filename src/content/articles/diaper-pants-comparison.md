@@ -105,7 +105,7 @@ products:
     capacity: "M150枚・L126枚・BIG108枚・BIG+72枚セット"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 1574
+    reviewCount: 1575
     features:
       - "複数サイズをセットで選べる"
       - "ふわもちタッチで肌に優しい"
@@ -126,8 +126,8 @@ products:
     price: 4359
     capacity: "M/L/BIG/BIGより大きいから選択、各3個パック"
     pricePerUnit: "0円/枚"
-    rating: 4.66
-    reviewCount: 5999
+    rating: 4.67
+    reviewCount: 6000
     features:
       - "素早く吸収する立体ギャザー設計"
       - "通気性に優れた素材で蒸れを軽減"

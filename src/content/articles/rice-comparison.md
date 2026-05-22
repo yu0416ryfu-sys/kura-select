@@ -12,7 +12,7 @@ products:
     capacity: "20kg"
     pricePerUnit: "約524円/kg"
     rating: 4.59
-    reviewCount: 14654
+    reviewCount: 14657
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -34,7 +34,7 @@ products:
     capacity: "5kg×2袋"
     pricePerUnit: "約568円/kg"
     rating: 4.27
-    reviewCount: 13627
+    reviewCount: 13629
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -135,7 +135,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r5uxn.3rdw630e.g00r5uxn.3rdw7dc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamatorice%2F10000070%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamatorice%2Fi%2F10000070%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 4.67
     reviewCount: 152
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/tym/koshi/bg/000324-2.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/tym/koshi/bg/000324-2p10.jpg?_ex=128x128"
     pricePerUnit: "約978円/kg"
   - rank: 7
     name: "無洗米 農薬節減米 岩手県産ひとめぼれ 10kg"
@@ -206,7 +206,7 @@ products:
   - rank: 10
     name: "令和7年 佐渡産コシヒカリ 2kg"
     brand: "食の宝島佐渡"
-    price: 3222
+    price: 3852
     capacity: "2kg"
     features:
       - "佐渡産コシヒカリの2kg商品"
@@ -224,7 +224,7 @@ products:
     rating: 4.77
     reviewCount: 30
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-syokunosado/cabinet/1/r-toki-g-sku.jpg?_ex=128x128"
-    pricePerUnit: "約1611円/kg"
+    pricePerUnit: "約1926円/kg"
 tags:
   - "お米"
   - "米"

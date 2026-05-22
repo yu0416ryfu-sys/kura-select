@@ -8,9 +8,9 @@ products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚"
     brand: "厳選いいもの本舗"
-    price: 9240
+    price: 5560
     capacity: "2000枚"
-    pricePerUnit: "約4.6円/枚"
+    pricePerUnit: "約2.8円/枚"
     rating: 4.7
     reviewCount: 280
     features:

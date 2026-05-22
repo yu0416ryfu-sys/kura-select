@@ -78,7 +78,7 @@ products:
     capacity: "パウダー5g + ペースト15g（計20g）"
     pricePerUnit: "約16.4円/g"
     rating: 4.19
-    reviewCount: 4722
+    reviewCount: 4723
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -100,7 +100,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約22円/g"
     rating: 4.47
-    reviewCount: 2176
+    reviewCount: 2177
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -188,7 +188,7 @@ products:
     capacity: "（20g）"
     pricePerUnit: "約74円/g"
     rating: 4.68
-    reviewCount: 1625
+    reviewCount: 1627
     features:
       - "ナノ粒子ハイドロキシアパタイトでエナメル質を補修"
       - "研磨剤不使用でやさしいホワイトニング"

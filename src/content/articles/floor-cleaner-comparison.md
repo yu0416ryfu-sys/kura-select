@@ -78,7 +78,7 @@ products:
     capacity: "40枚×3個"
     pricePerUnit: "約20円/枚"
     rating: 4.54
-    reviewCount: 80
+    reviewCount: 81
     features:
       - "立体吸着構造が床の凹凸に密着しホコリ・チリを逃さず捕捉"
       - "薬剤不使用のドライタイプで各種フロアワイパーに対応"

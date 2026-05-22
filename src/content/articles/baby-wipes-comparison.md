@@ -3,7 +3,7 @@ title: "おしりふき コスパ最強ランキング【2026年版】10選"
 description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比較。ムーニー、パンパース、グーン、レックなど人気メーカーの商品を肌優しさ・容量・単価で徹底比較。"
 category: "baby-wipes"
 publishedAt: "2026-05-17"
-updatedAt: "2026-05-22"
+updatedAt: 2026-05-22
 draft: false
 products:
   - rank: 1
@@ -155,7 +155,7 @@ products:
       - "特別な機能性が限定的"
     recommendedFor: "シンプルで経済的な選択肢を求める方、環境への配慮を重視する家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t960n.3rdw6406.g00t960n.3rdw7aa2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foga13%2Foshirihuki24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foga13%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oga13/cabinet/thumbnail2025/oshirihuki24_1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oga13/cabinet/2026kikaku/260421_s01.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -225,7 +225,7 @@ products:
     capacity: "54枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.61
-    reviewCount: 3738
+    reviewCount: 3739
     features:
       - "菌を99.9%除去する除菌処理"
       - "厚手タイプで吸収性が高い"

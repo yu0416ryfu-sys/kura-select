@@ -56,7 +56,7 @@ products:
     capacity: "400mL"
     pricePerUnit: "約9.4円/mL"
     rating: 4.65
-    reviewCount: 1051
+    reviewCount: 1052
     features:
       - "天然由来成分を重視したクレンジングオイル"
       - "400mLの大容量タイプ"
@@ -118,11 +118,11 @@ products:
   - rank: 6
     name: "manyo ピュアクレンジングオイル 200mL"
     brand: "manyo"
-    price: 2530
+    price: 2330
     capacity: "200mL"
-    pricePerUnit: "約13円/mL"
+    pricePerUnit: "約12円/mL"
     rating: 4.45
-    reviewCount: 1159
+    reviewCount: 1160
     features:
       - "植物由来オイルを配合したクレンジングオイル"
       - "200mLの標準サイズ"
@@ -136,7 +136,7 @@ products:
       - "韓国からの配送で時間がかかる場合がある"
     recommendedFor: "manyoのクレンジングをまず試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdwjn.3rdw6201.g00tdwjn.3rdw7cc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmanyo-official%2Fma105%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmanyo-official%2Fi%2F10000089%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/manyo-official/cabinet/10979173/12298620/imgrc0131021703.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/manyo-official/cabinet/13371190/13371231/imgrc0134386868.jpg?_ex=128x128"
   - rank: 7
     name: "DHC ディープクレンジングオイル 200mL"
     brand: "DHC"

@@ -174,7 +174,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1183円/kg"
     rating: 4.79
-    reviewCount: 2907
+    reviewCount: 2908
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -190,6 +190,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/10000008_page01_01.jpg?_ex=128x128"
   - rank: 9
+    name: "ハルの消臭剤 消臭ビーズ 空容器セット"
+    brand: "ハル・インダストリ"
+    price: 5049
+    capacity: "4kg"
+    pricePerUnit: "約1262円/kg"
+    rating: 4.68
+    reviewCount: 1625
+    features:
+      - "部屋や玄関などのニオイ対策に使える"
+      - "置き型・スプレー・詰替などから選べる"
+      - "ペットや靴まわりにも使いやすい"
+    pros:
+      - "生活臭対策に取り入れやすい"
+      - "容量違いを選べる"
+      - "設置場所に合わせやすい"
+    cons:
+      - "香りや無香料の好みは分かれる"
+      - "使用場所の注意書き確認が必要"
+    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/10000009_page01_01.jpg?_ex=128x128"
+  - rank: 10
     name: "無香空間 本体 315g"
     brand: "小林製薬"
     price: 448
@@ -212,28 +234,6 @@ products:
     recommendedFor: "香りが苦手な方・赤ちゃん・ペットがいる家庭・寝室に置きたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fkb0017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10009562%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/life/life05/kb0017_1a.jpg?_ex=128x128"
-  - rank: 10
-    name: "ハルの消臭剤 消臭ビーズ 空容器セット"
-    brand: "ハル・インダストリ"
-    price: 5610
-    capacity: "4kg"
-    pricePerUnit: "約1403円/kg"
-    rating: 4.68
-    reviewCount: 1625
-    features:
-      - "部屋や玄関などのニオイ対策に使える"
-      - "置き型・スプレー・詰替などから選べる"
-      - "ペットや靴まわりにも使いやすい"
-    pros:
-      - "生活臭対策に取り入れやすい"
-      - "容量違いを選べる"
-      - "設置場所に合わせやすい"
-    cons:
-      - "香りや無香料の好みは分かれる"
-      - "使用場所の注意書き確認が必要"
-    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/10000009_page01_01.jpg?_ex=128x128"
 tags:
   - "消臭剤 おすすめ"
   - "消臭剤 コスパ"

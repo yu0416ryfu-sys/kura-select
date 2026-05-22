@@ -210,7 +210,7 @@ products:
     capacity: "8個"
     pricePerUnit: "約384円/個"
     rating: 4.81
-    reviewCount: 2458
+    reviewCount: 2459
     features:
       - "全9色展開でカラーコーディネートを楽しめる"
       - "まとめ買いで常にストックを切らさない"

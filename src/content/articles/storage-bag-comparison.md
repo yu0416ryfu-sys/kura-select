@@ -96,9 +96,9 @@ products:
   - rank: 5
     name: "アルミ保存袋 ジップ付き"
     brand: "SEALIFE MART"
-    price: 562
+    price: 568
     capacity: "10枚〜50枚（サイズ・枚数選択可）"
-    pricePerUnit: "約56円/枚"
+    pricePerUnit: "約57円/枚"
     rating: 4.74
     reviewCount: 133
     features:
