@@ -35,6 +35,9 @@ reports/
 # ClaudeCode作業メモ
 ClaudeCode/
 
+# 実装計画・検討用ドキュメント（作業用、本番不要）
+docs/
+
 # Claude Code ローカル設定
 .claude/settings.local.json
 
