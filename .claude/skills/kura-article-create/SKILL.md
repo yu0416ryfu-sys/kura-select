@@ -18,6 +18,9 @@ description: |
 
 ## Step 1: 既存カテゴリ確認
 
+カテゴリ実体の確認（`src/content/categories/*.md` の存在確認・order 最大値）は従来どおりファイルを直接確認する。
+MCPが利用可能な場合は補助的に `mcp__kura-content__list_articles` を使い、同カテゴリの既存記事有無・商品件数・updatedAt を確認できる。
+
 `references/categories.md` は補助情報として扱い、必ず実体の `src/content/categories/*.md` を確認する。
 
 - 既存slug: `src/content/categories/{slug}.md` が存在することを確認
@@ -61,6 +64,19 @@ order: 44
 ## RAG参照
 
 `data/rag/capacity-patterns.jsonl` が存在する場合、対象カテゴリの既存 capacity 表記パターンを確認し、Step 4 の正規化で一貫した形式を使う。
+
+MCPが利用可能な場合は以下の2ステップで取得する:
+
+```text
+mcp__kura-content__search_rag(query:"{対象カテゴリslug}", type:"product") で articleFile を確認
+mcp__kura-content__search_rag(query:"{確認したarticleFile}", type:"capacity-pattern")
+```
+
+`search_rag` はJSONL全文の部分一致検索で、`type` はファイル絞り込みのみ。返却された行の `category` / `articleFile` を必ず確認し、無関係な行が混ざっていないかチェックする。
+
+MCPが利用不可の場合は、その旨をユーザーへ簡潔に報告してから、既存の2ステップ rg コマンドを使う（フォールバック）。
+
+フォールバック手順:
 
 `capacity-patterns.jsonl` には `category` フィールドがないため、まず `products.jsonl` で対象カテゴリの `articleFile` を確認し、その `articleFile` で絞り込む。対象記事が既に存在する場合は対象記事の `articleFile` を優先し、複数の `articleFile` がある場合は重複除去して複数確認する。
 

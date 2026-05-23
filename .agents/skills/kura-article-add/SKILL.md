@@ -23,7 +23,16 @@ description: |
 
 ## Step 1: 既存ファイルの確認
 
-対象ファイルを Read して以下を把握する:
+既存ファイルの確認は役割を分けて行う:
+
+- 商品配列（rank・name・capacity等）: MCPが利用可能な場合は `mcp__kura-content__get_article_products` を使う（本文を読まずに商品配列のみ返す）
+- 記事メタの取得は項目によって使い分ける:
+  - title・updatedAt・商品件数: `mcp__kura-content__list_articles` で取得可（description は返らない）
+  - description: 対象ファイルを Read して確認する
+
+MCP不可の場合は対象ファイルを Read して両方を確認する。
+
+以下を把握する:
 
 | 確認項目 | 目的 |
 |---------|------|
@@ -37,6 +46,31 @@ description: |
 ## RAG参照
 
 WebFetch前に以下を確認する。
+
+**MCPが利用可能な場合**
+
+match-decisions + 商品情報の同時取得:
+
+```text
+mcp__kura-content__get_product_context(articleFile, rank または name) を商品ごとに呼ぶ
+```
+
+rank が不明な場合は name で指定可。WebFetch・カテゴリ適合チェックは省略しない。
+
+capacity-patterns の取得:
+
+```text
+mcp__kura-content__search_rag(query:"{対象カテゴリslug}", type:"product") で articleFile を確認
+mcp__kura-content__search_rag(query:"{確認したarticleFile}", type:"capacity-pattern")
+```
+
+`search_rag` はJSONL全文の部分一致検索で、`type` はファイル絞り込みのみ。返却された行の `category` / `articleFile` を必ず確認し、無関係な行が混ざっていないかチェックする。
+
+**MCPが利用不可の場合（フォールバック）**
+
+MCPが利用できない旨をユーザーへ簡潔に報告してから、既存の rg コマンドを使用する。
+
+フォールバック手順:
 
 **`data/rag/match-decisions.jsonl` が存在する場合**
 対象記事の過去照合判定を参照し、商品ごとの URL 変更履歴・照合の難易度傾向を把握する。
