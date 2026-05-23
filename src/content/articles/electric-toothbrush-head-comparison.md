@@ -4,7 +4,7 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 updatedAt: 2026-05-23
-draft: true
+draft: false
 products:
   - rank: 1
     name: "オーラルB互換 替えブラシ 16本セット"

@@ -4,7 +4,7 @@ description: "サントリー・アサヒ・エビアンなど人気の天然水
 category: "mineral-water"
 publishedAt: "2026-05-23"
 updatedAt: 2026-05-23
-draft: true
+draft: false
 products:
   - rank: 1
     name: "LDC 自然の恵み 国産天然水 2L×12本"
