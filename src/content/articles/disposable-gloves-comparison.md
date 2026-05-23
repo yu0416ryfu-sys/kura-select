@@ -3,7 +3,7 @@ title: "使い捨て手袋 コスパ最強ランキング【2026年版】ニト�
 description: "使い捨て手袋を1枚あたりのコストで徹底比較。ニトリル・ビニール・ポリエチレンなど素材別に人気8選のフィット感・耐久性を解説します。"
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-22
+updatedAt: "2026-05-23"
 products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚"
@@ -49,6 +49,15 @@ products:
     recommendedFor: "掃除や調理補助に備えやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rwlsn.3rdw6a75.g00rwlsn.3rdw7b43/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwaste%2F8451-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwaste%2Fi%2F10000119%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/waste/cabinet/07401256/imgrc0106066128.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh8451-1.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-23"
+        price: 495
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh8451-1"
+        available: true
   - rank: 3
     name: "明成 プラスチック手袋 パウダーフリー 2000枚"
     brand: "明成"
@@ -93,6 +102,15 @@ products:
     recommendedFor: "掃除や調理補助に備えやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tovjn.3rdw6552.g00tovjn.3rdw7b0f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbelamer%2Fvpg-pf02-all%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbelamer%2Fi%2F10000216%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/belamer/cabinet/biiino/item/main-image/1694593798075_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Factive-lab%2Fcjfj1784629.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-23"
+        price: 1599
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/active-lab_cjfj1784629"
+        available: true
   - rank: 5
     name: "PVCグローブ 100枚×20箱"
     brand: "サンユー"
@@ -115,6 +133,15 @@ products:
     recommendedFor: "掃除や調理補助に備えやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3y1n.3rdw61c0.g00u3y1n.3rdw7ed0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanyu-store%2F002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanyu-store%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sanyu-store/cabinet/08992805/pvc1220-05.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh734020.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-23"
+        price: 9240
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh734020"
+        available: true
   - rank: 6
     name: "PVCグローブ 100枚×10箱"
     brand: "サンユー"
@@ -181,6 +208,15 @@ products:
     recommendedFor: "掃除や調理補助に備えやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz0kn.3rdw6a1c.g00tz0kn.3rdw7d29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbt-iimono%2Fdj-blue-01-100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbt-iimono%2Fi%2F10000176%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bt-iimono/cabinet/08681942/100.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmitumitu%2Fxm5132053a3a2.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-23"
+        price: 1860
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/mitumitu_xm5132053a3a2"
+        available: true
 tags:
   - "使い捨て手袋"
   - "ニトリル手袋"

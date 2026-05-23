@@ -3,7 +3,7 @@ title: "粘着クリーナー コスパ最強ランキング【2026年版】1巻
 description: "粘着クリーナー（コロコロ）を1巻あたりのコストで徹底比較。ニトムズ・アイリスオーヤマ・3M・レックなど人気9選を粘着力・コスパで解説します。"
 category: "lint-roller"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-22
+updatedAt: 2026-05-23
 products:
   - rank: 1
     name: "3M スコッチ ブライト 衣類用粘着クリーナー ペタコロ用ス"
@@ -77,8 +77,8 @@ products:
     price: 4200
     capacity: "3巻（1巻40周）"
     pricePerUnit: "約1400円/巻"
-    rating: 4.73
-    reviewCount: 124
+    rating: 4.74
+    reviewCount: 125
     features:
       - "フローリング対応で床に貼り付きにくい"
       - "独自のミシン目で片手でめくれる"

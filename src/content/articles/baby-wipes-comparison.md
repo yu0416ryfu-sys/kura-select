@@ -3,7 +3,7 @@ title: "おしりふき コスパ最強ランキング【2026年版】10選"
 description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比較。ムーニー、パンパース、グーン、レックなど人気メーカーの商品を肌優しさ・容量・単価で徹底比較。"
 category: "baby-wipes"
 publishedAt: "2026-05-17"
-updatedAt: 2026-05-22
+updatedAt: "2026-05-23"
 draft: false
 products:
   - rank: 1
@@ -38,7 +38,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_20661"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-22"
+        updatedAt: "2026-05-23"
   - rank: 2
     name: "おしりナップ やわらか厚手仕上げ 限定デザイン"
     brand: "ピジョン"
@@ -46,7 +46,7 @@ products:
     capacity: "80枚×40個"
     pricePerUnit: "約1.3円/枚"
     rating: 4.77
-    reviewCount: 7364
+    reviewCount: 7365
     features:
       - "天然由来成分のシアバター、アロエエキス配合"
       - "99%が水分で肌に優しい処方"
@@ -69,7 +69,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_2000363s"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-22"
+        updatedAt: "2026-05-23"
   - rank: 3
     name: "おしりふき ふんわり 菌99.9除去 大容量"
     brand: "レック"
@@ -100,7 +100,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_4903320482647"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-22"
+        updatedAt: "2026-05-23"
   - rank: 4
     name: "ムーニー おしりふき やわらか素材 詰め替え"
     brand: "ムーニー"
@@ -133,7 +133,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4903111159802-4"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-22"
+        updatedAt: "2026-05-23"
   - rank: 5
     name: "おしりふき 手口ふき シンプル"
     brand: "and mom"
@@ -187,6 +187,15 @@ products:
     recommendedFor: "ネット限定商品を好む方、大容量ながら肌への優しさを求める家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2F4560319046015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10002059%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00655.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhappylifehome%2Faj4750ea41a61f21.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-23"
+        price: 2418
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/happylifehome_aj4750ea41a61f21"
+        available: true
   - rank: 7
     name: "おしりふき 厚手 菌99.9除去 大容量"
     brand: "レック"
@@ -248,7 +257,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e170"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-22"
+        updatedAt: "2026-05-23"
   - rank: 9
     name: "おしり拭き 流せる シート 菌99.9除去"
     brand: "レック"
@@ -256,7 +265,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.41
-    reviewCount: 1592
+    reviewCount: 1595
     features:
       - "トイレに流せる素材で処理が簡単"
       - "菌を99.9%除去する除菌効果"
@@ -279,7 +288,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-22"
+        updatedAt: "2026-05-23"
   - rank: 10
     name: "おしり拭き 流せる シート 純水99.9% W保湿成分配合"
     brand: "Lec.Be"

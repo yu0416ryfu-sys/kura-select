@@ -79,7 +79,7 @@ products:
     capacity: "500mL×24本（12L）"
     pricePerUnit: "約98円/L"
     rating: 4.69
-    reviewCount: 1095
+    reviewCount: 1101
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"
@@ -115,7 +115,7 @@ products:
       - "18本入り大箱のため収納スペースがある程度必要"
     recommendedFor: "エコ意識が高い方・ストック場所に余裕があり大量購入したいご家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pifhn.3rdw6a3e.g00pifhn.3rdw7cc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakae%2F4514603380606-2c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakae%2Fi%2F10036447%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakae/cabinet/rpoint05182/4514603380606-2c.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakae/cabinet/2/4514603380606-2c.jpg?_ex=128x128"
   - rank: 6
     name: "かぞく想いの天然水 硝酸態窒素ゼロ 2L×12本"
     brand: "かぞく想いの天然水"

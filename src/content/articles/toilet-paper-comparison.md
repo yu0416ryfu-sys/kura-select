@@ -3,7 +3,7 @@ title: "トイレットペーパー シングル コスパランキング【2026
 description: "シングルのトイレットペーパーを1mあたりの価格で比較。長尺・芯なし・まとめ買い向けの商品を厳選して紹介します。"
 category: "toilet-paper"
 publishedAt: "2024-11-01"
-updatedAt: 2026-05-22
+updatedAt: 2026-05-23
 products:
   - rank: 1
     name: "森を守ろう トイレットペーパー シングル"
@@ -12,7 +12,7 @@ products:
     capacity: "100m×60ロール"
     pricePerUnit: "約0.59円/m"
     rating: 4.65
-    reviewCount: 738
+    reviewCount: 739
     features:
       - "無漂白の再生紙を使用したシングルタイプ"
       - "個包装でロールごとに保管しやすい"
@@ -118,7 +118,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.67円/m"
     rating: 4.78
-    reviewCount: 1032
+    reviewCount: 1033
     features:
       - "太穴コアレスのシングルトイレットペーパー"
       - "再生紙を使用した長巻きタイプ"
@@ -222,7 +222,7 @@ products:
     capacity: "250m×16ロール"
     pricePerUnit: "約0.75円/m"
     rating: 4.6
-    reviewCount: 409
+    reviewCount: 410
     features:
       - "パルプを使用した消臭機能付きのシングルタイプ"
       - "芯なしの長巻き仕様で省スペースに保管しやすい"
