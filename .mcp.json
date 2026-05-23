@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kura-content": {
+      "command": "corepack",
+      "args": ["pnpm", "mcp:kura-content"]
+    }
+  }
+}
