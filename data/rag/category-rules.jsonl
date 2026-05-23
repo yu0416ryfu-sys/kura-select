@@ -44,6 +44,6 @@
 {"type":"category-rule","category":"tissue-paper","units":["枚","箱"],"commonBrands":["大王製紙（エリエール）","アイリスオーヤマ"],"reviewSignals":[],"productCount":17}
 {"type":"category-rule","category":"toilet-cleaner","units":["mL","g"],"commonBrands":["ジョンソン（スクラビングバブル）"],"reviewSignals":[],"productCount":10}
 {"type":"category-rule","category":"toilet-paper","units":["m"],"commonBrands":["イトマン","日本製紙クレシア（スコッティ）"],"reviewSignals":[],"productCount":16}
-{"type":"category-rule","category":"toothpaste","units":["g","本","m"],"commonBrands":["エスケー石鹸","Ciメディカル","RUKEN","fluorfloss","ライオン（DENT.EX）","しろえ"],"reviewSignals":["アソート"],"productCount":40}
+{"type":"category-rule","category":"toothpaste","units":["本","g","m"],"commonBrands":["エスケー石鹸","Ciメディカル","RUKEN","fluorfloss","ライオン（DENT.EX）","しろえ"],"reviewSignals":["アソート"],"productCount":44}
 {"type":"category-rule","category":"washing-machine-cleaner","units":["g","個","mL"],"commonBrands":["シャボン玉石けん","くらし快適ショップ"],"reviewSignals":[],"productCount":10}
 {"type":"category-rule","category":"wrap-foil","units":["枚","m"],"commonBrands":["クレハ（クレラップ）","旭化成（サランラップ）","システムポリマー","旭化成（ジップロック）"],"reviewSignals":["サイズ選択"],"productCount":20}
