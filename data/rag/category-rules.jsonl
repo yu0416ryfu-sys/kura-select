@@ -24,6 +24,7 @@
 {"type":"category-rule","category":"hair-treatment","units":["g","mL"],"commonBrands":["ケラスターゼ"],"reviewSignals":[],"productCount":9}
 {"type":"category-rule","category":"hand-cream","units":["g","mL"],"commonBrands":["てんまん香粧薬房","ロクシタン"],"reviewSignals":["選べる","お試し"],"productCount":10}
 {"type":"category-rule","category":"hand-soap","units":["mL"],"commonBrands":["ジェームズマーティン","ライオン（キレイキレイ）"],"reviewSignals":[],"productCount":9}
+{"type":"category-rule","category":"insect-repellent","units":["mL"],"commonBrands":[],"reviewSignals":[],"productCount":9}
 {"type":"category-rule","category":"kitchen-bleach","units":["g","mL"],"commonBrands":["花王（ハイター）","丹羽久"],"reviewSignals":[],"productCount":7}
 {"type":"category-rule","category":"kitchen-paper","units":["枚","ロール"],"commonBrands":[],"reviewSignals":[],"productCount":5}
 {"type":"category-rule","category":"kitchen-sponge","units":["個"],"commonBrands":["ダスキン","MARNA（マーナ）"],"reviewSignals":["お試し","選べる"],"productCount":10}
