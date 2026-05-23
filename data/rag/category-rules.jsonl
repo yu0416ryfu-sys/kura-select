@@ -31,6 +31,7 @@
 {"type":"category-rule","category":"laundry-detergent","units":["g","mL","個"],"commonBrands":["ファーファ","ライオン（トップ）","P&G（さらさ）","ハイベック","トップライン","サンベック","花王（アタック）","がんこ本舗"],"reviewSignals":[],"productCount":38}
 {"type":"category-rule","category":"lint-roller","units":["巻","個","本"],"commonBrands":["アイム","ニトムズ"],"reviewSignals":[],"productCount":9}
 {"type":"category-rule","category":"mask","units":["枚"],"commonBrands":["ashop"],"reviewSignals":["お試し"],"productCount":10}
+{"type":"category-rule","category":"mineral-water","units":["mL"],"commonBrands":[],"reviewSignals":[],"productCount":8}
 {"type":"category-rule","category":"moisture-absorber","units":["個","mL"],"commonBrands":["炭八","オカモト（水とりぞうさん）"],"reviewSignals":["お試し","選べる"],"productCount":10}
 {"type":"category-rule","category":"moth-repellent","units":["個"],"commonBrands":["エステー（ムシューダ）"],"reviewSignals":[],"productCount":10}
 {"type":"category-rule","category":"mouthwash","units":["mL"],"commonBrands":["ジョンソン・エンド・ジョンソン（リステリン）"],"reviewSignals":[],"productCount":8}
