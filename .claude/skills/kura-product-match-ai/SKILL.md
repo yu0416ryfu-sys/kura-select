@@ -39,6 +39,18 @@ reports/toAI/kura-product-match-ai/done/product-match-input-YYYY-MM-DD.jsonl
 
 ## RAG参照
 
+MCPが利用可能な場合は以下を優先する。MCPが利用できない場合は、その旨をユーザーへ簡潔に報告してから下記フォールバックを使う。
+
+**MCPを使う場合**
+
+- 商品情報＋照合履歴: `mcp__kura-content__get_product_context(articleFile, rank)` を商品ごとに呼ぶ
+- match-decisions 一括確認: `mcp__kura-content__search_rag(query:"{articleFile}", type:"match-decision")`
+- category-rules 確認: `mcp__kura-content__search_rag(query:"{対象カテゴリslug}", type:"category-rule")`
+
+※ `search_rag` は部分一致検索。返却された record の `category` / `articleFile` を確認し、無関係な行が混ざっていないかチェックすること。
+
+**MCPが利用不可の場合（フォールバック）**
+
 `data/rag/match-decisions.jsonl` が存在する場合、同一商品（同一 `articleFile` + `rank`、または `currentName` 近似）の過去判定を参照し、action / confidence の傾向を確認する。
 
 `data/rag/category-rules.jsonl` が存在する場合、カテゴリの典型単位・頻出ブランドを参照し、除外語・容量単位の整合判断に使う。

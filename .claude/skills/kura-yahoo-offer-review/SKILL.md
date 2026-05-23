@@ -34,6 +34,19 @@ Yahoo Shopping の照合結果を整理し、`matchStatus` の昇格・保留・
 
 ## RAG参照
 
+MCPが利用可能な場合は以下を優先する。MCPが利用できない場合は、その旨をユーザーへ簡潔に報告してから下記フォールバックを使う。
+
+**MCPを使う場合**
+
+- 商品情報＋照合履歴: `mcp__kura-content__get_product_context(articleFile, rank)`
+- match-decisions 確認: `mcp__kura-content__search_rag(query:"{articleFile}", type:"match-decision")`
+
+※ `offers` 配列の詳細（`matchStatus` / `provider` / `matchedCapacity` / `matchNotes` 等）は MCP では取得できない。`get_article_products` が返す `offerCount` / `needsReview` はサマリーのみ。`offers` の内容確認は対象記事ファイルを直接 Read する（Workflow Step 1 のとおり）。
+
+※ `search_rag` は部分一致検索。返却された record の `articleFile` を確認し、無関係な行が混ざっていないかチェックすること。
+
+**MCPが利用不可の場合（フォールバック）**
+
 `data/rag/match-decisions.jsonl` が存在する場合、同一商品（同一 rakutenCode または name 近似）の過去判定を参照し、パターンの一貫性を確認する。存在しない場合は従来フローで続行する。
 
 ## 注意

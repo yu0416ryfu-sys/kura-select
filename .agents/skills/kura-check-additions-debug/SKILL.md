@@ -25,6 +25,16 @@ description: |
 
    ### RAG参照（Step 1 完了後に実施）
 
+   MCPが利用可能な場合は以下を優先する。MCPが利用できない場合は、その旨をユーザーへ簡潔に報告してから下記フォールバックを使う。
+
+   **MCPを使う場合**
+
+   `mcp__kura-content__search_rag(query:"{対象カテゴリslug}", type:"category-rule")` で対象カテゴリの典型単位・頻出ブランドを確認し、`CATEGORY_SEARCH_RULES` の `units` / `exclude` 調整の根拠として使う。
+
+   ※ `search_rag` は部分一致検索。返却された record の `category` を確認し、無関係な行が混ざっていないかチェックすること。
+
+   **MCPが利用不可の場合（フォールバック）**
+
    `data/rag/category-rules.jsonl` が存在する場合、対象カテゴリの典型単位・頻出ブランドを確認し、`CATEGORY_SEARCH_RULES` の `units` / `exclude` 調整の根拠として使う。
 
    ```bash

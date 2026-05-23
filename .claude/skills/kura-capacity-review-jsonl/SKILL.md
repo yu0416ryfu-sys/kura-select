@@ -109,6 +109,20 @@ corepack pnpm build
 
 ## RAG参照
 
+MCPが利用可能な場合は以下を優先する。MCPが利用できない場合は、その旨をユーザーへ簡潔に報告してから下記フォールバックを使う。
+
+**MCPを使う場合**
+
+- capacity-patterns 確認（2ステップ必須）:
+  1. `mcp__kura-content__search_rag(query:"{対象カテゴリslug}", type:"product")` で `articleFile` を確認
+  2. `mcp__kura-content__search_rag(query:"{確認したarticleFile}", type:"capacity-pattern")`
+  ※ `capacity-patterns.jsonl` には `category` フィールドがないため、必ず2ステップで検索する
+- products 確認: `mcp__kura-content__search_rag(query:"{対象カテゴリslug}", type:"product")`
+
+※ `search_rag` は部分一致検索。返却された record の `category` / `articleFile` を確認し、無関係な行が混ざっていないかチェックすること。
+
+**MCPが利用不可の場合（フォールバック）**
+
 `data/rag/capacity-patterns.jsonl` が存在する場合、同一または類似の capacity 表記（同じ `name` / 同じ `articleFile`）の既存判断を確認し、修正方針の一貫性を保つ。カテゴリ単位で絞り込む場合は `data/rag/products.jsonl` の `category` フィールドを併用する。
 
 修正を行った後は `kura-rag-refresh` スキルで `data/rag/` を再生成することを推奨する。存在しない場合は従来フローで続行する。
