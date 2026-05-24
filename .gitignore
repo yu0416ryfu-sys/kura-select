@@ -61,3 +61,6 @@ CLAUDE.md
 
 # 確認用ファイル
 rakuten-check.csv
+
+# RAG
+data/
