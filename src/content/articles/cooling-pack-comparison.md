@@ -4,7 +4,6 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 updatedAt: 2026-05-24
-draft: true
 products:
   - rank: 1
     name: "FIELDOOR ノーザンクーラー アイスパック 2個組"
@@ -100,6 +99,7 @@ tags:
   - "保冷剤 繰り返し"
   - "保冷剤 比較"
   - "ステンレス保冷剤"
+draft: false
 ---
 
 ## 保冷剤の選び方ガイド
