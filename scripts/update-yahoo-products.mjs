@@ -48,7 +48,7 @@ const rawEnv = loadEnv();
 const args = process.argv.slice(2);
 const DRY_RUN = args.includes("--dry-run");
 const FILE_FILTER = args.find((a) => a.startsWith("--file="))?.split("=")[1] ?? null;
-const CONCURRENCY = Math.max(1, Math.min(8, parseInt(args.find((a) => a.startsWith("--concurrency="))?.split("=")[1] ?? "2", 10)));
+const CONCURRENCY = Math.max(1, Math.min(8, parseInt(args.find((a) => a.startsWith("--concurrency="))?.split("=")[1] ?? "1", 10)));
 const API_INTERVAL_MS = parseInt(args.find((a) => a.startsWith("--api-interval="))?.split("=")[1] ?? "1000", 10);
 const LIMIT = parseInt(args.find((a) => a.startsWith("--limit="))?.split("=")[1] ?? "0", 10);
 
