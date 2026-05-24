@@ -3,7 +3,7 @@ title: "トイレットペーパー ダブル コスパランキング【2026年
 description: "ダブルのトイレットペーパーを1mあたりの価格で比較。2倍巻き・3倍巻き・肌触り重視の商品からおすすめ6選を紹介します。"
 category: "toilet-paper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-23
+updatedAt: "2026-05-24"
 products:
   - rank: 1
     name: "再生紙トイレットペーパー ダブル"
@@ -12,7 +12,7 @@ products:
     capacity: "27.5m×12ロール×8パック（96ロール）"
     pricePerUnit: "約1.2円/m"
     rating: 4.58
-    reviewCount: 3466
+    reviewCount: 3467
     features:
       - "再生紙を使ったダブルタイプ"
       - "無地・無印刷で日常使いしやすい"
@@ -49,6 +49,15 @@ products:
     recommendedFor: "交換頻度を減らしたい方・まとめ買い派・コスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7165192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077532%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7165192.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7666919.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 5570
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_7666919"
+        available: true
   - rank: 3
     name: "ハロー トイレットペーパー ダブル 2倍巻き"
     brand: "ハロー"
@@ -93,6 +102,15 @@ products:
     recommendedFor: "大家族・まとめ買い派の方・ダブルでもコストを抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fxh278%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10020158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/008/main-xh278.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9620643.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 3880
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9620643"
+        available: true
   - rank: 5
     name: "エリエール トイレットティシュー たっぷり長持ち ダブル 12ロール×6個セット"
     brand: "大王製紙（エリエール）"
@@ -100,7 +118,7 @@ products:
     capacity: "45m×12ロール×6個"
     pricePerUnit: "約2.0円/m"
     rating: 4.51
-    reviewCount: 585
+    reviewCount: 586
     features:
       - "パルプ100%の柔らかなダブルタイプ"
       - "エリエールブランドの高品質紙質"
@@ -122,7 +140,7 @@ products:
     capacity: "40m×4ロール"
     pricePerUnit: "約3.7円/m"
     rating: 4.81
-    reviewCount: 160
+    reviewCount: 161
     features:
       - "トリートメント配合で肌に優しい"
       - "長めシート設計で少量でも十分"

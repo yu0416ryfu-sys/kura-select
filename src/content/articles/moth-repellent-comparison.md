@@ -3,7 +3,7 @@ title: "衣類防虫剤 コスパ最強ランキング【2026年版】1個あた
 description: "クローゼット用衣類防虫剤を1個あたりのコストで徹底比較。ムシューダ・タンスにゴン・天然樟脳・アース製薬など人気10選を防虫力・コスパで解説します。"
 category: "moth-repellent"
 publishedAt: "2026-05-04"
-updatedAt: 2026-05-23
+updatedAt: "2026-05-24"
 products:
   - rank: 1
     name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×2箱セット"
@@ -12,7 +12,7 @@ products:
     capacity: "32個×2箱"
     pricePerUnit: "約28円/個"
     rating: 4.79
-    reviewCount: 127
+    reviewCount: 128
     features:
       - "引き出し・衣装ケース用に最適化された設計"
       - "1年間有効で交換頻度を抑えられる"
@@ -71,6 +71,15 @@ products:
     recommendedFor: "香りが気になる方・子ども服をやさしく防虫管理したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe392399h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10428451%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/021/4901070303021.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F4658568.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 764
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_4658568"
+        available: true
   - rank: 4
     name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入"
     brand: "エステー（ムシューダ）"
@@ -93,6 +102,15 @@ products:
     recommendedFor: "引き出し・衣装ケース収納が多い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe392400h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10428447%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/045/4901070303045.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901070303045.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 858
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901070303045"
+        available: true
   - rank: 5
     name: "ムシューダ 1年間有効 引き出し・衣装ケース用"
     brand: "エステー（ムシューダ）"
@@ -115,6 +133,15 @@ products:
     recommendedFor: "引き出し・衣装ケースをまとめて防虫・防カビケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10000859%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10000859%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin64/10000859.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901070303021.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 711
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901070303021"
+        available: true
   - rank: 6
     name: "大日本除蟲菊 タンスにゴンゴン 衣類の防虫剤 クローゼット用 無臭"
     brand: "白元アース（タンスにゴン）"
@@ -137,6 +164,15 @@ products:
     recommendedFor: "防虫・防カビ・消臭をまとめてケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4987115842472%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10436024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0053/4987115842472_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F3685161.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 609
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_3685161"
+        available: true
   - rank: 7
     name: "ムシューダ クローゼット用 防カビ剤配合 無香タイプ 1年間有効 3個入×5箱セット"
     brand: "エステー（ムシューダ）"
@@ -203,6 +239,15 @@ products:
     recommendedFor: "管理を楽にしたい方・年1回まとめ替えしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65240%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902781%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/240/65240.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuzuberu%2F20260410021305-01515.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 2241
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/suzuberu_20260410021305-01515"
+        available: true
   - rank: 10
     name: "ムシューダ ウォークインクローゼット専用 無香タイプ 1年間有効 3個入×3箱セット"
     brand: "エステー（ムシューダ）"

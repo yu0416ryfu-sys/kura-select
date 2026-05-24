@@ -3,7 +3,7 @@ title: "デンタルフロス コスパ最強ランキング【2026年版】1本
 description: "デンタルフロス・歯間ブラシを1本あたりのコストで徹底比較。GUM・クリニカ・糸ようじ・フロアフロスなど人気10選を使いやすさ・清潔効果・コスパで解説します。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
-updatedAt: 2026-05-23
+updatedAt: "2026-05-24"
 products:
   - rank: 1
     name: "Dr.デンリスト こども糸ピックス 30本入×4個"
@@ -49,6 +49,15 @@ products:
     recommendedFor: "手軽にフロスを始めたい方・外出先でも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa003200200606%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10123742%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/895/4987072025895.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-pal%2F4987072025895-1.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 798
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-pal_4987072025895-1"
+        available: true
   - rank: 3
     name: "ライオン クリニカ アドバンテージ フロス Y字タイプ"
     brand: "ライオン（クリニカ）"
@@ -71,6 +80,15 @@ products:
     recommendedFor: "奥歯のケアをしっかりしたい方・フロス初心者の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301203896%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10013302%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic201404/4903301203896_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk13773-a2603.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 494
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk13773-a2603"
+        available: true
   - rank: 4
     name: "デンタルプロ 歯間ブラシ 4【more30】【デンタルプロ】"
     brand: "デンタルプロ"
@@ -93,6 +111,15 @@ products:
     recommendedFor: "歯間ブラシを初めて使う方・歯周病ケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fd412800h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10014395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/634/4973227834634.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4973227834634.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 268
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4973227834634"
+        available: true
   - rank: 5
     name: "DENT.EX ウルトラフロスS 10本入×10パック"
     brand: "ライオン（DENT.EX）"
@@ -115,6 +142,15 @@ products:
     recommendedFor: "奥歯のケアを重視する方・まとめ買いで節約したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F13122%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10000202%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0523_p5/kirikae1/04080.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F13122.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 4750
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_13122"
+        available: true
   - rank: 6
     name: "DENT.EX ウルトラフロスS 院内指導用 40本入"
     brand: "ライオン（DENT.EX）"
@@ -137,6 +173,15 @@ products:
     recommendedFor: "外出先でも衛生的にフロスを使いたい方・奥歯のケアを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F13121%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10002248%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0523_p5/kirikae1/ultra_s.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F13121.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 2000
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_13121"
+        available: true
   - rank: 7
     name: "GUM デンタルフロス 550m"
     brand: "サンスター（GUM）"
@@ -166,7 +211,7 @@ products:
     capacity: "250m"
     pricePerUnit: "約11円/m"
     rating: 4.81
-    reviewCount: 240
+    reviewCount: 241
     features:
       - "384本の細い繊維を束ねた高密度フロス設計"
       - "詰め替え用でホルダーを再利用できるエコ設計"
@@ -181,6 +226,15 @@ products:
     recommendedFor: "環境に配慮した使い方をしたい方・フロアフロスのリピーター"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F0090024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000767%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/0090024_001.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 2998
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
+        available: true
   - rank: 9
     name: "フロアフロス 250m"
     brand: "fluorfloss"
@@ -188,7 +242,7 @@ products:
     capacity: "250m"
     pricePerUnit: "約12円/m"
     rating: 4.7
-    reviewCount: 466
+    reviewCount: 467
     features:
       - "384本の細い繊維を束ねた高密度フロス設計"
       - "250mの大容量でまとめ買い不要"
@@ -203,6 +257,15 @@ products:
     recommendedFor: "大容量フロスを求める方・毎日フロスを使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fpppp25%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0523_p5/mini/pppp25_15thsam01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 2998
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
+        available: true
   - rank: 10
     name: "フロアフロス 45m×3個 3個セット"
     brand: "fluorfloss"

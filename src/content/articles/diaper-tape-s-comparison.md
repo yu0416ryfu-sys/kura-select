@@ -3,7 +3,7 @@ title: "Sサイズ紙おむつ テープ型9選比較【2026年版】"
 description: "Sサイズのテープ型紙おむつ9製品を1枚あたりの価格で比較。メリーズ・ムーニー・パンパースほか、コスパと肌触りで選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-23
+updatedAt: "2026-05-23"
 products:
   - rank: 1
     name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚"
@@ -49,6 +49,15 @@ products:
     recommendedFor: "ムーニーブランドを愛用している家庭・大量買いで在庫確保したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F100642%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10001856%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/moony/100642.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 6688
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
+        available: true
   - rank: 3
     name: "ムーニー マシュマロ肌ごこち テープ Sサイズ"
     brand: "ユニ・チャーム（ムーニー）"
@@ -71,6 +80,15 @@ products:
     recommendedFor: "肌触りを重視したい方・ムーニーブランドを愛用している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00utr6n.3rdw61a0.g00utr6n.3rdw7bd8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonoria%2Fehxt8d51r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmonoria%2Fi%2F10001107%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/monoria/cabinet/2026_4/ehxt8d51r.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100641.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 1694
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100641"
+        available: true
   - rank: 4
     name: "パンパース テープ Sサイズ 74枚×4袋"
     brand: "P&G（パンパース）"
@@ -93,6 +111,15 @@ products:
     recommendedFor: "産院でパンパースを使っていた方・世界基準の品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7252901%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10193037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tasya108/imgrc0116993733.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134295-case.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 7020
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134295-case"
+        available: true
   - rank: 5
     name: "ムーニー 低刺激であんしん 紙おむつ テープ"
     brand: "ユニ・チャーム（ムーニーナチュラル）"
@@ -137,6 +164,15 @@ products:
     recommendedFor: "はじめての肌へのいちばんを愛用している方・大量買いでコストを抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u8nmn.3rdw604a.g00u8nmn.3rdw7c76/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-temp%2Fico2823%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-temp%2Fi%2F10002807%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-temp/cabinet/11372609/imgrc0097927181.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02650.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 4449
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos02650"
+        available: true
   - rank: 7
     name: "パンパース オムツ はじめての肌へのいちばん テープ Sサイズ【パンパース】"
     brand: "P&G（パンパース）"

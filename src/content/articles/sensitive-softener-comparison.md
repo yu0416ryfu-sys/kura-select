@@ -3,7 +3,7 @@ title: "敏感肌・赤ちゃん向け柔軟剤 おすすめランキング【20
 description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹底比較。さらさ・ランドリンボタニカル・ファーファフリー&など人気4選を低刺激性で解説。"
 category: "fabric-softener"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-23
+updatedAt: "2026-05-24"
 products:
   - rank: 1
     name: "ランドリン ボタニカル 柔軟剤 リラックスグリーンティー 詰め替え 大容量 860mL"
@@ -27,6 +27,15 @@ products:
     recommendedFor: "オーガニックにこだわる方・香りも楽しみたい敏感肌の方・ボタニカル志向の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe534100h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10635765%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/517/4582469502517.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469502517-5.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 5214
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469502517-5"
+        available: true
   - rank: 2
     name: "ランドリン ティーフレグランス グッドティータイム 柔軟剤"
     brand: "ネイチャーラボ（ランドリン）"
@@ -55,8 +64,8 @@ products:
     price: 1370
     capacity: "900mL"
     pricePerUnit: "約1.5円/mL"
-    rating: 4.68
-    reviewCount: 38
+    rating: 4.67
+    reviewCount: 39
     features:
       - "香料・着色料・シリコン・抗菌剤 4つの無添加"
       - "柔軟成分は植物由来100%"
@@ -93,6 +102,15 @@ products:
     recommendedFor: "赤ちゃんがいる家庭・敏感肌の方・無添加にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1osn.3rdw6db5.g00r1osn.3rdw76c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarasa-designstore%2Fset-ls021x3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarasa-designstore%2Fi%2F10002237%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sarasa-designstore/cabinet/c05/set-ls021x3_ver2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsarasa-designstore%2Fset-ls021x3.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 3119
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sarasa-designstore_set-ls021x3"
+        available: true
 tags:
   - "柔軟剤"
   - "敏感肌"

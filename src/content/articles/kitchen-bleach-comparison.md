@@ -3,7 +3,7 @@ title: "キッチン漂白剤 コスパ最強ランキング【2026年版】1mL�
 description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気7選を除菌力・コスパ・安全性で解説します。"
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
-updatedAt: 2026-05-23
+updatedAt: "2026-05-23"
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"
@@ -27,6 +27,15 @@ products:
     recommendedFor: "まな板・ふきん・食器の漂白除菌に・コスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6mcn.3rdw6191.g00r6mcn.3rdw73f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujix-sizai%2F4901301021144%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujix-sizai%2Fi%2F10000866%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fujix-sizai/cabinet/shohin00/kao/4901301021144.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4901301021144.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 3696
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4901301021144"
+        available: true
   - rank: 2
     name: "ライオン キッチンパワーブリーチ 業務用 5kg"
     brand: "ライオン"
@@ -49,6 +58,15 @@ products:
     recommendedFor: "ライオン製品愛用者・まとめ買いで日常使いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F426722%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10000829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/426722.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F1671344.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 1118
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_1671344"
+        available: true
   - rank: 3
     name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.26kg！★【"
     brand: "グラフィコ（OxiClean）"
@@ -115,6 +133,15 @@ products:
     recommendedFor: "台所用品のケアに取り入れやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sccjn.3rdw63ca.g00sccjn.3rdw709f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffines-f%2F4528931002130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffines-f%2Fi%2F10026578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fines-f/cabinet/06547305/07785924/imgrc0074882627.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frokusyoudo%2F2022yr12mt18daywq069ic073s83h3f.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 927
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rokusyoudo_2022yr12mt18daywq069ic073s83h3f"
+        available: true
   - rank: 6
     name: "niwaQ キッチン漂白剤 ボトル 300g"
     brand: "丹羽久"
@@ -137,6 +164,15 @@ products:
     recommendedFor: "台所用品のケアに取り入れやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tkpzn.3rdw6397.g00tkpzn.3rdw7d6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famuro-express%2Fvoalaeb47p6xfliyku535a6qay%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famuro-express%2Fi%2F10103439%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amuro-express/cabinet/10846748/32021029_0.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frokusyoudo%2F2022yr12mt18daywq069ic073s83h3f.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 927
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rokusyoudo_2022yr12mt18daywq069ic073s83h3f"
+        available: true
   - rank: 7
     name: "キッチンハイター 大ボトル"
     brand: "花王（ハイター）"

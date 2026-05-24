@@ -3,7 +3,7 @@ title: "ナプキン コスパ最強ランキング【2026年版】1枚あたり
 description: "生理用ナプキンを1枚あたりのコストで徹底比較。ソフィ・ロリエ・エリス・ウィスパーなど人気10選を吸収力・肌へのやさしさ・コスパで解説します。"
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
-updatedAt: 2026-05-23
+updatedAt: 2026-05-24
 products:
   - rank: 1
     name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20"
@@ -78,7 +78,7 @@ products:
     capacity: "5枚"
     pricePerUnit: "約504円/枚"
     rating: 4.63
-    reviewCount: 2164
+    reviewCount: 2165
     features:
       - "布ナプキンやライナーとして使える"
       - "肌面素材やサイズで選びやすい"
@@ -122,7 +122,7 @@ products:
     capacity: "1枚"
     pricePerUnit: "約999円/枚"
     rating: 4.61
-    reviewCount: 6027
+    reviewCount: 6028
     features:
       - "布ナプキンやライナーとして使える"
       - "肌面素材やサイズで選びやすい"
@@ -144,7 +144,7 @@ products:
     capacity: "1枚"
     pricePerUnit: "約999円/枚"
     rating: 4.61
-    reviewCount: 6027
+    reviewCount: 6028
     features:
       - "布ナプキンやライナーとして使える"
       - "肌面素材やサイズで選びやすい"

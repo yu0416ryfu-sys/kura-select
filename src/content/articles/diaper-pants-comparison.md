@@ -3,7 +3,7 @@ title: "パンツ型おむつ コスパ比較【2026年版】"
 description: "パンツ型おむつを1枚あたりの価格で比較。まずはMサイズのメリーズを例に、テープ型からの切り替え目安も解説します。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-23
+updatedAt: 2026-05-24
 products:
   - rank: 1
     name: "メリーズ エアスルー パンツ Mサイズ"
@@ -30,12 +30,12 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        price: 4995
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301418579-3.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301418579-3"
+        price: 5340
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901301419170.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901301419170"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-22"
+        updatedAt: "2026-05-24"
   - rank: 2
     name: "オヤスミマン 男の子 ビッグ以上 夜用"
     brand: "ユニ・チャーム（ムーニー）"
@@ -65,8 +65,8 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujiyaku%2F4903111211647-3.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4903111211647-3"
         available: true
-        matchStatus: "pending"
-        updatedAt: "2026-05-22"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
   - rank: 3
     name: "オヤスミマン 女の子 ビッグ以上 夜用"
     brand: "ユニ・チャーム"
@@ -97,7 +97,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4903111211807-3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-22"
+        updatedAt: "2026-05-24"
   - rank: 4
     name: "Genki！"
     brand: "アイリスオーヤマ"
@@ -105,7 +105,7 @@ products:
     capacity: "M150枚・L126枚・BIG108枚・BIG+72枚セット"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 1575
+    reviewCount: 1578
     features:
       - "複数サイズをセットで選べる"
       - "ふわもちタッチで肌に優しい"
@@ -127,7 +127,7 @@ products:
     capacity: "M/L/BIG/BIGより大きいから選択、各3個パック"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 6004
+    reviewCount: 6009
     features:
       - "素早く吸収する立体ギャザー設計"
       - "通気性に優れた素材で蒸れを軽減"
@@ -215,7 +215,7 @@ products:
     capacity: "M/L/BIGから選択、3個パック"
     pricePerUnit: "0円/枚"
     rating: 4.79
-    reviewCount: 7939
+    reviewCount: 7948
     features:
       - "ドラえもんのキャラクターデザイン採用"
       - "12時間までの長時間吸収対応"

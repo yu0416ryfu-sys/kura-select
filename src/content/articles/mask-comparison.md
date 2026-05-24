@@ -3,7 +3,7 @@ title: "使い捨てマスク コスパ最強ランキング【2026年版】1枚
 description: "使い捨て不織布マスクを1枚あたりのコストで徹底比較。超快適マスク・i:na・アイリスオーヤマ・バイキングなど人気10選を快適性・コスパで解説します。"
 category: "mask"
 publishedAt: "2026-05-03"
-updatedAt: 2026-05-23
+updatedAt: 2026-05-24
 products:
   - rank: 1
     name: "立体不織布マスク バイカラー 50枚"
@@ -12,7 +12,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約5.3円/枚"
     rating: 4.19
-    reviewCount: 22045
+    reviewCount: 22044
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -122,7 +122,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約18円/枚"
     rating: 4.41
-    reviewCount: 2330
+    reviewCount: 2332
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -203,6 +203,15 @@ products:
     recommendedFor: "肌へのやさしさと着用感を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugwon.3rdw61af.g00ugwon.3rdw786a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fechi-zen-r%2Fcho-kaiteki-mask-m-50-1pc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fechi-zen-r%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/echi-zen-r/cabinet/biiino/item/main-image/20240213101506_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft0090-01-a.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 2163
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t0090-01-a"
+        available: true
   - rank: 10
     name: "【1点限り！令和お試し価格】アイリスオーヤマ ナノエアーマスク"
     brand: "アイリスオーヤマ"

@@ -3,7 +3,7 @@ title: "洗濯洗剤 コスパ最強ランキング【2026年版】1回あたり
 description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉末・ジェルボール別におすすめ9選を紹介。楽天で買えるコスパ最強の洗濯洗剤を探している方必見です。"
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
-updatedAt: 2026-05-23
+updatedAt: "2026-05-24"
 products:
   - rank: 1
     name: "トップ クリアリキッド 業務用 4kg×3本"
@@ -27,6 +27,15 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r74en.3rdw6e21.g00r74en.3rdw7279/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-nontarou%2Fr5-15080k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-nontarou%2Fi%2F10001040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-nontarou/cabinet/r5-15080.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou-selection%2Fr5-15080k.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 4999
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou-selection_r5-15080k"
+        available: true
   - rank: 2
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
     brand: "ファーファ"
@@ -49,6 +58,15 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2Fs621006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10002096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/9fa-fa/fafa4/02539939/4902135147420_case.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 3978
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
+        available: true
   - rank: 3
     name: "WORKERS 作業着液体洗剤 業務用"
     brand: "WORKERS"
@@ -94,6 +112,15 @@ products:
     recommendedFor: "洗浄力・ブランド信頼性を重視する方・詰め替え派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7260889%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10217201%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/7280531.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b0csfn4l78-20260329.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 12150
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b0csfn4l78-20260329"
+        available: true
   - rank: 5
     name: "ハイベック プレミアムドライ 1100g"
     brand: "ハイベック"
@@ -116,6 +143,15 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3zun.3rdw6a0f.g00r3zun.3rdw79f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec%2F00000101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec%2Fi%2F10000019%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec/cabinet/10613881/11103765/imgrc0113501552.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 6600
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
+        available: true
   - rank: 6
     name: "サンベック高級洗剤 1000g"
     brand: "サンベック"
@@ -123,7 +159,7 @@ products:
     capacity: "1000g"
     pricePerUnit: "約6.4円/g"
     rating: 4.7
-    reviewCount: 643
+    reviewCount: 644
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -160,6 +196,15 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100003250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10003319%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/4525048232214_03.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fg0290005set.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 4367
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_g0290005set"
+        available: true
   - rank: 8
     name: "海へ Fukii 詰替 380g×3個セット"
     brand: "がんこ本舗"

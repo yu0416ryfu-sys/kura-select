@@ -3,7 +3,7 @@ title: "コットン コスパ最強ランキング【2026年版】10選 1枚あ
 description: "コットン・コットンパッドを1枚あたりのコストで比較。ビオレ・シルコットなど11商品を肌触り・コスパで解説します。"
 category: "cotton"
 publishedAt: "2026-05-03"
-updatedAt: 2026-05-23
+updatedAt: "2026-05-24"
 products:
   - rank: 1
     name: "コットンパフ カット綿 大判"
@@ -49,6 +49,15 @@ products:
     recommendedFor: "使用頻度が高くストック重視で選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r4h2n.3rdw6775.g00r4h2n.3rdw7687/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Festhe-time%2Feye058%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Festhe-time%2Fi%2F10000304%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/esthe-time/cabinet/02514599/lineup/eye3000/cotton_p1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhenojikan%2Feye058.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 2585
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthenojikan_eye058"
+        available: true
   - rank: 3
     name: "業務用フェイシャルコットン"
     brand: "エステマート"
@@ -71,6 +80,15 @@ products:
     recommendedFor: "実用性重視でフェイシャルコットンを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q72tn.3rdw624c.g00q72tn.3rdw7fe6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Festhemart%2Fetf-cotton68%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Festhemart%2Fi%2F10001046%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/esthemart/cabinet/img56562367.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhemart%2Fetf-cotton68.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 1833
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthemart_etf-cotton68"
+        available: true
   - rank: 4
     name: "【1点限り！令和お試し価格】ユニ・チャーム シルコット うるうる コットン"
     brand: "ユニ・チャーム（シルコット）"
@@ -93,6 +111,15 @@ products:
     recommendedFor: "化粧水をたっぷり使いたい方・肌が敏感な方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903111456789-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12194578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4903111456789.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111478064x2.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 329
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111478064x2"
+        available: true
   - rank: 5
     name: "ナチュラルパフ コットンパフ セット"
     brand: "アコレ"
@@ -114,7 +141,7 @@ products:
       - "パック用途ではサイズ感を確認しておきたい"
     recommendedFor: "シンプルなコットンパフを日常使いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ut3hn.3rdw6e12.g00ut3hn.3rdw713e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fippinstore%2F220824-r000209000434%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fippinstore%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ippinstore/cabinet/12553331/12643423/12643432/3.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ippinstore/cabinet/12553331/12643423/13379744/1.jpg?_ex=128x128"
   - rank: 6
     name: "フェイシャルコットンパッド"
     brand: "Luvum"

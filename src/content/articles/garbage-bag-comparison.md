@@ -3,9 +3,40 @@ title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
 description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ3選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
-updatedAt: 2026-05-23
+updatedAt: 2026-05-24
 products:
   - rank: 1
+    name: "HEIKO PP食パン袋 半斤用 300枚"
+    brand: "HEIKO"
+    price: 1395
+    capacity: "300枚"
+    pricePerUnit: "約4.7円/枚"
+    rating: 4.77
+    reviewCount: 1469
+    features:
+      - "ごみや汚れ物の小分けに使える袋"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "家庭内のにおい対策や分別に使いやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "本来用途とサイズを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "家庭内のにおい対策や分別に使いやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uc6ln.3rdw66a7.g00uc6ln.3rdw7212/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamazenyamaya%2F49017554468143%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamazenyamaya%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamazenyamaya/cabinet/09561915/09597830/3p_han_w.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2Fne1h.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 1455
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_ne1h"
+        available: true
+  - rank: 2
     name: "TANOSEE　ゴミ袋エコノミー　乳白半透明"
     brand: "TANOSEE（国内大手OEM）"
     price: 5742
@@ -27,28 +58,6 @@ products:
     recommendedFor: "コスト最優先の方・大量に使う方・まとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F766-1730%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10276544%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin700_02/766-1730.jpg?_ex=128x128"
-  - rank: 2
-    name: "HEIKO PP食パン袋 半斤用 300枚"
-    brand: "HEIKO"
-    price: 1850
-    capacity: "300枚"
-    pricePerUnit: "約6.2円/枚"
-    rating: 4.78
-    reviewCount: 1466
-    features:
-      - "ごみや汚れ物の小分けに使える袋"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "家庭内のにおい対策や分別に使いやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "本来用途とサイズを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "家庭内のにおい対策や分別に使いやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uc6ln.3rdw66a7.g00uc6ln.3rdw7212/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamazenyamaya%2F49017554468143%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamazenyamaya%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamazenyamaya/cabinet/09561915/09597830/3p_han_w.jpg?_ex=128x128"
   - rank: 3
     name: "HEIKO PPパン袋 20-30 300枚"
     brand: "HEIKO"
@@ -71,6 +80,15 @@ products:
     recommendedFor: "家庭内のにおい対策や分別に使いやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u8lpn.3rdw6471.g00u8lpn.3rdw751c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivlan%2F1004-000190%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivlan%2Fi%2F10000794%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livlan/cabinet/ranking/1004-000190_logo.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2F2030l300.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 1375
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_2030l300"
+        available: true
 tags:
   - "ゴミ袋"
   - "コスパ"

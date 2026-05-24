@@ -3,7 +3,7 @@ title: "コンディショナー コスパ最強ランキング【2026年版】1
 description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気10選をダメージケア・コスパで解説します。"
 category: "conditioner"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-23
+updatedAt: 2026-05-24
 products:
   - rank: 1
     name: "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア"
@@ -49,6 +49,15 @@ products:
     recommendedFor: "カラーやパーマで傷んだ髪の方・毎週のヘアケアを強化したい方・サロン品質のケアを自宅で行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptlfn.3rdw66e3.g00ptlfn.3rdw7472/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakano-d%2Flesse-soda350%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakano-d%2Fi%2F10015726%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakano-d/cabinet/brand/hoyu/pic/lesse-soda350_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk0602-a2510.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 1556
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk0602-a2510"
+        available: true
   - rank: 3
     name: "パルガ ヘアコンディショナー アクアリッチ 500g 詰替"
     brand: "パルガ"
@@ -70,7 +79,7 @@ products:
       - "500g容量で頻繁な購入が必要"
     recommendedFor: "細い髪の方・サロン品質のコンディショナーを求める方・継続的なダメージケアを行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000013%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989115/parga_2026_ar500.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_ar500_p10.jpg?_ex=128x128"
   - rank: 4
     name: "パルガ ヘアコンディショナー ソフトリッチR 500g 詰替"
     brand: "パルガ"
@@ -92,7 +101,7 @@ products:
       - "一般流通が限られる"
     recommendedFor: "硬い髪の方・ふんわり感よりまとまりを求める方・継続的なケアを行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989115/parga_2026_sr500.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_sr500_p10.jpg?_ex=128x128"
   - rank: 5
     name: "THANN トリートメントコンディショナー OE 200g"
     brand: "THANN"
@@ -114,7 +123,7 @@ products:
       - "個性的な香りで好みが分かれる"
     recommendedFor: "天然由来成分を重視する方・香りを楽しみたい方・少量で長く使える商品を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tld4n.3rdw6a04.g00tld4n.3rdw7115/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthann-natural%2F10000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthann-natural%2Fi%2F10000017%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thann-natural/cabinet/compass1580371769.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thann-natural/cabinet/thum/point_10/10000017.jpg?_ex=128x128"
   - rank: 6
     name: "パルガ ヘアコンディショナー アクアリッチ 210g"
     brand: "パルガ"
@@ -136,7 +145,7 @@ products:
       - "詰替用ではなく通常ボトル"
     recommendedFor: "携帯用を探している方・細い髪の方・まずは試してみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-09%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000010%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989115/parga_2026_ar210.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_ar210_p10.jpg?_ex=128x128"
   - rank: 7
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
     brand: "クラシエ（いち髪）"
@@ -203,6 +212,15 @@ products:
     recommendedFor: "大容量でコストを抑えたい方・サロン品質のコンディショナーを求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qklvn.3rdw6cc2.g00qklvn.3rdw7141/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymura7200%2Fmilleum-co1800%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymura7200%2Fi%2F10000987%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymura7200/cabinet/deimi/demi-mlm4.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffreefeel%2Fdmml006226x006240.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 3880
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/freefeel_dmml006226x006240"
+        available: true
   - rank: 10
     name: "アンナトゥモール モイストヘアコンディショナー 300ml 詰替"
     brand: "アンナトゥモール"
@@ -225,6 +243,15 @@ products:
     recommendedFor: "頭皮の健康を重視する方・ノンシリコンで潤いのあるコンディショナーを探している方・パラベンフリーにこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Fa0090013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10001865%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/02716961/02830334/imgrc0114048910.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fa0090012.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 2970
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_a0090012"
+        available: true
 tags:
   - "コンディショナー"
   - "コスパ"

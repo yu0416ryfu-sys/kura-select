@@ -3,7 +3,7 @@ title: "ジェルボール洗剤 コスパ最強ランキング【2026年版】1
 description: "ジェルボール洗剤を1個あたりのコストで徹底比較。アリエール・アタックZERO・ボールドなど人気商品を洗浄力・香り・コスパで解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
-updatedAt: 2026-05-23
+updatedAt: "2026-05-24"
 products:
   - rank: 1
     name: "トップ クリアリキッド 詰め替え"
@@ -49,6 +49,15 @@ products:
     recommendedFor: "まとめ買いでコスパを重視する方・香り付き洗剤を好む方・消臭・抗菌効果も求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2Fs621006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10002096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/9fa-fa/fafa4/02539939/4902135147420_case.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
+        price: 3978
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
+        available: true
   - rank: 3
     name: "さらさ 洗濯洗剤 詰め替え 6個セット"
     brand: "P&G（さらさ）"
@@ -71,6 +80,15 @@ products:
     recommendedFor: "さらさをヘビーユーザーとして使っている方・コスパ最優先で大容量まとめ買いをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzvkn.3rdw6b15.g00qzvkn.3rdw7644/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fl-plus%2F7175761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fl-plus%2Fi%2F10226984%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/l-plus/cabinet/tenposupport21/7287020.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhikaritv%2F2010126844.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 8280
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010126844"
+        available: true
   - rank: 4
     name: "さらさ 洗濯洗剤 詰め替え"
     brand: "P&G（さらさ）"
@@ -115,6 +133,15 @@ products:
     recommendedFor: "スーツやコートを自宅でドライクリーニングしたい方・衣替えの季節に高級衣類をまとめて洗いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3zun.3rdw6a0f.g00r3zun.3rdw79f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec%2F00000101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec%2Fi%2F10000019%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec/cabinet/10613881/11103765/imgrc0113501552.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 6600
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
+        available: true
   - rank: 6
     name: "サンベック高級洗剤"
     brand: "トップライン"
@@ -122,7 +149,7 @@ products:
     capacity: "1000g"
     pricePerUnit: "約6.4円/g"
     rating: 4.7
-    reviewCount: 643
+    reviewCount: 644
     features:
       - "スーツ・コート・ダウン・ニット・カシミアが洗えるドライ洗剤"
       - "無香料処方で素材本来の風合いを守る"
@@ -203,6 +230,15 @@ products:
     recommendedFor: "ドライマーク衣類を自宅で手軽に洗いたい方・クリーニング代を節約したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2F620666%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10001124%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/01/dry/omakase2017.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F900024.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 2750
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_900024"
+        available: true
   - rank: 10
     name: "メイクブラシクリーナー"
     brand: "博雲堂（ハクウンドウ）"
@@ -210,7 +246,7 @@ products:
     capacity: "500ml"
     pricePerUnit: "約7.5円/ml"
     rating: 4.53
-    reviewCount: 263
+    reviewCount: 264
     features:
       - "メイクブラシ専用の液体クリーニング洗剤"
       - "天然由来成分配合でブラシの毛並みを傷めない設計"
