@@ -2505,7 +2505,8 @@ async function processArticle(file, articlesDir, zeroState) {
         (data.name && isMultiMeasureVariantItemName(data.name)) ||
         isManualCapacityApiConflict
       );
-      const newPricePerUnit = (!shouldFreezePriceCapacity && capacity && data.price !== null)
+      const hasKnownApiPrice = typeof data.price === 'number' && data.price > 0;
+      const newPricePerUnit = (!shouldFreezePriceCapacity && capacity && hasKnownApiPrice)
         ? calcPricePerUnit(data.price, capacity)
         : null;
 
@@ -2536,7 +2537,7 @@ async function processArticle(file, articlesDir, zeroState) {
           if (mergedCapacity) {
             if (mergedCapacity !== capacity) {
               updates.newCapacity = mergedCapacity;
-              updates.pricePerUnit = data.price !== null
+              updates.pricePerUnit = hasKnownApiPrice
                 ? calcPricePerUnit(data.price, mergedCapacity)
                 : newPricePerUnit;
               capacityNotes.push(`capacity判定: 既存の実容量を維持し、API販売数量だけ更新`);
@@ -2559,7 +2560,7 @@ async function processArticle(file, articlesDir, zeroState) {
             const diff = Math.abs(newComparable.total - oldComparable.total) / oldComparable.total;
             if (diff > 0) {
               updates.newCapacity = extractedCap;
-              updates.pricePerUnit = data.price !== null
+              updates.pricePerUnit = hasKnownApiPrice
                 ? calcPricePerUnit(data.price, extractedCap)
                 : newPricePerUnit;
               capacityNotes.push(`capacity判定: 販売数量のみ同士のため API 値に更新`);
@@ -2588,7 +2589,7 @@ async function processArticle(file, articlesDir, zeroState) {
                 ? extractedCap.replace(new RegExp(newTotal.unit, 'g'), oldTotal.unit)
                 : extractedCap;
               updates.newCapacity = normalizedCap;
-              updates.pricePerUnit = data.price !== null
+              updates.pricePerUnit = hasKnownApiPrice
                 ? calcPricePerUnit(data.price, normalizedCap)
                 : newPricePerUnit;
               capacityNotes.push(`capacity判定: 差異検出により capacity を更新`);
@@ -2596,7 +2597,7 @@ async function processArticle(file, articlesDir, zeroState) {
           } else if (!capacity && !oldTotal && newTotal && method === '[Item/Get]') {
             // 既存 capacity が未認識単位等でパース不能な場合、Item/Get 確定商品なら API 値で置換
             updates.newCapacity = extractedCap;
-            updates.pricePerUnit = data.price !== null
+            updates.pricePerUnit = hasKnownApiPrice
               ? calcPricePerUnit(data.price, extractedCap)
               : newPricePerUnit;
             capacityNotes.push(`capacity判定: 既存値を解析できないため API 抽出値に置換`);
@@ -2624,7 +2625,7 @@ async function processArticle(file, articlesDir, zeroState) {
           delete updates.newCapacity;
         }
 
-        const existingCapacityPricePerUnit = capacity && data.price !== null
+        const existingCapacityPricePerUnit = capacity && hasKnownApiPrice
           ? calcPricePerUnit(data.price, capacity)
           : null;
         updates.pricePerUnit = existingCapacityPricePerUnit ?? beforeSnapshot?.pricePerUnit ?? null;

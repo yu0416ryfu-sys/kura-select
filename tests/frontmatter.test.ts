@@ -1344,6 +1344,10 @@ describe("calcPricePerUnit", () => {
   it("解析できない容量は null を返す", () => {
     expect(calcPricePerUnit(1000, "詰め替え用")).toBeNull();
   });
+
+  it("price 0 は単価を計算しない", () => {
+    expect(calcPricePerUnit(0, "10枚")).toBeNull();
+  });
 });
 
 // ─── fixNameCapacityConflicts ─────────────────────────────────────────────

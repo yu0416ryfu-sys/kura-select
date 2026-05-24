@@ -7,6 +7,13 @@ import {
   getProviderName,
   getProviderPurchaseLabel,
 } from "../../lib/offers";
+import {
+  compareKnownPrice,
+  comparePricePerUnit,
+  formatPriceOrConfirmation,
+  isKnownPrice,
+  shouldShowPricePerUnit,
+} from "../../lib/price";
 
 interface VisibleOfferForTable {
   provider: OfferProvider;
@@ -53,13 +60,25 @@ export default function ComparisonTableSort({ products, caption }: Props) {
         av = a.rank;
         bv = b.rank;
       } else if (sortKey === "price") {
-        av = a.priceSummary?.lowestPrice ?? a.price;
-        bv = b.priceSummary?.lowestPrice ?? b.price;
+        return compareKnownPrice(
+          a.priceSummary?.lowestPrice ?? a.price,
+          b.priceSummary?.lowestPrice ?? b.price,
+          sortDir
+        );
       } else if (sortKey === "pricePerUnit") {
-        const extract = (s?: string) =>
-          s ? parseFloat(s.replace(/[^0-9.]/g, "")) : Infinity;
-        av = extract(a.pricePerUnit);
-        bv = extract(b.pricePerUnit);
+        return comparePricePerUnit(
+          {
+            price: a.priceSummary?.lowestPrice ?? a.price,
+            pricePerUnit: a.pricePerUnit,
+            lowestProvider: a.priceSummary?.lowestProvider,
+          },
+          {
+            price: b.priceSummary?.lowestPrice ?? b.price,
+            pricePerUnit: b.pricePerUnit,
+            lowestProvider: b.priceSummary?.lowestProvider,
+          },
+          sortDir
+        );
       } else {
         av = a.rating ?? 0;
         bv = b.rating ?? 0;
@@ -203,7 +222,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                         );
                         const price: number | null =
                           priceRow?.price ??
-                          (offer.provider === "rakuten" ? p.price : null);
+                          (offer.provider === "rakuten" && isKnownPrice(p.price) ? p.price : null);
                         const isLowest =
                           p.priceSummary?.lowestPrice != null &&
                           price != null &&
@@ -219,7 +238,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                               最安
                             </span>
                             <span class="font-bold tabular-nums text-right whitespace-nowrap">
-                              {price != null ? `¥${price.toLocaleString()}` : "価格確認"}
+                              {formatPriceOrConfirmation(price)}
                             </span>
                             <a
                               href={offer.url}
@@ -240,7 +259,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                   </td>
                   <td class="px-3 py-3 text-sm whitespace-nowrap align-middle">{p.capacity}</td>
                   <td class="px-3 py-3 align-middle">
-                    {p.pricePerUnit && p.priceSummary?.lowestProvider === "rakuten" && (
+                    {p.priceSummary?.lowestProvider === "rakuten" && shouldShowPricePerUnit(p.priceSummary?.lowestPrice ?? p.price, p.pricePerUnit) && (
                       <span class="inline-flex min-w-[78px] justify-center bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium whitespace-nowrap">
                         {p.pricePerUnit}
                       </span>
@@ -299,7 +318,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
               {/* 容量・コスパ・評価 */}
               <div class="flex flex-wrap gap-2 mb-3 text-sm">
                 <span class="text-[var(--color-text-sub)] whitespace-nowrap">{p.capacity}</span>
-                {p.pricePerUnit && p.priceSummary?.lowestProvider === "rakuten" && (
+                {p.priceSummary?.lowestProvider === "rakuten" && shouldShowPricePerUnit(p.priceSummary?.lowestPrice ?? p.price, p.pricePerUnit) && (
                   <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium whitespace-nowrap">
                     {p.pricePerUnit}
                   </span>
@@ -319,7 +338,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                   );
                   const price: number | null =
                     priceRow?.price ??
-                    (offer.provider === "rakuten" ? p.price : null);
+                    (offer.provider === "rakuten" && isKnownPrice(p.price) ? p.price : null);
                   const isLowest =
                     p.priceSummary?.lowestPrice != null &&
                     price != null &&
@@ -335,7 +354,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                         最安
                       </span>
                       <span class="font-bold tabular-nums text-sm whitespace-nowrap">
-                        {price != null ? `¥${price.toLocaleString()}` : "価格確認"}
+                        {formatPriceOrConfirmation(price)}
                       </span>
                       <a
                         href={offer.url}

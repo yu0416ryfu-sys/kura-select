@@ -7,6 +7,7 @@ import {
   getStaticAffiliateProvidersFromEnv,
   type ProductOffer,
 } from "../../lib/offers";
+import { formatPriceOrConfirmation, isKnownPrice, shouldShowPricePerUnit } from "../../lib/price";
 
 const linkProviders = getEnabledAffiliateProvidersFromEnv(import.meta.env);
 const priceProviders = getStaticAffiliateProvidersFromEnv(import.meta.env);
@@ -37,7 +38,10 @@ const yahooSearchFallback = {
 };
 const visibleOffers = getVisibleOffers(product, { enabledProviders: linkProviders, yahooSearchFallback });
 const priceSummary = getOfferPriceSummary(product, { enabledProviders: priceProviders });
-const displayPrice = priceSummary.lowestPrice ?? product.price;
+const displayPrice = priceSummary.lowestPrice ?? (isKnownPrice(product.price) ? product.price : null);
+const showPricePerUnit =
+  priceSummary.lowestProvider === "rakuten" &&
+  shouldShowPricePerUnit(displayPrice, product.pricePerUnit);
 ---
 
 <div class="bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200 rounded-xl p-4 md:p-5 mb-8 shadow-sm">
@@ -66,11 +70,11 @@ const displayPrice = priceSummary.lowestPrice ?? product.price;
         {product.name}
       </h2>
       <div class="flex items-center gap-3 mt-1.5 flex-wrap">
-        <span class="text-lg font-bold text-[var(--color-text)]">¥{displayPrice.toLocaleString()}</span>
+        <span class="text-lg font-bold text-[var(--color-text)]">{formatPriceOrConfirmation(displayPrice)}</span>
         {priceSummary.priceRows.length >= 2 && priceSummary.priceDifferenceLabel && (
           <span class="text-xs text-sky-600">{priceSummary.priceDifferenceLabel}</span>
         )}
-        {product.pricePerUnit && priceSummary.lowestProvider === "rakuten" && (
+        {showPricePerUnit && (
           <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium">
             {product.pricePerUnit}
           </span>

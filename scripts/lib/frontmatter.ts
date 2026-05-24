@@ -345,6 +345,8 @@ export function normalizeCapacityTotal(
  * 例: (250,  "30枚（携帯用）")        → "約8.3円/枚"
  */
 export function calcPricePerUnit(price: number, capacity: string): string | null {
+  if (!Number.isFinite(price) || price <= 0) return null;
+
   const extracted = extractCapacityTotal(capacity);
   if (!extracted) return null;
 

@@ -180,6 +180,11 @@ describe("getComparableOffers", () => {
     const p = { rakutenUrl, price: 5000, offers: [] };
     expect(getComparableOffers(p, { enabledProviders: ["rakuten"] }).some(o => o.provider === "rakuten")).toBe(true);
   });
+
+  it("楽天 fallback offer は price 0 なら価格比較に使われない", () => {
+    const p = { rakutenUrl, price: 0, offers: [] };
+    expect(getComparableOffers(p, { enabledProviders: ["rakuten"] }).some(o => o.provider === "rakuten")).toBe(false);
+  });
 });
 
 // ─── getLowestOffer ───────────────────────────────────────────────────────────
