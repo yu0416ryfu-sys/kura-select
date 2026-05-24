@@ -30,11 +30,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fearth2001%2Fbs-703.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgrong%2Fkl0013-1.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-23"
-        price: 1760
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/earth2001_bs-703"
+        updatedAt: "2026-05-24"
+        price: 1780
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/grong_kl0013-1"
         available: true
   - rank: 2
     name: "ヒマラヤ岩塩バスソルト ピンクソルト 訳あり"
@@ -63,7 +63,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fearth2001%2Fwp-003.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-23"
+        updatedAt: "2026-05-24"
         price: 2139
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/earth2001_wp-003"
         available: true
@@ -93,8 +93,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flibertylife%2Fb-epsom-05.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-23"
+        matchStatus: "matched"
+        updatedAt: "2026-05-24"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/libertylife_b-epsom-05"
         available: true
@@ -147,7 +147,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuisosum%2Fh-and-750.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-23"
+        updatedAt: "2026-05-24"
         price: 3800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/suisosum_h-and-750"
         available: true
@@ -173,6 +173,15 @@ products:
     recommendedFor: "コスパ重視の方・毎日入浴剤を使う方・ギフトを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r685n.3rdw6e25.g00r685n.3rdw7405/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyou2han%2F10001336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyou2han%2Fi%2F10001336%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/you2han/cabinet/nyzai/nyu100-20161.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsolotta%2F50988.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 3740
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/solotta_50988"
+        available: true
   - rank: 7
     name: "あまおういちご 入浴剤 26個セット"
     brand: "湯屋の手土産"
@@ -195,6 +204,15 @@ products:
     recommendedFor: "入浴剤をコスパと使いやすさで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ts2zn.3rdw659d.g00ts2zn.3rdw7108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuyanotemiyage%2F27040004-30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuyanotemiyage%2Fi%2F10000276%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuyanotemiyage/cabinet/27040004-30_01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F123636322.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-24"
+        price: 1300
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_123636322"
+        available: true
   - rank: 8
     name: "バスクリン きき湯 オリジナルギフトセット"
     brand: "バスクリン"
