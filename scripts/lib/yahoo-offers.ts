@@ -15,7 +15,7 @@ export function upsertYahooOfferInFrontmatter(
   productName: string,
   candidate: YahooOfferCandidate,
   updatedAt: string,
-  options: { capacityVerified?: boolean; strictMatch?: boolean } = {}
+  options: { capacityVerified?: boolean; strictMatch?: boolean; forceReplaceMatched?: boolean } = {}
 ): ProviderOfferUpdateResult {
   return upsertProviderOfferInFrontmatter(content, productName, candidate, updatedAt, options);
 }

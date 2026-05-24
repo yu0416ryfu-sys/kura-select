@@ -615,6 +615,22 @@ describe("extractCapacityFromItemName", () => {
     ).toBe("12ロール×6個");
   });
 
+  it("「のN個セット」表記を乗算として抽出する（Pattern 1f）", () => {
+    expect(extractCapacityFromItemName("メリーズ エアスルー テープ Mサイズ 52枚の4個セット")).toBe("52枚×4個");
+  });
+
+  it("スペース区切りの「N個セット」を乗算として抽出する（Pattern 1f）", () => {
+    expect(extractCapacityFromItemName("パンパース さらさらケア テープ 52枚 4個セット")).toBe("52枚×4個");
+  });
+
+  it("「のN個」（セットなし）を乗算として抽出する（Pattern 1f）", () => {
+    expect(extractCapacityFromItemName("ビオレ ボディウォッシュ 400mLの3個")).toBe("400mL×3個");
+  });
+
+  it("「の1個セット」は乗算にしない（Pattern 1f: qty=1スキップ）", () => {
+    expect(extractCapacityFromItemName("シャンプー 400mLの1個セット")).toBe("400mL");
+  });
+
   it("ロール単位のみのタイトルからロール数を抽出する（Pattern 4）", () => {
     expect(extractCapacityFromItemName("エリエール トイレットペーパー 48ロール まとめ買い")).toBe("48ロール");
   });

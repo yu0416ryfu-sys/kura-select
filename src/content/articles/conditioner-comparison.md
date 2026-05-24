@@ -30,11 +30,11 @@ products:
   - rank: 2
     name: "ホーユー レセ ソーダベースメイク ヘアコンディショナー 350g"
     brand: "ホーユー（レセ）"
-    price: 2145
+    price: 1866
     capacity: "350g"
-    pricePerUnit: "約6.1円/g"
-    rating: 4.51
-    reviewCount: 314
+    pricePerUnit: "約5.3円/g"
+    rating: 4.59
+    reviewCount: 59
     features:
       - "炭酸クレンジング処方で毛穴の汚れを浮かせる"
       - "ダメージした髪に輝きと滑らかさを戻す"
@@ -47,8 +47,8 @@ products:
       - "毎日使うコンディショナーではなく週1程度の使用"
       - "350gと小容量のため頻繁な購入が必要"
     recommendedFor: "カラーやパーマで傷んだ髪の方・毎週のヘアケアを強化したい方・サロン品質のケアを自宅で行いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptlfn.3rdw66e3.g00ptlfn.3rdw7472/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakano-d%2Flesse-soda350%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakano-d%2Fi%2F10015726%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakano-d/cabinet/brand/hoyu/pic/lesse-soda350_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhsmn.3rdw6c67.g00qhsmn.3rdw791a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftuyakami%2F10002319%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftuyakami%2Fi%2F10002319%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tuyakami/cabinet/goq007/imgrc0182672265.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

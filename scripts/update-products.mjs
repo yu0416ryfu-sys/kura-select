@@ -1235,6 +1235,12 @@ async function buildProductMatchReportItem({ file, category, articleTitle, conte
 }
 
 const CATEGORY_SEARCH_RULES = {
+  'air-conditioner-filter': {
+    keywords: ['エアコンフィルター 家庭用', 'エアコンフィルター 不織布 枚', 'エアコンフィルター 粘着 貼る'],
+    include: ['エアコンフィルター', 'エアコン用フィルター'],
+    exclude: ['車両用', 'カーエアコン', '純正交換', 'ブラシ', 'クリーナー', '洗剤'],
+    units: ['枚', '個'],
+  },
   'body-soap': {
     keywords: ['ボディソープ', 'ボディウォッシュ', '全身シャンプー'],
     include: ['ボディソープ', 'ボディーソープ', 'ボディウォッシュ', '全身シャンプー', '全身', '石鹸', '石けん', 'せっけん'],

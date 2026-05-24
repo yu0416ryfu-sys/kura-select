@@ -535,6 +535,16 @@ export function extractCapacityFromItemName(itemName: string): string | null {
         return `${capUnitM[1]}${capUnitM[2]}×${packXpackM[1]}${packXpackM[2]}×${packXpackM[3]}${packXpackM[4]}`;
       }
     }
+
+    // パターン1f: "のN個[セット/パック]" またはスペース+"N個[セット/パック]" の販売数量乗算
+    // × 記号なしでスペースや「の」で区切られる Yahoo 商品名に対応
+    // 例: "52枚の4個セット" → "52枚×4個"  "400mL 3個セット" → "400mL×3個"
+    const koSetRe = /^\s*(?:の\s*)?(\d[\d,]*)\s*個(?:セット|パック)?/;
+    const koSetM = remaining.match(koSetRe);
+    if (koSetM) {
+      const qty = parseInt(koSetM[1].replace(/,/g, ''), 10);
+      if (qty > 1) return `${result}×${koSetM[1]}個`;
+    }
   }
 
   // パターン1b: スペース区切りの数量表現 "50m 72ロール" → "50m×72ロール"

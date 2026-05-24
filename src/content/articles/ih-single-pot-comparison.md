@@ -75,7 +75,7 @@ products:
   - rank: 4
     name: "パール金属 おうち御膳 すきやき鍋 18cm HB-6603"
     brand: "パール金属"
-    price: 2490
+    price: 1210
     capacity: "18cm / 約1.3L"
     pricePerUnit: "1個あたり約2,490円"
     rating: 0
@@ -92,8 +92,8 @@ products:
       - "深さは控えめで汁物を多く作る用途には向きにくい"
       - "食器洗い乾燥機は使用不可"
     recommendedFor: "すき焼きや卓上調理を中心に使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu3n.3rdw6ae6.g00tzu3n.3rdw7f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fttcshop%2F4549308566031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fttcshop%2Fi%2F10014842%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ttcshop/cabinet/pl12/4549308566031.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psopn.3rdw654b.g00psopn.3rdw78e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fj-shop%2Fp02563%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fj-shop%2Fi%2F10012580%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/j-shop/cabinet/02933114/p02563-01.jpg?_ex=128x128"
   - rank: 5
     name: "アルミ卓上鍋 SHIEN 旨宴 16cm IH対応"
     brand: "リビング"

@@ -57,7 +57,7 @@ export function upsertProviderOfferInFrontmatter(
   productName: string,
   candidate: OfferCandidate,
   updatedAt: string,
-  options: { capacityVerified?: boolean; strictMatch?: boolean } = {}
+  options: { capacityVerified?: boolean; strictMatch?: boolean; forceReplaceMatched?: boolean } = {}
 ): ProviderOfferUpdateResult {
   const parsed = parseFrontmatter(content);
   if (!parsed || !Array.isArray(parsed.data.products)) {
@@ -88,27 +88,50 @@ export function upsertProviderOfferInFrontmatter(
     }
 
     // matched または matchStatus なし（legacy）: 同一URLのみ更新を許可
+    // forceReplaceMatched が true の場合は別URL候補でも置換（旧 matched が rejected と判明した場合）
     if (!existingMatchStatus || existingMatchStatus === "matched") {
       if (existingUrl !== candidate.url) {
-        return { content, changed: false, reason: `既存matched/legacy ${provider} offerを別URL候補で上書きしない` };
-      }
-      let updated: Record<string, unknown> = {
-        ...existing,
-        updatedAt,
-      };
-      if (!isAmazon) {
-        updated = {
-          ...updated,
-          price: candidate.price ?? existing.price,
-          imageUrl: candidate.imageUrl ?? existing.imageUrl,
-          available: candidate.available,
+        if (!options.forceReplaceMatched) {
+          return { content, changed: false, reason: `既存matched/legacy ${provider} offerを別URL候補で上書きしない` };
+        }
+        // 旧 matched offer を pending に降格して新 URL に置換
+        let newOffer: Record<string, unknown> = {
+          ...existing,
+          label: candidate.label,
+          url: candidate.url,
+          matchStatus: "pending",
+          updatedAt,
         };
+        if (!isAmazon) {
+          newOffer.available = candidate.available;
+          if (candidate.price != null) newOffer.price = candidate.price;
+          else delete newOffer.price;
+          if (candidate.imageUrl != null) newOffer.imageUrl = candidate.imageUrl;
+          else delete newOffer.imageUrl;
+        } else {
+          newOffer = sanitizeAmazonOffer(newOffer);
+          newOffer.updatedAt = updatedAt;
+        }
+        offers[existingIndex] = newOffer;
       } else {
-        // Amazon: price/available/imageUrl を削除して保存フィールドを制限
-        updated = sanitizeAmazonOffer(updated);
-        updated.updatedAt = updatedAt;
+        let updated: Record<string, unknown> = {
+          ...existing,
+          updatedAt,
+        };
+        if (!isAmazon) {
+          updated = {
+            ...updated,
+            price: candidate.price ?? existing.price,
+            imageUrl: candidate.imageUrl ?? existing.imageUrl,
+            available: candidate.available,
+          };
+        } else {
+          // Amazon: price/available/imageUrl を削除して保存フィールドを制限
+          updated = sanitizeAmazonOffer(updated);
+          updated.updatedAt = updatedAt;
+        }
+        offers[existingIndex] = updated;
       }
-      offers[existingIndex] = updated;
     } else if (existingMatchStatus === "pending") {
       const urlChanged = existingUrl !== candidate.url;
       if (urlChanged) {

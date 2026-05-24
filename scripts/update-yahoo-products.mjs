@@ -17,7 +17,7 @@ import { join, resolve } from "path";
 import yaml from "js-yaml";
 import { buildSearchKeyword } from "./lib/frontmatter.ts";
 import { searchYahooShoppingItems } from "./lib/yahoo-shopping.ts";
-import { upsertYahooOfferInFrontmatter } from "./lib/yahoo-offers.ts";
+import { upsertYahooOfferInFrontmatter, markProviderOffersForReview } from "./lib/yahoo-offers.ts";
 import {
   evaluateYahooCandidate,
   toComparableCapacity,
@@ -173,7 +173,7 @@ async function processArticle(file) {
 
       let selected = null;
       let selectedEvaluation = null;
-      const rejectedReasons = [];
+      const rejectedCandidates = [];
       for (const c of candidates) {
         const evaluation = evaluateYahooCandidate(product, c);
         if (evaluation.ok) {
@@ -190,25 +190,63 @@ async function processArticle(file) {
           lines.push(`- url multiplier: ×${selectedEvaluation?.urlMultiplier ?? 1}`);
           break;
         } else {
-          rejectedReasons.push({ name: c.name, reason: evaluation.reason, candidateCapacity: evaluation.candidateCapacity ?? null });
+          rejectedCandidates.push({ name: c.name, url: c.url, reason: evaluation.reason, candidateCapacity: evaluation.candidateCapacity ?? null });
         }
       }
 
       if (!selected) {
         lines.push("- decision: review");
         lines.push(`- candidates: ${candidates.length}`);
-        for (const r of rejectedReasons.slice(0, 5)) {
+        for (const r of rejectedCandidates.slice(0, 5)) {
           lines.push(`- rejected: ${r.name}`);
           lines.push(`  - reason: ${r.reason}`);
           if (r.candidateCapacity) {
             lines.push(`  - candidate capacity: ${r.candidateCapacity}`);
           }
         }
+
+        // 既存の matched offer が今回の候補リストで capacity 不一致として弾かれた場合は review に降格する
+        const existingMatched = product.offers.find((o) => o.provider === "yahoo" && (o.matchStatus === "matched" || !o.matchStatus));
+        if (existingMatched) {
+          const rejectedExisting = rejectedCandidates.find((r) => r.url === existingMatched.url);
+          if (rejectedExisting) {
+            lines.push(`- downgrade: matched offer が capacity 不一致（${rejectedExisting.reason}）のため review に降格`);
+            if (!DRY_RUN) {
+              const result = markProviderOffersForReview(content, product.name, "yahoo", `capacity不一致: ${rejectedExisting.reason}`);
+              if (result.changed) content = result.content;
+            }
+          }
+        }
       } else {
+        // 既存 matched offer が今回 rejected かつ別URLの候補が選ばれた場合は forceReplaceMatched で一括置換
+        const existingMatched = product.offers.find((o) => o.provider === "yahoo" && (o.matchStatus === "matched" || !o.matchStatus));
+        const existingMatchedUrl = existingMatched?.url;
+        let rejectedExistingMatched = existingMatchedUrl
+          ? rejectedCandidates.find((r) => r.url === existingMatchedUrl)
+          : null;
+        if (!rejectedExistingMatched && existingMatchedUrl) {
+          const existingCandidate = candidates.find((c) => c.url === existingMatchedUrl);
+          if (existingCandidate) {
+            const existingEvaluation = evaluateYahooCandidate(product, existingCandidate);
+            if (!existingEvaluation.ok) {
+              rejectedExistingMatched = {
+                name: existingCandidate.name,
+                url: existingCandidate.url,
+                reason: existingEvaluation.reason,
+                candidateCapacity: existingEvaluation.candidateCapacity ?? null,
+              };
+            }
+          }
+        }
+        const shouldForceReplace = !!(rejectedExistingMatched && selected.url !== existingMatchedUrl);
+        if (shouldForceReplace && rejectedExistingMatched) {
+          lines.push(`- replace: matched offer が capacity 不一致（${rejectedExistingMatched.reason}）のため新候補に置換`);
+        }
         if (!DRY_RUN) {
           const result = upsertYahooOfferInFrontmatter(content, product.name, selected, today, {
             capacityVerified: true,
             strictMatch: selectedEvaluation?.strictMatch ?? false,
+            forceReplaceMatched: shouldForceReplace,
           });
           if (result.changed) content = result.content;
           else lines.push(`- write skipped: ${result.reason ?? "unchanged"}`);

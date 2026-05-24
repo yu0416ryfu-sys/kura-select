@@ -79,13 +79,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s6grn.3rdw65cd.g00s6grn.3rdw7bff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuton-colors%2Fa979%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuton-colors%2Fi%2F10000407%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/futon-colors/images/shohin/a979.jpg?_ex=128x128"
   - rank: 4
-    name: "プレミアムバスマット 吸収力2.5倍"
+    name: "Mirx プレミアムバスマット 珪藻土 吸水2.5倍"
     brand: "Mirx"
-    price: 0
+    price: 1880
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
-    rating: 0
-    reviewCount: 0
+    rating: 4.42
+    reviewCount: 2495
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"
@@ -101,8 +101,8 @@ products:
       - "価格帯が高めになる傾向"
       - "落下時の破損リスク"
     recommendedFor: "機能性と品質を重視する人"
-    rakutenUrl: "https://item.rakuten.co.jp/neo-lifestyle/bmt001/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u2t0n.3rdw6d5c.g00u2t0n.3rdw74d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneo-lifestyle%2Fbmt001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneo-lifestyle%2Fi%2F10000083%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-lifestyle/cabinet/zaka01/09054478/09779292/bmt001_cp.jpg?_ex=128x128"
 tags:
   - "バスマット おすすめ"
   - "バスマット コスパ"

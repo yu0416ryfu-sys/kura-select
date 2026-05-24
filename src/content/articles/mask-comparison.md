@@ -72,13 +72,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sa33n.3rdw66a9.g00sa33n.3rdw7255/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcicib%2Fmskbhxh50%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcicib%2Fi%2F10002044%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cicib/cabinet/08727032/top3-.jpg?_ex=128x128"
   - rank: 4
-    name: "不織布カラーマスク 50枚（立体 3D WEIMALL）"
+    name: "WEIMALL 不織布カラーマスク 立体3D 50枚"
     brand: "ashop"
     price: 450
     capacity: "50枚"
     pricePerUnit: "約9.0円/枚"
     rating: 4.19
-    reviewCount: 2338
+    reviewCount: 2339
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
