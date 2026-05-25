@@ -3,7 +3,7 @@ title: "敏感肌・赤ちゃん向け柔軟剤 おすすめランキング【20
 description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹底比較。さらさ・ランドリンボタニカル・ファーファフリー&など人気10選を低刺激性で解説。"
 category: "fabric-softener"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-25
+updatedAt: "2026-05-25"
 products:
   - rank: 1
     name: "ランドリン 柔軟剤 詰め替えアソートセット 9個入り"
@@ -49,6 +49,15 @@ products:
     recommendedFor: "香りが苦手な方・化学物質過敏症・つわり中の方・赤ちゃん・ペットのいる家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2F870283%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10001848%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/06059944/4902135322537_24.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
+        price: 1040
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902135322537-73-30000839"
+        available: true
   - rank: 3
     name: "さらさ 柔軟剤 詰め替え 超ジャンボ 1350ml 6個セット"
     brand: "P&G（さらさ）"
@@ -71,6 +80,15 @@ products:
     recommendedFor: "赤ちゃんがいる家庭・植物由来成分にこだわる方・コスパ重視でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7174547%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077966%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/tenposupport21/7261004.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhikaritv%2F2010123672.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
+        price: 6980
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010123672"
+        available: true
   - rank: 4
     name: "ナイスアンドクイック ボタニカル 柔軟剤 詰替 ピュアコットンシャボンの香り 1320mL 2個セット"
     brand: "ナイスアンドクイック"
@@ -115,6 +133,15 @@ products:
     recommendedFor: "赤ちゃん・敏感肌の方・シリコンフリーを求める方・石鹸系の香りが好みの方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz9zn.3rdw68f2.g00tz9zn.3rdw7e5b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffitsonlinestore%2Flds-softrf3set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffitsonlinestore%2Fi%2F10000515%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fitsonlinestore/cabinet/item/lds/08688167/imgrc0101553377.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffitsonlinestore%2Flds-softset3.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-25"
+        price: 3234
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fitsonlinestore_lds-softset3"
+        available: true
   - rank: 6
     name: "ラボン 柔軟剤 ラグジュアリーリラックス 詰め替え 960ml 5個セット"
     brand: "ネイチャーラボ（ラボン）"
@@ -159,6 +186,15 @@ products:
     recommendedFor: "フルーティな香りが好みの方・花粉シーズンも気になる方・まとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2F4582469490586_5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10003206%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/07941994/4582469490586_5.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469490586-5.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
+        price: 5214
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469490586-5"
+        available: true
   - rank: 8
     name: "ラボン 柔軟剤 ラブリーシック 詰め替え 960ml 5個セット"
     brand: "ネイチャーラボ（ラボン）"
@@ -181,6 +217,15 @@ products:
     recommendedFor: "植物由来成分と赤ちゃん対応を両立したい方・まとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2F4582469492764_5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10004828%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/07941994/4582469492764_5.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469492764-5.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
+        price: 5214
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469492764-5"
+        available: true
   - rank: 9
     name: "ランドリン 柔軟剤 クラシックフローラル つめかえ用 480mL 10個セット"
     brand: "ネイチャーラボ（ランドリン）"
@@ -228,11 +273,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469502517-5.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4582469502517.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
-        price: 5214
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469502517-5"
+        updatedAt: "2026-05-25"
+        price: 1043
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4582469502517"
         available: true
 tags:
   - "柔軟剤"
