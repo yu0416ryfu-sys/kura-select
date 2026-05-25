@@ -1,18 +1,18 @@
 ---
 title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
-description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ3選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
+description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ6選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
-updatedAt: 2026-05-24
+updatedAt: 2026-05-25
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
     brand: "HEIKO"
-    price: 1395
+    price: 1470
     capacity: "300枚"
-    pricePerUnit: "約4.7円/枚"
+    pricePerUnit: "約4.9円/枚"
     rating: 4.77
-    reviewCount: 1469
+    reviewCount: 1474
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -59,6 +59,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F766-1730%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10276544%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin700_02/766-1730.jpg?_ex=128x128"
   - rank: 3
+    name: "とって付きポリ袋 L 白半透明"
+    brand: "日本サニパック"
+    price: 3817
+    capacity: "50枚×10点セット（500枚）"
+    pricePerUnit: "約7.6円/枚"
+    rating: 5
+    reviewCount: 9
+    features:
+      - "両サイドに取っ手が付いており、口を結ばずに持ち運べる構造"
+      - "白半透明素材で中身をある程度確認できる"
+      - "Lサイズ対応で一般的な家庭用ゴミ箱に使いやすいサイズ感"
+    pros:
+      - "取っ手が付いているのでゴミ出し時の持ち運びがしやすい"
+      - "日本サニパックの定番商品でリピート購入に向く安心感がある"
+      - "半透明なので廃棄前にある程度中身を確認できる"
+    cons:
+      - "薄手タイプのため、重いゴミや鋭利なものには向かない場合がある"
+      - "Lサイズのため、小さめのゴミ箱には合わない場合がある"
+    recommendedFor: "取っ手付きゴミ袋を好む方、Lサイズゴミ箱を使っている方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902393558198-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10068514%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic201404/4902393558198_1.jpg?_ex=128x128"
+  - rank: 4
     name: "HEIKO PPパン袋 20-30 300枚"
     brand: "HEIKO"
     price: 3980
@@ -89,6 +111,50 @@ products:
         price: 1375
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_2030l300"
         available: true
+  - rank: 5
+    name: "KT43 取っ手付きポリ袋 45L 半透明"
+    brand: "ハウスホールドジャパン"
+    price: 2974
+    capacity: "30枚×5点セット（150枚）"
+    pricePerUnit: "約20円/枚"
+    rating: 5
+    reviewCount: 3
+    features:
+      - "45L対応で一般的な家庭用大型ゴミ箱に合わせやすいサイズ"
+      - "取っ手付きデザインで口を結ばずに運搬できる"
+      - "半透明素材でゴミの分別確認がしやすい"
+    pros:
+      - "45Lという大容量サイズで生活ゴミをまとめやすい"
+      - "取っ手があることでゴミ出し時の持ち運びがラク"
+      - "ハウスホールドジャパン製のファミリー向け定番品"
+    cons:
+      - "薄手タイプのため重いゴミへの耐久性は限られる"
+      - "取っ手分だけ口が小さくなるため、大型ゴミには注意が必要"
+    recommendedFor: "45Lゴミ箱を使う家庭、取っ手付きゴミ袋を好む方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4580287300940-005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12059341%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2021a/4580287300940.jpg?_ex=128x128"
+  - rank: 6
+    name: "とって付きビニール袋 20L〜25L"
+    brand: "日本サニパック"
+    price: 0
+    capacity: "20枚×4セット（80枚）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "20L〜25L対応の小型ゴミ袋で洗面所やトイレなどの小型ゴミ箱に向くサイズ"
+      - "取っ手付きで口を結ばずにゴミ出しできる"
+      - "0.016mmの薄手素材で一般的なゴミの処理に適した設計"
+    pros:
+      - "小型サイズなので部屋ごとのゴミ箱に使い分けしやすい"
+      - "取っ手で持ち運べるため、ゴミ箱からそのまま外に出せる"
+      - "ペット用汚物袋やアウトドアなど用途を広げやすい"
+    cons:
+      - "薄手（0.016mm）のため、重みや鋭利なものには向かない"
+      - "小容量タイプのため、台所の大型ゴミ箱には使えない"
+    recommendedFor: "洗面所・トイレ・デスク周りなど小型ゴミ箱を複数使いする方"
+    rakutenUrl: "https://item.rakuten.co.jp/tbnexus/sanipak-yc29/"
+    imageUrl: ""
 tags:
   - "ゴミ袋"
   - "コスパ"
