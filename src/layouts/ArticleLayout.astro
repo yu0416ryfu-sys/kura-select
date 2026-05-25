@@ -187,7 +187,11 @@ const productJsonLds = data.products
             sid: import.meta.env.VALUECOMMERCE_SID,
             pid: import.meta.env.VALUECOMMERCE_PID,
           };
-          const visibleOffers = getVisibleOffers(top, { enabledProviders: linkProviders, yahooSearchFallback });
+          const amazonSearchFallback = {
+            enabled: import.meta.env.PUBLIC_ENABLE_AMAZON_AFFILIATE === "true",
+            tag: import.meta.env.AMAZON_ASSOCIATE_TAG,
+          };
+          const visibleOffers = getVisibleOffers(top, { enabledProviders: linkProviders, yahooSearchFallback, amazonSearchFallback });
           const topSummary = getOfferPriceSummary(top, { enabledProviders: priceProviders });
           const topDisplayPrice = topSummary.lowestPrice ?? (isKnownPrice(top.price) ? top.price : null);
           const topPricePerUnitText =

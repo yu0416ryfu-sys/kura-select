@@ -30,10 +30,16 @@ export interface YahooSearchFallbackOptions {
   pid?: string;
 }
 
+export interface AmazonSearchFallbackOptions {
+  enabled?: boolean;
+  tag?: string;
+}
+
 export interface OfferVisibilityOptions {
   enabledProviders?: readonly OfferProvider[];
   allowAmazonPrice?: boolean;
   yahooSearchFallback?: YahooSearchFallbackOptions;
+  amazonSearchFallback?: AmazonSearchFallbackOptions;
 }
 
 interface ProductWithOffers {
@@ -210,6 +216,22 @@ export function getYahooSearchFallbackOffer(
   };
 }
 
+export function buildAmazonSearchUrl(keyword: string, tag: string): string {
+  return `https://www.amazon.co.jp/s?k=${encodeURIComponent(keyword)}&tag=${encodeURIComponent(tag)}`;
+}
+
+export function getAmazonSearchFallbackOffer(
+  product: { name: string },
+  tag: string
+): ProductOffer {
+  return {
+    provider: "amazon",
+    label: "Amazonで探す",
+    url: buildAmazonSearchUrl(product.name, tag),
+    available: true,
+  };
+}
+
 // 表示対象 offer（matchStatus/available/provider フィルタ済み）
 export function getVisibleOffers(
   product: ProductWithOffers,
@@ -235,7 +257,7 @@ export function getVisibleOffers(
     Boolean(product.name) &&
     !hasAnyYahooOffer;
 
-  const visibleWithFallback = shouldAddYahooSearchFallback
+  const visibleWithYahooFallback = shouldAddYahooSearchFallback
     ? [
         ...visibleOffers,
         getYahooSearchFallbackOffer(
@@ -245,6 +267,25 @@ export function getVisibleOffers(
         ),
       ]
     : visibleOffers;
+
+  const hasAnyAmazonOffer = (product.offers ?? []).some((offer) => offer.provider === "amazon");
+  const amazonFallback = options.amazonSearchFallback;
+  const shouldAddAmazonSearchFallback =
+    (enabledProviders as OfferProvider[]).includes("amazon") &&
+    Boolean(amazonFallback?.enabled) &&
+    Boolean(amazonFallback?.tag) &&
+    Boolean(product.name) &&
+    !hasAnyAmazonOffer;
+
+  const visibleWithFallback = shouldAddAmazonSearchFallback
+    ? [
+        ...visibleWithYahooFallback,
+        getAmazonSearchFallbackOffer(
+          { name: product.name! },
+          amazonFallback!.tag!
+        ),
+      ]
+    : visibleWithYahooFallback;
 
   const seen = new Set<string>();
   return visibleWithFallback

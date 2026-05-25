@@ -12,6 +12,8 @@ import {
   getProviderName,
   isAmazonOfferFresh,
   buildYahooSearchUrl,
+  buildAmazonSearchUrl,
+  getAmazonSearchFallbackOffer,
   PROVIDER_META,
 } from "../src/lib/offers";
 
@@ -558,5 +560,139 @@ describe("enabledProviders デフォルト挙動", () => {
       }
     );
     expect(offers.map(o => o.provider)).toEqual(["rakuten"]);
+  });
+});
+
+// ─── Amazon 検索フォールバック ────────────────────────────────────────────────
+describe("Amazon 検索フォールバック", () => {
+  const tag = "kuraselect-22";
+  const fallbackOptions = {
+    enabledProviders: ["rakuten", "amazon"] as const,
+    amazonSearchFallback: { enabled: true, tag },
+  };
+
+  it("buildAmazonSearchUrl が k と tag を正しくエンコードして URL を組み立てる", () => {
+    const url = buildAmazonSearchUrl("パンパース テープ Mサイズ", tag);
+    expect(url).toContain(`k=${encodeURIComponent("パンパース テープ Mサイズ")}`);
+    expect(url).toContain(`tag=${tag}`);
+    expect(url).toContain("www.amazon.co.jp/s");
+  });
+
+  it("getAmazonSearchFallbackOffer が 'Amazonで探す' offer を返す", () => {
+    const offer = getAmazonSearchFallbackOffer({ name: "テスト商品" }, tag);
+    expect(offer.provider).toBe("amazon");
+    expect(offer.label).toBe("Amazonで探す");
+    expect(offer.url).toContain("amazon.co.jp/s");
+    expect(offer.available).toBe(true);
+  });
+
+  it("Amazon offer が0件の商品には 'Amazonで探す' フォールバックが追加される", () => {
+    const offers = getVisibleOffers(
+      { name: "テスト商品", rakutenUrl },
+      fallbackOptions
+    );
+    const amazon = offers.find((o) => o.provider === "amazon");
+    expect(amazon?.label).toBe("Amazonで探す");
+    expect(amazon?.url).toContain("amazon.co.jp/s");
+  });
+
+  it("matched Amazon offer がある場合はフォールバックを追加しない", () => {
+    const offers = getVisibleOffers(
+      {
+        name: "テスト商品",
+        rakutenUrl,
+        offers: [{ provider: "amazon", url: amazonUrl, matchStatus: "matched" as const }],
+      },
+      fallbackOptions
+    );
+    expect(offers.filter((o) => o.provider === "amazon")).toHaveLength(1);
+    expect(offers.find((o) => o.provider === "amazon")?.label).not.toBe("Amazonで探す");
+  });
+
+  it("pending Amazon offer がある場合もフォールバックを追加しない", () => {
+    const offers = getVisibleOffers(
+      {
+        name: "テスト商品",
+        rakutenUrl,
+        offers: [{ provider: "amazon", url: amazonUrl, matchStatus: "pending" as const }],
+      },
+      fallbackOptions
+    );
+    expect(offers.some((o) => o.label === "Amazonで探す")).toBe(false);
+  });
+
+  it("review Amazon offer がある場合もフォールバックを追加しない", () => {
+    const offers = getVisibleOffers(
+      {
+        name: "テスト商品",
+        rakutenUrl,
+        offers: [{ provider: "amazon", url: amazonUrl, matchStatus: "review" as const }],
+      },
+      fallbackOptions
+    );
+    expect(offers.some((o) => o.label === "Amazonで探す")).toBe(false);
+  });
+
+  it("rejected Amazon offer がある場合もフォールバックを追加しない", () => {
+    const offers = getVisibleOffers(
+      {
+        name: "テスト商品",
+        rakutenUrl,
+        offers: [{ provider: "amazon", url: amazonUrl, matchStatus: "rejected" as const }],
+      },
+      fallbackOptions
+    );
+    expect(offers.some((o) => o.label === "Amazonで探す")).toBe(false);
+  });
+
+  it("enabled: false の場合はフォールバックを追加しない", () => {
+    const offers = getVisibleOffers(
+      { name: "テスト商品", rakutenUrl },
+      { ...fallbackOptions, amazonSearchFallback: { enabled: false, tag } }
+    );
+    expect(offers.some((o) => o.label === "Amazonで探す")).toBe(false);
+  });
+
+  it("tag が未設定の場合はフォールバックを追加しない", () => {
+    const offers = getVisibleOffers(
+      { name: "テスト商品", rakutenUrl },
+      { ...fallbackOptions, amazonSearchFallback: { enabled: true, tag: "" } }
+    );
+    expect(offers.some((o) => o.label === "Amazonで探す")).toBe(false);
+  });
+
+  it("商品名がない場合はフォールバックを追加しない", () => {
+    const offers = getVisibleOffers(
+      { rakutenUrl },
+      fallbackOptions
+    );
+    expect(offers.some((o) => o.label === "Amazonで探す")).toBe(false);
+  });
+
+  it("フォールバック offer は price を持たないため getComparableOffers に入らない", () => {
+    const product = { name: "テスト商品", rakutenUrl, price: 5000 };
+    const comparable = getComparableOffers(product, fallbackOptions);
+    expect(comparable.some((o) => o.label === "Amazonで探す")).toBe(false);
+  });
+
+  it("フォールバック offer は getOfferPriceSummary の priceRows に入らない", () => {
+    const product = { name: "テスト商品", rakutenUrl, price: 5000 };
+    const summary = getOfferPriceSummary(product, fallbackOptions);
+    expect(summary.priceRows.some((r) => r.label === "Amazonで探す")).toBe(false);
+  });
+
+  it("Yahoo! fallback と Amazon fallback が同時に追加された場合、楽天→Yahoo!→Amazon の順になる", () => {
+    const sid = "3770852";
+    const pid = "892615315";
+    const offers = getVisibleOffers(
+      { name: "テスト商品", rakutenUrl },
+      {
+        enabledProviders: ["rakuten", "yahoo", "amazon"],
+        yahooSearchFallback: { enabled: true, sid, pid },
+        amazonSearchFallback: { enabled: true, tag },
+      }
+    );
+    const providers = offers.map((o) => o.provider);
+    expect(providers).toEqual(["rakuten", "yahoo", "amazon"]);
   });
 });
