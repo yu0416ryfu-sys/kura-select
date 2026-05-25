@@ -29,6 +29,15 @@ const CHECK_ADDITIONS = process.argv.includes('--check-additions');
 const FILE_FILTER = process.argv.find(a => a.startsWith('--file='))?.split('=')[1] ?? null;
 const THRESHOLD = parseFloat(process.argv.find(a => a.startsWith('--threshold='))?.split('=')[1] ?? '2');
 const TARGET_COUNT = parseInt(process.argv.find(a => a.startsWith('--target='))?.split('=')[1] ?? '15');
+const CHECK_TARGET_COUNT = (() => {
+  const raw = process.argv.find(a => a.startsWith('--check-target-count='))?.split('=')[1];
+  if (raw == null) return null;
+  if (!/^\d+$/.test(raw)) {
+    console.error(`❌ --check-target-count の値が不正です: "${raw}"（0以上の整数を指定してください）`);
+    process.exit(1);
+  }
+  return parseInt(raw, 10);
+})();
 const CONCURRENCY = parsePositiveIntArg('--concurrency=', 6, { min: 1, max: 8 });
 const API_INTERVAL_MS = parsePositiveIntArg('--api-interval=', 1000, { min: 0, max: 10000 });
 
@@ -1984,7 +1993,8 @@ async function checkAdditions() {
     .filter(f => matchesFileFilter(f));
 
   const today = new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Tokyo' }).format(new Date());
-  console.log(`📊 商品追加候補チェック（目標: ${TARGET_COUNT}商品/記事）\n`);
+  const filterNote = CHECK_TARGET_COUNT !== null ? `、現在${CHECK_TARGET_COUNT}商品以下のみ対象` : '';
+  console.log(`📊 商品追加候補チェック（目標: ${TARGET_COUNT}商品/記事${filterNote}）\n`);
 
   const sections = [];
   const urlSections = [];
@@ -1992,6 +2002,7 @@ async function checkAdditions() {
   const errorSections = [];
   let reachedTarget = 0;
   let needsAdditions = 0;
+  let skippedByFilter = 0;
 
   for (const file of files) {
     const filePath = join(articlesDir, file);
@@ -2003,6 +2014,11 @@ async function checkAdditions() {
     if (products.length >= TARGET_COUNT) {
       reachedTarget++;
       console.log(`✅ ${file}: ${products.length}商品（スキップ）`);
+      continue;
+    }
+    if (CHECK_TARGET_COUNT !== null && products.length > CHECK_TARGET_COUNT) {
+      skippedByFilter++;
+      console.log(`⏭ ${file}: ${products.length}商品（フィルタスキップ: ${CHECK_TARGET_COUNT}以下対象）`);
       continue;
     }
 
@@ -2236,15 +2252,19 @@ async function checkAdditions() {
   const summary = sections.length > 0
     ? `追加候補あり記事: ${sections.length} 件`
     : needsAdditions === 0
-      ? '> すべての記事が目標商品数に達しています。'
+      ? skippedByFilter > 0
+        ? `> フィルタ（現在${CHECK_TARGET_COUNT}商品以下）に一致する記事はありませんでした。`
+        : '> すべての記事が目標商品数に達しています。'
       : '> 目標未達の記事はありますが、有効な追加候補は見つかりませんでした。';
   const header = [
     `# 商品追加候補レポート`,
     ``,
     `生成日: ${today}`,
     `目標商品数: ${TARGET_COUNT}商品/記事`,
+    ...(CHECK_TARGET_COUNT !== null ? [`チェック対象: 現在${CHECK_TARGET_COUNT}商品以下`] : []),
     `対象記事: ${files.length}件`,
     `目標達成済み: ${reachedTarget}件`,
+    ...(CHECK_TARGET_COUNT !== null ? [`フィルタスキップ: ${skippedByFilter}件`] : []),
     `目標未達: ${needsAdditions}件`,
     `追加候補あり: ${sections.length}件`,
     `候補なし: ${noCandidateSections.length}件`,
@@ -2268,6 +2288,7 @@ async function checkAdditions() {
     ``,
     `生成日: ${today}`,
     `目標商品数: ${TARGET_COUNT}商品/記事`,
+    ...(CHECK_TARGET_COUNT !== null ? [`チェック対象: 現在${CHECK_TARGET_COUNT}商品以下`] : []),
     ``,
     urlSections.length === 0
       ? '> 追加候補URLはありません。'
