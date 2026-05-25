@@ -1306,10 +1306,11 @@ const CATEGORY_SEARCH_RULES = {
     units: ['枚', '個', '箱'],
   },
   'garbage-bag': {
-    keywords: ['ゴミ袋', 'ごみ袋', 'ポリ袋 45L'],
+    keywords: ['ゴミ袋 まとめ買い', 'ごみ袋 100枚', 'ゴミ袋 45L 半透明'],
     include: ['ゴミ袋', 'ごみ袋', 'ポリ袋'],
-    exclude: ['ゴミ箱', 'ごみ箱', 'ダストボックス', 'スタンド'],
-    units: ['枚'],
+    exclude: ['ゴミ箱', 'ごみ箱', 'ダストボックス', 'ケース', '宅配', 'パン袋'],
+    units: ['枚', 'L'],
+    requiredGroups: [['枚']],
   },
   'coffee-filter': {
     keywords: ['コーヒーフィルター', 'ペーパーフィルター', '円すい コーヒーフィルター'],
@@ -2115,16 +2116,16 @@ async function checkAdditions() {
           continue;
         }
 
+        const categoryCheck = checkAdditionCandidateCategory(c, searchRule);
+        if (!categoryCheck.ok) {
+          stats.lowScore++;
+          recordExcluded(`カテゴリ外（${categoryCheck.reason}）`, c, { directUrl });
+          continue;
+        }
         const capacity = extractCapacityFromItemName(c.name);
         if (capacity && !isAllowedCapacityUnit(capacity, searchRule)) {
           stats.badCapacityUnit++;
           recordExcluded('比較対象外の容量単位', c, { directUrl, capacity });
-          continue;
-        }
-        const categoryCheck = checkAdditionCandidateCategory(c, searchRule);
-        if (!categoryCheck.ok) {
-          stats.lowScore++;
-          recordExcluded(`カテゴリ外（${categoryCheck.reason}）`, c, { directUrl, capacity });
           continue;
         }
         if (isSameProductDifferentUrl(c.name, capacity, products)) {
