@@ -3,7 +3,7 @@ title: "麦茶ティーバッグのコスパ比較【まとめ買いおすすめ
 description: "伊藤園・はくばくなど人気麦茶ティーバッグを1袋あたりの単価で比較。内容量・タイプ別の特徴から夏の水分補給やまとめ買いに最適な商品を紹介します。"
 category: "tea-bag"
 publishedAt: "2026-05-24"
-updatedAt: 2026-05-24
+updatedAt: "2026-05-26"
 draft: false
 products:
   - rank: 1
@@ -50,14 +50,23 @@ products:
     recommendedFor: "大容量をまとめて備蓄したい・1L用ピッチャーで麦茶を作りたい家庭向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pjp9n.3rdw6d09.g00pjp9n.3rdw7a44/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fizmic-ec%2F658472-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fizmic-ec%2Fi%2F10168191%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/izmic-ec/cabinet/drink2019051001/658472-01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmisono-support%2Fb7-299.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-25"
+        price: 2073
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/misono-support_b7-299"
+        available: true
   - rank: 3
     name: "伊藤園 健康ミネラルむぎ茶 ティーバッグ"
     brand: "伊藤園"
     price: 3618
     capacity: "30袋×10個（300袋）"
     pricePerUnit: "約12円/袋"
-    rating: 4.4
-    reviewCount: 10
+    rating: 4.36
+    reviewCount: 11
     features:
       - "ノンカフェイン・0kcal設計"
       - "ミネラル配合の健康訴求タイプ"
@@ -210,8 +219,8 @@ products:
     price: 1390
     capacity: "3.5g×50個"
     pricePerUnit: "0円/個"
-    rating: 4.64
-    reviewCount: 386
+    rating: 4.63
+    reviewCount: 387
     features:
       - "国産ハトムギ100%使用"
       - "ノンカフェイン・カフェインレス"

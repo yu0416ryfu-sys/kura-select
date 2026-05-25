@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4901301021144.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 3696
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4901301021144"
         available: true
@@ -63,7 +63,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F1671344.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 1118
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_1671344"
         available: true
@@ -138,7 +138,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frokusyoudo%2F2022yr12mt18daywq069ic073s83h3f.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 927
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rokusyoudo_2022yr12mt18daywq069ic073s83h3f"
         available: true
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frokusyoudo%2F2022yr12mt18daywq069ic073s83h3f.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 927
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rokusyoudo_2022yr12mt18daywq069ic073s83h3f"
         available: true

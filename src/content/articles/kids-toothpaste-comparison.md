@@ -93,6 +93,15 @@ products:
     recommendedFor: "年齢や味の好みに合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2u0n.3rdw6e74.g00r2u0n.3rdw74e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fecorea2010%2F3770%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fecorea2010%2Fi%2F10000576%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ecorea2010/cabinet/item/03587598/3770.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenyu-kan%2F6372.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-25"
+        price: 495
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenyu-kan_6372"
+        available: true
   - rank: 5
     name: "あわだたない こどもハミガキ ぶどう 60g×9個"
     brand: "エスケー石鹸"
@@ -230,7 +239,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902508104463.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 485
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902508104463"
         available: true

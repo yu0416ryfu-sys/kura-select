@@ -3,7 +3,7 @@ title: "コンディショナー コスパ最強ランキング【2026年版】1
 description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気10選をダメージケア・コスパで解説します。"
 category: "conditioner"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-24
+updatedAt: "2026-05-26"
 products:
   - rank: 1
     name: "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア"
@@ -53,8 +53,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk0602-a2510.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
         price: 1556
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk0602-a2510"
         available: true
@@ -123,7 +123,7 @@ products:
       - "個性的な香りで好みが分かれる"
     recommendedFor: "天然由来成分を重視する方・香りを楽しみたい方・少量で長く使える商品を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tld4n.3rdw6a04.g00tld4n.3rdw7115/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthann-natural%2F10000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthann-natural%2Fi%2F10000017%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thann-natural/cabinet/thum/point_10/10000017.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thann-natural/cabinet/compass1580371769.jpg?_ex=128x128"
   - rank: 6
     name: "パルガ ヘアコンディショナー アクアリッチ 210g"
     brand: "パルガ"
@@ -190,6 +190,15 @@ products:
     recommendedFor: "家族で使いたい方・地肌ケア重視の方・シンプルなケアを求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F601325%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11330382%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/325/601325.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-ypp%2F3799-0026554.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-25"
+        price: 6280
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-ypp_3799-0026554"
+        available: true
   - rank: 9
     name: "デミ ミレアム ヘアケア コンディショナー 1800mL 詰替"
     brand: "デミ"
@@ -216,8 +225,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffreefeel%2Fdmml006226x006240.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
         price: 3880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/freefeel_dmml006226x006240"
         available: true
@@ -247,8 +256,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fa0090012.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
         price: 2970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_a0090012"
         available: true

@@ -3,7 +3,7 @@ title: "トイレットペーパー ダブル コスパランキング【2026年
 description: "ダブルのトイレットペーパーを1mあたりの価格で比較。2倍巻き・3倍巻き・肌触り重視の商品からおすすめ6選を紹介します。"
 category: "toilet-paper"
 publishedAt: "2026-05-16"
-updatedAt: "2026-05-24"
+updatedAt: "2026-05-26"
 products:
   - rank: 1
     name: "再生紙トイレットペーパー ダブル"
@@ -12,7 +12,7 @@ products:
     capacity: "27.5m×12ロール×8パック（96ロール）"
     pricePerUnit: "約1.2円/m"
     rating: 4.58
-    reviewCount: 3467
+    reviewCount: 3469
     features:
       - "再生紙を使ったダブルタイプ"
       - "無地・無印刷で日常使いしやすい"
@@ -34,7 +34,7 @@ products:
     capacity: "75m×4ロール×12パック（3倍巻き）"
     pricePerUnit: "約1.6円/m"
     rating: 4.75
-    reviewCount: 891
+    reviewCount: 893
     features:
       - "3倍長持ち設計で交換頻度が大幅に減る"
       - "ダブルタイプで使い心地が良い"
@@ -54,7 +54,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7666919.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 5570
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_7666919"
         available: true
@@ -107,7 +107,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9620643.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 3880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9620643"
         available: true

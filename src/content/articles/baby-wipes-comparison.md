@@ -38,7 +38,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_20661"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
   - rank: 2
     name: "おしりナップ やわらか厚手仕上げ 限定デザイン"
     brand: "ピジョン"
@@ -69,7 +69,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_2000363s"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
   - rank: 3
     name: "おしりふき ふんわり 菌99.9除去 大容量"
     brand: "レック"
@@ -100,7 +100,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_4903320482647"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
   - rank: 4
     name: "ムーニー おしりふき やわらか素材 詰め替え"
     brand: "ムーニー"
@@ -133,7 +133,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4903111159802-4"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
   - rank: 5
     name: "おしりふき 手口ふき シンプル"
     brand: "and mom"
@@ -257,7 +257,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e170"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
   - rank: 9
     name: "おしり拭き 流せる シート 菌99.9除去"
     brand: "レック"
@@ -288,7 +288,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
   - rank: 10
     name: "おしり拭き 流せる シート 純水99.9% W保湿成分配合"
     brand: "Lec.Be"

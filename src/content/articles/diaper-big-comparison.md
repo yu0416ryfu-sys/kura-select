@@ -3,7 +3,7 @@ title: "BIG・スーパービッグ紙おむつ比較【2026年版】"
 description: "BIGサイズ・スーパービッグサイズの紙おむつを1枚あたりの価格で比較。大きめ体型や夜間漏れ対策に向く商品を選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-24
+updatedAt: "2026-05-26"
 products:
   - rank: 1
     name: "グーンプラス テープ BIGサイズ"
@@ -35,7 +35,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
   - rank: 2
     name: "エリエール　グーン　スーパービッグ　テープ止めタイプ"
     brand: "大王製紙（グーン）"
@@ -66,7 +66,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_60000000002751"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
   - rank: 3
     name: "オヤスミマン 男の子 ビッグ以上"
     brand: "ユニ・チャーム（ムーニー）"
@@ -97,7 +97,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111211647x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
   - rank: 4
     name: "オヤスミマン 女の子 ビッグ以上"
     brand: "ユニ・チャーム（ムーニー）"
@@ -128,7 +128,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111211807x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
   - rank: 5
     name: "グーン スーパービッグ パンツタイプ"
     brand: "大王製紙（グーン）"
@@ -159,7 +159,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4902011743081-1"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
   - rank: 6
     name: "グーン スーパーBIG パンツ"
     brand: "大王製紙（グーン）"
@@ -185,12 +185,12 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        price: 7681
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902011743081x6.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902011743081x6"
+        price: 1254
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4902011743081-1.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4902011743081-1"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-22"
+        updatedAt: "2026-05-25"
   - rank: 7
     name: "グーン スーパーBIG パンツ ケース販売"
     brand: "大王製紙（グーン）"
@@ -242,8 +242,8 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4903111171675x6.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171675x6"
         available: true
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
   - rank: 9
     name: "ムーニーマン スーパービッグ 女の子"
     brand: "ユニ・チャーム（ムーニー）"
@@ -273,8 +273,8 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4903111171750x6.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171750x6"
         available: true
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
   - rank: 10
     name: "あんしんGenki！パンツ ビッグ"
     brand: "アイリスオーヤマ"
@@ -282,7 +282,7 @@ products:
     capacity: "ビッグ108枚（3個セット）"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 1578
+    reviewCount: 1580
     features:
       - "パンツタイプの紙おむつ"
       - "ふわもちタッチの肌あたりに配慮した設計"

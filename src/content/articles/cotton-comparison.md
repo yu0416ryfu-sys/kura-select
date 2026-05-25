@@ -3,7 +3,7 @@ title: "コットン コスパ最強ランキング【2026年版】10選 1枚あ
 description: "コットン・コットンパッドを1枚あたりのコストで比較。ビオレ・シルコットなど11商品を肌触り・コスパで解説します。"
 category: "cotton"
 publishedAt: "2026-05-03"
-updatedAt: "2026-05-24"
+updatedAt: "2026-05-26"
 products:
   - rank: 1
     name: "コットンパフ カット綿 大判"
@@ -54,7 +54,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhenojikan%2Feye058.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 2585
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthenojikan_eye058"
         available: true
@@ -85,7 +85,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhemart%2Fetf-cotton68.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 1833
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthemart_etf-cotton68"
         available: true
@@ -116,7 +116,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111478064x2.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 329
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111478064x2"
         available: true
@@ -126,8 +126,8 @@ products:
     price: 780
     capacity: "50枚×2個"
     pricePerUnit: "約7.8円/枚"
-    rating: 4.88
-    reviewCount: 8
+    rating: 4.78
+    reviewCount: 9
     features:
       - "使い捨てタイプのコットンパフ"
       - "国内製造のパフとして扱いやすい構成"

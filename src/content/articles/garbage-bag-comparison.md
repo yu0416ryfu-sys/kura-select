@@ -3,16 +3,16 @@ title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
 description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ6選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
-updatedAt: 2026-05-25
+updatedAt: "2026-05-26"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
     brand: "HEIKO"
-    price: 1470
+    price: 1500
     capacity: "300枚"
-    pricePerUnit: "約4.9円/枚"
+    pricePerUnit: "約5.0円/枚"
     rating: 4.77
-    reviewCount: 1474
+    reviewCount: 1475
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2Fne1h.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 1455
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_ne1h"
         available: true
@@ -106,8 +106,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2F2030l300.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
         price: 1375
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_2030l300"
         available: true

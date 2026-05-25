@@ -3,7 +3,7 @@ title: "トイレットペーパー シングル コスパランキング【2026
 description: "シングルのトイレットペーパーを1mあたりの価格で比較。長尺・芯なし・まとめ買い向けの商品を厳選して紹介します。"
 category: "toilet-paper"
 publishedAt: "2024-11-01"
-updatedAt: 2026-05-24
+updatedAt: "2026-05-26"
 products:
   - rank: 1
     name: "森を守ろう トイレットペーパー シングル"
@@ -44,7 +44,7 @@ products:
     capacity: "170m×48ロール"
     pricePerUnit: "約0.61円/m"
     rating: 4.52
-    reviewCount: 1956
+    reviewCount: 1957
     features:
       - "芯なしのロングタイプで交換の手間を減らしやすい"
       - "再生紙を使用した家庭用にも業務用にも使える仕様"
@@ -84,11 +84,12 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        price: 5130
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F520721.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_520721"
+        price: 6985
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fikurun0810%2F101436.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
-        updatedAt: "2026-05-18"
+        updatedAt: "2026-05-25"
+        matchStatus: "pending"
   - rank: 4
     name: "ワンタッチ 再生紙 トイレットペーパー シングル 芯なし"
     brand: "ワンタッチ"
@@ -118,7 +119,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.67円/m"
     rating: 4.78
-    reviewCount: 1035
+    reviewCount: 1036
     features:
       - "太穴コアレスのシングルトイレットペーパー"
       - "再生紙を使用した長巻きタイプ"
@@ -139,8 +140,8 @@ products:
     price: 4980
     capacity: "150m×48ロール"
     pricePerUnit: "約0.69円/m"
-    rating: 4.76
-    reviewCount: 59
+    rating: 4.77
+    reviewCount: 60
     features:
       - "芯なし設計でゴミが出にくい環境配慮型"
       - "150mの長尺ロールで交換頻度を減らせる"
@@ -162,7 +163,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.70円/m"
     rating: 4.66
-    reviewCount: 2690
+    reviewCount: 2691
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
@@ -183,8 +184,10 @@ products:
         price: 4980
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Feconvecoco%2F0417005.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/econvecoco_0417005"
-        available: true
+        available: false
         updatedAt: "2026-05-18"
+        matchStatus: "review"
+        matchNotes: "capacity不一致: capacity不一致"
   - rank: 8
     name: "トーヨ クリーンテックス シングル 個包装"
     brand: "トーヨ"
@@ -214,7 +217,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcleanshoponline%2F72014.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cleanshoponline_72014"
         available: true
-        updatedAt: "2026-05-18"
+        updatedAt: "2026-05-25"
   - rank: 9
     name: "スマートエール 消臭機能付き シングル 芯なし"
     brand: "アイリスプラザ"
@@ -265,8 +268,10 @@ products:
         price: 4235
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitoman%2F10150019.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/itoman_10150019"
-        available: true
+        available: false
         updatedAt: "2026-05-18"
+        matchStatus: "review"
+        matchNotes: "capacity不一致: 商品名トークン不一致"
 tags:
   - "トイレットペーパー"
   - "シングル"

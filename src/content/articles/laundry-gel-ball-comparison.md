@@ -3,7 +3,7 @@ title: "ジェルボール洗剤 コスパ最強ランキング【2026年版】1
 description: "ジェルボール洗剤を1個あたりのコストで徹底比較。アリエール・アタックZERO・ボールドなど人気商品を洗浄力・香り・コスパで解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
-updatedAt: "2026-05-24"
+updatedAt: "2026-05-26"
 products:
   - rank: 1
     name: "トップ クリアリキッド 詰め替え"
@@ -54,7 +54,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 3978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
         available: true
@@ -84,8 +84,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhikaritv%2F2010126844.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
         price: 8280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010126844"
         available: true
@@ -137,8 +137,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -149,7 +149,7 @@ products:
     capacity: "1000g"
     pricePerUnit: "約6.4円/g"
     rating: 4.7
-    reviewCount: 644
+    reviewCount: 645
     features:
       - "スーツ・コート・ダウン・ニット・カシミアが洗えるドライ洗剤"
       - "無香料処方で素材本来の風合いを守る"
@@ -171,7 +171,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約8.0円/g"
     rating: 4.68
-    reviewCount: 549
+    reviewCount: 550
     features:
       - "スーツ・コート・ダウン・ニット・カシミアに対応するドライ洗剤"
       - "無香料設計で素材への影響を最小化"
@@ -233,11 +233,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F900024.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F622008a.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-24"
-        price: 2750
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_900024"
+        updatedAt: "2026-05-25"
+        price: 1540
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_622008a"
         available: true
   - rank: 10
     name: "メイクブラシクリーナー"

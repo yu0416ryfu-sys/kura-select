@@ -3,7 +3,7 @@ title: "洗濯洗剤 コスパ最強ランキング【2026年版】1回あたり
 description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉末・ジェルボール別におすすめ9選を紹介。楽天で買えるコスパ最強の洗濯洗剤を探している方必見です。"
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
-updatedAt: "2026-05-24"
+updatedAt: "2026-05-26"
 products:
   - rank: 1
     name: "トップ クリアリキッド 業務用 4kg×3本"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou-selection%2Fr5-15080k.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 4999
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou-selection_r5-15080k"
         available: true
@@ -63,7 +63,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 3978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
         available: true
@@ -115,11 +115,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b0csfn4l78-20260329.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fririnana%2F1341dc22641.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-24"
-        price: 12150
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b0csfn4l78-20260329"
+        updatedAt: "2026-05-25"
+        price: 13417
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ririnana_1341dc22641"
         available: true
   - rank: 5
     name: "ハイベック プレミアムドライ 1100g"
@@ -148,7 +148,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -159,7 +159,7 @@ products:
     capacity: "1000g"
     pricePerUnit: "約6.4円/g"
     rating: 4.7
-    reviewCount: 644
+    reviewCount: 645
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -201,7 +201,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fg0290005set.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 4367
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_g0290005set"
         available: true
@@ -234,7 +234,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約8.0円/g"
     rating: 4.68
-    reviewCount: 549
+    reviewCount: 550
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"

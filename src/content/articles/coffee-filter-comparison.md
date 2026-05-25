@@ -32,8 +32,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk18853-a2201.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
         price: 481
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk18853-a2201"
         available: true
@@ -63,8 +63,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhiroshimacoffee%2Fcafe-60.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
         price: 187
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hiroshimacoffee_cafe-60"
         available: true
@@ -94,8 +94,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshimomurakihan%2F43451.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
         price: 660
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shimomurakihan_43451"
         available: true
@@ -125,8 +125,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshimomurakihan%2F43452.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
         price: 770
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shimomurakihan_43452"
         available: true
@@ -157,7 +157,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fuminari%2Fa3jdxc00014st.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 2480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/uminari_a3jdxc00014st"
         available: true
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fultramix%2Fif-filter-mx.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 2208
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ultramix_if-filter-mx"
         available: true

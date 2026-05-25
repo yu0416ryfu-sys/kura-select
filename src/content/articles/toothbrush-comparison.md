@@ -3,7 +3,7 @@ title: "歯ブラシ コスパ最強ランキング【2026年版】1本あたり
 description: "歯ブラシを1本あたりのコストで徹底比較。システマ・クリニカ・GUM・タフト24など人気10選を磨き心地・耐久性・コスパで解説します。"
 category: "toothpaste"
 publishedAt: "2026-05-01"
-updatedAt: "2026-05-24"
+updatedAt: "2026-05-26"
 products:
   - rank: 1
     name: "Shu&Shu 歯ブラシ"
@@ -12,7 +12,7 @@ products:
     capacity: "50本"
     pricePerUnit: "約36円/本"
     rating: 4.66
-    reviewCount: 1139
+    reviewCount: 1142
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -76,7 +76,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b08r866z1m-20260329.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 1488
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b08r866z1m-20260329"
         available: true
@@ -109,7 +109,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約123円/本"
     rating: 4.45
-    reviewCount: 2245
+    reviewCount: 2246
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -153,7 +153,7 @@ products:
     capacity: "30本"
     pricePerUnit: "約139円/本"
     rating: 4.76
-    reviewCount: 3730
+    reviewCount: 3732
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -197,7 +197,7 @@ products:
     capacity: "10本（約10ヶ月分）"
     pricePerUnit: "約140円/本"
     rating: 4.69
-    reviewCount: 2060
+    reviewCount: 2062
     features:
       - "歯科医院でも採用される定番ブラシ"
       - "PBT毛材で耐久性が高くヘタりにくい"
@@ -217,7 +217,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Ft24z.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-25"
         price: 1398
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_t24z"
         available: true

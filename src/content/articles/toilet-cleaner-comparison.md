@@ -31,8 +31,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987115851764.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
         price: 1781
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987115851764"
         available: true
@@ -80,6 +80,15 @@ products:
     recommendedFor: "詰め替え運用でコストを抑えたい方・日常の軽い掃除に使いやすい洗剤を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301118336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10003250%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/c/4903301118336.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903301194200.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-25"
+        price: 188
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903301194200"
+        available: true
   - rank: 4
     name: "ソネット ナチュラルトイレットクリーナー"
     brand: "SONETT（ソネット）"
@@ -106,8 +115,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fglv%2Fsnt-0016-000.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
         price: 699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/glv_snt-0016-000"
         available: true
@@ -136,11 +145,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fle-cure%2Fim-1008473-3.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fle-cure%2Fim-1008473.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-24"
-        price: 4620
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/le-cure_im-1008473-3"
+        updatedAt: "2026-05-25"
+        price: 1980
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/le-cure_im-1008473"
         available: true
   - rank: 6
     name: "トイレットペーパーでちょいふき"
@@ -212,8 +221,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901609005440x3.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
         price: 551
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901609005440x3"
         available: true
@@ -265,8 +274,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9615427011.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
+        matchStatus: "matched"
+        updatedAt: "2026-05-25"
         price: 216
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_9615427011"
         available: true
