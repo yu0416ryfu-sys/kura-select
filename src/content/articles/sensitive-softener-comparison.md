@@ -1,11 +1,209 @@
 ---
 title: "敏感肌・赤ちゃん向け柔軟剤 おすすめランキング【2026年版】無添加・低刺激で比較"
-description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹底比較。さらさ・ランドリンボタニカル・ファーファフリー&など人気4選を低刺激性で解説。"
+description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹底比較。さらさ・ランドリンボタニカル・ファーファフリー&など人気10選を低刺激性で解説。"
 category: "fabric-softener"
 publishedAt: "2026-04-30"
-updatedAt: "2026-05-24"
+updatedAt: 2026-05-25
 products:
   - rank: 1
+    name: "ランドリン 柔軟剤 詰め替えアソートセット 9個入り"
+    brand: "ネイチャーラボ（ランドリン）"
+    price: 4930
+    capacity: "480mL×7本・430mL×2本"
+    pricePerUnit: "約0.73円/mL"
+    rating: 4.73
+    reviewCount: 103
+    features:
+      - "9種類の香りをアソートで楽しめる詰め替えセット"
+      - "植物エキス配合の低刺激・オーガニック処方"
+      - "静電気軽減・抗菌機能付き"
+    pros:
+      - "複数の香りを試せるアソート構成"
+      - "低刺激設計で敏感肌にも配慮"
+      - "まとめ買いで購入頻度を減らせる"
+    cons:
+      - "特定の香りに絞りたい場合は向かない"
+      - "好みの香りの比率を選べないアソート構成"
+    recommendedFor: "複数の香りを楽しみたい方・低刺激処方を求める方・まとめ買い派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2Flaundrin-refillassortset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10006269%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08869620/imgrc0115943868.jpg?_ex=128x128"
+  - rank: 2
+    name: "ファーファ フリー 濃縮柔軟剤 無香料 エコパック 詰替 1500ml"
+    brand: "NSファーファ・ジャパン（ファーファ）"
+    price: 1295
+    capacity: "1500mL"
+    pricePerUnit: "約0.86円/mL"
+    rating: 4.84
+    reviewCount: 90
+    features:
+      - "無香料・無着色・ノンシリコン処方"
+      - "香料・着色料・抗菌剤・シリコン無添加"
+      - "濃縮タイプのエコパック"
+    pros:
+      - "無香料で香りが苦手な方・つわり中にも使いやすい"
+      - "シリコン・抗菌剤フリーで肌への刺激に配慮"
+      - "赤ちゃんやペットのいる家庭でも使いやすい"
+    cons:
+      - "香りによる満足感を求める方には向かない"
+      - "ふんわり感はやや控えめな仕上がり"
+    recommendedFor: "香りが苦手な方・化学物質過敏症・つわり中の方・赤ちゃん・ペットのいる家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2F870283%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10001848%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/06059944/4902135322537_24.jpg?_ex=128x128"
+  - rank: 3
+    name: "さらさ 柔軟剤 詰め替え 超ジャンボ 1350ml 6個セット"
+    brand: "P&G（さらさ）"
+    price: 7280
+    capacity: "1350mL×6個"
+    pricePerUnit: "約0.90円/mL"
+    rating: 4.57
+    reviewCount: 164
+    features:
+      - "植物由来成分配合の低刺激処方"
+      - "着色料無添加"
+      - "ピュアソープの香り"
+    pros:
+      - "植物由来成分で赤ちゃん・敏感肌に使いやすい成分設計"
+      - "大容量セットでまとめ買いに向く"
+      - "定番ブランドで入手しやすい"
+    cons:
+      - "ピュアソープの香りは好みが分かれる"
+      - "セット購入のため保管スペースが必要"
+    recommendedFor: "赤ちゃんがいる家庭・植物由来成分にこだわる方・コスパ重視でまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7174547%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077966%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/tenposupport21/7261004.jpg?_ex=128x128"
+  - rank: 4
+    name: "ナイスアンドクイック ボタニカル 柔軟剤 詰替 ピュアコットンシャボンの香り 1320mL 2個セット"
+    brand: "ナイスアンドクイック"
+    price: 2675
+    capacity: "1320mL×2個"
+    pricePerUnit: "約1.0円/mL"
+    rating: 4.85
+    reviewCount: 147
+    features:
+      - "植物由来成分90%以上配合のボタニカル処方"
+      - "パラベン・シリコン・合成香料など8つの無添加処方"
+      - "赤ちゃん・家族全員で使えるやさしい設計"
+    pros:
+      - "8つの無添加処方で敏感肌・赤ちゃんに使いやすい"
+      - "植物由来90%以上のボタニカル成分"
+      - "2個セットで使いやすい量感"
+    cons:
+      - "植物由来香料使用のため完全無香料ではない"
+      - "ボタニカル系の香りが苦手な方には合わない"
+    recommendedFor: "赤ちゃん・敏感肌の方・無添加処方にこだわる方・ボタニカル系が好みの方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00spx7n.3rdw6343.g00spx7n.3rdw790a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjoiedebeaute%2Fnq105-2set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjoiedebeaute%2Fi%2F10000870%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/joiedebeaute/cabinet/11856908/nq115v2_2set_01.jpg?_ex=128x128"
+  - rank: 5
+    name: "レールデュサボン 柔軟剤 詰め替えリフィル 960ml 3個セット"
+    brand: "レールデュサボン"
+    price: 3040
+    capacity: "960mL×3個"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.85
+    reviewCount: 81
+    features:
+      - "シリコンフリー・アルコールフリー処方"
+      - "赤ちゃん・敏感肌向けの低刺激設計"
+      - "部屋干し対応"
+    pros:
+      - "シリコン・アルコールフリーでやさしい仕上がり"
+      - "赤ちゃん・敏感肌を考慮した処方"
+      - "3個セットでまとめ買いに向く"
+    cons:
+      - "石鹸系の香りは好みが分かれる"
+      - "セット販売のため少量での試し購入には向かない"
+    recommendedFor: "赤ちゃん・敏感肌の方・シリコンフリーを求める方・石鹸系の香りが好みの方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz9zn.3rdw68f2.g00tz9zn.3rdw7e5b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffitsonlinestore%2Flds-softrf3set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffitsonlinestore%2Fi%2F10000515%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fitsonlinestore/cabinet/item/lds/08688167/imgrc0101553377.jpg?_ex=128x128"
+  - rank: 6
+    name: "ラボン 柔軟剤 ラグジュアリーリラックス 詰め替え 960ml 5個セット"
+    brand: "ネイチャーラボ（ラボン）"
+    price: 5214
+    capacity: "960mL×5個"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.86
+    reviewCount: 251
+    features:
+      - "植物由来成分配合のオーガニック処方"
+      - "防臭・抗菌効果"
+      - "ラグジュアリーなリラックス系の香り"
+    pros:
+      - "天然成分ベースで比較的肌への刺激を抑えた処方"
+      - "防臭・抗菌機能で部屋干しにも対応"
+      - "大容量セットで購入頻度を減らせる"
+    cons:
+      - "フレグランス系のため香りが強めで好みが分かれる"
+      - "無香料・無添加が必要な方には向かない"
+    recommendedFor: "植物由来成分を求める方・フレグランス系が好みの方・まとめ買い派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2F4582469490579_5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10003207%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/07941994/4582469490579_5.jpg?_ex=128x128"
+  - rank: 7
+    name: "ラボン 柔軟剤 フレンチマカロン 詰め替え 960ml 5個セット"
+    brand: "ネイチャーラボ（ラボン）"
+    price: 5214
+    capacity: "960mL×5個"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.78
+    reviewCount: 177
+    features:
+      - "植物由来成分配合のオーガニック処方"
+      - "防臭・抗菌・花粉対策機能"
+      - "フルーティフローラルな香り"
+    pros:
+      - "天然成分ベースで比較的肌への刺激を抑えた処方"
+      - "花粉対策機能付きで通年使いやすい"
+      - "大容量セットで購入頻度を減らせる"
+    cons:
+      - "甘めの香りが強めで好みが分かれる"
+      - "無香料・無添加が必要な方には向かない"
+    recommendedFor: "フルーティな香りが好みの方・花粉シーズンも気になる方・まとめ買い派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2F4582469490586_5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10003206%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/07941994/4582469490586_5.jpg?_ex=128x128"
+  - rank: 8
+    name: "ラボン 柔軟剤 ラブリーシック 詰め替え 960ml 5個セット"
+    brand: "ネイチャーラボ（ラボン）"
+    price: 5214
+    capacity: "960mL×5個"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.86
+    reviewCount: 107
+    features:
+      - "植物由来成分配合のオーガニック処方"
+      - "防臭・抗菌効果"
+      - "赤ちゃんにも対応した植物エキス配合設計"
+    pros:
+      - "天然成分ベースで比較的肌への刺激を抑えた処方"
+      - "赤ちゃんのいる家庭でも使いやすい"
+      - "大容量セットで購入頻度を減らせる"
+    cons:
+      - "フレグランス配合のため無香料を求める方には向かない"
+      - "香りの好みが分かれるため使用前に確認を推奨"
+    recommendedFor: "植物由来成分と赤ちゃん対応を両立したい方・まとめ買い派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2F4582469492764_5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10004828%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/07941994/4582469492764_5.jpg?_ex=128x128"
+  - rank: 9
+    name: "ランドリン 柔軟剤 クラシックフローラル つめかえ用 480mL 10個セット"
+    brand: "ネイチャーラボ（ランドリン）"
+    price: 5470
+    capacity: "480mL×10個"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.76
+    reviewCount: 125
+    features:
+      - "クラシックフローラルの香り"
+      - "詰め替え用パッケージでゴミを減らせる"
+      - "大容量まとめ買いセット"
+    pros:
+      - "まとめ買いで在庫管理が楽になる"
+      - "定番のクラシックフローラルで使い慣れた香り"
+      - "詰め替え用でゴミを減らせる"
+    cons:
+      - "敏感肌向け特定成分の訴求が少ない"
+      - "香りが強めで敏感な方には合わない場合がある"
+    recommendedFor: "ランドリンのクラシックフローラルを愛用している方・大量使用が見込まれる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10085978%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10032089%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/shouhin52/4582469501114_10set.jpg?_ex=128x128"
+  - rank: 10
     name: "ランドリン ボタニカル 柔軟剤 リラックスグリーンティー 詰め替え 大容量 860mL"
     brand: "ネイチャーラボ（ランドリン）"
     price: 1042
@@ -35,81 +233,6 @@ products:
         updatedAt: "2026-05-24"
         price: 5214
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469502517-5"
-        available: true
-  - rank: 2
-    name: "ランドリン ティーフレグランス グッドティータイム 柔軟剤"
-    brand: "ネイチャーラボ（ランドリン）"
-    price: 800
-    capacity: "600mL"
-    pricePerUnit: "約1.3円/mL"
-    rating: 4.63
-    reviewCount: 173
-    features:
-      - "無添加・オーガニック処方の液体柔軟剤"
-      - "植物由来成分配合のボタニカル処方"
-      - "ダージリンレモンティーなど紅茶・ハーブ系の香りを選択可能"
-    pros:
-      - "無添加処方で香りにこだわりながら低刺激を求める方に向く"
-      - "複数の香りバリエーションから好みで選べる"
-      - "抗菌・防臭機能も備えており実用性が高い"
-    cons:
-      - "茶系の香りが好みに合わない場合は選択肢が限られる"
-      - "天然由来の香料でも人によってはアレルギー反応が出る場合がある"
-    recommendedFor: "香りにこだわりたい敏感肌の方・オーガニック志向でティー系の香りが好きな方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2Flaundrin-teatime%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10006940%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08869620/imgrc0118802483.jpg?_ex=128x128"
-  - rank: 3
-    name: "送料無料　ファーファ　フリー＆　濃縮柔軟剤　無香料　エコパックお試しセット　本体"
-    brand: "NSファーファ・ジャパン"
-    price: 1370
-    capacity: "900mL"
-    pricePerUnit: "約1.5円/mL"
-    rating: 4.67
-    reviewCount: 39
-    features:
-      - "香料・着色料・シリコン・抗菌剤 4つの無添加"
-      - "柔軟成分は植物由来100%"
-      - "無香料で他の香りと干渉しない"
-    pros:
-      - "4つの無添加で肌への負担が最小限"
-      - "無香料で香り酔いの心配なし"
-      - "植物由来100%で環境にもやさしい"
-    cons:
-      - "香りを楽しみたい方には物足りない"
-      - "通常の柔軟剤に比べてふんわり感はやや控えめ"
-    recommendedFor: "化学物質過敏症の方・香料アレルギーの方・徹底的に無添加を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2Fs970428%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10002109%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/06059944/imgrc0118446811.jpg?_ex=128x128"
-  - rank: 4
-    name: "【シリーズ累計50万本突破】ランドリーボトル 洗濯ボトル 洗剤ボトル ［セット "
-    brand: "P&G（さらさ）"
-    price: 2664
-    capacity: "700mL"
-    pricePerUnit: "約3.8円/mL"
-    rating: 4.43
-    reviewCount: 447
-    features:
-      - "着色料無添加・皮膚科医監修の低刺激処方"
-      - "植物由来の柔軟成分で肌にやさしい"
-      - "赤ちゃんの衣類にも使える安全性"
-    pros:
-      - "皮膚科医監修で敏感肌・赤ちゃんに安心"
-      - "ほのかなピュアソープの香り"
-      - "大容量でコスパが良い"
-    cons:
-      - "香りが弱めで物足りないと感じる方もいる"
-      - "柔軟効果は通常の柔軟剤よりやや控えめ"
-    recommendedFor: "赤ちゃんがいる家庭・敏感肌の方・無添加にこだわる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1osn.3rdw6db5.g00r1osn.3rdw76c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarasa-designstore%2Fset-ls021x3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarasa-designstore%2Fi%2F10002237%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sarasa-designstore/cabinet/c05/set-ls021x3_ver2.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsarasa-designstore%2Fset-ls021x3.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-24"
-        price: 3119
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sarasa-designstore_set-ls021x3"
         available: true
 tags:
   - "柔軟剤"
