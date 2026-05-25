@@ -3,7 +3,7 @@ title: "コットン コスパ最強ランキング【2026年版】10選 1枚あ
 description: "コットン・コットンパッドを1枚あたりのコストで比較。ビオレ・シルコットなど11商品を肌触り・コスパで解説します。"
 category: "cotton"
 publishedAt: "2026-05-03"
-updatedAt: "2026-05-24"
+updatedAt: 2026-05-25
 products:
   - rank: 1
     name: "コットンパフ カット綿 大判"
@@ -126,8 +126,8 @@ products:
     price: 780
     capacity: "50枚×2個"
     pricePerUnit: "約7.8円/枚"
-    rating: 4.88
-    reviewCount: 8
+    rating: 4.78
+    reviewCount: 9
     features:
       - "使い捨てタイプのコットンパフ"
       - "国内製造のパフとして扱いやすい構成"

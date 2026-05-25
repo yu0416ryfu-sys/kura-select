@@ -3,7 +3,7 @@ title: "麦茶ティーバッグのコスパ比較【まとめ買いおすすめ
 description: "伊藤園・はくばくなど人気麦茶ティーバッグを1袋あたりの単価で比較。内容量・タイプ別の特徴から夏の水分補給やまとめ買いに最適な商品を紹介します。"
 category: "tea-bag"
 publishedAt: "2026-05-24"
-updatedAt: 2026-05-24
+updatedAt: 2026-05-25
 draft: false
 products:
   - rank: 1
@@ -56,8 +56,8 @@ products:
     price: 3618
     capacity: "30袋×10個（300袋）"
     pricePerUnit: "約12円/袋"
-    rating: 4.4
-    reviewCount: 10
+    rating: 4.36
+    reviewCount: 11
     features:
       - "ノンカフェイン・0kcal設計"
       - "ミネラル配合の健康訴求タイプ"
@@ -210,8 +210,8 @@ products:
     price: 1390
     capacity: "3.5g×50個"
     pricePerUnit: "0円/個"
-    rating: 4.64
-    reviewCount: 386
+    rating: 4.63
+    reviewCount: 387
     features:
       - "国産ハトムギ100%使用"
       - "ノンカフェイン・カフェインレス"

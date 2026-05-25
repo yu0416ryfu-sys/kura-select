@@ -13,7 +13,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約5.7円/mL"
     rating: 4.71
-    reviewCount: 1986
+    reviewCount: 1987
     features:
       - "オーガニック認証のホホバオイル（ゴールデン脱臭タイプ）。天然100%・無添加"
       - "20mL・100mL・300mL・500mL・1000mLの幅広いサイズ展開"
