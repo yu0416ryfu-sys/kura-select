@@ -1,12 +1,56 @@
 ---
-title: "猫砂 おすすめ3選【素材別コスパ比較 2026年版】"
-description: "猫砂を鉱物系・木炭系・おから系で素材別に比較。固まりやすさ・消臭力・1Lあたりの単価を基準に犬猫用おすすめ4商品を徹底比較。楽天まとめ買いコスパ最強まとめ。"
+title: "猫砂 おすすめ10選【素材別コスパ比較 2026年版】"
+description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペレットで素材別に比較。固まりやすさ・消臭力・1Lあたりの単価を基準におすすめ14商品を徹底比較。楽天まとめ買いコスパ最強まとめ。"
 category: "cat-litter"
 publishedAt: "2026-05-26"
 updatedAt: 2026-05-26
 draft: false
 products:
   - rank: 1
+    name: "紙でつくったねこ砂"
+    brand: "ペッツビレッジクロス"
+    price: 4480
+    capacity: "6.5L×8袋（52L）"
+    pricePerUnit: "約86円/L"
+    rating: 4.55
+    reviewCount: 2378
+    features:
+      - "国産再生紙由来の紙製猫砂"
+      - "濡れると色が変わる変色機能付き"
+      - "トイレに流せる・燃えるゴミに出せる"
+    pros:
+      - "色の変化で尿の状態を確認しやすい"
+      - "軽量で持ち運びや交換がしやすい"
+      - "廃棄の選択肢が多く使い勝手が良い"
+    cons:
+      - "鉱物系に比べて固まりが軽く崩れやすい場合がある"
+      - "好みによっては紙独特の使用感が気になる場合がある"
+    recommendedFor: "猫の健康チェックや軽量・廃棄の手軽さを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10005169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10005169%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/event_img/kansya/p2_img_01/imgrc0115258182.jpg?_ex=128x128"
+  - rank: 2
+    name: "紙の猫砂"
+    brand: "アイリスオーヤマ"
+    price: 3680
+    capacity: "7L×6袋（42L）"
+    pricePerUnit: "約88円/L"
+    rating: 4.21
+    reviewCount: 5562
+    features:
+      - "アイリスオーヤマ製のペレットタイプ紙製猫砂"
+      - "燃えるゴミとして廃棄可能・トイレへの廃棄にも対応"
+      - "飛び散りにくいペレット形状で軽量設計"
+    pros:
+      - "燃えるゴミとして処理でき廃棄場所を選ばない"
+      - "軽量のため高齢の飼い主や力が弱い方にも扱いやすい"
+      - "大手ブランドで品質が安定しており入手しやすい"
+    cons:
+      - "鉱物系に比べて固まりの硬さが弱い場合がある"
+      - "好みによっては紙製特有の使用感が気になる場合がある"
+    recommendedFor: "軽量で廃棄しやすい大手ブランドの紙製猫砂を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2Fa533439%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10013227%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/10335589/a533439-rank.jpg?_ex=128x128"
+  - rank: 3
     name: "炭の猫砂 まとめ買いセット"
     brand: "アイリスオーヤマ"
     price: 2500
@@ -28,7 +72,7 @@ products:
     recommendedFor: "大手ブランドの安心感と廃棄のしやすさを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F661502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10003840%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/petkanthum/661502.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 4
     name: "ウッディフレッシュ 鉱物系猫砂 小粒"
     brand: "ウッディフレッシュ"
     price: 2880
@@ -50,7 +94,95 @@ products:
     recommendedFor: "複数頭飼いや大容量でまとめ買いコスパを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F1314970%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10023027%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/jishahin29/1314970.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 5
+    name: "おからでつくったねこ砂"
+    brand: "ペッツビレッジクロス"
+    price: 4880
+    capacity: "6L×8袋（48L）"
+    pricePerUnit: "約102円/L"
+    rating: 4.59
+    reviewCount: 3302
+    features:
+      - "国産おから（大豆粕）由来の植物系猫砂"
+      - "トイレに流せる・燃えるゴミに出せる処理方法の選択肢が広い"
+      - "固まるタイプで消臭機能付き"
+    pros:
+      - "国産素材を選びたい方に向く"
+      - "トイレに流せるため処理の手軽さを重視する方に適している"
+      - "植物系で廃棄の融通が利きやすい"
+    cons:
+      - "鉱物系に比べて固まりが柔らかめの場合がある"
+      - "流す際は一度に大量に流さないよう注意が必要"
+    recommendedFor: "国産・植物系素材で手軽に処理できる猫砂を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10014011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10014011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/event_img/kansya/p2_img_01/imgrc0115258386.jpg?_ex=128x128"
+  - rank: 6
+    name: "クリーンサンド"
+    brand: "アイリスオーヤマ"
+    price: 2580
+    capacity: "5L×4袋（20L）"
+    pricePerUnit: "約129円/L"
+    rating: 4.62
+    reviewCount: 1917
+    features:
+      - "ベントナイト鉱物系・ペレットタイプの固まる猫砂"
+      - "抗菌・脱臭機能付きで衛生管理を考慮した設計"
+      - "飛び散り防止のペレット形状"
+    pros:
+      - "固まりが硬く処理しやすい鉱物系の定番モデル"
+      - "抗菌機能でトイレ周りの衛生を保ちやすい"
+      - "国内大手ブランドで安定した品質と入手しやすさがある"
+    cons:
+      - "鉱物系のため重量があり保管・廃棄場所の確保が必要"
+      - "燃えないゴミとして処理する地域が多い"
+    recommendedFor: "抗菌機能付きで固まりやすい鉱物系を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F1917955%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10165665%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/10841085/1917955-00.jpg?_ex=128x128"
+  - rank: 7
+    name: "パインウッド"
+    brand: "スノーフレーク"
+    price: 3156
+    capacity: "6L×4袋（24L）"
+    pricePerUnit: "約132円/L"
+    rating: 4.78
+    reviewCount: 1820
+    features:
+      - "天然木（松）由来の木製猫砂・システムトイレ対応"
+      - "無臭タイプで木の自然な消臭機能を活かした設計"
+      - "崩れるタイプで使用後は木くず状になる"
+    pros:
+      - "天然木素材で添加物を抑えた自然派志向の方に向く"
+      - "システムトイレ対応で専用機器使用者が選びやすい"
+      - "燃えるゴミに出せる地域が多く廃棄の手軽さがある"
+    cons:
+      - "システムトイレ非使用の場合は相性の確認が必要"
+      - "無香料のため好みによっては消臭感が物足りない場合がある"
+    recommendedFor: "システムトイレ対応で天然木素材を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quwbn.3rdw6556.g00quwbn.3rdw73a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flic-amigo%2F4538449100013-set4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flic-amigo%2Fi%2F10021347%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lic-amigo/cabinet/ftptest/amigp1006/06045249/imgrc0068605745.jpg?_ex=128x128"
+  - rank: 8
+    name: "ペットキレイ ニオイをとる砂"
+    brand: "ライオン"
+    price: 2877
+    capacity: "5L×4袋（20L）"
+    pricePerUnit: "約144円/L"
+    rating: 4.68
+    reviewCount: 2320
+    features:
+      - "ベントナイト鉱物系・固まるタイプの消臭猫砂"
+      - "大手メーカーライオンによる消臭設計"
+      - "使用時のホコリを抑えた処方"
+    pros:
+      - "大手ブランドの品質安定性と入手しやすさが特徴"
+      - "固まりが硬く処理しやすい鉱物系の使い勝手"
+      - "ホコリが抑えられており猫のトイレ環境を整えやすい"
+    cons:
+      - "鉱物系のため重量があり保管・廃棄に場所が必要"
+      - "燃えないゴミとして処理する地域が多い"
+    recommendedFor: "大手ブランドの安定品質で固まりやすい鉱物系を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe390373h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10315882%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/134/10134.jpg?_ex=128x128"
+  - rank: 9
     name: "トフカスサンドK おから猫砂"
     brand: "クリーンビート"
     price: 4430
@@ -72,6 +204,28 @@ products:
     recommendedFor: "廃棄を手軽にしたい、植物由来素材を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F9871988%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10183945%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/11375185/11760512/imgrc0105024504.jpg?_ex=128x128"
+  - rank: 10
+    name: "エバークリーン"
+    brand: "EVER CLEAN"
+    price: 4998
+    capacity: "6L×3個（18L）"
+    pricePerUnit: "約278円/L"
+    rating: 4.68
+    reviewCount: 1788
+    features:
+      - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
+      - "正規輸入品で無香・芳香のバリエーションあり"
+      - "優れた固まり性能と消臭力で海外でも評価実績のあるブランド"
+    pros:
+      - "細粒タイプで猫が掘りやすく自然な使用感を好む猫に向く"
+      - "固まりがしっかりしており処理時に崩れにくい"
+      - "香りのバリエーションから好みに応じて選びやすい"
+    cons:
+      - "鉱物系のため重量があり保管・廃棄場所の確保が必要"
+      - "他の国産品と比べてやや価格帯が上がる場合がある"
+    recommendedFor: "海外ブランドの細粒鉱物系で固まり性能を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10014271%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10014271%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/event_img/kansya/p2_img_01/imgrc0115258387.jpg?_ex=128x128"
 tags:
   - "猫砂 おすすめ"
   - "猫砂 コスパ"
