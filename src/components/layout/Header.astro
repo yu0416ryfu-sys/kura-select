@@ -1,12 +1,16 @@
 ---
+import { getCollection } from "astro:content";
 import Container from "./Container.astro";
 import { SITE, url } from "../../lib/site";
 
+const allCategories = await getCollection("categories");
+const topCategories = allCategories
+  .sort((a, b) => a.data.order - b.data.order)
+  .slice(0, 18);
+
 const navItems = [
   { label: "ホーム", href: url("/") },
-  { label: "カテゴリ", href: url("/#categories") },
   { label: "記事一覧", href: url("/articles") },
-  { label: "検索", href: url("/search") },
   { label: "このサイトについて", href: url("/about") },
 ];
 ---
@@ -30,6 +34,57 @@ const navItems = [
 
       <!-- デスクトップナビ -->
       <nav class="hidden md:flex items-center gap-6" aria-label="メインナビゲーション">
+        <!-- カテゴリ ドロップダウン -->
+        <div class="relative group">
+          <button
+            id="category-menu-btn"
+            class="flex items-center gap-1 text-[var(--color-text-sub)] hover:text-[var(--color-primary)] text-sm font-medium transition-colors"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="category-dropdown"
+          >
+            カテゴリ
+            <svg class="w-3.5 h-3.5 transition-transform duration-200 group-hover:rotate-180 group-focus-within:rotate-180" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" />
+            </svg>
+          </button>
+
+          <!-- ドロップダウンパネル -->
+          <div
+            id="category-dropdown"
+            role="menu"
+            aria-labelledby="category-menu-btn"
+            class="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-80 bg-white border border-[var(--color-border)] rounded-xl shadow-lg
+                   opacity-0 invisible group-hover:opacity-100 group-hover:visible group-focus-within:opacity-100 group-focus-within:visible
+                   transition-all duration-150 z-50"
+          >
+            <ul class="grid grid-cols-2 gap-0.5 p-3">
+              {topCategories.map((cat) => (
+                <li role="none">
+                  <a
+                    href={url(`/category/${cat.data.slug}`)}
+                    role="menuitem"
+                    class="flex items-center gap-2 px-3 py-2 text-sm rounded-lg text-[var(--color-text-sub)] hover:bg-[var(--color-surface)] hover:text-[var(--color-primary)] transition-colors"
+                  >
+                    <span class="text-base leading-none">{cat.data.icon}</span>
+                    <span class="truncate">{cat.data.name}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+            <div class="border-t border-[var(--color-border)] p-2">
+              <a
+                href={url("/#categories")}
+                role="menuitem"
+                class="flex items-center justify-center gap-1 py-2 text-sm text-[var(--color-primary)] hover:underline font-medium rounded-lg hover:bg-[var(--color-surface)] transition-colors"
+              >
+                すべてのカテゴリを見る →
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- その他ナビ -->
         {navItems.map((item) => (
           <a
             href={item.href}
@@ -59,10 +114,47 @@ const navItems = [
   <div id="mobile-menu" class="hidden md:hidden border-t border-[var(--color-border)]" role="navigation" aria-label="モバイルナビゲーション">
     <Container>
       <nav class="py-4 flex flex-col gap-1">
+        <!-- カテゴリ アコーディオン -->
+        <div class="border-b border-[var(--color-border)] pb-2 mb-1">
+          <button
+            id="mobile-category-btn"
+            class="w-full flex items-center justify-between py-2 px-3 text-[var(--color-text-sub)] hover:text-[var(--color-primary)] hover:bg-[var(--color-surface)] rounded-lg transition-colors text-sm font-medium"
+            aria-expanded="false"
+            aria-controls="mobile-category-list"
+          >
+            カテゴリ
+            <svg id="mobile-category-icon" class="w-4 h-4 transition-transform duration-200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" />
+            </svg>
+          </button>
+          <div id="mobile-category-list" class="hidden pt-1">
+            <ul class="grid grid-cols-2 gap-0.5 px-2">
+              {topCategories.map((cat) => (
+                <li>
+                  <a
+                    href={url(`/category/${cat.data.slug}`)}
+                    class="flex items-center gap-2 px-3 py-2 text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] hover:bg-[var(--color-surface)] rounded-lg transition-colors"
+                  >
+                    <span class="text-base leading-none">{cat.data.icon}</span>
+                    <span class="truncate">{cat.data.name}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+            <a
+              href={url("/#categories")}
+              class="flex items-center justify-center gap-1 mt-1 mx-2 py-2 text-sm text-[var(--color-primary)] hover:underline font-medium rounded-lg hover:bg-[var(--color-surface)] transition-colors"
+            >
+              すべてのカテゴリを見る →
+            </a>
+          </div>
+        </div>
+
+        <!-- その他ナビ -->
         {navItems.map((item) => (
           <a
             href={item.href}
-            class="py-2 px-3 text-[var(--color-text-sub)] hover:text-[var(--color-primary)] hover:bg-[var(--color-surface)] rounded-lg transition-colors"
+            class="py-2 px-3 text-[var(--color-text-sub)] hover:text-[var(--color-primary)] hover:bg-[var(--color-surface)] rounded-lg transition-colors text-sm"
           >
             {item.label}
           </a>
@@ -73,13 +165,33 @@ const navItems = [
 </header>
 
 <script>
-  const btn = document.getElementById("hamburger-btn");
-  const menu = document.getElementById("mobile-menu");
+  // ハンバーガーメニュー開閉
+  const hamburgerBtn = document.getElementById("hamburger-btn");
+  const mobileMenu = document.getElementById("mobile-menu");
 
-  btn?.addEventListener("click", () => {
-    const isExpanded = btn.getAttribute("aria-expanded") === "true";
-    btn.setAttribute("aria-expanded", String(!isExpanded));
-    menu?.classList.toggle("hidden");
-    btn.setAttribute("aria-label", isExpanded ? "メニューを開く" : "メニューを閉じる");
+  hamburgerBtn?.addEventListener("click", () => {
+    const isExpanded = hamburgerBtn.getAttribute("aria-expanded") === "true";
+    hamburgerBtn.setAttribute("aria-expanded", String(!isExpanded));
+    mobileMenu?.classList.toggle("hidden");
+    hamburgerBtn.setAttribute("aria-label", isExpanded ? "メニューを開く" : "メニューを閉じる");
+  });
+
+  // モバイル カテゴリアコーディオン
+  const mobileCategoryBtn = document.getElementById("mobile-category-btn");
+  const mobileCategoryList = document.getElementById("mobile-category-list");
+  const mobileCategoryIcon = document.getElementById("mobile-category-icon");
+
+  mobileCategoryBtn?.addEventListener("click", () => {
+    const isExpanded = mobileCategoryBtn.getAttribute("aria-expanded") === "true";
+    mobileCategoryBtn.setAttribute("aria-expanded", String(!isExpanded));
+    mobileCategoryList?.classList.toggle("hidden");
+    mobileCategoryIcon?.classList.toggle("rotate-180");
+  });
+
+  // Escape キーでデスクトップドロップダウンを閉じる
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+      (document.getElementById("category-menu-btn") as HTMLElement)?.blur();
+    }
   });
 </script>
