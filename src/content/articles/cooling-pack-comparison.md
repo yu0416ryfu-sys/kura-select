@@ -77,7 +77,7 @@ products:
     price: 2880
     capacity: "1個"
     pricePerUnit: "約2880円/個"
-    rating: 4.55
+    rating: 4.59
     reviewCount: 22
     features:
       - "ステンレス製で耐久性が高く長期間の繰り返し使用に向いている"

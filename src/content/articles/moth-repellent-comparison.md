@@ -3,7 +3,7 @@ title: "衣類防虫剤 コスパ最強ランキング【2026年版】1個あた
 description: "クローゼット用衣類防虫剤を1個あたりのコストで徹底比較。ムシューダ・タンスにゴン・天然樟脳・アース製薬など人気10選を防虫力・コスパで解説します。"
 category: "moth-repellent"
 publishedAt: "2026-05-04"
-updatedAt: "2026-05-24"
+updatedAt: 2026-05-26
 products:
   - rank: 1
     name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×2箱セット"
@@ -224,7 +224,7 @@ products:
     capacity: "3個×2"
     pricePerUnit: "約271円/個"
     rating: 4.74
-    reviewCount: 125
+    reviewCount: 126
     features:
       - "有効期間1年で年1回の交換でOK"
       - "衣類への移り香防止処方"

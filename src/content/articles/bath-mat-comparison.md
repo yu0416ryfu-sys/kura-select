@@ -85,7 +85,7 @@ products:
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
     rating: 4.43
-    reviewCount: 2497
+    reviewCount: 2498
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"
@@ -102,7 +102,7 @@ products:
       - "落下時の破損リスク"
     recommendedFor: "機能性と品質を重視する人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u2t0n.3rdw6d5c.g00u2t0n.3rdw74d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneo-lifestyle%2Fbmt001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneo-lifestyle%2Fi%2F10000083%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-lifestyle/cabinet/zaka01/09054478/09779292/bmt001_cp.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-lifestyle/cabinet/zaka01/09054478/09779292/bmt001.jpg?_ex=128x128"
 tags:
   - "バスマット おすすめ"
   - "バスマット コスパ"

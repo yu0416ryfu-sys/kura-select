@@ -57,7 +57,7 @@ products:
     capacity: "スーパーワイド 100枚（25枚×4パック）"
     pricePerUnit: "0円/枚"
     rating: 4.34
-    reviewCount: 1739
+    reviewCount: 1741
     features:
       - "スーパーワイド（60×90cm）の厚型設計"
       - "ポリエチレン素材で吸収力・防水性を両立"

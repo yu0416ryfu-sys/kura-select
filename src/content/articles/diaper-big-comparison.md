@@ -3,7 +3,7 @@ title: "BIG・スーパービッグ紙おむつ比較【2026年版】"
 description: "BIGサイズ・スーパービッグサイズの紙おむつを1枚あたりの価格で比較。大きめ体型や夜間漏れ対策に向く商品を選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: "2026-05-26"
+updatedAt: 2026-05-26
 products:
   - rank: 1
     name: "グーンプラス テープ BIGサイズ"
@@ -130,6 +130,37 @@ products:
         matchStatus: "pending"
         updatedAt: "2026-05-26"
   - rank: 5
+    name: "グーン スーパーBIG パンツタイプ 14枚"
+    brand: "大王製紙（グーン）"
+    price: 1288
+    capacity: "14枚"
+    pricePerUnit: "約92円/枚"
+    rating: 4.64
+    reviewCount: 113
+    features:
+      - "スーパーBIGサイズのパンツタイプ"
+      - "体重目安に幅を持たせた大きめ設計"
+      - "下着感覚で使いやすい紙おむつ"
+    pros:
+      - "大きめサイズを店頭以外で探したい時に候補にしやすい"
+      - "少量パックでフィット感を確認しやすい"
+      - "日中用として使いやすいパンツタイプ"
+    cons:
+      - "まとめ買いではないためストック用途には向きにくい"
+      - "パッケージ変更時は仕様表示を確認したい"
+    recommendedFor: "グーンのスーパーBIGを単品で購入したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10050176%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10008257%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/shouhin52/4902011743081.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 1254
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4902011743081-1.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4902011743081-1"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-05-25"
+  - rank: 6
     name: "グーン スーパービッグ パンツタイプ"
     brand: "大王製紙（グーン）"
     price: 1399
@@ -160,37 +191,6 @@ products:
         available: true
         matchStatus: "pending"
         updatedAt: "2026-05-26"
-  - rank: 6
-    name: "グーン スーパーBIG パンツ"
-    brand: "大王製紙（グーン）"
-    price: 1450
-    capacity: "14枚"
-    pricePerUnit: "約104円/枚"
-    rating: 4.78
-    reviewCount: 32
-    features:
-      - "スーパーBIGサイズのパンツタイプ"
-      - "体重目安に幅を持たせた大きめ設計"
-      - "下着感覚で使いやすい紙おむつ"
-    pros:
-      - "大きめサイズを店頭以外で探したい時に候補にしやすい"
-      - "少量パックでフィット感を確認しやすい"
-      - "日中用として使いやすいパンツタイプ"
-    cons:
-      - "まとめ買いではないためストック用途には向きにくい"
-      - "パッケージ変更時は仕様表示を確認したい"
-    recommendedFor: "グーンのスーパーBIGを単品で購入したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902011743081%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10002350%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4902011743081.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 1254
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4902011743081-1.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4902011743081-1"
-        available: true
-        matchStatus: "pending"
-        updatedAt: "2026-05-25"
   - rank: 7
     name: "グーン スーパーBIG パンツ ケース販売"
     brand: "大王製紙（グーン）"
@@ -282,7 +282,7 @@ products:
     capacity: "ビッグ108枚（3個セット）"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 1580
+    reviewCount: 1581
     features:
       - "パンツタイプの紙おむつ"
       - "ふわもちタッチの肌あたりに配慮した設計"

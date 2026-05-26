@@ -3,7 +3,7 @@ title: "コンディショナー コスパ最強ランキング【2026年版】1
 description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気10選をダメージケア・コスパで解説します。"
 category: "conditioner"
 publishedAt: "2026-05-01"
-updatedAt: "2026-05-26"
+updatedAt: 2026-05-26
 products:
   - rank: 1
     name: "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア"
@@ -79,7 +79,7 @@ products:
       - "500g容量で頻繁な購入が必要"
     recommendedFor: "細い髪の方・サロン品質のコンディショナーを求める方・継続的なダメージケアを行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000013%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_ar500_p10.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989117/parga_2026_ar500_p5.jpg?_ex=128x128"
   - rank: 4
     name: "パルガ ヘアコンディショナー ソフトリッチR 500g 詰替"
     brand: "パルガ"
@@ -101,7 +101,7 @@ products:
       - "一般流通が限られる"
     recommendedFor: "硬い髪の方・ふんわり感よりまとまりを求める方・継続的なケアを行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_sr500_p10.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989117/parga_2026_sr500_p5.jpg?_ex=128x128"
   - rank: 5
     name: "THANN トリートメントコンディショナー OE 200g"
     brand: "THANN"
@@ -145,7 +145,7 @@ products:
       - "詰替用ではなく通常ボトル"
     recommendedFor: "携帯用を探している方・細い髪の方・まずは試してみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-09%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000010%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_ar210_p10.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989117/parga_2026_ar210_p5.jpg?_ex=128x128"
   - rank: 7
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
     brand: "クラシエ（いち髪）"

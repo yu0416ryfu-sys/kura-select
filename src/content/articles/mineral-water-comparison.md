@@ -79,7 +79,7 @@ products:
     capacity: "500mL×24本（12L）"
     pricePerUnit: "約98円/L"
     rating: 4.69
-    reviewCount: 1133
+    reviewCount: 1137
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"

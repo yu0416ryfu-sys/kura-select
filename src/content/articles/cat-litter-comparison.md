@@ -1,12 +1,34 @@
 ---
-title: "猫砂 おすすめ4選【素材別コスパ比較 2026年版】"
+title: "猫砂 おすすめ3選【素材別コスパ比較 2026年版】"
 description: "猫砂を鉱物系・木炭系・おから系で素材別に比較。固まりやすさ・消臭力・1Lあたりの単価を基準に犬猫用おすすめ4商品を徹底比較。楽天まとめ買いコスパ最強まとめ。"
 category: "cat-litter"
 publishedAt: "2026-05-26"
 updatedAt: 2026-05-26
-draft: true
+draft: false
 products:
   - rank: 1
+    name: "炭の猫砂 まとめ買いセット"
+    brand: "アイリスオーヤマ"
+    price: 2500
+    capacity: "7L×4袋（28L）"
+    pricePerUnit: "約89円/L"
+    rating: 4.35
+    reviewCount: 2233
+    features:
+      - "炭配合の木質系猫砂、固まるタイプ"
+      - "燃えるゴミとして廃棄可能"
+      - "消臭・脱臭機能を備えたベントナイト配合"
+    pros:
+      - "燃えるゴミに出せるため廃棄場所を選ばない"
+      - "大手ブランドで品質が安定しており初めての猫砂にも選びやすい"
+      - "4袋まとめ買いで補充の手間を減らせる"
+    cons:
+      - "炭の色が濃いため汚れの確認がしにくい場合がある"
+      - "鉱物系に比べて固まりがやや柔らかめ"
+    recommendedFor: "大手ブランドの安心感と廃棄のしやすさを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F661502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10003840%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/petkanthum/661502.jpg?_ex=128x128"
+  - rank: 2
     name: "ウッディフレッシュ 鉱物系猫砂 小粒"
     brand: "ウッディフレッシュ"
     price: 2880
@@ -28,28 +50,6 @@ products:
     recommendedFor: "複数頭飼いや大容量でまとめ買いコスパを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F1314970%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10023027%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/jishahin29/1314970.jpg?_ex=128x128"
-  - rank: 2
-    name: "炭の猫砂 まとめ買いセット"
-    brand: "アイリスオーヤマ"
-    price: 2780
-    capacity: "7L×4袋（28L）"
-    pricePerUnit: "約99円/L"
-    rating: 4.35
-    reviewCount: 2233
-    features:
-      - "炭配合の木質系猫砂、固まるタイプ"
-      - "燃えるゴミとして廃棄可能"
-      - "消臭・脱臭機能を備えたベントナイト配合"
-    pros:
-      - "燃えるゴミに出せるため廃棄場所を選ばない"
-      - "大手ブランドで品質が安定しており初めての猫砂にも選びやすい"
-      - "4袋まとめ買いで補充の手間を減らせる"
-    cons:
-      - "炭の色が濃いため汚れの確認がしにくい場合がある"
-      - "鉱物系に比べて固まりがやや柔らかめ"
-    recommendedFor: "大手ブランドの安心感と廃棄のしやすさを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F661502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10003840%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/petkanthum/661502.jpg?_ex=128x128"
   - rank: 3
     name: "トフカスサンドK おから猫砂"
     brand: "クリーンビート"
@@ -72,28 +72,6 @@ products:
     recommendedFor: "廃棄を手軽にしたい、植物由来素材を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F9871988%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10183945%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/11375185/11760512/imgrc0105024504.jpg?_ex=128x128"
-  - rank: 4
-    name: "VAN CAT ベントナイト猫砂 香り付き"
-    brand: "OFT"
-    price: 0
-    capacity: "5kg"
-    pricePerUnit: "0円/kg"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "トルコ産ベントナイト使用の鉱物系猫砂"
-      - "香り付きで消臭力が高く、複数の香りバリエーションから選べる"
-      - "固まりが硬く砂ぼこりが少ない設計"
-    pros:
-      - "鉱物系特有の硬い固まりで処理がしやすい"
-      - "香りのバリエーションが豊富で好みに合わせて選べる"
-      - "自動ネコトイレにも対応しやすい粒サイズ"
-    cons:
-      - "重量があるため保管・廃棄時に力が必要"
-      - "燃えるゴミに出せないため処分方法を確認が必要"
-    recommendedFor: "固まりの強さと消臭力を両立したい、自動トイレを使用している方"
-    rakutenUrl: "https://item.rakuten.co.jp/ip-plus/vancat4set/"
-    imageUrl: ""
 tags:
   - "猫砂 おすすめ"
   - "猫砂 コスパ"

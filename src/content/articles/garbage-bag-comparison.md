@@ -3,7 +3,7 @@ title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
 description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ6選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
-updatedAt: "2026-05-26"
+updatedAt: 2026-05-26
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -12,7 +12,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約4.7円/枚"
     rating: 4.77
-    reviewCount: 1476
+    reviewCount: 1477
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -81,6 +81,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902393558198-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10068514%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic201404/4902393558198_1.jpg?_ex=128x128"
   - rank: 4
+    name: "とって付きビニール袋 ごみ袋 20L〜25L 20枚×4セット"
+    brand: "日本サニパック"
+    price: 1000
+    capacity: "20枚×4セット（80枚）"
+    pricePerUnit: "約13円/枚"
+    rating: 4.25
+    reviewCount: 4
+    features:
+      - "20L〜25L対応の小型ゴミ袋で洗面所やトイレなどの小型ゴミ箱に向くサイズ"
+      - "取っ手付きで口を結ばずにゴミ出しできる"
+      - "0.016mmの薄手素材で一般的なゴミの処理に適した設計"
+    pros:
+      - "小型サイズなので部屋ごとのゴミ箱に使い分けしやすい"
+      - "取っ手で持ち運べるため、ゴミ箱からそのまま外に出せる"
+      - "ペット用汚物袋やアウトドアなど用途を広げやすい"
+    cons:
+      - "薄手（0.016mm）のため、重みや鋭利なものには向かない"
+      - "小容量タイプのため、台所の大型ゴミ箱には使えない"
+    recommendedFor: "洗面所・トイレ・デスク周りなど小型ゴミ箱を複数使いする方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ty6dn.3rdw6ecc.g00ty6dn.3rdw797e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftbnexus%2Fsanipak-yc29%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftbnexus%2Fi%2F10000128%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tbnexus/cabinet/item2/sanipak-yc29_1.jpg?_ex=128x128"
+  - rank: 5
     name: "HEIKO PPパン袋 20-30 300枚"
     brand: "HEIKO"
     price: 3980
@@ -111,7 +133,7 @@ products:
         price: 1375
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_2030l300"
         available: true
-  - rank: 5
+  - rank: 6
     name: "KT43 取っ手付きポリ袋 45L 半透明"
     brand: "ハウスホールドジャパン"
     price: 2974
@@ -133,28 +155,6 @@ products:
     recommendedFor: "45Lゴミ箱を使う家庭、取っ手付きゴミ袋を好む方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4580287300940-005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12059341%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2021a/4580287300940.jpg?_ex=128x128"
-  - rank: 6
-    name: "とって付きビニール袋 20L〜25L"
-    brand: "日本サニパック"
-    price: 0
-    capacity: "20枚×4セット（80枚）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "20L〜25L対応の小型ゴミ袋で洗面所やトイレなどの小型ゴミ箱に向くサイズ"
-      - "取っ手付きで口を結ばずにゴミ出しできる"
-      - "0.016mmの薄手素材で一般的なゴミの処理に適した設計"
-    pros:
-      - "小型サイズなので部屋ごとのゴミ箱に使い分けしやすい"
-      - "取っ手で持ち運べるため、ゴミ箱からそのまま外に出せる"
-      - "ペット用汚物袋やアウトドアなど用途を広げやすい"
-    cons:
-      - "薄手（0.016mm）のため、重みや鋭利なものには向かない"
-      - "小容量タイプのため、台所の大型ゴミ箱には使えない"
-    recommendedFor: "洗面所・トイレ・デスク周りなど小型ゴミ箱を複数使いする方"
-    rakutenUrl: "https://item.rakuten.co.jp/tbnexus/sanipak-yc29/"
-    imageUrl: ""
 tags:
   - "ゴミ袋"
   - "コスパ"
