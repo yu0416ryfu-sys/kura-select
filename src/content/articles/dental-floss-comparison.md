@@ -3,7 +3,7 @@ title: "デンタルフロス コスパ最強ランキング【2026年版】1本
 description: "デンタルフロス・歯間ブラシを1本あたりのコストで徹底比較。GUM・クリニカ・糸ようじ・フロアフロスなど人気10選を使いやすさ・清潔効果・コスパで解説します。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
-updatedAt: "2026-05-26"
+updatedAt: 2026-05-27
 products:
   - rank: 1
     name: "Dr.デンリスト こども糸ピックス 30本入×4個"
@@ -150,7 +150,7 @@ products:
       - "まとめ買いのため初期費用が高め"
     recommendedFor: "奥歯のケアを重視する方・まとめ買いで節約したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F13122%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10000202%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0523_p5/kirikae1/04080.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/wb_logo_6/04080.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -181,7 +181,7 @@ products:
       - "個別包装分のコストが上乗せされやすい"
     recommendedFor: "外出先でも衛生的にフロスを使いたい方・奥歯のケアを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F13121%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10002248%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0523_p5/kirikae1/ultra_s.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shohin08/ultra_s.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -212,7 +212,7 @@ products:
       - "移動中や外出先では使いにくい"
     recommendedFor: "毎日フロスを使う方・コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0523_p5/kirikae3/28528.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shohin08/28528.jpg?_ex=128x128"
   - rank: 8
     name: "フロアフロス 250m 詰め替え用"
     brand: "fluorfloss"
@@ -251,7 +251,7 @@ products:
     capacity: "250m"
     pricePerUnit: "約12円/m"
     rating: 4.7
-    reviewCount: 468
+    reviewCount: 469
     features:
       - "384本の細い繊維を束ねた高密度フロス設計"
       - "250mの大容量でまとめ買い不要"
@@ -265,7 +265,7 @@ products:
       - "初期購入コストがやや高め"
     recommendedFor: "大容量フロスを求める方・毎日フロスを使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fpppp25%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0523_p5/mini/pppp25_15thsam01.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg01/pppp25_15thsam01.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -296,7 +296,7 @@ products:
       - "価格帯がやや高めで試しにくい"
     recommendedFor: "歯科医院品質のフロスをまとめて揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49760%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008760%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0523_p5/kirikae2/49760_n.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/07319599/49760_n.jpg?_ex=128x128"
 tags:
   - "デンタルフロス おすすめ"
   - "歯間ブラシ コスパ"

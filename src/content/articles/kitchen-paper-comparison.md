@@ -3,7 +3,7 @@ title: "キッチンペーパー コスパ最強ランキング【2026年版】1
 description: "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気5選を吸水力・強度・コスパで解説します。"
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-26
+updatedAt: 2026-05-27
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -92,9 +92,9 @@ products:
   - rank: 4
     name: "スコッティ ファイン 3倍巻き キッチンタオル 4ロール×4パック"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 7280
-    capacity: "4ロール×4パック（150カット×16ロール）"
-    pricePerUnit: "約28円/ロール"
+    price: 4810
+    capacity: "4ロール×4パック（16ロール）"
+    pricePerUnit: "約301円/ロール"
     rating: 5
     reviewCount: 4
     features:
@@ -109,8 +109,8 @@ products:
       - "通常ロールに比べてやや厚みがある"
       - "ホルダーによっては入らない場合がある"
     recommendedFor: "コスパ重視の方・交換頻度を減らしたい方・まとめ買い派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7169105%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10182291%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/11006609/11215878/7169105.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uo14n.3rdw68f0.g00uo14n.3rdw7116/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanamaru-shouten%2F20250517125450_105%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanamaru-shouten%2Fi%2F10035557%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanamaru-shouten/cabinet/r_2025051711/20250517125450_105_1.jpg?_ex=128x128"
   - rank: 5
     name: "東京クイン イイナ キッチンペーパー M265 12ロール"
     brand: "イイナ"

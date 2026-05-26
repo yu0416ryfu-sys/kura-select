@@ -3,7 +3,7 @@ title: "T字カミソリ おすすめ4選｜替刃コスパと刃数で徹底比
 description: "ジレット・シックなど人気ブランドのT字カミソリを刃数・コスパ・使い心地で比較。替刃の単価や選び方のポイントも解説します。"
 category: "razor"
 publishedAt: "2026-05-26"
-updatedAt: 2026-05-26
+updatedAt: 2026-05-27
 draft: true
 products:
   - rank: 1
