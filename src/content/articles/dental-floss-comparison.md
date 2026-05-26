@@ -12,7 +12,7 @@ products:
     capacity: "30本×4個"
     pricePerUnit: "約9.2円/本"
     rating: 4.8
-    reviewCount: 309
+    reviewCount: 310
     features:
       - "対象年齢2歳からの子ども向け設計"
       - "糸ピックス一体型で子どもでも使いやすいサイズ"
@@ -27,6 +27,15 @@ products:
     recommendedFor: "幼児から小学生の子どもの歯間ケアを始めたい親御さん"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rzyyn.3rdw693a.g00rzyyn.3rdw76d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwagonsale-kanahashi%2F4901387051189-z-s-4-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwagonsale-kanahashi%2Fi%2F10002834%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wagonsale-kanahashi/cabinet/11346547/4901387051189z4p01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale-kanahashi%2F4901387051189-z-s-4-1.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-26"
+        price: 1099
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale-kanahashi_4901387051189-z-s-4-1"
+        available: true
   - rank: 2
     name: "小林製薬 糸ようじ フロス&ピック デンタルフロス 60本入"
     brand: "小林製薬（糸ようじ）"
@@ -54,7 +63,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-pal%2F4987072025895-1.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 798
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-pal_4987072025895-1"
         available: true
@@ -147,7 +156,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F13122.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 4750
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_13122"
         available: true
@@ -178,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F13121.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 2000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_13121"
         available: true
@@ -231,7 +240,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 2998
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true
@@ -262,7 +271,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 2998
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true

@@ -35,7 +35,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
   - rank: 2
     name: "エリエール　グーン　スーパービッグ　テープ止めタイプ"
     brand: "大王製紙（グーン）"
@@ -66,7 +66,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_60000000002751"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
   - rank: 3
     name: "オヤスミマン 男の子 ビッグ以上"
     brand: "ユニ・チャーム（ムーニー）"
@@ -97,7 +97,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111211647x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
   - rank: 4
     name: "オヤスミマン 女の子 ビッグ以上"
     brand: "ユニ・チャーム（ムーニー）"
@@ -128,7 +128,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111211807x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
   - rank: 5
     name: "グーン スーパービッグ パンツタイプ"
     brand: "大王製紙（グーン）"
@@ -159,7 +159,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4902011743081-1"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
   - rank: 6
     name: "グーン スーパーBIG パンツ"
     brand: "大王製紙（グーン）"

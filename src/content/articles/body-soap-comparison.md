@@ -31,8 +31,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F57777.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-25"
+        matchStatus: "matched"
+        updatedAt: "2026-05-26"
         price: 2280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_57777"
         available: true
@@ -107,7 +107,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fb0110001.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_b0110001"
         available: true
@@ -138,7 +138,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhealingvillage%2Fmndmrw-kbwt0.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 1227
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/healingvillage_mndmrw-kbwt0"
         available: true
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmitsubachi-road%2F20012-4.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 10000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mitsubachi-road_20012-4"
         available: true
@@ -243,8 +243,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoapmax%2F20005231.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-25"
+        matchStatus: "matched"
+        updatedAt: "2026-05-26"
         price: 2420
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soapmax_20005231"
         available: true

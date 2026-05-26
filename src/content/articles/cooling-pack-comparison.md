@@ -56,7 +56,7 @@ products:
     capacity: "540g"
     pricePerUnit: "約2.2円/g"
     rating: 4.37
-    reviewCount: 111
+    reviewCount: 112
     features:
       - "ハードタイプで溶けてもかさばらず繰り返し使いやすい設計"
       - "M（540g）・L（830g）・XL（1.1kg）の3サイズから用途に応じて選べる"

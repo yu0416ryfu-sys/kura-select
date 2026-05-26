@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flefutur%2Fscottie500.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 6520
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lefutur_scottie500"
         available: true
@@ -87,7 +87,7 @@ products:
     capacity: "200枚（100組）×12箱"
     pricePerUnit: "約2.2円/枚"
     rating: 4.64
-    reviewCount: 661
+    reviewCount: 662
     features:
       - "パルプ100%の柔らかな2枚重ね"
       - "エリエールブランドの高品質"

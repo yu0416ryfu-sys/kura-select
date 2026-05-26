@@ -54,7 +54,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh8451-1.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 495
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh8451-1"
         available: true
@@ -107,7 +107,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fits-japan%2Fp21037610e99a.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 1594
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/its-japan_p21037610e99a"
         available: true
@@ -138,7 +138,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh734020.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 9240
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh734020"
         available: true
@@ -213,7 +213,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmitumitu%2Fxm5132053a3a2.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 1860
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mitumitu_xm5132053a3a2"
         available: true

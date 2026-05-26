@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902424446593.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 881
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902424446593"
         available: true
@@ -152,7 +152,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faroma-spray%2Fsp-bug-100-100e.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 2980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aroma-spray_sp-bug-100-100e"
         available: true
@@ -183,7 +183,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyoga-pi%2Fperfect-potion-110931cd-125.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 1870
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yoga-pi_perfect-potion-110931cd-125"
         available: true
@@ -236,7 +236,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fease-aroma%2Fspfod003002set.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 1320
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ease-aroma_spfod003002set"
         available: true

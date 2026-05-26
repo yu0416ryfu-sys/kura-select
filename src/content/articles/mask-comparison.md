@@ -26,7 +26,7 @@ products:
       - "色や形状の好みは分かれる"
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rgdwn.3rdw6bcc.g00rgdwn.3rdw740b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fweiwei%2Fbwm8yp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fweiwei%2Fi%2F10022881%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/weiwei/cabinet/shouhin-image03/bwm8r.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/weiwei/cabinet/shouhin-image03/bwm8cr.jpg?_ex=128x128"
   - rank: 2
     name: "WEIMALL 子供用立体マスク"
     brand: "WEIMALL"
@@ -122,7 +122,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約18円/枚"
     rating: 4.41
-    reviewCount: 2333
+    reviewCount: 2334
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -208,7 +208,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft0090-01-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
         price: 2163
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t0090-01-a"
         available: true

@@ -37,7 +37,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4901983901796"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-26"
   - rank: 2
     name: "パッと貼るだけ エアコンフィルター 2個セット"
     brand: "東洋アルミ"
