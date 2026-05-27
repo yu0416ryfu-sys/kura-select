@@ -10,6 +10,7 @@ export interface ProductForMatching {
   name: string;
   capacity: string | null;
   brand: string | null; // "" は parseProducts() 側で null に正規化済みの前提
+  brandVariants?: string[];
 }
 
 export interface EvaluateResult {
@@ -18,6 +19,9 @@ export interface EvaluateResult {
   candidateCapacity?: string | null;
   strictMatch?: boolean;
   urlMultiplier?: number;
+  brandMatch?: boolean;
+  brandFailureReason?: string;
+  suggestedBrandAliases?: string[];
 }
 
 /**
@@ -72,6 +76,63 @@ export function isSameComparableCapacity(
       aTotal.total === bTotal.total &&
       aTotal.unit.toLowerCase() === bTotal.unit.toLowerCase()
   );
+}
+
+// ─── brand 照合ヘルパー ──────────────────────────────────────────────────────
+
+/**
+ * brand 値を buildSearchKeyword で正規化して小文字化する。
+ * primary brand や brandVariants に使う。
+ */
+function normalizeBrandToken(value: string): string {
+  return buildSearchKeyword(value).toLowerCase();
+}
+
+/**
+ * brand 値をスペース・区切り文字で分割したサブトークン配列を返す。
+ * 「花王 ビオレ」→ ["花王", "ビオレ"] のようなスペース表記ゆれの吸収に使う。
+ * 2文字未満のトークンは除外する。
+ */
+function splitBrandSubTokens(value: string): string[] {
+  return normalizeBrandToken(value)
+    .split(/[\s　・_\-]+/)
+    .filter((token) => token.length >= 2);
+}
+
+/**
+ * 文字列からカタカナ連続語（2文字以上）を重複なく抽出する。
+ * brand 照合失敗時のエイリアス提案に使う。
+ */
+function extractKatakanaRuns(value: string): string[] {
+  return [...value.matchAll(/[ァ-ヴー]{2,}/g)]
+    .map((m) => m[0])
+    .filter((token, index, all) => all.indexOf(token) === index);
+}
+
+/**
+ * strictMatch 失敗時にエイリアス候補を提案する。
+ * frontmatter へ自動反映せず、レポート提案にのみ使う。
+ *
+ * 条件:
+ * 1. candidateName に product.name の主要トークンが含まれる（allTokensMatch が呼び元で確認済み）
+ * 2. product.name と candidateName の共通カタカナ連続語を候補にする
+ * 3. 英字ブランド（THE, VT, P&G 等）が含まれる場合は英字接頭辞 + カタカナ連続語も追加する
+ */
+function suggestBrandAliases(product: ProductForMatching, candidateName: string): string[] {
+  const productRuns = new Set(extractKatakanaRuns(product.name));
+  const candidateRuns = extractKatakanaRuns(candidateName).filter((token) =>
+    productRuns.has(token)
+  );
+  const prefixedRuns: string[] = [];
+  if (product.brand && /\b[A-Za-z][A-Za-z&.]*\b/.test(product.brand)) {
+    const prefix = candidateName.match(/\b[A-Za-z][A-Za-z&.]*\b/)?.[0];
+    if (prefix) {
+      for (const token of candidateRuns) {
+        prefixedRuns.push(`${prefix}${token}`);
+      }
+    }
+  }
+  return [...new Set([...prefixedRuns, ...candidateRuns])];
 }
 
 /** 送り仮名ゆれの既知マッピング。直接 includes が失敗したトークンのフォールバック候補を返す */
@@ -145,15 +206,46 @@ export function evaluateYahooCandidate(
   // buildSearchKeyword は括弧を除去するため "王子ネピア" のみになる。
   // Yahoo 候補名に略称 "ネピア" しか出ない場合でも一致できるよう、
   // 括弧内エイリアスも候補トークンとして追加する。
-  const primaryBrand = product.brand ? buildSearchKeyword(product.brand).toLowerCase() : "";
+  // 括弧内エイリアスは人間が確認した照合語のため、buildSearchKeyword を通さず
+  // trim + toLowerCase のみにして現行挙動を維持する。
+  const primaryBrand = product.brand ? normalizeBrandToken(product.brand) : "";
   const brandAliases: string[] = product.brand
     ? [...product.brand.matchAll(/[（(]([^）)]+)[）)]/g)]
-        .map(m => m[1].trim().toLowerCase())
-        .filter(a => a.length >= 2 && a !== primaryBrand)
+        .map((m) => m[1].trim().toLowerCase())
+        .filter((a) => a.length >= 2 && a !== primaryBrand)
     : [];
-  const brandTokens = primaryBrand ? [primaryBrand, ...brandAliases] : brandAliases;
-  const brandMatch = brandTokens.length === 0 || brandTokens.some(t => normCandidate.includes(t));
+  // Step 4: brandVariants（省略可能フィールド）も照合トークンに追加する
+  const explicitBrandVariants = (product.brandVariants ?? [])
+    .map((v) => normalizeBrandToken(v))
+    .filter((v) => v.length >= 2);
+  const brandTokens = primaryBrand
+    ? [primaryBrand, ...brandAliases, ...explicitBrandVariants]
+    : [...brandAliases, ...explicitBrandVariants];
+  // Step 1: 案B サブトークン照合 — "花王 ビオレ" / "花王ビオレ" などスペース表記ゆれを吸収する
+  // サブトークンが1つの場合は directBrandMatch と等価なので subTokenBrandMatch は適用しない。
+  const brandSubTokens = product.brand ? splitBrandSubTokens(product.brand) : [];
+  const directBrandMatch = brandTokens.some((t) => normCandidate.includes(t));
+  const subTokenBrandMatch =
+    brandSubTokens.length > 1 && brandSubTokens.every((t) => normCandidate.includes(t));
+  const brandMatch = brandTokens.length === 0 || directBrandMatch || subTokenBrandMatch;
   const strictMatch = allTokensMatch && brandMatch;
 
-  return { ok: true, reason: "capacity一致", candidateCapacity, strictMatch, urlMultiplier };
+  // Step 2: strictMatch 失敗時にエイリアス候補を計算する（frontmatter 自動反映なし）
+  let brandFailureReason: string | undefined;
+  let suggestedBrandAliases: string[] | undefined;
+  if (allTokensMatch && !brandMatch) {
+    brandFailureReason = "brand token not found in Yahoo candidate";
+    suggestedBrandAliases = suggestBrandAliases(product, candidate.name);
+  }
+
+  return {
+    ok: true,
+    reason: "capacity一致",
+    candidateCapacity,
+    strictMatch,
+    urlMultiplier,
+    brandMatch,
+    brandFailureReason,
+    suggestedBrandAliases,
+  };
 }

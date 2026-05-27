@@ -188,6 +188,20 @@ async function processArticle(file) {
           lines.push(`- capacity: ${currentCap} -> ${toComparableCapacity(currentCap)?.total ?? "-"}${toComparableCapacity(currentCap)?.unit ?? ""}`);
           lines.push(`- candidate capacity: ${candidateCap} -> ${toComparableCapacity(candidateCap)?.total ?? "-"}${toComparableCapacity(candidateCap)?.unit ?? ""}`);
           lines.push(`- url multiplier: ×${selectedEvaluation?.urlMultiplier ?? 1}`);
+          // Step 2: strictMatch 失敗理由・エイリアス候補をレポートに出力する
+          if (selectedEvaluation && !selectedEvaluation.strictMatch) {
+            lines.push(`- strict match: false`);
+            lines.push(`- brand match: ${selectedEvaluation.brandMatch ?? "n/a"}`);
+            if (selectedEvaluation.brandFailureReason) {
+              lines.push(`- brand failure: ${selectedEvaluation.brandFailureReason}`);
+            }
+            if (selectedEvaluation.suggestedBrandAliases?.length) {
+              lines.push(`- suggested brand aliases:`);
+              for (const alias of selectedEvaluation.suggestedBrandAliases) {
+                lines.push(`  - ${alias}`);
+              }
+            }
+          }
           break;
         } else {
           rejectedCandidates.push({ name: c.name, url: c.url, reason: evaluation.reason, candidateCapacity: evaluation.candidateCapacity ?? null });

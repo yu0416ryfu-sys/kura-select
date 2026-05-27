@@ -324,6 +324,86 @@ products:
       expect(result.strictMatch).toBe(false);
     });
 
+    it("サブトークン照合: brand「花王 ビオレ」/ candidate「花王ビオレ ボディソープ」で strictMatch: true", () => {
+      // "花王 ビオレ"（スペースあり）は buildSearchKeyword で "花王 ビオレ" のまま保持されるため、
+      // candidate "花王ビオレ"（スペースなし）に対して directBrandMatch が失敗する。
+      // brandSubTokens ["花王", "ビオレ"] の両方が candidate に含まれるため subTokenBrandMatch で一致する。
+      const result = evaluateYahooCandidate(
+        { name: "ビオレ ボディソープ", capacity: "800mL", brand: "花王 ビオレ" },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "花王ビオレ ボディソープ 800mL",
+          price: 1200,
+          url: "https://example.com/biore",
+          imageUrl: null,
+          available: true,
+          sellerName: null,
+        }
+      );
+      expect(result.ok).toBe(true);
+      // "花王 ビオレ" のサブトークン ["花王", "ビオレ"] が両方 candidate 名に含まれる → strictMatch: true
+      expect(result.strictMatch).toBe(true);
+    });
+
+    it("サブトークン照合: brand「大王製紙」（1トークン）/ candidate「グーン」は strictMatch: false のまま", () => {
+      const result = evaluateYahooCandidate(
+        { name: "グーン 肌にやさしい おしりふき", capacity: "70枚×12個", brand: "大王製紙" },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "グーン 肌にやさしい おしりふき 70枚×12P",
+          price: 1800,
+          url: "https://example.com/goon",
+          imageUrl: null,
+          available: true,
+          sellerName: null,
+        }
+      );
+      expect(result.ok).toBe(true);
+      // "大王製紙" はサブトークンが1つだけのため subTokenBrandMatch は不適用 → strictMatch: false
+      expect(result.strictMatch).toBe(false);
+    });
+
+    it("括弧エイリアス: brand「株式会社P（S社）」/ candidate「S社 商品名」で strictMatch: true", () => {
+      const result = evaluateYahooCandidate(
+        { name: "S社 マルチクリーナー スプレー", capacity: "500mL", brand: "株式会社P（S社）" },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "S社 マルチクリーナー スプレー 500mL",
+          price: 800,
+          url: "https://example.com/scorp",
+          imageUrl: null,
+          available: true,
+          sellerName: null,
+        }
+      );
+      expect(result.ok).toBe(true);
+      // 括弧エイリアス "S社" が candidate に含まれる → strictMatch: true
+      expect(result.strictMatch).toBe(true);
+    });
+
+    it("括弧エイリアス: 英字・数字 alias「A1」が縮小されずに照合できる", () => {
+      const result = evaluateYahooCandidate(
+        { name: "A1 プレミアムウォッシュ 500mL", capacity: "500mL", brand: "ブランド（A1）" },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "A1 プレミアムウォッシュ 500mL",
+          price: 1000,
+          url: "https://example.com/a1",
+          imageUrl: null,
+          available: true,
+          sellerName: null,
+        }
+      );
+      expect(result.ok).toBe(true);
+      // 括弧エイリアス "A1" が candidate に含まれる → strictMatch: true
+      // normalizeBrandToken を通すと単一英字が除去されるが、括弧 alias は trim+toLowerCase のみなので "a1" が残る
+      expect(result.strictMatch).toBe(true);
+    });
+
     it("capacity 不一致 → ok: false", () => {
       const result = evaluateYahooCandidate(baseProduct, {
         provider: "yahoo",

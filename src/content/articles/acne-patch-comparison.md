@@ -8,7 +8,7 @@ draft: false
 products:
   - rank: 1
     name: "THE スポットエイド 56枚"
-    brand: "THE SPOTAID"
+    brand: "THE SPOTAID（THEスポットエイド）"
     price: 770
     capacity: "56枚"
     pricePerUnit: "約14円/枚"
