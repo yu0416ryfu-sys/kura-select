@@ -117,6 +117,116 @@ products:
     recommendedFor: "カビや臭い対策を重視する方、エアコン洗浄後のメンテナンスに使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s1l0n.3rdw6a90.g00s1l0n.3rdw70d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfilter%2Fsf100003-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarfilter%2Fi%2F10000090%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/starfilter/cabinet/item/main/sf100003.jpg?_ex=128x128"
+  - rank: 5
+    name: "ペタッとキャッチ エアコンフィルター"
+    brand: "新北九州工業"
+    price: 0
+    capacity: "1枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "粘着シール付きで工具不要、フレームなしで貼るだけの家庭用フィルター"
+      - "サイズ 38×80cm、標準的な家庭用エアコンに対応"
+      - "ウイルス・花粉・アレルギー物質の対策機能付き、防臭加工あり"
+    pros:
+      - "貼るだけで装着できるため取り付け作業が手軽"
+      - "まとめ買い（5枚・10枚セット）で1枚あたりのコストを抑えやすい"
+      - "防臭・花粉対策機能付きで空気質の改善が期待できる"
+    cons:
+      - "粘着式のため時間経過で粘着力が低下し定期的な交換が必要"
+      - "フレームのないタイプのためエアコン形状によっては位置ずれが気になる場合がある"
+    recommendedFor: "花粉症や臭い対策を重視したい方・手軽に貼るだけで済ませたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/assistone/97008282/"
+    imageUrl: ""
+  - rank: 6
+    name: "抗菌 抗ウイルス エアコンクリーンフィルター"
+    brand: "空気の王様"
+    price: 0
+    capacity: "6枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "抗ウイルス・抗菌・抗カビ・消臭を備えた高機能タイプ"
+      - "サイズ 38×80cm（380×800mm）、家庭用エアコンの標準サイズに対応"
+      - "粘着式で貼るだけの簡単装着"
+    pros:
+      - "抗ウイルス・抗菌・消臭が一体で衛生面の補強になる"
+      - "6枚セットでまとめ買いができる"
+      - "ウイルス対策・花粉対策を兼ねたい方に向いた機能構成"
+    cons:
+      - "機能性重視のため同枚数の通常タイプより単価が高くなる場合がある"
+      - "粘着式のため形状によってはズレが気になる場合がある"
+    recommendedFor: "ウイルス対策・花粉対策を兼ねたい方・高機能なフィルターにこだわりたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/kk-bless/a04-99-af6/"
+    imageUrl: ""
+  - rank: 7
+    name: "ホコリとりフィルター 業務用エアコン用 5個セット"
+    brand: "東洋アルミエコープロダクツ"
+    price: 0
+    capacity: "5個セット（計10枚）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "業務用カセット型エアコン向けの粘着式ホコリとりフィルター"
+      - "サイズ 175×250mm（業務用エアコンのフィルター枠に対応）"
+      - "不織布素材で花粉・ホコリを効率的に捕集"
+    pros:
+      - "5個セットでまとめ買いができ、定期交換の補充が楽"
+      - "粘着式で道具不要、貼るだけで簡単に交換できる"
+      - "業務用エアコンの定期メンテナンスに向いた専用設計"
+    cons:
+      - "家庭用壁掛けエアコンには適さず、業務用カセット型専用"
+      - "175×250mmの専用サイズのため汎用性は限られる"
+    recommendedFor: "オフィス・店舗の業務用カセットエアコンを自分でメンテナンスしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/first23/hrm-h2510111623205/"
+    imageUrl: ""
+  - rank: 8
+    name: "ホコリとりフィルター 業務用エアコン用 2個セット"
+    brand: "東洋アルミエコープロダクツ"
+    price: 0
+    capacity: "2個セット（計4枚）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "業務用カセット型エアコン向けの粘着式ホコリとりフィルター"
+      - "サイズ 175×250mm（業務用エアコンのフィルター枠に対応）"
+      - "不織布素材で花粉・ホコリを効率的に捕集"
+    pros:
+      - "2個セットで少量から試しやすい購入単位"
+      - "粘着式で道具不要、貼るだけで簡単に交換できる"
+      - "少量購入でフィルターサイズの適合を確認してから追加購入しやすい"
+    cons:
+      - "家庭用壁掛けエアコンには適さず、業務用カセット型専用"
+      - "まとめ買いより1枚あたりの単価が高くなる"
+    recommendedFor: "業務用エアコンのフィルターを少量から試したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/first23/hrm-h2510111623202/"
+    imageUrl: ""
+  - rank: 9
+    name: "パッと貼るだけホコリとりフィルター エアコン用 10個セット"
+    brand: "東洋アルミ"
+    price: 0
+    capacity: "10枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "粘着式で工具不要、38×80cmの家庭用標準サイズ"
+      - "防カビ・抗菌・消臭・花粉対策の高機能仕様"
+      - "10枚の大容量セットで長期間の交換ストックが確保できる"
+    pros:
+      - "10枚セットでまとめ買いによりストック切れを防げる"
+      - "防カビ・花粉対策を兼ねた機能性フィルター"
+      - "東洋アルミの品質で信頼性が高い"
+    cons:
+      - "大容量のため保管スペースが必要"
+      - "機能がシンプルな分、特化した付加機能は少ない"
+    recommendedFor: "長期ストックでコスパを重視したい方・まとめ買いで補充の手間を減らしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/first34/kaj-250805g0030510/"
+    imageUrl: ""
 tags:
   - "エアコンフィルター おすすめ"
   - "エアコンフィルター コスパ"

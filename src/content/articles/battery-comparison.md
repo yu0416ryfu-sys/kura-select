@@ -1,6 +1,6 @@
 ---
-title: "乾電池 コスパ比較【2026年版】単3・単4おすすめ4選"
-description: "Panasonic・富士通など主要ブランドの乾電池を1本あたり価格で徹底比較。単3・単4の選び方、長期保存品の特徴、まとめ買いのコスパを解説。防災備蓄にも役立つおすすめ4選。"
+title: "乾電池 コスパ比較【2026年版】単3・単4おすすめ5選"
+description: "Panasonic・富士通など主要ブランドの乾電池を1本あたり価格で徹底比較。単3・単4の選び方、長期保存品の特徴、まとめ買いのコスパを解説。防災備蓄にも役立つおすすめ5選。"
 category: "battery"
 publishedAt: "2026-05-27"
 updatedAt: 2026-05-27
@@ -94,6 +94,28 @@ products:
     recommendedFor: "デジカメ・電動おもちゃなど消費電力が大きい機器に使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qyxan.3rdw6bbe.g00qyxan.3rdw744a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-goodmedia%2F20180822-000006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-goodmedia%2Fi%2F10026824%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-goodmedia/cabinet/img07/20180822-000006_1.jpg?_ex=128x128"
+  - rank: 5
+    name: "パナソニック アルカリ乾電池 10年保存 20本セット"
+    brand: "Panasonic"
+    price: 0
+    capacity: "20本"
+    pricePerUnit: "0円/本"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "10年長期保存対応のパナソニック製アルカリ電池"
+      - "1パック4本×5パック構成で使いやすい量を分割して管理できる"
+      - "単3・単4の組み合わせで多用途に対応できる構成"
+    pros:
+      - "10年保存対応で防災備蓄専用としてそのままストックできる"
+      - "パナソニックの国内ブランドで品質と信頼性が高い"
+      - "単3・単4をまとめて補充でき家庭の電池管理が一度に済む"
+    cons:
+      - "単3・単4の比率が固定のため用途によっては余る電池が出る可能性"
+      - "20本セットのため少量のみ補充したい場合は過剰購入になりやすい"
+    recommendedFor: "防災備蓄として長期保存品を備えておきたい方・単3・単4をまとめてストックしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/bp-shop/10017803-ko3/"
+    imageUrl: ""
 tags:
   - "乾電池 おすすめ"
   - "乾電池 コスパ"
