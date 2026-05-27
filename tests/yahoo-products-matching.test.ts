@@ -404,6 +404,77 @@ products:
       expect(result.strictMatch).toBe(true);
     });
 
+    it("Step 3 固有語フォールバック: brand 不一致でも固有語（6文字以上・非汎用語）で strictMatch: true", () => {
+      // brand "UNKNOWNBRAND" は候補名にない。
+      // "スポットエイド"（8文字、GENERIC_PRODUCT_TOKENS 非該当）が候補に含まれる
+      // → distinctiveProductTokenMatch = true → strictMatch: true
+      const result = evaluateYahooCandidate(
+        { name: "スポットエイド ニキビパッチ", capacity: "56枚", brand: "UNKNOWNBRAND" },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "スポットエイド ニキビパッチ 56枚",
+          price: 800,
+          url: "https://example.com/spotaid",
+          imageUrl: null,
+          available: true,
+          sellerName: null,
+        }
+      );
+      expect(result.ok).toBe(true);
+      expect(result.strictMatch).toBe(true);
+      // distinctiveProductToken で解消されているため brandFailureReason は出ない
+      expect(result.brandFailureReason).toBeUndefined();
+    });
+
+    it("Step 3 汎用語ガード: 肌にやさしい（GENERIC_PRODUCT_TOKENS）は固有語フォールバックに使わない", () => {
+      // brand "大王製紙" は候補名にない。
+      // "肌にやさしい"（6文字）は GENERIC_PRODUCT_TOKENS に含まれるため除外
+      // → distinctiveProductTokenMatch = false → strictMatch: false のまま
+      const result = evaluateYahooCandidate(
+        { name: "グーン 肌にやさしい おしりふき", capacity: "70枚×12個", brand: "大王製紙" },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "グーン 肌にやさしい おしりふき 70枚×12P",
+          price: 1800,
+          url: "https://example.com/goon3",
+          imageUrl: null,
+          available: true,
+          sellerName: null,
+        }
+      );
+      expect(result.ok).toBe(true);
+      expect(result.strictMatch).toBe(false);
+      // brand 失敗かつ distinctiveToken もなし → brandFailureReason が出る
+      expect(result.brandFailureReason).toBeDefined();
+    });
+
+    it("Step 3 汎用語ガード: ペーパータオル（GENERIC_PRODUCT_TOKENS）は固有語フォールバックに使わない", () => {
+      // brand "業務用（各社OEM）" は候補名にない。
+      // "ペーパータオル"（7文字）は GENERIC_PRODUCT_TOKENS に含まれるため除外
+      // → distinctiveProductTokenMatch = false → strictMatch: false のまま
+      const result = evaluateYahooCandidate(
+        {
+          name: "ペーパータオル エコタイプ 中判 200枚×30袋",
+          capacity: "200枚×30袋（6000枚）",
+          brand: "業務用（各社OEM）",
+        },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "ペーパータオル エコタイプ 中判 200枚入 × 30袋 ベクストミル 紙タオル 手拭き",
+          price: 3970,
+          url: "https://example.com/oem2",
+          imageUrl: null,
+          available: true,
+          sellerName: null,
+        }
+      );
+      expect(result.ok).toBe(true);
+      expect(result.strictMatch).toBe(false);
+    });
+
     it("capacity 不一致 → ok: false", () => {
       const result = evaluateYahooCandidate(baseProduct, {
         provider: "yahoo",

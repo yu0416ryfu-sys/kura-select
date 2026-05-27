@@ -135,6 +135,56 @@ function suggestBrandAliases(product: ProductForMatching, candidateName: string)
   return [...new Set([...prefixedRuns, ...candidateRuns])];
 }
 
+// ─── Step 3: 固有語フォールバック ───────────────────────────────────────────
+
+/**
+ * 汎用商品語セット。hasDistinctiveProductToken の除外対象。
+ * カテゴリ名・機能訴求語・製品タイプ・汎用成分語を含む。
+ * 6文字未満のトークンは length チェックで自動除外されるが、可読性のために含める。
+ * 追加ルール: Step 2 レポートで誤昇格リスクが確認された語のみ追加する。
+ * ブランド名・シリーズ名として使われる語は単独で追加しない。
+ */
+const GENERIC_PRODUCT_TOKENS = new Set([
+  // ─── カテゴリ名（6文字以上のみ実際に適用される）───
+  "ペーパータオル",     // 7文字
+  "キッチンタオル",     // 7文字
+  "トイレットペーパー", // 9文字
+  "ウェットティッシュ", // 9文字
+  "おしりふき",         // 5文字（length < 6 で自動除外）
+  "ボディソープ",       // 6文字
+  "ボディーソープ",     // 7文字
+  "シャンプー",         // 5文字（自動除外）
+  "トリートメント",     // 7文字
+  // ─── 機能訴求語 ───────────────────────────────────
+  "肌にやさしい",       // 6文字
+  "やわらか素材",       // 6文字
+  "やわらかタイプ",     // 7文字
+  // ─── 製品タイプ・販売形態 ────────────────────────
+  "スポットパッチ",     // 7文字
+  "詰め替え",           // 4文字（自動除外）
+  "つめかえ",           // 4文字（自動除外）
+  "まとめ買い",         // 5文字（自動除外）
+  "大容量",             // 3文字（自動除外）
+  "薬用",               // 2文字（自動除外）
+  "セット",             // 3文字（自動除外）
+  "パッチ",             // 3文字（自動除外）
+  // ─── 成分・機能（汎用） ──────────────────────────
+  "cica",               // 4文字（自動除外）
+]);
+
+/**
+ * brand 照合に失敗した場合の最終フォールバック。
+ * 商品名トークンのうち「6文字以上かつ汎用語でない固有語」が候補名に含まれるかを判定する。
+ * allTokensMatch && !brandMatch のときのみ呼び出す。
+ */
+function hasDistinctiveProductToken(tokens: string[], normCandidate: string): boolean {
+  return tokens.some((token) => {
+    if (token.length < 6) return false;
+    if (GENERIC_PRODUCT_TOKENS.has(token)) return false;
+    return normCandidate.includes(token);
+  });
+}
+
 /** 送り仮名ゆれの既知マッピング。直接 includes が失敗したトークンのフォールバック候補を返す */
 const OKURIGANA_TOKEN_ALIASES: Readonly<Record<string, readonly string[]>> = {
   "詰め替え": ["詰替"],
@@ -228,12 +278,16 @@ export function evaluateYahooCandidate(
   const subTokenBrandMatch =
     brandSubTokens.length > 1 && brandSubTokens.every((t) => normCandidate.includes(t));
   const brandMatch = brandTokens.length === 0 || directBrandMatch || subTokenBrandMatch;
-  const strictMatch = allTokensMatch && brandMatch;
+  // Step 3: brand 照合に失敗した場合、固有語フォールバックで strictMatch を補完する。
+  // allTokensMatch が前提条件。brand が一致しなくても商品固有語が一致すれば matched 昇格を許可する。
+  const distinctiveProductTokenMatch =
+    !brandMatch && hasDistinctiveProductToken(tokens, normCandidate);
+  const strictMatch = allTokensMatch && (brandMatch || distinctiveProductTokenMatch);
 
-  // Step 2: strictMatch 失敗時にエイリアス候補を計算する（frontmatter 自動反映なし）
+  // Step 2: strictMatch が brand 失敗かつ固有語フォールバックでも補完できない場合のみ報告する
   let brandFailureReason: string | undefined;
   let suggestedBrandAliases: string[] | undefined;
-  if (allTokensMatch && !brandMatch) {
+  if (allTokensMatch && !brandMatch && !distinctiveProductTokenMatch) {
     brandFailureReason = "brand token not found in Yahoo candidate";
     suggestedBrandAliases = suggestBrandAliases(product, candidate.name);
   }
