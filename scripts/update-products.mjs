@@ -1809,6 +1809,7 @@ function getAdditionSearchRule(category, baseKeyword) {
     units: rule.units ?? null,
     minScore: rule.minScore ?? 4,
     requireInclude: rule.requireInclude ?? true,
+    requiredGroups: rule.requiredGroups ?? [],
   };
 }
 

@@ -40,6 +40,23 @@ MCP不可の場合は対象ファイルを Read して両方を確認する。
 | `title` の文字列 | 「N選」「おすすめN選」等の件数表記があれば更新対象 |
 | `description` の文字列 | 件数に言及していれば更新対象 |
 | `updatedAt` | 今日の日付に更新する |
+| `CATEGORY_SEARCH_RULES` の存在確認 | `check-additions` 精度の保証 |
+
+### CATEGORY_SEARCH_RULES 確認
+
+記事の `category` slug が `scripts/update-products.mjs` の `CATEGORY_SEARCH_RULES` に存在するか確認する。
+
+```bash
+rg "'{category-slug}'" scripts/update-products.mjs
+```
+
+エントリが**存在しない**場合は、商品追加作業は続行しつつ、完了報告に以下の警告を含める:
+
+```
+⚠️ {category} のルールが CATEGORY_SEARCH_RULES に未定義です。
+   このままでは pnpm check-additions の精度が低下し、カテゴリ外商品が候補に混入する可能性があります。
+   kura-article-create または kura-check-additions-debug でルールを追加してください。
+```
 
 ---
 

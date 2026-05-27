@@ -188,7 +188,35 @@ tags:
 ※ 価格は記事執筆時点の楽天市場での販売価格です。価格は変動する場合があります。
 ```
 
-## Step 6: 生成後チェック
+## Step 6: CATEGORY_SEARCH_RULES へのルール追加
+
+`scripts/update-products.mjs` の `CATEGORY_SEARCH_RULES` に対象カテゴリのエントリが存在するか確認する。
+
+```bash
+rg "'{slug}'" scripts/update-products.mjs
+```
+
+**エントリが存在する場合**: スキップして Step 7 へ進む。
+
+**エントリが存在しない場合**: ルールを追加する。ルールがないと `pnpm check-additions` の除外語が汎用のみになり、「○○式」「○○使用」と書かれた周辺機器が候補に混入する。
+
+| フィールド | 決め方 |
+|---|---|
+| `keywords` | 記事タイトル・商品名から検索クエリを3本抽出（「○○ まとめ買い」「○○ 大容量」等） |
+| `include` | 商品本体を特定するカテゴリ語（商品名に必ず現れる語） |
+| `exclude` | 周辺機器・アクセサリ・「○○式」「○○使用」など本体でないことを示す語。用途語（「○○用」）も有効 |
+| `units` | `capacity` の単位（枚・本・ml・g等）。`category-rules.jsonl` の `units` を参考にする |
+| `requiredGroups` | カテゴリの中心語がないと通過させたくない場合のみ追加（例: 電池タイプ語が必須） |
+
+追加後、構文確認:
+
+```bash
+node --check scripts/update-products.mjs
+```
+
+追加できたら `pnpm check-additions -- --file={slug}-comparison.md --target=10` で候補がカテゴリ意図に合うか確認する。カテゴリ外が残る場合は `kura-check-additions-debug` で精度改善する。
+
+## Step 7: 生成後チェック
 
 可能な範囲で確認する。
 
@@ -204,7 +232,6 @@ pnpm build
 
 - `rg "item.rakuten.co.jp"` が残る場合は `name` を修正して `pnpm update-products` を再実行
 - 初期作成は `draft: true`。`pnpm update-products` / `pnpm build` 後に問題なければ `draft: false` へ変更
-- 新規カテゴリでは `CATEGORY_SEARCH_RULES` への同slugルール追加を検討
 - 既存カテゴリ内の派生記事では `getArticleSpecificAdditionRule()` を必ず検討。別サイズ・別形状・別タイプが混ざる場合のみ、`keywords` / `requiredGroups` / `exclude` / `units` を最小限で追加
 - `getArticleSpecificAdditionRule()` を追加した場合は `pnpm check-additions -- --file={slug}-comparison.md --target=10` で候補が記事意図に合うか確認
 - `pnpm update-products` 後は `reports/` と `reports/toAI/` に要確認ファイルが出ていないか確認
