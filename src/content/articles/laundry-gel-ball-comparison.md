@@ -3,36 +3,14 @@ title: "ジェルボール洗剤 コスパ最強ランキング【2026年版】1
 description: "ジェルボール洗剤を1個あたりのコストで徹底比較。アリエール・アタックZERO・ボールドなど人気商品を洗浄力・香り・コスパで解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
-updatedAt: "2026-05-26"
+updatedAt: "2026-05-27"
 products:
   - rank: 1
-    name: "トップ クリアリキッド 詰め替え"
-    brand: "ライオン（トップ）"
-    price: 5130
-    capacity: "4kg×3本"
-    pricePerUnit: "約428円/kg"
-    rating: 4.8
-    reviewCount: 215
-    features:
-      - "界面活性剤21%配合の高浸透型液体洗濯洗剤"
-      - "詰め替え用パッケージでプラスチック削減に貢献"
-      - "ライオンの定番ブランドによる安定した洗浄品質"
-    pros:
-      - "初回・お試し限定価格で気軽に試せるコスパの良さ"
-      - "ライオンブランドの安定した品質と洗浄力が期待できる"
-      - "詰め替え用で本体容器を再利用するエコな選択肢"
-    cons:
-      - "初回限定・お一人様1回限りの価格制限がある"
-      - "500gと少量のため頻繁に洗濯する家庭では消費が早い"
-    recommendedFor: "新しい洗剤をお試し価格で試したい方・ライオン製品を初めて使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r74en.3rdw6e21.g00r74en.3rdw7279/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-nontarou%2Fr5-15080k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-nontarou%2Fi%2F10001040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-nontarou/cabinet/r5-15080.jpg?_ex=128x128"
-  - rank: 2
     name: "ファーファ ベビーフローラル"
     brand: "ファーファ"
-    price: 3978
+    price: 1989
     capacity: "1100g×8個セット"
-    pricePerUnit: "約0.45円/g"
+    pricePerUnit: "約0.23円/g"
     rating: 4.75
     reviewCount: 182
     features:
@@ -54,10 +32,32 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 3978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
         available: true
+  - rank: 2
+    name: "トップ クリアリキッド 詰め替え"
+    brand: "ライオン（トップ）"
+    price: 5130
+    capacity: "4kg×3本"
+    pricePerUnit: "約428円/kg"
+    rating: 4.8
+    reviewCount: 215
+    features:
+      - "界面活性剤21%配合の高浸透型液体洗濯洗剤"
+      - "詰め替え用パッケージでプラスチック削減に貢献"
+      - "ライオンの定番ブランドによる安定した洗浄品質"
+    pros:
+      - "初回・お試し限定価格で気軽に試せるコスパの良さ"
+      - "ライオンブランドの安定した品質と洗浄力が期待できる"
+      - "詰め替え用で本体容器を再利用するエコな選択肢"
+    cons:
+      - "初回限定・お一人様1回限りの価格制限がある"
+      - "500gと少量のため頻繁に洗濯する家庭では消費が早い"
+    recommendedFor: "新しい洗剤をお試し価格で試したい方・ライオン製品を初めて使う方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r74en.3rdw6e21.g00r74en.3rdw7279/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-nontarou%2Fr5-15080k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-nontarou%2Fi%2F10001040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-nontarou/cabinet/r5-15080.jpg?_ex=128x128"
   - rank: 3
     name: "さらさ 洗濯洗剤 詰め替え 6個セット"
     brand: "P&G（さらさ）"
@@ -85,7 +85,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhikaritv%2F2010126844.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 8280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010126844"
         available: true
@@ -138,7 +138,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -234,8 +234,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F622008a.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-26"
+        matchStatus: "matched"
+        updatedAt: "2026-05-27"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_622008a"
         available: true

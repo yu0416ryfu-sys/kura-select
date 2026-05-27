@@ -3,7 +3,7 @@ title: "デンタルフロス コスパ最強ランキング【2026年版】1本
 description: "デンタルフロス・歯間ブラシを1本あたりのコストで徹底比較。GUM・クリニカ・糸ようじ・フロアフロスなど人気10選を使いやすさ・清潔効果・コスパで解説します。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
-updatedAt: 2026-05-27
+updatedAt: "2026-05-27"
 products:
   - rank: 1
     name: "Dr.デンリスト こども糸ピックス 30本入×4個"
@@ -12,7 +12,7 @@ products:
     capacity: "30本×4個"
     pricePerUnit: "約9.2円/本"
     rating: 4.8
-    reviewCount: 310
+    reviewCount: 311
     features:
       - "対象年齢2歳からの子ども向け設計"
       - "糸ピックス一体型で子どもでも使いやすいサイズ"
@@ -31,8 +31,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale-kanahashi%2F4901387051189-z-s-4-1.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-26"
+        matchStatus: "matched"
+        updatedAt: "2026-05-27"
         price: 1099
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale-kanahashi_4901387051189-z-s-4-1"
         available: true
@@ -63,7 +63,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-pal%2F4987072025895-1.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 798
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-pal_4987072025895-1"
         available: true
@@ -94,7 +94,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk13773-a2603.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-27"
         price: 494
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk13773-a2603"
         available: true
@@ -156,7 +156,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F13122.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 4750
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_13122"
         available: true
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F13121.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 2000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_13121"
         available: true
@@ -240,7 +240,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 2998
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true
@@ -271,7 +271,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 2998
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true

@@ -3,7 +3,7 @@ title: "ボディソープ コスパ最強ランキング【2026年版】保湿�
 description: "ボディソープを1mLあたりのコストで徹底比較。ビオレu・ダヴ・ハダカラ・ミノンなど人気9選を保湿力・洗浄力・コスパで解説します。"
 category: "body-soap"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-27
+updatedAt: "2026-05-27"
 products:
   - rank: 1
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
@@ -106,8 +106,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fb0110001.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-26"
+        matchStatus: "matched"
+        updatedAt: "2026-05-27"
         price: 880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_b0110001"
         available: true
@@ -138,7 +138,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhealingvillage%2Fmndmrw-kbwt0.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 1227
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/healingvillage_mndmrw-kbwt0"
         available: true
@@ -168,8 +168,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmitsubachi-road%2F20012-4.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-26"
+        matchStatus: "matched"
+        updatedAt: "2026-05-27"
         price: 10000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mitsubachi-road_20012-4"
         available: true
@@ -220,9 +220,9 @@ products:
   - rank: 9
     name: "KnS 柿のさち 薬用柿渋ボディソープ 450mL"
     brand: "KnS"
-    price: 2300
+    price: 2530
     capacity: "450mL"
-    pricePerUnit: "約5.1円/mL"
+    pricePerUnit: "約5.6円/mL"
     rating: 4.42
     reviewCount: 1204
     features:
@@ -244,7 +244,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoapmax%2F20005231.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 2420
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soapmax_20005231"
         available: true

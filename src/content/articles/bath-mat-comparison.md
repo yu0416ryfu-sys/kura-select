@@ -13,7 +13,7 @@ products:
     capacity: "40×60cm / 50×80cm"
     pricePerUnit: "円/枚"
     rating: 4.65
-    reviewCount: 3192
+    reviewCount: 3193
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"
@@ -37,7 +37,7 @@ products:
     capacity: "40×60cm / 50×80cm"
     pricePerUnit: "円/枚"
     rating: 4.37
-    reviewCount: 981
+    reviewCount: 983
     features:
       - "マイクロファイバーとポリエステル混合"
       - "抗菌・防臭加工で清潔さを保つ"
@@ -61,7 +61,7 @@ products:
     capacity: "45×65cm"
     pricePerUnit: "円/枚"
     rating: 4.39
-    reviewCount: 1323
+    reviewCount: 1324
     features:
       - "綿100%で肌に優しい"
       - "パイル生地で吸水性に優れた設計"
@@ -85,7 +85,7 @@ products:
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
     rating: 4.43
-    reviewCount: 2499
+    reviewCount: 2500
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

@@ -3,7 +3,7 @@ title: "トイレットペーパー シングル コスパランキング【2026
 description: "シングルのトイレットペーパーを1mあたりの価格で比較。長尺・芯なし・まとめ買い向けの商品を厳選して紹介します。"
 category: "toilet-paper"
 publishedAt: "2024-11-01"
-updatedAt: 2026-05-27
+updatedAt: "2026-05-27"
 products:
   - rank: 1
     name: "森を守ろう トイレットペーパー シングル"
@@ -11,8 +11,8 @@ products:
     price: 3550
     capacity: "100m×60ロール"
     pricePerUnit: "約0.59円/m"
-    rating: 4.65
-    reviewCount: 739
+    rating: 4.66
+    reviewCount: 740
     features:
       - "無漂白の再生紙を使用したシングルタイプ"
       - "個包装でロールごとに保管しやすい"
@@ -38,28 +38,6 @@ products:
         matchNotes: "容量違い疑い: 楽天は100m×60ロール、Yahoo候補URLはmori100ms30（30ロール品の可能性）"
         updatedAt: "2026-05-18"
   - rank: 2
-    name: "コアユース シングル 芯なし"
-    brand: "コアユース"
-    price: 4980
-    capacity: "170m×48ロール"
-    pricePerUnit: "約0.61円/m"
-    rating: 4.52
-    reviewCount: 1958
-    features:
-      - "芯なしのロングタイプで交換の手間を減らしやすい"
-      - "再生紙を使用した家庭用にも業務用にも使える仕様"
-      - "防災備蓄やまとめ買いに向いた箱買いタイプ"
-    pros:
-      - "芯ゴミが出にくく日常の片付けが簡単"
-      - "買い置きの回数を減らしたい家庭に向いている"
-      - "シンプルな無香料タイプを選びたい場合に扱いやすい"
-    cons:
-      - "長巻きのためホルダーとの相性確認が必要"
-      - "保管場所を事前に確保しておく必要がある"
-    recommendedFor: "日常使いと備蓄を兼ねて芯なしロールをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7096355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10151090%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya112/imgrc0093775466.jpg?_ex=128x128"
-  - rank: 3
     name: "コアユース 無包装 シングル 芯なし"
     brand: "春日製紙"
     price: 5090
@@ -88,16 +66,16 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fikurun0810%2F101436.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         matchStatus: "matched"
-  - rank: 4
+  - rank: 3
     name: "イットコ スリム シングル 芯なし"
     brand: "イトマン"
     price: 4533
     capacity: "150m×48ロール"
     pricePerUnit: "約0.63円/m"
     rating: 4.66
-    reviewCount: 2691
+    reviewCount: 2692
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
@@ -122,6 +100,28 @@ products:
         updatedAt: "2026-05-18"
         matchStatus: "review"
         matchNotes: "capacity不一致: capacity不一致"
+  - rank: 4
+    name: "コアユース シングル 芯なし"
+    brand: "コアユース"
+    price: 5100
+    capacity: "170m×48ロール"
+    pricePerUnit: "約0.63円/m"
+    rating: 4.52
+    reviewCount: 1962
+    features:
+      - "芯なしのロングタイプで交換の手間を減らしやすい"
+      - "再生紙を使用した家庭用にも業務用にも使える仕様"
+      - "防災備蓄やまとめ買いに向いた箱買いタイプ"
+    pros:
+      - "芯ゴミが出にくく日常の片付けが簡単"
+      - "買い置きの回数を減らしたい家庭に向いている"
+      - "シンプルな無香料タイプを選びたい場合に扱いやすい"
+    cons:
+      - "長巻きのためホルダーとの相性確認が必要"
+      - "保管場所を事前に確保しておく必要がある"
+    recommendedFor: "日常使いと備蓄を兼ねて芯なしロールをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7096355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10151090%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya112/imgrc0093775466.jpg?_ex=128x128"
   - rank: 5
     name: "ワンタッチ 再生紙 トイレットペーパー シングル 芯なし"
     brand: "ワンタッチ"
@@ -217,7 +217,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcleanshoponline%2F72014.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cleanshoponline_72014"
         available: true
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
   - rank: 9
     name: "Comfy 芯なし トイレットペーパー シングル"
     brand: "イトマン"
@@ -225,7 +225,7 @@ products:
     capacity: "150m×36ロール"
     pricePerUnit: "約0.71円/m"
     rating: 4.62
-    reviewCount: 746
+    reviewCount: 747
     features:
       - "芯なしの長巻きシングルトイレットペーパー"
       - "個包装で分けて保管しやすい"
@@ -257,7 +257,7 @@ products:
     capacity: "250m×16ロール"
     pricePerUnit: "約0.75円/m"
     rating: 4.6
-    reviewCount: 411
+    reviewCount: 413
     features:
       - "パルプを使用した消臭機能付きのシングルタイプ"
       - "芯なしの長巻き仕様で省スペースに保管しやすい"

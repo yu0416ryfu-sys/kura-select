@@ -3,7 +3,7 @@ title: "キッチンペーパー コスパ最強ランキング【2026年版】1
 description: "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気5選を吸水力・強度・コスパで解説します。"
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-27
+updatedAt: "2026-05-27"
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -12,7 +12,7 @@ products:
     capacity: "200枚×30袋（6000枚）"
     pricePerUnit: "約0.65円/枚"
     rating: 4.61
-    reviewCount: 307
+    reviewCount: 308
     features:
       - "1枚あたり約0.66円の圧倒的コスパ"
       - "業務用の安定した品質"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F1228689.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 3970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_1228689"
         available: true
@@ -85,7 +85,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsukasa1%2F10000311.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 5173
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsukasa1_10000311"
         available: true
@@ -111,6 +111,15 @@ products:
     recommendedFor: "コスパ重視の方・交換頻度を減らしたい方・まとめ買い派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uo14n.3rdw68f0.g00uo14n.3rdw7116/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanamaru-shouten%2F20250517125450_105%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanamaru-shouten%2Fi%2F10035557%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanamaru-shouten/cabinet/r_2025051711/20250517125450_105_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Fr8o50.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-27"
+        price: 4100
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-kurashi_r8o50"
+        available: true
   - rank: 5
     name: "東京クイン イイナ キッチンペーパー M265 12ロール"
     brand: "イイナ"
@@ -133,6 +142,15 @@ products:
     recommendedFor: "調理や掃除に使いやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6gn.3rdw6dce.g00qr6gn.3rdw736d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakibaoo-r%2Fhm001304750%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakibaoo-r%2Fi%2F11389670%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/akibaoo-r/cabinet/lbl_noimage.gif?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4975156901005.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-27"
+        price: 4594
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4975156901005"
+        available: true
 tags:
   - "キッチンペーパー"
   - "コスパ"

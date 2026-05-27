@@ -3,14 +3,14 @@ title: "洗顔料 コスパ最強ランキング【2026年版】1gあたり最�
 description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴ・専科など人気10選を成分・洗い上がり・コスパで解説します。"
 category: "face-wash"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-27
+updatedAt: "2026-05-27"
 products:
   - rank: 1
     name: "無添加生活 泡洗顔 炭酸泡洗顔フォーム 3本セット"
     brand: "無添加生活"
-    price: 1078
+    price: 1320
     capacity: "150g×3本"
-    pricePerUnit: "約2.4円/g"
+    pricePerUnit: "約2.9円/g"
     rating: 4.66
     reviewCount: 683
     features:
@@ -76,7 +76,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4550516491404.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 609
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4550516491404"
         available: true
@@ -87,7 +87,7 @@ products:
     capacity: "110g"
     pricePerUnit: "約9.0円/g"
     rating: 4.61
-    reviewCount: 1635
+    reviewCount: 1637
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -107,7 +107,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyua-shop%2Fl01-045.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 2500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yua-shop_l01-045"
         available: true
@@ -138,7 +138,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902111736655.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 348
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902111736655"
         available: true
@@ -168,8 +168,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fadew%2F905b01n0bsytw.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-26"
+        matchStatus: "matched"
+        updatedAt: "2026-05-27"
         price: 2200
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/adew_905b01n0bsytw"
         available: true
@@ -200,7 +200,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Facuebshop%2Fawasoap.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 1580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/acuebshop_awasoap"
         available: true
@@ -231,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fluire%2Fpscp11.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 3140
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/luire_pscp11"
         available: true
@@ -262,7 +262,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flesthemo%2Fsoap150g.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 2680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lesthemo_soap150g"
         available: true

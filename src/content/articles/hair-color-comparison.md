@@ -3,7 +3,7 @@ title: "白髪染め コスパ比較【2026年版】市販おすすめ4選"
 description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あたり価格で徹底比較。泡・クリーム・トリートメントタイプの違いや選び方を解説。コスパよく白髪ケアしたい方向けのおすすめ4選。"
 category: "hair-color"
 publishedAt: "2026-05-27"
-updatedAt: 2026-05-27
+updatedAt: "2026-05-27"
 draft: false
 products:
   - rank: 1
@@ -28,6 +28,15 @@ products:
     recommendedFor: "染毛剤を使わず低刺激で少しずつ白髪をカバーしたい方・トリートメント感覚で続けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r9run.3rdw6098.g00r9run.3rdw7296/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpeacehair%2Fsai500gset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpeacehair%2Fi%2F10000038%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/peacehair/cabinet/kago/sai500.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpeacehair%2Fsai500gset.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-27"
+        price: 6600
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/peacehair_sai500gset"
+        available: true
   - rank: 2
     name: "ヘアボーテエクラ ボタニカルエアカラーフォームEX 2本セット"
     brand: "フューチャーラボ（ヘアボーテエクラ）"

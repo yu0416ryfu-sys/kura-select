@@ -3,7 +3,7 @@ title: "歯間ブラシ コスパ比較【2026年版】おすすめ4選"
 description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシをサイズ・1本あたり価格で徹底比較。L字型とI字型の違いや選び方も解説。まとめ買いでコスパを上げたい方に最適な4選。"
 category: "toothpaste"
 publishedAt: "2026-05-27"
-updatedAt: 2026-05-27
+updatedAt: "2026-05-27"
 draft: false
 products:
   - rank: 1
@@ -28,6 +28,15 @@ products:
     recommendedFor: "歯間が狭く既存の歯間ブラシが入りにくいと感じている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901616216099%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10180824%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/aa/4901616216099.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901616216099.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-27"
+        price: 245
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901616216099"
+        available: true
   - rank: 2
     name: "サンスター GUM 歯間ブラシ I字型 S 20本×10セット"
     brand: "サンスター（GUM）"
@@ -72,6 +81,15 @@ products:
     recommendedFor: "奥歯の歯間ケアを重視したい方・L字型を初めて試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4973227306025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10062141%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/15/4973227306025.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4973227306025.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-27"
+        price: 289
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4973227306025"
+        available: true
   - rank: 4
     name: "デンタルプロ 歯間ブラシ I字型 Mサイズ 15本入"
     brand: "デンタルプロ"
@@ -94,6 +112,15 @@ products:
     recommendedFor: "歯間ブラシを初めて使う方・前歯や小臼歯のケアを中心にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fd412800h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10014395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/634/4973227834634.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-27"
+        price: 247
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
+        available: true
 tags:
   - "歯間ブラシ おすすめ"
   - "歯間ブラシ コスパ"

@@ -3,7 +3,7 @@ title: "猫砂 おすすめ10選【素材別コスパ比較 2026年版】"
 description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペレットで素材別に比較。固まりやすさ・消臭力・1Lあたりの単価を基準におすすめ14商品を徹底比較。楽天まとめ買いコスパ最強まとめ。"
 category: "cat-litter"
 publishedAt: "2026-05-26"
-updatedAt: 2026-05-27
+updatedAt: "2026-05-27"
 draft: false
 products:
   - rank: 1
@@ -35,7 +35,7 @@ products:
     capacity: "7L×6袋（42L）"
     pricePerUnit: "約88円/L"
     rating: 4.21
-    reviewCount: 5562
+    reviewCount: 5563
     features:
       - "アイリスオーヤマ製のペレットタイプ紙製猫砂"
       - "燃えるゴミとして廃棄可能・トイレへの廃棄にも対応"
@@ -50,6 +50,15 @@ products:
     recommendedFor: "軽量で廃棄しやすい大手ブランドの紙製猫砂を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2Fa533439%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10013227%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/10335589/a533439-rank.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F1533439.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-27"
+        price: 3480
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_1533439"
+        available: true
   - rank: 3
     name: "炭の猫砂 まとめ買いセット"
     brand: "アイリスオーヤマ"
@@ -116,12 +125,21 @@ products:
     recommendedFor: "国産・植物系素材で手軽に処理できる猫砂を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10014011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10014011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/cat_litter01/200811_pb_02.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101386ku.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-27"
+        price: 4980
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101386ku"
+        available: true
   - rank: 6
     name: "クリーンサンド"
     brand: "アイリスオーヤマ"
-    price: 2580
+    price: 2222
     capacity: "5L×4袋（20L）"
-    pricePerUnit: "約129円/L"
+    pricePerUnit: "約111円/L"
     rating: 4.62
     reviewCount: 1917
     features:
@@ -138,6 +156,15 @@ products:
     recommendedFor: "抗菌機能付きで固まりやすい鉱物系を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F1917955%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10165665%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/10841085/1917955-00.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F309805.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-27"
+        price: 2372
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_309805"
+        available: true
   - rank: 7
     name: "パインウッド"
     brand: "スノーフレーク"
@@ -160,6 +187,15 @@ products:
     recommendedFor: "システムトイレ対応で天然木素材を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quwbn.3rdw6556.g00quwbn.3rdw73a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flic-amigo%2F4538449100013-set4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flic-amigo%2Fi%2F10021347%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lic-amigo/cabinet/ftptest/amigp1006/06045249/imgrc0068605745.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitempost%2F1-amigo1122-4492.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-27"
+        price: 3156
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itempost_1-amigo1122-4492"
+        available: true
   - rank: 8
     name: "ペットキレイ ニオイをとる砂"
     brand: "ライオン"
@@ -167,7 +203,7 @@ products:
     capacity: "5L×4袋（20L）"
     pricePerUnit: "約144円/L"
     rating: 4.68
-    reviewCount: 2321
+    reviewCount: 2322
     features:
       - "ベントナイト鉱物系・固まるタイプの消臭猫砂"
       - "大手メーカーライオンによる消臭設計"
@@ -182,6 +218,15 @@ products:
     recommendedFor: "大手ブランドの安定品質で固まりやすい鉱物系を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe390373h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10315882%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/134/10134.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903351011250x4.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-27"
+        price: 2701
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903351011250x4"
+        available: true
   - rank: 9
     name: "トフカスサンドK おから猫砂"
     brand: "クリーンビート"
@@ -226,6 +271,15 @@ products:
     recommendedFor: "海外ブランドの細粒鉱物系で固まり性能を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10014271%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10014271%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/img015/100142_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F100142.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-27"
+        price: 5499
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_100142"
+        available: true
 tags:
   - "猫砂 おすすめ"
   - "猫砂 コスパ"

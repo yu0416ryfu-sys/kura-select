@@ -3,9 +3,40 @@ title: "洗濯洗剤 コスパ最強ランキング【2026年版】1回あたり
 description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉末・ジェルボール別におすすめ9選を紹介。楽天で買えるコスパ最強の洗濯洗剤を探している方必見です。"
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
-updatedAt: "2026-05-26"
+updatedAt: "2026-05-27"
 products:
   - rank: 1
+    name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
+    brand: "ファーファ"
+    price: 1989
+    capacity: "1100g×8個"
+    pricePerUnit: "約0.23円/g"
+    rating: 4.75
+    reviewCount: 182
+    features:
+      - "衣類洗濯に使う洗剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "洗濯物の種類に合わせて選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りや洗い上がりの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "洗濯物の種類に合わせて選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2Fs621006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10002096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/9fa-fa/fafa4/02539939/4902135147420_case.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-27"
+        price: 3978
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
+        available: true
+  - rank: 2
     name: "トップ クリアリキッド 業務用 4kg×3本"
     brand: "ライオン（トップ）"
     price: 5130
@@ -36,37 +67,6 @@ products:
         price: 5550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou-selection_r5-15080k"
         available: true
-  - rank: 2
-    name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
-    brand: "ファーファ"
-    price: 3978
-    capacity: "1100g×8個"
-    pricePerUnit: "約0.45円/g"
-    rating: 4.75
-    reviewCount: 182
-    features:
-      - "衣類洗濯に使う洗剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "洗濯物の種類に合わせて選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "香りや洗い上がりの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "洗濯物の種類に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2Fs621006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10002096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/9fa-fa/fafa4/02539939/4902135147420_case.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
-        matchStatus: "matched"
-        updatedAt: "2026-05-26"
-        price: 3978
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
-        available: true
   - rank: 3
     name: "WORKERS 作業着液体洗剤 業務用"
     brand: "WORKERS"
@@ -92,9 +92,9 @@ products:
   - rank: 4
     name: "アリエール 部屋干し 除菌プラス 詰め替え 超ジャンボ 1kg×6袋"
     brand: "アリエール（P&G）"
-    price: 5580
+    price: 5020
     capacity: "1kg×6袋"
-    pricePerUnit: "約930円/kg"
+    pricePerUnit: "約837円/kg"
     rating: 4.75
     reviewCount: 16
     features:
@@ -117,7 +117,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fririnana%2F1341dc22641.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 13417
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ririnana_1341dc22641"
         available: true
@@ -148,7 +148,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-27"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -211,8 +211,8 @@ products:
     price: 7656
     capacity: "380g×3個"
     pricePerUnit: "約6.7円/g"
-    rating: 4.68
-    reviewCount: 117
+    rating: 4.69
+    reviewCount: 118
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
