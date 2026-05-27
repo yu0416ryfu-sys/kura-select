@@ -3,7 +3,7 @@ title: "歯ブラシ コスパ最強ランキング【2026年版】1本あたり
 description: "歯ブラシを1本あたりのコストで徹底比較。システマ・クリニカ・GUM・タフト24など人気10選を磨き心地・耐久性・コスパで解説します。"
 category: "toothpaste"
 publishedAt: "2026-05-01"
-updatedAt: "2026-05-27"
+updatedAt: 2026-05-27
 products:
   - rank: 1
     name: "Shu&Shu 歯ブラシ"
@@ -147,11 +147,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49821%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007820%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg01/49821_kuji.jpg?_ex=128x128"
   - rank: 7
-    name: "Ci700シリーズ 歯科専売歯ブラシ"
+    name: "Ci 700シリーズ 歯科専売歯ブラシ 選べる20本"
     brand: "Ciメディカル"
-    price: 2760
+    price: 1800
     capacity: "20本"
-    pricePerUnit: "約138円/本"
+    pricePerUnit: "約90円/本"
     rating: 4.59
     reviewCount: 1592
     features:
@@ -166,8 +166,8 @@ products:
       - "毛のかたさやサイズ確認が必要"
       - "電動タイプは替えブラシ確認が必要"
     recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fdf1013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010268%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0523_p5/kirikae2/df1013_sam.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzj4n.3rdw68f0.g00tzj4n.3rdw7213/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosline%2Fci-700-20%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosline%2Fi%2F10003097%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosline/cabinet/11411007/11411009/imgrc0104937455.jpg?_ex=128x128"
   - rank: 8
     name: "子供向けキャラクター歯ブラシ"
     brand: "Ciメディカル"

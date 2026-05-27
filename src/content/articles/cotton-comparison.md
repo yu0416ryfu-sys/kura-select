@@ -3,7 +3,7 @@ title: "コットン コスパ最強ランキング【2026年版】10選 1枚あ
 description: "コットン・コットンパッドを1枚あたりのコストで比較。ビオレ・シルコットなど11商品を肌触り・コスパで解説します。"
 category: "cotton"
 publishedAt: "2026-05-03"
-updatedAt: "2026-05-26"
+updatedAt: 2026-05-27
 products:
   - rank: 1
     name: "コットンパフ カット綿 大判"
@@ -231,10 +231,10 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10034333%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10034333%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin56/4901301729286.jpg?_ex=128x128"
   - rank: 10
-    name: "ダクトパッド 詰め替えセット"
+    name: "One-day's you ダクトパッド 詰め替え 2個セット 60枚×2"
     brand: "One-day's you"
     price: 2090
-    capacity: "60枚×2個"
+    capacity: "60枚×2個（120枚）"
     pricePerUnit: "約17円/枚"
     rating: 4.89
     reviewCount: 87
@@ -250,7 +250,7 @@ products:
       - "一般的な乾いたコットンとは使用感が異なる"
       - "成分や香りの好みを購入前に確認したい"
     recommendedFor: "トナーパッドで手軽にふき取りケアをしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5tzn.3rdw6175.g00u5tzn.3rdw760d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonedaysyou%2Fdactopadrefill2_copy%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonedaysyou%2Fi%2F10000136%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5tzn.3rdw6175.g00u5tzn.3rdw760d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonedaysyou%2Fdactopadrefill2_copypage%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonedaysyou%2Fi%2F10000277%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onedaysyou/cabinet/12819556/12846370/imgrc0114009555.jpg?_ex=128x128"
 tags:
   - "コットン おすすめ"
