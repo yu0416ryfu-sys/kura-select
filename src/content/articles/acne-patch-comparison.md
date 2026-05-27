@@ -3,7 +3,7 @@ title: "ニキビパッチ コスパ比較【2026年版】おすすめ8選"
 description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚あたり価格で徹底比較。ヒドロコロイド素材の選び方・薄さ・目立ちにくさを解説。まとめ買いでコスパを上げるおすすめ8選。"
 category: "acne-patch"
 publishedAt: "2026-05-27"
-updatedAt: 2026-05-27
+updatedAt: "2026-05-27"
 draft: false
 products:
   - rank: 1
@@ -28,6 +28,15 @@ products:
     recommendedFor: "薬用成分配合タイプを試したい方・コメドケアも意識した使用を考えている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2mpn.3rdw6905.g00s2mpn.3rdw76e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvirginbeautyshop%2Fta-the-sp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvirginbeautyshop%2Fi%2F10005693%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/virginbeautyshop/cabinet/04226192/10028549/10028552/ta-the-sp.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvirginbeautyshop%2Fta-the-sp.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-27"
+        price: 860
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/virginbeautyshop_ta-the-sp"
+        available: true
   - rank: 2
     name: "VT PRO CICA クリアスポットパッチ 48枚×3個セット"
     brand: "VT Cosmetics"
@@ -182,6 +191,15 @@ products:
     recommendedFor: "昼間も目立たせずに貼り続けたい方・韓国コスメブランドを好む方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdwhn.3rdw66bc.g00tdwhn.3rdw77aa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvtcosmetic-official%2Fp00000cr_adil%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvtcosmetic-official%2Fi%2F10000791%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/vtcosmetic-official/cabinet/p00000cr/700_garlic.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvely-vely%2F8809559624031yt.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-27"
+        price: 680
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/vely-vely_8809559624031yt"
+        available: true
 tags:
   - "ニキビパッチ おすすめ"
   - "ニキビパッチ コスパ"
