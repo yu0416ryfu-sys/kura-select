@@ -3,6 +3,10 @@
     "kura-content": {
       "command": "corepack",
       "args": ["pnpm", "mcp:kura-content"]
+    },
+    "gsc": {
+      "command": "node",
+      "args": ["scripts/mcp/gsc-mcp.mjs"]
     }
   }
 }
