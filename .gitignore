@@ -8,6 +8,10 @@ dist/
 
 # 環境変数
 .env
+
+# GSC MCP 認証情報（コミット禁止）
+scripts/mcp/gsc-credentials.json
+scripts/mcp/gsc-token.json
 .env.local
 .env.*.local
 
