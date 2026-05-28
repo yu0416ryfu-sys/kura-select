@@ -3,7 +3,7 @@ title: "BIG・スーパービッグ紙おむつ比較【2026年版】"
 description: "BIGサイズ・スーパービッグサイズの紙おむつを1枚あたりの価格で比較。大きめ体型や夜間漏れ対策に向く商品を選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-27
+updatedAt: 2026-05-28
 products:
   - rank: 1
     name: "グーンプラス テープ BIGサイズ"
@@ -130,6 +130,28 @@ products:
         matchStatus: "pending"
         updatedAt: "2026-05-26"
   - rank: 5
+    name: "グーン スーパーBIG パンツタイプ ケース販売 84枚"
+    brand: "大王製紙（グーン）"
+    price: 7380
+    capacity: "84枚（14枚×6袋）"
+    pricePerUnit: "約88円/枚"
+    rating: 4
+    reviewCount: 1
+    features:
+      - "スーパーBIGサイズのパンツタイプ"
+      - "同一商品をまとめたケース販売"
+      - "大きめ体型に合わせたサイズ展開"
+    pros:
+      - "継続使用する家庭のまとめ買いに向く"
+      - "買い足しの手間を減らしやすい"
+      - "ストックを確保しておきたい時に選びやすい"
+    cons:
+      - "サイズが合わないと在庫を持て余しやすい"
+      - "保管スペースを確認してから購入したい"
+    recommendedFor: "グーンのスーパーBIGをケースでまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugwmn.3rdw60bf.g00ugwmn.3rdw7c2e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcleanexpert1%2Fdos263-r6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcleanexpert1%2Fi%2F10000371%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cleanexpert1/cabinet/12083805/12083806/dos263-6_1.jpg?_ex=128x128"
+  - rank: 6
     name: "グーン スーパーBIG パンツタイプ 14枚"
     brand: "大王製紙（グーン）"
     price: 1288
@@ -160,7 +182,7 @@ products:
         available: true
         matchStatus: "pending"
         updatedAt: "2026-05-27"
-  - rank: 6
+  - rank: 7
     name: "グーン スーパービッグ パンツタイプ"
     brand: "大王製紙（グーン）"
     price: 1399
@@ -191,28 +213,6 @@ products:
         available: true
         matchStatus: "pending"
         updatedAt: "2026-05-27"
-  - rank: 7
-    name: "グーン スーパーBIG パンツタイプ ケース販売 84枚"
-    brand: "大王製紙（グーン）"
-    price: 7380
-    capacity: "84枚（14枚×6袋）"
-    pricePerUnit: "約88円/枚"
-    rating: 4
-    reviewCount: 1
-    features:
-      - "スーパーBIGサイズのパンツタイプ"
-      - "同一商品をまとめたケース販売"
-      - "大きめ体型に合わせたサイズ展開"
-    pros:
-      - "継続使用する家庭のまとめ買いに向く"
-      - "買い足しの手間を減らしやすい"
-      - "ストックを確保しておきたい時に選びやすい"
-    cons:
-      - "サイズが合わないと在庫を持て余しやすい"
-      - "保管スペースを確認してから購入したい"
-    recommendedFor: "グーンのスーパーBIGをケースでまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugwmn.3rdw60bf.g00ugwmn.3rdw7c2e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcleanexpert1%2Fdos263-r6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcleanexpert1%2Fi%2F10000371%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cleanexpert1/cabinet/12083805/12083806/dos263-6_1.jpg?_ex=128x128"
   - rank: 8
     name: "ムーニーマン スーパービッグ 男の子"
     brand: "ユニ・チャーム（ムーニー）"
@@ -282,7 +282,7 @@ products:
     capacity: "ビッグ108枚（3個セット）"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 1583
+    reviewCount: 1585
     features:
       - "パンツタイプの紙おむつ"
       - "ふわもちタッチの肌あたりに配慮した設計"

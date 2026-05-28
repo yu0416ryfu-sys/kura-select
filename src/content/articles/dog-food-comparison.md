@@ -1,9 +1,9 @@
 ---
-title: "ドッグフード コスパ比較【2026年版】おすすめ7選"
-description: "アイムス・ニュートロ・国産無添加など人気ドライドッグフードを1g単価で徹底比較。成犬・小型犬・大型犬向け選び方ガイドとまとめ買いのコスパポイントも解説。おすすめ7選。"
+title: "ドッグフード コスパ比較【2026年版】おすすめ6選"
+description: "アイムス・ニュートロ・国産無添加など人気ドライドッグフードを1g単価で徹底比較。成犬・小型犬・大型犬向け選び方ガイドとまとめ買いのコスパポイントも解説。おすすめ6選。"
 category: "dog-food"
 publishedAt: "2026-05-27"
-updatedAt: "2026-05-27"
+updatedAt: 2026-05-28
 draft: true
 products:
   - rank: 1
@@ -69,11 +69,77 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_0019014614196"
         available: true
   - rank: 3
-    name: "ニュートロ ナチュラルチョイス 小型犬 成犬用 チキン玄米 6kg"
+    name: "ロイヤルカナン ミニ インドア アダルト 8kg×2個"
+    brand: "ロイヤルカナン"
+    price: 21528
+    capacity: "8kg×2個"
+    pricePerUnit: "約1346円/kg"
+    rating: 4.77
+    reviewCount: 30
+    features:
+      - "室内飼育の小型犬（成犬時体重10kgまで）の成犬用に設計されたドライフード"
+      - "L-カルニチン・オメガ脂肪酸・ビタミン類を配合した栄養バランス設計"
+      - "生後10ヶ月齢以上を対象とした成犬向けレシピ"
+    pros:
+      - "まとめ買いセットのため単回購入より補充頻度を下げやすい"
+      - "ロイヤルカナンの犬種・サイズ別設計シリーズとして品質管理が明確"
+      - "室内飼育の小型犬に特化した設計で、屋外活動量が少ない犬の日常食に向いている"
+    cons:
+      - "セット購入のため1回あたりの支出が大きくなりやすい"
+      - "室内小型犬専用のため屋外活動量の多い中大型犬には対象外"
+    recommendedFor: "室内飼育の小型犬の飼い主・まとめ買いで補充頻度を抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fstw-091022-01-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10070468%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/stw-091022-01-00.jpg?_ex=128x128"
+  - rank: 4
+    name: "ロイヤルカナン ミニ インドア アダルト 2kg×6個"
+    brand: "ロイヤルカナン"
+    price: 17322
+    capacity: "2kg×6個"
+    pricePerUnit: "約1444円/kg"
+    rating: 4.6
+    reviewCount: 5
+    features:
+      - "室内飼育の小型犬（成犬時体重10kgまで）成犬向けドライフードのまとめ買いセット"
+      - "オメガ脂肪酸（EPA/DHA）配合で皮膚と被毛の健康維持に配慮した設計"
+      - "消化性を最適化した成分バランスで胃腸への負担を考慮"
+    pros:
+      - "6個セットのまとめ買いで補充頻度を大幅に下げられる"
+      - "2kgの小分けパッケージのため開封後の品質を保ちやすい"
+      - "室内小型犬専用設計でライフステージと体格が明確に対応している"
+    cons:
+      - "室内小型犬以外（屋外活動が多い犬や中大型犬）には向かない"
+      - "6個セットのため保管スペースが必要になる"
+    recommendedFor: "室内飼育の小型犬を多頭または長期飼育している方・開封後鮮度を優先したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fw-145111-00-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10068095%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/w-145111-00-00.jpg?_ex=128x128"
+  - rank: 5
+    name: "ロイヤルカナン ダックスフンド 成犬用"
+    brand: "ロイヤルカナン"
+    price: 5068
+    capacity: "3kg"
+    pricePerUnit: "約1689円/kg"
+    rating: 4.69
+    reviewCount: 166
+    features:
+      - "ダックスフンド専用に設計された犬種別ドライフード（生後10ヶ月齢以上対象）"
+      - "オメガ3脂肪酸（EPA+DHA）・L-カルニチン配合の栄養設計"
+      - "ジッパー付きパッケージで開封後の保管がしやすい"
+    pros:
+      - "ダックスフンド専用設計のため犬種の体型・特性に合わせた栄養バランスが明確"
+      - "ロイヤルカナンの犬種別シリーズとして品質管理が一定で継続使用実績が多い"
+      - "ジッパー付きで保管しやすく、少量ずつ使い切りやすい"
+    cons:
+      - "ダックスフンド専用のため他犬種には適さない"
+      - "犬種別専用品のため汎用フードよりg単価が高くなりやすい"
+    recommendedFor: "ダックスフンドを飼育している方・犬種別設計フードを使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F9214451%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10000305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/royalcanin/9214451main.jpg?_ex=128x128"
+  - rank: 6
+    name: "ニュートロ ナチュラルチョイス 小型犬用 成犬用 チキン&玄米 6kg"
     brand: "ニュートロ"
-    price: 0
+    price: 11364
     capacity: "6kg"
-    pricePerUnit: "0円/100g"
+    pricePerUnit: "約1894円/kg"
     rating: 0
     reviewCount: 0
     features:
@@ -88,8 +154,8 @@ products:
       - "プレミアムフードのため一般的な大容量フードよりg単価は高くなりやすい"
       - "小型犬用のため中型・大型犬には別サイズ展開を選ぶ必要がある"
     recommendedFor: "無添加・自然派素材にこだわりたい小型犬の飼い主・プレミアムフードを継続使用したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/dogworld01/natural0196/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3q9n.3rdw6fae.g00r3q9n.3rdw7c86/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetland-kumatori%2Fdf-0151%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpetland-kumatori%2Fi%2F10000469%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/petland-kumatori/cabinet/df04/df-0149.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -99,94 +165,6 @@ products:
         price: 8980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
-  - rank: 4
-    name: "ドッグフード工房 国産無添加 鶏肉 小粒 1.3kg"
-    brand: "ドッグフード工房"
-    price: 0
-    capacity: "1.3kg"
-    pricePerUnit: "0円/100g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "国産鶏肉を主原料にした小麦不使用・無添加ドライフード"
-      - "獣医師推奨の成分設計で全犬種・全年齢対応"
-      - "小粒タイプで小型犬から中型犬まで食べやすい粒サイズ"
-    pros:
-      - "国産製造で原材料の産地が明確なため安心感を求める飼い主に向いている"
-      - "小麦グルテンフリーで食物アレルギーが気になる犬にも選びやすい"
-      - "全年齢対応のため成長ステージが変わっても継続しやすい"
-    cons:
-      - "1.3kgと容量が少なめのため大型犬では補充頻度が高くなる"
-      - "国産無添加のためg単価は輸入大容量フードより高くなりやすい"
-    recommendedFor: "国産素材・無添加フードを重視する飼い主・食物アレルギーが気になる小型・中型犬の飼い主"
-    rakutenUrl: "https://item.rakuten.co.jp/dogfood-koubou/4570060040514/"
-    imageUrl: ""
-  - rank: 5
-    name: "ロイヤルカナン ミニ インドア アダルト 8kg"
-    brand: "ロイヤルカナン"
-    price: 0
-    capacity: "8kg×2個"
-    pricePerUnit: "0円/kg"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "室内飼育の小型犬（成犬時体重10kgまで）の成犬用に設計されたドライフード"
-      - "L-カルニチン・オメガ脂肪酸・ビタミン類を配合した栄養バランス設計"
-      - "生後10ヶ月齢以上を対象とした成犬向けレシピ"
-    pros:
-      - "まとめ買いセットのため単回購入より補充頻度を下げやすい"
-      - "ロイヤルカナンの犬種・サイズ別設計シリーズとして品質管理が明確"
-      - "室内飼育の小型犬に特化した設計で、屋外活動量が少ない犬の日常食に向いている"
-    cons:
-      - "セット購入のため1回あたりの支出が大きくなりやすい"
-      - "室内小型犬専用のため屋外活動量の多い中大型犬には対象外"
-    recommendedFor: "室内飼育の小型犬の飼い主・まとめ買いで補充頻度を抑えたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/1096dog/stw-091022-01-00/"
-    imageUrl: ""
-  - rank: 6
-    name: "ロイヤルカナン ミニ インドア アダルト 2kg"
-    brand: "ロイヤルカナン"
-    price: 0
-    capacity: "2kg×6個"
-    pricePerUnit: "0円/kg"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "室内飼育の小型犬（成犬時体重10kgまで）成犬向けドライフードのまとめ買いセット"
-      - "オメガ脂肪酸（EPA/DHA）配合で皮膚と被毛の健康維持に配慮した設計"
-      - "消化性を最適化した成分バランスで胃腸への負担を考慮"
-    pros:
-      - "6個セットのまとめ買いで補充頻度を大幅に下げられる"
-      - "2kgの小分けパッケージのため開封後の品質を保ちやすい"
-      - "室内小型犬専用設計でライフステージと体格が明確に対応している"
-    cons:
-      - "室内小型犬以外（屋外活動が多い犬や中大型犬）には向かない"
-      - "6個セットのため保管スペースが必要になる"
-    recommendedFor: "室内飼育の小型犬を多頭または長期飼育している方・開封後鮮度を優先したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/1096dog/w-145111-00-00/"
-    imageUrl: ""
-  - rank: 7
-    name: "ロイヤルカナン ダックスフンド 成犬用"
-    brand: "ロイヤルカナン"
-    price: 0
-    capacity: "3kg"
-    pricePerUnit: "0円/kg"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "ダックスフンド専用に設計された犬種別ドライフード（生後10ヶ月齢以上対象）"
-      - "オメガ3脂肪酸（EPA+DHA）・L-カルニチン配合の栄養設計"
-      - "ジッパー付きパッケージで開封後の保管がしやすい"
-    pros:
-      - "ダックスフンド専用設計のため犬種の体型・特性に合わせた栄養バランスが明確"
-      - "ロイヤルカナンの犬種別シリーズとして品質管理が一定で継続使用実績が多い"
-      - "ジッパー付きで保管しやすく、少量ずつ使い切りやすい"
-    cons:
-      - "ダックスフンド専用のため他犬種には適さない"
-      - "犬種別専用品のため汎用フードよりg単価が高くなりやすい"
-    recommendedFor: "ダックスフンドを飼育している方・犬種別設計フードを使いたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/dog-kan/9214451/"
-    imageUrl: ""
 tags:
   - "ドッグフード おすすめ"
   - "ドッグフード コスパ"

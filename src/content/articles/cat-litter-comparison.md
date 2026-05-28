@@ -3,7 +3,7 @@ title: "猫砂 おすすめ10選【素材別コスパ比較 2026年版】"
 description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペレットで素材別に比較。固まりやすさ・消臭力・1Lあたりの単価を基準におすすめ14商品を徹底比較。楽天まとめ買いコスパ最強まとめ。"
 category: "cat-litter"
 publishedAt: "2026-05-26"
-updatedAt: "2026-05-27"
+updatedAt: 2026-05-28
 draft: false
 products:
   - rank: 1
@@ -203,7 +203,7 @@ products:
     capacity: "5L×4袋（20L）"
     pricePerUnit: "約144円/L"
     rating: 4.68
-    reviewCount: 2322
+    reviewCount: 2323
     features:
       - "ベントナイト鉱物系・固まるタイプの消臭猫砂"
       - "大手メーカーライオンによる消臭設計"
@@ -233,8 +233,8 @@ products:
     price: 4430
     capacity: "7L×4袋"
     pricePerUnit: "約158円/L"
-    rating: 4.86
-    reviewCount: 44
+    rating: 4.84
+    reviewCount: 45
     features:
       - "大豆粕（おから）由来の植物系猫砂"
       - "トイレに流せる・燃えるゴミに出せる"
@@ -270,7 +270,7 @@ products:
       - "他の国産品と比べてやや価格帯が上がる場合がある"
     recommendedFor: "海外ブランドの細粒鉱物系で固まり性能を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10014271%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10014271%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/img015/100142_1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/campaign/100142_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

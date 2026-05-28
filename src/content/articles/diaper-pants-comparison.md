@@ -3,7 +3,7 @@ title: "パンツ型おむつ コスパ比較【2026年版】"
 description: "パンツ型おむつを1枚あたりの価格で比較。まずはMサイズのメリーズを例に、テープ型からの切り替え目安も解説します。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: "2026-05-27"
+updatedAt: 2026-05-28
 products:
   - rank: 1
     name: "メリーズ エアスルー パンツ Mサイズ"
@@ -105,7 +105,7 @@ products:
     capacity: "M150枚・L126枚・BIG108枚・BIG+72枚セット"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 1583
+    reviewCount: 1585
     features:
       - "複数サイズをセットで選べる"
       - "ふわもちタッチで肌に優しい"
@@ -127,7 +127,7 @@ products:
     capacity: "M/L/BIG/BIGより大きいから選択、各3個パック"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 6023
+    reviewCount: 6029
     features:
       - "素早く吸収する立体ギャザー設計"
       - "通気性に優れた素材で蒸れを軽減"
@@ -165,13 +165,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2Fa62173xxx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10019348%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/077/402077.jpg?_ex=128x128"
   - rank: 7
-    name: "ムーニーマン パンツ"
+    name: "ムーニーマン パンツ 男女 L・BIGサイズ 4個セット"
     brand: "ユニ・チャーム（ムーニー）"
     price: 6516
-    capacity: "L～BIG、4個セット"
+    capacity: "L・BIG 4個セット"
     pricePerUnit: "0円/枚"
     rating: 4.73
-    reviewCount: 1176
+    reviewCount: 1177
     features:
       - "やわらかい素材でのびのびしたウエスト設計"
       - "赤ちゃんの動きを妨げない柔軟性"
@@ -193,7 +193,7 @@ products:
     capacity: "M/L/BIG/BIG超から選択、複数枚×4個"
     pricePerUnit: "0円/枚"
     rating: 4.78
-    reviewCount: 1139
+    reviewCount: 1140
     features:
       - "12時間吸収設計で夜間の漏れを防止"
       - "360度ギャザーで寝返りに対応"
@@ -215,7 +215,7 @@ products:
     capacity: "M/L/BIGから選択、3個パック"
     pricePerUnit: "0円/枚"
     rating: 4.79
-    reviewCount: 7971
+    reviewCount: 7978
     features:
       - "ドラえもんのキャラクターデザイン採用"
       - "12時間までの長時間吸収対応"
