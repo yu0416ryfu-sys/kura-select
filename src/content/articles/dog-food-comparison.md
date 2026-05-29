@@ -3,7 +3,7 @@ title: "ドッグフード コスパ比較【2026年版】おすすめ10選"
 description: "アイムス・ニュートロ・国産無添加など人気ドライドッグフードを1g単価で徹底比較。成犬・小型犬・大型犬向け選び方ガイドとまとめ買いのコスパポイントも解説。おすすめ10選。"
 category: "dog-food"
 publishedAt: "2026-05-27"
-updatedAt: "2026-05-29"
+updatedAt: 2026-05-29
 draft: true
 products:
   - rank: 1
@@ -219,7 +219,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q1mvn.3rdw675d.g00q1mvn.3rdw735a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogparadise%2F4562192370942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogparadise%2Fi%2F10004845%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/artemis/0813369001904.jpg?_ex=128x128"
   - rank: 9
-    name: "ドッグフード 国産 無添加 吉岡油糧 笑顔のドッグフード 1kg 5kg ／ 7mm"
+    name: "吉岡油糧 笑顔のドッグフード 国産無添加 1kg"
     brand: "ドッグフード"
     price: 3000
     capacity: "1kg"

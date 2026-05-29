@@ -3,7 +3,7 @@ title: "コンディショナー コスパ最強ランキング【2026年版】1
 description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気9選をダメージケア・コスパで解説します。"
 category: "conditioner"
 publishedAt: "2026-05-01"
-updatedAt: "2026-05-29"
+updatedAt: 2026-05-29
 products:
   - rank: 1
     name: "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア"
@@ -178,7 +178,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-ypp_3799-0026554"
         available: true
   - rank: 8
-    name: "デミ ミレアム ヘアケア コンディショナー 1800mL 詰替"
+    name: "デミ ミレアム ヘアケア コンディショナー 1800mL"
     brand: "デミ"
     price: 1839
     capacity: "1800mL"

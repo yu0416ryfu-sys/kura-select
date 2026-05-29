@@ -7,6 +7,8 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   site: "https://www.kura-select.com",
+  // 末尾スラッシュを統一（GH Pages での重複URL・リンクエクイティ分散を防ぐ）
+  trailingSlash: "always",
   integrations: [
     preact({ compat: true }),
     sitemap(),

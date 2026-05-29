@@ -3,7 +3,7 @@ title: "白髪染め コスパ比較【2026年版】市販おすすめ10選"
 description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あたり価格で徹底比較。泡・クリーム・トリートメントタイプの違いや選び方を解説。コスパよく白髪ケアしたい方向けのおすすめ10選。"
 category: "hair-color"
 publishedAt: "2026-05-27"
-updatedAt: "2026-05-29"
+updatedAt: 2026-05-29
 draft: false
 products:
   - rank: 1
@@ -119,7 +119,7 @@ products:
     capacity: "400g"
     pricePerUnit: "約15円/g"
     rating: 4.36
-    reviewCount: 7385
+    reviewCount: 7386
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -172,7 +172,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.49
-    reviewCount: 2311
+    reviewCount: 2312
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

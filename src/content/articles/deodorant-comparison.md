@@ -1,11 +1,42 @@
 ---
-title: "制汗剤 コスパ最強ランキング【2026年版】1gあたり最安で比較"
-description: "制汗剤・デオドラントを1gあたりのコストで徹底比較。8×4・Ban・エージーデオ24・デオナチュレなど人気10選を持続力・コスパで解説します。"
+title: "制汗剤・デオドラント コスパ最強ランキング【2026年版】10選比較"
+description: "制汗剤・デオドラントを容量あたりのコストで比較。8×4・Ban・エージーデオ24・デオナチュレなど人気10選を持続力・汗・ニオイ対策・コスパで解説。スプレー・スティック・クリーム別に選べます。"
 category: "deodorant"
 publishedAt: "2026-05-01"
-updatedAt: "2026-05-29"
+updatedAt: 2026-05-29
 products:
   - rank: 1
+    name: "Ban 汗ブロックロールオン プレミアムゴールドラベル 40mL"
+    brand: "ライオン（Ban）"
+    price: 753
+    capacity: "40mL"
+    pricePerUnit: "約19円/mL"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "ナノイオン制汗成分が汗腺に密着"
+      - "ロールオンタイプで直接塗布"
+      - "特殊コーティングで汗ジミを防ぐ"
+    pros:
+      - "汗そのものを抑える制汗力が強い"
+      - "ロールオンで飛散せず周囲を気にせず使える"
+      - "朝塗れば夕方まで効果が持続"
+    cons:
+      - "乾くまでやや時間がかかる"
+      - "広い範囲には塗りにくい"
+    recommendedFor: "ワキ汗をしっかり抑えたい方・制汗力重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq6xn.3rdw6fac.g00pq6xn.3rdw73f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenkyo%2F4903301300335%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenkyo%2Fi%2F10229837%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/benkyo/cabinet/shohin127_3/4903301300335.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foosaki%2F4903301300336.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 7810
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/oosaki_4903301300336"
+        available: true
+  - rank: 2
     name: "クリニーク フォー メン アンティ パースパイラント デオドラント ロールオン N 75mL"
     brand: "CLINIQUE"
     price: 4950
@@ -35,37 +66,6 @@ products:
         updatedAt: "2026-05-29"
         price: 4950
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosmecom_1000039445"
-        available: true
-  - rank: 2
-    name: "Ban 汗ブロックロールオン プレミアムラベル 40mL"
-    brand: "ライオン（Ban）"
-    price: 3819
-    capacity: "40mL"
-    pricePerUnit: "約95円/mL"
-    rating: 4.5
-    reviewCount: 100
-    features:
-      - "ナノイオン制汗成分が汗腺に密着"
-      - "ロールオンタイプで直接塗布"
-      - "特殊コーティングで汗ジミを防ぐ"
-    pros:
-      - "汗そのものを抑える制汗力が強い"
-      - "ロールオンで飛散せず周囲を気にせず使える"
-      - "朝塗れば夕方まで効果が持続"
-    cons:
-      - "乾くまでやや時間がかかる"
-      - "広い範囲には塗りにくい"
-    recommendedFor: "ワキ汗をしっかり抑えたい方・制汗力重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5nyn.3rdw649e.g00u5nyn.3rdw7766/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnrfonline%2Fnrf96eb81f654%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnrfonline%2Fi%2F10125439%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nrfonline/cabinet/onesell725/nrf96eb81f654_0.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foosaki%2F4903301300336.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
-        price: 7810
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/oosaki_4903301300336"
         available: true
   - rank: 3
     name: "クデオ ジェルクリーム 30mL"
@@ -136,7 +136,7 @@ products:
     capacity: "20mL×2個"
     pricePerUnit: "約151円/mL"
     rating: 4.29
-    reviewCount: 671
+    reviewCount: 672
     features:
       - "敏感肌向けのロールオン制汗デオドラント"
       - "無香料で使いやすい海外製アイテム"

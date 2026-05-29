@@ -3,7 +3,7 @@ title: "ニキビパッチ コスパ比較【2026年版】おすすめ8選"
 description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚あたり価格で徹底比較。ヒドロコロイド素材の選び方・薄さ・目立ちにくさを解説。まとめ買いでコスパを上げるおすすめ8選。"
 category: "acne-patch"
 publishedAt: "2026-05-27"
-updatedAt: "2026-05-28"
+updatedAt: 2026-05-29
 draft: false
 products:
   - rank: 1
@@ -44,7 +44,7 @@ products:
     capacity: "144枚"
     pricePerUnit: "約14円/枚"
     rating: 4.68
-    reviewCount: 961
+    reviewCount: 962
     features:
       - "VT PRO CICAシリーズ 48枚入り×3個のまとめ買いセット"
       - "CICA配合ハイドロゲル素材で2サイズ使い分け可能"
@@ -154,7 +154,7 @@ products:
     capacity: "48枚"
     pricePerUnit: "約19円/枚"
     rating: 4.51
-    reviewCount: 1425
+    reviewCount: 1426
     features:
       - "硬質ハイドロゲルを使用したスポットパッチ"
       - "2サイズ（10mm・12mm）のパッチが1セットに入った構成"

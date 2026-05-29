@@ -3,7 +3,7 @@ title: "乾電池 コスパ比較【2026年版】単3・単4おすすめ10選"
 description: "Panasonic・富士通など主要ブランドの乾電池を1本あたり価格で徹底比較。単3・単4の選び方、長期保存品の特徴、まとめ買いのコスパを解説。防災備蓄にも役立つおすすめ10選。"
 category: "battery"
 publishedAt: "2026-05-27"
-updatedAt: "2026-05-29"
+updatedAt: 2026-05-29
 draft: false
 products:
   - rank: 1
@@ -13,7 +13,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約25円/本"
     rating: 4.63
-    reviewCount: 978
+    reviewCount: 979
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"

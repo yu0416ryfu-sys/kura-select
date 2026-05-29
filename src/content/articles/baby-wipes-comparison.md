@@ -3,7 +3,7 @@ title: "おしりふき コスパ最強ランキング【2026年版】10選"
 description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比較。ムーニー、パンパース、グーン、レックなど人気メーカーの商品を肌優しさ・容量・単価で徹底比較。"
 category: "baby-wipes"
 publishedAt: "2026-05-17"
-updatedAt: "2026-05-29"
+updatedAt: 2026-05-29
 draft: false
 products:
   - rank: 1
@@ -296,7 +296,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.55
-    reviewCount: 358
+    reviewCount: 359
     features:
       - "純水99.9%で肌に優しい処方"
       - "流せるシートで処理が簡単"
