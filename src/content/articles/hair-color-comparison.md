@@ -1,12 +1,56 @@
 ---
-title: "白髪染め コスパ比較【2026年版】市販おすすめ4選"
-description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あたり価格で徹底比較。泡・クリーム・トリートメントタイプの違いや選び方を解説。コスパよく白髪ケアしたい方向けのおすすめ4選。"
+title: "白髪染め コスパ比較【2026年版】市販おすすめ10選"
+description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あたり価格で徹底比較。泡・クリーム・トリートメントタイプの違いや選び方を解説。コスパよく白髪ケアしたい方向けのおすすめ10選。"
 category: "hair-color"
 publishedAt: "2026-05-27"
-updatedAt: "2026-05-27"
+updatedAt: "2026-05-29"
 draft: false
 products:
   - rank: 1
+    name: "白髪染め カバーグレイ 白髪染トリートメント 240g 白髪染めトリートメント カラ"
+    brand: "白髪染め"
+    price: 1200
+    capacity: "240g"
+    pricePerUnit: "約5.0円/g"
+    rating: 4.1
+    reviewCount: 2905
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pwren.3rdw633f.g00pwren.3rdw7d2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdime%2F785692%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdime%2Fi%2F10008057%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dime/cabinet/04387001/imgrc0075072432.gif?_ex=128x128"
+  - rank: 2
+    name: "ヘナ初回限定セット 100g×2袋特Aランクヘナプレゼント＆使用手順書付き白髪染め "
+    brand: "楽天市場"
+    price: 1496
+    capacity: "100g×2袋"
+    pricePerUnit: "約7.5円/g"
+    rating: 4.42
+    reviewCount: 3112
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s02cn.3rdw6b13.g00s02cn.3rdw7b73/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmahalohalo%2F10000044%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmahalohalo%2Fi%2F10000044%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mahalohalo/cabinet/itemimage/re_first_press.jpg?_ex=128x128"
+  - rank: 3
     name: "エムズハーブカラートリートメント彩 500g"
     brand: "スリアン"
     price: 6600
@@ -32,56 +76,74 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpeacehair%2Fsai500gset.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-27"
+        matchStatus: "matched"
+        updatedAt: "2026-05-29"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/peacehair_sai500gset"
         available: true
-  - rank: 2
-    name: "ヘアボーテエクラ ボタニカルエアカラーフォームEX 2本セット"
-    brand: "フューチャーラボ（ヘアボーテエクラ）"
-    price: 11000
-    capacity: "2本"
-    pricePerUnit: "約5500円/本"
-    rating: 4.94
-    reviewCount: 18
-    features:
-      - "植物エキス配合のボタニカル泡タイプヘアカラー"
-      - "脱色せずに染めるタイプで髪へのダメージを抑えた設計"
-      - "2本セットで1本あたりのコストを下げた購入しやすい構成"
-    pros:
-      - "植物由来成分配合で染める際の髪や頭皮へのダメージを考慮した設計"
-      - "泡タイプで塗布が均一にしやすく、生え際・部分染めにも対応"
-      - "2本セットで定期使用に向いたボリューム"
-    cons:
-      - "脱色しないタイプのため明るい色への変更には向かない"
-      - "一般的な永久染毛剤と比べると色の定着の仕方が異なる場合がある"
-    recommendedFor: "髪や頭皮へのダメージを抑えながら白髪をカバーしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rso1n.3rdw62e6.g00rso1n.3rdw78e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkirei-mitsuketa%2Fshb_0002132%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkirei-mitsuketa%2Fi%2F10016287%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kirei-mitsuketa/cabinet/hb_22/shb_0002132_1.jpg?_ex=128x128"
-  - rank: 3
-    name: "ラピート クリームヘアカラー ノンジアミン 3ペアパック"
-    brand: "イリヤ（ラピート）"
-    price: 2537
-    capacity: "3セット"
-    pricePerUnit: "約846円/セット"
-    rating: 4.18
-    reviewCount: 17
-    features:
-      - "ジアミン系染料不使用のノンジアミンクリームタイプ"
-      - "1剤・2剤各60g×3セット入りのまとめ買い仕様"
-      - "美容室向けプロ用品を一般向けに展開したサロン品質の処方"
-    pros:
-      - "ノンジアミンのためジアミン系染料が肌に合わなかった方に向いている"
-      - "クリームタイプで塗布箇所を細かくコントロールしやすい"
-      - "3セット入りで継続使用のコストを抑えやすい"
-    cons:
-      - "ノンジアミンのため一般染毛剤と比べると発色の仕方が異なる場合がある"
-      - "クリームタイプは泡タイプより塗布に少し手間がかかる"
-    recommendedFor: "ジアミン系染料に過敏な反応があった方・クリームタイプで丁寧に染めたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qeu6n.3rdw66f0.g00qeu6n.3rdw7e4b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbijinsyokunin%2Frapeet-nd-sf%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbijinsyokunin%2Fi%2F10002626%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bijinsyokunin/cabinet/shohin/shohin05/imgrc0070113811.jpg?_ex=128x128"
   - rank: 4
+    name: "白髪染め レフィーネ ヘッドスパ トリートメント カラー 300g 1本or2本セッ"
+    brand: "白髪染め"
+    price: 4380
+    capacity: "300g"
+    pricePerUnit: "約15円/g"
+    rating: 4.04
+    reviewCount: 2674
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q7o0n.3rdw64e7.g00q7o0n.3rdw7976/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgardenia%2Fhsrfl_001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgardenia%2Fi%2F10000696%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gardenia/cabinet/07477010/07488588/hs_f/1200_0702_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsvenson%2Fhsrfl.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 7700
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/svenson_hsrfl"
+        available: true
+  - rank: 5
+    name: "白髪染め シャンプー トリートメント KUROクリームシャンプー 400g 単品 バ"
+    brand: "楽天市場"
+    price: 5808
+    capacity: "400g"
+    pricePerUnit: "約15円/g"
+    rating: 4.36
+    reviewCount: 7385
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvonn.3rdw6ebb.g00pvonn.3rdw720c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008554%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005223%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/imgrc0106233695.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsakura-place%2F10008554.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 5808
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sakura-place_10008554"
+        available: true
+  - rank: 6
     name: "リーゼ 泡ヘアカラー 3個セット"
     brand: "花王（リーゼ）"
     price: 2904
@@ -103,6 +165,94 @@ products:
     recommendedFor: "セルフカラー初心者・定番ブランドで手軽に白髪ケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rirmn.3rdw6865.g00rirmn.3rdw7be3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakarie%2F7279161%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakarie%2Fi%2F10170268%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/akarie/cabinet/tasya120/7279161-e.jpg?_ex=128x128"
+  - rank: 7
+    name: "2個セット KUROクリームシャンプー (400g×2) 白髪染め シャンプー トリ"
+    brand: "2個セット"
+    price: 11616
+    capacity: "2個"
+    pricePerUnit: "約5808円/個"
+    rating: 4.49
+    reviewCount: 2311
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvonn.3rdw6ebb.g00pvonn.3rdw720c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008571%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005224%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/imgrc0106307257.jpg?_ex=128x128"
+  - rank: 8
+    name: "3個セット KUROクリームシャンプー (400g×3) 白髪染め シャンプー トリ"
+    brand: "楽天市場"
+    price: 17424
+    capacity: "3個"
+    pricePerUnit: "約5808円/個"
+    rating: 4.52
+    reviewCount: 1607
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvonn.3rdw6ebb.g00pvonn.3rdw720c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008572%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005225%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/imgrc0106307258.jpg?_ex=128x128"
+  - rank: 9
+    name: "ヘアボーテエクラ ボタニカルエアカラーフォームEX 2本セット"
+    brand: "フューチャーラボ（ヘアボーテエクラ）"
+    price: 11000
+    capacity: "2本"
+    pricePerUnit: "約5500円/本"
+    rating: 4.94
+    reviewCount: 18
+    features:
+      - "植物エキス配合のボタニカル泡タイプヘアカラー"
+      - "脱色せずに染めるタイプで髪へのダメージを抑えた設計"
+      - "2本セットで1本あたりのコストを下げた購入しやすい構成"
+    pros:
+      - "植物由来成分配合で染める際の髪や頭皮へのダメージを考慮した設計"
+      - "泡タイプで塗布が均一にしやすく、生え際・部分染めにも対応"
+      - "2本セットで定期使用に向いたボリューム"
+    cons:
+      - "脱色しないタイプのため明るい色への変更には向かない"
+      - "一般的な永久染毛剤と比べると色の定着の仕方が異なる場合がある"
+    recommendedFor: "髪や頭皮へのダメージを抑えながら白髪をカバーしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rso1n.3rdw62e6.g00rso1n.3rdw78e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkirei-mitsuketa%2Fshb_0002132%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkirei-mitsuketa%2Fi%2F10016287%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kirei-mitsuketa/cabinet/hb_22/shb_0002132_1.jpg?_ex=128x128"
+  - rank: 10
+    name: "ラピート クリームヘアカラー ノンジアミン 3ペアパック"
+    brand: "イリヤ（ラピート）"
+    price: 2537
+    capacity: "3セット"
+    pricePerUnit: "約846円/セット"
+    rating: 4.18
+    reviewCount: 17
+    features:
+      - "ジアミン系染料不使用のノンジアミンクリームタイプ"
+      - "1剤・2剤各60g×3セット入りのまとめ買い仕様"
+      - "美容室向けプロ用品を一般向けに展開したサロン品質の処方"
+    pros:
+      - "ノンジアミンのためジアミン系染料が肌に合わなかった方に向いている"
+      - "クリームタイプで塗布箇所を細かくコントロールしやすい"
+      - "3セット入りで継続使用のコストを抑えやすい"
+    cons:
+      - "ノンジアミンのため一般染毛剤と比べると発色の仕方が異なる場合がある"
+      - "クリームタイプは泡タイプより塗布に少し手間がかかる"
+    recommendedFor: "ジアミン系染料に過敏な反応があった方・クリームタイプで丁寧に染めたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qeu6n.3rdw66f0.g00qeu6n.3rdw7e4b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbijinsyokunin%2Frapeet-nd-sf%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbijinsyokunin%2Fi%2F10002626%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bijinsyokunin/cabinet/shohin/shohin05/imgrc0070113811.jpg?_ex=128x128"
 tags:
   - "白髪染め おすすめ"
   - "白髪染め コスパ"

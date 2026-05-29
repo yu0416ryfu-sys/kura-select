@@ -3,7 +3,7 @@ title: "コットン おすすめコスパ最強ランキング【2026年版】1
 description: "コットンのおすすめ10選を1枚あたり価格で比較。大容量・シルコット・ビオレなどを肌触り、吸水性、用途別に選び、コスパ最強候補を紹介します。"
 category: "cotton"
 publishedAt: "2026-05-03"
-updatedAt: 2026-05-29
+updatedAt: "2026-05-29"
 products:
   - rank: 1
     name: "コットンパフ カット綿 大判"
@@ -54,7 +54,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhenojikan%2Feye058.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 2585
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthenojikan_eye058"
         available: true
@@ -85,16 +85,16 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhemart%2Fetf-cotton68.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 1833
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthemart_etf-cotton68"
         available: true
   - rank: 4
     name: "【1点限り！令和お試し価格】ユニ・チャーム シルコット うるうる コットン"
     brand: "ユニ・チャーム（シルコット）"
-    price: 341
+    price: 360
     capacity: "80枚"
-    pricePerUnit: "約4.3円/枚"
+    pricePerUnit: "約4.5円/枚"
     rating: 4.74
     reviewCount: 23
     features:
@@ -116,7 +116,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111478064x2.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 329
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111478064x2"
         available: true

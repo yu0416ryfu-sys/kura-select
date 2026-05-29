@@ -1,12 +1,34 @@
 ---
-title: "ドッグフード コスパ比較【2026年版】おすすめ6選"
-description: "アイムス・ニュートロ・国産無添加など人気ドライドッグフードを1g単価で徹底比較。成犬・小型犬・大型犬向け選び方ガイドとまとめ買いのコスパポイントも解説。おすすめ6選。"
+title: "ドッグフード コスパ比較【2026年版】おすすめ10選"
+description: "アイムス・ニュートロ・国産無添加など人気ドライドッグフードを1g単価で徹底比較。成犬・小型犬・大型犬向け選び方ガイドとまとめ買いのコスパポイントも解説。おすすめ10選。"
 category: "dog-food"
 publishedAt: "2026-05-27"
-updatedAt: 2026-05-28
+updatedAt: "2026-05-29"
 draft: true
 products:
   - rank: 1
+    name: "ナチュラルハーベスト メンテナンス ラム (大粒) ドッグフード 犬 ドライフード"
+    brand: "ナチュラルハーベスト"
+    price: 220
+    capacity: "1kg"
+    pricePerUnit: "約220円/kg"
+    rating: 4.77
+    reviewCount: 2520
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q2ujn.3rdw6097.g00q2ujn.3rdw7276/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falbiot%2Fnh_main_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falbiot%2Fi%2F10000275%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/n_nh/renew2024/nh-ml-pkimgre.jpg?_ex=128x128"
+  - rank: 2
     name: "カークランド ドッグフード チキン ライス 成犬用 12kg"
     brand: "Kirkland"
     price: 6498
@@ -32,12 +54,12 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos01590.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-27"
+        matchStatus: "matched"
+        updatedAt: "2026-05-29"
         price: 6169
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos01590"
         available: true
-  - rank: 2
+  - rank: 3
     name: "アイムス 成犬用 体重管理 チキン 5kg"
     brand: "IAMS（アイムス）"
     price: 5615
@@ -63,12 +85,12 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F0019014614196.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-27"
+        matchStatus: "matched"
+        updatedAt: "2026-05-29"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_0019014614196"
         available: true
-  - rank: 3
+  - rank: 4
     name: "ロイヤルカナン ミニ インドア アダルト 8kg×2個"
     brand: "ロイヤルカナン"
     price: 21528
@@ -90,7 +112,7 @@ products:
     recommendedFor: "室内飼育の小型犬の飼い主・まとめ買いで補充頻度を抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fstw-091022-01-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10070468%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/stw-091022-01-00.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "ロイヤルカナン ミニ インドア アダルト 2kg×6個"
     brand: "ロイヤルカナン"
     price: 17322
@@ -112,7 +134,7 @@ products:
     recommendedFor: "室内飼育の小型犬を多頭または長期飼育している方・開封後鮮度を優先したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fw-145111-00-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10068095%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/w-145111-00-00.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "ロイヤルカナン ダックスフンド 成犬用"
     brand: "ロイヤルカナン"
     price: 5068
@@ -134,7 +156,16 @@ products:
     recommendedFor: "ダックスフンドを飼育している方・犬種別設計フードを使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F9214451%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10000305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/royalcanin/9214451main.jpg?_ex=128x128"
-  - rank: 6
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 5069
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
+        available: true
+  - rank: 7
     name: "ニュートロ ナチュラルチョイス 小型犬用 成犬用 チキン&玄米 6kg"
     brand: "ニュートロ"
     price: 11364
@@ -161,10 +192,85 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 8980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
+  - rank: 8
+    name: "アーテミス フレッシュミックス スモールブリードアダルト3kg 小粒 小型犬 成犬 "
+    brand: "アーテミス"
+    price: 5830
+    capacity: "3kg"
+    pricePerUnit: "約1943円/kg"
+    rating: 4.68
+    reviewCount: 2387
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q1mvn.3rdw675d.g00q1mvn.3rdw735a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogparadise%2F4562192370942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogparadise%2Fi%2F10004845%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/artemis/0813369001904.jpg?_ex=128x128"
+  - rank: 9
+    name: "ドッグフード 国産 無添加 吉岡油糧 笑顔のドッグフード 1kg 5kg ／ 7mm"
+    brand: "ドッグフード"
+    price: 3000
+    capacity: "1kg"
+    pricePerUnit: "約3000円/kg"
+    rating: 4.72
+    reviewCount: 2534
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3b1n.3rdw673b.g00q3b1n.3rdw7e97/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetnext%2Fg360061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpetnext%2Fi%2F10000283%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/petnext/cabinet/yosioka/origi-re.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg360021-.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 3300
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g360021-"
+        available: true
+  - rank: 10
+    name: "ドッグフード 国産 無添加 吉岡油糧 オンリーワンフード 1kg 5kg（ リピート"
+    brand: "ドッグフード"
+    price: 3750
+    capacity: "1kg"
+    pricePerUnit: "約3750円/kg"
+    rating: 4.78
+    reviewCount: 1570
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3b1n.3rdw673b.g00q3b1n.3rdw7e97/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetnext%2Fonlyone_re1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpetnext%2Fi%2F10000040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/petnext/cabinet/yosioka/only-re.jpg?_ex=128x128"
 tags:
   - "ドッグフード おすすめ"
   - "ドッグフード コスパ"

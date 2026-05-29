@@ -1,12 +1,43 @@
 ---
-title: "綿棒 おすすめ4選【コスパ比較】紙軸・ベビー・業務用"
+title: "綿棒 おすすめ10選【コスパ比較】紙軸・ベビー・業務用"
 description: "綿棒をコットン100%・紙軸・スパイラル・抗菌タイプで比較。用途別おすすめ4商品の本数・1本単価をまとめ買いで比較。楽天で選べるコスパ最強の綿棒まとめ。"
 category: "cotton-swab"
 publishedAt: "2026-05-26"
-updatedAt: "2026-05-27"
+updatedAt: "2026-05-29"
 draft: true
 products:
   - rank: 1
+    name: "山洋 ケアレージュ 抗菌ふつう綿棒"
+    brand: "山洋"
+    price: 108
+    capacity: "200本"
+    pricePerUnit: "約0.54円/本"
+    rating: 5
+    reviewCount: 3
+    features:
+      - "日常の耳まわりや細かなケアに使いやすい綿棒"
+      - "紙軸や抗菌加工など衛生面に配慮した仕様"
+      - "保管しやすいケース・パック入り"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F103-4560309820588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12586997%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/vic202402/4560309820588.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenkoo-life%2F103-4560309820588.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 115
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenkoo-life_103-4560309820588"
+        available: true
+  - rank: 2
     name: "うさベビー 抗菌綿棒 ほそめ"
     brand: "山洋"
     price: 162
@@ -33,11 +64,157 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4936613072409.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 196
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4936613072409"
         available: true
-  - rank: 2
+  - rank: 3
+    name: "コットン・ラボ スタンダード綿棒"
+    brand: "コットン・ラボ"
+    price: 139
+    capacity: "200本"
+    pricePerUnit: "約0.69円/本"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "日常の耳まわりや細かなケアに使いやすい綿棒"
+      - "紙軸や抗菌加工など衛生面に配慮した仕様"
+      - "保管しやすいケース・パック入り"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t1zjn.3rdw66fb.g00t1zjn.3rdw7ada/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupplyshop%2F204098%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupplyshop%2Fi%2F10042518%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/supplyshop/cabinet/285/4973202501285.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4973202501285.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 114
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4973202501285"
+        available: true
+  - rank: 4
+    name: "FC ファミリー綿棒"
+    brand: "白十字"
+    price: 158
+    capacity: "200本"
+    pricePerUnit: "約0.79円/本"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "日常の耳まわりや細かなケアに使いやすい綿棒"
+      - "紙軸や抗菌加工など衛生面に配慮した仕様"
+      - "保管しやすいケース・パック入り"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q0qhn.3rdw633b.g00q0qhn.3rdw7469/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwebby%2F50607013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwebby%2Fi%2F14078248%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/webby/cabinet/06142261/4987603109247.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenjoy%2F4987603109247.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 128
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenjoy_4987603109247"
+        available: true
+  - rank: 5
+    name: "ピップ 抗菌綿棒 3個セット"
+    brand: "ピップ"
+    price: 522
+    capacity: "200本×3個"
+    pricePerUnit: "約0.87円/本"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "日常の耳まわりや細かなケアに使いやすい綿棒"
+      - "紙軸や抗菌加工など衛生面に配慮した仕様"
+      - "保管しやすいケース・パック入り"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10155171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10146759%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin70/10155171.jpg?_ex=128x128"
+  - rank: 6
+    name: "黒綿棒"
+    brand: "ビバホーム"
+    price: 227
+    capacity: "200本"
+    pricePerUnit: "約1.1円/本"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "日常の耳まわりや細かなケアに使いやすい綿棒"
+      - "紙軸や抗菌加工など衛生面に配慮した仕様"
+      - "保管しやすいケース・パック入り"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ucs7n.3rdw63ca.g00ucs7n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvivahome%2F46390865%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvivahome%2Fi%2F10000284%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/vivahome/cabinet/img14/46390865.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fi-shop777%2F20230405-menbo.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 90
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/i-shop777_20230405-menbo"
+        available: true
+  - rank: 7
+    name: "アメジスト 抗菌綿棒"
+    brand: "大衛"
+    price: 352
+    capacity: "200本"
+    pricePerUnit: "約1.8円/本"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "日常の耳まわりや細かなケアに使いやすい綿棒"
+      - "紙軸や抗菌加工など衛生面に配慮した仕様"
+      - "保管しやすいケース・パック入り"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ripkn.3rdw6eab.g00ripkn.3rdw7269/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famethyst%2F0479%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famethyst%2Fi%2F10000547%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amethyst/cabinet/tannpinn2/imgrc0064083079.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Famethystwebshop%2F92189.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 352
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/amethystwebshop_92189"
+        available: true
+  - rank: 8
     name: "スパイラル黒綿棒 紙軸 200本入×4個セット"
     brand: "GALLEIDO"
     price: 1430
@@ -59,7 +236,7 @@ products:
     recommendedFor: "耳掃除・メイク直し・精密機器の掃除まで多用途に使いたい、まとめ買いでコスパを求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00urinn.3rdw6454.g00urinn.3rdw7072/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakdailyselect%2Fknn108%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakdailyselect%2Fi%2F10002070%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/akdailyselect/cabinet/top1/12798036/12867086/knn108.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 9
     name: "綿棒 コットン100% 紙軸 お得2パックセット"
     brand: "わごんせる金橋"
     price: 880
@@ -81,7 +258,7 @@ products:
     recommendedFor: "肌にやさしい天然素材を重視したい方、日常の耳掃除やメイク用途に"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rzyyn.3rdw693a.g00rzyyn.3rdw76d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwagonsale-kanahashi%2F4976558005568%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwagonsale-kanahashi%2Fi%2F10005401%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wagonsale-kanahashi/cabinet/03985713/4976558005568_1.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 10
     name: "スパイラル黒綿棒 紙軸"
     brand: "平和メディク"
     price: 853
@@ -108,7 +285,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkintarou%2F4976558006428.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 168
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kintarou_4976558006428"
         available: true

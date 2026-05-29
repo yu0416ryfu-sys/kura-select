@@ -3,7 +3,7 @@ title: "トイレットペーパー シングル コスパランキング【2026
 description: "シングルのトイレットペーパーを1mあたりの価格で比較。長尺・芯なし・まとめ買い向けの商品を厳選して紹介します。"
 category: "toilet-paper"
 publishedAt: "2024-11-01"
-updatedAt: "2026-05-27"
+updatedAt: "2026-05-29"
 products:
   - rank: 1
     name: "森を守ろう トイレットペーパー シングル"
@@ -66,7 +66,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fikurun0810%2F101436.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         matchStatus: "matched"
   - rank: 3
     name: "イットコ スリム シングル 芯なし"
@@ -75,7 +75,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.63円/m"
     rating: 4.66
-    reviewCount: 2692
+    reviewCount: 2695
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
@@ -173,7 +173,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.69円/m"
     rating: 4.77
-    reviewCount: 60
+    reviewCount: 61
     features:
       - "芯なし設計でゴミが出にくい環境配慮型"
       - "150mの長尺ロールで交換頻度を減らせる"
@@ -217,7 +217,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcleanshoponline%2F72014.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cleanshoponline_72014"
         available: true
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
   - rank: 9
     name: "Comfy 芯なし トイレットペーパー シングル"
     brand: "イトマン"

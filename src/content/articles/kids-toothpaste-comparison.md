@@ -1,9 +1,9 @@
 ---
 title: "子ども用歯磨き粉 おすすめランキング【2026年版】フッ素濃度・年齢別に比較"
-description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比較。クリニカKid's・チェックアップ・ライオンこどもハミガキなど人気10選を安全性・効果で解説。"
+description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比較。クリニカKid's・チェックアップ・ライオンこどもハミガキなど人気8選を安全性・効果で解説。"
 category: "toothpaste"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-28
+updatedAt: "2026-05-29"
 products:
   - rank: 1
     name: "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット"
@@ -195,7 +195,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902508104463.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 485
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902508104463"
         available: true

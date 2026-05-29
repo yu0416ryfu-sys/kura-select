@@ -1,9 +1,9 @@
 ---
-title: "キャットフード コスパ比較【2026年版】ドライおすすめ4選"
-description: "ロイヤルカナン・グレインフリーなど人気キャットフードを100gあたり価格で徹底比較。成猫・シニア・グレインフリー・国産タイプの選び方も解説。まとめ買いで賢くコスパを上げる4選。"
+title: "キャットフード コスパ比較【2026年版】ドライおすすめ10選"
+description: "ロイヤルカナン・グレインフリーなど人気キャットフードを100gあたり価格で徹底比較。成猫・シニア・グレインフリー・国産タイプの選び方も解説。まとめ買いで賢くコスパを上げる10選。"
 category: "cat-food"
 publishedAt: "2026-05-27"
-updatedAt: "2026-05-27"
+updatedAt: "2026-05-29"
 draft: false
 products:
   - rank: 1
@@ -32,12 +32,180 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4904879658255-1.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-27"
+        matchStatus: "matched"
+        updatedAt: "2026-05-29"
         price: 968
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4904879658255-1"
         available: true
   - rank: 2
+    name: "ロイヤルカナン インドア 成猫用"
+    brand: "ロイヤルカナン"
+    price: 13949
+    capacity: "10kg"
+    pricePerUnit: "約1395円/kg"
+    rating: 4.73
+    reviewCount: 819
+    features:
+      - "猫向けのドライフードとして使いやすい設計"
+      - "年齢や生活環境に合わせて選びやすいライン"
+      - "保存しやすい袋入り・大容量タイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fw-105176-00-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10013214%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/w-105176-00-00.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F75320.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 13950
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_75320"
+        available: true
+  - rank: 3
+    name: "ロイヤルカナン インドア 4kg"
+    brand: "ロイヤルカナン"
+    price: 6476
+    capacity: "4kg"
+    pricePerUnit: "約1619円/kg"
+    rating: 4.64
+    reviewCount: 666
+    features:
+      - "猫向けのドライフードとして使いやすい設計"
+      - "年齢や生活環境に合わせて選びやすいライン"
+      - "保存しやすい袋入り・大容量タイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9214406%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10000607%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/logo/9214406.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687275.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 6476
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687275"
+        available: true
+  - rank: 4
+    name: "ニュートロ ナチュラルチョイス キャット"
+    brand: "ニュートロ"
+    price: 3980
+    capacity: "2kg"
+    pricePerUnit: "約1990円/kg"
+    rating: 4.66
+    reviewCount: 762
+    features:
+      - "猫向けのドライフードとして使いやすい設計"
+      - "年齢や生活環境に合わせて選びやすいライン"
+      - "保存しやすい袋入り・大容量タイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q36gn.3rdw6dbe.g00q36gn.3rdw737d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnyanzaq%2Fmtm0061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnyanzaq%2Fi%2F10140829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nyanzaq/cabinet/534/404534.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2Fnutrocat0102.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 4080
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_nutrocat0102"
+        available: true
+  - rank: 5
+    name: "ロイヤルカナン キトン"
+    brand: "ロイヤルカナン"
+    price: 4007
+    capacity: "2kg"
+    pricePerUnit: "約2004円/kg"
+    rating: 4.73
+    reviewCount: 529
+    features:
+      - "猫向けのドライフードとして使いやすい設計"
+      - "年齢や生活環境に合わせて選びやすいライン"
+      - "保存しやすい袋入り・大容量タイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9214398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10000603%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/logo/9214398_e-net.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687270.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 4006
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687270"
+        available: true
+  - rank: 6
+    name: "ナチュラルバランス オリジナルウルトラ"
+    brand: "Natural Balance"
+    price: 5000
+    capacity: "800g×2袋"
+    pricePerUnit: "約3.1円/g"
+    rating: 4.78
+    reviewCount: 673
+    features:
+      - "猫向けのドライフードとして使いやすい設計"
+      - "年齢や生活環境に合わせて選びやすいライン"
+      - "保存しやすい袋入り・大容量タイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qkobn.3rdw6b85.g00qkobn.3rdw7023/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpluxe1%2F10007190%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpluxe1%2Fi%2F10007190%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pluxe1/cabinet/12199513/nb-ui-2.jpg?_ex=128x128"
+  - rank: 7
+    name: "キアオラ キャットフード カンガルー 2.7kg"
+    brand: "キアオラ"
+    price: 10670
+    capacity: "2.7kg"
+    pricePerUnit: "約3.95円/g"
+    rating: 4.83
+    reviewCount: 6
+    features:
+      - "グレインフリー・グルテンフリーのアレルギー対応設計"
+      - "カンガルー肉を主原料とした珍しいタンパク源を使用"
+      - "子猫〜成猫〜シニアまで全年齢対応の総合栄養食"
+    pros:
+      - "チキン・フィッシュなど一般的なタンパクへのアレルギーがある猫に向いている"
+      - "穀物不使用で消化器系が敏感な猫にも選ばれやすい"
+      - "2.7kgのまとめ買いサイズで継続給餌しやすい量"
+    cons:
+      - "カンガルー肉という珍しい原料に猫が慣れるまで時間がかかる場合がある"
+      - "一般的なフードと比べると1食あたりのコストが高め"
+    recommendedFor: "食物アレルギーがある猫・これまでのフードで消化不良が気になっている方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uc5nn.3rdw6501.g00uc5nn.3rdw7ae7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fruffruff%2F4963974020756%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fruffruff%2Fi%2F10000465%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ruffruff/cabinet/10742942/10981098/31.jpg?_ex=128x128"
+  - rank: 8
     name: "ねこままちょいす ドライフード 成猫用 500g"
     brand: "犬猫自然食本舗"
     price: 2200
@@ -59,7 +227,29 @@ products:
     recommendedFor: "国産・無添加フードを選びたい成猫オーナー・添加物を気にする方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ryhin.3rdw69af.g00ryhin.3rdw7f8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finunekohonpo%2F90053%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finunekohonpo%2Fi%2F10000280%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inunekohonpo/cabinet/cf/nekomama/nekomama_new2023se.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 9
+    name: "ピュリナワン キャット"
+    brand: "PURINA ONE"
+    price: 2280
+    capacity: "1個"
+    pricePerUnit: "約2280円/個"
+    rating: 4.65
+    reviewCount: 881
+    features:
+      - "猫向けのドライフードとして使いやすい設計"
+      - "年齢や生活環境に合わせて選びやすいライン"
+      - "保存しやすい袋入り・大容量タイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q36gn.3rdw6dbe.g00q36gn.3rdw737d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnyanzaq%2Fmtm0457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnyanzaq%2Fi%2F10140818%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nyanzaq/cabinet/565/404565.jpg?_ex=128x128"
+  - rank: 10
     name: "ロイヤルカナン インドア 7+ 室内中高齢猫用 3.5kg"
     brand: "ロイヤルカナン"
     price: 5759
@@ -81,28 +271,6 @@ products:
     recommendedFor: "7歳以上の室内シニア猫を飼っている方・プレミアムブランドで安定した品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9217328%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10026150%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/logo/9217328.jpg?_ex=128x128"
-  - rank: 4
-    name: "キアオラ キャットフード カンガルー 2.7kg"
-    brand: "キアオラ"
-    price: 10670
-    capacity: "2.7kg"
-    pricePerUnit: "0円/100g"
-    rating: 4.83
-    reviewCount: 6
-    features:
-      - "グレインフリー・グルテンフリーのアレルギー対応設計"
-      - "カンガルー肉を主原料とした珍しいタンパク源を使用"
-      - "子猫〜成猫〜シニアまで全年齢対応の総合栄養食"
-    pros:
-      - "チキン・フィッシュなど一般的なタンパクへのアレルギーがある猫に向いている"
-      - "穀物不使用で消化器系が敏感な猫にも選ばれやすい"
-      - "2.7kgのまとめ買いサイズで継続給餌しやすい量"
-    cons:
-      - "カンガルー肉という珍しい原料に猫が慣れるまで時間がかかる場合がある"
-      - "一般的なフードと比べると1食あたりのコストが高め"
-    recommendedFor: "食物アレルギーがある猫・これまでのフードで消化不良が気になっている方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uc5nn.3rdw6501.g00uc5nn.3rdw7ae7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fruffruff%2F4963974020756%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fruffruff%2Fi%2F10000465%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ruffruff/cabinet/10742942/10981098/31.jpg?_ex=128x128"
 tags:
   - "キャットフード おすすめ"
   - "キャットフード コスパ"

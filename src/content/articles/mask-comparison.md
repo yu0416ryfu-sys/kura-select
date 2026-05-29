@@ -3,7 +3,7 @@ title: "使い捨てマスク コスパ最強ランキング【2026年版】1枚
 description: "使い捨て不織布マスクを1枚あたりのコストで徹底比較。超快適マスク・i:na・アイリスオーヤマ・バイキングなど人気10選を快適性・コスパで解説します。"
 category: "mask"
 publishedAt: "2026-05-03"
-updatedAt: "2026-05-27"
+updatedAt: "2026-05-29"
 products:
   - rank: 1
     name: "立体不織布マスク バイカラー 50枚"
@@ -12,7 +12,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約5.3円/枚"
     rating: 4.19
-    reviewCount: 22047
+    reviewCount: 22048
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -49,6 +49,15 @@ products:
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rgdwn.3rdw6bcc.g00rgdwn.3rdw740b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fweiwei%2Fbwm2yp50%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fweiwei%2Fi%2F10022826%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/weiwei/cabinet/shouhin-image03/bwm2yp50.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fweimall%2Fbwm2yp50.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-29"
+        price: 480
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/weimall_bwm2yp50"
+        available: true
   - rank: 3
     name: "子供用 3D不織布マスク 51枚"
     brand: "MTKSHOP"
@@ -56,7 +65,7 @@ products:
     capacity: "51枚"
     pricePerUnit: "約7.8円/枚"
     rating: 4.22
-    reviewCount: 5748
+    reviewCount: 5749
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -100,7 +109,7 @@ products:
     capacity: "20枚"
     pricePerUnit: "約14円/枚"
     rating: 4.06
-    reviewCount: 9166
+    reviewCount: 9171
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -144,7 +153,7 @@ products:
     capacity: "120枚"
     pricePerUnit: "約21円/枚"
     rating: 4.19
-    reviewCount: 2725
+    reviewCount: 2726
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -208,7 +217,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft0090-01-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 2163
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t0090-01-a"
         available: true

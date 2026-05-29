@@ -1,9 +1,9 @@
 ---
 title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
-description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ6選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
+description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ10選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
-updatedAt: "2026-05-27"
+updatedAt: "2026-05-29"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -12,7 +12,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約4.7円/枚"
     rating: 4.77
-    reviewCount: 1480
+    reviewCount: 1482
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2Fpphalf300.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 1395
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_pphalf300"
         available: true
@@ -81,6 +81,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902393558198-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10068514%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic201404/4902393558198_1.jpg?_ex=128x128"
   - rank: 4
+    name: "ごみ袋 箱タイプ 45リットル 半透明 65x80cm 0.015mm厚 100枚x"
+    brand: "ごみ袋"
+    price: 2200
+    capacity: "100枚x2"
+    pricePerUnit: "約11円/枚"
+    rating: 4.65
+    reviewCount: 181
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fbx-530box2kobako%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10001012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/ecotaibox/bx/45l/bx-530n_2k.jpg?_ex=128x128"
+  - rank: 5
     name: "とって付きビニール袋 ごみ袋 20L〜25L 20枚×4セット"
     brand: "日本サニパック"
     price: 1000
@@ -102,7 +124,7 @@ products:
     recommendedFor: "洗面所・トイレ・デスク周りなど小型ゴミ箱を複数使いする方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ty6dn.3rdw6ecc.g00ty6dn.3rdw797e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftbnexus%2Fsanipak-yc29%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftbnexus%2Fi%2F10000128%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tbnexus/cabinet/item2/sanipak-yc29_1.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "HEIKO PPパン袋 20-30 300枚"
     brand: "HEIKO"
     price: 3980
@@ -133,7 +155,7 @@ products:
         price: 1375
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_2030l300"
         available: true
-  - rank: 6
+  - rank: 7
     name: "KT43 取っ手付きポリ袋 45L 半透明"
     brand: "ハウスホールドジャパン"
     price: 2974
@@ -155,6 +177,81 @@ products:
     recommendedFor: "45Lゴミ箱を使う家庭、取っ手付きゴミ袋を好む方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4580287300940-005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12059341%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2021a/4580287300940.jpg?_ex=128x128"
+  - rank: 8
+    name: "ごみ袋 箱タイプ 45リットル 半透明 65x80cm 0.030mm厚 100枚 "
+    brand: "ごみ袋"
+    price: 2400
+    capacity: "100枚"
+    pricePerUnit: "約24円/枚"
+    rating: 4.7
+    reviewCount: 130
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fhk-440ecoboxkobako%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10000748%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/ecotaibox/hk/45l/hk-440no_k.jpg?_ex=128x128"
+  - rank: 9
+    name: "HD-890 半透明 70L"
+    brand: "ケミカルジャパン"
+    price: 2757
+    capacity: "100枚"
+    pricePerUnit: "約28円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4991437150665%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11308988%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/665/4991437150665.jpg?_ex=128x128"
+  - rank: 10
+    name: "ゴミ袋 90L 業務用 厚手"
+    brand: "ケイヨウ実業"
+    price: 5780
+    capacity: "50枚×4冊"
+    pricePerUnit: "約29円/枚"
+    rating: 3.42
+    reviewCount: 12
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00umsyn.3rdw6998.g00umsyn.3rdw7ed2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeiyoujitsugyou%2Fk2403%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeiyoujitsugyou%2Fi%2F10000015%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keiyoujitsugyou/cabinet/11027154/imgrc0102878245.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpoly-life%2Fkpl-450-2pc.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 2580
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/poly-life_kpl-450-2pc"
+        available: true
 tags:
   - "ゴミ袋"
   - "コスパ"

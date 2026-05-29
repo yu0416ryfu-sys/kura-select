@@ -3,7 +3,7 @@ title: "虫除けスプレー おすすめランキング【2026年版】成分�
 description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分・使いやすさで比較。イカリジン系・DEET系・天然成分系の特徴と用途別おすすめランキングを紹介します。"
 category: "insect-repellent"
 publishedAt: "2026-05-22"
-updatedAt: 2026-05-28
+updatedAt: "2026-05-29"
 draft: false
 products:
   - rank: 1
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902424446593.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 881
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902424446593"
         available: true
@@ -103,6 +103,15 @@ products:
     recommendedFor: "室内や玄関まわりの虫の侵入対策を手軽にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhp6n.3rdw613e.g00uhp6n.3rdw7d67/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwoddylabo%2F4560437941414%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwoddylabo%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/woddylabo/cabinet/product/01/11722292/imgrc0166376409.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fa1-shop%2F67-7283-85.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 1881
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/a1-shop_67-7283-85"
+        available: true
   - rank: 5
     name: "ヒバNON NON"
     brand: "ダイレクトテレショップ"
@@ -152,7 +161,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faroma-spray%2Fsp-bug-100-100e.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 2980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aroma-spray_sp-bug-100-100e"
         available: true
@@ -183,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyoga-pi%2Fperfect-potion-110931cd-125.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 1870
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yoga-pi_perfect-potion-110931cd-125"
         available: true
@@ -236,7 +245,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fease-aroma%2Fspfod003002set.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 1320
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ease-aroma_spfod003002set"
         available: true

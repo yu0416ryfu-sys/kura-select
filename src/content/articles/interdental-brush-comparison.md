@@ -1,12 +1,43 @@
 ---
-title: "歯間ブラシ コスパ比較【2026年版】おすすめ4選"
-description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシをサイズ・1本あたり価格で徹底比較。L字型とI字型の違いや選び方も解説。まとめ買いでコスパを上げたい方に最適な4選。"
+title: "歯間ブラシ コスパ比較【2026年版】おすすめ10選"
+description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシをサイズ・1本あたり価格で徹底比較。L字型とI字型の違いや選び方も解説。まとめ買いでコスパを上げたい方に最適な10選。"
 category: "toothpaste"
 publishedAt: "2026-05-27"
-updatedAt: "2026-05-27"
+updatedAt: "2026-05-29"
 draft: false
 products:
   - rank: 1
+    name: "Dr.デンリスト こども糸ピックス 30本入×4個 (対象年齢2歳から)子供用 歯間"
+    brand: "楽天市場"
+    price: 1099
+    capacity: "30本×4個"
+    pricePerUnit: "約9.2円/本"
+    rating: 4.8
+    reviewCount: 311
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rzyyn.3rdw693a.g00rzyyn.3rdw76d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwagonsale-kanahashi%2F4901387051189-z-s-4-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwagonsale-kanahashi%2Fi%2F10002834%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wagonsale-kanahashi/cabinet/11346547/4901387051189z4p01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale-kanahashi%2F4901387051189-z-s-4-1.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 1099
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale-kanahashi_4901387051189-z-s-4-1"
+        available: true
+  - rank: 2
     name: "サンスター GUM 歯間ブラシ I字型 SSS 20本入"
     brand: "サンスター（GUM）"
     price: 295
@@ -32,12 +63,12 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901616216099.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-27"
+        matchStatus: "matched"
+        updatedAt: "2026-05-29"
         price: 245
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901616216099"
         available: true
-  - rank: 2
+  - rank: 3
     name: "サンスター GUM 歯間ブラシ I字型 S 20本×10セット"
     brand: "サンスター（GUM）"
     price: 3380
@@ -59,7 +90,7 @@ products:
     recommendedFor: "家族複数人での使用や定期まとめ買いでコストを徹底的に抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00scoyn.3rdw6027.g00scoyn.3rdw72a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsugartime%2Fkzsuns-79%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsugartime%2Fi%2F10189519%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sugartime/cabinet/kz/kzsuns/kzsuns-79.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "デンタルプロ 歯間ブラシ L字型 SS 10本入"
     brand: "デンタルプロ"
     price: 288
@@ -85,12 +116,12 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4973227306025.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-27"
+        matchStatus: "matched"
+        updatedAt: "2026-05-29"
         price: 289
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4973227306025"
         available: true
-  - rank: 4
+  - rank: 5
     name: "デンタルプロ 歯間ブラシ I字型 Mサイズ 15本入"
     brand: "デンタルプロ"
     price: 467
@@ -116,10 +147,165 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-27"
+        matchStatus: "matched"
+        updatedAt: "2026-05-29"
         price: 247
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
+        available: true
+  - rank: 6
+    name: "オーラルケア フロアフロス 250m 詰め替え用 歯科専売品 fluorfloss"
+    brand: "楽天市場"
+    price: 2640
+    capacity: "250m"
+    pricePerUnit: "約11円/m"
+    rating: 4.8
+    reviewCount: 242
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F0090024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000767%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/0090024_001.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 2998
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
+        available: true
+  - rank: 7
+    name: "オーラルケア フロアフロス 250m"
+    brand: "オーラルケア"
+    price: 2998
+    capacity: "250m"
+    pricePerUnit: "約12円/m"
+    rating: 4.7
+    reviewCount: 469
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fpppp25%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg01/pppp25_15thsam01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 2998
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
+        available: true
+  - rank: 8
+    name: "オーラルケア フロアフロス 250m 歯科専売品 fluorfloss"
+    brand: "楽天市場"
+    price: 3080
+    capacity: "250m"
+    pricePerUnit: "約12円/m"
+    rating: 4.76
+    reviewCount: 546
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F0090023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000766%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/0090023_001.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 2998
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
+        available: true
+  - rank: 9
+    name: "オーラルケア フロアフロス 45m 2個セット (メール便9点まで)"
+    brand: "オーラルケア"
+    price: 1595
+    capacity: "45m"
+    pricePerUnit: "約35円/m"
+    rating: 4.64
+    reviewCount: 1098
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008759%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/07319599/49759_n.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F49760.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 2230
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_49760"
+        available: true
+  - rank: 10
+    name: "REACH リーチ／デンタルフロス 55ヤード(50.2m)×6個入り ワックス・ノ"
+    brand: "REACH"
+    price: 2200
+    capacity: "2m×6個"
+    pricePerUnit: "約183円/m"
+    rating: 4.67
+    reviewCount: 452
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F29860%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10002771%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shohin09/reach29860-sam.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F3008301set.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 2392
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_3008301set"
         available: true
 tags:
   - "歯間ブラシ おすすめ"

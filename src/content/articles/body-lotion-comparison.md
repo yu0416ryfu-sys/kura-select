@@ -1,12 +1,65 @@
 ---
-title: "ボディローション コスパ比較【2026年版】ボディミルクおすすめ4選"
+title: "ボディローション コスパ比較【2026年版】ボディミルクおすすめ10選"
 description: "毎日のボディケアに使うローション・ボディミルクをmLあたり単価で比較。植物由来・敏感肌向け・セラミド系など人気4商品を成分と使いやすさで比較します。"
 category: "body-lotion"
 publishedAt: "2026-05-25"
-updatedAt: "2026-05-26"
+updatedAt: "2026-05-29"
 draft: false
 products:
   - rank: 1
+    name: "ヴァセリン アドバンスドリペア ボディローション 500ml×3本 フェイス ボディ"
+    brand: "ヴァセリン"
+    price: 2278
+    capacity: "500ml×3"
+    pricePerUnit: "約1.5円/ml"
+    rating: 4.78
+    reviewCount: 138
+    features:
+      - "全身の保湿に使いやすいローションタイプ"
+      - "ポンプや大容量など日常使いしやすい設計"
+      - "家族で使いやすい処方・使用感を意識した商品"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sa3qn.3rdw64a4.g00sa3qn.3rdw76a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopavail%2F1605%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopavail%2Fi%2F10001450%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shopavail/cabinet/nichiyouzakka/compass1707355688.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4902111777009-3.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 2298
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4902111777009-3"
+        available: true
+  - rank: 2
+    name: "3種のヒアルロン酸配合スキンローション 600ml 化粧水 大容量 ヒアルロン酸化粧"
+    brand: "3種のヒアルロン酸配合スキンローショ"
+    price: 1100
+    capacity: "600ml"
+    pricePerUnit: "約1.8円/ml"
+    rating: 4.59
+    reviewCount: 548
+    features:
+      - "全身の保湿に使いやすいローションタイプ"
+      - "ポンプや大容量など日常使いしやすい設計"
+      - "家族で使いやすい処方・使用感を意識した商品"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F4731%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10000232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/04815981/4731-m01.jpg?_ex=128x128"
+  - rank: 3
     name: "ビオレu お風呂で使ううるおいミルク"
     brand: "花王（ビオレu）"
     price: 618
@@ -33,11 +86,11 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301342416.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 618
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301342416"
         available: true
-  - rank: 2
+  - rank: 4
     name: "ダイアンボタニカル ボディミルク"
     brand: "Moist Diane（ネイチャーラボ）"
     price: 1097
@@ -59,7 +112,7 @@ products:
     recommendedFor: "ボタニカル系成分にこだわりたい人・家族でシェアして使いたい人・甘めの香りが好きな人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2F4560119225856%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10004604%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/product-images/single-item/4560119225856_1.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 5
     name: "セラミエイド 薬用スキンミルク"
     brand: "池田模範堂（セラミエイド）"
     price: 2420
@@ -86,11 +139,11 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4971710568530.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-29"
         price: 2028
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4971710568530"
         available: true
-  - rank: 4
+  - rank: 6
     name: "キュレル ローション"
     brand: "花王（キュレル）"
     price: 3850
@@ -112,6 +165,112 @@ products:
     recommendedFor: "敏感肌・乾燥肌の人・香料や着色料を避けたい人・大容量でコスパよく使い続けたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r83in.3rdw69a4.g00r83in.3rdw71ae/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fv-drug%2F0270030_4901301417503_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fv-drug%2Fi%2F10119920%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/v-drug/cabinet/0211/4901301417503.jpg?_ex=128x128"
+  - rank: 7
+    name: "ママフィ 潤いミルキーローション (本体350ml/つめかえ用310ml) 赤ちゃん"
+    brand: "楽天市場"
+    price: 3080
+    capacity: "350ml"
+    pricePerUnit: "約8.8円/ml"
+    rating: 4.74
+    reviewCount: 576
+    features:
+      - "全身の保湿に使いやすいローションタイプ"
+      - "ポンプや大容量など日常使いしやすい設計"
+      - "家族で使いやすい処方・使用感を意識した商品"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tds4n.3rdw67bf.g00tds4n.3rdw7dc8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuishodo-pharma%2F4987314009041%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuishodo-pharma%2Fi%2F10000040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suishodo-pharma/cabinet/item/ml350-310_thm-500off.jpg?_ex=128x128"
+  - rank: 8
+    name: "ベビーローション 乳液 大容量 300ml 保湿 無添加 オーガニック 赤ちゃん ベ"
+    brand: "ベビーローション"
+    price: 4180
+    capacity: "300ml"
+    pricePerUnit: "約14円/ml"
+    rating: 4.7
+    reviewCount: 2928
+    features:
+      - "全身の保湿に使いやすいローションタイプ"
+      - "ポンプや大容量など日常使いしやすい設計"
+      - "家族で使いやすい処方・使用感を意識した商品"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r8u8n.3rdw60ec.g00r8u8n.3rdw72c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmishii-list%2Fbabyborn%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmishii-list%2Fi%2F10001646%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mishii-list/cabinet/item/thum_190219/r4_babyborn.jpg?_ex=128x128"
+  - rank: 9
+    name: "ヴァセリン アドバンスドリペア ボディローション 3本セット(500mlx3) バセ"
+    brand: "ヴァセリン"
+    price: 2278
+    capacity: "3本"
+    pricePerUnit: "約759円/本"
+    rating: 4.78
+    reviewCount: 504
+    features:
+      - "全身の保湿に使いやすいローションタイプ"
+      - "ポンプや大容量など日常使いしやすい設計"
+      - "家族で使いやすい処方・使用感を意識した商品"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sqv7n.3rdw62c1.g00sqv7n.3rdw70e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifedesignstore%2Fcg-0003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flifedesignstore%2Fi%2F10000120%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lifedesignstore/cabinet/07283645/cg-0003rrr.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F56770.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 2280
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_56770"
+        available: true
+  - rank: 10
+    name: "フィルベビーリペア 高保湿ミルクローション 380g|0ヵ月〜 ピジョン ローション"
+    brand: "ピジョン"
+    price: 4840
+    capacity: "380g"
+    pricePerUnit: "約13円/g"
+    rating: 4.79
+    reviewCount: 487
+    features:
+      - "全身の保湿に使いやすいローションタイプ"
+      - "ポンプや大容量など日常使いしやすい設計"
+      - "家族で使いやすい処方・使用感を意識した商品"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgivn.3rdw6956.g00tgivn.3rdw72f6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpigeon-shop%2F1018899%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpigeon-shop%2Fi%2F10000357%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pigeon-shop/cabinet/ab-test/1018899_01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpigeon-shop%2F1035259.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-29"
+        price: 4598
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_1035259"
+        available: true
 tags:
   - "ボディローション おすすめ"
   - "ボディミルク コスパ"
