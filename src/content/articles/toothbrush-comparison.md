@@ -3,7 +3,7 @@ title: "歯ブラシ コスパ最強ランキング【2026年版】1本あたり
 description: "歯ブラシを1本あたりのコストで徹底比較。システマ・クリニカ・GUM・タフト24など人気10選を磨き心地・耐久性・コスパで解説します。"
 category: "toothpaste"
 publishedAt: "2026-05-01"
-updatedAt: "2026-05-29"
+updatedAt: "2026-05-30"
 products:
   - rank: 1
     name: "Shu&Shu 歯ブラシ"
@@ -98,10 +98,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b08r866z1m-20260329.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1488
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b08r866z1m-20260329"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 5
     name: "キャラクター子ども歯ブラシ"
     brand: "Ciメディカル"
@@ -109,7 +111,7 @@ products:
     capacity: "30本"
     pricePerUnit: "約70円/本"
     rating: 4.76
-    reviewCount: 3734
+    reviewCount: 3735
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -217,10 +219,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Ft24z.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1398
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_t24z"
         available: true
+        rating: 4.63
+        reviewCount: 2614
   - rank: 10
     name: "オーラルB 互換替えブラシ"
     brand: "オーラルB互換"

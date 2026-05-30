@@ -31,11 +31,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2Fm7255398.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 6980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_m7255398"
         available: true
+        rating: 5
+        reviewCount: 8
   - rank: 2
     name: "ムーニーナチュラル テープ"
     brand: "ムーニー"
@@ -172,11 +174,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 6688
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true
+        rating: 4.73
+        reviewCount: 49
   - rank: 8
     name: "パンパース はじめての肌へのいちばん 新生児小さめ"
     brand: "Pampers"
@@ -204,10 +208,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4987176238498.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4987176238498"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 9
     name: "パンパース テープ コットンケア"
     brand: "Pampers"

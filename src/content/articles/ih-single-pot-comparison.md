@@ -3,7 +3,7 @@ title: "IH対応一人用鍋おすすめ比較10選｜16cm・18cmの選び方"
 description: "IH対応の一人用鍋を16cm・18cm中心に11製品比較。卓上鍋、ホーロー、片手鍋など少人数調理に使いやすい鍋を選び方とあわせて紹介します。"
 category: "cooking-pot"
 publishedAt: "2026-05-10"
-updatedAt: 2026-05-29
+updatedAt: 2026-05-30
 draft: false
 products:
   - rank: 1
@@ -207,7 +207,7 @@ products:
   - rank: 10
     name: "ひとり用鍋 浅型 17cm IH対応 蓋付 LD-485"
     brand: "ベストコ"
-    price: 1090
+    price: 1190
     capacity: "17cm / 約1.1L"
     pricePerUnit: "1個あたり約0円"
     rating: 4.5

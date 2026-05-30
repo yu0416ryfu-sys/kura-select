@@ -35,7 +35,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
+        rating: 0
+        reviewCount: 0
   - rank: 2
     name: "エリエール　グーン　スーパービッグ　テープ止めタイプ"
     brand: "大王製紙（グーン）"
@@ -66,7 +68,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_60000000002751"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
+        rating: 0
+        reviewCount: 1
   - rank: 3
     name: "オヤスミマン 男の子 ビッグ以上"
     brand: "ユニ・チャーム（ムーニー）"
@@ -92,12 +96,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        price: 5214
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4903111211647x3.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111211647x3"
+        price: 4437
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111211647x3.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111211647x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
+        rating: 4.73
+        reviewCount: 56
   - rank: 4
     name: "オヤスミマン 女の子 ビッグ以上"
     brand: "ユニ・チャーム（ムーニー）"
@@ -123,12 +129,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        price: 5214
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4903111211807x3.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111211807x3"
+        price: 4437
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111211807x3.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111211807x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-30"
+        rating: 4.93
+        reviewCount: 43
   - rank: 5
     name: "グーン スーパーBIG パンツタイプ ケース販売 84枚"
     brand: "大王製紙（グーン）"
@@ -151,6 +159,17 @@ products:
     recommendedFor: "グーンのスーパーBIGをケースでまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugwmn.3rdw60bf.g00ugwmn.3rdw7c2e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcleanexpert1%2Fdos263-r6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcleanexpert1%2Fi%2F10000371%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cleanexpert1/cabinet/12083805/12083806/dos263-6_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseedeck%2Fdos263-r6.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-30"
+        price: 7580
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/seedeck_dos263-r6"
+        available: true
   - rank: 6
     name: "グーン スーパーBIG パンツタイプ 14枚"
     brand: "大王製紙（グーン）"
@@ -181,7 +200,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4902011743081-1"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
+        rating: 5
+        reviewCount: 3
   - rank: 7
     name: "グーン スーパービッグ パンツタイプ"
     brand: "大王製紙（グーン）"
@@ -207,12 +228,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        price: 1254
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4902011743081-1.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4902011743081-1"
+        price: 1397
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffinespharma%2F4902011743081.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/finespharma_4902011743081"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
+        rating: 5
+        reviewCount: 4
   - rank: 8
     name: "ムーニーマン スーパービッグ 男の子"
     brand: "ユニ・チャーム（ムーニー）"
@@ -243,7 +266,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171675x6"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
+        rating: 0
+        reviewCount: 1
   - rank: 9
     name: "ムーニーマン スーパービッグ 女の子"
     brand: "ユニ・チャーム（ムーニー）"
@@ -274,7 +299,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171750x6"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
+        rating: 0
+        reviewCount: 0
   - rank: 10
     name: "あんしんGenki！パンツ ビッグ"
     brand: "アイリスオーヤマ"

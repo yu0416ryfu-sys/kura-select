@@ -76,10 +76,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7666919.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 5570
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_7666919"
         available: true
+        rating: 4.77
+        reviewCount: 550
   - rank: 4
     name: "ハロー トイレットペーパー ダブル 2倍巻き"
     brand: "ハロー"
@@ -129,10 +131,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9620643.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 3880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9620643"
         available: true
+        rating: 4.77
+        reviewCount: 133
   - rank: 6
     name: "エリエール トイレットティシュー たっぷり長持ち ダブル 12ロール×6個セット"
     brand: "大王製紙（エリエール）"

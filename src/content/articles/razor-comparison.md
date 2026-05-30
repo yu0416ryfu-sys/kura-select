@@ -54,11 +54,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r005-4901331004377.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 2013
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r005-4901331004377"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 3
     name: "プログライド マニュアル 替刃 8個"
     brand: "ジレット（Gillette）"
@@ -213,6 +215,17 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sqv7n.3rdw62c1.g00sqv7n.3rdw70e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifedesignstore%2Fcg-0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flifedesignstore%2Fi%2F10000023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lifedesignstore/cabinet/cg/cg-0001.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fxwpio%2Fpost-schlickhydro16-4891228309626.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-30"
+        price: 2675
+        rating: 4.74
+        reviewCount: 246
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/xwpio_post-schlickhydro16-4891228309626"
+        available: true
   - rank: 10
     name: "ヘンソンシェービング AL13 スタンダード"
     brand: "Henson Shaving"

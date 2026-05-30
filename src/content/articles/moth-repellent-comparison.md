@@ -76,10 +76,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F4658568.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 764
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_4658568"
         available: true
+        rating: 4.63
+        reviewCount: 8
   - rank: 4
     name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入"
     brand: "エステー（ムシューダ）"
@@ -107,10 +109,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901070303045.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 858
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901070303045"
         available: true
+        rating: 4.66
+        reviewCount: 86
   - rank: 5
     name: "ムシューダ 1年間有効 引き出し・衣装ケース用"
     brand: "エステー（ムシューダ）"
@@ -138,10 +142,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901070303021.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 748
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901070303021"
         available: true
+        rating: 4.56
+        reviewCount: 9
   - rank: 6
     name: "大日本除蟲菊 タンスにゴンゴン 衣類の防虫剤 クローゼット用 無臭"
     brand: "白元アース（タンスにゴン）"
@@ -169,10 +175,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F3685161.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 609
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_3685161"
         available: true
+        rating: 0
+        reviewCount: 2
   - rank: 7
     name: "ムシューダ クローゼット用 防カビ剤配合 無香タイプ 1年間有効 3個入×5箱セット"
     brand: "エステー（ムシューダ）"
@@ -244,10 +252,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuzuberu%2F20260410021305-01515.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2241
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/suzuberu_20260410021305-01515"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 10
     name: "ムシューダ ウォークインクローゼット専用 無香タイプ 1年間有効 3個入×3箱セット"
     brand: "エステー（ムシューダ）"

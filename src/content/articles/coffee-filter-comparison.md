@@ -33,10 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk18853-a2201.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 481
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk18853-a2201"
         available: true
+        rating: 4.86
+        reviewCount: 7
   - rank: 2
     name: "【カリタ】コーヒーフィルターみさらし101濾紙1〜2人用/"
     brand: "カリタ"
@@ -64,10 +66,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhiroshimacoffee%2Fcafe-60.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 187
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hiroshimacoffee_cafe-60"
         available: true
+        rating: 4.75
+        reviewCount: 4
   - rank: 3
     name: "珈琲考具 コットンフィルター 1-2杯用"
     brand: "下村企販"
@@ -95,10 +99,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshimomurakihan%2F43451.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 660
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shimomurakihan_43451"
         available: true
+        rating: 4.57
+        reviewCount: 14
   - rank: 4
     name: "珈琲考具 コットンフィルター 2-4杯用"
     brand: "下村企販"
@@ -126,10 +132,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshimomurakihan%2F43452.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 770
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shimomurakihan_43452"
         available: true
+        rating: 4.53
+        reviewCount: 17
   - rank: 5
     name: "ドリップバッグフィルター 1杯用 200枚"
     brand: "国内メーカー品"
@@ -157,10 +165,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fuminari%2Fa3jdxc00014st.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/uminari_a3jdxc00014st"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 6
     name: "リネン コーヒーフィルター 3枚入り"
     brand: "WPB-shop.R"
@@ -188,10 +198,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fultramix%2Fif-filter-mx.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2208
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ultramix_if-filter-mx"
         available: true
+        rating: 5
+        reviewCount: 5
   - rank: 7
     name: "キーコーヒー コーヒーフィルター 無漂白 100枚"
     brand: "キーコーヒー"

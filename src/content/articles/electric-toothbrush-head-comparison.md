@@ -33,10 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fninestars%2Fse4-br.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 3408
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ninestars_se4-br"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 2
     name: "オーラルB互換ブラシ EB17 EB10"
     brand: "e-shop aoakua"
@@ -205,10 +207,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foralb-braun%2Fultimate2-4-p.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 8338
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oralb-braun_ultimate2-4-p"
         available: true
+        rating: 4.79
+        reviewCount: 39
   - rank: 9
     name: "ソニッケアー プレミアムクリーン 替えブラシ レギュラー 3本組"
     brand: "Philips Sonicare"
@@ -236,10 +240,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fphilips-japan%2Fhx9043.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 4980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/philips-japan_hx9043"
         available: true
+        rating: 4.57
+        reviewCount: 54
   - rank: 10
     name: "オーラルB ラディアントホワイト iO専用"
     brand: "Braun"
@@ -266,11 +272,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fi-ha%2F27000052.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 3300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/i-ha_27000052"
         available: true
+        rating: 0
+        reviewCount: 2
 tags:
   - "電動歯ブラシ替えブラシ おすすめ"
   - "電動歯ブラシ替えブラシ コスパ"

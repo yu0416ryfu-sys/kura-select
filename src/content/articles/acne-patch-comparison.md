@@ -3,7 +3,7 @@ title: "ニキビパッチ コスパ比較【2026年版】おすすめ8選"
 description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚あたり価格で徹底比較。ヒドロコロイド素材の選び方・薄さ・目立ちにくさを解説。まとめ買いでコスパを上げるおすすめ8選。"
 category: "acne-patch"
 publishedAt: "2026-05-27"
-updatedAt: 2026-05-29
+updatedAt: "2026-05-30"
 draft: false
 products:
   - rank: 1
@@ -33,10 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvirginbeautyshop%2Fta-the-sp.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 860
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/virginbeautyshop_ta-the-sp"
         available: true
+        rating: 4.29
+        reviewCount: 414
   - rank: 2
     name: "VT PRO CICA クリアスポットパッチ 48枚×3個セット"
     brand: "VT Cosmetics"
@@ -44,7 +46,7 @@ products:
     capacity: "144枚"
     pricePerUnit: "約14円/枚"
     rating: 4.68
-    reviewCount: 962
+    reviewCount: 963
     features:
       - "VT PRO CICAシリーズ 48枚入り×3個のまとめ買いセット"
       - "CICA配合ハイドロゲル素材で2サイズ使い分け可能"
@@ -196,10 +198,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvely-vely%2F8809559624031yt.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/vely-vely_8809559624031yt"
         available: true
+        rating: 4.65
+        reviewCount: 17
 tags:
   - "ニキビパッチ おすすめ"
   - "ニキビパッチ コスパ"

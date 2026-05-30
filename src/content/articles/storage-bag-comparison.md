@@ -54,10 +54,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F6618319.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1463
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_6618319"
         available: true
+        rating: 4.82
+        reviewCount: 11
   - rank: 3
     name: "システムポリマー XP-11 スライダー付ジッパー保存袋"
     brand: "システムポリマー"
@@ -85,10 +87,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fy40954.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 97
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_y40954"
         available: true
+        rating: 5
+        reviewCount: 3
   - rank: 4
     name: "システムポリマー PND-0420 パンダ柄おやつパック"
     brand: "システムポリマー"
@@ -116,10 +120,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4997495112409.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 161
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4997495112409"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 5
     name: "アルミ保存袋 ジップ付き"
     brand: "SEALIFE MART"
@@ -213,10 +219,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkomonosennka%2F2112mn124.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/komonosennka_2112mn124"
         available: true
+        rating: 4.61
+        reviewCount: 28
   - rank: 9
     name: "アイラップ 60枚入×5箱セット"
     brand: "岩谷マテリアル（アイラップ）"

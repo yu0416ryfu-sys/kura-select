@@ -32,11 +32,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale-kanahashi%2F4901387051189-z-s-4-1.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 1099
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale-kanahashi_4901387051189-z-s-4-1"
         available: true
+        rating: 4.45
+        reviewCount: 11
   - rank: 2
     name: "サンスター GUM 歯間ブラシ I字型 SSS 20本入"
     brand: "サンスター（GUM）"
@@ -64,10 +66,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901616216099.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 245
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901616216099"
         available: true
+        rating: 4.83
+        reviewCount: 6
   - rank: 3
     name: "サンスター GUM 歯間ブラシ I字型 S 20本×10セット"
     brand: "サンスター（GUM）"
@@ -148,10 +152,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 247
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
         available: true
+        rating: 0
+        reviewCount: 1
   - rank: 6
     name: "オーラルケア フロアフロス 250m 詰め替え用 歯科専売品 fluorfloss"
     brand: "楽天市場"
@@ -178,11 +184,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 2998
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true
+        rating: 4.77
+        reviewCount: 334
   - rank: 7
     name: "オーラルケア フロアフロス 250m"
     brand: "オーラルケア"
@@ -209,11 +217,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 2998
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true
+        rating: 4.77
+        reviewCount: 334
   - rank: 8
     name: "オーラルケア フロアフロス 250m 歯科専売品 fluorfloss"
     brand: "楽天市場"
@@ -240,11 +250,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 2998
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true
+        rating: 4.77
+        reviewCount: 334
   - rank: 9
     name: "オーラルケア フロアフロス 45m 2個セット (メール便9点まで)"
     brand: "オーラルケア"
@@ -271,11 +283,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F49760.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 2230
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_49760"
         available: true
+        rating: 4.72
+        reviewCount: 158
   - rank: 10
     name: "REACH リーチ／デンタルフロス 55ヤード(50.2m)×6個入り ワックス・ノ"
     brand: "REACH"
@@ -302,11 +316,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F3008301set.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 2392
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_3008301set"
         available: true
+        rating: 4.2
+        reviewCount: 5
 tags:
   - "歯間ブラシ おすすめ"
   - "歯間ブラシ コスパ"

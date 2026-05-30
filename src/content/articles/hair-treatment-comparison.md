@@ -32,10 +32,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frich0808store%2Fap-4901417618795.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1363
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rich0808store_ap-4901417618795"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 2
     name: "BC クア カラースペシフィック ヘアマスク 500g"
     brand: "シュワルツコフ"
@@ -151,10 +153,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Falbum-y%2F3474636864867.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 4400
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/album-y_3474636864867"
         available: true
+        rating: 4.65
+        reviewCount: 37
   - rank: 7
     name: "スペシャルトリートメント マスク オレオ リラックス 200mL"
     brand: "ケラスターゼ"

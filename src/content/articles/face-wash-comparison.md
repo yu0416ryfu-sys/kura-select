@@ -76,10 +76,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4550516491404.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 609
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4550516491404"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 4
     name: "DoMeCare マイクロクレイウォッシュ 110g"
     brand: "DoMeCare"
@@ -107,10 +109,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyua-shop%2Fl01-045.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yua-shop_l01-045"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 5
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
     brand: "ユニリーバ（ダヴ）"
@@ -138,10 +142,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902111736655.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 348
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902111736655"
         available: true
+        rating: 4.5
+        reviewCount: 8
   - rank: 6
     name: "オルナ オーガニック 泥洗顔 130g"
     brand: "ALLNA ORGANIC"
@@ -169,10 +175,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fadew%2F905b01n0bsytw.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2200
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/adew_905b01n0bsytw"
         available: true
+        rating: 4.55
+        reviewCount: 278
   - rank: 7
     name: "レステモ フェイシャル ソープ 150g"
     brand: "レステモ"
@@ -200,10 +208,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flesthemo%2Fsoap150g.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lesthemo_soap150g"
         available: true
+        rating: 4.69
+        reviewCount: 213
   - rank: 8
     name: "ルアド 洗顔パウダー 67g×3袋"
     brand: "ルアド"

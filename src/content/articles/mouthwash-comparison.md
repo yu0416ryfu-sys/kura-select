@@ -54,10 +54,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180757-4.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 3699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4901730180757-4"
         available: true
+        rating: 0
+        reviewCount: 1
   - rank: 3
     name: "GUM デンタルリンス ナイトケア 900mL"
     brand: "サンスター（GUM）"
@@ -85,10 +87,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901616010888.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1058
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4901616010888"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 4
     name: "プロフレッシュ 口臭ケア マウスウォッシュ"
     brand: "PROFRESH（プロフレッシュ）"
@@ -160,10 +164,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichinan25%2Fdr-wash.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichinan25_dr-wash"
         available: true
+        rating: 4.57
+        reviewCount: 7
   - rank: 7
     name: "コンクールF 100mL"
     brand: "ウエルテック（コンクール）"
@@ -191,10 +197,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Fdf0129.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_df0129"
         available: true
+        rating: 4.78
+        reviewCount: 1354
   - rank: 8
     name: "ナタデウォッシュ"
     brand: "ナチュラルガーデン（ナタデ）"

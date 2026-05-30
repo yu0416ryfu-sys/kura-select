@@ -32,11 +32,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenkoo-life%2F103-4560309820588.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 115
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenkoo-life_103-4560309820588"
         available: true
+        rating: 0
+        reviewCount: 1
   - rank: 2
     name: "うさベビー 抗菌綿棒 ほそめ"
     brand: "山洋"
@@ -64,10 +66,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4936613072409.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 196
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4936613072409"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 3
     name: "コットン・ラボ スタンダード綿棒"
     brand: "コットン・ラボ"
@@ -94,11 +98,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4973202501285.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 114
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4973202501285"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 4
     name: "FC ファミリー綿棒"
     brand: "白十字"
@@ -125,11 +131,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenjoy%2F4987603109247.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 128
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenjoy_4987603109247"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 5
     name: "ピップ 抗菌綿棒 3個セット"
     brand: "ピップ"
@@ -179,10 +187,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fi-shop777%2F20230405-menbo.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 90
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/i-shop777_20230405-menbo"
         available: true
+        rating: 4.63
+        reviewCount: 84
   - rank: 7
     name: "アメジスト 抗菌綿棒"
     brand: "大衛"
@@ -209,11 +219,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Famethystwebshop%2F92189.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 352
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/amethystwebshop_92189"
         available: true
+        rating: 0
+        reviewCount: 1
   - rank: 8
     name: "スパイラル黒綿棒 紙軸 200本入×4個セット"
     brand: "GALLEIDO"
@@ -285,10 +297,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkintarou%2F4976558006428.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 168
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kintarou_4976558006428"
         available: true
+        rating: 4.58
+        reviewCount: 12
 tags:
   - "綿棒 おすすめ"
   - "綿棒 コスパ"

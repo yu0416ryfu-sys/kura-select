@@ -54,10 +54,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhenojikan%2Feye058.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2585
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthenojikan_eye058"
         available: true
+        rating: 0
+        reviewCount: 2
   - rank: 3
     name: "業務用フェイシャルコットン"
     brand: "エステマート"
@@ -116,10 +118,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111478064x2.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 329
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111478064x2"
         available: true
+        rating: 4.75
+        reviewCount: 16
   - rank: 5
     name: "ナチュラルパフ コットンパフ セット"
     brand: "アコレ"

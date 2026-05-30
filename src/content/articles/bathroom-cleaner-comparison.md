@@ -32,10 +32,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fn-yakuhin%2F4903301015369-3kea.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/n-yakuhin_4903301015369-3kea"
         available: true
+        rating: 0
+        reviewCount: 1
   - rank: 2
     name: "ルックプラス バスタブクレンジング 銀イオンプラス ハーバルグリーン 詰替サイズ"
     brand: "ライオン（ルック）"
@@ -85,10 +87,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301453242.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301453242"
         available: true
+        rating: 5
+        reviewCount: 3
   - rank: 4
     name: "リンレイ 速攻湯アカ分解 3点セット"
     brand: "リンレイ"
@@ -137,11 +141,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft0769-01.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 917
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t0769-01"
         available: true
+        rating: 4.67
+        reviewCount: 3
   - rank: 6
     name: "カビ取り一発 液体カビ取り洗浄剤 2L"
     brand: "おそうじキレイ"
@@ -235,10 +241,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00001384.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2099
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00001384"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 10
     name: "エコメイト 風呂釜クリーナー 3個セット"
     brand: "木村石鹸工業"

@@ -1,6 +1,6 @@
 ---
 title: "キッチン漂白剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気11選を除菌力・コスパ・安全性で解説します。"
+description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気10選を除菌力・コスパ・安全性で解説します。"
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 updatedAt: "2026-05-30"
@@ -32,10 +32,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4901301021144.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 3696
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4901301021144"
         available: true
+        rating: 4.68
+        reviewCount: 123
   - rank: 2
     name: "ライオン キッチンパワーブリーチ 業務用 5kg"
     brand: "ライオン"
@@ -63,12 +65,14 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F1671344.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1118
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_1671344"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 3
-    name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.26kg！★【"
+    name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.5.26kg！★【"
     brand: "グラフィコ（OxiClean）"
     price: 3425
     capacity: "5.26kg"
@@ -90,6 +94,39 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F309892sm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0079732773.jpg?_ex=128x128"
   - rank: 4
+    name: "シャボン玉 酸素系漂白剤"
+    brand: "シャボン玉石けん"
+    price: 567
+    capacity: "750g"
+    pricePerUnit: "約0.76円/g"
+    rating: 4.86
+    reviewCount: 231
+    features:
+      - "過炭酸ナトリウム主成分の酸素系粉末漂白剤"
+      - "無添加石鹸ブランドのシャボン玉石けんが製造"
+      - "衣類用・台所用の両方に使えるマルチタイプ"
+    pros:
+      - "塩素系が使えない色物食器やステンレスシンクにも対応"
+      - "塩素臭がなく換気が難しい環境でも使いやすい"
+      - "無添加処方で素材へのダメージを抑えて使いやすい"
+    cons:
+      - "粉末タイプのため水に溶かす手間がある"
+      - "塩素系と比べると漂白・除菌力は控えめ"
+    recommendedFor: "色物食器やステンレス素材への使用・塩素臭が気になる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901797100019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10001604%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/vic201810/4901797100019.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwakeari%2Fcase4901797033164.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-30"
+        price: 9380
+        rating: 5
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wakeari_case4901797033164"
+        available: true
+  - rank: 5
     name: "洗たく槽クリーナー【2sh24】【シャボン玉石けん】"
     brand: "シャボン玉石けん"
     price: 562
@@ -115,12 +152,14 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshabondamasoap%2F2230.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shabondamasoap_2230"
         available: true
-  - rank: 5
+        rating: 4.7
+        reviewCount: 47
+  - rank: 6
     name: "丹羽久 niwaQ キッチン漂白剤 ボトル 300g"
     brand: "丹羽久"
     price: 445
@@ -151,7 +190,7 @@ products:
         price: 927
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rokusyoudo_2022yr12mt18daywq069ic073s83h3f"
         available: true
-  - rank: 6
+  - rank: 7
     name: "niwaQ キッチン漂白剤 ボトル 300g"
     brand: "丹羽久"
     price: 445
@@ -178,11 +217,57 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frokusyoudo%2F2022yr12mt18daywq069ic073s83h3f.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 727
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rokusyoudo_2022yr12mt18daywq069ic073s83h3f"
         available: true
-  - rank: 7
+        rating: 0
+        reviewCount: 0
+  - rank: 8
+    name: "キッチンハイター 特大"
+    brand: "花王（ハイター）"
+    price: 722
+    capacity: "2500ml"
+    pricePerUnit: "約0.29円/ml"
+    rating: 4.66
+    reviewCount: 92
+    features:
+      - "花王キッチンハイターの特大サイズ（2500ml）"
+      - "塩素系台所用漂白剤でまな板・ふきん・食器の漂白と除菌に対応"
+      - "大容量のため補充頻度を抑えて使い続けやすい"
+    pros:
+      - "2500mlの大容量で頻繁な補充が不要"
+      - "花王の定番ブランドで品質が安定している"
+      - "使用頻度が高い家庭でもコスパよく使い続けやすい"
+    cons:
+      - "大容量のため保管スペースを確保する必要がある"
+      - "塩素系のため色物・金属素材には使用できない"
+    recommendedFor: "日常的にキッチン除菌を行う家庭・大容量でコスパを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa002256000139%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10122852%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/619/4901301008619.jpg?_ex=128x128"
+  - rank: 9
+    name: "キッチンハイター 特大 2本セット"
+    brand: "花王（ハイター）"
+    price: 1433
+    capacity: "2500ml×2本"
+    pricePerUnit: "約0.29円/ml"
+    rating: 4.78
+    reviewCount: 32
+    features:
+      - "キッチンハイター特大（2500ml）を2本まとめたセット"
+      - "塩素系台所用漂白剤でまな板・ふきんの漂白・除菌に対応"
+      - "合計5000mlの大容量でストック管理の手間を大幅に削減"
+    pros:
+      - "2本セットでまとめ買いによるコスト低減が期待しやすい"
+      - "大容量で補充頻度を最小限に抑えられる"
+      - "花王の安定した品質で日常使いにも信頼しやすい"
+    cons:
+      - "一度に大量の在庫を持つため保管スペースが必要"
+      - "消費が追いつかない場合は開封後の品質管理が必要"
+    recommendedFor: "複数人世帯・高頻度で使用する方・長期ストックしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F508035%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11051858%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/035/508035.jpg?_ex=128x128"
+  - rank: 10
     name: "キッチンハイター 大ボトル"
     brand: "花王（ハイター）"
     price: 466
@@ -204,94 +289,6 @@ products:
     recommendedFor: "日常的にキッチン除菌を行う方・コスパと扱いやすさを両立したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000921%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10122674%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/370/4901301019370.jpg?_ex=128x128"
-  - rank: 8
-    name: "キッチンハイター 特大"
-    brand: "花王（ハイター）"
-    price: 0
-    capacity: "2500ml"
-    pricePerUnit: "0円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "花王キッチンハイターの特大サイズ（2500ml）"
-      - "塩素系台所用漂白剤でまな板・ふきん・食器の漂白と除菌に対応"
-      - "大容量のため補充頻度を抑えて使い続けやすい"
-    pros:
-      - "2500mlの大容量で頻繁な補充が不要"
-      - "花王の定番ブランドで品質が安定している"
-      - "使用頻度が高い家庭でもコスパよく使い続けやすい"
-    cons:
-      - "大容量のため保管スペースを確保する必要がある"
-      - "塩素系のため色物・金属素材には使用できない"
-    recommendedFor: "日常的にキッチン除菌を行う家庭・大容量でコスパを重視する方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/a002256000139/"
-    imageUrl: ""
-  - rank: 9
-    name: "キッチンハイター 小"
-    brand: "花王（ハイター）"
-    price: 0
-    capacity: "600ml"
-    pricePerUnit: "0円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "花王キッチンハイターの小サイズ（600ml）"
-      - "塩素系台所用漂白剤で日常のキッチン除菌に対応"
-      - "コンパクトなボトルでシンク下などに収納しやすい"
-    pros:
-      - "使い切りやすいサイズで開封後の品質管理がしやすい"
-      - "置き場所を選ばないコンパクト設計"
-      - "少量から試せるサイズ感でキッチン漂白剤を初めて使う方にも向く"
-    cons:
-      - "大容量タイプに比べると1mlあたりの単価が高くなる傾向がある"
-      - "頻繁に使う家庭では補充頻度が増えやすい"
-    recommendedFor: "一人暮らしや少人数世帯・初めてキッチン漂白剤を試す方"
-    rakutenUrl: "https://item.rakuten.co.jp/wellness-web/10006211/"
-    imageUrl: ""
-  - rank: 10
-    name: "シャボン玉 酸素系漂白剤"
-    brand: "シャボン玉石けん"
-    price: 0
-    capacity: "750g"
-    pricePerUnit: "0円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "過炭酸ナトリウム主成分の酸素系粉末漂白剤"
-      - "無添加石鹸ブランドのシャボン玉石けんが製造"
-      - "衣類用・台所用の両方に使えるマルチタイプ"
-    pros:
-      - "塩素系が使えない色物食器やステンレスシンクにも対応"
-      - "塩素臭がなく換気が難しい環境でも使いやすい"
-      - "無添加処方で素材へのダメージを抑えて使いやすい"
-    cons:
-      - "粉末タイプのため水に溶かす手間がある"
-      - "塩素系と比べると漂白・除菌力は控えめ"
-    recommendedFor: "色物食器やステンレス素材への使用・塩素臭が気になる方"
-    rakutenUrl: "https://item.rakuten.co.jp/at-life/4901797100019/"
-    imageUrl: ""
-  - rank: 11
-    name: "キッチンハイター 特大 2本セット"
-    brand: "花王（ハイター）"
-    price: 0
-    capacity: "2500ml×2本"
-    pricePerUnit: "0円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "キッチンハイター特大（2500ml）を2本まとめたセット"
-      - "塩素系台所用漂白剤でまな板・ふきんの漂白・除菌に対応"
-      - "合計5000mlの大容量でストック管理の手間を大幅に削減"
-    pros:
-      - "2本セットでまとめ買いによるコスト低減が期待しやすい"
-      - "大容量で補充頻度を最小限に抑えられる"
-      - "花王の安定した品質で日常使いにも信頼しやすい"
-    cons:
-      - "一度に大量の在庫を持つため保管スペースが必要"
-      - "消費が追いつかない場合は開封後の品質管理が必要"
-    recommendedFor: "複数人世帯・高頻度で使用する方・長期ストックしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/508035/"
-    imageUrl: ""
 tags:
   - "キッチン漂白剤 おすすめ"
   - "キッチンハイター コスパ"

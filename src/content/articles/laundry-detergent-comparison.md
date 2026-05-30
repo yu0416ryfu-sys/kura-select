@@ -32,10 +32,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 3978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
         available: true
+        rating: 5
+        reviewCount: 12
   - rank: 2
     name: "トップ クリアリキッド 業務用 4kg×3本"
     brand: "ライオン（トップ）"
@@ -63,10 +65,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou-selection%2Fr5-15080k.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 5550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou-selection_r5-15080k"
         available: true
+        rating: 4.86
+        reviewCount: 36
   - rank: 3
     name: "WORKERS 作業着液体洗剤 業務用"
     brand: "WORKERS"
@@ -115,12 +119,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fririnana%2F1341dc22641.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b0csfn4l78-20260329.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
-        price: 13417
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ririnana_1341dc22641"
+        updatedAt: "2026-05-30"
+        price: 12150
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b0csfn4l78-20260329"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 5
     name: "ハイベック プレミアムドライ 1100g"
     brand: "ハイベック"
@@ -148,10 +154,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
+        rating: 4.75
+        reviewCount: 16
   - rank: 6
     name: "サンベック高級洗剤 1000g"
     brand: "サンベック"

@@ -3,7 +3,7 @@ title: "ドッグフード コスパ比較【2026年版】おすすめ10選"
 description: "アイムス・ニュートロ・国産無添加など人気ドライドッグフードを1g単価で徹底比較。成犬・小型犬・大型犬向け選び方ガイドとまとめ買いのコスパポイントも解説。おすすめ10選。"
 category: "dog-food"
 publishedAt: "2026-05-27"
-updatedAt: 2026-05-29
+updatedAt: "2026-05-30"
 draft: true
 products:
   - rank: 1
@@ -55,10 +55,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos01590.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 6169
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos01590"
         available: true
+        rating: 4.5
+        reviewCount: 36
   - rank: 3
     name: "アイムス 成犬用 体重管理 チキン 5kg"
     brand: "IAMS（アイムス）"
@@ -86,10 +88,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F0019014614196.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_0019014614196"
         available: true
+        rating: 0
+        reviewCount: 2
   - rank: 4
     name: "ロイヤルカナン ミニ インドア アダルト 8kg×2個"
     brand: "ロイヤルカナン"
@@ -160,11 +164,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 5069
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
+        rating: 4.5
+        reviewCount: 14
   - rank: 7
     name: "ニュートロ ナチュラルチョイス 小型犬用 成犬用 チキン&玄米 6kg"
     brand: "ニュートロ"
@@ -192,10 +198,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 8980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
+        rating: 4.69
+        reviewCount: 157
   - rank: 8
     name: "アーテミス フレッシュミックス スモールブリードアダルト3kg 小粒 小型犬 成犬 "
     brand: "アーテミス"
@@ -243,12 +251,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg360021-.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600a.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
-        price: 3300
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g360021-"
+        updatedAt: "2026-05-30"
+        price: 3000
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600a"
         available: true
+        rating: 4.69
+        reviewCount: 35
   - rank: 10
     name: "ドッグフード 国産 無添加 吉岡油糧 オンリーワンフード 1kg 5kg（ リピート"
     brand: "ドッグフード"

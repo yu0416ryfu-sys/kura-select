@@ -3,7 +3,7 @@ title: "敏感肌・赤ちゃん向け柔軟剤 おすすめランキング【20
 description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹底比較。さらさ・ランドリンボタニカル・ファーファフリー&など人気10選を低刺激性で解説。"
 category: "fabric-softener"
 publishedAt: "2026-04-30"
-updatedAt: "2026-05-29"
+updatedAt: "2026-05-30"
 products:
   - rank: 1
     name: "ランドリン 柔軟剤 詰め替えアソートセット 9個入り"
@@ -54,10 +54,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1040
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902135322537-73-30000839"
         available: true
+        rating: 4.75
+        reviewCount: 4
   - rank: 3
     name: "さらさ 柔軟剤 詰め替え 超ジャンボ 1350ml 6個セット"
     brand: "P&G（さらさ）"
@@ -85,18 +87,20 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhikaritv%2F2010123672.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 6980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010123672"
         available: true
+        rating: 4.87
+        reviewCount: 62
   - rank: 4
     name: "ナイスアンドクイック ボタニカル 柔軟剤 詰替 ピュアコットンシャボンの香り 1320mL 2個セット"
     brand: "ナイスアンドクイック"
     price: 2816
     capacity: "1320mL×2個"
     pricePerUnit: "約1.1円/mL"
-    rating: 4.85
-    reviewCount: 147
+    rating: 4.84
+    reviewCount: 148
     features:
       - "植物由来成分90%以上配合のボタニカル処方"
       - "パラベン・シリコン・合成香料など8つの無添加処方"
@@ -138,10 +142,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffitsonlinestore%2Flds-softset3.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 3234
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fitsonlinestore_lds-softset3"
         available: true
+        rating: 0
+        reviewCount: 1
   - rank: 6
     name: "ラボン 柔軟剤 ラグジュアリーリラックス 詰め替え 960ml 5個セット"
     brand: "ネイチャーラボ（ラボン）"
@@ -191,10 +197,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469490586-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 5214
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469490586-5"
         available: true
+        rating: 4.89
+        reviewCount: 168
   - rank: 8
     name: "ラボン 柔軟剤 ラブリーシック 詰め替え 960ml 5個セット"
     brand: "ネイチャーラボ（ラボン）"
@@ -222,10 +230,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469492764-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 5214
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469492764-5"
         available: true
+        rating: 4.93
+        reviewCount: 73
   - rank: 9
     name: "ランドリン 柔軟剤 クラシックフローラル つめかえ用 480mL 10個セット"
     brand: "ネイチャーラボ（ランドリン）"
@@ -275,10 +285,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4582469502517.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1043
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4582469502517"
         available: true
+        rating: 4.83
+        reviewCount: 6
 tags:
   - "柔軟剤"
   - "敏感肌"

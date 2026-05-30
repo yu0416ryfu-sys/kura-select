@@ -61,6 +61,17 @@ products:
     recommendedFor: "手軽さを優先したい、賃貸住宅の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5q5n.3rdw6858.g00u5q5n.3rdw765a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamatoya-d%2F000028-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamatoya-d%2Fi%2F10007680%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatoya-d/cabinet/netdeoroshi/000028-2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsutsu-uraura%2Ftoyo-ear-2s.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-30"
+        price: 723
+        rating: 4.5
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsutsu-uraura_toyo-ear-2s"
+        available: true
   - rank: 3
     name: "エアコンフィルター 5枚入"
     brand: "東和産業"
@@ -122,10 +133,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F478367.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 478
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_478367"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 5
     name: "パッと貼るだけホコリとりフィルター エアコン用 10個セット"
     brand: "東洋アルミ"

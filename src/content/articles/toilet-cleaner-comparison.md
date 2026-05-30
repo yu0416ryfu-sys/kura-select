@@ -85,10 +85,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903301194200.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 188
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903301194200"
         available: true
+        rating: 0
+        reviewCount: 2
   - rank: 4
     name: "ソネット ナチュラルトイレットクリーナー"
     brand: "SONETT（ソネット）"
@@ -116,10 +118,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fglv%2Fsnt-0016-000.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/glv_snt-0016-000"
         available: true
+        rating: 4.33
+        reviewCount: 3
   - rank: 5
     name: "キバミおちーる 尿石除去剤"
     brand: "キバミおちーる"
@@ -147,10 +151,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fle-cure%2Fim-1008473.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/le-cure_im-1008473"
         available: true
+        rating: 4.07
+        reviewCount: 14
   - rank: 6
     name: "トイレットペーパーでちょいふき"
     brand: "小林製薬"
@@ -222,10 +228,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901609005440x3.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 551
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901609005440x3"
         available: true
+        rating: 4.76
+        reviewCount: 45
   - rank: 9
     name: "スクラビングバブル 超強力トイレクリーナー 400g×5本セット"
     brand: "ジョンソン（スクラビングバブル）"
@@ -275,10 +283,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9615427011.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 216
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_9615427011"
         available: true
+        rating: 4.8
+        reviewCount: 10
 tags:
   - "トイレ用洗剤"
   - "コスパ"

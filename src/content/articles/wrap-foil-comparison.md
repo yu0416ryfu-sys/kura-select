@@ -32,10 +32,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r030-4901670110197.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 16357
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r030-4901670110197"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 2
     name: "NEWクレラップ 22cm*"
     brand: "クレハ（クレラップ）"
@@ -116,10 +118,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F350600.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 16500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_350600"
         available: true
+        rating: 4.86
+        reviewCount: 36
   - rank: 5
     name: "サランラップ 家庭用 30cm"
     brand: "旭化成（サランラップ）"

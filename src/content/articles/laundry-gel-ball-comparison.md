@@ -32,10 +32,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 3978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
         available: true
+        rating: 5
+        reviewCount: 12
   - rank: 2
     name: "トップ クリアリキッド 詰め替え"
     brand: "ライオン（トップ）"
@@ -85,10 +87,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhikaritv%2F2010126844.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 8280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010126844"
         available: true
+        rating: 4.88
+        reviewCount: 26
   - rank: 4
     name: "さらさ 洗濯洗剤 詰め替え"
     brand: "P&G（さらさ）"
@@ -138,10 +142,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
+        rating: 4.75
+        reviewCount: 16
   - rank: 6
     name: "サンベック高級洗剤"
     brand: "トップライン"
@@ -235,10 +241,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F622008a.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_622008a"
         available: true
+        rating: 0
+        reviewCount: 1
   - rank: 10
     name: "メイクブラシクリーナー"
     brand: "博雲堂（ハクウンドウ）"

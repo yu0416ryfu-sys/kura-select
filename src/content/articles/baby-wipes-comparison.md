@@ -3,7 +3,7 @@ title: "おしりふき コスパ最強ランキング【2026年版】10選"
 description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比較。ムーニー、パンパース、グーン、レックなど人気メーカーの商品を肌優しさ・容量・単価で徹底比較。"
 category: "baby-wipes"
 publishedAt: "2026-05-17"
-updatedAt: 2026-05-29
+updatedAt: "2026-05-30"
 draft: false
 products:
   - rank: 1
@@ -69,7 +69,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_2000363s"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
+        rating: 4.78
+        reviewCount: 1353
   - rank: 3
     name: "おしりふき ふんわり 菌99.9除去 大容量"
     brand: "レック"
@@ -172,7 +174,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.3円/枚"
     rating: 4.84
-    reviewCount: 2614
+    reviewCount: 2616
     features:
       - "99.9%の純水成分で肌に優しい"
       - "厚手シートで吸収性が優れている"
@@ -257,7 +259,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e170"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
+        rating: 4.7
+        reviewCount: 952
   - rank: 9
     name: "おしり拭き 流せる シート 菌99.9除去"
     brand: "レック"
@@ -288,7 +292,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
+        rating: 4.6
+        reviewCount: 1021
   - rank: 10
     name: "おしり拭き 流せる シート 純水99.9% W保湿成分配合"
     brand: "Lec.Be"

@@ -3,7 +3,7 @@ title: "新生児用紙おむつ テープ型コスパ比較【2026年版】"
 description: "新生児用の紙おむつを1枚あたりの価格で比較。サイズアウトしやすい時期に、まとめ買い量と肌へのやさしさのバランスで選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-29
+updatedAt: "2026-05-30"
 products:
   - rank: 1
     name: "ムーニーナチュラル テープ 新生児サイズ"
@@ -49,6 +49,17 @@ products:
     recommendedFor: "新生児期をまとめ買いで備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ue0on.3rdw6885.g00ue0on.3rdw7e37/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F24exp%2Fb0ctdfktv4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F24exp%2Fi%2F10002957%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/24exp/cabinet/10230455/imgrc0092777504.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-171313-2.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-30"
+        price: 4191
+        rating: 4.88
+        reviewCount: 8
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-171313-2"
+        available: true
   - rank: 3
     name: "パンパース テープ新生児 144枚"
     brand: "P&G（パンパース）"
@@ -115,6 +126,17 @@ products:
     recommendedFor: "新生児期を大容量で備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q9u1n.3rdw67e0.g00q9u1n.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhiteleaf%2Fcostoco_pampers-small%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhiteleaf%2Fi%2F10002658%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whiteleaf/cabinet/08766852/08895266/10306423/pampers-new144.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-171313-2.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-30"
+        price: 4191
+        rating: 4.88
+        reviewCount: 8
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-171313-2"
+        available: true
   - rank: 6
     name: "バンボネイチャー ドリーム テープ/パンツ ニューボーン"
     brand: "BAMBO Nature"

@@ -3,7 +3,7 @@ title: "トイレットペーパー シングル コスパ最強ランキング2
 description: "シングルのトイレットペーパーを1mあたりのコストで徹底比較。最安は1m約0.59円（60ロールまとめ買い時）。長尺タイプ・芯なし・まとめ買い向けを中心に選び方のポイントも解説します。"
 category: "toilet-paper"
 publishedAt: "2024-11-01"
-updatedAt: 2026-05-29
+updatedAt: "2026-05-30"
 products:
   - rank: 1
     name: "森を守ろう トイレットペーパー シングル"
@@ -66,8 +66,10 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fikurun0810%2F101436.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         matchStatus: "matched"
+        rating: 0
+        reviewCount: 1
   - rank: 3
     name: "イットコ スリム シングル 芯なし"
     brand: "イトマン"
@@ -217,7 +219,9 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcleanshoponline%2F72014.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cleanshoponline_72014"
         available: true
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
+        rating: 0
+        reviewCount: 0
   - rank: 9
     name: "Comfy 芯なし トイレットペーパー シングル"
     brand: "イトマン"

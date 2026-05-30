@@ -32,11 +32,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4902111777009-3.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 2298
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4902111777009-3"
         available: true
+        rating: 4.83
+        reviewCount: 6
   - rank: 2
     name: "3種のヒアルロン酸配合スキンローション 600ml 化粧水 大容量 ヒアルロン酸化粧"
     brand: "3種のヒアルロン酸配合スキンローショ"
@@ -86,10 +88,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301342416.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 618
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301342416"
         available: true
+        rating: 4.85
+        reviewCount: 26
   - rank: 4
     name: "ダイアンボタニカル ボディミルク"
     brand: "Moist Diane（ネイチャーラボ）"
@@ -139,10 +143,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4971710568530.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2028
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4971710568530"
         available: true
+        rating: 0
+        reviewCount: 1
   - rank: 6
     name: "キュレル ローション"
     brand: "花王（キュレル）"
@@ -235,11 +241,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F56770.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 2280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_56770"
         available: true
+        rating: 4.84
+        reviewCount: 31
   - rank: 10
     name: "フィルベビーリペア 高保湿ミルクローション 380g|0ヵ月〜 ピジョン ローション"
     brand: "ピジョン"
@@ -266,11 +274,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpigeon-shop%2F1035259.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 4598
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_1035259"
         available: true
+        rating: 4.76
+        reviewCount: 45
 tags:
   - "ボディローション おすすめ"
   - "ボディミルク コスパ"

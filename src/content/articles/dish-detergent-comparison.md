@@ -53,11 +53,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F501277.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 1796
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_501277"
         available: true
+        rating: 0
+        reviewCount: 1
   - rank: 3
     name: "緑の魔女 キッチン 食器用洗剤 業務用 詰め替え 5L 無添加 無香料"
     brand: "ミマスクリーンケア（緑の魔女）"
@@ -84,11 +86,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9847345.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 2980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9847345"
         available: true
+        rating: 4.64
+        reviewCount: 95
   - rank: 4
     name: "【1種類を選べる】キュキュット 食器用洗剤 つめかえ用 ジャンボサイズ 梱販売用"
     brand: "花王（キュキュット）"
@@ -116,10 +120,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301429148.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 5035
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301429148"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 5
     name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
     brand: "P&G（ジョイ）"
@@ -190,11 +196,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcooking-clocca%2Fsomali-40542.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cooking-clocca_somali-40542"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 8
     name: "IVORY DISH SOAP クラシック 食器用洗剤 709mL"
     brand: "IVORY"
@@ -244,10 +252,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbrisk-online%2F20251011130727-02181.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-30"
         price: 968
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/brisk-online_20251011130727-02181"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 10
     name: "ヤシノミ洗剤 食器・野菜用 詰め替え 540mL"
     brand: "サラヤ（ヤシノミ洗剤）"

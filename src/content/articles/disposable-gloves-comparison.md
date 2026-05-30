@@ -54,10 +54,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh8451-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 495
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh8451-1"
         available: true
+        rating: 4.64
+        reviewCount: 84
   - rank: 3
     name: "明成 プラスチック手袋 パウダーフリー 2000枚"
     brand: "明成"
@@ -213,10 +215,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmitumitu%2Fxm5132053a3a2.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1860
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mitumitu_xm5132053a3a2"
         available: true
+        rating: 0
+        reviewCount: 0
 tags:
   - "使い捨て手袋"
   - "ニトリル手袋"

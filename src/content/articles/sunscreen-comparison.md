@@ -32,10 +32,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987241190867.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1030
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987241190867"
         available: true
+        rating: 0
+        reviewCount: 2
   - rank: 2
     name: "花王 ニベアUV　ニベアサン ウォータージェル SPF50 詰替え"
     brand: "花王（ニベア）"
@@ -63,10 +65,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F103-4901301298706.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 962
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_103-4901301298706"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 3
     name: "ビオレUV アクアリッチ ウォータリーエッセンス フレッシュパウチ"
     brand: "花王（ビオレ）"
@@ -94,10 +98,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpaatner%2F4901301416957.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/paatner_4901301416957"
         available: true
+        rating: 4
+        reviewCount: 7
   - rank: 4
     name: "【国内正規品 全12種】ALLIE アリィー 日焼け止め クロノビューティ トー"
     brand: "カネボウ（アリィー）"
@@ -147,10 +153,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flesthemo%2Fbb-cream.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2560
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lesthemo_bb-cream"
         available: true
+        rating: 4.26
+        reviewCount: 148
   - rank: 6
     name: "ラロッシュポゼ UVイデアXL"
     brand: "ラロッシュポゼ"

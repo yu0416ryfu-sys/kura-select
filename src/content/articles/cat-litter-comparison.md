@@ -55,10 +55,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F1533439.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 3480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_1533439"
         available: true
+        rating: 4.59
+        reviewCount: 29
   - rank: 3
     name: "炭の猫砂 まとめ買いセット"
     brand: "アイリスオーヤマ"
@@ -130,10 +132,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101386ku.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 4980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101386ku"
         available: true
+        rating: 4.68
+        reviewCount: 181
   - rank: 6
     name: "クリーンサンド"
     brand: "アイリスオーヤマ"
@@ -161,10 +165,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F309805.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2372
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_309805"
         available: true
+        rating: 0
+        reviewCount: 2
   - rank: 7
     name: "パインウッド"
     brand: "スノーフレーク"
@@ -192,10 +198,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitempost%2F1-amigo1122-4492.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 3156
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/itempost_1-amigo1122-4492"
         available: true
+        rating: 5
+        reviewCount: 4
   - rank: 8
     name: "ペットキレイ ニオイをとる砂"
     brand: "ライオン"
@@ -223,10 +231,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903351011250x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2701
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903351011250x4"
         available: true
+        rating: 4.78
+        reviewCount: 122
   - rank: 9
     name: "トフカスサンドK おから猫砂"
     brand: "クリーンビート"
@@ -276,10 +286,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F100142.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
-        price: 5499
+        updatedAt: "2026-05-30"
+        price: 4999
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_100142"
         available: true
+        rating: 4.67
+        reviewCount: 702
 tags:
   - "猫砂 おすすめ"
   - "猫砂 コスパ"

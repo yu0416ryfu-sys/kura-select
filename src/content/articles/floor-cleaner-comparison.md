@@ -76,10 +76,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301281999.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 631
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301281999"
         available: true
+        rating: 4.87
+        reviewCount: 23
   - rank: 4
     name: "クイックルワイパー 立体吸着ドライシート"
     brand: "花王（クイックルワイパー）"
@@ -129,10 +131,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1640
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
         available: true
+        rating: 4.92
+        reviewCount: 12
   - rank: 6
     name: "クイックルワイパー ドライシート 業務用ワイドサイズ"
     brand: "花王"
@@ -160,10 +164,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1640
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
         available: true
+        rating: 4.92
+        reviewCount: 12
   - rank: 7
     name: "花王 クイックルワイパー 立体吸着ウエットシート 香りが残らないタイプ"
     brand: "花王（クイックルワイパー）"
@@ -191,10 +197,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301327826.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 471
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301327826"
         available: true
+        rating: 4.81
+        reviewCount: 21
   - rank: 8
     name: "クイックルワイパー ドライシート 業務用"
     brand: "花王プロフェッショナル"
@@ -222,10 +230,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1640
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
         available: true
+        rating: 4.92
+        reviewCount: 12
   - rank: 9
     name: "ウェーブ 超保水 フロアウェットシート 微香タイプ"
     brand: "ユニ・チャーム（ウェーブ）"

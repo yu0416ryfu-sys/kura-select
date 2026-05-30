@@ -32,11 +32,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fbk2707.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 43915
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_bk2707"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 2
     name: "ストッキング水切り袋 浅型排水口用"
     brand: "ナフコ"
@@ -86,10 +88,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaneshinshojiwebshop%2Fb076mmryqh300.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaneshinshojiwebshop_b076mmryqh300"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 4
     name: "システムポリマー ゴム付 不織布 水切り袋 浅型排水口用 100枚 水きりネット 三"
     brand: "システムポリマー"
@@ -116,11 +120,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fye3331.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 467
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_ye3331"
         available: true
+        rating: 0
+        reviewCount: 1
   - rank: 5
     name: "カウコレ ストッキング水切り袋 浅型"
     brand: "カウネット"
@@ -147,11 +153,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaumall%2F42552987.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 798
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaumall_42552987"
         available: true
+        rating: 0
+        reviewCount: 1
   - rank: 6
     name: "水切りネット 水切れ抜群 浅型 KS-05 100枚"
     brand: "びーんず"
@@ -178,11 +186,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyh-beans%2F1339654.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-30"
         price: 548
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_1339654"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 7
     name: "ストッキング水切りネット 浅型 100枚"
     brand: "まるモール"
@@ -254,10 +264,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4902493440119.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 268
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4902493440119"
         available: true
+        rating: 0
+        reviewCount: 1
   - rank: 10
     name: "ストリックスデザイン 水切りネット 抗菌 ストッキング 水切り袋 100枚 約32×"
     brand: "ストリックスデザイン"
@@ -285,10 +297,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhak00a074f.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1168
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hak00a074f"
         available: true
+        rating: 0
+        reviewCount: 1
 tags:
   - "排水口ネット おすすめ"
   - "水切りネット コスパ"

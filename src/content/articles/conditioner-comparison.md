@@ -3,7 +3,7 @@ title: "コンディショナー コスパ最強ランキング【2026年版】1
 description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気9選をダメージケア・コスパで解説します。"
 category: "conditioner"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-29
+updatedAt: "2026-05-30"
 products:
   - rank: 1
     name: "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア"
@@ -54,10 +54,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk0602-a2510.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 1556
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk0602-a2510"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 3
     name: "パルガ ヘアコンディショナー アクアリッチ 500g 詰替"
     brand: "パルガ"
@@ -173,10 +175,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-ypp%2F3799-0026554.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 6280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-ypp_3799-0026554"
         available: true
+        rating: 0
+        reviewCount: 2
   - rank: 8
     name: "デミ ミレアム ヘアケア コンディショナー 1800mL"
     brand: "デミ"
@@ -204,10 +208,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffreefeel%2Fdmml006226x006240.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 3880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/freefeel_dmml006226x006240"
         available: true
+        rating: 4.65
+        reviewCount: 17
   - rank: 9
     name: "アンナトゥモール モイストヘアコンディショナー 300ml 詰替"
     brand: "アンナトゥモール"
@@ -235,10 +241,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fa0090012.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-05-30"
         price: 2970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_a0090012"
         available: true
+        rating: 4.5
+        reviewCount: 14
 tags:
   - "コンディショナー"
   - "コスパ"

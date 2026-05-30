@@ -3,7 +3,7 @@ title: "シャンプー比較【2026年版】コスパと仕上がりで選ぶ10
 description: "シャンプーを1mLあたりの価格と仕上がりで比較。家族用・ダメージケア・スカルプ系まで、選び方の基準を整理します。"
 category: "shampoo"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-29
+updatedAt: "2026-05-30"
 products:
   - rank: 1
     name: "パンテーン シャンプー 詰め替え エクストラダメージケア"
@@ -63,10 +63,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301450128.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 769
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301450128"
         available: true
+        rating: 0
+        reviewCount: 2
   - rank: 3
     name: "ザクロー精炭酸シャンプー 詰替用"
     brand: "サニープレイス"
@@ -94,10 +96,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmomotaroucrub%2Fa--h-sy-0020-00-muryo.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 2240
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/momotaroucrub_a--h-sy-0020-00-muryo"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 4
     name: "マイマボタニカル 育毛シャンプー"
     brand: "マイマ"
@@ -169,10 +173,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmcosme-style%2Fumahai0000.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 4400
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mcosme-style_umahai0000"
         available: true
+        rating: 4.5
+        reviewCount: 6
   - rank: 7
     name: "ケラスターゼ バン ニュートリ フォーティファイ"
     brand: "ケラスターゼ"
@@ -200,10 +206,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisopo%2F3474636858033.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 4180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_3474636858033"
         available: true
+        rating: 4.45
+        reviewCount: 11
   - rank: 8
     name: "ケラスターゼ バン デンシフィック"
     brand: "ケラスターゼ"
@@ -231,10 +239,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fafloat-store%2F3474636403912.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 3760
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/afloat-store_3474636403912"
         available: true
+        rating: 4.61
+        reviewCount: 18
   - rank: 9
     name: "スカルプD モーニング 炭酸シャンプー"
     brand: "スカルプD"

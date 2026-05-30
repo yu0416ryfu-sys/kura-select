@@ -3,7 +3,7 @@ title: "粘着クリーナー コスパ最強ランキング【2026年版】1巻
 description: "粘着クリーナー（コロコロ）を1巻あたりのコストで徹底比較。ニトムズ・アイリスオーヤマ・3M・レックなど人気9選を粘着力・コスパで解説します。"
 category: "lint-roller"
 publishedAt: "2026-05-01"
-updatedAt: "2026-05-27"
+updatedAt: "2026-05-30"
 products:
   - rank: 1
     name: "3M スコッチ ブライト 衣類用粘着クリーナー ペタコロ用ス"
@@ -28,28 +28,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tiz9n.3rdw6353.g00tiz9n.3rdw771a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprotoolshop%2F4547452231119%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprotoolshop%2Fi%2F10170127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/protoolshop/cabinet/119/4547452231119.jpg?_ex=128x128"
   - rank: 2
-    name: "レック 激コロ スゴ技カット スペアテープ 3巻入り"
-    brand: "レック"
-    price: 690
-    capacity: "3巻（1巻70周）"
-    pricePerUnit: "約230円/巻"
-    rating: 5
-    reviewCount: 2
-    features:
-      - "特殊なスパイラルカットで手でまっすぐめくれる"
-      - "1巻70周で標準より多い周回数"
-      - "強粘着タイプでペットの毛もキャッチ"
-    pros:
-      - "スパイラルカットでめくりストレスゼロ"
-      - "70周と多めでコスパが良い"
-      - "強粘着でしっかりゴミを取れる"
-    cons:
-      - "フローリングでは貼り付きやすい"
-      - "3巻入りのみで大容量パックがない"
-    recommendedFor: "ペットを飼っている方・カーペットの掃除が多い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ucoln.3rdw667d.g00ucoln.3rdw71eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenicy2022%2Ff671%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenicy2022%2Fi%2F10009158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enicy2022/cabinet/tmb/f/f671.jpg?_ex=128x128"
-  - rank: 3
     name: "アイム ミラクルくるsoujikko 粘着クリーナー"
     brand: "アイム"
     price: 4607
@@ -71,6 +49,28 @@ products:
     recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0k0n.3rdw6b8e.g00u0k0n.3rdw7ca2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimximx%2F4978406020464-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimximx%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/imximx/cabinet/compass1739768026.jpg?_ex=128x128"
+  - rank: 3
+    name: "レック 激コロ スゴ技カット スペアテープ 3巻入り"
+    brand: "レック"
+    price: 790
+    capacity: "3巻（1巻70周）"
+    pricePerUnit: "約263円/巻"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "特殊なスパイラルカットで手でまっすぐめくれる"
+      - "1巻70周で標準より多い周回数"
+      - "強粘着タイプでペットの毛もキャッチ"
+    pros:
+      - "スパイラルカットでめくりストレスゼロ"
+      - "70周と多めでコスパが良い"
+      - "強粘着でしっかりゴミを取れる"
+    cons:
+      - "フローリングでは貼り付きやすい"
+      - "3巻入りのみで大容量パックがない"
+    recommendedFor: "ペットを飼っている方・カーペットの掃除が多い方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ucoln.3rdw667d.g00ucoln.3rdw71eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenicy2022%2Ff671%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenicy2022%2Fi%2F10009158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enicy2022/cabinet/tmb/f/f671.jpg?_ex=128x128"
   - rank: 4
     name: "ニトムズ コロコロ スペアテープ フロアクリン 3巻入り"
     brand: "ニトムズ"
@@ -98,10 +98,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4904140583538.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-30"
         price: 526
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4904140583538"
         available: true
+        rating: 4.8
+        reviewCount: 5
   - rank: 5
     name: "b2c カーペットクリーナー"
     brand: "sarasa design"
