@@ -435,6 +435,18 @@ describe("extractCapacityTotal", () => {
   it("CAPACITY_UNITS基底単位のケースをPACK_UNITSより優先する（既存動作の回帰確認）", () => {
     expect(extractCapacityTotal("40m×4ロール")).toEqual({ total: 160, unit: "m" });
   });
+
+  it("小数容量を解析する（5.26kg）", () => {
+    expect(extractCapacityTotal("5.26kg")).toEqual({ total: 5.26, unit: "kg" });
+  });
+
+  it("1未満の小数容量を解析する（0.9L）", () => {
+    expect(extractCapacityTotal("0.9L")).toEqual({ total: 0.9, unit: "L" });
+  });
+
+  it("小数基底量の掛け算を計算する（1.5L×2本）", () => {
+    expect(extractCapacityTotal("1.5L×2本")).toEqual({ total: 3, unit: "L" });
+  });
 });
 
 // ─── normalizeCapacityTotal ───────────────────────────────────────────────
@@ -1339,6 +1351,14 @@ describe("calcPricePerUnit", () => {
 
   it("10円以上の単価は整数で表示する", () => {
     expect(calcPricePerUnit(1500, "50枚")).toBe("約30円/枚");
+  });
+
+  it("小数容量から単価を計算する（5.26kg）", () => {
+    expect(calcPricePerUnit(3425, "5.26kg")).toBe("約651円/kg");
+  });
+
+  it("小数基底量の掛け算容量から単価を計算する（1.5L×2本）", () => {
+    expect(calcPricePerUnit(900, "1.5L×2本")).toBe("約300円/L");
   });
 
   it("解析できない容量は null を返す", () => {
