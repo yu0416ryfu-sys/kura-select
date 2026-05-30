@@ -40,7 +40,7 @@ export function pricePerUnitSortValue(
   pricePerUnit: string | null | undefined
 ): number {
   if (!shouldShowPricePerUnit(price, pricePerUnit)) return Infinity;
-  const value = parseFloat(pricePerUnit.replace(/[^0-9.]/g, ""));
+  const value = parseFloat((pricePerUnit ?? "").replace(/[^0-9.]/g, ""));
   return Number.isFinite(value) ? value : Infinity;
 }
 

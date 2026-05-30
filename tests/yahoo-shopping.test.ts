@@ -41,6 +41,8 @@ describe("yahoo-shopping", () => {
         label: "Yahoo!",
         name: "サンプル洗剤 詰め替え 1200mL",
         price: 1280,
+        rating: 4.62,
+        reviewCount: 81,
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=1&pid=2&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsample%2Fitem.html",
         imageUrl: "https://item-shopping.c.yimg.jp/i/n/sample_300",
         available: true,
@@ -51,6 +53,20 @@ describe("yahoo-shopping", () => {
 
   it("normalizes empty responses as an empty array", () => {
     expect(normalizeYahooItemSearchResponse(empty)).toEqual([]);
+  });
+
+  it("normalizes missing review fields as null rating values", () => {
+    expect(
+      normalizeYahooItemSearchResponse({
+        hits: [
+          {
+            name: "レビューなし商品",
+            url: "https://store.shopping.yahoo.co.jp/sample/no-review.html",
+            price: 980,
+          },
+        ],
+      })
+    ).toMatchObject([{ rating: null, reviewCount: null }]);
   });
 
   it("throws a clear error when credentials are missing", async () => {

@@ -6,6 +6,7 @@ export interface YahooShoppingHit {
   exImage?: { url?: string };
   inStock?: boolean;
   seller?: { name?: string };
+  review?: { rate?: number; count?: number };
 }
 
 export interface YahooOfferCandidate {
@@ -13,6 +14,8 @@ export interface YahooOfferCandidate {
   label: "Yahoo!";
   name: string;
   price: number | null;
+  rating?: number | null;
+  reviewCount?: number | null;
   url: string;
   imageUrl: string | null;
   available: boolean;
@@ -57,20 +60,21 @@ export function normalizeYahooItemSearchResponse(response: unknown): YahooOfferC
     : [];
 
   return hits
-    .map((hit) => {
-      if (!hit.name || !hit.url) return null;
-      return {
+    .flatMap((hit): YahooOfferCandidate[] => {
+      if (!hit.name || !hit.url) return [];
+      return [{
         provider: "yahoo" as const,
         label: "Yahoo!" as const,
         name: hit.name,
         price: typeof hit.price === "number" ? hit.price : null,
+        rating: typeof hit.review?.rate === "number" ? hit.review.rate : null,
+        reviewCount: typeof hit.review?.count === "number" ? hit.review.count : null,
         url: hit.url,
         imageUrl: hit.exImage?.url ?? hit.image?.medium ?? hit.image?.small ?? null,
         available: hit.inStock !== false,
         sellerName: hit.seller?.name ?? null,
-      };
-    })
-    .filter((candidate): candidate is YahooOfferCandidate => Boolean(candidate));
+      }];
+    });
 }
 
 export async function searchYahooShoppingItems(

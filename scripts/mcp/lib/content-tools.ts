@@ -1,4 +1,4 @@
-import { readFileSync, readdirSync, existsSync, statSync } from 'fs';
+import { readFileSync, readdirSync, existsSync, statSync, type Dirent } from 'fs';
 import { join, resolve, relative } from 'path';
 import yaml from 'js-yaml';
 import {
@@ -274,7 +274,7 @@ function detectKind(filename: string): string | null {
 }
 
 function scanReportsDir(dir: string, targetKind: string, results: ReportSummary[]): void {
-  let entries: ReturnType<typeof readdirSync>;
+  let entries: Dirent<string>[];
   try {
     entries = readdirSync(dir, { withFileTypes: true });
   } catch {

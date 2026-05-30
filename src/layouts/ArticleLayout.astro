@@ -15,6 +15,7 @@ import {
   getStaticAffiliateProvidersFromEnv,
   sortOffersByPriceForDisplay,
   getLowestVisibleOffer,
+  getRakutenRating,
 } from "../lib/offers";
 import { formatPriceOrConfirmation, isKnownPrice, shouldShowPricePerUnit } from "../lib/price";
 import { calcPricePerUnit } from "../lib/capacity";
@@ -103,13 +104,18 @@ const productJsonLds = data.products
         returnPolicyCategory: "https://schema.org/MerchantReturnNotPermitted",
       },
     },
-    aggregateRating: p.rating !== undefined ? {
-      "@type": "AggregateRating",
-      ratingValue: p.rating,
-      reviewCount: p.reviewCount ?? 1,
-      bestRating: 5,
-      worstRating: 1,
-    } : undefined,
+    aggregateRating: (() => {
+      const r = getRakutenRating(p);
+      return r
+        ? {
+            "@type": "AggregateRating",
+            ratingValue: r.rating,
+            reviewCount: r.reviewCount,
+            bestRating: 5,
+            worstRating: 1,
+          }
+        : undefined;
+    })(),
   }));
 ---
 

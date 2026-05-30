@@ -32,6 +32,8 @@ export interface OfferCandidate {
   asin?: string | null;
   name: string;
   price: number | null;
+  rating?: number | null;
+  reviewCount?: number | null;
   url: string;
   imageUrl: string | null;
   available: boolean;
@@ -48,7 +50,7 @@ export interface ProviderOfferUpdateResult {
 function sanitizeAmazonOffer(
   offer: Record<string, unknown>
 ): Record<string, unknown> {
-  const { price: _p, available: _a, imageUrl: _i, ...rest } = offer;
+  const { price: _p, rating: _r, reviewCount: _rc, available: _a, imageUrl: _i, ...rest } = offer;
   return rest;
 }
 
@@ -106,6 +108,10 @@ export function upsertProviderOfferInFrontmatter(
           newOffer.available = candidate.available;
           if (candidate.price != null) newOffer.price = candidate.price;
           else delete newOffer.price;
+          if (candidate.rating != null) newOffer.rating = candidate.rating;
+          else delete newOffer.rating;
+          if (candidate.reviewCount != null) newOffer.reviewCount = candidate.reviewCount;
+          else delete newOffer.reviewCount;
           if (candidate.imageUrl != null) newOffer.imageUrl = candidate.imageUrl;
           else delete newOffer.imageUrl;
         } else {
@@ -122,6 +128,8 @@ export function upsertProviderOfferInFrontmatter(
           updated = {
             ...updated,
             price: candidate.price ?? existing.price,
+            rating: candidate.rating ?? existing.rating,
+            reviewCount: candidate.reviewCount ?? existing.reviewCount,
             imageUrl: candidate.imageUrl ?? existing.imageUrl,
             available: candidate.available,
           };
@@ -150,10 +158,16 @@ export function upsertProviderOfferInFrontmatter(
         if (urlChanged) {
           if (candidate.price != null) newOffer.price = candidate.price;
           else delete newOffer.price;
+          if (candidate.rating != null) newOffer.rating = candidate.rating;
+          else delete newOffer.rating;
+          if (candidate.reviewCount != null) newOffer.reviewCount = candidate.reviewCount;
+          else delete newOffer.reviewCount;
           if (candidate.imageUrl != null) newOffer.imageUrl = candidate.imageUrl;
           else delete newOffer.imageUrl;
         } else {
           newOffer.price = candidate.price ?? existing.price;
+          newOffer.rating = candidate.rating ?? existing.rating;
+          newOffer.reviewCount = candidate.reviewCount ?? existing.reviewCount;
           newOffer.imageUrl = candidate.imageUrl ?? existing.imageUrl;
           if (options.capacityVerified && options.strictMatch) {
             newOffer.matchStatus = "matched";
@@ -185,6 +199,8 @@ export function upsertProviderOfferInFrontmatter(
     // Amazon 以外のみ価格・在庫・画像を保存
     if (!isAmazon) {
       if (candidate.price != null) newEntry.price = candidate.price;
+      if (candidate.rating != null) newEntry.rating = candidate.rating;
+      if (candidate.reviewCount != null) newEntry.reviewCount = candidate.reviewCount;
       if (candidate.imageUrl != null) newEntry.imageUrl = candidate.imageUrl;
       newEntry.available = candidate.available;
     }

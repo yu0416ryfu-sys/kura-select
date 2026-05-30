@@ -56,6 +56,8 @@ const productsForTable = products.map((product) => {
       label: o.label,
       url: o.url,
       asin: o.asin,
+      rating: o.provider === "amazon" ? undefined : o.rating,
+      reviewCount: o.provider === "amazon" ? undefined : o.reviewCount,
       updatedAt: o.updatedAt instanceof Date ? o.updatedAt.toISOString() : o.updatedAt,
     })),
     priceSummary: getOfferPriceSummary(product, { enabledProviders: priceProviders }),
@@ -73,4 +75,7 @@ const productsForTable = products.map((product) => {
     enabledProviders={linkProviders}
     client:visible
   />
+  <p class="text-xs text-[var(--color-text-sub)] mt-2">
+    ※ 評価は各ショップ（楽天市場・Yahoo!ショッピング等）のレビュー平均・件数です。集計時点の値で、最新はリンク先でご確認ください。
+  </p>
 </div>

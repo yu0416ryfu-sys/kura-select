@@ -1,5 +1,6 @@
 import { describe, it, expect } from "vitest";
 import { upsertYahooOfferInFrontmatter, markProviderOffersForReview } from "../scripts/lib/yahoo-offers";
+import { upsertProviderOfferInFrontmatter } from "../scripts/lib/offers-frontmatter";
 
 // ─── テスト用フィクスチャ ─────────────────────────────────────────────────────
 
@@ -128,6 +129,23 @@ const candidateSameUrl = {
   url: OLD_URL,
 };
 
+const candidateWithRating = {
+  ...candidateSameUrl,
+  rating: 4.58,
+  reviewCount: 246,
+};
+
+const candidateNewUrlWithRating = {
+  ...candidateWithRating,
+  url: NEW_URL,
+};
+
+const candidateWithoutRating = {
+  ...candidateNewUrl,
+  rating: null,
+  reviewCount: null,
+};
+
 // ─── upsertYahooOfferInFrontmatter ────────────────────────────────────────────
 
 describe("upsertYahooOfferInFrontmatter - 既存 matched / legacy 保護", () => {
@@ -194,6 +212,75 @@ describe("upsertYahooOfferInFrontmatter - 新規offer追加", () => {
     const result = upsertYahooOfferInFrontmatter(CONTENT_NO_OFFER, "テスト商品", candidateNewUrl, "2026-05-19");
     expect(result.content).not.toContain('"matched"');
     expect(result.content).toContain('"pending"');
+  });
+});
+
+describe("upsertProviderOfferInFrontmatter - rating/reviewCount", () => {
+  it("新規 Yahoo offer に rating/reviewCount を書き込む", () => {
+    const result = upsertProviderOfferInFrontmatter(
+      CONTENT_NO_OFFER,
+      "テスト商品",
+      candidateNewUrlWithRating,
+      "2026-05-19"
+    );
+
+    expect(result.changed).toBe(true);
+    expect(result.content).toContain("rating: 4.58");
+    expect(result.content).toContain("reviewCount: 246");
+  });
+
+  it("同一URL更新では rating/reviewCount を最新値で更新する", () => {
+    const result = upsertProviderOfferInFrontmatter(
+      CONTENT_MATCHED,
+      "テスト商品",
+      candidateWithRating,
+      "2026-05-19"
+    );
+
+    expect(result.changed).toBe(true);
+    expect(result.content).toContain("rating: 4.58");
+    expect(result.content).toContain("reviewCount: 246");
+  });
+
+  it("pending の同一URL更新では rating/reviewCount を書き込む", () => {
+    const result = upsertProviderOfferInFrontmatter(
+      CONTENT_PENDING,
+      "テスト商品",
+      candidateWithRating,
+      "2026-05-19"
+    );
+
+    expect(result.changed).toBe(true);
+    expect(result.content).toContain("rating: 4.58");
+    expect(result.content).toContain("reviewCount: 246");
+  });
+
+  it("pending のURL変更では検証済みの場合だけ rating/reviewCount を置換する", () => {
+    const result = upsertProviderOfferInFrontmatter(
+      CONTENT_PENDING,
+      "テスト商品",
+      candidateNewUrlWithRating,
+      "2026-05-19",
+      { capacityVerified: true }
+    );
+
+    expect(result.changed).toBe(true);
+    expect(result.content).toContain(NEW_URL);
+    expect(result.content).toContain("rating: 4.58");
+    expect(result.content).toContain("reviewCount: 246");
+  });
+
+  it("評価 null の候補では新規 offer に rating/reviewCount を設定しない", () => {
+    const result = upsertProviderOfferInFrontmatter(
+      CONTENT_NO_OFFER,
+      "テスト商品",
+      candidateWithoutRating,
+      "2026-05-19"
+    );
+
+    expect(result.changed).toBe(true);
+    expect(result.content).not.toContain("rating:");
+    expect(result.content).not.toContain("reviewCount:");
   });
 });
 

@@ -14,6 +14,7 @@ import {
   buildYahooSearchUrl,
   buildAmazonSearchUrl,
   getAmazonSearchFallbackOffer,
+  getRakutenRating,
   PROVIDER_META,
 } from "../src/lib/offers";
 
@@ -27,16 +28,29 @@ describe("offers helper", () => {
       getRakutenFallbackOffer({
         rakutenUrl,
         price: 1200,
+        rating: 4.7,
+        reviewCount: 123,
         imageUrl: "https://example.com/image.jpg",
       })
     ).toEqual({
       provider: "rakuten",
       label: "楽天市場",
       price: 1200,
+      rating: 4.7,
+      reviewCount: 123,
       url: rakutenUrl,
       imageUrl: "https://example.com/image.jpg",
       available: true,
     });
+  });
+
+  it("returns Rakuten rating only when both rating and reviewCount exist", () => {
+    expect(getRakutenRating({ rating: 4.6, reviewCount: 80 })).toEqual({
+      rating: 4.6,
+      reviewCount: 80,
+    });
+    expect(getRakutenRating({ rating: 4.6 })).toBeNull();
+    expect(getRakutenRating({ reviewCount: 80 })).toBeNull();
   });
 
   it("uses Rakuten fallback when offers are missing", () => {
@@ -76,7 +90,7 @@ describe("offers helper", () => {
     const offers = getVisibleOffers(
       {
         offers: [
-          { provider: "yahoo", url: yahooUrl },
+          { provider: "yahoo", url: yahooUrl, rating: 4.4, reviewCount: 55 },
           { provider: "rakuten", url: rakutenUrl },
         ],
       },
@@ -84,6 +98,10 @@ describe("offers helper", () => {
     );
 
     expect(offers.map((offer) => offer.provider)).toEqual(["rakuten", "yahoo"]);
+    expect(offers.find((offer) => offer.provider === "yahoo")).toMatchObject({
+      rating: 4.4,
+      reviewCount: 55,
+    });
   });
 
   it("prefers Rakuten as the primary offer", () => {

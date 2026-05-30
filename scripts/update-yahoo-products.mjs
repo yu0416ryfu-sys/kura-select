@@ -182,6 +182,8 @@ async function processArticle(file) {
           lines.push("- decision: auto");
           lines.push(`- candidate: ${c.name}`);
           lines.push(`- price: ${c.price ?? "-"}`);
+          lines.push(`- rating: ${c.rating ?? "-"}`);
+          lines.push(`- review count: ${c.reviewCount ?? "-"}`);
           lines.push(`- url: ${c.url}`);
           const candidateCap = evaluation.candidateCapacity ?? "-";
           const currentCap = product.capacity ?? "-";

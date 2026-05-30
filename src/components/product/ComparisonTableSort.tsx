@@ -6,6 +6,7 @@ import {
   getProviderGaEvent,
   getProviderName,
   getProviderPurchaseLabel,
+  getProviderShortLabel,
 } from "../../lib/offers";
 import {
   compareKnownPrice,
@@ -22,6 +23,8 @@ interface VisibleOfferForTable {
   label?: string;
   url: string;
   asin?: string;
+  rating?: number;
+  reviewCount?: number;
   // Astro 側で .toISOString() して渡す（z.coerce.date() が Date に変換するため）
   updatedAt?: string;
 }
@@ -113,6 +116,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
     "grid grid-cols-[38px_92px_112px] items-center gap-2";
   const mobilePriceRowCls =
     "grid grid-cols-[36px_minmax(70px,1fr)_132px] items-center gap-2";
+  const ratingProviderCls = "text-[var(--color-text-sub)] w-14 shrink-0";
   const purchaseButtonCls =
     "whitespace-nowrap inline-flex items-center justify-center gap-1 text-xs px-2.5 py-1.5 rounded-lg font-medium transition-all min-h-[32px] w-[112px]";
   const mobilePurchaseButtonCls =
@@ -276,15 +280,36 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                     })()}
                   </td>
                   <td class="px-3 py-3 align-middle">
-                    {p.rating !== undefined && (
-                      <div class="flex items-center gap-1 whitespace-nowrap">
-                        <span class="text-[var(--color-warning)]">★</span>
-                        <span class="font-medium">{p.rating.toFixed(1)}</span>
-                        {p.reviewCount !== undefined && (
-                          <span class="text-xs text-[var(--color-text-sub)]">({p.reviewCount.toLocaleString()})</span>
-                        )}
-                      </div>
-                    )}
+                    <div class="space-y-2">
+                      {offers.map((offer) => {
+                        const rating =
+                          offer.rating ??
+                          (offer.provider === "rakuten" ? p.rating : undefined);
+                        const reviewCount =
+                          offer.reviewCount ??
+                          (offer.provider === "rakuten" ? p.reviewCount : undefined);
+                        return (
+                          <div key={offer.provider} class="flex items-center gap-1 whitespace-nowrap text-xs">
+                            <span class={ratingProviderCls}>
+                              {getProviderShortLabel(offer.provider)}
+                            </span>
+                            {rating !== undefined ? (
+                              <>
+                                <span class="text-[var(--color-warning)]">★</span>
+                                <span class="font-medium">{rating.toFixed(1)}</span>
+                                {reviewCount !== undefined && (
+                                  <span class="text-[var(--color-text-sub)]">
+                                    ({reviewCount.toLocaleString()})
+                                  </span>
+                                )}
+                              </>
+                            ) : (
+                              <span class="text-[var(--color-text-sub)]">—</span>
+                            )}
+                          </div>
+                        );
+                      })}
+                    </div>
                   </td>
                 </tr>
               );
@@ -338,12 +363,36 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                     </span>
                   ) : null;
                 })()}
-                {p.rating !== undefined && (
-                  <span class="flex items-center gap-0.5 text-xs">
-                    <span class="text-[var(--color-warning)]">★</span>
-                    {p.rating.toFixed(1)}
-                  </span>
-                )}
+              </div>
+              <div class="mb-3 space-y-1">
+                {offers.map((offer) => {
+                  const rating =
+                    offer.rating ??
+                    (offer.provider === "rakuten" ? p.rating : undefined);
+                  const reviewCount =
+                    offer.reviewCount ??
+                    (offer.provider === "rakuten" ? p.reviewCount : undefined);
+                  return (
+                    <div key={offer.provider} class="flex items-center gap-1 text-xs">
+                      <span class={ratingProviderCls}>
+                        {getProviderShortLabel(offer.provider)}
+                      </span>
+                      {rating !== undefined ? (
+                        <>
+                          <span class="text-[var(--color-warning)]">★</span>
+                          <span class="font-medium">{rating.toFixed(1)}</span>
+                          {reviewCount !== undefined && (
+                            <span class="text-[var(--color-text-sub)]">
+                              ({reviewCount.toLocaleString()})
+                            </span>
+                          )}
+                        </>
+                      ) : (
+                        <span class="text-[var(--color-text-sub)]">—</span>
+                      )}
+                    </div>
+                  );
+                })}
               </div>
               {/* ショップ別価格・購入行 */}
               <div class="space-y-2">

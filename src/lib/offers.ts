@@ -7,6 +7,8 @@ export interface ProductOffer {
   label?: string;
   asin?: string;
   price?: number;
+  rating?: number;
+  reviewCount?: number;
   url: string;
   imageUrl?: string;
   available?: boolean;
@@ -47,6 +49,8 @@ interface ProductWithOffers {
   offers?: ProductOffer[];
   rakutenUrl?: string;
   price?: number;
+  rating?: number;
+  reviewCount?: number;
   imageUrl?: string;
 }
 
@@ -192,10 +196,22 @@ export function getRakutenFallbackOffer(product: ProductWithOffers): ProductOffe
     provider: "rakuten",
     label: "楽天市場",
     price: product.price,
+    rating: product.rating,
+    reviewCount: product.reviewCount,
     url: product.rakutenUrl!,
     imageUrl: product.imageUrl,
     available: true,
   };
+}
+
+// JSON-LD aggregateRating 用の単一ソース（楽天）評価。
+// Yahoo など複数サイトの評価を合算せず、商品レベルの楽天値だけを使う。
+export function getRakutenRating(
+  product: { rating?: number; reviewCount?: number }
+): { rating: number; reviewCount: number } | null {
+  if (typeof product.rating !== "number") return null;
+  if (typeof product.reviewCount !== "number") return null;
+  return { rating: product.rating, reviewCount: product.reviewCount };
 }
 
 export function buildYahooSearchUrl(keyword: string, sid: string, pid: string): string {

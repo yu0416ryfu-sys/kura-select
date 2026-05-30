@@ -7,6 +7,8 @@ const offerSchema = z.object({
   label: z.string().optional(),
   asin: z.string().optional(),
   price: z.number().int().nonnegative().optional(),
+  rating: z.number().min(0).max(5).optional(),
+  reviewCount: z.number().int().nonnegative().optional(),
   url: z.string().url(),
   imageUrl: z.string().url().optional(),
   available: z.boolean().optional(),
