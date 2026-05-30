@@ -1757,6 +1757,16 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
     };
   }
 
+  if (category === 'tissue-paper' && /ウェットティッシュ|ウエットティッシュ|除菌シート|手口ふき/.test(baseKeyword)) {
+    return {
+      keywords: ['ウェットティッシュ まとめ買い', '除菌ウェットティッシュ', 'ノンアルコール ウェットティッシュ'],
+      include: ['ウェットティッシュ', 'ウエットティッシュ', '除菌シート', '手口ふき', 'おしりふき', 'ウェットシート'],
+      exclude: ['ティッシュペーパー', '箱ティッシュ', 'ソフトパックティッシュ', 'ボックスティッシュ'],
+      units: ['枚', '個', 'パック'],
+      minScore: 3,
+    };
+  }
+
   if (category === 'toothpaste' && /デンタルフロス|フロス|歯間ブラシ|糸ようじ/.test(baseKeyword)) {
     return {
       keywords: ['デンタルフロス', 'フロスピック 100本', 'ウルトラフロス 30本'],

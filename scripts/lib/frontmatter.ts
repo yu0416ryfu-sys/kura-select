@@ -297,6 +297,12 @@ export function isMultiMeasureVariantItemName(itemName: string): boolean {
  */
 export function extractCapacityFromItemName(itemName: string): string | null {
   itemName = normalizeItemName(itemName);
+  // 体重上限表記（「5kgまで」「3000gまで」「〜5000g」）を除去して容量誤抽出を防ぐ
+  // 例: "5kgまで72枚入" → "72枚入" / "お誕生〜3000g 紙おむつ" → "紙おむつ"
+  itemName = itemName
+    .replace(/\d[\d,]*(?:\.\d+)?\s*(?:kg|g)\s*まで/g, '')
+    .replace(/(?:〜|~)\s*\d[\d,]*(?:\.\d+)?\s*(?:kg|g)/g, '')
+    .trim();
   // 先頭の【N個/セット/パック】を乗算子として処理
   // 例: "【2個】ビオレ 500mL" → "500mL×2個"（乗数が未内包なので折り込む）
   // 例: "【12個】グーン 70枚×12P" → "70枚×12"（×12に既に内包されているのでそのまま）
