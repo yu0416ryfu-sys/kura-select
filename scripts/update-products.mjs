@@ -1630,6 +1630,12 @@ const CATEGORY_SEARCH_RULES = {
     units: ['枚', '個'],
     requiredGroups: [['洗濯ネット', 'ランドリーネット', '洗濯袋']],
   },
+  'pet-sheet': {
+    keywords: ['ペットシーツ まとめ買い', 'ペットシート 大容量', 'トイレシート 犬 猫'],
+    include: ['ペットシーツ', 'ペットシート', 'トイレシート', 'トイレシーツ'],
+    exclude: ['トイレトレー', 'トイレマット', 'シーツカバー', 'ホルダー'],
+    units: ['枚'],
+  },
 };
 
 const DEFAULT_EXCLUDE_TERMS = ['ケースのみ', 'ホルダー', 'スタンド', '収納', '詰め替え容器', 'ディスペンサー'];
@@ -1764,6 +1770,17 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
       exclude: ['ティッシュペーパー', '箱ティッシュ', 'ソフトパックティッシュ', 'ボックスティッシュ'],
       units: ['枚', '個', 'パック'],
       minScore: 3,
+    };
+  }
+
+  if (category === 'pet-sheet' && /レギュラー/.test(baseKeyword)) {
+    return {
+      keywords: ['ペットシーツ レギュラー まとめ買い', 'ペットシート レギュラー 大容量', 'トイレシート レギュラー 犬 猫'],
+      include: ['ペットシーツ', 'ペットシート', 'トイレシート', 'トイレシーツ'],
+      requiredGroups: [['レギュラー']],
+      exclude: ['ワイドのみ', 'スーパーワイドのみ', 'ダブルワイドのみ', 'トイレトレー', 'トイレマット', 'シーツカバー', 'ホルダー'],
+      units: ['枚'],
+      minScore: 4,
     };
   }
 
