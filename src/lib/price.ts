@@ -2,8 +2,8 @@ type SortDirection = "asc" | "desc";
 
 interface PricePerUnitComparable {
   price: number | null | undefined;
+  // 最安サイトの価格 × capacity から算出した単価文字列（サイト非依存）
   pricePerUnit?: string | null;
-  lowestProvider?: string | null;
 }
 
 export function isKnownPrice(price: number | null | undefined): price is number {
@@ -49,8 +49,9 @@ export function comparePricePerUnit(
   b: PricePerUnitComparable,
   direction: SortDirection
 ): number {
-  const av = a.lowestProvider === "rakuten" ? pricePerUnitSortValue(a.price, a.pricePerUnit) : Infinity;
-  const bv = b.lowestProvider === "rakuten" ? pricePerUnitSortValue(b.price, b.pricePerUnit) : Infinity;
+  // 最安サイトの算出単価で比較する（provider は問わない）
+  const av = pricePerUnitSortValue(a.price, a.pricePerUnit);
+  const bv = pricePerUnitSortValue(b.price, b.pricePerUnit);
   if (av === Infinity && bv === Infinity) return 0;
   if (av === Infinity) return 1;
   if (bv === Infinity) return -1;

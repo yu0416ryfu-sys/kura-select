@@ -13,8 +13,11 @@ import {
   getVisibleOffers,
   getEnabledAffiliateProvidersFromEnv,
   getStaticAffiliateProvidersFromEnv,
+  sortOffersByPriceForDisplay,
+  getLowestVisibleOffer,
 } from "../lib/offers";
 import { formatPriceOrConfirmation, isKnownPrice, shouldShowPricePerUnit } from "../lib/price";
+import { calcPricePerUnit } from "../lib/capacity";
 import { SITE, url } from "../lib/site";
 import type { CollectionEntry } from "astro:content";
 
@@ -192,12 +195,19 @@ const productJsonLds = data.products
             tag: import.meta.env.AMAZON_ASSOCIATE_TAG,
           };
           const visibleOffers = getVisibleOffers(top, { enabledProviders: linkProviders, yahooSearchFallback, amazonSearchFallback });
+          const sortedOffers = sortOffersByPriceForDisplay(visibleOffers);
+          const lowestVisibleOffer = getLowestVisibleOffer(visibleOffers);
+          const isLowestOffer = (offer: typeof visibleOffers[number]) =>
+            lowestVisibleOffer
+              ? offer.provider === lowestVisibleOffer.provider && offer.url === lowestVisibleOffer.url
+              : offer.provider === "rakuten";
           const topSummary = getOfferPriceSummary(top, { enabledProviders: priceProviders });
           const topDisplayPrice = topSummary.lowestPrice ?? (isKnownPrice(top.price) ? top.price : null);
+          // コスパ（単価）は最安サイトの価格 × capacity から表示時計算する
+          const topLowestPricePerUnit = topDisplayPrice != null ? calcPricePerUnit(topDisplayPrice, top.capacity) : null;
           const topPricePerUnitText =
-            topSummary.lowestProvider === "rakuten" &&
-            shouldShowPricePerUnit(topDisplayPrice, top.pricePerUnit)
-              ? `　${top.pricePerUnit}`
+            shouldShowPricePerUnit(topDisplayPrice, topLowestPricePerUnit)
+              ? `　${topLowestPricePerUnit}`
               : "";
           return (
             <div class="mt-8 p-4 md:p-5 bg-sky-50 border border-sky-200 rounded-xl flex flex-col sm:flex-row items-start sm:items-center gap-4">
@@ -210,14 +220,14 @@ const productJsonLds = data.products
                 )}
               </div>
               <div class="flex flex-col sm:flex-row gap-2">
-                {visibleOffers.map((offer) => (
+                {sortedOffers.map((offer) => (
                   <AffiliateLink
                     href={offer.url}
                     provider={offer.provider}
                     label={offer.label}
                     productName={top.name}
                     size="sm"
-                    variant={offer.provider === "rakuten" ? "primary" : "outline"}
+                    variant={isLowestOffer(offer) ? "primary" : "outline"}
                   />
                 ))}
               </div>

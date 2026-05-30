@@ -7,9 +7,12 @@ import {
   getStaticAffiliateProvidersFromEnv,
   getProviderBadgeClass,
   getProviderShortLabel,
+  sortOffersByPriceForDisplay,
+  getLowestVisibleOffer,
   type ProductOffer,
 } from "../../lib/offers";
 import { formatPriceOrConfirmation, isKnownPrice, shouldShowPricePerUnit } from "../../lib/price";
+import { calcPricePerUnit } from "../../lib/capacity";
 
 const linkProviders = getEnabledAffiliateProvidersFromEnv(import.meta.env);
 const priceProviders = getStaticAffiliateProvidersFromEnv(import.meta.env);
@@ -48,12 +51,26 @@ const amazonSearchFallback = {
   tag: import.meta.env.AMAZON_ASSOCIATE_TAG,
 };
 const visibleOffers = getVisibleOffers(product, { enabledProviders: linkProviders, yahooSearchFallback, amazonSearchFallback });
+// 購入ボタンは最安サイト先頭で表示する
+const sortedOffers = sortOffersByPriceForDisplay(visibleOffers);
+const lowestVisibleOffer = getLowestVisibleOffer(visibleOffers);
+const isLowestOffer = (offer: ProductOffer) =>
+  lowestVisibleOffer
+    ? offer.provider === lowestVisibleOffer.provider && offer.url === lowestVisibleOffer.url
+    : offer.provider === "rakuten";
 const priceSummary = getOfferPriceSummary(product, { enabledProviders: priceProviders });
 const displayPrice = priceSummary.lowestPrice ?? (isKnownPrice(product.price) ? product.price : null);
-const showPricePerUnit =
-  priceSummary.lowestProvider === "rakuten" &&
-  shouldShowPricePerUnit(displayPrice, product.pricePerUnit);
+// コスパ（単価）は最安サイトの価格 × capacity から表示時計算する
+const lowestPricePerUnit = displayPrice != null ? calcPricePerUnit(displayPrice, product.capacity) : null;
+const showPricePerUnit = shouldShowPricePerUnit(displayPrice, lowestPricePerUnit);
 const hasMultipleProviders = priceSummary.priceRows.length >= 2;
+// 価格行はサイト別・最安先頭で、各サイトの単価を併記する
+const priceRowsForDisplay = [...priceSummary.priceRows]
+  .sort((a, b) => a.price - b.price)
+  .map((row) => ({
+    ...row,
+    pricePerUnitLabel: calcPricePerUnit(row.price, product.capacity),
+  }));
 
 const rankColors: Record<number, string> = {
   1: "bg-amber-400 text-white",
@@ -122,8 +139,13 @@ const rankColor = rankColors[product.rank] ?? "bg-[var(--color-surface)] text-[v
         )}
       </div>
       {hasMultipleProviders && (
-        <div class="text-xs text-[var(--color-text-sub)] mt-0.5">
-          {priceSummary.priceRows.map((row) => `${getProviderShortLabel(row.provider)} ¥${row.price.toLocaleString()}`).join(" / ")}
+        <div class="text-xs text-[var(--color-text-sub)] mt-0.5 flex flex-wrap gap-x-2 gap-y-0.5">
+          {priceRowsForDisplay.map((row) => (
+            <span>
+              {getProviderShortLabel(row.provider)} ¥{row.price.toLocaleString()}
+              {row.pricePerUnitLabel && <span class="text-[var(--color-accent)]">（{row.pricePerUnitLabel}）</span>}
+            </span>
+          ))}
         </div>
       )}
       {priceSummary.priceDifferenceLabel && (
@@ -136,7 +158,7 @@ const rankColor = rankColors[product.rank] ?? "bg-[var(--color-surface)] text-[v
     </div>
     {showPricePerUnit && (
       <div class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium self-center">
-        {product.pricePerUnit}
+        {lowestPricePerUnit}
       </div>
     )}
   </div>
@@ -187,14 +209,14 @@ const rankColor = rankColors[product.rank] ?? "bg-[var(--color-surface)] text-[v
 
     <!-- 購入ボタン -->
     <div class="pt-1 flex flex-col sm:flex-row gap-2">
-      {visibleOffers.map((offer) => (
+      {sortedOffers.map((offer) => (
         <AffiliateLink
           href={offer.url}
           provider={offer.provider}
           label={offer.label}
           productName={product.name}
           size="md"
-          variant={offer.provider === "rakuten" ? "primary" : "outline"}
+          variant={isLowestOffer(offer) ? "primary" : "outline"}
         />
       ))}
     </div>

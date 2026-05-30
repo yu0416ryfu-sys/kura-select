@@ -5,9 +5,12 @@ import {
   getOfferPriceSummary,
   getEnabledAffiliateProvidersFromEnv,
   getStaticAffiliateProvidersFromEnv,
+  sortOffersByPriceForDisplay,
+  getLowestVisibleOffer,
   type ProductOffer,
 } from "../../lib/offers";
 import { formatPriceOrConfirmation, isKnownPrice, shouldShowPricePerUnit } from "../../lib/price";
+import { calcPricePerUnit } from "../../lib/capacity";
 
 const linkProviders = getEnabledAffiliateProvidersFromEnv(import.meta.env);
 const priceProviders = getStaticAffiliateProvidersFromEnv(import.meta.env);
@@ -41,11 +44,17 @@ const amazonSearchFallback = {
   tag: import.meta.env.AMAZON_ASSOCIATE_TAG,
 };
 const visibleOffers = getVisibleOffers(product, { enabledProviders: linkProviders, yahooSearchFallback, amazonSearchFallback });
+const sortedOffers = sortOffersByPriceForDisplay(visibleOffers);
+const lowestVisibleOffer = getLowestVisibleOffer(visibleOffers);
+const isLowestOffer = (offer: ProductOffer) =>
+  lowestVisibleOffer
+    ? offer.provider === lowestVisibleOffer.provider && offer.url === lowestVisibleOffer.url
+    : offer.provider === "rakuten";
 const priceSummary = getOfferPriceSummary(product, { enabledProviders: priceProviders });
 const displayPrice = priceSummary.lowestPrice ?? (isKnownPrice(product.price) ? product.price : null);
-const showPricePerUnit =
-  priceSummary.lowestProvider === "rakuten" &&
-  shouldShowPricePerUnit(displayPrice, product.pricePerUnit);
+// コスパ（単価）は最安サイトの価格 × capacity から表示時計算する
+const lowestPricePerUnit = displayPrice != null ? calcPricePerUnit(displayPrice, product.capacity) : null;
+const showPricePerUnit = shouldShowPricePerUnit(displayPrice, lowestPricePerUnit);
 ---
 
 <div class="bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200 rounded-xl p-4 md:p-5 mb-8 shadow-sm">
@@ -80,7 +89,7 @@ const showPricePerUnit =
         )}
         {showPricePerUnit && (
           <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium">
-            {product.pricePerUnit}
+            {lowestPricePerUnit}
           </span>
         )}
         {product.rating !== undefined && (
@@ -94,14 +103,14 @@ const showPricePerUnit =
 
     <!-- CTAボタン（PC） -->
     <div class="hidden md:flex shrink-0 flex-col gap-2">
-      {visibleOffers.map((offer) => (
+      {sortedOffers.map((offer) => (
         <AffiliateLink
           href={offer.url}
           provider={offer.provider}
           label={offer.label}
           productName={product.name}
           size="md"
-          variant={offer.provider === "rakuten" ? "primary" : "outline"}
+          variant={isLowestOffer(offer) ? "primary" : "outline"}
         />
       ))}
     </div>
@@ -109,14 +118,14 @@ const showPricePerUnit =
 
   <!-- CTAボタン（モバイル：全幅） -->
   <div class="md:hidden mt-3 flex flex-col gap-2">
-    {visibleOffers.map((offer) => (
+    {sortedOffers.map((offer) => (
       <AffiliateLink
         href={offer.url}
         provider={offer.provider}
         label={offer.label}
         productName={product.name}
         size="md"
-        variant={offer.provider === "rakuten" ? "primary" : "outline"}
+        variant={isLowestOffer(offer) ? "primary" : "outline"}
       />
     ))}
   </div>

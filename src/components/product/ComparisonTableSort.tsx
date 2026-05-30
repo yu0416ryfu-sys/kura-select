@@ -14,6 +14,8 @@ import {
   isKnownPrice,
   shouldShowPricePerUnit,
 } from "../../lib/price";
+// capacity.ts は js-yaml 非依存の純粋モジュールのため island に含めても安全
+import { calcPricePerUnit } from "../../lib/capacity";
 
 interface VisibleOfferForTable {
   provider: OfferProvider;
@@ -66,17 +68,12 @@ export default function ComparisonTableSort({ products, caption }: Props) {
           sortDir
         );
       } else if (sortKey === "pricePerUnit") {
+        // 最安サイトの価格 × capacity から単価を算出して比較する（サイト非依存）
+        const aPrice = a.priceSummary?.lowestPrice ?? a.price;
+        const bPrice = b.priceSummary?.lowestPrice ?? b.price;
         return comparePricePerUnit(
-          {
-            price: a.priceSummary?.lowestPrice ?? a.price,
-            pricePerUnit: a.pricePerUnit,
-            lowestProvider: a.priceSummary?.lowestProvider,
-          },
-          {
-            price: b.priceSummary?.lowestPrice ?? b.price,
-            pricePerUnit: b.pricePerUnit,
-            lowestProvider: b.priceSummary?.lowestProvider,
-          },
+          { price: aPrice, pricePerUnit: calcPricePerUnit(aPrice, a.capacity) },
+          { price: bPrice, pricePerUnit: calcPricePerUnit(bPrice, b.capacity) },
           sortDir
         );
       } else {
@@ -113,7 +110,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
   const inactiveCls =
     "bg-white text-[var(--color-text-sub)] border-[var(--color-border)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]";
   const desktopPriceRowCls =
-    "grid grid-cols-[38px_68px_112px] items-center gap-2";
+    "grid grid-cols-[38px_92px_112px] items-center gap-2";
   const mobilePriceRowCls =
     "grid grid-cols-[36px_minmax(70px,1fr)_132px] items-center gap-2";
   const purchaseButtonCls =
@@ -156,7 +153,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
               <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] whitespace-nowrap w-12">順位</th>
               <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] min-w-[220px]">商品名</th>
               <th
-                class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[258px] whitespace-nowrap"
+                class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[282px] whitespace-nowrap"
                 aria-sort={ariaSortAttr("price")}
                 onClick={() => handleSort("price")}
               >
@@ -227,6 +224,9 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                           p.priceSummary?.lowestPrice != null &&
                           price != null &&
                           price === p.priceSummary.lowestPrice;
+                        // サイトごとのコスパ（単価）
+                        const unitLabel = price != null ? calcPricePerUnit(price, p.capacity) : null;
+                        const showUnit = shouldShowPricePerUnit(price, unitLabel);
                         return (
                           <div key={offer.provider} class={desktopPriceRowCls}>
                             <span
@@ -237,15 +237,20 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                             >
                               最安
                             </span>
-                            <span class="font-bold tabular-nums text-right whitespace-nowrap">
-                              {formatPriceOrConfirmation(price)}
+                            <span class="text-right whitespace-nowrap leading-tight">
+                              <span class="font-bold tabular-nums block">
+                                {formatPriceOrConfirmation(price)}
+                              </span>
+                              {showUnit && (
+                                <span class="block text-[10px] text-[var(--color-accent)]">{unitLabel}</span>
+                              )}
                             </span>
                             <a
                               href={offer.url}
                               rel="sponsored nofollow noopener"
                               target="_blank"
                               aria-label={`${p.name}を${offer.label ?? getProviderPurchaseLabel(offer.provider)}（別タブで開く）`}
-                              class={`${purchaseButtonCls} ${getProviderButtonClass(offer.provider, "primary")}`}
+                              class={`${purchaseButtonCls} ${getProviderButtonClass(offer.provider, (!multiOffer || isLowest) ? "primary" : "outline")}`}
                               data-ga-event={getProviderGaEvent(offer.provider)}
                               data-ga-provider={offer.provider}
                               data-ga-product={p.name}
@@ -259,11 +264,16 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                   </td>
                   <td class="px-3 py-3 text-sm whitespace-nowrap align-middle">{p.capacity}</td>
                   <td class="px-3 py-3 align-middle">
-                    {p.priceSummary?.lowestProvider === "rakuten" && shouldShowPricePerUnit(p.priceSummary?.lowestPrice ?? p.price, p.pricePerUnit) && (
-                      <span class="inline-flex min-w-[78px] justify-center bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium whitespace-nowrap">
-                        {p.pricePerUnit}
-                      </span>
-                    )}
+                    {(() => {
+                      // コスパは最安サイトの価格 × capacity から算出する
+                      const lp = p.priceSummary?.lowestPrice ?? p.price;
+                      const unit = calcPricePerUnit(lp, p.capacity);
+                      return shouldShowPricePerUnit(lp, unit) ? (
+                        <span class="inline-flex min-w-[78px] justify-center bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium whitespace-nowrap">
+                          {unit}
+                        </span>
+                      ) : null;
+                    })()}
                   </td>
                   <td class="px-3 py-3 align-middle">
                     {p.rating !== undefined && (
@@ -318,11 +328,16 @@ export default function ComparisonTableSort({ products, caption }: Props) {
               {/* 容量・コスパ・評価 */}
               <div class="flex flex-wrap gap-2 mb-3 text-sm">
                 <span class="text-[var(--color-text-sub)] whitespace-nowrap">{p.capacity}</span>
-                {p.priceSummary?.lowestProvider === "rakuten" && shouldShowPricePerUnit(p.priceSummary?.lowestPrice ?? p.price, p.pricePerUnit) && (
-                  <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium whitespace-nowrap">
-                    {p.pricePerUnit}
-                  </span>
-                )}
+                {(() => {
+                  // コスパは最安サイトの価格 × capacity から算出する
+                  const lp = p.priceSummary?.lowestPrice ?? p.price;
+                  const unit = calcPricePerUnit(lp, p.capacity);
+                  return shouldShowPricePerUnit(lp, unit) ? (
+                    <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium whitespace-nowrap">
+                      {unit}
+                    </span>
+                  ) : null;
+                })()}
                 {p.rating !== undefined && (
                   <span class="flex items-center gap-0.5 text-xs">
                     <span class="text-[var(--color-warning)]">★</span>
@@ -343,6 +358,9 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                     p.priceSummary?.lowestPrice != null &&
                     price != null &&
                     price === p.priceSummary.lowestPrice;
+                  // サイトごとのコスパ（単価）
+                  const unitLabel = price != null ? calcPricePerUnit(price, p.capacity) : null;
+                  const showUnit = shouldShowPricePerUnit(price, unitLabel);
                   return (
                     <div key={offer.provider} class={mobilePriceRowCls}>
                       <span
@@ -353,15 +371,20 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                       >
                         最安
                       </span>
-                      <span class="font-bold tabular-nums text-sm whitespace-nowrap">
-                        {formatPriceOrConfirmation(price)}
+                      <span class="whitespace-nowrap leading-tight">
+                        <span class="font-bold tabular-nums text-sm block">
+                          {formatPriceOrConfirmation(price)}
+                        </span>
+                        {showUnit && (
+                          <span class="block text-[10px] text-[var(--color-accent)]">{unitLabel}</span>
+                        )}
                       </span>
                       <a
                         href={offer.url}
                         rel="sponsored nofollow noopener"
                         target="_blank"
                         aria-label={`${p.name}を${offer.label ?? getProviderPurchaseLabel(offer.provider)}（別タブで開く）`}
-                        class={`${mobilePurchaseButtonCls} ${getProviderButtonClass(offer.provider, "primary")}`}
+                        class={`${mobilePurchaseButtonCls} ${getProviderButtonClass(offer.provider, (!multiOffer || isLowest) ? "primary" : "outline")}`}
                         data-ga-event={getProviderGaEvent(offer.provider)}
                         data-ga-provider={offer.provider}
                         data-ga-product={p.name}

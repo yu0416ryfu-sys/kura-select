@@ -37,17 +37,20 @@ describe("price helper", () => {
   });
 
   it("コスパ順でも不明値を昇順・降順とも後ろに回す", () => {
-    const unknown = { price: 0, pricePerUnit: "0円/枚", lowestProvider: "rakuten" };
-    const known = { price: 1280, pricePerUnit: "約10円/枚", lowestProvider: "rakuten" };
+    const unknown = { price: 0, pricePerUnit: "0円/枚" };
+    const known = { price: 1280, pricePerUnit: "約10円/枚" };
 
     expect(comparePricePerUnit(unknown, known, "asc")).toBeGreaterThan(0);
     expect(comparePricePerUnit(unknown, known, "desc")).toBeGreaterThan(0);
   });
 
-  it("Yahoo等が最安なら残存 pricePerUnit をコスパ順で有効値にしない", () => {
-    const yahooLowest = { price: 980, pricePerUnit: "約5円/枚", lowestProvider: "yahoo" };
-    const rakutenLowest = { price: 1280, pricePerUnit: "約10円/枚", lowestProvider: "rakuten" };
+  it("Yahoo等が最安でも算出済み単価でコスパ順を有効値にする（サイト非依存）", () => {
+    // 最安サイトの価格×capacity から算出した単価を渡す前提
+    const yahooLowest = { price: 980, pricePerUnit: "約5円/枚" };
+    const rakutenLowest = { price: 1280, pricePerUnit: "約10円/枚" };
 
-    expect(comparePricePerUnit(yahooLowest, rakutenLowest, "asc")).toBeGreaterThan(0);
+    // 単価の安い yahooLowest が昇順で前に来る
+    expect(comparePricePerUnit(yahooLowest, rakutenLowest, "asc")).toBeLessThan(0);
+    expect(comparePricePerUnit(yahooLowest, rakutenLowest, "desc")).toBeGreaterThan(0);
   });
 });

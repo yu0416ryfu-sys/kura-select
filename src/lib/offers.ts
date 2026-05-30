@@ -298,6 +298,31 @@ export function getVisibleOffers(
     .sort((a, b) => PROVIDER_ORDER[a.provider] - PROVIDER_ORDER[b.provider]);
 }
 
+// 表示用の価格値。Amazon は SSG 鮮度制約で価格を表示しない（価格確認）ため、
+// 並べ替え上は常に末尾扱い（Infinity）にする。価格未知も末尾。
+function displayPriceValue(offer: ProductOffer): number {
+  if (offer.provider === "amazon") return Infinity;
+  return typeof offer.price === "number" && offer.price > 0 ? offer.price : Infinity;
+}
+
+// 購入ボタン等の表示順を「最安サイト先頭」に並べ替える。
+// 価格未知・Amazon（価格確認）は末尾。同価格は既存 PROVIDER_ORDER で安定化する。
+export function sortOffersByPriceForDisplay(offers: ProductOffer[]): ProductOffer[] {
+  return [...offers].sort((a, b) => {
+    const av = displayPriceValue(a);
+    const bv = displayPriceValue(b);
+    if (av !== bv) return av - bv;
+    return PROVIDER_ORDER[a.provider] - PROVIDER_ORDER[b.provider];
+  });
+}
+
+// 表示対象 offer の中で最安のもの（primary 強調用）。価格を表示する offer が無ければ null。
+export function getLowestVisibleOffer(offers: ProductOffer[]): ProductOffer | null {
+  const priced = offers.filter((o) => Number.isFinite(displayPriceValue(o)));
+  if (priced.length === 0) return null;
+  return priced.reduce((a, b) => (displayPriceValue(a) <= displayPriceValue(b) ? a : b));
+}
+
 // 価格比較対象 offer（price > 0 を追加フィルタ、Amazon はデフォルト除外）
 export function getComparableOffers(
   product: ProductWithOffers,

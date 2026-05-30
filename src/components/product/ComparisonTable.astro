@@ -5,6 +5,7 @@ import {
   getOfferPriceSummary,
   getEnabledAffiliateProvidersFromEnv,
   getStaticAffiliateProvidersFromEnv,
+  sortOffersByPriceForDisplay,
   type ProductOffer,
 } from "../../lib/offers";
 
@@ -43,7 +44,10 @@ const amazonSearchFallback = {
 };
 
 const productsForTable = products.map((product) => {
-  const rawVisible = getVisibleOffers(product, { enabledProviders: linkProviders, yahooSearchFallback, amazonSearchFallback });
+  // 最安サイト先頭で並べ替えてから island へ渡す（初期表示順を最安先頭にする）
+  const rawVisible = sortOffersByPriceForDisplay(
+    getVisibleOffers(product, { enabledProviders: linkProviders, yahooSearchFallback, amazonSearchFallback })
+  );
   return {
     ...product,
     // Amazon は price/available/imageUrl を渡さない（SSG 鮮度制約）
