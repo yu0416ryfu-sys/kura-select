@@ -7,6 +7,10 @@
     "gsc": {
       "command": "node",
       "args": ["scripts/mcp/gsc-mcp.mjs"]
+    },
+    "ga4": {
+      "command": "node",
+      "args": ["scripts/mcp/ga4-mcp.mjs"]
     }
   }
 }
