@@ -12,6 +12,8 @@ import {
   extractYahooItemCode,
   hasStrongUrlIdentity,
   normalizeTokens,
+  normalizeYahooMatchText,
+  buildYahooSupplementalSearchQuery,
 } from "../scripts/lib/yahoo-matching";
 
 describe("Yahoo候補の容量照合", () => {
@@ -628,6 +630,67 @@ products:
       expect(result.ok).toBe(true);
       expect(result.urlIdentityMatch).toBe(false);
       expect(result.strictMatch).toBe(true);
+    });
+  });
+
+  describe("Yahoo 補助検索・NFKC 正規化", () => {
+    const bioreProduct = {
+      name: "ビオレ泡4リットル ビオレu　泡ハンドソープ",
+      capacity: "2L×2本",
+      brand: "花王（ビオレu）",
+      rakutenUrl: "https://item.rakuten.co.jp/monoworld/zakka-0029/",
+    };
+    const bioreYahooUrl =
+      "https://store.shopping.yahoo.co.jp/garden-square/4901301243935-2.html";
+
+    it("半角・全角差を NFKC で吸収する", () => {
+      expect(normalizeYahooMatchText("ビオレｕ ２Ｌ")).toBe("ビオレu 2l");
+    });
+
+    it("商品名トークンから容量表現を含む複合トークンだけを除外する", () => {
+      expect(normalizeTokens(bioreProduct.name)).toEqual(["ビオレu", "泡ハンドソープ"]);
+      expect(normalizeTokens("A1 プレミアムウォッシュ")).toEqual(["a1", "プレミアムウォッシュ"]);
+    });
+
+    it("brand・商品名トークン・capacity から補助検索語を生成する", () => {
+      expect(buildYahooSupplementalSearchQuery(bioreProduct))
+        .toBe("花王 ビオレu 泡ハンドソープ 2L 2本");
+    });
+
+    it("rank 1 指定商品相当: NFKC と容量一致で ok: true", () => {
+      const result = evaluateYahooCandidate(
+        bioreProduct,
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "花王 ビオレｕ 薬用 泡ハンドソープ 2L ×2本 つめかえ用(2000ml通常の10.4回分)泡タイプ KAO 詰替",
+          price: 2980,
+          url: bioreYahooUrl,
+          imageUrl: null,
+          available: true,
+          sellerName: "ガーデンスクエア",
+        }
+      );
+      expect(result.ok).toBe(true);
+      expect(result.strictMatch).toBe(true);
+    });
+
+    it("同シリーズでも 2L×3本は capacity 不一致で ok: false", () => {
+      const result = evaluateYahooCandidate(
+        bioreProduct,
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "花王 ビオレｕ 薬用 泡ハンドソープ 2L ×3本 つめかえ用",
+          price: 3980,
+          url: "https://store.shopping.yahoo.co.jp/garden-square/4901301243935-3.html",
+          imageUrl: null,
+          available: true,
+          sellerName: "ガーデンスクエア",
+        }
+      );
+      expect(result.ok).toBe(false);
+      expect(result.reason).toContain("capacity不一致");
     });
   });
 

@@ -94,18 +94,27 @@ export function hasStrongUrlIdentity(
   );
 }
 
+export function normalizeYahooMatchText(value: string): string {
+  return value.normalize("NFKC").toLowerCase();
+}
+
+function containsCapacityExpression(token: string): boolean {
+  return /\d+(?:\.\d+)?\s*(?:ml|l|kg|g|枚|本|袋|個|入|パック|巻|ロール|リットル)/i
+    .test(token);
+}
+
 export function normalizeTokens(value: string): string[] {
-  return buildSearchKeyword(value)
-    .toLowerCase()
+  return normalizeYahooMatchText(buildSearchKeyword(value))
     .split(/[\s　・、。／/｜|]+/)
     .filter((token) => token.length >= 2)
-    .filter((token) => !/^[\d.,]+/.test(token));
+    .filter((token) => !/^[\d.,]+/.test(token))
+    .filter((token) => !containsCapacityExpression(token));
 }
 
 export function isLikelySameProduct(currentName: string, candidateName: string): boolean {
   const tokens = normalizeTokens(currentName);
   if (tokens.length === 0) return false;
-  const normalizedCandidate = candidateName.toLowerCase();
+  const normalizedCandidate = normalizeYahooMatchText(candidateName);
   // 最初のトークン（ブランド名相当）が候補に含まれない場合は別商品と判定
   if (!normalizedCandidate.includes(tokens[0])) return false;
   const matched = tokens.filter((token) => normalizedCandidate.includes(token)).length;
@@ -137,7 +146,36 @@ export function isSameComparableCapacity(
  * primary brand や brandVariants に使う。
  */
 function normalizeBrandToken(value: string): string {
-  return buildSearchKeyword(value).toLowerCase();
+  return normalizeYahooMatchText(buildSearchKeyword(value));
+}
+
+function normalizeSupplementalCapacity(value: string | null): string {
+  return value
+    ? value.normalize("NFKC").replace(/[×xX*＊]/g, " ").replace(/\s+/g, " ").trim()
+    : "";
+}
+
+export function buildYahooSupplementalSearchQuery(
+  product: ProductForMatching
+): string | null {
+  const capacity = normalizeSupplementalCapacity(product.capacity);
+  if (!capacity || capacity.length >= 40) return null;
+
+  const brand = product.brand
+    ? normalizeYahooMatchText(product.brand).replace(/\s*\(.+?\)/g, "").trim()
+    : "";
+  const prefixTokens = [...new Set([
+    ...brand.split(/\s+/),
+    ...normalizeTokens(product.name),
+  ].filter(Boolean))];
+  const maxPrefixLength = 40 - capacity.length - 1;
+  while (prefixTokens.length > 0 && prefixTokens.join(" ").length > maxPrefixLength) {
+    prefixTokens.pop();
+  }
+
+  const query = [...prefixTokens, capacity].filter(Boolean).join(" ");
+  const primaryQuery = normalizeYahooMatchText(buildSearchKeyword(product.name));
+  return query && normalizeYahooMatchText(query) !== primaryQuery ? query : null;
 }
 
 /**
@@ -296,7 +334,7 @@ export function evaluateYahooCandidate(
   // normCandidate は全文照合用のため buildSearchKeyword（40文字制限あり）を使わず
   // 候補名をそのまま小文字化する。後半にブランド名が出る商品名で切り捨てが起きるのを防ぐ。
   const tokens = normalizeTokens(product.name);
-  const normCandidate = candidate.name.toLowerCase();
+  const normCandidate = normalizeYahooMatchText(candidate.name);
   // 送り仮名ゆれ対応: 直接一致しない場合のみ既知 alias でフォールバック照合する
   const allTokensMatch = tokens.length > 0 && tokens.every((t) => {
     if (normCandidate.includes(t)) return true;
@@ -313,7 +351,7 @@ export function evaluateYahooCandidate(
   const primaryBrand = product.brand ? normalizeBrandToken(product.brand) : "";
   const brandAliases: string[] = product.brand
     ? [...product.brand.matchAll(/[（(]([^）)]+)[）)]/g)]
-        .map((m) => m[1].trim().toLowerCase())
+        .map((m) => normalizeYahooMatchText(m[1].trim()))
         .filter((a) => a.length >= 2 && a !== primaryBrand)
     : [];
   // Step 4: brandVariants（省略可能フィールド）も照合トークンに追加する

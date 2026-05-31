@@ -19,6 +19,7 @@ import { buildSearchKeyword } from "./lib/frontmatter.ts";
 import { searchYahooShoppingItems } from "./lib/yahoo-shopping.ts";
 import { upsertYahooOfferInFrontmatter, markProviderOffersForReview } from "./lib/yahoo-offers.ts";
 import {
+  buildYahooSupplementalSearchQuery,
   evaluateYahooCandidate,
   toComparableCapacity,
 } from "./lib/yahoo-matching.ts";
@@ -165,57 +166,73 @@ async function processArticle(file) {
 
   for (const product of products) {
     const query = buildSearchKeyword(product.name);
+    const supplementalQuery = buildYahooSupplementalSearchQuery(product);
+    const queries = supplementalQuery ? [query, supplementalQuery] : [query];
+    const seenUrls = new Set();
+    const searchedCandidates = [];
+
     lines.push(`### rank ${product.rank}: ${product.name}`);
-    lines.push(`- query: ${query}`);
-
     try {
-      const candidates = await searchYahooShoppingItems(query, { ...env, results: 5 });
-
       let selected = null;
       let selectedEvaluation = null;
       const rejectedCandidates = [];
-      for (const c of candidates) {
-        const evaluation = evaluateYahooCandidate(product, c);
-        if (evaluation.ok) {
-          selected = c;
-          selectedEvaluation = evaluation;
-          lines.push("- decision: auto");
-          lines.push(`- candidate: ${c.name}`);
-          lines.push(`- price: ${c.price ?? "-"}`);
-          lines.push(`- rating: ${c.rating ?? "-"}`);
-          lines.push(`- review count: ${c.reviewCount ?? "-"}`);
-          lines.push(`- url: ${c.url}`);
-          const candidateCap = evaluation.candidateCapacity ?? "-";
-          const currentCap = product.capacity ?? "-";
-          lines.push(`- capacity: ${currentCap} -> ${toComparableCapacity(currentCap)?.total ?? "-"}${toComparableCapacity(currentCap)?.unit ?? ""}`);
-          lines.push(`- candidate capacity: ${candidateCap} -> ${toComparableCapacity(candidateCap)?.total ?? "-"}${toComparableCapacity(candidateCap)?.unit ?? ""}`);
-          lines.push(`- url multiplier: ×${selectedEvaluation?.urlMultiplier ?? 1}`);
-          if (selectedEvaluation?.urlIdentityMatch) {
-            lines.push(`- url identity match: true`);
-          }
-          // Step 2: strictMatch 失敗理由・エイリアス候補をレポートに出力する
-          if (selectedEvaluation && !selectedEvaluation.strictMatch) {
-            lines.push(`- strict match: false`);
-            lines.push(`- brand match: ${selectedEvaluation.brandMatch ?? "n/a"}`);
-            if (selectedEvaluation.brandFailureReason) {
-              lines.push(`- brand failure: ${selectedEvaluation.brandFailureReason}`);
+      for (const [queryIndex, currentQuery] of queries.entries()) {
+        lines.push(queryIndex === 0
+          ? `- query: ${currentQuery}`
+          : `- supplemental query: ${currentQuery}`);
+        const candidates = await searchYahooShoppingItems(currentQuery, { ...env, results: 5 });
+
+        for (const c of candidates) {
+          if (seenUrls.has(c.url)) continue;
+          seenUrls.add(c.url);
+          searchedCandidates.push(c);
+          const evaluation = evaluateYahooCandidate(product, c);
+          if (evaluation.ok) {
+            selected = c;
+            selectedEvaluation = evaluation;
+            lines.push("- decision: auto");
+            lines.push(`- candidate: ${c.name}`);
+            lines.push(`- price: ${c.price ?? "-"}`);
+            lines.push(`- rating: ${c.rating ?? "-"}`);
+            lines.push(`- review count: ${c.reviewCount ?? "-"}`);
+            lines.push(`- url: ${c.url}`);
+            const candidateCap = evaluation.candidateCapacity ?? "-";
+            const currentCap = product.capacity ?? "-";
+            lines.push(`- capacity: ${currentCap} -> ${toComparableCapacity(currentCap)?.total ?? "-"}${toComparableCapacity(currentCap)?.unit ?? ""}`);
+            lines.push(`- candidate capacity: ${candidateCap} -> ${toComparableCapacity(candidateCap)?.total ?? "-"}${toComparableCapacity(candidateCap)?.unit ?? ""}`);
+            lines.push(`- url multiplier: ×${selectedEvaluation?.urlMultiplier ?? 1}`);
+            if (selectedEvaluation?.urlIdentityMatch) {
+              lines.push(`- url identity match: true`);
             }
-            if (selectedEvaluation.suggestedBrandAliases?.length) {
-              lines.push(`- suggested brand aliases:`);
-              for (const alias of selectedEvaluation.suggestedBrandAliases) {
-                lines.push(`  - ${alias}`);
+            // Step 2: strictMatch 失敗理由・エイリアス候補をレポートに出力する
+            if (selectedEvaluation && !selectedEvaluation.strictMatch) {
+              lines.push(`- strict match: false`);
+              lines.push(`- brand match: ${selectedEvaluation.brandMatch ?? "n/a"}`);
+              if (selectedEvaluation.brandFailureReason) {
+                lines.push(`- brand failure: ${selectedEvaluation.brandFailureReason}`);
+              }
+              if (selectedEvaluation.suggestedBrandAliases?.length) {
+                lines.push(`- suggested brand aliases:`);
+                for (const alias of selectedEvaluation.suggestedBrandAliases) {
+                  lines.push(`  - ${alias}`);
+                }
               }
             }
+            break;
+          } else {
+            rejectedCandidates.push({ name: c.name, url: c.url, reason: evaluation.reason, candidateCapacity: evaluation.candidateCapacity ?? null });
           }
-          break;
-        } else {
-          rejectedCandidates.push({ name: c.name, url: c.url, reason: evaluation.reason, candidateCapacity: evaluation.candidateCapacity ?? null });
+        }
+
+        if (selected) break;
+        if (queryIndex < queries.length - 1 && API_INTERVAL_MS > 0) {
+          await sleep(API_INTERVAL_MS);
         }
       }
 
       if (!selected) {
         lines.push("- decision: review");
-        lines.push(`- candidates: ${candidates.length}`);
+        lines.push(`- candidates: ${searchedCandidates.length}`);
         for (const r of rejectedCandidates.slice(0, 5)) {
           lines.push(`- rejected: ${r.name}`);
           lines.push(`  - reason: ${r.reason}`);
@@ -244,7 +261,7 @@ async function processArticle(file) {
           ? rejectedCandidates.find((r) => r.url === existingMatchedUrl)
           : null;
         if (!rejectedExistingMatched && existingMatchedUrl) {
-          const existingCandidate = candidates.find((c) => c.url === existingMatchedUrl);
+          const existingCandidate = searchedCandidates.find((c) => c.url === existingMatchedUrl);
           if (existingCandidate) {
             const existingEvaluation = evaluateYahooCandidate(product, existingCandidate);
             if (!existingEvaluation.ok) {
