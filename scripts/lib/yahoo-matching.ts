@@ -11,6 +11,7 @@ export interface ProductForMatching {
   capacity: string | null;
   brand: string | null; // "" は parseProducts() 側で null に正規化済みの前提
   brandVariants?: string[];
+  rakutenUrl?: string | null;
 }
 
 export interface EvaluateResult {
@@ -19,6 +20,7 @@ export interface EvaluateResult {
   candidateCapacity?: string | null;
   strictMatch?: boolean;
   urlMultiplier?: number;
+  urlIdentityMatch?: boolean;
   brandMatch?: boolean;
   brandFailureReason?: string;
   suggestedBrandAliases?: string[];
@@ -40,6 +42,56 @@ export function extractUrlQuantityMultiplier(url: string): number {
   if (!match) return 1;
   const n = parseInt(match[1], 10);
   return Number.isFinite(n) && n >= 2 ? n : 1;
+}
+
+function unwrapAffiliateUrl(url: string, param: string): string | null {
+  try {
+    const parsed = new URL(url);
+    return parsed.searchParams.get(param) ?? url;
+  } catch {
+    return null;
+  }
+}
+
+function extractItemCode(
+  url: string,
+  affiliateParam: string,
+  suffix: string | RegExp = ""
+): string | null {
+  const targetUrl = unwrapAffiliateUrl(url, affiliateParam);
+  if (!targetUrl) return null;
+  try {
+    const pathname = new URL(targetUrl).pathname;
+    const segments = pathname.split("/").filter(Boolean);
+    if (segments.length < 2) return null;
+    const itemCode = segments.at(-1)?.replace(suffix, "") ?? "";
+    return itemCode || null;
+  } catch {
+    return null;
+  }
+}
+
+export function extractRakutenItemCode(url: string | null | undefined): string | null {
+  if (!url) return null;
+  return extractItemCode(url, "pc");
+}
+
+export function extractYahooItemCode(url: string): string | null {
+  return extractItemCode(url, "vc_url", /\.html$/i);
+}
+
+export function hasStrongUrlIdentity(
+  rakutenUrl: string | null | undefined,
+  yahooUrl: string
+): boolean {
+  const rakutenCode = extractRakutenItemCode(rakutenUrl)?.toLowerCase();
+  const yahooCode = extractYahooItemCode(yahooUrl)?.toLowerCase();
+  return Boolean(
+    rakutenCode &&
+      yahooCode &&
+      !/^\d+$/.test(rakutenCode) &&
+      rakutenCode === yahooCode
+  );
 }
 
 export function normalizeTokens(value: string): string[] {
@@ -282,12 +334,14 @@ export function evaluateYahooCandidate(
   // allTokensMatch が前提条件。brand が一致しなくても商品固有語が一致すれば matched 昇格を許可する。
   const distinctiveProductTokenMatch =
     !brandMatch && hasDistinctiveProductToken(tokens, normCandidate);
-  const strictMatch = allTokensMatch && (brandMatch || distinctiveProductTokenMatch);
+  const urlIdentityMatch = hasStrongUrlIdentity(product.rakutenUrl, candidate.url);
+  const strictMatch =
+    allTokensMatch && (brandMatch || distinctiveProductTokenMatch || urlIdentityMatch);
 
   // Step 2: strictMatch が brand 失敗かつ固有語フォールバックでも補完できない場合のみ報告する
   let brandFailureReason: string | undefined;
   let suggestedBrandAliases: string[] | undefined;
-  if (allTokensMatch && !brandMatch && !distinctiveProductTokenMatch) {
+  if (allTokensMatch && !brandMatch && !distinctiveProductTokenMatch && !urlIdentityMatch) {
     brandFailureReason = "brand token not found in Yahoo candidate";
     suggestedBrandAliases = suggestBrandAliases(product, candidate.name);
   }
@@ -298,6 +352,7 @@ export function evaluateYahooCandidate(
     candidateCapacity,
     strictMatch,
     urlMultiplier,
+    urlIdentityMatch,
     brandMatch,
     brandFailureReason,
     suggestedBrandAliases,

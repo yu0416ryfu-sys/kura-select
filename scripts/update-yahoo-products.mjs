@@ -190,6 +190,9 @@ async function processArticle(file) {
           lines.push(`- capacity: ${currentCap} -> ${toComparableCapacity(currentCap)?.total ?? "-"}${toComparableCapacity(currentCap)?.unit ?? ""}`);
           lines.push(`- candidate capacity: ${candidateCap} -> ${toComparableCapacity(candidateCap)?.total ?? "-"}${toComparableCapacity(candidateCap)?.unit ?? ""}`);
           lines.push(`- url multiplier: ×${selectedEvaluation?.urlMultiplier ?? 1}`);
+          if (selectedEvaluation?.urlIdentityMatch) {
+            lines.push(`- url identity match: true`);
+          }
           // Step 2: strictMatch 失敗理由・エイリアス候補をレポートに出力する
           if (selectedEvaluation && !selectedEvaluation.strictMatch) {
             lines.push(`- strict match: false`);

@@ -8,6 +8,10 @@ import {
   isSameComparableCapacity,
   evaluateYahooCandidate,
   extractUrlQuantityMultiplier,
+  extractRakutenItemCode,
+  extractYahooItemCode,
+  hasStrongUrlIdentity,
+  normalizeTokens,
 } from "../scripts/lib/yahoo-matching";
 
 describe("Yahoo候補の容量照合", () => {
@@ -516,6 +520,114 @@ products:
     it("x1 は倍率 1 として扱う（>= 2 のみ有効）", () => {
       const url = "https://store.shopping.yahoo.co.jp/store/4902011743081x1.html";
       expect(extractUrlQuantityMultiplier(url)).toBe(1);
+    });
+  });
+
+  describe("URL 商品コード同一性", () => {
+    const rakutenUrl =
+      "https://hb.afl.rakuten.co.jp/hgc/example/?pc=" +
+      encodeURIComponent("https://item.rakuten.co.jp/anzai-rice/nouka10/");
+    const yahooUrl =
+      "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=xxx&pid=yyy&vc_url=" +
+      encodeURIComponent("https://store.shopping.yahoo.co.jp/manmayarice/nouka10.html");
+
+    it("楽天と Yahoo の非数値商品コードを抽出できる", () => {
+      expect(extractRakutenItemCode(rakutenUrl)).toBe("nouka10");
+      expect(extractYahooItemCode(yahooUrl)).toBe("nouka10");
+      expect(hasStrongUrlIdentity(rakutenUrl, yahooUrl)).toBe(true);
+    });
+
+    it("rank 2 実データ相当: 全トークン・capacity・商品コード一致なら brand 不一致でも strictMatch: true", () => {
+      expect(normalizeTokens("国内産 農家直米 白米")).toEqual(["国内産", "農家直米", "白米"]);
+      const result = evaluateYahooCandidate(
+        {
+          name: "国内産 農家直米 白米",
+          capacity: "10kg",
+          brand: "安齋商店",
+          rakutenUrl,
+        },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "月間おすすめ! セール 米 10kg 送料無料 お米 白米 安い 令和7年産 訳あり ブレンド米『国内産令和7年農家直米白米10kg』",
+          price: 5880,
+          url: yahooUrl,
+          imageUrl: null,
+          available: true,
+          sellerName: "まんま屋",
+        }
+      );
+      expect(result.ok).toBe(true);
+      expect(result.brandMatch).toBe(false);
+      expect(result.urlIdentityMatch).toBe(true);
+      expect(result.strictMatch).toBe(true);
+    });
+
+    it("商品コード一致でも capacity 不一致なら ok: false", () => {
+      const result = evaluateYahooCandidate(
+        { name: "国内産 農家直米 白米", capacity: "20kg", brand: "安齋商店", rakutenUrl },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "国内産 農家直米 白米 10kg",
+          price: 5880,
+          url: yahooUrl,
+          imageUrl: null,
+          available: true,
+          sellerName: "まんま屋",
+        }
+      );
+      expect(result.ok).toBe(false);
+      expect(result.reason).toContain("capacity不一致");
+    });
+
+    it("商品コード一致でも商品名トークン不一致なら ok: false", () => {
+      const result = evaluateYahooCandidate(
+        { name: "国内産 農家直米 白米", capacity: "10kg", brand: "安齋商店", rakutenUrl },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "熊本県産 ヒノヒカリ 10kg",
+          price: 5880,
+          url: yahooUrl,
+          imageUrl: null,
+          available: true,
+          sellerName: "まんま屋",
+        }
+      );
+      expect(result.ok).toBe(false);
+      expect(result.reason).toBe("商品名トークン不一致");
+    });
+
+    it("数字のみの商品コードは強い URL 証拠にしない", () => {
+      const numericRakuten =
+        "https://item.rakuten.co.jp/fuchigami/10000028/";
+      const numericYahoo =
+        "https://store.shopping.yahoo.co.jp/fuchigami/10000028.html";
+      expect(hasStrongUrlIdentity(numericRakuten, numericYahoo)).toBe(false);
+    });
+
+    it("デコード不能 URL は例外を投げず false", () => {
+      expect(hasStrongUrlIdentity(rakutenUrl, "https://example.com/?vc_url=%")).toBe(false);
+    });
+
+    it("商品コード不一致時は既存の brand 判定へフォールバックする", () => {
+      const result = evaluateYahooCandidate(
+        { name: "グーン おしりふき", capacity: "70枚", brand: "グーン", rakutenUrl },
+        {
+          provider: "yahoo",
+          label: "Yahoo!",
+          name: "グーン おしりふき 70枚",
+          price: 500,
+          url: "https://store.shopping.yahoo.co.jp/example/different-code.html",
+          imageUrl: null,
+          available: true,
+          sellerName: "example",
+        }
+      );
+      expect(result.ok).toBe(true);
+      expect(result.urlIdentityMatch).toBe(false);
+      expect(result.strictMatch).toBe(true);
     });
   });
 
