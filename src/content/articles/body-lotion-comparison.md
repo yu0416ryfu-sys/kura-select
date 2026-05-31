@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4902111777009-3.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 2298
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4902111777009-3"
         available: true
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301342416.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 618
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301342416"
         available: true
@@ -116,6 +116,17 @@ products:
     recommendedFor: "ボタニカル系成分にこだわりたい人・家族でシェアして使いたい人・甘めの香りが好きな人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2F4560119225856%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10004604%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/product-images/single-item/4560119225856_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4560119225856.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 1097
+        rating: 4.56
+        reviewCount: 25
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4560119225856"
+        available: true
   - rank: 5
     name: "セラミエイド 薬用スキンミルク"
     brand: "池田模範堂（セラミエイド）"
@@ -143,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4971710568530.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 2028
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4971710568530"
         available: true
@@ -171,6 +182,17 @@ products:
     recommendedFor: "敏感肌・乾燥肌の人・香料や着色料を避けたい人・大容量でコスパよく使い続けたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r83in.3rdw69a4.g00r83in.3rdw71ae/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fv-drug%2F0270030_4901301417503_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fv-drug%2Fi%2F10119920%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/v-drug/cabinet/0211/4901301417503.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10161795.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 2899
+        rating: 4.69
+        reviewCount: 29
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10161795"
+        available: true
   - rank: 7
     name: "ママフィ 潤いミルキーローション (本体350ml/つめかえ用310ml) 赤ちゃん"
     brand: "楽天市場"
@@ -242,12 +264,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F56770.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 2280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_56770"
         available: true
-        rating: 4.84
-        reviewCount: 31
+        rating: 4.81
+        reviewCount: 32
   - rank: 10
     name: "フィルベビーリペア 高保湿ミルクローション 380g|0ヵ月〜 ピジョン ローション"
     brand: "ピジョン"
@@ -275,7 +297,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpigeon-shop%2F1035259.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 4598
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_1035259"
         available: true

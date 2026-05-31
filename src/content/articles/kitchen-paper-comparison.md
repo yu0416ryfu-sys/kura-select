@@ -32,10 +32,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F1228689.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-31"
         price: 3970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_1228689"
         available: true
+        rating: 4.61
+        reviewCount: 41
   - rank: 2
     name: "エリエール 超吸収キッチンタオル 70カット×4ロール×4パック"
     brand: "大王製紙（エリエール）"
@@ -85,10 +87,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4901750370008.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-31"
         price: 5885
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4901750370008"
         available: true
+        rating: 4.84
+        reviewCount: 297
   - rank: 4
     name: "【数量限定】 ネピア 激吸収 キッチンタオル 4ロール×"
     brand: "王子ネピア（ネピア）"
@@ -116,10 +120,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsukasa1%2F10000311.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-31"
         price: 5173
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsukasa1_10000311"
         available: true
+        rating: 0
+        reviewCount: 2
   - rank: 5
     name: "キッチンペーパー 選べる 12箱 24箱 48箱 定期便 60組 エンボス加工 再生"
     brand: "キッチンペーパー"
@@ -191,10 +197,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Fr8o50.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-31"
         price: 4100
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-kurashi_r8o50"
         available: true
+        rating: 5
+        reviewCount: 4
   - rank: 8
     name: "〈しっかり吸収やぶれにくい！〉キッチンタオル70カット32ロール or 48ロール "
     brand: "〈しっかり吸収やぶれにくい！〉キッチンタオル70カット32ロール"
@@ -244,10 +252,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4975156901005.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-05-31"
         price: 4594
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4975156901005"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 10
     name: "カークランド ペーパー タオル 160シート 12ロール 2枚重ね コストコ 通販 "
     brand: "カークランド"
@@ -274,11 +284,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbutterflyeffectllc%2F411-1.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        matchStatus: "matched"
+        updatedAt: "2026-05-31"
         price: 3899
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/butterflyeffectllc_411-1"
         available: true
+        rating: 4.89
+        reviewCount: 63
 tags:
   - "キッチンペーパー"
   - "コスパ"

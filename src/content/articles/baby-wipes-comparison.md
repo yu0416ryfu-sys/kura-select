@@ -38,7 +38,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_20661"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-25"
+        updatedAt: "2026-05-31"
+        rating: 0
+        reviewCount: 0
   - rank: 2
     name: "おしりナップ やわらか厚手仕上げ 限定デザイン"
     brand: "ピジョン"
@@ -69,9 +71,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_2000363s"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         rating: 4.78
-        reviewCount: 1353
+        reviewCount: 1358
   - rank: 3
     name: "おしりふき ふんわり 菌99.9除去 大容量"
     brand: "レック"
@@ -192,12 +194,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjiatentusa%2F20230815193940-00102.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjiatentu2%2F20231227073433-00088.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-24"
-        price: 4825
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/jiatentusa_20230815193940-00102"
+        updatedAt: "2026-05-31"
+        price: 6100
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/jiatentu2_20231227073433-00088"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 7
     name: "おしりふき 厚手 菌99.9除去 大容量"
     brand: "レック"
@@ -228,7 +232,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e168-16"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-24"
+        updatedAt: "2026-05-31"
+        rating: 4.72
+        reviewCount: 203
   - rank: 8
     name: "おしりふき 厚手 菌99.9除去"
     brand: "レック"
@@ -259,7 +265,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e170"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         rating: 4.7
         reviewCount: 952
   - rank: 9
@@ -292,7 +298,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         rating: 4.6
         reviewCount: 1021
   - rank: 10
@@ -317,6 +323,17 @@ products:
     recommendedFor: "処理の手軽さと肌への優しさの両立を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5d7n.3rdw6b76.g00s5d7n.3rdw7a8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect-2%2F4560319042413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect-2%2Fi%2F10003040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect-2/cabinet/img/e/e00975-2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe241.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 2120
+        rating: 4.6
+        reviewCount: 1021
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
+        available: true
 tags:
   - "おしりふき おすすめ"
   - "おしりふき コスパ"

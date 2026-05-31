@@ -72,6 +72,17 @@ products:
     recommendedFor: "リモコン・時計など日常機器に幅広く使いたい方・防災備蓄を兼ねたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pj3cn.3rdw632a.g00pj3cn.3rdw766e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fizumiya-ty%2F4984824760745%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fizumiya-ty%2Fi%2F10087719%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/izumiya-ty/cabinet/jyuukan/panakanndennti_301.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4984824889071.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 1607
+        rating: 4.69
+        reviewCount: 13
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4984824889071"
+        available: true
   - rank: 4
     name: "富士通 アルカリ乾電池 プレミアムS 単3形 16本"
     brand: "富士通（FDK）"
@@ -121,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftop1-price%2F20161219-16denchi.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 1199
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/top1-price_20161219-16denchi"
         available: true
@@ -154,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodmedia-wholesale%2F20200313-000001.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 1235
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodmedia-wholesale_20200313-000001"
         available: true
@@ -186,8 +197,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset92116.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-30"
+        matchStatus: "matched"
+        updatedAt: "2026-05-31"
         price: 3150
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_set92116"
         available: true
@@ -220,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset92116.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 3150
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_set92116"
         available: true
@@ -275,7 +286,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fev21004.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 1280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_ev21004"
         available: true

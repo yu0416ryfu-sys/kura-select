@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4904879658255-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 968
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4904879658255-1"
         available: true
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F75320.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 13950
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_75320"
         available: true
@@ -99,12 +99,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687275.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 6476
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687275"
         available: true
         rating: 4.75
-        reviewCount: 1369
+        reviewCount: 1370
   - rank: 4
     name: "ロイヤルカナン インドア 7+ 室内中高齢猫用 3.3.5kg"
     brand: "ロイヤルカナン"
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2Fnutrocat0102.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 4080
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_nutrocat0102"
         available: true
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687270.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 4006
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687270"
         available: true
@@ -215,6 +215,17 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qkobn.3rdw6b85.g00qkobn.3rdw7023/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpluxe1%2F10007190%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpluxe1%2Fi%2F10007190%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pluxe1/cabinet/12199513/nb-ui-2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcell-apt%2Fc-2801-800-2.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 5400
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cell-apt_c-2801-800-2"
+        available: true
   - rank: 8
     name: "キアオラ キャットフード カンガルー 2.2.7kg"
     brand: "キアオラ"
@@ -281,6 +292,17 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q36gn.3rdw6dbe.g00q36gn.3rdw737d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnyanzaq%2Fmtm0457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnyanzaq%2Fi%2F10140818%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nyanzaq/cabinet/565/404565.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4902201210980.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 3069
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4902201210980"
+        available: true
 tags:
   - "キャットフード おすすめ"
   - "キャットフード コスパ"

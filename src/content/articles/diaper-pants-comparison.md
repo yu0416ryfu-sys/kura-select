@@ -35,7 +35,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301418579-3"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         rating: 5
         reviewCount: 6
   - rank: 2

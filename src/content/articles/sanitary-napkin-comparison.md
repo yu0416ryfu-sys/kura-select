@@ -3,7 +3,7 @@ title: "ナプキン コスパ最強ランキング【2026年版】1枚あたり
 description: "生理用ナプキンを1枚あたりのコストで徹底比較。ソフィ・ロリエ・エリス・ウィスパーなど人気10選を吸収力・肌へのやさしさ・コスパで解説します。"
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
-updatedAt: 2026-05-30
+updatedAt: "2026-05-30"
 products:
   - rank: 1
     name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20"
@@ -27,6 +27,17 @@ products:
     recommendedFor: "薄さと存在感のなさを重視する方・軽い日に使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F600587%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11325644%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/587/600587.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F600587.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 2183
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_600587"
+        available: true
   - rank: 2
     name: "ロリエ スリムガード 特に多い昼用 羽つき 19個入"
     brand: "花王（ロリエ）"
@@ -49,6 +60,17 @@ products:
     recommendedFor: "多い日の昼間・動き回る日に安心して使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000944%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10123008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/283/4901301254283.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdrmart-1%2Fcm-516393.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 9548
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/drmart-1_cm-516393"
+        available: true
   - rank: 3
     name: "ウィスパー うすさら 28枚入"
     brand: "P&G（ウィスパー）"
@@ -203,6 +225,17 @@ products:
     recommendedFor: "布ナプキンやライナーを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pitwn.3rdw6d1d.g00pitwn.3rdw73f3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fearth%2Fx-nnlt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fearth%2Fi%2F10001815%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/earth/cabinet/sanitary/3/set-nnlt.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbigmories%2Fmie-zk-nn-ltset.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 2500
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/bigmories_mie-zk-nn-ltset"
+        available: true
   - rank: 10
     name: "JEWLINGE おりものライナープラス"
     brand: "JEWLINGE"

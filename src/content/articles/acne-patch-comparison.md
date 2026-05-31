@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvirginbeautyshop%2Fta-the-sp.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 860
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/virginbeautyshop_ta-the-sp"
         available: true
@@ -127,6 +127,17 @@ products:
     recommendedFor: "ブランドより枚数コスパを優先したい方・シンプルなヒドロコロイドパッチを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r83in.3rdw69a4.g00r83in.3rdw71ae/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fv-drug%2F0270030_4560461866660_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fv-drug%2Fi%2F10122589%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/v-drug/cabinet/0510/4560461866660.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4560461866660.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 935
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4560461866660"
+        available: true
   - rank: 6
     name: "ゼロスポットパッチ 54枚×2袋セット"
     brand: "Today's Cosme"
@@ -198,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvely-vely%2F8809559624031yt.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/vely-vely_8809559624031yt"
         available: true

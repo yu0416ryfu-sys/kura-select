@@ -27,6 +27,17 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rh4on.3rdw6655.g00rh4on.3rdw778d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcagu-le%2Fds-2358010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcagu-le%2Fi%2F10697395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cagu-le/cabinet/dsproducts/611/0002358010-1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fme-belu%2Fds-2358010.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 10260
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/me-belu_ds-2358010"
+        available: true
   - rank: 2
     name: "再生紙トイレットペーパー ダブル"
     brand: "カミングネット"
@@ -76,7 +87,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7666919.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 5570
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_7666919"
         available: true
@@ -104,6 +115,17 @@ products:
     recommendedFor: "品質と環境配慮を両立したい方・業務用にも使えるまとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4580287284745%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11346354%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/745/4580287284745.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fstylem%2Faj4741mstyle284edf800d.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 7635
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/stylem_aj4741mstyle284edf800d"
+        available: true
   - rank: 5
     name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
     brand: "日本製紙クレシア（スコッティ）"
@@ -131,7 +153,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9620643.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 3880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9620643"
         available: true
@@ -181,6 +203,17 @@ products:
     recommendedFor: "肌の敏感な方・シャワートイレ使用者・品質最優先の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quq9n.3rdw60c1.g00quq9n.3rdw73f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-hachidai%2F888779%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-hachidai%2Fi%2F10539450%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-hachidai/cabinet/sozai/smn/oshiri_celeb2_0.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F5647190.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 533
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_5647190"
+        available: true
   - rank: 8
     name: "（まとめ）日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり "
     brand: "スコッティ"
@@ -203,6 +236,17 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s8xpn.3rdw6071.g00s8xpn.3rdw797d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-easu%2Fds-2361245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshop-easu%2Fi%2F10928586%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shop-easu/cabinet/dsproducts/846/0002361245-1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2Fh7262029.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 1000
+        rating: 4.33
+        reviewCount: 9
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_h7262029"
+        available: true
   - rank: 9
     name: "（まとめ）日本製 国産 紙クレシア スコッティ フラワーパック 3倍長持ち ダブル "
     brand: "スコッティ"

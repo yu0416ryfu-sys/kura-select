@@ -27,6 +27,17 @@ products:
     recommendedFor: "安全性を重視する方・まな板や調理器具の除菌に・まとめ買い派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901609016491%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11230047%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/491/4901609016491.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901609016491.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 982
+        rating: 4.5
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901609016491"
+        available: true
   - rank: 2
     name: "フマキラー キッチン用 アルコール除菌スプレー つめかえ用【フマキラー アルコー"
     brand: "フマキラー"
@@ -49,6 +60,17 @@ products:
     recommendedFor: "コスパ最優先の方・キッチン用がメインの方・大量に使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4902424441727%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10675585%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/727/4902424441727.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4902424441727.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 450
+        rating: 4.43
+        reviewCount: 7
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4902424441727"
+        available: true
   - rank: 3
     name: "手ピカスプレー 消毒用アルコール"
     brand: "健栄製薬（手ピカ）"
@@ -93,6 +115,17 @@ products:
     recommendedFor: "除菌スプレーを用途と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rt83n.3rdw6209.g00rt83n.3rdw7241/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsukoyakakomachi%2Faqarfa400ppm23%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsukoyakakomachi%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/sukoyakakomachi/banner/r_syohin_af8001.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsukoyakakomachi%2Faqarfa1l.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 1540
+        rating: 5
+        reviewCount: 11
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sukoyakakomachi_aqarfa1l"
+        available: true
   - rank: 5
     name: "微酸性次亜塩素酸水 スプレー3本セット"
     brand: "すこやかこまち"
@@ -164,7 +197,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188317877.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 2911
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188317877"
         available: true
@@ -197,7 +230,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188318706.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 1000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188318706"
         available: true
@@ -230,7 +263,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnakano-dy%2Fkesisaru-20.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nakano-dy_kesisaru-20"
         available: true

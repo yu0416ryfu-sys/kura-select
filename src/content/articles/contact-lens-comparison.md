@@ -54,7 +54,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcontact-clean%2F284.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 3230
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/contact-clean_284"
         available: true
@@ -104,6 +104,17 @@ products:
     recommendedFor: "レニューフレッシュを日常使いしている方・ソフトレンズ用をまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pz3gn.3rdw66dc.g00pz3gn.3rdw75dd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakuracl%2Fckea-renup-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakuracl%2Fi%2F10004462%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakuracl/cabinet/10119032/renu_10.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffirstcontact%2F478.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 3840
+        rating: 4.83
+        reviewCount: 12
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/firstcontact_478"
+        available: true
   - rank: 5
     name: "レニューフレッシュ 355ml 12本"
     brand: "ボシュロム"
@@ -131,7 +142,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworld-cl%2F2019016.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 4170
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/world-cl_2019016"
         available: true
@@ -164,7 +175,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworld-cl%2F2019016.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 4170
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/world-cl_2019016"
         available: true
@@ -192,6 +203,17 @@ products:
     recommendedFor: "レニューを使い慣れている方・10本単位で備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbtqn.3rdw6f47.g00qbtqn.3rdw768d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworldcontact%2Frenump5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworldcontact%2Fi%2F10000314%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/worldcontact/cabinet/00416142/imgrc0079830739.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffirstcontact%2F478.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 3840
+        rating: 4.83
+        reviewCount: 12
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/firstcontact_478"
+        available: true
   - rank: 8
     name: "レニューフレッシュ 355ml 4本"
     brand: "ボシュロム"
@@ -214,6 +236,17 @@ products:
     recommendedFor: "レニューを少なめの本数から試したい方・保管場所を抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbtqn.3rdw6f47.g00qbtqn.3rdw768d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworldcontact%2Frenump3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworldcontact%2Fi%2F10000058%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/worldcontact/cabinet/00416142/imgrc0079830743.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworld-cl%2F59.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 2096
+        rating: 4.57
+        reviewCount: 75
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/world-cl_59"
+        available: true
   - rank: 9
     name: "コンセプト ワンステップ トリプルパック"
     brand: "ジョンソン・エンド・ジョンソン"
@@ -241,7 +274,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flensfree%2Famsoco300t-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 4800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lensfree_amsoco300t-2"
         available: true
@@ -274,7 +307,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ficare%2Fbid-car-10014.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 4200
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/icare_bid-car-10014"
         available: true

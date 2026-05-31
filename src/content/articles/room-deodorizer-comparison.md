@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fg-sarai%2F10000080.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 6996
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/g-sarai_10000080"
         available: true
@@ -65,7 +65,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F4580361060036.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 7700
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_4580361060036"
         available: true
@@ -98,12 +98,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F113-8544-001.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10140199.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-27"
-        price: 720
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_113-8544-001"
+        updatedAt: "2026-05-31"
+        price: 515
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10140199"
         available: true
+        rating: 4.83
+        reviewCount: 12
   - rank: 4
     name: "リセッシュ 除菌EX ワイドジェット ストロング 香りが残らないタイプ つめかえ"
     brand: "花王"
@@ -132,12 +134,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F580764.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7288422.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-26"
+        updatedAt: "2026-05-31"
         price: 3080
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_580764"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7288422"
         available: true
+        rating: 0
+        reviewCount: 0
   - rank: 5
     name: "ファブリーズ W除菌+消臭 詰め替え 1280ml×2セット"
     brand: "ファブリーズ(febreze) / P&G"
@@ -288,7 +292,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072098813.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 350
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987072098813"
         available: true

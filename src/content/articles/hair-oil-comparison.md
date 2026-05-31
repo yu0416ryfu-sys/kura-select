@@ -72,6 +72,17 @@ products:
     recommendedFor: "香り付きヘアオイルが苦手な人・しっとりまとまりを求める人・くせ毛ケアをしたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pixzn.3rdw6fcd.g00pixzn.3rdw761f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymsk%2F597910%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymsk%2Fi%2F10000461%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymsk/cabinet/itemimg/12091989/597910_1_2603.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6016812.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 2575
+        rating: 4.4
+        reviewCount: 15
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6016812"
+        available: true
   - rank: 4
     name: "ルシードエル ヘアリペアオイル"
     brand: "LUCIDO-L（マンダム）"
@@ -143,12 +154,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbb-2023%2Fn-poil150.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 3130
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bb-2023_n-poil150"
         available: true
         rating: 4.59
-        reviewCount: 215
+        reviewCount: 217
   - rank: 7
     name: "マドンナリリ ヘアオイル 100mL"
     brand: "MADONNA LILI"
@@ -219,8 +230,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisopo%2Floaoil.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-30"
+        matchStatus: "matched"
+        updatedAt: "2026-05-31"
         price: 5500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_loaoil"
         available: true
