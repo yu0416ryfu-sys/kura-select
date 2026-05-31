@@ -45,7 +45,7 @@ products:
     capacity: "27.5m×12ロール×8パック（96ロール）"
     pricePerUnit: "約1.2円/m"
     rating: 4.58
-    reviewCount: 3476
+    reviewCount: 3477
     features:
       - "再生紙を使ったダブルタイプ"
       - "無地・無印刷で日常使いしやすい"

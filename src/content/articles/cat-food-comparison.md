@@ -106,7 +106,7 @@ products:
         rating: 4.75
         reviewCount: 1370
   - rank: 4
-    name: "ロイヤルカナン インドア 7+ 室内中高齢猫用 3.3.3.5kg"
+    name: "ロイヤルカナン インドア 7+ 室内中高齢猫用 3.5kg"
     brand: "ロイヤルカナン"
     price: 5759
     capacity: "3.5kg"
@@ -227,7 +227,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cell-apt_c-2801-800-2"
         available: true
   - rank: 8
-    name: "キアオラ キャットフード カンガルー 2.2.2.7kg"
+    name: "キアオラ キャットフード カンガルー 2.7kg"
     brand: "キアオラ"
     price: 10670
     capacity: "2.7kg"

@@ -79,7 +79,7 @@ products:
     capacity: "800枚"
     pricePerUnit: "約5.6円/枚"
     rating: 4.55
-    reviewCount: 14252
+    reviewCount: 14253
     features:
       - "スーパーワイド・ダブルワイド系のペットシーツ"
       - "大型犬や多頭飼いのトイレまわりに使いやすい"

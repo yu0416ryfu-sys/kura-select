@@ -1,6 +1,6 @@
 ---
 title: "使い捨て手袋 コスパ最強ランキング【2026年版】ニトリル・ビニール・ポリエチレンで比較"
-description: "使い捨て手袋を1枚あたりのコストで徹底比較。ニトリル・ビニール・ポリエチレンなど素材別に人気8選のフィット感・耐久性を解説します。"
+description: "使い捨て手袋を1枚あたりのコストで徹底比較。ニトリル・ビニール・ポリエチレンなど素材別に人気11選のフィット感・耐久性を解説します。"
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 updatedAt: 2026-05-31
@@ -221,6 +221,72 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+  - rank: 9
+    name: "ニトリル手袋 パウダーフリー 食品衛生対応"
+    brand: "TRINITY COSME"
+    price: 0
+    capacity: "100枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "食品衛生法適合のパウダーフリーニトリル手袋"
+      - "SS/S/M/Lサイズ展開と青・白のカラー選択"
+      - "100枚から大量購入まで枚数選択が可能な設計"
+    pros:
+      - "食品調理や介護など幅広い用途に使いやすい"
+      - "枚数を選べるため必要量に合わせて購入しやすい"
+      - "ラテックスフリーでゴムアレルギーが気になる方に向く"
+    cons:
+      - "サイズや色の選択が必要なため購入前に確認が必要"
+      - "大量購入で在庫管理スペースを確保したい"
+    recommendedFor: "食品調理・介護・作業用にニトリル手袋を探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/trinity-cosme/san350310x1/"
+    imageUrl: ""
+  - rank: 10
+    name: "ニトリル手袋 パウダーフリー 医療対応"
+    brand: "TKJP"
+    price: 0
+    capacity: "100枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
+      - "厚み0.1mmで耐穿刺性を確保した設計"
+      - "青・白・黒のカラー展開とSS/S/M/Lサイズ対応"
+    pros:
+      - "医療・介護・食品加工など多用途に使いやすい"
+      - "FDA認証取得で品質基準を重視する方に選びやすい"
+      - "大量購入オプションがあり業務用途にも向く"
+    cons:
+      - "一般的なビニール手袋より単価が高め"
+      - "購入前にサイズと色の選択が必要"
+    recommendedFor: "FDA認証取得のニトリル手袋で品質基準を重視する方"
+    rakutenUrl: "https://item.rakuten.co.jp/tenkapas/glove001/"
+    imageUrl: ""
+  - rank: 11
+    name: "MISM ニトリル手袋 パウダーフリー"
+    brand: "sobani（MISM）"
+    price: 0
+    capacity: "100枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "食品対応パウダーフリーのニトリル手袋"
+      - "青・白・黒のカラーとSS/S/M/Lサイズ対応"
+      - "100枚から500枚まで枚数選択が可能"
+    pros:
+      - "食品・美容・介護・工場など多用途に選びやすい"
+      - "100枚から選択でき少量の試し買いもしやすい"
+      - "素材の伸縮性で手にフィットしやすい設計"
+    cons:
+      - "大量購入時は箱買いの方が割安になる場合もある"
+      - "サイズ選択が必要なため初回は確認から始めたい"
+    recommendedFor: "少量から試してニトリル手袋の感触を確認したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/sobani/35002149/"
+    imageUrl: ""
 tags:
   - "使い捨て手袋"
   - "ニトリル手袋"

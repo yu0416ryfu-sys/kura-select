@@ -1,11 +1,55 @@
 ---
-title: "ウェットティッシュ コスパ最強ランキング【2026年版】除菌・ノンアルで比較 7選"
-description: "ウェットティッシュを1枚あたりのコストで徹底比較。エリエール・シルコット・キレイキレイ・アイリスオーヤマなど人気7選を除菌力・肌やさしさで解説します。"
+title: "ウェットティッシュ コスパ最強ランキング【2026年版】除菌・ノンアルで比較 10選"
+description: "ウェットティッシュを1枚あたりのコストで徹底比較。エリエール・シルコット・キレイキレイ・アイリスオーヤマなど人気10選を除菌力・肌やさしさで解説します。"
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 updatedAt: 2026-05-31
 products:
   - rank: 1
+    name: "ウェットティッシュ 薄型 除菌シート"
+    brand: "楽天オリジナル"
+    price: 1280
+    capacity: "3840枚＋480枚"
+    pricePerUnit: "約0.33円/枚"
+    rating: 4.1
+    reviewCount: 61
+    features:
+      - "薄型設計で大容量ストックに向いた除菌シート"
+      - "楽天市場の独自企画商品で価格訴求型設計"
+      - "ウイルス対策・除菌用途に向けた大容量構成"
+    pros:
+      - "大容量タイプで家庭での据え置き使いに向く"
+      - "楽天市場での購入がしやすい"
+      - "まとめ買いで単価を抑えやすい"
+    cons:
+      - "ブランドの知名度は大手メーカーより低め"
+      - "用途に合う成分タイプを事前に確認したい"
+    recommendedFor: "楽天で大容量の除菌ウェットティッシュをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqzrn.3rdw615b.g00uqzrn.3rdw7efd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenoriginal-daily%2Fro-d-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenoriginal-daily%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenoriginal-daily/cabinet/item/daily/wt-thin_2603_01.jpg?_ex=128x128"
+  - rank: 2
+    name: "ノンアルコール 99%除菌ウェットティッシュ"
+    brand: "VINDA"
+    price: 1740
+    capacity: "80枚×12個（960枚）"
+    pricePerUnit: "約1.8円/枚"
+    rating: 4.81
+    reviewCount: 293
+    features:
+      - "ノンアルコールで99%除菌を訴求したタイプ"
+      - "厚手・大判・無香料設計で幅広い用途に対応"
+      - "破れにくい厚手の素材を採用"
+    pros:
+      - "ノンアルコールのため手肌への刺激を抑えやすい"
+      - "厚手で拭き取りやすく除菌力を重視する方に向く"
+      - "12個まとめ買いで単価を抑えやすい"
+    cons:
+      - "強力な除菌が必要な場面ではアルコールタイプが向く"
+      - "国内大手ブランドに比べて知名度は低め"
+    recommendedFor: "ノンアルコールで除菌力も確保したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnhsn.3rdw6b0b.g00tnhsn.3rdw755e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarubeni-pps%2Fjyokin80-12set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarubeni-pps%2Fi%2F10000026%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marubeni-pps/cabinet/biiino/item/main-image/1702967471168_1.jpg?_ex=128x128"
+  - rank: 3
     name: "レック 水99.9％ 手口ふき"
     brand: "レック"
     price: 2180
@@ -36,7 +80,7 @@ products:
         price: 2180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
         available: true
-  - rank: 2
+  - rank: 4
     name: "おしりふき 手口ふき シンプル"
     brand: "子育て日和"
     price: 3980
@@ -58,7 +102,7 @@ products:
     recommendedFor: "赤ちゃんのいる家庭・敏感肌向け・大容量を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t960n.3rdw6406.g00t960n.3rdw7aa2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foga13%2Foshirihuki24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foga13%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oga13/cabinet/thumbnail2025/oshirihuki24_1.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 5
     name: "シルコット ピュアウォーター ウェットティッシュ 詰替 58枚×8個"
     brand: "ユニ・チャーム（シルコット）"
     price: 1160
@@ -91,7 +135,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 4
+  - rank: 6
     name: "アイリスオーヤマ 除菌ウェットティッシュ 60枚×48個"
     brand: "アイリスオーヤマ"
     price: 7480
@@ -124,7 +168,29 @@ products:
         available: true
         rating: 4.56
         reviewCount: 18
-  - rank: 5
+  - rank: 7
+    name: "エリエール 除菌できるアルコールタオル 大容量本体"
+    brand: "大王製紙（エリエール）"
+    price: 11000
+    capacity: "400枚×6個（2,400枚）"
+    pricePerUnit: "約4.6円/枚"
+    rating: 5
+    reviewCount: 4
+    features:
+      - "大容量本体タイプで据え置き使いに向く設計"
+      - "アルコール配合のウイルス対策除菌を訴求"
+      - "国内大手大王製紙のエリエールシリーズ"
+    pros:
+      - "400枚×6個の大容量で家庭のストックに使いやすい"
+      - "定番ブランドで品質を信頼して選びやすい"
+      - "アルコール配合でテーブル・調理台の除菌に向く"
+    cons:
+      - "アルコールタイプのため赤ちゃんの手口拭きには不向き"
+      - "詰め替えタイプに比べると本体は設置スペースが必要"
+    recommendedFor: "エリエールブランドの大容量タイプをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fwet-tissue61%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10000657%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item_r/wet-tissue61-a1.jpg?_ex=128x128"
+  - rank: 8
     name: "エリエール 除菌できるアルコールタオル ウイルス除去用 詰め替え 70枚×3個"
     brand: "大王製紙（エリエール）"
     price: 1097
@@ -155,7 +221,7 @@ products:
         price: 6989
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_89874"
         available: true
-  - rank: 6
+  - rank: 9
     name: "キレイキレイ 除菌ウェットシート ノンアルコール 30枚 携帯用"
     brand: "ライオン（キレイキレイ）"
     price: 217
@@ -188,7 +254,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 7
+  - rank: 10
     name: "Hugmuu 厚手ウェットティッシュ 96枚"
     brand: "Hugmuu"
     price: 2980

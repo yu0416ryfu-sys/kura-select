@@ -39,7 +39,7 @@ products:
         rating: 4.56
         reviewCount: 2027
   - rank: 2
-    name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.5.5.26kg！★【"
+    name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.26kg！★【"
     brand: "グラフィコ（オキシクリーン）"
     price: 3425
     capacity: "5.26kg"

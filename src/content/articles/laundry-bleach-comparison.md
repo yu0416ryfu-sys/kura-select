@@ -72,7 +72,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_r5-15090k"
         available: true
   - rank: 3
-    name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.5.5.26kg！★【"
+    name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.26kg！★【"
     brand: "グラフィコ（オキシクリーン）"
     price: 3425
     capacity: "5.26kg"

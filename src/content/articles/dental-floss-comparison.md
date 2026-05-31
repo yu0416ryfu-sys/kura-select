@@ -1,9 +1,9 @@
 ---
-title: "デンタルフロス コスパ最強ランキング【2026年版】1回0.25円〜7選比較"
-description: "フロスを1回あたりのコストで徹底比較。最安はGUM 550mで0.25円/回（3年分）。クリニカvsウルトラフロスの違いも解説。糸ようじ・ロール・Y字タイプ別におすすめ7選を紹介します。"
+title: "デンタルフロス コスパ最強ランキング【2026年版】1回0.25円〜10選比較"
+description: "フロスを1回あたりのコストで徹底比較。最安はGUM 550mで0.25円/回（3年分）。クリニカvsウルトラフロスの違いも解説。糸ようじ・ロール・Y字タイプ別におすすめ10選を紹介します。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
-updatedAt: "2026-05-30"
+updatedAt: 2026-05-31
 products:
   - rank: 1
     name: "GUM デンタルフロス 550m"
@@ -28,6 +28,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shohin08/28528.jpg?_ex=128x128"
   - rank: 2
+    name: "クリニカ アドバンテージ スポンジフロス"
+    brand: "ライオン（クリニカ）"
+    price: 1347
+    capacity: "40m×4個（320回）"
+    pricePerUnit: "約4.2円/回"
+    rating: 4.75
+    reviewCount: 73
+    features:
+      - "スポンジ状の素材で歯肉を傷つけにくい設計"
+      - "小さな凹凸構造で歯垢をかき出しやすい"
+      - "4個セットでまとめて備蓄しやすい"
+    pros:
+      - "スポンジ素材で歯茎への刺激が気になる方に向く"
+      - "40m×4個でストックが長持ちしやすい"
+      - "ロールタイプで指に巻いて使う習慣がある方に合わせやすい"
+    cons:
+      - "ロールタイプのため外出先では使いにくい"
+      - "スポンジ素材の感触が合わない方もいる"
+    recommendedFor: "歯茎への刺激を抑えながらロールフロスを使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F63712%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10894259%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/712/63712.jpg?_ex=128x128"
+  - rank: 3
     name: "フロアフロス 250m 詰め替え用"
     brand: "fluorfloss"
     price: 2640
@@ -59,7 +81,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: false
         matchNotes: "capacity不一致: capacity不一致"
-  - rank: 3
+  - rank: 4
     name: "フロアフロス 45m×3個 3個セット"
     brand: "fluorfloss"
     price: 2230
@@ -81,7 +103,7 @@ products:
     recommendedFor: "歯科医院品質のフロスをまとめて揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49760%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008760%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/07319599/49760_n.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "小林製薬 糸ようじ フロス&ピック デンタルフロス 60本入"
     brand: "小林製薬（糸ようじ）"
     price: 770
@@ -112,7 +134,7 @@ products:
         price: 798
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-pal_4987072025895-1"
         available: true
-  - rank: 5
+  - rank: 6
     name: "ライオン クリニカ アドバンテージ フロス Y字タイプ"
     brand: "ライオン（クリニカ）"
     price: 292
@@ -144,7 +166,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk13773-a2603"
         available: false
         matchNotes: "capacity不一致: capacity不一致"
-  - rank: 6
+  - rank: 7
     name: "デンタルプロ 歯間ブラシ 4【more30】【デンタルプロ】"
     brand: "デンタルプロ"
     price: 467
@@ -176,7 +198,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4973227834634"
         available: false
         matchNotes: "capacity不一致: capacity不一致"
-  - rank: 7
+  - rank: 8
     name: "DENT.EX ウルトラフロスS 10本入×10パック"
     brand: "ライオン（DENT.EX）"
     price: 4850
@@ -208,6 +230,50 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_13122"
         available: false
         matchNotes: "capacity不一致: capacity不一致"
+  - rank: 9
+    name: "GUM エクスパンディング デンタルフロス"
+    brand: "GUM"
+    price: 0
+    capacity: "40m（80回）"
+    pricePerUnit: "0円/回"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "使用時に膨張するエキスパンディングタイプ"
+      - "無香料で素材由来の香りが気になりにくい"
+      - "ワックス加工で歯間に通しやすい設計"
+    pros:
+      - "膨張タイプで歯間をしっかりふさいで汚れをかき出せる"
+      - "無香料で香料が苦手な方でも使いやすい"
+      - "ロールタイプでコスパよく継続しやすい"
+    cons:
+      - "ロールタイプのため慣れが必要"
+      - "40mとコンパクトなためストック量は少なめ"
+    recommendedFor: "膨張タイプで歯間をしっかりケアしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/womensfitness/zy-11318/"
+    imageUrl: ""
+  - rank: 10
+    name: "バトラー イージースレッドフロス"
+    brand: "サンスター（Butler）"
+    price: 0
+    capacity: "1個（50回分）"
+    pricePerUnit: "0円/回"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "硬化部分付きでブリッジやインプラント下に通しやすい構造"
+      - "歯科医院専売ブランドとして設計されたホルダータイプ"
+      - "ブリッジや矯正器具がある方に向けた専用設計"
+    pros:
+      - "ブリッジやインプラントがある方でもフロスを使いやすい"
+      - "歯科専売品ならではの設計で安心感がある"
+      - "通常フロスが届きにくい箇所のケアに向く"
+    cons:
+      - "専用用途のため一般向けフロスの代替にはなりにくい"
+      - "1個50回分と少量で継続コストは高め"
+    recommendedFor: "ブリッジ・インプラント・矯正器具のある方"
+    rakutenUrl: "https://item.rakuten.co.jp/d-fit/df7627/"
+    imageUrl: ""
 tags:
   - "デンタルフロス おすすめ"
   - "歯間ブラシ コスパ"

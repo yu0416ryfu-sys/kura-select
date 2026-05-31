@@ -35,7 +35,7 @@ products:
     capacity: "42×67cm 1枚"
     pricePerUnit: "約0.64円/m"
     rating: 4.61
-    reviewCount: 2081
+    reviewCount: 2082
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -156,7 +156,7 @@ products:
     capacity: "40×60cm / 50×80cm"
     pricePerUnit: "円/枚"
     rating: 4.65
-    reviewCount: 3194
+    reviewCount: 3195
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"
@@ -228,7 +228,7 @@ products:
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
     rating: 4.43
-    reviewCount: 2500
+    reviewCount: 2501
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

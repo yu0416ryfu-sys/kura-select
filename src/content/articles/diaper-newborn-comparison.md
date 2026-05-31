@@ -3,9 +3,53 @@ title: "新生児用紙おむつ テープ型コスパ比較【2026年版】"
 description: "新生児用の紙おむつを1枚あたりの価格で比較。サイズアウトしやすい時期に、まとめ買い量と肌へのやさしさのバランスで選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: "2026-05-30"
+updatedAt: 2026-05-31
 products:
   - rank: 1
+    name: "ムーニー マシュマロ肌ごこち テープ 新生児"
+    brand: "ユニ・チャーム（ムーニー）"
+    price: 1518
+    capacity: "64枚（新生児サイズ・〜3000g）"
+    pricePerUnit: "約24円/枚"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "マシュマロのような柔らかい肌触りを訴求する設計"
+      - "ストレッチウエストで体型に合わせてフィットする構造"
+      - "体重3000gまでのごく初期の新生児向けサイズ"
+    pros:
+      - "柔らかい素材で肌刺激を抑えたい方に向く"
+      - "ユニ・チャームの定番ブランドで信頼して選びやすい"
+      - "産院でムーニーを使っていた方が同ブランドで継続しやすい"
+    cons:
+      - "対象体重が〜3000gと使用期間がとても短い"
+      - "体重3000g超えで素早くサイズアップが必要になる"
+    recommendedFor: "体重が小さめの赤ちゃんに柔らかい素材を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4903111210947%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10035430%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/947/4903111210947.jpg?_ex=128x128"
+  - rank: 2
+    name: "メリーズ エアスルー テープ 新生児"
+    brand: "花王（メリーズ）"
+    price: 7066
+    capacity: "272枚（68枚×4袋・新生児サイズ・〜5000g）"
+    pricePerUnit: "約26円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "50%エアスルー素材で通気性を高めた設計"
+      - "新生児〜5000gまで対応したテープタイプ"
+      - "エアインクッションで足まわりを柔らかく包む構造"
+    pros:
+      - "68枚×4袋のまとめ買いセットで新生児期のストックに使いやすい"
+      - "通気設計で肌が蒸れにくくなることを重視する方に向く"
+      - "定番ブランドで入手しやすく比較しやすい"
+    cons:
+      - "新生児期は体重増加が速くサイズアウトのリスクがある"
+      - "プレミアム系ブランドと素材面での差異を実際に試してから判断したい"
+    recommendedFor: "通気性重視で定番ブランドのメリーズを選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcnfn.3rdw6f9c.g00qcnfn.3rdw70c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu821053%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10036331%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/natural-living/cabinet/3/7/0/370202643897.jpg?_ex=128x128"
+  - rank: 3
     name: "ムーニーナチュラル テープ 新生児サイズ"
     brand: "ユニ・チャーム（ムーニー）"
     price: 6680
@@ -27,7 +71,7 @@ products:
     recommendedFor: "新生児期にまとめ買いでコストを抑えたい方・ナチュラル素材を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00st9kn.3rdw6336.g00st9kn.3rdw7d77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoiree-hanaoka%2F4903111143429_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoiree-hanaoka%2Fi%2F10003127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/soiree-hanaoka/cabinet/g/09552678/imgrc0111461149.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 4
     name: "パンパース はじめての肌へのいちばん テープ新生児 144枚"
     brand: "P&G（パンパース）"
     price: 4969
@@ -60,7 +104,7 @@ products:
         reviewCount: 8
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-171313-2"
         available: true
-  - rank: 3
+  - rank: 5
     name: "パンパース テープ新生児 144枚"
     brand: "P&G（パンパース）"
     price: 5500
@@ -82,7 +126,7 @@ products:
     recommendedFor: "新生児期をまとめて備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2Fck00015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000166%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/187811354738718.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 6
     name: "パンパース はじめての肌へのいちばん テープ3S"
     brand: "P&G（パンパース）"
     price: 8506
@@ -104,7 +148,7 @@ products:
     recommendedFor: "出生体重が小さめの赤ちゃんに備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sargn.3rdw6a7b.g00sargn.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyrepi-2%2F4987176238498-6r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmyrepi-2%2Fi%2F10176330%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/myrepi-2/cabinet/2024a/4987176238498.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 7
     name: "パンパース はじめての肌へのいちばん テープ新生児"
     brand: "P&G（パンパース）"
     price: 5699
@@ -137,7 +181,7 @@ products:
         reviewCount: 8
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-171313-2"
         available: true
-  - rank: 6
+  - rank: 8
     name: "バンボネイチャー ドリーム テープ/パンツ ニューボーン"
     brand: "BAMBO Nature"
     price: 3190
@@ -159,7 +203,7 @@ products:
     recommendedFor: "素材感やプレミアム感を重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcnfn.3rdw6f9c.g00qcnfn.3rdw70c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu684137%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10037852%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/natural-living/cabinet/spr/1/1/118753296834.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 9
     name: "メリーズ ファーストプレミアム テープ 新生児/S/M"
     brand: "花王（メリーズ）"
     price: 6900
@@ -181,6 +225,28 @@ products:
     recommendedFor: "肌触りとシリーズ継続を重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcnfn.3rdw6f9c.g00qcnfn.3rdw70c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu956695%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10036151%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/natural-living/cabinet/spr/6/8/688616251038_6.jpg?_ex=128x128"
+  - rank: 10
+    name: "グーンプラス 敏感肌設計 テープ 新生児"
+    brand: "大王製紙（グーンプラス）"
+    price: 0
+    capacity: "76枚（新生児サイズ・〜5kg）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "敏感肌設計で保湿成分を配合した素材"
+      - "ふわふわタッチのメッシュシートを採用"
+      - "医師・助産師からの推奨実績があるシリーズ"
+    pros:
+      - "敏感肌の赤ちゃんの肌トラブルが気になる方に選びやすい"
+      - "保湿成分配合で肌乾燥を軽減したい方に向く"
+      - "グーンシリーズとして成長後も継続しやすい"
+    cons:
+      - "76枚の単品販売のため長期ストックには追加購入が必要"
+      - "他ブランドとの肌相性は実際に試してから判断したい"
+    recommendedFor: "敏感肌の赤ちゃんに向けた保湿設計を重視する方"
+    rakutenUrl: "https://item.rakuten.co.jp/l-plus/7175532/"
+    imageUrl: ""
 tags:
   - "新生児 おむつ"
   - "紙おむつ コスパ"

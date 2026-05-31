@@ -77,7 +77,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.63円/m"
     rating: 4.66
-    reviewCount: 2696
+    reviewCount: 2698
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"

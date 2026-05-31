@@ -1,9 +1,9 @@
 ---
 title: "洗顔料 コスパ最強ランキング【2026年版】1gあたり最安で比較"
-description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴ・専科など人気8選を成分・洗い上がり・コスパで解説します。"
+description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴ・専科など人気11選を成分・洗い上がり・コスパで解説します。"
 category: "face-wash"
 publishedAt: "2026-05-01"
-updatedAt: "2026-05-29"
+updatedAt: "2026-05-31"
 products:
   - rank: 1
     name: "無添加生活 泡洗顔 炭酸泡洗顔フォーム 3本セット"
@@ -236,6 +236,72 @@ products:
     recommendedFor: "肌質や洗い上がりで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pytjn.3rdw6c43.g00pytjn.3rdw73fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fadpentel%2F590765%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fadpentel%2Fi%2F10000082%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/adpentel/cabinet/pro/imgrc0079724986.jpg?_ex=128x128"
+  - rank: 9
+    name: "ビオレ おうちdeエステ マッサージ洗顔ジェル"
+    brand: "花王（ビオレ）"
+    price: 0
+    capacity: "150g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "マッサージしながら洗顔できるジェルタイプの洗顔料"
+      - "肌をやわらかくする保湿ケア成分配合"
+      - "リラックスアロマの香り付き"
+    pros:
+      - "ドラッグストアで入手しやすい定番ブランド"
+      - "洗顔とマッサージを同時にできる時短設計"
+      - "毛穴ケアと保湿を両立したい方に向く"
+    cons:
+      - "アロマ香料が苦手な方には向かない場合がある"
+      - "ジェルタイプのため泡立てが必要"
+    recommendedFor: "洗顔にマッサージ感も求める方・花王ビオレブランドを好む方"
+    rakutenUrl: "https://item.rakuten.co.jp/insair/7288572/"
+    imageUrl: ""
+  - rank: 10
+    name: "ピュアモイスト 泡洗顔料"
+    brand: "ファンケル"
+    price: 0
+    capacity: "150mL"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "無添加処方でセラミド・アミノ酸配合の泡洗顔料"
+      - "敏感肌・乾燥肌に向けた低刺激設計"
+      - "約60日分の使用量を1本で賄える設計"
+    pros:
+      - "無添加処方で肌刺激を抑えたい方に向く"
+      - "セラミド配合で洗後の乾燥を感じにくい"
+      - "ファンケル公式ショップから直接購入しやすい"
+    cons:
+      - "一般的な洗顔フォームより価格は高め"
+      - "泡立てずに使えるタイプではないためひと手間かかる"
+    recommendedFor: "無添加・セラミド配合で敏感肌や乾燥肌のケアをしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/fancl-shop/3730-41/"
+    imageUrl: ""
+  - rank: 11
+    name: "キュレル 潤浸保湿 泡洗顔料"
+    brand: "花王（キュレル）"
+    price: 0
+    capacity: "300mL"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "医薬部外品でセラミド配合の花王キュレルシリーズ泡洗顔"
+      - "無香料・無着色の低刺激弱酸性処方"
+      - "敏感肌・乾燥肌など様々な肌質に対応した設計"
+    pros:
+      - "医薬部外品でセラミドによる保湿効果を訴求する製品"
+      - "無香料・無着色で成分に敏感な方でも使いやすい"
+      - "300mLの大容量でコスパよく使いやすい"
+    cons:
+      - "一般的な洗顔料より価格は高め"
+      - "泡タイプのためウォータープルーフメイクは落ちにくい場合がある"
+    recommendedFor: "医薬部外品の保湿洗顔を探している方・敏感肌・乾燥肌の方"
+    rakutenUrl: "https://item.rakuten.co.jp/shop-gift-health/4901301411525/"
+    imageUrl: ""
 tags:
   - "洗顔料 おすすめ"
   - "洗顔料 コスパ"

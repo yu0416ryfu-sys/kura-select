@@ -210,7 +210,7 @@ products:
     capacity: "10本（約10ヶ月分）"
     pricePerUnit: "約140円/本"
     rating: 4.69
-    reviewCount: 2068
+    reviewCount: 2069
     features:
       - "歯科医院でも採用される定番ブラシ"
       - "PBT毛材で耐久性が高くヘタりにくい"

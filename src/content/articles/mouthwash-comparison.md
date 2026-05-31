@@ -1,6 +1,6 @@
 ---
-title: "マウスウォッシュ コスパ最強ランキング【2026年版】殺菌力・低刺激で比較8選"
-description: "マウスウォッシュを1mLあたりのコストで徹底比較。リステリン・モンダミン・GUM・コンクールなど人気8選を殺菌力・刺激性で解説します。"
+title: "マウスウォッシュ コスパ最強ランキング【2026年版】殺菌力・低刺激で比較11選"
+description: "マウスウォッシュを1mLあたりのコストで徹底比較。リステリン・モンダミン・GUM・コンクールなど人気11選を殺菌力・刺激性で解説します。"
 category: "mouthwash"
 publishedAt: "2026-05-01"
 updatedAt: 2026-05-31
@@ -225,6 +225,72 @@ products:
     recommendedFor: "口臭・歯周炎ケアを重視する方・国産マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr2qn.3rdw64f0.g00pr2qn.3rdw7a58/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnat-gar%2F1484526%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnat-gar%2Fi%2F10004814%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nat-gar/cabinet/ynata/c/cart-r-ynata5x250b6.jpg?_ex=128x128"
+  - rank: 9
+    name: "NONIO プラスホワイトニング マウスウォッシュ"
+    brand: "ライオン（NONIO）"
+    price: 0
+    capacity: "1000mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "長時間殺菌・ステイン除去・液体歯みがき機能を兼ねる大容量設計"
+      - "ホワイトニング成分配合でステイン予防を訴求"
+      - "医薬部外品で虫歯予防効果を訴求する設計"
+    pros:
+      - "1000mLの大容量で長期間使いやすい"
+      - "ホワイトニング効果を求める方に向く設計"
+      - "ライオンの定番NONIOブランドで入手しやすい"
+    cons:
+      - "マウスウォッシュと液体歯みがきを兼ねるため使い方の確認が必要"
+      - "ホワイトニング効果の実感には継続使用が必要"
+    recommendedFor: "ホワイトニング効果のある大容量マウスウォッシュを探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/akarie/7267912/"
+    imageUrl: ""
+  - rank: 10
+    name: "システマ EX デンタルリンス"
+    brand: "ライオン（システマ）"
+    price: 0
+    capacity: "900mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "歯周病ケアを主目的とした医薬部外品の洗口液"
+      - "長時間抗菌バリア・抗炎症成分配合"
+      - "ノンアルコールタイプとアルコールタイプから選択可能"
+    pros:
+      - "歯周病予防に特化した成分設計で歯茎が気になる方に向く"
+      - "900mLの大容量でコスパよく継続しやすい"
+      - "ポンプ付きで使いやすく衛生的"
+    cons:
+      - "歯周病ケア特化のため口臭予防のみを求める方には方向性が異なる"
+      - "価格は一般的なマウスウォッシュより高め"
+    recommendedFor: "歯周病ケアを重視してマウスウォッシュを選びたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/insair/7267910/"
+    imageUrl: ""
+  - rank: 11
+    name: "モンダミン プレミアムケア ゴールドミント"
+    brand: "アース製薬（モンダミン）"
+    price: 0
+    capacity: "1000mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "アース製薬が手がける口臭・歯周病・むし歯予防を訴求するマウスウォッシュ"
+      - "ゴールドミント香料で爽快感のある使用感"
+      - "1000mLの大容量で家庭用に使いやすい"
+    pros:
+      - "定番ブランドで品質を信頼して選びやすい"
+      - "1000mLの大容量で長期間継続しやすい"
+      - "スーパーやドラッグストアでも入手しやすく補充しやすい"
+    cons:
+      - "ゴールドミントの香りが強めのため好みが分かれる場合がある"
+      - "容器ごとの購入で詰め替えパウチに比べると収納スペースが必要"
+    recommendedFor: "モンダミンブランドの大容量マウスウォッシュをまとめ買いしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/at-life/4901080248619/"
+    imageUrl: ""
 tags:
   - "マウスウォッシュ"
   - "コスパ"

@@ -1,6 +1,6 @@
 ---
 title: "ミネラルウォーター・天然水 コスパ最強ランキング【2026年版】1Lあたり最安で比較"
-description: "サントリー・アサヒ・エビアンなど人気の天然水8選を1Lあたり単価で比較。軟水・硬水・国産・海外産の選び方も解説。まとめ買いでコスパ最強の水を見つけよう。"
+description: "サントリー・アサヒ・エビアンなど人気の天然水11選を1Lあたり単価で比較。軟水・硬水・国産・海外産の選び方も解説。まとめ買いでコスパ最強の水を見つけよう。"
 category: "mineral-water"
 publishedAt: "2026-05-23"
 updatedAt: 2026-05-31
@@ -79,7 +79,7 @@ products:
     capacity: "500mL×24本（12L）"
     pricePerUnit: "約98円/L"
     rating: 4.69
-    reviewCount: 1171
+    reviewCount: 1173
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"
@@ -182,6 +182,72 @@ products:
     recommendedFor: "海外産の硬水を好む方・ミネラル摂取を意識したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fs01299%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10111735%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/guideline/gl01/s01299.jpg?_ex=128x128"
+  - rank: 9
+    name: "いろはす 天然水 ラベルレス"
+    brand: "コカコーラ（いろはす）"
+    price: 0
+    capacity: "2L×8本（16L）"
+    pricePerUnit: "0円/L"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ラベルレスボトルでリサイクルしやすいエコ設計"
+      - "コカコーラが手がける国産天然水ブランド"
+      - "カロリー・糖質・添加物ゼロの純粋な天然水"
+    pros:
+      - "ラベルレスでボトルの分別廃棄がしやすい"
+      - "定番ブランドで品質を信頼して選びやすい"
+      - "コンビニ・スーパーでも入手しやすく補充しやすい"
+    cons:
+      - "8本のためまとめ買い量としては控えめ"
+      - "国産定番ブランドのため価格より品質重視向け"
+    recommendedFor: "エコ意識でラベルレスボトルの天然水を選びたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/mita-house/10000028/"
+    imageUrl: ""
+  - rank: 10
+    name: "クリスタルガイザー 天然水"
+    brand: "Crystal Geyser"
+    price: 0
+    capacity: "500mL×48本（24L）"
+    pricePerUnit: "0円/L"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "カリフォルニア州の天然湧水を使用したアメリカ産天然水"
+      - "24本×2箱で長期ストックに向く大容量構成"
+      - "適度なミネラルを含む口当たりの設計"
+    pros:
+      - "輸入水の中でコスパが比較的よく入手しやすい定番輸入ブランド"
+      - "500mL個包装で外出時や職場でも使いやすい"
+      - "48本まとめ買いでストックの補充頻度を減らせる"
+    cons:
+      - "国産天然水と比べて産地・水源の違いが気になる方もいる"
+      - "輸送コストが価格に反映されやすい"
+    recommendedFor: "輸入天然水を大量にまとめ買いしたい方・500mLサイズを重視する方"
+    rakutenUrl: "https://item.rakuten.co.jp/nomimonoshop/001-0010-001-spu1712/"
+    imageUrl: ""
+  - rank: 11
+    name: "自然が磨いた天然水"
+    brand: "キリン"
+    price: 0
+    capacity: "2L×9本（18L）"
+    pricePerUnit: "0円/L"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "キリンブランドの国産天然水で無添加・カロリーゼロ設計"
+      - "弱アルカリ性または弱酸性の産地別設計"
+      - "2L×9本で家庭の備蓄に向いた量"
+    pros:
+      - "国内大手ブランドが手がける天然水で信頼性がある"
+      - "2Lボトルで在宅時の飲料に使いやすい"
+      - "産地を選んで購入でき水の好みに合わせやすい"
+    cons:
+      - "9本のためまとめ買いとしては中程度の量"
+      - "産地により硬度が変わるため事前確認が必要"
+    recommendedFor: "国内大手ブランドの天然水を2Lボトルでまとめ買いしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/soukaidrink/4909411089023/"
+    imageUrl: ""
 tags:
   - "ミネラルウォーター おすすめ"
   - "天然水 コスパ"

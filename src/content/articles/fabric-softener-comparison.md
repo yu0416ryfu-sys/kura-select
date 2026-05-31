@@ -50,7 +50,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F9414891%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10021618%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11663202/12603758/9110715.jpg?_ex=128x128"
   - rank: 3
-    name: "メキシコダウニー アロマフローラル 8.8.8.5L"
+    name: "メキシコダウニー アロマフローラル 8.8.8.8.5L"
     brand: "Downy"
     price: 4400
     capacity: "8.5L"

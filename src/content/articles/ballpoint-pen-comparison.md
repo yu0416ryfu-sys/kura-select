@@ -119,7 +119,7 @@ products:
     capacity: "1本+ケース1個のセット"
     pricePerUnit: "約3000円/本"
     rating: 4.74
-    reviewCount: 2653
+    reviewCount: 2654
     features:
       - "天然木素材を使用した温かみのあるデザインのボールペン＆ケースセット"
       - "10文字までの名入れ刻印に対応し、送料無料で届けられる"

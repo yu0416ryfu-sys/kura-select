@@ -211,7 +211,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約35円/mL"
     rating: 4.65
-    reviewCount: 3369
+    reviewCount: 3373
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"

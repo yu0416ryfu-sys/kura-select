@@ -12,7 +12,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約770円/個"
     rating: 4.95
-    reviewCount: 19
+    reviewCount: 20
     features:
       - "繰り返し使える保冷剤タイプ"
       - "保冷バッグやクーラーボックスに入れやすい形状"
@@ -99,8 +99,8 @@ products:
     price: 2880
     capacity: "1個"
     pricePerUnit: "約2880円/個"
-    rating: 4.52
-    reviewCount: 33
+    rating: 4.53
+    reviewCount: 34
     features:
       - "ステンレス製で耐久性が高く長期間の繰り返し使用に向いている"
       - "冷蔵・冷凍どちらにも対応し用途に応じて使い分けが可能"

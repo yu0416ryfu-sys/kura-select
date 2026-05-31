@@ -242,7 +242,7 @@ products:
     capacity: "54枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.61
-    reviewCount: 3746
+    reviewCount: 3747
     features:
       - "菌を99.9%除去する除菌処理"
       - "厚手タイプで吸収性が高い"
