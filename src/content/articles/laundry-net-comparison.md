@@ -3,7 +3,7 @@ title: "洗濯ネット おすすめ10選｜コスパ・用途別に徹底比較
 description: "洗濯ネットおすすめ10選をコスパ・用途別に比較。大中小セット・布団用・筒形・ブラジャー専用など種類別の選び方や1枚あたりの価格目安をわかりやすく解説します。"
 category: "laundry-net"
 publishedAt: "2026-05-29"
-updatedAt: 2026-05-30
+updatedAt: 2026-05-31
 draft: false
 products:
   - rank: 1

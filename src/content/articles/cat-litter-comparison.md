@@ -3,7 +3,7 @@ title: "猫砂 おすすめ10選【素材別コスパ比較 2026年版】"
 description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペレットで素材別に比較。固まりやすさ・消臭力・1Lあたりの単価を基準におすすめ14商品を徹底比較。楽天まとめ買いコスパ最強まとめ。"
 category: "cat-litter"
 publishedAt: "2026-05-26"
-updatedAt: "2026-05-29"
+updatedAt: 2026-05-31
 draft: false
 products:
   - rank: 1
@@ -35,7 +35,7 @@ products:
     capacity: "7L×6袋（42L）"
     pricePerUnit: "約88円/L"
     rating: 4.21
-    reviewCount: 5563
+    reviewCount: 5564
     features:
       - "アイリスオーヤマ製のペレットタイプ紙製猫砂"
       - "燃えるゴミとして廃棄可能・トイレへの廃棄にも対応"
@@ -243,8 +243,8 @@ products:
     price: 4430
     capacity: "7L×4袋"
     pricePerUnit: "約158円/L"
-    rating: 4.84
-    reviewCount: 45
+    rating: 4.85
+    reviewCount: 46
     features:
       - "大豆粕（おから）由来の植物系猫砂"
       - "トイレに流せる・燃えるゴミに出せる"
@@ -266,7 +266,7 @@ products:
     capacity: "6L×3個（18L）"
     pricePerUnit: "約278円/L"
     rating: 4.68
-    reviewCount: 1788
+    reviewCount: 1790
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"

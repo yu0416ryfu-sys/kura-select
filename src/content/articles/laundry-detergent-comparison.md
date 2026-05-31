@@ -3,7 +3,7 @@ title: "洗濯洗剤 コスパ最強ランキング【2026年版】1回あたり
 description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉末・ジェルボール別におすすめ9選を紹介。楽天で買えるコスパ最強の洗濯洗剤を探している方必見です。"
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
-updatedAt: "2026-05-29"
+updatedAt: 2026-05-31
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -12,7 +12,7 @@ products:
     capacity: "1100g×8個"
     pricePerUnit: "約0.23円/g"
     rating: 4.75
-    reviewCount: 182
+    reviewCount: 183
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"

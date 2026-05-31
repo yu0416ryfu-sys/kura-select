@@ -3,7 +3,7 @@ title: "パンツ型おむつ コスパ比較【2026年版】"
 description: "パンツ型おむつを1枚あたりの価格で比較。まずはMサイズのメリーズを例に、テープ型からの切り替え目安も解説します。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: "2026-05-29"
+updatedAt: 2026-05-31
 products:
   - rank: 1
     name: "メリーズ エアスルー パンツ Mサイズ"
@@ -107,7 +107,7 @@ products:
     capacity: "M150枚・L126枚・BIG108枚・BIG+72枚セット"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 1587
+    reviewCount: 1589
     features:
       - "複数サイズをセットで選べる"
       - "ふわもちタッチで肌に優しい"
@@ -129,7 +129,7 @@ products:
     capacity: "M/L/BIG/BIGより大きいから選択、各3個パック"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 6032
+    reviewCount: 6036
     features:
       - "素早く吸収する立体ギャザー設計"
       - "通気性に優れた素材で蒸れを軽減"
@@ -195,7 +195,7 @@ products:
     capacity: "M/L/BIG/BIG超から選択、複数枚×4個"
     pricePerUnit: "0円/枚"
     rating: 4.78
-    reviewCount: 1141
+    reviewCount: 1142
     features:
       - "12時間吸収設計で夜間の漏れを防止"
       - "360度ギャザーで寝返りに対応"
@@ -217,7 +217,7 @@ products:
     capacity: "M/L/BIGから選択、3個パック"
     pricePerUnit: "0円/枚"
     rating: 4.79
-    reviewCount: 7981
+    reviewCount: 7986
     features:
       - "ドラえもんのキャラクターデザイン採用"
       - "12時間までの長時間吸収対応"
