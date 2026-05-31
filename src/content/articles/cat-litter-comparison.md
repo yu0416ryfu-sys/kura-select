@@ -3,7 +3,7 @@ title: "猫砂 おすすめ10選【素材別コスパ比較 2026年版】"
 description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペレットで素材別に比較。固まりやすさ・消臭力・1Lあたりの単価を基準におすすめ14商品を徹底比較。楽天まとめ買いコスパ最強まとめ。"
 category: "cat-litter"
 publishedAt: "2026-05-26"
-updatedAt: 2026-05-31
+updatedAt: "2026-05-31"
 draft: false
 products:
   - rank: 1

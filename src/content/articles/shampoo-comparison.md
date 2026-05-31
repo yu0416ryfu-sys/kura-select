@@ -3,7 +3,7 @@ title: "シャンプー比較【2026年版】コスパと仕上がりで選ぶ10
 description: "シャンプーを1mLあたりの価格と仕上がりで比較。家族用・ダメージケア・スカルプ系まで、選び方の基準を整理します。"
 category: "shampoo"
 publishedAt: "2026-04-30"
-updatedAt: 2026-05-31
+updatedAt: "2026-05-31"
 products:
   - rank: 1
     name: "パンテーン シャンプー 詰め替え エクストラダメージケア"
@@ -152,7 +152,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcerapure%2Fkf-22.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-05-31"
         price: 3350
         rating: 0

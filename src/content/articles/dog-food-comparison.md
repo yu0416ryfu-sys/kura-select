@@ -3,7 +3,7 @@ title: "ドッグフード コスパ比較【2026年版】おすすめ10選"
 description: "アイムス・ニュートロ・国産無添加など人気ドライドッグフードを1g単価で徹底比較。成犬・小型犬・大型犬向け選び方ガイドとまとめ買いのコスパポイントも解説。おすすめ10選。"
 category: "dog-food"
 publishedAt: "2026-05-27"
-updatedAt: 2026-05-31
+updatedAt: "2026-05-31"
 draft: true
 products:
   - rank: 1
@@ -131,7 +131,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwannyan%2F9763052.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-05-31"
         price: 21529
         rating: 4.83
@@ -164,7 +164,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoji%2F3182550746076-s.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-05-31"
         price: 17226
         rating: 0
@@ -263,11 +263,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F0813369001904.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-05-31"
         price: 5830
         rating: 4.72
-        reviewCount: 96
+        reviewCount: 97
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_0813369001904"
         available: true
   - rank: 9

@@ -3,7 +3,7 @@ title: "使い捨てマスク コスパ最強ランキング【2026年版】1枚
 description: "使い捨て不織布マスクを1枚あたりのコストで徹底比較。超快適マスク・i:na・アイリスオーヤマ・バイキングなど人気10選を快適性・コスパで解説します。"
 category: "mask"
 publishedAt: "2026-05-03"
-updatedAt: 2026-05-31
+updatedAt: "2026-05-31"
 products:
   - rank: 1
     name: "立体不織布マスク バイカラー 50枚"
@@ -53,11 +53,12 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fweimall%2Fbwm2yp50.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-05-29"
         price: 480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/weimall_bwm2yp50"
-        available: true
+        available: false
+        matchNotes: "capacity不一致: 商品名トークン不一致"
   - rank: 3
     name: "子供用 3D不織布マスク 51枚"
     brand: "MTKSHOP"
@@ -65,7 +66,7 @@ products:
     capacity: "51枚"
     pricePerUnit: "約7.8円/枚"
     rating: 4.22
-    reviewCount: 5749
+    reviewCount: 5750
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -168,6 +169,17 @@ products:
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvon.3rdw65e4.g00qwvon.3rdw7875/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flife-life%2Fmask120kf%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flife-life%2Fi%2F10006321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/life-life/cabinet/mask/mask120kf06.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-ife-reborn%2Fmask120kfst.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 2680
+        rating: 5
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/life-ife-reborn_mask120kfst"
+        available: true
   - rank: 8
     name: "【50枚入×2箱セット】大王製紙 大王製紙 エリエール サー"
     brand: "大王製紙（エリエール）"
@@ -249,7 +261,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakakabeshop%2F4967576481694.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-05-31"
         price: 378
         rating: 4.67

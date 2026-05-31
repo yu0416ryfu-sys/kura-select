@@ -3,7 +3,7 @@ title: "乾電池 コスパ比較【2026年版】単3・単4おすすめ10選"
 description: "Panasonic・富士通など主要ブランドの乾電池を1本あたり価格で徹底比較。単3・単4の選び方、長期保存品の特徴、まとめ買いのコスパを解説。防災備蓄にも役立つおすすめ10選。"
 category: "battery"
 publishedAt: "2026-05-27"
-updatedAt: 2026-05-31
+updatedAt: "2026-05-31"
 draft: false
 products:
   - rank: 1
@@ -76,7 +76,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4984824889071.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-05-31"
         price: 1607
         rating: 4.69

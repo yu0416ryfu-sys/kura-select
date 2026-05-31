@@ -3,7 +3,7 @@ title: "歯間ブラシ コスパ比較【2026年版】おすすめ10選"
 description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシをサイズ・1本あたり価格で徹底比較。L字型とI字型の違いや選び方も解説。まとめ買いでコスパを上げたい方に最適な10選。"
 category: "toothpaste"
 publishedAt: "2026-05-27"
-updatedAt: 2026-05-31
+updatedAt: "2026-05-31"
 draft: false
 products:
   - rank: 1
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale-kanahashi%2F4901387051189-z-s-4-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 1099
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale-kanahashi_4901387051189-z-s-4-1"
         available: true
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901616216099.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 245
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901616216099"
         available: true
@@ -152,7 +152,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 247
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
         available: true
@@ -185,7 +185,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 2998
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true
@@ -218,7 +218,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 2998
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true
@@ -251,7 +251,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 2998
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true
@@ -284,7 +284,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F49760.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 2230
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_49760"
         available: true
@@ -317,7 +317,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F3008301set.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 2392
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_3008301set"
         available: true

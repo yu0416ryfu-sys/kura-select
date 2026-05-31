@@ -1,6 +1,6 @@
 ---
 title: "洗顔料 コスパ最強ランキング【2026年版】1gあたり最安で比較"
-description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴ・専科など人気11選を成分・洗い上がり・コスパで解説します。"
+description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴ・専科など人気10選を成分・洗い上がり・コスパで解説します。"
 category: "face-wash"
 publishedAt: "2026-05-01"
 updatedAt: "2026-05-31"
@@ -28,6 +28,39 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtvin.3rdw6f25.g00qtvin.3rdw74fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoapmax%2F20007607%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoapmax%2Fi%2F10001447%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/soapmax/cabinet/12066769/imgrc0122403870.jpg?_ex=128x128"
   - rank: 2
+    name: "ビオレ おうちdeエステ マッサージ洗顔ジェル"
+    brand: "花王（ビオレ）"
+    price: 698
+    capacity: "150g"
+    pricePerUnit: "約4.7円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "マッサージしながら洗顔できるジェルタイプの洗顔料"
+      - "肌をやわらかくする保湿ケア成分配合"
+      - "リラックスアロマの香り付き"
+    pros:
+      - "ドラッグストアで入手しやすい定番ブランド"
+      - "洗顔とマッサージを同時にできる時短設計"
+      - "毛穴ケアと保湿を両立したい方に向く"
+    cons:
+      - "アロマ香料が苦手な方には向かない場合がある"
+      - "ジェルタイプのため泡立てが必要"
+    recommendedFor: "洗顔にマッサージ感も求める方・花王ビオレブランドを好む方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sr5an.3rdw6882.g00sr5an.3rdw71fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finsair%2F7288572%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finsair%2Fi%2F10058147%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/insair/cabinet/tasya125/7288572-p.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-ypp%2F3799-004426.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 1280
+        rating: 4.33
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-ypp_3799-004426"
+        available: true
+  - rank: 3
     name: "洗顔フォーム 毛穴 ロゼット洗顔パスタ 海泥スムース WEB限定2倍"
     brand: "ロゼット"
     price: 1210
@@ -49,7 +82,7 @@ products:
     recommendedFor: "毛穴汚れが気になる方・コスパ最優先の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u529n.3rdw64b3.g00u529n.3rdw7138/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frosette-shop%2Fpasta_ks240_1ps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frosette-shop%2Fi%2F10000066%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rosette-shop/cabinet/thumbna/pasta_ks240_1ps/imgrc0108556464.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "【企画品】センカ パーフェクトホイップf BT21デザイン【専科】"
     brand: "資生堂（専科）"
     price: 705
@@ -82,7 +115,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 4
+  - rank: 5
     name: "DoMeCare マイクロクレイウォッシュ 110g"
     brand: "DoMeCare"
     price: 990
@@ -115,7 +148,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 5
+  - rank: 6
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
     brand: "ユニリーバ（ダヴ）"
     price: 1577
@@ -148,7 +181,7 @@ products:
         available: true
         rating: 4.5
         reviewCount: 8
-  - rank: 6
+  - rank: 7
     name: "オルナ オーガニック 泥洗顔 130g"
     brand: "ALLNA ORGANIC"
     price: 1580
@@ -181,7 +214,7 @@ products:
         available: true
         rating: 4.55
         reviewCount: 278
-  - rank: 7
+  - rank: 8
     name: "レステモ フェイシャル ソープ 150g"
     brand: "レステモ"
     price: 2680
@@ -214,7 +247,7 @@ products:
         available: true
         rating: 4.69
         reviewCount: 213
-  - rank: 8
+  - rank: 9
     name: "ルアド 洗顔パウダー 67g×3袋"
     brand: "ルアド"
     price: 4125
@@ -236,28 +269,6 @@ products:
     recommendedFor: "肌質や洗い上がりで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pytjn.3rdw6c43.g00pytjn.3rdw73fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fadpentel%2F590765%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fadpentel%2Fi%2F10000082%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/adpentel/cabinet/pro/imgrc0079724986.jpg?_ex=128x128"
-  - rank: 9
-    name: "ビオレ おうちdeエステ マッサージ洗顔ジェル"
-    brand: "花王（ビオレ）"
-    price: 0
-    capacity: "150g"
-    pricePerUnit: "0円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "マッサージしながら洗顔できるジェルタイプの洗顔料"
-      - "肌をやわらかくする保湿ケア成分配合"
-      - "リラックスアロマの香り付き"
-    pros:
-      - "ドラッグストアで入手しやすい定番ブランド"
-      - "洗顔とマッサージを同時にできる時短設計"
-      - "毛穴ケアと保湿を両立したい方に向く"
-    cons:
-      - "アロマ香料が苦手な方には向かない場合がある"
-      - "ジェルタイプのため泡立てが必要"
-    recommendedFor: "洗顔にマッサージ感も求める方・花王ビオレブランドを好む方"
-    rakutenUrl: "https://item.rakuten.co.jp/insair/7288572/"
-    imageUrl: ""
   - rank: 10
     name: "ピュアモイスト 泡洗顔料"
     brand: "ファンケル"
@@ -280,28 +291,17 @@ products:
     recommendedFor: "無添加・セラミド配合で敏感肌や乾燥肌のケアをしたい方"
     rakutenUrl: "https://item.rakuten.co.jp/fancl-shop/3730-41/"
     imageUrl: ""
-  - rank: 11
-    name: "キュレル 潤浸保湿 泡洗顔料"
-    brand: "花王（キュレル）"
-    price: 0
-    capacity: "300mL"
-    pricePerUnit: "0円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "医薬部外品でセラミド配合の花王キュレルシリーズ泡洗顔"
-      - "無香料・無着色の低刺激弱酸性処方"
-      - "敏感肌・乾燥肌など様々な肌質に対応した設計"
-    pros:
-      - "医薬部外品でセラミドによる保湿効果を訴求する製品"
-      - "無香料・無着色で成分に敏感な方でも使いやすい"
-      - "300mLの大容量でコスパよく使いやすい"
-    cons:
-      - "一般的な洗顔料より価格は高め"
-      - "泡タイプのためウォータープルーフメイクは落ちにくい場合がある"
-    recommendedFor: "医薬部外品の保湿洗顔を探している方・敏感肌・乾燥肌の方"
-    rakutenUrl: "https://item.rakuten.co.jp/shop-gift-health/4901301411525/"
-    imageUrl: ""
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4908049507039.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 1320
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4908049507039"
+        available: true
 tags:
   - "洗顔料 おすすめ"
   - "洗顔料 コスパ"

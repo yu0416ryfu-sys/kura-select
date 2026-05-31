@@ -3,7 +3,7 @@ title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
 description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ10選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
-updatedAt: 2026-05-31
+updatedAt: "2026-05-31"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -31,13 +31,13 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2Fpphalf300.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-30"
+        matchStatus: "matched"
+        updatedAt: "2026-05-31"
         price: 1395
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_pphalf300"
         available: true
         rating: 4.84
-        reviewCount: 826
+        reviewCount: 831
   - rank: 2
     name: "TANOSEE　ゴミ袋エコノミー　乳白半透明"
     brand: "TANOSEE（国内大手OEM）"
@@ -60,6 +60,17 @@ products:
     recommendedFor: "コスト最優先の方・大量に使う方・まとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F766-1730%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10276544%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin700_02/766-1730.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7661730.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 5742
+        rating: 4.72
+        reviewCount: 40
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_7661730"
+        available: true
   - rank: 3
     name: "とって付きポリ袋 L 白半透明"
     brand: "日本サニパック"
@@ -153,7 +164,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2F2030l300.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 1395
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_2030l300"
         available: true
@@ -252,7 +263,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpoly-life%2Fkpl-450-2pc.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 2580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/poly-life_kpl-450-2pc"
         available: true

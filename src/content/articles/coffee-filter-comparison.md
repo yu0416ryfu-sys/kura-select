@@ -1,12 +1,34 @@
 ---
-title: "コーヒーフィルター コスパ最強ランキング【2026年版】1枚あたり最安で比較11選"
-description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒー・KONO・珈琲考具など人気11選を漂白タイプ・形状・コスパで解説します。"
+title: "コーヒーフィルター コスパ最強ランキング【2026年版】1枚あたり最安で比較10選"
+description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒー・KONO・珈琲考具など人気10選を漂白タイプ・形状・コスパで解説します。"
 category: "coffee-filter"
 publishedAt: "2026-05-05"
 updatedAt: "2026-05-31"
 draft: false
 products:
   - rank: 1
+    name: "ドルフィン コーヒーフィルター 2-4杯用 耳付き"
+    brand: "カナエ紙工"
+    price: 145
+    capacity: "100枚（2-4杯用）"
+    pricePerUnit: "約1.4円/枚"
+    rating: 4.57
+    reviewCount: 7
+    features:
+      - "使いやすい耳付きのハーフムーンカット形状"
+      - "無漂白タイプのペーパーフィルター"
+      - "2-4杯用サイズで家庭やオフィスの需要に向く"
+    pros:
+      - "耳付き設計でドリッパーにセットしやすい"
+      - "無漂白でコーヒー本来の風味を引き出しやすい"
+      - "定番形状で幅広いドリッパーに合わせやすい"
+    cons:
+      - "専門メーカー品に比べて知名度は低め"
+      - "特殊形状のドリッパーへの適合は購入前に確認したい"
+    recommendedFor: "耳付きで使いやすい無漂白フィルターを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4975810182344%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10006503%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pp/imgrc0070407812.jpg?_ex=128x128"
+  - rank: 2
     name: "ハリオ V60 ペーパーフィルター みさらし 100枚"
     brand: "ハリオ"
     price: 438
@@ -39,7 +61,7 @@ products:
         available: true
         rating: 4.86
         reviewCount: 7
-  - rank: 2
+  - rank: 3
     name: "【カリタ】コーヒーフィルターみさらし101濾紙1〜2人用/"
     brand: "カリタ"
     price: 209
@@ -72,7 +94,40 @@ products:
         available: true
         rating: 4.75
         reviewCount: 4
-  - rank: 3
+  - rank: 4
+    name: "If You Care コーヒーフィルター No.2"
+    brand: "If You Care（イフユーケア）"
+    price: 990
+    capacity: "100枚（1-2杯用）"
+    pricePerUnit: "約9.9円/枚"
+    rating: 5
+    reviewCount: 7
+    features:
+      - "FSC認証・コンポスタブル認証取得の環境配慮製品"
+      - "PFASフリーで化学物質を使わない無漂白タイプ"
+      - "サステナブル素材を採用した設計"
+    pros:
+      - "環境負荷を意識した選択をしたい方に向く"
+      - "PFASフリーで安心して使いやすい設計"
+      - "コンポスト対応で廃棄への意識が高い方に合いやすい"
+    cons:
+      - "価格は一般的なペーパーフィルターより高め"
+      - "No.2サイズのため対応ドリッパーを事前に確認したい"
+    recommendedFor: "環境配慮・PFASフリーを重視してフィルターを選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psqcn.3rdw6d99.g00psqcn.3rdw7c41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fre-vision%2Fiyc004zkc031xx1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fre-vision%2Fi%2F10004159%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/re-vision/cabinet/rm/item/09/iyc004zkc031xx1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgpecoe%2Fiyc004zkc031xx1.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 990
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/gpecoe_iyc004zkc031xx1"
+        available: true
+  - rank: 5
     name: "珈琲考具 コットンフィルター 1-2杯用"
     brand: "下村企販"
     price: 660
@@ -105,7 +160,7 @@ products:
         available: true
         rating: 4.57
         reviewCount: 14
-  - rank: 4
+  - rank: 6
     name: "珈琲考具 コットンフィルター 2-4杯用"
     brand: "下村企販"
     price: 770
@@ -138,7 +193,7 @@ products:
         available: true
         rating: 4.53
         reviewCount: 17
-  - rank: 5
+  - rank: 7
     name: "ドリップバッグフィルター 1杯用 200枚"
     brand: "国内メーカー品"
     price: 2530
@@ -171,7 +226,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 6
+  - rank: 8
     name: "リネン コーヒーフィルター 3枚入り"
     brand: "WPB-shop.R"
     price: 1760
@@ -204,7 +259,7 @@ products:
         available: true
         rating: 5
         reviewCount: 5
-  - rank: 7
+  - rank: 9
     name: "キーコーヒー コーヒーフィルター 無漂白 100枚"
     brand: "キーコーヒー"
     price: 184
@@ -226,7 +281,7 @@ products:
     recommendedFor: "エコ志向の方・自然素材にこだわりたい方・キーコーヒーブランドを信頼している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fcf0475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10348950%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/syoku/syoku11/cf0475.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 10
     name: "メリタ アロマフィルター AF-M 100枚"
     brand: "メリタ"
     price: 853
@@ -248,72 +303,6 @@ products:
     recommendedFor: "定番ブランドの安心品質を求める方・ペーパードリップ初心者の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5ncn.3rdw6781.g00u5ncn.3rdw77ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmelittajapan%2Faromafilter01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmelittajapan%2Fi%2F10000085%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/5.jpg?_ex=128x128"
-  - rank: 9
-    name: "ドルフィン コーヒーフィルター 2-4杯用 耳付き"
-    brand: "カナエ紙工"
-    price: 0
-    capacity: "100枚（2-4杯用）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "使いやすい耳付きのハーフムーンカット形状"
-      - "無漂白タイプのペーパーフィルター"
-      - "2-4杯用サイズで家庭やオフィスの需要に向く"
-    pros:
-      - "耳付き設計でドリッパーにセットしやすい"
-      - "無漂白でコーヒー本来の風味を引き出しやすい"
-      - "定番形状で幅広いドリッパーに合わせやすい"
-    cons:
-      - "専門メーカー品に比べて知名度は低め"
-      - "特殊形状のドリッパーへの適合は購入前に確認したい"
-    recommendedFor: "耳付きで使いやすい無漂白フィルターを探している方"
-    rakutenUrl: "https://item.rakuten.co.jp/at-life/4975810182344/"
-    imageUrl: ""
-  - rank: 10
-    name: "If You Care コーヒーフィルター No.2"
-    brand: "If You Care（イフユーケア）"
-    price: 0
-    capacity: "100枚（1-2杯用）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "FSC認証・コンポスタブル認証取得の環境配慮製品"
-      - "PFASフリーで化学物質を使わない無漂白タイプ"
-      - "サステナブル素材を採用した設計"
-    pros:
-      - "環境負荷を意識した選択をしたい方に向く"
-      - "PFASフリーで安心して使いやすい設計"
-      - "コンポスト対応で廃棄への意識が高い方に合いやすい"
-    cons:
-      - "価格は一般的なペーパーフィルターより高め"
-      - "No.2サイズのため対応ドリッパーを事前に確認したい"
-    recommendedFor: "環境配慮・PFASフリーを重視してフィルターを選びたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/re-vision/iyc004zkc031xx1/"
-    imageUrl: ""
-  - rank: 11
-    name: "V60 みさらし ペーパーフィルター01 3個セット"
-    brand: "ハリオ"
-    price: 0
-    capacity: "100枚×3個セット（合計300枚）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "V60専用設計の円錐形ペーパーフィルター"
-      - "無漂白（みさらし）パルプ100%素材"
-      - "3個まとめ買いセットでストックしやすい構成"
-    pros:
-      - "3個セットで単品購入より割安になりやすい"
-      - "定番ブランドで品質を信頼して選びやすい"
-      - "まとめ買いで補充の手間を減らせる"
-    cons:
-      - "V60専用のため他メーカーのドリッパーには使用不可"
-      - "01サイズ（1-2杯用）のためまとめて抽出したい場合は02も確認したい"
-    recommendedFor: "ハリオV60ユーザーで無漂白フィルターをまとめ買いしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/lucky13/vcf01100mset3/"
-    imageUrl: ""
 tags:
   - "コーヒーフィルター おすすめ"
   - "コーヒーフィルター コスパ"

@@ -71,6 +71,17 @@ products:
     recommendedFor: "ペットを飼っている方・カーペットの掃除が多い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ucoln.3rdw667d.g00ucoln.3rdw71eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenicy2022%2Ff671%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenicy2022%2Fi%2F10009158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enicy2022/cabinet/tmb/f/f671.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fb60033.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 293
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_b60033"
+        available: true
   - rank: 4
     name: "ニトムズ コロコロ スペアテープ フロアクリン 3巻入り"
     brand: "ニトムズ"
@@ -98,7 +109,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4904140583538.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 526
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4904140583538"
         available: true

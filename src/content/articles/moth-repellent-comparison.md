@@ -27,6 +27,17 @@ products:
     recommendedFor: "引き出し・衣装ケースが多くまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65238%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902779%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/238/65238.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Ft2x16s.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 2940
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-kurashi_t2x16s"
+        available: true
   - rank: 2
     name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×3箱セット"
     brand: "エステー（ムシューダ）"
@@ -49,6 +60,17 @@ products:
     recommendedFor: "引き出し収納が多く長期ストックしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902786%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/245/65245.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Ft2x17s.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 3890
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-kurashi_t2x17s"
+        available: true
   - rank: 3
     name: "ムシューダ 1年間有効 引き出し・衣装ケース用 無香タイプ"
     brand: "エステー（ムシューダ）"
@@ -76,7 +98,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F4658568.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 764
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_4658568"
         available: true
@@ -109,7 +131,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901070303045.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 858
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901070303045"
         available: true
@@ -142,7 +164,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901070303021.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 748
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901070303021"
         available: true
@@ -175,7 +197,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F3685161.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 609
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_3685161"
         available: true
@@ -203,6 +225,17 @@ products:
     recommendedFor: "クローゼットが多く長期ストックで管理したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65253%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902794%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/253/65253.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F65253.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 4277
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_65253"
+        available: true
   - rank: 8
     name: "ムシューダ クローゼット用 防カビ剤配合 無香タイプ 1年間有効 3個入×3箱セット"
     brand: "エステー（ムシューダ）"
@@ -225,6 +258,17 @@ products:
     recommendedFor: "複数のクローゼットをまとめて防虫・防カビケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65247%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902788%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/247/65247.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F65247.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 2796
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_65247"
+        available: true
   - rank: 9
     name: "ムシューダ クローゼット用 衣類用 防虫剤 防カビ剤配合 無香タイプ 1年間有効"
     brand: "エステー（ムシューダ）"
@@ -252,7 +296,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuzuberu%2F20260410021305-01515.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 2241
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/suzuberu_20260410021305-01515"
         available: true
@@ -280,6 +324,17 @@ products:
     recommendedFor: "ウォークインクローゼットを長期まとめケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65248%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10902789%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/248/65248.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsutsu-uraura%2Feste-mh-wc3-3s.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 4966
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsutsu-uraura_este-mh-wc3-3s"
+        available: true
 tags:
   - "衣類防虫剤 おすすめ"
   - "防虫剤 コスパ"

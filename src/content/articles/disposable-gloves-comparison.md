@@ -1,9 +1,9 @@
 ---
 title: "使い捨て手袋 コスパ最強ランキング【2026年版】ニトリル・ビニール・ポリエチレンで比較"
-description: "使い捨て手袋を1枚あたりのコストで徹底比較。ニトリル・ビニール・ポリエチレンなど素材別に人気11選のフィット感・耐久性を解説します。"
+description: "使い捨て手袋を1枚あたりのコストで徹底比較。ニトリル・ビニール・ポリエチレンなど素材別に人気10選のフィット感・耐久性を解説します。"
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-31
+updatedAt: "2026-05-31"
 products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚"
@@ -224,11 +224,11 @@ products:
   - rank: 9
     name: "ニトリル手袋 パウダーフリー 食品衛生対応"
     brand: "TRINITY COSME"
-    price: 0
+    price: 1370
     capacity: "100枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約14円/枚"
+    rating: 4.65
+    reviewCount: 332
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -241,16 +241,27 @@ products:
       - "サイズや色の選択が必要なため購入前に確認が必要"
       - "大量購入で在庫管理スペースを確保したい"
     recommendedFor: "食品調理・介護・作業用にニトリル手袋を探している方"
-    rakutenUrl: "https://item.rakuten.co.jp/trinity-cosme/san350310x1/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz97n.3rdw61ff.g00tz97n.3rdw7e95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrinity-cosme%2Fsan350310x1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrinity-cosme%2Fi%2F10000430%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/trinity-cosme/cabinet/09165139/09165140/imgrc0106437735.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshimmer%2Fsun-glove202101m.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 1480
+        rating: 4.6
+        reviewCount: 107
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shimmer_sun-glove202101m"
+        available: true
   - rank: 10
     name: "ニトリル手袋 パウダーフリー 医療対応"
     brand: "TKJP"
-    price: 0
+    price: 1380
     capacity: "100枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約14円/枚"
+    rating: 4.57
+    reviewCount: 3466
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -263,30 +274,8 @@ products:
       - "一般的なビニール手袋より単価が高め"
       - "購入前にサイズと色の選択が必要"
     recommendedFor: "FDA認証取得のニトリル手袋で品質基準を重視する方"
-    rakutenUrl: "https://item.rakuten.co.jp/tenkapas/glove001/"
-    imageUrl: ""
-  - rank: 11
-    name: "MISM ニトリル手袋 パウダーフリー"
-    brand: "sobani（MISM）"
-    price: 0
-    capacity: "100枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "食品対応パウダーフリーのニトリル手袋"
-      - "青・白・黒のカラーとSS/S/M/Lサイズ対応"
-      - "100枚から500枚まで枚数選択が可能"
-    pros:
-      - "食品・美容・介護・工場など多用途に選びやすい"
-      - "100枚から選択でき少量の試し買いもしやすい"
-      - "素材の伸縮性で手にフィットしやすい設計"
-    cons:
-      - "大量購入時は箱買いの方が割安になる場合もある"
-      - "サイズ選択が必要なため初回は確認から始めたい"
-    recommendedFor: "少量から試してニトリル手袋の感触を確認したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/sobani/35002149/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs3nn.3rdw6825.g00qs3nn.3rdw7afb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenkapas%2Fglove001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenkapas%2Fi%2F10010258%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tenkapas/cabinet/item_image/item_health_beauty/sanitary-goods/glove001_0c.jpg?_ex=128x128"
 tags:
   - "使い捨て手袋"
   - "ニトリル手袋"

@@ -3,7 +3,7 @@ title: "トイレットペーパー ダブル コスパ最強ランキング【2
 description: "ダブルのトイレットペーパーを1mあたりのコストで比較。2倍巻き・3倍巻き・再生紙・肌触り重視のおすすめ10選を紹介します。交換頻度を減らしたい方にも。"
 category: "toilet-paper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-31
+updatedAt: "2026-05-31"
 products:
   - rank: 1
     name: "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール×4ロール×12パック 1"
@@ -31,7 +31,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fme-belu%2Fds-2358010.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-05-31"
         price: 10260
         rating: 0
@@ -119,7 +119,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fstylem%2Faj4741mstyle284edf800d.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-05-31"
         price: 7635
         rating: 0
@@ -207,7 +207,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F5647190.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-05-31"
         price: 533
         rating: 0

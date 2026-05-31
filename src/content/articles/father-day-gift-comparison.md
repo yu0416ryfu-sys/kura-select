@@ -1,6 +1,6 @@
 ---
-title: "父の日プレゼントランキング【2026年版】実用派ギフト11選"
-description: "父の日に贈りやすい実用ギフトを比較。名入れボールペン、靴下、グラス、ビールなど定番11選をコスパと特別感で選びます。"
+title: "父の日プレゼントランキング【2026年版】実用派ギフト10選"
+description: "父の日に贈りやすい実用ギフトを比較。名入れボールペン、靴下、グラス、ビールなど定番10選をコスパと特別感で選びます。"
 category: "gift"
 publishedAt: "2026-05-16"
 updatedAt: "2026-05-31"
@@ -32,7 +32,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4955287917984.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-05-31"
         price: 3780
         rating: 0
@@ -62,6 +62,28 @@ products:
     reviewCount: 98
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/happy-gift/cabinet/04391796/008-001.jpg?_ex=128x128"
   - rank: 3
+    name: "刺繍ネクタイ 名入れ"
+    brand: "104 TENFOUR"
+    price: 2580
+    capacity: "1本（ポリエステル100%）"
+    pricePerUnit: "約2580円/本"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "名前を刺繍で入れられるビジネスネクタイ"
+      - "ブルー・ネイビー・レッド・グリーンなど複数カラーから選択"
+      - "20代〜70代まで幅広い年代の男性に贈りやすいデザイン"
+    pros:
+      - "名入れで世界に一つのオリジナルネクタイを贈れる"
+      - "ビジネスシーンで実用的に使える特別感のあるギフト"
+      - "好みの色を選んで贈れるためパーソナライズしやすい"
+    cons:
+      - "好みのデザイン・色の確認が必要"
+      - "ネクタイを使わない方にはシーンが限られる"
+    recommendedFor: "ビジネスマンの父親に名入れの特別なネクタイを贈りたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tbstn.3rdw672e.g00tbstn.3rdw75f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F104-tenfour%2Fnecktie-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F104-tenfour%2Fi%2F10001418%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/104-tenfour/cabinet/shohin01/shohin02/necktie_01.jpg?_ex=128x128"
+  - rank: 4
     name: "パーカー ジョッター"
     brand: "名入れ文具のイケマン"
     price: 2750
@@ -83,7 +105,7 @@ products:
     rating: 4.26
     reviewCount: 144
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fsapo/cabinet/parker/p-jotter_2024_1.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "LAMY safari ボールペン"
     brand: "プリントドッグ"
     price: 2980
@@ -105,7 +127,7 @@ products:
     rating: 5
     reviewCount: 4
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/printdog/cabinet/biiino/item/main-image/20230424214450_1.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "切子グラス 光明"
     brand: "AZUL 楽天市場店"
     price: 4378
@@ -125,7 +147,7 @@ products:
     recommendedFor: "晩酌や食卓を少し上質にしたいお父さんへ贈りたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tddfn.3rdw6713.g00tddfn.3rdw720b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fazul%2F10000049%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fazul%2Fi%2F10000051%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/azul/cabinet/06834766/07583404/imgrc0127645312.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "生涯を添い遂げるマグ"
     brand: "Wired Beans"
     price: 8580
@@ -147,7 +169,29 @@ products:
     rating: 4.67
     reviewCount: 3
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wiredbeans/cabinet/05633541/12071_90naire.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 8
+    name: "名入れタオル 父の日ワンポイントデザイン"
+    brand: "シャレもん"
+    price: 1980
+    capacity: "1枚（スポーツタオル・84cm×34cm）"
+    pricePerUnit: "約1980円/枚"
+    rating: 4.86
+    reviewCount: 7
+    features:
+      - "父の日ワンポイントデザインを入れた名入れスポーツタオル"
+      - "名前を最大8文字まで入れられるパーソナライズ対応"
+      - "スポーツ・アウトドア・日常使いに対応したサイズ"
+    pros:
+      - "名入れで特別感を出しやすい実用的なギフト"
+      - "スポーツや運動が好きな父親に使いやすい"
+      - "毎日使える消耗品で実用性が高い"
+    cons:
+      - "タオルの素材・吸水性は商品ページで確認したい"
+      - "名入れ内容を注文前に決定する必要がある"
+    recommendedFor: "実用的な名入れギフトでタオルを贈りたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rjw5n.3rdw679e.g00rjw5n.3rdw747b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshalemon%2Ftlcs6c-dad-onepoint%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshalemon%2Fi%2F10002289%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shalemon/cabinet/towel/tlcs6c-dad-onepoint.jpg?_ex=128x128"
+  - rank: 9
     name: "ポロ ラルフローレン メンズ靴下 6足セット"
     brand: "Polo Ralph Lauren"
     price: 2980
@@ -169,7 +213,7 @@ products:
     rating: 5
     reviewCount: 1
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cavatina/cabinet/ralph-01/ralph-01/ralph-117.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 10
     name: "名前入りタンブラーとハンディビアサーバーセット"
     brand: "名入れギフトJORIO"
     price: 10120
@@ -189,72 +233,6 @@ products:
     recommendedFor: "晩酌好きのお父さんへ、少し特別な父の日ギフトを贈りたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u22ln.3rdw679d.g00u22ln.3rdw757e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaire-jorio%2F10000806%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaire-jorio%2Fi%2F10001107%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naire-jorio/cabinet/11614016/compass1744359650.jpg?_ex=128x128"
-  - rank: 9
-    name: "おつまみセット おつまみオールスター18選"
-    brand: "おつまみギャラリー伊万里"
-    price: 0
-    capacity: "18種（セット）"
-    pricePerUnit: "0円/セット"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "18種類の珍味・海鮮グルメを詰め合わせたギフトセット"
-      - "お酒に合うおつまみを厳選した実用派ギフト構成"
-      - "名入れオプション（最大30文字）に対応"
-    pros:
-      - "お酒を楽しむ父親へのギフトに選びやすい"
-      - "多種類で飽きずに楽しめるセット構成"
-      - "グルメ好きな父親に特別感を出しやすい"
-    cons:
-      - "食の好みや苦手な食材があると向かない場合がある"
-      - "賞味期限があるため早めに使い切ることを伝えたい"
-    recommendedFor: "お酒好きな父親に珍味・グルメなおつまみセットを贈りたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/otsumami-gallery/10000201/"
-    imageUrl: ""
-  - rank: 10
-    name: "名入れタオル 父の日ワンポイントデザイン"
-    brand: "シャレもん"
-    price: 0
-    capacity: "1枚（スポーツタオル・84cm×34cm）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "父の日ワンポイントデザインを入れた名入れスポーツタオル"
-      - "名前を最大8文字まで入れられるパーソナライズ対応"
-      - "スポーツ・アウトドア・日常使いに対応したサイズ"
-    pros:
-      - "名入れで特別感を出しやすい実用的なギフト"
-      - "スポーツや運動が好きな父親に使いやすい"
-      - "毎日使える消耗品で実用性が高い"
-    cons:
-      - "タオルの素材・吸水性は商品ページで確認したい"
-      - "名入れ内容を注文前に決定する必要がある"
-    recommendedFor: "実用的な名入れギフトでタオルを贈りたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/shalemon/tlcs6c-dad-onepoint/"
-    imageUrl: ""
-  - rank: 11
-    name: "刺繍ネクタイ 名入れ"
-    brand: "104 TENFOUR"
-    price: 0
-    capacity: "1本（ポリエステル100%）"
-    pricePerUnit: "0円/本"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "名前を刺繍で入れられるビジネスネクタイ"
-      - "ブルー・ネイビー・レッド・グリーンなど複数カラーから選択"
-      - "20代〜70代まで幅広い年代の男性に贈りやすいデザイン"
-    pros:
-      - "名入れで世界に一つのオリジナルネクタイを贈れる"
-      - "ビジネスシーンで実用的に使える特別感のあるギフト"
-      - "好みの色を選んで贈れるためパーソナライズしやすい"
-    cons:
-      - "好みのデザイン・色の確認が必要"
-      - "ネクタイを使わない方にはシーンが限られる"
-    recommendedFor: "ビジネスマンの父親に名入れの特別なネクタイを贈りたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/104-tenfour/necktie-01/"
-    imageUrl: ""
 tags:
   - "父の日 プレゼント"
   - "父の日 ギフト"

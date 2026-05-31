@@ -3,7 +3,7 @@ title: "洗濯ネット おすすめ10選｜コスパ・用途別に徹底比較
 description: "洗濯ネットおすすめ10選をコスパ・用途別に比較。大中小セット・布団用・筒形・ブラジャー専用など種類別の選び方や1枚あたりの価格目安をわかりやすく解説します。"
 category: "laundry-net"
 publishedAt: "2026-05-29"
-updatedAt: 2026-05-31
+updatedAt: "2026-05-31"
 draft: false
 products:
   - rank: 1
@@ -50,6 +50,17 @@ products:
     recommendedFor: "Yシャツ・ブラウスを丁寧に洗いたい方・シンプルなデザインを好む方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00reyln.3rdw6e38.g00reyln.3rdw70fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeyuca%2F4100149%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeyuca%2Fi%2F10035904%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keyuca/cabinet/46/imgrc0114934745.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkeyuca%2F4100149.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 187
+        rating: 3.67
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/keyuca_4100149"
+        available: true
   - rank: 3
     name: "洗濯ネット 6枚セット サイズ組み合わせ自由"
     brand: "COREMO+"
@@ -72,6 +83,17 @@ products:
     recommendedFor: "自分でサイズを選びたい方・必要なサイズだけ揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00so9kn.3rdw686d.g00so9kn.3rdw72d8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flinofle%2Fly-0506%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flinofle%2Fi%2F10000458%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/linofle/cabinet/09773255/09876865/ly-0506.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flinofle%2Fly-0506.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 1490
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/linofle_ly-0506"
+        available: true
   - rank: 4
     name: "まとめて洗える6枚セット洗濯ネット 大中2サイズ"
     brand: "HOLOMUA"

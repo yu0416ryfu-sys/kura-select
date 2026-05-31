@@ -3,7 +3,7 @@ title: "新生児用紙おむつ テープ型コスパ比較【2026年版】"
 description: "新生児用の紙おむつを1枚あたりの価格で比較。サイズアウトしやすい時期に、まとめ買い量と肌へのやさしさのバランスで選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-31
+updatedAt: "2026-05-31"
 products:
   - rank: 1
     name: "ムーニー マシュマロ肌ごこち テープ 新生児"
@@ -27,6 +27,17 @@ products:
     recommendedFor: "体重が小さめの赤ちゃんに柔らかい素材を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4903111210947%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10035430%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/947/4903111210947.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkimurasuzuka-store%2Fyahoo20260117-b01cg1tb4q.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 2320
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kimurasuzuka-store_yahoo20260117-b01cg1tb4q"
+        available: true
   - rank: 2
     name: "メリーズ エアスルー テープ 新生児"
     brand: "花王（メリーズ）"
@@ -49,6 +60,17 @@ products:
     recommendedFor: "通気性重視で定番ブランドのメリーズを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcnfn.3rdw6f9c.g00qcnfn.3rdw70c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu821053%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10036331%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/natural-living/cabinet/3/7/0/370202643897.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301437693x4.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 6660
+        rating: 4.88
+        reviewCount: 8
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301437693x4"
+        available: true
   - rank: 3
     name: "ムーニーナチュラル テープ 新生児サイズ"
     brand: "ユニ・チャーム（ムーニー）"

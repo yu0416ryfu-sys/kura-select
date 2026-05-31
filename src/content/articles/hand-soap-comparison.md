@@ -27,6 +27,17 @@ products:
     recommendedFor: "敏感肌の方・小さな子どもがいる家庭・保湿も重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00toizn.3rdw6228.g00toizn.3rdw730f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonoworld%2Fzakka-0029%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmonoworld%2Fi%2F10000154%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/monoworld/cabinet/10151410/compass1703598547.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseisen-online%2F0547268-2.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 3380
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/seisen-online_0547268-2"
+        available: true
   - rank: 2
     name: "arau. 泡ハンドソープ つめかえ用"
     brand: "arau.（アラウ）"
@@ -54,7 +65,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-depart%2F409774.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 388
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-depart_409774"
         available: true
@@ -109,7 +120,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawaridg%2F4903301176862.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 878
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawaridg_4903301176862"
         available: true
@@ -164,7 +175,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fj0030012.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 737
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_j0030012"
         available: true
@@ -219,7 +230,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fj0030009.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 1254
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_j0030009"
         available: true
@@ -247,6 +258,17 @@ products:
     recommendedFor: "無香料で薬用・弱酸性のハンドソープを求める方・匂いに敏感な職場や家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe474931h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10572500%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/011/4573388510011.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fredcabin%2Fjam-100-0011.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 1254
+        rating: 4
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/redcabin_jam-100-0011"
+        available: true
 tags:
   - "ハンドソープ"
   - "コスパ"

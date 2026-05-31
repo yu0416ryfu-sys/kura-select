@@ -3,7 +3,7 @@ title: "ジェルボール洗剤 コスパ最強ランキング【2026年版】1
 description: "ジェルボール洗剤を1個あたりのコストで徹底比較。アリエール・アタックZERO・ボールドなど人気商品を洗浄力・香り・コスパで解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
-updatedAt: 2026-05-31
+updatedAt: "2026-05-31"
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"
@@ -102,8 +102,8 @@ products:
         price: 8280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010126844"
         available: true
-        rating: 4.88
-        reviewCount: 26
+        rating: 4.85
+        reviewCount: 27
   - rank: 4
     name: "さらさ 洗濯洗剤 詰め替え"
     brand: "P&G（さらさ）"
@@ -210,7 +210,7 @@ products:
     capacity: "5L×2本セット"
     pricePerUnit: "約548円/L"
     rating: 4.73
-    reviewCount: 517
+    reviewCount: 518
     features:
       - "業務用の大容量5L×2本セットで長期間使えるコスパ商品"
       - "衣類洗浄に加え排水管清掃にも使える多用途性"
@@ -252,7 +252,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F622008a.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_622008a"
         available: true
@@ -280,6 +280,17 @@ products:
     recommendedFor: "メイクブラシのケアに気を使う方・天然素材の洗浄剤を好む方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tmqun.3rdw6b53.g00tmqun.3rdw7696/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhakuundou%2Fcl01a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhakuundou%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hakuundou/cabinet/item03/lp01-1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurunavi%2F1806588.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 25000
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/furunavi_1806588"
+        available: true
 tags:
   - "ジェルボール 洗剤"
   - "ジェルボール おすすめ"

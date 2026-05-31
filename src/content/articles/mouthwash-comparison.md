@@ -1,9 +1,9 @@
 ---
-title: "マウスウォッシュ コスパ最強ランキング【2026年版】殺菌力・低刺激で比較11選"
-description: "マウスウォッシュを1mLあたりのコストで徹底比較。リステリン・モンダミン・GUM・コンクールなど人気11選を殺菌力・刺激性で解説します。"
+title: "マウスウォッシュ コスパ最強ランキング【2026年版】殺菌力・低刺激で比較10選"
+description: "マウスウォッシュを1mLあたりのコストで徹底比較。リステリン・モンダミン・GUM・コンクールなど人気10選を殺菌力・刺激性で解説します。"
 category: "mouthwash"
 publishedAt: "2026-05-01"
-updatedAt: 2026-05-31
+updatedAt: "2026-05-31"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -27,6 +27,17 @@ products:
     recommendedFor: "口臭・虫歯予防を徹底したい方・刺激に慣れている方・コスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ukdzn.3rdw666d.g00ukdzn.3rdw7ec6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplant-online%2Fp10605%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplant-online%2Fi%2F10000064%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/plant-online/cabinet/image/p10605_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901730160476-73-30001035.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 997
+        rating: 4.57
+        reviewCount: 14
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901730160476-73-30001035"
+        available: true
   - rank: 2
     name: "薬用リステリン トータルケアゼロプラス ノンアルコール クリーンミント味"
     brand: "ジョンソン・エンド・ジョンソン（リステリン）"
@@ -54,13 +65,46 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180757-4.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 3699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4901730180757-4"
         available: true
         rating: 0
         reviewCount: 1
   - rank: 3
+    name: "モンダミン プレミアムケア ゴールドミント"
+    brand: "アース製薬（モンダミン）"
+    price: 1047
+    capacity: "1000mL"
+    pricePerUnit: "約1.0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "アース製薬が手がける口臭・歯周病・むし歯予防を訴求するマウスウォッシュ"
+      - "ゴールドミント香料で爽快感のある使用感"
+      - "1000mLの大容量で家庭用に使いやすい"
+    pros:
+      - "定番ブランドで品質を信頼して選びやすい"
+      - "1000mLの大容量で長期間継続しやすい"
+      - "スーパーやドラッグストアでも入手しやすく補充しやすい"
+    cons:
+      - "ゴールドミントの香りが強めのため好みが分かれる場合がある"
+      - "容器ごとの購入で詰め替えパウチに比べると収納スペースが必要"
+    recommendedFor: "モンダミンブランドの大容量マウスウォッシュをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901080248619%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12653350%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2025a/4901080248619.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901080248619.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 1039
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901080248619"
+        available: true
+  - rank: 4
     name: "GUM デンタルリンス ナイトケア 900mL"
     brand: "サンスター（GUM）"
     price: 1038
@@ -87,13 +131,46 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901616010888.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 1058
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4901616010888"
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 4
+  - rank: 5
+    name: "システマ EX デンタルリンス"
+    brand: "ライオン（システマ）"
+    price: 1230
+    capacity: "900mL"
+    pricePerUnit: "約1.4円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "歯周病ケアを主目的とした医薬部外品の洗口液"
+      - "長時間抗菌バリア・抗炎症成分配合"
+      - "ノンアルコールタイプとアルコールタイプから選択可能"
+    pros:
+      - "歯周病予防に特化した成分設計で歯茎が気になる方に向く"
+      - "900mLの大容量でコスパよく継続しやすい"
+      - "ポンプ付きで使いやすく衛生的"
+    cons:
+      - "歯周病ケア特化のため口臭予防のみを求める方には方向性が異なる"
+      - "価格は一般的なマウスウォッシュより高め"
+    recommendedFor: "歯周病ケアを重視してマウスウォッシュを選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sr5an.3rdw6882.g00sr5an.3rdw71fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finsair%2F7267910%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finsair%2Fi%2F10054003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/insair/cabinet/tasya113/7267910-p.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7267910f.html"
+        matchStatus: "pending"
+        updatedAt: "2026-05-31"
+        price: 1350
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7267910f"
+        available: true
+  - rank: 6
     name: "プロフレッシュ 口臭ケア マウスウォッシュ"
     brand: "PROFRESH（プロフレッシュ）"
     price: 7425
@@ -115,14 +192,14 @@ products:
     recommendedFor: "口臭が強く気になる方・無香料マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pz2wn.3rdw6ac8.g00pz2wn.3rdw7cbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falpha-net%2F020-prf-0013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falpha-net%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/alpha-net/cabinet/profresh/imgrc0134851319.jpg?_ex=128x128"
-  - rank: 5
-    name: "WHITH WHITE 薬用マウスウォッシュ ホワイトニング 300mL"
+  - rank: 7
+    name: "WHITH WHITE 薬用マウスウォッシュ 300mL"
     brand: "WHITH WHITE（フィスホワイト）"
     price: 2200
     capacity: "300mL"
     pricePerUnit: "約7.3円/mL"
     rating: 4.59
-    reviewCount: 2746
+    reviewCount: 2748
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"
@@ -137,7 +214,7 @@ products:
     recommendedFor: "ホワイトニングケアを日常に取り入れたい方・低刺激マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b071gypvwv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000116%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/whith/top/906b071gypvwv.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 8
     name: "ドクターウォッシュ デンタル露ウォッシュ"
     brand: "ビーラッシュストア"
     price: 2970
@@ -164,13 +241,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichinan25%2Fdr-wash.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 2970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichinan25_dr-wash"
         available: true
         rating: 4.57
         reviewCount: 7
-  - rank: 7
+  - rank: 9
     name: "コンクールF 100mL"
     brand: "ウエルテック（コンクール）"
     price: 2100
@@ -197,13 +274,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Fdf0129.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-05-31"
         price: 2978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_df0129"
         available: true
         rating: 4.78
-        reviewCount: 1354
-  - rank: 8
+        reviewCount: 1355
+  - rank: 10
     name: "ナタデウォッシュ"
     brand: "ナチュラルガーデン（ナタデ）"
     price: 11500
@@ -225,72 +302,6 @@ products:
     recommendedFor: "口臭・歯周炎ケアを重視する方・国産マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr2qn.3rdw64f0.g00pr2qn.3rdw7a58/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnat-gar%2F1484526%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnat-gar%2Fi%2F10004814%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nat-gar/cabinet/ynata/c/cart-r-ynata5x250b6.jpg?_ex=128x128"
-  - rank: 9
-    name: "NONIO プラスホワイトニング マウスウォッシュ"
-    brand: "ライオン（NONIO）"
-    price: 0
-    capacity: "1000mL"
-    pricePerUnit: "0円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "長時間殺菌・ステイン除去・液体歯みがき機能を兼ねる大容量設計"
-      - "ホワイトニング成分配合でステイン予防を訴求"
-      - "医薬部外品で虫歯予防効果を訴求する設計"
-    pros:
-      - "1000mLの大容量で長期間使いやすい"
-      - "ホワイトニング効果を求める方に向く設計"
-      - "ライオンの定番NONIOブランドで入手しやすい"
-    cons:
-      - "マウスウォッシュと液体歯みがきを兼ねるため使い方の確認が必要"
-      - "ホワイトニング効果の実感には継続使用が必要"
-    recommendedFor: "ホワイトニング効果のある大容量マウスウォッシュを探している方"
-    rakutenUrl: "https://item.rakuten.co.jp/akarie/7267912/"
-    imageUrl: ""
-  - rank: 10
-    name: "システマ EX デンタルリンス"
-    brand: "ライオン（システマ）"
-    price: 0
-    capacity: "900mL"
-    pricePerUnit: "0円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "歯周病ケアを主目的とした医薬部外品の洗口液"
-      - "長時間抗菌バリア・抗炎症成分配合"
-      - "ノンアルコールタイプとアルコールタイプから選択可能"
-    pros:
-      - "歯周病予防に特化した成分設計で歯茎が気になる方に向く"
-      - "900mLの大容量でコスパよく継続しやすい"
-      - "ポンプ付きで使いやすく衛生的"
-    cons:
-      - "歯周病ケア特化のため口臭予防のみを求める方には方向性が異なる"
-      - "価格は一般的なマウスウォッシュより高め"
-    recommendedFor: "歯周病ケアを重視してマウスウォッシュを選びたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/insair/7267910/"
-    imageUrl: ""
-  - rank: 11
-    name: "モンダミン プレミアムケア ゴールドミント"
-    brand: "アース製薬（モンダミン）"
-    price: 0
-    capacity: "1000mL"
-    pricePerUnit: "0円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "アース製薬が手がける口臭・歯周病・むし歯予防を訴求するマウスウォッシュ"
-      - "ゴールドミント香料で爽快感のある使用感"
-      - "1000mLの大容量で家庭用に使いやすい"
-    pros:
-      - "定番ブランドで品質を信頼して選びやすい"
-      - "1000mLの大容量で長期間継続しやすい"
-      - "スーパーやドラッグストアでも入手しやすく補充しやすい"
-    cons:
-      - "ゴールドミントの香りが強めのため好みが分かれる場合がある"
-      - "容器ごとの購入で詰め替えパウチに比べると収納スペースが必要"
-    recommendedFor: "モンダミンブランドの大容量マウスウォッシュをまとめ買いしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/at-life/4901080248619/"
-    imageUrl: ""
 tags:
   - "マウスウォッシュ"
   - "コスパ"

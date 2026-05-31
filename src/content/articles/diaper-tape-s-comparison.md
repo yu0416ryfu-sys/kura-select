@@ -3,7 +3,7 @@ title: "Sサイズ紙おむつ テープ型9選比較【2026年版】"
 description: "Sサイズのテープ型紙おむつ9製品を1枚あたりの価格で比較。メリーズ・ムーニー・パンパースほか、コスパと肌触りで選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: "2026-05-29"
+updatedAt: "2026-05-31"
 products:
   - rank: 1
     name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚 旧パッケージ"
@@ -28,6 +28,39 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6xln.3rdw632a.g00u6xln.3rdw7ef6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjandcbaby%2Fkao-ts88%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjandcbaby%2Fi%2F10000078%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jandcbaby/cabinet/08963043/imgrc0111965819.jpg?_ex=128x128"
   - rank: 2
+    name: "ムーニー マシュマロ肌ごこち モレ安心 テープ S 70枚"
+    brand: "ユニ・チャーム（ムーニー）"
+    price: 1694
+    capacity: "70枚（Sサイズ・4〜8kg）"
+    pricePerUnit: "約24円/枚"
+    rating: 4
+    reviewCount: 4
+    features:
+      - "マシュマロのようなやさしい肌触り"
+      - "モレ安心設計でテープタイプの安心感"
+      - "Sサイズ4〜8kg対応"
+    pros:
+      - "ふんわり素材が赤ちゃんのデリケートな肌に優しい"
+      - "漏れ防止設計で日中も夜間も安心して使える"
+      - "ムーニーブランドの安心品質"
+    cons:
+      - "他ブランドと比べて枚数が少なめ（70枚単品）"
+      - "コスパ重視ラインと比べると単価がやや高め"
+    recommendedFor: "肌触りを重視したい方・ムーニーブランドを愛用している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F100641%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10001855%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/moony/100641.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fotogizakka%2Fmecf7be4bafa.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-31"
+        price: 1994
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/otogizakka_mecf7be4bafa"
+        available: true
+        rating: 0
+        reviewCount: 1
+  - rank: 3
     name: "ムーニー マシュマロ肌ごこち テープ Sサイズ 大容量"
     brand: "ユニ・チャーム（ムーニー）"
     price: 6688
@@ -60,39 +93,6 @@ products:
         available: true
         rating: 4.73
         reviewCount: 49
-  - rank: 3
-    name: "ムーニー マシュマロ肌ごこち テープ Sサイズ"
-    brand: "ユニ・チャーム（ムーニー）"
-    price: 1800
-    capacity: "70枚（Sサイズ・4〜8kg）"
-    pricePerUnit: "約26円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "マシュマロのようなやさしい肌触り"
-      - "モレ安心設計でテープタイプの安心感"
-      - "Sサイズ4〜8kg対応"
-    pros:
-      - "ふんわり素材が赤ちゃんのデリケートな肌に優しい"
-      - "漏れ防止設計で日中も夜間も安心して使える"
-      - "ムーニーブランドの安心品質"
-    cons:
-      - "他ブランドと比べて枚数が少なめ（70枚単品）"
-      - "コスパ重視ラインと比べると単価がやや高め"
-    recommendedFor: "肌触りを重視したい方・ムーニーブランドを愛用している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00utr6n.3rdw61a0.g00utr6n.3rdw7bd8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonoria%2Fehxt8d51r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmonoria%2Fi%2F10001107%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/monoria/cabinet/2026_4/ehxt8d51r.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fotogizakka%2Fmecf7be4bafa.html"
-        matchStatus: "matched"
-        updatedAt: "2026-05-31"
-        price: 1994
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/otogizakka_mecf7be4bafa"
-        available: true
-        rating: 0
-        reviewCount: 1
   - rank: 4
     name: "パンパース テープ Sサイズ 74枚×4袋"
     brand: "P&G（パンパース）"

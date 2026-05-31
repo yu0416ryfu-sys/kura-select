@@ -3,7 +3,7 @@ title: "BIG・スーパービッグ紙おむつ比較【2026年版】"
 description: "BIGサイズ・スーパービッグサイズの紙おむつを1枚あたりの価格で比較。大きめ体型や夜間漏れ対策に向く商品を選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: 2026-05-31
+updatedAt: "2026-05-31"
 products:
   - rank: 1
     name: "グーンプラス テープ BIGサイズ"
