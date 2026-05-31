@@ -6,6 +6,7 @@ import { upsertYahooOfferInFrontmatter } from "../scripts/lib/yahoo-offers";
 import {
   toComparableCapacity,
   isSameComparableCapacity,
+  isSameSingleItemDimensions,
   evaluateYahooCandidate,
   extractUrlQuantityMultiplier,
   extractRakutenItemCode,
@@ -65,6 +66,73 @@ describe("Yahoo候補の容量照合", () => {
 
     it("null → null", () => {
       expect(toComparableCapacity(null)).toBeNull();
+    });
+  });
+
+  describe("Yahoo バスマット単品寸法照合", () => {
+    const bathMatProduct = {
+      name: "シンプルカラーバスマット",
+      capacity: "40×60cm 1枚",
+      brand: "タオルの森",
+      rakutenUrl: "https://item.rakuten.co.jp/watagumo/10000376/",
+    };
+    const bathMatCandidate = {
+      provider: "yahoo" as const,
+      label: "Yahoo!" as const,
+      name: "バスマット タオル地 シンプルカラー タオルマット 送料無料 速乾 40x60cm",
+      price: 990,
+      url: "https://store.shopping.yahoo.co.jp/taorunomori/10001288.html",
+      imageUrl: null,
+      available: true,
+      sellerName: "タオルの森",
+    };
+
+    it("既知の商品種別接尾辞を分割する", () => {
+      expect(normalizeTokens(bathMatProduct.name))
+        .toEqual(["シンプルカラー", "バスマット"]);
+    });
+
+    it("対象 Yahoo 候補は寸法一致で ok: true、固有語一致で strictMatch: true", () => {
+      const result = evaluateYahooCandidate(bathMatProduct, bathMatCandidate);
+      expect(result.ok).toBe(true);
+      expect(result.strictMatch).toBe(true);
+    });
+
+    it("縦横の順序差を許容する", () => {
+      expect(isSameSingleItemDimensions("40×60cm 1枚", "バスマット 60x40cm"))
+        .toBe(true);
+    });
+
+    it("寸法が異なる候補は拒否する", () => {
+      expect(isSameSingleItemDimensions("40×60cm 1枚", "バスマット 45x65cm"))
+        .toBe(false);
+    });
+
+    it("記事 capacity が複数寸法なら拒否する", () => {
+      expect(isSameSingleItemDimensions(
+        "40×60cm / 50×80cm",
+        "バスマット 40x60cm"
+      )).toBe(false);
+    });
+
+    it("Yahoo 候補が複数販売なら拒否する", () => {
+      expect(isSameSingleItemDimensions(
+        "40×60cm 1枚",
+        "バスマット 40x60cm 2枚セット"
+      )).toBe(false);
+      expect(isSameSingleItemDimensions(
+        "40×60cm 1枚",
+        "バスマット 40x60cm 2個ご購入"
+      )).toBe(false);
+    });
+
+    it("Yahoo URL が x2 販売なら寸法一致でも拒否する", () => {
+      const result = evaluateYahooCandidate(bathMatProduct, {
+        ...bathMatCandidate,
+        url: "https://store.shopping.yahoo.co.jp/taorunomori/10001288x2.html",
+      });
+      expect(result.ok).toBe(false);
+      expect(result.urlMultiplier).toBeUndefined();
     });
   });
 

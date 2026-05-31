@@ -103,12 +103,27 @@ function containsCapacityExpression(token: string): boolean {
     .test(token);
 }
 
+// Values are normalized because they are compared with normalizeYahooMatchText() output.
+const PRODUCT_TYPE_SUFFIXES = ["バスマット"] as const;
+
+function expandYahooMatchTokens(tokens: string[]): string[] {
+  return tokens.flatMap((token) => {
+    const suffix = PRODUCT_TYPE_SUFFIXES.find(
+      (candidate) =>
+        token.endsWith(candidate) &&
+        token.slice(0, -candidate.length).length >= 2
+    );
+    return suffix ? [token.slice(0, -suffix.length), suffix] : [token];
+  });
+}
+
 export function normalizeTokens(value: string): string[] {
-  return normalizeYahooMatchText(buildSearchKeyword(value))
+  const tokens = normalizeYahooMatchText(buildSearchKeyword(value))
     .split(/[\s　・、。／/｜|]+/)
     .filter((token) => token.length >= 2)
     .filter((token) => !/^[\d.,]+/.test(token))
     .filter((token) => !containsCapacityExpression(token));
+  return expandYahooMatchTokens(tokens);
 }
 
 export function isLikelySameProduct(currentName: string, candidateName: string): boolean {
@@ -136,6 +151,56 @@ export function isSameComparableCapacity(
       bTotal &&
       aTotal.total === bTotal.total &&
       aTotal.unit.toLowerCase() === bTotal.unit.toLowerCase()
+  );
+}
+
+interface DimensionsCm {
+  shortSide: number;
+  longSide: number;
+}
+
+function extractSingleItemDimensionsCm(
+  value: string,
+  options: { requireExplicitSingleItem: boolean }
+): DimensionsCm | null {
+  const normalized = normalizeYahooMatchText(value);
+  const dimensions = [...normalized.matchAll(
+    /(\d+(?:\.\d+)?)\s*[×x*＊]\s*(\d+(?:\.\d+)?)\s*cm/g
+  )];
+  if (dimensions.length !== 1) return null;
+  if (options.requireExplicitSingleItem && !/\b1\s*枚(?!\d)/.test(normalized)) {
+    return null;
+  }
+  if (
+    !options.requireExplicitSingleItem &&
+    /(?:[2-9]|\d{2,})\s*(?:枚|個|点|組|セット|パック)/.test(normalized)
+  ) {
+    return null;
+  }
+
+  const sides = [
+    Number.parseFloat(dimensions[0][1]),
+    Number.parseFloat(dimensions[0][2]),
+  ].sort((a, b) => a - b);
+  return { shortSide: sides[0], longSide: sides[1] };
+}
+
+export function isSameSingleItemDimensions(
+  currentCapacity: string | null | undefined,
+  candidateName: string
+): boolean {
+  if (!currentCapacity) return false;
+  const current = extractSingleItemDimensionsCm(currentCapacity, {
+    requireExplicitSingleItem: true,
+  });
+  const candidate = extractSingleItemDimensionsCm(candidateName, {
+    requireExplicitSingleItem: false,
+  });
+  return Boolean(
+    current &&
+      candidate &&
+      current.shortSide === candidate.shortSide &&
+      current.longSide === candidate.longSide
   );
 }
 
@@ -302,13 +367,19 @@ export function evaluateYahooCandidate(
   if (!currentCapacity) {
     return { ok: false, reason: "既存capacityなし" };
   }
-  if (!candidateCapacity) {
+
+  // URL 由来の数量倍率を取得し、capacity に反映する。
+  // 寸法フォールバックは単品に限定し、URL が x2 以上なら許可しない。
+  const urlMultiplier = extractUrlQuantityMultiplier(candidate.url);
+  const dimensionMatch =
+    urlMultiplier === 1 &&
+    isSameSingleItemDimensions(currentCapacity, candidate.name);
+  if (!candidateCapacity && !dimensionMatch) {
     return { ok: false, reason: "Yahoo候補からcapacity抽出不可", candidateCapacity: null };
   }
-  // URL 由来の数量倍率を取得し、capacity に反映する
-  const urlMultiplier = extractUrlQuantityMultiplier(candidate.url);
-  let effectiveCandidateCapacity = candidateCapacity;
-  if (urlMultiplier > 1) {
+
+  let effectiveCandidateCapacity: string | null = candidateCapacity;
+  if (candidateCapacity && urlMultiplier > 1) {
     const alreadyIncluded = new RegExp(
       `[×xX*＊]\\s*${urlMultiplier}(?:[^\\d]|$)`
     ).test(candidateCapacity);
@@ -319,7 +390,10 @@ export function evaluateYahooCandidate(
       }
     }
   }
-  if (!isSameComparableCapacity(currentCapacity, effectiveCandidateCapacity)) {
+  if (
+    !dimensionMatch &&
+    !isSameComparableCapacity(currentCapacity, effectiveCandidateCapacity)
+  ) {
     return {
       ok: false,
       reason: urlMultiplier > 1
