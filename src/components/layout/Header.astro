@@ -188,6 +188,18 @@ const navItems = [
     mobileCategoryIcon?.classList.toggle("rotate-180");
   });
 
+  // モバイルメニュー内のリンククリック時にメニューを閉じる（ハッシュリンク対応）
+  mobileMenu?.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", () => {
+      mobileMenu.classList.add("hidden");
+      hamburgerBtn?.setAttribute("aria-expanded", "false");
+      hamburgerBtn?.setAttribute("aria-label", "メニューを開く");
+      mobileCategoryList?.classList.add("hidden");
+      mobileCategoryBtn?.setAttribute("aria-expanded", "false");
+      mobileCategoryIcon?.classList.remove("rotate-180");
+    });
+  });
+
   // Escape キーでデスクトップドロップダウンを閉じる
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") {
