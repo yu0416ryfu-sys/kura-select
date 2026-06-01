@@ -29,9 +29,10 @@ interface Product {
 interface Props {
   products: Product[];
   caption?: string;
+  targetUnit?: string;
 }
 
-const { products, caption = "商品比較表" } = Astro.props;
+const { products, caption = "商品比較表", targetUnit } = Astro.props;
 
 const yahooSearchFallback = {
   enabled: import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true",
@@ -73,6 +74,7 @@ const productsForTable = products.map((product) => {
     products={productsForTable}
     caption={caption}
     enabledProviders={linkProviders}
+    targetUnit={targetUnit}
     client:visible
   />
   <p class="text-xs text-[var(--color-text-sub)] mt-2">

@@ -50,9 +50,10 @@ interface Props {
   products: ProductForComparisonTable[];
   caption: string;
   enabledProviders: OfferProvider[];
+  targetUnit?: string;
 }
 
-export default function ComparisonTableSort({ products, caption }: Props) {
+export default function ComparisonTableSort({ products, caption, targetUnit }: Props) {
   const [sortKey, setSortKey] = useState<SortKey>("rank");
   const [sortDir, setSortDir] = useState<"asc" | "desc">("asc");
 
@@ -75,8 +76,8 @@ export default function ComparisonTableSort({ products, caption }: Props) {
         const aPrice = a.priceSummary?.lowestPrice ?? a.price;
         const bPrice = b.priceSummary?.lowestPrice ?? b.price;
         return comparePricePerUnit(
-          { price: aPrice, pricePerUnit: calcPricePerUnit(aPrice, a.capacity) },
-          { price: bPrice, pricePerUnit: calcPricePerUnit(bPrice, b.capacity) },
+          { price: aPrice, pricePerUnit: calcPricePerUnit(aPrice, a.capacity, targetUnit) },
+          { price: bPrice, pricePerUnit: calcPricePerUnit(bPrice, b.capacity, targetUnit) },
           sortDir
         );
       } else {
@@ -86,7 +87,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
 
       return sortDir === "asc" ? av - bv : bv - av;
     });
-  }, [products, sortKey, sortDir]);
+  }, [products, sortKey, sortDir, targetUnit]);
 
   function handleSort(key: SortKey) {
     if (sortKey === key) {
@@ -229,7 +230,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                           price != null &&
                           price === p.priceSummary.lowestPrice;
                         // サイトごとのコスパ（単価）
-                        const unitLabel = price != null ? calcPricePerUnit(price, p.capacity) : null;
+                        const unitLabel = price != null ? calcPricePerUnit(price, p.capacity, targetUnit) : null;
                         const showUnit = shouldShowPricePerUnit(price, unitLabel);
                         return (
                           <div key={offer.provider} class={desktopPriceRowCls}>
@@ -271,7 +272,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                     {(() => {
                       // コスパは最安サイトの価格 × capacity から算出する
                       const lp = p.priceSummary?.lowestPrice ?? p.price;
-                      const unit = calcPricePerUnit(lp, p.capacity);
+                      const unit = calcPricePerUnit(lp, p.capacity, targetUnit);
                       return shouldShowPricePerUnit(lp, unit) ? (
                         <span class="inline-flex min-w-[78px] justify-center bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium whitespace-nowrap">
                           {unit}
@@ -356,7 +357,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                 {(() => {
                   // コスパは最安サイトの価格 × capacity から算出する
                   const lp = p.priceSummary?.lowestPrice ?? p.price;
-                  const unit = calcPricePerUnit(lp, p.capacity);
+                  const unit = calcPricePerUnit(lp, p.capacity, targetUnit);
                   return shouldShowPricePerUnit(lp, unit) ? (
                     <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium whitespace-nowrap">
                       {unit}
@@ -408,7 +409,7 @@ export default function ComparisonTableSort({ products, caption }: Props) {
                     price != null &&
                     price === p.priceSummary.lowestPrice;
                   // サイトごとのコスパ（単価）
-                  const unitLabel = price != null ? calcPricePerUnit(price, p.capacity) : null;
+                  const unitLabel = price != null ? calcPricePerUnit(price, p.capacity, targetUnit) : null;
                   const showUnit = shouldShowPricePerUnit(price, unitLabel);
                   return (
                     <div key={offer.provider} class={mobilePriceRowCls}>

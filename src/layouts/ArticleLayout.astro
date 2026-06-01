@@ -18,7 +18,7 @@ import {
   getRakutenRating,
 } from "../lib/offers";
 import { formatPriceOrConfirmation, isKnownPrice, shouldShowPricePerUnit } from "../lib/price";
-import { calcPricePerUnit } from "../lib/capacity";
+import { calcPricePerUnit, getArticleTargetUnit } from "../lib/capacity";
 import { SITE, url } from "../lib/site";
 import type { CollectionEntry } from "astro:content";
 
@@ -35,6 +35,7 @@ interface Props {
 
 const { article, categoryName, categorySlug, relatedArticles } = Astro.props;
 const { data } = article;
+const targetUnit = getArticleTargetUnit(article.id);
 
 // 記事別OGP画像パス（ビルド時に generate-ogp.mjs で生成）
 const ogImage = `/og/articles/${article.id}.png`;
@@ -173,13 +174,13 @@ const productJsonLds = data.products
 
         <!-- ファーストビューCTA: 1位商品 -->
         {data.products.length > 0 && (
-          <TopPickCta product={data.products.find((p) => p.rank === 1) ?? data.products[0]} />
+          <TopPickCta product={data.products.find((p) => p.rank === 1) ?? data.products[0]} targetUnit={targetUnit} />
         )}
 
         <!-- 比較表 -->
         {data.products.length > 0 && (
           <section aria-label="商品比較表">
-            <ComparisonTable products={data.products} caption={`${data.title} 比較表`} />
+            <ComparisonTable products={data.products} caption={`${data.title} 比較表`} targetUnit={targetUnit} />
           </section>
         )}
 
@@ -210,7 +211,7 @@ const productJsonLds = data.products
           const topSummary = getOfferPriceSummary(top, { enabledProviders: priceProviders });
           const topDisplayPrice = topSummary.lowestPrice ?? (isKnownPrice(top.price) ? top.price : null);
           // コスパ（単価）は最安サイトの価格 × capacity から表示時計算する
-          const topLowestPricePerUnit = topDisplayPrice != null ? calcPricePerUnit(topDisplayPrice, top.capacity) : null;
+          const topLowestPricePerUnit = topDisplayPrice != null ? calcPricePerUnit(topDisplayPrice, top.capacity, targetUnit) : null;
           const topPricePerUnitText =
             shouldShowPricePerUnit(topDisplayPrice, topLowestPricePerUnit)
               ? `　${topLowestPricePerUnit}`
@@ -247,7 +248,7 @@ const productJsonLds = data.products
             <h2 class="text-xl font-bold mb-6">各商品の詳細</h2>
             <div class="space-y-6">
               {data.products.map((product) => (
-                <ProductCard product={product} id={`product-${product.rank}`} />
+                <ProductCard product={product} id={`product-${product.rank}`} targetUnit={targetUnit} />
               ))}
             </div>
           </section>

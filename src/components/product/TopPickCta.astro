@@ -31,9 +31,10 @@ interface Product {
 
 interface Props {
   product: Product;
+  targetUnit?: string;
 }
 
-const { product } = Astro.props;
+const { product, targetUnit } = Astro.props;
 const yahooSearchFallback = {
   enabled: import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true",
   sid: import.meta.env.VALUECOMMERCE_SID,
@@ -53,7 +54,7 @@ const isLowestOffer = (offer: ProductOffer) =>
 const priceSummary = getOfferPriceSummary(product, { enabledProviders: priceProviders });
 const displayPrice = priceSummary.lowestPrice ?? (isKnownPrice(product.price) ? product.price : null);
 // コスパ（単価）は最安サイトの価格 × capacity から表示時計算する
-const lowestPricePerUnit = displayPrice != null ? calcPricePerUnit(displayPrice, product.capacity) : null;
+const lowestPricePerUnit = displayPrice != null ? calcPricePerUnit(displayPrice, product.capacity, targetUnit) : null;
 const showPricePerUnit = shouldShowPricePerUnit(displayPrice, lowestPricePerUnit);
 ---
 

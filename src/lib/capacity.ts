@@ -112,11 +112,14 @@ export function normalizeCapacityTotal(
  * 例: (7480, "60枚×48個（2,880枚）") → "約2.6円/枚"
  * 例: (250,  "30枚（携帯用）")        → "約8.3円/枚"
  */
-export function calcPricePerUnit(price: number, capacity: string): string | null {
+export function calcPricePerUnit(price: number, capacity: string, targetUnit?: string): string | null {
   if (!Number.isFinite(price) || price <= 0) return null;
 
-  const extracted = extractCapacityTotal(capacity);
-  if (!extracted) return null;
+  const raw = extractCapacityTotal(capacity);
+  if (!raw) return null;
+
+  const normalized = normalizeCapacityTotal(raw);
+  const extracted = (targetUnit && normalized?.unit === targetUnit) ? normalized : raw;
 
   const perUnit = price / extracted.total;
   let formatted: string;
@@ -129,4 +132,13 @@ export function calcPricePerUnit(price: number, capacity: string): string | null
   }
 
   return `約${formatted}円/${extracted.unit}`;
+}
+
+export const ARTICLE_UNIT_POLICY: Record<string, string> = {
+  'fabric-softener-comparison': 'mL',
+  'laundry-detergent-comparison': 'g',
+};
+
+export function getArticleTargetUnit(articleId: string): string | undefined {
+  return ARTICLE_UNIT_POLICY[articleId];
 }

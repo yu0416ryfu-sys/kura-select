@@ -13,7 +13,7 @@ import {
   normalizeCapacityTotal,
   calcPricePerUnit,
 } from '../../src/lib/capacity.ts';
-export { extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit } from '../../src/lib/capacity.ts';
+export { extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit } from '../../src/lib/capacity.ts';
 
 // フロントマターを YAML としてパースし、data と body に分割する
 function parseFrontmatter(content: string): { data: Record<string, unknown>; body: string } | null {

@@ -9,6 +9,7 @@ import {
   extractCapacityTotal,
   normalizeCapacityTotal,
   calcPricePerUnit,
+  getArticleTargetUnit,
   extractCapacityFromItemName,
   analyzeCapacityFromItemName,
   isMultiMeasureVariantItemName,
@@ -1367,6 +1368,44 @@ describe("calcPricePerUnit", () => {
 
   it("price 0 は単価を計算しない", () => {
     expect(calcPricePerUnit(0, "10枚")).toBeNull();
+  });
+
+  it("targetUnit=mL 指定で L→mL に変換する", () => {
+    expect(calcPricePerUnit(900, "1.5L×2本", "mL")).toBe("約0.30円/mL");
+  });
+
+  it("targetUnit=g 指定で kg→g に変換する", () => {
+    expect(calcPricePerUnit(3425, "5.26kg", "g")).toBe("約0.65円/g");
+  });
+
+  it("targetUnit 未指定では L のまま変換しない（対象外記事への影響なし）", () => {
+    expect(calcPricePerUnit(900, "1.5L×2本")).toBe("約300円/L");
+  });
+
+  it("targetUnit 未指定では kg のまま変換しない（対象外記事への影響なし）", () => {
+    expect(calcPricePerUnit(3425, "5.26kg")).toBe("約651円/kg");
+  });
+
+  it("targetUnit=mL で元が mL の場合は変化しない", () => {
+    expect(calcPricePerUnit(500, "1260mL", "mL")).toBe("約0.40円/mL");
+  });
+
+  it("targetUnit=g で元が g の場合は変化しない", () => {
+    expect(calcPricePerUnit(1000, "1100g", "g")).toBe("約0.91円/g");
+  });
+});
+
+// ─── getArticleTargetUnit ─────────────────────────────────────────────────────
+
+describe("getArticleTargetUnit", () => {
+  it("登録済み slug は対応する targetUnit を返す", () => {
+    expect(getArticleTargetUnit("fabric-softener-comparison")).toBe("mL");
+    expect(getArticleTargetUnit("laundry-detergent-comparison")).toBe("g");
+  });
+
+  it("未登録 slug は undefined を返す", () => {
+    expect(getArticleTargetUnit("toilet-paper-comparison")).toBeUndefined();
+    expect(getArticleTargetUnit("")).toBeUndefined();
   });
 });
 
