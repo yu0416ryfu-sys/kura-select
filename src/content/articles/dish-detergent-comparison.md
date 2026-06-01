@@ -237,38 +237,27 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q931n.3rdw6861.g00q931n.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftida-market%2F768628%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftida-market%2Fi%2F10000063%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tida-market/cabinet/ivorydishsoap.jpg?_ex=128x128"
   - rank: 9
-    name: "AlmaWin ディッシュソープ レモングラス 500mL"
-    brand: "AlmaWin"
-    price: 814
-    capacity: "500mL"
-    pricePerUnit: "約1.6円/mL"
-    rating: 4.51
-    reviewCount: 49
+    name: "フロッシュ アロエ ベラ 食器用洗剤 1000mL×4本セット"
+    brand: "フロッシュ（Werner & Mertz）"
+    price: 1815
+    capacity: "1000mL×4本"
+    pricePerUnit: "約0.45円/mL"
+    rating: 0
+    reviewCount: 0
     features:
-      - "食器洗いに使う台所用洗剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
+      - "アロエベラ配合で手肌に優しい低刺激処方"
+      - "100%リサイクルPET容器使用の環境配慮型ボトル"
+      - "生分解性100%（OECD302B試験済み）のエコ洗剤"
     pros:
-      - "日常の食器洗いに取り入れやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
+      - "アロエベラ配合で手荒れが気になる方にも使いやすい"
+      - "1000mL×4本の大容量で詰め替え頻度を大幅削減"
+      - "環境負荷が低く、エコ志向の方に向いている"
     cons:
-      - "香りや泡立ちの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "日常の食器洗いに取り入れやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100000977%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10001005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/4935137804411_03.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbrisk-online%2F20251011130727-02181.html"
-        matchStatus: "matched"
-        updatedAt: "2026-05-31"
-        price: 968
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/brisk-online_20251011130727-02181"
-        available: true
-        rating: 0
-        reviewCount: 0
+      - "4本セットのため保管スペースの確保が必要"
+      - "まとめ買い形式で少量から試しにくい"
+    recommendedFor: "手荒れ対策と環境配慮を両立しつつ大容量でコストを抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/ichiba/item/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Futopia-style%2Ffroschdish1000x2%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/utopia-style/cabinet/items/costco9/froschdish1000x2_1.jpg?_ex=128x128"
   - rank: 10
     name: "ヤシノミ洗剤 食器・野菜用 詰め替え 540mL"
     brand: "サラヤ（ヤシノミ洗剤）"
@@ -312,7 +301,7 @@ draft: false
 | JOY プロフェッショナル 4L | 4,000mL | 2,710円 | 約0.68円 |
 | パックス 200番 2300mL×2本 | 4,600mL | 4,550円 | 約0.99円 |
 | IVORY クラシック 709mL | 709mL | 980円 | 約1.4円 |
-| AlmaWin レモングラス 500mL | 500mL | 814円 | 約1.6円 |
+| フロッシュ アロエベラ 1000mL×4本 | 4,000mL | 1,815円 | 約0.45円 |
 | SOMALI 台所用石けん 5L | 5,000mL | 6,600円 | 約1.3円 |
 | ヤシノミ洗剤 詰替 540mL | 540mL | 2,856円 | 約5.3円 |
 
@@ -388,6 +377,21 @@ draft: false
 手荒れ対策を最優先するなら、ヤシノミ洗剤・SOMALI・緑の魔女のような低刺激系を候補にしつつ、長時間の水仕事ではゴム手袋も併用すると安心です。油汚れが多い家庭では、低刺激系だけに寄せすぎると洗浄力が物足りない場合があるため、用途に合わせて使い分けましょう。
 
 > ヤシノミ洗剤は植物系天然成分99%・野菜洗浄対応という点でエコ・低刺激部門の代表格ですが、容量あたりの単価は本ランキング内で最も高くなります。コスパを最優先する場合は、大容量タイプ（CHARMY Magica・緑の魔女など）を軸にしつつ、食材を洗う用途にだけヤシノミ洗剤を使い分けると合理的です。
+
+## フロッシュ vs ヤシノミ洗剤｜手荒れを気にする方への比較
+
+どちらも手荒れ対策・環境配慮として選ばれる食器用洗剤です。
+
+| 比較項目 | フロッシュ | ヤシノミ洗剤（サラヤ） |
+|----------|-----------|----------------------|
+| 主な特徴 | アロエベラ配合・生分解性100%・リサイクルPET容器 | 植物系天然成分99%・野菜洗浄対応 |
+| 容量 | 1000mL×4本（大容量セット） | 詰め替え540mL |
+| 手肌への配慮 | アロエベラ配合で低刺激 | 植物系成分で低刺激 |
+| 食材洗浄 | 食器専用（食材不可） | ○（食品対応） |
+| 1mLあたりコスト | 約0.45円/mL | 約5.3円/mL |
+| こんな人に向く | 大容量でコスパも環境配慮も両立したい方 | 野菜も洗いたい・敏感肌の方 |
+
+> 価格は楽天市場掲載時点。最新価格は各商品ページでご確認ください。
 
 ## コスパ比較のポイント
 
