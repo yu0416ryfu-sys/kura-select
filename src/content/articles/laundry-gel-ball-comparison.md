@@ -3,7 +3,7 @@ title: "ジェルボール洗剤 コスパ最強ランキング【2026年版】1
 description: "ジェルボール洗剤を1個あたりのコストで徹底比較。アリエール・アタックZERO・ボールドなど人気商品を洗浄力・香り・コスパで解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
-updatedAt: "2026-06-01"
+updatedAt: 2026-06-02
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"
@@ -111,7 +111,7 @@ products:
     capacity: "1490g"
     pricePerUnit: "約5.3円/g"
     rating: 4.55
-    reviewCount: 257
+    reviewCount: 258
     features:
       - "植物由来成分配合の無添加液体洗濯洗剤"
       - "すすぎ1回対応で水道代と時間を節約できる"

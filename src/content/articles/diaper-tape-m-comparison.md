@@ -3,7 +3,7 @@ title: "Mサイズ紙おむつ テープ型10選【2026年版】コスパ比較"
 description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価格で比較。メリーズ・パンパース・ムーニーなど主要ブランドから選ぶコツを解説します。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: "2026-06-01"
+updatedAt: 2026-06-02
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ"
@@ -155,7 +155,7 @@ products:
     capacity: "96枚"
     pricePerUnit: "約83円/枚"
     rating: 4.73
-    reviewCount: 171
+    reviewCount: 172
     features:
       - "ネット状の肌触りで蒸れにくく快適"
       - "パラベン・アルコール無添加の低刺激処方"

@@ -3,7 +3,7 @@ title: "柔軟剤 コスパ最強ランキング【2026年版】1L459円〜10選
 description: "柔軟剤を容量あたりのコストで比較。大容量タイプは約0.46円/mL〜。消臭・香り・敏感肌向けの人気10選を解説。部屋干し臭が気になる方・赤ちゃんのいる家庭にも。"
 category: "fabric-softener"
 publishedAt: "2026-04-29"
-updatedAt: "2026-06-01"
+updatedAt: 2026-06-02
 products:
   - rank: 1
     name: "メキシコダウニー アロマフローラル 8.5L×2本"
@@ -265,7 +265,7 @@ products:
     capacity: "4袋"
     pricePerUnit: "約1249円/袋"
     rating: 4.76
-    reviewCount: 1412
+    reviewCount: 1413
     features:
       - "洗濯時に使う柔軟仕上げ剤"
       - "継続利用しやすい定番構成"

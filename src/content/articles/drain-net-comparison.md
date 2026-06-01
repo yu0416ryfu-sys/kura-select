@@ -3,13 +3,13 @@ title: "排水口ネット おすすめ10選｜水切りネットをコスパで
 description: "キッチンシンクの排水口ネット（水切りネット）おすすめ10選をコスパで比較。ストッキングタイプ100枚入りを中心に、1枚あたりの単価・素材・使い勝手の違いをわかりやすく解説します。"
 category: "drain-net"
 publishedAt: "2026-05-29"
-updatedAt: "2026-05-29"
+updatedAt: 2026-06-02
 draft: false
 products:
   - rank: 1
     name: "システムポリマー ストッキング水切り袋 浅型"
     brand: "システムポリマー"
-    price: 50800
+    price: 50809
     capacity: "200枚×72袋"
     pricePerUnit: "約3.5円/枚"
     rating: 0

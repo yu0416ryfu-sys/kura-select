@@ -3,7 +3,7 @@ title: "保存袋・フリーザーバッグ コスパ最強ランキング【20
 description: "保存袋・フリーザーバッグを1枚あたりのコストで徹底比較。ジップロック・アイラップ・業務用など人気10選を密封性・耐久性で解説します。"
 category: "wrap-foil"
 publishedAt: "2026-05-01"
-updatedAt: "2026-06-01"
+updatedAt: 2026-06-02
 products:
   - rank: 1
     name: "ニッカルフレッシュ 鮮度保持袋"
@@ -34,7 +34,7 @@ products:
     capacity: "120枚"
     pricePerUnit: "約16円/枚"
     rating: 4.63
-    reviewCount: 40
+    reviewCount: 41
     features:
       - "ダブルジッパーで液漏れしにくい密封性"
       - "フリーザーバッグは冷凍保存に最適な厚手素材"
