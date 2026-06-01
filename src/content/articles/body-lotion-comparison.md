@@ -3,7 +3,7 @@ title: "ボディローション コスパ比較【2026年版】ボディミル�
 description: "毎日のボディケアに使うローション・ボディミルクをmLあたり単価で比較。植物由来・敏感肌向け・セラミド系など人気4商品を成分と使いやすさで比較します。"
 category: "body-lotion"
 publishedAt: "2026-05-25"
-updatedAt: "2026-05-31"
+updatedAt: "2026-06-01"
 draft: false
 products:
   - rank: 1
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4902111777009-3.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 2298
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4902111777009-3"
         available: true
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301342416.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 618
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301342416"
         available: true
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4560119225856.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 1097
         rating: 4.56
         reviewCount: 25
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4971710568530.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 2028
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4971710568530"
         available: true
@@ -200,7 +200,7 @@ products:
     capacity: "350ml"
     pricePerUnit: "約8.8円/ml"
     rating: 4.74
-    reviewCount: 577
+    reviewCount: 578
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"
@@ -264,7 +264,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F56770.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 2280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_56770"
         available: true
@@ -297,7 +297,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpigeon-shop%2F1035259.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 4598
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_1035259"
         available: true

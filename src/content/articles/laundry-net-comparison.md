@@ -3,7 +3,7 @@ title: "洗濯ネット おすすめ10選｜コスパ・用途別に徹底比較
 description: "洗濯ネットおすすめ10選をコスパ・用途別に比較。大中小セット・布団用・筒形・ブラジャー専用など種類別の選び方や1枚あたりの価格目安をわかりやすく解説します。"
 category: "laundry-net"
 publishedAt: "2026-05-29"
-updatedAt: "2026-05-31"
+updatedAt: "2026-06-01"
 draft: false
 products:
   - rank: 1
@@ -54,8 +54,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkeyuca%2F4100149.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        matchStatus: "matched"
+        updatedAt: "2026-06-01"
         price: 187
         rating: 3.67
         reviewCount: 3
@@ -87,8 +87,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flinofle%2Fly-0506.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        matchStatus: "matched"
+        updatedAt: "2026-06-01"
         price: 1490
         rating: 0
         reviewCount: 2
@@ -188,8 +188,8 @@ products:
     price: 880
     capacity: "1枚（40×50cm）"
     pricePerUnit: "約880円/枚"
-    rating: 4.81
-    reviewCount: 97
+    rating: 4.82
+    reviewCount: 98
     features:
       - "蛍光増白剤不使用の素材で肌や環境への負荷を抑えた設計"
       - "YKK製専用ファスナーと高耐久ガード生地で繰り返し使用に対応"

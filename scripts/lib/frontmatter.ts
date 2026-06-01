@@ -695,6 +695,10 @@ export function fixNameCapacityConflicts(
     // indexOf/slice で置換（capacity に $ が含まれる場合の String.replace 誤動作を回避）
     const idx = name.indexOf(embeddedCap);
     if (idx === -1) continue;
+    // 小数の末尾にマッチしている場合はスキップ
+    // 例: extractCapacityFromItemName("3.5kg") が "5kg" を返し、"3.5kg" 内の "5kg" にヒットするケース
+    // 直前が数字またはドットであれば、より長い小数表記の一部と判断してスキップする
+    if (idx > 0 && /[\d.]/.test(name[idx - 1])) continue;
 
     product.name = name.slice(0, idx) + capacity + name.slice(idx + embeddedCap.length);
     log.push(`rank ${rank}: name の ${embeddedCap} を ${capacity} に修正`);

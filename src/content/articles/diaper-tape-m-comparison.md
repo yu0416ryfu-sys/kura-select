@@ -1,9 +1,9 @@
 ---
-title: "Mサイズ紙おむつ テープ型9選【2026年版】コスパ比較"
+title: "Mサイズ紙おむつ テープ型10選【2026年版】コスパ比較"
 description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価格で比較。メリーズ・パンパース・ムーニーなど主要ブランドから選ぶコツを解説します。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: "2026-05-29"
+updatedAt: "2026-06-01"
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ"
@@ -32,13 +32,35 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301437716x4.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 6660
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301437716x4"
         available: true
         rating: 4.8
         reviewCount: 15
   - rank: 2
+    name: "グーンプラス 肌の贅沢 テープ Mサイズ 4個セット"
+    brand: "GOO.N（大王製紙）"
+    price: 6980
+    capacity: "52枚×4個（208枚）"
+    pricePerUnit: "約34円/枚"
+    rating: 4.33
+    reviewCount: 3
+    features:
+      - "保湿成分配合で肌への負担を軽減する設計"
+      - "吸収体エンボスで肌あたりをやわらかく保つ"
+      - "Mサイズ（6〜11kg対応）テープタイプ4個セット"
+    pros:
+      - "保湿成分配合で肌が乾燥しやすい赤ちゃんに向く"
+      - "4個セットでまとめ買いでき在庫を確保しやすい"
+      - "肌への優しさを重視したい方に選びやすいラインナップ"
+    cons:
+      - "4個セットのため保管スペースを取りやすい"
+      - "機能性重視のため通常グーンより価格がやや高め"
+    recommendedFor: "保湿成分配合でMサイズをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7255398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10215993%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya103/7255398-e.jpg?_ex=128x128"
+  - rank: 3
     name: "メリーズファストプレミアム テープ Mサイズ"
     brand: "花王（メリーズ）"
     price: 6644
@@ -60,7 +82,7 @@ products:
     recommendedFor: "Mサイズで吸収速度を重視したい方・まとめ買いが可能な家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7195766%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10190454%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tenposupport06/12820999/imgrc0130809075.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "パンパース さらさらケア テープ Mサイズ"
     brand: "P&G（パンパース）"
     price: 8680
@@ -87,13 +109,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134288-case.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 8386
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134288-case"
         available: true
         rating: 4.93
         reviewCount: 86
-  - rank: 4
+  - rank: 5
     name: "パンパース はじめての肌へのいちばん テープ Mサイズ"
     brand: "P&G（パンパース）"
     price: 7579
@@ -120,13 +142,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9662265.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 6283
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9662265"
         available: true
-  - rank: 5
+  - rank: 6
     name: "パンパース オムツ はじめての肌へのいちばん テープ Mサイズ【パンパース】"
     brand: "P&G（パンパース）"
     price: 7980
@@ -148,7 +170,7 @@ products:
     recommendedFor: "Mサイズでも品質重視で選びたい方・Sサイズ時代からパンパース派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2ngn.3rdw6e7c.g00t2ngn.3rdw797f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F1710000043%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhikaritv%2Fi%2F10227865%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000043_k.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "ライフリー テープ止めおむつ のび〜るフィット"
     brand: "ユニ・チャーム（ライフリー）"
     price: 2398
@@ -170,14 +192,14 @@ products:
     recommendedFor: "薄型・軽量を重視したい方・S-M境界期の体型に合わせたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe373162h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10318866%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/682/4903111902682.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 8
     name: "ムーニー 低刺激 テープ"
     brand: "ユニ・チャーム（ムーニー）"
     price: 7158
     capacity: "4個セット"
     pricePerUnit: "約1790円/個"
     rating: 4.75
-    reviewCount: 472
+    reviewCount: 473
     features:
       - "低刺激設計で敏感肌に配慮"
       - "やさしさを重視した素材選択"
@@ -197,13 +219,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenkoo-life%2F101-x004-4903111569786.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 9402
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenkoo-life_101-x004-4903111569786"
         available: true
-  - rank: 8
+  - rank: 9
     name: "メリーズ エアスルー テープ Mサイズ"
     brand: "花王（メリーズ）"
     price: 0
@@ -225,7 +247,7 @@ products:
     recommendedFor: "Mサイズで通気性と肌当たりのバランスを重視したい方"
     rakutenUrl: "https://item.rakuten.co.jp/netbaby/a62169xxx/?variantId=4901301437914"
     imageUrl: ""
-  - rank: 9
+  - rank: 10
     name: "パンパース さらさらケア テープ Mサイズ"
     brand: "P&G（パンパース）"
     price: 0

@@ -1,9 +1,9 @@
 ---
-title: "部屋干し洗剤 おすすめランキング【2026年版】生乾き臭を防ぐ最強洗剤を比較9選"
-description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底比較。アタック抗菌EX・緑の魔女・さらさなど人気9選を抗菌力・消臭力で解説。"
+title: "部屋干し洗剤 おすすめランキング【2026年版】生乾き臭を防ぐ最強洗剤を比較10選"
+description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底比較。アタック抗菌EX・緑の魔女・さらさなど人気10選を抗菌力・消臭力で解説。"
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
-updatedAt: "2026-05-31"
+updatedAt: "2026-06-01"
 products:
   - rank: 1
     name: "アタック 抗菌EX 部屋干し用 詰め替え 2380g×6個セット"
@@ -83,6 +83,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4qcn.3rdw6396.g00u4qcn.3rdw78c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatinum-eight%2F425%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatinum-eight%2Fi%2F10000459%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platinum-eight/cabinet/compass1706417618.jpg?_ex=128x128"
   - rank: 4
+    name: "アリエール 液体 部屋干しプラス 詰め替え 超ジャンボ 1.1.21kg（超ジャンボサイズ）"
+    brand: "P&G（アリエール）"
+    price: 2981
+    capacity: "1.21kg（超ジャンボサイズ）"
+    pricePerUnit: "約2464円/kg"
+    rating: 4.4
+    reviewCount: 5
+    features:
+      - "生乾き臭・黄ばみ・黒ずみに対応した部屋干しプラス処方"
+      - "除菌・抗菌・洗濯槽防カビ機能を備えた液体洗剤"
+      - "超ジャンボサイズ詰め替えで大容量購入に向いている"
+    pros:
+      - "アリエールジェルボールとは異なる液体タイプで計量使いができる"
+      - "超ジャンボサイズで詰め替え頻度と1回あたりコストを抑えやすい"
+      - "P&G定番ブランドで入手しやすく継続使用しやすい"
+    cons:
+      - "ジェルボールタイプより計量する手間がかかる"
+      - "超ジャンボサイズのため保管場所が必要"
+    recommendedFor: "アリエール液体タイプで部屋干し対策をまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7260888%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10217200%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/7280525.jpg?_ex=128x128"
+  - rank: 5
     name: "ハイベック プレミアムドライ"
     brand: "ハイベック"
     price: 6600
@@ -109,13 +131,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
         rating: 4.75
         reviewCount: 16
-  - rank: 5
+  - rank: 6
     name: "サンベック高級洗剤"
     brand: "サンベック"
     price: 6380
@@ -137,7 +159,7 @@ products:
     recommendedFor: "おしゃれ着用洗剤を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsb1000-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000195%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/18sb.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "サンベックドライ洗剤"
     brand: "サンベック"
     price: 3980
@@ -164,13 +186,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftamari-do%2Fli08c865d17f.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 4538
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tamari-do_li08c865d17f"
         available: true
-  - rank: 7
+  - rank: 8
     name: "おまかせドライ"
     brand: "ファーファ"
     price: 1540
@@ -197,13 +219,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F622008a.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_622008a"
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 8
+  - rank: 9
     name: "プロ・ウォッシュ おしゃれ着洗剤"
     brand: "プロ・ウォッシュ"
     price: 3450
@@ -225,7 +247,7 @@ products:
     recommendedFor: "おしゃれ着用洗剤を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2b0n.3rdw6085.g00r2b0n.3rdw7a27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faspa%2Farigatou004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faspa%2Fi%2F10000003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aspa/cabinet/item/item280/pro_700_w.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "アリエール ジェルボール4D 部屋干し用 詰め替え 140個入り"
     brand: "P&G（アリエール）"
     price: 4398
@@ -252,7 +274,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaitoriraia%2F260121-3999-3199s.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 4798
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaitoriraia_260121-3999-3199s"
         available: true

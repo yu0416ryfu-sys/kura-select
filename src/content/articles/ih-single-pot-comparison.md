@@ -3,7 +3,7 @@ title: "IH対応一人用鍋おすすめ比較10選｜16cm・18cmの選び方"
 description: "IH対応の一人用鍋を16cm・18cm中心に11製品比較。卓上鍋、ホーロー、片手鍋など少人数調理に使いやすい鍋を選び方とあわせて紹介します。"
 category: "cooking-pot"
 publishedAt: "2026-05-10"
-updatedAt: 2026-05-31
+updatedAt: 2026-06-01
 draft: false
 products:
   - rank: 1

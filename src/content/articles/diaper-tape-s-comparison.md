@@ -1,9 +1,9 @@
 ---
-title: "Sサイズ紙おむつ テープ型9選比較【2026年版】"
+title: "Sサイズ紙おむつ テープ型10選比較【2026年版】"
 description: "Sサイズのテープ型紙おむつ9製品を1枚あたりの価格で比較。メリーズ・ムーニー・パンパースほか、コスパと肌触りで選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: "2026-05-31"
+updatedAt: "2026-06-01"
 products:
   - rank: 1
     name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚 旧パッケージ"
@@ -28,6 +28,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6xln.3rdw632a.g00u6xln.3rdw7ef6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjandcbaby%2Fkao-ts88%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjandcbaby%2Fi%2F10000078%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jandcbaby/cabinet/08963043/imgrc0111965819.jpg?_ex=128x128"
   - rank: 2
+    name: "グーンプラス 敏感肌設計 テープ Sサイズ 4個セット"
+    brand: "GOO.N（大王製紙）"
+    price: 6072
+    capacity: "70枚×4個（280枚）"
+    pricePerUnit: "約22円/枚"
+    rating: 4.72
+    reviewCount: 509
+    features:
+      - "敏感肌設計でふんわり素材を採用したテープタイプ"
+      - "Sサイズ（4〜8kg対応）70枚×4個の大容量セット"
+      - "やさしい貼り心地で肌あたりに配慮した設計"
+    pros:
+      - "肌が敏感な赤ちゃんに向けた処方で選びやすい"
+      - "4個セットで在庫管理がしやすく購入頻度を抑えられる"
+      - "メリーズ・パンパースと並ぶ大手ブランドの選択肢が増える"
+    cons:
+      - "4個セットのため初期費用が大きくなりやすい"
+      - "体型によってフィット感に差が出ることがある"
+    recommendedFor: "敏感肌の赤ちゃんにSサイズをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404194%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10027920%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/194/404194.jpg?_ex=128x128"
+  - rank: 3
     name: "ムーニー マシュマロ肌ごこち モレ安心 テープ S 70枚"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1694
@@ -60,7 +82,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 3
+  - rank: 4
     name: "ムーニー マシュマロ肌ごこち テープ Sサイズ 大容量"
     brand: "ユニ・チャーム（ムーニー）"
     price: 6688
@@ -87,13 +109,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 6688
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true
         rating: 4.73
         reviewCount: 49
-  - rank: 4
+  - rank: 5
     name: "パンパース テープ Sサイズ 74枚×4袋"
     brand: "P&G（パンパース）"
     price: 8680
@@ -120,20 +142,20 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134295-case.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 7020
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134295-case"
         available: true
         rating: 4.79
-        reviewCount: 138
-  - rank: 5
+        reviewCount: 139
+  - rank: 6
     name: "ムーニー 低刺激であんしん 紙おむつ テープ"
     brand: "ユニ・チャーム（ムーニーナチュラル）"
     price: 7158
     capacity: "54枚×4個セット"
     pricePerUnit: "約33円/枚"
     rating: 4.75
-    reviewCount: 472
+    reviewCount: 473
     features:
       - "低刺激処方で敏感肌向けに配慮"
       - "安心設計のテープタイプ"
@@ -153,13 +175,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4903111569786-4.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 8316
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4903111569786-4"
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 6
+  - rank: 7
     name: "パンパース はじめての肌へのいちばん テープ Sサイズ 大容量"
     brand: "P&G（パンパース）"
     price: 5598
@@ -186,13 +208,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02650.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 4449
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos02650"
         available: true
         rating: 0
         reviewCount: 2
-  - rank: 7
+  - rank: 8
     name: "パンパース オムツ はじめての肌へのいちばん テープ Sサイズ【パンパース】"
     brand: "P&G（パンパース）"
     price: 6280
@@ -214,7 +236,18 @@ products:
     recommendedFor: "肌が敏感な赤ちゃんがいる家庭・産院のおむつをそのまま使い続けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uq6on.3rdw6202.g00uq6on.3rdw7f42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftokyoabcstore%2Fcompass1748853340%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftokyoabcstore%2Fi%2F10000214%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tokyoabcstore/cabinet/compass1764138947.jpg?_ex=128x128"
-  - rank: 8
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176206206.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-01"
+        price: 3980
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176206206"
+        available: true
+  - rank: 9
     name: "パンパース さらさらケア テープ"
     brand: "P&G（パンパース）"
     price: 9156
@@ -236,7 +269,7 @@ products:
     recommendedFor: "蒸れやすい季節を迎える方・通気性を重視する家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2Fa62000xxx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10018171%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/031/402031.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "パンパース はじめての肌へのいちばん テープ Sサイズ"
     brand: "P&G（パンパース）"
     price: 7579

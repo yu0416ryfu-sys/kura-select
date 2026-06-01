@@ -3,7 +3,7 @@ title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
 description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ10選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
-updatedAt: "2026-05-31"
+updatedAt: "2026-06-01"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -12,7 +12,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約4.7円/枚"
     rating: 4.77
-    reviewCount: 1483
+    reviewCount: 1485
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -32,12 +32,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2Fpphalf300.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 1395
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_pphalf300"
         available: true
         rating: 4.84
-        reviewCount: 831
+        reviewCount: 832
   - rank: 2
     name: "TANOSEE　ゴミ袋エコノミー　乳白半透明"
     brand: "TANOSEE（国内大手OEM）"
@@ -64,8 +64,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7661730.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        matchStatus: "matched"
+        updatedAt: "2026-06-01"
         price: 5742
         rating: 4.72
         reviewCount: 40
@@ -116,28 +116,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fbx-530box2kobako%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10001012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/ecotaibox/bx/45l/bx-530n_2k.jpg?_ex=128x128"
   - rank: 5
-    name: "とって付きビニール袋 ごみ袋 20L〜25L 20枚×4セット"
-    brand: "日本サニパック"
-    price: 1000
-    capacity: "20枚×4セット（80枚）"
-    pricePerUnit: "約13円/枚"
-    rating: 4.25
-    reviewCount: 4
-    features:
-      - "20L〜25L対応の小型ゴミ袋で洗面所やトイレなどの小型ゴミ箱に向くサイズ"
-      - "取っ手付きで口を結ばずにゴミ出しできる"
-      - "0.016mmの薄手素材で一般的なゴミの処理に適した設計"
-    pros:
-      - "小型サイズなので部屋ごとのゴミ箱に使い分けしやすい"
-      - "取っ手で持ち運べるため、ゴミ箱からそのまま外に出せる"
-      - "ペット用汚物袋やアウトドアなど用途を広げやすい"
-    cons:
-      - "薄手（0.016mm）のため、重みや鋭利なものには向かない"
-      - "小容量タイプのため、台所の大型ゴミ箱には使えない"
-    recommendedFor: "洗面所・トイレ・デスク周りなど小型ゴミ箱を複数使いする方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ty6dn.3rdw6ecc.g00ty6dn.3rdw797e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftbnexus%2Fsanipak-yc29%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftbnexus%2Fi%2F10000128%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tbnexus/cabinet/item2/sanipak-yc29_1.jpg?_ex=128x128"
-  - rank: 6
     name: "HEIKO PPパン袋 20-30 300枚"
     brand: "HEIKO"
     price: 3980
@@ -164,12 +142,34 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2F2030l300.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 1395
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_2030l300"
         available: true
         rating: 0
         reviewCount: 1
+  - rank: 6
+    name: "とって付きビニール袋 ごみ袋 20L〜25L 20枚×4セット"
+    brand: "日本サニパック"
+    price: 1287
+    capacity: "20枚×4セット（80枚）"
+    pricePerUnit: "約16円/枚"
+    rating: 4.25
+    reviewCount: 4
+    features:
+      - "20L〜25L対応の小型ゴミ袋で洗面所やトイレなどの小型ゴミ箱に向くサイズ"
+      - "取っ手付きで口を結ばずにゴミ出しできる"
+      - "0.016mmの薄手素材で一般的なゴミの処理に適した設計"
+    pros:
+      - "小型サイズなので部屋ごとのゴミ箱に使い分けしやすい"
+      - "取っ手で持ち運べるため、ゴミ箱からそのまま外に出せる"
+      - "ペット用汚物袋やアウトドアなど用途を広げやすい"
+    cons:
+      - "薄手（0.016mm）のため、重みや鋭利なものには向かない"
+      - "小容量タイプのため、台所の大型ゴミ箱には使えない"
+    recommendedFor: "洗面所・トイレ・デスク周りなど小型ゴミ箱を複数使いする方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ty6dn.3rdw6ecc.g00ty6dn.3rdw797e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftbnexus%2Fsanipak-yc29%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftbnexus%2Fi%2F10000128%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tbnexus/cabinet/item2/sanipak-yc29_1.jpg?_ex=128x128"
   - rank: 7
     name: "KT43 取っ手付きポリ袋 45L 半透明"
     brand: "ハウスホールドジャパン"
@@ -263,7 +263,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpoly-life%2Fkpl-450-2pc.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 2580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/poly-life_kpl-450-2pc"
         available: true

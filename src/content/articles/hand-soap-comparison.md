@@ -1,9 +1,9 @@
 ---
-title: "ハンドソープ コスパ最強ランキング【2026年版】殺菌力・保湿成分で比較9選"
-description: "ハンドソープを1回あたりのコストで徹底比較。キレイキレイ・ビオレu・ミューズ・ジェームズマーティンなど人気9選を紹介。殺菌力重視・保湿重視・家族向けに最適な商品が分かります。"
+title: "ハンドソープ コスパ最強ランキング【2026年版】殺菌力・保湿成分で比較10選"
+description: "ハンドソープを1回あたりのコストで徹底比較。キレイキレイ・ビオレu・ミューズ・ジェームズマーティンなど人気10選を紹介。殺菌力重視・保湿重視・家族向けに最適な商品が分かります。"
 category: "hand-soap"
 publishedAt: "2026-04-30"
-updatedAt: "2026-05-26"
+updatedAt: "2026-06-01"
 products:
   - rank: 1
     name: "ビオレ泡4リットル ビオレu　泡ハンドソープ"
@@ -31,8 +31,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseisen-online%2F0547268-2.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        matchStatus: "matched"
+        updatedAt: "2026-06-01"
         price: 3380
         rating: 0
         reviewCount: 0
@@ -65,7 +65,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-depart%2F409774.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 388
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-depart_409774"
         available: true
@@ -120,13 +120,46 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawaridg%2F4903301176862.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 878
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawaridg_4903301176862"
         available: true
         rating: 0
         reviewCount: 0
   - rank: 5
+    name: "ハンドラボ 薬用泡ハンドソープ 300mL"
+    brand: "サラヤ（ハンドラボ）"
+    price: 361
+    capacity: "300mL"
+    pricePerUnit: "約1.2円/mL"
+    rating: 4.88
+    reviewCount: 49
+    features:
+      - "医薬部外品の薬用処方で殺菌・消毒に対応した泡ハンドソープ"
+      - "たっぷり泡立つポンプ設計で手洗いしやすい"
+      - "サラヤが展開するハンドラボシリーズの定番製品"
+    pros:
+      - "医療・福祉現場でも使われるサラヤブランドの殺菌力が選べる"
+      - "泡タイプで泡立て不要のためすぐに手洗いに取りかかれる"
+      - "ジェームズマーティンと並ぶ薬用泡ハンドソープとして比較しやすい"
+    cons:
+      - "300mLと中容量のため家族が多い場合は買い足し頻度が高くなる"
+      - "医薬部外品ベースのため保湿特化タイプより使用感がやや異なる"
+    recommendedFor: "殺菌・消毒力を重視する方・サラヤの医薬部外品を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tj6en.3rdw6cfc.g00tj6en.3rdw7ce5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsaraya-cs%2Fhandlabhand%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsaraya-cs%2Fi%2F10000881%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/saraya-cs/cabinet/thu/handlabhand.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-depart%2F462535.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-01"
+        price: 337
+        rating: 4.17
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-depart_462535"
+        available: true
+  - rank: 6
     name: "ミヨシ無添加せっけん 泡のハンドソープ リフィル"
     brand: "ミヨシ石鹸"
     price: 471
@@ -148,7 +181,7 @@ products:
     recommendedFor: "無添加・低刺激にこだわる方・赤ちゃんや敏感肌の家族がいる家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200474%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10114171%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/614/4904551100614.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "ジェームズマーティン 薬用泡ハンドソープ 詰め替え用"
     brand: "ジェームズマーティン"
     price: 737
@@ -175,13 +208,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fj0030012.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 737
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_j0030012"
         available: true
         rating: 4.67
         reviewCount: 12
-  - rank: 7
+  - rank: 8
     name: "ミューズ 泡ハンドソープ 詰め替え 大容量 900mL"
     brand: "レキットベンキーザー（ミューズ）"
     price: 1914
@@ -203,7 +236,7 @@ products:
     recommendedFor: "殺菌力を最重視する方・しっかり洗いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404861%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11127123%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/861/404861.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "ジェームズマーティン 薬用泡ハンドソープ"
     brand: "ジェームズマーティン"
     price: 1254
@@ -230,13 +263,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fj0030009.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 1254
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_j0030009"
         available: true
         rating: 4.62
         reviewCount: 63
-  - rank: 9
+  - rank: 10
     name: "ジェームズマーティン 薬用泡ハンドソープ 無香料"
     brand: "ジェームズマーティン"
     price: 1293
@@ -262,8 +295,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fredcabin%2Fjam-100-0011.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        matchStatus: "matched"
+        updatedAt: "2026-06-01"
         price: 1254
         rating: 4
         reviewCount: 3

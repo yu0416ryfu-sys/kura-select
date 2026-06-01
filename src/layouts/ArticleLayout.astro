@@ -161,12 +161,18 @@ const productJsonLds = data.products
             {data.title}
           </h1>
           <div class="flex items-center gap-4 text-sm text-[var(--color-text-sub)]">
-            <time datetime={data.publishedAt.toISOString()}>
-              公開: {data.publishedAt.toLocaleDateString("ja-JP")}
-            </time>
-            {data.updatedAt && (
-              <time datetime={data.updatedAt.toISOString()}>
-                更新: {data.updatedAt.toLocaleDateString("ja-JP")}
+            {data.updatedAt ? (
+              <>
+                <time datetime={data.updatedAt.toISOString()}>
+                  更新: {data.updatedAt.toLocaleDateString("ja-JP")}
+                </time>
+                <time datetime={data.publishedAt.toISOString()}>
+                  公開: {data.publishedAt.toLocaleDateString("ja-JP")}
+                </time>
+              </>
+            ) : (
+              <time datetime={data.publishedAt.toISOString()}>
+                公開: {data.publishedAt.toLocaleDateString("ja-JP")}
               </time>
             )}
           </div>

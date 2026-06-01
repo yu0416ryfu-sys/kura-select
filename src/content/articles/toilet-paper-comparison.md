@@ -3,7 +3,7 @@ title: "トイレットペーパー シングル コスパ最強ランキング2
 description: "シングルのトイレットペーパーを1mあたりのコストで徹底比較。最安は1m約0.59円（60ロールまとめ買い時）。長尺タイプ・芯なし・まとめ買い向けを中心に選び方のポイントも解説します。"
 category: "toilet-paper"
 publishedAt: "2024-11-01"
-updatedAt: "2026-05-31"
+updatedAt: "2026-06-01"
 products:
   - rank: 1
     name: "森を守ろう トイレットペーパー シングル"
@@ -66,7 +66,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fikurun0810%2F101436.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         matchStatus: "matched"
         rating: 0
         reviewCount: 1
@@ -129,7 +129,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fikurun0810%2F101436.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 6985
         rating: 0
         reviewCount: 1
@@ -157,6 +157,17 @@ products:
     recommendedFor: "芯なし長巻きのコスパを重視してまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r90rn.3rdw6d63.g00r90rn.3rdw7ade/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwakuwaku-kobe%2F10000005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwakuwaku-kobe%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wakuwaku-kobe/cabinet/toipe_ippann/03375414/imgrc0080421778.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuasakamiten%2Fc02295.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-01"
+        price: 5200
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuasakamiten_c02295"
+        available: true
   - rank: 6
     name: "良い紙 業務用コアレス シングル"
     brand: "良い紙"
@@ -164,7 +175,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.67円/m"
     rating: 4.78
-    reviewCount: 1037
+    reviewCount: 1038
     features:
       - "太穴コアレスのシングルトイレットペーパー"
       - "再生紙を使用した長巻きタイプ"
@@ -180,39 +191,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00syqkn.3rdw6214.g00syqkn.3rdw7eef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frebirth-inc%2Fyoikami6r_150_108_s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frebirth-inc%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rebirth-inc/cabinet/single/yoikami150/s_yoikami_150_th.jpg?_ex=128x128"
   - rank: 7
-    name: "【最安値に挑戦中！】 トイレットペーパー シングル 業務用 ワンタッチ"
-    brand: "コアレックス（CORELEX）"
-    price: 4980
-    capacity: "150m×48ロール"
-    pricePerUnit: "約0.69円/m"
-    rating: 4.77
-    reviewCount: 61
-    features:
-      - "芯なし設計でゴミが出にくい環境配慮型"
-      - "150mの長尺ロールで交換頻度を減らせる"
-      - "国産・再生紙使用で日常使いしやすい"
-    pros:
-      - "150mの長尺で交換頻度が少ない"
-      - "芯なしでゴミが減り環境に優しい"
-      - "48ロール大容量でコスパが高い"
-    cons:
-      - "芯なしのためロール終盤が使いにくい場合がある"
-      - "大容量のため保管スペースが必要"
-    recommendedFor: "交換の手間を最小化したい方・環境意識が高い方・大容量まとめ買い派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ttjtn.3rdw6711.g00ttjtn.3rdw7380/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcorelex%2Fgyoumuonetouchcoreress150ms6r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcorelex%2Fi%2F10000051%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/corelex/cabinet/toilet/10585247/gyoum1tchcoress150-1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Febarabo%2Febr-ppr-core-p2009.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-31"
-        price: 6675
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ebarabo_ebr-ppr-core-p2009"
-        available: true
-  - rank: 8
     name: "トーヨ クリーンテックス シングル 個包装"
     brand: "トーヨ"
     price: 3532
@@ -241,17 +219,17 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcleanshoponline%2F72014.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cleanshoponline_72014"
         available: true
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         rating: 0
         reviewCount: 0
-  - rank: 9
+  - rank: 8
     name: "Comfy 芯なし トイレットペーパー シングル"
     brand: "イトマン"
     price: 3810
     capacity: "150m×36ロール"
     pricePerUnit: "約0.71円/m"
     rating: 4.62
-    reviewCount: 747
+    reviewCount: 748
     features:
       - "芯なしの長巻きシングルトイレットペーパー"
       - "個包装で分けて保管しやすい"
@@ -276,7 +254,7 @@ products:
         updatedAt: "2026-05-18"
         matchStatus: "review"
         matchNotes: "capacity不一致: 商品名トークン不一致"
-  - rank: 10
+  - rank: 9
     name: "スマートエール 消臭機能付き シングル 芯なし"
     brand: "アイリスプラザ"
     price: 2981
@@ -298,6 +276,39 @@ products:
     recommendedFor: "省スペースで長巻きロールを備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7253225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10216050%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11514673/7253225.jpg?_ex=128x128"
+  - rank: 10
+    name: "【最安値に挑戦中！】 トイレットペーパー シングル 業務用 ワンタッチ"
+    brand: "コアレックス（CORELEX）"
+    price: 5480
+    capacity: "150m×48ロール"
+    pricePerUnit: "約0.76円/m"
+    rating: 4.77
+    reviewCount: 61
+    features:
+      - "芯なし設計でゴミが出にくい環境配慮型"
+      - "150mの長尺ロールで交換頻度を減らせる"
+      - "国産・再生紙使用で日常使いしやすい"
+    pros:
+      - "150mの長尺で交換頻度が少ない"
+      - "芯なしでゴミが減り環境に優しい"
+      - "48ロール大容量でコスパが高い"
+    cons:
+      - "芯なしのためロール終盤が使いにくい場合がある"
+      - "大容量のため保管スペースが必要"
+    recommendedFor: "交換の手間を最小化したい方・環境意識が高い方・大容量まとめ買い派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ttjtn.3rdw6711.g00ttjtn.3rdw7380/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcorelex%2Fgyoumuonetouchcoreress150ms6r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcorelex%2Fi%2F10000051%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/corelex/cabinet/toilet/10585247/gyoum1tchcoress150-1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Febarabo%2Febr-ppr-core-p2009.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-01"
+        price: 6675
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ebarabo_ebr-ppr-core-p2009"
+        available: true
 tags:
   - "トイレットペーパー"
   - "シングル"

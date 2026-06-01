@@ -1,16 +1,16 @@
 ---
-title: "柔軟剤 コスパ最強ランキング【2026年版】1L459円〜9選比較"
-description: "柔軟剤を容量あたりのコストで比較。大容量タイプは約459円/L〜。消臭・香り・敏感肌向けの人気9選を解説。部屋干し臭が気になる方・赤ちゃんのいる家庭にも。"
+title: "柔軟剤 コスパ最強ランキング【2026年版】1L459円〜10選比較"
+description: "柔軟剤を容量あたりのコストで比較。大容量タイプは約0.46円/mL〜。消臭・香り・敏感肌向けの人気10選を解説。部屋干し臭が気になる方・赤ちゃんのいる家庭にも。"
 category: "fabric-softener"
 publishedAt: "2026-04-29"
-updatedAt: "2026-05-31"
+updatedAt: "2026-06-01"
 products:
   - rank: 1
     name: "メキシコダウニー アロマフローラル 8.5L×2本"
     brand: "Downy"
     price: 7800
     capacity: "8.5L×2本（17L）"
-    pricePerUnit: "約459円/L"
+    pricePerUnit: "約0.46円/mL"
     rating: 4.6
     reviewCount: 5
     features:
@@ -32,7 +32,7 @@ products:
     brand: "Downy"
     price: 7900
     capacity: "8.5L×2本"
-    pricePerUnit: "約465円/L"
+    pricePerUnit: "約0.46円/mL"
     rating: 4.56
     reviewCount: 1648
     features:
@@ -50,11 +50,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F9414891%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10021618%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11663202/12603758/9110715.jpg?_ex=128x128"
   - rank: 3
-    name: "メキシコダウニー アロマフローラル 8.8.8.8.8.5L"
+    name: "メキシコダウニー アロマフローラル 8.8.8.8.8.8.5L"
     brand: "Downy"
     price: 4400
     capacity: "8.5L"
-    pricePerUnit: "約518円/L"
+    pricePerUnit: "約0.52円/mL"
     rating: 5
     reviewCount: 2
     features:
@@ -76,7 +76,7 @@ products:
     brand: "Downy"
     price: 6350
     capacity: "4L×3本（12L）"
-    pricePerUnit: "約529円/L"
+    pricePerUnit: "約0.53円/mL"
     rating: 4.75
     reviewCount: 102
     features:
@@ -98,13 +98,46 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9590768.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 6580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9590768"
         available: true
         rating: 4.74
         reviewCount: 220
   - rank: 5
+    name: "ライオン ソフラン アロマリッチ 業務用 4L"
+    brand: "ライオン（ソフラン）"
+    price: 2313
+    capacity: "4L"
+    pricePerUnit: "約0.58円/mL"
+    rating: 4.72
+    reviewCount: 39
+    features:
+      - "業務用4Lの大容量詰め替えでコスパ重視の購入に向く"
+      - "長時間香りが続く処方と香りサラッ機能を組み合わせた設計"
+      - "コック付き注ぎ口で詰め替えしやすい"
+    pros:
+      - "4Lの大容量でまとめ買いコストを抑えやすい"
+      - "コック付き容器で詰め替え時にこぼれにくい"
+      - "国内定番ブランドで購入しやすく継続しやすい"
+    cons:
+      - "4Lの大容量のため保管スペースが必要"
+      - "香りが強めのため無香料や弱香タイプを好む方には向かない"
+    recommendedFor: "大容量でコストを抑えたい方・国内ブランドの柔軟剤を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F4903301335078%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10059158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/4903301335078tn.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Fr6-06046.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-01"
+        price: 2100
+        rating: 5
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_r6-06046"
+        available: true
+  - rank: 6
     name: "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え"
     brand: "P&G（レノア）"
     price: 3007
@@ -131,13 +164,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b07bdlfd98-20260329.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 2864
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b07bdlfd98-20260329"
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 6
+  - rank: 7
     name: "【シリーズ累計50万本突破】ランドリーボトル 洗濯ボトル 洗剤ボトル ［セット "
     brand: "P&G（さらさ）"
     price: 2664
@@ -164,13 +197,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsarasa-designstore%2Fset-ls021x3.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 3119
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sarasa-designstore_set-ls021x3"
         available: true
         rating: 4.41
         reviewCount: 39
-  - rank: 7
+  - rank: 8
     name: "マイランドリー 柔軟剤 500mL 5本セット"
     brand: "My Laundry"
     price: 3680
@@ -197,13 +230,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4540936002359.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 749
         rating: 4.47
         reviewCount: 17
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4540936002359"
         available: true
-  - rank: 8
+  - rank: 9
     name: "ダウニー コンフォート お試し柔軟剤 4袋セット"
     brand: "Downy"
     price: 473
@@ -225,7 +258,7 @@ products:
     recommendedFor: "香りや仕上がりの好みに合わせやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqlnn.3rdw6746.g00qqlnn.3rdw79d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatina-shop%2F10000457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatina-shop%2Fi%2F10000457%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platina-shop/cabinet/01370227/imgrc0077946738.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "ハミングフレア 柔軟剤 つめかえ用 4袋入"
     brand: "花王（ハミングフレア）"
     price: 4994

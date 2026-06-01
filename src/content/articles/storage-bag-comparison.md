@@ -3,7 +3,7 @@ title: "保存袋・フリーザーバッグ コスパ最強ランキング【20
 description: "保存袋・フリーザーバッグを1枚あたりのコストで徹底比較。ジップロック・アイラップ・業務用など人気10選を密封性・耐久性で解説します。"
 category: "wrap-foil"
 publishedAt: "2026-05-01"
-updatedAt: "2026-05-29"
+updatedAt: "2026-06-01"
 products:
   - rank: 1
     name: "ニッカルフレッシュ 鮮度保持袋"
@@ -54,7 +54,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F6618319.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 1463
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_6618319"
         available: true
@@ -87,7 +87,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fy40954.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 97
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_y40954"
         available: true
@@ -120,7 +120,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4997495112409.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 161
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4997495112409"
         available: true
@@ -151,7 +151,7 @@ products:
   - rank: 6
     name: "ジップロック ストックバッグ L 16枚"
     brand: "旭化成（ジップロック）"
-    price: 1308
+    price: 1307
     capacity: "16枚"
     pricePerUnit: "約82円/枚"
     rating: 4.4
@@ -219,7 +219,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkomonosennka%2F2112mn124.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/komonosennka_2112mn124"
         available: true

@@ -3,7 +3,7 @@ title: "紙おむつ比較ガイド サイズ・形状別おすすめ記事ま�
 description: "紙おむつを新生児用、Sサイズ、Mサイズ、BIG以上、パンツ型に分けて選ぶための総合ガイド。サイズアップや形状変更の目安も解説します。"
 category: "diaper"
 publishedAt: "2026-05-05"
-updatedAt: "2026-05-31"
+updatedAt: "2026-06-01"
 products:
   - rank: 1
     name: "グーンプラス テープ"
@@ -11,8 +11,8 @@ products:
     price: 6072
     capacity: "4個"
     pricePerUnit: "約1518円/個"
-    rating: 4.71
-    reviewCount: 508
+    rating: 4.72
+    reviewCount: 509
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2Fm7255398.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 6980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_m7255398"
         available: true
@@ -45,7 +45,7 @@ products:
     capacity: "4個"
     pricePerUnit: "約1790円/個"
     rating: 4.75
-    reviewCount: 472
+    reviewCount: 473
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"
@@ -87,7 +87,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7252903.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 9380
         rating: 4.33
         reviewCount: 18
@@ -120,7 +120,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7252903.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 9380
         rating: 4.33
         reviewCount: 18
@@ -175,7 +175,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7263228f.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 7330
         rating: 4.84
         reviewCount: 25
@@ -188,7 +188,7 @@ products:
     capacity: "70枚×4袋"
     pricePerUnit: "約25円/枚"
     rating: 4.83
-    reviewCount: 86
+    reviewCount: 87
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"
@@ -208,7 +208,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 6688
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true
@@ -241,7 +241,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4987176238498.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 1300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4987176238498"
         available: true

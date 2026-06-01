@@ -1,9 +1,9 @@
 ---
-title: "衣類・布用消臭スプレー コスパ最強ランキング【2026年版】除菌力・消臭力で比較9選"
-description: "衣類・布用消臭スプレーを1プッシュあたりのコストで徹底比較。ファブリーズ・リセッシュ・A2Care・ハイジアなど人気9選を消臭力で解説します。"
+title: "衣類・布用消臭スプレー コスパ最強ランキング【2026年版】除菌力・消臭力で比較10選"
+description: "衣類・布用消臭スプレーを1プッシュあたりのコストで徹底比較。ファブリーズ・リセッシュ・A2Care・ハイジアなど人気10選を消臭力で解説します。"
 category: "sanitizing-spray"
 publishedAt: "2026-05-01"
-updatedAt: "2026-05-31"
+updatedAt: "2026-06-01"
 products:
   - rank: 1
     name: "花王｜Kao Resesh リセッシュ 除菌EX デオドラントパワー 香りが残ら"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2870152018.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 313
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2870152018"
         available: true
@@ -61,6 +61,39 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598757%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321967%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/757/598757.jpg?_ex=128x128"
   - rank: 3
+    name: "ランドリン ファブリックミスト クラシックフローラル 370mL"
+    brand: "ネイチャーラボ（ランドリン）"
+    price: 547
+    capacity: "370mL"
+    pricePerUnit: "約1.5円/mL"
+    rating: 4.8
+    reviewCount: 45
+    features:
+      - "W除菌・消臭機能とフレグランスを兼ね備えたファブリックミスト"
+      - "オーガニック植物エキス配合のクラシックフローラルの香り"
+      - "衣類と部屋の両方に使えるスプレータイプ"
+    pros:
+      - "消臭・除菌しながら香りをプラスできる一体型設計"
+      - "植物エキス配合で肌への刺激を抑えたい方に向く"
+      - "ランドリン柔軟剤と香りを統一して使いやすい"
+    cons:
+      - "香りが強めのため無香料を好む方には向かない"
+      - "ファブリーズなど主流ブランドと比べて流通量がやや少ない"
+    recommendedFor: "消臭と香りを同時に楽しみたい方・ランドリンシリーズを使っている方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2F4582469501411%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10003087%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08143526/4582469501411.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftoku00301%2Fpbtuqj2ih5k3phffpwr6vs7ywy.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-01"
+        price: 617
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/toku00301_pbtuqj2ih5k3phffpwr6vs7ywy"
+        available: true
+  - rank: 4
     name: "フレナチュラ 除菌スプレー 消臭スプレー 400mL"
     brand: "フレナチュラ"
     price: 2200
@@ -87,13 +120,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseiketu-online%2Fnew-frais-natula-350-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 3630
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seiketu-online_new-frais-natula-350-set"
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 4
+  - rank: 5
     name: "フレナチュラ グレージュ カラーボトル 400mL"
     brand: "フレナチュラ"
     price: 2200
@@ -120,13 +153,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseiketu-online%2Fnew-frais-natula-350-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 3630
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seiketu-online_new-frais-natula-350-set"
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 5
+  - rank: 6
     name: "A2Care 除菌消臭スプレー 300mL"
     brand: "A2Care"
     price: 1742
@@ -153,11 +186,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fantena5%2Fa2care300ml.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-06-01"
         price: 2178
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/antena5_a2care300ml"
         available: true
-  - rank: 6
+        rating: 4.67
+        reviewCount: 6
+  - rank: 7
     name: "K・ガード プラスnine 500mLスプレー"
     brand: "K・ガード"
     price: 3080
@@ -184,13 +219,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foasismse%2F342501-500.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 2772
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oasismse_342501-500"
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 7
+  - rank: 8
     name: "スリーフ 除菌スプレー 500ml＋1L"
     brand: "Sourif（スリーフ）"
     price: 3200
@@ -217,13 +252,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcselect%2Fsourif-500-1000-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 3200
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cselect_sourif-500-1000-set"
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 8
+  - rank: 9
     name: "トップ ハイジア 除菌・消臭スプレー 詰め替え"
     brand: "ライオン（ハイジア）"
     price: 3734
@@ -250,13 +285,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903301292081.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 271
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903301292081"
         available: true
         rating: 4.81
-        reviewCount: 42
-  - rank: 9
+        reviewCount: 43
+  - rank: 10
     name: "シュシュキッキ リフレッシャー除菌消臭ミスト 20mL"
     brand: "ナカノザダイレクト"
     price: 550

@@ -3,7 +3,7 @@ title: "おしりふき コスパ最強ランキング【2026年版】10選"
 description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比較。ムーニー、パンパース、グーン、レックなど人気メーカーの商品を肌優しさ・容量・単価で徹底比較。"
 category: "baby-wipes"
 publishedAt: "2026-05-17"
-updatedAt: 2026-05-31
+updatedAt: "2026-06-01"
 draft: false
 products:
   - rank: 1
@@ -38,7 +38,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_20661"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         rating: 0
         reviewCount: 0
   - rank: 2
@@ -48,7 +48,7 @@ products:
     capacity: "80枚×40個"
     pricePerUnit: "約1.3円/枚"
     rating: 4.77
-    reviewCount: 7410
+    reviewCount: 7415
     features:
       - "天然由来成分のシアバター、アロエエキス配合"
       - "99%が水分で肌に優しい処方"
@@ -71,9 +71,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_2000363s"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         rating: 4.78
-        reviewCount: 1358
+        reviewCount: 1366
   - rank: 3
     name: "おしりふき ふんわり 菌99.9除去 大容量"
     brand: "レック"
@@ -194,11 +194,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjiatentu2%2F20231227073433-00088.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjiatentusa%2F20230815193940-00102.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
-        price: 6100
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/jiatentu2_20231227073433-00088"
+        updatedAt: "2026-06-01"
+        price: 4825
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/jiatentusa_20230815193940-00102"
         available: true
         rating: 0
         reviewCount: 0
@@ -232,7 +232,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e168-16"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         rating: 4.72
         reviewCount: 203
   - rank: 8
@@ -242,7 +242,7 @@ products:
     capacity: "54枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.61
-    reviewCount: 3747
+    reviewCount: 3748
     features:
       - "菌を99.9%除去する除菌処理"
       - "厚手タイプで吸収性が高い"
@@ -265,7 +265,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e170"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         rating: 4.7
         reviewCount: 952
   - rank: 9
@@ -298,7 +298,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         rating: 4.6
         reviewCount: 1021
   - rank: 10
@@ -328,7 +328,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe241.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 2120
         rating: 4.6
         reviewCount: 1021

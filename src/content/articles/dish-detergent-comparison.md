@@ -3,7 +3,7 @@ title: "食器用洗剤 コスパ最強ランキング【2026年版】1L257円�
 description: "食器用洗剤を容量あたりのコストで比較。最安候補は業務用大容量で約257円/L。ジョイ・キュキュット・ヤシノミ洗剤など10選を油汚れ・手荒れ対策・コスパの3軸で比較します。"
 category: "dish-detergent"
 publishedAt: "2026-04-29"
-updatedAt: "2026-05-29"
+updatedAt: "2026-06-01"
 products:
   - rank: 1
     name: "ライオン CHARMY Magica 除菌＋ プロフェッショナル 無香料 ハーバ"
@@ -54,7 +54,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F501277.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 1796
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_501277"
         available: true
@@ -87,7 +87,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9847345.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 2980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9847345"
         available: true
@@ -120,7 +120,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301429148.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 5035
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301429148"
         available: true
@@ -153,7 +153,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftakuhaibin%2Fm7269456.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 2710
         rating: 0
         reviewCount: 0
@@ -208,7 +208,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcooking-clocca%2Fsomali-40542.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cooking-clocca_somali-40542"
         available: true
@@ -289,7 +289,7 @@ products:
       - "容量が少なく詰め替え頻度が高い"
       - "強い油汚れには複数回使用が必要"
     recommendedFor: "敏感肌・手荒れが心配な方・食材も洗いたい方・エコ志向の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqv2n.3rdw6222.g00uqv2n.3rdw7c45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fastershop%2Fbomdykhfin55h3inene676douq%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fastershop%2Fi%2F10191599%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqv2n.3rdw6222.g00uqv2n.3rdw7c45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fastershop%2Fbomdykhfin55h3inene676douq%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fastershop%2Fi%2F10237277%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/astershop/cabinet/11876517/33242660_1.jpg?_ex=128x128"
 tags:
   - "食器用洗剤"

@@ -1,9 +1,9 @@
 ---
 title: "ヘアトリートメント コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "ヘアトリートメント・ヘアマスクを1mLあたりのコストで徹底比較。フィーノ・いち髪・ケラスターゼなど人気9選を補修力・コスパで解説します。"
+description: "ヘアトリートメント・ヘアマスクを1mLあたりのコストで徹底比較。フィーノ・いち髪・ケラスターゼなど人気10選を補修力・コスパで解説します。"
 category: "hair-treatment"
 publishedAt: "2026-05-04"
-updatedAt: "2026-05-31"
+updatedAt: "2026-06-01"
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -32,13 +32,46 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frich0808store%2Fap-4901417618795.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 1363
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rich0808store_ap-4901417618795"
         available: true
         rating: 0
         reviewCount: 0
   - rank: 2
+    name: "ダイアン パワートリートメントマスク 本体"
+    brand: "ネイチャーラボ（ダイアン）"
+    price: 1320
+    capacity: "230g"
+    pricePerUnit: "約5.7円/g"
+    rating: 4.67
+    reviewCount: 15
+    features:
+      - "ブリーチ・カラーによるハイダメージ補修に特化したマスク"
+      - "ノンシリコン処方で集中ケアに向いたパワーマスク"
+      - "本体ボトルタイプで使いやすい設計"
+    pros:
+      - "ブリーチや繰り返しカラーによる強いダメージに対応したい方に向く"
+      - "ノンシリコンで頭皮や毛髪への負担を減らしながらケアできる"
+      - "ダイアンシリーズとまとめて揃えやすい"
+    cons:
+      - "通常のトリートメントより価格が高め"
+      - "ハイダメージ向け設計のためライトなダメージには過剰になりやすい"
+    recommendedFor: "ブリーチ・ハイダメージ髪を集中補修したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2F4580632116943%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10006676%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08869634/4580632117025_1_2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580632116943.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-01"
+        price: 1320
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4580632116943"
+        available: true
+  - rank: 3
     name: "BC クア カラースペシフィック ヘアマスク 500g"
     brand: "シュワルツコフ"
     price: 4048
@@ -60,7 +93,7 @@ products:
     recommendedFor: "カラーリングを繰り返す方・色持ちとダメージケアを両立したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qklvn.3rdw6cc2.g00qklvn.3rdw7141/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymura7200%2Fschwarzkopf-kur-clsphm500%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymura7200%2Fi%2F10009582%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymura7200/cabinet/schwrzkopf/schwarzkopf-spc8.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "オルナオーガニック ヘアトリートメント 180g"
     brand: "ALLNA ORGANIC（イルミルド）"
     price: 2380
@@ -82,7 +115,7 @@ products:
     recommendedFor: "成分・無添加にこだわりたい方・植物由来のナチュラルヘアケアを求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b07gkxh2ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000959%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/ctr/905b07gkxh2ss-20.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "クイーンズバスルーム システムトリートメント Step1 Step2 各240g×2"
     brand: "クイーンズバスルーム"
     price: 6600
@@ -104,7 +137,7 @@ products:
     recommendedFor: "ブリーチ・ハイダメージ毛を本格的にケアしたい方・2ステップのサロンライクなケアを自宅で行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qjlvn.3rdw6daa.g00qjlvn.3rdw7d36/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fque-bath%2F10000082%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fque-bath%2Fi%2F10000082%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/que-bath/cabinet/10259420/imgrc0089577437.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "LUXスーパーリッチシャイン ダメージリペア 洗い流すトリートメント ヘアマスク"
     brand: "ユニリーバ（LUX）"
     price: 2377
@@ -126,14 +159,14 @@ products:
     recommendedFor: "毎日のケアとしてコスパよく続けたい方・香りを楽しみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prvmn.3rdw683e.g00prvmn.3rdw7a5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwich%2Fluxhairmaskset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwich%2Fi%2F10023186%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wich/cabinet/gazou62/luxhairmaskset-1.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "トリートメント フォンダン オレオ リラックス 200mL"
     brand: "ケラスターゼ"
     price: 4400
     capacity: "200mL"
     pricePerUnit: "約22円/mL"
     rating: 4.73
-    reviewCount: 1179
+    reviewCount: 1181
     features:
       - "くせ毛ケアのディシプリンラインのコンディショナータイプ"
       - "髪の広がりを抑えまとまりのある艶やかな仕上がりをもたらす処方"
@@ -153,13 +186,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Falbum-y%2F3474636864867.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 4400
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/album-y_3474636864867"
         available: true
         rating: 4.65
         reviewCount: 37
-  - rank: 7
+  - rank: 8
     name: "スペシャルトリートメント マスク オレオ リラックス 200mL"
     brand: "ケラスターゼ"
     price: 7040
@@ -181,14 +214,14 @@ products:
     recommendedFor: "くせ毛・広がりが悩みの方・湿気に負けないまとまり髪を目指す方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fdp-masqor_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/itempage/dp-masqor_200/new_251121.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "スペシャルトリートメント マスク クロノロジスト 200mL"
     brand: "ケラスターゼ"
     price: 13200
     capacity: "200mL"
     pricePerUnit: "約66円/mL"
     rating: 4.77
-    reviewCount: 1147
+    reviewCount: 1148
     features:
       - "エイジングケア特化のクロノロジストライン集中マスク"
       - "ダメージ補修とエイジングケアを同時にアプローチする処方"
@@ -203,10 +236,10 @@ products:
     recommendedFor: "エイジングケアとダメージ補修を同時にしたい方・カラーやパーマで傷みが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fch-masqc_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/ch-masqc_200/260428new.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
     brand: "ファイントゥデイ（フィーノ）"
-    price: 2340
+    price: 2321
     capacity: "-"
     pricePerUnit: "-"
     rating: 5

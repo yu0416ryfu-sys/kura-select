@@ -1550,6 +1550,19 @@ products:
     expect(result.changed).toBe(false);
     expect(result.content).toBe(content);
   });
+
+  it("name に小数kg容量（例: 3.5kg）が含まれ capacity と同値の場合に蓄積置換しない", () => {
+    // extractCapacityFromItemName("...3.5kg") は小数非対応で "5kg" を返すが、
+    // "5kg" が "3.5kg" 内の小数末尾にある場合はスキップすべき（バグ再現防止）
+    const content = CONFLICT_SAMPLE
+      .replace('"ビオレ 素肌つるるんクレンジングウォーター 300mL"', '"ロイヤルカナン インドア 7+ 室内中高齢猫用 3.5kg"')
+      .replace('capacity: "290mL"', 'capacity: "3.5kg"');
+    const result = fixNameCapacityConflicts(content);
+    expect(result.changed).toBe(false);
+    expect(result.content).toBe(content);
+    // 蓄積バグが起きた場合: name が "3.3.5kg" → "3.3.3.5kg" と悪化する
+    expect(result.content).not.toContain("3.3.5kg");
+  });
 });
 
 describe("analyzeCapacityFromItemName", () => {

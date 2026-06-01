@@ -1,9 +1,9 @@
 ---
 title: "洗濯洗剤 コスパ最強ランキング【2026年版】1回あたり最安10円台も"
-description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉末・ジェルボール別におすすめ9選を紹介。楽天で買えるコスパ最強の洗濯洗剤を探している方必見です。"
+description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉末・ジェルボール別におすすめ10選を紹介。楽天で買えるコスパ最強の洗濯洗剤を探している方必見です。"
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
-updatedAt: "2026-05-31"
+updatedAt: "2026-06-01"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -11,8 +11,8 @@ products:
     price: 1989
     capacity: "1100g×8個"
     pricePerUnit: "約0.23円/g"
-    rating: 4.75
-    reviewCount: 183
+    rating: 4.76
+    reviewCount: 184
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 3978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
         available: true
@@ -43,7 +43,7 @@ products:
     brand: "ライオン（トップ）"
     price: 5130
     capacity: "4kg×3本"
-    pricePerUnit: "約428円/kg"
+    pricePerUnit: "約0.43円/g"
     rating: 4.8
     reviewCount: 215
     features:
@@ -65,7 +65,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou-selection%2Fr5-15080k.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 5550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou-selection_r5-15080k"
         available: true
@@ -98,7 +98,7 @@ products:
     brand: "アリエール（P&G）"
     price: 5020
     capacity: "1kg×6袋"
-    pricePerUnit: "約837円/kg"
+    pricePerUnit: "約0.84円/g"
     rating: 4.75
     reviewCount: 16
     features:
@@ -119,15 +119,37 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b0csfn4l78-20260329.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fririnana%2F1341dc22641.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
-        price: 12150
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b0csfn4l78-20260329"
+        updatedAt: "2026-06-01"
+        price: 12591
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ririnana_1341dc22641"
         available: true
         rating: 0
         reviewCount: 0
   - rank: 5
+    name: "ナノックス ワン スタンダード 詰め替え 1400g×6袋セット"
+    brand: "ライオン（ナノックス ワン）"
+    price: 7900
+    capacity: "1400g×6袋（8,400g）"
+    pricePerUnit: "約0.94円/g"
+    rating: 4.59
+    reviewCount: 37
+    features:
+      - "高濃度処方で少量でもしっかり洗える液体洗剤"
+      - "抗菌・消臭・色変化防止を備えた多機能タイプ"
+      - "6袋まとめ買いセットで購入頻度を抑えやすい"
+    pros:
+      - "6袋セットで大量購入コストを効率よく下げられる"
+      - "高濃度設計で1回あたりの使用量が少なく経済的"
+      - "消臭・抗菌効果も備えており汗臭や部屋干し臭が気になる方にも向く"
+    cons:
+      - "6袋セットのため保管スペースが必要"
+      - "高濃度タイプのため使用量を守らないと過剰使用になりやすい"
+    recommendedFor: "高濃度洗剤をまとめ買いでコスパよく使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7174421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10198614%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11663202/12603758/7262632.jpg?_ex=128x128"
+  - rank: 6
     name: "ハイベック プレミアムドライ 1100g"
     brand: "ハイベック"
     price: 6600
@@ -154,13 +176,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
         rating: 4.75
         reviewCount: 16
-  - rank: 6
+  - rank: 7
     name: "サンベック高級洗剤 1000g"
     brand: "サンベック"
     price: 6380
@@ -182,7 +204,7 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsb1000-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000195%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/18sb.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 8
     name: "海へ Fukii 詰替 380g"
     brand: "がんこ本舗"
     price: 2552
@@ -213,7 +235,7 @@ products:
         price: 4367
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_g0290005set"
         available: true
-  - rank: 8
+  - rank: 9
     name: "海へ Fukii 詰替 380g×3個セット"
     brand: "がんこ本舗"
     price: 7656
@@ -240,13 +262,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fokinawangirls%2Fumihe-fukii3.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 7656
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/okinawangirls_umihe-fukii3"
         available: true
-  - rank: 9
+  - rank: 10
     name: "サンベックドライ洗剤 500g"
     brand: "サンベック"
     price: 3980
@@ -273,7 +295,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftamari-do%2Fli08c865d17f.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 4538
         rating: 0
         reviewCount: 0

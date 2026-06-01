@@ -1,9 +1,9 @@
 ---
 title: "ボディソープ コスパ最強ランキング【2026年版】1g0.87円〜保湿・敏感肌比較"
-description: "ボディソープを1gあたりのコストで比較。最安候補は約0.87円/g（866円/kg換算）。ビオレu・ダヴ・ハダカラ・ミノンなど人気9選を保湿力・洗浄力・コスパで解説。"
+description: "ボディソープを1gあたりのコストで比較。最安候補は約0.87円/g（866円/kg換算）。ビオレu・ダヴ・ハダカラ・ミノンなど人気10選を保湿力・洗浄力・コスパで解説。"
 category: "body-soap"
 publishedAt: "2026-04-30"
-updatedAt: "2026-05-31"
+updatedAt: "2026-06-01"
 products:
   - rank: 1
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
@@ -107,7 +107,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fb0110001.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_b0110001"
         available: true
@@ -120,7 +120,7 @@ products:
     capacity: "115g"
     pricePerUnit: "約11円/g"
     rating: 4.8
-    reviewCount: 322
+    reviewCount: 323
     features:
       - "ボディソープとして使える洗浄料"
       - "継続利用しやすい定番構成"
@@ -140,7 +140,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhealingvillage%2Fmndmrw-kbwt0.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 1227
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/healingvillage_mndmrw-kbwt0"
         available: true
@@ -173,7 +173,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmitsubachi-road%2F20012-4.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 10000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mitsubachi-road_20012-4"
         available: true
@@ -206,13 +206,46 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F1603321.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 880
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_1603321"
         available: true
   - rank: 8
+    name: "キュレル ボディウォッシュ ポンプ 420mL"
+    brand: "花王（キュレル）"
+    price: 900
+    capacity: "420mL"
+    pricePerUnit: "約2.1円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "セラミド機能成分配合で肌のバリア機能を守る処方"
+      - "無香料・無着色・アルコールフリーの低刺激設計"
+      - "赤ちゃんにも使えると謳う敏感肌向け処方"
+    pros:
+      - "乾燥肌・敏感肌の方が選びやすい製薬会社発ブランド"
+      - "アルコールフリーで肌への刺激を抑えたい方に向く"
+      - "ポンプタイプで使い勝手がよく毎日の入浴に取り入れやすい"
+    cons:
+      - "1mLあたりのコストは大容量詰め替えと比べて高め"
+      - "洗浄力は控えめで脂性肌の方には物足りない場合がある"
+    recommendedFor: "乾燥肌・敏感肌の方・家族全員で低刺激のボディソープを使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q8den.3rdw61ea.g00q8den.3rdw7cb4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatsuzakka-plus1%2F4901301289353%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatsuzakka-plus1%2Fi%2F10126445%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/seikatsuzakka-plus1/cabinet/r310-dcitem/0001/4901301289353.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901301289353.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-01"
+        price: 797
+        rating: 4.73
+        reviewCount: 22
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901301289353"
+        available: true
+  - rank: 9
     name: "ミノン 全身シャンプー 泡タイプ 詰め替え 400mL×3袋"
     brand: "第一三共ヘルスケア（ミノン）"
     price: 3300
@@ -234,36 +267,38 @@ products:
     recommendedFor: "敏感肌・アトピー肌の方・赤ちゃんがいる家庭・低刺激にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F68857%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10910706%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/857/68857.jpg?_ex=128x128"
-  - rank: 9
-    name: "KnS 柿のさち 薬用柿渋ボディソープ 450mL"
-    brand: "KnS"
-    price: 2530
+  - rank: 10
+    name: "カウブランド 無添加 泡のボディソープ 詰め替え 450mL"
+    brand: "牛乳石鹸"
+    price: 1840
     capacity: "450mL"
-    pricePerUnit: "約5.6円/mL"
-    rating: 4.42
-    reviewCount: 1205
+    pricePerUnit: "約4.1円/mL"
+    rating: 4.29
+    reviewCount: 7
     features:
-      - "ボディソープとして使える洗浄料"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
+      - "無添加処方の低刺激フォームタイプボディソープ"
+      - "植物性由来成分を使用した詰め替えタイプ"
+      - "カウブランドシリーズの定番ラインナップ"
     pros:
-      - "毎日の入浴ケアに取り入れやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
+      - "無添加・植物性由来成分でデリケートな肌の方にも選びやすい"
+      - "泡タイプで泡立て不要のためすぐに使える"
+      - "詰め替えタイプで継続購入時のコスト管理がしやすい"
     cons:
-      - "香りや洗い上がりの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "毎日の入浴ケアに取り入れやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtvin.3rdw6f25.g00qtvin.3rdw74fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoapmax%2F20004905%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoapmax%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/soapmax/cabinet/20004905_2603.jpg?_ex=128x128"
+      - "泡タイプは液体タイプと比べて内容量あたりの単価が高め"
+      - "泡の濃度は好みが分かれやすい"
+    recommendedFor: "無添加・植物性でデリケート肌に向けたボディソープを選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s7yrn.3rdw6ed5.g00s7yrn.3rdw7990/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmedefun%2F11000090%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmedefun%2Fi%2F10015891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmedefun/cabinet/kane7/imgrc0119036951.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoapmax%2F20005231.html"
-        matchStatus: "matched"
-        updatedAt: "2026-05-27"
-        price: 2420
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soapmax_20005231"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffines-f%2F4901525011488.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-01"
+        price: 397
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fines-f_4901525011488"
         available: true
 tags:
   - "ボディソープ"
