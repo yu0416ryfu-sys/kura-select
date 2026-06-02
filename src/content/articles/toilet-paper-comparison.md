@@ -3,7 +3,7 @@ title: "トイレットペーパー シングル コスパ最強ランキング2
 description: "シングルのトイレットペーパーを1mあたりのコストで徹底比較。最安は1m約0.59円（60ロールまとめ買い時）。長尺タイプ・芯なし・まとめ買い向けを中心に選び方のポイントも解説します。"
 category: "toilet-paper"
 publishedAt: "2024-11-01"
-updatedAt: "2026-06-01"
+updatedAt: "2026-06-02"
 products:
   - rank: 1
     name: "森を守ろう トイレットペーパー シングル"
@@ -77,7 +77,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.63円/m"
     rating: 4.66
-    reviewCount: 2699
+    reviewCount: 2703
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"

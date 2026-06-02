@@ -3,7 +3,7 @@ title: "歯間ブラシ コスパ比較【2026年版】おすすめ10選"
 description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシをサイズ・1本あたり価格で徹底比較。L字型とI字型の違いや選び方も解説。まとめ買いでコスパを上げたい方に最適な10選。"
 category: "toothpaste"
 publishedAt: "2026-05-27"
-updatedAt: "2026-06-01"
+updatedAt: "2026-06-02"
 draft: false
 products:
   - rank: 1
@@ -198,7 +198,7 @@ products:
     capacity: "250m"
     pricePerUnit: "約12円/m"
     rating: 4.7
-    reviewCount: 469
+    reviewCount: 471
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

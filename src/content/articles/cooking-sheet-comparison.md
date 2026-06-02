@@ -3,7 +3,7 @@ title: "クッキングシート コスパ比較【2026年版】10選"
 description: "クッキングシートを1mあたりの価格で比較。ロール・繰り返し使えるタイプなど10選を、家庭用と業務用の違いや幅・長さの選び方とともに解説します。"
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
-updatedAt: "2026-06-01"
+updatedAt: "2026-06-02"
 products:
   - rank: 1
     name: "フジ クッキングシート 業務用 33cm幅"
@@ -31,7 +31,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F373600.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-06-01"
         price: 12980
         rating: 4.53
@@ -64,7 +64,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4902534799398.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-06-01"
         price: 2558
         rating: 0
@@ -97,7 +97,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901670109634.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-06-01"
         price: 702
         rating: 4
@@ -130,7 +130,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Far-06018k.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-06-01"
         price: 21390
         rating: 0
@@ -144,7 +144,7 @@ products:
     capacity: "100枚入り"
     pricePerUnit: "約18円/枚"
     rating: 4.6
-    reviewCount: 93
+    reviewCount: 96
     features:
       - "PFAS・フッ素フリーの無漂白クッキングシート"
       - "フライパンや蒸し料理・包み焼きに対応した多用途タイプ"

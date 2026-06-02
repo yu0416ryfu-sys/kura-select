@@ -3,7 +3,7 @@ title: "ジェルボール洗剤 コスパ最強ランキング【2026年版】1
 description: "ジェルボール洗剤を1個あたりのコストで徹底比較。アリエール・アタックZERO・ボールドなど人気商品を洗浄力・香り・コスパで解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
-updatedAt: "2026-06-01"
+updatedAt: "2026-06-02"
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"
@@ -12,7 +12,7 @@ products:
     capacity: "1100g×8個セット"
     pricePerUnit: "約0.23円/g"
     rating: 4.76
-    reviewCount: 184
+    reviewCount: 185
     features:
       - "ベビーフローラルの心地よい香りが特徴の液体洗剤"
       - "洗浄力・消臭・抗菌の三機能を一本で実現"
@@ -63,13 +63,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Fr5-15090k.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Fr5-15080k.html"
         matchStatus: "pending"
         updatedAt: "2026-06-01"
-        price: 6390
-        rating: 5
-        reviewCount: 6
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_r5-15090k"
+        price: 5130
+        rating: 4.59
+        reviewCount: 64
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_r5-15080k"
         available: true
   - rank: 3
     name: "さらさ 洗濯洗剤 詰め替え 6個セット"
@@ -111,7 +111,7 @@ products:
     capacity: "1490g"
     pricePerUnit: "約5.3円/g"
     rating: 4.55
-    reviewCount: 257
+    reviewCount: 258
     features:
       - "植物由来成分配合の無添加液体洗濯洗剤"
       - "すすぎ1回対応で水道代と時間を節約できる"

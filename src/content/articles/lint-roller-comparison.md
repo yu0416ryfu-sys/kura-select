@@ -3,7 +3,7 @@ title: "粘着クリーナー コスパ最強ランキング【2026年版】1巻
 description: "粘着クリーナー（コロコロ）を1巻あたりのコストで徹底比較。ニトムズ・アイリスオーヤマ・3M・レックなど人気10選を粘着力・コスパで解説します。"
 category: "lint-roller"
 publishedAt: "2026-05-01"
-updatedAt: 2026-06-01
+updatedAt: "2026-06-02"
 products:
   - rank: 1
     name: "粘着クリーナー スペアテープ 粘着王 お得な3巻入"
@@ -50,33 +50,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tiz9n.3rdw6353.g00tiz9n.3rdw771a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprotoolshop%2F4547452231119%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprotoolshop%2Fi%2F10170127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/protoolshop/cabinet/119/4547452231119.jpg?_ex=128x128"
   - rank: 3
-    name: "アイム ミラクルくるsoujikko 粘着クリーナー"
-    brand: "アイム"
-    price: 4607
-    capacity: "18巻"
-    pricePerUnit: "約256円/巻"
-    rating: 4.87
-    reviewCount: 30
-    features:
-      - "カーペットや衣類のホコリ取りに使える"
-      - "本体または替えテープとして選べる"
-      - "日常掃除に取り入れやすい"
-    pros:
-      - "手軽に掃除できる"
-      - "ペット毛や髪の毛対策に向く"
-      - "ストックしやすい"
-    cons:
-      - "対応サイズの確認が必要"
-      - "床材によって使い分けが必要"
-    recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0k0n.3rdw6b8e.g00u0k0n.3rdw7ca2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimximx%2F4978406020464-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimximx%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/imximx/cabinet/compass1739768026.jpg?_ex=128x128"
-  - rank: 4
     name: "レック 激コロ スゴ技カット スペアテープ 3巻入り"
     brand: "レック"
-    price: 790
+    price: 690
     capacity: "3巻（1巻70周）"
-    pricePerUnit: "約263円/巻"
+    pricePerUnit: "約230円/巻"
     rating: 5
     reviewCount: 2
     features:
@@ -98,12 +76,34 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fb60033.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 293
         rating: 0
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_b60033"
         available: true
+  - rank: 4
+    name: "アイム ミラクルくるsoujikko 粘着クリーナー"
+    brand: "アイム"
+    price: 4607
+    capacity: "18巻"
+    pricePerUnit: "約256円/巻"
+    rating: 4.87
+    reviewCount: 30
+    features:
+      - "カーペットや衣類のホコリ取りに使える"
+      - "本体または替えテープとして選べる"
+      - "日常掃除に取り入れやすい"
+    pros:
+      - "手軽に掃除できる"
+      - "ペット毛や髪の毛対策に向く"
+      - "ストックしやすい"
+    cons:
+      - "対応サイズの確認が必要"
+      - "床材によって使い分けが必要"
+    recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0k0n.3rdw6b8e.g00u0k0n.3rdw7ca2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimximx%2F4978406020464-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimximx%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/imximx/cabinet/compass1739768026.jpg?_ex=128x128"
   - rank: 5
     name: "ニトムズ コロコロ スペアテープ フロアクリン 3巻入り"
     brand: "ニトムズ"
@@ -131,7 +131,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4904140583538.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 526
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4904140583538"
         available: true

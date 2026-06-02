@@ -3,7 +3,7 @@ title: "トイレットペーパー ダブル コスパ最強ランキング【2
 description: "ダブルのトイレットペーパーを1mあたりのコストで比較。2倍巻き・3倍巻き・再生紙・肌触り重視のおすすめ10選を紹介します。交換頻度を減らしたい方にも。"
 category: "toilet-paper"
 publishedAt: "2026-05-16"
-updatedAt: "2026-06-01"
+updatedAt: "2026-06-02"
 products:
   - rank: 1
     name: "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール×4ロール×12パック 1"
@@ -45,7 +45,7 @@ products:
     capacity: "27.5m×12ロール×8パック（96ロール）"
     pricePerUnit: "約1.2円/m"
     rating: 4.58
-    reviewCount: 3480
+    reviewCount: 3481
     features:
       - "再生紙を使ったダブルタイプ"
       - "無地・無印刷で日常使いしやすい"
@@ -165,8 +165,8 @@ products:
     price: 6383
     capacity: "45m×12ロール×6個"
     pricePerUnit: "約2.0円/m"
-    rating: 4.51
-    reviewCount: 587
+    rating: 4.52
+    reviewCount: 588
     features:
       - "パルプ100%の柔らかなダブルタイプ"
       - "エリエールブランドの高品質紙質"

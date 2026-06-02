@@ -3,7 +3,7 @@ title: "使い捨てマスク コスパ最強ランキング【2026年版】1枚
 description: "使い捨て不織布マスクを1枚あたりのコストで徹底比較。超快適マスク・i:na・アイリスオーヤマ・バイキングなど人気10選を快適性・コスパで解説します。"
 category: "mask"
 publishedAt: "2026-05-03"
-updatedAt: 2026-06-01
+updatedAt: "2026-06-02"
 products:
   - rank: 1
     name: "立体不織布マスク バイカラー 50枚"
@@ -12,7 +12,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約5.3円/枚"
     rating: 4.19
-    reviewCount: 22051
+    reviewCount: 22052
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -34,7 +34,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約6.0円/枚"
     rating: 4.17
-    reviewCount: 3702
+    reviewCount: 3703
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -173,8 +173,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-ife-reborn%2Fmask120kfst.html"
-        matchStatus: "pending"
-        updatedAt: "2026-05-31"
+        matchStatus: "matched"
+        updatedAt: "2026-06-01"
         price: 2680
         rating: 5
         reviewCount: 3
@@ -229,7 +229,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft0090-01-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 2163
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t0090-01-a"
         available: true
@@ -262,7 +262,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakakabeshop%2F4967576481694.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-31"
+        updatedAt: "2026-06-01"
         price: 378
         rating: 4.67
         reviewCount: 27

@@ -3,7 +3,7 @@ title: "おしりふき コスパ最強ランキング【2026年版】10選"
 description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比較。ムーニー、パンパース、グーン、レックなど人気メーカーの商品を肌優しさ・容量・単価で徹底比較。"
 category: "baby-wipes"
 publishedAt: "2026-05-17"
-updatedAt: "2026-06-01"
+updatedAt: "2026-06-02"
 draft: false
 products:
   - rank: 1
@@ -48,7 +48,7 @@ products:
     capacity: "80枚×40個"
     pricePerUnit: "約1.3円/枚"
     rating: 4.77
-    reviewCount: 7415
+    reviewCount: 7419
     features:
       - "天然由来成分のシアバター、アロエエキス配合"
       - "99%が水分で肌に優しい処方"
@@ -73,7 +73,7 @@ products:
         matchStatus: "matched"
         updatedAt: "2026-06-01"
         rating: 4.78
-        reviewCount: 1366
+        reviewCount: 1368
   - rank: 3
     name: "おしりふき ふんわり 菌99.9除去 大容量"
     brand: "レック"
@@ -104,7 +104,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_4903320482647"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-06-01"
+        rating: 4.68
+        reviewCount: 646
   - rank: 4
     name: "ムーニー おしりふき やわらか素材 詰め替え"
     brand: "ムーニー"
@@ -137,7 +139,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4903111159802-4"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-06-01"
+        rating: 4.56
+        reviewCount: 9
   - rank: 5
     name: "おしりふき 手口ふき シンプル"
     brand: "and mom"
@@ -145,7 +149,7 @@ products:
     capacity: "80枚×24個"
     pricePerUnit: "約2.1円/枚"
     rating: 4.52
-    reviewCount: 1293
+    reviewCount: 1294
     features:
       - "綿99.5%のパフ素材で優しい触り心地"
       - "リサイクル繊維配合で環境配慮"
@@ -176,7 +180,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.3円/枚"
     rating: 4.84
-    reviewCount: 2617
+    reviewCount: 2619
     features:
       - "99.9%の純水成分で肌に優しい"
       - "厚手シートで吸収性が優れている"
@@ -242,7 +246,7 @@ products:
     capacity: "54枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.61
-    reviewCount: 3748
+    reviewCount: 3750
     features:
       - "菌を99.9%除去する除菌処理"
       - "厚手タイプで吸収性が高い"
@@ -275,7 +279,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.41
-    reviewCount: 1600
+    reviewCount: 1601
     features:
       - "トイレに流せる素材で処理が簡単"
       - "菌を99.9%除去する除菌効果"

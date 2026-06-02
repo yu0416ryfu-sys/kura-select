@@ -65,7 +65,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsake-premoa%2F4936613072409.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-06-01"
         price: 162
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sake-premoa_4936613072409"
@@ -196,14 +196,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fi-shop777%2F20230405-menbo.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Famethystwebshop%2F1000.html"
         matchStatus: "pending"
         updatedAt: "2026-06-01"
-        price: 90
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/i-shop777_20230405-menbo"
+        price: 440
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/amethystwebshop_1000"
         available: true
-        rating: 4.63
-        reviewCount: 84
+        rating: 0
+        reviewCount: 1
   - rank: 7
     name: "アメジスト 抗菌綿棒"
     brand: "大衛"
