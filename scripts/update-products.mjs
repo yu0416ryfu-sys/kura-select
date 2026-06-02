@@ -1667,6 +1667,17 @@ const DIAPER_ACCESSORY_EXCLUDE_TERMS = [
 ];
 
 function getArticleSpecificAdditionRule(category, baseKeyword) {
+  if (category === 'toilet-cleaner' && /掃除シート|クリーナーシート|お掃除シート/.test(baseKeyword)) {
+    return {
+      keywords: ['トイレ掃除シート', '流せる トイレクリーナー シート', 'ミチガエル トイレクリーナー'],
+      include: ['トイレ掃除', 'トイレクリーナー', 'トイレ用', 'トイレクイックル', 'ミチガエル', 'クリンぱ'],
+      requiredGroups: [['シート']],
+      exclude: ['ペット', '犬', '猫', 'おしりふき', '尿とり', '介護', '便座カバー', 'ブラシ', 'スプレー', '液体', '洗剤'],
+      units: ['枚', '個', 'パック'],
+      minScore: 4,
+    };
+  }
+
   if (category === 'toilet-paper' && /シングル/.test(baseKeyword)) {
     return {
       keywords: ['トイレットペーパー シングル', 'トイレットロール シングル', 'シングル 長尺 トイレットペーパー'],
