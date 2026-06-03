@@ -3,7 +3,7 @@ title: "食器用洗剤 コスパ最強ランキング【2026年版】1L257円�
 description: "食器用洗剤を容量あたりのコストで比較。最安候補は業務用大容量で約257円/L。ジョイ・キュキュット・ヤシノミ洗剤など10選を油汚れ・手荒れ対策・コスパの3軸で比較します。"
 category: "dish-detergent"
 publishedAt: "2026-04-29"
-updatedAt: "2026-06-02"
+updatedAt: "2026-06-03"
 products:
   - rank: 1
     name: "ライオン CHARMY Magica 除菌＋ プロフェッショナル 無香料 ハーバ"
@@ -54,7 +54,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F501277.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 1637
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_501277"
         available: true
@@ -87,7 +87,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9847345.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 2980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9847345"
         available: true
@@ -120,7 +120,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301429148.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 5035
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301429148"
         available: true
@@ -185,8 +185,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgyy-shop%2F11019-frosch-aloe-vera-dish-detergent-1000mlx4.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-01"
+        matchStatus: "matched"
+        updatedAt: "2026-06-02"
         price: 2799
         rating: 0
         reviewCount: 0
@@ -241,7 +241,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcooking-clocca%2Fsomali-40542.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cooking-clocca_somali-40542"
         available: true

@@ -3,7 +3,7 @@ title: "歯間ブラシ コスパ比較【2026年版】おすすめ10選"
 description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシをサイズ・1本あたり価格で徹底比較。L字型とI字型の違いや選び方も解説。まとめ買いでコスパを上げたい方に最適な10選。"
 category: "toothpaste"
 publishedAt: "2026-05-27"
-updatedAt: "2026-06-02"
+updatedAt: "2026-06-03"
 draft: false
 products:
   - rank: 1
@@ -198,7 +198,7 @@ products:
     capacity: "250m"
     pricePerUnit: "約12円/m"
     rating: 4.7
-    reviewCount: 471
+    reviewCount: 472
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -317,7 +317,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F3008301set.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 2392
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_3008301set"
         available: true

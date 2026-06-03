@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fninestars%2Fse4-br.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 3408
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ninestars_se4-br"
         available: true
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdistore%2Feb50rx-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 8480
         rating: 0
         reviewCount: 1
@@ -187,8 +187,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksdenki%2F4549980443545.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
-        price: 968
+        updatedAt: "2026-06-02"
+        price: 899
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksdenki_4549980443545"
         available: true
         rating: 4.71
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foralb-braun%2Fultimate2-4-p.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 8338
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oralb-braun_ultimate2-4-p"
         available: true
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fphilips-japan%2Fhx9043.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 4980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/philips-japan_hx9043"
         available: true

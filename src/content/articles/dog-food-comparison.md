@@ -3,7 +3,7 @@ title: "ドッグフード コスパ比較【2026年版】おすすめ10選"
 description: "アイムス・ニュートロ・国産無添加など人気ドライドッグフードを1g単価で徹底比較。成犬・小型犬・大型犬向け選び方ガイドとまとめ買いのコスパポイントも解説。おすすめ10選。"
 category: "dog-food"
 publishedAt: "2026-05-27"
-updatedAt: "2026-06-02"
+updatedAt: "2026-06-03"
 draft: true
 products:
   - rank: 1
@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhoundcom%2Fnh-12282.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpet-ruffruff%2F4521254012770.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 3080
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/houndcom_nh-12282"
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pet-ruffruff_4521254012770"
         available: true
   - rank: 2
     name: "カークランド ドッグフード チキン ライス 成犬用 12kg"
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos01590.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 6169
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos01590"
         available: true
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F0019014614196.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_0019014614196"
         available: true
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwannyan%2F9763052.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 21529
         rating: 4.83
         reviewCount: 12
@@ -198,8 +198,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
-        price: 5069
+        updatedAt: "2026-06-02"
+        price: 5319
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
         rating: 4.5
@@ -231,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 8980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
@@ -264,7 +264,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F0813369001904.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 5830
         rating: 4.72
         reviewCount: 97
@@ -297,7 +297,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600b.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 3000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600b"
         available: true
@@ -310,7 +310,7 @@ products:
     capacity: "1kg"
     pricePerUnit: "約3750円/kg"
     rating: 4.78
-    reviewCount: 1570
+    reviewCount: 1571
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

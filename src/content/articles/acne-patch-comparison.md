@@ -3,7 +3,7 @@ title: "ニキビパッチ コスパ比較【2026年版】おすすめ10選"
 description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚あたり価格で徹底比較。ヒドロコロイド素材の選び方・薄さ・目立ちにくさを解説。まとめ買いでコスパを上げるおすすめ10選。"
 category: "acne-patch"
 publishedAt: "2026-05-27"
-updatedAt: "2026-06-02"
+updatedAt: "2026-06-03"
 draft: false
 products:
   - rank: 1
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvirginbeautyshop%2Fta-the-sp.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 860
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/virginbeautyshop_ta-the-sp"
         available: true
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580173961293.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 506
         rating: 0
         reviewCount: 2
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4560461866660.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 935
         rating: 0
         reviewCount: 2
@@ -198,7 +198,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4580173961811.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 968
         rating: 0
         reviewCount: 0
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvely-vely%2F8809559624031yt.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/vely-vely_8809559624031yt"
         available: true

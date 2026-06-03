@@ -3,7 +3,7 @@ title: "ジェルボール洗剤 コスパ最強ランキング【2026年版】1
 description: "ジェルボール洗剤を1個あたりのコストで徹底比較。アリエール・アタックZERO・ボールドなど人気商品を洗浄力・香り・コスパで解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
-updatedAt: "2026-06-02"
+updatedAt: "2026-06-03"
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 3978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
         available: true
@@ -65,7 +65,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Fr5-15080k.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 5130
         rating: 4.59
         reviewCount: 64
@@ -98,7 +98,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhikaritv%2F2010126844.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 8280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010126844"
         available: true
@@ -153,7 +153,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -225,6 +225,17 @@ products:
     recommendedFor: "洗濯頻度が高い家庭・大容量まとめ買いでコスパを最大化したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7091429%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10060352%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/thum/naosi/syoumou_set/7091429_khome.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4902875120844.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-02"
+        price: 4807
+        rating: 4.3
+        reviewCount: 10
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4902875120844"
+        available: true
   - rank: 9
     name: "おまかせドライ"
     brand: "ファーファ"
@@ -252,7 +263,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F622008a.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_622008a"
         available: true
@@ -264,8 +275,8 @@ products:
     price: 3729
     capacity: "500ml"
     pricePerUnit: "約7.5円/ml"
-    rating: 4.53
-    reviewCount: 264
+    rating: 4.54
+    reviewCount: 265
     features:
       - "メイクブラシ専用の液体クリーニング洗剤"
       - "天然由来成分配合でブラシの毛並みを傷めない設計"
@@ -285,7 +296,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurunavi%2F1806588.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 25000
         rating: 0
         reviewCount: 0

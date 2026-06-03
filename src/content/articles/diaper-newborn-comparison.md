@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkimurasuzuka-store%2Fyahoo20260117-b01cg1tb4q.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 1640
         rating: 0
         reviewCount: 0
@@ -65,7 +65,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301437693x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 6660
         rating: 4.88
         reviewCount: 8
@@ -118,13 +118,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-171313-2.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02652.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
-        price: 4191
-        rating: 4.88
-        reviewCount: 8
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-171313-2"
+        updatedAt: "2026-06-02"
+        price: 4449
+        rating: 4.67
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos02652"
         available: true
   - rank: 5
     name: "パンパース テープ新生児 144枚"
@@ -197,7 +197,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-171313-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 4191
         rating: 4.88
         reviewCount: 8

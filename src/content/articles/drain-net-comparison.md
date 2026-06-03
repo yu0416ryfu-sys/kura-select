@@ -3,7 +3,7 @@ title: "排水口ネット おすすめ10選｜水切りネットをコスパで
 description: "キッチンシンクの排水口ネット（水切りネット）おすすめ10選をコスパで比較。ストッキングタイプ100枚入りを中心に、1枚あたりの単価・素材・使い勝手の違いをわかりやすく解説します。"
 category: "drain-net"
 publishedAt: "2026-05-29"
-updatedAt: "2026-06-02"
+updatedAt: "2026-06-03"
 draft: false
 products:
   - rank: 1
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fbk2707.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 43924
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_bk2707"
         available: true
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaneshinshojiwebshop%2Fb076mmryqh300.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaneshinshojiwebshop_b076mmryqh300"
         available: true
@@ -97,7 +97,7 @@ products:
   - rank: 4
     name: "システムポリマー ゴム付 不織布 水切り袋 浅型排水口用 100枚 水きりネット 三"
     brand: "システムポリマー"
-    price: 493
+    price: 492
     capacity: "100枚"
     pricePerUnit: "約4.9円/枚"
     rating: 4.5
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fye3331.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 467
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_ye3331"
         available: true
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyh-beans%2F1339654.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 548
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_1339654"
         available: true
@@ -262,11 +262,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faprice%2F4902493440119.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsyougarden%2Fds-2258588.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
-        price: 324
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/aprice_4902493440119"
+        updatedAt: "2026-06-02"
+        price: 20620
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/syougarden_ds-2258588"
         available: true
         rating: 0
         reviewCount: 0
@@ -297,7 +297,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhak00a074f.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 1168
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hak00a074f"
         available: true

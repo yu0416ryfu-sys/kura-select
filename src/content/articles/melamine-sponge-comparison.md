@@ -3,7 +3,7 @@ title: "メラミンスポンジ コスパ比較【2026年版】キューブ型4
 description: "メラミンスポンジを1個あたりのコストで比較。キューブ型・大容量・日本製など、キッチンや水まわり掃除に使いやすい商品を選びます。"
 category: "melamine-sponge"
 publishedAt: "2026-06-03"
-updatedAt: 2026-06-03
+updatedAt: "2026-06-03"
 draft: false
 products:
   - rank: 1
@@ -28,6 +28,17 @@ products:
     recommendedFor: "小型の使い切りスポンジを常備したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fhx0148%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10275002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/100item/100item08/hx0148_2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkawauchi%2F2kkb50088.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-02"
+        price: 139
+        rating: 5
+        reviewCount: 5
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kawauchi_2kkb50088"
+        available: true
   - rank: 2
     name: "ピカ王 ジュニア メラミンスポンジ"
     brand: "ピカ王"
@@ -50,6 +61,17 @@ products:
     recommendedFor: "まずは定番サイズを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F455149%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10204731%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_wise1/455149.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcolorfulbox%2F455149.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-02"
+        price: 328
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/colorfulbox_455149"
+        available: true
   - rank: 3
     name: "毎日とりかえメラミンスポンジ"
     brand: "アイセン"
@@ -72,6 +94,17 @@ products:
     recommendedFor: "日常のちょこっと掃除に使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rj2rn.3rdw6867.g00rj2rn.3rdw7fa5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvita-spugna%2Fas-016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvita-spugna%2Fi%2F10000435%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/vita-spugna/cabinet/03174619/03242713/as-016_image.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnitori-net%2F2111200023626-0000000000003.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-02"
+        price: 897
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nitori-net_2111200023626-0000000000003"
+        available: true
   - rank: 4
     name: "レック 激落ちくん メラミンスポンジ 工場用"
     brand: "レック（激落ちくん）"
@@ -94,6 +127,17 @@ products:
     recommendedFor: "メラミンスポンジをまとめて備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn68n.3rdw6313.g00qn68n.3rdw75ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4903320048027%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F11156091%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/pics/674/4903320048027.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fyy5504.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-02"
+        price: 5660
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_yy5504"
+        available: true
 tags:
   - "メラミンスポンジ おすすめ"
   - "メラミンスポンジ コスパ"

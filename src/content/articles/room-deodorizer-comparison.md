@@ -3,7 +3,7 @@ title: "消臭剤 コスパ最強ランキング【2026年版】1mLあたり最�
 description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・リセッシュ・無香空間・ファブリーズなど人気10選を香り・持続力・コスパで解説します。"
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
-updatedAt: "2026-06-02"
+updatedAt: "2026-06-03"
 products:
   - rank: 1
     name: "サライウォーター 大容量 次亜塩素酸水"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fg-sarai%2F10000080.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 6996
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/g-sarai_10000080"
         available: true
@@ -65,7 +65,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F4580361060036.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 7700
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_4580361060036"
         available: true
@@ -98,11 +98,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F103-4901301388544.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F113-8544-001.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
-        price: 661
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_103-4901301388544"
+        updatedAt: "2026-06-02"
+        price: 720
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_113-8544-001"
         available: true
         rating: 0
         reviewCount: 0
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7288422.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 3080
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7288422"
         available: true
@@ -263,7 +263,7 @@ products:
       - "使用場所の注意書き確認が必要"
     recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/10000009_page01_01.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/10972805/10000009_sale-thumb.jpg?_ex=128x128"
   - rank: 10
     name: "無香空間 本体 315g"
     brand: "小林製薬"
@@ -292,7 +292,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072098813.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 350
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987072098813"
         available: true

@@ -3,7 +3,7 @@ title: "ペットシーツ レギュラーサイズおすすめ10選【コスパ
 description: "犬猫用ペットシーツのレギュラーサイズを1枚あたりの単価で比較。薄型・厚型・まとめ買い向けから、交換頻度や保管場所に合う選び方を解説します。"
 category: "pet-sheet"
 publishedAt: "2026-05-31"
-updatedAt: 2026-06-02
+updatedAt: 2026-06-03
 draft: false
 products:
   - rank: 1
@@ -27,7 +27,7 @@ products:
       - "購入時にレギュラーサイズを選択しているか確認が必要"
     recommendedFor: "薄型をこまめに交換して使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10025751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10025751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/img016/55103458ku_1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/event_img/pup10/p10_img_01/imgrc0115456482.jpg?_ex=128x128"
   - rank: 2
     name: "ペットシーツ 薄型 レギュラー 業務用"
     brand: "HAMI PET"
@@ -35,7 +35,7 @@ products:
     capacity: "レギュラー 1200枚（100枚×12パック）"
     pricePerUnit: "約4.98円/枚"
     rating: 4.6
-    reviewCount: 1509
+    reviewCount: 1510
     features:
       - "薄型のペット用トイレシート"
       - "パック分けされたまとめ買い向け仕様"
@@ -57,7 +57,7 @@ products:
     capacity: "レギュラー 800枚"
     pricePerUnit: "約5.6円/枚"
     rating: 4.49
-    reviewCount: 45194
+    reviewCount: 45196
     features:
       - "薄型のペット用トイレシート"
       - "レギュラーサイズを選べる"

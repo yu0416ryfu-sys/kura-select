@@ -3,7 +3,7 @@ title: "ボディソープ コスパ最強ランキング【2026年版】1g0.87�
 description: "ボディソープを1gあたりのコストで比較。最安候補は約0.87円/g（866円/kg換算）。ビオレu・ダヴ・ハダカラ・ミノンなど人気10選を保湿力・洗浄力・コスパで解説。"
 category: "body-soap"
 publishedAt: "2026-04-30"
-updatedAt: "2026-06-01"
+updatedAt: "2026-06-03"
 products:
   - rank: 1
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
@@ -107,7 +107,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fb0110001.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_b0110001"
         available: true
@@ -119,8 +119,8 @@ products:
     price: 1288
     capacity: "115g"
     pricePerUnit: "約11円/g"
-    rating: 4.8
-    reviewCount: 323
+    rating: 4.79
+    reviewCount: 324
     features:
       - "ボディソープとして使える洗浄料"
       - "継続利用しやすい定番構成"
@@ -140,7 +140,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhealingvillage%2Fmndmrw-kbwt0.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 1227
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/healingvillage_mndmrw-kbwt0"
         available: true
@@ -173,7 +173,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmitsubachi-road%2F20012-4.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 10000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mitsubachi-road_20012-4"
         available: true
@@ -206,7 +206,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F1603321.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 880
         rating: 0
         reviewCount: 0
@@ -239,7 +239,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901301289353.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 797
         rating: 4.73
         reviewCount: 22
@@ -292,13 +292,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffines-f%2F4901525011488.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffinespharma%2F4901525011488.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
-        price: 397
-        rating: 0
-        reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fines-f_4901525011488"
+        updatedAt: "2026-06-02"
+        price: 418
+        rating: 5
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/finespharma_4901525011488"
         available: true
 tags:
   - "ボディソープ"

@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 3978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
         available: true
@@ -65,7 +65,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou-selection%2Fr5-15080k.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 5550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou-selection_r5-15080k"
         available: true
@@ -121,8 +121,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fririnana%2F1341dc22641.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-01"
-        price: 12591
+        updatedAt: "2026-06-02"
+        price: 12581
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ririnana_1341dc22641"
         available: true
         rating: 0
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -297,7 +297,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftamari-do%2Fli08c865d17f.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 4538
         rating: 0
         reviewCount: 0

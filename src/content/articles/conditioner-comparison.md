@@ -54,7 +54,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-ypp%2F3799-0026554.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 6280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-ypp_3799-0026554"
         available: true
@@ -109,7 +109,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffreefeel%2Fdmml006226x006240.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 3880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/freefeel_dmml006226x006240"
         available: true
@@ -175,7 +175,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftuuhan-tamashop%2F4902111773926.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 360
         rating: 0
         reviewCount: 0
@@ -208,7 +208,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk0602-a2510.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-02"
         price: 1556
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk0602-a2510"
         available: true
