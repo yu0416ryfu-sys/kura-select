@@ -2556,9 +2556,42 @@ async function asyncPool(items, concurrency, worker) {
   return results;
 }
 
-async function processArticle(file, articlesDir, zeroState) {
+function formatProgressName(name) {
+  return name.length > 45 ? `${name.slice(0, 45)}...` : name;
+}
+
+function createProgressLogger(totalFiles) {
+  let completedFiles = 0;
+  return {
+    startArticle(file, index, productCount) {
+      console.log(`📄 [${index + 1}/${totalFiles}] 開始 ${file} (${productCount}商品)`);
+    },
+    product(file, index, productIndex, productCount, name) {
+      console.log(`   [${index + 1}/${totalFiles}] ${file} 商品 ${productIndex + 1}/${productCount}: ${formatProgressName(name)}`);
+    },
+    detail(file, index, line) {
+      const prefix = `   [${index + 1}/${totalFiles}] ${file}`;
+      for (const part of String(line).split(/\r?\n/)) {
+        if (part === '') {
+          console.log('');
+        } else {
+          console.log(`${prefix} ${part}`);
+        }
+      }
+    },
+    finishArticle(file, index, stats) {
+      completedFiles += 1;
+      console.log(`✅ [${index + 1}/${totalFiles}] 完了 ${file} (完了数 ${completedFiles}/${totalFiles}): ${stats}`);
+    },
+  };
+}
+
+async function processArticle(file, articlesDir, zeroState, progress, index) {
   const result = createArticleResult(file);
-  const log = line => result.logs.push(line);
+  const log = (line, { print = true } = {}) => {
+    result.logs.push(line);
+    if (print) progress?.detail(file, index, line);
+  };
   const filePath = join(articlesDir, file);
   const content = readFileSync(filePath, 'utf-8');
   const productNames = extractProductNames(content);
@@ -2566,17 +2599,20 @@ async function processArticle(file, articlesDir, zeroState) {
   const articleTitle = extractArticleTitle(content) ?? '';
   const preferUnit = getArticleTargetUnit(basename(file, '.md'));
 
-  log(`\n📄 ${file} (${productNames.length}商品)`);
+  progress?.startArticle(file, index, productNames.length);
+  log(`\n📄 ${file} (${productNames.length}商品)`, { print: false });
 
   if (productNames.length === 0) {
     log('   → 商品なし。スキップ');
+    progress?.finishArticle(file, index, '商品なし');
     return result;
   }
 
   let updatedContent = content;
   const zeroSearchDeletedHistoryItems = [];
 
-  for (const name of productNames) {
+  for (const [productIndex, name] of productNames.entries()) {
+    progress?.product(file, index, productIndex, productNames.length, name);
     const shortName = name.slice(0, 45);
     let existingItemRef = null;
     try {
@@ -2996,6 +3032,7 @@ async function processArticle(file, articlesDir, zeroState) {
     log(`   💾 更新完了（updatedAt: ${today}、バックアップ: ${basename(filePath)}.bak）`);
   }
   log(`   📊 記事集計: 更新 ${result.stats.changed}件 / 変更なし ${result.stats.unchanged}件 / capacity修正 ${result.stats.capacityChanged}件 / capacity取得不可 ${result.stats.capacityMissing}件 / 削除 ${result.stats.deleted}件 / 失敗 ${result.stats.failed}件`);
+  progress?.finishArticle(file, index, `更新 ${result.stats.changed} / 変更なし ${result.stats.unchanged} / 失敗 ${result.stats.failed}`);
 
   return result;
 }
@@ -3017,11 +3054,8 @@ async function main() {
   if (DRY_RUN) console.log('⚠ --dry-run モード: ファイルは書き換えません\n');
 
   const zeroState = { count: 0 };
-  const articleResults = await asyncPool(files, CONCURRENCY, file => processArticle(file, articlesDir, zeroState));
-
-  for (const result of articleResults) {
-    result.logs.forEach(line => console.log(line));
-  }
+  const progress = createProgressLogger(files.length);
+  const articleResults = await asyncPool(files, CONCURRENCY, (file, index) => processArticle(file, articlesDir, zeroState, progress, index));
 
   const totals = articleResults.reduce((acc, result) => {
     acc.success += result.stats.success;

@@ -101,6 +101,26 @@ function todayJst() {
   return new Date().toISOString().slice(0, 10);
 }
 
+function formatProgressName(name) {
+  return name.length > 45 ? `${name.slice(0, 45)}...` : name;
+}
+
+function createProgressLogger(totalFiles) {
+  let completedFiles = 0;
+  return {
+    startArticle(file, index, productCount) {
+      console.log(`📄 [${index + 1}/${totalFiles}] 開始 ${file} (${productCount}商品)`);
+    },
+    product(file, index, productIndex, productCount, name) {
+      console.log(`   [${index + 1}/${totalFiles}] ${file} 商品 ${productIndex + 1}/${productCount}: ${formatProgressName(name)}`);
+    },
+    finishArticle(file, index, status) {
+      completedFiles += 1;
+      console.log(`✅ [${index + 1}/${totalFiles}] 完了 ${file} (完了数 ${completedFiles}/${totalFiles}): ${status}`);
+    },
+  };
+}
+
 function reportPath() {
   const stamp = new Date().toISOString().replace(/[-:]/g, "").replace(/\..+$/, "").replace("T", "-");
   return join(REPORTS_DIR, `yahoo-products-${DRY_RUN ? "dry-run" : "write"}-${stamp}.md`);
@@ -139,11 +159,11 @@ function parseProducts(content) {
 
 // ─── 並列処理プール ──────────────────────────────────────────────────────────
 
-async function runWithConcurrency(tasks, concurrency) {
+async function runWithConcurrency(items, concurrency, worker) {
   const results = [];
   const executing = new Set();
-  for (const task of tasks) {
-    const p = Promise.resolve().then(task).then((r) => {
+  for (const [index, item] of items.entries()) {
+    const p = Promise.resolve().then(() => worker(item, index)).then((r) => {
       executing.delete(p);
       return r;
     });
@@ -156,7 +176,7 @@ async function runWithConcurrency(tasks, concurrency) {
 
 // ─── 1 記事の処理 ────────────────────────────────────────────────────────────
 
-async function processArticle(file) {
+async function processArticle(file, index, progress) {
   const path = join(ARTICLES_DIR, file);
   const originalContent = readFileSync(path, "utf8");
   let content = originalContent;
@@ -164,7 +184,10 @@ async function processArticle(file) {
   const lines = [`## ${file}`];
   const today = todayJst();
 
-  for (const product of products) {
+  progress?.startArticle(file, index, products.length);
+
+  for (const [productIndex, product] of products.entries()) {
+    progress?.product(file, index, productIndex, products.length, product.name);
     const query = buildSearchKeyword(product.name);
     const supplementalQuery = buildYahooSupplementalSearchQuery(product);
     const queries = supplementalQuery ? [query, supplementalQuery] : [query];
@@ -299,9 +322,11 @@ async function processArticle(file) {
   if (!DRY_RUN && content !== originalContent) {
     writeFileSync(path + ".bak", originalContent, "utf8");
     writeFileSync(path, content, "utf8");
+    progress?.finishArticle(file, index, "変更あり");
     return { file, lines, changed: true };
   }
 
+  progress?.finishArticle(file, index, products.length === 0 ? "商品なし" : "変更なし");
   return { file, lines, changed: false };
 }
 
@@ -328,8 +353,11 @@ if (!hasCredentials) {
 }
 
 const files = targetArticleFiles();
-const tasks = files.map((file) => () => processArticle(file));
-const results = await runWithConcurrency(tasks, DRY_RUN ? 1 : CONCURRENCY);
+console.log(`📂 対象ファイル: ${files.length}件`);
+console.log(`⚙ 並列数: ${DRY_RUN ? 1 : CONCURRENCY} / API間隔: ${API_INTERVAL_MS}ms\n`);
+if (DRY_RUN) console.log("⚠ --dry-run モード: ファイルは書き換えません\n");
+const progress = createProgressLogger(files.length);
+const results = await runWithConcurrency(files, DRY_RUN ? 1 : CONCURRENCY, (file, index) => processArticle(file, index, progress));
 
 const allLines = [...header];
 let changedFiles = 0;
