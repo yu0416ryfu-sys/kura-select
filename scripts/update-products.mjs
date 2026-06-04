@@ -1244,6 +1244,12 @@ async function buildProductMatchReportItem({ file, category, articleTitle, conte
 }
 
 const CATEGORY_SEARCH_RULES = {
+  'bath-drain-hair-catcher': {
+    keywords: ['浴室 排水口 ヘアキャッチャー', 'お風呂 排水口 ゴミ受け', 'ユニットバス ヘアキャッチャー'],
+    include: ['ヘアキャッチャー', 'ヘアーキャッチャー', '排水口', 'ゴミ受け', 'ごみ受け', 'ネットホルダー', 'くるっポイ'],
+    exclude: ['洗面台のみ', 'キッチン', 'シンク', '排水口ネット 交換用', '水切りネット', 'Easyネット', '髪の毛トリトリ', 'シールタイプ', 'プレートセット', 'ブラシ', 'クリーナー', '洗剤', 'ラック', 'ソープディッシュ'],
+    units: ['個'],
+  },
   'bath-mold-preventer': {
     keywords: ['お風呂 防カビ くん煙剤', '防カビくん煙剤 3個パック', '浴室 防カビ剤 まとめ買い'],
     include: ['防カビ', 'くん煙', 'くん煙剤', 'カビーヌ', '浴室用'],
