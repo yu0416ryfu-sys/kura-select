@@ -968,6 +968,15 @@ export function extractArticleCategory(content: string): string | null {
 }
 
 /**
+ * フロントマターから記事種別を抽出する。未指定は "comparison" として扱う。
+ */
+export function extractArticleType(content: string): 'comparison' | 'review' {
+  const parsed = parseFrontmatter(content);
+  if (!parsed) return 'comparison';
+  return parsed.data.articleType === 'review' ? 'review' : 'comparison';
+}
+
+/**
  * 記事タイトルから楽天API検索用キーワードを生成する。
  * 「ジェルボール洗剤 コスパ最強ランキング【2026年版】...」→「ジェルボール洗剤」
  */

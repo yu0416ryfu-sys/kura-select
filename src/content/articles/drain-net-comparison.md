@@ -3,6 +3,7 @@ title: "排水口ネット おすすめ10選｜水切りネットをコスパで
 description: "キッチンシンクの排水口ネット（水切りネット）おすすめ10選をコスパで比較。ストッキングタイプ100枚入りを中心に、1枚あたりの単価・素材・使い勝手の違いをわかりやすく解説します。"
 category: "drain-net"
 publishedAt: "2026-05-29"
+articleType: comparison
 updatedAt: "2026-06-05"
 draft: false
 products:

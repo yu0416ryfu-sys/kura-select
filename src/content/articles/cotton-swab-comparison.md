@@ -3,6 +3,7 @@ title: "綿棒 おすすめ10選【コスパ比較】紙軸・ベビー・業務
 description: "綿棒をコットン100%・紙軸・スパイラル・抗菌タイプで比較。用途別おすすめ4商品の本数・1本単価をまとめ買いで比較。楽天で選べるコスパ最強の綿棒まとめ。"
 category: "cotton-swab"
 publishedAt: "2026-05-26"
+articleType: comparison
 updatedAt: "2026-05-29"
 draft: false
 products:

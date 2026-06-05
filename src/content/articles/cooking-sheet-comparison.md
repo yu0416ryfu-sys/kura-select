@@ -3,6 +3,7 @@ title: "クッキングシート コスパ比較【2026年版】10選"
 description: "クッキングシートを1mあたりの価格で比較。ロール・繰り返し使えるタイプなど10選を、家庭用と業務用の違いや幅・長さの選び方とともに解説します。"
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
+articleType: comparison
 updatedAt: "2026-06-05"
 products:
   - rank: 1

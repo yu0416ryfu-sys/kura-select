@@ -3,6 +3,7 @@ title: "ニキビパッチ コスパ比較【2026年版】おすすめ10選"
 description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚あたり価格で徹底比較。ヒドロコロイド素材の選び方・薄さ・目立ちにくさを解説。まとめ買いでコスパを上げるおすすめ10選。"
 category: "acne-patch"
 publishedAt: "2026-05-27"
+articleType: comparison
 updatedAt: "2026-06-05"
 draft: false
 products:

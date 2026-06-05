@@ -16,6 +16,7 @@ const REPORTS_DIR = join(PROJECT_ROOT, 'reports');
 
 export interface ListArticlesOptions {
   category?: string;
+  articleType?: string;
   productCountLt?: number;
   hasYahooOffer?: boolean;
 }
@@ -24,6 +25,7 @@ export interface ArticleSummary {
   articleFile: string;
   title: string;
   category: string;
+  articleType: string;
   productCount: number;
   updatedAt?: string;
 }
@@ -104,6 +106,7 @@ export interface RagSearchResult {
 interface RawFrontmatter {
   title?: string;
   category?: string;
+  articleType?: string;
   updatedAt?: string;
   products?: RawProduct[];
 }
@@ -150,10 +153,30 @@ function toProductSummary(p: RawProduct, idx: number): ProductSummary {
 
 // ─── listArticles ────────────────────────────────────────────────────────────
 
+function collectArticleMdFiles(dir: string, base: string = dir): string[] {
+  const results: string[] = [];
+  let entries: Dirent<string>[];
+  try {
+    entries = readdirSync(dir, { withFileTypes: true });
+  } catch {
+    return results;
+  }
+  for (const entry of entries) {
+    const fullPath = join(dir, entry.name);
+    if (entry.isDirectory()) {
+      results.push(...collectArticleMdFiles(fullPath, base));
+    } else if (entry.isFile() && entry.name.endsWith('.md') && !entry.name.endsWith('.bak')) {
+      // base からの相対パス（例: "reviews/shampoo-pantene-damage-care-review.md"）
+      results.push(fullPath.slice(base.length + 1).replace(/\\/g, '/'));
+    }
+  }
+  return results;
+}
+
 export function listArticles(options: ListArticlesOptions = {}): ArticleSummary[] {
   if (!existsSync(ARTICLES_DIR)) return [];
 
-  const files = readdirSync(ARTICLES_DIR).filter(f => f.endsWith('.md') && !f.endsWith('.bak'));
+  const files = collectArticleMdFiles(ARTICLES_DIR);
   const results: ArticleSummary[] = [];
 
   for (const file of files) {
@@ -162,10 +185,12 @@ export function listArticles(options: ListArticlesOptions = {}): ArticleSummary[
     if (!fm) continue;
 
     const category = fm.category ?? '';
+    const articleType = typeof fm.articleType === 'string' ? fm.articleType : 'comparison';
     const products = Array.isArray(fm.products) ? fm.products : [];
     const productCount = products.length;
 
     if (options.category && category !== options.category) continue;
+    if (options.articleType && articleType !== options.articleType) continue;
     if (options.productCountLt !== undefined && productCount >= options.productCountLt) continue;
     if (options.hasYahooOffer !== undefined) {
       const hasOffer = products.some(p => Array.isArray(p.offers) && p.offers.length > 0);
@@ -173,9 +198,10 @@ export function listArticles(options: ListArticlesOptions = {}): ArticleSummary[
     }
 
     results.push({
-      articleFile: `src/content/articles/${file}`,
+      articleFile: `src/content/articles/${file}`,  // file は相対パス（例: "reviews/foo.md"）
       title: fm.title ?? '',
       category,
+      articleType,
       productCount,
       updatedAt: fm.updatedAt,
     });

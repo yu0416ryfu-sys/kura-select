@@ -3,6 +3,7 @@ title: "コットン コスパ最強ランキング【2026年版】1枚2.7円〜
 description: "コットンを1枚あたりのコストで徹底比較。最安は1枚2.7円〜。シルコット・ビオレ・大容量無印など人気10選を吸水性・肌触り・コスパで解説。スキンケア毎日派に最適な1袋が見つかります。"
 category: "cotton"
 publishedAt: "2026-05-03"
+articleType: comparison
 updatedAt: "2026-05-29"
 products:
   - rank: 1

@@ -3,6 +3,7 @@ title: "浴室排水口ヘアキャッチャー コスパ比較【2026年版】1
 description: "浴室排水口ヘアキャッチャーを1個あたりのコストで比較。ステンレス製、ネットホルダー型、くるっと集めるタイプなどを選びます。"
 category: "bath-drain-hair-catcher"
 publishedAt: "2026-06-04"
+articleType: comparison
 updatedAt: 2026-06-05
 draft: false
 products:

@@ -19,7 +19,7 @@
 import { readFileSync, writeFileSync, appendFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
 import { spawnSync } from 'child_process';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
@@ -2119,6 +2119,12 @@ async function checkAdditions() {
   for (const file of files) {
     const filePath = join(articlesDir, file);
     const content = readFileSync(filePath, 'utf-8');
+
+    if (extractArticleType(content) === 'review') {
+      console.log(`⏭ ${file}: レビュー記事（スキップ）`);
+      continue;
+    }
+
     const products = extractAllProductsData(content);
     const title = extractArticleTitle(content);
     const category = extractArticleCategory(content) ?? file.replace(/-comparison\.md$/, '');
@@ -2448,6 +2454,12 @@ async function checkReplacements() {
   for (const file of files) {
     const filePath = join(articlesDir, file);
     const content = readFileSync(filePath, 'utf-8');
+
+    if (extractArticleType(content) === 'review') {
+      console.log(`⏭ ${file}: レビュー記事（スキップ）`);
+      continue;
+    }
+
     const products = extractAllProductsData(content);
 
     if (products.length === 0) continue;
@@ -2601,6 +2613,12 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
 
   progress?.startArticle(file, index, productNames.length);
   log(`\n📄 ${file} (${productNames.length}商品)`, { print: false });
+
+  if (extractArticleType(content) === 'review') {
+    log('   → レビュー記事。スキップ');
+    progress?.finishArticle(file, index, 'レビュー記事');
+    return result;
+  }
 
   if (productNames.length === 0) {
     log('   → 商品なし。スキップ');

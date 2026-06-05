@@ -3,6 +3,7 @@ title: "ペットシーツ レギュラーサイズおすすめ10選【コスパ
 description: "犬猫用ペットシーツのレギュラーサイズを1枚あたりの単価で比較。薄型・厚型・まとめ買い向けから、交換頻度や保管場所に合う選び方を解説します。"
 category: "pet-sheet"
 publishedAt: "2026-05-31"
+articleType: comparison
 updatedAt: 2026-06-05
 draft: false
 products:

@@ -2,6 +2,7 @@
 title: "パンテーン エクストラダメージケア詰め替え使ってみた正直レビュー"
 description: "楽天で3,980円のパンテーン エクストラダメージケア詰め替え2個セットを購入。パサツキ改善の実感と甘い香りの好み分かれ感を1ヶ月使用のリアルな体験から正直にレビューします。"
 category: "shampoo"
+articleType: review
 publishedAt: "2026-05-05"
 products:
   - rank: 1

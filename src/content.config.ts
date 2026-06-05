@@ -19,38 +19,53 @@ const offerSchema = z.object({
   matchNotes: z.string().optional(),
 });
 
+const productSchema = z.object({
+  rank: z.number().int().positive(),
+  name: z.string(),
+  brand: z.string(),
+  price: z.number().int().nonnegative(),
+  capacity: z.string(),
+  pricePerUnit: z.string().optional(),
+  rating: z.number().min(0).max(5).optional(),
+  reviewCount: z.number().int().nonnegative().optional(),
+  features: z.array(z.string()),
+  pros: z.array(z.string()),
+  cons: z.array(z.string()),
+  recommendedFor: z.string(),
+  rakutenUrl: z.string().url(),
+  imageUrl: z.string().optional(),
+  offers: z.array(offerSchema).optional(),
+});
+
+const commonFields = ({ image }: { image: () => z.ZodType }) =>
+  ({
+    title: z.string().max(60),
+    description: z.string().max(160),
+    category: reference("categories"),
+    publishedAt: z.coerce.date(),
+    updatedAt: z.coerce.date().optional(),
+    heroImage: image().optional(),
+    tags: z.array(z.string()).optional(),
+    draft: z.boolean().default(false),
+  }) as const;
+
 const articles = defineCollection({
   loader: glob({ pattern: "**/*.{md,mdx}", base: "./src/content/articles" }),
   schema: ({ image }) =>
-    z.object({
-      title: z.string().max(60),
-      description: z.string().max(160),
-      category: reference("categories"),
-      publishedAt: z.coerce.date(),
-      updatedAt: z.coerce.date().optional(),
-      heroImage: image().optional(),
-      products: z.array(
-        z.object({
-          rank: z.number().int().positive(),
-          name: z.string(),
-          brand: z.string(),
-          price: z.number().int().nonnegative(),
-          capacity: z.string(),
-          pricePerUnit: z.string().optional(),
-          rating: z.number().min(0).max(5).optional(),
-          reviewCount: z.number().int().nonnegative().optional(),
-          features: z.array(z.string()),
-          pros: z.array(z.string()),
-          cons: z.array(z.string()),
-          recommendedFor: z.string(),
-          rakutenUrl: z.string().url(),
-          imageUrl: z.string().optional(),
-          offers: z.array(offerSchema).optional(),
-        })
-      ),
-      tags: z.array(z.string()).optional(),
-      draft: z.boolean().default(false),
-    }),
+    z.discriminatedUnion("articleType", [
+      // 比較記事: products は 1 件以上必須
+      z.object({
+        articleType: z.literal("comparison"),
+        ...commonFields({ image }),
+        products: z.array(productSchema).min(1),
+      }),
+      // レビュー記事: products は任意（単品レビューでも商品情報あり）
+      z.object({
+        articleType: z.literal("review"),
+        ...commonFields({ image }),
+        products: z.array(productSchema).optional(),
+      }),
+    ]),
 });
 
 const categories = defineCollection({

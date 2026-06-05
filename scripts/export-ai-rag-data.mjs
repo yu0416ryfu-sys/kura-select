@@ -70,10 +70,14 @@ for (const { relPath, fullPath } of articleEntries) {
   const articleFile = toArticleFilePath(relPath);
   const articleTitle = typeof data.title === "string" ? data.title : "";
   const category = typeof data.category === "string" ? data.category : basename(relPath).replace(/-comparison\.mdx?$/, "");
+  const articleType = typeof data.articleType === "string" ? data.articleType : "comparison";
   const products = Array.isArray(data.products) ? data.products : [];
 
+  // review 記事の商品は比較 RAG に混入させない
+  if (articleType === "review") continue;
+
   for (const p of products) {
-    const record = normalizeProductRecord(p, articleFile, articleTitle, category);
+    const record = normalizeProductRecord(p, articleFile, articleTitle, category, articleType);
     if (record) {
       productRecords.push(record);
       // capacity-pattern としても登録

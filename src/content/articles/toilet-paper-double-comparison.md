@@ -3,6 +3,7 @@ title: "トイレットペーパー ダブル コスパ最強ランキング【2
 description: "ダブルのトイレットペーパーを1mあたりのコストで比較。2倍巻き・3倍巻き・再生紙・肌触り重視のおすすめ10選を紹介します。交換頻度を減らしたい方にも。"
 category: "toilet-paper"
 publishedAt: "2026-05-16"
+articleType: comparison
 updatedAt: "2026-06-05"
 products:
   - rank: 1

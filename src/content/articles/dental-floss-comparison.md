@@ -3,6 +3,7 @@ title: "デンタルフロス コスパ最強ランキング【2026年版】1回
 description: "デンタルフロスを1回あたりのコストで比較したランキング。最安はGUM 550mで0.25円/回（約3年分）。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ10選。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
+articleType: comparison
 updatedAt: "2026-06-05"
 products:
   - rank: 1

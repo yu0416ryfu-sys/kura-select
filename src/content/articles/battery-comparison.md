@@ -3,6 +3,7 @@ title: "乾電池 コスパ比較【2026年版】単3・単4おすすめ10選"
 description: "Panasonic・富士通など主要ブランドの乾電池を1本あたり価格で徹底比較。単3・単4の選び方、長期保存品の特徴、まとめ買いのコスパを解説。防災備蓄にも役立つおすすめ10選。"
 category: "battery"
 publishedAt: "2026-05-27"
+articleType: comparison
 updatedAt: "2026-06-05"
 draft: false
 products:

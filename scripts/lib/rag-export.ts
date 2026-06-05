@@ -10,6 +10,7 @@ import { basename } from "path";
 
 export interface RagProductRecord {
   type: "product";
+  articleType: string;
   articleFile: string;
   articleTitle: string;
   category: string;
@@ -66,6 +67,7 @@ export interface RagCategoryRuleRecord {
 interface ArticleFrontmatter {
   title?: string;
   category?: string;
+  articleType?: string;
   products?: RawProduct[];
 }
 
@@ -166,7 +168,8 @@ export function normalizeProductRecord(
   input: unknown,
   articleFile: string,
   articleTitle: string,
-  category: string
+  category: string,
+  articleType: string = "comparison"
 ): RagProductRecord | null {
   if (!input || typeof input !== "object") return null;
   const p = input as RawProduct;
@@ -190,6 +193,7 @@ export function normalizeProductRecord(
 
   return {
     type: "product",
+    articleType,
     articleFile,
     articleTitle,
     category,

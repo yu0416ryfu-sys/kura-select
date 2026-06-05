@@ -25,6 +25,7 @@ const popularArticles = popularArticleIds
   .slice(0, 6);
 
 const articles = allArticles
+  .filter((a) => a.data.articleType === "comparison")
   .sort((a, b) => getDisplayDate(b).getTime() - getDisplayDate(a).getTime())
   .slice(0, 6);
 ---

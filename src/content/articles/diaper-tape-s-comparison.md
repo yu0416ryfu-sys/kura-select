@@ -3,6 +3,7 @@ title: "Sサイズ紙おむつ テープ型10選比較【2026年版】"
 description: "Sサイズのテープ型紙おむつ9製品を1枚あたりの価格で比較。メリーズ・ムーニー・パンパースほか、コスパと肌触りで選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
+articleType: comparison
 updatedAt: "2026-06-05"
 products:
   - rank: 1

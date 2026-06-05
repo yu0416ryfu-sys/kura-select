@@ -3,6 +3,7 @@ title: "ナプキン コスパ最強ランキング【2026年版】1枚あたり
 description: "生理用ナプキンを1枚あたりのコストで徹底比較。ソフィ・ロリエ・エリス・ウィスパーなど人気10選を吸収力・肌へのやさしさ・コスパで解説します。"
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
+articleType: comparison
 updatedAt: "2026-06-05"
 products:
   - rank: 1

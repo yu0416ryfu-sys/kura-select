@@ -3,6 +3,7 @@ title: "新生児用紙おむつ テープ型コスパ比較【2026年版】"
 description: "新生児用の紙おむつを1枚あたりの価格で比較。サイズアウトしやすい時期に、まとめ買い量と肌へのやさしさのバランスで選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
+articleType: comparison
 updatedAt: "2026-06-05"
 products:
   - rank: 1

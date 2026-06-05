@@ -13,14 +13,17 @@ export async function getStaticPaths() {
       .filter((a) => !a.data.draft && a.data.category.id === cat.id)
       .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
 
+    const comparisonArticles = catArticles.filter((a) => a.data.articleType !== "review");
+    const reviewArticles = catArticles.filter((a) => a.data.articleType === "review");
+
     return {
       params: { slug: cat.data.slug },
-      props: { category: cat, articles: catArticles },
+      props: { category: cat, articles: catArticles, comparisonArticles, reviewArticles },
     };
   });
 }
 
-const { category, articles } = Astro.props;
+const { category, articles, comparisonArticles, reviewArticles } = Astro.props;
 const { data } = category;
 ---
 
@@ -50,37 +53,84 @@ const { data } = category;
       </div>
     </header>
 
-    <!-- 記事一覧 -->
-    {articles.length > 0 ? (
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {articles.map((article) => (
-          <a
-            href={url(`/articles/${article.id}`)}
-            class="group bg-white rounded-xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all overflow-hidden focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
-          >
-            <div class="p-5">
-              <h2 class="font-bold text-[var(--color-text)] leading-snug group-hover:text-[var(--color-primary)] transition-colors line-clamp-2">
-                {article.data.title}
-              </h2>
-              <p class="text-sm text-[var(--color-text-sub)] mt-2 line-clamp-3 leading-relaxed">
-                {article.data.description}
-              </p>
-              <div class="flex items-center justify-between mt-4">
-                <time
-                  datetime={article.data.publishedAt.toISOString()}
-                  class="text-xs text-[var(--color-text-sub)]"
-                >
-                  {article.data.publishedAt.toLocaleDateString("ja-JP")}
-                </time>
-                <span class="text-xs text-[var(--color-primary)] font-medium">
-                  {article.data.products.length}商品を比較 →
-                </span>
+    <!-- 比較記事 -->
+    {comparisonArticles.length > 0 && (
+      <section class="mb-12">
+        {reviewArticles.length > 0 && (
+          <h2 class="text-lg font-bold text-[var(--color-text)] mb-5">比較記事</h2>
+        )}
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {comparisonArticles.map((article) => (
+            <a
+              href={url(`/articles/${article.id}`)}
+              class="group bg-white rounded-xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all overflow-hidden focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+            >
+              <div class="p-5">
+                <h3 class="font-bold text-[var(--color-text)] leading-snug group-hover:text-[var(--color-primary)] transition-colors line-clamp-2">
+                  {article.data.title}
+                </h3>
+                <p class="text-sm text-[var(--color-text-sub)] mt-2 line-clamp-3 leading-relaxed">
+                  {article.data.description}
+                </p>
+                <div class="flex items-center justify-between mt-4">
+                  <time
+                    datetime={article.data.publishedAt.toISOString()}
+                    class="text-xs text-[var(--color-text-sub)]"
+                  >
+                    {article.data.publishedAt.toLocaleDateString("ja-JP")}
+                  </time>
+                  <span class="text-xs text-[var(--color-primary)] font-medium">
+                    {article.data.products.length}商品を比較 →
+                  </span>
+                </div>
               </div>
-            </div>
-          </a>
-        ))}
-      </div>
-    ) : (
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- レビュー記事 -->
+    {reviewArticles.length > 0 && (
+      <section>
+        <h2 class="text-lg font-bold text-[var(--color-text)] mb-5">レビュー記事</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {reviewArticles.map((article) => (
+            <a
+              href={url(`/articles/${article.id}`)}
+              class="group bg-white rounded-xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all overflow-hidden focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+            >
+              <div class="p-5">
+                <div class="mb-2">
+                  <span class="inline-block bg-emerald-100 text-emerald-700 text-xs font-medium px-2 py-0.5 rounded-full">
+                    レビュー
+                  </span>
+                </div>
+                <h3 class="font-bold text-[var(--color-text)] leading-snug group-hover:text-[var(--color-primary)] transition-colors line-clamp-2">
+                  {article.data.title}
+                </h3>
+                <p class="text-sm text-[var(--color-text-sub)] mt-2 line-clamp-3 leading-relaxed">
+                  {article.data.description}
+                </p>
+                <div class="flex items-center justify-between mt-4">
+                  <time
+                    datetime={article.data.publishedAt.toISOString()}
+                    class="text-xs text-[var(--color-text-sub)]"
+                  >
+                    {article.data.publishedAt.toLocaleDateString("ja-JP")}
+                  </time>
+                  <span class="text-xs text-emerald-600 font-medium">
+                    レビューを読む →
+                  </span>
+                </div>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {articles.length === 0 && (
       <div class="text-center py-20 text-[var(--color-text-sub)]">
         <p>このカテゴリの記事は準備中です。</p>
       </div>

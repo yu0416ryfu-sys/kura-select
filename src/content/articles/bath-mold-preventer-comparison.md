@@ -3,6 +3,7 @@ title: "お風呂防カビ剤 コスパ比較【2026年版】くん煙タイプ1
 description: "お風呂防カビ剤を1回あたりのコストで比較。くん煙タイプや無香性タイプなど、浴室の定期ケアに使いやすい商品を選びます。"
 category: "bath-mold-preventer"
 publishedAt: "2026-06-03"
+articleType: comparison
 updatedAt: 2026-06-05
 draft: false
 products:

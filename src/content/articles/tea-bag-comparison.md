@@ -3,6 +3,7 @@ title: "麦茶ティーバッグのコスパ比較【まとめ買いおすすめ
 description: "伊藤園・はくばくなど人気麦茶ティーバッグを1袋あたりの単価で比較。内容量・タイプ別の特徴から夏の水分補給やまとめ買いに最適な商品を紹介します。"
 category: "tea-bag"
 publishedAt: "2026-05-24"
+articleType: comparison
 updatedAt: "2026-06-05"
 draft: false
 products:

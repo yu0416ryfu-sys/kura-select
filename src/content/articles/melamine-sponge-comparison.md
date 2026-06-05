@@ -3,6 +3,7 @@ title: "メラミンスポンジ コスパ比較【2026年版】キューブ型1
 description: "メラミンスポンジを1個あたりのコストで比較。キューブ型・大容量・日本製など、キッチンや水まわり掃除に使いやすい商品を選びます。"
 category: "melamine-sponge"
 publishedAt: "2026-06-03"
+articleType: comparison
 updatedAt: 2026-06-05
 draft: false
 products:

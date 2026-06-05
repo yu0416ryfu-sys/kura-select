@@ -25,6 +25,7 @@ import {
   syncTitleProductCount,
   updateUpdatedAt,
   fixNameCapacityConflicts,
+  extractArticleType,
 } from "../scripts/lib/frontmatter";
 
 // ─── テスト用フィクスチャ ─────────────────────────────────────────────────
@@ -1676,3 +1677,50 @@ products:
     expect(updated).toContain("100m×48ロール");
   });
 });
+
+// ─── extractArticleType ──────────────────────────────────────────────────────
+describe("extractArticleType", () => {
+  it("articleType: comparison の記事は 'comparison' を返す", () => {
+    const content = `---
+title: "比較記事"
+publishedAt: 2026-04-01
+articleType: comparison
+---
+`;
+    expect(extractArticleType(content)).toBe("comparison");
+  });
+
+  it("articleType: review の記事は 'review' を返す", () => {
+    const content = `---
+title: "レビュー記事"
+publishedAt: 2026-04-01
+articleType: review
+---
+`;
+    expect(extractArticleType(content)).toBe("review");
+  });
+
+  it("articleType が未指定の場合は 'comparison' を返す（後方互換）", () => {
+    const content = `---
+title: "旧フォーマット記事"
+publishedAt: 2026-04-01
+---
+`;
+    expect(extractArticleType(content)).toBe("comparison");
+  });
+
+  it("フロントマターがない場合は 'comparison' を返す", () => {
+    expect(extractArticleType("本文のみ")).toBe("comparison");
+  });
+
+  it("未知の articleType 値は 'comparison' にフォールバックする", () => {
+    const content = `---
+title: "記事"
+publishedAt: 2026-04-01
+articleType: unknown-type
+---
+`;
+    expect(extractArticleType(content)).toBe("comparison");
+  });
+});
+

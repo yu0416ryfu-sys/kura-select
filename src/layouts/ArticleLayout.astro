@@ -38,6 +38,7 @@ interface Props {
 
 const { article, categoryName, categorySlug, relatedArticles, headings } = Astro.props;
 const { data } = article;
+const isComparison = data.articleType !== "review";
 
 type TocItem = { slug: string; text: string; depth: 2 | 3 };
 
@@ -46,12 +47,12 @@ const markdownTocItems: TocItem[] = (headings ?? [])
   .map((h) => ({ slug: h.slug, text: h.text, depth: h.depth as 2 | 3 }));
 
 const rawTocItems: TocItem[] = [
-  ...(data.products.length > 0
+  ...(isComparison && data.products.length > 0
     ? [{ slug: "comparison-table", text: "商品比較表", depth: 2 as const }]
     : []),
   ...markdownTocItems,
   ...(data.products.length > 0
-    ? [{ slug: "product-details", text: "各商品の詳細", depth: 2 as const }]
+    ? [{ slug: "product-details", text: isComparison ? "各商品の詳細" : "商品情報", depth: 2 as const }]
     : []),
 ];
 
@@ -207,16 +208,16 @@ const productJsonLds = data.products
           </div>
         </header>
 
-        <!-- ファーストビューCTA: 1位商品 -->
-        {data.products.length > 0 && (
+        <!-- ファーストビューCTA: comparison のみ（1位商品） -->
+        {isComparison && data.products.length > 0 && (
           <TopPickCta product={data.products.find((p) => p.rank === 1) ?? data.products[0]} targetUnit={targetUnit} />
         )}
 
         <!-- 目次（モバイル: 比較表の前） -->
         <ArticleToc items={tocItems} class="mt-6 lg:hidden" />
 
-        <!-- 比較表 -->
-        {data.products.length > 0 && (
+        <!-- 比較表（comparison のみ） -->
+        {isComparison && data.products.length > 0 && (
           <section id="comparison-table" aria-label="商品比較表" class="scroll-mt-24">
             <ComparisonTable products={data.products} caption={`${data.title} 比較表`} targetUnit={targetUnit} />
           </section>
@@ -227,7 +228,7 @@ const productJsonLds = data.products
           <slot />
         </div>
 
-        <!-- 記事本文後インライン CTA（1位商品） -->
+        <!-- 記事本文後インライン CTA（comparison: 1位商品 / review: 紹介商品） -->
         {data.products.length > 0 && (() => {
           const top = data.products.find((p) => p.rank === 1) ?? data.products[0];
           const yahooSearchFallback = {
@@ -257,7 +258,7 @@ const productJsonLds = data.products
           return (
             <div class="mt-8 p-4 md:p-5 bg-sky-50 border border-sky-200 rounded-xl flex flex-col sm:flex-row items-start sm:items-center gap-4">
               <div class="flex-1 min-w-0">
-                <p class="text-xs font-semibold text-sky-600 mb-1">この記事の結論</p>
+                <p class="text-xs font-semibold text-sky-600 mb-1">{isComparison ? "この記事の結論" : "紹介商品"}</p>
                 <p class="font-bold text-[var(--color-text)] text-sm leading-snug line-clamp-2">{top.name}</p>
                 <p class="text-sm text-[var(--color-text-sub)] mt-0.5">{formatPriceOrConfirmation(topDisplayPrice)}{topPricePerUnitText}</p>
                 {topSummary.priceDifferenceLabel && (
@@ -282,8 +283,8 @@ const productJsonLds = data.products
 
         <!-- 商品詳細セクション -->
         {data.products.length > 0 && (
-          <section id="product-details" aria-label="商品詳細" class="mt-10 scroll-mt-24">
-            <h2 class="text-xl font-bold mb-6">各商品の詳細</h2>
+          <section id="product-details" aria-label={isComparison ? "商品詳細" : "商品情報"} class="mt-10 scroll-mt-24">
+            <h2 class="text-xl font-bold mb-6">{isComparison ? "各商品の詳細" : "商品情報"}</h2>
             <div class="space-y-6">
               {data.products.map((product) => (
                 <ProductCard product={product} id={`product-${product.rank}`} targetUnit={targetUnit} />

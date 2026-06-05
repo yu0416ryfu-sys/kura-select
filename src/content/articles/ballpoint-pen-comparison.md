@@ -3,6 +3,7 @@ title: "ボールペン コスパ最強ランキング【2026年版】1本あた
 description: "ボールペンを書き心地・インク・デザインで徹底比較。uni・ZEBRA・Parker・CROSSなど人気10選をコスパ・ギフト適性で解説します。"
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
+articleType: comparison
 updatedAt: 2026-06-05
 draft: false
 products:

@@ -3,6 +3,7 @@ title: "お風呂用洗剤 コスパ最強ランキング【2026年版】1mL0.33
 description: "お風呂用洗剤を容量あたりのコストで比較。最安候補は約0.33円/mL。バスマジックリン・ルック・カビキラー・ウタマロなど10選を洗浄力・防カビ・コスパで解説します。"
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
+articleType: comparison
 updatedAt: "2026-06-05"
 products:
   - rank: 1

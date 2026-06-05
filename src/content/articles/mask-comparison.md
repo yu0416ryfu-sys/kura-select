@@ -3,6 +3,7 @@ title: "使い捨てマスク コスパ最強ランキング【2026年版】1枚
 description: "使い捨て不織布マスクを1枚あたりのコストで徹底比較。超快適マスク・i:na・アイリスオーヤマ・バイキングなど人気10選を快適性・コスパで解説します。"
 category: "mask"
 publishedAt: "2026-05-03"
+articleType: comparison
 updatedAt: "2026-06-05"
 products:
   - rank: 1

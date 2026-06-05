@@ -169,9 +169,22 @@ async function main() {
   }
 
   const articlesDir = resolve(process.cwd(), "src/content/articles");
-  const files = readdirSync(articlesDir).filter(
-    (f) => f.endsWith(".md") && !f.endsWith(".bak")
-  );
+
+  // サブディレクトリ（reviews/ など）を含めて再帰収集
+  function collectMdFiles(dir, base = dir) {
+    const results = [];
+    for (const entry of readdirSync(dir, { withFileTypes: true })) {
+      const fullPath = join(dir, entry.name);
+      if (entry.isDirectory()) {
+        results.push(...collectMdFiles(fullPath, base));
+      } else if (entry.name.endsWith(".md") && !entry.name.endsWith(".bak")) {
+        results.push(fullPath.slice(base.length + 1).replace(/\\/g, "/"));
+      }
+    }
+    return results;
+  }
+
+  const files = collectMdFiles(articlesDir);
 
   console.log(`\n📄 記事別OGP生成: ${files.length}件`);
 
@@ -187,6 +200,8 @@ async function main() {
 
     const slug = file.replace(/\.md$/, "");
     const outputPath = join(ogDir, `${slug}.png`);
+    // サブディレクトリが必要な場合は自動作成（例: public/og/articles/reviews/）
+    mkdirSync(join(outputPath, ".."), { recursive: true });
     const svg = buildArticleSvg(title, category);
 
     await sharp(Buffer.from(svg)).png({ quality: 90 }).toFile(outputPath);

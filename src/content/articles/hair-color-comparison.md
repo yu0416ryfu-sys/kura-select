@@ -3,6 +3,7 @@ title: "白髪染め コスパ比較【2026年版】市販おすすめ10選"
 description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あたり価格で徹底比較。泡・クリーム・トリートメントタイプの違いや選び方を解説。コスパよく白髪ケアしたい方向けのおすすめ10選。"
 category: "hair-color"
 publishedAt: "2026-05-27"
+articleType: comparison
 updatedAt: "2026-06-05"
 draft: false
 products:

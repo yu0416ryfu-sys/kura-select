@@ -168,3 +168,35 @@ describe('searchRag', () => {
     }
   });
 });
+
+// ─── listArticles の articleType フィールド ────────────────────────────────
+describe('listArticles - articleType', () => {
+  it('各記事に articleType フィールドが含まれる', () => {
+    const articles = listArticles();
+    for (const a of articles) {
+      expect(a).toHaveProperty('articleType');
+      expect(['comparison', 'review']).toContain(a.articleType);
+    }
+  });
+
+  it('articleType: comparison フィルタで comparison 記事のみ返す', () => {
+    const articles = listArticles({ articleType: 'comparison' });
+    expect(articles.length).toBeGreaterThan(0);
+    for (const a of articles) {
+      expect(a.articleType).toBe('comparison');
+    }
+  });
+
+  it('articleType: review フィルタで review 記事のみ返す', () => {
+    const articles = listArticles({ articleType: 'review' });
+    for (const a of articles) {
+      expect(a.articleType).toBe('review');
+    }
+  });
+
+  it('articleType: review の記事が少なくとも 1 件存在する', () => {
+    const all = listArticles();
+    const reviewCount = all.filter(a => a.articleType === 'review').length;
+    expect(reviewCount).toBeGreaterThanOrEqual(1);
+  });
+});
