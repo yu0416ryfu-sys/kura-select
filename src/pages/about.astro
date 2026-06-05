@@ -1,59 +1,199 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Container from "../components/layout/Container.astro";
-import { url } from "../lib/site";
+import JsonLd from "../components/seo/JsonLd.astro";
+import { SITE, url } from "../lib/site";
+
+const jsonLdData = [
+  {
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    name: "このサイトについて",
+    url: `${SITE.url}/about/`,
+    description:
+      "日用品の単位あたりコスパを数字で比較する暮らセレクトの運営者紹介ページ。比較の計算方法・価格更新の仕組み・アフィリエイト開示をまとめています。",
+    author: {
+      "@type": "Person",
+      "@id": `${SITE.url}/about/#person`,
+      name: "ゆきんこ",
+      description: "30代専業主婦。日用品の単位あたりコスパ比較サイト「暮らセレクト」を個人運営。",
+      url: `${SITE.url}/about/`,
+    },
+  },
+];
 ---
 
 <BaseLayout
   title="このサイトについて"
-  description="KuraSelect（暮らセレクト）の運営方針とサイト概要をご紹介します。"
+  description="「結局どれが一番お得？」の答えを単位価格で出すサイトです。運営者は30代専業主婦のゆきんこ。2024年11月開設、現在85本の比較記事を掲載。毎週月曜を目安に楽天APIで価格を更新しています。"
 >
+  <JsonLd slot="head" data={jsonLdData} />
+
   <Container class="py-12 md:py-16 max-w-3xl">
-    <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)] mb-8">このサイトについて</h1>
+    <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)] mb-2">
+      このサイトについて
+    </h1>
+    <p class="text-sm text-[var(--color-text-sub)] mb-10">最終更新日: 2026年6月</p>
 
-    <div class="space-y-8 text-[var(--color-text)] leading-relaxed">
+    <div class="space-y-10 text-[var(--color-text)] leading-relaxed">
+
+      <!-- リード文 -->
+      <p class="text-base md:text-lg leading-relaxed border-l-4 border-[var(--color-primary)] pl-4 text-[var(--color-text)]">
+        「このトイレットペーパー、結局1mあたり何円なの？」——毎日使う日用品を、ちゃんと数字で比べてみたくて、このサイトを作りました。
+      </p>
+
+      <!-- なぜこのサイトを作ったのか -->
       <section>
-        <h2 class="text-xl font-bold mb-3">サイトの目的</h2>
-        <p>
-          KuraSelect（暮らセレクト）は、トイレットペーパーや洗濯洗剤などの日用品・消耗品を
-          コスパの観点から比較し、賢い買い物のお手伝いをすることを目的としています。
+        <h2 class="text-xl font-bold mb-4 text-[var(--color-text)]">なぜこのサイトを作ったのか</h2>
+        <p class="mb-3">
+          ネットで日用品を調べると、商品の数だけレビューが出てきます。「コスパ最高！」という声もあれば「思ったより量が少なかった」という声もあって、どれを信じればいいのかよくわからない。
         </p>
-        <p class="mt-3">
-          毎日使う消耗品は、選び方ひとつで年間数万円の差が生まれることもあります。
-          価格・容量・品質を客観的なデータで比較し、あなたに合った商品を見つけるお手伝いをします。
+        <p class="mb-3">
+          そこで気になったのが、<strong>単位あたりの価格</strong>です。大容量だから安いと思って買ったら、実は1枚あたりは割高だった——そんな経験、ありませんか？「まとめ買いセール」の表示を見ても、他の商品と本当に比べられているのか自信が持てない。
+        </p>
+        <p>
+          「単位あたりのコスパで並べたら、どれが一番お得なんだろう？」という疑問を自分で解決したくて、2024年11月に暮らセレクトを開設しました。30代の専業主婦として、毎日の買い物をもう少し賢くしたい——そのシンプルな動機が出発点です。
         </p>
       </section>
 
+      <!-- できること・できないこと -->
       <section>
-        <h2 class="text-xl font-bold mb-3">情報の信頼性について</h2>
-        <p>
-          当サイトは以下の基準で情報を提供しています：
-        </p>
-        <ul class="list-disc list-inside space-y-1 mt-2 text-[var(--color-text-sub)]">
-          <li>価格・容量などの客観データを中心に比較</li>
-          <li>主観的な評価は「個人の感想」として明記</li>
-          <li>楽天レビューの評価を参考指標として掲載（執筆時点）</li>
-          <li>効能・効果の断定的な表現は使用しない</li>
-        </ul>
+        <h2 class="text-xl font-bold mb-4 text-[var(--color-text)]">このサイトでできること・できないこと</h2>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="bg-[var(--color-surface)] border border-[var(--color-border)] rounded-xl p-5">
+            <h3 class="font-bold text-[var(--color-primary)] mb-3">✓ できること</h3>
+            <ul class="space-y-2 text-sm text-[var(--color-text-sub)]">
+              <li>単位あたり価格（1枚・1g・1ml・1m など）でのコスパ比較</li>
+              <li>楽天市場の主要商品を横並びで比較</li>
+              <li>毎週月曜を目安に楽天APIで価格を更新（購入前にリンク先で最終確認を）</li>
+              <li>現在85本・69カテゴリで、幅広い日用品をカバー（2026年6月時点）</li>
+            </ul>
+          </div>
+          <div class="bg-[var(--color-surface)] border border-[var(--color-border)] rounded-xl p-5">
+            <h3 class="font-bold text-[var(--color-text-sub)] mb-3">✗ できないこと</h3>
+            <ul class="space-y-2 text-sm text-[var(--color-text-sub)]">
+              <li>香り・手触り・泡立ちなど、使用感の主観評価（体験していない商品は書きません）</li>
+              <li>全商品の網羅（掲載は楽天市場を中心とした主要商品に限られます）</li>
+              <li>リアルタイムの価格保証（セールや価格改定により実際と異なる場合があります）</li>
+            </ul>
+          </div>
+        </div>
       </section>
 
+      <!-- 比較・検証のポリシー -->
       <section>
-        <h2 class="text-xl font-bold mb-3">運営方針</h2>
-        <p>
-          当サイトは楽天アフィリエイトプログラムに参加しており、
-          商品リンクをクリックして購入いただいた場合、当サイトが報酬を受け取る場合があります。
-          ただし、アフィリエイト報酬の有無が記事の評価・順位に影響することはありません。
-        </p>
+        <h2 class="text-xl font-bold mb-4 text-[var(--color-text)]">比較・検証のポリシー</h2>
+
+        <div class="space-y-5">
+          <div>
+            <h3 class="font-semibold mb-2">単位価格の計算方法</h3>
+            <p class="text-[var(--color-text-sub)] text-sm mb-2">
+              商品ごとに適切な「単位」を定めて統一計算します。たとえばトイレットペーパーであれば：
+            </p>
+            <div class="bg-[var(--color-surface)] border border-[var(--color-border)] rounded-lg px-5 py-3 text-sm font-mono text-center">
+              単価（円/m）＝ 商品価格 ÷（1ロールの長さm × ロール数）
+            </div>
+            <p class="text-[var(--color-text-sub)] text-sm mt-2">
+              カテゴリごとに計算単位を統一しているので、「枚数が違う商品」「容量が異なる商品」でも横並びで比較できます。
+            </p>
+          </div>
+
+          <div>
+            <h3 class="font-semibold mb-2">価格データの取得方法</h3>
+            <p class="text-[var(--color-text-sub)] text-sm">
+              価格は<strong>楽天ウェブサービスAPI</strong>を通じて取得し、<strong>毎週月曜を目安に自動更新</strong>しています。ただし、更新タイミングやセール・値上がりの反映遅れにより、実際の価格と異なる場合があります。必ず購入前に各商品ページで最新価格をご確認ください。
+            </p>
+          </div>
+
+          <div>
+            <h3 class="font-semibold mb-2">掲載順位の基準</h3>
+            <p class="text-[var(--color-text-sub)] text-sm">
+              原則として<strong>単位あたり価格（コスパ順）</strong>で掲載しています。スポンサーシップや広告費用による順位操作は行いません。アフィリエイト報酬の有無が掲載順位や評価に影響することはありません。
+            </p>
+          </div>
+
+          <div>
+            <h3 class="font-semibold mb-2">主観的な情報の扱い</h3>
+            <p class="text-[var(--color-text-sub)] text-sm">
+              楽天のレビュー件数・評価点は参考情報として掲載していますが、個人の感想です。使用感・香り・テクスチャーなど体験を要する評価は、根拠のある情報源を示した場合を除き、当サイトでは断定的に記載しません。
+            </p>
+          </div>
+        </div>
       </section>
 
+      <!-- アフィリエイト開示 -->
       <section>
-        <h2 class="text-xl font-bold mb-3">免責事項</h2>
-        <p>
-          当サイトの情報は参考情報であり、商品の購入を推奨するものではありません。
-          最終的な購入判断はご自身でお願いします。
-          詳しくは<a href={url("/disclaimer")} class="text-[var(--color-primary)] hover:underline">免責事項・広告ポリシー</a>をご覧ください。
-        </p>
+        <h2 class="text-xl font-bold mb-4 text-[var(--color-text)]">広告・アフィリエイトについて</h2>
+        <div class="bg-amber-50 border border-amber-300 rounded-xl p-5">
+          <p class="text-amber-800 text-sm leading-relaxed">
+            当サイトは<strong>楽天アフィリエイトプログラム・Amazonアソシエイト・バリューコマース（Yahoo!ショッピング）</strong>に参加しています。Amazonのアソシエイトとして、暮らセレクトは適格販売により収入を得ています。商品リンクをクリックして各ショッピングサイトでご購入いただいた場合、当サイトが報酬を受け取ることがあります。ただし、この報酬が記事内の評価・掲載順位に影響することはありません。詳細は<a href={url("/disclaimer")} class="underline hover:text-amber-900">免責事項・広告ポリシー</a>をご覧ください。
+          </p>
+        </div>
       </section>
+
+      <!-- 運営者情報 -->
+      <section>
+        <h2 class="text-xl font-bold mb-4 text-[var(--color-text)]">運営者情報</h2>
+        <dl class="divide-y divide-[var(--color-border)] text-sm">
+          <div class="py-3 grid grid-cols-3 gap-2">
+            <dt class="font-semibold text-[var(--color-text-sub)] col-span-1">サイト名</dt>
+            <dd class="col-span-2">暮らセレクト（KuraSelect）</dd>
+          </div>
+          <div class="py-3 grid grid-cols-3 gap-2">
+            <dt class="font-semibold text-[var(--color-text-sub)] col-span-1">運営者</dt>
+            <dd class="col-span-2">ゆきんこ（30代・専業主婦）</dd>
+          </div>
+          <div class="py-3 grid grid-cols-3 gap-2">
+            <dt class="font-semibold text-[var(--color-text-sub)] col-span-1">運営形態</dt>
+            <dd class="col-span-2">個人運営</dd>
+          </div>
+          <div class="py-3 grid grid-cols-3 gap-2">
+            <dt class="font-semibold text-[var(--color-text-sub)] col-span-1">所在地</dt>
+            <dd class="col-span-2">非公開</dd>
+          </div>
+          <div class="py-3 grid grid-cols-3 gap-2">
+            <dt class="font-semibold text-[var(--color-text-sub)] col-span-1">開設日</dt>
+            <dd class="col-span-2">2024年11月</dd>
+          </div>
+          <div class="py-3 grid grid-cols-3 gap-2">
+            <dt class="font-semibold text-[var(--color-text-sub)] col-span-1">掲載記事数</dt>
+            <dd class="col-span-2">85本・69カテゴリ（2026年6月時点）</dd>
+          </div>
+          <div class="py-3 grid grid-cols-3 gap-2">
+            <dt class="font-semibold text-[var(--color-text-sub)] col-span-1">お問い合わせ</dt>
+            <dd class="col-span-2">
+              <a href={url("/contact")} class="text-[var(--color-primary)] hover:underline">お問い合わせフォーム</a>
+            </dd>
+          </div>
+        </dl>
+      </section>
+
+      <!-- 読者へのメッセージ＋CTA -->
+      <section class="bg-[var(--color-surface)] border border-[var(--color-border)] rounded-2xl p-6">
+        <h2 class="text-xl font-bold mb-4 text-[var(--color-text)]">最後に</h2>
+        <p class="mb-3 text-[var(--color-text-sub)]">
+          「安く買えた」と感じるより、「ちゃんとお得だった」と確信できる買い物の方が、気持ちよくないですか。
+        </p>
+        <p class="mb-5 text-[var(--color-text-sub)]">
+          このサイトが、毎日の買い物の小さな判断をほんの少し楽にするお手伝いができたら、それだけで十分です。ぜひ気になるカテゴリから見てみてください。
+        </p>
+        <div class="flex flex-col sm:flex-row gap-3">
+          <a
+            href={url("/")}
+            class="inline-block bg-[var(--color-primary)] text-white font-semibold px-6 py-3 rounded-xl text-center hover:opacity-90 transition-opacity text-sm"
+          >
+            カテゴリ一覧を見る
+          </a>
+          <a
+            href={url("/category/toilet-paper")}
+            class="inline-block border border-[var(--color-primary)] text-[var(--color-primary)] font-semibold px-6 py-3 rounded-xl text-center hover:bg-[var(--color-surface)] transition-colors text-sm"
+          >
+            人気カテゴリ：トイレットペーパー
+          </a>
+        </div>
+      </section>
+
     </div>
   </Container>
 </BaseLayout>
