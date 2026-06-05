@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Container from "../components/layout/Container.astro";
+import { url } from "../lib/site";
 ---
 
 <BaseLayout
@@ -10,23 +11,105 @@ import Container from "../components/layout/Container.astro";
   <Container class="py-12 md:py-16 max-w-2xl">
     <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)] mb-4">お問い合わせ</h1>
     <p class="text-[var(--color-text-sub)] mb-8 leading-relaxed">
-      当サイトへのご意見・ご感想・掲載内容に関するお問い合わせは、
-      以下のメールアドレスまでご連絡ください。
+      当サイトへのご意見・ご感想・掲載内容に関するお問い合わせは、以下のフォームからご連絡ください。
     </p>
 
-    <div class="bg-[var(--color-surface)] rounded-xl p-6 border border-[var(--color-border)]">
-      <h2 class="font-semibold text-[var(--color-text)] mb-3">メールアドレス</h2>
-      <!-- スパム対策: HTMLエンティティでエンコード -->
-      <p class="text-[var(--color-text)]">
-        <a
-          href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#107;&#117;&#114;&#97;&#45;&#115;&#101;&#108;&#101;&#99;&#116;&#46;&#101;&#120;&#97;&#109;&#112;&#108;&#101;&#46;&#99;&#111;&#109;"
-          class="text-[var(--color-primary)] hover:underline focus-visible:ring-2 focus-visible:ring-[var(--color-primary)]"
-        >
-          &#105;&#110;&#102;&#111;&#64;&#107;&#117;&#114;&#97;&#45;&#115;&#101;&#108;&#101;&#99;&#116;&#46;&#101;&#120;&#97;&#109;&#112;&#108;&#101;&#46;&#99;&#111;&#109;
-        </a>
+    <form
+      action="https://formspree.io/f/xzdqzaea"
+      method="POST"
+      accept-charset="UTF-8"
+      class="space-y-5 rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-5 md:p-6"
+    >
+      <input type="hidden" name="subject" value="KuraSelect お問い合わせ: {{ userSubject }}" />
+      <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" class="hidden" />
+
+      <div>
+        <label for="name" class="block text-sm font-semibold text-[var(--color-text)] mb-2">お名前</label>
+        <input
+          id="name"
+          name="name"
+          type="text"
+          required
+          maxlength="80"
+          autocomplete="name"
+          class="min-h-[52px] w-full rounded-xl border border-[var(--color-border)] bg-white px-4 text-base text-[var(--color-text)] shadow-sm outline-none transition-colors placeholder:text-[var(--color-text-sub)] focus:border-[var(--color-primary)] focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+        />
+      </div>
+
+      <div>
+        <label for="email" class="block text-sm font-semibold text-[var(--color-text)] mb-2">メールアドレス</label>
+        <input
+          id="email"
+          name="email"
+          type="email"
+          required
+          maxlength="120"
+          autocomplete="email"
+          class="min-h-[52px] w-full rounded-xl border border-[var(--color-border)] bg-white px-4 text-base text-[var(--color-text)] shadow-sm outline-none transition-colors placeholder:text-[var(--color-text-sub)] focus:border-[var(--color-primary)] focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+        />
+      </div>
+
+      <div>
+        <label for="userSubject" class="block text-sm font-semibold text-[var(--color-text)] mb-2">問い合わせ件名</label>
+        <input
+          id="userSubject"
+          name="userSubject"
+          type="text"
+          required
+          maxlength="120"
+          class="min-h-[52px] w-full rounded-xl border border-[var(--color-border)] bg-white px-4 text-base text-[var(--color-text)] shadow-sm outline-none transition-colors placeholder:text-[var(--color-text-sub)] focus:border-[var(--color-primary)] focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+        />
+      </div>
+
+      <div>
+        <label for="message" class="block text-sm font-semibold text-[var(--color-text)] mb-2">お問い合わせ内容</label>
+        <textarea
+          id="message"
+          name="message"
+          required
+          maxlength="2000"
+          rows="7"
+          class="w-full rounded-xl border border-[var(--color-border)] bg-white px-4 py-3 text-base text-[var(--color-text)] shadow-sm outline-none transition-colors placeholder:text-[var(--color-text-sub)] focus:border-[var(--color-primary)] focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+        ></textarea>
+      </div>
+
+      <div>
+        <label for="pageUrl" class="block text-sm font-semibold text-[var(--color-text)] mb-2">関連ページURL <span class="font-normal text-[var(--color-text-sub)]">任意</span></label>
+        <input
+          id="pageUrl"
+          name="pageUrl"
+          type="url"
+          maxlength="300"
+          inputmode="url"
+          placeholder="https://www.kura-select.com/articles/..."
+          class="min-h-[52px] w-full rounded-xl border border-[var(--color-border)] bg-white px-4 text-base text-[var(--color-text)] shadow-sm outline-none transition-colors placeholder:text-[var(--color-text-sub)] focus:border-[var(--color-primary)] focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+        />
+      </div>
+
+      <label class="flex gap-3 text-sm leading-relaxed text-[var(--color-text)]">
+        <input
+          type="checkbox"
+          name="privacyConsent"
+          value="同意済み"
+          required
+          class="mt-1 h-4 w-4 rounded border-[var(--color-border)] text-[var(--color-primary)] focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+        />
+        <span>
+          <a href={url("/privacy")} class="text-[var(--color-primary)] hover:underline">プライバシーポリシー</a>を確認し、送信内容の取り扱いに同意します。
+        </span>
+      </label>
+
+      <p class="text-sm leading-relaxed text-[var(--color-text-sub)]">
+        入力いただいた情報は、お問い合わせへの返信・確認のために利用します。送信内容はフォーム受付サービス Formspree を経由して送信されます。
       </p>
-      <!-- TODO: 上記メールアドレスを実際のアドレスに変更してください -->
-    </div>
+
+      <button
+        type="submit"
+        class="inline-flex min-h-[52px] w-full items-center justify-center rounded-xl bg-[var(--color-primary)] px-6 font-semibold text-white shadow-sm transition-opacity hover:opacity-90 focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2 sm:w-auto"
+      >
+        送信する
+      </button>
+    </form>
 
     <div class="mt-6 p-4 bg-sky-50 rounded-xl border border-sky-100">
       <h3 class="font-semibold text-sky-700 mb-2 text-sm">お問い合わせの際のお願い</h3>

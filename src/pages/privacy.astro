@@ -10,7 +10,7 @@ import { url } from "../lib/site";
 >
   <Container class="py-12 md:py-16 max-w-3xl">
     <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)] mb-2">プライバシーポリシー</h1>
-    <p class="text-sm text-[var(--color-text-sub)] mb-8">最終更新日: 2026年4月30日</p>
+    <p class="text-sm text-[var(--color-text-sub)] mb-8">最終更新日: 2026年6月5日</p>
 
     <div class="space-y-8 text-[var(--color-text)] leading-relaxed">
       <!-- TODO: サイト運営者の名前・連絡先を記入してください -->
@@ -28,7 +28,7 @@ import { url } from "../lib/site";
         <ul class="list-disc list-inside space-y-1 mt-2 text-[var(--color-text-sub)]">
           <li>アクセスログ（IPアドレス、ブラウザ種類、参照URL等）</li>
           <li>Google アナリティクス（GA4）によるアクセス解析データ（匿名化されたIPアドレス、閲覧ページ、滞在時間等）</li>
-          <li>お問い合わせフォームからご連絡いただいた情報</li>
+          <li>お問い合わせフォームからご連絡いただいた情報（お名前、メールアドレス、件名、本文、関連ページURL等）</li>
         </ul>
       </section>
 
@@ -57,7 +57,15 @@ import { url } from "../lib/site";
       </section>
 
       <section>
-        <h2 class="text-xl font-bold mb-3">5. 楽天アフィリエイト</h2>
+        <h2 class="text-xl font-bold mb-3">5. お問い合わせフォームについて</h2>
+        <p>
+          当サイトのお問い合わせフォームは、フォーム受付サービス Formspree を利用しています。
+          送信いただいた内容は、お問い合わせへの返信・確認のために利用し、Formspree を経由して送信・保存される場合があります。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">6. 楽天アフィリエイト</h2>
         <p>
           当サイトは楽天アフィリエイトプログラムに参加しており、
           楽天市場へのリンクをクリックした場合、楽天がCookieを使用して
@@ -67,7 +75,7 @@ import { url } from "../lib/site";
       </section>
 
       <section>
-        <h2 class="text-xl font-bold mb-3">6. 個人情報の管理</h2>
+        <h2 class="text-xl font-bold mb-3">7. 個人情報の管理</h2>
         <p>
           収集した個人情報は適切に管理し、以下の場合を除き第三者に提供しません：
         </p>
@@ -78,7 +86,7 @@ import { url } from "../lib/site";
       </section>
 
       <section>
-        <h2 class="text-xl font-bold mb-3">7. お問い合わせ</h2>
+        <h2 class="text-xl font-bold mb-3">8. お問い合わせ</h2>
         <!-- TODO: お問い合わせ先を記入してください -->
         <p>
           プライバシーポリシーに関するお問い合わせは、<a href={url("/contact")} class="text-[var(--color-primary)] hover:underline">お問い合わせページ</a>からご連絡ください。
