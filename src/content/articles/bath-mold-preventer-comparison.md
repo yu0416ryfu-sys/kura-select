@@ -1,9 +1,9 @@
 ---
-title: "お風呂防カビ剤 コスパ比較【2026年版】くん煙タイプ4選"
+title: "お風呂防カビ剤 コスパ比較【2026年版】くん煙タイプ10選"
 description: "お風呂防カビ剤を1回あたりのコストで比較。くん煙タイプや無香性タイプなど、浴室の定期ケアに使いやすい商品を選びます。"
 category: "bath-mold-preventer"
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-05"
+updatedAt: 2026-06-05
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,28 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-ypp_3799-0057823"
         available: true
   - rank: 2
+    name: "ルック おふろの防カビくん煙剤 せっけんの香り 徳用3個パック"
+    brand: "ライオン（ルック）"
+    price: 1511
+    capacity: "3個"
+    pricePerUnit: "約504円/個"
+    rating: 4.7
+    reviewCount: 10
+    features:
+      - "浴室用の防カビくん煙タイプ"
+      - "徳用パック"
+      - "定期ケア向けの商品"
+    pros:
+      - "浴室全体をまとめてケアしやすい"
+      - "香りやパック数で選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "黒カビ落とし目的の商品ではない"
+      - "使用前に手順と換気方法を確認する必要がある"
+    recommendedFor: "浴室の定期防カビケアを続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301221043-kksale%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10323436%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/rich05/4903301221043.jpg?_ex=128x128"
+  - rank: 3
     name: "らくハピ お風呂カビーヌ 防カビ 無香性"
     brand: "アース製薬（らくハピ）"
     price: 2549
@@ -72,7 +94,51 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r005-4901080080714"
         available: true
-  - rank: 3
+  - rank: 4
+    name: "ルックプラス おふろの防カビくん煙剤 フローラルの香り 3個入"
+    brand: "ライオン（ルックプラス）"
+    price: 1591
+    capacity: "3個"
+    pricePerUnit: "約530円/個"
+    rating: 4.74
+    reviewCount: 19
+    features:
+      - "浴室用の防カビくん煙タイプ"
+      - "複数個パック"
+      - "定期ケア向けの商品"
+    pros:
+      - "浴室全体をまとめてケアしやすい"
+      - "香りやパック数で選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "黒カビ落とし目的の商品ではない"
+      - "使用前に手順と換気方法を確認する必要がある"
+    recommendedFor: "浴室の定期防カビケアを続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4903301187240%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10013637%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/240/4903301187240.jpg?_ex=128x128"
+  - rank: 5
+    name: "ルック おふろの防カビくん煙剤 30個パック まとめ買い"
+    brand: "ライオン（ルック）"
+    price: 17500
+    capacity: "30個"
+    pricePerUnit: "約583円/個"
+    rating: 4.89
+    reviewCount: 9
+    features:
+      - "浴室用の防カビくん煙タイプ"
+      - "業務用まとめ買い"
+      - "定期ケア向けの商品"
+    pros:
+      - "浴室全体をまとめてケアしやすい"
+      - "香りやパック数で選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "黒カビ落とし目的の商品ではない"
+      - "使用前に手順と換気方法を確認する必要がある"
+    recommendedFor: "浴室の定期防カビケアを続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fhouse-cleaner25%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10000843%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item_r/1/house-cleaner25-a1.jpg?_ex=128x128"
+  - rank: 6
     name: "ルックプラス おふろの防カビくん煙剤 せっけんの香り"
     brand: "ライオン（ルックプラス）"
     price: 1936
@@ -105,7 +171,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10092851"
         available: true
-  - rank: 4
+  - rank: 7
     name: "ルックプラス おふろの防カビくん煙剤"
     brand: "ライオン（ルックプラス）"
     price: 1936
@@ -138,6 +204,72 @@ products:
         reviewCount: 29
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903301187240"
         available: true
+  - rank: 8
+    name: "ルックプラス おふろの防カビくん煙剤 フローラルの香り まとめ買い"
+    brand: "ライオン（ルックプラス）"
+    price: 3980
+    capacity: "6個"
+    pricePerUnit: "約663円/個"
+    rating: 4.65
+    reviewCount: 26
+    features:
+      - "浴室用の防カビくん煙タイプ"
+      - "まとめ買いタイプ"
+      - "定期ケア向けの商品"
+    pros:
+      - "浴室全体をまとめてケアしやすい"
+      - "香りやパック数で選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "黒カビ落とし目的の商品ではない"
+      - "使用前に手順と換気方法を確認する必要がある"
+    recommendedFor: "浴室の定期防カビケアを続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F64385%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10899460%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/385/64385.jpg?_ex=128x128"
+  - rank: 9
+    name: "ルックプラス おふろの防カビくん煙剤 消臭ミントの香り"
+    brand: "ライオン（ルックプラス）"
+    price: 3980
+    capacity: "6個"
+    pricePerUnit: "約663円/個"
+    rating: 4.88
+    reviewCount: 8
+    features:
+      - "浴室用の防カビくん煙タイプ"
+      - "消臭ミントの香りタイプ"
+      - "定期ケア向けの商品"
+    pros:
+      - "浴室全体をまとめてケアしやすい"
+      - "香りやパック数で選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "黒カビ落とし目的の商品ではない"
+      - "使用前に手順と換気方法を確認する必要がある"
+    recommendedFor: "浴室の定期防カビケアを続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F64387%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10899462%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/387/64387.jpg?_ex=128x128"
+  - rank: 10
+    name: "ルックプラス おふろの防カビくん煙剤 フローラルの香り"
+    brand: "ライオン（ルックプラス）"
+    price: 752
+    capacity: "1個"
+    pricePerUnit: "約752円/個"
+    rating: 4.54
+    reviewCount: 120
+    features:
+      - "浴室用の防カビくん煙タイプ"
+      - "フローラルの香りタイプ"
+      - "定期ケア向けの商品"
+    pros:
+      - "浴室全体をまとめてケアしやすい"
+      - "香りやパック数で選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "黒カビ落とし目的の商品ではない"
+      - "使用前に手順と換気方法を確認する必要がある"
+    recommendedFor: "浴室の定期防カビケアを続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001223385699%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10056479%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/994/4903301169994.jpg?_ex=128x128"
 tags:
   - "お風呂防カビ剤 おすすめ"
   - "防カビくん煙剤 コスパ"

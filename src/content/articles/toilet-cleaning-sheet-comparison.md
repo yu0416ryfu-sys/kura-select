@@ -1,12 +1,34 @@
 ---
-title: "トイレ掃除シート コスパ比較【2026年版】流せるタイプ4選"
+title: "トイレ掃除シート コスパ比較【2026年版】流せるタイプ10選"
 description: "トイレ掃除シートを1枚あたりのコストで比較。流せるタイプや厚手タイプの違い、用途に合った選び方を解説します。"
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
-updatedAt: "2026-06-05"
+updatedAt: 2026-06-05
 draft: false
 products:
   - rank: 1
+    name: "くらしリズム 流せる除菌トイレクリーナー"
+    brand: "くらしリズム"
+    price: 206
+    capacity: "30枚×2個（60枚）"
+    pricePerUnit: "約3.4円/枚"
+    rating: 4.64
+    reviewCount: 11
+    features:
+      - "トイレ用の掃除シート"
+      - "詰め替えやまとめ買い向けタイプ"
+      - "便器や便座まわりの拭き掃除向け"
+    pros:
+      - "日常掃除用をストックしやすい"
+      - "用途や香り違いで選びやすい"
+      - "流せるタイプを比較しやすい"
+    cons:
+      - "一度に流せる枚数を守る必要がある"
+      - "乾燥しにくい保管方法を確認したい"
+    recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10137083%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10075504%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/shouhin60/4582451693728.jpg?_ex=128x128"
+  - rank: 2
     name: "流せる トイレクリーナー 除菌 消臭 エンボスシート"
     brand: "ワゴンセール"
     price: 1980
@@ -39,7 +61,7 @@ products:
         reviewCount: 42
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale_4988787090024-10"
         available: true
-  - rank: 2
+  - rank: 3
     name: "激落ちくん 節水トイレ クリンぱ 流せるトイレクリーナー"
     brand: "レック（激落ちくん）"
     price: 2280
@@ -61,7 +83,29 @@ products:
     recommendedFor: "節水トイレ向けの流せるシートをまとめて備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2F4573177599661-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10002537%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/c/c01292_6.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
+    name: "トイレクイックル つめかえ用 まとめ買い"
+    brand: "花王（クイックル）"
+    price: 2679
+    capacity: "10枚×12個（120枚）"
+    pricePerUnit: "約22円/枚"
+    rating: 4.64
+    reviewCount: 11
+    features:
+      - "トイレ用の掃除シート"
+      - "詰め替えやまとめ買い向けタイプ"
+      - "便器や便座まわりの拭き掃除向け"
+    pros:
+      - "日常掃除用をストックしやすい"
+      - "用途や香り違いで選びやすい"
+      - "流せるタイプを比較しやすい"
+    cons:
+      - "一度に流せる枚数を守る必要がある"
+      - "乾燥しにくい保管方法を確認したい"
+    recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u65wn.3rdw62a6.g00u65wn.3rdw75c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3-2%2F4901301264381%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3-2%2Fi%2F10003986%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3-2/cabinet/09920139/4901301264381.jpg?_ex=128x128"
+  - rank: 5
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え"
     brand: "花王（クイックル）"
     price: 5684
@@ -94,7 +138,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksstore-yh_2734-000443"
         available: true
-  - rank: 4
+  - rank: 6
     name: "エリエール ミチガエル トイレクリーナー 本体"
     brand: "大王製紙（エリエール）"
     price: 252
@@ -127,6 +171,94 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-30881"
         available: true
+  - rank: 7
+    name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 単品"
+    brand: "花王（クイックル）"
+    price: 499
+    capacity: "20枚"
+    pricePerUnit: "約25円/枚"
+    rating: 4.63
+    reviewCount: 305
+    features:
+      - "トイレ用の掃除シート"
+      - "詰め替えやまとめ買い向けタイプ"
+      - "便器や便座まわりの拭き掃除向け"
+    pros:
+      - "日常掃除用をストックしやすい"
+      - "用途や香り違いで選びやすい"
+      - "流せるタイプを比較しやすい"
+    cons:
+      - "一度に流せる枚数を守る必要がある"
+      - "乾燥しにくい保管方法を確認したい"
+    recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000692%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10122468%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/424/4901301233424.jpg?_ex=128x128"
+  - rank: 8
+    name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 2個セット"
+    brand: "花王（クイックル）"
+    price: 984
+    capacity: "20枚×2個（40枚）"
+    pricePerUnit: "約25円/枚"
+    rating: 4.79
+    reviewCount: 58
+    features:
+      - "トイレ用の掃除シート"
+      - "詰め替えやまとめ買い向けタイプ"
+      - "便器や便座まわりの拭き掃除向け"
+    pros:
+      - "日常掃除用をストックしやすい"
+      - "用途や香り違いで選びやすい"
+      - "流せるタイプを比較しやすい"
+    cons:
+      - "一度に流せる枚数を守る必要がある"
+      - "乾燥しにくい保管方法を確認したい"
+    recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F13193%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10674131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/193/13193.jpg?_ex=128x128"
+  - rank: 9
+    name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 6袋セット"
+    brand: "花王（クイックル）"
+    price: 2963
+    capacity: "20枚×6袋（120枚）"
+    pricePerUnit: "約25円/枚"
+    rating: 4.67
+    reviewCount: 157
+    features:
+      - "トイレ用の掃除シート"
+      - "詰め替えやまとめ買い向けタイプ"
+      - "便器や便座まわりの拭き掃除向け"
+    pros:
+      - "日常掃除用をストックしやすい"
+      - "用途や香り違いで選びやすい"
+      - "流せるタイプを比較しやすい"
+    cons:
+      - "一度に流せる枚数を守る必要がある"
+      - "乾燥しにくい保管方法を確認したい"
+    recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65969%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10906710%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/969/65969.jpg?_ex=128x128"
+  - rank: 10
+    name: "トイレクイックル ストロング プレミアムローズ 詰替"
+    brand: "花王（クイックル）"
+    price: 3100
+    capacity: "16枚×6袋（96枚）"
+    pricePerUnit: "約32円/枚"
+    rating: 4.78
+    reviewCount: 9
+    features:
+      - "トイレ用の掃除シート"
+      - "詰め替えやまとめ買い向けタイプ"
+      - "便器や便座まわりの拭き掃除向け"
+    pros:
+      - "日常掃除用をストックしやすい"
+      - "用途や香り違いで選びやすい"
+      - "流せるタイプを比較しやすい"
+    cons:
+      - "一度に流せる枚数を守る必要がある"
+      - "乾燥しにくい保管方法を確認したい"
+    recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F562311%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11180586%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/311/562311.jpg?_ex=128x128"
 tags:
   - "トイレ掃除シート おすすめ"
   - "トイレ掃除シート コスパ"

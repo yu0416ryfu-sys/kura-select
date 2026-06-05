@@ -1,5 +1,5 @@
 ---
-title: "排水口クリーナー コスパ比較【2026年版】パイプ洗浄剤4選"
+title: "排水口クリーナー コスパ比較【2026年版】パイプ洗浄剤10選"
 description: "排水口クリーナーを容量あたりのコストで比較。ジェルタイプや大容量セットなど、浴室・洗面所・キッチンで使いやすい商品を選びます。"
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
@@ -51,6 +51,50 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t6mwn.3rdw690e.g00t6mwn.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famart-e%2F26100274-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famart-e%2Fi%2F10006631%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amart-e/cabinet/08990542/26100274-3.jpg?_ex=128x128"
   - rank: 3
+    name: "パイプユニッシュ PRO 凝縮パワージェル 本体"
+    brand: "ジョンソン"
+    price: 320
+    capacity: "400g"
+    pricePerUnit: "約0.80円/g"
+    rating: 4.94
+    reviewCount: 17
+    features:
+      - "排水口や排水管向けの洗浄剤"
+      - "台所や浴室まわりの排水口ケア向け"
+      - "定期掃除に使うタイプ"
+    pros:
+      - "排水口ケアをまとめて行いやすい"
+      - "用途や容量に合わせて選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "使用場所と素材の注意表示を確認する必要がある"
+      - "他の洗剤と混ぜないよう注意が必要"
+    recommendedFor: "排水口クリーナーを用途別に比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901609000926-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F11836696%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/a/4901609000926.jpg?_ex=128x128"
+  - rank: 4
+    name: "パイプユニッシュ PRO 凝縮パワージェル"
+    brand: "ジョンソン"
+    price: 336
+    capacity: "400g"
+    pricePerUnit: "約0.84円/g"
+    rating: 4.92
+    reviewCount: 13
+    features:
+      - "排水口や排水管向けの洗浄剤"
+      - "台所や浴室まわりの排水口ケア向け"
+      - "定期掃除に使うタイプ"
+    pros:
+      - "排水口ケアをまとめて行いやすい"
+      - "用途や容量に合わせて選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "使用場所と素材の注意表示を確認する必要がある"
+      - "他の洗剤と混ぜないよう注意が必要"
+    recommendedFor: "排水口クリーナーを用途別に比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901609000926%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10001134%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/a/4901609000926.jpg?_ex=128x128"
+  - rank: 5
     name: "パイプユニッシュPRO"
     brand: "ジョンソン"
     price: 3148
@@ -72,28 +116,116 @@ products:
     recommendedFor: "排水口クリーナーをまとめて備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q04pn.3rdw67f3.g00q04pn.3rdw7ea5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenetshop%2F4901609017283%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenetshop%2Fi%2F10058791%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/benetshop/cabinet/item_img/mm13/12876795/4901609017283.jpg?_ex=128x128"
-  - rank: 4
-    name: "ルック 濃効パイプマン"
-    brand: "ライオン（ルック）"
-    price: 330
-    capacity: "450mL"
-    pricePerUnit: "約0.73円/mL"
-    rating: 5
-    reviewCount: 1
+  - rank: 6
+    name: "ピーピースルーF 業務用排水管洗浄剤 12本セット"
+    brand: "和協産業"
+    price: 21800
+    capacity: "600g×12本（7200g）"
+    pricePerUnit: "約3.0円/g"
+    rating: 4.67
+    reviewCount: 6
     features:
-      - "濃効ジェルタイプ"
-      - "排水口のヌメリ取り向け"
-      - "コンパクトな単品ボトル"
+      - "排水口や排水管向けの洗浄剤"
+      - "台所や浴室まわりの排水口ケア向け"
+      - "定期掃除に使うタイプ"
     pros:
-      - "まずは単品で試したい方に向く"
-      - "収納しやすいサイズを選びやすい"
-      - "洗面所や浴室の定期ケアに使いやすい"
+      - "排水口ケアをまとめて行いやすい"
+      - "用途や容量に合わせて選びやすい"
+      - "ストック用として比較しやすい"
     cons:
-      - "まとめ買いより単価が高くなる場合がある"
-      - "使用場所と放置時間を確認する必要がある"
-    recommendedFor: "単品から排水口ケアを始めたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rsv7n.3rdw6cb7.g00rsv7n.3rdw7ff9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foosaki-st%2F4903301-129950%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foosaki-st%2Fi%2F10000303%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oosaki-st/cabinet/03474588/img60504377.jpg?_ex=128x128"
+      - "使用場所と素材の注意表示を確認する必要がある"
+      - "他の洗剤と混ぜないよう注意が必要"
+    recommendedFor: "排水口クリーナーを用途別に比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quion.3rdw6e7d.g00quion.3rdw731c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F6019094%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosharecafe%2Fi%2F10031246%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/marsn/marsn_08/rank_6019094.jpg?_ex=128x128"
+  - rank: 7
+    name: "ピーピースルーF 業務用排水管洗浄剤 2本セット"
+    brand: "和協産業"
+    price: 4110
+    capacity: "600g×2本（1200g）"
+    pricePerUnit: "約3.4円/g"
+    rating: 4.58
+    reviewCount: 351
+    features:
+      - "排水口や排水管向けの洗浄剤"
+      - "台所や浴室まわりの排水口ケア向け"
+      - "定期掃除に使うタイプ"
+    pros:
+      - "排水口ケアをまとめて行いやすい"
+      - "用途や容量に合わせて選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "使用場所と素材の注意表示を確認する必要がある"
+      - "他の洗剤と混ぜないよう注意が必要"
+    recommendedFor: "排水口クリーナーを用途別に比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quion.3rdw6e7d.g00quion.3rdw731c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F6038803%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosharecafe%2Fi%2F10067832%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/marsn/marsn_08/rank_6038803.jpg?_ex=128x128"
+  - rank: 8
+    name: "ピーピースルーF"
+    brand: "和協産業"
+    price: 2322
+    capacity: "600g"
+    pricePerUnit: "約3.9円/g"
+    rating: 4.44
+    reviewCount: 89
+    features:
+      - "排水口や排水管向けの洗浄剤"
+      - "台所や浴室まわりの排水口ケア向け"
+      - "定期掃除に使うタイプ"
+    pros:
+      - "排水口ケアをまとめて行いやすい"
+      - "用途や容量に合わせて選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "使用場所と素材の注意表示を確認する必要がある"
+      - "他の洗剤と混ぜないよう注意が必要"
+    recommendedFor: "排水口クリーナーを用途別に比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tjaxn.3rdw6c11.g00tjaxn.3rdw788b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsukkiri-kirei%2Fpp-f%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsukkiri-kirei%2Fi%2F10000018%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sukkiri-kirei/cabinet/07360080/07360160/compass1580879874.jpg?_ex=128x128"
+  - rank: 9
+    name: "ピーピースルーF 業務用 排水管洗浄剤"
+    brand: "和協産業"
+    price: 2418
+    capacity: "600g"
+    pricePerUnit: "約4.0円/g"
+    rating: 4.7
+    reviewCount: 10
+    features:
+      - "排水口や排水管向けの洗浄剤"
+      - "台所や浴室まわりの排水口ケア向け"
+      - "定期掃除に使うタイプ"
+    pros:
+      - "排水口ケアをまとめて行いやすい"
+      - "用途や容量に合わせて選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "使用場所と素材の注意表示を確認する必要がある"
+      - "他の洗剤と混ぜないよう注意が必要"
+    recommendedFor: "排水口クリーナーを用途別に比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r301n.3rdw64be.g00r301n.3rdw7822/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclean-clean%2F10001856%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclean-clean%2Fi%2F10001797%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/clean-clean/cabinet/syohingazou/gazou01/yubyub.jpg?_ex=128x128"
+  - rank: 10
+    name: "ハーバルスリー パイプクリーナー"
+    brand: "ミツエイ"
+    price: 272
+    capacity: "1000mL"
+    pricePerUnit: "約0.27円/mL"
+    rating: 4.46
+    reviewCount: 13
+    features:
+      - "排水口や排水管向けの洗浄剤"
+      - "台所や浴室まわりの排水口ケア向け"
+      - "定期掃除に使うタイプ"
+    pros:
+      - "排水口ケアをまとめて行いやすい"
+      - "用途や容量に合わせて選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "使用場所と素材の注意表示を確認する必要がある"
+      - "他の洗剤と混ぜないよう注意が必要"
+    recommendedFor: "排水口クリーナーを用途別に比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2F1m6904%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10078560%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/life/life12/9q0975.jpg?_ex=128x128"
 tags:
   - "排水口クリーナー おすすめ"
   - "パイプクリーナー コスパ"

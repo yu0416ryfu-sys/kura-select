@@ -1,9 +1,9 @@
 ---
-title: "メラミンスポンジ コスパ比較【2026年版】キューブ型4選"
+title: "メラミンスポンジ コスパ比較【2026年版】キューブ型10選"
 description: "メラミンスポンジを1個あたりのコストで比較。キューブ型・大容量・日本製など、キッチンや水まわり掃除に使いやすい商品を選びます。"
 category: "melamine-sponge"
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: 2026-06-05
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,28 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kawauchi_2kkb50088"
         available: true
   - rank: 2
+    name: "激落ち ダブルポイポイ"
+    brand: "レック（激落ちくん）"
+    price: 305
+    capacity: "40個"
+    pricePerUnit: "約7.6円/個"
+    rating: 4.8
+    reviewCount: 5
+    features:
+      - "メラミンフォームの掃除用スポンジ"
+      - "水を含ませて使うタイプ"
+      - "水まわりや陶器まわりの掃除向け"
+    pros:
+      - "日常の部分掃除に使いやすい"
+      - "個数やサイズ違いで選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "使えない素材を事前に確認する必要がある"
+      - "強くこすりすぎないよう注意したい"
+    recommendedFor: "メラミンスポンジを用途や個数で選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q8den.3rdw61ea.g00q8den.3rdw7cb4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatsuzakka-plus1%2F4903320580169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatsuzakka-plus1%2Fi%2F10010107%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/seikatsuzakka-plus1/cabinet/item/13/4903320580169.jpg?_ex=128x128"
+  - rank: 3
     name: "ピカ王 ジュニア メラミンスポンジ"
     brand: "ピカ王"
     price: 298
@@ -72,7 +94,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/colorfulbox_455149"
         available: true
-  - rank: 3
+  - rank: 4
     name: "毎日とりかえメラミンスポンジ"
     brand: "アイセン"
     price: 328
@@ -105,7 +127,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nitori-net_2111200023626-0000000000003"
         available: true
-  - rank: 4
+  - rank: 5
     name: "レック 激落ちくん メラミンスポンジ 工場用"
     brand: "レック（激落ちくん）"
     price: 5000
@@ -138,6 +160,116 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_yy5504"
         available: true
+  - rank: 6
+    name: "激落ちくん メラミンスポンジ 6個セット"
+    brand: "レック（激落ちくん）"
+    price: 719
+    capacity: "6個"
+    pricePerUnit: "約120円/個"
+    rating: 4.75
+    reviewCount: 12
+    features:
+      - "メラミンフォームの掃除用スポンジ"
+      - "水を含ませて使うタイプ"
+      - "水まわりや陶器まわりの掃除向け"
+    pros:
+      - "日常の部分掃除に使いやすい"
+      - "個数やサイズ違いで選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "使えない素材を事前に確認する必要がある"
+      - "強くこすりすぎないよう注意したい"
+    recommendedFor: "メラミンスポンジを用途や個数で選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxaln.3rdw610a.g00sxaln.3rdw7f93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoikenkou%2F103-4903320579101-6mail%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyoikenkou%2Fi%2F10194949%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yoikenkou/cabinet/th/4903320579101-06.jpg?_ex=128x128"
+  - rank: 7
+    name: "激落ちくん メラミンスポンジ まとめ買い"
+    brand: "レック（激落ちくん）"
+    price: 8500
+    capacity: "60個"
+    pricePerUnit: "約142円/個"
+    rating: 5
+    reviewCount: 9
+    features:
+      - "メラミンフォームの掃除用スポンジ"
+      - "水を含ませて使うタイプ"
+      - "水まわりや陶器まわりの掃除向け"
+    pros:
+      - "日常の部分掃除に使いやすい"
+      - "個数やサイズ違いで選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "使えない素材を事前に確認する必要がある"
+      - "強くこすりすぎないよう注意したい"
+    recommendedFor: "メラミンスポンジを用途や個数で選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fhouse-cleaner40%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10001608%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item_r/house-cleaner40-a1.jpg?_ex=128x128"
+  - rank: 8
+    name: "激落ちくんパパ メラミンスポンジ まとめ買い"
+    brand: "レック（激落ちくん）"
+    price: 12500
+    capacity: "60個"
+    pricePerUnit: "約208円/個"
+    rating: 5
+    reviewCount: 10
+    features:
+      - "メラミンフォームの掃除用スポンジ"
+      - "水を含ませて使うタイプ"
+      - "水まわりや陶器まわりの掃除向け"
+    pros:
+      - "日常の部分掃除に使いやすい"
+      - "個数やサイズ違いで選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "使えない素材を事前に確認する必要がある"
+      - "強くこすりすぎないよう注意したい"
+    recommendedFor: "メラミンスポンジを用途や個数で選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fhouse-cleaner41%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10001609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item7/house-cleaner41-a1.jpg?_ex=128x128"
+  - rank: 9
+    name: "激落ちくん メラミンスポンジ"
+    brand: "レック（激落ちくん）"
+    price: 220
+    capacity: "1個"
+    pricePerUnit: "約220円/個"
+    rating: 4.8
+    reviewCount: 15
+    features:
+      - "メラミンフォームの掃除用スポンジ"
+      - "水を含ませて使うタイプ"
+      - "水まわりや陶器まわりの掃除向け"
+    pros:
+      - "日常の部分掃除に使いやすい"
+      - "個数やサイズ違いで選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "使えない素材を事前に確認する必要がある"
+      - "強くこすりすぎないよう注意したい"
+    recommendedFor: "メラミンスポンジを用途や個数で選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pmpvn.3rdw60ee.g00pmpvn.3rdw76c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnonaka%2F387804%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnonaka%2Fi%2F10000571%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nonaka/cabinet/00024492/imgrc0087687758.jpg?_ex=128x128"
+  - rank: 10
+    name: "激落ちくん ダブルポイポイ 4個セット"
+    brand: "レック（激落ちくん）"
+    price: 1000
+    capacity: "4個"
+    pricePerUnit: "約250円/個"
+    rating: 5
+    reviewCount: 3
+    features:
+      - "メラミンフォームの掃除用スポンジ"
+      - "水を含ませて使うタイプ"
+      - "水まわりや陶器まわりの掃除向け"
+    pros:
+      - "日常の部分掃除に使いやすい"
+      - "個数やサイズ違いで選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "使えない素材を事前に確認する必要がある"
+      - "強くこすりすぎないよう注意したい"
+    recommendedFor: "メラミンスポンジを用途や個数で選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgo8n.3rdw65ec.g00tgo8n.3rdw717e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstore-marufuku%2Famac-a86059%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstore-marufuku%2Fi%2F10009776%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/store-marufuku/cabinet/shohin/tanaka25/amac-a86059_1.jpg?_ex=128x128"
 tags:
   - "メラミンスポンジ おすすめ"
   - "メラミンスポンジ コスパ"
