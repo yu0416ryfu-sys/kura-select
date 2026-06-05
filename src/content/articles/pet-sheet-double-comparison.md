@@ -4,7 +4,7 @@ description: "ペットシーツのダブル（スーパーワイド）サイズ
 category: "pet-sheet"
 publishedAt: "2026-05-26"
 updatedAt: "2026-06-05"
-draft: true
+draft: false
 products:
   - rank: 1
     name: "厚型ペットシーツ スーパーワイド"
