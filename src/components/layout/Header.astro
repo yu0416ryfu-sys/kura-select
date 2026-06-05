@@ -103,9 +103,9 @@ const navItems = [
         aria-controls="mobile-menu"
         aria-label="メニューを開く"
       >
-        <span class="w-6 h-0.5 bg-[var(--color-text)] block transition-all"></span>
-        <span class="w-6 h-0.5 bg-[var(--color-text)] block transition-all"></span>
-        <span class="w-6 h-0.5 bg-[var(--color-text)] block transition-all"></span>
+        <span id="hb-line1" class="w-6 h-0.5 bg-[var(--color-text)] block transition-all duration-300 origin-center"></span>
+        <span id="hb-line2" class="w-6 h-0.5 bg-[var(--color-text)] block transition-all duration-300"></span>
+        <span id="hb-line3" class="w-6 h-0.5 bg-[var(--color-text)] block transition-all duration-300 origin-center"></span>
       </button>
     </div>
   </Container>
@@ -168,18 +168,52 @@ const navItems = [
   // ハンバーガーメニュー開閉
   const hamburgerBtn = document.getElementById("hamburger-btn");
   const mobileMenu = document.getElementById("mobile-menu");
+  const hbLine1 = document.getElementById("hb-line1");
+  const hbLine2 = document.getElementById("hb-line2");
+  const hbLine3 = document.getElementById("hb-line3");
 
-  hamburgerBtn?.addEventListener("click", () => {
-    const isExpanded = hamburgerBtn.getAttribute("aria-expanded") === "true";
-    hamburgerBtn.setAttribute("aria-expanded", String(!isExpanded));
-    mobileMenu?.classList.toggle("hidden");
-    hamburgerBtn.setAttribute("aria-label", isExpanded ? "メニューを開く" : "メニューを閉じる");
-  });
-
-  // モバイル カテゴリアコーディオン
+  // モバイル カテゴリアコーディオン（closeMenu 内で参照するため先に宣言）
   const mobileCategoryBtn = document.getElementById("mobile-category-btn");
   const mobileCategoryList = document.getElementById("mobile-category-list");
   const mobileCategoryIcon = document.getElementById("mobile-category-icon");
+
+  function openMenu() {
+    hamburgerBtn?.setAttribute("aria-expanded", "true");
+    hamburgerBtn?.setAttribute("aria-label", "メニューを閉じる");
+    mobileMenu?.classList.remove("hidden");
+    // ハンバーガー → X に変形
+    hbLine1?.classList.add("rotate-45", "translate-y-2");
+    hbLine2?.classList.add("opacity-0", "scale-x-0");
+    hbLine3?.classList.add("-rotate-45", "-translate-y-2");
+  }
+
+  function closeMenu() {
+    hamburgerBtn?.setAttribute("aria-expanded", "false");
+    hamburgerBtn?.setAttribute("aria-label", "メニューを開く");
+    mobileMenu?.classList.add("hidden");
+    // X → ハンバーガーに戻す
+    hbLine1?.classList.remove("rotate-45", "translate-y-2");
+    hbLine2?.classList.remove("opacity-0", "scale-x-0");
+    hbLine3?.classList.remove("-rotate-45", "-translate-y-2");
+    // カテゴリアコーディオンも閉じる
+    mobileCategoryList?.classList.add("hidden");
+    mobileCategoryBtn?.setAttribute("aria-expanded", "false");
+    mobileCategoryIcon?.classList.remove("rotate-180");
+  }
+
+  hamburgerBtn?.addEventListener("click", (e) => {
+    e.stopPropagation();
+    const isExpanded = hamburgerBtn.getAttribute("aria-expanded") === "true";
+    isExpanded ? closeMenu() : openMenu();
+  });
+
+  // メニュー外タップで閉じる
+  document.addEventListener("click", (e) => {
+    const isExpanded = hamburgerBtn?.getAttribute("aria-expanded") === "true";
+    if (isExpanded && !mobileMenu?.contains(e.target as Node)) {
+      closeMenu();
+    }
+  });
 
   mobileCategoryBtn?.addEventListener("click", () => {
     const isExpanded = mobileCategoryBtn.getAttribute("aria-expanded") === "true";
@@ -190,14 +224,7 @@ const navItems = [
 
   // モバイルメニュー内のリンククリック時にメニューを閉じる（ハッシュリンク対応）
   mobileMenu?.querySelectorAll("a").forEach((link) => {
-    link.addEventListener("click", () => {
-      mobileMenu.classList.add("hidden");
-      hamburgerBtn?.setAttribute("aria-expanded", "false");
-      hamburgerBtn?.setAttribute("aria-label", "メニューを開く");
-      mobileCategoryList?.classList.add("hidden");
-      mobileCategoryBtn?.setAttribute("aria-expanded", "false");
-      mobileCategoryIcon?.classList.remove("rotate-180");
-    });
+    link.addEventListener("click", () => closeMenu());
   });
 
   // Escape キーでデスクトップドロップダウンを閉じる
