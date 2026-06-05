@@ -3,7 +3,7 @@ title: "ニキビパッチ コスパ比較【2026年版】おすすめ10選"
 description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚あたり価格で徹底比較。ヒドロコロイド素材の選び方・薄さ・目立ちにくさを解説。まとめ買いでコスパを上げるおすすめ10選。"
 category: "acne-patch"
 publishedAt: "2026-05-27"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-05"
 draft: false
 products:
   - rank: 1
@@ -27,13 +27,13 @@ products:
       - "一般医療機器区分との違いを事前に確認してから選ぶと安心"
     recommendedFor: "薬用成分配合タイプを試したい方・コメドケアも意識した使用を考えている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2mpn.3rdw6905.g00s2mpn.3rdw76e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvirginbeautyshop%2Fta-the-sp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvirginbeautyshop%2Fi%2F10005693%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/virginbeautyshop/cabinet/04226192/10028549/10028552/ta-the-sp.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/virginbeautyshop/cabinet/campaign/2606ss/img/ta-the-sp.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvirginbeautyshop%2Fta-the-sp.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 860
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/virginbeautyshop_ta-the-sp"
         available: true
@@ -46,7 +46,7 @@ products:
     capacity: "144枚"
     pricePerUnit: "約14円/枚"
     rating: 4.68
-    reviewCount: 964
+    reviewCount: 966
     features:
       - "VT PRO CICAシリーズ 48枚入り×3個のまとめ買いセット"
       - "CICA配合ハイドロゲル素材で2サイズ使い分け可能"
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580173961293.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 506
         rating: 0
         reviewCount: 2
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4560461866660.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 935
         rating: 0
         reviewCount: 2
@@ -198,7 +198,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4580173961811.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 968
         rating: 0
         reviewCount: 0
@@ -229,9 +229,9 @@ products:
   - rank: 9
     name: "VT PRO CICA クリアスポットパッチ 48枚"
     brand: "VT Cosmetics"
-    price: 900
+    price: 880
     capacity: "48枚"
-    pricePerUnit: "約19円/枚"
+    pricePerUnit: "約18円/枚"
     rating: 4.51
     reviewCount: 1427
     features:
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvely-vely%2F8809559624031yt.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/vely-vely_8809559624031yt"
         available: true

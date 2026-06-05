@@ -3,7 +3,7 @@ title: "白髪染め コスパ比較【2026年版】市販おすすめ10選"
 description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あたり価格で徹底比較。泡・クリーム・トリートメントタイプの違いや選び方を解説。コスパよく白髪ケアしたい方向けのおすすめ10選。"
 category: "hair-color"
 publishedAt: "2026-05-27"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-05"
 draft: false
 products:
   - rank: 1
@@ -35,7 +35,7 @@ products:
     capacity: "100g×2袋"
     pricePerUnit: "約7.5円/g"
     rating: 4.42
-    reviewCount: 3115
+    reviewCount: 3116
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -53,11 +53,11 @@ products:
   - rank: 3
     name: "エムズハーブカラートリートメント彩 500g"
     brand: "スリアン"
-    price: 6600
+    price: 5940
     capacity: "500g"
-    pricePerUnit: "約13円/g"
+    pricePerUnit: "約12円/g"
     rating: 4.54
-    reviewCount: 692
+    reviewCount: 693
     features:
       - "トリートメントしながら白髪に色を入れるカラートリートメントタイプ"
       - "500g入りで継続使用しやすい大容量"
@@ -77,7 +77,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpeacehair%2Fsai500gset.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/peacehair_sai500gset"
         available: true
@@ -110,7 +110,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsvenson%2Fhsrfl.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 7700
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/svenson_hsrfl"
         available: true
@@ -123,7 +123,7 @@ products:
     capacity: "400g"
     pricePerUnit: "約15円/g"
     rating: 4.36
-    reviewCount: 7405
+    reviewCount: 7416
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -143,12 +143,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsakura-place%2F10008554.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 5808
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sakura-place_10008554"
         available: true
         rating: 4.41
-        reviewCount: 1630
+        reviewCount: 1632
   - rank: 6
     name: "リーゼ 泡ヘアカラー 3個セット"
     brand: "花王（リーゼ）"
@@ -178,7 +178,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.49
-    reviewCount: 2321
+    reviewCount: 2327
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -200,7 +200,7 @@ products:
     capacity: "3個"
     pricePerUnit: "約5808円/個"
     rating: 4.52
-    reviewCount: 1613
+    reviewCount: 1616
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

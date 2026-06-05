@@ -54,12 +54,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyyshop%2F4903301340133-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 4700
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yyshop_4903301340133-10"
         available: true
         rating: 4.88
-        reviewCount: 112
+        reviewCount: 113
   - rank: 3
     name: "トップ スーパーナノックス ニオイ専用 部屋干し 詰め替え 1510g×6個セット"
     brand: "ライオン（トップ スーパーナノックス）"
@@ -131,7 +131,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -186,7 +186,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftamari-do%2Fli08c865d17f.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 4538
         rating: 0
         reviewCount: 0
@@ -219,7 +219,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F622008a.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_622008a"
         available: true
@@ -274,7 +274,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaitoriraia%2F260121-3999-3199s.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 4598
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaitoriraia_260121-3999-3199s"
         available: true

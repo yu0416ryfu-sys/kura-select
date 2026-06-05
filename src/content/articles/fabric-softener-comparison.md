@@ -3,7 +3,7 @@ title: "柔軟剤 コスパ最強ランキング【2026年版】1L459円〜10選
 description: "柔軟剤を容量あたりのコストで比較。大容量タイプは約0.46円/mL〜。消臭・香り・敏感肌向けの人気10選を解説。部屋干し臭が気になる方・赤ちゃんのいる家庭にも。"
 category: "fabric-softener"
 publishedAt: "2026-04-29"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-05"
 products:
   - rank: 1
     name: "メキシコダウニー アロマフローラル 8.5L×2本"
@@ -72,39 +72,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t9zhn.3rdw6489.g00t9zhn.3rdw7b74/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarusanstore%2F301917-1a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarusanstore%2Fi%2F10000524%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marusanstore/cabinet/conveniencegoods/301917/301917.jpg?_ex=128x128"
   - rank: 4
-    name: "ダウニー サンライズフレッシュ 4L×3本セット"
-    brand: "Downy"
-    price: 6350
-    capacity: "4L×3本（12L）"
-    pricePerUnit: "約0.53円/mL"
-    rating: 4.75
-    reviewCount: 102
-    features:
-      - "洗濯時に使う柔軟仕上げ剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "香りや仕上がりの好みに合わせやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "香りの強さは好みが分かれやすい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "香りや仕上がりの好みに合わせやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7180222%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10079641%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/thum/naosi/syoumou_set/7180222.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9590768.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-02"
-        price: 6580
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9590768"
-        available: true
-        rating: 4.74
-        reviewCount: 220
-  - rank: 5
     name: "ライオン ソフラン アロマリッチ 業務用 4L"
     brand: "ライオン（ソフラン）"
     price: 2313
@@ -131,12 +98,45 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Fr6-06046.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 2100
         rating: 5
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_r6-06046"
         available: true
+  - rank: 5
+    name: "ダウニー サンライズフレッシュ 4L×3本セット"
+    brand: "Downy"
+    price: 6980
+    capacity: "4L×3本（12L）"
+    pricePerUnit: "約0.58円/mL"
+    rating: 4.75
+    reviewCount: 102
+    features:
+      - "洗濯時に使う柔軟仕上げ剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "香りや仕上がりの好みに合わせやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りの強さは好みが分かれやすい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "香りや仕上がりの好みに合わせやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7180222%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10079641%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/thum/naosi/syoumou_set/7180222.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9590768.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-05"
+        price: 6580
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9590768"
+        available: true
+        rating: 4.74
+        reviewCount: 220
   - rank: 6
     name: "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え"
     brand: "P&G（レノア）"
@@ -197,7 +197,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsarasa-designstore%2Fset-ls021x3.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 3119
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sarasa-designstore_set-ls021x3"
         available: true
@@ -230,7 +230,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4540936002359.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 749
         rating: 4.47
         reviewCount: 17
@@ -265,7 +265,7 @@ products:
     capacity: "4袋"
     pricePerUnit: "約1249円/袋"
     rating: 4.76
-    reviewCount: 1415
+    reviewCount: 1423
     features:
       - "洗濯時に使う柔軟仕上げ剤"
       - "継続利用しやすい定番構成"

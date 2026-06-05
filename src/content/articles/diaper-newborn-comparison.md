@@ -3,7 +3,7 @@ title: "新生児用紙おむつ テープ型コスパ比較【2026年版】"
 description: "新生児用の紙おむつを1枚あたりの価格で比較。サイズアウトしやすい時期に、まとめ買い量と肌へのやさしさのバランスで選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: "2026-05-31"
+updatedAt: "2026-06-05"
 products:
   - rank: 1
     name: "ムーニー マシュマロ肌ごこち テープ 新生児"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkimurasuzuka-store%2Fyahoo20260117-b01cg1tb4q.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 1640
         rating: 0
         reviewCount: 0
@@ -65,7 +65,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301437693x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 6660
         rating: 4.88
         reviewCount: 8
@@ -120,7 +120,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02652.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 4449
         rating: 4.67
         reviewCount: 3
@@ -195,13 +195,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-171313-2.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02652.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
-        price: 4191
-        rating: 4.88
-        reviewCount: 8
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-171313-2"
+        updatedAt: "2026-06-05"
+        price: 4449
+        rating: 4.67
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos02652"
         available: true
   - rank: 8
     name: "バンボネイチャー ドリーム テープ/パンツ ニューボーン"
@@ -209,8 +209,8 @@ products:
     price: 3190
     capacity: "36枚（サイズ1・2〜4kg）"
     pricePerUnit: "約89円/枚"
-    rating: 4.74
-    reviewCount: 47
+    rating: 4.75
+    reviewCount: 48
     features:
       - "オーガニック系のプレミアム紙おむつ"
       - "テープ/パンツの案内がある海外ブランド"

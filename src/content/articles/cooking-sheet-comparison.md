@@ -3,7 +3,7 @@ title: "クッキングシート コスパ比較【2026年版】10選"
 description: "クッキングシートを1mあたりの価格で比較。ロール・繰り返し使えるタイプなど10選を、家庭用と業務用の違いや幅・長さの選び方とともに解説します。"
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-05"
 products:
   - rank: 1
     name: "フジ クッキングシート 業務用 33cm幅"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F373600.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 12980
         rating: 4.53
         reviewCount: 30
@@ -41,9 +41,9 @@ products:
   - rank: 2
     name: "KitchenNista クッキングシート エコノミータイプ 33cm幅"
     brand: "KitchenNista"
-    price: 807
+    price: 788
     capacity: "30m"
-    pricePerUnit: "約27円/m"
+    pricePerUnit: "約26円/m"
     rating: 5
     reviewCount: 1
     features:
@@ -65,7 +65,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4902534799398.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 2558
         rating: 0
         reviewCount: 0
@@ -98,8 +98,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901670109634.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
-        price: 702
+        updatedAt: "2026-06-04"
+        price: 677
         rating: 4
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901670109634"
@@ -131,7 +131,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Far-06018k.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 21390
         rating: 0
         reviewCount: 0
@@ -143,8 +143,8 @@ products:
     price: 1780
     capacity: "100枚入り"
     pricePerUnit: "約18円/枚"
-    rating: 4.6
-    reviewCount: 96
+    rating: 4.61
+    reviewCount: 97
     features:
       - "PFAS・フッ素フリーの無漂白クッキングシート"
       - "フライパンや蒸し料理・包み焼きに対応した多用途タイプ"

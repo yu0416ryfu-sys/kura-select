@@ -3,7 +3,7 @@ title: "洗濯洗剤 コスパ最強ランキング【2026年版】1回あたり
 description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉末・ジェルボール別におすすめ10選を紹介。楽天で買えるコスパ最強の洗濯洗剤を探している方必見です。"
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
-updatedAt: "2026-06-02"
+updatedAt: "2026-06-05"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -12,7 +12,7 @@ products:
     capacity: "1100g×8個"
     pricePerUnit: "約0.23円/g"
     rating: 4.76
-    reviewCount: 185
+    reviewCount: 186
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -41,9 +41,9 @@ products:
   - rank: 2
     name: "トップ クリアリキッド 業務用 4kg×3本"
     brand: "ライオン（トップ）"
-    price: 5130
+    price: 6390
     capacity: "4kg×3本"
-    pricePerUnit: "約0.43円/g"
+    pricePerUnit: "約0.53円/g"
     rating: 4.8
     reviewCount: 215
     features:
@@ -121,8 +121,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fririnana%2F1341dc22641.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
-        price: 12581
+        updatedAt: "2026-06-05"
+        price: 12688
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ririnana_1341dc22641"
         available: true
         rating: 0
@@ -130,9 +130,9 @@ products:
   - rank: 5
     name: "ナノックス ワン スタンダード 詰め替え 1400g×6袋セット"
     brand: "ライオン（ナノックス ワン）"
-    price: 7900
+    price: 7280
     capacity: "1400g×6袋（8,400g）"
-    pricePerUnit: "約0.94円/g"
+    pricePerUnit: "約0.87円/g"
     rating: 4.59
     reviewCount: 37
     features:
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -244,7 +244,7 @@ products:
     capacity: "380g×3個"
     pricePerUnit: "約6.7円/g"
     rating: 4.69
-    reviewCount: 118
+    reviewCount: 119
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -297,7 +297,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftamari-do%2Fli08c865d17f.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 4538
         rating: 0
         reviewCount: 0

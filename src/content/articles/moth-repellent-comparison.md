@@ -3,7 +3,7 @@ title: "衣類防虫剤 コスパ最強ランキング【2026年版】1個あた
 description: "クローゼット用衣類防虫剤を1個あたりのコストで徹底比較。ムシューダ・タンスにゴン・天然樟脳・アース製薬など人気10選を防虫力・コスパで解説します。"
 category: "moth-repellent"
 publishedAt: "2026-05-04"
-updatedAt: "2026-05-29"
+updatedAt: "2026-06-05"
 products:
   - rank: 1
     name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×2箱セット"
@@ -209,8 +209,8 @@ products:
     price: 3982
     capacity: "3個×5箱"
     pricePerUnit: "約265円/個"
-    rating: 4.68
-    reviewCount: 22
+    rating: 4.7
+    reviewCount: 23
     features:
       - "5箱セットでクローゼットを長期間まとめてカバー"
       - "防虫・防カビの2役を1年間有効で発揮"
@@ -296,7 +296,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuzuberu%2F20260410021305-01515.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 2241
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/suzuberu_20260410021305-01515"
         available: true
@@ -329,7 +329,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsutsu-uraura%2Feste-mh-wc3-3s.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 4966
         rating: 0
         reviewCount: 0

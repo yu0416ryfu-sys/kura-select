@@ -3,7 +3,7 @@ title: "お風呂用洗剤 コスパ最強ランキング【2026年版】1mL0.33
 description: "お風呂用洗剤を容量あたりのコストで比較。最安候補は約0.33円/mL。バスマジックリン・ルック・カビキラー・ウタマロなど10選を洗浄力・防カビ・コスパで解説します。"
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
-updatedAt: "2026-05-29"
+updatedAt: "2026-06-05"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -65,7 +65,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F85253.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 3262
         rating: 0
         reviewCount: 0
@@ -74,9 +74,9 @@ products:
   - rank: 3
     name: "バスマジックリン エアジェット 除菌EX ハーバルクリアの香り つめかえ用"
     brand: "花王（バスマジックリン）"
-    price: 722
+    price: 739
     capacity: "1000mL"
-    pricePerUnit: "約0.72円/mL"
+    pricePerUnit: "約0.74円/mL"
     rating: 4.88
     reviewCount: 17
     features:
@@ -98,7 +98,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301453242.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301453242"
         available: true
@@ -252,7 +252,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00001384.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 2099
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00001384"
         available: true

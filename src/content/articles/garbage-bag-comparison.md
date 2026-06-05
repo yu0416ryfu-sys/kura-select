@@ -3,16 +3,16 @@ title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
 description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ10選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-05"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
     brand: "HEIKO"
-    price: 1395
+    price: 1315
     capacity: "300枚"
-    pricePerUnit: "約4.7円/枚"
+    pricePerUnit: "約4.4円/枚"
     rating: 4.77
-    reviewCount: 1487
+    reviewCount: 1488
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -32,20 +32,20 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2Fpphalf300.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
-        price: 1395
+        updatedAt: "2026-06-05"
+        price: 1365
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_pphalf300"
         available: true
         rating: 4.84
-        reviewCount: 837
+        reviewCount: 842
   - rank: 2
     name: "TANOSEE　ゴミ袋エコノミー　乳白半透明"
     brand: "TANOSEE（国内大手OEM）"
     price: 5742
     capacity: "100枚×10パック（1000枚）"
     pricePerUnit: "約5.7円/枚"
-    rating: 4.68
-    reviewCount: 31
+    rating: 4.69
+    reviewCount: 32
     features:
       - "45Lの標準サイズで家庭の燃えるゴミに最適"
       - "半透明で中身が確認しやすい"
@@ -65,7 +65,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7661730.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 5742
         rating: 4.73
         reviewCount: 41
@@ -142,12 +142,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2F2030l300.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 1395
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_2030l300"
         available: true
         rating: 0
-        reviewCount: 1
+        reviewCount: 2
   - rank: 6
     name: "とって付きビニール袋 ごみ袋 20L〜25L 20枚×4セット"
     brand: "日本サニパック"
@@ -263,12 +263,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpoly-life%2Fkpl-450-2pc.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 2580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/poly-life_kpl-450-2pc"
         available: true
         rating: 5
-        reviewCount: 10
+        reviewCount: 11
 tags:
   - "ゴミ袋"
   - "コスパ"

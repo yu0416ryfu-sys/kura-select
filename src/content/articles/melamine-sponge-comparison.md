@@ -32,8 +32,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkawauchi%2F2kkb50088.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        matchStatus: "matched"
+        updatedAt: "2026-06-05"
         price: 139
         rating: 5
         reviewCount: 5
@@ -65,8 +65,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcolorfulbox%2F455149.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        matchStatus: "matched"
+        updatedAt: "2026-06-05"
         price: 328
         rating: 0
         reviewCount: 0
@@ -98,8 +98,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnitori-net%2F2111200023626-0000000000003.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        matchStatus: "matched"
+        updatedAt: "2026-06-05"
         price: 897
         rating: 0
         reviewCount: 0

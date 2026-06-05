@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsake-premoa%2F4936613072409.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 162
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sake-premoa_4936613072409"
         available: true
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4973202501285.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 114
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4973202501285"
         available: true
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10155171.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 522
         rating: 0
         reviewCount: 0
@@ -196,14 +196,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fideca%2Fed2819655.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Famethystwebshop%2F1000.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
-        price: 176
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ideca_ed2819655"
+        updatedAt: "2026-06-04"
+        price: 440
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/amethystwebshop_1000"
         available: true
         rating: 0
-        reviewCount: 0
+        reviewCount: 1
   - rank: 7
     name: "アメジスト 抗菌綿棒"
     brand: "大衛"
@@ -231,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Famethystwebshop%2F92189.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 352
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/amethystwebshop_92189"
         available: true
@@ -259,6 +259,17 @@ products:
     recommendedFor: "耳掃除・メイク直し・精密機器の掃除まで多用途に使いたい、まとめ買いでコスパを求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00urinn.3rdw6454.g00urinn.3rdw7072/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakdailyselect%2Fknn108%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakdailyselect%2Fi%2F10002070%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/akdailyselect/cabinet/top1/12798036/12867086/knn108.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkintarou%2F4976558007630.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-04"
+        price: 658
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kintarou_4976558007630"
+        available: true
   - rank: 9
     name: "綿棒 コットン100% 紙軸 お得2パックセット"
     brand: "わごんせる金橋"
@@ -308,7 +319,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkintarou%2F4976558006428.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-04"
         price: 168
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kintarou_4976558006428"
         available: true

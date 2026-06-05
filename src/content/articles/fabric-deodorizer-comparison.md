@@ -3,7 +3,7 @@ title: "衣類・布用消臭スプレー コスパ最強ランキング【2026�
 description: "衣類・布用消臭スプレーを1プッシュあたりのコストで徹底比較。ファブリーズ・リセッシュ・A2Care・ハイジアなど人気10選を消臭力で解説します。"
 category: "sanitizing-spray"
 publishedAt: "2026-05-01"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-05"
 products:
   - rank: 1
     name: "花王｜Kao Resesh リセッシュ 除菌EX デオドラントパワー 香りが残ら"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2870152018.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 313
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2870152018"
         available: true
@@ -120,7 +120,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseiketu-online%2Fnew-frais-natula-350-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 3630
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seiketu-online_new-frais-natula-350-set"
         available: true
@@ -153,7 +153,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseiketu-online%2Fnew-frais-natula-350-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 3630
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seiketu-online_new-frais-natula-350-set"
         available: true
@@ -166,7 +166,7 @@ products:
     capacity: "300mL（約600回分）"
     pricePerUnit: "約5.8円/mL"
     rating: 4.47
-    reviewCount: 416
+    reviewCount: 417
     features:
       - "ANA国際線ファーストクラスで採用実績"
       - "MA-T（二酸化塩素系）で強力除菌"
@@ -186,7 +186,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fantena5%2Fa2care300ml.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-05"
         price: 2178
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/antena5_a2care300ml"
         available: true
@@ -219,7 +219,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foasismse%2F342501-500.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 2772
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oasismse_342501-500"
         available: true
@@ -252,7 +252,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcselect%2Fsourif-500-1000-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 3200
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cselect_sourif-500-1000-set"
         available: true
@@ -285,7 +285,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903301292081.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 271
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903301292081"
         available: true

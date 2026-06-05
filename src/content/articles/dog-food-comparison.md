@@ -3,7 +3,7 @@ title: "ドッグフード コスパ比較【2026年版】おすすめ10選"
 description: "アイムス・ニュートロ・国産無添加など人気ドライドッグフードを1g単価で徹底比較。成犬・小型犬・大型犬向け選び方ガイドとまとめ買いのコスパポイントも解説。おすすめ10選。"
 category: "dog-food"
 publishedAt: "2026-05-27"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-05"
 draft: true
 products:
   - rank: 1
@@ -27,17 +27,17 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q2ujn.3rdw6097.g00q2ujn.3rdw7276/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falbiot%2Fnh_main_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falbiot%2Fi%2F10000275%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/n_nh/renew2024/nh-ml-pkimgre.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/event-bn/pb1000coup/nh-ml-pb1000.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpet-ruffruff%2F4521254012770.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhoundcom%2Fnh-12282.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 3080
         rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pet-ruffruff_4521254012770"
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/houndcom_nh-12282"
         available: true
   - rank: 2
     name: "カークランド ドッグフード チキン ライス 成犬用 12kg"
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F0019014614196.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_0019014614196"
         available: true
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwannyan%2F9763052.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 21529
         rating: 4.83
         reviewCount: 12
@@ -141,9 +141,9 @@ products:
   - rank: 5
     name: "ロイヤルカナン ミニ インドア アダルト 2kg×6個"
     brand: "ロイヤルカナン"
-    price: 17322
+    price: 17819
     capacity: "2kg×6個"
-    pricePerUnit: "約1444円/kg"
+    pricePerUnit: "約1485円/kg"
     rating: 4.6
     reviewCount: 5
     features:
@@ -159,13 +159,13 @@ products:
       - "6個セットのため保管スペースが必要になる"
     recommendedFor: "室内飼育の小型犬を多頭または長期飼育している方・開封後鮮度を優先したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fw-145111-00-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10068095%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/w-145111-00-00.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/rinji/w-145111-00-00.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoji%2F3182550746076-s.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-05"
         price: 17226
         rating: 0
         reviewCount: 0
@@ -192,14 +192,14 @@ products:
       - "犬種別専用品のため汎用フードよりg単価が高くなりやすい"
     recommendedFor: "ダックスフンドを飼育している方・犬種別設計フードを使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F9214451%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10000305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/royalcanin/9214451main.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/11076425/13209125/13431522/9214451main.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
-        price: 5319
+        updatedAt: "2026-06-05"
+        price: 6019
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
         rating: 4.5
@@ -231,12 +231,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 8980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
-        rating: 4.69
-        reviewCount: 157
+        rating: 4.7
+        reviewCount: 158
   - rank: 8
     name: "アーテミス フレッシュミックス スモールブリードアダルト3kg 小粒 小型犬 成犬 "
     brand: "アーテミス"
@@ -258,13 +258,13 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q1mvn.3rdw675d.g00q1mvn.3rdw735a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogparadise%2F4562192370942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogparadise%2Fi%2F10004845%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/artemis/0813369001904.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/ad_cart/ss/01/0813369001904.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F0813369001904.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 5830
         rating: 4.72
         reviewCount: 97
@@ -297,7 +297,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600b.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 3000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600b"
         available: true

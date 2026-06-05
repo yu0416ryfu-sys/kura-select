@@ -3,7 +3,7 @@ title: "ジェルボール洗剤 コスパ最強ランキング【2026年版】1
 description: "ジェルボール洗剤を1個あたりのコストで徹底比較。アリエール・アタックZERO・ボールドなど人気商品を洗浄力・香り・コスパで解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-05"
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"
@@ -12,7 +12,7 @@ products:
     capacity: "1100g×8個セット"
     pricePerUnit: "約0.23円/g"
     rating: 4.76
-    reviewCount: 185
+    reviewCount: 186
     features:
       - "ベビーフローラルの心地よい香りが特徴の液体洗剤"
       - "洗浄力・消臭・抗菌の三機能を一本で実現"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 3978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
         available: true
@@ -41,9 +41,9 @@ products:
   - rank: 2
     name: "トップ クリアリキッド 詰め替え"
     brand: "ライオン（トップ）"
-    price: 5130
+    price: 6390
     capacity: "4kg×3本"
-    pricePerUnit: "約428円/kg"
+    pricePerUnit: "約533円/kg"
     rating: 4.8
     reviewCount: 215
     features:
@@ -63,13 +63,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Fr5-15080k.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4903301250418.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
-        price: 5130
-        rating: 4.59
-        reviewCount: 64
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_r5-15080k"
+        updatedAt: "2026-06-05"
+        price: 5016
+        rating: 4.47
+        reviewCount: 30
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4903301250418"
         available: true
   - rank: 3
     name: "さらさ 洗濯洗剤 詰め替え 6個セット"
@@ -78,7 +78,7 @@ products:
     capacity: "1490g×6個セット"
     pricePerUnit: "約0.97円/g"
     rating: 4.72
-    reviewCount: 161
+    reviewCount: 162
     features:
       - "植物由来成分の無添加液体洗剤を6個セットで大容量購入"
       - "すすぎ1回対応で水道代・時間を節約できるエコ設計"
@@ -98,7 +98,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhikaritv%2F2010126844.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 8280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010126844"
         available: true
@@ -107,11 +107,11 @@ products:
   - rank: 4
     name: "さらさ 洗濯洗剤 詰め替え"
     brand: "P&G（さらさ）"
-    price: 7909
+    price: 8670
     capacity: "1490g"
-    pricePerUnit: "約5.3円/g"
-    rating: 4.55
-    reviewCount: 258
+    pricePerUnit: "約5.8円/g"
+    rating: 4.56
+    reviewCount: 259
     features:
       - "植物由来成分配合の無添加液体洗濯洗剤"
       - "すすぎ1回対応で水道代と時間を節約できる"
@@ -153,7 +153,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -229,8 +229,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4902875120844.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        matchStatus: "matched"
+        updatedAt: "2026-06-05"
         price: 4807
         rating: 4.3
         reviewCount: 10
@@ -263,7 +263,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F622008a.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_622008a"
         available: true
@@ -296,7 +296,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurunavi%2F1806588.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 25000
         rating: 0
         reviewCount: 0

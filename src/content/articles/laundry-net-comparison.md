@@ -3,15 +3,15 @@ title: "洗濯ネット おすすめ10選｜コスパ・用途別に徹底比較
 description: "洗濯ネットおすすめ10選をコスパ・用途別に比較。大中小セット・布団用・筒形・ブラジャー専用など種類別の選び方や1枚あたりの価格目安をわかりやすく解説します。"
 category: "laundry-net"
 publishedAt: "2026-05-29"
-updatedAt: "2026-06-01"
+updatedAt: "2026-06-05"
 draft: false
 products:
   - rank: 1
     name: "洗濯ネット 10枚入 ブラジャー専用"
     brand: "家具ドキッ"
-    price: 1480
+    price: 1580
     capacity: "10枚（13×10cm）"
-    pricePerUnit: "約148円/枚"
+    pricePerUnit: "約158円/枚"
     rating: 0
     reviewCount: 0
     features:
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkeyuca%2F4100149.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 187
         rating: 3.67
         reviewCount: 3
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flinofle%2Fly-0506.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 1490
         rating: 0
         reviewCount: 2
@@ -97,7 +97,7 @@ products:
   - rank: 4
     name: "まとめて洗える6枚セット洗濯ネット 大中2サイズ"
     brand: "HOLOMUA"
-    price: 2080
+    price: 1872
     capacity: "大3枚・中3枚（計6枚）"
     pricePerUnit: "約347円/枚"
     rating: 0

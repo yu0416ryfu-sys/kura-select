@@ -3,7 +3,7 @@ title: "Mサイズ紙おむつ テープ型10選【2026年版】コスパ比較"
 description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価格で比較。メリーズ・パンパース・ムーニーなど主要ブランドから選ぶコツを解説します。"
 category: "diaper"
 publishedAt: "2026-05-16"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-05"
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301437716x4.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 6660
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301437716x4"
         available: true
@@ -85,7 +85,7 @@ products:
   - rank: 4
     name: "パンパース さらさらケア テープ Mサイズ"
     brand: "P&G（パンパース）"
-    price: 8680
+    price: 8800
     capacity: "208枚（52枚×4個・Mサイズ・6〜11kg）"
     pricePerUnit: "約42円/枚"
     rating: 4.69
@@ -109,7 +109,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134288-case.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 8386
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134288-case"
         available: true
@@ -142,7 +142,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9662265.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 6283
         rating: 0
         reviewCount: 1
@@ -151,9 +151,9 @@ products:
   - rank: 6
     name: "パンパース オムツ はじめての肌へのいちばん テープ Mサイズ【パンパース】"
     brand: "P&G（パンパース）"
-    price: 7980
+    price: 6880
     capacity: "96枚"
-    pricePerUnit: "約83円/枚"
+    pricePerUnit: "約72円/枚"
     rating: 4.73
     reviewCount: 172
     features:
@@ -219,7 +219,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenkoo-life%2F101-x004-4903111569786.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 9402
         rating: 0
         reviewCount: 0

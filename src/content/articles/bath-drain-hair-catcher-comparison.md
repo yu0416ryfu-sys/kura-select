@@ -3,7 +3,7 @@ title: "浴室排水口ヘアキャッチャー コスパ比較【2026年版】4
 description: "浴室排水口ヘアキャッチャーを1個あたりのコストで比較。ステンレス製、ネットホルダー型、くるっと集めるタイプなどを選びます。"
 category: "bath-drain-hair-catcher"
 publishedAt: "2026-06-04"
-updatedAt: 2026-06-04
+updatedAt: 2026-06-05
 draft: false
 products:
   - rank: 1
@@ -35,7 +35,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約1000円/個"
     rating: 4.66
-    reviewCount: 515
+    reviewCount: 516
     features:
       - "浴室排水口向けのネットホルダー"
       - "排水口ネットを隠しやすい構造"

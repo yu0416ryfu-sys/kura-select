@@ -110,7 +110,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-aozora-shop%2F250929-005.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 1300
         rating: 4.83
         reviewCount: 6
@@ -231,10 +231,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fxwpio%2Fpost-schlickhydro16-4891228309626.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 2675
         rating: 4.74
-        reviewCount: 246
+        reviewCount: 247
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/xwpio_post-schlickhydro16-4891228309626"
         available: true
   - rank: 10

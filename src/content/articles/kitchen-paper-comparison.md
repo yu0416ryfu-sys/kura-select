@@ -3,7 +3,7 @@ title: "キッチンペーパー コスパ最強ランキング【2026年版】1
 description: "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気10選を吸水力・強度・コスパで解説します。"
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
-updatedAt: "2026-05-29"
+updatedAt: "2026-06-05"
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -32,7 +32,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F1228689.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 3970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_1228689"
         available: true
@@ -67,7 +67,7 @@ products:
     capacity: "400枚"
     pricePerUnit: "約8.7円/枚"
     rating: 4.7
-    reviewCount: 351
+    reviewCount: 352
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -87,7 +87,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4901750370008.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 5885
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4901750370008"
         available: true
