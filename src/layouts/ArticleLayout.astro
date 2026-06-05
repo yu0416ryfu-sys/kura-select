@@ -21,6 +21,8 @@ import { formatPriceOrConfirmation, isKnownPrice, shouldShowPricePerUnit } from 
 import { calcPricePerUnit, getArticleTargetUnit } from "../lib/capacity";
 import { SITE, url } from "../lib/site";
 import type { CollectionEntry } from "astro:content";
+import type { MarkdownHeading } from "astro";
+import ArticleToc from "../components/article/ArticleToc.astro";
 
 const linkProviders = getEnabledAffiliateProvidersFromEnv(import.meta.env);
 const priceProviders = getStaticAffiliateProvidersFromEnv(import.meta.env);
@@ -31,10 +33,37 @@ interface Props {
   categoryName: string;
   categorySlug: string;
   relatedArticles: CollectionEntry<"articles">[];
+  headings?: MarkdownHeading[];
 }
 
-const { article, categoryName, categorySlug, relatedArticles } = Astro.props;
+const { article, categoryName, categorySlug, relatedArticles, headings } = Astro.props;
 const { data } = article;
+
+type TocItem = { slug: string; text: string; depth: 2 | 3 };
+
+const markdownTocItems: TocItem[] = (headings ?? [])
+  .filter((h) => h.depth === 2 || h.depth === 3)
+  .map((h) => ({ slug: h.slug, text: h.text, depth: h.depth as 2 | 3 }));
+
+const rawTocItems: TocItem[] = [
+  ...(data.products.length > 0
+    ? [{ slug: "comparison-table", text: "商品比較表", depth: 2 as const }]
+    : []),
+  ...markdownTocItems,
+  ...(data.products.length > 0
+    ? [{ slug: "product-details", text: "各商品の詳細", depth: 2 as const }]
+    : []),
+];
+
+const seenSlugs = new Set<string>();
+const seenTexts = new Set<string>();
+const tocItems = rawTocItems.filter((item) => {
+  const textKey = `${item.depth}:${item.text}`;
+  if (seenSlugs.has(item.slug) || seenTexts.has(textKey)) return false;
+  seenSlugs.add(item.slug);
+  seenTexts.add(textKey);
+  return true;
+});
 const targetUnit = getArticleTargetUnit(article.id);
 
 // 記事別OGP画像パス（ビルド時に generate-ogp.mjs で生成）
@@ -183,15 +212,18 @@ const productJsonLds = data.products
           <TopPickCta product={data.products.find((p) => p.rank === 1) ?? data.products[0]} targetUnit={targetUnit} />
         )}
 
+        <!-- 目次（モバイル: 比較表の前） -->
+        <ArticleToc items={tocItems} class="mt-6 lg:hidden" />
+
         <!-- 比較表 -->
         {data.products.length > 0 && (
-          <section aria-label="商品比較表">
+          <section id="comparison-table" aria-label="商品比較表" class="scroll-mt-24">
             <ComparisonTable products={data.products} caption={`${data.title} 比較表`} targetUnit={targetUnit} />
           </section>
         )}
 
         <!-- 記事本文 -->
-        <div class="prose prose-slate max-w-none mt-8 [&_h2]:text-xl [&_h2]:font-bold [&_h2]:mt-8 [&_h2]:mb-4 [&_h3]:text-lg [&_h3]:font-semibold [&_h3]:mt-6 [&_h3]:mb-3 [&_p]:mb-4 [&_ul]:mb-4 [&_li]:mb-1 [&_table]:w-full [&_table]:text-sm [&_th]:bg-[var(--color-surface)] [&_th]:px-3 [&_th]:py-2 [&_td]:px-3 [&_td]:py-2 [&_td]:border-b [&_td]:border-[var(--color-border)]">
+        <div class="prose prose-slate max-w-none mt-8 [&_h2]:text-xl [&_h2]:font-bold [&_h2]:mt-8 [&_h2]:mb-4 [&_h2]:scroll-mt-24 [&_h3]:text-lg [&_h3]:font-semibold [&_h3]:mt-6 [&_h3]:mb-3 [&_h3]:scroll-mt-24 [&_p]:mb-4 [&_ul]:mb-4 [&_li]:mb-1 [&_table]:w-full [&_table]:text-sm [&_th]:bg-[var(--color-surface)] [&_th]:px-3 [&_th]:py-2 [&_td]:px-3 [&_td]:py-2 [&_td]:border-b [&_td]:border-[var(--color-border)]">
           <slot />
         </div>
 
@@ -250,7 +282,7 @@ const productJsonLds = data.products
 
         <!-- 商品詳細セクション -->
         {data.products.length > 0 && (
-          <section aria-label="商品詳細" class="mt-10">
+          <section id="product-details" aria-label="商品詳細" class="mt-10 scroll-mt-24">
             <h2 class="text-xl font-bold mb-6">各商品の詳細</h2>
             <div class="space-y-6">
               {data.products.map((product) => (
@@ -269,9 +301,12 @@ const productJsonLds = data.products
 
       <!-- サイドバー -->
       <aside>
+        <!-- 目次（デスクトップ: サイドバー上部） -->
+        <ArticleToc items={tocItems} class="hidden lg:block lg:sticky lg:top-6" />
+
         <!-- 関連記事 -->
         {relatedArticles.length > 0 && (
-          <div class="mt-8 lg:mt-0 bg-[var(--color-surface)] rounded-xl p-5 border border-[var(--color-border)]">
+          <div class="mt-8 bg-[var(--color-surface)] rounded-xl p-5 border border-[var(--color-border)]">
             <h2 class="font-bold text-[var(--color-text)] mb-4">関連記事</h2>
             <ul class="space-y-3">
               {relatedArticles.slice(0, 3).map((a) => (

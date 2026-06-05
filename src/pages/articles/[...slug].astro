@@ -30,7 +30,7 @@ const relatedArticles = allArticles
   .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime())
   .slice(0, 3);
 
-const { Content } = await render(article);
+const { Content, headings } = await render(article);
 ---
 
 <ArticleLayout
@@ -38,6 +38,7 @@ const { Content } = await render(article);
   categoryName={categoryName}
   categorySlug={categorySlug}
   relatedArticles={relatedArticles}
+  headings={headings}
 >
   <Content />
 </ArticleLayout>

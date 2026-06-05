@@ -1,0 +1,33 @@
+---
+interface TocItem {
+  slug: string;
+  text: string;
+  depth: 2 | 3;
+}
+
+interface Props {
+  items: TocItem[];
+  class?: string;
+}
+
+const { items, class: className } = Astro.props;
+
+// 2件未満は表示しない
+if (items.length < 2) return;
+---
+
+<nav aria-label="記事の目次" class:list={["bg-[var(--color-surface)] border border-[var(--color-border)] rounded-xl p-5", className]}>
+  <p class="font-bold text-[var(--color-text)] mb-3 text-sm">目次</p>
+  <ol class="space-y-1">
+    {items.map((item) => (
+      <li class:list={[item.depth === 3 && "pl-4"]}>
+        <a
+          href={`#${item.slug}`}
+          class="block py-1 text-sm text-[var(--color-text-sub)] hover:text-[var(--color-primary)] transition-colors leading-snug"
+        >
+          {item.text}
+        </a>
+      </li>
+    ))}
+  </ol>
+</nav>
