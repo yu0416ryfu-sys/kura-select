@@ -4,7 +4,7 @@ description: "エアコンフィルターの交換タイプ・枚数・コスパ
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: 2026-06-06
 draft: false
 products:
   - rank: 1
@@ -169,7 +169,7 @@ products:
     capacity: "2枚"
     pricePerUnit: "約795円/枚"
     rating: 4.4
-    reviewCount: 483
+    reviewCount: 484
     features:
       - "バイオ酵素配合でカビの発生を抑制する設計"
       - "粘着シール付きでフレームなしで装着可能"
