@@ -1,15 +1,9 @@
 ---
-import { existsSync } from "node:fs";
-import { fileURLToPath } from "node:url";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Container from "../components/layout/Container.astro";
 import JsonLd from "../components/seo/JsonLd.astro";
 import { SITE, url } from "../lib/site";
 
-// プロフィール画像はビルド時に public/images/profile.jpg の有無を確認し、
-// 存在する場合だけ JSON-LD の image とプロフィールカードの <img> を出力する。
-const profileImagePath = fileURLToPath(new URL("../../public/images/profile.jpg", import.meta.url));
-const hasProfileImage = existsSync(profileImagePath);
 const profileImageUrl = `${SITE.url}/images/profile.jpg`;
 
 const personLd = {
@@ -18,8 +12,7 @@ const personLd = {
   name: "ゆきんこ",
   description: "30代専業主婦。日用品の単位あたりコスパ比較サイト「暮らセレクト」を個人運営。",
   url: `${SITE.url}/about/`,
-  // 画像未配置のときは image を出さない（存在しない画像 URL を参照しないため）
-  ...(hasProfileImage ? { image: profileImageUrl } : {}),
+  image: profileImageUrl,
 };
 
 const jsonLdData = [
@@ -148,17 +141,15 @@ const jsonLdData = [
       <section>
         <h2 class="text-xl font-bold mb-4 text-[var(--color-text)]">運営者プロフィール</h2>
         <div class="flex flex-col sm:flex-row gap-6 items-start">
-          {hasProfileImage && (
-            <div class="w-24 h-24 rounded-full overflow-hidden bg-[var(--color-surface)] border border-[var(--color-border)] flex-shrink-0">
-              <img
-                src={url("/images/profile.jpg")}
-                alt="運営者 ゆきんこのプロフィール画像"
-                width="96"
-                height="96"
-                class="w-full h-full object-cover"
-              />
-            </div>
-          )}
+          <div class="w-24 h-24 rounded-full overflow-hidden bg-[var(--color-surface)] border border-[var(--color-border)] flex-shrink-0">
+            <img
+              src={url("/images/profile.jpg")}
+              alt="運営者 ゆきんこのプロフィール画像"
+              width="96"
+              height="96"
+              class="w-full h-full object-cover"
+            />
+          </div>
           <div>
             <p class="font-bold text-lg mb-1 text-[var(--color-text)]">ゆきんこ</p>
             <p class="text-sm text-[var(--color-text-sub)] mb-3">30代・専業主婦 ／ 2024年11月よりサイト運営</p>
