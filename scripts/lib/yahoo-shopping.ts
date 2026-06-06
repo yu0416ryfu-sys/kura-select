@@ -27,6 +27,7 @@ export interface YahooSearchOptions {
   valueCommerceSid: string;
   valueCommercePid: string;
   results?: number;
+  timeoutMs?: number;
   fetchImpl?: typeof fetch;
 }
 
@@ -87,9 +88,24 @@ export async function searchYahooShoppingItems(
   }
 
   const fetchImpl = options.fetchImpl ?? fetch;
-  const response = await fetchImpl(buildYahooItemSearchUrl(query, options));
-  if (!response.ok) {
-    throw new Error(`Yahoo itemSearch failed: ${response.status} ${response.statusText}`);
+  const timeoutMs = options.timeoutMs ?? 15000;
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), timeoutMs);
+
+  try {
+    const response = await fetchImpl(buildYahooItemSearchUrl(query, options), {
+      signal: controller.signal,
+    });
+    if (!response.ok) {
+      throw new Error(`Yahoo itemSearch failed: ${response.status} ${response.statusText}`);
+    }
+    return normalizeYahooItemSearchResponse(await response.json());
+  } catch (error) {
+    if (error instanceof Error && error.name === "AbortError") {
+      throw new Error(`Yahoo itemSearch timed out after ${timeoutMs}ms`);
+    }
+    throw error;
+  } finally {
+    clearTimeout(timeout);
   }
-  return normalizeYahooItemSearchResponse(await response.json());
 }

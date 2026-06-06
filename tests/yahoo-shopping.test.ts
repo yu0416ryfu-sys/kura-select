@@ -96,4 +96,42 @@ describe("yahoo-shopping", () => {
       })
     ).rejects.toThrow("Yahoo itemSearch failed: 400 Bad Request");
   });
+
+  it("throws a timeout error when the request exceeds timeoutMs", async () => {
+    // signal の abort を購読し AbortError で reject するスタブ（永久 pending はハングするため不可）
+    const fetchImpl = ((_url: string, opts: { signal: AbortSignal }) =>
+      new Promise((_resolve, reject) => {
+        opts.signal.addEventListener("abort", () => {
+          const e = new Error("aborted");
+          e.name = "AbortError";
+          reject(e);
+        });
+      })) as unknown as typeof fetch;
+
+    await expect(
+      searchYahooShoppingItems("洗剤", {
+        appId: "app",
+        valueCommerceSid: "sid",
+        valueCommercePid: "pid",
+        timeoutMs: 10,
+        fetchImpl,
+      })
+    ).rejects.toThrow(/timed out after 10ms/);
+  });
+
+  it("releases the timer after a successful response", async () => {
+    // timeout 後に timer が解放されることを確認（リーク時は vitest が open handle を警告）
+    const fetchImpl = (async () =>
+      new Response(JSON.stringify(success), { status: 200, statusText: "OK" })) as unknown as typeof fetch;
+
+    await expect(
+      searchYahooShoppingItems("洗剤", {
+        appId: "app",
+        valueCommerceSid: "sid",
+        valueCommercePid: "pid",
+        timeoutMs: 50,
+        fetchImpl,
+      })
+    ).resolves.toBeInstanceOf(Array);
+  });
 });
