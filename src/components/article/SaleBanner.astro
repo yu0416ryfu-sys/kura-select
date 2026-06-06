@@ -1,0 +1,22 @@
+---
+// 楽天セール期間中のみ表示する誘導バナー。
+// PUBLIC_SALE_ACTIVE=true のときだけ表示し、セール前後は env 切り替え＋デプロイで一斉に on/off する。
+// 色は既存のアフィリエイト表記（amber 系直書き）の前例に合わせている。
+// 将来的には global.css の semantic token（--color-warning 等）へ寄せる余地あり。
+import { url } from "../../lib/site";
+
+const isActive = import.meta.env.PUBLIC_SALE_ACTIVE === "true";
+const saleEndDate = import.meta.env.PUBLIC_SALE_END_DATE ?? "";
+---
+{isActive && (
+  <div class="mb-6 p-4 bg-red-50 border border-red-300 rounded-xl text-sm text-red-800">
+    <p class="font-bold mb-1">🛒 楽天お買い物マラソン 開催中！</p>
+    <p>
+      ただいま楽天お買い物マラソン開催中です{saleEndDate && `（${saleEndDate}まで）`}。まとめ買い前に
+      <a href={url("/articles/rakuten-marathon-guide")} class="underline hover:text-red-900 font-semibold">
+        マラソン攻略ガイド
+      </a>
+      で単価をチェック。
+    </p>
+  </div>
+)}

@@ -37,6 +37,11 @@ const productSchema = z.object({
   offers: z.array(offerSchema).optional(),
 });
 
+const faqSchema = z.object({
+  question: z.string(),
+  answer: z.string(),
+});
+
 const commonFields = ({ image }: { image: () => z.ZodType }) =>
   ({
     title: z.string().max(60),
@@ -47,6 +52,8 @@ const commonFields = ({ image }: { image: () => z.ZodType }) =>
     heroImage: image().optional(),
     tags: z.array(z.string()).optional(),
     draft: z.boolean().default(false),
+    // 本文の FAQ から inject-faq-frontmatter.mjs が生成（FAQPage JSON-LD 用）
+    faqs: z.array(faqSchema).optional(),
   }) as const;
 
 const articles = defineCollection({

@@ -20,6 +20,7 @@
     "check-additions": "node --experimental-strip-types scripts/update-products.mjs --check-additions",
     "update-amazon-products": "node --experimental-strip-types scripts/update-amazon-products.mjs",
     "update-amazon-products:dry": "node --experimental-strip-types scripts/update-amazon-products.mjs --dry-run",
+    "inject-faqs": "node --experimental-strip-types scripts/inject-faq-frontmatter.mjs",
     "export-ai-rag": "node --experimental-strip-types scripts/export-ai-rag-data.mjs",
     "mcp:kura-content": "node --experimental-strip-types scripts/mcp/kura-content-mcp.mjs",
     "test": "vitest run",
