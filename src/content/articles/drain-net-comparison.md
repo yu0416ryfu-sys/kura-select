@@ -3,8 +3,8 @@ title: "排水口ネット おすすめ10選｜水切りネットをコスパで
 description: "キッチンシンクの排水口ネット（水切りネット）おすすめ10選をコスパで比較。ストッキングタイプ100枚入りを中心に、1枚あたりの単価・素材・使い勝手の違いをわかりやすく解説します。"
 category: "drain-net"
 publishedAt: "2026-05-29"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 draft: false
 products:
   - rank: 1
@@ -35,7 +35,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fbk2707.html"
         matchStatus: "matched"
         updatedAt: "2026-06-05"
-        price: 43924
+        price: 43839
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_bk2707"
         available: true
         rating: 0
@@ -88,7 +88,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r001-4901422361037.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-06-05"
         price: 623
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r001-4901422361037"
@@ -149,7 +149,7 @@ products:
       - "価格・在庫はページ確認が必要"
     recommendedFor: "水切れを重視する方・複数の排水口に使い回したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf4an.3rdw647e.g00qf4an.3rdw7c2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fra-beans%2F1339654%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fra-beans%2Fi%2F10034995%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/ss20260605-4/1339654.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/d18/1339654.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -237,7 +237,7 @@ products:
       - "まとめ買いによる大幅なコスト削減は期待しにくい"
     recommendedFor: "浅型・深型どちらかわからない方・まず試してみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf4an.3rdw647e.g00qf4an.3rdw7c2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fra-beans%2F8300774%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fra-beans%2Fi%2F10015900%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/ss20260605-4/8300774.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/d2/8300774.jpg?_ex=128x128"
   - rank: 9
     name: "水切りネット ごみとり物語 三角コーナー用 不織布 50枚入"
     brand: "びーんず"
@@ -259,7 +259,7 @@ products:
       - "50枚入りのため大量消費の場合は購入頻度が高くなる"
     recommendedFor: "三角コーナーを使っている方・不織布タイプを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf4an.3rdw647e.g00qf4an.3rdw7c2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fra-beans%2F4446605%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fra-beans%2Fi%2F10015907%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/ss20260605-4/4446605.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/d2/4446605.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

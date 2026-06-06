@@ -3,8 +3,8 @@ title: "コンディショナー コスパ最強ランキング【2026年版】1
 description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気10選をダメージケア・コスパで解説します。"
 category: "conditioner"
 publishedAt: "2026-05-01"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 products:
   - rank: 1
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-ypp%2F3799-0026554.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 6280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-ypp_3799-0026554"
         available: true
@@ -110,7 +110,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffreefeel%2Fdmml006226x006240.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 3880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/freefeel_dmml006226x006240"
         available: true
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftuuhan-tamashop%2F4902111773926.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 360
         rating: 0
         reviewCount: 0
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk0602-a2510.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 1556
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk0602-a2510"
         available: true

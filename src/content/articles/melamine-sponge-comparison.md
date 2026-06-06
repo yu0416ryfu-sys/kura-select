@@ -3,8 +3,8 @@ title: "メラミンスポンジ コスパ比較【2026年版】キューブ型1
 description: "メラミンスポンジを1個あたりのコストで比較。キューブ型・大容量・日本製など、キッチンや水まわり掃除に使いやすい商品を選びます。"
 category: "melamine-sponge"
 publishedAt: "2026-06-03"
-articleType: comparison
-updatedAt: 2026-06-05
+articleType: "comparison"
+updatedAt: "2026-06-06"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkawauchi%2F2kkb50088.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 139
         rating: 5
         reviewCount: 5
@@ -62,6 +62,17 @@ products:
     recommendedFor: "メラミンスポンジを用途や個数で選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q8den.3rdw61ea.g00q8den.3rdw7cb4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatsuzakka-plus1%2F4903320580169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatsuzakka-plus1%2Fi%2F10010107%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/seikatsuzakka-plus1/cabinet/item/13/4903320580169.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903320580169.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-06"
+        price: 305
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903320580169"
+        available: true
   - rank: 3
     name: "ピカ王 ジュニア メラミンスポンジ"
     brand: "ピカ王"
@@ -89,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcolorfulbox%2F455149.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 328
         rating: 0
         reviewCount: 0
@@ -122,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnitori-net%2F2111200023626-0000000000003.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 897
         rating: 0
         reviewCount: 0
@@ -154,9 +165,9 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fyy5504.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-02"
-        price: 5660
+        matchStatus: "matched"
+        updatedAt: "2026-06-06"
+        price: 5649
         rating: 0
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_yy5504"
@@ -183,6 +194,17 @@ products:
     recommendedFor: "メラミンスポンジを用途や個数で選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxaln.3rdw610a.g00sxaln.3rdw7f93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoikenkou%2F103-4903320579101-6mail%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyoikenkou%2Fi%2F10194949%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yoikenkou/cabinet/th/4903320579101-06.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F103-m006-4903320579101.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-06"
+        price: 761
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/atlife_103-m006-4903320579101"
+        available: true
   - rank: 7
     name: "激落ちくん メラミンスポンジ まとめ買い"
     brand: "レック（激落ちくん）"
@@ -205,6 +227,17 @@ products:
     recommendedFor: "メラミンスポンジを用途や個数で選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fhouse-cleaner40%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10001608%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item_r/house-cleaner40-a1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyh-beans%2F0784751x60.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-06"
+        price: 5980
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_0784751x60"
+        available: true
   - rank: 8
     name: "激落ちくんパパ メラミンスポンジ まとめ買い"
     brand: "レック（激落ちくん）"
@@ -249,6 +282,17 @@ products:
     recommendedFor: "メラミンスポンジを用途や個数で選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pmpvn.3rdw60ee.g00pmpvn.3rdw76c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnonaka%2F387804%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnonaka%2Fi%2F10000571%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nonaka/cabinet/00024492/imgrc0087687758.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758956223-1-d.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-06"
+        price: 297
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhan-okusuri_1758956223-1-d"
+        available: true
   - rank: 10
     name: "激落ちくん ダブルポイポイ 4個セット"
     brand: "レック（激落ちくん）"

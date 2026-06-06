@@ -3,8 +3,8 @@ title: "トイレットペーパー ダブル コスパ最強ランキング【2
 description: "ダブルのトイレットペーパーを1mあたりのコストで比較。2倍巻き・3倍巻き・再生紙・肌触り重視のおすすめ10選を紹介します。交換頻度を減らしたい方にも。"
 category: "toilet-paper"
 publishedAt: "2026-05-16"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 products:
   - rank: 1
     name: "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール×4ロール×12パック 1"
@@ -46,7 +46,7 @@ products:
     capacity: "27.5m×12ロール×8パック（96ロール）"
     pricePerUnit: "約1.2円/m"
     rating: 4.58
-    reviewCount: 3488
+    reviewCount: 3490
     features:
       - "再生紙を使ったダブルタイプ"
       - "無地・無印刷で日常使いしやすい"
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fstylem%2Faj4741mstyle284edf800d.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 7635
         rating: 0
         reviewCount: 0
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9620643.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 3880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9620643"
         available: true
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F5647190.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 533
         rating: 0
         reviewCount: 0
@@ -242,10 +242,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2Fh7262029.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 1000
-        rating: 4.3
-        reviewCount: 10
+        rating: 4.27
+        reviewCount: 11
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_h7262029"
         available: true
   - rank: 9

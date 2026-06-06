@@ -3,8 +3,8 @@ title: "柔軟剤 コスパ最強ランキング【2026年版】1L459円〜10選
 description: "柔軟剤を容量あたりのコストで比較。大容量タイプは約0.46円/mL〜。消臭・香り・敏感肌向けの人気10選を解説。部屋干し臭が気になる方・赤ちゃんのいる家庭にも。"
 category: "fabric-softener"
 publishedAt: "2026-04-29"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 products:
   - rank: 1
     name: "メキシコダウニー アロマフローラル 8.5L×2本"
@@ -137,7 +137,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9590768"
         available: true
         rating: 4.74
-        reviewCount: 220
+        reviewCount: 221
   - rank: 6
     name: "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え"
     brand: "P&G（レノア）"

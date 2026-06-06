@@ -3,8 +3,8 @@ title: "トイレ用洗剤 コスパ最強ランキング【2026年版】除菌�
 description: "トイレ用洗剤を1回あたりのコストで徹底比較。サンポール・スクラビングバブル・ドメスト・ブルーレットなど人気10選を解説します。"
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
-articleType: comparison
-updatedAt: "2026-05-29"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 products:
   - rank: 1
     name: "大日本除虫菊 KINCHO サンポールV 5L"
@@ -64,7 +64,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301018755.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 276
         rating: 4.5
         reviewCount: 4
@@ -95,14 +95,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903301194200.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4903301194200.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-05"
-        price: 188
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903301194200"
+        updatedAt: "2026-06-06"
+        price: 503
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4903301194200"
         available: true
-        rating: 0
-        reviewCount: 2
+        rating: 4.48
+        reviewCount: 42
   - rank: 4
     name: "ソネット ナチュラルトイレットクリーナー"
     brand: "SONETT（ソネット）"
@@ -130,7 +130,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fglv%2Fsnt-0016-000.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/glv_snt-0016-000"
         available: true
@@ -163,7 +163,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fle-cure%2Fim-1008473.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 1980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/le-cure_im-1008473"
         available: true
@@ -240,7 +240,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901609005440x3.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 551
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901609005440x3"
         available: true

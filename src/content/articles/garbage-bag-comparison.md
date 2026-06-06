@@ -3,8 +3,8 @@ title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
 description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ10選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -13,7 +13,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約4.4円/枚"
     rating: 4.77
-    reviewCount: 1488
+    reviewCount: 1490
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -269,7 +269,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/poly-life_kpl-450-2pc"
         available: true
         rating: 5
-        reviewCount: 11
+        reviewCount: 12
 tags:
   - "ゴミ袋"
   - "コスパ"

@@ -3,8 +3,8 @@ title: "部屋干し洗剤 おすすめランキング【2026年版】生乾き�
 description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底比較。アタック抗菌EX・緑の魔女・さらさなど人気10選を抗菌力・消臭力で解説。"
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
-articleType: comparison
-updatedAt: "2026-06-01"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 products:
   - rank: 1
     name: "アタック 抗菌EX 部屋干し用 詰め替え 2380g×6個セット"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyyshop%2F4903301340133-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 4700
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yyshop_4903301340133-10"
         available: true
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -187,8 +187,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftamari-do%2Fli08c865d17f.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
-        price: 4538
+        updatedAt: "2026-06-06"
+        price: 4539
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tamari-do_li08c865d17f"
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F622008a.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_622008a"
         available: true
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaitoriraia%2F260121-3999-3199s.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 4598
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaitoriraia_260121-3999-3199s"
         available: true

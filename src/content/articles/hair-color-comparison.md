@@ -3,8 +3,8 @@ title: "白髪染め コスパ比較【2026年版】市販おすすめ10選"
 description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あたり価格で徹底比較。泡・クリーム・トリートメントタイプの違いや選び方を解説。コスパよく白髪ケアしたい方向けのおすすめ10選。"
 category: "hair-color"
 publishedAt: "2026-05-27"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "100g×2袋"
     pricePerUnit: "約7.5円/g"
     rating: 4.42
-    reviewCount: 3116
+    reviewCount: 3118
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -91,7 +91,7 @@ products:
     capacity: "300g"
     pricePerUnit: "約15円/g"
     rating: 4.04
-    reviewCount: 2674
+    reviewCount: 2675
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -124,7 +124,7 @@ products:
     capacity: "400g"
     pricePerUnit: "約15円/g"
     rating: 4.36
-    reviewCount: 7416
+    reviewCount: 7420
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -149,7 +149,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sakura-place_10008554"
         available: true
         rating: 4.41
-        reviewCount: 1632
+        reviewCount: 1633
   - rank: 6
     name: "リーゼ 泡ヘアカラー 3個セット"
     brand: "花王（リーゼ）"
@@ -179,7 +179,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.49
-    reviewCount: 2327
+    reviewCount: 2329
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

@@ -3,8 +3,8 @@ title: "ニキビパッチ コスパ比較【2026年版】おすすめ10選"
 description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚あたり価格で徹底比較。ヒドロコロイド素材の選び方・薄さ・目立ちにくさを解説。まとめ買いでコスパを上げるおすすめ10選。"
 category: "acne-patch"
 publishedAt: "2026-05-27"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvirginbeautyshop%2Fta-the-sp.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 860
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/virginbeautyshop_ta-the-sp"
         available: true
@@ -47,7 +47,7 @@ products:
     capacity: "144枚"
     pricePerUnit: "約14円/枚"
     rating: 4.68
-    reviewCount: 966
+    reviewCount: 967
     features:
       - "VT PRO CICAシリーズ 48枚入り×3個のまとめ買いセット"
       - "CICA配合ハイドロゲル素材で2サイズ使い分け可能"
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580173961293.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 506
         rating: 0
         reviewCount: 2
@@ -166,7 +166,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4560461866660.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 935
         rating: 0
         reviewCount: 2
@@ -178,8 +178,8 @@ products:
     price: 1000
     capacity: "60枚"
     pricePerUnit: "約17円/枚"
-    rating: 4.09
-    reviewCount: 68
+    rating: 4.1
+    reviewCount: 69
     features:
       - "夜間の集中ケアを目的とした就寝時使用向けパッチ"
       - "植物由来成分配合・低刺激設計"
@@ -199,7 +199,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4580173961811.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 968
         rating: 0
         reviewCount: 0
@@ -276,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvely-vely%2F8809559624031yt.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/vely-vely_8809559624031yt"
         available: true

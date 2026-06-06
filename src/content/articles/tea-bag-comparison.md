@@ -3,8 +3,8 @@ title: "麦茶ティーバッグのコスパ比較【まとめ買いおすすめ
 description: "伊藤園・はくばくなど人気麦茶ティーバッグを1袋あたりの単価で比較。内容量・タイプ別の特徴から夏の水分補給やまとめ買いに最適な商品を紹介します。"
 category: "tea-bag"
 publishedAt: "2026-05-24"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 draft: false
 products:
   - rank: 1
@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmisono-support%2Fb7-299.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 2073
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/misono-support_b7-299"
         available: true
@@ -223,7 +223,7 @@ products:
     capacity: "3.5g×50個"
     pricePerUnit: "約5.7円/g"
     rating: 4.63
-    reviewCount: 387
+    reviewCount: 388
     features:
       - "国産ハトムギ100%使用"
       - "ノンカフェイン・カフェインレス"

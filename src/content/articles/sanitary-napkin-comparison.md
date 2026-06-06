@@ -3,8 +3,8 @@ title: "ナプキン コスパ最強ランキング【2026年版】1枚あたり
 description: "生理用ナプキンを1枚あたりのコストで徹底比較。ソフィ・ロリエ・エリス・ウィスパーなど人気10選を吸収力・肌へのやさしさ・コスパで解説します。"
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 products:
   - rank: 1
     name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F600587.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 2183
         rating: 0
         reviewCount: 0
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdrmart-1%2Fcm-516393.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 9548
         rating: 0
         reviewCount: 0
@@ -211,7 +211,7 @@ products:
     capacity: "2枚"
     pricePerUnit: "約1155円/枚"
     rating: 4.57
-    reviewCount: 1068
+    reviewCount: 1069
     features:
       - "布ナプキンやライナーとして使える"
       - "肌面素材やサイズで選びやすい"
@@ -231,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbigmories%2Fmie-zk-nn-ltset.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 2500
         rating: 0
         reviewCount: 0

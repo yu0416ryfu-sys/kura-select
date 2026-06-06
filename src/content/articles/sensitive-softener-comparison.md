@@ -3,8 +3,8 @@ title: "敏感肌・赤ちゃん向け柔軟剤 おすすめランキング【20
 description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹底比較。さらさ・ランドリンボタニカル・ファーファフリー&など人気10選を低刺激性で解説。"
 category: "fabric-softener"
 publishedAt: "2026-04-30"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 products:
   - rank: 1
     name: "ランドリン 柔軟剤 詰め替えアソートセット 9個入り"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhikaritv%2F2010123672.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 6980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010123672"
         available: true
@@ -67,8 +67,8 @@ products:
     price: 1295
     capacity: "1500mL"
     pricePerUnit: "約0.86円/mL"
-    rating: 4.84
-    reviewCount: 90
+    rating: 4.85
+    reviewCount: 91
     features:
       - "無香料・無着色・ノンシリコン処方"
       - "香料・着色料・抗菌剤・シリコン無添加"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 1040
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902135322537-73-30000839"
         available: true
@@ -101,7 +101,7 @@ products:
     capacity: "1320mL×2個"
     pricePerUnit: "約1.0円/mL"
     rating: 4.85
-    reviewCount: 152
+    reviewCount: 153
     features:
       - "植物由来成分90%以上配合のボタニカル処方"
       - "パラベン・シリコン・合成香料など8つの無添加処方"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffitsonlinestore%2Flds-softset3.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 3234
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fitsonlinestore_lds-softset3"
         available: true
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469490579-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 5214
         rating: 4.88
         reviewCount: 344
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469490586-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 5214
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469490586-5"
         available: true
@@ -222,7 +222,7 @@ products:
     capacity: "960mL×5個"
     pricePerUnit: "約1.1円/mL"
     rating: 4.86
-    reviewCount: 107
+    reviewCount: 108
     features:
       - "植物由来成分配合のオーガニック処方"
       - "防臭・抗菌効果"
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469492764-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 5214
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469492764-5"
         available: true
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469501138-10.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 5478
         rating: 4.7
         reviewCount: 10
