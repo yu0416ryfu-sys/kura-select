@@ -3,8 +3,8 @@ title: "ドッグフード コスパ比較【2026年版】おすすめ10選"
 description: "アイムス・ニュートロ・国産無添加など人気ドライドッグフードを1g単価で徹底比較。成犬・小型犬・大型犬向け選び方ガイドとまとめ買いのコスパポイントも解説。おすすめ10選。"
 category: "dog-food"
 publishedAt: "2026-05-27"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 draft: false
 products:
   - rank: 1
@@ -28,17 +28,17 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q2ujn.3rdw6097.g00q2ujn.3rdw7276/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falbiot%2Fnh_main_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falbiot%2Fi%2F10000275%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/event-bn/pb1000coup/nh-ml-pb1000.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/n_nh/renew2024/nh-ml-pkimgre.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhoundcom%2Fnh-12282.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpet-ruffruff%2F4521254012770.html"
         matchStatus: "pending"
         updatedAt: "2026-06-05"
         price: 3080
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/houndcom_nh-12282"
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pet-ruffruff_4521254012770"
         available: true
   - rank: 2
     name: "カークランド ドッグフード チキン ライス 成犬用 12kg"
@@ -160,7 +160,7 @@ products:
       - "6個セットのため保管スペースが必要になる"
     recommendedFor: "室内飼育の小型犬を多頭または長期飼育している方・開封後鮮度を優先したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fw-145111-00-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10068095%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/rinji/w-145111-00-00.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/w-145111-00-00.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -200,7 +200,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
         updatedAt: "2026-06-05"
-        price: 6019
+        price: 5222
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
         rating: 4.5
@@ -278,7 +278,7 @@ products:
     capacity: "1kg"
     pricePerUnit: "約3000円/kg"
     rating: 4.72
-    reviewCount: 2536
+    reviewCount: 2537
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -331,6 +331,15 @@ tags:
   - "ドッグフード コスパ"
   - "ドライドッグフード 比較"
   - "まとめ買い"
+faqs:
+  - question: "ドライフードとウェットフードはどちらがいいですか？"
+    answer: "水分補給が必要な犬や食欲が落ちたシニア犬にはウェットフードが向いている場合があります。日常食のコスパを重視する場合はドライフードが選ばれやすいです。混合給与（ドライ+ウェット）をする飼い主も多くいます。"
+  - question: "総合栄養食と一般食の違いは何ですか？"
+    answer: "総合栄養食はAAFCOやNRCなどの栄養基準を満たした製品で、これ1種類と水だけで必要な栄養を補えるとされています。一般食・おやつは補助的な位置づけです。主食には総合栄養食を選ぶことが基本です。"
+  - question: "食物アレルギーが疑われる場合はどうすればいいですか？"
+    answer: "獣医師に相談のうえ、アレルゲン除去食やリミテッドインフリーダイエットへの切り替えを検討してください。自己判断での食事変更はかえって状態を悪化させる場合があります。"
+  - question: "フードを切り替えるときの注意点は？"
+    answer: "急に切り替えると消化器症状が出やすいため、1〜2週間かけて少しずつ新しいフードの比率を増やす「切り替え期間」を設けることが推奨されています。"
 ---
 
 ## ドッグフードの選び方ガイド

@@ -3,8 +3,8 @@ title: "麦茶ティーバッグのコスパ比較【まとめ買いおすすめ
 description: "伊藤園・はくばくなど人気麦茶ティーバッグを1袋あたりの単価で比較。内容量・タイプ別の特徴から夏の水分補給やまとめ買いに最適な商品を紹介します。"
 category: "tea-bag"
 publishedAt: "2026-05-24"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 draft: false
 products:
   - rank: 1
@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmisono-support%2Fb7-299.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 2073
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/misono-support_b7-299"
         available: true
@@ -223,7 +223,7 @@ products:
     capacity: "3.5g×50個"
     pricePerUnit: "約5.7円/g"
     rating: 4.63
-    reviewCount: 387
+    reviewCount: 388
     features:
       - "国産ハトムギ100%使用"
       - "ノンカフェイン・カフェインレス"
@@ -243,6 +243,15 @@ tags:
   - "麦茶 コスパ"
   - "ティーバッグ 比較"
   - "まとめ買い"
+faqs:
+  - question: "麦茶ティーバッグのノンカフェインとは？"
+    answer: "大麦はそもそもカフェインを含まないため、麦茶は基本的にノンカフェインです。ただしブレンドタイプは他の素材が入る場合があるため、カフェイン量が気になる場合は成分表示を確認してください。"
+  - question: "水出しと煮出しで何が違うの？"
+    answer: "煮出しは短時間で濃い麦茶が作れる一方、水出しは手間なく冷蔵庫でゆっくり抽出できます。水出し対応と表記がある製品であれば、そのまま冷水に入れるだけで使えます。"
+  - question: "賞味期限はどれくらい？"
+    answer: "一般的に乾燥したティーバッグの賞味期限は1〜2年程度が多いですが、製品によって異なります。まとめ買いする場合は賞味期限と家庭での消費ペースを照らし合わせてください。"
+  - question: "麦茶とブレンド茶、どちらを選べばいい？"
+    answer: "純麦茶は飲み慣れた味で毎日使いやすく、食事と合わせやすいのが特徴です。ブレンドタイプは風味の変化を求める人や、複数素材を一度に取り入れたい人に向いています。\r\n\r\n---"
 ---
 
 ## 麦茶ティーバッグの選び方ガイド

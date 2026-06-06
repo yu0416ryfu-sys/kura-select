@@ -3,8 +3,8 @@ title: "デンタルフロス コスパ最強ランキング【2026年版】1回
 description: "デンタルフロスを1回あたりのコストで比較したランキング。最安はGUM 550mで0.25円/回（約3年分）。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ10選。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 products:
   - rank: 1
     name: "GUM デンタルフロス 550m"
@@ -27,15 +27,15 @@ products:
       - "移動中や外出先では使いにくい"
     recommendedFor: "毎日フロスを使う方・コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0605_100b/kirikae3/28528.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0604_p5/kirikae3/28528.jpg?_ex=128x128"
   - rank: 2
     name: "クリニカ アドバンテージ スポンジフロス"
     brand: "ライオン（クリニカ）"
     price: 1347
     capacity: "40m×4個（320回）"
     pricePerUnit: "約4.2円/回"
-    rating: 4.75
-    reviewCount: 73
+    rating: 4.76
+    reviewCount: 74
     features:
       - "スポンジ状の素材で歯肉を傷つけにくい設計"
       - "小さな凹凸構造で歯垢をかき出しやすい"
@@ -57,7 +57,7 @@ products:
     capacity: "250m（500回）"
     pricePerUnit: "約5.3円/回"
     rating: 4.8
-    reviewCount: 242
+    reviewCount: 243
     features:
       - "384本の細い繊維を束ねた高密度フロス設計"
       - "詰め替え用でホルダーを再利用できるエコ設計"
@@ -103,7 +103,7 @@ products:
       - "価格帯がやや高めで試しにくい"
     recommendedFor: "歯科医院品質のフロスをまとめて揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49760%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008760%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0605_100b/kirikae2/49760_n.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0604_p5/kirikae2/49760_n.jpg?_ex=128x128"
   - rank: 5
     name: "GUM エクスパンディングフロス 30m"
     brand: "GUM"
@@ -242,7 +242,7 @@ products:
       - "まとめ買いのため初期費用が高め"
     recommendedFor: "奥歯のケアを重視する方・まとめ買いで節約したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F13122%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10000202%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0605_100b/kirikae1/04080.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0604_p5/kirikae1/04080.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -282,8 +282,8 @@ products:
         matchStatus: "matched"
         updatedAt: "2026-06-05"
         price: 1045
-        rating: 4.88
-        reviewCount: 8
+        rating: 4.89
+        reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/i-ha_23000029"
         available: true
 tags:

@@ -3,8 +3,8 @@ title: "お風呂防カビ剤 コスパ比較【2026年版】くん煙タイプ1
 description: "お風呂防カビ剤を1回あたりのコストで比較。くん煙タイプや無香性タイプなど、浴室の定期ケアに使いやすい商品を選びます。"
 category: "bath-mold-preventer"
 publishedAt: "2026-06-03"
-articleType: comparison
-updatedAt: 2026-06-05
+articleType: "comparison"
+updatedAt: "2026-06-06"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-ypp%2F3799-0057823.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 3680
         rating: 0
         reviewCount: 0
@@ -62,6 +62,17 @@ products:
     recommendedFor: "浴室の定期防カビケアを続けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301221043-kksale%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10323436%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/rich05/4903301221043.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r003-4903301221043.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-05"
+        price: 5911
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r003-4903301221043"
+        available: true
   - rank: 3
     name: "らくハピ お風呂カビーヌ 防カビ 無香性"
     brand: "アース製薬（らくハピ）"
@@ -87,13 +98,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r005-4901080080714.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frecommendo%2Fho-90015-005.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-04"
-        price: 6508
+        updatedAt: "2026-06-05"
+        price: 5880
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r005-4901080080714"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/recommendo_ho-90015-005"
         available: true
   - rank: 4
     name: "ルックプラス おふろの防カビくん煙剤 フローラルの香り 3個入"
@@ -117,6 +128,17 @@ products:
     recommendedFor: "浴室の定期防カビケアを続けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4903301187240%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10013637%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/240/4903301187240.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903301187240.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-05"
+        price: 1581
+        rating: 4.38
+        reviewCount: 29
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903301187240"
+        available: true
   - rank: 5
     name: "ルック おふろの防カビくん煙剤 30個パック まとめ買い"
     brand: "ライオン（ルック）"
@@ -166,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10092851.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 1498
         rating: 5
         reviewCount: 3
@@ -199,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903301187240.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 1581
         rating: 4.38
         reviewCount: 29
@@ -271,11 +293,29 @@ products:
     recommendedFor: "浴室の定期防カビケアを続けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001223385699%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10056479%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/994/4903301169994.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fminoku-max%2F1758928353-1-b.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-05"
+        price: 1873
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/minoku-max_1758928353-1-b"
+        available: true
 tags:
   - "お風呂防カビ剤 おすすめ"
   - "防カビくん煙剤 コスパ"
   - "浴室 防カビ 比較"
   - "お風呂掃除"
+faqs:
+  - question: "防カビ剤はカビ取り剤の代わりになりますか？"
+    answer: "多くの防カビ剤は、黒カビを落とすための商品ではありません。目立つカビは事前に掃除し、その後の定期ケアとして使うのが基本です。"
+  - question: "使用中に浴室の小物は出す必要がありますか？"
+    answer: "商品によって扱いが異なります。素材や小物の種類によって注意が必要な場合があるため、使用説明書を確認してください。"
+  - question: "まとめ買いで注意することはありますか？"
+    answer: "使用頻度と保管場所を確認しましょう。定期的に使う予定があるなら複数個パック、初めてなら少量パックから試すと選びやすくなります。"
 ---
 
 ## お風呂防カビ剤の選び方ガイド

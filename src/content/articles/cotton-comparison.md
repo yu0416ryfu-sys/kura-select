@@ -3,8 +3,8 @@ title: "コットン コスパ最強ランキング【2026年版】1枚2.7円〜
 description: "コットンを1枚あたりのコストで徹底比較。最安は1枚2.7円〜。シルコット・ビオレ・大容量無印など人気10選を吸水性・肌触り・コスパで解説。スキンケア毎日派に最適な1袋が見つかります。"
 category: "cotton"
 publishedAt: "2026-05-03"
-articleType: comparison
-updatedAt: "2026-05-29"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 products:
   - rank: 1
     name: "コットンパフ カット綿 大判"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhenojikan%2Feye058.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 2585
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthenojikan_eye058"
         available: true
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhemart%2Fetf-cotton68.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 1833
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthemart_etf-cotton68"
         available: true
@@ -119,14 +119,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111478064x2.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r001-4903111456789.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-04"
-        price: 329
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111478064x2"
+        updatedAt: "2026-06-05"
+        price: 379
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r001-4903111456789"
         available: true
-        rating: 4.75
-        reviewCount: 16
+        rating: 0
+        reviewCount: 0
   - rank: 5
     name: "ナチュラルパフ コットンパフ セット"
     brand: "アコレ"
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10034333.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 565
         rating: 0
         reviewCount: 0

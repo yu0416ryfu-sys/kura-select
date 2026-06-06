@@ -3,8 +3,8 @@ title: "お風呂用洗剤 コスパ最強ランキング【2026年版】1mL0.33
 description: "お風呂用洗剤を容量あたりのコストで比較。最安候補は約0.33円/mL。バスマジックリン・ルック・カビキラー・ウタマロなど10選を洗浄力・防カビ・コスパで解説します。"
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fn-yakuhin%2F4903301015369-3kea.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-05"
         price: 1000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/n-yakuhin_4903301015369-3kea"
         available: true
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F85253.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 3262
         rating: 0
         reviewCount: 0
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301453242.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301453242"
         available: true
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00001384.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 2099
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00001384"
         available: true
@@ -289,6 +289,15 @@ tags:
   - "掃除"
   - "カビ取り"
 draft: false
+faqs:
+  - question: "「こすらない洗剤」は本当にこすらなくていい？"
+    answer: "**A.** 毎日の軽い皮脂汚れや石鹸カスであれば、スプレーして規定時間待って流すだけで十分きれいになります。ただし、1週間以上溜まった汚れや水垢はこすり洗いとの併用がおすすめです。"
+  - question: "カビキラーとハイターは同じ？"
+    answer: "**A.** どちらも主成分は次亜塩素酸ナトリウムですが、濃度と粘度が異なります。カビキラーはスプレータイプで泡が密着しやすく、お風呂のカビ取りに特化しています。キッチンハイターは液体で浸け置き向きです。"
+  - question: "酸性洗剤と塩素系洗剤を混ぜるとどうなる？"
+    answer: "**A.** **有毒な塩素ガスが発生し非常に危険**です。「混ぜるな危険」の表記がある洗剤は、絶対に他の洗剤と混ぜたり、続けて使ったりしないでください。使用後は十分にすすいでから別の洗剤を使いましょう。"
+  - question: "お風呂のピンク汚れ（赤カビ）の正体は？"
+    answer: "**A.** ピンク汚れはカビではなく「ロドトルラ」という酵母菌です。黒カビほどしぶとくなく、中性洗剤でこすれば落ちます。ただし繁殖が早いため、換気と水分の拭き取りで予防するのが効果的です。"
 ---
 
 

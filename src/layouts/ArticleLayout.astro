@@ -23,6 +23,7 @@ import { SITE, url } from "../lib/site";
 import type { CollectionEntry } from "astro:content";
 import type { MarkdownHeading } from "astro";
 import ArticleToc from "../components/article/ArticleToc.astro";
+import SaleBanner from "../components/article/SaleBanner.astro";
 
 const linkProviders = getEnabledAffiliateProvidersFromEnv(import.meta.env);
 const priceProviders = getStaticAffiliateProvidersFromEnv(import.meta.env);
@@ -77,11 +78,30 @@ const articleJsonLd = {
   description: data.description,
   datePublished: data.publishedAt.toISOString(),
   dateModified: (data.updatedAt ?? data.publishedAt).toISOString(),
-  author: { "@type": "Organization", name: SITE.author },
+  author: {
+    "@type": "Person",
+    "@id": `${SITE.url}/about/#person`,
+    name: "ゆきんこ",
+    url: `${SITE.url}/about/`,
+  },
   publisher: { "@type": "Organization", name: SITE.nameJa },
   image: data.heroImage ? String(data.heroImage) : `${SITE.url}${SITE.ogImage}`,
   url: `${SITE.url}/articles/${article.id}`,
 };
+
+// FAQ がある記事のみ FAQPage 構造化データを出力する
+const faqJsonLd = data.faqs && data.faqs.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: data.faqs.map((faq) => ({
+    "@type": "Question",
+    name: faq.question,
+    acceptedAnswer: {
+      "@type": "Answer",
+      text: faq.answer,
+    },
+  })),
+} : null;
 
 const breadcrumbJsonLd = {
   "@context": "https://schema.org",
@@ -159,6 +179,7 @@ const productJsonLds = data.products
   <Fragment slot="head">
     <JsonLd data={articleJsonLd} />
     <JsonLd data={breadcrumbJsonLd} />
+    {faqJsonLd && <JsonLd data={faqJsonLd} />}
     {productJsonLds.map((ld) => <JsonLd data={ld} />)}
   </Fragment>
 
@@ -207,6 +228,9 @@ const productJsonLds = data.products
             )}
           </div>
         </header>
+
+        <!-- セール期間バナー（PUBLIC_SALE_ACTIVE=true のときのみ表示） -->
+        <SaleBanner />
 
         <!-- ファーストビューCTA: comparison のみ（1位商品） -->
         {isComparison && data.products.length > 0 && (

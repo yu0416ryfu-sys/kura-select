@@ -3,17 +3,17 @@ title: "洗濯洗剤 コスパ最強ランキング【2026年版】1回あたり
 description: "洗濯洗剤を1回あたりのコストで徹底比較。液体・粉末・ジェルボール別におすすめ10選を紹介。楽天で買えるコスパ最強の洗濯洗剤を探している方必見です。"
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
     brand: "ファーファ"
-    price: 1989
+    price: 3978
     capacity: "1100g×8個"
-    pricePerUnit: "約0.23円/g"
+    pricePerUnit: "約0.45円/g"
     rating: 4.76
-    reviewCount: 186
+    reviewCount: 188
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-06"
         price: 3978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
         available: true
@@ -66,8 +66,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou-selection%2Fr5-15080k.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
-        price: 5550
+        updatedAt: "2026-06-06"
+        price: 5680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou-selection_r5-15080k"
         available: true
         rating: 4.86
@@ -120,11 +120,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fririnana%2F1341dc22641.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fremtory%2Fremtoryb92c83663b.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-05"
-        price: 12688
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ririnana_1341dc22641"
+        updatedAt: "2026-06-06"
+        price: 13012
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/remtory_remtoryb92c83663b"
         available: true
         rating: 0
         reviewCount: 0
@@ -177,7 +177,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -298,8 +298,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftamari-do%2Fli08c865d17f.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
-        price: 4538
+        updatedAt: "2026-06-06"
+        price: 4539
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tamari-do_li08c865d17f"
@@ -311,6 +311,15 @@ tags:
   - "日用品"
   - "洗濯"
 draft: false
+faqs:
+  - question: "液体と粉末、どっちが汚れ落ちがいい？"
+    answer: "一般的に粉末洗剤の方が洗浄力が高いと言われています。粉末にはアルカリ性の成分が多く含まれ、皮脂汚れや泥汚れに効果的な傾向があります。ただし液体洗剤も近年は性能が向上しており、日常的な汚れなら十分な洗浄力があるとされています。"
+  - question: "ジェルボールは割高？"
+    answer: "1回あたりのコストは液体や粉末と比べて高めの傾向にあります。しかし計量不要の手軽さや、柔軟剤一体型で別途柔軟剤を買わなくてよい点を考慮すると、トータルでの差は縮まるケースもあります。"
+  - question: "部屋干し洗剤は本当に効果ある？"
+    answer: "部屋干し対応の洗剤には、生乾き臭の原因菌に対する抗菌成分が配合されています。完全に臭いを防げるわけではありませんが、通常の洗剤と比べて部屋干し臭が軽減されたという声が多い傾向にあります。"
+  - question: "洗濯洗剤の使用量を減らしても大丈夫？"
+    answer: "メーカー推奨の使用量を守ることが基本です。使用量を極端に減らすと汚れが落ちきらず、衣類に雑菌が繁殖する原因になる可能性があります。"
 ---
 
 

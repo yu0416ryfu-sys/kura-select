@@ -3,8 +3,8 @@ title: "乾電池 コスパ比較【2026年版】単3・単4おすすめ10選"
 description: "Panasonic・富士通など主要ブランドの乾電池を1本あたり価格で徹底比較。単3・単4の選び方、長期保存品の特徴、まとめ買いのコスパを解説。防災備蓄にも役立つおすすめ10選。"
 category: "battery"
 publishedAt: "2026-05-27"
-articleType: comparison
-updatedAt: "2026-06-05"
+articleType: "comparison"
+updatedAt: "2026-06-06"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約25円/本"
     rating: 4.63
-    reviewCount: 983
+    reviewCount: 985
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"
@@ -144,8 +144,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftop1-price%2F20161219-16denchi.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
-        price: 1199
+        updatedAt: "2026-06-05"
+        price: 1280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/top1-price_20161219-16denchi"
         available: true
         rating: 4.51
@@ -177,7 +177,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodmedia-wholesale%2F20200313-000001.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 1235
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodmedia-wholesale_20200313-000001"
         available: true
@@ -210,7 +210,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset92116.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 3150
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_set92116"
         available: true
@@ -243,7 +243,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset92116.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 3150
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_set92116"
         available: true
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fev21004.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-04"
+        updatedAt: "2026-06-05"
         price: 1280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_ev21004"
         available: true
@@ -309,6 +309,15 @@ tags:
   - "乾電池 コスパ"
   - "乾電池 比較"
   - "まとめ買い"
+faqs:
+  - question: "単3と単4の乾電池はどこで確認しますか？"
+    answer: "機器のバッテリースロット内の側面や、機器本体の底面に記載があります。「LR6」と書いてあれば単3、「LR03」なら単4です。"
+  - question: "充電池（ニッケル水素）と乾電池はどちらがコスパが良いですか？"
+    answer: "使用頻度が高い機器（おもちゃ、リモコン複数台など）には充電池が長期的にコスパが良くなる傾向があります。滅多に使わない機器や防災用には乾電池が向きます。"
+  - question: "液漏れを防ぐにはどうすれば良いですか？"
+    answer: "長期間使わない機器の電池は取り出して保管しましょう。残量が少ない電池を機器に入れたままにしておくと液漏れのリスクが高まります。"
+  - question: "まとめ買いした電池の保管方法は？"
+    answer: "涼しく乾燥した場所（直射日光や高温多湿を避けた場所）に保管し、プラス・マイナスが接触しないよう元のパッケージのまま保管するのが基本です。"
 ---
 
 ## 乾電池の選び方ガイド

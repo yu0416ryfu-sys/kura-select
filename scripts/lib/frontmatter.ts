@@ -44,6 +44,28 @@ function dumpFrontmatter(data: Record<string, unknown>, body: string): string {
 }
 
 /**
+ * フロントマターに faqs 配列を設定する（既存があれば上書き）。
+ * 空配列の場合は記事意図を壊さないため何もしない（faqs キー自体を増やさない）。
+ * YAML の整形は dumpFrontmatter に揃えるため、update-products 等の他更新と一貫する。
+ */
+export function setFaqsInFrontmatter(
+  content: string,
+  faqs: Array<{ question: string; answer: string }>
+): { content: string; changed: boolean } {
+  if (!faqs || faqs.length === 0) return { content, changed: false };
+  const parsed = parseFrontmatter(content);
+  if (!parsed) return { content, changed: false };
+
+  const next = faqs.map(f => ({ question: f.question, answer: f.answer }));
+  const prev = parsed.data.faqs;
+  if (JSON.stringify(prev) === JSON.stringify(next)) {
+    return { content, changed: false };
+  }
+  parsed.data.faqs = next;
+  return { content: dumpFrontmatter(parsed.data, parsed.body), changed: true };
+}
+
+/**
  * Markdownファイルのフロントマターから products 配列の name を抽出する
  */
 export function extractProductNames(content: string): string[] {
