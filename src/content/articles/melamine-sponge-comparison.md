@@ -198,7 +198,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F103-m006-4903320579101.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-06-06"
         price: 761
         rating: 0
@@ -231,7 +231,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyh-beans%2F0784751x60.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-06-06"
         price: 5980
         rating: 0

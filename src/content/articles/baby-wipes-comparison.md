@@ -39,7 +39,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_20661"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         rating: 0
         reviewCount: 0
   - rank: 2
@@ -72,9 +72,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_2000363s"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         rating: 4.78
-        reviewCount: 1376
+        reviewCount: 1378
   - rank: 3
     name: "おしりふき ふんわり 菌99.9除去 大容量"
     brand: "レック"
@@ -105,7 +105,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_4903320482647"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         rating: 4.68
         reviewCount: 647
   - rank: 4
@@ -140,7 +140,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4903111159802-4"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         rating: 4.56
         reviewCount: 9
   - rank: 5
@@ -201,7 +201,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjiatentusa%2F20230815193940-00102.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-06"
         price: 4825
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/jiatentusa_20230815193940-00102"
         available: true

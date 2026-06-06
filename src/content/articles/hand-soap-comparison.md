@@ -119,14 +119,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10068791.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r001-4903301176862.html"
         matchStatus: "pending"
         updatedAt: "2026-06-06"
-        price: 328
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10068791"
+        price: 348
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r001-4903301176862"
         available: true
-        rating: 5
-        reviewCount: 6
+        rating: 0
+        reviewCount: 0
   - rank: 5
     name: "ハンドラボ 薬用泡ハンドソープ 300mL"
     brand: "サラヤ（ハンドラボ）"

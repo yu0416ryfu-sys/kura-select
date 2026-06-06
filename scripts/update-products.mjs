@@ -1691,6 +1691,17 @@ const DIAPER_ACCESSORY_EXCLUDE_TERMS = [
 ];
 
 function getArticleSpecificAdditionRule(category, baseKeyword) {
+  if (category === 'cooking-pot' && /フライパン/.test(baseKeyword)) {
+    return {
+      keywords: ['IH対応 フライパン 26cm', 'フライパン 26cm IH ガス火対応', '取っ手が外れる フライパン 26cm IH'],
+      include: ['フライパン', 'IH対応', 'IH', 'ガス火対応', '26cm', '26センチ'],
+      requiredGroups: [['フライパン'], ['IH対応', 'IH']],
+      exclude: ['鍋', '片手鍋', '両手鍋', '卵焼き', '玉子焼き', '蓋のみ', 'ふたのみ', '取っ手のみ', 'ハンドルのみ', 'セット', '収納', 'ラック'],
+      units: ['個'],
+      minScore: 4,
+    };
+  }
+
   if (category === 'toilet-cleaner' && /掃除シート|クリーナーシート|お掃除シート/.test(baseKeyword)) {
     return {
       keywords: ['トイレ掃除シート', '流せる トイレクリーナー シート', 'ミチガエル トイレクリーナー'],
