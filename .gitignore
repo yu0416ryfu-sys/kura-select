@@ -45,6 +45,9 @@ docs/
 # Claude Code ローカル設定
 .claude/settings.local.json
 
+# Codex ローカル設定
+.codex/config.toml
+
 # Claudeの内部作業領域（最も重要な除外）
 .claude/worktrees/
 
