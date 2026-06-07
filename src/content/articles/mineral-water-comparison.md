@@ -4,7 +4,7 @@ description: "サントリー・アサヒ・エビアンなど人気の天然水
 category: "mineral-water"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: "2026-06-07"
 draft: false
 products:
   - rank: 1
@@ -58,7 +58,7 @@ products:
     capacity: "500mL×24本（12L）"
     pricePerUnit: "約93円/L"
     rating: 4.7
-    reviewCount: 1205
+    reviewCount: 1218
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"
@@ -144,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmeshiya%2F001-0010-001-spu1712.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-07"
         price: 3240
         rating: 4.4
         reviewCount: 575

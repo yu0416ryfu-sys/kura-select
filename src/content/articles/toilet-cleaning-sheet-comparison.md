@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: "2026-06-07"
 draft: false
 products:
   - rank: 1
@@ -33,8 +33,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10137083.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-06"
+        matchStatus: "matched"
+        updatedAt: "2026-06-07"
         price: 206
         rating: 4.5
         reviewCount: 4
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale%2F4988787090024-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-07"
         price: 1680
         rating: 4.5
         reviewCount: 42
@@ -122,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwansa-kun-shop%2Fgeneral-bathroom-001.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-07"
         price: 2426
         rating: 0
         reviewCount: 0
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksstore-yh%2F2734-000443.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-07"
         price: 4480
         rating: 5
         reviewCount: 5
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhome-life%2F101-30881.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-07"
         price: 333
         rating: 0
         reviewCount: 0
@@ -242,8 +242,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F13193.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-06"
+        matchStatus: "matched"
+        updatedAt: "2026-06-07"
         price: 984
         rating: 4.44
         reviewCount: 55
@@ -276,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksstore-yh%2F2734-000777.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-07"
         price: 2480
         rating: 4.4
         reviewCount: 5

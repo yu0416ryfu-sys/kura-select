@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhemart%2Fetf-cotton68.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-07"
         price: 1833
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthemart_etf-cotton68"
         available: true
@@ -120,8 +120,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r001-4903111456789.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-05"
+        matchStatus: "matched"
+        updatedAt: "2026-06-07"
         price: 379
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r001-4903111456789"
         available: true
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10034333.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-07"
         price: 565
         rating: 0
         reviewCount: 0

@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりのコストで比較。大容量タイ
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: "2026-06-07"
 products:
   - rank: 1
     name: "メキシコダウニー アロマフローラル 8.5L×2本"
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Fr6-06046.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-07"
         price: 2100
         rating: 5
         reviewCount: 4
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9590768.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-07"
         price: 6580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9590768"
         available: true
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b07bdlfd98-20260329.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-07"
         price: 2864
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b07bdlfd98-20260329"
         available: true
@@ -178,7 +178,7 @@ products:
     capacity: "700mL"
     pricePerUnit: "約3.8円/mL"
     rating: 4.43
-    reviewCount: 448
+    reviewCount: 449
     features:
       - "植物由来成分使用の低刺激処方"
       - "無蛍光剤・無漂白剤・無着色料"
@@ -198,7 +198,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsarasa-designstore%2Fset-ls021x3.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-07"
         price: 3119
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sarasa-designstore_set-ls021x3"
         available: true
@@ -231,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4540936002359.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-07"
         price: 749
         rating: 4.47
         reviewCount: 17

@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: 2026-06-06
+updatedAt: 2026-06-07
 draft: false
 products:
   - rank: 1
@@ -207,8 +207,8 @@ products:
     price: 1000
     capacity: "-"
     pricePerUnit: "-"
-    rating: 4.57
-    reviewCount: 242
+    rating: 4.56
+    reviewCount: 245
     features:
       - "MSXE5-1000正規品に名入れ無料サービスが込みで1,000円台"
       - "0.38/0.5/0.7mm軸径を選択でき、用途に合わせてカスタマイズ可能"
@@ -222,7 +222,7 @@ products:
       - "名入れ後は返品不可のため注文内容の事前確認が必須"
     recommendedFor: "名入れコストを抑えたい方・まとめてギフトを手配したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qm7tn.3rdw6475.g00qm7tn.3rdw747f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-youstyle%2Fmit-msxe5-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-youstyle%2Fi%2F10066665%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-youstyle/cabinet/rakulogo/rakulogo-01/imgrc0099322122.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-youstyle/cabinet/rakulogo/rakulogo-01/imgrc0099322530.jpg?_ex=128x128"
   - rank: 10
     name: "サラサグランド ビンテージ ジェルボールペン"
     brand: "ZEBRA（ゼブラ）"

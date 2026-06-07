@@ -4,7 +4,7 @@ description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹
 category: "contact-lens"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: "2026-06-07"
 products:
   - rank: 1
     name: "ポイント10倍！オプティフリープラス"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcontact-clean%2F284.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-07"
         price: 3230
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/contact-clean_284"
         available: true
@@ -68,7 +68,7 @@ products:
     capacity: "500mL×6本"
     pricePerUnit: "約1.1円/mL"
     rating: 4.88
-    reviewCount: 1254
+    reviewCount: 1256
     features:
       - "ソフトコンタクトレンズ用の洗浄・すすぎ・消毒・保存液"
       - "大きめボトルを複数本そろえられるセット構成"
@@ -123,7 +123,7 @@ products:
     capacity: "355mL×12本"
     pricePerUnit: "約1.1円/mL"
     rating: 4.81
-    reviewCount: 2905
+    reviewCount: 2906
     features:
       - "ソフトコンタクトレンズ用の洗浄・保存液セット"
       - "ボシュロムのレニューフレッシュを大容量で用意できる"
@@ -143,12 +143,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworld-cl%2F2019016.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-07"
         price: 4170
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/world-cl_2019016"
         available: true
         rating: 4.79
-        reviewCount: 362
+        reviewCount: 363
   - rank: 6
     name: "レニューフレッシュ 355ml 12本セット"
     brand: "ボシュロム"
@@ -176,12 +176,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworld-cl%2F2019016.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-07"
         price: 4170
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/world-cl_2019016"
         available: true
         rating: 4.79
-        reviewCount: 362
+        reviewCount: 363
   - rank: 7
     name: "レニューフレッシュ 355ml 10本"
     brand: "ボシュロム"

@@ -4,7 +4,7 @@ description: "ヘアトリートメント・ヘアマスクを1mLあたりのコ
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: 2026-06-07
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -101,7 +101,7 @@ products:
     capacity: "180g"
     pricePerUnit: "約13円/g"
     rating: 4.65
-    reviewCount: 2208
+    reviewCount: 2210
     features:
       - "12種の植物成分を含む25種以上の植物由来成分配合"
       - "シルク・ココナッツオイル・アルガンオイルなどの保湿成分を配合"
@@ -167,7 +167,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約22円/mL"
     rating: 4.73
-    reviewCount: 1182
+    reviewCount: 1183
     features:
       - "くせ毛ケアのディシプリンラインのコンディショナータイプ"
       - "髪の広がりを抑えまとまりのある艶やかな仕上がりをもたらす処方"
@@ -222,7 +222,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約66円/mL"
     rating: 4.77
-    reviewCount: 1151
+    reviewCount: 1156
     features:
       - "エイジングケア特化のクロノロジストライン集中マスク"
       - "ダメージ補修とエイジングケアを同時にアプローチする処方"

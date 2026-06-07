@@ -4,7 +4,7 @@ description: "食器用洗剤を容量あたりのコストで比較。最安候
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: "2026-06-07"
 products:
   - rank: 1
     name: "ライオン CHARMY Magica 除菌＋ プロフェッショナル 無香料 ハーバ"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9847345.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-07"
         price: 2980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9847345"
         available: true
@@ -134,7 +134,7 @@ products:
     capacity: "1250mL×6本"
     pricePerUnit: "約0.67円/mL"
     rating: 4.74
-    reviewCount: 513
+    reviewCount: 514
     features:
       - "花王独自の界面活性剤で油汚れをすっきり落とす"
       - "詰め替え大容量でコスパ優秀"
@@ -200,7 +200,7 @@ products:
     capacity: "2300mL×2本"
     pricePerUnit: "約0.99円/mL"
     rating: 4.62
-    reviewCount: 52
+    reviewCount: 53
     features:
       - "台所用石けんの大容量詰め替えセット"
       - "液体タイプで日常の食器洗いに使いやすい"
