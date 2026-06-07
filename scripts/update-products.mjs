@@ -19,7 +19,7 @@
 import { readFileSync, writeFileSync, appendFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
 import { spawnSync } from 'child_process';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
@@ -2671,6 +2671,7 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
 
   let updatedContent = content;
   const zeroSearchDeletedHistoryItems = [];
+  const frozenProductNames = new Set();
 
   for (const [productIndex, name] of productNames.entries()) {
     progress?.product(file, index, productIndex, productNames.length, name);
@@ -2735,6 +2736,7 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
       );
       const shouldFreezePriceCapacity = Boolean(
         (data.name && isMultiMeasureVariantItemName(data.name)) ||
+        (data.name && isSalesQuantityVariantItemName(data.name)) ||
         isManualCapacityApiConflict
       );
       const hasKnownApiPrice = typeof data.price === 'number' && data.price > 0;
@@ -2755,7 +2757,9 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
       // Item/Get は同一商品確定のため差異があれば即更新、Search は誤ヒット防止のため5%超のみ更新
       if (data.name) {
         if (shouldFreezePriceCapacity) {
-          capacityNotes.push(`capacity判定: 複数容量バリエーションのため要確認。capacity/pricePerUnitは自動更新しない`);
+          updates.price = null;           // 最安バリアント価格の流入を防ぎ既存 price を保持
+          frozenProductNames.add(name);   // 後段 syncPricePerUnitWithPolicy で除外する
+          capacityNotes.push(`capacity判定: 組数選択/複数容量バリエーションのため要確認。price/capacity/pricePerUnitは自動更新しない`);
         } else if (capacity && extractedCap) {
           const oldTotal = extractCapacityTotal(capacity);
           const newTotal = extractCapacityTotal(extractedCap);
@@ -2857,7 +2861,7 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
           delete updates.newCapacity;
         }
 
-        const existingCapacityPricePerUnit = capacity && hasKnownApiPrice
+        const existingCapacityPricePerUnit = !shouldFreezePriceCapacity && capacity && hasKnownApiPrice
           ? calcPricePerUnit(data.price, capacity, preferUnit)
           : null;
         updates.pricePerUnit = existingCapacityPricePerUnit ?? beforeSnapshot?.pricePerUnit ?? null;
@@ -3036,7 +3040,7 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
   }
 
   // 機能0: pricePerUnit を price+capacity+単位ポリシーから同期（スキップ商品の単位ズレも補正）
-  const ppuSyncResult = syncPricePerUnitWithPolicy(updatedContent, preferUnit);
+  const ppuSyncResult = syncPricePerUnitWithPolicy(updatedContent, preferUnit, frozenProductNames);
   if (ppuSyncResult.changed) {
     updatedContent = ppuSyncResult.content;
     ppuSyncResult.log.forEach(l => log(`   💱 ${l}`));

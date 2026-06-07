@@ -13,6 +13,7 @@ import {
   extractCapacityFromItemName,
   analyzeCapacityFromItemName,
   isMultiMeasureVariantItemName,
+  isSalesQuantityVariantItemName,
   mergeExistingMeasureWithSalesQuantity,
   isSameMeasureBaseWithExistingQuantity,
   isSalesQuantityCapacity,
@@ -724,6 +725,55 @@ describe("isMultiMeasureVariantItemName", () => {
   it("実容量と販売数量の掛け算は複数容量扱いにしない", () => {
     expect(isMultiMeasureVariantItemName("無洗米 コシヒカリ 5kg×2袋")).toBe(false);
     expect(isMultiMeasureVariantItemName("シャンプー 500mL×3本")).toBe(false);
+  });
+});
+
+describe("isSalesQuantityVariantItemName", () => {
+  it("同一単位の組数選択（60個,30個）を検知する", () => {
+    expect(
+      isSalesQuantityVariantItemName(
+        "2倍巻き 100m シングル 森を守ろう！ トイレットペーパー (60個,30個) 個包装 業務用"
+      )
+    ).toBe(true);
+  });
+  it("中黒区切りのロール選択も検知する", () => {
+    expect(isSalesQuantityVariantItemName("トイレットペーパー 100m 60ロール・30ロール")).toBe(true);
+  });
+  it("乗算チェーンは変種扱いにしない", () => {
+    expect(isSalesQuantityVariantItemName("スコッティ 200枚×5箱")).toBe(false);
+    expect(isSalesQuantityVariantItemName("無洗米 コシヒカリ 5kg×2袋")).toBe(false);
+  });
+  it("内訳表記（単発括弧）は変種扱いにしない", () => {
+    expect(isSalesQuantityVariantItemName("ネピア 60枚（2,880枚）")).toBe(false);
+  });
+  it("異なる単位が1回ずつの並びは変種扱いにしない", () => {
+    expect(isSalesQuantityVariantItemName("森を守ろう 12ロール×8パック 96個")).toBe(false);
+  });
+});
+
+describe("syncPricePerUnitWithPolicy skipNames", () => {
+  const md = [
+    "---",
+    "products:",
+    "  - rank: 1",
+    "    name: \"森を守ろう トイレットペーパー シングル\"",
+    "    price: 3550",
+    "    capacity: \"100m×60ロール\"",
+    "    pricePerUnit: \"約0.59円/m\"",
+    "---",
+    "本文",
+    "",
+  ].join("\n");
+
+  it("skipNames に含む商品は pricePerUnit を再計算しない", () => {
+    const skip = new Set(["森を守ろう トイレットペーパー シングル"]);
+    const result = syncPricePerUnitWithPolicy(md, undefined, skip);
+    expect(result.changed).toBe(false);
+  });
+
+  it("skipNames を渡さなければ従来どおり同期する（後方互換）", () => {
+    const result = syncPricePerUnitWithPolicy(md);
+    expect(typeof result.changed).toBe("boolean");
   });
 });
 

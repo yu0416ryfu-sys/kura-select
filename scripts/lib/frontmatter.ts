@@ -198,6 +198,10 @@ export function extractProductRakutenUrl(content: string, productName: string): 
 // src/lib/capacity.ts から import 済み（上部参照）。
 const SALES_QUANTITY_UNITS = '枚|個|本|袋|セット|パック|箱|ケース';
 const MEASURE_UNITS = 'mL|ml|L|g|kg';
+// 組数選択型の列挙検出に使う単位（既存 SALES_QUANTITY_UNITS + ロール/組）
+const VARIANT_ENUM_UNITS = '枚|個|本|袋|セット|パック|箱|ケース|ロール|組';
+// 列挙区切り（半角/全角カンマ・読点・スラッシュ・中黒）
+const VARIANT_ENUM_DELIMITERS = ',，、/／・';
 
 function escapeRegExp(s: string): string {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -286,6 +290,27 @@ export function isLikelySalesQuantityCapacityMisread(itemName: string, extracted
 
 // extractCapacityTotal / normalizeCapacityTotal / calcPricePerUnit は
 // src/lib/capacity.ts へ移送（上部で import + 再エクスポート済み）。
+
+/**
+ * 楽天の「組数を選べる」商品名かどうかを判定する。
+ * 同一の販売数量単位が列挙区切りで2つ以上並ぶ場合に true。
+ * 例: "(60個,30個)" → true（最安バリアント価格が返るため自動更新を避ける）
+ * 例: "200枚×5箱"   → false（乗算チェーンであり変種ではない）
+ */
+export function isSalesQuantityVariantItemName(itemName: string): boolean {
+  const normalized = normalizeItemName(itemName);
+  const re = new RegExp(
+    `(\\d[\\d,]*)\\s*(${VARIANT_ENUM_UNITS})\\s*[${VARIANT_ENUM_DELIMITERS}]\\s*(\\d[\\d,]*)\\s*(${VARIANT_ENUM_UNITS})`,
+    'gi'
+  );
+  for (const match of normalized.matchAll(re)) {
+    if (match[2].toLowerCase() !== match[4].toLowerCase()) continue;
+    const a = parseInt(match[1].replace(/,/g, ''), 10);
+    const b = parseInt(match[3].replace(/,/g, ''), 10);
+    if (Number.isFinite(a) && Number.isFinite(b) && a !== b) return true;
+  }
+  return false;
+}
 
 /**
  * 楽天の容量選択式商品名かどうかを判定する。
@@ -848,7 +873,8 @@ export function reorderProductsByPricePerUnit(
  */
 export function syncPricePerUnitWithPolicy(
   content: string,
-  preferUnit?: string
+  preferUnit?: string,
+  skipNames?: ReadonlySet<string>
 ): { content: string; changed: boolean; log: string[] } {
   const parsed = parseFrontmatter(content);
   if (!parsed || !Array.isArray(parsed.data.products)) {
@@ -861,6 +887,8 @@ export function syncPricePerUnitWithPolicy(
   const log: string[] = [];
 
   for (const product of products) {
+    const name = typeof product.name === 'string' ? product.name : null;
+    if (name && skipNames?.has(name)) continue;
     const price = typeof product.price === 'number' ? product.price : null;
     const capacity = typeof product.capacity === 'string' ? product.capacity : null;
     if (price === null || price <= 0 || !capacity) continue;

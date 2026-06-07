@@ -1,44 +1,12 @@
 ---
-title: "トイレットペーパー シングル コスパ最強ランキング2026｜1m0.59円〜まとめ買い比較"
-description: "シングルのトイレットペーパーを1mあたりのコストで徹底比較。最安は1m約0.59円（60ロールまとめ買い時）。長尺タイプ・芯なし・まとめ買い向けを中心に選び方のポイントも解説します。"
+title: "トイレットペーパー シングル コスパ最強ランキング2026｜1m0.61円〜まとめ買い比較"
+description: "シングルのトイレットペーパーを1mあたりのコストで徹底比較。最安は1m約0.61円（170m×48ロール箱買い時）。長尺タイプ・芯なし・まとめ買い向けを中心に選び方のポイントも解説します。"
 category: "toilet-paper"
 publishedAt: "2024-11-01"
 articleType: "comparison"
-updatedAt: "2026-06-07"
+updatedAt: 2026-06-07
 products:
   - rank: 1
-    name: "森を守ろう トイレットペーパー シングル"
-    brand: "牧製紙"
-    price: 3550
-    capacity: "100m×60ロール"
-    pricePerUnit: "約0.59円/m"
-    rating: 4.66
-    reviewCount: 740
-    features:
-      - "無漂白の再生紙を使用したシングルタイプ"
-      - "個包装でロールごとに保管しやすい"
-      - "芯ありで一般的なホルダーに合わせやすい"
-    pros:
-      - "無香料タイプを選びたい家庭に向いている"
-      - "個包装で衛生的にストックしやすい"
-      - "芯ありの扱いやすさを重視する方に合う"
-    cons:
-      - "芯なし品よりゴミは出やすい"
-      - "個包装のぶん開封作業が必要になる"
-    recommendedFor: "個包装の無漂白トイレットペーパーをまとめて備えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqs8n.3rdw6363.g00rqs8n.3rdw7957/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaki-seishi%2Fmori100ms60%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaki-seishi%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maki-seishi/cabinet/03277389/03277390/imgrc0095115036.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 3500
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaki-seishi%2Fmori100ms30.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/maki-seishi_mori100ms30"
-        available: false
-        matchStatus: "review"
-        matchNotes: "容量違い疑い: 楽天は100m×60ロール、Yahoo候補URLはmori100ms30（30ロール品の可能性）"
-        updatedAt: "2026-05-18"
-  - rank: 2
     name: "コアユース シングル 芯なし"
     brand: "コアユース"
     price: 4980
@@ -71,7 +39,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
-  - rank: 3
+  - rank: 2
     name: "コアユース 無包装 シングル 芯なし"
     brand: "春日製紙"
     price: 5090
@@ -104,7 +72,7 @@ products:
         matchStatus: "matched"
         rating: 0
         reviewCount: 1
-  - rank: 4
+  - rank: 3
     name: "イットコ スリム シングル 芯なし"
     brand: "イトマン"
     price: 4533
@@ -136,7 +104,7 @@ products:
         updatedAt: "2026-05-18"
         matchStatus: "review"
         matchNotes: "capacity不一致: capacity不一致"
-  - rank: 5
+  - rank: 4
     name: "ワンタッチ 再生紙 トイレットペーパー シングル 芯なし"
     brand: "ワンタッチ"
     price: 5148
@@ -169,7 +137,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuasakamiten_c02295"
         available: true
-  - rank: 6
+  - rank: 5
     name: "良い紙 業務用コアレス シングル"
     brand: "良い紙"
     price: 4840
@@ -191,7 +159,7 @@ products:
     recommendedFor: "芯なし長巻きを家庭用にも備蓄用にも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00syqkn.3rdw6214.g00syqkn.3rdw7eef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frebirth-inc%2Fyoikami6r_150_108_s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frebirth-inc%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rebirth-inc/cabinet/single/yoikami150/s_yoikami_150_th.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "トーヨ クリーンテックス シングル 個包装"
     brand: "トーヨ"
     price: 3532
@@ -223,14 +191,14 @@ products:
         updatedAt: "2026-06-06"
         rating: 0
         reviewCount: 0
-  - rank: 8
+  - rank: 7
     name: "Comfy 芯なし トイレットペーパー シングル"
     brand: "イトマン"
     price: 3810
     capacity: "150m×36ロール"
     pricePerUnit: "約0.71円/m"
     rating: 4.62
-    reviewCount: 748
+    reviewCount: 749
     features:
       - "芯なしの長巻きシングルトイレットペーパー"
       - "個包装で分けて保管しやすい"
@@ -255,7 +223,7 @@ products:
         updatedAt: "2026-05-18"
         matchStatus: "review"
         matchNotes: "capacity不一致: 商品名トークン不一致"
-  - rank: 9
+  - rank: 8
     name: "スマートエール 消臭機能付き シングル 芯なし"
     brand: "アイリスプラザ"
     price: 2981
@@ -277,7 +245,7 @@ products:
     recommendedFor: "省スペースで長巻きロールを備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7253225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10216050%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11514673/7253225.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "【最安値に挑戦中！】 トイレットペーパー シングル 業務用 ワンタッチ"
     brand: "コアレックス（CORELEX）"
     price: 5480
@@ -310,6 +278,28 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuasakamiten_c02294"
         available: true
+  - rank: 10
+    name: "無漂白 トイレットペーパー シングル 無包装"
+    brand: "牧製紙"
+    price: 5300
+    capacity: "100m×60ロール"
+    pricePerUnit: "約0.88円/m"
+    rating: 4.54
+    reviewCount: 803
+    features:
+      - "無漂白の再生紙を使用したシングルタイプ"
+      - "無包装でフィルムごみを減らせるシンプル仕様"
+      - "芯ありで一般的なホルダーに合わせやすい"
+    pros:
+      - "無香料タイプを選びたい家庭に向いている"
+      - "60ロールのまとめ買いでストックしやすい"
+      - "芯ありの扱いやすさを重視する方に合う"
+    cons:
+      - "芯なし品よりゴミは出やすい"
+      - "無包装のため個別の持ち運びには向かない"
+    recommendedFor: "無漂白の再生紙トイレットペーパーをまとめ買いで備えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqs8n.3rdw6363.g00rqs8n.3rdw7957/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaki-seishi%2Funpacked100ms60%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaki-seishi%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maki-seishi/cabinet/03277389/03299211/unpacked100ms60.jpg?_ex=128x128"
 tags:
   - "トイレットペーパー"
   - "シングル"
@@ -373,7 +363,7 @@ faqs:
 業務用向けの無包装・長尺ロールが主力。保管スペースの確保が前提だが、1mあたりのコストが低く抑えやすい。
 
 ### 牧製紙（森を守ろう）
-無漂白の再生紙を使用した個包装タイプ。60ロールまとめ買いで最安クラスのコスパを実現。
+無漂白の再生紙を使用したシンプルな無包装タイプ。フィルムごみを減らしたい家庭に向き、100m×60ロールのまとめ買いに対応。
 
 ### コアレックス（CORELEX）
 芯なし・長尺・再生紙で環境配慮型の業務用ロールが主力。国産品を重視する方にも選ばれやすい。
@@ -382,7 +372,7 @@ faqs:
 
 1mあたり単価ではシングルが有利になりやすいです。
 
-- シングル（本記事）：最安 約0.59円/m
+- シングル（本記事）：最安 約0.61円/m
 - ダブル（別記事）：最安は[トイレットペーパー ダブル コスパ最強ランキング2026](/articles/toilet-paper-double-comparison/)を参照
 
 使用感を優先するならダブル、コスト最小化ならシングルを選ぶのが基本です。
