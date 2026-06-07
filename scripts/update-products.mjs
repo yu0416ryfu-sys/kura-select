@@ -19,7 +19,7 @@
 import { readFileSync, writeFileSync, appendFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
 import { spawnSync } from 'child_process';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
@@ -1826,6 +1826,38 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
     };
   }
 
+  if (category === 'tissue-paper' && /保湿|ローション|鼻セレブ/.test(baseKeyword)) {
+    return {
+      keywords: ['保湿ティッシュ まとめ買い', 'ローションティッシュ', '鼻セレブ ティッシュ'],
+      include: ['ティッシュ', 'ティシュー'],
+      requiredGroups: [['保湿', 'ローション', 'うるおい', '潤い', '鼻セレブ', '贅沢保湿', '3枚重ね', '三枚重ね']],
+      exclude: ['ソフトパック', 'ウェット', 'ウエット', '除菌', '手口ふき', 'おしりふき', 'ケース', 'カバー', '保湿クリーム', 'マスク'],
+      units: ['枚', '組', '箱', '個'],
+      minScore: 4,
+    };
+  }
+
+  if (category === 'tissue-paper' && /ソフトパック/.test(baseKeyword)) {
+    return {
+      keywords: ['ネピア ソフトパックティッシュ', 'クリネックス ソフトパックティッシュ', 'エルモア ソフトパックティッシュ'],
+      include: ['ソフトパック', 'ソフトパックティッシュ'],
+      requiredGroups: [['ソフトパック']],
+      exclude: ['ボックスティッシュ', '箱ティッシュ', 'ウェット', 'ウエット', '除菌', '手口ふき', 'おしりふき', '保湿クリーム'],
+      units: ['組', '枚', '個'],
+      minScore: 4,
+    };
+  }
+
+  if (category === 'tissue-paper' && /通常タイプ/.test(baseKeyword)) {
+    return {
+      keywords: ['ティッシュペーパー まとめ買い', '箱ティッシュ 大容量', 'ティッシュペーパー 60箱'],
+      include: ['ティッシュ', 'ティシュー'],
+      exclude: ['ソフトパック', '保湿', 'ローション', 'うるおい', '潤い', '鼻セレブ', '贅沢保湿', 'ウェット', 'ウエット', '除菌', '手口ふき', 'おしりふき', 'ケース', 'カバー', '保湿クリーム'],
+      units: ['枚', '箱', '個'],
+      minScore: 4,
+    };
+  }
+
   if (category === 'pet-sheet' && /レギュラー/.test(baseKeyword)) {
     return {
       keywords: ['ペットシーツ レギュラー まとめ買い', 'ペットシート レギュラー 大容量', 'トイレシート レギュラー 犬 猫'],
@@ -3001,6 +3033,13 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
       result.stats.failed++;
       result.stats.fail++;
     }
+  }
+
+  // 機能0: pricePerUnit を price+capacity+単位ポリシーから同期（スキップ商品の単位ズレも補正）
+  const ppuSyncResult = syncPricePerUnitWithPolicy(updatedContent, preferUnit);
+  if (ppuSyncResult.changed) {
+    updatedContent = ppuSyncResult.content;
+    ppuSyncResult.log.forEach(l => log(`   💱 ${l}`));
   }
 
   // 機能1: コスパ順並び替え（全商品処理後）

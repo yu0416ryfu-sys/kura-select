@@ -21,6 +21,7 @@ import {
   removeCapacityFromProductName,
   removeProductFromFrontmatter,
   reorderProductsByPricePerUnit,
+  syncPricePerUnitWithPolicy,
   limitProductsByRank,
   syncTitleProductCount,
   updateUpdatedAt,
@@ -396,6 +397,26 @@ describe("extractCapacityTotal", () => {
 
   it("括弧注釈付きは枚数のみ返す", () => {
     expect(extractCapacityTotal("500枚(250組)")).toEqual({ total: 500, unit: "枚" });
+  });
+
+  it("組×個 を 円/組 計算用に総組数で返す", () => {
+    expect(extractCapacityTotal("200組×80個")).toEqual({ total: 16000, unit: "組" });
+  });
+
+  it("組×箱 を総組数で返す", () => {
+    expect(extractCapacityTotal("150組×5箱")).toEqual({ total: 750, unit: "組" });
+  });
+
+  it("組の括弧総量付き（組が基底）は組数を返す", () => {
+    expect(extractCapacityTotal("150組×5箱（750組）")).toEqual({ total: 750, unit: "組" });
+  });
+
+  it("単独の組単位を解析する", () => {
+    expect(extractCapacityTotal("750組")).toEqual({ total: 750, unit: "組" });
+  });
+
+  it("枚（組）×箱 は組の注釈に惑わされず枚数を返す（回帰）", () => {
+    expect(extractCapacityTotal("360枚（180組）×60箱")).toEqual({ total: 21600, unit: "枚" });
   });
 
   it("ロール単位付き掛け算の総量を計算する", () => {
@@ -1355,6 +1376,23 @@ describe("calcPricePerUnit", () => {
     expect(calcPricePerUnit(1500, "50枚")).toBe("約30円/枚");
   });
 
+  it("組×個 のソフトパックを 円/組 で計算する", () => {
+    expect(calcPricePerUnit(6480, "200組×80個")).toBe("約0.41円/組");
+  });
+
+  it("組×箱 を 円/組 で計算する", () => {
+    expect(calcPricePerUnit(420, "150組×5箱（750組）")).toBe("約0.56円/組");
+  });
+
+  it("targetUnit=組 のとき枚表記の箱ティッシュを1組=2枚で組換算する", () => {
+    // 400枚（200組）×60箱 → 24000枚 → 12000組、4999/12000≒0.42円/組
+    expect(calcPricePerUnit(4999, "400枚（200組）×60箱", "組")).toBe("約0.42円/組");
+  });
+
+  it("targetUnit=組 でも枚/組データがない容量は元単位を保つ", () => {
+    expect(calcPricePerUnit(1210, "3箱", "組")).toBe("約403円/箱");
+  });
+
   it("小数容量から単価を計算する（5.26kg）", () => {
     expect(calcPricePerUnit(3425, "5.26kg")).toBe("約651円/kg");
   });
@@ -1724,3 +1762,42 @@ articleType: unknown-type
   });
 });
 
+
+describe("syncPricePerUnitWithPolicy", () => {
+  const article = (capacity: string, ppu: string) => `---
+title: "t"
+description: "d"
+category: "tissue-paper"
+articleType: "comparison"
+products:
+  - rank: 1
+    name: "テスト商品"
+    brand: "b"
+    price: 6146
+    capacity: "${capacity}"
+    pricePerUnit: "${ppu}"
+    features: []
+    pros: []
+    cons: []
+    recommendedFor: "r"
+    rakutenUrl: "https://item.rakuten.co.jp/x/y/"
+---
+本文`;
+
+  it("preferUnit=組 で枚表記の単価を組へ補正する", () => {
+    const result = syncPricePerUnitWithPolicy(article("360枚（180組）×60箱", "約0.28円/枚"), "組");
+    expect(result.changed).toBe(true);
+    expect(result.content).toContain('pricePerUnit: "約0.57円/組"');
+  });
+
+  it("既に正しい単価は変更しない", () => {
+    const result = syncPricePerUnitWithPolicy(article("360枚（180組）×60箱", "約0.57円/組"), "組");
+    expect(result.changed).toBe(false);
+  });
+
+  it("解析不能な容量は既存値を保持する", () => {
+    const result = syncPricePerUnitWithPolicy(article("3箱", "要更新"), "組");
+    expect(result.changed).toBe(true);
+    expect(result.content).toContain('pricePerUnit: "約2049円/箱"');
+  });
+});

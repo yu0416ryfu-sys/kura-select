@@ -4,6 +4,11 @@
 
 // ── 単位定義 ──────────────────────────────────────────────────────────────
 export const CAPACITY_UNITS = 'mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒|包|錠';
+// 基底単位（"数値unit×N..." の先頭・単独パターンで許可する単位）。
+// 「組」はティッシュの "200組×80個" / "150組×5箱" を 円/組 で計算するために含める。
+// ただし括弧パターン（パターン1）では "360枚（180組）×60箱" の「（180組）」を
+// 総量と誤認するため、CAPACITY_UNITS（組を含まない）を使い分ける。
+export const BASE_CAPACITY_UNITS = `${CAPACITY_UNITS}|組`;
 export const PACK_UNITS = 'ロール|パック|セット|箱|缶|ケース';
 export const MULTIPLY_RE_CHAR_CLASS = '×xX*＊';
 
@@ -47,7 +52,8 @@ export function extractCapacityTotal(capacity: string): { total: number; unit: s
   // 例: "660mL×2個"           → 660×2=1320mL
   // 例: "500枚×60箱"           → 500×60=30000枚
   // 例: "500枚×5箱×12パック"   → 500×5×12=30000枚
-  const mulBaseRe = new RegExp(`^(${CAPACITY_NUMBER_PATTERN})\\s*(${CAPACITY_UNITS})(.*)`);
+  // 例: "200組×80個"           → 200×80=16000組
+  const mulBaseRe = new RegExp(`^(${CAPACITY_NUMBER_PATTERN})\\s*(${BASE_CAPACITY_UNITS})(.*)`);
   const mulBaseM = capacity.match(mulBaseRe);
   if (mulBaseM) {
     const base = parseCapacityNumber(mulBaseM[1]);
@@ -61,8 +67,8 @@ export function extractCapacityTotal(capacity: string): { total: number; unit: s
     }
   }
 
-  // パターン3: シンプルな単位 "30枚" "500g"
-  const simpleRe = new RegExp(`^(${CAPACITY_NUMBER_PATTERN})\\s*(${CAPACITY_UNITS})`);
+  // パターン3: シンプルな単位 "30枚" "500g" "750組"
+  const simpleRe = new RegExp(`^(${CAPACITY_NUMBER_PATTERN})\\s*(${BASE_CAPACITY_UNITS})`);
   const simpleM = capacity.match(simpleRe);
   if (simpleM) {
     const total = parseCapacityNumber(simpleM[1]);
@@ -119,7 +125,12 @@ export function calcPricePerUnit(price: number, capacity: string, targetUnit?: s
   if (!raw) return null;
 
   const normalized = normalizeCapacityTotal(raw);
-  const extracted = (targetUnit && normalized?.unit === targetUnit) ? normalized : raw;
+  let extracted = (targetUnit && normalized?.unit === targetUnit) ? normalized : raw;
+  // ティッシュの単位統一: targetUnit が「組」で容量が「枚」表記の箱ティッシュは、
+  // 1組=2枚 として組数に換算し、表示単位を組へ揃える（枚/組の混在を解消）。
+  if (targetUnit === '組' && extracted.unit === '枚') {
+    extracted = { total: extracted.total / 2, unit: '組' };
+  }
 
   const perUnit = price / extracted.total;
   let formatted: string;
@@ -137,6 +148,12 @@ export function calcPricePerUnit(price: number, capacity: string, targetUnit?: s
 export const ARTICLE_UNIT_POLICY: Record<string, string> = {
   'fabric-softener-comparison': 'mL',
   'laundry-detergent-comparison': 'g',
+  // ティッシュは枚・組が混在するため「組」（=1回の取り出し）に統一する。
+  // 箱ティッシュの「枚」表記は calcPricePerUnit が 1組=2枚 で組換算する。
+  'tissue-paper-comparison': '組',
+  'tissue-paper-regular-comparison': '組',
+  'tissue-paper-moist-comparison': '組',
+  'tissue-paper-soft-pack-comparison': '組',
 };
 
 export function getArticleTargetUnit(articleId: string): string | undefined {

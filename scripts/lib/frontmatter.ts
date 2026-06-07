@@ -759,6 +759,10 @@ function normalizePricePerUnit(value: number, unit: string): { value: number; un
   if (lowerUnit === 'l') return { value: value / 1000, unit: 'mL' };
   if (lowerUnit === 'g') return { value, unit: 'g' };
   if (lowerUnit === 'kg') return { value: value / 1000, unit: 'g' };
+  // ティッシュの「組」は1組=2枚。並び替え・グループ化のみ枚換算し、
+  // 円/枚の商品（箱ティッシュ）と同一グループで正しく単価比較できるようにする。
+  // 表示用の pricePerUnit（円/組）は calcPricePerUnit 側でそのまま保持する。
+  if (normalizedUnit === '組') return { value: value / 2, unit: '枚' };
 
   return { value, unit: normalizedUnit };
 }
@@ -833,6 +837,47 @@ export function reorderProductsByPricePerUnit(
     if (b.origIdx !== newIdx) log.push(`rank ${b.origIdx + 1} → rank ${newIdx + 1}: ${b.name}`);
   });
   parsed.data.products = sorted.map(b => b.product);
+  return { content: dumpFrontmatter(parsed.data, parsed.body), changed: true, log };
+}
+
+/**
+ * 各商品の pricePerUnit を price + capacity + 記事の単位ポリシー（preferUnit）から再計算し同期する。
+ * API マッチ失敗等でスキップされた商品でも、ローカルの price/capacity から算出できる限り
+ * 単価表記を最新ポリシーに揃える（例: ティッシュの「円/枚」を「円/組」へ）。
+ * capacity が解析不能で算出できない商品（calc が null）は既存値を保持する。
+ */
+export function syncPricePerUnitWithPolicy(
+  content: string,
+  preferUnit?: string
+): { content: string; changed: boolean; log: string[] } {
+  const parsed = parseFrontmatter(content);
+  if (!parsed || !Array.isArray(parsed.data.products)) {
+    return { content, changed: false, log: [] };
+  }
+
+  type P = Record<string, unknown>;
+  const products = parsed.data.products as P[];
+  let changed = false;
+  const log: string[] = [];
+
+  for (const product of products) {
+    const price = typeof product.price === 'number' ? product.price : null;
+    const capacity = typeof product.capacity === 'string' ? product.capacity : null;
+    if (price === null || price <= 0 || !capacity) continue;
+
+    const computed = calcPricePerUnit(price, capacity, preferUnit);
+    if (!computed) continue;
+
+    const current = typeof product.pricePerUnit === 'string' ? product.pricePerUnit : null;
+    if (current === computed) continue;
+
+    const rank = typeof product.rank === 'number' ? product.rank : '?';
+    log.push(`rank ${rank}: pricePerUnit "${current ?? '(なし)'}" -> "${computed}"`);
+    product.pricePerUnit = computed;
+    changed = true;
+  }
+
+  if (!changed) return { content, changed: false, log: [] };
   return { content: dumpFrontmatter(parsed.data, parsed.body), changed: true, log };
 }
 

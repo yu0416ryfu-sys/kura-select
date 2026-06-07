@@ -1,0 +1,236 @@
+---
+title: "ティッシュペーパー 通常タイプ コスパ最強ランキング【2026年版】"
+description: "普段使いのティッシュペーパーを1組あたりの価格で徹底比較。大容量ボックスから業務用まとめ買いまで、コスパ重視で選ぶ通常タイプのおすすめランキング。"
+category: "tissue-paper"
+publishedAt: "2026-06-07"
+articleType: "comparison"
+updatedAt: 2026-06-07
+draft: false
+products:
+  - rank: 1
+    name: "スコッティ ティッシュ ホワイトパッケージ 60箱"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 4999
+    capacity: "400枚（200組）×60箱"
+    pricePerUnit: "約0.42円/組"
+    rating: 4.75
+    reviewCount: 482
+    features:
+      - "シンプルなホワイトパッケージの定番箱タイプ"
+      - "200組のスタンダードな2枚重ね"
+      - "60箱の大容量まとめ買いパック"
+    pros:
+      - "柄物が苦手な方でも置き場所を選ばない無地デザイン"
+      - "スコッティ品質で普段使いに安心"
+      - "1度の購入で長期間まかなえる"
+    cons:
+      - "段ボール単位で届くため保管場所が必要"
+      - "フラワー柄など装飾はない"
+    recommendedFor: "無地パッケージを好む方・大量にストックしたい世帯"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7162877%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10188680%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya110/7162877.jpg?_ex=128x128"
+  - rank: 2
+    name: "スコッティ ティッシュペーパー フラワーボックス"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 7399
+    capacity: "500枚×60箱"
+    pricePerUnit: "約0.49円/組"
+    rating: 4.71
+    reviewCount: 884
+    features:
+      - "160組320枚入りの大容量ボックス"
+      - "フラワーパック12箱セットでまとめ買い対応"
+      - "ソフトな手触りで普段使いに最適"
+    pros:
+      - "1組あたりのコストが最安値クラス"
+      - "まとめ買いで買い物の手間が減る"
+      - "スコッティの信頼ブランドで品質安定"
+    cons:
+      - "保管スペースが必要"
+      - "高級ティッシュと比べると若干厚みが劣る"
+    recommendedFor: "コスト重視の方・大家族・まとめ買い派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F13337%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10024834%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/020/main-13337re.jpg?_ex=128x128"
+  - rank: 3
+    name: "王子ネピア ネピネピ ティシュ 150組×5箱"
+    brand: "ネピア"
+    price: 420
+    capacity: "150組×5箱（750組）"
+    pricePerUnit: "約0.56円/組"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "家庭用に使いやすい2枚重ねティッシュ"
+      - "5箱パックでストックしやすい"
+      - "やわらかな肌触りの普段使い向け"
+    pros:
+      - "1パック単位で買い足しやすい"
+      - "ネピアブランドの安定した紙質"
+      - "コンパクトで収納場所を取りにくい"
+    cons:
+      - "大容量まとめ買いより単価はやや高い"
+      - "紙質の好みは分かれる"
+    recommendedFor: "少量ずつストックしたい一人暮らし・少人数世帯"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901121182889-today202504%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12642906%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2024v/4901121182889.jpg?_ex=128x128"
+  - rank: 4
+    name: "クリネックス ティシュー 180組 5箱パック×12パック"
+    brand: "日本製紙クレシア（クリネックス）"
+    price: 6146
+    capacity: "360枚（180組）×60箱"
+    pricePerUnit: "約0.57円/組"
+    rating: 4.67
+    reviewCount: 247
+    features:
+      - "世界的ブランド・クリネックスの定番品"
+      - "厚みと柔らかさのバランスが優秀"
+      - "全国ドラッグストアで入手しやすい"
+    pros:
+      - "厚みがあり1枚で十分な使い心地"
+      - "クリネックスの知名度と品質の安心感"
+      - "ティッシュといえばクリネックスの定番ブランド"
+    cons:
+      - "スコッティに比べるとコストが高め"
+      - "香り付きなど機能品は別途確認が必要"
+    recommendedFor: "普段使いに定番の品質を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcsnn.3rdw6570.g00qcsnn.3rdw762b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyoto23%2F10000355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyoto23%2Fi%2F10000355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kyoto23/cabinet/img2/10000355sb.jpg?_ex=128x128"
+  - rank: 5
+    name: "業務用ティッシュ POPティシュ200W 60箱"
+    brand: "OneStep"
+    price: 7968
+    capacity: "200組×5箱×12（60箱）"
+    pricePerUnit: "約0.66円/組"
+    rating: 3.5
+    reviewCount: 2
+    features:
+      - "60箱の業務用まとめ買いパック"
+      - "200組のスタンダードな箱タイプ"
+      - "オフィス・店舗の備品補充に向く設計"
+    pros:
+      - "1度の購入で長期間まかなえる"
+      - "業務用ならではのコストパフォーマンス"
+      - "来客用・共有スペースに気兼ねなく使える"
+    cons:
+      - "段ボール単位で届くため保管場所が必要"
+      - "肌触りは家庭用高級品に劣る"
+    recommendedFor: "オフィス・店舗・大量消費する世帯"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00saddn.3rdw6ebe.g00saddn.3rdw7146/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaicom-pack%2F190942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaicom-pack%2Fi%2F10023307%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaicom-pack/cabinet/adsum1/190942.jpg?_ex=128x128"
+  - rank: 6
+    name: "プライベートブランド ティッシュ 200枚（100組）×60箱"
+    brand: "業務用無地"
+    price: 5760
+    capacity: "200枚（100組）×60箱"
+    pricePerUnit: "約0.96円/組"
+    rating: 4.4
+    reviewCount: 10
+    features:
+      - "60箱の超大容量まとめ買いパック"
+      - "シンプルな無地デザイン"
+      - "業務用品質で安定した仕上がり"
+    pros:
+      - "まとめ買いで長期間保管できる"
+      - "コストを最優先にするなら最有力候補"
+      - "オフィスや施設にも使いやすいシンプルデザイン"
+    cons:
+      - "保管スペースが大量に必要"
+      - "肌触りは高級品より劣る"
+    recommendedFor: "大家族・オフィス・長期備蓄したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s581n.3rdw6f03.g00s581n.3rdw79ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-bomber-shop%2F251641002216000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-bomber-shop%2Fi%2F10124307%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-bomber-shop/cabinet/mastertool70/251641002216000.jpg?_ex=128x128"
+  - rank: 7
+    name: "エリエール ティシュー 200枚（100組）×12箱"
+    brand: "大王製紙（エリエール）"
+    price: 5258
+    capacity: "200枚（100組）×12箱"
+    pricePerUnit: "約4.4円/組"
+    rating: 4.64
+    reviewCount: 671
+    features:
+      - "パルプ100%の柔らかな2枚重ね"
+      - "エリエールブランドの高品質"
+      - "日本製で安心・安全"
+    pros:
+      - "柔らかく肌触りがよい"
+      - "エリエールは肌触りで支持者が多いブランド"
+      - "2枚重ねで1枚でも十分なボリューム感"
+    cons:
+      - "スコッティより1組あたりコストが高い"
+      - "100組とやや少なめ"
+    recommendedFor: "肌触りを重視する方・子どものいる家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tiz9n.3rdw6353.g00tiz9n.3rdw771a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprotoolshop%2F4902011722734%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprotoolshop%2Fi%2F10006509%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/protoolshop/cabinet/734/4902011722734.jpg?_ex=128x128"
+tags:
+  - "ティッシュペーパー"
+  - "通常タイプ"
+  - "コスパ"
+  - "まとめ買い"
+---
+
+
+## 通常タイプ ティッシュペーパーの選び方
+
+通常タイプのティッシュペーパーは、毎日使う消耗品だからこそ1組あたりの価格でコスパを見極めるのが基本です。ここでは普段使いのティッシュを選ぶときのポイントを整理します。
+
+### 1組あたりの価格で比較する
+
+通常タイプは商品ごとの容量差が大きいため、価格そのものより「1組あたりいくらか」で比べると公平に判断できます。本記事では取り出し回数にあたる「組」を基準に単価を算出しています。
+
+```
+1組あたり価格 = 商品価格 ÷ 総組数（1組 = 2枚）
+```
+
+「枚」表記の商品は1組＝2枚として組数に換算します。「200枚（100組）」なら100組（＝取り出し100回分）として計算します。
+
+### 箱数（まとめ買い規模）を選ぶ
+
+12箱程度の手頃なパックから、60箱の業務用大容量まで幅があります。箱数が多いほど単価は下がりますが、保管スペースとのバランスを考えて選ぶのがおすすめです。
+
+### 紙質・厚みを確認する
+
+同じ通常タイプでも、2枚重ねの厚みや柔らかさはブランドで差があります。普段使いでは十分な品質のものが多く、好みとコストのバランスで選ぶとよいでしょう。
+
+## タイプ別の特徴と使い分け
+
+このランキングは普段使い向けの**通常タイプ**を扱っています。用途が異なる場合は専用タイプもあわせてご覧ください。
+
+- **保湿タイプ**：花粉症や風邪で鼻をかむ機会が多い方は[保湿ティッシュのランキング](/articles/tissue-paper-moist-comparison/)が向いています
+- **ソフトパック**：省スペース・ゴミ削減を重視するなら[ソフトパックティッシュのランキング](/articles/tissue-paper-soft-pack-comparison/)が便利です
+- **総合比較**：全タイプをまとめて見るなら[ティッシュペーパー総合ランキング](/articles/tissue-paper-comparison/)を参照してください
+
+## コスパ比較のポイント
+
+### 単価計算の考え方
+
+通常タイプのコスパは「1組あたりの価格」が基本指標です。容量や箱数が違う商品同士でも、単価に直すと優劣がはっきりします。
+
+### 大容量まとめ買いの損益分岐点
+
+60箱パックは少量パックを繰り返し買うよりも2〜3割安くなるケースが多い傾向です。ただしティッシュは湿気を吸いやすいため、未開封でも風通しのよい場所での保管が推奨されます。
+
+### まとめ買いの注意点
+
+- **保管場所**：直射日光・高湿度を避けて保管します
+- **使用期限**：明確な期限はありませんが、長期保管で黄ばみが出ることがあります
+- **配送**：大量購入時は箱つぶれに注意しましょう
+
+## よくある質問（FAQ）
+
+**Q. 通常タイプと保湿タイプはどう使い分ける？**
+
+A. 普段使いは通常タイプ、花粉症や風邪で頻繁に鼻をかむ時期は保湿タイプの併用が経済的です。詳しくは[保湿ティッシュのランキング](/articles/tissue-paper-moist-comparison/)を参照してください。
+
+**Q. 「組」と「枚」はどう違う？**
+
+A. 1組は2枚で構成されています。「100組」は200枚分ですが、取り出せる回数は100回です。単価比較の際は基準を揃えましょう。
+
+**Q. まとめ買いはどのくらいお得？**
+
+A. 60箱などの大容量パックは、少量ずつ買うより1組あたり2〜3割ほど安くなるケースが多い傾向です。送料無料セットを選ぶとさらにお得になります。
+
+## まとめ
+
+通常タイプのティッシュペーパーは1組あたりの価格を基準にすると、客観的にコスパを比較できます。普段使いには大容量パック、用途に応じて保湿タイプやソフトパックの併用がバランスの良い選択です。保管スペースと使用量を考慮して選んでみてください。
+
+> **価格表記について**: 掲載している価格は執筆時点のものです。最新価格は楽天市場でご確認ください。
