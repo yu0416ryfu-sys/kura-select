@@ -68,3 +68,8 @@ rakuten-check.csv
 
 # RAG
 data/
+
+# サービスアカウント鍵（万一リポジトリ内に置かれた場合の保険。本来は ~/.config/kura-select/ に配置）
+*service-account*.json
+*.iam.gserviceaccount.com.json
+kura-select-gsc-*.json

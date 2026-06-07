@@ -21,8 +21,21 @@ function getOAuth2Client() {
   return new google.auth.OAuth2(client_id, client_secret, "http://localhost:3456");
 }
 
-// トークン取得（初回はブラウザ認証、以降は token.json を再利用）
+// 認証クライアント取得
+// サービスアカウント鍵があればそれを優先（無期限・ブラウザ認証不要）。
+// 無ければ従来の OAuth フロー（token.json 再利用）にフォールバック。
+const SCOPES = ["https://www.googleapis.com/auth/webmasters.readonly"];
+
 async function authorize() {
+  const keyFile =
+    process.env.GSC_SERVICE_ACCOUNT_KEY ||
+    process.env.GOOGLE_APPLICATION_CREDENTIALS;
+  if (keyFile && existsSync(keyFile)) {
+    const auth = new google.auth.GoogleAuth({ keyFile, scopes: SCOPES });
+    return auth.getClient();
+  }
+
+  // 以下、従来の OAuth フロー
   const oauth2Client = getOAuth2Client();
   if (existsSync(TOKEN_PATH)) {
     oauth2Client.setCredentials(JSON.parse(readFileSync(TOKEN_PATH, "utf-8")));

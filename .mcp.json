@@ -6,11 +6,17 @@
     },
     "gsc": {
       "command": "node",
-      "args": ["scripts/mcp/gsc-mcp.mjs"]
+      "args": ["scripts/mcp/gsc-mcp.mjs"],
+      "env": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\yu041\\.config\\kura-select\\service-account.json"
+      }
     },
     "ga4": {
       "command": "node",
-      "args": ["scripts/mcp/ga4-mcp.mjs"]
+      "args": ["scripts/mcp/ga4-mcp.mjs"],
+      "env": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\yu041\\.config\\kura-select\\service-account.json"
+      }
     }
   }
 }
