@@ -269,7 +269,7 @@ products:
   - rank: 10
     name: "Mirx プレミアムバスマット 珪藻土 吸水2.5倍"
     brand: "Mirx"
-    price: 1680
+    price: 1380
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
     rating: 4.43
