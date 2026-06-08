@@ -7,39 +7,6 @@ articleType: "comparison"
 updatedAt: 2026-06-08
 products:
   - rank: 1
-    name: "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール（4ロール×12パック）"
-    brand: "スコッティ"
-    price: 10010
-    capacity: "75m×48ロール（4ロール×12パック）"
-    pricePerUnit: "約2.8円/m"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rh4on.3rdw6655.g00rh4on.3rdw778d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcagu-le%2Fds-2358010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcagu-le%2Fi%2F10697395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cagu-le/cabinet/dsproducts/611/0002358010-1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fme-belu%2Fds-2358010.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-01"
-        price: 10260
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/me-belu_ds-2358010"
-        available: true
-  - rank: 2
     name: "再生紙トイレットペーパー ダブル"
     brand: "カミングネット"
     price: 3200
@@ -61,7 +28,7 @@ products:
     recommendedFor: "再生紙のダブルタイプをまとめ買いしたい方・家庭用のストックを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7hcn.3rdw6d10.g00r7hcn.3rdw7ef9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoming%2Fjun1kyuhinrolls-recycle12rw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoming%2Fi%2F10000440%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/coming/cabinet/daiichimoji/imgrc0096851285.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "エシカル12RW ダブル 12ロール×8パック"
     brand: "エシカル"
     price: 3280
@@ -83,7 +50,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7hcn.3rdw6d10.g00r7hcn.3rdw7ef9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoming%2Fcolor-jun1kyuhinrolls-t%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoming%2Fi%2F10000149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/coming/cabinet/daiichimoji/imgrc0078843721.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "スコッティ フラワーパック 3倍長持ち ダブル"
     brand: "日本製紙クレシア（スコッティ）"
     price: 5940
@@ -116,7 +83,7 @@ products:
         available: true
         rating: 4.77
         reviewCount: 550
-  - rank: 5
+  - rank: 4
     name: "ハロー トイレットペーパー ダブル 2倍巻き"
     brand: "ハロー"
     price: 6210
@@ -149,7 +116,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/stylem_aj4741mstyle284edf800d"
         available: true
-  - rank: 6
+  - rank: 5
     name: "スコッティ フラワーパック 3倍長持ち ダブル 4ロール×12袋"
     brand: "日本製紙クレシア（スコッティ）"
     price: 6300
@@ -171,7 +138,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F20005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10674449%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/005/20005.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
     brand: "日本製紙クレシア（スコッティ）"
     price: 4799
@@ -204,7 +171,7 @@ products:
         available: true
         rating: 4.77
         reviewCount: 133
-  - rank: 8
+  - rank: 7
     name: "エシカル12RW ダブル 12ロール×8パック"
     brand: "エシカル"
     price: 5580
@@ -226,6 +193,39 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://item.rakuten.co.jp/coming/color-jun1kyuhinrolls-t/"
     imageUrl: ""
+  - rank: 8
+    name: "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール（4ロール×12パック）"
+    brand: "スコッティ"
+    price: 10010
+    capacity: "75m×48ロール（4ロール×12パック）"
+    pricePerUnit: "約2.8円/m"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rh4on.3rdw6655.g00rh4on.3rdw778d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcagu-le%2Fds-2358010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcagu-le%2Fi%2F10697395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cagu-le/cabinet/dsproducts/611/0002358010-1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fme-belu%2Fds-2358010.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-01"
+        price: 10260
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/me-belu_ds-2358010"
+        available: true
   - rank: 9
     name: "ネピア おしりセレブ ダブル 40m×4ロール"
     brand: "王子ネピア（ネピア）"

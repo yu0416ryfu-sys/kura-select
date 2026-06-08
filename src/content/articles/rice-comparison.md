@@ -292,28 +292,6 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtn3n.3rdw6fc6.g00qtn3n.3rdw7aa1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frice-akita%2F1000000130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frice-akita%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rice-akita/cabinet/03459843/05525503/09674048/imgrc0081536274.jpg?_ex=128x128"
-  - rank: 11
-    name: "福島県産コシヒカリ 白米 5kg〜30kg"
-    brand: "福島県産コシヒカリ"
-    price: 4980
-    capacity: "5kg〜30kg"
-    pricePerUnit: "0円/kg"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://item.rakuten.co.jp/jcrops/677723/"
-    imageUrl: ""
 tags:
   - "お米"
   - "米"

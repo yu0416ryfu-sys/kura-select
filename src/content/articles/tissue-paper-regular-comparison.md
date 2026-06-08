@@ -184,50 +184,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901121182889-today202504%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12642906%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2024v/4901121182889.jpg?_ex=128x128"
   - rank: 9
-    name: "業務用ティッシュ POPティシュ200W 60箱"
-    brand: "OneStep"
-    price: 7968
-    capacity: "200組×5箱×12（60箱）"
-    pricePerUnit: "約0.66円/組"
-    rating: 3.5
-    reviewCount: 2
-    features:
-      - "60箱の業務用まとめ買いパック"
-      - "200組のスタンダードな箱タイプ"
-      - "オフィス・店舗の備品補充に向く設計"
-    pros:
-      - "1度の購入で長期間まかなえる"
-      - "業務用ならではのコストパフォーマンス"
-      - "来客用・共有スペースに気兼ねなく使える"
-    cons:
-      - "段ボール単位で届くため保管場所が必要"
-      - "肌触りは家庭用高級品に劣る"
-    recommendedFor: "オフィス・店舗・大量消費する世帯"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00saddn.3rdw6ebe.g00saddn.3rdw7146/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaicom-pack%2F190942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaicom-pack%2Fi%2F10023307%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaicom-pack/cabinet/adsum1/190942.jpg?_ex=128x128"
-  - rank: 10
-    name: "プライベートブランド ティッシュ 200枚（100組）×60箱"
-    brand: "業務用無地"
-    price: 5760
-    capacity: "200枚（100組）×60箱"
-    pricePerUnit: "約0.96円/組"
-    rating: 4.4
-    reviewCount: 10
-    features:
-      - "60箱の超大容量まとめ買いパック"
-      - "シンプルな無地デザイン"
-      - "業務用品質で安定した仕上がり"
-    pros:
-      - "まとめ買いで長期間保管できる"
-      - "コストを最優先にするなら最有力候補"
-      - "オフィスや施設にも使いやすいシンプルデザイン"
-    cons:
-      - "保管スペースが大量に必要"
-      - "肌触りは高級品より劣る"
-    recommendedFor: "大家族・オフィス・長期備蓄したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s581n.3rdw6f03.g00s581n.3rdw79ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-bomber-shop%2F251641002216000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-bomber-shop%2Fi%2F10124307%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-bomber-shop/cabinet/mastertool70/251641002216000.jpg?_ex=128x128"
-  - rank: 11
     name: "イットコティッシュ 150組 60箱"
     brand: "イトマン"
     price: 5480
@@ -249,6 +205,28 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://item.rakuten.co.jp/itoman/ittokotissu/"
     imageUrl: ""
+  - rank: 10
+    name: "業務用ティッシュ POPティシュ200W 60箱"
+    brand: "OneStep"
+    price: 7968
+    capacity: "200組×5箱×12（60箱）"
+    pricePerUnit: "約0.66円/組"
+    rating: 3.5
+    reviewCount: 2
+    features:
+      - "60箱の業務用まとめ買いパック"
+      - "200組のスタンダードな箱タイプ"
+      - "オフィス・店舗の備品補充に向く設計"
+    pros:
+      - "1度の購入で長期間まかなえる"
+      - "業務用ならではのコストパフォーマンス"
+      - "来客用・共有スペースに気兼ねなく使える"
+    cons:
+      - "段ボール単位で届くため保管場所が必要"
+      - "肌触りは家庭用高級品に劣る"
+    recommendedFor: "オフィス・店舗・大量消費する世帯"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00saddn.3rdw6ebe.g00saddn.3rdw7146/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaicom-pack%2F190942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaicom-pack%2Fi%2F10023307%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaicom-pack/cabinet/adsum1/190942.jpg?_ex=128x128"
 tags:
   - "ティッシュペーパー"
   - "通常タイプ"

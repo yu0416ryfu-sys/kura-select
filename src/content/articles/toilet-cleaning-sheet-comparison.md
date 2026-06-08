@@ -1,5 +1,5 @@
 ---
-title: "トイレ掃除シート コスパ比較【2026年版】流せるタイプ11選"
+title: "トイレ掃除シート コスパ比較【2026年版】流せるタイプ10選"
 description: "トイレ掃除シートを1枚あたりのコストで比較。流せるタイプや厚手タイプの違い、用途に合った選び方を解説します。"
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
@@ -41,6 +41,28 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10137083"
         available: true
   - rank: 2
+    name: "オレンジオイル配合 トイレクリーナー 30枚入×60個セット"
+    brand: "美と健康"
+    price: 6980
+    capacity: "30枚×60個（1800枚）"
+    pricePerUnit: "約3.9円/枚"
+    rating: 4.8
+    reviewCount: 5
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rydin.3rdw6f27.g00rydin.3rdw71ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fazon-bitokenkou%2F4957434002796-60%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fazon-bitokenkou%2Fi%2F10000117%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/azon-bitokenkou/cabinet/04067745/04084923/4957434002796-60.jpg?_ex=128x128"
+  - rank: 3
     name: "流せる トイレクリーナー 除菌 消臭 エンボスシート"
     brand: "ワゴンセール"
     price: 1980
@@ -73,7 +95,7 @@ products:
         reviewCount: 42
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale_4988787090024-10"
         available: true
-  - rank: 3
+  - rank: 4
     name: "トイレクイックル つめかえ用 まとめ買い"
     brand: "花王（クイックル）"
     price: 2679
@@ -106,7 +128,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wansa-kun-shop_general-bathroom-001"
         available: true
-  - rank: 4
+  - rank: 5
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え"
     brand: "花王（クイックル）"
     price: 5684
@@ -139,7 +161,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksstore-yh_2734-000443"
         available: true
-  - rank: 5
+  - rank: 6
     name: "エリエール ミチガエル トイレクリーナー 本体"
     brand: "大王製紙（エリエール）"
     price: 252
@@ -172,7 +194,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-30881"
         available: true
-  - rank: 6
+  - rank: 7
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 単品"
     brand: "花王（クイックル）"
     price: 499
@@ -194,7 +216,7 @@ products:
     recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000692%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10122468%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/424/4901301233424.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 8
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 2個セット"
     brand: "花王（クイックル）"
     price: 984
@@ -227,7 +249,7 @@ products:
         reviewCount: 55
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_13193"
         available: true
-  - rank: 8
+  - rank: 9
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 6袋セット"
     brand: "花王（クイックル）"
     price: 2963
@@ -260,7 +282,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksstore-yh_2734-000777"
         available: true
-  - rank: 9
+  - rank: 10
     name: "トイレクイックル ストロング プレミアムローズ 詰替"
     brand: "花王（クイックル）"
     price: 3100
@@ -282,50 +304,6 @@ products:
     recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F562311%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11180586%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/311/562311.jpg?_ex=128x128"
-  - rank: 10
-    name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×3袋"
-    brand: "花王（クイックル）"
-    price: 1619
-    capacity: "16枚×3袋（48枚）"
-    pricePerUnit: "約34円/枚"
-    rating: 5
-    reviewCount: 5
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F562310%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11180584%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/310/562310.jpg?_ex=128x128"
-  - rank: 11
-    name: "オレンジオイル配合 トイレクリーナー 30枚入×60個セット"
-    brand: "美と健康"
-    price: 6980
-    capacity: "30枚×60個（1800枚）"
-    pricePerUnit: "約3.9円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://item.rakuten.co.jp/azon-bitokenkou/4957434002796-60/"
-    imageUrl: ""
 tags:
   - "トイレ掃除シート おすすめ"
   - "トイレ掃除シート コスパ"

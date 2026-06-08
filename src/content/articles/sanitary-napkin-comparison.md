@@ -1,6 +1,6 @@
 ---
 title: "ナプキン コスパ最強ランキング【2026年版】1枚あたり最安で比較"
-description: "生理用ナプキンを1枚あたりのコストで徹底比較。ソフィ・ロリエ・エリス・ウィスパーなど人気11選を吸収力・肌へのやさしさ・コスパで解説します。"
+description: "生理用ナプキンを1枚あたりのコストで徹底比較。ソフィ・ロリエ・エリス・ウィスパーなど人気10選を吸収力・肌へのやさしさ・コスパで解説します。"
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
 articleType: "comparison"
@@ -259,28 +259,6 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe300762h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10205303%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/202/4935137901202.jpg?_ex=128x128"
-  - rank: 11
-    name: "ナチュラムーン 生理用ナプキン 多い日の昼用 羽つき 16個入"
-    brand: "ナチュラムーン"
-    price: 583
-    capacity: "16個入"
-    pricePerUnit: "約36円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/e319668h/"
-    imageUrl: ""
 tags:
   - "ナプキン おすすめ"
   - "生理用品 コスパ"

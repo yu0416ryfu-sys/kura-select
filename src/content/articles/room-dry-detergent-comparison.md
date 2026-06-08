@@ -13,7 +13,7 @@ products:
     capacity: "2380g×6個（約476回分）"
     pricePerUnit: "約0.51円/g"
     rating: 4.84
-    reviewCount: 87
+    reviewCount: 88
     features:
       - "抗菌水洗浄で生乾き臭の原因菌を99%除去"
       - "24時間部屋干ししても臭わない抗菌力"
