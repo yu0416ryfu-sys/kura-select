@@ -200,7 +200,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約35円/mL"
     rating: 4.76
-    reviewCount: 1542
+    reviewCount: 1544
     features:
       - "くせ毛ケア特化のディシプリンライン集中トリートメントマスク"
       - "湿気・広がり・アホ毛をまとめるポリマー・シーディ成分配合"
@@ -222,7 +222,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約66円/mL"
     rating: 4.78
-    reviewCount: 1160
+    reviewCount: 1161
     features:
       - "エイジングケア特化のクロノロジストライン集中マスク"
       - "ダメージ補修とエイジングケアを同時にアプローチする処方"

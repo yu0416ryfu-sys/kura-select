@@ -86,9 +86,9 @@ products:
   - rank: 4
     name: "【企画品】センカ パーフェクトホイップf BT21デザイン【専科】"
     brand: "資生堂（専科）"
-    price: 716
+    price: 701
     capacity: "（120g）"
-    pricePerUnit: "約6.0円/g"
+    pricePerUnit: "約5.8円/g"
     rating: 5
     reviewCount: 1
     features:

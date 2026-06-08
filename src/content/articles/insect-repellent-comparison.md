@@ -272,35 +272,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ppoyn.3rdw6621.g00ppoyn.3rdw79a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsafe%2F580481%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsafe%2Fi%2F10000010%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/safe/cabinet/2309_sku_img/580481.jpg?_ex=128x128"
   - rank: 10
-    name: "ヒバウッド つめかえタイプ 4袋"
-    brand: "宮崎化学"
-    price: 5980
-    capacity: "4袋"
-    pricePerUnit: "約1495円/袋"
-    rating: 4.65
-    reviewCount: 104
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sqj0n.3rdw62df.g00sqj0n.3rdw73aa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-n-s%2Fhivatsumekae-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-n-s%2Fi%2F10001297%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-n-s/cabinet/08186317/compass1660707005.jpg?_ex=128x128"
-  - rank: 11
     name: "選べるアロマスプレー 虫除け 3本セット"
     brand: "ease-aroma"
     price: 1100
     capacity: "30ml×2本＋15ml×1本（75ml）"
     pricePerUnit: "約15円/ml"
-    rating: 0
-    reviewCount: 0
+    rating: 4.25
+    reviewCount: 785
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -313,8 +291,8 @@ products:
       - "サイズや仕様は購入前に確認が必要"
       - "ショップにより在庫や配送条件が変わる"
     recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://item.rakuten.co.jp/ease-aroma/10002751/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qfl9n.3rdw60bc.g00qfl9n.3rdw7fb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fease-aroma%2F10002751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fease-aroma%2Fi%2F10002751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ease-aroma/cabinet/spray/spray3hon_s_01.jpg?_ex=128x128"
 tags:
   - "虫除けスプレー おすすめ"
   - "虫除けスプレー コスパ"

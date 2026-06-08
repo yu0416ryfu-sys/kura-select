@@ -238,7 +238,7 @@ products:
     capacity: "45×65cm 1枚"
     pricePerUnit: "円/枚"
     rating: 4.39
-    reviewCount: 1330
+    reviewCount: 1331
     features:
       - "綿100%で肌に優しい"
       - "パイル生地で吸水性に優れた設計"
@@ -273,7 +273,7 @@ products:
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
     rating: 4.43
-    reviewCount: 2512
+    reviewCount: 2513
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

@@ -595,6 +595,28 @@ describe("extractCapacityFromItemName", () => {
     expect(extractCapacityFromItemName("エリエール 200枚×48個×2ケース まとめ買い")).toBe("200枚×48個×2ケース");
   });
 
+  it("総数とその内訳が重複する表記を括弧へ畳み込む（× チェーン直書き）", () => {
+    // "75m×48ロール×4ロール×12パック" は 48ロール=4ロール×12パックの重複表記。
+    // そのままだと extractCapacityTotal が 75×48×4×12 と二重カウントする。
+    const capacity = extractCapacityFromItemName(
+      "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール×4ロール×12パック 1"
+    );
+    expect(capacity).toBe("75m×48ロール（4ロール×12パック）");
+    expect(extractCapacityTotal(capacity ?? "")).toEqual({ total: 3600, unit: "m" });
+    expect(calcPricePerUnit(10010, capacity ?? "")).toBe("約2.8円/m");
+  });
+
+  it("括弧内『総数：内訳』の重複表記を畳み込む（Pattern 1d・コロン区切り）", () => {
+    // "1セット（48ロール：4ロール×12パック）" は 48ロール=4ロール×12パックの重複表記。
+    // 括弧内に PACK_UNIT が3つあり Pattern 1d を通るため、ここでも collapse が必要。
+    const capacity = extractCapacityFromItemName(
+      "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m 1セット（48ロール：4ロール×12パック）[21]"
+    );
+    expect(capacity).toBe("75m×48ロール（4ロール×12パック）");
+    expect(extractCapacityTotal(capacity ?? "")).toEqual({ total: 3600, unit: "m" });
+    expect(calcPricePerUnit(10010, capacity ?? "")).toBe("約2.8円/m");
+  });
+
   it("スペース区切り＋× チェーンでロール×パックを抽出する（Pattern 1c）", () => {
     expect(extractCapacityFromItemName("スコッティ フラワーパック 100m 12ロール×4パック")).toBe("100m×12ロール×4パック");
   });

@@ -14,7 +14,7 @@ products:
     capacity: "7L×6袋（42L）"
     pricePerUnit: "約78円/L"
     rating: 4.21
-    reviewCount: 5571
+    reviewCount: 5572
     features:
       - "アイリスオーヤマ製のペレットタイプ紙製猫砂"
       - "燃えるゴミとして廃棄可能・トイレへの廃棄にも対応"
@@ -113,7 +113,7 @@ products:
     capacity: "6L×8袋（48L）"
     pricePerUnit: "約102円/L"
     rating: 4.59
-    reviewCount: 3305
+    reviewCount: 3306
     features:
       - "国産おから（大豆粕）由来の植物系猫砂"
       - "トイレに流せる・燃えるゴミに出せる処理方法の選択肢が広い"
@@ -179,7 +179,7 @@ products:
     capacity: "6L×4袋（24L）"
     pricePerUnit: "約132円/L"
     rating: 4.78
-    reviewCount: 1820
+    reviewCount: 1821
     features:
       - "天然木（松）由来の木製猫砂・システムトイレ対応"
       - "無臭タイプで木の自然な消臭機能を活かした設計"
@@ -267,7 +267,7 @@ products:
     capacity: "6L×3個（18L）"
     pricePerUnit: "約278円/L"
     rating: 4.68
-    reviewCount: 1806
+    reviewCount: 1807
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"

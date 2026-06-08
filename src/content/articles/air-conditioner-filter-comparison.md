@@ -229,6 +229,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s1l0n.3rdw6a90.g00s1l0n.3rdw70d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfilter%2Fsf100003-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarfilter%2Fi%2F10000090%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/starfilter/cabinet/item/main/imgrc0133123266.jpg?_ex=128x128"
   - rank: 9
+    name: "エアークエストグリーン38 エアコンフィルター 2枚入"
+    brand: "エアークエスト"
+    price: 2451
+    capacity: "38cm×80cm 2枚入"
+    pricePerUnit: "約1226円/枚"
+    rating: 4.43
+    reviewCount: 14
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rj5an.3rdw68b2.g00rj5an.3rdw7575/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstellamarksmarket%2Faqg1-01-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstellamarksmarket%2Fi%2F10000576%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/stellamarksmarket/cabinet/green/air_quest_green_38_2.jpg?_ex=128x128"
+  - rank: 10
     name: "CleAirWin エアコンフィルター家庭用 抗菌 抗ウイルス 400×800mm"
     brand: "空気の王様"
     price: 4510
@@ -250,50 +272,6 @@ products:
     recommendedFor: "ウイルス対策・花粉対策を兼ねたい方・高機能なフィルターにこだわりたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q0men.3rdw60af.g00q0men.3rdw7e6b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuteteko%2Fcra002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuteteko%2Fi%2F10045452%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suteteko/cabinet/fd070/cra002-1.jpg?_ex=128x128"
-  - rank: 10
-    name: "クリーンフィルター3 38cm×80cm 2枚入"
-    brand: "クリーンフィルター3"
-    price: 1289
-    capacity: "38cm×80cm 2枚入"
-    pricePerUnit: "0円/枚"
-    rating: 4.31
-    reviewCount: 35
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rj5an.3rdw68b2.g00rj5an.3rdw7575/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstellamarksmarket%2Fcf7-02-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstellamarksmarket%2Fi%2F10000578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/stellamarksmarket/cabinet/06352538/imgrc0072603639.jpg?_ex=128x128"
-  - rank: 11
-    name: "エアークエストグリーン38 エアコンフィルター 2枚入"
-    brand: "エアークエスト"
-    price: 2451
-    capacity: "38cm×80cm 2枚入"
-    pricePerUnit: "約1226円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://item.rakuten.co.jp/stellamarksmarket/aqg1-01-02/"
-    imageUrl: ""
 tags:
   - "エアコンフィルター おすすめ"
   - "エアコンフィルター コスパ"

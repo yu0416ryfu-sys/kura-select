@@ -1,6 +1,6 @@
 ---
 title: "子ども用歯磨き粉 おすすめランキング【2026年版】フッ素濃度・年齢別に比較"
-description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比較。クリニカKid's・チェックアップ・ライオンこどもハミガキなど人気11選を安全性・効果で解説。"
+description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比較。クリニカKid's・チェックアップ・ライオンこどもハミガキなど人気10選を安全性・効果で解説。"
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
@@ -177,8 +177,8 @@ products:
     price: 1370
     capacity: "60g×2本"
     pricePerUnit: "約11.4円/g"
-    rating: 4.82
-    reviewCount: 22
+    rating: 4.75
+    reviewCount: 24
     features:
       - "フレーバーを選べる2本セットのチェックアップ コドモ"
       - "フッ素950ppmFと500ppmFの濃度を好みで選択可能"
@@ -194,6 +194,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvdwn.3rdw65c2.g00tvdwn.3rdw7ec2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fm4-magic%2Flocheckup-kd-fc2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fm4-magic%2Fi%2F10002203%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/m4-magic/cabinet/lion/toothpaste/checkup-kd/kdm-fc2-new.jpg?_ex=128x128"
   - rank: 8
+    name: "チェックアップ コドモ 60g×3本セット"
+    brand: "ライオン（チェックアップ）"
+    price: 2300
+    capacity: "60g×3本（180g）"
+    pricePerUnit: "約13円/g"
+    rating: 4.72
+    reviewCount: 72
+    features:
+      - "子ども向けの歯みがき用品"
+      - "ジェルや泡タイプなど使いやすさで選べる"
+      - "年齢や味の好みに合わせやすい候補"
+    pros:
+      - "子どもの歯みがき習慣に合わせて選べる"
+      - "フッ素量やフッ素不使用タイプを比較できる"
+      - "味や形状の好みを試しやすい"
+    cons:
+      - "対象年齢やフッ素濃度の確認が必要"
+      - "味や泡立ちは子どもの好みが分かれる"
+    recommendedFor: "子ども用歯みがき粉を年齢や味で選びたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvuln.3rdw600e.g00tvuln.3rdw7892/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficekanna%2Fkodomo3set-eraberu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficekanna%2Fi%2F10005366%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/officekanna/cabinet/12162853/compass1779691005.jpg?_ex=128x128"
+  - rank: 9
     name: "チェックアップ コドモ アップル 60g"
     brand: "ライオン（チェックアップ）"
     price: 1298
@@ -215,7 +237,7 @@ products:
     recommendedFor: "フッ素950ppmでむし歯予防を重視する子どものいる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/mailmagazine/r2022/toothp_sale_tmb06.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "ばぶりーキッズ ゆらしー こども用泡歯磨き粉 48ml"
     brand: "from COCORO"
     price: 550
@@ -237,50 +259,6 @@ products:
     recommendedFor: "子ども用歯みがき粉を年齢や味で選びたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sm18n.3rdw6236.g00sm18n.3rdw7b8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffromcocoro%2Fbubbly_set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffromcocoro%2Fi%2F10000320%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fromcocoro/cabinet/items/10174430/240110_kato3.jpg?_ex=128x128"
-  - rank: 10
-    name: "レノビーゴ STEP1 40mL"
-    brand: "ゾンネボード製薬"
-    price: 1480
-    capacity: "40ml"
-    pricePerUnit: "約37円/ml"
-    rating: 4.72
-    reviewCount: 85
-    features:
-      - "子ども向けの歯みがき用品"
-      - "ジェルや泡タイプなど使いやすさで選べる"
-      - "年齢や味の好みに合わせやすい候補"
-    pros:
-      - "子どもの歯みがき習慣に合わせて選べる"
-      - "フッ素量やフッ素不使用タイプを比較できる"
-      - "味や形状の好みを試しやすい"
-    cons:
-      - "対象年齢やフッ素濃度の確認が必要"
-      - "味や泡立ちは子どもの好みが分かれる"
-    recommendedFor: "子ども用歯みがき粉を年齢や味で選びたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tjb1n.3rdw6b47.g00tjb1n.3rdw79f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyukinosizuku%2Fn-b099872qk8-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyukinosizuku%2Fi%2F10010523%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yukinosizuku/cabinet/09759157/1.jpg?_ex=128x128"
-  - rank: 11
-    name: "チェックアップ コドモ 60g×3本セット"
-    brand: "ライオン（チェックアップ）"
-    price: 2300
-    capacity: "60g×3本（180g）"
-    pricePerUnit: "約13円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "子ども向けの歯みがき用品"
-      - "ジェルや泡タイプなど使いやすさで選べる"
-      - "年齢や味の好みに合わせやすい候補"
-    pros:
-      - "子どもの歯みがき習慣に合わせて選べる"
-      - "フッ素量やフッ素不使用タイプを比較できる"
-      - "味や形状の好みを試しやすい"
-    cons:
-      - "対象年齢やフッ素濃度の確認が必要"
-      - "味や泡立ちは子どもの好みが分かれる"
-    recommendedFor: "子ども用歯みがき粉を年齢や味で選びたい家庭"
-    rakutenUrl: "https://item.rakuten.co.jp/officekanna/kodomo3set-eraberu/"
-    imageUrl: ""
 tags:
   - "歯磨き粉"
   - "子ども"

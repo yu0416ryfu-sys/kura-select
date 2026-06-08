@@ -135,7 +135,7 @@ products:
     capacity: "2kg"
     pricePerUnit: "約1990円/kg"
     rating: 4.66
-    reviewCount: 787
+    reviewCount: 789
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

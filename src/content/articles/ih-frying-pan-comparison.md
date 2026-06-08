@@ -1,5 +1,5 @@
 ---
-title: "IH対応フライパンおすすめ比較11選｜26cmの選び方"
+title: "IH対応フライパンおすすめ比較10選｜26cmの選び方"
 description: "IH対応フライパンを26cm中心に11製品比較。軽量タイプ、セラミック加工、取っ手が外れるタイプなどを選び方とあわせて紹介します。"
 category: "cooking-pot"
 publishedAt: "2026-06-06"
@@ -227,28 +227,6 @@ products:
     recommendedFor: "省スペース収納やオーブン活用を考える方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2hqn.3rdw6518.g00r2hqn.3rdw7197/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finterior-palette%2F479702%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finterior-palette%2Fi%2F10184108%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/interior-palette/cabinet/maker_hokua1/479702ip.jpg?_ex=128x128"
-  - rank: 11
-    name: "ティファール エクスペリエンス+ フライパン 26cm"
-    brand: "ティファール"
-    price: 14300
-    capacity: "1個"
-    pricePerUnit: "約14300円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://item.rakuten.co.jp/importshopaqua/tfalexfp26/"
-    imageUrl: ""
 tags:
   - "IH対応フライパン"
   - "フライパン 26cm"

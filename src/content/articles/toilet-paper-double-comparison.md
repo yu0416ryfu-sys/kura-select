@@ -1,17 +1,17 @@
 ---
-title: "トイレットペーパー ダブル コスパ最強ランキング【2026年版】11選比較"
-description: "ダブルのトイレットペーパーを1mあたりのコストで比較。2倍巻き・3倍巻き・再生紙・肌触り重視のおすすめ11選を紹介します。交換頻度を減らしたい方にも。"
+title: "トイレットペーパー ダブル コスパ最強ランキング【2026年版】10選比較"
+description: "ダブルのトイレットペーパーを1mあたりのコストで比較。2倍巻き・3倍巻き・再生紙・肌触り重視のおすすめ10選を紹介します。交換頻度を減らしたい方にも。"
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
 updatedAt: 2026-06-08
 products:
   - rank: 1
-    name: "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール×4ロール×12パック 1"
+    name: "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール（4ロール×12パック）"
     brand: "スコッティ"
     price: 10010
-    capacity: "75m×48ロール×4ロール×12パック"
-    pricePerUnit: "約0.06円/m"
+    capacity: "75m×48ロール（4ロール×12パック）"
+    pricePerUnit: "約2.8円/m"
     rating: 0
     reviewCount: 0
     features:
@@ -205,6 +205,28 @@ products:
         rating: 4.77
         reviewCount: 133
   - rank: 8
+    name: "エシカル12RW ダブル 12ロール×8パック"
+    brand: "エシカル"
+    price: 5580
+    capacity: "27.5m×12ロール×8パック"
+    pricePerUnit: "約2.1円/m"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://item.rakuten.co.jp/coming/color-jun1kyuhinrolls-t/"
+    imageUrl: ""
+  - rank: 9
     name: "ネピア おしりセレブ ダブル 40m×4ロール"
     brand: "王子ネピア（ネピア）"
     price: 645
@@ -237,7 +259,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_5647190"
         available: true
-  - rank: 9
+  - rank: 10
     name: "（まとめ）日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり "
     brand: "スコッティ"
     price: 5420
@@ -270,50 +292,6 @@ products:
         reviewCount: 11
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_h7262029"
         available: true
-  - rank: 10
-    name: "（まとめ）日本製 国産 紙クレシア スコッティ フラワーパック 3倍長持ち ダブル "
-    brand: "スコッティ"
-    price: 16358
-    capacity: "75m×4ロール"
-    pricePerUnit: "約55円/m"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s6ljn.3rdw6ee7.g00s6ljn.3rdw7432/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyumenokoya%2Fc02-ds-2366048%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyumenokoya%2Fi%2F40014976%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yumenokoya/cabinet//dsproducts/849/0002366048-1.jpg?_ex=128x128"
-  - rank: 11
-    name: "エシカル12RW ダブル 12ロール×8パック"
-    brand: "エシカル"
-    price: 5580
-    capacity: "27.5m×12ロール×8パック"
-    pricePerUnit: "約2.1円/m"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://item.rakuten.co.jp/coming/color-jun1kyuhinrolls-t/"
-    imageUrl: ""
 tags:
   - "トイレットペーパー"
   - "ダブル"

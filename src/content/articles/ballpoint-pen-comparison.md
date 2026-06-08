@@ -36,7 +36,7 @@ products:
     capacity: "1本（4色ボールペン+シャープペンシル）"
     pricePerUnit: "約1000円/本"
     rating: 4.78
-    reviewCount: 13392
+    reviewCount: 13394
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"
@@ -244,7 +244,7 @@ products:
       - "金属軸のため軽量ペンより重さを感じる場合がある"
     recommendedFor: "おしゃれなデザインを重視する方・滑らかなゲルの書き心地を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q020n.3rdw6d49.g00q020n.3rdw75a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fogawahan%2F10008119%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fogawahan%2Fi%2F10008119%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ogawahan/cabinet/pen/sarasa-gr/new01.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ogawahan/cabinet/sho06/sarasa/sarasa2026-naire-01.jpg?_ex=128x128"
 tags:
   - "ボールペン おすすめ"
   - "ボールペン コスパ"

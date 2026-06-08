@@ -1,6 +1,6 @@
 ---
 title: "食洗機用洗剤 コスパ最強ランキング【2026年版】粉末・ジェル・タブで比較"
-description: "食洗機用洗剤を1回あたりのコストで徹底比較。フィニッシュ・キュキュット・ジョイ・チャーミーの人気11選を洗浄力・コスパで解説します。"
+description: "食洗機用洗剤を1回あたりのコストで徹底比較。フィニッシュ・キュキュット・ジョイ・チャーミーの人気10選を洗浄力・コスパで解説します。"
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
@@ -299,28 +299,6 @@ products:
         available: true
         rating: 4.83
         reviewCount: 12
-  - rank: 11
-    name: "フィニッシュ パワーキューブ 食洗機用洗剤 150個入り"
-    brand: "フィニッシュ"
-    price: 1980
-    capacity: "150個"
-    pricePerUnit: "約13円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "食洗機用の洗剤本体"
-      - "タブレットや粉末など食洗機向けの形状"
-      - "まとめ買いしやすい容量構成"
-    pros:
-      - "毎日の食洗機運転に備えやすい"
-      - "計量の手間や保管性で比較しやすい"
-      - "既存候補と形状違いで選べる"
-    cons:
-      - "食洗機の機種や庫内汚れとの相性確認が必要"
-      - "香りや溶け残りの感じ方は環境で変わる"
-    recommendedFor: "食洗機用洗剤を形状別に比較したい人"
-    rakutenUrl: "https://item.rakuten.co.jp/good-item/co-126/"
-    imageUrl: ""
 tags:
   - "食洗機用洗剤"
   - "コスパ"

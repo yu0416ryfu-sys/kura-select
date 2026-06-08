@@ -29,6 +29,37 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz0kn.3rdw6a1c.g00tz0kn.3rdw7d29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbt-iimono%2Fpvc-m-01-2000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbt-iimono%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bt-iimono/cabinet/07914503/pvc-2000.jpg?_ex=128x128"
   - rank: 2
+    name: "ウイルカット プラスチックグローブ 100枚"
+    brand: "ウイルカット"
+    price: 489
+    capacity: "100枚"
+    pricePerUnit: "約4.9円/枚"
+    rating: 4.77
+    reviewCount: 248
+    features:
+      - "使い切りで使える作業用手袋"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "掃除や調理補助に備えやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "素材やサイズの相性を確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "掃除や調理補助に備えやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tovjn.3rdw6552.g00tovjn.3rdw7b0f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbelamer%2Fvpg-pf02-all%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbelamer%2Fi%2F10000216%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/belamer/cabinet/biiino/item/main-image/1694593798075_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fits-japan%2Fp21037610e99a.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-27"
+        price: 1594
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/its-japan_p21037610e99a"
+        available: true
+  - rank: 3
     name: "プラスチック手袋 パウダーフリー 100枚"
     brand: "ワークアップ"
     price: 495
@@ -61,7 +92,7 @@ products:
         available: true
         rating: 4.62
         reviewCount: 85
-  - rank: 3
+  - rank: 4
     name: "明成 プラスチック手袋 パウダーフリー 2000枚"
     brand: "明成"
     price: 10000
@@ -83,37 +114,6 @@ products:
     recommendedFor: "掃除や調理補助に備えやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u1gen.3rdw666e.g00u1gen.3rdw71a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeiseishop%2Fmsv02_20%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeiseishop%2Fi%2F10000042%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/meiseishop/cabinet/biiino/item/main-image/msv02_20_top2.jpg?_ex=128x128"
-  - rank: 4
-    name: "ウイルカット プラスチックグローブ 100枚"
-    brand: "ウイルカット"
-    price: 559
-    capacity: "100枚"
-    pricePerUnit: "約5.6円/枚"
-    rating: 4.77
-    reviewCount: 248
-    features:
-      - "使い切りで使える作業用手袋"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "掃除や調理補助に備えやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "素材やサイズの相性を確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "掃除や調理補助に備えやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tovjn.3rdw6552.g00tovjn.3rdw7b0f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbelamer%2Fvpg-pf02-all%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbelamer%2Fi%2F10000216%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/belamer/cabinet/biiino/item/main-image/1694593798075_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fits-japan%2Fp21037610e99a.html"
-        matchStatus: "matched"
-        updatedAt: "2026-05-27"
-        price: 1594
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/its-japan_p21037610e99a"
-        available: true
   - rank: 5
     name: "PVCグローブ 100枚×20箱"
     brand: "サンユー"
@@ -262,7 +262,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約14円/枚"
     rating: 4.57
-    reviewCount: 3490
+    reviewCount: 3491
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"

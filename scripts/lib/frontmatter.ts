@@ -342,6 +342,39 @@ export function isMultiMeasureVariantItemName(itemName: string): boolean {
  * 例: "ネピア 60枚（2,880枚）"    → "（2,880枚）"
  * 例: "ビオレ ボディウォッシュ 500mL" → "500mL"
  */
+/**
+ * 冗長な「総数 × 内訳」表記を内訳括弧へ畳み込む。
+ * 例: "75m×48ロール×4ロール×12パック"（48 = 4×12 の重複表記）
+ *   → "75m×48ロール（4ロール×12パック）"
+ * extractCapacityTotal は括弧内を乗数から除外するため、総量の二重カウントを防ぐ。
+ * 「総数」と「後続の同種 PACK_UNIT 因子の積」が一致し、かつ総数の単位が
+ * 内訳先頭の単位と一致する場合のみ畳み込む（誤検出防止のガード）。
+ */
+function collapseRedundantPackBreakdown(chain: string): string {
+  const parts = chain.split('×').map(p => p.trim()).filter(Boolean);
+  if (parts.length < 3) return chain;
+  const tokenRe = new RegExp(`^(\\d[\\d,]*)\\s*(${CAPACITY_UNITS}|${PACK_UNITS})$`);
+  const parsed = parts.map(p => {
+    const m = p.match(tokenRe);
+    return m ? { num: parseInt(m[1].replace(/,/g, ''), 10), unit: m[2], raw: p } : null;
+  });
+  if (parsed.some(p => p === null)) return chain;
+  const tokens = parsed as { num: number; unit: string; raw: string }[];
+  const packUnitRe = new RegExp(`^(${PACK_UNITS})$`);
+  for (let i = 1; i < tokens.length - 1; i++) {
+    if (!packUnitRe.test(tokens[i].unit)) continue;
+    const rest = tokens.slice(i + 1);
+    if (!rest.every(t => packUnitRe.test(t.unit))) continue;
+    if (tokens[i + 1].unit !== tokens[i].unit) continue;
+    const product = rest.reduce((acc, t) => acc * t.num, 1);
+    if (product !== tokens[i].num) continue;
+    const head = tokens.slice(0, i + 1).map(t => t.raw).join('×');
+    const breakdown = rest.map(t => t.raw).join('×');
+    return `${head}（${breakdown}）`;
+  }
+  return chain;
+}
+
 export function extractCapacityFromItemName(itemName: string): string | null {
   itemName = normalizeItemName(itemName);
   // 体重上限表記（「5kgまで」「3000gまで」「〜5000g」）を除去して容量誤抽出を防ぐ
@@ -418,7 +451,7 @@ export function extractCapacityFromItemName(itemName: string): string | null {
       }
       foundChain = true;
     }
-    if (foundChain) return result;
+    if (foundChain) return collapseRedundantPackBreakdown(result);
 
     // パターン1a: ティッシュ系の内訳注釈を含む販売数量
     // 例: "200枚（100組）×12箱" → "200枚（100組）×12箱"
@@ -449,7 +482,7 @@ export function extractCapacityFromItemName(itemName: string): string | null {
           chainPos += unitM[1].length;
         }
       }
-      return chainResult;
+      return collapseRedundantPackBreakdown(chainResult);
     }
 
     // パターン1d: 括弧内に PACK_UNITS の乗算チェーンがある場合
@@ -476,7 +509,7 @@ export function extractCapacityFromItemName(itemName: string): string | null {
           }
         }
         for (const f of packFactors) result += '×' + f[1] + f[2];
-        return result;
+        return collapseRedundantPackBreakdown(result);
       }
     }
 

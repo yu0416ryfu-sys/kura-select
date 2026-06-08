@@ -1,6 +1,6 @@
 ---
-title: "デンタルフロス コスパ最強ランキング【2026年版】1回0.25円〜11選比較"
-description: "デンタルフロスを1回あたりのコストで比較したランキング。最安はGUM 550mで0.25円/回（約3年分）。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ11選。"
+title: "デンタルフロス コスパ最強ランキング【2026年版】1回0.25円〜10選比較"
+description: "デンタルフロスを1回あたりのコストで比較したランキング。最安はGUM 550mで0.25円/回（約3年分）。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ10選。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
@@ -244,46 +244,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F0090023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000766%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/0090023_001.jpg?_ex=128x128"
   - rank: 10
-    name: "バトラー イージースレッドフロス 50回分"
-    brand: "サンスター（Butler）"
-    price: 1045
-    capacity: "1個（50回分）"
-    pricePerUnit: "約1045円/個"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "硬化部分付きでブリッジやインプラント下に通しやすい構造"
-      - "歯科医院専売ブランドとして設計されたホルダータイプ"
-      - "ブリッジや矯正器具がある方に向けた専用設計"
-    pros:
-      - "ブリッジやインプラントがある方でもフロスを使いやすい"
-      - "歯科専売品ならではの設計で安心感がある"
-      - "通常フロスが届きにくい箇所のケアに向く"
-    cons:
-      - "専用用途のため一般向けフロスの代替にはなりにくい"
-      - "1個50回分と少量で継続コストは高め"
-    recommendedFor: "ブリッジ・インプラント・矯正器具のある方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sy9tn.3rdw6bb6.g00sy9tn.3rdw7e05/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiiha%2F23000029%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiiha%2Fi%2F10001484%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iiha/cabinet/dentalfloss/sunstar/easythread-min.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fi-ha%2F23000029.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-08"
-        price: 1045
-        rating: 4.89
-        reviewCount: 9
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/i-ha_23000029"
-        available: true
-  - rank: 11
     name: "フロアフロス 45m 2個セット"
     brand: "オーラルケア"
     price: 1595
     capacity: "45m×2個（90m）"
     pricePerUnit: "約18円/m"
-    rating: 0
-    reviewCount: 0
+    rating: 4.64
+    reviewCount: 1105
     features:
       - "糸巻きタイプのデンタルフロス"
       - "歯間ケア向けの細い繊維設計"
@@ -296,8 +263,8 @@ products:
       - "ホルダー付きタイプが好みの人には手間に感じやすい"
       - "ワックス感や太さは使用感の好みが分かれる"
     recommendedFor: "糸巻きフロスを日常的に使いたい人"
-    rakutenUrl: "https://item.rakuten.co.jp/d-fit/49759/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008759%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0608_p5400/kirikae2/49759_n.jpg?_ex=128x128"
 tags:
   - "デンタルフロス おすすめ"
   - "歯間ブラシ コスパ"
