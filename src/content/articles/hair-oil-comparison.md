@@ -24,7 +24,6 @@ products:
       - "大容量タイプがあり継続使用コストを下げやすい"
       - "脱臭処理済みのためホホバオイル特有の匂いが少なく扱いやすい"
     cons:
-      - "rank 13の精製ホホバオイル クリアと同ブランドのため、用途は重なりやすい"
       - "スタイリング補助成分が含まれないため、まとまり感は出にくい"
     recommendedFor: "オーガニック原料にこだわりたい人・ホホバオイルを頭皮ケアと髪の保湿に活用したい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ps7en.3rdw689b.g00ps7en.3rdw765e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturalcosmetic%2F10000888%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturalcosmetic%2Fi%2F10000888%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
