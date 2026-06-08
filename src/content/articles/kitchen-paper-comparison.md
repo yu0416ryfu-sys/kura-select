@@ -1,6 +1,6 @@
 ---
 title: "キッチンペーパー コスパ最強ランキング【2026年版】1枚あたり最安で比較"
-description: "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気10選を吸水力・強度・コスパで解説します。"
+description: "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気7選を吸水力・強度・コスパで解説します。"
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
@@ -128,50 +128,6 @@ products:
         rating: 0
         reviewCount: 2
   - rank: 5
-    name: "キッチンペーパー 選べる 12箱 24箱 48箱 定期便 60組 エンボス加工 再生"
-    brand: "キッチンペーパー"
-    price: 5000
-    capacity: "1枚"
-    pricePerUnit: "約5000円/枚"
-    rating: 4.76
-    reviewCount: 92
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tlgnn.3rdw65e6.g00tlgnn.3rdw7bdf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff372021-marugame%2F53410354%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff372021-marugame%2Fi%2F10000331%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/f372021-marugame/cabinet/12097987/uchidasku1aa.jpg?_ex=128x128"
-  - rank: 6
-    name: "〈しっかり吸収やぶれにくい！〉グッと吸い込むキッチンタオル100カット（4ロール×1"
-    brand: "〈しっかり吸収やぶれにくい！〉グッと吸い込むキッチンタオル100カット（4ロール×1"
-    price: 14000
-    capacity: "4ロール×12パック"
-    pricePerUnit: "約292円/ロール"
-    rating: 4.85
-    reviewCount: 149
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tmq0n.3rdw6e89.g00tmq0n.3rdw722e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff442011-oita%2Fr14030%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff442011-oita%2Fi%2F10000767%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/f442011-oita/cabinet/14/r14030_u_250527.jpg?_ex=128x128"
-  - rank: 7
     name: "スコッティ ファイン 3倍巻き キッチンタオル 4ロール×4パック"
     brand: "日本製紙クレシア（スコッティ）"
     price: 4810
@@ -204,29 +160,7 @@ products:
         available: true
         rating: 5
         reviewCount: 4
-  - rank: 8
-    name: "〈しっかり吸収やぶれにくい！〉キッチンタオル70カット32ロール or 48ロール "
-    brand: "〈しっかり吸収やぶれにくい！〉キッチンタオル70カット32ロール"
-    price: 10000
-    capacity: "32ロール"
-    pricePerUnit: "約313円/ロール"
-    rating: 4.81
-    reviewCount: 423
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tmq0n.3rdw6e89.g00tmq0n.3rdw722e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff442011-oita%2Fr14019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff442011-oita%2Fi%2F10000580%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/f442011-oita/cabinet/14/r14019_u_251023.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 6
     name: "東京クイン イイナ キッチンペーパー M265 12ロール"
     brand: "イイナ"
     price: 4594
@@ -259,7 +193,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 10
+  - rank: 7
     name: "カークランド ペーパー タオル 160シート 12ロール 2枚重ね コストコ 通販 "
     brand: "カークランド"
     price: 4999

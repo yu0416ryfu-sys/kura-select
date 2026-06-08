@@ -41,28 +41,6 @@ products:
         rating: 4.53
         reviewCount: 15
   - rank: 2
-    name: "ヒバウッド 2本セット"
-    brand: "ANS"
-    price: 3950
-    capacity: "450ml×2本"
-    pricePerUnit: "約4.4円/ml"
-    rating: 4.01
-    reviewCount: 241
-    features:
-      - "ヒノキオイル配合の天然由来成分を使用した日本製忌避スプレー"
-      - "450ml×2本セットで玄関・外壁・室内など広範囲への使用がしやすい"
-      - "ムカデ・クモ・ダニなど多様な害虫の忌避に対応"
-    pros:
-      - "大容量2本セットで家の外周りや室内など複数箇所への使用がしやすい"
-      - "殺虫成分不使用の天然由来処方を選びたい家庭に向いている"
-      - "宮崎化学の正規代理店製品で品質を重視する方に選ばれやすい"
-    cons:
-      - "ボディ用ではないため皮膚への直接使用には向かない"
-      - "ヒノキ系の独特な香りが気になる場合がある"
-    recommendedFor: "家の外周りや室内の害虫忌避に天然由来処方を使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sqj0n.3rdw62df.g00sqj0n.3rdw73aa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-n-s%2Fhibawood-2set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-n-s%2Fi%2F10000128%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-n-s/cabinet/08186317/compass1660032218.jpg?_ex=128x128"
-  - rank: 3
     name: "サラテクト 無香料"
     brand: "アース製薬"
     price: 657
@@ -95,7 +73,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yyshop_49469592"
         available: true
-  - rank: 4
+  - rank: 3
     name: "家中どこでも虫キライスプレー"
     brand: "ウッディラボ"
     price: 1980
@@ -128,7 +106,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 5
+  - rank: 4
     name: "ヒバNON NON"
     brand: "ダイレクトテレショップ"
     price: 7788
@@ -150,7 +128,7 @@ products:
     recommendedFor: "屋内外の虫の侵入対策に天然成分100%の防虫スプレーを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pqorn.3rdw6854.g00pqorn.3rdw7e1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftv-ya%2Fhibanonnon-a-2-p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftv-ya%2Fi%2F10002598%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hibanonnon-a-2-p/thum/hibanonnon-a-2-p.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 5
     name: "アンチバグ プレミアム"
     brand: "AROMICstyle"
     price: 1080
@@ -183,7 +161,7 @@ products:
         available: true
         rating: 4.68
         reviewCount: 28
-  - rank: 7
+  - rank: 6
     name: "KINCHO プレシャワー DFミスト プレミアガード 無香料 120mL"
     brand: "大日本除虫菊（KINCHO）"
     price: 1320
@@ -216,7 +194,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4987115540569"
         available: true
-  - rank: 8
+  - rank: 7
     name: "アウトドアボディスプレー"
     brand: "PERFECT POTION"
     price: 1386
@@ -249,7 +227,7 @@ products:
         available: true
         rating: 4.88
         reviewCount: 17
-  - rank: 9
+  - rank: 8
     name: "バルサン 虫除けスプレー 携帯用 100mL"
     brand: "レック（バルサン）"
     price: 1360
@@ -271,7 +249,7 @@ products:
     recommendedFor: "アウトドアやキャンプで携帯できる虫除けスプレーを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5d7n.3rdw6b76.g00s5d7n.3rdw7a8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect-2%2F4580543943171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect-2%2Fi%2F10004038%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect-2/cabinet/img/v/4580543943171.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "安全安心 虫除けスプレー"
     brand: "無添加工房 OKADA"
     price: 1386

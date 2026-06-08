@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: "2026-06-08"
 products:
   - rank: 1
     name: "熊本県産 ヒノヒカリ"
@@ -128,28 +128,6 @@ products:
         rating: 5
         reviewCount: 4
   - rank: 5
-    name: "くりやの無洗米 香川県産コシヒカリ 10kg"
-    brand: "お米のくりや"
-    price: 9040
-    capacity: "10kg"
-    features:
-      - "2kg×5袋の小分け構成"
-      - "窒素充填包装で未開封分を管理しやすい"
-      - "香川県産コシヒカリの無洗米"
-    pros:
-      - "少量ずつ開封できて鮮度管理しやすい"
-      - "一人暮らしや少人数世帯でも扱いやすい"
-      - "保管スペースを分散しやすい"
-    cons:
-      - "10kgを一袋で使いたい家庭には小分けが手間に感じる場合がある"
-      - "地域によって送料条件を確認したい"
-    recommendedFor: "小分け包装でお米を管理したい方・少人数世帯"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzx0n.3rdw6f4e.g00pzx0n.3rdw7cfb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokome-kuriya%2Frinse-free-rice%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokome-kuriya%2Fi%2F10000708%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    rating: 4.6
-    reviewCount: 108
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/okome-kuriya/cabinet/item/11424198/thumb_musen_10kg.jpg?_ex=128x128"
-    pricePerUnit: "約904円/kg"
-  - rank: 6
     name: "無洗米 富山県産コシヒカリ 10kg"
     brand: "ヤマトライス"
     price: 9780
@@ -171,7 +149,7 @@ products:
     reviewCount: 152
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/tym/koshi/bg/000324-2p10.jpg?_ex=128x128"
     pricePerUnit: "約978円/kg"
-  - rank: 7
+  - rank: 6
     name: "無洗米 農薬節減米 岩手県産ひとめぼれ 10kg"
     brand: "ヤマトライス"
     price: 9880
@@ -193,7 +171,7 @@ products:
     reviewCount: 72
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/iwt/hitome/008963-2.jpg?_ex=128x128"
     pricePerUnit: "約988円/kg"
-  - rank: 8
+  - rank: 7
     name: "無洗米 新潟県産コシヒカリ 10kg"
     brand: "ヤマトライス"
     price: 9980
@@ -226,7 +204,7 @@ products:
         available: true
         rating: 4.63
         reviewCount: 636
-  - rank: 9
+  - rank: 8
     name: "令和7年産 無洗米 茨城県産コシヒカリ 10kg"
     brand: "ミツハシライス"
     price: 11026
@@ -259,7 +237,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 10
+  - rank: 9
     name: "令和7年 佐渡産コシヒカリ 2kg"
     brand: "食の宝島佐渡"
     price: 3420

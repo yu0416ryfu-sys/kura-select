@@ -1,10 +1,10 @@
 ---
 title: "日焼け止め コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "日焼け止めを1mLあたりのコストで徹底比較。ビオレUV・スキンアクア・ニベアUV・アリィーなど人気10選をUV防御力・コスパで解説します。"
+description: "日焼け止めを1mLあたりのコストで徹底比較。ビオレUV・スキンアクア・ニベアUV・アリィーなど人気9選をUV防御力・コスパで解説します。"
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: "2026-06-08"
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -227,28 +227,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn2mn.3rdw6125.g00qn2mn.3rdw7702/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsangakushop%2Frarossyu35%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsangakushop%2Fi%2F10000773%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sangakushop/cabinet/lrp/03044hqs_p01.jpg?_ex=128x128"
   - rank: 9
-    name: "ピコモンテ CCクリーム"
-    brand: "ピコモンテ"
-    price: 1590
-    capacity: "50ml"
-    pricePerUnit: "約32円/ml"
-    rating: 4.13
-    reviewCount: 2794
-    features:
-      - "UVケアに使える日焼け止め・化粧下地"
-      - "顔用や子ども向けも選べる"
-      - "日常使いしやすい"
-    pros:
-      - "毎日の紫外線対策に使いやすい"
-      - "メイク前にも取り入れやすい"
-      - "肌質に合わせて選べる"
-    cons:
-      - "色味や使用感の好みは分かれる"
-      - "肌に合うか確認が必要"
-    recommendedFor: "日焼け止めを使用感と用途で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r97bn.3rdw60e8.g00r97bn.3rdw72a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-cueb%2F10000291%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-cueb%2Fi%2F10000291%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-cueb/cabinet/03419697/picomonte-cc/picocc_sn2.jpg?_ex=128x128"
-  - rank: 10
     name: "ラロッシュポゼ UVイデアXL ティント 30mL"
     brand: "ラロッシュポゼ"
     price: 3960

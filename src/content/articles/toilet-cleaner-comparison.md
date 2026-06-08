@@ -1,43 +1,12 @@
 ---
 title: "トイレ用洗剤 コスパ最強ランキング【2026年版】除菌力・洗浄力で比較"
-description: "トイレ用洗剤を1回あたりのコストで徹底比較。サンポール・スクラビングバブル・ドメスト・ブルーレットなど人気10選を解説します。"
+description: "トイレ用洗剤を1回あたりのコストで徹底比較。サンポール・スクラビングバブル・ドメスト・ブルーレットなど人気9選を解説します。"
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
 updatedAt: "2026-06-07"
 products:
   - rank: 1
-    name: "大日本除虫菊 KINCHO サンポールV 5L"
-    brand: "大日本除虫菊（サンポール）"
-    price: 1691
-    capacity: "5L"
-    pricePerUnit: "約338円/L"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "強力な酸性洗剤で尿石・黄ばみを溶かす"
-      - "便器のフチ裏にもかけやすいノズル設計"
-      - "50年以上のロングセラー商品"
-    pros:
-      - "尿石・黄ばみ除去力はNo.1"
-      - "1回あたり約7円の高コスパ"
-      - "大容量5Lで長持ち"
-    cons:
-      - "塩素系洗剤との併用は絶対NG"
-      - "酸性のため長時間放置すると素材を傷める"
-    recommendedFor: "尿石・黄ばみに悩む方・コスパ重視の方・頑固な汚れを落としたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sargn.3rdw6a7b.g00sargn.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyrepi-2%2F4987115851764ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmyrepi-2%2Fi%2F10232927%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/myrepi-2/cabinet/rich07/4987115851764.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987115851764.html"
-        matchStatus: "matched"
-        updatedAt: "2026-05-25"
-        price: 1781
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987115851764"
-        available: true
-  - rank: 2
     name: "除菌洗浄トイレハイター"
     brand: "ハイター"
     price: 441
@@ -70,7 +39,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301018755"
         available: true
-  - rank: 3
+  - rank: 2
     name: "ルック まめピカ トイレクリーナー つめかえ用 190ml"
     brand: "ライオン（ルック）"
     price: 217
@@ -103,7 +72,7 @@ products:
         available: true
         rating: 4.48
         reviewCount: 42
-  - rank: 4
+  - rank: 3
     name: "ソネット ナチュラルトイレットクリーナー"
     brand: "SONETT（ソネット）"
     price: 1100
@@ -136,7 +105,7 @@ products:
         available: true
         rating: 4.33
         reviewCount: 3
-  - rank: 5
+  - rank: 4
     name: "キバミおちーる 尿石除去剤"
     brand: "キバミおちーる"
     price: 1980
@@ -169,7 +138,7 @@ products:
         available: true
         rating: 4.07
         reviewCount: 14
-  - rank: 6
+  - rank: 5
     name: "トイレットペーパーでちょいふき"
     brand: "小林製薬"
     price: 3867
@@ -191,7 +160,7 @@ products:
     recommendedFor: "トイレ用洗剤を用途別に比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987072067178-008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12129144%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic49x/4987072067178_1.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "スクラビングバブル 超強力トイレクリーナー 10本セット"
     brand: "ジョンソン（スクラビングバブル）"
     price: 2277
@@ -213,7 +182,7 @@ products:
     recommendedFor: "大容量まとめ買いでコストを最小化したい方・頻繁にトイレ掃除をする方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F542515%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11127321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/515/542515.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "スクラビングバブル 超強力トイレクリーナー 3本セット"
     brand: "ジョンソン（スクラビングバブル）"
     price: 733
@@ -246,7 +215,7 @@ products:
         available: true
         rating: 4.76
         reviewCount: 45
-  - rank: 9
+  - rank: 8
     name: "スクラビングバブル 超強力トイレクリーナー 400g×5本セット"
     brand: "ジョンソン（スクラビングバブル）"
     price: 1214
@@ -268,7 +237,7 @@ products:
     recommendedFor: "長期ストックを想定したい方・塩素系洗剤を定期購入したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F72256%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10930487%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/256/72256.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "スクラビングバブル 超強力トイレクリーナー 400g"
     brand: "ジョンソン（スクラビングバブル）"
     price: 441

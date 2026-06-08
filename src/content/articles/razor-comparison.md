@@ -1,10 +1,10 @@
 ---
-title: "T字カミソリ おすすめ10選｜替刃コスパと刃数で徹底比較"
+title: "T字カミソリ おすすめ9選｜替刃コスパと刃数で徹底比較"
 description: "ジレット・シックなど人気ブランドのT字カミソリを刃数・コスパ・使い心地で比較。替刃の単価や選び方のポイントも解説します。"
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: "2026-06-08"
 draft: false
 products:
   - rank: 1
@@ -118,28 +118,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/life-aozora-shop_250929-005"
         available: true
   - rank: 5
-    name: "Schick (シック) イントゥイション クラブパック 本体刃付+替刃2個 女性"
-    brand: "Schick"
-    price: 6680
-    capacity: "2個"
-    pricePerUnit: "約3340円/個"
-    rating: 5
-    reviewCount: 2
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ubymn.3rdw6bc5.g00ubymn.3rdw7219/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fo-sap%2Fcos-4560-6580-r370%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fo-sap%2Fi%2F10000177%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/o-sap/cabinet/10628693/imgrc0106551281.jpg?_ex=128x128"
-  - rank: 6
     name: "ジレット 髭剃り カミソリ カスタムプラス3 プレミアムスムース(3本入り)×3個 "
     brand: "ジレット"
     price: 1413
@@ -161,7 +139,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhson.3rdw6ad0.g00qhson.3rdw7574/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperkid%2F4902430793063-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuperkid%2Fi%2F10017135%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/superkid/cabinet/biyou/imgrc0089091398.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "貝印カミソリ K-2 ひげそり用カミソリ ホルダー 本体＋替刃5コ付 (二枚刃 シェ"
     brand: "貝印カミソリ"
     price: 2413
@@ -183,7 +161,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901331003301-009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12148065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic4900/4901331003301_1.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "ハイドロ5 カスタム 本体+替刃16個セット"
     brand: "シック（Schick）"
     price: 2875
@@ -205,7 +183,7 @@ products:
     recommendedFor: "5枚刃で深剃りを求める方・本体と替刃をまとめて揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sa3qn.3rdw64a4.g00sa3qn.3rdw76a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopavail%2F239%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopavail%2Fi%2F10000284%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shopavail/cabinet/nichiyouzakka/compass1640313753.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "シック ハイドロ5 替刃 カスタム 5枚刃 髭剃り ホルダー1本＋プラス 替刃17個"
     brand: "Schick"
     price: 2998
@@ -238,7 +216,7 @@ products:
         reviewCount: 248
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/xwpio_post-schlickhydro16-4891228309626"
         available: true
-  - rank: 10
+  - rank: 9
     name: "ヘンソンシェービング AL13 スタンダード"
     brand: "Henson Shaving"
     price: 16400

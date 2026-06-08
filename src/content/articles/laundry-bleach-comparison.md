@@ -1,6 +1,6 @@
 ---
 title: "衣料用漂白剤 コスパ最強ランキング【2026年版】酸素系・塩素系で比較"
-description: "衣料用漂白剤を1回あたりのコストで徹底比較。オキシクリーン・ワイドハイター・ブライトなど人気10選を漂白力・色柄物対応で解説します。"
+description: "衣料用漂白剤を1回あたりのコストで徹底比較。オキシクリーン・ワイドハイター・ブライトなど人気9選を漂白力・色柄物対応で解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -128,39 +128,6 @@ products:
         rating: 4.85
         reviewCount: 27
   - rank: 5
-    name: "洗たく槽クリーナー【2sh24】【シャボン玉石けん】"
-    brand: "シャボン玉石けん"
-    price: 562
-    capacity: "（500g）"
-    pricePerUnit: "約1.1円/g"
-    rating: 4.69
-    reviewCount: 2424
-    features:
-      - "過炭酸ナトリウム100%の無添加処方"
-      - "界面活性剤・香料・着色料不使用"
-      - "赤ちゃんの衣類にも安心して使える"
-    pros:
-      - "無添加で敏感肌・赤ちゃんにも安心"
-      - "洗濯槽クリーナーとしても使える"
-      - "環境にやさしい生分解性100%"
-    cons:
-      - "界面活性剤がない分、洗浄力はやや控えめ"
-      - "お湯で溶かさないと効果が弱い"
-    recommendedFor: "無添加志向の方・赤ちゃんがいる家庭・環境配慮派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fr001200200154%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10203982%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/033/4901797100033.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshabondamasoap%2F2230.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-07"
-        price: 550
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shabondamasoap_2230"
-        available: true
-        rating: 4.7
-        reviewCount: 47
-  - rank: 6
     name: "さらさ 洗濯洗剤 詰め替え"
     brand: "P&G（さらさ）"
     price: 8670
@@ -182,7 +149,7 @@ products:
     recommendedFor: "敏感肌の方・赤ちゃんがいる家庭・環境に配慮した洗剤を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7175761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10078291%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/tenposupport21/7287020.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "ハイベック プレミアムドライ"
     brand: "ハイベック"
     price: 6600
@@ -215,7 +182,7 @@ products:
         available: true
         rating: 4.76
         reviewCount: 17
-  - rank: 8
+  - rank: 7
     name: "サンベック高級洗剤"
     brand: "トップライン"
     price: 6380
@@ -237,7 +204,7 @@ products:
     recommendedFor: "高級衣類を自宅でクリーニングしたい方・ドライクリーニング代を節約したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsb1000-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000195%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/18sb.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "アタックZERO ワンハンドタイプ 本体 380g"
     brand: "花王（アタック）"
     price: 2456
@@ -268,7 +235,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 10
+  - rank: 9
     name: "サンベックドライ洗剤"
     brand: "トップライン"
     price: 3980

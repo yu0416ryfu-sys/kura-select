@@ -1,10 +1,10 @@
 ---
 title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
-description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ10選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
+description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ6選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: "2026-06-08"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -128,94 +128,6 @@ products:
         rating: 0
         reviewCount: 2
   - rank: 5
-    name: "ごみ袋 箱タイプ 45リットル 半透明 65x80cm 0.015mm厚 100枚x"
-    brand: "ごみ袋"
-    price: 2200
-    capacity: "100枚x2"
-    pricePerUnit: "約11円/枚"
-    rating: 4.65
-    reviewCount: 181
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fbx-530box2kobako%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10001012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/ecotaibox/bx/45l/bx-530n_2k.jpg?_ex=128x128"
-  - rank: 6
-    name: "とって付きビニール袋 ごみ袋 20L〜25L 20枚×4セット"
-    brand: "日本サニパック"
-    price: 1287
-    capacity: "20枚×4セット（80枚）"
-    pricePerUnit: "約16円/枚"
-    rating: 4.25
-    reviewCount: 4
-    features:
-      - "20L〜25L対応の小型ゴミ袋で洗面所やトイレなどの小型ゴミ箱に向くサイズ"
-      - "取っ手付きで口を結ばずにゴミ出しできる"
-      - "0.016mmの薄手素材で一般的なゴミの処理に適した設計"
-    pros:
-      - "小型サイズなので部屋ごとのゴミ箱に使い分けしやすい"
-      - "取っ手で持ち運べるため、ゴミ箱からそのまま外に出せる"
-      - "ペット用汚物袋やアウトドアなど用途を広げやすい"
-    cons:
-      - "薄手（0.016mm）のため、重みや鋭利なものには向かない"
-      - "小容量タイプのため、台所の大型ゴミ箱には使えない"
-    recommendedFor: "洗面所・トイレ・デスク周りなど小型ゴミ箱を複数使いする方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ty6dn.3rdw6ecc.g00ty6dn.3rdw797e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftbnexus%2Fsanipak-yc29%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftbnexus%2Fi%2F10000128%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tbnexus/cabinet/item2/sanipak-yc29_1.jpg?_ex=128x128"
-  - rank: 7
-    name: "KT43 取っ手付きポリ袋 45L 半透明"
-    brand: "ハウスホールドジャパン"
-    price: 2974
-    capacity: "30枚×5点セット（150枚）"
-    pricePerUnit: "約20円/枚"
-    rating: 5
-    reviewCount: 3
-    features:
-      - "45L対応で一般的な家庭用大型ゴミ箱に合わせやすいサイズ"
-      - "取っ手付きデザインで口を結ばずに運搬できる"
-      - "半透明素材でゴミの分別確認がしやすい"
-    pros:
-      - "45Lという大容量サイズで生活ゴミをまとめやすい"
-      - "取っ手があることでゴミ出し時の持ち運びがラク"
-      - "ハウスホールドジャパン製のファミリー向け定番品"
-    cons:
-      - "薄手タイプのため重いゴミへの耐久性は限られる"
-      - "取っ手分だけ口が小さくなるため、大型ゴミには注意が必要"
-    recommendedFor: "45Lゴミ箱を使う家庭、取っ手付きゴミ袋を好む方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4580287300940-005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12059341%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2021a/4580287300940.jpg?_ex=128x128"
-  - rank: 8
-    name: "ごみ袋 箱タイプ 45リットル 半透明 65x80cm 0.030mm厚 100枚 "
-    brand: "ごみ袋"
-    price: 2400
-    capacity: "100枚"
-    pricePerUnit: "約24円/枚"
-    rating: 4.7
-    reviewCount: 130
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fhk-440ecoboxkobako%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10000748%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/ecotaibox/hk/45l/hk-440no_k.jpg?_ex=128x128"
-  - rank: 9
     name: "HD-890 半透明 70L"
     brand: "ケミカルジャパン"
     price: 2757
@@ -237,7 +149,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4991437150665%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11308988%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/665/4991437150665.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 6
     name: "ゴミ袋 90L 業務用 厚手"
     brand: "ケイヨウ実業"
     price: 5780

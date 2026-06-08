@@ -1,10 +1,10 @@
 ---
 title: "子ども用歯磨き粉 おすすめランキング【2026年版】フッ素濃度・年齢別に比較"
-description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比較。クリニカKid's・チェックアップ・ライオンこどもハミガキなど人気10選を安全性・効果で解説。"
+description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比較。クリニカKid's・チェックアップ・ライオンこどもハミガキなど人気8選を安全性・効果で解説。"
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: "2026-06-08"
 products:
   - rank: 1
     name: "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット"
@@ -29,28 +29,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F0000049795240-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10184891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/aa/49795240.jpg?_ex=128x128"
   - rank: 2
-    name: "あわだたない こどもハミガキ ラムネ 60g×11個"
-    brand: "エスケー石鹸"
-    price: 5334
-    capacity: "60g×11個"
-    pricePerUnit: "約8.1円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "子ども向けの歯磨き粉"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "年齢や味の好みに合わせて選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "使用量や対象年齢を確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "年齢や味の好みに合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvxzn.3rdw6cd4.g00rvxzn.3rdw76f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaigo%2F4964495600182-11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaigo%2Fi%2F10370489%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaigo/cabinet/2025b/4964495600182.jpg?_ex=128x128"
-  - rank: 3
     name: "あわだたない こどもハミガキ ラムネ 60g"
     brand: "エスケー石鹸"
     price: 495
@@ -83,7 +61,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hareya_y-nsk0182x5"
         available: true
-  - rank: 4
+  - rank: 3
     name: "エスケー石鹸 あわだたないこどもハミガキ ぶどう 60g"
     brand: "エスケー石鹸"
     price: 495
@@ -116,7 +94,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 5
+  - rank: 4
     name: "エスケー石鹸 あわだたないこどもハミガキ ぶどう 60g×32個"
     brand: "エスケー石鹸"
     price: 15840
@@ -138,29 +116,7 @@ products:
     recommendedFor: "年齢や味の好みに合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2u0n.3rdw6e74.g00r2u0n.3rdw74e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fecorea2010%2F3770c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fecorea2010%2Fi%2F10000578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ecorea2010/cabinet/item/case/3770c.jpg?_ex=128x128"
-  - rank: 6
-    name: "あわだたない こどもハミガキ ラムネ 60g×7個"
-    brand: "エスケー石鹸"
-    price: 3586
-    capacity: "60g×7個"
-    pricePerUnit: "約8.5円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "子ども向けの歯磨き粉"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "年齢や味の好みに合わせて選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "使用量や対象年齢を確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "年齢や味の好みに合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvxzn.3rdw6cd4.g00rvxzn.3rdw76f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaigo%2F4964495600182-7%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaigo%2Fi%2F10370491%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaigo/cabinet/2025b/4964495600182.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 5
     name: "あわだたない こどもハミガキ ラムネ 60g"
     brand: "エスケー石鹸"
     price: 517
@@ -182,7 +138,7 @@ products:
     recommendedFor: "年齢や味の好みに合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvxzn.3rdw6cd4.g00rvxzn.3rdw76f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaigo%2F4964495600182%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaigo%2Fi%2F10370485%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaigo/cabinet/2025b/4964495600182.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 6
     name: "ピジョン ジェル状歯みがき ぷちキッズ ぶどう味【親子で乳歯ケア】"
     brand: "ピジョン"
     price: 436
@@ -215,7 +171,7 @@ products:
         available: true
         rating: 4.88
         reviewCount: 17
-  - rank: 9
+  - rank: 7
     name: "チェックアップ コドモ 60g×2本"
     brand: "ライオン（チェックアップ）"
     price: 1370
@@ -237,7 +193,7 @@ products:
     recommendedFor: "チェックアップ コドモをまとめ買いしたい方・フレーバーを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvdwn.3rdw65c2.g00tvdwn.3rdw7ec2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fm4-magic%2Flocheckup-kd-fc2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fm4-magic%2Fi%2F10002203%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/m4-magic/cabinet/lion/toothpaste/checkup-kd/kdm-fc2-new.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 8
     name: "チェックアップ コドモ アップル 60g"
     brand: "ライオン（チェックアップ）"
     price: 1298

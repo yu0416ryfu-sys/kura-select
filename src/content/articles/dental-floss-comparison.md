@@ -1,6 +1,6 @@
 ---
-title: "デンタルフロス コスパ最強ランキング【2026年版】1回0.25円〜10選比較"
-description: "デンタルフロスを1回あたりのコストで比較したランキング。最安はGUM 550mで0.25円/回（約3年分）。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ10選。"
+title: "デンタルフロス コスパ最強ランキング【2026年版】1回0.25円〜9選比較"
+description: "デンタルフロスを1回あたりのコストで比較したランキング。最安はGUM 550mで0.25円/回（約3年分）。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ9選。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
@@ -190,38 +190,6 @@ products:
         available: false
         matchNotes: "capacity不一致: capacity不一致"
   - rank: 8
-    name: "デンタルプロ 歯間ブラシ 4【more30】【デンタルプロ】"
-    brand: "デンタルプロ"
-    price: 467
-    capacity: "15本（15回）"
-    pricePerUnit: "約31円/回"
-    rating: 4.44
-    reviewCount: 9
-    features:
-      - "I字型で前歯から奥歯まで使いやすいスタンダード設計"
-      - "細軸タイプで歯間が広めの方に適した太さ"
-      - "3個セットのまとめ買いでコスパが良い"
-    pros:
-      - "GUM・糸ようじとは異なる第4のブランドで比較選択肢が広がる"
-      - "3個セットで購入するとバラ買いより割安"
-      - "歯周病ケアに有効な歯間ブラシタイプ"
-    cons:
-      - "歯間が狭い方はSSサイズを選ぶ必要がある"
-      - "フロスと比べると一回単価はやや高め"
-    recommendedFor: "歯間ブラシを初めて使う方・歯周病ケアをしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fd412800h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10014395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/634/4973227834634.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4973227834634.html"
-        matchStatus: "review"
-        updatedAt: "2026-05-24"
-        price: 268
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4973227834634"
-        available: false
-        matchNotes: "capacity不一致: capacity不一致"
-  - rank: 9
     name: "DENT.EX ウルトラフロスS 10本入×10パック"
     brand: "ライオン（DENT.EX）"
     price: 4850
@@ -253,7 +221,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_13122"
         available: false
         matchNotes: "capacity不一致: capacity不一致"
-  - rank: 10
+  - rank: 9
     name: "バトラー イージースレッドフロス 50回分"
     brand: "サンスター（Butler）"
     price: 1045
@@ -296,7 +264,7 @@ draft: false
 ---
 
 このページでは、**デンタルフロスのコスパランキング**を1回あたりのコストで比較します。
-GUM・クリニカ・糸ようじ・フロアフロスなど10選を、ロール型・ホルダー型・歯間ブラシのタイプ別に選び方を解説します。
+GUM・クリニカ・糸ようじ・フロアフロスなど9選を、ロール型・ホルダー型・歯間ブラシのタイプ別に選び方を解説します。
 
 ## デンタルフロス・歯間ブラシの選び方ガイド
 

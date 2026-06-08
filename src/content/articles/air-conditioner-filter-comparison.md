@@ -4,7 +4,7 @@ description: "エアコンフィルターの交換タイプ・枚数・コスパ
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: "2026-06-08"
 draft: false
 products:
   - rank: 1
@@ -185,50 +185,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s1l0n.3rdw6a90.g00s1l0n.3rdw70d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfilter%2Fsf100003-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarfilter%2Fi%2F10000090%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/starfilter/cabinet/item/main/imgrc0133123266.jpg?_ex=128x128"
   - rank: 7
-    name: "ホコリとりフィルター 業務用エアコン用 5個セット"
-    brand: "東洋アルミエコープロダクツ"
-    price: 4209
-    capacity: "5個セット（計10枚）"
-    pricePerUnit: "約842円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "業務用カセット型エアコン向けの粘着式ホコリとりフィルター"
-      - "サイズ 175×250mm（業務用エアコンのフィルター枠に対応）"
-      - "不織布素材で花粉・ホコリを効率的に捕集"
-    pros:
-      - "5個セットでまとめ買いができ、定期交換の補充が楽"
-      - "粘着式で道具不要、貼るだけで簡単に交換できる"
-      - "業務用エアコンの定期メンテナンスに向いた専用設計"
-    cons:
-      - "家庭用壁掛けエアコンには適さず、業務用カセット型専用"
-      - "175×250mmの専用サイズのため汎用性は限られる"
-    recommendedFor: "オフィス・店舗の業務用カセットエアコンを自分でメンテナンスしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pwv1n.3rdw6750.g00pwv1n.3rdw7d47/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffirst23%2Fhrm-h2510111623205%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffirst23%2Fi%2F19207791%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/first23/cabinet/image_sku/hrm-251015h_163/hrm-h2510111623205_1.jpg?_ex=128x128"
-  - rank: 8
-    name: "ホコリとりフィルター 業務用エアコン用 2個セット"
-    brand: "東洋アルミエコープロダクツ"
-    price: 2139
-    capacity: "2個セット（計4枚）"
-    pricePerUnit: "約1070円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "業務用カセット型エアコン向けの粘着式ホコリとりフィルター"
-      - "サイズ 175×250mm（業務用エアコンのフィルター枠に対応）"
-      - "不織布素材で花粉・ホコリを効率的に捕集"
-    pros:
-      - "2個セットで少量から試しやすい購入単位"
-      - "粘着式で道具不要、貼るだけで簡単に交換できる"
-      - "少量購入でフィルターサイズの適合を確認してから追加購入しやすい"
-    cons:
-      - "家庭用壁掛けエアコンには適さず、業務用カセット型専用"
-      - "まとめ買いより1枚あたりの単価が高くなる"
-    recommendedFor: "業務用エアコンのフィルターを少量から試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pwv1n.3rdw6750.g00pwv1n.3rdw7d47/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffirst23%2Fhrm-h2510111623202%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffirst23%2Fi%2F19243538%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/first23/cabinet/image_sku/hrm-251015h_163/hrm-h2510111623202_1.jpg?_ex=128x128"
-  - rank: 9
     name: "CleAirWin エアコンフィルター家庭用 抗菌 抗ウイルス 400×800mm"
     brand: "空気の王様"
     price: 4510

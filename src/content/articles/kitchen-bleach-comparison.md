@@ -1,10 +1,10 @@
 ---
 title: "キッチン漂白剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気10選を除菌力・コスパ・安全性で解説します。"
+description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気9選を除菌力・コスパ・安全性で解説します。"
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: "2026-06-08"
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"
@@ -128,39 +128,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/withemx_65-5"
         available: true
   - rank: 5
-    name: "洗たく槽クリーナー【2sh24】【シャボン玉石けん】"
-    brand: "シャボン玉石けん"
-    price: 562
-    capacity: "（500g）"
-    pricePerUnit: "約1.1円/g"
-    rating: 4.69
-    reviewCount: 2424
-    features:
-      - "酸素系で金属・色物にも使いやすい"
-      - "無添加処方で安全性が高い"
-      - "シャボン玉石けんの環境配慮型ブランド"
-    pros:
-      - "酸素系のため塩素系が使えない素材にも対応"
-      - "無添加・環境にやさしい処方"
-      - "色物・ステンレスのシンクにも使いやすい"
-    cons:
-      - "塩素系と比べると漂白・除菌力は劣る"
-      - "頑固な黄ばみ・カビには効果が薄い場合がある"
-    recommendedFor: "金属・色物の食器にも使いたい方・環境配慮型を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fr001200200154%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10203982%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/033/4901797100033.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshabondamasoap%2F2230.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-08"
-        price: 550
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shabondamasoap_2230"
-        available: true
-        rating: 4.7
-        reviewCount: 47
-  - rank: 6
     name: "丹羽久 niwaQ キッチン漂白剤 ボトル 300g"
     brand: "丹羽久"
     price: 445
@@ -191,7 +158,7 @@ products:
         price: 927
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rokusyoudo_2022yr12mt18daywq069ic073s83h3f"
         available: true
-  - rank: 7
+  - rank: 6
     name: "niwaQ キッチン漂白剤 ボトル 300g"
     brand: "丹羽久"
     price: 445
@@ -224,7 +191,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 8
+  - rank: 7
     name: "キッチンハイター 特大"
     brand: "花王（ハイター）"
     price: 722
@@ -257,7 +224,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901301008619-73-30002004"
         available: true
-  - rank: 9
+  - rank: 8
     name: "キッチンハイター 特大 2本セット"
     brand: "花王（ハイター）"
     price: 1433
@@ -290,7 +257,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_508035"
         available: true
-  - rank: 10
+  - rank: 9
     name: "キッチンハイター 大ボトル"
     brand: "花王（ハイター）"
     price: 466

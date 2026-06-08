@@ -1,6 +1,6 @@
 ---
 title: "食洗機用洗剤 コスパ最強ランキング【2026年版】粉末・ジェル・タブで比較"
-description: "食洗機用洗剤を1回あたりのコストで徹底比較。フィニッシュ・キュキュット・ジョイ・チャーミーの人気10選を洗浄力・コスパで解説します。"
+description: "食洗機用洗剤を1回あたりのコストで徹底比較。フィニッシュ・キュキュット・ジョイ・チャーミーの人気9選を洗浄力・コスパで解説します。"
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
@@ -212,39 +212,6 @@ products:
         rating: 4.54
         reviewCount: 13
   - rank: 8
-    name: "キュキュット 食洗機用洗剤 ウルトラクリーン すっきりシトラスの香り 詰め替え【"
-    brand: "花王（キュキュット）"
-    price: 1999
-    capacity: "770g×3袋"
-    pricePerUnit: "約0.87円/g"
-    rating: 4.7
-    reviewCount: 90
-    features:
-      - "クエン酸配合でグラスくもりを防止"
-      - "酵素の力でこびりつき汚れを分解"
-      - "庫内の除菌・消臭効果あり"
-    pros:
-      - "花王の技術力で安定した洗浄力"
-      - "グラスのくもり対策が優秀"
-      - "庫内の消臭効果で食洗機が清潔に"
-    cons:
-      - "粉末タイプより1回あたりのコストが高い"
-      - "パッケージが大きく収納場所を取る"
-    recommendedFor: "グラス・食器のくもりが気になる方・除菌も重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F555031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11156970%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/031/555031.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F555031.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-05"
-        price: 1999
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_555031"
-        available: true
-        rating: 0
-        reviewCount: 0
-  - rank: 9
     name: "食洗機用ジョイ 除菌 詰替特大 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
@@ -277,7 +244,7 @@ products:
         available: true
         rating: 4.83
         reviewCount: 12
-  - rank: 10
+  - rank: 9
     name: "食洗機用ジョイ 除菌 詰め替え 特大 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785

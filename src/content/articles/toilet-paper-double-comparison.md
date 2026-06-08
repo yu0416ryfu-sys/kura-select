@@ -1,10 +1,10 @@
 ---
-title: "トイレットペーパー ダブル コスパ最強ランキング【2026年版】10選比較"
-description: "ダブルのトイレットペーパーを1mあたりのコストで比較。2倍巻き・3倍巻き・再生紙・肌触り重視のおすすめ10選を紹介します。交換頻度を減らしたい方にも。"
+title: "トイレットペーパー ダブル コスパ最強ランキング【2026年版】9選比較"
+description: "ダブルのトイレットペーパーを1mあたりのコストで比較。2倍巻き・3倍巻き・再生紙・肌触り重視のおすすめ9選を紹介します。交換頻度を減らしたい方にも。"
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: "2026-06-08"
 products:
   - rank: 1
     name: "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール×4ロール×12パック 1"
@@ -161,28 +161,6 @@ products:
         rating: 4.77
         reviewCount: 133
   - rank: 6
-    name: "エリエール トイレットティシュー たっぷり長持ち ダブル 12ロール×6個セット"
-    brand: "大王製紙（エリエール）"
-    price: 6383
-    capacity: "45m×12ロール×6個"
-    pricePerUnit: "約2.0円/m"
-    rating: 4.51
-    reviewCount: 589
-    features:
-      - "パルプ100%の柔らかなダブルタイプ"
-      - "エリエールブランドの高品質紙質"
-      - "日本製で安心・安全"
-    pros:
-      - "柔らかく使い心地がよい"
-      - "エリエールは肌触りで支持者が多いブランド"
-      - "ダブルで1枚でも十分なボリューム感"
-    cons:
-      - "シングルに比べてコストが高め"
-      - "消費が早い"
-    recommendedFor: "肌触りを重視する方・ファミリー向け"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F14495%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10678469%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/495/14495.jpg?_ex=128x128"
-  - rank: 7
     name: "ネピア おしりセレブ ダブル 40m×4ロール"
     brand: "王子ネピア（ネピア）"
     price: 645
@@ -215,7 +193,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_5647190"
         available: true
-  - rank: 8
+  - rank: 7
     name: "（まとめ）日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり "
     brand: "スコッティ"
     price: 5420
@@ -248,7 +226,7 @@ products:
         reviewCount: 11
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_h7262029"
         available: true
-  - rank: 9
+  - rank: 8
     name: "（まとめ）日本製 国産 紙クレシア スコッティ フラワーパック 3倍長持ち ダブル "
     brand: "スコッティ"
     price: 16358
@@ -270,7 +248,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s6ljn.3rdw6ee7.g00s6ljn.3rdw7432/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyumenokoya%2Fc02-ds-2366048%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyumenokoya%2Fi%2F40014976%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yumenokoya/cabinet//dsproducts/849/0002366048-1.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "街かどの花屋さん6ロール55mダブル 8袋入り"
     brand: "街かどの花屋さん6ロール55mダブル"
     price: 4500
