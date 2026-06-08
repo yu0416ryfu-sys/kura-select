@@ -12,8 +12,8 @@ products:
     price: 1280
     capacity: "3840枚＋480枚"
     pricePerUnit: "約0.33円/枚"
-    rating: 4.13
-    reviewCount: 64
+    rating: 4.14
+    reviewCount: 65
     features:
       - "薄型設計で大容量ストックに向いた除菌シート"
       - "楽天市場の独自企画商品で価格訴求型設計"
