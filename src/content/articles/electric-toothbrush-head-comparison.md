@@ -4,7 +4,7 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-06-07"
+updatedAt: "2026-06-08"
 draft: false
 products:
   - rank: 1
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdistore%2Feb50rx-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 8480
         rating: 0
         reviewCount: 1
@@ -188,8 +188,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksdenki%2F4549980443545.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
-        price: 963
+        updatedAt: "2026-06-08"
+        price: 959
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksdenki_4549980443545"
         available: true
         rating: 4.71
@@ -221,12 +221,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foralb-braun%2Fultimate2-4-p.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-08"
         price: 8338
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oralb-braun_ultimate2-4-p"
         available: true
-        rating: 4.79
-        reviewCount: 39
+        rating: 4.8
+        reviewCount: 40
   - rank: 9
     name: "ソニッケアー プレミアムクリーン 替えブラシ レギュラー 3本組"
     brand: "Philips Sonicare"
@@ -234,7 +234,7 @@ products:
     capacity: "3本"
     pricePerUnit: "約1660円/本"
     rating: 4.61
-    reviewCount: 408
+    reviewCount: 409
     features:
       - "フィリップス純正品・プレミアムクリーンタイプ"
       - "レギュラーサイズで多くのソニッケアー機種に対応"
@@ -254,7 +254,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fphilips-japan%2Fhx9043.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-08"
         price: 4980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/philips-japan_hx9043"
         available: true

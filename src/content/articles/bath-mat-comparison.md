@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-06-07"
+updatedAt: 2026-06-08
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftaorunomori%2F10001288.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-08"
         price: 990
         rating: 4.43
         reviewCount: 205
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbroome%2F0215-0212-0101.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-08"
         price: 2290
         rating: 4.53
         reviewCount: 281
@@ -100,20 +100,20 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fm-rug%2F712421510.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 4400
         rating: 4.62
         reviewCount: 302
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/m-rug_712421510"
         available: true
   - rank: 4
-    name: "★一部即納★珪藻土バスマット バスマット速乾 洗える バスマット 珪藻土 柔らか 珪"
+    name: "珪藻土ソフトバスマット 1枚"
     brand: "★一部即納★珪藻土バスマット"
     price: 1000
     capacity: "1枚"
     pricePerUnit: "約1000円/枚"
-    rating: 4.44
-    reviewCount: 2214
+    rating: 4.45
+    reviewCount: 2244
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -190,7 +190,7 @@ products:
     capacity: "40×60cm / 50×80cm"
     pricePerUnit: "円/枚"
     rating: 4.65
-    reviewCount: 3206
+    reviewCount: 3208
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"
@@ -273,7 +273,7 @@ products:
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
     rating: 4.43
-    reviewCount: 2507
+    reviewCount: 2512
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

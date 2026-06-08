@@ -4,7 +4,7 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: 2026-06-08
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fn-yakuhin%2F4903301015369-3kea.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 1000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/n-yakuhin_4903301015369-3kea"
         available: true
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F85253.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 3262
         rating: 0
         reviewCount: 0
@@ -99,12 +99,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301453242.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301453242"
         available: true
         rating: 5
-        reviewCount: 3
+        reviewCount: 4
   - rank: 4
     name: "リンレイ 速攻湯アカ分解 3点セット"
     brand: "リンレイ"
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft0769-01.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-08"
         price: 917
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t0769-01"
         available: true
@@ -185,11 +185,11 @@ products:
   - rank: 7
     name: "カビキラー 特大サイズ 本体 1000g"
     brand: "ジョンソン（カビキラー）"
-    price: 784
-    capacity: "1000g（約100回分）"
-    pricePerUnit: "約0.78円/g"
-    rating: 4.6
-    reviewCount: 53
+    price: 745
+    capacity: "1000g"
+    pricePerUnit: "約0.74円/g"
+    rating: 5
+    reviewCount: 3
     features:
       - "強力な塩素系成分でカビの根まで除去"
       - "スプレーして5分待つだけで黒カビを漂白"
@@ -202,8 +202,8 @@ products:
       - "塩素系のため刺激臭が強い"
       - "換気が必須で安全面に注意が必要"
     recommendedFor: "黒カビに悩んでいる方・ゴムパッキンのカビを取りたい方・強力なカビ取りが必要な方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10099450%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/148/4901609000148.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4901609000148%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10021843%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0008/4901609000148_1.jpg?_ex=128x128"
   - rank: 8
     name: "エコメイト 風呂釜クリーナー 6個セット"
     brand: "木村石鹸工業"
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00001384.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-08"
         price: 2099
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00001384"
         available: true

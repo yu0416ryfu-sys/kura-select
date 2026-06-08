@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: "2026-06-08"
 products:
   - rank: 1
     name: "ニベア ハンドクリーム 75g"
@@ -54,7 +54,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhashbaby%2Fc492513.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hashbaby_c492513"
         available: true
@@ -67,7 +67,7 @@ products:
     capacity: "35g"
     pricePerUnit: "約19円/g"
     rating: 4.51
-    reviewCount: 402
+    reviewCount: 403
     features:
       - "100%ピュアシアバターを精製したオーガニック処方"
       - "9種類の香りから選べるセレクト仕様"
@@ -109,7 +109,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenman-hompo%2Fth003.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 2500
         rating: 4.61
         reviewCount: 378
@@ -164,7 +164,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F3303a.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 253
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_3303a"
         available: true
@@ -241,7 +241,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeautyhoney%2Fm-c-lt-040.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beautyhoney_m-c-lt-040"
         available: true
@@ -274,7 +274,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeautyhoney%2Fm-c-lt-040.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beautyhoney_m-c-lt-040"
         available: true

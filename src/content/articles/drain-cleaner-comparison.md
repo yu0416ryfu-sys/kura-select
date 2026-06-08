@@ -4,7 +4,7 @@ description: "排水口クリーナーを容量あたりのコストで比較。
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: 2026-06-08
 draft: false
 products:
   - rank: 1
@@ -78,7 +78,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F101-4901609000926.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-08"
         price: 331
         rating: 0
         reviewCount: 0
@@ -110,8 +110,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnicobase%2Fnico-4901609000926.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-05"
+        matchStatus: "matched"
+        updatedAt: "2026-06-08"
         price: 485
         rating: 0
         reviewCount: 0
@@ -199,20 +199,20 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6038803.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 3750
         rating: 4.64
         reviewCount: 289
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6038803"
         available: true
   - rank: 8
-    name: "ピーピースルーF"
+    name: "ピーピースルーF 600g"
     brand: "和協産業"
-    price: 2322
+    price: 2240
     capacity: "600g"
-    pricePerUnit: "約3.9円/g"
-    rating: 4.44
-    reviewCount: 89
+    pricePerUnit: "約3.7円/g"
+    rating: 4.47
+    reviewCount: 1369
     features:
       - "排水口や排水管向けの洗浄剤"
       - "台所や浴室まわりの排水口ケア向け"
@@ -225,17 +225,17 @@ products:
       - "使用場所と素材の注意表示を確認する必要がある"
       - "他の洗剤と混ぜないよう注意が必要"
     recommendedFor: "排水口クリーナーを用途別に比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tjaxn.3rdw6c11.g00tjaxn.3rdw788b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsukkiri-kirei%2Fpp-f%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsukkiri-kirei%2Fi%2F10000018%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sukkiri-kirei/cabinet/07360080/07360160/compass1580879874.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r74en.3rdw6e21.g00r74en.3rdw7279/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-nontarou%2Fts-00013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-nontarou%2Fi%2F10000110%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-nontarou/cabinet/ts-00013.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10176772.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 1980
-        rating: 4.62
-        reviewCount: 79
+        rating: 4.63
+        reviewCount: 80
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10176772"
         available: true
   - rank: 9

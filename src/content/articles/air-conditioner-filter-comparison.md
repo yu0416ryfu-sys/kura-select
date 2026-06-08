@@ -4,7 +4,7 @@ description: "エアコンフィルターの交換タイプ・枚数・コスパ
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-06-07"
+updatedAt: 2026-06-08
 draft: false
 products:
   - rank: 1
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsutsu-uraura%2Ftoyo-ear-2s.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 723
         rating: 4.5
         reviewCount: 4
@@ -134,7 +134,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F478367.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 478
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_478367"
         available: true
@@ -250,28 +250,6 @@ products:
     recommendedFor: "ウイルス対策・花粉対策を兼ねたい方・高機能なフィルターにこだわりたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q0men.3rdw60af.g00q0men.3rdw7e6b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuteteko%2Fcra002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuteteko%2Fi%2F10045452%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suteteko/cabinet/fd070/cra002-1.jpg?_ex=128x128"
-  - rank: 10
-    name: "Finetech プレプレフィルター 壁掛エアコン用 3枚組 30cm×80cm"
-    brand: "Finetech（ファインテック）"
-    price: 0
-    capacity: "30×80cm 3枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "抗ウイルス・抗菌・防カビ機能を備えた微生物制御フィルター"
-      - "家庭用壁掛けエアコンに貼るだけで使える30cm×80cmサイズ"
-      - "洗えて繰り返し使えるウォッシャブル仕様"
-    pros:
-      - "3枚組でまとめて購入しやすい"
-      - "洗えるため繰り返し使うことでコスト管理がしやすい"
-      - "抗ウイルス・抗菌・防カビをまとめてケアできる"
-    cons:
-      - "汎用フィルターと比べて単価が高め"
-      - "エアコンのフィルター形状によって適合を事前確認する必要がある"
-    recommendedFor: "洗えて繰り返し使える抗菌・防カビフィルターを探している方"
-    rakutenUrl: "https://item.rakuten.co.jp/fine-technology/prpr-003/"
-    imageUrl: ""
 tags:
   - "エアコンフィルター おすすめ"
   - "エアコンフィルター コスパ"

@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-06-07"
+updatedAt: "2026-06-08"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpet-ruffruff%2F4521254012770.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 3080
         rating: 0
         reviewCount: 1
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F0019014614196.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_0019014614196"
         available: true
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwannyan%2F9763052.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-08"
         price: 21529
         rating: 4.83
         reviewCount: 12
@@ -166,7 +166,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoji%2F3182550746076-s.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-08"
         price: 17226
         rating: 0
         reviewCount: 0
@@ -193,13 +193,13 @@ products:
       - "犬種別専用品のため汎用フードよりg単価が高くなりやすい"
     recommendedFor: "ダックスフンドを飼育している方・犬種別設計フードを使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F9214451%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10000305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/11076425/13209125/13431522/9214451main.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/royalcanin/9214451main.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-08"
         price: 5222
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 8980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
@@ -245,7 +245,7 @@ products:
     capacity: "3kg"
     pricePerUnit: "約1943円/kg"
     rating: 4.68
-    reviewCount: 2388
+    reviewCount: 2389
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F0813369001904.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 5830
         rating: 4.72
         reviewCount: 97
@@ -278,7 +278,7 @@ products:
     capacity: "1kg"
     pricePerUnit: "約3000円/kg"
     rating: 4.72
-    reviewCount: 2537
+    reviewCount: 2538
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600a.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 3000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600a"
         available: true

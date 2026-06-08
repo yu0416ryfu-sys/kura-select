@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-06-07"
+updatedAt: 2026-06-08
 products:
   - rank: 1
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
@@ -67,8 +67,8 @@ products:
     price: 3780
     capacity: "400mL"
     pricePerUnit: "約9.4円/mL"
-    rating: 4.65
-    reviewCount: 1053
+    rating: 4.68
+    reviewCount: 44
     features:
       - "天然由来成分を重視したクレンジングオイル"
       - "400mLの大容量タイプ"
@@ -81,8 +81,8 @@ products:
       - "韓国からの配送で到着まで時間がかかる場合がある"
       - "香りの好みが分かれることがある"
     recommendedFor: "韓国コスメの大容量オイルを選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdwjn.3rdw6201.g00tdwjn.3rdw7cc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmanyo-official%2Fma127%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmanyo-official%2Fi%2F10000132%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/manyo-official/cabinet/13371190/13371231/imgrc0134383098.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdwjn.3rdw6201.g00tdwjn.3rdw7cc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmanyo-official%2Fma1277%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmanyo-official%2Fi%2F10000303%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/manyo-official/cabinet/10979173/12298620/imgrc0131021702.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -242,7 +242,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3174
+    reviewCount: 3177
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"
@@ -262,7 +262,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true
@@ -275,7 +275,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約44円/mL"
     rating: 4.57
-    reviewCount: 1654
+    reviewCount: 1655
     features:
       - "発酵オイルを配合したクレンジングオイル"
       - "W洗顔不要でメイクと毛穴汚れを落とす"
@@ -295,7 +295,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkins%2Fkcleanash0000.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kins_kcleanash0000"
         available: true

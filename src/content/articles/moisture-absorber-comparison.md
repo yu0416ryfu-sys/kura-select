@@ -4,148 +4,16 @@ description: "除湿剤を吸湿量あたりのコストで徹底比較。水と
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-06-07"
+updatedAt: 2026-06-08
 products:
   - rank: 1
-    name: "Yoitas 天然竹炭パック"
-    brand: "Yoitas"
-    price: 2480
-    capacity: "8個"
-    pricePerUnit: "約310円/個"
-    rating: 4.55
-    reviewCount: 1043
-    features:
-      - "湿気対策に使える除湿・調湿アイテム"
-      - "クローゼットや押入れに置きやすい"
-      - "繰り返し使えるタイプも選べる"
-    pros:
-      - "置くだけで使いやすい"
-      - "収納まわりの湿気対策に向く"
-      - "買い足ししやすい"
-    cons:
-      - "設置場所に合わせた個数確認が必要"
-      - "即効性は商品タイプで異なる"
-    recommendedFor: "収納まわりの湿気対策をしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tjj0n.3rdw6a11.g00tjj0n.3rdw7adb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoitas%2F10000002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyoitas%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/yoitas/Takesumi-genre/Yoitas_Takesumi-genre_LP_Rakuten_Top.jpeg?_ex=128x128"
-  - rank: 2
-    name: "オカモト 水とりぞうさん 防虫剤付 クローゼット用 大判タイプ 2個入"
-    brand: "オカモト（水とりぞうさん）"
-    price: 908
-    capacity: "2個入"
-    pricePerUnit: "約454円/個"
-    rating: 4.5
-    reviewCount: 2
-    features:
-      - "除湿と防虫を同時に行うクローゼット専用シートタイプ"
-      - "大型フック（約42mm）付きで吊り下げ設置が簡単"
-      - "水とりぞうさんブランドの信頼できる除湿力"
-    pros:
-      - "除湿と防虫が1枚でできて経済的"
-      - "大型フック付きで衣類の間に吊るすだけで設置完了"
-      - "定番ブランドの安定した品質"
-    cons:
-      - "タンクタイプより吸湿量が少なく交換頻度が高め"
-      - "防虫機能不要の場合はコストパフォーマンスが下がる"
-    recommendedFor: "衣類の虫食い対策と湿気対策を同時に行いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sargn.3rdw6a7b.g00sargn.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyrepi-2%2F4547691783899r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmyrepi-2%2Fi%2F10012338%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/myrepi-2/cabinet/r00101/4547691783899.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r001-4547691783899.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-07"
-        price: 822
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r001-4547691783899"
-        available: true
-        rating: 0
-        reviewCount: 0
-  - rank: 3
-    name: "炭八 スマート小袋 5個セット"
-    brand: "炭八"
-    price: 3300
-    capacity: "5個"
-    pricePerUnit: "約660円/個"
-    rating: 4.61
-    reviewCount: 5124
-    features:
-      - "湿気対策に使える除湿・調湿アイテム"
-      - "クローゼットや押入れに置きやすい"
-      - "繰り返し使えるタイプも選べる"
-    pros:
-      - "置くだけで使いやすい"
-      - "収納まわりの湿気対策に向く"
-      - "買い足ししやすい"
-    cons:
-      - "設置場所に合わせた個数確認が必要"
-      - "即効性は商品タイプで異なる"
-    recommendedFor: "収納まわりの湿気対策をしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn4on.3rdw6e6d.g00qn4on.3rdw7c3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamayuu%2Fsumi8-smart-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamayuu%2Fi%2F10014301%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamayuu/cabinet/01023319/02707641/sumi8-smart5_sam01y.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamayuu%2Fsumi8-smart-5.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-07"
-        price: 3300
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamayuu_sumi8-smart-5"
-        available: true
-        rating: 4.64
-        reviewCount: 25
-  - rank: 4
-    name: "炭八 newお試し5個セット"
-    brand: "炭八"
-    price: 6019
-    capacity: "5個"
-    pricePerUnit: "約1204円/個"
-    rating: 4.39
-    reviewCount: 1639
-    features:
-      - "湿気対策に使える除湿・調湿アイテム"
-      - "クローゼットや押入れに置きやすい"
-      - "繰り返し使えるタイプも選べる"
-    pros:
-      - "置くだけで使いやすい"
-      - "収納まわりの湿気対策に向く"
-      - "買い足ししやすい"
-    cons:
-      - "設置場所に合わせた個数確認が必要"
-      - "即効性は商品タイプで異なる"
-    recommendedFor: "収納まわりの湿気対策をしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r5qrn.3rdw61d3.g00r5qrn.3rdw7462/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomedeco-outlet%2Fsumi-5set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomedeco-outlet%2Fi%2F10000064%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/homedeco-outlet/cabinet/sumi8/sumi-5set-new.jpg?_ex=128x128"
-  - rank: 5
-    name: "炭八 選べる5個セット"
-    brand: "炭八"
-    price: 6055
-    capacity: "5個"
-    pricePerUnit: "約1211円/個"
-    rating: 4.56
-    reviewCount: 2169
-    features:
-      - "湿気対策に使える除湿・調湿アイテム"
-      - "クローゼットや押入れに置きやすい"
-      - "繰り返し使えるタイプも選べる"
-    pros:
-      - "置くだけで使いやすい"
-      - "収納まわりの湿気対策に向く"
-      - "買い足ししやすい"
-    cons:
-      - "設置場所に合わせた個数確認が必要"
-      - "即効性は商品タイプで異なる"
-    recommendedFor: "収納まわりの湿気対策をしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn4on.3rdw6e6d.g00qn4on.3rdw7c3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamayuu%2Fsumi8-5set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamayuu%2Fi%2F10011323%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamayuu/cabinet/01023319/02707641/kago-sumi8-5set.jpg?_ex=128x128"
-  - rank: 6
     name: "炭八 室内用"
     brand: "イエノLabo."
     price: 2376
     capacity: "12L大袋×4個セット"
     pricePerUnit: "約50円/L"
     rating: 4.65
-    reviewCount: 1042
+    reviewCount: 1044
     features:
       - "調湿木炭で繰り返し使える環境にやさしい除湿剤"
       - "天日干しで吸湿力が復活するため長期間使用可能"
@@ -160,7 +28,7 @@ products:
     recommendedFor: "コストと環境への影響を重視する方・繰り返し使える除湿剤を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s69sn.3rdw615f.g00s69sn.3rdw718e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fienolabo%2Fielabo100031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fienolabo%2Fi%2F10000031%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ienolabo/cabinet/itempic/17/ielabo100031-mb-1.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 2
     name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
     brand: "オカモト（水とりぞうさん）"
     price: 4280
@@ -182,7 +50,7 @@ products:
     recommendedFor: "押し入れ・クローゼット・納戸など湿気の多い広い収納スペースに"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F4904637999866set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10017235%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_okamoto1/4904637999804set.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 3
     name: "SUPER除湿 大容量"
     brand: "アドグッド"
     price: 480
@@ -215,7 +83,7 @@ products:
         available: true
         rating: 4.67
         reviewCount: 18
-  - rank: 9
+  - rank: 4
     name: "備長炭ドライペット 除湿剤 タンクタイプ どこでも用（3個パック×6個）"
     brand: "エステー（ドライペット）"
     price: 1980
@@ -237,7 +105,7 @@ products:
     recommendedFor: "湿気＋臭い対策をしたい方・複数箇所使用派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901070939398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11075355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/398/4901070939398.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 5
     name: "激乾 除湿剤 タンクタイプ（400mL×3個パック）"
     brand: "フマキラー（激乾）"
     price: 421
@@ -259,6 +127,138 @@ products:
     recommendedFor: "下駄箱・引き出し・小さめの収納スペースに"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ramcn.3rdw6d52.g00ramcn.3rdw79d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmdse%2Fho-4902424439014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frcmdse%2Fi%2F14732325%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmdse/cabinet/ho01/ho-4902424439014.jpg?_ex=128x128"
+  - rank: 6
+    name: "Yoitas 天然竹炭パック"
+    brand: "Yoitas"
+    price: 2480
+    capacity: "8個"
+    pricePerUnit: "約310円/個"
+    rating: 4.55
+    reviewCount: 1043
+    features:
+      - "湿気対策に使える除湿・調湿アイテム"
+      - "クローゼットや押入れに置きやすい"
+      - "繰り返し使えるタイプも選べる"
+    pros:
+      - "置くだけで使いやすい"
+      - "収納まわりの湿気対策に向く"
+      - "買い足ししやすい"
+    cons:
+      - "設置場所に合わせた個数確認が必要"
+      - "即効性は商品タイプで異なる"
+    recommendedFor: "収納まわりの湿気対策をしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tjj0n.3rdw6a11.g00tjj0n.3rdw7adb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoitas%2F10000002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyoitas%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/yoitas/Takesumi-genre/Yoitas_Takesumi-genre_LP_Rakuten_Top.jpeg?_ex=128x128"
+  - rank: 7
+    name: "オカモト 水とりぞうさん 防虫剤付 クローゼット用 大判タイプ 2個入"
+    brand: "オカモト（水とりぞうさん）"
+    price: 908
+    capacity: "2個入"
+    pricePerUnit: "約454円/個"
+    rating: 4.5
+    reviewCount: 2
+    features:
+      - "除湿と防虫を同時に行うクローゼット専用シートタイプ"
+      - "大型フック（約42mm）付きで吊り下げ設置が簡単"
+      - "水とりぞうさんブランドの信頼できる除湿力"
+    pros:
+      - "除湿と防虫が1枚でできて経済的"
+      - "大型フック付きで衣類の間に吊るすだけで設置完了"
+      - "定番ブランドの安定した品質"
+    cons:
+      - "タンクタイプより吸湿量が少なく交換頻度が高め"
+      - "防虫機能不要の場合はコストパフォーマンスが下がる"
+    recommendedFor: "衣類の虫食い対策と湿気対策を同時に行いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sargn.3rdw6a7b.g00sargn.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyrepi-2%2F4547691783899r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmyrepi-2%2Fi%2F10012338%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/myrepi-2/cabinet/r00101/4547691783899.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r001-4547691783899.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-08"
+        price: 822
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r001-4547691783899"
+        available: true
+        rating: 0
+        reviewCount: 0
+  - rank: 8
+    name: "炭八 スマート小袋 5個セット"
+    brand: "炭八"
+    price: 3300
+    capacity: "5個"
+    pricePerUnit: "約660円/個"
+    rating: 4.61
+    reviewCount: 5130
+    features:
+      - "湿気対策に使える除湿・調湿アイテム"
+      - "クローゼットや押入れに置きやすい"
+      - "繰り返し使えるタイプも選べる"
+    pros:
+      - "置くだけで使いやすい"
+      - "収納まわりの湿気対策に向く"
+      - "買い足ししやすい"
+    cons:
+      - "設置場所に合わせた個数確認が必要"
+      - "即効性は商品タイプで異なる"
+    recommendedFor: "収納まわりの湿気対策をしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn4on.3rdw6e6d.g00qn4on.3rdw7c3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamayuu%2Fsumi8-smart-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamayuu%2Fi%2F10014301%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamayuu/cabinet/01023319/02707641/sumi8-smart5_sam01y.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamayuu%2Fsumi8-smart-5.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-08"
+        price: 3300
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamayuu_sumi8-smart-5"
+        available: true
+        rating: 4.64
+        reviewCount: 25
+  - rank: 9
+    name: "炭八 newお試し5個セット"
+    brand: "炭八"
+    price: 6019
+    capacity: "5個"
+    pricePerUnit: "約1204円/個"
+    rating: 4.39
+    reviewCount: 1639
+    features:
+      - "湿気対策に使える除湿・調湿アイテム"
+      - "クローゼットや押入れに置きやすい"
+      - "繰り返し使えるタイプも選べる"
+    pros:
+      - "置くだけで使いやすい"
+      - "収納まわりの湿気対策に向く"
+      - "買い足ししやすい"
+    cons:
+      - "設置場所に合わせた個数確認が必要"
+      - "即効性は商品タイプで異なる"
+    recommendedFor: "収納まわりの湿気対策をしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r5qrn.3rdw61d3.g00r5qrn.3rdw7462/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomedeco-outlet%2Fsumi-5set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomedeco-outlet%2Fi%2F10000064%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/homedeco-outlet/cabinet/sumi8/sumi-5set-new.jpg?_ex=128x128"
+  - rank: 10
+    name: "炭八 選べる5個セット"
+    brand: "炭八"
+    price: 6055
+    capacity: "5個"
+    pricePerUnit: "約1211円/個"
+    rating: 4.56
+    reviewCount: 2171
+    features:
+      - "湿気対策に使える除湿・調湿アイテム"
+      - "クローゼットや押入れに置きやすい"
+      - "繰り返し使えるタイプも選べる"
+    pros:
+      - "置くだけで使いやすい"
+      - "収納まわりの湿気対策に向く"
+      - "買い足ししやすい"
+    cons:
+      - "設置場所に合わせた個数確認が必要"
+      - "即効性は商品タイプで異なる"
+    recommendedFor: "収納まわりの湿気対策をしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn4on.3rdw6e6d.g00qn4on.3rdw7c3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamayuu%2Fsumi8-5set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamayuu%2Fi%2F10011323%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamayuu/cabinet/01023319/02707641/kago-sumi8-5set.jpg?_ex=128x128"
 tags:
   - "除湿剤 おすすめ"
   - "除湿剤 コスパ"

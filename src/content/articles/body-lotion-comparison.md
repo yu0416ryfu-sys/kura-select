@@ -4,13 +4,13 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-06-07"
+updatedAt: 2026-06-08
 draft: false
 products:
   - rank: 1
     name: "ヴァセリン アドバンスドリペア ボディローション 500ml×3本 フェイス ボディ"
     brand: "ヴァセリン"
-    price: 2198
+    price: 2278
     capacity: "500ml×3"
     pricePerUnit: "約1.5円/ml"
     rating: 4.78
@@ -41,7 +41,7 @@ products:
         rating: 4.83
         reviewCount: 6
   - rank: 2
-    name: "3種のヒアルロン酸配合スキンローション 600ml 化粧水 大容量 ヒアルロン酸化粧"
+    name: "5種のヒアルロン酸配合スキンローション 600ml"
     brand: "3種のヒアルロン酸配合スキンローショ"
     price: 1100
     capacity: "600ml"
@@ -61,7 +61,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F4731%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10000232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/04815981/4731-m01.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/04815981/4731-m01c.jpg?_ex=128x128"
   - rank: 3
     name: "ビオレu お風呂で使ううるおいミルク"
     brand: "花王（ビオレu）"
@@ -223,7 +223,7 @@ products:
     capacity: "300ml"
     pricePerUnit: "約14円/ml"
     rating: 4.7
-    reviewCount: 2929
+    reviewCount: 2931
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"

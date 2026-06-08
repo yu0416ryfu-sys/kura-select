@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつ9製品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: 2026-06-08
 products:
   - rank: 1
     name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚 旧パッケージ"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134295-case.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-08"
         price: 7020
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134295-case"
         available: true
@@ -156,7 +156,7 @@ products:
     capacity: "54枚×4個セット"
     pricePerUnit: "約33円/枚"
     rating: 4.75
-    reviewCount: 473
+    reviewCount: 475
     features:
       - "低刺激処方で敏感肌向けに配慮"
       - "安心設計のテープタイプ"
@@ -176,20 +176,20 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4903111569786-4.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-08"
         price: 8316
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4903111569786-4"
         available: true
         rating: 0
         reviewCount: 0
   - rank: 7
-    name: "パンパース はじめての肌へのいちばん テープ Sサイズ 大容量"
+    name: "パンパース はじめての肌へのいちばん テープ Sサイズ 132枚"
     brand: "P&G（パンパース）"
-    price: 5598
-    capacity: "132枚/2パック"
-    pricePerUnit: "約42円/枚"
-    rating: 5
-    reviewCount: 11
+    price: 5699
+    capacity: "132枚"
+    pricePerUnit: "約43円/枚"
+    rating: 4.83
+    reviewCount: 23
     features:
       - "パラベン・アルコール無添加の低刺激処方"
       - "3Dさらさらメッシュで通気性と吸収力を両立"
@@ -202,14 +202,14 @@ products:
       - "rank 4 と同じシリーズのため機能的には大きな違いがない"
       - "大容量のため在庫スペースが必要"
     recommendedFor: "はじめての肌へのいちばんを愛用している方・大量買いでコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u8nmn.3rdw604a.g00u8nmn.3rdw7c76/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-temp%2Fico2823%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-temp%2Fi%2F10002807%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-temp/cabinet/11372609/imgrc0097927181.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q9u1n.3rdw67e0.g00q9u1n.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhiteleaf%2Fcostoco_pampers-stape%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhiteleaf%2Fi%2F10002657%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whiteleaf/cabinet/08766852/08895266/10306423/pampers-s132.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02650.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-08"
         price: 4449
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos02650"
         available: true
@@ -255,7 +255,7 @@ products:
     capacity: "84枚/4パック"
     pricePerUnit: "約109円/枚"
     rating: 4.67
-    reviewCount: 3876
+    reviewCount: 3877
     features:
       - "全面通気性に優れたエアスルー素材採用"
       - "360度フィットで漏れを防止"

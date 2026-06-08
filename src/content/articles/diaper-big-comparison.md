@@ -300,7 +300,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171750x6"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         rating: 0
         reviewCount: 0
   - rank: 10

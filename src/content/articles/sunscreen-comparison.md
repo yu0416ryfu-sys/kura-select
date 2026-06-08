@@ -4,7 +4,7 @@ description: "日焼け止めを1mLあたりのコストで徹底比較。ビオ
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-07"
+updatedAt: 2026-06-08
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -73,13 +73,13 @@ products:
         rating: 0
         reviewCount: 0
   - rank: 3
-    name: "ビオレUV アクアリッチ ウォータリーエッセンス フレッシュパウチ"
+    name: "ビオレUV アクアリッチ ウォータリーエッセンス 120g"
     brand: "花王（ビオレ）"
-    price: 2480
+    price: 1159
     capacity: "120g"
-    pricePerUnit: "約21円/g"
-    rating: 4.84
-    reviewCount: 31
+    pricePerUnit: "約9.7円/g"
+    rating: 4.75
+    reviewCount: 4
     features:
       - "世界初のミクロディフェンス処方で塗りムラを防止"
       - "水感エッセンスで軽いつけ心地"
@@ -92,8 +92,8 @@ products:
       - "70gと容量がやや少なめ"
       - "グラム単価は高め"
     recommendedFor: "化粧下地としても使いたい方・汗をかく場面が多い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uh2zn.3rdw6fa6.g00uh2zn.3rdw7b39/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyeveryday%2F4901301416957%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyeveryday%2Fi%2F10000706%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyeveryday/cabinet/sukinkea2023/12115112/aquarich_01v2.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301449450%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10026575%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/450/4901301449450.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

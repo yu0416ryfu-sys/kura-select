@@ -4,7 +4,7 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-06-07"
+updatedAt: "2026-06-08"
 products:
   - rank: 1
     name: "LOGOS 倍速凍結 氷点下パック"
@@ -12,8 +12,8 @@ products:
     price: 770
     capacity: "1個"
     pricePerUnit: "約770円/個"
-    rating: 4.96
-    reviewCount: 27
+    rating: 4.97
+    reviewCount: 32
     features:
       - "繰り返し使える保冷剤タイプ"
       - "保冷バッグやクーラーボックスに入れやすい形状"
@@ -100,8 +100,8 @@ products:
     price: 2880
     capacity: "1個"
     pricePerUnit: "約2880円/個"
-    rating: 4.37
-    reviewCount: 52
+    rating: 4.32
+    reviewCount: 63
     features:
       - "ステンレス製で耐久性が高く長期間の繰り返し使用に向いている"
       - "冷蔵・冷凍どちらにも対応し用途に応じて使い分けが可能"
@@ -115,7 +115,7 @@ products:
       - "プラスチックハードタイプと比べて重量がある場合がある"
     recommendedFor: "耐久性を重視して長く使えるステンレス製保冷剤を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uocjn.3rdw694e.g00uocjn.3rdw7eaf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdecori%2Fy-342%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdecori%2Fi%2F10000319%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/decori/cabinet/12282578/imgrc0114070921.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/decori/cabinet/12282578/zt6.jpg?_ex=128x128"
   - rank: 6
     name: "クールインパック ハード 750g 保冷パック 保冷剤 日本製"
     brand: "クールインパック"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fk-lalala%2Fa620622j8391.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/k-lalala_a620622j8391"
         available: true
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkbjapan%2Fy5900479-19746001.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 176
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kbjapan_y5900479-19746001"
         available: true
@@ -233,7 +233,7 @@ products:
     capacity: "Mサイズ 1個"
     pricePerUnit: "約2.2円/g"
     rating: 4.35
-    reviewCount: 114
+    reviewCount: 115
     features:
       - "ハードタイプで溶けてもかさばらず繰り返し使いやすい設計"
       - "M（540g）・L（830g）・XL（1.1kg）の3サイズから用途に応じて選べる"

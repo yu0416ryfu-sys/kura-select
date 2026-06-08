@@ -4,7 +4,7 @@ description: "キッチン用漂白剤を1mLあたりのコストで徹底比較
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: 2026-06-08
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"
@@ -73,11 +73,11 @@ products:
         rating: 0
         reviewCount: 0
   - rank: 3
-    name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.5.5.26kg！★【"
+    name: "オキシクリーン マルチパーパスクリーナー 5.26kg"
     brand: "グラフィコ（OxiClean）"
-    price: 3425
+    price: 3279
     capacity: "5.26kg"
-    pricePerUnit: "約651円/kg"
+    pricePerUnit: "約623円/kg"
     rating: 4.64
     reviewCount: 1418
     features:
@@ -95,13 +95,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F309892sm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0079732773.jpg?_ex=128x128"
   - rank: 4
-    name: "シャボン玉 酸素系漂白剤"
+    name: "シャボン玉 酸素系漂白剤 750g"
     brand: "シャボン玉石けん"
-    price: 567
+    price: 586
     capacity: "750g"
-    pricePerUnit: "約0.76円/g"
-    rating: 4.85
-    reviewCount: 232
+    pricePerUnit: "約0.78円/g"
+    rating: 4.73
+    reviewCount: 125
     features:
       - "過炭酸ナトリウム主成分の酸素系粉末漂白剤"
       - "無添加石鹸ブランドのシャボン玉石けんが製造"
@@ -114,8 +114,8 @@ products:
       - "粉末タイプのため水に溶かす手間がある"
       - "塩素系と比べると漂白・除菌力は控えめ"
     recommendedFor: "色物食器やステンレス素材への使用・塩素臭が気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901797100019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10001604%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/vic201810/4901797100019.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901797033164%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10784844%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/164/4901797033164.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshabondamasoap%2F2230.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shabondamasoap_2230"
         available: true
@@ -251,7 +251,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301008619-73-30002004.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 669
         rating: 5
         reviewCount: 4
@@ -284,7 +284,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F508035.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-08"
         price: 1954
         rating: 0
         reviewCount: 0
