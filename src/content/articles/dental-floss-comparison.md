@@ -1,10 +1,10 @@
 ---
-title: "デンタルフロス コスパ最強ランキング【2026年版】1回0.25円〜9選比較"
-description: "デンタルフロスを1回あたりのコストで比較したランキング。最安はGUM 550mで0.25円/回（約3年分）。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ9選。"
+title: "デンタルフロス コスパ最強ランキング【2026年版】1回0.25円〜11選比較"
+description: "デンタルフロスを1回あたりのコストで比較したランキング。最安はGUM 550mで0.25円/回（約3年分）。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ11選。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-06-08"
+updatedAt: 2026-06-08
 products:
   - rank: 1
     name: "GUM デンタルフロス 550m"
@@ -222,6 +222,28 @@ products:
         available: false
         matchNotes: "capacity不一致: capacity不一致"
   - rank: 9
+    name: "フロアフロス 250m"
+    brand: "オーラルケア"
+    price: 3080
+    capacity: "250m"
+    pricePerUnit: "約12円/m"
+    rating: 4.76
+    reviewCount: 546
+    features:
+      - "糸巻きタイプのデンタルフロス"
+      - "歯間ケア向けの細い繊維設計"
+      - "携帯や洗面台で使いやすいパッケージ"
+    pros:
+      - "好みの長さに切って使える"
+      - "歯間ブラシが入りにくい部分もケアしやすい"
+      - "家族で使うストック候補になる"
+    cons:
+      - "ホルダー付きタイプが好みの人には手間に感じやすい"
+      - "ワックス感や太さは使用感の好みが分かれる"
+    recommendedFor: "糸巻きフロスを日常的に使いたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F0090023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000766%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/0090023_001.jpg?_ex=128x128"
+  - rank: 10
     name: "バトラー イージースレッドフロス 50回分"
     brand: "サンスター（Butler）"
     price: 1045
@@ -254,6 +276,28 @@ products:
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/i-ha_23000029"
         available: true
+  - rank: 11
+    name: "フロアフロス 45m 2個セット"
+    brand: "オーラルケア"
+    price: 1595
+    capacity: "45m×2個（90m）"
+    pricePerUnit: "約18円/m"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "糸巻きタイプのデンタルフロス"
+      - "歯間ケア向けの細い繊維設計"
+      - "携帯や洗面台で使いやすいパッケージ"
+    pros:
+      - "好みの長さに切って使える"
+      - "歯間ブラシが入りにくい部分もケアしやすい"
+      - "家族で使うストック候補になる"
+    cons:
+      - "ホルダー付きタイプが好みの人には手間に感じやすい"
+      - "ワックス感や太さは使用感の好みが分かれる"
+    recommendedFor: "糸巻きフロスを日常的に使いたい人"
+    rakutenUrl: "https://item.rakuten.co.jp/d-fit/49759/"
+    imageUrl: ""
 tags:
   - "デンタルフロス おすすめ"
   - "歯間ブラシ コスパ"
@@ -264,7 +308,7 @@ draft: false
 ---
 
 このページでは、**デンタルフロスのコスパランキング**を1回あたりのコストで比較します。
-GUM・クリニカ・糸ようじ・フロアフロスなど9選を、ロール型・ホルダー型・歯間ブラシのタイプ別に選び方を解説します。
+GUM・クリニカ・糸ようじ・フロアフロスなど11選を、ロール型・ホルダー型・歯間ブラシのタイプ別に選び方を解説します。
 
 ## デンタルフロス・歯間ブラシの選び方ガイド
 

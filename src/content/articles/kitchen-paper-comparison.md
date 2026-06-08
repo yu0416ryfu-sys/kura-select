@@ -1,10 +1,10 @@
 ---
 title: "キッチンペーパー コスパ最強ランキング【2026年版】1枚あたり最安で比較"
-description: "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気7選を吸水力・強度・コスパで解説します。"
+description: "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気11選を吸水力・強度・コスパで解説します。"
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: 2026-06-08
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -40,6 +40,28 @@ products:
         rating: 4.61
         reviewCount: 41
   - rank: 2
+    name: "リード クッキングペーパー プロ用 中サイズ 100枚×2ロール×8袋"
+    brand: "リード"
+    price: 5995
+    capacity: "100枚×2ロール×8袋（1600枚）"
+    pricePerUnit: "約3.7円/枚"
+    rating: 4.8
+    reviewCount: 113
+    features:
+      - "キッチン向けの紙製ペーパー"
+      - "ロールまたはシートタイプで使い分けできる"
+      - "調理や水切りに使いやすい構成"
+    pros:
+      - "調理中の油切りや拭き取りに使いやすい"
+      - "ロール型とシート型を比較できる"
+      - "ストック用途にも選びやすい"
+    cons:
+      - "厚手タイプは収納場所を取りやすい"
+      - "用途によってはペーパータオルとの使い分けが必要"
+    recommendedFor: "調理や片付けで紙ペーパーをよく使う家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rr70n.3rdw687e.g00rr70n.3rdw7db2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurea%2F10000104%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurea%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurea/cabinet/imgrc0091719260.jpg?_ex=128x128"
+  - rank: 3
     name: "エリエール 超吸収キッチンタオル 70カット×4ロール×4パック"
     brand: "大王製紙（エリエール）"
     price: 5171
@@ -61,7 +83,29 @@ products:
     recommendedFor: "吸水力重視の方・水回りの掃除にも使いたい方・品質重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F14506%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10645679%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/506/14506.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
+    name: "リード クッキングペーパー スマートタイプ 36枚×24パック"
+    brand: "リード"
+    price: 6800
+    capacity: "36枚×24パック（864枚）"
+    pricePerUnit: "約7.9円/枚"
+    rating: 5
+    reviewCount: 4
+    features:
+      - "キッチン向けの紙製ペーパー"
+      - "ロールまたはシートタイプで使い分けできる"
+      - "調理や水切りに使いやすい構成"
+    pros:
+      - "調理中の油切りや拭き取りに使いやすい"
+      - "ロール型とシート型を比較できる"
+      - "ストック用途にも選びやすい"
+    cons:
+      - "厚手タイプは収納場所を取りやすい"
+      - "用途によってはペーパータオルとの使い分けが必要"
+    recommendedFor: "調理や片付けで紙ペーパーをよく使う家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fkitchen129%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10002278%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item5/kitchen129-a1.jpg?_ex=128x128"
+  - rank: 5
     name: "クレシア ペーパータオル 業務用 クレシア EFハンドタオル ソフトタイプ200 中"
     brand: "楽天市場"
     price: 3480
@@ -94,7 +138,29 @@ products:
         available: true
         rating: 4.84
         reviewCount: 297
-  - rank: 4
+  - rank: 6
+    name: "リード ヘルシークッキングペーパー レギュラー 40枚×15個"
+    brand: "リード"
+    price: 6600
+    capacity: "40枚×15個（600枚）"
+    pricePerUnit: "約11円/枚"
+    rating: 5
+    reviewCount: 4
+    features:
+      - "キッチン向けの紙製ペーパー"
+      - "ロールまたはシートタイプで使い分けできる"
+      - "調理や水切りに使いやすい構成"
+    pros:
+      - "調理中の油切りや拭き取りに使いやすい"
+      - "ロール型とシート型を比較できる"
+      - "ストック用途にも選びやすい"
+    cons:
+      - "厚手タイプは収納場所を取りやすい"
+      - "用途によってはペーパータオルとの使い分けが必要"
+    recommendedFor: "調理や片付けで紙ペーパーをよく使う家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fpapertowel29%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10000684%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item_r/papertowel29-a1.jpg?_ex=128x128"
+  - rank: 7
     name: "【数量限定】 ネピア 激吸収 キッチンタオル 4ロール×"
     brand: "王子ネピア（ネピア）"
     price: 5396
@@ -127,7 +193,7 @@ products:
         available: true
         rating: 0
         reviewCount: 2
-  - rank: 5
+  - rank: 8
     name: "スコッティ ファイン 3倍巻き キッチンタオル 4ロール×4パック"
     brand: "日本製紙クレシア（スコッティ）"
     price: 4810
@@ -160,7 +226,7 @@ products:
         available: true
         rating: 5
         reviewCount: 4
-  - rank: 6
+  - rank: 9
     name: "東京クイン イイナ キッチンペーパー M265 12ロール"
     brand: "イイナ"
     price: 4594
@@ -193,7 +259,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 7
+  - rank: 10
     name: "カークランド ペーパー タオル 160シート 12ロール 2枚重ね コストコ 通販 "
     brand: "カークランド"
     price: 4999
@@ -226,6 +292,28 @@ products:
         available: true
         rating: 4.89
         reviewCount: 63
+  - rank: 11
+    name: "リード クッキングペーパー レギュラー 40枚×5個セット"
+    brand: "リード"
+    price: 2000
+    capacity: "40枚×5個（200枚）"
+    pricePerUnit: "約10円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "キッチン向けの紙製ペーパー"
+      - "ロールまたはシートタイプで使い分けできる"
+      - "調理や水切りに使いやすい構成"
+    pros:
+      - "調理中の油切りや拭き取りに使いやすい"
+      - "ロール型とシート型を比較できる"
+      - "ストック用途にも選びやすい"
+    cons:
+      - "厚手タイプは収納場所を取りやすい"
+      - "用途によってはペーパータオルとの使い分けが必要"
+    recommendedFor: "調理や片付けで紙ペーパーをよく使う家庭"
+    rakutenUrl: "https://item.rakuten.co.jp/k-kitchen/7282315/"
+    imageUrl: ""
 tags:
   - "キッチンペーパー"
   - "コスパ"

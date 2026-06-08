@@ -1,10 +1,10 @@
 ---
 title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
-description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ6選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
+description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ11選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-06-08"
+updatedAt: 2026-06-08
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -128,6 +128,72 @@ products:
         rating: 0
         reviewCount: 2
   - rank: 5
+    name: "サンキョウプラテック ごみ袋 45L 半透明 100枚×2小箱"
+    brand: "サンキョウプラテック"
+    price: 2200
+    capacity: "100枚×2小箱（200枚）"
+    pricePerUnit: "約11円/枚"
+    rating: 4.65
+    reviewCount: 181
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fbx-530box2kobako%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10001012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/ecotaibox/bx/45l/bx-530n_2k.jpg?_ex=128x128"
+  - rank: 6
+    name: "クラフトマン 業務用厚手ゴミ袋 45L 100枚"
+    brand: "クラフトマン"
+    price: 1580
+    capacity: "100枚"
+    pricePerUnit: "約16円/枚"
+    rating: 4.73
+    reviewCount: 59
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F466-6776%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10061351%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin400_06/466-6776.jpg?_ex=128x128"
+  - rank: 7
+    name: "サンキョウプラテック ごみ袋 45L 半透明 厚手 100枚"
+    brand: "サンキョウプラテック"
+    price: 2400
+    capacity: "100枚"
+    pricePerUnit: "約24円/枚"
+    rating: 4.7
+    reviewCount: 130
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fhk-440ecoboxkobako%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10000748%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/ecotaibox/hk/45l/hk-440no_k.jpg?_ex=128x128"
+  - rank: 8
     name: "HD-890 半透明 70L"
     brand: "ケミカルジャパン"
     price: 2757
@@ -149,7 +215,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4991437150665%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11308988%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/665/4991437150665.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 9
     name: "ゴミ袋 90L 業務用 厚手"
     brand: "ケイヨウ実業"
     price: 5780
@@ -182,6 +248,50 @@ products:
         available: true
         rating: 5
         reviewCount: 12
+  - rank: 10
+    name: "防臭丸 45L 防臭ゴミ袋 100枚入"
+    brand: "防臭丸"
+    price: 4498
+    capacity: "100枚"
+    pricePerUnit: "約45円/枚"
+    rating: 4.7
+    reviewCount: 128
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptgqn.3rdw644e.g00ptgqn.3rdw7395/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaimin-rs%2Fdeodorant-bag45l100_m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaimin-rs%2Fi%2F10019272%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaimin-rs/cabinet/08834138/09090443/45l-80-100-thum.jpg?_ex=128x128"
+  - rank: 11
+    name: "スマートエール 45L 半透明ごみ袋 100枚"
+    brand: "スマートエール"
+    price: 1000
+    capacity: "100枚"
+    pricePerUnit: "約10円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://item.rakuten.co.jp/kurashikenkou/7276048/"
+    imageUrl: ""
 tags:
   - "ゴミ袋"
   - "コスパ"

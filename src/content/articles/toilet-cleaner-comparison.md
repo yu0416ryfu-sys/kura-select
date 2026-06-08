@@ -1,12 +1,34 @@
 ---
 title: "トイレ用洗剤 コスパ最強ランキング【2026年版】除菌力・洗浄力で比較"
-description: "トイレ用洗剤を1回あたりのコストで徹底比較。サンポール・スクラビングバブル・ドメスト・ブルーレットなど人気9選を解説します。"
+description: "トイレ用洗剤を1回あたりのコストで徹底比較。サンポール・スクラビングバブル・ドメスト・ブルーレットなど人気11選を解説します。"
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-07"
+updatedAt: 2026-06-08
 products:
   - rank: 1
+    name: "ドメスト 除菌クリーナー 500ml×3個セット"
+    brand: "ユニリーバ（ドメスト）"
+    price: 1188
+    capacity: "500ml×3個（1500ml）"
+    pricePerUnit: "約0.79円/ml"
+    rating: 4.69
+    reviewCount: 80
+    features:
+      - "トイレ用の洗剤本体"
+      - "液体やジェルなど便器まわりに使いやすい設計"
+      - "日常掃除向けの定番タイプ"
+    pros:
+      - "トイレ掃除の頻度に合わせて選べる"
+      - "既存候補と容量や形状を比較しやすい"
+      - "ストック用途にも検討しやすい"
+    cons:
+      - "酸性や塩素系など種類の確認が必要"
+      - "素材や使用場所によって注意点がある"
+    recommendedFor: "トイレ用洗剤を液体タイプ中心に比較したい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F35475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10844048%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/475/35475.jpg?_ex=128x128"
+  - rank: 2
     name: "除菌洗浄トイレハイター"
     brand: "ハイター"
     price: 441
@@ -39,7 +61,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301018755"
         available: true
-  - rank: 2
+  - rank: 3
     name: "ルック まめピカ トイレクリーナー つめかえ用 190ml"
     brand: "ライオン（ルック）"
     price: 217
@@ -72,7 +94,29 @@ products:
         available: true
         rating: 4.48
         reviewCount: 42
-  - rank: 3
+  - rank: 4
+    name: "エコストア トイレクリーナー ユーカリ 500mL"
+    brand: "ecostore"
+    price: 616
+    capacity: "500ml"
+    pricePerUnit: "約1.2円/ml"
+    rating: 4.5
+    reviewCount: 30
+    features:
+      - "トイレ用の洗剤本体"
+      - "液体やジェルなど便器まわりに使いやすい設計"
+      - "日常掃除向けの定番タイプ"
+    pros:
+      - "トイレ掃除の頻度に合わせて選べる"
+      - "既存候補と容量や形状を比較しやすい"
+      - "ストック用途にも検討しやすい"
+    cons:
+      - "酸性や塩素系など種類の確認が必要"
+      - "素材や使用場所によって注意点がある"
+    recommendedFor: "トイレ用洗剤を液体タイプ中心に比較したい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00thycn.3rdw660f.g00thycn.3rdw7533/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fecostore%2F9420015012583%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fecostore%2Fi%2F10000918%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ecostore/cabinet/rankinglabel/9420015012583_rb_ss.jpg?_ex=128x128"
+  - rank: 5
     name: "ソネット ナチュラルトイレットクリーナー"
     brand: "SONETT（ソネット）"
     price: 1100
@@ -105,7 +149,7 @@ products:
         available: true
         rating: 4.33
         reviewCount: 3
-  - rank: 4
+  - rank: 6
     name: "キバミおちーる 尿石除去剤"
     brand: "キバミおちーる"
     price: 1980
@@ -138,7 +182,7 @@ products:
         available: true
         rating: 4.07
         reviewCount: 14
-  - rank: 5
+  - rank: 7
     name: "トイレットペーパーでちょいふき"
     brand: "小林製薬"
     price: 3867
@@ -160,7 +204,7 @@ products:
     recommendedFor: "トイレ用洗剤を用途別に比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987072067178-008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12129144%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic49x/4987072067178_1.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 8
     name: "スクラビングバブル 超強力トイレクリーナー 10本セット"
     brand: "ジョンソン（スクラビングバブル）"
     price: 2277
@@ -182,7 +226,7 @@ products:
     recommendedFor: "大容量まとめ買いでコストを最小化したい方・頻繁にトイレ掃除をする方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F542515%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11127321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/515/542515.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 9
     name: "スクラビングバブル 超強力トイレクリーナー 3本セット"
     brand: "ジョンソン（スクラビングバブル）"
     price: 733
@@ -215,7 +259,7 @@ products:
         available: true
         rating: 4.76
         reviewCount: 45
-  - rank: 8
+  - rank: 10
     name: "スクラビングバブル 超強力トイレクリーナー 400g×5本セット"
     brand: "ジョンソン（スクラビングバブル）"
     price: 1214
@@ -237,39 +281,28 @@ products:
     recommendedFor: "長期ストックを想定したい方・塩素系洗剤を定期購入したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F72256%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10930487%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/256/72256.jpg?_ex=128x128"
-  - rank: 9
-    name: "スクラビングバブル 超強力トイレクリーナー 400g"
-    brand: "ジョンソン（スクラビングバブル）"
-    price: 441
-    capacity: "400g"
-    pricePerUnit: "約1.1円/g"
-    rating: 4.65
-    reviewCount: 344
+  - rank: 11
+    name: "ドメスト 除菌クリーナー 500ml×3個セット"
+    brand: "ユニリーバ（ドメスト）"
+    price: 1188
+    capacity: "500ml×3個（1500ml）"
+    pricePerUnit: "約0.79円/ml"
+    rating: 0
+    reviewCount: 0
     features:
-      - "強力な粘度のあるジェルがフチ裏に密着"
-      - "塩素系の漂白・除菌効果で黒ずみを除去"
-      - "便器のフチ裏まで届くノズル形状"
+      - "トイレ用の洗剤本体"
+      - "液体やジェルなど便器まわりに使いやすい設計"
+      - "日常掃除向けの定番タイプ"
     pros:
-      - "ジェルが密着してフチ裏まで洗浄"
-      - "漂白効果で黒ずみ・カビもきれいに"
-      - "3本セットでまとめ買いに便利"
+      - "トイレ掃除の頻度に合わせて選べる"
+      - "既存候補と容量や形状を比較しやすい"
+      - "ストック用途にも検討しやすい"
     cons:
-      - "塩素系のため酸性洗剤との併用NG"
-      - "刺激臭があるため換気が必要"
-    recommendedFor: "フチ裏の汚れに悩む方・黒ずみ・カビを落としたい方・塩素系洗剤派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe341234h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10252628%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/440/4901609005440.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9615427011.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-01"
-        price: 216
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_9615427011"
-        available: true
-        rating: 4.8
-        reviewCount: 10
+      - "酸性や塩素系など種類の確認が必要"
+      - "素材や使用場所によって注意点がある"
+    recommendedFor: "トイレ用洗剤を液体タイプ中心に比較したい人"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/35475/"
+    imageUrl: ""
 tags:
   - "トイレ用洗剤"
   - "コスパ"

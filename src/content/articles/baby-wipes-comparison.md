@@ -1,10 +1,10 @@
 ---
-title: "おしりふき コスパ最強ランキング【2026年版】7選"
+title: "おしりふき コスパ最強ランキング【2026年版】11選"
 description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比較。ムーニー、パンパース、グーン、レックなど人気メーカーの商品を肌優しさ・容量・単価で徹底比較。"
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-06-08"
+updatedAt: 2026-06-08
 draft: false
 products:
   - rank: 1
@@ -43,6 +43,28 @@ products:
         rating: 0
         reviewCount: 0
   - rank: 2
+    name: "おしりナップ やわらか厚手仕上げ 80枚×40個"
+    brand: "ピジョン"
+    price: 3788
+    capacity: "80枚×40個（3200枚）"
+    pricePerUnit: "約1.2円/枚"
+    rating: 4.77
+    reviewCount: 7494
+    features:
+      - "おしりふきとして使えるウェットシート"
+      - "詰め替え用やまとめ買いで選びやすい構成"
+      - "赤ちゃんまわりの日常ケアに使いやすいタイプ"
+    pros:
+      - "使用頻度が高い家庭でストックしやすい"
+      - "手口まわりや外出用の候補にもなる"
+      - "厚みや水分量の好みで比較できる"
+    cons:
+      - "シートの厚みや香りの有無は好みが分かれる"
+      - "ケースやフタの有無は商品ごとに確認が必要"
+    recommendedFor: "おしりふきをまとめて備えておきたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgivn.3rdw6956.g00tgivn.3rdw72f6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpigeon-shop%2F2000363s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpigeon-shop%2Fi%2F10001747%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pigeon-shop/cabinet/thumb/11827558/1039243.jpg?_ex=128x128"
+  - rank: 3
     name: "ムーニー おしりふき やわらか素材 詰め替え"
     brand: "ムーニー"
     price: 3740
@@ -77,7 +99,29 @@ products:
         updatedAt: "2026-06-07"
         rating: 4.56
         reviewCount: 9
-  - rank: 3
+  - rank: 4
+    name: "レック 水99.9％ 手口ふき おしりふき 80枚×15個"
+    brand: "レック"
+    price: 2180
+    capacity: "80枚×15個（1200枚）"
+    pricePerUnit: "約1.8円/枚"
+    rating: 4.68
+    reviewCount: 4519
+    features:
+      - "おしりふきとして使えるウェットシート"
+      - "詰め替え用やまとめ買いで選びやすい構成"
+      - "赤ちゃんまわりの日常ケアに使いやすいタイプ"
+    pros:
+      - "使用頻度が高い家庭でストックしやすい"
+      - "手口まわりや外出用の候補にもなる"
+      - "厚みや水分量の好みで比較できる"
+    cons:
+      - "シートの厚みや香りの有無は好みが分かれる"
+      - "ケースやフタの有無は商品ごとに確認が必要"
+    recommendedFor: "おしりふきをまとめて備えておきたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2Fe242_999tekuchi15p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10001752%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00975-1.jpg?_ex=128x128"
+  - rank: 5
     name: "おしりふき 手口ふき シンプル"
     brand: "and mom"
     price: 3980
@@ -108,7 +152,7 @@ products:
         available: true
         matchStatus: "pending"
         updatedAt: "2026-05-21"
-  - rank: 4
+  - rank: 6
     name: "おしりふき 厚手 水99.9% ネット限定デザイン"
     brand: "レック"
     price: 2100
@@ -141,7 +185,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 5
+  - rank: 7
     name: "おしりふき 厚手 菌99.9除去"
     brand: "レック"
     price: 1920
@@ -174,14 +218,14 @@ products:
         updatedAt: "2026-06-07"
         rating: 4.7
         reviewCount: 954
-  - rank: 6
+  - rank: 8
     name: "おしり拭き 流せる シート 菌99.9除去"
     brand: "レック"
     price: 2120
     capacity: "60枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.41
-    reviewCount: 1607
+    reviewCount: 1608
     features:
       - "トイレに流せる素材で処理が簡単"
       - "菌を99.9%除去する除菌効果"
@@ -207,7 +251,7 @@ products:
         updatedAt: "2026-06-07"
         rating: 4.6
         reviewCount: 1024
-  - rank: 7
+  - rank: 9
     name: "おしり拭き 流せる シート 純水99.9% W保湿成分配合"
     brand: "Lec.Be"
     price: 2120
@@ -240,6 +284,50 @@ products:
         reviewCount: 1024
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
+  - rank: 10
+    name: "パンパース おしりふき 肌へのいちばん 56枚×12個"
+    brand: "P&G（パンパース）"
+    price: 3180
+    capacity: "56枚×12個（672枚）"
+    pricePerUnit: "約4.7円/枚"
+    rating: 4.79
+    reviewCount: 2853
+    features:
+      - "おしりふきとして使えるウェットシート"
+      - "詰め替え用やまとめ買いで選びやすい構成"
+      - "赤ちゃんまわりの日常ケアに使いやすいタイプ"
+    pros:
+      - "使用頻度が高い家庭でストックしやすい"
+      - "手口まわりや外出用の候補にもなる"
+      - "厚みや水分量の好みで比較できる"
+    cons:
+      - "シートの厚みや香りの有無は好みが分かれる"
+      - "ケースやフタの有無は商品ごとに確認が必要"
+    recommendedFor: "おしりふきをまとめて備えておきたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2Fa62839xxx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10023241%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/821/403821.jpg?_ex=128x128"
+  - rank: 11
+    name: "Hugmuu 厚手おしりふき 蓋付き 80枚入り"
+    brand: "Hugmuu"
+    price: 1980
+    capacity: "80枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "おしりふきとして使えるウェットシート"
+      - "詰め替え用やまとめ買いで選びやすい構成"
+      - "赤ちゃんまわりの日常ケアに使いやすいタイプ"
+    pros:
+      - "使用頻度が高い家庭でストックしやすい"
+      - "手口まわりや外出用の候補にもなる"
+      - "厚みや水分量の好みで比較できる"
+    cons:
+      - "シートの厚みや香りの有無は好みが分かれる"
+      - "ケースやフタの有無は商品ごとに確認が必要"
+    recommendedFor: "おしりふきをまとめて備えておきたい家庭"
+    rakutenUrl: "https://item.rakuten.co.jp/slotre/10000199/"
+    imageUrl: ""
 tags:
   - "おしりふき おすすめ"
   - "おしりふき コスパ"

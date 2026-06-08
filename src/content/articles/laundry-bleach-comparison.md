@@ -1,10 +1,10 @@
 ---
 title: "衣料用漂白剤 コスパ最強ランキング【2026年版】酸素系・塩素系で比較"
-description: "衣料用漂白剤を1回あたりのコストで徹底比較。オキシクリーン・ワイドハイター・ブライトなど人気9選を漂白力・色柄物対応で解説します。"
+description: "衣料用漂白剤を1回あたりのコストで徹底比較。オキシクリーン・ワイドハイター・ブライトなど人気11選を漂白力・色柄物対応で解説します。"
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: 2026-06-08
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"
@@ -257,6 +257,50 @@ products:
     recommendedFor: "ドライ洗剤を初めて試す方・衣類の少ない一人暮らしの方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsbd500-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000197%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/imgrc0074782606.jpg?_ex=128x128"
+  - rank: 10
+    name: "ブライトストロング 酸素系衣類用漂白剤 詰替 900ml×6セット"
+    brand: "ライオン（ブライト）"
+    price: 3960
+    capacity: "900ml×6セット（5400ml）"
+    pricePerUnit: "約0.73円/ml"
+    rating: 4.63
+    reviewCount: 41
+    features:
+      - "衣料用の酸素系漂白剤"
+      - "液体または粉末タイプの洗濯向け設計"
+      - "色柄物の洗濯にも使いやすい候補"
+    pros:
+      - "通常洗剤に加えて比較しやすい"
+      - "衣類のケア用品としてストックしやすい"
+      - "液体と粉末の使い分けを検討できる"
+    cons:
+      - "素材や洗濯表示の確認が必要"
+      - "漂白剤の種類によって使い方が変わる"
+    recommendedFor: "衣料用漂白剤をタイプ別に比較したい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F574939%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11252000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/939/574939.jpg?_ex=128x128"
+  - rank: 11
+    name: "ワイドハイター PRO 抗菌リキッド 詰替 450ml×6袋セット"
+    brand: "花王（ワイドハイター）"
+    price: 2621
+    capacity: "450ml×6袋（2700ml）"
+    pricePerUnit: "約0.97円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "衣料用の酸素系漂白剤"
+      - "液体または粉末タイプの洗濯向け設計"
+      - "色柄物の洗濯にも使いやすい候補"
+    pros:
+      - "通常洗剤に加えて比較しやすい"
+      - "衣類のケア用品としてストックしやすい"
+      - "液体と粉末の使い分けを検討できる"
+    cons:
+      - "素材や洗濯表示の確認が必要"
+      - "漂白剤の種類によって使い方が変わる"
+    recommendedFor: "衣料用漂白剤をタイプ別に比較したい人"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/568082/"
+    imageUrl: ""
 tags:
   - "漂白剤"
   - "コスパ"

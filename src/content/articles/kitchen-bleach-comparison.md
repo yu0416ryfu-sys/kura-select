@@ -1,10 +1,10 @@
 ---
 title: "キッチン漂白剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気9選を除菌力・コスパ・安全性で解説します。"
+description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気11選を除菌力・コスパ・安全性で解説します。"
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-06-08"
+updatedAt: 2026-06-08
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"
@@ -279,6 +279,50 @@ products:
     recommendedFor: "日常的にキッチン除菌を行う方・コスパと扱いやすさを両立したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000921%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10122674%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/370/4901301019370.jpg?_ex=128x128"
+  - rank: 10
+    name: "キッチンハイター 小 600mL"
+    brand: "花王（ハイター）"
+    price: 240
+    capacity: "600ml"
+    pricePerUnit: "約0.40円/ml"
+    rating: 4.67
+    reviewCount: 18
+    features:
+      - "台所まわり向けの漂白剤"
+      - "塩素系または泡タイプのキッチン用設計"
+      - "まな板やふきんまわりの手入れに使いやすいタイプ"
+    pros:
+      - "用途に合わせて液体と泡タイプを比較できる"
+      - "キッチン用として選びやすい"
+      - "詰め替えや業務用との使い分けがしやすい"
+    cons:
+      - "塩素系は使用場所や換気に注意が必要"
+      - "素材によって使えない場合がある"
+    recommendedFor: "キッチン漂白剤をタイプ別に選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10006211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10006211%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin75/10006211.jpg?_ex=128x128"
+  - rank: 11
+    name: "キッチン泡ハイター つけかえ用 400ml×3セット"
+    brand: "花王（ハイター）"
+    price: 1069
+    capacity: "400ml×3セット（1200ml）"
+    pricePerUnit: "約0.89円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "台所まわり向けの漂白剤"
+      - "塩素系または泡タイプのキッチン用設計"
+      - "まな板やふきんまわりの手入れに使いやすいタイプ"
+    pros:
+      - "用途に合わせて液体と泡タイプを比較できる"
+      - "キッチン用として選びやすい"
+      - "詰め替えや業務用との使い分けがしやすい"
+    cons:
+      - "塩素系は使用場所や換気に注意が必要"
+      - "素材によって使えない場合がある"
+    recommendedFor: "キッチン漂白剤をタイプ別に選びたい人"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/580766/"
+    imageUrl: ""
 tags:
   - "キッチン漂白剤 おすすめ"
   - "キッチンハイター コスパ"

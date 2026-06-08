@@ -1,10 +1,10 @@
 ---
 title: "食洗機用洗剤 コスパ最強ランキング【2026年版】粉末・ジェル・タブで比較"
-description: "食洗機用洗剤を1回あたりのコストで徹底比較。フィニッシュ・キュキュット・ジョイ・チャーミーの人気9選を洗浄力・コスパで解説します。"
+description: "食洗機用洗剤を1回あたりのコストで徹底比較。フィニッシュ・キュキュット・ジョイ・チャーミーの人気11選を洗浄力・コスパで解説します。"
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-06"
+updatedAt: 2026-06-08
 products:
   - rank: 1
     name: "ソネット ナチュラルディッシュウォッシャー 1.5kg"
@@ -212,6 +212,28 @@ products:
         rating: 4.54
         reviewCount: 13
   - rank: 8
+    name: "キュキュット 食器洗い乾燥機専用 粉末タイプ 詰替 800g×3セット"
+    brand: "花王（キュキュット）"
+    price: 2145
+    capacity: "800g×3セット（2400g）"
+    pricePerUnit: "約0.89円/g"
+    rating: 4.71
+    reviewCount: 335
+    features:
+      - "食洗機用の洗剤本体"
+      - "タブレットや粉末など食洗機向けの形状"
+      - "まとめ買いしやすい容量構成"
+    pros:
+      - "毎日の食洗機運転に備えやすい"
+      - "計量の手間や保管性で比較しやすい"
+      - "既存候補と形状違いで選べる"
+    cons:
+      - "食洗機の機種や庫内汚れとの相性確認が必要"
+      - "香りや溶け残りの感じ方は環境で変わる"
+    recommendedFor: "食洗機用洗剤を形状別に比較したい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404959%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148567%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/959/404959.jpg?_ex=128x128"
+  - rank: 9
     name: "食洗機用ジョイ 除菌 詰替特大 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
@@ -244,7 +266,7 @@ products:
         available: true
         rating: 4.83
         reviewCount: 12
-  - rank: 9
+  - rank: 10
     name: "食洗機用ジョイ 除菌 詰め替え 特大 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
@@ -277,6 +299,28 @@ products:
         available: true
         rating: 4.83
         reviewCount: 12
+  - rank: 11
+    name: "フィニッシュ パワーキューブ 食洗機用洗剤 150個入り"
+    brand: "フィニッシュ"
+    price: 1980
+    capacity: "150個"
+    pricePerUnit: "約13円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "食洗機用の洗剤本体"
+      - "タブレットや粉末など食洗機向けの形状"
+      - "まとめ買いしやすい容量構成"
+    pros:
+      - "毎日の食洗機運転に備えやすい"
+      - "計量の手間や保管性で比較しやすい"
+      - "既存候補と形状違いで選べる"
+    cons:
+      - "食洗機の機種や庫内汚れとの相性確認が必要"
+      - "香りや溶け残りの感じ方は環境で変わる"
+    recommendedFor: "食洗機用洗剤を形状別に比較したい人"
+    rakutenUrl: "https://item.rakuten.co.jp/good-item/co-126/"
+    imageUrl: ""
 tags:
   - "食洗機用洗剤"
   - "コスパ"

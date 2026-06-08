@@ -30,6 +30,94 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7162877%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10188680%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya110/7162877.jpg?_ex=128x128"
   - rank: 2
+    name: "スコッティ ティッシュ 200組 60箱"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 5016
+    capacity: "200組×60箱"
+    pricePerUnit: "約0.42円/組"
+    rating: 4.87
+    reviewCount: 164
+    features:
+      - "ティッシュペーパー本体のまとめ買い候補"
+      - "箱タイプまたはソフトパックで選べる"
+      - "家庭でストックしやすい容量構成"
+    pros:
+      - "日常の消耗品をまとめて比較できる"
+      - "保管場所に合わせて形状を選びやすい"
+      - "家族使いのストック候補になる"
+    cons:
+      - "紙質や肌ざわりは好みが分かれる"
+      - "大容量品は置き場所の確認が必要"
+    recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F768-7464%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10633204%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin700_02/768-7464.jpg?_ex=128x128"
+  - rank: 3
+    name: "スコッティ ティッシュ 200組 60箱セット"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 5181
+    capacity: "200組×60箱"
+    pricePerUnit: "約0.43円/組"
+    rating: 4.67
+    reviewCount: 285
+    features:
+      - "ティッシュペーパー本体のまとめ買い候補"
+      - "箱タイプまたはソフトパックで選べる"
+      - "家庭でストックしやすい容量構成"
+    pros:
+      - "日常の消耗品をまとめて比較できる"
+      - "保管場所に合わせて形状を選びやすい"
+      - "家族使いのストック候補になる"
+    cons:
+      - "紙質や肌ざわりは好みが分かれる"
+      - "大容量品は置き場所の確認が必要"
+    recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7162877%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077529%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7162877.jpg?_ex=128x128"
+  - rank: 4
+    name: "スコッティ ティッシュペーパー 200組5箱×12パック"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 5500
+    capacity: "200組×5箱×12パック（60箱）"
+    pricePerUnit: "約0.46円/組"
+    rating: 4.64
+    reviewCount: 112
+    features:
+      - "ティッシュペーパー本体のまとめ買い候補"
+      - "箱タイプまたはソフトパックで選べる"
+      - "家庭でストックしやすい容量構成"
+    pros:
+      - "日常の消耗品をまとめて比較できる"
+      - "保管場所に合わせて形状を選びやすい"
+      - "家族使いのストック候補になる"
+    cons:
+      - "紙質や肌ざわりは好みが分かれる"
+      - "大容量品は置き場所の確認が必要"
+    recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t7pwn.3rdw6abd.g00t7pwn.3rdw7773/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkamiyasan-store%2F10000001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkamiyasan-store%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kamiyasan-store/cabinet/06137907/imgrc0103044949.jpg?_ex=128x128"
+  - rank: 5
+    name: "イットコティッシュ 150組 60箱"
+    brand: "イトマン"
+    price: 4216
+    capacity: "150組×60箱"
+    pricePerUnit: "約0.47円/組"
+    rating: 4.54
+    reviewCount: 107
+    features:
+      - "ティッシュペーパー本体のまとめ買い候補"
+      - "箱タイプまたはソフトパックで選べる"
+      - "家庭でストックしやすい容量構成"
+    pros:
+      - "日常の消耗品をまとめて比較できる"
+      - "保管場所に合わせて形状を選びやすい"
+      - "家族使いのストック候補になる"
+    cons:
+      - "紙質や肌ざわりは好みが分かれる"
+      - "大容量品は置き場所の確認が必要"
+    recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q242n.3rdw6f72.g00q242n.3rdw7b52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitoman%2Fittokotissu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fitoman%2Fi%2F10000374%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/itoman/cabinet/tissue/ittoco_20150001/20150001.jpg?_ex=128x128"
+  - rank: 6
     name: "クリネックス ティシュー 180組 5箱×12パック"
     brand: "日本製紙クレシア（クリネックス）"
     price: 5088
@@ -51,7 +139,7 @@ products:
     recommendedFor: "普段使いに定番の品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s9dxn.3rdw664e.g00s9dxn.3rdw7c20/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsukasa1%2Fsss10000355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsukasa1%2Fi%2F10015576%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsukasa1/cabinet/img6/10000355_t.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 7
     name: "スコッティ ティッシュペーパー フラワーボックス"
     brand: "日本製紙クレシア（スコッティ）"
     price: 7399
@@ -73,7 +161,7 @@ products:
     recommendedFor: "コスト重視の方・大家族・まとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F13337%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10024834%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/020/main-13337re.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 8
     name: "王子ネピア ネピネピ ティシュ 150組×5箱"
     brand: "ネピア"
     price: 420
@@ -95,7 +183,7 @@ products:
     recommendedFor: "少量ずつストックしたい一人暮らし・少人数世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901121182889-today202504%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12642906%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2024v/4901121182889.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 9
     name: "業務用ティッシュ POPティシュ200W 60箱"
     brand: "OneStep"
     price: 7968
@@ -117,7 +205,7 @@ products:
     recommendedFor: "オフィス・店舗・大量消費する世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00saddn.3rdw6ebe.g00saddn.3rdw7146/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaicom-pack%2F190942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaicom-pack%2Fi%2F10023307%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaicom-pack/cabinet/adsum1/190942.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 10
     name: "プライベートブランド ティッシュ 200枚（100組）×60箱"
     brand: "業務用無地"
     price: 5760
@@ -139,28 +227,28 @@ products:
     recommendedFor: "大家族・オフィス・長期備蓄したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s581n.3rdw6f03.g00s581n.3rdw79ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-bomber-shop%2F251641002216000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-bomber-shop%2Fi%2F10124307%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-bomber-shop/cabinet/mastertool70/251641002216000.jpg?_ex=128x128"
-  - rank: 7
-    name: "エリエール ティシュー 200枚（100組）×12箱"
-    brand: "大王製紙（エリエール）"
-    price: 5258
-    capacity: "200枚（100組）×12箱"
-    pricePerUnit: "約4.4円/組"
-    rating: 4.64
-    reviewCount: 672
+  - rank: 11
+    name: "イットコティッシュ 150組 60箱"
+    brand: "イトマン"
+    price: 5480
+    capacity: "150組×60箱"
+    pricePerUnit: "約0.61円/組"
+    rating: 0
+    reviewCount: 0
     features:
-      - "パルプ100%の柔らかな2枚重ね"
-      - "エリエールブランドの高品質"
-      - "日本製で安心・安全"
+      - "ティッシュペーパー本体のまとめ買い候補"
+      - "箱タイプまたはソフトパックで選べる"
+      - "家庭でストックしやすい容量構成"
     pros:
-      - "柔らかく肌触りがよい"
-      - "エリエールは肌触りで支持者が多いブランド"
-      - "2枚重ねで1枚でも十分なボリューム感"
+      - "日常の消耗品をまとめて比較できる"
+      - "保管場所に合わせて形状を選びやすい"
+      - "家族使いのストック候補になる"
     cons:
-      - "スコッティより1組あたりコストが高い"
-      - "100組とやや少なめ"
-    recommendedFor: "肌触りを重視する方・子どものいる家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tiz9n.3rdw6353.g00tiz9n.3rdw771a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprotoolshop%2F4902011722734%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprotoolshop%2Fi%2F10006509%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/protoolshop/cabinet/734/4902011722734.jpg?_ex=128x128"
+      - "紙質や肌ざわりは好みが分かれる"
+      - "大容量品は置き場所の確認が必要"
+    recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
+    rakutenUrl: "https://item.rakuten.co.jp/itoman/ittokotissu/"
+    imageUrl: ""
 tags:
   - "ティッシュペーパー"
   - "通常タイプ"
