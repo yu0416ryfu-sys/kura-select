@@ -11,8 +11,8 @@ products:
     name: "オーガニックホホバオイル ゴールデン"
     brand: "自然化粧品研究所"
     price: 567
-    capacity: "100mL"
-    pricePerUnit: "約5.7円/mL"
+    capacity: "20mL"
+    pricePerUnit: "約28円/mL"
     rating: 4.71
     reviewCount: 1988
     features:
