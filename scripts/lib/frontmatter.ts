@@ -580,8 +580,9 @@ export function extractCapacityFromItemName(itemName: string): string | null {
       // 非数字・非乗算記号文字を読み飛ばして次の乗算記号を探す
       const xMatch = ahead.match(new RegExp(`^([^${MULTIPLY_RE_CHAR_CLASS}\\d]*)[${MULTIPLY_RE_CHAR_CLASS}]\\s*(\\d[\\d,]*)`));
       if (!xMatch) break;
-      // × より前に数字が混入していたら別の数値表現として中断
-      if (/\d/.test(xMatch[1])) break;
+      // × より前に数字が混入、またはアルファベットで終わる場合は別の数値表現として中断
+      // （例: "HX9043" の X を乗算記号として誤認する型番混入を防ぐ）
+      if (/\d/.test(xMatch[1]) || /[A-Za-z]$/.test(xMatch[1])) break;
       result += '×' + xMatch[2];
       pos += xMatch[0].length;
       // × 直後に CAPACITY_UNITS が続く場合は含める

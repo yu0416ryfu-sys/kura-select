@@ -846,6 +846,30 @@ describe("extractCapacityFromItemName", () => {
     expect(capacity).toBe("3個×2セット");
     expect(extractCapacityTotal(capacity ?? "")).toEqual({ total: 6, unit: "個" });
   });
+
+  it("型番のXを乗算記号として誤認しない（HX9043等）", () => {
+    expect(
+      extractCapacityFromItemName(
+        "フィリップス ソニッケアー プレミアムクリーン 替えブラシ レギュラー 3本組 HX9043/67 HX9043/96 交換用 Philips Sonicare"
+      )
+    ).toBe("3本");
+  });
+
+  it("型番xパターン後の個数を正しく抽出する（回帰: 16本 LR6NJ/8SW x2個）", () => {
+    expect(
+      extractCapacityFromItemName(
+        "単3型 16本 エボルタNEO パナソニック アルカリ乾電池 LR6NJ/8SW x2個 Panasonic EVOLTA NEO 単3 乾電池"
+      )
+    ).toBe("16本");
+  });
+
+  it("括弧内内訳つき総枚数から総量を抽出する（回帰: 132枚(66枚×2パック)）", () => {
+    expect(
+      extractCapacityFromItemName(
+        "コストコ テープ Sサイズ パンパース オムツ (4~8kg) 132枚(66枚×2パック)"
+      )
+    ).toBe("132枚");
+  });
 });
 
 describe("isMultiMeasureVariantItemName", () => {

@@ -151,16 +151,16 @@ products:
         rating: 4.51
         reviewCount: 3515
   - rank: 6
-    name: "Panasonic エボルタNEO 乾電池 単3形 12本"
+    name: "Panasonic エボルタNEO 乾電池 単3形 16本"
     brand: "Panasonic（エボルタNEO）"
     price: 1550
-    capacity: "12本"
-    pricePerUnit: "約129円/本"
+    capacity: "16本"
+    pricePerUnit: "約97円/本"
     rating: 5
     reviewCount: 16
     features:
       - "Panasonicのフラッグシップモデルで業界最高水準の持続時間"
-      - "単3形12本入りでまとめ買い対応"
+      - "単3形16本入りでまとめ買い対応"
       - "高負荷機器（デジカメ・電動歯ブラシ・ゲームコントローラー）向け設計"
     pros:
       - "1本あたりの使用時間が長く、交換頻度を減らせる"
