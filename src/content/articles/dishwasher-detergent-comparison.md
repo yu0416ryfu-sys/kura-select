@@ -7,72 +7,10 @@ articleType: "comparison"
 updatedAt: 2026-06-09
 products:
   - rank: 1
-    name: "ソネット ナチュラルディッシュウォッシャー 5kg"
-    brand: "SONETT"
-    price: 2970
-    capacity: "5kg"
-    pricePerUnit: "約0.59円/g"
-    rating: 4.4
-    reviewCount: 60
-    features:
-      - "食器洗い乾燥機専用の洗剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "食洗機の運用に合わせて選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "対応機種や投入量を確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "食洗機の運用に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100000736%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000752%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/snn4023_01.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fs0270032.html"
-        matchStatus: "matched"
-        updatedAt: "2026-05-27"
-        price: 2970
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_s0270032"
-        available: true
-  - rank: 2
-    name: "ソネット 食洗機用洗剤 ナチュラルディッシュウォッシャー 5kg"
-    brand: "SONETT"
-    price: 2970
-    capacity: "5kg"
-    pricePerUnit: "約0.59円/g"
-    rating: 4.26
-    reviewCount: 27
-    features:
-      - "食器洗い乾燥機専用の洗剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "食洗機の運用に合わせて選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "対応機種や投入量を確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "食洗機の運用に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Fs0270032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10010183%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/03078602/03360352/imgrc0088921454.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fs0270032.html"
-        matchStatus: "matched"
-        updatedAt: "2026-05-27"
-        price: 2970
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_s0270032"
-        available: true
-  - rank: 3
     name: "P&G 食洗機用ジョイ オレンジピール成分入り 詰替 490g"
     brand: "P&G（ジョイ）"
     price: 315
-    capacity: "490"
+    capacity: "490g"
     pricePerUnit: "約0.64円/g"
     rating: 4.5
     reviewCount: 12
@@ -90,7 +28,7 @@ products:
     recommendedFor: "食洗機の運用に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902430708494-kksale%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10323617%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4902430708494.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 2
     name: "緑の魔女 食洗機用洗剤 800g"
     brand: "ミマスクリーンケア"
     price: 590
@@ -112,7 +50,7 @@ products:
     recommendedFor: "食洗機の運用に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F9847343%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10096247%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya114/9847343.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 3
     name: "ジョイ 食洗機用洗剤 オレンジ 詰め替え 930g×3個"
     brand: "P&G（ジョイ）"
     price: 2108
@@ -145,7 +83,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/life-select-easyshop_ls1c040a6150"
         available: true
-  - rank: 6
+  - rank: 4
     name: "★大容量2200g入り★フィニッシュ パウダー/ミューズ/ "
     brand: "レキットベンキーザー（フィニッシュ）"
     price: 1760
@@ -178,7 +116,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b07bbljjxx-20260329"
         available: true
-  - rank: 7
+  - rank: 5
     name: "緑の魔女 オートキッチン 800g"
     brand: "ミマスクリーンケア"
     price: 648
@@ -211,7 +149,7 @@ products:
         available: true
         rating: 4.54
         reviewCount: 13
-  - rank: 8
+  - rank: 6
     name: "キュキュット 食器洗い乾燥機専用 粉末タイプ 詰替 800g×3セット"
     brand: "花王（キュキュット）"
     price: 2145
@@ -233,7 +171,7 @@ products:
     recommendedFor: "食洗機用洗剤を形状別に比較したい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404959%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148567%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/959/404959.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 7
     name: "食洗機用ジョイ 除菌 詰替特大 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
@@ -266,7 +204,7 @@ products:
         available: true
         rating: 4.83
         reviewCount: 12
-  - rank: 10
+  - rank: 8
     name: "食洗機用ジョイ 除菌 詰め替え 特大 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
@@ -299,6 +237,68 @@ products:
         available: true
         rating: 4.83
         reviewCount: 12
+  - rank: 9
+    name: "ソネット ナチュラルディッシュウォッシャー 1.5kg"
+    brand: "SONETT"
+    price: 2970
+    capacity: "1.5kg"
+    pricePerUnit: "約2.0円/g"
+    rating: 4.4
+    reviewCount: 60
+    features:
+      - "食器洗い乾燥機専用の洗剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "食洗機の運用に合わせて選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "対応機種や投入量を確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "食洗機の運用に合わせて選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100000736%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000752%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/snn4023_01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fs0270032.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-27"
+        price: 2970
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_s0270032"
+        available: true
+  - rank: 10
+    name: "ソネット 食洗機用洗剤 ナチュラルディッシュウォッシャー 1.5kg"
+    brand: "SONETT"
+    price: 2970
+    capacity: "1.5kg"
+    pricePerUnit: "約2.0円/g"
+    rating: 4.26
+    reviewCount: 27
+    features:
+      - "食器洗い乾燥機専用の洗剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "食洗機の運用に合わせて選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "対応機種や投入量を確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "食洗機の運用に合わせて選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Fs0270032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10010183%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/03078602/03360352/imgrc0088921454.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fs0270032.html"
+        matchStatus: "matched"
+        updatedAt: "2026-05-27"
+        price: 2970
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_s0270032"
+        available: true
 tags:
   - "食洗機用洗剤"
   - "コスパ"
