@@ -8,50 +8,6 @@ updatedAt: 2026-06-09
 draft: false
 products:
   - rank: 1
-    name: "アームアンドハンマー ベーキングソーダ 6.1kg"
-    brand: "Arm & Hammer（アームアンドハンマー）"
-    price: 2790
-    capacity: "6.1kg"
-    pricePerUnit: "約457円/kg"
-    rating: 5
-    reviewCount: 3
-    features:
-      - "米国コストコ定番品の重炭酸ナトリウム100%・食品グレード"
-      - "超大容量6.1kgで大量消費する用途に対応"
-      - "消臭・入浴・料理・掃除と幅広い用途に使用可能"
-    pros:
-      - "超大容量のため頻繁な買い足しが不要でg単価も最安クラス"
-      - "食品・入浴・掃除の全用途に対応する汎用性"
-      - "コストコ定番品として安定した品質と供給"
-    cons:
-      - "大容量のため保管スペースが必要"
-      - "輸入品のため入荷状況によって購入できない場合がある"
-    recommendedFor: "入浴剤に大量消費する方・まとめ買いでg単価を極限まで下げたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u276n.3rdw666a.g00u276n.3rdw7ca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhappydelica%2F488431%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhappydelica%2Fi%2F10001461%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/happydelica/cabinet/biiino/item/main-image-2/20240227101401_1.jpg?_ex=128x128"
-  - rank: 2
-    name: "クエン酸粉末 5kg 食品添加物グレード 純度99.5%以上"
-    brand: "アレスヘルスケア"
-    price: 3591
-    capacity: "5kg"
-    pricePerUnit: "約718円/kg"
-    rating: 4.78
-    reviewCount: 265
-    features:
-      - "食品添加物規格・純度99.5%以上の高純度クエン酸"
-      - "酸性タイプで水垢・石灰スケール・尿石を溶かす"
-      - "電気ポット・加湿器・トイレの水垢洗浄に対応"
-    pros:
-      - "重曹・セスキでは落ちないアルカリ性の水垢汚れに特化した効果"
-      - "業務用大容量でg単価が低くコスパに優れる"
-      - "食品グレードなので飲料・入浴剤にも転用可能"
-    cons:
-      - "油汚れ・たんぱく質系汚れには向かずアルカリ洗剤との使い分けが必要"
-      - "大容量のため保管スペースの確保が必要"
-    recommendedFor: "加湿器・電気ポット・トイレの水垢を定期的にケアしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qa34n.3rdw6dcf.g00qa34n.3rdw74c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fares-hc%2F700099%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fares-hc%2Fi%2F10000242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ares-hc/cabinet/00356984/kuensan5-1.jpg?_ex=128x128"
-  - rank: 3
     name: "重曹 国産 5kg 炭酸水素ナトリウム 食用グレード"
     brand: "ナチュラルショップ マニン"
     price: 1980
@@ -73,6 +29,50 @@ products:
     recommendedFor: "食用・掃除・入浴剤を1種類で兼用したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s8gpn.3rdw6fb0.g00s8gpn.3rdw79fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fns-manin%2F0009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fns-manin%2Fi%2F10000217%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ns-manin/cabinet/05354021/05354772/imgrc0074340684.jpg?_ex=128x128"
+  - rank: 2
+    name: "アームアンドハンマー ベーキングソーダ 6.1kg"
+    brand: "Arm & Hammer（アームアンドハンマー）"
+    price: 2790
+    capacity: "6.1kg"
+    pricePerUnit: "約457円/kg"
+    rating: 5
+    reviewCount: 3
+    features:
+      - "米国コストコ定番品の重炭酸ナトリウム100%・食品グレード"
+      - "超大容量6.1kgで大量消費する用途に対応"
+      - "消臭・入浴・料理・掃除と幅広い用途に使用可能"
+    pros:
+      - "超大容量のため頻繁な買い足しが不要でg単価も最安クラス"
+      - "食品・入浴・掃除の全用途に対応する汎用性"
+      - "コストコ定番品として安定した品質と供給"
+    cons:
+      - "大容量のため保管スペースが必要"
+      - "輸入品のため入荷状況によって購入できない場合がある"
+    recommendedFor: "入浴剤に大量消費する方・まとめ買いでg単価を極限まで下げたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u276n.3rdw666a.g00u276n.3rdw7ca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhappydelica%2F488431%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhappydelica%2Fi%2F10001461%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/happydelica/cabinet/biiino/item/main-image-2/20240227101401_1.jpg?_ex=128x128"
+  - rank: 3
+    name: "クエン酸粉末 5kg 食品添加物グレード 純度99.5%以上"
+    brand: "アレスヘルスケア"
+    price: 3591
+    capacity: "5kg"
+    pricePerUnit: "約718円/kg"
+    rating: 4.78
+    reviewCount: 265
+    features:
+      - "食品添加物規格・純度99.5%以上の高純度クエン酸"
+      - "酸性タイプで水垢・石灰スケール・尿石を溶かす"
+      - "電気ポット・加湿器・トイレの水垢洗浄に対応"
+    pros:
+      - "重曹・セスキでは落ちないアルカリ性の水垢汚れに特化した効果"
+      - "業務用大容量でg単価が低くコスパに優れる"
+      - "食品グレードなので飲料・入浴剤にも転用可能"
+    cons:
+      - "油汚れ・たんぱく質系汚れには向かずアルカリ洗剤との使い分けが必要"
+      - "大容量のため保管スペースの確保が必要"
+    recommendedFor: "加湿器・電気ポット・トイレの水垢を定期的にケアしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qa34n.3rdw6dcf.g00qa34n.3rdw74c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fares-hc%2F700099%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fares-hc%2Fi%2F10000242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ares-hc/cabinet/00356984/kuensan5-1.jpg?_ex=128x128"
   - rank: 4
     name: "アルカリウォッシュ セスキ炭酸ソーダ 500g 2個セット"
     brand: "地の塩社"
