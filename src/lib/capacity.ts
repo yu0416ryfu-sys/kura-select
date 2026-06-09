@@ -148,6 +148,7 @@ export function calcPricePerUnit(price: number, capacity: string, targetUnit?: s
 export const ARTICLE_UNIT_POLICY: Record<string, string> = {
   'fabric-softener-comparison': 'mL',
   'laundry-detergent-comparison': 'g',
+  'dish-detergent-comparison': 'mL',
   // ティッシュは枚・組が混在するため「組」（=1回の取り出し）に統一する。
   // 箱ティッシュの「枚」表記は calcPricePerUnit が 1組=2枚 で組換算する。
   'tissue-paper-comparison': '組',

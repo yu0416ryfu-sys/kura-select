@@ -11,7 +11,7 @@ products:
     brand: "ライオン（チャーミー）"
     price: 6165
     capacity: "8L×3個"
-    pricePerUnit: "約257円/L"
+    pricePerUnit: "約0.26円/mL"
     rating: 4.8
     reviewCount: 15
     features:
@@ -99,7 +99,7 @@ products:
     brand: "P&G（ジョイ）"
     price: 2680
     capacity: "4L"
-    pricePerUnit: "約670円/L"
+    pricePerUnit: "約0.67円/mL"
     rating: 4.81
     reviewCount: 47
     features:
