@@ -142,6 +142,7 @@ export function updateProductInFrontmatter(
 }
 
 export interface ProductSnapshot {
+  rank: number;
   name: string;
   price: number | null;
   rating: number | null;
@@ -161,6 +162,7 @@ export function extractProductSnapshot(content: string, productName: string): Pr
   if (!product) return null;
 
   return {
+    rank: typeof product.rank === 'number' ? product.rank : 0,
     name: typeof product.name === 'string' ? product.name : '',
     price: typeof product.price === 'number' ? product.price : null,
     rating: typeof product.rating === 'number' ? product.rating : null,
@@ -170,6 +172,95 @@ export function extractProductSnapshot(content: string, productName: string): Pr
     capacity: typeof product.capacity === 'string' ? product.capacity : null,
     pricePerUnit: typeof product.pricePerUnit === 'string' ? product.pricePerUnit : null,
   };
+}
+
+export function extractProductSnapshotByRank(content: string, rank: number): ProductSnapshot | null {
+  const parsed = parseFrontmatter(content);
+  if (!parsed || !Array.isArray(parsed.data.products)) return null;
+
+  const normalizedRank = typeof rank === 'number' ? rank : Number(rank);
+  if (!Number.isFinite(normalizedRank)) return null;
+
+  const product = (parsed.data.products as Array<Record<string, unknown>>)
+    .find(p => p.rank === normalizedRank);
+  if (!product) return null;
+
+  return {
+    rank: typeof product.rank === 'number' ? product.rank : 0,
+    name: typeof product.name === 'string' ? product.name : '',
+    price: typeof product.price === 'number' ? product.price : null,
+    rating: typeof product.rating === 'number' ? product.rating : null,
+    reviewCount: typeof product.reviewCount === 'number' ? product.reviewCount : null,
+    rakutenUrl: typeof product.rakutenUrl === 'string' ? product.rakutenUrl : null,
+    imageUrl: typeof product.imageUrl === 'string' ? product.imageUrl : null,
+    capacity: typeof product.capacity === 'string' ? product.capacity : null,
+    pricePerUnit: typeof product.pricePerUnit === 'string' ? product.pricePerUnit : null,
+  };
+}
+
+export interface ProductExpectedFields {
+  name?: string | null;
+  capacity?: string | null;
+  price?: number | null;
+  rakutenUrl?: string | null;
+}
+
+function expectedFieldMatches(product: Record<string, unknown>, expected: ProductExpectedFields): boolean {
+  if (Object.prototype.hasOwnProperty.call(expected, 'name')) {
+    const actual = typeof product.name === 'string' ? product.name : null;
+    if (actual !== (expected.name ?? null)) return false;
+  }
+  if (Object.prototype.hasOwnProperty.call(expected, 'capacity')) {
+    const actual = typeof product.capacity === 'string' ? product.capacity : null;
+    if (actual !== (expected.capacity ?? null)) return false;
+  }
+  if (Object.prototype.hasOwnProperty.call(expected, 'price')) {
+    const actual = typeof product.price === 'number' ? product.price : null;
+    if (actual !== (expected.price ?? null)) return false;
+  }
+  if (Object.prototype.hasOwnProperty.call(expected, 'rakutenUrl')) {
+    const actual = typeof product.rakutenUrl === 'string' ? product.rakutenUrl : null;
+    if (actual !== (expected.rakutenUrl ?? null)) return false;
+  }
+  return true;
+}
+
+export function updateProductInFrontmatterByRank(
+  content: string,
+  rank: number,
+  updates: ProductUpdates,
+  expected: ProductExpectedFields = {}
+): { content: string; changed: boolean; reason?: string; before?: ProductSnapshot; after?: ProductSnapshot } {
+  const parsed = parseFrontmatter(content);
+  if (!parsed || !Array.isArray(parsed.data.products)) {
+    return { content, changed: false, reason: 'frontmatter/products not found' };
+  }
+
+  const normalizedRank = typeof rank === 'number' ? rank : Number(rank);
+  if (!Number.isFinite(normalizedRank)) {
+    return { content, changed: false, reason: 'invalid rank' };
+  }
+
+  type P = Record<string, unknown>;
+  const product = (parsed.data.products as P[]).find(p => p.rank === normalizedRank);
+  if (!product) return { content, changed: false, reason: `rank ${rank} not found` };
+  if (!expectedFieldMatches(product, expected)) {
+    return { content, changed: false, reason: 'expected fields mismatch' };
+  }
+
+  const before = extractProductSnapshotByRank(content, normalizedRank) ?? undefined;
+  if (updates.price !== null)        product.price = updates.price;
+  if (updates.rating !== null)       product.rating = updates.rating;
+  if (updates.reviewCount !== null)  product.reviewCount = updates.reviewCount;
+  if (updates.affiliateUrl)          product.rakutenUrl = updates.affiliateUrl;
+  if (updates.imageUrl)              product.imageUrl = updates.imageUrl;
+  if (updates.pricePerUnit != null)  product.pricePerUnit = updates.pricePerUnit;
+  if (updates.newName)               product.name = updates.newName;
+  if (updates.newCapacity)           product.capacity = updates.newCapacity;
+
+  const nextContent = dumpFrontmatter(parsed.data, parsed.body);
+  const after = extractProductSnapshotByRank(nextContent, normalizedRank) ?? undefined;
+  return { content: nextContent, changed: nextContent !== content, before, after };
 }
 
 /**
@@ -907,7 +998,10 @@ export function reorderProductsByPricePerUnit(
 export function syncPricePerUnitWithPolicy(
   content: string,
   preferUnit?: string,
-  skipNames?: ReadonlySet<string>
+  skipNames?: ReadonlySet<string> | {
+    skipNames?: ReadonlySet<string>;
+    skipProduct?: (product: ProductSnapshot) => boolean;
+  }
 ): { content: string; changed: boolean; log: string[] } {
   const parsed = parseFrontmatter(content);
   if (!parsed || !Array.isArray(parsed.data.products)) {
@@ -918,10 +1012,27 @@ export function syncPricePerUnitWithPolicy(
   const products = parsed.data.products as P[];
   let changed = false;
   const log: string[] = [];
+  const skipConfig = skipNames && typeof (skipNames as { has?: unknown }).has === 'function'
+    ? { skipNames: skipNames as ReadonlySet<string>, skipProduct: undefined }
+    : (skipNames as { skipNames?: ReadonlySet<string>; skipProduct?: (product: ProductSnapshot) => boolean } | undefined);
+  const skipNameSet = skipConfig?.skipNames;
+  const skipProduct = skipConfig?.skipProduct;
 
   for (const product of products) {
     const name = typeof product.name === 'string' ? product.name : null;
-    if (name && skipNames?.has(name)) continue;
+    if (name && skipNameSet?.has(name)) continue;
+    const snapshot: ProductSnapshot = {
+      rank: typeof product.rank === 'number' ? product.rank : 0,
+      name: name ?? '',
+      price: typeof product.price === 'number' ? product.price : null,
+      rating: typeof product.rating === 'number' ? product.rating : null,
+      reviewCount: typeof product.reviewCount === 'number' ? product.reviewCount : null,
+      rakutenUrl: typeof product.rakutenUrl === 'string' ? product.rakutenUrl : null,
+      imageUrl: typeof product.imageUrl === 'string' ? product.imageUrl : null,
+      capacity: typeof product.capacity === 'string' ? product.capacity : null,
+      pricePerUnit: typeof product.pricePerUnit === 'string' ? product.pricePerUnit : null,
+    };
+    if (skipProduct?.(snapshot)) continue;
     const price = typeof product.price === 'number' ? product.price : null;
     const capacity = typeof product.capacity === 'string' ? product.capacity : null;
     if (price === null || price <= 0 || !capacity) continue;

@@ -19,7 +19,8 @@
 import { readFileSync, writeFileSync, appendFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
 import { spawnSync } from 'child_process';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { applyAiCapacityToContent, buildProcessedAiCapacityFrozenProduct, buildCapacityReviewInputItem, computePendingFinalization, isSameRakutenItemUrl, parseJsonlPreservingRaw } from './lib/ai-capacity.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
@@ -40,6 +41,12 @@ const CHECK_TARGET_COUNT = (() => {
 })();
 const CONCURRENCY = parsePositiveIntArg('--concurrency=', 6, { min: 1, max: 8 });
 const API_INTERVAL_MS = parsePositiveIntArg('--api-interval=', 1000, { min: 0, max: 10000 });
+const CHECKPOINT_MODE = (() => {
+  const raw = process.argv.find(a => a.startsWith('--checkpoint='))?.split('=')[1] ?? 'article';
+  if (raw === 'article' || raw === 'product') return raw;
+  console.error(`❌ --checkpoint の値が不正です: "${raw}"（article / product を指定してください）`);
+  process.exit(1);
+})();
 
 function normalizeArticleFileName(value) {
   return basename(String(value ?? '').replace(/\\/g, '/')).trim();
@@ -117,6 +124,7 @@ function pushChangeLine(lines, label, before, after, type = 'text') {
 
 function buildAfterSnapshot(before, updates) {
   return {
+    rank: before?.rank ?? 0,
     name: updates.newName ?? before?.name ?? '',
     price: updates.price !== null ? updates.price : before?.price ?? null,
     rating: updates.rating !== null ? updates.rating : before?.rating ?? null,
@@ -226,32 +234,18 @@ function shouldReviewCapacity({ method, capacity, capacityAnalysis, oldComparabl
   };
 }
 
-function buildCapacityReviewItem({ file, category, method, beforeSnapshot, data, capacityAnalysis, extractedCap, reviewReasons, action }) {
-  return {
-    articleFile: `src/content/articles/${file}`,
+function buildCapacityReviewItem({ file, category, method, currentSnapshot, data, capacityAnalysis, extractedCap, reviewReasons, action }) {
+  return buildCapacityReviewInputItem({
+    file,
     category,
     method,
-    current: {
-      name: beforeSnapshot?.name ?? '',
-      capacity: beforeSnapshot?.capacity ?? null,
-      pricePerUnit: beforeSnapshot?.pricePerUnit ?? null,
-    },
-    api: {
-      itemName: data.name ?? '',
-      price: data.price ?? null,
-      rating: data.rating ?? null,
-      reviewCount: data.reviewCount ?? null,
-      itemUrl: data.itemUrl ?? null,
-      affiliateUrl: data.affiliateUrl ?? null,
-      imageUrl: data.imageUrl ?? null,
-    },
-    ruleAnalysis: {
-      extractedCapacity: extractedCap,
-      confidence: capacityAnalysis.confidence,
-      reasons: reviewReasons,
-    },
+    currentSnapshot,
+    data,
+    capacityAnalysis,
+    extractedCap,
+    reviewReasons,
     action,
-  };
+  });
 }
 
 function formatCapacityReviewMarkdown(items, today) {
@@ -294,8 +288,29 @@ function writeCapacityReviewReports(items) {
   const mdPath = join(reportsDir, `capacity-review-${today}.md`);
   const jsonlPath = join(reportsDir, `ai-capacity-input-${today}.jsonl`);
   writeFileSync(mdPath, formatCapacityReviewMarkdown(items, today), 'utf-8');
-  writeFileSync(jsonlPath, items.map(item => JSON.stringify(item)).join('\n') + '\n', 'utf-8');
   return { mdPath, jsonlPath };
+}
+
+function appendJsonlIfMissing(filePath, item) {
+  ensureDir(dirname(filePath));
+  const line = JSON.stringify(item);
+  if (existsSync(filePath)) {
+    const current = readFileSync(filePath, 'utf-8')
+      .split(/\r?\n/)
+      .filter(Boolean);
+    if (current.includes(line)) return false;
+  }
+  appendFileSync(filePath, `${line}\n`, 'utf-8');
+  return true;
+}
+
+function appendCapacityReviewItem(item) {
+  const today = todayJst();
+  const legacyPath = resolve(process.cwd(), 'reports', `ai-capacity-input-${today}.jsonl`);
+  const aiPath = resolve(process.cwd(), 'reports/toAI/kura-capacity-ai', `capacity-input-${today}.jsonl`);
+  appendJsonlIfMissing(legacyPath, item);
+  appendJsonlIfMissing(aiPath, item);
+  return { legacyPath, aiPath };
 }
 
 function writeProductMatchReport(items) {
@@ -366,6 +381,22 @@ function appendDeletedProductHistory(items) {
   return DELETED_PRODUCT_HISTORY_PATH;
 }
 
+function saveArticleContent({ filePath, originalContent, content, backupRegistry, historyItems = [] }) {
+  const today = todayJst();
+  const contentToSave = updateUpdatedAt(content, today);
+  if (DRY_RUN) {
+    return { savedContent: contentToSave, saved: false, historyPath: null, today };
+  }
+
+  if (!backupRegistry?.has(filePath)) {
+    writeFileSync(filePath + '.bak', originalContent, 'utf-8');
+    backupRegistry?.add(filePath);
+  }
+  writeFileSync(filePath, contentToSave, 'utf-8');
+  const historyPath = appendDeletedProductHistory(historyItems);
+  return { savedContent: contentToSave, saved: true, historyPath, today };
+}
+
 function buildDeletedProductHistoryItems({ file, category, products, maxRank }) {
   const deletedAt = todayJst();
   return products.map(product => ({
@@ -396,18 +427,10 @@ function isSafeArticleFile(articleFile) {
     || normalizePathForCompare(target).startsWith(normalizePathForCompare(articlesDir) + '/');
 }
 
-function parseJsonlFile(filePath) {
-  const lines = readFileSync(filePath, 'utf-8')
-    .split(/\r?\n/)
-    .map(line => line.trim())
-    .filter(Boolean);
-  return lines.map((line, index) => {
-    try {
-      return { ok: true, lineNo: index + 1, data: JSON.parse(line) };
-    } catch (e) {
-      return { ok: false, lineNo: index + 1, error: e.message };
-    }
-  });
+function isSafeAiCapacityArticleFile(articleFile) {
+  if (!isSafeArticleFile(articleFile)) return false;
+  const normalized = String(articleFile).replace(/\\/g, '/');
+  return /\.(md|mdx)$/.test(normalized) && !/\.bak$/i.test(normalized);
 }
 
 function getAiMatchCurrentName(match) {
@@ -522,6 +545,15 @@ function writeAiMatchReviewReport(reviewItems) {
   return path;
 }
 
+function writeAiMatchFailedReport(failedItems) {
+  if (failedItems.length === 0) return null;
+  const failedDir = resolve(process.cwd(), 'reports/ai-matches/failed');
+  ensureDir(failedDir);
+  const path = join(failedDir, `product-match-failed-${todayJst()}.jsonl`);
+  appendFileSync(path, failedItems.map(item => JSON.stringify(item)).join('\n') + '\n', 'utf-8');
+  return path;
+}
+
 function moveAiMatchFile(filePath, status) {
   const targetDir = resolve(process.cwd(), `reports/ai-matches/${status}`);
   ensureDir(targetDir);
@@ -536,7 +568,7 @@ function moveAiMatchFile(filePath, status) {
   return targetPath;
 }
 
-function applyPendingAiMatches() {
+function applyPendingAiMatches({ backupRegistry = new Set() } = {}) {
   const pendingDir = resolve(process.cwd(), 'reports/ai-matches/pending');
   if (!existsSync(pendingDir)) return { processed: 0, failed: 0, reviews: 0, deletedArticles: new Set() };
 
@@ -553,33 +585,49 @@ function applyPendingAiMatches() {
 
   for (const pendingFile of pendingFiles) {
     console.log(`   apply: ${basename(pendingFile)}`);
-    const parsedLines = parseJsonlFile(pendingFile);
-    let hasFailure = parsedLines.some(line => !line.ok);
+    const parsedLines = parseJsonlPreservingRaw(readFileSync(pendingFile, 'utf-8'));
+    const lineOutcomes = [];
+    const failedItems = [];
     const byArticle = new Map();
 
     for (const line of parsedLines) {
+      if (line.empty) {
+        lineOutcomes.push({ outcome: 'noop', raw: line.raw });
+        continue;
+      }
       if (!line.ok) {
+        failedItems.push({ sourceFile: basename(pendingFile), lineNo: line.lineNo, raw: line.raw, error: line.error });
+        lineOutcomes.push({ outcome: 'failed', raw: line.raw });
         console.log(`      line ${line.lineNo}: JSON parse failed: ${line.error}`);
         continue;
       }
       const match = line.data;
+      if (!match || typeof match !== 'object') {
+        failedItems.push({ sourceFile: basename(pendingFile), lineNo: line.lineNo, raw: line.raw, error: 'line is not an object' });
+        lineOutcomes.push({ outcome: 'failed', raw: line.raw });
+        console.log(`      line ${line.lineNo}: line is not an object`);
+        continue;
+      }
       if (!isSafeArticleFile(match.articleFile)) {
-        hasFailure = true;
+        failedItems.push({ sourceFile: basename(pendingFile), lineNo: line.lineNo, raw: line.raw, error: 'invalid articleFile' });
+        lineOutcomes.push({ outcome: 'failed', raw: line.raw });
         console.log(`      line ${line.lineNo}: invalid articleFile`);
         continue;
       }
       if (!matchesFileFilter(basename(match.articleFile))) {
+        lineOutcomes.push({ outcome: 'pending', raw: line.raw });
         console.log(`      line ${line.lineNo}: skipped by --file`);
         continue;
       }
       const articlePath = resolve(process.cwd(), match.articleFile);
       if (!existsSync(articlePath)) {
-        hasFailure = true;
+        failedItems.push({ sourceFile: basename(pendingFile), lineNo: line.lineNo, raw: line.raw, articleFile: match.articleFile, error: 'article file not found' });
+        lineOutcomes.push({ outcome: 'failed', raw: line.raw });
         console.log(`      line ${line.lineNo}: article file not found`);
         continue;
       }
       const items = byArticle.get(articlePath) ?? [];
-      items.push({ lineNo: line.lineNo, match });
+      items.push({ lineNo: line.lineNo, match, raw: line.raw });
       byArticle.set(articlePath, items);
     }
 
@@ -593,12 +641,20 @@ function applyPendingAiMatches() {
       const reviewItems2 = items
         .filter(i => i.match.action === 'review')
         .sort((a, b) => (b.match.rank ?? 0) - (a.match.rank ?? 0));
-      const orderedItems = [...replaceItems, ...reviewItems2];
+      const otherItems = items.filter(i => i.match.action !== 'replace' && i.match.action !== 'review');
+      const orderedItems = [...replaceItems, ...reviewItems2, ...otherItems];
 
       for (const item of orderedItems) {
         const result = applyAiMatchToContent(content, item.match);
         if (!result.ok) {
-          hasFailure = true;
+          failedItems.push({
+            sourceFile: basename(pendingFile),
+            lineNo: item.lineNo,
+            raw: item.raw,
+            articleFile: item.match.articleFile,
+            error: result.message,
+          });
+          lineOutcomes.push({ outcome: 'failed', raw: item.raw });
           console.log(`      line ${item.lineNo}: ${result.message}`);
           continue;
         }
@@ -633,19 +689,24 @@ function applyPendingAiMatches() {
           } else {
             console.log(`      line ${item.lineNo}: review skipped (${result.message})`);
           }
+          lineOutcomes.push({ outcome: 'processed', raw: item.raw });
           continue;
         }
         content = result.content;
+        lineOutcomes.push({ outcome: 'processed', raw: item.raw });
         console.log(`      line ${item.lineNo}: replace ${result.changed ? 'applied' : 'no change'}`);
       }
 
       if (!DRY_RUN && content !== originalContent) {
-        const today = todayJst();
-        content = updateUpdatedAt(content, today);
-        writeFileSync(articlePath + '.bak', originalContent, 'utf-8');
-        writeFileSync(articlePath, content, 'utf-8');
-        appendDeletedProductHistory(pendingDeletedHistoryItems);
-        console.log(`      saved: ${basename(articlePath)} (updatedAt: ${today})`);
+        const saveResult = saveArticleContent({
+          filePath: articlePath,
+          originalContent,
+          content,
+          backupRegistry,
+          historyItems: pendingDeletedHistoryItems,
+        });
+        content = saveResult.savedContent;
+        console.log(`      saved: ${basename(articlePath)} (updatedAt: ${saveResult.today})`);
       } else if (DRY_RUN && content !== originalContent) {
         console.log(`      [dry-run] would save: ${basename(articlePath)}`);
         if (pendingDeletedHistoryItems.length > 0) {
@@ -654,22 +715,275 @@ function applyPendingAiMatches() {
       }
     }
 
+    const finalization = computePendingFinalization(lineOutcomes);
     if (!DRY_RUN) {
-      const status = hasFailure ? 'failed' : 'processed';
-      const movedTo = moveAiMatchFile(pendingFile, status);
-      console.log(`      moved to ${status}: ${movedTo}`);
+      const failedPath = writeAiMatchFailedReport(failedItems);
+      if (failedPath) console.log(`      failed report: ${failedPath}`);
+      if (finalization.hasPending) {
+        writeFileSync(pendingFile, finalization.pendingText, 'utf-8');
+        console.log(`      pending retained: ${basename(pendingFile)}`);
+      } else {
+        const status = failedItems.length > 0 ? 'failed' : 'processed';
+        const movedTo = moveAiMatchFile(pendingFile, status);
+        console.log(`      moved to ${status}: ${movedTo}`);
+      }
     } else {
-      console.log(`      [dry-run] would move to ${hasFailure ? 'failed' : 'processed'}`);
+      console.log(`      [dry-run] would ${finalization.hasPending ? 'rewrite pending with skipped lines' : `move to ${failedItems.length > 0 ? 'failed' : 'processed'}`}`);
     }
 
-    if (hasFailure) failed++;
-    else processed++;
+    failed += failedItems.length;
+    processed += lineOutcomes.filter(outcome => outcome.outcome === 'processed').length;
   }
 
   const reviewPath = DRY_RUN ? null : writeAiMatchReviewReport(reviewItems);
   if (reviewPath) console.log(`AI match review report: ${reviewPath}`);
   if (DRY_RUN && reviewItems.length > 0) console.log(`AI match review report: [dry-run] ${reviewItems.length} items`);
   return { processed, failed, reviews: reviewItems.length, deletedArticles };
+}
+
+function writeAiCapacityLineReport(status, items) {
+  if (items.length === 0) return null;
+  const dir = resolve(process.cwd(), `reports/ai-capacity/${status}`);
+  ensureDir(dir);
+  const path = join(dir, `capacity-${status}-${todayJst()}.jsonl`);
+  appendFileSync(path, items.map(item => JSON.stringify(item)).join('\n') + '\n', 'utf-8');
+  return path;
+}
+
+function moveAiCapacityFile(filePath, status) {
+  const targetDir = resolve(process.cwd(), `reports/ai-capacity/${status}`);
+  ensureDir(targetDir);
+  let targetPath = join(targetDir, basename(filePath));
+  if (existsSync(targetPath)) {
+    const extIdx = basename(filePath).lastIndexOf('.');
+    const base = extIdx >= 0 ? basename(filePath).slice(0, extIdx) : basename(filePath);
+    const ext = extIdx >= 0 ? basename(filePath).slice(extIdx) : '';
+    targetPath = join(targetDir, `${base}-${Date.now()}${ext}`);
+  }
+  renameSync(filePath, targetPath);
+  return targetPath;
+}
+
+function isAiCapacityFrozen(frozenProducts, { file, rank, name, rakutenUrl }) {
+  if (!Array.isArray(frozenProducts) || frozenProducts.length === 0) return false;
+  const fileName = normalizeArticleFileName(file);
+  const normalizedRank = typeof rank === 'number' ? rank : Number(rank);
+  if (!Number.isFinite(normalizedRank)) return false;
+  return frozenProducts.some(product => {
+    if (normalizeArticleFileName(product.articleFile) !== fileName) return false;
+    if (Number(product.rank) !== normalizedRank) return false;
+    if (product.name !== name) return false;
+    return isSameRakutenItemUrl(product.rakutenUrl, rakutenUrl);
+  });
+}
+
+function getFrozenProductKey(product) {
+  return [
+    normalizeArticleFileName(product.articleFile),
+    product.rank,
+    product.name,
+    product.rakutenUrl ?? '',
+  ].join('\u0001');
+}
+
+function addFrozenProductOnce(products, seen, product) {
+  const key = getFrozenProductKey(product);
+  if (seen.has(key)) return;
+  seen.add(key);
+  products.push(product);
+}
+
+function loadProcessedAiCapacityFrozenProducts() {
+  const processedDir = resolve(process.cwd(), 'reports/ai-capacity/processed');
+  if (!existsSync(processedDir)) return [];
+
+  const processedFiles = readdirSync(processedDir)
+    .filter(file => file.endsWith('.jsonl'))
+    .map(file => join(processedDir, file));
+  if (processedFiles.length === 0) return [];
+
+  const frozenProducts = [];
+  const seen = new Set();
+  const articleContentCache = new Map();
+
+  for (const processedFile of processedFiles) {
+    const parsedLines = parseJsonlPreservingRaw(readFileSync(processedFile, 'utf-8'));
+    for (const line of parsedLines) {
+      if (!line.ok || line.empty || !line.data || typeof line.data !== 'object') continue;
+      const match = line.data;
+      if (!['apply', 'keep', 'clear'].includes(match.decision)) continue;
+      if (!isSafeAiCapacityArticleFile(match.articleFile)) continue;
+      if (!matchesFileFilter(basename(match.articleFile))) continue;
+
+      const articlePath = resolve(process.cwd(), match.articleFile);
+      if (!existsSync(articlePath)) continue;
+      let content = articleContentCache.get(articlePath);
+      if (content == null) {
+        content = readFileSync(articlePath, 'utf-8');
+        articleContentCache.set(articlePath, content);
+      }
+
+      const rank = typeof match.rank === 'number' ? match.rank : Number(match.rank);
+      if (!Number.isFinite(rank)) continue;
+      const currentProduct = extractProductSnapshotByRank(content, rank);
+      const frozenProduct = buildProcessedAiCapacityFrozenProduct(match, currentProduct);
+      if (!frozenProduct) continue;
+
+      addFrozenProductOnce(
+        frozenProducts,
+        seen,
+        frozenProduct
+      );
+    }
+  }
+
+  return frozenProducts;
+}
+
+function applyPendingAiCapacity({ backupRegistry = new Set() } = {}) {
+  const pendingDir = resolve(process.cwd(), 'reports/ai-capacity/pending');
+  const frozenProducts = loadProcessedAiCapacityFrozenProducts();
+  if (!existsSync(pendingDir)) return { processed: 0, failed: 0, reviews: 0, frozenProducts };
+
+  const pendingFiles = readdirSync(pendingDir)
+    .filter(file => file.endsWith('.jsonl'))
+    .map(file => join(pendingDir, file));
+  if (pendingFiles.length === 0) return { processed: 0, failed: 0, reviews: 0, frozenProducts };
+
+  console.log(`\nAI capacity pending files: ${pendingFiles.length}`);
+  const frozenProductKeys = new Set(frozenProducts.map(getFrozenProductKey));
+  let processed = 0;
+  let failed = 0;
+  let reviews = 0;
+
+  for (const pendingFile of pendingFiles) {
+    console.log(`   apply: ${basename(pendingFile)}`);
+    const parsedLines = parseJsonlPreservingRaw(readFileSync(pendingFile, 'utf-8'));
+    const lineOutcomes = [];
+    const processedItems = [];
+    const reviewItems = [];
+    const failedItems = [];
+    const byArticle = new Map();
+
+    for (const line of parsedLines) {
+      if (line.empty) {
+        lineOutcomes.push({ outcome: 'noop', raw: line.raw });
+        continue;
+      }
+      if (!line.ok) {
+        failedItems.push({ sourceFile: basename(pendingFile), lineNo: line.lineNo, raw: line.raw, error: line.error });
+        lineOutcomes.push({ outcome: 'failed', raw: line.raw });
+        console.log(`      line ${line.lineNo}: JSON parse failed: ${line.error}`);
+        continue;
+      }
+      const match = line.data;
+      if (!match || typeof match !== 'object') {
+        failedItems.push({ sourceFile: basename(pendingFile), lineNo: line.lineNo, raw: line.raw, error: 'line is not an object' });
+        lineOutcomes.push({ outcome: 'failed', raw: line.raw });
+        console.log(`      line ${line.lineNo}: line is not an object`);
+        continue;
+      }
+      if (!isSafeAiCapacityArticleFile(match.articleFile)) {
+        failedItems.push({ sourceFile: basename(pendingFile), lineNo: line.lineNo, raw: line.raw, error: 'invalid articleFile' });
+        lineOutcomes.push({ outcome: 'failed', raw: line.raw });
+        console.log(`      line ${line.lineNo}: invalid articleFile`);
+        continue;
+      }
+      if (!matchesFileFilter(basename(match.articleFile))) {
+        lineOutcomes.push({ outcome: 'pending', raw: line.raw });
+        console.log(`      line ${line.lineNo}: skipped by --file`);
+        continue;
+      }
+      const articlePath = resolve(process.cwd(), match.articleFile);
+      if (!existsSync(articlePath)) {
+        failedItems.push({ sourceFile: basename(pendingFile), lineNo: line.lineNo, raw: line.raw, articleFile: match.articleFile, error: 'article file not found' });
+        lineOutcomes.push({ outcome: 'failed', raw: line.raw });
+        console.log(`      line ${line.lineNo}: article file not found`);
+        continue;
+      }
+      const items = byArticle.get(articlePath) ?? [];
+      items.push({ lineNo: line.lineNo, match, raw: line.raw });
+      byArticle.set(articlePath, items);
+    }
+
+    for (const [articlePath, items] of byArticle.entries()) {
+      const originalContent = readFileSync(articlePath, 'utf-8');
+      let content = originalContent;
+      const preferUnit = getArticleTargetUnit(basename(articlePath, '.md'));
+
+      for (const item of items) {
+        const result = applyAiCapacityToContent(content, item.match, preferUnit);
+        const baseRecord = {
+          sourceFile: basename(pendingFile),
+          lineNo: item.lineNo,
+          articleFile: item.match.articleFile,
+          rank: item.match.rank ?? null,
+          decision: item.match.decision ?? null,
+          current: item.match.current ?? null,
+          reason: result.message,
+        };
+        if (!result.ok || result.outcome === 'failed') {
+          failedItems.push({ ...baseRecord, raw: item.raw, error: result.message });
+          lineOutcomes.push({ outcome: 'failed', raw: item.raw });
+          console.log(`      line ${item.lineNo}: failed (${result.message})`);
+          continue;
+        }
+        if (result.outcome === 'review') {
+          reviewItems.push(baseRecord);
+          lineOutcomes.push({ outcome: 'review', raw: item.raw });
+          console.log(`      line ${item.lineNo}: review (${result.message})`);
+          continue;
+        }
+
+        content = result.content;
+        processedItems.push({ ...baseRecord, changed: result.changed });
+        lineOutcomes.push({ outcome: 'processed', raw: item.raw });
+        if (result.frozenProduct) addFrozenProductOnce(frozenProducts, frozenProductKeys, result.frozenProduct);
+        console.log(`      line ${item.lineNo}: ${result.decision} ${result.changed ? 'applied' : 'processed'}`);
+      }
+
+      if (!DRY_RUN && content !== originalContent) {
+        const saveResult = saveArticleContent({
+          filePath: articlePath,
+          originalContent,
+          content,
+          backupRegistry,
+        });
+        content = saveResult.savedContent;
+        console.log(`      saved: ${basename(articlePath)} (updatedAt: ${saveResult.today})`);
+      } else if (DRY_RUN && content !== originalContent) {
+        console.log(`      [dry-run] would save: ${basename(articlePath)}`);
+      }
+    }
+
+    const finalization = computePendingFinalization(lineOutcomes);
+    if (!DRY_RUN) {
+      const processedPath = writeAiCapacityLineReport('processed', processedItems);
+      const reviewPath = writeAiCapacityLineReport('review', reviewItems);
+      const failedPath = writeAiCapacityLineReport('failed', failedItems);
+      if (processedPath) console.log(`      processed report: ${processedPath}`);
+      if (reviewPath) console.log(`      review report: ${reviewPath}`);
+      if (failedPath) console.log(`      failed report: ${failedPath}`);
+      if (finalization.hasPending) {
+        writeFileSync(pendingFile, finalization.pendingText, 'utf-8');
+        console.log(`      pending retained: ${basename(pendingFile)}`);
+      } else {
+        const movedTo = moveAiCapacityFile(pendingFile, 'processed');
+        console.log(`      moved to processed: ${movedTo}`);
+      }
+    } else {
+      console.log(`      [dry-run] would ${finalization.hasPending ? 'rewrite pending with skipped lines' : 'move to processed'}`);
+      if (processedItems.length > 0) console.log(`      [dry-run] capacity processed report: ${processedItems.length} items`);
+      if (reviewItems.length > 0) console.log(`      [dry-run] capacity review report: ${reviewItems.length} items`);
+      if (failedItems.length > 0) console.log(`      [dry-run] capacity failed report: ${failedItems.length} items`);
+    }
+
+    processed += processedItems.length;
+    failed += failedItems.length;
+    reviews += reviewItems.length;
+  }
+
+  return { processed, failed, reviews, frozenProducts };
 }
 
 function loadEnv() {
@@ -2641,7 +2955,7 @@ function createProgressLogger(totalFiles) {
   };
 }
 
-async function processArticle(file, articlesDir, zeroState, progress, index) {
+async function processArticle(file, articlesDir, zeroState, progress, index, { backupRegistry = new Set(), aiCapacityFrozenProducts = [] } = {}) {
   const result = createArticleResult(file);
   const log = (line, { print = true } = {}) => {
     result.logs.push(line);
@@ -2670,8 +2984,29 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
   }
 
   let updatedContent = content;
-  const zeroSearchDeletedHistoryItems = [];
+  let lastSavedContent = content;
+  let zeroSearchDeletedHistoryItems = [];
   const frozenProductNames = new Set();
+
+  const saveArticleCheckpoint = (reason, historyItems = []) => {
+    if (updatedContent === lastSavedContent && historyItems.length === 0) return;
+    if (DRY_RUN) {
+      if (updatedContent !== lastSavedContent) log(`   [dry-run] checkpoint(${reason}) would save`);
+      if (historyItems.length > 0) log(`   [dry-run] checkpoint(${reason}) would record ${historyItems.length} deletion(s)`);
+      return;
+    }
+    const saveResult = saveArticleContent({
+      filePath,
+      originalContent: content,
+      content: updatedContent,
+      backupRegistry,
+      historyItems,
+    });
+    updatedContent = saveResult.savedContent;
+    lastSavedContent = updatedContent;
+    if (saveResult.historyPath) log(`   🧾 削除履歴を記録: ${saveResult.historyPath}`);
+    log(`   💾 checkpoint(${reason}) 保存（updatedAt: ${saveResult.today}）`);
+  };
 
   for (const [productIndex, name] of productNames.entries()) {
     progress?.product(file, index, productIndex, productNames.length, name);
@@ -2708,6 +3043,12 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
 
       log(`   [${shortName}...] ${method}`);
       const beforeSnapshot = extractProductSnapshot(updatedContent, name);
+      const aiCapacityFrozen = isAiCapacityFrozen(aiCapacityFrozenProducts, {
+        file,
+        rank: beforeSnapshot?.rank ?? productIndex + 1,
+        name: beforeSnapshot?.name ?? name,
+        rakutenUrl: beforeSnapshot?.rakutenUrl ?? existingUrl,
+      });
       const capacityNotes = [];
       const extractedCap = data.name ? extractCapacityFromItemName(data.name) : null;
       const capacityAnalysis = data.name ? analyzeCapacityFromItemName(data.name) : {
@@ -2755,7 +3096,12 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
 
       // 機能3: 容量差異の自動修正
       // Item/Get は同一商品確定のため差異があれば即更新、Search は誤ヒット防止のため5%超のみ更新
-      if (data.name) {
+      if (aiCapacityFrozen) {
+        updates.pricePerUnit = capacity && capacity !== '-' && hasKnownApiPrice
+          ? calcPricePerUnit(data.price, capacity, preferUnit)
+          : beforeSnapshot?.pricePerUnit ?? null;
+        capacityNotes.push(`capacity判定: AI capacity確定済みのため同一実行の自動容量修正・review出力をスキップ`);
+      } else if (data.name) {
         if (shouldFreezePriceCapacity) {
           updates.price = null;           // 最安バリアント価格の流入を防ぎ既存 price を保持
           frozenProductNames.add(name);   // 後段 syncPricePerUnitWithPolicy で除外する
@@ -2854,8 +3200,9 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
         proposedComparable: proposedComparable ?? apiComparable,
         shouldFreezePriceCapacity,
       });
+      let capacityReviewAction = null;
 
-      if (capacityReview.needsReview) {
+      if (!aiCapacityFrozen && capacityReview.needsReview) {
         const hadProposedCapacityUpdate = updates.newCapacity != null;
         if (hadProposedCapacityUpdate) {
           delete updates.newCapacity;
@@ -2866,25 +3213,31 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
           : null;
         updates.pricePerUnit = existingCapacityPricePerUnit ?? beforeSnapshot?.pricePerUnit ?? null;
 
-        const action = hadProposedCapacityUpdate
+        capacityReviewAction = hadProposedCapacityUpdate
           ? 'blocked capacity auto-update; kept existing capacity'
           : 'kept existing capacity; review recommended';
-        capacityNotes.push(`capacity safety: ${action}`);
+        capacityNotes.push(`capacity safety: ${capacityReviewAction}`);
         capacityReview.reasons.forEach(reason => capacityNotes.push(`capacity review: ${reason}`));
-        result.capacityReviewItems.push(buildCapacityReviewItem({
+      }
+
+      const afterSnapshot = buildAfterSnapshot(beforeSnapshot, updates);
+
+      if (!aiCapacityFrozen && capacityReview.needsReview) {
+        const reviewItem = buildCapacityReviewItem({
           file,
           category: articleCategory,
           method,
-          beforeSnapshot,
+          currentSnapshot: afterSnapshot,
           data,
           capacityAnalysis,
           extractedCap,
           reviewReasons: capacityReview.reasons,
-          action,
-        }));
+          action: capacityReviewAction ?? 'kept existing capacity; review recommended',
+        });
+        result.capacityReviewItems.push(reviewItem);
+        appendCapacityReviewItem(reviewItem);
       }
 
-      const afterSnapshot = buildAfterSnapshot(beforeSnapshot, updates);
       const changed = [
         ['name', beforeSnapshot?.name, afterSnapshot.name],
         ['price', beforeSnapshot?.price, afterSnapshot.price],
@@ -2953,6 +3306,9 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
       }
       result.stats.success++;
       zeroState.count = 0; // 成功したらリセット
+      if (CHECKPOINT_MODE === 'product') {
+        saveArticleCheckpoint(`product ${productIndex + 1}`);
+      }
     } catch (e) {
       const errorMessage = e instanceof Error ? e.message : String(e ?? '');
       let queuedProductMatch = false;
@@ -3036,11 +3392,23 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
       }
       result.stats.failed++;
       result.stats.fail++;
+      if (CHECKPOINT_MODE === 'product' && (updatedContent !== lastSavedContent || zeroSearchDeletedHistoryItems.length > 0)) {
+        saveArticleCheckpoint(`product ${productIndex + 1} error`, zeroSearchDeletedHistoryItems);
+        zeroSearchDeletedHistoryItems = [];
+      }
     }
   }
 
   // 機能0: pricePerUnit を price+capacity+単位ポリシーから同期（スキップ商品の単位ズレも補正）
-  const ppuSyncResult = syncPricePerUnitWithPolicy(updatedContent, preferUnit, frozenProductNames);
+  const ppuSyncResult = syncPricePerUnitWithPolicy(updatedContent, preferUnit, {
+    skipNames: frozenProductNames,
+    skipProduct: product => isAiCapacityFrozen(aiCapacityFrozenProducts, {
+      file,
+      rank: product.rank,
+      name: product.name,
+      rakutenUrl: product.rakutenUrl,
+    }),
+  });
   if (ppuSyncResult.changed) {
     updatedContent = ppuSyncResult.content;
     ppuSyncResult.log.forEach(l => log(`   💱 ${l}`));
@@ -3089,19 +3457,23 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
     nameCapResult.log.forEach(l => log(`   🔧 ${l}`));
   }
 
-  if (!DRY_RUN && updatedContent !== content) {
-    // updatedAt を当日の JST 日付で更新（sv ロケールは YYYY-MM-DD 形式）
-    const today = new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Tokyo' }).format(new Date());
-    updatedContent = updateUpdatedAt(updatedContent, today);
-    // バックアップ作成（元ファイルを保存）
-    writeFileSync(filePath + '.bak', content, 'utf-8');
-    // ファイル更新
-    writeFileSync(filePath, updatedContent, 'utf-8');
-    const historyPath = appendDeletedProductHistory([...zeroSearchDeletedHistoryItems, ...rankLimitDeletedHistoryItems]);
-    if (historyPath) {
-      log(`   🧾 削除履歴を記録: ${historyPath}`);
+  const finalHistoryItems = [...zeroSearchDeletedHistoryItems, ...rankLimitDeletedHistoryItems];
+  if (!DRY_RUN && (updatedContent !== lastSavedContent || finalHistoryItems.length > 0)) {
+    const saveResult = saveArticleContent({
+      filePath,
+      originalContent: content,
+      content: updatedContent,
+      backupRegistry,
+      historyItems: finalHistoryItems,
+    });
+    updatedContent = saveResult.savedContent;
+    lastSavedContent = updatedContent;
+    if (saveResult.historyPath) {
+      log(`   🧾 削除履歴を記録: ${saveResult.historyPath}`);
     }
-    log(`   💾 更新完了（updatedAt: ${today}、バックアップ: ${basename(filePath)}.bak）`);
+    log(`   💾 更新完了（updatedAt: ${saveResult.today}、バックアップ: ${basename(filePath)}.bak）`);
+  } else if (DRY_RUN && updatedContent !== content) {
+    log(`   💾 [dry-run] 更新予定`);
   }
   log(`   📊 記事集計: 更新 ${result.stats.changed}件 / 変更なし ${result.stats.unchanged}件 / capacity修正 ${result.stats.capacityChanged}件 / capacity取得不可 ${result.stats.capacityMissing}件 / 削除 ${result.stats.deleted}件 / 失敗 ${result.stats.failed}件`);
   progress?.finishArticle(file, index, `更新 ${result.stats.changed} / 変更なし ${result.stats.unchanged} / 失敗 ${result.stats.failed}`);
@@ -3111,9 +3483,14 @@ async function processArticle(file, articlesDir, zeroState, progress, index) {
 
 // ─── メイン処理 ────────────────────────────────────────────────────────────
 async function main() {
-  const aiMatchResult = applyPendingAiMatches();
+  const backupRegistry = new Set();
+  const aiMatchResult = applyPendingAiMatches({ backupRegistry });
   if (aiMatchResult.processed || aiMatchResult.failed || aiMatchResult.reviews) {
     console.log(`AI match summary: processed ${aiMatchResult.processed}, failed ${aiMatchResult.failed}, review ${aiMatchResult.reviews}`);
+  }
+  const aiCapacityResult = applyPendingAiCapacity({ backupRegistry });
+  if (aiCapacityResult.processed || aiCapacityResult.failed || aiCapacityResult.reviews) {
+    console.log(`AI capacity summary: processed ${aiCapacityResult.processed}, failed ${aiCapacityResult.failed}, review ${aiCapacityResult.reviews}`);
   }
 
   const articlesDir = resolve(process.cwd(), 'src/content/articles');
@@ -3127,7 +3504,10 @@ async function main() {
 
   const zeroState = { count: 0 };
   const progress = createProgressLogger(files.length);
-  const articleResults = await asyncPool(files, CONCURRENCY, (file, index) => processArticle(file, articlesDir, zeroState, progress, index));
+  const articleResults = await asyncPool(files, CONCURRENCY, (file, index) => processArticle(file, articlesDir, zeroState, progress, index, {
+    backupRegistry,
+    aiCapacityFrozenProducts: aiCapacityResult.frozenProducts,
+  }));
 
   const totals = articleResults.reduce((acc, result) => {
     acc.success += result.stats.success;

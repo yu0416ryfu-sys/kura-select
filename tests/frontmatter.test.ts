@@ -4,6 +4,8 @@ import {
   buildSearchKeyword,
   updateProductInFrontmatter,
   extractProductSnapshot,
+  extractProductSnapshotByRank,
+  updateProductInFrontmatterByRank,
   extractProductCapacity,
   extractProductRakutenUrl,
   extractCapacityTotal,
@@ -294,6 +296,7 @@ body
 `;
 
     expect(extractProductSnapshot(content, "Alpha")).toEqual({
+      rank: 0,
       name: "Alpha",
       price: 1200,
       rating: 4.5,
@@ -307,6 +310,82 @@ body
 
   it("returns null for a missing product", () => {
     expect(extractProductSnapshot(SAMPLE_FRONTMATTER, "Missing")).toBeNull();
+  });
+});
+
+describe("extractProductSnapshotByRank / updateProductInFrontmatterByRank", () => {
+  const duplicateNameContent = `---
+title: "Sample"
+products:
+  - rank: 1
+    name: "Same"
+    price: 100
+    capacity: "10mL"
+    pricePerUnit: "約10円/mL"
+    rakutenUrl: "https://item.rakuten.co.jp/shop/a/"
+  - rank: 2
+    name: "Same"
+    price: 200
+    capacity: "20mL"
+    pricePerUnit: "約10円/mL"
+    rakutenUrl: "https://item.rakuten.co.jp/shop/b/"
+---
+body
+`;
+
+  it("rank で商品 snapshot を取得する", () => {
+    expect(extractProductSnapshotByRank(duplicateNameContent, 2)).toMatchObject({
+      rank: 2,
+      name: "Same",
+      price: 200,
+      capacity: "20mL",
+      rakutenUrl: "https://item.rakuten.co.jp/shop/b/",
+    });
+  });
+
+  it("rank と expected が一致する商品だけを更新する", () => {
+    const result = updateProductInFrontmatterByRank(
+      duplicateNameContent,
+      2,
+      {
+        price: null,
+        rating: null,
+        reviewCount: null,
+        affiliateUrl: null,
+        imageUrl: null,
+        newCapacity: "40mL",
+        pricePerUnit: "約5円/mL",
+      },
+      {
+        name: "Same",
+        capacity: "20mL",
+        price: 200,
+        rakutenUrl: "https://item.rakuten.co.jp/shop/b/",
+      }
+    );
+
+    expect(result.changed).toBe(true);
+    expect(extractProductSnapshotByRank(result.content, 1)?.capacity).toBe("10mL");
+    expect(extractProductSnapshotByRank(result.content, 2)?.capacity).toBe("40mL");
+  });
+
+  it("expected が一致しない場合は更新しない", () => {
+    const result = updateProductInFrontmatterByRank(
+      duplicateNameContent,
+      2,
+      {
+        price: null,
+        rating: null,
+        reviewCount: null,
+        affiliateUrl: null,
+        imageUrl: null,
+        newCapacity: "40mL",
+      },
+      { name: "Same", capacity: "999mL" }
+    );
+
+    expect(result.changed).toBe(false);
+    expect(result.content).toBe(duplicateNameContent);
   });
 });
 
@@ -796,6 +875,45 @@ describe("syncPricePerUnitWithPolicy skipNames", () => {
   it("skipNames を渡さなければ従来どおり同期する（後方互換）", () => {
     const result = syncPricePerUnitWithPolicy(md);
     expect(typeof result.changed).toBe("boolean");
+  });
+
+  it("skipProduct predicate は rank / URL 単位で除外する", () => {
+    const twoProducts = [
+      "---",
+      "products:",
+      "  - rank: 1",
+      "    name: \"同名商品\"",
+      "    price: 1000",
+      "    capacity: \"100mL\"",
+      "    pricePerUnit: \"古い\"",
+      "    rakutenUrl: \"https://item.rakuten.co.jp/shop/a/\"",
+      "  - rank: 2",
+      "    name: \"同名商品\"",
+      "    price: 2000",
+      "    capacity: \"100mL\"",
+      "    pricePerUnit: \"古い\"",
+      "    rakutenUrl: \"https://item.rakuten.co.jp/shop/b/\"",
+      "---",
+      "本文",
+    ].join("\n");
+
+    const result = syncPricePerUnitWithPolicy(twoProducts, "mL", {
+      skipProduct: product => product.rank === 1 && product.rakutenUrl === "https://item.rakuten.co.jp/shop/a/",
+    });
+
+    expect(result.changed).toBe(true);
+    expect(extractProductSnapshotByRank(result.content, 1)?.pricePerUnit).toBe("古い");
+    expect(extractProductSnapshotByRank(result.content, 2)?.pricePerUnit).toBe("約20円/mL");
+  });
+
+  it("capacity と pricePerUnit が \"-\" の商品を壊さない", () => {
+    const clearContent = md
+      .replace('capacity: "100m×60ロール"', 'capacity: "-"')
+      .replace('pricePerUnit: "約0.59円/m"', 'pricePerUnit: "-"');
+    const result = syncPricePerUnitWithPolicy(clearContent);
+    expect(result.changed).toBe(false);
+    expect(result.content).toContain('capacity: "-"');
+    expect(result.content).toContain('pricePerUnit: "-"');
   });
 });
 
