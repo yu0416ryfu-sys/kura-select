@@ -14,7 +14,9 @@ export const MULTIPLY_RE_CHAR_CLASS = '×xX*＊';
 
 // 容量の数値部分パターン。整数（カンマ区切り可）に加え、"5.26" のような小数も許容する。
 // 乗数側（×N本 など）はこのパターンを使わず整数のまま扱う。
-const CAPACITY_NUMBER_PATTERN = '[\\d,]+(?:\\.\\d+)?';
+// 商品名からの容量抽出（scripts/lib/frontmatter.ts）でも共有し、
+// "3.8L" を "8L" と部分抽出するバグを防ぐ。
+export const CAPACITY_NUMBER_PATTERN = '[\\d,]+(?:\\.\\d+)?';
 
 // 容量数値文字列を数値へ変換する（カンマ除去 + 小数対応）
 function parseCapacityNumber(value: string): number {
