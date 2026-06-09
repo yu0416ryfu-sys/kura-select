@@ -808,6 +808,32 @@ describe("extractCapacityFromItemName", () => {
     expect(capacity).toBe("50m");
     expect(extractCapacityTotal(capacity ?? "")).toEqual({ total: 50, unit: "m" });
   });
+
+  it("ニキビパッチの粒表記を枚数として抽出する", () => {
+    const capacity = extractCapacityFromItemName(
+      "【5個】 VT PRO CICA CLEAR SPOT PATCH 48粒 【正規品】"
+    );
+
+    expect(capacity).toBe("48枚×5個");
+    expect(extractCapacityTotal(capacity ?? "")).toEqual({ total: 240, unit: "枚" });
+  });
+
+  it("ヘアキャッチャーのmmサイズを容量として抽出しない", () => {
+    expect(
+      extractCapacityFromItemName(
+        "置くだけ 抗菌 ヘアキャッチャー 102mm 用 ユニットバス用"
+      )
+    ).toBeNull();
+  });
+
+  it("防カビくん煙剤は内容量gより販売個数を優先する", () => {
+    const capacity = extractCapacityFromItemName(
+      "ルックプラス おふろの防カビくん煙剤 フローラルの香り(4g×3個入*2セット)"
+    );
+
+    expect(capacity).toBe("3個×2セット");
+    expect(extractCapacityTotal(capacity ?? "")).toEqual({ total: 6, unit: "個" });
+  });
 });
 
 describe("isMultiMeasureVariantItemName", () => {
@@ -933,6 +959,28 @@ describe("analyzeCapacityFromItemName garbage-bag cases", () => {
     );
     expect(result.capacity).toBe("300枚");
     expect(result.normalizedTotal).toEqual({ total: 300, unit: "枚" });
+    expect(result.confidence).toBe("high");
+  });
+});
+
+describe("analyzeCapacityFromItemName capacity review cases", () => {
+  it("ニキビパッチの粒表記を複数候補扱いにしない", () => {
+    const result = analyzeCapacityFromItemName(
+      "【ニキビパッチ】 VT PRO CICA CLEAR SPOT PATCH 48粒 【正規品】"
+    );
+
+    expect(result.capacity).toBe("48枚");
+    expect(result.normalizedTotal).toEqual({ total: 48, unit: "枚" });
+    expect(result.confidence).toBe("high");
+  });
+
+  it("防カビくん煙剤のg表記を複数候補扱いにしない", () => {
+    const result = analyzeCapacityFromItemName(
+      "ルックプラス おふろの防カビくん煙剤 フローラルの香り 4g×3個入"
+    );
+
+    expect(result.capacity).toBe("3個");
+    expect(result.normalizedTotal).toEqual({ total: 3, unit: "個" });
     expect(result.confidence).toBe("high");
   });
 });

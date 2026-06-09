@@ -12,7 +12,7 @@ products:
     brand: "タオルの森"
     price: 890
     capacity: "40×60cm 1枚"
-    pricePerUnit: "約0.41円/m"
+    pricePerUnit: "約890円/枚"
     rating: 4.43
     reviewCount: 2610
     features:
@@ -41,11 +41,116 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/taorunomori_10001288"
         available: true
   - rank: 2
+    name: "バスマット マイクロファイバー"
+    brand: "Inbloom"
+    price: 980
+    capacity: "40×60cm / 50×80cm 1枚"
+    pricePerUnit: "約980円/枚"
+    rating: 4.37
+    reviewCount: 986
+    features:
+      - "マイクロファイバーとポリエステル混合"
+      - "抗菌・防臭加工で清潔さを保つ"
+      - "ふわふわの柔らかい肌触り"
+      - "速乾性に優れた設計"
+    pros:
+      - "抗菌・防臭機能で衛生面が強い"
+      - "ふわふわの触り心地が気持ちいい"
+      - "リーズナブルな価格帯"
+      - "丸洗い可能"
+    cons:
+      - "化学繊維なので肌が敏感な人は注意が必要"
+      - "サイズ選択が必要"
+    recommendedFor: "抗菌・防臭機能を重視する人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r9znn.3rdw6e57.g00r9znn.3rdw7ba2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgossipstar%2Fbm1187%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgossipstar%2Fi%2F10011710%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gossipstar/cabinet/pop/bm1187-pop-.jpg?_ex=128x128"
+  - rank: 3
+    name: "珪藻土ソフトバスマット 1枚"
+    brand: "★一部即納★珪藻土バスマット"
+    price: 1000
+    capacity: "1枚"
+    pricePerUnit: "約1000円/枚"
+    rating: 4.45
+    reviewCount: 2244
+    features:
+      - "吸水・速乾性を重視したバスマット"
+      - "浴室前や洗面所に置きやすい形状"
+      - "洗えるタイプや珪藻土系など用途別に選びやすい"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u844n.3rdw67d7.g00u844n.3rdw7e12/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyosuzu%2Fbasumato2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyosuzu%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yosuzu/cabinet/09065303/10102.jpg?_ex=128x128"
+  - rank: 4
+    name: "バスマット タオル地 45×65cm"
+    brand: "布団と寝具専門店 COLORS"
+    price: 1000
+    capacity: "45×65cm 1枚"
+    pricePerUnit: "約1000円/枚"
+    rating: 4.39
+    reviewCount: 1331
+    features:
+      - "綿100%で肌に優しい"
+      - "パイル生地で吸水性に優れた設計"
+      - "ジャガード無地で高級感がある"
+      - "洗濯で繰り返し使える"
+    pros:
+      - "綿100%で敏感肌の人にも安心"
+      - "従来的なバスマットの使用感を求める人向け"
+      - "パイル生地で厚みがある"
+      - "洗濯機対応で手入れが簡単"
+    cons:
+      - "サイズが45×65cmで限定的"
+      - "吸水性では最新素材に劣る可能性"
+    recommendedFor: "綿素材にこだわる人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s6grn.3rdw65cd.g00s6grn.3rdw7bff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuton-colors%2Fa979%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuton-colors%2Fi%2F10000407%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/futon-colors/images/shohin/a979.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffutoncolors%2Fa979.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-01"
+        price: 1100
+        rating: 4.24
+        reviewCount: 438
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/futoncolors_a979"
+        available: true
+  - rank: 5
+    name: "バスマット 速乾 洗える【1秒吸収】"
+    brand: "Latuna"
+    price: 1690
+    capacity: "40×60cm / 50×80cm 1枚"
+    pricePerUnit: "約1690円/枚"
+    rating: 4.65
+    reviewCount: 3208
+    features:
+      - "マイクロファイバー素材で高速吸水"
+      - "厚手設計で足裏にフィット"
+      - "抗菌加工で衛生的"
+      - "足拭きマット兼用可能"
+    pros:
+      - "1秒吸収の高速吸水性が優れている"
+      - "耐久性が高く長く使える"
+      - "滑り止め機能で安全性も考慮"
+      - "丸洗い可能でお手入れが簡単"
+    cons:
+      - "サイズ選択が必要"
+      - "マイクロファイバーなので好みが分かれる"
+    recommendedFor: "吸水性を最優先したい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnrsn.3rdw6089.g00tnrsn.3rdw78e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flatuna%2F10000010-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flatuna%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/latuna/cabinet/items/bathmat/imgrc0161877803.jpg?_ex=128x128"
+  - rank: 6
     name: "今治タオル レオン バスマット"
     brand: "今治タオル"
     price: 1800
     capacity: "42×67cm 1枚"
-    pricePerUnit: "約0.64円/m"
+    pricePerUnit: "約1800円/枚"
     rating: 4.61
     reviewCount: 2084
     features:
@@ -73,12 +178,12 @@ products:
         reviewCount: 281
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/broome_0215-0212-0101"
         available: true
-  - rank: 3
+  - rank: 7
     name: "乾度良好 Dナチュレ バスマット"
     brand: "乾度良好"
     price: 4400
     capacity: "50×80cm 1枚"
-    pricePerUnit: "約1.1円/m"
+    pricePerUnit: "約4400円/枚"
     rating: 4.65
     reviewCount: 1228
     features:
@@ -106,29 +211,7 @@ products:
         reviewCount: 302
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/m-rug_712421510"
         available: true
-  - rank: 4
-    name: "珪藻土ソフトバスマット 1枚"
-    brand: "★一部即納★珪藻土バスマット"
-    price: 1000
-    capacity: "1枚"
-    pricePerUnit: "約1000円/枚"
-    rating: 4.45
-    reviewCount: 2244
-    features:
-      - "吸水・速乾性を重視したバスマット"
-      - "浴室前や洗面所に置きやすい形状"
-      - "洗えるタイプや珪藻土系など用途別に選びやすい"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u844n.3rdw67d7.g00u844n.3rdw7e12/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyosuzu%2Fbasumato2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyosuzu%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yosuzu/cabinet/09065303/10102.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 8
     name: "なのらぼ足快バスマット"
     brand: "なのらぼ"
     price: 7480
@@ -150,7 +233,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn4on.3rdw6e6d.g00qn4on.3rdw7c3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamayuu%2Fubs-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamayuu%2Fi%2F10001621%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamayuu/cabinet/01023319/bathgoods/10648094/ubs-1-thum01.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 9
     name: "soil バスマット ライト"
     brand: "soil"
     price: 9900
@@ -183,89 +266,6 @@ products:
         available: true
         rating: 4.73
         reviewCount: 52
-  - rank: 7
-    name: "バスマット 速乾 洗える【1秒吸収】"
-    brand: "Latuna"
-    price: 1690
-    capacity: "40×60cm / 50×80cm"
-    pricePerUnit: "円/枚"
-    rating: 4.65
-    reviewCount: 3208
-    features:
-      - "マイクロファイバー素材で高速吸水"
-      - "厚手設計で足裏にフィット"
-      - "抗菌加工で衛生的"
-      - "足拭きマット兼用可能"
-    pros:
-      - "1秒吸収の高速吸水性が優れている"
-      - "耐久性が高く長く使える"
-      - "滑り止め機能で安全性も考慮"
-      - "丸洗い可能でお手入れが簡単"
-    cons:
-      - "サイズ選択が必要"
-      - "マイクロファイバーなので好みが分かれる"
-    recommendedFor: "吸水性を最優先したい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnrsn.3rdw6089.g00tnrsn.3rdw78e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flatuna%2F10000010-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flatuna%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/latuna/cabinet/items/bathmat/imgrc0161877803.jpg?_ex=128x128"
-  - rank: 8
-    name: "バスマット マイクロファイバー"
-    brand: "Inbloom"
-    price: 980
-    capacity: "40×60cm / 50×80cm"
-    pricePerUnit: "円/枚"
-    rating: 4.37
-    reviewCount: 986
-    features:
-      - "マイクロファイバーとポリエステル混合"
-      - "抗菌・防臭加工で清潔さを保つ"
-      - "ふわふわの柔らかい肌触り"
-      - "速乾性に優れた設計"
-    pros:
-      - "抗菌・防臭機能で衛生面が強い"
-      - "ふわふわの触り心地が気持ちいい"
-      - "リーズナブルな価格帯"
-      - "丸洗い可能"
-    cons:
-      - "化学繊維なので肌が敏感な人は注意が必要"
-      - "サイズ選択が必要"
-    recommendedFor: "抗菌・防臭機能を重視する人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r9znn.3rdw6e57.g00r9znn.3rdw7ba2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgossipstar%2Fbm1187%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgossipstar%2Fi%2F10011710%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gossipstar/cabinet/pop/bm1187-pop-.jpg?_ex=128x128"
-  - rank: 9
-    name: "バスマット タオル地 45×65cm"
-    brand: "布団と寝具専門店 COLORS"
-    price: 1000
-    capacity: "45×65cm 1枚"
-    pricePerUnit: "円/枚"
-    rating: 4.39
-    reviewCount: 1331
-    features:
-      - "綿100%で肌に優しい"
-      - "パイル生地で吸水性に優れた設計"
-      - "ジャガード無地で高級感がある"
-      - "洗濯で繰り返し使える"
-    pros:
-      - "綿100%で敏感肌の人にも安心"
-      - "従来的なバスマットの使用感を求める人向け"
-      - "パイル生地で厚みがある"
-      - "洗濯機対応で手入れが簡単"
-    cons:
-      - "サイズが45×65cmで限定的"
-      - "吸水性では最新素材に劣る可能性"
-    recommendedFor: "綿素材にこだわる人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s6grn.3rdw65cd.g00s6grn.3rdw7bff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuton-colors%2Fa979%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuton-colors%2Fi%2F10000407%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/futon-colors/images/shohin/a979.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffutoncolors%2Fa979.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-01"
-        price: 1100
-        rating: 4.24
-        reviewCount: 438
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/futoncolors_a979"
-        available: true
   - rank: 10
     name: "Mirx プレミアムバスマット 珪藻土 吸水2.5倍"
     brand: "Mirx"

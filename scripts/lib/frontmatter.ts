@@ -466,8 +466,57 @@ function collapseRedundantPackBreakdown(chain: string): string {
   return chain;
 }
 
+function normalizeItemNameForCapacityExtraction(itemName: string): string {
+  let normalized = normalizeItemName(itemName);
+
+  // 商品型番・サイズ表記は単価計算用の容量ではない。
+  normalized = normalized
+    .replace(/\d[\d,]*(?:\.\d+)?\s*mm\b/gi, '')
+    .replace(/\d[\d,]*(?:\.\d+)?\s*[×xX*＊]\s*\d[\d,]*(?:\.\d+)?\s*cm\b/gi, '');
+
+  // ニキビパッチでは「粒」がシート上のパッチ枚数として使われるため、記事側の「枚」と揃える。
+  if (/パッチ|patch/i.test(normalized)) {
+    normalized = normalized.replace(/(\d[\d,]*)\s*粒/g, '$1枚');
+  }
+
+  return normalized.trim();
+}
+
+function extractSalesQuantityCapacityFromItemName(itemName: string): string | null {
+  const normalized = normalizeItemName(itemName);
+  const parenSetM = normalized.match(/[（(][^）)]*?(\d[\d,]*)\s*個(?:入)?\s*[×xX*＊]\s*(\d[\d,]*)\s*セット[^）)]*[）)]/);
+  if (parenSetM) {
+    return `${parenSetM[1]}個×${parenSetM[2]}セット`;
+  }
+
+  const packSetM = normalized.match(/(\d[\d,]*)\s*個\s*パック\s*[×xX*＊]\s*(\d[\d,]*)\s*セット/);
+  if (packSetM) {
+    return `${packSetM[1]}個×${packSetM[2]}セット`;
+  }
+
+  const packParenSetM = normalized.match(/(\d[\d,]*)\s*個\s*パック\s*[（(]\s*(\d[\d,]*)\s*セット\s*[）)]/);
+  if (packParenSetM) {
+    return `${packParenSetM[1]}個×${packParenSetM[2]}セット`;
+  }
+
+  const countPackM = normalized.match(/(\d[\d,]*)\s*個\s*(?:入|パック|セット)/);
+  if (countPackM) {
+    return `${countPackM[1]}個`;
+  }
+
+  return null;
+}
+
+function shouldPreferSalesQuantityOverMeasure(itemName: string): boolean {
+  return /防カビくん煙剤|お風呂カビーヌ|風呂釜クリーナー/.test(normalizeItemName(itemName));
+}
+
 export function extractCapacityFromItemName(itemName: string): string | null {
-  itemName = normalizeItemName(itemName);
+  itemName = normalizeItemNameForCapacityExtraction(itemName);
+  if (shouldPreferSalesQuantityOverMeasure(itemName)) {
+    const salesQuantity = extractSalesQuantityCapacityFromItemName(itemName);
+    if (salesQuantity) return salesQuantity;
+  }
   // 体重上限表記（「5kgまで」「3000gまで」「〜5000g」）を除去して容量誤抽出を防ぐ
   // 例: "5kgまで72枚入" → "72枚入" / "お誕生〜3000g 紙おむつ" → "紙おむつ"
   itemName = itemName
@@ -697,7 +746,7 @@ const AMBIGUOUS_CAPACITY_TERMS = [
 ];
 
 function getCapacityCandidateTotals(itemName: string): Array<{ raw: string; total: { total: number; unit: string }; normalizedTotal: { total: number; unit: string } | null }> {
-  const normalized = normalizeItemName(itemName);
+  const normalized = normalizeItemNameForCapacityExtraction(itemName);
   const re = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS}|${PACK_UNITS})`, 'gi');
   return [...normalized.matchAll(re)]
     .map(match => {
@@ -710,7 +759,7 @@ function getCapacityCandidateTotals(itemName: string): Array<{ raw: string; tota
 }
 
 function hasExplicitBracketTotalWithBreakdown(itemName: string): boolean {
-  const normalized = normalizeItemName(itemName);
+  const normalized = normalizeItemNameForCapacityExtraction(itemName);
   return new RegExp(`[（(][^）)]*?[\\d,]+\\s*(${CAPACITY_UNITS})\\s*[：:][^）)]*[）)]`).test(normalized);
 }
 
@@ -719,7 +768,7 @@ function isMeasureUnit(unit: string): boolean {
 }
 
 export function analyzeCapacityFromItemName(itemName: string): CapacityAnalysis {
-  const normalizedName = normalizeItemName(itemName);
+  const normalizedName = normalizeItemNameForCapacityExtraction(itemName);
   const capacity = extractCapacityFromItemName(normalizedName);
   const total = capacity ? extractCapacityTotal(capacity) : null;
   const normalizedTotal = normalizeCapacityTotal(total);

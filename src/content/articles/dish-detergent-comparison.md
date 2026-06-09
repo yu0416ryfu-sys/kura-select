@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりで比較。ジョイ、キュキュ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-06-08"
+updatedAt: 2026-06-09
 products:
   - rank: 1
     name: "ライオン CHARMY Magica 除菌＋ プロフェッショナル 無香料 ハーバ"
@@ -100,8 +100,8 @@ products:
     price: 2680
     capacity: "4L"
     pricePerUnit: "約670円/L"
-    rating: 4.8
-    reviewCount: 46
+    rating: 4.81
+    reviewCount: 47
     features:
       - "コンパクト処方で少量でもよく落ちる"
       - "食洗機非対応・手洗い専用設計"
