@@ -148,7 +148,27 @@ export function calcPricePerUnit(price: number, capacity: string, targetUnit?: s
 export const ARTICLE_UNIT_POLICY: Record<string, string> = {
   'fabric-softener-comparison': 'mL',
   'laundry-detergent-comparison': 'g',
+  // 液体系（L/mL・大文字小文字の混在を mL に統一）
   'dish-detergent-comparison': 'mL',
+  'hand-soap-comparison': 'mL',
+  'sanitizing-spray-comparison': 'mL',
+  'insect-repellent-comparison': 'mL',
+  'fabric-deodorizer-comparison': 'mL',
+  'sensitive-softener-comparison': 'mL',
+  // 粉末・重量系（kg を g に統一）
+  'dishwasher-detergent-comparison': 'g',
+  // 主たる次元を統一（変換不能な別形態＝個/本/別次元は元表記を保持）
+  'shampoo-comparison': 'mL',
+  'moisture-absorber-comparison': 'mL',
+  'conditioner-comparison': 'mL',
+  'body-lotion-comparison': 'mL',
+  'bathroom-cleaner-comparison': 'mL',
+  'cat-food-comparison': 'g',
+  'body-soap-comparison': 'g',
+  'kitchen-bleach-comparison': 'g',
+  'laundry-bleach-comparison': 'g',
+  'room-dry-detergent-comparison': 'g',
+  'washing-machine-cleaner-comparison': 'g',
   // ティッシュは枚・組が混在するため「組」（=1回の取り出し）に統一する。
   // 箱ティッシュの「枚」表記は calcPricePerUnit が 1組=2枚 で組換算する。
   'tissue-paper-comparison': '組',
