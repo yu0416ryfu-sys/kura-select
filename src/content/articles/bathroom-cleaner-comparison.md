@@ -11,7 +11,7 @@ products:
     brand: "ライオン"
     price: 117
     capacity: "350ml"
-    pricePerUnit: "約0.33円/ml"
+    pricePerUnit: "約0.33円/mL"
     rating: 5
     reviewCount: 1
     features:
@@ -110,7 +110,7 @@ products:
     brand: "リンレイ"
     price: 1256
     capacity: "500ml×3点"
-    pricePerUnit: "約0.84円/ml"
+    pricePerUnit: "約0.84円/mL"
     rating: 5
     reviewCount: 3
     features:
@@ -132,7 +132,7 @@ products:
     brand: "東邦（ウタマロ）"
     price: 470
     capacity: "400ml"
-    pricePerUnit: "約1.2円/ml"
+    pricePerUnit: "約1.2円/mL"
     rating: 4.74
     reviewCount: 125
     features:
@@ -165,7 +165,7 @@ products:
     brand: "おそうじキレイ"
     price: 2999
     capacity: "2L"
-    pricePerUnit: "約1500円/L"
+    pricePerUnit: "約1.5円/mL"
     rating: 4.62
     reviewCount: 110
     features:

@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: 2026-06-09
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ"

@@ -4,14 +4,14 @@ description: "キッチン用漂白剤を1mLあたりのコストで徹底比較
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: 2026-06-09
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"
     brand: "花王（ハイター）"
     price: 3850
     capacity: "5kg×3本"
-    pricePerUnit: "約257円/kg"
+    pricePerUnit: "約0.26円/g"
     rating: 4.86
     reviewCount: 97
     features:
@@ -44,7 +44,7 @@ products:
     brand: "ライオン"
     price: 1478
     capacity: "5kg"
-    pricePerUnit: "約296円/kg"
+    pricePerUnit: "約0.30円/g"
     rating: 4.77
     reviewCount: 13
     features:
@@ -77,7 +77,7 @@ products:
     brand: "グラフィコ（OxiClean）"
     price: 3279
     capacity: "5.26kg"
-    pricePerUnit: "約623円/kg"
+    pricePerUnit: "約0.62円/g"
     rating: 4.64
     reviewCount: 1418
     features:

@@ -4,7 +4,7 @@ description: "除菌スプレー・アルコールを1mLあたりのコストで
 category: "sanitizing-spray"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: 2026-06-09
 products:
   - rank: 1
     name: "カビキラー アルコール除菌 キッチン用 詰め替え用【カビキラー】[アルコールスプ"
@@ -77,7 +77,7 @@ products:
     brand: "健栄製薬（手ピカ）"
     price: 4961
     capacity: "420ml×10個"
-    pricePerUnit: "約1.2円/ml"
+    pricePerUnit: "約1.2円/mL"
     rating: 5
     reviewCount: 12
     features:
@@ -99,7 +99,7 @@ products:
     brand: "すこやかこまち"
     price: 1540
     capacity: "1L"
-    pricePerUnit: "約1540円/L"
+    pricePerUnit: "約1.5円/mL"
     rating: 4.7
     reviewCount: 946
     features:
@@ -132,7 +132,7 @@ products:
     brand: "すこやかこまち"
     price: 4290
     capacity: "500ml×3本"
-    pricePerUnit: "約2.9円/ml"
+    pricePerUnit: "約2.9円/mL"
     rating: 4.79
     reviewCount: 429
     features:
@@ -154,7 +154,7 @@ products:
     brand: "ブテナロック"
     price: 2646
     capacity: "180ml×3本"
-    pricePerUnit: "約4.9円/ml"
+    pricePerUnit: "約4.9円/mL"
     rating: 4.69
     reviewCount: 1707
     features:
@@ -187,7 +187,7 @@ products:
     brand: "シュシュキッキ"
     price: 1518
     capacity: "300ml"
-    pricePerUnit: "約5.1円/ml"
+    pricePerUnit: "約5.1円/mL"
     rating: 4.4
     reviewCount: 880
     features:
@@ -209,9 +209,9 @@ products:
     brand: "ブテナロック"
     price: 1000
     capacity: "180ml"
-    pricePerUnit: "約5.6円/ml"
+    pricePerUnit: "約5.6円/mL"
     rating: 4.65
-    reviewCount: 4050
+    reviewCount: 4051
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"
@@ -242,7 +242,7 @@ products:
     brand: "シュシュキッキ"
     price: 550
     capacity: "20ml"
-    pricePerUnit: "約28円/ml"
+    pricePerUnit: "約28円/mL"
     rating: 4.26
     reviewCount: 946
     features:

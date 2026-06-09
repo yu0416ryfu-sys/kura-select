@@ -4,7 +4,7 @@ description: "コンディショナーを1mLあたりのコストで徹底比較
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: 2026-06-09
 products:
   - rank: 1
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
@@ -121,7 +121,7 @@ products:
     brand: "アンナトゥモール"
     price: 2860
     capacity: "300ml"
-    pricePerUnit: "約9.5円/ml"
+    pricePerUnit: "約9.5円/mL"
     rating: 4.6
     reviewCount: 126
     features:

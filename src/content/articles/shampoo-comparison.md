@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-08"
+updatedAt: 2026-06-09
 products:
   - rank: 1
     name: "パンテーン シャンプー 詰め替え エクストラダメージケア"
@@ -44,7 +44,7 @@ products:
     brand: "花王（メリット）"
     price: 770
     capacity: "330ml"
-    pricePerUnit: "約2.3円/ml"
+    pricePerUnit: "約2.3円/mL"
     rating: 4.74
     reviewCount: 128
     features:
@@ -77,7 +77,7 @@ products:
     brand: "サニープレイス"
     price: 1925
     capacity: "800ml"
-    pricePerUnit: "約2.4円/ml"
+    pricePerUnit: "約2.4円/mL"
     rating: 4.6
     reviewCount: 645
     features:
@@ -110,7 +110,7 @@ products:
     brand: "マイマ"
     price: 2640
     capacity: "240ml"
-    pricePerUnit: "約11円/ml"
+    pricePerUnit: "約11円/mL"
     rating: 4.46
     reviewCount: 467
     features:
@@ -132,7 +132,7 @@ products:
     brand: "ケフトル"
     price: 3350
     capacity: "250ml"
-    pricePerUnit: "約13円/ml"
+    pricePerUnit: "約13円/mL"
     rating: 4.67
     reviewCount: 1007
     features:
@@ -148,7 +148,7 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r210n.3rdw6403.g00r210n.3rdw7e26/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcerapure%2Fkf-22%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcerapure%2Fi%2F10001611%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cerapure/cabinet/kfutol/09515818/09516239/kf-22_nomal_thum01-2.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cerapure/cabinet/kfutol/08794535/imgrc0105731304.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -198,7 +198,7 @@ products:
     brand: "ケラスターゼ"
     price: 4180
     capacity: "250ml"
-    pricePerUnit: "約17円/ml"
+    pricePerUnit: "約17円/mL"
     rating: 4.62
     reviewCount: 258
     features:
@@ -231,7 +231,7 @@ products:
     brand: "ケラスターゼ"
     price: 4180
     capacity: "250ml"
-    pricePerUnit: "約17円/ml"
+    pricePerUnit: "約17円/mL"
     rating: 4.66
     reviewCount: 280
     features:

@@ -4,7 +4,7 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-06-08"
+updatedAt: 2026-06-09
 draft: false
 products:
   - rank: 1
@@ -234,7 +234,7 @@ products:
     capacity: "3本"
     pricePerUnit: "約1660円/本"
     rating: 4.61
-    reviewCount: 409
+    reviewCount: 410
     features:
       - "フィリップス純正品・プレミアムクリーンタイプ"
       - "レギュラーサイズで多くのソニッケアー機種に対応"

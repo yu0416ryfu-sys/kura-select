@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: 2026-06-09
 draft: false
 products:
   - rank: 1
@@ -12,7 +12,7 @@ products:
     brand: "フマキラー"
     price: 498
     capacity: "200ml"
-    pricePerUnit: "約2.5円/ml"
+    pricePerUnit: "約2.5円/mL"
     rating: 0
     reviewCount: 0
     features:
@@ -45,7 +45,7 @@ products:
     brand: "アース製薬"
     price: 657
     capacity: "100ml"
-    pricePerUnit: "約6.6円/ml"
+    pricePerUnit: "約6.6円/mL"
     rating: 0
     reviewCount: 0
     features:
@@ -78,7 +78,7 @@ products:
     brand: "ウッディラボ"
     price: 1980
     capacity: "250ml"
-    pricePerUnit: "約7.9円/ml"
+    pricePerUnit: "約7.9円/mL"
     rating: 4.11
     reviewCount: 37
     features:
@@ -111,7 +111,7 @@ products:
     brand: "ダイレクトテレショップ"
     price: 7788
     capacity: "450ml×2本"
-    pricePerUnit: "約8.7円/ml"
+    pricePerUnit: "約8.7円/mL"
     rating: 4.1
     reviewCount: 101
     features:
@@ -133,7 +133,7 @@ products:
     brand: "AROMICstyle"
     price: 1080
     capacity: "100ml"
-    pricePerUnit: "約11円/ml"
+    pricePerUnit: "約11円/mL"
     rating: 4.49
     reviewCount: 213
     features:
@@ -199,7 +199,7 @@ products:
     brand: "PERFECT POTION"
     price: 1386
     capacity: "125ml"
-    pricePerUnit: "約11円/ml"
+    pricePerUnit: "約11円/mL"
     rating: 4.89
     reviewCount: 9
     features:

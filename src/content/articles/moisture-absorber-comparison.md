@@ -4,16 +4,16 @@ description: "除湿剤を吸湿量あたりのコストで徹底比較。水と
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: 2026-06-09
 products:
   - rank: 1
     name: "炭八 室内用"
     brand: "イエノLabo."
     price: 2376
     capacity: "12L大袋×4個セット"
-    pricePerUnit: "約50円/L"
+    pricePerUnit: "約0.05円/mL"
     rating: 4.65
-    reviewCount: 1044
+    reviewCount: 1045
     features:
       - "調湿木炭で繰り返し使える環境にやさしい除湿剤"
       - "天日干しで吸湿力が復活するため長期間使用可能"
@@ -189,7 +189,7 @@ products:
     capacity: "5個"
     pricePerUnit: "約660円/個"
     rating: 4.61
-    reviewCount: 5130
+    reviewCount: 5131
     features:
       - "湿気対策に使える除湿・調湿アイテム"
       - "クローゼットや押入れに置きやすい"
@@ -244,7 +244,7 @@ products:
     capacity: "5個"
     pricePerUnit: "約1211円/個"
     rating: 4.56
-    reviewCount: 2171
+    reviewCount: 2172
     features:
       - "湿気対策に使える除湿・調湿アイテム"
       - "クローゼットや押入れに置きやすい"

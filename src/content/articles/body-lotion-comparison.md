@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: 2026-06-09
 draft: false
 products:
   - rank: 1
@@ -12,7 +12,7 @@ products:
     brand: "ヴァセリン"
     price: 2278
     capacity: "500ml×3"
-    pricePerUnit: "約1.5円/ml"
+    pricePerUnit: "約1.5円/mL"
     rating: 4.78
     reviewCount: 138
     features:
@@ -45,7 +45,7 @@ products:
     brand: "3種のヒアルロン酸配合スキンローショ"
     price: 1100
     capacity: "600ml"
-    pricePerUnit: "約1.8円/ml"
+    pricePerUnit: "約1.8円/mL"
     rating: 4.59
     reviewCount: 548
     features:
@@ -201,7 +201,7 @@ products:
     capacity: "350ml"
     pricePerUnit: "約8.8円/ml"
     rating: 4.74
-    reviewCount: 584
+    reviewCount: 585
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"
@@ -221,7 +221,7 @@ products:
     brand: "ベビーローション"
     price: 4180
     capacity: "300ml"
-    pricePerUnit: "約14円/ml"
+    pricePerUnit: "約14円/mL"
     rating: 4.7
     reviewCount: 2931
     features:

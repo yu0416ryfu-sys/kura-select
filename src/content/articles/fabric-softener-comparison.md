@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりのコストで比較。大容量タイ
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: 2026-06-08
+updatedAt: 2026-06-09
 products:
   - rank: 1
     name: "メキシコダウニー アロマフローラル 8.5L×2本"
@@ -177,8 +177,8 @@ products:
     price: 2664
     capacity: "700mL"
     pricePerUnit: "約3.8円/mL"
-    rating: 4.43
-    reviewCount: 449
+    rating: 4.42
+    reviewCount: 450
     features:
       - "植物由来成分使用の低刺激処方"
       - "無蛍光剤・無漂白剤・無着色料"
@@ -266,7 +266,7 @@ products:
     capacity: "4袋"
     pricePerUnit: "約1249円/袋"
     rating: 4.76
-    reviewCount: 1427
+    reviewCount: 1433
     features:
       - "洗濯時に使う柔軟仕上げ剤"
       - "継続利用しやすい定番構成"
