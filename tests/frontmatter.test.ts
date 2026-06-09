@@ -604,6 +604,18 @@ describe("extractCapacityFromItemName", () => {
     expect(extractCapacityFromItemName("ネピア 50mL×3本")).toBe("50mL×3本");
   });
 
+  it("小数容量の掛け算を部分抽出せず保持する（3.8L×3本／3.が落ちないこと）", () => {
+    expect(
+      extractCapacityFromItemName(
+        "ライオン CHARMY Magica プロフェッショナル 無香料 3.8L×3本"
+      )
+    ).toBe("3.8L×3本");
+  });
+
+  it("小数容量のシンプルパターンを部分抽出しない（3.8L）", () => {
+    expect(extractCapacityFromItemName("緑の魔女 キッチン 3.8L")).toBe("3.8L");
+  });
+
   it("楽天商品名のアスタリスク区切りを掛け算として抽出する", () => {
     expect(
       extractCapacityFromItemName("ミノン 全身シャンプー 泡タイプ 詰替え用(400ml*3袋セット)")

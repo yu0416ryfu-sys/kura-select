@@ -8,6 +8,7 @@ import {
   CAPACITY_UNITS,
   PACK_UNITS,
   MULTIPLY_RE_CHAR_CLASS,
+  CAPACITY_NUMBER_PATTERN,
   normalizeItemName,
   extractCapacityTotal,
   normalizeCapacityTotal,
@@ -553,7 +554,7 @@ export function extractCapacityFromItemName(itemName: string): string | null {
   // パターン0a: ラップ・ホイル系の幅×長さ表記
   // 例: "30cm×50m(1コ入*3コセット)" → "50m×3個"
   // 幅の cm は単価計算対象ではないため、長さ m と販売数量だけを抽出する。
-  const widthLengthRe = new RegExp(`\\d[\\d,]*\\s*cm\\s*[${MULTIPLY_RE_CHAR_CLASS}]\\s*(\\d[\\d,]*)\\s*m`, 'i');
+  const widthLengthRe = new RegExp(`\\d[\\d,]*(?:\\.\\d+)?\\s*cm\\s*[${MULTIPLY_RE_CHAR_CLASS}]\\s*(${CAPACITY_NUMBER_PATTERN})\\s*m`, 'i');
   const widthLengthM = itemName.match(widthLengthRe);
   if (widthLengthM) {
     const after = itemName.slice((widthLengthM.index ?? 0) + widthLengthM[0].length);
@@ -567,7 +568,7 @@ export function extractCapacityFromItemName(itemName: string): string | null {
   // パターン1: × / * 区切り乗算チェーン（複数因子対応）"200枚×5箱" "400ml*3袋"
   // CAPACITY_UNITS および PACK_UNITS（ロール・パック・箱等）の両方を単位として認識する
   // PACK_UNITS も起点として認識する（例: "（12ロール×6個セット）" で 12ロール を先に捕捉）
-  const mulRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS}|${PACK_UNITS})`);
+  const mulRe = new RegExp(`(${CAPACITY_NUMBER_PATTERN})\\s*(${CAPACITY_UNITS}|${PACK_UNITS})`);
   const mulM = itemName.match(mulRe);
   if (mulM && mulM.index !== undefined) {
     const capacityUnitRe = new RegExp(`^(${CAPACITY_UNITS}|${PACK_UNITS})`);
@@ -659,7 +660,7 @@ export function extractCapacityFromItemName(itemName: string): string | null {
     const packXpackRe = new RegExp(`(\\d[\\d,]*)\\s*(${PACK_UNITS})\\s*[${MULTIPLY_RE_CHAR_CLASS}]\\s*(\\d[\\d,]*)\\s*(${PACK_UNITS})`);
     const packXpackM = itemName.match(packXpackRe);
     if (packXpackM) {
-      const capUnitSearchRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})`);
+      const capUnitSearchRe = new RegExp(`(${CAPACITY_NUMBER_PATTERN})\\s*(${CAPACITY_UNITS})`);
       const capUnitM = itemName.match(capUnitSearchRe);
       if (capUnitM) {
         return `${capUnitM[1]}${capUnitM[2]}×${packXpackM[1]}${packXpackM[2]}×${packXpackM[3]}${packXpackM[4]}`;
@@ -679,21 +680,21 @@ export function extractCapacityFromItemName(itemName: string): string | null {
 
   // パターン1b: スペース区切りの数量表現 "50m 72ロール" → "50m×72ロール"
   // × を使わず「長さ ロール数」と並べる楽天商品名（例: "50m 72ロール ダブル"）に対応
-  const spaceMulRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})\\s+(\\d[\\d,]*)\\s*(ロール|パック|セット)`);
+  const spaceMulRe = new RegExp(`(${CAPACITY_NUMBER_PATTERN})\\s*(${CAPACITY_UNITS})\\s+(\\d[\\d,]*)\\s*(ロール|パック|セット)`);
   const spaceMulM = itemName.match(spaceMulRe);
   if (spaceMulM && parseInt(spaceMulM[3].replace(/,/g, ''), 10) > 1) {
     return `${spaceMulM[1]}${spaceMulM[2]}×${spaceMulM[3]}${spaceMulM[4]}`;
   }
 
   // パターン2: 括弧内総量 "（2,880枚）"
-  const bracketRe = new RegExp(`[（(]([\\d,]+)\\s*(${CAPACITY_UNITS})[）)]`);
+  const bracketRe = new RegExp(`[（(](${CAPACITY_NUMBER_PATTERN})\\s*(${CAPACITY_UNITS})[）)]`);
   const bracketM = itemName.match(bracketRe);
   if (bracketM) {
     return `（${bracketM[1]}${bracketM[2]}）`;
   }
 
   // パターン3: シンプル "500mL"（最初に見つかる数値+単位）
-  const simpleRe = new RegExp(`(\\d[\\d,]*)\\s*(${CAPACITY_UNITS})`);
+  const simpleRe = new RegExp(`(${CAPACITY_NUMBER_PATTERN})\\s*(${CAPACITY_UNITS})`);
   const simpleM = itemName.match(simpleRe);
   if (simpleM) {
     return `${simpleM[1]}${simpleM[2]}`;
