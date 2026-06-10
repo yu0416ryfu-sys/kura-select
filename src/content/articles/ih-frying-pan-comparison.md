@@ -1,6 +1,6 @@
 ---
-title: "IH対応フライパンおすすめ比較9選｜26cmの選び方"
-description: "IH対応フライパンを26cm中心に11製品比較。軽量タイプ、セラミック加工、取っ手が外れるタイプなどを選び方とあわせて紹介します。"
+title: "IH対応フライパンおすすめ比較8選｜26cmの選び方"
+description: "IH対応フライパンを26cm中心に8製品比較。軽量タイプ、セラミック加工、取っ手が外れるタイプなどを選び方とあわせて紹介します。"
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
@@ -30,28 +30,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4hdn.3rdw6bb7.g00u4hdn.3rdw753a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcookware-carote%2Fj02401%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcookware-carote%2Fi%2F10000023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cookware-carote/cabinet/12110183/12820150/0.jpg?_ex=128x128"
   - rank: 2
-    name: "アイリスオーヤマ ダイヤモンドコートパン IH対応 26cm"
-    brand: "アイリスオーヤマ"
-    price: 2800
-    capacity: "1個"
-    pricePerUnit: "約2800円/個"
-    rating: 4.05
-    reviewCount: 74
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F527586%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10059952%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/homeok/527586.jpg?_ex=128x128"
-  - rank: 3
     name: "ティファール IHチタン・エクセレンス バニラベージュ フライパン 26cm"
     brand: "ティファール"
     price: 2880
@@ -73,7 +51,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rdnjn.3rdw6a22.g00rdnjn.3rdw74d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpatie%2Ft-fal-301%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpatie%2Fi%2F10108639%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/patie/cabinet/0000/default/s1/t-fal-301_s1.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "アイリスオーヤマ スキレットコートパン IH対応 26cm"
     brand: "アイリスオーヤマ"
     price: 2948
@@ -95,7 +73,7 @@ products:
     recommendedFor: "焼き物に使いやすいスキレット風タイプを探す方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F7422941010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10373181%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000038/7422941010.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 4
     name: "アイリスオーヤマ ナチュかるフライパン IH対応 26cm"
     brand: "アイリスオーヤマ"
     price: 4228
@@ -117,7 +95,7 @@ products:
     recommendedFor: "軽く扱えるIH対応フライパンを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u87nn.3rdw6697.g00u87nn.3rdw7fe2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhandy%2Fir-4967576735117%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhandy%2Fi%2F10007929%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/handy/cabinet/image39/ir-4967576735117_1.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 5
     name: "サーモス セラプロテクト フライパン IH対応 26cm"
     brand: "サーモス"
     price: 4680
@@ -139,7 +117,7 @@ products:
     recommendedFor: "セラミック加工と見た目の明るさを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F489125%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10222393%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_thermos13/489125.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "ティファール インジニオ・ネオ IHルージュ・アンリミテッド フライパン 26cm"
     brand: "ティファール"
     price: 4840
@@ -172,7 +150,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_3168430321182"
         available: true
-  - rank: 8
+  - rank: 7
     name: "ティファール IHハードチタニウム・アンリミテッド フライパン 26cm"
     brand: "ティファール"
     price: 5054
@@ -194,7 +172,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q1q9n.3rdw69c5.g00q1q9n.3rdw75df/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbellevie-harima%2Ft-fal-077%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbellevie-harima%2Fi%2F10152355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bellevie-harima/cabinet/0101/default/s1/t-fal-077_s0106.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "CAST VARIUS 取っ手が外れるフライパン IH対応 26cm"
     brand: "CAST VARIUS"
     price: 6880
