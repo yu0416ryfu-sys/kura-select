@@ -1,6 +1,6 @@
 ---
-title: "洗濯ネット おすすめ10選｜コスパ・用途別に徹底比較【2026年版】"
-description: "洗濯ネットおすすめ10選をコスパ・用途別に比較。大中小セット・布団用・筒形・ブラジャー専用など種類別の選び方や1枚あたりの価格目安をわかりやすく解説します。"
+title: "洗濯ネット おすすめ9選｜コスパ・用途別に徹底比較【2026年版】"
+description: "洗濯ネットおすすめ9選をコスパ・用途別に比較。大中小セット・布団用・筒形・ブラジャー専用など種類別の選び方や1枚あたりの価格目安をわかりやすく解説します。"
 category: "laundry-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
@@ -96,28 +96,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/linofle_ly-0506"
         available: true
   - rank: 4
-    name: "まとめて洗える6枚セット洗濯ネット 大中2サイズ"
-    brand: "HOLOMUA"
-    price: 1872
-    capacity: "大3枚・中3枚（計6枚）"
-    pricePerUnit: "約347円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "大サイズ(40×50cm)3枚・中サイズ(30×40cm)3枚の計6枚セット構成"
-      - "細かいメッシュで繊維の飛び出しや絡まりを防止"
-      - "Tシャツ・スウェット・ニットなどに対応したサイズ設計"
-    pros:
-      - "大と中の2サイズが3枚ずつ入り日常のカジュアルウェアに使いやすい"
-      - "まとめ買いで1枚あたりの単価を抑えやすい"
-      - "細かい網目で洗濯機内での衣類の傷みや摩擦を軽減する"
-    cons:
-      - "小サイズが含まれないため靴下・ハンカチなど小物は別途ネットが必要"
-      - "大物(毛布・布団ケット)には対応していない"
-    recommendedFor: "Tシャツ・ニットなど普段着を毎日まとめて洗いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00um08n.3rdw63ee.g00um08n.3rdw7a1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmlinestore%2F2b4r4n0j98%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmlinestore%2Fi%2F10012576%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mlinestore/cabinet/0073/2b4r4n0j98_0.jpg?_ex=128x128"
-  - rank: 5
     name: "洗濯ネット CX 糸くずブロックネット 特大 50cm"
     brand: "LEC"
     price: 458
@@ -139,7 +117,7 @@ products:
     recommendedFor: "ニット・タオルなど糸くずが出やすい衣類を洗いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F262061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10104745%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_lec3/262061.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 5
     name: "5枚セット洗濯ネット 大中小 角型 筒型"
     brand: "YHBOX"
     price: 2599
@@ -161,7 +139,7 @@ products:
     recommendedFor: "洗濯ネットを初めてまとめ揃えたい方・多用途をワンセットで揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ut1jn.3rdw690e.g00ut1jn.3rdw7e1e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyh-box%2Fwek03160654c8b3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyh-box%2Fi%2F10081950%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yh-box/cabinet/wek0316/wek03160654c8b3_1.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "洗濯ネット 布団用 大型 角型 特大 3枚入り"
     brand: "魔法小屋"
     price: 2480
@@ -183,7 +161,7 @@ products:
     recommendedFor: "布団・毛布を自宅で定期的に洗いたい方・大物寝具を複数枚揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4c0n.3rdw6b08.g00u4c0n.3rdw7f94/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmagichut%2Fxhd-large-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmagichut%2Fi%2F10000032%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/magichut/cabinet/compass1637980543.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "無蛍光 角型洗濯ネット 40×50cm"
     brand: "ダイヤ"
     price: 880
@@ -205,7 +183,7 @@ products:
     recommendedFor: "敏感肌・赤ちゃん用品を洗う方・長期使用できるものを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q17fn.3rdw6d53.g00q17fn.3rdw7877/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaiya%2F4901948581018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaiya%2Fi%2F10001558%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daiya/cabinet/05643472/06637217/fla4/058101_no1.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "ダイヤ 大きくふくらむ洗濯ネット 50cm"
     brand: "ダイヤ"
     price: 1100
@@ -227,7 +205,7 @@ products:
     recommendedFor: "毛布・タオルケットなど大物を洗いたい方・乾燥機使用者"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q17fn.3rdw6d53.g00q17fn.3rdw7877/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaiya%2F057234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaiya%2Fi%2F10001029%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daiya/cabinet/05643472/06637217/06639614/057234.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "メッシュ洗濯ネット 筒形 ファスナー式"
     brand: "ワイエムハウス"
     price: 2580

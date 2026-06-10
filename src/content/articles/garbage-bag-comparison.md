@@ -1,6 +1,6 @@
 ---
 title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
-description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ10選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
+description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ9選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
@@ -194,28 +194,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F466-6776%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10061351%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin400_06/466-6776.jpg?_ex=128x128"
   - rank: 8
-    name: "サンキョウプラテック ごみ袋 45L 半透明 厚手 100枚"
-    brand: "サンキョウプラテック"
-    price: 2400
-    capacity: "100枚"
-    pricePerUnit: "約24円/枚"
-    rating: 4.7
-    reviewCount: 130
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fhk-440ecoboxkobako%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10000748%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/ecotaibox/hk/45l/hk-440no_k.jpg?_ex=128x128"
-  - rank: 9
     name: "ゴミ袋 90L 業務用 厚手"
     brand: "ケイヨウ実業"
     price: 5780
@@ -248,7 +226,7 @@ products:
         available: true
         rating: 5
         reviewCount: 13
-  - rank: 10
+  - rank: 9
     name: "ケミカルジャパン ポリ袋 70L 半透明 100枚 HD-890"
     brand: "ケミカルジャパン"
     price: 3103

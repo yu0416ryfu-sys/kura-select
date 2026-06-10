@@ -1,6 +1,6 @@
 ---
 title: "食洗機用洗剤 コスパ最強ランキング【2026年版】粉末・ジェル・タブで比較"
-description: "食洗機用洗剤を1回あたりのコストで徹底比較。フィニッシュ・キュキュット・ジョイ・チャーミーの人気10選を洗浄力・コスパで解説します。"
+description: "食洗機用洗剤を1回あたりのコストで徹底比較。フィニッシュ・キュキュット・ジョイ・チャーミーの人気9選を洗浄力・コスパで解説します。"
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
@@ -270,37 +270,6 @@ products:
     recommendedFor: "食洗機の運用に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100000736%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000752%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/snn4023_01.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fs0270032.html"
-        matchStatus: "matched"
-        updatedAt: "2026-05-27"
-        price: 2970
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_s0270032"
-        available: true
-  - rank: 10
-    name: "ソネット 食洗機用洗剤 ナチュラルディッシュウォッシャー 1.5kg"
-    brand: "SONETT"
-    price: 2970
-    capacity: "1.5kg"
-    pricePerUnit: "約2.0円/g"
-    rating: 4.26
-    reviewCount: 27
-    features:
-      - "食器洗い乾燥機専用の洗剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "食洗機の運用に合わせて選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "対応機種や投入量を確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "食洗機の運用に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Fs0270032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10010183%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/03078602/03360352/imgrc0088921454.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

@@ -65,28 +65,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r9znn.3rdw6e57.g00r9znn.3rdw7ba2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgossipstar%2Fbm1187%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgossipstar%2Fi%2F10011710%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gossipstar/cabinet/pop/bm1187-pop-.jpg?_ex=128x128"
   - rank: 3
-    name: "珪藻土ソフトバスマット 1枚"
-    brand: "★一部即納★珪藻土バスマット"
-    price: 1000
-    capacity: "1枚"
-    pricePerUnit: "約1000円/枚"
-    rating: 4.45
-    reviewCount: 2244
-    features:
-      - "吸水・速乾性を重視したバスマット"
-      - "浴室前や洗面所に置きやすい形状"
-      - "洗えるタイプや珪藻土系など用途別に選びやすい"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u844n.3rdw67d7.g00u844n.3rdw7e12/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyosuzu%2Fbasumato2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyosuzu%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yosuzu/cabinet/09065303/10102.jpg?_ex=128x128"
-  - rank: 4
     name: "バスマット タオル地 45×65cm"
     brand: "布団と寝具専門店 COLORS"
     price: 1000
@@ -121,7 +99,7 @@ products:
         reviewCount: 438
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/futoncolors_a979"
         available: true
-  - rank: 5
+  - rank: 4
     name: "バスマット 速乾 洗える【1秒吸収】"
     brand: "Latuna"
     price: 1690
@@ -145,7 +123,7 @@ products:
     recommendedFor: "吸水性を最優先したい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnrsn.3rdw6089.g00tnrsn.3rdw78e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flatuna%2F10000010-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flatuna%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/latuna/cabinet/items/bathmat/imgrc0161877803.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 5
     name: "今治タオル レオン バスマット"
     brand: "今治タオル"
     price: 1800
@@ -178,7 +156,7 @@ products:
         reviewCount: 281
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/broome_0215-0212-0101"
         available: true
-  - rank: 7
+  - rank: 6
     name: "乾度良好 Dナチュレ バスマット"
     brand: "乾度良好"
     price: 4400
@@ -211,7 +189,7 @@ products:
         reviewCount: 302
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/m-rug_712421510"
         available: true
-  - rank: 8
+  - rank: 7
     name: "なのらぼ足快バスマット"
     brand: "なのらぼ"
     price: 7480
@@ -233,7 +211,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn4on.3rdw6e6d.g00qn4on.3rdw7c3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamayuu%2Fubs-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamayuu%2Fi%2F10001621%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamayuu/cabinet/01023319/bathgoods/10648094/ubs-1-thum01.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "soil バスマット ライト"
     brand: "soil"
     price: 9900
@@ -266,7 +244,7 @@ products:
         available: true
         rating: 4.73
         reviewCount: 52
-  - rank: 10
+  - rank: 9
     name: "Mirx プレミアムバスマット 珪藻土 吸水2.5倍"
     brand: "Mirx"
     price: 1380
