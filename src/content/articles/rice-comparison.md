@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: 2026-06-09
+updatedAt: "2026-06-10"
 products:
   - rank: 1
     name: "熊本県産 ヒノヒカリ"
@@ -13,7 +13,7 @@ products:
     capacity: "20kg"
     pricePerUnit: "約509円/kg"
     rating: 4.59
-    reviewCount: 14714
+    reviewCount: 14718
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffuchigami%2Fhino-kp30.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-10"
         price: 11380
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fuchigami_hino-kp30"
         available: true
-        rating: 4.58
-        reviewCount: 101
+        rating: 4.59
+        reviewCount: 103
   - rank: 2
     name: "家計応援まんぷく米"
     brand: "お米の阿部"
@@ -46,7 +46,7 @@ products:
     capacity: "5kg×2袋"
     pricePerUnit: "約568円/kg"
     rating: 4.27
-    reviewCount: 13700
+    reviewCount: 13701
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -68,7 +68,7 @@ products:
     capacity: "10kg"
     pricePerUnit: "約578円/kg"
     rating: 4.39
-    reviewCount: 16100
+    reviewCount: 16095
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -88,12 +88,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmanmayarice%2Fnouka10.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-10"
         price: 5780
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/manmayarice_nouka10"
         available: true
         rating: 4.18
-        reviewCount: 1773
+        reviewCount: 1774
   - rank: 4
     name: "令和7年産 無洗米 新潟産コシヒカリ 10kg"
     brand: "ミツハシライス"
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkomenoya%2Frfngtkshknb10000.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-10"
         price: 8550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/komenoya_rfngtkshknb10000"
         available: true

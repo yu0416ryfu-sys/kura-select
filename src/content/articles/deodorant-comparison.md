@@ -4,7 +4,7 @@ description: "制汗剤・デオドラントを容量あたりのコストで比
 category: "deodorant"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-06-09
+updatedAt: 2026-06-10
 products:
   - rank: 1
     name: "Ban 汗ブロックロールオン プレミアムゴールドラベル 40mL"
@@ -79,7 +79,7 @@ products:
     capacity: "30mL"
     pricePerUnit: "約110円/mL"
     rating: 4.4
-    reviewCount: 2125
+    reviewCount: 2126
     features:
       - "ジェルクリームタイプのワキ向けデオドラント"
       - "子どもから大人まで使いやすい設計"
@@ -167,7 +167,7 @@ products:
     capacity: "20mL×2個"
     pricePerUnit: "約133円/mL"
     rating: 4.42
-    reviewCount: 478
+    reviewCount: 479
     features:
       - "オリジナルタイプのロールオン制汗デオドラント"
       - "無香料で汗とニオイのケアに使いやすい"

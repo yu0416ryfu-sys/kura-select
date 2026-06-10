@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-06-09
+updatedAt: "2026-06-10"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901730160476-73-30001035.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901730160476.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-08"
-        price: 997
-        rating: 4.57
-        reviewCount: 14
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901730160476-73-30001035"
+        updatedAt: "2026-06-10"
+        price: 1096
+        rating: 4.73
+        reviewCount: 56
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901730160476"
         available: true
   - rank: 2
     name: "薬用リステリン トータルケアゼロプラス ノンアルコール クリーンミント味"
@@ -46,7 +46,7 @@ products:
     capacity: "1000mL×4本"
     pricePerUnit: "約0.99円/mL"
     rating: 4.7
-    reviewCount: 261
+    reviewCount: 262
     features:
       - "ノンアルコール処方で刺激を抑えながら殺菌"
       - "バクテリアフィルムに作用する7種の機能性成分配合"
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180757-4.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-10"
         price: 3699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4901730180757-4"
         available: true
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901080248619.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-10"
         price: 1039
         rating: 0
         reviewCount: 1
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901616010888.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-10"
         price: 1058
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4901616010888"
         available: true
@@ -200,7 +200,7 @@ products:
     capacity: "300mL"
     pricePerUnit: "約7.3円/mL"
     rating: 4.59
-    reviewCount: 2757
+    reviewCount: 2759
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichinan25%2Fdr-wash.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-10"
         price: 2970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichinan25_dr-wash"
         available: true
@@ -269,18 +269,18 @@ products:
       - "薄める手間がある"
     recommendedFor: "歯科医推奨品を求める方・歯周病予防を重視する方・長く使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fdf2819%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10012094%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0608_p5400/kirikae2/df2819_1450ppm.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0610_100b/kirikae2/df2819_1450ppm.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Fdf0129.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-10"
         price: 3340
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_df0129"
         available: true
         rating: 4.78
-        reviewCount: 1368
+        reviewCount: 1373
   - rank: 10
     name: "ナタデウォッシュ"
     brand: "ナチュラルガーデン（ナタデ）"

@@ -4,7 +4,7 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: 2026-06-09
+updatedAt: 2026-06-10
 products:
   - rank: 1
     name: "LOGOS 倍速凍結 氷点下パック"
@@ -100,8 +100,8 @@ products:
     price: 2880
     capacity: "1個"
     pricePerUnit: "約2880円/個"
-    rating: 4.25
-    reviewCount: 67
+    rating: 3
+    reviewCount: 1
     features:
       - "ステンレス製で耐久性が高く長期間の繰り返し使用に向いている"
       - "冷蔵・冷凍どちらにも対応し用途に応じて使い分けが可能"
@@ -114,8 +114,8 @@ products:
       - "ステンレス製のため使用後は丁寧な乾燥保管が必要"
       - "プラスチックハードタイプと比べて重量がある場合がある"
     recommendedFor: "耐久性を重視して長く使えるステンレス製保冷剤を探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uocjn.3rdw694e.g00uocjn.3rdw7eaf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdecori%2Fy-342%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdecori%2Fi%2F10000319%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/decori/cabinet/12282578/zt6.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uocjn.3rdw694e.g00uocjn.3rdw7eaf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdecori%2Fy-342b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdecori%2Fi%2F10000491%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/decori/cabinet/12282578/imgrc0096993936.jpg?_ex=128x128"
   - rank: 6
     name: "クールインパック ハード 750g 保冷パック 保冷剤 日本製"
     brand: "クールインパック"
@@ -188,8 +188,8 @@ products:
     price: 1100
     capacity: "570g×2個"
     pricePerUnit: "約0.96円/g"
-    rating: 4.3
-    reviewCount: 43
+    rating: 4.32
+    reviewCount: 44
     features:
       - "日本製ハードタイプで13.8×19.4cm・570g/個のスタンダードサイズ"
       - "2個組でクーラーボックスの両サイドに配置するなど効率よく使える"

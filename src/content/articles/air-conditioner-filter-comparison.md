@@ -4,7 +4,7 @@ description: "エアコンフィルターの交換タイプ・枚数・コスパ
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-06-09
+updatedAt: "2026-06-10"
 draft: false
 products:
   - rank: 1
@@ -134,7 +134,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F478367.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-10"
         price: 478
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_478367"
         available: true
@@ -185,13 +185,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ty7xn.3rdw602e.g00ty7xn.3rdw73a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftuhan-ya-2%2F391770%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftuhan-ya-2%2Fi%2F10041601%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tuhan-ya-2/cabinet/tmb/0391770.jpg?_ex=128x128"
   - rank: 7
-    name: "東洋アルミ ウイルス対策ホコリとりフィルター エアコン・空気清浄機用 3個セット"
+    name: "東洋アルミ ウイルス対策ホコリとりフィルター エアコン・空気清浄機用 3個"
     brand: "東洋アルミ"
-    price: 1980
-    capacity: "1枚入×3個"
-    pricePerUnit: "約660円/枚"
-    rating: 0
-    reviewCount: 0
+    price: 1942
+    capacity: "1枚×3個（3枚）"
+    pricePerUnit: "約647円/枚"
+    rating: 4
+    reviewCount: 2
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -204,8 +204,8 @@ products:
       - "サイズや仕様は購入前に確認が必要"
       - "ショップにより在庫や配送条件が変わる"
     recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://item.rakuten.co.jp/life-create-iga/toyo-017-x3/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00txw5n.3rdw6312.g00txw5n.3rdw7ed3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthree-s-mart%2Fonp-4901987254072-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthree-s-mart%2Fi%2F10001172%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/three-s-mart/cabinet/4901987254072-31.jpg?_ex=128x128"
   - rank: 8
     name: "スターフィルター カビブロックバイオ酵素フィルター エアコン用 2枚入"
     brand: "スターフィルター"

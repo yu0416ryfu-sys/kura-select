@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-06-09
+updatedAt: "2026-06-10"
 draft: false
 products:
   - rank: 1
@@ -128,7 +128,7 @@ products:
     capacity: "40×60cm / 50×80cm 1枚"
     pricePerUnit: "約1690円/枚"
     rating: 4.65
-    reviewCount: 3208
+    reviewCount: 3209
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"
@@ -172,8 +172,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbroome%2F0215-0212-0101.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
-        price: 2290
+        updatedAt: "2026-06-10"
+        price: 1800
         rating: 4.53
         reviewCount: 281
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/broome_0215-0212-0101"
@@ -205,7 +205,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fm-rug%2F712421510.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-10"
         price: 4400
         rating: 4.62
         reviewCount: 302
@@ -218,7 +218,7 @@ products:
     capacity: "1枚"
     pricePerUnit: "約7480円/枚"
     rating: 4.59
-    reviewCount: 29421
+    reviewCount: 29422
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -260,7 +260,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F49149.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-10"
         price: 9900
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_49149"
         available: true
@@ -273,7 +273,7 @@ products:
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
     rating: 4.43
-    reviewCount: 2514
+    reviewCount: 2518
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

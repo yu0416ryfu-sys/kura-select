@@ -4,7 +4,7 @@ description: "除湿剤を吸湿量あたりのコストで徹底比較。水と
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-06-09
+updatedAt: "2026-06-10"
 products:
   - rank: 1
     name: "炭八 室内用"
@@ -35,7 +35,7 @@ products:
     capacity: "550mL×45個（24,750mL分）"
     pricePerUnit: "約0.17円/mL"
     rating: 4.83
-    reviewCount: 234
+    reviewCount: 235
     features:
       - "国内定番の大容量タンクタイプ除湿剤"
       - "強力脱臭・防臭・防カビ効果"
@@ -77,7 +77,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4560309810022.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-10"
         price: 480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4560309810022"
         available: true
@@ -189,7 +189,7 @@ products:
     capacity: "5個"
     pricePerUnit: "約660円/個"
     rating: 4.61
-    reviewCount: 5131
+    reviewCount: 5133
     features:
       - "湿気対策に使える除湿・調湿アイテム"
       - "クローゼットや押入れに置きやすい"

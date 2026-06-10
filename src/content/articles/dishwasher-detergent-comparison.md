@@ -4,7 +4,7 @@ description: "食洗機用洗剤を1回あたりのコストで徹底比較。�
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-06-09
+updatedAt: "2026-06-10"
 products:
   - rank: 1
     name: "P&G 食洗機用ジョイ オレンジピール成分入り 詰替 490g"
@@ -28,6 +28,17 @@ products:
     recommendedFor: "食洗機の運用に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902430708494-kksale%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10323617%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4902430708494.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7078356.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-10"
+        price: 930
+        rating: 4.67
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7078356"
+        available: true
   - rank: 2
     name: "緑の魔女 食洗機用洗剤 800g"
     brand: "ミマスクリーンケア"
@@ -77,8 +88,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-select-easyshop%2Fls1c040a6150.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
-        price: 2018
+        updatedAt: "2026-06-10"
+        price: 2019
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/life-select-easyshop_ls1c040a6150"
@@ -110,8 +121,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b07bbljjxx-20260329.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-07"
-        price: 2269
+        updatedAt: "2026-06-10"
+        price: 2207
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b07bbljjxx-20260329"
@@ -143,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902875020915-73-30002003.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-10"
         price: 650
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902875020915-73-30002003"
         available: true
@@ -198,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430777537x3.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-10"
         price: 1705
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430777537x3"
         available: true
@@ -231,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430777537x3.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-10"
         price: 1705
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430777537x3"
         available: true

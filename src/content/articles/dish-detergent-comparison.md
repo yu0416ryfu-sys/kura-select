@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりで比較。ジョイ、キュキュ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: 2026-06-09
+updatedAt: "2026-06-10"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -61,14 +61,25 @@ products:
     recommendedFor: "コストを最小限にしたい方・除菌・消臭も重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F10053002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10053002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/10053002.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F10053002.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-10"
+        price: 6956
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_10053002"
+        available: true
   - rank: 3
     name: "緑の魔女 キッチン 食器用洗剤 業務用 詰め替え 5L 無添加 無香料"
     brand: "ミマスクリーンケア（緑の魔女）"
     price: 2761
     capacity: "5000mL"
     pricePerUnit: "約0.55円/mL"
-    rating: 4.59
-    reviewCount: 132
+    rating: 4.57
+    reviewCount: 134
     features:
       - "無香料・無着色・無添加の低刺激処方"
       - "5L大容量で業務用レベルのコスパを実現"
@@ -88,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9847345.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-10"
         price: 2980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9847345"
         available: true
@@ -101,7 +112,7 @@ products:
     capacity: "4L"
     pricePerUnit: "約0.67円/mL"
     rating: 4.81
-    reviewCount: 47
+    reviewCount: 48
     features:
       - "コンパクト処方で少量でもよく落ちる"
       - "食洗機非対応・手洗い専用設計"
@@ -154,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301429148.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-10"
         price: 5035
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301429148"
         available: true
@@ -242,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcooking-clocca%2Fsomali-40542.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-10"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cooking-clocca_somali-40542"
         available: true

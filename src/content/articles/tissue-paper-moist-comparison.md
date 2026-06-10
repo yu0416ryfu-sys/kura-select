@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌触りとコス
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: 2026-06-09
+updatedAt: "2026-06-10"
 draft: false
 products:
   - rank: 1
@@ -166,7 +166,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-w001-4901988104055.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-10"
         price: 123
         rating: 0
         reviewCount: 0
@@ -216,6 +216,17 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quq9n.3rdw60c1.g00quq9n.3rdw73f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-hachidai%2Ff1372ht04%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-hachidai%2Fi%2F10523174%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-hachidai/cabinet/sozai/smn/imgrc0127204196.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhanpark%2F888808.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-10"
+        price: 798
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhanpark_888808"
+        available: true
   - rank: 10
     name: "鼻セレブ ティッシュ 3箱セット"
     brand: "日本製紙クレシア（鼻セレブ）"

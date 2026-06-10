@@ -4,7 +4,7 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: 2026-06-09
+updatedAt: 2026-06-10
 draft: false
 products:
   - rank: 1
@@ -266,8 +266,8 @@ products:
     price: 3498
     capacity: "2本"
     pricePerUnit: "約1749円/本"
-    rating: 4.48
-    reviewCount: 23
+    rating: 4.5
+    reviewCount: 24
     features:
       - "電動歯ブラシ用の交換ブラシ"
       - "対応機種を確認して選ぶ替えブラシタイプ"

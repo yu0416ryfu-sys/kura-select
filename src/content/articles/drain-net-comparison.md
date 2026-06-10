@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fbk2707.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-10"
         price: 43839
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_bk2707"
         available: true
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r001-4901422361037.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-10"
         price: 623
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r001-4901422361037"
         available: true
@@ -122,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fye3331.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-10"
         price: 467
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_ye3331"
         available: true

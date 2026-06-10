@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: 2026-06-09
+updatedAt: "2026-06-10"
 draft: false
 products:
   - rank: 1
@@ -166,7 +166,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoji%2F3182550746076-s.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-10"
         price: 17226
         rating: 0
         reviewCount: 0
@@ -175,9 +175,9 @@ products:
   - rank: 6
     name: "ロイヤルカナン ダックスフンド 成犬用"
     brand: "ロイヤルカナン"
-    price: 5068
+    price: 4600
     capacity: "3kg"
-    pricePerUnit: "約1689円/kg"
+    pricePerUnit: "約1533円/kg"
     rating: 4.69
     reviewCount: 167
     features:
@@ -199,8 +199,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
-        price: 5222
+        updatedAt: "2026-06-10"
+        price: 5061
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
         rating: 4.5
@@ -232,12 +232,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-10"
         price: 8980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
         rating: 4.7
-        reviewCount: 158
+        reviewCount: 161
   - rank: 8
     name: "アーテミス フレッシュミックス スモールブリードアダルト3kg 小粒 小型犬 成犬 "
     brand: "アーテミス"
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F0813369001904.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-10"
         price: 5830
         rating: 4.72
         reviewCount: 97
@@ -278,7 +278,7 @@ products:
     capacity: "1kg"
     pricePerUnit: "約3000円/kg"
     rating: 4.72
-    reviewCount: 2539
+    reviewCount: 2540
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600a.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-10"
         price: 3000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600a"
         available: true
