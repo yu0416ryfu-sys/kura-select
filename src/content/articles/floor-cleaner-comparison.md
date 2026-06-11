@@ -1,6 +1,6 @@
 ---
 title: "フローリングシート コスパ最強ランキング【2026年版】1枚あたり最安で比較"
-description: "フローリング掃除シートを1枚あたりのコストで徹底比較。クイックルワイパー・ウェーブ・アイリスオーヤマなど人気11選を清潔力・コスパ・業務用まで解説します。"
+description: "フローリング掃除シートを1枚あたりのコストで徹底比較。クイックルワイパー・ウェーブ・アイリスオーヤマなど人気10選を清潔力・コスパ・業務用まで解説します。"
 category: "floor-cleaner"
 publishedAt: "2026-05-03"
 articleType: "comparison"
@@ -66,8 +66,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksdenki%2F4967576731652.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
-        price: 245
+        updatedAt: "2026-06-11"
+        price: 241
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksdenki_4967576731652"
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301281999.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-11"
         price: 631
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301281999"
         available: true
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 1640
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
         available: true
@@ -198,7 +198,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301327826.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 471
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301327826"
         available: true
@@ -325,28 +325,6 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_sk5254"
         available: true
-  - rank: 11
-    name: "クイックルワイパー 立体吸着ドライシート"
-    brand: "クイックルワイパー（花王）"
-    price: 0
-    capacity: "20枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "床用ワイパー向けの使い捨てドライシート"
-      - "立体吸着でホコリや髪をからめ取る設計"
-      - "フローリングの乾拭き掃除に対応"
-    pros:
-      - "サッと取り付けて手軽に掃除できる"
-      - "ホコリや髪の毛をまとめて取りやすい"
-      - "替えシートとして補充しやすい"
-    cons:
-      - "対応するワイパー本体が必要"
-      - "こびりついた汚れには別途ウェットタイプが必要"
-    recommendedFor: "フローリングの日常的な乾拭きをしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/a002256000433/"
-    imageUrl: ""
 tags:
   - "フローリングシート おすすめ"
   - "床掃除 コスパ"

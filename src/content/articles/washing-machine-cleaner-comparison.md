@@ -1,10 +1,10 @@
 ---
 title: "洗濯槽クリーナー コスパ最強ランキング【2026年版】塩素系・酸素系で比較"
-description: "洗濯槽クリーナーを1回あたりのコストで徹底比較。塩素系・酸素系の違いやオキシクリーン・洗濯槽カビキラーなど人気11選を解説します。"
+description: "洗濯槽クリーナーを1回あたりのコストで徹底比較。塩素系・酸素系の違いやオキシクリーン・洗濯槽カビキラーなど人気10選を解説します。"
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.26kg！★【"
@@ -13,7 +13,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.62円/g"
     rating: 4.64
-    reviewCount: 1418
+    reviewCount: 1419
     features:
       - "酸素系漂白剤で洗濯槽以外にも多用途"
       - "界面活性剤入りで洗浄力を強化（日本版）"
@@ -35,7 +35,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.63円/g"
     rating: 4.76
-    reviewCount: 1978
+    reviewCount: 1980
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "pH10.5のアルカリ性で汚れに働きかける"
@@ -60,7 +60,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann1"
         available: true
         rating: 4.56
-        reviewCount: 2027
+        reviewCount: 2028
   - rank: 3
     name: "洗たく槽カビキラー 塩素系液体タイプ 550g×3本"
     brand: "ジョンソン（カビキラー）"
@@ -181,7 +181,7 @@ products:
       - "四国化成ブランドのため流通量が限られる場合がある"
     recommendedFor: "縦型・ドラム式どちらにも使える汎用品を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u9stn.3rdw63e2.g00u9stn.3rdw7c29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshikokukasei%2Fwadhmania02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshikokukasei%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shikokukasei/cabinet/pr/13422794/2606_rss_3.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shikokukasei/cabinet/washmania02/washmania01/imgrc0128297174.jpg?_ex=128x128"
   - rank: 8
     name: "洗濯槽快 10個セット 専用ネット付 ホタテ貝殻素材"
     brand: "くらし快適ショップ"
@@ -249,46 +249,13 @@ products:
         rating: 0
         reviewCount: 1
   - rank: 10
-    name: "パナソニック 洗濯槽クリーナー ドラム式専用 N-W2 750mL"
-    brand: "パナソニック"
-    price: 1627
-    capacity: "750mL（1回分）"
-    pricePerUnit: "約2.2円/mL"
-    rating: 4.54
-    reviewCount: 35
-    features:
-      - "ドラム式洗濯機メーカー純正品"
-      - "塩素系で槽内のカビ・雑菌を強力除去"
-      - "ドラム式の構造に最適化された処方"
-    pros:
-      - "メーカー推奨で安心感がある"
-      - "ドラム式に最適化された洗浄力"
-      - "故障リスクを避けたい方に最適"
-    cons:
-      - "1回あたり約2,200円と高コスト"
-      - "ドラム式専用のため汎用性がない"
-    recommendedFor: "ドラム式洗濯機ユーザー・メーカー推奨品を使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4549077290441%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10184735%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/gg/4549077290441.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10176771.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-07"
-        price: 1368
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10176771"
-        available: true
-        rating: 4.75
-        reviewCount: 4
-  - rank: 11
     name: "パナソニック 洗濯槽クリーナー 縦型用 N-W1A"
     brand: "パナソニック（Panasonic）"
-    price: 0
+    price: 1584
     capacity: "1個"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約1584円/個"
+    rating: 4.72
+    reviewCount: 485
     features:
       - "縦型洗濯機向けの塩素系クリーナー"
       - "強力洗浄をうたう業務用レベル設計"
@@ -301,8 +268,8 @@ products:
       - "ドラム式には別品番が必要"
       - "塩素系のため取り扱いに注意が必要"
     recommendedFor: "縦型洗濯機の槽洗浄をしっかりしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/dentendo/va60200108/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rknln.3rdw6a32.g00rknln.3rdw70a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdentendo%2Fva60200108%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdentendo%2Fi%2F10026801%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dentendo/cabinet/08/va60200108_1.jpg?_ex=128x128"
 tags:
   - "洗濯槽クリーナー"
   - "コスパ"

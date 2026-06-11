@@ -1,10 +1,10 @@
 ---
-title: "ヘアオイル コスパ比較【2026年版】洗い流さないトリートメント おすすめ11選"
+title: "ヘアオイル コスパ比較【2026年版】洗い流さないトリートメント おすすめ10選"
 description: "洗い流さないヘアオイルを1mLあたりの単価で比較。サロン系・プチプラ・ナイトケアなど人気11商品を成分・仕上がり・容量で徹底比較します。"
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約10円/mL"
     rating: 4.66
-    reviewCount: 1993
+    reviewCount: 1994
     features:
       - "天然100%・無添加の精製（クリア）ホホバオイル。スキンケア・マッサージ・ヘアに多目的使用可"
       - "100mL・300mL・500mL・1000mLの大容量まで選べるサイズ展開"
@@ -50,7 +50,7 @@ products:
       - "詰め替え用がなく、継続購入時のコスト管理が必要"
     recommendedFor: "香り付きヘアオイルが苦手な人・しっとりまとまりを求める人・くせ毛ケアをしたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pixzn.3rdw6fcd.g00pixzn.3rdw761f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymsk%2F597910%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymsk%2Fi%2F10000461%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymsk/cabinet/itemimg/11846527/597910_1_2603.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymsk/cabinet/itemimg/thumb_logo/597910_1_2603.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -113,7 +113,7 @@ products:
     capacity: "150mL"
     pricePerUnit: "約20円/mL"
     rating: 4.56
-    reviewCount: 1050
+    reviewCount: 1051
     features:
       - "100%植物由来成分（スクワラン・アルガンオイル・ホホバオイル配合）"
       - "濡れ髪・乾いた髪どちらにも使えるアウトバスオイル"
@@ -133,12 +133,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbb-2023%2Fn-poil150.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
-        price: 3130
+        updatedAt: "2026-06-11"
+        price: 3230
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bb-2023_n-poil150"
         available: true
         rating: 4.6
-        reviewCount: 220
+        reviewCount: 225
   - rank: 6
     name: "オーガニックホホバオイル ゴールデン"
     brand: "自然化粧品研究所"
@@ -167,7 +167,7 @@ products:
     capacity: "80mL"
     pricePerUnit: "約29円/mL"
     rating: 4.64
-    reviewCount: 13570
+    reviewCount: 13577
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -181,7 +181,7 @@ products:
       - "成分の詳細情報が商品ページ上で少なめのため、成分重視の人は要確認"
     recommendedFor: "軽めのナチュラル仕上がりを好む人・オーガニック系成分にこだわりたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F90xb079s1wb7s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000288%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/ts/90xb079s1wb7s-30.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/allna/top/90xb079s1wb7s.jpg?_ex=128x128"
   - rank: 8
     name: "マドンナリリ ヘアオイル 100mL"
     brand: "MADONNA LILI"
@@ -211,7 +211,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約35円/mL"
     rating: 4.65
-    reviewCount: 3468
+    reviewCount: 3479
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"
@@ -231,12 +231,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisopo%2Floaoil.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 5500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_loaoil"
         available: true
         rating: 4.68
-        reviewCount: 392
+        reviewCount: 395
   - rank: 10
     name: "アメイジングシャインヘアオイル"
     brand: "クイーンズバスルーム"
@@ -244,7 +244,7 @@ products:
     capacity: "50mL"
     pricePerUnit: "約66円/mL"
     rating: 4.59
-    reviewCount: 2534
+    reviewCount: 2535
     features:
       - "ドライヤー後の乾いた髪に使う仕上げ用ヘアオイル"
       - "ツヤと潤いを与えながらボリューム感も保つ設計"
@@ -259,28 +259,6 @@ products:
     recommendedFor: "ドライ後の仕上げにヘアオイルを取り入れたい人・ハイダメージ毛のツヤ出しをしたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qjlvn.3rdw6daa.g00qjlvn.3rdw7d36/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fque-bath%2F100000022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fque-bath%2Fi%2F10000044%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/que-bath/cabinet/10279123/newhairoilmain.jpg?_ex=128x128"
-  - rank: 11
-    name: "ケラスターゼ ユイル クロノロジスト"
-    brand: "KERASTASE（ケラスターゼ）"
-    price: 0
-    capacity: "75mL"
-    pricePerUnit: "0円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "洗い流さないアウトバス用ヘアオイル"
-      - "ツヤ・ダメージケアを意識した設計"
-      - "サロン系のヘアケアライン"
-    pros:
-      - "毛先のパサつきをケアしやすい"
-      - "ツヤ感を出したい方に向く"
-      - "スタイリング前後どちらでも使える"
-    cons:
-      - "価格は一般的なヘアオイルより高め"
-      - "つけすぎると重くなりやすい"
-    recommendedFor: "ツヤとまとまりを重視したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/kerastase-varie/ch-huilc_120/"
-    imageUrl: ""
 tags:
   - "ヘアオイル おすすめ"
   - "ヘアオイル コスパ"

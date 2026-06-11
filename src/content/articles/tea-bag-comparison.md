@@ -1,10 +1,10 @@
 ---
-title: "麦茶ティーバッグのコスパ比較【まとめ買いおすすめ11選】"
+title: "麦茶ティーバッグのコスパ比較【まとめ買いおすすめ10選】"
 description: "伊藤園・はくばくなど人気麦茶ティーバッグを1袋あたりの単価で比較。内容量・タイプ別の特徴から夏の水分補給やまとめ買いに最適な商品を紹介します。"
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-06-11"
+updatedAt: 2026-06-11
 draft: false
 products:
   - rank: 1
@@ -83,7 +83,7 @@ products:
       - "単価比較時は購入セット数に注意"
     recommendedFor: "日常的な水分補給に大容量を備蓄したい家庭向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pifhn.3rdw6a3e.g00pifhn.3rdw7cc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakae%2F4901085196885%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakae%2Fi%2F10027585%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakae/cabinet/1/4901085196885.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakae/cabinet/img004/4901085196885.jpg?_ex=128x128"
   - rank: 4
     name: "はくばく 水出しでおいしい麦茶 ティーバッグ"
     brand: "はくばく"
@@ -105,7 +105,7 @@ products:
       - "まとめ買い総量は他製品より少なめ"
     recommendedFor: "原材料にこだわりたい・水出し麦茶を手軽に楽しみたい人向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4gan.3rdw631b.g00s4gan.3rdw7c3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcheeky%2Fu508146%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcheeky%2Fi%2F10370771%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cheeky/cabinet/point-up/u508146.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cheeky/cabinet/8001-8500/u508146.jpg?_ex=128x128"
   - rank: 5
     name: "ゼンヤクノー 十六爽健麦茶 ティーバッグ 192g×5個"
     brand: "竹田本社"
@@ -219,9 +219,9 @@ products:
   - rank: 10
     name: "国産はとむぎ茶"
     brand: "ティーライフ"
-    price: 1000
+    price: 1390
     capacity: "3.5g×50個"
-    pricePerUnit: "約5.7円/g"
+    pricePerUnit: "約7.9円/g"
     rating: 4.63
     reviewCount: 388
     features:
@@ -238,28 +238,6 @@ products:
     recommendedFor: "はとむぎの風味を楽しみながら国産原料にこだわりたい人向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pufzn.3rdw677e.g00pufzn.3rdw7a38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftea-life%2F93366%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftea-life%2Fi%2F10006754%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tea-life/cabinet/drink/hatomugi/93366h_thumb02-2.jpg?_ex=128x128"
-  - rank: 11
-    name: "九州産 麦茶 焙煎むぎ茶"
-    brand: "タマチャンショップ"
-    price: 0
-    capacity: "100包"
-    pricePerUnit: "0円/包"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "九州産大麦を使った麦茶パック"
-      - "煮出し・水出し両対応"
-      - "ノンカフェインの大容量パック"
-    pros:
-      - "まとめ買いで日常的に使いやすい"
-      - "煮出しでも水出しでも作れる"
-      - "ノンカフェインで家族で飲みやすい"
-    cons:
-      - "保管時の湿気対策が必要"
-      - "濃さの好みは抽出時間で調整が必要"
-    recommendedFor: "麦茶を大容量でストックしたい家庭"
-    rakutenUrl: "https://item.rakuten.co.jp/kyunan/tama-kyusyu-mugicya/"
-    imageUrl: ""
 tags:
   - "麦茶 おすすめ"
   - "麦茶 コスパ"

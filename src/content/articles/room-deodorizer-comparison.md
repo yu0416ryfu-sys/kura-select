@@ -1,10 +1,10 @@
 ---
 title: "消臭剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・リセッシュ・無香空間・ファブリーズなど人気11選を香り・持続力・コスパで解説します。"
+description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・リセッシュ・無香空間・ファブリーズなど人気10選を香り・持続力・コスパで解説します。"
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "サライウォーター 大容量 次亜塩素酸水"
@@ -60,13 +60,13 @@ products:
       - "使用場所の注意書き確認が必要"
     recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q1mvn.3rdw675d.g00q1mvn.3rdw735a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogparadise%2F1151%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogparadise%2Fi%2F10003603%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/ad_cart/ss/01/4580361060036.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/img07/4580361060036.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F4580361060036.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 7700
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_4580361060036"
         available: true
@@ -135,11 +135,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7288422.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F580764.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 3080
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7288422"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_580764"
         available: true
         rating: 0
         reviewCount: 0
@@ -228,7 +228,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1183円/kg"
     rating: 4.79
-    reviewCount: 2935
+    reviewCount: 2937
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -244,28 +244,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/10000008_page01_01.jpg?_ex=128x128"
   - rank: 9
-    name: "ハルの消臭剤 消臭ビーズ 空容器セット"
-    brand: "ハル・インダストリ"
-    price: 5049
-    capacity: "4kg"
-    pricePerUnit: "約1262円/kg"
-    rating: 4.68
-    reviewCount: 1629
-    features:
-      - "部屋や玄関などのニオイ対策に使える"
-      - "置き型・スプレー・詰替などから選べる"
-      - "ペットや靴まわりにも使いやすい"
-    pros:
-      - "生活臭対策に取り入れやすい"
-      - "容量違いを選べる"
-      - "設置場所に合わせやすい"
-    cons:
-      - "香りや無香料の好みは分かれる"
-      - "使用場所の注意書き確認が必要"
-    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/10972805/10000009_sale-thumb.jpg?_ex=128x128"
-  - rank: 10
     name: "無香空間 本体 315g"
     brand: "小林製薬"
     price: 448
@@ -299,28 +277,28 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 11
-    name: "ハルの消臭剤 消臭ビーズ"
-    brand: "ハルインダストリ"
-    price: 0
-    capacity: "600g"
-    pricePerUnit: "0円/g"
-    rating: 0
-    reviewCount: 0
+  - rank: 10
+    name: "ハルの消臭剤 消臭ビーズ 空容器セット"
+    brand: "ハル・インダストリ"
+    price: 5610
+    capacity: "4kg"
+    pricePerUnit: "約1403円/kg"
+    rating: 4.68
+    reviewCount: 1629
     features:
-      - "置き型の消臭ビーズ"
-      - "無香料タイプ"
-      - "業務用にも使える大容量"
+      - "部屋や玄関などのニオイ対策に使える"
+      - "置き型・スプレー・詰替などから選べる"
+      - "ペットや靴まわりにも使いやすい"
     pros:
-      - "香りを足さずニオイをケアできる"
-      - "置くだけで手軽に使える"
-      - "大容量で広い空間にも使いやすい"
+      - "生活臭対策に取り入れやすい"
+      - "容量違いを選べる"
+      - "設置場所に合わせやすい"
     cons:
-      - "香りで気分転換したい用途には不向き"
-      - "効果の持続は環境により変わる"
-    recommendedFor: "無香料の置き型消臭剤を探している方"
-    rakutenUrl: "https://item.rakuten.co.jp/halindustry/10000006/"
-    imageUrl: ""
+      - "香りや無香料の好みは分かれる"
+      - "使用場所の注意書き確認が必要"
+    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/10000009_page01_01.jpg?_ex=128x128"
 tags:
   - "消臭剤 おすすめ"
   - "消臭剤 コスパ"

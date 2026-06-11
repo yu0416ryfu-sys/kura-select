@@ -1,6 +1,6 @@
 ---
 title: "食洗機用洗剤 コスパ最強ランキング【2026年版】粉末・ジェル・タブで比較"
-description: "食洗機用洗剤を1回あたりのコストで徹底比較。フィニッシュ・キュキュット・ジョイ・チャーミーの人気11選を洗浄力・コスパで解説します。"
+description: "食洗機用洗剤を1回あたりのコストで徹底比較。フィニッシュ・キュキュット・ジョイ・チャーミーの人気10選を洗浄力・コスパで解説します。"
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430777537x3.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 1705
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430777537x3"
         available: true
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430777537x3.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 1705
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430777537x3"
         available: true
@@ -285,8 +285,8 @@ products:
     price: 0
     capacity: "450個"
     pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
+    rating: 4.82
+    reviewCount: 217
     features:
       - "タブレットタイプの食洗機用洗剤"
       - "大容量のビッグパック3袋セット"
@@ -299,30 +299,8 @@ products:
       - "保管スペースを取りやすい"
       - "庫内や水質により溶け残りの確認が必要"
     recommendedFor: "食洗機用タブレットを大容量でストックしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/good-item/co-447/"
-    imageUrl: ""
-  - rank: 11
-    name: "フィニッシュ タブレット 2層タイプ"
-    brand: "フィニッシュ（Finish）"
-    price: 0
-    capacity: "150個"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "2層タイプの食洗機用タブレット"
-      - "1回1個で使える設計"
-      - "まとめ買い向けの個数構成"
-    pros:
-      - "2層タイプで洗浄を意識した設計"
-      - "計量不要で扱いやすい"
-      - "ストックしやすい個数"
-    cons:
-      - "タブレットは少量使いの調整がしにくい"
-      - "庫内や水質により溶け残りの確認が必要"
-    recommendedFor: "タブレット食洗機洗剤を試したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/good-mam88/10001842/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00smopn.3rdw6e18.g00smopn.3rdw71ae/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-item%2Fco-447%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-item%2Fi%2F10001489%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-item/cabinet/10833108/compass1761547126.jpg?_ex=128x128"
 tags:
   - "食洗機用洗剤"
   - "コスパ"

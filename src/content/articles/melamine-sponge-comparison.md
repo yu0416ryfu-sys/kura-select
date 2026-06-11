@@ -1,5 +1,5 @@
 ---
-title: "メラミンスポンジ コスパ比較【2026年版】キューブ型11選"
+title: "メラミンスポンジ コスパ比較【2026年版】キューブ型10選"
 description: "メラミンスポンジを1個あたりのコストで比較。キューブ型・大容量・日本製など、キッチンや水まわり掃除に使いやすい商品を選びます。"
 category: "melamine-sponge"
 publishedAt: "2026-06-03"
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkawauchi%2F2kkb50088.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 139
         rating: 5
         reviewCount: 5
@@ -67,13 +67,46 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903320580169.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 305
         rating: 0
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903320580169"
         available: true
   - rank: 3
+    name: "激落ちポイポイ カットタイプ"
+    brand: "レック（LEC）"
+    price: 198
+    capacity: "20個"
+    pricePerUnit: "約9.9円/個"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "カット済みのメラミンフォームスポンジ"
+      - "水だけで汚れを落とせるタイプ"
+      - "キューブ状で扱いやすいサイズ"
+    pros:
+      - "カット済みで使いたい分だけ取り出せる"
+      - "水だけで使えて洗剤いらず"
+      - "使い捨てしやすい個数構成"
+    cons:
+      - "光沢面やコーティング面には不向き"
+      - "使ううちに小さくすり減っていく"
+    recommendedFor: "茶渋や水あかをこまめに落としたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf4an.3rdw647e.g00qf4an.3rdw7c2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fra-beans%2F0784793%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fra-beans%2Fi%2F10012189%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/g/0784793.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyh-beans%2F0784793.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-11"
+        price: 198
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_0784793"
+        available: true
+  - rank: 4
     name: "ピカ王 ジュニア メラミンスポンジ"
     brand: "ピカ王"
     price: 298
@@ -100,13 +133,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcolorfulbox%2F455149.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 328
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/colorfulbox_455149"
         available: true
-  - rank: 4
+  - rank: 5
     name: "毎日とりかえメラミンスポンジ 30個"
     brand: "アイセン"
     price: 332
@@ -133,13 +166,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnitori-net%2F2111200023626-0000000000003.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-11"
         price: 897
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nitori-net_2111200023626-0000000000003"
         available: true
-  - rank: 5
+  - rank: 6
     name: "レック 激落ちくん メラミンスポンジ 工場用"
     brand: "レック（激落ちくん）"
     price: 5000
@@ -166,13 +199,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fyy5504.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 5649
         rating: 0
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_yy5504"
         available: true
-  - rank: 6
+  - rank: 7
     name: "激落ちくん メラミンスポンジ 6個セット"
     brand: "レック（激落ちくん）"
     price: 719
@@ -199,13 +232,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F103-m006-4903320579101.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-11"
         price: 761
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/atlife_103-m006-4903320579101"
         available: true
-  - rank: 7
+  - rank: 8
     name: "激落ちくん メラミンスポンジ まとめ買い"
     brand: "レック（激落ちくん）"
     price: 8500
@@ -232,13 +265,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyh-beans%2F0784751x60.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
+        updatedAt: "2026-06-11"
         price: 5980
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_0784751x60"
         available: true
-  - rank: 8
+  - rank: 9
     name: "激落ちくんパパ メラミンスポンジ まとめ買い"
     brand: "レック（激落ちくん）"
     price: 12500
@@ -260,7 +293,7 @@ products:
     recommendedFor: "メラミンスポンジを用途や個数で選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fhouse-cleaner41%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10001609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item7/house-cleaner41-a1.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "激落ちくん メラミンスポンジ"
     brand: "レック（激落ちくん）"
     price: 220
@@ -287,56 +320,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758956223-1-d.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 305
         rating: 0
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhan-okusuri_1758956223-1-d"
         available: true
-  - rank: 10
-    name: "激落ちくん ダブルポイポイ 4個セット"
-    brand: "レック（激落ちくん）"
-    price: 1000
-    capacity: "4個"
-    pricePerUnit: "約250円/個"
-    rating: 5
-    reviewCount: 3
-    features:
-      - "メラミンフォームの掃除用スポンジ"
-      - "水を含ませて使うタイプ"
-      - "水まわりや陶器まわりの掃除向け"
-    pros:
-      - "日常の部分掃除に使いやすい"
-      - "個数やサイズ違いで選びやすい"
-      - "ストック用として比較しやすい"
-    cons:
-      - "使えない素材を事前に確認する必要がある"
-      - "強くこすりすぎないよう注意したい"
-    recommendedFor: "メラミンスポンジを用途や個数で選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgo8n.3rdw65ec.g00tgo8n.3rdw717e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstore-marufuku%2Famac-a86059%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstore-marufuku%2Fi%2F10009776%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/store-marufuku/cabinet/shohin/tanaka25/amac-a86059_1.jpg?_ex=128x128"
-  - rank: 11
-    name: "激落ちポイポイ カットタイプ"
-    brand: "レック（LEC）"
-    price: 0
-    capacity: "20個"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "カット済みのメラミンフォームスポンジ"
-      - "水だけで汚れを落とせるタイプ"
-      - "キューブ状で扱いやすいサイズ"
-    pros:
-      - "カット済みで使いたい分だけ取り出せる"
-      - "水だけで使えて洗剤いらず"
-      - "使い捨てしやすい個数構成"
-    cons:
-      - "光沢面やコーティング面には不向き"
-      - "使ううちに小さくすり減っていく"
-    recommendedFor: "茶渋や水あかをこまめに落としたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/ra-beans/0784793/"
-    imageUrl: ""
 tags:
   - "メラミンスポンジ おすすめ"
   - "メラミンスポンジ コスパ"

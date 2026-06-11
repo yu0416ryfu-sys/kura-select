@@ -1,10 +1,10 @@
 ---
 title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
-description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ11選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
+description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ10選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-06-11"
+updatedAt: 2026-06-11
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -13,7 +13,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約4.4円/枚"
     rating: 4.77
-    reviewCount: 1499
+    reviewCount: 1502
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -172,6 +172,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fbx-530box2kobako%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10001012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/ecotaibox/bx/45l/bx-530n_2k.jpg?_ex=128x128"
   - rank: 7
+    name: "業務用ゴミ袋 45L 半透明 厚手"
+    brand: "ケイヨウ実業"
+    price: 2880
+    capacity: "200枚"
+    pricePerUnit: "約14円/枚"
+    rating: 4.13
+    reviewCount: 67
+    features:
+      - "45Lサイズの半透明ゴミ袋"
+      - "破れにくい厚手タイプ"
+      - "業務用の大容量パック"
+    pros:
+      - "厚手で破れにくく扱いやすい"
+      - "大容量でコスパを重視しやすい"
+      - "家庭でも業務でも使いやすい"
+    cons:
+      - "保管スペースを取りやすい"
+      - "薄手を求める方には厚すぎる場合がある"
+    recommendedFor: "45Lの丈夫なゴミ袋をまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00umsyn.3rdw6998.g00umsyn.3rdw7ed2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeiyoujitsugyou%2Fk2404%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeiyoujitsugyou%2Fi%2F10000041%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keiyoujitsugyou/cabinet/11482914/13224248/1.jpg?_ex=128x128"
+  - rank: 8
     name: "クラフトマン 業務用厚手ゴミ袋 45L 100枚"
     brand: "クラフトマン"
     price: 1580
@@ -193,7 +215,29 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F466-6776%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10061351%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin400_06/466-6776.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
+    name: "東京都容量表示ポリ袋 70L 白半透明"
+    brand: "サンキョウプラテック"
+    price: 10000
+    capacity: "500枚"
+    pricePerUnit: "約20円/枚"
+    rating: 5
+    reviewCount: 5
+    features:
+      - "70Lサイズの容量表示ポリ袋"
+      - "白半透明・厚さ0.020mm"
+      - "まとめ買い向けの大容量"
+    pros:
+      - "大容量でコスパを重視しやすい"
+      - "容量表示対応で自治体ルールに合わせやすい"
+      - "厚手で扱いやすい"
+    cons:
+      - "保管にスペースを取りやすい"
+      - "自治体の指定袋仕様の確認が必要"
+    recommendedFor: "70Lのゴミ袋を大容量でストックしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fkc-73%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10001776%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/sitei/kc/kc-73n_1.jpg?_ex=128x128"
+  - rank: 10
     name: "ゴミ袋 90L 業務用 厚手"
     brand: "ケイヨウ実業"
     price: 5780
@@ -226,83 +270,6 @@ products:
         available: true
         rating: 5
         reviewCount: 13
-  - rank: 9
-    name: "ケミカルジャパン ポリ袋 70L 半透明 100枚 HD-890"
-    brand: "ケミカルジャパン"
-    price: 3103
-    capacity: "100枚"
-    pricePerUnit: "約31円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tkpzn.3rdw6397.g00tkpzn.3rdw7d6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famuro-express%2Fiibt5vrn2u2cucz6retuwpk7fa%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famuro-express%2Fi%2F10015969%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amuro-express/cabinet/10836501/16074724_0.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhcbrico%2F4991437170069.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-10"
-        price: 500
-        rating: 4.4
-        reviewCount: 5
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hcbrico_4991437170069"
-        available: true
-  - rank: 10
-    name: "東京都容量表示ポリ袋 70L 白半透明"
-    brand: "サンキョウプラテック"
-    price: 0
-    capacity: "500枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "70Lサイズの容量表示ポリ袋"
-      - "白半透明・厚さ0.020mm"
-      - "まとめ買い向けの大容量"
-    pros:
-      - "大容量でコスパを重視しやすい"
-      - "容量表示対応で自治体ルールに合わせやすい"
-      - "厚手で扱いやすい"
-    cons:
-      - "保管にスペースを取りやすい"
-      - "自治体の指定袋仕様の確認が必要"
-    recommendedFor: "70Lのゴミ袋を大容量でストックしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/poly-stadium/kc-73/"
-    imageUrl: ""
-  - rank: 11
-    name: "業務用ゴミ袋 45L 半透明 厚手"
-    brand: "ケイヨウ実業"
-    price: 0
-    capacity: "200枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "45Lサイズの半透明ゴミ袋"
-      - "破れにくい厚手タイプ"
-      - "業務用の大容量パック"
-    pros:
-      - "厚手で破れにくく扱いやすい"
-      - "大容量でコスパを重視しやすい"
-      - "家庭でも業務でも使いやすい"
-    cons:
-      - "保管スペースを取りやすい"
-      - "薄手を求める方には厚すぎる場合がある"
-    recommendedFor: "45Lの丈夫なゴミ袋をまとめ買いしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/keiyoujitsugyou/k2404/"
-    imageUrl: ""
 tags:
   - "ゴミ袋"
   - "コスパ"

@@ -4,7 +4,7 @@ description: "エアコンフィルターの交換タイプ・枚数・コスパ
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -76,9 +76,9 @@ products:
   - rank: 3
     name: "エアコンフィルター 5枚入"
     brand: "東和産業"
-    price: 1870
+    price: 2390
     capacity: "5枚"
-    pricePerUnit: "約374円/枚"
+    pricePerUnit: "約478円/枚"
     rating: 4.29
     reviewCount: 28
     features:
@@ -134,7 +134,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F478367.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 478
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_478367"
         available: true
@@ -213,7 +213,7 @@ products:
     capacity: "2枚"
     pricePerUnit: "約795円/枚"
     rating: 4.4
-    reviewCount: 485
+    reviewCount: 486
     features:
       - "バイオ酵素配合でカビの発生を抑制する設計"
       - "粘着シール付きでフレームなしで装着可能"

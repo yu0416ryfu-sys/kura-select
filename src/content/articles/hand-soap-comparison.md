@@ -1,10 +1,10 @@
 ---
-title: "ハンドソープ コスパ最強ランキング【2026年版】殺菌力・保湿成分で比較11選"
-description: "ハンドソープを1回あたりのコストで徹底比較。キレイキレイ・ビオレu・ミューズ・ジェームズマーティンなど人気11選を紹介。殺菌力重視・保湿重視・家族向けに最適な商品が分かります。"
+title: "ハンドソープ コスパ最強ランキング【2026年版】殺菌力・保湿成分で比較10選"
+description: "ハンドソープを1回あたりのコストで徹底比較。キレイキレイ・ビオレu・ミューズ・ジェームズマーティンなど人気10選を紹介。殺菌力重視・保湿重視・家族向けに最適な商品が分かります。"
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "ビオレ泡4リットル ビオレu　泡ハンドソープ"
@@ -12,8 +12,8 @@ products:
     price: 2695
     capacity: "2L×2本"
     pricePerUnit: "約674円/L"
-    rating: 4.67
-    reviewCount: 236
+    rating: 4.66
+    reviewCount: 239
     features:
       - "素肌と同じ弱酸性で肌にやさしい"
       - "SPT（肌清浄化技術）で汚れをすっきり落とす"
@@ -66,13 +66,35 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-depart%2F409774.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 388
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-depart_409774"
         available: true
         rating: 4.69
         reviewCount: 35
   - rank: 3
+    name: "キレイキレイ 薬用泡ハンドソープ 詰替用"
+    brand: "キレイキレイ（Kirei Kirei）"
+    price: 4164
+    capacity: "4800ml"
+    pricePerUnit: "約0.87円/mL"
+    rating: 4.71
+    reviewCount: 395
+    features:
+      - "薬用タイプの泡ハンドソープ"
+      - "シトラスフルーティの香り"
+      - "まとめ買い向けの詰め替えセット"
+    pros:
+      - "泡で出て子どもでも洗いやすい"
+      - "詰め替えでコスパよく使える"
+      - "定番ブランドで安心して選びやすい"
+    cons:
+      - "専用の泡ポンプ容器が必要"
+      - "香りの好みが分かれる"
+    recommendedFor: "泡ハンドソープをまとめ買いしたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F90667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10986242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/667/90667.jpg?_ex=128x128"
+  - rank: 4
     name: "キレイキレイ 薬用泡ハンドソープ シトラスフルーティ 詰替用 450ml×6袋"
     brand: "ライオン（キレイキレイ）"
     price: 2772
@@ -94,7 +116,7 @@ products:
     recommendedFor: "家族が多い家庭・殺菌力を重視しながら詰め替えをまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F99035%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11017200%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/035/99035.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "キレイキレイ 薬用泡ハンドソープ シトラスフルーティの香り つめかえ用 大型サイズ"
     brand: "ライオン（キレイキレイ）"
     price: 475
@@ -121,13 +143,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r001-4903301176862.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 348
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r001-4903301176862"
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 5
+  - rank: 6
     name: "ハンドラボ 薬用泡ハンドソープ 300mL"
     brand: "サラヤ（ハンドラボ）"
     price: 361
@@ -154,13 +176,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-depart%2F462535.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 337
         rating: 4.17
         reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-depart_462535"
         available: true
-  - rank: 6
+  - rank: 7
     name: "ミヨシ無添加せっけん 泡のハンドソープ リフィル"
     brand: "ミヨシ石鹸"
     price: 471
@@ -182,7 +204,7 @@ products:
     recommendedFor: "無添加・低刺激にこだわる方・赤ちゃんや敏感肌の家族がいる家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200474%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10114171%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/614/4904551100614.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 8
     name: "ジェームズマーティン 薬用泡ハンドソープ 詰め替え用"
     brand: "ジェームズマーティン"
     price: 737
@@ -209,13 +231,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fj0030012.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 737
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_j0030012"
         available: true
         rating: 4.67
         reviewCount: 12
-  - rank: 8
+  - rank: 9
     name: "ミューズ 泡ハンドソープ 詰め替え 大容量 900mL"
     brand: "レキットベンキーザー（ミューズ）"
     price: 1914
@@ -237,7 +259,7 @@ products:
     recommendedFor: "殺菌力を最重視する方・しっかり洗いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404861%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11127123%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/861/404861.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "ジェームズマーティン 薬用泡ハンドソープ"
     brand: "ジェームズマーティン"
     price: 1254
@@ -264,67 +286,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fj0030009.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 1254
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_j0030009"
         available: true
         rating: 4.62
         reviewCount: 63
-  - rank: 10
-    name: "ジェームズマーティン 薬用泡ハンドソープ 無香料"
-    brand: "ジェームズマーティン"
-    price: 1293
-    capacity: "400ml"
-    pricePerUnit: "約3.2円/mL"
-    rating: 4.41
-    reviewCount: 117
-    features:
-      - "殺菌・消毒成分配合の医薬部外品で弱酸性処方"
-      - "無香料設計でNMFなどの保湿成分を配合した本体ボトル"
-      - "濃密な泡立ちですすぎが素早く終わる使い心地"
-    pros:
-      - "無香料でどんな環境にも置きやすく、香りの好みを選ばない"
-      - "殺菌力と保湿力を両立しながら弱酸性で肌への刺激を抑えたい方向き"
-      - "シンプルなデザインで洗面台・キッチン・職場など場所を選ばない"
-    cons:
-      - "本体ボトルのみのためコスト面では詰め替えタイプに劣る"
-      - "保湿を強く重視する方にはさらに保湿特化型の商品が向く場合がある"
-    recommendedFor: "無香料で薬用・弱酸性のハンドソープを求める方・匂いに敏感な職場や家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe474931h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10572500%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/011/4573388510011.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fredcabin%2Fjam-100-0011.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-06"
-        price: 1254
-        rating: 4
-        reviewCount: 3
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/redcabin_jam-100-0011"
-        available: true
-  - rank: 11
-    name: "キレイキレイ 薬用泡ハンドソープ 詰替用"
-    brand: "キレイキレイ（Kirei Kirei）"
-    price: 0
-    capacity: "4800ml"
-    pricePerUnit: "0円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "薬用タイプの泡ハンドソープ"
-      - "シトラスフルーティの香り"
-      - "まとめ買い向けの詰め替えセット"
-    pros:
-      - "泡で出て子どもでも洗いやすい"
-      - "詰め替えでコスパよく使える"
-      - "定番ブランドで安心して選びやすい"
-    cons:
-      - "専用の泡ポンプ容器が必要"
-      - "香りの好みが分かれる"
-    recommendedFor: "泡ハンドソープをまとめ買いしたい家庭"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/90667/"
-    imageUrl: ""
 tags:
   - "ハンドソープ"
   - "コスパ"

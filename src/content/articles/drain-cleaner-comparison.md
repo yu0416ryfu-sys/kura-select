@@ -1,10 +1,10 @@
 ---
-title: "排水口クリーナー コスパ比較【2026年版】パイプ洗浄剤11選"
+title: "排水口クリーナー コスパ比較【2026年版】パイプ洗浄剤10選"
 description: "排水口クリーナーを容量あたりのコストで比較。ジェルタイプや大容量セットなど、浴室・洗面所・キッチンで使いやすい商品を選びます。"
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-06-11"
+updatedAt: 2026-06-11
 draft: false
 products:
   - rank: 1
@@ -304,28 +304,6 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_9q0975"
         available: true
-  - rank: 11
-    name: "バイオサイクル キッチン用 濃密泡タイプ"
-    brand: "バイオサイクル"
-    price: 0
-    capacity: "3本"
-    pricePerUnit: "0円/本"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "排水口のぬめり対策の泡タイプ洗浄剤"
-      - "塩素不使用・重曹配合"
-      - "キッチンの排水口向け"
-    pros:
-      - "泡が排水口にとどまりやすい"
-      - "塩素不使用で扱いやすい"
-      - "3本セットで定期ケアしやすい"
-    cons:
-      - "強力な詰まり除去用途には不向き"
-      - "泡タイプは使用量がやや多くなりやすい"
-    recommendedFor: "排水口のぬめりや臭いを手軽にケアしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/woddylabo/941834-b3/"
-    imageUrl: ""
 tags:
   - "排水口クリーナー おすすめ"
   - "パイプクリーナー コスパ"

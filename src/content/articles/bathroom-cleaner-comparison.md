@@ -1,6 +1,6 @@
 ---
-title: "お風呂用洗剤 コスパ最強ランキング【2026年版】1mL0.33円〜11選比較"
-description: "お風呂用洗剤を容量あたりのコストで比較。最安候補は約0.33円/mL。バスマジックリン・ルック・カビキラー・ウタマロなど11選を洗浄力・防カビ・コスパで解説します。"
+title: "お風呂用洗剤 コスパ最強ランキング【2026年版】1mL0.33円〜10選比較"
+description: "お風呂用洗剤を容量あたりのコストで比較。最安候補は約0.33円/mL。バスマジックリン・ルック・カビキラー・ウタマロなど10選を洗浄力・防カビ・コスパで解説します。"
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fn-yakuhin%2F4903301015369-3kea.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 1000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/n-yakuhin_4903301015369-3kea"
         available: true
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F85253.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 3262
         rating: 0
         reviewCount: 0
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301453242.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301453242"
         available: true
@@ -281,28 +281,6 @@ products:
     recommendedFor: "自然派洗剤派の方・定期的に風呂釜洗浄したい方・エコ洗剤を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100000031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000033%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/ecomate_hgc_03.jpg?_ex=128x128"
-  - rank: 11
-    name: "カビ取りジェル 防カビプラス 業務用"
-    brand: "純閃堂（じゅんせんどう）"
-    price: 0
-    capacity: "200g"
-    pricePerUnit: "0円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "密着タイプのカビ取りジェル"
-      - "ゴムパッキンや目地向けの設計"
-      - "業務用サイズ"
-    pros:
-      - "ジェルが垂直面にとどまりやすい"
-      - "パッキンの黒ずみにアプローチしやすい"
-      - "しっかりケアしたい方に向く"
-    cons:
-      - "塩素系のため換気と保護が必要"
-      - "素材によっては目立たない場所で確認が必要"
-    recommendedFor: "ゴムパッキンの黒カビを集中ケアしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/osouji-kis/s-015/"
-    imageUrl: ""
 tags:
   - "お風呂用洗剤"
   - "コスパ"

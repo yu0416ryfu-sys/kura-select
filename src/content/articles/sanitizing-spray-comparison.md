@@ -1,10 +1,10 @@
 ---
 title: "除菌スプレー コスパ最強ランキング【2026年版】濃度・容量で比較"
-description: "除菌スプレー・アルコールを1mLあたりのコストで徹底比較。パストリーゼ・カビキラー除菌・フマキラーなど人気11選を解説します。"
+description: "除菌スプレー・アルコールを1mLあたりのコストで徹底比較。パストリーゼ・カビキラー除菌・フマキラーなど人気10選を解説します。"
 category: "sanitizing-spray"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "カビキラー アルコール除菌 キッチン用 詰め替え用【カビキラー】[アルコールスプ"
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4902424441727.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 450
         rating: 4.43
         reviewCount: 7
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsukoyakakomachi%2Faqarfa1l.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 1540
         rating: 5
         reviewCount: 11
@@ -150,13 +150,35 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rt83n.3rdw6209.g00rt83n.3rdw7241/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsukoyakakomachi%2Faqarfa500mlx3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsukoyakakomachi%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/sukoyakakomachi/banner/r_syohin_af5003.jpg?_ex=128x128"
   - rank: 6
+    name: "シュシュキッキ 除菌消臭ミスト"
+    brand: "シュシュキッキ"
+    price: 1518
+    capacity: "300ml"
+    pricePerUnit: "約5.1円/mL"
+    rating: 4.4
+    reviewCount: 880
+    features:
+      - "除菌・消臭用途のスプレーまたは液剤"
+      - "靴や室内など用途別に選びやすい"
+      - "詰替やセット品も選べる"
+    pros:
+      - "気になる場所に使いやすい"
+      - "容量違いを選びやすい"
+      - "ストック向き"
+    cons:
+      - "対象素材への使用可否確認が必要"
+      - "成分や濃度の確認が必要"
+    recommendedFor: "除菌スプレーを用途と容量で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptlfn.3rdw66e3.g00ptlfn.3rdw7472/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakano-d%2Fkesisaru-250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakano-d%2Fi%2F10015729%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakano-d/cabinet/brand/bracebe/pic/chouchoukikki_300_1.jpg?_ex=128x128"
+  - rank: 7
     name: "ブテナロック 除菌抗菌スプレー 3本セット"
     brand: "ブテナロック"
-    price: 2646
+    price: 2940
     capacity: "180ml×3本"
-    pricePerUnit: "約4.9円/mL"
+    pricePerUnit: "約5.4円/mL"
     rating: 4.69
-    reviewCount: 1707
+    reviewCount: 1711
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"
@@ -182,28 +204,6 @@ products:
         available: true
         rating: 4.69
         reviewCount: 70
-  - rank: 7
-    name: "シュシュキッキ 除菌消臭ミスト"
-    brand: "シュシュキッキ"
-    price: 1518
-    capacity: "300ml"
-    pricePerUnit: "約5.1円/mL"
-    rating: 4.4
-    reviewCount: 880
-    features:
-      - "除菌・消臭用途のスプレーまたは液剤"
-      - "靴や室内など用途別に選びやすい"
-      - "詰替やセット品も選べる"
-    pros:
-      - "気になる場所に使いやすい"
-      - "容量違いを選びやすい"
-      - "ストック向き"
-    cons:
-      - "対象素材への使用可否確認が必要"
-      - "成分や濃度の確認が必要"
-    recommendedFor: "除菌スプレーを用途と容量で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptlfn.3rdw66e3.g00ptlfn.3rdw7472/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakano-d%2Fkesisaru-250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakano-d%2Fi%2F10015729%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakano-d/cabinet/brand/bracebe/pic/chouchoukikki_300_1.jpg?_ex=128x128"
   - rank: 8
     name: "ブテナロック 除菌抗菌スプレー"
     brand: "ブテナロック"
@@ -211,7 +211,7 @@ products:
     capacity: "180ml"
     pricePerUnit: "約5.6円/mL"
     rating: 4.65
-    reviewCount: 4054
+    reviewCount: 4057
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"
@@ -292,28 +292,6 @@ products:
     recommendedFor: "除菌スプレーを用途と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tfaun.3rdw63b0.g00tfaun.3rdw7d50/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fandwpaia%2Fandwpaia_100x300x600_copy%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fandwpaia%2Fi%2F10000035%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/andwpaia/cabinet/07621536/imgrc0089044303.jpg?_ex=128x128"
-  - rank: 11
-    name: "除菌スプレー スリーフ"
-    brand: "SLeeP（スリーフ）"
-    price: 0
-    capacity: "1500ml"
-    pricePerUnit: "0円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "次亜塩素酸タイプの除菌・消臭スプレー"
-      - "ノンアルコール処方"
-      - "本体＋詰め替えの大容量セット"
-    pros:
-      - "アルコールが苦手な場面でも使いやすい"
-      - "除菌と消臭をまとめてケアできる"
-      - "詰め替え付きで続けやすい"
-    cons:
-      - "次亜塩素酸は光や時間で効果が変化しやすい"
-      - "用途に応じた濃度確認が必要"
-    recommendedFor: "ノンアルコールの除菌スプレーを探している方"
-    rakutenUrl: "https://item.rakuten.co.jp/cubic-square/10000009/"
-    imageUrl: ""
 tags:
   - "除菌スプレー"
   - "アルコール"

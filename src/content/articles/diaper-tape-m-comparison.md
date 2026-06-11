@@ -1,5 +1,5 @@
 ---
-title: "Mサイズ紙おむつ テープ型11選【2026年版】コスパ比較"
+title: "Mサイズ紙おむつ テープ型10選【2026年版】コスパ比較"
 description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価格で比較。メリーズ・パンパース・ムーニーなど主要ブランドから選ぶコツを解説します。"
 category: "diaper"
 publishedAt: "2026-05-16"
@@ -31,14 +31,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2875571012.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301437716x4.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-10"
-        price: 7031
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2875571012"
+        updatedAt: "2026-06-11"
+        price: 6660
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301437716x4"
         available: true
-        rating: 0
-        reviewCount: 0
+        rating: 4.8
+        reviewCount: 15
   - rank: 2
     name: "グーンプラス 肌の贅沢 テープ Mサイズ 4個セット"
     brand: "GOO.N（大王製紙）"
@@ -108,14 +108,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9673092.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134288-case.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-10"
-        price: 7348
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9673092"
+        updatedAt: "2026-06-11"
+        price: 8386
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134288-case"
         available: true
-        rating: 0
-        reviewCount: 0
+        rating: 4.93
+        reviewCount: 86
   - rank: 5
     name: "パンパース はじめての肌へのいちばん テープ Mサイズ"
     brand: "P&G（パンパース）"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9662265.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 6283
         rating: 0
         reviewCount: 1
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenkoo-life%2F101-x004-4903111569786.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-11"
         price: 9402
         rating: 0
         reviewCount: 0
@@ -269,28 +269,6 @@ products:
       - "プレミアムラインより肌へのこだわりはシンプル"
     recommendedFor: "Mサイズでさらさらケアをまとめ買いしたい方"
     rakutenUrl: "https://item.rakuten.co.jp/netbaby/a62000xxx/"
-    imageUrl: ""
-  - rank: 11
-    name: "メリーズ ファーストプレミアム テープ Mサイズ"
-    brand: "メリーズ（Merries）"
-    price: 0
-    capacity: "192枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "Mサイズのテープタイプおむつ"
-      - "上位ラインのプレミアム仕様"
-      - "まとめ買い向けの複数パックセット"
-    pros:
-      - "まとめ買いでストックしやすい"
-      - "テープタイプで調整しやすい"
-      - "肌ざわりに配慮した上位ライン"
-    cons:
-      - "一般ラインより価格が高め"
-      - "サイズアップ時に使い切る計画が必要"
-    recommendedFor: "テープMサイズをまとめ買いしたい家庭"
-    rakutenUrl: "https://item.rakuten.co.jp/kurashikenkou/7195766/"
     imageUrl: ""
 tags:
   - "Mサイズ おむつ"

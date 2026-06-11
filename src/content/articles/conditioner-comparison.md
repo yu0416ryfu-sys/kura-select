@@ -1,10 +1,10 @@
 ---
-title: "コンディショナー コスパ最強ランキング【2026年版】1mLあたり最安で比較 11選"
-description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気11選をダメージケア・コスパで解説します。"
+title: "コンディショナー コスパ最強ランキング【2026年版】1mLあたり最安で比較 10選"
+description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気10選をダメージケア・コスパで解説します。"
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
@@ -110,7 +110,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffreefeel%2Fdmml006226x006240.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 3880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/freefeel_dmml006226x006240"
         available: true
@@ -150,6 +150,39 @@ products:
         rating: 4.5
         reviewCount: 14
   - rank: 6
+    name: "ケラスターゼ ディシプリン マスク オレオ リラックス"
+    brand: "KERASTASE（ケラスターゼ）"
+    price: 7040
+    capacity: "200mL"
+    pricePerUnit: "約35円/mL"
+    rating: 4.76
+    reviewCount: 1545
+    features:
+      - "くせ毛・広がりケア向けのトリートメントマスク"
+      - "インバスで使うヘアマスク"
+      - "サロン系のヘアケアライン"
+    pros:
+      - "まとまりにくい髪をケアしやすい"
+      - "湿気による広がりが気になる方に向く"
+      - "サロン品質のケアを自宅で使える"
+    cons:
+      - "価格は一般的なコンディショナーより高め"
+      - "髪質によって重く感じる場合がある"
+    recommendedFor: "うねりや広がりをケアしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fdp-masqor_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/itempage/dp-masqor_200/new_251121.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisopo%2F3474636636761-01.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-11"
+        price: 7040
+        rating: 4.96
+        reviewCount: 23
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_3474636636761-01"
+        available: true
+  - rank: 7
     name: "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア"
     brand: "ユニリーバ（LUX）"
     price: 299
@@ -176,13 +209,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftuuhan-tamashop%2F4902111773926.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 360
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tuuhan-tamashop_4902111773926"
         available: true
-  - rank: 7
+  - rank: 8
     name: "ホーユー レセ ソーダベースメイク ヘアコンディショナー 350g"
     brand: "ホーユー（レセ）"
     price: 1866
@@ -209,13 +242,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk0602-a2510.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 1556
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk0602-a2510"
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 8
+  - rank: 9
     name: "パルガ ヘアコンディショナー アクアリッチ 500g 詰替"
     brand: "パルガ"
     price: 4950
@@ -236,8 +269,8 @@ products:
       - "500g容量で頻繁な購入が必要"
     recommendedFor: "細い髪の方・サロン品質のコンディショナーを求める方・継続的なダメージケアを行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000013%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_ar500_p10.jpg?_ex=128x128"
-  - rank: 9
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989115/parga_2026_ar500.jpg?_ex=128x128"
+  - rank: 10
     name: "パルガ ヘアコンディショナー ソフトリッチR 500g 詰替"
     brand: "パルガ"
     price: 4950
@@ -258,51 +291,7 @@ products:
       - "一般流通が限られる"
     recommendedFor: "硬い髪の方・ふんわり感よりまとまりを求める方・継続的なケアを行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_sr500_p10.jpg?_ex=128x128"
-  - rank: 10
-    name: "THANN トリートメントコンディショナー OE 200g"
-    brand: "THANN"
-    price: 2640
-    capacity: "200g"
-    pricePerUnit: "約13円/g"
-    rating: 4.56
-    reviewCount: 34
-    features:
-      - "レモングラス米ぬか油精油配合"
-      - "200gの濃厚タイプで少量で伸びが良い"
-      - "オリエンタルエッセンス香で香りが特徴的"
-    pros:
-      - "天然成分配合でダメージ髪に優しい"
-      - "少量で伸びがよく長持ちする"
-      - "ギフトとしても利用できる上品な香り"
-    cons:
-      - "内容量が少なく頻繁な購入が必要"
-      - "個性的な香りで好みが分かれる"
-    recommendedFor: "天然由来成分を重視する方・香りを楽しみたい方・少量で長く使える商品を探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tld4n.3rdw6a04.g00tld4n.3rdw7115/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthann-natural%2F10000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthann-natural%2Fi%2F10000017%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thann-natural/cabinet/thum/point_10/10000017.jpg?_ex=128x128"
-  - rank: 11
-    name: "ケラスターゼ ディシプリン マスク オレオ リラックス"
-    brand: "KERASTASE（ケラスターゼ）"
-    price: 0
-    capacity: "200mL"
-    pricePerUnit: "0円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "くせ毛・広がりケア向けのトリートメントマスク"
-      - "インバスで使うヘアマスク"
-      - "サロン系のヘアケアライン"
-    pros:
-      - "まとまりにくい髪をケアしやすい"
-      - "湿気による広がりが気になる方に向く"
-      - "サロン品質のケアを自宅で使える"
-    cons:
-      - "価格は一般的なコンディショナーより高め"
-      - "髪質によって重く感じる場合がある"
-    recommendedFor: "うねりや広がりをケアしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/kerastase-varie/dp-masqor_200/"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989115/parga_2026_sr500.jpg?_ex=128x128"
 tags:
   - "コンディショナー"
   - "コスパ"

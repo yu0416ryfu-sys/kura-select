@@ -1,10 +1,10 @@
 ---
-title: "洗濯ネット おすすめ11選｜コスパ・用途別に徹底比較【2026年版】"
-description: "洗濯ネットおすすめ11選をコスパ・用途別に比較。大中小セット・布団用・筒形・ブラジャー専用など種類別の選び方や1枚あたりの価格目安をわかりやすく解説します。"
+title: "洗濯ネット おすすめ10選｜コスパ・用途別に徹底比較【2026年版】"
+description: "洗濯ネットおすすめ10選をコスパ・用途別に比較。大中小セット・布団用・筒形・ブラジャー専用など種類別の選び方や1枚あたりの価格目安をわかりやすく解説します。"
 category: "laundry-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-06-11"
+updatedAt: 2026-06-11
 draft: false
 products:
   - rank: 1
@@ -228,35 +228,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00top5n.3rdw68a7.g00top5n.3rdw7244/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymhouse%2Fwzm39%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymhouse%2Fi%2F10000850%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymhouse/cabinet/07576115/mz-6851.jpg?_ex=128x128"
   - rank: 10
-    name: "洗濯ネット 大中小 セット"
-    brand: "ランドリーネット"
-    price: 0
-    capacity: "9枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "大・中・小がそろった洗濯ネットセット"
-      - "粗目タイプ"
-      - "用途別に使い分けられる構成"
-    pros:
-      - "サイズ違いで衣類に合わせて使える"
-      - "まとめてそろえられてコスパがよい"
-      - "型崩れ防止に使いやすい"
-    cons:
-      - "細かい目を求める衣類には粗目が不向きな場合がある"
-      - "枚数が多く収納の工夫が必要"
-    recommendedFor: "洗濯ネットをサイズ違いでそろえたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/s-plaza/10018206/"
-    imageUrl: ""
-  - rank: 11
     name: "洗濯ネット ドラム式専用"
     brand: "マルフク"
-    price: 0
+    price: 2980
     capacity: "3個"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約993円/個"
+    rating: 5
+    reviewCount: 1
     features:
       - "ドラム式洗濯機向けの専用ネット"
       - "たたき洗いの衝撃を意識した設計"
@@ -269,8 +247,8 @@ products:
       - "縦型での効果は設計と異なる場合がある"
       - "大物衣類には容量が足りない場合がある"
     recommendedFor: "ドラム式でおしゃれ着をやさしく洗いたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/store-marufuku/alag-a11044/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgo8n.3rdw65ec.g00tgo8n.3rdw717e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstore-marufuku%2Falag-a11044%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstore-marufuku%2Fi%2F10012435%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/store-marufuku/cabinet/shohin/hayase5/alag-a11044_1.jpg?_ex=128x128"
 tags:
   - "洗濯ネット おすすめ"
   - "洗濯ネット コスパ"

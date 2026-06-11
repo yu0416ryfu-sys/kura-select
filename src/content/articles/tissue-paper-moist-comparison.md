@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌触りとコス
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-06-11"
+updatedAt: 2026-06-11
 draft: false
 products:
   - rank: 1
@@ -74,6 +74,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901121636078%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10818648%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/078/4901121636078.jpg?_ex=128x128"
   - rank: 4
+    name: "ネピア 鼻セレブ 濃厚保湿ティッシュ アンパンマン"
+    brand: "ネピア（nepia）"
+    price: 986
+    capacity: "1080枚"
+    pricePerUnit: "約1.8円/組"
+    rating: 4.79
+    reviewCount: 33
+    features:
+      - "保湿成分配合の濃厚保湿ティッシュ"
+      - "やわらかな肌ざわりを意識した設計"
+      - "3箱パックの構成"
+    pros:
+      - "鼻をかんでも痛くなりにくいやわらかさ"
+      - "花粉や風邪の時期に使いやすい"
+      - "箱パックでストックしやすい"
+    cons:
+      - "通常ティッシュより価格が高め"
+      - "しっとり感の好みが分かれる"
+    recommendedFor: "鼻をかむ機会が多く肌あたりを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa070102000002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10005792%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/505/4901121626505.jpg?_ex=128x128"
+  - rank: 5
     name: "エリエール 贅沢保湿 ポケットティシュー 14組×4個パック"
     brand: "大王製紙（エリエール）"
     price: 160
@@ -95,7 +117,7 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902011714425-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F11837870%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/re2021/4902011714425.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "鼻セレブ プレミアム ティッシュ 130組×10個"
     brand: "王子ネピア（鼻セレブ）"
     price: 5580
@@ -117,7 +139,7 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw89n.3rdw62e9.g00tw89n.3rdw7e13/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeyroom-hida%2Fkeyroom-10000018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeyroom-hida%2Fi%2F10000018%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keyroom-hida/cabinet/11236817/imgrc0085650333.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "鼻セレブ プレミアム ティッシュ 130組 6個"
     brand: "日本製紙クレシア（鼻セレブ）"
     price: 3880
@@ -139,7 +161,7 @@ products:
     recommendedFor: "肌当たりを最優先したい方・敏感肌の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw89n.3rdw62e9.g00tw89n.3rdw7e13/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeyroom-hida%2Fkeyroom-10000333%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeyroom-hida%2Fi%2F10000279%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keyroom-hida/cabinet/11236817/imgrc0085650332.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 8
     name: "ダイレイ プレミアムふんわか 保湿ティッシュ 6個組"
     brand: "ダイレイ"
     price: 127
@@ -172,7 +194,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-w001-4901988104055"
         available: true
-  - rank: 8
+  - rank: 9
     name: "鼻セレブティッシュ 3個パック"
     brand: "王子ネピア（鼻セレブ）"
     price: 698
@@ -194,7 +216,7 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901121636078%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10084864%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/56/4901121636078.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "ネピア 鼻セレブ ティッシュ 2個パック"
     brand: "王子ネピア（鼻セレブ）"
     price: 798
@@ -227,50 +249,6 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhanpark_888808"
         available: true
-  - rank: 10
-    name: "鼻セレブ ティッシュ 3箱セット"
-    brand: "日本製紙クレシア（鼻セレブ）"
-    price: 1210
-    capacity: "3箱"
-    pricePerUnit: "約403円/箱"
-    rating: 4.8
-    reviewCount: 44
-    features:
-      - "3枚重ねの超高保湿ティッシュ"
-      - "ローション配合で鼻をやさしく包む"
-      - "花粉症・風邪の時期に向いた肌当たり"
-    pros:
-      - "鼻が赤くなりにくいほどの柔らかさ"
-      - "何度使っても肌へのあたりがやさしい"
-      - "花粉症の方から支持の厚いブランド"
-    cons:
-      - "1組あたりコストは通常タイプより高い"
-      - "普段使いには少し贅沢"
-    recommendedFor: "花粉症・風邪が多い方・デリケートな肌の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rs30n.3rdw6647.g00rs30n.3rdw71f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbigban%2F18-0631-072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbigban%2Fi%2F10058418%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bigban/cabinet/2021s2/21-0623-047.jpg?_ex=128x128"
-  - rank: 11
-    name: "ネピア 鼻セレブ 濃厚保湿ティッシュ アンパンマン"
-    brand: "ネピア（nepia）"
-    price: 0
-    capacity: "1080枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "保湿成分配合の濃厚保湿ティッシュ"
-      - "やわらかな肌ざわりを意識した設計"
-      - "3箱パックの構成"
-    pros:
-      - "鼻をかんでも痛くなりにくいやわらかさ"
-      - "花粉や風邪の時期に使いやすい"
-      - "箱パックでストックしやすい"
-    cons:
-      - "通常ティッシュより価格が高め"
-      - "しっとり感の好みが分かれる"
-    recommendedFor: "鼻をかむ機会が多く肌あたりを重視する方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/a070102000002/"
-    imageUrl: ""
 tags:
   - "保湿ティッシュ"
   - "花粉症"

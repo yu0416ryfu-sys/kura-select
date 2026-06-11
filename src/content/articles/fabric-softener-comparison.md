@@ -1,6 +1,6 @@
 ---
-title: "柔軟剤 コスパ最強ランキング【2026年版】1L459円〜11選比較"
-description: "柔軟剤を容量あたりのコストで比較。大容量タイプは約0.46円/mL〜。消臭・香り・敏感肌向けの人気11選を解説。部屋干し臭が気になる方・赤ちゃんのいる家庭にも。"
+title: "柔軟剤 コスパ最強ランキング【2026年版】1L459円〜10選比較"
+description: "柔軟剤を容量あたりのコストで比較。大容量タイプは約0.46円/mL〜。消臭・香り・敏感肌向けの人気10選を解説。部屋干し臭が気になる方・赤ちゃんのいる家庭にも。"
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
@@ -50,6 +50,17 @@ products:
     recommendedFor: "大容量まとめ買い派・フローラル系の香りが好みの方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F9414891%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10021618%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11663202/12603758/9110715.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftakuhaibin%2Fi9414891.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-11"
+        price: 6980
+        rating: 4.6
+        reviewCount: 824
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/takuhaibin_i9414891"
+        available: true
   - rank: 3
     name: "メキシコダウニー アロマフローラル 8.8.8.8.8.8.5L"
     brand: "Downy"
@@ -72,6 +83,17 @@ products:
     recommendedFor: "香りや仕上がりの好みに合わせやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t9zhn.3rdw6489.g00t9zhn.3rdw7b74/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarusanstore%2F301917-1a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarusanstore%2Fi%2F10000524%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marusanstore/cabinet/conveniencegoods/301917/301917.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F9110715.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-11"
+        price: 7470
+        rating: 4.78
+        reviewCount: 60
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_9110715"
+        available: true
   - rank: 4
     name: "ライオン ソフラン アロマリッチ 業務用 4L"
     brand: "ライオン（ソフラン）"
@@ -132,13 +154,35 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9590768.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 6580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9590768"
         available: true
         rating: 4.74
         reviewCount: 222
   - rank: 6
+    name: "ランドリン 柔軟剤 グッドティータイム"
+    brand: "ランドリン（Laundrin）"
+    price: 800
+    capacity: "600mL"
+    pricePerUnit: "約1.3円/mL"
+    rating: 4.63
+    reviewCount: 175
+    features:
+      - "紅茶をテーマにした香りの柔軟剤"
+      - "液体タイプの本体"
+      - "抗菌・防臭を意識した処方"
+    pros:
+      - "華やかな香りで衣類をふんわり仕上げやすい"
+      - "本体ボトルで使い始めやすい"
+      - "香り重視の方に向く"
+    cons:
+      - "香りが強めで好みが分かれる"
+      - "無香料を求める方には不向き"
+    recommendedFor: "香りを楽しめる柔軟剤を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2Flaundrin-teatime%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10006940%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08869620/imgrc0118802483.jpg?_ex=128x128"
+  - rank: 7
     name: "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え"
     brand: "P&G（レノア）"
     price: 3007
@@ -171,7 +215,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 7
+  - rank: 8
     name: "【シリーズ累計50万本突破】ランドリーボトル 洗濯ボトル 洗剤ボトル ［セット "
     brand: "P&G（さらさ）"
     price: 2664
@@ -204,7 +248,7 @@ products:
         available: true
         rating: 4.41
         reviewCount: 39
-  - rank: 8
+  - rank: 9
     name: "マイランドリー 柔軟剤 500mL 5本セット"
     brand: "My Laundry"
     price: 3680
@@ -237,7 +281,7 @@ products:
         reviewCount: 17
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4540936002359"
         available: true
-  - rank: 9
+  - rank: 10
     name: "ダウニー コンフォート お試し柔軟剤 4袋セット"
     brand: "Downy"
     price: 473
@@ -259,50 +303,6 @@ products:
     recommendedFor: "香りや仕上がりの好みに合わせやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqlnn.3rdw6746.g00qqlnn.3rdw79d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatina-shop%2F10000457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatina-shop%2Fi%2F10000457%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platina-shop/cabinet/01370227/imgrc0077946738.jpg?_ex=128x128"
-  - rank: 10
-    name: "ハミングフレア 柔軟剤 つめかえ用 4袋入"
-    brand: "花王（ハミングフレア）"
-    price: 4994
-    capacity: "4袋"
-    pricePerUnit: "約1249円/袋"
-    rating: 4.76
-    reviewCount: 1437
-    features:
-      - "洗濯時に使う柔軟仕上げ剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "香りや仕上がりの好みに合わせやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "香りの強さは好みが分かれやすい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "香りや仕上がりの好みに合わせやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404953%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148573%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/953/404953.jpg?_ex=128x128"
-  - rank: 11
-    name: "ランドリン 柔軟剤 グッドティータイム"
-    brand: "ランドリン（Laundrin）"
-    price: 0
-    capacity: "600mL"
-    pricePerUnit: "0円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "紅茶をテーマにした香りの柔軟剤"
-      - "液体タイプの本体"
-      - "抗菌・防臭を意識した処方"
-    pros:
-      - "華やかな香りで衣類をふんわり仕上げやすい"
-      - "本体ボトルで使い始めやすい"
-      - "香り重視の方に向く"
-    cons:
-      - "香りが強めで好みが分かれる"
-      - "無香料を求める方には不向き"
-    recommendedFor: "香りを楽しめる柔軟剤を探している方"
-    rakutenUrl: "https://item.rakuten.co.jp/naturelab/laundrin-teatime/"
-    imageUrl: ""
 tags:
   - "柔軟剤"
   - "コスパ"

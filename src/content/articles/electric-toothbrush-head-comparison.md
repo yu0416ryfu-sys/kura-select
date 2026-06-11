@@ -4,15 +4,37 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
+    name: "オーラルB互換ブラシ EB17 EB10"
+    brand: "e-shop aoakua"
+    price: 1420
+    capacity: "16本"
+    pricePerUnit: "約89円/本"
+    rating: 4.79
+    reviewCount: 29
+    features:
+      - "電動歯ブラシ用の交換ブラシ"
+      - "対応機種を確認して選ぶ替えブラシタイプ"
+      - "ストックしやすい複数本セット"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5rln.3rdw693c.g00s5rln.3rdw7066/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faoakua%2F10000252%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faoakua%2Fi%2F10000252%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aoakua/cabinet/06495854/imgrc0105402366.jpg?_ex=128x128"
+  - rank: 2
     name: "ブラウン オーラルB 選べる各種 互換 替えブラシ EB17 EB18 EB20 E"
     brand: "ブラウン"
-    price: 1383
+    price: 1537
     capacity: "16本"
-    pricePerUnit: "約86円/本"
+    pricePerUnit: "約96円/本"
     rating: 4.23
     reviewCount: 1441
     features:
@@ -40,28 +62,6 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 2
-    name: "オーラルB互換ブラシ EB17 EB10"
-    brand: "e-shop aoakua"
-    price: 1420
-    capacity: "16本"
-    pricePerUnit: "約89円/本"
-    rating: 4.79
-    reviewCount: 29
-    features:
-      - "電動歯ブラシ用の交換ブラシ"
-      - "対応機種を確認して選ぶ替えブラシタイプ"
-      - "ストックしやすい複数本セット"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5rln.3rdw693c.g00s5rln.3rdw7066/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faoakua%2F10000252%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faoakua%2Fi%2F10000252%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aoakua/cabinet/06495854/imgrc0105402366.jpg?_ex=128x128"
   - rank: 3
     name: "オーラルB フレキシソフト互換ブラシ"
     brand: "INK HOUSE"
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdistore%2Feb50rx-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 8480
         rating: 0
         reviewCount: 1
@@ -221,12 +221,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foralb-braun%2Fultimate2-4-p.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 8338
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oralb-braun_ultimate2-4-p"
         available: true
         rating: 4.8
-        reviewCount: 40
+        reviewCount: 41
   - rank: 9
     name: "ソニッケアー プレミアムクリーン 替えブラシ レギュラー 3本組"
     brand: "Philips Sonicare"
@@ -287,7 +287,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fi-ha%2F27000052.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-11"
         price: 3300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/i-ha_27000052"
         available: true

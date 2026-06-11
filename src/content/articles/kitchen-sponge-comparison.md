@@ -1,6 +1,6 @@
 ---
 title: "食器用スポンジ・キッチンスポンジ コスパ比較【2026年版】1個単価と耐久性"
-description: "食器用スポンジ・キッチンスポンジを1個あたりで比較。ダスキン、パックス、マーナなど11選を耐久性・泡立ち・交換頻度で整理し、食器洗い用に選びやすく解説します。"
+description: "食器用スポンジ・キッチンスポンジを1個あたりで比較。ダスキン、パックス、マーナなど10選を耐久性・泡立ち・交換頻度で整理し、食器洗い用に選びやすく解説します。"
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -35,7 +35,7 @@ products:
     capacity: "6個（約6ヶ月分）"
     pricePerUnit: "約177円/個"
     rating: 4.78
-    reviewCount: 9868
+    reviewCount: 9869
     features:
       - "3層構造で泡立ち・水切れ・耐久性を両立"
       - "楽天レビュー数トップクラスの圧倒的人気"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdusdus%2Fspc-dsss06.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 1180
         rating: 4.76
         reviewCount: 1843
@@ -68,7 +68,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.75
-    reviewCount: 1343
+    reviewCount: 1345
     features:
       - "ポリウレタンフォーム＋ナイロン不織布＋ポリエステルの3素材構造"
       - "ブラック・グレー・ホワイトのモノトーン3色展開"
@@ -90,7 +90,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.8
-    reviewCount: 490
+    reviewCount: 493
     features:
       - "ポリエステル＋ウレタンフォームのハードタイプ構造"
       - "3色パック×2セットのカラフルな6個組"
@@ -161,6 +161,28 @@ products:
         rating: 4.5
         reviewCount: 8
   - rank: 7
+    name: "パックスナチュロン キッチンスポンジ"
+    brand: "パックスナチュロン（PAX NATURON）"
+    price: 2480
+    capacity: "10個"
+    pricePerUnit: "約248円/個"
+    rating: 4.82
+    reviewCount: 324
+    features:
+      - "まとめ買い向けのキッチンスポンジ"
+      - "シンプルな設計のスポンジ"
+      - "色はランダムの大容量セット"
+    pros:
+      - "まとめ買いでこまめに交換しやすい"
+      - "シンプルで使いやすい形状"
+      - "ストックして衛生的に使える"
+    cons:
+      - "色は選べずランダム"
+      - "へたりやすさは使用頻度による"
+    recommendedFor: "キッチンスポンジを多めにストックしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4904735053095-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10017305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/rich03/imgrc0087963474.jpg?_ex=128x128"
+  - rank: 8
     name: "マーナ おさかなスポンジ 数量限定カラー 2個入り"
     brand: "MARNA（マーナ）"
     price: 506
@@ -182,7 +204,7 @@ products:
     recommendedFor: "デザイン重視の方・ギフト用途を考えている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtg2n.3rdw6b98.g00qtg2n.3rdw73a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopmarna%2Fp528%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopmarna%2Fi%2F10006595%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shopmarna/cabinet/item_top/p/p528lbr.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "LA CORVETTE ベジタブルスポンジ 3個入り"
     brand: "LA CORVETTE"
     price: 880
@@ -215,7 +237,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 9
+  - rank: 10
     name: "マーナ おさかなスポンジ 選べる5個セット"
     brand: "MARNA（マーナ）"
     price: 1540
@@ -248,61 +270,6 @@ products:
         available: true
         rating: 4.61
         reviewCount: 18
-  - rank: 10
-    name: "サンサンスポンジ 8個セット"
-    brand: "ダイニチ"
-    price: 2765
-    capacity: "8個"
-    pricePerUnit: "約346円/個"
-    rating: 4.81
-    reviewCount: 2482
-    features:
-      - "全9色展開でカラーコーディネートを楽しめる"
-      - "まとめ買いで常にストックを切らさない"
-      - "食器から調理器具まで幅広く対応"
-    pros:
-      - "豊富なカラーバリエーションで用途別に使い分けやすい"
-      - "8個まとめ買いで買い物の手間を削減できる"
-      - "送料無料でコスパ良く入手できる"
-    cons:
-      - "単価がやや高めで他のまとめ買い商品と比較が必要"
-      - "カラーの組み合わせは固定のため選択の余地が限られる"
-    recommendedFor: "カラー別に用途分けしたい方・まとめ買い派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r384n.3rdw62f6.g00r384n.3rdw76df/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdainichi-corp%2F10000025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdainichi-corp%2Fi%2F10000058%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dainichi-corp/cabinet/saleimg/12107784/imgrc0109479471.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsunsunsponge%2Ftss08b.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-10"
-        price: 3073
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sunsunsponge_tss08b"
-        available: true
-        rating: 4.87
-        reviewCount: 238
-  - rank: 11
-    name: "パックスナチュロン キッチンスポンジ"
-    brand: "パックスナチュロン（PAX NATURON）"
-    price: 0
-    capacity: "10個"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "まとめ買い向けのキッチンスポンジ"
-      - "シンプルな設計のスポンジ"
-      - "色はランダムの大容量セット"
-    pros:
-      - "まとめ買いでこまめに交換しやすい"
-      - "シンプルで使いやすい形状"
-      - "ストックして衛生的に使える"
-    cons:
-      - "色は選べずランダム"
-      - "へたりやすさは使用頻度による"
-    recommendedFor: "キッチンスポンジを多めにストックしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/at-life/4904735053095-010/"
-    imageUrl: ""
 tags:
   - "スポンジ"
   - "コスパ"

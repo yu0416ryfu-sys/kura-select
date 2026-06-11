@@ -1,10 +1,10 @@
 ---
-title: "キャットフード コスパ比較【2026年版】ドライおすすめ11選"
-description: "ロイヤルカナン・グレインフリーなど人気キャットフードを100gあたり価格で徹底比較。成猫・シニア・グレインフリー・国産タイプの選び方も解説。まとめ買いで賢くコスパを上げる11選。"
+title: "キャットフード コスパ比較【2026年版】ドライおすすめ10選"
+description: "ロイヤルカナン・グレインフリーなど人気キャットフードを100gあたり価格で徹底比較。成猫・シニア・グレインフリー・国産タイプの選び方も解説。まとめ買いで賢くコスパを上げる10選。"
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: 2026-06-11
 draft: false
 products:
   - rank: 1
@@ -61,7 +61,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fw-105176-00-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10013214%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/rinji/w-105176-00-00.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/w-105176-00-00.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -94,7 +94,7 @@ products:
       - "グレイン（穀物）を含むためグレインフリー希望の方には不向き"
     recommendedFor: "7歳以上の室内シニア猫を飼っている方・プレミアムブランドで安定した品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9217328%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10026150%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/rc2606_3/9217328.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/logo/9217328.jpg?_ex=128x128"
   - rank: 4
     name: "ロイヤルカナン インドア 4kg"
     brand: "ロイヤルカナン"
@@ -116,7 +116,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9214406%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10000607%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/rc2606_3/9214406.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/logo/9214406.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -135,7 +135,7 @@ products:
     capacity: "2kg"
     pricePerUnit: "約2.0円/g"
     rating: 4.66
-    reviewCount: 796
+    reviewCount: 799
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -277,8 +277,8 @@ products:
     price: 2280
     capacity: "1個"
     pricePerUnit: "約2280円/個"
-    rating: 4.64
-    reviewCount: 886
+    rating: 4.65
+    reviewCount: 888
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -304,28 +304,6 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4902201210980"
         available: true
-  - rank: 11
-    name: "ヒルズ プリスクリプション・ダイエット c/d マルチケア チキン"
-    brand: "ヒルズ（Hill's）"
-    price: 0
-    capacity: "4kg"
-    pricePerUnit: "0円/kg"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "下部尿路の健康に配慮した食事療法食"
-      - "チキンベースのドライフード"
-      - "獣医師の指導下で使う療法食"
-    pros:
-      - "尿ケアを意識した設計"
-      - "ドライタイプで与えやすい"
-      - "まとまった容量で続けやすい"
-    cons:
-      - "与える前に獣医師への相談が前提"
-      - "一般食より価格が高め"
-    recommendedFor: "尿ケアを意識した食事を検討している猫の飼い主"
-    rakutenUrl: "https://item.rakuten.co.jp/dog-kan/9217201/"
-    imageUrl: ""
 tags:
   - "キャットフード おすすめ"
   - "キャットフード コスパ"

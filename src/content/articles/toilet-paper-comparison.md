@@ -9,9 +9,9 @@ products:
   - rank: 1
     name: "コアユース 無包装 シングル 芯なし"
     brand: "春日製紙"
-    price: 4800
+    price: 5090
     capacity: "170m×48ロール"
-    pricePerUnit: "約0.59円/m"
+    pricePerUnit: "約0.62円/m"
     rating: 4.61
     reviewCount: 840
     features:
@@ -35,18 +35,18 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fikurun0810%2F101436.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         matchStatus: "matched"
         rating: 0
         reviewCount: 1
   - rank: 2
     name: "コアユース シングル 芯なし"
     brand: "コアユース"
-    price: 4975
+    price: 5100
     capacity: "170m×48ロール"
-    pricePerUnit: "約0.61円/m"
+    pricePerUnit: "約0.63円/m"
     rating: 4.52
-    reviewCount: 1970
+    reviewCount: 1972
     features:
       - "芯なしのロングタイプで交換の手間を減らしやすい"
       - "再生紙を使用した家庭用にも業務用にも使える仕様"
@@ -73,38 +73,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
   - rank: 3
-    name: "イットコ スリム シングル 芯なし"
-    brand: "イトマン"
-    price: 4533
-    capacity: "150m×48ロール"
-    pricePerUnit: "約0.63円/m"
-    rating: 4.66
-    reviewCount: 2721
-    features:
-      - "芯なしの長巻きタイプで交換頻度を抑えやすい"
-      - "個包装仕様で保管時に汚れを防ぎやすい"
-      - "無漂白の再生紙を使用した無香料タイプ"
-    pros:
-      - "家庭用と業務用のどちらにも選びやすい"
-      - "流せる包装紙で開封後の処理がしやすい"
-      - "ストック管理をまとめて済ませたい場合に向いている"
-    cons:
-      - "個包装の開封が手間に感じる場合がある"
-      - "芯なしタイプの使い切り感は好みが分かれる"
-    recommendedFor: "交換頻度を減らしつつ個包装で清潔に保管したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q242n.3rdw6f72.g00q242n.3rdw7b52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitoman%2Fcoreself150eco%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fitoman%2Fi%2F10000023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/itoman/cabinet/toiletroll/ittoco_10150008/10150008.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 4980
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Feconvecoco%2F0417005.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/econvecoco_0417005"
-        available: false
-        updatedAt: "2026-05-18"
-        matchStatus: "review"
-        matchNotes: "capacity不一致: capacity不一致"
-  - rank: 4
     name: "ワンタッチ 再生紙 トイレットペーパー シングル 芯なし"
     brand: "ワンタッチ"
     price: 5148
@@ -131,13 +99,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuasakamiten%2Fc02295.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 5200
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuasakamiten_c02295"
         available: true
-  - rank: 5
+  - rank: 4
     name: "良い紙 業務用コアレス シングル"
     brand: "良い紙"
     price: 4840
@@ -159,6 +127,38 @@ products:
     recommendedFor: "芯なし長巻きを家庭用にも備蓄用にも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00syqkn.3rdw6214.g00syqkn.3rdw7eef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frebirth-inc%2Fyoikami6r_150_108_s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frebirth-inc%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rebirth-inc/cabinet/single/yoikami150/s_yoikami_150_th.jpg?_ex=128x128"
+  - rank: 5
+    name: "イットコ スリム シングル 芯なし"
+    brand: "イトマン"
+    price: 5038
+    capacity: "150m×48ロール"
+    pricePerUnit: "約0.70円/m"
+    rating: 4.66
+    reviewCount: 2722
+    features:
+      - "芯なしの長巻きタイプで交換頻度を抑えやすい"
+      - "個包装仕様で保管時に汚れを防ぎやすい"
+      - "無漂白の再生紙を使用した無香料タイプ"
+    pros:
+      - "家庭用と業務用のどちらにも選びやすい"
+      - "流せる包装紙で開封後の処理がしやすい"
+      - "ストック管理をまとめて済ませたい場合に向いている"
+    cons:
+      - "個包装の開封が手間に感じる場合がある"
+      - "芯なしタイプの使い切り感は好みが分かれる"
+    recommendedFor: "交換頻度を減らしつつ個包装で清潔に保管したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q242n.3rdw6f72.g00q242n.3rdw7b52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitoman%2Fcoreself150eco%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fitoman%2Fi%2F10000023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/itoman/cabinet/toiletroll/ittoco_10150008/10150008.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 4980
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Feconvecoco%2F0417005.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/econvecoco_0417005"
+        available: false
+        updatedAt: "2026-05-18"
+        matchStatus: "review"
+        matchNotes: "capacity不一致: capacity不一致"
   - rank: 6
     name: "トーヨ クリーンテックス シングル 個包装"
     brand: "トーヨ"
@@ -166,7 +166,7 @@ products:
     capacity: "110m×45ロール"
     pricePerUnit: "約0.71円/m"
     rating: 4.71
-    reviewCount: 1061
+    reviewCount: 1062
     features:
       - "国産のシングルトイレットペーパー"
       - "個包装で保管時の衛生面に配慮しやすい"
@@ -188,42 +188,10 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcleanshoponline%2F72014.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cleanshoponline_72014"
         available: true
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         rating: 0
         reviewCount: 0
   - rank: 7
-    name: "Comfy 芯なし トイレットペーパー シングル"
-    brand: "イトマン"
-    price: 3810
-    capacity: "150m×36ロール"
-    pricePerUnit: "約0.71円/m"
-    rating: 4.62
-    reviewCount: 749
-    features:
-      - "芯なしの長巻きシングルトイレットペーパー"
-      - "個包装で分けて保管しやすい"
-      - "無漂白の再生紙を使用した無香料タイプ"
-    pros:
-      - "個包装でストックを清潔に管理しやすい"
-      - "流せる包装紙で後片付けを簡単にしやすい"
-      - "箱買いでも比較的分散して保管しやすい"
-    cons:
-      - "個包装を都度開ける手間がある"
-      - "芯なしタイプの終盤の使い心地は好みが分かれる"
-    recommendedFor: "個包装の芯なしロールを少し控えめな箱数で選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q242n.3rdw6f72.g00q242n.3rdw7b52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitoman%2Fcoreself150eco-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fitoman%2Fi%2F10001046%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/itoman/cabinet/toiletroll/11_comfy/comfy_10150034/10150034.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 4235
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitoman%2F10150019.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itoman_10150019"
-        available: false
-        updatedAt: "2026-05-18"
-        matchStatus: "review"
-        matchNotes: "capacity不一致: 商品名トークン不一致"
-  - rank: 8
     name: "スマートエール 消臭機能付き シングル 芯なし"
     brand: "アイリスプラザ"
     price: 2981
@@ -245,7 +213,7 @@ products:
     recommendedFor: "省スペースで長巻きロールを備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7253225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10216050%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11514673/7253225.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "【最安値に挑戦中！】 トイレットペーパー シングル 業務用 ワンタッチ"
     brand: "コアレックス（CORELEX）"
     price: 5480
@@ -272,12 +240,44 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuasakamiten%2Fc02294.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 5500
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuasakamiten_c02294"
         available: true
+  - rank: 9
+    name: "Comfy 芯なし トイレットペーパー シングル"
+    brand: "イトマン"
+    price: 4235
+    capacity: "150m×36ロール"
+    pricePerUnit: "約0.78円/m"
+    rating: 4.62
+    reviewCount: 749
+    features:
+      - "芯なしの長巻きシングルトイレットペーパー"
+      - "個包装で分けて保管しやすい"
+      - "無漂白の再生紙を使用した無香料タイプ"
+    pros:
+      - "個包装でストックを清潔に管理しやすい"
+      - "流せる包装紙で後片付けを簡単にしやすい"
+      - "箱買いでも比較的分散して保管しやすい"
+    cons:
+      - "個包装を都度開ける手間がある"
+      - "芯なしタイプの終盤の使い心地は好みが分かれる"
+    recommendedFor: "個包装の芯なしロールを少し控えめな箱数で選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q242n.3rdw6f72.g00q242n.3rdw7b52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitoman%2Fcoreself150eco-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fitoman%2Fi%2F10001046%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/itoman/cabinet/toiletroll/11_comfy/comfy_10150034/10150034.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 4235
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitoman%2F10150019.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itoman_10150019"
+        available: false
+        updatedAt: "2026-05-18"
+        matchStatus: "review"
+        matchNotes: "capacity不一致: 商品名トークン不一致"
   - rank: 10
     name: "無漂白 トイレットペーパー シングル 無包装"
     brand: "牧製紙"
@@ -300,28 +300,6 @@ products:
     recommendedFor: "無漂白の再生紙トイレットペーパーをまとめ買いで備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqs8n.3rdw6363.g00rqs8n.3rdw7957/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaki-seishi%2Funpacked100ms60%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaki-seishi%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maki-seishi/cabinet/03277389/03299211/unpacked100ms60.jpg?_ex=128x128"
-  - rank: 11
-    name: "牧製紙 2倍巻き シングル トイレットペーパー"
-    brand: "牧製紙"
-    price: 0
-    capacity: "60ロール"
-    pricePerUnit: "0円/ロール"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "長尺の2倍巻きシングル"
-      - "再生紙・古紙パルプ100%"
-      - "無香料・無漂白タイプ"
-    pros:
-      - "2倍巻きで交換頻度を減らしやすい"
-      - "再生紙でエコを意識して選べる"
-      - "まとめ買いでストックしやすい"
-    cons:
-      - "シングルのため厚みの好みが分かれる"
-      - "保管にスペースを取りやすい"
-    recommendedFor: "交換の手間を減らしたい・再生紙を選びたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/maki-seishi/mori100ms60/"
-    imageUrl: ""
 tags:
   - "トイレットペーパー"
   - "シングル"

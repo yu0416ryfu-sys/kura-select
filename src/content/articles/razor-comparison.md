@@ -1,5 +1,5 @@
 ---
-title: "T字カミソリ おすすめ11選｜替刃コスパと刃数で徹底比較"
+title: "T字カミソリ おすすめ10選｜替刃コスパと刃数で徹底比較"
 description: "ジレット・シックなど人気ブランドのT字カミソリを刃数・コスパ・使い心地で比較。替刃の単価や選び方のポイントも解説します。"
 category: "razor"
 publishedAt: "2026-05-26"
@@ -241,11 +241,11 @@ products:
   - rank: 10
     name: "ジレット パワー フュージョン Gillette 替刃 髭剃り 電動 互換品 替え刃"
     brand: "ジレット"
-    price: 890
+    price: 1000
     capacity: "1個"
-    pricePerUnit: "約890円/個"
+    pricePerUnit: "約1000円/個"
     rating: 4.52
-    reviewCount: 1715
+    reviewCount: 1718
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -265,34 +265,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-aozora-shop%2F250929-005.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 1300
-        rating: 4.83
-        reviewCount: 6
+        rating: 4.86
+        reviewCount: 7
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/life-aozora-shop_250929-005"
         available: true
-  - rank: 11
-    name: "ヘンソンシェービング AL13 MEDIUM"
-    brand: "HENSON SHAVING（ヘンソンシェービング）"
-    price: 0
-    capacity: "替刃5枚付"
-    pricePerUnit: "0円/本"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "両刃タイプのT字カミソリ"
-      - "アルミ削り出しの本体"
-      - "替刃5枚が付属"
-    pros:
-      - "替刃式でランニングコストを抑えやすい"
-      - "しっかりした作りで長く使いやすい"
-      - "替刃が付属ですぐ使える"
-    cons:
-      - "本体価格は使い捨てより高め"
-      - "両刃の扱いに慣れが必要"
-    recommendedFor: "長く使える両刃カミソリを探している方"
-    rakutenUrl: "https://item.rakuten.co.jp/hensonshaving/henson-al13-medium/"
-    imageUrl: ""
 tags:
   - "T字カミソリ おすすめ"
   - "T字カミソリ コスパ"

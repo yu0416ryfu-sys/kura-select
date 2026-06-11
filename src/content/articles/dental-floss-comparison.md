@@ -1,10 +1,10 @@
 ---
-title: "デンタルフロス コスパ最強ランキング【2026年版】1回0.25円〜11選比較"
-description: "デンタルフロスを1回あたりのコストで比較したランキング。最安はGUM 550mで0.25円/回（約3年分）。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ11選。"
+title: "デンタルフロス コスパ最強ランキング【2026年版】1回0.25円〜10選比較"
+description: "デンタルフロスを1回あたりのコストで比較したランキング。最安はGUM 550mで0.25円/回（約3年分）。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ10選。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "GUM デンタルフロス 550m"
@@ -27,7 +27,7 @@ products:
       - "移動中や外出先では使いにくい"
     recommendedFor: "毎日フロスを使う方・コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0610_100b/kirikae3/28528.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shohin08/28528.jpg?_ex=128x128"
   - rank: 2
     name: "クリニカ アドバンテージ スポンジフロス"
     brand: "ライオン（クリニカ）"
@@ -35,7 +35,7 @@ products:
     capacity: "40m×4個（320回）"
     pricePerUnit: "約4.2円/回"
     rating: 4.76
-    reviewCount: 74
+    reviewCount: 75
     features:
       - "スポンジ状の素材で歯肉を傷つけにくい設計"
       - "小さな凹凸構造で歯垢をかき出しやすい"
@@ -103,7 +103,7 @@ products:
       - "価格帯がやや高めで試しにくい"
     recommendedFor: "歯科医院品質のフロスをまとめて揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49760%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008760%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0610_100b/kirikae2/49760_n.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/07319599/49760_n.jpg?_ex=128x128"
   - rank: 5
     name: "GUM エクスパンディングフロス 30m"
     brand: "GUM"
@@ -210,7 +210,7 @@ products:
       - "まとめ買いのため初期費用が高め"
     recommendedFor: "奥歯のケアを重視する方・まとめ買いで節約したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F13122%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10000202%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0610_100b/kirikae1/04080.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/wb_logo_6/04080.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -243,6 +243,17 @@ products:
     recommendedFor: "糸巻きフロスを日常的に使いたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F0090023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000766%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/0090023_001.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-11"
+        price: 3278
+        rating: 4.78
+        reviewCount: 338
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
+        available: true
   - rank: 10
     name: "フロアフロス 45m 2個セット"
     brand: "オーラルケア"
@@ -264,29 +275,18 @@ products:
       - "ワックス感や太さは使用感の好みが分かれる"
     recommendedFor: "糸巻きフロスを日常的に使いたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008759%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0610_100b/kirikae2/49759_n.jpg?_ex=128x128"
-  - rank: 11
-    name: "Dr.デンリスト こども糸ピックス"
-    brand: "Dr.デンリスト"
-    price: 0
-    capacity: "120本"
-    pricePerUnit: "0円/本"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "持ち手付きで使いやすい子ども向けフロスピック"
-      - "対象年齢2歳からの設計"
-      - "ようじ型でフロスが苦手な子にも使いやすい"
-    pros:
-      - "握りやすい持ち手で子どもでも扱いやすい"
-      - "まとめ買いしやすい本数構成"
-      - "仕上げ磨き時の歯間ケアに取り入れやすい"
-    cons:
-      - "大人の歯間にはサイズが小さめ"
-      - "使い捨てのため繰り返し使用はできない"
-    recommendedFor: "子どもの歯間ケアを始めたい家庭"
-    rakutenUrl: "https://item.rakuten.co.jp/wagonsale-kanahashi/4901387051189-z-s-4-1/"
-    imageUrl: ""
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/07319599/49759_n.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitem-for-life%2Ffluorfloss-45-02.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-11"
+        price: 1580
+        rating: 4.67
+        reviewCount: 9
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/item-for-life_fluorfloss-45-02"
+        available: true
 tags:
   - "デンタルフロス おすすめ"
   - "歯間ブラシ コスパ"

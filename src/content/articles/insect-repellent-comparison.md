@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyyshop%2F49469592.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 433
         rating: 0
         reviewCount: 0
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fa1-shop%2F67-7283-85.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 1881
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/a1-shop_67-7283-85"
         available: true
@@ -149,18 +149,18 @@ products:
       - "精油の香りが好みに合わない場合もある"
     recommendedFor: "無添加・天然精油100%の虫よけを子どもにも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvsqn.3rdw6696.g00qvsqn.3rdw7fa3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faromaspray%2Fsp-bug-100-100e%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faromaspray%2Fi%2F10001233%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aromaspray/cabinet/item/02/anti-bug-cp10.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aromaspray/cabinet/item/anti-bug-rakuten.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faroma-spray%2Fsp-bug-100-100e.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 2980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aroma-spray_sp-bug-100-100e"
         available: true
-        rating: 4.68
-        reviewCount: 28
+        rating: 4.69
+        reviewCount: 29
   - rank: 6
     name: "KINCHO プレシャワー DFミスト プレミアガード 無香料 120mL"
     brand: "大日本除虫菊（KINCHO）"
@@ -221,35 +221,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyoga-pi%2Fperfect-potion-110931cd-125.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 1870
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yoga-pi_perfect-potion-110931cd-125"
         available: true
         rating: 4.88
         reviewCount: 17
   - rank: 8
-    name: "バルサン 虫除けスプレー 携帯用 100mL"
-    brand: "レック（バルサン）"
-    price: 1360
-    capacity: "100mL"
-    pricePerUnit: "約14円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "イカリジン15%配合で8時間効果が持続する防除用医薬部外品"
-      - "汗に強い処方でアウトドア・キャンプでの使用に向く"
-      - "バルサンブランドの携帯用スプレー"
-    pros:
-      - "汗に強い処方でレジャー・スポーツ時にも使いやすい"
-      - "携帯しやすいサイズでバッグに入れて持ち運べる"
-      - "バルサンブランドで購入しやすく試しやすい"
-    cons:
-      - "100mLと小容量のため自宅での日常使いにはコストがかかる"
-      - "携帯向け設計のため家族分をまかなうには複数本必要"
-    recommendedFor: "アウトドアやキャンプで携帯できる虫除けスプレーを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5d7n.3rdw6b76.g00s5d7n.3rdw7a8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect-2%2F4580543943171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect-2%2Fi%2F10004038%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect-2/cabinet/img/v/4580543943171.jpg?_ex=128x128"
-  - rank: 9
     name: "安全安心 虫除けスプレー"
     brand: "無添加工房 OKADA"
     price: 1386
@@ -271,7 +249,7 @@ products:
     recommendedFor: "ディート不使用で赤ちゃんや子どもと一緒に使える虫よけを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ppoyn.3rdw6621.g00ppoyn.3rdw79a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsafe%2F580481%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsafe%2Fi%2F10000010%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/safe/cabinet/2309_sku_img/580481.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "選べるアロマスプレー 虫除け 3本セット"
     brand: "ease-aroma"
     price: 1100
@@ -293,28 +271,28 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qfl9n.3rdw60bc.g00qfl9n.3rdw7fb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fease-aroma%2F10002751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fease-aroma%2Fi%2F10002751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ease-aroma/cabinet/spray/spray3hon_s_01.jpg?_ex=128x128"
-  - rank: 11
-    name: "for Outdoor 虫よけスプレー"
-    brand: "イーズアロマショップ"
-    price: 0
-    capacity: "60ml"
-    pricePerUnit: "0円/ml"
+  - rank: 10
+    name: "バルサン 虫除けスプレー 携帯用 100mL"
+    brand: "レック（バルサン）"
+    price: 1518
+    capacity: "100mL"
+    pricePerUnit: "約15円/mL"
     rating: 0
     reviewCount: 0
     features:
-      - "天然精油・ハーブを使った虫よけスプレー"
-      - "ディート・アルコール不使用"
-      - "香りを選べる2本セット"
+      - "イカリジン15%配合で8時間効果が持続する防除用医薬部外品"
+      - "汗に強い処方でアウトドア・キャンプでの使用に向く"
+      - "バルサンブランドの携帯用スプレー"
     pros:
-      - "ディート不使用で使う場面を選びにくい"
-      - "アロマの香りで使い心地がよい"
-      - "アウトドアやレジャーに携帯しやすい"
+      - "汗に強い処方でレジャー・スポーツ時にも使いやすい"
+      - "携帯しやすいサイズでバッグに入れて持ち運べる"
+      - "バルサンブランドで購入しやすく試しやすい"
     cons:
-      - "天然成分のためこまめな塗り直しが必要"
-      - "強い虫よけ効果を求める用途には不向きな場合がある"
-    recommendedFor: "ディート不使用の虫よけを探している方"
-    rakutenUrl: "https://item.rakuten.co.jp/ease-aroma/10003277/"
-    imageUrl: ""
+      - "100mLと小容量のため自宅での日常使いにはコストがかかる"
+      - "携帯向け設計のため家族分をまかなうには複数本必要"
+    recommendedFor: "アウトドアやキャンプで携帯できる虫除けスプレーを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5d7n.3rdw6b76.g00s5d7n.3rdw7a8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect-2%2F4580543943171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect-2%2Fi%2F10004038%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect-2/cabinet/img/v/4580543943171.jpg?_ex=128x128"
 tags:
   - "虫除けスプレー おすすめ"
   - "虫除けスプレー コスパ"

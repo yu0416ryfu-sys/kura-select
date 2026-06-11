@@ -1,10 +1,10 @@
 ---
-title: "トイレットペーパー ダブル コスパ最強ランキング【2026年版】11選比較"
-description: "ダブルのトイレットペーパーを1mあたりのコストで比較。2倍巻き・3倍巻き・再生紙・肌触り重視のおすすめ11選を紹介します。交換頻度を減らしたい方にも。"
+title: "トイレットペーパー ダブル コスパ最強ランキング【2026年版】10選比較"
+description: "ダブルのトイレットペーパーを1mあたりのコストで比較。2倍巻き・3倍巻き・再生紙・肌触り重視のおすすめ10選を紹介します。交換頻度を減らしたい方にも。"
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: 2026-06-11
 products:
   - rank: 1
     name: "再生紙トイレットペーパー ダブル"
@@ -13,7 +13,7 @@ products:
     capacity: "27.5m×12ロール×8パック（96ロール）"
     pricePerUnit: "約1.2円/m"
     rating: 4.58
-    reviewCount: 3495
+    reviewCount: 3501
     features:
       - "再生紙を使ったダブルタイプ"
       - "無地・無印刷で日常使いしやすい"
@@ -35,7 +35,7 @@ products:
     capacity: "27.5m×12ロール×8パック"
     pricePerUnit: "約1.2円/m"
     rating: 4.43
-    reviewCount: 3329
+    reviewCount: 3330
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -53,11 +53,11 @@ products:
   - rank: 3
     name: "スコッティ フラワーパック 3倍長持ち ダブル"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5850
+    price: 5980
     capacity: "75m×4ロール×12パック（3倍巻き）"
-    pricePerUnit: "約1.6円/m"
+    pricePerUnit: "約1.7円/m"
     rating: 4.75
-    reviewCount: 909
+    reviewCount: 912
     features:
       - "3倍長持ち設計で交換頻度が大幅に減る"
       - "ダブルタイプで使い心地が良い"
@@ -123,7 +123,7 @@ products:
     capacity: "75m×4ロール×12袋"
     pricePerUnit: "約1.8円/m"
     rating: 4.63
-    reviewCount: 1477
+    reviewCount: 1479
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -292,28 +292,6 @@ products:
         reviewCount: 11
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_h7262029"
         available: true
-  - rank: 11
-    name: "蒼翠 ダブル トイレットペーパー"
-    brand: "蒼翠（Sousui）"
-    price: 0
-    capacity: "12ロール"
-    pricePerUnit: "0円/ロール"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "ダブルタイプのトイレットペーパー"
-      - "標準的な長さの設計"
-      - "送料無料の容量展開"
-    pros:
-      - "ダブルで使い心地を重視しやすい"
-      - "扱いやすい標準的なロール"
-      - "まとめ買いしやすい構成"
-    cons:
-      - "シングルより巻き数あたりは短め"
-      - "好みの厚みは個人差がある"
-    recommendedFor: "使い心地重視でダブルを選びたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rebirth-inc/sousui_w/"
-    imageUrl: ""
 tags:
   - "トイレットペーパー"
   - "ダブル"

@@ -13,7 +13,7 @@ products:
     capacity: "20kg"
     pricePerUnit: "約509円/kg"
     rating: 4.59
-    reviewCount: 14718
+    reviewCount: 14719
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -27,18 +27,18 @@ products:
       - "銘柄の好みは分かれる"
     recommendedFor: "お米を容量と用途で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rxarn.3rdw6fdf.g00rxarn.3rdw7758/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuchigami%2F10000028%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuchigami%2Fi%2F10000028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/rakurip/kome/hino-20.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/johino/r7-hino-smn-20.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffuchigami%2Fhino-kp30.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 11380
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fuchigami_hino-kp30"
         available: true
-        rating: 4.59
-        reviewCount: 103
+        rating: 4.6
+        reviewCount: 104
   - rank: 2
     name: "家計応援まんぷく米"
     brand: "お米の阿部"
@@ -46,7 +46,7 @@ products:
     capacity: "5kg×2袋"
     pricePerUnit: "約568円/kg"
     rating: 4.27
-    reviewCount: 13701
+    reviewCount: 13704
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmanmayarice%2Fnouka10.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 5780
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/manmayarice_nouka10"
         available: true
@@ -147,7 +147,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r5uxn.3rdw630e.g00r5uxn.3rdw7dc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamatorice%2F10000070%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamatorice%2Fi%2F10000070%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 4.67
     reviewCount: 152
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/tym/koshi/bg/000324-2p10.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/tym/koshi/bg/000324-2.jpg?_ex=128x128"
     pricePerUnit: "約978円/kg"
   - rank: 6
     name: "無洗米 農薬節減米 岩手県産ひとめぼれ 10kg"
@@ -231,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhseason%2Fy-mtmk005-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 7580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hseason_y-mtmk005-2"
         available: true
@@ -292,28 +292,6 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtn3n.3rdw6fc6.g00qtn3n.3rdw7aa1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frice-akita%2F1000000130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frice-akita%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rice-akita/cabinet/03459843/05525503/09674048/imgrc0081536274.jpg?_ex=128x128"
-  - rank: 11
-    name: "福島県産 ひとめぼれ 令和7年産"
-    brand: "ひとめぼれ"
-    price: 0
-    capacity: "5kg"
-    pricePerUnit: "0円/kg"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "福島県産ひとめぼれの白米"
-      - "令和7年産の単一銘柄"
-      - "送料無料の容量展開"
-    pros:
-      - "バランスのよい食味で食べやすい"
-      - "単一銘柄で味が安定しやすい"
-      - "容量を選んでまとめ買いしやすい"
-    cons:
-      - "相場により価格が変動しやすい"
-      - "保管環境によって鮮度が落ちやすい"
-    recommendedFor: "クセの少ない定番銘柄米を探している方"
-    rakutenUrl: "https://item.rakuten.co.jp/jcrops/10001511/"
-    imageUrl: ""
 tags:
   - "お米"
   - "米"

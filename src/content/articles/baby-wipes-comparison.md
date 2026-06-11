@@ -1,10 +1,10 @@
 ---
-title: "おしりふき コスパ最強ランキング【2026年版】11選"
+title: "おしりふき コスパ最強ランキング【2026年版】10選"
 description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比較。ムーニー、パンパース、グーン、レックなど人気メーカーの商品を肌優しさ・容量・単価で徹底比較。"
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: 2026-06-11
 draft: false
 products:
   - rank: 1
@@ -45,11 +45,11 @@ products:
   - rank: 2
     name: "おしりナップ やわらか厚手仕上げ 80枚×40個"
     brand: "ピジョン"
-    price: 3788
+    price: 4070
     capacity: "80枚×40個（3200枚）"
-    pricePerUnit: "約1.2円/枚"
+    pricePerUnit: "約1.3円/枚"
     rating: 4.77
-    reviewCount: 7523
+    reviewCount: 7531
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -106,7 +106,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約1.8円/枚"
     rating: 4.68
-    reviewCount: 4530
+    reviewCount: 4539
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -159,7 +159,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.3円/枚"
     rating: 4.84
-    reviewCount: 2636
+    reviewCount: 2638
     features:
       - "99.9%の純水成分で肌に優しい"
       - "厚手シートで吸収性が優れている"
@@ -192,7 +192,7 @@ products:
     capacity: "54枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.61
-    reviewCount: 3771
+    reviewCount: 3773
     features:
       - "菌を99.9%除去する除菌処理"
       - "厚手タイプで吸収性が高い"
@@ -225,7 +225,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.41
-    reviewCount: 1609
+    reviewCount: 1610
     features:
       - "トイレに流せる素材で処理が簡単"
       - "菌を99.9%除去する除菌効果"
@@ -291,7 +291,7 @@ products:
     capacity: "56枚×12個（672枚）"
     pricePerUnit: "約4.7円/枚"
     rating: 4.79
-    reviewCount: 2855
+    reviewCount: 2857
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -306,28 +306,6 @@ products:
     recommendedFor: "おしりふきをまとめて備えておきたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2Fa62839xxx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10023241%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/821/403821.jpg?_ex=128x128"
-  - rank: 11
-    name: "ムーニー おしりふき 詰替用"
-    brand: "ムーニー（moony）"
-    price: 0
-    capacity: "40個"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "まとめ買い向けの詰め替えタイプ"
-      - "ベビーケア用のウエットシート"
-      - "大容量の個包装セット"
-    pros:
-      - "詰め替えでストックしやすい"
-      - "毎日のおむつ替えに使いやすい"
-      - "まとめ買いで補充の手間が減る"
-    cons:
-      - "専用ケースが別途あると使いやすい"
-      - "開封後は乾燥しないよう保管に注意"
-    recommendedFor: "おしりふきをまとめ買いしたい家庭"
-    rakutenUrl: "https://item.rakuten.co.jp/netbaby/405150/"
-    imageUrl: ""
 tags:
   - "おしりふき おすすめ"
   - "おしりふき コスパ"

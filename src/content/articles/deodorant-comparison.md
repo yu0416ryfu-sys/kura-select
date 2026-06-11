@@ -1,10 +1,10 @@
 ---
-title: "制汗剤・デオドラント コスパ最強ランキング【2026年版】11選比較"
-description: "制汗剤・デオドラントを容量あたりのコストで比較。8×4・Ban・エージーデオ24・デオナチュレなど人気11選を持続力・汗・ニオイ対策・コスパで解説。スプレー・スティック・クリーム別に選べます。"
+title: "制汗剤・デオドラント コスパ最強ランキング【2026年版】10選比較"
+description: "制汗剤・デオドラントを容量あたりのコストで比較。8×4・Ban・エージーデオ24・デオナチュレなど人気10選を持続力・汗・ニオイ対策・コスパで解説。スプレー・スティック・クリーム別に選べます。"
 category: "deodorant"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "Ban 汗ブロックロールオン プレミアムゴールドラベル 40mL"
@@ -60,13 +60,13 @@ products:
       - "広範囲に素早く使うならスプレーの方が楽"
     recommendedFor: "男性向けのロールオン制汗剤を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s54yn.3rdw6a20.g00s54yn.3rdw7634/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclinique%2F6933%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclinique%2Fi%2F10000172%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/clinique/cabinet/thumb/260604_ss_p/6933.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/clinique/cabinet/thumb/2026_normal/6933.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000039445.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 4950
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosmecom_1000039445"
         available: true
@@ -99,12 +99,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhigh-touch%2Fqdeo-0001-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 3300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/high-touch_qdeo-0001-a"
         available: true
-        rating: 4.5
-        reviewCount: 648
+        rating: 4.51
+        reviewCount: 649
   - rank: 4
     name: "クデオ ジェルクリーム ロールオン 30mL"
     brand: "クデオ"
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhigh-touch%2Fqdeo-0010.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 3300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/high-touch_qdeo-0010"
         available: true
@@ -183,6 +183,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sx68n.3rdw6b00.g00sx68n.3rdw7236/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenbasket%2Fuk-perspirexorg20ml-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenbasket%2Fi%2F10000046%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/product_uk/ukproduct/perspirexnew/imgrc0098357570.jpg?_ex=128x128"
   - rank: 7
+    name: "パースピレックス オリジナル ロールオン"
+    brand: "Perspirex（パースピレックス）"
+    price: 3340
+    capacity: "20ml"
+    pricePerUnit: "約167円/ml"
+    rating: 4.14
+    reviewCount: 1641
+    features:
+      - "ロールオンタイプの制汗デオドラント"
+      - "無香料タイプ"
+      - "夜に塗って使う設計"
+    pros:
+      - "ロールオンで塗りやすい"
+      - "無香料で香り移りを気にせず使える"
+      - "持続性を重視したい方に向く"
+    cons:
+      - "肌に合うかは個人差がある"
+      - "使用方法を守って使う必要がある"
+    recommendedFor: "汗やニオイ対策を重点的にしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sx68n.3rdw6b00.g00sx68n.3rdw7236/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenbasket%2Fuk-perspirexorg20ml%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenbasket%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/product_uk/ukproduct/perspirexnew/imgrc0098357569.jpg?_ex=128x128"
+  - rank: 8
     name: "8x4 パウダースプレー 無香料 150g"
     brand: "花王（8×4）"
     price: 492
@@ -215,7 +237,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 8
+  - rank: 9
     name: "エージーデオ24 パウダースプレー 無香料 180g"
     brand: "資生堂（Ag DEO 24）"
     price: 1808
@@ -248,7 +270,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_7250013"
         available: true
-  - rank: 9
+  - rank: 10
     name: "勉強堂 デオドラントクリーム 50g"
     brand: "勉強堂"
     price: 1800
@@ -281,50 +303,6 @@ products:
         available: true
         rating: 4.53
         reviewCount: 199
-  - rank: 10
-    name: "【送料無料・まとめ買い"
-    brand: "シービック（デオナチュレ）"
-    price: 4647
-    capacity: "20g×4"
-    pricePerUnit: "約58円/g"
-    rating: 4.76
-    reviewCount: 174
-    features:
-      - "天然アルム石（ミョウバン）が有効成分"
-      - "スティックタイプで直塗りできる"
-      - "朝ひと塗りで夜まで効果が持続"
-    pros:
-      - "制汗・防臭の持続力がトップクラス"
-      - "スティック式で適量を簡単に塗れる"
-      - "無香料・無着色で肌にやさしい"
-    cons:
-      - "20gで容量が少なく単価は高め"
-      - "ワキ以外の広い部位には使いにくい"
-    recommendedFor: "制汗力・持続力を最優先する方・朝のケアだけで済ませたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4971825011747-004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10017245%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/vic202001/imgrc0076856241.jpg?_ex=128x128"
-  - rank: 11
-    name: "パースピレックス オリジナル ロールオン"
-    brand: "Perspirex（パースピレックス）"
-    price: 0
-    capacity: "20ml"
-    pricePerUnit: "0円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "ロールオンタイプの制汗デオドラント"
-      - "無香料タイプ"
-      - "夜に塗って使う設計"
-    pros:
-      - "ロールオンで塗りやすい"
-      - "無香料で香り移りを気にせず使える"
-      - "持続性を重視したい方に向く"
-    cons:
-      - "肌に合うかは個人差がある"
-      - "使用方法を守って使う必要がある"
-    recommendedFor: "汗やニオイ対策を重点的にしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/greenbasket/uk-perspirexorg20ml/"
-    imageUrl: ""
 tags:
   - "制汗剤 おすすめ"
   - "デオドラント コスパ"

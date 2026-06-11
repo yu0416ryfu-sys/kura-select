@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,17 @@ products:
     recommendedFor: "クセの少ない香りで毎日使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q7yxn.3rdw6516.g00q7yxn.3rdw7e1e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmebox%2Fj4550516475473%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmebox%2Fi%2F10046745%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmebox/cabinet/item65/j4550516475473_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4550516475473.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-11"
+        price: 458
+        rating: 5
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4550516475473"
+        available: true
   - rank: 2
     name: "エージーデオ24 デオドラント ボディシート"
     brand: "資生堂（Ag DEO24）"
@@ -51,6 +62,17 @@ products:
     recommendedFor: "ニオイケアを重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4550516493194-today202602%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12711328%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2025b/4550516493194.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatata12121%2Fdeodorantshawarshirt-ag24-kosme-4550516493194-1.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-11"
+        price: 880
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/atata12121_deodorantshawarshirt-ag24-kosme-4550516493194-1"
+        available: true
   - rank: 3
     name: "ビオレ さらさらパウダーシート 無香料"
     brand: "花王（ビオレ）"
@@ -73,6 +95,17 @@ products:
     recommendedFor: "香りを残したくない方・オフィスで使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uso0n.3rdw6c16.g00uso0n.3rdw73a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsasaya-halo%2Fcompass1775955499%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsasaya-halo%2Fi%2F10000058%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sasaya-halo/cabinet/compass1779518957.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F612-8545-103.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-11"
+        price: 1259
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_612-8545-103"
+        available: true
   - rank: 4
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
@@ -95,6 +128,17 @@ products:
     recommendedFor: "夏の冷感・クールダウンを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F528751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11101840%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/751/528751.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkusurinofukutaro%2F10164409.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-11"
+        price: 378
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kusurinofukutaro_10164409"
+        available: true
 tags:
   - "汗拭きシート おすすめ"
   - "ボディシート コスパ"

@@ -1,10 +1,10 @@
 ---
 title: "使い捨て手袋 コスパ最強ランキング【2026年版】ニトリル・ビニール・ポリエチレンで比較"
-description: "使い捨て手袋を1枚あたりのコストで徹底比較。ニトリル・ビニール・ポリエチレンなど素材別に人気11選のフィット感・耐久性を解説します。"
+description: "使い捨て手袋を1枚あたりのコストで徹底比較。ニトリル・ビニール・ポリエチレンなど素材別に人気10選のフィット感・耐久性を解説します。"
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚"
@@ -65,8 +65,8 @@ products:
     price: 495
     capacity: "100枚"
     pricePerUnit: "約5.0円/枚"
-    rating: 4.6
-    reviewCount: 134
+    rating: 4.61
+    reviewCount: 135
     features:
       - "使い切りで使える作業用手袋"
       - "継続利用しやすい定番構成"
@@ -86,12 +86,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh8451-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 495
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh8451-1"
         available: true
         rating: 4.62
-        reviewCount: 85
+        reviewCount: 86
   - rank: 4
     name: "明成 プラスチック手袋 パウダーフリー 2000枚"
     brand: "明成"
@@ -117,7 +117,7 @@ products:
   - rank: 5
     name: "PVCグローブ 100枚×20箱"
     brand: "サンユー"
-    price: 15500
+    price: 15675
     capacity: "100枚×20箱"
     pricePerUnit: "約7.8円/枚"
     rating: 5
@@ -141,16 +141,18 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh734020.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
-        price: 9240
+        updatedAt: "2026-06-11"
+        price: 8580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh734020"
         available: true
+        rating: 4.72
+        reviewCount: 376
   - rank: 6
     name: "PVCグローブ 100枚×10箱"
     brand: "サンユー"
-    price: 8200
+    price: 8265
     capacity: "100枚×10箱"
-    pricePerUnit: "約8.2円/枚"
+    pricePerUnit: "約8.3円/枚"
     rating: 4.56
     reviewCount: 9
     features:
@@ -229,7 +231,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約14円/枚"
     rating: 4.71
-    reviewCount: 1332
+    reviewCount: 1333
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -247,13 +249,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshimmer%2Fsun-glove202101m.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove001.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-08"
-        price: 1480
-        rating: 4.6
-        reviewCount: 108
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shimmer_sun-glove202101m"
+        updatedAt: "2026-06-11"
+        price: 1439
+        rating: 4.58
+        reviewCount: 2192
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
         available: true
   - rank: 10
     name: "ニトリル手袋 パウダーフリー 医療対応"
@@ -262,7 +264,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約14円/枚"
     rating: 4.57
-    reviewCount: 3497
+    reviewCount: 3501
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -277,28 +279,6 @@ products:
     recommendedFor: "FDA認証取得のニトリル手袋で品質基準を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs3nn.3rdw6825.g00qs3nn.3rdw7afb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenkapas%2Fglove001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenkapas%2Fi%2F10010258%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tenkapas/cabinet/item_image/item_health_beauty/sanitary-goods/glove001_0c.jpg?_ex=128x128"
-  - rank: 11
-    name: "調理用ビニール極薄手袋"
-    brand: "KAWANISHI（カワニシ）"
-    price: 0
-    capacity: "100枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "粉なしの調理用ビニール使いきり手袋"
-      - "食品衛生法に適合した薄手タイプ"
-      - "調理・盛り付けなど幅広い作業に対応"
-    pros:
-      - "薄手で細かい作業がしやすい"
-      - "粉なしで食品を扱う場面でも使いやすい"
-      - "使いきりで衛生的に交換しやすい"
-    cons:
-      - "薄手のため破れやすさに注意が必要"
-      - "サイズ展開が限られ手の大小で合いにくい場合がある"
-    recommendedFor: "調理や手荒れ対策で手軽に使い捨てしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/shizaicom-rt/10000858/"
-    imageUrl: ""
 tags:
   - "使い捨て手袋"
   - "ニトリル手袋"

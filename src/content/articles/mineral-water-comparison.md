@@ -4,7 +4,7 @@ description: "サントリー・アサヒ・エビアンなど人気の天然水
 category: "mineral-water"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -52,28 +52,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7169488%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10180096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tenposupport08/4571454860046.jpg?_ex=128x128"
   - rank: 3
-    name: "楽天オリジナル 天然水 500mL×24本"
-    brand: "楽天オリジナル"
-    price: 1121
-    capacity: "500mL×24本（12L）"
-    pricePerUnit: "約93円/L"
-    rating: 4.7
-    reviewCount: 1258
-    features:
-      - "飲み切りやすい500mLサイズ・24本入り"
-      - "楽天市場限定販売のオリジナル天然水"
-      - "カバンやリュックに入れやすい持ち運びサイズ"
-    pros:
-      - "500mLで外出・職場・学校へのストックに使いやすい"
-      - "楽天ポイントを活用しながら購入しやすい"
-      - "1本ずつ取り出しやすく家族それぞれが使いやすい"
-    cons:
-      - "2Lボトルと比べると1Lあたりの単価が高くなりやすい"
-      - "詳細な産地・水源情報がやや少ない"
-    recommendedFor: "持ち運び用・職場や学校へのストックに使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqzrn.3rdw615b.g00uqzrn.3rdw7efd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenoriginal-daily%2Fro-b-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenoriginal-daily%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenoriginal-daily/cabinet/item/water/ro-b-001_e_v2.jpg?_ex=128x128"
-  - rank: 4
     name: "サントリー天然水 南アルプス 2L×12本"
     brand: "サントリー"
     price: 2280
@@ -95,6 +73,28 @@ products:
     recommendedFor: "毎日の飲料水として安心感のあるブランドを選びたいご家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00twmen.3rdw6441.g00twmen.3rdw7e0a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzu-onlineshop%2F2255-001097%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuzu-onlineshop%2Fi%2F10000389%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suzu-onlineshop/cabinet/compass1691726585.jpg?_ex=128x128"
+  - rank: 4
+    name: "楽天オリジナル 天然水 500mL×24本"
+    brand: "楽天オリジナル"
+    price: 1180
+    capacity: "500mL×24本（12L）"
+    pricePerUnit: "約98円/L"
+    rating: 4.7
+    reviewCount: 1272
+    features:
+      - "飲み切りやすい500mLサイズ・24本入り"
+      - "楽天市場限定販売のオリジナル天然水"
+      - "カバンやリュックに入れやすい持ち運びサイズ"
+    pros:
+      - "500mLで外出・職場・学校へのストックに使いやすい"
+      - "楽天ポイントを活用しながら購入しやすい"
+      - "1本ずつ取り出しやすく家族それぞれが使いやすい"
+    cons:
+      - "2Lボトルと比べると1Lあたりの単価が高くなりやすい"
+      - "詳細な産地・水源情報がやや少ない"
+    recommendedFor: "持ち運び用・職場や学校へのストックに使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqzrn.3rdw615b.g00uqzrn.3rdw7efd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenoriginal-daily%2Fro-b-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenoriginal-daily%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenoriginal-daily/cabinet/item/water/ro-b-001_e_v2.jpg?_ex=128x128"
   - rank: 5
     name: "いろはす 天然水 ラベルレス"
     brand: "コカコーラ（いろはす）"
@@ -144,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmeshiya%2F001-0010-001-spu1712.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 3240
         rating: 4.4
         reviewCount: 575
@@ -171,7 +171,7 @@ products:
       - "18本入り大箱のため収納スペースがある程度必要"
     recommendedFor: "エコ意識が高い方・ストック場所に余裕があり大量購入したいご家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pifhn.3rdw6a3e.g00pifhn.3rdw7cc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakae%2F4514603380606-2c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakae%2Fi%2F10036447%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakae/cabinet/2/4514603380606-2c.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakae/cabinet/img023/4514603380606-2c.jpg?_ex=128x128"
   - rank: 8
     name: "かぞく想いの天然水 硝酸態窒素ゼロ 2L×12本"
     brand: "かぞく想いの天然水"

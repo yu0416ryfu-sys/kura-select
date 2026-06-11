@@ -1,6 +1,6 @@
 ---
-title: "コーヒーフィルター コスパ最強ランキング【2026年版】1枚あたり最安で比較11選"
-description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒー・KONO・珈琲考具など人気11選を漂白タイプ・形状・コスパで解説します。"
+title: "コーヒーフィルター コスパ最強ランキング【2026年版】1枚あたり最安で比較10選"
+description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒー・KONO・珈琲考具など人気10選を漂白タイプ・形状・コスパで解説します。"
 category: "coffee-filter"
 publishedAt: "2026-05-05"
 articleType: "comparison"
@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk18853-a2201.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 481
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk18853-a2201"
         available: true
@@ -89,13 +89,46 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhiroshimacoffee%2Fcafe-60.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 187
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hiroshimacoffee_cafe-60"
         available: true
         rating: 4.75
         reviewCount: 4
   - rank: 4
+    name: "KONO 円すいペーパーフィルター 2人用"
+    brand: "KONO（コーノ）"
+    price: 385
+    capacity: "40枚"
+    pricePerUnit: "約9.6円/枚"
+    rating: 4.78
+    reviewCount: 40
+    features:
+      - "円すい型のドリップ用ペーパーフィルター"
+      - "1〜2人分の抽出に対応したサイズ"
+      - "円すいドリッパー向けの定番形状"
+    pros:
+      - "少人数分を淹れるのにちょうどよい容量"
+      - "円すいドリッパーと組み合わせやすい"
+      - "ハンドドリップ初心者でも扱いやすい形状"
+    cons:
+      - "対応する円すい型ドリッパーが必要"
+      - "大人数分をまとめて淹れる用途には不向き"
+    recommendedFor: "円すいドリッパーで1〜2杯を淹れる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qey6n.3rdw6261.g00qey6n.3rdw7a3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffcinterior%2F30817-11300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffcinterior%2Fi%2F10001967%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fcinterior/cabinet/coffee_pg/pg30817.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffci%2F11300.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-11"
+        price: 385
+        rating: 4.83
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fci_11300"
+        available: true
+  - rank: 5
     name: "珈琲考具 コットンフィルター 1-2杯用 60枚"
     brand: "下村企販"
     price: 594
@@ -122,13 +155,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshimomurakihan%2F43451.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 660
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shimomurakihan_43451"
         available: true
         rating: 4.57
         reviewCount: 14
-  - rank: 5
+  - rank: 6
     name: "If You Care コーヒーフィルター No.2"
     brand: "If You Care（イフユーケア）"
     price: 990
@@ -155,13 +188,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgpecoe%2Fiyc004zkc031xx1.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 990
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/gpecoe_iyc004zkc031xx1"
         available: true
-  - rank: 6
+  - rank: 7
     name: "珈琲考具 コットンフィルター 2-4杯用 60枚"
     brand: "下村企販"
     price: 693
@@ -188,13 +221,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshimomurakihan%2F43452.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 770
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shimomurakihan_43452"
         available: true
         rating: 4.53
         reviewCount: 17
-  - rank: 7
+  - rank: 8
     name: "ドリップバッグフィルター 1杯用 200枚"
     brand: "国内メーカー品"
     price: 2530
@@ -221,13 +254,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fuminari%2Fa3jdxc00014st.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 2480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/uminari_a3jdxc00014st"
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 8
+  - rank: 9
     name: "リネン コーヒーフィルター 3枚入り"
     brand: "WPB-shop.R"
     price: 1760
@@ -254,13 +287,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fultramix%2Fif-filter-mx.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 2208
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ultramix_if-filter-mx"
         available: true
         rating: 5
         reviewCount: 5
-  - rank: 9
+  - rank: 10
     name: "キーコーヒー コーヒーフィルター 無漂白 100枚"
     brand: "キーコーヒー"
     price: 184
@@ -282,50 +315,6 @@ products:
     recommendedFor: "エコ志向の方・自然素材にこだわりたい方・キーコーヒーブランドを信頼している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fcf0475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10348950%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/syoku/syoku11/cf0475.jpg?_ex=128x128"
-  - rank: 10
-    name: "メリタ アロマフィルター AF-M 100枚"
-    brand: "メリタ"
-    price: 853
-    capacity: "-"
-    pricePerUnit: "-"
-    rating: 4.84
-    reviewCount: 19
-    features:
-      - "台形フィルター設計でドリッパーに密着しやすい"
-      - "独自の波状フィルターで均一抽出を実現"
-      - "酸素漂白パルプ100%・日本規格適合品"
-    pros:
-      - "110年以上の歴史を持つメリタの信頼ブランド品質"
-      - "波状フィルターでコーヒーの旨味を引き出す設計"
-      - "メリタドリッパーとの組み合わせで最大限の性能を発揮"
-    cons:
-      - "メリタ専用台形ドリッパー以外には使用不可"
-      - "円錐型ドリッパーへの転用は不可"
-    recommendedFor: "定番ブランドの安心品質を求める方・ペーパードリップ初心者の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5ncn.3rdw6781.g00u5ncn.3rdw77ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmelittajapan%2Faromafilter01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmelittajapan%2Fi%2F10000085%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/5.jpg?_ex=128x128"
-  - rank: 11
-    name: "KONO 円すいペーパーフィルター 2人用"
-    brand: "KONO（コーノ）"
-    price: 0
-    capacity: "40枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "円すい型のドリップ用ペーパーフィルター"
-      - "1〜2人分の抽出に対応したサイズ"
-      - "円すいドリッパー向けの定番形状"
-    pros:
-      - "少人数分を淹れるのにちょうどよい容量"
-      - "円すいドリッパーと組み合わせやすい"
-      - "ハンドドリップ初心者でも扱いやすい形状"
-    cons:
-      - "対応する円すい型ドリッパーが必要"
-      - "大人数分をまとめて淹れる用途には不向き"
-    recommendedFor: "円すいドリッパーで1〜2杯を淹れる方"
-    rakutenUrl: "https://item.rakuten.co.jp/fcinterior/30817-11300/"
-    imageUrl: ""
 tags:
   - "コーヒーフィルター おすすめ"
   - "コーヒーフィルター コスパ"

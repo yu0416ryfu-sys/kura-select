@@ -1,6 +1,6 @@
 ---
-title: "マウスウォッシュ コスパ最強ランキング【2026年版】殺菌力・低刺激で比較11選"
-description: "マウスウォッシュを1mLあたりのコストで徹底比較。リステリン・モンダミン・GUM・コンクールなど人気11選を殺菌力・刺激性で解説します。"
+title: "マウスウォッシュ コスパ最強ランキング【2026年版】殺菌力・低刺激で比較10選"
+description: "マウスウォッシュを1mLあたりのコストで徹底比較。リステリン・モンダミン・GUM・コンクールなど人気10選を殺菌力・刺激性で解説します。"
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -73,6 +73,28 @@ products:
         rating: 0
         reviewCount: 1
   - rank: 3
+    name: "リステリン トータルケアプラス クリーンミント"
+    brand: "LISTERINE（リステリン）"
+    price: 5965
+    capacity: "6000ml"
+    pricePerUnit: "約0.99円/ml"
+    rating: 4.77
+    reviewCount: 345
+    features:
+      - "多機能タイプの薬用マウスウォッシュ"
+      - "クリーンミント味の液体タイプ"
+      - "まとめ買い向けの複数本セット"
+    pros:
+      - "口臭ケアなど複数の目的に使いやすい"
+      - "セット販売でストックしやすい"
+      - "毎日のオーラルケアに取り入れやすい"
+    cons:
+      - "刺激が強めで人によって好みが分かれる"
+      - "大容量で保管スペースを取りやすい"
+    recommendedFor: "多機能タイプをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F70697%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10924600%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/697/70697.jpg?_ex=128x128"
+  - rank: 4
     name: "モンダミン プレミアムケア ゴールドミント"
     brand: "アース製薬（モンダミン）"
     price: 1047
@@ -105,7 +127,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901080248619"
         available: true
-  - rank: 4
+  - rank: 5
     name: "GUM デンタルリンス ナイトケア 900mL"
     brand: "サンスター（GUM）"
     price: 1038
@@ -138,7 +160,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 5
+  - rank: 6
     name: "システマ EX デンタルリンス"
     brand: "ライオン（システマ）"
     price: 1230
@@ -171,7 +193,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7267910f"
         available: true
-  - rank: 6
+  - rank: 7
     name: "プロフレッシュ 口臭ケア マウスウォッシュ"
     brand: "PROFRESH（プロフレッシュ）"
     price: 7425
@@ -193,7 +215,7 @@ products:
     recommendedFor: "口臭が強く気になる方・無香料マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pz2wn.3rdw6ac8.g00pz2wn.3rdw7cbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falpha-net%2F020-prf-0013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falpha-net%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/alpha-net/cabinet/profresh/imgrc0134851319.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 8
     name: "WHITH WHITE 薬用マウスウォッシュ 300mL"
     brand: "WHITH WHITE（フィスホワイト）"
     price: 2200
@@ -215,7 +237,7 @@ products:
     recommendedFor: "ホワイトニングケアを日常に取り入れたい方・低刺激マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b071gypvwv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000116%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260604ss/906b071gypvwv-50.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "ドクターウォッシュ デンタル露ウォッシュ"
     brand: "ビーラッシュストア"
     price: 2970
@@ -242,13 +264,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichinan25%2Fdr-wash.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 2970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichinan25_dr-wash"
         available: true
         rating: 4.57
         reviewCount: 7
-  - rank: 9
+  - rank: 10
     name: "コンクールF 100mL"
     brand: "ウエルテック（コンクール）"
     price: 2200
@@ -269,62 +291,18 @@ products:
       - "薄める手間がある"
     recommendedFor: "歯科医推奨品を求める方・歯周病予防を重視する方・長く使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fdf2819%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10012094%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0610_100b/kirikae2/df2819_1450ppm.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg/df2819_1450ppm.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Fdf0129.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 3340
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_df0129"
         available: true
         rating: 4.78
-        reviewCount: 1373
-  - rank: 10
-    name: "ナタデウォッシュ"
-    brand: "ナチュラルガーデン（ナタデ）"
-    price: 11500
-    capacity: "500mL"
-    pricePerUnit: "約23円/mL"
-    rating: 4.59
-    reviewCount: 558
-    features:
-      - "医薬部外品で口臭予防・歯周炎対策に対応"
-      - "薬用成分配合で継続的なオーラルケアをサポート"
-      - "日本製で品質管理が徹底"
-    pros:
-      - "口臭が気になる方の毎日のケアに"
-      - "歯周炎予防を意識したい方に"
-      - "選べるセット展開でまとめ買いに対応"
-    cons:
-      - "ブランド知名度が大手より低い"
-      - "香りや味のバリエーションが限られる"
-    recommendedFor: "口臭・歯周炎ケアを重視する方・国産マウスウォッシュを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr2qn.3rdw64f0.g00pr2qn.3rdw7a58/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnat-gar%2F1484526%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnat-gar%2Fi%2F10004814%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nat-gar/cabinet/ynata/c/cart-r-ynata5x250b6.jpg?_ex=128x128"
-  - rank: 11
-    name: "リステリン トータルケアプラス クリーンミント"
-    brand: "LISTERINE（リステリン）"
-    price: 0
-    capacity: "6000ml"
-    pricePerUnit: "0円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "多機能タイプの薬用マウスウォッシュ"
-      - "クリーンミント味の液体タイプ"
-      - "まとめ買い向けの複数本セット"
-    pros:
-      - "口臭ケアなど複数の目的に使いやすい"
-      - "セット販売でストックしやすい"
-      - "毎日のオーラルケアに取り入れやすい"
-    cons:
-      - "刺激が強めで人によって好みが分かれる"
-      - "大容量で保管スペースを取りやすい"
-    recommendedFor: "多機能タイプをまとめ買いしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/70697/"
-    imageUrl: ""
+        reviewCount: 1375
 tags:
   - "マウスウォッシュ"
   - "コスパ"

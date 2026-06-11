@@ -4,17 +4,17 @@ description: "ペットシーツのダブル（スーパーワイド）サイズ
 category: "pet-sheet"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
     name: "厚型ペットシーツ スーパーワイド"
     brand: "HAMI PET"
-    price: 3980
+    price: 4380
     capacity: "スーパーワイド 100枚（25枚×4パック）"
     pricePerUnit: "約1.75円/枚"
     rating: 4.35
-    reviewCount: 1759
+    reviewCount: 1762
     features:
       - "スーパーワイド（60×90cm）の厚型設計"
       - "ポリエチレン素材で吸収力・防水性を両立"
@@ -36,7 +36,7 @@ products:
     capacity: "スーパーワイド 1200枚"
     pricePerUnit: "約2.48円/枚"
     rating: 4.39
-    reviewCount: 1306
+    reviewCount: 1310
     features:
       - "スーパーワイド（60×90cm）サイズ、約655cc吸収"
       - "PPE素材使用、1枚あたり約60gの重量"
@@ -80,7 +80,7 @@ products:
     capacity: "800枚"
     pricePerUnit: "約5.0円/枚"
     rating: 4.55
-    reviewCount: 14306
+    reviewCount: 14312
     features:
       - "スーパーワイド・ダブルワイド系のペットシーツ"
       - "大型犬や多頭飼いのトイレまわりに使いやすい"
@@ -94,13 +94,13 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5lzn.3rdw67b4.g00s5lzn.3rdw7923/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fryouhin-monogatari%2F10000024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fryouhin-monogatari%2Fi%2F10000024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ryouhin-monogatari/cabinet/sale/salethumb/petsheets-s_sale.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ryouhin-monogatari/cabinet/renewal2025/thumbnail_sheet2/petsheets-small_main.jpg?_ex=128x128"
   - rank: 5
     name: "ペットシーツ 薄型 ダブルワイド 200枚 大容量"
     brand: "ペットシーツ"
-    price: 2530
+    price: 2981
     capacity: "200枚"
-    pricePerUnit: "約13円/枚"
+    pricePerUnit: "約15円/枚"
     rating: 4.57
     reviewCount: 860
     features:
@@ -116,7 +116,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F1009566%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10004882%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/11076425/2606se/314395.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/11076425/11076426/314395.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -153,7 +153,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwannyan%2Fm7140533.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 5900
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wannyan_m7140533"
         available: true
@@ -241,7 +241,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frocky%2Far603011.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 17090
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rocky_ar603011"
         available: true

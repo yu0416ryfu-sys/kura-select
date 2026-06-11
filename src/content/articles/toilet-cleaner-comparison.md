@@ -1,10 +1,10 @@
 ---
 title: "トイレ用洗剤 コスパ最強ランキング【2026年版】除菌力・洗浄力で比較"
-description: "トイレ用洗剤を1回あたりのコストで徹底比較。サンポール・スクラビングバブル・ドメスト・ブルーレットなど人気11選を解説します。"
+description: "トイレ用洗剤を1回あたりのコストで徹底比較。サンポール・スクラビングバブル・ドメスト・ブルーレットなど人気10選を解説します。"
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-11"
+updatedAt: 2026-06-11
 products:
   - rank: 1
     name: "ドメスト 除菌クリーナー 500ml×3個セット"
@@ -117,28 +117,6 @@ products:
         rating: 4.48
         reviewCount: 42
   - rank: 5
-    name: "エコストア トイレクリーナー ユーカリ 500mL"
-    brand: "ecostore"
-    price: 616
-    capacity: "500ml"
-    pricePerUnit: "約1.2円/ml"
-    rating: 4.5
-    reviewCount: 30
-    features:
-      - "トイレ用の洗剤本体"
-      - "液体やジェルなど便器まわりに使いやすい設計"
-      - "日常掃除向けの定番タイプ"
-    pros:
-      - "トイレ掃除の頻度に合わせて選べる"
-      - "既存候補と容量や形状を比較しやすい"
-      - "ストック用途にも検討しやすい"
-    cons:
-      - "酸性や塩素系など種類の確認が必要"
-      - "素材や使用場所によって注意点がある"
-    recommendedFor: "トイレ用洗剤を液体タイプ中心に比較したい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00thycn.3rdw660f.g00thycn.3rdw7533/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fecostore%2F9420015012583%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fecostore%2Fi%2F10000918%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ecostore/cabinet/rankinglabel/9420015012583_rb_ss.jpg?_ex=128x128"
-  - rank: 6
     name: "ソネット ナチュラルトイレットクリーナー"
     brand: "SONETT（ソネット）"
     price: 1100
@@ -171,6 +149,28 @@ products:
         available: true
         rating: 4.33
         reviewCount: 3
+  - rank: 6
+    name: "エコストア トイレクリーナー ユーカリ 500mL"
+    brand: "ecostore"
+    price: 880
+    capacity: "500ml"
+    pricePerUnit: "約1.8円/ml"
+    rating: 4.52
+    reviewCount: 31
+    features:
+      - "トイレ用の洗剤本体"
+      - "液体やジェルなど便器まわりに使いやすい設計"
+      - "日常掃除向けの定番タイプ"
+    pros:
+      - "トイレ掃除の頻度に合わせて選べる"
+      - "既存候補と容量や形状を比較しやすい"
+      - "ストック用途にも検討しやすい"
+    cons:
+      - "酸性や塩素系など種類の確認が必要"
+      - "素材や使用場所によって注意点がある"
+    recommendedFor: "トイレ用洗剤を液体タイプ中心に比較したい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00thycn.3rdw660f.g00thycn.3rdw7533/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fecostore%2F9420015012583%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fecostore%2Fi%2F10000918%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ecostore/cabinet/rankinglabel/9420015012583_rb.jpg?_ex=128x128"
   - rank: 7
     name: "キバミおちーる 尿石除去剤"
     brand: "キバミおちーる"
@@ -178,7 +178,7 @@ products:
     capacity: "1000ml"
     pricePerUnit: "約2.0円/ml"
     rating: 4.66
-    reviewCount: 116
+    reviewCount: 117
     features:
       - "トイレ掃除に使える洗浄剤"
       - "黄ばみ・尿石・便座まわりなど用途別に選べる"
@@ -227,6 +227,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987072067178-008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12129144%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic49x/4987072067178_1.jpg?_ex=128x128"
   - rank: 9
+    name: "スクラビングバブル 超強力トイレクリーナー"
+    brand: "スクラビングバブル（ジョンソン）"
+    price: 215
+    capacity: "400g"
+    pricePerUnit: "約0.54円/g"
+    rating: 4.75
+    reviewCount: 53
+    features:
+      - "便器の汚れ向けの強力タイプ洗剤"
+      - "ジェル状で密着しやすい設計"
+      - "本体ボトルタイプ"
+    pros:
+      - "こびりつき汚れにアプローチしやすい"
+      - "密着して流れ落ちにくい"
+      - "定番ブランドで選びやすい"
+    cons:
+      - "強力タイプのため換気して使いたい"
+      - "素材によっては目立たない場所で確認が必要"
+    recommendedFor: "便器のしつこい汚れをケアしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4901609005440%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F10628191%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/0764/00000001807418_a01.jpg?_ex=128x128"
+  - rank: 10
     name: "スクラビングバブル 超強力トイレクリーナー 10本セット"
     brand: "ジョンソン（スクラビングバブル）"
     price: 2277
@@ -248,61 +270,6 @@ products:
     recommendedFor: "大容量まとめ買いでコストを最小化したい方・頻繁にトイレ掃除をする方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F542515%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11127321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/515/542515.jpg?_ex=128x128"
-  - rank: 10
-    name: "スクラビングバブル 超強力トイレクリーナー 3本セット"
-    brand: "ジョンソン（スクラビングバブル）"
-    price: 733
-    capacity: "400g×3本"
-    pricePerUnit: "約0.61円/g"
-    rating: 4.81
-    reviewCount: 133
-    features:
-      - "塩素系ジェルがフチ裏に密着して除菌・漂白"
-      - "まとめ買いしやすい3本セット構成"
-      - "ブラシを使わずに汚れを落とせる処方設計"
-    pros:
-      - "3本まとめ買いで買い置きストックができる"
-      - "フチ裏の黒ずみ・カビに対応した洗浄力"
-      - "日常使いと集中掃除の両方に活用しやすい"
-    cons:
-      - "塩素系のため酸性洗剤との同時使用は不可"
-      - "刺激臭があるため使用時は換気が必要"
-    recommendedFor: "まとめ買いでコストを抑えたい方・フチ裏の汚れに悩む方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F22501%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10674601%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/501/22501.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901609005440x3.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-10"
-        price: 551
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901609005440x3"
-        available: true
-        rating: 4.76
-        reviewCount: 45
-  - rank: 11
-    name: "スクラビングバブル 超強力トイレクリーナー"
-    brand: "スクラビングバブル（ジョンソン）"
-    price: 0
-    capacity: "400g"
-    pricePerUnit: "0円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "便器の汚れ向けの強力タイプ洗剤"
-      - "ジェル状で密着しやすい設計"
-      - "本体ボトルタイプ"
-    pros:
-      - "こびりつき汚れにアプローチしやすい"
-      - "密着して流れ落ちにくい"
-      - "定番ブランドで選びやすい"
-    cons:
-      - "強力タイプのため換気して使いたい"
-      - "素材によっては目立たない場所で確認が必要"
-    recommendedFor: "便器のしつこい汚れをケアしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/biccamera/4901609005440/"
-    imageUrl: ""
 tags:
   - "トイレ用洗剤"
   - "コスパ"

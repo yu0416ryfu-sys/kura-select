@@ -4,17 +4,17 @@ description: "IH対応の一人用鍋を16cm・18cm中心に11製品比較。卓
 category: "cooking-pot"
 publishedAt: "2026-05-10"
 articleType: "comparison"
-updatedAt: 2026-06-10
+updatedAt: 2026-06-11
 draft: false
 products:
   - rank: 1
     name: "ホーロー ミルクパン IH対応 片手鍋"
     brand: "FYP"
-    price: 1980
+    price: 3380
     capacity: "1個"
-    pricePerUnit: "約1980円/個"
+    pricePerUnit: "約3380円/個"
     rating: 5
-    reviewCount: 1
+    reviewCount: 2
     features:
       - "IH・ガス火対応のホーローミルクパン"
       - "シンプルなデザインで食卓にも出しやすい"

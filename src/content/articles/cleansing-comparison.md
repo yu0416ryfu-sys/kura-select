@@ -1,6 +1,6 @@
 ---
 title: "クレンジング コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "クレンジングを1mLあたりのコストで徹底比較。DHC・ビオレ・ソフティモ・キュレルなど人気11選をメイク落ち・肌へのやさしさ・コスパで解説します。"
+description: "クレンジングを1mLあたりのコストで徹底比較。DHC・ビオレ・ソフティモ・キュレルなど人気10選をメイク落ち・肌へのやさしさ・コスパで解説します。"
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
@@ -262,7 +262,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true
@@ -295,34 +295,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkins%2Fkcleanash0000.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kins_kcleanash0000"
         available: true
         rating: 4.68
         reviewCount: 87
-  - rank: 11
-    name: "オルナ オーガニック クレンジングジェル"
-    brand: "ALLNA ORGANIC（オルナ オーガニック）"
-    price: 0
-    capacity: "130g"
-    pricePerUnit: "0円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "毛穴ケアを意識したクレンジングジェル"
-      - "無添加処方タイプ"
-      - "マツエク対応のジェルタイプ"
-    pros:
-      - "ジェルでメイクになじませやすい"
-      - "毛穴の汚れケアを意識して使える"
-      - "マツエクをしていても使いやすい"
-    cons:
-      - "濃いメイクには量を多めに使う必要がある"
-      - "ジェルの質感は好みが分かれる"
-    recommendedFor: "毛穴ケアを意識したジェルクレンジングを探している方"
-    rakutenUrl: "https://item.rakuten.co.jp/tsurunishi/905b01ennx47u/"
-    imageUrl: ""
 tags:
   - "クレンジング おすすめ"
   - "クレンジング コスパ"

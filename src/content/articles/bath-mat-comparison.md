@@ -4,13 +4,13 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
     name: "シンプルカラーバスマット"
     brand: "タオルの森"
-    price: 890
+    price: 990
     capacity: "40×60cm 1枚"
     pricePerUnit: "約890円/枚"
     rating: 4.43
@@ -71,7 +71,7 @@ products:
     capacity: "45×65cm 1枚"
     pricePerUnit: "約1000円/枚"
     rating: 4.39
-    reviewCount: 1331
+    reviewCount: 1333
     features:
       - "綿100%で肌に優しい"
       - "パイル生地で吸水性に優れた設計"
@@ -102,11 +102,11 @@ products:
   - rank: 4
     name: "バスマット 速乾 洗える【1秒吸収】"
     brand: "Latuna"
-    price: 1690
+    price: 1980
     capacity: "40×60cm / 50×80cm 1枚"
     pricePerUnit: "約1690円/枚"
     rating: 4.65
-    reviewCount: 3209
+    reviewCount: 3210
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"
@@ -126,7 +126,7 @@ products:
   - rank: 5
     name: "今治タオル レオン バスマット"
     brand: "今治タオル"
-    price: 1800
+    price: 2290
     capacity: "42×67cm 1枚"
     pricePerUnit: "約1800円/枚"
     rating: 4.61
@@ -144,7 +144,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r0pnn.3rdw6bf8.g00r0pnn.3rdw7fc4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcyberl2010%2F0215-0212-0101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcyberl2010%2Fi%2F10000622%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cyberl2010/cabinet/cartsale/lebm_25.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cyberl2010/cabinet/01635375/colormat300pix6.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -163,7 +163,7 @@ products:
     capacity: "50×80cm 1枚"
     pricePerUnit: "約4400円/枚"
     rating: 4.65
-    reviewCount: 1228
+    reviewCount: 1230
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -218,7 +218,7 @@ products:
     capacity: "1枚"
     pricePerUnit: "約9900円/枚"
     rating: 4.64
-    reviewCount: 5124
+    reviewCount: 5125
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F49149.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 9900
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_49149"
         available: true
@@ -247,11 +247,11 @@ products:
   - rank: 9
     name: "Mirx プレミアムバスマット 珪藻土 吸水2.5倍"
     brand: "Mirx"
-    price: 1380
+    price: 1880
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
     rating: 4.43
-    reviewCount: 2518
+    reviewCount: 2522
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"
@@ -268,7 +268,7 @@ products:
       - "落下時の破損リスク"
     recommendedFor: "機能性と品質を重視する人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u2t0n.3rdw6d5c.g00u2t0n.3rdw74d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneo-lifestyle%2Fbmt001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneo-lifestyle%2Fi%2F10000083%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-lifestyle/cabinet/zaka01/09054478/09779292/bmt001_bom.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-lifestyle/cabinet/zaka01/09054478/09779292/bmt001.jpg?_ex=128x128"
 tags:
   - "バスマット おすすめ"
   - "バスマット コスパ"

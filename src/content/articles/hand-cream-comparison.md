@@ -1,6 +1,6 @@
 ---
-title: "ハンドクリーム コスパ最強ランキング【2026年版】人気11選を徹底比較"
-description: "ハンドクリームをコスパ・保湿力・成分で徹底比較。ニベア・ヴァセリン・ユースキン・ロクシタンなど人気11選をランキング形式で解説します。"
+title: "ハンドクリーム コスパ最強ランキング【2026年版】人気10選を徹底比較"
+description: "ハンドクリームをコスパ・保湿力・成分で徹底比較。ニベア・ヴァセリン・ユースキン・ロクシタンなど人気10選をランキング形式で解説します。"
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
@@ -67,7 +67,7 @@ products:
     capacity: "35g"
     pricePerUnit: "約19円/g"
     rating: 4.51
-    reviewCount: 403
+    reviewCount: 404
     features:
       - "100%ピュアシアバターを精製したオーガニック処方"
       - "9種類の香りから選べるセレクト仕様"
@@ -85,9 +85,9 @@ products:
   - rank: 4
     name: "ハンドクリーム 80g べたつかない 無香料"
     brand: "てんまん香粧薬房"
-    price: 2250
+    price: 2500
     capacity: "80g"
-    pricePerUnit: "約28円/g"
+    pricePerUnit: "約31円/g"
     rating: 4.61
     reviewCount: 1972
     features:
@@ -109,7 +109,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenman-hompo%2Fth003.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 2500
         rating: 4.61
         reviewCount: 378
@@ -164,7 +164,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F3303a.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 253
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_3303a"
         available: true
@@ -191,8 +191,41 @@ products:
       - "オーガニック系は香りや成分に好みが分かれることがある"
     recommendedFor: "オーガニック・自然派コスメを好む方・ギフト用途を検討している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b072wnfzkl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000265%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/905b072wnfzkl-25.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/allna/top/905b072wnfzkl.jpg?_ex=128x128"
   - rank: 8
+    name: "ハンド＆キューティクルクリーム"
+    brand: "ミロビーナ"
+    price: 3410
+    capacity: "60g"
+    pricePerUnit: "約57円/g"
+    rating: 4.57
+    reviewCount: 383
+    features:
+      - "手肌と甘皮までケアできるハンドクリーム"
+      - "保湿を重視した無添加処方"
+      - "柑橘系の香りタイプ"
+    pros:
+      - "手肌と爪まわりをまとめてケアできる"
+      - "べたつきを抑えた使用感"
+      - "やさしい香りで使いやすい"
+    cons:
+      - "容量は携帯用としてはやや大きめ"
+      - "香りの好みが分かれる"
+    recommendedFor: "手肌と爪のケアを一緒にしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptgvn.3rdw63b1.g00ptgvn.3rdw7403/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmahou-soap%2F381899%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmahou-soap%2Fi%2F10000423%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mahou-soap/cabinet/fresh_aroma/handcream/product/product.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fokaimono-ichiba%2F4580333760087.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-11"
+        price: 2980
+        rating: 5
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/okaimono-ichiba_4580333760087"
+        available: true
+  - rank: 9
     name: "ヴァセリン インテンシブケア ハンドクリーム 60mL"
     brand: "ユニリーバ（ヴァセリン）"
     price: 380
@@ -214,7 +247,7 @@ products:
     recommendedFor: "乾燥が気になる方・敏感肌の方・バリア機能を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uicnn.3rdw69f9.g00uicnn.3rdw721b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnarushop%2Fvl-8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnarushop%2Fi%2F10000105%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/narushop/cabinet/unilever/vl-7.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "ロクシタン パフュームド ハンドクリーム 30mL 選べる6種類"
     brand: "ロクシタン"
     price: 1480
@@ -241,67 +274,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeautyhoney%2Fm-c-lt-040.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beautyhoney_m-c-lt-040"
         available: true
         rating: 4.69
         reviewCount: 726
-  - rank: 10
-    name: "ロクシタン ハンドクリーム 30mL 選べる1本"
-    brand: "ロクシタン"
-    price: 1480
-    capacity: "30mL"
-    pricePerUnit: "約49円/mL"
-    rating: 4.52
-    reviewCount: 802
-    features:
-      - "フランス発ブランドの定番ハンドクリーム 30mL"
-      - "ラベンダー・シア・バーベナなど複数の香りから選択可能"
-      - "並行輸入品でメール便対応の送料無料仕様"
-    pros:
-      - "ブランドの香りと保湿力を手軽な価格で試せる"
-      - "好みの香りを選んで購入できるセレクト仕様"
-      - "携帯しやすいサイズ感でバッグに入れやすい"
-    cons:
-      - "並行輸入品のため国内正規品と仕様が異なる場合がある"
-      - "30mLは使用頻度が高いとすぐに使い切るサイズ"
-    recommendedFor: "ブランドハンドクリームを日常使いしたい方・プレゼントを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qjnan.3rdw61e4.g00qjnan.3rdw7c5d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkawasakigroup%2Floccitane%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkawasakigroup%2Fi%2F10002566%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kawasakigroup/cabinet/24/imgrc0166069796.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeautyhoney%2Fm-c-lt-040.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-08"
-        price: 1480
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beautyhoney_m-c-lt-040"
-        available: true
-        rating: 4.69
-        reviewCount: 726
-  - rank: 11
-    name: "ハンド＆キューティクルクリーム"
-    brand: "ミロビーナ"
-    price: 0
-    capacity: "60g"
-    pricePerUnit: "0円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "手肌と甘皮までケアできるハンドクリーム"
-      - "保湿を重視した無添加処方"
-      - "柑橘系の香りタイプ"
-    pros:
-      - "手肌と爪まわりをまとめてケアできる"
-      - "べたつきを抑えた使用感"
-      - "やさしい香りで使いやすい"
-    cons:
-      - "容量は携帯用としてはやや大きめ"
-      - "香りの好みが分かれる"
-    recommendedFor: "手肌と爪のケアを一緒にしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/mahou-soap/381899/"
-    imageUrl: ""
 tags:
   - "ハンドクリーム おすすめ"
   - "ハンドクリーム コスパ"

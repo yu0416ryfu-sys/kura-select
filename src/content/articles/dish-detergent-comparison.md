@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりで比較。ジョイ、キュキュ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: 2026-06-11
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -106,11 +106,44 @@ products:
         rating: 4.64
         reviewCount: 95
   - rank: 4
+    name: "【1種類を選べる】キュキュット 食器用洗剤 つめかえ用 ジャンボサイズ 梱販売用"
+    brand: "花王（キュキュット）"
+    price: 5035
+    capacity: "1250mL×6本"
+    pricePerUnit: "約0.67円/mL"
+    rating: 4.74
+    reviewCount: 515
+    features:
+      - "花王独自の界面活性剤で油汚れをすっきり落とす"
+      - "詰め替え大容量でコスパ優秀"
+      - "除菌99.9%の抗菌処方"
+    pros:
+      - "少量でよく泡立ち経済的"
+      - "花王の信頼ブランドで安心感"
+      - "除菌効果で衛生的な食器洗いができる"
+    cons:
+      - "手荒れが気になる方は手袋使用を推奨"
+      - "詰め替え袋の開封が少し手間"
+    recommendedFor: "コスパ重視・油汚れが多い方・衛生面を気にする方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404955%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148566%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/955/404955.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301429148.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-10"
+        price: 5035
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301429148"
+        available: true
+        rating: 0
+        reviewCount: 0
+  - rank: 5
     name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
     brand: "P&G（ジョイ）"
-    price: 2680
+    price: 2710
     capacity: "4L"
-    pricePerUnit: "約0.67円/mL"
+    pricePerUnit: "約0.68円/mL"
     rating: 4.81
     reviewCount: 48
     features:
@@ -138,39 +171,6 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/takuhaibin_m7269456"
         available: true
-  - rank: 5
-    name: "【1種類を選べる】キュキュット 食器用洗剤 つめかえ用 ジャンボサイズ 梱販売用"
-    brand: "花王（キュキュット）"
-    price: 5035
-    capacity: "1250mL×6本"
-    pricePerUnit: "約0.67円/mL"
-    rating: 4.74
-    reviewCount: 514
-    features:
-      - "花王独自の界面活性剤で油汚れをすっきり落とす"
-      - "詰め替え大容量でコスパ優秀"
-      - "除菌99.9%の抗菌処方"
-    pros:
-      - "少量でよく泡立ち経済的"
-      - "花王の信頼ブランドで安心感"
-      - "除菌効果で衛生的な食器洗いができる"
-    cons:
-      - "手荒れが気になる方は手袋使用を推奨"
-      - "詰め替え袋の開封が少し手間"
-    recommendedFor: "コスパ重視・油汚れが多い方・衛生面を気にする方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404955%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148566%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/955/404955.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301429148.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-10"
-        price: 5035
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301429148"
-        available: true
-        rating: 0
-        reviewCount: 0
   - rank: 6
     name: "フロッシュ アロエ ベラ 食器用洗剤 1000mL×4本セット"
     brand: "フロッシュ（Werner & Mertz）"

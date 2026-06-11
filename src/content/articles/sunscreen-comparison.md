@@ -1,10 +1,10 @@
 ---
 title: "日焼け止め コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "日焼け止めを1mLあたりのコストで徹底比較。ビオレUV・スキンアクア・ニベアUV・アリィーなど人気11選をUV防御力・コスパで解説します。"
+description: "日焼け止めを1mLあたりのコストで徹底比較。ビオレUV・スキンアクア・ニベアUV・アリィーなど人気10選をUV防御力・コスパで解説します。"
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-11"
+updatedAt: 2026-06-11
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -126,7 +126,7 @@ products:
       - "落とすときは丁寧なクレンジングが必要"
     recommendedFor: "屋外でのスポーツ・レジャーが多い方・絶対焼きたくない方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t269n.3rdw662f.g00t269n.3rdw745b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Farianakosume%2Fallie-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Farianakosume%2Fi%2F10006763%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/marason-ariana/allie-001-ra-rk.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/main-ariana/allie-001-ra-rk.jpg?_ex=128x128"
   - rank: 5
     name: "ラブミータッチ シルキーUVミルク 50g"
     brand: "ラブミータッチ"
@@ -134,7 +134,7 @@ products:
     capacity: "50g"
     pricePerUnit: "約62円/g"
     rating: 4.85
-    reviewCount: 3539
+    reviewCount: 3543
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -174,9 +174,9 @@ products:
   - rank: 7
     name: "レステモ 美白BBクリーム"
     brand: "レステモ"
-    price: 2500
+    price: 2560
     capacity: "35g"
-    pricePerUnit: "約71円/g"
+    pricePerUnit: "約73円/g"
     rating: 3.96
     reviewCount: 12943
     features:
@@ -192,7 +192,7 @@ products:
       - "肌に合うか確認が必要"
     recommendedFor: "日焼け止めを使用感と用途で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdaen.3rdw686c.g00qdaen.3rdw7002/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flesthemo%2Fbb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flesthemo%2Fi%2F10000033%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/st25/tp-bb.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/bbcream_01_02_3500px.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -270,28 +270,6 @@ products:
     recommendedFor: "日焼け止めを使用感と用途で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn2mn.3rdw6125.g00qn2mn.3rdw7702/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsangakushop%2Frarossyu35%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsangakushop%2Fi%2F10000773%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sangakushop/cabinet/lrp/03044hqs_p01.jpg?_ex=128x128"
-  - rank: 11
-    name: "ママベビー ノンケミカル UVミルク"
-    brand: "ママベビー（MAMA BABY）"
-    price: 0
-    capacity: "50mL"
-    pricePerUnit: "0円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "紫外線吸収剤フリーのノンケミカル設計"
-      - "新生児から使えるUVミルク"
-      - "化粧下地としても使えるタイプ"
-    pros:
-      - "敏感肌や子どもにも使いやすい設計"
-      - "ミルクタイプで塗り広げやすい"
-      - "日常使いしやすいSPF展開"
-    cons:
-      - "ノンケミカルは塗り直しが大切"
-      - "白浮きの感じ方に個人差がある"
-    recommendedFor: "子どもや敏感肌でも使える日焼け止めを探している方"
-    rakutenUrl: "https://item.rakuten.co.jp/thetoplandgiftstore/uv_/"
-    imageUrl: ""
 tags:
   - "日焼け止め おすすめ"
   - "日焼け止め コスパ"

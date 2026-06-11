@@ -1,10 +1,10 @@
 ---
-title: "排水口ネット おすすめ11選｜水切りネットをコスパで比較【2026年】"
-description: "キッチンシンクの排水口ネット（水切りネット）おすすめ11選をコスパで比較。ストッキングタイプ100枚入りを中心に、1枚あたりの単価・素材・使い勝手の違いをわかりやすく解説します。"
+title: "排水口ネット おすすめ10選｜水切りネットをコスパで比較【2026年】"
+description: "キッチンシンクの排水口ネット（水切りネット）おすすめ10選をコスパで比較。ストッキングタイプ100枚入りを中心に、1枚あたりの単価・素材・使い勝手の違いをわかりやすく解説します。"
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-06-11"
+updatedAt: 2026-06-11
 draft: false
 products:
   - rank: 1
@@ -304,28 +304,6 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 11
-    name: "TOKAIZ 排水口ネット ヘアキャッチャー"
-    brand: "TOKAIZ"
-    price: 0
-    capacity: "100枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "洗面台・排水口用のゴミ受けネット"
-      - "36〜45mm対応のパンチングタイプ"
-      - "取り付けが簡単な使い捨てネット"
-    pros:
-      - "髪の毛やゴミをまとめてキャッチしやすい"
-      - "使い捨てで衛生的に交換できる"
-      - "対応サイズが広く使い回しやすい"
-    cons:
-      - "排水口の形状によっては合わない場合がある"
-      - "こまめな交換が必要"
-    recommendedFor: "排水口の髪の毛・ゴミ対策をしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/stravel/80002296/"
-    imageUrl: ""
 tags:
   - "排水口ネット おすすめ"
   - "水切りネット コスパ"
