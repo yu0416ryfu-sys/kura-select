@@ -1,10 +1,10 @@
 ---
-title: "ボディローション コスパ比較【2026年版】ボディミルクおすすめ10選"
+title: "ボディローション コスパ比較【2026年版】ボディミルクおすすめ11選"
 description: "毎日のボディケアに使うローション・ボディミルクをmLあたり単価で比較。植物由来・敏感肌向け・セラミド系など人気4商品を成分と使いやすさで比較します。"
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -304,6 +304,28 @@ products:
         available: true
         rating: 4.76
         reviewCount: 45
+  - rank: 11
+    name: "エリザベスアーデン グリーンティー ボディローション"
+    brand: "Elizabeth Arden（エリザベスアーデン）"
+    price: 0
+    capacity: "500mL"
+    pricePerUnit: "0円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "グリーンティーの香りのボディローション"
+      - "大容量のミルクタイプ"
+      - "全身用の保湿ローション"
+    pros:
+      - "みずみずしい使用感で広い範囲に塗りやすい"
+      - "爽やかな香りで季節を問わず使いやすい"
+      - "大容量でたっぷり使える"
+    cons:
+      - "香りの好みが分かれる"
+      - "高保湿タイプを求める方には軽めの使用感"
+    recommendedFor: "香り付きの全身ローションを探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/cosmeland/213359/"
+    imageUrl: ""
 tags:
   - "ボディローション おすすめ"
   - "ボディミルク コスパ"

@@ -1,10 +1,10 @@
 ---
-title: "ハンドクリーム コスパ最強ランキング【2026年版】人気10選を徹底比較"
-description: "ハンドクリームをコスパ・保湿力・成分で徹底比較。ニベア・ヴァセリン・ユースキン・ロクシタンなど人気10選をランキング形式で解説します。"
+title: "ハンドクリーム コスパ最強ランキング【2026年版】人気11選を徹底比較"
+description: "ハンドクリームをコスパ・保湿力・成分で徹底比較。ニベア・ヴァセリン・ユースキン・ロクシタンなど人気11選をランキング形式で解説します。"
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-06-08"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "ニベア ハンドクリーム 75g"
@@ -280,6 +280,28 @@ products:
         available: true
         rating: 4.69
         reviewCount: 726
+  - rank: 11
+    name: "ハンド＆キューティクルクリーム"
+    brand: "ミロビーナ"
+    price: 0
+    capacity: "60g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "手肌と甘皮までケアできるハンドクリーム"
+      - "保湿を重視した無添加処方"
+      - "柑橘系の香りタイプ"
+    pros:
+      - "手肌と爪まわりをまとめてケアできる"
+      - "べたつきを抑えた使用感"
+      - "やさしい香りで使いやすい"
+    cons:
+      - "容量は携帯用としてはやや大きめ"
+      - "香りの好みが分かれる"
+    recommendedFor: "手肌と爪のケアを一緒にしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/mahou-soap/381899/"
+    imageUrl: ""
 tags:
   - "ハンドクリーム おすすめ"
   - "ハンドクリーム コスパ"

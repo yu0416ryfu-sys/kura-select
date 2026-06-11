@@ -1,10 +1,10 @@
 ---
-title: "T字カミソリ おすすめ10選｜替刃コスパと刃数で徹底比較"
+title: "T字カミソリ おすすめ11選｜替刃コスパと刃数で徹底比較"
 description: "ジレット・シックなど人気ブランドのT字カミソリを刃数・コスパ・使い心地で比較。替刃の単価や選び方のポイントも解説します。"
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -271,6 +271,28 @@ products:
         reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/life-aozora-shop_250929-005"
         available: true
+  - rank: 11
+    name: "ヘンソンシェービング AL13 MEDIUM"
+    brand: "HENSON SHAVING（ヘンソンシェービング）"
+    price: 0
+    capacity: "替刃5枚付"
+    pricePerUnit: "0円/本"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "両刃タイプのT字カミソリ"
+      - "アルミ削り出しの本体"
+      - "替刃5枚が付属"
+    pros:
+      - "替刃式でランニングコストを抑えやすい"
+      - "しっかりした作りで長く使いやすい"
+      - "替刃が付属ですぐ使える"
+    cons:
+      - "本体価格は使い捨てより高め"
+      - "両刃の扱いに慣れが必要"
+    recommendedFor: "長く使える両刃カミソリを探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/hensonshaving/henson-al13-medium/"
+    imageUrl: ""
 tags:
   - "T字カミソリ おすすめ"
   - "T字カミソリ コスパ"

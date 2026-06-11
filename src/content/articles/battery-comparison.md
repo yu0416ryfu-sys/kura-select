@@ -1,6 +1,6 @@
 ---
-title: "乾電池 コスパ比較【2026年版】単3・単4おすすめ10選"
-description: "Panasonic・富士通など主要ブランドの乾電池を1本あたり価格で徹底比較。単3・単4の選び方、長期保存品の特徴、まとめ買いのコスパを解説。防災備蓄にも役立つおすすめ10選。"
+title: "乾電池 コスパ比較【2026年版】単3・単4おすすめ11選"
+description: "Panasonic・富士通など主要ブランドの乾電池を1本あたり価格で徹底比較。単3・単4の選び方、長期保存品の特徴、まとめ買いのコスパを解説。防災備蓄にも役立つおすすめ11選。"
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftabemore%2Flr6n-03ns4.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-06-11"
         price: 1250
         rating: 4.78
         reviewCount: 151
@@ -304,6 +304,28 @@ products:
         available: true
         rating: 4.36
         reviewCount: 143
+  - rank: 11
+    name: "Enevolt basic アルカリ乾電池 単3・単4"
+    brand: "Enevolt basic（エネボルト ベーシック）"
+    price: 0
+    capacity: "40本"
+    pricePerUnit: "0円/本"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "単3・単4をそろえられるアルカリ乾電池"
+      - "本数を選べるまとめ買いタイプ"
+      - "防災ストックにも使える構成"
+    pros:
+      - "まとめ買いでコスパを重視しやすい"
+      - "単3・単4を用途に合わせて選べる"
+      - "防災用のストックにも向く"
+    cons:
+      - "充電池ではなく使い切りタイプ"
+      - "保存期間を確認して使い切る計画が必要"
+    recommendedFor: "乾電池をまとめ買いしてストックしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/3rwebshop/set-eva340/"
+    imageUrl: ""
 tags:
   - "乾電池 おすすめ"
   - "乾電池 コスパ"

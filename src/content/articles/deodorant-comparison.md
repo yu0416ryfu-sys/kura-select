@@ -1,6 +1,6 @@
 ---
-title: "制汗剤・デオドラント コスパ最強ランキング【2026年版】10選比較"
-description: "制汗剤・デオドラントを容量あたりのコストで比較。8×4・Ban・エージーデオ24・デオナチュレなど人気10選を持続力・汗・ニオイ対策・コスパで解説。スプレー・スティック・クリーム別に選べます。"
+title: "制汗剤・デオドラント コスパ最強ランキング【2026年版】11選比較"
+description: "制汗剤・デオドラントを容量あたりのコストで比較。8×4・Ban・エージーデオ24・デオナチュレなど人気11選を持続力・汗・ニオイ対策・コスパで解説。スプレー・スティック・クリーム別に選べます。"
 category: "deodorant"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foosaki%2F4903301300336.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 7810
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oosaki_4903301300336"
         available: true
@@ -303,6 +303,28 @@ products:
     recommendedFor: "制汗力・持続力を最優先する方・朝のケアだけで済ませたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4971825011747-004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10017245%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/vic202001/imgrc0076856241.jpg?_ex=128x128"
+  - rank: 11
+    name: "パースピレックス オリジナル ロールオン"
+    brand: "Perspirex（パースピレックス）"
+    price: 0
+    capacity: "20ml"
+    pricePerUnit: "0円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ロールオンタイプの制汗デオドラント"
+      - "無香料タイプ"
+      - "夜に塗って使う設計"
+    pros:
+      - "ロールオンで塗りやすい"
+      - "無香料で香り移りを気にせず使える"
+      - "持続性を重視したい方に向く"
+    cons:
+      - "肌に合うかは個人差がある"
+      - "使用方法を守って使う必要がある"
+    recommendedFor: "汗やニオイ対策を重点的にしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/greenbasket/uk-perspirexorg20ml/"
+    imageUrl: ""
 tags:
   - "制汗剤 おすすめ"
   - "デオドラント コスパ"

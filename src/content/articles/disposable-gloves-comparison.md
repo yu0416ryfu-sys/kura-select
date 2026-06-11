@@ -1,6 +1,6 @@
 ---
 title: "使い捨て手袋 コスパ最強ランキング【2026年版】ニトリル・ビニール・ポリエチレンで比較"
-description: "使い捨て手袋を1枚あたりのコストで徹底比較。ニトリル・ビニール・ポリエチレンなど素材別に人気10選のフィット感・耐久性を解説します。"
+description: "使い捨て手袋を1枚あたりのコストで徹底比較。ニトリル・ビニール・ポリエチレンなど素材別に人気11選のフィット感・耐久性を解説します。"
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fits-japan%2Fp21037610e99a.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-06-11"
         price: 1594
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/its-japan_p21037610e99a"
         available: true
@@ -277,6 +277,28 @@ products:
     recommendedFor: "FDA認証取得のニトリル手袋で品質基準を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs3nn.3rdw6825.g00qs3nn.3rdw7afb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenkapas%2Fglove001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenkapas%2Fi%2F10010258%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tenkapas/cabinet/item_image/item_health_beauty/sanitary-goods/glove001_0c.jpg?_ex=128x128"
+  - rank: 11
+    name: "調理用ビニール極薄手袋"
+    brand: "KAWANISHI（カワニシ）"
+    price: 0
+    capacity: "100枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "粉なしの調理用ビニール使いきり手袋"
+      - "食品衛生法に適合した薄手タイプ"
+      - "調理・盛り付けなど幅広い作業に対応"
+    pros:
+      - "薄手で細かい作業がしやすい"
+      - "粉なしで食品を扱う場面でも使いやすい"
+      - "使いきりで衛生的に交換しやすい"
+    cons:
+      - "薄手のため破れやすさに注意が必要"
+      - "サイズ展開が限られ手の大小で合いにくい場合がある"
+    recommendedFor: "調理や手荒れ対策で手軽に使い捨てしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/shizaicom-rt/10000858/"
+    imageUrl: ""
 tags:
   - "使い捨て手袋"
   - "ニトリル手袋"

@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌触りとコス
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -249,6 +249,28 @@ products:
     recommendedFor: "花粉症・風邪が多い方・デリケートな肌の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rs30n.3rdw6647.g00rs30n.3rdw71f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbigban%2F18-0631-072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbigban%2Fi%2F10058418%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bigban/cabinet/2021s2/21-0623-047.jpg?_ex=128x128"
+  - rank: 11
+    name: "ネピア 鼻セレブ 濃厚保湿ティッシュ アンパンマン"
+    brand: "ネピア（nepia）"
+    price: 0
+    capacity: "1080枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "保湿成分配合の濃厚保湿ティッシュ"
+      - "やわらかな肌ざわりを意識した設計"
+      - "3箱パックの構成"
+    pros:
+      - "鼻をかんでも痛くなりにくいやわらかさ"
+      - "花粉や風邪の時期に使いやすい"
+      - "箱パックでストックしやすい"
+    cons:
+      - "通常ティッシュより価格が高め"
+      - "しっとり感の好みが分かれる"
+    recommendedFor: "鼻をかむ機会が多く肌あたりを重視する方"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/a070102000002/"
+    imageUrl: ""
 tags:
   - "保湿ティッシュ"
   - "花粉症"

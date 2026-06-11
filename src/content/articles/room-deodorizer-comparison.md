@@ -1,6 +1,6 @@
 ---
 title: "消臭剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・リセッシュ・無香空間・ファブリーズなど人気10選を香り・持続力・コスパで解説します。"
+description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・リセッシュ・無香空間・ファブリーズなど人気11選を香り・持続力・コスパで解説します。"
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fg-sarai%2F10000080.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 6996
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/g-sarai_10000080"
         available: true
@@ -299,6 +299,28 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+  - rank: 11
+    name: "ハルの消臭剤 消臭ビーズ"
+    brand: "ハルインダストリ"
+    price: 0
+    capacity: "600g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "置き型の消臭ビーズ"
+      - "無香料タイプ"
+      - "業務用にも使える大容量"
+    pros:
+      - "香りを足さずニオイをケアできる"
+      - "置くだけで手軽に使える"
+      - "大容量で広い空間にも使いやすい"
+    cons:
+      - "香りで気分転換したい用途には不向き"
+      - "効果の持続は環境により変わる"
+    recommendedFor: "無香料の置き型消臭剤を探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/halindustry/10000006/"
+    imageUrl: ""
 tags:
   - "消臭剤 おすすめ"
   - "消臭剤 コスパ"

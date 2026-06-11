@@ -1,6 +1,6 @@
 ---
-title: "使い捨て不織布マスク コスパ比較【2026年版】1枚あたりで10選比較"
-description: "使い捨て不織布マスクを1枚あたりで比較。大容量・個包装・立体/プリーツの違い、枚数、フィット感を見ながらコスパのいい10選を選びやすく整理します。"
+title: "使い捨て不織布マスク コスパ比較【2026年版】1枚あたりで11選比較"
+description: "使い捨て不織布マスクを1枚あたりで比較。大容量・個包装・立体/プリーツの違い、枚数、フィット感を見ながらコスパのいい11選を選びやすく整理します。"
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fweimall%2Fbwm2yp50.html"
         matchStatus: "review"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-06-11"
         price: 480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/weimall_bwm2yp50"
         available: false
@@ -269,6 +269,28 @@ products:
         reviewCount: 27
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akakabeshop_4967576481694"
         available: true
+  - rank: 11
+    name: "不織布プリーツマスク"
+    brand: "Sokaiteki（爽快適）"
+    price: 0
+    capacity: "200枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "使い捨ての不織布プリーツマスク"
+      - "オメガプリーツ構造"
+      - "まとめ買い向けの大容量箱"
+    pros:
+      - "大容量で毎日使い替えしやすい"
+      - "プリーツでフィットさせやすい"
+      - "花粉や飛沫対策に使いやすい"
+    cons:
+      - "サイズが合わないと隙間ができやすい"
+      - "肌が敏感な方は素材の相性に注意"
+    recommendedFor: "不織布マスクを大容量でストックしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/hayaritsushin/vi220/"
+    imageUrl: ""
 tags:
   - "使い捨てマスク おすすめ"
   - "不織布マスク コスパ"

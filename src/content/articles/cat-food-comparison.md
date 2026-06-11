@@ -1,6 +1,6 @@
 ---
-title: "キャットフード コスパ比較【2026年版】ドライおすすめ10選"
-description: "ロイヤルカナン・グレインフリーなど人気キャットフードを100gあたり価格で徹底比較。成猫・シニア・グレインフリー・国産タイプの選び方も解説。まとめ買いで賢くコスパを上げる10選。"
+title: "キャットフード コスパ比較【2026年版】ドライおすすめ11選"
+description: "ロイヤルカナン・グレインフリーなど人気キャットフードを100gあたり価格で徹底比較。成猫・シニア・グレインフリー・国産タイプの選び方も解説。まとめ買いで賢くコスパを上げる11選。"
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4904879658255-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 968
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4904879658255-1"
         available: true
@@ -304,6 +304,28 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4902201210980"
         available: true
+  - rank: 11
+    name: "ヒルズ プリスクリプション・ダイエット c/d マルチケア チキン"
+    brand: "ヒルズ（Hill's）"
+    price: 0
+    capacity: "4kg"
+    pricePerUnit: "0円/kg"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "下部尿路の健康に配慮した食事療法食"
+      - "チキンベースのドライフード"
+      - "獣医師の指導下で使う療法食"
+    pros:
+      - "尿ケアを意識した設計"
+      - "ドライタイプで与えやすい"
+      - "まとまった容量で続けやすい"
+    cons:
+      - "与える前に獣医師への相談が前提"
+      - "一般食より価格が高め"
+    recommendedFor: "尿ケアを意識した食事を検討している猫の飼い主"
+    rakutenUrl: "https://item.rakuten.co.jp/dog-kan/9217201/"
+    imageUrl: ""
 tags:
   - "キャットフード おすすめ"
   - "キャットフード コスパ"

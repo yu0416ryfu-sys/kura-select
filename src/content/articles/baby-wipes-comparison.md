@@ -1,5 +1,5 @@
 ---
-title: "おしりふき コスパ最強ランキング【2026年版】10選"
+title: "おしりふき コスパ最強ランキング【2026年版】11選"
 description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比較。ムーニー、パンパース、グーン、レックなど人気メーカーの商品を肌優しさ・容量・単価で徹底比較。"
 category: "baby-wipes"
 publishedAt: "2026-05-17"
@@ -39,7 +39,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_20661"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         rating: 0
         reviewCount: 0
   - rank: 2
@@ -306,6 +306,28 @@ products:
     recommendedFor: "おしりふきをまとめて備えておきたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2Fa62839xxx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10023241%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/821/403821.jpg?_ex=128x128"
+  - rank: 11
+    name: "ムーニー おしりふき 詰替用"
+    brand: "ムーニー（moony）"
+    price: 0
+    capacity: "40個"
+    pricePerUnit: "0円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "まとめ買い向けの詰め替えタイプ"
+      - "ベビーケア用のウエットシート"
+      - "大容量の個包装セット"
+    pros:
+      - "詰め替えでストックしやすい"
+      - "毎日のおむつ替えに使いやすい"
+      - "まとめ買いで補充の手間が減る"
+    cons:
+      - "専用ケースが別途あると使いやすい"
+      - "開封後は乾燥しないよう保管に注意"
+    recommendedFor: "おしりふきをまとめ買いしたい家庭"
+    rakutenUrl: "https://item.rakuten.co.jp/netbaby/405150/"
+    imageUrl: ""
 tags:
   - "おしりふき おすすめ"
   - "おしりふき コスパ"

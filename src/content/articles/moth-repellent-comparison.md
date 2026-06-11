@@ -1,10 +1,10 @@
 ---
-title: "衣類防虫剤 コスパ最強ランキング【2026年版】1個あたり最安で比較10選"
-description: "クローゼット用衣類防虫剤を1個あたりのコストで徹底比較。ムシューダ・タンスにゴン・天然樟脳・アース製薬など人気10選を防虫力・コスパで解説します。"
+title: "衣類防虫剤 コスパ最強ランキング【2026年版】1個あたり最安で比較11選"
+description: "クローゼット用衣類防虫剤を1個あたりのコストで徹底比較。ムシューダ・タンスにゴン・天然樟脳・アース製薬など人気11選を防虫力・コスパで解説します。"
 category: "moth-repellent"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-06-07"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×2箱セット"
@@ -336,6 +336,28 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsutsu-uraura_este-mh-wc3-3s"
         available: true
+  - rank: 11
+    name: "天然樟脳 衣類用防虫剤"
+    brand: "国産天然樟脳"
+    price: 0
+    capacity: "10包"
+    pricePerUnit: "0円/包"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "くすのき由来の天然樟脳防虫剤"
+      - "タブレットを個包装した使いやすいタイプ"
+      - "衣類・着物の保管向け"
+    pros:
+      - "天然成分の防虫剤を選びたい方に向く"
+      - "個包装で使う分だけ取り出せる"
+      - "和服やデリケートな衣類にも使いやすい"
+    cons:
+      - "樟脳の香りの好みが分かれる"
+      - "化学系防虫剤と一緒に使えない場合がある"
+    recommendedFor: "天然成分の防虫剤で衣類を守りたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/watasinoseikatu/sho-00002/"
+    imageUrl: ""
 tags:
   - "衣類防虫剤 おすすめ"
   - "防虫剤 コスパ"

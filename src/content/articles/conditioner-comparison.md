@@ -1,6 +1,6 @@
 ---
-title: "コンディショナー コスパ最強ランキング【2026年版】1mLあたり最安で比較 10選"
-description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気10選をダメージケア・コスパで解説します。"
+title: "コンディショナー コスパ最強ランキング【2026年版】1mLあたり最安で比較 11選"
+description: "コンディショナーを1mLあたりのコストで徹底比較。いち髪・パンテーン・LUX・メリットなど人気11選をダメージケア・コスパで解説します。"
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-ypp%2F3799-0026554.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 6280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-ypp_3799-0026554"
         available: true
@@ -281,6 +281,28 @@ products:
     recommendedFor: "天然由来成分を重視する方・香りを楽しみたい方・少量で長く使える商品を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tld4n.3rdw6a04.g00tld4n.3rdw7115/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthann-natural%2F10000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthann-natural%2Fi%2F10000017%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thann-natural/cabinet/thum/point_10/10000017.jpg?_ex=128x128"
+  - rank: 11
+    name: "ケラスターゼ ディシプリン マスク オレオ リラックス"
+    brand: "KERASTASE（ケラスターゼ）"
+    price: 0
+    capacity: "200mL"
+    pricePerUnit: "0円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "くせ毛・広がりケア向けのトリートメントマスク"
+      - "インバスで使うヘアマスク"
+      - "サロン系のヘアケアライン"
+    pros:
+      - "まとまりにくい髪をケアしやすい"
+      - "湿気による広がりが気になる方に向く"
+      - "サロン品質のケアを自宅で使える"
+    cons:
+      - "価格は一般的なコンディショナーより高め"
+      - "髪質によって重く感じる場合がある"
+    recommendedFor: "うねりや広がりをケアしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/kerastase-varie/dp-masqor_200/"
+    imageUrl: ""
 tags:
   - "コンディショナー"
   - "コスパ"

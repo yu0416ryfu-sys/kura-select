@@ -1,10 +1,10 @@
 ---
-title: "コットン コスパ最強ランキング【2026年版】1枚2.7円〜10選比較"
-description: "コットンを1枚あたりのコストで徹底比較。最安は1枚2.7円〜。シルコット・ビオレ・大容量無印など人気10選を吸水性・肌触り・コスパで解説。スキンケア毎日派に最適な1袋が見つかります。"
+title: "コットン コスパ最強ランキング【2026年版】1枚2.7円〜11選比較"
+description: "コットンを1枚あたりのコストで徹底比較。最安は1枚2.7円〜。シルコット・ビオレ・大容量無印など人気11選を吸水性・肌触り・コスパで解説。スキンケア毎日派に最適な1袋が見つかります。"
 category: "cotton"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "コットンパフ カット綿 大判"
@@ -270,6 +270,28 @@ products:
     recommendedFor: "トナーパッドで手軽にふき取りケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5tzn.3rdw6175.g00u5tzn.3rdw760d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonedaysyou%2Fdactopadrefill2_copy%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonedaysyou%2Fi%2F10000136%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onedaysyou/cabinet/12819556/13053506/imgrc0125433517.jpg?_ex=128x128"
+  - rank: 11
+    name: "業務用フェイシャルコットン"
+    brand: "エステマート"
+    price: 0
+    capacity: "700枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "大容量の業務用フェイシャルコットン"
+      - "エステ・ネイルにも使えるプロ仕様"
+      - "5×6cmの扱いやすいサイズ"
+    pros:
+      - "大容量でたっぷり気兼ねなく使える"
+      - "コスパを重視する方に向く"
+      - "化粧水パックやオフに使いやすい"
+    cons:
+      - "業務用のため個包装ではない"
+      - "保管時のホコリ対策が必要"
+    recommendedFor: "コットンを大容量でコスパよく使いたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/esthemart/etf-cotton56/"
+    imageUrl: ""
 tags:
   - "コットン おすすめ"
   - "コットンパッド コスパ"

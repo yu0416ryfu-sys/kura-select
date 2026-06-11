@@ -1,6 +1,6 @@
 ---
 title: "洗濯槽クリーナー コスパ最強ランキング【2026年版】塩素系・酸素系で比較"
-description: "洗濯槽クリーナーを1回あたりのコストで徹底比較。塩素系・酸素系の違いやオキシクリーン・洗濯槽カビキラーなど人気10選を解説します。"
+description: "洗濯槽クリーナーを1回あたりのコストで徹底比較。塩素系・酸素系の違いやオキシクリーン・洗濯槽カビキラーなど人気11選を解説します。"
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann1.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 598
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann1"
         available: true
@@ -281,6 +281,28 @@ products:
         available: true
         rating: 4.75
         reviewCount: 4
+  - rank: 11
+    name: "パナソニック 洗濯槽クリーナー 縦型用 N-W1A"
+    brand: "パナソニック（Panasonic）"
+    price: 0
+    capacity: "1個"
+    pricePerUnit: "0円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "縦型洗濯機向けの塩素系クリーナー"
+      - "強力洗浄をうたう業務用レベル設計"
+      - "メーカー純正タイプ"
+    pros:
+      - "塩素系でしっかり洗浄したい方に向く"
+      - "縦型用で対応機種を選びやすい"
+      - "メーカー純正で選びやすい"
+    cons:
+      - "ドラム式には別品番が必要"
+      - "塩素系のため取り扱いに注意が必要"
+    recommendedFor: "縦型洗濯機の槽洗浄をしっかりしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/dentendo/va60200108/"
+    imageUrl: ""
 tags:
   - "洗濯槽クリーナー"
   - "コスパ"

@@ -1,6 +1,6 @@
 ---
-title: "デンタルフロス コスパ最強ランキング【2026年版】1回0.25円〜10選比較"
-description: "デンタルフロスを1回あたりのコストで比較したランキング。最安はGUM 550mで0.25円/回（約3年分）。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ10選。"
+title: "デンタルフロス コスパ最強ランキング【2026年版】1回0.25円〜11選比較"
+description: "デンタルフロスを1回あたりのコストで比較したランキング。最安はGUM 550mで0.25円/回（約3年分）。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ11選。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
@@ -77,7 +77,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
         matchStatus: "review"
-        updatedAt: "2026-05-27"
+        updatedAt: "2026-06-11"
         price: 2998
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: false
@@ -265,6 +265,28 @@ products:
     recommendedFor: "糸巻きフロスを日常的に使いたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008759%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0610_100b/kirikae2/49759_n.jpg?_ex=128x128"
+  - rank: 11
+    name: "Dr.デンリスト こども糸ピックス"
+    brand: "Dr.デンリスト"
+    price: 0
+    capacity: "120本"
+    pricePerUnit: "0円/本"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "持ち手付きで使いやすい子ども向けフロスピック"
+      - "対象年齢2歳からの設計"
+      - "ようじ型でフロスが苦手な子にも使いやすい"
+    pros:
+      - "握りやすい持ち手で子どもでも扱いやすい"
+      - "まとめ買いしやすい本数構成"
+      - "仕上げ磨き時の歯間ケアに取り入れやすい"
+    cons:
+      - "大人の歯間にはサイズが小さめ"
+      - "使い捨てのため繰り返し使用はできない"
+    recommendedFor: "子どもの歯間ケアを始めたい家庭"
+    rakutenUrl: "https://item.rakuten.co.jp/wagonsale-kanahashi/4901387051189-z-s-4-1/"
+    imageUrl: ""
 tags:
   - "デンタルフロス おすすめ"
   - "歯間ブラシ コスパ"

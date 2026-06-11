@@ -1,10 +1,10 @@
 ---
-title: "Mサイズ紙おむつ テープ型10選【2026年版】コスパ比較"
+title: "Mサイズ紙おむつ テープ型11選【2026年版】コスパ比較"
 description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価格で比較。メリーズ・パンパース・ムーニーなど主要ブランドから選ぶコツを解説します。"
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ"
@@ -269,6 +269,28 @@ products:
       - "プレミアムラインより肌へのこだわりはシンプル"
     recommendedFor: "Mサイズでさらさらケアをまとめ買いしたい方"
     rakutenUrl: "https://item.rakuten.co.jp/netbaby/a62000xxx/"
+    imageUrl: ""
+  - rank: 11
+    name: "メリーズ ファーストプレミアム テープ Mサイズ"
+    brand: "メリーズ（Merries）"
+    price: 0
+    capacity: "192枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "Mサイズのテープタイプおむつ"
+      - "上位ラインのプレミアム仕様"
+      - "まとめ買い向けの複数パックセット"
+    pros:
+      - "まとめ買いでストックしやすい"
+      - "テープタイプで調整しやすい"
+      - "肌ざわりに配慮した上位ライン"
+    cons:
+      - "一般ラインより価格が高め"
+      - "サイズアップ時に使い切る計画が必要"
+    recommendedFor: "テープMサイズをまとめ買いしたい家庭"
+    rakutenUrl: "https://item.rakuten.co.jp/kurashikenkou/7195766/"
     imageUrl: ""
 tags:
   - "Mサイズ おむつ"

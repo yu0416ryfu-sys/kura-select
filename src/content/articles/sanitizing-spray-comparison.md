@@ -1,6 +1,6 @@
 ---
 title: "除菌スプレー コスパ最強ランキング【2026年版】濃度・容量で比較"
-description: "除菌スプレー・アルコールを1mLあたりのコストで徹底比較。パストリーゼ・カビキラー除菌・フマキラーなど人気10選を解説します。"
+description: "除菌スプレー・アルコールを1mLあたりのコストで徹底比較。パストリーゼ・カビキラー除菌・フマキラーなど人気11選を解説します。"
 category: "sanitizing-spray"
 publishedAt: "2026-04-30"
 articleType: "comparison"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901609016491.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 982
         rating: 4.5
         reviewCount: 4
@@ -292,6 +292,28 @@ products:
     recommendedFor: "除菌スプレーを用途と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tfaun.3rdw63b0.g00tfaun.3rdw7d50/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fandwpaia%2Fandwpaia_100x300x600_copy%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fandwpaia%2Fi%2F10000035%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/andwpaia/cabinet/07621536/imgrc0089044303.jpg?_ex=128x128"
+  - rank: 11
+    name: "除菌スプレー スリーフ"
+    brand: "SLeeP（スリーフ）"
+    price: 0
+    capacity: "1500ml"
+    pricePerUnit: "0円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "次亜塩素酸タイプの除菌・消臭スプレー"
+      - "ノンアルコール処方"
+      - "本体＋詰め替えの大容量セット"
+    pros:
+      - "アルコールが苦手な場面でも使いやすい"
+      - "除菌と消臭をまとめてケアできる"
+      - "詰め替え付きで続けやすい"
+    cons:
+      - "次亜塩素酸は光や時間で効果が変化しやすい"
+      - "用途に応じた濃度確認が必要"
+    recommendedFor: "ノンアルコールの除菌スプレーを探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/cubic-square/10000009/"
+    imageUrl: ""
 tags:
   - "除菌スプレー"
   - "アルコール"

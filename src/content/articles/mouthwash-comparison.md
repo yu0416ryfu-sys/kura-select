@@ -1,10 +1,10 @@
 ---
-title: "マウスウォッシュ コスパ最強ランキング【2026年版】殺菌力・低刺激で比較10選"
-description: "マウスウォッシュを1mLあたりのコストで徹底比較。リステリン・モンダミン・GUM・コンクールなど人気10選を殺菌力・刺激性で解説します。"
+title: "マウスウォッシュ コスパ最強ランキング【2026年版】殺菌力・低刺激で比較11選"
+description: "マウスウォッシュを1mLあたりのコストで徹底比較。リステリン・モンダミン・GUM・コンクールなど人気11選を殺菌力・刺激性で解説します。"
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -303,6 +303,28 @@ products:
     recommendedFor: "口臭・歯周炎ケアを重視する方・国産マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr2qn.3rdw64f0.g00pr2qn.3rdw7a58/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnat-gar%2F1484526%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnat-gar%2Fi%2F10004814%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nat-gar/cabinet/ynata/c/cart-r-ynata5x250b6.jpg?_ex=128x128"
+  - rank: 11
+    name: "リステリン トータルケアプラス クリーンミント"
+    brand: "LISTERINE（リステリン）"
+    price: 0
+    capacity: "6000ml"
+    pricePerUnit: "0円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "多機能タイプの薬用マウスウォッシュ"
+      - "クリーンミント味の液体タイプ"
+      - "まとめ買い向けの複数本セット"
+    pros:
+      - "口臭ケアなど複数の目的に使いやすい"
+      - "セット販売でストックしやすい"
+      - "毎日のオーラルケアに取り入れやすい"
+    cons:
+      - "刺激が強めで人によって好みが分かれる"
+      - "大容量で保管スペースを取りやすい"
+    recommendedFor: "多機能タイプをまとめ買いしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/70697/"
+    imageUrl: ""
 tags:
   - "マウスウォッシュ"
   - "コスパ"

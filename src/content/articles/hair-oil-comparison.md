@@ -1,6 +1,6 @@
 ---
-title: "ヘアオイル コスパ比較【2026年版】洗い流さないトリートメント おすすめ10選"
-description: "洗い流さないヘアオイルを1mLあたりの単価で比較。サロン系・プチプラ・ナイトケアなど人気10商品を成分・仕上がり・容量で徹底比較します。"
+title: "ヘアオイル コスパ比較【2026年版】洗い流さないトリートメント おすすめ11選"
+description: "洗い流さないヘアオイルを1mLあたりの単価で比較。サロン系・プチプラ・ナイトケアなど人気11商品を成分・仕上がり・容量で徹底比較します。"
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6016812.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 2575
         rating: 4.4
         reviewCount: 15
@@ -259,6 +259,28 @@ products:
     recommendedFor: "ドライ後の仕上げにヘアオイルを取り入れたい人・ハイダメージ毛のツヤ出しをしたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qjlvn.3rdw6daa.g00qjlvn.3rdw7d36/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fque-bath%2F100000022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fque-bath%2Fi%2F10000044%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/que-bath/cabinet/10279123/newhairoilmain.jpg?_ex=128x128"
+  - rank: 11
+    name: "ケラスターゼ ユイル クロノロジスト"
+    brand: "KERASTASE（ケラスターゼ）"
+    price: 0
+    capacity: "75mL"
+    pricePerUnit: "0円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "洗い流さないアウトバス用ヘアオイル"
+      - "ツヤ・ダメージケアを意識した設計"
+      - "サロン系のヘアケアライン"
+    pros:
+      - "毛先のパサつきをケアしやすい"
+      - "ツヤ感を出したい方に向く"
+      - "スタイリング前後どちらでも使える"
+    cons:
+      - "価格は一般的なヘアオイルより高め"
+      - "つけすぎると重くなりやすい"
+    recommendedFor: "ツヤとまとまりを重視したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/kerastase-varie/ch-huilc_120/"
+    imageUrl: ""
 tags:
   - "ヘアオイル おすすめ"
   - "ヘアオイル コスパ"

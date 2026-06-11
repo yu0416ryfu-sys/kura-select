@@ -227,6 +227,28 @@ products:
     recommendedFor: "大家族・防災備蓄・買い物頻度を減らしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3ztn.3rdw6b30.g00t3ztn.3rdw7dc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F7258440%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10152061%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/10984250/11032572/7258440.jpg?_ex=128x128"
+  - rank: 11
+    name: "ネピア ソフトパックティッシュ"
+    brand: "ネピア（nepia）"
+    price: 0
+    capacity: "3600組"
+    pricePerUnit: "0円/組"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "箱なしで省スペースなソフトパック"
+      - "まとめ買い向けの多パックセット"
+      - "コンパクトに保管できる設計"
+    pros:
+      - "箱がなく収納スペースを取りにくい"
+      - "多パックでストックしやすい"
+      - "詰め替え感覚で使いやすい"
+    cons:
+      - "箱タイプより取り出し口がへたりやすい"
+      - "自立しにくく置き場所を選ぶ"
+    recommendedFor: "省スペースでティッシュをストックしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/k-sumai/7254701/"
+    imageUrl: ""
 tags:
   - "ソフトパックティッシュ"
   - "省スペース"

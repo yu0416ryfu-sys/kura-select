@@ -1,6 +1,6 @@
 ---
-title: "ハンドソープ コスパ最強ランキング【2026年版】殺菌力・保湿成分で比較10選"
-description: "ハンドソープを1回あたりのコストで徹底比較。キレイキレイ・ビオレu・ミューズ・ジェームズマーティンなど人気10選を紹介。殺菌力重視・保湿重視・家族向けに最適な商品が分かります。"
+title: "ハンドソープ コスパ最強ランキング【2026年版】殺菌力・保湿成分で比較11選"
+description: "ハンドソープを1回あたりのコストで徹底比較。キレイキレイ・ビオレu・ミューズ・ジェームズマーティンなど人気11選を紹介。殺菌力重視・保湿重視・家族向けに最適な商品が分かります。"
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseisen-online%2F0547268-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-11"
         price: 3380
         rating: 0
         reviewCount: 0
@@ -303,6 +303,28 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/redcabin_jam-100-0011"
         available: true
+  - rank: 11
+    name: "キレイキレイ 薬用泡ハンドソープ 詰替用"
+    brand: "キレイキレイ（Kirei Kirei）"
+    price: 0
+    capacity: "4800ml"
+    pricePerUnit: "0円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "薬用タイプの泡ハンドソープ"
+      - "シトラスフルーティの香り"
+      - "まとめ買い向けの詰め替えセット"
+    pros:
+      - "泡で出て子どもでも洗いやすい"
+      - "詰め替えでコスパよく使える"
+      - "定番ブランドで安心して選びやすい"
+    cons:
+      - "専用の泡ポンプ容器が必要"
+      - "香りの好みが分かれる"
+    recommendedFor: "泡ハンドソープをまとめ買いしたい家庭"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/90667/"
+    imageUrl: ""
 tags:
   - "ハンドソープ"
   - "コスパ"

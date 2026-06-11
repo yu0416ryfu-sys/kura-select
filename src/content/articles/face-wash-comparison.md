@@ -1,10 +1,10 @@
 ---
 title: "洗顔料 コスパ最強ランキング【2026年版】1gあたり最安で比較"
-description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴ・専科など人気10選を成分・洗い上がり・コスパで解説します。"
+description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴ・専科など人気11選を成分・洗い上がり・コスパで解説します。"
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "無添加生活 泡洗顔 炭酸泡洗顔フォーム 3本セット"
@@ -303,6 +303,28 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosmecom_1000154951"
         available: true
+  - rank: 11
+    name: "ベイビースキンソープ 炭石鹸 ミニ"
+    brand: "ベイビースキンソープ"
+    price: 0
+    capacity: "130g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "炭配合の洗顔石鹸"
+      - "毛穴・角栓ケアを意識した設計"
+      - "ミニサイズの個包装セット"
+    pros:
+      - "小分けで使い切りやすい"
+      - "毛穴の汚れケアを意識して使える"
+      - "メイク落としにも使える手軽さ"
+    cons:
+      - "石鹸タイプは保管時に溶けやすい"
+      - "洗い上がりの好みが分かれる"
+    recommendedFor: "炭石鹸で毛穴ケアを試したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/ikum-shop/bsp-wakemini-13/"
+    imageUrl: ""
 tags:
   - "洗顔料 おすすめ"
   - "洗顔料 コスパ"

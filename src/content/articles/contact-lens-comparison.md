@@ -1,10 +1,10 @@
 ---
 title: "コンタクトレンズ洗浄液 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹底比較。エピカコールド・オプティフリー・コンプリート・メニコンなど人気10選を洗浄力・コスパで解説します。"
+description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹底比較。エピカコールド・オプティフリー・コンプリート・メニコンなど人気11選を洗浄力・コスパで解説します。"
 category: "contact-lens"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "ポイント10倍！オプティフリープラス"
@@ -314,6 +314,28 @@ products:
         available: true
         rating: 4.77
         reviewCount: 82
+  - rank: 11
+    name: "HOYA シンプルワン ハードコンタクト洗浄液"
+    brand: "HOYA（ホヤ）"
+    price: 0
+    capacity: "720ml"
+    pricePerUnit: "0円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ハードコンタクト用のこすり洗い不要タイプ"
+      - "タンパク除去ができる洗浄保存液"
+      - "まとめ買い向けの3本セット"
+    pros:
+      - "こすり洗い不要で日々のケアが手軽"
+      - "洗浄・保存・タンパク除去を1本でこなせる"
+      - "3本セットでストックしやすい"
+    cons:
+      - "ソフトコンタクトには使用できない"
+      - "使用方法を守って使う必要がある"
+    recommendedFor: "ハードコンタクトのケアを手軽に続けたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/hochopla/care0091/"
+    imageUrl: ""
 tags:
   - "コンタクト洗浄液 おすすめ"
   - "コンタクト MPS コスパ"

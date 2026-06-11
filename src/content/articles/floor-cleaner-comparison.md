@@ -1,10 +1,10 @@
 ---
 title: "フローリングシート コスパ最強ランキング【2026年版】1枚あたり最安で比較"
-description: "フローリング掃除シートを1枚あたりのコストで徹底比較。クイックルワイパー・ウェーブ・アイリスオーヤマなど人気10選を清潔力・コスパ・業務用まで解説します。"
+description: "フローリング掃除シートを1枚あたりのコストで徹底比較。クイックルワイパー・ウェーブ・アイリスオーヤマなど人気11選を清潔力・コスパ・業務用まで解説します。"
 category: "floor-cleaner"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "激落ちくん ウェットシート 水の激落ちシート Ba フローリング＆リビング用シー"
@@ -325,6 +325,28 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_sk5254"
         available: true
+  - rank: 11
+    name: "クイックルワイパー 立体吸着ドライシート"
+    brand: "クイックルワイパー（花王）"
+    price: 0
+    capacity: "20枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "床用ワイパー向けの使い捨てドライシート"
+      - "立体吸着でホコリや髪をからめ取る設計"
+      - "フローリングの乾拭き掃除に対応"
+    pros:
+      - "サッと取り付けて手軽に掃除できる"
+      - "ホコリや髪の毛をまとめて取りやすい"
+      - "替えシートとして補充しやすい"
+    cons:
+      - "対応するワイパー本体が必要"
+      - "こびりついた汚れには別途ウェットタイプが必要"
+    recommendedFor: "フローリングの日常的な乾拭きをしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/a002256000433/"
+    imageUrl: ""
 tags:
   - "フローリングシート おすすめ"
   - "床掃除 コスパ"

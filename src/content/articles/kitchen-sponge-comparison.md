@@ -1,10 +1,10 @@
 ---
 title: "食器用スポンジ・キッチンスポンジ コスパ比較【2026年版】1個単価と耐久性"
-description: "食器用スポンジ・キッチンスポンジを1個あたりで比較。ダスキン、パックス、マーナなど10選を耐久性・泡立ち・交換頻度で整理し、食器洗い用に選びやすく解説します。"
+description: "食器用スポンジ・キッチンスポンジを1個あたりで比較。ダスキン、パックス、マーナなど11選を耐久性・泡立ち・交換頻度で整理し、食器洗い用に選びやすく解説します。"
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "セルロース製 食器洗いスポンジ 6個パック SDGs プラスチックフリー"
@@ -281,6 +281,28 @@ products:
         available: true
         rating: 4.87
         reviewCount: 238
+  - rank: 11
+    name: "パックスナチュロン キッチンスポンジ"
+    brand: "パックスナチュロン（PAX NATURON）"
+    price: 0
+    capacity: "10個"
+    pricePerUnit: "0円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "まとめ買い向けのキッチンスポンジ"
+      - "シンプルな設計のスポンジ"
+      - "色はランダムの大容量セット"
+    pros:
+      - "まとめ買いでこまめに交換しやすい"
+      - "シンプルで使いやすい形状"
+      - "ストックして衛生的に使える"
+    cons:
+      - "色は選べずランダム"
+      - "へたりやすさは使用頻度による"
+    recommendedFor: "キッチンスポンジを多めにストックしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/at-life/4904735053095-010/"
+    imageUrl: ""
 tags:
   - "スポンジ"
   - "コスパ"

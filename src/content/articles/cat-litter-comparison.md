@@ -1,10 +1,10 @@
 ---
-title: "猫砂 おすすめ10選【素材別コスパ比較 2026年版】"
+title: "猫砂 おすすめ11選【素材別コスパ比較 2026年版】"
 description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペレットで素材別に比較。固まりやすさ・消臭力・1Lあたりの単価を基準におすすめ14商品を徹底比較。楽天まとめ買いコスパ最強まとめ。"
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -293,6 +293,28 @@ products:
         available: true
         rating: 4.67
         reviewCount: 703
+  - rank: 11
+    name: "木質ペレット 猫砂"
+    brand: "ミツヨシ"
+    price: 0
+    capacity: "20kg"
+    pricePerUnit: "0円/kg"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "システムトイレにも使える木質ペレット"
+      - "崩れるタイプの猫砂"
+      - "大容量の1袋タイプ"
+    pros:
+      - "大容量でコスパを重視しやすい"
+      - "木の素材でニオイを抑えやすい"
+      - "システムトイレに取り入れやすい"
+    cons:
+      - "重量があり持ち運びや保管に場所を取る"
+      - "トイレの仕様によって崩れ方の好みが分かれる"
+    recommendedFor: "木質ペレットを大容量で使いたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/mitsuyoshi/pellet-20/"
+    imageUrl: ""
 tags:
   - "猫砂 おすすめ"
   - "猫砂 コスパ"

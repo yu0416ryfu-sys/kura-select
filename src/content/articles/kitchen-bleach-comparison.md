@@ -1,10 +1,10 @@
 ---
 title: "キッチン漂白剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気10選を除菌力・コスパ・安全性で解説します。"
+description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気11選を除菌力・コスパ・安全性で解説します。"
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"
@@ -312,6 +312,28 @@ products:
     recommendedFor: "キッチン漂白剤をタイプ別に選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10006211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10006211%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin75/10006211.jpg?_ex=128x128"
+  - rank: 11
+    name: "ミツエイ 泡キッチンブリーチ"
+    brand: "ミツエイ"
+    price: 0
+    capacity: "400ml"
+    pricePerUnit: "0円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "泡で密着するタイプの台所用漂白剤"
+      - "塩素系の除菌・漂白タイプ"
+      - "本体ボトルタイプ"
+    pros:
+      - "泡タイプで垂直面にもとどまりやすい"
+      - "除菌・漂白・消臭をまとめてケアできる"
+      - "定番的な使いやすさで扱いやすい"
+    cons:
+      - "塩素系のため換気と取り扱いに注意が必要"
+      - "酸性タイプの製品と混ぜて使えない"
+    recommendedFor: "キッチンの除菌・漂白を泡で手軽にしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/keihinhanbaidottokomu/221027-7/"
+    imageUrl: ""
 tags:
   - "キッチン漂白剤 おすすめ"
   - "キッチンハイター コスパ"

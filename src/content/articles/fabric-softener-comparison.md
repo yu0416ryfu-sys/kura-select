@@ -1,10 +1,10 @@
 ---
-title: "柔軟剤 コスパ最強ランキング【2026年版】1L459円〜10選比較"
-description: "柔軟剤を容量あたりのコストで比較。大容量タイプは約0.46円/mL〜。消臭・香り・敏感肌向けの人気10選を解説。部屋干し臭が気になる方・赤ちゃんのいる家庭にも。"
+title: "柔軟剤 コスパ最強ランキング【2026年版】1L459円〜11選比較"
+description: "柔軟剤を容量あたりのコストで比較。大容量タイプは約0.46円/mL〜。消臭・香り・敏感肌向けの人気11選を解説。部屋干し臭が気になる方・赤ちゃんのいる家庭にも。"
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "メキシコダウニー アロマフローラル 8.5L×2本"
@@ -281,6 +281,28 @@ products:
     recommendedFor: "香りや仕上がりの好みに合わせやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404953%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148573%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/953/404953.jpg?_ex=128x128"
+  - rank: 11
+    name: "ランドリン 柔軟剤 グッドティータイム"
+    brand: "ランドリン（Laundrin）"
+    price: 0
+    capacity: "600mL"
+    pricePerUnit: "0円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "紅茶をテーマにした香りの柔軟剤"
+      - "液体タイプの本体"
+      - "抗菌・防臭を意識した処方"
+    pros:
+      - "華やかな香りで衣類をふんわり仕上げやすい"
+      - "本体ボトルで使い始めやすい"
+      - "香り重視の方に向く"
+    cons:
+      - "香りが強めで好みが分かれる"
+      - "無香料を求める方には不向き"
+    recommendedFor: "香りを楽しめる柔軟剤を探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/naturelab/laundrin-teatime/"
+    imageUrl: ""
 tags:
   - "柔軟剤"
   - "コスパ"

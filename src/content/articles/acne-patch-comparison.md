@@ -1,10 +1,10 @@
 ---
-title: "ニキビパッチ コスパ比較【2026年版】おすすめ10選"
-description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚あたり価格で徹底比較。ヒドロコロイド素材の選び方・薄さ・目立ちにくさを解説。まとめ買いでコスパを上げるおすすめ10選。"
+title: "ニキビパッチ コスパ比較【2026年版】おすすめ11選"
+description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚あたり価格で徹底比較。ヒドロコロイド素材の選び方・薄さ・目立ちにくさを解説。まとめ買いでコスパを上げるおすすめ11選。"
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -282,6 +282,28 @@ products:
         available: true
         rating: 4.65
         reviewCount: 17
+  - rank: 11
+    name: "VT CICA スポットパッチ"
+    brand: "VT Cosmetics（ブイティー）"
+    price: 0
+    capacity: "144枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ハイドロコロイド素材のニキビパッチ"
+      - "CICA処方で貼っている間の肌を保護する設計"
+      - "メイクの上からも使える防水タイプ"
+    pros:
+      - "シートが複数枚入りでまとめ買い向き"
+      - "薄手で目立ちにくく日中も使いやすい"
+      - "韓国コスメで人気が高く入手しやすい"
+    cons:
+      - "粘着が肌に合うかは個人差がある"
+      - "サイズ展開が固定のため大きめのトラブルには不向きな場合がある"
+    recommendedFor: "CICA処方のパッチを日中も目立たせず使いたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/vtcosmetic-official/p00000cr/"
+    imageUrl: ""
 tags:
   - "ニキビパッチ おすすめ"
   - "ニキビパッチ コスパ"

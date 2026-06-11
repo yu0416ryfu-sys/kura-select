@@ -1,10 +1,10 @@
 ---
-title: "コーヒーフィルター コスパ最強ランキング【2026年版】1枚あたり最安で比較10選"
-description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒー・KONO・珈琲考具など人気10選を漂白タイプ・形状・コスパで解説します。"
+title: "コーヒーフィルター コスパ最強ランキング【2026年版】1枚あたり最安で比較11選"
+description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒー・KONO・珈琲考具など人気11選を漂白タイプ・形状・コスパで解説します。"
 category: "coffee-filter"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -304,6 +304,28 @@ products:
     recommendedFor: "定番ブランドの安心品質を求める方・ペーパードリップ初心者の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5ncn.3rdw6781.g00u5ncn.3rdw77ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmelittajapan%2Faromafilter01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmelittajapan%2Fi%2F10000085%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/5.jpg?_ex=128x128"
+  - rank: 11
+    name: "KONO 円すいペーパーフィルター 2人用"
+    brand: "KONO（コーノ）"
+    price: 0
+    capacity: "40枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "円すい型のドリップ用ペーパーフィルター"
+      - "1〜2人分の抽出に対応したサイズ"
+      - "円すいドリッパー向けの定番形状"
+    pros:
+      - "少人数分を淹れるのにちょうどよい容量"
+      - "円すいドリッパーと組み合わせやすい"
+      - "ハンドドリップ初心者でも扱いやすい形状"
+    cons:
+      - "対応する円すい型ドリッパーが必要"
+      - "大人数分をまとめて淹れる用途には不向き"
+    recommendedFor: "円すいドリッパーで1〜2杯を淹れる方"
+    rakutenUrl: "https://item.rakuten.co.jp/fcinterior/30817-11300/"
+    imageUrl: ""
 tags:
   - "コーヒーフィルター おすすめ"
   - "コーヒーフィルター コスパ"

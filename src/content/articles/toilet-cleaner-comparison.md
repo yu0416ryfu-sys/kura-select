@@ -1,10 +1,10 @@
 ---
 title: "トイレ用洗剤 コスパ最強ランキング【2026年版】除菌力・洗浄力で比較"
-description: "トイレ用洗剤を1回あたりのコストで徹底比較。サンポール・スクラビングバブル・ドメスト・ブルーレットなど人気10選を解説します。"
+description: "トイレ用洗剤を1回あたりのコストで徹底比較。サンポール・スクラビングバブル・ドメスト・ブルーレットなど人気11選を解説します。"
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "ドメスト 除菌クリーナー 500ml×3個セット"
@@ -281,6 +281,28 @@ products:
         available: true
         rating: 4.76
         reviewCount: 45
+  - rank: 11
+    name: "スクラビングバブル 超強力トイレクリーナー"
+    brand: "スクラビングバブル（ジョンソン）"
+    price: 0
+    capacity: "400g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "便器の汚れ向けの強力タイプ洗剤"
+      - "ジェル状で密着しやすい設計"
+      - "本体ボトルタイプ"
+    pros:
+      - "こびりつき汚れにアプローチしやすい"
+      - "密着して流れ落ちにくい"
+      - "定番ブランドで選びやすい"
+    cons:
+      - "強力タイプのため換気して使いたい"
+      - "素材によっては目立たない場所で確認が必要"
+    recommendedFor: "便器のしつこい汚れをケアしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/biccamera/4901609005440/"
+    imageUrl: ""
 tags:
   - "トイレ用洗剤"
   - "コスパ"

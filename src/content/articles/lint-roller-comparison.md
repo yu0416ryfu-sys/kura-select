@@ -1,6 +1,6 @@
 ---
 title: "粘着クリーナー コスパ最強ランキング【2026年版】1巻あたり最安で比較"
-description: "粘着クリーナー（コロコロ）を1巻あたりのコストで徹底比較。ニトムズ・アイリスオーヤマ・3M・レックなど人気10選を粘着力・コスパで解説します。"
+description: "粘着クリーナー（コロコロ）を1巻あたりのコストで徹底比較。ニトムズ・アイリスオーヤマ・3M・レックなど人気11選を粘着力・コスパで解説します。"
 category: "lint-roller"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fb60033.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 293
         rating: 0
         reviewCount: 2
@@ -248,6 +248,28 @@ products:
     recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F310671%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10113721%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_nitomuzu1/310671.jpg?_ex=128x128"
+  - rank: 11
+    name: "激コロ スゴ技ななめカット 粘着スペアテープ"
+    brand: "レック（LEC）"
+    price: 0
+    capacity: "6巻"
+    pricePerUnit: "0円/巻"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "コロコロ本体用の替え粘着テープ"
+      - "斜めカットで切れ目を見つけやすい設計"
+      - "まとめ買い向けの複数巻セット"
+    pros:
+      - "替えテープでコスパよく使える"
+      - "斜めカットでめくりやすい"
+      - "まとめ買いで補充しやすい"
+    cons:
+      - "対応する本体が必要"
+      - "テープ幅が合う本体か確認が必要"
+    recommendedFor: "コロコロの替えテープをまとめ買いしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/e482617h/"
+    imageUrl: ""
 tags:
   - "コロコロ おすすめ"
   - "粘着クリーナー コスパ"

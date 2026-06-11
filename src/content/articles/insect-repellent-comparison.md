@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902424446593.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-11"
         price: 881
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902424446593"
         available: true
@@ -293,6 +293,28 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qfl9n.3rdw60bc.g00qfl9n.3rdw7fb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fease-aroma%2F10002751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fease-aroma%2Fi%2F10002751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ease-aroma/cabinet/spray/spray3hon_s_01.jpg?_ex=128x128"
+  - rank: 11
+    name: "for Outdoor 虫よけスプレー"
+    brand: "イーズアロマショップ"
+    price: 0
+    capacity: "60ml"
+    pricePerUnit: "0円/ml"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "天然精油・ハーブを使った虫よけスプレー"
+      - "ディート・アルコール不使用"
+      - "香りを選べる2本セット"
+    pros:
+      - "ディート不使用で使う場面を選びにくい"
+      - "アロマの香りで使い心地がよい"
+      - "アウトドアやレジャーに携帯しやすい"
+    cons:
+      - "天然成分のためこまめな塗り直しが必要"
+      - "強い虫よけ効果を求める用途には不向きな場合がある"
+    recommendedFor: "ディート不使用の虫よけを探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/ease-aroma/10003277/"
+    imageUrl: ""
 tags:
   - "虫除けスプレー おすすめ"
   - "虫除けスプレー コスパ"

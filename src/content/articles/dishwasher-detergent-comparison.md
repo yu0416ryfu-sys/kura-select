@@ -1,10 +1,10 @@
 ---
 title: "食洗機用洗剤 コスパ最強ランキング【2026年版】粉末・ジェル・タブで比較"
-description: "食洗機用洗剤を1回あたりのコストで徹底比較。フィニッシュ・キュキュット・ジョイ・チャーミーの人気9選を洗浄力・コスパで解説します。"
+description: "食洗機用洗剤を1回あたりのコストで徹底比較。フィニッシュ・キュキュット・ジョイ・チャーミーの人気11選を洗浄力・コスパで解説します。"
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "P&G 食洗機用ジョイ オレンジピール成分入り 詰替 490g"
@@ -279,6 +279,50 @@ products:
         price: 2970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_s0270032"
         available: true
+  - rank: 10
+    name: "フィニッシュ パワーキューブ ビッグパック"
+    brand: "フィニッシュ（Finish）"
+    price: 0
+    capacity: "450個"
+    pricePerUnit: "0円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "タブレットタイプの食洗機用洗剤"
+      - "大容量のビッグパック3袋セット"
+      - "1回1個で使える設計"
+    pros:
+      - "大容量でコスパを重視しやすい"
+      - "1個ずつ計量不要で使いやすい"
+      - "まとめ買いで補充の手間が減る"
+    cons:
+      - "保管スペースを取りやすい"
+      - "庫内や水質により溶け残りの確認が必要"
+    recommendedFor: "食洗機用タブレットを大容量でストックしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/good-item/co-447/"
+    imageUrl: ""
+  - rank: 11
+    name: "フィニッシュ タブレット 2層タイプ"
+    brand: "フィニッシュ（Finish）"
+    price: 0
+    capacity: "150個"
+    pricePerUnit: "0円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "2層タイプの食洗機用タブレット"
+      - "1回1個で使える設計"
+      - "まとめ買い向けの個数構成"
+    pros:
+      - "2層タイプで洗浄を意識した設計"
+      - "計量不要で扱いやすい"
+      - "ストックしやすい個数"
+    cons:
+      - "タブレットは少量使いの調整がしにくい"
+      - "庫内や水質により溶け残りの確認が必要"
+    recommendedFor: "タブレット食洗機洗剤を試したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/good-mam88/10001842/"
+    imageUrl: ""
 tags:
   - "食洗機用洗剤"
   - "コスパ"

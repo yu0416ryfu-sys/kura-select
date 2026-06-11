@@ -1,10 +1,10 @@
 ---
-title: "トイレ掃除シート コスパ比較【2026年版】流せるタイプ10選"
+title: "トイレ掃除シート コスパ比較【2026年版】流せるタイプ11選"
 description: "トイレ掃除シートを1枚あたりのコストで比較。流せるタイプや厚手タイプの違い、用途に合った選び方を解説します。"
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -304,6 +304,28 @@ products:
     recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F562311%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11180586%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/311/562311.jpg?_ex=128x128"
+  - rank: 11
+    name: "激落ちくん 節水トイレクリーナー 流せるシート"
+    brand: "レック（LEC）"
+    price: 0
+    capacity: "288枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "トイレに流せる掃除シート"
+      - "特許製法をうたう厚手シート"
+      - "まとめ買い向けの多パック"
+    pros:
+      - "使ったあとそのまま流せて手軽"
+      - "厚手でしっかり拭きやすい"
+      - "まとめ買いでストックしやすい"
+    cons:
+      - "一度に大量に流さない使い方が必要"
+      - "便器・配管の仕様確認が必要"
+    recommendedFor: "流せるトイレ掃除シートをまとめ買いしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/lecdirect/4573177599661-6/"
+    imageUrl: ""
 tags:
   - "トイレ掃除シート おすすめ"
   - "トイレ掃除シート コスパ"

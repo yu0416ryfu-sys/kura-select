@@ -1,10 +1,10 @@
 ---
-title: "お風呂防カビ剤 コスパ比較【2026年版】くん煙タイプ10選"
+title: "お風呂防カビ剤 コスパ比較【2026年版】くん煙タイプ11選"
 description: "お風呂防カビ剤を1回あたりのコストで比較。くん煙タイプや無香性タイプなど、浴室の定期ケアに使いやすい商品を選びます。"
 category: "bath-mold-preventer"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -326,6 +326,28 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/minoku-max_1758927576-1-b"
         available: true
+  - rank: 11
+    name: "ルック おふろの防カビ くん煙剤 フローラルの香り"
+    brand: "ルック（LION）"
+    price: 0
+    capacity: "3個"
+    pricePerUnit: "0円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "煙でひろがる浴室用の防カビくん煙剤"
+      - "フローラルの香りタイプ"
+      - "まとめ買い向けの3個パック"
+    pros:
+      - "セットして煙を出すだけの手軽さ"
+      - "浴室全体に行き渡らせやすい"
+      - "3個入りで定期的なケアを続けやすい"
+    cons:
+      - "使用時に浴室を一定時間空ける必要がある"
+      - "発生済みのカビを落とす用途には向かない"
+    recommendedFor: "カビが生える前の予防ケアを続けたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/at-life/4903301187240-1/"
+    imageUrl: ""
 tags:
   - "お風呂防カビ剤 おすすめ"
   - "防カビくん煙剤 コスパ"

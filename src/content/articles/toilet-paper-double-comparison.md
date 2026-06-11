@@ -1,6 +1,6 @@
 ---
-title: "トイレットペーパー ダブル コスパ最強ランキング【2026年版】10選比較"
-description: "ダブルのトイレットペーパーを1mあたりのコストで比較。2倍巻き・3倍巻き・再生紙・肌触り重視のおすすめ10選を紹介します。交換頻度を減らしたい方にも。"
+title: "トイレットペーパー ダブル コスパ最強ランキング【2026年版】11選比較"
+description: "ダブルのトイレットペーパーを1mあたりのコストで比較。2倍巻き・3倍巻き・再生紙・肌触り重視のおすすめ11選を紹介します。交換頻度を減らしたい方にも。"
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
@@ -77,7 +77,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7666919.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-11"
         price: 7299
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_7666919"
         available: true
@@ -292,6 +292,28 @@ products:
         reviewCount: 11
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_h7262029"
         available: true
+  - rank: 11
+    name: "蒼翠 ダブル トイレットペーパー"
+    brand: "蒼翠（Sousui）"
+    price: 0
+    capacity: "12ロール"
+    pricePerUnit: "0円/ロール"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ダブルタイプのトイレットペーパー"
+      - "標準的な長さの設計"
+      - "送料無料の容量展開"
+    pros:
+      - "ダブルで使い心地を重視しやすい"
+      - "扱いやすい標準的なロール"
+      - "まとめ買いしやすい構成"
+    cons:
+      - "シングルより巻き数あたりは短め"
+      - "好みの厚みは個人差がある"
+    recommendedFor: "使い心地重視でダブルを選びたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/rebirth-inc/sousui_w/"
+    imageUrl: ""
 tags:
   - "トイレットペーパー"
   - "ダブル"

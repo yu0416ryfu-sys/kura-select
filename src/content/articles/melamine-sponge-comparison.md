@@ -1,10 +1,10 @@
 ---
-title: "メラミンスポンジ コスパ比較【2026年版】キューブ型10選"
+title: "メラミンスポンジ コスパ比較【2026年版】キューブ型11選"
 description: "メラミンスポンジを1個あたりのコストで比較。キューブ型・大容量・日本製など、キッチンや水まわり掃除に使いやすい商品を選びます。"
 category: "melamine-sponge"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -315,6 +315,28 @@ products:
     recommendedFor: "メラミンスポンジを用途や個数で選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgo8n.3rdw65ec.g00tgo8n.3rdw717e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstore-marufuku%2Famac-a86059%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstore-marufuku%2Fi%2F10009776%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/store-marufuku/cabinet/shohin/tanaka25/amac-a86059_1.jpg?_ex=128x128"
+  - rank: 11
+    name: "激落ちポイポイ カットタイプ"
+    brand: "レック（LEC）"
+    price: 0
+    capacity: "20個"
+    pricePerUnit: "0円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "カット済みのメラミンフォームスポンジ"
+      - "水だけで汚れを落とせるタイプ"
+      - "キューブ状で扱いやすいサイズ"
+    pros:
+      - "カット済みで使いたい分だけ取り出せる"
+      - "水だけで使えて洗剤いらず"
+      - "使い捨てしやすい個数構成"
+    cons:
+      - "光沢面やコーティング面には不向き"
+      - "使ううちに小さくすり減っていく"
+    recommendedFor: "茶渋や水あかをこまめに落としたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/ra-beans/0784793/"
+    imageUrl: ""
 tags:
   - "メラミンスポンジ おすすめ"
   - "メラミンスポンジ コスパ"

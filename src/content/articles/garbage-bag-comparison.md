@@ -1,10 +1,10 @@
 ---
 title: "ゴミ袋 コスパ最強ランキング【2026年版】45L・20L "
-description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ9選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
+description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分け用のまとめ買いから薄手・エコ素材まで家庭向けおすすめ11選を紹介。楽天で買えるコスパ最強のゴミ袋まとめ。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -259,6 +259,50 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hcbrico_4991437170069"
         available: true
+  - rank: 10
+    name: "東京都容量表示ポリ袋 70L 白半透明"
+    brand: "サンキョウプラテック"
+    price: 0
+    capacity: "500枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "70Lサイズの容量表示ポリ袋"
+      - "白半透明・厚さ0.020mm"
+      - "まとめ買い向けの大容量"
+    pros:
+      - "大容量でコスパを重視しやすい"
+      - "容量表示対応で自治体ルールに合わせやすい"
+      - "厚手で扱いやすい"
+    cons:
+      - "保管にスペースを取りやすい"
+      - "自治体の指定袋仕様の確認が必要"
+    recommendedFor: "70Lのゴミ袋を大容量でストックしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/poly-stadium/kc-73/"
+    imageUrl: ""
+  - rank: 11
+    name: "業務用ゴミ袋 45L 半透明 厚手"
+    brand: "ケイヨウ実業"
+    price: 0
+    capacity: "200枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "45Lサイズの半透明ゴミ袋"
+      - "破れにくい厚手タイプ"
+      - "業務用の大容量パック"
+    pros:
+      - "厚手で破れにくく扱いやすい"
+      - "大容量でコスパを重視しやすい"
+      - "家庭でも業務でも使いやすい"
+    cons:
+      - "保管スペースを取りやすい"
+      - "薄手を求める方には厚すぎる場合がある"
+    recommendedFor: "45Lの丈夫なゴミ袋をまとめ買いしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/keiyoujitsugyou/k2404/"
+    imageUrl: ""
 tags:
   - "ゴミ袋"
   - "コスパ"

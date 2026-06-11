@@ -1,10 +1,10 @@
 ---
-title: "白髪染め コスパ比較【2026年版】市販おすすめ10選"
-description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あたり価格で徹底比較。泡・クリーム・トリートメントタイプの違いや選び方を解説。コスパよく白髪ケアしたい方向けのおすすめ10選。"
+title: "白髪染め コスパ比較【2026年版】市販おすすめ11選"
+description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あたり価格で徹底比較。泡・クリーム・トリートメントタイプの違いや選び方を解説。コスパよく白髪ケアしたい方向けのおすすめ11選。"
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 draft: false
 products:
   - rank: 1
@@ -260,6 +260,28 @@ products:
     recommendedFor: "ジアミン系染料に過敏な反応があった方・クリームタイプで丁寧に染めたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qeu6n.3rdw66f0.g00qeu6n.3rdw7e4b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbijinsyokunin%2Frapeet-nd-sf%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbijinsyokunin%2Fi%2F10002626%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bijinsyokunin/cabinet/shohin/shohin05/imgrc0070113811.jpg?_ex=128x128"
+  - rank: 11
+    name: "クリームシャンプー Mee color 白髪染め"
+    brand: "Mee color（ミーカラー）"
+    price: 0
+    capacity: "350g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "洗いながら染めるクリームシャンプータイプ"
+      - "白髪染め・トリートメント機能を兼ねる"
+      - "オールインワン設計"
+    pros:
+      - "シャンプー感覚で白髪ケアを続けやすい"
+      - "トリートメントも兼ねて手間が少ない"
+      - "徐々に染めたい方に向く"
+    cons:
+      - "一度でしっかり染めたい用途には不向き"
+      - "色味の出方に個人差がある"
+    recommendedFor: "毎日のケアで少しずつ白髪を目立たなくしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/ibiki-kenkyujyo/az-711/"
+    imageUrl: ""
 tags:
   - "白髪染め おすすめ"
   - "白髪染め コスパ"

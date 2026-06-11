@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-11"
 products:
   - rank: 1
     name: "熊本県産 ヒノヒカリ"
@@ -292,6 +292,28 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtn3n.3rdw6fc6.g00qtn3n.3rdw7aa1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frice-akita%2F1000000130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frice-akita%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rice-akita/cabinet/03459843/05525503/09674048/imgrc0081536274.jpg?_ex=128x128"
+  - rank: 11
+    name: "福島県産 ひとめぼれ 令和7年産"
+    brand: "ひとめぼれ"
+    price: 0
+    capacity: "5kg"
+    pricePerUnit: "0円/kg"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "福島県産ひとめぼれの白米"
+      - "令和7年産の単一銘柄"
+      - "送料無料の容量展開"
+    pros:
+      - "バランスのよい食味で食べやすい"
+      - "単一銘柄で味が安定しやすい"
+      - "容量を選んでまとめ買いしやすい"
+    cons:
+      - "相場により価格が変動しやすい"
+      - "保管環境によって鮮度が落ちやすい"
+    recommendedFor: "クセの少ない定番銘柄米を探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/jcrops/10001511/"
+    imageUrl: ""
 tags:
   - "お米"
   - "米"
