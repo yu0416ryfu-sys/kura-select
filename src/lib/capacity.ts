@@ -3,7 +3,9 @@
 // 双方から利用する。js-yaml 等のランタイム依存は持たず、client バンドルへ安全に含められる。
 
 // ── 単位定義 ──────────────────────────────────────────────────────────────
-export const CAPACITY_UNITS = 'mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒|包|錠';
+// 「日」は液体蚊取り取替えボトルなど「対応日数」が実質的なコスパ単位になる商材向け。
+// 既存記事の capacity に「日」表記は無いため追加による誤解析の影響はない。
+export const CAPACITY_UNITS = 'mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒|包|錠|日';
 // 基底単位（"数値unit×N..." の先頭・単独パターンで許可する単位）。
 // 「組」はティッシュの "200組×80個" / "150組×5箱" を 円/組 で計算するために含める。
 // ただし括弧パターン（パターン1）では "360枚（180組）×60箱" の「（180組）」を
@@ -155,6 +157,8 @@ export const ARTICLE_UNIT_POLICY: Record<string, string> = {
   'hand-soap-comparison': 'mL',
   'sanitizing-spray-comparison': 'mL',
   'insect-repellent-comparison': 'mL',
+  // 液体蚊取りの取替えボトルは「対応日数」が実質のコスパ指標（円/日）
+  'mosquito-repellent-liquid-comparison': '日',
   'fabric-deodorizer-comparison': 'mL',
   'sensitive-softener-comparison': 'mL',
   // 粉末・重量系（kg を g に統一）

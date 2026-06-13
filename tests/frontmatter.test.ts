@@ -1778,6 +1778,15 @@ describe("fixNameCapacityConflicts", () => {
     expect(result.content).toBe(content);
   });
 
+  it("capacity 側が複合表記（×を含む）の場合は name へ注入しない", () => {
+    const content = CONFLICT_SAMPLE
+      .replace('"ビオレ 素肌つるるんクレンジングウォーター 300mL"', '"ノーマット 取替えボトル 60日用 無香料"')
+      .replace('capacity: "290mL"', 'capacity: "60日用×2本（120日）"');
+    const result = fixNameCapacityConflicts(content);
+    expect(result.changed).toBe(false);
+    expect(result.content).toBe(content);
+  });
+
   it("ティッシュの組数注釈つき箱数をnameへ重複追加しない", () => {
     const content = CONFLICT_SAMPLE
       .replace(

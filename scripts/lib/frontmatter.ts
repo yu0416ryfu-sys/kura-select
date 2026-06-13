@@ -907,6 +907,9 @@ export function fixNameCapacityConflicts(
     if (embeddedCap === capacity) continue;
     // × 含む複合表記は置換が危険（例: "300mL×2個" → capacity "290mL" は意味が変わる）
     if (/[×xX]/.test(embeddedCap)) continue;
+    // capacity 側が複合表記（例: "60日用×2本（120日）"）の場合、name 内の単純トークン
+    // （"60日"）を複合文字列で置換すると商品名が壊れるため注入しない。
+    if (/[×xX]/.test(capacity)) continue;
 
     const embeddedParsed = extractCapacityTotal(embeddedCap);
     const capacityParsed = extractCapacityTotal(capacity);

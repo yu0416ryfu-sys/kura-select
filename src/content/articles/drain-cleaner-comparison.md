@@ -4,7 +4,7 @@ description: "排水口クリーナーを容量あたりのコストで比較。
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-06-12"
+updatedAt: "2026-06-13"
 draft: false
 products:
   - rank: 1
@@ -111,7 +111,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnicobase%2Fnico-4901609000926.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-13"
         price: 485
         rating: 0
         reviewCount: 0
@@ -244,8 +244,8 @@ products:
     price: 2418
     capacity: "600g"
     pricePerUnit: "約4.0円/g"
-    rating: 4.7
-    reviewCount: 10
+    rating: 4.73
+    reviewCount: 11
     features:
       - "排水口や排水管向けの洗浄剤"
       - "台所や浴室まわりの排水口ケア向け"
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkilat%2F9q0975.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-13"
         price: 272
         rating: 4.8
         reviewCount: 5

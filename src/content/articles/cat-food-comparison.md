@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: 2026-06-12
+updatedAt: "2026-06-13"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4904879658255-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-13"
         price: 968
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4904879658255-1"
         available: true
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F75320.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-13"
         price: 13950
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_75320"
         available: true
@@ -80,7 +80,7 @@ products:
     capacity: "3.5kg"
     pricePerUnit: "約1.6円/g"
     rating: 4.8
-    reviewCount: 127
+    reviewCount: 129
     features:
       - "7歳以上の室内で生活する中高齢猫向け総合栄養食"
       - "ジッパー付き袋で開封後の保存がしやすい設計"
@@ -95,6 +95,17 @@ products:
     recommendedFor: "7歳以上の室内シニア猫を飼っている方・プレミアムブランドで安定した品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9217328%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10026150%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/logo/9217328.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffamilypet%2F52905133.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-13"
+        price: 5280
+        rating: 4.56
+        reviewCount: 84
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/familypet_52905133"
+        available: true
   - rank: 4
     name: "ロイヤルカナン インドア 4kg"
     brand: "ロイヤルカナン"
@@ -122,12 +133,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687275.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-13"
         price: 6476
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687275"
         available: true
         rating: 4.75
-        reviewCount: 1375
+        reviewCount: 1377
   - rank: 5
     name: "ニュートロ ナチュラルチョイス キャット"
     brand: "ニュートロ"
@@ -135,7 +146,7 @@ products:
     capacity: "2kg"
     pricePerUnit: "約2.0円/g"
     rating: 4.66
-    reviewCount: 799
+    reviewCount: 800
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -155,7 +166,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2Fnutrocat0102.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-13"
         price: 4080
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_nutrocat0102"
         available: true
@@ -168,7 +179,7 @@ products:
     capacity: "2kg"
     pricePerUnit: "約2.0円/g"
     rating: 4.73
-    reviewCount: 532
+    reviewCount: 533
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -188,12 +199,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687270.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-13"
         price: 4006
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687270"
         available: true
         rating: 4.75
-        reviewCount: 863
+        reviewCount: 864
   - rank: 7
     name: "ナチュラルバランス オリジナルウルトラ"
     brand: "Natural Balance"
@@ -221,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcell-apt%2Fc-2801-800-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-13"
         price: 5400
         rating: 0
         reviewCount: 0
@@ -249,6 +260,17 @@ products:
     recommendedFor: "食物アレルギーがある猫・これまでのフードで消化不良が気になっている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uc5nn.3rdw6501.g00uc5nn.3rdw7ae7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fruffruff%2F4963974020756%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fruffruff%2Fi%2F10000465%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ruffruff/cabinet/10742942/10981098/31.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetoukoku%2F42.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-13"
+        price: 10670
+        rating: 4.85
+        reviewCount: 20
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petoukoku_42"
+        available: true
   - rank: 9
     name: "ねこままちょいす ドライフード 成猫用 500g"
     brand: "犬猫自然食本舗"
@@ -298,7 +320,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4902201210980.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-13"
         price: 3069
         rating: 0
         reviewCount: 0

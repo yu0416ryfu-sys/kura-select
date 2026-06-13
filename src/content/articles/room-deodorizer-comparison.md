@@ -4,7 +4,7 @@ description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-06-12"
+updatedAt: "2026-06-13"
 products:
   - rank: 1
     name: "サライウォーター 大容量 次亜塩素酸水"
@@ -228,7 +228,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1183円/kg"
     rating: 4.79
-    reviewCount: 2938
+    reviewCount: 2940
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -271,7 +271,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072098813.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-07"
+        updatedAt: "2026-06-13"
         price: 350
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987072098813"
         available: true
@@ -284,7 +284,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1403円/kg"
     rating: 4.68
-    reviewCount: 1630
+    reviewCount: 1631
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -299,6 +299,17 @@ products:
     recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/10000009_page01_01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fbs02.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-13"
+        price: 5610
+        rating: 4.67
+        reviewCount: 450
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_bs02"
+        available: true
 tags:
   - "消臭剤 おすすめ"
   - "消臭剤 コスパ"

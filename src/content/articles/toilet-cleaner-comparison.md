@@ -110,7 +110,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4903301118336.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-13"
         price: 441
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4903301118336"
         available: true
