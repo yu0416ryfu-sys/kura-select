@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4973202501285.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 114
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4973202501285"
         available: true
@@ -166,7 +166,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10155171.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 522
         rating: 0
         reviewCount: 0
@@ -197,14 +197,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvivashop%2F46390865.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Famethystwebshop%2F1000.html"
         matchStatus: "pending"
         updatedAt: "2026-06-11"
-        price: 227
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/vivashop_46390865"
+        price: 440
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/amethystwebshop_1000"
         available: true
         rating: 0
-        reviewCount: 0
+        reviewCount: 1
   - rank: 7
     name: "アメジスト 抗菌綿棒"
     brand: "大衛"

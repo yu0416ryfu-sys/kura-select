@@ -263,7 +263,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhappy-natural%2F018004000003.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-06-11"
         price: 3890
         rating: 0

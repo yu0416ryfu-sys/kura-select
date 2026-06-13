@@ -4,7 +4,7 @@ description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-06-11
+updatedAt: 2026-06-12
 draft: false
 products:
   - rank: 1
@@ -49,7 +49,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.77
-    reviewCount: 7531
+    reviewCount: 7535
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -159,7 +159,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.3円/枚"
     rating: 4.84
-    reviewCount: 2638
+    reviewCount: 2639
     features:
       - "99.9%の純水成分で肌に優しい"
       - "厚手シートで吸収性が優れている"
@@ -192,7 +192,7 @@ products:
     capacity: "54枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.61
-    reviewCount: 3773
+    reviewCount: 3774
     features:
       - "菌を99.9%除去する除菌処理"
       - "厚手タイプで吸収性が高い"
@@ -258,7 +258,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.55
-    reviewCount: 360
+    reviewCount: 361
     features:
       - "純水99.9%で肌に優しい処方"
       - "流せるシートで処理が簡単"
@@ -291,7 +291,7 @@ products:
     capacity: "56枚×12個（672枚）"
     pricePerUnit: "約4.7円/枚"
     rating: 4.79
-    reviewCount: 2857
+    reviewCount: 2858
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"

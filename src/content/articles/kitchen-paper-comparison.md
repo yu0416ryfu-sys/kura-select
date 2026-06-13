@@ -109,7 +109,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901670117899x24.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-06-11"
         price: 4280
         rating: 0
@@ -175,7 +175,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F930101.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-06-11"
         price: 6127
         rating: 4.68

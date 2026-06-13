@@ -4,7 +4,7 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-06-11"
+updatedAt: 2026-06-12
 draft: false
 products:
   - rank: 1
@@ -228,39 +228,6 @@ products:
         rating: 4.8
         reviewCount: 41
   - rank: 9
-    name: "ソニッケアー プレミアムクリーン 替えブラシ レギュラー 3本組"
-    brand: "Philips Sonicare"
-    price: 4980
-    capacity: "3本"
-    pricePerUnit: "約1660円/本"
-    rating: 4.61
-    reviewCount: 410
-    features:
-      - "フィリップス純正品・プレミアムクリーンタイプ"
-      - "レギュラーサイズで多くのソニッケアー機種に対応"
-      - "BrushSync搭載モデルでブラシ寿命を自動検知可能"
-    pros:
-      - "公式品で多くのソニッケアー機種との互換性が高い"
-      - "標準サイズで口の大きさを問わず使いやすい"
-      - "BrushSync対応機種では交換時期を自動管理できる"
-    cons:
-      - "ソニッケアー専用でオーラルBには使用不可"
-      - "純正品のため互換品と比べると割高"
-    recommendedFor: "ソニッケアー使用中で純正品を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00te1kn.3rdw6bf0.g00te1kn.3rdw705d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fphilips-japan%2Fhx9043%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fphilips-japan%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/philips-japan/cabinet/item3/hx9043_251118.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fphilips-japan%2Fhx9043.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-08"
-        price: 4980
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/philips-japan_hx9043"
-        available: true
-        rating: 4.57
-        reviewCount: 54
-  - rank: 10
     name: "オーラルB ラディアントホワイト iO専用"
     brand: "Braun"
     price: 3498
@@ -293,6 +260,39 @@ products:
         available: true
         rating: 0
         reviewCount: 2
+  - rank: 10
+    name: "ソニッケアー プレミアムクリーン 替えブラシ レギュラー 3本"
+    brand: "Philips Sonicare"
+    price: 6480
+    capacity: "3本"
+    pricePerUnit: "約2160円/本"
+    rating: 4.53
+    reviewCount: 15
+    features:
+      - "フィリップス純正品・プレミアムクリーンタイプ"
+      - "レギュラーサイズで多くのソニッケアー機種に対応"
+      - "BrushSync搭載モデルでブラシ寿命を自動検知可能"
+    pros:
+      - "公式品で多くのソニッケアー機種との互換性が高い"
+      - "標準サイズで口の大きさを問わず使いやすい"
+      - "BrushSync対応機種では交換時期を自動管理できる"
+    cons:
+      - "ソニッケアー専用でオーラルBには使用不可"
+      - "純正品のため互換品と比べると割高"
+    recommendedFor: "ソニッケアー使用中で純正品を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk19n.3rdw629a.g00qk19n.3rdw7a1d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkarayasa%2F01-adc2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkarayasa%2Fi%2F10000590%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/karayasa/cabinet/01gazou/main/01-adc3.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fphilips-japan%2Fhx9043.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-08"
+        price: 4980
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/philips-japan_hx9043"
+        available: true
+        rating: 4.57
+        reviewCount: 54
 tags:
   - "電動歯ブラシ替えブラシ おすすめ"
   - "電動歯ブラシ替えブラシ コスパ"

@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-06-11"
+updatedAt: "2026-06-12"
 products:
   - rank: 1
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbegirl%2F220016596.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 2480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/begirl_220016596"
         available: true
@@ -187,7 +187,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約14円/mL"
     rating: 4.71
-    reviewCount: 632
+    reviewCount: 633
     features:
       - "オリーブバージンオイル配合でメイクと馴染みやすい"
       - "マッサージしながら毛穴汚れもオフ"
@@ -207,7 +207,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdhc%2F8000023597.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 2717
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dhc_8000023597"
         available: true
@@ -241,8 +241,8 @@ products:
     price: 15980
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
-    rating: 4.93
-    reviewCount: 3178
+    rating: 4.94
+    reviewCount: 3176
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"

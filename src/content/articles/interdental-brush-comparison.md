@@ -4,197 +4,10 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-06-11"
+updatedAt: "2026-06-12"
 draft: false
 products:
   - rank: 1
-    name: "Dr.デンリスト こども糸ピックス 30本入×4個 (対象年齢2歳から)子供用 歯間"
-    brand: "楽天市場"
-    price: 1099
-    capacity: "30本×4個"
-    pricePerUnit: "約9.2円/本"
-    rating: 4.81
-    reviewCount: 314
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rzyyn.3rdw693a.g00rzyyn.3rdw76d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwagonsale-kanahashi%2F4901387051189-z-s-4-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwagonsale-kanahashi%2Fi%2F10002834%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wagonsale-kanahashi/cabinet/11346547/4901387051189z4p01.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale-kanahashi%2F4901387051189-z-s-4-1.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-08"
-        price: 1099
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale-kanahashi_4901387051189-z-s-4-1"
-        available: true
-        rating: 4.45
-        reviewCount: 11
-  - rank: 2
-    name: "サンスター GUM 歯間ブラシ I字型 SSS 20本入"
-    brand: "サンスター（GUM）"
-    price: 295
-    capacity: "20本"
-    pricePerUnit: "約15円/本"
-    rating: 4.5
-    reviewCount: 2
-    features:
-      - "SSSサイズの超極細タイプで歯間が狭い方向け"
-      - "20本入で交換頻度を気にせず使えるボリューム"
-      - "GUMブランドの定番I字型で操作しやすい形状"
-    pros:
-      - "歯間が狭くて他のブラシが入りにくかった方にも対応"
-      - "20本入で単価を抑えやすい容量設計"
-      - "サンスターの品質管理で安心して使用できる"
-    cons:
-      - "超極細のため、歯間が広い方には清掃効果が物足りない場合がある"
-      - "ブラシが細い分、耐久性が標準サイズより劣ることがある"
-    recommendedFor: "歯間が狭く既存の歯間ブラシが入りにくいと感じている方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901616216099%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10180824%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/aa/4901616216099.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901616216099.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-11"
-        price: 245
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901616216099"
-        available: true
-        rating: 4.83
-        reviewCount: 6
-  - rank: 3
-    name: "サンスター GUM 歯間ブラシ I字型 S 20本×10セット"
-    brand: "サンスター（GUM）"
-    price: 3380
-    capacity: "20本×10セット"
-    pricePerUnit: "約17円/本"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "20本×10セット（200本）のまとめ買い仕様"
-      - "SサイズI字型で汎用性の高い標準〜細めのサイズ感"
-      - "大容量パックで補充の頻度と手間を大幅に削減"
-    pros:
-      - "まとめ買いにより1本あたりの単価を抑えられる"
-      - "家族複数人でも長期間まかなえる200本入り"
-      - "楽天での定期まとめ買い・ポイント活用に向いた構成"
-    cons:
-      - "一度に大量購入するため初期費用が高くなる"
-      - "サイズが合わなかった場合に大量の在庫が残るリスクがある"
-    recommendedFor: "家族複数人での使用や定期まとめ買いでコストを徹底的に抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00scoyn.3rdw6027.g00scoyn.3rdw72a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsugartime%2Fkzsuns-79%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsugartime%2Fi%2F10189519%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sugartime/cabinet/kz/kzsuns/kzsuns-79.jpg?_ex=128x128"
-  - rank: 4
-    name: "デンタルプロ 歯間ブラシ L字型 SS 10本入"
-    brand: "デンタルプロ"
-    price: 288
-    capacity: "10本"
-    pricePerUnit: "約29円/本"
-    rating: 5
-    reviewCount: 2
-    features:
-      - "L字型で奥歯・大臼歯の歯間に角度をつけてアプローチしやすい"
-      - "SSサイズで細めの歯間にも対応した汎用性のある細さ"
-      - "グリップ部の持ちやすい形状で安定した操作が可能"
-    pros:
-      - "奥歯の歯間に届きやすいL字型で大臼歯ケアに適している"
-      - "I字型と使い分けることで全体的な歯間ケアが実現できる"
-      - "ドラッグストアで入手しやすく補充が容易"
-    cons:
-      - "前歯にはI字型の方が使いやすい場合がある"
-      - "10本入のため、大容量を求める方には割高感がある"
-    recommendedFor: "奥歯の歯間ケアを重視したい方・L字型を初めて試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4973227306025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10062141%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/15/4973227306025.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4973227306025.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-11"
-        price: 289
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4973227306025"
-        available: true
-        rating: 4.73
-        reviewCount: 22
-  - rank: 5
-    name: "デンタルプロ 歯間ブラシ I字型 Mサイズ 15本入"
-    brand: "デンタルプロ"
-    price: 467
-    capacity: "15本"
-    pricePerUnit: "約31円/本"
-    rating: 4.44
-    reviewCount: 9
-    features:
-      - "I字型でまっすぐ届く設計、前歯・小臼歯に使いやすい"
-      - "Mサイズ（サイズ4）は日本人の歯間幅に合う定番サイズ"
-      - "15本入でコスパと使い切りやすさのバランスが良い"
-    pros:
-      - "I字型なので鏡を見ながら挿入角度を確認しやすい"
-      - "最も普及したサイズで使い方の情報が豊富"
-      - "コンビニ・ドラッグストアでも補充しやすい定番品"
-    cons:
-      - "奥歯（大臼歯）にはL字型の方が届きやすい場合がある"
-      - "サイズ選びを誤ると歯ぐきを傷つける可能性がある"
-    recommendedFor: "歯間ブラシを初めて使う方・前歯や小臼歯のケアを中心にしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fd412800h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10014395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/634/4973227834634.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-11"
-        price: 247
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
-        available: true
-        rating: 0
-        reviewCount: 1
-  - rank: 6
-    name: "オーラルケア フロアフロス 250m 詰め替え用 歯科専売品 fluorfloss"
-    brand: "楽天市場"
-    price: 2640
-    capacity: "250m"
-    pricePerUnit: "約11円/m"
-    rating: 4.8
-    reviewCount: 243
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F0090024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000767%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/0090024_001.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-11"
-        price: 3278
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
-        available: true
-        rating: 4.78
-        reviewCount: 338
-  - rank: 7
     name: "オーラルケア フロアフロス 250m"
     brand: "オーラルケア"
     price: 3068
@@ -227,7 +40,7 @@ products:
         available: true
         rating: 4.78
         reviewCount: 338
-  - rank: 8
+  - rank: 2
     name: "オーラルケア フロアフロス 250m 歯科専売品 fluorfloss"
     brand: "楽天市場"
     price: 3080
@@ -260,14 +73,47 @@ products:
         available: true
         rating: 4.78
         reviewCount: 338
-  - rank: 9
+  - rank: 3
+    name: "オーラルケア フロアフロス 250m 歯科専売品 fluorfloss"
+    brand: "楽天市場"
+    price: 3080
+    capacity: "250m"
+    pricePerUnit: "約12円/m"
+    rating: 4.76
+    reviewCount: 546
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F0090023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000766%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/0090023_001.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-11"
+        price: 3278
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
+        available: true
+        rating: 4.78
+        reviewCount: 338
+  - rank: 4
     name: "オーラルケア フロアフロス 45m 2個セット (メール便9点まで)"
     brand: "オーラルケア"
     price: 1595
     capacity: "45m"
     pricePerUnit: "約35円/m"
     rating: 4.64
-    reviewCount: 1105
+    reviewCount: 1106
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -293,7 +139,7 @@ products:
         available: true
         rating: 4.72
         reviewCount: 159
-  - rank: 10
+  - rank: 5
     name: "REACH リーチ／デンタルフロス 55ヤード(50.2m)×6個入り ワックス・ノ"
     brand: "REACH"
     price: 2200
@@ -327,6 +173,160 @@ products:
         rating: 4.2
         reviewCount: 5
         matchNotes: "capacity不一致: capacity不一致"
+  - rank: 6
+    name: "Dr.デンリスト こども糸ピックス 30本入×4個 (対象年齢2歳から)子供用 歯間"
+    brand: "楽天市場"
+    price: 1099
+    capacity: "30本×4個"
+    pricePerUnit: "約9.2円/本"
+    rating: 4.81
+    reviewCount: 314
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rzyyn.3rdw693a.g00rzyyn.3rdw76d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwagonsale-kanahashi%2F4901387051189-z-s-4-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwagonsale-kanahashi%2Fi%2F10002834%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wagonsale-kanahashi/cabinet/11346547/4901387051189z4p01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale-kanahashi%2F4901387051189-z-s-4-1.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-08"
+        price: 1099
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale-kanahashi_4901387051189-z-s-4-1"
+        available: true
+        rating: 4.45
+        reviewCount: 11
+  - rank: 7
+    name: "サンスター GUM 歯間ブラシ I字型 SSS 20本入"
+    brand: "サンスター（GUM）"
+    price: 295
+    capacity: "20本"
+    pricePerUnit: "約15円/本"
+    rating: 4.5
+    reviewCount: 2
+    features:
+      - "SSSサイズの超極細タイプで歯間が狭い方向け"
+      - "20本入で交換頻度を気にせず使えるボリューム"
+      - "GUMブランドの定番I字型で操作しやすい形状"
+    pros:
+      - "歯間が狭くて他のブラシが入りにくかった方にも対応"
+      - "20本入で単価を抑えやすい容量設計"
+      - "サンスターの品質管理で安心して使用できる"
+    cons:
+      - "超極細のため、歯間が広い方には清掃効果が物足りない場合がある"
+      - "ブラシが細い分、耐久性が標準サイズより劣ることがある"
+    recommendedFor: "歯間が狭く既存の歯間ブラシが入りにくいと感じている方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901616216099%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10180824%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/aa/4901616216099.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901616216099.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-11"
+        price: 245
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901616216099"
+        available: true
+        rating: 4.83
+        reviewCount: 6
+  - rank: 8
+    name: "サンスター GUM 歯間ブラシ I字型 S 20本×10セット"
+    brand: "サンスター（GUM）"
+    price: 3380
+    capacity: "20本×10セット"
+    pricePerUnit: "約17円/本"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "20本×10セット（200本）のまとめ買い仕様"
+      - "SサイズI字型で汎用性の高い標準〜細めのサイズ感"
+      - "大容量パックで補充の頻度と手間を大幅に削減"
+    pros:
+      - "まとめ買いにより1本あたりの単価を抑えられる"
+      - "家族複数人でも長期間まかなえる200本入り"
+      - "楽天での定期まとめ買い・ポイント活用に向いた構成"
+    cons:
+      - "一度に大量購入するため初期費用が高くなる"
+      - "サイズが合わなかった場合に大量の在庫が残るリスクがある"
+    recommendedFor: "家族複数人での使用や定期まとめ買いでコストを徹底的に抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00scoyn.3rdw6027.g00scoyn.3rdw72a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsugartime%2Fkzsuns-79%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsugartime%2Fi%2F10189519%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sugartime/cabinet/kz/kzsuns/kzsuns-79.jpg?_ex=128x128"
+  - rank: 9
+    name: "デンタルプロ 歯間ブラシ L字型 SS 10本入"
+    brand: "デンタルプロ"
+    price: 288
+    capacity: "10本"
+    pricePerUnit: "約29円/本"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "L字型で奥歯・大臼歯の歯間に角度をつけてアプローチしやすい"
+      - "SSサイズで細めの歯間にも対応した汎用性のある細さ"
+      - "グリップ部の持ちやすい形状で安定した操作が可能"
+    pros:
+      - "奥歯の歯間に届きやすいL字型で大臼歯ケアに適している"
+      - "I字型と使い分けることで全体的な歯間ケアが実現できる"
+      - "ドラッグストアで入手しやすく補充が容易"
+    cons:
+      - "前歯にはI字型の方が使いやすい場合がある"
+      - "10本入のため、大容量を求める方には割高感がある"
+    recommendedFor: "奥歯の歯間ケアを重視したい方・L字型を初めて試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4973227306025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10062141%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/15/4973227306025.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4973227306025.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-11"
+        price: 289
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4973227306025"
+        available: true
+        rating: 4.73
+        reviewCount: 22
+  - rank: 10
+    name: "デンタルプロ 歯間ブラシ I字型 Mサイズ 15本入"
+    brand: "デンタルプロ"
+    price: 467
+    capacity: "15本"
+    pricePerUnit: "約31円/本"
+    rating: 4.44
+    reviewCount: 9
+    features:
+      - "I字型でまっすぐ届く設計、前歯・小臼歯に使いやすい"
+      - "Mサイズ（サイズ4）は日本人の歯間幅に合う定番サイズ"
+      - "15本入でコスパと使い切りやすさのバランスが良い"
+    pros:
+      - "I字型なので鏡を見ながら挿入角度を確認しやすい"
+      - "最も普及したサイズで使い方の情報が豊富"
+      - "コンビニ・ドラッグストアでも補充しやすい定番品"
+    cons:
+      - "奥歯（大臼歯）にはL字型の方が届きやすい場合がある"
+      - "サイズ選びを誤ると歯ぐきを傷つける可能性がある"
+    recommendedFor: "歯間ブラシを初めて使う方・前歯や小臼歯のケアを中心にしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fd412800h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10014395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/634/4973227834634.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-11"
+        price: 247
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
+        available: true
+        rating: 0
+        reviewCount: 1
 tags:
   - "歯間ブラシ おすすめ"
   - "歯間ブラシ コスパ"

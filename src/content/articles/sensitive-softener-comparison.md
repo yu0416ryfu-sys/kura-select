@@ -308,7 +308,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4582469502517.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-01"
+        updatedAt: "2026-06-11"
         price: 1043
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4582469502517"
         available: true

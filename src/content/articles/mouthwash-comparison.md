@@ -302,7 +302,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_df0129"
         available: true
         rating: 4.78
-        reviewCount: 1375
+        reviewCount: 1376
 tags:
   - "マウスウォッシュ"
   - "コスパ"

@@ -185,14 +185,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsolotta%2F50988.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpotch7%2F10000800.html"
         matchStatus: "pending"
         updatedAt: "2026-06-11"
-        price: 3740
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/solotta_50988"
+        price: 4950
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/potch7_10000800"
         available: true
-        rating: 4.71
-        reviewCount: 115
+        rating: 4.7
+        reviewCount: 84
   - rank: 7
     name: "あまおういちご 入浴剤 26個セット"
     brand: "湯屋の手土産"

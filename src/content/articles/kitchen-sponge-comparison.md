@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft1105-01.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-11"
         price: 410
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t1105-01"
         available: true
@@ -182,6 +182,17 @@ products:
     recommendedFor: "キッチンスポンジを多めにストックしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4904735053095-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10017305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/rich03/imgrc0087963474.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvape-land%2Fjj220125-1056.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-11"
+        price: 2380
+        rating: 4.93
+        reviewCount: 91
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/vape-land_jj220125-1056"
+        available: true
   - rank: 8
     name: "マーナ おさかなスポンジ 数量限定カラー 2個入り"
     brand: "MARNA（マーナ）"

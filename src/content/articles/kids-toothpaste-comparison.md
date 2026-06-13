@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-06-11
+updatedAt: "2026-06-12"
 products:
   - rank: 1
     name: "ライオン チェックアップ コドモ アップル 60g"
@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpureco2nd%2Fprc-s-7167065989.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffdcglobal%2Fcukodomo-003wg001.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-10"
-        price: 343
-        rating: 4.75
-        reviewCount: 28
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pureco2nd_prc-s-7167065989"
+        updatedAt: "2026-06-11"
+        price: 1999
+        rating: 4.67
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fdcglobal_cukodomo-003wg001"
         available: true
   - rank: 2
     name: "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット"

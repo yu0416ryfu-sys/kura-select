@@ -4,7 +4,7 @@ description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-06-11"
+updatedAt: "2026-06-12"
 products:
   - rank: 1
     name: "サライウォーター 大容量 次亜塩素酸水"
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F113-8544-001.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-11"
         price: 720
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_113-8544-001"
         available: true
@@ -228,7 +228,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1183円/kg"
     rating: 4.79
-    reviewCount: 2937
+    reviewCount: 2938
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -284,7 +284,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1403円/kg"
     rating: 4.68
-    reviewCount: 1629
+    reviewCount: 1630
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
