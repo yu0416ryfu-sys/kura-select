@@ -4,7 +4,7 @@ description: "排水口クリーナーを容量あたりのコストで比較。
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-06-13"
+updatedAt: 2026-06-14
 draft: false
 products:
   - rank: 1
@@ -30,28 +30,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00upj3n.3rdw6ae7.g00upj3n.3rdw77a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffansfactory%2F4901301307453-3set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffansfactory%2Fi%2F10011038%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fansfactory/cabinet/images191/4901301307453-3set_1.jpg?_ex=128x128"
   - rank: 2
-    name: "パイプユニッシュ 排水口 パイプクリーナー"
-    brand: "ジョンソン"
-    price: 1885
-    capacity: "800g×3本（2400g）"
-    pricePerUnit: "約0.79円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "排水口・排水パイプ用の液体クリーナー"
-      - "大容量ボトルのセット"
-      - "台所や浴室の排水口ケア向け"
-    pros:
-      - "家庭内の複数箇所に使いやすい"
-      - "容量重視で選びたい方に向く"
-      - "定番ブランドをまとめて購入しやすい"
-    cons:
-      - "大容量ボトルは収納場所を取りやすい"
-      - "使用量を守って使う必要がある"
-    recommendedFor: "容量重視でパイプ洗浄剤を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t6mwn.3rdw690e.g00t6mwn.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famart-e%2F26100274-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famart-e%2Fi%2F10006631%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amart-e/cabinet/08990542/26100274-3.jpg?_ex=128x128"
-  - rank: 3
     name: "パイプユニッシュ PRO 凝縮パワージェル 本体"
     brand: "ジョンソン"
     price: 320
@@ -84,6 +62,28 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/atlife_101-4901609000926"
         available: true
+  - rank: 3
+    name: "パイプユニッシュ 排水口 パイプクリーナー"
+    brand: "ジョンソン"
+    price: 1980
+    capacity: "800g×3本（2400g）"
+    pricePerUnit: "約0.82円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "排水口・排水パイプ用の液体クリーナー"
+      - "大容量ボトルのセット"
+      - "台所や浴室の排水口ケア向け"
+    pros:
+      - "家庭内の複数箇所に使いやすい"
+      - "容量重視で選びたい方に向く"
+      - "定番ブランドをまとめて購入しやすい"
+    cons:
+      - "大容量ボトルは収納場所を取りやすい"
+      - "使用量を守って使う必要がある"
+    recommendedFor: "容量重視でパイプ洗浄剤を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t6mwn.3rdw690e.g00t6mwn.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famart-e%2F26100274-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famart-e%2Fi%2F10006631%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amart-e/cabinet/08990542/26100274-3.jpg?_ex=128x128"
   - rank: 4
     name: "パイプユニッシュ PRO 凝縮パワージェル"
     brand: "ジョンソン"

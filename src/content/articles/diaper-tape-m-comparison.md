@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: 2026-06-13
+updatedAt: "2026-06-14"
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301437716x4.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-14"
         price: 6660
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301437716x4"
         available: true
@@ -110,7 +110,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9673092.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-14"
         price: 7348
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9673092"
         available: true
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9662265.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-14"
         price: 6283
         rating: 0
         reviewCount: 1
@@ -199,8 +199,8 @@ products:
     price: 7158
     capacity: "4個セット"
     pricePerUnit: "約1790円/個"
-    rating: 4.75
-    reviewCount: 478
+    rating: 4.74
+    reviewCount: 479
     features:
       - "低刺激設計で敏感肌に配慮"
       - "やさしさを重視した素材選択"

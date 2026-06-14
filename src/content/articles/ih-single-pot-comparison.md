@@ -4,7 +4,7 @@ description: "IH対応の一人用鍋を16cm・18cm中心に11製品比較。卓
 category: "cooking-pot"
 publishedAt: "2026-05-10"
 articleType: "comparison"
-updatedAt: 2026-06-13
+updatedAt: 2026-06-14
 draft: false
 products:
   - rank: 1
@@ -164,11 +164,11 @@ products:
   - rank: 8
     name: "野田琺瑯 ココナベ 個々鍋 大 KO-21 IH対応"
     brand: "野田琺瑯"
-    price: 3300
+    price: 3490
     capacity: "21.5cm / 約0.98L"
     pricePerUnit: "1個あたり約0円"
-    rating: 4.71
-    reviewCount: 21
+    rating: 4.81
+    reviewCount: 37
     features:
       - "IH200V対応のホーロー製一人鍋"
       - "W21.5×D21.5×H11.5cmのコンパクトサイズ"
@@ -181,8 +181,8 @@ products:
       - "ホーロー製のため落下・衝撃には注意が必要"
       - "空焚きは避ける必要がある"
     recommendedFor: "見た目にこだわりながら一人鍋を楽しみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rhi5n.3rdw6f4a.g00rhi5n.3rdw7b06/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcooking-clocca%2Fnodahoro-ko-21%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcooking-clocca%2Fi%2F10006380%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cooking-clocca/cabinet/03069247/03632343/nodahoro/ko-21_01.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ps1gn.3rdw6ea1.g00ps1gn.3rdw70d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshokki%2Fkokonabe002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshokki%2Fi%2F10010755%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shokki/cabinet/noda/imgrc0073680268.jpg?_ex=128x128"
   - rank: 9
     name: "一人鍋 深型 14cm IH対応 蓋付 LD-486"
     brand: "ベストコ"

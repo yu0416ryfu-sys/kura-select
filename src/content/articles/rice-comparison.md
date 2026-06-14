@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: 2026-06-13
+updatedAt: "2026-06-14"
 products:
   - rank: 1
     name: "熊本県産 ヒノヒカリ"
@@ -13,7 +13,7 @@ products:
     capacity: "20kg"
     pricePerUnit: "約509円/kg"
     rating: 4.59
-    reviewCount: 14722
+    reviewCount: 14723
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -27,13 +27,13 @@ products:
       - "銘柄の好みは分かれる"
     recommendedFor: "お米を容量と用途で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rxarn.3rdw6fdf.g00rxarn.3rdw7758/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuchigami%2F10000028%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuchigami%2Fi%2F10000028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/johino/r7-hino-smn-20.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/rakurip/kome/hino_sale_20.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffuchigami%2Fhino-kp30.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-14"
         price: 11380
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fuchigami_hino-kp30"
         available: true
@@ -46,7 +46,7 @@ products:
     capacity: "5kg×2袋"
     pricePerUnit: "約568円/kg"
     rating: 4.27
-    reviewCount: 13707
+    reviewCount: 13711
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmanmayarice%2Fnouka10.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-14"
         price: 5780
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/manmayarice_nouka10"
         available: true
@@ -231,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhseason%2Fy-mtmk005-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-14"
         price: 7580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hseason_y-mtmk005-2"
         available: true

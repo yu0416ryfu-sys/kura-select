@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffdcglobal%2Fcukodomo-003wg001.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpureco2nd%2Fprc-s-7167065989.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-13"
-        price: 1999
-        rating: 4.67
-        reviewCount: 3
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fdcglobal_cukodomo-003wg001"
+        updatedAt: "2026-06-14"
+        price: 343
+        rating: 4.75
+        reviewCount: 28
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pureco2nd_prc-s-7167065989"
         available: true
   - rank: 2
     name: "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット"

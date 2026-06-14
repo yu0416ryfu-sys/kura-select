@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-13"
+updatedAt: "2026-06-14"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -97,13 +97,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F70697.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180740-6.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-13"
-        price: 5965
-        rating: 4.63
-        reviewCount: 32
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_70697"
+        updatedAt: "2026-06-14"
+        price: 5198
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4901730180740-6"
         available: true
   - rank: 4
     name: "モンダミン プレミアムケア ゴールドミント"
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901080248619.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-13"
+        updatedAt: "2026-06-14"
         price: 1039
         rating: 0
         reviewCount: 1
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901616010888.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-13"
+        updatedAt: "2026-06-14"
         price: 1058
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4901616010888"
         available: true
@@ -233,7 +233,7 @@ products:
     capacity: "300mL"
     pricePerUnit: "約7.3円/mL"
     rating: 4.59
-    reviewCount: 2759
+    reviewCount: 2769
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"
@@ -247,7 +247,7 @@ products:
       - "ホワイトニング効果は継続使用が前提"
     recommendedFor: "ホワイトニングケアを日常に取り入れたい方・低刺激マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b071gypvwv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000116%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260604ss/906b071gypvwv-50.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/whith/top/906b071gypvwv.jpg?_ex=128x128"
   - rank: 9
     name: "ドクターウォッシュ デンタル露ウォッシュ"
     brand: "ビーラッシュストア"
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichinan25%2Fdr-wash.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-13"
+        updatedAt: "2026-06-14"
         price: 2970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichinan25_dr-wash"
         available: true
@@ -308,7 +308,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Fdf0129.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-13"
+        updatedAt: "2026-06-14"
         price: 3340
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_df0129"
         available: true

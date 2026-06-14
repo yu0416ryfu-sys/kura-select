@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-06-11"
+updatedAt: "2026-06-14"
 products:
   - rank: 1
     name: "ニベア ハンドクリーム 75g"
@@ -67,7 +67,7 @@ products:
     capacity: "35g"
     pricePerUnit: "約19円/g"
     rating: 4.51
-    reviewCount: 404
+    reviewCount: 405
     features:
       - "100%ピュアシアバターを精製したオーガニック処方"
       - "9種類の香りから選べるセレクト仕様"
@@ -219,7 +219,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fokaimono-ichiba%2F4580333760087.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-14"
         price: 2980
         rating: 5
         reviewCount: 3
@@ -274,7 +274,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeautyhoney%2Fm-c-lt-040.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-13"
+        updatedAt: "2026-06-14"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beautyhoney_m-c-lt-040"
         available: true
