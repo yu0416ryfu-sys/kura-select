@@ -14,7 +14,7 @@ products:
     capacity: "10本セット（替え芯付き、0.7mm）"
     pricePerUnit: "約140円/本"
     rating: 4.83
-    reviewCount: 2423
+    reviewCount: 2424
     features:
       - "150色以上から選べるハーバリウムデザインの装飾ボールペン10本セット"
       - "替え芯付きで長く使えるコスパ設計、送料無料"
@@ -36,7 +36,7 @@ products:
     capacity: "1本（4色ボールペン+シャープペンシル）"
     pricePerUnit: "約1000円/本"
     rating: 4.78
-    reviewCount: 13409
+    reviewCount: 13410
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"

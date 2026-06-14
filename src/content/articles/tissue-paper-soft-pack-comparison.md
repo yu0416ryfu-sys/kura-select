@@ -13,8 +13,8 @@ products:
     price: 5980
     capacity: "200組×90個"
     pricePerUnit: "約0.33円/組"
-    rating: 4.52
-    reviewCount: 31
+    rating: 4.53
+    reviewCount: 32
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -146,7 +146,7 @@ products:
     capacity: "150組×50個"
     pricePerUnit: "約0.41円/組"
     rating: 4.53
-    reviewCount: 772
+    reviewCount: 773
     features:
       - "アイリスオーヤマのソフトパック"
       - "150組×50個のまとめ買いパック"

@@ -47,7 +47,7 @@ products:
     capacity: "10kg"
     pricePerUnit: "約1.4円/g"
     rating: 4.73
-    reviewCount: 819
+    reviewCount: 820
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

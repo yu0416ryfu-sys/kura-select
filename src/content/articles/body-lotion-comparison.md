@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-06-14"
+updatedAt: 2026-06-14
 draft: false
 products:
   - rank: 1
@@ -146,7 +146,7 @@ products:
     capacity: "600ml"
     pricePerUnit: "約4.2円/mL"
     rating: 4.59
-    reviewCount: 548
+    reviewCount: 549
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"

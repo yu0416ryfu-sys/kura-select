@@ -13,7 +13,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約5.3円/枚"
     rating: 4.19
-    reviewCount: 22069
+    reviewCount: 22072
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -111,7 +111,7 @@ products:
     capacity: "20枚"
     pricePerUnit: "約14円/枚"
     rating: 4.06
-    reviewCount: 9175
+    reviewCount: 9176
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -133,7 +133,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約18円/枚"
     rating: 4.41
-    reviewCount: 2333
+    reviewCount: 2335
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"

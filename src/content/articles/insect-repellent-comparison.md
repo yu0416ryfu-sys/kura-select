@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-06-14"
+updatedAt: 2026-06-14
 draft: false
 products:
   - rank: 1
@@ -112,8 +112,8 @@ products:
     price: 7788
     capacity: "450ml×2本"
     pricePerUnit: "約8.7円/mL"
-    rating: 4.1
-    reviewCount: 101
+    rating: 4.11
+    reviewCount: 102
     features:
       - "ヒノキチオール・テルペン油・除虫菊エキスなど天然由来成分100%配合"
       - "450ml入りで玄関・室内・軒下など広範囲への噴霧に適した容量"

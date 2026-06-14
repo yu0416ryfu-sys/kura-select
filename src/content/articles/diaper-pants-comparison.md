@@ -130,7 +130,7 @@ products:
     capacity: "M150枚・L126枚・BIG108枚・BIG+72枚セット"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 1616
+    reviewCount: 1618
     features:
       - "複数サイズをセットで選べる"
       - "ふわもちタッチで肌に優しい"
@@ -196,7 +196,7 @@ products:
     capacity: "M/L/BIG/BIG超から選択、複数枚×4個"
     pricePerUnit: "0円/枚"
     rating: 4.78
-    reviewCount: 1166
+    reviewCount: 1167
     features:
       - "12時間吸収設計で夜間の漏れを防止"
       - "360度ギャザーで寝返りに対応"
@@ -218,7 +218,7 @@ products:
     capacity: "M/L/BIGから選択、3個パック"
     pricePerUnit: "0円/枚"
     rating: 4.79
-    reviewCount: 8123
+    reviewCount: 8125
     features:
       - "ドラえもんのキャラクターデザイン採用"
       - "12時間までの長時間吸収対応"

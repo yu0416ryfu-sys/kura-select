@@ -144,8 +144,8 @@ products:
     price: 2710
     capacity: "4L"
     pricePerUnit: "約0.68円/mL"
-    rating: 4.81
-    reviewCount: 48
+    rating: 4.82
+    reviewCount: 49
     features:
       - "コンパクト処方で少量でもよく落ちる"
       - "食洗機非対応・手洗い専用設計"

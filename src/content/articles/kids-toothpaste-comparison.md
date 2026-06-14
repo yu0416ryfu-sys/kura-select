@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-12"
+updatedAt: 2026-06-14
 products:
   - rank: 1
     name: "ライオン チェックアップ コドモ アップル 60g"
@@ -205,13 +205,13 @@ products:
         rating: 4.88
         reviewCount: 17
   - rank: 8
-    name: "チェックアップ コドモ 60g×3本セット"
+    name: "チェックアップ コドモ 60g×3本"
     brand: "ライオン（チェックアップ）"
-    price: 2300
+    price: 2979
     capacity: "60g×3本（180g）"
-    pricePerUnit: "約13円/g"
-    rating: 4.73
-    reviewCount: 73
+    pricePerUnit: "約17円/g"
+    rating: 4.83
+    reviewCount: 6
     features:
       - "子ども向けの歯みがき用品"
       - "ジェルや泡タイプなど使いやすさで選べる"
@@ -224,8 +224,8 @@ products:
       - "対象年齢やフッ素濃度の確認が必要"
       - "味や泡立ちは子どもの好みが分かれる"
     recommendedFor: "子ども用歯みがき粉を年齢や味で選びたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvuln.3rdw600e.g00tvuln.3rdw7892/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficekanna%2Fkodomo3set-eraberu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficekanna%2Fi%2F10005366%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/officekanna/cabinet/12162853/compass1779691005.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t0trn.3rdw642b.g00t0trn.3rdw7fbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkelly-s%2F10003245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkelly-s%2Fi%2F10003245%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kelly-s/cabinet/imgrc0086406791.jpg?_ex=128x128"
   - rank: 9
     name: "ばぶりーキッズ ゆらしー こども用泡歯磨き粉 48ml"
     brand: "from COCORO"
