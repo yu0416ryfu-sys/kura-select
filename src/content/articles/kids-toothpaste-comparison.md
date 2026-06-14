@@ -1,6 +1,6 @@
 ---
 title: "子ども用歯磨き粉 おすすめランキング【2026年版】フッ素濃度・年齢別に比較"
-description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比較。クリニカKid's・チェックアップ・ライオンこどもハミガキなど人気10選を安全性・効果で解説。"
+description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比較。クリニカKid's・チェックアップ・ライオンこどもハミガキなど人気9選を安全性・効果で解説。"
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
@@ -205,28 +205,6 @@ products:
         rating: 4.88
         reviewCount: 17
   - rank: 8
-    name: "チェックアップ コドモ 60g×2本"
-    brand: "ライオン（チェックアップ）"
-    price: 1370
-    capacity: "60g×2本"
-    pricePerUnit: "約11円/g"
-    rating: 4.73
-    reviewCount: 26
-    features:
-      - "フレーバーを選べる2本セットのチェックアップ コドモ"
-      - "フッ素950ppmFと500ppmFの濃度を好みで選択可能"
-      - "ぶどう・アップル・ストロベリーなど複数フレーバー対応"
-    pros:
-      - "2本セットでまとめ買いするとコストを抑えやすい"
-      - "フレーバーを選べるため子どもの好みに合わせられる"
-      - "フッ素濃度も選べるため年齢に合わせた選択がしやすい"
-    cons:
-      - "2本での購入のため1本試してから追加したい方には向かない"
-      - "フレーバーや濃度の選択が必要なため購入前に確認が必要"
-    recommendedFor: "チェックアップ コドモをまとめ買いしたい方・フレーバーを選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvdwn.3rdw65c2.g00tvdwn.3rdw7ec2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fm4-magic%2Flocheckup-kd-fc2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fm4-magic%2Fi%2F10002203%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/m4-magic/cabinet/lion/toothpaste/checkup-kd/kdm-fc2-new.jpg?_ex=128x128"
-  - rank: 9
     name: "チェックアップ コドモ 60g×3本セット"
     brand: "ライオン（チェックアップ）"
     price: 2300
@@ -248,7 +226,7 @@ products:
     recommendedFor: "子ども用歯みがき粉を年齢や味で選びたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvuln.3rdw600e.g00tvuln.3rdw7892/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficekanna%2Fkodomo3set-eraberu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficekanna%2Fi%2F10005366%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/officekanna/cabinet/12162853/compass1779691005.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "ばぶりーキッズ ゆらしー こども用泡歯磨き粉 48ml"
     brand: "from COCORO"
     price: 550

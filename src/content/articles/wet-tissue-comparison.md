@@ -4,31 +4,9 @@ description: "ウェットティッシュのおすすめ10選を1枚あたり単
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-06-13
+updatedAt: 2026-06-14
 products:
   - rank: 1
-    name: "ウェットティッシュ 薄型 除菌シート"
-    brand: "楽天オリジナル"
-    price: 1485
-    capacity: "3840枚＋480枚"
-    pricePerUnit: "約0.39円/枚"
-    rating: 4.12
-    reviewCount: 68
-    features:
-      - "薄型設計で大容量ストックに向いた除菌シート"
-      - "楽天市場の独自企画商品で価格訴求型設計"
-      - "ウイルス対策・除菌用途に向けた大容量構成"
-    pros:
-      - "大容量タイプで家庭での据え置き使いに向く"
-      - "楽天市場での購入がしやすい"
-      - "まとめ買いで単価を抑えやすい"
-    cons:
-      - "ブランドの知名度は大手メーカーより低め"
-      - "用途に合う成分タイプを事前に確認したい"
-    recommendedFor: "楽天で大容量の除菌ウェットティッシュをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqzrn.3rdw615b.g00uqzrn.3rdw7efd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenoriginal-daily%2Fro-d-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenoriginal-daily%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenoriginal-daily/cabinet/item/daily/wt-thin_2603_01.jpg?_ex=128x128"
-  - rank: 2
     name: "ノンアルコール 99%除菌ウェットティッシュ"
     brand: "VINDA"
     price: 1740
@@ -50,14 +28,14 @@ products:
     recommendedFor: "ノンアルコールで除菌力も確保したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnhsn.3rdw6b0b.g00tnhsn.3rdw755e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarubeni-pps%2Fjyokin80-12set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarubeni-pps%2Fi%2F10000026%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marubeni-pps/cabinet/biiino/item/main-image/1702967471168_1.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "レック 水99.9％ 手口ふき"
     brand: "レック"
     price: 2180
     capacity: "80枚×15個"
     pricePerUnit: "約1.8円/枚"
-    rating: 4.68
-    reviewCount: 4548
+    rating: 4.69
+    reviewCount: 4553
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -83,7 +61,7 @@ products:
         available: true
         rating: 4.67
         reviewCount: 1009
-  - rank: 4
+  - rank: 3
     name: "おしりふき 手口ふき シンプル"
     brand: "子育て日和"
     price: 3980
@@ -105,7 +83,7 @@ products:
     recommendedFor: "赤ちゃんのいる家庭・敏感肌向け・大容量を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t960n.3rdw6406.g00t960n.3rdw7aa2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foga13%2Foshirihuki24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foga13%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oga13/cabinet/thumbnail2025/oshirihuki24_1.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 4
     name: "シルコット ピュアウォーター ウェットティッシュ 詰替 58枚×8個"
     brand: "ユニ・チャーム（シルコット）"
     price: 1160
@@ -138,7 +116,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 6
+  - rank: 5
     name: "アイリスオーヤマ 除菌ウェットティッシュ 60枚×48個"
     brand: "アイリスオーヤマ"
     price: 7480
@@ -171,6 +149,28 @@ products:
         available: true
         rating: 4.58
         reviewCount: 19
+  - rank: 6
+    name: "シルコット ノンアルコール除菌ウェットティッシュ 詰替 43枚×8個×4個"
+    brand: "ユニ・チャーム（シルコット）"
+    price: 5269
+    capacity: "43枚×8個×4個（1376枚）"
+    pricePerUnit: "約3.8円/枚"
+    rating: 4.74
+    reviewCount: 227
+    features:
+      - "ノンアルコールタイプの除菌ウェットティッシュ詰替"
+      - "ワンプッシュで開閉できる取り出し口設計"
+      - "詰替用のまとめ買いに向いたセット構成"
+    pros:
+      - "ノンアルコールで手指や身の回りをふきやすい"
+      - "詰替用でストックとして備えやすい"
+      - "据え置きでの日常使いに向く"
+    cons:
+      - "詰替のため別途本体容器が必要な場合がある"
+      - "用途に合う成分タイプを事前に確認したい"
+    recommendedFor: "ノンアルコールの除菌ウェットティッシュを詰替でまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4903111460106%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11222052%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/106/4903111460106.jpg?_ex=128x128"
   - rank: 7
     name: "エリエール 除菌できるアルコールタオル 大容量本体"
     brand: "大王製紙（エリエール）"
@@ -264,7 +264,7 @@ products:
     capacity: "96枚"
     pricePerUnit: "約31円/枚"
     rating: 4.36
-    reviewCount: 307
+    reviewCount: 309
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"

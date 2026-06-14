@@ -1,5 +1,5 @@
 ---
-title: "排水口クリーナー コスパ比較【2026年版】パイプ洗浄剤10選"
+title: "排水口クリーナー コスパ比較【2026年版】パイプ洗浄剤8選"
 description: "排水口クリーナーを容量あたりのコストで比較。ジェルタイプや大容量セットなど、浴室・洗面所・キッチンで使いやすい商品を選びます。"
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
@@ -140,72 +140,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q04pn.3rdw67f3.g00q04pn.3rdw7ea5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenetshop%2F4901609017283%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenetshop%2Fi%2F10058791%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/benetshop/cabinet/item_img/mm13/12876795/4901609017283.jpg?_ex=128x128"
   - rank: 6
-    name: "ピーピースルーF 業務用排水管洗浄剤 12本セット"
-    brand: "和協産業"
-    price: 21800
-    capacity: "600g×12本（7200g）"
-    pricePerUnit: "約3.0円/g"
-    rating: 4.67
-    reviewCount: 6
-    features:
-      - "排水口や排水管向けの洗浄剤"
-      - "台所や浴室まわりの排水口ケア向け"
-      - "定期掃除に使うタイプ"
-    pros:
-      - "排水口ケアをまとめて行いやすい"
-      - "用途や容量に合わせて選びやすい"
-      - "ストック用として比較しやすい"
-    cons:
-      - "使用場所と素材の注意表示を確認する必要がある"
-      - "他の洗剤と混ぜないよう注意が必要"
-    recommendedFor: "排水口クリーナーを用途別に比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quion.3rdw6e7d.g00quion.3rdw731c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F6019094%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosharecafe%2Fi%2F10031246%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/marsn/marsn_08/rank_6019094.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6019094.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-07"
-        price: 19400
-        rating: 4.8
-        reviewCount: 5
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6019094"
-        available: true
-  - rank: 7
-    name: "ピーピースルーF 業務用排水管洗浄剤 2本セット"
-    brand: "和協産業"
-    price: 4110
-    capacity: "600g×2本（1200g）"
-    pricePerUnit: "約3.4円/g"
-    rating: 4.58
-    reviewCount: 351
-    features:
-      - "排水口や排水管向けの洗浄剤"
-      - "台所や浴室まわりの排水口ケア向け"
-      - "定期掃除に使うタイプ"
-    pros:
-      - "排水口ケアをまとめて行いやすい"
-      - "用途や容量に合わせて選びやすい"
-      - "ストック用として比較しやすい"
-    cons:
-      - "使用場所と素材の注意表示を確認する必要がある"
-      - "他の洗剤と混ぜないよう注意が必要"
-    recommendedFor: "排水口クリーナーを用途別に比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quion.3rdw6e7d.g00quion.3rdw731c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F6038803%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosharecafe%2Fi%2F10067832%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/marsn/marsn_08/rank_6038803.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6038803.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-08"
-        price: 3750
-        rating: 4.64
-        reviewCount: 289
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6038803"
-        available: true
-  - rank: 8
     name: "ピーピースルーF 600g"
     brand: "和協産業"
     price: 2240
@@ -238,7 +172,7 @@ products:
         reviewCount: 80
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10176772"
         available: true
-  - rank: 9
+  - rank: 7
     name: "ピーピースルーF 業務用 排水管洗浄剤"
     brand: "和協産業"
     price: 2418
@@ -271,7 +205,7 @@ products:
         reviewCount: 818
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6017917"
         available: true
-  - rank: 10
+  - rank: 8
     name: "ハーバルスリー パイプクリーナー"
     brand: "ミツエイ"
     price: 272
