@@ -125,17 +125,17 @@ products:
     rating: 4.42
     reviewCount: 459
     features:
-      - "アルコール配合で除菌力が高い"
-      - "厚手シートで拭き取り力が強い"
-      - "大容量2,880枚で買い足し頻度が激減"
+      - "アルコール配合で除菌用途に向いたタイプ"
+      - "厚手シートで拭き取りやすい設計"
+      - "まとめ買い向けの大容量セット構成"
     pros:
-      - "1枚あたり約2.6円で最安クラス"
-      - "2,880枚の大容量で長期間持つ"
+      - "容量あたりの単価を抑えやすい構成"
+      - "据え置きでの大量消費に向く"
       - "テーブル・ドアノブなどの除菌にも使える"
     cons:
-      - "アルコール入りで手肌が荒れる方も"
+      - "アルコール入りで手肌が荒れる方もいる"
       - "個包装ではないため持ち運びには不向き"
-    recommendedFor: "最安値を求める方・大量消費する家庭・除菌メインで使う方"
+    recommendedFor: "容量あたりの単価を重視する方・大量消費する家庭・除菌メインで使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3ztn.3rdw6b30.g00t3ztn.3rdw7dc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F1920418%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10156833%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/11073544/12250154/imgrc0110739750.jpg?_ex=128x128"
     offers:
