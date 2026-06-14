@@ -20,15 +20,43 @@ const categoryName = categoryEntry?.data.name ?? "カテゴリ";
 const categorySlug = categoryEntry?.data.slug ?? "";
 
 const allArticles = await getCollection("articles");
-const relatedArticles = allArticles
-  .filter(
-    (a) =>
-      !a.data.draft &&
-      a.id !== article.id &&
-      a.data.category.id === article.data.category.id
+const candidates = allArticles.filter(
+  (a) => !a.data.draft && a.id !== article.id
+);
+
+// 1. 同一カテゴリを優先（公開日の新しい順、従来の挙動を維持）
+const sameCategory = candidates
+  .filter((a) => a.data.category.id === article.data.category.id)
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+
+// 2. 不足分は tag の共通数が多い記事で補完（カテゴリ横断の関連リンク）
+const currentTags = new Set(article.data.tags ?? []);
+const byTagOverlap = candidates
+  .filter((a) => a.data.category.id !== article.data.category.id)
+  .map((a) => ({
+    article: a,
+    overlap: (a.data.tags ?? []).filter((t) => currentTags.has(t)).length,
+  }))
+  .filter((x) => x.overlap > 0)
+  .sort(
+    (x, y) =>
+      y.overlap - x.overlap ||
+      y.article.data.publishedAt.getTime() -
+        x.article.data.publishedAt.getTime()
   )
-  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime())
-  .slice(0, 3);
+  .map((x) => x.article);
+
+// 3. それでも不足する場合は最新記事で補完し、必ず関連リンクを表示する
+const fallback = candidates
+  .filter((a) => a.data.category.id !== article.data.category.id)
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+
+// 優先順位を保ったまま重複を除き、上位3件を関連記事とする
+const relatedArticles = [
+  ...new Map(
+    [...sameCategory, ...byTagOverlap, ...fallback].map((a) => [a.id, a])
+  ).values(),
+].slice(0, 3);
 
 const { Content, headings } = await render(article);
 ---
