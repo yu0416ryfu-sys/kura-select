@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: 2026-06-14
+updatedAt: "2026-06-15"
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "75mL"
     pricePerUnit: "約15円/mL"
     rating: 4.75
-    reviewCount: 2865
+    reviewCount: 2866
     features:
       - "無香料タイプの洗い流さないヘアエッセンス（オイルタイプ）"
       - "天然由来成分配合でくせ毛・うねりに対応したしっとり仕上がり設計"
@@ -137,8 +137,8 @@ products:
         price: 3230
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bb-2023_n-poil150"
         available: true
-        rating: 4.6
-        reviewCount: 225
+        rating: 4.61
+        reviewCount: 227
   - rank: 6
     name: "オーガニックホホバオイル ゴールデン"
     brand: "自然化粧品研究所"
@@ -167,7 +167,7 @@ products:
     capacity: "80mL"
     pricePerUnit: "約29円/mL"
     rating: 4.64
-    reviewCount: 13591
+    reviewCount: 13597
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -211,7 +211,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約35円/mL"
     rating: 4.64
-    reviewCount: 3515
+    reviewCount: 3516
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"
@@ -236,7 +236,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_loaoil"
         available: true
         rating: 4.68
-        reviewCount: 397
+        reviewCount: 398
   - rank: 10
     name: "アメイジングシャインヘアオイル"
     brand: "クイーンズバスルーム"

@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: 2026-06-14
+updatedAt: "2026-06-15"
 draft: false
 products:
   - rank: 1
@@ -234,7 +234,7 @@ products:
     capacity: "350ml"
     pricePerUnit: "約8.8円/ml"
     rating: 4.74
-    reviewCount: 595
+    reviewCount: 596
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F56770.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-14"
         price: 2280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_56770"
         available: true

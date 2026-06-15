@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-06-14
+updatedAt: "2026-06-15"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftaorunomori%2F10001288.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-08"
+        updatedAt: "2026-06-14"
         price: 990
         rating: 4.43
         reviewCount: 205
@@ -47,7 +47,7 @@ products:
     capacity: "40×60cm / 50×80cm 1枚"
     pricePerUnit: "約980円/枚"
     rating: 4.37
-    reviewCount: 989
+    reviewCount: 990
     features:
       - "マイクロファイバーとポリエステル混合"
       - "抗菌・防臭加工で清潔さを保つ"
@@ -130,7 +130,7 @@ products:
     capacity: "42×67cm 1枚"
     pricePerUnit: "約1800円/枚"
     rating: 4.61
-    reviewCount: 2084
+    reviewCount: 2085
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -163,7 +163,7 @@ products:
     capacity: "50×80cm 1枚"
     pricePerUnit: "約4400円/枚"
     rating: 4.65
-    reviewCount: 1230
+    reviewCount: 1231
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -196,7 +196,7 @@ products:
     capacity: "1枚"
     pricePerUnit: "約7480円/枚"
     rating: 4.59
-    reviewCount: 29422
+    reviewCount: 29423
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"

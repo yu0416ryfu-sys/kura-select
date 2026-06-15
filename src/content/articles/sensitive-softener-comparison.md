@@ -273,13 +273,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469501138-10.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469501688-5.html"
         matchStatus: "pending"
         updatedAt: "2026-06-14"
-        price: 5478
-        rating: 4.7
-        reviewCount: 10
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469501138-10"
+        price: 5214
+        rating: 4.9
+        reviewCount: 30
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469501688-5"
         available: true
   - rank: 10
     name: "ランドリン ボタニカル 柔軟剤 リラックスグリーンティー 詰め替え 大容量 860mL"

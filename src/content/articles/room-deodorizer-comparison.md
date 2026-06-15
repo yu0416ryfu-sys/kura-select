@@ -4,7 +4,7 @@ description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-06-14
+updatedAt: 2026-06-15
 products:
   - rank: 1
     name: "サライウォーター 大容量 次亜塩素酸水"
@@ -13,7 +13,7 @@ products:
     capacity: "20L"
     pricePerUnit: "約350円/L"
     rating: 4.77
-    reviewCount: 4407
+    reviewCount: 4408
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -284,7 +284,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1403円/kg"
     rating: 4.68
-    reviewCount: 1631
+    reviewCount: 1632
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"

@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-06-14
+updatedAt: "2026-06-15"
 products:
   - rank: 1
     name: "パンテーン シャンプー 詰め替え エクストラダメージケア"
@@ -112,7 +112,7 @@ products:
     capacity: "240ml"
     pricePerUnit: "約12円/mL"
     rating: 4.46
-    reviewCount: 469
+    reviewCount: 470
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -134,7 +134,7 @@ products:
     capacity: "250ml"
     pricePerUnit: "約13円/mL"
     rating: 4.67
-    reviewCount: 1009
+    reviewCount: 1010
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"

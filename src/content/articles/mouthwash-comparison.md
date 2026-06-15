@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-06-14
+updatedAt: "2026-06-15"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -98,7 +98,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180740-6.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-06-14"
         price: 5198
         rating: 0
@@ -313,7 +313,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_df0129"
         available: true
         rating: 4.78
-        reviewCount: 1381
+        reviewCount: 1382
 tags:
   - "マウスウォッシュ"
   - "コスパ"
