@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-06-14
+updatedAt: 2026-06-15
 products:
   - rank: 1
     name: "ライオン チェックアップ コドモ アップル 60g"
@@ -192,7 +192,7 @@ products:
       - "容量が少なくコスパはやや劣る"
     recommendedFor: "1歳半〜3歳のお子さま・初めての歯磨き粉に・安全性最重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4902508104463%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10044509%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/83/4902508104463.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202505_2/4902508104463.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -207,9 +207,9 @@ products:
   - rank: 8
     name: "チェックアップ コドモ 60g×3本"
     brand: "ライオン（チェックアップ）"
-    price: 2979
+    price: 2259
     capacity: "60g×3本（180g）"
-    pricePerUnit: "約17円/g"
+    pricePerUnit: "約13円/g"
     rating: 4.83
     reviewCount: 6
     features:

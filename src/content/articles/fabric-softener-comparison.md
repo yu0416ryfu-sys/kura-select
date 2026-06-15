@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりのコストで比較。大容量タイ
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-06-12"
+updatedAt: 2026-06-15
 products:
   - rank: 1
     name: "メキシコダウニー アロマフローラル 8.5L×2本"
@@ -27,7 +27,7 @@ products:
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "香りや仕上がりの好みに合わせやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t9zhn.3rdw6489.g00t9zhn.3rdw7b74/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarusanstore%2F301917-2a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarusanstore%2Fi%2F10000525%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marusanstore/cabinet/conveniencegoods/301917/imgrc0106330094.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marusanstore/cabinet/conveniencegoods/301917/301917-2r.jpg?_ex=128x128"
   - rank: 2
     name: "ダウニー メキシコダウニー アロマフローラル 8.8.5L×2本 2本セット"
     brand: "Downy"
@@ -82,7 +82,7 @@ products:
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "香りや仕上がりの好みに合わせやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t9zhn.3rdw6489.g00t9zhn.3rdw7b74/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarusanstore%2F301917-1a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarusanstore%2Fi%2F10000524%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marusanstore/cabinet/conveniencegoods/301917/301917.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marusanstore/cabinet/conveniencegoods/301917/301917-1r.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

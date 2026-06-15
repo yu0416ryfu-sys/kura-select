@@ -4,7 +4,7 @@ description: "排水口クリーナーを容量あたりのコストで比較。
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: 2026-06-14
+updatedAt: 2026-06-15
 draft: false
 products:
   - rank: 1

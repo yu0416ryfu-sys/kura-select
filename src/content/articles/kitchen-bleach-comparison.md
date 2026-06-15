@@ -4,7 +4,7 @@ description: "キッチン用漂白剤を1mLあたりのコストで徹底比較
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-06-14
+updatedAt: 2026-06-15
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"
@@ -13,7 +13,7 @@ products:
     capacity: "5kg×3本"
     pricePerUnit: "約0.28円/g"
     rating: 4.86
-    reviewCount: 97
+    reviewCount: 98
     features:
       - "国内トップシェアのキッチン用塩素系漂白剤"
       - "詰め替え用大容量でコスパ最高クラス"
@@ -79,7 +79,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.62円/g"
     rating: 4.64
-    reviewCount: 1423
+    reviewCount: 1424
     features:
       - "酸素系漂白剤で幅広い用途に対応"
       - "界面活性剤配合でキッチン汚れにも効果的"
@@ -112,7 +112,7 @@ products:
     capacity: "750g"
     pricePerUnit: "約0.78円/g"
     rating: 4.73
-    reviewCount: 125
+    reviewCount: 126
     features:
       - "過炭酸ナトリウム主成分の酸素系粉末漂白剤"
       - "無添加石鹸ブランドのシャボン玉石けんが製造"
