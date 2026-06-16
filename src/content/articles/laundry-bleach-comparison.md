@@ -79,7 +79,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.62円/g"
     rating: 4.64
-    reviewCount: 1423
+    reviewCount: 1424
     features:
       - "酸素系漂白剤の代名詞的ブランド"
       - "衣類・洗濯槽・キッチン・風呂と多用途"

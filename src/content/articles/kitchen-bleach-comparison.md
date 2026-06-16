@@ -79,7 +79,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.62円/g"
     rating: 4.64
-    reviewCount: 1423
+    reviewCount: 1424
     features:
       - "酸素系漂白剤で幅広い用途に対応"
       - "界面活性剤配合でキッチン汚れにも効果的"
@@ -112,7 +112,7 @@ products:
     capacity: "750g"
     pricePerUnit: "約0.78円/g"
     rating: 4.73
-    reviewCount: 125
+    reviewCount: 126
     features:
       - "過炭酸ナトリウム主成分の酸素系粉末漂白剤"
       - "無添加石鹸ブランドのシャボン玉石けんが製造"
