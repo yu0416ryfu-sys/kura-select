@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ10選を1枚あたり単
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-15"
+updatedAt: "2026-06-16"
 products:
   - rank: 1
     name: "ノンアルコール 99%除菌ウェットティッシュ"
@@ -35,7 +35,7 @@ products:
     capacity: "80枚×15個"
     pricePerUnit: "約1.8円/枚"
     rating: 4.69
-    reviewCount: 4557
+    reviewCount: 4565
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -68,7 +68,7 @@ products:
     capacity: "80枚×24個（1920枚）"
     pricePerUnit: "約2.1円/枚"
     rating: 4.52
-    reviewCount: 1294
+    reviewCount: 1295
     features:
       - "99.5%水分で無添加処方"
       - "スタンドアップパッケージで使いやすい"
@@ -122,8 +122,8 @@ products:
     price: 7480
     capacity: "60枚×48個（2,880枚）"
     pricePerUnit: "約2.6円/枚"
-    rating: 4.43
-    reviewCount: 461
+    rating: 4.42
+    reviewCount: 462
     features:
       - "アルコール配合で除菌用途に向いたタイプ"
       - "厚手シートで拭き取りやすい設計"
@@ -262,7 +262,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4903301291022.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-16"
         price: 205
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4903301291022"
         available: true
@@ -275,7 +275,7 @@ products:
     capacity: "96枚"
     pricePerUnit: "約31円/枚"
     rating: 4.36
-    reviewCount: 309
+    reviewCount: 311
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"

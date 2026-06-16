@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-15"
+updatedAt: "2026-06-16"
 products:
   - rank: 1
     name: "ライオン チェックアップ コドモ アップル 60g"
@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffdcglobal%2Fcukodomo-003wg001.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpureco2nd%2Fprc-s-7167065989.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-14"
-        price: 1999
-        rating: 4.67
-        reviewCount: 3
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fdcglobal_cukodomo-003wg001"
+        updatedAt: "2026-06-16"
+        price: 343
+        rating: 4.75
+        reviewCount: 28
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pureco2nd_prc-s-7167065989"
         available: true
   - rank: 2
     name: "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット"
@@ -192,13 +192,13 @@ products:
       - "容量が少なくコスパはやや劣る"
     recommendedFor: "1歳半〜3歳のお子さま・初めての歯磨き粉に・安全性最重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4902508104463%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10044509%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/83/4902508104463.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202505_2/4902508104463.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902508104463.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-13"
+        updatedAt: "2026-06-16"
         price: 485
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902508104463"
         available: true
@@ -207,9 +207,9 @@ products:
   - rank: 8
     name: "チェックアップ コドモ 60g×3本"
     brand: "ライオン（チェックアップ）"
-    price: 2979
+    price: 2259
     capacity: "60g×3本（180g）"
-    pricePerUnit: "約17円/g"
+    pricePerUnit: "約13円/g"
     rating: 4.83
     reviewCount: 6
     features:
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffromcocoro%2Fy-yurabub-n1.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-13"
+        updatedAt: "2026-06-16"
         price: 4680
         rating: 0
         reviewCount: 0

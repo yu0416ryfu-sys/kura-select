@@ -4,7 +4,7 @@ description: "IH対応の一人用鍋を16cm・18cm中心に11製品比較。卓
 category: "cooking-pot"
 publishedAt: "2026-05-10"
 articleType: "comparison"
-updatedAt: 2026-06-15
+updatedAt: 2026-06-16
 draft: false
 products:
   - rank: 1
@@ -208,7 +208,7 @@ products:
   - rank: 10
     name: "ひとり用鍋 浅型 17cm IH対応 蓋付 LD-485"
     brand: "ベストコ"
-    price: 1190
+    price: 1090
     capacity: "17cm / 約1.1L"
     pricePerUnit: "1個あたり約0円"
     rating: 4.5

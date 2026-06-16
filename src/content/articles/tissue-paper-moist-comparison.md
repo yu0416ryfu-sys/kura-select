@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌触りとコス
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: 2026-06-15
+updatedAt: "2026-06-16"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,17 @@ products:
     recommendedFor: "保湿タイプを日常的に使いたい方・コスパも重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4902011711400%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10015067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/400/4902011711400.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frcmdsp%2Fkr-4902011711400.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-16"
+        price: 850
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rcmdsp_kr-4902011711400"
+        available: true
   - rank: 2
     name: "ネピア 鼻セレブ 20箱 まとめ買い"
     brand: "日本製紙クレシア（鼻セレブ）"
@@ -95,6 +106,17 @@ products:
     recommendedFor: "鼻をかむ機会が多く肌あたりを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa070102000002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10005792%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/505/4901121626505.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fazzurro%2F10043328.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-16"
+        price: 947
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/azzurro_10043328"
+        available: true
   - rank: 5
     name: "エリエール 贅沢保湿 ポケットティシュー 14組×4個パック"
     brand: "大王製紙（エリエール）"
@@ -117,6 +139,17 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902011714425-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F11837870%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/re2021/4902011714425.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758946401-1-d.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-16"
+        price: 391
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhan-okusuri_1758946401-1-d"
+        available: true
   - rank: 6
     name: "鼻セレブ プレミアム ティッシュ 130組×10個"
     brand: "王子ネピア（鼻セレブ）"
@@ -188,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-w001-4901988104055.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-16"
         price: 123
         rating: 0
         reviewCount: 0
@@ -242,8 +275,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhanpark%2F888808.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-10"
+        matchStatus: "matched"
+        updatedAt: "2026-06-16"
         price: 798
         rating: 0
         reviewCount: 2

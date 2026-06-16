@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-15"
+updatedAt: 2026-06-16
 products:
   - rank: 1
     name: "パンテーン シャンプー 詰め替え エクストラダメージケア"
@@ -134,7 +134,7 @@ products:
     capacity: "250ml"
     pricePerUnit: "約13円/mL"
     rating: 4.67
-    reviewCount: 1010
+    reviewCount: 1011
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -181,7 +181,7 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rtxcn.3rdw61bb.g00rtxcn.3rdw7a34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fu-ma-store%2F001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fu-ma-store%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-ma-store/cabinet/main/shampoo_3.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-ma-store/cabinet/main/imgrc0115982279.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -199,8 +199,8 @@ products:
     price: 4180
     capacity: "250ml"
     pricePerUnit: "約17円/mL"
-    rating: 4.62
-    reviewCount: 261
+    rating: 4.63
+    reviewCount: 262
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -233,7 +233,7 @@ products:
     capacity: "250ml"
     pricePerUnit: "約17円/mL"
     rating: 4.66
-    reviewCount: 284
+    reviewCount: 285
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"

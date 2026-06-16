@@ -4,7 +4,7 @@ description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-06-15
+updatedAt: "2026-06-16"
 products:
   - rank: 1
     name: "サライウォーター 大容量 次亜塩素酸水"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fg-sarai%2F10000080.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-16"
         price: 6996
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/g-sarai_10000080"
         available: true
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F4580361060036.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-16"
         price: 7700
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_4580361060036"
         available: true
@@ -136,8 +136,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F580764.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-11"
+        matchStatus: "matched"
+        updatedAt: "2026-06-16"
         price: 3080
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_580764"
         available: true
@@ -224,11 +224,11 @@ products:
   - rank: 8
     name: "ハルの消臭剤 消臭ビーズ 詰替用"
     brand: "ハル・インダストリ"
-    price: 4730
+    price: 5060
     capacity: "4kg"
-    pricePerUnit: "約1183円/kg"
+    pricePerUnit: "約1265円/kg"
     rating: 4.79
-    reviewCount: 2943
+    reviewCount: 2947
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -271,7 +271,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072098813.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-13"
+        updatedAt: "2026-06-16"
         price: 350
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987072098813"
         available: true
@@ -280,11 +280,11 @@ products:
   - rank: 10
     name: "ハルの消臭剤 消臭ビーズ 空容器セット"
     brand: "ハル・インダストリ"
-    price: 5610
+    price: 6204
     capacity: "4kg"
-    pricePerUnit: "約1403円/kg"
+    pricePerUnit: "約1551円/kg"
     rating: 4.68
-    reviewCount: 1632
+    reviewCount: 1634
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -298,14 +298,14 @@ products:
       - "使用場所の注意書き確認が必要"
     recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/10000009_page01_01.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/imgrc0120234197.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fbs02.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-13"
-        price: 5610
+        matchStatus: "matched"
+        updatedAt: "2026-06-16"
+        price: 6204
         rating: 4.67
         reviewCount: 450
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_bs02"

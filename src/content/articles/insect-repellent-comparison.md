@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-06-15"
+updatedAt: "2026-06-16"
 draft: false
 products:
   - rank: 1
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyyshop%2F49469592.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-16"
         price: 433
         rating: 0
         reviewCount: 0
@@ -94,13 +94,13 @@ products:
       - "天然精油の香りが強く感じられる場合がある"
     recommendedFor: "室内や玄関まわりの虫の侵入対策を手軽にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhp6n.3rdw613e.g00uhp6n.3rdw7d67/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwoddylabo%2F4560437941414%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwoddylabo%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/woddylabo/cabinet/product/01/11722292/imgrc0166376409.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/woddylabo/cabinet/product/01/11722292/mushikirai_g_202606.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fa1-shop%2F67-7283-85.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-16"
         price: 1881
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/a1-shop_67-7283-85"
         available: true
@@ -135,7 +135,7 @@ products:
     capacity: "100ml"
     pricePerUnit: "約11円/mL"
     rating: 4.5
-    reviewCount: 214
+    reviewCount: 215
     features:
       - "天然精油9種類を配合した合成殺虫成分不使用の虫よけスプレー"
       - "レモングラス・ラベンダー・ユーカリ・ヒノキなど天然アロマをブレンド"
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faroma-spray%2Fsp-bug-100-100e.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-16"
         price: 2980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aroma-spray_sp-bug-100-100e"
         available: true
