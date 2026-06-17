@@ -4,7 +4,7 @@ description: "日焼け止めを1mLあたりのコストで徹底比較。ビオ
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-16"
+updatedAt: "2026-06-17"
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -31,14 +31,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4987241190867.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987241190867.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-16"
-        price: 905
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4987241190867"
+        updatedAt: "2026-06-17"
+        price: 1030
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987241190867"
         available: true
-        rating: 4.63
-        reviewCount: 8
+        rating: 0
+        reviewCount: 2
   - rank: 2
     name: "花王 ニベアUV　ニベアサン ウォータージェル SPF50 詰替え"
     brand: "花王（ニベア）"
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301298706.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 920
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301298706"
         available: true
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpaatner%2F4901301416957.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 2480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/paatner_4901301416957"
         available: true
@@ -126,7 +126,7 @@ products:
       - "落とすときは丁寧なクレンジングが必要"
     recommendedFor: "屋外でのスポーツ・レジャーが多い方・絶対焼きたくない方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t269n.3rdw662f.g00t269n.3rdw745b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Farianakosume%2Fallie-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Farianakosume%2Fi%2F10006763%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/main-ariana/allie-001-ra-rk.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/main-ariana/allie-001-ra.jpg?_ex=128x128"
   - rank: 5
     name: "ラブミータッチ シルキーUVミルク 50g"
     brand: "ラブミータッチ"
@@ -134,7 +134,7 @@ products:
     capacity: "50g"
     pricePerUnit: "約62円/g"
     rating: 4.84
-    reviewCount: 3555
+    reviewCount: 3557
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmedlf%2F20094-025.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 3080
         rating: 4.75
         reviewCount: 16
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flesthemo%2Fbb-cream.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 2560
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lesthemo_bb-cream"
         available: true

@@ -4,7 +4,7 @@ description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-06-16
+updatedAt: "2026-06-17"
 draft: false
 products:
   - rank: 1
@@ -49,7 +49,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.77
-    reviewCount: 7561
+    reviewCount: 7565
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -106,7 +106,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約1.8円/枚"
     rating: 4.69
-    reviewCount: 4565
+    reviewCount: 4569
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -159,7 +159,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.3円/枚"
     rating: 4.84
-    reviewCount: 2652
+    reviewCount: 2653
     features:
       - "99.9%の純水成分で肌に優しい"
       - "厚手シートで吸収性が優れている"
@@ -191,8 +191,8 @@ products:
     price: 1920
     capacity: "54枚×15個"
     pricePerUnit: "約2.4円/枚"
-    rating: 4.61
-    reviewCount: 3783
+    rating: 4.62
+    reviewCount: 3786
     features:
       - "菌を99.9%除去する除菌処理"
       - "厚手タイプで吸収性が高い"
@@ -225,7 +225,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.41
-    reviewCount: 1616
+    reviewCount: 1618
     features:
       - "トイレに流せる素材で処理が簡単"
       - "菌を99.9%除去する除菌効果"
@@ -258,7 +258,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.55
-    reviewCount: 362
+    reviewCount: 363
     features:
       - "純水99.9%で肌に優しい処方"
       - "流せるシートで処理が簡単"
@@ -278,10 +278,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe241.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-06-17"
         price: 2120
-        rating: 4.6
-        reviewCount: 1024
+        rating: 4.61
+        reviewCount: 1026
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
   - rank: 10
@@ -291,7 +291,7 @@ products:
     capacity: "56枚×12個（672枚）"
     pricePerUnit: "約4.7円/枚"
     rating: 4.79
-    reviewCount: 2877
+    reviewCount: 2879
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -306,6 +306,17 @@ products:
     recommendedFor: "おしりふきをまとめて備えておきたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2Fa62839xxx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10023241%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/821/403821.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcherubin-shopp%2Fks058ad589c4.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-17"
+        price: 2978
+        rating: 4.5
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cherubin-shopp_ks058ad589c4"
+        available: true
 tags:
   - "おしりふき おすすめ"
   - "おしりふき コスパ"

@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset-eva340.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 1880
         rating: 4.49
         reviewCount: 1936

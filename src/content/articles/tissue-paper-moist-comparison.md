@@ -110,8 +110,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fazzurro%2F10043328.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-16"
+        matchStatus: "matched"
+        updatedAt: "2026-06-17"
         price: 947
         rating: 0
         reviewCount: 0
@@ -144,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758946401-1-d.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 391
         rating: 0
         reviewCount: 2
@@ -219,13 +219,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-w001-4901988104055.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenkoo-life%2F101-31526.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-16"
-        price: 123
+        updatedAt: "2026-06-17"
+        price: 134
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-w001-4901988104055"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenkoo-life_101-31526"
         available: true
   - rank: 9
     name: "鼻セレブティッシュ 3個パック"
@@ -276,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhanpark%2F888808.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 798
         rating: 0
         reviewCount: 2

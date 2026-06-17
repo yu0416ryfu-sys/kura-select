@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fearth2001%2Fwp-003.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-17"
         price: 2139
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/earth2001_wp-003"
         available: true
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flibertylife%2Fb-epsom-05.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-17"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/libertylife_b-epsom-05"
         available: true
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuisosum%2Fh-and-750.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 3800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/suisosum_h-and-750"
         available: true
@@ -185,14 +185,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsolotta%2F50988.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpotch7%2F10000800.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-16"
-        price: 3740
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/solotta_50988"
+        updatedAt: "2026-06-17"
+        price: 4950
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/potch7_10000800"
         available: true
-        rating: 4.71
-        reviewCount: 115
+        rating: 4.7
+        reviewCount: 84
   - rank: 7
     name: "あまおういちご 入浴剤 26個セット"
     brand: "湯屋の手土産"

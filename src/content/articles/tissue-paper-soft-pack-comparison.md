@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: 2026-06-16
+updatedAt: 2026-06-17
 draft: false
 products:
   - rank: 1

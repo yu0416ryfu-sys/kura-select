@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F373600.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 12980
         rating: 4.53
         reviewCount: 30
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4902534799398.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 2558
         rating: 0
         reviewCount: 0
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901670109634.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 702
         rating: 4
         reviewCount: 4
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Far-06018k.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 21390
         rating: 0
         reviewCount: 0

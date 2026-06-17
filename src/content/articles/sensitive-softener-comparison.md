@@ -4,7 +4,7 @@ description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹
 category: "fabric-softener"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-06-16
+updatedAt: "2026-06-17"
 products:
   - rank: 1
     name: "ランドリン 柔軟剤 詰め替えアソートセット 9個入り"
@@ -34,8 +34,8 @@ products:
     price: 6180
     capacity: "1350ml×6袋"
     pricePerUnit: "約0.76円/ml"
-    rating: 4.77
-    reviewCount: 93
+    rating: 4.78
+    reviewCount: 94
     features:
       - "植物由来成分配合の低刺激処方"
       - "着色料無添加"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-13"
+        updatedAt: "2026-06-17"
         price: 1040
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902135322537-73-30000839"
         available: true
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffitsonlinestore%2Flds-softset3.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-17"
         price: 3234
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fitsonlinestore_lds-softset3"
         available: true
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469490579-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-17"
         price: 5214
         rating: 4.88
         reviewCount: 344
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469490586-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-17"
         price: 5214
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469490586-5"
         available: true
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469492764-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-17"
         price: 5214
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469492764-5"
         available: true
@@ -274,8 +274,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469501688-5.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-14"
+        matchStatus: "matched"
+        updatedAt: "2026-06-17"
         price: 5214
         rating: 4.9
         reviewCount: 30

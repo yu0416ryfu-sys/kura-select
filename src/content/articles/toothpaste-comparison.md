@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-06-16"
+updatedAt: "2026-06-17"
 products:
   - rank: 1
     name: "システマ ハグキプラス プレミアム 95g×4本セット"
@@ -35,7 +35,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 10946
+    reviewCount: 10949
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -55,12 +55,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F007.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 1298
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_007"
         available: true
-        rating: 4.3
-        reviewCount: 1048
+        rating: 4.31
+        reviewCount: 1049
   - rank: 3
     name: "キラルンペースト"
     brand: "RUKEN"
@@ -68,7 +68,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 10946
+    reviewCount: 10949
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -88,12 +88,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F007.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 1298
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_007"
         available: true
-        rating: 4.3
-        reviewCount: 1048
+        rating: 4.31
+        reviewCount: 1049
   - rank: 4
     name: "キラルン 2点ミニセット パウダー5g＋ペースト15g"
     brand: "RUKEN"
@@ -123,7 +123,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約22円/g"
     rating: 4.47
-    reviewCount: 2227
+    reviewCount: 2228
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F008.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 1254
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_008"
         available: true
@@ -198,7 +198,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F34284.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 3020
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_34284"
         available: true

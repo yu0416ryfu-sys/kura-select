@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつ9製品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: 2026-06-16
+updatedAt: "2026-06-17"
 products:
   - rank: 1
     name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚 旧パッケージ"
@@ -110,12 +110,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-17"
         price: 6688
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true
-        rating: 4.74
-        reviewCount: 50
+        rating: 4.75
+        reviewCount: 51
   - rank: 5
     name: "パンパース テープ Sサイズ 74枚×4袋"
     brand: "P&G（パンパース）"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134295-case.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-17"
         price: 7020
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134295-case"
         available: true
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4903111569786-4.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-17"
         price: 8316
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4903111569786-4"
         available: true
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02650.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-17"
         price: 4449
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos02650"
         available: true
@@ -254,8 +254,8 @@ products:
     price: 9156
     capacity: "84枚/4パック"
     pricePerUnit: "約109円/枚"
-    rating: 4.67
-    reviewCount: 3886
+    rating: 4.68
+    reviewCount: 3887
     features:
       - "全面通気性に優れたエアスルー素材採用"
       - "360度フィットで漏れを防止"

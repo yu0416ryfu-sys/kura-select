@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-06-16"
+updatedAt: 2026-06-17
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ"
@@ -174,9 +174,9 @@ products:
   - rank: 7
     name: "ライフリー テープ止めおむつ のび〜るフィット"
     brand: "ユニ・チャーム（ライフリー）"
-    price: 2398
+    price: 2516
     capacity: "22枚（S-Mサイズ対応）"
-    pricePerUnit: "約109円/枚"
+    pricePerUnit: "約114円/枚"
     rating: 4.78
     reviewCount: 23
     features:

@@ -4,7 +4,7 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-06-16"
+updatedAt: "2026-06-17"
 draft: false
 products:
   - rank: 1
@@ -113,7 +113,7 @@ products:
     capacity: "45m"
     pricePerUnit: "約35円/m"
     rating: 4.65
-    reviewCount: 1110
+    reviewCount: 1111
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -288,7 +288,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4973227306025.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-13"
+        updatedAt: "2026-06-17"
         price: 289
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4973227306025"
         available: true
@@ -321,7 +321,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 247
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
         available: true

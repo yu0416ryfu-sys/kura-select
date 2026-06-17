@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-16"
+updatedAt: "2026-06-17"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180757-4.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 3699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4901730180757-4"
         available: true
@@ -79,7 +79,7 @@ products:
     capacity: "6000ml"
     pricePerUnit: "約0.99円/ml"
     rating: 4.77
-    reviewCount: 345
+    reviewCount: 346
     features:
       - "多機能タイプの薬用マウスウォッシュ"
       - "クリーンミント味の液体タイプ"
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180740-6.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 5198
         rating: 0
         reviewCount: 2
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901080248619.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 1039
         rating: 0
         reviewCount: 1
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901616010888.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-17"
         price: 1058
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4901616010888"
         available: true
@@ -287,8 +287,8 @@ products:
     price: 2200
     capacity: "100mL（約700回分）"
     pricePerUnit: "約22円/mL"
-    rating: 4.75
-    reviewCount: 567
+    rating: 4.76
+    reviewCount: 568
     features:
       - "歯科医院で推奨される薬用マウスウォッシュ"
       - "グルコン酸クロルヘキシジン配合で高い殺菌力"
