@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-16"
+updatedAt: "2026-06-18"
 products:
   - rank: 1
     name: "ライオン チェックアップ コドモ アップル 60g"
@@ -12,8 +12,8 @@ products:
     price: 330
     capacity: "60g"
     pricePerUnit: "約5.5円/g"
-    rating: 4.72
-    reviewCount: 18
+    rating: 4.74
+    reviewCount: 19
     features:
       - "フッ素950ppmF配合でむし歯予防を訴求する子ども用歯磨き粉"
       - "歯科専売品として設計されたチェックアップシリーズ"
@@ -198,7 +198,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902508104463.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-18"
         price: 485
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902508104463"
         available: true
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffromcocoro%2Fy-yurabub-n1.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-18"
         price: 4680
         rating: 0
         reviewCount: 0

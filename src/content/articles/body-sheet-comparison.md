@@ -32,13 +32,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4550516475473.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmebox%2Fj4550516475473.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-17"
-        price: 458
-        rating: 5
-        reviewCount: 4
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4550516475473"
+        updatedAt: "2026-06-18"
+        price: 457
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosmebox_j4550516475473"
         available: true
   - rank: 2
     name: "エージーデオ24 デオドラント ボディシート"
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F612-8545-103.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-18"
         price: 1259
         rating: 0
         reviewCount: 0
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkusurinofukutaro%2F10164409.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-18"
         price: 378
         rating: 0
         reviewCount: 1

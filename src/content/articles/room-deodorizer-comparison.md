@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fg-sarai%2F10000080.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-18"
         price: 6996
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/g-sarai_10000080"
         available: true

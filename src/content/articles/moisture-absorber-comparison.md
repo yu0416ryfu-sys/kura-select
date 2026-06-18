@@ -4,7 +4,7 @@ description: "除湿剤を吸湿量あたりのコストで徹底比較。水と
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-06-17
+updatedAt: 2026-06-18
 products:
   - rank: 1
     name: "炭八 室内用"
@@ -189,7 +189,7 @@ products:
     capacity: "5個"
     pricePerUnit: "約660円/個"
     rating: 4.61
-    reviewCount: 5153
+    reviewCount: 5154
     features:
       - "湿気対策に使える除湿・調湿アイテム"
       - "クローゼットや押入れに置きやすい"

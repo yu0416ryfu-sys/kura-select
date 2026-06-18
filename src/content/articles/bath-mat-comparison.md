@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-06-17
+updatedAt: "2026-06-18"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftaorunomori%2F10001288.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-18"
         price: 990
         rating: 4.43
         reviewCount: 205
@@ -71,7 +71,7 @@ products:
     capacity: "45×65cm 1枚"
     pricePerUnit: "約1000円/枚"
     rating: 4.39
-    reviewCount: 1334
+    reviewCount: 1337
     features:
       - "綿100%で肌に優しい"
       - "パイル生地で吸水性に優れた設計"
@@ -106,7 +106,7 @@ products:
     capacity: "40×60cm / 50×80cm 1枚"
     pricePerUnit: "約1690円/枚"
     rating: 4.65
-    reviewCount: 3221
+    reviewCount: 3227
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"
@@ -150,8 +150,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbroome%2F0215-0212-0101.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
-        price: 1800
+        updatedAt: "2026-06-18"
+        price: 2290
         rating: 4.53
         reviewCount: 281
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/broome_0215-0212-0101"
@@ -183,7 +183,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fm-rug%2F712421510.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-18"
         price: 4400
         rating: 4.62
         reviewCount: 302
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F49149.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-18"
         price: 9900
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_49149"
         available: true
@@ -251,7 +251,7 @@ products:
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
     rating: 4.43
-    reviewCount: 2544
+    reviewCount: 2545
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

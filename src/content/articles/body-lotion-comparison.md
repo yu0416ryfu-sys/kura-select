@@ -4,13 +4,13 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-06-17"
+updatedAt: 2026-06-18
 draft: false
 products:
   - rank: 1
     name: "ヴァセリン アドバンスドリペア ボディローション 500ml×3本 フェイス ボディ"
     brand: "ヴァセリン"
-    price: 2278
+    price: 2248
     capacity: "500ml×3"
     pricePerUnit: "約1.5円/mL"
     rating: 4.76

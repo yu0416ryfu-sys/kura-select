@@ -4,7 +4,7 @@ description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-18"
 draft: false
 products:
   - rank: 1
@@ -49,7 +49,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.77
-    reviewCount: 7565
+    reviewCount: 7567
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -106,7 +106,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約1.8円/枚"
     rating: 4.69
-    reviewCount: 4569
+    reviewCount: 4573
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -192,7 +192,7 @@ products:
     capacity: "54枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.62
-    reviewCount: 3786
+    reviewCount: 3793
     features:
       - "菌を99.9%除去する除菌処理"
       - "厚手タイプで吸収性が高い"
@@ -278,10 +278,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe241.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-18"
         price: 2120
         rating: 4.61
-        reviewCount: 1026
+        reviewCount: 1027
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
   - rank: 10
@@ -309,13 +309,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcherubin-shopp%2Fks058ad589c4.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshopearisu%2Fesa69463cc27.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-18"
         price: 2978
-        rating: 4.5
-        reviewCount: 6
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cherubin-shopp_ks058ad589c4"
+        rating: 5
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shopearisu_esa69463cc27"
         available: true
 tags:
   - "おしりふき おすすめ"

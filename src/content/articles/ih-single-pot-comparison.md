@@ -4,7 +4,7 @@ description: "IH対応の一人用鍋を16cm・18cm中心に11製品比較。卓
 category: "cooking-pot"
 publishedAt: "2026-05-10"
 articleType: "comparison"
-updatedAt: 2026-06-17
+updatedAt: 2026-06-18
 draft: false
 products:
   - rank: 1
@@ -30,13 +30,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6ucn.3rdw657d.g00u6ucn.3rdw7da4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvisionshop%2Ffyp-mp091%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvisionshop%2Fi%2F10000667%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/visionshop/cabinet/fyp/fyp-mp091-b.jpg?_ex=128x128"
   - rank: 2
-    name: "卓上鍋 16cm IH対応 軽量 蓋付き プチなべ"
+    name: "プチなべ IH対応 卓上鍋 蓋付き"
     brand: "和平フレイズ"
-    price: 2740
+    price: 2680
     capacity: "16cm / 1個"
     pricePerUnit: "1個あたり約2,740円"
-    rating: 0
-    reviewCount: 0
+    rating: 4.46
+    reviewCount: 13
     features:
       - "IH・ガス火両対応の16cm卓上鍋"
       - "内面はセラミック塗膜加工"
@@ -49,8 +49,8 @@ products:
       - "食器洗い乾燥機は使用不可"
       - "大きめの具材を多く入れる用途には小さめ"
     recommendedFor: "一人暮らしで卓上鍋をコンパクトに使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F462342%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10207571%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_wahei10/462342.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgo8n.3rdw65ec.g00tgo8n.3rdw717e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstore-marufuku%2Fadaq-a76076%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstore-marufuku%2Fi%2F10012869%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/store-marufuku/cabinet/shohin/tanaka7/adaq-a76076_1.jpg?_ex=128x128"
   - rank: 3
     name: "卓上鍋 18cm IH対応 軽量 蓋付き プチなべ"
     brand: "和平フレイズ"
@@ -76,7 +76,7 @@ products:
   - rank: 4
     name: "パール金属 おうち御膳 すきやき鍋 18cm HB-6603"
     brand: "パール金属"
-    price: 1210
+    price: 1540
     capacity: "18cm / 約1.3L"
     pricePerUnit: "1個あたり約2,490円"
     rating: 0

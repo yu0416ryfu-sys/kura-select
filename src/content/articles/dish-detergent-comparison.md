@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりで比較。ジョイ、キュキュ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-18"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F501277.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-18"
         price: 1637
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_501277"
         available: true
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F10053002.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-18"
         price: 6956
         rating: 0
         reviewCount: 1
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9847345.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-18"
         price: 2980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9847345"
         available: true
@@ -112,7 +112,7 @@ products:
     capacity: "1250mL×6本"
     pricePerUnit: "約0.67円/mL"
     rating: 4.74
-    reviewCount: 518
+    reviewCount: 519
     features:
       - "花王独自の界面活性剤で油汚れをすっきり落とす"
       - "詰め替え大容量でコスパ優秀"
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301429148.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-18"
         price: 5035
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301429148"
         available: true
@@ -145,7 +145,7 @@ products:
     capacity: "4L"
     pricePerUnit: "約0.68円/mL"
     rating: 4.82
-    reviewCount: 49
+    reviewCount: 50
     features:
       - "コンパクト処方で少量でもよく落ちる"
       - "食洗機非対応・手洗い専用設計"
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcooking-clocca%2Fsomali-40542.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-18"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cooking-clocca_somali-40542"
         available: true
