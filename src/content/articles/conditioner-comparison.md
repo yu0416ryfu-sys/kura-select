@@ -4,7 +4,7 @@ description: "コンディショナーを1mLあたりのコストで徹底比較
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-18"
+updatedAt: "2026-06-20"
 products:
   - rank: 1
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffreefeel%2Fdmml006226x006240.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-20"
         price: 3880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/freefeel_dmml006226x006240"
         available: true
@@ -167,7 +167,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約35円/mL"
     rating: 4.76
-    reviewCount: 1556
+    reviewCount: 1560
     features:
       - "くせ毛・広がりケア向けのトリートメントマスク"
       - "インバスで使うヘアマスク"
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisopo%2F3474636636761-01.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-20"
         price: 7040
         rating: 4.96
         reviewCount: 23
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftuuhan-tamashop%2F4902111773926.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-20"
         price: 360
         rating: 0
         reviewCount: 0
@@ -247,13 +247,13 @@ products:
       - "350gと小容量のため頻繁な購入が必要"
     recommendedFor: "カラーやパーマで傷んだ髪の方・毎週のヘアケアを強化したい方・サロン品質のケアを自宅で行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhsmn.3rdw6c67.g00qhsmn.3rdw791a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftuyakami%2F10002319%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftuyakami%2Fi%2F10002319%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tuyakami/cabinet/goq007/imgrc0182672265.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tuyakami/cabinet/goq003/36191_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk0602-a2510.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-20"
         price: 1556
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk0602-a2510"
         available: true

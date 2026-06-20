@@ -4,7 +4,7 @@ description: "制汗剤・デオドラントを容量あたりのコストで比
 category: "deodorant"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-06-18
+updatedAt: "2026-06-20"
 products:
   - rank: 1
     name: "Ban 汗ブロックロールオン プレミアムゴールドラベル 40mL"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foosaki%2F4903301300336.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-20"
         price: 7810
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oosaki_4903301300336"
         available: true
@@ -46,7 +46,7 @@ products:
     capacity: "75mL"
     pricePerUnit: "約66円/mL"
     rating: 4.72
-    reviewCount: 670
+    reviewCount: 671
     features:
       - "メンズ向けのロールオン制汗デオドラント"
       - "汗やニオイが気になるワキに直接塗れる"
@@ -60,7 +60,7 @@ products:
       - "広範囲に素早く使うならスプレーの方が楽"
     recommendedFor: "男性向けのロールオン制汗剤を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s54yn.3rdw6a20.g00s54yn.3rdw7634/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclinique%2F6933%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclinique%2Fi%2F10000172%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/clinique/cabinet/thumb/2026_normal/6933.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/clinique/cabinet/thumb/260620_mara_p2/6933.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -79,7 +79,7 @@ products:
     capacity: "30mL"
     pricePerUnit: "約110円/mL"
     rating: 4.4
-    reviewCount: 2129
+    reviewCount: 2130
     features:
       - "ジェルクリームタイプのワキ向けデオドラント"
       - "子どもから大人まで使いやすい設計"
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhigh-touch%2Fqdeo-0001-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-20"
         price: 3300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/high-touch_qdeo-0001-a"
         available: true
@@ -112,7 +112,7 @@ products:
     capacity: "30mL"
     pricePerUnit: "約110円/mL"
     rating: 4.51
-    reviewCount: 413
+    reviewCount: 414
     features:
       - "ロールオンで塗れるジェルクリームタイプ"
       - "手を汚しにくくワキへ直塗りしやすい"
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhigh-touch%2Fqdeo-0010.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-20"
         price: 3300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/high-touch_qdeo-0010"
         available: true
@@ -145,7 +145,7 @@ products:
     capacity: "20mL×2個"
     pricePerUnit: "約133円/mL"
     rating: 4.31
-    reviewCount: 683
+    reviewCount: 685
     features:
       - "敏感肌向けのロールオン制汗デオドラント"
       - "無香料で使いやすい海外製アイテム"
@@ -167,7 +167,7 @@ products:
     capacity: "20mL×2個"
     pricePerUnit: "約133円/mL"
     rating: 4.41
-    reviewCount: 483
+    reviewCount: 484
     features:
       - "オリジナルタイプのロールオン制汗デオドラント"
       - "無香料で汗とニオイのケアに使いやすい"
@@ -264,7 +264,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F7250013.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-20"
         price: 1270
         rating: 0
         reviewCount: 0
@@ -297,7 +297,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbenkyoudou%2Fyo-yumail-4580392000254.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-20"
         price: 1800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/benkyoudou_yo-yumail-4580392000254"
         available: true

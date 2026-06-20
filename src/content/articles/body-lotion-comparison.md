@@ -4,17 +4,17 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: 2026-06-18
+updatedAt: "2026-06-20"
 draft: false
 products:
   - rank: 1
     name: "ヴァセリン アドバンスドリペア ボディローション 500ml×3本 フェイス ボディ"
     brand: "ヴァセリン"
-    price: 2248
+    price: 2278
     capacity: "500ml×3"
     pricePerUnit: "約1.5円/mL"
-    rating: 4.76
-    reviewCount: 140
+    rating: 4.77
+    reviewCount: 141
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301342416.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-20"
         price: 618
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301342416"
         available: true
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4560119225856.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-20"
         price: 1097
         rating: 4.56
         reviewCount: 25
@@ -109,9 +109,9 @@ products:
   - rank: 4
     name: "エリザベスアーデン グリーンティー ボディローション"
     brand: "Elizabeth Arden（エリザベスアーデン）"
-    price: 1880
+    price: 1680
     capacity: "500mL"
-    pricePerUnit: "約3.8円/mL"
+    pricePerUnit: "約3.4円/mL"
     rating: 4.44
     reviewCount: 1023
     features:
@@ -133,8 +133,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbettysbeauty%2F10910012.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
-        price: 1506
+        updatedAt: "2026-06-20"
+        price: 1508
         rating: 4.49
         reviewCount: 150
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bettysbeauty_10910012"
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4971710568530.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-20"
         price: 2028
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4971710568530"
         available: true
@@ -221,10 +221,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10161795.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-20"
         price: 2899
-        rating: 4.7
-        reviewCount: 30
+        rating: 4.71
+        reviewCount: 31
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10161795"
         available: true
   - rank: 8
@@ -256,7 +256,7 @@ products:
     capacity: "300ml"
     pricePerUnit: "約14円/mL"
     rating: 4.7
-    reviewCount: 2933
+    reviewCount: 2934
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F56770.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-20"
         price: 2280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_56770"
         available: true

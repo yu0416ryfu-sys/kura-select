@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-06-18"
+updatedAt: "2026-06-20"
 draft: false
 products:
   - rank: 1
@@ -43,7 +43,7 @@ products:
   - rank: 2
     name: "ロイヤルカナン インドア 成猫用"
     brand: "ロイヤルカナン"
-    price: 13948
+    price: 13944
     capacity: "10kg"
     pricePerUnit: "約1.4円/g"
     rating: 4.73
@@ -107,11 +107,77 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/familypet_52905133"
         available: true
   - rank: 4
+    name: "ロイヤルカナン キトン"
+    brand: "ロイヤルカナン"
+    price: 3979
+    capacity: "2kg"
+    pricePerUnit: "約2.0円/g"
+    rating: 4.73
+    reviewCount: 534
+    features:
+      - "猫向けのドライフードとして使いやすい設計"
+      - "年齢や生活環境に合わせて選びやすいライン"
+      - "保存しやすい袋入り・大容量タイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9214398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10000603%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/logo/9214398_e-net.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687270.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-18"
+        price: 4006
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687270"
+        available: true
+        rating: 4.75
+        reviewCount: 864
+  - rank: 5
+    name: "ニュートロ ナチュラルチョイス キャット"
+    brand: "ニュートロ"
+    price: 3980
+    capacity: "2kg"
+    pricePerUnit: "約2.0円/g"
+    rating: 4.67
+    reviewCount: 811
+    features:
+      - "猫向けのドライフードとして使いやすい設計"
+      - "年齢や生活環境に合わせて選びやすいライン"
+      - "保存しやすい袋入り・大容量タイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q36gn.3rdw6dbe.g00q36gn.3rdw737d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnyanzaq%2Fmtm0061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnyanzaq%2Fi%2F10140829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nyanzaq/cabinet/534/404534.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2Fnutrocat0102.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-18"
+        price: 4080
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_nutrocat0102"
+        available: true
+        rating: 4.62
+        reviewCount: 13
+  - rank: 6
     name: "ロイヤルカナン インドア 4kg"
     brand: "ロイヤルカナン"
-    price: 6199
+    price: 12138
     capacity: "4kg"
-    pricePerUnit: "約1.5円/g"
+    pricePerUnit: "約3.0円/g"
     rating: 4.64
     reviewCount: 669
     features:
@@ -139,72 +205,6 @@ products:
         available: true
         rating: 4.75
         reviewCount: 1380
-  - rank: 5
-    name: "ロイヤルカナン キトン"
-    brand: "ロイヤルカナン"
-    price: 3979
-    capacity: "2kg"
-    pricePerUnit: "約2.0円/g"
-    rating: 4.73
-    reviewCount: 533
-    features:
-      - "猫向けのドライフードとして使いやすい設計"
-      - "年齢や生活環境に合わせて選びやすいライン"
-      - "保存しやすい袋入り・大容量タイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9214398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10000603%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/logo/9214398_e-net.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687270.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-18"
-        price: 4006
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687270"
-        available: true
-        rating: 4.75
-        reviewCount: 864
-  - rank: 6
-    name: "ニュートロ ナチュラルチョイス キャット"
-    brand: "ニュートロ"
-    price: 3980
-    capacity: "2kg"
-    pricePerUnit: "約2.0円/g"
-    rating: 4.67
-    reviewCount: 808
-    features:
-      - "猫向けのドライフードとして使いやすい設計"
-      - "年齢や生活環境に合わせて選びやすいライン"
-      - "保存しやすい袋入り・大容量タイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q36gn.3rdw6dbe.g00q36gn.3rdw737d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnyanzaq%2Fmtm0061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnyanzaq%2Fi%2F10140829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nyanzaq/cabinet/534/404534.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2Fnutrocat0102.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-18"
-        price: 4080
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_nutrocat0102"
-        available: true
-        rating: 4.62
-        reviewCount: 13
   - rank: 7
     name: "ナチュラルバランス オリジナルウルトラ"
     brand: "Natural Balance"
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetoukoku%2F42.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-20"
         price: 10670
         rating: 4.85
         reviewCount: 20
@@ -320,7 +320,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4902201210980.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-13"
+        updatedAt: "2026-06-20"
         price: 3069
         rating: 0
         reviewCount: 0

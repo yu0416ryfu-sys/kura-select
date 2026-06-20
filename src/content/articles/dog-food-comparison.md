@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-06-18"
+updatedAt: "2026-06-20"
 draft: false
 products:
   - rank: 1
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F0019014614196.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-20"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_0019014614196"
         available: true
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwannyan%2F9763052.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-20"
         price: 21529
         rating: 4.83
         reviewCount: 12
@@ -166,7 +166,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoji%2F3182550746076-s.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-20"
         price: 17226
         rating: 0
         reviewCount: 0
@@ -175,9 +175,9 @@ products:
   - rank: 6
     name: "ロイヤルカナン ダックスフンド 成犬用"
     brand: "ロイヤルカナン"
-    price: 5068
+    price: 5057
     capacity: "3kg"
-    pricePerUnit: "約1689円/kg"
+    pricePerUnit: "約1686円/kg"
     rating: 4.69
     reviewCount: 168
     features:
@@ -199,8 +199,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
-        price: 5260
+        updatedAt: "2026-06-20"
+        price: 5066
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
         rating: 4.5
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-20"
         price: 8980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
@@ -245,7 +245,7 @@ products:
     capacity: "3kg"
     pricePerUnit: "約1943円/kg"
     rating: 4.68
-    reviewCount: 2392
+    reviewCount: 2393
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -259,16 +259,16 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q1mvn.3rdw675d.g00q1mvn.3rdw735a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogparadise%2F4562192370942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogparadise%2Fi%2F10004845%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/artemis/0813369001904.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/ad_cart/math/01/0813369001904.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F0813369001904.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-20"
         price: 5830
         rating: 4.72
-        reviewCount: 97
+        reviewCount: 98
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_0813369001904"
         available: true
   - rank: 9
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600a.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-20"
         price: 3000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600a"
         available: true

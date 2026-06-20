@@ -4,7 +4,7 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-06-18"
+updatedAt: "2026-06-20"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "250m"
     pricePerUnit: "約12円/m"
     rating: 4.69
-    reviewCount: 480
+    reviewCount: 481
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -34,12 +34,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-20"
         price: 3278
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true
         rating: 4.77
-        reviewCount: 339
+        reviewCount: 340
   - rank: 2
     name: "オーラルケア フロアフロス 250m 歯科専売品 fluorfloss"
     brand: "楽天市場"
@@ -47,7 +47,7 @@ products:
     capacity: "250m"
     pricePerUnit: "約12円/m"
     rating: 4.76
-    reviewCount: 546
+    reviewCount: 549
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -67,12 +67,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-20"
         price: 3278
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true
         rating: 4.77
-        reviewCount: 339
+        reviewCount: 340
   - rank: 3
     name: "オーラルケア フロアフロス 250m 歯科専売品 fluorfloss"
     brand: "楽天市場"
@@ -113,7 +113,7 @@ products:
     capacity: "45m"
     pricePerUnit: "約35円/m"
     rating: 4.65
-    reviewCount: 1111
+    reviewCount: 1113
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -146,7 +146,7 @@ products:
     capacity: "2m×6個"
     pricePerUnit: "約183円/m"
     rating: 4.68
-    reviewCount: 459
+    reviewCount: 460
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -180,7 +180,7 @@ products:
     capacity: "30本×4個"
     pricePerUnit: "約9.2円/本"
     rating: 4.81
-    reviewCount: 316
+    reviewCount: 317
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

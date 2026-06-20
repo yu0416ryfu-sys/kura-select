@@ -4,31 +4,9 @@ description: "柔軟剤を容量あたりのコストで比較。大容量タイ
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-06-16"
+updatedAt: "2026-06-20"
 products:
   - rank: 1
-    name: "メキシコダウニー アロマフローラル 8.5L×2本"
-    brand: "Downy"
-    price: 7800
-    capacity: "8.5L×2本（17L）"
-    pricePerUnit: "約0.46円/mL"
-    rating: 4.6
-    reviewCount: 5
-    features:
-      - "洗濯時に使う柔軟仕上げ剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "香りや仕上がりの好みに合わせやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "香りの強さは好みが分かれやすい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "香りや仕上がりの好みに合わせやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t9zhn.3rdw6489.g00t9zhn.3rdw7b74/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarusanstore%2F301917-2a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarusanstore%2Fi%2F10000525%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marusanstore/cabinet/conveniencegoods/301917/301917-2r.jpg?_ex=128x128"
-  - rank: 2
     name: "ダウニー メキシコダウニー アロマフローラル 8.8.5L×2本 2本セット"
     brand: "Downy"
     price: 7900
@@ -61,12 +39,34 @@ products:
         reviewCount: 824
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/takuhaibin_i9414891"
         available: true
+  - rank: 2
+    name: "メキシコダウニー アロマフローラル 8.5L×2本"
+    brand: "Downy"
+    price: 9000
+    capacity: "8.5L×2本（17L）"
+    pricePerUnit: "約0.53円/mL"
+    rating: 4.6
+    reviewCount: 5
+    features:
+      - "洗濯時に使う柔軟仕上げ剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "香りや仕上がりの好みに合わせやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りの強さは好みが分かれやすい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "香りや仕上がりの好みに合わせやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t9zhn.3rdw6489.g00t9zhn.3rdw7b74/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarusanstore%2F301917-2a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarusanstore%2Fi%2F10000525%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marusanstore/cabinet/conveniencegoods/301917/301917-2r.jpg?_ex=128x128"
   - rank: 3
     name: "メキシコダウニー アロマフローラル 8.8.8.8.8.8.5L"
     brand: "Downy"
-    price: 4400
+    price: 4800
     capacity: "8.5L"
-    pricePerUnit: "約0.52円/mL"
+    pricePerUnit: "約0.56円/mL"
     rating: 5
     reviewCount: 2
     features:
@@ -154,12 +154,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9590768.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-20"
         price: 6580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9590768"
         available: true
         rating: 4.74
-        reviewCount: 223
+        reviewCount: 224
   - rank: 6
     name: "ランドリン 柔軟剤 グッドティータイム"
     brand: "ランドリン（Laundrin）"
@@ -185,7 +185,7 @@ products:
   - rank: 7
     name: "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え"
     brand: "P&G（レノア）"
-    price: 3007
+    price: 3020
     capacity: "1260mL"
     pricePerUnit: "約2.4円/mL"
     rating: 4.4
@@ -209,8 +209,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b07bdlfd98-20260329.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
-        price: 2864
+        updatedAt: "2026-06-20"
+        price: 2877
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b07bdlfd98-20260329"
         available: true
         rating: 0

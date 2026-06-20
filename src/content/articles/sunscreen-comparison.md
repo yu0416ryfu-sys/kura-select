@@ -4,7 +4,7 @@ description: "日焼け止めを1mLあたりのコストで徹底比較。ビオ
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-06-18
+updatedAt: "2026-06-20"
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -45,8 +45,8 @@ products:
     price: 975
     capacity: "125g"
     pricePerUnit: "約7.8円/g"
-    rating: 4.79
-    reviewCount: 14
+    rating: 4.8
+    reviewCount: 15
     features:
       - "大容量160gでたっぷり使えるポンプタイプ"
       - "ジェルタイプで伸びが良くベタつかない"
@@ -75,9 +75,9 @@ products:
   - rank: 3
     name: "ビオレUV アクアリッチ ウォータリーエッセンス 120g"
     brand: "花王（ビオレ）"
-    price: 1159
+    price: 1211
     capacity: "120g"
-    pricePerUnit: "約9.7円/g"
+    pricePerUnit: "約10円/g"
     rating: 4.75
     reviewCount: 4
     features:
@@ -126,15 +126,15 @@ products:
       - "落とすときは丁寧なクレンジングが必要"
     recommendedFor: "屋外でのスポーツ・レジャーが多い方・絶対焼きたくない方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t269n.3rdw662f.g00t269n.3rdw745b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Farianakosume%2Fallie-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Farianakosume%2Fi%2F10006763%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/main-ariana/allie-001-ra.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/marason-ariana/allie-001-ra.jpg?_ex=128x128"
   - rank: 5
     name: "ラブミータッチ シルキーUVミルク 50g"
     brand: "ラブミータッチ"
     price: 3080
     capacity: "50g"
     pricePerUnit: "約62円/g"
-    rating: 4.84
-    reviewCount: 3559
+    rating: 4.85
+    reviewCount: 3572
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flesthemo%2Fbb-cream.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-20"
         price: 2560
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lesthemo_bb-cream"
         available: true
