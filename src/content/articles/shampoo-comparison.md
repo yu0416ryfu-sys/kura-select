@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-21"
+updatedAt: 2026-06-22
 products:
   - rank: 1
     name: "パンテーン シャンプー 詰め替え エクストラダメージケア"
@@ -194,13 +194,13 @@ products:
         rating: 4.5
         reviewCount: 6
   - rank: 7
-    name: "ケラスターゼ バン ニュートリ フォーティファイ"
+    name: "ケラスターゼ バン ニュートリ フォーティファイ 250mL"
     brand: "ケラスターゼ"
     price: 4180
-    capacity: "250ml"
+    capacity: "250mL"
     pricePerUnit: "約17円/mL"
-    rating: 4.63
-    reviewCount: 262
+    rating: 4.83
+    reviewCount: 70
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -213,8 +213,8 @@ products:
       - "髪質や頭皮との相性確認が必要"
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fgn-bainnutri_250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000151%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/gn-bainnutri_250/2102_01.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tb7ln.3rdw6489.g00tb7ln.3rdw7c17/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falbumec%2F3474636858033%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falbumec%2Fi%2F10001616%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albumec/cabinet/shohin01/kerastase/gn/imgrc0113945184.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

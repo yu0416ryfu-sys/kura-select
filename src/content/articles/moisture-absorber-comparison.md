@@ -4,7 +4,7 @@ description: "除湿剤を吸湿量あたりのコストで徹底比較。水と
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-06-21
+updatedAt: 2026-06-22
 products:
   - rank: 1
     name: "炭八 室内用"

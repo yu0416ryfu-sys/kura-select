@@ -4,7 +4,7 @@ description: "父の日に贈りやすい実用ギフトを比較。名入れボ
 category: "gift"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-06-17"
+updatedAt: 2026-06-22
 draft: false
 products:
   - rank: 1
@@ -69,7 +69,7 @@ products:
     capacity: "1本（ポリエステル100%）"
     pricePerUnit: "約2580円/本"
     rating: 5
-    reviewCount: 2
+    reviewCount: 3
     features:
       - "名前を刺繍で入れられるビジネスネクタイ"
       - "ブルー・ネイビー・レッド・グリーンなど複数カラーから選択"

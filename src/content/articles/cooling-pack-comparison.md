@@ -4,7 +4,7 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: 2026-06-21
+updatedAt: 2026-06-22
 products:
   - rank: 1
     name: "LOGOS 倍速凍結 氷点下パック"
