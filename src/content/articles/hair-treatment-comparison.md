@@ -216,28 +216,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fdp-masqor_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/itempage/dp-masqor_200/new_251121.jpg?_ex=128x128"
   - rank: 9
-    name: "スペシャルトリートメント マスク クロノロジスト 200mL"
-    brand: "ケラスターゼ"
-    price: 13200
-    capacity: "200mL"
-    pricePerUnit: "約66円/mL"
-    rating: 4.78
-    reviewCount: 1173
-    features:
-      - "エイジングケア特化のクロノロジストライン集中マスク"
-      - "ダメージ補修とエイジングケアを同時にアプローチする処方"
-      - "シャンプー後5〜10分放置して洗い流す集中トリートメントタイプ"
-    pros:
-      - "切れ毛・枝毛・ダメージに集中的にアプローチできる"
-      - "エイジングケアとダメージ補修を一度に行いたい方に適している"
-      - "クロノロジストシリーズと組み合わせて相乗効果が得られる"
-    cons:
-      - "サロン品質のため価格帯が高く、日常使いはコストがかかる"
-      - "同ラインの他製品と併用することが推奨されており単独使用では効果が限定的"
-    recommendedFor: "エイジングケアとダメージ補修を同時にしたい方・カラーやパーマで傷みが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fch-masqc_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/ch-masqc_200/260428new.jpg?_ex=128x128"
-  - rank: 10
     name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
     brand: "ファイントゥデイ（フィーノ）"
     price: 2321

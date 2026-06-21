@@ -41,28 +41,6 @@ products:
         rating: 0
         reviewCount: 0
   - rank: 2
-    name: "ストッキング水切り袋 浅型排水口用"
-    brand: "ナフコ"
-    price: 199
-    capacity: "50枚"
-    pricePerUnit: "約4.0円/枚"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00swq7n.3rdw6fcd.g00swq7n.3rdw7876/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnafco%2Fn21063275%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnafco%2Fi%2F10124064%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nafco/cabinet/item46/n21063275_1.jpg?_ex=128x128"
-  - rank: 3
     name: "水切りゴミ袋 浅型排水口用 ストッキングタイプ 100枚入 （ 水切りネット シンク"
     brand: "水切りゴミ袋"
     price: 438
@@ -95,7 +73,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 4
+  - rank: 3
     name: "システムポリマー ゴム付 不織布 水切り袋 浅型排水口用 100枚 水きりネット 三"
     brand: "システムポリマー"
     price: 492
@@ -128,7 +106,7 @@ products:
         available: true
         rating: 0
         reviewCount: 2
-  - rank: 5
+  - rank: 4
     name: "水切りネット 水切れ抜群 浅型 KS-05 100枚"
     brand: "びーんず"
     price: 548
@@ -161,7 +139,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 6
+  - rank: 5
     name: "ストッキング水切りネット 浅型 100枚"
     brand: "まるモール"
     price: 600
@@ -183,7 +161,7 @@ products:
     recommendedFor: "コスパ重視の方・シンプルな消耗品を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F14221%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10001327%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/kitchen/kitchen03/imgrc0112005200.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "カウコレ ストッキング水切り袋 浅型"
     brand: "カウネット"
     price: 958
@@ -216,7 +194,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 8
+  - rank: 7
     name: "水きりネット フィットネット 浅型・深型兼用 50枚入"
     brand: "びーんず"
     price: 358
@@ -238,7 +216,7 @@ products:
     recommendedFor: "浅型・深型どちらかわからない方・まず試してみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf4an.3rdw647e.g00qf4an.3rdw7c2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fra-beans%2F8300774%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fra-beans%2Fi%2F10015900%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/d2/8300774.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "水切りネット ごみとり物語 三角コーナー用 不織布 50枚入"
     brand: "びーんず"
     price: 358
@@ -271,7 +249,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 10
+  - rank: 9
     name: "ストリックスデザイン 水切りネット 抗菌 ストッキング 水切り袋 100枚 約32×"
     brand: "ストリックスデザイン"
     price: 944

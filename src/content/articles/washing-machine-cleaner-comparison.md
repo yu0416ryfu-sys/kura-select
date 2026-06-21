@@ -117,28 +117,6 @@ products:
         rating: 4.7
         reviewCount: 47
   - rank: 5
-    name: "シャボン玉 洗たく槽クリーナー 500g×2袋（2回分） 2袋セット"
-    brand: "シャボン玉石けん"
-    price: 1698
-    capacity: "500g×2袋（2回分）"
-    pricePerUnit: "約1.7円/g"
-    rating: 4.66
-    reviewCount: 845
-    features:
-      - "合成界面活性剤不使用の石けん系処方"
-      - "30〜40℃のぬるま湯で使用する酸素系クリーナー"
-      - "プラスチック製・ステンレス製両対応"
-    pros:
-      - "無添加処方を重視する方に向いている"
-      - "2袋セットでまとめ買いができる"
-      - "衣類や肌への成分残留が気になる方に選ばれやすい"
-    cons:
-      - "つけおき時間が必要で時間に余裕がある日向き"
-      - "50℃以上のお湯では使用不可のため温度管理が必要"
-    recommendedFor: "無添加・石けん派の方・まとめ買いで節約したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qnb0n.3rdw67eb.g00qnb0n.3rdw74f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fichikawa929%2Fshabon_c2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fichikawa929%2Fi%2F10000207%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ichikawa929/cabinet/resetter/200.jpg?_ex=128x128"
-  - rank: 6
     name: "エスケー石鹸 すっきり洗濯槽クリーナー 3箱"
     brand: "エスケー石鹸"
     price: 3780
@@ -160,7 +138,7 @@ products:
     recommendedFor: "赤ちゃんの衣類を洗う方・環境配慮派・汚れを目で確認したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rl91n.3rdw6dd1.g00rl91n.3rdw7bbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiimonotokusen%2Fesuke-03%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiimonotokusen%2Fi%2F10000090%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iimonotokusen/cabinet/06423142/06423152/06667656/imgrc0077767095.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "WASHMANIA 洗濯槽クリーナー 3個セット"
     brand: "四国化成（WASHMANIA）"
     price: 2525
@@ -182,7 +160,7 @@ products:
     recommendedFor: "縦型・ドラム式どちらにも使える汎用品を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u9stn.3rdw63e2.g00u9stn.3rdw7c29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshikokukasei%2Fwadhmania02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshikokukasei%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shikokukasei/cabinet/washmania02/washmania01/imgrc0128297174.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "洗濯槽快 10個セット 専用ネット付 ホタテ貝殻素材"
     brand: "くらし快適ショップ"
     price: 4345
@@ -215,7 +193,7 @@ products:
         reviewCount: 34
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurashikaiteki-pro_10000168"
         available: true
-  - rank: 9
+  - rank: 8
     name: "洗濯槽快 2個入 ホタテ貝殻素材"
     brand: "くらし快適ショップ"
     price: 1155
@@ -248,7 +226,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 10
+  - rank: 9
     name: "パナソニック 洗濯槽クリーナー 縦型用 N-W1A"
     brand: "パナソニック（Panasonic）"
     price: 1584

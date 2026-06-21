@@ -248,28 +248,6 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10034333"
         available: true
-  - rank: 10
-    name: "One-day's you ダクトパッド 詰め替え 60枚×2個"
-    brand: "One-day's you"
-    price: 1881
-    capacity: "60枚×2個（120枚）"
-    pricePerUnit: "約16円/枚"
-    rating: 4.89
-    reviewCount: 87
-    features:
-      - "トナーパッドタイプのスキンケア用コットン"
-      - "詰め替え用として使いやすいセット構成"
-      - "拭き取りパッドやコットンパックに使えるタイプ"
-    pros:
-      - "化粧水を含ませる手間を抑えたい方に向いている"
-      - "洗顔後のふき取りケアを習慣化しやすい"
-      - "韓国コスメ系のスキンケアを選びたい方に合いやすい"
-    cons:
-      - "一般的な乾いたコットンとは使用感が異なる"
-      - "成分や香りの好みを購入前に確認したい"
-    recommendedFor: "トナーパッドで手軽にふき取りケアをしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5tzn.3rdw6175.g00u5tzn.3rdw760d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonedaysyou%2Fdactopadrefill2_copy%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonedaysyou%2Fi%2F10000136%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onedaysyou/cabinet/12819556/13053506/imgrc0125433517.jpg?_ex=128x128"
 tags:
   - "コットン おすすめ"
   - "コットンパッド コスパ"

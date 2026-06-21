@@ -194,28 +194,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/vape-land_jj220125-1056"
         available: true
   - rank: 8
-    name: "マーナ おさかなスポンジ 数量限定カラー 2個入り"
-    brand: "MARNA（マーナ）"
-    price: 506
-    capacity: "2個"
-    pricePerUnit: "約253円/個"
-    rating: 4.89
-    reviewCount: 37
-    features:
-      - "魚の形をした個性的なデザインの食器洗いスポンジ"
-      - "3層構造で食器の汚れをしっかり落とせる"
-      - "ギフトやプチプレゼントにも適した数量限定カラー"
-    pros:
-      - "かわいいデザインでキッチン作業が楽しくなる"
-      - "3層構造で洗浄力と食器への優しさを両立"
-      - "少量パックでお試し購入や贈り物に使いやすい"
-    cons:
-      - "数量限定カラーのため継続購入ができない場合がある"
-      - "価格はページ確認が必要"
-    recommendedFor: "デザイン重視の方・ギフト用途を考えている方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtg2n.3rdw6b98.g00qtg2n.3rdw73a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopmarna%2Fp528%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopmarna%2Fi%2F10006595%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shopmarna/cabinet/item_top/p/p528lbr.jpg?_ex=128x128"
-  - rank: 9
     name: "LA CORVETTE ベジタブルスポンジ 3個入り"
     brand: "LA CORVETTE"
     price: 880
@@ -248,7 +226,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 10
+  - rank: 9
     name: "マーナ おさかなスポンジ 選べる5個セット"
     brand: "MARNA（マーナ）"
     price: 1540
