@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-06-20"
+updatedAt: "2026-06-21"
 products:
   - rank: 1
     name: "ニベア ハンドクリーム 75g"
@@ -54,7 +54,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhashbaby%2Fc492513.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hashbaby_c492513"
         available: true
@@ -109,7 +109,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenman-hompo%2Fth003.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 2500
         rating: 4.61
         reviewCount: 378
@@ -164,7 +164,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F3303a.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 253
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_3303a"
         available: true
@@ -213,13 +213,13 @@ products:
       - "香りの好みが分かれる"
     recommendedFor: "手肌と爪のケアを一緒にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptgvn.3rdw63b1.g00ptgvn.3rdw7403/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmahou-soap%2F381899%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmahou-soap%2Fi%2F10000423%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mahou-soap/cabinet/fresh_aroma/handcream/product/product.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mahou-soap/cabinet/fresh_aroma/handcream/product/product-point.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fokaimono-ichiba%2F4580333760087.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 2980
         rating: 5
         reviewCount: 3
@@ -274,7 +274,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeautyhoney%2Fm-c-lt-040.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beautyhoney_m-c-lt-040"
         available: true

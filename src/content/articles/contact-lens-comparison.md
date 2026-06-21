@@ -4,7 +4,7 @@ description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹
 category: "contact-lens"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-06-20"
+updatedAt: "2026-06-21"
 products:
   - rank: 1
     name: "ポイント10倍！オプティフリープラス"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcontact-clean%2F284.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 3230
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/contact-clean_284"
         available: true
@@ -110,7 +110,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffirstcontact%2F478.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 3840
         rating: 4.85
         reviewCount: 13
@@ -123,7 +123,7 @@ products:
     capacity: "355mL×12本"
     pricePerUnit: "約1.1円/mL"
     rating: 4.81
-    reviewCount: 2924
+    reviewCount: 2927
     features:
       - "ソフトコンタクトレンズ用の洗浄・保存液セット"
       - "ボシュロムのレニューフレッシュを大容量で用意できる"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworld-cl%2F2019016.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 4170
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/world-cl_2019016"
         available: true
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworld-cl%2F2019016.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 4170
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/world-cl_2019016"
         available: true
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffirstcontact%2F478.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 3840
         rating: 4.85
         reviewCount: 13
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworld-cl%2F59.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 2096
         rating: 4.57
         reviewCount: 75
@@ -255,7 +255,7 @@ products:
     capacity: "300mL×6本"
     pricePerUnit: "約2.6円/mL"
     rating: 4.7
-    reviewCount: 597
+    reviewCount: 598
     features:
       - "コンセプトワンステップのトリプルパック構成"
       - "ソフトコンタクトレンズ向けの洗浄・保存・消毒ケア"
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flensfree%2Famsoco300t-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 4800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lensfree_amsoco300t-2"
         available: true
@@ -308,7 +308,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ficare%2Fbid-car-10014.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 4200
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/icare_bid-car-10014"
         available: true

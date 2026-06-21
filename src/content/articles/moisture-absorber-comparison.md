@@ -4,7 +4,7 @@ description: "除湿剤を吸湿量あたりのコストで徹底比較。水と
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-06-20"
+updatedAt: 2026-06-21
 products:
   - rank: 1
     name: "炭八 室内用"
@@ -35,7 +35,7 @@ products:
     capacity: "550mL×45個（24,750mL分）"
     pricePerUnit: "約0.17円/mL"
     rating: 4.83
-    reviewCount: 238
+    reviewCount: 240
     features:
       - "国内定番の大容量タンクタイプ除湿剤"
       - "強力脱臭・防臭・防カビ効果"
@@ -244,7 +244,7 @@ products:
     capacity: "5個"
     pricePerUnit: "約1211円/個"
     rating: 4.56
-    reviewCount: 2181
+    reviewCount: 2182
     features:
       - "湿気対策に使える除湿・調湿アイテム"
       - "クローゼットや押入れに置きやすい"

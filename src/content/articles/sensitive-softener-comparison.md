@@ -4,7 +4,7 @@ description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹
 category: "fabric-softener"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-20"
+updatedAt: "2026-06-21"
 products:
   - rank: 1
     name: "ランドリン 柔軟剤 詰め替えアソートセット 9個入り"
@@ -27,7 +27,7 @@ products:
       - "好みの香りの比率を選べないアソート構成"
     recommendedFor: "複数の香りを楽しみたい方・低刺激処方を求める方・まとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2Flaundrin-refillassortset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10006269%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08869620/imgrc0115943868.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08869620/imgrc0124133845.jpg?_ex=128x128"
   - rank: 2
     name: "さらさ 柔軟剤 詰替 超ジャンボ 1350ml×6袋"
     brand: "P&G（さらさ）"
@@ -101,7 +101,7 @@ products:
     capacity: "1320mL×2個"
     pricePerUnit: "約1.0円/mL"
     rating: 4.85
-    reviewCount: 159
+    reviewCount: 160
     features:
       - "植物由来成分90%以上配合のボタニカル処方"
       - "パラベン・シリコン・合成香料など8つの無添加処方"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffitsonlinestore%2Flds-softset3.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 3234
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fitsonlinestore_lds-softset3"
         available: true
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469490579-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-17"
+        updatedAt: "2026-06-21"
         price: 5214
         rating: 4.88
         reviewCount: 344
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469490586-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-21"
         price: 5214
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469490586-5"
         available: true
@@ -222,7 +222,7 @@ products:
     capacity: "960mL×5個"
     pricePerUnit: "約1.1円/mL"
     rating: 4.86
-    reviewCount: 108
+    reviewCount: 110
     features:
       - "植物由来成分配合のオーガニック処方"
       - "防臭・抗菌効果"
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469492764-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-21"
         price: 5214
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469492764-5"
         available: true
@@ -308,7 +308,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4582469502517.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-21"
         price: 1043
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4582469502517"
         available: true

@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-06-20
+updatedAt: "2026-06-21"
 products:
   - rank: 1
     name: "パンテーン シャンプー 詰め替え エクストラダメージケア"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksstore-yh%2F2734-000217.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-21"
         price: 3980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksstore-yh_2734-000217"
         available: true
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301450128.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-21"
         price: 769
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301450128"
         available: true
@@ -126,7 +126,7 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s57rn.3rdw600e.g00s57rn.3rdw7060/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finksc%2Fshampoo_d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finksc%2Fi%2F10000367%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/n_shampoo.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/po_shampoo.jpg?_ex=128x128"
   - rank: 5
     name: "ケフトル スカルプシャンプー"
     brand: "ケフトル"
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcerapure%2Fkf-22.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-21"
         price: 3350
         rating: 0
         reviewCount: 2
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmcosme-style%2Fumahai0000.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-21"
         price: 4400
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mcosme-style_umahai0000"
         available: true
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisopo%2F3474636858033.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-21"
         price: 4180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_3474636858033"
         available: true
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fafloat-store%2F3474636403912.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-21"
         price: 3760
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/afloat-store_3474636403912"
         available: true

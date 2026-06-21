@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌触りとコス
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-06-16"
+updatedAt: 2026-06-21
 draft: false
 products:
   - rank: 1
@@ -47,7 +47,7 @@ products:
     capacity: "400枚（200組）×20箱"
     pricePerUnit: "約1.4円/組"
     rating: 4.74
-    reviewCount: 482
+    reviewCount: 483
     features:
       - "鼻セレブのローション配合保湿ティッシュ"
       - "20箱のまとめ買い大容量パック"
@@ -255,8 +255,8 @@ products:
     price: 798
     capacity: "2個パック"
     pricePerUnit: "約399円/個"
-    rating: 4.74
-    reviewCount: 149
+    rating: 4.75
+    reviewCount: 150
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"

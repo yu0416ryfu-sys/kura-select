@@ -4,7 +4,7 @@ description: "サントリー・アサヒ・エビアンなど人気の天然水
 category: "mineral-water"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: 2026-06-20
+updatedAt: 2026-06-21
 draft: false
 products:
   - rank: 1
@@ -80,7 +80,7 @@ products:
     capacity: "500mL×24本（12L）"
     pricePerUnit: "約98円/L"
     rating: 4.7
-    reviewCount: 1365
+    reviewCount: 1377
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"

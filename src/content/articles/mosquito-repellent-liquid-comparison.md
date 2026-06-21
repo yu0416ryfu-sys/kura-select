@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhcvalor%2Fvh-2162902907264.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 4071
         rating: 0
         reviewCount: 0
@@ -111,7 +111,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F101-x010-4901080120113.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 16119
         rating: 0
         reviewCount: 0

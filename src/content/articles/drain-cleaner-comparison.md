@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F101-4901609000926.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 331
         rating: 0
         reviewCount: 0
@@ -111,7 +111,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnicobase%2Fnico-4901609000926.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 485
         rating: 0
         reviewCount: 0
@@ -199,10 +199,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6017917.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 2290
         rating: 4.35
-        reviewCount: 819
+        reviewCount: 820
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6017917"
         available: true
   - rank: 8

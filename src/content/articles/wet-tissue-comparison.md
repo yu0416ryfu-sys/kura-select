@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ10選を1枚あたり単
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-20"
+updatedAt: "2026-06-21"
 products:
   - rank: 1
     name: "ノンアルコール 99%除菌ウェットティッシュ"
@@ -28,6 +28,17 @@ products:
     recommendedFor: "ノンアルコールで除菌力も確保したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnhsn.3rdw6b0b.g00tnhsn.3rdw755e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarubeni-pps%2Fjyokin80-12set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarubeni-pps%2Fi%2F10000026%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marubeni-pps/cabinet/biiino/item/main-image/1702967471168_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmarubeni-forestlinx%2Fjyokin-99.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-21"
+        price: 4980
+        rating: 4.81
+        reviewCount: 59
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/marubeni-forestlinx_jyokin-99"
+        available: true
   - rank: 2
     name: "レック 水99.9％ 手口ふき"
     brand: "レック"
@@ -35,7 +46,7 @@ products:
     capacity: "80枚×15個"
     pricePerUnit: "約1.8円/枚"
     rating: 4.69
-    reviewCount: 4576
+    reviewCount: 4583
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -55,12 +66,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-21"
         price: 2180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
         available: true
         rating: 4.67
-        reviewCount: 1009
+        reviewCount: 1010
   - rank: 3
     name: "おしりふき 手口ふき シンプル"
     brand: "子育て日和"
@@ -110,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903111459049.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-21"
         price: 1077
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903111459049"
         available: true
@@ -122,8 +133,8 @@ products:
     price: 7480
     capacity: "60枚×48個（2,880枚）"
     pricePerUnit: "約2.6円/枚"
-    rating: 4.43
-    reviewCount: 463
+    rating: 4.42
+    reviewCount: 464
     features:
       - "アルコール配合で除菌用途に向いたタイプ"
       - "厚手シートで拭き取りやすい設計"
@@ -143,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F1920418f.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 4780
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_1920418f"
         available: true
@@ -176,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100996.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 4620
         rating: 4.88
         reviewCount: 17
@@ -262,7 +273,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4903301291022.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-21"
         price: 205
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4903301291022"
         available: true
@@ -275,7 +286,7 @@ products:
     capacity: "96枚"
     pricePerUnit: "約31円/枚"
     rating: 4.35
-    reviewCount: 314
+    reviewCount: 316
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -289,7 +300,7 @@ products:
       - "乾燥しない保管が必要"
     recommendedFor: "ウェットティッシュを枚数と使いやすさで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t237n.3rdw6c98.g00t237n.3rdw7b8b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fslotre%2F10000234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fslotre%2Fi%2F10000356%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/12191014/13038805/main_260303.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/sale-main/hunwariatude_5_3.jpg?_ex=128x128"
 tags:
   - "ウェットティッシュ"
   - "ウェットシート"
