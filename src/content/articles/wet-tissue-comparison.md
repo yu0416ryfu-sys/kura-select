@@ -46,7 +46,7 @@ products:
     capacity: "80枚×15個"
     pricePerUnit: "約1.8円/枚"
     rating: 4.69
-    reviewCount: 4585
+    reviewCount: 4586
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -134,7 +134,7 @@ products:
     capacity: "60枚×48個（2,880枚）"
     pricePerUnit: "約2.6円/枚"
     rating: 4.42
-    reviewCount: 464
+    reviewCount: 465
     features:
       - "アルコール配合で除菌用途に向いたタイプ"
       - "厚手シートで拭き取りやすい設計"

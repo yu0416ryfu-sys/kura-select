@@ -134,7 +134,7 @@ products:
     capacity: "750g（30回分）"
     pricePerUnit: "約3.1円/g"
     rating: 4.69
-    reviewCount: 7109
+    reviewCount: 7110
     features:
       - "高濃度水素とナノバブル技術で肌の奥まで浸透"
       - "重炭酸配合で塩素を除去しながら保湿"

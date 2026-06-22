@@ -233,7 +233,7 @@ products:
     capacity: "（20g）"
     pricePerUnit: "約74円/g"
     rating: 4.68
-    reviewCount: 1642
+    reviewCount: 1643
     features:
       - "ナノ粒子ハイドロキシアパタイトでエナメル質を補修"
       - "研磨剤不使用でやさしいホワイトニング"
@@ -255,7 +255,7 @@ products:
     capacity: "20g"
     pricePerUnit: "約90円/g"
     rating: 4.35
-    reviewCount: 761
+    reviewCount: 762
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"

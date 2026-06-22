@@ -101,7 +101,7 @@ products:
     capacity: "180g"
     pricePerUnit: "約13円/g"
     rating: 4.65
-    reviewCount: 2243
+    reviewCount: 2244
     features:
       - "12種の植物成分を含む25種以上の植物由来成分配合"
       - "シルク・ココナッツオイル・アルガンオイルなどの保湿成分を配合"

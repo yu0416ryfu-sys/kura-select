@@ -199,7 +199,7 @@ products:
     capacity: "60g"
     pricePerUnit: "約57円/g"
     rating: 4.57
-    reviewCount: 383
+    reviewCount: 384
     features:
       - "手肌と甘皮までケアできるハンドクリーム"
       - "保湿を重視した無添加処方"
@@ -250,9 +250,9 @@ products:
   - rank: 10
     name: "ロクシタン パフュームド ハンドクリーム 30mL 選べる6種類"
     brand: "ロクシタン"
-    price: 1480
+    price: 1120
     capacity: "30mL"
-    pricePerUnit: "約49円/mL"
+    pricePerUnit: "約37円/mL"
     rating: 4.52
     reviewCount: 802
     features:

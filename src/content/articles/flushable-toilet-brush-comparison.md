@@ -28,7 +28,7 @@ products:
       - "袋数が多く保管場所を取りやすい"
     recommendedFor: "リピート用にまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugi2n.3rdw6154.g00ugi2n.3rdw7474/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkankosp%2F2500010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkankosp%2Fi%2F10000030%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kankosp/cabinet/bc/item/brush/item.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kankosp/cabinet/bc/item/brush/imgrc0104797888.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -94,7 +94,7 @@ products:
       - "本体の保管スペースを確保する必要がある"
     recommendedFor: "流せるトイレブラシを初めて使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugi2n.3rdw6154.g00ugi2n.3rdw7474/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkankosp%2F2500004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkankosp%2Fi%2F10000024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kankosp/cabinet/bc/item/brush/imgrc0093459841.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kankosp/cabinet/bc/item/brush/imgrc0104797890.jpg?_ex=128x128"
   - rank: 4
     name: "スクラビングバブル 流せるトイレブラシ 本体+替え4個"
     brand: "スクラビングバブル"
