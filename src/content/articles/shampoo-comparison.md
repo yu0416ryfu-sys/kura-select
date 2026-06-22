@@ -134,7 +134,7 @@ products:
     capacity: "250ml"
     pricePerUnit: "約13円/mL"
     rating: 4.67
-    reviewCount: 1012
+    reviewCount: 1013
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"

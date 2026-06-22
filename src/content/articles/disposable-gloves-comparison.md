@@ -31,9 +31,9 @@ products:
   - rank: 2
     name: "プラスチック手袋 パウダーフリー 100枚"
     brand: "ワークアップ"
-    price: 484
+    price: 429
     capacity: "100枚"
-    pricePerUnit: "約4.8円/枚"
+    pricePerUnit: "約4.3円/枚"
     rating: 4.59
     reviewCount: 138
     features:
@@ -68,7 +68,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約4.9円/枚"
     rating: 4.76
-    reviewCount: 252
+    reviewCount: 253
     features:
       - "使い切りで使える作業用手袋"
       - "継続利用しやすい定番構成"
@@ -231,7 +231,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約14円/枚"
     rating: 4.71
-    reviewCount: 1344
+    reviewCount: 1346
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -264,7 +264,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約14円/枚"
     rating: 4.57
-    reviewCount: 3523
+    reviewCount: 3525
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"

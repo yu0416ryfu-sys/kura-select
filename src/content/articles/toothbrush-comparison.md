@@ -68,7 +68,7 @@ products:
     capacity: "30本"
     pricePerUnit: "約70円/本"
     rating: 4.73
-    reviewCount: 2158
+    reviewCount: 2159
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -90,7 +90,7 @@ products:
     capacity: "50本"
     pricePerUnit: "約73円/本"
     rating: 4.66
-    reviewCount: 1190
+    reviewCount: 1193
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -167,7 +167,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約123円/本"
     rating: 4.45
-    reviewCount: 2271
+    reviewCount: 2273
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -189,7 +189,7 @@ products:
     capacity: "30本"
     pricePerUnit: "約139円/本"
     rating: 4.76
-    reviewCount: 3838
+    reviewCount: 3844
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"

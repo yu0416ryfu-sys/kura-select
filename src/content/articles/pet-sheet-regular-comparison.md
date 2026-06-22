@@ -58,7 +58,7 @@ products:
     capacity: "レギュラー 800枚"
     pricePerUnit: "約5.6円/枚"
     rating: 4.49
-    reviewCount: 45248
+    reviewCount: 45249
     features:
       - "薄型のペット用トイレシート"
       - "レギュラーサイズを選べる"
@@ -102,7 +102,7 @@ products:
     capacity: "レギュラー 400枚"
     pricePerUnit: "約11.2円/枚"
     rating: 4.3
-    reviewCount: 6541
+    reviewCount: 6542
     features:
       - "吸収量を重視した厚型タイプ"
       - "レギュラーサイズを選べるペット用トイレシート"

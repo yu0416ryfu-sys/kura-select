@@ -14,7 +14,7 @@ products:
     capacity: "2L×12本（24L）"
     pricePerUnit: "約79円/L"
     rating: 4.83
-    reviewCount: 285
+    reviewCount: 286
     features:
       - "栃木県産の国産軟水・硬度45mg/Lの超軟水"
       - "赤ちゃんのミルク調乳・離乳食にも適した水質"
@@ -80,7 +80,7 @@ products:
     capacity: "500mL×24本（12L）"
     pricePerUnit: "約98円/L"
     rating: 4.7
-    reviewCount: 1380
+    reviewCount: 1387
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"

@@ -46,7 +46,7 @@ products:
     capacity: "4個"
     pricePerUnit: "約1790円/個"
     rating: 4.75
-    reviewCount: 483
+    reviewCount: 484
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"
@@ -188,8 +188,8 @@ products:
     price: 6980
     capacity: "70枚×4袋"
     pricePerUnit: "約25円/枚"
-    rating: 4.81
-    reviewCount: 113
+    rating: 4.82
+    reviewCount: 115
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"

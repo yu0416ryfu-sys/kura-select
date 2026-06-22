@@ -13,7 +13,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約4.3円/枚"
     rating: 4.76
-    reviewCount: 1529
+    reviewCount: 1531
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"

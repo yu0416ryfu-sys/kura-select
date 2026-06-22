@@ -91,7 +91,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約1980円/個"
     rating: 4.66
-    reviewCount: 555
+    reviewCount: 556
     features:
       - "浴室排水口向けのネットホルダー"
       - "排水口ネットを隠しやすい構造"
@@ -179,7 +179,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2530円/個"
     rating: 4.61
-    reviewCount: 4206
+    reviewCount: 4215
     features:
       - "浴室排水口向けのステンレス製"
       - "マグネット式のヘアーキャッチャー"

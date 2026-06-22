@@ -67,7 +67,7 @@ products:
     capacity: "51枚"
     pricePerUnit: "約7.8円/枚"
     rating: 4.22
-    reviewCount: 5760
+    reviewCount: 5761
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
