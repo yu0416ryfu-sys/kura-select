@@ -102,7 +102,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111211647x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-06-21"
+        updatedAt: "2026-06-22"
         rating: 4.73
         reviewCount: 56
   - rank: 4
@@ -135,9 +135,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111211807x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-06-21"
+        updatedAt: "2026-06-22"
         rating: 4.93
-        reviewCount: 44
+        reviewCount: 45
   - rank: 5
     name: "グーン スーパーBIG パンツタイプ ケース販売 84枚"
     brand: "大王製紙（グーン）"
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseedeck%2Fdos263-r6.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-21"
+        updatedAt: "2026-06-22"
         price: 7580
         rating: 0
         reviewCount: 0
@@ -201,7 +201,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4902011743081-1"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-06-21"
+        updatedAt: "2026-06-22"
         rating: 5
         reviewCount: 3
   - rank: 7
@@ -234,7 +234,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/finespharma_4902011743081"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-06-21"
+        updatedAt: "2026-06-22"
         rating: 5
         reviewCount: 4
   - rank: 8
@@ -267,7 +267,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171675x6"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-06-21"
+        updatedAt: "2026-06-22"
         rating: 0
         reviewCount: 2
   - rank: 9
@@ -300,7 +300,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171750x6"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-06-21"
+        updatedAt: "2026-06-22"
         rating: 0
         reviewCount: 0
   - rank: 10

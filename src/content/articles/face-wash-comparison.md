@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-06-22
+updatedAt: "2026-06-22"
 products:
   - rank: 1
     name: "無添加生活 泡洗顔 炭酸泡洗顔フォーム 3本セット"
@@ -13,7 +13,7 @@ products:
     capacity: "150g×3本"
     pricePerUnit: "約2.9円/g"
     rating: 4.63
-    reviewCount: 763
+    reviewCount: 764
     features:
       - "泡タイプの洗顔料"
       - "まとめ買いしやすいセット"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-ypp%2F3799-004426.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-22"
         price: 1280
         rating: 4.5
         reviewCount: 4
@@ -110,7 +110,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4550516491404.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-22"
         price: 609
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4550516491404"
         available: true
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fspark0903no2%2Fs-b01n0bsytw-20250614.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-22"
         price: 2200
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/spark0903no2_s-b01n0bsytw-20250614"
         available: true
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902111736655.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-22"
         price: 348
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902111736655"
         available: true
@@ -189,7 +189,7 @@ products:
     capacity: "110g"
     pricePerUnit: "約18円/g"
     rating: 4.61
-    reviewCount: 1774
+    reviewCount: 1775
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyua-shop%2Fl01-045.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-22"
         price: 2500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yua-shop_l01-045"
         available: true
@@ -242,12 +242,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flesthemo%2Fsoap150g.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-22"
         price: 2680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lesthemo_soap150g"
         available: true
-        rating: 4.69
-        reviewCount: 213
+        rating: 4.68
+        reviewCount: 214
   - rank: 9
     name: "ルアド 洗顔パウダー 67g×3袋"
     brand: "ルアド"
@@ -295,13 +295,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000154951.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4908049579715.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-22"
         price: 1320
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosmecom_1000154951"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4908049579715"
         available: true
 tags:
   - "洗顔料 おすすめ"
