@@ -264,8 +264,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Fr8o50.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-22"
-        price: 4100
+        updatedAt: "2026-06-23"
+        price: 3899
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-kurashi_r8o50"
         available: true
         rating: 5
@@ -297,7 +297,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4975156901005.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-22"
+        updatedAt: "2026-06-23"
         price: 4594
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4975156901005"
         available: true

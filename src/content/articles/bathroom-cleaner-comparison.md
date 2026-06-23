@@ -4,7 +4,7 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-06-22
+updatedAt: 2026-06-23
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"

@@ -4,7 +4,7 @@ description: "父の日に贈りやすい実用ギフトを比較。名入れボ
 category: "gift"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: 2026-06-22
+updatedAt: 2026-06-23
 draft: false
 products:
   - rank: 1
