@@ -42,7 +42,7 @@ async function main() {
     const faqs = extractFaqs(content);
 
     // 見出しの有無を判定（見出しありで Q/A 0 件なら headingOnly としてレポート）
-    const hasHeading = /^##\s*よくある質問\s*[（(]\s*FAQ\s*[）)]/m.test(content);
+    const hasHeading = /^##\s*よくある質問(?:\s*[（(]\s*FAQ\s*[）)])?/m.test(content);
     if (faqs.length === 0) {
       if (hasHeading) {
         headingOnly++;

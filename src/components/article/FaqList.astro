@@ -1,0 +1,60 @@
+---
+// 記事の「よくある質問（FAQ）」をカード UI で描画する静的コンポーネント。
+// データソースは frontmatter の faqs（question / answer）。ハイドレーションは行わない。
+interface Faq {
+  question: string;
+  answer: string;
+}
+
+interface Props {
+  faqs: Faq[];
+  class?: string;
+}
+
+const { faqs, class: className } = Astro.props;
+
+// HTML 特殊文字をエスケープしてから太字 **...** のみ <strong> へ変換する。
+// 軽量化のため Markdown パーサは導入せず、太字記法だけを最小変換する（CLAUDE.md §10）。
+function renderAnswer(raw: string): string {
+  // 移行で消し切れない既存データの保険として先頭の A. / **A.** ラベルを除去する。
+  const cleaned = raw.replace(/^\*{0,2}A[.．:：]\*{0,2}\s*/, "");
+  const escaped = cleaned
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+  return escaped.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+}
+---
+
+{faqs.length > 0 && (
+  <section id="faq" aria-label="よくある質問" class:list={["mt-10 scroll-mt-24", className]}>
+    <h2 class="text-xl font-bold text-[var(--color-text)] mb-6">よくある質問</h2>
+    <dl class="space-y-4">
+      {faqs.map((faq) => (
+        <div class="rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] overflow-hidden">
+          <dt class="flex items-start gap-3 px-4 py-3 md:px-5">
+            <span
+              aria-hidden="true"
+              class="shrink-0 inline-flex items-center justify-center w-7 h-7 rounded-full bg-[var(--color-primary)] text-white text-sm font-bold"
+            >
+              Q
+            </span>
+            <span class="font-bold text-[var(--color-text)] leading-snug pt-0.5">{faq.question}</span>
+          </dt>
+          <dd class="flex items-start gap-3 px-4 py-3 md:px-5 border-t border-[var(--color-border)] bg-white">
+            <span
+              aria-hidden="true"
+              class="shrink-0 inline-flex items-center justify-center w-7 h-7 rounded-full bg-[var(--color-accent)] text-white text-sm font-bold"
+            >
+              A
+            </span>
+            <span
+              class="text-[var(--color-text-sub)] leading-relaxed pt-0.5 [&_strong]:font-bold [&_strong]:text-[var(--color-text)]"
+              set:html={renderAnswer(faq.answer)}
+            />
+          </dd>
+        </div>
+      ))}
+    </dl>
+  </section>
+)}

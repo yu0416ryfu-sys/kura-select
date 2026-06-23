@@ -8,18 +8,28 @@ export interface Faq {
 }
 
 // 「## よくある質問（FAQ）」セクションの開始を検出する。
-// 全角括弧・半角括弧の揺れと、見出し直後の改行を許容する。
-const FAQ_SECTION_RE = /^##\s*よくある質問\s*[（(]\s*FAQ\s*[）)]/m;
+// 全角括弧・半角括弧の揺れ、（FAQ）注記の有無、見出し直後の改行を許容する。
+const FAQ_SECTION_RE = /^##\s*よくある質問(?:\s*[（(]\s*FAQ\s*[）)])?/m;
 
-// Q/A ペア。**Q. 質問** の次の段落以降を回答とし、
-// 次の **Q. か次の ## 見出し、または文末までを回答本文とする。
-const QA_PAIR_RE = /\*\*Q\.\s*([\s\S]+?)\*\*\s*\n+([\s\S]+?)(?=\n\s*\*\*Q\.|\n##\s|$)/g;
+// 新書式の Q/A ペア。**Q. 質問**（区切りは . / : / ．/ ：の揺れを許容）の
+// 次の段落以降を回答とし、次の **Q か次の ## 見出し、または文末までを回答本文とする。
+const QA_PAIR_RE = /\*\*Q[.:．：]\s*([\s\S]+?)\*\*\s*\n+([\s\S]+?)(?=\n\s*\*\*Q[.:．：]|\n##\s|$)/g;
 
-// 回答本文の先頭にある "A." ラベルと前後の空白を取り除く。
+// 旧書式の Q/A ペア。### 質問 見出し + 直後段落を回答とし、
+// 次の ### か次の ## 見出し、または文末までを回答本文とする。
+const OLD_QA_PAIR_RE = /^###\s+([^\n]+?)\s*\n+([\s\S]+?)(?=\n###\s|\n##\s|$)/gm;
+
+// 太字のみ書式の Q/A ペア。Q ラベルが無く **質問？** の太字行（疑問符で終わる）+
+// 直後段落を回答とする。誤検出を避けるため質問は ？/? 終端のものだけを対象にする。
+const BOLD_Q_PAIR_RE = /^\*\*([^\n*]+[？?])\*\*\s*\n+([\s\S]+?)(?=\n\s*\*\*|\n##\s|$)/gm;
+
+// 回答本文の先頭にある "A." ラベル（旧書式 "A." / 新書式 "**A.**" の両方）と
+// 前後の空白を取り除く。旧書式の回答は "A." ラベルを持たないため、
+// "A" の直後が区切り記号（.．:：）でない場合は削らない（先頭文字の誤除去防止）。
 function cleanAnswer(raw: string): string {
   return raw
     .trim()
-    .replace(/^A[.．:：]\s*/, "")
+    .replace(/^\*{0,2}A[.．:：]\*{0,2}\s*/, "")
     .trim();
 }
 
@@ -42,10 +52,21 @@ export function extractFaqs(markdown: string): Faq[] {
     ? afterHeading.slice(0, nextHeading.index)
     : afterHeading;
 
+  // 書式ごとに優先順位で抽出する（1 セクション内で書式が混在する想定はない）。
+  // 新書式（**Q. 質問**）→ 旧書式（### 質問）→ 太字のみ（**質問？**）の順。
+  for (const re of [QA_PAIR_RE, OLD_QA_PAIR_RE, BOLD_Q_PAIR_RE]) {
+    const faqs = collectPairs(section, re);
+    if (faqs.length > 0) return faqs;
+  }
+  return [];
+}
+
+// 指定の正規表現で FAQ セクションから Q/A ペアを収集する。
+function collectPairs(section: string, re: RegExp): Faq[] {
   const faqs: Faq[] = [];
-  QA_PAIR_RE.lastIndex = 0;
+  re.lastIndex = 0;
   let match: RegExpExecArray | null;
-  while ((match = QA_PAIR_RE.exec(section)) !== null) {
+  while ((match = re.exec(section)) !== null) {
     const question = match[1].trim();
     const answer = cleanAnswer(match[2]);
     if (question && answer) {

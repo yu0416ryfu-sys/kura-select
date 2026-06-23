@@ -24,6 +24,7 @@ import type { CollectionEntry } from "astro:content";
 import type { MarkdownHeading } from "astro";
 import ArticleToc from "../components/article/ArticleToc.astro";
 import SaleBanner from "../components/article/SaleBanner.astro";
+import FaqList from "../components/article/FaqList.astro";
 
 const linkProviders = getEnabledAffiliateProvidersFromEnv(import.meta.env);
 const priceProviders = getStaticAffiliateProvidersFromEnv(import.meta.env);
@@ -52,6 +53,9 @@ const rawTocItems: TocItem[] = [
     ? [{ slug: "comparison-table", text: "商品比較表", depth: 2 as const }]
     : []),
   ...markdownTocItems,
+  ...(data.faqs && data.faqs.length > 0
+    ? [{ slug: "faq", text: "よくある質問", depth: 2 as const }]
+    : []),
   ...(data.products.length > 0
     ? [{ slug: "product-details", text: isComparison ? "各商品の詳細" : "商品情報", depth: 2 as const }]
     : []),
@@ -89,6 +93,13 @@ const articleJsonLd = {
   url: `${SITE.url}/articles/${article.id}`,
 };
 
+// FAQPage 構造化データ用に answer をプレーンテキスト化する。
+// 先頭の A. / **A.** ラベルと太字記法（**）を除去する（移行漏れデータの保険）。
+const cleanFaqText = (text: string): string =>
+  text
+    .replace(/^\*{0,2}A[.．:：]\*{0,2}\s*/, "")
+    .replace(/\*\*([^*]+)\*\*/g, "$1");
+
 // FAQ がある記事のみ FAQPage 構造化データを出力する
 const faqJsonLd = data.faqs && data.faqs.length > 0 ? {
   "@context": "https://schema.org",
@@ -98,7 +109,7 @@ const faqJsonLd = data.faqs && data.faqs.length > 0 ? {
     name: faq.question,
     acceptedAnswer: {
       "@type": "Answer",
-      text: faq.answer,
+      text: cleanFaqText(faq.answer),
     },
   })),
 } : null;
@@ -251,6 +262,11 @@ const productJsonLds = data.products
         <div class="prose prose-slate max-w-none mt-8 [&_h2]:text-xl [&_h2]:font-bold [&_h2]:mt-8 [&_h2]:mb-4 [&_h2]:scroll-mt-24 [&_h3]:text-lg [&_h3]:font-semibold [&_h3]:mt-6 [&_h3]:mb-3 [&_h3]:scroll-mt-24 [&_p]:mb-4 [&_ul]:mb-4 [&_li]:mb-1 [&_a]:text-[var(--color-primary)] [&_a]:font-medium [&_a]:underline [&_a]:underline-offset-2 [&_a]:decoration-1 [&_a]:transition-colors [&_a:hover]:text-sky-700 [&_a:hover]:decoration-2 [&_table]:w-full [&_table]:text-sm [&_th]:bg-[var(--color-surface)] [&_th]:px-3 [&_th]:py-2 [&_td]:px-3 [&_td]:py-2 [&_td]:border-b [&_td]:border-[var(--color-border)]">
           <slot />
         </div>
+
+        <!-- よくある質問（FAQ）: frontmatter faqs を唯一のソースとしてカード表示 -->
+        {data.faqs && data.faqs.length > 0 && (
+          <FaqList faqs={data.faqs} />
+        )}
 
         <!-- 記事本文後インライン CTA（comparison: 1位商品 / review: 紹介商品） -->
         {data.products.length > 0 && (() => {
