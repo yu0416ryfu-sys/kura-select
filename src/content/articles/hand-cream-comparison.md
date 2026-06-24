@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-06-23"
+updatedAt: "2026-06-24"
 products:
   - rank: 1
     name: "ニベア ハンドクリーム 75g"
@@ -54,7 +54,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhashbaby%2Fc492513.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-21"
+        updatedAt: "2026-06-24"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hashbaby_c492513"
         available: true
@@ -67,7 +67,7 @@ products:
     capacity: "35g"
     pricePerUnit: "約19円/g"
     rating: 4.51
-    reviewCount: 409
+    reviewCount: 410
     features:
       - "100%ピュアシアバターを精製したオーガニック処方"
       - "9種類の香りから選べるセレクト仕様"
@@ -109,7 +109,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenman-hompo%2Fth003.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-22"
+        updatedAt: "2026-06-24"
         price: 2500
         rating: 4.61
         reviewCount: 378
@@ -164,7 +164,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F3303a.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-22"
+        updatedAt: "2026-06-24"
         price: 253
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_3303a"
         available: true
@@ -177,7 +177,7 @@ products:
     capacity: "43g"
     pricePerUnit: "約51円/g"
     rating: 4.7
-    reviewCount: 729
+    reviewCount: 730
     features:
       - "オーガニック認証原料を使用したハンドクリーム"
       - "43gの使いやすいサイズでギフト用途にも対応"

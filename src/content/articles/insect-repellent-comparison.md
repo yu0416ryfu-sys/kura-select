@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-06-21"
+updatedAt: 2026-06-24
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 498
     capacity: "200ml"
     pricePerUnit: "約2.5円/mL"
-    rating: 0
-    reviewCount: 0
+    rating: 5
+    reviewCount: 1
     features:
       - "イカリジン10%配合のミストタイプ虫よけスプレー"
       - "蚊・アブ・マダニなど幅広い虫に対応した防除用医薬部外品"
@@ -195,11 +195,33 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4987115540569"
         available: true
   - rank: 7
+    name: "安全安心 虫除けスプレー"
+    brand: "無添加工房 OKADA"
+    price: 1386
+    capacity: "100ml"
+    pricePerUnit: "約14円/ml"
+    rating: 4.53
+    reviewCount: 1549
+    features:
+      - "ディート不使用・天然成分配合の赤ちゃんから使える虫よけスプレー"
+      - "1本・3本・10本セットから選べる購入方法"
+      - "無添加処方で合成殺虫成分を含まない設計"
+    pros:
+      - "ディート不使用で赤ちゃんや子どもへの使用を重視する家庭に向いている"
+      - "まとめ買いが選べ、使用頻度の高い季節にストックしやすい"
+      - "天然成分配合で肌への刺激を気にしたい方に選ばれやすい"
+    cons:
+      - "合成殺虫成分系と比べると使用頻度が多くなる場合がある"
+      - "容量が少ないため長期の使用では複数本の準備が必要"
+    recommendedFor: "ディート不使用で赤ちゃんや子どもと一緒に使える虫よけを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ppoyn.3rdw6621.g00ppoyn.3rdw79a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsafe%2F580481%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsafe%2Fi%2F10000010%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/safe/cabinet/2309_sku_img/580481.jpg?_ex=128x128"
+  - rank: 8
     name: "アウトドアボディスプレー"
     brand: "PERFECT POTION"
-    price: 1386
+    price: 1760
     capacity: "125ml"
-    pricePerUnit: "約11円/mL"
+    pricePerUnit: "約14円/mL"
     rating: 4.89
     reviewCount: 9
     features:
@@ -227,28 +249,6 @@ products:
         available: true
         rating: 4.88
         reviewCount: 17
-  - rank: 8
-    name: "安全安心 虫除けスプレー"
-    brand: "無添加工房 OKADA"
-    price: 1386
-    capacity: "100ml"
-    pricePerUnit: "約14円/ml"
-    rating: 4.53
-    reviewCount: 1549
-    features:
-      - "ディート不使用・天然成分配合の赤ちゃんから使える虫よけスプレー"
-      - "1本・3本・10本セットから選べる購入方法"
-      - "無添加処方で合成殺虫成分を含まない設計"
-    pros:
-      - "ディート不使用で赤ちゃんや子どもへの使用を重視する家庭に向いている"
-      - "まとめ買いが選べ、使用頻度の高い季節にストックしやすい"
-      - "天然成分配合で肌への刺激を気にしたい方に選ばれやすい"
-    cons:
-      - "合成殺虫成分系と比べると使用頻度が多くなる場合がある"
-      - "容量が少ないため長期の使用では複数本の準備が必要"
-    recommendedFor: "ディート不使用で赤ちゃんや子どもと一緒に使える虫よけを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ppoyn.3rdw6621.g00ppoyn.3rdw79a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsafe%2F580481%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsafe%2Fi%2F10000010%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/safe/cabinet/2309_sku_img/580481.jpg?_ex=128x128"
   - rank: 9
     name: "選べるアロマスプレー 虫除け 3本セット"
     brand: "ease-aroma"

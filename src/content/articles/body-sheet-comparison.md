@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4550516475473.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-23"
+        updatedAt: "2026-06-24"
         price: 458
         rating: 5
         reviewCount: 4
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatata12121%2Fdeodorantshawarshirt-ag24-kosme-4550516493194-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-23"
+        updatedAt: "2026-06-24"
         price: 880
         rating: 0
         reviewCount: 0
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F612-8545-103.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-23"
+        updatedAt: "2026-06-24"
         price: 1259
         rating: 0
         reviewCount: 0
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkusurinofukutaro%2F10164409.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-23"
+        updatedAt: "2026-06-24"
         price: 378
         rating: 0
         reviewCount: 1

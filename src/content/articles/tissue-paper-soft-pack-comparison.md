@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-06-23"
+updatedAt: 2026-06-24
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 5980
     capacity: "200組×90個"
     pricePerUnit: "約0.33円/組"
-    rating: 4.53
-    reviewCount: 32
+    rating: 4.55
+    reviewCount: 33
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -96,6 +96,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7254701%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10195100%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tasya80/b_7253224.jpg?_ex=128x128"
   - rank: 5
+    name: "Smart Yell ソフトパックティッシュ 150組×50個"
+    brand: "アイリスオーヤマ"
+    price: 2900
+    capacity: "150組×50個"
+    pricePerUnit: "約0.39円/組"
+    rating: 4.54
+    reviewCount: 778
+    features:
+      - "アイリスオーヤマのソフトパック"
+      - "150組×50個のまとめ買いパック"
+      - "薄型で収納しやすい設計"
+    pros:
+      - "個数が多く長期間ストックできる"
+      - "棚や引き出しに収めやすい薄型"
+      - "コストと容量のバランスがよい"
+    cons:
+      - "1個の組数は標準的でやや少なめ"
+      - "残り少なくなると取り出しにくい"
+    recommendedFor: "コスパとストック性を両立したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7185802-cp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10207887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/7185802-cp.jpg?_ex=128x128"
+  - rank: 6
     name: "ネピア ソフトパックティッシュ 240組 80パック"
     brand: "王子ネピア"
     price: 7720
@@ -117,7 +139,7 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7258440%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10088618%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/thum/naosi/7258440.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "ネピア ソフトパックティッシュ 240組 80パック 防災備蓄セット"
     brand: "王子ネピア"
     price: 7720
@@ -139,28 +161,6 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7258440%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10216545%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya113/7258440.jpg?_ex=128x128"
-  - rank: 7
-    name: "Smart Yell ソフトパックティッシュ 150組×50個"
-    brand: "アイリスオーヤマ"
-    price: 3050
-    capacity: "150組×50個"
-    pricePerUnit: "約0.41円/組"
-    rating: 4.54
-    reviewCount: 777
-    features:
-      - "アイリスオーヤマのソフトパック"
-      - "150組×50個のまとめ買いパック"
-      - "薄型で収納しやすい設計"
-    pros:
-      - "個数が多く長期間ストックできる"
-      - "棚や引き出しに収めやすい薄型"
-      - "コストと容量のバランスがよい"
-    cons:
-      - "1個の組数は標準的でやや少なめ"
-      - "残り少なくなると取り出しにくい"
-    recommendedFor: "コスパとストック性を両立したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7185802-cp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10207887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/7185802-cp.jpg?_ex=128x128"
   - rank: 8
     name: "フルール ソフトパックティッシュ 200組×80個"
     brand: "フルール"

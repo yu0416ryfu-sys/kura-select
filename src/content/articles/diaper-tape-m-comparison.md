@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-06-23"
+updatedAt: "2026-06-24"
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2875571012.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-22"
+        updatedAt: "2026-06-24"
         price: 7031
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2875571012"
         available: true
@@ -156,7 +156,7 @@ products:
     capacity: "96枚"
     pricePerUnit: "約72円/枚"
     rating: 4.74
-    reviewCount: 179
+    reviewCount: 180
     features:
       - "ネット状の肌触りで蒸れにくく快適"
       - "パラベン・アルコール無添加の低刺激処方"
@@ -199,8 +199,8 @@ products:
     price: 7158
     capacity: "4個セット"
     pricePerUnit: "約1790円/個"
-    rating: 4.75
-    reviewCount: 484
+    rating: 4.74
+    reviewCount: 485
     features:
       - "低刺激設計で敏感肌に配慮"
       - "やさしさを重視した素材選択"

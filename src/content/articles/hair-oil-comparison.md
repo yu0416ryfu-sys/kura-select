@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-06-23"
+updatedAt: "2026-06-24"
 draft: false
 products:
   - rank: 1
@@ -178,7 +178,7 @@ products:
     capacity: "80mL"
     pricePerUnit: "約29円/mL"
     rating: 4.64
-    reviewCount: 13623
+    reviewCount: 13624
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -222,7 +222,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約35円/mL"
     rating: 4.64
-    reviewCount: 3582
+    reviewCount: 3588
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"
@@ -242,12 +242,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisopo%2Floaoil.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
+        updatedAt: "2026-06-24"
         price: 5500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_loaoil"
         available: true
         rating: 4.68
-        reviewCount: 398
+        reviewCount: 403
   - rank: 10
     name: "アメイジングシャインヘアオイル"
     brand: "クイーンズバスルーム"
@@ -255,7 +255,7 @@ products:
     capacity: "50mL"
     pricePerUnit: "約66円/mL"
     rating: 4.59
-    reviewCount: 2536
+    reviewCount: 2537
     features:
       - "ドライヤー後の乾いた髪に使う仕上げ用ヘアオイル"
       - "ツヤと潤いを与えながらボリューム感も保つ設計"

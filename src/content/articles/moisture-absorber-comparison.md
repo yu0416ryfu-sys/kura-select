@@ -4,7 +4,7 @@ description: "除湿剤を吸湿量あたりのコストで徹底比較。水と
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-06-23"
+updatedAt: 2026-06-24
 products:
   - rank: 1
     name: "炭八 室内用"
@@ -13,7 +13,7 @@ products:
     capacity: "12L大袋×4個セット"
     pricePerUnit: "約0.05円/mL"
     rating: 4.66
-    reviewCount: 1056
+    reviewCount: 1058
     features:
       - "調湿木炭で繰り返し使える環境にやさしい除湿剤"
       - "天日干しで吸湿力が復活するため長期間使用可能"

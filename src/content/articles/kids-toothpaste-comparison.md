@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-20"
+updatedAt: "2026-06-24"
 products:
   - rank: 1
     name: "ライオン チェックアップ コドモ アップル 60g"
@@ -198,7 +198,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902508104463.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-23"
+        updatedAt: "2026-06-24"
         price: 485
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902508104463"
         available: true
@@ -225,7 +225,7 @@ products:
       - "味や泡立ちは子どもの好みが分かれる"
     recommendedFor: "子ども用歯みがき粉を年齢や味で選びたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t0trn.3rdw642b.g00t0trn.3rdw7fbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkelly-s%2F10003245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkelly-s%2Fi%2F10003245%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kelly-s/cabinet/imgrc0086406791.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kelly-s/cabinet/chkupkodomogr3_01.jpg?_ex=128x128"
   - rank: 9
     name: "ばぶりーキッズ ゆらしー こども用泡歯磨き粉 48ml"
     brand: "from COCORO"
@@ -233,7 +233,7 @@ products:
     capacity: "48ml"
     pricePerUnit: "約11円/ml"
     rating: 4.26
-    reviewCount: 230
+    reviewCount: 231
     features:
       - "子ども向けの歯みがき用品"
       - "ジェルや泡タイプなど使いやすさで選べる"
