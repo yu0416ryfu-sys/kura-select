@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-06-23"
+updatedAt: "2026-06-25"
 draft: false
 products:
   - rank: 1
@@ -46,8 +46,8 @@ products:
     price: 618
     capacity: "300mL"
     pricePerUnit: "約2.1円/mL"
-    rating: 4.67
-    reviewCount: 15
+    rating: 4.69
+    reviewCount: 16
     features:
       - "濡れた肌に直接なじませるお風呂での使用を前提にした保湿ボディミルク"
       - "無香料処方で香りに敏感な人や他の香りと合わせたい人に使いやすい"
@@ -133,8 +133,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbettysbeauty%2F10910012.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
-        price: 1516
+        updatedAt: "2026-06-25"
+        price: 1490
         rating: 4.49
         reviewCount: 150
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bettysbeauty_10910012"
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4971710568530.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-25"
         price: 2028
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4971710568530"
         available: true
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10161795.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-25"
         price: 2899
         rating: 4.72
         reviewCount: 32
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F56770.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-25"
         price: 2280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_56770"
         available: true

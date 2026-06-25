@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-06-24"
+updatedAt: "2026-06-25"
 draft: false
 products:
   - rank: 1
@@ -76,11 +76,11 @@ products:
   - rank: 3
     name: "ロイヤルカナン インドア 7+ 室内中高齢猫用 3.5kg"
     brand: "ロイヤルカナン"
-    price: 5280
+    price: 5210
     capacity: "3.5kg"
     pricePerUnit: "約1.5円/g"
     rating: 4.8
-    reviewCount: 131
+    reviewCount: 132
     features:
       - "7歳以上の室内で生活する中高齢猫向け総合栄養食"
       - "ジッパー付き袋で開封後の保存がしやすい設計"
@@ -109,11 +109,11 @@ products:
   - rank: 4
     name: "ロイヤルカナン インドア 4kg"
     brand: "ロイヤルカナン"
-    price: 6199
+    price: 5980
     capacity: "4kg"
     pricePerUnit: "約1.5円/g"
     rating: 4.64
-    reviewCount: 669
+    reviewCount: 670
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -142,9 +142,9 @@ products:
   - rank: 5
     name: "ロイヤルカナン キトン"
     brand: "ロイヤルカナン"
-    price: 3979
+    price: 3650
     capacity: "2kg"
-    pricePerUnit: "約2.0円/g"
+    pricePerUnit: "約1.8円/g"
     rating: 4.73
     reviewCount: 534
     features:
@@ -179,7 +179,7 @@ products:
     capacity: "2kg"
     pricePerUnit: "約2.0円/g"
     rating: 4.67
-    reviewCount: 818
+    reviewCount: 821
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcell-apt%2Fc-2801-800-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-25"
         price: 5400
         rating: 0
         reviewCount: 0
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetoukoku%2F42.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-25"
         price: 10670
         rating: 4.85
         reviewCount: 20
@@ -320,7 +320,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4902201210980.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-25"
         price: 3069
         rating: 0
         reviewCount: 0

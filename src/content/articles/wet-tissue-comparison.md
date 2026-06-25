@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ10選を1枚あたり単
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-24"
+updatedAt: "2026-06-25"
 products:
   - rank: 1
     name: "ノンアルコール 99%除菌ウェットティッシュ"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmarubeni-forestlinx%2Fjyokin-99.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-23"
+        updatedAt: "2026-06-25"
         price: 4980
         rating: 4.81
         reviewCount: 59
@@ -46,7 +46,7 @@ products:
     capacity: "80枚×15個"
     pricePerUnit: "約1.8円/枚"
     rating: 4.69
-    reviewCount: 4589
+    reviewCount: 4594
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-23"
+        updatedAt: "2026-06-25"
         price: 2180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
         available: true
@@ -166,8 +166,8 @@ products:
     price: 5269
     capacity: "43枚×8個×4個（1376枚）"
     pricePerUnit: "約3.8円/枚"
-    rating: 4.74
-    reviewCount: 230
+    rating: 4.75
+    reviewCount: 232
     features:
       - "ノンアルコールタイプの除菌ウェットティッシュ詰替"
       - "ワンプッシュで開閉できる取り出し口設計"
@@ -285,8 +285,8 @@ products:
     price: 2980
     capacity: "96枚"
     pricePerUnit: "約31円/枚"
-    rating: 4.34
-    reviewCount: 321
+    rating: 4.33
+    reviewCount: 323
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"

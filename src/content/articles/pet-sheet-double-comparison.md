@@ -4,7 +4,7 @@ description: "ペットシーツのダブル（スーパーワイド）サイズ
 category: "pet-sheet"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: 2026-06-24
+updatedAt: "2026-06-25"
 draft: false
 products:
   - rank: 1
@@ -80,7 +80,7 @@ products:
     capacity: "800枚"
     pricePerUnit: "約5.0円/枚"
     rating: 4.55
-    reviewCount: 14398
+    reviewCount: 14405
     features:
       - "スーパーワイド・ダブルワイド系のペットシーツ"
       - "大型犬や多頭飼いのトイレまわりに使いやすい"
@@ -122,10 +122,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpet-studio%2F0003.html"
         matchStatus: "pending"
-        updatedAt: "2026-05-29"
+        updatedAt: "2026-06-25"
         price: 4690
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pet-studio_0003"
         available: true
+        rating: 4.3
+        reviewCount: 819
   - rank: 6
     name: "ペットシーツ スーパーワイド 2ケース"
     brand: "ペットスタジオ"
@@ -153,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwannyan%2Fm7140533.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-23"
+        updatedAt: "2026-06-25"
         price: 5900
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wannyan_m7140533"
         available: true
@@ -241,7 +243,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frocky%2Far603011.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-23"
+        updatedAt: "2026-06-25"
         price: 17090
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rocky_ar603011"
         available: true

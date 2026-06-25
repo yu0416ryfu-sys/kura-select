@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-21"
+updatedAt: "2026-06-25"
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -13,7 +13,7 @@ products:
     capacity: "200枚×30袋（6000枚）"
     pricePerUnit: "約0.65円/枚"
     rating: 4.62
-    reviewCount: 310
+    reviewCount: 311
     features:
       - "1枚あたり約0.66円の圧倒的コスパ"
       - "業務用の安定した品質"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F1228689.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-22"
+        updatedAt: "2026-06-25"
         price: 3970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_1228689"
         available: true
@@ -110,7 +110,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901670117899x24.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-22"
+        updatedAt: "2026-06-25"
         price: 4280
         rating: 0
         reviewCount: 0
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4901750370008.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-22"
+        updatedAt: "2026-06-25"
         price: 5885
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4901750370008"
         available: true
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F930101.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-22"
+        updatedAt: "2026-06-25"
         price: 6127
         rating: 4.67
         reviewCount: 48
@@ -231,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsukasa1%2F10000311.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-16"
+        updatedAt: "2026-06-25"
         price: 5173
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsukasa1_10000311"
         available: true
@@ -240,9 +240,9 @@ products:
   - rank: 9
     name: "スコッティ ファイン 3倍巻き キッチンタオル 4ロール×4パック"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 4688
+    price: 4810
     capacity: "4ロール×4パック（16ロール）"
-    pricePerUnit: "約293円/ロール"
+    pricePerUnit: "約301円/ロール"
     rating: 5
     reviewCount: 4
     features:
@@ -264,7 +264,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Fr8o50.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-23"
+        updatedAt: "2026-06-25"
         price: 3899
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-kurashi_r8o50"
         available: true
@@ -297,7 +297,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4975156901005.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-23"
+        updatedAt: "2026-06-25"
         price: 4594
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4975156901005"
         available: true

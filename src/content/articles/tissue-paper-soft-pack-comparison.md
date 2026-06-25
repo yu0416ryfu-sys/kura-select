@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: 2026-06-24
+updatedAt: 2026-06-25
 draft: false
 products:
   - rank: 1
@@ -102,7 +102,7 @@ products:
     capacity: "150組×50個"
     pricePerUnit: "約0.39円/組"
     rating: 4.54
-    reviewCount: 778
+    reviewCount: 779
     features:
       - "アイリスオーヤマのソフトパック"
       - "150組×50個のまとめ買いパック"
