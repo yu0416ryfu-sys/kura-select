@@ -4,7 +4,7 @@ description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹
 category: "fabric-softener"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-24"
+updatedAt: 2026-06-29
 products:
   - rank: 1
     name: "ランドリン 柔軟剤 詰め替えアソートセット 9個入り"
@@ -27,7 +27,7 @@ products:
       - "好みの香りの比率を選べないアソート構成"
     recommendedFor: "複数の香りを楽しみたい方・低刺激処方を求める方・まとめ買い派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2Flaundrin-refillassortset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10006269%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08869620/imgrc0124133845.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08869620/imgrc0115859411.jpg?_ex=128x128"
   - rank: 2
     name: "さらさ 柔軟剤 詰替 超ジャンボ 1350ml×6袋"
     brand: "P&G（さらさ）"
@@ -97,11 +97,11 @@ products:
   - rank: 4
     name: "ナイスアンドクイック ボタニカル 柔軟剤 詰替 ピュアコットンシャボンの香り 1320mL 2個セット"
     brand: "ナイスアンドクイック"
-    price: 2675
+    price: 2816
     capacity: "1320mL×2個"
-    pricePerUnit: "約1.0円/mL"
-    rating: 4.84
-    reviewCount: 161
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.85
+    reviewCount: 162
     features:
       - "植物由来成分90%以上配合のボタニカル処方"
       - "パラベン・シリコン・合成香料など8つの無添加処方"

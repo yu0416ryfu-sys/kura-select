@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-24"
+updatedAt: 2026-06-29
 products:
   - rank: 1
     name: "ライオン チェックアップ コドモ アップル 60g"
@@ -233,7 +233,7 @@ products:
     capacity: "48ml"
     pricePerUnit: "約11円/ml"
     rating: 4.26
-    reviewCount: 231
+    reviewCount: 234
     features:
       - "子ども向けの歯みがき用品"
       - "ジェルや泡タイプなど使いやすさで選べる"

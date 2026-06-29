@@ -4,7 +4,7 @@ description: "除菌スプレー・アルコールを1mLあたりのコストで
 category: "sanitizing-spray"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-25"
+updatedAt: 2026-06-29
 products:
   - rank: 1
     name: "カビキラー アルコール除菌 キッチン用 詰め替え用【カビキラー】[アルコールスプ"
@@ -178,7 +178,7 @@ products:
     capacity: "180ml×3本"
     pricePerUnit: "約5.4円/mL"
     rating: 4.69
-    reviewCount: 1718
+    reviewCount: 1721
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"
@@ -211,7 +211,7 @@ products:
     capacity: "180ml"
     pricePerUnit: "約5.6円/mL"
     rating: 4.65
-    reviewCount: 4068
+    reviewCount: 4071
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"
