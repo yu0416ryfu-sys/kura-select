@@ -237,6 +237,7 @@ rg '"articleFile":"{確認したarticleFile}"' data/rag/capacity-patterns.jsonl
 - `cons` は欠点を煽らず、合わない用途・注意点・好みが分かれる点として書く
 - 各項目は重複させず、1行1観点にする
 - 薬機法・景表法に触れやすい効果効能の断定、「最安」「No.1」など根拠が必要な断定は避ける
+- **商品追記は frontmatter `products[]` のみ**。本文に手書きの価格表・単価行（`| … 円 |` / `円/mL` 等）や商品別の固定数値を足さない。比較・単価・ランキングは上部自動比較表に委ねる（`pnpm test` の `tests/article-body-lint.test.ts` がガード）
 
 **役割の目安**:
 
