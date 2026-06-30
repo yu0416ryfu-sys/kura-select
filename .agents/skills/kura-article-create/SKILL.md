@@ -179,7 +179,18 @@ tags:
 - 「コスパ比較のポイント」では、単価の考え方・容量単位・まとめ買い時の注意点を書く
 - FAQは3〜4問。医薬品的な効果効能、過度な断定、根拠のない推奨を避ける
 
-本文構成:
+### FAQ の扱い（重要）
+
+このサイトの FAQ は **frontmatter の `faqs:` を唯一のソース**にカード表示＋FAQPage JSON-LD を出力する（`ArticleLayout.astro` / `FaqList.astro`）。本文に `## よくある質問（FAQ）` を残したままだと、カード化されずプレーンテキスト表示になり、JSON-LD も目次にも載らない。
+
+手順:
+
+1. まず本文に `## よくある質問（FAQ）` セクションを書く（`**Q. 質問？**` 改行 `A. 回答` 形式。`scripts/lib/faq.ts` がこの書式を抽出する）
+2. `pnpm inject-faqs` を実行し、本文 FAQ を `faqs:` frontmatter に反映する
+3. **本文の `## よくある質問（FAQ）` セクションは削除**し、frontmatter 一本化する（既存記事と同じ＝本文には FAQ 見出しを残さない）
+4. `pnpm inject-faqs --check` が「faqs は最新です」になることを確認する
+
+本文構成（FAQ は inject 後に削除するため、最終的な本文には残らない）:
 
 ```markdown
 ## ○○の選び方ガイド
@@ -189,7 +200,7 @@ tags:
 
 ## コスパ比較のポイント
 
-## よくある質問（FAQ）
+## よくある質問（FAQ）   ← inject-faqs 実行後に削除（frontmatter faqs へ移す）
 
 ## まとめ
 
@@ -233,6 +244,9 @@ node --check scripts/update-products.mjs
 ```bash
 rg "item.rakuten.co.jp" src/content/articles/{slug}-comparison.md
 pnpm update-products
+pnpm inject-faqs              # 本文FAQ → faqs: frontmatter を生成
+# → 生成後、本文の「## よくある質問（FAQ）」セクションを削除する
+pnpm inject-faqs --check     # 「faqs は最新です」を確認
 pnpm check-additions -- --target=10  # 10商品未満で候補追加したい場合のみ
 pnpm test
 pnpm build
@@ -241,6 +255,8 @@ pnpm build
 確認観点:
 
 - `rg "item.rakuten.co.jp"` が残る場合は `name` を修正して `pnpm update-products` を再実行
+- **FAQ は frontmatter `faqs:` 一本化**。`pnpm inject-faqs` で生成し、本文の `## よくある質問（FAQ）` は削除する（残すとカード化されずプレーンテキスト表示になる）
+- `grep -l "## よくある質問" src/content/articles/{slug}-comparison.md` が空（本文FAQ見出しが残っていない）ことを確認
 - 初期作成は `draft: true`。`pnpm update-products` / `pnpm build` 後に問題なければ `draft: false` へ変更
 - 既存カテゴリ内の派生記事では `getArticleSpecificAdditionRule()` を必ず検討。別サイズ・別形状・別タイプが混ざる場合のみ、`keywords` / `requiredGroups` / `exclude` / `units` を最小限で追加
 - `getArticleSpecificAdditionRule()` を追加した場合は `pnpm check-additions -- --file={slug}-comparison.md --target=10` で候補が記事意図に合うか確認
