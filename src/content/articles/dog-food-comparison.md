@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-06-25"
+updatedAt: 2026-06-30
 draft: false
 products:
   - rank: 1
@@ -28,7 +28,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q2ujn.3rdw6097.g00q2ujn.3rdw7276/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falbiot%2Fnh_main_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falbiot%2Fi%2F10000275%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/event-bn/100pb/nh-ml-pbpkimg.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/n_nh/renew2024/nh-ml-pkimgre.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -160,7 +160,7 @@ products:
       - "6個セットのため保管スペースが必要になる"
     recommendedFor: "室内飼育の小型犬を多頭または長期飼育している方・開封後鮮度を優先したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fw-145111-00-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10068095%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/rinji/w-145111-00-00.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/w-145111-00-00.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -178,8 +178,8 @@ products:
     price: 4650
     capacity: "3kg"
     pricePerUnit: "約1550円/kg"
-    rating: 4.69
-    reviewCount: 168
+    rating: 4.7
+    reviewCount: 172
     features:
       - "ダックスフンド専用に設計された犬種別ドライフード（生後10ヶ月齢以上対象）"
       - "オメガ3脂肪酸（EPA+DHA）・L-カルニチン配合の栄養設計"
@@ -259,7 +259,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q1mvn.3rdw675d.g00q1mvn.3rdw735a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogparadise%2F4562192370942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogparadise%2Fi%2F10004845%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/ad_cart/math/01/0813369001904.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/artemis/0813369001904.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -278,7 +278,7 @@ products:
     capacity: "1kg"
     pricePerUnit: "約3000円/kg"
     rating: 4.72
-    reviewCount: 2544
+    reviewCount: 2545
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

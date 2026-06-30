@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: 2026-06-25
+updatedAt: "2026-06-30"
 products:
   - rank: 1
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsup-s%2Fyah20250207-curel.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-10"
+        updatedAt: "2026-06-30"
         price: 1390
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sup-s_yah20250207-curel"
         available: true
@@ -67,8 +67,8 @@ products:
     price: 3780
     capacity: "400mL"
     pricePerUnit: "約9.4円/mL"
-    rating: 4.63
-    reviewCount: 46
+    rating: 4.64
+    reviewCount: 47
     features:
       - "天然由来成分を重視したクレンジングオイル"
       - "400mLの大容量タイプ"
@@ -143,12 +143,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbegirl%2F220016596.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-30"
         price: 2480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/begirl_220016596"
         available: true
-        rating: 4.64
-        reviewCount: 44
+        rating: 4.63
+        reviewCount: 46
   - rank: 6
     name: "manyo ピュアクレンジングオイル ディープクリーン 200mL"
     brand: "manyo"
@@ -207,7 +207,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdhc%2F8000023597.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-30"
         price: 2717
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dhc_8000023597"
         available: true
@@ -216,7 +216,7 @@ products:
   - rank: 8
     name: "Bioré ビオレ素肌つるるんクレンジングウォーター詰替"
     brand: "花王（ビオレ）"
-    price: 6201
+    price: 6041
     capacity: "290mL"
     pricePerUnit: "約21円/mL"
     rating: 4.4
@@ -242,7 +242,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.94
-    reviewCount: 3181
+    reviewCount: 3183
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"
@@ -275,7 +275,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約44円/mL"
     rating: 4.57
-    reviewCount: 1662
+    reviewCount: 1667
     features:
       - "発酵オイルを配合したクレンジングオイル"
       - "W洗顔不要でメイクと毛穴汚れを落とす"

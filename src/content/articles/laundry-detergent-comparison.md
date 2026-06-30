@@ -4,7 +4,7 @@ description: "洗濯洗剤を1回あたりのコストで徹底比較。液体�
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: 2026-06-25
+updatedAt: "2026-06-30"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -13,7 +13,7 @@ products:
     capacity: "1100g×8個"
     pricePerUnit: "約0.45円/g"
     rating: 4.78
-    reviewCount: 212
+    reviewCount: 217
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-30"
         price: 3978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
         available: true
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou-selection%2Fr5-15080k.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-30"
         price: 5680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou-selection_r5-15080k"
         available: true
@@ -177,7 +177,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-22"
+        updatedAt: "2026-06-30"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -226,7 +226,7 @@ products:
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100003250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10003319%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/4525048232214_03.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/eco02/4525048232214_02.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -259,7 +259,7 @@ products:
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100003252%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10003321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/4525048232214_09.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/eco02/4525048232214_04.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -278,7 +278,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約8.0円/g"
     rating: 4.68
-    reviewCount: 556
+    reviewCount: 557
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"

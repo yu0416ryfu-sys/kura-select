@@ -4,7 +4,7 @@ description: "キッチン用漂白剤を1mLあたりのコストで徹底比較
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-06-24"
+updatedAt: "2026-06-30"
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4901301021144.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-25"
+        updatedAt: "2026-06-30"
         price: 4125
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4901301021144"
         available: true
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F1671344.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-25"
+        updatedAt: "2026-06-30"
         price: 1118
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_1671344"
         available: true
@@ -79,7 +79,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.76円/g"
     rating: 4.64
-    reviewCount: 1425
+    reviewCount: 1426
     features:
       - "酸素系漂白剤で幅広い用途に対応"
       - "界面活性剤配合でキッチン汚れにも効果的"
@@ -99,10 +99,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbutterflyeffectllc%2F46.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-25"
+        updatedAt: "2026-06-30"
         price: 3499
-        rating: 4.81
-        reviewCount: 151
+        rating: 4.82
+        reviewCount: 153
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/butterflyeffectllc_46"
         available: true
   - rank: 4
@@ -208,8 +208,8 @@ products:
     price: 722
     capacity: "2500ml"
     pricePerUnit: "約0.29円/ml"
-    rating: 4.66
-    reviewCount: 92
+    rating: 4.67
+    reviewCount: 93
     features:
       - "花王キッチンハイターの特大サイズ（2500ml）"
       - "塩素系台所用漂白剤でまな板・ふきん・食器の漂白と除菌に対応"
@@ -229,8 +229,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301008619-73-30002004.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-25"
-        price: 669
+        updatedAt: "2026-06-30"
+        price: 810
         rating: 5
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901301008619-73-30002004"
@@ -262,7 +262,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F508035.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-25"
+        updatedAt: "2026-06-30"
         price: 1954
         rating: 0
         reviewCount: 0

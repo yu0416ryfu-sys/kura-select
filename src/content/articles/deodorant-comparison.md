@@ -4,7 +4,7 @@ description: "制汗剤・デオドラントを容量あたりのコストで比
 category: "deodorant"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-24"
+updatedAt: 2026-06-30
 products:
   - rank: 1
     name: "Ban 汗ブロックロールオン プレミアムゴールドラベル 40mL"
@@ -46,7 +46,7 @@ products:
     capacity: "75mL"
     pricePerUnit: "約66円/mL"
     rating: 4.72
-    reviewCount: 672
+    reviewCount: 673
     features:
       - "メンズ向けのロールオン制汗デオドラント"
       - "汗やニオイが気になるワキに直接塗れる"
@@ -60,7 +60,7 @@ products:
       - "広範囲に素早く使うならスプレーの方が楽"
     recommendedFor: "男性向けのロールオン制汗剤を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s54yn.3rdw6a20.g00s54yn.3rdw7634/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclinique%2F6933%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclinique%2Fi%2F10000172%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/clinique/cabinet/thumb/260620_mara_p2/6933.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/clinique/cabinet/thumb/260701_wd_p/6933.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -79,7 +79,7 @@ products:
     capacity: "30mL"
     pricePerUnit: "約110円/mL"
     rating: 4.4
-    reviewCount: 2130
+    reviewCount: 2131
     features:
       - "ジェルクリームタイプのワキ向けデオドラント"
       - "子どもから大人まで使いやすい設計"
@@ -167,7 +167,7 @@ products:
     capacity: "20mL×2個"
     pricePerUnit: "約133円/mL"
     rating: 4.41
-    reviewCount: 486
+    reviewCount: 487
     features:
       - "オリジナルタイプのロールオン制汗デオドラント"
       - "無香料で汗とニオイのケアに使いやすい"
@@ -189,7 +189,7 @@ products:
     capacity: "20ml"
     pricePerUnit: "約167円/ml"
     rating: 4.14
-    reviewCount: 1644
+    reviewCount: 1645
     features:
       - "ロールオンタイプの制汗デオドラント"
       - "無香料タイプ"

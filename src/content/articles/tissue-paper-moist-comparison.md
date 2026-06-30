@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌触りとコス
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-06-22"
+updatedAt: "2026-06-30"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frcmdsp%2Fkr-4902011711400.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-23"
+        updatedAt: "2026-06-30"
         price: 850
         rating: 0
         reviewCount: 0
@@ -144,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758946401-1-d.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-30"
         price: 359
         rating: 0
         reviewCount: 2
@@ -256,7 +256,7 @@ products:
     capacity: "2個パック"
     pricePerUnit: "約399円/個"
     rating: 4.75
-    reviewCount: 150
+    reviewCount: 151
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"

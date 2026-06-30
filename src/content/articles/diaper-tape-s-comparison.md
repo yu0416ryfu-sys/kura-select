@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつ9製品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-06-25"
+updatedAt: "2026-06-30"
 products:
   - rank: 1
     name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚 旧パッケージ"
@@ -12,8 +12,8 @@ products:
     price: 2930
     capacity: "124枚+8枚（132枚）"
     pricePerUnit: "約22円/枚"
-    rating: 4.5
-    reviewCount: 10
+    rating: 4.46
+    reviewCount: 13
     features:
       - "全面通気性に優れたエアスルー素材採用"
       - "132枚大容量で1枚あたりコストが安い"
@@ -35,7 +35,7 @@ products:
     capacity: "70枚×4個（280枚）"
     pricePerUnit: "約22円/枚"
     rating: 4.72
-    reviewCount: 511
+    reviewCount: 512
     features:
       - "敏感肌設計でふんわり素材を採用したテープタイプ"
       - "Sサイズ（4〜8kg対応）70枚×4個の大容量セット"
@@ -110,12 +110,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-23"
+        updatedAt: "2026-06-30"
         price: 6688
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true
         rating: 4.75
-        reviewCount: 51
+        reviewCount: 52
   - rank: 5
     name: "パンパース テープ Sサイズ 74枚×4袋"
     brand: "P&G（パンパース）"
@@ -156,7 +156,7 @@ products:
     capacity: "54枚×4個セット"
     pricePerUnit: "約33円/枚"
     rating: 4.74
-    reviewCount: 486
+    reviewCount: 488
     features:
       - "低刺激処方で敏感肌向けに配慮"
       - "安心設計のテープタイプ"
@@ -255,7 +255,7 @@ products:
     capacity: "84枚/4パック"
     pricePerUnit: "約109円/枚"
     rating: 4.68
-    reviewCount: 3891
+    reviewCount: 3894
     features:
       - "全面通気性に優れたエアスルー素材採用"
       - "360度フィットで漏れを防止"

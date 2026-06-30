@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ10選を1枚あたり単
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-25"
+updatedAt: "2026-06-30"
 products:
   - rank: 1
     name: "ノンアルコール 99%除菌ウェットティッシュ"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmarubeni-forestlinx%2Fjyokin-99.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-25"
+        updatedAt: "2026-06-30"
         price: 4980
         rating: 4.81
         reviewCount: 59
@@ -46,7 +46,7 @@ products:
     capacity: "80枚×15個"
     pricePerUnit: "約1.8円/枚"
     rating: 4.69
-    reviewCount: 4594
+    reviewCount: 4606
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -134,7 +134,7 @@ products:
     capacity: "60枚×48個（2,880枚）"
     pricePerUnit: "約2.6円/枚"
     rating: 4.42
-    reviewCount: 465
+    reviewCount: 467
     features:
       - "アルコール配合で除菌用途に向いたタイプ"
       - "厚手シートで拭き取りやすい設計"
@@ -285,8 +285,8 @@ products:
     price: 2980
     capacity: "96枚"
     pricePerUnit: "約31円/枚"
-    rating: 4.33
-    reviewCount: 323
+    rating: 4.34
+    reviewCount: 332
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -300,7 +300,7 @@ products:
       - "乾燥しない保管が必要"
     recommendedFor: "ウェットティッシュを枚数と使いやすさで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t237n.3rdw6c98.g00t237n.3rdw7b8b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fslotre%2F10000234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fslotre%2Fi%2F10000356%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/sale-main/hunwariatude_5_3.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/12191014/13038805/main_260303.jpg?_ex=128x128"
 tags:
   - "ウェットティッシュ"
   - "ウェットシート"

@@ -4,7 +4,7 @@ description: "父の日に贈りやすい実用ギフトを比較。名入れボ
 category: "gift"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-06-25"
+updatedAt: "2026-06-30"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4955287917984.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-25"
+        updatedAt: "2026-06-30"
         price: 3780
         rating: 0
         reviewCount: 0
@@ -213,7 +213,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rdztn.3rdw6487.g00rdztn.3rdw7366/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcavatina%2Fralph-117%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcavatina%2Fi%2F10036342%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 5
     reviewCount: 1
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cavatina/cabinet/pt20260625-1/ralph-117.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cavatina/cabinet/ralph-01/ralph-01/ralph-117.jpg?_ex=128x128"
   - rank: 10
     name: "名前入りタンブラーとハンディビアサーバーセット"
     brand: "名入れギフトJORIO"

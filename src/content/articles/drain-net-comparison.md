@@ -4,7 +4,7 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-06-23"
+updatedAt: 2026-06-30
 draft: false
 products:
   - rank: 1
@@ -46,8 +46,8 @@ products:
     price: 438
     capacity: "100枚"
     pricePerUnit: "約4.4円/枚"
-    rating: 4.67
-    reviewCount: 3
+    rating: 4.5
+    reviewCount: 4
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

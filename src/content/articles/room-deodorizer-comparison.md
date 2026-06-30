@@ -4,7 +4,7 @@ description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-06-25"
+updatedAt: "2026-06-30"
 products:
   - rank: 1
     name: "サライウォーター 大容量 次亜塩素酸水"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fg-sarai%2F10000080.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-30"
         price: 6996
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/g-sarai_10000080"
         available: true
@@ -60,13 +60,13 @@ products:
       - "使用場所の注意書き確認が必要"
     recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q1mvn.3rdw675d.g00q1mvn.3rdw735a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogparadise%2F1151%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogparadise%2Fi%2F10003603%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/ad_cart/math/02/4580361060036.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/img07/4580361060036.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F4580361060036.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-30"
         price: 7700
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_4580361060036"
         available: true
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F113-8544-001.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-06-30"
         price: 720
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_113-8544-001"
         available: true
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F580764.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-30"
         price: 3080
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_580764"
         available: true
@@ -208,7 +208,7 @@ products:
     capacity: "10ml"
     pricePerUnit: "約67円/ml"
     rating: 4.5
-    reviewCount: 3002
+    reviewCount: 3004
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -230,7 +230,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1265円/kg"
     rating: 4.79
-    reviewCount: 2956
+    reviewCount: 2960
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -286,7 +286,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1551円/kg"
     rating: 4.68
-    reviewCount: 1637
+    reviewCount: 1639
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
