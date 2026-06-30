@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: 2026-06-30
+updatedAt: "2026-06-30"
 products:
   - rank: 1
     name: "システマ ハグキプラス プレミアム 95g×4本セット"

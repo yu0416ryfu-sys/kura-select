@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: 2026-06-30
+updatedAt: "2026-06-30"
 products:
   - rank: 1
     name: "ニベア ハンドクリーム 75g"

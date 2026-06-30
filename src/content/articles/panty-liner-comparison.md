@@ -29,6 +29,17 @@ products:
     recommendedFor: "香りでニオイ対策をしたい方・毎日使いでコスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ristn.3rdw6db1.g00ristn.3rdw7273/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-benkyo%2F4903111364244%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-benkyo%2Fi%2F10125991%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-benkyo/cabinet/shohin128/4903111364244.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbenkyoudou%2Fso-4903111364244.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-30"
+        price: 314
+        rating: 5
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/benkyoudou_so-4903111364244"
+        available: true
   - rank: 2
     name: "ロリエ きれいスタイル 超吸ランジェリーライナー 天然コットン100%"
     brand: "花王（ロリエ）"
@@ -73,6 +84,17 @@ products:
     recommendedFor: "肌へのやさしさを最優先したい方・敏感な日が多い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1z8n.3rdw6cd0.g00r1z8n.3rdw7404/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-server%2F4903111316083%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-server%2Fi%2F10093827%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-server/cabinet/imgdir109/4903111316083_1.gif?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903111316083.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-30"
+        price: 286
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903111316083"
+        available: true
   - rank: 4
     name: "サラサーティ コットン100 極上やわらか 無香料 おりものシート"
     brand: "小林製薬（サラサーティ）"

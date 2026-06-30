@@ -4,7 +4,7 @@ description: "サントリー・アサヒ・エビアンなど人気の天然水
 category: "mineral-water"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: 2026-06-30
+updatedAt: "2026-06-30"
 draft: false
 products:
   - rank: 1
