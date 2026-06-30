@@ -492,7 +492,7 @@ describe("Yahoo 検索フォールバック", () => {
     expect(offers.find((o) => o.provider === "yahoo")?.label).not.toBe("Yahoo!で探す");
   });
 
-  it("pending Yahoo offer がある場合もフォールバックを追加しない", () => {
+  it("pending Yahoo offer がある場合はフォールバックを追加する（offer 本体は非表示）", () => {
     const offers = getVisibleOffers(
       {
         name: "テスト商品",
@@ -501,10 +501,15 @@ describe("Yahoo 検索フォールバック", () => {
       },
       fallbackOptions
     );
-    expect(offers.some((o) => o.label === "Yahoo!で探す")).toBe(false);
+    // pending offer 本体（matched 風カード）は依然として非表示
+    expect(offers.some((o) => o.provider === "yahoo" && o.url === yahooUrl)).toBe(false);
+    // 検索フォールバックは追加される
+    const yahoo = offers.find((o) => o.label === "Yahoo!で探す");
+    expect(yahoo).toBeDefined();
+    expect(yahoo?.url).toContain("valuecommerce.com");
   });
 
-  it("review Yahoo offer がある場合もフォールバックを追加しない", () => {
+  it("review Yahoo offer がある場合はフォールバックを追加する（offer 本体は非表示）", () => {
     const offers = getVisibleOffers(
       {
         name: "テスト商品",
@@ -513,10 +518,13 @@ describe("Yahoo 検索フォールバック", () => {
       },
       fallbackOptions
     );
-    expect(offers.some((o) => o.label === "Yahoo!で探す")).toBe(false);
+    expect(offers.some((o) => o.provider === "yahoo" && o.url === yahooUrl)).toBe(false);
+    const yahoo = offers.find((o) => o.label === "Yahoo!で探す");
+    expect(yahoo).toBeDefined();
+    expect(yahoo?.url).toContain("valuecommerce.com");
   });
 
-  it("rejected Yahoo offer がある場合もフォールバックを追加しない", () => {
+  it("rejected Yahoo offer がある場合はフォールバックを追加する（offer 本体は非表示）", () => {
     const offers = getVisibleOffers(
       {
         name: "テスト商品",
@@ -525,7 +533,10 @@ describe("Yahoo 検索フォールバック", () => {
       },
       fallbackOptions
     );
-    expect(offers.some((o) => o.label === "Yahoo!で探す")).toBe(false);
+    expect(offers.some((o) => o.provider === "yahoo" && o.url === yahooUrl)).toBe(false);
+    const yahoo = offers.find((o) => o.label === "Yahoo!で探す");
+    expect(yahoo).toBeDefined();
+    expect(yahoo?.url).toContain("valuecommerce.com");
   });
 
   it("enabled: false の場合はフォールバックを追加しない", () => {

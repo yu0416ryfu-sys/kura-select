@@ -263,7 +263,9 @@ export function getVisibleOffers(
   const fallback = hasRakutenOffer ? null : getRakutenFallbackOffer(product);
   const visibleOffers = fallback ? [...offers, fallback] : offers;
 
-  const hasAnyYahooOffer = (product.offers ?? []).some((offer) => offer.provider === "yahoo");
+  // matched（表示対象）な Yahoo offer があるときだけフォールバックを抑止する。
+  // pending / review / rejected は表示対象外なので、検索フォールバックで導線を確保する。
+  const hasMatchedYahooOffer = offers.some((offer) => offer.provider === "yahoo");
   const yahooFallback = options.yahooSearchFallback;
   const shouldAddYahooSearchFallback =
     (enabledProviders as OfferProvider[]).includes("yahoo") &&
@@ -271,7 +273,7 @@ export function getVisibleOffers(
     Boolean(yahooFallback?.sid) &&
     Boolean(yahooFallback?.pid) &&
     Boolean(product.name) &&
-    !hasAnyYahooOffer;
+    !hasMatchedYahooOffer;
 
   const visibleWithYahooFallback = shouldAddYahooSearchFallback
     ? [
