@@ -17,7 +17,8 @@ import {
 export { extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit } from '../../src/lib/capacity.ts';
 
 // フロントマターを YAML としてパースし、data と body に分割する
-function parseFrontmatter(content: string): { data: Record<string, unknown>; body: string } | null {
+// body スキャン（data 外の本文）と faqs スキャンの両方に使うため article-body-lint / tests からも import する。
+export function parseFrontmatter(content: string): { data: Record<string, unknown>; body: string } | null {
   const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---([\s\S]*)$/);
   if (!match) return null;
   try {
