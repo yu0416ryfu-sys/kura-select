@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ10選を1枚あたり単
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-06-30
 products:
   - rank: 1
     name: "ノンアルコール 99%除菌ウェットティッシュ"

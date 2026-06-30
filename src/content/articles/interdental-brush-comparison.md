@@ -43,11 +43,11 @@ products:
   - rank: 2
     name: "オーラルケア フロアフロス 250m 歯科専売品 fluorfloss"
     brand: "楽天市場"
-    price: 3080
+    price: 3210
     capacity: "250m"
-    pricePerUnit: "約12円/m"
+    pricePerUnit: "約13円/m"
     rating: 4.76
-    reviewCount: 546
+    reviewCount: 556
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -142,9 +142,9 @@ products:
   - rank: 5
     name: "REACH リーチ／デンタルフロス 55ヤード(50.2m)×6個入り ワックス・ノ"
     brand: "REACH"
-    price: 2200
+    price: 2298
     capacity: "2m×6個"
-    pricePerUnit: "約183円/m"
+    pricePerUnit: "約192円/m"
     rating: 4.68
     reviewCount: 460
     features:
@@ -180,7 +180,7 @@ products:
     capacity: "30本×4個"
     pricePerUnit: "約9.2円/本"
     rating: 4.81
-    reviewCount: 319
+    reviewCount: 320
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

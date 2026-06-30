@@ -66,8 +66,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksdenki%2F4967576731652.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-25"
-        price: 230
+        updatedAt: "2026-06-30"
+        price: 238
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksdenki_4967576731652"
@@ -132,46 +132,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnicobase%2F3nico-4901301281999.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-30"
         price: 3521
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nicobase_3nico-4901301281999"
         available: true
   - rank: 5
-    name: "クイックルワイパー ドライシート 業務用ワイドサイズ"
-    brand: "花王"
-    price: 1815
-    capacity: "50枚"
-    pricePerUnit: "約36円/枚"
-    rating: 4.81
-    reviewCount: 21
-    features:
-      - "家庭用の約2倍のワイドサイズで一度の拭き取り面積が大幅に増加"
-      - "業務用設計で広い床面を効率よくカバーできる"
-      - "立体吸着構造でホコリ・ゴミをしっかり捕捉"
-    pros:
-      - "ワイドサイズで1回の拭き取りで広い面積をカバーでき掃除時間を短縮"
-      - "業務用の高い耐久性で力を入れて使っても型崩れしにくい"
-      - "大容量の50枚入で補充頻度を抑えられる"
-    cons:
-      - "家庭用サイズに慣れていると大きさに違和感を感じる場合がある"
-      - "対応するワイドワイパーが必要で通常サイズのワイパーには装着できない"
-    recommendedFor: "LDKや廊下など広い床面を効率よく掃除したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufjn.3rdw6521.g00qufjn.3rdw7716/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoyaclean%2Fkao197375h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoyaclean%2Fi%2F10000301%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/toyaclean/cabinet/20220825-1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-25"
-        price: 1640
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
-        available: true
-        rating: 4.92
-        reviewCount: 12
-  - rank: 6
     name: "花王 クイックルワイパー 立体吸着ウエットシート 香りが残らないタイプ"
     brand: "花王（クイックルワイパー）"
     price: 599
@@ -198,13 +165,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301327826.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-30"
         price: 471
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301327826"
         available: true
         rating: 4.81
         reviewCount: 21
-  - rank: 7
+  - rank: 6
     name: "クイックルワイパー ワイド 立体吸着ドライシート 業務用"
     brand: "花王"
     price: 1881
@@ -231,8 +198,41 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
-        price: 1640
+        updatedAt: "2026-06-30"
+        price: 1800
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
+        available: true
+        rating: 4.92
+        reviewCount: 12
+  - rank: 7
+    name: "クイックルワイパー ドライシート 業務用ワイドサイズ"
+    brand: "花王"
+    price: 1958
+    capacity: "50枚"
+    pricePerUnit: "約39円/枚"
+    rating: 4.81
+    reviewCount: 21
+    features:
+      - "家庭用の約2倍のワイドサイズで一度の拭き取り面積が大幅に増加"
+      - "業務用設計で広い床面を効率よくカバーできる"
+      - "立体吸着構造でホコリ・ゴミをしっかり捕捉"
+    pros:
+      - "ワイドサイズで1回の拭き取りで広い面積をカバーでき掃除時間を短縮"
+      - "業務用の高い耐久性で力を入れて使っても型崩れしにくい"
+      - "大容量の50枚入で補充頻度を抑えられる"
+    cons:
+      - "家庭用サイズに慣れていると大きさに違和感を感じる場合がある"
+      - "対応するワイドワイパーが必要で通常サイズのワイパーには装着できない"
+    recommendedFor: "LDKや廊下など広い床面を効率よく掃除したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufjn.3rdw6521.g00qufjn.3rdw7716/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoyaclean%2Fkao197375h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoyaclean%2Fi%2F10000301%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/toyaclean/cabinet/20220825-1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-30"
+        price: 1800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
         available: true
         rating: 4.92
@@ -264,8 +264,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
-        price: 1640
+        updatedAt: "2026-06-30"
+        price: 1800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
         available: true
         rating: 4.92
@@ -319,8 +319,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkilat%2Fsk5254.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
-        price: 1298
+        updatedAt: "2026-06-30"
+        price: 1408
         rating: 0
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_sk5254"

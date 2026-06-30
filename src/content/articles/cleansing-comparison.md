@@ -262,12 +262,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-23"
+        updatedAt: "2026-06-30"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true
         rating: 4.93
-        reviewCount: 458
+        reviewCount: 459
   - rank: 10
     name: "KINS クレンジングオイル 100mL"
     brand: "KINS"
@@ -295,12 +295,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkins%2Fkcleanash0000.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-06-30"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kins_kcleanash0000"
         available: true
-        rating: 4.68
-        reviewCount: 87
+        rating: 4.67
+        reviewCount: 88
 tags:
   - "クレンジング おすすめ"
   - "クレンジング コスパ"

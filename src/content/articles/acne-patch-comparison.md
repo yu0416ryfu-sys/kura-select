@@ -14,7 +14,7 @@ products:
     capacity: "56枚"
     pricePerUnit: "約14円/枚"
     rating: 4.3
-    reviewCount: 802
+    reviewCount: 803
     features:
       - "薬用CICA配合のハイドロコロイドニキビパッチ"
       - "コメド（黒ニキビ）にも対応した設計"

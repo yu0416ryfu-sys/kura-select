@@ -51,6 +51,17 @@ products:
     recommendedFor: "肌へのやさしさと定番の安心感を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10092408%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10038590%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/shouhin84/10092408.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10092408.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-30"
+        price: 986
+        rating: 4.93
+        reviewCount: 98
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10092408"
+        available: true
   - rank: 3
     name: "白十字 ファミリーケア ワンタッチパット Mサイズ 22枚"
     brand: "白十字（ファミリーケア）"
@@ -73,6 +84,17 @@ products:
     recommendedFor: "広めのキズをしっかり覆いたい方・中容量で試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.3rdw6eed.g00s0vmn.3rdw7144/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4987603464520%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10049828%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/09516818/4987603464520.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987603464520.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-30"
+        price: 580
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4987603464520"
+        available: true
   - rank: 4
     name: "バンドエイド キズパワーパッド ふつうサイズ 10枚"
     brand: "バンドエイド（BAND-AID）"
@@ -95,6 +117,17 @@ products:
     recommendedFor: "防水性や密着力を重視したい方・水仕事が多い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fb114900h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10012789%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/906/4901730021906.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758907765-6-d.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-30"
+        price: 5296
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhan-okusuri_1758907765-6-d"
+        available: true
 tags:
   - "絆創膏 おすすめ"
   - "絆創膏 コスパ"

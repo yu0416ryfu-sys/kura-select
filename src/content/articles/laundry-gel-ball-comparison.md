@@ -207,9 +207,9 @@ products:
   - rank: 8
     name: "緑の魔女 ランドリー 2個セット"
     brand: "ミマスクリーンケア（緑の魔女）"
-    price: 5480
+    price: 5780
     capacity: "5L×2本セット"
-    pricePerUnit: "約548円/L"
+    pricePerUnit: "約578円/L"
     rating: 4.73
     reviewCount: 522
     features:

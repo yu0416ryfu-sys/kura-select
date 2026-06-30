@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Far-06018k.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-24"
+        updatedAt: "2026-06-30"
         price: 21390
         rating: 0
         reviewCount: 0
@@ -229,7 +229,7 @@ products:
   - rank: 9
     name: "クックパー EG 業務用 33cm×30m"
     brand: "旭化成クックパー"
-    price: 1223
+    price: 1224
     capacity: "33cm×30m"
     pricePerUnit: "0円/m"
     rating: 4.8

@@ -50,7 +50,7 @@ products:
       - "薄型タイプのため、尿量が多い場合は複数枚使用を検討"
     recommendedFor: "多頭飼いや大型犬向けに業務用まとめ買いを重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rdq2n.3rdw6d6d.g00rdq2n.3rdw7a87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flgcity%2Fpetsheets%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flgcity%2Fi%2F10001550%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lgcity/cabinet/10106758/10106762/imgrc0094301265.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lgcity/cabinet/10106758/13479499/petsc01.jpg?_ex=128x128"
   - rank: 3
     name: "超薄型ペットシーツ 超大判"
     brand: "StylePlus"
@@ -80,7 +80,7 @@ products:
     capacity: "800枚"
     pricePerUnit: "約5.0円/枚"
     rating: 4.55
-    reviewCount: 14432
+    reviewCount: 14435
     features:
       - "スーパーワイド・ダブルワイド系のペットシーツ"
       - "大型犬や多頭飼いのトイレまわりに使いやすい"

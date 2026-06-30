@@ -47,7 +47,7 @@ products:
     capacity: "200組×60箱"
     pricePerUnit: "約0.42円/組"
     rating: 4.67
-    reviewCount: 289
+    reviewCount: 290
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"

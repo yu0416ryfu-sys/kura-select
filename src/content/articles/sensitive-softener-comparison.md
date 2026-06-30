@@ -101,7 +101,7 @@ products:
     capacity: "1320mL×2個"
     pricePerUnit: "約1.1円/mL"
     rating: 4.85
-    reviewCount: 162
+    reviewCount: 163
     features:
       - "植物由来成分90%以上配合のボタニカル処方"
       - "パラベン・シリコン・合成香料など8つの無添加処方"

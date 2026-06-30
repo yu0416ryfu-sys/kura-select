@@ -203,6 +203,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u1gen.3rdw666e.g00u1gen.3rdw71a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeiseishop%2Fmsv02_3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeiseishop%2Fi%2F10000039%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/meiseishop/cabinet/biiino/item/main-image/msv02_3_top2.jpg?_ex=128x128"
   - rank: 8
+    name: "ニトリル手袋 パウダーフリー 医療対応"
+    brand: "TKJP"
+    price: 1200
+    capacity: "100枚"
+    pricePerUnit: "約12円/枚"
+    rating: 4.57
+    reviewCount: 3543
+    features:
+      - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
+      - "厚み0.1mmで耐穿刺性を確保した設計"
+      - "青・白・黒のカラー展開とSS/S/M/Lサイズ対応"
+    pros:
+      - "医療・介護・食品加工など多用途に使いやすい"
+      - "FDA認証取得で品質基準を重視する方に選びやすい"
+      - "大量購入オプションがあり業務用途にも向く"
+    cons:
+      - "一般的なビニール手袋より単価が高め"
+      - "購入前にサイズと色の選択が必要"
+    recommendedFor: "FDA認証取得のニトリル手袋で品質基準を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs3nn.3rdw6825.g00qs3nn.3rdw7afb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenkapas%2Fglove001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenkapas%2Fi%2F10010258%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tenkapas/cabinet/item_image/item_health_beauty/sanitary-goods/glove001-2026.jpg?_ex=128x128"
+  - rank: 9
     name: "ニトリル手袋 パウダーフリー 100枚"
     brand: "TRINITY COSME"
     price: 1350
@@ -235,28 +257,6 @@ products:
         reviewCount: 2209
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
         available: true
-  - rank: 9
-    name: "ニトリル手袋 パウダーフリー 医療対応"
-    brand: "TKJP"
-    price: 1350
-    capacity: "100枚"
-    pricePerUnit: "約14円/枚"
-    rating: 4.57
-    reviewCount: 3543
-    features:
-      - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
-      - "厚み0.1mmで耐穿刺性を確保した設計"
-      - "青・白・黒のカラー展開とSS/S/M/Lサイズ対応"
-    pros:
-      - "医療・介護・食品加工など多用途に使いやすい"
-      - "FDA認証取得で品質基準を重視する方に選びやすい"
-      - "大量購入オプションがあり業務用途にも向く"
-    cons:
-      - "一般的なビニール手袋より単価が高め"
-      - "購入前にサイズと色の選択が必要"
-    recommendedFor: "FDA認証取得のニトリル手袋で品質基準を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs3nn.3rdw6825.g00qs3nn.3rdw7afb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenkapas%2Fglove001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenkapas%2Fi%2F10010258%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tenkapas/cabinet/item_image/item_health_beauty/sanitary-goods/glove001-2026.jpg?_ex=128x128"
   - rank: 10
     name: "ニトリルゴム手袋 パウダーフリー 100枚"
     brand: "厳選いいもの本舗"

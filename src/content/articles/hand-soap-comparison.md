@@ -46,7 +46,7 @@ products:
     capacity: "4800ml"
     pricePerUnit: "約0.87円/mL"
     rating: 4.71
-    reviewCount: 405
+    reviewCount: 406
     features:
       - "薬用タイプの泡ハンドソープ"
       - "シトラスフルーティの香り"

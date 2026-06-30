@@ -64,9 +64,9 @@ products:
   - rank: 3
     name: "パンパース テープ さらさらケア 4個セット"
     brand: "Pampers"
-    price: 8800
+    price: 8680
     capacity: "4個"
-    pricePerUnit: "約2200円/個"
+    pricePerUnit: "約2170円/個"
     rating: 4.69
     reviewCount: 64
     features:
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7252903.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-25"
+        updatedAt: "2026-06-30"
         price: 9380
         rating: 4.37
         reviewCount: 19
@@ -97,9 +97,9 @@ products:
   - rank: 4
     name: "パンパース さらケアテープ"
     brand: "Pampers"
-    price: 8800
+    price: 8680
     capacity: "4個セット"
-    pricePerUnit: "約2200円/個"
+    pricePerUnit: "約2170円/個"
     rating: 4.66
     reviewCount: 32
     features:
@@ -123,7 +123,7 @@ products:
     capacity: "4個"
     pricePerUnit: "約2289円/個"
     rating: 4.68
-    reviewCount: 3894
+    reviewCount: 3895
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7252903.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-25"
+        updatedAt: "2026-06-30"
         price: 9380
         rating: 4.37
         reviewCount: 19
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7263228f.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-20"
+        updatedAt: "2026-06-30"
         price: 7330
         rating: 4.85
         reviewCount: 26
@@ -189,7 +189,7 @@ products:
     capacity: "70枚×4袋"
     pricePerUnit: "約25円/枚"
     rating: 4.82
-    reviewCount: 127
+    reviewCount: 128
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"

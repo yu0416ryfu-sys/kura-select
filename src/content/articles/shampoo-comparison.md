@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-06-30
 products:
   - rank: 1
     name: "パンテーン シャンプー 詰め替え エクストラダメージケア"

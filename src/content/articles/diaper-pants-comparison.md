@@ -130,7 +130,7 @@ products:
     capacity: "M150枚・L126枚・BIG108枚・BIG+72枚セット"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 1651
+    reviewCount: 1652
     features:
       - "複数サイズをセットで選べる"
       - "ふわもちタッチで肌に優しい"
@@ -196,7 +196,7 @@ products:
     capacity: "M/L/BIG/BIG超から選択、複数枚×4個"
     pricePerUnit: "0円/枚"
     rating: 4.78
-    reviewCount: 1194
+    reviewCount: 1196
     features:
       - "12時間吸収設計で夜間の漏れを防止"
       - "360度ギャザーで寝返りに対応"
@@ -218,7 +218,7 @@ products:
     capacity: "M/L/BIGから選択、3個パック"
     pricePerUnit: "0円/枚"
     rating: 4.79
-    reviewCount: 8250
+    reviewCount: 8253
     features:
       - "ドラえもんのキャラクターデザイン採用"
       - "12時間までの長時間吸収対応"
@@ -236,7 +236,7 @@ products:
   - rank: 10
     name: "ぐんぐん吸収パンツ"
     brand: "グーン（GOO.N）"
-    price: 4980
+    price: 5990
     capacity: "M66枚/L56枚/BIG50枚/BIGより大きい34枚×3個セット"
     pricePerUnit: "0円/枚"
     rating: 4.42

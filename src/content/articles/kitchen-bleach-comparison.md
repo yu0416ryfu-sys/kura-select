@@ -4,7 +4,7 @@ description: "キッチン用漂白剤を1mLあたりのコストで徹底比較
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-06-30
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"

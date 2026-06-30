@@ -86,7 +86,7 @@ products:
   - rank: 4
     name: "パンパース さらさらケア テープ Mサイズ"
     brand: "P&G（パンパース）"
-    price: 8800
+    price: 8680
     capacity: "208枚（52枚×4個・Mサイズ・6〜11kg）"
     pricePerUnit: "約42円/枚"
     rating: 4.69
@@ -175,7 +175,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176206374.html"
-        matchStatus: "pending"
+        matchStatus: "matched"
         updatedAt: "2026-06-30"
         price: 3980
         rating: 0

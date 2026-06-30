@@ -91,7 +91,7 @@ products:
     capacity: "18袋×5個（90袋）"
     pricePerUnit: "約20円/袋"
     rating: 4.77
-    reviewCount: 43
+    reviewCount: 44
     features:
       - "国産六条大麦100%使用"
       - "ノンカフェイン・水出し対応"
