@@ -4,7 +4,7 @@ description: "メラミンスポンジを1個あたりのコストで比較。�
 category: "melamine-sponge"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: 2026-06-30
+updatedAt: 2026-07-01
 draft: false
 products:
   - rank: 1

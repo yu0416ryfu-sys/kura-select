@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-07-01
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -123,7 +123,7 @@ products:
     capacity: "400枚"
     pricePerUnit: "約8.7円/枚"
     rating: 4.7
-    reviewCount: 356
+    reviewCount: 357
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

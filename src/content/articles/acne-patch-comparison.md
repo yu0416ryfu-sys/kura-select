@@ -4,7 +4,7 @@ description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚�
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-07-01
 draft: false
 products:
   - rank: 1
@@ -180,7 +180,7 @@ products:
     capacity: "60枚"
     pricePerUnit: "約17円/枚"
     rating: 4.13
-    reviewCount: 71
+    reviewCount: 72
     features:
       - "夜間の集中ケアを目的とした就寝時使用向けパッチ"
       - "植物由来成分配合・低刺激設計"

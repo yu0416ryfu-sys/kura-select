@@ -4,7 +4,7 @@ description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底�
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-07-01
 products:
   - rank: 1
     name: "アタック 抗菌EX 部屋干し用 詰め替え 2380g×6個セット"
@@ -229,9 +229,9 @@ products:
   - rank: 9
     name: "プロ・ウォッシュ おしゃれ着洗剤"
     brand: "プロ・ウォッシュ"
-    price: 3450
+    price: 3780
     capacity: "1000ml"
-    pricePerUnit: "約3.5円/ml"
+    pricePerUnit: "約3.8円/ml"
     rating: 4.63
     reviewCount: 1274
     features:

@@ -4,7 +4,7 @@ description: "洗濯洗剤を1回あたりのコストで徹底比較。液体�
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-07-01
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -13,7 +13,7 @@ products:
     capacity: "1100g×8個"
     pricePerUnit: "約0.45円/g"
     rating: 4.78
-    reviewCount: 217
+    reviewCount: 219
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -75,9 +75,9 @@ products:
   - rank: 3
     name: "WORKERS 作業着液体洗剤 業務用"
     brand: "WORKERS"
-    price: 9800
+    price: 14432
     capacity: "4500g×4本"
-    pricePerUnit: "約0.54円/g"
+    pricePerUnit: "約0.80円/g"
     rating: 4.61
     reviewCount: 169
     features:

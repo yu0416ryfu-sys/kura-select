@@ -4,7 +4,7 @@ description: "紙おむつを新生児用、Sサイズ、Mサイズ、BIG以上�
 category: "diaper"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-07-01
 products:
   - rank: 1
     name: "グーンプラス テープ"
@@ -123,7 +123,7 @@ products:
     capacity: "4個"
     pricePerUnit: "約2289円/個"
     rating: 4.68
-    reviewCount: 3895
+    reviewCount: 3897
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"

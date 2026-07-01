@@ -4,7 +4,7 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: 2026-06-30
+updatedAt: 2026-07-01
 draft: false
 products:
   - rank: 1
@@ -201,7 +201,7 @@ products:
     capacity: "6本"
     pricePerUnit: "約1390円/本"
     rating: 4.58
-    reviewCount: 191
+    reviewCount: 193
     features:
       - "iOシリーズ（iO2〜iO9）専用設計"
       - "純正品のためiO本体の自動認識機能が正常動作"

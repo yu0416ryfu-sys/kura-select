@@ -4,7 +4,7 @@ description: "クッキングシートを1mあたりの価格で比較。ロー�
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: "2026-07-01"
 products:
   - rank: 1
     name: "フジ クッキングシート 業務用 33cm幅"
@@ -144,8 +144,8 @@ products:
     price: 1780
     capacity: "100枚入り"
     pricePerUnit: "約18円/枚"
-    rating: 4.65
-    reviewCount: 121
+    rating: 4.66
+    reviewCount: 122
     features:
       - "PFAS・フッ素フリーの無漂白クッキングシート"
       - "フライパンや蒸し料理・包み焼きに対応した多用途タイプ"
@@ -161,28 +161,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ukv2n.3rdw65ce.g00ukv2n.3rdw7589/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnewbigace%2Fcompass1717137133%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnewbigace%2Fi%2F10000026%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/newbigace/cabinet/biiino/item/main-image/300400top.jpg?_ex=128x128"
   - rank: 6
-    name: "ANYCL クッキングシート 33cm×30m"
-    brand: "ANYCL（明成）"
-    price: 682
-    capacity: "33cm×30m"
-    pricePerUnit: "0円/m"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "シリコン加工で耐油・耐熱性を備えたロールタイプ"
-      - "33cm幅で多くの天板に合わせやすい"
-      - "オーブン・電子レンジ・蒸し料理に対応"
-    pros:
-      - "シリコン加工でくっつきにくく食材をはがしやすい"
-      - "業務用サイズで頻繁に使う方でも長く使える"
-      - "33cm幅で幅広の天板にも敷きやすい"
-    cons:
-      - "使い捨てタイプのためまとめ購入時に保管スペースが必要"
-      - "切り分ける手間がある"
-    recommendedFor: "シリコン加工ロールシートでコスパを重視したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u1gen.3rdw666e.g00u1gen.3rdw71a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeiseishop%2Fmscks%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeiseishop%2Fi%2F10000053%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/meiseishop/cabinet/biiino/item/main-image/mscks_top_2.jpg?_ex=128x128"
-  - rank: 7
     name: "白クッキングシート 33cm×30m"
     brand: "UACJ製箔"
     price: 1109
@@ -204,7 +182,7 @@ products:
     recommendedFor: "日本製シリコン加工シートで安心感を重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6j6n.3rdw6b39.g00r6j6n.3rdw7ef8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuroya-shop%2F10004703%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuroya-shop%2Fi%2F10004703%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuroya-shop/cabinet/02093156/02990298/03176211/imgrc0106122030.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "東洋アルミ 業務用クッキングシート コアレス 35cm×30m"
     brand: "東洋アルミ"
     price: 3405
@@ -226,7 +204,7 @@ products:
     recommendedFor: "大きめ天板の製菓・調理でコアレスタイプを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F607168%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11336923%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/168/607168.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "クックパー EG 業務用 33cm×30m"
     brand: "旭化成クックパー"
     price: 1224
@@ -248,7 +226,7 @@ products:
     recommendedFor: "実績ある国内ブランドの業務用ロールを求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rc03n.3rdw6fda.g00rc03n.3rdw7e4d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpaquet-poche%2Fcookper_eg3330%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpaquet-poche%2Fi%2F10000100%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/paquet-poche/cabinet/item/202511/cookper-eg3330.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "透明耐熱クッキングシート TSUTSUMU 36cm×20m"
     brand: "イーシザイ・マーケット"
     price: 4950

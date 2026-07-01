@@ -4,7 +4,7 @@ description: "トイレ用洗剤を1回あたりのコストで徹底比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-07-01
 products:
   - rank: 1
     name: "ドメスト 除菌クリーナー 500ml×3個セット"
@@ -53,9 +53,9 @@ products:
   - rank: 3
     name: "除菌洗浄トイレハイター"
     brand: "ハイター"
-    price: 441
+    price: 508
     capacity: "500ml"
-    pricePerUnit: "約0.88円/ml"
+    pricePerUnit: "約1.0円/ml"
     rating: 4.66
     reviewCount: 88
     features:
@@ -119,9 +119,9 @@ products:
   - rank: 5
     name: "ソネット ナチュラルトイレットクリーナー"
     brand: "SONETT（ソネット）"
-    price: 1100
+    price: 1210
     capacity: "750ml"
-    pricePerUnit: "約1.5円/ml"
+    pricePerUnit: "約1.6円/ml"
     rating: 4.58
     reviewCount: 24
     features:
@@ -188,8 +188,8 @@ products:
     price: 1980
     capacity: "1000ml"
     pricePerUnit: "約2.0円/ml"
-    rating: 4.66
-    reviewCount: 117
+    rating: 4.65
+    reviewCount: 118
     features:
       - "トイレ掃除に使える洗浄剤"
       - "黄ばみ・尿石・便座まわりなど用途別に選べる"

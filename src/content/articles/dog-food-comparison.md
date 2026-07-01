@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-07-01
 draft: false
 products:
   - rank: 1
@@ -175,9 +175,9 @@ products:
   - rank: 6
     name: "ロイヤルカナン ダックスフンド 成犬用"
     brand: "ロイヤルカナン"
-    price: 4650
+    price: 5068
     capacity: "3kg"
-    pricePerUnit: "約1550円/kg"
+    pricePerUnit: "約1689円/kg"
     rating: 4.7
     reviewCount: 172
     features:
@@ -278,7 +278,7 @@ products:
     capacity: "1kg"
     pricePerUnit: "約3000円/kg"
     rating: 4.72
-    reviewCount: 2545
+    reviewCount: 2546
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

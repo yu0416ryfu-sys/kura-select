@@ -4,42 +4,10 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-06-30
+updatedAt: 2026-07-01
 draft: false
 products:
   - rank: 1
-    name: "エアロクリーン ニューAC エアコンフィルター 3枚入"
-    brand: "東和産業"
-    price: 661
-    capacity: "3枚"
-    pricePerUnit: "約220円/枚"
-    rating: 4.66
-    reviewCount: 50
-    features:
-      - "フレーム式標準タイプ"
-      - "サイズ 40×80cm"
-      - "交換周期3ヶ月程度"
-      - "エアロクリーンシリーズ"
-    pros:
-      - "安定した装着が可能"
-      - "品質が信頼できるメーカー"
-      - "標準的なサイズで互換性良好"
-    cons:
-      - "フレーム式のため装着手順が必要"
-      - "3枚入りで枚数が少ない"
-    recommendedFor: "安定性を重視、標準的なエアコンをお使いの方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe263239h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10111845%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/796/4901983901796.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 582
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4901983901796.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4901983901796"
-        available: true
-        matchStatus: "matched"
-        updatedAt: "2026-05-27"
-  - rank: 2
     name: "東洋アルミ パッと貼るだけ エアコンフィルター 2枚×2セット"
     brand: "東洋アルミ"
     price: 1040
@@ -73,6 +41,38 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsutsu-uraura_toyo-ear-2s"
         available: true
+  - rank: 2
+    name: "エアロクリーン ニューAC エアコンフィルター 3枚入"
+    brand: "東和産業"
+    price: 896
+    capacity: "3枚"
+    pricePerUnit: "約299円/枚"
+    rating: 4.66
+    reviewCount: 50
+    features:
+      - "フレーム式標準タイプ"
+      - "サイズ 40×80cm"
+      - "交換周期3ヶ月程度"
+      - "エアロクリーンシリーズ"
+    pros:
+      - "安定した装着が可能"
+      - "品質が信頼できるメーカー"
+      - "標準的なサイズで互換性良好"
+    cons:
+      - "フレーム式のため装着手順が必要"
+      - "3枚入りで枚数が少ない"
+    recommendedFor: "安定性を重視、標準的なエアコンをお使いの方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe263239h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10111845%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/796/4901983901796.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 582
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4901983901796.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4901983901796"
+        available: true
+        matchStatus: "matched"
+        updatedAt: "2026-05-27"
   - rank: 3
     name: "エアコンフィルター 5枚入"
     brand: "東和産業"

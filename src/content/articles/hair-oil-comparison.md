@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: 2026-06-30
+updatedAt: 2026-07-01
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "75mL"
     pricePerUnit: "約15円/mL"
     rating: 4.75
-    reviewCount: 2873
+    reviewCount: 2874
     features:
       - "無香料タイプの洗い流さないヘアエッセンス（オイルタイプ）"
       - "天然由来成分配合でくせ毛・うねりに対応したしっとり仕上がり設計"
@@ -50,7 +50,7 @@ products:
       - "詰め替え用がなく、継続購入時のコスト管理が必要"
     recommendedFor: "香り付きヘアオイルが苦手な人・しっとりまとまりを求める人・くせ毛ケアをしたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pixzn.3rdw6fcd.g00pixzn.3rdw761f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymsk%2F597910%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymsk%2Fi%2F10000461%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymsk/cabinet/itemimg/12091989/597910_1_2603.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymsk/cabinet/itemimg/thumb_logo/597910_1_2603.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -124,7 +124,7 @@ products:
     capacity: "150mL"
     pricePerUnit: "約20円/mL"
     rating: 4.56
-    reviewCount: 1066
+    reviewCount: 1067
     features:
       - "100%植物由来成分（スクワラン・アルガンオイル・ホホバオイル配合）"
       - "濡れ髪・乾いた髪どちらにも使えるアウトバスオイル"
@@ -178,7 +178,7 @@ products:
     capacity: "80mL"
     pricePerUnit: "約29円/mL"
     rating: 4.64
-    reviewCount: 13634
+    reviewCount: 13637
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -222,7 +222,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約35円/mL"
     rating: 4.65
-    reviewCount: 3625
+    reviewCount: 3629
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"

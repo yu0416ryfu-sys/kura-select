@@ -4,42 +4,9 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: "2026-07-01"
 products:
   - rank: 1
-    name: "パンテーン シャンプー 詰め替え エクストラダメージケア"
-    brand: "P&G（パンテーン）"
-    price: 3980
-    capacity: "1700mL×2個"
-    pricePerUnit: "約1.2円/mL"
-    rating: 4.65
-    reviewCount: 55
-    features:
-      - "プロビタミン処方で毛先までダメージ補修"
-      - "濃厚トリートメント級のうるおい"
-      - "枝毛・切れ毛を防いでなめらかな髪へ"
-    pros:
-      - "ダメージケア効果が高い"
-      - "洗い上がりのまとまり感が優秀"
-      - "世界的ブランドの安定した品質"
-    cons:
-      - "コスパは中程度"
-      - "しっとりしすぎると感じる方もいる"
-    recommendedFor: "ダメージヘアの方・まとまりを求める方・カラーやパーマをしている方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tynxn.3rdw6ad8.g00tynxn.3rdw7e17/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkzstore%2F2734-000217%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkzstore%2Fi%2F10000068%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kzstore/cabinet/amayahoo/10812595/imgrc0093288667.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksstore-yh%2F2734-000217.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-21"
-        price: 3980
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksstore-yh_2734-000217"
-        available: true
-        rating: 4.67
-        reviewCount: 12
-  - rank: 2
     name: "メリットキッズ 泡で出てくるシャンプー ナチュラルフローラル 330ml"
     brand: "花王（メリット）"
     price: 770
@@ -72,7 +39,7 @@ products:
         available: true
         rating: 0
         reviewCount: 2
-  - rank: 3
+  - rank: 2
     name: "ザクロー精炭酸シャンプー 詰替用"
     brand: "サニープレイス"
     price: 1925
@@ -105,7 +72,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 4
+  - rank: 3
     name: "マイマボタニカル 育毛シャンプー"
     brand: "マイマ"
     price: 2940
@@ -126,8 +93,8 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s57rn.3rdw600e.g00s57rn.3rdw7060/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finksc%2Fshampoo_d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finksc%2Fi%2F10000367%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/n_shampoo.jpg?_ex=128x128"
-  - rank: 5
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/po_shampoo.jpg?_ex=128x128"
+  - rank: 4
     name: "ケフトル スカルプシャンプー"
     brand: "ケフトル"
     price: 3350
@@ -160,7 +127,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cerapure_kf-22"
         available: true
-  - rank: 6
+  - rank: 5
     name: "ウーマシャンプー プレミアム 300mL"
     brand: "U-MA"
     price: 4400
@@ -193,7 +160,7 @@ products:
         available: true
         rating: 4.5
         reviewCount: 6
-  - rank: 7
+  - rank: 6
     name: "ケラスターゼ バン ニュートリ フォーティファイ 250mL"
     brand: "ケラスターゼ"
     price: 4180
@@ -226,14 +193,14 @@ products:
         available: true
         rating: 4.45
         reviewCount: 11
-  - rank: 8
+  - rank: 7
     name: "ケラスターゼ バン デンシフィック"
     brand: "ケラスターゼ"
     price: 4180
     capacity: "250ml"
     pricePerUnit: "約17円/mL"
     rating: 4.66
-    reviewCount: 287
+    reviewCount: 288
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -259,7 +226,7 @@ products:
         available: true
         rating: 4.61
         reviewCount: 18
-  - rank: 9
+  - rank: 8
     name: "スカルプD モーニング 炭酸シャンプー"
     brand: "スカルプD"
     price: 2546
@@ -281,7 +248,7 @@ products:
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ps33n.3rdw647e.g00ps33n.3rdw7e95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Fmorning%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fangfa%2Fi%2F10005009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/angfa/cabinet/2019/item/new_logo/morning_n.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "ニューモ ヴァクトリー スカルプシャンプー"
     brand: "ニューモ"
     price: 4970

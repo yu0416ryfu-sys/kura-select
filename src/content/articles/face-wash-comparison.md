@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: "2026-07-01"
 products:
   - rank: 1
     name: "無添加生活 泡洗顔 炭酸泡洗顔フォーム 3本セット"
@@ -84,39 +84,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u529n.3rdw64b3.g00u529n.3rdw7138/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frosette-shop%2Fpasta_ks240_1ps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frosette-shop%2Fi%2F10000066%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rosette-shop/cabinet/thumbna/pasta_ks240_1ps/imgrc0108556464.jpg?_ex=128x128"
   - rank: 4
-    name: "【企画品】センカ パーフェクトホイップf BT21デザイン【専科】"
-    brand: "資生堂（専科）"
-    price: 669
-    capacity: "（120g）"
-    pricePerUnit: "約5.6円/g"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "天然由来シルクエッセンス配合でしっとり洗い上げ"
-      - "濃密な白まゆ泡がクッションになり肌に優しい"
-      - "うるおい導入技術で洗顔後のつっぱり感を軽減"
-    pros:
-      - "もっちり濃密泡が簡単に作れる"
-      - "洗い上がりがしっとりで乾燥しにくい"
-      - "120gの大容量でコスパ良好"
-    cons:
-      - "脂性肌にはやや洗浄力が物足りない場合も"
-      - "香りの好みが分かれる"
-    recommendedFor: "乾燥肌の方・しっとりした洗い上がりを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ufaun.3rdw6841.g00ufaun.3rdw78e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24-cosmetics%2F4550516491404%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24-cosmetics%2Fi%2F10040331%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24-cosmetics/cabinet/404/4550516491404.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4550516491404.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-22"
-        price: 609
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4550516491404"
-        available: true
-        rating: 0
-        reviewCount: 0
-  - rank: 5
     name: "オルナ オーガニック 泥洗顔 130g"
     brand: "ALLNA ORGANIC"
     price: 1400
@@ -149,14 +116,14 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 6
+  - rank: 5
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
     brand: "ユニリーバ（ダヴ）"
     price: 1577
     capacity: "130g"
     pricePerUnit: "約12円/g"
-    rating: 4.62
-    reviewCount: 13
+    rating: 4.64
+    reviewCount: 14
     features:
       - "ニュートリアムモイスチャー配合で洗い上がりしっとり"
       - "マイルドな洗浄成分で肌に負担が少ない"
@@ -182,14 +149,14 @@ products:
         available: true
         rating: 4.5
         reviewCount: 8
-  - rank: 7
+  - rank: 6
     name: "DoMeCare マイクロクレイウォッシュ 110g"
     brand: "DoMeCare"
     price: 1980
     capacity: "110g"
     pricePerUnit: "約18円/g"
     rating: 4.61
-    reviewCount: 1792
+    reviewCount: 1793
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -203,7 +170,7 @@ products:
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "肌質や洗い上がりで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tfrwn.3rdw669e.g00tfrwn.3rdw74a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdomecare%2Fdmc_micro-cray-wash%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdomecare%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/domecare/cabinet/campain1/50per/mcwsamnew_50per.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/domecare/cabinet/campain1/30per/mcwsamnew_30per.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -215,7 +182,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 8
+  - rank: 7
     name: "レステモ フェイシャル ソープ 150g"
     brand: "レステモ"
     price: 2680
@@ -248,14 +215,14 @@ products:
         available: true
         rating: 4.68
         reviewCount: 214
-  - rank: 9
+  - rank: 8
     name: "ルアド 洗顔パウダー 67g×3袋"
     brand: "ルアド"
     price: 3711
     capacity: "67g×3袋"
     pricePerUnit: "約18円/g"
     rating: 4.83
-    reviewCount: 5612
+    reviewCount: 5613
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -270,7 +237,7 @@ products:
     recommendedFor: "肌質や洗い上がりで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pytjn.3rdw6c43.g00pytjn.3rdw73fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fadpentel%2F590765%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fadpentel%2Fi%2F10000082%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/adpentel/cabinet/pro/imgrc0079724986.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "ファンケル ピュアモイスト泡洗顔料 150ml"
     brand: "ファンケル"
     price: 1320

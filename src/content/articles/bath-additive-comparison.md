@@ -4,42 +4,9 @@ description: "入浴剤を1回あたりのコストで徹底比較。バブ・�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-06-30
+updatedAt: "2026-07-01"
 products:
   - rank: 1
-    name: "エプソムソルト 3kg"
-    brand: "シークリスタルス"
-    price: 1620
-    capacity: "3kg（約20回分）"
-    pricePerUnit: "約540円/kg"
-    rating: 4.55
-    reviewCount: 350
-    features:
-      - "硫酸マグネシウム（ミネラル）100%"
-      - "海外セレブ愛用で話題のバスソルト"
-      - "無香料・無着色で敏感肌にもやさしい"
-    pros:
-      - "ミネラル成分で肌がすべすべに"
-      - "追い焚き・残り湯洗濯OK"
-      - "無添加で赤ちゃんにも安心"
-    cons:
-      - "香りがないため物足りない方も"
-      - "入浴剤としての「楽しさ」は控えめ"
-    recommendedFor: "肌質改善を求める方・無添加志向の方・追い焚きしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r4tyn.3rdw66a6.g00r4tyn.3rdw770c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-epsomsalt%2Fesc-3kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-epsomsalt%2Fi%2F10000221%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-epsomsalt/cabinet/sma_original/3.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgrong%2Fkl0013-1.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-01"
-        price: 1780
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/grong_kl0013-1"
-        available: true
-        rating: 4.47
-        reviewCount: 53
-  - rank: 2
     name: "ヒマラヤ岩塩バスソルト ピンクソルト 訳あり"
     brand: "アースコンシャス"
     price: 2139
@@ -72,7 +39,7 @@ products:
         available: true
         rating: 4.64
         reviewCount: 11
-  - rank: 3
+  - rank: 2
     name: "エプソムソルト 選べる香り 6個セット"
     brand: "BASSPA"
     price: 1480
@@ -105,7 +72,7 @@ products:
         available: true
         rating: 4.33
         reviewCount: 3
-  - rank: 4
+  - rank: 3
     name: "【1種類を選べる】きき湯 炭酸湯【きき湯】[炭酸入浴剤 薬用 温泉 風呂 温浴 "
     brand: "バスクリン（きき湯）"
     price: 1980
@@ -127,7 +94,7 @@ products:
     recommendedFor: "体の不調を入浴でケアしたい方・本格的な薬用入浴剤を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11231979%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/199/405199.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 4
     name: "水素入浴剤 アッシュアンド"
     brand: "SUISOSUM"
     price: 2300
@@ -148,7 +115,7 @@ products:
       - "水素効果の持続時間が短い"
     recommendedFor: "疲労回復・肌ケア重視の方・敏感肌の方・自然派入浴剤を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00szo9n.3rdw677a.g00szo9n.3rdw7c42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuisosum-shop%2Fhakusui%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuisosum-shop%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suisosum-shop/cabinet/h_/pc_01/750g/hakusui_sa_65.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suisosum-shop/cabinet/h_/pc_01/750g/hakusui_sa_64.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -160,7 +127,7 @@ products:
         available: true
         rating: 4.63
         reviewCount: 190
-  - rank: 6
+  - rank: 5
     name: "入浴剤 福袋 100個セット"
     brand: "YOU通販"
     price: 3780
@@ -193,7 +160,7 @@ products:
         available: true
         rating: 4.72
         reviewCount: 116
-  - rank: 7
+  - rank: 6
     name: "あまおういちご 入浴剤 26個セット"
     brand: "湯屋の手土産"
     price: 1300
@@ -226,7 +193,7 @@ products:
         available: true
         rating: 4.22
         reviewCount: 9
-  - rank: 8
+  - rank: 7
     name: "バスクリン きき湯 オリジナルギフトセット"
     brand: "バスクリン"
     price: 3150
@@ -248,7 +215,7 @@ products:
     recommendedFor: "最安値を求める方・温泉気分を楽しみたい方・疲労回復を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pye9n.3rdw63be.g00pye9n.3rdw7c6f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faikuru%2F111542030%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faikuru%2Fi%2F10103648%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aikuru/cabinet/sp/13433485/0548-052-34_0603.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "木酢液 紀州備長炭 原液"
     brand: "紀州びお和歌山"
     price: 1400
@@ -281,7 +248,7 @@ products:
         available: true
         rating: 4.43
         reviewCount: 7
-  - rank: 10
+  - rank: 9
     name: "ミネラル鉱泉浴"
     brand: "SMC"
     price: 8800

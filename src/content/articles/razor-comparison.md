@@ -4,7 +4,7 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-07-01
 draft: false
 products:
   - rank: 1
@@ -245,7 +245,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約1000円/個"
     rating: 4.52
-    reviewCount: 1732
+    reviewCount: 1733
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

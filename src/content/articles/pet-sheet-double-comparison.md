@@ -4,7 +4,7 @@ description: "ペットシーツのダブル（スーパーワイド）サイズ
 category: "pet-sheet"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: 2026-06-30
+updatedAt: 2026-07-01
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "スーパーワイド 1200枚"
     pricePerUnit: "約2.48円/枚"
     rating: 4.39
-    reviewCount: 1324
+    reviewCount: 1326
     features:
       - "スーパーワイド（60×90cm）サイズ、約655cc吸収"
       - "PPE素材使用、1枚あたり約60gの重量"
@@ -80,7 +80,7 @@ products:
     capacity: "800枚"
     pricePerUnit: "約5.0円/枚"
     rating: 4.55
-    reviewCount: 14435
+    reviewCount: 14440
     features:
       - "スーパーワイド・ダブルワイド系のペットシーツ"
       - "大型犬や多頭飼いのトイレまわりに使いやすい"

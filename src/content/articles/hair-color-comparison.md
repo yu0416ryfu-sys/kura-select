@@ -4,7 +4,7 @@ description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あ�
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: 2026-06-30
+updatedAt: 2026-07-01
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "100g×2袋"
     pricePerUnit: "約7.9円/g"
     rating: 4.42
-    reviewCount: 3129
+    reviewCount: 3130
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -58,7 +58,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約13円/g"
     rating: 4.54
-    reviewCount: 693
+    reviewCount: 694
     features:
       - "トリートメントしながら白髪に色を入れるカラートリートメントタイプ"
       - "500g入りで継続使用しやすい大容量"
@@ -91,7 +91,7 @@ products:
     capacity: "300g"
     pricePerUnit: "約15円/g"
     rating: 4.04
-    reviewCount: 2680
+    reviewCount: 2681
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -124,7 +124,7 @@ products:
     capacity: "400g"
     pricePerUnit: "約15円/g"
     rating: 4.37
-    reviewCount: 7627
+    reviewCount: 7641
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -212,7 +212,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.5
-    reviewCount: 2445
+    reviewCount: 2451
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -234,7 +234,7 @@ products:
     capacity: "3個"
     pricePerUnit: "約5808円/個"
     rating: 4.52
-    reviewCount: 1654
+    reviewCount: 1655
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -255,8 +255,8 @@ products:
     price: 11000
     capacity: "2本"
     pricePerUnit: "約5500円/本"
-    rating: 4.76
-    reviewCount: 21
+    rating: 4.77
+    reviewCount: 22
     features:
       - "植物エキス配合のボタニカル泡タイプヘアカラー"
       - "脱色せずに染めるタイプで髪へのダメージを抑えた設計"
