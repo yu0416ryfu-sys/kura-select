@@ -1,10 +1,10 @@
 ---
-title: "使い捨て食器おすすめ4選【2026年】紙コップ・紙皿をコスパ比較"
-description: "紙コップ・紙皿など使い捨て食器のおすすめ4選を1個・1枚あたりの単価で徹底比較。業務用大容量からおしゃれなパーティー向けまで、容量・サイズ・用途で選ぶポイントを解説します。"
+title: "使い捨て食器おすすめ9選【2026年】紙コップ・紙皿をコスパ比較"
+description: "紙コップ・紙皿など使い捨て食器のおすすめ9選を1個・1枚あたりの単価で徹底比較。業務用大容量からおしゃれなパーティー向けまで、容量・サイズ・用途で選ぶポイントを解説します。"
 category: "disposable-tableware"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-07-01
 draft: false
 products:
   - rank: 1
@@ -52,6 +52,116 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6mcn.3rdw6191.g00r6mcn.3rdw73f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujix-sizai%2F181000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujix-sizai%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fujix-sizai/cabinet/shohin02/181000.jpg?_ex=128x128"
   - rank: 3
+    name: "紙コップ 7オンス 白無地 50個"
+    brand: "よろずやマルシェ"
+    price: 195
+    capacity: "50個"
+    pricePerUnit: "約3.9円/個"
+    rating: 4.56
+    reviewCount: 110
+    features:
+      - "7オンス（約210cc）の紙コップ"
+      - "無地ホワイトでシーンを選ばないデザイン"
+      - "ホット・コールド両対応"
+    pros:
+      - "少量パックで必要な分だけ試しやすい"
+      - "来客用や自宅でのちょい足し用に選びやすい"
+      - "無地なので家庭でも職場でも使いやすい"
+    cons:
+      - "大容量タイプに比べると1個あたりの単価は上がりやすい"
+      - "日常的にたくさん使う用途には数量が心もとない"
+    recommendedFor: "まずは少量で試したい方・自宅用にちょうどよい量が欲しい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2F706066%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10052109%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/guideline/gl01/706066.jpg?_ex=128x128"
+  - rank: 4
+    name: "ワサラ 猪口 紙の器 12個セット"
+    brand: "WASARA（ワサラ）"
+    price: 825
+    capacity: "12個"
+    pricePerUnit: "約69円/個"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "おちょこ型の小ぶりな紙製の器"
+      - "薄手ながら丈夫な作りのデザイン性の高い紙食器"
+      - "日本製で環境に配慮した素材を使用"
+    pros:
+      - "小鉢や薬味皿代わりに使いやすいサイズ"
+      - "おしゃれな見た目で来客時のテーブルを演出しやすい"
+      - "個数が多めで色々な用途に使い回しやすい"
+    cons:
+      - "1個あたりの単価は大容量タイプより高め"
+      - "料理をたっぷり盛るには向かない小ぶりなサイズ"
+    recommendedFor: "小鉢や薬味皿として使いたい方・食卓を華やかに見せたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pajin.3rdw665b.g00pajin.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnuts%2Fdm-012r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnuts%2Fi%2F10020593%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nuts/cabinet/nuts_gazo/item_kitchen/small_cup.jpg?_ex=128x128"
+  - rank: 5
+    name: "ワサラ コーヒーカップ 紙の器 6個セット"
+    brand: "WASARA（ワサラ）"
+    price: 693
+    capacity: "6個"
+    pricePerUnit: "約116円/個"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "コーヒーカップ型の紙製の器"
+      - "天然素材ならではの風合いと質感"
+      - "軽量設計で扱いやすいデザイン"
+    pros:
+      - "来客時のドリンク提供をおしゃれに演出しやすい"
+      - "紙製で後片付けの手間を減らしやすい"
+      - "アウトドアやパーティーでの使用に向く"
+    cons:
+      - "1個あたりの単価は大容量タイプより高め"
+      - "日常的な飲み物用途には少なめの数量"
+    recommendedFor: "来客時のドリンクをおしゃれに出したい方・パーティーで使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pajin.3rdw665b.g00pajin.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnuts%2F1032803%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnuts%2Fi%2F10003127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nuts/cabinet/nuts_gazo/item_kitchen/coffee_cup.jpg?_ex=128x128"
+  - rank: 6
+    name: "ワサラ 角皿 特大 紙の器 6個セット"
+    brand: "WASARA（ワサラ）"
+    price: 1133
+    capacity: "6個"
+    pricePerUnit: "約189円/個"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "特大サイズの角皿タイプの紙製の器"
+      - "天然素材の質感を生かしたデザイン"
+      - "温かい料理にも対応できる強度"
+    pros:
+      - "メイン料理やワンプレート盛りに使いやすい大きさ"
+      - "おしゃれな質感でホームパーティーの演出に向く"
+      - "デザイン性が高く来客時にも見栄えがしやすい"
+    cons:
+      - "1個あたりの単価は大容量タイプより高め"
+      - "日常の大量消費にはコスト面で不向き"
+    recommendedFor: "メイン料理を盛りたい方・パーティーでおしゃれに見せたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pajin.3rdw665b.g00pajin.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnuts%2Fdm-015r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnuts%2Fi%2F10020594%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nuts/cabinet/nuts_gazo/item_kitchen/squareplate_el.jpg?_ex=128x128"
+  - rank: 7
+    name: "フジナップ ペーパープレート 13cm 業務用 2400枚"
+    brand: "フジナップ"
+    price: 10626
+    capacity: "2400枚"
+    pricePerUnit: "約4.4円/枚"
+    rating: 5
+    reviewCount: 4
+    features:
+      - "直径13cmのコンパクトな取り皿サイズ"
+      - "パルプ100%素材のペーパープレート"
+      - "ケース単位（100枚×24袋）の大容量パック"
+    pros:
+      - "小さめサイズで軽食やお菓子の取り分けに使いやすい"
+      - "バーベキューやパーティーなど屋外イベントにも扱いやすい"
+      - "袋小分けで在庫を管理しやすい"
+    cons:
+      - "ケース購入のため初期費用と保管場所が必要"
+      - "メイン料理を盛るには小さめのサイズ"
+    recommendedFor: "小さめの取り皿をまとめて使いたい方・屋外イベントで使う方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6mcn.3rdw6191.g00r6mcn.3rdw73f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujix-sizai%2F215400%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujix-sizai%2Fi%2F10000836%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fujix-sizai/cabinet/shohin02/215400.jpg?_ex=128x128"
+  - rank: 8
     name: "フジナップ ペーパープレート 15cm 業務用 2400枚"
     brand: "フジナップ"
     price: 11539
@@ -73,7 +183,7 @@ products:
     recommendedFor: "来客やイベントで紙皿を多用する方・単価重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6mcn.3rdw6191.g00r6mcn.3rdw73f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujix-sizai%2F215500%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujix-sizai%2Fi%2F10000837%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fujix-sizai/cabinet/shohin02/215500.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 9
     name: "ワサラ ボウル 500ml 紙の器 6枚入"
     brand: "WASARA（ワサラ）"
     price: 748

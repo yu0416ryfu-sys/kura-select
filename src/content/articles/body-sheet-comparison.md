@@ -4,10 +4,32 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: 2026-06-30
+updatedAt: 2026-07-01
 draft: false
 products:
   - rank: 1
+    name: "ハッピーデオ ボディシート 極冷 シャープミント"
+    brand: "マンダム"
+    price: 368
+    capacity: "36枚"
+    pricePerUnit: "約10円/枚"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "-3℃の冷感効果をうたう2層構造シート"
+      - "シトラス系の香り付きタイプ"
+      - "衣類への色移りを防ぐクリアシート設計"
+    pros:
+      - "冷感をしっかり感じたい人に選ばれやすい"
+      - "香り付きで拭いた後の爽快感を得やすい"
+      - "色移りが気になる人でも使いやすい"
+    cons:
+      - "無香派には香りが強く感じられることがある"
+      - "冷感が苦手な人には刺激に感じることがある"
+    recommendedFor: "香りと冷感の両方を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10166102%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10100972%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/shouhin77/10166102.jpg?_ex=128x128"
+  - rank: 2
     name: "シーブリーズ ボディシート せっけんの香り"
     brand: "資生堂（SEA BREEZE）"
     price: 457
@@ -40,7 +62,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4550516475473"
         available: true
-  - rank: 2
+  - rank: 3
     name: "エージーデオ24 デオドラント ボディシート"
     brand: "資生堂（Ag DEO24）"
     price: 580
@@ -73,7 +95,51 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/atata12121_deodorantshawarshirt-ag24-kosme-4550516493194-1"
         available: true
-  - rank: 3
+  - rank: 4
+    name: "キュレル スキンケアシート"
+    brand: "花王（Curel）"
+    price: 242
+    capacity: "10枚"
+    pricePerUnit: "約24円/枚"
+    rating: 4.5
+    reviewCount: 6
+    features:
+      - "セラミド配合で肌のバリア機能をケアするシート"
+      - "アルコールフリー・無香料の低刺激設計"
+      - "医薬部外品として扱われるスキンケアシート"
+    pros:
+      - "敏感肌の人でも選びやすい処方"
+      - "香りが残らないので香水と併用しやすい"
+      - "肌への当たりがやさしく毎日使いやすい"
+    cons:
+      - "冷感タイプほどの清涼感は少ない"
+      - "厚手タイプに比べると1袋の枚数は控えめ"
+    recommendedFor: "敏感肌でやさしい使い心地を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10157297%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10092756%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/shouhin71/10157297.jpg?_ex=128x128"
+  - rank: 5
+    name: "ビオレ 冷シート 無香性"
+    brand: "花王（ビオレ）"
+    price: 478
+    capacity: "20枚"
+    pricePerUnit: "約24円/枚"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "冷感・デオドラント効果をうたうクールシート"
+      - "個包装で持ち歩きやすいタイプ"
+      - "香りが残らない無香性タイプ"
+    pros:
+      - "香りを気にせず使いたい人に選びやすい"
+      - "個包装なのでカバンに入れて持ち歩きやすい"
+      - "屋外でのリフレッシュに使いやすい"
+    cons:
+      - "冷感が苦手な人には刺激に感じることがある"
+      - "香りでリフレッシュしたい人には物足りない"
+    recommendedFor: "無香性で冷感をしっかり感じたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10116764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10111215%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin48/4901301348418.jpg?_ex=128x128"
+  - rank: 6
     name: "ビオレ さらさらパウダーシート 無香料"
     brand: "花王（ビオレ）"
     price: 1000
@@ -106,10 +172,10 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_612-8545-103"
         available: true
-  - rank: 4
+  - rank: 7
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
-    price: 1822
+    price: 1826
     capacity: "30枚"
     pricePerUnit: "約61円/枚"
     rating: 4.81
@@ -139,6 +205,28 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kusurinofukutaro_10164409"
         available: true
+  - rank: 8
+    name: "リフレッシュボディシート"
+    brand: "久光製薬"
+    price: 1780
+    capacity: "15枚(5枚×3個)"
+    pricePerUnit: "約119円/枚"
+    rating: 4.64
+    reviewCount: 56
+    features:
+      - "1枚で全身を拭ける設計の冷却シート"
+      - "運動後のクールダウンを意識したタイプ"
+      - "5枚入りを複数パックにしたセット構成"
+    pros:
+      - "スポーツ後や外出先でのリフレッシュに使いやすい"
+      - "小分けパックで持ち歩きやすい"
+      - "暑さ対策グッズとして常備しやすい"
+    cons:
+      - "1枚あたりの面積が広いぶん枚数は控えめ"
+      - "冷感が苦手な人には刺激に感じることがある"
+    recommendedFor: "運動後や外出先でしっかり冷やしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00telan.3rdw6aaf.g00telan.3rdw7f40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamitsu%2F4987188322109%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamitsu%2Fi%2F10000277%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hisamitsu/cabinet/08097260/imgrc0098359922.jpg?_ex=128x128"
 tags:
   - "汗拭きシート おすすめ"
   - "ボディシート コスパ"

@@ -4,10 +4,54 @@ description: "重曹・セスキ炭酸ソーダ・クエン酸などのナチュ
 category: "natural-cleaning"
 articleType: "comparison"
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-10"
+updatedAt: 2026-07-01
 draft: false
 products:
   - rank: 1
+    name: "セスキ炭酸ソーダ 4.5kg×5袋"
+    brand: "NICHIGA（ニチガ）"
+    price: 7660
+    capacity: "22.5kg"
+    pricePerUnit: "約340円/kg"
+    rating: 4.86
+    reviewCount: 562
+    features:
+      - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
+      - "4.5kg×5袋の小分けパッケージによる大容量セット"
+      - "油汚れ・皮脂汚れ・血液・汗など幅広い汚れに対応"
+    pros:
+      - "小分け袋のため開封後も品質と残量を管理しやすい"
+      - "大容量でg単価を極力抑えたい家庭に選びやすい"
+      - "送料無料で頻繁な買い足しの手間を減らせる"
+    cons:
+      - "保管スペースをまとまって確保する必要がある"
+      - "同梱不可のため他商品と一緒に注文しづらい"
+    recommendedFor: "業務用クラスの大容量でg単価を最優先したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2F10000022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000022%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sesuki_22500.jpg?_ex=128x128"
+  - rank: 2
+    name: "セスキ炭酸ソーダ 5kg×3袋"
+    brand: "NICHIGA（ニチガ）"
+    price: 5715
+    capacity: "15kg"
+    pricePerUnit: "約381円/kg"
+    rating: 4.85
+    reviewCount: 677
+    features:
+      - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
+      - "5kg×3袋の小分けパッケージによる大容量セット"
+      - "油汚れ・皮脂汚れ・血液・汗など幅広い汚れに対応"
+    pros:
+      - "小分け袋のため開封後も残量を管理しやすい"
+      - "大容量でg単価を抑えたい家庭に選びやすい"
+      - "洗濯・掃除どちらにも使用量を気にせず使える"
+    cons:
+      - "保管スペースをまとまって確保する必要がある"
+      - "同梱不可のため他商品と一緒に注文しづらい"
+    recommendedFor: "大容量をストックしてg単価を抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2F10000021%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sesuki_15000.jpg?_ex=128x128"
+  - rank: 3
     name: "重曹 国産 5kg 炭酸水素ナトリウム 食用グレード"
     brand: "ナチュラルショップ マニン"
     price: 1980
@@ -29,7 +73,29 @@ products:
     recommendedFor: "食用・掃除・入浴剤を1種類で兼用したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s8gpn.3rdw6fb0.g00s8gpn.3rdw79fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fns-manin%2F0009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fns-manin%2Fi%2F10000217%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ns-manin/cabinet/05354021/05354772/imgrc0074340684.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 4
+    name: "セスキ炭酸ソーダ 5kg"
+    brand: "NICHIGA（ニチガ）"
+    price: 2053
+    capacity: "5kg"
+    pricePerUnit: "約411円/kg"
+    rating: 4.81
+    reviewCount: 945
+    features:
+      - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
+      - "宅配便で届く業務用サイズのパッケージ"
+      - "油汚れ・皮脂汚れ・血液・汗など幅広い汚れに対応"
+    pros:
+      - "まとめ買いしたい家庭で買い足しの手間を減らせる"
+      - "洗濯槽の浸け置きなど使用量が多い用途に取り入れやすい"
+      - "宅配便対応で受け取り方法の自由度が高い"
+    cons:
+      - "保管スペースの確保が必要"
+      - "少量しか使わない方には持て余しやすい"
+    recommendedFor: "セスキ炭酸ソーダをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2F10000019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000019%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sesuki_5000.jpg?_ex=128x128"
+  - rank: 5
     name: "アームアンドハンマー ベーキングソーダ 6.1kg"
     brand: "Arm & Hammer（アームアンドハンマー）"
     price: 2790
@@ -62,7 +128,29 @@ products:
         reviewCount: 10
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos01029"
         available: true
-  - rank: 3
+  - rank: 6
+    name: "アルカリウォッシュ 3kg"
+    brand: "地の塩社"
+    price: 1999
+    capacity: "3kg"
+    pricePerUnit: "約666円/kg"
+    rating: 4.67
+    reviewCount: 563
+    features:
+      - "重曹と炭酸塩を主成分としたアルカリ性洗浄剤"
+      - "宅配便配送に対応した大容量パッケージ"
+      - "掃除・洗濯・布ナプキンの手入れなど多目的に使用可能"
+    pros:
+      - "無添加設計で素材や肌への刺激が気になる方でも選びやすい"
+      - "掃除から洗濯まで幅広い場面で使い回せる"
+      - "大容量でまとめ買いしたい家庭に向いている"
+    cons:
+      - "酸性の水垢汚れには向かずクエン酸との使い分けが必要"
+      - "保管スペースの確保が必要"
+    recommendedFor: "無添加のアルカリ洗浄剤を掃除・洗濯兼用でまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5han.3rdw64ab.g00q5han.3rdw72d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecube%2F10006693%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecube%2Fi%2F10028765%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecube/cabinet/img56367027.jpg?_ex=128x128"
+  - rank: 7
     name: "クエン酸粉末 5kg 食品添加物グレード 純度99.5%以上"
     brand: "アレスヘルスケア"
     price: 3591
@@ -84,7 +172,51 @@ products:
     recommendedFor: "加湿器・電気ポット・トイレの水垢を定期的にケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qa34n.3rdw6dcf.g00qa34n.3rdw74c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fares-hc%2F700099%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fares-hc%2Fi%2F10000242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ares-hc/cabinet/00356984/kuensan5-1.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 8
+    name: "セスキ炭酸ソーダ 950g 宅配便配送"
+    brand: "NICHIGA（ニチガ）"
+    price: 685
+    capacity: "950g"
+    pricePerUnit: "約0.72円/g"
+    rating: 4.68
+    reviewCount: 782
+    features:
+      - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
+      - "メール便・宅配便のいずれかを選べるパッケージ"
+      - "油汚れ・皮脂汚れ・血液・汗など幅広い汚れに対応"
+    pros:
+      - "配送方法を選べるため受け取りの都合に合わせやすい"
+      - "小容量なので初めて試す方でも扱いやすい"
+      - "衣類の部分洗いや靴下の消臭洗濯に取り入れやすい"
+    cons:
+      - "容量が少ないため使用頻度が高い家庭では買い足しが早い"
+      - "配送方法によって受け取り条件が異なるため注文時の確認が必要"
+    recommendedFor: "配送方法を選びつつ少量から試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2F10000018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000018%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sesuki_950.jpg?_ex=128x128"
+  - rank: 9
+    name: "セスキ炭酸ソーダ 950g メール便配送"
+    brand: "NICHIGA（ニチガ）"
+    price: 785
+    capacity: "950g"
+    pricePerUnit: "約0.83円/g"
+    rating: 4.78
+    reviewCount: 1263
+    features:
+      - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
+      - "メール便配送に対応した小容量パッケージ"
+      - "油汚れ・皮脂汚れ・血液・汗など幅広い汚れに対応"
+    pros:
+      - "小容量なので初めて試す方でも扱いやすい"
+      - "メール便配送でポスト受け取りができ在宅不要"
+      - "衣類の部分洗いや靴下の消臭洗濯に取り入れやすい"
+    cons:
+      - "配送日時指定や代引きに対応していないため受け取り方法の確認が必要"
+      - "使用量が多い家庭では買い足しの頻度が上がりやすい"
+    recommendedFor: "セスキ炭酸ソーダを少量から試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2Fsesuki%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000484%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sesuki_950m.jpg?_ex=128x128"
+  - rank: 10
     name: "アルカリウォッシュ セスキ炭酸ソーダ 500g 2個セット"
     brand: "地の塩社"
     price: 1050

@@ -1,10 +1,10 @@
 ---
-title: "おりものシートおすすめ4選【2026年】コスパ最強を1枚単価で比較"
-description: "おりものシート（パンティライナー）のおすすめ4選を1枚あたりのコストで徹底比較。ソフィ・ロリエ・サラサーティなど人気商品を枚数・香り・素材・コスパで解説します。"
+title: "おりものシートおすすめ7選【2026年】コスパ最強を1枚単価で比較"
+description: "おりものシート（パンティライナー）のおすすめ7選を1枚あたりのコストで徹底比較。ソフィ・ロリエ・サラサーティなど人気商品を枚数・香り・素材・コスパで解説します。"
 category: "panty-liner"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-07-01
 draft: false
 products:
   - rank: 1
@@ -63,6 +63,50 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sccjn.3rdw63ca.g00sccjn.3rdw709f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffines-f%2F4901301382757%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffines-f%2Fi%2F10026494%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fines-f/cabinet/06547305/07785924/imgrc0074857596.jpg?_ex=128x128"
   - rank: 3
+    name: "ソフィ Kiyora フレッシュシトラス イランイラン パンティライナー"
+    brand: "ユニ・チャーム（ソフィ）"
+    price: 441
+    capacity: "72枚"
+    pricePerUnit: "約6.1円/枚"
+    rating: 4.66
+    reviewCount: 71
+    features:
+      - "フレッシュシトラスとイランイランの香り付きタイプ"
+      - "水分を素早く取り込む吸収設計"
+      - "やわらかな肌当たりを意識した構成"
+    pros:
+      - "爽やかな香りで気分転換したい人に向く"
+      - "日中のうるおいケアを意識したい人に使いやすい"
+      - "やわらかい使用感を求める人にも合う"
+    cons:
+      - "香り付きが苦手な人には合わない場合がある"
+      - "無香料タイプを探している人には不向き"
+    recommendedFor: "爽やかな香りを楽しみたい方・やわらかい使用感を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001269197391%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10137827%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/244/4903111364244.jpg?_ex=128x128"
+  - rank: 4
+    name: "ソフィ Kiyora アロマローズ パンティライナー おりものシート"
+    brand: "ユニ・チャーム（ソフィ）"
+    price: 458
+    capacity: "72枚"
+    pricePerUnit: "約6.4円/枚"
+    rating: 4.61
+    reviewCount: 105
+    features:
+      - "アロマローズの香り付きタイプ"
+      - "消臭機能を備えた設計"
+      - "薄型でショーツにフィットしやすい形状"
+    pros:
+      - "香りでリフレッシュしたい人に向く"
+      - "表面のサラサラ感を重視する人に使いやすい"
+      - "まとめ買いしやすい大容量パッケージ"
+    cons:
+      - "香りが苦手な人には合わない場合がある"
+      - "無香料を求める用途には不向き"
+    recommendedFor: "香りで気分を変えたい方・サラサラの使用感を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fx654920h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10522844%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/677/4903111375677.jpg?_ex=128x128"
+  - rank: 5
     name: "ソフィ はだおもいライナー 天然極コットン 低刺激デリケートタイプ 14cm"
     brand: "ユニ・チャーム（ソフィ）"
     price: 338
@@ -95,7 +139,29 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903111316083"
         available: true
-  - rank: 4
+  - rank: 6
+    name: "サラサーティ コットン100 無香料 おりものシート"
+    brand: "小林製薬（サラサーティ）"
+    price: 878
+    capacity: "112枚"
+    pricePerUnit: "約7.8円/枚"
+    rating: 4.7
+    reviewCount: 164
+    features:
+      - "表面に綿100%を使用した無香料タイプ"
+      - "1枚ずつの個別包装"
+      - "パンツにやさしい着け心地を意識した設計"
+    pros:
+      - "香り付きが苦手な人でも使いやすい無香料"
+      - "個別包装で持ち歩きや保管がしやすい"
+      - "コットン素材で肌に触れる面がやさしい"
+    cons:
+      - "香りでのニオイ対策はできない"
+      - "厚みのあるタイプを求める用途には不向き"
+    recommendedFor: "無香料にこだわる方・個包装で携帯しやすさを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa003200200615%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10123710%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/741/4987072009741.jpg?_ex=128x128"
+  - rank: 7
     name: "サラサーティ コットン100 極上やわらか 無香料 おりものシート"
     brand: "小林製薬（サラサーティ）"
     price: 421

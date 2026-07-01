@@ -1,10 +1,10 @@
 ---
-title: "絆創膏おすすめ4選【2026年】コスパ最強を1枚単価で比較"
-description: "絆創膏（ばんそうこう）のおすすめ4選を1枚あたりの単価で徹底比較。業務用大容量から低刺激の定番、ハイドロコロイドの防水タイプまで、枚数・サイズ・素材・防水性で選ぶポイントを解説します。"
+title: "絆創膏おすすめ9選【2026年】コスパ最強を1枚単価で比較"
+description: "絆創膏（ばんそうこう）のおすすめ9選を1枚あたりの単価で徹底比較。業務用大容量から低刺激の定番、ハイドロコロイドの防水タイプ、子供向けデザインまで、枚数・サイズ・素材・防水性で選ぶポイントを解説します。"
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-07-01
 draft: false
 products:
   - rank: 1
@@ -63,6 +63,28 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10092408"
         available: true
   - rank: 3
+    name: "サンリオキャラクターズ 絆創膏 18枚"
+    brand: "Littleleaf（リトルリーフ）"
+    price: 396
+    capacity: "18枚"
+    pricePerUnit: "約22円/枚"
+    rating: 4.66
+    reviewCount: 110
+    features:
+      - "サンリオキャラクターズをデザインした絆創膏"
+      - "複数柄がセットになったアソートタイプ"
+      - "日本製"
+    pros:
+      - "子供が自分から貼りたくなるデザインで扱いやすい"
+      - "柄違いで気分に合わせて選べる"
+      - "プレゼントや持ち歩き用としても選びやすい"
+    cons:
+      - "キャラクターデザインのため大人には好みが分かれる"
+      - "枚数は少なめで大量消費には不向き"
+    recommendedFor: "子供用に見た目を楽しみたい方・少量で試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdb0n.3rdw6668.g00qdb0n.3rdw77c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flittleleaf%2Fcha-bansoko-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flittleleaf%2Fi%2F10014262%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/littleleaf/cabinet/ks/bbzm/2026sanrio/top_1.jpg?_ex=128x128"
+  - rank: 4
     name: "白十字 ファミリーケア ワンタッチパット Mサイズ 22枚"
     brand: "白十字（ファミリーケア）"
     price: 580
@@ -95,7 +117,73 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4987603464520"
         available: true
-  - rank: 4
+  - rank: 5
+    name: "キズパワーパッド ふつうサイズ 10枚入×2コセット"
+    brand: "バンドエイド（BAND-AID）"
+    price: 1493
+    capacity: "20枚（10枚入×2コセット）"
+    pricePerUnit: "約75円/枚"
+    rating: 4.66
+    reviewCount: 173
+    features:
+      - "ハイドロコロイド素材を使った密着タイプ"
+      - "水や汚れの侵入を防ぐ防水設計"
+      - "ふつうサイズが2個セットになったパック"
+    pros:
+      - "防水性や密着力を重視したい方に向く"
+      - "2個セットでストックしておきやすい"
+      - "目立ちにくい半透明で見た目が気になりにくい"
+    cons:
+      - "1枚あたりの単価は標準タイプより高め"
+      - "大量に消費する用途にはコスト面で不向き"
+    recommendedFor: "防水性や密着力を重視しつつ、少し多めにストックしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F22188%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10682606%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/188/22188.jpg?_ex=128x128"
+  - rank: 6
+    name: "キズパワーパッド スポットタイプ 10枚入×2コセット"
+    brand: "バンドエイド（BAND-AID）"
+    price: 1493
+    capacity: "20枚（10枚入×2コセット）"
+    pricePerUnit: "約75円/枚"
+    rating: 4.68
+    reviewCount: 81
+    features:
+      - "ハイドロコロイド素材を使った密着タイプ"
+      - "水や汚れの侵入を防ぐ防水設計"
+      - "指先や小さめのキズに合わせたスポットタイプ"
+    pros:
+      - "指先など小さめのキズに貼りやすい"
+      - "防水性を重視する人に向く"
+      - "2個セットでストックしておきやすい"
+    cons:
+      - "1枚あたりの単価は標準タイプより高め"
+      - "広い範囲のキズには小さい場合がある"
+    recommendedFor: "指先など小さめのキズを防水でケアしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F22192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10674573%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/192/22192.jpg?_ex=128x128"
+  - rank: 7
+    name: "キズパワーパッド 水仕事用 10枚入×2コセット"
+    brand: "バンドエイド（BAND-AID）"
+    price: 1493
+    capacity: "20枚（10枚入×2コセット）"
+    pricePerUnit: "約75円/枚"
+    rating: 4.55
+    reviewCount: 80
+    features:
+      - "ハイドロコロイド素材を使った密着タイプ"
+      - "水仕事を想定した防水設計"
+      - "肌にフィットしやすい形状"
+    pros:
+      - "水仕事が多い方でもはがれにくい"
+      - "肌に密着し違和感を抑えやすい"
+      - "2個セットでストックしておきやすい"
+    cons:
+      - "1枚あたりの単価は標準タイプより高め"
+      - "大量に消費する用途にはコスト面で不向き"
+    recommendedFor: "水仕事や家事が多く、防水性を重視したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F22191%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10682608%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/191/22191.jpg?_ex=128x128"
+  - rank: 8
     name: "バンドエイド キズパワーパッド ふつうサイズ 10枚"
     brand: "バンドエイド（BAND-AID）"
     price: 766
@@ -128,6 +216,28 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhan-okusuri_1758907765-6-d"
         available: true
+  - rank: 9
+    name: "キズパワーパッド 大きめサイズ 12枚"
+    brand: "バンドエイド（BAND-AID）"
+    price: 1343
+    capacity: "12枚"
+    pricePerUnit: "約112円/枚"
+    rating: 4.82
+    reviewCount: 84
+    features:
+      - "ハイドロコロイド素材を使った密着タイプ"
+      - "水や汚れの侵入を防ぐ防水設計"
+      - "広めの面積をカバーする大きめサイズ"
+    pros:
+      - "広い範囲のキズを覆いたい用途に向く"
+      - "防水性を重視する人に使いやすい"
+      - "貼り替えの頻度を抑えたい場面に向く"
+    cons:
+      - "1枚あたりの単価は標準タイプより高め"
+      - "小さなキズにはサイズが大きい場合がある"
+    recommendedFor: "広めのキズをしっかり覆いたい方・防水性を重視したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fx455460h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10267692%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/002/4901730077002.jpg?_ex=128x128"
 tags:
   - "絆創膏 おすすめ"
   - "絆創膏 コスパ"
