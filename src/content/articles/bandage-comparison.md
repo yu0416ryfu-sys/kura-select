@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ9選を1枚あた�
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: 2026-07-01
+updatedAt: "2026-07-02"
 draft: false
 products:
   - rank: 1
@@ -55,8 +55,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10092408.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-30"
+        matchStatus: "matched"
+        updatedAt: "2026-07-02"
         price: 986
         rating: 4.93
         reviewCount: 98
@@ -84,6 +84,17 @@ products:
     recommendedFor: "子供用に見た目を楽しみたい方・少量で試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdb0n.3rdw6668.g00qdb0n.3rdw77c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flittleleaf%2Fcha-bansoko-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flittleleaf%2Fi%2F10014262%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/littleleaf/cabinet/ks/bbzm/2026sanrio/top_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faprox%2Fcha-bansoko.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 396
+        rating: 4.64
+        reviewCount: 25
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/aprox_cha-bansoko"
+        available: true
   - rank: 4
     name: "白十字 ファミリーケア ワンタッチパット Mサイズ 22枚"
     brand: "白十字（ファミリーケア）"
@@ -110,8 +121,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987603464520.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-30"
+        matchStatus: "matched"
+        updatedAt: "2026-07-02"
         price: 580
         rating: 0
         reviewCount: 0
@@ -139,6 +150,17 @@ products:
     recommendedFor: "防水性や密着力を重視しつつ、少し多めにストックしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F22188%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10682606%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/188/22188.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901730240017.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 1257
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901730240017"
+        available: true
   - rank: 6
     name: "キズパワーパッド スポットタイプ 10枚入×2コセット"
     brand: "バンドエイド（BAND-AID）"
@@ -209,8 +231,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758907765-6-d.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-30"
+        matchStatus: "matched"
+        updatedAt: "2026-07-02"
         price: 5296
         rating: 0
         reviewCount: 0
@@ -238,6 +260,17 @@ products:
     recommendedFor: "広めのキズをしっかり覆いたい方・防水性を重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fx455460h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10267692%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/002/4901730077002.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop-ni%2F34901730077002.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 1335
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop-ni_34901730077002"
+        available: true
 tags:
   - "絆創膏 おすすめ"
   - "絆創膏 コスパ"

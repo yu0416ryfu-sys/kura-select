@@ -1,10 +1,10 @@
 ---
-title: "食器用洗剤 おすすめ10選【2026年版】フロッシュ・ヤシノミも1mL単価比較"
-description: "食器用洗剤を1mLあたりで比較。ジョイ、キュキュット、フロッシュ、ヤシノミ洗剤など10選を油汚れ・手荒れ対策・大容量コスパの3軸で整理します。"
+title: "食器用洗剤 おすすめ9選【2026年版】フロッシュ・ヤシノミも1mL単価比較"
+description: "食器用洗剤を1mLあたりで比較。ジョイ、キュキュット、フロッシュ、ヤシノミ洗剤など9選を油汚れ・手荒れ対策・大容量コスパの3軸で整理します。"
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-01"
+updatedAt: "2026-07-02"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -165,8 +165,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgyy-shop%2F11019-frosch-aloe-vera-dish-detergent-1000mlx4.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
-        price: 2799
+        updatedAt: "2026-07-02"
+        price: 2320
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/gyy-shop_11019-frosch-aloe-vera-dish-detergent-1000mlx4"
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcooking-clocca%2Fsomali-40542.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cooking-clocca_somali-40542"
         available: true

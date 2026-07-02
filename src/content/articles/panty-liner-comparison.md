@@ -4,7 +4,7 @@ description: "おりものシート（パンティライナー）のおすすめ
 category: "panty-liner"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: 2026-07-01
+updatedAt: "2026-07-02"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbenkyoudou%2Fso-4903111364244.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 314
         rating: 5
         reviewCount: 3
@@ -84,6 +84,17 @@ products:
     recommendedFor: "爽やかな香りを楽しみたい方・やわらかい使用感を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001269197391%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10137827%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/244/4903111364244.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4903111364244.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 246
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4903111364244"
+        available: true
   - rank: 4
     name: "ソフィ Kiyora アロマローズ パンティライナー おりものシート"
     brand: "ユニ・チャーム（ソフィ）"
@@ -106,6 +117,17 @@ products:
     recommendedFor: "香りで気分を変えたい方・サラサラの使用感を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fx654920h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10522844%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/677/4903111375677.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4903111375677.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 328
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4903111375677"
+        available: true
   - rank: 5
     name: "ソフィ はだおもいライナー 天然極コットン 低刺激デリケートタイプ 14cm"
     brand: "ユニ・チャーム（ソフィ）"
@@ -132,9 +154,9 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903111316083.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-30"
-        price: 286
+        matchStatus: "matched"
+        updatedAt: "2026-07-02"
+        price: 283
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903111316083"
@@ -161,6 +183,17 @@ products:
     recommendedFor: "無香料にこだわる方・個包装で携帯しやすさを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa003200200615%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10123710%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/741/4987072009741.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4987072009741.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 691
+        rating: 4.78
+        reviewCount: 9
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4987072009741"
+        available: true
   - rank: 7
     name: "サラサーティ コットン100 極上やわらか 無香料 おりものシート"
     brand: "小林製薬（サラサーティ）"
@@ -183,6 +216,17 @@ products:
     recommendedFor: "無香料にこだわる方・肌当たりのやわらかさを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ukdzn.3rdw666d.g00ukdzn.3rdw7ec6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplant-online%2Fp4189%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplant-online%2Fi%2F10005021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/plant-online/cabinet/image/p4189_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flamp%2Fkasar-13.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 740
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lamp_kasar-13"
+        available: true
 tags:
   - "おりものシート おすすめ"
   - "おりものシート コスパ"

@@ -4,7 +4,7 @@ description: "大人用紙おむつ・尿とりパッドのおすすめ10選を1
 category: "adult-diaper"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: 2026-07-01
+updatedAt: "2026-07-02"
 products:
   - rank: 1
     name: "ひまわり にっこり緑茶パッド 2回吸収 300枚"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F10004173.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 7260
         rating: 4.77
         reviewCount: 94
@@ -83,6 +83,17 @@ products:
     recommendedFor: "介助での交換をこまめに行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pve3n.3rdw6e49.g00pve3n.3rdw72d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhimawari-kaigo%2F10000752%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhimawari-kaigo%2Fi%2F10000752%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/himawari-kaigo/cabinet/00309601/g001810-case-sokuha2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00181.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 7876
+        rating: 4.54
+        reviewCount: 65
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_g00181"
+        available: true
   - rank: 4
     name: "サルバ うす型安心 スーパーワイドパッド"
     brand: "サルバ"
@@ -105,6 +116,17 @@ products:
     recommendedFor: "横漏れ対策を重視しつつ薄さも求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pve3n.3rdw6e49.g00pve3n.3rdw72d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhimawari-kaigo%2F10000753%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhimawari-kaigo%2Fi%2F10000753%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/himawari-kaigo/cabinet/00309601/g001702-case-sokuhai.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00170.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 7128
+        rating: 4.5
+        reviewCount: 101
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_g00170"
+        available: true
   - rank: 5
     name: "サルバ フレーヌケア ナイトロング"
     brand: "サルバ"
@@ -127,6 +149,17 @@ products:
     recommendedFor: "夜間の吸収力を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pve3n.3rdw6e49.g00pve3n.3rdw72d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhimawari-kaigo%2F10003956%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhimawari-kaigo%2Fi%2F10003956%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/himawari-kaigo/cabinet/00309601/g001390-case-sokuhai.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkintarou%2F4987603332188-3.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 5498
+        rating: 4.47
+        reviewCount: 15
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kintarou_4987603332188-3"
+        available: true
   - rank: 6
     name: "サルバ やわ楽パンツ M 96枚"
     brand: "サルバ"
@@ -154,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5817.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 6270
         rating: 4.51
         reviewCount: 78

@@ -1,10 +1,10 @@
 ---
-title: "トイレ掃除シート コスパ比較【2026年版】流せるタイプ10選"
+title: "トイレ掃除シート コスパ比較【2026年版】流せるタイプ9選"
 description: "トイレ掃除シートを1枚あたりのコストで比較。流せるタイプや厚手タイプの違い、用途に合った選び方を解説します。"
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-07-01"
+updatedAt: "2026-07-02"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10137083.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 206
         rating: 4.5
         reviewCount: 4
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale%2F4988787090024-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 1680
         rating: 4.5
         reviewCount: 42
@@ -142,13 +142,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwansa-kun-shop%2Fgeneral-bathroom-001.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgirasol%2Fihs172650464084155.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-30"
-        price: 2360
+        updatedAt: "2026-07-02"
+        price: 1799
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wansa-kun-shop_general-bathroom-001"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/girasol_ihs172650464084155"
         available: true
   - rank: 6
     name: "エリエール ミチガエル トイレクリーナー 本体"
@@ -265,8 +265,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F13193.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
-        price: 984
+        updatedAt: "2026-07-02"
+        price: 1082
         rating: 4.44
         reviewCount: 55
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_13193"

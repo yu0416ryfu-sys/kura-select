@@ -1,10 +1,10 @@
 ---
-title: "IH対応フライパンおすすめ比較8選｜26cmの選び方"
+title: "IH対応フライパンおすすめ比較7選｜26cmの選び方"
 description: "IH対応フライパンを26cm中心に8製品比較。軽量タイプ、セラミック加工、取っ手が外れるタイプなどを選び方とあわせて紹介します。"
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-07-01"
+updatedAt: "2026-07-02"
 draft: false
 products:
   - rank: 1
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4562344407038.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 3938
         rating: 0
         reviewCount: 0

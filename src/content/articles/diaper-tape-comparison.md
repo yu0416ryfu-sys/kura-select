@@ -4,7 +4,7 @@ description: "紙おむつを新生児用、Sサイズ、Mサイズ、BIG以上�
 category: "diaper"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-07-01
+updatedAt: "2026-07-02"
 products:
   - rank: 1
     name: "グーンプラス テープ"
@@ -64,9 +64,9 @@ products:
   - rank: 3
     name: "パンパース テープ さらさらケア 4個セット"
     brand: "Pampers"
-    price: 8680
+    price: 8980
     capacity: "4個"
-    pricePerUnit: "約2170円/個"
+    pricePerUnit: "約2245円/個"
     rating: 4.69
     reviewCount: 64
     features:
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7252903.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 9380
         rating: 4.37
         reviewCount: 19
@@ -97,9 +97,9 @@ products:
   - rank: 4
     name: "パンパース さらケアテープ"
     brand: "Pampers"
-    price: 8680
+    price: 8980
     capacity: "4個セット"
-    pricePerUnit: "約2170円/個"
+    pricePerUnit: "約2245円/個"
     rating: 4.66
     reviewCount: 32
     features:
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7252903.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 9380
         rating: 4.37
         reviewCount: 19
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7263228f.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 7330
         rating: 4.85
         reviewCount: 26
@@ -189,7 +189,7 @@ products:
     capacity: "70枚×4袋"
     pricePerUnit: "約25円/枚"
     rating: 4.82
-    reviewCount: 128
+    reviewCount: 129
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"
@@ -209,8 +209,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
-        price: 6688
+        updatedAt: "2026-07-02"
+        price: 7084
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true
         rating: 4.75

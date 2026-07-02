@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-07-01
+updatedAt: 2026-07-02
 draft: false
 products:
   - rank: 1
@@ -256,8 +256,8 @@ products:
     price: 4510
     capacity: "400×800mm 1枚"
     pricePerUnit: "0円/枚"
-    rating: 4.65
-    reviewCount: 63
+    rating: 4.66
+    reviewCount: 64
     features:
       - "抗ウイルス・抗菌・抗カビ・消臭を備えた高機能タイプ"
       - "サイズ 38×80cm（380×800mm）、家庭用エアコンの標準サイズに対応"

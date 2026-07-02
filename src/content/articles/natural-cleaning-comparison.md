@@ -4,7 +4,7 @@ description: "重曹・セスキ炭酸ソーダ・クエン酸などのナチュ
 category: "natural-cleaning"
 articleType: "comparison"
 publishedAt: "2026-06-09"
-updatedAt: 2026-07-01
+updatedAt: "2026-07-02"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,17 @@ products:
     recommendedFor: "業務用クラスの大容量でg単価を最優先したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2F10000022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000022%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sesuki_22500.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki25.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 7660
+        rating: 4.67
+        reviewCount: 132
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki25"
+        available: true
   - rank: 2
     name: "セスキ炭酸ソーダ 5kg×3袋"
     brand: "NICHIGA（ニチガ）"
@@ -51,6 +62,17 @@ products:
     recommendedFor: "大容量をストックしてg単価を抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2F10000021%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sesuki_15000.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki15.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 5715
+        rating: 4.86
+        reviewCount: 111
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki15"
+        available: true
   - rank: 3
     name: "重曹 国産 5kg 炭酸水素ナトリウム 食用グレード"
     brand: "ナチュラルショップ マニン"
@@ -80,7 +102,7 @@ products:
     capacity: "5kg"
     pricePerUnit: "約411円/kg"
     rating: 4.81
-    reviewCount: 945
+    reviewCount: 946
     features:
       - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
       - "宅配便で届く業務用サイズのパッケージ"
@@ -95,6 +117,17 @@ products:
     recommendedFor: "セスキ炭酸ソーダをまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2F10000019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000019%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sesuki_5000.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki5.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 1843
+        rating: 4.73
+        reviewCount: 229
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki5"
+        available: true
   - rank: 5
     name: "アームアンドハンマー ベーキングソーダ 6.1kg"
     brand: "Arm & Hammer（アームアンドハンマー）"
@@ -122,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos01029.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 2590
         rating: 4.5
         reviewCount: 10
@@ -150,6 +183,17 @@ products:
     recommendedFor: "無添加のアルカリ洗浄剤を掃除・洗濯兼用でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5han.3rdw64ab.g00q5han.3rdw72d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecube%2F10006693%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecube%2Fi%2F10028765%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecube/cabinet/img56367027.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsapri-bk%2F4982757811145.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 1380
+        rating: 4.78
+        reviewCount: 87
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sapri-bk_4982757811145"
+        available: true
   - rank: 7
     name: "クエン酸粉末 5kg 食品添加物グレード 純度99.5%以上"
     brand: "アレスヘルスケア"
@@ -194,6 +238,17 @@ products:
     recommendedFor: "配送方法を選びつつ少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2F10000018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000018%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sesuki_950.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 785
+        rating: 4.56
+        reviewCount: 1265
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki"
+        available: true
   - rank: 9
     name: "セスキ炭酸ソーダ 950g メール便配送"
     brand: "NICHIGA（ニチガ）"
@@ -216,6 +271,17 @@ products:
     recommendedFor: "セスキ炭酸ソーダを少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2Fsesuki%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000484%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sesuki_950m.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-02"
+        price: 785
+        rating: 4.56
+        reviewCount: 1265
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki"
+        available: true
   - rank: 10
     name: "アルカリウォッシュ セスキ炭酸ソーダ 500g 2個セット"
     brand: "地の塩社"
@@ -243,7 +309,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-w001-11309.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 563
         rating: 4.2
         reviewCount: 5

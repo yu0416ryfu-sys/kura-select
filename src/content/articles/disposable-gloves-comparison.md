@@ -1,10 +1,10 @@
 ---
 title: "使い捨て手袋 コスパ最強ランキング【2026年版】ニトリル・ビニール・ポリエチレンで比較"
-description: "使い捨て手袋を1枚あたりのコストで徹底比較。ニトリル・ビニール・ポリエチレンなど素材別に人気10選のフィット感・耐久性を解説します。"
+description: "使い捨て手袋を1枚あたりのコストで徹底比較。ニトリル・ビニール・ポリエチレンなど素材別に人気8選のフィット感・耐久性を解説します。"
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-01"
+updatedAt: "2026-07-02"
 products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh8451-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 429
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh8451-1"
         available: true
@@ -119,7 +119,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh734020.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 7900
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh734020"
         available: true
@@ -183,11 +183,11 @@ products:
   - rank: 7
     name: "ニトリル手袋 パウダーフリー 100枚"
     brand: "TRINITY COSME"
-    price: 1350
+    price: 1200
     capacity: "100枚"
-    pricePerUnit: "約14円/枚"
+    pricePerUnit: "約12円/枚"
     rating: 4.71
-    reviewCount: 1356
+    reviewCount: 1358
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"

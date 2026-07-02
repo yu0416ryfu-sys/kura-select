@@ -4,7 +4,7 @@ description: "紙コップ・紙皿など使い捨て食器のおすすめ9選�
 category: "disposable-tableware"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: 2026-07-01
+updatedAt: 2026-07-02
 draft: false
 products:
   - rank: 1

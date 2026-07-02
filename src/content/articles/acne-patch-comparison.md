@@ -4,15 +4,59 @@ description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚�
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: 2026-07-01
+updatedAt: "2026-07-02"
 draft: false
 products:
   - rank: 1
+    name: "VT PRO CICA クリアスポットパッチ 48枚×3個セット"
+    brand: "VT Cosmetics"
+    price: 1980
+    capacity: "144枚"
+    pricePerUnit: "約14円/枚"
+    rating: 4.68
+    reviewCount: 981
+    features:
+      - "VT PRO CICAシリーズ 48枚入り×3個のまとめ買いセット"
+      - "CICA配合ハイドロゲル素材で2サイズ使い分け可能"
+      - "楽天ランキング実績のある人気商品の継続使用向けセット"
+    pros:
+      - "3個セットで1枚あたりの単価を1個買いより抑えやすい"
+      - "継続使用に向いた枚数で補充頻度を減らせる"
+      - "正規品として品質が確認された状態で購入できる"
+    cons:
+      - "まとめ買いのため初期費用は1個買いより高くなる"
+      - "合わなかった場合のロスが1個買いより大きい"
+    recommendedFor: "VT PRO CICAを継続使用する予定の方・1枚あたりのコストを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzhmn.3rdw67dd.g00tzhmn.3rdw7f4c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiraclim%2F8809695674327_3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmiraclim%2Fi%2F10001936%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/miraclim/cabinet/cosme/vt/cica_spot_patch/8809695674327_3_.jpg?_ex=128x128"
+  - rank: 2
+    name: "VT PRO CICA クリアスポットパッチ 48枚×5個セット"
+    brand: "VT Cosmetics"
+    price: 3250
+    capacity: "240枚"
+    pricePerUnit: "約14円/枚"
+    rating: 4.63
+    reviewCount: 88
+    features:
+      - "VT PRO CICAシリーズ 48枚入り×5個の大容量まとめ買いセット"
+      - "CICA配合ハイドロゲルで2サイズ使い分け対応"
+      - "継続使用を前提とした最大セット構成"
+    pros:
+      - "5個セットでシリーズ内最大量のまとめ買いが可能"
+      - "1枚あたりの単価を最も抑えやすいセット構成"
+      - "継続使用計画が決まっている場合に補充頻度を最小化できる"
+    cons:
+      - "まとめ買いのため初期費用が最も高くなる"
+      - "使用感が合わなかった場合のロスが最大になる"
+    recommendedFor: "VT PRO CICAシリーズを日常使いとして長期継続する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzhmn.3rdw67dd.g00tzhmn.3rdw7f4c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiraclim%2F8809695674327_5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmiraclim%2Fi%2F10001937%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/miraclim/cabinet/cosme/vt/cica_spot_patch/8809695674327_5.jpg?_ex=128x128"
+  - rank: 3
     name: "THE スポットエイド 56枚"
     brand: "THE SPOTAID（THEスポットエイド）"
-    price: 770
+    price: 860
     capacity: "56枚"
-    pricePerUnit: "約14円/枚"
+    pricePerUnit: "約15円/枚"
     rating: 4.3
     reviewCount: 803
     features:
@@ -41,50 +85,6 @@ products:
         rating: 4.29
         reviewCount: 418
         matchNotes: "capacity不一致: 商品名トークン不一致"
-  - rank: 2
-    name: "VT PRO CICA クリアスポットパッチ 48枚×3個セット"
-    brand: "VT Cosmetics"
-    price: 1980
-    capacity: "144枚"
-    pricePerUnit: "約14円/枚"
-    rating: 4.68
-    reviewCount: 981
-    features:
-      - "VT PRO CICAシリーズ 48枚入り×3個のまとめ買いセット"
-      - "CICA配合ハイドロゲル素材で2サイズ使い分け可能"
-      - "楽天ランキング実績のある人気商品の継続使用向けセット"
-    pros:
-      - "3個セットで1枚あたりの単価を1個買いより抑えやすい"
-      - "継続使用に向いた枚数で補充頻度を減らせる"
-      - "正規品として品質が確認された状態で購入できる"
-    cons:
-      - "まとめ買いのため初期費用は1個買いより高くなる"
-      - "合わなかった場合のロスが1個買いより大きい"
-    recommendedFor: "VT PRO CICAを継続使用する予定の方・1枚あたりのコストを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzhmn.3rdw67dd.g00tzhmn.3rdw7f4c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiraclim%2F8809695674327_3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmiraclim%2Fi%2F10001936%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/miraclim/cabinet/cosme/vt/cica_spot_patch/8809695674327_3_.jpg?_ex=128x128"
-  - rank: 3
-    name: "VT PRO CICA クリアスポットパッチ 48枚×5個セット"
-    brand: "VT Cosmetics"
-    price: 3250
-    capacity: "240枚"
-    pricePerUnit: "約14円/枚"
-    rating: 4.63
-    reviewCount: 88
-    features:
-      - "VT PRO CICAシリーズ 48枚入り×5個の大容量まとめ買いセット"
-      - "CICA配合ハイドロゲルで2サイズ使い分け対応"
-      - "継続使用を前提とした最大セット構成"
-    pros:
-      - "5個セットでシリーズ内最大量のまとめ買いが可能"
-      - "1枚あたりの単価を最も抑えやすいセット構成"
-      - "継続使用計画が決まっている場合に補充頻度を最小化できる"
-    cons:
-      - "まとめ買いのため初期費用が最も高くなる"
-      - "使用感が合わなかった場合のロスが最大になる"
-    recommendedFor: "VT PRO CICAシリーズを日常使いとして長期継続する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzhmn.3rdw67dd.g00tzhmn.3rdw7f4c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiraclim%2F8809695674327_5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmiraclim%2Fi%2F10001937%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/miraclim/cabinet/cosme/vt/cica_spot_patch/8809695674327_5.jpg?_ex=128x128"
   - rank: 4
     name: "VT PRO CICA クリアスポットパッチ 48枚×2個セット"
     brand: "VT Cosmetics"
@@ -134,7 +134,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580173961293.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 506
         rating: 0
         reviewCount: 2
@@ -167,7 +167,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4560461866660.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 935
         rating: 0
         reviewCount: 2
@@ -235,7 +235,7 @@ products:
     capacity: "48枚"
     pricePerUnit: "約18円/枚"
     rating: 4.5
-    reviewCount: 1455
+    reviewCount: 1456
     features:
       - "硬質ハイドロゲルを使用したスポットパッチ"
       - "2サイズ（10mm・12mm）のパッチが1セットに入った構成"

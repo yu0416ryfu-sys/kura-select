@@ -1,10 +1,10 @@
 ---
-title: "クッキングシート コスパ比較【2026年版】10選"
-description: "クッキングシートを1mあたりの価格で比較。ロール・繰り返し使えるタイプなど10選を、家庭用と業務用の違いや幅・長さの選び方とともに解説します。"
+title: "クッキングシート コスパ比較【2026年版】9選"
+description: "クッキングシートを1mあたりの価格で比較。ロール・繰り返し使えるタイプなど9選を、家庭用と業務用の違いや幅・長さの選び方とともに解説します。"
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-07-01"
+updatedAt: "2026-07-02"
 products:
   - rank: 1
     name: "フジ クッキングシート 業務用 33cm幅"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F373600.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 12980
         rating: 4.53
         reviewCount: 30
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4902534799398.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 2558
         rating: 0
         reviewCount: 0
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Far-06018k.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-02"
         price: 21390
         rating: 0
         reviewCount: 0
