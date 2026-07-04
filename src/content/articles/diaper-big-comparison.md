@@ -4,7 +4,7 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: 2026-07-04
 products:
   - rank: 1
     name: "グーンプラス テープ BIGサイズ"
@@ -310,7 +310,7 @@ products:
     capacity: "ビッグ108枚（3個セット）"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 1655
+    reviewCount: 1656
     features:
       - "パンツタイプの紙おむつ"
       - "ふわもちタッチの肌あたりに配慮した設計"

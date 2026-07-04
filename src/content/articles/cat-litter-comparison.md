@@ -4,7 +4,7 @@ description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペ
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: "2026-07-04"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "7L×6袋（42L）"
     pricePerUnit: "約78円/L"
     rating: 4.21
-    reviewCount: 5607
+    reviewCount: 5608
     features:
       - "アイリスオーヤマ製のペレットタイプ紙製猫砂"
       - "燃えるゴミとして廃棄可能・トイレへの廃棄にも対応"
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F1533439.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 3980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_1533439"
         available: true
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101385ku.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 4280
         rating: 4.26
         reviewCount: 91
@@ -80,7 +80,7 @@ products:
     capacity: "6L×8袋（48L）"
     pricePerUnit: "約102円/L"
     rating: 4.59
-    reviewCount: 3311
+    reviewCount: 3313
     features:
       - "国産おから（大豆粕）由来の植物系猫砂"
       - "トイレに流せる・燃えるゴミに出せる処理方法の選択肢が広い"
@@ -100,12 +100,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101386ku.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 4980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101386ku"
         available: true
         rating: 4.68
-        reviewCount: 189
+        reviewCount: 190
   - rank: 4
     name: "ウッディフレッシュ 鉱物系猫砂 小粒 16L×2袋"
     brand: "ウッディフレッシュ"
@@ -135,7 +135,7 @@ products:
     capacity: "5L×4袋（20L）"
     pricePerUnit: "約111円/L"
     rating: 4.61
-    reviewCount: 1937
+    reviewCount: 1938
     features:
       - "ベントナイト鉱物系・ペレットタイプの固まる猫砂"
       - "抗菌・脱臭機能付きで衛生管理を考慮した設計"
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F309805.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 2372
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_309805"
         available: true
@@ -223,7 +223,7 @@ products:
     capacity: "5L×4袋（20L）"
     pricePerUnit: "約144円/L"
     rating: 4.68
-    reviewCount: 2355
+    reviewCount: 2359
     features:
       - "ベントナイト鉱物系・固まるタイプの消臭猫砂"
       - "大手メーカーライオンによる消臭設計"
@@ -243,7 +243,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903351011250x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 2701
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903351011250x4"
         available: true
@@ -278,7 +278,7 @@ products:
     capacity: "6L×3個（18L）"
     pricePerUnit: "約278円/L"
     rating: 4.68
-    reviewCount: 1844
+    reviewCount: 1850
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F100142.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 5499
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_100142"
         available: true

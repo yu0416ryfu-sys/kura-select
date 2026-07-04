@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりで比較。ジョイ、キュキュ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: "2026-07-04"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F501277.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-25"
+        updatedAt: "2026-07-04"
         price: 1637
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_501277"
         available: true
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F10053002.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-25"
+        updatedAt: "2026-07-04"
         price: 6956
         rating: 0
         reviewCount: 1
@@ -99,8 +99,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9847345.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-25"
-        price: 2980
+        updatedAt: "2026-07-04"
+        price: 3180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9847345"
         available: true
         rating: 4.64
@@ -108,9 +108,9 @@ products:
   - rank: 4
     name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
     brand: "P&G（ジョイ）"
-    price: 2750
+    price: 2675
     capacity: "4L"
-    pricePerUnit: "約0.69円/mL"
+    pricePerUnit: "約0.67円/mL"
     rating: 4.78
     reviewCount: 51
     features:
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgyy-shop%2F11019-frosch-aloe-vera-dish-detergent-1000mlx4.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 2320
         rating: 0
         reviewCount: 0
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcooking-clocca%2Fsomali-40542.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cooking-clocca_somali-40542"
         available: true

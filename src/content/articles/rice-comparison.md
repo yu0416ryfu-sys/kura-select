@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: "2026-07-04"
 products:
   - rank: 1
     name: "熊本県産 ヒノヒカリ"
@@ -13,7 +13,7 @@ products:
     capacity: "20kg"
     pricePerUnit: "約509円/kg"
     rating: 4.59
-    reviewCount: 14783
+    reviewCount: 14789
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -46,7 +46,7 @@ products:
     capacity: "5kg×2袋"
     pricePerUnit: "約568円/kg"
     rating: 4.27
-    reviewCount: 13749
+    reviewCount: 13754
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -229,11 +229,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-furusato%2F1653728.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurunavi%2F1670297.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 16000
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-furusato_1653728"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/furunavi_1670297"
         available: true
         rating: 0
         reviewCount: 0
@@ -264,7 +264,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fechigoyonezo%2F05sdk25w02.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 13420
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/echigoyonezo_05sdk25w02"
         available: true
@@ -277,7 +277,7 @@ products:
     capacity: "18kg〜20kg"
     pricePerUnit: "0円/kg"
     rating: 4.74
-    reviewCount: 45795
+    reviewCount: 45796
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

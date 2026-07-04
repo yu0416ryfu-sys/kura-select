@@ -4,7 +4,7 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: 2026-07-02
+updatedAt: "2026-07-04"
 draft: false
 products:
   - rank: 1
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdistore%2Feb50rx-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 8480
         rating: 0
         reviewCount: 1
@@ -201,7 +201,7 @@ products:
     capacity: "6本"
     pricePerUnit: "約1390円/本"
     rating: 4.58
-    reviewCount: 193
+    reviewCount: 194
     features:
       - "iOシリーズ（iO2〜iO9）専用設計"
       - "純正品のためiO本体の自動認識機能が正常動作"
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foralb-braun%2Fultimate2-4-p.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 8338
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oralb-braun_ultimate2-4-p"
         available: true
@@ -287,7 +287,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fphilips-japan%2Fhx9043.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 6141
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/philips-japan_hx9043"
         available: true

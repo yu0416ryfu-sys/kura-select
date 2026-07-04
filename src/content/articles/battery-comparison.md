@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: 2026-07-02
+updatedAt: "2026-07-04"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset-eva340.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 1880
         rating: 4.49
         reviewCount: 1936
@@ -47,7 +47,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約25円/本"
     rating: 4.63
-    reviewCount: 1021
+    reviewCount: 1022
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"
@@ -122,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4984824889071.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 1607
         rating: 4.69
         reviewCount: 13
@@ -177,7 +177,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftop1-price%2F20161219-16denchi.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 1280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/top1-price_20161219-16denchi"
         available: true
@@ -210,7 +210,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodmedia-wholesale%2F20180822-000006.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 1565
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodmedia-wholesale_20180822-000006"
         available: true
@@ -219,9 +219,9 @@ products:
   - rank: 8
     name: "エネボルト 充電池 単3 単4 セット 16本 ケース付 充電 電池 充電電池 充電"
     brand: "楽天市場"
-    price: 2980
+    price: 2830
     capacity: "16本"
-    pricePerUnit: "約186円/本"
+    pricePerUnit: "約177円/本"
     rating: 4.46
     reviewCount: 667
     features:

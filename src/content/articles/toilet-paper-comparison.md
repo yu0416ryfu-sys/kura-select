@@ -4,16 +4,16 @@ description: "シングルのトイレットペーパーおすすめ10選を1m�
 category: "toilet-paper"
 publishedAt: "2024-11-01"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: 2026-07-04
 products:
   - rank: 1
     name: "コアユース シングル 芯なし"
     brand: "コアユース"
-    price: 5100
+    price: 4975
     capacity: "170m×48ロール"
-    pricePerUnit: "約0.63円/m"
+    pricePerUnit: "約0.61円/m"
     rating: 4.52
-    reviewCount: 1982
+    reviewCount: 1984
     features:
       - "芯なしのロングタイプで交換の手間を減らしやすい"
       - "再生紙を使用した家庭用にも業務用にも使える仕様"
@@ -112,7 +112,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.67円/m"
     rating: 4.78
-    reviewCount: 1045
+    reviewCount: 1046
     features:
       - "太穴コアレスのシングルトイレットペーパー"
       - "再生紙を使用した長巻きタイプ"
@@ -134,7 +134,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.70円/m"
     rating: 4.66
-    reviewCount: 2740
+    reviewCount: 2741
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
@@ -166,7 +166,7 @@ products:
     capacity: "110m×45ロール"
     pricePerUnit: "約0.71円/m"
     rating: 4.71
-    reviewCount: 1067
+    reviewCount: 1068
     features:
       - "国産のシングルトイレットペーパー"
       - "個包装で保管時の衛生面に配慮しやすい"

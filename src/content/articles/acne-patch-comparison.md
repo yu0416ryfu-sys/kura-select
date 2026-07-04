@@ -4,7 +4,7 @@ description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚�
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: "2026-07-04"
 draft: false
 products:
   - rank: 1
@@ -134,7 +134,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580173961293.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 506
         rating: 0
         reviewCount: 2
@@ -167,7 +167,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4560461866660.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 935
         rating: 0
         reviewCount: 2
@@ -179,8 +179,8 @@ products:
     price: 1000
     capacity: "60枚"
     pricePerUnit: "約17円/枚"
-    rating: 4.13
-    reviewCount: 72
+    rating: 4.14
+    reviewCount: 73
     features:
       - "夜間の集中ケアを目的とした就寝時使用向けパッチ"
       - "植物由来成分配合・低刺激設計"
@@ -235,7 +235,7 @@ products:
     capacity: "48枚"
     pricePerUnit: "約18円/枚"
     rating: 4.5
-    reviewCount: 1456
+    reviewCount: 1457
     features:
       - "硬質ハイドロゲルを使用したスポットパッチ"
       - "2サイズ（10mm・12mm）のパッチが1セットに入った構成"

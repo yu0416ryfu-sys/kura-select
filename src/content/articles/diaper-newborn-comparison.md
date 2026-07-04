@@ -86,13 +86,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkimurasuzuka-store%2Fyahoo20260117-b01cg1tb4q.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkiiroihachi%2Fyahoo20250605-b01cg1tb4q.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
-        price: 1640
+        updatedAt: "2026-07-04"
+        price: 1708
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kimurasuzuka-store_yahoo20260117-b01cg1tb4q"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kiiroihachi_yahoo20250605-b01cg1tb4q"
         available: true
   - rank: 4
     name: "メリーズ エアスルー テープ 新生児"
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02652.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 4449
         rating: 4.67
         reviewCount: 3
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02652.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 4449
         rating: 4.67
         reviewCount: 3

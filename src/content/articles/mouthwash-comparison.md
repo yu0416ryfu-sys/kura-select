@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: "2026-07-04"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -46,7 +46,7 @@ products:
     capacity: "1000mL×4本"
     pricePerUnit: "約0.99円/mL"
     rating: 4.7
-    reviewCount: 264
+    reviewCount: 265
     features:
       - "ノンアルコール処方で刺激を抑えながら殺菌"
       - "バクテリアフィルムに作用する7種の機能性成分配合"
@@ -64,14 +64,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180757-4.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F89403.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-30"
-        price: 3699
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4901730180757-4"
+        updatedAt: "2026-07-04"
+        price: 4021
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_89403"
         available: true
-        rating: 0
-        reviewCount: 1
+        rating: 5
+        reviewCount: 5
   - rank: 3
     name: "リステリン トータルケアプラス クリーンミント"
     brand: "LISTERINE（リステリン）"
@@ -79,7 +79,7 @@ products:
     capacity: "6000ml"
     pricePerUnit: "約0.99円/ml"
     rating: 4.78
-    reviewCount: 350
+    reviewCount: 351
     features:
       - "多機能タイプの薬用マウスウォッシュ"
       - "クリーンミント味の液体タイプ"

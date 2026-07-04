@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に8製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: "2026-07-04"
 draft: false
 products:
   - rank: 1
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4562344407038.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 3938
         rating: 0
         reviewCount: 0
@@ -113,7 +113,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約5025円/個"
     rating: 4.46
-    reviewCount: 138
+    reviewCount: 139
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -153,13 +153,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F3168430321182.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F3168430321199.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-30"
-        price: 4935
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_3168430321182"
+        updatedAt: "2026-07-04"
+        price: 5066
+        rating: 4.25
+        reviewCount: 8
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_3168430321199"
         available: true
   - rank: 7
     name: "CAST VARIUS 取っ手が外れるフライパン IH対応 26cm"

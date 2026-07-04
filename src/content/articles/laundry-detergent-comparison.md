@@ -4,7 +4,7 @@ description: "洗濯洗剤を1回あたりのコストで徹底比較。液体�
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: 2026-07-04
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -12,8 +12,8 @@ products:
     price: 3978
     capacity: "1100g×8個"
     pricePerUnit: "約0.45円/g"
-    rating: 4.78
-    reviewCount: 221
+    rating: 4.77
+    reviewCount: 222
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -171,7 +171,7 @@ products:
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3zun.3rdw6a0f.g00r3zun.3rdw79f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec%2F00000101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec%2Fi%2F10000019%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec/cabinet/10613881/11103765/imgrc0113501552.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec/cabinet/01874330/premiun/hi-bec_premium_01.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

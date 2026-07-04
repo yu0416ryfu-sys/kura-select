@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: "2026-07-04"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10137083.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 206
         rating: 4.5
         reviewCount: 4
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale%2F4988787090024-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 1680
         rating: 4.5
         reviewCount: 42
@@ -142,13 +142,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgirasol%2Fihs172650464084155.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwansa-kun-shop%2Fgeneral-bathroom-001.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
-        price: 1799
+        updatedAt: "2026-07-04"
+        price: 2360
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/girasol_ihs172650464084155"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wansa-kun-shop_general-bathroom-001"
         available: true
   - rank: 6
     name: "エリエール ミチガエル トイレクリーナー 本体"
@@ -244,8 +244,8 @@ products:
     price: 1082
     capacity: "20枚×2個（40枚）"
     pricePerUnit: "約27円/枚"
-    rating: 4.79
-    reviewCount: 58
+    rating: 4.8
+    reviewCount: 59
     features:
       - "トイレ用の掃除シート"
       - "詰め替えやまとめ買い向けタイプ"
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F13193.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 1082
         rating: 4.44
         reviewCount: 55

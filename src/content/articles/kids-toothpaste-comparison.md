@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-07-02
+updatedAt: "2026-07-04"
 products:
   - rank: 1
     name: "ライオン チェックアップ コドモ アップル 60g"
@@ -198,7 +198,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902508104463.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 485
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902508104463"
         available: true

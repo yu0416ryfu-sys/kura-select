@@ -4,7 +4,7 @@ description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-07-02
+updatedAt: "2026-07-04"
 products:
   - rank: 1
     name: "サライウォーター 大容量 次亜塩素酸水"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fg-sarai%2F10000080.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 6996
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/g-sarai_10000080"
         available: true
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F4580361060036.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 7700
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_4580361060036"
         available: true
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F113-8544-001.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 720
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_113-8544-001"
         available: true
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F580764.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 3080
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_580764"
         available: true
@@ -149,8 +149,8 @@ products:
     price: 3297
     capacity: "1280ml×2セット（2,560ml）"
     pricePerUnit: "約1.3円/ml"
-    rating: 4.75
-    reviewCount: 8
+    rating: 4.67
+    reviewCount: 9
     features:
       - "48時間爽やか続く消臭効果"
       - "W除菌+消臭で衣類・布製品にスプレーするだけ"
@@ -230,7 +230,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1265円/kg"
     rating: 4.79
-    reviewCount: 2965
+    reviewCount: 2966
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -273,7 +273,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072098813.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 350
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987072098813"
         available: true
@@ -286,7 +286,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1551円/kg"
     rating: 4.68
-    reviewCount: 1639
+    reviewCount: 1640
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -306,10 +306,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fbs02.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 6204
         rating: 4.67
-        reviewCount: 452
+        reviewCount: 453
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_bs02"
         available: true
 tags:

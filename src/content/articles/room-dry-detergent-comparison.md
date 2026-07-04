@@ -4,7 +4,7 @@ description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底�
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-07-02
+updatedAt: "2026-07-04"
 products:
   - rank: 1
     name: "アタック 抗菌EX 部屋干し用 詰め替え 2380g×6個セット"
@@ -13,7 +13,7 @@ products:
     capacity: "2380g×6個（約476回分）"
     pricePerUnit: "約0.52円/g"
     rating: 4.85
-    reviewCount: 100
+    reviewCount: 102
     features:
       - "抗菌水洗浄で生乾き臭の原因菌を99%除去"
       - "24時間部屋干ししても臭わない抗菌力"
@@ -126,18 +126,18 @@ products:
       - "素材によっては使えない場合がある"
     recommendedFor: "おしゃれ着用洗剤を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3zun.3rdw6a0f.g00r3zun.3rdw79f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec%2F00000101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec%2Fi%2F10000019%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec/cabinet/10613881/11103765/imgrc0113501552.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec/cabinet/01874330/premiun/hi-bec_premium_01.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
-        rating: 4.78
-        reviewCount: 18
+        rating: 4.68
+        reviewCount: 19
   - rank: 6
     name: "サンベック高級洗剤"
     brand: "サンベック"

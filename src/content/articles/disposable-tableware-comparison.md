@@ -4,7 +4,7 @@ description: "紙コップ・紙皿など使い捨て食器のおすすめ9選�
 category: "disposable-tableware"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: 2026-07-02
+updatedAt: "2026-07-04"
 draft: false
 products:
   - rank: 1
@@ -161,6 +161,17 @@ products:
     recommendedFor: "小さめの取り皿をまとめて使いたい方・屋外イベントで使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6mcn.3rdw6191.g00r6mcn.3rdw73f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujix-sizai%2F215400%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujix-sizai%2Fi%2F10000836%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fujix-sizai/cabinet/shohin02/215400.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F215400.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-04"
+        price: 10626
+        rating: 4.86
+        reviewCount: 7
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_215400"
+        available: true
   - rank: 8
     name: "フジナップ ペーパープレート 15cm 業務用 2400枚"
     brand: "フジナップ"
@@ -183,6 +194,17 @@ products:
     recommendedFor: "来客やイベントで紙皿を多用する方・単価重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6mcn.3rdw6191.g00r6mcn.3rdw73f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujix-sizai%2F215500%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujix-sizai%2Fi%2F10000837%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fujix-sizai/cabinet/shohin02/215500.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F215500.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-04"
+        price: 11539
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_215500"
+        available: true
   - rank: 9
     name: "ワサラ ボウル 500ml 紙の器 6枚入"
     brand: "WASARA（ワサラ）"

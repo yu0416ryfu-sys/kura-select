@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: 2026-07-04
 draft: false
 products:
   - rank: 1
@@ -109,9 +109,9 @@ products:
   - rank: 4
     name: "エリザベスアーデン グリーンティー ボディローション"
     brand: "Elizabeth Arden（エリザベスアーデン）"
-    price: 1680
+    price: 1580
     capacity: "500mL"
-    pricePerUnit: "約3.4円/mL"
+    pricePerUnit: "約3.2円/mL"
     rating: 4.44
     reviewCount: 1023
     features:
@@ -256,7 +256,7 @@ products:
     capacity: "300ml"
     pricePerUnit: "約14円/mL"
     rating: 4.7
-    reviewCount: 2934
+    reviewCount: 2935
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"

@@ -4,7 +4,7 @@ description: "入れ歯洗浄剤のおすすめ10選を1錠あたりの単価で
 category: "denture-cleaner"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: 2026-07-02
+updatedAt: "2026-07-04"
 products:
   - rank: 1
     name: "スッキリデント 部分入れ歯総入れ歯兼用 120錠"
@@ -12,8 +12,8 @@ products:
     price: 698
     capacity: "120錠"
     pricePerUnit: "約5.8円/錠"
-    rating: 4.56
-    reviewCount: 61
+    rating: 4.55
+    reviewCount: 62
     features:
       - "部分入れ歯・総入れ歯兼用の洗浄剤"
       - "酵素を配合したつけ置きタイプ"
@@ -50,6 +50,17 @@ products:
     recommendedFor: "総入れ歯をコスパよく手入れしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe543465h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10644383%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/595/4987072068595.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuzuberu%2F20260703192559-02372.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-04"
+        price: 906
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/suzuberu_20260703192559-02372"
+        available: true
   - rank: 3
     name: "パーシャルデント 部分入れ歯用 108錠"
     brand: "パーシャルデント"
@@ -77,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072029572.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-21"
+        updatedAt: "2026-07-04"
         price: 562
         rating: 4.77
         reviewCount: 22
@@ -110,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901080702111.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-21"
+        updatedAt: "2026-07-04"
         price: 813
         rating: 0
         reviewCount: 1
@@ -138,6 +149,17 @@ products:
     recommendedFor: "除菌・消臭を重視してまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F1324419-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000997%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/1324419-02_001.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkarayasa%2F03-sm2.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-04"
+        price: 3600
+        rating: 4.67
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/karayasa_03-sm2"
+        available: true
   - rank: 6
     name: "ロートピカ 義歯洗浄剤 6箱セット"
     brand: "松風"
@@ -226,6 +248,17 @@ products:
     recommendedFor: "つけ置き洗浄をまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk69n.3rdw62b0.g00qk69n.3rdw782c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Femon-otodoke%2F10003036-111k6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Femon-otodoke%2Fi%2F10007330%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/emon-otodoke/cabinet/00728702/09023517/imgrc0114844030.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftodaysun%2F2022yr12mt18daywq069ic09f694wp2.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-04"
+        price: 6026
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/todaysun_2022yr12mt18daywq069ic09f694wp2"
+        available: true
   - rank: 10
     name: "フィジオクリーン キラリ錠剤 30錠 3箱"
     brand: "ニッシン"
@@ -248,6 +281,17 @@ products:
     recommendedFor: "まずは試しやすい量から始めたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t0trn.3rdw642b.g00t0trn.3rdw7fbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkelly-s%2Fnisshin-00001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkelly-s%2Fi%2F10004859%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kelly-s/cabinet/kiraripill_01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisare-gal%2Fkirari03.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-04"
+        price: 3244
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisare-gal_kirari03"
+        available: true
 tags:
   - "入れ歯洗浄剤 おすすめ"
   - "入れ歯洗浄剤 コスパ"

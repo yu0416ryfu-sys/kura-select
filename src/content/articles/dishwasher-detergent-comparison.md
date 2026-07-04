@@ -4,7 +4,7 @@ description: "食洗機用洗剤を1回あたりのコストで徹底比較。�
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: "2026-07-04"
 products:
   - rank: 1
     name: "P&G 食洗機用ジョイ オレンジピール成分入り 詰替 490g"
@@ -33,35 +33,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7078356.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 930
         rating: 4.67
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7078356"
         available: true
   - rank: 2
-    name: "緑の魔女 食洗機用洗剤 800g"
-    brand: "ミマスクリーンケア"
-    price: 590
-    capacity: "800g"
-    pricePerUnit: "約0.74円/g"
-    rating: 4.47
-    reviewCount: 57
-    features:
-      - "食器洗い乾燥機専用の洗剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "食洗機の運用に合わせて選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "対応機種や投入量を確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "食洗機の運用に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F9847343%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10096247%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya114/9847343.jpg?_ex=128x128"
-  - rank: 3
     name: "ジョイ 食洗機用洗剤 オレンジ 詰め替え 930g×3個"
     brand: "P&G（ジョイ）"
     price: 2108
@@ -88,13 +66,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-select-easyshop%2Fls1c040a6150.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 1975
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/life-select-easyshop_ls1c040a6150"
         available: true
-  - rank: 4
+  - rank: 3
     name: "★大容量2200g入り★フィニッシュ パウダー/ミューズ/ "
     brand: "レキットベンキーザー（フィニッシュ）"
     price: 1760
@@ -121,13 +99,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b07bbljjxx-20260329.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 2654
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b07bbljjxx-20260329"
         available: true
-  - rank: 5
+  - rank: 4
     name: "緑の魔女 オートキッチン 800g"
     brand: "ミマスクリーンケア"
     price: 648
@@ -154,13 +132,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902875020915-73-30002003.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 650
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902875020915-73-30002003"
         available: true
         rating: 4.54
         reviewCount: 13
-  - rank: 6
+  - rank: 5
     name: "キュキュット 食器洗い乾燥機専用 粉末タイプ 詰替 800g×3セット"
     brand: "花王（キュキュット）"
     price: 2145
@@ -182,7 +160,7 @@ products:
     recommendedFor: "食洗機用洗剤を形状別に比較したい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404959%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148567%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/959/404959.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "食洗機用ジョイ 除菌 詰替特大 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
@@ -209,13 +187,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430777537x3.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 1705
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430777537x3"
         available: true
         rating: 4.83
         reviewCount: 12
-  - rank: 8
+  - rank: 7
     name: "食洗機用ジョイ 除菌 詰め替え 特大 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
@@ -242,12 +220,34 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430777537x3.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-04"
         price: 1705
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430777537x3"
         available: true
         rating: 4.83
         reviewCount: 12
+  - rank: 8
+    name: "緑の魔女 食洗機用洗剤 800g"
+    brand: "ミマスクリーンケア"
+    price: 980
+    capacity: "800g"
+    pricePerUnit: "約1.2円/g"
+    rating: 4.47
+    reviewCount: 57
+    features:
+      - "食器洗い乾燥機専用の洗剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "食洗機の運用に合わせて選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "対応機種や投入量を確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "食洗機の運用に合わせて選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F9847343%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10096247%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya114/9847343.jpg?_ex=128x128"
   - rank: 9
     name: "ソネット ナチュラルディッシュウォッシャー 1.5kg"
     brand: "SONETT"

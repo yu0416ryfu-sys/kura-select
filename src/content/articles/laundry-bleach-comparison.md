@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-02
+updatedAt: "2026-07-04"
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"
@@ -12,8 +12,8 @@ products:
     price: 3978
     capacity: "1100g×8個セット"
     pricePerUnit: "約0.45円/g"
-    rating: 4.78
-    reviewCount: 221
+    rating: 4.77
+    reviewCount: 222
     features:
       - "ベビーフローラルの心地よい香りが特徴の液体洗剤"
       - "洗浄力・消臭・抗菌の三機能を一本で実現"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 3978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
         available: true
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4903301250418.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 5016
         rating: 4.47
         reviewCount: 30
@@ -97,9 +97,9 @@ products:
   - rank: 4
     name: "さらさ 洗濯洗剤 詰め替え 6個セット"
     brand: "P&G（さらさ）"
-    price: 8670
+    price: 8485
     capacity: "1490g×6個セット"
-    pricePerUnit: "約0.97円/g"
+    pricePerUnit: "約0.95円/g"
     rating: 4.72
     reviewCount: 163
     features:
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhikaritv%2F2010126844.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 8280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010126844"
         available: true
@@ -130,9 +130,9 @@ products:
   - rank: 5
     name: "さらさ 洗濯洗剤 詰め替え"
     brand: "P&G（さらさ）"
-    price: 8670
+    price: 8485
     capacity: "1490g"
-    pricePerUnit: "約5.8円/g"
+    pricePerUnit: "約5.7円/g"
     rating: 4.56
     reviewCount: 259
     features:
@@ -170,18 +170,18 @@ products:
       - "使用方法を誤ると衣類を傷める可能性がある"
     recommendedFor: "スーツやコートを自宅でドライクリーニングしたい方・衣替えの季節に高級衣類をまとめて洗いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3zun.3rdw6a0f.g00r3zun.3rdw79f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec%2F00000101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec%2Fi%2F10000019%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec/cabinet/10613881/11103765/imgrc0113501552.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec/cabinet/01874330/premiun/hi-bec_premium_01.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
-        rating: 4.78
-        reviewCount: 18
+        rating: 4.68
+        reviewCount: 19
   - rank: 7
     name: "サンベック高級洗剤"
     brand: "トップライン"
@@ -229,7 +229,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwellness-web%2F10184200.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-02"
+        updatedAt: "2026-07-04"
         price: 547
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wellness-web_10184200"
         available: true
@@ -284,7 +284,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F574939.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 3960
         rating: 0
         reviewCount: 0

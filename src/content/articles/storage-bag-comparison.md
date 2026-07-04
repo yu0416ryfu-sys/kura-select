@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-02
+updatedAt: "2026-07-04"
 products:
   - rank: 1
     name: "ニッカルフレッシュ 鮮度保持袋"
@@ -13,7 +13,7 @@ products:
     capacity: "50枚または100枚（S/M/Lサイズ選択可）"
     pricePerUnit: "約16円/枚"
     rating: 4.74
-    reviewCount: 148
+    reviewCount: 149
     features:
       - "ポリエチレン素材・厚さ0.03mmの軽量薄手タイプ"
       - "抗菌性能を備えた食品保存専用設計"
@@ -88,8 +88,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4997495112409.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-30"
-        price: 161
+        updatedAt: "2026-07-04"
+        price: 182
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4997495112409"
         available: true
         rating: 0
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbungubin%2Fka0047.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-04"
         price: 145
         rating: 0
         reviewCount: 0

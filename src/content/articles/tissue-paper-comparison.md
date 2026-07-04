@@ -4,7 +4,7 @@ description: "ティッシュペーパーを1組あたりの価格で徹底比�
 category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: 2026-07-04
 products:
   - rank: 1
     name: "ハロー ソフトパックティッシュ"
@@ -31,9 +31,9 @@ products:
   - rank: 2
     name: "Smart Yell ソフトパックティッシュ"
     brand: "アイリスオーヤマ"
-    price: 3050
+    price: 2665
     capacity: "150組×50個"
-    pricePerUnit: "約0.41円/組"
+    pricePerUnit: "約0.36円/組"
     rating: 4.54
     reviewCount: 783
     features:
