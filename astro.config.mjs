@@ -11,7 +11,12 @@ export default defineConfig({
   trailingSlash: "always",
   integrations: [
     preact({ compat: true }),
-    sitemap(),
+    sitemap({
+      // 検索ページ・記事一覧ページはインデックス対象外（noindex 指定と整合）。
+      // 記事詳細（/articles/<slug>/）は除外しない。
+      filter: (page) =>
+        !page.endsWith("/search/") && !page.endsWith("/articles/"),
+    }),
     mdx(),
   ],
   vite: {

@@ -30,6 +30,7 @@ const { data } = category;
 <BaseLayout
   title={`${data.name}のコスパ比較 | 暮らセレクト`}
   description={data.description}
+  noindex={articles.length === 0}
 >
   <Container class="py-10 md:py-14">
     <!-- ヘッダー -->
