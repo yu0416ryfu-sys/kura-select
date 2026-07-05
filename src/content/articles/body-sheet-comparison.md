@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: 2026-07-04
+updatedAt: 2026-07-05
 draft: false
 products:
   - rank: 1
@@ -211,8 +211,8 @@ products:
     price: 2011
     capacity: "30枚"
     pricePerUnit: "約67円/枚"
-    rating: 4.81
-    reviewCount: 16
+    rating: 4.76
+    reviewCount: 17
     features:
       - "拭いた後に冷感を感じる清涼設計"
       - "大判シートで背中や腕まで拭きやすい"

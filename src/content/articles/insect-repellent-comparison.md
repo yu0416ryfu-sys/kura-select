@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: 2026-07-04
+updatedAt: 2026-07-05
 draft: false
 products:
   - rank: 1
@@ -134,8 +134,8 @@ products:
     price: 1080
     capacity: "100ml"
     pricePerUnit: "約11円/mL"
-    rating: 4.48
-    reviewCount: 225
+    rating: 4.49
+    reviewCount: 226
     features:
       - "天然精油9種類を配合した合成殺虫成分不使用の虫よけスプレー"
       - "レモングラス・ラベンダー・ユーカリ・ヒノキなど天然アロマをブレンド"

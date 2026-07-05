@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: "2026-07-05"
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -13,7 +13,7 @@ products:
     capacity: "200枚×30袋（6000枚）"
     pricePerUnit: "約0.65円/枚"
     rating: 4.62
-    reviewCount: 311
+    reviewCount: 312
     features:
       - "1枚あたり約0.66円の圧倒的コスパ"
       - "業務用の安定した品質"
@@ -231,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsukasa1%2F10000311.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-05"
         price: 5173
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsukasa1_10000311"
         available: true
@@ -264,7 +264,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Fr8o50.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 3899
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-kurashi_r8o50"
         available: true
@@ -297,7 +297,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4975156901005.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 4594
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4975156901005"
         available: true

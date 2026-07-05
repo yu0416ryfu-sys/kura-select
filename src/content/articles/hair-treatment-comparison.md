@@ -4,7 +4,7 @@ description: "コスパいいヘアトリートメントを1g・1mLあたりで�
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-07-04"
+updatedAt: "2026-07-05"
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580632116943.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 1320
         rating: 0
         reviewCount: 2
@@ -200,7 +200,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約35円/mL"
     rating: 4.76
-    reviewCount: 1572
+    reviewCount: 1573
     features:
       - "くせ毛ケア特化のディシプリンライン集中トリートメントマスク"
       - "湿気・広がり・アホ毛をまとめるポリマー・シーディ成分配合"

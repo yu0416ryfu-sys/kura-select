@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: "2026-07-05"
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ"
@@ -108,14 +108,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9673092.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134288-case.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
-        price: 7348
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9673092"
+        updatedAt: "2026-07-05"
+        price: 8386
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134288-case"
         available: true
-        rating: 0
-        reviewCount: 0
+        rating: 4.93
+        reviewCount: 86
   - rank: 5
     name: "パンパース はじめての肌へのいちばん テープ Mサイズ"
     brand: "P&G（パンパース）"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9662265.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-05"
         price: 6283
         rating: 0
         reviewCount: 1
@@ -155,8 +155,8 @@ products:
     price: 6880
     capacity: "96枚"
     pricePerUnit: "約72円/枚"
-    rating: 4.74
-    reviewCount: 180
+    rating: 4.75
+    reviewCount: 181
     features:
       - "ネット状の肌触りで蒸れにくく快適"
       - "パラベン・アルコール無添加の低刺激処方"
@@ -170,7 +170,7 @@ products:
       - "さらさらケアほど大容量セットがない"
     recommendedFor: "Mサイズでも品質重視で選びたい方・Sサイズ時代からパンパース派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2ngn.3rdw6e7c.g00t2ngn.3rdw797f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F1710000043%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhikaritv%2Fi%2F10227865%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000043_k.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/sale/1710000043_rma.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

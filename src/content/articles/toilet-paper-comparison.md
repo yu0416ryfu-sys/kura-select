@@ -4,7 +4,7 @@ description: "シングルのトイレットペーパーおすすめ10選を1m�
 category: "toilet-paper"
 publishedAt: "2024-11-01"
 articleType: "comparison"
-updatedAt: 2026-07-04
+updatedAt: "2026-07-05"
 products:
   - rank: 1
     name: "コアユース シングル 芯なし"
@@ -112,7 +112,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.67円/m"
     rating: 4.78
-    reviewCount: 1046
+    reviewCount: 1048
     features:
       - "太穴コアレスのシングルトイレットペーパー"
       - "再生紙を使用した長巻きタイプ"
@@ -134,7 +134,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.70円/m"
     rating: 4.66
-    reviewCount: 2741
+    reviewCount: 2743
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
@@ -166,7 +166,7 @@ products:
     capacity: "110m×45ロール"
     pricePerUnit: "約0.71円/m"
     rating: 4.71
-    reviewCount: 1068
+    reviewCount: 1070
     features:
       - "国産のシングルトイレットペーパー"
       - "個包装で保管時の衛生面に配慮しやすい"
@@ -220,7 +220,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.76円/m"
     rating: 4.77
-    reviewCount: 64
+    reviewCount: 65
     features:
       - "芯なし設計でゴミが出にくい環境配慮型"
       - "150mの長尺ロールで交換頻度を減らせる"
@@ -240,7 +240,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Febarabo%2Febr-ppr-core-p2009.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-05"
         price: 6675
         rating: 0
         reviewCount: 1
@@ -253,7 +253,7 @@ products:
     capacity: "150m×36ロール"
     pricePerUnit: "約0.78円/m"
     rating: 4.62
-    reviewCount: 752
+    reviewCount: 753
     features:
       - "芯なしの長巻きシングルトイレットペーパー"
       - "個包装で分けて保管しやすい"

@@ -4,7 +4,7 @@ description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あ�
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: 2026-07-04
+updatedAt: 2026-07-05
 draft: false
 products:
   - rank: 1
@@ -124,7 +124,7 @@ products:
     capacity: "400g"
     pricePerUnit: "約15円/g"
     rating: 4.37
-    reviewCount: 7661
+    reviewCount: 7669
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -157,7 +157,7 @@ products:
     capacity: "350g"
     pricePerUnit: "約16円/g"
     rating: 4.26
-    reviewCount: 2893
+    reviewCount: 2895
     features:
       - "洗いながら染めるクリームシャンプータイプ"
       - "白髪染め・トリートメント機能を兼ねる"
@@ -171,7 +171,7 @@ products:
       - "色味の出方に個人差がある"
     recommendedFor: "毎日のケアで少しずつ白髪を目立たなくしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s6b6n.3rdw6797.g00s6b6n.3rdw7ada/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fibiki-kenkyujyo%2Faz-711%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fibiki-kenkyujyo%2Fi%2F10000575%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ibiki-kenkyujyo/cabinet/08691637/711_260325_01.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ibiki-kenkyujyo/cabinet/08691637/711_260325_50off.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -211,8 +211,8 @@ products:
     price: 11616
     capacity: "2個"
     pricePerUnit: "約5808円/個"
-    rating: 4.5
-    reviewCount: 2456
+    rating: 4.49
+    reviewCount: 2459
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -234,7 +234,7 @@ products:
     capacity: "3個"
     pricePerUnit: "約5808円/個"
     rating: 4.52
-    reviewCount: 1657
+    reviewCount: 1658
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

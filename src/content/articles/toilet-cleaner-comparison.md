@@ -28,6 +28,17 @@ products:
     recommendedFor: "トイレ用洗剤を液体タイプ中心に比較したい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F35475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10844048%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/475/35475.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fminoku-value%2F1758927216-3-e.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-05"
+        price: 709
+        rating: 5
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/minoku-value_1758927216-3-e"
+        available: true
   - rank: 2
     name: "ドメスト 除菌クリーナー 500ml×3個セット"
     brand: "ユニリーバ（ドメスト）"
@@ -110,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4903301118336.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 441
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4903301118336"
         available: true
@@ -143,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fglv%2Fsnt-0016-000.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/glv_snt-0016-000"
         available: true
@@ -176,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzozo%2F47433692.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 880
         rating: 0
         reviewCount: 2
@@ -209,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fle-cure%2Fim-1008473.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 1980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/le-cure_im-1008473"
         available: true
@@ -264,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9615427011.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 216
         rating: 4.8
         reviewCount: 10

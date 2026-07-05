@@ -4,7 +4,7 @@ description: "コーヒーフィルターを1枚あたりのコストで徹底�
 category: "coffee-filter"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-06-14"
+updatedAt: "2026-07-05"
 draft: false
 products:
   - rank: 1
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshimomurakihan%2F43452.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 770
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shimomurakihan_43452"
         available: true
@@ -234,7 +234,7 @@ products:
     capacity: "200枚"
     pricePerUnit: "約13円/枚"
     rating: 4.76
-    reviewCount: 82
+    reviewCount: 83
     features:
       - "ドリップ用のコーヒーフィルター"
       - "継続利用しやすい定番構成"
@@ -254,7 +254,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fuminari%2Fa3jdxc00014st.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 2480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/uminari_a3jdxc00014st"
         available: true
@@ -287,7 +287,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fultramix%2Fif-filter-mx.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 2208
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ultramix_if-filter-mx"
         available: true

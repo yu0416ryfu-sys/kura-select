@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-04
+updatedAt: "2026-07-05"
 products:
   - rank: 1
     name: "無添加生活 泡洗顔 炭酸泡洗顔フォーム 3本セット"
@@ -155,8 +155,8 @@ products:
     price: 1980
     capacity: "110g"
     pricePerUnit: "約18円/g"
-    rating: 4.61
-    reviewCount: 1801
+    rating: 4.6
+    reviewCount: 1803
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -264,7 +264,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000154951.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-05"
         price: 1320
         rating: 0
         reviewCount: 0

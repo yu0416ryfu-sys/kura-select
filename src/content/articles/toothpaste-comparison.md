@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-04"
+updatedAt: 2026-07-05
 products:
   - rank: 1
     name: "システマ ハグキプラス プレミアム 95g×4本セット"
@@ -101,7 +101,7 @@ products:
     capacity: "パウダー5g + ペースト15g（計20g）"
     pricePerUnit: "約16.4円/g"
     rating: 4.19
-    reviewCount: 4730
+    reviewCount: 4731
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -117,33 +117,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothsmple%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/toothpsnew.jpg?_ex=128x128"
   - rank: 5
-    name: "WHITH WHITE 薬用歯磨き"
-    brand: "WHITH WHITE"
-    price: 2580
-    capacity: "120g"
-    pricePerUnit: "約22円/g"
-    rating: 4.47
-    reviewCount: 2258
-    features:
-      - "毎日の歯みがきに使える歯磨き粉"
-      - "ホワイトニングや口臭ケア系も選べる"
-      - "容量で比較しやすい"
-    pros:
-      - "日常ケアに取り入れやすい"
-      - "目的別に選べる"
-      - "ストックしやすい"
-    cons:
-      - "成分や使用感の好みは分かれる"
-      - "医薬部外品表記の確認が必要"
-    recommendedFor: "歯磨き粉を目的と容量で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b07qzwqjrm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260704m/906b07qzwqjrm-1000.jpg?_ex=128x128"
-  - rank: 6
     name: "キラルンパウダー"
     brand: "RUKEN"
-    price: 1254
+    price: 1000
     capacity: "55g"
-    pricePerUnit: "約23円/g"
+    pricePerUnit: "約18円/g"
     rating: 4.31
     reviewCount: 3270
     features:
@@ -171,6 +149,28 @@ products:
         available: true
         rating: 4.24
         reviewCount: 254
+  - rank: 6
+    name: "WHITH WHITE 薬用歯磨き"
+    brand: "WHITH WHITE"
+    price: 2580
+    capacity: "120g"
+    pricePerUnit: "約22円/g"
+    rating: 4.47
+    reviewCount: 2259
+    features:
+      - "毎日の歯みがきに使える歯磨き粉"
+      - "ホワイトニングや口臭ケア系も選べる"
+      - "容量で比較しやすい"
+    pros:
+      - "日常ケアに取り入れやすい"
+      - "目的別に選べる"
+      - "ストックしやすい"
+    cons:
+      - "成分や使用感の好みは分かれる"
+      - "医薬部外品表記の確認が必要"
+    recommendedFor: "歯磨き粉を目的と容量で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b07qzwqjrm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260704m/906b07qzwqjrm-1000.jpg?_ex=128x128"
   - rank: 7
     name: "アパガードリナメル"
     brand: "アパガード"
@@ -192,7 +192,7 @@ products:
       - "医薬部外品表記の確認が必要"
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F84449%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10005817%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0704_p5100/kirikae2/04645_1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0705_100b/kirikae2/04645_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -247,7 +247,7 @@ products:
       - "ホワイトニング効果を実感するまで時間がかかる"
     recommendedFor: "ホワイトニング・着色汚れを落としたい方・歯の白さにこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F36667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10004851%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0704_p5100/kirikae1/36667.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0705_100b/kirikae1/36667.jpg?_ex=128x128"
   - rank: 10
     name: "しろえ ホワイトニングパウダー"
     brand: "しろえ"

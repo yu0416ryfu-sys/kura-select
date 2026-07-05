@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バブ・�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-04"
+updatedAt: "2026-07-05"
 products:
   - rank: 1
     name: "ヒマラヤ岩塩バスソルト ピンクソルト 訳あり"
@@ -101,7 +101,7 @@ products:
     capacity: "750g（30回分）"
     pricePerUnit: "約3.1円/g"
     rating: 4.69
-    reviewCount: 7116
+    reviewCount: 7117
     features:
       - "高濃度水素とナノバブル技術で肌の奥まで浸透"
       - "重炭酸配合で塩素を除去しながら保湿"
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkisyubio-wakayama%2F500ml.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 1500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kisyubio-wakayama_500ml"
         available: true
@@ -255,7 +255,7 @@ products:
     capacity: "1L"
     pricePerUnit: "約8800円/L"
     rating: 4.66
-    reviewCount: 1571
+    reviewCount: 1572
     features:
       - "毎日の入浴に使いやすい入浴剤"
       - "まとめ買いしやすい容量設定"

@@ -4,7 +4,7 @@ description: "ダブルのトイレットペーパーを1mあたりのコスト�
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-04"
+updatedAt: "2026-07-05"
 products:
   - rank: 1
     name: "再生紙トイレットペーパー ダブル"
@@ -13,7 +13,7 @@ products:
     capacity: "27.5m×12ロール×8パック（96ロール）"
     pricePerUnit: "約1.2円/m"
     rating: 4.58
-    reviewCount: 3547
+    reviewCount: 3550
     features:
       - "再生紙を使ったダブルタイプ"
       - "無地・無印刷で日常使いしやすい"
@@ -57,7 +57,7 @@ products:
     capacity: "75m×4ロール×12パック（3倍巻き）"
     pricePerUnit: "約1.7円/m"
     rating: 4.75
-    reviewCount: 918
+    reviewCount: 920
     features:
       - "3倍長持ち設計で交換頻度が大幅に減る"
       - "ダブルタイプで使い心地が良い"
@@ -123,7 +123,7 @@ products:
     capacity: "75m×4ロール×12袋"
     pricePerUnit: "約1.8円/m"
     rating: 4.63
-    reviewCount: 1495
+    reviewCount: 1498
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9620643.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 3880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9620643"
         available: true
@@ -264,7 +264,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F5647190.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 533
         rating: 0
         reviewCount: 0
@@ -297,7 +297,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2Fh7262029.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-05"
         price: 1000
         rating: 4.38
         reviewCount: 13

@@ -4,7 +4,7 @@ description: "ティッシュペーパーを1組あたりの価格で徹底比�
 category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: 2026-07-04
+updatedAt: "2026-07-05"
 products:
   - rank: 1
     name: "ハロー ソフトパックティッシュ"
@@ -35,7 +35,7 @@ products:
     capacity: "150組×50個"
     pricePerUnit: "約0.36円/組"
     rating: 4.54
-    reviewCount: 783
+    reviewCount: 784
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"
@@ -57,7 +57,7 @@ products:
     capacity: "200組×80個"
     pricePerUnit: "約0.41円/組"
     rating: 4.66
-    reviewCount: 1280
+    reviewCount: 1281
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flefutur%2Fscottie500.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-05"
         price: 6520
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lefutur_scottie500"
         available: true
@@ -111,8 +111,8 @@ products:
     price: 5799
     capacity: "360枚×60箱（21600枚）"
     pricePerUnit: "約0.54円/組"
-    rating: 4.69
-    reviewCount: 138
+    rating: 4.68
+    reviewCount: 139
     features:
       - "世界的ブランド・クリネックスの定番品"
       - "厚みと柔らかさのバランスが優秀"

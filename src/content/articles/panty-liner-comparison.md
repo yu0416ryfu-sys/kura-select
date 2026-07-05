@@ -4,7 +4,7 @@ description: "おりものシート（パンティライナー）のおすすめ
 category: "panty-liner"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: 2026-07-05
 draft: false
 products:
   - rank: 1
@@ -168,7 +168,7 @@ products:
     capacity: "112枚"
     pricePerUnit: "約7.8円/枚"
     rating: 4.7
-    reviewCount: 164
+    reviewCount: 165
     features:
       - "表面に綿100%を使用した無香料タイプ"
       - "1枚ずつの個別包装"
