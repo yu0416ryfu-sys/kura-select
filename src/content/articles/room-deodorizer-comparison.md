@@ -1,78 +1,12 @@
 ---
-title: "消臭剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "消臭剤を1mLあたりのコストで徹底比較。消臭力・リセッシュ・無香空間・ファブリーズなど人気10選を香り・持続力・コスパで解説します。"
+title: "消臭剤 コスパ最強ランキング【2026年版】おすすめ6選｜スプレー・置き型を比較"
+description: "消臭剤のおすすめ6選をコスパで徹底比較。リセッシュ・ファブリーズ・無香空間などスプレー・置き型を香り・持続力・単価で解説します。"
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
 updatedAt: "2026-07-06"
 products:
   - rank: 1
-    name: "サライウォーター 大容量 次亜塩素酸水"
-    brand: "サライウォーター"
-    price: 6996
-    capacity: "20L"
-    pricePerUnit: "約350円/L"
-    rating: 4.77
-    reviewCount: 4408
-    features:
-      - "部屋や玄関などのニオイ対策に使える"
-      - "置き型・スプレー・詰替などから選べる"
-      - "ペットや靴まわりにも使いやすい"
-    pros:
-      - "生活臭対策に取り入れやすい"
-      - "容量違いを選べる"
-      - "設置場所に合わせやすい"
-    cons:
-      - "香りや無香料の好みは分かれる"
-      - "使用場所の注意書き確認が必要"
-    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qewfn.3rdw690e.g00qewfn.3rdw78c3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fg-sarai%2F10000080%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fg-sarai%2Fi%2F10000080%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/g-sarai/cabinet/08868285/imgrc0081583109.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fg-sarai%2F10000080.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-06"
-        price: 6996
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/g-sarai_10000080"
-        available: true
-        rating: 4.81
-        reviewCount: 311
-  - rank: 2
-    name: "バイオチャレンジ 原液詰替用"
-    brand: "バイオチャレンジ"
-    price: 7700
-    capacity: "5L×2本"
-    pricePerUnit: "約770円/L"
-    rating: 4.74
-    reviewCount: 1009
-    features:
-      - "部屋や玄関などのニオイ対策に使える"
-      - "置き型・スプレー・詰替などから選べる"
-      - "ペットや靴まわりにも使いやすい"
-    pros:
-      - "生活臭対策に取り入れやすい"
-      - "容量違いを選べる"
-      - "設置場所に合わせやすい"
-    cons:
-      - "香りや無香料の好みは分かれる"
-      - "使用場所の注意書き確認が必要"
-    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q1mvn.3rdw675d.g00q1mvn.3rdw735a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogparadise%2F1151%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogparadise%2Fi%2F10003603%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/img07/4580361060036.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F4580361060036.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-06"
-        price: 7700
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_4580361060036"
-        available: true
-        rating: 4.88
-        reviewCount: 17
-  - rank: 3
     name: "リセッシュ 消臭スプレー 除菌EX デオドラントパワー 香りが残らないタイプ 詰"
     brand: "花王"
     price: 614
@@ -107,7 +41,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 4
+  - rank: 2
     name: "リセッシュ 除菌EX ワイドジェット ストロング 香りが残らないタイプ つめかえ"
     brand: "花王"
     price: 3080
@@ -143,7 +77,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 5
+  - rank: 3
     name: "ファブリーズ W除菌+消臭 詰め替え 1280ml×2セット"
     brand: "ファブリーズ(febreze) / P&G"
     price: 3297
@@ -168,62 +102,7 @@ products:
     recommendedFor: "布製品・空間の消臭除菌を手軽にしたい方・ファブリーズユーザー"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598757%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321967%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/757/598757.jpg?_ex=128x128"
-  - rank: 6
-    name: "サライウォーター 次亜塩素酸水"
-    brand: "サライウォーター"
-    price: 2794
-    capacity: "2L"
-    pricePerUnit: "約1397円/L"
-    rating: 4.6
-    reviewCount: 16479
-    features:
-      - "部屋や玄関などのニオイ対策に使える"
-      - "置き型・スプレー・詰替などから選べる"
-      - "ペットや靴まわりにも使いやすい"
-    pros:
-      - "生活臭対策に取り入れやすい"
-      - "容量違いを選べる"
-      - "設置場所に合わせやすい"
-    cons:
-      - "香りや無香料の好みは分かれる"
-      - "使用場所の注意書き確認が必要"
-    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qewfn.3rdw690e.g00qewfn.3rdw78c3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fg-sarai%2F10000074%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fg-sarai%2Fi%2F10000074%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/g-sarai/cabinet/08868285/imgrc0108023459.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fg-sarai%2F10000074.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-22"
-        price: 2794
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/g-sarai_10000074"
-        available: true
-        rating: 4.63
-        reviewCount: 432
-  - rank: 7
-    name: "純滴 ハッカ油スプレー"
-    brand: "純滴"
-    price: 670
-    capacity: "10ml"
-    pricePerUnit: "約67円/ml"
-    rating: 4.5
-    reviewCount: 3005
-    features:
-      - "部屋や玄関などのニオイ対策に使える"
-      - "置き型・スプレー・詰替などから選べる"
-      - "ペットや靴まわりにも使いやすい"
-    pros:
-      - "生活臭対策に取り入れやすい"
-      - "容量違いを選べる"
-      - "設置場所に合わせやすい"
-    cons:
-      - "香りや無香料の好みは分かれる"
-      - "使用場所の注意書き確認が必要"
-    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qa58n.3rdw62ca.g00qa58n.3rdw7c19/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnicolife%2Fjunmint12m-m1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnicolife%2Fi%2F10003369%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nicolife/cabinet/2019-8-8/imgrc0075956744.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 4
     name: "ハルの消臭剤 消臭ビーズ 詰替用"
     brand: "ハル・インダストリ"
     price: 5060
@@ -245,7 +124,7 @@ products:
     recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/10000008_page01_01.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 5
     name: "無香空間 本体 315g"
     brand: "小林製薬"
     price: 448
@@ -279,7 +158,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 10
+  - rank: 6
     name: "ハルの消臭剤 消臭ビーズ 空容器セット"
     brand: "ハル・インダストリ"
     price: 6204
