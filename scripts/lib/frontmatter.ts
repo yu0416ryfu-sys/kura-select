@@ -481,6 +481,16 @@ function normalizeItemNameForCapacityExtraction(itemName: string): string {
     normalized = normalized.replace(/(\d[\d,]*)\s*粒/g, '$1枚');
   }
 
+  // キッチンペーパー/タオル・クッキングペーパーでは枚数を「カット」で数える（1カット=1枚）。
+  // ロール品も円/枚でペーパータオルと横並び比較できるよう「カット」を「枚」に揃える。
+  // 「2枚重ね」等の重ね数（ply）は容量ではないため、カット変換より先に除去する
+  // （例: "4ロール（2枚重ね 100カット）×12パック" → "4ロール（100枚）×12パック"）。
+  if (/キッチン\s*(?:ペーパー|タオル)|ペーパータオル|クッキングペーパー/.test(normalized)) {
+    normalized = normalized
+      .replace(/(\d[\d,]*)\s*枚\s*重ね?/g, '')
+      .replace(/(\d[\d,]*)\s*カット/g, '$1枚');
+  }
+
   return normalized.trim();
 }
 

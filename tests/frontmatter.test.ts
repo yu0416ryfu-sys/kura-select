@@ -796,6 +796,28 @@ describe("extractCapacityFromItemName", () => {
     expect(extractCapacityFromItemName("シャンプー 500mL 3パック")).toBe("500mL×3パック");
   });
 
+  it("キッチンタオルの『カット』を『枚』に揃えてロール品を円/枚で比較可能にする", () => {
+    const capacity = extractCapacityFromItemName(
+      "スコッティ ファイン 3倍巻き キッチンタオル 150カット 4ロール×4パック入り"
+    );
+    expect(capacity).toBe("150枚×4ロール×4パック");
+    expect(extractCapacityTotal(capacity ?? "")).toEqual({ total: 2400, unit: "枚" });
+  });
+
+  it("キッチンペーパーの単純な『カット×ロール』を枚換算で抽出する", () => {
+    expect(extractCapacityFromItemName("エリエール キッチンタオル 50カット×2ロール")).toBe("50枚×2ロール");
+  });
+
+  it("キッチンタオルの『N枚重ね』(ply) を容量と誤認しない（2枚重ねが2枚にならない）", () => {
+    // 「2枚重ね」は ply（重ね数）であり容量ではない。修正前は "2枚" と誤抽出していた。
+    // 入れ子括弧「4ロール（…100カット）×12パック」の総量復元は既知の制約（括弧＝総数と解釈する
+    // 既存ロジックを壊さないため per-roll 解釈は行わない）。この形の商品は個別レビュー/除外で対応する。
+    const capacity = extractCapacityFromItemName(
+      "【数量限定】ネピア 激吸収 キッチンタオル 4ロール（2枚重ね 100カット）×12パック"
+    );
+    expect(capacity).toBe("100枚"); // ply の 2枚 誤認は解消。×4ロール×12パックは復元されない
+  });
+
   it("ティッシュの組数注釈つき箱数を1つのcapacityとして抽出する", () => {
     const capacity = extractCapacityFromItemName(
       "エリエール ティシュー 200枚（100組）×12箱"
