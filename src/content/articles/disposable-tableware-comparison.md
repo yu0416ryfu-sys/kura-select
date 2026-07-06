@@ -29,6 +29,17 @@ products:
     recommendedFor: "イベントや職場でまとめて使いたい方・単価を最優先したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pssvn.3rdw67c0.g00pssvn.3rdw7b2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-miyaco%2F2020561%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-miyaco%2Fi%2F10001116%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-miyaco/cabinet/main/2020562_00.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoins%2F1002106.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-06"
+        price: 5885
+        rating: 4.58
+        reviewCount: 43
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/koins_1002106"
+        available: true
   - rank: 2
     name: "紙コップ 7オンス 白無地 業務用 2000個"
     brand: "業務用ペーパーカップ"
@@ -51,6 +62,17 @@ products:
     recommendedFor: "やや大きめの容量が欲しい方・オフィスや店舗で使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6mcn.3rdw6191.g00r6mcn.3rdw73f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujix-sizai%2F181000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujix-sizai%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fujix-sizai/cabinet/shohin02/181000.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoins%2F1002108.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-06"
+        price: 5390
+        rating: 4.61
+        reviewCount: 28
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/koins_1002108"
+        available: true
   - rank: 3
     name: "紙コップ 7オンス 白無地 50個"
     brand: "よろずやマルシェ"
@@ -95,6 +117,17 @@ products:
     recommendedFor: "小鉢や薬味皿として使いたい方・食卓を華やかに見せたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pajin.3rdw665b.g00pajin.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnuts%2Fdm-012r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnuts%2Fi%2F10020593%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nuts/cabinet/nuts_gazo/item_kitchen/small_cup.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnuts%2Fwa-dm-012r.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-06"
+        price: 825
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nuts_wa-dm-012r"
+        available: true
   - rank: 5
     name: "ワサラ コーヒーカップ 紙の器 6個セット"
     brand: "WASARA（ワサラ）"
@@ -120,13 +153,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsourire-f%2Fwasara-coffeecup.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnuts%2Fwa-dm-011.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-06"
         price: 693
         rating: 0
-        reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sourire-f_wasara-coffeecup"
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nuts_wa-dm-011"
         available: true
   - rank: 6
     name: "ワサラ 角皿 特大 紙の器 6個セット"
@@ -154,8 +187,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnuts%2Fwa-dm-014.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-05"
+        matchStatus: "matched"
+        updatedAt: "2026-07-06"
         price: 704
         rating: 0
         reviewCount: 0
@@ -188,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F215400.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-06"
         price: 10626
         rating: 4.86
         reviewCount: 7
@@ -221,7 +254,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F215500.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-06"
         price: 11539
         rating: 0
         reviewCount: 2

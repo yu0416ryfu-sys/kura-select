@@ -4,15 +4,15 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: "2026-07-06"
 draft: false
 products:
   - rank: 1
     name: "システムポリマー ストッキング水切り袋 浅型"
     brand: "システムポリマー"
-    price: 50809
+    price: 48524
     capacity: "200枚×72袋"
-    pricePerUnit: "約3.5円/枚"
+    pricePerUnit: "約3.4円/枚"
     rating: 0
     reviewCount: 0
     features:
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fbk2707.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-06"
         price: 43839
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_bk2707"
         available: true
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fye3331.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-06"
         price: 467
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_ye3331"
         available: true
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyh-beans%2F1339654.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-06"
         price: 548
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_1339654"
         available: true
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaumall%2F42552987.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-06"
         price: 958
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaumall_42552987"
         available: true
@@ -219,9 +219,9 @@ products:
   - rank: 8
     name: "水切りネット ごみとり物語 三角コーナー用 不織布 50枚入"
     brand: "びーんず"
-    price: 358
+    price: 428
     capacity: "50枚"
-    pricePerUnit: "約7.2円/枚"
+    pricePerUnit: "約8.6円/枚"
     rating: 0
     reviewCount: 0
     features:
@@ -274,14 +274,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhak00a074f.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4562100010922.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-22"
-        price: 1168
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hak00a074f"
+        updatedAt: "2026-07-06"
+        price: 671
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4562100010922"
         available: true
         rating: 0
-        reviewCount: 1
+        reviewCount: 0
 tags:
   - "排水口ネット おすすめ"
   - "水切りネット コスパ"

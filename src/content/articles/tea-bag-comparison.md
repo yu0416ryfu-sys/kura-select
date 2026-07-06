@@ -4,7 +4,7 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: 2026-07-05
+updatedAt: "2026-07-06"
 draft: false
 products:
   - rank: 1
@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmisono-support%2Fb7-299.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-06"
         price: 2073
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/misono-support_b7-299"
         available: true
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fplusin%2F2002282-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-06"
         price: 4158
         rating: 0
         reviewCount: 0
@@ -212,7 +212,7 @@ products:
     capacity: "3g×10個×3袋（30個）"
     pricePerUnit: "約121円/個"
     rating: 4.88
-    reviewCount: 75
+    reviewCount: 76
     features:
       - "2026年産新茶使用の高品質静岡緑茶"
       - "三角ティーバッグ形状・カテキン・EGCg豊富"

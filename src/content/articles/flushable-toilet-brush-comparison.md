@@ -4,7 +4,7 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: 2026-07-05
+updatedAt: "2026-07-06"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhandm%2F2303-003931.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-06"
         price: 4000
         rating: 0
         reviewCount: 0
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901609015456.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-06"
         price: 706
         rating: 4.33
         reviewCount: 3
@@ -102,7 +102,7 @@ products:
     capacity: "本体+替え4個"
     pricePerUnit: "約295円/個"
     rating: 4.62
-    reviewCount: 73
+    reviewCount: 74
     features:
       - "持ち手の本体と替えブラシ4個のスターターセット"
       - "ブラシ交換時に手を汚しにくい構造"

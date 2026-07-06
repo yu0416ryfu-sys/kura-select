@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-05"
+updatedAt: "2026-07-06"
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ"
@@ -110,8 +110,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134288-case.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-05"
-        price: 8386
+        updatedAt: "2026-07-06"
+        price: 8800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134288-case"
         available: true
         rating: 4.93
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9662265.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-06"
         price: 6283
         rating: 0
         reviewCount: 1
@@ -156,7 +156,7 @@ products:
     capacity: "96枚"
     pricePerUnit: "約72円/枚"
     rating: 4.75
-    reviewCount: 181
+    reviewCount: 182
     features:
       - "ネット状の肌触りで蒸れにくく快適"
       - "パラベン・アルコール無添加の低刺激処方"
@@ -211,7 +211,7 @@ products:
     capacity: "4個セット"
     pricePerUnit: "約1790円/個"
     rating: 4.74
-    reviewCount: 488
+    reviewCount: 489
     features:
       - "低刺激設計で敏感肌に配慮"
       - "やさしさを重視した素材選択"
@@ -231,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenkoo-life%2F101-x004-4903111569786.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-07-06"
         price: 9402
         rating: 0
         reviewCount: 0

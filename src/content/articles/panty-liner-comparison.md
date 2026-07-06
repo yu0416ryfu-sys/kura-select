@@ -4,7 +4,7 @@ description: "おりものシート（パンティライナー）のおすすめ
 category: "panty-liner"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: 2026-07-05
+updatedAt: 2026-07-06
 draft: false
 products:
   - rank: 1

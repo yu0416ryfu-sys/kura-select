@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌触りとコス
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: "2026-07-06"
 draft: false
 products:
   - rank: 1
@@ -41,13 +41,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rcmdsp_kr-4902011711400"
         available: true
   - rank: 2
-    name: "ネピア 鼻セレブ 20箱 まとめ買い"
+    name: "ネピア 鼻セレブ 200組×20箱 まとめ買い"
     brand: "日本製紙クレシア（鼻セレブ）"
-    price: 5423
+    price: 5440
     capacity: "400枚（200組）×20箱"
     pricePerUnit: "約1.4円/組"
-    rating: 4.74
-    reviewCount: 483
+    rating: 3.88
+    reviewCount: 8
     features:
       - "鼻セレブのローション配合保湿ティッシュ"
       - "20箱のまとめ買い大容量パック"
@@ -60,8 +60,8 @@ products:
       - "20箱分の保管スペースが必要"
       - "少人数だと使い切るのに時間がかかる"
     recommendedFor: "花粉症で消費が多い方・家族でまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcsnn.3rdw6570.g00qcsnn.3rdw762b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyoto23%2F898972%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyoto23%2Fi%2F10000216%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kyoto23/cabinet/new1/10000945.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvoan.3rdw6634.g00tvoan.3rdw7deb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-relight%2F100-4901121636085cs%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-relight%2Fi%2F10001060%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-relight/cabinet/thum1/imgrc0084303832.jpg?_ex=128x128"
   - rank: 3
     name: "ネピア 鼻セレブ 潤いつづく濃厚保湿ティッシュ 200組×3個"
     brand: "王子ネピア（鼻セレブ）"
@@ -144,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758946401-1-d.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-06"
         price: 359
         rating: 0
         reviewCount: 2
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-w001-4901988104055.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-06"
         price: 123
         rating: 0
         reviewCount: 0
@@ -256,7 +256,7 @@ products:
     capacity: "2個パック"
     pricePerUnit: "約399円/個"
     rating: 4.75
-    reviewCount: 151
+    reviewCount: 152
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"

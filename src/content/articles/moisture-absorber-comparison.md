@@ -4,7 +4,7 @@ description: "除湿剤を吸湿量あたりのコストで徹底比較。水と
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-07-05
+updatedAt: 2026-07-06
 products:
   - rank: 1
     name: "炭八 室内用"
@@ -13,7 +13,7 @@ products:
     capacity: "12L大袋×4個セット"
     pricePerUnit: "約0.05円/mL"
     rating: 4.66
-    reviewCount: 1068
+    reviewCount: 1069
     features:
       - "調湿木炭で繰り返し使える環境にやさしい除湿剤"
       - "天日干しで吸湿力が復活するため長期間使用可能"
@@ -35,7 +35,7 @@ products:
     capacity: "550mL×45個（24,750mL分）"
     pricePerUnit: "約0.17円/mL"
     rating: 4.82
-    reviewCount: 243
+    reviewCount: 244
     features:
       - "国内定番の大容量タンクタイプ除湿剤"
       - "強力脱臭・防臭・防カビ効果"
@@ -89,8 +89,8 @@ products:
     price: 1980
     capacity: "420mL×18個（7,560mL分）"
     pricePerUnit: "約0.26円/mL"
-    rating: 4.5
-    reviewCount: 38
+    rating: 4.49
+    reviewCount: 39
     features:
       - "備長炭配合で除湿＋消臭"
       - "タンクタイプで吸湿した水が一目でわかる"
@@ -189,7 +189,7 @@ products:
     capacity: "5個"
     pricePerUnit: "約660円/個"
     rating: 4.61
-    reviewCount: 5198
+    reviewCount: 5199
     features:
       - "湿気対策に使える除湿・調湿アイテム"
       - "クローゼットや押入れに置きやすい"
@@ -244,7 +244,7 @@ products:
     capacity: "5個"
     pricePerUnit: "約1211円/個"
     rating: 4.56
-    reviewCount: 2185
+    reviewCount: 2187
     features:
       - "湿気対策に使える除湿・調湿アイテム"
       - "クローゼットや押入れに置きやすい"

@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-05
+updatedAt: "2026-07-06"
 products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚"
@@ -34,8 +34,8 @@ products:
     price: 429
     capacity: "100枚"
     pricePerUnit: "約4.3円/枚"
-    rating: 4.58
-    reviewCount: 139
+    rating: 4.59
+    reviewCount: 140
     features:
       - "使い切りで使える作業用手袋"
       - "継続利用しやすい定番構成"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh8451-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-06"
         price: 429
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh8451-1"
         available: true
@@ -67,8 +67,8 @@ products:
     price: 489
     capacity: "100枚"
     pricePerUnit: "約4.9円/枚"
-    rating: 4.75
-    reviewCount: 257
+    rating: 4.76
+    reviewCount: 258
     features:
       - "使い切りで使える作業用手袋"
       - "継続利用しやすい定番構成"
@@ -119,7 +119,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh734020.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-06"
         price: 7900
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh734020"
         available: true
@@ -151,8 +151,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove041.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-30"
+        matchStatus: "matched"
+        updatedAt: "2026-07-06"
         price: 4350
         rating: 4.53
         reviewCount: 150
@@ -161,11 +161,11 @@ products:
   - rank: 6
     name: "ニトリル手袋 パウダーフリー 医療対応"
     brand: "TKJP"
-    price: 1200
+    price: 1190
     capacity: "100枚"
     pricePerUnit: "約12円/枚"
     rating: 4.57
-    reviewCount: 3547
+    reviewCount: 3548
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -183,11 +183,11 @@ products:
   - rank: 7
     name: "ニトリル手袋 パウダーフリー 100枚"
     brand: "TRINITY COSME"
-    price: 1200
+    price: 1190
     capacity: "100枚"
     pricePerUnit: "約12円/枚"
     rating: 4.71
-    reviewCount: 1361
+    reviewCount: 1363
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -207,10 +207,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove001.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
-        price: 1390
+        updatedAt: "2026-07-06"
+        price: 1260
         rating: 4.58
-        reviewCount: 2209
+        reviewCount: 2212
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
         available: true
   - rank: 8

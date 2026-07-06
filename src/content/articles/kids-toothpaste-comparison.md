@@ -4,42 +4,9 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-04"
+updatedAt: 2026-07-06
 products:
   - rank: 1
-    name: "ライオン チェックアップ コドモ アップル 60g"
-    brand: "ライオン（チェックアップ）"
-    price: 330
-    capacity: "60g"
-    pricePerUnit: "約5.5円/g"
-    rating: 4.74
-    reviewCount: 19
-    features:
-      - "フッ素950ppmF配合でむし歯予防を訴求する子ども用歯磨き粉"
-      - "歯科専売品として設計されたチェックアップシリーズ"
-      - "アップルフレーバーで子どもが使いやすい風味設計"
-    pros:
-      - "フッ素950ppmF配合でむし歯予防効果を重視する方に向く"
-      - "歯科専売品として設計された成分への安心感"
-      - "アップルフレーバーで歯磨きを嫌がる子どもにも試しやすい"
-    cons:
-      - "歯科専売品のため一般ドラッグストアでは入手しにくい場合がある"
-      - "フッ素濃度は年齢・体重に合わせて選ぶ必要がある"
-    recommendedFor: "フッ素950ppmでむし歯予防を重視する子どものいる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pukun.3rdw6576.g00pukun.3rdw7b9c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpureco%2Fprc-s-7167065989%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpureco%2Fi%2F10031349%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pureco/cabinet/prc-s-71000/prc-s-7167065989.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpureco2nd%2Fprc-s-7167065989.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-17"
-        price: 343
-        rating: 4.75
-        reviewCount: 28
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pureco2nd_prc-s-7167065989"
-        available: true
-  - rank: 2
     name: "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット"
     brand: "ライオン（クリニカKid's）"
     price: 3494
@@ -61,7 +28,7 @@ products:
     recommendedFor: "歯磨き嫌いのお子さま・仕上げ磨きに使いたい方・ジェルタイプが好きな方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F0000049795240-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10184891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/aa/49795240.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "あわだたない こどもハミガキ ラムネ 60g"
     brand: "エスケー石鹸"
     price: 495
@@ -94,7 +61,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hareya_y-nsk0182x5"
         available: true
-  - rank: 4
+  - rank: 3
     name: "エスケー石鹸 あわだたないこどもハミガキ ぶどう 60g"
     brand: "エスケー石鹸"
     price: 495
@@ -127,7 +94,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 5
+  - rank: 4
     name: "エスケー石鹸 あわだたないこどもハミガキ ぶどう 60g×32個"
     brand: "エスケー石鹸"
     price: 15840
@@ -149,6 +116,39 @@ products:
     recommendedFor: "年齢や味の好みに合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2u0n.3rdw6e74.g00r2u0n.3rdw74e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fecorea2010%2F3770c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fecorea2010%2Fi%2F10000578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ecorea2010/cabinet/item/case/3770c.jpg?_ex=128x128"
+  - rank: 5
+    name: "ライオン チェックアップ コドモ アップル 60g"
+    brand: "ライオン（チェックアップ）"
+    price: 512
+    capacity: "60g"
+    pricePerUnit: "約8.5円/g"
+    rating: 4.85
+    reviewCount: 20
+    features:
+      - "フッ素950ppmF配合でむし歯予防を訴求する子ども用歯磨き粉"
+      - "歯科専売品として設計されたチェックアップシリーズ"
+      - "アップルフレーバーで子どもが使いやすい風味設計"
+    pros:
+      - "フッ素950ppmF配合でむし歯予防効果を重視する方に向く"
+      - "歯科専売品として設計された成分への安心感"
+      - "アップルフレーバーで歯磨きを嫌がる子どもにも試しやすい"
+    cons:
+      - "歯科専売品のため一般ドラッグストアでは入手しにくい場合がある"
+      - "フッ素濃度は年齢・体重に合わせて選ぶ必要がある"
+    recommendedFor: "フッ素950ppmでむし歯予防を重視する子どものいる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvdwn.3rdw65c2.g00tvdwn.3rdw7ec2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fm4-magic%2Flocheckup-kd-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fm4-magic%2Fi%2F10000411%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/m4-magic/cabinet/lion/toothpaste/checkup-kd/kdm-fc1-new.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpureco2nd%2Fprc-s-7167065989.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-17"
+        price: 343
+        rating: 4.75
+        reviewCount: 28
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pureco2nd_prc-s-7167065989"
+        available: true
   - rank: 6
     name: "あわだたない こどもハミガキ ラムネ 60g"
     brand: "エスケー石鹸"
@@ -233,7 +233,7 @@ products:
     capacity: "48ml"
     pricePerUnit: "約11円/ml"
     rating: 4.26
-    reviewCount: 235
+    reviewCount: 236
     features:
       - "子ども向けの歯みがき用品"
       - "ジェルや泡タイプなど使いやすさで選べる"

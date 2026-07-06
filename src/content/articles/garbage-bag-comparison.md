@@ -4,7 +4,7 @@ description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分�
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: 2026-07-05
+updatedAt: "2026-07-06"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2Fpphalf300.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-22"
-        price: 1270
+        updatedAt: "2026-07-06"
+        price: 1200
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_pphalf300"
         available: true
         rating: 4.84
-        reviewCount: 861
+        reviewCount: 885
   - rank: 2
     name: "HEIKO PPパン袋 20-30 300枚"
     brand: "HEIKO"
@@ -66,12 +66,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2F2030l300.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-22"
-        price: 1315
+        updatedAt: "2026-07-06"
+        price: 1250
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_2030l300"
         available: true
         rating: 5
-        reviewCount: 4
+        reviewCount: 5
   - rank: 3
     name: "TANOSEE　ゴミ袋エコノミー　乳白半透明"
     brand: "TANOSEE（国内大手OEM）"
@@ -99,10 +99,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7661730.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-30"
+        updatedAt: "2026-07-06"
         price: 5742
         rating: 4.74
-        reviewCount: 42
+        reviewCount: 43
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_7661730"
         available: true
   - rank: 4
@@ -149,6 +149,17 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7276048%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10225682%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/imgrc0104696603.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F7276048.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-06"
+        price: 1000
+        rating: 4
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_7276048"
+        available: true
   - rank: 6
     name: "サンキョウプラテック ごみ袋 45L 半透明 100枚×2小箱"
     brand: "サンキョウプラテック"
@@ -156,7 +167,7 @@ products:
     capacity: "100枚×2小箱（200枚）"
     pricePerUnit: "約11円/枚"
     rating: 4.64
-    reviewCount: 192
+    reviewCount: 193
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -262,14 +273,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpoly-life%2Fbox-530-2kb.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpoly-life%2Fkpl-450-2pc.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-30"
-        price: 2390
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/poly-life_box-530-2kb"
+        updatedAt: "2026-07-06"
+        price: 2580
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/poly-life_kpl-450-2pc"
         available: true
-        rating: 4.71
-        reviewCount: 24
+        rating: 4.93
+        reviewCount: 15
 tags:
   - "ゴミ袋"
   - "コスパ"
