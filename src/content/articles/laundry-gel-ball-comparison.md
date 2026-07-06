@@ -4,7 +4,7 @@ description: "ジェルボール洗剤を1個あたりのコストで徹底比�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-07-05
+updatedAt: 2026-07-06
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"

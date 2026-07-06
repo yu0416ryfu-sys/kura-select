@@ -4,7 +4,7 @@ description: "重曹・セスキ炭酸ソーダ・クエン酸などのナチュ
 category: "natural-cleaning"
 articleType: "comparison"
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-05"
+updatedAt: 2026-07-06
 draft: false
 products:
   - rank: 1
@@ -102,7 +102,7 @@ products:
     capacity: "5kg"
     pricePerUnit: "約411円/kg"
     rating: 4.81
-    reviewCount: 947
+    reviewCount: 948
     features:
       - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
       - "宅配便で届く業務用サイズのパッケージ"
@@ -256,7 +256,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.83円/g"
     rating: 4.78
-    reviewCount: 1264
+    reviewCount: 1266
     features:
       - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
       - "メール便配送に対応した小容量パッケージ"

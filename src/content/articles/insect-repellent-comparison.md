@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: 2026-07-05
+updatedAt: 2026-07-06
 draft: false
 products:
   - rank: 1
@@ -112,8 +112,8 @@ products:
     price: 7788
     capacity: "450ml×2本"
     pricePerUnit: "約8.7円/mL"
-    rating: 4.11
-    reviewCount: 106
+    rating: 4.09
+    reviewCount: 107
     features:
       - "ヒノキチオール・テルペン油・除虫菊エキスなど天然由来成分100%配合"
       - "450ml入りで玄関・室内・軒下など広範囲への噴霧に適した容量"
@@ -149,7 +149,7 @@ products:
       - "精油の香りが好みに合わない場合もある"
     recommendedFor: "無添加・天然精油100%の虫よけを子どもにも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvsqn.3rdw6696.g00qvsqn.3rdw7fa3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faromaspray%2Fsp-bug-100-100e%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faromaspray%2Fi%2F10001233%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aromaspray/cabinet/item/02/anti-bug-cp10.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aromaspray/cabinet/item/02/anti-bug-cp400.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

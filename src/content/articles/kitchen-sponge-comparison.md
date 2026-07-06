@@ -4,7 +4,7 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-05"
+updatedAt: 2026-07-06
 products:
   - rank: 1
     name: "セルロース製 食器洗いスポンジ 6個パック SDGs プラスチックフリー"
@@ -133,8 +133,8 @@ products:
     price: 199
     capacity: "1個"
     pricePerUnit: "約199円/個"
-    rating: 4.77
-    reviewCount: 481
+    rating: 4.76
+    reviewCount: 483
     features:
       - "天然素材のセルロース＋綿で環境にやさしい"
       - "速乾性が高く雑菌が繁殖しにくい"

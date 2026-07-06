@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: 2026-07-05
+updatedAt: 2026-07-06
 products:
   - rank: 1
     name: "旭化成 サランラップ 家庭用 22cm×50m"

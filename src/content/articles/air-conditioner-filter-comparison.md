@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-07-05
+updatedAt: 2026-07-06
 draft: false
 products:
   - rank: 1
@@ -113,8 +113,8 @@ products:
     price: 548
     capacity: "1枚"
     pricePerUnit: "約548円/枚"
-    rating: 4.75
-    reviewCount: 4
+    rating: 4.8
+    reviewCount: 5
     features:
       - "粘着シール付きで工具不要、フレームなしで貼るだけの家庭用フィルター"
       - "サイズ 38×80cm、標準的な家庭用エアコンに対応"

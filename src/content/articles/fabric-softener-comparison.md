@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりのコストで比較。大容量タイ
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: 2026-07-06
 products:
   - rank: 1
     name: "メキシコダウニー アロマフローラル 8.5L×2本"
@@ -185,7 +185,7 @@ products:
   - rank: 7
     name: "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え"
     brand: "P&G（レノア）"
-    price: 3020
+    price: 3007
     capacity: "1260mL"
     pricePerUnit: "約2.4円/mL"
     rating: 4.4

@@ -4,7 +4,7 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-06-30"
+updatedAt: 2026-07-06
 draft: false
 products:
   - rank: 1
@@ -219,9 +219,9 @@ products:
   - rank: 8
     name: "水切りネット ごみとり物語 三角コーナー用 不織布 50枚入"
     brand: "びーんず"
-    price: 358
+    price: 428
     capacity: "50枚"
-    pricePerUnit: "約7.2円/枚"
+    pricePerUnit: "約8.6円/枚"
     rating: 0
     reviewCount: 0
     features:

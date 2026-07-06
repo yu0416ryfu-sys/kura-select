@@ -4,7 +4,7 @@ description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹
 category: "contact-lens"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-07-05"
+updatedAt: 2026-07-06
 products:
   - rank: 1
     name: "ポイント10倍！オプティフリープラス"
@@ -288,7 +288,7 @@ products:
     capacity: "120mL×12本"
     pricePerUnit: "約2.8円/mL"
     rating: 4.86
-    reviewCount: 5260
+    reviewCount: 5261
     features:
       - "ハードコンタクトレンズ向けの洗浄・保存ケア"
       - "小さめボトルを複数本そろえられるセット"

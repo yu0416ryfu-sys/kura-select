@@ -4,7 +4,7 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: 2026-07-05
+updatedAt: 2026-07-06
 draft: false
 products:
   - rank: 1
@@ -167,8 +167,8 @@ products:
     price: 5799
     capacity: "180組×5箱×12パック（60箱）"
     pricePerUnit: "約0.54円/組"
-    rating: 4.68
-    reviewCount: 139
+    rating: 4.66
+    reviewCount: 140
     features:
       - "世界的ブランド・クリネックスの定番品"
       - "厚みと柔らかさのバランスが優秀"
