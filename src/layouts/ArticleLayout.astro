@@ -5,6 +5,7 @@ import JsonLd from "../components/seo/JsonLd.astro";
 import ComparisonTable from "../components/product/ComparisonTable.astro";
 import ProductCard from "../components/product/ProductCard.astro";
 import TopPickCta from "../components/product/TopPickCta.astro";
+import StickyCta from "../components/product/StickyCta.astro";
 import AffiliateLink from "../components/product/AffiliateLink.astro";
 import {
   getLowestOffer,
@@ -369,4 +370,9 @@ const productJsonLds = data.products
       </aside>
     </div>
   </Container>
+
+  <!-- モバイル追従CTA（comparison のみ・比較表通過後に表示） -->
+  {isComparison && data.products.length > 0 && (
+    <StickyCta product={data.products.find((p) => p.rank === 1) ?? data.products[0]} />
+  )}
 </BaseLayout>

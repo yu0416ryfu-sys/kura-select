@@ -52,7 +52,8 @@ const { title, description, ogImage, canonical, noindex, ogType } = Astro.props;
           if (typeof gtag === 'function') {
             gtag('event', link.dataset.gaEvent, {
               product_name: link.dataset.gaProduct || '不明',
-              link_url: link.href || ''
+              link_url: link.href || '',
+              placement: link.dataset.gaPlacement || 'inline'
             });
           }
         });

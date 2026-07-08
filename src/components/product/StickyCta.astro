@@ -1,0 +1,142 @@
+---
+// モバイル専用の追従CTA バー。
+// 比較表（#comparison-table）を読み過ぎて画面外に消えたら表示し、
+// 1位商品（frontmatter products の rank 1）への導線を復活させる。
+// データはビルド時に frontmatter から取得するため、update-products の
+// 価格・順位更新と自動的に整合する（rank 1 が入れ替われば表示も追随）。
+import AffiliateLink from "./AffiliateLink.astro";
+import {
+  getVisibleOffers,
+  getOfferPriceSummary,
+  getEnabledAffiliateProvidersFromEnv,
+  getStaticAffiliateProvidersFromEnv,
+  getLowestVisibleOffer,
+  type ProductOffer,
+} from "../../lib/offers";
+import { formatPriceOrConfirmation, isKnownPrice } from "../../lib/price";
+
+const linkProviders = getEnabledAffiliateProvidersFromEnv(import.meta.env);
+const priceProviders = getStaticAffiliateProvidersFromEnv(import.meta.env);
+
+interface Product {
+  rank: number;
+  name: string;
+  brand: string;
+  price: number;
+  capacity: string;
+  pricePerUnit?: string;
+  rating?: number;
+  reviewCount?: number;
+  rakutenUrl: string;
+  imageUrl?: string;
+  offers?: ProductOffer[];
+}
+
+interface Props {
+  product: Product;
+}
+
+const { product } = Astro.props;
+
+const yahooSearchFallback = {
+  enabled: import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true",
+  sid: import.meta.env.VALUECOMMERCE_SID,
+  pid: import.meta.env.VALUECOMMERCE_PID,
+};
+const amazonSearchFallback = {
+  enabled: import.meta.env.PUBLIC_ENABLE_AMAZON_AFFILIATE === "true",
+  tag: import.meta.env.AMAZON_ASSOCIATE_TAG,
+};
+
+const visibleOffers = getVisibleOffers(product, {
+  enabledProviders: linkProviders,
+  yahooSearchFallback,
+  amazonSearchFallback,
+});
+// 追従バーはボタン1つに絞る（最安オファー優先、なければ楽天）
+const lowestVisibleOffer = getLowestVisibleOffer(visibleOffers);
+const ctaOffer =
+  lowestVisibleOffer ??
+  visibleOffers.find((o) => o.provider === "rakuten") ??
+  visibleOffers[0] ??
+  null;
+const priceSummary = getOfferPriceSummary(product, { enabledProviders: priceProviders });
+const displayPrice = priceSummary.lowestPrice ?? (isKnownPrice(product.price) ? product.price : null);
+---
+
+{ctaOffer && (
+  <div
+    id="sticky-cta"
+    class="fixed inset-x-0 bottom-0 z-40 md:hidden translate-y-full invisible transition-transform duration-300 ease-out"
+    aria-hidden="true"
+  >
+    <div class="bg-white/95 backdrop-blur border-t border-[var(--color-border)] shadow-[0_-2px_10px_rgba(0,0,0,0.08)] px-3 pt-2.5 pb-[max(0.625rem,env(safe-area-inset-bottom))]">
+      <div class="flex items-center gap-3">
+        <div class="flex-1 min-w-0">
+          <p class="text-[11px] font-semibold text-amber-600 leading-none mb-0.5">🏆 この記事の1位</p>
+          <p class="text-xs font-bold text-[var(--color-text)] truncate">{product.name}</p>
+          <p class="text-xs text-[var(--color-text-sub)]">{formatPriceOrConfirmation(displayPrice)}</p>
+        </div>
+        <div class="shrink-0 w-36">
+          <AffiliateLink
+            href={ctaOffer.url}
+            provider={ctaOffer.provider}
+            label={ctaOffer.label}
+            productName={product.name}
+            size="sm"
+            variant="primary"
+            gaPlacement="sticky_cta"
+          />
+        </div>
+        <button
+          type="button"
+          id="sticky-cta-close"
+          class="shrink-0 w-8 h-8 flex items-center justify-center rounded-full text-[var(--color-text-sub)] hover:bg-[var(--color-surface)] focus-visible:ring-2 focus-visible:ring-[var(--color-primary)]"
+          aria-label="追従バーを閉じる"
+        >
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+)}
+
+<script>
+  // 比較表が画面上方向に消えたら追従CTAを表示する（モバイルのみ CSS で制御）。
+  // 閉じるボタンで以降そのページ滞在中は表示しない。
+  const bar = document.getElementById("sticky-cta");
+  const sentinel = document.getElementById("comparison-table");
+  if (bar && sentinel && "IntersectionObserver" in window) {
+    let closed = false;
+    const show = () => {
+      if (closed) return;
+      bar.classList.remove("translate-y-full", "invisible");
+      bar.setAttribute("aria-hidden", "false");
+    };
+    const hide = () => {
+      bar.classList.add("translate-y-full", "invisible");
+      bar.setAttribute("aria-hidden", "true");
+    };
+    const observer = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          // 比較表がビューポートより上に抜けたときだけ表示する
+          if (!entry.isIntersecting && entry.boundingClientRect.bottom < 0) {
+            show();
+          } else {
+            hide();
+          }
+        }
+      },
+      { threshold: 0 }
+    );
+    observer.observe(sentinel);
+    document.getElementById("sticky-cta-close")?.addEventListener("click", () => {
+      closed = true;
+      hide();
+      observer.disconnect();
+    });
+  }
+</script>
