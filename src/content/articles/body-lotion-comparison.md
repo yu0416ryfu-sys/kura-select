@@ -109,9 +109,9 @@ products:
   - rank: 4
     name: "エリザベスアーデン グリーンティー ボディローション"
     brand: "Elizabeth Arden（エリザベスアーデン）"
-    price: 1580
+    price: 1680
     capacity: "500mL"
-    pricePerUnit: "約3.2円/mL"
+    pricePerUnit: "約3.4円/mL"
     rating: 4.44
     reviewCount: 1023
     features:
@@ -234,7 +234,7 @@ products:
     capacity: "350ml"
     pricePerUnit: "約8.8円/ml"
     rating: 4.75
-    reviewCount: 608
+    reviewCount: 610
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"

@@ -4,130 +4,9 @@ description: "除湿剤を吸湿量あたりのコストで徹底比較。水と
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-07-08"
+updatedAt: 2026-07-08
 products:
   - rank: 1
-    name: "炭八 室内用"
-    brand: "イエノLabo."
-    price: 2376
-    capacity: "12L大袋×4個セット"
-    pricePerUnit: "約0.05円/mL"
-    rating: 4.66
-    reviewCount: 1069
-    features:
-      - "調湿木炭で繰り返し使える環境にやさしい除湿剤"
-      - "天日干しで吸湿力が復活するため長期間使用可能"
-      - "クローゼット・ベッド下・押入れなど広範囲に対応"
-    pros:
-      - "使い捨て不要で長期的なランニングコストを大幅削減"
-      - "天然素材の木炭で安全・安心"
-      - "12L大袋×4個で広いスペースをしっかりカバー"
-    cons:
-      - "初期費用が使い捨て除湿剤より高め"
-      - "効果を維持するために定期的な天日干しが必要"
-    recommendedFor: "コストと環境への影響を重視する方・繰り返し使える除湿剤を探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s69sn.3rdw615f.g00s69sn.3rdw718e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fienolabo%2Fielabo100031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fienolabo%2Fi%2F10000031%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ienolabo/cabinet/itempic/17/ielabo100031-mb-1.jpg?_ex=128x128"
-  - rank: 2
-    name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
-    brand: "オカモト（水とりぞうさん）"
-    price: 4280
-    capacity: "550mL×45個（24,750mL分）"
-    pricePerUnit: "約0.17円/mL"
-    rating: 4.82
-    reviewCount: 244
-    features:
-      - "国内定番の大容量タンクタイプ除湿剤"
-      - "強力脱臭・防臭・防カビ効果"
-      - "1個あたり550mLの高い吸湿力"
-    pros:
-      - "大容量セットで1mLあたりのコスパが抜群"
-      - "タンクが透明で見やすい"
-      - "複数箇所に同時に設置可能"
-    cons:
-      - "大容量セットのため保管スペースが必要"
-      - "満水時の廃棄作業がやや手間"
-    recommendedFor: "押し入れ・クローゼット・納戸など湿気の多い広い収納スペースに"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F4904637999866set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10017235%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_okamoto1/4904637999804set.jpg?_ex=128x128"
-  - rank: 3
-    name: "SUPER除湿 大容量"
-    brand: "アドグッド"
-    price: 480
-    capacity: "800mL×3個（2,400mL分）"
-    pricePerUnit: "約0.20円/mL"
-    rating: 4.94
-    reviewCount: 17
-    features:
-      - "大容量800mLタンクが3個セット"
-      - "塩化カルシウムによる強力吸湿でカビ・ダニ・臭いを抑制"
-      - "押し入れ・クローゼット・洗面所など幅広い場所に対応"
-    pros:
-      - "1個800mLの大容量で交換頻度が少ない"
-      - "3個セットでまとめ買いによるコスパ向上"
-      - "湿気の多い複数箇所に同時設置しやすい"
-    cons:
-      - "大型のため設置・保管スペースが必要"
-      - "満水時の廃棄作業（液体処理）が必要"
-    recommendedFor: "押し入れ・クローゼット・洗面所など広い収納スペースの除湿に"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4560309810022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10077258%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/56/4560309810022.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4560309810022.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-30"
-        price: 480
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4560309810022"
-        available: true
-        rating: 4.68
-        reviewCount: 19
-  - rank: 4
-    name: "備長炭ドライペット 除湿剤 タンクタイプ どこでも用（3個パック×6個）"
-    brand: "エステー（ドライペット）"
-    price: 1980
-    capacity: "420mL×18個（7,560mL分）"
-    pricePerUnit: "約0.26円/mL"
-    rating: 4.49
-    reviewCount: 39
-    features:
-      - "備長炭配合で除湿＋消臭"
-      - "タンクタイプで吸湿した水が一目でわかる"
-      - "どこでも置ける汎用タイプ"
-    pros:
-      - "除湿と消臭を同時にできる"
-      - "ケース販売で複数箇所に設置しやすい"
-      - "エステーの信頼性と安定した吸湿力"
-    cons:
-      - "1個あたりの吸湿量は水とりぞうさんよりやや少ない"
-      - "タンクが大きいため設置場所を選ぶ"
-    recommendedFor: "湿気＋臭い対策をしたい方・複数箇所使用派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901070939398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11075355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/398/4901070939398.jpg?_ex=128x128"
-  - rank: 5
-    name: "激乾 除湿剤 タンクタイプ（400mL×3個パック）"
-    brand: "フマキラー（激乾）"
-    price: 421
-    capacity: "400mL×3個（1,200mL分）"
-    pricePerUnit: "約0.35円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "コンパクトながらパワフル吸湿"
-      - "除湿・防カビ・消臭のトリプル効果"
-      - "引き出しや衣装ケースにも対応"
-    pros:
-      - "価格が手頃で試しやすい"
-      - "コンパクトサイズで狭い場所に置きやすい"
-      - "フマキラーの信頼できる品質"
-    cons:
-      - "大容量タンクタイプより交換頻度が高め"
-      - "広めの収納スペースには不向き"
-    recommendedFor: "下駄箱・引き出し・小さめの収納スペースに"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ramcn.3rdw6d52.g00ramcn.3rdw79d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmdse%2Fho-4902424439014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frcmdse%2Fi%2F14732325%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmdse/cabinet/ho01/ho-4902424439014.jpg?_ex=128x128"
-  - rank: 6
     name: "Yoitas 天然竹炭パック"
     brand: "Yoitas"
     price: 2480
@@ -149,7 +28,7 @@ products:
     recommendedFor: "収納まわりの湿気対策をしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tjj0n.3rdw6a11.g00tjj0n.3rdw7adb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoitas%2F10000002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyoitas%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/yoitas/Takesumi-genre/Yoitas_Takesumi-genre_LP_Rakuten_Top.jpeg?_ex=128x128"
-  - rank: 7
+  - rank: 2
     name: "オカモト 水とりぞうさん 防虫剤付 クローゼット用 大判タイプ 2個入"
     brand: "オカモト（水とりぞうさん）"
     price: 908
@@ -182,14 +61,14 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 8
+  - rank: 3
     name: "炭八 スマート小袋 5個セット"
     brand: "炭八"
     price: 3300
     capacity: "5個"
     pricePerUnit: "約660円/個"
     rating: 4.61
-    reviewCount: 5204
+    reviewCount: 5205
     features:
       - "湿気対策に使える除湿・調湿アイテム"
       - "クローゼットや押入れに置きやすい"
@@ -215,7 +94,7 @@ products:
         available: true
         rating: 4.65
         reviewCount: 26
-  - rank: 9
+  - rank: 4
     name: "炭八 newお試し5個セット"
     brand: "炭八"
     price: 6019
@@ -237,7 +116,7 @@ products:
     recommendedFor: "収納まわりの湿気対策をしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r5qrn.3rdw61d3.g00r5qrn.3rdw7462/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomedeco-outlet%2Fsumi-5set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomedeco-outlet%2Fi%2F10000064%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/homedeco-outlet/cabinet/sumi8/sumi-5set-new.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 5
     name: "炭八 選べる5個セット"
     brand: "炭八"
     price: 6055
@@ -259,6 +138,94 @@ products:
     recommendedFor: "収納まわりの湿気対策をしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn4on.3rdw6e6d.g00qn4on.3rdw7c3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamayuu%2Fsumi8-5set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamayuu%2Fi%2F10011323%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamayuu/cabinet/01023319/02707641/kago-sumi8-5set.jpg?_ex=128x128"
+  - rank: 6
+    name: "炭八 室内用"
+    brand: "イエノLabo."
+    price: 2376
+    capacity: "12L大袋×4個セット"
+    pricePerUnit: "約0.05円/mL"
+    rating: 4.66
+    reviewCount: 1069
+    features:
+      - "調湿木炭で繰り返し使える環境にやさしい除湿剤"
+      - "天日干しで吸湿力が復活するため長期間使用可能"
+      - "クローゼット・ベッド下・押入れなど広範囲に対応"
+    pros:
+      - "使い捨て不要で長期的なランニングコストを大幅削減"
+      - "天然素材の木炭で安全・安心"
+      - "12L大袋×4個で広いスペースをしっかりカバー"
+    cons:
+      - "初期費用が使い捨て除湿剤より高め"
+      - "効果を維持するために定期的な天日干しが必要"
+    recommendedFor: "コストと環境への影響を重視する方・繰り返し使える除湿剤を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s69sn.3rdw615f.g00s69sn.3rdw718e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fienolabo%2Fielabo100031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fienolabo%2Fi%2F10000031%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ienolabo/cabinet/itempic/17/ielabo100031-mb-1.jpg?_ex=128x128"
+  - rank: 7
+    name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
+    brand: "オカモト（水とりぞうさん）"
+    price: 4280
+    capacity: "550mL×45個（24,750mL分）"
+    pricePerUnit: "約0.17円/mL"
+    rating: 4.82
+    reviewCount: 244
+    features:
+      - "国内定番の大容量タンクタイプ除湿剤"
+      - "強力脱臭・防臭・防カビ効果"
+      - "1個あたり550mLの高い吸湿力"
+    pros:
+      - "大容量セットで1mLあたりのコスパが抜群"
+      - "タンクが透明で見やすい"
+      - "複数箇所に同時に設置可能"
+    cons:
+      - "大容量セットのため保管スペースが必要"
+      - "満水時の廃棄作業がやや手間"
+    recommendedFor: "押し入れ・クローゼット・納戸など湿気の多い広い収納スペースに"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F4904637999866set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10017235%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_okamoto1/4904637999804set.jpg?_ex=128x128"
+  - rank: 8
+    name: "備長炭ドライペット 除湿剤 タンクタイプ どこでも用（3個パック×6個）"
+    brand: "エステー（ドライペット）"
+    price: 1980
+    capacity: "420mL×18個（7,560mL分）"
+    pricePerUnit: "約0.26円/mL"
+    rating: 4.49
+    reviewCount: 39
+    features:
+      - "備長炭配合で除湿＋消臭"
+      - "タンクタイプで吸湿した水が一目でわかる"
+      - "どこでも置ける汎用タイプ"
+    pros:
+      - "除湿と消臭を同時にできる"
+      - "ケース販売で複数箇所に設置しやすい"
+      - "エステーの信頼性と安定した吸湿力"
+    cons:
+      - "1個あたりの吸湿量は水とりぞうさんよりやや少ない"
+      - "タンクが大きいため設置場所を選ぶ"
+    recommendedFor: "湿気＋臭い対策をしたい方・複数箇所使用派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901070939398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11075355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/398/4901070939398.jpg?_ex=128x128"
+  - rank: 9
+    name: "激乾 除湿剤 タンクタイプ（400mL×3個パック）"
+    brand: "フマキラー（激乾）"
+    price: 421
+    capacity: "400mL×3個（1,200mL分）"
+    pricePerUnit: "約0.35円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "コンパクトながらパワフル吸湿"
+      - "除湿・防カビ・消臭のトリプル効果"
+      - "引き出しや衣装ケースにも対応"
+    pros:
+      - "価格が手頃で試しやすい"
+      - "コンパクトサイズで狭い場所に置きやすい"
+      - "フマキラーの信頼できる品質"
+    cons:
+      - "大容量タンクタイプより交換頻度が高め"
+      - "広めの収納スペースには不向き"
+    recommendedFor: "下駄箱・引き出し・小さめの収納スペースに"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ramcn.3rdw6d52.g00ramcn.3rdw79d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmdse%2Fho-4902424439014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frcmdse%2Fi%2F14732325%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmdse/cabinet/ho01/ho-4902424439014.jpg?_ex=128x128"
 tags:
   - "除湿剤 おすすめ"
   - "除湿剤 コスパ"

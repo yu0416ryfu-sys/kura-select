@@ -4,7 +4,7 @@ description: "除菌スプレー・アルコールを1mLあたりのコストで
 category: "sanitizing-spray"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-08"
+updatedAt: 2026-07-08
 products:
   - rank: 1
     name: "カビキラー アルコール除菌 キッチン用 詰め替え用【カビキラー】[アルコールスプ"
@@ -172,13 +172,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptlfn.3rdw66e3.g00ptlfn.3rdw7472/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakano-d%2Fkesisaru-250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakano-d%2Fi%2F10015729%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakano-d/cabinet/brand/bracebe/pic/chouchoukikki_300_1.jpg?_ex=128x128"
   - rank: 7
-    name: "ブテナロック 除菌抗菌スプレー 3本セット"
+    name: "ブテナロック 除菌抗菌スプレー 180ml"
     brand: "ブテナロック"
-    price: 2940
-    capacity: "180ml×3本"
-    pricePerUnit: "約5.4円/mL"
-    rating: 4.69
-    reviewCount: 1721
+    price: 1000
+    capacity: "180ml"
+    pricePerUnit: "約5.6円/mL"
+    rating: 4.65
+    reviewCount: 4078
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"
@@ -191,8 +191,8 @@ products:
       - "対象素材への使用可否確認が必要"
       - "成分や濃度の確認が必要"
     recommendedFor: "除菌スプレーを用途と容量で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00telan.3rdw6aaf.g00telan.3rdw7f40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamitsu%2F4987188317877%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamitsu%2Fi%2F10000031%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hisamitsu/cabinet/07567917/003.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00telan.3rdw6aaf.g00telan.3rdw7f40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamitsu%2F4987188317853%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamitsu%2Fi%2F10000030%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hisamitsu/cabinet/07567917/001.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

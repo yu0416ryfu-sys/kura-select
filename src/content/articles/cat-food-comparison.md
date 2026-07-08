@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-07-08"
+updatedAt: 2026-07-08
 draft: false
 products:
   - rank: 1
@@ -80,7 +80,7 @@ products:
     capacity: "3.5kg"
     pricePerUnit: "約1.6円/g"
     rating: 4.81
-    reviewCount: 141
+    reviewCount: 142
     features:
       - "7歳以上の室内で生活する中高齢猫向け総合栄養食"
       - "ジッパー付き袋で開封後の保存がしやすい設計"
@@ -146,7 +146,7 @@ products:
     capacity: "2kg"
     pricePerUnit: "約2.0円/g"
     rating: 4.67
-    reviewCount: 849
+    reviewCount: 850
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

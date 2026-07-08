@@ -58,7 +58,7 @@ products:
     capacity: "150組×50個"
     pricePerUnit: "約0.36円/組"
     rating: 4.54
-    reviewCount: 784
+    reviewCount: 785
     features:
       - "アイリスオーヤマのソフトパック"
       - "150組×50個のまとめ買いパック"

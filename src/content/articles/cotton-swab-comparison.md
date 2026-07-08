@@ -4,7 +4,7 @@ description: "綿棒をコットン100%・紙軸・スパイラル・抗菌タ�
 category: "cotton-swab"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-06-13"
+updatedAt: 2026-07-08
 draft: false
 products:
   - rank: 1
@@ -74,11 +74,11 @@ products:
         rating: 0
         reviewCount: 0
   - rank: 3
-    name: "うさベビー 抗菌綿棒 ほそめ"
+    name: "うさベビー 抗菌綿棒 ほそめ 250本"
     brand: "山洋"
-    price: 180
+    price: 192
     capacity: "250本"
-    pricePerUnit: "約0.72円/本"
+    pricePerUnit: "約0.77円/本"
     rating: 5
     reviewCount: 1
     features:
@@ -93,8 +93,8 @@ products:
       - "細さがあるため力をかけすぎると折れやすい"
       - "大人の耳掃除には細すぎると感じる場合がある"
     recommendedFor: "赤ちゃんや幼児の細部ケア、メイクの細かい修正や傷手当てに"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r8gxn.3rdw6125.g00r8gxn.3rdw7562/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpremoa%2F4936613072409%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpremoa%2Fi%2F10534565%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/premoa/cabinet/pics/356/4936613072409.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pxfkn.3rdw6005.g00pxfkn.3rdw7ac5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkoex%2F1051-4936613072409%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkoex%2Fi%2F10204731%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkoex/cabinet/1051_3/1051-4936613072409_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

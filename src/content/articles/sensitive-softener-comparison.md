@@ -4,7 +4,7 @@ description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹
 category: "fabric-softener"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-05"
+updatedAt: 2026-07-08
 products:
   - rank: 1
     name: "ランドリン 柔軟剤 詰め替えアソートセット 9個入り"
@@ -287,8 +287,8 @@ products:
     price: 3465
     capacity: "960mL×3個"
     pricePerUnit: "約1.2円/mL"
-    rating: 4.85
-    reviewCount: 82
+    rating: 4.86
+    reviewCount: 83
     features:
       - "シリコンフリー・アルコールフリー処方"
       - "赤ちゃん・敏感肌向けの低刺激設計"

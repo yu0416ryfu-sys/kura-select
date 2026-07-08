@@ -4,7 +4,7 @@ description: "食洗機用洗剤を1回あたりのコストで徹底比較。�
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-04"
+updatedAt: 2026-07-08
 products:
   - rank: 1
     name: "P&G 食洗機用ジョイ オレンジピール成分入り 詰替 490g"
@@ -12,8 +12,8 @@ products:
     price: 315
     capacity: "490g"
     pricePerUnit: "約0.64円/g"
-    rating: 4.38
-    reviewCount: 13
+    rating: 4.43
+    reviewCount: 14
     features:
       - "食器洗い乾燥機専用の洗剤"
       - "継続利用しやすい定番構成"

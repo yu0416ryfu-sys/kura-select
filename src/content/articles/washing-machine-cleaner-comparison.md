@@ -46,7 +46,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.76円/g"
     rating: 4.64
-    reviewCount: 1426
+    reviewCount: 1427
     features:
       - "酸素系漂白剤で洗濯槽以外にも多用途"
       - "界面活性剤入りで洗浄力を強化（日本版）"
@@ -145,7 +145,7 @@ products:
     capacity: "200g×3個（3回分）"
     pricePerUnit: "約4.2円/g"
     rating: 4.63
-    reviewCount: 726
+    reviewCount: 727
     features:
       - "酵素と塩素系成分を組み合わせたクリーナー"
       - "縦型・ドラム式両対応の設計"

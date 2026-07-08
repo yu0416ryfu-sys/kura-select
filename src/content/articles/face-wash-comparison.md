@@ -1,34 +1,12 @@
 ---
 title: "洗顔料 コスパ最強ランキング【2026年版】1gあたり最安で比較"
-description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴ・専科など人気9選を成分・洗い上がり・コスパで解説します。"
+description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴ・専科など人気8選を成分・洗い上がり・コスパで解説します。"
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
 updatedAt: 2026-07-08
 products:
   - rank: 1
-    name: "無添加生活 泡洗顔 炭酸泡洗顔フォーム 3本セット"
-    brand: "無添加生活"
-    price: 1320
-    capacity: "150g×3本"
-    pricePerUnit: "約2.9円/g"
-    rating: 4.62
-    reviewCount: 779
-    features:
-      - "泡タイプの洗顔料"
-      - "まとめ買いしやすいセット"
-      - "毎日の洗顔に使いやすい"
-    pros:
-      - "泡立ての手間を減らせる"
-      - "ストック向き"
-      - "時短ケアに向く"
-    cons:
-      - "肌質との相性確認が必要"
-      - "香りや洗い上がりの好みは分かれる"
-    recommendedFor: "泡洗顔をまとめて比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtvin.3rdw6f25.g00qtvin.3rdw74fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoapmax%2F20007607%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoapmax%2Fi%2F10001447%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/soapmax/cabinet/12066769/imgrc0122403870.jpg?_ex=128x128"
-  - rank: 2
     name: "ビオレ おうちdeエステ マッサージ洗顔ジェル 150g"
     brand: "花王（ビオレ）"
     price: 647
@@ -61,7 +39,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-ypp_3799-004426"
         available: true
-  - rank: 3
+  - rank: 2
     name: "洗顔フォーム 毛穴 ロゼット洗顔パスタ 海泥スムース WEB限定2倍"
     brand: "ロゼット"
     price: 1210
@@ -83,7 +61,7 @@ products:
     recommendedFor: "毛穴汚れが気になる方・コスパ最優先の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u529n.3rdw64b3.g00u529n.3rdw7138/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frosette-shop%2Fpasta_ks240_1ps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frosette-shop%2Fi%2F10000066%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rosette-shop/cabinet/thumbna/pasta_ks240_1ps/imgrc0108556464.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "オルナ オーガニック 泥洗顔 130g"
     brand: "ALLNA ORGANIC"
     price: 1400
@@ -116,7 +94,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 5
+  - rank: 4
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
     brand: "ユニリーバ（ダヴ）"
     price: 1577
@@ -149,14 +127,14 @@ products:
         available: true
         rating: 4.5
         reviewCount: 8
-  - rank: 6
+  - rank: 5
     name: "DoMeCare マイクロクレイウォッシュ 110g"
     brand: "DoMeCare"
     price: 1980
     capacity: "110g"
     pricePerUnit: "約18円/g"
     rating: 4.6
-    reviewCount: 1805
+    reviewCount: 1806
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -182,7 +160,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 7
+  - rank: 6
     name: "レステモ フェイシャル ソープ 150g"
     brand: "レステモ"
     price: 2680
@@ -215,7 +193,7 @@ products:
         available: true
         rating: 4.68
         reviewCount: 214
-  - rank: 8
+  - rank: 7
     name: "ルアド 洗顔パウダー 67g×3袋"
     brand: "ルアド"
     price: 3711
@@ -237,7 +215,7 @@ products:
     recommendedFor: "肌質や洗い上がりで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pytjn.3rdw6c43.g00pytjn.3rdw73fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fadpentel%2F590765%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fadpentel%2Fi%2F10000082%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/adpentel/cabinet/pro/imgrc0079724986.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "ファンケル ピュアモイスト泡洗顔料 150ml"
     brand: "ファンケル"
     price: 1320

@@ -135,7 +135,7 @@ products:
     capacity: "20枚（10枚入×2コセット）"
     pricePerUnit: "約75円/枚"
     rating: 4.66
-    reviewCount: 173
+    reviewCount: 174
     features:
       - "ハイドロコロイド素材を使った密着タイプ"
       - "水や汚れの侵入を防ぐ防水設計"

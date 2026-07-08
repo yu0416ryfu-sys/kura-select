@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バブ・�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-08"
+updatedAt: 2026-07-08
 products:
   - rank: 1
     name: "ヒマラヤ岩塩バスソルト ピンクソルト 訳あり"
@@ -134,7 +134,7 @@ products:
     capacity: "100個セット"
     pricePerUnit: "約38円/個"
     rating: 4.56
-    reviewCount: 9942
+    reviewCount: 9943
     features:
       - "日本製の入浴剤を100個詰め合わせた福袋"
       - "テレビランキング番組1位獲得のロングセラー"

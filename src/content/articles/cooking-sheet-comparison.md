@@ -4,42 +4,9 @@ description: "クッキングシートを1mあたりの価格で比較。ロー�
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-07-08"
+updatedAt: 2026-07-08
 products:
   - rank: 1
-    name: "フジ クッキングシート 業務用 33cm幅"
-    brand: "フジ"
-    price: 550
-    capacity: "30m"
-    pricePerUnit: "約18円/m"
-    rating: 4.78
-    reviewCount: 154
-    features:
-      - "オーブン調理や製菓に使えるロールタイプ"
-      - "天板を覆いやすい33cm幅"
-      - "必要な長さに合わせて切り分けられる"
-    pros:
-      - "使用量に合わせて長さを調整しやすい"
-      - "パン作りやお菓子作りに取り入れやすい"
-      - "幅のある天板にも敷きやすい"
-    cons:
-      - "収納時にロールの置き場所が必要"
-      - "小さな調理器具では切り分ける手間がかかる"
-    recommendedFor: "オーブン調理や製菓でロール型を使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdibn.3rdw6ad0.g00qdibn.3rdw782a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fasai-tool%2Fsale2012-0000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fasai-tool%2Fi%2F10002367%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/asai-tool/cabinet/newgazo/2013-fuji-cs1-2.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F373600.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-07"
-        price: 12980
-        rating: 4.53
-        reviewCount: 30
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_373600"
-        available: true
-  - rank: 2
     name: "KitchenNista クッキングシート エコノミータイプ 33cm幅"
     brand: "KitchenNista"
     price: 788
@@ -71,6 +38,39 @@ products:
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4902534799398"
+        available: true
+  - rank: 2
+    name: "フジ クッキングシート 業務用 33cm×30m"
+    brand: "フジ"
+    price: 997
+    capacity: "30m"
+    pricePerUnit: "約33円/m"
+    rating: 4.78
+    reviewCount: 154
+    features:
+      - "オーブン調理や製菓に使えるロールタイプ"
+      - "天板を覆いやすい33cm幅"
+      - "必要な長さに合わせて切り分けられる"
+    pros:
+      - "使用量に合わせて長さを調整しやすい"
+      - "パン作りやお菓子作りに取り入れやすい"
+      - "幅のある天板にも敷きやすい"
+    cons:
+      - "収納時にロールの置き場所が必要"
+      - "小さな調理器具では切り分ける手間がかかる"
+    recommendedFor: "オーブン調理や製菓でロール型を使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pntdn.3rdw6e4a.g00pntdn.3rdw79c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeicho%2Fmcst0502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeicho%2Fi%2F17460445%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/meicho/cabinet/white/061/11-0202-1302.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F373600.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-07"
+        price: 12980
+        rating: 4.53
+        reviewCount: 30
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_373600"
         available: true
   - rank: 3
     name: "クックパー クッキングシート L 30cm幅"
@@ -145,7 +145,7 @@ products:
     capacity: "100枚入り"
     pricePerUnit: "約18円/枚"
     rating: 4.65
-    reviewCount: 125
+    reviewCount: 127
     features:
       - "PFAS・フッ素フリーの無漂白クッキングシート"
       - "フライパンや蒸し料理・包み焼きに対応した多用途タイプ"

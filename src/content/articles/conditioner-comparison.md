@@ -4,7 +4,7 @@ description: "コンディショナーを1mLあたりのコストで徹底比較
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-05"
+updatedAt: 2026-07-08
 products:
   - rank: 1
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
@@ -194,11 +194,11 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_3474636636761-01"
         available: true
   - rank: 7
-    name: "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア"
+    name: "ユニリーバ LUX スーパーリッチシャイン ダメージリペア コンディショナー つめかえ用 290g"
     brand: "ユニリーバ（LUX）"
-    price: 299
+    price: 440
     capacity: "290g"
-    pricePerUnit: "約1.0円/g"
+    pricePerUnit: "約1.5円/g"
     rating: 5
     reviewCount: 7
     features:
@@ -213,7 +213,7 @@ products:
       - "シリコン配合のためボリュームが出にくい"
       - "脂性肌の方にはやや重い"
     recommendedFor: "ツヤ髪を目指す方・香りを楽しみたい方・パサつきが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902111773964-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902111773964%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12451828%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2023a/4902111773964.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
