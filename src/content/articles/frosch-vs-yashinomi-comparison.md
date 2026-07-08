@@ -3,6 +3,7 @@ title: "フロッシュとヤシノミ洗剤を徹底比較【2026年版】コ�
 description: "フロッシュとヤシノミ洗剤（サラヤ）の違いを1mLあたりの単価・手肌へのやさしさ・食材洗浄対応・環境配慮の4軸で徹底比較。どっちを選ぶべきか、用途別の使い分けまで解説します。価格は毎週自動更新。"
 category: "dish-detergent"
 publishedAt: "2026-07-08"
+updatedAt: 2026-07-08
 articleType: "comparison"
 products:
   - rank: 1
@@ -39,13 +40,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/gyy-shop_11019-frosch-aloe-vera-dish-detergent-1000mlx4"
         available: true
   - rank: 2
-    name: "ヤシノミ洗剤 食器・野菜用 詰め替え 540mL"
+    name: "ヤシノミ洗剤 野菜・食器用 つめかえ用 480mL"
     brand: "サラヤ（ヤシノミ洗剤）"
-    price: 2856
-    capacity: "540mL（約180回分）"
-    pricePerUnit: "約5.3円/mL"
-    rating: 4.5
-    reviewCount: 2
+    price: 606
+    capacity: "480mL"
+    pricePerUnit: "約1.3円/mL"
+    rating: 4.67
+    reviewCount: 6
     features:
       - "植物系天然成分99%使用の低刺激処方"
       - "野菜・果物の洗浄にも使える食品対応"
@@ -58,8 +59,8 @@ products:
       - "容量が少なく詰め替え頻度が高い"
       - "強い油汚れには複数回使用が必要"
     recommendedFor: "敏感肌・手荒れが心配な方・食材も洗いたい方・エコ志向の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqv2n.3rdw6222.g00uqv2n.3rdw7c45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fastershop%2Fbomdykhfin55h3inene676douq%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fastershop%2Fi%2F10237277%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/astershop/cabinet/11876517/33242660_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe445699h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10537497%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/477/4973512320477.jpg?_ex=128x128"
 tags:
   - "食器用洗剤"
   - "フロッシュ"

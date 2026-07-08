@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-08"
+updatedAt: 2026-07-08
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -194,6 +194,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pk2an.3rdw647a.g00pk2an.3rdw7456/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuyeki%2F395%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fuyeki%2Fi%2F10000474%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/uyeki/cabinet/syohin1/item01/packs/pax200_set2.jpg?_ex=128x128"
   - rank: 7
+    name: "ヤシノミ洗剤 野菜・食器用 つめかえ用 480mL"
+    brand: "サラヤ（ヤシノミ洗剤）"
+    price: 606
+    capacity: "480mL"
+    pricePerUnit: "約1.3円/mL"
+    rating: 4.67
+    reviewCount: 6
+    features:
+      - "植物系天然成分99%使用の低刺激処方"
+      - "野菜・果物の洗浄にも使える食品対応"
+      - "環境負荷が低い生分解性処方"
+    pros:
+      - "手荒れが気になる方にやさしい処方"
+      - "野菜・果物も洗えて食材に安心"
+      - "環境への配慮でエコ志向の方に最適"
+    cons:
+      - "容量が少なく詰め替え頻度が高い"
+      - "強い油汚れには複数回使用が必要"
+    recommendedFor: "敏感肌・手荒れが心配な方・食材も洗いたい方・エコ志向の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe445699h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10537497%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/477/4973512320477.jpg?_ex=128x128"
+  - rank: 8
     name: "SOMALI 台所用石けん 詰替用 5000ml そまり 純石けん 無添加"
     brand: "木村石鹸（SOMALI）"
     price: 6600
@@ -226,7 +248,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 8
+  - rank: 9
     name: "IVORY DISH SOAP クラシック 食器用洗剤 709mL"
     brand: "IVORY"
     price: 980
@@ -248,28 +270,6 @@ products:
     recommendedFor: "海外ブランドの食器用洗剤を使ってみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q931n.3rdw6861.g00q931n.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftida-market%2F768628%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftida-market%2Fi%2F10000063%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tida-market/cabinet/ivorydishsoap.jpg?_ex=128x128"
-  - rank: 9
-    name: "ヤシノミ洗剤 食器・野菜用 詰め替え 540mL"
-    brand: "サラヤ（ヤシノミ洗剤）"
-    price: 2856
-    capacity: "540mL（約180回分）"
-    pricePerUnit: "約5.3円/mL"
-    rating: 4.5
-    reviewCount: 2
-    features:
-      - "植物系天然成分99%使用の低刺激処方"
-      - "野菜・果物の洗浄にも使える食品対応"
-      - "環境負荷が低い生分解性処方"
-    pros:
-      - "手荒れが気になる方にやさしい処方"
-      - "野菜・果物も洗えて食材に安心"
-      - "環境への配慮でエコ志向の方に最適"
-    cons:
-      - "容量が少なく詰め替え頻度が高い"
-      - "強い油汚れには複数回使用が必要"
-    recommendedFor: "敏感肌・手荒れが心配な方・食材も洗いたい方・エコ志向の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqv2n.3rdw6222.g00uqv2n.3rdw7c45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fastershop%2Fbomdykhfin55h3inene676douq%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fastershop%2Fi%2F10237277%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/astershop/cabinet/11876517/33242660_1.jpg?_ex=128x128"
 tags:
   - "食器用洗剤"
   - "コスパ"
@@ -358,7 +358,7 @@ faqs:
 
 手荒れ対策を最優先するなら、ヤシノミ洗剤・SOMALI・緑の魔女のような低刺激系を候補にしつつ、長時間の水仕事ではゴム手袋も併用すると安心です。油汚れが多い家庭では、低刺激系だけに寄せすぎると洗浄力が物足りない場合があるため、用途に合わせて使い分けましょう。
 
-> ヤシノミ洗剤は植物系天然成分99%・野菜洗浄対応という点でエコ・低刺激部門の代表格ですが、容量あたりの単価は本ランキング内で最も高くなります。コスパを最優先する場合は、大容量タイプ（CHARMY Magica・緑の魔女など）を軸にしつつ、食材を洗う用途にだけヤシノミ洗剤を使い分けると合理的です。
+> ヤシノミ洗剤は植物系天然成分99%・野菜洗浄対応という点でエコ・低刺激部門の代表格ですが、容量あたりの単価は業務用大容量タイプより高めになりやすい傾向があります。コスパを最優先する場合は、大容量タイプ（CHARMY Magica・緑の魔女など）を軸にしつつ、食材を洗う用途にだけヤシノミ洗剤を使い分けると合理的です。
 
 ## フロッシュとヤシノミ洗剤はどちらがコスパ良い？
 
@@ -367,7 +367,7 @@ faqs:
 | 比較項目 | フロッシュ | ヤシノミ洗剤（サラヤ） |
 |----------|-----------|----------------------|
 | 主な特徴 | アロエベラ配合・生分解性100%・リサイクルPET容器 | 植物系天然成分99%・野菜洗浄対応 |
-| 容量 | 1000mL×4本（大容量セット） | 詰め替え540mL |
+| 販売形態 | 大容量ボトルのセット販売が中心 | 詰め替えパック中心 |
 | 手肌への配慮 | アロエベラ配合で低刺激 | 植物系成分で低刺激 |
 | 食材洗浄 | 食器専用（食材不可） | ○（食品対応） |
 | 1mLあたりコスト | 大容量セットで単価を抑えやすい | 容量が小さく単価は高め |
