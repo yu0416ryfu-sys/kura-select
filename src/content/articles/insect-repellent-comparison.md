@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-08"
 draft: false
 products:
   - rank: 1
@@ -112,8 +112,8 @@ products:
     price: 7788
     capacity: "450ml×2本"
     pricePerUnit: "約8.7円/mL"
-    rating: 4.09
-    reviewCount: 107
+    rating: 4.1
+    reviewCount: 109
     features:
       - "ヒノキチオール・テルペン油・除虫菊エキスなど天然由来成分100%配合"
       - "450ml入りで玄関・室内・軒下など広範囲への噴霧に適した容量"
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faroma-spray%2Fsp-bug-100-100e.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-07"
         price: 2980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aroma-spray_sp-bug-100-100e"
         available: true
@@ -243,7 +243,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyoga-pi%2Fperfect-potion-110931cd-125.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-07"
         price: 1870
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yoga-pi_perfect-potion-110931cd-125"
         available: true

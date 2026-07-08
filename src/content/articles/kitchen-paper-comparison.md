@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-05"
+updatedAt: "2026-07-08"
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -33,13 +33,80 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F1228689.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-07"
         price: 3970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_1228689"
         available: true
         rating: 4.61
         reviewCount: 41
   - rank: 2
+    name: "ネピア 激吸収 キッチンタオル 4ロール×12パック（100カット）"
+    brand: "王子ネピア（ネピア）"
+    price: 5396
+    capacity: "100枚×4ロール×12パック"
+    pricePerUnit: "約1.1円/枚"
+    rating: 4.6
+    reviewCount: 55
+    features:
+      - "激吸収構造で水分をすばやくキャッチ"
+      - "大容量24ロールでまとめ買いに最適"
+      - "通常の約2倍の吸水スピード"
+    pros:
+      - "1枚あたり単価が安くまとめ買い向き"
+      - "大容量パックでストック安心"
+      - "吸水スピードが速い"
+    cons:
+      - "エリエール超吸収に比べると強度はやや劣る"
+      - "大量パックで保管場所が必要"
+    recommendedFor: "最安値を求める方・大家族・まとめ買いでストックしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcsnn.3rdw6570.g00qcsnn.3rdw762b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyoto23%2F10000311%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyoto23%2Fi%2F10000311%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kyoto23/cabinet/img3/10000311.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsukasa1%2F10000311.html"
+        matchStatus: "review"
+        updatedAt: "2026-07-06"
+        price: 5173
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsukasa1_10000311"
+        available: false
+        rating: 0
+        reviewCount: 2
+        matchNotes: "capacity不一致: capacity不一致"
+  - rank: 3
+    name: "スコッティ ファイン 3倍巻き キッチンタオル 150カット 4ロール×4パック"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 4810
+    capacity: "150枚×4ロール×4パック"
+    pricePerUnit: "約2.0円/枚"
+    rating: 5
+    reviewCount: 4
+    features:
+      - "3倍巻きで交換頻度が1/3に"
+      - "エンボス加工で吸水力アップ"
+      - "しっかり厚手で破れにくい"
+    pros:
+      - "3倍巻きで省スペース・交換の手間削減"
+      - "3倍巻きで枚数が多く高コスパ"
+      - "吸水力と強度のバランスが良い"
+    cons:
+      - "通常ロールに比べてやや厚みがある"
+      - "ホルダーによっては入らない場合がある"
+    recommendedFor: "コスパ重視の方・交換頻度を減らしたい方・まとめ買い派の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uo14n.3rdw68f0.g00uo14n.3rdw7116/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanamaru-shouten%2F20250517125450_105%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanamaru-shouten%2Fi%2F10035557%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanamaru-shouten/cabinet/r_2025051711/20250517125450_105_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Fr8o50.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-07"
+        price: 3899
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-kurashi_r8o50"
+        available: true
+        rating: 5
+        reviewCount: 4
+  - rank: 4
     name: "リード クッキングペーパー プロ用 中サイズ 100枚×2ロール×8袋"
     brand: "リード"
     price: 5995
@@ -61,7 +128,7 @@ products:
     recommendedFor: "調理や片付けで紙ペーパーをよく使う家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rr70n.3rdw687e.g00rr70n.3rdw7db2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurea%2F10000104%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurea%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurea/cabinet/imgrc0091719260.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 5
     name: "エリエール 超吸収キッチンタオル 70カット×4ロール×4パック"
     brand: "大王製紙（エリエール）"
     price: 5171
@@ -83,7 +150,7 @@ products:
     recommendedFor: "吸水力重視の方・水回りの掃除にも使いたい方・品質重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F14506%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10645679%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/506/14506.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 6
     name: "リード クッキングペーパー スマートタイプ 36枚×24パック"
     brand: "リード"
     price: 6800
@@ -110,13 +177,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901670117899x24.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-07"
         price: 4280
         rating: 0
-        reviewCount: 0
+        reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901670117899x24"
         available: true
-  - rank: 5
+  - rank: 7
     name: "クレシア ペーパータオル 業務用 クレシア EFハンドタオル ソフトタイプ200 中"
     brand: "楽天市場"
     price: 3480
@@ -141,15 +208,15 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4901750370008.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkeyroom%2F4901750370008-10.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-06"
-        price: 5885
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4901750370008"
+        updatedAt: "2026-07-07"
+        price: 3480
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/keyroom_4901750370008-10"
         available: true
-        rating: 4.84
-        reviewCount: 302
-  - rank: 6
+        rating: 4.83
+        reviewCount: 53
+  - rank: 8
     name: "リード クッキングペーパー レギュラー 40枚×5個セット"
     brand: "リード"
     price: 2000
@@ -182,7 +249,7 @@ products:
         reviewCount: 48
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_930101"
         available: true
-  - rank: 7
+  - rank: 9
     name: "リード ヘルシークッキングペーパー レギュラー 40枚×15個"
     brand: "リード"
     price: 6600
@@ -204,72 +271,6 @@ products:
     recommendedFor: "調理や片付けで紙ペーパーをよく使う家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fpapertowel29%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10000684%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item_r/papertowel29-a1.jpg?_ex=128x128"
-  - rank: 8
-    name: "ネピア 激吸収 キッチンタオル 4ロール×12パック（100カット）"
-    brand: "王子ネピア（ネピア）"
-    price: 5396
-    capacity: "100枚×4ロール×12パック"
-    pricePerUnit: "約1.1円/枚"
-    rating: 4.6
-    reviewCount: 55
-    features:
-      - "激吸収構造で水分をすばやくキャッチ"
-      - "大容量24ロールでまとめ買いに最適"
-      - "通常の約2倍の吸水スピード"
-    pros:
-      - "1枚あたり単価が安くまとめ買い向き"
-      - "大容量パックでストック安心"
-      - "吸水スピードが速い"
-    cons:
-      - "エリエール超吸収に比べると強度はやや劣る"
-      - "大量パックで保管場所が必要"
-    recommendedFor: "最安値を求める方・大家族・まとめ買いでストックしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcsnn.3rdw6570.g00qcsnn.3rdw762b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyoto23%2F10000311%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyoto23%2Fi%2F10000311%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kyoto23/cabinet/img3/10000311.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsukasa1%2F10000311.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-06"
-        price: 5173
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsukasa1_10000311"
-        available: true
-        rating: 0
-        reviewCount: 2
-  - rank: 9
-    name: "スコッティ ファイン 3倍巻き キッチンタオル 150カット 4ロール×4パック"
-    brand: "日本製紙クレシア（スコッティ）"
-    price: 4810
-    capacity: "150枚×4ロール×4パック"
-    pricePerUnit: "約2.0円/枚"
-    rating: 5
-    reviewCount: 4
-    features:
-      - "3倍巻きで交換頻度が1/3に"
-      - "エンボス加工で吸水力アップ"
-      - "しっかり厚手で破れにくい"
-    pros:
-      - "3倍巻きで省スペース・交換の手間削減"
-      - "3倍巻きで枚数が多く高コスパ"
-      - "吸水力と強度のバランスが良い"
-    cons:
-      - "通常ロールに比べてやや厚みがある"
-      - "ホルダーによっては入らない場合がある"
-    recommendedFor: "コスパ重視の方・交換頻度を減らしたい方・まとめ買い派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uo14n.3rdw68f0.g00uo14n.3rdw7116/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanamaru-shouten%2F20250517125450_105%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanamaru-shouten%2Fi%2F10035557%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanamaru-shouten/cabinet/r_2025051711/20250517125450_105_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Fr8o50.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-06"
-        price: 3899
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-kurashi_r8o50"
-        available: true
-        rating: 5
-        reviewCount: 4
   - rank: 10
     name: "東京クイン イイナ キッチンペーパー M265 12ロール"
     brand: "イイナ"
@@ -297,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4975156901005.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-07"
         price: 4594
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4975156901005"
         available: true

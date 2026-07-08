@@ -4,7 +4,7 @@ description: "父の日に贈りやすい実用ギフトを比較。名入れボ
 category: "gift"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-05"
+updatedAt: 2026-07-08
 draft: false
 products:
   - rank: 1
@@ -59,8 +59,8 @@ products:
       - "木製軸は水濡れや強い衝撃に少し気をつけたい"
     recommendedFor: "毎日使える実用品に名入れの特別感を足したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rc6kn.3rdw6041.g00rc6kn.3rdw7ff1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhappy-gift%2F008-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhappy-gift%2Fi%2F10000027%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    rating: 4.6
-    reviewCount: 98
+    rating: 4.61
+    reviewCount: 99
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/happy-gift/cabinet/04391796/008-001.jpg?_ex=128x128"
   - rank: 3
     name: "刺繍ネクタイ 名入れ"

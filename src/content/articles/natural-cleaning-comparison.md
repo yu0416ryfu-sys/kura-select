@@ -4,7 +4,7 @@ description: "重曹・セスキ炭酸ソーダ・クエン酸などのナチュ
 category: "natural-cleaning"
 articleType: "comparison"
 publishedAt: "2026-06-09"
-updatedAt: 2026-07-06
+updatedAt: "2026-07-08"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "22.5kg"
     pricePerUnit: "約340円/kg"
     rating: 4.86
-    reviewCount: 563
+    reviewCount: 564
     features:
       - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
       - "4.5kg×5袋の小分けパッケージによる大容量セット"
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki25.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-07"
         price: 7660
         rating: 4.67
         reviewCount: 132
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki15.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-07"
         price: 5715
         rating: 4.86
         reviewCount: 111
@@ -122,10 +122,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki5.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-07"
         price: 1843
         rating: 4.73
-        reviewCount: 229
+        reviewCount: 230
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki5"
         available: true
   - rank: 5
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos01029.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-07"
         price: 2590
         rating: 4.5
         reviewCount: 10
@@ -186,13 +186,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsapri-bk%2F4982757811145.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6021477.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
-        price: 1380
+        updatedAt: "2026-07-07"
+        price: 1800
         rating: 4.78
-        reviewCount: 87
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sapri-bk_4982757811145"
+        reviewCount: 68
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6021477"
         available: true
   - rank: 7
     name: "クエン酸粉末 5kg 食品添加物グレード 純度99.5%以上"
@@ -242,8 +242,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        matchStatus: "matched"
+        updatedAt: "2026-07-07"
         price: 785
         rating: 4.56
         reviewCount: 1265
@@ -275,8 +275,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        matchStatus: "matched"
+        updatedAt: "2026-07-07"
         price: 785
         rating: 4.56
         reviewCount: 1265

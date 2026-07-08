@@ -4,9 +4,98 @@ description: "消臭剤のおすすめ6選をコスパで徹底比較。リセ�
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-08"
 products:
   - rank: 1
+    name: "ハルの消臭剤 消臭ビーズ 詰替用"
+    brand: "ハル・インダストリ"
+    price: 5060
+    capacity: "4kg"
+    pricePerUnit: "約1265円/kg"
+    rating: 4.79
+    reviewCount: 2968
+    features:
+      - "部屋や玄関などのニオイ対策に使える"
+      - "置き型・スプレー・詰替などから選べる"
+      - "ペットや靴まわりにも使いやすい"
+    pros:
+      - "生活臭対策に取り入れやすい"
+      - "容量違いを選べる"
+      - "設置場所に合わせやすい"
+    cons:
+      - "香りや無香料の好みは分かれる"
+      - "使用場所の注意書き確認が必要"
+    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/10000008_page01_01.jpg?_ex=128x128"
+  - rank: 2
+    name: "無香空間 本体 315g"
+    brand: "小林製薬"
+    price: 448
+    capacity: "315g"
+    pricePerUnit: "約1.4円/g"
+    rating: 4
+    reviewCount: 4
+    features:
+      - "香りでごまかさずにしっかり消臭する置き型消臭剤"
+      - "アミノ酸系消臭成分を配合した透明ビーズ"
+      - "部屋・玄関・トイレ・靴箱など様々な場所で使用可能"
+    pros:
+      - "無香料で香りが苦手な人にも使いやすい"
+      - "アミノ酸系成分でニオイをしっかり分解消臭"
+      - "本体タイプで即使用可能"
+    cons:
+      - "詰め替え用と比べて1回あたりのコストが高い"
+      - "大容量タイプに比べて持続期間が短め"
+      - "保管時に場所を取る"
+    recommendedFor: "香りが苦手な方・赤ちゃん・ペットがいる家庭・寝室に置きたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fkb0017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10009562%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/life/life05/kb0017_1a.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072098813.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-07"
+        price: 350
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987072098813"
+        available: true
+        rating: 0
+        reviewCount: 0
+  - rank: 3
+    name: "ハルの消臭剤 消臭ビーズ 空容器セット"
+    brand: "ハル・インダストリ"
+    price: 6204
+    capacity: "4kg"
+    pricePerUnit: "約1551円/kg"
+    rating: 4.68
+    reviewCount: 1642
+    features:
+      - "部屋や玄関などのニオイ対策に使える"
+      - "置き型・スプレー・詰替などから選べる"
+      - "ペットや靴まわりにも使いやすい"
+    pros:
+      - "生活臭対策に取り入れやすい"
+      - "容量違いを選べる"
+      - "設置場所に合わせやすい"
+    cons:
+      - "香りや無香料の好みは分かれる"
+      - "使用場所の注意書き確認が必要"
+    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/imgrc0120234197.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fbs02.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-06"
+        price: 6204
+        rating: 4.67
+        reviewCount: 454
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_bs02"
+        available: true
+  - rank: 4
     name: "リセッシュ 消臭スプレー 除菌EX デオドラントパワー 香りが残らないタイプ 詰"
     brand: "花王"
     price: 614
@@ -41,7 +130,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 2
+  - rank: 5
     name: "リセッシュ 除菌EX ワイドジェット ストロング 香りが残らないタイプ つめかえ"
     brand: "花王"
     price: 3080
@@ -77,7 +166,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 3
+  - rank: 6
     name: "ファブリーズ W除菌+消臭 詰め替え 1280ml×2セット"
     brand: "ファブリーズ(febreze) / P&G"
     price: 3297
@@ -102,95 +191,6 @@ products:
     recommendedFor: "布製品・空間の消臭除菌を手軽にしたい方・ファブリーズユーザー"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598757%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321967%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/757/598757.jpg?_ex=128x128"
-  - rank: 4
-    name: "ハルの消臭剤 消臭ビーズ 詰替用"
-    brand: "ハル・インダストリ"
-    price: 5060
-    capacity: "4kg"
-    pricePerUnit: "約1265円/kg"
-    rating: 4.79
-    reviewCount: 2967
-    features:
-      - "部屋や玄関などのニオイ対策に使える"
-      - "置き型・スプレー・詰替などから選べる"
-      - "ペットや靴まわりにも使いやすい"
-    pros:
-      - "生活臭対策に取り入れやすい"
-      - "容量違いを選べる"
-      - "設置場所に合わせやすい"
-    cons:
-      - "香りや無香料の好みは分かれる"
-      - "使用場所の注意書き確認が必要"
-    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/10000008_page01_01.jpg?_ex=128x128"
-  - rank: 5
-    name: "無香空間 本体 315g"
-    brand: "小林製薬"
-    price: 448
-    capacity: "315g"
-    pricePerUnit: "約1.4円/g"
-    rating: 4
-    reviewCount: 4
-    features:
-      - "香りでごまかさずにしっかり消臭する置き型消臭剤"
-      - "アミノ酸系消臭成分を配合した透明ビーズ"
-      - "部屋・玄関・トイレ・靴箱など様々な場所で使用可能"
-    pros:
-      - "無香料で香りが苦手な人にも使いやすい"
-      - "アミノ酸系成分でニオイをしっかり分解消臭"
-      - "本体タイプで即使用可能"
-    cons:
-      - "詰め替え用と比べて1回あたりのコストが高い"
-      - "大容量タイプに比べて持続期間が短め"
-      - "保管時に場所を取る"
-    recommendedFor: "香りが苦手な方・赤ちゃん・ペットがいる家庭・寝室に置きたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fkb0017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10009562%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/life/life05/kb0017_1a.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072098813.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-06"
-        price: 350
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987072098813"
-        available: true
-        rating: 0
-        reviewCount: 0
-  - rank: 6
-    name: "ハルの消臭剤 消臭ビーズ 空容器セット"
-    brand: "ハル・インダストリ"
-    price: 6204
-    capacity: "4kg"
-    pricePerUnit: "約1551円/kg"
-    rating: 4.68
-    reviewCount: 1642
-    features:
-      - "部屋や玄関などのニオイ対策に使える"
-      - "置き型・スプレー・詰替などから選べる"
-      - "ペットや靴まわりにも使いやすい"
-    pros:
-      - "生活臭対策に取り入れやすい"
-      - "容量違いを選べる"
-      - "設置場所に合わせやすい"
-    cons:
-      - "香りや無香料の好みは分かれる"
-      - "使用場所の注意書き確認が必要"
-    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/imgrc0120234197.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fbs02.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-06"
-        price: 6204
-        rating: 4.67
-        reviewCount: 454
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_bs02"
-        available: true
 tags:
   - "消臭剤 おすすめ"
   - "消臭剤 コスパ"

@@ -4,15 +4,37 @@ description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-08"
 draft: false
 products:
   - rank: 1
+    name: "おしりナップ やわらか厚手仕上げ 80枚×40個"
+    brand: "ピジョン"
+    price: 4070
+    capacity: "80枚×40個（3200枚）"
+    pricePerUnit: "約1.3円/枚"
+    rating: 4.78
+    reviewCount: 7691
+    features:
+      - "おしりふきとして使えるウェットシート"
+      - "詰め替え用やまとめ買いで選びやすい構成"
+      - "赤ちゃんまわりの日常ケアに使いやすいタイプ"
+    pros:
+      - "使用頻度が高い家庭でストックしやすい"
+      - "手口まわりや外出用の候補にもなる"
+      - "厚みや水分量の好みで比較できる"
+    cons:
+      - "シートの厚みや香りの有無は好みが分かれる"
+      - "ケースやフタの有無は商品ごとに確認が必要"
+    recommendedFor: "おしりふきをまとめて備えておきたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgivn.3rdw6956.g00tgivn.3rdw72f6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpigeon-shop%2F2000363s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpigeon-shop%2Fi%2F10001747%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pigeon-shop/cabinet/thumb/11827558/1039243.jpg?_ex=128x128"
+  - rank: 2
     name: "グーン 肌にやさしい おしりふき"
     brand: "グーン"
-    price: 1012
+    price: 1188
     capacity: "70枚×12個"
-    pricePerUnit: "約1.2円/枚"
+    pricePerUnit: "約1.4円/枚"
     rating: 5
     reviewCount: 3
     features:
@@ -42,28 +64,6 @@ products:
         updatedAt: "2026-06-11"
         rating: 0
         reviewCount: 0
-  - rank: 2
-    name: "おしりナップ やわらか厚手仕上げ 80枚×40個"
-    brand: "ピジョン"
-    price: 4070
-    capacity: "80枚×40個（3200枚）"
-    pricePerUnit: "約1.3円/枚"
-    rating: 4.78
-    reviewCount: 7685
-    features:
-      - "おしりふきとして使えるウェットシート"
-      - "詰め替え用やまとめ買いで選びやすい構成"
-      - "赤ちゃんまわりの日常ケアに使いやすいタイプ"
-    pros:
-      - "使用頻度が高い家庭でストックしやすい"
-      - "手口まわりや外出用の候補にもなる"
-      - "厚みや水分量の好みで比較できる"
-    cons:
-      - "シートの厚みや香りの有無は好みが分かれる"
-      - "ケースやフタの有無は商品ごとに確認が必要"
-    recommendedFor: "おしりふきをまとめて備えておきたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgivn.3rdw6956.g00tgivn.3rdw72f6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpigeon-shop%2F2000363s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpigeon-shop%2Fi%2F10001747%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pigeon-shop/cabinet/thumb/11827558/1039243.jpg?_ex=128x128"
   - rank: 3
     name: "ムーニー おしりふき やわらか素材 詰め替え"
     brand: "ムーニー"
@@ -96,7 +96,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4903111159802-4"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-07"
         rating: 4.56
         reviewCount: 9
   - rank: 4
@@ -106,7 +106,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約1.8円/枚"
     rating: 4.69
-    reviewCount: 4616
+    reviewCount: 4621
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -126,7 +126,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-07"
         price: 2180
         rating: 4.67
         reviewCount: 1015
@@ -170,7 +170,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.3円/枚"
     rating: 4.84
-    reviewCount: 2672
+    reviewCount: 2673
     features:
       - "99.9%の純水成分で肌に優しい"
       - "厚手シートで吸収性が優れている"
@@ -203,7 +203,7 @@ products:
     capacity: "54枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.62
-    reviewCount: 3815
+    reviewCount: 3817
     features:
       - "菌を99.9%除去する除菌処理"
       - "厚手タイプで吸収性が高い"
@@ -226,7 +226,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e170"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-07"
         rating: 4.7
         reviewCount: 961
   - rank: 8
@@ -236,7 +236,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.41
-    reviewCount: 1633
+    reviewCount: 1636
     features:
       - "トイレに流せる素材で処理が簡単"
       - "菌を99.9%除去する除菌効果"
@@ -259,9 +259,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-07"
         rating: 4.61
-        reviewCount: 1028
+        reviewCount: 1030
   - rank: 9
     name: "おしり拭き 流せる シート 純水99.9% W保湿成分配合"
     brand: "Lec.Be"
@@ -269,7 +269,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.55
-    reviewCount: 368
+    reviewCount: 369
     features:
       - "純水99.9%で肌に優しい処方"
       - "流せるシートで処理が簡単"
@@ -289,10 +289,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe241.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-07"
         price: 2120
         rating: 4.61
-        reviewCount: 1028
+        reviewCount: 1030
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
   - rank: 10
@@ -302,7 +302,7 @@ products:
     capacity: "56枚×12個（672枚）"
     pricePerUnit: "約4.7円/枚"
     rating: 4.79
-    reviewCount: 2914
+    reviewCount: 2915
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -322,7 +322,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcherubin-shopp%2Fks058ad589c4.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-07"
         price: 2978
         rating: 4.5
         reviewCount: 6

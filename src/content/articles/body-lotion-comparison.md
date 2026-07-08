@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: 2026-07-06
+updatedAt: 2026-07-08
 draft: false
 products:
   - rank: 1
@@ -234,7 +234,7 @@ products:
     capacity: "350ml"
     pricePerUnit: "約8.8円/ml"
     rating: 4.75
-    reviewCount: 607
+    reviewCount: 608
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"
@@ -274,9 +274,9 @@ products:
   - rank: 10
     name: "ヴァセリン アドバンスドリペア ボディローション 3本セット(500mlx3) バセ"
     brand: "ヴァセリン"
-    price: 2240
+    price: 2228
     capacity: "3本"
-    pricePerUnit: "約747円/本"
+    pricePerUnit: "約743円/本"
     rating: 4.78
     reviewCount: 505
     features:

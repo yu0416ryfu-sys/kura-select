@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: 2026-07-06
+updatedAt: "2026-07-08"
 products:
   - rank: 1
     name: "旭化成 サランラップ 家庭用 22cm×50m"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r030-4901670110197.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-07"
         price: 16357
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r030-4901670110197"
         available: true
@@ -95,9 +95,9 @@ products:
   - rank: 4
     name: "【ケース販売】サランラップ 業務用 BOXタイプ 30cm×"
     brand: "旭化成（サランラップ）"
-    price: 13585
+    price: 13090
     capacity: "50m"
-    pricePerUnit: "約272円/m"
+    pricePerUnit: "約262円/m"
     rating: 4.83
     reviewCount: 82
     features:
@@ -241,8 +241,8 @@ products:
     price: 1499
     capacity: "22cm×50m×3本"
     pricePerUnit: "0円/m"
-    rating: 4.62
-    reviewCount: 34
+    rating: 4.63
+    reviewCount: 35
     features:
       - "クレハのポリ塩化ビニリデン製ラップ・22cmまとめ買い3本セット"
       - "のこぎり刃でカットしやすい設計"

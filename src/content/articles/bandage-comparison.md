@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ9選を1枚あた�
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: 2026-07-08
 draft: false
 products:
   - rank: 1
@@ -35,8 +35,8 @@ products:
     price: 966
     capacity: "100枚"
     pricePerUnit: "約9.7円/枚"
-    rating: 4.87
-    reviewCount: 71
+    rating: 4.88
+    reviewCount: 72
     features:
       - "肌になじみやすい素肌タイプの絆創膏"
       - "Mサイズ100枚入りの定番パック"
