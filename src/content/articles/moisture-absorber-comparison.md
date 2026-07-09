@@ -4,7 +4,7 @@ description: "除湿剤を吸湿量あたりのコストで徹底比較。水と
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-07-08
+updatedAt: "2026-07-09"
 products:
   - rank: 1
     name: "Yoitas 天然竹炭パック"
@@ -13,7 +13,7 @@ products:
     capacity: "8個"
     pricePerUnit: "約310円/個"
     rating: 4.55
-    reviewCount: 1043
+    reviewCount: 1044
     features:
       - "湿気対策に使える除湿・調湿アイテム"
       - "クローゼットや押入れに置きやすい"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r001-4547691783899.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-09"
         price: 822
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r001-4547691783899"
         available: true
@@ -68,7 +68,7 @@ products:
     capacity: "5個"
     pricePerUnit: "約660円/個"
     rating: 4.61
-    reviewCount: 5205
+    reviewCount: 5207
     features:
       - "湿気対策に使える除湿・調湿アイテム"
       - "クローゼットや押入れに置きやすい"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamayuu%2Fsumi8-smart-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-09"
         price: 3300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamayuu_sumi8-smart-5"
         available: true
@@ -123,7 +123,7 @@ products:
     capacity: "5個"
     pricePerUnit: "約1211円/個"
     rating: 4.56
-    reviewCount: 2187
+    reviewCount: 2188
     features:
       - "湿気対策に使える除湿・調湿アイテム"
       - "クローゼットや押入れに置きやすい"
@@ -145,7 +145,7 @@ products:
     capacity: "12L大袋×4個セット"
     pricePerUnit: "約0.05円/mL"
     rating: 4.66
-    reviewCount: 1069
+    reviewCount: 1071
     features:
       - "調湿木炭で繰り返し使える環境にやさしい除湿剤"
       - "天日干しで吸湿力が復活するため長期間使用可能"
@@ -167,7 +167,7 @@ products:
     capacity: "550mL×45個（24,750mL分）"
     pricePerUnit: "約0.17円/mL"
     rating: 4.82
-    reviewCount: 244
+    reviewCount: 245
     features:
       - "国内定番の大容量タンクタイプ除湿剤"
       - "強力脱臭・防臭・防カビ効果"

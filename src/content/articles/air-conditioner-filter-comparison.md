@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-07-08
+updatedAt: 2026-07-09
 draft: false
 products:
   - rank: 1

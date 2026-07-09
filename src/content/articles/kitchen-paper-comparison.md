@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-07-08
+updatedAt: 2026-07-09
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"

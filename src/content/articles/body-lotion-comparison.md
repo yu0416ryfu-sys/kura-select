@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: 2026-07-08
+updatedAt: 2026-07-09
 draft: false
 products:
   - rank: 1

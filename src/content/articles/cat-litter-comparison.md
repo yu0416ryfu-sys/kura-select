@@ -4,7 +4,7 @@ description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペ
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: 2026-07-08
+updatedAt: 2026-07-09
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "7L×6袋（42L）"
     pricePerUnit: "約78円/L"
     rating: 4.21
-    reviewCount: 5615
+    reviewCount: 5616
     features:
       - "アイリスオーヤマ製のペレットタイプ紙製猫砂"
       - "燃えるゴミとして廃棄可能・トイレへの廃棄にも対応"
@@ -168,7 +168,7 @@ products:
     capacity: "7L×4袋（28L）"
     pricePerUnit: "約114円/L"
     rating: 4.35
-    reviewCount: 2237
+    reviewCount: 2238
     features:
       - "炭配合の木質系猫砂、固まるタイプ"
       - "燃えるゴミとして廃棄可能"
@@ -223,7 +223,7 @@ products:
     capacity: "5L×4袋（20L）"
     pricePerUnit: "約144円/L"
     rating: 4.68
-    reviewCount: 2366
+    reviewCount: 2367
     features:
       - "ベントナイト鉱物系・固まるタイプの消臭猫砂"
       - "大手メーカーライオンによる消臭設計"

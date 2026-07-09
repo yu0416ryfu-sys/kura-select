@@ -3,7 +3,7 @@ title: "フロッシュとヤシノミ洗剤を徹底比較【2026年版】コ�
 description: "フロッシュとヤシノミ洗剤（サラヤ）の違いを1mLあたりの単価・手肌へのやさしさ・食材洗浄対応・環境配慮の4軸で徹底比較。どっちを選ぶべきか、用途別の使い分けまで解説します。価格は毎週自動更新。"
 category: "dish-detergent"
 publishedAt: "2026-07-08"
-updatedAt: 2026-07-08
+updatedAt: "2026-07-09"
 articleType: "comparison"
 products:
   - rank: 1
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgyy-shop%2F11019-frosch-aloe-vera-dish-detergent-1000mlx4.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-09"
         price: 2799
         rating: 0
         reviewCount: 1
@@ -61,6 +61,17 @@ products:
     recommendedFor: "敏感肌・手荒れが心配な方・食材も洗いたい方・エコ志向の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe445699h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10537497%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/477/4973512320477.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkireshop%2Fa4973512320477.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-09"
+        price: 377
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kireshop_a4973512320477"
+        available: true
 tags:
   - "食器用洗剤"
   - "フロッシュ"

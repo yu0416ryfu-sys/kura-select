@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-08
+updatedAt: "2026-07-09"
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"
@@ -130,9 +130,9 @@ products:
   - rank: 5
     name: "さらさ 洗濯洗剤 詰め替え"
     brand: "P&G（さらさ）"
-    price: 8485
+    price: 7520
     capacity: "1490g"
-    pricePerUnit: "約5.7円/g"
+    pricePerUnit: "約5.0円/g"
     rating: 4.56
     reviewCount: 259
     features:
@@ -223,13 +223,13 @@ products:
       - "頑固な黄ばみへの効果は漂白剤との併用が必要"
     recommendedFor: "毎日の洗濯を手軽にこなしたい方・花王ブランドの品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4uxn.3rdw6e6c.g00u4uxn.3rdw78a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvlookupstore%2Fgr-e9e3qr3zez%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvlookupstore%2Fi%2F10474445%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/vlookupstore/cabinet/g/14/e9e3qr3zez.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/vlookupstore/cabinet/g/14/e9e3qr3zez-1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwellness-web%2F10184200.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-09"
         price: 547
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wellness-web_10184200"
         available: true
@@ -284,7 +284,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F574939.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-07-09"
         price: 3960
         rating: 0
         reviewCount: 0

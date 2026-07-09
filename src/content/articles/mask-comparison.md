@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: 2026-07-08
+updatedAt: 2026-07-09
 products:
   - rank: 1
     name: "立体不織布マスク バイカラー 50枚"
@@ -125,7 +125,7 @@ products:
       - "色や形状の好みは分かれる"
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5hnn.3rdw6544.g00s5hnn.3rdw7f71/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falice-zk%2Fny263%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falice-zk%2Fi%2F10002994%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/alice-zk/cabinet/ny04/ny263n69.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/alice-zk/cabinet/mk/ny263-j.jpg?_ex=128x128"
   - rank: 6
     name: "改良版 不織布プリーツマスク"
     brand: "SHINKO"
