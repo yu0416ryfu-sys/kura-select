@@ -33,8 +33,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F501277.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
-        price: 1637
+        updatedAt: "2026-07-10"
+        price: 1796
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_501277"
         available: true
         rating: 0
@@ -66,8 +66,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F10053002.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-04"
-        price: 6956
+        updatedAt: "2026-07-10"
+        price: 7630
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_10053002"
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgyy-shop%2F11019-frosch-aloe-vera-dish-detergent-1000mlx4.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-10"
         price: 2799
         rating: 0
         reviewCount: 1
@@ -219,8 +219,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkireshop%2Fa4973512320477.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-09"
+        matchStatus: "matched"
+        updatedAt: "2026-07-10"
         price: 377
         rating: 0
         reviewCount: 0
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcooking-clocca%2Fsomali-40542.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-10"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cooking-clocca_somali-40542"
         available: true

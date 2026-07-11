@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-07-08"
+updatedAt: 2026-07-11
 products:
   - rank: 1
     name: "ニベア ハンドクリーム 75g"
@@ -67,7 +67,7 @@ products:
     capacity: "35g"
     pricePerUnit: "約19円/g"
     rating: 4.51
-    reviewCount: 411
+    reviewCount: 412
     features:
       - "100%ピュアシアバターを精製したオーガニック処方"
       - "9種類の香りから選べるセレクト仕様"
@@ -213,7 +213,7 @@ products:
       - "香りの好みが分かれる"
     recommendedFor: "手肌と爪のケアを一緒にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptgvn.3rdw63b1.g00ptgvn.3rdw7403/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmahou-soap%2F381899%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmahou-soap%2Fi%2F10000423%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mahou-soap/cabinet/fresh_aroma/handcream/product/product-point.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mahou-soap/cabinet/fresh_aroma/handcream/product/product.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -253,8 +253,8 @@ products:
     price: 1120
     capacity: "30mL"
     pricePerUnit: "約37円/mL"
-    rating: 4.52
-    reviewCount: 802
+    rating: 4.51
+    reviewCount: 804
     features:
       - "香水のような香りを楽しめるパフューム処方のハンドクリーム"
       - "5種類の香りから選べるセレクト仕様"

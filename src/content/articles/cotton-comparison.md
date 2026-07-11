@@ -4,7 +4,7 @@ description: "コットンを1枚あたりのコストで徹底比較。最安�
 category: "cotton"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-06-23"
+updatedAt: "2026-07-11"
 products:
   - rank: 1
     name: "コットンパフ カット綿 大判"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhenojikan%2Feye058.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-10"
         price: 2585
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthenojikan_eye058"
         available: true
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhemart%2Fetf-cotton68.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-10"
         price: 1833
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthemart_etf-cotton68"
         available: true
@@ -133,8 +133,8 @@ products:
     price: 780
     capacity: "50枚×2個"
     pricePerUnit: "約7.8円/枚"
-    rating: 4.78
-    reviewCount: 9
+    rating: 4.8
+    reviewCount: 10
     features:
       - "使い捨てタイプのコットンパフ"
       - "国内製造のパフとして扱いやすい構成"
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10034333.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-10"
         price: 565
         rating: 0
         reviewCount: 0

@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frcmdsp%2Fkr-4902011711400.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-11"
         price: 850
         rating: 0
         reviewCount: 0

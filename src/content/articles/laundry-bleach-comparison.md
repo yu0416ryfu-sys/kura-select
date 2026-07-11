@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-09"
+updatedAt: "2026-07-11"
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"
@@ -13,7 +13,7 @@ products:
     capacity: "1100g×8個セット"
     pricePerUnit: "約0.45円/g"
     rating: 4.77
-    reviewCount: 224
+    reviewCount: 225
     features:
       - "ベビーフローラルの心地よい香りが特徴の液体洗剤"
       - "洗浄力・消臭・抗菌の三機能を一本で実現"
@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-11"
         price: 3978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
         available: true
         rating: 5
-        reviewCount: 12
+        reviewCount: 13
   - rank: 2
     name: "トップ クリアリキッド 詰め替え"
     brand: "ライオン（トップ）"
@@ -66,10 +66,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4903301250418.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-11"
         price: 5016
-        rating: 4.47
-        reviewCount: 30
+        rating: 4.48
+        reviewCount: 31
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4903301250418"
         available: true
   - rank: 3
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhikaritv%2F2010126844.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-11"
         price: 8280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010126844"
         available: true
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-11"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -284,7 +284,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F574939.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-11"
         price: 3960
         rating: 0
         reviewCount: 0

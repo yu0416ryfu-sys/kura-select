@@ -4,13 +4,13 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: 2026-07-09
+updatedAt: "2026-07-11"
 draft: false
 products:
   - rank: 1
     name: "ヴァセリン アドバンスドリペア ボディローション 500ml×3本 フェイス ボディ"
     brand: "ヴァセリン"
-    price: 2240
+    price: 2198
     capacity: "500ml×3"
     pricePerUnit: "約1.5円/mL"
     rating: 4.77
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4902111777009-3.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-05"
+        updatedAt: "2026-07-10"
         price: 2298
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4902111777009-3"
         available: true
@@ -133,10 +133,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbettysbeauty%2F10910012.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
-        price: 1499
-        rating: 4.49
-        reviewCount: 150
+        updatedAt: "2026-07-10"
+        price: 1497
+        rating: 4.5
+        reviewCount: 151
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bettysbeauty_10910012"
         available: true
   - rank: 5
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4971710568530.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-10"
         price: 2028
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4971710568530"
         available: true
@@ -221,10 +221,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10161795.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-10"
         price: 2899
         rating: 4.74
-        reviewCount: 34
+        reviewCount: 35
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10161795"
         available: true
   - rank: 8

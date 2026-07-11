@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-09
+updatedAt: "2026-07-11"
 products:
   - rank: 1
     name: "ニッカルフレッシュ 鮮度保持袋"
@@ -55,8 +55,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fy40954.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-23"
-        price: 108
+        updatedAt: "2026-07-11"
+        price: 95
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_y40954"
         available: true
         rating: 5
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4997495112409.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-11"
         price: 182
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4997495112409"
         available: true
@@ -189,7 +189,7 @@ products:
     capacity: "10枚〜50枚（サイズ・枚数選択可）"
     pricePerUnit: "約57円/枚"
     rating: 4.76
-    reviewCount: 155
+    reviewCount: 157
     features:
       - "アルミ素材により防湿・遮光・防臭効果を発揮"
       - "マチ付き構造で自立可能な設計"
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkomonosennka%2F2112mn124.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-11"
         price: 980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/komonosennka_2112mn124"
         available: true

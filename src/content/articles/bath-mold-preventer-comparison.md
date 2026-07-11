@@ -4,7 +4,7 @@ description: "お風呂防カビ剤を1回あたりのコストで比較。く�
 category: "bath-mold-preventer"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: 2026-07-09
+updatedAt: "2026-07-11"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r003-4903301221043.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-10"
         price: 5911
         rating: 0
         reviewCount: 0
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r005-4901080080714.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-10"
         price: 6508
         rating: 0
         reviewCount: 0
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903301187240.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-10"
         price: 1581
         rating: 4.38
         reviewCount: 29
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903301187240.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-10"
         price: 1581
         rating: 4.38
         reviewCount: 29

@@ -4,7 +4,7 @@ description: "日焼け止めを1mLあたりのコストで徹底比較。ビオ
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-09"
+updatedAt: "2026-07-11"
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -31,14 +31,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987241190867.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4987241190867.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-07"
-        price: 1030
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987241190867"
+        updatedAt: "2026-07-11"
+        price: 858
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4987241190867"
         available: true
-        rating: 0
-        reviewCount: 2
+        rating: 4.63
+        reviewCount: 8
   - rank: 2
     name: "花王 ニベアUV　ニベアサン ウォータージェル SPF50 詰替え"
     brand: "花王（ニベア）"
@@ -64,14 +64,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301298706.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F103-4901301298706.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-07"
-        price: 920
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301298706"
+        updatedAt: "2026-07-11"
+        price: 962
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_103-4901301298706"
         available: true
         rating: 0
-        reviewCount: 1
+        reviewCount: 0
   - rank: 3
     name: "ビオレUV アクアリッチ ウォータリーエッセンス 120g"
     brand: "花王（ビオレ）"
@@ -134,7 +134,7 @@ products:
     capacity: "50g"
     pricePerUnit: "約62円/g"
     rating: 4.85
-    reviewCount: 3649
+    reviewCount: 3660
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

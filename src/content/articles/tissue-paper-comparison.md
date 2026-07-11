@@ -4,7 +4,7 @@ description: "ティッシュペーパーを1組あたりの価格で徹底比�
 category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: 2026-07-09
+updatedAt: "2026-07-11"
 products:
   - rank: 1
     name: "ハロー ソフトパックティッシュ"
@@ -35,7 +35,7 @@ products:
     capacity: "150組×50個"
     pricePerUnit: "約0.36円/組"
     rating: 4.54
-    reviewCount: 785
+    reviewCount: 786
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"
@@ -57,7 +57,7 @@ products:
     capacity: "200組×80個"
     pricePerUnit: "約0.41円/組"
     rating: 4.66
-    reviewCount: 1282
+    reviewCount: 1283
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flefutur%2Fscottie500.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-11"
         price: 6520
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lefutur_scottie500"
         available: true
@@ -211,7 +211,7 @@ products:
     capacity: "200枚（100組）×12箱"
     pricePerUnit: "約4.4円/組"
     rating: 4.64
-    reviewCount: 686
+    reviewCount: 688
     features:
       - "パルプ100%の柔らかな2枚重ね"
       - "エリエールブランドの高品質"

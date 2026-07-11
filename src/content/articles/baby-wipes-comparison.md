@@ -4,7 +4,7 @@ description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-07-09
+updatedAt: "2026-07-11"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.78
-    reviewCount: 7698
+    reviewCount: 7714
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -29,6 +29,17 @@ products:
     recommendedFor: "おしりふきをまとめて備えておきたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgivn.3rdw6956.g00tgivn.3rdw72f6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpigeon-shop%2F2000363s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpigeon-shop%2Fi%2F10001747%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pigeon-shop/cabinet/thumb/11827558/1039243.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpigeon-shop%2F2000363s.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-10"
+        price: 4070
+        rating: 4.78
+        reviewCount: 1478
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_2000363s"
+        available: true
   - rank: 2
     name: "グーン 肌にやさしい おしりふき"
     brand: "グーン"
@@ -61,7 +72,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_20661"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-07-10"
         rating: 0
         reviewCount: 0
   - rank: 3
@@ -96,7 +107,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4903111159802-4"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-10"
         rating: 4.56
         reviewCount: 9
   - rank: 4
@@ -106,7 +117,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約1.8円/枚"
     rating: 4.69
-    reviewCount: 4625
+    reviewCount: 4627
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -126,8 +137,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-07"
-        price: 2180
+        updatedAt: "2026-07-10"
+        price: 1962
         rating: 4.67
         reviewCount: 1015
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
@@ -139,7 +150,7 @@ products:
     capacity: "80枚×24個"
     pricePerUnit: "約2.1円/枚"
     rating: 4.52
-    reviewCount: 1296
+    reviewCount: 1297
     features:
       - "綿99.5%のパフ素材で優しい触り心地"
       - "リサイクル繊維配合で環境配慮"
@@ -170,7 +181,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.3円/枚"
     rating: 4.84
-    reviewCount: 2676
+    reviewCount: 2679
     features:
       - "99.9%の純水成分で肌に優しい"
       - "厚手シートで吸収性が優れている"
@@ -226,7 +237,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e170"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-10"
         rating: 4.7
         reviewCount: 961
   - rank: 8
@@ -236,7 +247,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.41
-    reviewCount: 1639
+    reviewCount: 1640
     features:
       - "トイレに流せる素材で処理が簡単"
       - "菌を99.9%除去する除菌効果"
@@ -302,7 +313,7 @@ products:
     capacity: "56枚×12個（672枚）"
     pricePerUnit: "約4.7円/枚"
     rating: 4.79
-    reviewCount: 2919
+    reviewCount: 2924
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -322,7 +333,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcherubin-shopp%2Fks058ad589c4.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-10"
         price: 2978
         rating: 4.5
         reviewCount: 6

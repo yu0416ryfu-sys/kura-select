@@ -4,7 +4,7 @@ description: "おりものシート（パンティライナー）のおすすめ
 category: "panty-liner"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: 2026-07-09
+updatedAt: "2026-07-11"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbenkyoudou%2Fso-4903111364244.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-11"
         price: 314
         rating: 5
         reviewCount: 3
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4903111364244.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-11"
         price: 246
         rating: 0
         reviewCount: 1
@@ -121,8 +121,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4903111375677.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        matchStatus: "matched"
+        updatedAt: "2026-07-11"
         price: 328
         rating: 0
         reviewCount: 0
@@ -155,8 +155,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903111316083.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
-        price: 283
+        updatedAt: "2026-07-11"
+        price: 292
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903111316083"
@@ -168,7 +168,7 @@ products:
     capacity: "112枚"
     pricePerUnit: "約7.8円/枚"
     rating: 4.7
-    reviewCount: 165
+    reviewCount: 166
     features:
       - "表面に綿100%を使用した無香料タイプ"
       - "1枚ずつの個別包装"
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4987072009741.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-11"
         price: 691
         rating: 4.78
         reviewCount: 9
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flamp%2Fkasar-13.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-11"
         price: 740
         rating: 0
         reviewCount: 0

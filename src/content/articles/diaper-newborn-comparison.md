@@ -4,7 +4,7 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: 2026-07-11
 products:
   - rank: 1
     name: "グーンプラス テープ 新生児 4個セット"
@@ -265,8 +265,8 @@ products:
     price: 3190
     capacity: "36枚（サイズ1・2〜4kg）"
     pricePerUnit: "約89円/枚"
-    rating: 4.75
-    reviewCount: 55
+    rating: 4.74
+    reviewCount: 57
     features:
       - "オーガニック系のプレミアム紙おむつ"
       - "テープ/パンツの案内がある海外ブランド"

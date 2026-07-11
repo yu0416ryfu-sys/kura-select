@@ -4,16 +4,16 @@ description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分�
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-09"
+updatedAt: "2026-07-11"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
     brand: "HEIKO"
-    price: 1240
+    price: 1220
     capacity: "300枚"
     pricePerUnit: "約4.1円/枚"
     rating: 4.76
-    reviewCount: 1544
+    reviewCount: 1547
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -42,7 +42,7 @@ products:
   - rank: 2
     name: "HEIKO PPパン袋 20-30 300枚"
     brand: "HEIKO"
-    price: 1260
+    price: 1255
     capacity: "300枚"
     pricePerUnit: "約4.2円/枚"
     rating: 4.85
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F7276048.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-11"
         price: 1000
         rating: 4
         reviewCount: 4
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpoly-life%2Fkpl-450-2pc.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-11"
         price: 2580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/poly-life_kpl-450-2pc"
         available: true

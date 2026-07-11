@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901609016491.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-11"
         price: 982
         rating: 4.6
         reviewCount: 5
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4902424441727.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-11"
         price: 450
         rating: 4.43
         reviewCount: 7
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsukoyakakomachi%2Faqarfa1l.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-11"
         price: 1540
         rating: 4.92
         reviewCount: 12

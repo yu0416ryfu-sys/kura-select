@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftuuhan-tamashop%2F4902111773926.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-10"
         price: 360
         rating: 0
         reviewCount: 0
@@ -253,12 +253,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk0602-a2510.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-10"
         price: 1556
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk0602-a2510"
         available: true
         rating: 0
-        reviewCount: 0
+        reviewCount: 1
   - rank: 9
     name: "パルガ ヘアコンディショナー アクアリッチ 500g 詰替"
     brand: "パルガ"

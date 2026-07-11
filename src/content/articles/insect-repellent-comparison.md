@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: 2026-07-09
+updatedAt: "2026-07-11"
 draft: false
 products:
   - rank: 1
@@ -243,7 +243,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyoga-pi%2Fperfect-potion-110931cd-125.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-11"
         price: 1870
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yoga-pi_perfect-potion-110931cd-125"
         available: true
