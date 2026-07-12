@@ -18,7 +18,7 @@ if (items.length < 2) return;
 
 <nav aria-label="記事の目次" class:list={["bg-[var(--color-surface)] border border-[var(--color-border)] rounded-xl p-5", className]}>
   <p class="font-bold text-[var(--color-text)] mb-3 text-sm">目次</p>
-  <ol class="space-y-1">
+  <ol class="space-y-1 min-h-0 overflow-y-auto">
     {items.map((item) => (
       <li class:list={[item.depth === 3 && "pl-4"]}>
         <a

@@ -341,14 +341,15 @@ const productJsonLds = data.products
         </div>
       </article>
 
-      <!-- サイドバー -->
+      <!-- サイドバー（デスクトップ: 目次+関連記事を一体でスクロール追従。目次のみ内側スクロールで縮む） -->
       <aside>
+        <div class="lg:sticky lg:top-6 lg:flex lg:flex-col lg:gap-8 lg:max-h-[calc(100vh-3rem)]">
         <!-- 目次（デスクトップ: サイドバー上部） -->
-        <ArticleToc items={tocItems} class="hidden lg:block lg:sticky lg:top-6" />
+        <ArticleToc items={tocItems} class="hidden lg:flex lg:flex-col lg:min-h-0" />
 
         <!-- 関連記事 -->
         {relatedArticles.length > 0 && (
-          <div class="mt-8 bg-[var(--color-surface)] rounded-xl p-5 border border-[var(--color-border)]">
+          <div class="mt-8 lg:mt-0 lg:shrink-0 bg-[var(--color-surface)] rounded-xl p-5 border border-[var(--color-border)]">
             <h2 class="font-bold text-[var(--color-text)] mb-4">関連記事</h2>
             <ul class="space-y-3">
               {relatedArticles.slice(0, 3).map((a) => (
@@ -367,6 +368,7 @@ const productJsonLds = data.products
             </ul>
           </div>
         )}
+        </div>
       </aside>
     </div>
   </Container>
