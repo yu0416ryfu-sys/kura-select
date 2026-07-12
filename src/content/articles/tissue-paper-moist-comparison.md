@@ -32,13 +32,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frcmdsp%2Fkr-4902011711400.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fminoku-max%2F1758944739-1-b.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-11"
-        price: 850
+        updatedAt: "2026-07-12"
+        price: 973
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rcmdsp_kr-4902011711400"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/minoku-max_1758944739-1-b"
         available: true
   - rank: 2
     name: "ネピア 鼻セレブ 200組×20箱 まとめ買い"
@@ -142,13 +142,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4902011714425.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758946401-1-d.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-09"
-        price: 154
+        updatedAt: "2026-07-12"
+        price: 359
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4902011714425"
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhan-okusuri_1758946401-1-d"
         available: true
   - rank: 6
     name: "鼻セレブ プレミアム ティッシュ 130組×10個"
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-w001-4901988104055.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 123
         rating: 0
         reviewCount: 0

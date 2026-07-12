@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: 2026-07-11
+updatedAt: "2026-07-12"
 draft: false
 products:
   - rank: 1
@@ -34,8 +34,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4902806127973.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
-        price: 337
+        updatedAt: "2026-07-12"
+        price: 334
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4902806127973"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4550516475473.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-12"
         price: 458
         rating: 5
         reviewCount: 4
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatata12121%2Fdeodorantshawarshirt-ag24-kosme-4550516493194-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-12"
         price: 880
         rating: 0
         reviewCount: 0
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzagzag%2F4901301396570-3.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-12"
         price: 1000
         rating: 5
         reviewCount: 5
@@ -199,7 +199,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F612-8545-103.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 1259
         rating: 0
         reviewCount: 0
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkusurinofukutaro%2F10164409.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 378
         rating: 0
         reviewCount: 1
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188322109.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 1485
         rating: 4.2
         reviewCount: 5

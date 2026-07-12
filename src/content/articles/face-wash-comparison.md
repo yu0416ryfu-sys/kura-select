@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-11
+updatedAt: "2026-07-12"
 products:
   - rank: 1
     name: "ビオレ おうちdeエステ マッサージ洗顔ジェル 150g"
@@ -134,7 +134,7 @@ products:
     capacity: "110g"
     pricePerUnit: "約18円/g"
     rating: 4.6
-    reviewCount: 1808
+    reviewCount: 1809
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyua-shop%2Fl01-045.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 2500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yua-shop_l01-045"
         available: true
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flesthemo%2Fsoap150g.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 2680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lesthemo_soap150g"
         available: true

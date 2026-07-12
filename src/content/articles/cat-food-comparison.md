@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: 2026-07-11
+updatedAt: "2026-07-12"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4904879658255-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 968
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4904879658255-1"
         available: true
@@ -113,7 +113,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1.6円/g"
     rating: 4.65
-    reviewCount: 677
+    reviewCount: 678
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

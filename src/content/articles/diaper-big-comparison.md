@@ -267,7 +267,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171675x6"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-12"
         rating: 0
         reviewCount: 2
   - rank: 9
@@ -300,9 +300,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171750x6"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-12"
         rating: 0
-        reviewCount: 0
+        reviewCount: 1
   - rank: 10
     name: "あんしんGenki！パンツ ビッグ"
     brand: "アイリスオーヤマ"

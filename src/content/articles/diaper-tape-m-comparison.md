@@ -108,14 +108,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9673092.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134288-case.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-09"
-        price: 7348
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9673092"
+        updatedAt: "2026-07-12"
+        price: 8800
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134288-case"
         available: true
-        rating: 0
-        reviewCount: 0
+        rating: 4.93
+        reviewCount: 86
   - rank: 5
     name: "パンパース はじめての肌へのいちばん テープ Mサイズ"
     brand: "P&G（パンパース）"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9662265.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 6283
         rating: 0
         reviewCount: 1

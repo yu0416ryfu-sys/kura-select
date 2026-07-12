@@ -4,7 +4,7 @@ description: "コンディショナーを1mLあたりのコストで徹底比較
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-09"
+updatedAt: 2026-07-12
 products:
   - rank: 1
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
@@ -167,7 +167,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約35円/mL"
     rating: 4.76
-    reviewCount: 1573
+    reviewCount: 1575
     features:
       - "くせ毛・広がりケア向けのトリートメントマスク"
       - "インバスで使うヘアマスク"
@@ -194,11 +194,11 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_3474636636761-01"
         available: true
   - rank: 7
-    name: "ユニリーバ LUX スーパーリッチシャイン ダメージリペア コンディショナー つめかえ用 290g"
+    name: "ラックス スーパーリッチシャイン ダメージリペア コンディショナー つめかえ用 290g"
     brand: "ユニリーバ（LUX）"
-    price: 440
+    price: 299
     capacity: "290g"
-    pricePerUnit: "約1.5円/g"
+    pricePerUnit: "約1.0円/g"
     rating: 5
     reviewCount: 7
     features:
@@ -213,7 +213,7 @@ products:
       - "シリコン配合のためボリュームが出にくい"
       - "脂性肌の方にはやや重い"
     recommendedFor: "ツヤ髪を目指す方・香りを楽しみたい方・パサつきが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902111773964%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12451828%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902111773964-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12461321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2023a/4902111773964.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
@@ -280,7 +280,7 @@ products:
       - "500g容量で頻繁な購入が必要"
     recommendedFor: "細い髪の方・サロン品質のコンディショナーを求める方・継続的なダメージケアを行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000013%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_ar500_p10.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989115/parga_2026_ar500.jpg?_ex=128x128"
   - rank: 10
     name: "パルガ ヘアコンディショナー ソフトリッチR 500g 詰替"
     brand: "パルガ"
@@ -302,7 +302,7 @@ products:
       - "一般流通が限られる"
     recommendedFor: "硬い髪の方・ふんわり感よりまとまりを求める方・継続的なケアを行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_sr500_p10.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989115/parga_2026_sr500.jpg?_ex=128x128"
 tags:
   - "コンディショナー"
   - "コスパ"

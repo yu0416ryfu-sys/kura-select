@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ5選を1回�
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: 2026-07-11
+updatedAt: "2026-07-12"
 draft: false
 products:
   - rank: 1
@@ -51,6 +51,17 @@ products:
     recommendedFor: "個包装で扱いやすい備蓄を求める家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn9rn.3rdw6540.g00qn9rn.3rdw7b64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fozoneassocia%2Ftoilet10002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fozoneassocia%2Fi%2F10001672%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ozoneassocia/cabinet/makefan/rescue-newbnr.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fozoneassocia%2Ftoilet100.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-12"
+        price: 3980
+        rating: 4.25
+        reviewCount: 208
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ozoneassocia_toilet100"
+        available: true
   - rank: 3
     name: "非常用トイレ 100回分 半永久保存 防災トイレ"
     brand: "Life Reach"
@@ -73,6 +84,17 @@ products:
     recommendedFor: "長期保存でまとめて備蓄したい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tivgn.3rdw607f.g00tivgn.3rdw7cf0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupplement-life%2F100pol1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupplement-life%2Fi%2F10000035%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/supplement-life/cabinet/plm1/a100.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2F100pol1.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-12"
+        price: 4999
+        rating: 4.5
+        reviewCount: 959
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_100pol1"
+        available: true
   - rank: 4
     name: "非常用トイレ 炭入り 100回分 半永久保存 防災トイレ"
     brand: "Life Reach"
@@ -95,6 +117,17 @@ products:
     recommendedFor: "室内使用でのにおい対策を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tivgn.3rdw607f.g00tivgn.3rdw7cf0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupplement-life%2Fps-100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupplement-life%2Fi%2F10000060%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/supplement-life/cabinet/plm1/b100.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2Fps-100.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-12"
+        price: 4999
+        rating: 4.53
+        reviewCount: 607
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
+        available: true
   - rank: 5
     name: "トイレの女神 PREMIUM 簡易トイレ 防災セット 2〜4人世帯向け"
     brand: "HACONO"

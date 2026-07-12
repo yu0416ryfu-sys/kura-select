@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-07-11"
+updatedAt: "2026-07-12"
 products:
   - rank: 1
     name: "立体不織布マスク バイカラー 50枚"
@@ -13,7 +13,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約5.3円/枚"
     rating: 4.19
-    reviewCount: 22106
+    reviewCount: 22108
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -67,7 +67,7 @@ products:
     capacity: "51枚"
     pricePerUnit: "約7.8円/枚"
     rating: 4.22
-    reviewCount: 5764
+    reviewCount: 5765
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -89,7 +89,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約9.0円/枚"
     rating: 4.19
-    reviewCount: 2340
+    reviewCount: 2341
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -111,7 +111,7 @@ products:
     capacity: "20枚"
     pricePerUnit: "約14円/枚"
     rating: 4.06
-    reviewCount: 9188
+    reviewCount: 9189
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -126,6 +126,17 @@ products:
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5hnn.3rdw6544.g00s5hnn.3rdw7f71/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falice-zk%2Fny263%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falice-zk%2Fi%2F10002994%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/alice-zk/cabinet/mk/ny263-j.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaskmore%2Fmm3dice020-.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-12"
+        price: 725
+        rating: 4.43
+        reviewCount: 61
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/maskmore_mm3dice020-"
+        available: true
   - rank: 6
     name: "改良版 不織布プリーツマスク"
     brand: "SHINKO"
@@ -175,7 +186,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-ife-reborn%2Fmask120kfst.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-11"
+        updatedAt: "2026-07-12"
         price: 2680
         rating: 5
         reviewCount: 3
@@ -230,7 +241,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft0090-01-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-11"
+        updatedAt: "2026-07-12"
         price: 2039
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t0090-01-a"
         available: true

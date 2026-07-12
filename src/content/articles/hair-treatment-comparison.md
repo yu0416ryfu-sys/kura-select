@@ -4,7 +4,7 @@ description: "コスパいいヘアトリートメントを1g・1mLあたりで�
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: 2026-07-11
+updatedAt: "2026-07-12"
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580632116943.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 1320
         rating: 0
         reviewCount: 2
@@ -100,7 +100,7 @@ products:
     price: 2380
     capacity: "180g"
     pricePerUnit: "約13円/g"
-    rating: 4.65
+    rating: 4.66
     reviewCount: 2248
     features:
       - "12種の植物成分を含む25種以上の植物由来成分配合"
@@ -115,7 +115,7 @@ products:
       - "180gとやや少なめの容量"
     recommendedFor: "成分・無添加にこだわりたい方・植物由来のナチュラルヘアケアを求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b07gkxh2ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000959%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/event/20260704m/905b07gkxh2ss-39.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/ctr/905b07gkxh2ss.jpg?_ex=128x128"
   - rank: 5
     name: "クイーンズバスルーム システムトリートメント Step1 Step2 各240g×2"
     brand: "クイーンズバスルーム"
@@ -123,7 +123,7 @@ products:
     capacity: "240g×2"
     pricePerUnit: "約14円/g"
     rating: 4.69
-    reviewCount: 625
+    reviewCount: 626
     features:
       - "Step1とStep2の2剤式で段階的にダメージを補修するシステムトリートメント"
       - "ケラチン・濃厚補修成分配合でハイダメージ・ブリーチ毛にアプローチ"
@@ -200,7 +200,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約35円/mL"
     rating: 4.76
-    reviewCount: 1573
+    reviewCount: 1575
     features:
       - "くせ毛ケア特化のディシプリンライン集中トリートメントマスク"
       - "湿気・広がり・アホ毛をまとめるポリマー・シーディ成分配合"
@@ -218,7 +218,7 @@ products:
   - rank: 9
     name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
     brand: "ファイントゥデイ（フィーノ）"
-    price: 2321
+    price: 2340
     capacity: "-"
     pricePerUnit: "-"
     rating: 5

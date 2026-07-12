@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: 2026-07-11
+updatedAt: 2026-07-12
 products:
   - rank: 1
     name: "メキシコダウニー アロマフローラル 8.5L×2本"

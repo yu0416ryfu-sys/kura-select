@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faroma-spray%2Fsp-bug-100-100e.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-12"
         price: 2980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aroma-spray_sp-bug-100-100e"
         available: true
@@ -243,7 +243,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyoga-pi%2Fperfect-potion-110931cd-125.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-11"
+        updatedAt: "2026-07-12"
         price: 1870
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yoga-pi_perfect-potion-110931cd-125"
         available: true

@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-07-04"
+updatedAt: "2026-07-12"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10137083.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-12"
         price: 206
         rating: 4.5
         reviewCount: 4
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale%2F4988787090024-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-12"
         price: 1680
         rating: 4.5
         reviewCount: 42
@@ -118,13 +118,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2F4573177599661-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10002537%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/c/c01292_6.jpg?_ex=128x128"
   - rank: 5
-    name: "トイレクイックル つめかえ用 まとめ買い"
+    name: "トイレクイックル つめかえ用 10枚×12パック"
     brand: "花王（クイックル）"
-    price: 2479
-    capacity: "10枚×12個（120枚）"
-    pricePerUnit: "約21円/枚"
-    rating: 4.64
-    reviewCount: 11
+    price: 2400
+    capacity: "10枚×12パック（120枚）"
+    pricePerUnit: "約20円/枚"
+    rating: 5
+    reviewCount: 1
     features:
       - "トイレ用の掃除シート"
       - "詰め替えやまとめ買い向けタイプ"
@@ -137,18 +137,18 @@ products:
       - "一度に流せる枚数を守る必要がある"
       - "乾燥しにくい保管方法を確認したい"
     recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u65wn.3rdw62a6.g00u65wn.3rdw75c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3-2%2F4901301264381%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3-2%2Fi%2F10003986%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3-2/cabinet/09920139/4901301264381.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00usdzn.3rdw6099.g00usdzn.3rdw7f54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosdmarket%2Fny0100264%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosdmarket%2Fi%2F10000286%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osdmarket/cabinet/imgrc0106901187.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwansa-kun-shop%2Fgeneral-bathroom-001.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F4901301510808.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-06"
-        price: 2360
+        updatedAt: "2026-07-12"
+        price: 3088
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wansa-kun-shop_general-bathroom-001"
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_4901301510808"
         available: true
   - rank: 6
     name: "エリエール ミチガエル トイレクリーナー 本体"
@@ -177,7 +177,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhome-life%2F101-30881.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
+        updatedAt: "2026-07-12"
         price: 333
         rating: 0
         reviewCount: 0
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F13193.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-11"
+        updatedAt: "2026-07-12"
         price: 1082
         rating: 4.44
         reviewCount: 55

@@ -4,7 +4,7 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: 2026-07-11
+updatedAt: "2026-07-12"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "400枚（200組）×60箱"
     pricePerUnit: "約0.42円/組"
     rating: 4.75
-    reviewCount: 494
+    reviewCount: 496
     features:
       - "シンプルなホワイトパッケージの定番箱タイプ"
       - "200組のスタンダードな2枚重ね"
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkyoto23%2F10001789.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 5178
         rating: 4.58
         reviewCount: 36
@@ -65,11 +65,11 @@ products:
   - rank: 3
     name: "スコッティ ティッシュ 200組 60箱"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5016
-    capacity: "200組×60箱"
-    pricePerUnit: "約0.42円/組"
-    rating: 4.87
-    reviewCount: 164
+    price: 5199
+    capacity: "200組×60箱（12,000組）"
+    pricePerUnit: "約0.43円/組"
+    rating: 4.79
+    reviewCount: 1575
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -82,8 +82,8 @@ products:
       - "紙質や肌ざわりは好みが分かれる"
       - "大容量品は置き場所の確認が必要"
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F768-7464%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10633204%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin700_02/768-7464.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F13336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10024833%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/020/main-13336_t.jpg?_ex=128x128"
   - rank: 4
     name: "スコッティ ティッシュペーパー 200組5箱×12パック"
     brand: "日本製紙クレシア（スコッティ）"
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flefutur%2Fscottie500.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 6520
         rating: 0
         reviewCount: 1

@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-07-11"
+updatedAt: "2026-07-12"
 draft: false
 products:
   - rank: 1
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F0019014614196.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-12"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_0019014614196"
         available: true
@@ -166,7 +166,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoji%2F3182550746076-s.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-12"
         price: 17226
         rating: 0
         reviewCount: 0
@@ -199,7 +199,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-12"
         price: 5067
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-12"
         price: 8980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
@@ -245,7 +245,7 @@ products:
     capacity: "3kg"
     pricePerUnit: "約1943円/kg"
     rating: 4.68
-    reviewCount: 2398
+    reviewCount: 2399
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F0813369001904.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-12"
         price: 5830
         rating: 4.73
         reviewCount: 100
@@ -278,7 +278,7 @@ products:
     capacity: "1kg"
     pricePerUnit: "約3000円/kg"
     rating: 4.72
-    reviewCount: 2550
+    reviewCount: 2551
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg360011-.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-12"
         price: 3000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g360011-"
         available: true

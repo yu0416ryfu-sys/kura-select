@@ -4,7 +4,7 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-11"
+updatedAt: "2026-07-12"
 products:
   - rank: 1
     name: "セルロース製 食器洗いスポンジ 6個パック SDGs プラスチックフリー"
@@ -35,7 +35,7 @@ products:
     capacity: "6個（約6ヶ月分）"
     pricePerUnit: "約177円/個"
     rating: 4.78
-    reviewCount: 9875
+    reviewCount: 9876
     features:
       - "3層構造で泡立ち・水切れ・耐久性を両立"
       - "楽天レビュー数トップクラスの圧倒的人気"
@@ -112,7 +112,7 @@ products:
     capacity: "12個"
     pricePerUnit: "約195円/個"
     rating: 4.87
-    reviewCount: 302
+    reviewCount: 303
     features:
       - "ライトグリーン・イエロー・ローズの明るいビタミンカラー3色"
       - "抗菌素材のポリウレタンフォームを採用"
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft1105-01.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-11"
+        updatedAt: "2026-07-12"
         price: 410
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t1105-01"
         available: true
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funmaison%2F19311003.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-11"
+        updatedAt: "2026-07-12"
         price: 880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unmaison_19311003"
         available: true
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurashikaiteki-pro%2F10000528.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-11"
+        updatedAt: "2026-07-12"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurashikaiteki-pro_10000528"
         available: true

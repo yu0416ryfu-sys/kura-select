@@ -4,13 +4,13 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-07-11"
+updatedAt: "2026-07-12"
 draft: false
 products:
   - rank: 1
     name: "ヴァセリン アドバンスドリペア ボディローション 500ml×3本 フェイス ボディ"
     brand: "ヴァセリン"
-    price: 2198
+    price: 2228
     capacity: "500ml×3"
     pricePerUnit: "約1.5円/mL"
     rating: 4.77
@@ -146,7 +146,7 @@ products:
     capacity: "600ml"
     pricePerUnit: "約4.2円/mL"
     rating: 4.59
-    reviewCount: 552
+    reviewCount: 553
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"
@@ -256,7 +256,7 @@ products:
     capacity: "300ml"
     pricePerUnit: "約14円/mL"
     rating: 4.7
-    reviewCount: 2935
+    reviewCount: 2936
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"
@@ -298,12 +298,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F56770.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-12"
         price: 2280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_56770"
         available: true
-        rating: 4.82
-        reviewCount: 33
+        rating: 4.79
+        reviewCount: 34
 tags:
   - "ボディローション おすすめ"
   - "ボディミルク コスパ"

@@ -54,8 +54,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frokorokoshop%2F1773896790-458.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-06"
+        matchStatus: "matched"
+        updatedAt: "2026-07-12"
         price: 690
         rating: 0
         reviewCount: 0
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072029572.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-12"
         price: 562
         rating: 4.77
         reviewCount: 22
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901080702111.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-12"
         price: 813
         rating: 0
         reviewCount: 1
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkarayasa%2F03-sm2.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-12"
         price: 3600
         rating: 4.67
         reviewCount: 6
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftodaysun%2F2022yr12mt18daywq069ic09f694wp2.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-12"
         price: 6026
         rating: 0
         reviewCount: 0
@@ -286,7 +286,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisare-gal%2Fkirari03.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-12"
         price: 3244
         rating: 0
         reviewCount: 1

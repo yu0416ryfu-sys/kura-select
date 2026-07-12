@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バブ・�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-11
+updatedAt: "2026-07-12"
 products:
   - rank: 1
     name: "ヒマラヤ岩塩バスソルト ピンクソルト 訳あり"
@@ -13,7 +13,7 @@ products:
     capacity: "3kg（約100回分）"
     pricePerUnit: "約713円/kg"
     rating: 4.55
-    reviewCount: 6190
+    reviewCount: 6191
     features:
       - "最高級ヒマラヤ産岩塩100%の天然バスソルト"
       - "ミネラル豊富で発汗・デトックス効果"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fearth2001%2Fwp-003.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 2139
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/earth2001_wp-003"
         available: true
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flibertylife%2Fb-epsom-05.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/libertylife_b-epsom-05"
         available: true
@@ -121,12 +121,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuisosum%2Fh-and-750.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 3800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/suisosum_h-and-750"
         available: true
         rating: 4.63
-        reviewCount: 192
+        reviewCount: 193
   - rank: 5
     name: "入浴剤 福袋 100個セット"
     brand: "YOU通販"
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsolotta%2F50988.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 3740
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/solotta_50988"
         available: true
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F123636322.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 1300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_123636322"
         available: true
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkisyubio-wakayama%2F500ml.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-12"
         price: 1500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kisyubio-wakayama_500ml"
         available: true
