@@ -1,5 +1,5 @@
 ---
-title: "トイレ掃除シート コスパ比較【2026年版】流せるタイプ9選"
+title: "トイレ掃除シート コスパ比較【2026年版】流せるタイプ10選"
 description: "トイレ掃除シートを1枚あたりのコストで比較。流せるタイプや厚手タイプの違い、用途に合った選び方を解説します。"
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
@@ -271,6 +271,28 @@ products:
         reviewCount: 55
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_13193"
         available: true
+  - rank: 10
+    name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×6袋"
+    brand: "花王（クイックル）"
+    price: 0
+    capacity: "16枚×6袋（96枚）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "強い除菌成分配合のトイレ掃除シート"
+      - "プレミアムローズの香り"
+      - "便座やドアの取っ手まわりの拭き掃除に対応"
+    pros:
+      - "6袋セットでまとめ買いしやすい"
+      - "香り付きでトイレ空間を快適に保ちやすい"
+      - "除菌力を重視したい人に向く"
+    cons:
+      - "無香料を好む人には香りが強く感じる場合がある"
+      - "一度に流せる枚数を守る必要がある"
+    recommendedFor: "除菌力と香りの両方を重視したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/562311/"
+    imageUrl: ""
 tags:
   - "トイレ掃除シート おすすめ"
   - "トイレ掃除シート コスパ"

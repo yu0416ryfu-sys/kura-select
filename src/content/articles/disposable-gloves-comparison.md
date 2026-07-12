@@ -1,6 +1,6 @@
 ---
 title: "使い捨て手袋 コスパ最強ランキング【2026年版】ニトリル・ビニール・ポリエチレンで比較"
-description: "使い捨て手袋を1枚あたりのコストで徹底比較。ニトリル・ビニール・ポリエチレンなど素材別に人気8選のフィット感・耐久性を解説します。"
+description: "使い捨て手袋を1枚あたりのコストで徹底比較。ニトリル・ビニール・ポリエチレンなど素材別に人気10選のフィット感・耐久性を解説します。"
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -246,6 +246,50 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+  - rank: 9
+    name: "調理用ビニール使いきり極薄手袋"
+    brand: "KAWANISHI"
+    price: 0
+    capacity: "100枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "調理向けの極薄仕様で粉なしタイプ"
+      - "食品衛生法に適合したビニール素材"
+      - "手にフィットしやすい密着性"
+    pros:
+      - "薄手で細かい作業がしやすい"
+      - "手荒れ対策として日常使いしやすい"
+      - "箱単位のまとめ買いで単価を抑えやすい"
+    cons:
+      - "耐久性はニトリル製に比べてやや劣る"
+      - "厚手タイプに比べて破れやすい場面がある"
+    recommendedFor: "調理での細かい作業を薄手手袋で行いたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/shizaicom-rt/10000858/"
+    imageUrl: ""
+  - rank: 10
+    name: "ニトリル手袋 パウダーフリー 1000枚(100枚×10箱)"
+    brand: "明成"
+    price: 0
+    capacity: "1000枚（100枚×10箱）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "パウダーフリーのニトリルゴム製手袋"
+      - "食品衛生法適合でSS〜Lまでサイズ展開"
+      - "ラテックスフリーで手荒れが気になる人にも配慮"
+    pros:
+      - "10箱セットでまとめ買いのコスパを重視しやすい"
+      - "サイズ展開が豊富で家族の手に合わせて選べる"
+      - "調理・介護・掃除など幅広い用途に使い回せる"
+    cons:
+      - "1000枚とまとまった量で保管スペースが必要"
+      - "小容量で試したい場合には不向き"
+    recommendedFor: "業務用途や家族でまとめ買いしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/meiseishop/ms_ndg_100_10/"
+    imageUrl: ""
 tags:
   - "使い捨て手袋"
   - "ニトリル手袋"

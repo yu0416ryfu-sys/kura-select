@@ -271,6 +271,50 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188322109"
         available: true
+  - rank: 9
+    name: "オーガニックコットン アロマ ボディシート フレッシュシトラス"
+    brand: "NaturaMoon"
+    price: 0
+    capacity: "12枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "オーガニックコットンを使用したナチュラル処方"
+      - "汚れと香りをケアするフェーズフリー技術"
+      - "持ち運びやすいサイズ設計"
+    pros:
+      - "天然由来成分で肌への負担を抑えやすい"
+      - "コンパクトで外出先に持ち歩きやすい"
+      - "爽やかな香りでリフレッシュしやすい"
+    cons:
+      - "枚数が少なめでこまめな買い足しが必要"
+      - "冷感タイプに比べてひんやり感は控えめ"
+    recommendedFor: "オーガニック処方を重視する方"
+    rakutenUrl: "https://item.rakuten.co.jp/greenpacks/100003175/"
+    imageUrl: ""
+  - rank: 10
+    name: "フレグランスシート ミント&レモン"
+    brand: "生活の木"
+    price: 0
+    capacity: "10枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "エッセンシャルオイルを使用した冷感タイプ"
+      - "厚手でボディタオルとしても使える設計"
+      - "夏向けの香り展開"
+    pros:
+      - "冷感とアロマの香りを同時に楽しめる"
+      - "厚手で拭き心地がしっかりしている"
+      - "まとめ買い用のセットが選べる"
+    cons:
+      - "香りが強めで無香タイプを好む人には不向き"
+      - "季節限定商品のため入手時期が限られやすい"
+    recommendedFor: "冷感とアロマの香りを両方楽しみたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/treeoflife-official/082112060/"
+    imageUrl: ""
 tags:
   - "汗拭きシート おすすめ"
   - "ボディシート コスパ"

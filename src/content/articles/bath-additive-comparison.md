@@ -1,6 +1,6 @@
 ---
 title: "入浴剤 コスパ最強ランキング【2026年版】炭酸・薬用・バスソルトで比較"
-description: "入浴剤を1回あたりのコストで徹底比較。バブ・バスクリン・きき湯・エプソムソルトなど人気9選を効能・香り・コスパで解説します。"
+description: "入浴剤を1回あたりのコストで徹底比較。バブ・バスクリン・きき湯・エプソムソルトなど人気10選を効能・香り・コスパで解説します。"
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -281,6 +281,28 @@ products:
         available: true
         rating: 0
         reviewCount: 2
+  - rank: 10
+    name: "入浴剤 バラエティ詰め合わせ 100個セット"
+    brand: "湯屋の手土産"
+    price: 0
+    capacity: "100個（20種類アソート）"
+    pricePerUnit: "0円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "20種類をアソートした個包装の詰め合わせ"
+      - "薬用入浴剤やバスソルトなど複数タイプを収録"
+      - "プレゼント・ノベルティ向けの梱包"
+    pros:
+      - "毎回違う香りやタイプを楽しめる"
+      - "個包装で必要な分だけ使いやすい"
+      - "ギフトや来客用のストックにも使いやすい"
+    cons:
+      - "特定の香り・タイプをまとめて使いたい人には不向き"
+      - "1個あたりの内容量は控えめ"
+    recommendedFor: "いろいろな入浴剤を試したい方・ギフト用途にしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/yuyanotemiyage/154136245/"
+    imageUrl: ""
 tags:
   - "入浴剤"
   - "コスパ"

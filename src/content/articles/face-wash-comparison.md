@@ -1,6 +1,6 @@
 ---
 title: "洗顔料 コスパ最強ランキング【2026年版】1gあたり最安で比較"
-description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴ・専科など人気8選を成分・洗い上がり・コスパで解説します。"
+description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴ・専科など人気10選を成分・洗い上がり・コスパで解説します。"
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -248,6 +248,50 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosmecom_1000154951"
         available: true
+  - rank: 9
+    name: "どろばーゆ 泡洗顔"
+    brand: "ナチュボーテ"
+    price: 0
+    capacity: "120g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "竹炭・海シルト・馬油配合の泥洗顔"
+      - "無香料タイプとバラの香りタイプを展開"
+      - "日本製のクレイ洗顔フォーム"
+    pros:
+      - "毛穴汚れが気になる方に選びやすい処方"
+      - "無香料を選べば香り付きが苦手な人にも使いやすい"
+      - "メンズにも使いやすいシンプルな設計"
+    cons:
+      - "泥タイプのためすすぎ残しに注意が必要"
+      - "毎日の使用ではやや洗浄力が強く感じる場合がある"
+    recommendedFor: "毛穴汚れを重点的にケアしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/a-cueb/awasoapa-2set/"
+    imageUrl: ""
+  - rank: 10
+    name: "カーボニック クリーニング パック 150g×2点セット"
+    brand: "PLuS"
+    price: 0
+    capacity: "150g×2点（300g）"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "炭酸泡タイプの洗顔・パック兼用アイテム"
+      - "コラーゲン・ヒアルロン酸など複数の保湿成分を配合"
+      - "朝晩どちらでも使える設計"
+    pros:
+      - "洗顔とパックを1本で兼ねられる"
+      - "2点セットでストックしながら使いやすい"
+      - "保湿成分配合で洗い上がりのつっぱりを抑えやすい"
+    cons:
+      - "パック用途も兼ねるため通常の洗顔料より価格は高め"
+      - "炭酸の刺激が苦手な人には不向き"
+    recommendedFor: "洗顔とパックを一本で済ませたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/luire/pscp11000/"
+    imageUrl: ""
 tags:
   - "洗顔料 おすすめ"
   - "洗顔料 コスパ"

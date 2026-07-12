@@ -1,6 +1,6 @@
 ---
-title: "大人用おしりふきおすすめ6選【2026年】介護用・流せるを枚単価で比較"
-description: "介護用・大人用おしりふきのおすすめ6選を1枚あたり単価で比較。トイレに流せるタイプ、厚手・薄手、ノンアルコールなど成分の違いを整理し、毎日の排泄ケアでコスパよく選ぶポイントを解説します。"
+title: "大人用おしりふきおすすめ10選【2026年】介護用・流せるを枚単価で比較"
+description: "介護用・大人用おしりふきのおすすめ10選を1枚あたり単価で比較。トイレに流せるタイプ、厚手・薄手、ノンアルコールなど成分の違いを整理し、毎日の排泄ケアでコスパよく選ぶポイントを解説します。"
 category: "adult-wipes"
 publishedAt: "2026-07-10"
 articleType: "comparison"
@@ -139,6 +139,94 @@ products:
     recommendedFor: "大判で手早くおむつ交換をしたい介助者"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00py4bn.3rdw6f92.g00py4bn.3rdw7bd0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpandora%2F1803283%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpandora%2Fi%2F10050657%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pandora/cabinet/0001/1803283.jpg?_ex=128x128"
+  - rank: 7
+    name: "おしりふき Pro やわらか厚手 超大判 30枚×12袋"
+    brand: "ライフリー"
+    price: 0
+    capacity: "30枚×12袋（360枚）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "大判サイズの厚手シート"
+      - "肌に配慮したやわらか設計"
+      - "アルコール無添加"
+    pros:
+      - "大判で一度にしっかり拭き取れる"
+      - "厚手で破れにくく扱いやすい"
+      - "無添加処方で肌への刺激を抑えやすい"
+    cons:
+      - "1パッケージあたりの単価はやや高めになりやすい"
+      - "大判のぶん収納スペースを取りやすい"
+    recommendedFor: "大判・厚手を重視する介助者"
+    rakutenUrl: "https://item.rakuten.co.jp/seiunhyakkaten/rtb161/"
+    imageUrl: ""
+  - rank: 8
+    name: "トイレに流せる大人用 おしりふき 70枚"
+    brand: "Ciメディカル"
+    price: 0
+    capacity: "70枚"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ノンアルコール・無香料仕様"
+      - "トイレに流せる設計"
+      - "歯科医院専売ブランドによる製造"
+    pros:
+      - "無香料でにおいに敏感な人にも使いやすい"
+      - "1パックから試しやすい枚数"
+      - "防災用の備蓄としても使いやすい"
+    cons:
+      - "まとめ買いのコスパでは大容量パックに劣る"
+      - "厚手タイプに比べると拭き心地はあっさりめ"
+    recommendedFor: "無香料・ノンアルコールを重視する方"
+    rakutenUrl: "https://item.rakuten.co.jp/d-fit/87062/"
+    imageUrl: ""
+  - rank: 9
+    name: "らくらくおしりふき 超大判 60枚×3袋"
+    brand: "ライフリー"
+    price: 0
+    capacity: "60枚×3袋（180枚）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "パイル&メッシュ構造の超大判シート"
+      - "厚手でしっかり拭ける設計"
+      - "肌にやさしい処方"
+    pros:
+      - "大判で1枚あたりの拭き取り範囲が広い"
+      - "厚手でゴシゴシしなくても汚れが落ちやすい"
+      - "介護用として実績のあるブランド"
+    cons:
+      - "枚数のわりに1パッケージの単価は上がりやすい"
+      - "厚手のぶん携帯用途にはかさばりやすい"
+    recommendedFor: "拭き取り力を重視する介助者"
+    rakutenUrl: "https://item.rakuten.co.jp/unicharm/139/"
+    imageUrl: ""
+  - rank: 10
+    name: "らくらくおしりふき やわらか厚手 72枚×3袋"
+    brand: "ライフリー"
+    price: 0
+    capacity: "72枚×3袋（216枚）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "凹凸構造で拭き取り性能を高めた厚手シート"
+      - "ヒアルロン酸配合の保湿処方"
+      - "水を含ませても破れにくい素材"
+    pros:
+      - "厚手で水を含ませても破れにくい"
+      - "保湿成分配合で肌の弱い方にも配慮"
+      - "防臭効果で衛生的に使いやすい"
+    cons:
+      - "枚数のわりに1パッケージの単価は上がりやすい"
+      - "厚手のぶん携帯用途にはかさばりやすい"
+    recommendedFor: "肌ケアと拭き取り力を両立したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/unicharm/138/"
+    imageUrl: ""
 tags:
   - "大人用おしりふき おすすめ"
   - "大人用おしりふき コスパ"

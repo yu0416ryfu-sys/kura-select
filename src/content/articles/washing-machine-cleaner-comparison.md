@@ -1,6 +1,6 @@
 ---
 title: "洗濯槽クリーナー コスパ最強ランキング【2026年版】塩素系・酸素系で比較"
-description: "洗濯槽クリーナーを1回あたりのコストで徹底比較。塩素系・酸素系の違いやオキシクリーン・洗濯槽カビキラーなど人気9選を解説します。"
+description: "洗濯槽クリーナーを1回あたりのコストで徹底比較。塩素系・酸素系の違いやオキシクリーン・洗濯槽カビキラーなど人気10選を解説します。"
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -248,6 +248,28 @@ products:
     recommendedFor: "縦型洗濯機の槽洗浄をしっかりしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rknln.3rdw6a32.g00rknln.3rdw70a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdentendo%2Fva60200108%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdentendo%2Fi%2F10026801%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dentendo/cabinet/08/va60200108_1.jpg?_ex=128x128"
+  - rank: 10
+    name: "洗たく槽クリーナー 500g×2袋"
+    brand: "シャボン玉石けん"
+    price: 0
+    capacity: "500g×2袋（1000g）"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "合成香料・合成界面活性剤不使用のクリーナー"
+      - "ドラム式・縦型の両方に対応"
+      - "塩素系でも槽を傷めにくい設計"
+    pros:
+      - "2袋セットで買い置きしやすい"
+      - "無添加処方で洗濯槽まわりの成分が気になる方に向く"
+      - "ドラム式・縦型どちらでも使える汎用性"
+    cons:
+      - "単品に比べてまとまった収納スペースが必要"
+      - "浸け置き時間の確保が必要"
+    recommendedFor: "無添加処方で2回分ストックしておきたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/ichikawa929/shabon_c2/"
+    imageUrl: ""
 tags:
   - "洗濯槽クリーナー"
   - "コスパ"

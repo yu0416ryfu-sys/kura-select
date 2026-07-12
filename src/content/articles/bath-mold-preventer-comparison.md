@@ -1,5 +1,5 @@
 ---
-title: "お風呂防カビ剤 コスパ比較【2026年版】くん煙タイプ9選"
+title: "お風呂防カビ剤 コスパ比較【2026年版】くん煙タイプ10選"
 description: "お風呂防カビ剤を1回あたりのコストで比較。くん煙タイプや無香性タイプなど、浴室の定期ケアに使いやすい商品を選びます。"
 category: "bath-mold-preventer"
 publishedAt: "2026-06-03"
@@ -293,6 +293,28 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/furusatochoice_6547921"
         available: true
+  - rank: 10
+    name: "おふろの防カビくん煙剤 フローラルの香り 単品"
+    brand: "ライオン（ルックプラス）"
+    price: 0
+    capacity: "4g（1個）"
+    pricePerUnit: "0円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "1回使い切りの単品パッケージ"
+      - "浴室のカビの発生を抑えるくん煙タイプ"
+      - "フローラルの香り"
+    pros:
+      - "まずは1回分から試しやすい"
+      - "使い切りサイズで在庫管理がしやすい"
+      - "浴室全体をまとめてケアできる"
+    cons:
+      - "複数回分をまとめ買いする場合は割高になりやすい"
+      - "黒カビ落とし目的の商品ではない"
+    recommendedFor: "まず1回分から試したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/a001223385699/"
+    imageUrl: ""
 tags:
   - "お風呂防カビ剤 おすすめ"
   - "防カビくん煙剤 コスパ"

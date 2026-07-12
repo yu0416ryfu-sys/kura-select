@@ -1,6 +1,6 @@
 ---
 title: "食器用スポンジ・キッチンスポンジ コスパ比較【2026年版】1個単価と耐久性"
-description: "食器用スポンジ・キッチンスポンジを1個あたりで比較。ダスキン、パックス、マーナなど9選を耐久性・泡立ち・交換頻度で整理し、食器洗い用に選びやすく解説します。"
+description: "食器用スポンジ・キッチンスポンジを1個あたりで比較。ダスキン、パックス、マーナなど10選を耐久性・泡立ち・交換頻度で整理し、食器洗い用に選びやすく解説します。"
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -259,6 +259,28 @@ products:
         available: true
         rating: 4.61
         reviewCount: 18
+  - rank: 10
+    name: "サンサンスポンジ 8個セット"
+    brand: "ダイニチ"
+    price: 0
+    capacity: "8個（4個×2組）"
+    pricePerUnit: "0円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "全9色から選べるモノトーン系カラー展開"
+      - "長持ちしやすい設計の食器洗いスポンジ"
+      - "4個セット×2組のまとめ買い構成"
+    pros:
+      - "色違いでキッチンや家族用に使い分けやすい"
+      - "8個セットでストックしやすい"
+      - "ランキング常連の実績がある定番商品"
+    cons:
+      - "カラーによっては人気で欠品しやすい"
+      - "厚みや硬さの好みは分かれやすい"
+    recommendedFor: "カラー展開を楽しみながらまとめ買いしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/dainichi-corp/10000025/"
+    imageUrl: ""
 tags:
   - "スポンジ"
   - "コスパ"

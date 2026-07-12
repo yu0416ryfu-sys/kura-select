@@ -1,6 +1,6 @@
 ---
-title: "ヘアトリートメント おすすめ9選【2026年版】コスパ最強を1g単価比較"
-description: "コスパいいヘアトリートメントを1g・1mLあたりで比較。ダメージケア、詰め替え、サロン系/市販の違いを見ながら、いち髪・ダイアン・ケラスターゼなど9選を整理します。"
+title: "ヘアトリートメント おすすめ10選【2026年版】コスパ最強を1g単価比較"
+description: "コスパいいヘアトリートメントを1g・1mLあたりで比較。ダメージケア、詰め替え、サロン系/市販の違いを見ながら、いち髪・ダイアン・ケラスターゼなど10選を整理します。"
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
@@ -237,6 +237,28 @@ products:
     recommendedFor: "カラー・パーマのダメージを集中ケアしたい方・サロン品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F2873936011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10607476%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000343/2873936011.jpg?_ex=128x128"
+  - rank: 10
+    name: "スペシャルトリートメント マスク クロノロジスト"
+    brand: "ケラスターゼ"
+    price: 0
+    capacity: "200mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "年齢による髪悩みに対応するインバスヘアマスク"
+      - "潤い・まとまりを重視した処方"
+      - "毛先の切れ毛ケアを意識した設計"
+    pros:
+      - "サロン系ブランドならではの仕上がりを求める人に向く"
+      - "ミニサイズが付属し旅行や持ち運びにも使いやすい"
+      - "ギフト向けの箱入りで贈り物にも使える"
+    cons:
+      - "一般的な市販品に比べて価格は高め"
+      - "毎日の使用よりも週数回のケア向け"
+    recommendedFor: "サロン系ブランドでダメージケアをしたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/kerastase-varie/ch-masqc_200/"
+    imageUrl: ""
 tags:
   - "ヘアトリートメント おすすめ"
   - "ヘアマスク コスパ"

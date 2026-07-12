@@ -1,6 +1,6 @@
 ---
-title: "コットン おすすめ9選【2026年版】1枚2.7円〜コスパ比較"
-description: "コットンを1枚あたりのコストで徹底比較。最安は1枚2.7円〜。シルコット・ビオレ・大容量無印など人気9選を吸水性・肌触り・コスパで解説。スキンケア毎日派に最適な1袋が見つかります。"
+title: "コットン おすすめ10選【2026年版】コスパで比較"
+description: "コットンを1枚あたりのコストで徹底比較。シルコット・ビオレ・大容量無印など人気10選を吸水性・肌触り・コスパで解説。スキンケア毎日派に最適な1袋が見つかります。"
 category: "cotton"
 publishedAt: "2026-05-03"
 articleType: "comparison"
@@ -248,6 +248,28 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10034333"
         available: true
+  - rank: 10
+    name: "業務用フェイシャルコットン エステ化粧用"
+    brand: "エステマート"
+    price: 0
+    capacity: "700枚（5×6cm）"
+    pricePerUnit: "0円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "エステ・ネイル用途を想定した業務用サイズ"
+      - "柔らかくしなやかな肌触り"
+      - "化粧水の湿布用途にも使いやすいカットメンタイプ"
+    pros:
+      - "700枚とまとまった枚数で買い替え頻度を抑えやすい"
+      - "業務用で1枚あたりのコストを抑えやすい"
+      - "パック下地の湿布用途にも使い回せる"
+    cons:
+      - "厚みは薄めで用途によっては重ねて使う必要がある"
+      - "大容量のぶん収納スペースを取りやすい"
+    recommendedFor: "業務用途やまとめ買いでコストを抑えたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/esthemart/etf-cotton56/"
+    imageUrl: ""
 tags:
   - "コットン おすすめ"
   - "コットンパッド コスパ"

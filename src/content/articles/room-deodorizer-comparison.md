@@ -1,6 +1,6 @@
 ---
-title: "消臭剤 コスパ最強ランキング【2026年版】おすすめ6選｜スプレー・置き型を比較"
-description: "消臭剤のおすすめ6選をコスパで徹底比較。リセッシュ・ファブリーズ・無香空間などスプレー・置き型を香り・持続力・単価で解説します。"
+title: "消臭剤 コスパ最強ランキング【2026年版】おすすめ9選｜スプレー・置き型を比較"
+description: "消臭剤のおすすめ9選をコスパで徹底比較。リセッシュ・ファブリーズ・無香空間などスプレー・置き型を香り・持続力・単価で解説します。"
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
@@ -191,6 +191,72 @@ products:
     recommendedFor: "布製品・空間の消臭除菌を手軽にしたい方・ファブリーズユーザー"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598757%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321967%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/757/598757.jpg?_ex=128x128"
+  - rank: 7
+    name: "消臭ビーズ 600g"
+    brand: "ハル・インダストリ"
+    price: 0
+    capacity: "600g"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "植物由来ミネラル成分を使った無臭・無香料タイプ"
+      - "置き型で玄関やクローゼットなど幅広い場所に使える"
+      - "ペットのいる家庭にも配慮した処方"
+    pros:
+      - "無香料でほかの香り製品と併用しやすい"
+      - "600gの単品サイズで置きたい場所ごとに使い分けやすい"
+      - "タバコやペット臭など幅広いニオイに対応"
+    cons:
+      - "詰替用の大容量パックに比べると1gあたりの単価は高め"
+      - "香りで空間を演出したい人には無香タイプは物足りない"
+    recommendedFor: "無香料で置き型の消臭剤を探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/halindustry/10000006/"
+    imageUrl: ""
+  - rank: 8
+    name: "瞬間消臭スプレー 420ml"
+    brand: "ハル・インダストリ"
+    price: 0
+    capacity: "420mL"
+    pricePerUnit: "0円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "ハイパー消臭成分でニオイの原因菌に速効対応"
+      - "100%天然由来成分で無香料・無添加"
+      - "ゴミ箱・生ゴミ・タバコ臭など幅広い空間に対応"
+    pros:
+      - "スプレータイプで気になった瞬間にすぐ使える"
+      - "無香料でにおいが気になる場所にピンポイントで使える"
+      - "ペットのいる家庭でも使いやすい処方"
+    cons:
+      - "置き型に比べて持続時間は短め"
+      - "こまめに使う分、消費ペースは速くなりやすい"
+    recommendedFor: "気になったときにすぐ使えるスプレータイプを探している方"
+    rakutenUrl: "https://item.rakuten.co.jp/halindustry/10000011/"
+    imageUrl: ""
+  - rank: 9
+    name: "クレベリンPro 20m2用 置き型 6個セット"
+    brand: "大幸薬品（クレベリン）"
+    price: 0
+    capacity: "150g×6個"
+    pricePerUnit: "0円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "置くだけで空間の除菌・消臭ができるジェルタイプ"
+      - "8〜12畳・2ヶ月を目安にした使用期間設計"
+      - "洗面所・キッチン・トイレなど複数箇所に置ける6個セット"
+    pros:
+      - "除菌と消臭を同時にケアしたい家庭に向く"
+      - "6個セットで各部屋に配置しやすい"
+      - "子どものいる家庭でも使いやすい設計"
+    cons:
+      - "純粋な消臭剤より価格は高めになりやすい"
+      - "使用期間が過ぎたら交換が必要"
+    recommendedFor: "消臭と空間除菌を同時に行いたい方"
+    rakutenUrl: "https://item.rakuten.co.jp/hpserve/2498-00007-3/"
+    imageUrl: ""
 tags:
   - "消臭剤 おすすめ"
   - "消臭剤 コスパ"

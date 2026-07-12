@@ -1,5 +1,5 @@
 ---
-title: "排水口クリーナー コスパ比較【2026年版】パイプ洗浄剤8選"
+title: "排水口クリーナー コスパ比較【2026年版】パイプ洗浄剤10選"
 description: "排水口クリーナーを容量あたりのコストで比較。ジェルタイプや大容量セットなど、浴室・洗面所・キッチンで使いやすい商品を選びます。"
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
@@ -238,6 +238,50 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_9q0975"
         available: true
+  - rank: 9
+    name: "ピーピースルーF 600g×2本セット"
+    brand: "和協産業"
+    price: 0
+    capacity: "600g×2本（1200g）"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "水酸化ナトリウムを含む強力配管洗浄剤"
+      - "油脂・毛髪・食べ物などのつまりに対応"
+      - "業務用としても使われる濃度設計"
+    pros:
+      - "2本セットで買い替えのタイミングを揃えやすい"
+      - "頑固なつまりに対応できる洗浄力"
+      - "業務用途にも使われる実績のある処方"
+    cons:
+      - "強力タイプのため換気や取り扱いに注意が必要"
+      - "素材によっては使用できない排水管がある"
+    recommendedFor: "頑固なつまりをまとめて対策したい方"
+    rakutenUrl: "https://item.rakuten.co.jp/osharecafe/6038803/"
+    imageUrl: ""
+  - rank: 10
+    name: "ピーピースルーF 600g×12本セット"
+    brand: "和協産業"
+    price: 0
+    capacity: "600g×12本（7200g）"
+    pricePerUnit: "0円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "次亜塩素酸ナトリウムと水酸化ナトリウムを含む業務用洗浄剤"
+      - "油脂・食物残渣によるつまり・悪臭に対応"
+      - "12本セットの大容量パッケージ"
+    pros:
+      - "12本セットで長期間ストックできる"
+      - "業務用途でのまとめ買いに向く容量"
+      - "1本あたりのコストを抑えやすい"
+    cons:
+      - "個人宅では使い切るまでに時間がかかる"
+      - "強力タイプのため換気や取り扱いに注意が必要"
+    recommendedFor: "業務用途や長期ストックを重視する方"
+    rakutenUrl: "https://item.rakuten.co.jp/osharecafe/6019094/"
+    imageUrl: ""
 tags:
   - "排水口クリーナー おすすめ"
   - "パイプクリーナー コスパ"
