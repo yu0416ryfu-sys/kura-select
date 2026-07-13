@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-12"
+updatedAt: 2026-07-13
 products:
   - rank: 1
     name: "ニッカルフレッシュ 鮮度保持袋"
@@ -188,8 +188,8 @@ products:
     price: 568
     capacity: "10枚〜50枚（サイズ・枚数選択可）"
     pricePerUnit: "約57円/枚"
-    rating: 4.76
-    reviewCount: 157
+    rating: 4.77
+    reviewCount: 158
     features:
       - "アルミ素材により防湿・遮光・防臭効果を発揮"
       - "マチ付き構造で自立可能な設計"

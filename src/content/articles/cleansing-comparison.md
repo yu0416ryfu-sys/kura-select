@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-07-12"
+updatedAt: 2026-07-13
 products:
   - rank: 1
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
@@ -119,7 +119,7 @@ products:
   - rank: 5
     name: "Anua ドクダミポアコントロールクレンジングオイル 200mL"
     brand: "Anua"
-    price: 2450
+    price: 2300
     capacity: "200mL"
     pricePerUnit: "約12円/mL"
     rating: 4.69
@@ -242,7 +242,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3205
+    reviewCount: 3208
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"

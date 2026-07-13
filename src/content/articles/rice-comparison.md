@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-07-12"
+updatedAt: 2026-07-13
 products:
   - rank: 1
     name: "熊本県産 ヒノヒカリ"
@@ -13,7 +13,7 @@ products:
     capacity: "20kg"
     pricePerUnit: "約509円/kg"
     rating: 4.59
-    reviewCount: 14826
+    reviewCount: 14831
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -40,33 +40,11 @@ products:
         rating: 4.59
         reviewCount: 110
   - rank: 2
-    name: "家計応援まんぷく米"
-    brand: "お米の阿部"
-    price: 5680
-    capacity: "5kg×2袋"
-    pricePerUnit: "約568円/kg"
-    rating: 4.27
-    reviewCount: 13767
-    features:
-      - "家庭用に使いやすい米商品"
-      - "まとめ買いやギフトに対応"
-      - "容量で比較しやすい"
-    pros:
-      - "日常の主食として使いやすい"
-      - "まとめ買いに向く"
-      - "用途に合わせて選べる"
-    cons:
-      - "精米時期や保存方法の確認が必要"
-      - "銘柄の好みは分かれる"
-    recommendedFor: "お米を容量と用途で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q08hn.3rdw6427.g00q08hn.3rdw7567/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokomeabe%2F10000076%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokomeabe%2Fi%2F10000076%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/okomeabe/cabinet/man/man-10k-futu.jpg?_ex=128x128"
-  - rank: 3
     name: "国内産 農家直米 白米"
     brand: "安齋商店"
-    price: 5680
+    price: 5580
     capacity: "10kg"
-    pricePerUnit: "約568円/kg"
+    pricePerUnit: "約558円/kg"
     rating: 4.39
     reviewCount: 16095
     features:
@@ -94,6 +72,28 @@ products:
         available: true
         rating: 4.18
         reviewCount: 1775
+  - rank: 3
+    name: "家計応援まんぷく米"
+    brand: "お米の阿部"
+    price: 5680
+    capacity: "5kg×2袋"
+    pricePerUnit: "約568円/kg"
+    rating: 4.27
+    reviewCount: 13767
+    features:
+      - "家庭用に使いやすい米商品"
+      - "まとめ買いやギフトに対応"
+      - "容量で比較しやすい"
+    pros:
+      - "日常の主食として使いやすい"
+      - "まとめ買いに向く"
+      - "用途に合わせて選べる"
+    cons:
+      - "精米時期や保存方法の確認が必要"
+      - "銘柄の好みは分かれる"
+    recommendedFor: "お米を容量と用途で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q08hn.3rdw6427.g00q08hn.3rdw7567/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokomeabe%2F10000076%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokomeabe%2Fi%2F10000076%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/okomeabe/cabinet/man/man-10k-futu.jpg?_ex=128x128"
   - rank: 4
     name: "令和7年産 無洗米 新潟産コシヒカリ 10kg"
     brand: "ミツハシライス"
@@ -277,7 +277,7 @@ products:
     capacity: "18kg〜20kg"
     pricePerUnit: "0円/kg"
     rating: 4.74
-    reviewCount: 45797
+    reviewCount: 45799
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

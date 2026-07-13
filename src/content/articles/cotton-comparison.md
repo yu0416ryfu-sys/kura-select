@@ -4,9 +4,31 @@ description: "コットンを1枚あたりのコストで徹底比較。シル�
 category: "cotton"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-07-11"
+updatedAt: 2026-07-13
 products:
   - rank: 1
+    name: "業務用フェイシャルコットン エステ化粧用"
+    brand: "エステマート"
+    price: 1578
+    capacity: "700枚（5×6cm）"
+    pricePerUnit: "約2.3円/枚"
+    rating: 4.2
+    reviewCount: 5
+    features:
+      - "エステ・ネイル用途を想定した業務用サイズ"
+      - "柔らかくしなやかな肌触り"
+      - "化粧水の湿布用途にも使いやすいカットメンタイプ"
+    pros:
+      - "700枚とまとまった枚数で買い替え頻度を抑えやすい"
+      - "業務用で1枚あたりのコストを抑えやすい"
+      - "パック下地の湿布用途にも使い回せる"
+    cons:
+      - "厚みは薄めで用途によっては重ねて使う必要がある"
+      - "大容量のぶん収納スペースを取りやすい"
+    recommendedFor: "業務用途やまとめ買いでコストを抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q72tn.3rdw624c.g00q72tn.3rdw7fe6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Festhemart%2Fetf-cotton56%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Festhemart%2Fi%2F10001045%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/esthemart/cabinet/img56562366.jpg?_ex=128x128"
+  - rank: 2
     name: "コットンパフ カット綿 大判"
     brand: "7エステ"
     price: 1347
@@ -28,7 +50,7 @@ products:
     recommendedFor: "コットンを日常的に多めに使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbjkn.3rdw681d.g00qbjkn.3rdw7a7f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F7esthe-pro%2F10000740%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F7esthe-pro%2Fi%2F10000740%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/7esthe-pro/cabinet/esthe/goods_expendable_2/10445_88.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 3
     name: "業務用コットン"
     brand: "エステタイム"
     price: 2585
@@ -61,7 +83,7 @@ products:
         available: true
         rating: 0
         reviewCount: 2
-  - rank: 3
+  - rank: 4
     name: "業務用フェイシャルコットン"
     brand: "エステマート"
     price: 1782
@@ -94,7 +116,7 @@ products:
         available: true
         rating: 5
         reviewCount: 5
-  - rank: 4
+  - rank: 5
     name: "【1点限り！令和お試し価格】ユニ・チャーム シルコット うるうる コットン"
     brand: "ユニ・チャーム（シルコット）"
     price: 360
@@ -127,7 +149,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 5
+  - rank: 6
     name: "ナチュラルパフ コットンパフ セット"
     brand: "アコレ"
     price: 780
@@ -149,7 +171,7 @@ products:
     recommendedFor: "シンプルなコットンパフを日常使いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ut3hn.3rdw6e12.g00ut3hn.3rdw713e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fippinstore%2F220824-r000209000434%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fippinstore%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ippinstore/cabinet/12553331/12643423/13379744/1.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "フェイシャルコットンパッド"
     brand: "Luvum"
     price: 400
@@ -171,7 +193,7 @@ products:
     recommendedFor: "コットンパッドを少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5myn.3rdw6d6d.g00u5myn.3rdw7a77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyeppeuda%2Fluvum-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyeppeuda%2Fi%2F10000127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yeppeuda/cabinet/luvum/luvum_00/luvum-4_00.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 8
     name: "フェイシャルコットンパッド セット"
     brand: "Luvum"
     price: 2000
@@ -193,7 +215,7 @@ products:
     recommendedFor: "韓国コスメ系のコットンパッドをまとめて使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5myn.3rdw6d6d.g00u5myn.3rdw7a77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyeppeuda%2Fluvumset-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyeppeuda%2Fi%2F10000132%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yeppeuda/cabinet/luvum/luvum_00/luvumset-5_00.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "クオリティー コットン"
     brand: "SK-II"
     price: 990
@@ -215,7 +237,7 @@ products:
     recommendedFor: "ブランドラインの使い心地を重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00siy3n.3rdw6c23.g00siy3n.3rdw73c7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsk-ii%2Fsk2cotton%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsk-ii%2Fi%2F10003320%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sk-ii/cabinet/item/thumb/2606/sk2cotton.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "花王　ビオレ　メイク落とし　ふくだけコットン　つめかえ用　詰め替え用　クレンジン"
     brand: "花王（ビオレ）"
     price: 565
@@ -248,28 +270,6 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10034333"
         available: true
-  - rank: 10
-    name: "業務用フェイシャルコットン エステ化粧用"
-    brand: "エステマート"
-    price: 0
-    capacity: "700枚（5×6cm）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "エステ・ネイル用途を想定した業務用サイズ"
-      - "柔らかくしなやかな肌触り"
-      - "化粧水の湿布用途にも使いやすいカットメンタイプ"
-    pros:
-      - "700枚とまとまった枚数で買い替え頻度を抑えやすい"
-      - "業務用で1枚あたりのコストを抑えやすい"
-      - "パック下地の湿布用途にも使い回せる"
-    cons:
-      - "厚みは薄めで用途によっては重ねて使う必要がある"
-      - "大容量のぶん収納スペースを取りやすい"
-    recommendedFor: "業務用途やまとめ買いでコストを抑えたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/esthemart/etf-cotton56/"
-    imageUrl: ""
 tags:
   - "コットン おすすめ"
   - "コットンパッド コスパ"

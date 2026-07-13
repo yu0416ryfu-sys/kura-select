@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バブ・�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-12"
+updatedAt: 2026-07-13
 products:
   - rank: 1
     name: "ヒマラヤ岩塩バスソルト ピンクソルト 訳あり"
@@ -60,7 +60,7 @@ products:
       - "香り付きのため追い焚き・残り湯使用に注意"
     recommendedFor: "香りを楽しみたい方・エプソムソルト初心者の方・お試しに最適"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tm6bn.3rdw6b3c.g00tm6bn.3rdw7960/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flibertylife%2F201028-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flibertylife%2Fi%2F10000500%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/libertylife/cabinet/sale/marason/b_epsom_otameshi.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/libertylife/cabinet/sale/tujou/b_epsom_otameshi.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -128,13 +128,35 @@ products:
         rating: 4.63
         reviewCount: 193
   - rank: 5
+    name: "入浴剤 バラエティ詰め合わせ 100個セット"
+    brand: "湯屋の手土産"
+    price: 3600
+    capacity: "100個（20種類アソート）"
+    pricePerUnit: "約36円/個"
+    rating: 4.64
+    reviewCount: 2050
+    features:
+      - "20種類をアソートした個包装の詰め合わせ"
+      - "薬用入浴剤やバスソルトなど複数タイプを収録"
+      - "プレゼント・ノベルティ向けの梱包"
+    pros:
+      - "毎回違う香りやタイプを楽しめる"
+      - "個包装で必要な分だけ使いやすい"
+      - "ギフトや来客用のストックにも使いやすい"
+    cons:
+      - "特定の香り・タイプをまとめて使いたい人には不向き"
+      - "1個あたりの内容量は控えめ"
+    recommendedFor: "いろいろな入浴剤を試したい方・ギフト用途にしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ts2zn.3rdw659d.g00ts2zn.3rdw7108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuyanotemiyage%2F154136245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuyanotemiyage%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuyanotemiyage/cabinet/12101333/12412971/2025_20_100_1.jpg?_ex=128x128"
+  - rank: 6
     name: "入浴剤 福袋 100個セット"
     brand: "YOU通販"
     price: 3780
     capacity: "100個セット"
     pricePerUnit: "約38円/個"
     rating: 4.56
-    reviewCount: 9943
+    reviewCount: 9944
     features:
       - "日本製の入浴剤を100個詰め合わせた福袋"
       - "テレビランキング番組1位獲得のロングセラー"
@@ -160,7 +182,7 @@ products:
         available: true
         rating: 4.72
         reviewCount: 116
-  - rank: 6
+  - rank: 7
     name: "あまおういちご 入浴剤 26個セット"
     brand: "湯屋の手土産"
     price: 1300
@@ -193,7 +215,7 @@ products:
         available: true
         rating: 4.22
         reviewCount: 9
-  - rank: 7
+  - rank: 8
     name: "バスクリン きき湯 オリジナルギフトセット"
     brand: "バスクリン"
     price: 3150
@@ -215,7 +237,7 @@ products:
     recommendedFor: "最安値を求める方・温泉気分を楽しみたい方・疲労回復を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pye9n.3rdw63be.g00pye9n.3rdw7c6f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faikuru%2F111542030%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faikuru%2Fi%2F10103648%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aikuru/cabinet/sp/13433485/0548-052-34_0603.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "木酢液 紀州備長炭 原液"
     brand: "紀州びお和歌山"
     price: 1400
@@ -248,7 +270,7 @@ products:
         available: true
         rating: 4.43
         reviewCount: 7
-  - rank: 9
+  - rank: 10
     name: "ミネラル鉱泉浴"
     brand: "SMC"
     price: 8800
@@ -281,28 +303,6 @@ products:
         available: true
         rating: 0
         reviewCount: 2
-  - rank: 10
-    name: "入浴剤 バラエティ詰め合わせ 100個セット"
-    brand: "湯屋の手土産"
-    price: 0
-    capacity: "100個（20種類アソート）"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "20種類をアソートした個包装の詰め合わせ"
-      - "薬用入浴剤やバスソルトなど複数タイプを収録"
-      - "プレゼント・ノベルティ向けの梱包"
-    pros:
-      - "毎回違う香りやタイプを楽しめる"
-      - "個包装で必要な分だけ使いやすい"
-      - "ギフトや来客用のストックにも使いやすい"
-    cons:
-      - "特定の香り・タイプをまとめて使いたい人には不向き"
-      - "1個あたりの内容量は控えめ"
-    recommendedFor: "いろいろな入浴剤を試したい方・ギフト用途にしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/yuyanotemiyage/154136245/"
-    imageUrl: ""
 tags:
   - "入浴剤"
   - "コスパ"

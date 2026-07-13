@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ10選を1回
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: 2026-07-12
+updatedAt: 2026-07-13
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "60回分（50回＋10回）"
     pricePerUnit: "約21円/回"
     rating: 4.5
-    reviewCount: 7018
+    reviewCount: 7020
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -54,9 +54,9 @@ products:
   - rank: 3
     name: "簡易トイレ 防災士監修 50回分セット"
     brand: "東京博海"
-    price: 1680
+    price: 1380
     capacity: "50回分"
-    pricePerUnit: "約34円/回"
+    pricePerUnit: "約28円/回"
     rating: 4.6
     reviewCount: 739
     features:
@@ -80,7 +80,7 @@ products:
     capacity: "50回分"
     pricePerUnit: "約36円/回"
     rating: 4.45
-    reviewCount: 4071
+    reviewCount: 4072
     features:
       - "吸水ポリマーを使ったシートタイプの凝固剤"
       - "災害用・非常用として個包装で使いやすい構成"
@@ -168,7 +168,7 @@ products:
     capacity: "100回分"
     pricePerUnit: "約50円/回"
     rating: 4.64
-    reviewCount: 793
+    reviewCount: 794
     features:
       - "炭入り凝固剤でにおい対策に配慮したセット"
       - "凝固剤と汚物袋がそろった構成"

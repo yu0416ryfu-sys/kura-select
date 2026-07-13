@@ -4,7 +4,7 @@ description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹
 category: "fabric-softener"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-11"
+updatedAt: 2026-07-13
 products:
   - rank: 1
     name: "ランドリン 柔軟剤 詰め替えアソートセット 9個入り"
@@ -97,9 +97,9 @@ products:
   - rank: 4
     name: "ナイスアンドクイック ボタニカル 柔軟剤 詰替 ピュアコットンシャボンの香り 1320mL 2個セット"
     brand: "ナイスアンドクイック"
-    price: 2675
+    price: 2816
     capacity: "1320mL×2個"
-    pricePerUnit: "約1.0円/mL"
+    pricePerUnit: "約1.1円/mL"
     rating: 4.84
     reviewCount: 167
     features:

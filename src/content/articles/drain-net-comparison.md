@@ -4,7 +4,7 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-07-08"
+updatedAt: 2026-07-13
 draft: false
 products:
   - rank: 1
@@ -285,11 +285,11 @@ products:
   - rank: 10
     name: "排水口ネット 髪の毛トリトリ イージーネット 4枚×10袋"
     brand: "ボンスター"
-    price: 0
+    price: 2200
     capacity: "40枚（4枚×10袋）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約55円/枚"
+    rating: 5
+    reviewCount: 3
     features:
       - "ポリプロピレン・ポリエステル製のヘアキャッチャー"
       - "台所・浴室どちらの排水口にも対応"
@@ -302,8 +302,8 @@ products:
       - "1袋あたりの枚数は少なめ"
       - "深型の排水口にはサイズが合わない場合がある"
     recommendedFor: "台所と浴室の両方で使い分けたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/strade-web/3s450309-10m/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qp5hn.3rdw6fd7.g00qp5hn.3rdw7095/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstrade-web%2F3s450309-10m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstrade-web%2Fi%2F10071423%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/strade-web/cabinet/bonstar/4902493450309-10.jpg?_ex=128x128"
 tags:
   - "排水口ネット おすすめ"
   - "水切りネット コスパ"

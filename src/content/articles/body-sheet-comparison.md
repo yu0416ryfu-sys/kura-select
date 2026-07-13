@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-07-12"
+updatedAt: 2026-07-13
 draft: false
 products:
   - rank: 1
@@ -206,6 +206,28 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_612-8545-103"
         available: true
   - rank: 7
+    name: "オーガニックコットン アロマ ボディシート フレッシュシトラス"
+    brand: "NaturaMoon"
+    price: 660
+    capacity: "12枚"
+    pricePerUnit: "約55円/枚"
+    rating: 4.83
+    reviewCount: 18
+    features:
+      - "オーガニックコットンを使用したナチュラル処方"
+      - "汚れと香りをケアするフェーズフリー技術"
+      - "持ち運びやすいサイズ設計"
+    pros:
+      - "天然由来成分で肌への負担を抑えやすい"
+      - "コンパクトで外出先に持ち歩きやすい"
+      - "爽やかな香りでリフレッシュしやすい"
+    cons:
+      - "枚数が少なめでこまめな買い足しが必要"
+      - "冷感タイプに比べてひんやり感は控えめ"
+    recommendedFor: "オーガニック処方を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100003175%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10003262%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/hb02/nm_oc_body_014.jpg?_ex=128x128"
+  - rank: 8
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
     price: 1837
@@ -238,7 +260,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kusurinofukutaro_10164409"
         available: true
-  - rank: 8
+  - rank: 9
     name: "リフレッシュボディシート"
     brand: "久光製薬"
     price: 1780
@@ -271,36 +293,14 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188322109"
         available: true
-  - rank: 9
-    name: "オーガニックコットン アロマ ボディシート フレッシュシトラス"
-    brand: "NaturaMoon"
-    price: 0
-    capacity: "12枚"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "オーガニックコットンを使用したナチュラル処方"
-      - "汚れと香りをケアするフェーズフリー技術"
-      - "持ち運びやすいサイズ設計"
-    pros:
-      - "天然由来成分で肌への負担を抑えやすい"
-      - "コンパクトで外出先に持ち歩きやすい"
-      - "爽やかな香りでリフレッシュしやすい"
-    cons:
-      - "枚数が少なめでこまめな買い足しが必要"
-      - "冷感タイプに比べてひんやり感は控えめ"
-    recommendedFor: "オーガニック処方を重視する方"
-    rakutenUrl: "https://item.rakuten.co.jp/greenpacks/100003175/"
-    imageUrl: ""
   - rank: 10
     name: "フレグランスシート ミント&レモン"
     brand: "生活の木"
     price: 0
     capacity: "10枚"
     pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
+    rating: 4.53
+    reviewCount: 15
     features:
       - "エッセンシャルオイルを使用した冷感タイプ"
       - "厚手でボディタオルとしても使える設計"
@@ -313,8 +313,8 @@ products:
       - "香りが強めで無香タイプを好む人には不向き"
       - "季節限定商品のため入手時期が限られやすい"
     recommendedFor: "冷感とアロマの香りを両方楽しみたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/treeoflife-official/082112060/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u2kdn.3rdw6561.g00u2kdn.3rdw7ca7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftreeoflife-official%2F082112060%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftreeoflife-official%2Fi%2F10001377%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/treeoflife-official/cabinet/seasonal/mint_lemon/imgrc0211577356.jpg?_ex=128x128"
 tags:
   - "汗拭きシート おすすめ"
   - "ボディシート コスパ"

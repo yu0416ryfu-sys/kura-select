@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ10選を1枚あた
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-07-12"
+updatedAt: 2026-07-13
 draft: false
 products:
   - rank: 1
@@ -63,6 +63,28 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10092408"
         available: true
   - rank: 3
+    name: "ニッコリバン絆創膏 2サイズ入り"
+    brand: "ニッコリバン"
+    price: 330
+    capacity: "18枚（大9枚・小9枚）"
+    pricePerUnit: "約18円/枚"
+    rating: 4.55
+    reviewCount: 58
+    features:
+      - "大小2サイズが1パッケージに入った救急ばんそうこう"
+      - "キャラクターデザインをあしらった意匠"
+      - "日常の応急手当に使いやすいサイズ展開"
+    pros:
+      - "キズの大きさに合わせてサイズを選び分けられる"
+      - "子どもが使いやすいデザインで貼り替えを嫌がりにくい"
+      - "携帯用の救急セットに取り入れやすい枚数"
+    cons:
+      - "枚数が少なめでまとめ買い用途には向かない"
+      - "デザイン重視のため無地を好む人には不向き"
+    recommendedFor: "子ども用や携帯用に手軽な絆創膏を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qmwvn.3rdw6149.g00qmwvn.3rdw77ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmirful%2F10000890%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmirful%2Fi%2F10000890%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mirful/cabinet/m78zaxtuka/imgrc0082972658.jpg?_ex=128x128"
+  - rank: 4
     name: "サンリオキャラクターズ 絆創膏 18枚"
     brand: "Littleleaf（リトルリーフ）"
     price: 396
@@ -95,7 +117,7 @@ products:
         reviewCount: 25
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aprox_cha-bansoko"
         available: true
-  - rank: 4
+  - rank: 5
     name: "白十字 ファミリーケア ワンタッチパット Mサイズ 22枚"
     brand: "白十字（ファミリーケア）"
     price: 580
@@ -128,7 +150,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4987603464520"
         available: true
-  - rank: 5
+  - rank: 6
     name: "キズパワーパッド ふつうサイズ 10枚入×2コセット"
     brand: "バンドエイド（BAND-AID）"
     price: 1493
@@ -161,7 +183,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901730240017"
         available: true
-  - rank: 6
+  - rank: 7
     name: "キズパワーパッド スポットタイプ 10枚入×2コセット"
     brand: "バンドエイド（BAND-AID）"
     price: 1493
@@ -183,7 +205,7 @@ products:
     recommendedFor: "指先など小さめのキズを防水でケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F22192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10674573%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/192/22192.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 8
     name: "キズパワーパッド 水仕事用 10枚入×2コセット"
     brand: "バンドエイド（BAND-AID）"
     price: 1493
@@ -205,7 +227,7 @@ products:
     recommendedFor: "水仕事や家事が多く、防水性を重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F22191%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10682608%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/191/22191.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "バンドエイド キズパワーパッド ふつうサイズ 10枚"
     brand: "バンドエイド（BAND-AID）"
     price: 766
@@ -238,7 +260,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhan-okusuri_1758907765-6-d"
         available: true
-  - rank: 9
+  - rank: 10
     name: "キズパワーパッド 大きめサイズ 12枚"
     brand: "バンドエイド（BAND-AID）"
     price: 1343
@@ -271,28 +293,6 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop-ni_34901730077002"
         available: true
-  - rank: 10
-    name: "ニッコリバン絆創膏 2サイズ入り"
-    brand: "ニッコリバン"
-    price: 0
-    capacity: "18枚（大9枚・小9枚）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "大小2サイズが1パッケージに入った救急ばんそうこう"
-      - "キャラクターデザインをあしらった意匠"
-      - "日常の応急手当に使いやすいサイズ展開"
-    pros:
-      - "キズの大きさに合わせてサイズを選び分けられる"
-      - "子どもが使いやすいデザインで貼り替えを嫌がりにくい"
-      - "携帯用の救急セットに取り入れやすい枚数"
-    cons:
-      - "枚数が少なめでまとめ買い用途には向かない"
-      - "デザイン重視のため無地を好む人には不向き"
-    recommendedFor: "子ども用や携帯用に手軽な絆創膏を求める方"
-    rakutenUrl: "https://item.rakuten.co.jp/mirful/10000890/"
-    imageUrl: ""
 tags:
   - "絆創膏 おすすめ"
   - "絆創膏 コスパ"

@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-07-12"
+updatedAt: 2026-07-13
 draft: false
 products:
   - rank: 1
@@ -244,8 +244,8 @@ products:
     price: 1082
     capacity: "20枚×2個（40枚）"
     pricePerUnit: "約27円/枚"
-    rating: 4.8
-    reviewCount: 59
+    rating: 4.78
+    reviewCount: 60
     features:
       - "トイレ用の掃除シート"
       - "詰め替えやまとめ買い向けタイプ"
@@ -274,11 +274,11 @@ products:
   - rank: 10
     name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×6袋"
     brand: "花王（クイックル）"
-    price: 0
+    price: 3100
     capacity: "16枚×6袋（96枚）"
-    pricePerUnit: "0円/枚"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約32円/枚"
+    rating: 4.8
+    reviewCount: 10
     features:
       - "強い除菌成分配合のトイレ掃除シート"
       - "プレミアムローズの香り"
@@ -291,8 +291,8 @@ products:
       - "無香料を好む人には香りが強く感じる場合がある"
       - "一度に流せる枚数を守る必要がある"
     recommendedFor: "除菌力と香りの両方を重視したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/562311/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F562311%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11180586%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/311/562311.jpg?_ex=128x128"
 tags:
   - "トイレ掃除シート おすすめ"
   - "トイレ掃除シート コスパ"

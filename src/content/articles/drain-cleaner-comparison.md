@@ -4,7 +4,7 @@ description: "排水口クリーナーを容量あたりのコストで比較。
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-06-18"
+updatedAt: 2026-07-13
 draft: false
 products:
   - rank: 1
@@ -140,6 +140,50 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q04pn.3rdw67f3.g00q04pn.3rdw7ea5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenetshop%2F4901609017283%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenetshop%2Fi%2F10058791%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/benetshop/cabinet/item_img/mm13/12876795/4901609017283.jpg?_ex=128x128"
   - rank: 6
+    name: "ピーピースルーF 600g×12本セット"
+    brand: "和協産業"
+    price: 21800
+    capacity: "600g×12本（7200g）"
+    pricePerUnit: "約3.0円/g"
+    rating: 4.67
+    reviewCount: 6
+    features:
+      - "次亜塩素酸ナトリウムと水酸化ナトリウムを含む業務用洗浄剤"
+      - "油脂・食物残渣によるつまり・悪臭に対応"
+      - "12本セットの大容量パッケージ"
+    pros:
+      - "12本セットで長期間ストックできる"
+      - "業務用途でのまとめ買いに向く容量"
+      - "1本あたりのコストを抑えやすい"
+    cons:
+      - "個人宅では使い切るまでに時間がかかる"
+      - "強力タイプのため換気や取り扱いに注意が必要"
+    recommendedFor: "業務用途や長期ストックを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quion.3rdw6e7d.g00quion.3rdw731c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F6019094%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosharecafe%2Fi%2F10031246%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/ranking_top3/rank_6019094.jpg?_ex=128x128"
+  - rank: 7
+    name: "ピーピースルーF 600g×2本セット"
+    brand: "和協産業"
+    price: 4110
+    capacity: "600g×2本（1200g）"
+    pricePerUnit: "約3.4円/g"
+    rating: 4.59
+    reviewCount: 356
+    features:
+      - "水酸化ナトリウムを含む強力配管洗浄剤"
+      - "油脂・毛髪・食べ物などのつまりに対応"
+      - "業務用としても使われる濃度設計"
+    pros:
+      - "2本セットで買い替えのタイミングを揃えやすい"
+      - "頑固なつまりに対応できる洗浄力"
+      - "業務用途にも使われる実績のある処方"
+    cons:
+      - "強力タイプのため換気や取り扱いに注意が必要"
+      - "素材によっては使用できない排水管がある"
+    recommendedFor: "頑固なつまりをまとめて対策したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quion.3rdw6e7d.g00quion.3rdw731c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F6038803%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosharecafe%2Fi%2F10067832%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/ranking_top3/rank_6038803.jpg?_ex=128x128"
+  - rank: 8
     name: "ピーピースルーF 600g"
     brand: "和協産業"
     price: 2240
@@ -172,7 +216,7 @@ products:
         reviewCount: 80
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10176772"
         available: true
-  - rank: 7
+  - rank: 9
     name: "ピーピースルーF 業務用 排水管洗浄剤"
     brand: "和協産業"
     price: 2418
@@ -205,7 +249,7 @@ products:
         reviewCount: 820
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6017917"
         available: true
-  - rank: 8
+  - rank: 10
     name: "ミツエイ ハーバルスリー パイプクリーナー 1000mL"
     brand: "ミツエイ"
     price: 272
@@ -238,50 +282,6 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_9q0975"
         available: true
-  - rank: 9
-    name: "ピーピースルーF 600g×2本セット"
-    brand: "和協産業"
-    price: 0
-    capacity: "600g×2本（1200g）"
-    pricePerUnit: "0円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "水酸化ナトリウムを含む強力配管洗浄剤"
-      - "油脂・毛髪・食べ物などのつまりに対応"
-      - "業務用としても使われる濃度設計"
-    pros:
-      - "2本セットで買い替えのタイミングを揃えやすい"
-      - "頑固なつまりに対応できる洗浄力"
-      - "業務用途にも使われる実績のある処方"
-    cons:
-      - "強力タイプのため換気や取り扱いに注意が必要"
-      - "素材によっては使用できない排水管がある"
-    recommendedFor: "頑固なつまりをまとめて対策したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/osharecafe/6038803/"
-    imageUrl: ""
-  - rank: 10
-    name: "ピーピースルーF 600g×12本セット"
-    brand: "和協産業"
-    price: 0
-    capacity: "600g×12本（7200g）"
-    pricePerUnit: "0円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "次亜塩素酸ナトリウムと水酸化ナトリウムを含む業務用洗浄剤"
-      - "油脂・食物残渣によるつまり・悪臭に対応"
-      - "12本セットの大容量パッケージ"
-    pros:
-      - "12本セットで長期間ストックできる"
-      - "業務用途でのまとめ買いに向く容量"
-      - "1本あたりのコストを抑えやすい"
-    cons:
-      - "個人宅では使い切るまでに時間がかかる"
-      - "強力タイプのため換気や取り扱いに注意が必要"
-    recommendedFor: "業務用途や長期ストックを重視する方"
-    rakutenUrl: "https://item.rakuten.co.jp/osharecafe/6019094/"
-    imageUrl: ""
 tags:
   - "排水口クリーナー おすすめ"
   - "パイプクリーナー コスパ"

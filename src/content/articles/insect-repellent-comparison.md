@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-07-11"
+updatedAt: 2026-07-13
 draft: false
 products:
   - rank: 1
@@ -149,7 +149,7 @@ products:
       - "精油の香りが好みに合わない場合もある"
     recommendedFor: "無添加・天然精油100%の虫よけを子どもにも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvsqn.3rdw6696.g00qvsqn.3rdw7fa3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faromaspray%2Fsp-bug-100-100e%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faromaspray%2Fi%2F10001233%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aromaspray/cabinet/item/02/anti-bug-cp10.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aromaspray/cabinet/item/anti-bug-rakuten.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -217,11 +217,55 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ppoyn.3rdw6621.g00ppoyn.3rdw79a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsafe%2F580481%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsafe%2Fi%2F10000010%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/safe/cabinet/2309_sku_img/580481.jpg?_ex=128x128"
   - rank: 8
+    name: "選べるアロマスプレー 虫除け 3本セット"
+    brand: "ease-aroma"
+    price: 1100
+    capacity: "30ml×2本＋15ml×1本（75ml）"
+    pricePerUnit: "約15円/ml"
+    rating: 4.25
+    reviewCount: 787
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qfl9n.3rdw60bc.g00qfl9n.3rdw7fb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fease-aroma%2F10002751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fease-aroma%2Fi%2F10002751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ease-aroma/cabinet/spray/spray3hon_s_01.jpg?_ex=128x128"
+  - rank: 9
+    name: "バルサン 虫除けスプレー 携帯用 100mL"
+    brand: "レック（バルサン）"
+    price: 1518
+    capacity: "100mL"
+    pricePerUnit: "約15円/mL"
+    rating: 3
+    reviewCount: 1
+    features:
+      - "イカリジン15%配合で8時間効果が持続する防除用医薬部外品"
+      - "汗に強い処方でアウトドア・キャンプでの使用に向く"
+      - "バルサンブランドの携帯用スプレー"
+    pros:
+      - "汗に強い処方でレジャー・スポーツ時にも使いやすい"
+      - "携帯しやすいサイズでバッグに入れて持ち運べる"
+      - "バルサンブランドで購入しやすく試しやすい"
+    cons:
+      - "100mLと小容量のため自宅での日常使いにはコストがかかる"
+      - "携帯向け設計のため家族分をまかなうには複数本必要"
+    recommendedFor: "アウトドアやキャンプで携帯できる虫除けスプレーを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5d7n.3rdw6b76.g00s5d7n.3rdw7a8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect-2%2F4580543943171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect-2%2Fi%2F10004038%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect-2/cabinet/img/v/4580543943171.jpg?_ex=128x128"
+  - rank: 10
     name: "アウトドアボディスプレー"
     brand: "PERFECT POTION"
-    price: 1760
+    price: 1870
     capacity: "125ml"
-    pricePerUnit: "約14円/mL"
+    pricePerUnit: "約15円/mL"
     rating: 4.67
     reviewCount: 12
     features:
@@ -249,50 +293,6 @@ products:
         available: true
         rating: 4.88
         reviewCount: 17
-  - rank: 9
-    name: "選べるアロマスプレー 虫除け 3本セット"
-    brand: "ease-aroma"
-    price: 1100
-    capacity: "30ml×2本＋15ml×1本（75ml）"
-    pricePerUnit: "約15円/ml"
-    rating: 4.25
-    reviewCount: 787
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qfl9n.3rdw60bc.g00qfl9n.3rdw7fb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fease-aroma%2F10002751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fease-aroma%2Fi%2F10002751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ease-aroma/cabinet/spray/spray3hon_s_01.jpg?_ex=128x128"
-  - rank: 10
-    name: "バルサン 虫除けスプレー 携帯用 100mL"
-    brand: "レック（バルサン）"
-    price: 1518
-    capacity: "100mL"
-    pricePerUnit: "約15円/mL"
-    rating: 3
-    reviewCount: 1
-    features:
-      - "イカリジン15%配合で8時間効果が持続する防除用医薬部外品"
-      - "汗に強い処方でアウトドア・キャンプでの使用に向く"
-      - "バルサンブランドの携帯用スプレー"
-    pros:
-      - "汗に強い処方でレジャー・スポーツ時にも使いやすい"
-      - "携帯しやすいサイズでバッグに入れて持ち運べる"
-      - "バルサンブランドで購入しやすく試しやすい"
-    cons:
-      - "100mLと小容量のため自宅での日常使いにはコストがかかる"
-      - "携帯向け設計のため家族分をまかなうには複数本必要"
-    recommendedFor: "アウトドアやキャンプで携帯できる虫除けスプレーを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5d7n.3rdw6b76.g00s5d7n.3rdw7a8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect-2%2F4580543943171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect-2%2Fi%2F10004038%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect-2/cabinet/img/v/4580543943171.jpg?_ex=128x128"
 tags:
   - "虫除けスプレー おすすめ"
   - "虫除けスプレー コスパ"

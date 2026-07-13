@@ -4,7 +4,7 @@ description: "コスパいいヘアトリートメントを1g・1mLあたりで�
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-07-12"
+updatedAt: 2026-07-13
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -101,7 +101,7 @@ products:
     capacity: "180g"
     pricePerUnit: "約13円/g"
     rating: 4.66
-    reviewCount: 2248
+    reviewCount: 2249
     features:
       - "12種の植物成分を含む25種以上の植物由来成分配合"
       - "シルク・ココナッツオイル・アルガンオイルなどの保湿成分を配合"
@@ -167,7 +167,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約22円/mL"
     rating: 4.73
-    reviewCount: 1219
+    reviewCount: 1221
     features:
       - "くせ毛ケアのディシプリンラインのコンディショナータイプ"
       - "髪の広がりを抑えまとまりのある艶やかな仕上がりをもたらす処方"
@@ -243,8 +243,8 @@ products:
     price: 0
     capacity: "200mL"
     pricePerUnit: "0円/mL"
-    rating: 0
-    reviewCount: 0
+    rating: 4.78
+    reviewCount: 1194
     features:
       - "年齢による髪悩みに対応するインバスヘアマスク"
       - "潤い・まとまりを重視した処方"
@@ -257,8 +257,8 @@ products:
       - "一般的な市販品に比べて価格は高め"
       - "毎日の使用よりも週数回のケア向け"
     recommendedFor: "サロン系ブランドでダメージケアをしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/kerastase-varie/ch-masqc_200/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fch-masqc_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/ch-masqc_200/260624-masqc.jpg?_ex=128x128"
 tags:
   - "ヘアトリートメント おすすめ"
   - "ヘアマスク コスパ"

@@ -4,7 +4,7 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-12"
+updatedAt: 2026-07-13
 products:
   - rank: 1
     name: "セルロース製 食器洗いスポンジ 6個パック SDGs プラスチックフリー"
@@ -35,7 +35,7 @@ products:
     capacity: "6個（約6ヶ月分）"
     pricePerUnit: "約177円/個"
     rating: 4.78
-    reviewCount: 9876
+    reviewCount: 9877
     features:
       - "3層構造で泡立ち・水切れ・耐久性を両立"
       - "楽天レビュー数トップクラスの圧倒的人気"
@@ -90,7 +90,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.8
-    reviewCount: 501
+    reviewCount: 502
     features:
       - "ポリエステル＋ウレタンフォームのハードタイプ構造"
       - "3色パック×2セットのカラフルな6個組"
@@ -262,11 +262,11 @@ products:
   - rank: 10
     name: "サンサンスポンジ 8個セット"
     brand: "ダイニチ"
-    price: 0
+    price: 3073
     capacity: "8個（4個×2組）"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約384円/個"
+    rating: 4.81
+    reviewCount: 2527
     features:
       - "全9色から選べるモノトーン系カラー展開"
       - "長持ちしやすい設計の食器洗いスポンジ"
@@ -279,8 +279,8 @@ products:
       - "カラーによっては人気で欠品しやすい"
       - "厚みや硬さの好みは分かれやすい"
     recommendedFor: "カラー展開を楽しみながらまとめ買いしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/dainichi-corp/10000025/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r384n.3rdw62f6.g00r384n.3rdw76df/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdainichi-corp%2F10000025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdainichi-corp%2Fi%2F10000058%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dainichi-corp/cabinet/12515904/imgrc0111723413.jpg?_ex=128x128"
 tags:
   - "スポンジ"
   - "コスパ"

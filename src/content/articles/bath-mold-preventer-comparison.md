@@ -4,7 +4,7 @@ description: "お風呂防カビ剤を1回あたりのコストで比較。く�
 category: "bath-mold-preventer"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-07-11"
+updatedAt: 2026-07-13
 draft: false
 products:
   - rank: 1
@@ -168,7 +168,7 @@ products:
     capacity: "3個"
     pricePerUnit: "約645円/個"
     rating: 4.61
-    reviewCount: 165
+    reviewCount: 166
     features:
       - "せっけんの香りタイプ"
       - "浴室用のくん煙タイプ"
@@ -296,11 +296,11 @@ products:
   - rank: 10
     name: "おふろの防カビくん煙剤 フローラルの香り 単品"
     brand: "ライオン（ルックプラス）"
-    price: 0
+    price: 752
     capacity: "4g（1個）"
-    pricePerUnit: "0円/個"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約752円/個"
+    rating: 4.54
+    reviewCount: 120
     features:
       - "1回使い切りの単品パッケージ"
       - "浴室のカビの発生を抑えるくん煙タイプ"
@@ -313,8 +313,8 @@ products:
       - "複数回分をまとめ買いする場合は割高になりやすい"
       - "黒カビ落とし目的の商品ではない"
     recommendedFor: "まず1回分から試したい方"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/a001223385699/"
-    imageUrl: ""
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001223385699%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10056479%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/994/4903301169994.jpg?_ex=128x128"
 tags:
   - "お風呂防カビ剤 おすすめ"
   - "防カビくん煙剤 コスパ"

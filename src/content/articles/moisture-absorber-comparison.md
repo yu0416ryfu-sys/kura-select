@@ -4,7 +4,7 @@ description: "除湿剤を吸湿量あたりのコストで徹底比較。水と
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-07-12
+updatedAt: 2026-07-13
 products:
   - rank: 1
     name: "Yoitas 天然竹炭パック"
@@ -101,7 +101,7 @@ products:
     capacity: "5個"
     pricePerUnit: "約1204円/個"
     rating: 4.39
-    reviewCount: 1639
+    reviewCount: 1640
     features:
       - "湿気対策に使える除湿・調湿アイテム"
       - "クローゼットや押入れに置きやすい"
@@ -145,7 +145,7 @@ products:
     capacity: "12L大袋×4個セット"
     pricePerUnit: "約0.05円/mL"
     rating: 4.66
-    reviewCount: 1073
+    reviewCount: 1076
     features:
       - "調湿木炭で繰り返し使える環境にやさしい除湿剤"
       - "天日干しで吸湿力が復活するため長期間使用可能"
@@ -166,8 +166,8 @@ products:
     price: 4280
     capacity: "550mL×45個（24,750mL分）"
     pricePerUnit: "約0.17円/mL"
-    rating: 4.82
-    reviewCount: 245
+    rating: 4.83
+    reviewCount: 246
     features:
       - "国内定番の大容量タンクタイプ除湿剤"
       - "強力脱臭・防臭・防カビ効果"

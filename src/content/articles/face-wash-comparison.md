@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-12"
+updatedAt: 2026-07-13
 products:
   - rank: 1
     name: "ビオレ おうちdeエステ マッサージ洗顔ジェル 150g"
@@ -45,8 +45,8 @@ products:
     price: 1210
     capacity: "240g"
     pricePerUnit: "約5.0円/g"
-    rating: 4.71
-    reviewCount: 76
+    rating: 4.7
+    reviewCount: 77
     features:
       - "海泥（かいでい）が毛穴汚れを吸着除去"
       - "きめ細かいクリーミーな泡立ち"
@@ -128,13 +128,35 @@ products:
         rating: 4.5
         reviewCount: 8
   - rank: 5
+    name: "どろばーゆ 泡洗顔"
+    brand: "ナチュボーテ"
+    price: 1540
+    capacity: "120g"
+    pricePerUnit: "約13円/g"
+    rating: 4.58
+    reviewCount: 1559
+    features:
+      - "竹炭・海シルト・馬油配合の泥洗顔"
+      - "無香料タイプとバラの香りタイプを展開"
+      - "日本製のクレイ洗顔フォーム"
+    pros:
+      - "毛穴汚れが気になる方に選びやすい処方"
+      - "無香料を選べば香り付きが苦手な人にも使いやすい"
+      - "メンズにも使いやすいシンプルな設計"
+    cons:
+      - "泥タイプのためすすぎ残しに注意が必要"
+      - "毎日の使用ではやや洗浄力が強く感じる場合がある"
+    recommendedFor: "毛穴汚れを重点的にケアしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r97bn.3rdw60e8.g00r97bn.3rdw72a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-cueb%2Fawasoapa-2set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-cueb%2Fi%2F10005406%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-cueb/cabinet/03069387/natubeaute/claywash/acdoro2_sn.jpg?_ex=128x128"
+  - rank: 6
     name: "DoMeCare マイクロクレイウォッシュ 110g"
     brand: "DoMeCare"
     price: 1980
     capacity: "110g"
     pricePerUnit: "約18円/g"
     rating: 4.6
-    reviewCount: 1809
+    reviewCount: 1810
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -160,7 +182,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 6
+  - rank: 7
     name: "レステモ フェイシャル ソープ 150g"
     brand: "レステモ"
     price: 2680
@@ -193,7 +215,7 @@ products:
         available: true
         rating: 4.68
         reviewCount: 214
-  - rank: 7
+  - rank: 8
     name: "ルアド 洗顔パウダー 67g×3袋"
     brand: "ルアド"
     price: 3711
@@ -215,7 +237,29 @@ products:
     recommendedFor: "肌質や洗い上がりで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pytjn.3rdw6c43.g00pytjn.3rdw73fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fadpentel%2F590765%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fadpentel%2Fi%2F10000082%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/adpentel/cabinet/pro/imgrc0079724986.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
+    name: "カーボニック クリーニング パック 150g×2点セット"
+    brand: "PLuS"
+    price: 6280
+    capacity: "150g×2点（300g）"
+    pricePerUnit: "約21円/g"
+    rating: 4.46
+    reviewCount: 3779
+    features:
+      - "炭酸泡タイプの洗顔・パック兼用アイテム"
+      - "コラーゲン・ヒアルロン酸など複数の保湿成分を配合"
+      - "朝晩どちらでも使える設計"
+    pros:
+      - "洗顔とパックを1本で兼ねられる"
+      - "2点セットでストックしながら使いやすい"
+      - "保湿成分配合で洗い上がりのつっぱりを抑えやすい"
+    cons:
+      - "パック用途も兼ねるため通常の洗顔料より価格は高め"
+      - "炭酸の刺激が苦手な人には不向き"
+    recommendedFor: "洗顔とパックを一本で済ませたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po0zn.3rdw627e.g00po0zn.3rdw7621/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fpscp11000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10005954%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/plus04/clpack-2_01.jpg?_ex=128x128"
+  - rank: 10
     name: "ファンケル ピュアモイスト泡洗顔料 150ml"
     brand: "ファンケル"
     price: 1320
@@ -248,50 +292,6 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosmecom_1000154951"
         available: true
-  - rank: 9
-    name: "どろばーゆ 泡洗顔"
-    brand: "ナチュボーテ"
-    price: 0
-    capacity: "120g"
-    pricePerUnit: "0円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "竹炭・海シルト・馬油配合の泥洗顔"
-      - "無香料タイプとバラの香りタイプを展開"
-      - "日本製のクレイ洗顔フォーム"
-    pros:
-      - "毛穴汚れが気になる方に選びやすい処方"
-      - "無香料を選べば香り付きが苦手な人にも使いやすい"
-      - "メンズにも使いやすいシンプルな設計"
-    cons:
-      - "泥タイプのためすすぎ残しに注意が必要"
-      - "毎日の使用ではやや洗浄力が強く感じる場合がある"
-    recommendedFor: "毛穴汚れを重点的にケアしたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/a-cueb/awasoapa-2set/"
-    imageUrl: ""
-  - rank: 10
-    name: "カーボニック クリーニング パック 150g×2点セット"
-    brand: "PLuS"
-    price: 0
-    capacity: "150g×2点（300g）"
-    pricePerUnit: "0円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "炭酸泡タイプの洗顔・パック兼用アイテム"
-      - "コラーゲン・ヒアルロン酸など複数の保湿成分を配合"
-      - "朝晩どちらでも使える設計"
-    pros:
-      - "洗顔とパックを1本で兼ねられる"
-      - "2点セットでストックしながら使いやすい"
-      - "保湿成分配合で洗い上がりのつっぱりを抑えやすい"
-    cons:
-      - "パック用途も兼ねるため通常の洗顔料より価格は高め"
-      - "炭酸の刺激が苦手な人には不向き"
-    recommendedFor: "洗顔とパックを一本で済ませたい方"
-    rakutenUrl: "https://item.rakuten.co.jp/luire/pscp11000/"
-    imageUrl: ""
 tags:
   - "洗顔料 おすすめ"
   - "洗顔料 コスパ"
