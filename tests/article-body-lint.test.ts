@@ -103,18 +103,8 @@ describe("lintArticleBody（統合: 全記事）", () => {
   // docs/IMPLEMENTATION_PLAN_BODY_NUMERIC_SINGLE_SOURCE.md / メモリ参照。
   const MEASUREMENT_HOLD = new Set(
     [
-      "conditioner",
-      "cotton",
       "fabric-softener",
-      "floor-cleaner",
-      "garbage-bag",
-      "hair-treatment",
-      "kitchen-sponge",
       "laundry-detergent",
-      "mask",
-      "sanitary-napkin",
-      "tissue-paper",
-      "wet-tissue",
     ].map((s) => `${s}-comparison.md`),
   );
 
