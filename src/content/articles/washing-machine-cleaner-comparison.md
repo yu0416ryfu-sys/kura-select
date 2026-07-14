@@ -4,7 +4,7 @@ description: "洗濯槽クリーナーを1回あたりのコストで徹底比�
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: 2026-07-14
 products:
   - rank: 1
     name: "過炭酸ナトリウム 酸素系漂白剤 950g"

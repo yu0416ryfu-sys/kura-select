@@ -4,7 +4,7 @@ description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あ�
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: 2026-07-14
 draft: false
 products:
   - rank: 1
@@ -58,7 +58,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約13円/g"
     rating: 4.54
-    reviewCount: 696
+    reviewCount: 697
     features:
       - "トリートメントしながら白髪に色を入れるカラートリートメントタイプ"
       - "500g入りで継続使用しやすい大容量"
@@ -124,7 +124,7 @@ products:
     capacity: "400g"
     pricePerUnit: "約15円/g"
     rating: 4.37
-    reviewCount: 7727
+    reviewCount: 7730
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

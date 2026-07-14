@@ -4,7 +4,7 @@ description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.77
-    reviewCount: 7724
+    reviewCount: 7729
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpigeon-shop%2F2000363s.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 4070
         rating: 4.78
-        reviewCount: 1483
+        reviewCount: 1493
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_2000363s"
         available: true
   - rank: 2
@@ -72,7 +72,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_20661"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         rating: 0
         reviewCount: 0
   - rank: 3
@@ -107,7 +107,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4903111159802-4"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         rating: 4.56
         reviewCount: 9
   - rank: 4
@@ -137,8 +137,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-12"
-        price: 1962
+        updatedAt: "2026-07-13"
+        price: 2180
         rating: 4.67
         reviewCount: 1015
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
@@ -199,11 +199,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshopmi%2F20260703192601-00073.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjiatentusa%2F20230815193940-00102.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-05"
-        price: 3252
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shopmi_20260703192601-00073"
+        updatedAt: "2026-07-13"
+        price: 4810
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/jiatentusa_20230815193940-00102"
         available: true
         rating: 0
         reviewCount: 0
@@ -214,7 +214,7 @@ products:
     capacity: "54枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.62
-    reviewCount: 3822
+    reviewCount: 3823
     features:
       - "菌を99.9%除去する除菌処理"
       - "厚手タイプで吸収性が高い"
@@ -237,7 +237,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e170"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         rating: 4.7
         reviewCount: 961
   - rank: 8
@@ -270,9 +270,9 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-13"
         rating: 4.61
-        reviewCount: 1030
+        reviewCount: 1029
   - rank: 9
     name: "おしり拭き 流せる シート 純水99.9% W保湿成分配合"
     brand: "Lec.Be"
@@ -280,7 +280,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.4円/枚"
     rating: 4.55
-    reviewCount: 369
+    reviewCount: 370
     features:
       - "純水99.9%で肌に優しい処方"
       - "流せるシートで処理が簡単"
@@ -300,10 +300,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe241.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-13"
         price: 2120
         rating: 4.61
-        reviewCount: 1030
+        reviewCount: 1029
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
   - rank: 10
@@ -313,7 +313,7 @@ products:
     capacity: "56枚×12個（672枚）"
     pricePerUnit: "約4.7円/枚"
     rating: 4.79
-    reviewCount: 2929
+    reviewCount: 2930
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -333,7 +333,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcherubin-shopp%2Fks058ad589c4.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 2978
         rating: 4.5
         reviewCount: 6

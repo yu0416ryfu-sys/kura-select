@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 products:
   - rank: 1
     name: "ビオレ おうちdeエステ マッサージ洗顔ジェル 150g"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-ypp%2F3799-004426.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-13"
         price: 1280
         rating: 4.4
         reviewCount: 5
@@ -86,14 +86,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fspark0903no2%2Fs-b01n0bsytw-20250614.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fadew%2F905b01n0bsytw.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-09"
-        price: 2532
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/spark0903no2_s-b01n0bsytw-20250614"
+        updatedAt: "2026-07-13"
+        price: 2200
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/adew_905b01n0bsytw"
         available: true
-        rating: 0
-        reviewCount: 0
+        rating: 4.55
+        reviewCount: 278
   - rank: 4
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
     brand: "ユニリーバ（ダヴ）"
@@ -149,6 +149,17 @@ products:
     recommendedFor: "毛穴汚れを重点的にケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r97bn.3rdw60e8.g00r97bn.3rdw72a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-cueb%2Fawasoapa-2set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-cueb%2Fi%2F10005406%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-cueb/cabinet/03069387/natubeaute/claywash/acdoro2_sn.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Facuebshop%2Fdorobayu.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-13"
+        price: 1540
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/acuebshop_dorobayu"
+        available: true
   - rank: 6
     name: "DoMeCare マイクロクレイウォッシュ 110g"
     brand: "DoMeCare"
@@ -176,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyua-shop%2Fl01-045.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 2500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yua-shop_l01-045"
         available: true
@@ -209,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flesthemo%2Fsoap150g.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 2680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lesthemo_soap150g"
         available: true
@@ -243,8 +254,8 @@ products:
     price: 6280
     capacity: "150g×2点（300g）"
     pricePerUnit: "約21円/g"
-    rating: 4.46
-    reviewCount: 3779
+    rating: 4.45
+    reviewCount: 3780
     features:
       - "炭酸泡タイプの洗顔・パック兼用アイテム"
       - "コラーゲン・ヒアルロン酸など複数の保湿成分を配合"

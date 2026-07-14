@@ -4,7 +4,7 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 draft: false
 products:
   - rank: 1
@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fninestars%2Fse4-br.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 3408
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ninestars_se4-br"
         available: true
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdistore%2Feb50rx-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 8480
         rating: 0
         reviewCount: 1
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foralb-braun%2Fultimate2-4-p.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 8338
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oralb-braun_ultimate2-4-p"
         available: true
@@ -254,7 +254,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fi-ha%2F27000052.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 3300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/i-ha_27000052"
         available: true
@@ -287,7 +287,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fphilips-japan%2Fhx9043.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 6141
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/philips-japan_hx9043"
         available: true

@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 draft: false
 products:
   - rank: 1
@@ -178,7 +178,7 @@ products:
     capacity: "80mL"
     pricePerUnit: "約29円/mL"
     rating: 4.64
-    reviewCount: 13664
+    reviewCount: 13670
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -198,7 +198,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fadew%2Fmanual-haire-3set.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 6680
         rating: 0
         reviewCount: 0
@@ -211,7 +211,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約35円/mL"
     rating: 4.64
-    reviewCount: 3723
+    reviewCount: 3725
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"

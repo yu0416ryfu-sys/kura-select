@@ -4,7 +4,7 @@ description: "重曹・セスキ炭酸ソーダ・クエン酸などのナチュ
 category: "natural-cleaning"
 articleType: "comparison"
 publishedAt: "2026-06-09"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 draft: false
 products:
   - rank: 1
@@ -276,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-14"
         price: 785
         rating: 4.56
         reviewCount: 1265
@@ -309,7 +309,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-w001-11309.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-02"
+        updatedAt: "2026-07-14"
         price: 563
         rating: 4.2
         reviewCount: 5

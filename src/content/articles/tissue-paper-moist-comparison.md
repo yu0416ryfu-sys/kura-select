@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-w001-4901988104055.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-14"
         price: 123
         rating: 0
         reviewCount: 0

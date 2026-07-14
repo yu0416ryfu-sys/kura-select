@@ -4,7 +4,7 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 draft: false
 products:
   - rank: 1
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fye3331.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-13"
         price: 467
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_ye3331"
         available: true
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyh-beans%2F1339654.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-13"
         price: 548
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_1339654"
         available: true
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaumall%2F42552987.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-13"
         price: 958
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaumall_42552987"
         available: true
@@ -276,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhak00a074f.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 1168
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hak00a074f"
         available: true
@@ -304,6 +304,17 @@ products:
     recommendedFor: "台所と浴室の両方で使い分けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qp5hn.3rdw6fd7.g00qp5hn.3rdw7095/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstrade-web%2F3s450309-10m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstrade-web%2Fi%2F10071423%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/strade-web/cabinet/bonstar/4902493450309-10.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fstrade-web%2F3s450309-10m.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-13"
+        price: 2200
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/strade-web_3s450309-10m"
+        available: true
 tags:
   - "排水口ネット おすすめ"
   - "水切りネット コスパ"

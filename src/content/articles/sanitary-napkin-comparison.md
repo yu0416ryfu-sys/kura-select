@@ -4,7 +4,7 @@ description: "生理用ナプキンを1枚あたりのコストで徹底比較�
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 products:
   - rank: 1
     name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F600587.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-14"
         price: 2183
         rating: 0
         reviewCount: 0
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdrmart-1%2Fcm-516393.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-14"
         price: 9548
         rating: 0
         reviewCount: 0
@@ -189,7 +189,7 @@ products:
     capacity: "2枚"
     pricePerUnit: "約1155円/枚"
     rating: 4.57
-    reviewCount: 1072
+    reviewCount: 1073
     features:
       - "布ナプキンやライナーとして使える"
       - "肌面素材やサイズで選びやすい"

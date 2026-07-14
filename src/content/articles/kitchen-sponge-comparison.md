@@ -4,7 +4,7 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 products:
   - rank: 1
     name: "セルロース製 食器洗いスポンジ 6個パック SDGs プラスチックフリー"
@@ -154,12 +154,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft1105-01.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-14"
         price: 410
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t1105-01"
         available: true
-        rating: 4.5
-        reviewCount: 8
+        rating: 4.33
+        reviewCount: 9
   - rank: 7
     name: "パックスナチュロン キッチンスポンジ"
     brand: "パックスナチュロン（PAX NATURON）"
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funmaison%2F19311003.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-14"
         price: 880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unmaison_19311003"
         available: true
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurashikaiteki-pro%2F10000528.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-14"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurashikaiteki-pro_10000528"
         available: true
@@ -281,6 +281,17 @@ products:
     recommendedFor: "カラー展開を楽しみながらまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r384n.3rdw62f6.g00r384n.3rdw76df/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdainichi-corp%2F10000025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdainichi-corp%2Fi%2F10000058%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dainichi-corp/cabinet/12515904/imgrc0111723413.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsunsunsponge%2Ftss08b.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-14"
+        price: 3073
+        rating: 4.86
+        reviewCount: 251
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sunsunsponge_tss08b"
+        available: true
 tags:
   - "スポンジ"
   - "コスパ"

@@ -4,7 +4,7 @@ description: "コットンを1枚あたりのコストで徹底比較。シル�
 category: "cotton"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: 2026-07-14
 products:
   - rank: 1
     name: "業務用フェイシャルコットン エステ化粧用"

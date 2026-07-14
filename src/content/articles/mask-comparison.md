@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 products:
   - rank: 1
     name: "立体不織布マスク バイカラー 50枚"
@@ -13,7 +13,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約5.3円/枚"
     rating: 4.19
-    reviewCount: 22114
+    reviewCount: 22116
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -131,8 +131,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaskmore%2Fmm3dice020-.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-12"
-        price: 725
+        updatedAt: "2026-07-14"
+        price: 806
         rating: 4.43
         reviewCount: 61
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/maskmore_mm3dice020-"
@@ -186,7 +186,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-ife-reborn%2Fmask120kfst.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-14"
         price: 2680
         rating: 5
         reviewCount: 3
@@ -241,7 +241,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft0090-01-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-14"
         price: 2039
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t0090-01-a"
         available: true

@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: 2026-07-14
 draft: false
 products:
   - rank: 1

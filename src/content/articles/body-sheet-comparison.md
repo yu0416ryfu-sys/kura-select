@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4902806127973.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 334
         rating: 0
         reviewCount: 0
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4550516475473.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 458
         rating: 5
         reviewCount: 4
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatata12121%2Fdeodorantshawarshirt-ag24-kosme-4550516493194-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 880
         rating: 0
         reviewCount: 0
@@ -199,7 +199,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F612-8545-103.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 1259
         rating: 0
         reviewCount: 0
@@ -227,12 +227,23 @@ products:
     recommendedFor: "オーガニック処方を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100003175%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10003262%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/hb02/nm_oc_body_014.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fecomarche%2F100003175.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-13"
+        price: 660
+        rating: 4.2
+        reviewCount: 5
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ecomarche_100003175"
+        available: true
   - rank: 8
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
-    price: 1837
+    price: 1929
     capacity: "30枚"
-    pricePerUnit: "約61円/枚"
+    pricePerUnit: "約64円/枚"
     rating: 4.76
     reviewCount: 17
     features:
@@ -254,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkusurinofukutaro%2F10164409.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 378
         rating: 0
         reviewCount: 1
@@ -266,8 +277,8 @@ products:
     price: 1780
     capacity: "15枚(5枚×3個)"
     pricePerUnit: "約119円/枚"
-    rating: 4.64
-    reviewCount: 56
+    rating: 4.63
+    reviewCount: 57
     features:
       - "1枚で全身を拭ける設計の冷却シート"
       - "運動後のクールダウンを意識したタイプ"
@@ -287,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188322109.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 1485
         rating: 4.2
         reviewCount: 5
@@ -315,6 +326,17 @@ products:
     recommendedFor: "冷感とアロマの香りを両方楽しみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u2kdn.3rdw6561.g00u2kdn.3rdw7ca7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftreeoflife-official%2F082112060%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftreeoflife-official%2Fi%2F10001377%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/treeoflife-official/cabinet/seasonal/mint_lemon/imgrc0211577356.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftreeoflife-official%2F082112060.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-13"
+        price: 440
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/treeoflife-official_082112060"
+        available: true
 tags:
   - "汗拭きシート おすすめ"
   - "ボディシート コスパ"

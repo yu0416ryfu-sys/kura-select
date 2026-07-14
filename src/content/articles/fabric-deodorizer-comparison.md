@@ -4,7 +4,7 @@ description: "衣類・布用消臭スプレーを1プッシュあたりのコ�
 category: "sanitizing-spray"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: 2026-07-14
 products:
   - rank: 1
     name: "花王｜Kao Resesh リセッシュ 除菌EX デオドラントパワー 香りが残ら"

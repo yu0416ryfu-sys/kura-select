@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚"
@@ -152,10 +152,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove041.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
-        price: 4350
+        updatedAt: "2026-07-13"
+        price: 4080
         rating: 4.53
-        reviewCount: 150
+        reviewCount: 152
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove041"
         available: true
   - rank: 6
@@ -165,7 +165,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約12円/枚"
     rating: 4.71
-    reviewCount: 1368
+    reviewCount: 1369
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -185,10 +185,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove001.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-13"
         price: 1260
         rating: 4.58
-        reviewCount: 2212
+        reviewCount: 2219
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
         available: true
   - rank: 7
@@ -257,6 +257,17 @@ products:
     recommendedFor: "業務用途や家族でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u1gen.3rdw666e.g00u1gen.3rdw71a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeiseishop%2Fms_ndg_100_10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeiseishop%2Fi%2F10000016%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/meiseishop/cabinet/biiino/item/main-image/ms_ndg_1000_topnew.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove003.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-13"
+        price: 9280
+        rating: 4.74
+        reviewCount: 226
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove003"
+        available: true
   - rank: 10
     name: "ニトリルゴム手袋 パウダーフリー 100枚"
     brand: "厳選いいもの本舗"

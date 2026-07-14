@@ -4,7 +4,7 @@ description: "消臭剤のおすすめ9選をコスパで徹底比較。リセ�
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 products:
   - rank: 1
     name: "ハルの消臭剤 消臭ビーズ 詰替用"
@@ -13,7 +13,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1265円/kg"
     rating: 4.79
-    reviewCount: 2971
+    reviewCount: 2972
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -101,8 +101,8 @@ products:
     price: 1155
     capacity: "600g"
     pricePerUnit: "約1.9円/g"
-    rating: 4.52
-    reviewCount: 396
+    rating: 4.51
+    reviewCount: 397
     features:
       - "植物由来ミネラル成分を使った無臭・無香料タイプ"
       - "置き型で玄関やクローゼットなど幅広い場所に使える"
@@ -235,6 +235,17 @@ products:
     recommendedFor: "気になったときにすぐ使えるスプレータイプを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/12622677/10000011_main1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fhs01.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-14"
+        price: 1485
+        rating: 4.73
+        reviewCount: 55
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_hs01"
+        available: true
   - rank: 9
     name: "クレベリンPro 20m2用 置き型 6個セット"
     brand: "大幸薬品（クレベリン）"

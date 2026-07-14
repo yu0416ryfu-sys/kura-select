@@ -4,7 +4,7 @@ description: "ハンドソープを1回あたりのコストで徹底比較。�
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 products:
   - rank: 1
     name: "ビオレ泡4リットル ビオレu　泡ハンドソープ"
@@ -286,7 +286,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fj0030009.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-13"
         price: 1254
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_j0030009"
         available: true

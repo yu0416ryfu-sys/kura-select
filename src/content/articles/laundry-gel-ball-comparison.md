@@ -4,7 +4,7 @@ description: "ジェルボール洗剤を1個あたりのコストで徹底比�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-14"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -211,7 +211,7 @@ products:
     capacity: "5L×2本セット"
     pricePerUnit: "約578円/L"
     rating: 4.73
-    reviewCount: 522
+    reviewCount: 523
     features:
       - "業務用の大容量5L×2本セットで長期間使えるコスパ商品"
       - "衣類洗浄に加え排水管清掃にも使える多用途性"
@@ -264,7 +264,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F622008a.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-14"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_622008a"
         available: true
@@ -297,7 +297,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurunavi%2F1806588.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-14"
         price: 25000
         rating: 0
         reviewCount: 0

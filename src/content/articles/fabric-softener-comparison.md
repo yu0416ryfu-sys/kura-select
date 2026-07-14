@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 products:
   - rank: 1
     name: "メキシコダウニー アロマフローラル 8.5L×2本"
@@ -242,12 +242,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsarasa-designstore%2Fset-ls021x3.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-13"
         price: 3119
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sarasa-designstore_set-ls021x3"
         available: true
-        rating: 4.41
-        reviewCount: 39
+        rating: 4.38
+        reviewCount: 40
   - rank: 9
     name: "マイランドリー 柔軟剤 500mL 5本セット"
     brand: "My Laundry"
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4540936002359.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-13"
         price: 749
         rating: 4.47
         reviewCount: 17

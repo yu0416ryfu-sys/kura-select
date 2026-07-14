@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: "2026-07-14"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901730160476.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-11"
+        updatedAt: "2026-07-14"
         price: 1030
         rating: 4.73
         reviewCount: 56
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F89403.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-11"
+        updatedAt: "2026-07-14"
         price: 4021
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_89403"
         available: true
@@ -79,7 +79,7 @@ products:
     capacity: "6000ml"
     pricePerUnit: "約0.99円/ml"
     rating: 4.78
-    reviewCount: 352
+    reviewCount: 353
     features:
       - "多機能タイプの薬用マウスウォッシュ"
       - "クリーンミント味の液体タイプ"
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180740-6.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-14"
         price: 5198
         rating: 4.75
         reviewCount: 4

@@ -4,7 +4,7 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: 2026-07-13
+updatedAt: 2026-07-14
 draft: false
 products:
   - rank: 1
