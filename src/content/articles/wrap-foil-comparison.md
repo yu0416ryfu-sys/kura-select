@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-12"
+updatedAt: "2026-07-15"
 products:
   - rank: 1
     name: "旭化成 サランラップ 家庭用 22cm×50m"
@@ -119,8 +119,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F350600.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
-        price: 15950
+        updatedAt: "2026-07-15"
+        price: 13090
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_350600"
         available: true
         rating: 4.86
@@ -175,8 +175,8 @@ products:
     price: 348
     capacity: "22cm×50m"
     pricePerUnit: "0円/m"
-    rating: 4.77
-    reviewCount: 66
+    rating: 4.78
+    reviewCount: 67
     features:
       - "旭化成のポリ塩化ビニリデン製ラップ・50mロール"
       - "22cm幅で日常使いしやすいサイズ"

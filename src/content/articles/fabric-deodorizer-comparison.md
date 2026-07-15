@@ -4,7 +4,7 @@ description: "衣類・布用消臭スプレーを1プッシュあたりのコ�
 category: "sanitizing-spray"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-14
+updatedAt: 2026-07-15
 products:
   - rank: 1
     name: "花王｜Kao Resesh リセッシュ 除菌EX デオドラントパワー 香りが残ら"
@@ -233,7 +233,7 @@ products:
     capacity: "300mL（約600回分）"
     pricePerUnit: "約8.0円/mL"
     rating: 4.49
-    reviewCount: 441
+    reviewCount: 442
     features:
       - "ANA国際線ファーストクラスで採用実績"
       - "MA-T（二酸化塩素系）で強力除菌"

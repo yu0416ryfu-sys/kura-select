@@ -4,7 +4,7 @@ description: "大人用紙おむつ・尿とりパッドのおすすめ10選を1
 category: "adult-diaper"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-07-11"
+updatedAt: "2026-07-15"
 products:
   - rank: 1
     name: "ひまわり にっこり緑茶パッド 2回吸収 300枚"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F10004173.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-14"
         price: 7260
         rating: 4.77
         reviewCount: 94
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00181.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-14"
         price: 7876
         rating: 4.54
         reviewCount: 65
@@ -121,17 +121,17 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00170.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-14"
         price: 7128
         rating: 4.5
         reviewCount: 101
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_g00170"
         available: true
   - rank: 5
-    name: "サルバ フレーヌケア ナイトロング"
+    name: "サルバ フレーヌケア ナイトロング 30枚×3袋（90枚）"
     brand: "サルバ"
     price: 5841
-    capacity: "90枚"
+    capacity: "30枚×3袋（90枚）"
     pricePerUnit: "約65円/枚"
     rating: 4.76
     reviewCount: 594
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5817.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-14"
         price: 6270
         rating: 4.51
         reviewCount: 78

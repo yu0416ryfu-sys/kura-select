@@ -4,7 +4,7 @@ description: "紙おむつを新生児用、Sサイズ、Mサイズ、BIG以上�
 category: "diaper"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: 2026-07-14
+updatedAt: "2026-07-15"
 products:
   - rank: 1
     name: "グーンプラス テープ"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2Fm7255398.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-25"
+        updatedAt: "2026-07-14"
         price: 6980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_m7255398"
         available: true
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7252903.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-14"
         price: 9380
         rating: 4.37
         reviewCount: 19
@@ -108,9 +108,9 @@ products:
   - rank: 4
     name: "パンパース さらケアテープ"
     brand: "Pampers"
-    price: 8980
+    price: 7980
     capacity: "4個セット"
-    pricePerUnit: "約2245円/個"
+    pricePerUnit: "約1995円/個"
     rating: 4.66
     reviewCount: 32
     features:
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7252903.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-14"
         price: 9380
         rating: 4.37
         reviewCount: 19
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7263228f.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-14"
         price: 7330
         rating: 4.85
         reviewCount: 26
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-14"
         price: 7084
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true

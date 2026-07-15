@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: "2026-07-15"
 products:
   - rank: 1
     name: "熊本県産 ヒノヒカリ"
@@ -13,7 +13,7 @@ products:
     capacity: "20kg"
     pricePerUnit: "約509円/kg"
     rating: 4.59
-    reviewCount: 14833
+    reviewCount: 14836
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffuchigami%2Fhino-kp30.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-15"
         price: 10880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fuchigami_hino-kp30"
         available: true
@@ -66,35 +66,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmanmayarice%2Fnouka10.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-15"
         price: 5580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/manmayarice_nouka10"
         available: true
         rating: 4.18
         reviewCount: 1775
   - rank: 3
-    name: "家計応援まんぷく米"
-    brand: "お米の阿部"
-    price: 5680
-    capacity: "5kg×2袋"
-    pricePerUnit: "約568円/kg"
-    rating: 4.27
-    reviewCount: 13767
-    features:
-      - "家庭用に使いやすい米商品"
-      - "まとめ買いやギフトに対応"
-      - "容量で比較しやすい"
-    pros:
-      - "日常の主食として使いやすい"
-      - "まとめ買いに向く"
-      - "用途に合わせて選べる"
-    cons:
-      - "精米時期や保存方法の確認が必要"
-      - "銘柄の好みは分かれる"
-    recommendedFor: "お米を容量と用途で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q08hn.3rdw6427.g00q08hn.3rdw7567/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokomeabe%2F10000076%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokomeabe%2Fi%2F10000076%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/okomeabe/cabinet/man/man-10k-futu.jpg?_ex=128x128"
-  - rank: 4
     name: "令和7年産 無洗米 新潟産コシヒカリ 10kg"
     brand: "ミツハシライス"
     price: 7600
@@ -121,13 +99,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkomenoya%2Frfngtkshknb10000.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-11"
+        updatedAt: "2026-07-15"
         price: 7750
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/komenoya_rfngtkshknb10000"
         available: true
         rating: 5
         reviewCount: 7
-  - rank: 5
+  - rank: 4
     name: "無洗米 富山県産コシヒカリ 10kg"
     brand: "ヤマトライス"
     price: 9780
@@ -149,7 +127,7 @@ products:
     reviewCount: 152
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/tym/koshi/bg/000324-2.jpg?_ex=128x128"
     pricePerUnit: "約978円/kg"
-  - rank: 6
+  - rank: 5
     name: "無洗米 農薬節減米 岩手県産ひとめぼれ 10kg"
     brand: "ヤマトライス"
     price: 9880
@@ -171,7 +149,7 @@ products:
     reviewCount: 73
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/iwt/hitome/008963-2.jpg?_ex=128x128"
     pricePerUnit: "約988円/kg"
-  - rank: 7
+  - rank: 6
     name: "無洗米 新潟県産コシヒカリ 10kg（5kg×2袋）"
     brand: "ヤマトライス"
     price: 8860
@@ -198,13 +176,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkosihikari%2F205.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-11"
+        updatedAt: "2026-07-15"
         price: 9378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kosihikari_205"
         available: true
         rating: 4.63
         reviewCount: 636
-  - rank: 8
+  - rank: 7
     name: "令和7年産 無洗米 茨城県産コシヒカリ 10kg"
     brand: "ミツハシライス"
     price: 11026
@@ -231,13 +209,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurunavi%2F1670297.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-11"
+        updatedAt: "2026-07-15"
         price: 16000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/furunavi_1670297"
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 9
+  - rank: 8
     name: "令和7年 佐渡産コシヒカリ 2kg"
     brand: "食の宝島佐渡"
     price: 3420
@@ -264,13 +242,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fechigoyonezo%2F05sdk25w02.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-11"
+        updatedAt: "2026-07-15"
         price: 13420
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/echigoyonezo_05sdk25w02"
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 10
+  - rank: 9
     name: "秋田県産 あきたこまち 18kg〜20kg"
     brand: "秋田県産あきたこまち"
     price: 14800

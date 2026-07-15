@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつ9製品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: "2026-07-15"
 products:
   - rank: 1
     name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚 旧パッケージ"
@@ -12,8 +12,8 @@ products:
     price: 2930
     capacity: "124枚+8枚（132枚）"
     pricePerUnit: "約22円/枚"
-    rating: 4.47
-    reviewCount: 17
+    rating: 4.5
+    reviewCount: 18
     features:
       - "全面通気性に優れたエアスルー素材採用"
       - "132枚大容量で1枚あたりコストが安い"
@@ -110,7 +110,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-14"
         price: 7084
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4903111569786-4.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-06"
+        updatedAt: "2026-07-14"
         price: 8316
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4903111569786-4"
         available: true
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02650.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-14"
         price: 4449
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos02650"
         available: true

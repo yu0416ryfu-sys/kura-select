@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: "2026-07-15"
 products:
   - rank: 1
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
@@ -123,7 +123,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約12円/mL"
     rating: 4.69
-    reviewCount: 544
+    reviewCount: 545
     features:
       - "ドクダミエキス配合のクレンジングオイル"
       - "毛穴や皮脂汚れまで落とす韓国コスメ"
@@ -242,7 +242,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3208
+    reviewCount: 3209
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"
@@ -262,12 +262,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-14"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true
         rating: 4.94
-        reviewCount: 463
+        reviewCount: 465
   - rank: 10
     name: "KINS クレンジングオイル 100mL"
     brand: "KINS"
@@ -275,7 +275,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約44円/mL"
     rating: 4.57
-    reviewCount: 1670
+    reviewCount: 1672
     features:
       - "発酵オイルを配合したクレンジングオイル"
       - "W洗顔不要でメイクと毛穴汚れを落とす"

@@ -4,7 +4,7 @@ description: "紙コップ・紙皿など使い捨て食器のおすすめ9選�
 category: "disposable-tableware"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-07-04"
+updatedAt: "2026-07-15"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoins%2F1002106.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-15"
         price: 5885
         rating: 4.58
         reviewCount: 43
@@ -47,7 +47,7 @@ products:
     capacity: "2000個"
     pricePerUnit: "約3.1円/個"
     rating: 4.7
-    reviewCount: 198
+    reviewCount: 199
     features:
       - "7オンスとやや大きめの容量タイプ"
       - "無地ホワイトでデザインを選ばない"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoins%2F1002108.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-15"
         price: 5390
         rating: 4.61
         reviewCount: 28
@@ -122,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnuts%2Fwa-dm-012r.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-15"
         price: 825
         rating: 0
         reviewCount: 0
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnuts%2Fwa-dm-014.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-15"
         price: 704
         rating: 0
         reviewCount: 0
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F215400.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-15"
         price: 10626
         rating: 4.86
         reviewCount: 7

@@ -4,7 +4,7 @@ description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペ
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: 2026-07-14
+updatedAt: "2026-07-15"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "7L×6袋（42L）"
     pricePerUnit: "約78円/L"
     rating: 4.21
-    reviewCount: 5628
+    reviewCount: 5630
     features:
       - "アイリスオーヤマ製のペレットタイプ紙製猫砂"
       - "燃えるゴミとして廃棄可能・トイレへの廃棄にも対応"
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F1533439.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-14"
         price: 3980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_1533439"
         available: true
@@ -67,10 +67,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101385ku.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-05"
+        updatedAt: "2026-07-14"
         price: 4280
-        rating: 4.26
-        reviewCount: 91
+        rating: 4.25
+        reviewCount: 92
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101385ku"
         available: true
   - rank: 3
@@ -100,12 +100,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101386ku.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-14"
         price: 4980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101386ku"
         available: true
-        rating: 4.67
-        reviewCount: 192
+        rating: 4.65
+        reviewCount: 193
   - rank: 4
     name: "ウッディフレッシュ 鉱物系猫砂 小粒 16L×2袋"
     brand: "ウッディフレッシュ"
@@ -135,7 +135,7 @@ products:
     capacity: "5L×4袋（20L）"
     pricePerUnit: "約111円/L"
     rating: 4.61
-    reviewCount: 1941
+    reviewCount: 1943
     features:
       - "ベントナイト鉱物系・ペレットタイプの固まる猫砂"
       - "抗菌・脱臭機能付きで衛生管理を考慮した設計"
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F309805.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-14"
         price: 2372
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_309805"
         available: true
@@ -223,7 +223,7 @@ products:
     capacity: "5L×4袋（20L）"
     pricePerUnit: "約144円/L"
     rating: 4.69
-    reviewCount: 2373
+    reviewCount: 2374
     features:
       - "ベントナイト鉱物系・固まるタイプの消臭猫砂"
       - "大手メーカーライオンによる消臭設計"
@@ -243,7 +243,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903351011250x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-14"
         price: 2701
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903351011250x4"
         available: true
@@ -278,7 +278,7 @@ products:
     capacity: "6L×3個（18L）"
     pricePerUnit: "約278円/L"
     rating: 4.68
-    reviewCount: 1867
+    reviewCount: 1868
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"
@@ -292,18 +292,18 @@ products:
       - "他の国産品と比べてやや価格帯が上がる場合がある"
     recommendedFor: "海外ブランドの細粒鉱物系で固まり性能を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10014271%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10014271%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/campaign/100142_1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/event_img/rkm_10014271_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F100142.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
-        price: 4949
+        updatedAt: "2026-07-14"
+        price: 5499
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_100142"
         available: true
         rating: 4.67
-        reviewCount: 708
+        reviewCount: 709
 tags:
   - "猫砂 おすすめ"
   - "猫砂 コスパ"

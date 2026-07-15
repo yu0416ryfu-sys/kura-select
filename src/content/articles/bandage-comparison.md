@@ -144,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987603464520.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-14"
         price: 580
         rating: 0
         reviewCount: 0
@@ -254,7 +254,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758907765-6-d.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-14"
         price: 5296
         rating: 0
         reviewCount: 0
@@ -287,7 +287,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop-ni%2F34901730077002.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-14"
         price: 1335
         rating: 0
         reviewCount: 0

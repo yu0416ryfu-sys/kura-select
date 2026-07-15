@@ -4,7 +4,7 @@ description: "フローリング掃除シートを1枚あたりのコストで�
 category: "floor-cleaner"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: 2026-07-15
 products:
   - rank: 1
     name: "激落ちくん ウェットシート 水の激落ちシート Ba フローリング＆リビング用シー"
@@ -75,9 +75,9 @@ products:
   - rank: 3
     name: "クイックルワイパー ドライシート"
     brand: "花王（クイックルワイパー）"
-    price: 630
+    price: 728
     capacity: "40枚"
-    pricePerUnit: "約16円/枚"
+    pricePerUnit: "約18円/枚"
     rating: 4.6
     reviewCount: 15
     features:

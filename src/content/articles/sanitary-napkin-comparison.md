@@ -4,7 +4,7 @@ description: "生理用ナプキンを1枚あたりのコストで徹底比較�
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: "2026-07-15"
 products:
   - rank: 1
     name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20"
@@ -33,46 +33,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F600587.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-15"
         price: 2183
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_600587"
         available: true
   - rank: 2
-    name: "ロリエ スリムガード 特に多い昼用 羽つき 19個入"
-    brand: "花王（ロリエ）"
-    price: 529
-    capacity: "19枚入"
-    pricePerUnit: "約28円/枚"
-    rating: 4.63
-    reviewCount: 93
-    features:
-      - "超熟睡ガード設計で横モレをしっかりブロック"
-      - "羽つきでショーツへの固定力が高い"
-      - "多い日の昼間でも安心できる高吸収設計"
-    pros:
-      - "横モレ防止性能が高く動いても安心"
-      - "羽つきでズレにくくアクティブな日でも快適"
-      - "花王ブランドの品質安定性"
-    cons:
-      - "1枚単価は比較4製品中やや高め"
-      - "30枚入のため購入頻度が高まりやすい"
-    recommendedFor: "多い日の昼間・動き回る日に安心して使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000944%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10123008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/283/4901301254283.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdrmart-1%2Fcm-516393.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-14"
-        price: 9548
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/drmart-1_cm-516393"
-        available: true
-  - rank: 3
     name: "ウィスパー うすさら 28枚入"
     brand: "P&G（ウィスパー）"
     price: 6089
@@ -94,7 +61,7 @@ products:
     recommendedFor: "薄さと吸収力を両立したい方・外出先でも快適に過ごしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405705%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11299524%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/705/405705.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "ベイビーハーツ 布ナプキン ライナー"
     brand: "baby hearts"
     price: 726
@@ -116,7 +83,7 @@ products:
     recommendedFor: "布ナプキンやライナーを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi4en.3rdw6abb.g00qi4en.3rdw7eb8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbabyhearts%2Fog-500%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbabyhearts%2Fi%2F10003157%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/babyhearts/cabinet/apukin_plain/01657563/02746568/og-500-top.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 4
     name: "JEWLINGE オーガニックおりものライナー"
     brand: "JEWLINGE"
     price: 999
@@ -138,7 +105,7 @@ products:
     recommendedFor: "布ナプキンやライナーを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qefin.3rdw6426.g00qefin.3rdw77ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewlinge%2Fts-s-l3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewlinge%2Fi%2F10004003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jewlinge/cabinet/01067786/11748914/11848138/liner_kanban_202602.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 5
     name: "JEWLINGE オーガニックおりものライナー 1枚"
     brand: "JEWLINGE"
     price: 999
@@ -160,7 +127,7 @@ products:
     recommendedFor: "布ナプキンやライナーを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qefin.3rdw6426.g00qefin.3rdw77ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewlinge%2Fts-s-l3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewlinge%2Fi%2F10004003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jewlinge/cabinet/01067786/11748914/11848138/liner_kanban_202602.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "JEWLINGE 布ナプキン お試し一体型"
     brand: "JEWLINGE"
     price: 1100
@@ -182,14 +149,14 @@ products:
     recommendedFor: "布ナプキンやライナーを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qefin.3rdw6426.g00qefin.3rdw77ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewlinge%2Fsuper-onecoin%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewlinge%2Fi%2F10004332%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jewlinge/cabinet/01067786/07436588/merged/otameshi_r5_202606.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "メイドインアース リトル布ナプキン"
     brand: "メイドインアース"
     price: 2310
     capacity: "2枚"
     pricePerUnit: "約1155円/枚"
     rating: 4.57
-    reviewCount: 1073
+    reviewCount: 1074
     features:
       - "布ナプキンやライナーとして使える"
       - "肌面素材やサイズで選びやすい"
@@ -215,7 +182,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bigmories_mie-zk-nn-ltset"
         available: true
-  - rank: 9
+  - rank: 8
     name: "JEWLINGE おりものライナープラス"
     brand: "JEWLINGE"
     price: 1250
@@ -237,7 +204,7 @@ products:
     recommendedFor: "布ナプキンやライナーを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qefin.3rdw6426.g00qefin.3rdw77ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewlinge%2Forimono-plus-2009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewlinge%2Fi%2F10002473%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jewlinge/cabinet/01067786/04124167/imgrc0123997213.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "ナチュラムーン 生理用ナプキン 普通の日用 羽なし 24個入"
     brand: "ナチュラムーン"
     price: 583
@@ -264,11 +231,44 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhappy-natural%2F018004000003.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-15"
         price: 3890
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/happy-natural_018004000003"
+        available: true
+  - rank: 10
+    name: "ロリエ スリムガード 特に多い昼用 羽つき 19個入"
+    brand: "花王（ロリエ）"
+    price: 529
+    capacity: "19個"
+    pricePerUnit: "約28円/個"
+    rating: 4.63
+    reviewCount: 93
+    features:
+      - "超熟睡ガード設計で横モレをしっかりブロック"
+      - "羽つきでショーツへの固定力が高い"
+      - "多い日の昼間でも安心できる高吸収設計"
+    pros:
+      - "横モレ防止性能が高く動いても安心"
+      - "羽つきでズレにくくアクティブな日でも快適"
+      - "花王ブランドの品質安定性"
+    cons:
+      - "1枚単価は比較4製品中やや高め"
+      - "30枚入のため購入頻度が高まりやすい"
+    recommendedFor: "多い日の昼間・動き回る日に安心して使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000944%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10123008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/283/4901301254283.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdrmart-1%2Fcm-516393.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-14"
+        price: 9548
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/drmart-1_cm-516393"
         available: true
 tags:
   - "ナプキン おすすめ"

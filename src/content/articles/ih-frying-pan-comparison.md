@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に8製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-07-04"
+updatedAt: "2026-07-15"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 1998
     capacity: "1個"
     pricePerUnit: "約1998円/個"
-    rating: 4.5
-    reviewCount: 309
+    rating: 4.48
+    reviewCount: 312
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -107,35 +107,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4562344407038"
         available: true
   - rank: 5
-    name: "ティファール IHハードチタニウム・アンリミテッド フライパン 26cm"
-    brand: "ティファール"
-    price: 5025
-    capacity: "1個"
-    pricePerUnit: "約5025円/個"
-    rating: 4.46
-    reviewCount: 139
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q1q9n.3rdw69c5.g00q1q9n.3rdw75df/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbellevie-harima%2Ft-fal-077%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbellevie-harima%2Fi%2F10152355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bellevie-harima/cabinet/0101/default/s1/t-fal-077_s0106.jpg?_ex=128x128"
-  - rank: 6
     name: "ティファール インジニオ・ネオ IHルージュ・アンリミテッド フライパン 26cm"
     brand: "ティファール"
     price: 6337
     capacity: "1個"
     pricePerUnit: "約6337円/個"
-    rating: 4.44
-    reviewCount: 82
+    rating: 4.45
+    reviewCount: 83
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -153,15 +131,15 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F3168430321199.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F3168430321212.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-13"
-        price: 5066
-        rating: 4.33
-        reviewCount: 9
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_3168430321199"
+        updatedAt: "2026-07-15"
+        price: 5018
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_3168430321212"
         available: true
-  - rank: 7
+  - rank: 6
     name: "CAST VARIUS 取っ手が外れるフライパン IH対応 26cm"
     brand: "CAST VARIUS"
     price: 6880
@@ -183,6 +161,39 @@ products:
     recommendedFor: "省スペース収納やオーブン活用を考える方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2hqn.3rdw6518.g00r2hqn.3rdw7197/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finterior-palette%2F479702%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finterior-palette%2Fi%2F10184108%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/interior-palette/cabinet/maker_hokua1/479702ip.jpg?_ex=128x128"
+  - rank: 7
+    name: "ティファール IHハードチタニウム・アンリミテッド フライパン 26cm"
+    brand: "ティファール"
+    price: 7810
+    capacity: "1枚"
+    pricePerUnit: "約7810円/枚"
+    rating: 4.44
+    reviewCount: 9
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F3168430306424%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11040742%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/424/3168430306424.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F3168430306424.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-15"
+        price: 7810
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_3168430306424"
+        available: true
 tags:
   - "IH対応フライパン"
   - "フライパン 26cm"

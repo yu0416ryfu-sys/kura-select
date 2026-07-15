@@ -4,7 +4,7 @@ description: "ティッシュペーパーを1組あたりの価格で徹底比�
 category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: 2026-07-14
+updatedAt: 2026-07-15
 products:
   - rank: 1
     name: "ハロー ソフトパックティッシュ"
@@ -35,7 +35,7 @@ products:
     capacity: "150組×50個"
     pricePerUnit: "約0.36円/組"
     rating: 4.54
-    reviewCount: 788
+    reviewCount: 789
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"
@@ -75,9 +75,9 @@ products:
   - rank: 4
     name: "スコッティ ティッシュペーパー フラワーボックス"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 7099
+    price: 7399
     capacity: "500枚×60箱"
-    pricePerUnit: "約0.47円/組"
+    pricePerUnit: "約0.49円/組"
     rating: 4.71
     reviewCount: 885
     features:
@@ -211,7 +211,7 @@ products:
     capacity: "200枚（100組）×12箱"
     pricePerUnit: "約4.4円/組"
     rating: 4.64
-    reviewCount: 690
+    reviewCount: 691
     features:
       - "パルプ100%の柔らかな2枚重ね"
       - "エリエールブランドの高品質"

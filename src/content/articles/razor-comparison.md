@@ -4,7 +4,7 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: "2026-07-15"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57020103-250.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-15"
         price: 9500
         rating: 0
         reviewCount: 0
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57010103-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-15"
         price: 720
         rating: 0
         reviewCount: 0
@@ -223,7 +223,7 @@ products:
     capacity: "替刃8個"
     pricePerUnit: "約438円/個"
     rating: 4.5
-    reviewCount: 291
+    reviewCount: 292
     features:
       - "5枚刃に加えて精密トリマー刃を搭載"
       - "極薄刃がひげの根元近くまで密着する設計"
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-aozora-shop%2F250929-005.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-15"
         price: 1300
         rating: 4.86
         reviewCount: 7

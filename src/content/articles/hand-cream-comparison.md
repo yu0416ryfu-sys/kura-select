@@ -54,7 +54,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhashbaby%2Fc492513.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-15"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hashbaby_c492513"
         available: true
@@ -109,7 +109,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenman-hompo%2Fth003.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-15"
         price: 2500
         rating: 4.61
         reviewCount: 378
@@ -164,12 +164,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F3303a.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-15"
         price: 253
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_3303a"
         available: true
         rating: 4
-        reviewCount: 6
+        reviewCount: 7
   - rank: 7
     name: "ALLNA ORGANIC ハンドクリーム 43g"
     brand: "ALLNA ORGANIC"

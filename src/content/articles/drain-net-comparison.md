@@ -4,7 +4,7 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: "2026-07-15"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fbk2707.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-15"
         price: 43839
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_bk2707"
         available: true
@@ -76,9 +76,9 @@ products:
   - rank: 3
     name: "システムポリマー ゴム付 不織布 水切り袋 浅型排水口用 100枚 水きりネット 三"
     brand: "システムポリマー"
-    price: 492
+    price: 459
     capacity: "100枚"
-    pricePerUnit: "約4.9円/枚"
+    pricePerUnit: "約4.6円/枚"
     rating: 4.5
     reviewCount: 4
     features:
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fye3331.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-15"
         price: 467
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_ye3331"
         available: true
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyh-beans%2F1339654.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-15"
         price: 548
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_1339654"
         available: true
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaumall%2F42552987.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-15"
         price: 958
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaumall_42552987"
         available: true
@@ -276,20 +276,20 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhak00a074f.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-15"
         price: 1168
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hak00a074f"
         available: true
         rating: 0
         reviewCount: 1
   - rank: 10
-    name: "排水口ネット 髪の毛トリトリ イージーネット 4枚×10袋"
+    name: "髪の毛トリトリ イージーネット 4枚×10袋（40枚）"
     brand: "ボンスター"
-    price: 2200
-    capacity: "40枚（4枚×10袋）"
+    price: 2180
+    capacity: "4枚×10袋（40枚）"
     pricePerUnit: "約55円/枚"
-    rating: 5
-    reviewCount: 3
+    rating: 4.64
+    reviewCount: 1030
     features:
       - "ポリプロピレン・ポリエステル製のヘアキャッチャー"
       - "台所・浴室どちらの排水口にも対応"
@@ -302,18 +302,18 @@ products:
       - "1袋あたりの枚数は少なめ"
       - "深型の排水口にはサイズが合わない場合がある"
     recommendedFor: "台所と浴室の両方で使い分けたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qp5hn.3rdw6fd7.g00qp5hn.3rdw7095/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstrade-web%2F3s450309-10m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstrade-web%2Fi%2F10071423%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/strade-web/cabinet/bonstar/4902493450309-10.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0hgn.3rdw611d.g00u0hgn.3rdw71b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fla-kurasu%2Fbt-et-186930-10s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fla-kurasu%2Fi%2F10000124%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/la-kurasu/cabinet/item/maker_bonstar/imgrc0103005309.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fstrade-web%2F3s450309-10m.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fla-kurasu%2F186930-10s.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-13"
-        price: 2200
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/strade-web_3s450309-10m"
+        updatedAt: "2026-07-15"
+        price: 2150
+        rating: 4.71
+        reviewCount: 78
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/la-kurasu_186930-10s"
         available: true
 tags:
   - "排水口ネット おすすめ"

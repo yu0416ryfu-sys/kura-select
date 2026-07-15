@@ -4,7 +4,7 @@ description: "トイレ用洗剤を1回あたりのコストで徹底比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-02"
+updatedAt: "2026-07-15"
 products:
   - rank: 1
     name: "ドメスト 除菌クリーナー 500ml×3個セット"
@@ -119,14 +119,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4903301118336.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4903301118336.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-12"
-        price: 441
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4903301118336"
+        updatedAt: "2026-07-15"
+        price: 237
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4903301118336"
         available: true
-        rating: 4.38
-        reviewCount: 21
+        rating: 0
+        reviewCount: 0
   - rank: 5
     name: "ソネット ナチュラルトイレットクリーナー"
     brand: "SONETT（ソネット）"
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fglv%2Fsnt-0016-000.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-15"
         price: 699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/glv_snt-0016-000"
         available: true
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzozo%2F47433692.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-15"
         price: 880
         rating: 0
         reviewCount: 2
@@ -199,8 +199,8 @@ products:
     price: 1980
     capacity: "1000ml"
     pricePerUnit: "約2.0円/ml"
-    rating: 4.65
-    reviewCount: 118
+    rating: 4.66
+    reviewCount: 119
     features:
       - "トイレ掃除に使える洗浄剤"
       - "黄ばみ・尿石・便座まわりなど用途別に選べる"
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fle-cure%2Fim-1008473.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-15"
         price: 1980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/le-cure_im-1008473"
         available: true
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9615427011.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-15"
         price: 216
         rating: 4.8
         reviewCount: 10

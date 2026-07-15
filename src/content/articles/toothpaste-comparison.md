@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: 2026-07-15
 products:
   - rank: 1
     name: "システマ ハグキプラス プレミアム 95g×4本セット"
@@ -35,7 +35,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 10960
+    reviewCount: 10961
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -68,7 +68,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 10960
+    reviewCount: 10961
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -122,8 +122,8 @@ products:
     price: 2580
     capacity: "120g"
     pricePerUnit: "約22円/g"
-    rating: 4.48
-    reviewCount: 2271
+    rating: 4.47
+    reviewCount: 2272
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -247,7 +247,7 @@ products:
       - "ホワイトニング効果を実感するまで時間がかかる"
     recommendedFor: "ホワイトニング・着色汚れを落としたい方・歯の白さにこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F36667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10004851%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/07319599/36667.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0715_p5a/kirikae1/36667.jpg?_ex=128x128"
   - rank: 10
     name: "しろえ ホワイトニングパウダー"
     brand: "しろえ"

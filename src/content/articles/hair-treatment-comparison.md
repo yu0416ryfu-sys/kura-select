@@ -4,7 +4,7 @@ description: "コスパいいヘアトリートメントを1g・1mLあたりで�
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: 2026-07-15
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -200,7 +200,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約35円/mL"
     rating: 4.76
-    reviewCount: 1576
+    reviewCount: 1577
     features:
       - "くせ毛ケア特化のディシプリンライン集中トリートメントマスク"
       - "湿気・広がり・アホ毛をまとめるポリマー・シーディ成分配合"
@@ -218,7 +218,7 @@ products:
   - rank: 9
     name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
     brand: "ファイントゥデイ（フィーノ）"
-    price: 2340
+    price: 2321
     capacity: "-"
     pricePerUnit: "-"
     rating: 5
@@ -244,7 +244,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "0円/mL"
     rating: 4.78
-    reviewCount: 1195
+    reviewCount: 1197
     features:
       - "年齢による髪悩みに対応するインバスヘアマスク"
       - "潤い・まとまりを重視した処方"

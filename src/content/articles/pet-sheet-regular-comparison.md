@@ -4,13 +4,13 @@ description: "犬猫用ペットシーツのレギュラーサイズを1枚あ�
 category: "pet-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: 2026-07-14
+updatedAt: 2026-07-15
 draft: false
 products:
   - rank: 1
     name: "ペットシーツ 薄型 スーパースリムシーツ レギュラー"
     brand: "ペッツビレッジクロス"
-    price: 3980
+    price: 4280
     capacity: "レギュラー 800枚"
     pricePerUnit: "約4.98円/枚"
     rating: 4.5
@@ -58,7 +58,7 @@ products:
     capacity: "レギュラー 800枚"
     pricePerUnit: "約5.6円/枚"
     rating: 4.49
-    reviewCount: 45304
+    reviewCount: 45307
     features:
       - "薄型のペット用トイレシート"
       - "レギュラーサイズを選べる"
@@ -98,11 +98,11 @@ products:
   - rank: 5
     name: "ペットシーツ 厚型 レギュラー"
     brand: "Pet館"
-    price: 4680
+    price: 3980
     capacity: "レギュラー 400枚"
     pricePerUnit: "約11.2円/枚"
     rating: 4.3
-    reviewCount: 6556
+    reviewCount: 6557
     features:
       - "吸収量を重視した厚型タイプ"
       - "レギュラーサイズを選べるペット用トイレシート"

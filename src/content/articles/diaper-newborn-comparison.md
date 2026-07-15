@@ -4,7 +4,7 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-12"
+updatedAt: 2026-07-15
 products:
   - rank: 1
     name: "グーンプラス テープ 新生児 4個セット"
@@ -165,7 +165,7 @@ products:
     brand: "ユニ・チャーム（ムーニー）"
     price: 8900
     capacity: "62枚×4個（248枚）"
-    pricePerUnit: "約35.9円/枚"
+    pricePerUnit: "約36円/枚"
     rating: 3.4
     reviewCount: 5
     features:
