@@ -50,6 +50,15 @@ products:
     recommendedFor: "歯茎への刺激を抑えながらロールフロスを使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F63712%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10894259%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/712/63712.jpg?_ex=128x128"
+    offers:
+      - provider: "amazon"
+        label: "Amazon"
+        asin: "B07B6D4VCM"
+        url: "https://www.amazon.co.jp/dp/B07B6D4VCM?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "high"
+        matchedCapacity: "40m×4個"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 3
     name: "フロアフロス 45m×3個 3個セット"
     brand: "fluorfloss"
@@ -72,6 +81,16 @@ products:
     recommendedFor: "歯科医院品質のフロスをまとめて揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49760%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008760%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/07319599/49760_n.jpg?_ex=128x128"
+    offers:
+      - provider: "amazon"
+        label: "Amazon（45m×2個）"
+        asin: "B009UPW1G2"
+        url: "https://www.amazon.co.jp/dp/B009UPW1G2?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "medium"
+        matchedCapacity: "45m×2個"
+        matchNotes: "入数違い採用（楽天は45m×3個）"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 4
     name: "GUM エクスパンディングフロス 30m"
     brand: "GUM"

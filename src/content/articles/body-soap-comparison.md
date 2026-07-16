@@ -61,6 +61,15 @@ products:
         available: true
         rating: 4.71
         reviewCount: 28
+      - provider: "amazon"
+        label: "Amazon（3kg）"
+        asin: "B01LKPBU66"
+        url: "https://www.amazon.co.jp/dp/B01LKPBU66?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "medium"
+        matchedCapacity: "3kg"
+        matchNotes: "同容量。Amazon側単品構成をページ確認済み前提で採用"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 3
     name: "アレッポの石鹸 ノーマル 200g×4個"
     brand: "アレッポの石鹸"
@@ -83,6 +92,16 @@ products:
     recommendedFor: "天然・無添加素材を重視したい方・顔と体を同じ石けんで洗いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf6in.3rdw6cdf.g00qf6in.3rdw72b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmugigokoro%2F10000030%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmugigokoro%2Fi%2F10000020%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mugigokoro/cabinet/newsg/ale/areppo-nomal.jpg?_ex=128x128"
+    offers:
+      - provider: "amazon"
+        label: "Amazon（200g×2個）"
+        asin: "B01C6JQSDK"
+        url: "https://www.amazon.co.jp/dp/B01C6JQSDK?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "medium"
+        matchedCapacity: "200g×2個"
+        matchNotes: "入数違い採用（楽天は200g×4個）"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 4
     name: "ミョウバン柿渋石鹸 ナチュラルクリアソープ 80g"
     brand: "AIMERE"

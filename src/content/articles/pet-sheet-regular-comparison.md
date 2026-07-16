@@ -29,6 +29,15 @@ products:
     recommendedFor: "薄型をこまめに交換して使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10025751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10025751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/campaign/55103458ku_1.jpg?_ex=128x128"
+    offers:
+      - provider: "amazon"
+        label: "Amazon"
+        asin: "B098CY7RPC"
+        url: "https://www.amazon.co.jp/dp/B098CY7RPC?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "high"
+        matchedCapacity: "レギュラー 200枚×4袋（800枚）"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 2
     name: "ペットシーツ 薄型 レギュラー 業務用"
     brand: "HAMI PET"
@@ -51,6 +60,15 @@ products:
     recommendedFor: "交換頻度が高く、まとめてストックしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5tcn.3rdw6b04.g00u5tcn.3rdw7baa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkingbridge%2Fpdt007%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkingbridge%2Fi%2F10000147%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kingbridge/cabinet/08719472/08755630/pdt007.jpg?_ex=128x128"
+    offers:
+      - provider: "amazon"
+        label: "Amazon"
+        asin: "B0C6SPJ4RB"
+        url: "https://www.amazon.co.jp/dp/B0C6SPJ4RB?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "high"
+        matchedCapacity: "レギュラー 1200枚（100枚×12）"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 3
     name: "ペットシーツ 薄型 レギュラー"
     brand: "Pet館"

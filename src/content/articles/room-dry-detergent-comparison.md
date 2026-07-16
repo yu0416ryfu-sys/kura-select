@@ -28,6 +28,16 @@ products:
     recommendedFor: "コスパと抗菌力を両立したい方・毎日部屋干しする方・すすぎ1回派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u7dvn.3rdw6bc7.g00u7dvn.3rdw7a34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuterastar%2Fb0d4z7rrlp-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuterastar%2Fi%2F10002720%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suterastar/cabinet/goq002/1617_1.jpg?_ex=128x128"
+    offers:
+      - provider: "amazon"
+        label: "Amazon（2380g×4個）"
+        asin: "B0FFN2P323"
+        url: "https://www.amazon.co.jp/dp/B0FFN2P323?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "medium"
+        matchedCapacity: "2380g×4個"
+        matchNotes: "入数違い採用（楽天は2380g×6個）"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 2
     name: "部屋干しトップ 除菌EX 詰替 810g×10個"
     brand: "ライオン（トップ）"
@@ -61,6 +71,14 @@ products:
         available: true
         rating: 4.88
         reviewCount: 113
+      - provider: "amazon"
+        label: "Amazon"
+        asin: "B0CR6MN4MQ"
+        url: "https://www.amazon.co.jp/dp/B0CR6MN4MQ?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "high"
+        matchedCapacity: "810g×10個"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 3
     name: "トップ スーパーナノックス ニオイ専用 部屋干し 詰め替え 1510g×6個セット"
     brand: "ライオン（トップ スーパーナノックス）"
@@ -83,6 +101,16 @@ products:
     recommendedFor: "最安値を求める方・ドラム式洗濯機ユーザー・部屋干し専用を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4qcn.3rdw6396.g00u4qcn.3rdw78c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatinum-eight%2F425%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatinum-eight%2Fi%2F10000459%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platinum-eight/cabinet/compass1706417618.jpg?_ex=128x128"
+    offers:
+      - provider: "amazon"
+        label: "Amazon（1510g×2個）"
+        asin: "B09TNK23MF"
+        url: "https://www.amazon.co.jp/dp/B09TNK23MF?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "medium"
+        matchedCapacity: "1510g×2個"
+        matchNotes: "入数違い採用（楽天は1510g×6個）"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 4
     name: "アリエール 液体 部屋干しプラス 詰め替え 超ジャンボ 1.1.21kg（超ジャンボサイズ）"
     brand: "P&G（アリエール）"

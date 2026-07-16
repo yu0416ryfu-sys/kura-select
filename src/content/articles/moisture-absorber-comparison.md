@@ -28,6 +28,15 @@ products:
     recommendedFor: "収納まわりの湿気対策をしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tjj0n.3rdw6a11.g00tjj0n.3rdw7adb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoitas%2F10000002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyoitas%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/yoitas/Takesumi-genre/Yoitas_Takesumi-genre_LP_Rakuten_Top.jpeg?_ex=128x128"
+    offers:
+      - provider: "amazon"
+        label: "Amazon"
+        asin: "B083L7KYX9"
+        url: "https://www.amazon.co.jp/dp/B083L7KYX9?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "high"
+        matchedCapacity: "8個セット"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 2
     name: "オカモト 水とりぞうさん 防虫剤付 クローゼット用 大判タイプ 2個入"
     brand: "オカモト（水とりぞうさん）"
@@ -61,6 +70,14 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+      - provider: "amazon"
+        label: "Amazon"
+        asin: "B07B5CQ8TZ"
+        url: "https://www.amazon.co.jp/dp/B07B5CQ8TZ?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "high"
+        matchedCapacity: "大判タイプ 2セット入"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 3
     name: "炭八 スマート小袋 5個セット"
     brand: "炭八"
@@ -94,6 +111,14 @@ products:
         available: true
         rating: 4.65
         reviewCount: 26
+      - provider: "amazon"
+        label: "Amazon"
+        asin: "B01M7TJB5K"
+        url: "https://www.amazon.co.jp/dp/B01M7TJB5K?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "high"
+        matchedCapacity: "スマート小袋 5袋セット（ホワイト）"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 4
     name: "炭八 newお試し5個セット"
     brand: "炭八"

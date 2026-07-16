@@ -28,6 +28,16 @@ products:
     recommendedFor: "コスパ重視の方・普通〜軽いダメージ髪の方・いち髪シャンプーと揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhm1n.3rdw621b.g00uhm1n.3rdw7ede/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep0104%2Fichikami-smth%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep0104%2Fi%2F10000229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep0104/cabinet/10645709/11494580/imgrc0187994441.jpg?_ex=128x128"
+    offers:
+      - provider: "amazon"
+        label: "Amazon（660g×1袋）"
+        asin: "B0B4RSGNRQ"
+        url: "https://www.amazon.co.jp/dp/B0B4RSGNRQ?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "medium"
+        matchedCapacity: "660g×1袋"
+        matchNotes: "入数違い採用（楽天は660mL×2個）"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 2
     name: "メリット コンディショナー つめかえ用【メリット】"
     brand: "花王（メリット）"

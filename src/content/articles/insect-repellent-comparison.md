@@ -73,6 +73,14 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yyshop_49469592"
         available: true
+      - provider: "amazon"
+        label: "Amazon"
+        asin: "B000FQ5JQ4"
+        url: "https://www.amazon.co.jp/dp/B000FQ5JQ4?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "high"
+        matchedCapacity: "100mL"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 3
     name: "家中どこでも虫キライスプレー"
     brand: "ウッディラボ"
@@ -106,6 +114,14 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+      - provider: "amazon"
+        label: "Amazon"
+        asin: "B07PJ47VHT"
+        url: "https://www.amazon.co.jp/dp/B07PJ47VHT?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "high"
+        matchedCapacity: "250mL（本体）"
+        updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 4
     name: "ヒバNON NON"
     brand: "ダイレクトテレショップ"
