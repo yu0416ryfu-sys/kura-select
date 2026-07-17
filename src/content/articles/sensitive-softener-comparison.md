@@ -4,7 +4,7 @@ description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹
 category: "fabric-softener"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: "2026-07-17"
 products:
   - rank: 1
     name: "ランドリン 柔軟剤 詰め替えアソートセット 9個入り"
@@ -34,8 +34,8 @@ products:
     price: 6180
     capacity: "1350ml×6袋"
     pricePerUnit: "約0.76円/ml"
-    rating: 4.78
-    reviewCount: 95
+    rating: 4.77
+    reviewCount: 96
     features:
       - "植物由来成分配合の低刺激処方"
       - "着色料無添加"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-16"
         price: 1040
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902135322537-73-30000839"
         available: true
@@ -100,8 +100,8 @@ products:
     price: 2816
     capacity: "1320mL×2個"
     pricePerUnit: "約1.1円/mL"
-    rating: 4.84
-    reviewCount: 167
+    rating: 4.85
+    reviewCount: 168
     features:
       - "植物由来成分90%以上配合のボタニカル処方"
       - "パラベン・シリコン・合成香料など8つの無添加処方"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469490579-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-16"
         price: 5214
         rating: 4.88
         reviewCount: 344

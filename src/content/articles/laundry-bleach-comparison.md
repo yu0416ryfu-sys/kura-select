@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-15"
+updatedAt: "2026-07-17"
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"
@@ -134,7 +134,7 @@ products:
     capacity: "1490g"
     pricePerUnit: "約5.0円/g"
     rating: 4.56
-    reviewCount: 260
+    reviewCount: 261
     features:
       - "植物由来成分配合の無添加液体洗濯洗剤"
       - "すすぎ1回対応で水道代と時間を節約できる"
@@ -284,7 +284,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F574939.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-15"
+        updatedAt: "2026-07-16"
         price: 3960
         rating: 0
         reviewCount: 0

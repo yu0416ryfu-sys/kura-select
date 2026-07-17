@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-07-15
+updatedAt: "2026-07-17"
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F1228689.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-07-16"
         price: 3970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_1228689"
         available: true
-        rating: 4.61
-        reviewCount: 41
+        rating: 4.62
+        reviewCount: 42
   - rank: 2
     name: "ネピア 激吸収 キッチンタオル 4ロール×12パック（100カット）"
     brand: "王子ネピア（ネピア）"
@@ -144,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901670117899x24.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-16"
         price: 4280
         rating: 0
         reviewCount: 1
@@ -176,8 +176,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkeyroom%2F4901750370008-10.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-07"
+        matchStatus: "matched"
+        updatedAt: "2026-07-16"
         price: 3480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/keyroom_4901750370008-10"
         available: true
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4975156901005.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-16"
         price: 4594
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4975156901005"
         available: true
@@ -297,13 +297,14 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Fr8o50.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-07-07"
         price: 3899
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-kurashi_r8o50"
-        available: true
+        available: false
         rating: 5
         reviewCount: 4
+        matchNotes: "capacity不一致: capacity不一致"
 tags:
   - "キッチンペーパー"
   - "コスパ"

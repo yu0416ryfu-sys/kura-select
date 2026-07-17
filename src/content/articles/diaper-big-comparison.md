@@ -4,7 +4,7 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-15"
+updatedAt: "2026-07-17"
 products:
   - rank: 1
     name: "グーンプラス テープ BIGサイズ"
@@ -36,7 +36,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-16"
         rating: 0
         reviewCount: 0
   - rank: 2
@@ -69,7 +69,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_60000000002751"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-16"
         rating: 0
         reviewCount: 2
   - rank: 3
@@ -102,7 +102,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111211647x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-16"
         rating: 4.73
         reviewCount: 56
   - rank: 4
@@ -135,7 +135,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111211807x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-16"
         rating: 4.93
         reviewCount: 46
   - rank: 5
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseedeck%2Fdos263-r6.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-16"
         price: 7580
         rating: 0
         reviewCount: 1
@@ -240,9 +240,9 @@ products:
   - rank: 8
     name: "ムーニーマン スーパービッグ 男の子"
     brand: "ユニ・チャーム（ムーニー）"
-    price: 1427
+    price: 1647
     capacity: "14枚"
-    pricePerUnit: "約102円/枚"
+    pricePerUnit: "約118円/枚"
     rating: 4.5
     reviewCount: 26
     features:
@@ -273,9 +273,9 @@ products:
   - rank: 9
     name: "ムーニーマン スーパービッグ 女の子"
     brand: "ユニ・チャーム（ムーニー）"
-    price: 1427
+    price: 1647
     capacity: "14枚"
-    pricePerUnit: "約102円/枚"
+    pricePerUnit: "約118円/枚"
     rating: 4.82
     reviewCount: 22
     features:
@@ -310,7 +310,7 @@ products:
     capacity: "ビッグ108枚（3個セット）"
     pricePerUnit: "0円/枚"
     rating: 4.66
-    reviewCount: 1673
+    reviewCount: 1677
     features:
       - "パンツタイプの紙おむつ"
       - "ふわもちタッチの肌あたりに配慮した設計"

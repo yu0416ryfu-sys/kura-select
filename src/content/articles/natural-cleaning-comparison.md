@@ -4,15 +4,15 @@ description: "重曹・セスキ炭酸ソーダ・クエン酸などのナチュ
 category: "natural-cleaning"
 articleType: "comparison"
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-15"
+updatedAt: "2026-07-17"
 draft: false
 products:
   - rank: 1
     name: "セスキ炭酸ソーダ 4.5kg×5袋"
     brand: "NICHIGA（ニチガ）"
-    price: 7660
+    price: 7980
     capacity: "22.5kg"
-    pricePerUnit: "約340円/kg"
+    pricePerUnit: "約355円/kg"
     rating: 4.86
     reviewCount: 565
     features:
@@ -34,8 +34,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki25.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-15"
-        price: 7660
+        updatedAt: "2026-07-16"
+        price: 7980
         rating: 4.67
         reviewCount: 132
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki25"
@@ -43,9 +43,9 @@ products:
   - rank: 2
     name: "セスキ炭酸ソーダ 5kg×3袋"
     brand: "NICHIGA（ニチガ）"
-    price: 5715
+    price: 5430
     capacity: "15kg"
-    pricePerUnit: "約381円/kg"
+    pricePerUnit: "約362円/kg"
     rating: 4.85
     reviewCount: 679
     features:
@@ -67,8 +67,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki15.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
-        price: 5715
+        updatedAt: "2026-07-16"
+        price: 5430
         rating: 4.86
         reviewCount: 111
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki15"
@@ -98,11 +98,11 @@ products:
   - rank: 4
     name: "セスキ炭酸ソーダ 5kg"
     brand: "NICHIGA（ニチガ）"
-    price: 2053
+    price: 2190
     capacity: "5kg"
-    pricePerUnit: "約411円/kg"
+    pricePerUnit: "約438円/kg"
     rating: 4.81
-    reviewCount: 948
+    reviewCount: 950
     features:
       - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
       - "宅配便で届く業務用サイズのパッケージ"
@@ -122,8 +122,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki5.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
-        price: 1843
+        updatedAt: "2026-07-16"
+        price: 2190
         rating: 4.73
         reviewCount: 230
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki5"
@@ -188,40 +188,18 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6021477.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-16"
         price: 1780
         rating: 4.78
         reviewCount: 68
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6021477"
         available: true
   - rank: 7
-    name: "クエン酸粉末 5kg 食品添加物グレード 純度99.5%以上"
-    brand: "アレスヘルスケア"
-    price: 3591
-    capacity: "5kg"
-    pricePerUnit: "約718円/kg"
-    rating: 4.78
-    reviewCount: 265
-    features:
-      - "食品添加物規格・純度99.5%以上の高純度クエン酸"
-      - "酸性タイプで水垢・石灰スケール・尿石を溶かす"
-      - "電気ポット・加湿器・トイレの水垢洗浄に対応"
-    pros:
-      - "重曹・セスキでは落ちないアルカリ性の水垢汚れに特化した効果"
-      - "業務用大容量でg単価が低くコスパに優れる"
-      - "食品グレードなので飲料・入浴剤にも転用可能"
-    cons:
-      - "油汚れ・たんぱく質系汚れには向かずアルカリ洗剤との使い分けが必要"
-      - "大容量のため保管スペースの確保が必要"
-    recommendedFor: "加湿器・電気ポット・トイレの水垢を定期的にケアしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qa34n.3rdw6dcf.g00qa34n.3rdw74c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fares-hc%2F700099%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fares-hc%2Fi%2F10000242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ares-hc/cabinet/00356984/kuensan5-1.jpg?_ex=128x128"
-  - rank: 8
     name: "セスキ炭酸ソーダ 950g 宅配便配送"
     brand: "NICHIGA（ニチガ）"
-    price: 685
+    price: 648
     capacity: "950g"
-    pricePerUnit: "約0.72円/g"
+    pricePerUnit: "約0.68円/g"
     rating: 4.68
     reviewCount: 782
     features:
@@ -243,18 +221,40 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
-        price: 785
+        updatedAt: "2026-07-16"
+        price: 748
         rating: 4.56
-        reviewCount: 1265
+        reviewCount: 1266
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki"
         available: true
+  - rank: 8
+    name: "クエン酸粉末 5kg 食品添加物グレード 純度99.5%以上"
+    brand: "アレスヘルスケア"
+    price: 3591
+    capacity: "5kg"
+    pricePerUnit: "約718円/kg"
+    rating: 4.78
+    reviewCount: 265
+    features:
+      - "食品添加物規格・純度99.5%以上の高純度クエン酸"
+      - "酸性タイプで水垢・石灰スケール・尿石を溶かす"
+      - "電気ポット・加湿器・トイレの水垢洗浄に対応"
+    pros:
+      - "重曹・セスキでは落ちないアルカリ性の水垢汚れに特化した効果"
+      - "業務用大容量でg単価が低くコスパに優れる"
+      - "食品グレードなので飲料・入浴剤にも転用可能"
+    cons:
+      - "油汚れ・たんぱく質系汚れには向かずアルカリ洗剤との使い分けが必要"
+      - "大容量のため保管スペースの確保が必要"
+    recommendedFor: "加湿器・電気ポット・トイレの水垢を定期的にケアしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qa34n.3rdw6dcf.g00qa34n.3rdw74c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fares-hc%2F700099%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fares-hc%2Fi%2F10000242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ares-hc/cabinet/00356984/kuensan5-1.jpg?_ex=128x128"
   - rank: 9
     name: "セスキ炭酸ソーダ 950g メール便配送"
     brand: "NICHIGA（ニチガ）"
-    price: 785
+    price: 748
     capacity: "950g"
-    pricePerUnit: "約0.83円/g"
+    pricePerUnit: "約0.79円/g"
     rating: 4.78
     reviewCount: 1268
     features:
@@ -276,10 +276,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
-        price: 785
+        updatedAt: "2026-07-16"
+        price: 748
         rating: 4.56
-        reviewCount: 1265
+        reviewCount: 1266
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki"
         available: true
   - rank: 10
@@ -309,7 +309,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-w001-11309.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-16"
         price: 563
         rating: 4.2
         reviewCount: 5

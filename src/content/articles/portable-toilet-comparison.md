@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ10選を1回
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: 2026-07-15
+updatedAt: "2026-07-17"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "60回分（50回＋10回）"
     pricePerUnit: "約21円/回"
     rating: 4.5
-    reviewCount: 7023
+    reviewCount: 7025
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -36,7 +36,7 @@ products:
     capacity: "120回分（100回＋20回）"
     pricePerUnit: "約25円/回"
     rating: 4.32
-    reviewCount: 173
+    reviewCount: 174
     features:
       - "防災士監修で凝固剤と排便袋がセット"
       - "消臭・抗菌に配慮した長期保存タイプ"
@@ -51,6 +51,17 @@ products:
     recommendedFor: "在宅と持ち出しをまとめて備えたい世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u856n.3rdw6d87.g00u856n.3rdw73f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftaigu188%2Fsimple_toilet%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftaigu188%2Fi%2F10000649%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/taigu188/cabinet/10350855/imgrc0098417905.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fulimalie%2F99jun24yjcs02.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-16"
+        price: 4980
+        rating: 4.56
+        reviewCount: 95
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ulimalie_99jun24yjcs02"
+        available: true
   - rank: 3
     name: "簡易トイレ 防災士監修 50回分セット"
     brand: "東京博海"
@@ -73,6 +84,17 @@ products:
     recommendedFor: "初めて簡易トイレを備える方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ttlin.3rdw62eb.g00ttlin.3rdw7fe0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftokyohiromi%2Fmkdj-easycs60%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftokyohiromi%2Fi%2F10004913%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tokyohiromi/cabinet/jinming15/imgrc0110552570.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoco-yasashisaya%2Fsaimol01.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-16"
+        price: 3780
+        rating: 4.49
+        reviewCount: 778
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/coco-yasashisaya_saimol01"
+        available: true
   - rank: 4
     name: "簡易トイレ シートトイレ"
     brand: "アクアタルク"
@@ -122,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fozoneassocia%2Ftoilet100.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-16"
         price: 3980
         rating: 4.25
         reviewCount: 208
@@ -155,7 +177,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2F100pol1.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-16"
         price: 4999
         rating: 4.5
         reviewCount: 959
@@ -201,7 +223,7 @@ products:
     capacity: "20回分"
     pricePerUnit: "約69円/回"
     rating: 4.52
-    reviewCount: 7191
+    reviewCount: 7190
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"

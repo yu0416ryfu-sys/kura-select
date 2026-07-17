@@ -4,7 +4,7 @@ description: "デンタルフロスを1回あたりのコストで比較した�
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: 2026-07-15
+updatedAt: 2026-07-17
 products:
   - rank: 1
     name: "GUM デンタルフロス 550m"
@@ -12,8 +12,8 @@ products:
     price: 280
     capacity: "550m（1,100回）"
     pricePerUnit: "約0.25円/回"
-    rating: 4.64
-    reviewCount: 61
+    rating: 4.65
+    reviewCount: 62
     features:
       - "550mの超大容量でまとめ買い不要"
       - "歯の形に沿うフラット糸で汚れをしっかりかき出す"
@@ -27,7 +27,7 @@ products:
       - "移動中や外出先では使いにくい"
     recommendedFor: "毎日フロスを使う方・コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0715_p5a/kirikae3/28528.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shohin08/28528.jpg?_ex=128x128"
   - rank: 2
     name: "クリニカ アドバンテージ スポンジフロス"
     brand: "ライオン（クリニカ）"

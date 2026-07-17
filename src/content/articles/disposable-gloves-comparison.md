@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-15"
+updatedAt: "2026-07-17"
 products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚"
@@ -35,7 +35,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約4.2円/枚"
     rating: 4.59
-    reviewCount: 140
+    reviewCount: 141
     features:
       - "使い切りで使える作業用手袋"
       - "継続利用しやすい定番構成"
@@ -165,7 +165,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約12円/枚"
     rating: 4.71
-    reviewCount: 1370
+    reviewCount: 1375
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -198,7 +198,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約12円/枚"
     rating: 4.57
-    reviewCount: 3570
+    reviewCount: 3573
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -220,7 +220,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約12円/枚"
     rating: 4.61
-    reviewCount: 857
+    reviewCount: 858
     features:
       - "調理向けの極薄仕様で粉なしタイプ"
       - "食品衛生法に適合したビニール素材"
@@ -262,10 +262,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove003.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-15"
+        updatedAt: "2026-07-16"
         price: 9080
         rating: 4.74
-        reviewCount: 226
+        reviewCount: 227
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove003"
         available: true
   - rank: 10

@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: 2026-07-17
 products:
   - rank: 1
     name: "メリットキッズ 泡で出てくるシャンプー ナチュラルフローラル 330ml"
@@ -200,7 +200,7 @@ products:
     capacity: "250ml"
     pricePerUnit: "約17円/mL"
     rating: 4.67
-    reviewCount: 291
+    reviewCount: 293
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"

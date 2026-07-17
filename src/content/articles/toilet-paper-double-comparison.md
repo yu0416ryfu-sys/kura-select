@@ -4,7 +4,7 @@ description: "ダブルのトイレットペーパーを1mあたりのコスト�
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-15"
+updatedAt: "2026-07-17"
 products:
   - rank: 1
     name: "再生紙トイレットペーパー ダブル"
@@ -13,7 +13,7 @@ products:
     capacity: "27.5m×12ロール×8パック（96ロール）"
     pricePerUnit: "約1.2円/m"
     rating: 4.58
-    reviewCount: 3564
+    reviewCount: 3573
     features:
       - "再生紙を使ったダブルタイプ"
       - "無地・無印刷で日常使いしやすい"
@@ -53,9 +53,9 @@ products:
   - rank: 3
     name: "スコッティ フラワーパック 3倍長持ち ダブル"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5731
+    price: 5575
     capacity: "75m×4ロール×12パック（3倍巻き）"
-    pricePerUnit: "約1.6円/m"
+    pricePerUnit: "約1.5円/m"
     rating: 4.75
     reviewCount: 920
     features:
@@ -295,13 +295,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2Fh7262029.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4901750227302.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-12"
-        price: 1000
-        rating: 4.38
-        reviewCount: 13
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_h7262029"
+        updatedAt: "2026-07-17"
+        price: 660
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4901750227302"
         available: true
 tags:
   - "トイレットペーパー"

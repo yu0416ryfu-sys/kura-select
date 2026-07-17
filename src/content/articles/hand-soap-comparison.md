@@ -4,7 +4,7 @@ description: "ハンドソープを1回あたりのコストで徹底比較。�
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: "2026-07-17"
 products:
   - rank: 1
     name: "ビオレ泡4リットル ビオレu　泡ハンドソープ"
@@ -13,7 +13,7 @@ products:
     capacity: "2L×2本"
     pricePerUnit: "約674円/L"
     rating: 4.66
-    reviewCount: 241
+    reviewCount: 242
     features:
       - "素肌と同じ弱酸性で肌にやさしい"
       - "SPT（肌清浄化技術）で汚れをすっきり落とす"
@@ -108,14 +108,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10068791.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r001-4903301176862.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-12"
-        price: 328
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10068791"
+        updatedAt: "2026-07-16"
+        price: 348
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r001-4903301176862"
         available: true
-        rating: 5
-        reviewCount: 6
+        rating: 0
+        reviewCount: 0
   - rank: 5
     name: "arau. 泡ハンドソープ つめかえ用 500mL"
     brand: "arau.（アラウ）"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-depart%2F409774.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-16"
         price: 440
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-depart_409774"
         available: true
@@ -286,7 +286,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fj0030009.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-13"
+        updatedAt: "2026-07-16"
         price: 1254
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_j0030009"
         available: true

@@ -4,13 +4,13 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: 2026-07-15
+updatedAt: 2026-07-17
 draft: false
 products:
   - rank: 1
     name: "ネピア ソフトパックティッシュ 200組 90個"
     brand: "王子ネピア"
-    price: 5980
+    price: 5880
     capacity: "200組×90個"
     pricePerUnit: "約0.33円/組"
     rating: 4.57
@@ -77,7 +77,7 @@ products:
     capacity: "150組×50個"
     pricePerUnit: "約0.36円/組"
     rating: 4.54
-    reviewCount: 789
+    reviewCount: 791
     features:
       - "アイリスオーヤマのソフトパック"
       - "150組×50個のまとめ買いパック"
@@ -219,7 +219,7 @@ products:
     capacity: "200組×80個"
     pricePerUnit: "約0.41円/組"
     rating: 4.66
-    reviewCount: 1284
+    reviewCount: 1287
     features:
       - "箱を使わないソフトパック仕様"
       - "200組のたっぷり大容量"

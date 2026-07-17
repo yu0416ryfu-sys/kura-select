@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-09"
+updatedAt: 2026-07-17
 products:
   - rank: 1
     name: "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット"
@@ -29,6 +29,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F0000049795240-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10184891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/aa/49795240.jpg?_ex=128x128"
   - rank: 2
+    name: "チェックアップ コドモ 60g×3本"
+    brand: "ライオン（チェックアップ）"
+    price: 1319
+    capacity: "60g×3本（180g）"
+    pricePerUnit: "約7.3円/g"
+    rating: 4.83
+    reviewCount: 6
+    features:
+      - "子ども向けの歯みがき用品"
+      - "ジェルや泡タイプなど使いやすさで選べる"
+      - "年齢や味の好みに合わせやすい候補"
+    pros:
+      - "子どもの歯みがき習慣に合わせて選べる"
+      - "フッ素量やフッ素不使用タイプを比較できる"
+      - "味や形状の好みを試しやすい"
+    cons:
+      - "対象年齢やフッ素濃度の確認が必要"
+      - "味や泡立ちは子どもの好みが分かれる"
+    recommendedFor: "子ども用歯みがき粉を年齢や味で選びたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t0trn.3rdw642b.g00t0trn.3rdw7fbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkelly-s%2F10003245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkelly-s%2Fi%2F10003245%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kelly-s/cabinet/chkupkodomogr3_01.jpg?_ex=128x128"
+  - rank: 3
     name: "あわだたない こどもハミガキ ラムネ 60g"
     brand: "エスケー石鹸"
     price: 495
@@ -61,7 +83,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hareya_y-nsk0182x5"
         available: true
-  - rank: 3
+  - rank: 4
     name: "エスケー石鹸 あわだたないこどもハミガキ ぶどう 60g"
     brand: "エスケー石鹸"
     price: 495
@@ -94,7 +116,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 4
+  - rank: 5
     name: "エスケー石鹸 あわだたないこどもハミガキ ぶどう 60g×32個"
     brand: "エスケー石鹸"
     price: 15840
@@ -116,7 +138,7 @@ products:
     recommendedFor: "年齢や味の好みに合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2u0n.3rdw6e74.g00r2u0n.3rdw74e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fecorea2010%2F3770c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fecorea2010%2Fi%2F10000578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ecorea2010/cabinet/item/case/3770c.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "あわだたない こどもハミガキ ラムネ 60g"
     brand: "エスケー石鹸"
     price: 517
@@ -138,7 +160,7 @@ products:
     recommendedFor: "年齢や味の好みに合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvxzn.3rdw6cd4.g00rvxzn.3rdw76f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaigo%2F4964495600182%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaigo%2Fi%2F10370485%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaigo/cabinet/2025b/4964495600182.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "ピジョン ジェル状歯みがき ぷちキッズ ぶどう味【親子で乳歯ケア】"
     brand: "ピジョン"
     price: 485
@@ -171,28 +193,6 @@ products:
         available: true
         rating: 4.88
         reviewCount: 17
-  - rank: 7
-    name: "チェックアップ コドモ 60g×3本"
-    brand: "ライオン（チェックアップ）"
-    price: 2259
-    capacity: "60g×3本（180g）"
-    pricePerUnit: "約13円/g"
-    rating: 4.83
-    reviewCount: 6
-    features:
-      - "子ども向けの歯みがき用品"
-      - "ジェルや泡タイプなど使いやすさで選べる"
-      - "年齢や味の好みに合わせやすい候補"
-    pros:
-      - "子どもの歯みがき習慣に合わせて選べる"
-      - "フッ素量やフッ素不使用タイプを比較できる"
-      - "味や形状の好みを試しやすい"
-    cons:
-      - "対象年齢やフッ素濃度の確認が必要"
-      - "味や泡立ちは子どもの好みが分かれる"
-    recommendedFor: "子ども用歯みがき粉を年齢や味で選びたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t0trn.3rdw642b.g00t0trn.3rdw7fbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkelly-s%2F10003245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkelly-s%2Fi%2F10003245%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kelly-s/cabinet/chkupkodomogr3_01.jpg?_ex=128x128"
   - rank: 8
     name: "ばぶりーキッズ ゆらしー こども用泡歯磨き粉 48ml"
     brand: "from COCORO"

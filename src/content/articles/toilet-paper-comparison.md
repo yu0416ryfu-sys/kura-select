@@ -4,14 +4,14 @@ description: "シングルのトイレットペーパーを1mあたりの単価�
 category: "toilet-paper"
 publishedAt: "2024-11-01"
 articleType: "comparison"
-updatedAt: "2026-07-15"
+updatedAt: "2026-07-17"
 products:
   - rank: 1
     name: "コアユース シングル 芯なし"
     brand: "コアユース"
-    price: 4975
+    price: 4750
     capacity: "170m×48ロール"
-    pricePerUnit: "約0.61円/m"
+    pricePerUnit: "約0.58円/m"
     rating: 4.52
     reviewCount: 1992
     features:
@@ -68,7 +68,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fikurun0810%2F101436.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
-        updatedAt: "2026-07-15"
+        updatedAt: "2026-07-17"
         matchStatus: "matched"
         rating: 0
         reviewCount: 1
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuasakamiten%2Fc02295.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-15"
+        updatedAt: "2026-07-17"
         price: 5028
         rating: 0
         reviewCount: 0
@@ -112,7 +112,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.67円/m"
     rating: 4.78
-    reviewCount: 1051
+    reviewCount: 1052
     features:
       - "太穴コアレスのシングルトイレットペーパー"
       - "再生紙を使用した長巻きタイプ"
@@ -134,7 +134,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.70円/m"
     rating: 4.67
-    reviewCount: 2751
+    reviewCount: 2752
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
@@ -166,7 +166,7 @@ products:
     capacity: "110m×45ロール"
     pricePerUnit: "約0.71円/m"
     rating: 4.71
-    reviewCount: 1073
+    reviewCount: 1074
     features:
       - "国産のシングルトイレットペーパー"
       - "個包装で保管時の衛生面に配慮しやすい"
@@ -198,7 +198,7 @@ products:
     capacity: "250m×16ロール"
     pricePerUnit: "約0.75円/m"
     rating: 4.6
-    reviewCount: 423
+    reviewCount: 424
     features:
       - "パルプを使用した消臭機能付きのシングルタイプ"
       - "芯なしの長巻き仕様で省スペースに保管しやすい"
@@ -285,7 +285,7 @@ products:
     capacity: "100m×60ロール"
     pricePerUnit: "約0.88円/m"
     rating: 4.54
-    reviewCount: 805
+    reviewCount: 806
     features:
       - "無漂白の再生紙を使用したシングルタイプ"
       - "無包装でフィルムごみを減らせるシンプル仕様"

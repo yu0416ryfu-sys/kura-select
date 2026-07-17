@@ -4,7 +4,7 @@ description: "洗濯槽クリーナーを1回あたりのコストで徹底比�
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-15"
+updatedAt: 2026-07-17
 products:
   - rank: 1
     name: "過炭酸ナトリウム 酸素系漂白剤 950g"
@@ -12,8 +12,8 @@ products:
     price: 598
     capacity: "950g"
     pricePerUnit: "約0.63円/g"
-    rating: 4.77
-    reviewCount: 2007
+    rating: 4.76
+    reviewCount: 2011
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "pH10.5のアルカリ性で汚れに働きかける"
@@ -167,7 +167,7 @@ products:
     capacity: "200g×3個（3回分）"
     pricePerUnit: "約4.2円/g"
     rating: 4.63
-    reviewCount: 732
+    reviewCount: 733
     features:
       - "酵素と塩素系成分を組み合わせたクリーナー"
       - "縦型・ドラム式両対応の設計"
@@ -255,7 +255,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約1584円/個"
     rating: 4.72
-    reviewCount: 486
+    reviewCount: 487
     features:
       - "縦型洗濯機向けの塩素系クリーナー"
       - "強力洗浄をうたう業務用レベル設計"

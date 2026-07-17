@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: 2026-07-17
 products:
   - rank: 1
     name: "メキシコダウニー アロマフローラル 8.5L×2本"
@@ -167,7 +167,7 @@ products:
     capacity: "600mL"
     pricePerUnit: "約1.3円/mL"
     rating: 4.63
-    reviewCount: 176
+    reviewCount: 178
     features:
       - "紅茶をテーマにした香りの柔軟剤"
       - "液体タイプの本体"
