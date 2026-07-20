@@ -14,7 +14,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約10円/mL"
     rating: 4.66
-    reviewCount: 2001
+    reviewCount: 2002
     features:
       - "天然100%・無添加の精製（クリア）ホホバオイル。スキンケア・マッサージ・ヘアに多目的使用可"
       - "100mL・300mL・500mL・1000mLの大容量まで選べるサイズ展開"

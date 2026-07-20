@@ -244,7 +244,7 @@ products:
     capacity: "500ml"
     pricePerUnit: "約2.8円/ml"
     rating: 4.21
-    reviewCount: 6099
+    reviewCount: 6100
     features:
       - "紀州備長炭由来の100%原液木酢液"
       - "30年以上の実績を持つ和歌山産の高品質品"
