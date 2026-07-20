@@ -4,7 +4,7 @@ description: "食洗機用洗剤を1回あたりのコストで徹底比較。�
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-07-17
+updatedAt: 2026-07-20
 products:
   - rank: 1
     name: "P&G 食洗機用ジョイ オレンジピール成分入り 詰替 490g"
@@ -106,35 +106,13 @@ products:
         rating: 4.54
         reviewCount: 13
   - rank: 4
-    name: "キュキュット 食器洗い乾燥機専用 粉末タイプ 詰替 800g×3セット"
-    brand: "花王（キュキュット）"
-    price: 2145
-    capacity: "800g×3セット（2400g）"
-    pricePerUnit: "約0.89円/g"
-    rating: 4.72
-    reviewCount: 341
-    features:
-      - "食洗機用の洗剤本体"
-      - "タブレットや粉末など食洗機向けの形状"
-      - "まとめ買いしやすい容量構成"
-    pros:
-      - "毎日の食洗機運転に備えやすい"
-      - "計量の手間や保管性で比較しやすい"
-      - "既存候補と形状違いで選べる"
-    cons:
-      - "食洗機の機種や庫内汚れとの相性確認が必要"
-      - "香りや溶け残りの感じ方は環境で変わる"
-    recommendedFor: "食洗機用洗剤を形状別に比較したい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404959%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148567%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/959/404959.jpg?_ex=128x128"
-  - rank: 5
     name: "ジョイ W除菌 食洗機用洗剤 オレンジピール 詰め替え 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
     capacity: "930g×3袋（2,790g）"
     pricePerUnit: "約1.00円/g"
     rating: 4.53
-    reviewCount: 74
+    reviewCount: 75
     features:
       - "食器洗い乾燥機専用の洗剤"
       - "継続利用しやすい定番構成"
@@ -160,7 +138,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/life-select-easyshop_ls1c040a6150"
         available: true
-  - rank: 6
+  - rank: 5
     name: "食洗機用ジョイ 除菌 詰替特大 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
@@ -193,7 +171,7 @@ products:
         available: true
         rating: 4.83
         reviewCount: 12
-  - rank: 7
+  - rank: 6
     name: "食洗機用ジョイ 除菌 詰め替え 特大 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
@@ -226,10 +204,32 @@ products:
         available: true
         rating: 4.83
         reviewCount: 12
+  - rank: 7
+    name: "キュキュット 食器洗い乾燥機専用 粉末タイプ 詰替 800g×3セット"
+    brand: "花王（キュキュット）"
+    price: 2574
+    capacity: "800g×3セット（2400g）"
+    pricePerUnit: "約1.1円/g"
+    rating: 4.72
+    reviewCount: 341
+    features:
+      - "食洗機用の洗剤本体"
+      - "タブレットや粉末など食洗機向けの形状"
+      - "まとめ買いしやすい容量構成"
+    pros:
+      - "毎日の食洗機運転に備えやすい"
+      - "計量の手間や保管性で比較しやすい"
+      - "既存候補と形状違いで選べる"
+    cons:
+      - "食洗機の機種や庫内汚れとの相性確認が必要"
+      - "香りや溶け残りの感じ方は環境で変わる"
+    recommendedFor: "食洗機用洗剤を形状別に比較したい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404959%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148567%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/959/404959.jpg?_ex=128x128"
   - rank: 8
     name: "緑の魔女 食洗機用洗剤 800g"
     brand: "ミマスクリーンケア"
-    price: 980
+    price: 990
     capacity: "800g"
     pricePerUnit: "約1.2円/g"
     rating: 4.47

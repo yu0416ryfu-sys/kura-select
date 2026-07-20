@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-07-17
+updatedAt: 2026-07-20
 products:
   - rank: 1
     name: "メリットキッズ 泡で出てくるシャンプー ナチュラルフローラル 330ml"
@@ -93,7 +93,7 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s57rn.3rdw600e.g00s57rn.3rdw7060/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finksc%2Fshampoo_d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finksc%2Fi%2F10000367%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/n_shampoo.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/po_shampoo.jpg?_ex=128x128"
   - rank: 4
     name: "ケフトル スカルプシャンプー"
     brand: "ケフトル"
@@ -101,7 +101,7 @@ products:
     capacity: "250ml"
     pricePerUnit: "約13円/mL"
     rating: 4.67
-    reviewCount: 1018
+    reviewCount: 1019
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -148,7 +148,7 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rtxcn.3rdw61bb.g00rtxcn.3rdw7a34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fu-ma-store%2F001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fu-ma-store%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-ma-store/cabinet/main/imgrc0115982279.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-ma-store/cabinet/ciers/2606/shampoo_10off.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -200,7 +200,7 @@ products:
     capacity: "250ml"
     pricePerUnit: "約17円/mL"
     rating: 4.67
-    reviewCount: 293
+    reviewCount: 295
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -255,7 +255,7 @@ products:
     capacity: "1本"
     pricePerUnit: "約4970円/本"
     rating: 4.4
-    reviewCount: 525
+    reviewCount: 526
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"

@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-07-17"
+updatedAt: 2026-07-20
 draft: false
 products:
   - rank: 1
@@ -80,7 +80,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1.5円/g"
     rating: 4.65
-    reviewCount: 680
+    reviewCount: 682
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -140,39 +140,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/familypet_52905133"
         available: true
   - rank: 5
-    name: "ニュートロ ナチュラルチョイス キャット"
-    brand: "ニュートロ"
-    price: 3980
-    capacity: "2kg"
-    pricePerUnit: "約2.0円/g"
-    rating: 4.68
-    reviewCount: 860
-    features:
-      - "猫向けのドライフードとして使いやすい設計"
-      - "年齢や生活環境に合わせて選びやすいライン"
-      - "保存しやすい袋入り・大容量タイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q36gn.3rdw6dbe.g00q36gn.3rdw737d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnyanzaq%2Fmtm0061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnyanzaq%2Fi%2F10140829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nyanzaq/cabinet/534/404534.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnutro-galenus%2F841762198.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-09"
-        price: 3980
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nutro-galenus_841762198"
-        available: true
-        rating: 4.68
-        reviewCount: 118
-  - rank: 6
     name: "ロイヤルカナン キトン"
     brand: "ロイヤルカナン"
     price: 4007
@@ -205,6 +172,39 @@ products:
         available: true
         rating: 4.75
         reviewCount: 864
+  - rank: 6
+    name: "ニュートロ ナチュラルチョイス キャット"
+    brand: "ニュートロ"
+    price: 4081
+    capacity: "2kg"
+    pricePerUnit: "約2.0円/g"
+    rating: 4.68
+    reviewCount: 865
+    features:
+      - "猫向けのドライフードとして使いやすい設計"
+      - "年齢や生活環境に合わせて選びやすいライン"
+      - "保存しやすい袋入り・大容量タイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q36gn.3rdw6dbe.g00q36gn.3rdw737d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnyanzaq%2Fmtm0061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnyanzaq%2Fi%2F10140829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nyanzaq/cabinet/534/404534.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnutro-galenus%2F841762198.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-09"
+        price: 3980
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nutro-galenus_841762198"
+        available: true
+        rating: 4.68
+        reviewCount: 118
   - rank: 7
     name: "ナチュラルバランス オリジナルウルトラ"
     brand: "Natural Balance"
@@ -300,7 +300,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2280円/個"
     rating: 4.64
-    reviewCount: 895
+    reviewCount: 900
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

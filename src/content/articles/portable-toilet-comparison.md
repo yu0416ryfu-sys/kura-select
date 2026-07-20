@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ10選を1回
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-07-17"
+updatedAt: 2026-07-20
 draft: false
 products:
   - rank: 1
@@ -223,7 +223,7 @@ products:
     capacity: "20回分"
     pricePerUnit: "約69円/回"
     rating: 4.52
-    reviewCount: 7190
+    reviewCount: 7191
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"

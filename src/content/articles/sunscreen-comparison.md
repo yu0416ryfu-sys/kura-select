@@ -4,7 +4,7 @@ description: "日焼け止めを1mLあたりのコストで徹底比較。ビオ
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-17"
+updatedAt: 2026-07-20
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -126,15 +126,15 @@ products:
       - "落とすときは丁寧なクレンジングが必要"
     recommendedFor: "屋外でのスポーツ・レジャーが多い方・絶対焼きたくない方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t269n.3rdw662f.g00t269n.3rdw745b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Farianakosume%2Fallie-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Farianakosume%2Fi%2F10006763%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/main-ariana/allie-001-ra.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/marason-ariana/allie-001-ra.jpg?_ex=128x128"
   - rank: 5
     name: "ラブミータッチ シルキーUVミルク 50g"
     brand: "ラブミータッチ"
     price: 3080
     capacity: "50g"
     pricePerUnit: "約62円/g"
-    rating: 4.84
-    reviewCount: 3670
+    rating: 4.85
+    reviewCount: 3684
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
