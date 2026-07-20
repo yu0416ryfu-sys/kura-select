@@ -4,7 +4,7 @@ description: "ハンドソープを1回あたりのコストで徹底比較。�
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-17"
+updatedAt: 2026-07-20
 products:
   - rank: 1
     name: "ビオレ泡4リットル ビオレu　泡ハンドソープ"
@@ -13,7 +13,7 @@ products:
     capacity: "2L×2本"
     pricePerUnit: "約674円/L"
     rating: 4.66
-    reviewCount: 242
+    reviewCount: 244
     features:
       - "素肌と同じ弱酸性で肌にやさしい"
       - "SPT（肌清浄化技術）で汚れをすっきり落とす"

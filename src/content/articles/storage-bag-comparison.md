@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: 2026-07-17
+updatedAt: 2026-07-20
 products:
   - rank: 1
     name: "ニッカルフレッシュ 鮮度保持袋"

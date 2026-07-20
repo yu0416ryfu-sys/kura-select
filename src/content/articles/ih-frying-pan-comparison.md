@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に8製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-07-15"
+updatedAt: "2026-07-20"
 draft: false
 products:
   - rank: 1
@@ -13,7 +13,7 @@ products:
     price: 1998
     capacity: "1個"
     pricePerUnit: "約1998円/個"
-    rating: 4.48
+    rating: 4.5
     reviewCount: 312
     features:
       - "楽天市場で取り扱いのある追加候補"
@@ -132,8 +132,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F3168430321212.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-15"
+        matchStatus: "matched"
+        updatedAt: "2026-07-20"
         price: 5018
         rating: 0
         reviewCount: 2
@@ -187,8 +187,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F3168430306424.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-15"
+        matchStatus: "matched"
+        updatedAt: "2026-07-20"
         price: 7810
         rating: 0
         reviewCount: 2

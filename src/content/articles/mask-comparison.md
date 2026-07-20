@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-07-17"
+updatedAt: 2026-07-20
 products:
   - rank: 1
     name: "立体不織布マスク バイカラー 50枚"
@@ -13,7 +13,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約5.3円/枚"
     rating: 4.19
-    reviewCount: 22121
+    reviewCount: 22124
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -35,7 +35,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約6.0円/枚"
     rating: 4.17
-    reviewCount: 3722
+    reviewCount: 3723
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -67,7 +67,7 @@ products:
     capacity: "51枚"
     pricePerUnit: "約7.8円/枚"
     rating: 4.22
-    reviewCount: 5765
+    reviewCount: 5766
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -111,7 +111,7 @@ products:
     capacity: "20枚"
     pricePerUnit: "約14円/枚"
     rating: 4.06
-    reviewCount: 9194
+    reviewCount: 9196
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -250,9 +250,9 @@ products:
   - rank: 10
     name: "アイリスオーヤマ ナノエアーマスク ふつう 7枚"
     brand: "アイリスオーヤマ"
-    price: 698
+    price: 500
     capacity: "7枚"
-    pricePerUnit: "約100円/枚"
+    pricePerUnit: "約71円/枚"
     rating: 4.31
     reviewCount: 87
     features:

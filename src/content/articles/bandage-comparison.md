@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10092408.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-20"
         price: 986
         rating: 4.93
         reviewCount: 98
@@ -84,6 +84,17 @@ products:
     recommendedFor: "子ども用や携帯用に手軽な絆創膏を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qmwvn.3rdw6149.g00qmwvn.3rdw77ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmirful%2F10000890%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmirful%2Fi%2F10000890%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mirful/cabinet/m78zaxtuka/imgrc0082972658.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmirful%2F10000890.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-20"
+        price: 330
+        rating: 4.67
+        reviewCount: 9
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/mirful_10000890"
+        available: true
   - rank: 4
     name: "サンリオキャラクターズ 絆創膏 18枚"
     brand: "Littleleaf（リトルリーフ）"
@@ -111,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faprox%2Fcha-bansoko.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-20"
         price: 396
         rating: 4.64
         reviewCount: 25
@@ -144,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987603464520.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-20"
         price: 580
         rating: 0
         reviewCount: 0
@@ -177,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901730240017.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-09"
+        updatedAt: "2026-07-20"
         price: 1267
         rating: 0
         reviewCount: 0

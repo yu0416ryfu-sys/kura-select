@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: 2026-07-20
 draft: false
 products:
   - rank: 1
@@ -184,39 +184,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-30881"
         available: true
   - rank: 7
-    name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 6袋セット"
-    brand: "花王（クイックル）"
-    price: 2963
-    capacity: "20枚×6袋（120枚）"
-    pricePerUnit: "約25円/枚"
-    rating: 4.67
-    reviewCount: 158
-    features:
-      - "トイレ用の掃除シート"
-      - "詰め替えやまとめ買い向けタイプ"
-      - "便器や便座まわりの拭き掃除向け"
-    pros:
-      - "日常掃除用をストックしやすい"
-      - "用途や香り違いで選びやすい"
-      - "流せるタイプを比較しやすい"
-    cons:
-      - "一度に流せる枚数を守る必要がある"
-      - "乾燥しにくい保管方法を確認したい"
-    recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65969%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10906710%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/969/65969.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksstore-yh%2F2734-000777.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-30"
-        price: 2480
-        rating: 4.4
-        reviewCount: 5
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksstore-yh_2734-000777"
-        available: true
-  - rank: 8
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 単品"
     brand: "花王（クイックル）"
     price: 548
@@ -238,7 +205,7 @@ products:
     recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000692%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10122468%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/424/4901301233424.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 2個セット"
     brand: "花王（クイックル）"
     price: 1082
@@ -271,12 +238,45 @@ products:
         reviewCount: 55
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_13193"
         available: true
+  - rank: 9
+    name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 6袋セット"
+    brand: "花王（クイックル）"
+    price: 3259
+    capacity: "20枚×6袋（120枚）"
+    pricePerUnit: "約27円/枚"
+    rating: 4.67
+    reviewCount: 158
+    features:
+      - "トイレ用の掃除シート"
+      - "詰め替えやまとめ買い向けタイプ"
+      - "便器や便座まわりの拭き掃除向け"
+    pros:
+      - "日常掃除用をストックしやすい"
+      - "用途や香り違いで選びやすい"
+      - "流せるタイプを比較しやすい"
+    cons:
+      - "一度に流せる枚数を守る必要がある"
+      - "乾燥しにくい保管方法を確認したい"
+    recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65969%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10906710%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/969/65969.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksstore-yh%2F2734-000777.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-30"
+        price: 2480
+        rating: 4.4
+        reviewCount: 5
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksstore-yh_2734-000777"
+        available: true
   - rank: 10
     name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×6袋"
     brand: "花王（クイックル）"
-    price: 3100
+    price: 3412
     capacity: "16枚×6袋（96枚）"
-    pricePerUnit: "約32円/枚"
+    pricePerUnit: "約36円/枚"
     rating: 4.8
     reviewCount: 10
     features:

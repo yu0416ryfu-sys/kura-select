@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-07-17"
+updatedAt: "2026-07-20"
 draft: false
 products:
   - rank: 1
@@ -241,11 +241,11 @@ products:
   - rank: 8
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
-    price: 2021
+    price: 2036
     capacity: "30枚"
-    pricePerUnit: "約67円/枚"
-    rating: 4.76
-    reviewCount: 17
+    pricePerUnit: "約68円/枚"
+    rating: 4.79
+    reviewCount: 19
     features:
       - "拭いた後に冷感を感じる清涼設計"
       - "大判シートで背中や腕まで拭きやすい"
@@ -277,8 +277,8 @@ products:
     price: 1780
     capacity: "15枚(5枚×3個)"
     pricePerUnit: "約119円/枚"
-    rating: 4.63
-    reviewCount: 57
+    rating: 4.64
+    reviewCount: 58
     features:
       - "1枚で全身を拭ける設計の冷却シート"
       - "運動後のクールダウンを意識したタイプ"
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188322109.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-20"
         price: 1485
         rating: 4.2
         reviewCount: 5
@@ -310,8 +310,8 @@ products:
     price: 0
     capacity: "10枚"
     pricePerUnit: "0円/枚"
-    rating: 4.53
-    reviewCount: 15
+    rating: 4.56
+    reviewCount: 16
     features:
       - "エッセンシャルオイルを使用した冷感タイプ"
       - "厚手でボディタオルとしても使える設計"
@@ -331,7 +331,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftreeoflife-official%2F082112060.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-16"
+        updatedAt: "2026-07-20"
         price: 440
         rating: 0
         reviewCount: 0
