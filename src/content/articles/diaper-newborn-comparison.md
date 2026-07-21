@@ -4,7 +4,7 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-20"
+updatedAt: 2026-07-21
 products:
   - rank: 1
     name: "グーンプラス テープ 新生児 4個セット"

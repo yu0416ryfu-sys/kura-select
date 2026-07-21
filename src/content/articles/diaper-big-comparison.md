@@ -36,7 +36,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-16"
+        updatedAt: "2026-07-20"
         rating: 0
         reviewCount: 0
   - rank: 2
@@ -69,7 +69,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_60000000002751"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-16"
+        updatedAt: "2026-07-20"
         rating: 0
         reviewCount: 2
   - rank: 3
@@ -102,7 +102,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111211647x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-07-16"
+        updatedAt: "2026-07-20"
         rating: 4.73
         reviewCount: 56
   - rank: 4
@@ -135,7 +135,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111211807x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-07-16"
+        updatedAt: "2026-07-20"
         rating: 4.93
         reviewCount: 46
   - rank: 5
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseedeck%2Fdos263-r6.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-16"
+        updatedAt: "2026-07-20"
         price: 7580
         rating: 0
         reviewCount: 1
@@ -201,7 +201,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4902011743081-1"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-20"
         rating: 5
         reviewCount: 3
   - rank: 7
@@ -300,7 +300,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171750x6"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-20"
         rating: 0
         reviewCount: 2
   - rank: 10

@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: 2026-07-20
+updatedAt: "2026-07-21"
 products:
   - rank: 1
     name: "熊本県産 ヒノヒカリ"
@@ -46,7 +46,7 @@ products:
     capacity: "10kg"
     pricePerUnit: "約558円/kg"
     rating: 4.39
-    reviewCount: 16095
+    reviewCount: 16096
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -91,7 +91,7 @@ products:
     recommendedFor: "新潟県産コシヒカリを無洗米で使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3eon.3rdw616f.g00q3eon.3rdw7349/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakizawa%2F2019090073%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftakizawa%2Fi%2F10000227%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 4.88
-    reviewCount: 119
+    reviewCount: 120
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/takizawa/cabinet/syouhinn/08533100/musenmai10kgver3.jpg?_ex=128x128"
     pricePerUnit: "約760円/kg"
     offers:
@@ -207,11 +207,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-furusato%2F1653728.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurunavi%2F1670297.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-16"
+        updatedAt: "2026-07-21"
         price: 16000
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-furusato_1653728"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/furunavi_1670297"
         available: true
         rating: 0
         reviewCount: 0
