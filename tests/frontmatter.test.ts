@@ -1624,20 +1624,27 @@ updatedAt: 2026-04-01
 describe("updateUpdatedAt", () => {
   it("既存の updatedAt を指定日付で置換する", () => {
     const result = updateUpdatedAt(UPDATED_AT_SAMPLE, "2026-05-06");
-    expect(result).toContain("updatedAt: 2026-05-06");
+    expect(result).toContain('updatedAt: "2026-05-06"');
     expect(result).not.toContain("updatedAt: 2026-04-01");
+  });
+
+  it("引用符付きの既存 updatedAt も引用符付きで置換する", () => {
+    const quoted = UPDATED_AT_SAMPLE.replace("updatedAt: 2026-04-01", 'updatedAt: "2026-04-01"');
+    const result = updateUpdatedAt(quoted, "2026-05-06");
+    expect(result).toContain('updatedAt: "2026-05-06"');
+    expect(result).not.toContain('updatedAt: "2026-04-01"');
   });
 
   it("updatedAt がない場合は publishedAt の直後に挿入する", () => {
     const noUpdatedAt = UPDATED_AT_SAMPLE.replace("\nupdatedAt: 2026-04-01", "");
     const result = updateUpdatedAt(noUpdatedAt, "2026-05-06");
-    expect(result).toContain("publishedAt: 2026-04-01\nupdatedAt: 2026-05-06");
+    expect(result).toContain('publishedAt: 2026-04-01\nupdatedAt: "2026-05-06"');
   });
 
   it("publishedAt も updatedAt もない場合でも updatedAt を追加する", () => {
     const minimal = `---\ntitle: "テスト"\n---\n本文`;
     const result = updateUpdatedAt(minimal, "2026-05-06");
-    expect(result).toContain("updatedAt: 2026-05-06");
+    expect(result).toContain('updatedAt: "2026-05-06"');
   });
 
   it("本文部分は変更されない", () => {
