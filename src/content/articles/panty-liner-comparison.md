@@ -4,7 +4,7 @@ description: "おりものシート（パンティライナー）のおすすめ
 category: "panty-liner"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: 2026-07-21
+updatedAt: 2026-07-22
 draft: false
 products:
   - rank: 1
@@ -162,6 +162,39 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903111316083"
         available: true
   - rank: 6
+    name: "サラサーティ コットン100 極上やわらか 無香料 52枚"
+    brand: "小林製薬（サラサーティ）"
+    price: 353
+    capacity: "52枚"
+    pricePerUnit: "約6.8円/枚"
+    rating: 4.83
+    reviewCount: 6
+    features:
+      - "表面に天然コットン100%を使用した無香料タイプ"
+      - "やわらかな肌当たりを意識した設計"
+      - "香料を使わないシンプル仕様"
+    pros:
+      - "香り付きが苦手な人でも使いやすい無香料"
+      - "やわらかい肌当たりを求める人に向く"
+      - "天然コットン素材で肌に触れる面がやさしい"
+    cons:
+      - "今回の比較内では単価が高めになりやすい"
+      - "香りでのニオイ対策はできない"
+    recommendedFor: "無香料にこだわる方・肌当たりのやわらかさを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987072043288%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10171808%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/s/4987072043288.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flamp%2Fkasar-13.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-15"
+        price: 740
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lamp_kasar-13"
+        available: true
+  - rank: 7
     name: "サラサーティ コットン100 無香料 おりものシート"
     brand: "小林製薬（サラサーティ）"
     price: 878
@@ -193,39 +226,6 @@ products:
         rating: 4.78
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4987072009741"
-        available: true
-  - rank: 7
-    name: "サラサーティ コットン100 極上やわらか 無香料 おりものシート"
-    brand: "小林製薬（サラサーティ）"
-    price: 421
-    capacity: "52枚"
-    pricePerUnit: "約8.1円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "表面に天然コットン100%を使用した無香料タイプ"
-      - "やわらかな肌当たりを意識した設計"
-      - "香料を使わないシンプル仕様"
-    pros:
-      - "香り付きが苦手な人でも使いやすい無香料"
-      - "やわらかい肌当たりを求める人に向く"
-      - "天然コットン素材で肌に触れる面がやさしい"
-    cons:
-      - "今回の比較内では単価が高めになりやすい"
-      - "香りでのニオイ対策はできない"
-    recommendedFor: "無香料にこだわる方・肌当たりのやわらかさを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ukdzn.3rdw666d.g00ukdzn.3rdw7ec6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplant-online%2Fp4189%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplant-online%2Fi%2F10005021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/plant-online/cabinet/image/p4189_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flamp%2Fkasar-13.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-15"
-        price: 740
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lamp_kasar-13"
         available: true
 tags:
   - "おりものシート おすすめ"

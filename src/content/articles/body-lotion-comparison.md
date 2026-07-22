@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-07-21"
+updatedAt: "2026-07-22"
 draft: false
 products:
   - rank: 1
@@ -107,39 +107,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4560119225856"
         available: true
   - rank: 4
-    name: "エリザベスアーデン グリーンティー ボディローション"
-    brand: "Elizabeth Arden（エリザベスアーデン）"
-    price: 1580
-    capacity: "500mL"
-    pricePerUnit: "約3.2円/mL"
-    rating: 4.44
-    reviewCount: 1023
-    features:
-      - "グリーンティーの香りのボディローション"
-      - "大容量のミルクタイプ"
-      - "全身用の保湿ローション"
-    pros:
-      - "みずみずしい使用感で広い範囲に塗りやすい"
-      - "爽やかな香りで季節を問わず使いやすい"
-      - "大容量でたっぷり使える"
-    cons:
-      - "香りの好みが分かれる"
-      - "高保湿タイプを求める方には軽めの使用感"
-    recommendedFor: "香り付きの全身ローションを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr1tn.3rdw63fa.g00pr1tn.3rdw7bd6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmeland%2F213359%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmeland%2Fi%2F10011157%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmeland/cabinet/b25_1/213359_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbettysbeauty%2F10910012.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-10"
-        price: 1497
-        rating: 4.5
-        reviewCount: 151
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/bettysbeauty_10910012"
-        available: true
-  - rank: 5
     name: "5種のヒアルロン酸配合スキンローション 600ml"
     brand: "3種のヒアルロン酸配合スキンローショ"
     price: 2500
@@ -161,6 +128,39 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F4731%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10000232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/04815981/4731-m01c.jpg?_ex=128x128"
+  - rank: 5
+    name: "エリザベスアーデン グリーンティー ボディローション 500mL"
+    brand: "Elizabeth Arden（エリザベスアーデン）"
+    price: 2180
+    capacity: "500mL"
+    pricePerUnit: "約4.4円/mL"
+    rating: 4.56
+    reviewCount: 202
+    features:
+      - "グリーンティーの香りのボディローション"
+      - "大容量のミルクタイプ"
+      - "全身用の保湿ローション"
+    pros:
+      - "みずみずしい使用感で広い範囲に塗りやすい"
+      - "爽やかな香りで季節を問わず使いやすい"
+      - "大容量でたっぷり使える"
+    cons:
+      - "香りの好みが分かれる"
+      - "高保湿タイプを求める方には軽めの使用感"
+    recommendedFor: "香り付きの全身ローションを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3lln.3rdw63e1.g00q3lln.3rdw78a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmetch%2F85805071370%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmetch%2Fi%2F10010044%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmetch/cabinet/29/0000007350000.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbettysbeauty%2F10910012.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-21"
+        price: 1497
+        rating: 4.5
+        reviewCount: 151
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/bettysbeauty_10910012"
+        available: true
   - rank: 6
     name: "セラミエイド 薬用スキンミルク"
     brand: "池田模範堂（セラミエイド）"
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10161795.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-10"
+        updatedAt: "2026-07-21"
         price: 2899
         rating: 4.74
         reviewCount: 35

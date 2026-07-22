@@ -91,8 +91,8 @@ products:
         matchStatus: "matched"
         updatedAt: "2026-07-21"
         price: 1680
-        rating: 4.5
-        reviewCount: 42
+        rating: 4.49
+        reviewCount: 43
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale_4988787090024-10"
         available: true
   - rank: 4

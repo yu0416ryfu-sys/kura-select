@@ -4,7 +4,7 @@ description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分�
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-21"
+updatedAt: "2026-07-22"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -13,7 +13,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.76
-    reviewCount: 1556
+    reviewCount: 1557
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -38,7 +38,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_pphalf300"
         available: true
         rating: 4.84
-        reviewCount: 902
+        reviewCount: 903
   - rank: 2
     name: "HEIKO PPパン袋 20-30 300枚"
     brand: "HEIKO"
@@ -249,10 +249,10 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fkc-73%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10001776%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/sitei/kc/kc-73n_1.jpg?_ex=128x128"
   - rank: 10
-    name: "ゴミ袋 90L 業務用 厚手"
+    name: "ゴミ袋 90L 業務用 厚手 50枚×4冊"
     brand: "ケイヨウ実業"
     price: 5780
-    capacity: "50枚×4冊"
+    capacity: "50枚×4冊（200枚）"
     pricePerUnit: "約29円/枚"
     rating: 3.54
     reviewCount: 13

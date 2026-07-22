@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: 2026-07-21
+updatedAt: 2026-07-22
 draft: false
 products:
   - rank: 1
@@ -277,13 +277,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5d7n.3rdw6b76.g00s5d7n.3rdw7a8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect-2%2F4580543943171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect-2%2Fi%2F10004038%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect-2/cabinet/img/v/4580543943171.jpg?_ex=128x128"
   - rank: 10
-    name: "アウトドアボディスプレー"
+    name: "パーフェクトポーション アウトドアボディスプレー 100mL"
     brand: "PERFECT POTION"
     price: 1870
-    capacity: "125ml"
-    pricePerUnit: "約15円/mL"
-    rating: 4.67
-    reviewCount: 12
+    capacity: "100mL"
+    pricePerUnit: "約19円/mL"
+    rating: 4.49
+    reviewCount: 544
     features:
       - "天然アロマ100%配合・合成殺虫成分不使用の処方"
       - "6種類のハーバル成分を配合した自然由来スプレー"
@@ -296,8 +296,8 @@ products:
       - "天然成分のため合成殺虫成分系と比べると忌避効果の持続時間が短い傾向がある"
       - "成分の香りが好みに合わない場合もある"
     recommendedFor: "天然・自然成分にこだわりたい方や肌の敏感な方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qlmon.3rdw646c.g00qlmon.3rdw79fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fps-sports%2Fperfect-potion-110931cd-125%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fps-sports%2Fi%2F10006565%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ps-sports/cabinet/perfectpotion/imgrc0105784259.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Fp0060001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10002154%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/02716961/02974729/imgrc0132362283.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

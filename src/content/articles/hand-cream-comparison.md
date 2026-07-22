@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-07-21"
+updatedAt: "2026-07-22"
 products:
   - rank: 1
     name: "ニベア ハンドクリーム 75g"
@@ -122,7 +122,7 @@ products:
     capacity: "40g"
     pricePerUnit: "約39円/g"
     rating: 4.53
-    reviewCount: 825
+    reviewCount: 826
     features:
       - "40gのコンパクトサイズでポーチに収まりやすい"
       - "プチギフト・プレゼント用途に対応したパッケージ"

@@ -4,17 +4,17 @@ description: "IH対応の一人用鍋を16cm・18cm中心に11製品比較。卓
 category: "cooking-pot"
 publishedAt: "2026-05-10"
 articleType: "comparison"
-updatedAt: 2026-07-21
+updatedAt: 2026-07-22
 draft: false
 products:
   - rank: 1
-    name: "ホーロー ミルクパン IH対応 片手鍋"
+    name: "富士ホーロー コットン ミルクパン 14cm IH対応"
     brand: "FYP"
-    price: 3380
+    price: 3300
     capacity: "1個"
-    pricePerUnit: "約3380円/個"
-    rating: 5
-    reviewCount: 2
+    pricePerUnit: "約3300円/個"
+    rating: 4.63
+    reviewCount: 597
     features:
       - "IH・ガス火対応のホーローミルクパン"
       - "シンプルなデザインで食卓にも出しやすい"
@@ -27,8 +27,8 @@ products:
       - "詳細なサイズ・容量は購入前にリンク先で確認が必要"
       - "ホーロー製のため衝撃や空焚きには注意が必要"
     recommendedFor: "ホーローの片手鍋でミルクパン兼用に使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6ucn.3rdw657d.g00u6ucn.3rdw7da4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvisionshop%2Ffyp-mp091%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvisionshop%2Fi%2F10000667%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/visionshop/cabinet/fyp/fyp-mp091-b.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rhi5n.3rdw6f4a.g00rhi5n.3rdw7b06/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcooking-clocca%2Ffuji-ctn14m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcooking-clocca%2Fi%2F10005336%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cooking-clocca/cabinet/03069247/03181597/fuji-ctn14m_01-1.jpg?_ex=128x128"
   - rank: 2
     name: "プチなべ IH対応 卓上鍋 蓋付き"
     brand: "和平フレイズ"
@@ -167,8 +167,8 @@ products:
     price: 3490
     capacity: "21.5cm / 約0.98L"
     pricePerUnit: "1個あたり約0円"
-    rating: 4.81
-    reviewCount: 37
+    rating: 4.82
+    reviewCount: 38
     features:
       - "IH200V対応のホーロー製一人鍋"
       - "W21.5×D21.5×H11.5cmのコンパクトサイズ"

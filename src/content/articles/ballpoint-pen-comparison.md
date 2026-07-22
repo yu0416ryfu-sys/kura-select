@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: 2026-07-21
+updatedAt: 2026-07-22
 draft: false
 products:
   - rank: 1
@@ -120,7 +120,7 @@ products:
     capacity: "1本+ケース1個のセット"
     pricePerUnit: "約3000円/本"
     rating: 4.74
-    reviewCount: 2661
+    reviewCount: 2662
     features:
       - "天然木素材を使用した温かみのあるデザインのボールペン＆ケースセット"
       - "10文字までの名入れ刻印に対応し、送料無料で届けられる"

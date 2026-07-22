@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-07-21
+updatedAt: 2026-07-22
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -74,28 +74,6 @@ products:
         reviewCount: 2
         matchNotes: "capacity不一致: capacity不一致"
   - rank: 3
-    name: "リード クッキングペーパー プロ用 中サイズ 100枚×2ロール×8袋"
-    brand: "リード"
-    price: 5995
-    capacity: "100枚×2ロール×8袋（1600枚）"
-    pricePerUnit: "約3.7円/枚"
-    rating: 4.8
-    reviewCount: 114
-    features:
-      - "キッチン向けの紙製ペーパー"
-      - "ロールまたはシートタイプで使い分けできる"
-      - "調理や水切りに使いやすい構成"
-    pros:
-      - "調理中の油切りや拭き取りに使いやすい"
-      - "ロール型とシート型を比較できる"
-      - "ストック用途にも選びやすい"
-    cons:
-      - "厚手タイプは収納場所を取りやすい"
-      - "用途によってはペーパータオルとの使い分けが必要"
-    recommendedFor: "調理や片付けで紙ペーパーをよく使う家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rr70n.3rdw687e.g00rr70n.3rdw7db2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurea%2F10000104%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurea%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurea/cabinet/imgrc0091719260.jpg?_ex=128x128"
-  - rank: 4
     name: "エリエール 超吸収キッチンタオル 70カット×4ロール×4パック"
     brand: "大王製紙（エリエール）"
     price: 5171
@@ -117,6 +95,28 @@ products:
     recommendedFor: "吸水力重視の方・水回りの掃除にも使いたい方・品質重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F14506%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10645679%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/506/14506.jpg?_ex=128x128"
+  - rank: 4
+    name: "リード クッキングペーパー プロ用 中サイズ 100枚×2ロール×8袋"
+    brand: "リード"
+    price: 7440
+    capacity: "100枚×2ロール×8袋（1600枚）"
+    pricePerUnit: "約4.7円/枚"
+    rating: 4.8
+    reviewCount: 114
+    features:
+      - "キッチン向けの紙製ペーパー"
+      - "ロールまたはシートタイプで使い分けできる"
+      - "調理や水切りに使いやすい構成"
+    pros:
+      - "調理中の油切りや拭き取りに使いやすい"
+      - "ロール型とシート型を比較できる"
+      - "ストック用途にも選びやすい"
+    cons:
+      - "厚手タイプは収納場所を取りやすい"
+      - "用途によってはペーパータオルとの使い分けが必要"
+    recommendedFor: "調理や片付けで紙ペーパーをよく使う家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tqrun.3rdw6d1a.g00tqrun.3rdw7ac8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorinoyamamoto%2F10000286%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorinoyamamoto%2Fi%2F10000286%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/morinoyamamoto/cabinet/clean/imgrc0096543840.jpg?_ex=128x128"
   - rank: 5
     name: "リード クッキングペーパー スマートタイプ 36枚×24パック"
     brand: "リード"

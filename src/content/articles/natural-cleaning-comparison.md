@@ -4,7 +4,7 @@ description: "重曹・セスキ炭酸ソーダ・クエン酸などのナチュ
 category: "natural-cleaning"
 articleType: "comparison"
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-21"
+updatedAt: "2026-07-22"
 draft: false
 products:
   - rank: 1
@@ -96,6 +96,39 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s8gpn.3rdw6fb0.g00s8gpn.3rdw79fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fns-manin%2F0009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fns-manin%2Fi%2F10000217%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ns-manin/cabinet/05354021/05354772/imgrc0074340684.jpg?_ex=128x128"
   - rank: 4
+    name: "アームアンドハンマー ベーキングソーダ 6.1kg"
+    brand: "Arm & Hammer（アームアンドハンマー）"
+    price: 2629
+    capacity: "6.1kg"
+    pricePerUnit: "約431円/kg"
+    rating: 4.79
+    reviewCount: 272
+    features:
+      - "米国コストコ定番品の重炭酸ナトリウム100%・食品グレード"
+      - "超大容量6.1kgで大量消費する用途に対応"
+      - "消臭・入浴・料理・掃除と幅広い用途に使用可能"
+    pros:
+      - "超大容量のため頻繁な買い足しが不要でg単価も最安クラス"
+      - "食品・入浴・掃除の全用途に対応する汎用性"
+      - "コストコ定番品として安定した品質と供給"
+    cons:
+      - "大容量のため保管スペースが必要"
+      - "輸入品のため入荷状況によって購入できない場合がある"
+    recommendedFor: "入浴剤に大量消費する方・まとめ買いでg単価を極限まで下げたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q4l4n.3rdw6a8c.g00q4l4n.3rdw707b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcherrybell%2Fpure_bakingsoda%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcherrybell%2Fi%2F10000039%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cherrybell/cabinet/item/c/zakka/jyusou25_m1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos01029.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-12"
+        price: 2590
+        rating: 4.5
+        reviewCount: 10
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos01029"
+        available: true
+  - rank: 5
     name: "セスキ炭酸ソーダ 5kg"
     brand: "NICHIGA（ニチガ）"
     price: 2190
@@ -127,39 +160,6 @@ products:
         rating: 4.73
         reviewCount: 230
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki5"
-        available: true
-  - rank: 5
-    name: "アームアンドハンマー ベーキングソーダ 6.1kg"
-    brand: "Arm & Hammer（アームアンドハンマー）"
-    price: 2790
-    capacity: "6.1kg"
-    pricePerUnit: "約457円/kg"
-    rating: 5
-    reviewCount: 4
-    features:
-      - "米国コストコ定番品の重炭酸ナトリウム100%・食品グレード"
-      - "超大容量6.1kgで大量消費する用途に対応"
-      - "消臭・入浴・料理・掃除と幅広い用途に使用可能"
-    pros:
-      - "超大容量のため頻繁な買い足しが不要でg単価も最安クラス"
-      - "食品・入浴・掃除の全用途に対応する汎用性"
-      - "コストコ定番品として安定した品質と供給"
-    cons:
-      - "大容量のため保管スペースが必要"
-      - "輸入品のため入荷状況によって購入できない場合がある"
-    recommendedFor: "入浴剤に大量消費する方・まとめ買いでg単価を極限まで下げたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u276n.3rdw666a.g00u276n.3rdw7ca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhappydelica%2F488431%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhappydelica%2Fi%2F10001461%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/happydelica/cabinet/biiino/item/main-image-2/20240227101401_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos01029.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-12"
-        price: 2590
-        rating: 4.5
-        reviewCount: 10
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos01029"
         available: true
   - rank: 6
     name: "アルカリウォッシュ 3kg"

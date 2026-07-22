@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: "2026-07-22"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -139,39 +139,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/takuhaibin_m7269456"
         available: true
   - rank: 5
-    name: "フロッシュ アロエ ベラ 食器用洗剤 1000mL×4本セット"
-    brand: "フロッシュ（Werner & Mertz）"
-    price: 2880
-    capacity: "1000mL×4本"
-    pricePerUnit: "約0.72円/mL"
-    rating: 5
-    reviewCount: 6
-    features:
-      - "アロエベラ配合で手肌に優しい低刺激処方"
-      - "100%リサイクルPET容器使用の環境配慮型ボトル"
-      - "生分解性100%（OECD302B試験済み）のエコ洗剤"
-    pros:
-      - "アロエベラ配合で手荒れが気になる方にも使いやすい"
-      - "1000mL×4本の大容量で詰め替え頻度を大幅削減"
-      - "環境負荷が低く、エコ志向の方に向いている"
-    cons:
-      - "4本セットのため保管スペースの確保が必要"
-      - "まとめ買い形式で少量から試しにくい"
-    recommendedFor: "手荒れ対策と環境配慮を両立しつつ大容量でコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tr6pn.3rdw6d44.g00tr6pn.3rdw7445/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Futopia-style%2Ffroschdish1000x2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Futopia-style%2Fi%2F10001397%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/utopia-style/cabinet/items/costco9/froschdish1000x2_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgyy-shop%2F11019-frosch-aloe-vera-dish-detergent-1000mlx4.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-21"
-        price: 2799
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/gyy-shop_11019-frosch-aloe-vera-dish-detergent-1000mlx4"
-        available: true
-  - rank: 6
     name: "パックス 200番 台所用石けん 詰替用 2300mL×2本 2本セット"
     brand: "太陽油脂"
     price: 4550
@@ -193,6 +160,39 @@ products:
     recommendedFor: "台所用石けんを大容量でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pk2an.3rdw647a.g00pk2an.3rdw7456/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuyeki%2F395%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fuyeki%2Fi%2F10000474%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/uyeki/cabinet/syohin1/item01/packs/pax200_set2.jpg?_ex=128x128"
+  - rank: 6
+    name: "フロッシュ アロエベラ 食器用洗剤 1000mL×2本"
+    brand: "フロッシュ（Werner & Mertz）"
+    price: 1998
+    capacity: "1000mL×2本"
+    pricePerUnit: "約1.0円/mL"
+    rating: 4.64
+    reviewCount: 14
+    features:
+      - "アロエベラ配合で手肌に優しい低刺激処方"
+      - "100%リサイクルPET容器使用の環境配慮型ボトル"
+      - "生分解性100%（OECD302B試験済み）のエコ洗剤"
+    pros:
+      - "アロエベラ配合で手荒れが気になる方にも使いやすい"
+      - "1000mL×4本の大容量で詰め替え頻度を大幅削減"
+      - "環境負荷が低く、エコ志向の方に向いている"
+    cons:
+      - "4本セットのため保管スペースの確保が必要"
+      - "まとめ買い形式で少量から試しにくい"
+    recommendedFor: "手荒れ対策と環境配慮を両立しつつ大容量でコストを抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rjgtn.3rdw6c98.g00rjgtn.3rdw7688/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworld-depo%2Fm-ctc-11019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworld-depo%2Fi%2F13299906%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/world-depo/cabinet/ctc001/11019.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fifc-valuetrust%2Fb07kzgjhtd20250718.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-21"
+        price: 1699
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ifc-valuetrust_b07kzgjhtd20250718"
+        available: true
   - rank: 7
     name: "ヤシノミ洗剤 野菜・食器用 つめかえ用 480mL"
     brand: "サラヤ（ヤシノミ洗剤）"

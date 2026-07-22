@@ -3,17 +3,17 @@ title: "フロッシュとヤシノミ洗剤を徹底比較【2026年版】コ�
 description: "フロッシュとヤシノミ洗剤（サラヤ）の違いを1mLあたりの単価・手肌へのやさしさ・食材洗浄対応・環境配慮の4軸で徹底比較。どっちを選ぶべきか、用途別の使い分けまで解説します。価格は毎週自動更新。"
 category: "dish-detergent"
 publishedAt: "2026-07-08"
-updatedAt: "2026-07-09"
+updatedAt: "2026-07-22"
 articleType: "comparison"
 products:
   - rank: 1
-    name: "フロッシュ アロエ ベラ 食器用洗剤 1000mL×4本セット"
+    name: "フロッシュ アロエベラ 食器用洗剤 1000mL×2本"
     brand: "フロッシュ（Werner & Mertz）"
-    price: 2880
-    capacity: "1000mL×4本"
-    pricePerUnit: "約0.72円/mL"
-    rating: 5
-    reviewCount: 6
+    price: 1998
+    capacity: "1000mL×2本"
+    pricePerUnit: "約1.0円/mL"
+    rating: 4.64
+    reviewCount: 14
     features:
       - "アロエベラ配合で手肌に優しい低刺激処方"
       - "100%リサイクルPET容器使用の環境配慮型ボトル"
@@ -26,18 +26,18 @@ products:
       - "4本セットのため保管スペースの確保が必要"
       - "まとめ買い形式で少量から試しにくい"
     recommendedFor: "手荒れ対策と環境配慮を両立しつつ大容量でコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tr6pn.3rdw6d44.g00tr6pn.3rdw7445/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Futopia-style%2Ffroschdish1000x2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Futopia-style%2Fi%2F10001397%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/utopia-style/cabinet/items/costco9/froschdish1000x2_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rjgtn.3rdw6c98.g00rjgtn.3rdw7688/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworld-depo%2Fm-ctc-11019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworld-depo%2Fi%2F13299906%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/world-depo/cabinet/ctc001/11019.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgyy-shop%2F11019-frosch-aloe-vera-dish-detergent-1000mlx4.html"
-        matchStatus: "matched"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fifc-valuetrust%2Fb07kzgjhtd20250718.html"
+        matchStatus: "pending"
         updatedAt: "2026-07-21"
-        price: 2799
+        price: 1699
         rating: 0
         reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/gyy-shop_11019-frosch-aloe-vera-dish-detergent-1000mlx4"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ifc-valuetrust_b07kzgjhtd20250718"
         available: true
   - rank: 2
     name: "ヤシノミ洗剤 野菜・食器用 つめかえ用 480mL"

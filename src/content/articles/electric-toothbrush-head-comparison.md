@@ -225,8 +225,8 @@ products:
         price: 8338
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oralb-braun_ultimate2-4-p"
         available: true
-        rating: 4.8
-        reviewCount: 41
+        rating: 4.76
+        reviewCount: 42
   - rank: 9
     name: "オーラルB ラディアントホワイト iO専用"
     brand: "Braun"

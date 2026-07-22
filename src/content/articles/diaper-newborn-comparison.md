@@ -4,7 +4,7 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: 2026-07-21
+updatedAt: 2026-07-22
 products:
   - rank: 1
     name: "グーンプラス テープ 新生児 4個セット"
@@ -128,6 +128,28 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301437693x4"
         available: true
   - rank: 5
+    name: "ムーニーナチュラル テープ 新生児 62枚×4個"
+    brand: "ユニ・チャーム（ムーニー）"
+    price: 6680
+    capacity: "62枚×4個（248枚）"
+    pricePerUnit: "約26.9円/枚"
+    rating: 3.4
+    reviewCount: 5
+    features:
+      - "ナチュラル素材で赤ちゃんの肌に優しい"
+      - "248枚まとめ買いセットで1枚あたりコストが安い"
+      - "新生児〜5000g対応"
+    pros:
+      - "ナチュラル素材で生まれたての繊細な肌を優しくケア"
+      - "62枚×4個の大容量で新生児期のまとめ買いに最適"
+      - "コスパと素材品質を両立したシリーズ"
+    cons:
+      - "新生児期は成長が速くサイズアウトのリスクがある"
+      - "4袋まとめ買いのため使い切れない場合がある"
+    recommendedFor: "新生児期にまとめ買いでコストを抑えたい方・ナチュラル素材を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00st9kn.3rdw6336.g00st9kn.3rdw7d77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoiree-hanaoka%2F4903111143429_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoiree-hanaoka%2Fi%2F10003127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/soiree-hanaoka/cabinet/g/09552678/imgrc0111461149.jpg?_ex=128x128"
+  - rank: 6
     name: "パンパース はじめての肌へのいちばん テープ新生児 144枚"
     brand: "P&G（パンパース）"
     price: 4969
@@ -160,28 +182,6 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos02652"
         available: true
-  - rank: 6
-    name: "ムーニーナチュラル テープ 新生児 62枚×4個"
-    brand: "ユニ・チャーム（ムーニー）"
-    price: 8900
-    capacity: "62枚×4個（248枚）"
-    pricePerUnit: "約36円/枚"
-    rating: 3.4
-    reviewCount: 5
-    features:
-      - "ナチュラル素材で赤ちゃんの肌に優しい"
-      - "248枚まとめ買いセットで1枚あたりコストが安い"
-      - "新生児〜5000g対応"
-    pros:
-      - "ナチュラル素材で生まれたての繊細な肌を優しくケア"
-      - "62枚×4個の大容量で新生児期のまとめ買いに最適"
-      - "コスパと素材品質を両立したシリーズ"
-    cons:
-      - "新生児期は成長が速くサイズアウトのリスクがある"
-      - "4袋まとめ買いのため使い切れない場合がある"
-    recommendedFor: "新生児期にまとめ買いでコストを抑えたい方・ナチュラル素材を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00us4mn.3rdw690d.g00us4mn.3rdw766e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fharmonywoods%2F4903111143429-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fharmonywoods%2Fi%2F10002774%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/harmonywoods/cabinet/goq003/4833_1.jpg?_ex=128x128"
   - rank: 7
     name: "パンパース テープ新生児 144枚"
     brand: "P&G（パンパース）"
@@ -265,8 +265,8 @@ products:
     price: 3190
     capacity: "36枚（サイズ1・2〜4kg）"
     pricePerUnit: "約89円/枚"
-    rating: 4.73
-    reviewCount: 59
+    rating: 4.72
+    reviewCount: 60
     features:
       - "オーガニック系のプレミアム紙おむつ"
       - "テープ/パンツの案内がある海外ブランド"

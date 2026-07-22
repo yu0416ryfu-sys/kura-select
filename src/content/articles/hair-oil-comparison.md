@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: 2026-07-21
+updatedAt: 2026-07-22
 draft: false
 products:
   - rank: 1
@@ -63,13 +63,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6016812"
         available: true
   - rank: 3
-    name: "ルシードエル ヘアリペアオイル"
+    name: "ルシードエル EXヘアリペアオイル 60mL"
     brand: "LUCIDO-L（マンダム）"
-    price: 2335
-    capacity: "60mL×2本（120mL）"
-    pricePerUnit: "約19円/mL"
-    rating: 5
-    reviewCount: 1
+    price: 948
+    capacity: "60mL"
+    pricePerUnit: "約16円/mL"
+    rating: 4.86
+    reviewCount: 14
     features:
       - "洗い流さないオイルトリートメント。ドライヤー前後どちらにも使用可"
       - "毛先のパサつき・広がりを抑えるオイルベース処方"
@@ -82,8 +82,8 @@ products:
       - "香りの好みが分かれるため、香り重視の人は事前に確認が必要"
       - "ツヤ感やウェット仕上がりよりナチュラルまとまり寄りの仕上がり"
     recommendedFor: "プチプラでコスパよく使い続けたい人・ヘアオイル初心者・まとめ買い派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F27483%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10825296%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/483/27483.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4902806100587%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10072895%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/18/4902806100587.jpg?_ex=128x128"
   - rank: 4
     name: "YOLU ディープナイトリペアヘアオイル"
     brand: "YOLU（I-ne）"
@@ -157,7 +157,7 @@ products:
     capacity: "20mL"
     pricePerUnit: "約28円/mL"
     rating: 4.71
-    reviewCount: 1995
+    reviewCount: 1996
     features:
       - "オーガニック認証のホホバオイル（ゴールデン脱臭タイプ）。天然100%・無添加"
       - "20mL・100mL・300mL・500mL・1000mLの幅広いサイズ展開"
@@ -178,7 +178,7 @@ products:
     capacity: "80mL"
     pricePerUnit: "約29円/mL"
     rating: 4.64
-    reviewCount: 13685
+    reviewCount: 13686
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -211,7 +211,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約35円/mL"
     rating: 4.64
-    reviewCount: 3767
+    reviewCount: 3776
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"
