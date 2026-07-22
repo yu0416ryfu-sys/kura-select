@@ -948,16 +948,21 @@ export function fixNameCapacityConflicts(
 /**
  * フロントマターの updatedAt フィールドを指定日付で更新する（YYYY-MM-DD 形式）
  * updatedAt が存在しない場合は publishedAt の直後に挿入する
+ *
+ * 値は必ずダブルクォートで囲む。dumpFrontmatter（yaml.dump の forceQuotes）が
+ * 出力する形式と揃えないと、update-products（この関数）と
+ * update-yahoo-products / inject-faqs（ダンプ経由）で引用符の有無が交互に入れ替わり、
+ * 実質無変更の差分ノイズになるため。
  */
 export function updateUpdatedAt(content: string, date: string): string {
   if (/^updatedAt:\s+\S+/m.test(content)) {
-    return content.replace(/^(updatedAt:)\s+\S+/m, `$1 ${date}`);
+    return content.replace(/^(updatedAt:)\s+\S+/m, `$1 "${date}"`);
   }
   if (/^publishedAt:\s+\S+/m.test(content)) {
-    return content.replace(/^(publishedAt:\s+\S+)/m, `$1\nupdatedAt: ${date}`);
+    return content.replace(/^(publishedAt:\s+\S+)/m, `$1\nupdatedAt: "${date}"`);
   }
   // どちらもない場合はフロントマター末尾の closing --- 直前に追加
-  return content.replace(/^(---\s*)$/m, `updatedAt: ${date}\n$1`);
+  return content.replace(/^(---\s*)$/m, `updatedAt: "${date}"\n$1`);
 }
 
 /**
