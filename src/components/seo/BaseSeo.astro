@@ -9,6 +9,8 @@ interface Props {
   canonical?: string;
   noindex?: boolean;
   ogType?: string;
+  publishedTime?: string;
+  modifiedTime?: string;
 }
 
 const {
@@ -18,6 +20,8 @@ const {
   canonical,
   noindex = false,
   ogType = "website",
+  publishedTime,
+  modifiedTime,
 } = Astro.props;
 
 const fullTitle = title.endsWith(SITE.nameJa) ? title : `${title} | ${SITE.nameJa}`;
@@ -43,6 +47,8 @@ const shouldNoindex = FORCE_NOINDEX || noindex;
 <meta property="og:url" content={canonicalUrl} />
 <meta property="og:site_name" content={SITE.nameJa} />
 <meta property="og:locale" content="ja_JP" />
+{publishedTime && <meta property="article:published_time" content={publishedTime} />}
+{modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />

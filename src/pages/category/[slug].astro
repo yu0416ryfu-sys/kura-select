@@ -75,10 +75,10 @@ const { data } = category;
                 </p>
                 <div class="flex items-center justify-between mt-4">
                   <time
-                    datetime={article.data.publishedAt.toISOString()}
+                    datetime={(article.data.updatedAt ?? article.data.publishedAt).toISOString()}
                     class="text-xs text-[var(--color-text-sub)]"
                   >
-                    {article.data.publishedAt.toLocaleDateString("ja-JP")}
+                    {(article.data.updatedAt ?? article.data.publishedAt).toLocaleDateString("ja-JP")} 更新
                   </time>
                   <span class="text-xs text-[var(--color-primary)] font-medium">
                     {article.data.products.length}商品を比較 →
@@ -115,10 +115,10 @@ const { data } = category;
                 </p>
                 <div class="flex items-center justify-between mt-4">
                   <time
-                    datetime={article.data.publishedAt.toISOString()}
+                    datetime={(article.data.updatedAt ?? article.data.publishedAt).toISOString()}
                     class="text-xs text-[var(--color-text-sub)]"
                   >
-                    {article.data.publishedAt.toLocaleDateString("ja-JP")}
+                    {(article.data.updatedAt ?? article.data.publishedAt).toLocaleDateString("ja-JP")} 更新
                   </time>
                   <span class="text-xs text-emerald-600 font-medium">
                     レビューを読む →

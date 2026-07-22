@@ -73,6 +73,10 @@ const tocItems = rawTocItems.filter((item) => {
 });
 const targetUnit = getArticleTargetUnit(article.id);
 
+// 「2026年7月21日」形式。Google が日本語ページの日付を拾いやすい表記にする。
+const formatJaDate = (date: Date): string =>
+  `${date.getFullYear()}年${date.getMonth() + 1}月${date.getDate()}日`;
+
 // 記事別OGP画像パス（ビルド時に generate-ogp.mjs で生成）
 const ogImage = `/og/articles/${article.id}.png`;
 
@@ -187,6 +191,8 @@ const productJsonLds = data.products
   description={data.description}
   ogImage={ogImage}
   ogType="article"
+  publishedTime={data.publishedAt.toISOString()}
+  modifiedTime={(data.updatedAt ?? data.publishedAt).toISOString()}
 >
   <Fragment slot="head">
     <JsonLd data={articleJsonLd} />
@@ -223,19 +229,17 @@ const productJsonLds = data.products
           <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)] leading-tight mb-4">
             {data.title}
           </h1>
-          <div class="flex items-center gap-4 text-sm text-[var(--color-text-sub)]">
-            {data.updatedAt ? (
-              <>
-                <time datetime={data.updatedAt.toISOString()}>
-                  更新: {data.updatedAt.toLocaleDateString("ja-JP")}
-                </time>
-                <time datetime={data.publishedAt.toISOString()}>
-                  公開: {data.publishedAt.toLocaleDateString("ja-JP")}
-                </time>
-              </>
-            ) : (
-              <time datetime={data.publishedAt.toISOString()}>
-                公開: {data.publishedAt.toLocaleDateString("ja-JP")}
+          <!-- 更新日を主・公開日を従として出す（SERP に公開日が拾われるのを防ぐ） -->
+          <div class="flex flex-col gap-0.5">
+            <time
+              datetime={(data.updatedAt ?? data.publishedAt).toISOString()}
+              class="text-sm font-medium text-[var(--color-text)]"
+            >
+              {formatJaDate(data.updatedAt ?? data.publishedAt)} 更新
+            </time>
+            {data.updatedAt && (
+              <time datetime={data.publishedAt.toISOString()} class="text-xs text-[var(--color-text-sub)]">
+                初回公開: {formatJaDate(data.publishedAt)}
               </time>
             )}
           </div>
@@ -360,7 +364,7 @@ const productJsonLds = data.products
                   >
                     <span class="text-sm font-medium leading-snug">{a.data.title}</span>
                     <span class="block text-xs text-[var(--color-text-sub)] mt-0.5">
-                      {a.data.publishedAt.toLocaleDateString("ja-JP")}
+                      {(a.data.updatedAt ?? a.data.publishedAt).toLocaleDateString("ja-JP")} 更新
                     </span>
                   </a>
                 </li>
