@@ -4,7 +4,7 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: 2026-07-22
+updatedAt: "2026-07-23"
 products:
   - rank: 1
     name: "LOGOS 倍速凍結 氷点下パック"
@@ -13,7 +13,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約770円/個"
     rating: 4.7
-    reviewCount: 105
+    reviewCount: 110
     features:
       - "繰り返し使える保冷剤タイプ"
       - "保冷バッグやクーラーボックスに入れやすい形状"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fk-lalala%2Fa620622j8391.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-20"
+        updatedAt: "2026-07-22"
         price: 300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/k-lalala_a620622j8391"
         available: true
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkbjapan%2Fy5900479-19746001.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-20"
+        updatedAt: "2026-07-22"
         price: 176
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kbjapan_y5900479-19746001"
         available: true
@@ -232,8 +232,8 @@ products:
     price: 1180
     capacity: "Mサイズ 1個"
     pricePerUnit: "約2.2円/g"
-    rating: 4.38
-    reviewCount: 128
+    rating: 4.37
+    reviewCount: 130
     features:
       - "ハードタイプで溶けてもかさばらず繰り返し使いやすい設計"
       - "M（540g）・L（830g）・XL（1.1kg）の3サイズから用途に応じて選べる"

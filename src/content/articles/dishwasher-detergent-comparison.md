@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkiiroihachi%2Fyahoo20250603-b07bbljjxx.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 2594
         rating: 0
         reviewCount: 0
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902875020915-73-30002003.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 650
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902875020915-73-30002003"
         available: true
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430777537x3.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 1705
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430777537x3"
         available: true
@@ -198,7 +198,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430777537x3.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-20"
+        updatedAt: "2026-07-22"
         price: 1705
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430777537x3"
         available: true

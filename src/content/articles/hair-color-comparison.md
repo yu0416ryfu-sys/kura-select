@@ -4,7 +4,7 @@ description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あ�
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-07-22"
+updatedAt: "2026-07-23"
 draft: false
 products:
   - rank: 1
@@ -78,7 +78,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpeacehair%2Fsai500gset.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/peacehair_sai500gset"
         available: true
@@ -111,7 +111,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsvenson%2Fhsrfl.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 7700
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/svenson_hsrfl"
         available: true
@@ -124,7 +124,7 @@ products:
     capacity: "400g"
     pricePerUnit: "約15円/g"
     rating: 4.37
-    reviewCount: 7795
+    reviewCount: 7800
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -144,12 +144,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsakura-place%2F10008554.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 5808
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sakura-place_10008554"
         available: true
         rating: 4.41
-        reviewCount: 1717
+        reviewCount: 1718
   - rank: 6
     name: "クリームシャンプー Mee color 白髪染め"
     brand: "Mee color（ミーカラー）"
@@ -177,10 +177,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fibiki-kenkyujyo%2Faz711.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 5478
         rating: 4.18
-        reviewCount: 1024
+        reviewCount: 1026
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ibiki-kenkyujyo_az711"
         available: true
   - rank: 7
@@ -212,7 +212,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.49
-    reviewCount: 2482
+    reviewCount: 2486
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -255,8 +255,8 @@ products:
     price: 11000
     capacity: "2本"
     pricePerUnit: "約5500円/本"
-    rating: 4.58
-    reviewCount: 26
+    rating: 4.59
+    reviewCount: 27
     features:
       - "植物エキス配合のボタニカル泡タイプヘアカラー"
       - "脱色せずに染めるタイプで髪へのダメージを抑えた設計"

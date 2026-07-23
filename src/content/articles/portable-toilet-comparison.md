@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fulimalie%2F99jun24yjcs02.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 4980
         rating: 4.56
         reviewCount: 95
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoco-yasashisaya%2Fsaimol01.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 3780
         rating: 4.49
         reviewCount: 778
@@ -144,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fozoneassocia%2Ftoilet100.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 3980
         rating: 4.25
         reviewCount: 208

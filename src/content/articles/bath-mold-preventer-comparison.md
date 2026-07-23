@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r003-4903301221043.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-20"
+        updatedAt: "2026-07-22"
         price: 5911
         rating: 0
         reviewCount: 0
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F547908.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 2549
         rating: 0
         reviewCount: 0
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903301187240.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-20"
+        updatedAt: "2026-07-22"
         price: 1581
         rating: 4.38
         reviewCount: 29
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903301187240.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-20"
+        updatedAt: "2026-07-22"
         price: 1581
         rating: 4.38
         reviewCount: 29
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10092851.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 1498
         rating: 5
         reviewCount: 3
@@ -254,7 +254,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurusatochoice%2F6547919.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 13000
         rating: 0
         reviewCount: 0
@@ -287,7 +287,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurusatochoice%2F6547921.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 13000
         rating: 0
         reviewCount: 0

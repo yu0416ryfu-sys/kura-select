@@ -4,7 +4,7 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-22"
+updatedAt: "2026-07-23"
 products:
   - rank: 1
     name: "セルロース製 食器洗いスポンジ 6個パック SDGs プラスチックフリー"
@@ -53,13 +53,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdusdus%2Fspc-dsss06.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdusdus%2Fdssmn6.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-11"
-        price: 1180
-        rating: 4.76
-        reviewCount: 1843
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/dusdus_spc-dsss06"
+        updatedAt: "2026-07-22"
+        price: 1200
+        rating: 4.88
+        reviewCount: 500
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/dusdus_dssmn6"
         available: true
   - rank: 3
     name: "ダスキン台所用スポンジ ハードタイプ モノトーン 6個セット"
@@ -90,7 +90,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.8
-    reviewCount: 504
+    reviewCount: 505
     features:
       - "ポリエステル＋ウレタンフォームのハードタイプ構造"
       - "3色パック×2セットのカラフルな6個組"
@@ -266,7 +266,7 @@ products:
     capacity: "8個（4個×2組）"
     pricePerUnit: "約384円/個"
     rating: 4.81
-    reviewCount: 2532
+    reviewCount: 2533
     features:
       - "全9色から選べるモノトーン系カラー展開"
       - "長持ちしやすい設計の食器洗いスポンジ"

@@ -4,7 +4,7 @@ description: "ティッシュペーパーを1組あたりの価格で徹底比�
 category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: 2026-07-22
+updatedAt: 2026-07-23
 products:
   - rank: 1
     name: "ハロー ソフトパックティッシュ"

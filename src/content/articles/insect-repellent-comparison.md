@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: 2026-07-22
+updatedAt: 2026-07-23
 draft: false
 products:
   - rank: 1
@@ -253,7 +253,7 @@ products:
       - "ショップにより在庫や配送条件が変わる"
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qfl9n.3rdw60bc.g00qfl9n.3rdw7fb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fease-aroma%2F10002751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fease-aroma%2Fi%2F10002751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ease-aroma/cabinet/spray/spray3hon_s_01.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ease-aroma/cabinet/spray/spray3hon_s_01_3.jpg?_ex=128x128"
   - rank: 9
     name: "バルサン 虫除けスプレー 携帯用 100mL"
     brand: "レック（バルサン）"

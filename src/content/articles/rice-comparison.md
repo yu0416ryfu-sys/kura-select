@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: 2026-07-22
+updatedAt: "2026-07-23"
 products:
   - rank: 1
     name: "熊本県産 ヒノヒカリ"
@@ -13,7 +13,7 @@ products:
     capacity: "20kg"
     pricePerUnit: "約509円/kg"
     rating: 4.59
-    reviewCount: 14849
+    reviewCount: 14850
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffuchigami%2Fhino-kp30.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-15"
+        updatedAt: "2026-07-22"
         price: 10880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fuchigami_hino-kp30"
         available: true
         rating: 4.59
-        reviewCount: 110
+        reviewCount: 112
   - rank: 2
     name: "国内産 農家直米 白米"
     brand: "安齋商店"
@@ -66,12 +66,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmanmayarice%2Fnouka10.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-15"
+        updatedAt: "2026-07-22"
         price: 5580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/manmayarice_nouka10"
         available: true
         rating: 4.18
-        reviewCount: 1775
+        reviewCount: 1776
   - rank: 3
     name: "令和7年産 無洗米 新潟産コシヒカリ 10kg"
     brand: "ミツハシライス"
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkomenoya%2Frfngtkshknb10000.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-16"
+        updatedAt: "2026-07-22"
         price: 7750
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/komenoya_rfngtkshknb10000"
         available: true
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurunavi%2F1670297.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 16000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/furunavi_1670297"
         available: true
@@ -255,7 +255,7 @@ products:
     capacity: "18kg〜20kg"
     pricePerUnit: "0円/kg"
     rating: 4.74
-    reviewCount: 45799
+    reviewCount: 45800
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

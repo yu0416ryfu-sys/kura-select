@@ -4,7 +4,7 @@ description: "コンディショナーを1mLあたりのコストで徹底比較
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-21"
+updatedAt: 2026-07-23
 products:
   - rank: 1
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
@@ -44,8 +44,8 @@ products:
     price: 6600
     capacity: "1800mL×4セット"
     pricePerUnit: "約0.92円/mL"
-    rating: 4
-    reviewCount: 3
+    rating: 4.25
+    reviewCount: 4
     features:
       - "地肌すっきり成分でフケ・かゆみを防ぐ"
       - "ダストシールド技術でホコリや花粉をブロック"
@@ -177,7 +177,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約35円/mL"
     rating: 4.76
-    reviewCount: 1580
+    reviewCount: 1581
     features:
       - "くせ毛・広がりケア向けのトリートメントマスク"
       - "インバスで使うヘアマスク"

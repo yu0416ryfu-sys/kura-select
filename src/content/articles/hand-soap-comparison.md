@@ -4,7 +4,7 @@ description: "ハンドソープを1回あたりのコストで徹底比較。�
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-07-22
+updatedAt: 2026-07-23
 products:
   - rank: 1
     name: "ビオレ泡4リットル ビオレu　泡ハンドソープ"

@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsup-s%2Fyah20250207-curel.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-16"
+        updatedAt: "2026-07-22"
         price: 1390
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sup-s_yah20250207-curel"
         available: true
-        rating: 0
-        reviewCount: 2
+        rating: 5
+        reviewCount: 3
   - rank: 2
     name: "レステモ クレンジングオイル プロサイズ 480mL"
     brand: "レステモ"
@@ -207,7 +207,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdhc%2F8000023597.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 2717
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dhc_8000023597"
         available: true
@@ -262,7 +262,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-22"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true

@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: 2026-07-22
+updatedAt: 2026-07-23
 draft: false
 products:
   - rank: 1
@@ -157,7 +157,7 @@ products:
     capacity: "20mL"
     pricePerUnit: "約28円/mL"
     rating: 4.71
-    reviewCount: 1996
+    reviewCount: 1997
     features:
       - "オーガニック認証のホホバオイル（ゴールデン脱臭タイプ）。天然100%・無添加"
       - "20mL・100mL・300mL・500mL・1000mLの幅広いサイズ展開"
@@ -178,7 +178,7 @@ products:
     capacity: "80mL"
     pricePerUnit: "約29円/mL"
     rating: 4.64
-    reviewCount: 13686
+    reviewCount: 13690
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -211,7 +211,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約35円/mL"
     rating: 4.64
-    reviewCount: 3776
+    reviewCount: 3785
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"

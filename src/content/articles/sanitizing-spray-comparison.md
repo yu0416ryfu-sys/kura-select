@@ -4,7 +4,7 @@ description: "除菌スプレー・アルコールを1mLあたりのコストで
 category: "sanitizing-spray"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-07-22
+updatedAt: 2026-07-23
 products:
   - rank: 1
     name: "カビキラー アルコール除菌 キッチン用 詰め替え用【カビキラー】[アルコールスプ"

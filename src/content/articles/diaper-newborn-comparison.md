@@ -4,7 +4,7 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: 2026-07-22
+updatedAt: "2026-07-23"
 products:
   - rank: 1
     name: "グーンプラス テープ 新生児 4個セット"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkiiroihachi%2Fyahoo20250605-b01cg1tb4q.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-20"
+        updatedAt: "2026-07-22"
         price: 1708
         rating: 0
         reviewCount: 0
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301437693x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-20"
+        updatedAt: "2026-07-22"
         price: 6660
         rating: 4.92
         reviewCount: 13
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02652.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-20"
+        updatedAt: "2026-07-22"
         price: 4499
         rating: 4.67
         reviewCount: 3
