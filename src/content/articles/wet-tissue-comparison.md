@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ10選を1枚あたり単
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-23"
+updatedAt: "2026-07-25"
 products:
   - rank: 1
     name: "ノンアルコール 99%除菌ウェットティッシュ"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmarubeni-forestlinx%2Fjyokin-99.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-15"
+        updatedAt: "2026-07-25"
         price: 4980
         rating: 4.81
         reviewCount: 59
@@ -46,7 +46,7 @@ products:
     capacity: "80枚×15個"
     pricePerUnit: "約1.8円/枚"
     rating: 4.69
-    reviewCount: 4652
+    reviewCount: 4657
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -66,12 +66,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-15"
+        updatedAt: "2026-07-25"
         price: 2180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
         available: true
         rating: 4.67
-        reviewCount: 1015
+        reviewCount: 1018
   - rank: 3
     name: "おしりふき 手口ふき シンプル"
     brand: "子育て日和"
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903111459049.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-07-25"
         price: 1077
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903111459049"
         available: true
@@ -134,7 +134,7 @@ products:
     capacity: "60枚×48個（2,880枚）"
     pricePerUnit: "約2.6円/枚"
     rating: 4.42
-    reviewCount: 476
+    reviewCount: 477
     features:
       - "アルコール配合で除菌用途に向いたタイプ"
       - "厚手シートで拭き取りやすい設計"
@@ -154,12 +154,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F1920418f.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-22"
-        price: 4780
+        updatedAt: "2026-07-25"
+        price: 4280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_1920418f"
         available: true
-        rating: 4.58
-        reviewCount: 19
+        rating: 4.6
+        reviewCount: 20
   - rank: 6
     name: "シルコット ノンアルコール除菌ウェットティッシュ 詰替 43枚×8個×4個"
     brand: "ユニ・チャーム（シルコット）"
@@ -167,7 +167,7 @@ products:
     capacity: "43枚×8個×4個（1376枚）"
     pricePerUnit: "約3.8円/枚"
     rating: 4.75
-    reviewCount: 233
+    reviewCount: 234
     features:
       - "ノンアルコールタイプの除菌ウェットティッシュ詰替"
       - "ワンプッシュで開閉できる取り出し口設計"
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100996.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-07-25"
         price: 4620
         rating: 4.88
         reviewCount: 17
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F89874.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-07-25"
         price: 6989
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_89874"
         available: true
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4903301291022.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-07-25"
         price: 205
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4903301291022"
         available: true
@@ -287,8 +287,8 @@ products:
     price: 2980
     capacity: "96枚"
     pricePerUnit: "約31円/枚"
-    rating: 4.36
-    reviewCount: 353
+    rating: 4.35
+    reviewCount: 354
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"

@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-23"
+updatedAt: "2026-07-25"
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F1228689.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-07-25"
         price: 3970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_1228689"
         available: true
@@ -241,9 +241,9 @@ products:
   - rank: 9
     name: "東京クイン イイナ キッチンペーパー M265 12ロール"
     brand: "イイナ"
-    price: 4594
+    price: 4490
     capacity: "12ロール"
-    pricePerUnit: "約383円/ロール"
+    pricePerUnit: "約374円/ロール"
     rating: 4.53
     reviewCount: 17
     features:

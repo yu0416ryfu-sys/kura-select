@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: 2026-07-23
+updatedAt: "2026-07-25"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftaorunomori%2F10001288.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-20"
+        updatedAt: "2026-07-25"
         price: 990
         rating: 4.43
         reviewCount: 205
@@ -150,8 +150,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbroome%2F0215-0212-0101.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-20"
-        price: 2290
+        updatedAt: "2026-07-25"
+        price: 1800
         rating: 4.54
         reviewCount: 286
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/broome_0215-0212-0101"
@@ -183,7 +183,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fm-rug%2F712421510.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-20"
+        updatedAt: "2026-07-25"
         price: 6050
         rating: 4.62
         reviewCount: 302
@@ -196,7 +196,7 @@ products:
     capacity: "1枚"
     pricePerUnit: "約7480円/枚"
     rating: 4.59
-    reviewCount: 29431
+    reviewCount: 29432
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -217,8 +217,8 @@ products:
     price: 9900
     capacity: "1枚"
     pricePerUnit: "約9900円/枚"
-    rating: 4.64
-    reviewCount: 5127
+    rating: 4.58
+    reviewCount: 1502
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -231,26 +231,26 @@ products:
       - "サイズや対応条件は購入前に確認したい"
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pmxdn.3rdw6b38.g00pmxdn.3rdw7247/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-goods%2Fbath_soil-bathmat-lt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-goods%2Fi%2F10009860%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-goods/cabinet/h_cart3/soil-bathmat-lt_th.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pz5qn.3rdw6327.g00pz5qn.3rdw7b11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimportshopaqua%2Fac-bm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimportshopaqua%2Fi%2F10002973%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/importshopaqua/cabinet/zoom_c/omk0/10/ac-bm.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F49149.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-20"
+        updatedAt: "2026-07-25"
         price: 9900
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_49149"
         available: true
-        rating: 4.73
-        reviewCount: 52
+        rating: 4.68
+        reviewCount: 53
   - rank: 9
     name: "Mirx プレミアムバスマット 珪藻土 吸水2.5倍"
     brand: "Mirx"
-    price: 2080
+    price: 2070
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
-    rating: 4.42
+    rating: 4.43
     reviewCount: 2607
     features:
       - "珪藻土素材で天然の吸水・速乾性"

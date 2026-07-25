@@ -142,13 +142,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4902011714425.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758946401-1-d.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-21"
-        price: 154
+        updatedAt: "2026-07-25"
+        price: 346
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4902011714425"
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhan-okusuri_1758946401-1-d"
         available: true
   - rank: 6
     name: "鼻セレブ プレミアム ティッシュ 130組×10個"

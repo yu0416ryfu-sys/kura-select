@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-21"
+updatedAt: "2026-07-25"
 products:
   - rank: 1
     name: "ビオレ おうちdeエステ マッサージ洗顔ジェル 150g"
@@ -134,7 +134,7 @@ products:
     capacity: "130g"
     pricePerUnit: "約17円/g"
     rating: 4.62
-    reviewCount: 1247
+    reviewCount: 1246
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -168,7 +168,7 @@ products:
     capacity: "110g"
     pricePerUnit: "約18円/g"
     rating: 4.6
-    reviewCount: 1813
+    reviewCount: 1814
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -256,7 +256,7 @@ products:
     capacity: "150g×2点（300g）"
     pricePerUnit: "約21円/g"
     rating: 4.45
-    reviewCount: 3794
+    reviewCount: 3799
     features:
       - "炭酸泡タイプの洗顔・パック兼用アイテム"
       - "コラーゲン・ヒアルロン酸など複数の保湿成分を配合"

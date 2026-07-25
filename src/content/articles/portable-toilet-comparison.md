@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ10選を1回
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-07-22"
+updatedAt: "2026-07-25"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "60回分（50回＋10回）"
     pricePerUnit: "約21円/回"
     rating: 4.5
-    reviewCount: 7025
+    reviewCount: 7026
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -153,9 +153,9 @@ products:
   - rank: 6
     name: "非常用トイレ 100回分 半永久保存 防災トイレ"
     brand: "Life Reach"
-    price: 4999
+    price: 3999
     capacity: "100回分"
-    pricePerUnit: "約50円/回"
+    pricePerUnit: "約40円/回"
     rating: 4.59
     reviewCount: 1337
     features:
@@ -186,11 +186,11 @@ products:
   - rank: 7
     name: "非常用トイレ 炭入り 100回分 半永久保存 防災トイレ"
     brand: "Life Reach"
-    price: 4999
+    price: 3999
     capacity: "100回分"
-    pricePerUnit: "約50円/回"
+    pricePerUnit: "約40円/回"
     rating: 4.64
-    reviewCount: 794
+    reviewCount: 796
     features:
       - "炭入り凝固剤でにおい対策に配慮したセット"
       - "凝固剤と汚物袋がそろった構成"

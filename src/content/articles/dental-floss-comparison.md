@@ -4,7 +4,7 @@ description: "デンタルフロスを1回あたりのコストで比較した�
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-07-23"
+updatedAt: "2026-07-25"
 products:
   - rank: 1
     name: "GUM デンタルフロス 550m"
@@ -27,7 +27,7 @@ products:
       - "移動中や外出先では使いにくい"
     recommendedFor: "毎日フロスを使う方・コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0719_p5/kirikae3/28528.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0718_100b/kirikae3/28528.jpg?_ex=128x128"
   - rank: 2
     name: "クリニカ アドバンテージ スポンジフロス"
     brand: "ライオン（クリニカ）"
@@ -80,7 +80,7 @@ products:
       - "価格帯がやや高めで試しにくい"
     recommendedFor: "歯科医院品質のフロスをまとめて揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49760%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008760%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0719_p5/kirikae2/49760_n.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0718_100b/kirikae2/49760_n.jpg?_ex=128x128"
     offers:
       - provider: "amazon"
         label: "Amazon（45m×2個）"
@@ -197,7 +197,7 @@ products:
       - "まとめ買いのため初期費用が高め"
     recommendedFor: "奥歯のケアを重視する方・まとめ買いで節約したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F13122%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10000202%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0719_p5/kirikae1/04080.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0718_100b/kirikae1/04080.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -215,7 +215,7 @@ products:
     capacity: "250m"
     pricePerUnit: "約13円/m"
     rating: 4.76
-    reviewCount: 560
+    reviewCount: 561
     features:
       - "384本の細い繊維を束ねた高密度フロス設計"
       - "詰め替え用でホルダーを再利用できるエコ設計"
@@ -247,7 +247,7 @@ products:
     capacity: "250m"
     pricePerUnit: "約13円/m"
     rating: 4.76
-    reviewCount: 560
+    reviewCount: 561
     features:
       - "糸巻きタイプのデンタルフロス"
       - "歯間ケア向けの細い繊維設計"
@@ -267,10 +267,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-07-25"
         price: 3278
         rating: 4.77
-        reviewCount: 346
+        reviewCount: 349
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true
   - rank: 10
@@ -294,16 +294,16 @@ products:
       - "ワックス感や太さは使用感の好みが分かれる"
     recommendedFor: "糸巻きフロスを日常的に使いたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008759%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0719_p5/kirikae2/49759_n.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0718_100b/kirikae2/49759_n.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitem-for-life%2Ffluorfloss-45-02.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-07-25"
         price: 1580
-        rating: 4.69
-        reviewCount: 13
+        rating: 4.71
+        reviewCount: 14
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/item-for-life_fluorfloss-45-02"
         available: true
 tags:

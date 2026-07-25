@@ -4,7 +4,7 @@ description: "除菌スプレー・アルコールを1mLあたりのコストで
 category: "sanitizing-spray"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: 2026-07-23
+updatedAt: "2026-07-25"
 products:
   - rank: 1
     name: "カビキラー アルコール除菌 キッチン用 詰め替え用【カビキラー】[アルコールスプ"
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsukoyakakomachi%2Faqarfa1l.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-25"
         price: 1540
         rating: 4.92
         reviewCount: 12
@@ -133,7 +133,7 @@ products:
     price: 4290
     capacity: "500ml×3本"
     pricePerUnit: "約2.9円/mL"
-    rating: 4.79
+    rating: 4.78
     reviewCount: 430
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
@@ -178,7 +178,7 @@ products:
     capacity: "180ml"
     pricePerUnit: "約5.6円/mL"
     rating: 4.65
-    reviewCount: 4090
+    reviewCount: 4091
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"
@@ -192,13 +192,13 @@ products:
       - "成分や濃度の確認が必要"
     recommendedFor: "除菌スプレーを用途と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00telan.3rdw6aaf.g00telan.3rdw7f40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamitsu%2F4987188317853%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamitsu%2Fi%2F10000030%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hisamitsu/cabinet/07567917/001.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hisamitsu/cabinet/4987188317853.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188318706.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-25"
         price: 1000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188318706"
         available: true
@@ -211,7 +211,7 @@ products:
     capacity: "180ml"
     pricePerUnit: "約5.6円/mL"
     rating: 4.65
-    reviewCount: 4090
+    reviewCount: 4091
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"
@@ -225,13 +225,13 @@ products:
       - "成分や濃度の確認が必要"
     recommendedFor: "除菌スプレーを用途と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00telan.3rdw6aaf.g00telan.3rdw7f40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamitsu%2F4987188317853%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamitsu%2Fi%2F10000030%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hisamitsu/cabinet/07567917/001.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hisamitsu/cabinet/4987188317853.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188318706.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-25"
         price: 1000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188318706"
         available: true
@@ -264,7 +264,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnakano-dy%2Fkesisaru-20.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-25"
         price: 550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nakano-dy_kesisaru-20"
         available: true

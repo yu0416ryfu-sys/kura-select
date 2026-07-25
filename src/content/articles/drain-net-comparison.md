@@ -4,15 +4,15 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-07-22"
+updatedAt: "2026-07-25"
 draft: false
 products:
   - rank: 1
     name: "システムポリマー ストッキング水切り袋 浅型"
     brand: "システムポリマー"
-    price: 47518
+    price: 52279
     capacity: "200枚×72袋"
-    pricePerUnit: "約3.3円/枚"
+    pricePerUnit: "約3.6円/枚"
     rating: 0
     reviewCount: 0
     features:
@@ -145,8 +145,8 @@ products:
     price: 600
     capacity: "100枚"
     pricePerUnit: "約6.0円/枚"
-    rating: 4.67
-    reviewCount: 3
+    rating: 4.75
+    reviewCount: 4
     features:
       - "ポリエチレン製のシンプルなストッキングタイプ"
       - "浅型13×15cmサイズで標準的な排水口バスケットに対応"
@@ -289,7 +289,7 @@ products:
     capacity: "4枚×10袋（40枚）"
     pricePerUnit: "約55円/枚"
     rating: 4.64
-    reviewCount: 1032
+    reviewCount: 1034
     features:
       - "ポリプロピレン・ポリエステル製のヘアキャッチャー"
       - "台所・浴室どちらの排水口にも対応"

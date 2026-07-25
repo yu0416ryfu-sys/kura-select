@@ -4,7 +4,7 @@ description: "パンツ型おむつを1枚あたりの価格で比較。まず�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: 2026-07-23
+updatedAt: "2026-07-25"
 products:
   - rank: 1
     name: "メリーズ エアスルー パンツ Mサイズ"
@@ -126,11 +126,11 @@ products:
   - rank: 5
     name: "Genki！"
     brand: "アイリスオーヤマ"
-    price: 2981
+    price: 2779
     capacity: "M150枚・L126枚・BIG108枚・BIG+72枚セット"
     pricePerUnit: "0円/枚"
-    rating: 4.66
-    reviewCount: 1679
+    rating: 4.65
+    reviewCount: 1686
     features:
       - "複数サイズをセットで選べる"
       - "ふわもちタッチで肌に優しい"
@@ -152,7 +152,7 @@ products:
     capacity: "S/M/L/BIG/BIG大から選択、3個セット"
     pricePerUnit: "0円/枚"
     rating: 4.68
-    reviewCount: 4324
+    reviewCount: 4325
     features:
       - "全周通気性シートで蒸れを軽減"
       - "吸収性と通気性のバランス重視"
@@ -195,8 +195,8 @@ products:
     price: 7379
     capacity: "M/L/BIG/BIG超から選択、複数枚×4個"
     pricePerUnit: "0円/枚"
-    rating: 4.78
-    reviewCount: 1222
+    rating: 4.79
+    reviewCount: 1225
     features:
       - "12時間吸収設計で夜間の漏れを防止"
       - "360度ギャザーで寝返りに対応"
@@ -218,7 +218,7 @@ products:
     capacity: "M/L/BIGから選択、3個パック"
     pricePerUnit: "0円/枚"
     rating: 4.79
-    reviewCount: 8414
+    reviewCount: 8422
     features:
       - "ドラえもんのキャラクターデザイン採用"
       - "12時間までの長時間吸収対応"

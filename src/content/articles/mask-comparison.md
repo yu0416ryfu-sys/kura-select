@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: 2026-07-23
+updatedAt: "2026-07-25"
 products:
   - rank: 1
     name: "立体不織布マスク バイカラー 50枚"
@@ -13,7 +13,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約5.3円/枚"
     rating: 4.19
-    reviewCount: 22125
+    reviewCount: 22126
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -67,7 +67,7 @@ products:
     capacity: "51枚"
     pricePerUnit: "約7.8円/枚"
     rating: 4.22
-    reviewCount: 5768
+    reviewCount: 5769
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -105,13 +105,35 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tmjzn.3rdw6ae9.g00tmjzn.3rdw7078/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclassort%2Fbwm1yp50%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclassort%2Fi%2F10000150%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/classort/cabinet/shouhin-image/bwm1yp50.jpg?_ex=128x128"
   - rank: 5
+    name: "不織布プリーツマスク 300枚"
+    brand: "SHINKO"
+    price: 4180
+    capacity: "300枚"
+    pricePerUnit: "約14円/枚"
+    rating: 4.28
+    reviewCount: 196
+    features:
+      - "使い捨て不織布マスク"
+      - "日常使いしやすい枚数"
+      - "サイズや形状で選びやすい"
+    pros:
+      - "まとめ買いしやすい"
+      - "家族用に備えやすい"
+      - "通勤・通学に使いやすい"
+    cons:
+      - "顔のサイズに合うか確認が必要"
+      - "色や形状の好みは分かれる"
+    recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00thrzn.3rdw684a.g00thrzn.3rdw7f74/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshinko9868%2Fmasks-daer-300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshinko9868%2Fi%2F10000188%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shinko9868/cabinet/07694242/09376804/300.jpg?_ex=128x128"
+  - rank: 6
     name: "接触冷感 3D不織布マスク"
     brand: "alice-zk"
-    price: 274
+    price: 328
     capacity: "20枚"
-    pricePerUnit: "約14円/枚"
+    pricePerUnit: "約16円/枚"
     rating: 4.06
-    reviewCount: 9197
+    reviewCount: 9198
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -137,28 +159,6 @@ products:
         reviewCount: 62
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/maskmore_mm3dice020-"
         available: true
-  - rank: 6
-    name: "不織布プリーツマスク 300枚"
-    brand: "SHINKO"
-    price: 4180
-    capacity: "300枚"
-    pricePerUnit: "約14円/枚"
-    rating: 4.28
-    reviewCount: 196
-    features:
-      - "使い捨て不織布マスク"
-      - "日常使いしやすい枚数"
-      - "サイズや形状で選びやすい"
-    pros:
-      - "まとめ買いしやすい"
-      - "家族用に備えやすい"
-      - "通勤・通学に使いやすい"
-    cons:
-      - "顔のサイズに合うか確認が必要"
-      - "色や形状の好みは分かれる"
-    recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00thrzn.3rdw684a.g00thrzn.3rdw7f74/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshinko9868%2Fmasks-daer-300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshinko9868%2Fi%2F10000188%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shinko9868/cabinet/07694242/09376804/300.jpg?_ex=128x128"
   - rank: 7
     name: "ST快適立体マスク"
     brand: "ST-TRADE"
@@ -166,7 +166,7 @@ products:
     capacity: "120枚"
     pricePerUnit: "約21円/枚"
     rating: 4.19
-    reviewCount: 2731
+    reviewCount: 2732
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"

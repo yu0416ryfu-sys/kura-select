@@ -4,7 +4,7 @@ description: "消臭剤のおすすめ8選をコスパで徹底比較。リセ�
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-07-23"
+updatedAt: "2026-07-25"
 products:
   - rank: 1
     name: "ハルの消臭剤 消臭ビーズ 詰替用"
@@ -164,13 +164,13 @@ products:
         rating: 0
         reviewCount: 0
   - rank: 6
-    name: "リセッシュ除菌EX ワイドジェット ストロング つめかえ用 630ml×4"
+    name: "リセッシュ除菌EX ワイドジェット ストロング つめかえ用 630mL"
     brand: "花王"
-    price: 3080
-    capacity: "630ml×4個（2,520ml）"
-    pricePerUnit: "約1.2円/ml"
-    rating: 5
-    reviewCount: 0
+    price: 798
+    capacity: "630mL"
+    pricePerUnit: "約1.3円/mL"
+    rating: 4
+    reviewCount: 1
     features:
       - "衣類・布用ファブリックミスト（詰め替え用）"
       - "除菌EXで強力消臭・除菌"
@@ -186,8 +186,8 @@ products:
       - "スプレータイプのため一時的な効果が中心"
       - "無香タイプのため香りを楽しみたい人には不向き"
     recommendedFor: "コスパ重視・まとめ買い派・広いリビングに置きたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t1zzn.3rdw6fdd.g00t1zzn.3rdw75b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foffice-kagg%2F7288422%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foffice-kagg%2Fi%2F10027072%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/office-kagg/cabinet/tasya125/7288422-e.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4901301433169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F14686341%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/10069/00000012754504_a01.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -205,8 +205,8 @@ products:
     price: 3297
     capacity: "1280ml×2セット（2,560ml）"
     pricePerUnit: "約1.3円/ml"
-    rating: 4.67
-    reviewCount: 9
+    rating: 4.7
+    reviewCount: 10
     features:
       - "48時間爽やか続く消臭効果"
       - "W除菌+消臭で衣類・布製品にスプレーするだけ"

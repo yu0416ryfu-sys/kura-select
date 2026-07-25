@@ -4,7 +4,7 @@ description: "シングルのトイレットペーパーを1mあたりの単価�
 category: "toilet-paper"
 publishedAt: "2024-11-01"
 articleType: "comparison"
-updatedAt: "2026-07-23"
+updatedAt: "2026-07-25"
 products:
   - rank: 1
     name: "コアユース シングル 芯なし"
@@ -68,7 +68,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fikurun0810%2F101436.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-07-25"
         matchStatus: "matched"
         rating: 0
         reviewCount: 1
@@ -112,7 +112,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.67円/m"
     rating: 4.78
-    reviewCount: 1055
+    reviewCount: 1056
     features:
       - "太穴コアレスのシングルトイレットペーパー"
       - "再生紙を使用した長巻きタイプ"
@@ -133,8 +133,8 @@ products:
     price: 2710
     capacity: "250m×16ロール"
     pricePerUnit: "約0.68円/m"
-    rating: 4.6
-    reviewCount: 425
+    rating: 4.61
+    reviewCount: 426
     features:
       - "パルプを使用した消臭機能付きのシングルタイプ"
       - "芯なしの長巻き仕様で省スペースに保管しやすい"
@@ -155,8 +155,8 @@ products:
     price: 4980
     capacity: "150m×48ロール"
     pricePerUnit: "約0.69円/m"
-    rating: 4.77
-    reviewCount: 66
+    rating: 4.76
+    reviewCount: 67
     features:
       - "芯なし設計でゴミが出にくい環境配慮型"
       - "150mの長尺ロールで交換頻度を減らせる"
@@ -189,7 +189,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.70円/m"
     rating: 4.67
-    reviewCount: 2760
+    reviewCount: 2761
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
