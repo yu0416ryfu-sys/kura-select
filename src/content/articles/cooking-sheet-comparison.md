@@ -4,7 +4,7 @@ description: "クッキングシートを1mあたりの価格で比較。ロー�
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-07-25"
+updatedAt: "2026-07-26"
 products:
   - rank: 1
     name: "KitchenNista クッキングシート エコノミータイプ 33cm幅"
@@ -144,8 +144,8 @@ products:
     price: 1780
     capacity: "100枚入り"
     pricePerUnit: "約18円/枚"
-    rating: 4.66
-    reviewCount: 145
+    rating: 4.65
+    reviewCount: 146
     features:
       - "PFAS・フッ素フリーの無漂白クッキングシート"
       - "フライパンや蒸し料理・包み焼きに対応した多用途タイプ"

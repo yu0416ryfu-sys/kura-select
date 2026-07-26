@@ -4,7 +4,7 @@ description: "コーヒーフィルターを1枚あたりのコストで徹底�
 category: "coffee-filter"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-07-22"
+updatedAt: "2026-07-26"
 draft: false
 products:
   - rank: 1
@@ -135,7 +135,7 @@ products:
     capacity: "100枚（1-2杯用）"
     pricePerUnit: "約9.9円/枚"
     rating: 5
-    reviewCount: 7
+    reviewCount: 8
     features:
       - "FSC認証・コンポスタブル認証取得の環境配慮製品"
       - "PFASフリーで化学物質を使わない無漂白タイプ"

@@ -4,7 +4,7 @@ description: "ボディソープを1gあたりのコストで比較。最安候�
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-21"
+updatedAt: "2026-07-26"
 products:
   - rank: 1
     name: "Dove ボディウォッシュ 詰め替え 330g×18袋"
@@ -143,7 +143,7 @@ products:
     capacity: "115g"
     pricePerUnit: "約11円/g"
     rating: 4.8
-    reviewCount: 332
+    reviewCount: 333
     features:
       - "ボディソープとして使える洗浄料"
       - "継続利用しやすい定番構成"

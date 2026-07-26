@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fifc-valuetrust%2Fb07kzgjhtd20250718.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fclair-kobe%2Fcos11019.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-21"
-        price: 1699
+        updatedAt: "2026-07-26"
+        price: 1980
         rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ifc-valuetrust_b07kzgjhtd20250718"
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/clair-kobe_cos11019"
         available: true
   - rank: 2
     name: "ヤシノミ洗剤 野菜・食器用 つめかえ用 480mL"
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkireshop%2Fa4973512320477.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-26"
         price: 377
         rating: 0
         reviewCount: 0

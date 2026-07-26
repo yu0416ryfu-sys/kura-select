@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-07-25"
+updatedAt: "2026-07-26"
 draft: false
 products:
   - rank: 1
@@ -160,7 +160,7 @@ products:
       - "6個セットのため保管スペースが必要になる"
     recommendedFor: "室内飼育の小型犬を多頭または長期飼育している方・開封後鮮度を優先したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fw-145111-00-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10068095%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/rinji/w-145111-00-00.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/w-145111-00-00.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -178,8 +178,8 @@ products:
     price: 4988
     capacity: "3kg"
     pricePerUnit: "約1663円/kg"
-    rating: 4.7
-    reviewCount: 174
+    rating: 4.71
+    reviewCount: 177
     features:
       - "ダックスフンド専用に設計された犬種別ドライフード（生後10ヶ月齢以上対象）"
       - "オメガ3脂肪酸（EPA+DHA）・L-カルニチン配合の栄養設計"
@@ -200,7 +200,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
         updatedAt: "2026-07-25"
-        price: 4871
+        price: 4628
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
         rating: 4.5
@@ -237,7 +237,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
         rating: 4.71
-        reviewCount: 165
+        reviewCount: 166
   - rank: 8
     name: "アーテミス フレッシュミックス スモールブリードアダルト3kg 小粒 小型犬 成犬 "
     brand: "アーテミス"
@@ -245,7 +245,7 @@ products:
     capacity: "3kg"
     pricePerUnit: "約1943円/kg"
     rating: 4.68
-    reviewCount: 2401
+    reviewCount: 2402
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -296,14 +296,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600b.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600a.html"
         matchStatus: "pending"
         updatedAt: "2026-07-25"
         price: 3000
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600b"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600a"
         available: true
-        rating: 4.67
-        reviewCount: 21
+        rating: 4.69
+        reviewCount: 36
   - rank: 10
     name: "ドッグフード 国産 無添加 吉岡油糧 オンリーワンフード 1kg 5kg（ リピート"
     brand: "ドッグフード"

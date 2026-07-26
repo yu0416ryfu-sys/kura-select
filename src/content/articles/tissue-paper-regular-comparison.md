@@ -4,7 +4,7 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-07-25"
+updatedAt: "2026-07-26"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "400枚（200組）×60箱"
     pricePerUnit: "約0.41円/組"
     rating: 4.75
-    reviewCount: 508
+    reviewCount: 509
     features:
       - "シンプルなホワイトパッケージの定番箱タイプ"
       - "200組のスタンダードな2枚重ね"
@@ -142,9 +142,9 @@ products:
   - rank: 6
     name: "イットコティッシュ 150組 60箱"
     brand: "イトマン"
-    price: 4686
+    price: 4873
     capacity: "150組×60箱"
-    pricePerUnit: "約0.52円/組"
+    pricePerUnit: "約0.54円/組"
     rating: 4.54
     reviewCount: 107
     features:

@@ -4,7 +4,7 @@ description: "入れ歯洗浄剤のおすすめ10選を1錠あたりの単価で
 category: "denture-cleaner"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-07-25"
+updatedAt: "2026-07-26"
 products:
   - rank: 1
     name: "スッキリデント 部分入れ歯総入れ歯兼用 120錠"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072029572.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-20"
+        updatedAt: "2026-07-25"
         price: 562
         rating: 4.77
         reviewCount: 22
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901080702111.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
+        updatedAt: "2026-07-25"
         price: 813
         rating: 0
         reviewCount: 1
@@ -181,7 +181,7 @@ products:
       - "保管スペースをやや確保したい"
     recommendedFor: "毎日ケアと週次ケアを分けて丁寧に手入れしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F7171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10004542%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0718_100b/kirikae2/25930_7171_sam.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shouhin10/25930_7171_sam.jpg?_ex=128x128"
   - rank: 7
     name: "スマイルクリーナータブレット 90錠"
     brand: "SANWA DENTAL"
@@ -204,6 +204,17 @@ products:
     recommendedFor: "まずは1個から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ug7tn.3rdw6fbe.g00ug7tn.3rdw71d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwa-dental%2Fsmilecleaner-tab90%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwa-dental%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwa-dental/cabinet/smilecleaner-tab90/imgrc0120075191.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmymouthpeace%2F98.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-25"
+        price: 3780
+        rating: 4.3
+        reviewCount: 10
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/mymouthpeace_98"
+        available: true
   - rank: 8
     name: "スマイルクリーナータブレット 90錠 2個セット"
     brand: "SANWA DENTAL"
@@ -253,7 +264,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftodaysun%2F2022yr12mt18daywq069ic09f694wp2.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-25"
         price: 6026
         rating: 0
         reviewCount: 0
@@ -286,7 +297,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisare-gal%2Fkirari03.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-25"
         price: 3244
         rating: 0
         reviewCount: 1
