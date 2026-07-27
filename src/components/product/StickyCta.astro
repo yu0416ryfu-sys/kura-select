@@ -75,7 +75,9 @@ const displayPrice = priceSummary.lowestPrice ?? (isKnownPrice(product.price) ? 
         <div class="flex-1 min-w-0">
           <p class="text-[11px] font-semibold text-amber-600 leading-none mb-0.5">🏆 この記事の1位</p>
           <p class="text-xs font-bold text-[var(--color-text)] truncate">{product.name}</p>
-          <p class="text-xs text-[var(--color-text-sub)]">{formatPriceOrConfirmation(displayPrice)}</p>
+          <p class="text-xs text-[var(--color-text-sub)]">
+            {formatPriceOrConfirmation(displayPrice)}{product.pricePerUnit && `（${product.pricePerUnit}）`}
+          </p>
         </div>
         <div class="shrink-0 w-36">
           <AffiliateLink
