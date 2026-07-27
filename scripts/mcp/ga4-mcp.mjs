@@ -23,6 +23,9 @@ const DIMENSIONS = [
   "country",
   "city",
   "eventName",
+  // GA4管理画面で登録済みのカスタムディメンション（イベントスコープ）
+  "customEvent:placement",
+  "customEvent:product_name",
 ];
 
 const METRICS = [
