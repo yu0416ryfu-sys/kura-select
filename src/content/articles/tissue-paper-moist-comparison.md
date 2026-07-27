@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌触りとコス
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-07-09"
+updatedAt: "2026-07-27"
 draft: false
 products:
   - rank: 1
@@ -233,8 +233,8 @@ products:
     price: 698
     capacity: "3個パック"
     pricePerUnit: "約233円/個"
-    rating: 4.71
-    reviewCount: 35
+    rating: 4.72
+    reviewCount: 36
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"

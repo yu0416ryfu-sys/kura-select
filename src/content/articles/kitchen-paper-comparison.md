@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-25"
+updatedAt: "2026-07-27"
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -153,9 +153,9 @@ products:
   - rank: 6
     name: "クレシア ペーパータオル 業務用 クレシア EFハンドタオル ソフトタイプ200 中"
     brand: "楽天市場"
-    price: 3480
+    price: 3680
     capacity: "400枚"
-    pricePerUnit: "約8.7円/枚"
+    pricePerUnit: "約9.2円/枚"
     rating: 4.71
     reviewCount: 361
     features:

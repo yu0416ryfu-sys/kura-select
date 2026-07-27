@@ -4,7 +4,7 @@ description: "衣類・布用消臭スプレーを1プッシュあたりのコ�
 category: "sanitizing-spray"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-25"
+updatedAt: "2026-07-27"
 products:
   - rank: 1
     name: "花王｜Kao Resesh リセッシュ 除菌EX デオドラントパワー 香りが残ら"
@@ -200,7 +200,7 @@ products:
     capacity: "500ml＋1L"
     pricePerUnit: "約6.4円/ml"
     rating: 4.53
-    reviewCount: 1044
+    reviewCount: 1045
     features:
       - "本体500mLと詰め替え1000mLのセット販売"
       - "速乾性の高いスプレータイプ"
@@ -214,7 +214,7 @@ products:
       - "初期コストが高め"
     recommendedFor: "まとめ買いで手間を減らしたい方・詰め替え運用でコスト管理したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sughn.3rdw62df.g00sughn.3rdw7388/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcubic-square%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcubic-square%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cubic-square/cabinet/mem_item/asrk/c/10000009line12.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cubic-square/cabinet/mem_item/asrk/c/10000009line.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

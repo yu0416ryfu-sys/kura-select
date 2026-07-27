@@ -4,7 +4,7 @@ description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分�
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-26"
+updatedAt: "2026-07-27"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -13,7 +13,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.76
-    reviewCount: 1561
+    reviewCount: 1563
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -211,7 +211,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約16円/枚"
     rating: 4.74
-    reviewCount: 61
+    reviewCount: 62
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

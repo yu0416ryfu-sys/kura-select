@@ -4,13 +4,13 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-07-26"
+updatedAt: "2026-07-27"
 draft: false
 products:
   - rank: 1
     name: "Enevolt basic アルカリ乾電池 単3・単4"
     brand: "Enevolt basic（エネボルト ベーシック）"
-    price: 470
+    price: 480
     capacity: "40本"
     pricePerUnit: "約12円/本"
     rating: 4.52
@@ -47,7 +47,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約25円/本"
     rating: 4.63
-    reviewCount: 1051
+    reviewCount: 1052
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"

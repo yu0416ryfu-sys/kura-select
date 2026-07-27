@@ -4,7 +4,7 @@ description: "紙おむつを新生児用、Sサイズ、Mサイズ、BIG以上�
 category: "diaper"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-07-26"
+updatedAt: "2026-07-27"
 products:
   - rank: 1
     name: "グーンプラス テープ"
@@ -196,9 +196,9 @@ products:
   - rank: 7
     name: "ムーニー テープ S マシュマロ肌ごこち"
     brand: "ムーニー"
-    price: 6980
+    price: 7180
     capacity: "70枚×4袋"
-    pricePerUnit: "約25円/枚"
+    pricePerUnit: "約26円/枚"
     rating: 4.83
     reviewCount: 155
     features:

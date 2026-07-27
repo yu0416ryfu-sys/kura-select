@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-07-26"
+updatedAt: "2026-07-27"
 draft: false
 products:
   - rank: 1
@@ -126,11 +126,11 @@ products:
   - rank: 5
     name: "今治タオル レオン バスマット"
     brand: "今治タオル"
-    price: 1980
+    price: 2290
     capacity: "42×67cm 1枚"
     pricePerUnit: "約1800円/枚"
     rating: 4.61
-    reviewCount: 2105
+    reviewCount: 2106
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -144,7 +144,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r0pnn.3rdw6bf8.g00r0pnn.3rdw7fc4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcyberl2010%2F0215-0212-0101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcyberl2010%2Fi%2F10000622%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cyberl2010/cabinet/cartsale/lebm_18.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cyberl2010/cabinet/01635375/colormat300pix6.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -177,7 +177,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q124n.3rdw6458.g00q124n.3rdw7ee2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmat-rug%2F10000016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmat-rug%2Fi%2F10000016%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mat-rug/cabinet/event/12125016/2026071643.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mat-rug/cabinet/00382341/03050199/20251201005.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -250,8 +250,8 @@ products:
     price: 2070
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
-    rating: 4.43
-    reviewCount: 2608
+    rating: 4.42
+    reviewCount: 2613
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

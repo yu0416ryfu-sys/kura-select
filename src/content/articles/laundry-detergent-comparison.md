@@ -4,7 +4,7 @@ description: "洗濯洗剤を1回あたりのコストで徹底比較。液体�
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: "2026-07-22"
+updatedAt: "2026-07-27"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -13,7 +13,7 @@ products:
     capacity: "1100g×8個"
     pricePerUnit: "約0.45円/g"
     rating: 4.76
-    reviewCount: 228
+    reviewCount: 229
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
