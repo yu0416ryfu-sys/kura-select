@@ -53,6 +53,16 @@ describe("offers helper", () => {
     expect(getRakutenRating({ reviewCount: 80 })).toBeNull();
   });
 
+  it("suppresses Rakuten rating when reviewCount is 0 or rating is out of range", () => {
+    expect(getRakutenRating({ rating: 4.6, reviewCount: 0 })).toBeNull();
+    expect(getRakutenRating({ rating: 0, reviewCount: 80 })).toBeNull();
+    expect(getRakutenRating({ rating: 5.5, reviewCount: 80 })).toBeNull();
+    expect(getRakutenRating({ rating: 1, reviewCount: 1 })).toEqual({
+      rating: 1,
+      reviewCount: 1,
+    });
+  });
+
   it("uses Rakuten fallback when offers are missing", () => {
     expect(getVisibleOffers({ rakutenUrl }, { enabledProviders: ["rakuten"] })).toMatchObject([
       { provider: "rakuten", url: rakutenUrl },

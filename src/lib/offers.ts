@@ -206,11 +206,14 @@ export function getRakutenFallbackOffer(product: ProductWithOffers): ProductOffe
 
 // JSON-LD aggregateRating 用の単一ソース（楽天）評価。
 // Yahoo など複数サイトの評価を合算せず、商品レベルの楽天値だけを使う。
+// レビュー0件や rating が 1〜5 の範囲外はリッチリザルトのエラーになるため出力しない。
 export function getRakutenRating(
   product: { rating?: number; reviewCount?: number }
 ): { rating: number; reviewCount: number } | null {
   if (typeof product.rating !== "number") return null;
   if (typeof product.reviewCount !== "number") return null;
+  if (product.reviewCount <= 0) return null;
+  if (product.rating < 1 || product.rating > 5) return null;
   return { rating: product.rating, reviewCount: product.reviewCount };
 }
 
