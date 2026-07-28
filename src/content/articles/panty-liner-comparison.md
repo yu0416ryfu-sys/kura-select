@@ -4,7 +4,7 @@ description: "おりものシート（パンティライナー）のおすすめ
 category: "panty-liner"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-07-25"
+updatedAt: "2026-07-28"
 draft: false
 products:
   - rank: 1
@@ -129,39 +129,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4903111375677"
         available: true
   - rank: 5
-    name: "ソフィ はだおもいライナー 天然極コットン 低刺激デリケートタイプ 14cm"
-    brand: "ユニ・チャーム（ソフィ）"
-    price: 338
-    capacity: "50枚"
-    pricePerUnit: "約6.8円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "天然極コットンを使った低刺激デリケートタイプ"
-      - "14cmの標準的な長さ"
-      - "デリケートな肌を意識した設計"
-    pros:
-      - "肌当たりのやさしさを重視する人に向く"
-      - "敏感に感じやすい日にも使いやすい"
-      - "標準サイズで毎日使いしやすい"
-    cons:
-      - "枚数あたりの単価はやや高め"
-      - "長さがあるロングタイプではない"
-    recommendedFor: "肌へのやさしさを最優先したい方・敏感な日が多い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1z8n.3rdw6cd0.g00r1z8n.3rdw7404/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-server%2F4903111316083%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-server%2Fi%2F10093827%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-server/cabinet/imgdir109/4903111316083_1.gif?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903111316083.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-14"
-        price: 295
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903111316083"
-        available: true
-  - rank: 6
     name: "サラサーティ コットン100 極上やわらか 無香料 52枚"
     brand: "小林製薬（サラサーティ）"
     price: 353
@@ -188,11 +155,44 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flamp%2Fkasar-13.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-15"
+        updatedAt: "2026-07-27"
         price: 740
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lamp_kasar-13"
+        available: true
+  - rank: 6
+    name: "ソフィ はだおもいライナー 天然極コットン 低刺激デリケートタイプ 14cm"
+    brand: "ユニ・チャーム（ソフィ）"
+    price: 383
+    capacity: "50枚"
+    pricePerUnit: "約7.7円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "天然極コットンを使った低刺激デリケートタイプ"
+      - "14cmの標準的な長さ"
+      - "デリケートな肌を意識した設計"
+    pros:
+      - "肌当たりのやさしさを重視する人に向く"
+      - "敏感に感じやすい日にも使いやすい"
+      - "標準サイズで毎日使いしやすい"
+    cons:
+      - "枚数あたりの単価はやや高め"
+      - "長さがあるロングタイプではない"
+    recommendedFor: "肌へのやさしさを最優先したい方・敏感な日が多い方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1z8n.3rdw6cd0.g00r1z8n.3rdw7404/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-server%2F4903111316083%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-server%2Fi%2F10093827%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-server/cabinet/imgdir109/4903111316083_1.gif?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903111316083.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-27"
+        price: 289
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903111316083"
         available: true
   - rank: 7
     name: "サラサーティ コットン100 無香料 おりものシート"
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4987072009741.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-07-27"
         price: 691
         rating: 4.78
         reviewCount: 9

@@ -4,7 +4,7 @@ description: "粘着クリーナー（コロコロ）を1巻あたりのコス�
 category: "lint-roller"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-09"
+updatedAt: "2026-07-28"
 products:
   - rank: 1
     name: "粘着クリーナー スペアテープ 粘着王 お得な3巻入"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4903320592193.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-26"
+        updatedAt: "2026-07-27"
         price: 876
         rating: 0
         reviewCount: 1
@@ -145,7 +145,7 @@ products:
     capacity: "3巻（1巻40周）"
     pricePerUnit: "約1527円/巻"
     rating: 4.74
-    reviewCount: 127
+    reviewCount: 128
     features:
       - "フローリング対応で床に貼り付きにくい"
       - "独自のミシン目で片手でめくれる"

@@ -4,7 +4,7 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-07-27"
+updatedAt: "2026-07-28"
 draft: false
 products:
   - rank: 1
@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmisono-support%2Fb7-299.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-25"
+        updatedAt: "2026-07-27"
         price: 2980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/misono-support_b7-299"
         available: true
@@ -101,8 +101,8 @@ products:
     price: 1788
     capacity: "18袋×5個（90袋）"
     pricePerUnit: "約20円/袋"
-    rating: 4.79
-    reviewCount: 47
+    rating: 4.8
+    reviewCount: 49
     features:
       - "国産六条大麦100%使用"
       - "ノンカフェイン・水出し対応"
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fa-life%2Ft3ab-2274329.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-26"
+        updatedAt: "2026-07-27"
         price: 9322
         rating: 0
         reviewCount: 0

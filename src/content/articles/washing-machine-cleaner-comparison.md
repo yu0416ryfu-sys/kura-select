@@ -4,7 +4,7 @@ description: "洗濯槽クリーナーを1回あたりのコストで徹底比�
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-27"
+updatedAt: "2026-07-28"
 products:
   - rank: 1
     name: "過炭酸ナトリウム 酸素系漂白剤 950g"
@@ -12,8 +12,8 @@ products:
     price: 598
     capacity: "950g"
     pricePerUnit: "約0.63円/g"
-    rating: 4.77
-    reviewCount: 2021
+    rating: 4.76
+    reviewCount: 2023
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "pH10.5のアルカリ性で汚れに働きかける"
@@ -27,18 +27,18 @@ products:
       - "計量が必要で手間がかかる"
     recommendedFor: "においが気になる方・多用途に使いたい方・酸素系を試してみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2Fkatannsann1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000471%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sansokei_950m.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-hyouhaku-950g.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann1.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-20"
+        updatedAt: "2026-07-27"
         price: 598
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann1"
         available: true
         rating: 4.56
-        reviewCount: 2043
+        reviewCount: 2045
   - rank: 2
     name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.26kg！★【"
     brand: "グラフィコ（オキシクリーン）"
@@ -110,7 +110,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshabondamasoap%2F2230.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
+        updatedAt: "2026-07-27"
         price: 550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shabondamasoap_2230"
         available: true
@@ -167,7 +167,7 @@ products:
     capacity: "200g×3個（3回分）"
     pricePerUnit: "約4.2円/g"
     rating: 4.63
-    reviewCount: 740
+    reviewCount: 741
     features:
       - "酵素と塩素系成分を組み合わせたクリーナー"
       - "縦型・ドラム式両対応の設計"
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurashikaiteki-pro%2F10000168.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-26"
+        updatedAt: "2026-07-27"
         price: 4345
         rating: 4.21
         reviewCount: 34

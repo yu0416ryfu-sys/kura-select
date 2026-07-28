@@ -4,7 +4,7 @@ description: "歯ブラシを1本あたりのコストで徹底比較。シス�
 category: "toothpaste"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-27"
+updatedAt: "2026-07-28"
 products:
   - rank: 1
     name: "FEED Shu&Shu 大人用歯ブラシアソート 20本 M"
@@ -68,7 +68,7 @@ products:
     capacity: "50本"
     pricePerUnit: "約73円/本"
     rating: 4.67
-    reviewCount: 1216
+    reviewCount: 1217
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -130,13 +130,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Fr5.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Fs9.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-25"
-        price: 2360
-        rating: 4.93
-        reviewCount: 14
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_r5"
+        updatedAt: "2026-07-27"
+        price: 1680
+        rating: 4.39
+        reviewCount: 138
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_s9"
         available: true
   - rank: 6
     name: "Ci200シリーズ 歯科専売歯ブラシ"
@@ -189,7 +189,7 @@ products:
     capacity: "30本"
     pricePerUnit: "約139円/本"
     rating: 4.76
-    reviewCount: 3905
+    reviewCount: 3906
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -231,12 +231,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Ft24z.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-25"
+        updatedAt: "2026-07-27"
         price: 1468
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_t24z"
         available: true
         rating: 4.63
-        reviewCount: 2640
+        reviewCount: 2642
   - rank: 10
     name: "オーラルB 互換替えブラシ"
     brand: "オーラルB互換"

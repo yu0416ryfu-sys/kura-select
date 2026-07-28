@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-07-27"
+updatedAt: "2026-07-28"
 draft: false
 products:
   - rank: 1
@@ -219,9 +219,9 @@ products:
   - rank: 8
     name: "エネボルト 充電池 単3 単4 セット 16本 ケース付 充電 電池 充電電池 充電"
     brand: "楽天市場"
-    price: 2830
+    price: 2980
     capacity: "16本"
-    pricePerUnit: "約177円/本"
+    pricePerUnit: "約186円/本"
     rating: 4.46
     reviewCount: 668
     features:

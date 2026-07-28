@@ -3,7 +3,7 @@ title: "ジョイとキュキュットどっちがいい？【2026年版】コ�
 description: "ジョイとキュキュットはどっちがいい？大容量の詰め替えを1mLあたりの単価・洗浄力・除菌・すすぎやすさの4軸で徹底比較。用途別の使い分けと選び方まで解説します。価格は毎週自動更新。"
 category: "dish-detergent"
 publishedAt: "2026-07-27"
-updatedAt: "2026-07-27"
+updatedAt: "2026-07-28"
 articleType: "comparison"
 products:
   - rank: 1
@@ -28,6 +28,17 @@ products:
     recommendedFor: "油汚れの多い料理が中心で、まとめ買いしてストック効率も上げたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405030%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11164781%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/030/405030.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhikaritv%2F2010125998.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-27"
+        price: 3980
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010125998"
+        available: true
   - rank: 2
     name: "キュキュット クリア除菌 食器用洗剤 つめかえ用 ジャンボサイズ 1250mL×2セット"
     brand: "花王（キュキュット）"
@@ -50,6 +61,17 @@ products:
     recommendedFor: "泡切れとすすぎやすさを優先し、保管スペースも取りたくない方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F569969%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11227250%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/969/569969.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnicobase%2F2nico-4901301418609.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-27"
+        price: 2346
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nicobase_2nico-4901301418609"
+        available: true
 tags:
   - "食器用洗剤"
   - "ジョイ"

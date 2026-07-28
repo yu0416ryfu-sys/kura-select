@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-07-27"
+updatedAt: "2026-07-28"
 products:
   - rank: 1
     name: "立体不織布マスク バイカラー 50枚"
@@ -13,7 +13,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約5.3円/枚"
     rating: 4.19
-    reviewCount: 22128
+    reviewCount: 22129
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -67,7 +67,7 @@ products:
     capacity: "51枚"
     pricePerUnit: "約7.8円/枚"
     rating: 4.22
-    reviewCount: 5770
+    reviewCount: 5771
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
