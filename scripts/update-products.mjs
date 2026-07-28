@@ -22,6 +22,7 @@ import { spawnSync } from 'child_process';
 import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 import { applyAiCapacityToContent, buildProcessedAiCapacityFrozenProduct, buildCapacityReviewInputItem, computePendingFinalization, isSameRakutenItemUrl, parseJsonlPreservingRaw } from './lib/ai-capacity.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
+import { stripCapacityForKeyword, buildProductMatchSearchKeywords, createCandidateSelector } from './lib/product-match-keywords.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const VERBOSE = process.argv.includes('--verbose');
@@ -1431,52 +1432,24 @@ async function fetchRakutenSearchMany(keyword, hits = 30, page = 1) {
     }));
 }
 
-function stripCapacityForKeyword(name) {
-  return String(name ?? '')
-    .normalize('NFKC')
-    .replace(/[【\[].+?[】\]]/g, ' ')
-    .replace(/[（(].+?[）)]/g, ' ')
-    .replace(/\d[\d,.]*\s*(?:mL|ml|ML|L|l|g|G|kg|KG|枚|個|本|袋|箱|パック|セット|ロール|巻|包|錠|m|M).*/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
-}
-
-function stripSizeAndCapacityForKeyword(name) {
-  return stripCapacityForKeyword(name)
-    .split(/\s+/)
-    .filter(token => !/^(?:SS|S|M|L|LL|XL|2L|3L|大|小|大容量|小容量)$/i.test(token))
-    .join(' ')
-    .replace(/\s+/g, ' ')
-    .trim();
-}
-
-function buildProductMatchSearchKeywords({ productName, articleTitle, category }) {
-  const normalizedName = String(productName ?? '').normalize('NFKC').trim();
-  const strippedName = stripCapacityForKeyword(normalizedName);
-  const fallbackName = stripSizeAndCapacityForKeyword(normalizedName);
-  const baseKeyword = buildSearchKeyword(normalizedName);
-  const tokens = strippedName.split(/\s+/).filter(Boolean);
-  const articleKeyword = articleTitle ? buildArticleSearchKeyword(articleTitle) : '';
-  const categoryKeywords = CATEGORY_SEARCH_RULES[category]?.keywords ?? [];
-
-  return uniqueStrings([
-    baseKeyword,
-    strippedName,
-    tokens.slice(0, 4).join(' '),
-    tokens.slice(0, 3).join(' '),
-    fallbackName,
-    ...categoryKeywords.slice(0, 2),
-    articleKeyword,
-  ])
-    .filter(keyword => keyword.length >= 2)
-    .slice(0, 6);
+function buildProductMatchKeywords({ productName, articleTitle, category }) {
+  return buildProductMatchSearchKeywords({
+    productName,
+    baseKeyword: buildSearchKeyword(String(productName ?? '').normalize('NFKC').trim()),
+    articleKeyword: articleTitle ? buildArticleSearchKeyword(articleTitle) : '',
+    categoryKeywords: CATEGORY_SEARCH_RULES[category]?.keywords ?? [],
+  });
 }
 
 async function collectProductMatchCandidates(searchKeywords, maxCandidates = 10) {
-  const candidates = [];
+  // 先頭キーワードが候補枠を独占すると後続の絞り込み語が検索されないため、
+  // 枠の確保と（余った場合の）補充を selector に任せる
+  const selector = createCandidateSelector(searchKeywords.length, maxCandidates);
   const seenUrls = new Set();
 
-  for (const keyword of searchKeywords) {
+  for (const [keywordIndex, keyword] of searchKeywords.entries()) {
+    if (selector.isFull()) break;
+
     let fetched = [];
     try {
       fetched = await fetchRakutenSearchMany(keyword, 10);
@@ -1489,7 +1462,8 @@ async function collectProductMatchCandidates(searchKeywords, maxCandidates = 10)
       const dedupeKey = directItemUrl ?? item.affiliateUrl ?? item.name;
       if (!dedupeKey || seenUrls.has(dedupeKey)) continue;
       seenUrls.add(dedupeKey);
-      candidates.push({
+
+      selector.offer({
         itemName: item.name ?? '',
         itemUrl: item.itemUrl ?? directItemUrl,
         directItemUrl,
@@ -1500,12 +1474,11 @@ async function collectProductMatchCandidates(searchKeywords, maxCandidates = 10)
         imageUrl: item.imageUrl ?? null,
         capacityExtracted: item.name ? extractCapacityFromItemName(item.name) : null,
         sourceKeyword: keyword,
-      });
-      if (candidates.length >= maxCandidates) return candidates;
+      }, keywordIndex);
     }
   }
 
-  return candidates;
+  return selector.finish();
 }
 
 function isPlaceholderProductUrl(url) {
@@ -1530,7 +1503,7 @@ async function buildProductMatchReportItem({ file, category, articleTitle, conte
   const products = extractAllProductsData(content);
   const productBasic = products.find(product => product.name === productName);
   const existingUrl = current?.rakutenUrl ?? productBasic?.rakutenUrl ?? null;
-  const searchKeywords = buildProductMatchSearchKeywords({ productName, articleTitle, category });
+  const searchKeywords = buildProductMatchKeywords({ productName, articleTitle, category });
   const candidates = await collectProductMatchCandidates(searchKeywords);
 
   return {
