@@ -173,6 +173,7 @@ export const ARTICLE_UNIT_POLICY: Record<string, string> = {
   'body-soap-comparison': 'g',
   'kitchen-bleach-comparison': 'g',
   'laundry-bleach-comparison': 'g',
+  'oxiclean-vs-percarbonate-comparison': 'g',
   'room-dry-detergent-comparison': 'g',
   'washing-machine-cleaner-comparison': 'g',
   // ティッシュは枚・組が混在するため「組」（=1回の取り出し）に統一する。
