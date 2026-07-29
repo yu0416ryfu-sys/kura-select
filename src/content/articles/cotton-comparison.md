@@ -1,10 +1,10 @@
 ---
-title: "コットン コスパ最強ランキング【2026年版】おすすめ10選｜1枚あたりで比較"
-description: "コットンを1枚あたりのコストで徹底比較。シルコット・ビオレ・大容量無印など人気10選を吸水性・肌触り・コスパ最強ランキングで解説。スキンケア毎日使いに最適な1袋が見つかります。"
+title: "コットン コスパ最強ランキング【2026年版】おすすめ9選｜1枚あたりで比較"
+description: "コットンを1枚あたりのコストで徹底比較。シルコット・ビオレ・大容量無印など人気9選を吸水性・肌触り・コスパ最強ランキングで解説。スキンケア毎日使いに最適な1袋が見つかります。"
 category: "cotton"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-07-28"
+updatedAt: "2026-07-29"
 products:
   - rank: 1
     name: "業務用フェイシャルコットン エステ化粧用"
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhemart%2Fetf-cotton68.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-07-28"
         price: 1833
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthemart_etf-cotton68"
         available: true
@@ -161,28 +161,6 @@ products:
         rating: 0
         reviewCount: 0
   - rank: 6
-    name: "ナチュラルパフ コットンパフ セット"
-    brand: "アコレ"
-    price: 780
-    capacity: "50枚×2個"
-    pricePerUnit: "約7.8円/枚"
-    rating: 4.8
-    reviewCount: 10
-    features:
-      - "使い捨てタイプのコットンパフ"
-      - "国内製造のパフとして扱いやすい構成"
-      - "スキンケアやメイクまわりに使いやすいシンプルタイプ"
-    pros:
-      - "普段使いのコットンパフを補充したい方に選びやすい"
-      - "シンプルな使用感を求める方に向いている"
-      - "少なめのセットから試しやすい"
-    cons:
-      - "高吸水や特殊加工を重視する方には物足りない場合がある"
-      - "パック用途ではサイズ感を確認しておきたい"
-    recommendedFor: "シンプルなコットンパフを日常使いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ut3hn.3rdw6e12.g00ut3hn.3rdw713e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fippinstore%2F220824-r000209000434%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fippinstore%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ippinstore/cabinet/12553331/12643423/13379744/1.jpg?_ex=128x128"
-  - rank: 7
     name: "フェイシャルコットンパッド"
     brand: "Luvum"
     price: 400
@@ -204,7 +182,7 @@ products:
     recommendedFor: "コットンパッドを少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5myn.3rdw6d6d.g00u5myn.3rdw7a77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyeppeuda%2Fluvum-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyeppeuda%2Fi%2F10000127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yeppeuda/cabinet/luvum/luvum_00/luvum-4_00.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "フェイシャルコットンパッド セット"
     brand: "Luvum"
     price: 2000
@@ -226,7 +204,7 @@ products:
     recommendedFor: "韓国コスメ系のコットンパッドをまとめて使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5myn.3rdw6d6d.g00u5myn.3rdw7a77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyeppeuda%2Fluvumset-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyeppeuda%2Fi%2F10000132%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yeppeuda/cabinet/luvum/luvum_00/luvumset-5_00.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "クオリティー コットン"
     brand: "SK-II"
     price: 990
@@ -248,7 +226,7 @@ products:
     recommendedFor: "ブランドラインの使い心地を重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00siy3n.3rdw6c23.g00siy3n.3rdw73c7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsk-ii%2Fsk2cotton%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsk-ii%2Fi%2F10003320%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sk-ii/cabinet/item/thumb/2606/sk2cotton.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "花王　ビオレ　メイク落とし　ふくだけコットン　つめかえ用　詰め替え用　クレンジン"
     brand: "花王（ビオレ）"
     price: 565
@@ -275,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10034333.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-07-28"
         price: 565
         rating: 0
         reviewCount: 0

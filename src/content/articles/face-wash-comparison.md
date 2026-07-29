@@ -4,42 +4,9 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-28"
+updatedAt: "2026-07-29"
 products:
   - rank: 1
-    name: "ビオレ おうちdeエステ マッサージ洗顔ジェル 150g"
-    brand: "花王（ビオレ）"
-    price: 647
-    capacity: "150g"
-    pricePerUnit: "約4.3円/g"
-    rating: 5
-    reviewCount: 2
-    features:
-      - "マッサージしながら洗顔できるジェルタイプの洗顔料"
-      - "肌をやわらかくする保湿ケア成分配合"
-      - "リラックスアロマの香り付き"
-    pros:
-      - "ドラッグストアで入手しやすい定番ブランド"
-      - "洗顔とマッサージを同時にできる時短設計"
-      - "毛穴ケアと保湿を両立したい方に向く"
-    cons:
-      - "アロマ香料が苦手な方には向かない場合がある"
-      - "ジェルタイプのため泡立てが必要"
-    recommendedFor: "洗顔にマッサージ感も求める方・花王ビオレブランドを好む方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1z8n.3rdw6cd0.g00r1z8n.3rdw7404/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-server%2F4901301342904%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-server%2Fi%2F10096578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-server/cabinet/imgdir110/4901301342904_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-ypp%2F3799-004426.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-13"
-        price: 1280
-        rating: 4.4
-        reviewCount: 5
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-ypp_3799-004426"
-        available: true
-  - rank: 2
     name: "洗顔フォーム 毛穴 ロゼット洗顔パスタ 海泥スムース WEB限定2倍"
     brand: "ロゼット"
     price: 1210
@@ -61,6 +28,39 @@ products:
     recommendedFor: "毛穴汚れが気になる方・コスパ最優先の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u529n.3rdw64b3.g00u529n.3rdw7138/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frosette-shop%2Fpasta_ks240_1ps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frosette-shop%2Fi%2F10000066%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rosette-shop/cabinet/thumbna/pasta_ks240_1ps/imgrc0108556464.jpg?_ex=128x128"
+  - rank: 2
+    name: "ビオレ おうちdeエステ マッサージ洗顔ジェル 150g"
+    brand: "花王（ビオレ）"
+    price: 1070
+    capacity: "150g"
+    pricePerUnit: "約7.1円/g"
+    rating: 4.5
+    reviewCount: 2
+    features:
+      - "マッサージしながら洗顔できるジェルタイプの洗顔料"
+      - "肌をやわらかくする保湿ケア成分配合"
+      - "リラックスアロマの香り付き"
+    pros:
+      - "ドラッグストアで入手しやすい定番ブランド"
+      - "洗顔とマッサージを同時にできる時短設計"
+      - "毛穴ケアと保湿を両立したい方に向く"
+    cons:
+      - "アロマ香料が苦手な方には向かない場合がある"
+      - "ジェルタイプのため泡立てが必要"
+    recommendedFor: "洗顔にマッサージ感も求める方・花王ビオレブランドを好む方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00upwzn.3rdw6b3d.g00upwzn.3rdw7ca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fessence-of-life%2F4901301342904%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fessence-of-life%2Fi%2F10000613%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/essence-of-life/cabinet/13169583/106.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-ypp%2F3799-004426.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-13"
+        price: 1280
+        rating: 4.4
+        reviewCount: 5
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-ypp_3799-004426"
+        available: true
   - rank: 3
     name: "DoMeCare マイクロクレイウォッシュ 110g"
     brand: "DoMeCare"
@@ -68,7 +68,7 @@ products:
     capacity: "110g"
     pricePerUnit: "約9.0円/g"
     rating: 4.6
-    reviewCount: 1815
+    reviewCount: 1817
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -134,7 +134,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約13円/g"
     rating: 4.58
-    reviewCount: 1561
+    reviewCount: 1562
     features:
       - "竹炭・海シルト・馬油配合の泥洗顔"
       - "無香料タイプとバラの香りタイプを展開"
@@ -167,7 +167,7 @@ products:
     capacity: "130g"
     pricePerUnit: "約17円/g"
     rating: 4.62
-    reviewCount: 1247
+    reviewCount: 1248
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000154951.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-07-28"
         price: 1320
         rating: 0
         reviewCount: 0

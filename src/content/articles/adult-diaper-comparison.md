@@ -4,7 +4,7 @@ description: "大人用紙おむつ・尿とりパッドのおすすめ10選を1
 category: "adult-diaper"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-07-26"
+updatedAt: "2026-07-29"
 products:
   - rank: 1
     name: "ひまわり にっこり緑茶パッド 2回吸収 300枚"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F10004173.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-07-28"
         price: 7260
         rating: 4.77
         reviewCount: 94
@@ -45,8 +45,8 @@ products:
     price: 3899
     capacity: "120枚"
     pricePerUnit: "約32円/枚"
-    rating: 4.74
-    reviewCount: 778
+    rating: 4.73
+    reviewCount: 780
     features:
       - "パンツタイプの大人用紙おむつ"
       - "一枚ずつ分けて持ち運べる個包装"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00181.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-07-28"
         price: 7876
         rating: 4.54
         reviewCount: 65
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00170.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-07-28"
         price: 7128
         rating: 4.5
         reviewCount: 101
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5817.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-07-28"
         price: 6270
         rating: 4.51
         reviewCount: 78
@@ -237,6 +237,17 @@ products:
     recommendedFor: "腰回りに合わせてサイズを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pve3n.3rdw6e49.g00pve3n.3rdw72d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhimawari-kaigo%2F10005819%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhimawari-kaigo%2Fi%2F10005819%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/himawari-kaigo/cabinet/00309601/g00642-case-sokuhai.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5819.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-28"
+        price: 6270
+        rating: 4.69
+        reviewCount: 72
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_5819"
+        available: true
   - rank: 9
     name: "DFree リハビリ うすい型パンツ"
     brand: "DFree"

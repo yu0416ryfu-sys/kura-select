@@ -4,16 +4,16 @@ description: "紙おむつを新生児用、Sサイズ、Mサイズ、BIG以上�
 category: "diaper"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-07-28"
+updatedAt: "2026-07-29"
 products:
   - rank: 1
-    name: "グーンプラス テープ"
+    name: "グーンプラス 敏感肌にやわらかタッチ テープ 4個セット"
     brand: "GOO.N"
-    price: 6072
-    capacity: "4個"
-    pricePerUnit: "約1518円/個"
-    rating: 4.72
-    reviewCount: 512
+    price: 6980
+    capacity: "4個セット"
+    pricePerUnit: "約1745円/個"
+    rating: 4.1
+    reviewCount: 40
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"
@@ -26,8 +26,8 @@ products:
       - "サイズや枚数は選択肢によって変わるため購入前に確認したい"
       - "赤ちゃんの体型や肌との相性で合う商品が分かれる"
     recommendedFor: "乳幼児向けのテープ型おむつをサイズ別に比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404194%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10027920%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/194/404194.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7175547%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10183818%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tasya114/7270014-e.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -134,7 +134,7 @@ products:
     capacity: "4個"
     pricePerUnit: "約2289円/個"
     rating: 4.68
-    reviewCount: 3910
+    reviewCount: 3911
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"

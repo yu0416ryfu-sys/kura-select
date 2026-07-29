@@ -1,19 +1,19 @@
 ---
-title: "衣類・布用消臭スプレー コスパ最強ランキング【2026年版】除菌力・消臭力で比較10選"
-description: "衣類・布用消臭スプレーを1プッシュあたりのコストで徹底比較。ファブリーズ・リセッシュ・A2Care・ハイジアなど人気10選を消臭力で解説します。"
+title: "衣類・布用消臭スプレー コスパ最強ランキング【2026年版】除菌力・消臭力で比較9選"
+description: "衣類・布用消臭スプレーを1プッシュあたりのコストで徹底比較。ファブリーズ・リセッシュ・A2Care・ハイジアなど人気9選を消臭力で解説します。"
 category: "sanitizing-spray"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-28"
+updatedAt: "2026-07-29"
 products:
   - rank: 1
-    name: "花王｜Kao Resesh リセッシュ 除菌EX デオドラントパワー 香りが残ら"
+    name: "リセッシュ 除菌EX デオドラントパワー 香りが残らないタイプ 本体 360mL"
     brand: "花王（リセッシュ）"
-    price: 328
-    capacity: "310mL"
-    pricePerUnit: "約1.1円/mL"
-    rating: 4.7
-    reviewCount: 10
+    price: 418
+    capacity: "360mL"
+    pricePerUnit: "約1.2円/mL"
+    rating: 5
+    reviewCount: 2
     features:
       - "99.9%除菌＆ウイルス除去（エンベロープタイプ）"
       - "汗臭・加齢臭・タバコ臭をしっかり消臭"
@@ -26,19 +26,19 @@ products:
       - "香りの好みが分かれる"
       - "本体スプレーボトルが別途必要"
     recommendedFor: "コスパ重視の方・大量に使う方・加齢臭対策に・部屋干し臭対策に"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4901301348333%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F12290365%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/3683/00000005696710_a01.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4901301349033%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F12290372%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/3683/00000005696717_a01.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2870152018.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901301349033.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-23"
-        price: 313
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2870152018"
+        updatedAt: "2026-07-28"
+        price: 380
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901301349033"
         available: true
-        rating: 5
-        reviewCount: 5
+        rating: 0
+        reviewCount: 1
   - rank: 2
     name: "ファブリーズ W除菌+消臭 詰め替え 1280ml×2セット"
     brand: "P&G（ファブリーズ）"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftoku00301%2Fpbtuqj2ih5k3phffpwr6vs7ywy.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-07-28"
         price: 617
         rating: 0
         reviewCount: 2
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseiketu-online%2Fnew-frais-natula-350-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-07-28"
         price: 3630
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seiketu-online_new-frais-natula-350-set"
         available: true
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseiketu-online%2Fnew-frais-natula-350-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-07-28"
         price: 3630
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seiketu-online_new-frais-natula-350-set"
         available: true
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foasismse%2F342501-500.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-07-28"
         price: 2772
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oasismse_342501-500"
         available: true
@@ -200,7 +200,7 @@ products:
     capacity: "500ml＋1L"
     pricePerUnit: "約6.4円/ml"
     rating: 4.53
-    reviewCount: 1045
+    reviewCount: 1046
     features:
       - "本体500mLと詰め替え1000mLのセット販売"
       - "速乾性の高いスプレータイプ"
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcselect%2Fsourif-500-1000-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-07-28"
         price: 3200
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cselect_sourif-500-1000-set"
         available: true
@@ -260,39 +260,6 @@ products:
         rating: 4.67
         reviewCount: 6
   - rank: 9
-    name: "トップ ハイジア 除菌・消臭スプレー 詰め替え"
-    brand: "ライオン（ハイジア）"
-    price: 3734
-    capacity: "320mL"
-    pricePerUnit: "約12円/mL"
-    rating: 4.2
-    reviewCount: 50
-    features:
-      - "部屋干し臭の原因菌を99.9%除菌"
-      - "抗菌成分が繊維に留まり効果が長続き"
-      - "衣類だけでなく枕・シーツにも使える"
-    pros:
-      - "部屋干し臭に特化した処方"
-      - "800mLの大容量でたっぷり使える"
-      - "1本で約1,000回使える"
-    cons:
-      - "ファブリーズ・リセッシュより知名度が低い"
-      - "香りの種類が少ない"
-    recommendedFor: "部屋干しが多い方・枕やシーツの臭い対策に・コスパ重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3bvn.3rdw6436.g00u3bvn.3rdw79c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffidela%2Ffid6-00f050vya%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffidela%2Fi%2F10445637%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fidela/cabinet/fid6pic/systempic021/fid6-00f050vya1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903301292081.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-27"
-        price: 271
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903301292081"
-        available: true
-        rating: 4.81
-        reviewCount: 43
-  - rank: 10
     name: "シュシュキッキ リフレッシャー除菌消臭ミスト 20mL"
     brand: "ナカノザダイレクト"
     price: 550

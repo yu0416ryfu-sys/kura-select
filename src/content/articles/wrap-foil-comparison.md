@@ -4,9 +4,31 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-28"
+updatedAt: "2026-07-29"
 products:
   - rank: 1
+    name: "NEWクレラップ お徳用レギュラー 30cm×50m"
+    brand: "クレハ（クレラップ）"
+    price: 455
+    capacity: "30cm×50m"
+    pricePerUnit: "約9.1円/m"
+    rating: 4.54
+    reviewCount: 72
+    features:
+      - "クレハのポリ塩化ビニリデン製ラップ・幅広30cmタイプ"
+      - "のこぎり刃でカットしやすい設計"
+      - "電子レンジ・冷凍保存に対応"
+    pros:
+      - "大皿やボウルをカバーできる30cm幅で使い勝手が広い"
+      - "密着性が高く食品の酸化・乾燥を防ぎやすい"
+      - "50mの徳用サイズで交換頻度を抑えられる"
+    cons:
+      - "小さい容器には幅が余りやすい"
+      - "ポリ塩化ビニリデン製のため高温調理での使用には注意が必要"
+    recommendedFor: "大きな食器を多用する方・まとめ買いでコストを抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901422153502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10072573%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/55/4901422153502.jpg?_ex=128x128"
+  - rank: 2
     name: "旭化成 サランラップ 家庭用 22cm×50m"
     brand: "旭化成（サランラップ）"
     price: 510
@@ -39,7 +61,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 2
+  - rank: 3
     name: "NEWクレラップ 22cm*"
     brand: "クレハ（クレラップ）"
     price: 567
@@ -70,7 +92,7 @@ products:
         price: 18711
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/n-mark_4901422055257"
         available: true
-  - rank: 3
+  - rank: 4
     name: "業務用ポリラップ 無添加 22cm×22cm×100m×3本（300m） 3本セット"
     brand: "ポリラップ（ポリエチレン製）"
     price: 13080
@@ -92,7 +114,7 @@ products:
     recommendedFor: "コスト最優先の方・業務・大量使用・電子レンジ加熱が多い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7dn.3rdw6546.g00un7dn.3rdw75a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsumehoudai%2F36168p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsumehoudai%2Fi%2F10000740%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsumehoudai/cabinet/lap10.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "【ケース販売】サランラップ 業務用 BOXタイプ 30cm×"
     brand: "旭化成（サランラップ）"
     price: 12980
@@ -119,13 +141,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F350600.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-25"
+        updatedAt: "2026-07-29"
         price: 13090
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_350600"
         available: true
         rating: 4.86
         reviewCount: 36
-  - rank: 5
+  - rank: 6
     name: "サランラップ 家庭用 30cm"
     brand: "旭化成（サランラップ）"
     price: 298
@@ -147,28 +169,6 @@ products:
     recommendedFor: "大皿やボウルを多用する方・サランラップの定番サイズを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901670106336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10006411%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic02/4901670110210.jpg?_ex=128x128"
-  - rank: 6
-    name: "NEWクレラップ お徳用レギュラー 30cm"
-    brand: "クレハ（クレラップ）"
-    price: 455
-    capacity: "30cm×50m"
-    pricePerUnit: "0円/m"
-    rating: 4.54
-    reviewCount: 72
-    features:
-      - "クレハのポリ塩化ビニリデン製ラップ・幅広30cmタイプ"
-      - "のこぎり刃でカットしやすい設計"
-      - "電子レンジ・冷凍保存に対応"
-    pros:
-      - "大皿やボウルをカバーできる30cm幅で使い勝手が広い"
-      - "密着性が高く食品の酸化・乾燥を防ぎやすい"
-      - "50mの徳用サイズで交換頻度を抑えられる"
-    cons:
-      - "小さい容器には幅が余りやすい"
-      - "ポリ塩化ビニリデン製のため高温調理での使用には注意が必要"
-    recommendedFor: "大きな食器を多用する方・まとめ買いでコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901422153502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10072573%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/55/4901422153502.jpg?_ex=128x128"
   - rank: 7
     name: "サランラップ ミニ 22cm"
     brand: "旭化成（サランラップ）"

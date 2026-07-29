@@ -4,7 +4,7 @@ description: "消臭剤のおすすめ8選をコスパで徹底比較。リセ�
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-07-26"
+updatedAt: "2026-07-29"
 products:
   - rank: 1
     name: "ハルの消臭剤 消臭ビーズ 詰替用"
@@ -13,7 +13,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1265円/kg"
     rating: 4.79
-    reviewCount: 2982
+    reviewCount: 2985
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072098813.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-07-29"
         price: 350
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987072098813"
         available: true
@@ -69,7 +69,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1551円/kg"
     rating: 4.68
-    reviewCount: 1644
+    reviewCount: 1645
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fbs02.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-07-29"
         price: 6204
         rating: 4.67
         reviewCount: 454
@@ -129,41 +129,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_hb15"
         available: true
   - rank: 5
-    name: "リセッシュ 消臭スプレー 除菌EX デオドラントパワー 香りが残らないタイプ 詰"
-    brand: "花王"
-    price: 614
-    capacity: "680mL"
-    pricePerUnit: "約0.90円/mL"
-    rating: 4.82
-    reviewCount: 11
-    features:
-      - "汗・皮脂臭まで徹底消臭、24時間ニオイ0へ"
-      - "布の奥まで浸透する中和消臭＋皮脂酸化ブロック技術"
-      - "99%除菌＆布製品の防カビ効果"
-      - "香りが残らないタイプ"
-    pros:
-      - "大容量3袋セットでコスパ良好"
-      - "花王の信頼品質で高い消臭力"
-      - "衣類・布製品・空間に幅広く使用可能"
-    cons:
-      - "詰め替え作業が必要で手間"
-      - "保管時に液漏れに注意"
-      - "香りを求める人には不向き"
-    recommendedFor: "布製品の臭い消し・キッチンや玄関にも使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301388544%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10016824%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/544/4901301388544.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F113-8544-001.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-04"
-        price: 720
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_113-8544-001"
-        available: true
-        rating: 0
-        reviewCount: 0
-  - rank: 6
     name: "リセッシュ除菌EX ワイドジェット ストロング つめかえ用 630mL"
     brand: "花王"
     price: 798
@@ -199,7 +164,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 7
+  - rank: 6
     name: "ファブリーズ W除菌+消臭 詰め替え 1280ml×2セット"
     brand: "ファブリーズ(febreze) / P&G"
     price: 3297
@@ -224,6 +189,41 @@ products:
     recommendedFor: "布製品・空間の消臭除菌を手軽にしたい方・ファブリーズユーザー"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598757%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321967%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/757/598757.jpg?_ex=128x128"
+  - rank: 7
+    name: "リセッシュ 除菌EX デオドラントパワー 香りが残らないタイプ 詰替 680mL"
+    brand: "花王"
+    price: 1180
+    capacity: "680mL"
+    pricePerUnit: "約1.7円/mL"
+    rating: 3.25
+    reviewCount: 4
+    features:
+      - "汗・皮脂臭まで徹底消臭、24時間ニオイ0へ"
+      - "布の奥まで浸透する中和消臭＋皮脂酸化ブロック技術"
+      - "99%除菌＆布製品の防カビ効果"
+      - "香りが残らないタイプ"
+    pros:
+      - "大容量3袋セットでコスパ良好"
+      - "花王の信頼品質で高い消臭力"
+      - "衣類・布製品・空間に幅広く使用可能"
+    cons:
+      - "詰め替え作業が必要で手間"
+      - "保管時に液漏れに注意"
+      - "香りを求める人には不向き"
+    recommendedFor: "布製品の臭い消し・キッチンや玄関にも使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00txs3n.3rdw61d8.g00txs3n.3rdw705f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoppo888%2F10000756%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoppo888%2Fi%2F10003808%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/toppo888/cabinet/08362339/imgrc0109320672.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F113-8544-001.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-04"
+        price: 720
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_113-8544-001"
+        available: true
+        rating: 0
+        reviewCount: 0
   - rank: 8
     name: "瞬間消臭スプレー 420ml"
     brand: "ハル・インダストリ"
@@ -251,7 +251,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fhs01.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-07-29"
         price: 1485
         rating: 4.73
         reviewCount: 55

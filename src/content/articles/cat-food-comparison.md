@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-07-28"
+updatedAt: "2026-07-29"
 draft: false
 products:
   - rank: 1
@@ -74,42 +74,9 @@ products:
         rating: 4.73
         reviewCount: 742
   - rank: 3
-    name: "ロイヤルカナン インドア 4kg"
-    brand: "ロイヤルカナン"
-    price: 5980
-    capacity: "4kg"
-    pricePerUnit: "約1.5円/g"
-    rating: 4.65
-    reviewCount: 685
-    features:
-      - "猫向けのドライフードとして使いやすい設計"
-      - "年齢や生活環境に合わせて選びやすいライン"
-      - "保存しやすい袋入り・大容量タイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9214406%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10000607%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/logo/9214406.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687275.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-05"
-        price: 6476
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687275"
-        available: true
-        rating: 4.75
-        reviewCount: 1388
-  - rank: 4
     name: "ロイヤルカナン インドア 7+ 室内中高齢猫用 3.5kg"
     brand: "ロイヤルカナン"
-    price: 5470
+    price: 5759
     capacity: "3.5kg"
     pricePerUnit: "約1.6円/g"
     rating: 4.81
@@ -139,6 +106,39 @@ products:
         reviewCount: 89
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/familypet_52905133"
         available: true
+  - rank: 4
+    name: "ロイヤルカナン インドア 4kg"
+    brand: "ロイヤルカナン"
+    price: 6476
+    capacity: "4kg"
+    pricePerUnit: "約1.6円/g"
+    rating: 4.65
+    reviewCount: 686
+    features:
+      - "猫向けのドライフードとして使いやすい設計"
+      - "年齢や生活環境に合わせて選びやすいライン"
+      - "保存しやすい袋入り・大容量タイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9214406%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10000607%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/logo/9214406.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687275.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-05"
+        price: 6476
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687275"
+        available: true
+        rating: 4.75
+        reviewCount: 1388
   - rank: 5
     name: "ロイヤルカナン キトン"
     brand: "ロイヤルカナン"
@@ -179,7 +179,7 @@ products:
     capacity: "2kg"
     pricePerUnit: "約2.0円/g"
     rating: 4.68
-    reviewCount: 874
+    reviewCount: 877
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

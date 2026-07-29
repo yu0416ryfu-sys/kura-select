@@ -1,10 +1,10 @@
 ---
-title: "Sサイズ紙おむつ テープ型10選比較【2026年版】"
+title: "Sサイズ紙おむつ テープ型9選比較【2026年版】"
 description: "Sサイズのテープ型紙おむつ9製品を1枚あたりの価格で比較。メリーズ・ムーニー・パンパースほか、コスパと肌触りで選びます。"
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-28"
+updatedAt: "2026-07-29"
 products:
   - rank: 1
     name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚 旧パッケージ"
@@ -29,28 +29,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6xln.3rdw632a.g00u6xln.3rdw7ef6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjandcbaby%2Fkao-ts88%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjandcbaby%2Fi%2F10000078%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jandcbaby/cabinet/08963043/imgrc0111965819.jpg?_ex=128x128"
   - rank: 2
-    name: "グーンプラス 敏感肌設計 テープ Sサイズ 4個セット"
-    brand: "GOO.N（大王製紙）"
-    price: 6072
-    capacity: "70枚×4個（280枚）"
-    pricePerUnit: "約22円/枚"
-    rating: 4.72
-    reviewCount: 512
-    features:
-      - "敏感肌設計でふんわり素材を採用したテープタイプ"
-      - "Sサイズ（4〜8kg対応）70枚×4個の大容量セット"
-      - "やさしい貼り心地で肌あたりに配慮した設計"
-    pros:
-      - "肌が敏感な赤ちゃんに向けた処方で選びやすい"
-      - "4個セットで在庫管理がしやすく購入頻度を抑えられる"
-      - "メリーズ・パンパースと並ぶ大手ブランドの選択肢が増える"
-    cons:
-      - "4個セットのため初期費用が大きくなりやすい"
-      - "体型によってフィット感に差が出ることがある"
-    recommendedFor: "敏感肌の赤ちゃんにSサイズをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404194%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10027920%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/194/404194.jpg?_ex=128x128"
-  - rank: 3
     name: "ムーニー マシュマロ肌ごこち モレ安心 テープ S 70枚"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1694
@@ -83,7 +61,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 4
+  - rank: 3
     name: "ムーニー マシュマロ肌ごこち テープ Sサイズ 大容量"
     brand: "ユニ・チャーム（ムーニー）"
     price: 6688
@@ -116,7 +94,7 @@ products:
         available: true
         rating: 4.75
         reviewCount: 52
-  - rank: 5
+  - rank: 4
     name: "パンパース テープ Sサイズ 74枚×4袋"
     brand: "P&G（パンパース）"
     price: 8800
@@ -149,7 +127,7 @@ products:
         available: true
         rating: 4.79
         reviewCount: 140
-  - rank: 6
+  - rank: 5
     name: "ムーニー 低刺激であんしん 紙おむつ テープ"
     brand: "ユニ・チャーム（ムーニーナチュラル）"
     price: 7158
@@ -182,7 +160,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 7
+  - rank: 6
     name: "パンパース はじめての肌へのいちばん テープ Sサイズ 132枚"
     brand: "P&G（パンパース）"
     price: 5699
@@ -215,7 +193,7 @@ products:
         available: true
         rating: 0
         reviewCount: 2
-  - rank: 8
+  - rank: 7
     name: "パンパース オムツ はじめての肌へのいちばん テープ Sサイズ【パンパース】"
     brand: "P&G（パンパース）"
     price: 6280
@@ -248,14 +226,14 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176206206"
         available: true
-  - rank: 9
+  - rank: 8
     name: "パンパース さらさらケア テープ"
     brand: "P&G（パンパース）"
     price: 9156
     capacity: "84枚/4パック"
     pricePerUnit: "約109円/枚"
     rating: 4.68
-    reviewCount: 3910
+    reviewCount: 3911
     features:
       - "全面通気性に優れたエアスルー素材採用"
       - "360度フィットで漏れを防止"
@@ -281,7 +259,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7295899"
         available: true
-  - rank: 10
+  - rank: 9
     name: "パンパース はじめての肌へのいちばん テープ Sサイズ"
     brand: "P&G（パンパース）"
     price: 7579

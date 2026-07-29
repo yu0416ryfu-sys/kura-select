@@ -4,7 +4,7 @@ description: "ペットシーツのダブル（スーパーワイド）サイズ
 category: "pet-sheet"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-07-28"
+updatedAt: "2026-07-29"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "スーパーワイド 100枚（25枚×4パック）"
     pricePerUnit: "約1.75円/枚"
     rating: 4.35
-    reviewCount: 1800
+    reviewCount: 1801
     features:
       - "スーパーワイド（60×90cm）の厚型設計"
       - "ポリエチレン素材で吸収力・防水性を両立"
@@ -35,8 +35,8 @@ products:
     price: 2980
     capacity: "スーパーワイド 1200枚"
     pricePerUnit: "約2.48円/枚"
-    rating: 4.39
-    reviewCount: 1365
+    rating: 4.4
+    reviewCount: 1368
     features:
       - "スーパーワイド（60×90cm）サイズ、約655cc吸収"
       - "PPE素材使用、1枚あたり約60gの重量"
@@ -80,7 +80,7 @@ products:
     capacity: "800枚"
     pricePerUnit: "約5.0円/枚"
     rating: 4.55
-    reviewCount: 14540
+    reviewCount: 14545
     features:
       - "スーパーワイド・ダブルワイド系のペットシーツ"
       - "大型犬や多頭飼いのトイレまわりに使いやすい"
@@ -96,39 +96,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5lzn.3rdw67b4.g00s5lzn.3rdw7923/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fryouhin-monogatari%2F10000024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fryouhin-monogatari%2Fi%2F10000024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ryouhin-monogatari/cabinet/renewal2025/thumbnail_sheet2/petsheets-small_main.jpg?_ex=128x128"
   - rank: 5
-    name: "ペットシーツ 薄型 ダブルワイド 200枚 大容量"
-    brand: "ペットシーツ"
-    price: 2981
-    capacity: "200枚"
-    pricePerUnit: "約15円/枚"
-    rating: 4.57
-    reviewCount: 861
-    features:
-      - "スーパーワイド・ダブルワイド系のペットシーツ"
-      - "大型犬や多頭飼いのトイレまわりに使いやすい"
-      - "薄型・厚型など交換頻度に合わせて選べる"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F1009566%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10004882%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/11076425/11076426/314395.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwannyan%2F1314395.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-21"
-        price: 9980
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wannyan_1314395"
-        available: true
-        rating: 4.64
-        reviewCount: 333
-  - rank: 6
     name: "ペットシーツ スーパーワイド 2ケース"
     brand: "ペットスタジオ"
     price: 9380
@@ -155,13 +122,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwannyan%2Fm7140533.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-07-29"
         price: 5900
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wannyan_m7140533"
         available: true
         rating: 4.8
         reviewCount: 5
-  - rank: 7
+  - rank: 6
     name: "薄型ペットシーツ スーパーワイド"
     brand: "小林薬品"
     price: 4680
@@ -183,7 +150,7 @@ products:
     recommendedFor: "薄型でコスパよく使いたい、収納スペースを節約したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uc4en.3rdw6816.g00uc4en.3rdw70ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobayashiyakuhin%2Fko337ko338ko339_pet_sheet%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkobayashiyakuhin%2Fi%2F10000093%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kobayashiyakuhin/cabinet/ko337ko338ko339/09956961/00.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "コスパがいいペットシーツ スーパーワイド"
     brand: "charm"
     price: 5280
@@ -216,7 +183,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 9
+  - rank: 8
     name: "アライブ 厚型ペットシート 猛吸くん スーパーワイド"
     brand: "アライブ"
     price: 4990
@@ -243,12 +210,45 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frocky%2Far603011.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-07-29"
         price: 17090
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rocky_ar603011"
         available: true
         rating: 0
         reviewCount: 0
+  - rank: 9
+    name: "ペットシーツ 薄型 ダブルワイド 200枚 大容量"
+    brand: "ペットシーツ"
+    price: 9980
+    capacity: "200枚"
+    pricePerUnit: "約50円/枚"
+    rating: 4.24
+    reviewCount: 33
+    features:
+      - "スーパーワイド・ダブルワイド系のペットシーツ"
+      - "大型犬や多頭飼いのトイレまわりに使いやすい"
+      - "薄型・厚型など交換頻度に合わせて選べる"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzr6n.3rdw64d5.g00qzr6n.3rdw7160/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogland%2F1009566%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogland%2Fi%2F10018672%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogland/cabinet/wh3/1314395.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwannyan%2F1314395.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-21"
+        price: 9980
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wannyan_1314395"
+        available: true
+        rating: 4.64
+        reviewCount: 333
   - rank: 10
     name: "超吸収厚型プレミアムペットシート 猛吸くんPREMIUM"
     brand: "ALIVE"

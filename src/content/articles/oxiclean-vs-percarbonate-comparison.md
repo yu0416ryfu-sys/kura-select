@@ -4,7 +4,7 @@ description: "オキシクリーンと過炭酸ナトリウム（酸素系漂白
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-07-28"
+updatedAt: "2026-07-29"
 draft: false
 products:
   - rank: 1
@@ -12,9 +12,9 @@ products:
     brand: "NICHIGA"
     price: 1130
     capacity: "3kg"
-    pricePerUnit: "約377円/kg"
-    rating: 4.77
-    reviewCount: 799
+    pricePerUnit: "約0.38円/g"
+    rating: 4.78
+    reviewCount: 800
     features:
       - "過炭酸ナトリウム100%の大容量パック"
       - "洗濯槽掃除と衣類の漂白を想定した汎用タイプ"
@@ -29,14 +29,25 @@ products:
     recommendedFor: "洗濯槽掃除を習慣にしている方・コスト重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2F10000016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000016%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-hyouhaku-3kg.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann3k.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-29"
+        price: 1130
+        rating: 4.71
+        reviewCount: 243
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann3k"
+        available: true
   - rank: 2
     name: "NICHIGA 酸素系漂白剤 過炭酸ナトリウム 4.5kg"
     brand: "NICHIGA"
     price: 2140
     capacity: "4.5kg"
-    pricePerUnit: "約476円/kg"
+    pricePerUnit: "約0.48円/g"
     rating: 4.84
-    reviewCount: 740
+    reviewCount: 741
     features:
       - "過炭酸ナトリウム100%の特大サイズ"
       - "洗濯槽掃除と浸け置き洗いを想定した容量"
@@ -51,6 +62,17 @@ products:
     recommendedFor: "浸け置き洗いを日常的にする方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2Fkatannsann5k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000294%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-hyouhaku-4500g.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann5k.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-29"
+        price: 1480
+        rating: 4.77
+        reviewCount: 249
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann5k"
+        available: true
   - rank: 3
     name: "NICHIGA 酸素系漂白剤 過炭酸ナトリウム 950g"
     brand: "NICHIGA"
@@ -78,7 +100,7 @@ products:
     brand: "アレスヘルスケア"
     price: 1991
     capacity: "3kg"
-    pricePerUnit: "約664円/kg"
+    pricePerUnit: "約0.66円/g"
     rating: 4.77
     reviewCount: 921
     features:
@@ -102,7 +124,7 @@ products:
     capacity: "900g"
     pricePerUnit: "約0.71円/g"
     rating: 4.83
-    reviewCount: 381
+    reviewCount: 382
     features:
       - "国内製造の過炭酸ナトリウム"
       - "少量から試せる小容量パッケージ"
@@ -122,7 +144,7 @@ products:
     brand: "OxiClean（アメリカ版）"
     price: 4075
     capacity: "5.26kg"
-    pricePerUnit: "約775円/kg"
+    pricePerUnit: "約0.77円/g"
     rating: 4.53
     reviewCount: 183
     features:
@@ -168,7 +190,7 @@ products:
     capacity: "1500g"
     pricePerUnit: "約1.0円/g"
     rating: 4.53
-    reviewCount: 1040
+    reviewCount: 1041
     features:
       - "日本国内向けに販売されている無香料タイプ"
       - "界面活性剤と柔軟成分を配合していない処方"
