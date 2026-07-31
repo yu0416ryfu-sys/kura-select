@@ -873,6 +873,75 @@ export function removeCapacityFromProductName(productName: string, capacity?: st
   return productName;
 }
 
+// "8.8.8.5L" "2.2.7kg" のような小数の連鎖は、容量を name へ多重挿入した破損痕
+const REPEATED_DECIMAL_RE = /\d(?:\.\d+){2,}/;
+
+/**
+ * name 内の容量トークン `embeddedCapacity` の開始位置を、数値の途中に食い込まない
+ * 位置に限って返す。見つからなければ -1。
+ *
+ * 例: "…3.5kg" の中の "5kg" は直前が "." のため対象外（置換すると "3.3.5kg" になる）
+ */
+function findStandaloneCapacityIndex(name: string, capacityToken: string): number {
+  for (let from = 0; from <= name.length - capacityToken.length; ) {
+    const idx = name.indexOf(capacityToken, from);
+    if (idx === -1) return -1;
+    const before = idx > 0 ? name[idx - 1] : '';
+    const after = name[idx + capacityToken.length] ?? '';
+    // 直前が数字・小数点・カンマ → より長い数値表記の一部
+    // 直後が数字 → 数値の途中で切っている
+    if (!/[\d.,]/.test(before) && !/\d/.test(after)) return idx;
+    from = idx + 1;
+  }
+  return -1;
+}
+
+/**
+ * 置換後の name をもう一度解析したとき capacity と同値になるか。
+ * 同値なら次回実行では「name の埋め込み容量 == capacity」で早期スキップされるため、
+ * 何度実行しても name が変化しない（冪等）ことが保証できる。
+ */
+function isIdempotentReplacement(nextName: string, capacity: string): boolean {
+  const extracted = extractCapacityFromItemName(nextName);
+  if (!extracted) return false;
+  if (extracted === capacity) return true;
+  const extractedTotal = extractCapacityTotal(extracted);
+  const capacityTotal = extractCapacityTotal(capacity);
+  return Boolean(
+    extractedTotal &&
+    capacityTotal &&
+    extractedTotal.unit.toLowerCase() === capacityTotal.unit.toLowerCase() &&
+    extractedTotal.total === capacityTotal.total
+  );
+}
+
+/**
+ * name に埋め込まれた容量 `embeddedCapacity` を `capacity` に置き換える。
+ * 安全に置換できない場合は null を返す（呼び出し側は name を変更しない）。
+ *
+ * 「8.5L」に容量を挿し込み続けて「8.8.8.8.8.8.5L」になる多重挿入バグの再発防止として、
+ * 数値境界・破損パターン・冪等性の3点を満たす場合だけ置換を許可する。
+ */
+export function replaceCapacityInProductName(
+  name: string,
+  embeddedCapacity: string,
+  capacity: string
+): string | null {
+  if (!name || !embeddedCapacity || !capacity) return null;
+  if (embeddedCapacity === capacity) return null;
+
+  const idx = findStandaloneCapacityIndex(name, embeddedCapacity);
+  if (idx === -1) return null;
+
+  // indexOf/slice で置換（capacity に $ が含まれる場合の String.replace 誤動作を回避）
+  const nextName = name.slice(0, idx) + capacity + name.slice(idx + embeddedCapacity.length);
+  if (nextName === name) return null;
+  if (REPEATED_DECIMAL_RE.test(nextName) && !REPEATED_DECIMAL_RE.test(name)) return null;
+  if (!isIdempotentReplacement(nextName, capacity)) return null;
+
+  return nextName;
+}
+
 export function removeProductFromFrontmatter(content: string, productName: string): string | null {
   const parsed = parseFrontmatter(content);
   if (!parsed || !Array.isArray(parsed.data.products)) return null;
@@ -928,15 +997,10 @@ export function fixNameCapacityConflicts(
     if (embeddedParsed.unit !== capacityParsed.unit) continue;
     if (embeddedParsed.total === capacityParsed.total) continue;
 
-    // indexOf/slice で置換（capacity に $ が含まれる場合の String.replace 誤動作を回避）
-    const idx = name.indexOf(embeddedCap);
-    if (idx === -1) continue;
-    // 小数の末尾にマッチしている場合はスキップ
-    // 例: extractCapacityFromItemName("3.5kg") が "5kg" を返し、"3.5kg" 内の "5kg" にヒットするケース
-    // 直前が数字またはドットであれば、より長い小数表記の一部と判断してスキップする
-    if (idx > 0 && /[\d.]/.test(name[idx - 1])) continue;
+    const nextName = replaceCapacityInProductName(name, embeddedCap, capacity);
+    if (nextName === null) continue;
 
-    product.name = name.slice(0, idx) + capacity + name.slice(idx + embeddedCap.length);
+    product.name = nextName;
     log.push(`rank ${rank}: name の ${embeddedCap} を ${capacity} に修正`);
     changed = true;
   }

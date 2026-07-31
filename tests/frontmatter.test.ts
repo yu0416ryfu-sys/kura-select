@@ -29,6 +29,7 @@ import {
   syncTitleProductCount,
   updateUpdatedAt,
   fixNameCapacityConflicts,
+  replaceCapacityInProductName,
   extractArticleType,
 } from "../scripts/lib/frontmatter";
 
@@ -1913,6 +1914,116 @@ products:
     expect(result.content).toBe(content);
     // 蓄積バグが起きた場合: name が "3.3.5kg" → "3.3.3.5kg" と悪化する
     expect(result.content).not.toContain("3.3.5kg");
+  });
+
+  // 2026-07-31 の送客導線点検で見つかった破損商品名の再発防止
+  // fabric-softener: "…アロマフローラル 8.8.8.8.8.8.5L" / cat-food: "…カンガルー 2.2.2.7kg"
+  it("小数容量の name に容量を再注入せず、繰り返し実行しても name が増殖しない", () => {
+    // 破損の起点となった状態: name に "8.5L"、capacity は単位だけ揃った "5L"
+    const content = CONFLICT_SAMPLE
+      .replace('"ビオレ 素肌つるるんクレンジングウォーター 300mL"', '"メキシコダウニー アロマフローラル 8.5L"')
+      .replace('capacity: "290mL"', 'capacity: "5L"');
+
+    let current = content;
+    for (let i = 0; i < 6; i++) {
+      current = fixNameCapacityConflicts(current).content;
+    }
+
+    // capacity 側の値に一度そろえたあとは何度実行しても変化しない
+    expect(current).toContain('"メキシコダウニー アロマフローラル 5L"');
+    expect(current).not.toMatch(/\d(?:\.\d+){2,}/);
+    expect(fixNameCapacityConflicts(current).changed).toBe(false);
+  });
+
+  it("capacity に小数容量が入っても name の小数末尾へ二重挿入しない", () => {
+    // name "…5L" + capacity "8.5L" → "…8.5L"（正しい修正）で止まり、
+    // その後 "8.8.5L" → "8.8.8.5L" と伸び続けないこと
+    const content = CONFLICT_SAMPLE
+      .replace('"ビオレ 素肌つるるんクレンジングウォーター 300mL"', '"メキシコダウニー アロマフローラル 5L"')
+      .replace('capacity: "290mL"', 'capacity: "8.5L"');
+
+    let current = content;
+    for (let i = 0; i < 6; i++) {
+      current = fixNameCapacityConflicts(current).content;
+    }
+
+    expect(current).toContain('"メキシコダウニー アロマフローラル 8.5L"');
+    expect(current).not.toContain("8.8.5L");
+    expect(fixNameCapacityConflicts(current).changed).toBe(false);
+  });
+
+  it("kg の小数容量でも繰り返し挿入しない（cat-food の破損再現）", () => {
+    const content = CONFLICT_SAMPLE
+      .replace('"ビオレ 素肌つるるんクレンジングウォーター 300mL"', '"キアオラ キャットフード カンガルー 7kg"')
+      .replace('capacity: "290mL"', 'capacity: "2.7kg"');
+
+    let current = content;
+    for (let i = 0; i < 4; i++) {
+      current = fixNameCapacityConflicts(current).content;
+    }
+
+    expect(current).toContain('"キアオラ キャットフード カンガルー 2.7kg"');
+    expect(current).not.toContain("2.2.7kg");
+    expect(current).not.toContain("2.2.2.7kg");
+  });
+
+  it("すでに破損している name（8.8.8.8.8.8.5L）をさらに悪化させない", () => {
+    const content = CONFLICT_SAMPLE
+      .replace('"ビオレ 素肌つるるんクレンジングウォーター 300mL"', '"メキシコダウニー アロマフローラル 8.8.8.8.8.8.5L"')
+      .replace('capacity: "290mL"', 'capacity: "8.5L"');
+
+    const result = fixNameCapacityConflicts(content);
+
+    expect(result.changed).toBe(false);
+    expect(result.content).toBe(content);
+  });
+
+  it("修正が発生する場合でも2回目の実行では変化しない（冪等）", () => {
+    const first = fixNameCapacityConflicts(CONFLICT_SAMPLE);
+    expect(first.changed).toBe(true);
+
+    const second = fixNameCapacityConflicts(first.content);
+    expect(second.changed).toBe(false);
+    expect(second.content).toBe(first.content);
+  });
+});
+
+describe("replaceCapacityInProductName", () => {
+  it("数値の境界が揃っていれば容量を置換する", () => {
+    expect(
+      replaceCapacityInProductName("ビオレ クレンジングウォーター 300mL", "300mL", "290mL")
+    ).toBe("ビオレ クレンジングウォーター 290mL");
+  });
+
+  it("小数の末尾に一致する容量トークンには注入しない", () => {
+    // "8.5L" 内の "5L" を "8.5L" に置換すると "8.8.5L" になる（多重挿入の起点）
+    expect(
+      replaceCapacityInProductName("メキシコダウニー アロマフローラル 8.5L", "5L", "8.5L")
+    ).toBeNull();
+    expect(
+      replaceCapacityInProductName("キアオラ キャットフード カンガルー 2.7kg", "7kg", "2.7kg")
+    ).toBeNull();
+  });
+
+  it("数値の途中で切れる位置には注入しない", () => {
+    // "120個" の後半 "20個" を置換すると "1" + "24個" = "124個" になってしまう
+    expect(replaceCapacityInProductName("商品 120個入", "20個", "24個")).toBeNull();
+  });
+
+  it("置換結果は capacity と同値に解析できる（冪等性の担保）", () => {
+    const replaced = replaceCapacityInProductName("商品A 300mL ローション", "300mL", "290mL");
+    expect(replaced).toBe("商品A 290mL ローション");
+    expect(extractCapacityFromItemName(replaced!)).toBe("290mL");
+    // 2回目は embeddedCapacity === capacity となり置換対象にならない
+    expect(replaceCapacityInProductName(replaced!, "290mL", "290mL")).toBeNull();
+  });
+
+  it("embeddedCapacity と capacity が同じ場合は null を返す", () => {
+    expect(replaceCapacityInProductName("商品 300mL", "300mL", "300mL")).toBeNull();
+  });
+
+  it("name に容量トークンが存在しない場合は null を返す", () => {
+    expect(replaceCapacityInProductName("商品 ラージサイズ", "300mL", "290mL")).toBeNull();
   });
 });
 

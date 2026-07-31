@@ -245,6 +245,21 @@ rg '"articleFile":"{確認したarticleFile}"' data/rag/capacity-patterns.jsonl
 - `pros`: 日常シーンでの便利さ、選びやすいユーザー像、他候補と比べた実用面の良さ
 - `cons`: 好みが分かれる点、向かない使い方、購入前に確認したい点
 
+### `rakutenUrl` 重複チェック（必須）
+
+追加する `rakutenUrl` が既存 `products[]` と同一商品を指していないか、追記前に必ず確認する。
+
+比較は URL 文字列そのままではなく `item.rakuten.co.jp/{shopCode}/{itemCode}` 部分で行う。既存商品は
+アフィリエイトURL（`hb.afl.rakuten.co.jp/...?pc=...`）、追加候補は直リンクURLで表記が異なるため、
+文字列一致では重複を見逃す。
+
+```bash
+rg -o 'item\.rakuten\.co\.jp(%2F|/)[^/&"%]+(%2F|/)[^/&"%]+' src/content/articles/{slug}-comparison.md
+```
+
+同一 `shopCode`/`itemCode` の商品がすでにある場合はその候補を追加しない（同じ商品ページへ2枠を割く形になり、
+比較表と送客導線が壊れる）。除外した候補はユーザーへ報告する。
+
 ---
 
 ## Step 6: `title` / `description` / `updatedAt` の更新

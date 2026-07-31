@@ -22,6 +22,7 @@ import { spawnSync } from 'child_process';
 import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 import { applyAiCapacityToContent, buildProcessedAiCapacityFrozenProduct, buildCapacityReviewInputItem, computePendingFinalization, isSameRakutenItemUrl, parseJsonlPreservingRaw } from './lib/ai-capacity.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
+import { parseRakutenItemUrl, toDirectItemUrl, toRakutenUrlKey, collectOtherProductUrlKeys, findDuplicateUrlProduct, findDuplicateUrlGroups, selectNonDuplicateItem } from './lib/rakuten-url.ts';
 import { stripCapacityForKeyword, buildProductMatchSearchKeywords, createCandidateSelector } from './lib/product-match-keywords.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
@@ -1042,34 +1043,6 @@ async function rateLimitedFetch(url, options) {
 }
 
 /**
- * 楽天アフィリエイトURL または item.rakuten.co.jp 直接URL から
- * { shopCode, itemCode } を抽出する
- */
-function parseRakutenItemUrl(url) {
-  if (!url || typeof url !== 'string') return null;
-  try {
-    const parsed = new URL(url);
-    if (parsed.hostname === 'hb.afl.rakuten.co.jp') {
-      const pc = parsed.searchParams.get('pc');
-      if (!pc) return null;
-      const inner = new URL(decodeURIComponent(pc));
-      if (inner.hostname !== 'item.rakuten.co.jp') return null;
-      const m = inner.pathname.match(/^\/([^/]+)\/([^/]+)\/?$/);
-      if (!m) return null;
-      return { shopCode: m[1], itemCode: m[2] };
-    }
-    if (parsed.hostname === 'item.rakuten.co.jp') {
-      const m = parsed.pathname.match(/^\/([^/]+)\/([^/]+)\/?$/);
-      if (!m) return null;
-      return { shopCode: m[1], itemCode: m[2] };
-    }
-    return null;
-  } catch {
-    return null;
-  }
-}
-
-/**
  * shopCode でショップを絞り込んだ Search API 結果から itemCode が一致する商品を返す
  * 商品が見つからない（廃番・商品名変更で未ヒット）場合は null → キーワード検索へフォールバック
  */
@@ -1252,7 +1225,12 @@ async function fetchRakutenItemFallback(shopCode, itemCode, productName) {
   return null;
 }
 
-async function fetchRakutenSearch(keyword) {
+/**
+ * 商品名キーワードで検索して1件に確定する。
+ * `excludeUrlKeys` に同一記事内の他商品の楽天商品キーを渡すと、
+ * 同じ商品を2件登録してしまう重複ヒットを候補から除外する。
+ */
+async function fetchRakutenSearch(keyword, { excludeUrlKeys = new Set() } = {}) {
   const searchKeyword = buildSearchKeyword(keyword);
 
   const params = new URLSearchParams({
@@ -1323,8 +1301,13 @@ async function fetchRakutenSearch(keyword) {
     throw new Error('通常商品が見つかりません（ふるさと納税のみ）');
   }
 
-  // フィルタ後の1件目を使用
-  const item = filtered[0];
+  // 同一記事内の他商品と同じ楽天商品を指す候補を除いた1件目を使用
+  const selection = selectNonDuplicateItem(filtered, excludeUrlKeys);
+  if (!selection.item) {
+    // 「0件」を含む文言は検索0件エラー（商品自動削除の判定）と誤認されるため使わない
+    throw new Error('検索結果がすべて同一記事内の既存商品と同一商品のため更新をスキップ（rakutenUrl重複の防止）');
+  }
+  const item = selection.item;
 
   // 画像URLを取得（128px角のサムネイル）
   const imageUrl = item.mediumImageUrls?.[0] ?? null;
@@ -2576,10 +2559,17 @@ async function checkAdditions() {
       console.log(`   🧹 直近${RECENT_DELETED_DAYS}日以内の削除履歴: ${recentDeletedProducts.length}件`);
     }
 
-    // 既存商品のURLセット（重複除外用）
-    const existingUrls = new Set(
-      products.map(p => toDirectItemUrl(p.rakutenUrl)).filter(Boolean)
+    // 既存商品のURLセット（重複除外用）。shopCode/itemCode の大文字小文字ゆれを吸収するため
+    // 正規化キーで比較する
+    const existingUrlKeys = new Set(
+      products.map(p => toRakutenUrlKey(p.rakutenUrl)).filter(Boolean)
     );
+
+    const duplicateGroups = findDuplicateUrlGroups(products);
+    for (const group of duplicateGroups) {
+      const label = group.products.map(p => `rank ${p.rank}`).join(' / ');
+      console.log(`   ⚠ 既存商品に rakutenUrl 重複: ${label}（${group.key}）`);
+    }
 
     try {
       const candidates = [];
@@ -2593,8 +2583,8 @@ async function checkAdditions() {
           continue;
         }
         for (const item of fetched) {
-          const url = toDirectItemUrl(item.itemUrl) ?? toDirectItemUrl(item.affiliateUrl);
-          const dedupeKey = url ?? normalizeProductIdentity(item.name);
+          const urlKey = toRakutenUrlKey(item.itemUrl) ?? toRakutenUrlKey(item.affiliateUrl);
+          const dedupeKey = urlKey ?? normalizeProductIdentity(item.name);
           if (!dedupeKey || seenCandidateUrls.has(dedupeKey)) continue;
           seenCandidateUrls.add(dedupeKey);
           candidates.push({ ...item, sourceKeyword: keyword });
@@ -2646,7 +2636,8 @@ async function checkAdditions() {
           recordExcluded('URL取得不可', c);
           continue;
         }
-        if (existingUrls.has(directUrl)) {
+        const candidateUrlKey = toRakutenUrlKey(c.itemUrl) ?? toRakutenUrlKey(c.affiliateUrl);
+        if (candidateUrlKey && existingUrlKeys.has(candidateUrlKey)) {
           stats.duplicate++;
           recordExcluded('既存URL重複', c, { directUrl });
           continue;
@@ -2848,22 +2839,6 @@ async function checkAdditions() {
 }
 
 // ─── 入れ替え候補レポート ───────────────────────────────────────────────────
-/**
- * affiliateUrl / item.rakuten.co.jp URL を正規化して
- * https://item.rakuten.co.jp/{shopCode}/{itemCode}/ 形式で返す
- */
-function toDirectItemUrl(url) {
-  if (!url) return null;
-  const parsed = parseRakutenItemUrl(url);
-  if (parsed) return `https://item.rakuten.co.jp/${parsed.shopCode}/${parsed.itemCode}/`;
-  // すでに item.rakuten.co.jp 形式ならそのまま
-  try {
-    const u = new URL(url);
-    if (u.hostname === 'item.rakuten.co.jp') return url;
-  } catch { /* ignore */ }
-  return null;
-}
-
 async function checkReplacements() {
   const articlesDir = resolve(process.cwd(), 'src/content/articles');
   const files = readdirSync(articlesDir)
@@ -3088,6 +3063,10 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
       const parsed = parseRakutenItemUrl(existingUrl);
       existingItemRef = parsed;
 
+      // 同一記事内の他商品が使っている楽天商品（重複登録の防止用）
+      const articleProducts = extractAllProductsData(updatedContent);
+      const otherProductUrlKeys = collectOtherProductUrlKeys(articleProducts, { name });
+
       if (parsed) {
         const itemData = await fetchRakutenItem(parsed.shopCode, parsed.itemCode, name);
         if (itemData) {
@@ -3105,10 +3084,24 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
 
       // ── Step 2: フォールバック（キーワード検索） ──────────────────
       if (!data) {
-        data = await fetchRakutenSearch(name);
+        data = await fetchRakutenSearch(name, { excludeUrlKeys: otherProductUrlKeys });
       }
 
       log(`   [${shortName}...] ${method}`);
+
+      // ── 重複ガード: 取得結果が同一記事内の他商品と同じ楽天商品なら URL を書き換えない ──
+      const fetchedUrlKey = toRakutenUrlKey(data.affiliateUrl) ?? toRakutenUrlKey(data.itemUrl);
+      if (fetchedUrlKey && otherProductUrlKeys.has(fetchedUrlKey)) {
+        const duplicated = findDuplicateUrlProduct(articleProducts, data.affiliateUrl ?? data.itemUrl, { name });
+        const duplicatedLabel = duplicated ? `rank ${duplicated.rank}「${duplicated.name}」` : '既存商品';
+        if (toRakutenUrlKey(existingUrl) === fetchedUrlKey) {
+          // すでに記事内で同一URLが重複している状態（手作業追加などが原因）
+          log(`   ⚠ rakutenUrl が ${duplicatedLabel} と重複しています。どちらかの商品を差し替えてください`);
+        } else {
+          throw new Error(`取得した商品が ${duplicatedLabel} と同一のため更新をスキップ（rakutenUrl重複の防止）`);
+        }
+      }
+
       const beforeSnapshot = extractProductSnapshot(updatedContent, name);
       const aiCapacityFrozen = isAiCapacityFrozen(aiCapacityFrozenProducts, {
         file,
@@ -3515,6 +3508,12 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
     if (titleCountResult.descBefore !== titleCountResult.descAfter) {
       log(`   📝 description商品数: "${titleCountResult.descBefore}" -> "${titleCountResult.descAfter}"`);
     }
+  }
+
+  // 記事内に同一楽天商品を指す商品が残っていないか点検（手作業追加分の検知用。データは変更しない）
+  for (const group of findDuplicateUrlGroups(extractAllProductsData(updatedContent))) {
+    const label = group.products.map(p => `rank ${p.rank}「${p.name}」`).join(' / ');
+    log(`   ⚠ rakutenUrl 重複: ${label}（${group.key}）`);
   }
 
   // 機能4: name に埋め込まれた容量と capacity フィールドの食い違いを修正
