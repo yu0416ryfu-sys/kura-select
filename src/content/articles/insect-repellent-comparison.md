@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-07-30"
 draft: false
 products:
   - rank: 1
@@ -217,7 +217,7 @@ products:
     capacity: "100ml"
     pricePerUnit: "約14円/ml"
     rating: 4.53
-    reviewCount: 1551
+    reviewCount: 1552
     features:
       - "ディート不使用・天然成分配合の赤ちゃんから使える虫よけスプレー"
       - "1本・3本・10本セットから選べる購入方法"

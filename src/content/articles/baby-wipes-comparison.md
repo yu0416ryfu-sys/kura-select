@@ -4,7 +4,7 @@ description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-07-30"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.78
-    reviewCount: 7798
+    reviewCount: 7804
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -113,11 +113,11 @@ products:
   - rank: 4
     name: "レック 水99.9％ 手口ふき おしりふき 80枚×15個"
     brand: "レック"
-    price: 2180
+    price: 2390
     capacity: "80枚×15個（1200枚）"
-    pricePerUnit: "約1.8円/枚"
+    pricePerUnit: "約2.0円/枚"
     rating: 4.69
-    reviewCount: 4665
+    reviewCount: 4666
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -175,105 +175,6 @@ products:
         matchStatus: "pending"
         updatedAt: "2026-05-21"
   - rank: 6
-    name: "おしりふき 厚手 水99.9% ネット限定デザイン"
-    brand: "レック"
-    price: 2100
-    capacity: "60枚×15個"
-    pricePerUnit: "約2.3円/枚"
-    rating: 4.84
-    reviewCount: 2697
-    features:
-      - "99.9%の純水成分で肌に優しい"
-      - "厚手シートで吸収性が優れている"
-      - "日本製で品質管理が厳格"
-    pros:
-      - "ネット限定デザインでかわいい"
-      - "水分たっぷりで１枚でしっかり拭ける"
-      - "大容量パックで送料無料"
-    cons:
-      - "ネット限定デザインで汎用性が限定的"
-      - "配送に時間がかかる場合がある"
-    recommendedFor: "ネット限定商品を好む方、大容量ながら肌への優しさを求める家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2F4560319046015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10002059%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00655.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanamaru1%2Fq267qcvncv70b.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-28"
-        price: 2431
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanamaru1_q267qcvncv70b"
-        available: true
-        rating: 0
-        reviewCount: 0
-  - rank: 7
-    name: "おしりふき 厚手 菌99.9除去"
-    brand: "レック"
-    price: 1920
-    capacity: "54枚×15個"
-    pricePerUnit: "約2.4円/枚"
-    rating: 4.62
-    reviewCount: 3850
-    features:
-      - "菌を99.9%除去する除菌処理"
-      - "厚手タイプで吸収性が高い"
-      - "水分たっぷりで拭き心地が良い"
-    pros:
-      - "除菌効果で衛生面が安心"
-      - "大容量パックで経済的"
-      - "送料無料で購入しやすい"
-    cons:
-      - "パッケージが大きく置き場所が必要"
-      - "除菌成分が人によっては刺激になる可能性"
-    recommendedFor: "衛生面を重視する方、大容量パックを求める家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2Fe170_999atsu15p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10001750%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00975.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 1920
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe170.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e170"
-        available: true
-        matchStatus: "matched"
-        updatedAt: "2026-07-28"
-        rating: 4.7
-        reviewCount: 963
-  - rank: 8
-    name: "おしり拭き 流せる シート 菌99.9除去"
-    brand: "レック"
-    price: 2120
-    capacity: "60枚×15個"
-    pricePerUnit: "約2.4円/枚"
-    rating: 4.42
-    reviewCount: 1650
-    features:
-      - "トイレに流せる素材で処理が簡単"
-      - "菌を99.9%除去する除菌効果"
-      - "肌にやさしい成分配合"
-    pros:
-      - "使用済みをそのままトイレに流せる"
-      - "ゴミ処理の手間を削減"
-      - "大容量パックで送料無料"
-    cons:
-      - "流せる素材のため単価がやや高い"
-      - "トイレの詰まりに注意が必要"
-    recommendedFor: "処理の手軽さを優先する方、ゴミ削減を重視する家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2Fe241_999naga15p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10001751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00975-2.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 2120
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe241.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
-        available: true
-        matchStatus: "pending"
-        updatedAt: "2026-07-28"
-        rating: 4.61
-        reviewCount: 1033
-  - rank: 9
     name: "おしり拭き 流せる シート 純水99.9% W保湿成分配合"
     brand: "Lec.Be"
     price: 2120
@@ -306,6 +207,105 @@ products:
         reviewCount: 1033
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
+  - rank: 7
+    name: "おしりふき 厚手 菌99.9除去"
+    brand: "レック"
+    price: 2110
+    capacity: "54枚×15個"
+    pricePerUnit: "約2.6円/枚"
+    rating: 4.62
+    reviewCount: 3852
+    features:
+      - "菌を99.9%除去する除菌処理"
+      - "厚手タイプで吸収性が高い"
+      - "水分たっぷりで拭き心地が良い"
+    pros:
+      - "除菌効果で衛生面が安心"
+      - "大容量パックで経済的"
+      - "送料無料で購入しやすい"
+    cons:
+      - "パッケージが大きく置き場所が必要"
+      - "除菌成分が人によっては刺激になる可能性"
+    recommendedFor: "衛生面を重視する方、大容量パックを求める家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2Fe170_999atsu15p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10001750%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00975.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 1920
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe170.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e170"
+        available: true
+        matchStatus: "matched"
+        updatedAt: "2026-07-28"
+        rating: 4.7
+        reviewCount: 963
+  - rank: 8
+    name: "おしりふき 厚手 水99.9% ネット限定デザイン"
+    brand: "レック"
+    price: 2310
+    capacity: "60枚×15個"
+    pricePerUnit: "約2.6円/枚"
+    rating: 4.84
+    reviewCount: 2697
+    features:
+      - "99.9%の純水成分で肌に優しい"
+      - "厚手シートで吸収性が優れている"
+      - "日本製で品質管理が厳格"
+    pros:
+      - "ネット限定デザインでかわいい"
+      - "水分たっぷりで１枚でしっかり拭ける"
+      - "大容量パックで送料無料"
+    cons:
+      - "ネット限定デザインで汎用性が限定的"
+      - "配送に時間がかかる場合がある"
+    recommendedFor: "ネット限定商品を好む方、大容量ながら肌への優しさを求める家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2F4560319046015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10002059%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00655.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanamaru1%2Fq267qcvncv70b.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-28"
+        price: 2431
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanamaru1_q267qcvncv70b"
+        available: true
+        rating: 0
+        reviewCount: 0
+  - rank: 9
+    name: "おしり拭き 流せる シート 菌99.9除去"
+    brand: "レック"
+    price: 2330
+    capacity: "60枚×15個"
+    pricePerUnit: "約2.6円/枚"
+    rating: 4.42
+    reviewCount: 1650
+    features:
+      - "トイレに流せる素材で処理が簡単"
+      - "菌を99.9%除去する除菌効果"
+      - "肌にやさしい成分配合"
+    pros:
+      - "使用済みをそのままトイレに流せる"
+      - "ゴミ処理の手間を削減"
+      - "大容量パックで送料無料"
+    cons:
+      - "流せる素材のため単価がやや高い"
+      - "トイレの詰まりに注意が必要"
+    recommendedFor: "処理の手軽さを優先する方、ゴミ削減を重視する家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2Fe241_999naga15p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10001751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00975-2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 2120
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe241.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
+        available: true
+        matchStatus: "pending"
+        updatedAt: "2026-07-29"
+        rating: 4.61
+        reviewCount: 1033
   - rank: 10
     name: "パンパース 肌へのいちばん おしりふき 56枚×12個"
     brand: "P&G（パンパース）"

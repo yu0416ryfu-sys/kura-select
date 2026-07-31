@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌触りとコス
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-07-30"
 draft: false
 products:
   - rank: 1
@@ -65,9 +65,9 @@ products:
   - rank: 3
     name: "ネピア 鼻セレブ 潤いつづく濃厚保湿ティッシュ 200組×3個"
     brand: "王子ネピア（鼻セレブ）"
-    price: 1006
+    price: 1087
     capacity: "400枚（200組）×3個"
-    pricePerUnit: "約1.7円/組"
+    pricePerUnit: "約1.8円/組"
     rating: 4.58
     reviewCount: 72
     features:
@@ -87,9 +87,9 @@ products:
   - rank: 4
     name: "ネピア 鼻セレブ 濃厚保湿ティッシュ アンパンマン"
     brand: "ネピア（nepia）"
-    price: 986
+    price: 1114
     capacity: "1080枚"
-    pricePerUnit: "約1.8円/組"
+    pricePerUnit: "約2.1円/組"
     rating: 4.79
     reviewCount: 33
     features:

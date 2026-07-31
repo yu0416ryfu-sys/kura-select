@@ -54,8 +54,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdusdus%2Fdssmn6.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-22"
+        matchStatus: "matched"
+        updatedAt: "2026-07-30"
         price: 1200
         rating: 4.88
         reviewCount: 500
