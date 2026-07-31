@@ -1,5 +1,5 @@
 ---
-title: "お風呂防カビ剤 コスパ比較【2026年版】くん煙タイプ10選"
+title: "お風呂防カビ剤 コスパ比較【2026年版】くん煙タイプ9選"
 description: "お風呂防カビ剤を1回あたりのコストで比較。くん煙タイプや無香性タイプなど、浴室の定期ケアに使いやすい商品を選びます。"
 category: "bath-mold-preventer"
 publishedAt: "2026-06-03"
@@ -107,39 +107,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903301187240"
         available: true
   - rank: 4
-    name: "ルックプラス おふろの防カビくん煙剤 フローラルの香り 3個入"
-    brand: "ライオン（ルックプラス）"
-    price: 1580
-    capacity: "3個"
-    pricePerUnit: "約527円/個"
-    rating: 4.67
-    reviewCount: 12
-    features:
-      - "浴室用の防カビくん煙タイプ"
-      - "複数個パック"
-      - "定期ケア向けの商品"
-    pros:
-      - "浴室全体をまとめてケアしやすい"
-      - "香りやパック数で選びやすい"
-      - "ストック用として比較しやすい"
-    cons:
-      - "黒カビ落とし目的の商品ではない"
-      - "使用前に手順と換気方法を確認する必要がある"
-    recommendedFor: "浴室の定期防カビケアを続けたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4903301187240%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10056957%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/54/4903301187240.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903301187240.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-27"
-        price: 1581
-        rating: 4.38
-        reviewCount: 29
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903301187240"
-        available: true
-  - rank: 5
     name: "ルック おふろの防カビくん煙剤 30個パック まとめ買い"
     brand: "ライオン（ルック）"
     price: 17500
@@ -161,7 +128,7 @@ products:
     recommendedFor: "浴室の定期防カビケアを続けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fhouse-cleaner25%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10000843%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item_r/1/house-cleaner25-a1.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 5
     name: "ルックプラス おふろの防カビくん煙剤 せっけんの香り"
     brand: "ライオン（ルックプラス）"
     price: 1936
@@ -194,7 +161,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10092851"
         available: true
-  - rank: 7
+  - rank: 6
     name: "ルックプラス おふろの防カビくん煙剤"
     brand: "ライオン（ルックプラス）"
     price: 1936
@@ -227,7 +194,7 @@ products:
         reviewCount: 29
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903301187240"
         available: true
-  - rank: 8
+  - rank: 7
     name: "ルックプラス おふろの防カビくん煙剤 フローラルの香り まとめ買い"
     brand: "ライオン（ルックプラス）"
     price: 3980
@@ -260,7 +227,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/furusatochoice_6547919"
         available: true
-  - rank: 9
+  - rank: 8
     name: "ルックプラス おふろの防カビくん煙剤 消臭ミントの香り"
     brand: "ライオン（ルックプラス）"
     price: 3980
@@ -293,7 +260,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/furusatochoice_6547921"
         available: true
-  - rank: 10
+  - rank: 9
     name: "おふろの防カビくん煙剤 フローラルの香り 単品"
     brand: "ライオン（ルックプラス）"
     price: 752

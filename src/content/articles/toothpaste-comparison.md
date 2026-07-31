@@ -1,6 +1,6 @@
 ---
 title: "歯磨き粉 おすすめランキング【2026年版】虫歯予防・ホワイトニング・歯周病ケア"
-description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較。虫歯予防・ホワイトニング・歯周病ケア・知覚過敏のおすすめ10選を紹介。目的に合った歯磨き粉が楽天で見つかります。"
+description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較。虫歯予防・ホワイトニング・歯周病ケア・知覚過敏のおすすめ9選を紹介。目的に合った歯磨き粉が楽天で見つかります。"
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
@@ -62,39 +62,6 @@ products:
         rating: 4.31
         reviewCount: 1059
   - rank: 3
-    name: "キラルンペースト"
-    brand: "RUKEN"
-    price: 1298
-    capacity: "100g"
-    pricePerUnit: "約13円/g"
-    rating: 4.3
-    reviewCount: 10980
-    features:
-      - "毎日の歯みがきに使える歯磨き粉"
-      - "ホワイトニングや口臭ケア系も選べる"
-      - "容量で比較しやすい"
-    pros:
-      - "日常ケアに取り入れやすい"
-      - "目的別に選べる"
-      - "ストックしやすい"
-    cons:
-      - "成分や使用感の好みは分かれる"
-      - "医薬部外品表記の確認が必要"
-    recommendedFor: "歯磨き粉を目的と容量で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/paste_ok_08.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F007.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-29"
-        price: 1298
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_007"
-        available: true
-        rating: 4.31
-        reviewCount: 1059
-  - rank: 4
     name: "キラルン 2点ミニセット パウダー5g＋ペースト15g"
     brand: "RUKEN"
     price: 328
@@ -116,7 +83,7 @@ products:
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothsmple%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/toothpsnew.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 4
     name: "WHITH WHITE 薬用歯磨き"
     brand: "WHITH WHITE"
     price: 2580
@@ -138,7 +105,7 @@ products:
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b07qzwqjrm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/whith/top/00/906b07qzwqjrm.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 5
     name: "キラルンパウダー"
     brand: "RUKEN"
     price: 1254
@@ -171,7 +138,7 @@ products:
         available: true
         rating: 4.24
         reviewCount: 254
-  - rank: 7
+  - rank: 6
     name: "アパガードリナメル"
     brand: "アパガード"
     price: 2870
@@ -204,7 +171,7 @@ products:
         available: true
         rating: 4.51
         reviewCount: 1084
-  - rank: 8
+  - rank: 7
     name: "薬用しろえ 歯磨きジェル"
     brand: "しろえ"
     price: 2200
@@ -226,7 +193,7 @@ products:
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rx8qn.3rdw6a27.g00rx8qn.3rdw73bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshizenshop%2Fshiroewhitening%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshizenshop%2Fi%2F10000095%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shizenshop/cabinet/04836660/shiroe_260525.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "歯ブラシ まとめ買い 大人 おとな用歯ブラシアソート"
     brand: "サンギ（アパガード）"
     price: 1480
@@ -248,7 +215,7 @@ products:
     recommendedFor: "ホワイトニング・着色汚れを落としたい方・歯の白さにこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F36667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10004851%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/07319599/36667.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "しろえ ホワイトニングパウダー"
     brand: "しろえ"
     price: 1798

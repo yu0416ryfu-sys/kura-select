@@ -1,6 +1,6 @@
 ---
-title: "柔軟剤 コスパ最強ランキング【2026年版】おすすめ10選｜大容量・部屋干し比較"
-description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香り・敏感肌向けの人気10選をコスパ最強ランキングで紹介。部屋干し臭が気になる方・赤ちゃんのいる家庭にもおすすめです。"
+title: "柔軟剤 コスパ最強ランキング【2026年版】おすすめ8選｜大容量・部屋干し比較"
+description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香り・敏感肌向けの人気8選をコスパ最強ランキングで紹介。部屋干し臭が気になる方・赤ちゃんのいる家庭にもおすすめです。"
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
@@ -40,29 +40,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/takuhaibin_i9414891"
         available: true
   - rank: 2
-    name: "メキシコダウニー アロマフローラル 8.5L×2本"
-    brand: "Downy"
-    price: 9000
-    capacity: "8.5L×2本（17L）"
-    pricePerUnit: "約0.53円/mL"
-    rating: 4.6
-    reviewCount: 5
-    features:
-      - "洗濯時に使う柔軟仕上げ剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "香りや仕上がりの好みに合わせやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "香りの強さは好みが分かれやすい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "香りや仕上がりの好みに合わせやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t9zhn.3rdw6489.g00t9zhn.3rdw7b74/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarusanstore%2F301917-2a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarusanstore%2Fi%2F10000525%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marusanstore/cabinet/conveniencegoods/301917/301917-2r.jpg?_ex=128x128"
-  - rank: 3
-    name: "メキシコダウニー アロマフローラル 8.8.8.8.8.8.5L"
+    name: "メキシコダウニー アロマフローラル 8.5L"
     brand: "Downy"
     price: 4800
     capacity: "8.5L"
@@ -94,7 +72,7 @@ products:
         reviewCount: 60
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_9110715"
         available: true
-  - rank: 4
+  - rank: 3
     name: "ライオン ソフラン アロマリッチ 業務用 4L"
     brand: "ライオン（ソフラン）"
     price: 2313
@@ -127,7 +105,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_r6-06046"
         available: true
-  - rank: 5
+  - rank: 4
     name: "ダウニー サンライズフレッシュ 4L×3本セット"
     brand: "Downy"
     price: 6980
@@ -160,7 +138,7 @@ products:
         available: true
         rating: 4.75
         reviewCount: 228
-  - rank: 6
+  - rank: 5
     name: "ランドリン 柔軟剤 グッドティータイム"
     brand: "ランドリン（Laundrin）"
     price: 800
@@ -182,7 +160,7 @@ products:
     recommendedFor: "香りを楽しめる柔軟剤を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2Flaundrin-teatime%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10006940%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08869620/imgrc0118802483.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え"
     brand: "P&G（レノア）"
     price: 3007
@@ -215,40 +193,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 8
-    name: "【シリーズ累計50万本突破】ランドリーボトル 洗濯ボトル 洗剤ボトル ［セット "
-    brand: "P&G（さらさ）"
-    price: 2664
-    capacity: "700mL"
-    pricePerUnit: "約3.8円/mL"
-    rating: 4.43
-    reviewCount: 451
-    features:
-      - "植物由来成分使用の低刺激処方"
-      - "無蛍光剤・無漂白剤・無着色料"
-      - "赤ちゃん衣類にも使える無添加仕様"
-    pros:
-      - "敏感肌・赤ちゃんにやさしい処方"
-      - "ほのかな自然な香りで洗い上がりが清潔感"
-      - "詰め替え用でエコ＆コスト削減"
-    cons:
-      - "香りの主張が弱めなため物足りない方も"
-      - "消臭効果はレノアに比べると控えめ"
-    recommendedFor: "敏感肌・赤ちゃんのいる家庭・低刺激処方を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1osn.3rdw6db5.g00r1osn.3rdw76c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarasa-designstore%2Fset-ls021x3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarasa-designstore%2Fi%2F10002237%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sarasa-designstore/cabinet/c05/set-ls021x3_ver2.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsarasa-designstore%2Fset-ls021x3.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-13"
-        price: 3119
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sarasa-designstore_set-ls021x3"
-        available: true
-        rating: 4.38
-        reviewCount: 40
-  - rank: 9
+  - rank: 7
     name: "マイランドリー 柔軟剤 500mL 5本セット"
     brand: "My Laundry"
     price: 3680
@@ -281,7 +226,7 @@ products:
         reviewCount: 17
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4540936002359"
         available: true
-  - rank: 10
+  - rank: 8
     name: "ダウニー コンフォート お試し柔軟剤 4袋セット"
     brand: "Downy"
     price: 473

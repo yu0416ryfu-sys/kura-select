@@ -1,6 +1,6 @@
 ---
 title: "除菌スプレー コスパ最強ランキング【2026年版】濃度・容量で比較"
-description: "除菌スプレー・アルコールを1mLあたりのコストで徹底比較。パストリーゼ・カビキラー除菌・フマキラーなど人気10選を解説します。"
+description: "除菌スプレー・アルコールを1mLあたりのコストで徹底比較。パストリーゼ・カビキラー除菌・フマキラーなど人気9選を解説します。"
 category: "sanitizing-spray"
 publishedAt: "2026-04-30"
 articleType: "comparison"
@@ -205,39 +205,6 @@ products:
         rating: 4.36
         reviewCount: 25
   - rank: 8
-    name: "ブテナロック 除菌抗菌スプレー"
-    brand: "ブテナロック"
-    price: 1000
-    capacity: "180ml"
-    pricePerUnit: "約5.6円/mL"
-    rating: 4.65
-    reviewCount: 4094
-    features:
-      - "除菌・消臭用途のスプレーまたは液剤"
-      - "靴や室内など用途別に選びやすい"
-      - "詰替やセット品も選べる"
-    pros:
-      - "気になる場所に使いやすい"
-      - "容量違いを選びやすい"
-      - "ストック向き"
-    cons:
-      - "対象素材への使用可否確認が必要"
-      - "成分や濃度の確認が必要"
-    recommendedFor: "除菌スプレーを用途と容量で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00telan.3rdw6aaf.g00telan.3rdw7f40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamitsu%2F4987188317853%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamitsu%2Fi%2F10000030%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hisamitsu/cabinet/4987188317853.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188318706.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-29"
-        price: 1000
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188318706"
-        available: true
-        rating: 4.36
-        reviewCount: 25
-  - rank: 9
     name: "シュシュキッキ 除菌消臭ミスト 携帯サイズ"
     brand: "シュシュキッキ"
     price: 550
@@ -270,7 +237,7 @@ products:
         available: true
         rating: 4.28
         reviewCount: 29
-  - rank: 10
+  - rank: 9
     name: "＆wpaia 除菌消臭スプレーセット"
     brand: "＆wpaia"
     price: 4170

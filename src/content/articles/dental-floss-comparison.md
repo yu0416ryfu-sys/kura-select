@@ -1,6 +1,6 @@
 ---
-title: "デンタルフロス コスパ最強ランキング【2026年版】1回0.25円〜10選比較"
-description: "デンタルフロスを1回あたりのコストで比較したランキング。最安はGUM 550mで0.25円/回（約3年分）。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ10選。"
+title: "デンタルフロス コスパ最強ランキング【2026年版】1回0.25円〜9選比較"
+description: "デンタルフロスを1回あたりのコストで比較したランキング。最安はGUM 550mで0.25円/回（約3年分）。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ9選。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
@@ -241,39 +241,6 @@ products:
         available: false
         matchNotes: "capacity不一致: capacity不一致"
   - rank: 9
-    name: "フロアフロス 250m"
-    brand: "オーラルケア"
-    price: 3210
-    capacity: "250m"
-    pricePerUnit: "約13円/m"
-    rating: 4.76
-    reviewCount: 562
-    features:
-      - "糸巻きタイプのデンタルフロス"
-      - "歯間ケア向けの細い繊維設計"
-      - "携帯や洗面台で使いやすいパッケージ"
-    pros:
-      - "好みの長さに切って使える"
-      - "歯間ブラシが入りにくい部分もケアしやすい"
-      - "家族で使うストック候補になる"
-    cons:
-      - "ホルダー付きタイプが好みの人には手間に感じやすい"
-      - "ワックス感や太さは使用感の好みが分かれる"
-    recommendedFor: "糸巻きフロスを日常的に使いたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F0090023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000766%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/0090023_001.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-25"
-        price: 3278
-        rating: 4.77
-        reviewCount: 349
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
-        available: true
-  - rank: 10
     name: "フロアフロス 45m 2個セット"
     brand: "オーラルケア"
     price: 1595

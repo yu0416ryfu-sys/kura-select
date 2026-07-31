@@ -239,7 +239,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cell-apt_c-2801-800-2"
         available: true
   - rank: 8
-    name: "キアオラ キャットフード カンガルー 2.2.2.7kg"
+    name: "キアオラ キャットフード カンガルー 2.7kg"
     brand: "キアオラ"
     price: 10670
     capacity: "2.7kg"

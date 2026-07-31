@@ -1,6 +1,6 @@
 ---
 title: "キッチン漂白剤 コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気10選を除菌力・コスパ・安全性で解説します。"
+description: "キッチン用漂白剤を1mLあたりのコストで徹底比較。キッチンハイター・キッチンパワーブリーチなど人気9選を除菌力・コスパ・安全性で解説します。"
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
@@ -170,39 +170,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rokusyoudo_2022yr12mt18daywq069ic073s83h3f"
         available: true
   - rank: 6
-    name: "niwaQ キッチン漂白剤 ボトル 300g"
-    brand: "丹羽久"
-    price: 445
-    capacity: "300g"
-    pricePerUnit: "約1.5円/g"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "キッチンまわりに使う漂白剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "台所用品のケアに取り入れやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "素材や使用方法の確認が必要"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "台所用品のケアに取り入れやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sccjn.3rdw63ca.g00sccjn.3rdw709f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffines-f%2F4528931002130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffines-f%2Fi%2F10026578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fines-f/cabinet/06547305/07785924/imgrc0074882627.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frokusyoudo%2F2022yr12mt18daywq069ic073s83h3f.html"
-        matchStatus: "matched"
-        updatedAt: "2026-05-30"
-        price: 727
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rokusyoudo_2022yr12mt18daywq069ic073s83h3f"
-        available: true
-        rating: 0
-        reviewCount: 0
-  - rank: 7
     name: "キッチンハイター 特大 2本セット"
     brand: "花王（ハイター）"
     price: 1719
@@ -235,7 +202,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_508035"
         available: true
-  - rank: 8
+  - rank: 7
     name: "キッチンハイター 特大"
     brand: "花王（ハイター）"
     price: 866
@@ -268,7 +235,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901301008619-73-30002004"
         available: true
-  - rank: 9
+  - rank: 8
     name: "キッチンハイター 大ボトル"
     brand: "花王（ハイター）"
     price: 559
@@ -290,7 +257,7 @@ products:
     recommendedFor: "日常的にキッチン除菌を行う方・コスパと扱いやすさを両立したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000921%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10122674%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/370/4901301019370.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "キッチンハイター 小 600mL"
     brand: "花王（ハイター）"
     price: 240

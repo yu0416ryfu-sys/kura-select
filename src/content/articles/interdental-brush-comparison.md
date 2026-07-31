@@ -1,6 +1,6 @@
 ---
-title: "歯間ブラシ コスパ比較【2026年版】おすすめ10選"
-description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシをサイズ・1本あたり価格で徹底比較。L字型とI字型の違いや選び方も解説。まとめ買いでコスパを上げたい方に最適な10選。"
+title: "歯間ブラシ コスパ比較【2026年版】おすすめ9選"
+description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシをサイズ・1本あたり価格で徹底比較。L字型とI字型の違いや選び方も解説。まとめ買いでコスパを上げたい方に最適な9選。"
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
@@ -74,39 +74,6 @@ products:
         rating: 4.77
         reviewCount: 345
   - rank: 3
-    name: "オーラルケア フロアフロス 250m 歯科専売品 fluorfloss"
-    brand: "楽天市場"
-    price: 3210
-    capacity: "250m"
-    pricePerUnit: "約13円/m"
-    rating: 4.76
-    reviewCount: 556
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F0090023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000766%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/0090023_001.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-23"
-        price: 3278
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
-        available: true
-        rating: 4.77
-        reviewCount: 340
-  - rank: 4
     name: "オーラルケア フロアフロス 45m 2個セット (メール便9点まで)"
     brand: "オーラルケア"
     price: 1595
@@ -139,7 +106,7 @@ products:
         available: true
         rating: 4.72
         reviewCount: 159
-  - rank: 5
+  - rank: 4
     name: "REACH リーチ／デンタルフロス 55ヤード(50.2m)×6個入り ワックス・ノ"
     brand: "REACH"
     price: 2298
@@ -173,7 +140,7 @@ products:
         rating: 4.2
         reviewCount: 5
         matchNotes: "capacity不一致: capacity不一致"
-  - rank: 6
+  - rank: 5
     name: "Dr.デンリスト こども糸ピックス 30本入×4個 (対象年齢2歳から)子供用 歯間"
     brand: "楽天市場"
     price: 1099
@@ -206,7 +173,7 @@ products:
         available: true
         rating: 4.45
         reviewCount: 11
-  - rank: 7
+  - rank: 6
     name: "サンスター GUM 歯間ブラシ I字型 SSS 20本入"
     brand: "サンスター（GUM）"
     price: 295
@@ -239,7 +206,7 @@ products:
         available: true
         rating: 4.83
         reviewCount: 6
-  - rank: 8
+  - rank: 7
     name: "サンスター GUM 歯間ブラシ I字型 S 20本×10セット"
     brand: "サンスター（GUM）"
     price: 3380
@@ -261,7 +228,7 @@ products:
     recommendedFor: "家族複数人での使用や定期まとめ買いでコストを徹底的に抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00scoyn.3rdw6027.g00scoyn.3rdw72a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsugartime%2Fkzsuns-79%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsugartime%2Fi%2F10189519%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sugartime/cabinet/kz/kzsuns/kzsuns-79.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "デンタルプロ 歯間ブラシ L字型 SS 10本入"
     brand: "デンタルプロ"
     price: 288
@@ -294,7 +261,7 @@ products:
         available: true
         rating: 4.73
         reviewCount: 22
-  - rank: 10
+  - rank: 9
     name: "デンタルプロ 歯間ブラシ I字型 Mサイズ 15本入"
     brand: "デンタルプロ"
     price: 467

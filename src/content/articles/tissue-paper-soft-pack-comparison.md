@@ -191,28 +191,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7258440%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10216545%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya113/7258440.jpg?_ex=128x128"
   - rank: 8
-    name: "ネピア ソフトパックティッシュ 240組×80パック 大容量"
-    brand: "王子ネピア"
-    price: 7720
-    capacity: "240組×80個"
-    pricePerUnit: "約0.40円/組"
-    rating: 4.88
-    reviewCount: 8
-    features:
-      - "240組のボリュームソフトパック"
-      - "80個入りの超大容量まとめ買い"
-      - "フレッシュパルプ採用のやわらか仕様"
-    pros:
-      - "1個240組と多く取り替え頻度が下がる"
-      - "80個でローリングストックにも対応"
-      - "省スペースで大量備蓄しやすい"
-    cons:
-      - "80個分のまとまった保管場所が必要"
-      - "少人数では使い切りに時間がかかる"
-    recommendedFor: "大家族・防災備蓄・買い物頻度を減らしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7258440%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10088618%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/thum/naosi/7258440.jpg?_ex=128x128"
-  - rank: 9
     name: "フルール ソフトパックティッシュ 200組×80個"
     brand: "フルール"
     price: 6480
@@ -234,7 +212,7 @@ products:
     recommendedFor: "ゴミを減らしたい方・収納場所を節約したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnhsn.3rdw6b0b.g00tnhsn.3rdw755e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarubeni-pps%2Ffleur200w_out%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarubeni-pps%2Fi%2F10000013%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marubeni-pps/cabinet/biiino/item/main-image/1697420273121_1.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "ネピア ソフトパックティッシュ 240組 80パック 防災備蓄セット"
     brand: "王子ネピア"
     price: 10800
