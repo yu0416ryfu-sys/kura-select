@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-07-30"
 products:
   - rank: 1
     name: "メリットキッズ 泡で出てくるシャンプー ナチュラルフローラル 330ml"
@@ -31,14 +31,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301450128.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00020584.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-29"
-        price: 769
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301450128"
+        updatedAt: "2026-07-30"
+        price: 1044
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00020584"
         available: true
         rating: 0
-        reviewCount: 2
+        reviewCount: 0
   - rank: 2
     name: "ザクロー精炭酸シャンプー 詰替用"
     brand: "サニープレイス"
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmomotaroucrub%2Fa--h-sy-0020-00-muryo.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-26"
+        updatedAt: "2026-07-30"
         price: 2550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/momotaroucrub_a--h-sy-0020-00-muryo"
         available: true
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcerapure%2Fkf-22.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-26"
+        updatedAt: "2026-07-30"
         price: 3350
         rating: 5
         reviewCount: 3
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmcosme-style%2Fumahai0000.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-26"
+        updatedAt: "2026-07-30"
         price: 4400
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mcosme-style_umahai0000"
         available: true
@@ -269,7 +269,7 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u11ln.3rdw6478.g00u11ln.3rdw7413/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftamago-kichi%2Fnewmovactory%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftamago-kichi%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tamago-kichi/cabinet/thumb/newmovactory04-06.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tamago-kichi/cabinet/10419352/10720487/imgrc0107208987.jpg?_ex=128x128"
 tags:
   - "シャンプー"
   - "コスパ"

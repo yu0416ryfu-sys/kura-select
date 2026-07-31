@@ -4,7 +4,7 @@ description: "オキシクリーンと過炭酸ナトリウム（酸素系漂白
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-07-30"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "3kg"
     pricePerUnit: "約0.38円/g"
     rating: 4.78
-    reviewCount: 800
+    reviewCount: 801
     features:
       - "過炭酸ナトリウム100%の大容量パック"
       - "洗濯槽掃除と衣類の漂白を想定した汎用タイプ"
@@ -80,7 +80,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.52円/g"
     rating: 4.71
-    reviewCount: 962
+    reviewCount: 963
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "添加物を加えていないシンプルな組成"
@@ -205,6 +205,17 @@ products:
     recommendedFor: "まず定番から試したい方・無香料がよい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7091275%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10060922%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09344783/7091275-1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgraphico%2Foxn251218-oya.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-30"
+        price: 3630
+        rating: 4.65
+        reviewCount: 34
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/graphico_oxn251218-oya"
+        available: true
   - rank: 9
     name: "オキシクリーン つめかえ用 2000g 粉末タイプ"
     brand: "グラフィコ（日本版）"
@@ -227,6 +238,17 @@ products:
     recommendedFor: "すでに本体を持っている方・詰め替えで続けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F103-4571169854644-wa%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12260109%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/d/dd/imgrc0081065780.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7180967.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-30"
+        price: 2080
+        rating: 4.61
+        reviewCount: 33
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7180967"
+        available: true
 tags:
   - "オキシクリーン 比較"
   - "過炭酸ナトリウム コスパ"

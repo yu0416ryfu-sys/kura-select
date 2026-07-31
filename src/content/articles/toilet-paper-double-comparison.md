@@ -4,7 +4,7 @@ description: "ダブルのトイレットペーパーを1mあたりのコスト�
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-07-30"
 products:
   - rank: 1
     name: "再生紙トイレットペーパー ダブル"
@@ -13,7 +13,7 @@ products:
     capacity: "27.5m×12ロール×8パック（96ロール）"
     pricePerUnit: "約1.2円/m"
     rating: 4.58
-    reviewCount: 3598
+    reviewCount: 3600
     features:
       - "再生紙を使ったダブルタイプ"
       - "無地・無印刷で日常使いしやすい"
@@ -119,7 +119,7 @@ products:
   - rank: 5
     name: "スコッティ フラワーパック 3倍長持ち ダブル 4ロール×12袋"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 6300
+    price: 6556
     capacity: "75m×4ロール×12袋"
     pricePerUnit: "約1.8円/m"
     rating: 4.63
@@ -240,9 +240,9 @@ products:
   - rank: 9
     name: "ネピア おしりセレブ ダブル 40m×4ロール"
     brand: "王子ネピア（ネピア）"
-    price: 645
+    price: 734
     capacity: "40m×4ロール"
-    pricePerUnit: "約4.0円/m"
+    pricePerUnit: "約4.6円/m"
     rating: 4.82
     reviewCount: 17
     features:

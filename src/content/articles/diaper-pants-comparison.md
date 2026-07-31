@@ -4,7 +4,7 @@ description: "パンツ型おむつを1枚あたりの価格で比較。まず�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-07-30"
 products:
   - rank: 1
     name: "メリーズ エアスルー パンツ Mサイズ"
@@ -174,7 +174,7 @@ products:
     capacity: "L・BIG 4個セット"
     pricePerUnit: "0円/枚"
     rating: 4.73
-    reviewCount: 1194
+    reviewCount: 1195
     features:
       - "やわらかい素材でのびのびしたウエスト設計"
       - "赤ちゃんの動きを妨げない柔軟性"

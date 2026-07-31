@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-07-30"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4904879658255-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-25"
+        updatedAt: "2026-07-29"
         price: 968
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4904879658255-1"
         available: true
@@ -67,53 +67,20 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F75320.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-25"
+        updatedAt: "2026-07-29"
         price: 13950
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_75320"
         available: true
         rating: 4.73
         reviewCount: 742
   - rank: 3
-    name: "ロイヤルカナン インドア 7+ 室内中高齢猫用 3.5kg"
-    brand: "ロイヤルカナン"
-    price: 5759
-    capacity: "3.5kg"
-    pricePerUnit: "約1.6円/g"
-    rating: 4.81
-    reviewCount: 143
-    features:
-      - "7歳以上の室内で生活する中高齢猫向け総合栄養食"
-      - "ジッパー付き袋で開封後の保存がしやすい設計"
-      - "腎臓ケアと体重管理を意識した栄養バランス設計"
-    pros:
-      - "世界的に信頼されているロイヤルカナンブランドで安心感がある"
-      - "3.5kgの大容量でまとめ買いに適したコスパ設計"
-      - "獣医師推奨ブランドとして信頼性が高く選びやすい"
-    cons:
-      - "若い成猫（1〜6歳）用ではなく7歳以上向けの製品"
-      - "グレイン（穀物）を含むためグレインフリー希望の方には不向き"
-    recommendedFor: "7歳以上の室内シニア猫を飼っている方・プレミアムブランドで安定した品質を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9217328%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10026150%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/logo/9217328.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffamilypet%2F52905133.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-25"
-        price: 5280
-        rating: 4.58
-        reviewCount: 89
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/familypet_52905133"
-        available: true
-  - rank: 4
     name: "ロイヤルカナン インドア 4kg"
     brand: "ロイヤルカナン"
-    price: 6476
+    price: 5980
     capacity: "4kg"
-    pricePerUnit: "約1.6円/g"
+    pricePerUnit: "約1.5円/g"
     rating: 4.65
-    reviewCount: 686
+    reviewCount: 688
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -139,6 +106,39 @@ products:
         available: true
         rating: 4.75
         reviewCount: 1388
+  - rank: 4
+    name: "ロイヤルカナン インドア 7+ 室内中高齢猫用 3.5kg"
+    brand: "ロイヤルカナン"
+    price: 5470
+    capacity: "3.5kg"
+    pricePerUnit: "約1.6円/g"
+    rating: 4.81
+    reviewCount: 143
+    features:
+      - "7歳以上の室内で生活する中高齢猫向け総合栄養食"
+      - "ジッパー付き袋で開封後の保存がしやすい設計"
+      - "腎臓ケアと体重管理を意識した栄養バランス設計"
+    pros:
+      - "世界的に信頼されているロイヤルカナンブランドで安心感がある"
+      - "3.5kgの大容量でまとめ買いに適したコスパ設計"
+      - "獣医師推奨ブランドとして信頼性が高く選びやすい"
+    cons:
+      - "若い成猫（1〜6歳）用ではなく7歳以上向けの製品"
+      - "グレイン（穀物）を含むためグレインフリー希望の方には不向き"
+    recommendedFor: "7歳以上の室内シニア猫を飼っている方・プレミアムブランドで安定した品質を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9217328%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10026150%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/logo/9217328.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffamilypet%2F52905133.html"
+        matchStatus: "pending"
+        updatedAt: "2026-07-29"
+        price: 5280
+        rating: 4.58
+        reviewCount: 89
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/familypet_52905133"
+        available: true
   - rank: 5
     name: "ロイヤルカナン キトン"
     brand: "ロイヤルカナン"
@@ -179,7 +179,7 @@ products:
     capacity: "2kg"
     pricePerUnit: "約2.0円/g"
     rating: 4.68
-    reviewCount: 877
+    reviewCount: 880
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -199,7 +199,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnutro-galenus%2F841762198.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-25"
+        updatedAt: "2026-07-29"
         price: 3980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nutro-galenus_841762198"
         available: true
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcell-apt%2Fc-2801-800-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-25"
+        updatedAt: "2026-07-29"
         price: 5400
         rating: 0
         reviewCount: 0

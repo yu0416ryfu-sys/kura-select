@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-07-30"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftaorunomori%2F10001288.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-25"
+        updatedAt: "2026-07-29"
         price: 990
         rating: 4.43
         reviewCount: 205
@@ -71,7 +71,7 @@ products:
     capacity: "45×65cm 1枚"
     pricePerUnit: "約1000円/枚"
     rating: 4.39
-    reviewCount: 1352
+    reviewCount: 1353
     features:
       - "綿100%で肌に優しい"
       - "パイル生地で吸水性に優れた設計"
@@ -106,7 +106,7 @@ products:
     capacity: "40×60cm / 50×80cm 1枚"
     pricePerUnit: "約1690円/枚"
     rating: 4.64
-    reviewCount: 3261
+    reviewCount: 3262
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"
@@ -122,7 +122,7 @@ products:
       - "マイクロファイバーなので好みが分かれる"
     recommendedFor: "吸水性を最優先したい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnrsn.3rdw6089.g00tnrsn.3rdw78e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flatuna%2F10000010-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flatuna%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/latuna/cabinet/items/bathmat/imgrc0161877803.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/latuna/cabinet/items/p-up_top/10000010-1_p10.jpg?_ex=128x128"
   - rank: 5
     name: "今治タオル レオン バスマット"
     brand: "今治タオル"
@@ -130,7 +130,7 @@ products:
     capacity: "42×67cm 1枚"
     pricePerUnit: "約1800円/枚"
     rating: 4.61
-    reviewCount: 2106
+    reviewCount: 2107
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -150,8 +150,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbroome%2F0215-0212-0101.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-25"
-        price: 1800
+        updatedAt: "2026-07-29"
+        price: 2290
         rating: 4.54
         reviewCount: 286
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/broome_0215-0212-0101"
@@ -183,7 +183,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fm-rug%2F712421510.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-25"
+        updatedAt: "2026-07-29"
         price: 6050
         rating: 4.62
         reviewCount: 302
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F49149.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-25"
+        updatedAt: "2026-07-29"
         price: 9900
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_49149"
         available: true

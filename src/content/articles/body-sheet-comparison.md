@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-07-30"
 draft: false
 products:
   - rank: 1
@@ -241,7 +241,7 @@ products:
   - rank: 8
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
-    price: 2071
+    price: 2075
     capacity: "30枚"
     pricePerUnit: "約69円/枚"
     rating: 4.79
@@ -263,13 +263,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkusurinofukutaro%2F10164409.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4902806112955.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-28"
-        price: 378
+        updatedAt: "2026-07-29"
+        price: 528
         rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kusurinofukutaro_10164409"
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4902806112955"
         available: true
   - rank: 9
     name: "リフレッシュボディシート"
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188322109.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-07-29"
         price: 1485
         rating: 4.2
         reviewCount: 5
@@ -331,7 +331,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftreeoflife-official%2F082112060.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-07-29"
         price: 440
         rating: 0
         reviewCount: 1

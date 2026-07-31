@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ10選を1回
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-07-30"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "60回分（50回＋10回）"
     pricePerUnit: "約21円/回"
     rating: 4.5
-    reviewCount: 7029
+    reviewCount: 7031
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -144,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fozoneassocia%2Ftoilet100.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-07-30"
         price: 3980
         rating: 4.25
         reviewCount: 208
@@ -177,7 +177,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2F100pol1.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-30"
         price: 4999
         rating: 4.5
         reviewCount: 960
@@ -210,7 +210,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2Fps-100.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-07-30"
         price: 4999
         rating: 4.53
         reviewCount: 608
@@ -241,13 +241,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcuttingedgemss%2Fa-b-b0dtkdlyxh-ak-k-rn25-09.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyandk%2Fportable-toilet.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-21"
-        price: 3650
+        updatedAt: "2026-07-30"
+        price: 3480
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cuttingedgemss_a-b-b0dtkdlyxh-ak-k-rn25-09"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yandk_portable-toilet"
         available: true
   - rank: 9
     name: "トイレの女神 PREMIUM 簡易トイレ 防災セット 2〜4人世帯向け"

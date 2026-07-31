@@ -4,7 +4,7 @@ description: "ボディソープを1gあたりのコストで比較。最安候�
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-26"
+updatedAt: "2026-07-30"
 products:
   - rank: 1
     name: "Dove ボディウォッシュ 詰め替え 330g×18袋"
@@ -143,7 +143,7 @@ products:
     capacity: "115g"
     pricePerUnit: "約11円/g"
     rating: 4.8
-    reviewCount: 333
+    reviewCount: 334
     features:
       - "ボディソープとして使える洗浄料"
       - "継続利用しやすい定番構成"
@@ -163,7 +163,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhealingvillage%2Fmndmrw-kbwt0.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-07-29"
         price: 1227
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/healingvillage_mndmrw-kbwt0"
         available: true
@@ -196,7 +196,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmitsubachi-road%2F20012-4.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-07-29"
         price: 10000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mitsubachi-road_20012-4"
         available: true
@@ -229,7 +229,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakakabeshop%2F4903301291305.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-25"
+        updatedAt: "2026-07-29"
         price: 678
         rating: 0
         reviewCount: 0
@@ -238,7 +238,7 @@ products:
   - rank: 8
     name: "キュレル ボディウォッシュ ポンプ 420mL"
     brand: "花王（キュレル）"
-    price: 882
+    price: 900
     capacity: "420mL"
     pricePerUnit: "約2.1円/mL"
     rating: 0
@@ -262,7 +262,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901301289353.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-07-29"
         price: 797
         rating: 4.73
         reviewCount: 22
@@ -315,13 +315,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmebox%2Fj4901525011488f.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffines-f%2F4901525011488.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-25"
-        price: 427
+        updatedAt: "2026-07-29"
+        price: 397
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosmebox_j4901525011488f"
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fines-f_4901525011488"
         available: true
 tags:
   - "ボディソープ"
