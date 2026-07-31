@@ -4,7 +4,7 @@ description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底�
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-07-31"
 products:
   - rank: 1
     name: "アタック 抗菌EX 部屋干し用 詰め替え 2380g×6個セット"
@@ -112,7 +112,7 @@ products:
         matchNotes: "入数違い採用（楽天は1510g×6個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 4
-    name: "アリエール 液体 部屋干しプラス 詰め替え 超ジャンボ 1.1.21kg（超ジャンボサイズ）"
+    name: "アリエール 液体 部屋干しプラス 詰め替え 超ジャンボ 1.21kg（超ジャンボサイズ）"
     brand: "P&G（アリエール）"
     price: 2981
     capacity: "1.21kg（超ジャンボサイズ）"

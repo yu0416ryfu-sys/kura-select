@@ -4,7 +4,7 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-07-31"
 draft: false
 products:
   - rank: 1
@@ -206,28 +206,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901121182889-today202504%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12642906%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2024v/4901121182889.jpg?_ex=128x128"
   - rank: 9
-    name: "イットコティッシュ 150組 60箱"
-    brand: "イトマン"
-    price: 5480
-    capacity: "150組×60箱"
-    pricePerUnit: "約0.61円/組"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "ティッシュペーパー本体のまとめ買い候補"
-      - "箱タイプまたはソフトパックで選べる"
-      - "家庭でストックしやすい容量構成"
-    pros:
-      - "日常の消耗品をまとめて比較できる"
-      - "保管場所に合わせて形状を選びやすい"
-      - "家族使いのストック候補になる"
-    cons:
-      - "紙質や肌ざわりは好みが分かれる"
-      - "大容量品は置き場所の確認が必要"
-    recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
-    rakutenUrl: "https://item.rakuten.co.jp/itoman/ittokotissu/"
-    imageUrl: ""
-  - rank: 10
     name: "業務用ティッシュ POPティシュ200W 60箱"
     brand: "OneStep"
     price: 7968

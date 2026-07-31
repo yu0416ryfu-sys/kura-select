@@ -23,6 +23,7 @@ import {
   isLikelySalesQuantityCapacityMisread,
   removeCapacityFromProductName,
   removeProductFromFrontmatter,
+  removeProductFromFrontmatterByRank,
   reorderProductsByPricePerUnit,
   syncPricePerUnitWithPolicy,
   limitProductsByRank,
@@ -388,6 +389,16 @@ body
     expect(result.changed).toBe(false);
     expect(result.content).toBe(duplicateNameContent);
   });
+
+  it("price が undefined でも price フィールドを消さない", () => {
+    const result = updateProductInFrontmatterByRank(duplicateNameContent, 2, {
+      newName: "Renamed",
+    } as never);
+
+    expect(result.changed).toBe(true);
+    expect(result.content).toContain("price: 200");
+    expect(extractProductSnapshotByRank(result.content, 2)?.name).toBe("Renamed");
+  });
 });
 
 describe("extractProductCapacity", () => {
@@ -579,6 +590,18 @@ describe("updateProductInFrontmatter (newName/newCapacity)", () => {
     });
     expect(updated).toContain('    name: "商品A 新名称"');
     expect(updated).not.toContain('    name: "商品A 超特大 1200mL×2袋"');
+  });
+
+  it("price/rating/reviewCount が undefined でもフィールドを消さない", () => {
+    // .mjs から部分的な updates を渡した場合に price キーごと消え、
+    // Astro の content schema 検証（price 必須）で build が落ちる事故の再発防止
+    const updated = updateProductInFrontmatter(SAMPLE_FRONTMATTER, "商品A 超特大 1200mL×2袋", {
+      newName: "商品A 新名称",
+    } as never);
+    expect(updated).toContain('    name: "商品A 新名称"');
+    expect(updated).toContain("price: 1980");
+    expect(updated).toContain("rating: 4.5");
+    expect(updated).toContain("reviewCount: 500");
   });
 
   it("newCapacity で capacity フィールドを更新する", () => {
@@ -1208,6 +1231,55 @@ products:
     expect(result).toContain('"商品C"');
     expect(result).not.toContain('"商品B"');
     expect(result).not.toContain('  - rank: 3');
+  });
+});
+
+describe("removeProductFromFrontmatterByRank", () => {
+  // rakutenUrl 重複の浄化では同名の商品が2件並ぶため、rank でどちらを消すか決める必要がある
+  const DUPLICATED = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "同名商品"
+    price: 720
+    reviewCount: 10
+    rakutenUrl: "https://item.rakuten.co.jp/shop/dup/"
+    imageUrl: "https://example.com/a.jpg"
+  - rank: 2
+    name: "同名商品"
+    price: 970
+    reviewCount: 0
+    rakutenUrl: "https://item.rakuten.co.jp/shop/dup/"
+    imageUrl: ""
+  - rank: 3
+    name: "別商品"
+    price: 800
+    reviewCount: 5
+    rakutenUrl: "https://item.rakuten.co.jp/shop/other/"
+    imageUrl: "https://example.com/c.jpg"
+---
+
+本文テキスト。
+`;
+
+  it("同名商品のうち rank 指定した方だけを削除し rank を詰める", () => {
+    const result = removeProductFromFrontmatterByRank(DUPLICATED, 2);
+    expect(result).not.toBeNull();
+    expect(result).toContain("price: 720");
+    expect(result).not.toContain("price: 970");
+    expect(result).toContain('  - rank: 2');
+    expect(result).not.toContain('  - rank: 3');
+  });
+
+  it("存在しない rank の場合は null を返す", () => {
+    expect(removeProductFromFrontmatterByRank(DUPLICATED, 9)).toBeNull();
+  });
+
+  it("最後の1商品の場合は null を返す", () => {
+    expect(removeProductFromFrontmatterByRank(SINGLE_PRODUCT_FRONTMATTER, 1)).toBeNull();
   });
 });
 

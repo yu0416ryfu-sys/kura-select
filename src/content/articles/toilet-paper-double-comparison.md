@@ -1,10 +1,10 @@
 ---
-title: "トイレットペーパー ダブル コスパ最強ランキング【2026年版】10選比較"
-description: "ダブルのトイレットペーパーを1mあたりのコストで比較。2倍巻き・3倍巻き・再生紙・肌触り重視のおすすめ10選を紹介します。交換頻度を減らしたい方にも。"
+title: "トイレットペーパー ダブル コスパ最強ランキング【2026年版】9選比較"
+description: "ダブルのトイレットペーパーを1mあたりのコストで比較。2倍巻き・3倍巻き・再生紙・肌触り重視のおすすめ9選を紹介します。交換頻度を減らしたい方にも。"
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-07-31"
 products:
   - rank: 1
     name: "再生紙トイレットペーパー ダブル"
@@ -183,28 +183,6 @@ products:
         rating: 4.77
         reviewCount: 134
   - rank: 7
-    name: "エシカル12RW ダブル 12ロール×8パック"
-    brand: "エシカル"
-    price: 5580
-    capacity: "27.5m×12ロール×8パック"
-    pricePerUnit: "約2.1円/m"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://item.rakuten.co.jp/coming/color-jun1kyuhinrolls-t/"
-    imageUrl: ""
-  - rank: 8
     name: "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール（4ロール×12パック）"
     brand: "スコッティ"
     price: 10010
@@ -237,7 +215,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/me-belu_ds-2358010"
         available: true
-  - rank: 9
+  - rank: 8
     name: "ネピア おしりセレブ ダブル 40m×4ロール"
     brand: "王子ネピア（ネピア）"
     price: 734
@@ -270,7 +248,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_5647190"
         available: true
-  - rank: 10
+  - rank: 9
     name: "（まとめ）日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり "
     brand: "スコッティ"
     price: 5420

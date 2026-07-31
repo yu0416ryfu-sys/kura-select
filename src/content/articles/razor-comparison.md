@@ -1,10 +1,10 @@
 ---
-title: "T字カミソリ おすすめ10選｜替刃コスパと刃数で徹底比較"
+title: "T字カミソリ おすすめ9選｜替刃コスパと刃数で徹底比較"
 description: "ジレット・シックなど人気ブランドのT字カミソリを刃数・コスパ・使い心地で比較。替刃の単価や選び方のポイントも解説します。"
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-07-31"
 draft: false
 products:
   - rank: 1
@@ -74,28 +74,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_57010103-16"
         available: true
   - rank: 3
-    name: "カミソリ TD708 Yマット袋 16本セット"
-    brand: "湯屋の手土産"
-    price: 970
-    capacity: "16本"
-    pricePerUnit: "約61円/本"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://item.rakuten.co.jp/yuyanotemiyage/57010103-16/"
-    imageUrl: ""
-  - rank: 4
     name: "ジレット 髭剃り カミソリ カスタムプラス3 プレミアムスムース(3本入り)×3個 "
     brand: "ジレット"
     price: 1413
@@ -117,7 +95,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhson.3rdw6ad0.g00qhson.3rdw7574/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperkid%2F4902430793063-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuperkid%2Fi%2F10017135%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/superkid/cabinet/biyou/imgrc0089091398.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 4
     name: "貝印カミソリ K-2 ひげそり用カミソリ ホルダー 本体＋替刃5コ付 (二枚刃 シェ"
     brand: "貝印カミソリ"
     price: 2413
@@ -139,7 +117,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901331003301-009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12148065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic4900/4901331003301_1.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 5
     name: "ハイドロ5 カスタム 本体+替刃16個セット"
     brand: "シック（Schick）"
     price: 2868
@@ -161,7 +139,7 @@ products:
     recommendedFor: "5枚刃で深剃りを求める方・本体と替刃をまとめて揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sa3qn.3rdw64a4.g00sa3qn.3rdw76a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopavail%2F239%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopavail%2Fi%2F10000284%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shopavail/cabinet/nichiyouzakka/compass1640313753.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "マッハシンスリー ターボ 替刃 8コ入り"
     brand: "ジレット（Gillette）"
     price: 3012
@@ -183,7 +161,7 @@ products:
     recommendedFor: "定番ブランドで安定した剃り心地を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902430688635%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10170614%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/re2021/4902430688635.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "貝印 04370 ヤングT 6本入り カミソリ シェーバー"
     brand: "貝印"
     price: 2013
@@ -216,7 +194,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 9
+  - rank: 8
     name: "プログライド マニュアル 替刃 8個"
     brand: "ジレット（Gillette）"
     price: 3500
@@ -238,7 +216,7 @@ products:
     recommendedFor: "ひげの輪郭を整えることも一本でこなしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tx9an.3rdw653a.g00tx9an.3rdw78ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzuyaebisudo%2Fr-gillette-pfm-8p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuzuyaebisudo%2Fi%2F10000322%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suzuyaebisudo/cabinet/product/item01/imgrc0084799882.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "ジレット パワー フュージョン Gillette 替刃 髭剃り 電動 互換品 替え刃"
     brand: "ジレット"
     price: 1000

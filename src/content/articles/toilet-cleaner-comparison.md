@@ -1,10 +1,10 @@
 ---
 title: "トイレ用洗剤 コスパ最強ランキング【2026年版】除菌力・洗浄力で比較"
-description: "トイレ用洗剤を1回あたりのコストで徹底比較。サンポール・スクラビングバブル・ドメスト・ブルーレットなど人気10選を解説します。"
+description: "トイレ用洗剤を1回あたりのコストで徹底比較。サンポール・スクラビングバブル・ドメスト・ブルーレットなど人気9選を解説します。"
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-07-31"
 products:
   - rank: 1
     name: "ドメスト 除菌クリーナー 500ml×3個セット"
@@ -40,28 +40,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/minoku-value_1758927216-3-e"
         available: true
   - rank: 2
-    name: "ドメスト 除菌クリーナー 500ml×3個セット"
-    brand: "ユニリーバ（ドメスト）"
-    price: 1188
-    capacity: "500ml×3個（1500ml）"
-    pricePerUnit: "約0.79円/ml"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "トイレ用の洗剤本体"
-      - "液体やジェルなど便器まわりに使いやすい設計"
-      - "日常掃除向けの定番タイプ"
-    pros:
-      - "トイレ掃除の頻度に合わせて選べる"
-      - "既存候補と容量や形状を比較しやすい"
-      - "ストック用途にも検討しやすい"
-    cons:
-      - "酸性や塩素系など種類の確認が必要"
-      - "素材や使用場所によって注意点がある"
-    recommendedFor: "トイレ用洗剤を液体タイプ中心に比較したい人"
-    rakutenUrl: "https://item.rakuten.co.jp/rakuten24/35475/"
-    imageUrl: ""
-  - rank: 3
     name: "除菌洗浄トイレハイター"
     brand: "ハイター"
     price: 508
@@ -94,7 +72,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301018755"
         available: true
-  - rank: 4
+  - rank: 3
     name: "ルック まめピカ トイレクリーナー つめかえ用 190ml"
     brand: "ライオン（ルック）"
     price: 217
@@ -127,7 +105,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 5
+  - rank: 4
     name: "ソネット ナチュラルトイレットクリーナー"
     brand: "SONETT（ソネット）"
     price: 1210
@@ -160,7 +138,7 @@ products:
         available: true
         rating: 4.33
         reviewCount: 3
-  - rank: 6
+  - rank: 5
     name: "エコストア トイレクリーナー ユーカリ 500mL"
     brand: "ecostore"
     price: 880
@@ -193,7 +171,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/zozo_47433692"
         available: true
-  - rank: 7
+  - rank: 6
     name: "キバミおちーる 尿石除去剤"
     brand: "キバミおちーる"
     price: 1980
@@ -226,7 +204,7 @@ products:
         available: true
         rating: 4.13
         reviewCount: 15
-  - rank: 8
+  - rank: 7
     name: "トイレットペーパーでちょいふき"
     brand: "小林製薬"
     price: 3867
@@ -248,7 +226,7 @@ products:
     recommendedFor: "トイレ用洗剤を用途別に比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987072067178-008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12129144%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic49x/4987072067178_1.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "スクラビングバブル 超強力トイレクリーナー"
     brand: "スクラビングバブル（ジョンソン）"
     price: 215
@@ -281,7 +259,7 @@ products:
         reviewCount: 10
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_9615427011"
         available: true
-  - rank: 10
+  - rank: 9
     name: "スクラビングバブル 超強力トイレクリーナー 10本セット"
     brand: "ジョンソン（スクラビングバブル）"
     price: 2277

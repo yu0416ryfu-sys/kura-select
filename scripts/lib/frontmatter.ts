@@ -131,9 +131,11 @@ export function updateProductInFrontmatter(
   const product = (parsed.data.products as P[]).find(p => p.name === productName);
   if (!product) return content;
 
-  if (updates.price !== null)        product.price = updates.price;
-  if (updates.rating !== null)       product.rating = updates.rating;
-  if (updates.reviewCount !== null)  product.reviewCount = updates.reviewCount;
+  // null / undefined はいずれも「更新しない」。undefined を代入すると
+  // yaml.dump がキーごと落とし、price 等の必須フィールドが消える
+  if (updates.price != null)         product.price = updates.price;
+  if (updates.rating != null)        product.rating = updates.rating;
+  if (updates.reviewCount != null)   product.reviewCount = updates.reviewCount;
   if (updates.affiliateUrl)          product.rakutenUrl = updates.affiliateUrl;
   if (updates.imageUrl)              product.imageUrl = updates.imageUrl;
   if (updates.pricePerUnit != null)  product.pricePerUnit = updates.pricePerUnit;
@@ -251,9 +253,10 @@ export function updateProductInFrontmatterByRank(
   }
 
   const before = extractProductSnapshotByRank(content, normalizedRank) ?? undefined;
-  if (updates.price !== null)        product.price = updates.price;
-  if (updates.rating !== null)       product.rating = updates.rating;
-  if (updates.reviewCount !== null)  product.reviewCount = updates.reviewCount;
+  // null / undefined はいずれも「更新しない」（updateProductInFrontmatter と同じ扱い）
+  if (updates.price != null)         product.price = updates.price;
+  if (updates.rating != null)        product.rating = updates.rating;
+  if (updates.reviewCount != null)   product.reviewCount = updates.reviewCount;
   if (updates.affiliateUrl)          product.rakutenUrl = updates.affiliateUrl;
   if (updates.imageUrl)              product.imageUrl = updates.imageUrl;
   if (updates.pricePerUnit != null)  product.pricePerUnit = updates.pricePerUnit;
@@ -951,6 +954,29 @@ export function removeProductFromFrontmatter(content: string, productName: strin
   if (products.length <= 1) return null;
 
   const idx = products.findIndex(p => p.name === productName);
+  if (idx === -1) return null;
+
+  products.splice(idx, 1);
+  products.forEach((p, i) => { p.rank = i + 1; });
+  return dumpFrontmatter(parsed.data, parsed.body);
+}
+
+/**
+ * rank を指定して商品を削除し、残りの rank を1から振り直す。
+ *
+ * 同一記事内に同名の商品が2件ある（rakutenUrl 重複の浄化時に起きる）場合、
+ * name 指定の removeProductFromFrontmatter では先頭の1件しか特定できないため、
+ * どちらを残すか決められる rank 指定版を使う。
+ */
+export function removeProductFromFrontmatterByRank(content: string, rank: number): string | null {
+  const parsed = parseFrontmatter(content);
+  if (!parsed || !Array.isArray(parsed.data.products)) return null;
+
+  type P = Record<string, unknown>;
+  const products = parsed.data.products as P[];
+  if (products.length <= 1) return null;
+
+  const idx = products.findIndex(p => p.rank === rank);
   if (idx === -1) return null;
 
   products.splice(idx, 1);

@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-07-31"
 draft: false
 products:
   - rank: 1
@@ -212,28 +212,6 @@ products:
     recommendedFor: "ゴミを減らしたい方・収納場所を節約したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnhsn.3rdw6b0b.g00tnhsn.3rdw755e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarubeni-pps%2Ffleur200w_out%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarubeni-pps%2Fi%2F10000013%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marubeni-pps/cabinet/biiino/item/main-image/1697420273121_1.jpg?_ex=128x128"
-  - rank: 9
-    name: "ネピア ソフトパックティッシュ 240組 80パック 防災備蓄セット"
-    brand: "王子ネピア"
-    price: 10800
-    capacity: "240組×80パック"
-    pricePerUnit: "約0.56円/組"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "ティッシュペーパー本体のまとめ買い候補"
-      - "箱タイプまたはソフトパックで選べる"
-      - "家庭でストックしやすい容量構成"
-    pros:
-      - "日常の消耗品をまとめて比較できる"
-      - "保管場所に合わせて形状を選びやすい"
-      - "家族使いのストック候補になる"
-    cons:
-      - "紙質や肌ざわりは好みが分かれる"
-      - "大容量品は置き場所の確認が必要"
-    recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
-    rakutenUrl: "https://item.rakuten.co.jp/kurashikenkou/7258440/"
-    imageUrl: ""
 tags:
   - "ソフトパックティッシュ"
   - "省スペース"

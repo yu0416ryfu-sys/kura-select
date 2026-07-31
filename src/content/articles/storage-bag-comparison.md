@@ -1,10 +1,10 @@
 ---
 title: "保存袋・フリーザーバッグ コスパ最強ランキング【2026年版】1枚あたりで比較"
-description: "保存袋・フリーザーバッグを1枚あたりのコストで徹底比較。ジップロック・アイラップ・業務用など人気9選を密封性・耐久性で解説します。"
+description: "保存袋・フリーザーバッグを1枚あたりのコストで徹底比較。ジップロック・アイラップ・業務用など人気8選を密封性・耐久性で解説します。"
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-28"
+updatedAt: "2026-07-31"
 products:
   - rank: 1
     name: "ニッカルフレッシュ 鮮度保持袋"
@@ -128,28 +128,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bungubin_ka0046"
         available: true
   - rank: 5
-    name: "システムポリマー XP-13 スライダー付ジッパー保存袋 ML 10枚"
-    brand: "システムポリマー"
-    price: 203
-    capacity: "10枚"
-    pricePerUnit: "約20円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://item.rakuten.co.jp/luxfort/xp-13/"
-    imageUrl: ""
-  - rank: 6
     name: "システムポリマー XP-14 スライダー付ジッパー保存袋 L 9枚"
     brand: "システムポリマー"
     price: 231
@@ -182,7 +160,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bungubin_ka0047"
         available: true
-  - rank: 7
+  - rank: 6
     name: "アルミ保存袋 ジップ付き"
     brand: "SEALIFE MART"
     price: 568
@@ -204,7 +182,7 @@ products:
     recommendedFor: "光・湿気・臭いを防いで長期保存したい方・乾物や茶葉を保存する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2sxn.3rdw6fcb.g00t2sxn.3rdw7915/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffishingkingdom%2Fqa100085%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffishingkingdom%2Fi%2F10001404%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fishingkingdom/cabinet/biiino/item/main-image-2/20240802145259_1.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "ジップロック ストックバッグ L 16枚"
     brand: "旭化成（ジップロック）"
     price: 1221
@@ -237,7 +215,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/crance_20260617125853-01502"
         available: true
-  - rank: 9
+  - rank: 8
     name: "マーナ パン冷凍保存袋 一斤 2枚入り"
     brand: "マーナ"
     price: 1000
