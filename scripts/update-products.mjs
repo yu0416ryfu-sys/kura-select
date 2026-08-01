@@ -2285,6 +2285,25 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
     };
   }
 
+  // 「衣料用漂白剤」記事は category が laundry-detergent のため、
+  // CATEGORY_SEARCH_RULES['laundry-detergent'] の exclude に '漂白剤' が入っており
+  // 漂白剤そのものが候補から全て弾かれ、代わりに洗濯洗剤・ドライ洗剤が入り込む。
+  // 記事別ルールで上書きして漂白剤だけを拾う
+  if (category === 'laundry-detergent' && /漂白剤/.test(baseKeyword)) {
+    return {
+      keywords: ['衣料用漂白剤', '酸素系漂白剤 衣類', 'ワイドハイター 詰め替え'],
+      include: ['漂白剤', 'ハイター', 'ブライト', 'オキシクリーン', '過炭酸ナトリウム', '色柄物', '酸素系', '塩素系'],
+      requiredGroups: [['漂白剤', 'ハイター', 'ブライト', 'オキシクリーン', '過炭酸ナトリウム']],
+      exclude: [
+        'キッチン', '台所', '食器', 'まな板', '哺乳瓶', 'ふきん',
+        '洗濯槽', 'パイプ', '排水', 'カビ取り', '住宅用', '浴室', 'トイレ',
+        '柔軟剤', 'ジェルボール', 'ドライ洗剤',
+      ],
+      units: ['ml', 'g'],
+      minScore: 4,
+    };
+  }
+
   return null;
 }
 
