@@ -20,6 +20,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # OGP画像（scripts/generate-ogp.mjs）はsharp/librsvgでSVGテキストをラスタライズするため、
+      # ランナーに日本語フォントが無いと日本語が豆腐（□）になる
+      - name: 日本語フォントのインストール
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends fonts-noto-cjk fonts-noto-color-emoji
+          fc-cache -f
+          fc-list :lang=ja family | head -20
+
       - uses: pnpm/action-setup@v4
         with:
           version: 10

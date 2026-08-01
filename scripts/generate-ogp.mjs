@@ -10,12 +10,41 @@
  *   public/og/articles/<slug>.png   — 記事別OGP
  */
 import sharp from 'sharp';
+import { execFileSync } from 'child_process';
 import { resolve, join } from 'path';
 import { readdirSync, readFileSync, mkdirSync, existsSync } from 'fs';
 
 const WIDTH = 1200;
 const HEIGHT = 630;
 const ONLY_DEFAULT = process.argv.includes('--only-default');
+
+// SVGのテキストはsharp（librsvg）がOS側のフォントで描画するため、
+// 日本語グリフを持つフォントを明示的に優先指定する。
+// 見つからない場合は末尾のsans-serifにフォールバックする。
+const FONT_JA =
+  "'Noto Sans CJK JP','Noto Sans JP','Hiragino Sans','Yu Gothic UI','Yu Gothic','Meiryo',sans-serif";
+
+/**
+ * 日本語フォントが1つも無い環境ではOGPの日本語が豆腐（□）になるため、
+ * fontconfigのあるOS（Linux/CI）では事前に検出してビルドを止める。
+ */
+function assertJapaneseFontAvailable() {
+  if (process.platform !== 'linux') return;
+  try {
+    const out = execFileSync('fc-list', [':lang=ja', 'family'], { encoding: 'utf-8' }).trim();
+    if (!out) {
+      throw new Error('fc-listが日本語フォントを検出できませんでした');
+    }
+    console.log(`🈶 日本語フォント検出: ${out.split('\n').length}件`);
+  } catch (err) {
+    console.error(
+      '❌ 日本語フォントが見つかりません。OGP画像の日本語が豆腐になります。\n' +
+        '   CI では `sudo apt-get install -y fonts-noto-cjk` を実行してください。\n' +
+        `   詳細: ${err.message}`
+    );
+    process.exit(1);
+  }
+}
 
 // ─── SVGテンプレート：サイト共通 ─────────────────────────────────────────
 function buildDefaultSvg() {
@@ -35,16 +64,16 @@ function buildDefaultSvg() {
   <rect x="0" y="0" width="${WIDTH}" height="8" fill="url(#accent)" />
   <text x="600" y="200" text-anchor="middle" font-size="80" fill="#0ea5e9">🏠</text>
   <text x="600" y="300" text-anchor="middle"
-        font-family="sans-serif" font-size="72" font-weight="bold" fill="#0f172a">
+        font-family="${FONT_JA}" font-size="72" font-weight="bold" fill="#0f172a">
     暮らセレクト
   </text>
   <text x="600" y="380" text-anchor="middle"
-        font-family="sans-serif" font-size="32" fill="#475569">
+        font-family="${FONT_JA}" font-size="32" fill="#475569">
     日用品・消耗品のコスパ比較サイト
   </text>
   <rect x="450" y="420" width="300" height="3" rx="2" fill="url(#accent)" />
   <text x="600" y="490" text-anchor="middle"
-        font-family="sans-serif" font-size="28" fill="#64748b">
+        font-family="${FONT_JA}" font-size="28" fill="#64748b">
     毎日使うものをお得に選ぼう
   </text>
   <rect x="0" y="570" width="${WIDTH}" height="60" fill="#0f172a" opacity="0.08" />
@@ -66,7 +95,7 @@ function buildArticleSvg(title, category) {
     .map((line, i) => {
       const escaped = escapeXml(line);
       return `<text x="600" y="${startY + i * lineHeight}" text-anchor="middle"
-        font-family="sans-serif" font-size="52" font-weight="bold" fill="#0f172a">
+        font-family="${FONT_JA}" font-size="52" font-weight="bold" fill="#0f172a">
     ${escaped}
   </text>`;
     })
@@ -92,7 +121,7 @@ function buildArticleSvg(title, category) {
   <!-- カテゴリラベル -->
   <rect x="440" y="120" width="320" height="40" rx="20" fill="#0ea5e9" opacity="0.15" />
   <text x="600" y="148" text-anchor="middle"
-        font-family="sans-serif" font-size="22" font-weight="bold" fill="#0ea5e9">
+        font-family="${FONT_JA}" font-size="22" font-weight="bold" fill="#0ea5e9">
     ${escapedCategory}
   </text>
 
@@ -104,7 +133,7 @@ function buildArticleSvg(title, category) {
 
   <!-- サイト名 -->
   <text x="600" y="490" text-anchor="middle"
-        font-family="sans-serif" font-size="28" fill="#64748b">
+        font-family="${FONT_JA}" font-size="28" fill="#64748b">
     暮らセレクト
   </text>
 
@@ -153,6 +182,8 @@ function extractFrontmatterField(content, field) {
 
 // ─── メイン処理 ──────────────────────────────────────────────────────────
 async function main() {
+  assertJapaneseFontAvailable();
+
   const publicDir = resolve(process.cwd(), "public");
 
   // 1. デフォルトOGP生成
