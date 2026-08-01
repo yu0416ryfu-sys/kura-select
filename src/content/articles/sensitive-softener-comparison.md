@@ -4,31 +4,9 @@ description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹
 category: "fabric-softener"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-08-01"
 products:
   - rank: 1
-    name: "ランドリン 柔軟剤 詰め替えアソートセット 9個入り"
-    brand: "ネイチャーラボ（ランドリン）"
-    price: 4930
-    capacity: "480mL×7本・430mL×2本"
-    pricePerUnit: "約0.73円/mL"
-    rating: 4.73
-    reviewCount: 108
-    features:
-      - "9種類の香りをアソートで楽しめる詰め替えセット"
-      - "植物エキス配合の低刺激・オーガニック処方"
-      - "静電気軽減・抗菌機能付き"
-    pros:
-      - "複数の香りを試せるアソート構成"
-      - "低刺激設計で敏感肌にも配慮"
-      - "まとめ買いで購入頻度を減らせる"
-    cons:
-      - "特定の香りに絞りたい場合は向かない"
-      - "好みの香りの比率を選べないアソート構成"
-    recommendedFor: "複数の香りを楽しみたい方・低刺激処方を求める方・まとめ買い派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2Flaundrin-refillassortset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10006269%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08869620/imgrc0115859411.jpg?_ex=128x128"
-  - rank: 2
     name: "さらさ 柔軟剤 詰替 超ジャンボ 1350ml×6袋"
     brand: "P&G（さらさ）"
     price: 6180
@@ -61,6 +39,28 @@ products:
         available: true
         rating: 4.87
         reviewCount: 62
+  - rank: 2
+    name: "ランドリン 柔軟剤 詰め替えアソートセット 9個入り"
+    brand: "ネイチャーラボ（ランドリン）"
+    price: 5382
+    capacity: "480mL×7本・430mL×2本"
+    pricePerUnit: "約0.80円/mL"
+    rating: 4.73
+    reviewCount: 108
+    features:
+      - "9種類の香りをアソートで楽しめる詰め替えセット"
+      - "植物エキス配合の低刺激・オーガニック処方"
+      - "静電気軽減・抗菌機能付き"
+    pros:
+      - "複数の香りを試せるアソート構成"
+      - "低刺激設計で敏感肌にも配慮"
+      - "まとめ買いで購入頻度を減らせる"
+    cons:
+      - "特定の香りに絞りたい場合は向かない"
+      - "好みの香りの比率を選べないアソート構成"
+    recommendedFor: "複数の香りを楽しみたい方・低刺激処方を求める方・まとめ買い派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2Flaundrin-refillassortset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10006269%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08869620/imgrc0115859411.jpg?_ex=128x128"
   - rank: 3
     name: "ファーファ フリー 濃縮柔軟剤 無香料 エコパック 詰替 1500ml"
     brand: "NSファーファ・ジャパン（ファーファ）"
@@ -97,11 +97,11 @@ products:
   - rank: 4
     name: "ナイスアンドクイック ボタニカル 柔軟剤 詰替 ピュアコットンシャボンの香り 1320mL 2個セット"
     brand: "ナイスアンドクイック"
-    price: 2675
+    price: 2816
     capacity: "1320mL×2個"
-    pricePerUnit: "約1.0円/mL"
+    pricePerUnit: "約1.1円/mL"
     rating: 4.85
-    reviewCount: 172
+    reviewCount: 173
     features:
       - "植物由来成分90%以上配合のボタニカル処方"
       - "パラベン・シリコン・合成香料など8つの無添加処方"
@@ -117,11 +117,44 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00spx7n.3rdw6343.g00spx7n.3rdw790a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjoiedebeaute%2Fnq105-2set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjoiedebeaute%2Fi%2F10000870%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/joiedebeaute/cabinet/11856908/nq115v2_2set_01.jpg?_ex=128x128"
   - rank: 5
+    name: "レールデュサボン 柔軟剤 詰め替えリフィル 960ml 3個セット"
+    brand: "レールデュサボン"
+    price: 3465
+    capacity: "960mL×3個"
+    pricePerUnit: "約1.2円/mL"
+    rating: 4.86
+    reviewCount: 85
+    features:
+      - "シリコンフリー・アルコールフリー処方"
+      - "赤ちゃん・敏感肌向けの低刺激設計"
+      - "部屋干し対応"
+    pros:
+      - "シリコン・アルコールフリーでやさしい仕上がり"
+      - "赤ちゃん・敏感肌を考慮した処方"
+      - "3個セットでまとめ買いに向く"
+    cons:
+      - "石鹸系の香りは好みが分かれる"
+      - "セット販売のため少量での試し購入には向かない"
+    recommendedFor: "赤ちゃん・敏感肌の方・シリコンフリーを求める方・石鹸系の香りが好みの方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz9zn.3rdw68f2.g00tz9zn.3rdw7e5b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffitsonlinestore%2Flds-softrf3set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffitsonlinestore%2Fi%2F10000515%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fitsonlinestore/cabinet/item/lds/08688167/imgrc0101553377.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffitsonlinestore%2Flds-softset3.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-01"
+        price: 3465
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fitsonlinestore_lds-softset3"
+        available: true
+        rating: 0
+        reviewCount: 2
+  - rank: 6
     name: "ラボン 柔軟剤 ラグジュアリーリラックス 詰め替え 960ml 5個セット"
     brand: "ネイチャーラボ（ラボン）"
-    price: 5214
+    price: 6325
     capacity: "960mL×5個"
-    pricePerUnit: "約1.1円/mL"
+    pricePerUnit: "約1.3円/mL"
     rating: 4.86
     reviewCount: 251
     features:
@@ -143,18 +176,18 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469490579-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-01"
         price: 5214
         rating: 4.88
         reviewCount: 344
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469490579-5"
         available: true
-  - rank: 6
+  - rank: 7
     name: "ラボン 柔軟剤 フレンチマカロン 詰め替え 960ml 5個セット"
     brand: "ネイチャーラボ（ラボン）"
-    price: 5214
+    price: 6325
     capacity: "960mL×5個"
-    pricePerUnit: "約1.1円/mL"
+    pricePerUnit: "約1.3円/mL"
     rating: 4.78
     reviewCount: 180
     features:
@@ -176,18 +209,18 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469490586-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-01"
         price: 5214
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469490586-5"
         available: true
         rating: 4.89
         reviewCount: 168
-  - rank: 7
+  - rank: 8
     name: "ラボン 柔軟剤 ラブリーシック 詰め替え 960ml 5個セット"
     brand: "ネイチャーラボ（ラボン）"
-    price: 5214
+    price: 6325
     capacity: "960mL×5個"
-    pricePerUnit: "約1.1円/mL"
+    pricePerUnit: "約1.3円/mL"
     rating: 4.86
     reviewCount: 111
     features:
@@ -209,18 +242,18 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469492764-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-01"
         price: 5214
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469492764-5"
         available: true
         rating: 4.93
         reviewCount: 73
-  - rank: 8
+  - rank: 9
     name: "ランドリン 柔軟剤 クラシックフローラル つめかえ用 480mL 10個セット"
     brand: "ネイチャーラボ（ランドリン）"
-    price: 5470
+    price: 6570
     capacity: "480mL×10個"
-    pricePerUnit: "約1.1円/mL"
+    pricePerUnit: "約1.4円/mL"
     rating: 4.76
     reviewCount: 125
     features:
@@ -248,12 +281,12 @@ products:
         reviewCount: 30
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469501688-5"
         available: true
-  - rank: 9
+  - rank: 10
     name: "ランドリン ボタニカル 柔軟剤 リラックスグリーンティー 詰め替え 大容量 860mL"
     brand: "ネイチャーラボ（ランドリン）"
-    price: 1042
+    price: 1265
     capacity: "860mL（約43回分）"
-    pricePerUnit: "約1.2円/mL"
+    pricePerUnit: "約1.5円/mL"
     rating: 4.65
     reviewCount: 48
     features:
@@ -281,39 +314,6 @@ products:
         available: true
         rating: 4.83
         reviewCount: 6
-  - rank: 10
-    name: "レールデュサボン 柔軟剤 詰め替えリフィル 960ml 3個セット"
-    brand: "レールデュサボン"
-    price: 3465
-    capacity: "960mL×3個"
-    pricePerUnit: "約1.2円/mL"
-    rating: 4.86
-    reviewCount: 85
-    features:
-      - "シリコンフリー・アルコールフリー処方"
-      - "赤ちゃん・敏感肌向けの低刺激設計"
-      - "部屋干し対応"
-    pros:
-      - "シリコン・アルコールフリーでやさしい仕上がり"
-      - "赤ちゃん・敏感肌を考慮した処方"
-      - "3個セットでまとめ買いに向く"
-    cons:
-      - "石鹸系の香りは好みが分かれる"
-      - "セット販売のため少量での試し購入には向かない"
-    recommendedFor: "赤ちゃん・敏感肌の方・シリコンフリーを求める方・石鹸系の香りが好みの方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz9zn.3rdw68f2.g00tz9zn.3rdw7e5b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffitsonlinestore%2Flds-softrf3set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffitsonlinestore%2Fi%2F10000515%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fitsonlinestore/cabinet/item/lds/08688167/imgrc0101553377.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffitsonlinestore%2Flds-softset3.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-30"
-        price: 3465
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fitsonlinestore_lds-softset3"
-        available: true
-        rating: 0
-        reviewCount: 2
 tags:
   - "柔軟剤"
   - "敏感肌"

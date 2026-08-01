@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-07-23"
+updatedAt: "2026-08-01"
 draft: false
 products:
   - rank: 1
@@ -98,9 +98,9 @@ products:
   - rank: 4
     name: "激落ちくん 節水トイレクリーナー 流せるシート"
     brand: "レック（LEC）"
-    price: 2280
+    price: 2508
     capacity: "288枚"
-    pricePerUnit: "約7.9円/枚"
+    pricePerUnit: "約8.7円/枚"
     rating: 4.58
     reviewCount: 52
     features:
@@ -120,9 +120,9 @@ products:
   - rank: 5
     name: "トイレクイックル つめかえ用 10枚×12パック"
     brand: "花王（クイックル）"
-    price: 2400
+    price: 2600
     capacity: "10枚×12パック（120枚）"
-    pricePerUnit: "約20円/枚"
+    pricePerUnit: "約22円/枚"
     rating: 5
     reviewCount: 1
     features:
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F13193.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-01"
         price: 1082
         rating: 4.44
         reviewCount: 55

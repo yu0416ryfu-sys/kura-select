@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-07-28"
+updatedAt: "2026-08-01"
 draft: false
 products:
   - rank: 1
@@ -156,7 +156,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F478367.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-01"
         price: 478
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_478367"
         available: true
@@ -213,7 +213,7 @@ products:
     capacity: "2枚"
     pricePerUnit: "約795円/枚"
     rating: 4.4
-    reviewCount: 497
+    reviewCount: 498
     features:
       - "バイオ酵素配合でカビの発生を抑制する設計"
       - "粘着シール付きでフレームなしで装着可能"

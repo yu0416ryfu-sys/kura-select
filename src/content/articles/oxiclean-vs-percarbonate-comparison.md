@@ -4,7 +4,7 @@ description: "オキシクリーンと過炭酸ナトリウム（酸素系漂白
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-08-01"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 1130
     capacity: "3kg"
     pricePerUnit: "約0.38円/g"
-    rating: 4.78
-    reviewCount: 801
+    rating: 4.77
+    reviewCount: 803
     features:
       - "過炭酸ナトリウム100%の大容量パック"
       - "洗濯槽掃除と衣類の漂白を想定した汎用タイプ"
@@ -33,8 +33,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann3k.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-29"
+        matchStatus: "matched"
+        updatedAt: "2026-08-01"
         price: 1130
         rating: 4.71
         reviewCount: 243
@@ -66,8 +66,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann5k.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-29"
+        matchStatus: "matched"
+        updatedAt: "2026-08-01"
         price: 1480
         rating: 4.77
         reviewCount: 249
@@ -80,7 +80,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.52円/g"
     rating: 4.71
-    reviewCount: 963
+    reviewCount: 964
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "添加物を加えていないシンプルな組成"
@@ -95,6 +95,17 @@ products:
     recommendedFor: "まず過炭酸ナトリウムを試してみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000015%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-hyouhaku-950g.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann1.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-01"
+        price: 598
+        rating: 4.56
+        reviewCount: 2048
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann1"
+        available: true
   - rank: 4
     name: "国産 過炭酸ナトリウム 酸素系漂白剤 3kg"
     brand: "アレスヘルスケア"
@@ -117,6 +128,17 @@ products:
     recommendedFor: "国内製造にこだわりたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qa34n.3rdw6dcf.g00qa34n.3rdw74c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fares-hc%2F700056%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fares-hc%2Fi%2F10000097%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ares-hc/cabinet/00480640/katansan3image-1000.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fares%2F700056.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-01"
+        price: 1991
+        rating: 4.66
+        reviewCount: 77
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ares_700056"
+        available: true
   - rank: 5
     name: "国産 過炭酸ナトリウム 酸素系漂白剤 900g"
     brand: "アレスヘルスケア"
@@ -139,6 +161,17 @@ products:
     recommendedFor: "国内製造を少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qa34n.3rdw6dcf.g00qa34n.3rdw74c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fares-hc%2F700181001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fares-hc%2Fi%2F10000478%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ares-hc/cabinet/00480640/katansan900image.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fares%2F700181001.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-01"
+        price: 638
+        rating: 4.85
+        reviewCount: 40
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ares_700181001"
+        available: true
   - rank: 6
     name: "オキシクリーン マルチパーパスクリーナー 5.26kg"
     brand: "OxiClean（アメリカ版）"
@@ -161,6 +194,17 @@ products:
     recommendedFor: "泡立ちのある使用感を求める方・大量に使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00toizn.3rdw6228.g00toizn.3rdw730f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonoworld%2Fzakka-0250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmonoworld%2Fi%2F10001131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/monoworld/cabinet/08879859/compass1647750527.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkameyamastore%2Fcos-28137.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-01"
+        price: 3974
+        rating: 4.75
+        reviewCount: 93
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kameyamastore_cos-28137"
+        available: true
   - rank: 7
     name: "オキシクリーン 1500g×3個 業務用"
     brand: "グラフィコ（日本版）"
@@ -208,13 +252,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgraphico%2Foxn251218-oya.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbrisk-online%2F20251011231548-00401.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-30"
-        price: 3630
-        rating: 4.65
-        reviewCount: 34
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/graphico_oxn251218-oya"
+        updatedAt: "2026-08-01"
+        price: 1395
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/brisk-online_20251011231548-00401"
         available: true
   - rank: 9
     name: "オキシクリーン つめかえ用 2000g 粉末タイプ"
@@ -242,8 +286,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7180967.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-30"
+        matchStatus: "matched"
+        updatedAt: "2026-08-01"
         price: 2080
         rating: 4.61
         reviewCount: 33

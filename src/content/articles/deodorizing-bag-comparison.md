@@ -4,7 +4,7 @@ description: "おむつ・生ゴミ用の防臭袋おすすめ10選をコスパ�
 category: "deodorizing-bag"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-08-01"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.78
-    reviewCount: 743
+    reviewCount: 745
     features:
       - "本来は食パン用のポリプロピレン製袋"
       - "厚みのあるPP素材で口を結んで密閉しやすい"
@@ -69,7 +69,7 @@ products:
     capacity: "200枚"
     pricePerUnit: "約8.1円/枚"
     rating: 4.85
-    reviewCount: 5581
+    reviewCount: 5582
     features:
       - "医療向け開発素材を使ったクリロン化成の防臭袋シリーズ"
       - "新生児のおむつやペットのうんちを想定した小さめサイズ"
@@ -102,7 +102,7 @@ products:
     capacity: "200枚×2個（400枚）"
     pricePerUnit: "約8.3円/枚"
     rating: 4.87
-    reviewCount: 485
+    reviewCount: 486
     features:
       - "猫のトイレ処理を想定したペット向けパッケージ"
       - "固まる猫砂ごと包んで捨てる使い方に合わせた寸法"
@@ -122,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurusatochoice%2F5681229.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         price: 13000
         rating: 0
         reviewCount: 0
@@ -135,7 +135,7 @@ products:
     capacity: "100枚×2個（200枚）"
     pricePerUnit: "約9.1円/枚"
     rating: 4.87
-    reviewCount: 476
+    reviewCount: 477
     features:
       - "シリーズ最小クラスの寸法"
       - "2個パックで1つを持ち歩き用に分けられる構成"
@@ -157,7 +157,7 @@ products:
     capacity: "200枚"
     pricePerUnit: "約9.5円/枚"
     rating: 4.85
-    reviewCount: 3723
+    reviewCount: 3724
     features:
       - "SSサイズより一回り大きい標準サイズ"
       - "テープ型からパンツ型まで幅広いおむつサイズを想定した寸法"
@@ -177,10 +177,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b002a.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         price: 1909
         rating: 4.86
-        reviewCount: 771
+        reviewCount: 772
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bos-shop_bos-b002a"
         available: true
   - rank: 7
@@ -210,7 +210,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b003a.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         price: 1375
         rating: 4.83
         reviewCount: 392
@@ -243,7 +243,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-1094.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         price: 2616
         rating: 4.89
         reviewCount: 72
@@ -256,7 +256,7 @@ products:
     capacity: "90枚"
     pricePerUnit: "約19円/枚"
     rating: 4.83
-    reviewCount: 1635
+    reviewCount: 1640
     features:
       - "大人用おむつや介護用途を想定した大きめサイズ"
       - "パッド類やリハビリパンツも入れられる寸法"
@@ -276,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b004a.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         price: 1694
         rating: 4.81
         reviewCount: 487
@@ -309,7 +309,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b005a.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         price: 1650
         rating: 4.85
         reviewCount: 189

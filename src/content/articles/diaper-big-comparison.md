@@ -4,7 +4,7 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-08-01"
 products:
   - rank: 1
     name: "グーンプラス テープ BIGサイズ"
@@ -36,7 +36,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         rating: 0
         reviewCount: 0
   - rank: 2
@@ -69,7 +69,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_60000000002751"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         rating: 0
         reviewCount: 2
   - rank: 3
@@ -102,7 +102,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111211647x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         rating: 4.73
         reviewCount: 56
   - rank: 4
@@ -135,15 +135,15 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111211807x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         rating: 4.94
         reviewCount: 47
   - rank: 5
     name: "グーン スーパーBIG パンツタイプ ケース販売 84枚"
     brand: "大王製紙（グーン）"
-    price: 7380
+    price: 6980
     capacity: "84枚（14枚×6袋）"
-    pricePerUnit: "約88円/枚"
+    pricePerUnit: "約83円/枚"
     rating: 4
     reviewCount: 1
     features:
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseedeck%2Fdos263-r6.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         price: 7580
         rating: 0
         reviewCount: 1
@@ -174,9 +174,9 @@ products:
   - rank: 6
     name: "グーン スーパーBIG パンツタイプ 14枚"
     brand: "大王製紙（グーン）"
-    price: 1288
+    price: 1388
     capacity: "14枚"
-    pricePerUnit: "約92円/枚"
+    pricePerUnit: "約99円/枚"
     rating: 4.64
     reviewCount: 113
     features:
@@ -201,13 +201,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4902011743081-1"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         rating: 5
         reviewCount: 3
   - rank: 7
     name: "グーン スーパービッグ パンツタイプ"
     brand: "大王製紙（グーン）"
-    price: 1500
+    price: 1501
     capacity: "14枚"
     pricePerUnit: "約107円/枚"
     rating: 4.66
@@ -267,7 +267,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171675x6"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         rating: 0
         reviewCount: 2
   - rank: 9
@@ -300,17 +300,17 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171750x6"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         rating: 0
         reviewCount: 2
   - rank: 10
     name: "あんしんGenki！パンツ ビッグ"
     brand: "アイリスオーヤマ"
-    price: 3580
+    price: 2780
     capacity: "ビッグ108枚（3個セット）"
     pricePerUnit: "0円/枚"
     rating: 4.65
-    reviewCount: 1695
+    reviewCount: 1698
     features:
       - "パンツタイプの紙おむつ"
       - "ふわもちタッチの肌あたりに配慮した設計"

@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-08-01"
 products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚"
@@ -194,11 +194,11 @@ products:
   - rank: 7
     name: "ニトリル手袋 パウダーフリー 100枚"
     brand: "TRINITY COSME"
-    price: 1180
+    price: 1160
     capacity: "100枚"
     pricePerUnit: "約12円/枚"
     rating: 4.71
-    reviewCount: 1383
+    reviewCount: 1385
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -231,7 +231,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約12円/枚"
     rating: 4.57
-    reviewCount: 3588
+    reviewCount: 3590
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"

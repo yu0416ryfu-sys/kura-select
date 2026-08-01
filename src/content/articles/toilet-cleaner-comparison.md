@@ -4,7 +4,7 @@ description: "トイレ用洗剤を1回あたりのコストで徹底比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-31"
+updatedAt: "2026-08-01"
 products:
   - rank: 1
     name: "ドメスト 除菌クリーナー 500ml×3個セット"

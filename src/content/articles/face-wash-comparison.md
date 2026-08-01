@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-08-01"
 products:
   - rank: 1
     name: "洗顔フォーム 毛穴 ロゼット洗顔パスタ 海泥スムース WEB限定2倍"
@@ -68,7 +68,7 @@ products:
     capacity: "110g"
     pricePerUnit: "約9.0円/g"
     rating: 4.6
-    reviewCount: 1820
+    reviewCount: 1821
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -134,7 +134,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約13円/g"
     rating: 4.58
-    reviewCount: 1562
+    reviewCount: 1563
     features:
       - "竹炭・海シルト・馬油配合の泥洗顔"
       - "無香料タイプとバラの香りタイプを展開"

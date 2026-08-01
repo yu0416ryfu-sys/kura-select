@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseisen-online%2F0547268-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-01"
         price: 3380
         rating: 0
         reviewCount: 0
@@ -65,8 +65,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fb81709.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-30"
+        matchStatus: "matched"
+        updatedAt: "2026-08-01"
         price: 640
         rating: 0
         reviewCount: 0

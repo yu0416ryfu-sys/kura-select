@@ -4,7 +4,7 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-08-01"
 products:
   - rank: 1
     name: "グーンプラス 敏感肌にやわらかタッチ テープ 新生児用 68枚"
@@ -12,8 +12,8 @@ products:
     price: 1199
     capacity: "68枚"
     pricePerUnit: "約18円/枚"
-    rating: 4.6
-    reviewCount: 5
+    rating: 4.78
+    reviewCount: 9
     features:
       - "敏感肌設計で保湿成分を配合した素材"
       - "ふわふわタッチのメッシュシートを採用"
@@ -28,6 +28,17 @@ products:
     recommendedFor: "敏感肌の赤ちゃんに向けた保湿設計を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902011115482%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12613608%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/ebase-a01/4902011115482.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r001-4902011115482.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-01"
+        price: 1751
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r001-4902011115482"
+        available: true
   - rank: 2
     name: "ムーニー マシュマロ肌ごこち 新生児 テープ"
     brand: "ムーニー（moony）"
@@ -55,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100639.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-25"
+        updatedAt: "2026-08-01"
         price: 1804
         rating: 0
         reviewCount: 1
@@ -86,13 +97,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkiiroihachi%2Fyahoo20250605-b01cg1tb4q.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7285945.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-25"
-        price: 1708
+        updatedAt: "2026-08-01"
+        price: 2050
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kiiroihachi_yahoo20250605-b01cg1tb4q"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7285945"
         available: true
   - rank: 4
     name: "メリーズ エアスルー テープ 新生児"
@@ -121,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301437693x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-25"
+        updatedAt: "2026-08-01"
         price: 5980
         rating: 4.92
         reviewCount: 13
@@ -149,6 +160,17 @@ products:
     recommendedFor: "新生児期にまとめ買いでコストを抑えたい方・ナチュラル素材を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4903111123247%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10981994%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/247/4903111123247.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnetbaby%2F4903111123247.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-01"
+        price: 4494
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/netbaby_4903111123247"
+        available: true
   - rank: 6
     name: "パンパース はじめての肌へのいちばん テープ新生児 144枚"
     brand: "P&G（パンパース）"
@@ -265,8 +287,8 @@ products:
     price: 3190
     capacity: "36枚（サイズ1・2〜4kg）"
     pricePerUnit: "約89円/枚"
-    rating: 4.72
-    reviewCount: 61
+    rating: 4.73
+    reviewCount: 63
     features:
       - "オーガニック系のプレミアム紙おむつ"
       - "テープ/パンツの案内がある海外ブランド"

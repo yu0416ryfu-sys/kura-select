@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-08-01"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichinan25%2Fdr-wash.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-01"
         price: 2970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichinan25_dr-wash"
         available: true
@@ -288,7 +288,7 @@ products:
     capacity: "100mL（約700回分）"
     pricePerUnit: "約22円/mL"
     rating: 4.76
-    reviewCount: 585
+    reviewCount: 587
     features:
       - "歯科医院で推奨される薬用マウスウォッシュ"
       - "グルコン酸クロルヘキシジン配合で高い殺菌力"
@@ -308,7 +308,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Fdf0129.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-01"
         price: 3340
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_df0129"
         available: true

@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-08-01"
 products:
   - rank: 1
     name: "立体不織布マスク バイカラー 50枚"
@@ -35,7 +35,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約6.0円/枚"
     rating: 4.17
-    reviewCount: 3724
+    reviewCount: 3725
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -140,11 +140,11 @@ products:
   - rank: 6
     name: "ST快適立体マスク"
     brand: "ST-TRADE"
-    price: 2480
+    price: 2380
     capacity: "120枚"
-    pricePerUnit: "約21円/枚"
+    pricePerUnit: "約20円/枚"
     rating: 4.19
-    reviewCount: 2733
+    reviewCount: 2734
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -158,7 +158,7 @@ products:
       - "色や形状の好みは分かれる"
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvon.3rdw65e4.g00qwvon.3rdw7875/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flife-life%2Fmask120kf%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flife-life%2Fi%2F10006321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/life-life/cabinet/mask/mask120kf06.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/life-life/cabinet/mask/mask120kf1new26.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -246,7 +246,7 @@ products:
       - "密着性はやや低め"
     recommendedFor: "コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t7l9n.3rdw6381.g00t7l9n.3rdw7fc7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakakabeshop%2F4967576481694-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakakabeshop%2Fi%2F10009332%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/akakabeshop/cabinet/06449440/06491308/4967576481694_ak5.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/akakabeshop/empo/img/tool108/20260728_120823/4967576481694-5.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

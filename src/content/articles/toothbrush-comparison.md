@@ -4,7 +4,7 @@ description: "歯ブラシを1本あたりのコストで徹底比較。シス�
 category: "toothpaste"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-08-01"
 products:
   - rank: 1
     name: "FEED Shu&Shu 大人用歯ブラシアソート 20本 M"
@@ -35,7 +35,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約64円/本"
     rating: 4.74
-    reviewCount: 2017
+    reviewCount: 2019
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -62,13 +62,35 @@ products:
         rating: 0
         reviewCount: 0
   - rank: 3
+    name: "子供向けキャラクター歯ブラシ"
+    brand: "Ciメディカル"
+    price: 2090
+    capacity: "30本"
+    pricePerUnit: "約70円/本"
+    rating: 4.73
+    reviewCount: 2178
+    features:
+      - "歯ブラシ本体または電動歯ブラシ"
+      - "まとめ買いしやすい本数"
+      - "大人用・子ども用を選べる"
+    pros:
+      - "家族分をまとめて備えやすい"
+      - "交換用ストックに向く"
+      - "用途に合わせて選べる"
+    cons:
+      - "毛のかたさやサイズ確認が必要"
+      - "電動タイプは替えブラシ確認が必要"
+    recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Foooo86%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10009832%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg01/oooo86_sam.jpg?_ex=128x128"
+  - rank: 4
     name: "Shu&Shu 歯ブラシ"
     brand: "Shu&Shu"
     price: 3630
     capacity: "50本"
     pricePerUnit: "約73円/本"
     rating: 4.67
-    reviewCount: 1218
+    reviewCount: 1219
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -83,14 +105,14 @@ products:
     recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F4188688%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000403%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/1/4188246set_001-2.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "子ども用歯ブラシアソート"
     brand: "Ciメディカル"
     price: 1480
     capacity: "20本"
     pricePerUnit: "約74円/本"
     rating: 4.81
-    reviewCount: 4871
+    reviewCount: 4872
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -105,7 +127,7 @@ products:
     recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49821%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007820%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg01/49821_kuji.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "Ci 700シリーズ 歯科専売歯ブラシ 選べる20本"
     brand: "Ciメディカル"
     price: 1800
@@ -138,7 +160,7 @@ products:
         reviewCount: 138
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_s9"
         available: true
-  - rank: 6
+  - rank: 7
     name: "Ci200シリーズ 歯科専売歯ブラシ"
     brand: "Ciメディカル"
     price: 2460
@@ -160,28 +182,6 @@ products:
     recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F41868%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007938%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg01/41868_sam2.jpg?_ex=128x128"
-  - rank: 7
-    name: "子供向けキャラクター歯ブラシ"
-    brand: "Ciメディカル"
-    price: 4180
-    capacity: "30本"
-    pricePerUnit: "約139円/本"
-    rating: 4.73
-    reviewCount: 2178
-    features:
-      - "歯ブラシ本体または電動歯ブラシ"
-      - "まとめ買いしやすい本数"
-      - "大人用・子ども用を選べる"
-    pros:
-      - "家族分をまとめて備えやすい"
-      - "交換用ストックに向く"
-      - "用途に合わせて選べる"
-    cons:
-      - "毛のかたさやサイズ確認が必要"
-      - "電動タイプは替えブラシ確認が必要"
-    recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Foooo86%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10009832%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg01/oooo86_sam.jpg?_ex=128x128"
   - rank: 8
     name: "キャラクター子ども歯ブラシ"
     brand: "Ciメディカル"
@@ -189,7 +189,7 @@ products:
     capacity: "30本"
     pricePerUnit: "約139円/本"
     rating: 4.76
-    reviewCount: 3909
+    reviewCount: 3913
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -211,7 +211,7 @@ products:
     capacity: "10本（約10ヶ月分）"
     pricePerUnit: "約140円/本"
     rating: 4.69
-    reviewCount: 2162
+    reviewCount: 2164
     features:
       - "歯科医院でも採用される定番ブラシ"
       - "PBT毛材で耐久性が高くヘタりにくい"
@@ -231,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Ft24z.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-01"
         price: 1468
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_t24z"
         available: true

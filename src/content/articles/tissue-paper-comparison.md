@@ -4,7 +4,7 @@ description: "ティッシュペーパーを1組あたりのコストで徹底�
 category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-08-01"
 products:
   - rank: 1
     name: "ハロー ソフトパックティッシュ"
@@ -31,11 +31,11 @@ products:
   - rank: 2
     name: "Smart Yell ソフトパックティッシュ"
     brand: "アイリスオーヤマ"
-    price: 2665
+    price: 3050
     capacity: "150組×50個"
-    pricePerUnit: "約0.36円/組"
-    rating: 4.54
-    reviewCount: 802
+    pricePerUnit: "約0.41円/組"
+    rating: 4.55
+    reviewCount: 803
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"
@@ -57,7 +57,7 @@ products:
     capacity: "200組×80個"
     pricePerUnit: "約0.41円/組"
     rating: 4.66
-    reviewCount: 1291
+    reviewCount: 1292
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"
@@ -141,9 +141,9 @@ products:
   - rank: 6
     name: "王子ネピア ネピネピ ティシュ 150組×5箱"
     brand: "ネピア"
-    price: 420
+    price: 440
     capacity: "150組×5箱（750組）"
-    pricePerUnit: "約0.56円/組"
+    pricePerUnit: "約0.59円/組"
     rating: 5
     reviewCount: 1
     features:
@@ -210,8 +210,8 @@ products:
     price: 5258
     capacity: "200枚（100組）×12箱"
     pricePerUnit: "約4.4円/組"
-    rating: 4.64
-    reviewCount: 692
+    rating: 4.65
+    reviewCount: 693
     features:
       - "パルプ100%の柔らかな2枚重ね"
       - "エリエールブランドの高品質"

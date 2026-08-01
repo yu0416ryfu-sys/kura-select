@@ -4,7 +4,7 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-25"
+updatedAt: "2026-08-01"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F85253.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-01"
         price: 3262
         rating: 0
         reviewCount: 0
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301453242.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-01"
         price: 765
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301453242"
         available: true
@@ -167,7 +167,7 @@ products:
     capacity: "2L"
     pricePerUnit: "約1.5円/mL"
     rating: 4.62
-    reviewCount: 110
+    reviewCount: 111
     features:
       - "業務用の液体カビ取り洗浄剤で浴室のカビ汚れに対応"
       - "たっぷり使える2L容量で広い範囲の掃除に使いやすい"
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00001384.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         price: 2099
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00001384"
         available: true

@@ -4,7 +4,7 @@ description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-08-01"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.78
-    reviewCount: 7804
+    reviewCount: 7813
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpigeon-shop%2F2000363s.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-01"
         price: 4070
         rating: 4.78
-        reviewCount: 1529
+        reviewCount: 1533
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_2000363s"
         available: true
   - rank: 2
@@ -107,7 +107,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4903111159802-4"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-01"
         rating: 4.56
         reviewCount: 9
   - rank: 4
@@ -117,7 +117,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約2.0円/枚"
     rating: 4.69
-    reviewCount: 4666
+    reviewCount: 4676
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -137,8 +137,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-28"
-        price: 2180
+        updatedAt: "2026-08-01"
+        price: 2390
         rating: 4.67
         reviewCount: 1018
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
@@ -175,39 +175,6 @@ products:
         matchStatus: "pending"
         updatedAt: "2026-05-21"
   - rank: 6
-    name: "おしり拭き 流せる シート 純水99.9% W保湿成分配合"
-    brand: "Lec.Be"
-    price: 2120
-    capacity: "60枚×15個"
-    pricePerUnit: "約2.4円/枚"
-    rating: 4.56
-    reviewCount: 372
-    features:
-      - "純水99.9%で肌に優しい処方"
-      - "流せるシートで処理が簡単"
-      - "W保湿成分配合でデリケート肌対応"
-    pros:
-      - "流せるタイプで処理が楽"
-      - "保湿成分配合で肌への優しさを両立"
-      - "リング加工でトイレ詰まりを防止"
-    cons:
-      - "流せる製品のため単価がやや高い"
-      - "詰まりのリスクがゼロではない"
-    recommendedFor: "処理の手軽さと肌への優しさの両立を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5d7n.3rdw6b76.g00s5d7n.3rdw7a8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect-2%2F4560319042413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect-2%2Fi%2F10003040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect-2/cabinet/img/e/e00975-2.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe241.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-28"
-        price: 2120
-        rating: 4.61
-        reviewCount: 1033
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
-        available: true
-  - rank: 7
     name: "おしりふき 厚手 菌99.9除去"
     brand: "レック"
     price: 2110
@@ -232,22 +199,22 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        price: 1920
+        price: 2110
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe170.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e170"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-01"
         rating: 4.7
         reviewCount: 963
-  - rank: 8
+  - rank: 7
     name: "おしりふき 厚手 水99.9% ネット限定デザイン"
     brand: "レック"
     price: 2310
     capacity: "60枚×15個"
     pricePerUnit: "約2.6円/枚"
     rating: 4.84
-    reviewCount: 2697
+    reviewCount: 2698
     features:
       - "99.9%の純水成分で肌に優しい"
       - "厚手シートで吸収性が優れている"
@@ -267,12 +234,45 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanamaru1%2Fq267qcvncv70b.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-01"
         price: 2431
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanamaru1_q267qcvncv70b"
         available: true
         rating: 0
         reviewCount: 0
+  - rank: 8
+    name: "おしり拭き 流せる シート 純水99.9% W保湿成分配合"
+    brand: "Lec.Be"
+    price: 2330
+    capacity: "60枚×15個"
+    pricePerUnit: "約2.6円/枚"
+    rating: 4.56
+    reviewCount: 372
+    features:
+      - "純水99.9%で肌に優しい処方"
+      - "流せるシートで処理が簡単"
+      - "W保湿成分配合でデリケート肌対応"
+    pros:
+      - "流せるタイプで処理が楽"
+      - "保湿成分配合で肌への優しさを両立"
+      - "リング加工でトイレ詰まりを防止"
+    cons:
+      - "流せる製品のため単価がやや高い"
+      - "詰まりのリスクがゼロではない"
+    recommendedFor: "処理の手軽さと肌への優しさの両立を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5d7n.3rdw6b76.g00s5d7n.3rdw7a8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect-2%2F4560319042413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect-2%2Fi%2F10003040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect-2/cabinet/img/e/e00975-2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe241.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-01"
+        price: 2330
+        rating: 4.61
+        reviewCount: 1033
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
+        available: true
   - rank: 9
     name: "おしり拭き 流せる シート 菌99.9除去"
     brand: "レック"
@@ -280,7 +280,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.6円/枚"
     rating: 4.42
-    reviewCount: 1650
+    reviewCount: 1651
     features:
       - "トイレに流せる素材で処理が簡単"
       - "菌を99.9%除去する除菌効果"
@@ -298,12 +298,12 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        price: 2120
+        price: 2330
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe241.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-01"
         rating: 4.61
         reviewCount: 1033
   - rank: 10

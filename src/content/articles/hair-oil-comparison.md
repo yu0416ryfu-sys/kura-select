@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-08-01"
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "75mL"
     pricePerUnit: "約15円/mL"
     rating: 4.75
-    reviewCount: 2893
+    reviewCount: 2895
     features:
       - "無香料タイプの洗い流さないヘアエッセンス（オイルタイプ）"
       - "天然由来成分配合でくせ毛・うねりに対応したしっとり仕上がり設計"
@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6016812.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-16"
+        updatedAt: "2026-08-01"
         price: 2573
         rating: 4.4
         reviewCount: 15
@@ -124,7 +124,7 @@ products:
     capacity: "150mL"
     pricePerUnit: "約20円/mL"
     rating: 4.55
-    reviewCount: 1080
+    reviewCount: 1082
     features:
       - "100%植物由来成分（スクワラン・アルガンオイル・ホホバオイル配合）"
       - "濡れ髪・乾いた髪どちらにも使えるアウトバスオイル"
@@ -178,7 +178,7 @@ products:
     capacity: "80mL"
     pricePerUnit: "約29円/mL"
     rating: 4.64
-    reviewCount: 13707
+    reviewCount: 13717
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -211,7 +211,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約35円/mL"
     rating: 4.64
-    reviewCount: 3820
+    reviewCount: 3835
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"
@@ -266,7 +266,7 @@ products:
     capacity: "50mL"
     pricePerUnit: "約66円/mL"
     rating: 4.59
-    reviewCount: 2539
+    reviewCount: 2540
     features:
       - "ドライヤー後の乾いた髪に使う仕上げ用ヘアオイル"
       - "ツヤと潤いを与えながらボリューム感も保つ設計"

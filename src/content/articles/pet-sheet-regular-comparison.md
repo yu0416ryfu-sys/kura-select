@@ -4,7 +4,7 @@ description: "犬猫用ペットシーツのレギュラーサイズを1枚あ�
 category: "pet-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-07-30"
+updatedAt: "2026-08-01"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "レギュラー 800枚"
     pricePerUnit: "約4.98円/枚"
     rating: 4.5
-    reviewCount: 5629
+    reviewCount: 5630
     features:
       - "日常交換に使いやすい薄型タイプ"
       - "レギュラーサイズを選べるペット用トイレシート"
@@ -28,7 +28,7 @@ products:
       - "購入時にレギュラーサイズを選択しているか確認が必要"
     recommendedFor: "薄型をこまめに交換して使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10025751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10025751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/campaign/55103458ku_1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo6/r673_00472.jpg?_ex=128x128"
     offers:
       - provider: "amazon"
         label: "Amazon"
@@ -76,7 +76,7 @@ products:
     capacity: "レギュラー 800枚"
     pricePerUnit: "約5.6円/枚"
     rating: 4.49
-    reviewCount: 45355
+    reviewCount: 45363
     features:
       - "薄型のペット用トイレシート"
       - "レギュラーサイズを選べる"
@@ -116,11 +116,11 @@ products:
   - rank: 5
     name: "ペットシーツ 厚型 レギュラー"
     brand: "Pet館"
-    price: 3980
+    price: 4680
     capacity: "レギュラー 400枚"
     pricePerUnit: "約11.2円/枚"
     rating: 4.3
-    reviewCount: 6573
+    reviewCount: 6575
     features:
       - "吸収量を重視した厚型タイプ"
       - "レギュラーサイズを選べるペット用トイレシート"

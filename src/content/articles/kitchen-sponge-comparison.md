@@ -4,7 +4,7 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-08-01"
 products:
   - rank: 1
     name: "セルロース製 食器洗いスポンジ 6個パック SDGs プラスチックフリー"
@@ -12,8 +12,8 @@ products:
     price: 870
     capacity: "6個"
     pricePerUnit: "約145円/個"
-    rating: 4.55
-    reviewCount: 177
+    rating: 4.56
+    reviewCount: 178
     features:
       - "天然セルロース素材でプラスチックフリーの環境配慮設計"
       - "吸水性が高く使用後の乾きが速い"
@@ -35,7 +35,7 @@ products:
     capacity: "6個（約6ヶ月分）"
     pricePerUnit: "約177円/個"
     rating: 4.78
-    reviewCount: 9879
+    reviewCount: 9880
     features:
       - "3層構造で泡立ち・水切れ・耐久性を両立"
       - "楽天レビュー数トップクラスの圧倒的人気"
@@ -68,7 +68,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.75
-    reviewCount: 1363
+    reviewCount: 1364
     features:
       - "ポリウレタンフォーム＋ナイロン不織布＋ポリエステルの3素材構造"
       - "ブラック・グレー・ホワイトのモノトーン3色展開"
@@ -90,7 +90,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.8
-    reviewCount: 507
+    reviewCount: 508
     features:
       - "ポリエステル＋ウレタンフォームのハードタイプ構造"
       - "3色パック×2セットのカラフルな6個組"
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funmaison%2F19311003.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-08-01"
         price: 880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unmaison_19311003"
         available: true
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurashikaiteki-pro%2F10000528.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-08-01"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurashikaiteki-pro_10000528"
         available: true
@@ -286,10 +286,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsunsunsponge%2Ftss08b.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-08-01"
         price: 3073
         rating: 4.86
-        reviewCount: 255
+        reviewCount: 256
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sunsunsponge_tss08b"
         available: true
 tags:

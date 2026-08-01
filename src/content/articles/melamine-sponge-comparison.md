@@ -199,8 +199,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fyy5504.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
-        price: 5649
+        updatedAt: "2026-08-01"
+        price: 6582
         rating: 5
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_yy5504"
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F103-m006-4903320579101.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-26"
+        updatedAt: "2026-08-01"
         price: 761
         rating: 0
         reviewCount: 0
@@ -320,7 +320,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758956223-1-d.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-08-01"
         price: 305
         rating: 0
         reviewCount: 2

@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-07-25"
+updatedAt: "2026-08-01"
 products:
   - rank: 1
     name: "メキシコダウニー アロマフローラル 8.5L×2本"
@@ -141,9 +141,9 @@ products:
   - rank: 5
     name: "ランドリン 柔軟剤 グッドティータイム"
     brand: "ランドリン（Laundrin）"
-    price: 800
+    price: 877
     capacity: "600mL"
-    pricePerUnit: "約1.3円/mL"
+    pricePerUnit: "約1.5円/mL"
     rating: 4.63
     reviewCount: 178
     features:
