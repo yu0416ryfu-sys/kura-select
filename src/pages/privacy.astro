@@ -10,7 +10,7 @@ import { url } from "../lib/site";
 >
   <Container class="py-12 md:py-16 max-w-3xl">
     <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)] mb-2">プライバシーポリシー</h1>
-    <p class="text-sm text-[var(--color-text-sub)] mb-8">最終更新日: 2026年6月5日</p>
+    <p class="text-sm text-[var(--color-text-sub)] mb-8">最終更新日: 2026年8月1日</p>
 
     <div class="space-y-8 text-[var(--color-text)] leading-relaxed">
       <!-- TODO: サイト運営者の名前・連絡先を記入してください -->
@@ -75,7 +75,25 @@ import { url } from "../lib/site";
       </section>
 
       <section>
-        <h2 class="text-xl font-bold mb-3">7. 個人情報の管理</h2>
+        <h2 class="text-xl font-bold mb-3">7. 第三者配信の広告サービスについて</h2>
+        <p>
+          当サイトは、第三者配信の広告サービス「Google AdSense」を利用する場合があります。
+          Google などの第三者配信事業者は、Cookie を使用して、
+          ユーザーが当サイトや他のサイトに過去にアクセスした際の情報に基づいて広告を配信します。
+        </p>
+        <p class="mt-3">
+          パーソナライズ広告は
+          <a href="https://myadcenter.google.com/" class="text-[var(--color-primary)] hover:underline" rel="noopener noreferrer" target="_blank">Google の広告設定</a>から無効にできます。
+          また、
+          <a href="https://optout.aboutads.info/" class="text-[var(--color-primary)] hover:underline" rel="noopener noreferrer" target="_blank">aboutads.info</a>
+          から第三者配信事業者の Cookie を無効化することも可能です。
+          Google が広告で情報を使用する方法については
+          <a href="https://policies.google.com/technologies/ads" class="text-[var(--color-primary)] hover:underline" rel="noopener noreferrer" target="_blank">Google のポリシーと規約</a>をご確認ください。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">8. 個人情報の管理</h2>
         <p>
           収集した個人情報は適切に管理し、以下の場合を除き第三者に提供しません：
         </p>
@@ -86,7 +104,7 @@ import { url } from "../lib/site";
       </section>
 
       <section>
-        <h2 class="text-xl font-bold mb-3">8. お問い合わせ</h2>
+        <h2 class="text-xl font-bold mb-3">9. お問い合わせ</h2>
         <!-- TODO: お問い合わせ先を記入してください -->
         <p>
           プライバシーポリシーに関するお問い合わせは、<a href={url("/contact")} class="text-[var(--color-primary)] hover:underline">お問い合わせページ</a>からご連絡ください。
