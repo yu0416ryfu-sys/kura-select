@@ -1,6 +1,6 @@
 ---
-title: "除湿剤 コスパ最強ランキング【2026年版】おすすめ10選｜タンク型を比較"
-description: "除湿剤おすすめ10選を吸湿量1mLあたりの単価で徹底比較。水とりぞうさん・ドライペット・激乾など、タンクタイプの人気商品を容量・消臭機能・使いやすさで解説します。"
+title: "除湿剤 コスパ最強ランキング【2026年版】おすすめ9選｜タンク型を比較"
+description: "除湿剤おすすめ9選を吸湿量1mLあたりの単価で徹底比較。水とりぞうさん・ドライペット・激乾など、タンクタイプの人気商品を容量・消臭機能・使いやすさで解説します。"
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
@@ -204,28 +204,6 @@ products:
     recommendedFor: "標準的なクローゼットや衣装ケースに使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ssuan.3rdw6ccc.g00ssuan.3rdw7316/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkohnan-eshop%2F4522831781188%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkohnan-eshop%2Fi%2F10122355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kohnan-eshop/cabinet/goods/201812/s5/4522831781188.jpg?_ex=128x128"
-  - rank: 10
-    name: "ドライペット スキット 420mL×36個"
-    brand: "エステー（ドライペット）"
-    price: 0
-    capacity: "420mL×36個（15,120mL分）"
-    pricePerUnit: "0円/mL"
-    rating: 4.65
-    reviewCount: 20
-    features:
-      - "タンクタイプの標準的な吸湿量を持つ使い捨てタイプ"
-      - "3個パックをまとめたケース販売の規格"
-      - "押し入れ・クローゼットなど汎用の設置場所に対応"
-    pros:
-      - "ケース単位で買えるため複数箇所にまとめて設置しやすい"
-      - "詰め替えや天日干しの手間がなく交換だけで済む"
-      - "湿気の多い時期にストックを切らしにくい"
-    cons:
-      - "使い捨てのため定期的な買い足しが必要"
-      - "まとめ買いのぶん保管スペースを使う"
-    recommendedFor: "家じゅう複数箇所に置きたい方・交換の手間を減らしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F558730%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11167060%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/730/558730.jpg?_ex=128x128"
 tags:
   - "除湿剤 おすすめ"
   - "除湿剤 コスパ"
