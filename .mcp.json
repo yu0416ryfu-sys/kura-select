@@ -17,6 +17,10 @@
       "env": {
         "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\yu041\\.config\\kura-select\\service-account.json"
       }
+    },
+    "bing": {
+      "command": "node",
+      "args": ["scripts/mcp/bing-mcp.mjs"]
     }
   }
 }
