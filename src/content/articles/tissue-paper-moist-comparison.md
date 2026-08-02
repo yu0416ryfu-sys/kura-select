@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌触りとコス
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frcmdsp%2Fkr-4902011711400.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-08-02"
         price: 850
         rating: 0
         reviewCount: 0
@@ -144,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758946401-1-d.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-02"
         price: 359
         rating: 0
         reviewCount: 2
@@ -195,11 +195,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw89n.3rdw62e9.g00tw89n.3rdw7e13/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeyroom-hida%2Fkeyroom-10000333%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeyroom-hida%2Fi%2F10000279%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keyroom-hida/cabinet/11236817/imgrc0085650332.jpg?_ex=128x128"
   - rank: 8
-    name: "ダイレイ プレミアムふんわか 保湿ティッシュ 6個組"
+    name: "ダイレイ プレミアムふんわか ローションティシュ 12個組"
     brand: "ダイレイ"
-    price: 127
-    capacity: "6個組"
-    pricePerUnit: "約21円/個"
+    price: 220
+    capacity: "12個組"
+    pricePerUnit: "約18円/個"
     rating: 5
     reviewCount: 4
     features:
@@ -214,8 +214,8 @@ products:
       - "大手ブランドほどの知名度はない"
       - "厚みや風合いの好みは分かれる"
     recommendedFor: "保湿タイプをコスパ重視で使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901988104055%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10110041%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/j/4901988104055.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901988107094%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10707755%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/d/ddd/1_000000023577.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

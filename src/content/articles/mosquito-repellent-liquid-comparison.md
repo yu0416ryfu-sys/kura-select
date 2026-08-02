@@ -4,7 +4,7 @@ description: "電気式（プラグ式）液体蚊取りの取替えボトルを
 category: "mosquito-repellent-liquid"
 publishedAt: "2026-06-13"
 articleType: "comparison"
-updatedAt: "2026-06-16"
+updatedAt: "2026-08-02"
 draft: false
 products:
   - rank: 1
@@ -29,14 +29,25 @@ products:
     recommendedFor: "無香料タイプの取替えボトルをコスパ重視で選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe049873h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10205931%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/134/4902424427134.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4902424427134.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-02"
+        price: 1398
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4902424427134"
+        available: true
   - rank: 2
     name: "ノーマット 取替えボトル 90日用 微香性"
     brand: "アース製薬"
-    price: 2042
+    price: 2068
     capacity: "90日用×2本（180日）"
     pricePerUnit: "約11円/日"
-    rating: 4.29
-    reviewCount: 7
+    rating: 5
+    reviewCount: 1
     features:
       - "1本で長期間使えるロングタイプの取替えボトル"
       - "プラグ式ノーマット器具に対応した液体式タイプ"
@@ -49,14 +60,14 @@ products:
       - "無香タイプを好む方には香りが気になる場合がある"
       - "1本あたりの購入単価はやや高め"
     recommendedFor: "交換の手間を減らして長期間使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa002200200445%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10117156%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/417/4901080121417.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4901080121417%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10529670%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0005/4901080121417_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhcvalor%2Fvh-2162902907264.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-14"
+        updatedAt: "2026-08-02"
         price: 4071
         rating: 0
         reviewCount: 0
@@ -111,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F101-x010-4901080120113.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-08-02"
         price: 16119
         rating: 0
         reviewCount: 0

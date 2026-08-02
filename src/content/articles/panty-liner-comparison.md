@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbenkyoudou%2Fso-4903111364244.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 314
         rating: 5
         reviewCount: 3
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4903111364244.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-02"
         price: 246
         rating: 0
         reviewCount: 1
@@ -122,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4903111375677.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-02"
         price: 328
         rating: 0
         reviewCount: 0
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flamp%2Fkasar-13.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-02"
         price: 740
         rating: 0
         reviewCount: 0
@@ -188,8 +188,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903111316083.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
-        price: 283
+        updatedAt: "2026-08-02"
+        price: 286
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903111316083"

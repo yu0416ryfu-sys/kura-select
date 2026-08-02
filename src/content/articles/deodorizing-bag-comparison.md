@@ -4,7 +4,7 @@ description: "おむつ・生ゴミ用の防臭袋おすすめ10選をコスパ�
 category: "deodorizing-bag"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 draft: false
 products:
   - rank: 1
@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2Fpphalf300.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-29"
-        price: 1140
+        updatedAt: "2026-08-02"
+        price: 1135
         rating: 4.84
-        reviewCount: 915
+        reviewCount: 918
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_pphalf300"
         available: true
   - rank: 2
@@ -47,7 +47,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約6.6円/枚"
     rating: 4.51
-    reviewCount: 312
+    reviewCount: 313
     features:
       - "袋の口が広く作られた汎用タイプの防臭袋"
       - "おむつと生ゴミの両方を想定した仕様"
@@ -69,7 +69,7 @@ products:
     capacity: "200枚"
     pricePerUnit: "約8.1円/枚"
     rating: 4.85
-    reviewCount: 5582
+    reviewCount: 5583
     features:
       - "医療向け開発素材を使ったクリロン化成の防臭袋シリーズ"
       - "新生児のおむつやペットのうんちを想定した小さめサイズ"
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b020a.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-02"
         price: 2970
         rating: 4.88
         reviewCount: 98
@@ -122,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurusatochoice%2F5681229.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 13000
         rating: 0
         reviewCount: 0
@@ -177,7 +177,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b002a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 1909
         rating: 4.86
         reviewCount: 772
@@ -210,7 +210,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b003a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 1375
         rating: 4.83
         reviewCount: 392
@@ -243,10 +243,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-1094.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 2616
         rating: 4.89
-        reviewCount: 72
+        reviewCount: 73
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bos-shop_bos-1094"
         available: true
   - rank: 9
@@ -256,7 +256,7 @@ products:
     capacity: "90枚"
     pricePerUnit: "約19円/枚"
     rating: 4.83
-    reviewCount: 1640
+    reviewCount: 1641
     features:
       - "大人用おむつや介護用途を想定した大きめサイズ"
       - "パッド類やリハビリパンツも入れられる寸法"
@@ -276,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b004a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 1694
         rating: 4.81
         reviewCount: 487
@@ -309,7 +309,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b005a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 1650
         rating: 4.85
         reviewCount: 189

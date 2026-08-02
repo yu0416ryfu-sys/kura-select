@@ -4,17 +4,17 @@ description: "サントリー・アサヒ・エビアンなど人気の天然水
 category: "mineral-water"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 draft: false
 products:
   - rank: 1
     name: "LDC 自然の恵み 国産天然水 2L×12本"
     brand: "LDC"
-    price: 1896
+    price: 1880
     capacity: "2L×12本（24L）"
-    pricePerUnit: "約79円/L"
-    rating: 4.84
-    reviewCount: 293
+    pricePerUnit: "約78円/L"
+    rating: 4
+    reviewCount: 3
     features:
       - "栃木県産の国産軟水・硬度45mg/Lの超軟水"
       - "赤ちゃんのミルク調乳・離乳食にも適した水質"
@@ -27,8 +27,8 @@ products:
       - "大手ブランドに比べ知名度が低い"
       - "地域によっては送料が別途かかる場合がある"
     recommendedFor: "赤ちゃんがいる家庭・コスパ重視で備蓄用の水を探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sykbn.3rdw6534.g00sykbn.3rdw7b04/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjyonetsubatake%2F1144-c1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjyonetsubatake%2Fi%2F10000166%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jyonetsubatake/cabinet/item/drink/naturalmineralwater/1144-c1_m_r3.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r685n.3rdw6e25.g00r685n.3rdw7405/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyou2han%2F10002791%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyou2han%2Fi%2F10002791%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/you2han/cabinet/dk/life2000-001.jpg?_ex=128x128"
   - rank: 2
     name: "安曇野ミネラルウォーター 北アルプス 2L×6本"
     brand: "安曇野"
@@ -52,6 +52,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7169488%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10180096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tenposupport08/4571454860046.jpg?_ex=128x128"
   - rank: 3
+    name: "アサヒ おいしい水 天然水 ラベルレスボトル 2L×9本"
+    brand: "アサヒ飲料"
+    price: 1643
+    capacity: "2L×9本（18L）"
+    pricePerUnit: "約91円/L"
+    rating: 4.41
+    reviewCount: 22
+    features:
+      - "ラベルを貼り付けないラベルレスボトルでリサイクルが簡単"
+      - "軟水・弱アルカリ性（pH8前後）"
+      - "18本入り大容量パックで一度のまとめ買いに対応"
+    pros:
+      - "ラベルをはがす手間がなくそのままプラスチック資源として出せる"
+      - "大容量まとめ買いでコスパが高く、まとめ置きしやすい"
+      - "やわらかく飲みやすい口当たりで日常使いに向いている"
+    cons:
+      - "ラベルがないため他商品と見分けがつきにくい場合がある"
+      - "18本入り大箱のため収納スペースがある程度必要"
+    recommendedFor: "エコ意識が高い方・ストック場所に余裕があり大量購入したいご家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4514603380606%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10890405%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/606/4514603380606.jpg?_ex=128x128"
+  - rank: 4
     name: "サントリー天然水 南アルプス 2L×12本"
     brand: "サントリー"
     price: 2280
@@ -73,14 +95,14 @@ products:
     recommendedFor: "毎日の飲料水として安心感のあるブランドを選びたいご家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00twmen.3rdw6441.g00twmen.3rdw7e0a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzu-onlineshop%2F2255-001097%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuzu-onlineshop%2Fi%2F10000389%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suzu-onlineshop/cabinet/compass1691726585.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "楽天オリジナル 天然水 500mL×24本"
     brand: "楽天オリジナル"
     price: 1310
     capacity: "500mL×24本（12L）"
     pricePerUnit: "約109円/L"
     rating: 4.69
-    reviewCount: 1661
+    reviewCount: 1674
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"
@@ -95,7 +117,7 @@ products:
     recommendedFor: "持ち運び用・職場や学校へのストックに使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqzrn.3rdw615b.g00uqzrn.3rdw7efd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenoriginal-daily%2Fro-b-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenoriginal-daily%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenoriginal-daily/cabinet/item/water/ro-b-001_e_v2.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 6
     name: "いろはす 天然水 ラベルレス"
     brand: "コカコーラ（いろはす）"
     price: 1870
@@ -117,7 +139,7 @@ products:
     recommendedFor: "エコ意識でラベルレスボトルの天然水を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tko0n.3rdw6dd0.g00tko0n.3rdw7f7e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmita-house%2F10000028%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmita-house%2Fi%2F10000028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mita-house/cabinet/compass1694495531.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 7
     name: "クリスタルガイザー 天然水"
     brand: "Crystal Geyser"
     price: 3480
@@ -150,28 +172,6 @@ products:
         reviewCount: 575
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/meshiya_001-0010-001-spu1712"
         available: true
-  - rank: 7
-    name: "アサヒ おいしい水 天然水 ラベルレスボトル 2L×18本"
-    brand: "アサヒ飲料"
-    price: 5209
-    capacity: "2L×18本（36L）"
-    pricePerUnit: "約145円/L"
-    rating: 4
-    reviewCount: 1
-    features:
-      - "ラベルを貼り付けないラベルレスボトルでリサイクルが簡単"
-      - "軟水・弱アルカリ性（pH8前後）"
-      - "18本入り大容量パックで一度のまとめ買いに対応"
-    pros:
-      - "ラベルをはがす手間がなくそのままプラスチック資源として出せる"
-      - "大容量まとめ買いでコスパが高く、まとめ置きしやすい"
-      - "やわらかく飲みやすい口当たりで日常使いに向いている"
-    cons:
-      - "ラベルがないため他商品と見分けがつきにくい場合がある"
-      - "18本入り大箱のため収納スペースがある程度必要"
-    recommendedFor: "エコ意識が高い方・ストック場所に余裕があり大量購入したいご家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pifhn.3rdw6a3e.g00pifhn.3rdw7cc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakae%2F4514603380606-2c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakae%2Fi%2F10036447%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakae/cabinet/img023/4514603380606-2c.jpg?_ex=128x128"
   - rank: 8
     name: "かぞく想いの天然水 硝酸態窒素ゼロ 2L×12本"
     brand: "かぞく想いの天然水"
@@ -195,13 +195,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi1bn.3rdw68ab.g00qi1bn.3rdw793b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmsty1018%2F4997150132216-12pcs%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmsty1018%2Fi%2F10001637%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/msty1018/cabinet/mineralwater/4997150132216-12pcs.jpg?_ex=128x128"
   - rank: 9
-    name: "ボルヴィック 天然水 500mL×24本"
+    name: "ボルヴィック 天然水 500mL×48本"
     brand: "Volvic"
-    price: 2750
-    capacity: "500mL×24本（12L）"
-    pricePerUnit: "約229円/L"
-    rating: 4.43
-    reviewCount: 554
+    price: 5110
+    capacity: "500mL×48本（24L）"
+    pricePerUnit: "約213円/L"
+    rating: 4.73
+    reviewCount: 33
     features:
       - "フランス・オーヴェルニュ地方の火山岩フィルターを通った軟水（pH7.0）"
       - "ケイ酸（シリカ）を含み硬度60mg/Lの軟水"
@@ -214,8 +214,8 @@ products:
       - "国産水に比べ価格が高め"
       - "並行輸入品は正規品と保管・流通管理が異なる場合がある"
     recommendedFor: "海外の水が好きだが硬水は苦手な方・シリカ含有水を探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fs00400%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10000970%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/syoku/drink/s01087.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qj33n.3rdw67f0.g00qj33n.3rdw7fff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhobbytoy%2F9416005-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhobbytoy%2Fi%2F10139402%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hobbytoy/cabinet/10126285/imgrc0119085333.jpg?_ex=128x128"
   - rank: 10
     name: "エビアン 天然水 硬水 500mL×24本"
     brand: "evian"

@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ10選を1枚あたり単
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 products:
   - rank: 1
     name: "ノンアルコール 99%除菌ウェットティッシュ"
@@ -33,10 +33,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmarubeni-forestlinx%2Fjyokin-99.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-02"
         price: 4980
-        rating: 4.81
-        reviewCount: 59
+        rating: 4.82
+        reviewCount: 60
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/marubeni-forestlinx_jyokin-99"
         available: true
   - rank: 2
@@ -46,7 +46,7 @@ products:
     capacity: "80枚×15個"
     pricePerUnit: "約2.0円/枚"
     rating: 4.69
-    reviewCount: 4676
+    reviewCount: 4679
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -66,12 +66,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
-        price: 2180
+        updatedAt: "2026-08-02"
+        price: 2390
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
         available: true
         rating: 4.67
-        reviewCount: 1018
+        reviewCount: 1019
   - rank: 3
     name: "おしりふき 手口ふき シンプル"
     brand: "子育て日和"
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903111459049.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-02"
         price: 1077
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903111459049"
         available: true
@@ -154,8 +154,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F1920418f.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
-        price: 4780
+        updatedAt: "2026-08-02"
+        price: 4280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_1920418f"
         available: true
         rating: 4.6
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100996.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-02"
         price: 4620
         rating: 4.88
         reviewCount: 17
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F89874.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-02"
         price: 6989
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_89874"
         available: true
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4903301291022.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-02"
         price: 205
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4903301291022"
         available: true
@@ -287,8 +287,8 @@ products:
     price: 2980
     capacity: "96枚"
     pricePerUnit: "約31円/枚"
-    rating: 4.36
-    reviewCount: 362
+    rating: 4.37
+    reviewCount: 363
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"

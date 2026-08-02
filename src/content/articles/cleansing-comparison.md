@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 products:
   - rank: 1
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
@@ -12,8 +12,8 @@ products:
     price: 1300
     capacity: "180mL"
     pricePerUnit: "約7.2円/mL"
-    rating: 4.63
-    reviewCount: 8
+    rating: 4.67
+    reviewCount: 9
     features:
       - "セラミドケア処方で洗いながら潤いを守る"
       - "敏感肌・乾燥肌向けに設計された低刺激フォーム"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsup-s%2Fyah20250207-curel.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-02"
         price: 1390
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sup-s_yah20250207-curel"
         available: true
@@ -207,7 +207,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdhc%2F8000023597.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-02"
         price: 2717
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dhc_8000023597"
         available: true
@@ -242,7 +242,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3211
+    reviewCount: 3213
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"
@@ -262,7 +262,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true
@@ -275,7 +275,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約44円/mL"
     rating: 4.57
-    reviewCount: 1683
+    reviewCount: 1684
     features:
       - "発酵オイルを配合したクレンジングオイル"
       - "W洗顔不要でメイクと毛穴汚れを落とす"

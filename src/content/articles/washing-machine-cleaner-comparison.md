@@ -4,7 +4,7 @@ description: "洗濯槽クリーナーを1回あたりのコストで徹底比�
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 products:
   - rank: 1
     name: "過炭酸ナトリウム 酸素系漂白剤 950g"
@@ -13,7 +13,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.63円/g"
     rating: 4.76
-    reviewCount: 2032
+    reviewCount: 2033
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "pH10.5のアルカリ性で汚れに働きかける"
@@ -46,7 +46,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.75円/g"
     rating: 4.64
-    reviewCount: 1428
+    reviewCount: 1429
     features:
       - "酸素系漂白剤で洗濯槽以外にも多用途"
       - "界面活性剤入りで洗浄力を強化（日本版）"
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurashikaiteki-pro%2F10000168.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-08-02"
         price: 4345
         rating: 4.21
         reviewCount: 34
@@ -218,11 +218,11 @@ products:
   - rank: 9
     name: "洗濯槽快 2個入 ホタテ貝殻素材"
     brand: "くらし快適ショップ"
-    price: 1155
+    price: 1210
     capacity: "2個入り（新ネット付）"
-    pricePerUnit: "約578円/個"
-    rating: 4.33
-    reviewCount: 409
+    pricePerUnit: "約605円/個"
+    rating: 4.3
+    reviewCount: 186
     features:
       - "ホタテ貝殻を原料とした天然素材系クリーナー"
       - "カビ防止・除菌・消臭の3つの機能を持つ"
@@ -235,7 +235,7 @@ products:
       - "ホタテ貝殻素材の効果には個人差がある"
       - "まとめ買いより割高になる場合がある"
     recommendedFor: "天然素材クリーナーを初めて試したい方・少量から始めたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbcon.3rdw6193.g00rbcon.3rdw7b41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikaiteki-shop%2F10000770%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikaiteki-shop%2Fi%2F10010285%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbcon.3rdw6193.g00rbcon.3rdw7b41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikaiteki-shop%2F10000098%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikaiteki-shop%2Fi%2F10010198%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikaiteki-shop/cabinet/imgrc0091514723.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"

@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 draft: false
 products:
   - rank: 1
@@ -151,7 +151,7 @@ products:
     capacity: "100ml"
     pricePerUnit: "約11円/mL"
     rating: 4.49
-    reviewCount: 237
+    reviewCount: 239
     features:
       - "天然精油9種類を配合した合成殺虫成分不使用の虫よけスプレー"
       - "レモングラス・ラベンダー・ユーカリ・ヒノキなど天然アロマをブレンド"
@@ -239,7 +239,7 @@ products:
     capacity: "30ml×2本＋15ml×1本（75ml）"
     pricePerUnit: "約15円/ml"
     rating: 4.25
-    reviewCount: 787
+    reviewCount: 788
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -255,28 +255,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qfl9n.3rdw60bc.g00qfl9n.3rdw7fb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fease-aroma%2F10002751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fease-aroma%2Fi%2F10002751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ease-aroma/cabinet/spray/spray3hon_s_01.jpg?_ex=128x128"
   - rank: 9
-    name: "バルサン 虫除けスプレー 携帯用 100mL"
-    brand: "レック（バルサン）"
-    price: 1518
-    capacity: "100mL"
-    pricePerUnit: "約15円/mL"
-    rating: 3
-    reviewCount: 1
-    features:
-      - "イカリジン15%配合で8時間効果が持続する防除用医薬部外品"
-      - "汗に強い処方でアウトドア・キャンプでの使用に向く"
-      - "バルサンブランドの携帯用スプレー"
-    pros:
-      - "汗に強い処方でレジャー・スポーツ時にも使いやすい"
-      - "携帯しやすいサイズでバッグに入れて持ち運べる"
-      - "バルサンブランドで購入しやすく試しやすい"
-    cons:
-      - "100mLと小容量のため自宅での日常使いにはコストがかかる"
-      - "携帯向け設計のため家族分をまかなうには複数本必要"
-    recommendedFor: "アウトドアやキャンプで携帯できる虫除けスプレーを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5d7n.3rdw6b76.g00s5d7n.3rdw7a8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect-2%2F4580543943171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect-2%2Fi%2F10004038%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect-2/cabinet/img/v/4580543943171.jpg?_ex=128x128"
-  - rank: 10
     name: "パーフェクトポーション アウトドアボディスプレー 100mL"
     brand: "PERFECT POTION"
     price: 1870

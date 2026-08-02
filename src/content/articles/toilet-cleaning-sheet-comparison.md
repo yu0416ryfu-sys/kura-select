@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10137083.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-02"
         price: 206
         rating: 4.5
         reviewCount: 4
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale%2F4988787090024-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-02"
         price: 1680
         rating: 4.49
         reviewCount: 43
@@ -151,39 +151,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_4901301510808"
         available: true
   - rank: 6
-    name: "エリエール ミチガエル トイレクリーナー 本体"
-    brand: "大王製紙（エリエール）"
-    price: 252
-    capacity: "10枚"
-    pricePerUnit: "約25円/枚"
-    rating: 4.89
-    reviewCount: 9
-    features:
-      - "厚手のトイレ用掃除シート"
-      - "本体容器付きタイプ"
-      - "トイレまわりの拭き掃除に使える"
-    pros:
-      - "初めて使うときに選びやすい本体セット"
-      - "厚手シートで広い範囲を拭きやすい"
-      - "容器に保管して取り出しやすい"
-    cons:
-      - "詰め替え用だけを買う場合より容器分の保管場所が必要"
-      - "使用できる場所をパッケージで確認する必要がある"
-    recommendedFor: "本体容器付きの厚手シートから使い始めたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902011730739-kksale%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10319586%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4902011730739.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhome-life%2F101-30881.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-21"
-        price: 333
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-30881"
-        available: true
-  - rank: 7
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 単品"
     brand: "花王（クイックル）"
     price: 548
@@ -205,7 +172,7 @@ products:
     recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000692%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10122468%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/424/4901301233424.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 2個セット"
     brand: "花王（クイックル）"
     price: 1082
@@ -238,7 +205,7 @@ products:
         reviewCount: 55
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_13193"
         available: true
-  - rank: 9
+  - rank: 8
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 6袋セット"
     brand: "花王（クイックル）"
     price: 3259
@@ -270,6 +237,39 @@ products:
         rating: 4.4
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksstore-yh_2734-000777"
+        available: true
+  - rank: 9
+    name: "エリエール ミチガエル トイレクリーナー 本体 10枚"
+    brand: "大王製紙（エリエール）"
+    price: 301
+    capacity: "10枚"
+    pricePerUnit: "約30円/枚"
+    rating: 4.83
+    reviewCount: 6
+    features:
+      - "厚手のトイレ用掃除シート"
+      - "本体容器付きタイプ"
+      - "トイレまわりの拭き掃除に使える"
+    pros:
+      - "初めて使うときに選びやすい本体セット"
+      - "厚手シートで広い範囲を拭きやすい"
+      - "容器に保管して取り出しやすい"
+    cons:
+      - "詰め替え用だけを買う場合より容器分の保管場所が必要"
+      - "使用できる場所をパッケージで確認する必要がある"
+    recommendedFor: "本体容器付きの厚手シートから使い始めたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902011730739%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10002299%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4902011730739.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhome-life%2F101-30881.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-21"
+        price: 333
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-30881"
         available: true
   - rank: 10
     name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×6袋"

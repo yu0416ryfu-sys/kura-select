@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ10選を1回
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "60回分（50回＋10回）"
     pricePerUnit: "約21円/回"
     rating: 4.5
-    reviewCount: 7035
+    reviewCount: 7039
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -56,10 +56,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fulimalie%2F99jun24yjcs02.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-08-02"
         price: 4980
         rating: 4.56
-        reviewCount: 95
+        reviewCount: 96
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ulimalie_99jun24yjcs02"
         available: true
   - rank: 3
@@ -89,35 +89,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoco-yasashisaya%2Fsaimol01.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-08-02"
         price: 3780
         rating: 4.49
         reviewCount: 778
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coco-yasashisaya_saimol01"
         available: true
   - rank: 4
-    name: "簡易トイレ シートトイレ"
-    brand: "アクアタルク"
-    price: 1800
-    capacity: "50回分"
-    pricePerUnit: "約36円/回"
-    rating: 4.45
-    reviewCount: 4073
-    features:
-      - "吸水ポリマーを使ったシートタイプの凝固剤"
-      - "災害用・非常用として個包装で使いやすい構成"
-      - "国内製造による品質管理"
-    pros:
-      - "シートタイプで処理の手順がわかりやすい"
-      - "50回分で数日分の在宅備蓄に取り入れやすい"
-      - "リピート購入されている定番タイプ"
-    cons:
-      - "便座は付属せず既存トイレや簡易便座と併用する"
-      - "凝固スピードや使用感は環境で差が出る"
-    recommendedFor: "シートタイプの扱いやすさを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pn22n.3rdw67a9.g00pn22n.3rdw7e73/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faquatalk%2F10000314%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faquatalk%2Fi%2F10000314%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aquatalk/cabinet/shin/sheetoilet20-100/ssam3.jpg?_ex=128x128"
-  - rank: 5
     name: "レスキュートイレ119 非常用トイレ 100回分"
     brand: "オゾンアソシア"
     price: 3980
@@ -144,13 +122,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fozoneassocia%2Ftoilet100.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 3980
         rating: 4.25
         reviewCount: 208
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ozoneassocia_toilet100"
         available: true
-  - rank: 6
+  - rank: 5
     name: "非常用トイレ 100回分 半永久保存 防災トイレ"
     brand: "Life Reach"
     price: 4999
@@ -177,20 +155,20 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2F100pol1.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 4999
         rating: 4.5
         reviewCount: 960
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_100pol1"
         available: true
-  - rank: 7
+  - rank: 6
     name: "非常用トイレ 炭入り 100回分 半永久保存 防災トイレ"
     brand: "Life Reach"
     price: 4999
     capacity: "100回分"
     pricePerUnit: "約50円/回"
     rating: 4.64
-    reviewCount: 796
+    reviewCount: 797
     features:
       - "炭入り凝固剤でにおい対策に配慮したセット"
       - "凝固剤と汚物袋がそろった構成"
@@ -210,12 +188,34 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2Fps-100.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 4999
         rating: 4.53
         reviewCount: 608
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
         available: true
+  - rank: 7
+    name: "簡易トイレ シートトイレ"
+    brand: "アクアタルク"
+    price: 3000
+    capacity: "50回分"
+    pricePerUnit: "約60円/回"
+    rating: 4.45
+    reviewCount: 4073
+    features:
+      - "吸水ポリマーを使ったシートタイプの凝固剤"
+      - "災害用・非常用として個包装で使いやすい構成"
+      - "国内製造による品質管理"
+    pros:
+      - "シートタイプで処理の手順がわかりやすい"
+      - "50回分で数日分の在宅備蓄に取り入れやすい"
+      - "リピート購入されている定番タイプ"
+    cons:
+      - "便座は付属せず既存トイレや簡易便座と併用する"
+      - "凝固スピードや使用感は環境で差が出る"
+    recommendedFor: "シートタイプの扱いやすさを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pn22n.3rdw67a9.g00pn22n.3rdw7e73/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faquatalk%2F10000314%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faquatalk%2Fi%2F10000314%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aquatalk/cabinet/shin/sheetoilet20-100/ssam3.jpg?_ex=128x128"
   - rank: 8
     name: "簡易トイレ 防災士監修 20回分 コンパクトセット"
     brand: ""

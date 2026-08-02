@@ -1,10 +1,10 @@
 ---
-title: "コットン コスパ最強ランキング【2026年版】おすすめ9選｜1枚あたりで比較"
-description: "コットンを1枚あたりのコストで徹底比較。シルコット・ビオレ・大容量無印など人気9選を吸水性・肌触り・コスパ最強ランキングで解説。スキンケア毎日使いに最適な1袋が見つかります。"
+title: "コットン コスパ最強ランキング【2026年版】おすすめ8選｜1枚あたりで比較"
+description: "コットンを1枚あたりのコストで徹底比較。シルコット・ビオレ・大容量無印など人気8選を吸水性・肌触り・コスパ最強ランキングで解説。スキンケア毎日使いに最適な1袋が見つかります。"
 category: "cotton"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-07-29"
+updatedAt: "2026-08-02"
 products:
   - rank: 1
     name: "業務用フェイシャルコットン エステ化粧用"
@@ -62,39 +62,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbjkn.3rdw681d.g00qbjkn.3rdw7a7f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F7esthe-pro%2F10000740%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F7esthe-pro%2Fi%2F10000740%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/7esthe-pro/cabinet/esthe/goods_expendable_2/10445_88.jpg?_ex=128x128"
   - rank: 3
-    name: "業務用コットン"
-    brand: "エステタイム"
-    price: 2585
-    capacity: "900枚"
-    pricePerUnit: "約2.9円/枚"
-    rating: 4.85
-    reviewCount: 13
-    features:
-      - "エステサロン向けの化粧用コットン"
-      - "ローションパックやふき取りに使いやすいタイプ"
-      - "業務用としてストックしやすい構成"
-    pros:
-      - "毎日のケアで使用量が多い方に向いている"
-      - "家族で共用するストックとしても選びやすい"
-      - "ふき取りからパッティングまで幅広く使いやすい"
-    cons:
-      - "少量ずつ購入したい方には量が多く感じる場合がある"
-      - "収納場所を先に確認しておきたい"
-    recommendedFor: "使用頻度が高くストック重視で選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r4h2n.3rdw6775.g00r4h2n.3rdw7687/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Festhe-time%2Feye058%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Festhe-time%2Fi%2F10000304%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/esthe-time/cabinet/02514599/lineup/eye3000/cotton_p1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhenojikan%2Feye058.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-25"
-        price: 2585
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthenojikan_eye058"
-        available: true
-        rating: 0
-        reviewCount: 2
-  - rank: 4
     name: "業務用フェイシャルコットン"
     brand: "エステマート"
     price: 1782
@@ -127,7 +94,7 @@ products:
         available: true
         rating: 5
         reviewCount: 5
-  - rank: 5
+  - rank: 4
     name: "【1点限り！令和お試し価格】ユニ・チャーム シルコット うるうる コットン"
     brand: "ユニ・チャーム（シルコット）"
     price: 360
@@ -160,7 +127,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 6
+  - rank: 5
     name: "フェイシャルコットンパッド"
     brand: "Luvum"
     price: 400
@@ -182,7 +149,7 @@ products:
     recommendedFor: "コットンパッドを少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5myn.3rdw6d6d.g00u5myn.3rdw7a77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyeppeuda%2Fluvum-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyeppeuda%2Fi%2F10000127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yeppeuda/cabinet/luvum/luvum_00/luvum-4_00.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "フェイシャルコットンパッド セット"
     brand: "Luvum"
     price: 2000
@@ -204,7 +171,7 @@ products:
     recommendedFor: "韓国コスメ系のコットンパッドをまとめて使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5myn.3rdw6d6d.g00u5myn.3rdw7a77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyeppeuda%2Fluvumset-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyeppeuda%2Fi%2F10000132%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yeppeuda/cabinet/luvum/luvum_00/luvumset-5_00.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "クオリティー コットン"
     brand: "SK-II"
     price: 990
@@ -226,7 +193,7 @@ products:
     recommendedFor: "ブランドラインの使い心地を重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00siy3n.3rdw6c23.g00siy3n.3rdw73c7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsk-ii%2Fsk2cotton%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsk-ii%2Fi%2F10003320%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sk-ii/cabinet/item/thumb/2606/sk2cotton.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "花王　ビオレ　メイク落とし　ふくだけコットン　つめかえ用　詰め替え用　クレンジン"
     brand: "花王（ビオレ）"
     price: 565
@@ -253,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10034333.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-02"
         price: 565
         rating: 0
         reviewCount: 0

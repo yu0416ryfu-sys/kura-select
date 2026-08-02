@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4997495112409.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 182
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4997495112409"
         available: true
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbungubin%2Fka0046.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 128
         rating: 0
         reviewCount: 0
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbungubin%2Fka0047.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-26"
+        updatedAt: "2026-08-02"
         price: 145
         rating: 0
         reviewCount: 0
@@ -208,9 +208,9 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcrance%2F20260617125853-01502.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-26"
-        price: 1146
+        matchStatus: "matched"
+        updatedAt: "2026-08-02"
+        price: 1077
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/crance_20260617125853-01502"
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkomonosennka%2F2112mn124.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-02"
         price: 980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/komonosennka_2112mn124"
         available: true

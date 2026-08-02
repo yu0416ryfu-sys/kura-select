@@ -4,7 +4,7 @@ description: "衣類・布用消臭スプレーを1プッシュあたりのコ�
 category: "sanitizing-spray"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 products:
   - rank: 1
     name: "リセッシュ 除菌EX デオドラントパワー 香りが残らないタイプ 本体 360mL"
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foasismse%2F342501-500.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 2772
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oasismse_342501-500"
         available: true
@@ -200,7 +200,7 @@ products:
     capacity: "500ml＋1L"
     pricePerUnit: "約6.4円/ml"
     rating: 4.53
-    reviewCount: 1047
+    reviewCount: 1049
     features:
       - "本体500mLと詰め替え1000mLのセット販売"
       - "速乾性の高いスプレータイプ"
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcselect%2Fsourif-500-1000-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 3200
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cselect_sourif-500-1000-set"
         available: true
@@ -253,7 +253,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fantena5%2Fa2care300ml.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 2618
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/antena5_a2care300ml"
         available: true

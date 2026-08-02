@@ -4,43 +4,10 @@ description: "お風呂防カビ剤を1回あたりのコストで比較。く�
 category: "bath-mold-preventer"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: "2026-08-02"
 draft: false
 products:
   - rank: 1
-    name: "ルック おふろの防カビくん煙剤 せっけんの香り 徳用3個パック"
-    brand: "ライオン（ルック）"
-    price: 1511
-    capacity: "3個"
-    pricePerUnit: "約504円/個"
-    rating: 4.73
-    reviewCount: 11
-    features:
-      - "浴室用の防カビくん煙タイプ"
-      - "徳用パック"
-      - "定期ケア向けの商品"
-    pros:
-      - "浴室全体をまとめてケアしやすい"
-      - "香りやパック数で選びやすい"
-      - "ストック用として比較しやすい"
-    cons:
-      - "黒カビ落とし目的の商品ではない"
-      - "使用前に手順と換気方法を確認する必要がある"
-    recommendedFor: "浴室の定期防カビケアを続けたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301221043-kksale%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10323436%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/rich05/4903301221043.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r003-4903301221043.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-22"
-        price: 5911
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r003-4903301221043"
-        available: true
-  - rank: 2
     name: "らくハピ お風呂カビーヌ 防カビ 無香性"
     brand: "アース製薬（らくハピ）"
     price: 2549
@@ -73,7 +40,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_547908"
         available: true
-  - rank: 3
+  - rank: 2
     name: "ルックプラス おふろの防カビくん煙剤 フローラルの香り 3個"
     brand: "ルック（LION）"
     price: 1580
@@ -106,7 +73,7 @@ products:
         reviewCount: 29
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903301187240"
         available: true
-  - rank: 4
+  - rank: 3
     name: "ルック おふろの防カビくん煙剤 30個パック まとめ買い"
     brand: "ライオン（ルック）"
     price: 17500
@@ -128,6 +95,39 @@ products:
     recommendedFor: "浴室の定期防カビケアを続けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fhouse-cleaner25%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10000843%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item_r/1/house-cleaner25-a1.jpg?_ex=128x128"
+  - rank: 4
+    name: "ルック おふろの防カビくん煙剤 せっけんの香り 徳用3個パック"
+    brand: "ライオン（ルック）"
+    price: 1817
+    capacity: "3個"
+    pricePerUnit: "約606円/個"
+    rating: 4.8
+    reviewCount: 5
+    features:
+      - "浴室用の防カビくん煙タイプ"
+      - "徳用パック"
+      - "定期ケア向けの商品"
+    pros:
+      - "浴室全体をまとめてケアしやすい"
+      - "香りやパック数で選びやすい"
+      - "ストック用として比較しやすい"
+    cons:
+      - "黒カビ落とし目的の商品ではない"
+      - "使用前に手順と換気方法を確認する必要がある"
+    recommendedFor: "浴室の定期防カビケアを続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301221043%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10041885%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/rich05/4903301221043.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r003-4903301221043.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-02"
+        price: 5911
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r003-4903301221043"
+        available: true
   - rank: 5
     name: "ルックプラス おふろの防カビくん煙剤 せっけんの香り"
     brand: "ライオン（ルックプラス）"
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10092851.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 1498
         rating: 5
         reviewCount: 3
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurusatochoice%2F6547919.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 13000
         rating: 0
         reviewCount: 0
@@ -233,8 +233,8 @@ products:
     price: 3980
     capacity: "6個"
     pricePerUnit: "約663円/個"
-    rating: 4.88
-    reviewCount: 8
+    rating: 4.78
+    reviewCount: 9
     features:
       - "浴室用の防カビくん煙タイプ"
       - "消臭ミントの香りタイプ"
@@ -254,7 +254,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurusatochoice%2F6547921.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 13000
         rating: 0
         reviewCount: 0

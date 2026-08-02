@@ -4,7 +4,7 @@ description: "除湿剤おすすめ9選を吸湿量1mLあたりの単価で徹�
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 products:
   - rank: 1
     name: "水とりぞうさん 550ml×3個 タンクタイプ"
@@ -35,7 +35,7 @@ products:
     capacity: "550mL×45個（24,750mL分）"
     pricePerUnit: "約0.17円/mL"
     rating: 4.82
-    reviewCount: 250
+    reviewCount: 251
     features:
       - "国内定番の大容量タンクタイプ除湿剤"
       - "強力脱臭・防臭・防カビ効果"
@@ -160,6 +160,17 @@ products:
     recommendedFor: "家じゅう数か所にまとめて設置したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r75tn.3rdw6eee.g00r75tn.3rdw7179/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffabuleux%2F10002254%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffabuleux%2Fi%2F10002254%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fabuleux/cabinet/03396666/06117872/06716668/imgrc0071968010.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawarikikaku%2Fcostoco-mizutori-a.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-02"
+        price: 1618
+        rating: 4.75
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawarikikaku_costoco-mizutori-a"
+        available: true
   - rank: 8
     name: "コーナン 除湿剤 1000ml 置き型 大容量タイプ"
     brand: "コーナン"
@@ -182,6 +193,17 @@ products:
     recommendedFor: "コストを抑えて大容量タイプを使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ssuan.3rdw6ccc.g00ssuan.3rdw7316/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkohnan-eshop%2F4522831169818%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkohnan-eshop%2Fi%2F10158162%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kohnan-eshop/cabinet/goods/202202/s1/4522831169818.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F4522831169825.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-02"
+        price: 1090
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_4522831169825"
+        available: true
   - rank: 9
     name: "コーナン 除湿剤 500ml 置き型"
     brand: "コーナン"
@@ -204,6 +226,17 @@ products:
     recommendedFor: "標準的なクローゼットや衣装ケースに使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ssuan.3rdw6ccc.g00ssuan.3rdw7316/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkohnan-eshop%2F4522831781188%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkohnan-eshop%2Fi%2F10122355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kohnan-eshop/cabinet/goods/201812/s5/4522831781188.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F4522831781188.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-02"
+        price: 990
+        rating: 4.14
+        reviewCount: 7
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_4522831781188"
+        available: true
 tags:
   - "除湿剤 おすすめ"
   - "除湿剤 コスパ"

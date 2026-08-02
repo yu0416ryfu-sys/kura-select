@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 draft: false
 products:
   - rank: 1
@@ -71,7 +71,7 @@ products:
     capacity: "45×65cm 1枚"
     pricePerUnit: "約1000円/枚"
     rating: 4.39
-    reviewCount: 1355
+    reviewCount: 1356
     features:
       - "綿100%で肌に優しい"
       - "パイル生地で吸水性に優れた設計"
@@ -106,7 +106,7 @@ products:
     capacity: "40×60cm / 50×80cm 1枚"
     pricePerUnit: "約1690円/枚"
     rating: 4.64
-    reviewCount: 3263
+    reviewCount: 3264
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"
@@ -122,7 +122,7 @@ products:
       - "マイクロファイバーなので好みが分かれる"
     recommendedFor: "吸水性を最優先したい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnrsn.3rdw6089.g00tnrsn.3rdw78e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flatuna%2F10000010-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flatuna%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/latuna/cabinet/items/p-up_top/10000010-1_p10.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/latuna/cabinet/items/bathmat/imgrc0161877803.jpg?_ex=128x128"
   - rank: 5
     name: "今治タオル レオン バスマット"
     brand: "今治タオル"
@@ -130,7 +130,7 @@ products:
     capacity: "42×67cm 1枚"
     pricePerUnit: "約1800円/枚"
     rating: 4.61
-    reviewCount: 2107
+    reviewCount: 2108
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -251,7 +251,7 @@ products:
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
     rating: 4.42
-    reviewCount: 2619
+    reviewCount: 2622
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

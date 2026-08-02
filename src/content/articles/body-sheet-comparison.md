@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 draft: false
 products:
   - rank: 1
@@ -34,8 +34,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4902806127973.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
-        price: 337
+        updatedAt: "2026-08-02"
+        price: 328
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4902806127973"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4550516475473.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-02"
         price: 458
         rating: 5
         reviewCount: 4
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzagzag%2F4901301396570-3.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-02"
         price: 1000
         rating: 5
         reviewCount: 5
@@ -193,13 +193,13 @@ products:
       - "厚手のぶん1袋の枚数は控えめ"
     recommendedFor: "香りを残したくない方・オフィスで使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uso0n.3rdw6c16.g00uso0n.3rdw73a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsasaya-halo%2Fcompass1775955499%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsasaya-halo%2Fi%2F10000058%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sasaya-halo/cabinet/compass1779518957.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sasaya-halo/cabinet/compass1785600442.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F612-8545-103.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-02"
         price: 1259
         rating: 0
         reviewCount: 0
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fecomarche%2F100003175.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-02"
         price: 660
         rating: 4.2
         reviewCount: 5
@@ -263,13 +263,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4902806112955.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4902806135947.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-29"
-        price: 528
+        updatedAt: "2026-08-02"
+        price: 460
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4902806112955"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4902806135947"
         available: true
   - rank: 9
     name: "リフレッシュボディシート"
@@ -298,8 +298,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188322109.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
-        price: 1485
+        updatedAt: "2026-08-02"
+        price: 1780
         rating: 4.2
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188322109"
@@ -331,7 +331,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftreeoflife-official%2F082112060.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-02"
         price: 440
         rating: 0
         reviewCount: 1

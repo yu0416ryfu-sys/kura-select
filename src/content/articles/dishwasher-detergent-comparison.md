@@ -4,16 +4,16 @@ description: "食洗機用洗剤を1回あたりのコストで徹底比較。�
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-07-25"
+updatedAt: "2026-08-02"
 products:
   - rank: 1
     name: "P&G 食洗機用ジョイ オレンジピール成分入り 詰替 490g"
     brand: "P&G（ジョイ）"
-    price: 315
+    price: 366
     capacity: "490g"
-    pricePerUnit: "約0.64円/g"
-    rating: 4.47
-    reviewCount: 15
+    pricePerUnit: "約0.75円/g"
+    rating: 5
+    reviewCount: 4
     features:
       - "食器洗い乾燥機専用の洗剤"
       - "継続利用しやすい定番構成"
@@ -26,7 +26,7 @@ products:
       - "対応機種や投入量を確認したい"
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "食洗機の運用に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902430708494-kksale%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10323617%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902430708494%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10170645%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4902430708494.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b07bbljjxx-20260329.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 3968
         rating: 0
         reviewCount: 0
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902875020915-73-30002003.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 650
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902875020915-73-30002003"
         available: true
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430777537x3.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 1705
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430777537x3"
         available: true
@@ -178,7 +178,7 @@ products:
     capacity: "800g×3セット（2400g）"
     pricePerUnit: "約1.1円/g"
     rating: 4.72
-    reviewCount: 342
+    reviewCount: 343
     features:
       - "食洗機用の洗剤本体"
       - "タブレットや粉末など食洗機向けの形状"

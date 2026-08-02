@@ -131,10 +131,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flibratone%2Fcicimasuku-c-001.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-02"
         price: 398
         rating: 4.63
-        reviewCount: 398
+        reviewCount: 401
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/libratone_cicimasuku-c-001"
         available: true
   - rank: 6
@@ -164,7 +164,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-ife-reborn%2Fmask120kfst.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-02"
         price: 2680
         rating: 5
         reviewCount: 3
@@ -219,7 +219,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft0090-01-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
+        updatedAt: "2026-08-02"
         price: 2039
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t0090-01-a"
         available: true

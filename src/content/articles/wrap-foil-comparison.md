@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 products:
   - rank: 1
     name: "NEWクレラップ お徳用レギュラー 30cm×50m"
@@ -241,8 +241,8 @@ products:
     price: 1499
     capacity: "22cm×50m×3本"
     pricePerUnit: "0円/m"
-    rating: 4.58
-    reviewCount: 36
+    rating: 4.59
+    reviewCount: 37
     features:
       - "クレハのポリ塩化ビニリデン製ラップ・22cmまとめ買い3本セット"
       - "のこぎり刃でカットしやすい設計"

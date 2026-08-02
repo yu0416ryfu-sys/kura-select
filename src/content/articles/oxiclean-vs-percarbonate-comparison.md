@@ -4,7 +4,7 @@ description: "オキシクリーンと過炭酸ナトリウム（酸素系漂白
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann3k.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 1130
         rating: 4.71
         reviewCount: 243
@@ -47,7 +47,7 @@ products:
     capacity: "4.5kg"
     pricePerUnit: "約0.48円/g"
     rating: 4.84
-    reviewCount: 741
+    reviewCount: 740
     features:
       - "過炭酸ナトリウム100%の特大サイズ"
       - "洗濯槽掃除と浸け置き洗いを想定した容量"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann5k.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 1480
         rating: 4.77
         reviewCount: 249
@@ -99,8 +99,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann1.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        matchStatus: "matched"
+        updatedAt: "2026-08-02"
         price: 598
         rating: 4.56
         reviewCount: 2048
@@ -132,8 +132,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fares%2F700056.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        matchStatus: "matched"
+        updatedAt: "2026-08-02"
         price: 1991
         rating: 4.66
         reviewCount: 77
@@ -146,7 +146,7 @@ products:
     capacity: "900g"
     pricePerUnit: "約0.71円/g"
     rating: 4.83
-    reviewCount: 382
+    reviewCount: 383
     features:
       - "国内製造の過炭酸ナトリウム"
       - "少量から試せる小容量パッケージ"
@@ -165,8 +165,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fares%2F700181001.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        matchStatus: "matched"
+        updatedAt: "2026-08-02"
         price: 638
         rating: 4.85
         reviewCount: 40
@@ -198,8 +198,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkameyamastore%2Fcos-28137.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        matchStatus: "matched"
+        updatedAt: "2026-08-02"
         price: 3974
         rating: 4.75
         reviewCount: 93
@@ -234,7 +234,7 @@ products:
     capacity: "1500g"
     pricePerUnit: "約1.0円/g"
     rating: 4.53
-    reviewCount: 1041
+    reviewCount: 1042
     features:
       - "日本国内向けに販売されている無香料タイプ"
       - "界面活性剤と柔軟成分を配合していない処方"
@@ -253,8 +253,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbrisk-online%2F20251011231548-00401.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        matchStatus: "matched"
+        updatedAt: "2026-08-02"
         price: 1395
         rating: 0
         reviewCount: 1
@@ -287,10 +287,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7180967.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-02"
         price: 2080
-        rating: 4.61
-        reviewCount: 33
+        rating: 4.62
+        reviewCount: 34
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7180967"
         available: true
 tags:

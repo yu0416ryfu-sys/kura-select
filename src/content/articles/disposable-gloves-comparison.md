@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-02"
 products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚"
@@ -55,8 +55,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh8451-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-15"
-        price: 419
+        updatedAt: "2026-08-02"
+        price: 418
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh8451-1"
         available: true
         rating: 4.6
@@ -119,12 +119,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh734020.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-15"
-        price: 7590
+        updatedAt: "2026-08-02"
+        price: 6985
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh734020"
         available: true
         rating: 4.69
-        reviewCount: 383
+        reviewCount: 384
   - rank: 5
     name: "PVCグローブ 100枚×10箱"
     brand: "サンユー"
@@ -151,13 +151,14 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove041.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-07-15"
         price: 4080
         rating: 4.53
         reviewCount: 152
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove041"
-        available: true
+        available: false
+        matchNotes: "capacity不一致: capacity不一致"
   - rank: 6
     name: "ニトリルゴム手袋 パウダーフリー 100枚"
     brand: "厳選いいもの本舗"
@@ -218,10 +219,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove001.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-15"
+        updatedAt: "2026-08-02"
         price: 1260
         rating: 4.58
-        reviewCount: 2220
+        reviewCount: 2239
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
         available: true
   - rank: 8
@@ -231,7 +232,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約12円/枚"
     rating: 4.57
-    reviewCount: 3590
+    reviewCount: 3592
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
