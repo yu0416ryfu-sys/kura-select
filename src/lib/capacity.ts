@@ -174,6 +174,8 @@ export const ARTICLE_UNIT_POLICY: Record<string, string> = {
   'kitchen-bleach-comparison': 'g',
   'laundry-bleach-comparison': 'g',
   'oxiclean-vs-percarbonate-comparison': 'g',
+  // ビーズ型（kg / g 混在）を g に統一。液体タイプの mL 行は元表記を保持する
+  'mukokukan-vs-shoshuriki-comparison': 'g',
   'room-dry-detergent-comparison': 'g',
   'washing-machine-cleaner-comparison': 'g',
   // ティッシュは枚・組が混在するため「組」（=1回の取り出し）に統一する。
