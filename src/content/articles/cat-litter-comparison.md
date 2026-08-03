@@ -4,43 +4,10 @@ description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペ
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-03"
 draft: false
 products:
   - rank: 1
-    name: "紙の猫砂"
-    brand: "アイリスオーヤマ"
-    price: 3280
-    capacity: "7L×6袋（42L）"
-    pricePerUnit: "約78円/L"
-    rating: 4.21
-    reviewCount: 5646
-    features:
-      - "アイリスオーヤマ製のペレットタイプ紙製猫砂"
-      - "燃えるゴミとして廃棄可能・トイレへの廃棄にも対応"
-      - "飛び散りにくいペレット形状で軽量設計"
-    pros:
-      - "燃えるゴミとして処理でき廃棄場所を選ばない"
-      - "軽量のため高齢の飼い主や力が弱い方にも扱いやすい"
-      - "大手ブランドで品質が安定しており入手しやすい"
-    cons:
-      - "鉱物系に比べて固まりの硬さが弱い場合がある"
-      - "好みによっては紙製特有の使用感が気になる場合がある"
-    recommendedFor: "軽量で廃棄しやすい大手ブランドの紙製猫砂を探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2Fa533439%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10013227%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/10335589/a533439-rank.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F1533439.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-01"
-        price: 3980
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_1533439"
-        available: true
-        rating: 4.47
-        reviewCount: 32
-  - rank: 2
     name: "紙でつくったねこ砂"
     brand: "ペッツビレッジクロス"
     price: 4480
@@ -73,6 +40,39 @@ products:
         reviewCount: 94
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101385ku"
         available: true
+  - rank: 2
+    name: "紙の猫砂"
+    brand: "アイリスオーヤマ"
+    price: 3680
+    capacity: "7L×6袋（42L）"
+    pricePerUnit: "約88円/L"
+    rating: 4.21
+    reviewCount: 5647
+    features:
+      - "アイリスオーヤマ製のペレットタイプ紙製猫砂"
+      - "燃えるゴミとして廃棄可能・トイレへの廃棄にも対応"
+      - "飛び散りにくいペレット形状で軽量設計"
+    pros:
+      - "燃えるゴミとして処理でき廃棄場所を選ばない"
+      - "軽量のため高齢の飼い主や力が弱い方にも扱いやすい"
+      - "大手ブランドで品質が安定しており入手しやすい"
+    cons:
+      - "鉱物系に比べて固まりの硬さが弱い場合がある"
+      - "好みによっては紙製特有の使用感が気になる場合がある"
+    recommendedFor: "軽量で廃棄しやすい大手ブランドの紙製猫砂を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2Fa533439%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10013227%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/10335589/a533439-rank.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F1533439.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-01"
+        price: 3980
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_1533439"
+        available: true
+        rating: 4.47
+        reviewCount: 32
   - rank: 3
     name: "おからでつくったねこ砂"
     brand: "ペッツビレッジクロス"
@@ -223,7 +223,7 @@ products:
     capacity: "5L×4袋（20L）"
     pricePerUnit: "約144円/L"
     rating: 4.68
-    reviewCount: 2394
+    reviewCount: 2395
     features:
       - "ベントナイト鉱物系・固まるタイプの消臭猫砂"
       - "大手メーカーライオンによる消臭設計"
@@ -278,7 +278,7 @@ products:
     capacity: "6L×3個（18L）"
     pricePerUnit: "約278円/L"
     rating: 4.68
-    reviewCount: 1905
+    reviewCount: 1906
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"

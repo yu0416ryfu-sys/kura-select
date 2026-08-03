@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-03"
 draft: false
 products:
   - rank: 1
@@ -127,7 +127,7 @@ products:
       - "室内小型犬専用のため屋外活動量の多い中大型犬には対象外"
     recommendedFor: "室内飼育の小型犬の飼い主・まとめ買いで補充頻度を抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fstw-091022-01-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10070468%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/50173.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/stw-091022-01-00.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

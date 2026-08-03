@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-03"
 products:
   - rank: 1
     name: "熊本県産 ヒノヒカリ"
@@ -13,7 +13,7 @@ products:
     capacity: "20kg"
     pricePerUnit: "約509円/kg"
     rating: 4.59
-    reviewCount: 14871
+    reviewCount: 14872
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -91,7 +91,7 @@ products:
     recommendedFor: "新潟県産コシヒカリを無洗米で使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3eon.3rdw616f.g00q3eon.3rdw7349/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakizawa%2F2019090073%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftakizawa%2Fi%2F10000227%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 4.89
-    reviewCount: 122
+    reviewCount: 123
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/takizawa/cabinet/syouhinn/08533100/musenmai10kgver3.jpg?_ex=128x128"
     pricePerUnit: "約760円/kg"
     offers:

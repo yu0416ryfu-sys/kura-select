@@ -4,7 +4,7 @@ description: "ゴミ袋を1枚あたりの価格で徹底比較。45L・小分�
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-03"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -13,7 +13,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.76
-    reviewCount: 1570
+    reviewCount: 1571
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -46,7 +46,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約4.2円/枚"
     rating: 4.85
-    reviewCount: 284
+    reviewCount: 285
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -163,9 +163,9 @@ products:
   - rank: 6
     name: "サンキョウプラテック ごみ袋 45L 半透明 100枚×2小箱"
     brand: "サンキョウプラテック"
-    price: 2200
+    price: 2060
     capacity: "100枚×2小箱（200枚）"
-    pricePerUnit: "約11円/枚"
+    pricePerUnit: "約10円/枚"
     rating: 4.64
     reviewCount: 198
     features:
@@ -207,9 +207,9 @@ products:
   - rank: 8
     name: "東京都容量表示ポリ袋 70L 白半透明"
     brand: "サンキョウプラテック"
-    price: 10000
+    price: 9700
     capacity: "500枚"
-    pricePerUnit: "約20円/枚"
+    pricePerUnit: "約19円/枚"
     rating: 5
     reviewCount: 5
     features:

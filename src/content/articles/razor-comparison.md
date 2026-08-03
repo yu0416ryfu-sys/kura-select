@@ -4,7 +4,7 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-03"
 draft: false
 products:
   - rank: 1
@@ -201,7 +201,7 @@ products:
     capacity: "替刃8個"
     pricePerUnit: "約438円/個"
     rating: 4.5
-    reviewCount: 292
+    reviewCount: 293
     features:
       - "5枚刃に加えて精密トリマー刃を搭載"
       - "極薄刃がひげの根元近くまで密着する設計"
@@ -223,7 +223,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約1000円/個"
     rating: 4.52
-    reviewCount: 1766
+    reviewCount: 1769
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

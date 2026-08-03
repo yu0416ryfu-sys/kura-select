@@ -4,42 +4,9 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-03"
 products:
   - rank: 1
-    name: "メリットキッズ 泡で出てくるシャンプー ナチュラルフローラル 330ml"
-    brand: "花王（メリット）"
-    price: 770
-    capacity: "330ml"
-    pricePerUnit: "約2.3円/mL"
-    rating: 4.74
-    reviewCount: 128
-    features:
-      - "地肌すっきり成分でフケ・かゆみを防ぐ"
-      - "ノンシリコン処方で地肌にやさしい"
-      - "家族全員で使えるやさしい処方"
-    pros:
-      - "1mLあたり約0.90円で最安クラス"
-      - "大容量1200mLで詰め替え頻度が少ない"
-      - "家族みんなで使えるシンプル処方"
-    cons:
-      - "しっとり感は控えめ"
-      - "ダメージケア効果は弱い"
-    recommendedFor: "家族で使いたい方・地肌ケア重視の方・シンプルなシャンプーを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qawwn.3rdw6843.g00qawwn.3rdw7de1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000207354%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecomonline%2Fi%2F10166811%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecomonline/cabinet/item-img221/item_1000207354_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00020584.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-02"
-        price: 1064
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00020584"
-        available: true
-        rating: 0
-        reviewCount: 0
-  - rank: 2
     name: "ザクロー精炭酸シャンプー 詰替用"
     brand: "サニープレイス"
     price: 1925
@@ -69,6 +36,39 @@ products:
         updatedAt: "2026-08-01"
         price: 2550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/momotaroucrub_a--h-sy-0020-00-muryo"
+        available: true
+        rating: 0
+        reviewCount: 0
+  - rank: 2
+    name: "メリットキッズ 泡で出てくるシャンプー ナチュラルフローラル 330ml"
+    brand: "花王（メリット）"
+    price: 862
+    capacity: "330ml"
+    pricePerUnit: "約2.6円/mL"
+    rating: 4.74
+    reviewCount: 128
+    features:
+      - "地肌すっきり成分でフケ・かゆみを防ぐ"
+      - "ノンシリコン処方で地肌にやさしい"
+      - "家族全員で使えるやさしい処方"
+    pros:
+      - "1mLあたり約0.90円で最安クラス"
+      - "大容量1200mLで詰め替え頻度が少ない"
+      - "家族みんなで使えるシンプル処方"
+    cons:
+      - "しっとり感は控えめ"
+      - "ダメージケア効果は弱い"
+    recommendedFor: "家族で使いたい方・地肌ケア重視の方・シンプルなシャンプーを求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qawwn.3rdw6843.g00qawwn.3rdw7de1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000207354%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecomonline%2Fi%2F10166811%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecomonline/cabinet/item-img221/item_1000207354_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00020584.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-02"
+        price: 1064
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00020584"
         available: true
         rating: 0
         reviewCount: 0

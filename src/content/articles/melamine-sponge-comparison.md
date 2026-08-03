@@ -4,7 +4,7 @@ description: "メラミンスポンジを1個あたりのコストで比較。�
 category: "melamine-sponge"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-07-14"
+updatedAt: "2026-08-03"
 draft: false
 products:
   - rank: 1
@@ -43,9 +43,9 @@ products:
   - rank: 2
     name: "激落ち ダブルポイポイ"
     brand: "レック（激落ちくん）"
-    price: 305
+    price: 338
     capacity: "40個"
-    pricePerUnit: "約7.6円/個"
+    pricePerUnit: "約8.4円/個"
     rating: 4.8
     reviewCount: 5
     features:

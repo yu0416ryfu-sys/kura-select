@@ -4,7 +4,7 @@ description: "ティッシュペーパーを1組あたりのコストで徹底�
 category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-03"
 products:
   - rank: 1
     name: "ハロー ソフトパックティッシュ"
@@ -35,7 +35,7 @@ products:
     capacity: "150組×50個"
     pricePerUnit: "約0.41円/組"
     rating: 4.55
-    reviewCount: 804
+    reviewCount: 805
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"

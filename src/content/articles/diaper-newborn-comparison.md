@@ -4,7 +4,7 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-03"
 products:
   - rank: 1
     name: "グーンプラス 敏感肌にやわらかタッチ テープ 新生児用 68枚"
@@ -12,8 +12,8 @@ products:
     price: 1199
     capacity: "68枚"
     pricePerUnit: "約18円/枚"
-    rating: 4.78
-    reviewCount: 9
+    rating: 4.8
+    reviewCount: 10
     features:
       - "敏感肌設計で保湿成分を配合した素材"
       - "ふわふわタッチのメッシュシートを採用"

@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌触りとコス
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-03"
 draft: false
 products:
   - rank: 1
@@ -43,9 +43,9 @@ products:
   - rank: 2
     name: "ネピア 鼻セレブ 200組×20箱 まとめ買い"
     brand: "日本製紙クレシア（鼻セレブ）"
-    price: 5560
+    price: 6700
     capacity: "400枚（200組）×20箱"
-    pricePerUnit: "約1.4円/組"
+    pricePerUnit: "約1.7円/組"
     rating: 3.88
     reviewCount: 8
     features:
@@ -153,9 +153,9 @@ products:
   - rank: 6
     name: "鼻セレブ プレミアム ティッシュ 130組×10個"
     brand: "王子ネピア（鼻セレブ）"
-    price: 5580
+    price: 6138
     capacity: "390枚（130組）×10個"
-    pricePerUnit: "約2.9円/組"
+    pricePerUnit: "約3.1円/組"
     rating: 4.75
     reviewCount: 16
     features:
@@ -175,9 +175,9 @@ products:
   - rank: 7
     name: "鼻セレブ プレミアム ティッシュ 130組 6個"
     brand: "日本製紙クレシア（鼻セレブ）"
-    price: 3880
+    price: 4238
     capacity: "260枚（130組）×6箱"
-    pricePerUnit: "約5.0円/組"
+    pricePerUnit: "約5.4円/組"
     rating: 4.69
     reviewCount: 16
     features:

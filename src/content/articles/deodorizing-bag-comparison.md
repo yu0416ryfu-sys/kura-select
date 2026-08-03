@@ -4,17 +4,17 @@ description: "おむつ・生ゴミ用の防臭袋おすすめ10選をコスパ�
 category: "deodorizing-bag"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-03"
 draft: false
 products:
   - rank: 1
     name: "HEIKO PP 食パン袋 半斤用"
     brand: "シモジマ"
-    price: 1140
+    price: 1135
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.78
-    reviewCount: 745
+    reviewCount: 746
     features:
       - "本来は食パン用のポリプロピレン製袋"
       - "厚みのあるPP素材で口を結んで密閉しやすい"

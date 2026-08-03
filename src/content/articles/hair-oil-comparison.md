@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-03"
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "75mL"
     pricePerUnit: "約15円/mL"
     rating: 4.75
-    reviewCount: 2896
+    reviewCount: 2897
     features:
       - "無香料タイプの洗い流さないヘアエッセンス（オイルタイプ）"
       - "天然由来成分配合でくせ毛・うねりに対応したしっとり仕上がり設計"
@@ -135,7 +135,7 @@ products:
     capacity: "150mL"
     pricePerUnit: "約20円/mL"
     rating: 4.55
-    reviewCount: 1084
+    reviewCount: 1085
     features:
       - "100%植物由来成分（スクワラン・アルガンオイル・ホホバオイル配合）"
       - "濡れ髪・乾いた髪どちらにも使えるアウトバスオイル"
@@ -189,7 +189,7 @@ products:
     capacity: "80mL"
     pricePerUnit: "約29円/mL"
     rating: 4.64
-    reviewCount: 13719
+    reviewCount: 13721
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -203,7 +203,7 @@ products:
       - "成分の詳細情報が商品ページ上で少なめのため、成分重視の人は要確認"
     recommendedFor: "軽めのナチュラル仕上がりを好む人・オーガニック系成分にこだわりたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F90xb079s1wb7s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000288%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/allna/top/90xb079s1wb7s.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/event/20260804m/90xb079s1wb7s.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -222,7 +222,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約35円/mL"
     rating: 4.64
-    reviewCount: 3841
+    reviewCount: 3848
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"

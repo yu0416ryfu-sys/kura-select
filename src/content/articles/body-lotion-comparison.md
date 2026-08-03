@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-03"
 draft: false
 products:
   - rank: 1
@@ -98,7 +98,7 @@ products:
   - rank: 4
     name: "ビオレu お風呂で使ううるおいミルク 無香料 300mL"
     brand: "花王（ビオレu）"
-    price: 708
+    price: 728
     capacity: "300mL"
     pricePerUnit: "約2.4円/mL"
     rating: 4.69

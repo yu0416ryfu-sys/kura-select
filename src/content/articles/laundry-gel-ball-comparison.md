@@ -4,7 +4,7 @@ description: "ジェルボール洗剤を1個あたりのコストで徹底比�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-03"
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"
@@ -112,7 +112,7 @@ products:
     capacity: "1490g"
     pricePerUnit: "約5.7円/g"
     rating: 4.56
-    reviewCount: 263
+    reviewCount: 264
     features:
       - "植物由来成分配合の無添加液体洗濯洗剤"
       - "すすぎ1回対応で水道代と時間を節約できる"
@@ -211,7 +211,7 @@ products:
     capacity: "5L×2本セット"
     pricePerUnit: "約578円/L"
     rating: 4.73
-    reviewCount: 528
+    reviewCount: 529
     features:
       - "業務用の大容量5L×2本セットで長期間使えるコスパ商品"
       - "衣類洗浄に加え排水管清掃にも使える多用途性"
@@ -240,9 +240,9 @@ products:
   - rank: 9
     name: "おまかせドライ"
     brand: "ファーファ"
-    price: 1540
+    price: 1694
     capacity: "450ml"
-    pricePerUnit: "約3.4円/ml"
+    pricePerUnit: "約3.8円/ml"
     rating: 4.75
     reviewCount: 165
     features:

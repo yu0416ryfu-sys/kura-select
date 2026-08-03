@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-03"
 draft: false
 products:
   - rank: 1
@@ -310,8 +310,8 @@ products:
     price: 0
     capacity: "10枚"
     pricePerUnit: "0円/枚"
-    rating: 4.56
-    reviewCount: 18
+    rating: 4.58
+    reviewCount: 19
     features:
       - "エッセンシャルオイルを使用した冷感タイプ"
       - "厚手でボディタオルとしても使える設計"

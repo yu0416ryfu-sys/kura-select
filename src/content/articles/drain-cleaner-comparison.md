@@ -4,7 +4,7 @@ description: "排水口クリーナーを容量あたりのコストで比較。
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-03"
 draft: false
 products:
   - rank: 1
@@ -263,9 +263,9 @@ products:
   - rank: 10
     name: "ミツエイ ハーバルスリー パイプクリーナー 1000mL"
     brand: "ミツエイ"
-    price: 272
+    price: 283
     capacity: "1000mL"
-    pricePerUnit: "約0.27円/mL"
+    pricePerUnit: "約0.28円/mL"
     rating: 4.46
     reviewCount: 13
     features:

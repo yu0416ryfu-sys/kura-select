@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-03"
 products:
   - rank: 1
     name: "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット"
@@ -200,7 +200,7 @@ products:
     capacity: "48ml"
     pricePerUnit: "約11円/ml"
     rating: 4.26
-    reviewCount: 238
+    reviewCount: 239
     features:
       - "子ども向けの歯みがき用品"
       - "ジェルや泡タイプなど使いやすさで選べる"

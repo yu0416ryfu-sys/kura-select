@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-03"
 products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚"
@@ -68,7 +68,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約4.9円/枚"
     rating: 4.76
-    reviewCount: 263
+    reviewCount: 264
     features:
       - "使い切りで使える作業用手袋"
       - "継続利用しやすい定番構成"

@@ -4,7 +4,7 @@ description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底�
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-03"
 products:
   - rank: 1
     name: "アタック 抗菌EX 部屋干し用 詰め替え 2380g×6個セット"
@@ -224,9 +224,9 @@ products:
   - rank: 8
     name: "おまかせドライ"
     brand: "ファーファ"
-    price: 1540
+    price: 1694
     capacity: "450ml"
-    pricePerUnit: "約3.4円/ml"
+    pricePerUnit: "約3.8円/ml"
     rating: 4.75
     reviewCount: 165
     features:

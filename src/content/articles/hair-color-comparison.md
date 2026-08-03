@@ -4,7 +4,7 @@ description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あ�
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-03"
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "100g×2袋"
     pricePerUnit: "約7.9円/g"
     rating: 4.42
-    reviewCount: 3140
+    reviewCount: 3141
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -91,7 +91,7 @@ products:
     capacity: "300g"
     pricePerUnit: "約15円/g"
     rating: 4.04
-    reviewCount: 2685
+    reviewCount: 2686
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -124,7 +124,7 @@ products:
     capacity: "400g"
     pricePerUnit: "約15円/g"
     rating: 4.37
-    reviewCount: 7890
+    reviewCount: 7899
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -157,7 +157,7 @@ products:
     capacity: "350g"
     pricePerUnit: "約16円/g"
     rating: 4.26
-    reviewCount: 2952
+    reviewCount: 2954
     features:
       - "洗いながら染めるクリームシャンプータイプ"
       - "白髪染め・トリートメント機能を兼ねる"
@@ -212,7 +212,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.5
-    reviewCount: 2548
+    reviewCount: 2549
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -234,7 +234,7 @@ products:
     capacity: "3個"
     pricePerUnit: "約5808円/個"
     rating: 4.52
-    reviewCount: 1676
+    reviewCount: 1677
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
