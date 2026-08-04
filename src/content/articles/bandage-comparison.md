@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ10選を1枚あた
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-04"
 draft: false
 products:
   - rank: 1
@@ -167,8 +167,8 @@ products:
     price: 1493
     capacity: "20枚（10枚入×2コセット）"
     pricePerUnit: "約75円/枚"
-    rating: 4.65
-    reviewCount: 176
+    rating: 4.66
+    reviewCount: 177
     features:
       - "ハイドロコロイド素材を使った密着タイプ"
       - "水や汚れの侵入を防ぐ防水設計"
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758907765-6-d.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 5302
         rating: 0
         reviewCount: 0
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop-ni%2F34901730077002.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 1335
         rating: 0
         reviewCount: 0

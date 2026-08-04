@@ -32,13 +32,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F12255791225579g0.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoins%2F1002106.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-27"
-        price: 6442
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_12255791225579g0"
+        updatedAt: "2026-08-04"
+        price: 5885
+        rating: 4.58
+        reviewCount: 43
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/koins_1002106"
         available: true
   - rank: 2
     name: "紙コップ 7オンス 白無地 業務用 2000個"
@@ -65,13 +65,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmodern-pro%2F2402000041225.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F181000.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-29"
-        price: 7107
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/modern-pro_2402000041225"
+        updatedAt: "2026-08-04"
+        price: 6160
+        rating: 4.76
+        reviewCount: 430
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_181000"
         available: true
   - rank: 3
     name: "紙コップ 7オンス 白無地 50個"
@@ -122,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnuts%2Fwa-dm-012r.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-04"
         price: 825
         rating: 0
         reviewCount: 0
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnuts%2Fwa-dm-014.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-04"
         price: 704
         rating: 0
         reviewCount: 0
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F215400.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-04"
         price: 10626
         rating: 4.86
         reviewCount: 7
@@ -254,7 +254,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F215500.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-04"
         price: 11539
         rating: 0
         reviewCount: 2

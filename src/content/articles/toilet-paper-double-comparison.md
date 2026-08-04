@@ -4,7 +4,7 @@ description: "ダブルのトイレットペーパーを1mあたりのコスト�
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 products:
   - rank: 1
     name: "再生紙トイレットペーパー ダブル"
@@ -123,7 +123,7 @@ products:
     capacity: "75m×4ロール×12袋"
     pricePerUnit: "約1.8円/m"
     rating: 4.63
-    reviewCount: 1506
+    reviewCount: 1507
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

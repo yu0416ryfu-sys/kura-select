@@ -4,7 +4,7 @@ description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底�
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 products:
   - rank: 1
     name: "アタック 抗菌EX 部屋干し用 詰め替え 2380g×6個セット"
@@ -248,8 +248,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F622008a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
-        price: 1540
+        updatedAt: "2026-08-04"
+        price: 1694
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_622008a"
         available: true
         rating: 0

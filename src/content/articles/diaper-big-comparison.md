@@ -4,7 +4,7 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 products:
   - rank: 1
     name: "グーンプラス テープ BIGサイズ"
@@ -36,7 +36,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-04"
         rating: 0
         reviewCount: 0
   - rank: 2
@@ -64,12 +64,12 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        price: 5944
+        price: 6452
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F60000000002751.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_60000000002751"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-04"
         rating: 0
         reviewCount: 2
   - rank: 3
@@ -102,7 +102,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111211647x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-04"
         rating: 4.73
         reviewCount: 56
   - rank: 4
@@ -135,7 +135,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111211807x3"
         available: true
         matchStatus: "pending"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-04"
         rating: 4.94
         reviewCount: 47
   - rank: 5
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseedeck%2Fdos263-r6.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-04"
         price: 7580
         rating: 0
         reviewCount: 1

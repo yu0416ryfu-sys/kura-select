@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 draft: false
 products:
   - rank: 1
@@ -45,7 +45,7 @@ products:
     capacity: "150組×100個"
     pricePerUnit: "約0.35円/組"
     rating: 4.59
-    reviewCount: 754
+    reviewCount: 755
     features:
       - "150組×100個の超大容量ソフトパック"
       - "箱を使わない省スペース仕様"

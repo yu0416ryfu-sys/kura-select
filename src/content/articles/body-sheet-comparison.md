@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 draft: false
 products:
   - rank: 1
@@ -34,8 +34,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4902806127973.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
-        price: 328
+        updatedAt: "2026-08-03"
+        price: 322
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4902806127973"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4550516475473.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 458
         rating: 5
         reviewCount: 4
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatata12121%2Fdeodorantshawarshirt-ag24-kosme-4550516493194-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-03"
         price: 880
         rating: 0
         reviewCount: 0
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzagzag%2F4901301396570-3.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 1000
         rating: 5
         reviewCount: 5
@@ -199,7 +199,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F612-8545-103.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 1259
         rating: 0
         reviewCount: 0
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fecomarche%2F100003175.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 660
         rating: 4.2
         reviewCount: 5
@@ -241,9 +241,9 @@ products:
   - rank: 8
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
-    price: 2082
+    price: 2086
     capacity: "30枚"
-    pricePerUnit: "約69円/枚"
+    pricePerUnit: "約70円/枚"
     rating: 4.79
     reviewCount: 19
     features:
@@ -263,13 +263,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4902806135947.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4902806135947.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-02"
-        price: 460
+        updatedAt: "2026-08-03"
+        price: 390
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4902806135947"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4902806135947"
         available: true
   - rank: 9
     name: "リフレッシュボディシート"
@@ -310,8 +310,8 @@ products:
     price: 0
     capacity: "10枚"
     pricePerUnit: "0円/枚"
-    rating: 4.58
-    reviewCount: 19
+    rating: 4.6
+    reviewCount: 20
     features:
       - "エッセンシャルオイルを使用した冷感タイプ"
       - "厚手でボディタオルとしても使える設計"
@@ -331,7 +331,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftreeoflife-official%2F082112060.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 440
         rating: 0
         reviewCount: 1

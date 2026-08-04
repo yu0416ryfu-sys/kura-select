@@ -4,7 +4,7 @@ description: "洗濯槽クリーナーを1回あたりのコストで徹底比�
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 products:
   - rank: 1
     name: "過炭酸ナトリウム 酸素系漂白剤 950g"
@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann1.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-04"
         price: 598
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann1"
         available: true
         rating: 4.56
-        reviewCount: 2048
+        reviewCount: 2049
   - rank: 2
     name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.26kg！★【"
     brand: "グラフィコ（オキシクリーン）"

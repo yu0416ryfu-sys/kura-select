@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-04"
 products:
   - rank: 1
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsup-s%2Fyah20250207-curel.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 1390
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sup-s_yah20250207-curel"
         available: true
@@ -64,9 +64,9 @@ products:
   - rank: 3
     name: "manyo ピュアクレンジングオイル 400mL"
     brand: "manyo"
-    price: 3402
+    price: 3780
     capacity: "400mL"
-    pricePerUnit: "約8.5円/mL"
+    pricePerUnit: "約9.4円/mL"
     rating: 4.63
     reviewCount: 48
     features:
@@ -137,7 +137,7 @@ products:
       - "植物由来成分の香りが気になる場合がある"
     recommendedFor: "皮脂汚れや毛穴汚れが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6mzn.3rdw632b.g00u6mzn.3rdw764e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00061/imgrc0127119292.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00061/imgrc0144381188.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -207,7 +207,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdhc%2F8000023597.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 2717
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dhc_8000023597"
         available: true
@@ -262,12 +262,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true
         rating: 4.94
-        reviewCount: 468
+        reviewCount: 469
   - rank: 10
     name: "KINS クレンジングオイル 100mL"
     brand: "KINS"

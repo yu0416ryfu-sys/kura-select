@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 products:
   - rank: 1
     name: "システマ ハグキプラス プレミアム 95g×4本セット"
@@ -55,12 +55,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F007.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
-        price: 1001
+        updatedAt: "2026-08-04"
+        price: 1298
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_007"
         available: true
         rating: 4.31
-        reviewCount: 1061
+        reviewCount: 1064
   - rank: 3
     name: "キラルン 2点ミニセット パウダー5g＋ペースト15g"
     brand: "RUKEN"
@@ -90,7 +90,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約22円/g"
     rating: 4.47
-    reviewCount: 2294
+    reviewCount: 2295
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -200,7 +200,7 @@ products:
     capacity: "（20g）"
     pricePerUnit: "約74円/g"
     rating: 4.68
-    reviewCount: 1662
+    reviewCount: 1663
     features:
       - "ナノ粒子ハイドロキシアパタイトでエナメル質を補修"
       - "研磨剤不使用でやさしいホワイトニング"

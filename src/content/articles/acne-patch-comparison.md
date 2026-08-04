@@ -4,7 +4,7 @@ description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚�
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 draft: false
 products:
   - rank: 1
@@ -58,7 +58,7 @@ products:
     capacity: "56枚"
     pricePerUnit: "約15円/枚"
     rating: 4.3
-    reviewCount: 808
+    reviewCount: 809
     features:
       - "薬用CICA配合のハイドロコロイドニキビパッチ"
       - "コメド（黒ニキビ）にも対応した設計"
@@ -134,7 +134,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580173961293.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 506
         rating: 0
         reviewCount: 2
@@ -167,7 +167,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4560461866660.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 935
         rating: 0
         reviewCount: 2

@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 products:
   - rank: 1
     name: "洗顔フォーム 毛穴 ロゼット洗顔パスタ 海泥スムース WEB限定2倍"
@@ -88,13 +88,47 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyua-shop%2Fl01-045.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-08-04"
         price: 2500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yua-shop_l01-045"
         available: true
         rating: 0
         reviewCount: 0
   - rank: 4
+    name: "オルナ オーガニック 泥洗顔 130g"
+    brand: "ALLNA ORGANIC"
+    price: 1540
+    capacity: "130g"
+    pricePerUnit: "約12円/g"
+    rating: 4.62
+    reviewCount: 1248
+    features:
+      - "顔の洗浄に使う洗顔料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "肌質や洗い上がりで選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "使用感や香りの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "肌質や洗い上がりで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b01n0bsytw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000261%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/event/20260804m/905b01n0bsytw-30.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fadew%2F905b01n0bsytw.html"
+        matchStatus: "review"
+        updatedAt: "2026-07-15"
+        price: 2200
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/adew_905b01n0bsytw"
+        available: false
+        rating: 4.55
+        reviewCount: 278
+        matchNotes: "capacity不一致: capacity不一致"
+  - rank: 5
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
     brand: "ユニリーバ（ダヴ）"
     price: 1577
@@ -127,14 +161,14 @@ products:
         available: true
         rating: 4.5
         reviewCount: 8
-  - rank: 5
+  - rank: 6
     name: "どろばーゆ 泡洗顔"
     brand: "ナチュボーテ"
     price: 1540
     capacity: "120g"
     pricePerUnit: "約13円/g"
     rating: 4.58
-    reviewCount: 1563
+    reviewCount: 1564
     features:
       - "竹炭・海シルト・馬油配合の泥洗顔"
       - "無香料タイプとバラの香りタイプを展開"
@@ -154,46 +188,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Facuebshop%2Fdorobayu.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-04"
         price: 1540
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/acuebshop_dorobayu"
         available: true
-  - rank: 6
-    name: "オルナ オーガニック 泥洗顔 130g"
-    brand: "ALLNA ORGANIC"
-    price: 2200
-    capacity: "130g"
-    pricePerUnit: "約17円/g"
-    rating: 4.62
-    reviewCount: 1248
-    features:
-      - "顔の洗浄に使う洗顔料"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "肌質や洗い上がりで選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "使用感や香りの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "肌質や洗い上がりで選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b01n0bsytw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000261%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/event/20260804m/905b01n0bsytw-30.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fadew%2F905b01n0bsytw.html"
-        matchStatus: "review"
-        updatedAt: "2026-07-15"
-        price: 2200
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/adew_905b01n0bsytw"
-        available: false
-        rating: 4.55
-        reviewCount: 278
-        matchNotes: "capacity不一致: capacity不一致"
   - rank: 7
     name: "レステモ フェイシャル ソープ 150g"
     brand: "レステモ"
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flesthemo%2Fsoap150g.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-04"
         price: 2680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lesthemo_soap150g"
         available: true
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000154951.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-04"
         price: 1320
         rating: 0
         reviewCount: 0

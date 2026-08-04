@@ -4,7 +4,7 @@ description: "綿棒をコットン100%・紙軸・スパイラル・抗菌タ�
 category: "cotton-swab"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-07-09"
+updatedAt: "2026-08-04"
 draft: false
 products:
   - rank: 1
@@ -43,9 +43,9 @@ products:
   - rank: 2
     name: "コットン・ラボ スタンダード綿棒"
     brand: "コットン・ラボ"
-    price: 139
+    price: 144
     capacity: "200本"
-    pricePerUnit: "約0.69円/本"
+    pricePerUnit: "約0.72円/本"
     rating: 0
     reviewCount: 0
     features:
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4973202501285.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 114
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4973202501285"
         available: true
@@ -166,7 +166,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10155171.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 522
         rating: 0
         reviewCount: 0
@@ -199,7 +199,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Famethystwebshop%2F1000x6.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 2420
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/amethystwebshop_1000x6"
         available: true
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Famethystwebshop%2F92189.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 352
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/amethystwebshop_92189"
         available: true
@@ -320,7 +320,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkintarou%2F4976558006428.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 168
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kintarou_4976558006428"
         available: true

@@ -4,7 +4,7 @@ description: "除湿剤おすすめ9選を吸湿量1mLあたりの単価で徹�
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 products:
   - rank: 1
     name: "水とりぞうさん 550ml×3個 タンクタイプ"
@@ -13,7 +13,7 @@ products:
     capacity: "550mL×3個（1,650mL分）"
     pricePerUnit: "約0.12円/mL"
     rating: 4.95
-    reviewCount: 19
+    reviewCount: 20
     features:
       - "定番ブランドの標準的なタンクタイプ"
       - "3個パックの最小単位で販売"
@@ -164,8 +164,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawarikikaku%2Fcostoco-mizutori-a.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-02"
+        matchStatus: "matched"
+        updatedAt: "2026-08-04"
         price: 1618
         rating: 4.75
         reviewCount: 4
@@ -196,13 +196,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F4522831169825.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F4522831169818.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-04"
         price: 1090
         rating: 0
         reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_4522831169825"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_4522831169818"
         available: true
   - rank: 9
     name: "コーナン 除湿剤 500ml 置き型"
@@ -230,8 +230,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F4522831781188.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-02"
+        matchStatus: "matched"
+        updatedAt: "2026-08-04"
         price: 990
         rating: 4.14
         reviewCount: 7

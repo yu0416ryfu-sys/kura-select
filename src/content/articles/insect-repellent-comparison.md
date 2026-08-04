@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 draft: false
 products:
   - rank: 1

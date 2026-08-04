@@ -4,7 +4,7 @@ description: "おむつ・生ゴミ用の防臭袋おすすめ10選をコスパ�
 category: "deodorizing-bag"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.78
-    reviewCount: 746
+    reviewCount: 747
     features:
       - "本来は食パン用のポリプロピレン製袋"
       - "厚みのあるPP素材で口を結んで密閉しやすい"
@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2Fpphalf300.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-02"
-        price: 1135
+        updatedAt: "2026-08-04"
+        price: 1130
         rating: 4.84
-        reviewCount: 918
+        reviewCount: 919
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_pphalf300"
         available: true
   - rank: 2
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b020a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-04"
         price: 2970
         rating: 4.88
         reviewCount: 98
@@ -122,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurusatochoice%2F5681229.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-04"
         price: 13000
         rating: 0
         reviewCount: 0
@@ -157,7 +157,7 @@ products:
     capacity: "200枚"
     pricePerUnit: "約9.5円/枚"
     rating: 4.85
-    reviewCount: 3724
+    reviewCount: 3725
     features:
       - "SSサイズより一回り大きい標準サイズ"
       - "テープ型からパンツ型まで幅広いおむつサイズを想定した寸法"
@@ -177,7 +177,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b002a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-04"
         price: 1909
         rating: 4.86
         reviewCount: 772
@@ -210,7 +210,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b003a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-04"
         price: 1375
         rating: 4.83
         reviewCount: 392
@@ -243,7 +243,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-1094.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-04"
         price: 2616
         rating: 4.89
         reviewCount: 73
@@ -256,7 +256,7 @@ products:
     capacity: "90枚"
     pricePerUnit: "約19円/枚"
     rating: 4.83
-    reviewCount: 1641
+    reviewCount: 1642
     features:
       - "大人用おむつや介護用途を想定した大きめサイズ"
       - "パッド類やリハビリパンツも入れられる寸法"
@@ -276,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b004a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-04"
         price: 1694
         rating: 4.81
         reviewCount: 487
@@ -309,7 +309,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b005a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-04"
         price: 1650
         rating: 4.85
         reviewCount: 189

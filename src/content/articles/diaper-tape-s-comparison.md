@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつ9製品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 products:
   - rank: 1
     name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚 旧パッケージ"
@@ -88,12 +88,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-16"
+        updatedAt: "2026-08-04"
         price: 7084
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true
-        rating: 4.75
-        reviewCount: 52
+        rating: 4.74
+        reviewCount: 53
   - rank: 4
     name: "パンパース テープ Sサイズ 74枚×4袋"
     brand: "P&G（パンパース）"
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02650.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-27"
+        updatedAt: "2026-08-04"
         price: 4449
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos02650"
         available: true
@@ -233,7 +233,7 @@ products:
     capacity: "84枚/4パック"
     pricePerUnit: "約109円/枚"
     rating: 4.68
-    reviewCount: 3913
+    reviewCount: 3914
     features:
       - "全面通気性に優れたエアスルー素材採用"
       - "360度フィットで漏れを防止"

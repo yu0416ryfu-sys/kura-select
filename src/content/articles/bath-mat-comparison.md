@@ -4,13 +4,13 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 draft: false
 products:
   - rank: 1
     name: "シンプルカラーバスマット"
     brand: "タオルの森"
-    price: 990
+    price: 890
     capacity: "40×60cm 1枚"
     pricePerUnit: "約890円/枚"
     rating: 4.43
@@ -130,7 +130,7 @@ products:
     capacity: "42×67cm 1枚"
     pricePerUnit: "約1800円/枚"
     rating: 4.61
-    reviewCount: 2108
+    reviewCount: 2109
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -251,7 +251,7 @@ products:
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
     rating: 4.42
-    reviewCount: 2623
+    reviewCount: 2624
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

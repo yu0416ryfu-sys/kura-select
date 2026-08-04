@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset-eva340.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-03"
         price: 1880
         rating: 4.49
         reviewCount: 1936
@@ -69,7 +69,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約26円/本"
     rating: 4.69
-    reviewCount: 629
+    reviewCount: 630
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

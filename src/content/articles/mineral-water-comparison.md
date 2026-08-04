@@ -4,7 +4,7 @@ description: "サントリー・アサヒ・エビアンなど人気の天然水
 category: "mineral-water"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 draft: false
 products:
   - rank: 1
@@ -102,7 +102,7 @@ products:
     capacity: "500mL×24本（12L）"
     pricePerUnit: "約109円/L"
     rating: 4.69
-    reviewCount: 1676
+    reviewCount: 1678
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"
@@ -216,6 +216,17 @@ products:
     recommendedFor: "海外の水が好きだが硬水は苦手な方・シリカ含有水を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qj33n.3rdw67f0.g00qj33n.3rdw7fff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhobbytoy%2F9416005-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhobbytoy%2Fi%2F10139402%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hobbytoy/cabinet/10126285/imgrc0119085333.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F9416005.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-04"
+        price: 5230
+        rating: 4
+        reviewCount: 21
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_9416005"
+        available: true
   - rank: 10
     name: "エビアン 天然水 硬水 500mL×24本"
     brand: "evian"

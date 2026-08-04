@@ -4,7 +4,7 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-08-03"
+updatedAt: "2026-08-04"
 draft: false
 products:
   - rank: 1
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaumall%2F42552987.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-16"
+        updatedAt: "2026-08-04"
         price: 958
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaumall_42552987"
         available: true
@@ -276,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhak00a074f.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-04"
         price: 1168
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hak00a074f"
         available: true
@@ -309,7 +309,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fla-kurasu%2F186930-10s.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-04"
         price: 2150
         rating: 4.71
         reviewCount: 80
