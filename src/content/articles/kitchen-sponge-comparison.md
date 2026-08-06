@@ -1,6 +1,6 @@
 ---
 title: "食器用スポンジ・キッチンスポンジ コスパ比較【2026年版】1個単価と耐久性"
-description: "食器用スポンジ・キッチンスポンジを1個あたりで比較。ダスキン、パックス、マーナなど10選を耐久性・泡立ち・交換頻度で整理し、食器洗い用に選びやすく解説します。"
+description: "食器用スポンジ・キッチンスポンジを1個あたりで比較。ダスキン、パックス、マーナなど9選を耐久性・泡立ち・交換頻度で整理し、食器洗い用に選びやすく解説します。"
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -106,28 +106,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sc6bn.3rdw6db2.g00sc6bn.3rdw709a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnactasukaru%2F10036_x%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnactasukaru%2Fi%2F10000285%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nactasukaru/cabinet/suponnji15/imgrc0080067301.jpg?_ex=128x128"
   - rank: 5
-    name: "ダスキン台所用スポンジ ハードタイプ ビタミンカラー 12個セット"
-    brand: "ダスキン"
-    price: 2340
-    capacity: "12個"
-    pricePerUnit: "約195円/個"
-    rating: 4.87
-    reviewCount: 304
-    features:
-      - "ライトグリーン・イエロー・ローズの明るいビタミンカラー3色"
-      - "抗菌素材のポリウレタンフォームを採用"
-      - "12個入りの大容量パックで長期保管に対応"
-    pros:
-      - "12個まとめ買いで1個あたりのコストを抑えられる"
-      - "明るいカラーでキッチンを華やかに演出できる"
-      - "抗菌素材で衛生的に使用しやすい"
-    cons:
-      - "色の選択肢がビタミンカラー3色のみに限定される"
-      - "大容量のため保管スペースが必要"
-    recommendedFor: "コスパを重視してまとめ買いしたい方・明るいカラーが好きな方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00scwvn.3rdw672a.g00scwvn.3rdw7cad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdusdus-shop%2Fnew0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdusdus-shop%2Fi%2F10000016%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dusdus-shop/cabinet/05082460/noprice/sponge/dsss12.jpg?_ex=128x128"
-  - rank: 6
     name: "【お試し・初回購入限定】太陽油脂　パックスナチュロン　キッチンスポンジ"
     brand: "太陽油脂（パックスナチュロン）"
     price: 199
@@ -160,7 +138,7 @@ products:
         available: true
         rating: 4.33
         reviewCount: 9
-  - rank: 7
+  - rank: 6
     name: "パックスナチュロン キッチンスポンジ"
     brand: "パックスナチュロン（PAX NATURON）"
     price: 2480
@@ -193,7 +171,7 @@ products:
         reviewCount: 91
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/vape-land_jj220125-1056"
         available: true
-  - rank: 8
+  - rank: 7
     name: "LA CORVETTE ベジタブルスポンジ 3個入り"
     brand: "LA CORVETTE"
     price: 880
@@ -226,7 +204,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 9
+  - rank: 8
     name: "マーナ おさかなスポンジ 選べる5個セット"
     brand: "MARNA（マーナ）"
     price: 1540
@@ -259,7 +237,7 @@ products:
         available: true
         rating: 4.63
         reviewCount: 19
-  - rank: 10
+  - rank: 9
     name: "サンサンスポンジ 8個セット"
     brand: "ダイニチ"
     price: 3073
