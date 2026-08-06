@@ -292,7 +292,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3b1n.3rdw673b.g00q3b1n.3rdw7e97/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetnext%2Fg360061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpetnext%2Fi%2F10000283%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/petnext/cabinet/yosioka/origi-re.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/petnext/cabinet/yosioka/egao_r.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

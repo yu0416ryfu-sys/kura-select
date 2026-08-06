@@ -46,7 +46,7 @@ products:
     capacity: "150g×6個（900g）"
     pricePerUnit: "約1.6円/g"
     rating: 4.43
-    reviewCount: 4305
+    reviewCount: 4306
     features:
       - "純度99%以上の硫酸マグネシウム配合"
       - "好みの香りを6種類から自由に選べる個包装"
@@ -216,13 +216,13 @@ products:
         rating: 4.22
         reviewCount: 9
   - rank: 8
-    name: "バスクリン きき湯 オリジナルギフトセット"
+    name: "バスクリン きき湯 オリジナルギフトセット 24包"
     brand: "バスクリン"
-    price: 3150
+    price: 4400
     capacity: "24個"
-    pricePerUnit: "約131円/個"
-    rating: 4.74
-    reviewCount: 151
+    pricePerUnit: "約183円/個"
+    rating: 4.92
+    reviewCount: 25
     features:
       - "温泉ミネラル成分配合で本格的な温浴効果"
       - "天然の香料を使用した豊かな香り"
@@ -235,8 +235,8 @@ products:
       - "粉末タイプで溶け残りが気になることがある"
       - "浴槽の着色が気になる色もある"
     recommendedFor: "最安値を求める方・温泉気分を楽しみたい方・疲労回復を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pye9n.3rdw63be.g00pye9n.3rdw7c6f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faikuru%2F111542030%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faikuru%2Fi%2F10103648%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aikuru/cabinet/sp/13433485/0548-052-34_0603.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rs30n.3rdw6647.g00rs30n.3rdw71f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbigban%2Fkky-30b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbigban%2Fi%2F10000767%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bigban/cabinet/24s/24-0548-052m.jpg?_ex=128x128"
   - rank: 9
     name: "木酢液 紀州備長炭 原液"
     brand: "紀州びお和歌山"

@@ -118,13 +118,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901331003301-009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12148065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic4900/4901331003301_1.jpg?_ex=128x128"
   - rank: 5
-    name: "ハイドロ5 カスタム 本体+替刃16個セット"
+    name: "シック ハイドロ5 カスタム 本体+替刃16個セット"
     brand: "シック（Schick）"
-    price: 2868
-    capacity: "本体1個+替刃16個"
+    price: 3480
+    capacity: "本体1個＋替刃16個"
     pricePerUnit: "約2978円/本"
-    rating: 4.72
-    reviewCount: 50
+    rating: 5
+    reviewCount: 4
     features:
       - "5枚刃で広い面積をまとめて剃れる構造"
       - "極薄ヘッドで鼻下やあご周りなど細部へのフィット性が高い"
@@ -137,8 +137,8 @@ products:
       - "ヘッドがやや大きめで鼻の下などの狭い部分は剃りにくい場合がある"
       - "3枚刃より刃が多いため詰まりを感じやすい太いひげには水洗いを頻繁に行う必要がある"
     recommendedFor: "5枚刃で深剃りを求める方・本体と替刃をまとめて揃えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sa3qn.3rdw64a4.g00sa3qn.3rdw76a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopavail%2F239%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopavail%2Fi%2F10000284%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shopavail/cabinet/nichiyouzakka/compass1640313753.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u9ufn.3rdw67db.g00u9ufn.3rdw7f61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwansa-kun-shop%2Fgeneral-shaver016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwansa-kun-shop%2Fi%2F10000096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wansa-kun-shop/cabinet/item_img/general-shaver016_01.jpg?_ex=128x128"
   - rank: 6
     name: "マッハシンスリー ターボ 替刃 8コ入り"
     brand: "ジレット（Gillette）"

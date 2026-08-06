@@ -4,7 +4,7 @@ description: "粘着クリーナー（コロコロ）を1巻あたりのコス�
 category: "lint-roller"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-07-28"
+updatedAt: "2026-08-06"
 products:
   - rank: 1
     name: "粘着クリーナー スペアテープ 粘着王 お得な3巻入"
@@ -29,13 +29,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4eyn.3rdw6ddc.g00s4eyn.3rdw7319/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiryushop%2Fkorokoro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiryushop%2Fi%2F10006942%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiryushop/cabinet/health3/korokoro-00.jpg?_ex=128x128"
   - rank: 2
-    name: "激コロ スゴ技ななめカット 粘着スペアテープ"
+    name: "激コロくん スゴ技ななめカット 粘着スペアテープ 3巻×2"
     brand: "レック（LEC）"
-    price: 650
-    capacity: "6巻"
-    pricePerUnit: "約108円/巻"
-    rating: 4.57
-    reviewCount: 30
+    price: 762
+    capacity: "3巻×2（6巻）"
+    pricePerUnit: "約127円/巻"
+    rating: 1
+    reviewCount: 1
     features:
       - "コロコロ本体用の替え粘着テープ"
       - "斜めカットで切れ目を見つけやすい設計"
@@ -48,8 +48,8 @@ products:
       - "対応する本体が必要"
       - "テープ幅が合う本体か確認が必要"
     recommendedFor: "コロコロの替えテープをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe482617h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10580722%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/193/4903320592193.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F47704%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10859735%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/704/47704.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -64,9 +64,9 @@ products:
   - rank: 3
     name: "3M スコッチ ブライト 衣類用粘着クリーナー ペタコロ用ス"
     brand: "3M（スコッチ・ブライト）"
-    price: 414
+    price: 426
     capacity: "2巻"
-    pricePerUnit: "約207円/巻"
+    pricePerUnit: "約213円/巻"
     rating: 5
     reviewCount: 1
     features:

@@ -69,7 +69,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約26円/本"
     rating: 4.69
-    reviewCount: 630
+    reviewCount: 631
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

@@ -156,7 +156,7 @@ products:
     capacity: "96枚"
     pricePerUnit: "約73円/枚"
     rating: 4.76
-    reviewCount: 193
+    reviewCount: 194
     features:
       - "ネット状の肌触りで蒸れにくく快適"
       - "パラベン・アルコール無添加の低刺激処方"

@@ -7,28 +7,6 @@ articleType: "comparison"
 updatedAt: "2026-08-06"
 products:
   - rank: 1
-    name: "水とりぞうさん 550ml×3個 タンクタイプ"
-    brand: "オカモト（水とりぞうさん）"
-    price: 198
-    capacity: "550mL×3個（1,650mL分）"
-    pricePerUnit: "約0.12円/mL"
-    rating: 4.95
-    reviewCount: 20
-    features:
-      - "定番ブランドの標準的なタンクタイプ"
-      - "3個パックの最小単位で販売"
-      - "押し入れ・クローゼット・下駄箱などに対応"
-    pros:
-      - "少量から試せて初めての1セットに選びやすい"
-      - "定番ブランドで店頭でも買い足しやすい"
-      - "保管スペースをほとんど取らない"
-    cons:
-      - "まとめ買いに比べると吸湿量あたりの単価は上がりやすい"
-      - "設置箇所が多い家庭では数が足りなくなりやすい"
-    recommendedFor: "まず少量から試したい方・置き場所が数か所の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ujrmn.3rdw6859.g00ujrmn.3rdw7429/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsunday-netshop%2Fs4904637999804%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsunday-netshop%2Fi%2F10003577%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sunday-netshop/cabinet/thumbnailimg/1/main-s4904637999804.jpg?_ex=128x128"
-  - rank: 2
     name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
     brand: "オカモト（水とりぞうさん）"
     price: 4280
@@ -50,7 +28,7 @@ products:
     recommendedFor: "押し入れ・クローゼット・納戸など湿気の多い広い収納スペースに"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F4904637999866set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10017235%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_okamoto1/4904637999804set.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "ドライペットスキット 420ml×3個パック"
     brand: "エステー（ドライペット）"
     price: 228
@@ -72,6 +50,28 @@ products:
     recommendedFor: "必要な分だけ買い足したい方・ドライペットを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901070910168%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10109203%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/80/4901070910168.jpg?_ex=128x128"
+  - rank: 3
+    name: "水とりぞうさん 550ml×3個×5パック タンクタイプ"
+    brand: "オカモト（水とりぞうさん）"
+    price: 1874
+    capacity: "550mL×3個×5パック（8,250mL）"
+    pricePerUnit: "約0.23円/mL"
+    rating: 4.61
+    reviewCount: 38
+    features:
+      - "定番ブランドの標準的なタンクタイプ"
+      - "3個パックの最小単位で販売"
+      - "押し入れ・クローゼット・下駄箱などに対応"
+    pros:
+      - "少量から試せて初めての1セットに選びやすい"
+      - "定番ブランドで店頭でも買い足しやすい"
+      - "保管スペースをほとんど取らない"
+    cons:
+      - "まとめ買いに比べると吸湿量あたりの単価は上がりやすい"
+      - "設置箇所が多い家庭では数が足りなくなりやすい"
+    recommendedFor: "まず少量から試したい方・置き場所が数か所の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4904637999804-005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10163782%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic4903/4904637999804_1.jpg?_ex=128x128"
   - rank: 4
     name: "ドライ ドライUP NECO 1000mL×2個"
     brand: "白元アース（ドライ&ドライUP）"

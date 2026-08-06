@@ -10,7 +10,7 @@ products:
   - rank: 1
     name: "ヴァセリン アドバンスドリペア ボディローション 500ml×3本 フェイス ボディ"
     brand: "ヴァセリン"
-    price: 2198
+    price: 2228
     capacity: "500ml×3"
     pricePerUnit: "約1.5円/mL"
     rating: 4.77

@@ -7,6 +7,39 @@ articleType: "comparison"
 updatedAt: "2026-08-06"
 products:
   - rank: 1
+    name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
+    brand: "花王（キュレル）"
+    price: 1300
+    capacity: "180mL"
+    pricePerUnit: "約7.2円/mL"
+    rating: 4.67
+    reviewCount: 9
+    features:
+      - "セラミドケア処方で洗いながら潤いを守る"
+      - "敏感肌・乾燥肌向けに設計された低刺激フォーム"
+      - "泡立てて使うクレンジングフォームタイプ"
+    pros:
+      - "皮膚科医・アレルギー専門医の協力のもと開発された低刺激処方"
+      - "洗い流し後も肌がしっとりしてつっぱらない"
+      - "敏感肌でも使いやすい処方で肌荒れしにくい"
+    cons:
+      - "150mLで容量が少なめのため頻繁に購入が必要"
+      - "濃いメイクはしっかり落ちにくい場合がある"
+    recommendedFor: "敏感肌・乾燥肌の方・肌荒れが気になる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tjrkn.3rdw628c.g00tjrkn.3rdw754d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsup-s-r%2Fr20250207-curel-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsup-s-r%2Fi%2F10001251%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sup-s-r/cabinet/curel/imgrc0095274370.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsup-s%2Fyah20250207-curel.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-03"
+        price: 1390
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sup-s_yah20250207-curel"
+        available: true
+        rating: 5
+        reviewCount: 3
+  - rank: 2
     name: "レステモ クレンジングオイル プロサイズ 480mL"
     brand: "レステモ"
     price: 3980
@@ -28,7 +61,7 @@ products:
     recommendedFor: "メイクの濃さに合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdaen.3rdw686c.g00qdaen.3rdw7002/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flesthemo%2Fcl-480ml%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flesthemo%2Fi%2F10000258%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/cleansing480ml_27.jpg?_ex=128x128"
-  - rank: 2
+  - rank: 3
     name: "manyo ピュアクレンジングオイル 400mL"
     brand: "manyo"
     price: 3780
@@ -61,7 +94,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 3
+  - rank: 4
     name: "ソフティモ スピーディオイルクレンジング 230mL"
     brand: "コーセー（ソフティモ）"
     price: 2270
@@ -83,10 +116,10 @@ products:
     recommendedFor: "フルメイク派の方・ウォータープルーフアイテムをよく使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw2pn.3rdw6069.g00tw2pn.3rdw7b19/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyland%2F1736928005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyland%2Fi%2F10000272%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyland/cabinet/compass1736927868.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "Anua ドクダミポアコントロールクレンジングオイル 200mL"
     brand: "Anua"
-    price: 2450
+    price: 2300
     capacity: "200mL"
     pricePerUnit: "約12円/mL"
     rating: 4.69
@@ -116,39 +149,6 @@ products:
         available: true
         rating: 4.65
         reviewCount: 49
-  - rank: 5
-    name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
-    brand: "花王（キュレル）"
-    price: 2400
-    capacity: "180mL"
-    pricePerUnit: "約13円/mL"
-    rating: 4.67
-    reviewCount: 9
-    features:
-      - "セラミドケア処方で洗いながら潤いを守る"
-      - "敏感肌・乾燥肌向けに設計された低刺激フォーム"
-      - "泡立てて使うクレンジングフォームタイプ"
-    pros:
-      - "皮膚科医・アレルギー専門医の協力のもと開発された低刺激処方"
-      - "洗い流し後も肌がしっとりしてつっぱらない"
-      - "敏感肌でも使いやすい処方で肌荒れしにくい"
-    cons:
-      - "150mLで容量が少なめのため頻繁に購入が必要"
-      - "濃いメイクはしっかり落ちにくい場合がある"
-    recommendedFor: "敏感肌・乾燥肌の方・肌荒れが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tjrkn.3rdw628c.g00tjrkn.3rdw754d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsup-s-r%2Fr20250207-curel-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsup-s-r%2Fi%2F10001251%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sup-s-r/cabinet/curel/imgrc0095274370.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsup-s%2Fyah20250207-curel.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-03"
-        price: 1390
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sup-s_yah20250207-curel"
-        available: true
-        rating: 5
-        reviewCount: 3
   - rank: 6
     name: "manyo ピュアクレンジングオイル ディープクリーン 200mL"
     brand: "manyo"

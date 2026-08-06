@@ -13,7 +13,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1265円/kg"
     rating: 4.79
-    reviewCount: 2994
+    reviewCount: 2995
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -131,9 +131,9 @@ products:
   - rank: 5
     name: "リセッシュ除菌EX ワイドジェット ストロング つめかえ用 630mL"
     brand: "花王"
-    price: 798
+    price: 740
     capacity: "630mL"
-    pricePerUnit: "約1.3円/mL"
+    pricePerUnit: "約1.2円/mL"
     rating: 4
     reviewCount: 1
     features:
@@ -151,8 +151,8 @@ products:
       - "スプレータイプのため一時的な効果が中心"
       - "無香タイプのため香りを楽しみたい人には不向き"
     recommendedFor: "コスパ重視・まとめ買い派・広いリビングに置きたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4901301433169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F14686341%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/10069/00000012754504_a01.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qxwtn.3rdw642e.g00qxwtn.3rdw77a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-azzuro-%2F10039743%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-azzuro-%2Fi%2F10055680%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-azzuro-/cabinet/product_img12/10039743.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

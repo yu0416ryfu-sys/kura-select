@@ -10,7 +10,7 @@ products:
   - rank: 1
     name: "スコッティ ティッシュ ホワイトパッケージ 60箱"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5016
+    price: 4995
     capacity: "400枚（200組）×60箱"
     pricePerUnit: "約0.42円/組"
     rating: 4.75
@@ -43,7 +43,7 @@ products:
   - rank: 2
     name: "スコッティ ティッシュ 200組 60箱セット"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5016
+    price: 4995
     capacity: "200組×60箱"
     pricePerUnit: "約0.42円/組"
     rating: 4.67

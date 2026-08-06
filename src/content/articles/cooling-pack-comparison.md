@@ -12,8 +12,8 @@ products:
     price: 770
     capacity: "1個"
     pricePerUnit: "約770円/個"
-    rating: 4.67
-    reviewCount: 181
+    rating: 4.68
+    reviewCount: 183
     features:
       - "繰り返し使える保冷剤タイプ"
       - "保冷バッグやクーラーボックスに入れやすい形状"
@@ -205,28 +205,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prban.3rdw6259.g00prban.3rdw74a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa10077%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10060767%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a10077.jpg?_ex=128x128"
   - rank: 9
-    name: "PYKES PEAK 氷点下パック ハードタイプ"
-    brand: "PYKES PEAK"
-    price: 1280
-    capacity: "650g"
-    pricePerUnit: "約2.0円/g"
-    rating: 4.31
-    reviewCount: 78
-    features:
-      - "650g・14×20cmの大判ハードタイプで氷点下を長時間維持する設計"
-      - "繰り返し使用可能でキャンプ・アウトドア・釣り・ピクニックに対応"
-      - "クーラーボックスへの収納を想定したフラットな形状"
-    pros:
-      - "650gの大容量タイプのため保冷力・保冷持続時間を重視する用途に向いている"
-      - "氷点下対応で魚・肉など低温管理が必要な食材の持ち運びに使いやすい"
-      - "アウトドア・釣りなど長時間の屋外使用シーンで選ばれやすい"
-    cons:
-      - "大判サイズのため小型の保冷バッグには入らない場合がある"
-      - "凍結には十分な冷凍時間が必要なため前日からの準備が推奨される"
-    recommendedFor: "氷点下保冷が必要な釣りやアウトドアで大型ハードタイプを使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sulxn.3rdw64be.g00sulxn.3rdw75f6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpykespeak%2Fp0079hypk07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpykespeak%2Fi%2F10001977%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pykespeak/cabinet/top/p0079_01.jpg?_ex=128x128"
-  - rank: 10
     name: "HUGEL 氷点下保冷剤 急速凍結タイプ Mサイズ"
     brand: "HUGEL"
     price: 1180

@@ -251,9 +251,9 @@ products:
   - rank: 10
     name: "パナソニック 洗濯槽クリーナー 縦型用 N-W1A"
     brand: "パナソニック（Panasonic）"
-    price: 1584
+    price: 2079
     capacity: "1個"
-    pricePerUnit: "約1584円/個"
+    pricePerUnit: "約2079円/個"
     rating: 4.72
     reviewCount: 487
     features:

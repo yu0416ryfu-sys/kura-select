@@ -123,7 +123,7 @@ products:
     capacity: "450ml×6袋（2700ml）"
     pricePerUnit: "約1.1円/ml"
     rating: 4.82
-    reviewCount: 223
+    reviewCount: 224
     features:
       - "抗菌成分を配合した液体タイプの酸素系漂白剤"
       - "部屋干し時の菌のケアを想定した処方"
