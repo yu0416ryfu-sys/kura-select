@@ -4,7 +4,7 @@ description: "介護用・大人用おしりふきのおすすめ9選を1枚あ�
 category: "adult-wipes"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-06"
 draft: false
 products:
   - rank: 1
@@ -28,7 +28,7 @@ products:
       - "厚手タイプに比べると拭き心地はあっさりめ"
     recommendedFor: "無香料・ノンアルコールを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F87062%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10003006%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0804_p5100/kirikae2/87062.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0804_p5/kirikae2/87062.jpg?_ex=128x128"
   - rank: 2
     name: "大人用おしりふき 厚手 トイレに流せる 72枚×10パック"
     brand: "わごんせる金橋"
@@ -80,7 +80,7 @@ products:
     capacity: "72枚×12袋（864枚）"
     pricePerUnit: "約4.9円/枚"
     rating: 4.79
-    reviewCount: 84
+    reviewCount: 85
     features:
       - "厚手素材でしっかり拭き取れる設計"
       - "使用後はトイレに流せる水解性シート"

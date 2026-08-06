@@ -4,7 +4,7 @@ description: "ジェルボール洗剤を1個あたりのコストで徹底比�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-08-06"
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"
@@ -75,9 +75,9 @@ products:
   - rank: 3
     name: "さらさ 洗濯洗剤 詰め替え 6個セット"
     brand: "P&G（さらさ）"
-    price: 8481
+    price: 7905
     capacity: "1490g×6個セット"
-    pricePerUnit: "約0.95円/g"
+    pricePerUnit: "約0.88円/g"
     rating: 4.72
     reviewCount: 164
     features:
@@ -108,9 +108,9 @@ products:
   - rank: 4
     name: "さらさ 洗濯洗剤 詰め替え"
     brand: "P&G（さらさ）"
-    price: 8481
+    price: 7905
     capacity: "1490g"
-    pricePerUnit: "約5.7円/g"
+    pricePerUnit: "約5.3円/g"
     rating: 4.56
     reviewCount: 265
     features:

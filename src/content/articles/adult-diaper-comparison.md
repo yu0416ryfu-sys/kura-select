@@ -4,7 +4,7 @@ description: "大人用紙おむつ・尿とりパッドのおすすめ10選を1
 category: "adult-diaper"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-08-06"
 products:
   - rank: 1
     name: "ひまわり にっこり緑茶パッド 2回吸収 300枚"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F10004173.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-03"
+        updatedAt: "2026-08-05"
         price: 7260
         rating: 4.77
         reviewCount: 94
@@ -46,7 +46,7 @@ products:
     capacity: "120枚"
     pricePerUnit: "約32円/枚"
     rating: 4.74
-    reviewCount: 782
+    reviewCount: 784
     features:
       - "パンツタイプの大人用紙おむつ"
       - "一枚ずつ分けて持ち運べる個包装"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00181.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-03"
+        updatedAt: "2026-08-05"
         price: 7876
         rating: 4.54
         reviewCount: 65
@@ -121,18 +121,73 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00170.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-03"
+        updatedAt: "2026-08-05"
         price: 7128
         rating: 4.5
         reviewCount: 101
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_g00170"
         available: true
   - rank: 5
+    name: "サルバ やわ楽パンツ M 96枚"
+    brand: "サルバ"
+    price: 6270
+    capacity: "96枚"
+    pricePerUnit: "約65円/枚"
+    rating: 4.72
+    reviewCount: 442
+    features:
+      - "男女共用のパンツタイプ"
+      - "やわらかい肌当たりの素材設計"
+      - "Mサイズ中心のサイズ展開"
+    pros:
+      - "はき心地を重視する方に向く"
+      - "介助なしで着脱しやすい"
+      - "ドラッグストアでも定番のブランド"
+    cons:
+      - "腰回りのサイズ確認が必要"
+      - "パッド併用前提だとコストが増える"
+    recommendedFor: "はき心地重視で選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pve3n.3rdw6e49.g00pve3n.3rdw72d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhimawari-kaigo%2F10005817%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhimawari-kaigo%2Fi%2F10005817%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/himawari-kaigo/cabinet/00309601/g00641-case-sokuhai.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5817.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-05"
+        price: 6270
+        rating: 4.51
+        reviewCount: 78
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_5817"
+        available: true
+  - rank: 6
+    name: "アテント 夜用安心パッド 6回吸収 66枚"
+    brand: "アテント"
+    price: 4323
+    capacity: "66枚"
+    pricePerUnit: "約66円/枚"
+    rating: 4.76
+    reviewCount: 701
+    features:
+      - "夜間の長時間使用を想定したパッド"
+      - "多めの吸収量に対応する厚手設計"
+      - "紙パンツに重ねて使うタイプ"
+    pros:
+      - "夜中の交換回数を減らしたい方に向く"
+      - "就寝中の漏れが気になる方の備えに"
+      - "朝までの安心感を求める方に"
+    cons:
+      - "日中の軽い使用にはオーバースペック"
+      - "厚みがあるためかさばりやすい"
+    recommendedFor: "夜間の漏れ対策を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pve3n.3rdw6e49.g00pve3n.3rdw72d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhimawari-kaigo%2F10005075%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhimawari-kaigo%2Fi%2F10005075%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/himawari-kaigo/cabinet/kami/g019453case-2024.jpg?_ex=128x128"
+  - rank: 7
     name: "サルバ フレーヌケア ナイトロング 30枚×3袋（90枚）"
     brand: "サルバ"
-    price: 5841
+    price: 5940
     capacity: "30枚×3袋（90枚）"
-    pricePerUnit: "約65円/枚"
+    pricePerUnit: "約66円/枚"
     rating: 4.76
     reviewCount: 594
     features:
@@ -160,61 +215,6 @@ products:
         reviewCount: 15
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kintarou_4987603332188-3"
         available: true
-  - rank: 6
-    name: "サルバ やわ楽パンツ M 96枚"
-    brand: "サルバ"
-    price: 6270
-    capacity: "96枚"
-    pricePerUnit: "約65円/枚"
-    rating: 4.72
-    reviewCount: 442
-    features:
-      - "男女共用のパンツタイプ"
-      - "やわらかい肌当たりの素材設計"
-      - "Mサイズ中心のサイズ展開"
-    pros:
-      - "はき心地を重視する方に向く"
-      - "介助なしで着脱しやすい"
-      - "ドラッグストアでも定番のブランド"
-    cons:
-      - "腰回りのサイズ確認が必要"
-      - "パッド併用前提だとコストが増える"
-    recommendedFor: "はき心地重視で選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pve3n.3rdw6e49.g00pve3n.3rdw72d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhimawari-kaigo%2F10005817%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhimawari-kaigo%2Fi%2F10005817%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/himawari-kaigo/cabinet/00309601/g00641-case-sokuhai.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5817.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-03"
-        price: 6270
-        rating: 4.51
-        reviewCount: 78
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_5817"
-        available: true
-  - rank: 7
-    name: "アテント 夜用安心パッド 6回吸収 66枚"
-    brand: "アテント"
-    price: 4323
-    capacity: "66枚"
-    pricePerUnit: "約66円/枚"
-    rating: 4.76
-    reviewCount: 700
-    features:
-      - "夜間の長時間使用を想定したパッド"
-      - "多めの吸収量に対応する厚手設計"
-      - "紙パンツに重ねて使うタイプ"
-    pros:
-      - "夜中の交換回数を減らしたい方に向く"
-      - "就寝中の漏れが気になる方の備えに"
-      - "朝までの安心感を求める方に"
-    cons:
-      - "日中の軽い使用にはオーバースペック"
-      - "厚みがあるためかさばりやすい"
-    recommendedFor: "夜間の漏れ対策を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pve3n.3rdw6e49.g00pve3n.3rdw72d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhimawari-kaigo%2F10005075%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhimawari-kaigo%2Fi%2F10005075%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/himawari-kaigo/cabinet/kami/g019453case-2024.jpg?_ex=128x128"
   - rank: 8
     name: "サルバ うす型やわ楽パンツ"
     brand: "サルバ"

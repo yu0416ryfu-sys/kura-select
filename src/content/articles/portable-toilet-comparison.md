@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ10選を1回
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-08-06"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "60回分（50回＋10回）"
     pricePerUnit: "約21円/回"
     rating: 4.5
-    reviewCount: 7043
+    reviewCount: 7056
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -28,7 +28,7 @@ products:
       - "セット量が多く収納スペースを取りやすい"
     recommendedFor: "在宅避難向けにまとまった回数を備えたい世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ue8bn.3rdw65ff.g00ue8bn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr1-shop%2Fcsd-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr1-shop%2Fi%2F10000062%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r1-shop/cabinet/09975530/09975535/csdgai/zt.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r1-shop/cabinet/10018776/10041819/310.jpg?_ex=128x128"
   - rank: 2
     name: "簡易トイレ 防災士監修 凝固剤 消臭 セット"
     brand: "Taigu"
@@ -135,7 +135,7 @@ products:
     capacity: "100回分"
     pricePerUnit: "約50円/回"
     rating: 4.59
-    reviewCount: 1338
+    reviewCount: 1339
     features:
       - "凝固剤と汚物袋がそろった災害用セット"
       - "超長期保存に対応し入れ替え頻度を抑えやすい"
@@ -188,10 +188,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2Fps-100.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-06"
         price: 4999
         rating: 4.53
-        reviewCount: 608
+        reviewCount: 611
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
         available: true
   - rank: 7
@@ -201,7 +201,7 @@ products:
     capacity: "50回分"
     pricePerUnit: "約60円/回"
     rating: 4.45
-    reviewCount: 4074
+    reviewCount: 4076
     features:
       - "吸水ポリマーを使ったシートタイプの凝固剤"
       - "災害用・非常用として個包装で使いやすい構成"

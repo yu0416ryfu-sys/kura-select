@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-08-06"
 draft: false
 products:
   - rank: 1
@@ -43,7 +43,7 @@ products:
   - rank: 2
     name: "ロイヤルカナン インドア 成猫用"
     brand: "ロイヤルカナン"
-    price: 13299
+    price: 13296
     capacity: "10kg"
     pricePerUnit: "約1.3円/g"
     rating: 4.73
@@ -67,12 +67,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F75320.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-05"
         price: 13950
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_75320"
         available: true
         rating: 4.73
-        reviewCount: 742
+        reviewCount: 743
   - rank: 3
     name: "ロイヤルカナン インドア 7+ 室内中高齢猫用 3.5kg"
     brand: "ロイヤルカナン"
@@ -98,13 +98,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffamilypet%2F52905133.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687310.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-01"
-        price: 5280
-        rating: 4.58
-        reviewCount: 89
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/familypet_52905133"
+        updatedAt: "2026-08-05"
+        price: 5759
+        rating: 4.68
+        reviewCount: 387
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687310"
         available: true
   - rank: 4
     name: "ロイヤルカナン インドア 4kg"
@@ -178,8 +178,8 @@ products:
     price: 4081
     capacity: "2kg"
     pricePerUnit: "約2.0円/g"
-    rating: 4.68
-    reviewCount: 888
+    rating: 4.69
+    reviewCount: 896
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -199,7 +199,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnutro-galenus%2F841762198.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-05"
         price: 3980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nutro-galenus_841762198"
         available: true
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcell-apt%2Fc-2801-800-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-05"
         price: 5400
         rating: 0
         reviewCount: 0
@@ -244,8 +244,8 @@ products:
     price: 10670
     capacity: "2.7kg"
     pricePerUnit: "約4.0円/g"
-    rating: 4.83
-    reviewCount: 6
+    rating: 4.86
+    reviewCount: 7
     features:
       - "グレインフリー・グルテンフリーのアレルギー対応設計"
       - "カンガルー肉を主原料とした珍しいタンパク源を使用"
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetoukoku%2F42.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-05"
         price: 10670
         rating: 4.85
         reviewCount: 20
@@ -320,7 +320,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4902201210980.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-05"
         price: 3069
         rating: 0
         reviewCount: 0

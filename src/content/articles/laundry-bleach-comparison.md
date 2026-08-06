@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-06"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
@@ -28,6 +28,17 @@ products:
     recommendedFor: "まず少量から試したい方・保管場所を広く取れない方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10006969%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10006969%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin42/4901301745910.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301745910-73-30000846.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-06"
+        price: 210
+        rating: 4.8
+        reviewCount: 15
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901301745910-73-30000846"
+        available: true
   - rank: 2
     name: "ワイドハイター EXパワー 詰め替え 820ml×3セット"
     brand: "花王（ワイドハイター）"
@@ -77,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F574939.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-06"
         price: 3960
         rating: 0
         reviewCount: 0
@@ -127,6 +138,17 @@ products:
     recommendedFor: "部屋干し中心の方・衣類の菌や臭いが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F568082%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11206670%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/082/568082.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7288392.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-06"
+        price: 2890
+        rating: 4.83
+        reviewCount: 12
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7288392"
+        available: true
   - rank: 6
     name: "スマイルチョイス 衣料用ブリーチ 業務用 5kg"
     brand: "ミツエイ"
@@ -149,6 +171,17 @@ products:
     recommendedFor: "白物のタオルや肌着をしっかり漂白したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4978951060458%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10301885%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/yy/4978951060458.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4978951060458.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-06"
+        price: 991
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4978951060458"
+        available: true
   - rank: 7
     name: "シャボン玉 酸素系漂白剤 750g×3個セット"
     brand: "シャボン玉石けん"
@@ -174,7 +207,7 @@ products:
   - rank: 8
     name: "オキシクリーン 計量スプーン付き 5.26kg"
     brand: "グラフィコ（オキシクリーン）"
-    price: 3970
+    price: 3925
     capacity: "5.26kg"
     pricePerUnit: "約0.75円/g"
     rating: 4.64
@@ -193,6 +226,17 @@ products:
     recommendedFor: "多用途に使いたい方・つけ置き漂白派の方・SNSで話題の商品を試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F309892sm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0079732773.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F757037000915.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-06"
+        price: 3398
+        rating: 4.91
+        reviewCount: 33
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_757037000915"
+        available: true
   - rank: 9
     name: "ワイドハイター EXパワー 粉末タイプ 業務用 3.5kg"
     brand: "花王（ワイドハイター）"
@@ -215,6 +259,17 @@ products:
     recommendedFor: "つけ置き漂白を習慣にしたい方・洗濯量が多い家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe494690h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10593344%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/664/4901301334664.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fipstyle%2F12003.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-06"
+        price: 3520
+        rating: 5
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ipstyle_12003"
+        available: true
   - rank: 10
     name: "パックス 酸素系漂白剤 詰替用 500g"
     brand: "太陽油脂（パックス）"
@@ -237,6 +292,17 @@ products:
     recommendedFor: "石けん系の洗剤を使っている方・ナチュラル系の日用品を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q7yxn.3rdw6516.g00q7yxn.3rdw7e1e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmebox%2Fj4904735053064%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmebox%2Fi%2F10007065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmebox/cabinet/item75/j4904735053064_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmebox%2Fj4904735053064f.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-06"
+        price: 538
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosmebox_j4904735053064f"
+        available: true
 tags:
   - "漂白剤"
   - "コスパ"

@@ -4,7 +4,7 @@ description: "ティッシュペーパーを1組あたりのコストで徹底�
 category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-08-06"
 products:
   - rank: 1
     name: "ハロー ソフトパックティッシュ"
@@ -75,9 +75,9 @@ products:
   - rank: 4
     name: "スコッティ ティッシュペーパー フラワーボックス"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 7399
+    price: 7099
     capacity: "500枚×60箱"
-    pricePerUnit: "約0.49円/組"
+    pricePerUnit: "約0.47円/組"
     rating: 4.71
     reviewCount: 885
     features:
@@ -108,9 +108,9 @@ products:
   - rank: 5
     name: "クリネックス ティシュー 180組 5箱×12パック（60箱）"
     brand: "日本製紙クレシア（クリネックス）"
-    price: 5499
+    price: 5799
     capacity: "360枚×60箱（21600枚）"
-    pricePerUnit: "約0.51円/組"
+    pricePerUnit: "約0.54円/組"
     rating: 4.66
     reviewCount: 140
     features:

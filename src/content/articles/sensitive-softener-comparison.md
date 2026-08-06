@@ -4,7 +4,7 @@ description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹
 category: "fabric-softener"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-08-06"
 products:
   - rank: 1
     name: "さらさ 柔軟剤 詰替 超ジャンボ 1350ml×6袋"
@@ -42,9 +42,9 @@ products:
   - rank: 2
     name: "ランドリン 柔軟剤 詰め替えアソートセット 9個入り"
     brand: "ネイチャーラボ（ランドリン）"
-    price: 5382
+    price: 5920
     capacity: "480mL×7本・430mL×2本"
-    pricePerUnit: "約0.80円/mL"
+    pricePerUnit: "約0.88円/mL"
     rating: 4.73
     reviewCount: 108
     features:
@@ -88,8 +88,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
-        price: 1040
+        updatedAt: "2026-08-06"
+        price: 1160
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902135322537-73-30000839"
         available: true
         rating: 4.8
@@ -97,9 +97,9 @@ products:
   - rank: 4
     name: "ナイスアンドクイック ボタニカル 柔軟剤 詰替 ピュアコットンシャボンの香り 1320mL 2個セット"
     brand: "ナイスアンドクイック"
-    price: 2816
+    price: 2675
     capacity: "1320mL×2個"
-    pricePerUnit: "約1.1円/mL"
+    pricePerUnit: "約1.0円/mL"
     rating: 4.85
     reviewCount: 175
     features:
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffitsonlinestore%2Flds-softset3.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-06"
         price: 3465
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fitsonlinestore_lds-softset3"
         available: true

@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r001-4902011115482.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Feconvecoco%2F0810425.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-01"
-        price: 1751
+        updatedAt: "2026-08-05"
+        price: 1590
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r001-4902011115482"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/econvecoco_0810425"
         available: true
   - rank: 2
     name: "ムーニー マシュマロ肌ごこち 新生児 テープ"
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100639.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-05"
         price: 1804
         rating: 0
         reviewCount: 1
@@ -97,13 +97,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7285945.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkiiroihachi%2Fyahoo20250605-b01cg1tb4q.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-01"
-        price: 2050
+        updatedAt: "2026-08-05"
+        price: 1708
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7285945"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kiiroihachi_yahoo20250605-b01cg1tb4q"
         available: true
   - rank: 4
     name: "メリーズ エアスルー テープ 新生児"
@@ -132,10 +132,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301437693x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-05"
         price: 5980
-        rating: 4.92
-        reviewCount: 13
+        rating: 4.93
+        reviewCount: 15
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301437693x4"
         available: true
   - rank: 5
@@ -164,8 +164,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnetbaby%2F4903111123247.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        matchStatus: "matched"
+        updatedAt: "2026-08-05"
         price: 4494
         rating: 0
         reviewCount: 0
@@ -196,13 +196,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02652.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftigtig%2F25062704.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-25"
-        price: 4499
-        rating: 4.67
-        reviewCount: 3
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos02652"
+        updatedAt: "2026-08-05"
+        price: 5580
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tigtig_25062704"
         available: true
   - rank: 7
     name: "パンパース テープ新生児 144枚"

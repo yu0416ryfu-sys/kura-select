@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-08-06"
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "1本（4色ボールペン+シャープペンシル）"
     pricePerUnit: "約1000円/本"
     rating: 4.78
-    reviewCount: 13539
+    reviewCount: 13543
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"
@@ -50,7 +50,7 @@ products:
       - "多機能ペンのため単機能ペンより軸が太め"
     recommendedFor: "新色で個性を出したい方・卒業・誕生日の記念品を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbsyn.3rdw622d.g00qbsyn.3rdw79de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbugyo%2Fb06-21-277%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbugyo%2Fi%2F10004467%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/pen_2021/pen_2019_123d.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/icon/sale/b06-21-277_d0c500.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -116,9 +116,9 @@ products:
   - rank: 5
     name: "木製ボールペン 名入れ ケースセット"
     brand: "福来館"
-    price: 3000
+    price: 3300
     capacity: "1本+ケース1個のセット"
-    pricePerUnit: "約3000円/本"
+    pricePerUnit: "約3300円/本"
     rating: 4.74
     reviewCount: 2662
     features:
@@ -134,7 +134,7 @@ products:
       - "価格がジェットストリーム系より高めのため予算確認が必要"
     recommendedFor: "ナチュラル・木製雑貨が好きな方・退職祝いや卒業記念品に特別感を出したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pus9n.3rdw6c57.g00pus9n.3rdw7ed1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuraikan%2F3502-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuraikan%2Fi%2F10020594%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuraikan/cabinet/00491516/01781229/mz02.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuraikan/cabinet/12089717/imgrc0145999489.jpg?_ex=128x128"
   - rank: 6
     name: "パーカー IM ボールペン"
     brand: "Parker（パーカー）"

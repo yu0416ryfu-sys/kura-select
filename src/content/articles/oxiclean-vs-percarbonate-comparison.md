@@ -4,7 +4,7 @@ description: "オキシクリーンと過炭酸ナトリウム（酸素系漂白
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-08-06"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "3kg"
     pricePerUnit: "約0.38円/g"
     rating: 4.77
-    reviewCount: 804
+    reviewCount: 806
     features:
       - "過炭酸ナトリウム100%の大容量パック"
       - "洗濯槽掃除と衣類の漂白を想定した汎用タイプ"
@@ -46,8 +46,8 @@ products:
     price: 2140
     capacity: "4.5kg"
     pricePerUnit: "約0.48円/g"
-    rating: 4.84
-    reviewCount: 741
+    rating: 4.83
+    reviewCount: 743
     features:
       - "過炭酸ナトリウム100%の特大サイズ"
       - "洗濯槽掃除と浸け置き洗いを想定した容量"
@@ -140,6 +140,39 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ares_700056"
         available: true
   - rank: 5
+    name: "オキシクリーン マルチパーパスクリーナー 5.26kg"
+    brand: "OxiClean（アメリカ版）"
+    price: 3450
+    capacity: "5.26kg"
+    pricePerUnit: "約0.66円/g"
+    rating: 4.53
+    reviewCount: 183
+    features:
+      - "アメリカ向け仕様のマルチパーパスクリーナー"
+      - "界面活性剤と香料を配合した処方"
+      - "コストコなどで流通する業務用サイズ"
+    pros:
+      - "泡立ちがあり洗浄剤としての使用感がわかりやすい"
+      - "大容量のため頻繁に買い足す手間が少ない"
+      - "青い粒入りの見た目で溶け残りを確認しやすい"
+    cons:
+      - "香料入りのため香りが苦手な方には向かない"
+      - "大容量で保管スペースと湿気対策が必要になる"
+    recommendedFor: "泡立ちのある使用感を求める方・大量に使う方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00toizn.3rdw6228.g00toizn.3rdw730f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonoworld%2Fzakka-0250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmonoworld%2Fi%2F10001131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/monoworld/cabinet/08879859/compass1647750527.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkameyamastore%2Fcos-28137.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-04"
+        price: 3233
+        rating: 4.75
+        reviewCount: 93
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kameyamastore_cos-28137"
+        available: true
+  - rank: 6
     name: "国産 過炭酸ナトリウム 酸素系漂白剤 900g"
     brand: "アレスヘルスケア"
     price: 638
@@ -171,39 +204,6 @@ products:
         rating: 4.85
         reviewCount: 40
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ares_700181001"
-        available: true
-  - rank: 6
-    name: "オキシクリーン マルチパーパスクリーナー 5.26kg"
-    brand: "OxiClean（アメリカ版）"
-    price: 4075
-    capacity: "5.26kg"
-    pricePerUnit: "約0.77円/g"
-    rating: 4.53
-    reviewCount: 183
-    features:
-      - "アメリカ向け仕様のマルチパーパスクリーナー"
-      - "界面活性剤と香料を配合した処方"
-      - "コストコなどで流通する業務用サイズ"
-    pros:
-      - "泡立ちがあり洗浄剤としての使用感がわかりやすい"
-      - "大容量のため頻繁に買い足す手間が少ない"
-      - "青い粒入りの見た目で溶け残りを確認しやすい"
-    cons:
-      - "香料入りのため香りが苦手な方には向かない"
-      - "大容量で保管スペースと湿気対策が必要になる"
-    recommendedFor: "泡立ちのある使用感を求める方・大量に使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00toizn.3rdw6228.g00toizn.3rdw730f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonoworld%2Fzakka-0250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmonoworld%2Fi%2F10001131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/monoworld/cabinet/08879859/compass1647750527.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkameyamastore%2Fcos-28137.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-04"
-        price: 3233
-        rating: 4.75
-        reviewCount: 93
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kameyamastore_cos-28137"
         available: true
   - rank: 7
     name: "オキシクリーン 1500g×3個 業務用"
@@ -287,10 +287,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7180967.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-06"
         price: 2080
-        rating: 4.62
-        reviewCount: 34
+        rating: 4.63
+        reviewCount: 35
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7180967"
         available: true
 tags:

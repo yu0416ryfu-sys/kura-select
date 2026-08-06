@@ -4,7 +4,7 @@ description: "サントリー・アサヒ・エビアンなど人気の天然水
 category: "mineral-water"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-08-06"
 draft: false
 products:
   - rank: 1
@@ -102,7 +102,7 @@ products:
     capacity: "500mL×24本（12L）"
     pricePerUnit: "約109円/L"
     rating: 4.69
-    reviewCount: 1678
+    reviewCount: 1685
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"
@@ -175,9 +175,9 @@ products:
   - rank: 8
     name: "かぞく想いの天然水 硝酸態窒素ゼロ 2L×12本"
     brand: "かぞく想いの天然水"
-    price: 3680
+    price: 3980
     capacity: "2L×12本（24L）"
-    pricePerUnit: "約153円/L"
+    pricePerUnit: "約166円/L"
     rating: 0
     reviewCount: 0
     features:

@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-08-06"
 products:
   - rank: 1
     name: "立体不織布マスク バイカラー 50枚"
@@ -13,7 +13,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約5.3円/枚"
     rating: 4.19
-    reviewCount: 22133
+    reviewCount: 22134
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -111,7 +111,7 @@ products:
     capacity: "20枚"
     pricePerUnit: "約16円/枚"
     rating: 4.06
-    reviewCount: 9201
+    reviewCount: 9202
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -129,13 +129,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flibratone%2Fcicimasuku-c-001.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaskmore%2Fmm3dice020-.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-04"
-        price: 398
-        rating: 4.63
-        reviewCount: 402
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/libratone_cicimasuku-c-001"
+        updatedAt: "2026-08-06"
+        price: 806
+        rating: 4.46
+        reviewCount: 69
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/maskmore_mm3dice020-"
         available: true
   - rank: 6
     name: "ST快適立体マスク"
@@ -164,7 +164,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-ife-reborn%2Fmask120kfst.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-06"
         price: 2680
         rating: 5
         reviewCount: 3
@@ -219,7 +219,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft0090-01-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-06"
         price: 2039
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t0090-01-a"
         available: true

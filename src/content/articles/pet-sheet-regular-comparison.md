@@ -4,7 +4,7 @@ description: "犬猫用ペットシーツのレギュラーサイズを1枚あ�
 category: "pet-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-08-06"
 draft: false
 products:
   - rank: 1
@@ -76,7 +76,7 @@ products:
     capacity: "レギュラー 800枚"
     pricePerUnit: "約5.6円/枚"
     rating: 4.49
-    reviewCount: 45379
+    reviewCount: 45383
     features:
       - "薄型のペット用トイレシート"
       - "レギュラーサイズを選べる"
@@ -120,7 +120,7 @@ products:
     capacity: "レギュラー 400枚"
     pricePerUnit: "約11.2円/枚"
     rating: 4.3
-    reviewCount: 6577
+    reviewCount: 6579
     features:
       - "吸収量を重視した厚型タイプ"
       - "レギュラーサイズを選べるペット用トイレシート"
@@ -208,7 +208,7 @@ products:
     capacity: "レギュラー 800枚"
     pricePerUnit: "0円/枚"
     rating: 4.62
-    reviewCount: 5116
+    reviewCount: 5117
     features:
       - "レギュラーサイズのペット用トイレシート"
       - "薄型のまとめ買い向けタイプ"
@@ -222,7 +222,7 @@ products:
       - "購入時にサイズと枚数を確認する必要がある"
     recommendedFor: "薄型レギュラーをまとめて備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t8k9n.3rdw6f51.g00t8k9n.3rdw7950/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiampet%2Fta223-521%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiampet%2Fi%2F10002445%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iampet/cabinet/img/ps_600w.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iampet/cabinet/img/ps_600_rv50w.jpg?_ex=128x128"
   - rank: 10
     name: "ペットシーツ 薄型 大容量 レギュラー"
     brand: "Pet Studio"

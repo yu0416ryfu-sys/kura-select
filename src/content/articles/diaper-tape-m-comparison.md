@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-08-06"
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2875571012.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-05"
         price: 7031
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2875571012"
         available: true
@@ -110,7 +110,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9673092.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-05"
         price: 9768
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9673092"
         available: true
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9662265.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-05"
         price: 6283
         rating: 0
         reviewCount: 1
@@ -152,11 +152,11 @@ products:
   - rank: 6
     name: "パンパース オムツ はじめての肌へのいちばん テープ Mサイズ【パンパース】"
     brand: "P&G（パンパース）"
-    price: 6880
+    price: 6980
     capacity: "96枚"
-    pricePerUnit: "約72円/枚"
+    pricePerUnit: "約73円/枚"
     rating: 4.76
-    reviewCount: 192
+    reviewCount: 193
     features:
       - "ネット状の肌触りで蒸れにくく快適"
       - "パラベン・アルコール無添加の低刺激処方"
@@ -211,7 +211,7 @@ products:
     capacity: "4個セット"
     pricePerUnit: "約1790円/個"
     rating: 4.74
-    reviewCount: 497
+    reviewCount: 498
     features:
       - "低刺激設計で敏感肌に配慮"
       - "やさしさを重視した素材選択"

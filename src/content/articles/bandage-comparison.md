@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ10選を1枚あた
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-08-06"
 draft: false
 products:
   - rank: 1
@@ -116,7 +116,7 @@ products:
       - "枚数は少なめで大量消費には不向き"
     recommendedFor: "子供用に見た目を楽しみたい方・少量で試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdb0n.3rdw6668.g00qdb0n.3rdw77c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flittleleaf%2Fcha-bansoko-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flittleleaf%2Fi%2F10014262%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/littleleaf/cabinet/ks/bbzm/2026sanrio/top_1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/littleleaf/cabinet/ks/bbzm/2026sanrio/top_2.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -167,8 +167,8 @@ products:
     price: 1493
     capacity: "20枚（10枚入×2コセット）"
     pricePerUnit: "約75円/枚"
-    rating: 4.66
-    reviewCount: 177
+    rating: 4.65
+    reviewCount: 178
     features:
       - "ハイドロコロイド素材を使った密着タイプ"
       - "水や汚れの侵入を防ぐ防水設計"
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop-ni%2F34901730077002.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-03"
+        updatedAt: "2026-08-05"
         price: 1335
         rating: 0
         reviewCount: 0
