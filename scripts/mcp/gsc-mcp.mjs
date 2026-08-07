@@ -8,11 +8,13 @@ import { readFileSync, writeFileSync, existsSync } from "fs";
 import { createServer } from "http";
 import { fileURLToPath } from "url";
 import path from "path";
+// 認証は scripts/lib/gsc-client.mjs に共通化（CLI の gsc-harvest と共用）。
+// ★ gsc-client は必ず .mjs のままにすること（このサーバーは type-stripping なしで起動する）
+import { getGscAuth, SITE_URL } from "../lib/gsc-client.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CREDENTIALS_PATH = path.join(__dirname, "gsc-credentials.json");
 const TOKEN_PATH = path.join(__dirname, "gsc-token.json");
-const SITE_URL = "https://www.kura-select.com/";
 
 // OAuth2クライアント初期化
 function getOAuth2Client() {
@@ -24,18 +26,12 @@ function getOAuth2Client() {
 // 認証クライアント取得
 // サービスアカウント鍵があればそれを優先（無期限・ブラウザ認証不要）。
 // 無ければ従来の OAuth フロー（token.json 再利用）にフォールバック。
-const SCOPES = ["https://www.googleapis.com/auth/webmasters.readonly"];
-
+// ※ MCP 側は従来どおり OAuth フォールバックを残す（CLI 側は落とさない設計）
 async function authorize() {
-  const keyFile =
-    process.env.GSC_SERVICE_ACCOUNT_KEY ||
-    process.env.GOOGLE_APPLICATION_CREDENTIALS;
-  if (keyFile && existsSync(keyFile)) {
-    const auth = new google.auth.GoogleAuth({ keyFile, scopes: SCOPES });
-    return auth.getClient();
-  }
+  return getGscAuth({ oauthFallback: authorizeWithOAuth });
+}
 
-  // 以下、従来の OAuth フロー
+async function authorizeWithOAuth() {
   const oauth2Client = getOAuth2Client();
   if (existsSync(TOKEN_PATH)) {
     oauth2Client.setCredentials(JSON.parse(readFileSync(TOKEN_PATH, "utf-8")));
