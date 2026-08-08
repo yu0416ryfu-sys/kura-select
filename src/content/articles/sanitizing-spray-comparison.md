@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901609016491.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4901609016491.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-06"
-        price: 982
-        rating: 4.6
-        reviewCount: 5
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901609016491"
+        updatedAt: "2026-08-08"
+        price: 1240
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4901609016491"
         available: true
   - rank: 2
     name: "フマキラー キッチン用 アルコール除菌スプレー つめかえ用【フマキラー アルコー"
@@ -64,13 +64,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4902424441727.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10130857.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-06"
-        price: 450
-        rating: 4.43
-        reviewCount: 7
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4902424441727"
+        updatedAt: "2026-08-08"
+        price: 498
+        rating: 4.67
+        reviewCount: 9
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10130857"
         available: true
   - rank: 3
     name: "手ピカスプレー 消毒用アルコール"
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsukoyakakomachi%2Faqarfa1l.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-06"
+        updatedAt: "2026-08-08"
         price: 1540
         rating: 4.92
         reviewCount: 12
@@ -198,12 +198,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188318706.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-06"
+        updatedAt: "2026-08-08"
         price: 1100
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188318706"
         available: true
-        rating: 4.36
-        reviewCount: 25
+        rating: 4.38
+        reviewCount: 26
   - rank: 8
     name: "シュシュキッキ 除菌消臭ミスト 携帯サイズ"
     brand: "シュシュキッキ"
@@ -231,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnakano-dy%2Fkesisaru-20.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-06"
+        updatedAt: "2026-08-08"
         price: 550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nakano-dy_kesisaru-20"
         available: true

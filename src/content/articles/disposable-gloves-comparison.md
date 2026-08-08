@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-08"
 products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh8451-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 418
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh8451-1"
         available: true
@@ -119,7 +119,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh734020.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-08"
         price: 6985
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh734020"
         available: true
@@ -162,11 +162,11 @@ products:
   - rank: 6
     name: "ニトリル手袋 パウダーフリー 医療対応"
     brand: "TKJP"
-    price: 1150
+    price: 1130
     capacity: "100枚"
-    pricePerUnit: "約12円/枚"
+    pricePerUnit: "約11円/枚"
     rating: 4.57
-    reviewCount: 3596
+    reviewCount: 3602
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -182,6 +182,39 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs3nn.3rdw6825.g00qs3nn.3rdw7afb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenkapas%2Fglove001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenkapas%2Fi%2F10010258%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tenkapas/cabinet/item_image/item_health_beauty/sanitary-goods/glove001-2026.jpg?_ex=128x128"
   - rank: 7
+    name: "ニトリル手袋 パウダーフリー 100枚"
+    brand: "TRINITY COSME"
+    price: 1140
+    capacity: "100枚"
+    pricePerUnit: "約11円/枚"
+    rating: 4.71
+    reviewCount: 1389
+    features:
+      - "食品衛生法適合のパウダーフリーニトリル手袋"
+      - "SS/S/M/Lサイズ展開と青・白のカラー選択"
+      - "100枚から大量購入まで枚数選択が可能な設計"
+    pros:
+      - "食品調理や介護など幅広い用途に使いやすい"
+      - "枚数を選べるため必要量に合わせて購入しやすい"
+      - "ラテックスフリーでゴムアレルギーが気になる方に向く"
+    cons:
+      - "サイズや色の選択が必要なため購入前に確認が必要"
+      - "大量購入で在庫管理スペースを確保したい"
+    recommendedFor: "食品調理・介護・作業用にニトリル手袋を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz97n.3rdw61ff.g00tz97n.3rdw7e95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrinity-cosme%2Fsan350532x1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrinity-cosme%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/trinity-cosme/cabinet/09165139/09165140/imgrc0112130448.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove001.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-08"
+        price: 1198
+        rating: 4.58
+        reviewCount: 2245
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
+        available: true
+  - rank: 8
     name: "ニトリルゴム手袋 パウダーフリー 100枚"
     brand: "厳選いいもの本舗"
     price: 1159
@@ -214,39 +247,6 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 8
-    name: "ニトリル手袋 パウダーフリー 100枚"
-    brand: "TRINITY COSME"
-    price: 1160
-    capacity: "100枚"
-    pricePerUnit: "約12円/枚"
-    rating: 4.71
-    reviewCount: 1386
-    features:
-      - "食品衛生法適合のパウダーフリーニトリル手袋"
-      - "SS/S/M/Lサイズ展開と青・白のカラー選択"
-      - "100枚から大量購入まで枚数選択が可能な設計"
-    pros:
-      - "食品調理や介護など幅広い用途に使いやすい"
-      - "枚数を選べるため必要量に合わせて購入しやすい"
-      - "ラテックスフリーでゴムアレルギーが気になる方に向く"
-    cons:
-      - "サイズや色の選択が必要なため購入前に確認が必要"
-      - "大量購入で在庫管理スペースを確保したい"
-    recommendedFor: "食品調理・介護・作業用にニトリル手袋を探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz97n.3rdw61ff.g00tz97n.3rdw7e95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrinity-cosme%2Fsan350532x1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrinity-cosme%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/trinity-cosme/cabinet/09165139/09165140/imgrc0112130448.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove001.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-02"
-        price: 1260
-        rating: 4.58
-        reviewCount: 2239
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
-        available: true
   - rank: 9
     name: "調理用ビニール使いきり極薄手袋"
     brand: "KAWANISHI"

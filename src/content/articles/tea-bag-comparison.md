@@ -4,15 +4,15 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-08"
 draft: false
 products:
   - rank: 1
     name: "一休 麦茶ティーパック"
     brand: "森商店"
-    price: 175
+    price: 184
     capacity: "52袋"
-    pricePerUnit: "約3.4円/袋"
+    pricePerUnit: "約3.5円/袋"
     rating: 4.75
     reviewCount: 12
     features:
@@ -101,8 +101,8 @@ products:
     price: 1788
     capacity: "18袋×5個（90袋）"
     pricePerUnit: "約20円/袋"
-    rating: 4.8
-    reviewCount: 51
+    rating: 4.81
+    reviewCount: 52
     features:
       - "国産六条大麦100%使用"
       - "ノンカフェイン・水出し対応"
@@ -190,7 +190,7 @@ products:
     capacity: "3g×10個×3袋（30個）"
     pricePerUnit: "約121円/個"
     rating: 4.88
-    reviewCount: 76
+    reviewCount: 77
     features:
       - "2026年産新茶使用の高品質静岡緑茶"
       - "三角ティーバッグ形状・カテキン・EGCg豊富"

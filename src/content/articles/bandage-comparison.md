@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ10選を1枚あた
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-08"
 draft: false
 products:
   - rank: 1
@@ -102,7 +102,7 @@ products:
     capacity: "18枚"
     pricePerUnit: "約22円/枚"
     rating: 4.68
-    reviewCount: 114
+    reviewCount: 115
     features:
       - "サンリオキャラクターズをデザインした絆創膏"
       - "複数柄がセットになったアソートタイプ"
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop-ni%2F34901730077002.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 1335
         rating: 0
         reviewCount: 0

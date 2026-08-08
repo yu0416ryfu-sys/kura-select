@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-08"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10137083.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-06"
+        updatedAt: "2026-08-08"
         price: 206
         rating: 4.5
         reviewCount: 4
@@ -68,8 +68,8 @@ products:
     price: 1980
     capacity: "30枚×10個（300枚）"
     pricePerUnit: "約6.6円/枚"
-    rating: 4.6
-    reviewCount: 15
+    rating: 4.63
+    reviewCount: 16
     features:
       - "流せるトイレ用掃除シート"
       - "エンボス加工のシート"
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale%2F4988787090024-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-06"
+        updatedAt: "2026-08-08"
         price: 1780
         rating: 4.49
         reviewCount: 43
@@ -144,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F4901301510808.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-06"
+        updatedAt: "2026-08-08"
         price: 3036
         rating: 0
         reviewCount: 1
@@ -199,7 +199,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F13193.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-06"
+        updatedAt: "2026-08-08"
         price: 1082
         rating: 4.44
         reviewCount: 55
@@ -211,8 +211,8 @@ products:
     price: 3259
     capacity: "20枚×6袋（120枚）"
     pricePerUnit: "約27円/枚"
-    rating: 4.67
-    reviewCount: 159
+    rating: 4.68
+    reviewCount: 160
     features:
       - "トイレ用の掃除シート"
       - "詰め替えやまとめ買い向けタイプ"
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhome-life%2F101-30881.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-21"
+        updatedAt: "2026-08-08"
         price: 333
         rating: 0
         reviewCount: 0

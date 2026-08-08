@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-08"
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2875571012.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 7031
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2875571012"
         available: true
@@ -108,14 +108,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9673092.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134288-case.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-05"
-        price: 9768
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9673092"
+        updatedAt: "2026-08-08"
+        price: 7205
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134288-case"
         available: true
-        rating: 0
-        reviewCount: 0
+        rating: 4.91
+        reviewCount: 87
   - rank: 5
     name: "パンパース はじめての肌へのいちばん テープ Mサイズ"
     brand: "P&G（パンパース）"
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9662265.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 6283
         rating: 0
         reviewCount: 1
@@ -156,7 +156,7 @@ products:
     capacity: "96枚"
     pricePerUnit: "約73円/枚"
     rating: 4.76
-    reviewCount: 194
+    reviewCount: 195
     features:
       - "ネット状の肌触りで蒸れにくく快適"
       - "パラベン・アルコール無添加の低刺激処方"
@@ -231,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenkoo-life%2F101-x004-4903111569786.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-22"
+        updatedAt: "2026-08-08"
         price: 9402
         rating: 0
         reviewCount: 0

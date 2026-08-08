@@ -4,7 +4,7 @@ description: "洗濯槽クリーナーを1回あたりのコストで徹底比�
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-08"
 products:
   - rank: 1
     name: "過炭酸ナトリウム 酸素系漂白剤 950g"
@@ -167,7 +167,7 @@ products:
     capacity: "200g×3個（3回分）"
     pricePerUnit: "約4.2円/g"
     rating: 4.63
-    reviewCount: 750
+    reviewCount: 752
     features:
       - "酵素と塩素系成分を組み合わせたクリーナー"
       - "縦型・ドラム式両対応の設計"
@@ -251,11 +251,11 @@ products:
   - rank: 10
     name: "パナソニック 洗濯槽クリーナー 縦型用 N-W1A"
     brand: "パナソニック（Panasonic）"
-    price: 2079
+    price: 1584
     capacity: "1個"
-    pricePerUnit: "約2079円/個"
+    pricePerUnit: "約1584円/個"
     rating: 4.72
-    reviewCount: 487
+    reviewCount: 488
     features:
       - "縦型洗濯機向けの塩素系クリーナー"
       - "強力洗浄をうたう業務用レベル設計"

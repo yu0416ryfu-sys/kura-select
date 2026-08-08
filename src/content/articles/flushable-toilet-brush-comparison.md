@@ -4,7 +4,7 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-08"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 2715
     capacity: "72個（24個×3袋）"
     pricePerUnit: "約38円/個"
-    rating: 4.81
-    reviewCount: 70
+    rating: 4.82
+    reviewCount: 71
     features:
       - "本体を持っている人向けの付替ブラシのみ"
       - "24個入りが3袋の大容量まとめ買いパック"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901609015456.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 706
         rating: 4.33
         reviewCount: 3

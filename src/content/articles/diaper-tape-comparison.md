@@ -4,7 +4,7 @@ description: "紙おむつを新生児用、Sサイズ、Mサイズ、BIG以上�
 category: "diaper"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-08"
 products:
   - rank: 1
     name: "グーンプラス 敏感肌にやわらかタッチ テープ 4個セット"
@@ -134,7 +134,7 @@ products:
     capacity: "4個"
     pricePerUnit: "約2289円/個"
     rating: 4.68
-    reviewCount: 3917
+    reviewCount: 3921
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7252903.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 9380
         rating: 4.37
         reviewCount: 19
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7263228f.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 7330
         rating: 4.85
         reviewCount: 26
@@ -214,13 +214,13 @@ products:
       - "赤ちゃんの体型や肌との相性で合う商品が分かれる"
     recommendedFor: "乳幼児向けのテープ型おむつをサイズ別に比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00umojn.3rdw6d67.g00umojn.3rdw76a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funisololife%2Fm002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funisololife%2Fi%2F10000409%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unisololife/cabinet/11081207/11140514/12328102/16eb.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unisololife/cabinet/11402063/12bu.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 7084
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true

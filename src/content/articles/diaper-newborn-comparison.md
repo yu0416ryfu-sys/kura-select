@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100639.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 1804
         rating: 0
         reviewCount: 1
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkiiroihachi%2Fyahoo20250605-b01cg1tb4q.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 1708
         rating: 0
         reviewCount: 0
@@ -97,13 +97,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Feconvecoco%2F0810425.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4902011115567.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-05"
-        price: 1590
+        updatedAt: "2026-08-08"
+        price: 2204
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/econvecoco_0810425"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4902011115567"
         available: true
   - rank: 4
     name: "メリーズ エアスルー テープ 新生児"
@@ -132,10 +132,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301437693x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 5980
-        rating: 4.93
-        reviewCount: 15
+        rating: 4.88
+        reviewCount: 17
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301437693x4"
         available: true
   - rank: 5
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnetbaby%2F4903111123247.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 4494
         rating: 0
         reviewCount: 0
@@ -196,13 +196,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftigtig%2F25062704.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgyy-shop%2F57542-taped-s-pampers-hadaichi.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-05"
-        price: 5580
+        updatedAt: "2026-08-08"
+        price: 4880
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tigtig_25062704"
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/gyy-shop_57542-taped-s-pampers-hadaichi"
         available: true
   - rank: 7
     name: "パンパース テープ新生児 144枚"
@@ -273,13 +273,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftigtig%2F25062704.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgyy-shop%2F57542-taped-s-pampers-hadaichi.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-02"
-        price: 5580
+        updatedAt: "2026-08-08"
+        price: 4880
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tigtig_25062704"
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/gyy-shop_57542-taped-s-pampers-hadaichi"
         available: true
   - rank: 10
     name: "バンボネイチャー ドリーム テープ/パンツ ニューボーン"

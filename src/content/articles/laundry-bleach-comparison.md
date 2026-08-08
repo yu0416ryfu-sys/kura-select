@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-08"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
@@ -46,7 +46,7 @@ products:
     capacity: "820ml×3セット（2460ml）"
     pricePerUnit: "約0.52円/ml"
     rating: 4.84
-    reviewCount: 85
+    reviewCount: 86
     features:
       - "液体タイプの衣料用酸素系漂白剤"
       - "洗剤と一緒に洗濯機へ入れて使う設計"
@@ -123,7 +123,7 @@ products:
     capacity: "450ml×6袋（2700ml）"
     pricePerUnit: "約1.1円/ml"
     rating: 4.82
-    reviewCount: 224
+    reviewCount: 226
     features:
       - "抗菌成分を配合した液体タイプの酸素系漂白剤"
       - "部屋干し時の菌のケアを想定した処方"

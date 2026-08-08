@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-08-08"
 products:
   - rank: 1
     name: "NEWクレラップ お徳用レギュラー 30cm×50m"
@@ -12,8 +12,8 @@ products:
     price: 455
     capacity: "30cm×50m"
     pricePerUnit: "約9.1円/m"
-    rating: 4.54
-    reviewCount: 72
+    rating: 4.55
+    reviewCount: 73
     features:
       - "クレハのポリ塩化ビニリデン製ラップ・幅広30cmタイプ"
       - "のこぎり刃でカットしやすい設計"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r030-4901670110197.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-07"
+        updatedAt: "2026-08-08"
         price: 16357
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r030-4901670110197"
         available: true
@@ -141,12 +141,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F350600.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-06"
+        updatedAt: "2026-08-08"
         price: 13090
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_350600"
         available: true
         rating: 4.86
-        reviewCount: 36
+        reviewCount: 37
   - rank: 6
     name: "サランラップ 家庭用 30cm"
     brand: "旭化成（サランラップ）"

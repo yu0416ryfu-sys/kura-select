@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ10選を1回
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-08"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "60回分（50回＋10回）"
     pricePerUnit: "約21円/回"
     rating: 4.5
-    reviewCount: 7058
+    reviewCount: 7063
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fulimalie%2F99jun24yjcs02.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-08"
         price: 4980
         rating: 4.56
         reviewCount: 96
@@ -89,10 +89,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoco-yasashisaya%2Fsaimol01.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-08"
         price: 3780
         rating: 4.49
-        reviewCount: 778
+        reviewCount: 780
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coco-yasashisaya_saimol01"
         available: true
   - rank: 4
@@ -122,18 +122,73 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fozoneassocia%2Ftoilet100.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-08"
         price: 3980
         rating: 4.25
         reviewCount: 208
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ozoneassocia_toilet100"
         available: true
   - rank: 5
-    name: "非常用トイレ 100回分 半永久保存 防災トイレ"
+    name: "非常用トイレ 炭入り 100回分 半永久保存 防災トイレ"
     brand: "Life Reach"
     price: 4999
     capacity: "100回分"
     pricePerUnit: "約50円/回"
+    rating: 4.64
+    reviewCount: 797
+    features:
+      - "炭入り凝固剤でにおい対策に配慮したセット"
+      - "凝固剤と汚物袋がそろった構成"
+      - "超長期保存に対応した使い捨てタイプ"
+    pros:
+      - "炭入りで室内使用時のにおいが気になる人に向く"
+      - "100回分でしっかり備蓄できる"
+      - "長期保存で点検・入れ替えの負担が少ない"
+    cons:
+      - "便座は付属せず別途用意が必要"
+      - "通常タイプよりやや割高になりやすい"
+    recommendedFor: "室内使用でのにおい対策を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tivgn.3rdw607f.g00tivgn.3rdw7cf0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupplement-life%2Fps-100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupplement-life%2Fi%2F10000060%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/supplement-life/cabinet/plm1/b100.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2Fps-100.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-08"
+        price: 4999
+        rating: 4.53
+        reviewCount: 611
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
+        available: true
+  - rank: 6
+    name: "簡易トイレ シートトイレ"
+    brand: "アクアタルク"
+    price: 3000
+    capacity: "50回分"
+    pricePerUnit: "約60円/回"
+    rating: 4.45
+    reviewCount: 4076
+    features:
+      - "吸水ポリマーを使ったシートタイプの凝固剤"
+      - "災害用・非常用として個包装で使いやすい構成"
+      - "国内製造による品質管理"
+    pros:
+      - "シートタイプで処理の手順がわかりやすい"
+      - "50回分で数日分の在宅備蓄に取り入れやすい"
+      - "リピート購入されている定番タイプ"
+    cons:
+      - "便座は付属せず既存トイレや簡易便座と併用する"
+      - "凝固スピードや使用感は環境で差が出る"
+    recommendedFor: "シートタイプの扱いやすさを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pn22n.3rdw67a9.g00pn22n.3rdw7e73/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faquatalk%2F10000314%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faquatalk%2Fi%2F10000314%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aquatalk/cabinet/shin/sheetoilet20-100/ssam3.jpg?_ex=128x128"
+  - rank: 7
+    name: "非常用トイレ 100回分 半永久保存 防災トイレ"
+    brand: "Life Reach"
+    price: 5999
+    capacity: "100回分"
+    pricePerUnit: "約60円/回"
     rating: 4.59
     reviewCount: 1339
     features:
@@ -161,61 +216,6 @@ products:
         reviewCount: 960
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_100pol1"
         available: true
-  - rank: 6
-    name: "非常用トイレ 炭入り 100回分 半永久保存 防災トイレ"
-    brand: "Life Reach"
-    price: 4999
-    capacity: "100回分"
-    pricePerUnit: "約50円/回"
-    rating: 4.64
-    reviewCount: 797
-    features:
-      - "炭入り凝固剤でにおい対策に配慮したセット"
-      - "凝固剤と汚物袋がそろった構成"
-      - "超長期保存に対応した使い捨てタイプ"
-    pros:
-      - "炭入りで室内使用時のにおいが気になる人に向く"
-      - "100回分でしっかり備蓄できる"
-      - "長期保存で点検・入れ替えの負担が少ない"
-    cons:
-      - "便座は付属せず別途用意が必要"
-      - "通常タイプよりやや割高になりやすい"
-    recommendedFor: "室内使用でのにおい対策を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tivgn.3rdw607f.g00tivgn.3rdw7cf0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupplement-life%2Fps-100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupplement-life%2Fi%2F10000060%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/supplement-life/cabinet/plm1/b100.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2Fps-100.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-06"
-        price: 4999
-        rating: 4.53
-        reviewCount: 611
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
-        available: true
-  - rank: 7
-    name: "簡易トイレ シートトイレ"
-    brand: "アクアタルク"
-    price: 3000
-    capacity: "50回分"
-    pricePerUnit: "約60円/回"
-    rating: 4.45
-    reviewCount: 4076
-    features:
-      - "吸水ポリマーを使ったシートタイプの凝固剤"
-      - "災害用・非常用として個包装で使いやすい構成"
-      - "国内製造による品質管理"
-    pros:
-      - "シートタイプで処理の手順がわかりやすい"
-      - "50回分で数日分の在宅備蓄に取り入れやすい"
-      - "リピート購入されている定番タイプ"
-    cons:
-      - "便座は付属せず既存トイレや簡易便座と併用する"
-      - "凝固スピードや使用感は環境で差が出る"
-    recommendedFor: "シートタイプの扱いやすさを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pn22n.3rdw67a9.g00pn22n.3rdw7e73/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faquatalk%2F10000314%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faquatalk%2Fi%2F10000314%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aquatalk/cabinet/shin/sheetoilet20-100/ssam3.jpg?_ex=128x128"
   - rank: 8
     name: "簡易トイレ 防災士監修 20回分 コンパクトセット"
     brand: ""
@@ -223,7 +223,7 @@ products:
     capacity: "20回分"
     pricePerUnit: "約69円/回"
     rating: 4.52
-    reviewCount: 7195
+    reviewCount: 7197
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"
@@ -237,7 +237,7 @@ products:
       - "便座は付属せず既存トイレや簡易便座と併用する"
     recommendedFor: "持ち出し用にコンパクトな備蓄を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u49fn.3rdw6725.g00u49fn.3rdw7bf8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiromifashionhouse%2Fmkhrm60f%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiromifashionhouse%2Fi%2F10005004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiromifashionhouse/cabinet/12169031/12169039/imgrc0127066504.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiromifashionhouse/cabinet/12169031/12169039/hrm60f.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

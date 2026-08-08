@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-08"
 draft: false
 products:
   - rank: 1
@@ -168,8 +168,8 @@ products:
     price: 580
     capacity: "1枚"
     pricePerUnit: "約580円/枚"
-    rating: 4.41
-    reviewCount: 22
+    rating: 4.43
+    reviewCount: 23
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -212,8 +212,8 @@ products:
     price: 1590
     capacity: "2枚"
     pricePerUnit: "約795円/枚"
-    rating: 4.4
-    reviewCount: 499
+    rating: 4.39
+    reviewCount: 500
     features:
       - "バイオ酵素配合でカビの発生を抑制する設計"
       - "粘着シール付きでフレームなしで装着可能"

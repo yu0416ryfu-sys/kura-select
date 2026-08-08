@@ -51,6 +51,17 @@ products:
     recommendedFor: "無香料の置き型を近所の店舗でも補充しながら続けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901070128044%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10817070%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/044/4901070128044.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10126018.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-08"
+        price: 798
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10126018"
+        available: true
   - rank: 3
     name: "無香空間 本体 315g"
     brand: "小林製薬（無香空間）"
@@ -73,6 +84,17 @@ products:
     recommendedFor: "まず1つ試したい方・トイレや玄関など狭い空間に置きたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fkb0017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10009562%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/life/life05/kb0017_1a.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072098813.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-08"
+        price: 350
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987072098813"
+        available: true
   - rank: 4
     name: "お部屋の消臭力 消臭芳香剤 部屋用 無香料 400mL"
     brand: "エステー（消臭力）"
@@ -95,6 +117,17 @@ products:
     recommendedFor: "容器を増やさず1本で完結させたい方・残量を見て管理したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa002200200795%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10118643%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/141/4901070119141.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4901070119141.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-08"
+        price: 383
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4901070119141"
+        available: true
 tags:
   - "消臭剤"
   - "無香空間"

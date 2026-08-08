@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-08"
 draft: false
 products:
   - rank: 1
@@ -166,7 +166,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoji%2F3182550746076-s.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 17226
         rating: 0
         reviewCount: 1
@@ -199,12 +199,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
-        price: 4834
+        updatedAt: "2026-08-08"
+        price: 5199
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
-        rating: 4.53
-        reviewCount: 15
+        rating: 4.56
+        reviewCount: 16
   - rank: 7
     name: "ニュートロ ナチュラルチョイス 小型犬用 成犬用 チキン&玄米 6kg"
     brand: "ニュートロ"
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 8980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
@@ -245,7 +245,7 @@ products:
     capacity: "3kg"
     pricePerUnit: "約1943円/kg"
     rating: 4.68
-    reviewCount: 2402
+    reviewCount: 2403
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F0813369001904.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 5830
         rating: 4.73
         reviewCount: 101
@@ -296,14 +296,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600a.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600b.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-08"
         price: 3000
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600a"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600b"
         available: true
-        rating: 4.69
-        reviewCount: 36
+        rating: 4.68
+        reviewCount: 22
   - rank: 10
     name: "ドッグフード 国産 無添加 吉岡油糧 オンリーワンフード 1kg 5kg（ リピート"
     brand: "ドッグフード"
