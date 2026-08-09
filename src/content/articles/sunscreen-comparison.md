@@ -4,7 +4,7 @@ description: "日焼け止めを1mLあたりのコストで徹底比較。ビオ
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-08"
+updatedAt: "2026-08-09"
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -134,7 +134,7 @@ products:
     capacity: "50g"
     pricePerUnit: "約62円/g"
     rating: 4.84
-    reviewCount: 3753
+    reviewCount: 3755
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

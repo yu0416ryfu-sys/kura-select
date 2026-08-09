@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ10選を1枚あたり単
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-08"
+updatedAt: "2026-08-09"
 products:
   - rank: 1
     name: "ノンアルコール 99%除菌ウェットティッシュ"
@@ -13,7 +13,7 @@ products:
     capacity: "80枚×12個（960枚）"
     pricePerUnit: "約1.8円/枚"
     rating: 4.81
-    reviewCount: 296
+    reviewCount: 297
     features:
       - "ノンアルコールで99%除菌を訴求したタイプ"
       - "厚手・大判・無香料設計で幅広い用途に対応"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmarubeni-forestlinx%2Fjyokin-99.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-09"
         price: 4980
         rating: 4.82
         reviewCount: 60
@@ -46,7 +46,7 @@ products:
     capacity: "80枚×15個"
     pricePerUnit: "約2.0円/枚"
     rating: 4.69
-    reviewCount: 4691
+    reviewCount: 4693
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -66,12 +66,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-09"
         price: 2390
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
         available: true
         rating: 4.67
-        reviewCount: 1019
+        reviewCount: 1024
   - rank: 3
     name: "おしりふき 手口ふき シンプル"
     brand: "子育て日和"
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903111459049.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 1077
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903111459049"
         available: true
@@ -154,8 +154,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F1920418f.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
-        price: 4780
+        updatedAt: "2026-08-09"
+        price: 4980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_1920418f"
         available: true
         rating: 4.6
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100996.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 4620
         rating: 4.88
         reviewCount: 17
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4903301291022.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 205
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4903301291022"
         available: true

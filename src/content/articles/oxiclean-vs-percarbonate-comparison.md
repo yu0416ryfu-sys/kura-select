@@ -4,7 +4,7 @@ description: "オキシクリーンと過炭酸ナトリウム（酸素系漂白
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-08-08"
+updatedAt: "2026-08-09"
 draft: false
 products:
   - rank: 1
@@ -46,8 +46,8 @@ products:
     price: 2140
     capacity: "4.5kg"
     pricePerUnit: "約0.48円/g"
-    rating: 4.83
-    reviewCount: 745
+    rating: 4.84
+    reviewCount: 746
     features:
       - "過炭酸ナトリウム100%の特大サイズ"
       - "洗濯槽掃除と浸け置き洗いを想定した容量"
@@ -199,7 +199,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fares%2F700181001.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 638
         rating: 4.85
         reviewCount: 40
@@ -287,8 +287,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7180967.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
-        price: 2080
+        updatedAt: "2026-08-09"
+        price: 2280
         rating: 4.63
         reviewCount: 35
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7180967"

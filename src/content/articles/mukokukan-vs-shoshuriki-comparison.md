@@ -29,6 +29,17 @@ products:
     recommendedFor: "無香料にこだわりつつ、家じゅう複数か所に置いて単価も抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw2qn.3rdw6f45.g00tw2qn.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprolabshop%2F4-1688-31%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprolabshop%2Fi%2F10052550%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/prolabshop/cabinet/831/4168831.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4987072098912-73-30001387.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-09"
+        price: 1030
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4987072098912-73-30001387"
+        available: true
   - rank: 2
     name: "消臭力 イオン消臭プラス 消臭ビーズ 詰め替え 無香料 1.5kg"
     brand: "エステー（消臭力）"
@@ -54,13 +65,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10126018.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901070128044.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-08"
-        price: 798
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10126018"
+        updatedAt: "2026-08-09"
+        price: 912
+        rating: 4
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901070128044"
         available: true
   - rank: 3
     name: "無香空間 本体 315g"
@@ -88,8 +99,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072098813.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-08"
+        matchStatus: "matched"
+        updatedAt: "2026-08-09"
         price: 350
         rating: 0
         reviewCount: 0

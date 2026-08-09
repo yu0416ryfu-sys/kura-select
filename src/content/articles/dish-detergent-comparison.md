@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F10053002.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-09"
         price: 6956
         rating: 0
         reviewCount: 1
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9847345.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-09"
         price: 3180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9847345"
         available: true
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fifc-valuetrust%2Fb07kzgjhtd20250718.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-09"
         price: 1699
         rating: 0
         reviewCount: 1

@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fb60033.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-09"
         price: 293
         rating: 0
         reviewCount: 2
@@ -165,8 +165,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4904140583538.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-04"
-        price: 553
+        updatedAt: "2026-08-09"
+        price: 690
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4904140583538"
         available: true
         rating: 4.8

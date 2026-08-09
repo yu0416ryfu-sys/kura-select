@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoins%2F1002106.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-09"
         price: 5885
-        rating: 4.58
-        reviewCount: 43
+        rating: 4.59
+        reviewCount: 44
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/koins_1002106"
         available: true
   - rank: 2
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F181000.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-09"
         price: 6160
         rating: 4.76
         reviewCount: 430
@@ -122,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnuts%2Fwa-dm-012r.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-09"
         price: 825
         rating: 0
         reviewCount: 0
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnuts%2Fwa-dm-014.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-09"
         price: 704
         rating: 0
         reviewCount: 0
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F215400.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-09"
         price: 10626
         rating: 4.86
         reviewCount: 7
@@ -254,7 +254,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F215500.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-09"
         price: 11539
         rating: 0
         reviewCount: 2

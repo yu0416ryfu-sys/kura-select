@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-08"
+updatedAt: "2026-08-09"
 products:
   - rank: 1
     name: "システマ ハグキプラス プレミアム 95g×4本セット"
@@ -55,7 +55,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F007.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 1001
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_007"
         available: true
@@ -123,7 +123,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約22円/g"
     rating: 4.47
-    reviewCount: 2300
+    reviewCount: 2301
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"

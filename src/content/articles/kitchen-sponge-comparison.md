@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft1105-01.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 410
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t1105-01"
         available: true
@@ -198,7 +198,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funmaison%2F19311003.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unmaison_19311003"
         available: true
@@ -231,7 +231,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurashikaiteki-pro%2F10000528.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurashikaiteki-pro_10000528"
         available: true
@@ -264,10 +264,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsunsunsponge%2Ftss08b.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-09"
         price: 3073
         rating: 4.86
-        reviewCount: 256
+        reviewCount: 258
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sunsunsponge_tss08b"
         available: true
 tags:

@@ -4,7 +4,7 @@ description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚�
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-08"
+updatedAt: "2026-08-09"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 770
     capacity: "56枚"
     pricePerUnit: "約14円/枚"
-    rating: 4.29
-    reviewCount: 811
+    rating: 4.3
+    reviewCount: 810
     features:
       - "薬用CICA配合のハイドロコロイドニキビパッチ"
       - "コメド（黒ニキビ）にも対応した設計"
@@ -70,7 +70,7 @@ products:
     capacity: "240枚"
     pricePerUnit: "約14円/枚"
     rating: 4.63
-    reviewCount: 88
+    reviewCount: 89
     features:
       - "VT PRO CICAシリーズ 48枚入り×5個の大容量まとめ買いセット"
       - "CICA配合ハイドロゲルで2サイズ使い分け対応"
@@ -134,7 +134,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580173961293.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 506
         rating: 0
         reviewCount: 2
@@ -167,7 +167,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4560461866660.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 935
         rating: 0
         reviewCount: 2
@@ -200,7 +200,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4580173961811.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 968
         rating: 0
         reviewCount: 0
@@ -235,7 +235,7 @@ products:
     capacity: "48枚"
     pricePerUnit: "約18円/枚"
     rating: 4.51
-    reviewCount: 1477
+    reviewCount: 1478
     features:
       - "硬質ハイドロゲルを使用したスポットパッチ"
       - "2サイズ（10mm・12mm）のパッチが1セットに入った構成"

@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-08-08"
+updatedAt: "2026-08-09"
 draft: false
 products:
   - rank: 1
@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6016812.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 2573
         rating: 4.4
         reviewCount: 15
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902806100587.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 949
         rating: 4.5
         reviewCount: 16
@@ -122,8 +122,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6067551.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-16"
-        price: 1099
+        updatedAt: "2026-08-09"
+        price: 1102
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6067551"
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbb-2023%2Fn-poil150.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 3280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bb-2023_n-poil150"
         available: true
@@ -168,7 +168,7 @@ products:
     capacity: "20mL"
     pricePerUnit: "約28円/mL"
     rating: 4.71
-    reviewCount: 1998
+    reviewCount: 1999
     features:
       - "オーガニック認証のホホバオイル（ゴールデン脱臭タイプ）。天然100%・無添加"
       - "20mL・100mL・300mL・500mL・1000mLの幅広いサイズ展開"
@@ -189,7 +189,7 @@ products:
     capacity: "80mL"
     pricePerUnit: "約29円/mL"
     rating: 4.64
-    reviewCount: 13731
+    reviewCount: 13733
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fadew%2Fmanual-haire-3set.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 6680
         rating: 0
         reviewCount: 0
@@ -244,7 +244,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約35円/mL"
     rating: 4.64
-    reviewCount: 3877
+    reviewCount: 3880
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"

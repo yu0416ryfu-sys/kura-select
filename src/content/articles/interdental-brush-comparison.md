@@ -4,7 +4,7 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-09"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale-kanahashi%2F4901387051189-z-s-4-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 1099
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale-kanahashi_4901387051189-z-s-4-1"
         available: true
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901616216099.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 245
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901616216099"
         available: true
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 247
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
         available: true
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 3278
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true
@@ -201,7 +201,7 @@ products:
     capacity: "250m"
     pricePerUnit: "約13円/m"
     rating: 4.76
-    reviewCount: 564
+    reviewCount: 565
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 3278
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: true

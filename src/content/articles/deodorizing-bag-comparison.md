@@ -4,7 +4,7 @@ description: "おむつ・生ゴミ用の防臭袋おすすめ10選をコスパ�
 category: "deodorizing-bag"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-08-08"
+updatedAt: "2026-08-09"
 draft: false
 products:
   - rank: 1
@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2Fpphalf300.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-09"
         price: 1130
         rating: 4.84
-        reviewCount: 919
+        reviewCount: 923
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_pphalf300"
         available: true
   - rank: 2
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b020a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-09"
         price: 2970
         rating: 4.88
         reviewCount: 98
@@ -122,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurusatochoice%2F5681229.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-09"
         price: 13000
         rating: 0
         reviewCount: 0
@@ -177,7 +177,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b002a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-09"
         price: 1909
         rating: 4.86
         reviewCount: 772
@@ -210,7 +210,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b003a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-09"
         price: 1375
         rating: 4.83
         reviewCount: 392
@@ -243,7 +243,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-1094.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 2616
         rating: 4.89
         reviewCount: 74
@@ -276,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b004a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 1694
         rating: 4.81
         reviewCount: 487
@@ -289,7 +289,7 @@ products:
     capacity: "60枚"
     pricePerUnit: "約28円/枚"
     rating: 4.8
-    reviewCount: 877
+    reviewCount: 878
     features:
       - "シリーズ最大クラスの寸法"
       - "大人用おむつを複数枚まとめられる容量"
@@ -309,7 +309,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b005a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 1650
         rating: 4.85
         reviewCount: 189

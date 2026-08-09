@@ -32,8 +32,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301745910-73-30000846.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-06"
+        matchStatus: "matched"
+        updatedAt: "2026-08-09"
         price: 210
         rating: 4.8
         reviewCount: 15
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F574939.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-06"
+        updatedAt: "2026-08-09"
         price: 3960
         rating: 0
         reviewCount: 0
@@ -143,8 +143,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7288392.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-06"
-        price: 2890
+        updatedAt: "2026-08-09"
+        price: 3170
         rating: 4.83
         reviewCount: 12
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7288392"
@@ -175,8 +175,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4978951060458.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-06"
+        matchStatus: "matched"
+        updatedAt: "2026-08-09"
         price: 991
         rating: 0
         reviewCount: 0
@@ -230,8 +230,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F757037000915.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-06"
+        matchStatus: "matched"
+        updatedAt: "2026-08-09"
         price: 3398
         rating: 4.91
         reviewCount: 33
@@ -262,13 +262,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fipstyle%2F12003.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbrisk-online%2F20251012202814-00489.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-06"
-        price: 3520
-        rating: 5
-        reviewCount: 3
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ipstyle_12003"
+        updatedAt: "2026-08-09"
+        price: 3047
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/brisk-online_20251012202814-00489"
         available: true
   - rank: 10
     name: "パックス 酸素系漂白剤 詰替用 500g"
@@ -296,8 +296,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmebox%2Fj4904735053064f.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-06"
+        matchStatus: "matched"
+        updatedAt: "2026-08-09"
         price: 538
         rating: 0
         reviewCount: 1

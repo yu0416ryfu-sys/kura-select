@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-08-08"
+updatedAt: "2026-08-09"
 products:
   - rank: 1
     name: "熊本県産 ヒノヒカリ"
@@ -13,7 +13,7 @@ products:
     capacity: "20kg"
     pricePerUnit: "約509円/kg"
     rating: 4.59
-    reviewCount: 14885
+    reviewCount: 14886
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffuchigami%2Fhino-kp30.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-06"
+        updatedAt: "2026-08-09"
         price: 10880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fuchigami_hino-kp30"
         available: true

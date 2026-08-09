@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 1160
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902135322537-73-30000839"
         available: true
@@ -143,7 +143,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffitsonlinestore%2Flds-softset3.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 3465
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fitsonlinestore_lds-softset3"
         available: true
@@ -176,7 +176,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469490579-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-09"
         price: 5214
         rating: 4.88
         reviewCount: 344
@@ -209,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469490586-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 5214
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469490586-5"
         available: true
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4582469492764-5.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-09"
         price: 5214
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4582469492764-5"
         available: true
@@ -308,8 +308,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4582469502517.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-21"
-        price: 1043
+        updatedAt: "2026-08-09"
+        price: 1263
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4582469502517"
         available: true
         rating: 4.83

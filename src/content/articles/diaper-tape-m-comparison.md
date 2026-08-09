@@ -110,7 +110,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134288-case.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 7205
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134288-case"
         available: true

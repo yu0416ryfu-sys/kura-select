@@ -4,7 +4,7 @@ description: "コスパいいヘアトリートメントを1g・1mLあたりで�
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-08-08"
+updatedAt: "2026-08-09"
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -244,7 +244,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "0円/mL"
     rating: 4.78
-    reviewCount: 1233
+    reviewCount: 1234
     features:
       - "年齢による髪悩みに対応するインバスヘアマスク"
       - "潤い・まとまりを重視した処方"

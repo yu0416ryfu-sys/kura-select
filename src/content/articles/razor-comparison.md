@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57020103-250.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-06"
+        updatedAt: "2026-08-09"
         price: 9500
         rating: 0
         reviewCount: 0
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57010103-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-06"
+        updatedAt: "2026-08-09"
         price: 720
         rating: 0
         reviewCount: 0
@@ -243,7 +243,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-aozora-shop%2F250929-005.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-06"
+        updatedAt: "2026-08-09"
         price: 1300
         rating: 4.88
         reviewCount: 8

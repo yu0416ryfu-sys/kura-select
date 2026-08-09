@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgyy-shop%2F57542-taped-s-pampers-hadaichi.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-09"
         price: 4880
         rating: 0
         reviewCount: 2
