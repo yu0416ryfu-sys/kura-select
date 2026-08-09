@@ -1,0 +1,92 @@
+---
+import ServiceLink from "./ServiceLink.astro";
+import type { Asp } from "./ServiceLink.astro";
+
+interface Service {
+  rank: number;
+  name: string;
+  brand: string;
+  monthlyCost: number;
+  pricePerLiter: string;
+  waterType: "delivery" | "purifier";
+  contractMonths: number;
+  cancellationFee: number;
+  recommendedFor: string;
+  affiliateUrl: string;
+  asp: Asp;
+}
+
+interface Props {
+  services: Service[];
+  caption?: string;
+}
+
+const { services, caption = "ウォーターサーバー比較表" } = Astro.props;
+
+const sorted = [...services].sort((a, b) => a.rank - b.rank);
+
+const waterTypeLabel = (t: Service["waterType"]) =>
+  t === "purifier" ? "浄水型（水道水）" : "宅配水";
+
+const yen = (n: number) => `${n.toLocaleString("ja-JP")}円`;
+
+// 契約期間・解約金は不利益条件のため「なし」も明示する（空欄にしない）
+const contractLabel = (months: number) => (months > 0 ? `${months}ヶ月` : "縛りなし");
+const cancellationLabel = (fee: number) => (fee > 0 ? yen(fee) : "なし");
+---
+
+<div class="my-8">
+  <p class="text-xs text-[var(--color-text-sub)] mb-2">
+    ※ 月額は「サーバーレンタル料＋水代＋電気代」の目安です。使用量・地域・プランにより変動します。
+  </p>
+
+  <div class="overflow-x-auto rounded-lg border border-[var(--color-border)]">
+    <table class="w-full min-w-[720px] text-sm bg-[var(--color-surface)]">
+      <caption class="sr-only">{caption}</caption>
+      <thead>
+        <tr class="bg-[var(--color-bg)] text-left">
+          <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">順位</th>
+          <th scope="col" class="px-3 py-3 font-semibold">サービス</th>
+          <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">給水方式</th>
+          <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">コスパ（円/L）</th>
+          <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">月額目安</th>
+          <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">契約期間</th>
+          <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">解約金</th>
+          <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">詳細</th>
+        </tr>
+      </thead>
+      <tbody>
+        {sorted.map((service) => (
+          <tr class="border-t border-[var(--color-border)] align-middle">
+            <td class="px-3 py-3 font-bold text-[var(--color-primary)] whitespace-nowrap">{service.rank}位</td>
+            <td class="px-3 py-3">
+              <span class="block font-semibold">{service.name}</span>
+              <span class="block text-xs text-[var(--color-text-sub)]">{service.brand}</span>
+            </td>
+            <td class="px-3 py-3 whitespace-nowrap">{waterTypeLabel(service.waterType)}</td>
+            <td class="px-3 py-3 font-bold whitespace-nowrap">{service.pricePerLiter}</td>
+            <td class="px-3 py-3 whitespace-nowrap">{yen(service.monthlyCost)}</td>
+            <td class="px-3 py-3 whitespace-nowrap">{contractLabel(service.contractMonths)}</td>
+            <td class="px-3 py-3 whitespace-nowrap">{cancellationLabel(service.cancellationFee)}</td>
+            <td class="px-3 py-3 min-w-[160px]">
+              <ServiceLink
+                href={service.affiliateUrl}
+                asp={service.asp}
+                serviceName={service.name}
+                size="sm"
+                gaPlacement="service_table"
+              />
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <p class="text-xs text-[var(--color-text-sub)] mt-2">
+    ※ 契約期間内に解約すると解約金が発生します。金額・条件は必ず公式サイトでご確認ください。
+  </p>
+  <p class="text-xs text-[var(--color-text-sub)] mt-1">
+    ※ 対応エリアが限られるサービスがあります。申し込み前にお住まいの地域が対象か確認してください。
+  </p>
+</div>

@@ -6,6 +6,7 @@ import ComparisonTable from "../components/product/ComparisonTable.astro";
 import ProductCard from "../components/product/ProductCard.astro";
 import TopPickCta from "../components/product/TopPickCta.astro";
 import StickyCta from "../components/product/StickyCta.astro";
+import ServiceTable from "../components/service/ServiceTable.astro";
 import AffiliateLink from "../components/product/AffiliateLink.astro";
 import {
   getLowestOffer,
@@ -57,6 +58,9 @@ const markdownTocItems: TocItem[] = (headings ?? [])
 const rawTocItems: TocItem[] = [
   ...(isComparison && products.length > 0
     ? [{ slug: "comparison-table", text: "商品比較表", depth: 2 as const }]
+    : []),
+  ...(isService && services.length > 0
+    ? [{ slug: "service-table", text: "サービス比較表", depth: 2 as const }]
     : []),
   ...markdownTocItems,
   ...(data.faqs && data.faqs.length > 0
@@ -134,6 +138,29 @@ const breadcrumbJsonLd = {
   ],
 };
 
+// サービス記事は Product ではなく Service で構造化する。
+// 月額は使用量・地域・プランで変動するため price ではなく priceSpecification で
+// 「〜円/月の目安」として表現し、断定を避ける。
+const serviceJsonLds = services.map((s) => ({
+  "@context": "https://schema.org",
+  "@type": "Service",
+  name: s.name,
+  serviceType: s.waterType === "purifier" ? "浄水型ウォーターサーバー" : "宅配水ウォーターサーバー",
+  provider: { "@type": "Organization", name: s.brand },
+  areaServed: { "@type": "Country", name: "JP" },
+  offers: {
+    "@type": "Offer",
+    priceCurrency: "JPY",
+    priceSpecification: {
+      "@type": "UnitPriceSpecification",
+      price: s.monthlyCost,
+      priceCurrency: "JPY",
+      unitCode: "MON",
+    },
+    url: `${SITE.url}/articles/${article.id}`,
+  },
+}));
+
 // JSON-LD は楽天・Yahoo のみ（Amazon は 24h 鮮度を SSG で保証できないため除外）
 const productJsonLds = products
   .filter((p) => p.rating !== undefined)
@@ -204,6 +231,7 @@ const productJsonLds = products
     <JsonLd data={breadcrumbJsonLd} />
     {faqJsonLd && <JsonLd data={faqJsonLd} />}
     {productJsonLds.map((ld) => <JsonLd data={ld} />)}
+    {serviceJsonLds.map((ld) => <JsonLd data={ld} />)}
   </Fragment>
 
   <Container class="py-8 md:py-12">
@@ -265,6 +293,13 @@ const productJsonLds = products
         {isComparison && products.length > 0 && (
           <section id="comparison-table" aria-label="商品比較表" class="scroll-mt-24">
             <ComparisonTable products={products} caption={`${data.title} 比較表`} targetUnit={targetUnit} />
+          </section>
+        )}
+
+        <!-- サービス比較表（service のみ） -->
+        {isService && services.length > 0 && (
+          <section id="service-table" aria-label="サービス比較表" class="scroll-mt-24">
+            <ServiceTable services={services} caption={`${data.title} 比較表`} />
           </section>
         )}
 

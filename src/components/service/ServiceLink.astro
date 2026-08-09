@@ -1,0 +1,57 @@
+---
+// ASP 案件（ウォーターサーバー等）へのアフィリエイトリンク。
+// 楽天/Yahoo/Amazon の AffiliateLink.astro とは別系統。
+// モール系は価格比較・offers を伴うが、ASP 案件は単一リンクのため共通化しない。
+export type Asp = "a8" | "valuecommerce" | "afb";
+
+interface Props {
+  href: string;
+  asp: Asp;
+  serviceName: string;
+  label?: string;
+  variant?: "primary" | "outline";
+  size?: "sm" | "md" | "lg";
+  /** GA4 計測用の設置場所ラベル（例: "service_table"）。未指定は inline 扱い */
+  gaPlacement?: string;
+}
+
+const {
+  href,
+  asp,
+  serviceName,
+  label = "公式サイトで見る",
+  variant = "primary",
+  size = "md",
+  gaPlacement,
+} = Astro.props;
+
+const sizeClasses = {
+  sm: "px-4 py-2 text-sm min-h-[36px]",
+  md: "px-6 py-2.5 text-sm min-h-[44px]",
+  lg: "px-8 py-3 text-base min-h-[52px]",
+};
+
+const variantClasses = {
+  primary:
+    "bg-[var(--color-primary)] text-white hover:opacity-90",
+  outline:
+    "border border-[var(--color-primary)] text-[var(--color-primary)] hover:bg-[var(--color-primary)] hover:text-white",
+};
+---
+
+<a
+  href={href}
+  rel="sponsored nofollow noopener"
+  target="_blank"
+  aria-label={`${serviceName}の公式サイトを見る（別タブで開く）`}
+  class={`inline-flex items-center justify-center gap-2 rounded-lg font-semibold transition-all focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2 w-full whitespace-nowrap ${sizeClasses[size]} ${variantClasses[variant]}`}
+  data-ga-event="click_service_link"
+  data-ga-asp={asp}
+  data-ga-product={serviceName}
+  data-ga-placement={gaPlacement}
+>
+  {label}
+  <svg class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
+  </svg>
+</a>
