@@ -101,21 +101,13 @@ describe("lintArticleBody（統合: 全記事）", () => {
   // SEO 測定中・監視中のため本文クリーンアップを一時保留している記事（2026-06-30 時点）。
   // 7月初旬の回復再判定後に順次浄化し、このリストから外す。詳細は
   // docs/IMPLEMENTATION_PLAN_BODY_NUMERIC_SINGLE_SOURCE.md / メモリ参照。
-  const MEASUREMENT_HOLD = new Set(
-    [
-      "fabric-softener",
-      "laundry-detergent",
-    ].map((s) => `${s}-comparison.md`),
-  );
-
   it("記事ファイルが取得できている", () => {
     expect(files.length).toBeGreaterThan(0);
   });
 
-  it("測定保留を除く全記事に error レベルの手書き数値違反が無い", () => {
+  it("全記事に error レベルの手書き数値違反が無い", () => {
     const offenders: string[] = [];
     for (const file of files) {
-      if (MEASUREMENT_HOLD.has(basename(file))) continue;
       const content = readFileSync(file, "utf-8");
       const errors = getErrorViolations(lintArticleBody(content));
       for (const e of errors) {

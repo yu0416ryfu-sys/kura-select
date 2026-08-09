@@ -419,6 +419,6 @@ const productJsonLds = products
 
   <!-- モバイル追従CTA（comparison のみ・比較表通過後に表示） -->
   {isComparison && products.length > 0 && (
-    <StickyCta product={products.find((p) => p.rank === 1) ?? products[0]} />
+    <StickyCta product={products.find((p) => p.rank === 1) ?? products[0]} targetUnit={targetUnit} />
   )}
 </BaseLayout>

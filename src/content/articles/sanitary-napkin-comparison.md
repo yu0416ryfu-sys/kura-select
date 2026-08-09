@@ -1,13 +1,13 @@
 ---
 title: "生理用ナプキン コスパ最強ランキング【2026年版】おすすめ10選｜1枚あたりで比較"
-description: "生理用ナプキンを1枚あたりのコストで徹底比較。ソフィ・ロリエ・エリス・ウィスパーなど人気10選を吸収力・肌へのやさしさ・コスパ最強ランキングで解説します。"
+description: "生理用ナプキンを1枚あたりのコストで徹底比較。ソフィ・ロリエ・エリス・ナチュラムーンなど人気10選を吸収力・肌へのやさしさ・コスパ最強ランキングで解説します。"
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-08-08"
+updatedAt: "2026-08-10"
 products:
   - rank: 1
-    name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20"
+    name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20.5cm"
     brand: "大王製紙（エリス）"
     price: 2183
     capacity: "27枚×5"
@@ -17,10 +17,10 @@ products:
     features:
       - "超スリム設計でショーツ内でのかさばりが少ない"
       - "素肌感覚の薄さで存在感を感じにくい"
-      - "52枚入の大容量でコスパに優れる"
+      - "複数袋のまとめ買い構成で1枚あたりを抑えやすい"
     pros:
       - "薄くてスリムなのに吸収力がしっかりある"
-      - "52枚大容量でまとめ買いに最適"
+      - "まとめ買い構成でストックを確保しやすい"
       - "エリスブランドの信頼ある品質"
     cons:
       - "超薄型のため多い日には向かない"
@@ -40,171 +40,94 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_600587"
         available: true
   - rank: 2
-    name: "ウィスパー うすさら 28枚入"
-    brand: "P&G（ウィスパー）"
-    price: 6089
-    capacity: "28枚入"
-    pricePerUnit: "約217円/枚"
-    rating: 4.53
-    reviewCount: 194
+    name: "ソフィ はだおもい 特に多い昼用 230 羽つき 20枚入"
+    brand: "ユニ・チャーム（ソフィ）"
+    price: 614
+    capacity: "20枚入"
+    pricePerUnit: "約31円/枚"
+    rating: 4.64
+    reviewCount: 108
     features:
-      - "うすさら素材で薄くて肌への刺激が少ない"
-      - "超吸収ポリマー配合で液体を素早く閉じ込める"
-      - "通気性素材で長時間でも蒸れにくい"
+      - "230mm の昼用サイズで羽つき"
+      - "肌あたりにこだわった表面素材を採用"
+      - "長時間のズレを抑える設計"
     pros:
-      - "P&G独自の超吸収ポリマーで漏れを防ぐ"
-      - "薄くても吸収力が高く日中安心して使える"
-      - "グローバルブランドの信頼性"
+      - "昼用として吸収量と装着感のバランスが取りやすい"
+      - "羽つきでショーツに固定しやすい"
+      - "日中の外出が長い日にも合わせやすい"
     cons:
-      - "28枚入のため1枚単価がやや高め"
-      - "少量タイプのため購入頻度が上がりやすい"
-    recommendedFor: "薄さと吸収力を両立したい方・外出先でも快適に過ごしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405705%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11299524%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/705/405705.jpg?_ex=128x128"
+      - "夜間や量が特に多い日には長さが物足りない場合がある"
+      - "薄型タイプに比べると厚みを感じる人もいる"
+    recommendedFor: "昼間の量が多い日に肌あたりを重視したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fx480680h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10231858%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/407/4903111363407.jpg?_ex=128x128"
   - rank: 3
-    name: "ベイビーハーツ 布ナプキン ライナー"
-    brand: "baby hearts"
-    price: 726
-    capacity: "1枚"
-    pricePerUnit: "約726円/枚"
-    rating: 4.6
-    reviewCount: 2908
+    name: "ソフィ はだおもい 多い夜用 羽つき 29cm 10枚入"
+    brand: "ユニ・チャーム（ソフィ）"
+    price: 614
+    capacity: "10枚入"
+    pricePerUnit: "約61円/枚"
+    rating: 4.75
+    reviewCount: 60
     features:
-      - "布ナプキンやライナーとして使える"
-      - "肌面素材やサイズで選びやすい"
-      - "洗って繰り返し使えるタイプ"
+      - "29cm の夜用サイズで羽つき"
+      - "綿状パルプを使った吸収体構造"
+      - "就寝時の姿勢変化を想定した設計"
     pros:
-      - "使い捨て以外の選択肢になる"
-      - "サイズ展開を選びやすい"
-      - "温活用途にも合わせやすい"
+      - "夜用として長さと吸収量を確保しやすい"
+      - "昼用と同シリーズで使用感を揃えやすい"
+      - "就寝時の後ろモレが気になる方に向く"
     cons:
-      - "洗濯・管理の手間がある"
-      - "吸収量やサイズ確認が必要"
-    recommendedFor: "布ナプキンやライナーを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi4en.3rdw6abb.g00qi4en.3rdw7eb8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbabyhearts%2Fog-500%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbabyhearts%2Fi%2F10003157%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/babyhearts/cabinet/apukin_plain/01657563/02746568/og-500-top.jpg?_ex=128x128"
+      - "少量パックのため購入頻度が上がりやすい"
+      - "日中の使用にはサイズが大きい"
+    recommendedFor: "夜間のモレが気になる方・同シリーズで揃えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fx480690h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10231859%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/582/4903111363582.jpg?_ex=128x128"
   - rank: 4
-    name: "JEWLINGE オーガニックおりものライナー"
-    brand: "JEWLINGE"
-    price: 999
-    capacity: "1枚"
-    pricePerUnit: "約999円/枚"
-    rating: 4.61
-    reviewCount: 6037
+    name: "エリス 朝まで超安心 クリニクス 量が心配な人用 羽つき 40cm 10枚入*3袋セット"
+    brand: "大王製紙（エリス）"
+    price: 1900
+    capacity: "10枚×3"
+    pricePerUnit: "約63円/枚"
+    rating: 4.82
+    reviewCount: 73
     features:
-      - "布ナプキンやライナーとして使える"
-      - "肌面素材やサイズで選びやすい"
-      - "洗って繰り返し使えるタイプ"
+      - "40cm の最長クラスで羽つき"
+      - "立体ギャザーとクッション構造を採用"
+      - "3袋セットのまとめ買い構成"
     pros:
-      - "使い捨て以外の選択肢になる"
-      - "サイズ展開を選びやすい"
-      - "温活用途にも合わせやすい"
+      - "量が特に多い日の夜間に長さで対応できる"
+      - "まとめ買い構成で1枚あたりを抑えやすい"
+      - "同じ規格を継続して使いやすい"
     cons:
-      - "洗濯・管理の手間がある"
-      - "吸収量やサイズ確認が必要"
-    recommendedFor: "布ナプキンやライナーを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qefin.3rdw6426.g00qefin.3rdw77ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewlinge%2Fts-s-l3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewlinge%2Fi%2F10004003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jewlinge/cabinet/01067786/11748914/11848138/liner_kanban_202602.jpg?_ex=128x128"
+      - "長さがあるためショーツを選ぶ"
+      - "保管スペースを取りやすい"
+    recommendedFor: "夜間の量が特に多くまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F20497%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10674468%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/497/20497.jpg?_ex=128x128"
   - rank: 5
-    name: "JEWLINGE オーガニックおりものライナー 1枚"
-    brand: "JEWLINGE"
-    price: 999
-    capacity: "1枚"
-    pricePerUnit: "約999円/枚"
-    rating: 4.61
-    reviewCount: 6037
+    name: "エリス 朝まで超安心 クリニクス 量が心配な人用 羽つき 40cm 10枚入"
+    brand: "大王製紙（エリス）"
+    price: 649
+    capacity: "10枚入"
+    pricePerUnit: "約65円/枚"
+    rating: 4.77
+    reviewCount: 56
     features:
-      - "布ナプキンやライナーとして使える"
-      - "肌面素材やサイズで選びやすい"
-      - "洗って繰り返し使えるタイプ"
+      - "40cm の最長クラスで羽つき"
+      - "ドライシートで表面のべたつきを抑える構造"
+      - "単袋タイプ"
     pros:
-      - "使い捨て以外の選択肢になる"
-      - "サイズ展開を選びやすい"
-      - "温活用途にも合わせやすい"
+      - "まとめ買い前に使用感を試しやすい"
+      - "夜間の長さ重視の選択肢として比較しやすい"
+      - "保管スペースを取りにくい"
     cons:
-      - "洗濯・管理の手間がある"
-      - "吸収量やサイズ確認が必要"
-    recommendedFor: "布ナプキンやライナーを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qefin.3rdw6426.g00qefin.3rdw77ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewlinge%2Fts-s-l3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewlinge%2Fi%2F10004003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jewlinge/cabinet/01067786/11748914/11848138/liner_kanban_202602.jpg?_ex=128x128"
+      - "1枚あたりはまとめ買い構成に劣りやすい"
+      - "少量パックのため購入頻度が上がりやすい"
+    recommendedFor: "40cm タイプを少量から試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe476150h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10572650%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/349/4902011881349.jpg?_ex=128x128"
   - rank: 6
-    name: "JEWLINGE 布ナプキン お試し一体型"
-    brand: "JEWLINGE"
-    price: 1100
-    capacity: "1枚"
-    pricePerUnit: "約1100円/枚"
-    rating: 4.55
-    reviewCount: 12777
-    features:
-      - "布ナプキンやライナーとして使える"
-      - "肌面素材やサイズで選びやすい"
-      - "洗って繰り返し使えるタイプ"
-    pros:
-      - "使い捨て以外の選択肢になる"
-      - "サイズ展開を選びやすい"
-      - "温活用途にも合わせやすい"
-    cons:
-      - "洗濯・管理の手間がある"
-      - "吸収量やサイズ確認が必要"
-    recommendedFor: "布ナプキンやライナーを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qefin.3rdw6426.g00qefin.3rdw77ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewlinge%2Fsuper-onecoin%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewlinge%2Fi%2F10004332%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jewlinge/cabinet/01067786/07436588/merged/otameshi_r5_202606.jpg?_ex=128x128"
-  - rank: 7
-    name: "メイドインアース リトル布ナプキン"
-    brand: "メイドインアース"
-    price: 2310
-    capacity: "2枚"
-    pricePerUnit: "約1155円/枚"
-    rating: 4.57
-    reviewCount: 1077
-    features:
-      - "布ナプキンやライナーとして使える"
-      - "肌面素材やサイズで選びやすい"
-      - "洗って繰り返し使えるタイプ"
-    pros:
-      - "使い捨て以外の選択肢になる"
-      - "サイズ展開を選びやすい"
-      - "温活用途にも合わせやすい"
-    cons:
-      - "洗濯・管理の手間がある"
-      - "吸収量やサイズ確認が必要"
-    recommendedFor: "布ナプキンやライナーを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pitwn.3rdw6d1d.g00pitwn.3rdw73f3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fearth%2Fx-nnlt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fearth%2Fi%2F10001815%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/earth/cabinet/sanitary/3/set-nnlt.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbigmories%2Fmie-zk-nn-ltset.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-06"
-        price: 2500
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/bigmories_mie-zk-nn-ltset"
-        available: true
-  - rank: 8
-    name: "JEWLINGE おりものライナープラス"
-    brand: "JEWLINGE"
-    price: 1250
-    capacity: "1枚"
-    pricePerUnit: "約1250円/枚"
-    rating: 4.63
-    reviewCount: 1055
-    features:
-      - "布ナプキンやライナーとして使える"
-      - "肌面素材やサイズで選びやすい"
-      - "洗って繰り返し使えるタイプ"
-    pros:
-      - "使い捨て以外の選択肢になる"
-      - "サイズ展開を選びやすい"
-      - "温活用途にも合わせやすい"
-    cons:
-      - "洗濯・管理の手間がある"
-      - "吸収量やサイズ確認が必要"
-    recommendedFor: "布ナプキンやライナーを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qefin.3rdw6426.g00qefin.3rdw77ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewlinge%2Forimono-plus-2009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewlinge%2Fi%2F10002473%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jewlinge/cabinet/01067786/04124167/imgrc0123997213.jpg?_ex=128x128"
-  - rank: 9
     name: "ナチュラムーン 生理用ナプキン 普通の日用 羽なし 24個入"
     brand: "ナチュラムーン"
     price: 583
@@ -237,7 +160,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/happy-natural_018004000003"
         available: true
-  - rank: 10
+  - rank: 7
     name: "ロリエ スリムガード 特に多い昼用 羽つき 19個入"
     brand: "花王（ロリエ）"
     price: 529
@@ -254,8 +177,8 @@ products:
       - "羽つきでズレにくくアクティブな日でも快適"
       - "花王ブランドの品質安定性"
     cons:
-      - "1枚単価は比較4製品中やや高め"
-      - "30枚入のため購入頻度が高まりやすい"
+      - "薄型重視の製品に比べると装着感はしっかりめ"
+      - "少量パックのため購入頻度が高まりやすい"
     recommendedFor: "多い日の昼間・動き回る日に安心して使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000944%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10123008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/283/4901301254283.jpg?_ex=128x128"
@@ -270,6 +193,72 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/drmart-1_cm-516393"
         available: true
+  - rank: 8
+    name: "ロリエ スリムガード 特に多い夜用 羽つき 13個入"
+    brand: "花王（ロリエ）"
+    price: 529
+    capacity: "13個入"
+    pricePerUnit: "約41円/個"
+    rating: 4.68
+    reviewCount: 90
+    features:
+      - "薄型設計ながら夜用の吸収量に対応"
+      - "羽つきでズレとモレを抑える構造"
+      - "無香料タイプ"
+    pros:
+      - "夜用としては薄くかさばりにくい"
+      - "同シリーズの昼用と使い分けやすい"
+      - "香りが苦手な方でも使いやすい"
+    cons:
+      - "厚みのある夜用に比べると安心感の好みが分かれる"
+      - "少量パックのため購入頻度が上がりやすい"
+    recommendedFor: "夜用でも薄さを重視したい方・無香料を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000945%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10122692%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/992/4901301264992.jpg?_ex=128x128"
+  - rank: 9
+    name: "シシフィーユ ナプキン 23.5cm 多い日用 20個入"
+    brand: "シシフィーユ"
+    price: 825
+    capacity: "20個入"
+    pricePerUnit: "約41円/個"
+    rating: 4.63
+    reviewCount: 71
+    features:
+      - "オーガニックコットンを表面材に使用"
+      - "23.5cm の多い日用サイズで羽つき"
+      - "フェムケアブランドの設計"
+    pros:
+      - "素材にこだわりたい方が選びやすい"
+      - "羽つきで固定力を確保できる"
+      - "使い捨てタイプでコットン素材を試せる"
+    cons:
+      - "一般的な量産品に比べて価格帯は高め"
+      - "取り扱い店舗が限られる"
+    recommendedFor: "肌に触れる素材を重視して選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Fs0370001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10016608%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/00225556/04823296/imgrc0125609710.jpg?_ex=128x128"
+  - rank: 10
+    name: "ソフィ はだおもい オーガニックコットン 特に多い昼用 230 羽つき 15枚入*3袋セット"
+    brand: "ユニ・チャーム（ソフィ）"
+    price: 0
+    capacity: "15枚×3"
+    pricePerUnit: "0円/枚"
+    rating: 4.8
+    reviewCount: 55
+    features:
+      - "表面材にオーガニックコットンを使用"
+      - "230mm の昼用サイズで羽つき"
+      - "3袋セットのまとめ買い構成"
+    pros:
+      - "肌に触れる面の素材を重視して選べる"
+      - "同シリーズの通常タイプと比較しやすい"
+      - "まとめ買い構成でストックを確保しやすい"
+    cons:
+      - "通常タイプに比べて価格帯は高め"
+      - "昼用サイズのため夜間には別途必要"
+    recommendedFor: "肌あたりと素材を優先しつつ昼用をまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F62688%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10888547%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/688/62688.jpg?_ex=128x128"
 tags:
   - "ナプキン おすすめ"
   - "生理用品 コスパ"
