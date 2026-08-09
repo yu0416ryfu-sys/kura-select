@@ -64,7 +64,10 @@ _tmp_*
 # OGP 自動生成画像（pnpm build / CI で毎回生成されるため管理不要）
 public/og-default.png
 public/og/
+
+# 運用ドキュメント（公開リポジトリのため非公開。SSD で持ち運ぶ / 詳細は SETUP.md）
 CLAUDE.md
+SETUP.md
 
 # 確認用ファイル
 rakuten-check.csv

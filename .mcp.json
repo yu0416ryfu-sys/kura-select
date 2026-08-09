@@ -8,14 +8,14 @@
       "command": "node",
       "args": ["scripts/mcp/gsc-mcp.mjs"],
       "env": {
-        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\yu041\\.config\\kura-select\\service-account.json"
+        "GOOGLE_APPLICATION_CREDENTIALS": "${USERPROFILE}\\.config\\kura-select\\service-account.json"
       }
     },
     "ga4": {
       "command": "node",
       "args": ["scripts/mcp/ga4-mcp.mjs"],
       "env": {
-        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\yu041\\.config\\kura-select\\service-account.json"
+        "GOOGLE_APPLICATION_CREDENTIALS": "${USERPROFILE}\\.config\\kura-select\\service-account.json"
       }
     },
     "bing": {
