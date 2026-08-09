@@ -41,7 +41,12 @@ interface Props {
 
 const { article, categoryName, categorySlug, relatedArticles, headings } = Astro.props;
 const { data } = article;
-const isComparison = data.articleType !== "review";
+const isService = data.articleType === "service";
+// サービス記事は products[] を持たないため比較記事扱いにしない
+const isComparison = data.articleType !== "review" && !isService;
+// products はサービス記事に存在せず、レビュー記事でも任意。参照側は常にこの配列を使う
+const products = "products" in data && Array.isArray(data.products) ? data.products : [];
+const services = "services" in data && Array.isArray(data.services) ? data.services : [];
 
 type TocItem = { slug: string; text: string; depth: 2 | 3 };
 
@@ -50,14 +55,14 @@ const markdownTocItems: TocItem[] = (headings ?? [])
   .map((h) => ({ slug: h.slug, text: h.text, depth: h.depth as 2 | 3 }));
 
 const rawTocItems: TocItem[] = [
-  ...(isComparison && data.products.length > 0
+  ...(isComparison && products.length > 0
     ? [{ slug: "comparison-table", text: "商品比較表", depth: 2 as const }]
     : []),
   ...markdownTocItems,
   ...(data.faqs && data.faqs.length > 0
     ? [{ slug: "faq", text: "よくある質問", depth: 2 as const }]
     : []),
-  ...(data.products.length > 0
+  ...(products.length > 0
     ? [{ slug: "product-details", text: isComparison ? "各商品の詳細" : "商品情報", depth: 2 as const }]
     : []),
 ];
@@ -130,7 +135,7 @@ const breadcrumbJsonLd = {
 };
 
 // JSON-LD は楽天・Yahoo のみ（Amazon は 24h 鮮度を SSG で保証できないため除外）
-const productJsonLds = data.products
+const productJsonLds = products
   .filter((p) => p.rating !== undefined)
   .map((p) => {
     let jsonLdOffer: { price: number; url: string } | null = null;
@@ -249,17 +254,17 @@ const productJsonLds = data.products
         <SaleBanner />
 
         <!-- ファーストビューCTA: comparison のみ（1位商品） -->
-        {isComparison && data.products.length > 0 && (
-          <TopPickCta product={data.products.find((p) => p.rank === 1) ?? data.products[0]} targetUnit={targetUnit} />
+        {isComparison && products.length > 0 && (
+          <TopPickCta product={products.find((p) => p.rank === 1) ?? products[0]} targetUnit={targetUnit} />
         )}
 
         <!-- 目次（モバイル: 比較表の前） -->
         <ArticleToc items={tocItems} class="mt-6 lg:hidden" />
 
         <!-- 比較表（comparison のみ） -->
-        {isComparison && data.products.length > 0 && (
+        {isComparison && products.length > 0 && (
           <section id="comparison-table" aria-label="商品比較表" class="scroll-mt-24">
-            <ComparisonTable products={data.products} caption={`${data.title} 比較表`} targetUnit={targetUnit} />
+            <ComparisonTable products={products} caption={`${data.title} 比較表`} targetUnit={targetUnit} />
           </section>
         )}
 
@@ -274,8 +279,8 @@ const productJsonLds = data.products
         )}
 
         <!-- 記事本文後インライン CTA（comparison: 1位商品 / review: 紹介商品） -->
-        {data.products.length > 0 && (() => {
-          const top = data.products.find((p) => p.rank === 1) ?? data.products[0];
+        {products.length > 0 && (() => {
+          const top = products.find((p) => p.rank === 1) ?? products[0];
           const yahooSearchFallback = {
             enabled: import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true",
             sid: import.meta.env.VALUECOMMERCE_SID,
@@ -327,11 +332,11 @@ const productJsonLds = data.products
         })()}
 
         <!-- 商品詳細セクション -->
-        {data.products.length > 0 && (
+        {products.length > 0 && (
           <section id="product-details" aria-label={isComparison ? "商品詳細" : "商品情報"} class="mt-10 scroll-mt-24">
             <h2 class="text-xl font-bold mb-6">{isComparison ? "各商品の詳細" : "商品情報"}</h2>
             <div class="space-y-6">
-              {data.products.map((product) => (
+              {products.map((product) => (
                 <ProductCard product={product} id={`product-${product.rank}`} targetUnit={targetUnit} />
               ))}
             </div>
@@ -378,7 +383,7 @@ const productJsonLds = data.products
   </Container>
 
   <!-- モバイル追従CTA（comparison のみ・比較表通過後に表示） -->
-  {isComparison && data.products.length > 0 && (
-    <StickyCta product={data.products.find((p) => p.rank === 1) ?? data.products[0]} />
+  {isComparison && products.length > 0 && (
+    <StickyCta product={products.find((p) => p.rank === 1) ?? products[0]} />
   )}
 </BaseLayout>

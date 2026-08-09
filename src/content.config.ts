@@ -37,6 +37,33 @@ const productSchema = z.object({
   offers: z.array(offerSchema).optional(),
 });
 
+// サービス記事（ウォーターサーバー等の ASP 案件）用スキーマ。
+// 楽天商品ではないため rakutenUrl を持たず、update-products の対象外
+// （scripts/lib/frontmatter.ts の isProductManagedArticle で除外）。
+const serviceSchema = z.object({
+  rank: z.number().int().positive(),
+  name: z.string(),
+  brand: z.string(),
+  /** 月額総額（サーバーレンタル料＋水代＋電気代の目安・円） */
+  monthlyCost: z.number().int().nonnegative(),
+  /** 円/L。比較の主軸。表示は monthlyCost と併せて比較表で行う */
+  pricePerLiter: z.string(),
+  /** 給水方式: delivery=宅配水 / purifier=浄水型（水道水） */
+  waterType: z.enum(["delivery", "purifier"]),
+  /** 契約期間（月）。縛りなしは 0 */
+  contractMonths: z.number().int().nonnegative(),
+  /** 解約金（円）。不利益条件のため必須。なしは 0 */
+  cancellationFee: z.number().int().nonnegative(),
+  features: z.array(z.string()),
+  pros: z.array(z.string()),
+  cons: z.array(z.string()),
+  recommendedFor: z.string(),
+  /** ASP のアフィリエイトリンク */
+  affiliateUrl: z.string().url(),
+  asp: z.enum(["a8", "valuecommerce", "afb"]),
+  imageUrl: z.string().optional(),
+});
+
 const faqSchema = z.object({
   question: z.string(),
   answer: z.string(),
@@ -71,6 +98,12 @@ const articles = defineCollection({
         articleType: z.literal("review"),
         ...commonFields({ image }),
         products: z.array(productSchema).optional(),
+      }),
+      // サービス記事: ASP 案件（ウォーターサーバー等）。services は 1 件以上必須
+      z.object({
+        articleType: z.literal("service"),
+        ...commonFields({ image }),
+        services: z.array(serviceSchema).min(1),
       }),
     ]),
 });

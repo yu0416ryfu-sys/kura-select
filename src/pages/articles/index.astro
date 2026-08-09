@@ -3,6 +3,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import Container from "../../components/layout/Container.astro";
 import { getCollection } from "astro:content";
 import { url } from "../../lib/site";
+import { getCompareCountLabel } from "../../lib/article";
 import type { CollectionEntry } from "astro:content";
 
 type ArticleEntry = CollectionEntry<"articles">;
@@ -73,7 +74,7 @@ const articles = (await getCollection("articles"))
                   更新日: {getDisplayDate(article).toLocaleDateString("ja-JP")}
                 </time>
                 <span class="shrink-0 text-xs text-[var(--color-primary)] font-medium">
-                  {article.data.products.length}商品を比較
+                  {getCompareCountLabel(article.data)}
                 </span>
               </div>
             </div>

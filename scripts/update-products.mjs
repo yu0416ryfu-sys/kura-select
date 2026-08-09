@@ -19,7 +19,7 @@
 import { readFileSync, writeFileSync, appendFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
 import { spawnSync } from 'child_process';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, isProductManagedArticle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 import { applyAiCapacityToContent, buildProcessedAiCapacityFrozenProduct, buildCapacityReviewInputItem, computePendingFinalization, isSameRakutenItemUrl, parseJsonlPreservingRaw } from './lib/ai-capacity.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
 import { parseRakutenItemUrl, toDirectItemUrl, toRakutenUrlKey, collectOtherProductUrlKeys, findDuplicateUrlProduct, findDuplicateUrlGroups, selectNonDuplicateItem } from './lib/rakuten-url.ts';
@@ -2552,6 +2552,11 @@ async function checkAdditions() {
     const filePath = join(articlesDir, file);
     const content = readFileSync(filePath, 'utf-8');
 
+    if (!isProductManagedArticle(content)) {
+      console.log(`⏭ ${file}: サービス記事（楽天API対象外・スキップ）`);
+      continue;
+    }
+
     if (extractArticleType(content) === 'review') {
       console.log(`⏭ ${file}: レビュー記事（スキップ）`);
       continue;
@@ -2879,6 +2884,11 @@ async function checkReplacements() {
     const filePath = join(articlesDir, file);
     const content = readFileSync(filePath, 'utf-8');
 
+    if (!isProductManagedArticle(content)) {
+      console.log(`⏭ ${file}: サービス記事（楽天API対象外・スキップ）`);
+      continue;
+    }
+
     if (extractArticleType(content) === 'review') {
       console.log(`⏭ ${file}: レビュー記事（スキップ）`);
       continue;
@@ -3037,6 +3047,12 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
 
   progress?.startArticle(file, index, productNames.length);
   log(`\n📄 ${file} (${productNames.length}商品)`, { print: false });
+
+  if (!isProductManagedArticle(content)) {
+    log('   → サービス記事（楽天API対象外）。スキップ');
+    progress?.finishArticle(file, index, 'サービス記事');
+    return result;
+  }
 
   if (extractArticleType(content) === 'review') {
     log('   → レビュー記事。スキップ');

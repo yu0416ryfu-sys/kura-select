@@ -5,6 +5,7 @@ import SearchBox from "../components/search/SearchBox.astro";
 import { getCollection } from "astro:content";
 import { formatPriceOrConfirmation } from "../lib/price";
 import { SITE, url } from "../lib/site";
+import { getArticleProducts, getArticleServices } from "../lib/article";
 
 const categories = await getCollection("categories");
 const categoryNameById = new Map(categories.map((cat) => [cat.id, cat.data.name]));
@@ -33,14 +34,16 @@ const searchData = {
         article.data.description,
         categoryName,
         ...(article.data.tags ?? []),
-        ...article.data.products.map((product) => product.name),
-        ...article.data.products.map((product) => product.brand),
+        ...getArticleProducts(article.data).map((product) => product.name),
+        ...getArticleProducts(article.data).map((product) => product.brand),
+        ...getArticleServices(article.data).map((service) => service.name),
+        ...getArticleServices(article.data).map((service) => service.brand),
       ].join(" "),
     };
   }),
   products: articles.flatMap((article) => {
     const categoryName = categoryNameById.get(article.data.category.id) ?? article.data.category.id;
-    return article.data.products.map((product) => ({
+    return getArticleProducts(article.data).map((product) => ({
       name: product.name,
       brand: product.brand,
       priceLabel: formatPriceOrConfirmation(product.price),

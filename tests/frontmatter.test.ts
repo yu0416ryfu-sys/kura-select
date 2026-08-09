@@ -32,6 +32,7 @@ import {
   fixNameCapacityConflicts,
   replaceCapacityInProductName,
   extractArticleType,
+  isProductManagedArticle,
 } from "../scripts/lib/frontmatter";
 
 // ─── テスト用フィクスチャ ─────────────────────────────────────────────────
@@ -2254,6 +2255,40 @@ articleType: unknown-type
 ---
 `;
     expect(extractArticleType(content)).toBe("comparison");
+  });
+});
+
+// ─── isProductManagedArticle ─────────────────────────────────────────────────
+describe("isProductManagedArticle", () => {
+  const article = (articleType?: string) => `---
+title: "記事"
+publishedAt: 2026-04-01
+${articleType ? `articleType: ${articleType}` : ""}
+---
+`;
+
+  it("articleType: comparison は楽天API更新の対象", () => {
+    expect(isProductManagedArticle(article("comparison"))).toBe(true);
+  });
+
+  it("articleType: review は楽天API更新の対象（商品情報を持つため）", () => {
+    expect(isProductManagedArticle(article("review"))).toBe(true);
+  });
+
+  it("articleType: service は対象外（products[] を持たない）", () => {
+    expect(isProductManagedArticle(article("service"))).toBe(false);
+  });
+
+  it("articleType 未指定の既存記事は対象（後方互換）", () => {
+    expect(isProductManagedArticle(article())).toBe(true);
+  });
+
+  it("クオート付きの articleType: \"service\" も対象外にする", () => {
+    expect(isProductManagedArticle(article('"service"'))).toBe(false);
+  });
+
+  it("フロントマターがない場合は対象として扱う", () => {
+    expect(isProductManagedArticle("本文のみ")).toBe(true);
   });
 });
 

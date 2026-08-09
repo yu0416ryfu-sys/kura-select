@@ -15,7 +15,7 @@
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from "fs";
 import { join, resolve } from "path";
 import yaml from "js-yaml";
-import { buildSearchKeyword } from "./lib/frontmatter.ts";
+import { buildSearchKeyword, isProductManagedArticle } from "./lib/frontmatter.ts";
 import { searchYahooShoppingItems } from "./lib/yahoo-shopping.ts";
 import { upsertYahooOfferInFrontmatter, markProviderOffersForReview } from "./lib/yahoo-offers.ts";
 import {
@@ -171,7 +171,9 @@ function targetArticleFiles() {
   const files = readdirSync(ARTICLES_DIR)
     .filter((file) => file.endsWith(".md"))
     .filter((file) => !file.endsWith(".md.bak"))
-    .filter((file) => matchesFileFilter(file));
+    .filter((file) => matchesFileFilter(file))
+    // サービス記事（ASP案件）は products[] を持たないため対象外
+    .filter((file) => isProductManagedArticle(readFileSync(join(ARTICLES_DIR, file), "utf-8")));
   return LIMIT > 0 ? files.slice(0, LIMIT) : files;
 }
 

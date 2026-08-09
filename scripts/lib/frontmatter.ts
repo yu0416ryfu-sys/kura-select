@@ -1376,6 +1376,25 @@ export function extractArticleType(content: string): 'comparison' | 'review' {
 }
 
 /**
+ * 楽天 API による商品自動更新の対象外とする記事種別。
+ * サービス記事（ウォーターサーバー等の ASP 案件）は products[] を持たないため、
+ * update-products / check-additions / check-replacements のいずれからも除外する。
+ */
+const NON_PRODUCT_ARTICLE_TYPES = new Set(['service']);
+
+/**
+ * 記事が楽天 API による商品自動更新の対象かどうかを返す。
+ * articleType 未指定（既存記事）は従来どおり対象とする。
+ */
+export function isProductManagedArticle(content: string): boolean {
+  const parsed = parseFrontmatter(content);
+  if (!parsed) return true;
+  const articleType = parsed.data.articleType;
+  if (typeof articleType !== 'string') return true;
+  return !NON_PRODUCT_ARTICLE_TYPES.has(articleType);
+}
+
+/**
  * 記事タイトルから楽天API検索用キーワードを生成する。
  * 「ジェルボール洗剤 コスパ最強ランキング【2026年版】...」→「ジェルボール洗剤」
  */

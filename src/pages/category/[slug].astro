@@ -3,6 +3,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import Container from "../../components/layout/Container.astro";
 import { getCollection } from "astro:content";
 import { url } from "../../lib/site";
+import { getCompareCountLabel } from "../../lib/article";
 
 export async function getStaticPaths() {
   const categories = await getCollection("categories");
@@ -81,7 +82,7 @@ const { data } = category;
                     {(article.data.updatedAt ?? article.data.publishedAt).toLocaleDateString("ja-JP")} 更新
                   </time>
                   <span class="text-xs text-[var(--color-primary)] font-medium">
-                    {article.data.products.length}商品を比較 →
+                    {getCompareCountLabel(article.data)} →
                   </span>
                 </div>
               </div>
