@@ -19,6 +19,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # IndexNow が「直前のコミットで変わった記事」を git diff で拾うため
+          fetch-depth: 2
 
       # OGP画像（scripts/generate-ogp.mjs）はsharp/librsvgでSVGテキストをラスタライズするため、
       # ランナーに日本語フォントが無いと日本語が豆腐（□）になる
@@ -66,3 +69,20 @@ jobs:
       - name: GitHub Pagesへデプロイ
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # Bing（送客第1チャネル）に更新 URL を能動通知する。
+  # 公開が完了してから走らせないと、クロール時にまだ旧版が返るため deploy の後段に置く。
+  indexnow:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: IndexNowへ更新URLを通知
+        run: node scripts/indexnow-submit.mjs

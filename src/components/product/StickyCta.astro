@@ -1,5 +1,8 @@
 ---
-// モバイル専用の追従CTA バー。
+// 追従CTA バー（全デバイス）。
+// 以前は md:hidden でモバイル専用だったが、送客第1チャネルの Bing 流入が
+// デスクトップ主体のため、デスクトップでは追従CTAが一度も表示されていなかった
+// （sticky_cta のクリックが継続してゼロだった主因）。2026-08-10 に解禁。
 // 比較表（#comparison-table）を読み過ぎて画面外に消えたら表示し、
 // 1位商品（frontmatter products の rank 1）への導線を復活させる。
 // データはビルド時に frontmatter から取得するため、update-products の
@@ -72,11 +75,12 @@ const lowestPricePerUnit = displayPrice != null ? calcPricePerUnit(displayPrice,
 {ctaOffer && (
   <div
     id="sticky-cta"
-    class="fixed inset-x-0 bottom-0 z-40 md:hidden translate-y-full invisible transition-transform duration-300 ease-out"
+    class="fixed inset-x-0 bottom-0 z-40 translate-y-full invisible transition-transform duration-300 ease-out"
     aria-hidden="true"
   >
     <div class="bg-white/95 backdrop-blur border-t border-[var(--color-border)] shadow-[0_-2px_10px_rgba(0,0,0,0.08)] px-3 pt-2.5 pb-[max(0.625rem,env(safe-area-inset-bottom))]">
-      <div class="flex items-center gap-3">
+      <!-- デスクトップでは全幅に間延びさせず、本文カラム幅に合わせて中央寄せする -->
+      <div class="flex items-center gap-3 mx-auto max-w-4xl">
         <div class="flex-1 min-w-0">
           <p class="text-[11px] font-semibold text-amber-600 leading-none mb-0.5">🏆 この記事の1位</p>
           <p class="text-xs font-bold text-[var(--color-text)] truncate">{product.name}</p>
@@ -111,7 +115,7 @@ const lowestPricePerUnit = displayPrice != null ? calcPricePerUnit(displayPrice,
 )}
 
 <script>
-  // 比較表が画面上方向に消えたら追従CTAを表示する（モバイルのみ CSS で制御）。
+  // 比較表が画面上方向に消えたら追従CTAを表示する（全デバイス）。
   // 閉じるボタンで以降そのページ滞在中は表示しない。
   const bar = document.getElementById("sticky-cta");
   const sentinel = document.getElementById("comparison-table");
