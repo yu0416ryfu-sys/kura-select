@@ -1,0 +1,134 @@
+---
+// サービス記事（ASP案件）の1件ぶんのカード。
+// 比較表が「横並びで数値を突き合わせる」ためのものなのに対し、
+// こちらは1サービスずつ長所・短所・向いている人を見るためのもの。
+// frontmatter の features / pros / cons / recommendedFor はここでしか描画しない。
+import ServiceLink from "./ServiceLink.astro";
+import type { Asp } from "./ServiceLink.astro";
+
+interface Service {
+  rank: number;
+  name: string;
+  brand: string;
+  monthlyCost: number;
+  pricePerLiter: string;
+  waterType: "delivery" | "purifier";
+  contractMonths: number;
+  cancellationFee: number;
+  features: string[];
+  pros: string[];
+  cons: string[];
+  recommendedFor: string;
+  affiliateUrl: string;
+  asp: Asp;
+}
+
+interface Props {
+  service: Service;
+  /** コスパ欄の下に出す前提の注記（例: 月100L使った場合） */
+  basisNote?: string;
+}
+
+const { service, basisNote } = Astro.props;
+
+const yen = (n: number) => `${n.toLocaleString("ja-JP")}円`;
+const waterTypeLabel = service.waterType === "purifier" ? "浄水型（水道水）" : "宅配水";
+const contractLabel = service.contractMonths > 0 ? `${service.contractMonths}ヶ月` : "縛りなし";
+const cancellationLabel = service.cancellationFee > 0 ? yen(service.cancellationFee) : "なし";
+---
+
+<article class="rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] overflow-hidden">
+  <!-- ヘッダー -->
+  <div class="flex items-start gap-3 px-5 py-4 border-b border-[var(--color-border)] bg-[var(--color-bg)]">
+    <span
+      class="shrink-0 inline-flex items-center justify-center w-9 h-9 rounded-full bg-[var(--color-primary)] text-white font-bold text-sm"
+      aria-hidden="true"
+    >
+      {service.rank}
+    </span>
+    <div class="min-w-0">
+      <h3 class="font-bold text-[var(--color-text)] leading-snug">
+        <span class="sr-only">{service.rank}位：</span>{service.name}
+      </h3>
+      <p class="text-xs text-[var(--color-text-sub)] mt-0.5">
+        {service.brand}／{waterTypeLabel}
+      </p>
+    </div>
+  </div>
+
+  <!-- 主要数値 -->
+  <div class="px-5 py-4 border-b border-[var(--color-border)]">
+    <div class="flex items-baseline gap-2">
+      <span class="text-2xl font-bold text-[var(--color-primary)]">{service.pricePerLiter}</span>
+      {basisNote && <span class="text-xs text-[var(--color-text-sub)]">{basisNote}</span>}
+    </div>
+    <dl class="grid grid-cols-3 gap-2 mt-3 text-sm">
+      <div>
+        <dt class="text-xs text-[var(--color-text-sub)]">月額目安</dt>
+        <dd class="font-semibold">{yen(service.monthlyCost)}</dd>
+      </div>
+      <div>
+        <dt class="text-xs text-[var(--color-text-sub)]">契約期間</dt>
+        <dd class="font-semibold">{contractLabel}</dd>
+      </div>
+      <div>
+        <dt class="text-xs text-[var(--color-text-sub)]">解約金</dt>
+        <dd class="font-semibold">{cancellationLabel}</dd>
+      </div>
+    </dl>
+  </div>
+
+  <!-- 長所・短所 -->
+  <div class="px-5 py-4 grid grid-cols-1 sm:grid-cols-2 gap-4 border-b border-[var(--color-border)]">
+    <div>
+      <p class="text-xs font-semibold text-[var(--color-text-sub)] mb-2">良い点</p>
+      <ul class="space-y-1.5">
+        {service.pros.map((p) => (
+          <li class="flex gap-2 text-sm leading-relaxed">
+            <span class="shrink-0 text-emerald-600 font-bold" aria-hidden="true">○</span>
+            <span>{p}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+    <div>
+      <p class="text-xs font-semibold text-[var(--color-text-sub)] mb-2">注意したい点</p>
+      <ul class="space-y-1.5">
+        {service.cons.map((c) => (
+          <li class="flex gap-2 text-sm leading-relaxed">
+            <span class="shrink-0 text-[var(--color-warning)] font-bold" aria-hidden="true">△</span>
+            <span>{c}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </div>
+
+  <!-- スペック -->
+  {service.features.length > 0 && (
+    <div class="px-5 py-4 border-b border-[var(--color-border)]">
+      <p class="text-xs font-semibold text-[var(--color-text-sub)] mb-2">主な仕様</p>
+      <ul class="space-y-1 text-sm text-[var(--color-text)] leading-relaxed">
+        {service.features.map((f) => (
+          <li class="flex gap-2">
+            <span class="shrink-0 text-[var(--color-text-sub)]" aria-hidden="true">・</span>
+            <span>{f}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+
+  <!-- 向いている人 + CTA -->
+  <div class="px-5 py-4">
+    <p class="text-sm leading-relaxed mb-4">
+      <span class="font-semibold">こんな人に向いています：</span>{service.recommendedFor}
+    </p>
+    <ServiceLink
+      href={service.affiliateUrl}
+      asp={service.asp}
+      serviceName={service.name}
+      gaPlacement="service_card"
+    />
+  </div>
+</article>

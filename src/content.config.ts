@@ -103,6 +103,8 @@ const articles = defineCollection({
       z.object({
         articleType: z.literal("service"),
         ...commonFields({ image }),
+        // pricePerLiter を算出した前提（例: 月100L使った場合）。比較表・カードに併記する
+        pricingBasis: z.string().optional(),
         services: z.array(serviceSchema).min(1),
       }),
     ]),

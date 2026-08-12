@@ -19,9 +19,11 @@ interface Service {
 interface Props {
   services: Service[];
   caption?: string;
+  /** 円/L を算出した前提（例: 月100L使った場合）。読者が数字の意味を誤解しないよう明示する */
+  basisNote?: string;
 }
 
-const { services, caption = "ウォーターサーバー比較表" } = Astro.props;
+const { services, caption = "ウォーターサーバー比較表", basisNote } = Astro.props;
 
 const sorted = [...services].sort((a, b) => a.rank - b.rank);
 
@@ -38,15 +40,17 @@ const cancellationLabel = (fee: number) => (fee > 0 ? yen(fee) : "なし");
 <div class="my-8">
   <p class="text-xs text-[var(--color-text-sub)] mb-2">
     ※ 月額は「サーバーレンタル料＋水代＋電気代」の目安です。使用量・地域・プランにより変動します。
+    {basisNote && <><br />※ コスパ（円/L）は{basisNote}の金額で算出しています。</>}
   </p>
 
   <div class="overflow-x-auto rounded-lg border border-[var(--color-border)]">
-    <table class="w-full min-w-[720px] text-sm bg-[var(--color-surface)]">
+    <table class="w-full min-w-[900px] text-sm bg-[var(--color-surface)]">
       <caption class="sr-only">{caption}</caption>
       <thead>
         <tr class="bg-[var(--color-bg)] text-left">
           <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">順位</th>
-          <th scope="col" class="px-3 py-3 font-semibold">サービス</th>
+          <!-- サービス名は最も長い列。幅を確保しないと1文字ずつ折り返して行が縦に伸びる -->
+          <th scope="col" class="px-3 py-3 font-semibold w-[260px] min-w-[260px]">サービス</th>
           <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">給水方式</th>
           <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">コスパ（円/L）</th>
           <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">月額目安</th>
@@ -59,9 +63,9 @@ const cancellationLabel = (fee: number) => (fee > 0 ? yen(fee) : "なし");
         {sorted.map((service) => (
           <tr class="border-t border-[var(--color-border)] align-middle">
             <td class="px-3 py-3 font-bold text-[var(--color-primary)] whitespace-nowrap">{service.rank}位</td>
-            <td class="px-3 py-3">
-              <span class="block font-semibold">{service.name}</span>
-              <span class="block text-xs text-[var(--color-text-sub)]">{service.brand}</span>
+            <td class="px-3 py-3 w-[260px] min-w-[260px]">
+              <span class="block font-semibold leading-snug">{service.name}</span>
+              <span class="block text-xs text-[var(--color-text-sub)] mt-0.5">{service.brand}</span>
             </td>
             <td class="px-3 py-3 whitespace-nowrap">{waterTypeLabel(service.waterType)}</td>
             <td class="px-3 py-3 font-bold whitespace-nowrap">{service.pricePerLiter}</td>
