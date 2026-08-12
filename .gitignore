@@ -81,3 +81,6 @@ data/
 *service-account*.json
 *.iam.gserviceaccount.com.json
 kura-select-gsc-*.json
+
+# Claude Code のローカル実行状態
+.claude/scheduled_tasks.lock
