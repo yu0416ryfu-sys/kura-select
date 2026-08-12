@@ -251,6 +251,19 @@ const productJsonLds = products
       <article>
         <!-- 記事ヘッダー -->
         <header class="mb-8">
+          {/*
+            PR表記（service のみ）。A8 の全案件で「広告とわかる表示をファーストビュー等の
+            見える位置に」が必須要件で、欠けると提携解除・成果キャンセルの対象になる。
+            比較記事（楽天等）の表記は従来どおり記事下部のまま＝既存記事の出力は不変。
+          */}
+          {isService && (
+            <p class="mb-3 flex items-center gap-2 text-xs text-[var(--color-text-sub)]">
+              <span class="inline-block rounded bg-[var(--color-border)] px-1.5 py-0.5 font-bold text-[var(--color-text)]">
+                PR
+              </span>
+              <span>この記事は広告（アフィリエイトプログラム）を利用しています。</span>
+            </p>
+          )}
           <div class="flex items-center gap-2 mb-3">
             <a
               href={url(`/category/${categorySlug}`)}
