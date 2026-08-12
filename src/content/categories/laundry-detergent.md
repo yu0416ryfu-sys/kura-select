@@ -1,7 +1,9 @@
 ---
 name: 洗濯洗剤
 slug: laundry-detergent
-description: 洗濯洗剤の種類別・成分別コスパ比較。液体・粉・ジェルボールの違いや1回あたりのコストを徹底比較します。
+description: 洗濯洗剤・ジェルボール・漂白剤・部屋干し用まで、洗濯まわりの比較記事をまとめたカテゴリです。目的に合う記事から選べます。
 icon: 👕
 order: 3
+featuredArticles:
+  - laundry-detergent-comparison
 ---

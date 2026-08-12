@@ -116,6 +116,10 @@ const categories = defineCollection({
     description: z.string(),
     icon: z.string().optional(),
     order: z.number().int(),
+    // カテゴリページ最上部に置く導線記事（最大2件）。カテゴリページと記事が
+    // 同一クエリで競合しているカテゴリだけに設定し、検索評価を記事へ寄せる。
+    // 指定した記事は下部の一覧からは除外される（重複表示の回避）。
+    featuredArticles: z.array(reference("articles")).max(2).optional(),
   }),
 });
 

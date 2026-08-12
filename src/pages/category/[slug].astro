@@ -14,17 +14,25 @@ export async function getStaticPaths() {
       .filter((a) => !a.data.draft && a.data.category.id === cat.id)
       .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
 
-    const comparisonArticles = catArticles.filter((a) => a.data.articleType !== "review");
-    const reviewArticles = catArticles.filter((a) => a.data.articleType === "review");
+    // 導線記事はカテゴリの frontmatter で指定された順に並べる。
+    // 下書き・他カテゴリの記事を指していた場合は解決できないので黙って落とす。
+    const featuredArticles = (cat.data.featuredArticles ?? [])
+      .map((ref) => catArticles.find((a) => a.id === ref.id))
+      .filter((a) => a !== undefined);
+    const featuredIds = new Set(featuredArticles.map((a) => a.id));
+    const restArticles = catArticles.filter((a) => !featuredIds.has(a.id));
+
+    const comparisonArticles = restArticles.filter((a) => a.data.articleType !== "review");
+    const reviewArticles = restArticles.filter((a) => a.data.articleType === "review");
 
     return {
       params: { slug: cat.data.slug },
-      props: { category: cat, articles: catArticles, comparisonArticles, reviewArticles },
+      props: { category: cat, articles: catArticles, featuredArticles, comparisonArticles, reviewArticles },
     };
   });
 }
 
-const { category, articles, comparisonArticles, reviewArticles } = Astro.props;
+const { category, articles, featuredArticles, comparisonArticles, reviewArticles } = Astro.props;
 const { data } = category;
 ---
 
@@ -55,11 +63,48 @@ const { data } = category;
       </div>
     </header>
 
+    <!-- 導線記事（カテゴリと記事のカニバリ解消。frontmatter で指定されたカテゴリのみ） -->
+    {featuredArticles.length > 0 && (
+      <section class="mb-12">
+        <h2 class="text-lg font-bold text-[var(--color-text)] mb-5">
+          まず読むならこの記事
+        </h2>
+        <div class={`grid grid-cols-1 gap-6 ${featuredArticles.length > 1 ? "md:grid-cols-2" : ""}`}>
+          {featuredArticles.map((article) => (
+            <a
+              href={url(`/articles/${article.id}`)}
+              class="group block bg-white rounded-xl border-2 border-[var(--color-primary)] shadow-sm hover:shadow-md transition-all p-5 focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+            >
+              <h3 class="font-bold text-[var(--color-text)] leading-snug group-hover:text-[var(--color-primary)] transition-colors">
+                {article.data.title}
+              </h3>
+              <p class="text-sm text-[var(--color-text-sub)] mt-2 leading-relaxed">
+                {article.data.description}
+              </p>
+              <div class="flex items-center justify-between mt-4">
+                <time
+                  datetime={(article.data.updatedAt ?? article.data.publishedAt).toISOString()}
+                  class="text-xs text-[var(--color-text-sub)]"
+                >
+                  {(article.data.updatedAt ?? article.data.publishedAt).toLocaleDateString("ja-JP")} 更新
+                </time>
+                <span class="text-sm text-[var(--color-primary)] font-medium">
+                  {getCompareCountLabel(article.data)} →
+                </span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
     <!-- 比較記事 -->
     {comparisonArticles.length > 0 && (
       <section class="mb-12">
-        {reviewArticles.length > 0 && (
-          <h2 class="text-lg font-bold text-[var(--color-text)] mb-5">比較記事</h2>
+        {(reviewArticles.length > 0 || featuredArticles.length > 0) && (
+          <h2 class="text-lg font-bold text-[var(--color-text)] mb-5">
+            {featuredArticles.length > 0 ? "そのほかの比較記事" : "比較記事"}
+          </h2>
         )}
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {comparisonArticles.map((article) => (
