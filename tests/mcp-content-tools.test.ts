@@ -175,7 +175,7 @@ describe('listArticles - articleType', () => {
     const articles = listArticles();
     for (const a of articles) {
       expect(a).toHaveProperty('articleType');
-      expect(['comparison', 'review']).toContain(a.articleType);
+      expect(['comparison', 'review', 'service']).toContain(a.articleType);
     }
   });
 
