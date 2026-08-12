@@ -4,7 +4,7 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-12"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -78,8 +78,8 @@ products:
     price: 803
     capacity: "1000mL"
     pricePerUnit: "約0.80円/mL"
-    rating: 4.89
-    reviewCount: 19
+    rating: 4.85
+    reviewCount: 20
     features:
       - "エアジェット噴射で浴室全体にムラなく広がる"
       - "こすらずに60秒待って流すだけ"
@@ -266,7 +266,7 @@ products:
     capacity: "300g×3個（9回分）"
     pricePerUnit: "約4.6円/g"
     rating: 4.2
-    reviewCount: 665
+    reviewCount: 666
     features:
       - "13年以上の実績を持つ植物由来の風呂釜クリーナー"
       - "一つ穴・二つ穴両対応でほぼすべての風呂釜に使える"

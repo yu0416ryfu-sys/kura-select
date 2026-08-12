@@ -4,51 +4,17 @@ description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚�
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-09"
+updatedAt: "2026-08-12"
 draft: false
 products:
   - rank: 1
-    name: "THE スポットエイド 56枚"
-    brand: "THE SPOTAID（THEスポットエイド）"
-    price: 770
-    capacity: "56枚"
-    pricePerUnit: "約14円/枚"
-    rating: 4.3
-    reviewCount: 810
-    features:
-      - "薬用CICA配合のハイドロコロイドニキビパッチ"
-      - "コメド（黒ニキビ）にも対応した設計"
-      - "武内製薬製造の敏感肌対応処方"
-    pros:
-      - "薬用CICA配合で成分面の訴求が明確"
-      - "56枚入りで継続使用しやすい枚数構成"
-      - "敏感肌を考慮した処方設計で幅広い肌質に対応しやすい"
-    cons:
-      - "CICA成分配合のため、成分に反応しやすい肌の方は注意が必要"
-      - "一般医療機器区分との違いを事前に確認してから選ぶと安心"
-    recommendedFor: "薬用成分配合タイプを試したい方・コメドケアも意識した使用を考えている方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2mpn.3rdw6905.g00s2mpn.3rdw76e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvirginbeautyshop%2Fta-the-sp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvirginbeautyshop%2Fi%2F10005693%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/virginbeautyshop/cabinet/campaign/2608_marathon1/img2/ta-the-sp.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvirginbeautyshop%2Fta-the-sp.html"
-        matchStatus: "review"
-        updatedAt: "2026-06-25"
-        price: 860
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/virginbeautyshop_ta-the-sp"
-        available: false
-        rating: 4.29
-        reviewCount: 418
-        matchNotes: "capacity不一致: 商品名トークン不一致"
-  - rank: 2
     name: "VT PRO CICA クリアスポットパッチ 48枚×3個セット"
     brand: "VT Cosmetics"
     price: 1980
     capacity: "144枚"
     pricePerUnit: "約14円/枚"
     rating: 4.68
-    reviewCount: 1000
+    reviewCount: 1001
     features:
       - "VT PRO CICAシリーズ 48枚入り×3個のまとめ買いセット"
       - "CICA配合ハイドロゲル素材で2サイズ使い分け可能"
@@ -63,7 +29,7 @@ products:
     recommendedFor: "VT PRO CICAを継続使用する予定の方・1枚あたりのコストを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzhmn.3rdw67dd.g00tzhmn.3rdw7f4c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiraclim%2F8809695674327_3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmiraclim%2Fi%2F10001936%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/miraclim/cabinet/cosme/vt/cica_spot_patch/8809695674327_3_.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "VT PRO CICA クリアスポットパッチ 48枚×5個セット"
     brand: "VT Cosmetics"
     price: 3250
@@ -85,6 +51,40 @@ products:
     recommendedFor: "VT PRO CICAシリーズを日常使いとして長期継続する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzhmn.3rdw67dd.g00tzhmn.3rdw7f4c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiraclim%2F8809695674327_5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmiraclim%2Fi%2F10001937%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/miraclim/cabinet/cosme/vt/cica_spot_patch/8809695674327_5.jpg?_ex=128x128"
+  - rank: 3
+    name: "THE スポットエイド 56枚"
+    brand: "THE SPOTAID（THEスポットエイド）"
+    price: 860
+    capacity: "56枚"
+    pricePerUnit: "約15円/枚"
+    rating: 4.3
+    reviewCount: 810
+    features:
+      - "薬用CICA配合のハイドロコロイドニキビパッチ"
+      - "コメド（黒ニキビ）にも対応した設計"
+      - "武内製薬製造の敏感肌対応処方"
+    pros:
+      - "薬用CICA配合で成分面の訴求が明確"
+      - "56枚入りで継続使用しやすい枚数構成"
+      - "敏感肌を考慮した処方設計で幅広い肌質に対応しやすい"
+    cons:
+      - "CICA成分配合のため、成分に反応しやすい肌の方は注意が必要"
+      - "一般医療機器区分との違いを事前に確認してから選ぶと安心"
+    recommendedFor: "薬用成分配合タイプを試したい方・コメドケアも意識した使用を考えている方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2mpn.3rdw6905.g00s2mpn.3rdw76e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvirginbeautyshop%2Fta-the-sp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvirginbeautyshop%2Fi%2F10005693%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/virginbeautyshop/cabinet/04226192/10028549/10028552/ta-the-sp.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fvirginbeautyshop%2Fta-the-sp.html"
+        matchStatus: "review"
+        updatedAt: "2026-06-25"
+        price: 860
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/virginbeautyshop_ta-the-sp"
+        available: false
+        rating: 4.29
+        reviewCount: 418
+        matchNotes: "capacity不一致: 商品名トークン不一致"
   - rank: 4
     name: "VT PRO CICA クリアスポットパッチ 48枚×2個セット"
     brand: "VT Cosmetics"
@@ -235,7 +235,7 @@ products:
     capacity: "48枚"
     pricePerUnit: "約18円/枚"
     rating: 4.51
-    reviewCount: 1478
+    reviewCount: 1482
     features:
       - "硬質ハイドロゲルを使用したスポットパッチ"
       - "2サイズ（10mm・12mm）のパッチが1セットに入った構成"

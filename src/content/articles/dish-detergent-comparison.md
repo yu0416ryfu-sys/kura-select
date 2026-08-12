@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-12"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -165,7 +165,7 @@ products:
     brand: "フロッシュ（Werner & Mertz）"
     price: 1998
     capacity: "1000mL×2本"
-    pricePerUnit: "約1.0円/mL"
+    pricePerUnit: "約1.00円/mL"
     rating: 4.64
     reviewCount: 14
     features:

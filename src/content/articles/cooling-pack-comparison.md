@@ -4,7 +4,7 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-08-09"
+updatedAt: "2026-08-12"
 products:
   - rank: 1
     name: "LOGOS 倍速凍結 氷点下パック"
@@ -12,8 +12,8 @@ products:
     price: 770
     capacity: "1個"
     pricePerUnit: "約770円/個"
-    rating: 4.67
-    reviewCount: 197
+    rating: 4.68
+    reviewCount: 208
     features:
       - "繰り返し使える保冷剤タイプ"
       - "保冷バッグやクーラーボックスに入れやすい形状"
@@ -27,7 +27,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uv40n.3rdw6f46.g00uv40n.3rdw750c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogosshop%2Flgs94499%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogosshop%2Fi%2F10000621%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/logosshop/cabinet/spr/4/492823152846_3.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/logosshop/cabinet/spr/4/492823152846.jpg?_ex=128x128"
   - rank: 2
     name: "COOLER SHOCK ハードロング"
     brand: "COOLER SHOCK"
@@ -100,8 +100,8 @@ products:
     price: 2980
     capacity: "1個"
     pricePerUnit: "約2980円/個"
-    rating: 4.52
-    reviewCount: 29
+    rating: 4.48
+    reviewCount: 33
     features:
       - "ステンレス製で耐久性が高く長期間の繰り返し使用に向いている"
       - "冷蔵・冷凍どちらにも対応し用途に応じて使い分けが可能"
@@ -188,8 +188,8 @@ products:
     price: 1100
     capacity: "570g×2個"
     pricePerUnit: "約0.96円/g"
-    rating: 4.35
-    reviewCount: 46
+    rating: 4.36
+    reviewCount: 47
     features:
       - "日本製ハードタイプで13.8×19.4cm・570g/個のスタンダードサイズ"
       - "2個組でクーラーボックスの両サイドに配置するなど効率よく使える"
@@ -211,7 +211,7 @@ products:
     capacity: "Mサイズ 1個"
     pricePerUnit: "約2.2円/g"
     rating: 4.34
-    reviewCount: 143
+    reviewCount: 145
     features:
       - "ハードタイプで溶けてもかさばらず繰り返し使いやすい設計"
       - "M（540g）・L（830g）・XL（1.1kg）の3サイズから用途に応じて選べる"

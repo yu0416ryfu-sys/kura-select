@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-08"
+updatedAt: "2026-08-12"
 draft: false
 products:
   - rank: 1
@@ -47,7 +47,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約25円/本"
     rating: 4.64
-    reviewCount: 1062
+    reviewCount: 1070
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"
@@ -157,7 +157,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約64円/本"
     rating: 4.65
-    reviewCount: 1221
+    reviewCount: 1222
     features:
       - "10年長期保存対応のパナソニック製アルカリ電池"
       - "1パック4本×5パック構成で使いやすい量を分割して管理できる"
@@ -219,9 +219,9 @@ products:
   - rank: 8
     name: "エネボルト 充電池 単3 単4 セット 16本 ケース付 充電 電池 充電電池 充電"
     brand: "楽天市場"
-    price: 2830
+    price: 2980
     capacity: "16本"
-    pricePerUnit: "約177円/本"
+    pricePerUnit: "約186円/本"
     rating: 4.46
     reviewCount: 668
     features:

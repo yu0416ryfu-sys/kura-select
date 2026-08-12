@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-08-08"
+updatedAt: "2026-08-12"
 draft: false
 products:
   - rank: 1
@@ -108,28 +108,6 @@ products:
         matchStatus: "pending"
         updatedAt: "2026-05-19"
   - rank: 4
-    name: "パッと貼るだけホコリとりフィルター エアコン用 10個セット"
-    brand: "東洋アルミ"
-    price: 5019
-    capacity: "10枚"
-    pricePerUnit: "約502円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "粘着式で工具不要、38×80cmの家庭用標準サイズ"
-      - "防カビ・抗菌・消臭・花粉対策の高機能仕様"
-      - "10枚の大容量セットで長期間の交換ストックが確保できる"
-    pros:
-      - "10枚セットでまとめ買いによりストック切れを防げる"
-      - "防カビ・花粉対策を兼ねた機能性フィルター"
-      - "東洋アルミの品質で信頼性が高い"
-    cons:
-      - "大容量のため保管スペースが必要"
-      - "機能がシンプルな分、特化した付加機能は少ない"
-    recommendedFor: "長期ストックでコスパを重視したい方・まとめ買いで補充の手間を減らしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t9gln.3rdw61c2.g00t9gln.3rdw7522/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffirst34%2Fkaj-250805g0030510%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffirst34%2Fi%2F25127395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/first34/cabinet/image_sku/26032012_set_10/1890.jpg?_ex=128x128"
-  - rank: 5
     name: "ペタッとキャッチ エアコンフィルター"
     brand: "新北九州工業"
     price: 548
@@ -162,6 +140,28 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+  - rank: 5
+    name: "パッと貼るだけホコリとりフィルター エアコン用 10個セット"
+    brand: "東洋アルミ"
+    price: 5580
+    capacity: "10枚"
+    pricePerUnit: "約558円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "粘着式で工具不要、38×80cmの家庭用標準サイズ"
+      - "防カビ・抗菌・消臭・花粉対策の高機能仕様"
+      - "10枚の大容量セットで長期間の交換ストックが確保できる"
+    pros:
+      - "10枚セットでまとめ買いによりストック切れを防げる"
+      - "防カビ・花粉対策を兼ねた機能性フィルター"
+      - "東洋アルミの品質で信頼性が高い"
+    cons:
+      - "大容量のため保管スペースが必要"
+      - "機能がシンプルな分、特化した付加機能は少ない"
+    recommendedFor: "長期ストックでコスパを重視したい方・まとめ買いで補充の手間を減らしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t9gln.3rdw61c2.g00t9gln.3rdw7522/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffirst34%2Fkaj-250805g0030510%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffirst34%2Fi%2F25127395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/first34/cabinet/image_sku/26032012_set_10/1890.jpg?_ex=128x128"
   - rank: 6
     name: "エアコン内部フィルター ペタらく"
     brand: "ペタらく"
@@ -212,8 +212,8 @@ products:
     price: 1590
     capacity: "2枚"
     pricePerUnit: "約795円/枚"
-    rating: 4.39
-    reviewCount: 500
+    rating: 4.4
+    reviewCount: 501
     features:
       - "バイオ酵素配合でカビの発生を抑制する設計"
       - "粘着シール付きでフレームなしで装着可能"

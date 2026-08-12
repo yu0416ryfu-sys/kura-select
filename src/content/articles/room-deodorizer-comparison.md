@@ -4,7 +4,7 @@ description: "消臭剤のおすすめ8選をコスパで徹底比較。リセ�
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-09"
+updatedAt: "2026-08-12"
 products:
   - rank: 1
     name: "ハルの消臭剤 消臭ビーズ 詰替用"
@@ -13,7 +13,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1265円/kg"
     rating: 4.79
-    reviewCount: 2998
+    reviewCount: 3001
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -101,8 +101,8 @@ products:
     price: 1155
     capacity: "600g"
     pricePerUnit: "約1.9円/g"
-    rating: 4.51
-    reviewCount: 402
+    rating: 4.52
+    reviewCount: 403
     features:
       - "植物由来ミネラル成分を使った無臭・無香料タイプ"
       - "置き型で玄関やクローゼットなど幅広い場所に使える"
@@ -205,8 +205,8 @@ products:
     price: 3297
     capacity: "1280ml×2セット（2,560ml）"
     pricePerUnit: "約1.3円/ml"
-    rating: 4.7
-    reviewCount: 10
+    rating: 4.64
+    reviewCount: 11
     features:
       - "48時間爽やか続く消臭効果"
       - "W除菌+消臭で衣類・布製品にスプレーするだけ"

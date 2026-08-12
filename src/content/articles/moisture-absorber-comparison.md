@@ -4,7 +4,7 @@ description: "除湿剤おすすめ9選を吸湿量1mLあたりの単価で徹�
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-08"
+updatedAt: "2026-08-12"
 products:
   - rank: 1
     name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
@@ -13,7 +13,7 @@ products:
     capacity: "550mL×45個（24,750mL分）"
     pricePerUnit: "約0.17円/mL"
     rating: 4.82
-    reviewCount: 256
+    reviewCount: 257
     features:
       - "国内定番の大容量タンクタイプ除湿剤"
       - "強力脱臭・防臭・防カビ効果"
@@ -141,7 +141,7 @@ products:
   - rank: 7
     name: "水とりぞうさん 550ml×12個入り"
     brand: "オカモト（水とりぞうさん）"
-    price: 2495
+    price: 2496
     capacity: "550mL×12個（6,600mL分）"
     pricePerUnit: "約0.38円/mL"
     rating: 4.51

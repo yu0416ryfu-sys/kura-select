@@ -4,7 +4,7 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-08-08"
+updatedAt: "2026-08-12"
 draft: false
 products:
   - rank: 1
@@ -68,8 +68,8 @@ products:
     price: 3618
     capacity: "30袋×10個（300袋）"
     pricePerUnit: "約12円/袋"
-    rating: 4.36
-    reviewCount: 11
+    rating: 4.42
+    reviewCount: 12
     features:
       - "ノンカフェイン・0kcal設計"
       - "ミネラル配合の健康訴求タイプ"
@@ -83,7 +83,7 @@ products:
       - "単価比較時は購入セット数に注意"
     recommendedFor: "日常的な水分補給に大容量を備蓄したい家庭向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pifhn.3rdw6a3e.g00pifhn.3rdw7cc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakae%2F4901085196885%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakae%2Fi%2F10027585%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakae/cabinet/1/4901085196885.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakae/cabinet/img004/4901085196885.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

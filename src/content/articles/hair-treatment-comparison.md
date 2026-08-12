@@ -4,7 +4,7 @@ description: "コスパいいヘアトリートメントを1g・1mLあたりで�
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-08-09"
+updatedAt: "2026-08-12"
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -115,15 +115,15 @@ products:
       - "180gとやや少なめの容量"
     recommendedFor: "成分・無添加にこだわりたい方・植物由来のナチュラルヘアケアを求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b07gkxh2ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000959%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/905b07gkxh2ss-30.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/ctr/905b07gkxh2ss.jpg?_ex=128x128"
   - rank: 5
     name: "クイーンズバスルーム システムトリートメント Step1 Step2 各240g×2"
     brand: "クイーンズバスルーム"
     price: 6600
     capacity: "240g×2"
     pricePerUnit: "約14円/g"
-    rating: 4.69
-    reviewCount: 629
+    rating: 4.7
+    reviewCount: 631
     features:
       - "Step1とStep2の2剤式で段階的にダメージを補修するシステムトリートメント"
       - "ケラチン・濃厚補修成分配合でハイダメージ・ブリーチ毛にアプローチ"
@@ -167,7 +167,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約22円/mL"
     rating: 4.73
-    reviewCount: 1237
+    reviewCount: 1242
     features:
       - "くせ毛ケアのディシプリンラインのコンディショナータイプ"
       - "髪の広がりを抑えまとまりのある艶やかな仕上がりをもたらす処方"
@@ -181,7 +181,7 @@ products:
       - "サロン品質のため価格が高く、コスパを優先する方には不向き"
     recommendedFor: "日常的にくせ毛・広がりをケアしたい方・毎日コンディショナーを使う習慣がある方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fdp-fondor_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000134%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/dp-fondor_200/dp-fondor_200_01.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/dp-fondor_200/3.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -200,7 +200,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約35円/mL"
     rating: 4.76
-    reviewCount: 1593
+    reviewCount: 1596
     features:
       - "くせ毛ケア特化のディシプリンライン集中トリートメントマスク"
       - "湿気・広がり・アホ毛をまとめるポリマー・シーディ成分配合"
@@ -214,7 +214,7 @@ products:
       - "サロン品質のため価格帯が高く、コスパを重視する方には不向き"
     recommendedFor: "くせ毛・広がりが悩みの方・湿気に負けないまとまり髪を目指す方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fdp-masqor_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/itempage/dp-masqor_200/new_251121.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/dp-masqor_200/2.jpg?_ex=128x128"
   - rank: 9
     name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
     brand: "ファイントゥデイ（フィーノ）"
@@ -244,7 +244,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "0円/mL"
     rating: 4.78
-    reviewCount: 1234
+    reviewCount: 1243
     features:
       - "年齢による髪悩みに対応するインバスヘアマスク"
       - "潤い・まとまりを重視した処方"
