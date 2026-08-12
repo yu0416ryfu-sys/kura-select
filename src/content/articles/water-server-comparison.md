@@ -13,6 +13,7 @@ services:
   - rank: 1
     name: "しずくりあ Skitto（スキット）"
     brand: "TOKAI（しずくりあ）"
+    imageUrl: "/images/services/shizuclear-skitto.webp"
     monthlyCost: 3140
     pricePerLiter: "約31円/L"
     waterType: "purifier"
@@ -38,6 +39,7 @@ services:
   - rank: 2
     name: "エブリィフレシャス lite（ライト）"
     brand: "エブリィフレシャス"
+    imageUrl: "/images/services/every-frecious-lite.webp"
     monthlyCost: 3373
     pricePerLiter: "約34円/L"
     waterType: "purifier"
@@ -63,6 +65,7 @@ services:
   - rank: 3
     name: "しずくりあ Pitto mini（ピットミニ）"
     brand: "TOKAI（しずくりあ）"
+    imageUrl: "/images/services/shizuclear-pitto-mini.webp"
     monthlyCost: 3415
     pricePerLiter: "約34円/L"
     waterType: "purifier"
@@ -88,6 +91,7 @@ services:
   - rank: 4
     name: "エブリィフレシャス tall（トール）"
     brand: "エブリィフレシャス"
+    imageUrl: "/images/services/every-frecious-tall.webp"
     monthlyCost: 3701
     pricePerLiter: "約37円/L"
     waterType: "purifier"

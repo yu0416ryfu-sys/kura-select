@@ -5,6 +5,7 @@
 // frontmatter の features / pros / cons / recommendedFor はここでしか描画しない。
 import ServiceLink from "./ServiceLink.astro";
 import type { Asp } from "./ServiceLink.astro";
+import { url } from "../../lib/site";
 
 interface Service {
   rank: number;
@@ -21,6 +22,7 @@ interface Service {
   recommendedFor: string;
   affiliateUrl: string;
   asp: Asp;
+  imageUrl?: string;
 }
 
 interface Props {
@@ -56,26 +58,39 @@ const cancellationLabel = service.cancellationFee > 0 ? yen(service.cancellation
     </div>
   </div>
 
-  <!-- 主要数値 -->
-  <div class="px-5 py-4 border-b border-[var(--color-border)]">
-    <div class="flex items-baseline gap-2">
-      <span class="text-2xl font-bold text-[var(--color-primary)]">{service.pricePerLiter}</span>
-      {basisNote && <span class="text-xs text-[var(--color-text-sub)]">{basisNote}</span>}
+  <!-- サムネイル + 主要数値 -->
+  <div class="px-5 py-4 border-b border-[var(--color-border)] flex gap-4 items-center">
+    {service.imageUrl && (
+      <img
+        src={url(service.imageUrl)}
+        alt={`${service.name}の外観`}
+        width="112"
+        height="112"
+        loading="lazy"
+        decoding="async"
+        class="w-28 h-28 shrink-0 object-contain"
+      />
+    )}
+    <div class="min-w-0 flex-1">
+      <div class="flex flex-wrap items-baseline gap-x-2">
+        <span class="text-2xl font-bold text-[var(--color-primary)]">{service.pricePerLiter}</span>
+        {basisNote && <span class="text-xs text-[var(--color-text-sub)]">{basisNote}</span>}
+      </div>
+      <dl class="grid grid-cols-3 gap-2 mt-3 text-sm">
+        <div>
+          <dt class="text-xs text-[var(--color-text-sub)]">月額目安</dt>
+          <dd class="font-semibold">{yen(service.monthlyCost)}</dd>
+        </div>
+        <div>
+          <dt class="text-xs text-[var(--color-text-sub)]">契約期間</dt>
+          <dd class="font-semibold">{contractLabel}</dd>
+        </div>
+        <div>
+          <dt class="text-xs text-[var(--color-text-sub)]">解約金</dt>
+          <dd class="font-semibold">{cancellationLabel}</dd>
+        </div>
+      </dl>
     </div>
-    <dl class="grid grid-cols-3 gap-2 mt-3 text-sm">
-      <div>
-        <dt class="text-xs text-[var(--color-text-sub)]">月額目安</dt>
-        <dd class="font-semibold">{yen(service.monthlyCost)}</dd>
-      </div>
-      <div>
-        <dt class="text-xs text-[var(--color-text-sub)]">契約期間</dt>
-        <dd class="font-semibold">{contractLabel}</dd>
-      </div>
-      <div>
-        <dt class="text-xs text-[var(--color-text-sub)]">解約金</dt>
-        <dd class="font-semibold">{cancellationLabel}</dd>
-      </div>
-    </dl>
   </div>
 
   <!-- 長所・短所 -->
