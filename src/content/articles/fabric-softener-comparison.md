@@ -1,12 +1,34 @@
 ---
-title: "柔軟剤 コスパ最強ランキング【2026年版】おすすめ7選｜大容量・部屋干し比較"
-description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香り・敏感肌向けの人気7選をコスパ最強ランキングで紹介。部屋干し臭が気になる方・赤ちゃんのいる家庭にもおすすめです。"
+title: "柔軟剤 コスパ最強ランキング【2026年版】おすすめ10選｜大容量・部屋干し比較"
+description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香り・敏感肌向けの人気10選をコスパ最強ランキングで紹介。部屋干し臭が気になる方・赤ちゃんのいる家庭にもおすすめです。"
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-13"
 products:
   - rank: 1
+    name: "ハミング 素肌おもい 柔軟剤 つめかえ用 メガサイズ"
+    brand: "花王（ハミング）"
+    price: 1113
+    capacity: "2000mL"
+    pricePerUnit: "約0.56円/mL"
+    rating: 4.96
+    reviewCount: 25
+    features:
+      - "肌へのやさしさを重視した素肌おもいシリーズの詰め替えパウチ"
+      - "香りの強さを抑えたタイプで、無香料の選択肢もある"
+      - "ドラッグストアでも流通する国内定番の家庭用サイズ"
+    pros:
+      - "詰め替えパウチのみで買えるため保管スペースを取りにくい"
+      - "香り控えめで、部屋干し後の衣類や寝具にも使いやすい"
+      - "国内定番ブランドで買い足しを続けやすい"
+    cons:
+      - "香りの持続を重視する方には物足りなく感じられる場合がある"
+      - "詰め替え専用のため、初回は別途ボトルが必要"
+    recommendedFor: "香りを抑えたい方・肌あたりのやさしさを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301423443%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10019551%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/sku/4901301423443-sku.jpg?_ex=128x128"
+  - rank: 2
     name: "ライオン ソフラン アロマリッチ 業務用 4L"
     brand: "ライオン（ソフラン）"
     price: 2313
@@ -39,7 +61,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_r6-06046"
         available: true
-  - rank: 2
+  - rank: 3
     name: "ダウニー サンライズフレッシュ 4L×3本セット"
     brand: "Downy"
     price: 6980
@@ -72,7 +94,29 @@ products:
         available: true
         rating: 4.73
         reviewCount: 232
-  - rank: 3
+  - rank: 4
+    name: "ソフラン アロマリッチ 柔軟剤 詰替用 1300mL×6個"
+    brand: "ライオン（ソフラン）"
+    price: 5830
+    capacity: "1300mL×6個（7800mL）"
+    pricePerUnit: "約0.75円/mL"
+    rating: 4.77
+    reviewCount: 307
+    features:
+      - "家庭用の詰め替えパウチをケース単位でまとめた構成"
+      - "アロマオイル配合で香りの立ち上がりを設計したシリーズ"
+      - "香りのバリエーションから1種類を選んで購入できる"
+    pros:
+      - "業務用ボトルより保管しやすく、まとめ買いの単価も抑えやすい"
+      - "使い慣れた国内定番の香りをそのまま継続できる"
+      - "詰め替え頻度を減らしたい家庭に向く"
+    cons:
+      - "6個単位のため、香りが好みに合わなかったときの在庫が残る"
+      - "まとまった保管スペースが必要"
+    recommendedFor: "定番ブランドをまとめ買いして単価を下げたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405203%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11234252%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/203/405203.jpg?_ex=128x128"
+  - rank: 5
     name: "メキシコダウニー アロマフローラル 8.5L"
     brand: "Downy"
     price: 7390
@@ -105,7 +149,73 @@ products:
         reviewCount: 60
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_9110715"
         available: true
-  - rank: 4
+  - rank: 6
+    name: "さらさ 柔軟剤 詰め替え 超ジャンボ"
+    brand: "P&G（さらさ）"
+    price: 1280
+    capacity: "1350mL"
+    pricePerUnit: "約0.95円/mL"
+    rating: 4.53
+    reviewCount: 17
+    features:
+      - "植物由来成分を使い、着色料を配合しない処方"
+      - "ピュアソープの香りで香り立ちを控えめにまとめている"
+      - "家庭用の詰め替えサイズとして流通量が多い"
+    pros:
+      - "赤ちゃんや肌の弱い家族の衣類にも取り入れやすい"
+      - "香りが穏やかで、洗剤の香りとぶつかりにくい"
+      - "スーパーやドラッグストアでも見かけるため銘柄を切り替えやすい"
+    cons:
+      - "しっかりした香り立ちを求める方には向かない"
+      - "詰め替え専用のため、初回は別途ボトルが必要"
+    recommendedFor: "赤ちゃんのいる家庭・無添加志向で選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987176184580%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10115690%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202408_5/4987176184580.jpg?_ex=128x128"
+  - rank: 7
+    name: "ファーファ フリーアンド 濃縮柔軟剤 無香料 エコパック"
+    brand: "NSファーファ"
+    price: 1428
+    capacity: "1500mL"
+    pricePerUnit: "約0.95円/mL"
+    rating: 4.85
+    reviewCount: 91
+    features:
+      - "香料・着色料・抗菌剤・シリコンを配合しない無添加設計"
+      - "香りを付けない無香料タイプの濃縮柔軟剤"
+      - "エコパックの詰め替え形態で継続購入しやすい"
+    pros:
+      - "香りが苦手な方や、香りを残したくない衣類に使いやすい"
+      - "赤ちゃんの衣類やペットまわりの布製品にも選ばれやすい"
+      - "濃縮タイプのため1回あたりの使用量を抑えやすい"
+    cons:
+      - "香りを楽しみたい方の目的には合わない"
+      - "無香料ゆえに使用感の変化が分かりにくい"
+    recommendedFor: "無香料・無添加を優先したい方・香りが苦手な方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2F870283%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10001848%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/06059944/4902135322537_24.jpg?_ex=128x128"
+  - rank: 8
+    name: "ファーファ ファインフレグランス ボーテ 柔軟剤 詰め替え"
+    brand: "NSファーファ"
+    price: 638
+    capacity: "500mL"
+    pricePerUnit: "約1.3円/mL"
+    rating: 4.69
+    reviewCount: 413
+    features:
+      - "香水調に調香されたファインフレグランスシリーズ"
+      - "静電気や吸水性に配慮した仕上がり設計"
+      - "小容量パウチで香りを試しやすい"
+    pros:
+      - "香りの好みを確かめてから大容量に移行しやすい"
+      - "衣類にしっかり香りを残したい用途に向く"
+      - "レビュー数が多く、香りの評価を参考にしやすい"
+    cons:
+      - "小容量のため容量あたりの単価は高くなりやすい"
+      - "香りが強めのため、無香料を好む方には向かない"
+    recommendedFor: "香りを重視する方・少量から試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2F10001160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10001160%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/9fa-fa/fafasoftner/finefragrance/imgrc0102568817.jpg?_ex=128x128"
+  - rank: 9
     name: "ランドリン 柔軟剤 グッドティータイム"
     brand: "ランドリン（Laundrin）"
     price: 877
@@ -127,12 +237,12 @@ products:
     recommendedFor: "香りを楽しめる柔軟剤を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2Flaundrin-teatime%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10006940%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08869620/imgrc0118802483.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 10
     name: "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え"
     brand: "P&G（レノア）"
-    price: 3007
-    capacity: "1260mL"
-    pricePerUnit: "約2.4円/mL"
+    price: 2464
+    capacity: "1390mL"
+    pricePerUnit: "約1.8円/mL"
     rating: 4.4
     reviewCount: 980
     features:
@@ -147,8 +257,8 @@ products:
       - "香りが強いと感じる場合がある"
       - "敏感肌には刺激を感じることも"
     recommendedFor: "消臭重視の方・部屋干しが多い方・コスパ派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00up3bn.3rdw60f2.g00up3bn.3rdw7ff6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyksakai%2Frm5gaghcckomnptjv3ixcugo64%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyksakai%2Fi%2F10519752%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yksakai/cabinet/12902079/39758845_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvu9n.3rdw6271.g00tvu9n.3rdw72b2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanamaruryohin%2F20260704183150_240%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanamaruryohin%2Fi%2F10064819%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanamaruryohin/cabinet/r_2026070449/20260704183150_240_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -160,61 +270,6 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 6
-    name: "マイランドリー 柔軟剤 500mL 5本セット"
-    brand: "My Laundry"
-    price: 3680
-    capacity: "500mL"
-    pricePerUnit: "約7.4円/mL"
-    rating: 4.73
-    reviewCount: 960
-    features:
-      - "洗濯時に使う柔軟仕上げ剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "香りや仕上がりの好みに合わせやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "香りの強さは好みが分かれやすい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "香りや仕上がりの好みに合わせやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvwtn.3rdw692d.g00qvwtn.3rdw71dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsapri-bk%2Fmylaundry-5setb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsapri-bk%2Fi%2F10009814%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sapri-bk/cabinet/zakka/imgrc0076777801.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4540936002359.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-13"
-        price: 749
-        rating: 4.47
-        reviewCount: 17
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4540936002359"
-        available: true
-  - rank: 7
-    name: "ダウニー コンフォート お試し柔軟剤 4袋セット"
-    brand: "Downy"
-    price: 473
-    capacity: "4袋"
-    pricePerUnit: "約118円/袋"
-    rating: 4.57
-    reviewCount: 1294
-    features:
-      - "洗濯時に使う柔軟仕上げ剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "香りや仕上がりの好みに合わせやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "香りの強さは好みが分かれやすい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "香りや仕上がりの好みに合わせやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqlnn.3rdw6746.g00qqlnn.3rdw79d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatina-shop%2F10000457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatina-shop%2Fi%2F10000457%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platina-shop/cabinet/01370227/imgrc0077946738.jpg?_ex=128x128"
 tags:
   - "柔軟剤"
   - "コスパ"
