@@ -4,7 +4,7 @@ description: "コーヒーフィルターを1枚あたりのコストで徹底�
 category: "coffee-filter"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-01"
+updatedAt: "2026-08-13"
 draft: false
 products:
   - rank: 1
@@ -201,7 +201,7 @@ products:
     capacity: "60枚（2-4杯用）"
     pricePerUnit: "約13円/枚"
     rating: 4.95
-    reviewCount: 19
+    reviewCount: 20
     features:
       - "綿素材使用のコットンフィルター・ネルドリップに近い淹れ心地を実現"
       - "日本製・珈琲考具ドリッパー対応設計"

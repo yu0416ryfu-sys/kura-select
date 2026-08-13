@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-13"
 draft: false
 products:
   - rank: 1
@@ -89,7 +89,7 @@ products:
     capacity: "1本"
     pricePerUnit: "約2680円/本"
     rating: 4.57
-    reviewCount: 1322
+    reviewCount: 1323
     features:
       - "本体タイプのボールペンで日常の筆記に使いやすい"
       - "まとめ買いやギフト用途でも選びやすい"

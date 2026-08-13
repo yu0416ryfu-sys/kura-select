@@ -4,7 +4,7 @@ description: "デンタルフロスを1回あたりのコストで比較した�
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-13"
 products:
   - rank: 1
     name: "GUM デンタルフロス 550m"
@@ -214,8 +214,8 @@ products:
     price: 3210
     capacity: "250m"
     pricePerUnit: "約13円/m"
-    rating: 4.77
-    reviewCount: 566
+    rating: 4.76
+    reviewCount: 567
     features:
       - "384本の細い繊維を束ねた高密度フロス設計"
       - "詰め替え用でホルダーを再利用できるエコ設計"

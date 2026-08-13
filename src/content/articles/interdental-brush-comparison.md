@@ -4,7 +4,7 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-13"
 draft: false
 products:
   - rank: 1
@@ -164,11 +164,11 @@ products:
   - rank: 6
     name: "オーラルケア フロアフロス 250m"
     brand: "オーラルケア"
-    price: 3068
+    price: 3060
     capacity: "250m"
     pricePerUnit: "約12円/m"
     rating: 4.69
-    reviewCount: 511
+    reviewCount: 512
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -200,8 +200,8 @@ products:
     price: 3210
     capacity: "250m"
     pricePerUnit: "約13円/m"
-    rating: 4.77
-    reviewCount: 566
+    rating: 4.76
+    reviewCount: 567
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -267,7 +267,7 @@ products:
     capacity: "2m×6個"
     pricePerUnit: "約192円/m"
     rating: 4.68
-    reviewCount: 467
+    reviewCount: 468
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

@@ -4,7 +4,7 @@ description: "紙おむつを新生児用、Sサイズ、Mサイズ、BIG以上�
 category: "diaper"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-13"
 products:
   - rank: 1
     name: "グーンプラス 敏感肌にやわらかタッチ テープ 4個セット"
@@ -46,7 +46,7 @@ products:
     capacity: "4個"
     pricePerUnit: "約1790円/個"
     rating: 4.75
-    reviewCount: 499
+    reviewCount: 501
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"
@@ -134,7 +134,7 @@ products:
     capacity: "4個"
     pricePerUnit: "約2289円/個"
     rating: 4.68
-    reviewCount: 3928
+    reviewCount: 3930
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"

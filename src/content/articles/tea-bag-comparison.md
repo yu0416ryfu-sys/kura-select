@@ -4,7 +4,7 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-13"
 draft: false
 products:
   - rank: 1
@@ -28,7 +28,7 @@ products:
       - "1袋あたりの容量がやや少なめ"
     recommendedFor: "香ばしい風味の麦茶を日常的に飲みたいコスパ重視の人向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q6srn.3rdw6528.g00q6srn.3rdw7513/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimu%2F891462%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimu%2Fi%2F10000182%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimu/cabinet/ikou_20091126/img10062586318.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimu/cabinet/shokuhin/innryou/811483.jpg?_ex=128x128"
   - rank: 2
     name: "香り薫るむぎ茶 ティーバッグ"
     brand: "伊藤園"
@@ -102,7 +102,7 @@ products:
     capacity: "18袋×5個（90袋）"
     pricePerUnit: "約20円/袋"
     rating: 4.81
-    reviewCount: 52
+    reviewCount: 53
     features:
       - "国産六条大麦100%使用"
       - "ノンカフェイン・水出し対応"

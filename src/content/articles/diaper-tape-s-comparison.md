@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつ9製品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-13"
 products:
   - rank: 1
     name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚 旧パッケージ"
@@ -67,8 +67,8 @@ products:
     price: 6688
     capacity: "70枚×4パック"
     pricePerUnit: "約24円/枚"
-    rating: 4.55
-    reviewCount: 51
+    rating: 4.56
+    reviewCount: 52
     features:
       - "マシュマロのようなやさしい肌触り"
       - "モレ安心設計でテープタイプの安心感"
@@ -134,7 +134,7 @@ products:
     capacity: "54枚×4個セット"
     pricePerUnit: "約33円/枚"
     rating: 4.75
-    reviewCount: 499
+    reviewCount: 501
     features:
       - "低刺激処方で敏感肌向けに配慮"
       - "安心設計のテープタイプ"
@@ -233,7 +233,7 @@ products:
     capacity: "84枚/4パック"
     pricePerUnit: "約109円/枚"
     rating: 4.68
-    reviewCount: 3928
+    reviewCount: 3930
     features:
       - "全面通気性に優れたエアスルー素材採用"
       - "360度フィットで漏れを防止"

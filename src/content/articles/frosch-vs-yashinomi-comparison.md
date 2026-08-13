@@ -3,7 +3,7 @@ title: "フロッシュとヤシノミ洗剤を徹底比較【2026年版】コ�
 description: "フロッシュとヤシノミ洗剤（サラヤ）の違いを1mLあたりの単価・手肌へのやさしさ・食材洗浄対応・環境配慮の4軸で徹底比較。どっちを選ぶべきか、用途別の使い分けまで解説します。価格は毎週自動更新。"
 category: "dish-detergent"
 publishedAt: "2026-07-08"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-13"
 articleType: "comparison"
 products:
   - rank: 1
@@ -13,7 +13,7 @@ products:
     capacity: "1000mL"
     pricePerUnit: "約0.56円/mL"
     rating: 5
-    reviewCount: 4
+    reviewCount: 5
     features:
       - "ヤシの実由来の植物系洗浄成分を使用"
       - "無香料・無着色で香りが残りにくい処方"

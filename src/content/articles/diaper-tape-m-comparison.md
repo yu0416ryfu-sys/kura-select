@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつ9商品を1枚あたりの価
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-13"
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ"
@@ -211,7 +211,7 @@ products:
     capacity: "4個セット"
     pricePerUnit: "約1790円/個"
     rating: 4.75
-    reviewCount: 499
+    reviewCount: 501
     features:
       - "低刺激設計で敏感肌に配慮"
       - "やさしさを重視した素材選択"

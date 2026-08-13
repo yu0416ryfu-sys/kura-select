@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-09"
+updatedAt: "2026-08-13"
 products:
   - rank: 1
     name: "ニッカルフレッシュ 鮮度保持袋"
@@ -185,7 +185,7 @@ products:
   - rank: 7
     name: "ジップロック ストックバッグ L 16枚"
     brand: "旭化成（ジップロック）"
-    price: 1204
+    price: 1203
     capacity: "16枚"
     pricePerUnit: "約75円/枚"
     rating: 4.4

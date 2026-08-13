@@ -4,7 +4,7 @@ description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹
 category: "contact-lens"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-13"
 products:
   - rank: 1
     name: "ポイント10倍！オプティフリープラス"
@@ -255,7 +255,7 @@ products:
     capacity: "300mL×6本"
     pricePerUnit: "約2.6円/mL"
     rating: 4.7
-    reviewCount: 603
+    reviewCount: 604
     features:
       - "コンセプトワンステップのトリプルパック構成"
       - "ソフトコンタクトレンズ向けの洗浄・保存・消毒ケア"
