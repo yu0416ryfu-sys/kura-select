@@ -5,8 +5,10 @@ import SearchBox from "../components/search/SearchBox.astro";
 import { getCollection } from "astro:content";
 import { SITE, url } from "../lib/site";
 import { popularArticleIds } from "../data/popularArticles";
+import { pickFeaturedCategories } from "../lib/featured-categories";
 import type { CollectionEntry } from "astro:content";
 
+// 記事名の表示に使う ID→名称の対応は全82カテゴリぶん必要なので、こちらは絞らない。
 const categories = (await getCollection("categories")).sort(
   (a, b) => a.data.order - b.data.order
 );
@@ -18,6 +20,10 @@ const categoryNameById = new Map(categories.map((cat) => [cat.id, cat.data.name]
 
 const allArticles = (await getCollection("articles")).filter((a) => !a.data.draft);
 const articleById = new Map(allArticles.map((article) => [article.id, article]));
+
+// タイルに出すのは記事数の多い上位18件だけ。記事1本のカテゴリ（67件）は noindex 済みで、
+// タイルを残すと審査時に人間だけがその薄いページへ到達してしまう。Header と同じ選定を使う。
+const featuredCategories = pickFeaturedCategories(categories, allArticles);
 
 const popularArticles = popularArticleIds
   .map((id) => articleById.get(id))
@@ -103,7 +109,7 @@ const articles = allArticles
     <Container>
       <h2 class="text-2xl font-bold text-[var(--color-text)] mb-8">人気カテゴリ</h2>
       <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-        {categories.map((cat) => (
+        {featuredCategories.map((cat) => (
           <a
             href={url(`/category/${cat.data.slug}`)}
             class="group bg-white rounded-xl p-5 border border-[var(--color-border)] shadow-sm hover:shadow-md hover:border-[var(--color-primary)] transition-all text-center focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"

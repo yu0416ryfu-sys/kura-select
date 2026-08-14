@@ -2,11 +2,12 @@
 import { getCollection } from "astro:content";
 import Container from "./Container.astro";
 import { SITE, url } from "../../lib/site";
+import { pickFeaturedCategories } from "../../lib/featured-categories";
 
+// 記事数の多い順に上位18件。選定ロジックはトップページのタイルと共有する。
 const allCategories = await getCollection("categories");
-const topCategories = allCategories
-  .sort((a, b) => a.data.order - b.data.order)
-  .slice(0, 18);
+const allArticles = await getCollection("articles");
+const topCategories = pickFeaturedCategories(allCategories, allArticles);
 
 const navItems = [
   { label: "ホーム", href: url("/") },
