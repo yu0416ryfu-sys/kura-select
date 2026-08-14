@@ -34,12 +34,19 @@ export async function getStaticPaths() {
 
 const { category, articles, featuredArticles, comparisonArticles, reviewArticles } = Astro.props;
 const { data } = category;
+
+// 記事1本以下のカテゴリは実質「見出し + カード1枚」で、インデックスさせる価値がない。
+// noindex にするが nofollow は付けない（記事へのクロール経路を残すため）。
+// sitemap 側の除外は scripts/lib/thin-categories.mjs が同じ基準で判定しており、
+// 両者のドリフトは tests/thin-categories.test.ts で検知する。
+const isThinCategory = articles.length <= 1;
 ---
 
 <BaseLayout
   title={`${data.name}のコスパ比較 | 暮らセレクト`}
   description={data.description}
-  noindex={articles.length === 0}
+  noindex={isThinCategory}
+  nofollow={false}
 >
   <Container class="py-10 md:py-14">
     <!-- ヘッダー -->

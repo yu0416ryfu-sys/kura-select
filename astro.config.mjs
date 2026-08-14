@@ -6,6 +6,7 @@ import mdx from "@astrojs/mdx";
 import tailwindcss from "@tailwindcss/vite";
 import fs from "node:fs";
 import path from "node:path";
+import { getThinCategorySlugs, isThinCategoryUrl } from "./scripts/lib/thin-categories.mjs";
 
 // 記事 frontmatter の updatedAt（無ければ publishedAt）から sitemap の lastmod を作る。
 // Google に「この URL は更新済み」と伝え、再クロールと SERP 日付の見直しを促す。
@@ -20,6 +21,12 @@ for (const file of fs.readdirSync(ARTICLES_DIR)) {
   if (date) articleLastmod.set(file.replace(/\.mdx?$/, ""), new Date(date).toISOString());
 }
 
+// 記事1本以下のカテゴリページは noindex（src/pages/category/[slug].astro）なので sitemap からも外す。
+// noindex なのに sitemap に載っていると GSC が「送信された URL に noindex タグが追加されています」
+// とエラー扱いにするため。判定は scripts/lib/thin-categories.mjs に集約し、
+// tests/thin-categories.test.ts で [slug].astro とのドリフトを検知する。
+const thinCategorySlugs = getThinCategorySlugs();
+
 export default defineConfig({
   site: "https://www.kura-select.com",
   // 末尾スラッシュを統一（GH Pages での重複URL・リンクエクイティ分散を防ぐ）
@@ -27,10 +34,12 @@ export default defineConfig({
   integrations: [
     preact({ compat: true }),
     sitemap({
-      // 検索ページ・記事一覧ページはインデックス対象外（noindex 指定と整合）。
+      // 検索ページ・記事一覧ページ・記事1本以下のカテゴリはインデックス対象外（noindex 指定と整合）。
       // 記事詳細（/articles/<slug>/）は除外しない。
       filter: (page) =>
-        !page.endsWith("/search/") && !page.endsWith("/articles/"),
+        !page.endsWith("/search/") &&
+        !page.endsWith("/articles/") &&
+        !isThinCategoryUrl(page, thinCategorySlugs),
       serialize(item) {
         const slug = item.url.match(/\/articles\/([^/]+)\/?$/)?.[1];
         const lastmod = slug ? articleLastmod.get(slug) : undefined;

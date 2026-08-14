@@ -249,39 +249,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sargn.3rdw6a7b.g00sargn.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyrepi-2%2F4987176238498-6r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmyrepi-2%2Fi%2F10176330%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/myrepi-2/cabinet/ichi06/4987176238498-6.jpg?_ex=128x128"
   - rank: 9
-    name: "パンパース はじめての肌へのいちばん テープ新生児"
-    brand: "P&G（パンパース）"
-    price: 5699
-    capacity: "144枚（72枚×2袋・新生児用・〜5kg）"
-    pricePerUnit: "約40円/枚"
-    rating: 4.82
-    reviewCount: 38
-    features:
-      - "コットンのような肌ざわりをうたう新生児向け"
-      - "テープタイプの大容量セット"
-      - "まとめ買いしやすいケース販売"
-    pros:
-      - "新生児期の消耗に備えやすい"
-      - "まとめ買いで買い足しを減らしやすい"
-      - "定番ブランドで選びやすい"
-    cons:
-      - "収納場所を取りやすい"
-      - "サイズアップ後は余りやすい"
-    recommendedFor: "新生児期を大容量で備えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q9u1n.3rdw67e0.g00q9u1n.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhiteleaf%2Fcostoco_pampers-small%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhiteleaf%2Fi%2F10002658%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whiteleaf/cabinet/08766852/08895266/10306423/pampers-new144.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgyy-shop%2F57542-taped-s-pampers-hadaichi.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-09"
-        price: 4880
-        rating: 0
-        reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/gyy-shop_57542-taped-s-pampers-hadaichi"
-        available: true
-  - rank: 10
     name: "バンボネイチャー ドリーム テープ/パンツ ニューボーン"
     brand: "BAMBO Nature"
     price: 3190

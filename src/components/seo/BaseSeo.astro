@@ -8,6 +8,12 @@ interface Props {
   ogImage?: string;
   canonical?: string;
   noindex?: boolean;
+  /**
+   * noindex 時に nofollow も付けるか。既定 true（従来の挙動）。
+   * false にすると noindex,follow になり、そのページ経由のクロールは維持される。
+   * 一覧系（カテゴリ・記事一覧）はインデックスさせたくないがリンクは辿らせたいので false を使う。
+   */
+  nofollow?: boolean;
   ogType?: string;
   publishedTime?: string;
   modifiedTime?: string;
@@ -19,6 +25,7 @@ const {
   ogImage = SITE.ogImage,
   canonical,
   noindex = false,
+  nofollow = true,
   ogType = "website",
   publishedTime,
   modifiedTime,
@@ -35,7 +42,7 @@ const shouldNoindex = FORCE_NOINDEX || noindex;
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="description" content={description} />
 <link rel="canonical" href={canonicalUrl} />
-{shouldNoindex && <meta name="robots" content="noindex,nofollow" />}
+{shouldNoindex && <meta name="robots" content={`noindex,${nofollow ? "nofollow" : "follow"}`} />}
 
 <!-- OGP -->
 <meta property="og:type" content={ogType} />

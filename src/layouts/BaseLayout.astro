@@ -11,12 +11,14 @@ interface Props {
   ogImage?: string;
   canonical?: string;
   noindex?: boolean;
+  /** noindex 時に nofollow も付けるか。既定 true。詳細は BaseSeo.astro を参照 */
+  nofollow?: boolean;
   ogType?: string;
   publishedTime?: string;
   modifiedTime?: string;
 }
 
-const { title, description, ogImage, canonical, noindex, ogType, publishedTime, modifiedTime } = Astro.props;
+const { title, description, ogImage, canonical, noindex, nofollow, ogType, publishedTime, modifiedTime } = Astro.props;
 ---
 
 <!doctype html>
@@ -28,6 +30,7 @@ const { title, description, ogImage, canonical, noindex, ogType, publishedTime, 
       ogImage={ogImage}
       canonical={canonical}
       noindex={noindex}
+      nofollow={nofollow}
       ogType={ogType}
       publishedTime={publishedTime}
       modifiedTime={modifiedTime}

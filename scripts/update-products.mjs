@@ -2058,6 +2058,59 @@ const DIAPER_ACCESSORY_EXCLUDE_TERMS = [
   'お試し',
   'お試しセット',
   '初回購入限定',
+  // 大人用の尿ケア商品。「パンツ」「Mサイズ」を含むため、ベビー用の検索に紛れ込む。
+  // adult-diaper カテゴリは独自の exclude を持つので、ここに入れても影響しない。
+  'ライフリー',
+  'アテント',
+  'リリーフ',
+  'サルバ',
+  'テンダー',
+  '尿ケア',
+  '失禁',
+  '吸水パンツ',
+  'リハビリパンツ',
+  '紙パンツ',
+  // ギフト商品。おむつを使っているが商品本体ではない。
+  'おむつケーキ',
+  'オムツケーキ',
+  'ダイパーケーキ',
+  '出産祝い',
+  // ペット用おむつ。「マナーおむつ」「のびーるテープ付き」など犬猫用の語を含まない商品名でも
+  // ベビー用の検索に紛れ込むため、ブランド名と用途語で弾く。
+  'マナーおむつ',
+  'マナーウェア',
+  'p.one',
+  'ペピイ',
+  '犬用',
+  '猫用',
+];
+
+/**
+ * 「S M L BIG から1種類を選べる」型の可変サイズ商品を弾く語。
+ * この手の商品は枚数が確定しないため capacity が「3個」などになり、
+ * 1枚あたりの単価が計算できず比較表に「約0円/枚」と表示されてしまう。
+ * サイズ別記事では、どのサイズが届くか確定している商品だけを扱う。
+ */
+const DIAPER_VARIABLE_SIZE_EXCLUDE_TERMS = [
+  '選べる',
+  '選択',
+  'サイズ選択',
+  '梱販売',
+  'から選べる',
+];
+
+/**
+ * 夜用パンツ記事向けの除外語。
+ * DIAPER_ACCESSORY_EXCLUDE_TERMS は「おねしょシーツ」を弾くために 'おねしょ' を含むが、
+ * 夜用おむつは商品名に「おねしょ」を持つことが多く、そのまま使うと本体まで落ちる。
+ * 'おねしょ' を外したうえで、寝具・衣類側の語を具体的に指定する。
+ */
+const DIAPER_NIGHT_EXCLUDE_TERMS = [
+  ...DIAPER_ACCESSORY_EXCLUDE_TERMS.filter(term => term !== 'おねしょ'),
+  'おねしょシーツ',
+  'おねしょケット',
+  'おねしょズボン',
+  'おねしょパッド',
 ];
 
 function getArticleSpecificAdditionRule(category, baseKeyword) {
@@ -2121,13 +2174,79 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
     };
   }
 
+  // 夜用パンツはサイズ別記事より先に判定する。「夜用パンツおむつ」は /パンツ/ にも一致するため、
+  // サイズ別ルールの後ろに置くと拾われない。夜用は吸収量が主軸でサイズ横断でも比較が成立する
+  // （同じ「一晩もつか」を比べるため）ので、サイズ別記事とは別立てにしている。
+  if (category === 'diaper' && /夜用|おやすみ|オヤスミ/.test(baseKeyword)) {
+    return {
+      keywords: ['オヤスミマン 夜用 パンツ', 'グーン おやすみパンツ 夜用', 'パンパース 夜用 パンツ おむつ'],
+      include: ['おむつ', 'オムツ', '紙おむつ', 'パンツ', 'オヤスミマン', 'おやすみ', '夜用', 'ナイト'],
+      requiredGroups: [
+        ['夜用', 'おやすみ', 'オヤスミ', 'ナイト'],
+        ['パンツ', 'パンツタイプ', 'パンツ型', 'おむつ', 'オムツ'],
+      ],
+      exclude: [...DIAPER_NIGHT_EXCLUDE_TERMS, ...DIAPER_VARIABLE_SIZE_EXCLUDE_TERMS, 'テープ', 'テープタイプ', '新生児', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット', 'シーツ', 'マット'],
+      units: ['枚'],
+      minScore: 3,
+    };
+  }
+
+  // パンツ型のサイズ別記事は、下の汎用「パンツ」ルールおよびテープ型のサイズ別ルールより
+  // 先に判定する必要がある。baseKeyword「パンツ型おむつ Mサイズ」は /Mサイズ/ にも一致するため、
+  // ここより後ろに置くとテープ型ルール（requiredGroups に 'テープ'）を引いてしまう。
+  //
+  // サイズ横断で並べると 1枚あたりの価格が「安い商品」ではなく「小さいサイズ」を指してしまい、
+  // 比較として成立しない。加えて「M/L/BIGから選択」型のセット商品は枚数が確定せず単価が 0 になるため、
+  // 他サイズ語を exclude に入れて可変サイズ商品ごと弾く。
+  if (category === 'diaper' && /パンツ/.test(baseKeyword) && /Mサイズ|M サイズ/.test(baseKeyword)) {
+    return {
+      keywords: ['メリーズ パンツ Mサイズ', 'パンパース パンツ Mサイズ', 'ムーニーマン パンツ Mサイズ'],
+      include: ['おむつ', 'オムツ', '紙おむつ', 'パンツ', 'パンツタイプ', 'パンツ型', 'パンパース', 'メリーズ', 'ムーニー', 'グーン', 'マミーポコ', 'ゲンキ'],
+      requiredGroups: [
+        ['パンツ', 'パンツタイプ', 'パンツ型'],
+        ['mサイズ', 'm サイズ', 'サイズm', ' m '],
+      ],
+      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, ...DIAPER_VARIABLE_SIZE_EXCLUDE_TERMS, 'テープ', 'テープタイプ', '新生児', 'sサイズ', ' s ', 'lサイズ', 'l サイズ', ' l ', 'big', 'ビッグ', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      units: ['枚'],
+      minScore: 3,
+    };
+  }
+
+  if (category === 'diaper' && /パンツ/.test(baseKeyword) && /Lサイズ|L サイズ/.test(baseKeyword)) {
+    return {
+      keywords: ['メリーズ パンツ Lサイズ', 'パンパース パンツ Lサイズ', 'ムーニーマン パンツ Lサイズ'],
+      include: ['おむつ', 'オムツ', '紙おむつ', 'パンツ', 'パンツタイプ', 'パンツ型', 'パンパース', 'メリーズ', 'ムーニー', 'グーン', 'マミーポコ', 'ゲンキ'],
+      requiredGroups: [
+        ['パンツ', 'パンツタイプ', 'パンツ型'],
+        ['lサイズ', 'l サイズ', 'サイズl', ' l '],
+      ],
+      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, ...DIAPER_VARIABLE_SIZE_EXCLUDE_TERMS, 'テープ', 'テープタイプ', '新生児', 'sサイズ', ' s ', 'mサイズ', 'm サイズ', ' m ', 'big', 'ビッグ', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      units: ['枚'],
+      minScore: 3,
+    };
+  }
+
+  if (category === 'diaper' && /パンツ/.test(baseKeyword) && /BIG|ビッグ/.test(baseKeyword)) {
+    return {
+      keywords: ['メリーズ パンツ ビッグ', 'パンパース パンツ ビッグ', 'ムーニーマン パンツ ビッグ'],
+      include: ['おむつ', 'オムツ', '紙おむつ', 'パンツ', 'パンツタイプ', 'パンツ型', 'パンパース', 'メリーズ', 'ムーニー', 'グーン', 'マミーポコ', 'ゲンキ'],
+      requiredGroups: [
+        ['パンツ', 'パンツタイプ', 'パンツ型'],
+        ['big', 'ビッグ'],
+      ],
+      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, ...DIAPER_VARIABLE_SIZE_EXCLUDE_TERMS, 'テープ', 'テープタイプ', '新生児', 'sサイズ', ' s ', 'mサイズ', 'm サイズ', ' m ', 'lサイズ', 'l サイズ', ' l ', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      units: ['枚'],
+      minScore: 3,
+    };
+  }
+
   if (category === 'diaper' && /新生児/.test(baseKeyword)) {
     return {
       keywords: ['新生児 おむつ テープ', '紙おむつ 新生児', 'パンパース 新生児 テープ'],
       include: ['おむつ', 'オムツ', '紙おむつ', 'テープ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
       requiredGroups: [['新生児', 'nb', '5kg', '5000g'], ['テープ']],
-      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, 'Sサイズ', 'Mサイズ', 'Lサイズ', 'BIG', 'ビッグ', 'パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
-      units: ['枚', '個'],
+      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, ...DIAPER_VARIABLE_SIZE_EXCLUDE_TERMS, 'Sサイズ', 'Mサイズ', 'Lサイズ', 'BIG', 'ビッグ', 'パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      units: ['枚'],
       minScore: 3,
     };
   }
@@ -2137,8 +2256,8 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
       keywords: ['Sサイズ おむつ テープ', '紙おむつ S テープ', 'パンパース S テープ'],
       include: ['おむつ', 'オムツ', '紙おむつ', 'テープ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
       requiredGroups: [['Sサイズ', 'S サイズ', 'テープ S', 'S テープ'], ['テープ']],
-      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, '新生児', 'NB', 'Mサイズ', 'Lサイズ', 'BIG', 'ビッグ', 'パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
-      units: ['枚', '個'],
+      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, ...DIAPER_VARIABLE_SIZE_EXCLUDE_TERMS, '新生児', 'NB', 'Mサイズ', 'Lサイズ', 'BIG', 'ビッグ', 'パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      units: ['枚'],
       minScore: 3,
     };
   }
@@ -2148,8 +2267,8 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
       keywords: ['Mサイズ おむつ テープ', '紙おむつ M テープ', 'パンパース M テープ'],
       include: ['おむつ', 'オムツ', '紙おむつ', 'テープ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
       requiredGroups: [['Mサイズ', 'M サイズ', 'テープ M', 'M テープ'], ['テープ']],
-      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, '新生児', 'NB', 'Sサイズ', 'Lサイズ', 'BIG', 'ビッグ', 'パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
-      units: ['枚', '個'],
+      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, ...DIAPER_VARIABLE_SIZE_EXCLUDE_TERMS, '新生児', 'NB', 'Sサイズ', 'Lサイズ', 'BIG', 'ビッグ', 'パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      units: ['枚'],
       minScore: 3,
     };
   }
@@ -2159,19 +2278,23 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
       keywords: ['パンツ おむつ M', 'パンツ おむつ L', 'パンツ おむつ BIG'],
       include: ['おむつ', 'オムツ', '紙おむつ', 'パンツ', 'パンツタイプ', 'パンツ型', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
       requiredGroups: [['パンツ', 'パンツタイプ', 'パンツ型']],
-      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, 'テープ', 'テープタイプ', '新生児', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
-      units: ['枚', '個'],
+      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, ...DIAPER_VARIABLE_SIZE_EXCLUDE_TERMS, 'テープ', 'テープタイプ', '新生児', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      units: ['枚'],
       minScore: 3,
     };
   }
 
   if (category === 'diaper' && /BIG|ビッグ|スーパービッグ/.test(baseKeyword)) {
     return {
-      keywords: ['BIG おむつ', 'ビッグ おむつ', 'スーパービッグ おむつ'],
+      // diaper-big はテープ型 BIG の記事。パンツ型 BIG は diaper-pants-big、
+      // 夜用は diaper-pants（夜用）が担当する。2026-08-14 に、この3記事へ
+      // 同じ商品が重複して入っていたのを是正したので、ここで再流入を止める。
+      // 削除履歴（deleted-products-history.jsonl）の抑止は7日で切れるため、恒久対策はこのルール。
+      keywords: ['BIG おむつ テープ', 'ビッグ おむつ テープ', 'スーパービッグ おむつ テープ'],
       include: ['おむつ', 'オムツ', '紙おむつ', 'BIG', 'ビッグ', 'スーパービッグ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
-      requiredGroups: [['BIG', 'ビッグ', 'スーパービッグ']],
-      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, '新生児', 'Sサイズ', 'Mサイズ', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
-      units: ['枚', '個'],
+      requiredGroups: [['BIG', 'ビッグ', 'スーパービッグ'], ['テープ']],
+      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, ...DIAPER_VARIABLE_SIZE_EXCLUDE_TERMS, '新生児', 'Sサイズ', 'Mサイズ', 'パンツ', 'パンツタイプ', 'パンツ型', '夜用', 'オヤスミマン', 'おやすみ', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      units: ['枚'],
       minScore: 3,
     };
   }
@@ -2181,7 +2304,7 @@ function getArticleSpecificAdditionRule(category, baseKeyword) {
       keywords: ['フリーザーバッグ', '保存袋', 'ジッパーバッグ'],
       include: ['フリーザーバッグ', '保存袋', 'ストックバッグ', 'ジッパーバッグ', 'ジップロック', 'ポリ袋', '食品保存袋'],
       exclude: ['ラップホルダー', 'ラップケース', 'アルミホイル', 'クッキングシート', 'ゴミ袋', 'レジ袋', '衣類圧縮'],
-      units: ['枚', '個'],
+      units: ['枚'],
       minScore: 4,
     };
   }

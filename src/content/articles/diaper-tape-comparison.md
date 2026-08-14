@@ -7,193 +7,6 @@ articleType: "comparison"
 updatedAt: "2026-08-13"
 products:
   - rank: 1
-    name: "グーンプラス 敏感肌にやわらかタッチ テープ 4個セット"
-    brand: "GOO.N"
-    price: 6980
-    capacity: "4個セット"
-    pricePerUnit: "約1745円/個"
-    rating: 4.1
-    reviewCount: 40
-    features:
-      - "テープタイプの乳幼児向け紙おむつ"
-      - "月齢や体重に合わせてサイズを選べる"
-      - "まとめ買いしやすいパック構成"
-    pros:
-      - "新生児からMサイズ前後までの候補を比較しやすい"
-      - "テープ型を継続したい家庭のストック候補にしやすい"
-      - "主要ブランドを中心に選択肢を広げられる"
-    cons:
-      - "サイズや枚数は選択肢によって変わるため購入前に確認したい"
-      - "赤ちゃんの体型や肌との相性で合う商品が分かれる"
-    recommendedFor: "乳幼児向けのテープ型おむつをサイズ別に比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7175547%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10183818%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tasya114/7270014-e.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2Fm7255398.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-25"
-        price: 6980
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_m7255398"
-        available: true
-        rating: 5
-        reviewCount: 8
-  - rank: 2
-    name: "ムーニーナチュラル テープ"
-    brand: "ムーニー"
-    price: 7158
-    capacity: "4個"
-    pricePerUnit: "約1790円/個"
-    rating: 4.75
-    reviewCount: 501
-    features:
-      - "テープタイプの乳幼児向け紙おむつ"
-      - "月齢や体重に合わせてサイズを選べる"
-      - "まとめ買いしやすいパック構成"
-    pros:
-      - "新生児からMサイズ前後までの候補を比較しやすい"
-      - "テープ型を継続したい家庭のストック候補にしやすい"
-      - "主要ブランドを中心に選択肢を広げられる"
-    cons:
-      - "サイズや枚数は選択肢によって変わるため購入前に確認したい"
-      - "赤ちゃんの体型や肌との相性で合う商品が分かれる"
-    recommendedFor: "乳幼児向けのテープ型おむつをサイズ別に比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2Fa63053xxx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10024544%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/349/402349.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fa-kustore%2F4903111143429-4.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-10"
-        price: 8900
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/a-kustore_4903111143429-4"
-        available: true
-  - rank: 3
-    name: "パンパース テープ さらさらケア 4個セット"
-    brand: "Pampers"
-    price: 7980
-    capacity: "4個"
-    pricePerUnit: "約1995円/個"
-    rating: 4.69
-    reviewCount: 64
-    features:
-      - "テープタイプの乳幼児向け紙おむつ"
-      - "月齢や体重に合わせてサイズを選べる"
-      - "まとめ買いしやすいパック構成"
-    pros:
-      - "新生児からMサイズ前後までの候補を比較しやすい"
-      - "テープ型を継続したい家庭のストック候補にしやすい"
-      - "主要ブランドを中心に選択肢を広げられる"
-    cons:
-      - "サイズや枚数は選択肢によって変わるため購入前に確認したい"
-      - "赤ちゃんの体型や肌との相性で合う商品が分かれる"
-    recommendedFor: "乳幼児向けのテープ型おむつをサイズ別に比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7252901%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10193037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/09483188/12470037/imgrc0138992127.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7252903.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-09"
-        price: 10310
-        rating: 4.37
-        reviewCount: 19
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7252903"
-        available: true
-  - rank: 4
-    name: "パンパース さらケアテープ"
-    brand: "Pampers"
-    price: 7980
-    capacity: "4個セット"
-    pricePerUnit: "約1995円/個"
-    rating: 4.66
-    reviewCount: 32
-    features:
-      - "テープタイプの乳幼児向け紙おむつ"
-      - "月齢や体重に合わせてサイズを選べる"
-      - "まとめ買いしやすいパック構成"
-    pros:
-      - "新生児からMサイズ前後までの候補を比較しやすい"
-      - "テープ型を継続したい家庭のストック候補にしやすい"
-      - "主要ブランドを中心に選択肢を広げられる"
-    cons:
-      - "サイズや枚数は選択肢によって変わるため購入前に確認したい"
-      - "赤ちゃんの体型や肌との相性で合う商品が分かれる"
-    recommendedFor: "乳幼児向けのテープ型おむつをサイズ別に比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7252905%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10087224%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09344783/imgrc0112581512.jpg?_ex=128x128"
-  - rank: 5
-    name: "パンパース さらさらケア テープ"
-    brand: "Pampers"
-    price: 9156
-    capacity: "4個"
-    pricePerUnit: "約2289円/個"
-    rating: 4.68
-    reviewCount: 3930
-    features:
-      - "テープタイプの乳幼児向け紙おむつ"
-      - "月齢や体重に合わせてサイズを選べる"
-      - "まとめ買いしやすいパック構成"
-    pros:
-      - "新生児からMサイズ前後までの候補を比較しやすい"
-      - "テープ型を継続したい家庭のストック候補にしやすい"
-      - "主要ブランドを中心に選択肢を広げられる"
-    cons:
-      - "サイズや枚数は選択肢によって変わるため購入前に確認したい"
-      - "赤ちゃんの体型や肌との相性で合う商品が分かれる"
-    recommendedFor: "乳幼児向けのテープ型おむつをサイズ別に比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2Fa62000xxx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10018171%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/031/402031.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7252903.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-08"
-        price: 9380
-        rating: 4.37
-        reviewCount: 19
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7252903"
-        available: true
-  - rank: 6
-    name: "パンパース はじめての肌へのいちばん テープ"
-    brand: "Pampers"
-    price: 7579
-    capacity: "3個"
-    pricePerUnit: "約2526円/個"
-    rating: 4.92
-    reviewCount: 24
-    features:
-      - "テープタイプの乳幼児向け紙おむつ"
-      - "月齢や体重に合わせてサイズを選べる"
-      - "まとめ買いしやすいパック構成"
-    pros:
-      - "新生児からMサイズ前後までの候補を比較しやすい"
-      - "テープ型を継続したい家庭のストック候補にしやすい"
-      - "主要ブランドを中心に選択肢を広げられる"
-    cons:
-      - "サイズや枚数は選択肢によって変わるため購入前に確認したい"
-      - "赤ちゃんの体型や肌との相性で合う商品が分かれる"
-    recommendedFor: "乳幼児向けのテープ型おむつをサイズ別に比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F402049%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11062697%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/049/402049.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7263228f.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-08"
-        price: 7330
-        rating: 4.85
-        reviewCount: 26
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7263228f"
-        available: true
-  - rank: 7
     name: "ムーニー テープ S マシュマロ肌ごこち"
     brand: "ムーニー"
     price: 7180
@@ -226,7 +39,7 @@ products:
         available: true
         rating: 4.74
         reviewCount: 53
-  - rank: 8
+  - rank: 2
     name: "パンパース はじめての肌へのいちばん 新生児小さめ"
     brand: "Pampers"
     price: 1100
@@ -259,7 +72,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 9
+  - rank: 3
     name: "パンパース テープ コットンケア"
     brand: "Pampers"
     price: 5500
@@ -281,7 +94,7 @@ products:
     recommendedFor: "乳幼児向けのテープ型おむつをサイズ別に比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2Fck00002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000150%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/187811354738718.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 4
     name: "パンパース テープ はじめての肌へのいちばん"
     brand: "Pampers"
     price: 5550

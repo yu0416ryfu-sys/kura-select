@@ -4,9 +4,31 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-13"
+updatedAt: "2026-08-14"
 products:
   - rank: 1
+    name: "グーンプラス 肌の贅沢 テープ BIGサイズ"
+    brand: "大王製紙（グーン）"
+    price: 4378
+    capacity: "36枚×4パック"
+    pricePerUnit: "約30円/枚"
+    rating: 5
+    reviewCount: 8
+    features:
+      - "グーンプラスの上位ライン"
+      - "肌に触れる面をやわらかく仕上げたシート"
+      - "BIGサイズ帯に対応するテープ型"
+    pros:
+      - "パック数が多く買い足し回数を減らせる"
+      - "肌トラブルが出やすい時期に選びやすい"
+      - "寝かせたまま替えられるテープ型を続けられる"
+    cons:
+      - "標準ラインより価格帯が上がりやすい"
+      - "大容量のため保管場所が要る"
+    recommendedFor: "BIGサイズ帯でテープ型を続けたい、肌あたりを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi7un.3rdw6c00.g00qi7un.3rdw7b0e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-leadonline%2F10134543%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-leadonline%2Fi%2F10204093%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-leadonline/cabinet/item10/lm59-7.jpg?_ex=128x128"
+  - rank: 2
     name: "グーンプラス テープ BIGサイズ"
     brand: "大王製紙（グーンプラス）"
     price: 1518
@@ -39,7 +61,7 @@ products:
         updatedAt: "2026-08-09"
         rating: 0
         reviewCount: 0
-  - rank: 2
+  - rank: 3
     name: "エリエール　グーン　スーパービッグ　テープ止めタイプ"
     brand: "大王製紙（グーン）"
     price: 6984
@@ -72,172 +94,7 @@ products:
         updatedAt: "2026-08-09"
         rating: 4
         reviewCount: 3
-  - rank: 3
-    name: "オヤスミマン 男の子 ビッグ以上"
-    brand: "ユニ・チャーム（ムーニー）"
-    price: 4785
-    capacity: "22枚×3袋"
-    pricePerUnit: "約73円/枚"
-    rating: 4.69
-    reviewCount: 163
-    features:
-      - "男の子用の夜用パンツ型紙おむつ"
-      - "ビッグ以上サイズに対応"
-      - "夜間使用を想定した吸収設計"
-    pros:
-      - "夜間の取り替え回数を減らしたい場面で選びやすい"
-      - "男の子の体型や尿位置に合わせて選べる"
-      - "公式ショップ品で商品仕様を確認しやすい"
-    cons:
-      - "昼用おむつより用途が限定される"
-      - "男女別商品のため購入時にタイプ確認が必要"
-    recommendedFor: "男の子の夜用ビッグ以上サイズを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F100420%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10001435%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/oyasumiman/100420-sin.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 4884
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4903111211647x3.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111211647x3"
-        available: true
-        matchStatus: "pending"
-        updatedAt: "2026-08-08"
-        rating: 0
-        reviewCount: 0
   - rank: 4
-    name: "オヤスミマン 女の子 ビッグ以上"
-    brand: "ユニ・チャーム（ムーニー）"
-    price: 4785
-    capacity: "22枚×3袋"
-    pricePerUnit: "約73円/枚"
-    rating: 4.78
-    reviewCount: 122
-    features:
-      - "女の子用の夜用パンツ型紙おむつ"
-      - "ビッグ以上サイズに対応"
-      - "夜間使用を想定した吸収設計"
-    pros:
-      - "夜間用として普段のおむつと使い分けしやすい"
-      - "女の子の体型や尿位置に合わせて選べる"
-      - "公式ショップ品で商品仕様を確認しやすい"
-    cons:
-      - "昼用おむつより用途が限定される"
-      - "男女別商品のため購入時にタイプ確認が必要"
-    recommendedFor: "女の子の夜用ビッグ以上サイズを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F100421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10001436%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/oyasumiman/100421-sin.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 4884
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4903111211807x3.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111211807x3"
-        available: true
-        matchStatus: "pending"
-        updatedAt: "2026-08-08"
-        rating: 0
-        reviewCount: 0
-  - rank: 5
-    name: "グーン スーパーBIG パンツタイプ ケース販売 84枚"
-    brand: "大王製紙（グーン）"
-    price: 6980
-    capacity: "84枚（14枚×6袋）"
-    pricePerUnit: "約83円/枚"
-    rating: 4
-    reviewCount: 1
-    features:
-      - "スーパーBIGサイズのパンツタイプ"
-      - "同一商品をまとめたケース販売"
-      - "大きめ体型に合わせたサイズ展開"
-    pros:
-      - "継続使用する家庭のまとめ買いに向く"
-      - "買い足しの手間を減らしやすい"
-      - "ストックを確保しておきたい時に選びやすい"
-    cons:
-      - "サイズが合わないと在庫を持て余しやすい"
-      - "保管スペースを確認してから購入したい"
-    recommendedFor: "グーンのスーパーBIGをケースでまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugwmn.3rdw60bf.g00ugwmn.3rdw7c2e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcleanexpert1%2Fdos263-r6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcleanexpert1%2Fi%2F10000371%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cleanexpert1/cabinet/12083805/12083806/dos263-6_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseedeck%2Fdos263-r6.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-08"
-        price: 7580
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/seedeck_dos263-r6"
-        available: true
-  - rank: 6
-    name: "グーン スーパーBIG パンツタイプ 14枚"
-    brand: "大王製紙（グーン）"
-    price: 1388
-    capacity: "14枚"
-    pricePerUnit: "約99円/枚"
-    rating: 4.64
-    reviewCount: 113
-    features:
-      - "スーパーBIGサイズのパンツタイプ"
-      - "体重目安に幅を持たせた大きめ設計"
-      - "下着感覚で使いやすい紙おむつ"
-    pros:
-      - "大きめサイズを店頭以外で探したい時に候補にしやすい"
-      - "少量パックでフィット感を確認しやすい"
-      - "日中用として使いやすいパンツタイプ"
-    cons:
-      - "まとめ買いではないためストック用途には向きにくい"
-      - "パッケージ変更時は仕様表示を確認したい"
-    recommendedFor: "グーンのスーパーBIGを単品で購入したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10050176%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10008257%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/shouhin52/4902011743081.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 1254
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4902011743081-1.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4902011743081-1"
-        available: true
-        matchStatus: "matched"
-        updatedAt: "2026-08-08"
-        rating: 5
-        reviewCount: 3
-  - rank: 7
-    name: "グーン スーパービッグ パンツタイプ"
-    brand: "大王製紙（グーン）"
-    price: 1501
-    capacity: "14枚"
-    pricePerUnit: "約107円/枚"
-    rating: 4.66
-    reviewCount: 74
-    features:
-      - "スーパービッグサイズのパンツタイプ"
-      - "下着感覚で使いやすい設計"
-      - "大きめ体型に合わせたサイズ展開"
-    pros:
-      - "通常のビッグサイズでは窮屈な子に選びやすい"
-      - "少量パックでサイズ感を試しやすい"
-      - "パンツタイプで動きが多い時期にも使いやすい"
-    cons:
-      - "単パックのため買い足し頻度が増えやすい"
-      - "スーパービッグは取扱店舗が限られる場合がある"
-    recommendedFor: "スーパービッグのパンツタイプを少量から試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa066269197075%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10121735%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/081/4902011743081.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 1397
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffinespharma%2F4902011743081.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/finespharma_4902011743081"
-        available: true
-        matchStatus: "matched"
-        updatedAt: "2026-07-02"
-        rating: 5
-        reviewCount: 4
-  - rank: 8
     name: "ムーニーマン スーパービッグ 男の子"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1647
@@ -270,7 +127,7 @@ products:
         updatedAt: "2026-08-08"
         rating: 5
         reviewCount: 3
-  - rank: 9
+  - rank: 5
     name: "ムーニーマン スーパービッグ 女の子"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1647
@@ -303,28 +160,6 @@ products:
         updatedAt: "2026-08-08"
         rating: 0
         reviewCount: 2
-  - rank: 10
-    name: "あんしんGenki！パンツ ビッグ"
-    brand: "アイリスオーヤマ"
-    price: 3580
-    capacity: "ビッグ108枚（3個セット）"
-    pricePerUnit: "0円/枚"
-    rating: 4.65
-    reviewCount: 1735
-    features:
-      - "パンツタイプの紙おむつ"
-      - "ふわもちタッチの肌あたりに配慮した設計"
-      - "横モレ対策を考えた形状"
-    pros:
-      - "まとめ買いで日常使いの在庫を確保しやすい"
-      - "動きが増えた子どもにも履かせやすい"
-      - "肌ざわりを重視して選びたい家庭に向く"
-    cons:
-      - "複数サイズ選択式のため購入時にサイズ確認が必要"
-      - "保管スペースを確保してから購入したい"
-    recommendedFor: "ビッグサイズのパンツタイプをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F1925663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10225492%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/jisyakura2/1925663_.jpg?_ex=128x128"
 tags:
   - "BIGサイズ おむつ"
   - "ビッグより大きい おむつ"
