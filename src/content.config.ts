@@ -105,6 +105,18 @@ const articles = defineCollection({
         ...commonFields({ image }),
         // pricePerLiter を算出した前提（例: 月100L使った場合）。比較表・カードに併記する
         pricingBasis: z.string().optional(),
+        // 以下 3 つは景表法対応（CLAUDE.md §11）。「コスパ最強」等の断定を掲げる
+        // サービス記事では、比較日・対象範囲・出典を記事内に明示する必要がある
+        /** 比較の対象範囲（例: 工事不要の浄水型4機種。水道直結型・宅配水型は対象外） */
+        pricingScope: z.string().optional(),
+        /** 月額に含まない費用（水道代・初期費用など）。読者の誤認防止のため列挙する */
+        pricingExcludes: z.array(z.string()).optional(),
+        /** 料金の出典（例: 各社公式サイトの公表値） */
+        pricingSource: z.string().optional(),
+        /** 掲載金額の税区分。総額表示義務の対象なので、分かる場合は必ず指定する */
+        pricingTaxIncluded: z.boolean().optional(),
+        /** 料金を確認した日。景表法でいう「比較日」 */
+        pricingCheckedAt: z.coerce.date().optional(),
         services: z.array(serviceSchema).min(1),
       }),
     ]),

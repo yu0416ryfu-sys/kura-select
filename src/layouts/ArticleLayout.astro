@@ -52,6 +52,19 @@ const services = "services" in data && Array.isArray(data.services) ? data.servi
 // pricePerLiter を出した前提（例: 月100L使った場合）。未指定なら併記しない
 const serviceBasisNote =
   "pricingBasis" in data && typeof data.pricingBasis === "string" ? data.pricingBasis : undefined;
+// 景表法対応の根拠表示（対象範囲・除外費用・出典・比較日）。未指定の項目は出さない
+const servicePricingScope =
+  "pricingScope" in data && typeof data.pricingScope === "string" ? data.pricingScope : undefined;
+const servicePricingExcludes =
+  "pricingExcludes" in data && Array.isArray(data.pricingExcludes) ? data.pricingExcludes : undefined;
+const servicePricingSource =
+  "pricingSource" in data && typeof data.pricingSource === "string" ? data.pricingSource : undefined;
+const servicePricingCheckedAt =
+  "pricingCheckedAt" in data && data.pricingCheckedAt instanceof Date ? data.pricingCheckedAt : undefined;
+const servicePricingTaxIncluded =
+  "pricingTaxIncluded" in data && typeof data.pricingTaxIncluded === "boolean"
+    ? data.pricingTaxIncluded
+    : undefined;
 
 type TocItem = { slug: string; text: string; depth: 2 | 3 };
 
@@ -323,6 +336,11 @@ const productJsonLds = products
               services={services}
               caption={`${data.title} 比較表`}
               basisNote={serviceBasisNote}
+              scope={servicePricingScope}
+              excludes={servicePricingExcludes}
+              source={servicePricingSource}
+              checkedAt={servicePricingCheckedAt}
+              taxIncluded={servicePricingTaxIncluded}
             />
           </section>
         )}

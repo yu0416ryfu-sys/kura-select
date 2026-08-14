@@ -5,6 +5,14 @@ description: "浄水型ウォーターサーバー4機種を電気代込みの�
 category: "mineral-water"
 publishedAt: "2026-08-12"
 pricingBasis: "月100L（1日約3.3L）使った場合"
+pricingScope: "工事不要の浄水型（給水型）ウォーターサーバー4機種。水道直結型・宅配水型（天然水・RO水のボトル配送）は対象外"
+pricingExcludes:
+  - "水道代"
+  - "初期費用・事務手数料"
+  - "解約金・サーバー返却手数料"
+pricingSource: "各社公式サイトが公表する月額料金と電気代の目安"
+pricingTaxIncluded: true
+pricingCheckedAt: "2026-08-12"
 tags:
   - "ウォーターサーバー"
   - "浄水型"
