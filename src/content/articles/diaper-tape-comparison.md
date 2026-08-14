@@ -146,7 +146,10 @@ faqs:
 | Sサイズ テープ型 | [Sサイズ紙おむつ テープ型コスパ比較](/articles/diaper-tape-s-comparison/) | 新生児サイズを卒業した赤ちゃん向けに選びたい方 |
 | Mサイズ テープ型 | [Mサイズ紙おむつ テープ型コスパ比較](/articles/diaper-tape-m-comparison/) | 寝返り前後でテープ型を続けるか迷っている方 |
 | BIG・スーパービッグ | [BIG・スーパービッグ紙おむつ比較](/articles/diaper-big-comparison/) | 大きめ体型・夜間漏れ・サイズアップに悩む方 |
-| パンツ型 | [パンツ型おむつ コスパ比較](/articles/diaper-pants-comparison/) | 寝返りやハイハイでおむつ替えが大変になってきた方 |
+| パンツ型 Mサイズ | [パンツ型おむつ Mサイズ 1枚単価で比較](/articles/diaper-pants-m-comparison/) | 寝返りやハイハイでおむつ替えが大変になってきた方 |
+| パンツ型 Lサイズ | [パンツ型おむつ Lサイズ 1枚単価で比較](/articles/diaper-pants-l-comparison/) | 歩き始めて、立ったままはかせることが増えた方 |
+| パンツ型 BIGサイズ | [パンツ型おむつ BIGサイズ 1枚単価で比較](/articles/diaper-pants-big-comparison/) | 卒業までの期間を見ながらコスパを比べたい方 |
+| 夜用パンツ | [夜用パンツおむつ 1枚単価で比較](/articles/diaper-pants-comparison/) | 朝までの漏れが気になる方 |
 
 ## 新生児用おむつを選ぶポイント
 
@@ -176,7 +179,13 @@ BIG以上は1枚あたりの価格が高くなりやすく、サイズ選びの�
 
 寝返り、ハイハイ、つかまり立ちなどでおむつ替え中に動くようになったら、パンツ型を検討しやすい時期です。日中はパンツ型、夜間はテープ型という使い分けもできます。
 
-詳しくは [パンツ型おむつ コスパ比較](/articles/diaper-pants-comparison/) にまとめています。
+パンツ型はサイズごとに選び方が変わるため、サイズ別に比較しています。
+
+- [パンツ型おむつ Mサイズ](/articles/diaper-pants-m-comparison/) — テープ型から切り替えたばかりの時期
+- [パンツ型おむつ Lサイズ](/articles/diaper-pants-l-comparison/) — 歩き始めて活動量が増えた時期
+- [パンツ型おむつ BIGサイズ](/articles/diaper-pants-big-comparison/) — 卒業までの期間とコスパを見比べたい時期
+
+夜だけ漏れる場合は、吸収量を優先した [夜用パンツおむつ](/articles/diaper-pants-comparison/) を確認してください。
 
 ## サイズアップを判断するサイン
 
