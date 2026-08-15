@@ -5,7 +5,11 @@
 // ── 単位定義 ──────────────────────────────────────────────────────────────
 // 「日」は液体蚊取り取替えボトルなど「対応日数」が実質的なコスパ単位になる商材向け。
 // 既存記事の capacity に「日」表記は無いため追加による誤解析の影響はない。
-export const CAPACITY_UNITS = 'mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒|包|錠|日';
+// 「周」はコロコロ（粘着カーペットクリーナー）、「足」は靴下ギフト向け。
+// 複数文字の単位は単一文字の m / g より前に置く（先頭マッチを取り違えないため）。
+// 寸法単位（cm / mm）はここに含めない。単価の分母にならないため
+// DIMENSION_TOKEN_RE で除去する側の対象になる。
+export const CAPACITY_UNITS = 'mL|ml|kg|L|g|周|足|m|枚|本|個|袋|巻|回|粒|包|錠|日';
 // 基底単位（"数値unit×N..." の先頭・単独パターンで許可する単位）。
 // 「組」はティッシュの "200組×80個" / "150組×5箱" を 円/組 で計算するために含める。
 // ただし括弧パターン（パターン1）では "360枚（180組）×60箱" の「（180組）」を
@@ -13,6 +17,11 @@ export const CAPACITY_UNITS = 'mL|ml|kg|L|g|m|枚|本|個|袋|巻|回|粒|包|�
 export const BASE_CAPACITY_UNITS = `${CAPACITY_UNITS}|組`;
 export const PACK_UNITS = 'ロール|パック|セット|箱|缶|ケース';
 export const MULTIPLY_RE_CHAR_CLASS = '×xX*＊';
+
+// 寸法表記（幅×高さ）。単価の分母にはならないため、フォールバック時に除去する。
+// 例: "30cm"、"40×60cm"、"400×800mm"、"21.5cm"
+export const DIMENSION_TOKEN_RE =
+  /\d[\d.,]*(?:\s*[×xX*＊]\s*\d[\d.,]*)*\s*(?:cm|mm|CM|MM|㎝|㎜)/g;
 
 // 容量の数値部分パターン。整数（カンマ区切り可）に加え、"5.26" のような小数も許容する。
 // 乗数側（×N本 など）はこのパターンを使わず整数のまま扱う。
@@ -45,7 +54,10 @@ export function normalizeItemName(s: string): string {
 export function extractCapacityTotal(capacity: string): { total: number; unit: string } | null {
   capacity = normalizeItemName(capacity);
   // パターン1: 括弧内に明示された総量 "（1,376枚）"（最も信頼性が高い）
-  const bracketRe = new RegExp(`[（(](${CAPACITY_NUMBER_PATTERN})\\s*(${CAPACITY_UNITS})[）)]`);
+  // "（計20g）" のように合計を示す接頭辞が付く表記にも対応する。
+  const bracketRe = new RegExp(
+    `[（(]\\s*(?:計|合計|総量)?\\s*(${CAPACITY_NUMBER_PATTERN})\\s*(${CAPACITY_UNITS})\\s*[）)]`
+  );
   const bracketM = capacity.match(bracketRe);
   if (bracketM) {
     const total = parseCapacityNumber(bracketM[1]);
@@ -94,7 +106,88 @@ export function extractCapacityTotal(capacity: string): { total: number; unit: s
     if (base > 0) return { total: base, unit };
   }
 
+  // ── フォールバック（パターン1〜4が全滅したときだけ走る）──────────────────
+  // 既存パターンの結果を変えないよう、ここまで到達した場合に限り適用する。
+
+  // パターン5: 寸法トークンを除去して残りを解析する
+  //   "30cm×50m"      → "50m"    → 50m
+  //   "30cm×50m×3本"  → "50m×3本" → 150m
+  //   "40×60cm 1枚"    → "1枚"    → 1枚
+  //   "18cm / 約1.3L"  → "約1.3L" → 1.3L
+  const withoutDimension = capacity.replace(DIMENSION_TOKEN_RE, ' ');
+  if (withoutDimension !== capacity) {
+    const viaDimension = extractFromLeadingToken(stripLeadingNoise(withoutDimension));
+    if (viaDimension) return viaDimension;
+  }
+
+  // パターン6: "本体＋替刃N個" 型は替刃側を単価の分母にする
+  //   "本体1個＋替刃16個" → 16個 / "替刃8個" → 8個 / "本体+替え24個" → 24個
+  // パターン7（先頭ラベル除去）より前に置く。後ろに置くと "本体1個＋替刃16個" の
+  // 「本体」だけが剥がれて 1個 と誤認する。
+  const refillM = capacity.match(
+    new RegExp(`替(?:刃|え)\\s*(${CAPACITY_NUMBER_PATTERN})\\s*(${BASE_CAPACITY_UNITS})`)
+  );
+  if (refillM) {
+    const total = parseCapacityNumber(refillM[1]);
+    if (total > 0) return { total, unit: refillM[2] };
+  }
+
+  // パターン7: 先頭のラベルを除去して残りを解析する
+  //   "レギュラー 800枚"                    → 800枚
+  //   "スーパーワイド 100枚（25枚×4パック）" → 100枚
+  // 括弧内は内訳であって総量ではないため、ここでは単純パターンのみを使う
+  // （パターン1を再適用すると 25枚 と誤認する）。
+  const labelStripped = capacity.replace(/^[^\d]+/, '').trim();
+  if (labelStripped && labelStripped !== capacity && !isMultiSizeList(labelStripped)) {
+    const simpleM = labelStripped.match(
+      new RegExp(`^(${CAPACITY_NUMBER_PATTERN})\\s*(${BASE_CAPACITY_UNITS})`)
+    );
+    if (simpleM) {
+      const total = parseCapacityNumber(simpleM[1]);
+      if (total > 0) return { total, unit: simpleM[2] };
+    }
+  }
+
   return null;
+}
+
+/**
+ * "144枚/S132枚/M132枚" のようにサイズ違いをスラッシュで並べた表記かを判定する。
+ * この形は総量が1つに定まらず、先頭だけを分母にすると誤った単価になるため解析対象から外す。
+ */
+function isMultiSizeList(s: string): boolean {
+  if (!/[/／]/.test(s)) return false;
+  const quantityRe = new RegExp(`${CAPACITY_NUMBER_PATTERN}\\s*(?:${BASE_CAPACITY_UNITS})`);
+  return s.split(/[/／]/).filter(seg => quantityRe.test(seg)).length >= 2;
+}
+
+/** 寸法除去後に先頭へ残るセパレータ（×・/・空白）と「約」を落とす */
+function stripLeadingNoise(s: string): string {
+  return s
+    .replace(/^[\s/／×xX*＊、,]+/, '')
+    .replace(/^約\s*/, '')
+    .trim();
+}
+
+/**
+ * 文字列先頭の "数値+単位"（＋続く ×N 乗数）を解析する。
+ * パターン2/3と同じ規則を、capacity 全体ではなく任意の部分文字列へ適用するための内部関数。
+ */
+function extractFromLeadingToken(s: string): { total: number; unit: string } | null {
+  const m = s.match(new RegExp(`^(${CAPACITY_NUMBER_PATTERN})\\s*(${BASE_CAPACITY_UNITS})(.*)`));
+  if (!m) return null;
+  const base = parseCapacityNumber(m[1]);
+  if (!(base > 0)) return null;
+  // 括弧内（注釈・内訳）の × は乗数ではないため除外する
+  const restWithoutBrackets = m[3].replace(/[（(][^）)]*[）)]/g, '');
+  const factors = [
+    ...restWithoutBrackets.matchAll(new RegExp(`[${MULTIPLY_RE_CHAR_CLASS}]\\s*([\\d,]+)`, 'g')),
+  ];
+  const multiplier = factors.reduce(
+    (acc, f) => acc * parseInt(f[1].replace(/,/g, ''), 10),
+    1
+  );
+  return { total: base * multiplier, unit: m[2] };
 }
 
 /**
