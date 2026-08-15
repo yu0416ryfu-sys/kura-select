@@ -75,6 +75,12 @@ jobs:
   indexnow:
     needs: deploy
     runs-on: ubuntu-latest
+    # IndexNow は「クロールを早める」ための補助的な通知であって、公開そのものではない。
+    # ここが落ちても deploy は完了しており本番は更新済みなので、run 全体を失敗扱いにしない。
+    # 実例: 2026-08-14 の run #467 は build/deploy とも成功したのに、このジョブに
+    # ホストランナーが割り当てられず run が赤くなった（本番反映は正常だった）。
+    # デプロイの成否を履歴から読み取れなくなるほうが問題なので continue-on-error にする。
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v4
         with:
