@@ -1,10 +1,10 @@
 ---
-title: "ヘアトリートメント おすすめ10選【2026年版】コスパ最強を1g単価比較"
-description: "コスパいいヘアトリートメントを1g・1mLあたりで比較。ダメージケア、詰め替え、サロン系/市販の違いを見ながら、いち髪・ダイアン・ケラスターゼなど10選を整理します。"
+title: "ヘアトリートメント おすすめ9選【2026年版】コスパ最強を1g単価比較"
+description: "コスパいいヘアトリートメントを1g・1mLあたりで比較。ダメージケア、詰め替え、サロン系/市販の違いを見ながら、いち髪・ダイアン・ケラスターゼなど9選を整理します。"
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-08-13"
+updatedAt: "2026-08-15"
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -100,8 +100,8 @@ products:
     price: 2380
     capacity: "180g"
     pricePerUnit: "約13円/g"
-    rating: 4.66
-    reviewCount: 2261
+    rating: 4.65
+    reviewCount: 2262
     features:
       - "12種の植物成分を含む25種以上の植物由来成分配合"
       - "シルク・ココナッツオイル・アルガンオイルなどの保湿成分を配合"
@@ -115,7 +115,7 @@ products:
       - "180gとやや少なめの容量"
     recommendedFor: "成分・無添加にこだわりたい方・植物由来のナチュラルヘアケアを求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b07gkxh2ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000959%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/ctr/905b07gkxh2ss.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/ts/905b07gkxh2ss-20.jpg?_ex=128x128"
   - rank: 5
     name: "クイーンズバスルーム システムトリートメント Step1 Step2 各240g×2"
     brand: "クイーンズバスルーム"
@@ -123,7 +123,7 @@ products:
     capacity: "240g×2"
     pricePerUnit: "約14円/g"
     rating: 4.7
-    reviewCount: 631
+    reviewCount: 632
     features:
       - "Step1とStep2の2剤式で段階的にダメージを補修するシステムトリートメント"
       - "ケラチン・濃厚補修成分配合でハイダメージ・ブリーチ毛にアプローチ"
@@ -167,7 +167,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約22円/mL"
     rating: 4.73
-    reviewCount: 1242
+    reviewCount: 1243
     features:
       - "くせ毛ケアのディシプリンラインのコンディショナータイプ"
       - "髪の広がりを抑えまとまりのある艶やかな仕上がりをもたらす処方"
@@ -237,28 +237,6 @@ products:
     recommendedFor: "カラー・パーマのダメージを集中ケアしたい方・サロン品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F2873936011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10607476%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000343/2873936011.jpg?_ex=128x128"
-  - rank: 10
-    name: "スペシャルトリートメント マスク クロノロジスト"
-    brand: "ケラスターゼ"
-    price: 0
-    capacity: "200mL"
-    pricePerUnit: "0円/mL"
-    rating: 4.78
-    reviewCount: 1243
-    features:
-      - "年齢による髪悩みに対応するインバスヘアマスク"
-      - "潤い・まとまりを重視した処方"
-      - "毛先の切れ毛ケアを意識した設計"
-    pros:
-      - "サロン系ブランドならではの仕上がりを求める人に向く"
-      - "ミニサイズが付属し旅行や持ち運びにも使いやすい"
-      - "ギフト向けの箱入りで贈り物にも使える"
-    cons:
-      - "一般的な市販品に比べて価格は高め"
-      - "毎日の使用よりも週数回のケア向け"
-    recommendedFor: "サロン系ブランドでダメージケアをしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fch-masqc_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/ch-masqc_200/260624-masqc.jpg?_ex=128x128"
 tags:
   - "ヘアトリートメント おすすめ"
   - "ヘアマスク コスパ"

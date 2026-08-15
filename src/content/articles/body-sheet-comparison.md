@@ -4,10 +4,32 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-08-13"
+updatedAt: "2026-08-15"
 draft: false
 products:
   - rank: 1
+    name: "冷爽 COOL ボディシート 30枚×10袋"
+    brand: "ベストプライスショップ"
+    price: 2350
+    capacity: "30枚×10袋（300枚）"
+    pricePerUnit: "約7.8円/枚"
+    rating: 4.67
+    reviewCount: 6
+    features:
+      - "メントール配合の冷感タイプのからだ用シート"
+      - "シトラス系の香りつき"
+      - "小分け袋をまとめた日本製のセット構成"
+    pros:
+      - "まとめ買いしておきたい人が選びやすい構成"
+      - "小分け袋なので通勤や部活に持ち出しやすい"
+      - "夏場のストックとして常備しやすい"
+    cons:
+      - "冷感が強めなので刺激が苦手な人には向かない"
+      - "香りつきのため無香料を探している人には合わない"
+    recommendedFor: "夏のあいだ切らさずに使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rh2yn.3rdw6f5a.g00rh2yn.3rdw7514/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbp-shop%2F20240702%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbp-shop%2Fi%2F10030414%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bp-shop/cabinet/goq013/coolsheet_x10.gif?_ex=128x128"
+  - rank: 2
     name: "ハッピーデオ ボディシート 極冷 シャープミント"
     brand: "マンダム"
     price: 368
@@ -40,7 +62,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4902806127973"
         available: true
-  - rank: 2
+  - rank: 3
     name: "シーブリーズ ボディシート せっけんの香り"
     brand: "資生堂（SEA BREEZE）"
     price: 457
@@ -73,7 +95,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4550516475473"
         available: true
-  - rank: 3
+  - rank: 4
     name: "エージーデオ24 デオドラント ボディシート"
     brand: "資生堂（Ag DEO24）"
     price: 580
@@ -106,7 +128,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/atata12121_deodorantshawarshirt-ag24-kosme-4550516493194-1"
         available: true
-  - rank: 4
+  - rank: 5
     name: "キュレル スキンケアシート"
     brand: "花王（Curel）"
     price: 242
@@ -139,7 +161,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/zagzag_4901301396570-3"
         available: true
-  - rank: 5
+  - rank: 6
     name: "ビオレ 冷シート 無香性"
     brand: "花王（ビオレ）"
     price: 478
@@ -172,7 +194,7 @@ products:
         reviewCount: 8
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301348418"
         available: true
-  - rank: 6
+  - rank: 7
     name: "ビオレ さらさらパウダーシート 無香料"
     brand: "花王（ビオレ）"
     price: 1000
@@ -205,7 +227,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_612-8545-103"
         available: true
-  - rank: 7
+  - rank: 8
     name: "オーガニックコットン アロマ ボディシート フレッシュシトラス"
     brand: "NaturaMoon"
     price: 660
@@ -238,10 +260,10 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ecomarche_100003175"
         available: true
-  - rank: 8
+  - rank: 9
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
-    price: 2096
+    price: 2103
     capacity: "30枚"
     pricePerUnit: "約70円/枚"
     rating: 4.79
@@ -271,7 +293,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902806135947"
         available: true
-  - rank: 9
+  - rank: 10
     name: "リフレッシュボディシート"
     brand: "久光製薬"
     price: 1780
@@ -303,39 +325,6 @@ products:
         rating: 4.2
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188322109"
-        available: true
-  - rank: 10
-    name: "フレグランスシート ミント&レモン"
-    brand: "生活の木"
-    price: 0
-    capacity: "10枚"
-    pricePerUnit: "0円/枚"
-    rating: 4.54
-    reviewCount: 24
-    features:
-      - "エッセンシャルオイルを使用した冷感タイプ"
-      - "厚手でボディタオルとしても使える設計"
-      - "夏向けの香り展開"
-    pros:
-      - "冷感とアロマの香りを同時に楽しめる"
-      - "厚手で拭き心地がしっかりしている"
-      - "まとめ買い用のセットが選べる"
-    cons:
-      - "香りが強めで無香タイプを好む人には不向き"
-      - "季節限定商品のため入手時期が限られやすい"
-    recommendedFor: "冷感とアロマの香りを両方楽しみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u2kdn.3rdw6561.g00u2kdn.3rdw7ca7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftreeoflife-official%2F082112060%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftreeoflife-official%2Fi%2F10001377%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/treeoflife-official/cabinet/seasonal/mint_lemon/imgrc0211577356.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftreeoflife-official%2F082112060.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-09"
-        price: 440
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/treeoflife-official_082112060"
         available: true
 tags:
   - "汗拭きシート おすすめ"

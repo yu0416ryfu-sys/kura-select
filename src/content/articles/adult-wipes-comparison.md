@@ -4,7 +4,7 @@ description: "介護用・大人用おしりふきのおすすめ9選を1枚あ�
 category: "adult-wipes"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-15"
 draft: false
 products:
   - rank: 1
@@ -186,9 +186,9 @@ products:
   - rank: 9
     name: "おしりふき Pro やわらか厚手 超大判 30枚×12袋"
     brand: "ライフリー"
-    price: 0
+    price: 4900
     capacity: "30枚×12袋（360枚）"
-    pricePerUnit: "0円/枚"
+    pricePerUnit: "約14円/枚"
     rating: 5
     reviewCount: 3
     features:

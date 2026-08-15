@@ -294,6 +294,9 @@ export function extractProductRakutenUrl(content: string, productName: string): 
 // src/lib/capacity.ts から import 済み（上部参照）。
 const SALES_QUANTITY_UNITS = '枚|個|本|袋|セット|パック|箱|ケース';
 const MEASURE_UNITS = 'mL|ml|L|g|kg';
+// 1個あたりの分量で数える剤形の単位。"2.8g×90錠" の 2.8g は総量ではなく
+// 1錠あたりの重量なので、この単位が続く場合は先頭の重量表記を捨てる。
+const DOSAGE_UNITS = '錠|粒|包|カプセル';
 // 組数選択型の列挙検出に使う単位（既存 SALES_QUANTITY_UNITS + ロール/組）
 const VARIANT_ENUM_UNITS = '枚|個|本|袋|セット|パック|箱|ケース|ロール|組';
 // 列挙区切り（半角/全角カンマ・読点・スラッシュ・中黒）
@@ -457,6 +460,21 @@ function collapseRedundantPackBreakdown(chain: string): string {
   if (parsed.some(p => p === null)) return chain;
   const tokens = parsed as { num: number; unit: string; raw: string }[];
   const packUnitRe = new RegExp(`^(${PACK_UNITS})$`);
+
+  // 先頭自体が集合単位で、後続がその内訳になっているケースは内訳を落として総数だけ返す。
+  // 例: "60箱×5箱×12パック"（"60箱 (5箱×12パック)" 由来）→ "60箱"
+  // 括弧付きで残すと extractCapacityTotal のパターン4が括弧内の × を乗数として
+  // 拾ってしまう（60×12=720箱）ため、ここで内訳ごと捨てる。
+  if (packUnitRe.test(tokens[0].unit)) {
+    const rest = tokens.slice(1);
+    if (
+      rest.every(t => packUnitRe.test(t.unit)) &&
+      rest.reduce((acc, t) => acc * t.num, 1) === tokens[0].num
+    ) {
+      return tokens[0].raw;
+    }
+  }
+
   for (let i = 1; i < tokens.length - 1; i++) {
     if (!packUnitRe.test(tokens[i].unit)) continue;
     const rest = tokens.slice(i + 1);
@@ -471,8 +489,42 @@ function collapseRedundantPackBreakdown(chain: string): string {
   return chain;
 }
 
+// 楽天商品名の先頭に付く販促枠。容量ではない数量（"【送料無料・2個セット】"
+// "【パッケージリニューアル 6箱 本州送料無料】"）を含み、本体の容量表記より先に
+// マッチして抽出を誤らせるため、容量抽出の前に取り除く。
+// 販促語を含む枠だけを対象にし、"【3g×30】" のような容量そのものの枠は残す。
+const PROMO_BRACKET_RE =
+  /【[^】]*(?:送料無料|ポイント|PT\d|倍|クーポン|セール|割引|最安|リニューアル|限定|あす楽|即納|在庫|まとめ買い|お得|SALE|新生活|訳あり)[^】]*】/gi;
+
+// 販促枠であっても、中に "36枚 ×6個" のような数量の乗算チェーンがある場合は
+// そこが唯一の総量表記であることがある（例: "【送料込・まとめ買い36枚 ×6個セット】…36枚"）。
+// 除去すると総量を取りこぼして単価が過大になるため、この形だけは残す。
+function promoBracketHoldsQuantityChain(bracket: string): boolean {
+  const qty = `${CAPACITY_NUMBER_PATTERN}\\s*(?:${CAPACITY_UNITS}|${PACK_UNITS})`;
+  return new RegExp(`${qty}\\s*[${MULTIPLY_RE_CHAR_CLASS}]\\s*${qty}`).test(bracket);
+}
+
 function normalizeItemNameForCapacityExtraction(itemName: string): string {
   let normalized = normalizeItemName(itemName);
+
+  // 販促枠を除去する。日付やポイント倍率が容量として拾われるのを防ぐ
+  // （"【5月15日限定…】" の "15日" が 円/日 の容量になっていた）。
+  // "【送料無料・2個セット】…2.8g×90錠×2個セット" が先頭の "2個" を
+  // 総量と取り違える問題も同時に解消する。
+  normalized = normalized.replace(PROMO_BRACKET_RE, m =>
+    promoBracketHoldsQuantityChain(m) ? m : ' '
+  );
+
+  // "2.8g×90錠" の先頭は1錠あたりの重量。総量は錠数側なので重量表記を落とす
+  // （残すと 2.8×90×2=504g という実在しない総重量になり、記事の「錠」と単位も食い違う）。
+  // 剤形単位が続く場合に限るため "3.8L×3本" のような実容量は影響を受けない。
+  normalized = normalized.replace(
+    new RegExp(
+      `(${CAPACITY_NUMBER_PATTERN})\\s*(?:${MEASURE_UNITS})\\s*[${MULTIPLY_RE_CHAR_CLASS}]\\s*(?=\\d[\\d,]*\\s*(?:${DOSAGE_UNITS}))`,
+      'gi'
+    ),
+    ''
+  );
 
   // 商品型番・サイズ表記は単価計算用の容量ではない。
   normalized = normalized
@@ -685,11 +737,13 @@ export function extractCapacityFromItemName(itemName: string): string | null {
     // パターン1f: "のN個[セット/パック]" またはスペース+"N個[セット/パック]" の販売数量乗算
     // × 記号なしでスペースや「の」で区切られる Yahoo 商品名に対応
     // 例: "52枚の4個セット" → "52枚×4個"  "400mL 3個セット" → "400mL×3個"
-    const koSetRe = /^\s*(?:の\s*)?(\d[\d,]*)\s*個(?:セット|パック)?/;
+    // 「の」または「セット/パック」を必須にする。どちらも無い単なる並記
+    //（"大容量 80個 90個" のようなサイズ選択）を乗算と誤認しないため。
+    const koSetRe = /^\s*(の)?\s*(\d[\d,]*)\s*個(セット|パック)?/;
     const koSetM = remaining.match(koSetRe);
-    if (koSetM) {
-      const qty = parseInt(koSetM[1].replace(/,/g, ''), 10);
-      if (qty > 1) return `${result}×${koSetM[1]}個`;
+    if (koSetM && (koSetM[1] || koSetM[3])) {
+      const qty = parseInt(koSetM[2].replace(/,/g, ''), 10);
+      if (qty > 1) return `${result}×${koSetM[2]}個`;
     }
   }
 
@@ -699,6 +753,26 @@ export function extractCapacityFromItemName(itemName: string): string | null {
   const spaceMulM = itemName.match(spaceMulRe);
   if (spaceMulM && parseInt(spaceMulM[3].replace(/,/g, ''), 10) > 1) {
     return `${spaceMulM[1]}${spaceMulM[2]}×${spaceMulM[3]}${spaceMulM[4]}`;
+  }
+
+  // パターン1g: "N単位入 M袋/箱/個" 形式の販売数量
+  // 「入」を挟むため乗算チェーン（パターン1）にもスペース区切り（パターン1c）にも
+  // 拾われず、入数だけを返して総量を取りこぼしていた。
+  //   "30枚入 12袋"        → 30枚×12袋
+  //   "150個入り 3袋セット"  → 150個×3袋
+  //   "30錠入(3g×30) 3箱"  → 30錠×3箱   （括弧の内訳注釈は読み飛ばす）
+  //   "15枚入*3袋セット"     → 15枚×3袋
+  // 「入」は必須にする。省略可にすると "80個 90個" のような
+  // サイズ選択の並記を乗算と誤認する（ネピア ソフトパックで実際に踏んだ）。
+  const enteredPackRe = new RegExp(
+    `(${CAPACITY_NUMBER_PATTERN})\\s*(${CAPACITY_UNITS})\\s*入り?` +
+      `\\s*(?:[（(][^）)]*[）)])?` +
+      `\\s*[${MULTIPLY_RE_CHAR_CLASS}]?\\s*` +
+      `(\\d[\\d,]*)\\s*(${PACK_UNITS}|袋|個)`
+  );
+  const enteredPackM = itemName.match(enteredPackRe);
+  if (enteredPackM && parseInt(enteredPackM[3].replace(/,/g, ''), 10) > 1) {
+    return `${enteredPackM[1]}${enteredPackM[2]}×${enteredPackM[3]}${enteredPackM[4]}`;
   }
 
   // パターン2: 括弧内総量 "（2,880枚）"
