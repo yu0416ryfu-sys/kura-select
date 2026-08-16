@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: "2026-08-13"
+updatedAt: "2026-08-16"
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "1本（4色ボールペン+シャープペンシル）"
     pricePerUnit: "約1000円/本"
     rating: 4.78
-    reviewCount: 13563
+    reviewCount: 13565
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"
@@ -67,7 +67,7 @@ products:
     capacity: "1本（4色ボールペン+シャープペンシル、0.5mm）"
     pricePerUnit: "約1980円/本"
     rating: 4.74
-    reviewCount: 715
+    reviewCount: 716
     features:
       - "限定カラー展開の4色ボールペン＋シャープ0.5mmの多機能タイプ（MSXE5-1000-05）"
       - "名前刻印サービス付きで卒団・卒業祝いなどの特別な記念品に対応"
@@ -230,7 +230,7 @@ products:
     capacity: "-"
     pricePerUnit: "-"
     rating: 4.8
-    reviewCount: 289
+    reviewCount: 290
     features:
       - "ビンテージカラーのおしゃれなデザインで日常使いからギフトまで対応"
       - "0.5mm・0.3mm選択可能なゲルインク採用"

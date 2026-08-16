@@ -4,14 +4,14 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-13"
+updatedAt: "2026-08-16"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
     brand: "花王（ワイドハイター）"
-    price: 198
+    price: 278
     capacity: "720ml"
-    pricePerUnit: "約0.28円/ml"
+    pricePerUnit: "約0.39円/ml"
     rating: 4.65
     reviewCount: 85
     features:
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301745910-73-30000846.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-16"
         price: 210
         rating: 4.8
         reviewCount: 15
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F574939.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-16"
         price: 3960
         rating: 0
         reviewCount: 0
@@ -101,7 +101,7 @@ products:
     capacity: "300ml×3個（900ml）"
     pricePerUnit: "約0.95円/ml"
     rating: 4.6
-    reviewCount: 77
+    reviewCount: 78
     features:
       - "泡で直接塗布する部分用の衣料用漂白剤"
       - "襟袖や食べこぼしなど局所の汚れを想定した設計"
@@ -116,6 +116,17 @@ products:
     recommendedFor: "襟袖汚れや部分的なシミが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F34562%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10843139%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/562/34562.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F34562.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 996
+        rating: 4.5
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_34562"
+        available: true
   - rank: 5
     name: "ワイドハイター PRO 抗菌リキッド 詰め替え 450ml×6袋"
     brand: "花王（ワイドハイター）"
@@ -123,7 +134,7 @@ products:
     capacity: "450ml×6袋（2700ml）"
     pricePerUnit: "約1.1円/ml"
     rating: 4.82
-    reviewCount: 227
+    reviewCount: 229
     features:
       - "抗菌成分を配合した液体タイプの酸素系漂白剤"
       - "部屋干し時の菌のケアを想定した処方"
@@ -143,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7288392.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-16"
         price: 3170
         rating: 4.83
         reviewCount: 12
@@ -176,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4978951060458.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-16"
         price: 991
         rating: 0
         reviewCount: 0
@@ -211,7 +222,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.75円/g"
     rating: 4.64
-    reviewCount: 1430
+    reviewCount: 1431
     features:
       - "酸素系漂白剤の代名詞的ブランド"
       - "衣類・洗濯槽・キッチン・風呂と多用途"
@@ -262,13 +273,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbrisk-online%2F20251012202814-00489.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1156.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-09"
-        price: 3047
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/brisk-online_20251012202814-00489"
+        updatedAt: "2026-08-16"
+        price: 2950
+        rating: 4.57
+        reviewCount: 37
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1156"
         available: true
   - rank: 10
     name: "パックス 酸素系漂白剤 詰替用 500g"
@@ -297,7 +308,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmebox%2Fj4904735053064f.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-16"
         price: 538
         rating: 0
         reviewCount: 1

@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-16"
 draft: false
 products:
   - rank: 1
@@ -213,7 +213,7 @@ products:
     capacity: "2枚"
     pricePerUnit: "約795円/枚"
     rating: 4.4
-    reviewCount: 501
+    reviewCount: 502
     features:
       - "バイオ酵素配合でカビの発生を抑制する設計"
       - "粘着シール付きでフレームなしで装着可能"
@@ -250,12 +250,23 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rj5an.3rdw68b2.g00rj5an.3rdw7575/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstellamarksmarket%2Faqg1-01-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstellamarksmarket%2Fi%2F10000576%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/stellamarksmarket/cabinet/green/air_quest_green_38_2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdouguyasan%2Fp5-tasco-ta981ag-2.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 2805
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/douguyasan_p5-tasco-ta981ag-2"
+        available: true
   - rank: 10
     name: "CleAirWin エアコンフィルター家庭用 抗菌 抗ウイルス 400×800mm"
     brand: "空気の王様"
     price: 4510
     capacity: "400×800mm 1枚"
-    pricePerUnit: "0円/枚"
+    pricePerUnit: "約4510円/枚"
     rating: 4.66
     reviewCount: 64
     features:

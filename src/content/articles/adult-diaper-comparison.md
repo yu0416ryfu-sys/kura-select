@@ -4,7 +4,7 @@ description: "大人用紙おむつ・尿とりパッドのおすすめ10選を1
 category: "adult-diaper"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-16"
 products:
   - rank: 1
     name: "ひまわり にっこり緑茶パッド 2回吸収 300枚"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F10004173.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-16"
         price: 7260
         rating: 4.77
         reviewCount: 94
@@ -61,6 +61,17 @@ products:
     recommendedFor: "自分で動ける方の日中使いに"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ue6gn.3rdw6103.g00ue6gn.3rdw7372/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fxins-honatsugi%2F200000024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fxins-honatsugi%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/xins-honatsugi/cabinet/09646369/10810477/imgrc0098999923.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkomamono%2Fxins-rps4t-l20-6.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 10004
+        rating: 5
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/komamono_xins-rps4t-l20-6"
+        available: true
   - rank: 3
     name: "サルバ Rパッド"
     brand: "サルバ"
@@ -121,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00170.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-16"
         price: 7392
         rating: 4.5
         reviewCount: 101
@@ -154,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5817.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-16"
         price: 6270
         rating: 4.51
         reviewCount: 79
@@ -167,7 +178,7 @@ products:
     capacity: "66枚"
     pricePerUnit: "約66円/枚"
     rating: 4.76
-    reviewCount: 701
+    reviewCount: 702
     features:
       - "夜間の長時間使用を想定したパッド"
       - "多めの吸収量に対応する厚手設計"

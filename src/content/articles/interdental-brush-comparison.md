@@ -4,7 +4,7 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-13"
+updatedAt: "2026-08-16"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 1099
     capacity: "30本×4個"
     pricePerUnit: "約9.2円/本"
-    rating: 4.79
-    reviewCount: 325
+    rating: 4.8
+    reviewCount: 328
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -267,7 +267,7 @@ products:
     capacity: "2m×6個"
     pricePerUnit: "約192円/m"
     rating: 4.68
-    reviewCount: 468
+    reviewCount: 469
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

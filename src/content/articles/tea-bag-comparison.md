@@ -4,7 +4,7 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-08-13"
+updatedAt: "2026-08-16"
 draft: false
 products:
   - rank: 1
@@ -231,13 +231,14 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fa-life%2Ft3ab-2274329.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-01"
         price: 9322
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/a-life_t3ab-2274329"
-        available: true
+        available: false
+        matchNotes: "capacity不一致: capacity不一致"
   - rank: 10
     name: "国産はとむぎ茶"
     brand: "ティーライフ"

@@ -4,7 +4,7 @@ description: "衣類・布用消臭スプレーを1プッシュあたりのコ�
 category: "sanitizing-spray"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-16"
 products:
   - rank: 1
     name: "リセッシュ 除菌EX デオドラントパワー 香りが残らないタイプ 本体 360mL"
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseiketu-online%2Fnew-frais-natula-350-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-08-16"
         price: 3630
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seiketu-online_new-frais-natula-350-set"
         available: true
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foasismse%2F342501-500.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-16"
         price: 2772
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oasismse_342501-500"
         available: true
@@ -219,13 +219,14 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcselect%2Fsourif-500-1000-set.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-09"
         price: 3200
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cselect_sourif-500-1000-set"
-        available: true
+        available: false
         rating: 0
         reviewCount: 0
+        matchNotes: "capacity不一致: capacity不一致"
   - rank: 8
     name: "A2Care 除菌消臭スプレー 300mL"
     brand: "A2Care"
@@ -233,7 +234,7 @@ products:
     capacity: "300mL（約600回分）"
     pricePerUnit: "約8.0円/mL"
     rating: 4.49
-    reviewCount: 451
+    reviewCount: 452
     features:
       - "ANA国際線ファーストクラスで採用実績"
       - "MA-T（二酸化塩素系）で強力除菌"
@@ -266,7 +267,7 @@ products:
     capacity: "20mL"
     pricePerUnit: "約28円/mL"
     rating: 4.26
-    reviewCount: 946
+    reviewCount: 945
     features:
       - "100%植物由来成分使用の日本製処方"
       - "無臭タイプでスーツやマスクにも使いやすい"

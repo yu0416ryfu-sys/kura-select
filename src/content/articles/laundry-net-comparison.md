@@ -4,7 +4,7 @@ description: "洗濯ネットおすすめ10選をコスパ・用途別に比較�
 category: "laundry-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-07-15"
+updatedAt: "2026-08-16"
 draft: false
 products:
   - rank: 1
@@ -189,8 +189,8 @@ products:
     price: 1100
     capacity: "1枚（50cm）"
     pricePerUnit: "約1100円/枚"
-    rating: 4.26
-    reviewCount: 68
+    rating: 4.22
+    reviewCount: 69
     features:
       - "膨らみやすい構造で毛布・タオルケットなど大物にフィット"
       - "乾燥機対応設計でそのまま乾燥まで使用可能"

@@ -4,7 +4,7 @@ description: "ジェルボール洗剤を1個あたりのコストで徹底比�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-13"
+updatedAt: "2026-08-16"
 products:
   - rank: 1
     name: "ファーファ ベビーフローラル"
@@ -189,7 +189,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約8.0円/g"
     rating: 4.68
-    reviewCount: 561
+    reviewCount: 562
     features:
       - "スーツ・コート・ダウン・ニット・カシミアに対応するドライ洗剤"
       - "無香料設計で素材への影響を最小化"
@@ -277,7 +277,7 @@ products:
     capacity: "500ml"
     pricePerUnit: "約7.5円/ml"
     rating: 4.54
-    reviewCount: 272
+    reviewCount: 273
     features:
       - "メイクブラシ専用の液体クリーニング洗剤"
       - "天然由来成分配合でブラシの毛並みを傷めない設計"

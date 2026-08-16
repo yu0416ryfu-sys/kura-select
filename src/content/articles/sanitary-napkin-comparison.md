@@ -4,7 +4,7 @@ description: "生理用ナプキンを1枚あたりのコストで徹底比較�
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-16"
 products:
   - rank: 1
     name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20.5cm"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F600587.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-16"
         price: 2183
         rating: 0
         reviewCount: 0
@@ -61,7 +61,51 @@ products:
     recommendedFor: "昼間の量が多い日に肌あたりを重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fx480680h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10231858%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/407/4903111363407.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4903111363407.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 499
+        rating: 3.75
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4903111363407"
+        available: true
   - rank: 3
+    name: "ソフィ はだおもい オーガニックコットン 特に多い昼用 230 羽つき 15枚入*3袋セット"
+    brand: "ユニ・チャーム（ソフィ）"
+    price: 1643
+    capacity: "15枚×3"
+    pricePerUnit: "約37円/枚"
+    rating: 4.8
+    reviewCount: 55
+    features:
+      - "表面材にオーガニックコットンを使用"
+      - "230mm の昼用サイズで羽つき"
+      - "3袋セットのまとめ買い構成"
+    pros:
+      - "肌に触れる面の素材を重視して選べる"
+      - "同シリーズの通常タイプと比較しやすい"
+      - "まとめ買い構成でストックを確保しやすい"
+    cons:
+      - "通常タイプに比べて価格帯は高め"
+      - "昼用サイズのため夜間には別途必要"
+    recommendedFor: "肌あたりと素材を優先しつつ昼用をまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F62688%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10888547%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/688/62688.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F62688.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 1643
+        rating: 4.67
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_62688"
+        available: true
+  - rank: 4
     name: "ソフィ はだおもい 多い夜用 羽つき 29cm 10枚入"
     brand: "ユニ・チャーム（ソフィ）"
     price: 614
@@ -83,7 +127,18 @@ products:
     recommendedFor: "夜間のモレが気になる方・同シリーズで揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fx480690h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10231859%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/582/4903111363582.jpg?_ex=128x128"
-  - rank: 4
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4903111363582.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 614
+        rating: 4.17
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4903111363582"
+        available: true
+  - rank: 5
     name: "エリス 朝まで超安心 クリニクス 量が心配な人用 羽つき 40cm 10枚入*3袋セット"
     brand: "大王製紙（エリス）"
     price: 1900
@@ -105,7 +160,18 @@ products:
     recommendedFor: "夜間の量が特に多くまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F20497%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10674468%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/497/20497.jpg?_ex=128x128"
-  - rank: 5
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F20497.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 1933
+        rating: 4.88
+        reviewCount: 17
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_20497"
+        available: true
+  - rank: 6
     name: "エリス 朝まで超安心 クリニクス 量が心配な人用 羽つき 40cm 10枚入"
     brand: "大王製紙（エリス）"
     price: 649
@@ -127,7 +193,18 @@ products:
     recommendedFor: "40cm タイプを少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe476150h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10572650%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/349/4902011881349.jpg?_ex=128x128"
-  - rank: 6
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffinespharma%2F4902011881349.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 539
+        rating: 4.86
+        reviewCount: 21
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/finespharma_4902011881349"
+        available: true
+  - rank: 7
     name: "ナチュラムーン 生理用ナプキン 普通の日用 羽なし 24個入"
     brand: "ナチュラムーン"
     price: 583
@@ -154,13 +231,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhappy-natural%2F018004000003.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-16"
         price: 3890
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/happy-natural_018004000003"
         available: true
-  - rank: 7
+  - rank: 8
     name: "ロリエ スリムガード 特に多い昼用 羽つき 19個入"
     brand: "花王（ロリエ）"
     price: 581
@@ -193,7 +270,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/drmart-1_cm-516393"
         available: true
-  - rank: 8
+  - rank: 9
     name: "シシフィーユ ナプキン 23.5cm 多い日用 20個入"
     brand: "シシフィーユ"
     price: 825
@@ -215,7 +292,18 @@ products:
     recommendedFor: "肌に触れる素材を重視して選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Fs0370001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10016608%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/00225556/04823296/imgrc0125609710.jpg?_ex=128x128"
-  - rank: 9
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fs0370008.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 825
+        rating: 4.74
+        reviewCount: 19
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_s0370008"
+        available: true
+  - rank: 10
     name: "ロリエ スリムガード 特に多い夜用 羽つき 13個入"
     brand: "花王（ロリエ）"
     price: 581
@@ -237,28 +325,6 @@ products:
     recommendedFor: "夜用でも薄さを重視したい方・無香料を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000945%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10122692%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/992/4901301264992.jpg?_ex=128x128"
-  - rank: 10
-    name: "ソフィ はだおもい オーガニックコットン 特に多い昼用 230 羽つき 15枚入*3袋セット"
-    brand: "ユニ・チャーム（ソフィ）"
-    price: 0
-    capacity: "15枚×3"
-    pricePerUnit: "0円/枚"
-    rating: 4.8
-    reviewCount: 55
-    features:
-      - "表面材にオーガニックコットンを使用"
-      - "230mm の昼用サイズで羽つき"
-      - "3袋セットのまとめ買い構成"
-    pros:
-      - "肌に触れる面の素材を重視して選べる"
-      - "同シリーズの通常タイプと比較しやすい"
-      - "まとめ買い構成でストックを確保しやすい"
-    cons:
-      - "通常タイプに比べて価格帯は高め"
-      - "昼用サイズのため夜間には別途必要"
-    recommendedFor: "肌あたりと素材を優先しつつ昼用をまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F62688%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10888547%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/688/62688.jpg?_ex=128x128"
 tags:
   - "ナプキン おすすめ"
   - "生理用品 コスパ"

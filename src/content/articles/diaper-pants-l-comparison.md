@@ -4,7 +4,7 @@ description: "パンツ型おむつのLサイズおすすめ5選を1枚あたり
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-08-14"
+updatedAt: "2026-08-16"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,17 @@ products:
     recommendedFor: "Lサイズ帯でまとめ買いを前提にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4901301425942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10035050%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/11147956/11928062/4901301443519rr.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F67491.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 5580
+        rating: 5
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_67491"
+        available: true
   - rank: 2
     name: "パンパース パンツ さらさらケアEX Lサイズ"
     brand: "P&G（パンパース）"
@@ -73,6 +84,17 @@ products:
     recommendedFor: "きょうだいで兼用したい、汗が気になるLサイズ帯のお子さん"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F101046%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10002326%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/moonyman/sukkiri/101046.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshiningstore-next%2Fauc-no-42564-004.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 9533
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shiningstore-next_auc-no-42564-004"
+        available: true
   - rank: 4
     name: "メリーズ パンツ ファーストプレミアム Lサイズ"
     brand: "花王（メリーズ）"
@@ -95,6 +117,17 @@ products:
     recommendedFor: "肌のやわらかさを優先して少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301396556%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10018747%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/556/4901301396556.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901301396556.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 1590
+        rating: 5
+        reviewCount: 5
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901301396556"
+        available: true
   - rank: 5
     name: "パンパース パンツ さらさらケア スーパージャンボ Lサイズ"
     brand: "P&G（パンパース）"
@@ -117,6 +150,17 @@ products:
     recommendedFor: "まずは1袋でブランドを試したいLサイズ帯の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10031225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10031225%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/syohin100/10031225.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2873471017.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 6811
+        rating: 5
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2873471017"
+        available: true
 tags:
   - "パンツ型おむつ おすすめ"
   - "パンツ型おむつ コスパ"

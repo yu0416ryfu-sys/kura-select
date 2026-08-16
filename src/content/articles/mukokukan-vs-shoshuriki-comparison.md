@@ -32,13 +32,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4987072098912-73-30001387.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987072094686-3.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-09"
-        price: 1030
+        updatedAt: "2026-08-16"
+        price: 5577
         rating: 0
-        reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4987072098912-73-30001387"
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4987072094686-3"
         available: true
   - rank: 2
     name: "消臭力 イオン消臭プラス 消臭ビーズ 詰め替え 無香料 1.5kg"
@@ -65,13 +65,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901070128044.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10126018.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-09"
-        price: 912
-        rating: 4
-        reviewCount: 3
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901070128044"
+        updatedAt: "2026-08-16"
+        price: 798
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10126018"
         available: true
   - rank: 3
     name: "無香空間 本体 315g"
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072098813.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-16"
         price: 350
         rating: 0
         reviewCount: 0

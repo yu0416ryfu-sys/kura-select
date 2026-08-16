@@ -4,7 +4,7 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-14"
+updatedAt: "2026-08-16"
 products:
   - rank: 1
     name: "グーンプラス 肌の贅沢 テープ BIGサイズ"

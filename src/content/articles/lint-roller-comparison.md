@@ -4,7 +4,7 @@ description: "粘着クリーナー（コロコロ）を1巻あたりのコス�
 category: "lint-roller"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-06"
+updatedAt: "2026-08-16"
 products:
   - rank: 1
     name: "粘着クリーナー スペアテープ 粘着王 お得な3巻入"
@@ -163,14 +163,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4904140583538.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-09"
-        price: 690
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4904140583538"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F2649654.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 3630
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_2649654"
         available: true
-        rating: 4.8
-        reviewCount: 5
+        rating: 0
+        reviewCount: 1
   - rank: 7
     name: "b2c カーペットクリーナー"
     brand: "sarasa design"
@@ -194,6 +194,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1osn.3rdw6db5.g00r1osn.3rdw76c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarasa-designstore%2Fcr001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarasa-designstore%2Fi%2F10000901%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sarasa-designstore/cabinet/c01/cr001-cr002.jpg?_ex=128x128"
   - rank: 8
+    name: "アイム ミラクルくる 替えテープ 抗菌加工"
+    brand: "アイム"
+    price: 4300
+    capacity: "70周×8袋"
+    pricePerUnit: "約7.7円/周"
+    rating: 4.67
+    reviewCount: 36
+    features:
+      - "カーペットや衣類のホコリ取りに使える"
+      - "本体または替えテープとして選べる"
+      - "日常掃除に取り入れやすい"
+    pros:
+      - "手軽に掃除できる"
+      - "ペット毛や髪の毛対策に向く"
+      - "ストックしやすい"
+    cons:
+      - "対応サイズの確認が必要"
+      - "床材によって使い分けが必要"
+    recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0k0n.3rdw6b8e.g00u0k0n.3rdw7ca2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimximx%2F4978406022581-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimximx%2Fi%2F10000028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/imximx/cabinet/compass1726811766.jpg?_ex=128x128"
+  - rank: 9
     name: "LIFELEX 伸縮タイプ 粘着クリーナー"
     brand: "LIFELEX"
     price: 1990
@@ -215,7 +237,7 @@ products:
     recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u7mtn.3rdw60c8.g00u7mtn.3rdw7b25/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhihirose%2F090102024522831996070%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhihirose%2Fi%2F10015591%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hihirose/cabinet/11747284/4522831996070_01.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "アイリスオーヤマ 粘着クリーナー スペアテープ 90巻入り"
     brand: "アイリスオーヤマ"
     price: 820
@@ -237,28 +259,6 @@ products:
     recommendedFor: "コスパ最優先の方・大容量のまとめ買い派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F528254%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10018584%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/web06/e-net_299166.jpg?_ex=128x128"
-  - rank: 10
-    name: "アイム ミラクルくる 替えテープ 抗菌加工"
-    brand: "アイム"
-    price: 4300
-    capacity: "70周×8袋"
-    pricePerUnit: "要更新"
-    rating: 4.67
-    reviewCount: 36
-    features:
-      - "カーペットや衣類のホコリ取りに使える"
-      - "本体または替えテープとして選べる"
-      - "日常掃除に取り入れやすい"
-    pros:
-      - "手軽に掃除できる"
-      - "ペット毛や髪の毛対策に向く"
-      - "ストックしやすい"
-    cons:
-      - "対応サイズの確認が必要"
-      - "床材によって使い分けが必要"
-    recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0k0n.3rdw6b8e.g00u0k0n.3rdw7ca2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimximx%2F4978406022581-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimximx%2Fi%2F10000028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/imximx/cabinet/compass1726811766.jpg?_ex=128x128"
 tags:
   - "コロコロ おすすめ"
   - "粘着クリーナー コスパ"

@@ -4,7 +4,7 @@ description: "パンツ型おむつのMサイズを1枚あたりの価格で比�
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-08-14"
+updatedAt: "2026-08-16"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,17 @@ products:
     recommendedFor: "Mサイズ帯でまとめ買いを前提にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4901301422057%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10035049%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/11147956/11147958/4901301443502-2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Freonstyle%2Fa4901301422057.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 5180
+        rating: 4.83
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/reonstyle_a4901301422057"
+        available: true
   - rank: 2
     name: "ムーニーマン パンツ Mサイズ"
     brand: "ユニ・チャーム"

@@ -4,7 +4,7 @@ description: "デンタルフロスを1回あたりのコストで比較した�
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-08-13"
+updatedAt: "2026-08-16"
 products:
   - rank: 1
     name: "GUM デンタルフロス 550m"
@@ -266,13 +266,14 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitem-for-life%2Ffluorfloss-45-02.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-05"
         price: 1580
         rating: 4.71
         reviewCount: 14
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/item-for-life_fluorfloss-45-02"
-        available: true
+        available: false
+        matchNotes: "capacity不一致: capacity不一致"
 tags:
   - "デンタルフロス おすすめ"
   - "歯間ブラシ コスパ"

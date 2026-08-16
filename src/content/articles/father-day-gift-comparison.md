@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4955287917984.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-04"
+        updatedAt: "2026-08-16"
         price: 3780
         rating: 0
         reviewCount: 0
@@ -214,6 +214,17 @@ products:
     rating: 5
     reviewCount: 1
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cavatina/cabinet/ralph-01/ralph-01/ralph-117.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fstore-goods%2Fab-80003.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-16"
+        price: 4980
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/store-goods_ab-80003"
+        available: true
   - rank: 10
     name: "名前入りタンブラーとハンディビアサーバーセット"
     brand: "名入れギフトJORIO"

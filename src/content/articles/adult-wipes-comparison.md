@@ -4,7 +4,7 @@ description: "介護用・大人用おしりふきのおすすめ9選を1枚あ�
 category: "adult-wipes"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-08-15"
+updatedAt: "2026-08-16"
 draft: false
 products:
   - rank: 1

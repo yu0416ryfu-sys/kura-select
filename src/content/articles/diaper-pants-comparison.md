@@ -4,7 +4,7 @@ description: "夜用パンツタイプのおむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-14"
+updatedAt: "2026-08-16"
 products:
   - rank: 1
     name: "オヤスミマン 男の子 ビッグ以上 夜用"
