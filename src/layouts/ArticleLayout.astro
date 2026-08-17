@@ -309,6 +309,27 @@ const productJsonLds = products
               </time>
             )}
           </div>
+
+          <!-- 著者バイライン: JSON-LD の author と対になる人間向け表示（E-E-A-T） -->
+          <div class="mt-4 flex items-center gap-3 border-t border-[var(--color-border)] pt-4">
+            <img
+              src={url("/images/profile-64.webp")}
+              alt=""
+              width="32"
+              height="32"
+              loading="lazy"
+              decoding="async"
+              class="h-8 w-8 shrink-0 rounded-full object-cover"
+            />
+            <p class="text-xs leading-relaxed text-[var(--color-text-sub)]">
+              執筆・更新:
+              <a
+                href={url("/about")}
+                class="font-medium text-[var(--color-text)] underline underline-offset-2 hover:text-[var(--color-primary)]"
+              >ゆきんこ</a>（30代・専業主婦／個人運営）
+              <span class="block">単位あたり価格で日用品を比較しています。</span>
+            </p>
+          </div>
         </header>
 
         <!-- セール期間バナー（PUBLIC_SALE_ACTIVE=true のときのみ表示） -->

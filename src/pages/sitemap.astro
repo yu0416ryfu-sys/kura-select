@@ -1,0 +1,113 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Container from "../components/layout/Container.astro";
+import { getCollection } from "astro:content";
+import { url } from "../lib/site";
+import type { CollectionEntry } from "astro:content";
+
+type ArticleEntry = CollectionEntry<"articles">;
+
+const categories = await getCollection("categories");
+const categoryById = new Map(categories.map((cat) => [cat.id, cat.data]));
+
+const articles = (await getCollection("articles")).filter((article) => !article.data.draft);
+
+const getDisplayDate = (article: ArticleEntry) => article.data.updatedAt ?? article.data.publishedAt;
+
+// カテゴリ単位にまとめる。カテゴリページ自体へはリンクしない:
+// 記事1本以下のカテゴリ67枚は noindex 済みで、ここからリンクを張ると
+// トップのタイルを18件に絞った意図（薄いページへの導線を減らす）を打ち消すため。
+const byCategory = new Map<string, ArticleEntry[]>();
+for (const article of articles) {
+  const key = article.data.category.id;
+  const list = byCategory.get(key);
+  if (list) list.push(article);
+  else byCategory.set(key, [article]);
+}
+
+const groups = [...byCategory]
+  .map(([categoryId, entries]) => ({
+    name: categoryById.get(categoryId)?.name ?? categoryId,
+    order: categoryById.get(categoryId)?.order ?? Number.MAX_SAFE_INTEGER,
+    entries: entries.sort((a, b) => getDisplayDate(b).getTime() - getDisplayDate(a).getTime()),
+  }))
+  .sort((a, b) => b.entries.length - a.entries.length || a.order - b.order);
+
+const staticPages = [
+  { label: "ホーム", href: "/" },
+  { label: "記事一覧（新しい順）", href: "/articles" },
+  { label: "記事・商品を検索", href: "/search" },
+  { label: "このサイトについて", href: "/about" },
+  { label: "免責事項・広告ポリシー", href: "/disclaimer" },
+  { label: "プライバシーポリシー", href: "/privacy" },
+  { label: "お問い合わせ", href: "/contact" },
+];
+---
+
+<BaseLayout
+  title="サイトマップ｜暮らセレクトの全比較記事一覧"
+  description="暮らセレクトに掲載している日用品・消耗品の比較記事をカテゴリ別にすべて一覧できるページです。トイレットペーパー・洗濯洗剤・おむつなど、探している記事にここから直接たどり着けます。"
+>
+  <Container class="py-10 md:py-14 max-w-4xl">
+    <header class="mb-10">
+      <nav aria-label="パンくずリスト" class="mb-4">
+        <ol class="flex items-center gap-1.5 text-sm text-[var(--color-text-sub)]">
+          <li><a href={url("/")} class="hover:text-[var(--color-primary)] transition-colors">ホーム</a></li>
+          <li aria-hidden="true" class="text-[var(--color-border)]">/</li>
+          <li class="text-[var(--color-text)] font-medium">サイトマップ</li>
+        </ol>
+      </nav>
+
+      <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)]">サイトマップ</h1>
+      <p class="text-[var(--color-text-sub)] mt-2 leading-relaxed">
+        掲載中の比較記事 {articles.length} 本をカテゴリ別にまとめています。
+      </p>
+    </header>
+
+    <section class="mb-12">
+      <h2 class="text-lg font-bold text-[var(--color-text)] mb-4 pb-2 border-b border-[var(--color-border)]">
+        サイト情報
+      </h2>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2">
+        {staticPages.map((page) => (
+          <li>
+            <a
+              href={url(page.href)}
+              class="text-sm text-[var(--color-primary)] hover:underline focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2 rounded"
+            >
+              {page.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="text-lg font-bold text-[var(--color-text)] mb-6 pb-2 border-b border-[var(--color-border)]">
+        比較記事
+      </h2>
+      <div class="space-y-8">
+        {groups.map((group) => (
+          <div>
+            <h3 class="text-sm font-bold text-[var(--color-text)] mb-3">
+              {group.name}
+              <span class="ml-2 font-normal text-xs text-[var(--color-text-sub)]">{group.entries.length}本</span>
+            </h3>
+            <ul class="space-y-2 border-l-2 border-[var(--color-border)] pl-4">
+              {group.entries.map((article) => (
+                <li>
+                  <a
+                    href={url(`/articles/${article.id}`)}
+                    class="text-sm text-[var(--color-primary)] hover:underline focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2 rounded"
+                  >
+                    {article.data.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </section>
+  </Container>
+</BaseLayout>
