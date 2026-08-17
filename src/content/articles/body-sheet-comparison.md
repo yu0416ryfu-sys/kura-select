@@ -96,27 +96,27 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4550516475473"
         available: true
   - rank: 4
-    name: "エージーデオ24 デオドラント ボディシート"
+    name: "エージーデオ24 プレミアムデオドラント シャワーシート 無香性 30枚入"
     brand: "資生堂（Ag DEO24）"
-    price: 580
+    price: 704
     capacity: "30枚"
-    pricePerUnit: "約19円/枚"
-    rating: 5
-    reviewCount: 1
+    pricePerUnit: "約23円/枚"
+    rating: 0
+    reviewCount: 0
     features:
       - "拭き取りながらニオイケアを意識したボディシート"
-      - "肌当たりのやわらかいシート素材"
-      - "汗のベタつきをすっきりオフ"
+      - "肌当たりのやわらかい大判シート"
+      - "香りを残さない無香性タイプ"
     pros:
       - "ニオイ対策を重視する人に選ばれやすい"
-      - "やわらかいシートで肌に当てやすい"
+      - "無香性なので香りものと併用しやすい"
       - "外出先での身だしなみケアに使いやすい"
     cons:
       - "厚手タイプに比べると拭き取り回数が増えることがある"
-      - "香りの有無は商品ラインで異なる"
+      - "香りで気分を変えたい人には物足りないことがある"
     recommendedFor: "ニオイケアを重視したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4550516493194-today202602%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12711328%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2025b/4550516493194.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r813n.3rdw67fc.g00r813n.3rdw715e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffan-m%2F493194%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffan-m%2Fi%2F10011990%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fan-m/cabinet/12881632/493194.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
