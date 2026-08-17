@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 draft: false
 products:
   - rank: 1
@@ -68,8 +68,8 @@ products:
     price: 1980
     capacity: "30枚×10個（300枚）"
     pricePerUnit: "約6.6円/枚"
-    rating: 4.63
-    reviewCount: 16
+    rating: 4.65
+    reviewCount: 17
     features:
       - "流せるトイレ用掃除シート"
       - "エンボス加工のシート"

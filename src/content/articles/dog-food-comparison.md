@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "1kg"
     pricePerUnit: "約220円/kg"
     rating: 4.77
-    reviewCount: 2522
+    reviewCount: 2523
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

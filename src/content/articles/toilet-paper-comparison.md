@@ -4,7 +4,7 @@ description: "シングルのトイレットペーパーを1mあたりの単価�
 category: "toilet-paper"
 publishedAt: "2024-11-01"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 products:
   - rank: 1
     name: "コアユース 無包装 シングル 芯なし"
@@ -73,28 +73,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuasakamiten_c02295"
         available: true
   - rank: 3
-    name: "スマートエール 消臭機能付き シングル 芯なし"
-    brand: "アイリスプラザ"
-    price: 2710
-    capacity: "250m×16ロール"
-    pricePerUnit: "約0.68円/m"
-    rating: 4.61
-    reviewCount: 427
-    features:
-      - "パルプを使用した消臭機能付きのシングルタイプ"
-      - "芯なしの長巻き仕様で省スペースに保管しやすい"
-      - "少ないロール数でストック量を確保しやすい構成"
-    pros:
-      - "保管スペースを抑えたい家庭に向いている"
-      - "芯ゴミを減らしながら長く使いやすい"
-      - "交換回数を減らしたい場所に取り入れやすい"
-    cons:
-      - "太めの長巻きロールはホルダーとの相性確認が必要"
-      - "消臭機能付きの使用感は好みが分かれる"
-    recommendedFor: "省スペースで長巻きロールを備えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7253225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10216050%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11514673/7253225.jpg?_ex=128x128"
-  - rank: 4
     name: "【最安値に挑戦中！】 トイレットペーパー シングル 業務用 ワンタッチ"
     brand: "コアレックス（CORELEX）"
     price: 4980
@@ -127,14 +105,14 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ebarabo_ebr-ppr-core-p2009"
         available: true
-  - rank: 5
+  - rank: 4
     name: "トーヨ クリーンテックス シングル 個包装"
     brand: "トーヨ"
     price: 3532
     capacity: "110m×45ロール"
     pricePerUnit: "約0.71円/m"
     rating: 4.71
-    reviewCount: 1079
+    reviewCount: 1080
     features:
       - "国産のシングルトイレットペーパー"
       - "個包装で保管時の衛生面に配慮しやすい"
@@ -159,7 +137,7 @@ products:
         updatedAt: "2026-08-01"
         rating: 0
         reviewCount: 0
-  - rank: 6
+  - rank: 5
     name: "良い紙 業務用コアレス シングル"
     brand: "良い紙"
     price: 5086
@@ -181,7 +159,7 @@ products:
     recommendedFor: "芯なし長巻きを家庭用にも備蓄用にも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00syqkn.3rdw6214.g00syqkn.3rdw7eef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frebirth-inc%2Fyoikami6r_150_108_s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frebirth-inc%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rebirth-inc/cabinet/single/yoikami150/s_yoikami_150_th.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "イットコ スリム シングル 芯なし"
     brand: "イトマン"
     price: 5236
@@ -213,6 +191,28 @@ products:
         updatedAt: "2026-05-18"
         matchStatus: "review"
         matchNotes: "capacity不一致: capacity不一致"
+  - rank: 7
+    name: "スマートエール 消臭機能付き シングル 芯なし"
+    brand: "アイリスプラザ"
+    price: 2981
+    capacity: "250m×16ロール"
+    pricePerUnit: "約0.75円/m"
+    rating: 4.61
+    reviewCount: 427
+    features:
+      - "パルプを使用した消臭機能付きのシングルタイプ"
+      - "芯なしの長巻き仕様で省スペースに保管しやすい"
+      - "少ないロール数でストック量を確保しやすい構成"
+    pros:
+      - "保管スペースを抑えたい家庭に向いている"
+      - "芯ゴミを減らしながら長く使いやすい"
+      - "交換回数を減らしたい場所に取り入れやすい"
+    cons:
+      - "太めの長巻きロールはホルダーとの相性確認が必要"
+      - "消臭機能付きの使用感は好みが分かれる"
+    recommendedFor: "省スペースで長巻きロールを備えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7253225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10216050%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11514673/7253225.jpg?_ex=128x128"
   - rank: 8
     name: "Comfy 芯なし トイレットペーパー シングル"
     brand: "イトマン"
@@ -285,7 +285,7 @@ products:
     capacity: "170m×48ロール"
     pricePerUnit: "約1.1円/m"
     rating: 4.52
-    reviewCount: 2018
+    reviewCount: 2019
     features:
       - "芯なしのロングタイプで交換の手間を減らしやすい"
       - "再生紙を使用した家庭用にも業務用にも使える仕様"

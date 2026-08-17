@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バブ・�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 products:
   - rank: 1
     name: "ヒマラヤ岩塩バスソルト ピンクソルト 訳あり"
@@ -46,7 +46,7 @@ products:
     capacity: "150g×6個（900g）"
     pricePerUnit: "約1.6円/g"
     rating: 4.43
-    reviewCount: 4312
+    reviewCount: 4313
     features:
       - "純度99%以上の硫酸マグネシウム配合"
       - "好みの香りを6種類から自由に選べる個包装"
@@ -130,9 +130,9 @@ products:
   - rank: 5
     name: "入浴剤 バラエティ詰め合わせ 100個セット"
     brand: "湯屋の手土産"
-    price: 3600
+    price: 2520
     capacity: "100個（20種類アソート）"
-    pricePerUnit: "約36円/個"
+    pricePerUnit: "約25円/個"
     rating: 4.64
     reviewCount: 2050
     features:

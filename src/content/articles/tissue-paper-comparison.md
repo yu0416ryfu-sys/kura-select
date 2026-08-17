@@ -4,7 +4,7 @@ description: "ティッシュペーパーを1組あたりの価格で徹底比�
 category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 products:
   - rank: 1
     name: "ハロー ソフトパックティッシュ"
@@ -35,7 +35,7 @@ products:
     capacity: "150組×50個"
     pricePerUnit: "約0.41円/組"
     rating: 4.55
-    reviewCount: 814
+    reviewCount: 815
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"
@@ -106,11 +106,33 @@ products:
         rating: 0
         reviewCount: 1
   - rank: 5
+    name: "王子ネピア ネピネピ ティシュ 150組×5箱"
+    brand: "ネピア"
+    price: 440
+    capacity: "150組×5箱（750組）"
+    pricePerUnit: "約0.59円/組"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "家庭用に使いやすいティッシュペーパー"
+      - "箱タイプ・ソフトパックを選べる"
+      - "まとめ買いしやすい"
+    pros:
+      - "日用品としてストックしやすい"
+      - "容量比較がしやすい"
+      - "家族用に向く"
+    cons:
+      - "保管場所が必要"
+      - "紙質の好みは分かれる"
+    recommendedFor: "ティッシュペーパーを容量と単価で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901121182889-today202504%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12642906%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2024v/4901121182889.jpg?_ex=128x128"
+  - rank: 6
     name: "クリネックス ティシュー 180組 5箱×12パック（60箱）"
     brand: "日本製紙クレシア（クリネックス）"
-    price: 5799
+    price: 6999
     capacity: "360枚×60箱（21600枚）"
-    pricePerUnit: "約0.54円/組"
+    pricePerUnit: "約0.65円/組"
     rating: 4.66
     reviewCount: 140
     features:
@@ -138,28 +160,6 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/raffine4147_seki111ed90b9d363"
         available: true
-  - rank: 6
-    name: "王子ネピア ネピネピ ティシュ 150組×5箱"
-    brand: "ネピア"
-    price: 440
-    capacity: "150組×5箱（750組）"
-    pricePerUnit: "約0.59円/組"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "家庭用に使いやすいティッシュペーパー"
-      - "箱タイプ・ソフトパックを選べる"
-      - "まとめ買いしやすい"
-    pros:
-      - "日用品としてストックしやすい"
-      - "容量比較がしやすい"
-      - "家族用に向く"
-    cons:
-      - "保管場所が必要"
-      - "紙質の好みは分かれる"
-    recommendedFor: "ティッシュペーパーを容量と単価で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901121182889-today202504%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12642906%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2024v/4901121182889.jpg?_ex=128x128"
   - rank: 7
     name: "業務用ティッシュ POPティシュ200W 60箱"
     brand: "OneStep"

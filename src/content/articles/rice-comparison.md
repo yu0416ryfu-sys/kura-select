@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 products:
   - rank: 1
     name: "熊本県産 ヒノヒカリ"
@@ -13,7 +13,7 @@ products:
     capacity: "20kg"
     pricePerUnit: "約509円/kg"
     rating: 4.59
-    reviewCount: 14905
+    reviewCount: 14906
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -42,9 +42,9 @@ products:
   - rank: 2
     name: "国内産 農家直米 白米"
     brand: "安齋商店"
-    price: 5480
+    price: 5180
     capacity: "10kg"
-    pricePerUnit: "約548円/kg"
+    pricePerUnit: "約518円/kg"
     rating: 4.39
     reviewCount: 16098
     features:
@@ -91,7 +91,7 @@ products:
     recommendedFor: "新潟県産コシヒカリを無洗米で使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3eon.3rdw616f.g00q3eon.3rdw7349/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakizawa%2F2019090073%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftakizawa%2Fi%2F10000227%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 4.89
-    reviewCount: 126
+    reviewCount: 127
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/takizawa/cabinet/syouhinn/08533100/musenmai10kgver3.jpg?_ex=128x128"
     pricePerUnit: "約760円/kg"
     offers:
@@ -255,7 +255,7 @@ products:
     capacity: "18kg〜20kg"
     pricePerUnit: "0円/kg"
     rating: 4.74
-    reviewCount: 45814
+    reviewCount: 45815
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

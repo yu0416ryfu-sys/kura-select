@@ -4,7 +4,7 @@ description: "ダブルのトイレットペーパーを1mあたりのコスト�
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 products:
   - rank: 1
     name: "エシカル12RW ダブル 12ロール×8パック"
@@ -51,39 +51,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq8tn.3rdw6841.g00qq8tn.3rdw7945/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocodecow%2F833869%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocodecow%2Fi%2F10090023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/475/833869.jpg?_ex=128x128"
   - rank: 3
-    name: "スコッティ フラワーパック 3倍長持ち ダブル"
-    brand: "日本製紙クレシア（スコッティ）"
-    price: 5676
-    capacity: "75m×4ロール×12パック（3倍巻き）"
-    pricePerUnit: "約1.6円/m"
-    rating: 4.75
-    reviewCount: 938
-    features:
-      - "3倍長持ち設計で交換頻度が大幅に減る"
-      - "ダブルタイプで使い心地が良い"
-      - "フラワーパックでほんのりフローラルの香り"
-    pros:
-      - "1ロール75mの長尺で交換の手間が少ない"
-      - "スコッティブランドの安定した品質"
-      - "48ロール大容量でまとめ買いに最適"
-    cons:
-      - "保管スペースが必要"
-      - "通常ロールより径が大きくホルダーを選ぶ場合がある"
-    recommendedFor: "交換頻度を減らしたい方・まとめ買い派・コスパ重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7165192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077532%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7165192.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7666919.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-02"
-        price: 5676
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_7666919"
-        available: true
-        rating: 4.78
-        reviewCount: 552
-  - rank: 4
     name: "ハロー トイレットペーパー ダブル 2倍巻き"
     brand: "ハロー"
     price: 6210
@@ -116,14 +83,47 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/stylem_aj4741mstyle284edf800d"
         available: true
+  - rank: 4
+    name: "スコッティ フラワーパック 3倍長持ち ダブル"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 6281
+    capacity: "75m×4ロール×12パック（3倍巻き）"
+    pricePerUnit: "約1.7円/m"
+    rating: 4.75
+    reviewCount: 938
+    features:
+      - "3倍長持ち設計で交換頻度が大幅に減る"
+      - "ダブルタイプで使い心地が良い"
+      - "フラワーパックでほんのりフローラルの香り"
+    pros:
+      - "1ロール75mの長尺で交換の手間が少ない"
+      - "スコッティブランドの安定した品質"
+      - "48ロール大容量でまとめ買いに最適"
+    cons:
+      - "保管スペースが必要"
+      - "通常ロールより径が大きくホルダーを選ぶ場合がある"
+    recommendedFor: "交換頻度を減らしたい方・まとめ買い派・コスパ重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7165192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077532%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7165192.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7666919.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-02"
+        price: 5676
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_7666919"
+        available: true
+        rating: 4.78
+        reviewCount: 552
   - rank: 5
     name: "スコッティ フラワーパック 3倍長持ち ダブル 4ロール×12袋"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 6807
+    price: 7059
     capacity: "75m×4ロール×12袋"
-    pricePerUnit: "約1.9円/m"
+    pricePerUnit: "約2.0円/m"
     rating: 4.63
-    reviewCount: 1510
+    reviewCount: 1514
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -152,9 +152,9 @@ products:
   - rank: 6
     name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 4799
+    price: 5199
     capacity: "50m×12ロール×4パック"
-    pricePerUnit: "約2.0円/m"
+    pricePerUnit: "約2.2円/m"
     rating: 4.69
     reviewCount: 208
     features:

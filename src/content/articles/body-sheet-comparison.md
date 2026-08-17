@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 draft: false
 products:
   - rank: 1
@@ -263,9 +263,9 @@ products:
   - rank: 9
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
-    price: 2103
+    price: 2118
     capacity: "30枚"
-    pricePerUnit: "約70円/枚"
+    pricePerUnit: "約71円/枚"
     rating: 4.8
     reviewCount: 20
     features:

@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 draft: false
 products:
   - rank: 1
@@ -30,7 +30,7 @@ products:
       - "サイズ選択が必要"
     recommendedFor: "抗菌・防臭機能を重視する人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r9znn.3rdw6e57.g00r9znn.3rdw7ba2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgossipstar%2Fbm1187%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgossipstar%2Fi%2F10011710%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gossipstar/cabinet/pop/bm1187-pop-.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gossipstar/cabinet/pop/bm1187-pop.jpg?_ex=128x128"
   - rank: 2
     name: "シンプルカラーバスマット"
     brand: "タオルの森"
@@ -106,7 +106,7 @@ products:
     capacity: "40×60cm / 50×80cm 1枚"
     pricePerUnit: "約1999円/枚"
     rating: 4.64
-    reviewCount: 3273
+    reviewCount: 3274
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"
@@ -130,7 +130,7 @@ products:
     capacity: "42×67cm 1枚"
     pricePerUnit: "約2290円/枚"
     rating: 4.61
-    reviewCount: 2111
+    reviewCount: 2112
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -251,7 +251,7 @@ products:
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
     rating: 4.43
-    reviewCount: 2639
+    reviewCount: 2640
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

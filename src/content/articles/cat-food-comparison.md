@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 draft: false
 products:
   - rank: 1
@@ -43,7 +43,7 @@ products:
   - rank: 2
     name: "ロイヤルカナン インドア 成猫用"
     brand: "ロイヤルカナン"
-    price: 13299
+    price: 13296
     capacity: "10kg"
     pricePerUnit: "約1.3円/g"
     rating: 4.73
@@ -179,7 +179,7 @@ products:
     capacity: "2kg"
     pricePerUnit: "約2.0円/g"
     rating: 4.68
-    reviewCount: 911
+    reviewCount: 913
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

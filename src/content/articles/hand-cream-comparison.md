@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 products:
   - rank: 1
     name: "ニベア ハンドクリーム 75g"
@@ -254,7 +254,7 @@ products:
     capacity: "30mL"
     pricePerUnit: "約37円/mL"
     rating: 4.51
-    reviewCount: 806
+    reviewCount: 807
     features:
       - "香水のような香りを楽しめるパフューム処方のハンドクリーム"
       - "5種類の香りから選べるセレクト仕様"

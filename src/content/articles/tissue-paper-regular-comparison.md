@@ -4,15 +4,15 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 draft: false
 products:
   - rank: 1
     name: "スコッティ ティッシュ ホワイトパッケージ 60箱"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 4995
+    price: 5375
     capacity: "400枚（200組）×60箱"
-    pricePerUnit: "約0.42円/組"
+    pricePerUnit: "約0.45円/組"
     rating: 4.75
     reviewCount: 516
     features:
@@ -43,9 +43,9 @@ products:
   - rank: 2
     name: "スコッティ ティッシュ 200組 60箱セット"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 4995
+    price: 5375
     capacity: "200組×60箱"
-    pricePerUnit: "約0.42円/組"
+    pricePerUnit: "約0.45円/組"
     rating: 4.67
     reviewCount: 296
     features:
@@ -65,9 +65,9 @@ products:
   - rank: 3
     name: "スコッティ ティッシュ 200組 60箱"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5199
+    price: 5499
     capacity: "200組×60箱（12,000組）"
-    pricePerUnit: "約0.43円/組"
+    pricePerUnit: "約0.46円/組"
     rating: 4.79
     reviewCount: 1590
     features:
@@ -162,28 +162,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q242n.3rdw6f72.g00q242n.3rdw7b52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitoman%2Fittokotissu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fitoman%2Fi%2F10000374%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/itoman/cabinet/tissue/ittoco_20150001/20150001.jpg?_ex=128x128"
   - rank: 7
-    name: "クリネックス ティシュー 180組 5箱×12パック（60箱）"
-    brand: "日本製紙クレシア（クリネックス）"
-    price: 5799
-    capacity: "180組×5箱×12パック（60箱）"
-    pricePerUnit: "約0.54円/組"
-    rating: 4.66
-    reviewCount: 140
-    features:
-      - "世界的ブランド・クリネックスの定番品"
-      - "厚みと柔らかさのバランスが優秀"
-      - "全国ドラッグストアで入手しやすい"
-    pros:
-      - "厚みがあり1枚で十分な使い心地"
-      - "クリネックスの知名度と品質の安心感"
-      - "ティッシュといえばクリネックスの定番ブランド"
-    cons:
-      - "スコッティに比べるとコストが高め"
-      - "香り付きなど機能品は別途確認が必要"
-    recommendedFor: "普段使いに定番の品質を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F29313%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10027769%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/021/main-29313t.jpg?_ex=128x128"
-  - rank: 8
     name: "王子ネピア ネピネピ ティシュ 150組×5箱"
     brand: "ネピア"
     price: 440
@@ -205,6 +183,28 @@ products:
     recommendedFor: "少量ずつストックしたい一人暮らし・少人数世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901121182889-today202504%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12642906%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2024v/4901121182889.jpg?_ex=128x128"
+  - rank: 8
+    name: "クリネックス ティシュー 180組 5箱×12パック（60箱）"
+    brand: "日本製紙クレシア（クリネックス）"
+    price: 6999
+    capacity: "180組×5箱×12パック（60箱）"
+    pricePerUnit: "約0.65円/組"
+    rating: 4.66
+    reviewCount: 140
+    features:
+      - "世界的ブランド・クリネックスの定番品"
+      - "厚みと柔らかさのバランスが優秀"
+      - "全国ドラッグストアで入手しやすい"
+    pros:
+      - "厚みがあり1枚で十分な使い心地"
+      - "クリネックスの知名度と品質の安心感"
+      - "ティッシュといえばクリネックスの定番ブランド"
+    cons:
+      - "スコッティに比べるとコストが高め"
+      - "香り付きなど機能品は別途確認が必要"
+    recommendedFor: "普段使いに定番の品質を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F29313%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10027769%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/021/main-29313t.jpg?_ex=128x128"
   - rank: 9
     name: "業務用ティッシュ POPティシュ200W 60箱"
     brand: "OneStep"

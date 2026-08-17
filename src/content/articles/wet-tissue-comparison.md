@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ10選を1枚あたり単
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 products:
   - rank: 1
     name: "ノンアルコール 99%除菌ウェットティッシュ"
@@ -47,7 +47,7 @@ products:
     capacity: "80枚×15個"
     pricePerUnit: "約2.0円/枚"
     rating: 4.69
-    reviewCount: 4708
+    reviewCount: 4710
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -135,7 +135,7 @@ products:
     capacity: "60枚×48個（2,880枚）"
     pricePerUnit: "約2.6円/枚"
     rating: 4.42
-    reviewCount: 481
+    reviewCount: 482
     features:
       - "アルコール配合で除菌用途に向いたタイプ"
       - "厚手シートで拭き取りやすい設計"
@@ -223,7 +223,7 @@ products:
     capacity: "70枚×3個（210枚）"
     pricePerUnit: "約5.2円/枚"
     rating: 4.49
-    reviewCount: 72
+    reviewCount: 73
     features:
       - "高濃度アルコール配合で除菌効果が高い"
       - "厚手メッシュシートで汚れをしっかりキャッチ"
@@ -289,7 +289,7 @@ products:
     capacity: "96枚"
     pricePerUnit: "約31円/枚"
     rating: 4.37
-    reviewCount: 382
+    reviewCount: 383
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"

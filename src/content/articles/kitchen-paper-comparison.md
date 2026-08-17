@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-09"
+updatedAt: "2026-08-17"
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -274,7 +274,7 @@ products:
   - rank: 10
     name: "スコッティ ファイン 3倍巻き キッチンタオル 150カット 4ロール×4パック"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 4612
+    price: 4726
     capacity: "150カット×4ロール×4パック（2400カット）"
     pricePerUnit: "約2.0円/カット"
     rating: 5

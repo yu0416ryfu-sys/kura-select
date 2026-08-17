@@ -4,7 +4,7 @@ description: "オキシクリーンと過炭酸ナトリウム（酸素系漂白
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 draft: false
 products:
   - rank: 1
@@ -107,39 +107,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann1"
         available: true
   - rank: 4
-    name: "オキシクリーン マルチパーパスクリーナー 5.26kg"
-    brand: "OxiClean（アメリカ版）"
-    price: 3390
-    capacity: "5.26kg"
-    pricePerUnit: "約0.64円/g"
-    rating: 4.53
-    reviewCount: 184
-    features:
-      - "アメリカ向け仕様のマルチパーパスクリーナー"
-      - "界面活性剤と香料を配合した処方"
-      - "コストコなどで流通する業務用サイズ"
-    pros:
-      - "泡立ちがあり洗浄剤としての使用感がわかりやすい"
-      - "大容量のため頻繁に買い足す手間が少ない"
-      - "青い粒入りの見た目で溶け残りを確認しやすい"
-    cons:
-      - "香料入りのため香りが苦手な方には向かない"
-      - "大容量で保管スペースと湿気対策が必要になる"
-    recommendedFor: "泡立ちのある使用感を求める方・大量に使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00toizn.3rdw6228.g00toizn.3rdw730f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonoworld%2Fzakka-0250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmonoworld%2Fi%2F10001131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/monoworld/cabinet/08879859/compass1647750527.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkameyamastore%2Fcos-28137.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-08"
-        price: 3230
-        rating: 4.75
-        reviewCount: 93
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kameyamastore_cos-28137"
-        available: true
-  - rank: 5
     name: "国産 過炭酸ナトリウム 酸素系漂白剤 3kg"
     brand: "アレスヘルスケア"
     price: 1991
@@ -172,6 +139,39 @@ products:
         reviewCount: 77
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ares_700056"
         available: true
+  - rank: 5
+    name: "オキシクリーン マルチパーパスクリーナー 5.26kg"
+    brand: "OxiClean（アメリカ版）"
+    price: 3490
+    capacity: "5.26kg"
+    pricePerUnit: "約0.66円/g"
+    rating: 4.53
+    reviewCount: 184
+    features:
+      - "アメリカ向け仕様のマルチパーパスクリーナー"
+      - "界面活性剤と香料を配合した処方"
+      - "コストコなどで流通する業務用サイズ"
+    pros:
+      - "泡立ちがあり洗浄剤としての使用感がわかりやすい"
+      - "大容量のため頻繁に買い足す手間が少ない"
+      - "青い粒入りの見た目で溶け残りを確認しやすい"
+    cons:
+      - "香料入りのため香りが苦手な方には向かない"
+      - "大容量で保管スペースと湿気対策が必要になる"
+    recommendedFor: "泡立ちのある使用感を求める方・大量に使う方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00toizn.3rdw6228.g00toizn.3rdw730f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonoworld%2Fzakka-0250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmonoworld%2Fi%2F10001131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/monoworld/cabinet/08879859/compass1647750527.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkameyamastore%2Fcos-28137.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-08"
+        price: 3230
+        rating: 4.75
+        reviewCount: 93
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kameyamastore_cos-28137"
+        available: true
   - rank: 6
     name: "国産 過炭酸ナトリウム 酸素系漂白剤 900g"
     brand: "アレスヘルスケア"
@@ -179,7 +179,7 @@ products:
     capacity: "900g"
     pricePerUnit: "約0.71円/g"
     rating: 4.83
-    reviewCount: 385
+    reviewCount: 386
     features:
       - "国内製造の過炭酸ナトリウム"
       - "少量から試せる小容量パッケージ"
@@ -234,7 +234,7 @@ products:
     capacity: "1500g"
     pricePerUnit: "約1.0円/g"
     rating: 4.53
-    reviewCount: 1047
+    reviewCount: 1050
     features:
       - "日本国内向けに販売されている無香料タイプ"
       - "界面活性剤と柔軟成分を配合していない処方"
