@@ -1028,6 +1028,29 @@ describe("isMultiMeasureVariantItemName", () => {
     expect(isMultiMeasureVariantItemName("無洗米 コシヒカリ 5kg×2袋")).toBe(false);
     expect(isMultiMeasureVariantItemName("シャンプー 500mL×3本")).toBe(false);
   });
+
+  it("総量と内訳が整合する表記は複数容量扱いにしない", () => {
+    // 5g×150個 = 750g、750g×3袋 が内訳。商品自体は単一構成
+    expect(
+      isMultiMeasureVariantItemName(
+        "finish ビッグパック 150個入り 3袋セット 食洗機用洗剤 5g×150個 750g×3袋"
+      )
+    ).toBe(false);
+    expect(isMultiMeasureVariantItemName("無洗米 新潟県産コシヒカリ 10kg（5kg×2袋）")).toBe(false);
+    expect(isMultiMeasureVariantItemName("十六爽健麦茶 ティーバッグ 192g（8g×24袋）")).toBe(false);
+    expect(isMultiMeasureVariantItemName("ビオレ泡4リットル(2L×2本) つめかえ用 4000ml")).toBe(false);
+  });
+
+  it("内訳が整合していても容量選択型の商品名は検知する", () => {
+    expect(
+      isMultiMeasureVariantItemName("15本から選べるアロマスプレー 3本セット(30ml2本＋15ml1本)")
+    ).toBe(true);
+  });
+
+  it("商数が商品名中の乗数と一致しない場合は検知する", () => {
+    expect(isMultiMeasureVariantItemName("スリーフ 除菌スプレー 500ml＋1L")).toBe(true);
+    expect(isMultiMeasureVariantItemName("秋田県産あきたこまち 18kg〜20kg")).toBe(true);
+  });
 });
 
 describe("isSalesQuantityVariantItemName", () => {

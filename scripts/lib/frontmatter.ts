@@ -415,6 +415,67 @@ export function isSalesQuantityVariantItemName(itemName: string): boolean {
  * 楽天の容量選択式商品名かどうかを判定する。
  * 例: "2kg 5kg 10kg" は価格が最小容量側を指すことがあるため自動単価更新を避ける。
  */
+/**
+ * 「買い手が容量を選ぶ」ことを示す語。これを含む商品名は内訳の整合が取れても
+ * 変種扱いのままにする（最安バリアント価格が返るため自動更新を避ける）。
+ * ※「セット」「詰替」のような単なる曖昧語は内訳表記にも普通に現れるので含めない。
+ */
+const CAPACITY_SELECTION_TERMS = [
+  "選べる",
+  "選択",
+  "サイズ選択",
+  "バリエーション",
+  "よりどり",
+  "アソート",
+  "ランダム",
+  "各種",
+  "福袋",
+];
+
+/**
+ * 商品名に現れる「乗数」を集める。内訳表記の整合判定に使う。
+ * 対象は ①乗算記号の直後の数値（"×150個" の 150）と
+ *       ②販売数量単位・梱包単位が続く数値（"3袋" の 3）。
+ */
+function getBreakdownMultipliers(normalized: string): Set<number> {
+  const multipliers = new Set<number>();
+  const patterns = [
+    new RegExp(`[${MULTIPLY_RE_CHAR_CLASS}]\\s*(\\d[\\d,]*)`, 'gi'),
+    new RegExp(`(\\d[\\d,]*)\\s*(?:${SALES_QUANTITY_UNITS}|${PACK_UNITS})`, 'gi'),
+  ];
+  for (const re of patterns) {
+    for (const match of normalized.matchAll(re)) {
+      const value = parseInt(match[1].replace(/,/g, ''), 10);
+      if (Number.isFinite(value) && value > 1) multipliers.add(value);
+    }
+  }
+  return multipliers;
+}
+
+/**
+ * 同一単位に複数の総量が並んでいても、それが「内訳 → 総量」の関係なら変種ではない。
+ * 例: "5g×150個 750g×3袋" は 5g × 150 = 750g で、150 が商品名中の乗数として実在する。
+ * 小さい順に並べて隣接する商が整数かつ商品名中の乗数と一致する場合のみ内訳とみなす。
+ */
+function isConsistentCapacityBreakdown(totals: number[], multipliers: Set<number>): boolean {
+  const sorted = [...totals].sort((a, b) => a - b);
+  for (let i = 1; i < sorted.length; i++) {
+    const smaller = sorted[i - 1];
+    const larger = sorted[i];
+    if (smaller <= 0) return false;
+    const quotient = larger / smaller;
+    const rounded = Math.round(quotient);
+    if (Math.abs(quotient - rounded) > 1e-6) return false;
+    if (!multipliers.has(rounded)) return false;
+  }
+  return true;
+}
+
+/**
+ * 楽天の容量選択式商品名かどうかを判定する。
+ * 例: "2kg 5kg 10kg" は価格が最小容量側を指すことがあるため自動単価更新を避ける。
+ * ただし "5g×150個 750g×3袋" のような内訳表記は変種ではないので除外する。
+ */
 export function isMultiMeasureVariantItemName(itemName: string): boolean {
   const normalized = normalizeItemName(itemName);
   const matches = [...normalized.matchAll(new RegExp(`(\\d[\\d,]*)\\s*(${MEASURE_UNITS})`, 'gi'))];
@@ -432,7 +493,11 @@ export function isMultiMeasureVariantItemName(itemName: string): boolean {
     totalsByUnit.set(unitKey, totals);
   }
 
-  return [...totalsByUnit.values()].some(totals => totals.size >= 2);
+  const isSelectableItem = CAPACITY_SELECTION_TERMS.some(term => normalized.includes(term));
+  const multipliers = getBreakdownMultipliers(normalized);
+  return [...totalsByUnit.values()].some(
+    totals => totals.size >= 2 && (isSelectableItem || !isConsistentCapacityBreakdown([...totals], multipliers))
+  );
 }
 
 /**

@@ -4,7 +4,7 @@ description: "食洗機用洗剤を1回あたりのコストで徹底比較。�
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-18"
 products:
   - rank: 1
     name: "P&G 食洗機用ジョイ オレンジピール成分入り 詰替 490g"
@@ -249,9 +249,9 @@ products:
   - rank: 9
     name: "フィニッシュ パワーキューブ ビッグパック"
     brand: "フィニッシュ（Finish）"
-    price: 0
+    price: 5460
     capacity: "450個"
-    pricePerUnit: "0円/個"
+    pricePerUnit: "約12円/個"
     rating: 4.83
     reviewCount: 222
     features:
