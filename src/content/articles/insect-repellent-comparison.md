@@ -145,6 +145,39 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pqorn.3rdw6854.g00pqorn.3rdw7e1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftv-ya%2Fhibanonnon-a-2-p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftv-ya%2Fi%2F10002598%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hibanonnon-a-2-p/thum/hibanonnon-a-2-p.jpg?_ex=128x128"
   - rank: 5
+    name: "KINCHO プレシャワー DFミスト プレミアガード 無香料 120mL"
+    brand: "大日本除虫菊（KINCHO）"
+    price: 1113
+    capacity: "120mL"
+    pricePerUnit: "約9.3円/mL"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "イカリジン高濃度配合で蚊・マダニへの効果が期待できる防除用医薬部外品"
+      - "無香料設計で衣類や体への使用後のニオイが気になりにくい"
+      - "子どもにも使えると謳うKINCHO製スプレー"
+    pros:
+      - "イカリジン配合でディートを避けたい方の選択肢になる"
+      - "無香料で香りに敏感な方や職場使いにも向く"
+      - "国内大手メーカーKINCHOの品質と信頼性が選べる"
+    cons:
+      - "120mLと中容量のため使用頻度が高いと消費が早め"
+      - "スキンベープと同成分のためブランドによる使い分けが主な違いになる"
+    recommendedFor: "KINCHOブランドのイカリジン配合無香料スプレーを試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00slbfn.3rdw664c.g00slbfn.3rdw7e6f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthinkrich%2Fsk07402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthinkrich%2Fi%2F10227049%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thinkrich/cabinet/muryou_07/s07402.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcompmoto-y%2F4987115540569.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-02"
+        price: 1564
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4987115540569"
+        available: true
+  - rank: 6
     name: "アンチバグ プレミアム"
     brand: "AROMICstyle"
     price: 1080
@@ -177,39 +210,6 @@ products:
         available: true
         rating: 4.69
         reviewCount: 29
-  - rank: 6
-    name: "KINCHO プレシャワー DFミスト プレミアガード 無香料 120mL"
-    brand: "大日本除虫菊（KINCHO）"
-    price: 1320
-    capacity: "120mL"
-    pricePerUnit: "約11円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "イカリジン高濃度配合で蚊・マダニへの効果が期待できる防除用医薬部外品"
-      - "無香料設計で衣類や体への使用後のニオイが気になりにくい"
-      - "子どもにも使えると謳うKINCHO製スプレー"
-    pros:
-      - "イカリジン配合でディートを避けたい方の選択肢になる"
-      - "無香料で香りに敏感な方や職場使いにも向く"
-      - "国内大手メーカーKINCHOの品質と信頼性が選べる"
-    cons:
-      - "120mLと中容量のため使用頻度が高いと消費が早め"
-      - "スキンベープと同成分のためブランドによる使い分けが主な違いになる"
-    recommendedFor: "KINCHOブランドのイカリジン配合無香料スプレーを試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qea1n.3rdw6a1a.g00qea1n.3rdw7caf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbungudo%2F7267930%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbungudo%2Fi%2F10350230%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bungudo/cabinet/tasya113/7267930-e.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcompmoto-y%2F4987115540569.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-02"
-        price: 1564
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4987115540569"
-        available: true
   - rank: 7
     name: "安全安心 虫除けスプレー"
     brand: "無添加工房 OKADA"

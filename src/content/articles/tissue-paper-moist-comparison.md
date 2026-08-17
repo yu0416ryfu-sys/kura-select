@@ -197,11 +197,11 @@ products:
   - rank: 8
     name: "ダイレイ プレミアムふんわか ローションティシュ 12個組"
     brand: "ダイレイ"
-    price: 220
+    price: 268
     capacity: "12個組"
-    pricePerUnit: "約18円/個"
+    pricePerUnit: "約22円/個"
     rating: 5
-    reviewCount: 4
+    reviewCount: 1
     features:
       - "ローション配合のふんわか保湿タイプ"
       - "手に取りやすい価格のまとめ買いセット"
@@ -214,8 +214,8 @@ products:
       - "大手ブランドほどの知名度はない"
       - "厚みや風合いの好みは分かれる"
     recommendedFor: "保湿タイプをコスパ重視で使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901988107094%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10707755%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/d/ddd/1_000000023577.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tbzkn.3rdw6fc8.g00tbzkn.3rdw770d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpocchi-shop%2Fm-4901988107094%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpocchi-shop%2Fi%2F10466914%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pocchi-shop/cabinet/import_items/2024_45/0/m-4901988107094.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

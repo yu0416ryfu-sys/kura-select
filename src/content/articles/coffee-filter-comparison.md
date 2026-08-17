@@ -4,7 +4,7 @@ description: "コーヒーフィルターを1枚あたりのコストで徹底�
 category: "coffee-filter"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 draft: false
 products:
   - rank: 1
@@ -263,10 +263,10 @@ products:
   - rank: 9
     name: "IFNi リネンクロス コーヒーフィルター 3枚"
     brand: "WPB-shop.R"
-    price: 2168
+    price: 2208
     capacity: "3枚（繰り返し使用可）"
-    pricePerUnit: "約723円/枚"
-    rating: 5
+    pricePerUnit: "約736円/枚"
+    rating: 4.8
     reviewCount: 5
     features:
       - "リネン100%の繰り返し使える布製コーヒーフィルター"
@@ -280,8 +280,8 @@ products:
       - "使用後の洗浄・乾燥の手間がかかりペーパーフィルターより手軽さで劣る"
       - "3枚入りのため在庫管理と使い回しのローテーションが必要"
     recommendedFor: "エコ志向の方・繰り返し使えるフィルターでコストを抑えたい方・リネン素材の風合いを楽しみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q24rn.3rdw6a1d.g00q24rn.3rdw78a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fultramix%2Fif-filter-wh%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fultramix%2Fi%2F10036043%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ultramix/cabinet/item17/if-filter-wh_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q24rn.3rdw6a1d.g00q24rn.3rdw78a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fultramix%2Fif-filter-mx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fultramix%2Fi%2F10036045%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ultramix/cabinet/item17/if-filter-mx_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

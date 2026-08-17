@@ -163,11 +163,11 @@ products:
   - rank: 6
     name: "フロッシュ アロエベラ 食器用洗剤 1000mL×2本"
     brand: "フロッシュ（Werner & Mertz）"
-    price: 1998
-    capacity: "1000mL×2本"
-    pricePerUnit: "約1.00円/mL"
-    rating: 4.64
-    reviewCount: 14
+    price: 2298
+    capacity: "1000mL×2本（2000mL）"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.42
+    reviewCount: 12
     features:
       - "アロエベラ配合で手肌に優しい低刺激処方"
       - "100%リサイクルPET容器使用の環境配慮型ボトル"
@@ -180,8 +180,8 @@ products:
       - "4本セットのため保管スペースの確保が必要"
       - "まとめ買い形式で少量から試しにくい"
     recommendedFor: "手荒れ対策と環境配慮を両立しつつ大容量でコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rjgtn.3rdw6c98.g00rjgtn.3rdw7688/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworld-depo%2Fm-ctc-11019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworld-depo%2Fi%2F13299906%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/world-depo/cabinet/ctc001/11019.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q9u1n.3rdw67e0.g00q9u1n.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhiteleaf%2Fcostoco_aloevera-kitchenwash%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhiteleaf%2Fi%2F10002851%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whiteleaf/cabinet/08766852/08895266/10306423/frosch.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

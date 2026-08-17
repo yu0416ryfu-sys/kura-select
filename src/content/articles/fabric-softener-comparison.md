@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 products:
   - rank: 1
     name: "ハミング 素肌おもい 柔軟剤 つめかえ用 メガサイズ"
@@ -106,6 +106,39 @@ products:
         rating: 4.73
         reviewCount: 232
   - rank: 4
+    name: "メキシコダウニー アロマフローラル 2.8L"
+    brand: "Downy"
+    price: 1700
+    capacity: "2.8L"
+    pricePerUnit: "約0.61円/mL"
+    rating: 4.2
+    reviewCount: 5
+    features:
+      - "洗濯時に使う柔軟仕上げ剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "香りや仕上がりの好みに合わせやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りの強さは好みが分かれやすい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "香りや仕上がりの好みに合わせやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uj0bn.3rdw6661.g00uj0bn.3rdw77ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcucinafelice%2F7500435126144%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcucinafelice%2Fi%2F10000671%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cucinafelice/cabinet/10344206/imgrc0104844476.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F9110715.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-16"
+        price: 7470
+        rating: 4.78
+        reviewCount: 60
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_9110715"
+        available: true
+  - rank: 5
     name: "ソフラン アロマリッチ 柔軟剤 詰替用 1300mL×6個"
     brand: "ライオン（ソフラン）"
     price: 5830
@@ -127,39 +160,6 @@ products:
     recommendedFor: "定番ブランドをまとめ買いして単価を下げたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405203%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11234252%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/203/405203.jpg?_ex=128x128"
-  - rank: 5
-    name: "メキシコダウニー アロマフローラル 8.5L"
-    brand: "Downy"
-    price: 7390
-    capacity: "8.5L"
-    pricePerUnit: "約0.87円/mL"
-    rating: 3
-    reviewCount: 1
-    features:
-      - "洗濯時に使う柔軟仕上げ剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "香りや仕上がりの好みに合わせやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "香りの強さは好みが分かれやすい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "香りや仕上がりの好みに合わせやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4zwn.3rdw6c99.g00u4zwn.3rdw7a8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzukidenkioutlets%2F7506309881034%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuzukidenkioutlets%2Fi%2F10010745%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suzukidenkioutlets/cabinet/system202311-28/7506309881034.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F9110715.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-16"
-        price: 7470
-        rating: 4.78
-        reviewCount: 60
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_9110715"
-        available: true
   - rank: 6
     name: "さらさ 柔軟剤 詰め替え 超ジャンボ"
     brand: "P&G（さらさ）"

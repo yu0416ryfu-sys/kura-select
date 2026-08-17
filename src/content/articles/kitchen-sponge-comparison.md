@@ -84,28 +84,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sc6bn.3rdw6db2.g00sc6bn.3rdw709a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnactasukaru%2F10035%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnactasukaru%2Fi%2F10000055%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nactasukaru/cabinet/item_img/10035_new_b.jpg?_ex=128x128"
   - rank: 4
-    name: "ダスキン台所用スポンジ ハードタイプ カラー 6個セット"
-    brand: "ダスキン"
-    price: 1100
-    capacity: "6個"
-    pricePerUnit: "約183円/個"
-    rating: 4.8
-    reviewCount: 509
-    features:
-      - "ポリエステル＋ウレタンフォームのハードタイプ構造"
-      - "3色パック×2セットのカラフルな6個組"
-      - "1個あたり約6.5×12.5×3.5cmの標準サイズ"
-    pros:
-      - "カラー展開で食器・鍋・コンロなど用途別に使い分けやすい"
-      - "ハードタイプで繰り返し使える耐久性"
-      - "傷つけにくい素材で食器を守りながら洗える"
-    cons:
-      - "ハードタイプのためデリケートなコーティング面には不向き"
-      - "価格はページ確認が必要"
-    recommendedFor: "用途別に色分けして使いたい方・耐久性重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sc6bn.3rdw6db2.g00sc6bn.3rdw709a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnactasukaru%2F10036_x%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnactasukaru%2Fi%2F10000285%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nactasukaru/cabinet/suponnji15/imgrc0080067301.jpg?_ex=128x128"
-  - rank: 5
     name: "【お試し・初回購入限定】太陽油脂　パックスナチュロン　キッチンスポンジ"
     brand: "太陽油脂（パックスナチュロン）"
     price: 199
@@ -138,6 +116,28 @@ products:
         available: true
         rating: 4.33
         reviewCount: 9
+  - rank: 5
+    name: "ダスキン 台所用スポンジ ハードタイプ カラー 6個セット"
+    brand: "ダスキン"
+    price: 1260
+    capacity: "6個"
+    pricePerUnit: "約210円/個"
+    rating: 4.79
+    reviewCount: 273
+    features:
+      - "ポリエステル＋ウレタンフォームのハードタイプ構造"
+      - "3色パック×2セットのカラフルな6個組"
+      - "1個あたり約6.5×12.5×3.5cmの標準サイズ"
+    pros:
+      - "カラー展開で食器・鍋・コンロなど用途別に使い分けやすい"
+      - "ハードタイプで繰り返し使える耐久性"
+      - "傷つけにくい素材で食器を守りながら洗える"
+    cons:
+      - "ハードタイプのためデリケートなコーティング面には不向き"
+      - "価格はページ確認が必要"
+    recommendedFor: "用途別に色分けして使いたい方・耐久性重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxc7n.3rdw6ae4.g00sxc7n.3rdw7171/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fduskin100504%2F03115400%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fduskin100504%2Fi%2F10000038%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/duskin100504/cabinet/itempic202604/03115400.jpg?_ex=128x128"
   - rank: 6
     name: "パックスナチュロン キッチンスポンジ"
     brand: "パックスナチュロン（PAX NATURON）"

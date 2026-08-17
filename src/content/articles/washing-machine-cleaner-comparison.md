@@ -89,8 +89,8 @@ products:
     price: 550
     capacity: "500g"
     pricePerUnit: "約1.1円/g"
-    rating: 4.57
-    reviewCount: 21
+    rating: 4.81
+    reviewCount: 168
     features:
       - "合成界面活性剤不使用の酸素系石けん系クリーナー"
       - "塩素系漂白剤を含まない処方"
@@ -103,8 +103,8 @@ products:
       - "つけおき3〜4分後に数回注水が必要で手順が多め"
       - "強力なカビ汚れには塩素系より時間がかかる場合がある"
     recommendedFor: "無添加クリーナーを初めて試す方・塩素系が苦手な方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pon9n.3rdw60da.g00pon9n.3rdw7e25/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyakusou%2Fsyabondama08-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyakusou%2Fi%2F10009374%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yakusou/cabinet/img55691100.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ryk8n.3rdw6f15.g00ryk8n.3rdw7b8b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshabon%2F2230%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshabon%2Fi%2F10000069%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shabon/cabinet/item/2230_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -117,13 +117,13 @@ products:
         rating: 4.7
         reviewCount: 47
   - rank: 5
-    name: "洗たく槽クリーナー 500g×2袋"
+    name: "シャボン玉石けん 洗たく槽クリーナー 500g×2個"
     brand: "シャボン玉石けん"
-    price: 1698
-    capacity: "500g×2袋（1000g）"
-    pricePerUnit: "約1.7円/g"
-    rating: 4.66
-    reviewCount: 847
+    price: 1650
+    capacity: "500g×2個（1000g）"
+    pricePerUnit: "約1.6円/g"
+    rating: 4.76
+    reviewCount: 72
     features:
       - "合成香料・合成界面活性剤不使用のクリーナー"
       - "ドラム式・縦型の両方に対応"
@@ -136,8 +136,8 @@ products:
       - "単品に比べてまとまった収納スペースが必要"
       - "浸け置き時間の確保が必要"
     recommendedFor: "無添加処方で2回分ストックしておきたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qnb0n.3rdw67eb.g00qnb0n.3rdw74f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fichikawa929%2Fshabon_c2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fichikawa929%2Fi%2F10000207%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ichikawa929/cabinet/resetter/200.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbcon.3rdw6193.g00rbcon.3rdw7b41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikaiteki-shop%2F10001449%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikaiteki-shop%2Fi%2F10010471%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikaiteki-shop/cabinet/imgrc0091507900.jpg?_ex=128x128"
   - rank: 6
     name: "エスケー石鹸 すっきり洗濯槽クリーナー 3箱"
     brand: "エスケー石鹸"

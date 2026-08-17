@@ -29,28 +29,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7hcn.3rdw6d10.g00r7hcn.3rdw7ef9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoming%2Fcolor-jun1kyuhinrolls-t%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoming%2Fi%2F10000149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/coming/cabinet/daiichimoji/imgrc0078843721.jpg?_ex=128x128"
   - rank: 2
-    name: "再生紙トイレットペーパー ダブル 30m×12ロール×8パック"
-    brand: "カミングネット"
-    price: 3570
-    capacity: "30m×12ロール×8パック（96ロール）"
-    pricePerUnit: "約1.2円/m"
-    rating: 4.77
-    reviewCount: 290
-    features:
-      - "再生紙を使ったダブルタイプ"
-      - "無地・無印刷で日常使いしやすい"
-      - "まとめ買い向けのケース販売"
-    pros:
-      - "日常使いのストックをまとめて確保しやすい"
-      - "再生紙タイプを選びたい家庭に向いている"
-      - "シンプルな仕様で家庭用にも業務用にも使いやすい"
-    cons:
-      - "パルプ製品と比べると肌触りの好みが分かれる"
-      - "大容量のため保管スペースを事前に確認したい"
-    recommendedFor: "再生紙のダブルタイプをまとめ買いしたい方・家庭用のストックを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq8tn.3rdw6841.g00qq8tn.3rdw7945/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocodecow%2F833869%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocodecow%2Fi%2F10090023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/475/833869.jpg?_ex=128x128"
-  - rank: 3
     name: "ハロー トイレットペーパー ダブル 2倍巻き"
     brand: "ハロー"
     price: 6210
@@ -83,7 +61,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/stylem_aj4741mstyle284edf800d"
         available: true
-  - rank: 4
+  - rank: 3
     name: "スコッティ フラワーパック 3倍長持ち ダブル"
     brand: "日本製紙クレシア（スコッティ）"
     price: 6281
@@ -116,6 +94,28 @@ products:
         available: true
         rating: 4.78
         reviewCount: 552
+  - rank: 4
+    name: "ブルーネット トイレットペーパー ダブル 27.5m×12ロール×8パック"
+    brand: "カミングネット"
+    price: 4752
+    capacity: "27.5m×12ロール×8パック（96ロール）"
+    pricePerUnit: "約1.8円/m"
+    rating: 5
+    reviewCount: 5
+    features:
+      - "再生紙を使ったダブルタイプ"
+      - "無地・無印刷で日常使いしやすい"
+      - "まとめ買い向けのケース販売"
+    pros:
+      - "日常使いのストックをまとめて確保しやすい"
+      - "再生紙タイプを選びたい家庭に向いている"
+      - "シンプルな仕様で家庭用にも業務用にも使いやすい"
+    cons:
+      - "パルプ製品と比べると肌触りの好みが分かれる"
+      - "大容量のため保管スペースを事前に確認したい"
+    recommendedFor: "再生紙のダブルタイプをまとめ買いしたい方・家庭用のストックを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r90rn.3rdw6d63.g00r90rn.3rdw7ade/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwakuwaku-kobe%2F4972165012074%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwakuwaku-kobe%2Fi%2F10001689%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wakuwaku-kobe/cabinet/toipe_ippann/imgrc0095014555.jpg?_ex=128x128"
   - rank: 5
     name: "スコッティ フラワーパック 3倍長持ち ダブル 4ロール×12袋"
     brand: "日本製紙クレシア（スコッティ）"

@@ -40,39 +40,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901730160476"
         available: true
   - rank: 2
-    name: "薬用リステリン トータルケアゼロプラス ノンアルコール クリーンミント味"
-    brand: "ジョンソン・エンド・ジョンソン（リステリン）"
-    price: 3980
-    capacity: "1000mL×4本"
-    pricePerUnit: "約0.99円/mL"
-    rating: 4.7
-    reviewCount: 269
-    features:
-      - "ノンアルコール処方で刺激を抑えながら殺菌"
-      - "バクテリアフィルムに作用する7種の機能性成分配合"
-      - "クリーンミントの爽快な後味"
-    pros:
-      - "刺激が苦手な方もリステリンの殺菌力を体感できる"
-      - "4本まとめ買いで長期間の使用コストを抑えられる"
-      - "リステリンブランドの信頼性とノンアルコールの低刺激を両立"
-    cons:
-      - "アルコール配合タイプと比べると爽快感がやや控えめ"
-      - "4本セットのため保管スペースが必要"
-    recommendedFor: "リステリンを試したいがアルコール刺激が不安な方・まとめ買いでコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F89403%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10982577%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/403/89403.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F89403.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-09"
-        price: 4021
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_89403"
-        available: true
-        rating: 5
-        reviewCount: 5
-  - rank: 3
     name: "リステリン トータルケアプラス クリーンミント"
     brand: "LISTERINE（リステリン）"
     price: 5965
@@ -105,7 +72,7 @@ products:
         reviewCount: 32
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_70697"
         available: true
-  - rank: 4
+  - rank: 3
     name: "モンダミン プレミアムケア ゴールドミント"
     brand: "アース製薬（モンダミン）"
     price: 1047
@@ -138,7 +105,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901080248619"
         available: true
-  - rank: 5
+  - rank: 4
     name: "GUM デンタルリンス ナイトケア 900mL"
     brand: "サンスター（GUM）"
     price: 1038
@@ -171,6 +138,39 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+  - rank: 5
+    name: "薬用リステリン トータルケアゼロプラス ノンアルコール 1000mL×6本"
+    brand: "ジョンソン・エンド・ジョンソン（リステリン）"
+    price: 6920
+    capacity: "1000mL×6本（6000mL）"
+    pricePerUnit: "約1.2円/mL"
+    rating: 4.7
+    reviewCount: 269
+    features:
+      - "ノンアルコール処方で刺激を抑えながら殺菌"
+      - "バクテリアフィルムに作用する7種の機能性成分配合"
+      - "クリーンミントの爽快な後味"
+    pros:
+      - "刺激が苦手な方もリステリンの殺菌力を体感できる"
+      - "4本まとめ買いで長期間の使用コストを抑えられる"
+      - "リステリンブランドの信頼性とノンアルコールの低刺激を両立"
+    cons:
+      - "アルコール配合タイプと比べると爽快感がやや控えめ"
+      - "4本セットのため保管スペースが必要"
+    recommendedFor: "リステリンを試したいがアルコール刺激が不安な方・まとめ買いでコストを抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qml9n.3rdw6b88.g00qml9n.3rdw74eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoukaikenbi%2Fpal-4901730160766-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoukaikenbi%2Fi%2F10298220%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/soukaikenbi/cabinet/066/4901730160766.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F89403.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-09"
+        price: 4021
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_89403"
+        available: true
+        rating: 5
+        reviewCount: 5
   - rank: 6
     name: "システマ EX デンタルリンス"
     brand: "ライオン（システマ）"
@@ -227,13 +227,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pz2wn.3rdw6ac8.g00pz2wn.3rdw7cbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falpha-net%2F020-prf-0013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falpha-net%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/alpha-net/cabinet/profresh/imgrc0134851319.jpg?_ex=128x128"
   - rank: 8
-    name: "WHITH WHITE 薬用マウスウォッシュ 300mL"
+    name: "フィス ホワイト 薬用マウスウォッシュ 300mL"
     brand: "WHITH WHITE（フィスホワイト）"
     price: 2580
     capacity: "300mL"
     pricePerUnit: "約8.6円/mL"
     rating: 4.6
-    reviewCount: 2841
+    reviewCount: 2855
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"
@@ -247,7 +247,7 @@ products:
       - "ホワイトニング効果は継続使用が前提"
     recommendedFor: "ホワイトニングケアを日常に取り入れたい方・低刺激マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b071gypvwv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000116%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260804m/906b071gypvwv-50.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/whith/top/906b071gypvwv.jpg?_ex=128x128"
   - rank: 9
     name: "ドクターウォッシュ デンタル露ウォッシュ"
     brand: "ビーラッシュストア"

@@ -129,6 +129,41 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_hb15"
         available: true
   - rank: 5
+    name: "リセッシュ 除菌EX デオドラントパワー 香りが残らないタイプ 詰替 680mL"
+    brand: "花王"
+    price: 748
+    capacity: "680mL"
+    pricePerUnit: "約1.1円/mL"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "汗・皮脂臭まで徹底消臭、24時間ニオイ0へ"
+      - "布の奥まで浸透する中和消臭＋皮脂酸化ブロック技術"
+      - "99%除菌＆布製品の防カビ効果"
+      - "香りが残らないタイプ"
+    pros:
+      - "大容量3袋セットでコスパ良好"
+      - "花王の信頼品質で高い消臭力"
+      - "衣類・布製品・空間に幅広く使用可能"
+    cons:
+      - "詰め替え作業が必要で手間"
+      - "保管時に液漏れに注意"
+      - "香りを求める人には不向き"
+    recommendedFor: "布製品の臭い消し・キッチンや玄関にも使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t1zjn.3rdw66fb.g00t1zjn.3rdw7ada/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupplyshop%2F4901301388544%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupplyshop%2Fi%2F10034456%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/supplyshop/cabinet/544/4901301388544.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F113-8544-001.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-04"
+        price: 720
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_113-8544-001"
+        available: true
+        rating: 0
+        reviewCount: 0
+  - rank: 6
     name: "リセッシュ除菌EX ワイドジェット ストロング つめかえ用 630mL"
     brand: "花王"
     price: 740
@@ -161,41 +196,6 @@ products:
         updatedAt: "2026-07-06"
         price: 3080
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_580764"
-        available: true
-        rating: 0
-        reviewCount: 0
-  - rank: 6
-    name: "リセッシュ 除菌EX デオドラントパワー 香りが残らないタイプ 詰替 680mL"
-    brand: "花王"
-    price: 888
-    capacity: "680mL"
-    pricePerUnit: "約1.3円/mL"
-    rating: 3.25
-    reviewCount: 4
-    features:
-      - "汗・皮脂臭まで徹底消臭、24時間ニオイ0へ"
-      - "布の奥まで浸透する中和消臭＋皮脂酸化ブロック技術"
-      - "99%除菌＆布製品の防カビ効果"
-      - "香りが残らないタイプ"
-    pros:
-      - "大容量3袋セットでコスパ良好"
-      - "花王の信頼品質で高い消臭力"
-      - "衣類・布製品・空間に幅広く使用可能"
-    cons:
-      - "詰め替え作業が必要で手間"
-      - "保管時に液漏れに注意"
-      - "香りを求める人には不向き"
-    recommendedFor: "布製品の臭い消し・キッチンや玄関にも使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00txs3n.3rdw61d8.g00txs3n.3rdw705f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoppo888%2F10000756%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoppo888%2Fi%2F10003808%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/toppo888/cabinet/08362339/imgrc0109320672.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F113-8544-001.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-04"
-        price: 720
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_113-8544-001"
         available: true
         rating: 0
         reviewCount: 0

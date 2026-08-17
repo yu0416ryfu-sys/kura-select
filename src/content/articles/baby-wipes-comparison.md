@@ -309,11 +309,11 @@ products:
   - rank: 10
     name: "パンパース 肌へのいちばん おしりふき 56枚×12個"
     brand: "P&G（パンパース）"
-    price: 2783
+    price: 3180
     capacity: "56枚×12個（672枚）"
-    pricePerUnit: "約4.1円/枚"
-    rating: 4.77
-    reviewCount: 13
+    pricePerUnit: "約4.7円/枚"
+    rating: 4.92
+    reviewCount: 25
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -326,8 +326,8 @@ products:
       - "シートの厚みや香りの有無は好みが分かれる"
       - "ケースやフタの有無は商品ごとに確認が必要"
     recommendedFor: "おしりふきをまとめて備えておきたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhjwn.3rdw671d.g00uhjwn.3rdw7aba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faeonstyleonline%2Fp-4987176180575%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faeonstyleonline%2Fi%2F10001967%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aeonstyleonline/cabinet/thumbnailimg/kids/p-498717618057500.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F403821%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11062298%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/821/403821.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

@@ -4,7 +4,7 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -40,13 +40,13 @@ products:
         rating: 0
         reviewCount: 1
   - rank: 2
-    name: "ルックプラス バスタブクレンジング 銀イオンプラス ハーバルグリーン 詰替サイズ"
+    name: "ルックプラス バスタブクレンジング 銀イオンプラス ハーバルグリーン 詰替 800mL"
     brand: "ライオン（ルック）"
-    price: 3262
-    capacity: "800mL×6袋"
-    pricePerUnit: "約0.68円/mL"
-    rating: 4.71
-    reviewCount: 246
+    price: 535
+    capacity: "800mL"
+    pricePerUnit: "約0.67円/mL"
+    rating: 5
+    reviewCount: 19
     features:
       - "ミストスプレーで浴槽全体に広がる"
       - "こすらず60秒で皮脂汚れを分解"
@@ -59,8 +59,8 @@ products:
       - "詰め替え時にこぼしやすい"
       - "カビ取り効果はない（日常洗い専用）"
     recommendedFor: "最安値を求める方・浴槽掃除がメインの方・すすぎの楽さを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F85253%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10966194%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/253/85253.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4903301302674%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F13008452%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/5337/00000007925156_a01.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

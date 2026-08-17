@@ -4,7 +4,7 @@ description: "コンディショナーを1mLあたりのコストで徹底比較
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 products:
   - rank: 1
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
@@ -39,6 +39,39 @@ products:
         matchNotes: "入数違い採用（楽天は660mL×2個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 2
+    name: "エッセンシャル しっとりまとまる コンディショナー 詰替 1800mL"
+    brand: "花王（エッセンシャル）"
+    price: 1558
+    capacity: "1800mL"
+    pricePerUnit: "約0.87円/mL"
+    rating: 4.5
+    reviewCount: 4
+    features:
+      - "18-MEAオイル配合でキューティクルを保護し指通りをなめらかにする"
+      - "1800mL×2の大容量詰め替えで長期間使いやすい"
+      - "しっとりまとまる仕上がりを目指したコンディショナー"
+    pros:
+      - "大容量詰め替えで詰め替え頻度を大幅に減らせる"
+      - "花王の定番ラインで購入しやすく継続しやすい"
+      - "しっとりタイプで広がりやすい髪に向いている"
+    cons:
+      - "大容量のため保管スペースが必要"
+      - "しっとり感が強いためさらさら仕上がりを好む方には向かない"
+    recommendedFor: "大容量でコスパ重視の方・しっとりまとまる仕上がりが好みの方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301436573%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10023959%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/573/4901301436573.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F590828.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-18"
+        price: 3476
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_590828"
+        available: true
+  - rank: 3
     name: "メリット コンディショナー つめかえ用【メリット】"
     brand: "花王（メリット）"
     price: 6600
@@ -71,39 +104,6 @@ products:
         available: true
         rating: 4.67
         reviewCount: 3
-  - rank: 3
-    name: "エッセンシャル しっとりまとまる コンディショナー 1800mL×2"
-    brand: "花王（エッセンシャル）"
-    price: 3476
-    capacity: "1800mL×2（3600mL）"
-    pricePerUnit: "約0.97円/mL"
-    rating: 5
-    reviewCount: 2
-    features:
-      - "18-MEAオイル配合でキューティクルを保護し指通りをなめらかにする"
-      - "1800mL×2の大容量詰め替えで長期間使いやすい"
-      - "しっとりまとまる仕上がりを目指したコンディショナー"
-    pros:
-      - "大容量詰め替えで詰め替え頻度を大幅に減らせる"
-      - "花王の定番ラインで購入しやすく継続しやすい"
-      - "しっとりタイプで広がりやすい髪に向いている"
-    cons:
-      - "大容量のため保管スペースが必要"
-      - "しっとり感が強いためさらさら仕上がりを好む方には向かない"
-    recommendedFor: "大容量でコスパ重視の方・しっとりまとまる仕上がりが好みの方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F590828%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11297564%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/828/590828.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F590828.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-18"
-        price: 3476
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_590828"
-        available: true
   - rank: 4
     name: "デミ ミレアム ヘアケア コンディショナー 1800mL"
     brand: "デミ"

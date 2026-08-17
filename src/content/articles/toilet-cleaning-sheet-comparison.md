@@ -272,11 +272,11 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-30881"
         available: true
   - rank: 10
-    name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×6袋"
+    name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×3個"
     brand: "花王（クイックル）"
-    price: 3412
-    capacity: "16枚×6袋（96枚）"
-    pricePerUnit: "約36円/枚"
+    price: 1560
+    capacity: "16枚×3個（48枚）"
+    pricePerUnit: "約33円/枚"
     rating: 4.8
     reviewCount: 10
     features:
@@ -291,8 +291,8 @@ products:
       - "無香料を好む人には香りが強く感じる場合がある"
       - "一度に流せる枚数を守る必要がある"
     recommendedFor: "除菌力と香りの両方を重視したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F562311%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11180586%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/311/562311.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00su2mn.3rdw6afc.g00su2mn.3rdw77f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fu-denki%2F7256844%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fu-denki%2Fi%2F10049024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-denki/cabinet/11925706/7256844-p.jpg?_ex=128x128"
 tags:
   - "トイレ掃除シート おすすめ"
   - "トイレ掃除シート コスパ"

@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
@@ -194,28 +194,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4978951060458"
         available: true
   - rank: 7
-    name: "シャボン玉 酸素系漂白剤 750g×3個セット"
-    brand: "シャボン玉石けん"
-    price: 1622
-    capacity: "750g×3個（2250g）"
-    pricePerUnit: "約0.72円/g"
-    rating: 4.87
-    reviewCount: 190
-    features:
-      - "過炭酸ナトリウムのみを主成分とする粉末タイプ"
-      - "香料・蛍光増白剤を含まない無添加設計"
-      - "衣類のほか台所まわりにも使える"
-    pros:
-      - "成分がシンプルで香りが残らない"
-      - "つけ置きで衣類の黄ばみや臭いのケアがしやすい"
-      - "用途を選ばず使い回しやすい"
-    cons:
-      - "界面活性剤を含まないため洗浄力は洗剤との併用が前提"
-      - "お湯で溶かす手間がかかる"
-    recommendedFor: "無香料・無添加を重視する方・過炭酸ナトリウム単体で使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F27003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10819948%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/003/27003.jpg?_ex=128x128"
-  - rank: 8
     name: "オキシクリーン 計量スプーン付き 5.26kg"
     brand: "グラフィコ（オキシクリーン）"
     price: 3925
@@ -248,6 +226,28 @@ products:
         reviewCount: 33
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_757037000915"
         available: true
+  - rank: 8
+    name: "シャボン玉 酸素系漂白剤 750g×6袋"
+    brand: "シャボン玉石けん"
+    price: 3780
+    capacity: "750g×6袋（4500g）"
+    pricePerUnit: "約0.84円/g"
+    rating: 4.77
+    reviewCount: 71
+    features:
+      - "過炭酸ナトリウムのみを主成分とする粉末タイプ"
+      - "香料・蛍光増白剤を含まない無添加設計"
+      - "衣類のほか台所まわりにも使える"
+    pros:
+      - "成分がシンプルで香りが残らない"
+      - "つけ置きで衣類の黄ばみや臭いのケアがしやすい"
+      - "用途を選ばず使い回しやすい"
+    cons:
+      - "界面活性剤を含まないため洗浄力は洗剤との併用が前提"
+      - "お湯で溶かす手間がかかる"
+    recommendedFor: "無香料・無添加を重視する方・過炭酸ナトリウム単体で使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rl91n.3rdw6dd1.g00rl91n.3rdw7bbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiimonotokusen%2Fsyabondama-08%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiimonotokusen%2Fi%2F10000218%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iimonotokusen/cabinet/06423142/06423152/06667790/imgrc0077767503.jpg?_ex=128x128"
   - rank: 9
     name: "ワイドハイター EXパワー 粉末タイプ 業務用 3.5kg"
     brand: "花王（ワイドハイター）"

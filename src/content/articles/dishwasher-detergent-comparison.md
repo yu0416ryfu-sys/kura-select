@@ -4,7 +4,7 @@ description: "食洗機用洗剤を1回あたりのコストで徹底比較。�
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-17"
 products:
   - rank: 1
     name: "P&G 食洗機用ジョイ オレンジピール成分入り 詰替 490g"
@@ -75,11 +75,11 @@ products:
   - rank: 3
     name: "緑の魔女 オートキッチン 800g"
     brand: "ミマスクリーンケア"
-    price: 731
+    price: 713
     capacity: "800g"
-    pricePerUnit: "約0.91円/g"
-    rating: 4.63
-    reviewCount: 660
+    pricePerUnit: "約0.89円/g"
+    rating: 4.85
+    reviewCount: 136
     features:
       - "食器洗い乾燥機専用の洗剤"
       - "継続利用しやすい定番構成"
@@ -92,8 +92,8 @@ products:
       - "対応機種や投入量を確認したい"
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "食洗機の運用に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fr000200200764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10140577%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/915/4902875020915.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902875020915%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10002837%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic4902/4902875020915_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
