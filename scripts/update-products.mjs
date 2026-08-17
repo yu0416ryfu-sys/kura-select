@@ -1026,17 +1026,81 @@ if (!AFFILIATE_ID || AFFILIATE_ID === 'your_affiliate_id_here') {
 }
 
 // ─── 楽天商品検索APIで商品データを取得 ───────────────────────────────────
-const RAKUTEN_API_ENDPOINT = 'https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20220601';
+// 2026-08-17 に旧版 20220601 が廃止されたため 20260401 へ移行（タグ→属性機能の切替に伴うもの）
+// パラメータ・elements・formatVersion=2 のレスポンス構造は旧版と互換
+const RAKUTEN_API_ENDPOINT = 'https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20260401';
 const CONSECUTIVE_ZERO_ABORT = 3; // 連続この件数以上の0件エラーで中断（API障害検知用）
 let apiQueue = Promise.resolve();
 let lastApiRequestAt = 0;
+
+// ─── API 設定エラーの fail-fast 検知 ─────────────────────────────────────
+// 呼び出し側は fetch 失敗・非 2xx をすべて null 化して「APIで確認できません」に
+// 丸めるため、資格情報切れやエンドポイント廃止でも全115ファイルを空振りし続ける。
+// 2026-08-17 の 20220601 廃止では約3,500リクエストを無駄に投げたので、
+// 商品単位では回復しえないエラーが連続したら即座に理由を出して中断する。
+const FATAL_API_ERROR_ABORT = 3; // 連続この件数で中断（単発のゆらぎでは止めない）
+
+// 400 は「keyword is not valid」など商品固有の正当なエラーもあるため、
+// 設定不備を示す既知のメッセージだけを致命的として扱う
+const FATAL_API_BODY_PATTERNS = [
+  'API Configuration not found',      // アプリとAPIの紐付けなし / エンドポイント廃止
+  'specify valid applicationId',      // applicationId 不正
+  'Invalid Access Key',               // accessKey 不正
+  'must be present',                  // applicationId / accessKey の指定漏れ
+  'REQUEST_CONTEXT_BODY_HTTP_REFERRER_MISSING', // Origin / Referer 未送信
+  'Resource not found',               // エンドポイントのパス誤り / 廃止
+];
+
+let fatalApiErrorCount = 0;
+
+function isFatalApiError(status, body) {
+  if (status === 401 || status === 403 || status === 404) return true;
+  if (status === 400) return FATAL_API_BODY_PATTERNS.some(p => body.includes(p));
+  return false;
+}
+
+/**
+ * 設定不備エラーが連続したら理由を添えて中断する。
+ * API 呼び出し中（＝記事ファイル書き込み中でないタイミング）でのみ呼ばれる。
+ */
+function abortOnFatalApiError(status, body) {
+  fatalApiErrorCount++;
+  if (fatalApiErrorCount < FATAL_API_ERROR_ABORT) return;
+
+  const oneLine = body.replace(/\s+/g, ' ').slice(0, 300);
+  console.error('');
+  console.error('═'.repeat(60));
+  console.error(`❌ 楽天APIが設定エラーを返し続けています（連続${fatalApiErrorCount}件）。処理を中断します。`);
+  console.error(`   HTTP ${status}: ${oneLine}`);
+  console.error(`   endpoint: ${RAKUTEN_API_ENDPOINT}`);
+  console.error('');
+  console.error('   商品側の問題ではなく、次のいずれかです:');
+  console.error('   1. エンドポイントの廃止 … https://rakuten-webservice.tumblr.com/ の告知を確認');
+  console.error('   2. 資格情報の失効 … https://webservice.rakuten.co.jp/app/list でアプリID・accessKey を確認');
+  console.error('   3. 許可Webサイト（Origin / Referer）の設定変更');
+  console.error('');
+  console.error('   記事ファイルは更新していません（.bak も含め変更なし）。');
+  console.error('═'.repeat(60));
+  process.exit(1);
+}
 
 async function rateLimitedFetch(url, options) {
   const run = apiQueue.then(async () => {
     const waitMs = Math.max(0, API_INTERVAL_MS - (Date.now() - lastApiRequestAt));
     if (waitMs > 0) await sleep(waitMs);
     lastApiRequestAt = Date.now();
-    return fetch(url, options);
+    const res = await fetch(url, options);
+
+    if (res.ok) {
+      fatalApiErrorCount = 0; // 1件でも通れば設定は正常
+    } else {
+      // body は clone から読む（呼び出し側の res.json() を壊さないため）
+      let body = '';
+      try { body = await res.clone().text(); } catch { /* 読めなければ status だけで判定 */ }
+      if (isFatalApiError(res.status, body)) abortOnFatalApiError(res.status, body);
+    }
+
+    return res;
   });
   apiQueue = run.catch(() => {});
   return run;

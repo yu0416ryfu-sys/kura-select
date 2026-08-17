@@ -58,7 +58,8 @@ async function fetchAndMatch(productName, targetCode) {
     formatVersion: '2',
     elements: 'itemName,itemPrice,itemUrl',
   });
-  const url = `https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20220601?${params}`;
+  // 旧版 20220601 は 2026-08-17 廃止。20260401 を使う
+  const url = `https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20260401?${params}`;
   const res = await fetch(url, {
     headers: { accessKey: ACCESS_KEY, Origin: 'https://www.kura-select.com', Referer: 'https://www.kura-select.com/' },
     signal: AbortSignal.timeout(15000),
