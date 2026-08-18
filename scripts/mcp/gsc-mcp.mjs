@@ -102,15 +102,21 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
           },
           endDate: {
             type: "string",
-            description: "終了日 YYYY-MM-DD（例: 2026-04-30）",
+            description:
+              "終了日 YYYY-MM-DD（例: 2026-04-30）。GSC は解析日の2〜3日前までしか埋まらず、" +
+              "未反映日は0ではなく行ごと欠落する。日平均を出すときは返却された実データの最終日で割ること",
           },
           dimensions: {
             type: "array",
             items: {
               type: "string",
-              enum: ["query", "page", "country", "device"],
+              enum: ["date", "query", "page", "country", "device"],
             },
-            description: "集計軸（例: [\"query\"] or [\"page\"] or [\"query\",\"page\"]）",
+            description:
+              "集計軸（例: [\"date\"] or [\"query\"] or [\"query\",\"page\"]）。" +
+              "分析の冒頭で [\"date\"] を叩き、返却行の最終日を確定日として窓を切ること。" +
+              "サイト全体の合計は空配列 [] で取る（次元の行を足し上げるとズレる: query は匿名化で約-75%、page は表示が約+9.5%）。" +
+              "date と他次元を併用する場合は rowLimit を「日数 × 想定行数」以上に上げる（既定100だと途中で打ち切られ、後半の日が欠測に見える）",
           },
           rowLimit: {
             type: "number",

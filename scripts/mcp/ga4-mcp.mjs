@@ -90,7 +90,10 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
           },
           endDate: {
             type: "string",
-            description: "終了日 YYYY-MM-DD、または yesterday、today",
+            description:
+              "終了日 YYYY-MM-DD、または yesterday。" +
+              "※ today は当日の部分データしか返らない（実測: 通常日 55〜104 PV に対し当日午前は 2 PV）。" +
+              "疎通確認やイベント発火チェックには使ってよいが、日平均・施策判定には使わないこと",
           },
           dimensions: {
             type: "array",
