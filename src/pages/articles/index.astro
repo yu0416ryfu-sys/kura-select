@@ -41,12 +41,20 @@ const articles = (await getCollection("articles"))
             日用品・消耗品の比較記事を新しい順に掲載しています。
           </p>
         </div>
-        <a
-          href={url("/search")}
-          class="inline-flex items-center justify-center rounded-lg border border-[var(--color-border)] bg-white px-4 py-2 text-sm font-medium text-[var(--color-text)] transition-colors hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
-        >
-          記事・商品を検索
-        </a>
+        <div class="flex flex-wrap gap-2">
+          <a
+            href={url("/sitemap")}
+            class="inline-flex items-center justify-center rounded-lg border border-[var(--color-border)] bg-white px-4 py-2 text-sm font-medium text-[var(--color-text)] transition-colors hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+          >
+            カテゴリ別に全記事を見る
+          </a>
+          <a
+            href={url("/search")}
+            class="inline-flex items-center justify-center rounded-lg border border-[var(--color-border)] bg-white px-4 py-2 text-sm font-medium text-[var(--color-text)] transition-colors hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2"
+          >
+            記事・商品を検索
+          </a>
+        </div>
       </div>
     </header>
 
