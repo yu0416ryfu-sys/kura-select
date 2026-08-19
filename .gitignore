@@ -74,8 +74,8 @@ portable-sync.ps1
 # 確認用ファイル
 rakuten-check.csv
 
-# RAG
-data/
+# RAG（生成物のみ除外。再生成不能な削除履歴は追跡する）
+data/rag/
 
 # サービスアカウント鍵（万一リポジトリ内に置かれた場合の保険。本来は ~/.config/kura-select/ に配置）
 *service-account*.json
