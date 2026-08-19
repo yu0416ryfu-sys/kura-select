@@ -4,7 +4,7 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 draft: false
 products:
   - rank: 1
@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgrowrichjapan%2F4891228309626-1.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 3668
-        rating: 4.75
-        reviewCount: 51
+        rating: 4.7
+        reviewCount: 53
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/growrichjapan_4891228309626-1"
         available: true
   - rank: 2
@@ -66,8 +66,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430688635.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        matchStatus: "matched"
+        updatedAt: "2026-08-19"
         price: 2351
         rating: 4.75
         reviewCount: 12
@@ -132,8 +132,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Framonu%2F230522-8002.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        matchStatus: "matched"
+        updatedAt: "2026-08-19"
         price: 3480
         rating: 4.49
         reviewCount: 39
@@ -145,8 +145,8 @@ products:
     price: 1000
     capacity: "1個"
     pricePerUnit: "約1000円/個"
-    rating: 4.52
-    reviewCount: 1777
+    rating: 4.53
+    reviewCount: 1779
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

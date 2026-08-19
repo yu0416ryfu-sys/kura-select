@@ -62,6 +62,17 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rydin.3rdw6f27.g00rydin.3rdw71ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fazon-bitokenkou%2F4957434002796-60%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fazon-bitokenkou%2Fi%2F10000117%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/azon-bitokenkou/cabinet/04067745/04084923/4957434002796-60.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale%2F4957434002796330.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-19"
+        price: 5990
+        rating: 4.15
+        reviewCount: 55
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale_4957434002796330"
+        available: true
   - rank: 3
     name: "流せる トイレクリーナー 除菌 消臭 エンボスシート"
     brand: "ワゴンセール"
@@ -89,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale%2F4988787090024-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-19"
         price: 1780
         rating: 4.49
         reviewCount: 43
@@ -144,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F4901301510808.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-19"
         price: 3036
         rating: 0
         reviewCount: 1
@@ -265,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhome-life%2F101-30881.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-19"
         price: 333
         rating: 0
         reviewCount: 0

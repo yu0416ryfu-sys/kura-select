@@ -254,8 +254,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdouguyasan%2Fp5-tasco-ta981ag-2.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        matchStatus: "matched"
+        updatedAt: "2026-08-19"
         price: 2805
         rating: 0
         reviewCount: 0

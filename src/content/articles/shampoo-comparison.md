@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 products:
   - rank: 1
     name: "ザクロー精炭酸シャンプー 詰替用"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmomotaroucrub%2Fa--h-sy-0020-00-muryo.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 2550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/momotaroucrub_a--h-sy-0020-00-muryo"
         available: true
@@ -64,14 +64,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301450128.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00020584.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-16"
-        price: 748
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301450128"
+        updatedAt: "2026-08-19"
+        price: 1166
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00020584"
         available: true
         rating: 0
-        reviewCount: 2
+        reviewCount: 0
   - rank: 3
     name: "ケフトル スカルプシャンプー"
     brand: "ケフトル"
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcerapure%2Fkf-22.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 3350
         rating: 4.75
         reviewCount: 4
@@ -148,13 +148,13 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rtxcn.3rdw61bb.g00rtxcn.3rdw7a34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fu-ma-store%2F001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fu-ma-store%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-ma-store/cabinet/ciers/2606/shampoo_10off.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-ma-store/cabinet/main/imgrc0115982279.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmcosme-style%2Fumahai0000.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
+        updatedAt: "2026-08-19"
         price: 4400
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mcosme-style_umahai0000"
         available: true
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisopo%2F3474636858033.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 4180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_3474636858033"
         available: true
@@ -233,7 +233,7 @@ products:
     capacity: "1本"
     pricePerUnit: "約2546円/本"
     rating: 4.63
-    reviewCount: 469
+    reviewCount: 470
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"

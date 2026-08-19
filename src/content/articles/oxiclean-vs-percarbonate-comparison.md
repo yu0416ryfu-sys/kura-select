@@ -4,7 +4,7 @@ description: "オキシクリーンと過炭酸ナトリウム（酸素系漂白
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann3k.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-19"
         price: 1130
         rating: 4.71
         reviewCount: 243
@@ -47,7 +47,7 @@ products:
     capacity: "4.5kg"
     pricePerUnit: "約0.48円/g"
     rating: 4.84
-    reviewCount: 748
+    reviewCount: 749
     features:
       - "過炭酸ナトリウム100%の特大サイズ"
       - "洗濯槽掃除と浸け置き洗いを想定した容量"
@@ -67,10 +67,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann5k.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-19"
         price: 1480
         rating: 4.77
-        reviewCount: 250
+        reviewCount: 252
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann5k"
         available: true
   - rank: 3
@@ -100,10 +100,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann1.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-19"
         price: 598
         rating: 4.56
-        reviewCount: 2049
+        reviewCount: 2056
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann1"
         available: true
   - rank: 4
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fares%2F700056.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 1991
         rating: 4.66
         reviewCount: 77
@@ -166,10 +166,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkameyamastore%2Fcos-28137.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-19"
         price: 3230
-        rating: 4.75
-        reviewCount: 93
+        rating: 4.74
+        reviewCount: 94
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kameyamastore_cos-28137"
         available: true
   - rank: 6
@@ -179,7 +179,7 @@ products:
     capacity: "900g"
     pricePerUnit: "約0.71円/g"
     rating: 4.83
-    reviewCount: 386
+    reviewCount: 387
     features:
       - "国内製造の過炭酸ナトリウム"
       - "少量から試せる小容量パッケージ"
@@ -199,7 +199,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fares%2F700181001.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 638
         rating: 4.85
         reviewCount: 40
@@ -234,7 +234,7 @@ products:
     capacity: "1500g"
     pricePerUnit: "約1.0円/g"
     rating: 4.53
-    reviewCount: 1050
+    reviewCount: 1051
     features:
       - "日本国内向けに販売されている無香料タイプ"
       - "界面活性剤と柔軟成分を配合していない処方"
@@ -287,7 +287,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7180967.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 2280
         rating: 4.61
         reviewCount: 36

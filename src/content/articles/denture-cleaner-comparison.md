@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072029572.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 562
         rating: 4.79
         reviewCount: 24
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901080702111.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 928
         rating: 0
         reviewCount: 1
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkarayasa%2F03-sm2.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 3600
         rating: 4.67
         reviewCount: 6

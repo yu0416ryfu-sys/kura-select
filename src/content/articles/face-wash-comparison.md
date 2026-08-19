@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 products:
   - rank: 1
     name: "洗顔フォーム 毛穴 ロゼット洗顔パスタ 海泥スムース WEB限定2倍"
@@ -13,7 +13,7 @@ products:
     capacity: "240g"
     pricePerUnit: "約5.0円/g"
     rating: 4.72
-    reviewCount: 81
+    reviewCount: 82
     features:
       - "海泥（かいでい）が毛穴汚れを吸着除去"
       - "きめ細かいクリーミーな泡立ち"
@@ -134,7 +134,7 @@ products:
     capacity: "130g"
     pricePerUnit: "約17円/g"
     rating: 4.62
-    reviewCount: 1252
+    reviewCount: 1253
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -148,7 +148,7 @@ products:
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "肌質や洗い上がりで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b01n0bsytw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000261%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/allna/905b01n0bsytw/202509/905b01n0bsytw.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/905b01n0bsytw-20.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -168,7 +168,7 @@ products:
     capacity: "110g"
     pricePerUnit: "約18円/g"
     rating: 4.6
-    reviewCount: 1850
+    reviewCount: 1853
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -182,7 +182,7 @@ products:
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "肌質や洗い上がりで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tfrwn.3rdw669e.g00tfrwn.3rdw74a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdomecare%2Fdmc_micro-cray-wash%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdomecare%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/domecare/cabinet/campain1/30per/mcwsamnew_30per.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/domecare/cabinet/microcraywash/mcwsam2-8.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flesthemo%2Fsoap150g.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-19"
         price: 2680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lesthemo_soap150g"
         available: true
@@ -230,9 +230,9 @@ products:
   - rank: 8
     name: "ルアド 洗顔パウダー 67g×3袋"
     brand: "ルアド"
-    price: 3711
+    price: 4125
     capacity: "67g×3袋"
-    pricePerUnit: "約18円/g"
+    pricePerUnit: "約21円/g"
     rating: 4.83
     reviewCount: 5614
     features:
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000154951.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 1320
         rating: 0
         reviewCount: 0

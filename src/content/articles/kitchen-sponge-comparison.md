@@ -4,7 +4,7 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 products:
   - rank: 1
     name: "セルロース製 食器洗いスポンジ 6個パック SDGs プラスチックフリー"
@@ -12,8 +12,8 @@ products:
     price: 870
     capacity: "6個"
     pricePerUnit: "約145円/個"
-    rating: 4.56
-    reviewCount: 179
+    rating: 4.55
+    reviewCount: 180
     features:
       - "天然セルロース素材でプラスチックフリーの環境配慮設計"
       - "吸水性が高く使用後の乾きが速い"
@@ -35,7 +35,7 @@ products:
     capacity: "6個（約6ヶ月分）"
     pricePerUnit: "約177円/個"
     rating: 4.78
-    reviewCount: 9884
+    reviewCount: 9885
     features:
       - "3層構造で泡立ち・水切れ・耐久性を両立"
       - "楽天レビュー数トップクラスの圧倒的人気"
@@ -55,10 +55,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdusdus%2Fdssmn6.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-30"
-        price: 1200
+        updatedAt: "2026-08-19"
+        price: 1220
         rating: 4.88
-        reviewCount: 500
+        reviewCount: 502
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dusdus_dssmn6"
         available: true
   - rank: 3
@@ -68,7 +68,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.76
-    reviewCount: 1376
+    reviewCount: 1377
     features:
       - "ポリウレタンフォーム＋ナイロン不織布＋ポリエステルの3素材構造"
       - "ブラック・グレー・ホワイトのモノトーン3色展開"
@@ -110,7 +110,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft1105-01.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-19"
         price: 410
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t1105-01"
         available: true
@@ -138,6 +138,17 @@ products:
     recommendedFor: "用途別に色分けして使いたい方・耐久性重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxc7n.3rdw6ae4.g00sxc7n.3rdw7171/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fduskin100504%2F03115400%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fduskin100504%2Fi%2F10000038%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/duskin100504/cabinet/itempic202604/03115400.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdusrara%2F121.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-19"
+        price: 1220
+        rating: 4.81
+        reviewCount: 1254
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/dusrara_121"
+        available: true
   - rank: 6
     name: "パックスナチュロン キッチンスポンジ"
     brand: "パックスナチュロン（PAX NATURON）"
@@ -198,7 +209,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funmaison%2F19311003.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-19"
         price: 880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unmaison_19311003"
         available: true
@@ -244,7 +255,7 @@ products:
     capacity: "8個（4個×2組）"
     pricePerUnit: "約384円/個"
     rating: 4.81
-    reviewCount: 2556
+    reviewCount: 2557
     features:
       - "全9色から選べるモノトーン系カラー展開"
       - "長持ちしやすい設計の食器洗いスポンジ"
@@ -264,10 +275,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsunsunsponge%2Ftss08b.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 3073
         rating: 4.86
-        reviewCount: 260
+        reviewCount: 261
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sunsunsponge_tss08b"
         available: true
 tags:

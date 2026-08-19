@@ -4,7 +4,7 @@ description: "排水口クリーナーを容量あたりのコストで比較。
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-19"
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "400g"
     pricePerUnit: "約0.80円/g"
     rating: 4.94
-    reviewCount: 17
+    reviewCount: 18
     features:
       - "排水口や排水管向けの洗浄剤"
       - "台所や浴室まわりの排水口ケア向け"
@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F101-4901609000926.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 331
         rating: 0
         reviewCount: 0
@@ -168,7 +168,7 @@ products:
     capacity: "600g×2本（1200g）"
     pricePerUnit: "約3.4円/g"
     rating: 4.59
-    reviewCount: 358
+    reviewCount: 359
     features:
       - "水酸化ナトリウムを含む強力配管洗浄剤"
       - "油脂・毛髪・食べ物などのつまりに対応"

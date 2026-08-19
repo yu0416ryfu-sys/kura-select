@@ -4,7 +4,7 @@ description: "45リットルのゴミ袋はどこが安い？1枚あたりの価
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -13,7 +13,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.76
-    reviewCount: 1583
+    reviewCount: 1584
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2Fpphalf300.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
-        price: 1105
+        updatedAt: "2026-08-19"
+        price: 1100
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_pphalf300"
         available: true
         rating: 4.84
-        reviewCount: 933
+        reviewCount: 935
   - rank: 2
     name: "HEIKO PPパン袋 20-30 300枚"
     brand: "HEIKO"
@@ -46,7 +46,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約4.2円/枚"
     rating: 4.85
-    reviewCount: 286
+    reviewCount: 287
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2F2030l300.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 1170
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_2030l300"
         available: true
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7661730.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 7656
         rating: 4.74
         reviewCount: 43
@@ -163,7 +163,7 @@ products:
   - rank: 6
     name: "サンキョウプラテック ごみ袋 45L 半透明 100枚×2小箱"
     brand: "サンキョウプラテック"
-    price: 2060
+    price: 2020
     capacity: "100枚×2小箱（200枚）"
     pricePerUnit: "約10円/枚"
     rating: 4.64
@@ -273,14 +273,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale%2F4974824122612-4.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpoly-life%2Fkpl-450-2pc.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-16"
-        price: 2480
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale_4974824122612-4"
+        updatedAt: "2026-08-19"
+        price: 2020
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/poly-life_kpl-450-2pc"
         available: true
-        rating: 4.46
-        reviewCount: 54
+        rating: 4.94
+        reviewCount: 18
 tags:
   - "ゴミ袋"
   - "コスパ"

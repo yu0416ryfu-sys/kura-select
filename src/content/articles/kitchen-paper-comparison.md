@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -157,7 +157,7 @@ products:
     capacity: "400枚"
     pricePerUnit: "約9.2円/枚"
     rating: 4.71
-    reviewCount: 362
+    reviewCount: 364
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -177,12 +177,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkeyroom%2F4901750370008-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-16"
-        price: 3480
+        updatedAt: "2026-08-19"
+        price: 3680
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/keyroom_4901750370008-10"
         available: true
-        rating: 4.83
-        reviewCount: 53
+        rating: 4.81
+        reviewCount: 54
   - rank: 7
     name: "リード クッキングペーパー レギュラー 40枚×5個セット"
     brand: "リード"
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4975156901005.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-19"
         price: 4440
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4975156901005"
         available: true

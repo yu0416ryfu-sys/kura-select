@@ -4,7 +4,7 @@ description: "歯ブラシを1本あたりのコストで徹底比較。シス�
 category: "toothpaste"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 products:
   - rank: 1
     name: "FEED Shu&Shu 大人用歯ブラシアソート 20本 M"
@@ -68,7 +68,7 @@ products:
     capacity: "50本"
     pricePerUnit: "約73円/本"
     rating: 4.67
-    reviewCount: 1228
+    reviewCount: 1230
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -90,7 +90,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約74円/本"
     rating: 4.81
-    reviewCount: 4881
+    reviewCount: 4886
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Fs9.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 1680
         rating: 4.39
         reviewCount: 138
@@ -189,7 +189,7 @@ products:
     capacity: "30本"
     pricePerUnit: "約139円/本"
     rating: 4.73
-    reviewCount: 2185
+    reviewCount: 2186
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -231,12 +231,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Ft24z.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-19"
         price: 1468
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_t24z"
         available: true
         rating: 4.63
-        reviewCount: 2650
+        reviewCount: 2656
   - rank: 10
     name: "オーラルB 互換替えブラシ"
     brand: "オーラルB互換"

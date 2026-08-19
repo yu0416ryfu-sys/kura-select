@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -65,8 +65,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F70697.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        matchStatus: "matched"
+        updatedAt: "2026-08-19"
         price: 5965
         rating: 4.63
         reviewCount: 32
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901080248619.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 1039
         rating: 0
         reviewCount: 1
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901616010888.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 1058
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4901616010888"
         available: true
@@ -233,7 +233,7 @@ products:
     capacity: "300mL"
     pricePerUnit: "約8.6円/mL"
     rating: 4.6
-    reviewCount: 2855
+    reviewCount: 2856
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"
@@ -288,7 +288,7 @@ products:
     capacity: "100mL（約700回分）"
     pricePerUnit: "約22円/mL"
     rating: 4.76
-    reviewCount: 592
+    reviewCount: 595
     features:
       - "歯科医院で推奨される薬用マウスウォッシュ"
       - "グルコン酸クロルヘキシジン配合で高い殺菌力"

@@ -4,7 +4,7 @@ description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あ�
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "100g×2袋"
     pricePerUnit: "約7.9円/g"
     rating: 4.42
-    reviewCount: 3150
+    reviewCount: 3151
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -78,7 +78,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpeacehair%2Fsai500gset.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/peacehair_sai500gset"
         available: true
@@ -111,7 +111,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsvenson%2Fhsrfl.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 7700
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/svenson_hsrfl"
         available: true
@@ -124,7 +124,7 @@ products:
     capacity: "400g"
     pricePerUnit: "約15円/g"
     rating: 4.37
-    reviewCount: 8024
+    reviewCount: 8039
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -144,12 +144,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsakura-place%2F10008554.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 5808
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sakura-place_10008554"
         available: true
         rating: 4.42
-        reviewCount: 1761
+        reviewCount: 1768
   - rank: 6
     name: "クリームシャンプー Mee color 白髪染め"
     brand: "Mee color（ミーカラー）"
@@ -157,7 +157,7 @@ products:
     capacity: "350g"
     pricePerUnit: "約16円/g"
     rating: 4.26
-    reviewCount: 2967
+    reviewCount: 2970
     features:
       - "洗いながら染めるクリームシャンプータイプ"
       - "白髪染め・トリートメント機能を兼ねる"
@@ -177,10 +177,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fibiki-kenkyujyo%2Faz711.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 5478
         rating: 4.17
-        reviewCount: 1059
+        reviewCount: 1064
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ibiki-kenkyujyo_az711"
         available: true
   - rank: 7
@@ -212,7 +212,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.5
-    reviewCount: 2594
+    reviewCount: 2597
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -234,7 +234,7 @@ products:
     capacity: "3個"
     pricePerUnit: "約5808円/個"
     rating: 4.52
-    reviewCount: 1690
+    reviewCount: 1691
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

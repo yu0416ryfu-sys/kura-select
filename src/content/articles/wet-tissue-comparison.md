@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ10選を1枚あたり単
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 products:
   - rank: 1
     name: "ノンアルコール 99%除菌ウェットティッシュ"
@@ -43,11 +43,11 @@ products:
   - rank: 2
     name: "レック 水99.9％ 手口ふき"
     brand: "レック"
-    price: 2390
+    price: 2180
     capacity: "80枚×15個"
-    pricePerUnit: "約2.0円/枚"
+    pricePerUnit: "約1.8円/枚"
     rating: 4.69
-    reviewCount: 4710
+    reviewCount: 4715
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -135,7 +135,7 @@ products:
     capacity: "60枚×48個（2,880枚）"
     pricePerUnit: "約2.6円/枚"
     rating: 4.42
-    reviewCount: 482
+    reviewCount: 483
     features:
       - "アルコール配合で除菌用途に向いたタイプ"
       - "厚手シートで拭き取りやすい設計"
@@ -168,7 +168,7 @@ products:
     capacity: "43枚×8個×4個（1376枚）"
     pricePerUnit: "約3.8円/枚"
     rating: 4.75
-    reviewCount: 235
+    reviewCount: 236
     features:
       - "ノンアルコールタイプの除菌ウェットティッシュ詰替"
       - "ワンプッシュで開閉できる取り出し口設計"
@@ -243,7 +243,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F89874.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-08-19"
         price: 6989
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_89874"
         available: true
@@ -276,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4903301291022.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 205
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4903301291022"
         available: true
@@ -289,7 +289,7 @@ products:
     capacity: "96枚"
     pricePerUnit: "約31円/枚"
     rating: 4.37
-    reviewCount: 383
+    reviewCount: 384
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"

@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "75mL"
     pricePerUnit: "約15円/mL"
     rating: 4.75
-    reviewCount: 2907
+    reviewCount: 2908
     features:
       - "無香料タイプの洗い流さないヘアエッセンス（オイルタイプ）"
       - "天然由来成分配合でくせ毛・うねりに対応したしっとり仕上がり設計"
@@ -135,7 +135,7 @@ products:
     capacity: "150mL"
     pricePerUnit: "約20円/mL"
     rating: 4.55
-    reviewCount: 1090
+    reviewCount: 1092
     features:
       - "100%植物由来成分（スクワラン・アルガンオイル・ホホバオイル配合）"
       - "濡れ髪・乾いた髪どちらにも使えるアウトバスオイル"
@@ -168,7 +168,7 @@ products:
     capacity: "20mL"
     pricePerUnit: "約28円/mL"
     rating: 4.71
-    reviewCount: 1999
+    reviewCount: 2000
     features:
       - "オーガニック認証のホホバオイル（ゴールデン脱臭タイプ）。天然100%・無添加"
       - "20mL・100mL・300mL・500mL・1000mLの幅広いサイズ展開"
@@ -189,7 +189,7 @@ products:
     capacity: "80mL"
     pricePerUnit: "約29円/mL"
     rating: 4.64
-    reviewCount: 13762
+    reviewCount: 13763
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -203,7 +203,7 @@ products:
       - "成分の詳細情報が商品ページ上で少なめのため、成分重視の人は要確認"
     recommendedFor: "軽めのナチュラル仕上がりを好む人・オーガニック系成分にこだわりたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F90xb079s1wb7s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000288%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/allna/top/90xb079s1wb7s.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/90xb079s1wb7s-20.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -216,35 +216,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/adew_manual-haire-3set"
         available: true
   - rank: 8
-    name: "マドンナリリ ヘアオイル 100mL"
-    brand: "MADONNA LILI"
-    price: 3035
-    capacity: "100mL"
-    pricePerUnit: "約30円/mL"
-    rating: 4.58
-    reviewCount: 5304
-    features:
-      - "天然植物由来成分100%・無添加処方（パラベン・シリコン・鉱物油不使用）"
-      - "アルガンオイルなど天然オイル配合のさらさら軽め仕上がり"
-      - "洗い流さないアウトバストリートメント・日本製"
-    pros:
-      - "無添加・天然由来にこだわりたい人が選びやすい"
-      - "べたつきにくい軽い使用感のため、細毛や軟毛の人にも向く"
-      - "日本製にこだわる人が選びやすい"
-    cons:
-      - "シリコン系ほどのコーティング感・まとまり感は出にくい"
-      - "天然由来の香りのため、香りの強さが人によって合わない場合がある"
-    recommendedFor: "無添加・天然由来成分にこだわりたい人・軽いさらさら仕上がりを好む人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ulahn.3rdw62d3.g00ulahn.3rdw7299/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1000cut-carpediem%2Fb08svn8ww7%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1000cut-carpediem%2Fi%2F10149741%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1000cut-carpediem/cabinet/rakub210_0064/b08svn8ww700.jpg?_ex=128x128"
-  - rank: 9
     name: "LOA THE OIL"
     brand: "life of aroma"
     price: 3520
     capacity: "100mL"
     pricePerUnit: "約35円/mL"
     rating: 4.64
-    reviewCount: 3934
+    reviewCount: 3946
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"
@@ -270,6 +248,28 @@ products:
         available: true
         rating: 4.67
         reviewCount: 405
+  - rank: 9
+    name: "マドンナリリ ヘアオイル 100mL"
+    brand: "MADONNA LILI"
+    price: 3840
+    capacity: "100mL"
+    pricePerUnit: "約38円/mL"
+    rating: 4.58
+    reviewCount: 5304
+    features:
+      - "天然植物由来成分100%・無添加処方（パラベン・シリコン・鉱物油不使用）"
+      - "アルガンオイルなど天然オイル配合のさらさら軽め仕上がり"
+      - "洗い流さないアウトバストリートメント・日本製"
+    pros:
+      - "無添加・天然由来にこだわりたい人が選びやすい"
+      - "べたつきにくい軽い使用感のため、細毛や軟毛の人にも向く"
+      - "日本製にこだわる人が選びやすい"
+    cons:
+      - "シリコン系ほどのコーティング感・まとまり感は出にくい"
+      - "天然由来の香りのため、香りの強さが人によって合わない場合がある"
+    recommendedFor: "無添加・天然由来成分にこだわりたい人・軽いさらさら仕上がりを好む人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ulahn.3rdw62d3.g00ulahn.3rdw7299/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1000cut-carpediem%2Fb08svn8ww7%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1000cut-carpediem%2Fi%2F10149741%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1000cut-carpediem/cabinet/rakub210_0064/b08svn8ww700.jpg?_ex=128x128"
   - rank: 10
     name: "アメイジングシャインヘアオイル"
     brand: "クイーンズバスルーム"

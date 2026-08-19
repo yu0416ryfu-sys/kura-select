@@ -33,8 +33,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F67491.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        matchStatus: "matched"
+        updatedAt: "2026-08-19"
         price: 5580
         rating: 5
         reviewCount: 3
@@ -89,8 +89,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshiningstore-next%2Fauc-no-42564-004.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-16"
-        price: 9533
+        updatedAt: "2026-08-19"
+        price: 9058
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shiningstore-next_auc-no-42564-004"
@@ -121,8 +121,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901301396556.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        matchStatus: "matched"
+        updatedAt: "2026-08-19"
         price: 1590
         rating: 5
         reviewCount: 5
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2873471017.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 6811
         rating: 5
         reviewCount: 3

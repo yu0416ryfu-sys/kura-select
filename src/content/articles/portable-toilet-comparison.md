@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ10選を1回
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "60回分（50回＋10回）"
     pricePerUnit: "約21円/回"
     rating: 4.5
-    reviewCount: 7105
+    reviewCount: 7112
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -56,10 +56,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fulimalie%2F99jun24yjcs02.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-19"
         price: 4980
-        rating: 4.56
-        reviewCount: 96
+        rating: 4.57
+        reviewCount: 97
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ulimalie_99jun24yjcs02"
         available: true
   - rank: 3
@@ -83,16 +83,16 @@ products:
       - "凝固スピードや使用感は環境で差が出る"
     recommendedFor: "初めて簡易トイレを備える方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ttlin.3rdw62eb.g00ttlin.3rdw7fe0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftokyohiromi%2Fmkdj-easycs60%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftokyohiromi%2Fi%2F10004913%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tokyohiromi/cabinet/jinming15/imgrc0110552570.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tokyohiromi/cabinet/mkdj-easycs/imgrc0120119448.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoco-yasashisaya%2Fsaimol01.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-19"
         price: 3780
         rating: 4.49
-        reviewCount: 780
+        reviewCount: 781
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coco-yasashisaya_saimol01"
         available: true
   - rank: 4
@@ -101,8 +101,8 @@ products:
     price: 3980
     capacity: "100回分"
     pricePerUnit: "約40円/回"
-    rating: 4.42
-    reviewCount: 259
+    rating: 4.43
+    reviewCount: 260
     features:
       - "1回分ずつ個包装された凝固剤と汚物袋のセット"
       - "短時間で固まる吸水ポリマー処方"
@@ -122,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fozoneassocia%2Ftoilet100.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 3980
         rating: 4.25
         reviewCount: 208
@@ -155,10 +155,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2Fps-100.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 4999
         rating: 4.53
-        reviewCount: 614
+        reviewCount: 615
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
         available: true
   - rank: 6
@@ -210,10 +210,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2Fps-100.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 4999
         rating: 4.53
-        reviewCount: 614
+        reviewCount: 615
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
         available: true
   - rank: 8
@@ -223,7 +223,7 @@ products:
     capacity: "20回分"
     pricePerUnit: "約69円/回"
     rating: 4.52
-    reviewCount: 7206
+    reviewCount: 7207
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"

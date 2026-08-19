@@ -32,8 +32,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fn-mark%2F4901422055158.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        matchStatus: "matched"
+        updatedAt: "2026-08-19"
         price: 9999
         rating: 0
         reviewCount: 0
@@ -64,13 +64,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901670110197.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F71920-1.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-16"
-        price: 348
-        rating: 4.88
-        reviewCount: 156
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901670110197"
+        updatedAt: "2026-08-19"
+        price: 2280
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_71920-1"
         available: true
   - rank: 3
     name: "NEWクレラップ お徳用レギュラー 30cm×50m"
@@ -98,8 +98,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901422153502.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        matchStatus: "matched"
+        updatedAt: "2026-08-19"
         price: 501
         rating: 4.86
         reviewCount: 7
@@ -164,8 +164,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9649965.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        matchStatus: "matched"
+        updatedAt: "2026-08-19"
         price: 1379
         rating: 5
         reviewCount: 3
@@ -228,8 +228,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshiningone23%2Fp09f1190c71.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        matchStatus: "matched"
+        updatedAt: "2026-08-19"
         price: 2136
         rating: 0
         reviewCount: 1
@@ -261,8 +261,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901670110210-73-30001391.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        matchStatus: "matched"
+        updatedAt: "2026-08-19"
         price: 290
         rating: 4.6
         reviewCount: 5
@@ -317,7 +317,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F350600.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-19"
         price: 13090
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_350600"
         available: true

@@ -4,7 +4,7 @@ description: "クッキングシートを1mあたりの価格で比較。ロー�
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 products:
   - rank: 1
     name: "フジ クッキングシート 業務用 33cm×30m"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackage-marche%2F51849.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 9440
         rating: 5
         reviewCount: 14
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Far-06018k.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-19"
         price: 21390
         rating: 0
         reviewCount: 0
@@ -182,14 +182,25 @@ products:
     recommendedFor: "透明タイプで食材の様子を見ながら調理したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcjnn.3rdw6d42.g00qcjnn.3rdw7869/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujinami%2F100020900%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujinami%2Fi%2F10006931%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fujinami/cabinet/shohin07/100020900052.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujinamisquare%2F100020900.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-19"
+        price: 4950
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujinamisquare_100020900"
+        available: true
   - rank: 7
     name: "クッキングシート ワンパン料理 100枚入り"
     brand: "ニュービックエース"
     price: 1780
     capacity: "100枚入り"
     pricePerUnit: "約18円/枚"
-    rating: 4.65
-    reviewCount: 160
+    rating: 4.66
+    reviewCount: 163
     features:
       - "PFAS・フッ素フリーの無漂白クッキングシート"
       - "フライパンや蒸し料理・包み焼きに対応した多用途タイプ"

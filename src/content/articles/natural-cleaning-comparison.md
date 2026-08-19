@@ -4,7 +4,7 @@ description: "重曹・セスキ炭酸ソーダ・クエン酸などのナチュ
 category: "natural-cleaning"
 articleType: "comparison"
 publishedAt: "2026-06-09"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 draft: false
 products:
   - rank: 1
@@ -135,7 +135,7 @@ products:
     capacity: "5kg"
     pricePerUnit: "約438円/kg"
     rating: 4.8
-    reviewCount: 969
+    reviewCount: 970
     features:
       - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
       - "宅配便で届く業務用サイズのパッケージ"
@@ -155,7 +155,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki5.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-19"
         price: 2190
         rating: 4.73
         reviewCount: 230
@@ -188,8 +188,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6021477.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-22"
-        price: 1780
+        updatedAt: "2026-08-19"
+        price: 1811
         rating: 4.78
         reviewCount: 68
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6021477"
@@ -221,10 +221,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-19"
         price: 748
         rating: 4.57
-        reviewCount: 1269
+        reviewCount: 1270
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki"
         available: true
   - rank: 8
@@ -256,7 +256,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.79円/g"
     rating: 4.78
-    reviewCount: 1283
+    reviewCount: 1285
     features:
       - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
       - "メール便配送に対応した小容量パッケージ"
@@ -276,18 +276,18 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-19"
         price: 748
         rating: 4.57
-        reviewCount: 1269
+        reviewCount: 1270
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki"
         available: true
   - rank: 10
     name: "アルカリウォッシュ セスキ炭酸ソーダ 500g 2個セット"
     brand: "地の塩社"
-    price: 1050
+    price: 1380
     capacity: "1kg"
-    pricePerUnit: "約1050円/kg"
+    pricePerUnit: "約1380円/kg"
     rating: 5
     reviewCount: 1
     features:
@@ -309,7 +309,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-w001-11309.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-19"
         price: 563
         rating: 4.2
         reviewCount: 5

@@ -33,9 +33,9 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Freonstyle%2Fa4901301422057.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-16"
-        price: 5180
+        matchStatus: "matched"
+        updatedAt: "2026-08-19"
+        price: 4940
         rating: 4.83
         reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/reonstyle_a4901301422057"
