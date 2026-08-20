@@ -123,7 +123,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4903111171675x6.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171675x6"
         available: true
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-08"
         rating: 5
         reviewCount: 3
@@ -156,7 +156,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4903111171750x6.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171750x6"
         available: true
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-08"
         rating: 0
         reviewCount: 2

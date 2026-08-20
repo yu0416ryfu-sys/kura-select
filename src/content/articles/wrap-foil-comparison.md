@@ -32,7 +32,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fn-mark%2F4901422055158.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-19"
         price: 9999
         rating: 0
@@ -131,7 +131,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r030-4901670110197.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-09"
         price: 16357
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-r030-4901670110197"
@@ -197,7 +197,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fn-mark%2F4901422055257.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-05-27"
         price: 18711
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/n-mark_4901422055257"

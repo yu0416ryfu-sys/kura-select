@@ -208,7 +208,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fadew%2Fmanual-haire-3set.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-09"
         price: 6680
         rating: 0

@@ -121,7 +121,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4984824889071.html"
-        matchStatus: "matched"
+        matchStatus: "rejected"
         updatedAt: "2026-08-05"
         price: 1607
         rating: 4.69

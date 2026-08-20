@@ -121,7 +121,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fhb15.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-19"
         price: 440
         rating: 4.77
@@ -192,7 +192,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F580764.html"
-        matchStatus: "matched"
+        matchStatus: "rejected"
         updatedAt: "2026-07-06"
         price: 3080
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_580764"

@@ -32,7 +32,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F373600.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-09"
         price: 12980
         rating: 4.53
@@ -153,7 +153,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Far-06018k.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-19"
         price: 21390
         rating: 0

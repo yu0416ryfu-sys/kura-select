@@ -65,7 +65,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fminoku-beauty%2F1758959338-2-b.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-05"
         price: 2978
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/minoku-beauty_1758959338-2-b"

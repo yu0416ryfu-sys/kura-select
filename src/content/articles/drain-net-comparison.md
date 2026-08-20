@@ -242,7 +242,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsyougarden%2Fds-2258588.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-06-07"
         price: 20620
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/syougarden_ds-2258588"
