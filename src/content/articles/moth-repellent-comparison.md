@@ -4,7 +4,7 @@ description: "クローゼット用衣類防虫剤を1個あたりのコスト�
 category: "moth-repellent"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-21"
 products:
   - rank: 1
     name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×2箱セット"
@@ -243,8 +243,8 @@ products:
     price: 2409
     capacity: "3個×3箱"
     pricePerUnit: "約268円/個"
-    rating: 4.78
-    reviewCount: 122
+    rating: 4.77
+    reviewCount: 123
     features:
       - "防虫・防カビの2役を1年間有効でカバー"
       - "無香タイプで衣類への香り移りを防ぐ"

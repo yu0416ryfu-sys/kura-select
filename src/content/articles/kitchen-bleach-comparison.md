@@ -4,7 +4,7 @@ description: "キッチン用漂白剤を1mLあたりのコストで徹底比較
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-21"
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"
@@ -75,9 +75,9 @@ products:
   - rank: 3
     name: "オキシクリーン マルチパーパスクリーナー 5.26kg"
     brand: "グラフィコ（OxiClean）"
-    price: 3925
+    price: 3429
     capacity: "5.26kg"
-    pricePerUnit: "約0.75円/g"
+    pricePerUnit: "約0.65円/g"
     rating: 4.64
     reviewCount: 1431
     features:

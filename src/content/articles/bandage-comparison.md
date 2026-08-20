@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ10選を1枚あた
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-21"
 draft: false
 products:
   - rank: 1

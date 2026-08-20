@@ -4,7 +4,7 @@ description: "紙おむつを新生児用、Sサイズ、Mサイズ、BIG以上�
 category: "diaper"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-19"
+updatedAt: "2026-08-21"
 products:
   - rank: 1
     name: "ムーニー テープ S マシュマロ肌ごこち"

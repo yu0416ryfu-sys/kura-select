@@ -4,7 +4,7 @@ description: "クッキングシートを1mあたりの価格で比較。ロー�
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-08-19"
+updatedAt: "2026-08-21"
 products:
   - rank: 1
     name: "フジ クッキングシート 業務用 33cm×30m"
@@ -200,7 +200,7 @@ products:
     capacity: "100枚入り"
     pricePerUnit: "約18円/枚"
     rating: 4.66
-    reviewCount: 163
+    reviewCount: 164
     features:
       - "PFAS・フッ素フリーの無漂白クッキングシート"
       - "フライパンや蒸し料理・包み焼きに対応した多用途タイプ"

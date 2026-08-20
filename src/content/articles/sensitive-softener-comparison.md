@@ -4,7 +4,7 @@ description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹
 category: "fabric-softener"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-19"
+updatedAt: "2026-08-21"
 products:
   - rank: 1
     name: "さらさ 柔軟剤 詰替 超ジャンボ 1350ml×6袋"
@@ -12,8 +12,8 @@ products:
     price: 6180
     capacity: "1350ml×6袋"
     pricePerUnit: "約0.76円/ml"
-    rating: 4.77
-    reviewCount: 96
+    rating: 4.78
+    reviewCount: 98
     features:
       - "植物由来成分配合の低刺激処方"
       - "着色料無添加"

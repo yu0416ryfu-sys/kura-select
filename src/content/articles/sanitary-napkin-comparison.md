@@ -4,7 +4,7 @@ description: "生理用ナプキンを1枚あたりのコストで徹底比較�
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-21"
 products:
   - rank: 1
     name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20.5cm"
@@ -276,8 +276,8 @@ products:
     price: 825
     capacity: "20個入"
     pricePerUnit: "約41円/個"
-    rating: 4.63
-    reviewCount: 71
+    rating: 4.64
+    reviewCount: 72
     features:
       - "オーガニックコットンを表面材に使用"
       - "23.5cm の多い日用サイズで羽つき"

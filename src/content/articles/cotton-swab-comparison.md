@@ -4,7 +4,7 @@ description: "綿棒をコットン100%・紙軸・スパイラル・抗菌タ�
 category: "cotton-swab"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-08-21"
 draft: false
 products:
   - rank: 1
@@ -74,39 +74,6 @@ products:
         rating: 0
         reviewCount: 0
   - rank: 3
-    name: "うさベビー 抗菌綿棒 ほそめ 250本"
-    brand: "山洋"
-    price: 192
-    capacity: "250本"
-    pricePerUnit: "約0.77円/本"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "細め設計の紙軸綿棒、抗菌加工"
-      - "赤ちゃんの鼻・耳の細部にも使いやすい細さ"
-      - "250本入りの衛生管理しやすいケース入り"
-    pros:
-      - "細めの設計で赤ちゃんや子どもの耳・鼻掃除に向く"
-      - "抗菌加工で清潔に使い続けられる"
-      - "細部の汚れや傷の手当てにも使いやすいサイズ感"
-    cons:
-      - "細さがあるため力をかけすぎると折れやすい"
-      - "大人の耳掃除には細すぎると感じる場合がある"
-    recommendedFor: "赤ちゃんや幼児の細部ケア、メイクの細かい修正や傷手当てに"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pxfkn.3rdw6005.g00pxfkn.3rdw7ac5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkoex%2F1051-4936613072409%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkoex%2Fi%2F10204731%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkoex/cabinet/1051_3/1051-4936613072409_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsake-premoa%2F4936613072409.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-30"
-        price: 180
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sake-premoa_4936613072409"
-        available: true
-        rating: 0
-        reviewCount: 0
-  - rank: 4
     name: "FC ファミリー綿棒"
     brand: "白十字"
     price: 158
@@ -136,6 +103,39 @@ products:
         updatedAt: "2026-05-30"
         price: 128
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenjoy_4987603109247"
+        available: true
+        rating: 0
+        reviewCount: 0
+  - rank: 4
+    name: "うさベビー 抗菌綿棒 ほそめ 250本"
+    brand: "山洋"
+    price: 218
+    capacity: "250本"
+    pricePerUnit: "約0.87円/本"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "細め設計の紙軸綿棒、抗菌加工"
+      - "赤ちゃんの鼻・耳の細部にも使いやすい細さ"
+      - "250本入りの衛生管理しやすいケース入り"
+    pros:
+      - "細めの設計で赤ちゃんや子どもの耳・鼻掃除に向く"
+      - "抗菌加工で清潔に使い続けられる"
+      - "細部の汚れや傷の手当てにも使いやすいサイズ感"
+    cons:
+      - "細さがあるため力をかけすぎると折れやすい"
+      - "大人の耳掃除には細すぎると感じる場合がある"
+    recommendedFor: "赤ちゃんや幼児の細部ケア、メイクの細かい修正や傷手当てに"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q8den.3rdw61ea.g00q8den.3rdw7cb4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatsuzakka-plus1%2F4936613072409%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatsuzakka-plus1%2Fi%2F10163408%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/seikatsuzakka-plus1/cabinet/250802/4936613072409.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsake-premoa%2F4936613072409.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-30"
+        price: 180
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sake-premoa_4936613072409"
         available: true
         rating: 0
         reviewCount: 0

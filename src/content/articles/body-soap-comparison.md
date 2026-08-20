@@ -4,7 +4,7 @@ description: "ボディソープを1gあたりのコストで比較。最安候�
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-19"
+updatedAt: "2026-08-21"
 products:
   - rank: 1
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"

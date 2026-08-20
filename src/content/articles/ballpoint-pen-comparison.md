@@ -4,17 +4,17 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: "2026-08-19"
+updatedAt: "2026-08-21"
 draft: false
 products:
   - rank: 1
-    name: "ハーバリウムボールペン 10本セット 替え芯付き"
+    name: "ハーバリウムボールペン 本体 10本セット 替え芯付き"
     brand: "リトルハンズ"
     price: 1400
-    capacity: "10本セット（替え芯付き、0.7mm）"
+    capacity: "10本セット（替え芯付き）"
     pricePerUnit: "約140円/本"
-    rating: 4.83
-    reviewCount: 2429
+    rating: 4.59
+    reviewCount: 284
     features:
       - "150色以上から選べるハーバリウムデザインの装飾ボールペン10本セット"
       - "替え芯付きで長く使えるコスパ設計、送料無料"
@@ -27,8 +27,8 @@ products:
       - "書き心地より装飾性を重視した設計のため実用向けには不向き"
       - "0.7mm油性インクのみで軸径・インク色の選択肢がない"
     recommendedFor: "ウェディング・イベント記念品を探している方・個性的なフラワーデザインを希望する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sllbn.3rdw68ba.g00sllbn.3rdw7c66/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frioreis%2Fbl0516%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frioreis%2Fi%2F10000137%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rioreis/cabinet/001/imgrc0110275453.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00srmbn.3rdw681f.g00srmbn.3rdw7f24/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdenshitabaco%2Fherbarium-ballpen-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdenshitabaco%2Fi%2F10000566%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/denshitabaco/image02/herbarium-pen-new/10set.jpg?_ex=128x128"
   - rank: 2
     name: "ジェットストリーム 名入れ 多機能ボールペン 新色"
     brand: "uni（三菱鉛筆）"
@@ -36,7 +36,7 @@ products:
     capacity: "1本（4色ボールペン+シャープペンシル）"
     pricePerUnit: "約1000円/本"
     rating: 4.78
-    reviewCount: 13567
+    reviewCount: 13570
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"

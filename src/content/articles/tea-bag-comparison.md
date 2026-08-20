@@ -4,7 +4,7 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-21"
 draft: false
 products:
   - rank: 1
@@ -30,13 +30,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q6srn.3rdw6528.g00q6srn.3rdw7513/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimu%2F891462%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimu%2Fi%2F10000182%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimu/cabinet/shokuhin/innryou/811483.jpg?_ex=128x128"
   - rank: 2
-    name: "香り薫るむぎ茶 ティーバッグ"
+    name: "伊藤園 香り薫るむぎ茶 ティーバッグ 54袋×10袋"
     brand: "伊藤園"
-    price: 3500
-    capacity: "54袋×10個（540袋）"
-    pricePerUnit: "約6.5円/袋"
-    rating: 4.75
-    reviewCount: 4
+    price: 2808
+    capacity: "54袋×10袋（540袋）"
+    pricePerUnit: "約5.2円/袋"
+    rating: 4.71
+    reviewCount: 7
     features:
       - "1L用ピッチャー対応サイズ"
       - "カフェインゼロ・まとめ買いセット"
@@ -49,8 +49,8 @@ products:
       - "香り薫るタイプのため風味が通常の麦茶と異なる場合がある"
       - "まとめ買いのため保管スペースが必要"
     recommendedFor: "大容量をまとめて備蓄したい・1L用ピッチャーで麦茶を作りたい家庭向け"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pjp9n.3rdw6d09.g00pjp9n.3rdw7a44/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fizmic-ec%2F658472-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fizmic-ec%2Fi%2F10168191%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/izmic-ec/cabinet/drink2019051001/658472-01.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rfsnn.3rdw6bcf.g00rfsnn.3rdw7747/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokawa-shop%2F4901085617786-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokawa-shop%2Fi%2F10012704%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/okawa-shop/cabinet/0020/4901085617786-10.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

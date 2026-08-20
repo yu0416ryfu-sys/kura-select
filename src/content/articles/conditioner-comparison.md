@@ -4,7 +4,7 @@ description: "コンディショナーを1mLあたりのコストで徹底比較
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-21"
 products:
   - rank: 1
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"

@@ -4,7 +4,7 @@ description: "日焼け止めを1mLあたりのコストで徹底比較。ビオ
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-19"
+updatedAt: "2026-08-21"
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -75,9 +75,9 @@ products:
   - rank: 3
     name: "ビオレUV アクアリッチ ウォータリーエッセンス 120g"
     brand: "花王（ビオレ）"
-    price: 1096
+    price: 1164
     capacity: "120g"
-    pricePerUnit: "約9.1円/g"
+    pricePerUnit: "約9.7円/g"
     rating: 4.6
     reviewCount: 5
     features:
@@ -134,7 +134,7 @@ products:
     capacity: "50g"
     pricePerUnit: "約62円/g"
     rating: 4.84
-    reviewCount: 3777
+    reviewCount: 3782
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -166,8 +166,8 @@ products:
     price: 2560
     capacity: "35g"
     pricePerUnit: "約73円/g"
-    rating: 3.96
-    reviewCount: 12944
+    rating: 3.97
+    reviewCount: 12945
     features:
       - "UVケアに使える日焼け止め・化粧下地"
       - "顔用や子ども向けも選べる"

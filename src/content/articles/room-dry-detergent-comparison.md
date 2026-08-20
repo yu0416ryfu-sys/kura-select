@@ -4,7 +4,7 @@ description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底�
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-19"
+updatedAt: "2026-08-21"
 products:
   - rank: 1
     name: "アタック 抗菌EX 部屋干し用 詰め替え 2380g×6個セット"
@@ -261,7 +261,7 @@ products:
     capacity: "1000ml"
     pricePerUnit: "約3.8円/ml"
     rating: 4.63
-    reviewCount: 1279
+    reviewCount: 1280
     features:
       - "おしゃれ着やドライマーク衣類向けの洗剤"
       - "ニットやスーツなどに使いやすい"

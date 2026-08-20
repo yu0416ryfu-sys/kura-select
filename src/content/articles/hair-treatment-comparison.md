@@ -4,7 +4,7 @@ description: "コスパいいヘアトリートメントを1g・1mLあたりで�
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-08-19"
+updatedAt: "2026-08-21"
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -123,7 +123,7 @@ products:
     capacity: "240g×2"
     pricePerUnit: "約14円/g"
     rating: 4.7
-    reviewCount: 633
+    reviewCount: 634
     features:
       - "Step1とStep2の2剤式で段階的にダメージを補修するシステムトリートメント"
       - "ケラチン・濃厚補修成分配合でハイダメージ・ブリーチ毛にアプローチ"
