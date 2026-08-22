@@ -155,8 +155,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbettysbeauty%2F10910012.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
-        price: 1454
+        updatedAt: "2026-08-22"
+        price: 1460
         rating: 4.5
         reviewCount: 151
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bettysbeauty_10910012"
@@ -221,7 +221,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10161795.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-19"
+        updatedAt: "2026-08-22"
         price: 2899
         rating: 4.74
         reviewCount: 35

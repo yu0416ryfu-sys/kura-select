@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-22"
 draft: false
 products:
   - rank: 1
@@ -165,7 +165,7 @@ products:
       - "スキンベープと同成分のためブランドによる使い分けが主な違いになる"
     recommendedFor: "KINCHOブランドのイカリジン配合無香料スプレーを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00slbfn.3rdw664c.g00slbfn.3rdw7e6f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthinkrich%2Fsk07402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthinkrich%2Fi%2F10227049%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thinkrich/cabinet/muryou_07/s07402.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thinkrich/cabinet/sale2_muryou_07/s07402.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -184,7 +184,7 @@ products:
     capacity: "100ml"
     pricePerUnit: "約10円/mL"
     rating: 4.49
-    reviewCount: 250
+    reviewCount: 251
     features:
       - "天然精油9種類を配合した合成殺虫成分不使用の虫よけスプレー"
       - "レモングラス・ラベンダー・ユーカリ・ヒノキなど天然アロマをブレンド"
@@ -261,7 +261,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約19円/mL"
     rating: 4.49
-    reviewCount: 545
+    reviewCount: 546
     features:
       - "天然アロマ100%配合・合成殺虫成分不使用の処方"
       - "6種類のハーバル成分を配合した自然由来スプレー"

@@ -4,7 +4,7 @@ description: "ボディソープを1gあたりのコストで比較。最安候�
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-22"
 products:
   - rank: 1
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
@@ -12,8 +12,8 @@ products:
     price: 2549
     capacity: "3kg"
     pricePerUnit: "約0.85円/g"
-    rating: 4.64
-    reviewCount: 33
+    rating: 4.65
+    reviewCount: 34
     features:
       - "ニュートリアムモイスチャー配合で肌にうるおい"
       - "クリーミーな泡で肌を包み込む"
@@ -163,7 +163,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhealingvillage%2Fmndmrw-kbwt0.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-19"
+        updatedAt: "2026-08-22"
         price: 1227
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/healingvillage_mndmrw-kbwt0"
         available: true
@@ -227,13 +227,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakakabeshop%2F4903301291305.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakakabeshop%2F4903301291305-12.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-05"
-        price: 678
+        updatedAt: "2026-08-22"
+        price: 7480
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/akakabeshop_4903301291305"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/akakabeshop_4903301291305-12"
         available: true
   - rank: 8
     name: "キュレル ボディウォッシュ ポンプ 420mL"
@@ -262,8 +262,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901301289353.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
-        price: 797
+        updatedAt: "2026-08-22"
+        price: 756
         rating: 4.73
         reviewCount: 22
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901301289353"
@@ -275,7 +275,7 @@ products:
     capacity: "400mL×3袋（約300回分）"
     pricePerUnit: "約2.8円/mL"
     rating: 4.77
-    reviewCount: 92
+    reviewCount: 93
     features:
       - "製薬会社開発の薬用処方"
       - "植物性アミノ酸系洗浄成分100%"
@@ -315,13 +315,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4901525011488.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffines-f%2F4901525011488.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-05"
-        price: 438
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4901525011488"
+        updatedAt: "2026-08-22"
+        price: 397
+        rating: 4.67
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fines-f_4901525011488"
         available: true
 tags:
   - "ボディソープ"

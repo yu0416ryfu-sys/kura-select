@@ -11,7 +11,7 @@ products:
     brand: "P&G（アリエール）"
     price: 1986
     capacity: "83個"
-    pricePerUnit: "約23.9円/個"
+    pricePerUnit: "約24円/個"
     rating: 4.92
     reviewCount: 13
     features:
@@ -28,14 +28,25 @@ products:
     recommendedFor: "香りは控えめがいい方・ジェルボールをとにかく安く使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.3rdw6eed.g00s0vmn.3rdw7144/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4987176194398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10158813%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/09468594/4987176194398_00.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987176194398.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 1986
+        rating: 4.83
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4987176194398"
+        available: true
   - rank: 2
     name: "アリエール ジェルボールプロ 部屋干し＆スポーツ 詰め替え"
     brand: "P&G（アリエール）"
     price: 2997
     capacity: "89個"
-    pricePerUnit: "約33.7円/個"
-    rating: 4.79
-    reviewCount: 34
+    pricePerUnit: "約34円/個"
+    rating: 4.8
+    reviewCount: 35
     features:
       - "部屋干し時の生乾き臭に狙いを定めた処方"
       - "汗をかいた衣類・運動着の皮脂汚れに対応"
@@ -50,12 +61,23 @@ products:
     recommendedFor: "部屋干しが多い家庭・運動着の洗濯が多い家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987176284914%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11319035%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/914/4987176284914.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F2620600.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 3190
+        rating: 4.9
+        reviewCount: 10
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_2620600"
+        available: true
   - rank: 3
     name: "ボールド ジェルボール4D 華やかおひさまとプレミアムブロッサム 詰め替え"
     brand: "P&G（ボールド）"
     price: 2546
     capacity: "70個"
-    pricePerUnit: "約36.4円/個"
+    pricePerUnit: "約36円/個"
     rating: 4.7
     reviewCount: 33
     features:
@@ -72,12 +94,23 @@ products:
     recommendedFor: "洗剤と柔軟剤を1つにまとめたい方・香り重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4987176131447%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10034914%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/11147956/11928062/2000000160665.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F2000000160665.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 1998
+        rating: 4.71
+        reviewCount: 7
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_2000000160665"
+        available: true
   - rank: 4
     name: "ボールド 太陽のジェルボール4in1 ホワイトラベンダー＆ジャスミン 詰め替え テラジャンボ"
     brand: "P&G（ボールド）"
     price: 3150
     capacity: "86個"
-    pricePerUnit: "約36.6円/個"
+    pricePerUnit: "約37円/個"
     rating: 5
     reviewCount: 1
     features:
@@ -94,12 +127,23 @@ products:
     recommendedFor: "柔軟剤なしで香りを完結させたい方・夜洗濯や部屋干しが多い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987176292759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10151166%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202505_3/4987176292759.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176292759.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 4327
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176292759"
+        available: true
   - rank: 5
     name: "アリエール ジェルボールプロ 部屋干し用 詰め替え"
     brand: "P&G（アリエール）"
     price: 2680
     capacity: "70個"
-    pricePerUnit: "約38.3円/個"
+    pricePerUnit: "約38円/個"
     rating: 4.69
     reviewCount: 39
     features:
@@ -116,12 +160,23 @@ products:
     recommendedFor: "部屋干しはするが香りは強くしたくない方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u24hn.3rdw6c19.g00u24hn.3rdw7523/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Factive-online%2F4987176315700%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Factive-online%2Fi%2F10001415%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/active-online/cabinet/compass1765261121.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpentagram5%2F4987176315700-1.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 2780
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pentagram5_4987176315700-1"
+        available: true
   - rank: 6
     name: "アリエール ジェルボール 部屋干し＆スポーツ 詰め替え テラジャンボ"
     brand: "P&G（アリエール）"
     price: 3980
     capacity: "100個"
-    pricePerUnit: "約39.8円/個"
+    pricePerUnit: "約40円/個"
     rating: 4.79
     reviewCount: 43
     features:
@@ -138,12 +193,23 @@ products:
     recommendedFor: "洗濯回数が多い家庭・保管スペースに余裕がある方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00umlcn.3rdw6f00.g00umlcn.3rdw76fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatanusstore%2F4987176234766%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatanusstore%2Fi%2F10000030%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platanusstore/cabinet/no21_top_sub.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmandmcorporation%2F4987176284518.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 3980
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/mandmcorporation_4987176284518"
+        available: true
   - rank: 7
     name: "ボールド ジェルボール4in1 ホワイトティー＆フローラル 詰め替え 超テラジャンボ"
     brand: "P&G（ボールド）"
     price: 3980
     capacity: "96個"
-    pricePerUnit: "約41.5円/個"
+    pricePerUnit: "約41円/個"
     rating: 4.63
     reviewCount: 8
     features:
@@ -165,7 +231,7 @@ products:
     brand: "P&G（ボールド）"
     price: 3680
     capacity: "65個"
-    pricePerUnit: "約56.6円/個"
+    pricePerUnit: "約57円/個"
     rating: 4.63
     reviewCount: 41
     features:
@@ -182,34 +248,23 @@ products:
     recommendedFor: "定番の花系の香りに飽きた方・まず中容量で試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ulujn.3rdw68ec.g00ulujn.3rdw7a89/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flgo-2023%2F4987176321565%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flgo-2023%2Fi%2F10000232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lgo-2023/cabinet/imgrc0109870360.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworldglobal%2F20250727090631-01056.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 4095
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/worldglobal_20250727090631-01056"
+        available: true
   - rank: 9
-    name: "ボールド ジェルボール4in1 爽やかおひさまとフレッシュサボン 詰め替え"
-    brand: "P&G（ボールド）"
-    price: 3380
-    capacity: "57個"
-    pricePerUnit: "約59.3円/個"
-    rating: 4.86
-    reviewCount: 7
-    features:
-      - "石けん系のフレッシュサボンの香り"
-      - "柔軟剤入り4in1で洗濯を1工程にまとめられる"
-      - "中容量でストックしやすいサイズ"
-    pros:
-      - "石けん系の香りで家族から不評が出にくい"
-      - "中容量で保管スペースを圧迫しない"
-      - "柔軟剤の買い足しが不要になる"
-    cons:
-      - "大容量タイプと比べると1個あたりの単価は不利"
-      - "入り数が少なく買い足しの頻度が上がる"
-    recommendedFor: "石けん系の香りが好みの方・保管スペースが限られる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987176292735%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11328328%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/735/4987176292735.jpg?_ex=128x128"
-  - rank: 10
     name: "アリエール ジェルボールプロ まるごと洗浄消臭 本体"
     brand: "P&G（アリエール）"
     price: 640
     capacity: "11個"
-    pricePerUnit: "約58.2円/個"
+    pricePerUnit: "約58円/個"
     rating: 0
     reviewCount: 0
     features:
@@ -226,6 +281,50 @@ products:
     recommendedFor: "ジェルボールを初めて使う方・詰め替え用の容器が必要な方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987176284648%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11318957%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/648/4987176284648.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fraffine4147%2Fseki111e2720d00cd.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 883
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/raffine4147_seki111e2720d00cd"
+        available: true
+  - rank: 10
+    name: "ボールド ジェルボール4in1 爽やかおひさまとフレッシュサボン 詰め替え"
+    brand: "P&G（ボールド）"
+    price: 3380
+    capacity: "57個"
+    pricePerUnit: "約59円/個"
+    rating: 4.86
+    reviewCount: 7
+    features:
+      - "石けん系のフレッシュサボンの香り"
+      - "柔軟剤入り4in1で洗濯を1工程にまとめられる"
+      - "中容量でストックしやすいサイズ"
+    pros:
+      - "石けん系の香りで家族から不評が出にくい"
+      - "中容量で保管スペースを圧迫しない"
+      - "柔軟剤の買い足しが不要になる"
+    cons:
+      - "大容量タイプと比べると1個あたりの単価は不利"
+      - "入り数が少なく買い足しの頻度が上がる"
+    recommendedFor: "石けん系の香りが好みの方・保管スペースが限られる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987176292735%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11328328%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/735/4987176292735.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987176292735.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 2168
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987176292735"
+        available: true
 tags:
   - "ジェルボール 洗剤"
   - "ジェルボール おすすめ"

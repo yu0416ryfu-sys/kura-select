@@ -4,7 +4,7 @@ description: "45リットルのゴミ袋はどこが安い？1枚あたりの価
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-22"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -46,7 +46,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約4.2円/枚"
     rating: 4.85
-    reviewCount: 287
+    reviewCount: 288
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpoly-life%2Fkpl-450-2pc.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-19"
+        updatedAt: "2026-08-22"
         price: 2020
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/poly-life_kpl-450-2pc"
         available: true

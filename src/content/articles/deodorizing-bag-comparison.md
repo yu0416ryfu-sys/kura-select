@@ -4,7 +4,7 @@ description: "おむつ・生ゴミ用の防臭袋おすすめ10選をコスパ�
 category: "deodorizing-bag"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-22"
 draft: false
 products:
   - rank: 1
@@ -194,6 +194,17 @@ products:
     recommendedFor: "外出時のエチケット用途・小物のにおい対策に使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sok0n.3rdw63e8.g00sok0n.3rdw7ce8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbos-shop%2Fbos-b012a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbos-shop%2Fi%2F10000119%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bos-shop/cabinet/08584994/stripe_ssmini100.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b012a.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 1815
+        rating: 4.91
+        reviewCount: 134
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/bos-shop_bos-b012a"
+        available: true
   - rank: 8
     name: "BOS 防臭袋 ストライプパッケージ Sサイズ"
     brand: "クリロン化成"
@@ -201,7 +212,7 @@ products:
     capacity: "200枚"
     pricePerUnit: "約9.5円/枚"
     rating: 4.85
-    reviewCount: 3734
+    reviewCount: 3735
     features:
       - "SSサイズより一回り大きい標準サイズ"
       - "テープ型からパンツ型まで幅広いおむつサイズを想定した寸法"
@@ -221,10 +232,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b002a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-22"
         price: 1909
         rating: 4.86
-        reviewCount: 772
+        reviewCount: 774
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bos-shop_bos-b002a"
         available: true
   - rank: 9
@@ -234,7 +245,7 @@ products:
     capacity: "180枚"
     pricePerUnit: "約12円/枚"
     rating: 4.58
-    reviewCount: 195
+    reviewCount: 196
     features:
       - "多層ポリエチレンフィルムを用いた防臭袋"
       - "おむつ1回分を想定した中間サイズ"
@@ -249,6 +260,17 @@ products:
     recommendedFor: "中間サイズで別ブランドも比べたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tbejn.3rdw60d1.g00tbejn.3rdw7f65/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnioi-byebye-shop%2Fsk6230%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnioi-byebye-shop%2Fi%2F10000003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nioi-byebye-shop/cabinet/item01/sk6564_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnioi-byebye-shop%2Fsk6588.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 2227
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nioi-byebye-shop_sk6588"
+        available: true
   - rank: 10
     name: "BOS 防臭袋 ストライプパッケージ Mサイズ"
     brand: "クリロン化成"
@@ -276,10 +298,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b003a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-22"
         price: 1375
         rating: 4.83
-        reviewCount: 392
+        reviewCount: 394
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bos-shop_bos-b003a"
         available: true
 tags:

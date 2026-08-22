@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-19"
+updatedAt: "2026-08-22"
 products:
   - rank: 1
     name: "グーンプラス 肌の贅沢 テープ Mサイズ 4個セット"
@@ -56,8 +56,8 @@ products:
     price: 6880
     capacity: "96枚"
     pricePerUnit: "約72円/枚"
-    rating: 4.76
-    reviewCount: 199
+    rating: 4.77
+    reviewCount: 200
     features:
       - "ネット状の肌触りで蒸れにくく快適"
       - "パラベン・アルコール無添加の低刺激処方"

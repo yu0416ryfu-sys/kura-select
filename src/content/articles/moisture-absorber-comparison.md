@@ -4,7 +4,7 @@ description: "除湿剤おすすめ9選を吸湿量1mLあたりの単価で徹�
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-22"
 products:
   - rank: 1
     name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
@@ -13,7 +13,7 @@ products:
     capacity: "550mL×45個（24,750mL分）"
     pricePerUnit: "約0.17円/mL"
     rating: 4.83
-    reviewCount: 259
+    reviewCount: 260
     features:
       - "国内定番の大容量タンクタイプ除湿剤"
       - "強力脱臭・防臭・防カビ効果"
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawarikikaku%2Fcostoco-mizutori-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-22"
         price: 1618
         rating: 4.75
         reviewCount: 4
@@ -196,13 +196,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F4522831169818.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-19"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F4522831169825.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
         price: 1090
         rating: 0
         reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_4522831169818"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_4522831169825"
         available: true
   - rank: 9
     name: "コーナン 除湿剤 500ml 置き型"
@@ -230,13 +230,14 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F4522831781188.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-19"
         price: 990
         rating: 4.14
         reviewCount: 7
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_4522831781188"
-        available: true
+        available: false
+        matchNotes: "capacity不一致: 商品名トークン不一致"
 tags:
   - "除湿剤 おすすめ"
   - "除湿剤 コスパ"

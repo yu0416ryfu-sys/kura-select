@@ -4,7 +4,7 @@ description: "綿棒をコットン100%・紙軸・スパイラル・抗菌タ�
 category: "cotton-swab"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-22"
 draft: false
 products:
   - rank: 1
@@ -292,7 +292,18 @@ products:
       - "黒綿棒に比べると汚れの確認がしにくい"
     recommendedFor: "肌にやさしい天然素材を重視したい方、日常の耳掃除やメイク用途に"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rzyyn.3rdw693a.g00rzyyn.3rdw76d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwagonsale-kanahashi%2F4976558005568%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwagonsale-kanahashi%2Fi%2F10005401%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wagonsale-kanahashi/cabinet/03985713/4976558005568_1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wagonsale-kanahashi/cabinet/shohin03/4976558005568_n1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhome-life%2F101-4973202501292.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 334
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-4973202501292"
+        available: true
   - rank: 10
     name: "スパイラル黒綿棒 紙軸"
     brand: "平和メディク"
@@ -320,7 +331,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkintarou%2F4976558006428.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-22"
         price: 168
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kintarou_4976558006428"
         available: true

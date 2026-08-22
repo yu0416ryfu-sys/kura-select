@@ -4,7 +4,7 @@ description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペ
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-22"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101385ku.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-22"
         price: 4280
         rating: 4.27
         reviewCount: 95
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F1533439.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-22"
         price: 3980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_1533439"
         available: true
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101386ku.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-22"
         price: 4980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101386ku"
         available: true
@@ -157,7 +157,7 @@ products:
     capacity: "6L×4袋（24L）"
     pricePerUnit: "約132円/L"
     rating: 4.78
-    reviewCount: 1822
+    reviewCount: 1823
     features:
       - "天然木（松）由来の木製猫砂・システムトイレ対応"
       - "無臭タイプで木の自然な消臭機能を活かした設計"
@@ -223,7 +223,7 @@ products:
     capacity: "7L×4袋"
     pricePerUnit: "約158円/L"
     rating: 4.82
-    reviewCount: 49
+    reviewCount: 50
     features:
       - "大豆粕（おから）由来の植物系猫砂"
       - "トイレに流せる・燃えるゴミに出せる"
@@ -245,7 +245,7 @@ products:
     capacity: "5L×4袋（20L）"
     pricePerUnit: "約176円/L"
     rating: 4.69
-    reviewCount: 2411
+    reviewCount: 2412
     features:
       - "ベントナイト鉱物系・固まるタイプの消臭猫砂"
       - "大手メーカーライオンによる消臭設計"
@@ -278,7 +278,7 @@ products:
     capacity: "6L×3個（18L）"
     pricePerUnit: "約278円/L"
     rating: 4.68
-    reviewCount: 1930
+    reviewCount: 1935
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"

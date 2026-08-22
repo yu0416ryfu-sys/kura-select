@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-22"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset-eva340.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-19"
+        updatedAt: "2026-08-22"
         price: 1880
         rating: 4.49
         reviewCount: 1936
@@ -47,7 +47,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約25円/本"
     rating: 4.63
-    reviewCount: 1087
+    reviewCount: 1090
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"
@@ -177,12 +177,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftop1-price%2F20161219-16denchi.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-22"
         price: 1279
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/top1-price_20161219-16denchi"
         available: true
         rating: 4.51
-        reviewCount: 3522
+        reviewCount: 3523
   - rank: 7
     name: "Panasonic エボルタNEO 乾電池 単3形 16本"
     brand: "Panasonic（エボルタNEO）"
@@ -210,7 +210,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodmedia-wholesale%2F20180822-000006.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-22"
         price: 1565
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodmedia-wholesale_20180822-000006"
         available: true
@@ -243,12 +243,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset92116.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-22"
         price: 3150
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_set92116"
         available: true
         rating: 4.46
-        reviewCount: 2184
+        reviewCount: 2185
   - rank: 9
     name: "充電池 単3 単4 16本 セット エネボルト 電池 2150mAh 950mAh "
     brand: "充電池"
@@ -276,12 +276,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset92116.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-22"
         price: 3150
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_set92116"
         available: true
         rating: 4.46
-        reviewCount: 2184
+        reviewCount: 2185
   - rank: 10
     name: "単3電池 8本セット 繰り返し使う 充電池約1000回繰り返し使える enelong"
     brand: "単3電池"

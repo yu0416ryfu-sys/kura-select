@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-22"
 draft: false
 products:
   - rank: 1
@@ -179,7 +179,7 @@ products:
     capacity: "3kg"
     pricePerUnit: "約1663円/kg"
     rating: 4.71
-    reviewCount: 178
+    reviewCount: 179
     features:
       - "ダックスフンド専用に設計された犬種別ドライフード（生後10ヶ月齢以上対象）"
       - "オメガ3脂肪酸（EPA+DHA）・L-カルニチン配合の栄養設計"
@@ -245,7 +245,7 @@ products:
     capacity: "3kg"
     pricePerUnit: "約1943円/kg"
     rating: 4.68
-    reviewCount: 2406
+    reviewCount: 2407
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -278,7 +278,7 @@ products:
     capacity: "1kg"
     pricePerUnit: "約3000円/kg"
     rating: 4.72
-    reviewCount: 2561
+    reviewCount: 2562
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

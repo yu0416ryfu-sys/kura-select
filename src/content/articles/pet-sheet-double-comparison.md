@@ -4,7 +4,7 @@ description: "ペットシーツのダブル（スーパーワイド）サイズ
 category: "pet-sheet"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-22"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "スーパーワイド 1200枚"
     pricePerUnit: "約2.7円/枚"
     rating: 4.39
-    reviewCount: 1411
+    reviewCount: 1413
     features:
       - "スーパーワイド（60×90cm）サイズ、約655cc吸収"
       - "PPE素材使用、1枚あたり約60gの重量"
@@ -32,13 +32,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpet-studio%2Fr-0002-001.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffreelife%2Fzk-ptst01-many.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-16"
-        price: 5580
-        rating: 4.53
-        reviewCount: 79
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pet-studio_r-0002-001"
+        updatedAt: "2026-08-22"
+        price: 8450
+        rating: 4.46
+        reviewCount: 656
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/freelife_zk-ptst01-many"
         available: true
   - rank: 2
     name: "Famy ペットシーツ うす型 JPPMA認証 レギュラー 800枚"
@@ -47,7 +47,7 @@ products:
     capacity: "800枚"
     pricePerUnit: "約5.0円/枚"
     rating: 4.55
-    reviewCount: 14644
+    reviewCount: 14650
     features:
       - "スーパーワイド・ダブルワイド系のペットシーツ"
       - "大型犬や多頭飼いのトイレまわりに使いやすい"
@@ -88,8 +88,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdiy-tool%2Fk825-0016.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        matchStatus: "matched"
+        updatedAt: "2026-08-22"
         price: 9853
         rating: 0
         reviewCount: 0
@@ -122,7 +122,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwannyan%2Fm7140533.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-22"
         price: 5900
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wannyan_m7140533"
         available: true
@@ -210,7 +210,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frocky%2Far603011.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-08-22"
         price: 17090
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rocky_ar603011"
         available: true

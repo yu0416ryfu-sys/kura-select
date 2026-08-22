@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-22"
 draft: false
 products:
   - rank: 1
@@ -98,13 +98,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687310.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffamilypet%2F52905133.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-05"
-        price: 5759
-        rating: 4.68
-        reviewCount: 387
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687310"
+        updatedAt: "2026-08-22"
+        price: 5280
+        rating: 4.59
+        reviewCount: 90
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/familypet_52905133"
         available: true
   - rank: 4
     name: "ロイヤルカナン インドア 4kg"
@@ -113,7 +113,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1.6円/g"
     rating: 4.65
-    reviewCount: 693
+    reviewCount: 694
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -179,7 +179,7 @@ products:
     capacity: "2kg"
     pricePerUnit: "約2.0円/g"
     rating: 4.69
-    reviewCount: 919
+    reviewCount: 921
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -232,7 +232,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcell-apt%2Fc-2801-800-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-22"
         price: 5400
         rating: 0
         reviewCount: 0
@@ -265,10 +265,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetoukoku%2F42.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-22"
         price: 10670
-        rating: 4.85
-        reviewCount: 20
+        rating: 4.86
+        reviewCount: 21
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petoukoku_42"
         available: true
   - rank: 9
@@ -320,7 +320,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4902201210980.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-08-22"
         price: 3069
         rating: 0
         reviewCount: 0

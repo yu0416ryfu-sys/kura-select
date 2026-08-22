@@ -204,6 +204,17 @@ products:
     recommendedFor: "無香料・無添加を優先したい方・香りが苦手な方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2F870283%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10001848%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/06059944/4902135322537_24.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 1160
+        rating: 4.8
+        reviewCount: 5
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902135322537-73-30000839"
+        available: true
   - rank: 8
     name: "ファーファ ファインフレグランス ボーテ 柔軟剤 詰め替え"
     brand: "NSファーファ"
@@ -248,6 +259,17 @@ products:
     recommendedFor: "香りを楽しめる柔軟剤を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2Flaundrin-teatime%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10006940%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08869620/imgrc0118802483.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosme-nana%2F1898619600.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 1350
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosme-nana_1898619600"
+        available: true
   - rank: 10
     name: "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え"
     brand: "P&G（レノア）"

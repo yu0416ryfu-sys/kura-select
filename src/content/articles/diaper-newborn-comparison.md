@@ -4,7 +4,7 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-22"
 products:
   - rank: 1
     name: "ムーニー マシュマロ肌ごこち 新生児 テープ"
@@ -64,13 +64,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkiiroihachi%2Fyahoo20250605-b01cg1tb4q.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100637.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-08"
-        price: 1708
+        updatedAt: "2026-08-22"
+        price: 1804
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kiiroihachi_yahoo20250605-b01cg1tb4q"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100637"
         available: true
   - rank: 3
     name: "グーンプラス 敏感肌にやわらかタッチ テープ 新生児用 82枚"
@@ -98,8 +98,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4902011115567.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-08"
+        matchStatus: "matched"
+        updatedAt: "2026-08-22"
         price: 2204
         rating: 0
         reviewCount: 0
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301437693x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-22"
         price: 5980
         rating: 4.88
         reviewCount: 17
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnetbaby%2F4903111123247.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-19"
+        updatedAt: "2026-08-22"
         price: 4494
         rating: 0
         reviewCount: 0
@@ -196,13 +196,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftigtig%2F25062704.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02652.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-19"
-        price: 5580
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tigtig_25062704"
+        updatedAt: "2026-08-22"
+        price: 4749
+        rating: 4.67
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos02652"
         available: true
   - rank: 7
     name: "パンパース テープ新生児 144枚"
@@ -255,7 +255,7 @@ products:
     capacity: "36枚（サイズ1・2〜4kg）"
     pricePerUnit: "約89円/枚"
     rating: 4.72
-    reviewCount: 64
+    reviewCount: 65
     features:
       - "オーガニック系のプレミアム紙おむつ"
       - "テープ/パンツの案内がある海外ブランド"

@@ -4,7 +4,7 @@ description: "クッキングシートを1mあたりの価格で比較。ロー�
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-22"
 products:
   - rank: 1
     name: "フジ クッキングシート 業務用 33cm×30m"
@@ -86,13 +86,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackage-marche%2F51849.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fec-try%2F4901670103113.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-19"
-        price: 9440
-        rating: 5
-        reviewCount: 14
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_51849"
+        updatedAt: "2026-08-22"
+        price: 550
+        rating: 4.91
+        reviewCount: 11
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ec-try_4901670103113"
         available: true
   - rank: 4
     name: "クックパー クッキングシート L 30cm幅"
@@ -200,7 +200,7 @@ products:
     capacity: "100枚入り"
     pricePerUnit: "約18円/枚"
     rating: 4.66
-    reviewCount: 164
+    reviewCount: 165
     features:
       - "PFAS・フッ素フリーの無漂白クッキングシート"
       - "フライパンや蒸し料理・包み焼きに対応した多用途タイプ"

@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-22"
 products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚"
@@ -34,8 +34,8 @@ products:
     price: 407
     capacity: "100枚"
     pricePerUnit: "約4.1円/枚"
-    rating: 4.58
-    reviewCount: 142
+    rating: 4.59
+    reviewCount: 143
     features:
       - "使い切りで使える作業用手袋"
       - "継続利用しやすい定番構成"
@@ -119,12 +119,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh734020.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-22"
         price: 6985
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh734020"
         available: true
         rating: 4.69
-        reviewCount: 384
+        reviewCount: 386
   - rank: 5
     name: "PVCグローブ 100枚×10箱"
     brand: "サンユー"
@@ -186,10 +186,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove003.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-16"
-        price: 9080
-        rating: 4.74
-        reviewCount: 227
+        updatedAt: "2026-08-22"
+        price: 9000
+        rating: 4.75
+        reviewCount: 229
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove003"
         available: true
   - rank: 7
@@ -254,7 +254,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約11円/枚"
     rating: 4.71
-    reviewCount: 1419
+    reviewCount: 1422
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -274,10 +274,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove001.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-22"
         price: 1198
-        rating: 4.58
-        reviewCount: 2245
+        rating: 4.59
+        reviewCount: 2258
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
         available: true
   - rank: 10
