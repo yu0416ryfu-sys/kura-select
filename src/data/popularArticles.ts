@@ -4,5 +4,5 @@ export const popularArticleIds = [
   "laundry-detergent-comparison",
   "tissue-paper-comparison",
   "dish-detergent-comparison",
-  "shampoo-comparison",
+  "laundry-gel-ball-comparison",
 ] as const;
