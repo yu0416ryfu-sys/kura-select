@@ -1,308 +1,231 @@
 ---
-title: "ジェルボール洗剤 コスパ最強ランキング【2026年版】1個あたり最安で比較"
-description: "ジェルボール洗剤を1個あたりのコストで徹底比較。アリエール・アタックZERO・ボールドなど人気商品を洗浄力・香り・コスパで解説します。"
+title: "ジェルボール洗剤おすすめ10選｜コスパ最強ランキング【2026年版】"
+description: "ジェルボール洗剤を1個あたりのコストで比較したおすすめ10選。アリエールとボールドの詰め替え大容量を軸に、4人家族で実際に使い切るまで撮影した写真つきで、粒の大きさ・溶け残り・香りの残り方・保管のしやすさを解説します。液体洗剤との使い分けもまとめました。"
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-22"
 products:
   - rank: 1
-    name: "ファーファ ベビーフローラル"
-    brand: "ファーファ"
-    price: 3978
-    capacity: "1100g×8個セット"
-    pricePerUnit: "約0.45円/g"
-    rating: 4.77
-    reviewCount: 230
+    name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
+    brand: "P&G（アリエール）"
+    price: 1986
+    capacity: "83個"
+    pricePerUnit: "約23.9円/個"
+    rating: 4.92
+    reviewCount: 13
     features:
-      - "ベビーフローラルの心地よい香りが特徴の液体洗剤"
-      - "洗浄力・消臭・抗菌の三機能を一本で実現"
-      - "ケース販売の大容量8個セットで長期保管が可能"
+      - "洗浄・消臭・防菌・柔軟の4層構造ジェルボール"
+      - "香りを抑えた微香タイプで衣類に匂いを残しにくい"
+      - "メガジャンボサイズの詰め替えで1個あたりの単価が下がる"
     pros:
-      - "ベビーフローラルの穏やかな香りで洗い上がりが爽やか"
-      - "消臭・抗菌機能で部屋干しの臭い対策にも効果的"
-      - "ケース購入で1本あたりのコストを抑えられる大容量タイプ"
+      - "ジェルボールの中では1個あたりの単価が最も低い水準"
+      - "微香なので柔軟剤や香水と香りがぶつかりにくい"
+      - "大容量でも袋のチャックで湿気を防いで保管できる"
     cons:
-      - "ケース販売のため初回に大きなスペースと購入コストが必要"
-      - "香りの好みが合わないと大量に余ってしまうリスクがある"
-    recommendedFor: "まとめ買いでコスパを重視する方・香り付き洗剤を好む方・消臭・抗菌効果も求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2Fs621006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10002096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/9fa-fa/fafa4/02539939/4902135147420_case.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2Fs621006.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-08"
-        price: 3978
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_s621006"
-        available: true
-        rating: 5
-        reviewCount: 13
+      - "香りの持続を期待する人には物足りない"
+      - "詰め替え専用なので初回は本体容器が別途必要"
+    recommendedFor: "香りは控えめがいい方・ジェルボールをとにかく安く使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.3rdw6eed.g00s0vmn.3rdw7144/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4987176194398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10158813%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/09468594/4987176194398_00.jpg?_ex=128x128"
   - rank: 2
-    name: "トップ クリアリキッド 詰め替え"
-    brand: "ライオン（トップ）"
-    price: 6390
-    capacity: "4kg×3本"
-    pricePerUnit: "約533円/kg"
-    rating: 4.8
-    reviewCount: 215
+    name: "アリエール ジェルボールプロ 部屋干し＆スポーツ 詰め替え"
+    brand: "P&G（アリエール）"
+    price: 2997
+    capacity: "89個"
+    pricePerUnit: "約33.7円/個"
+    rating: 4.79
+    reviewCount: 34
     features:
-      - "界面活性剤21%配合の高浸透型液体洗濯洗剤"
-      - "詰め替え用パッケージでプラスチック削減に貢献"
-      - "ライオンの定番ブランドによる安定した洗浄品質"
+      - "部屋干し時の生乾き臭に狙いを定めた処方"
+      - "汗をかいた衣類・運動着の皮脂汚れに対応"
+      - "1袋あたりの入り数が多い大容量詰め替え"
     pros:
-      - "初回・お試し限定価格で気軽に試せるコスパの良さ"
-      - "ライオンブランドの安定した品質と洗浄力が期待できる"
-      - "詰め替え用で本体容器を再利用するエコな選択肢"
+      - "部屋干し中心の家庭で使いやすい設計"
+      - "入り数が多く買い足しの頻度を減らせる"
+      - "ドラム式・縦型どちらの洗濯機でも使える"
     cons:
-      - "初回限定・お一人様1回限りの価格制限がある"
-      - "500gと少量のため頻繁に洗濯する家庭では消費が早い"
-    recommendedFor: "新しい洗剤をお試し価格で試したい方・ライオン製品を初めて使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r74en.3rdw6e21.g00r74en.3rdw7279/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-nontarou%2Fr5-15080k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-nontarou%2Fi%2F10001040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-nontarou/cabinet/r5-15080.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4903301288343.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-22"
-        price: 5280
-        rating: 4.65
-        reviewCount: 34
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4903301288343"
-        available: true
+      - "部屋干し向けの香りが好みを分けやすい"
+      - "洗濯物が少ない日でも1個を使い切る"
+    recommendedFor: "部屋干しが多い家庭・運動着の洗濯が多い家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987176284914%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11319035%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/914/4987176284914.jpg?_ex=128x128"
   - rank: 3
-    name: "さらさ 洗濯洗剤 詰め替え 6個セット"
-    brand: "P&G（さらさ）"
-    price: 8481
-    capacity: "1490g×6個セット"
-    pricePerUnit: "約0.95円/g"
-    rating: 4.72
-    reviewCount: 164
-    features:
-      - "植物由来成分の無添加液体洗剤を6個セットで大容量購入"
-      - "すすぎ1回対応で水道代・時間を節約できるエコ設計"
-      - "赤ちゃんの衣類にも安心のやさしい処方"
-    pros:
-      - "6個まとめ買いで1個あたりの単価を最大限に抑えられる"
-      - "長期在庫を確保でき頻繁な購入の手間が省ける"
-      - "最安値挑戦の価格設定でコスパ最強クラスのまとめ買い"
-    cons:
-      - "6個の大容量で保管スペースを大きく使う"
-      - "品質に満足しなかった場合に大量在庫が残るリスクがある"
-    recommendedFor: "さらさをヘビーユーザーとして使っている方・コスパ最優先で大容量まとめ買いをしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzvkn.3rdw6b15.g00qzvkn.3rdw7644/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fl-plus%2F7175761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fl-plus%2Fi%2F10226984%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/l-plus/cabinet/tenposupport21/7287020.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhikaritv%2F2010126844.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-19"
-        price: 8280
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010126844"
-        available: true
-        rating: 4.86
-        reviewCount: 28
-  - rank: 4
-    name: "さらさ 洗濯洗剤 詰め替え"
-    brand: "P&G（さらさ）"
-    price: 8481
-    capacity: "1490g"
-    pricePerUnit: "約5.7円/g"
-    rating: 4.56
-    reviewCount: 265
-    features:
-      - "植物由来成分配合の無添加液体洗濯洗剤"
-      - "すすぎ1回対応で水道代と時間を節約できる"
-      - "赤ちゃんの衣類にも使用できる肌に優しい処方"
-    pros:
-      - "植物由来成分で敏感肌や赤ちゃん衣類にも安心して使える"
-      - "すすぎ1回対応で洗濯時間と水道代を節約できる経済性"
-      - "大容量1490gで買い替え頻度を減らせるコスパの良さ"
-    cons:
-      - "洗浄力が化学系洗剤と比較するとやや控えめの場合がある"
-      - "頑固な汚れには漂白剤の併用が必要になることがある"
-    recommendedFor: "敏感肌の方・赤ちゃんがいる家庭・環境に配慮した洗剤を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7175761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10078291%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/tenposupport21/7287020.jpg?_ex=128x128"
-  - rank: 5
-    name: "ハイベック プレミアムドライ"
-    brand: "ハイベック"
-    price: 6600
-    capacity: "1100g"
-    pricePerUnit: "約6.0円/g"
-    rating: 4.62
-    reviewCount: 785
-    features:
-      - "スーツ・ダウン・ニット向けドライ洗剤の定番ブランド"
-      - "無香料処方で衣類の素材感を損なわない"
-      - "365日即日出荷対応の安定した供給体制"
-    pros:
-      - "ドライ洗剤の定番ブランドとして長く愛用されている信頼性"
-      - "1100gの大容量で約550回分の使用が可能なコスパ"
-      - "スーツからダウンまで幅広い衣類に対応できる多用途性"
-    cons:
-      - "一般的な洗濯洗剤に比べて価格がやや高め"
-      - "使用方法を誤ると衣類を傷める可能性がある"
-    recommendedFor: "スーツやコートを自宅でドライクリーニングしたい方・衣替えの季節に高級衣類をまとめて洗いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3zun.3rdw6a0f.g00r3zun.3rdw79f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec%2F00000101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec%2Fi%2F10000019%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec/cabinet/01874330/premiun/hi-bec_premium_01.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-19"
-        price: 6600
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
-        available: true
-        rating: 4.7
-        reviewCount: 20
-  - rank: 6
-    name: "サンベック高級洗剤"
-    brand: "トップライン"
-    price: 6380
-    capacity: "1000g"
-    pricePerUnit: "約6.4円/g"
+    name: "ボールド ジェルボール4D 華やかおひさまとプレミアムブロッサム 詰め替え"
+    brand: "P&G（ボールド）"
+    price: 2546
+    capacity: "70個"
+    pricePerUnit: "約36.4円/個"
     rating: 4.7
-    reviewCount: 652
+    reviewCount: 33
     features:
-      - "スーツ・コート・ダウン・ニット・カシミアが洗えるドライ洗剤"
-      - "無香料処方で素材本来の風合いを守る"
-      - "1000gの大容量で家庭での長期使用に対応"
+      - "洗剤と柔軟剤が一体になった4in1タイプ"
+      - "すすぎ1回に対応した濃縮処方"
+      - "花系の華やかな香りを長時間持続させる設計"
     pros:
-      - "高級衣類のホームクリーニングがプロ並みにできる"
-      - "無香料設計で衣類に余計な香りが移らない"
-      - "ドライクリーニング代を節約できるコスト削減効果が高い"
+      - "柔軟剤を別で買わずに済むぶん総額を抑えやすい"
+      - "すすぎ1回対応で洗濯1回あたりの時間と水を減らせる"
+      - "洗い上がりの香りが分かりやすく満足度が高い"
     cons:
-      - "通常の洗濯洗剤として使えないため用途が限られる"
-      - "初回は使い方に慣れるまで多少の学習コストがかかる"
-    recommendedFor: "高級衣類を自宅でクリーニングしたい方・ドライクリーニング代を節約したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsb1000-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000195%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/18sb.jpg?_ex=128x128"
-  - rank: 7
-    name: "サンベックドライ洗剤"
-    brand: "トップライン"
+      - "柔軟剤一体型なので香りの強さを自分で調整できない"
+      - "柔軟剤を別に使いたい人には向かない"
+    recommendedFor: "洗剤と柔軟剤を1つにまとめたい方・香り重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4987176131447%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10034914%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/11147956/11928062/2000000160665.jpg?_ex=128x128"
+  - rank: 4
+    name: "ボールド 太陽のジェルボール4in1 ホワイトラベンダー＆ジャスミン 詰め替え テラジャンボ"
+    brand: "P&G（ボールド）"
+    price: 3150
+    capacity: "86個"
+    pricePerUnit: "約36.6円/個"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "洗浄・消臭・柔軟・香り持続を1粒にまとめた4in1"
+      - "ラベンダーとジャスミンを合わせた落ち着いた香り"
+      - "テラジャンボサイズで1個あたりの単価を抑えた詰め替え"
+    pros:
+      - "1粒でも香りがしっかり立つので柔軟剤の追加がいらない"
+      - "チャック付きの袋で開封後も匂いがもれにくい"
+      - "立てて置ける袋形状で棚の場所を取りにくい"
+    cons:
+      - "無香が好みの人には香りが主張して感じられる"
+      - "袋が大きいぶん買い置き先の棚の高さを選ぶ"
+    recommendedFor: "柔軟剤なしで香りを完結させたい方・夜洗濯や部屋干しが多い方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987176292759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10151166%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202505_3/4987176292759.jpg?_ex=128x128"
+  - rank: 5
+    name: "アリエール ジェルボールプロ 部屋干し用 詰め替え"
+    brand: "P&G（アリエール）"
+    price: 2680
+    capacity: "70個"
+    pricePerUnit: "約38.3円/個"
+    rating: 4.69
+    reviewCount: 39
+    features:
+      - "部屋干し時の菌の繁殖を抑える処方"
+      - "微香タイプで衣類に香りを残しすぎない"
+      - "投入口に入れず洗濯槽に直接入れて使うタイプ"
+    pros:
+      - "部屋干し臭対策と香り控えめを両立できる"
+      - "入り数と価格のバランスが取りやすい"
+      - "汚れがひどくない日常着の洗濯に十分な洗浄力"
+    cons:
+      - "泥汚れなど強い汚れは前処理が必要になる"
+      - "詰め替え専用で本体容器が別途必要"
+    recommendedFor: "部屋干しはするが香りは強くしたくない方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u24hn.3rdw6c19.g00u24hn.3rdw7523/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Factive-online%2F4987176315700%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Factive-online%2Fi%2F10001415%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/active-online/cabinet/compass1765261121.jpg?_ex=128x128"
+  - rank: 6
+    name: "アリエール ジェルボール 部屋干し＆スポーツ 詰め替え テラジャンボ"
+    brand: "P&G（アリエール）"
     price: 3980
-    capacity: "500g"
-    pricePerUnit: "約8.0円/g"
-    rating: 4.68
-    reviewCount: 562
+    capacity: "100個"
+    pricePerUnit: "約39.8円/個"
+    rating: 4.79
+    reviewCount: 43
     features:
-      - "スーツ・コート・ダウン・ニット・カシミアに対応するドライ洗剤"
-      - "無香料設計で素材への影響を最小化"
-      - "500gの使い切りやすいコンパクトサイズ"
+      - "1袋の入り数が最大級のテラジャンボサイズ"
+      - "部屋干しと運動着の両方を想定した処方"
+      - "まとめ買いで買い足し頻度を減らせる大容量"
     pros:
-      - "お試しに最適な500gサイズで使い勝手を確認しやすい"
-      - "1000gタイプと同じ品質のドライ洗剤が少量購入で試せる"
-      - "保管場所を取らないコンパクトサイズが使いやすい"
+      - "入り数が多く1袋で長期間もたせられる"
+      - "部屋干し中心の家庭の消費ペースに合う"
+      - "1個あたりの単価も大容量として妥当な水準"
     cons:
-      - "大容量タイプに比べると1gあたりの単価が高くなる"
-      - "衣類が多い家庭では頻繁に補充が必要になる"
-    recommendedFor: "ドライ洗剤を初めて試す方・衣類の少ない一人暮らしの方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsbd500-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000197%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/imgrc0074782606.jpg?_ex=128x128"
+      - "袋が大きく保管スペースを確保する必要がある"
+      - "香りが合わなかったときに残量が多く残る"
+    recommendedFor: "洗濯回数が多い家庭・保管スペースに余裕がある方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00umlcn.3rdw6f00.g00umlcn.3rdw76fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatanusstore%2F4987176234766%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatanusstore%2Fi%2F10000030%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platanusstore/cabinet/no21_top_sub.jpg?_ex=128x128"
+  - rank: 7
+    name: "ボールド ジェルボール4in1 ホワイトティー＆フローラル 詰め替え 超テラジャンボ"
+    brand: "P&G（ボールド）"
+    price: 3980
+    capacity: "96個"
+    pricePerUnit: "約41.5円/個"
+    rating: 4.63
+    reviewCount: 8
+    features:
+      - "柔軟剤入り4in1の大容量詰め替え"
+      - "ホワイトティーを軸にした軽めの香り"
+      - "入り数が多く1個あたりの単価を抑えやすい"
+    pros:
+      - "柔軟剤一体型の中では入り数が多く単価を下げやすい"
+      - "花系より軽い香りで男女問わず使いやすい"
+      - "すすぎ1回対応で洗濯時間を短縮できる"
+    cons:
+      - "大容量のため開封後は湿気対策が必要"
+      - "香りの系統が好みでないと消費に時間がかかる"
+    recommendedFor: "柔軟剤一体型を大容量で使いたい方・軽い香りが好みの方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00umlcn.3rdw6f00.g00umlcn.3rdw76fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatanusstore%2F4987176336330%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatanusstore%2Fi%2F10000138%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platanusstore/cabinet/compass1761781326.jpg?_ex=128x128"
   - rank: 8
-    name: "緑の魔女 ランドリー 2個セット"
-    brand: "ミマスクリーンケア（緑の魔女）"
-    price: 5780
-    capacity: "5L×2本セット"
-    pricePerUnit: "約578円/L"
-    rating: 4.73
-    reviewCount: 531
+    name: "ボールド ジェルボール4in1 ホワイトムスク＆フローラル 詰め替え"
+    brand: "P&G（ボールド）"
+    price: 3680
+    capacity: "65個"
+    pricePerUnit: "約56.6円/個"
+    rating: 4.63
+    reviewCount: 41
     features:
-      - "業務用の大容量5L×2本セットで長期間使えるコスパ商品"
-      - "衣類洗浄に加え排水管清掃にも使える多用途性"
-      - "送料無料で大容量まとめ買いのコストパフォーマンスが高い"
+      - "ムスク系の香りを採用した4in1タイプ"
+      - "洗剤・柔軟剤・消臭・シワ防止を1粒でまかなう"
+      - "中容量で香り違いを試しやすいサイズ"
     pros:
-      - "業務用サイズの大容量で1本あたりのコストが格段に抑えられる"
-      - "洗濯洗剤と排水管クリーナーを兼ねる多目的な使い方が可能"
-      - "2本セットで在庫切れを心配せず長期間使い続けられる"
+      - "花系とは違うムスク寄りの香りを選べる"
+      - "柔軟剤を別に買う必要がない"
+      - "中容量なので香りが合わなくても抱え込みにくい"
     cons:
-      - "大容量のため保管スペースが必要になる"
-      - "液体のため重量があり持ち運びや詰め替えに手間がかかる"
-    recommendedFor: "洗濯頻度が高い家庭・大容量まとめ買いでコスパを最大化したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7091429%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10060352%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/thum/naosi/syoumou_set/7091429_khome.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4902875120844.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-07"
-        price: 4807
-        rating: 4.3
-        reviewCount: 10
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4902875120844"
-        available: true
+      - "大容量タイプより1個あたりの単価は高め"
+      - "取り扱い期間が限られる場合がある"
+    recommendedFor: "定番の花系の香りに飽きた方・まず中容量で試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ulujn.3rdw68ec.g00ulujn.3rdw7a89/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flgo-2023%2F4987176321565%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flgo-2023%2Fi%2F10000232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lgo-2023/cabinet/imgrc0109870360.jpg?_ex=128x128"
   - rank: 9
-    name: "おまかせドライ"
-    brand: "ファーファ"
-    price: 1694
-    capacity: "450ml"
-    pricePerUnit: "約3.8円/ml"
-    rating: 4.75
-    reviewCount: 165
+    name: "ボールド ジェルボール4in1 爽やかおひさまとフレッシュサボン 詰め替え"
+    brand: "P&G（ボールド）"
+    price: 3380
+    capacity: "57個"
+    pricePerUnit: "約59.3円/個"
+    rating: 4.86
+    reviewCount: 7
     features:
-      - "ウール・シルク・麻・綿・合成繊維に対応のドライマーク用液体洗剤"
-      - "自宅でクリーニング品質の洗い上がりを実現"
-      - "おしゃれ着全般に使えるオールラウンドなドライ洗剤"
+      - "石けん系のフレッシュサボンの香り"
+      - "柔軟剤入り4in1で洗濯を1工程にまとめられる"
+      - "中容量でストックしやすいサイズ"
     pros:
-      - "ドライマーク衣類から一般衣類まで幅広く使える汎用性"
-      - "ファーファブランドで信頼の品質と洗い上がりを実現"
-      - "自宅でクリーニング代を節約できるコストダウン効果"
+      - "石けん系の香りで家族から不評が出にくい"
+      - "中容量で保管スペースを圧迫しない"
+      - "柔軟剤の買い足しが不要になる"
     cons:
-      - "容量450mlと少なめのため消費が早く頻繁に購入が必要"
-      - "頑固な汚れには専用のスポット処理が別途必要になる場合がある"
-    recommendedFor: "ドライマーク衣類を自宅で手軽に洗いたい方・クリーニング代を節約したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2F620666%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10001124%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/01/dry/omakase2017.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F622008a.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-19"
-        price: 1694
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_622008a"
-        available: true
-        rating: 0
-        reviewCount: 1
+      - "大容量タイプと比べると1個あたりの単価は不利"
+      - "入り数が少なく買い足しの頻度が上がる"
+    recommendedFor: "石けん系の香りが好みの方・保管スペースが限られる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987176292735%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11328328%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/735/4987176292735.jpg?_ex=128x128"
   - rank: 10
-    name: "メイクブラシクリーナー"
-    brand: "博雲堂（ハクウンドウ）"
-    price: 3729
-    capacity: "500ml"
-    pricePerUnit: "約7.5円/ml"
-    rating: 4.54
-    reviewCount: 273
+    name: "アリエール ジェルボールプロ まるごと洗浄消臭 本体"
+    brand: "P&G（アリエール）"
+    price: 640
+    capacity: "11個"
+    pricePerUnit: "約58.2円/個"
+    rating: 0
+    reviewCount: 0
     features:
-      - "メイクブラシ専用の液体クリーニング洗剤"
-      - "天然由来成分配合でブラシの毛並みを傷めない設計"
-      - "500mlの使いやすい容量でブラシケアに特化"
+      - "詰め替えを移し替えるための本体容器付き"
+      - "洗浄と消臭を1粒でまかなうスタンダードタイプ"
+      - "少量なので初めてのジェルボールを試しやすい"
     pros:
-      - "専用洗剤でブラシの素材を傷めず効果的に汚れを除去できる"
-      - "天然由来成分配合で肌に触れる道具を安心して洗える"
-      - "500mlの適切な容量でコスパよく使い続けられる"
+      - "チャック袋より密閉性の高い容器で保管できる"
+      - "少量なので香りや使い心地を試すのに向く"
+      - "詰め替え運用を始める最初の1個として使える"
     cons:
-      - "メイクブラシ専用のため他の用途には使いにくい"
-      - "頻繁にブラシを洗う習慣がないと使い切るまで時間がかかる"
-    recommendedFor: "メイクブラシのケアに気を使う方・天然素材の洗浄剤を好む方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tmqun.3rdw6b53.g00tmqun.3rdw7696/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhakuundou%2Fcl01a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhakuundou%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hakuundou/cabinet/item03/lp01-1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurunavi%2F1806588.html"
-        matchStatus: "review"
-        updatedAt: "2026-08-19"
-        price: 25000
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/furunavi_1806588"
-        available: true
+      - "1個あたりの単価は詰め替え大容量より明確に高い"
+      - "入り数が少なく本体だけで使い続けるのは割高"
+    recommendedFor: "ジェルボールを初めて使う方・詰め替え用の容器が必要な方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987176284648%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11318957%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/648/4987176284648.jpg?_ex=128x128"
 tags:
   - "ジェルボール 洗剤"
   - "ジェルボール おすすめ"
@@ -311,14 +234,18 @@ tags:
   - "まとめ買い"
 draft: false
 faqs:
-  - question: "Q. ジェルボールは液体洗剤より汚れ落ちが悪い？"
-    answer: "液体・粉末洗剤の方が洗浄力が高い傾向がありますが、アリエール4DやアタックZEROなどの上位ジェルボールは日常の汚れには十分対応できます。ひどい汚れは事前処理がおすすめです。"
-  - question: "Q. 量の調整はできる？"
-    answer: "基本的に1回1個です。洗濯物が少ない場合でも1個使用するため、少量洗濯を頻繁にする人にはコストがかさみやすいです。"
-  - question: "Q. 子供が誤飲した場合は？"
-    answer: "直ちに医療機関に連絡してください。見た目がカラフルで誤飲事故が報告されています。必ず子供の手の届かない場所に保管してください。"
-  - question: "Q. ドラム式洗濯機でも使える？"
-    answer: "ほとんどの商品が対応していますが、洗濯槽に直接入れるなどメーカーの推奨方法を守ってください。"
+  - question: "Q. ジェルボールは溶け残りませんか？"
+    answer: "縦型洗濯機で毎日使いましたが、溶け残ったことは一度もありませんでした。ポイントは洗剤の投入口ではなく洗濯槽の底に直接入れ、そのうえから洗濯物をのせること。投入口に入れるとフィルムが溶けきらず残る原因になります。"
+  - question: "Q. 1回1個で足りますか？"
+    answer: "普段の洗濯量なら1個で足ります。洗濯物が多い日は2個使いました。逆に洗濯物が少ない日でも1個より少なくはできないため、細かい量の調整ができないのがジェルボール唯一の弱点です。"
+  - question: "Q. 柔軟剤は別に必要ですか？"
+    answer: "柔軟剤入りの4in1タイプなら基本的に不要です。実際に柔軟剤なしで使えていますが、子供の汚れた服をまとめて洗うときだけ香りビーズを併用しています。"
+  - question: "Q. 香りはどのくらい残りますか？"
+    answer: "1個でしっかり香りが立ち、乾いた翌日まで残っていました。強すぎるということはなく、1個で十分という印象です。香りを足したくない場合は微香タイプを選んでください。"
+  - question: "Q. 子供の誤飲が心配です"
+    answer: "パッケージにも「子供やペットの手の届く所に置かない」と明記されています。見た目がカラフルで誤飲事故が報告されているため、必ず子供の手が届かない高さに保管してください。万一口に入れた場合は直ちに医療機関に連絡してください。"
+  - question: "Q. ドラム式洗濯機でも使えますか？"
+    answer: "ほとんどの商品がドラム式に対応しています。縦型と同じく、洗剤投入口ではなく洗濯槽に直接入れるのがメーカーの推奨方法です。"
 ---
 
 ## ジェルボール洗剤の選び方ガイド
@@ -399,5 +326,132 @@ faqs:
 襟や袖の黄ばみ・部屋干し臭が気になる場合は、[衣料用漂白剤のコスパ比較](/articles/laundry-bleach-comparison/) を併用すると洗浄力をさらに補えます。
 
 ---
+ジェルボール（カプセル型）洗剤は、計量せずに1粒放り込むだけで洗濯が終わる洗剤です。液体洗剤より1回あたりのコストは高くなりますが、計量カップを洗う手間も、詰め替えでこぼす失敗もなくなります。
 
-※ 価格は2026年5月時点の楽天市場参考価格です。価格は変動しますので、各リンクで最新情報を確認してください。
+最初に押さえておきたいのは、**日本で流通しているジェルボールは実質 P&G の2ブランド（アリエールとボールド）しかない**ということです。花王もライオンも液体・スティック型に注力しており、ジェルボールからは事実上撤退しています。つまりジェルボール選びは「どのブランドか」ではなく、**洗浄重視のアリエールか、柔軟剤入りのボールドか**、そして**どの大きさの詰め替えを買うか**の2択にほぼ集約されます。
+
+この記事では、実際にボールドの太陽のジェルボール4in1（ホワイトラベンダー＆ジャスミンの香り）を4人家族で毎日使い、袋を1つ空にするまで撮影しました。カタログでは分からない部分を先に共有します。
+
+## 実際に使って分かったこと
+
+### 粒の大きさは500円玉より一回り以上大きい
+
+<figure>
+  <img src="/images/articles/laundry-gel-ball/gel-ball-size.webp" width="800" height="528" loading="lazy" decoding="async" alt="ボールド 太陽のジェルボール4in1の粒を500円玉と並べて大きさを比較した写真" />
+  <figcaption>500円玉（直径26.5mm）と並べたところ。手のひらに1粒のせるとかなり存在感がある</figcaption>
+</figure>
+
+商品ページの写真では大きさが分かりにくいので、500円玉と並べてみました。硬貨より一回り以上大きく、指でつまむとしっかり重さを感じます。この大きさが「1粒＝洗濯1回分」の中身で、液体洗剤のキャップ1杯分がフィルムに包まれていると考えると分かりやすいと思います。
+
+触った感想として、**濡れた手でつまむとフィルムがわずかに溶けてベタつきます。**乾いた手で取り出すのが基本です。洗濯前に手を洗ってから、というより「洗濯機に入れてから手を洗う」順番にすると失敗しません。
+
+### 溶け残りは一度もなかった（縦型・毎日使用）
+
+<figure>
+  <img src="/images/articles/laundry-gel-ball/gel-ball-drum.webp" width="640" height="717" loading="lazy" decoding="async" alt="ジェルボールを使った洗濯が終わった直後の縦型洗濯機の槽内。フィルムの溶け残りは見当たらない" />
+  <figcaption>洗濯終了直後の槽内。フィルムのかけらも残っていない</figcaption>
+</figure>
+
+ジェルボールで最も多い不安が「溶け残り」ですが、**縦型洗濯機で毎日使って、溶け残ったことは一度もありませんでした。**冬場の水温が低い時期も同じです。
+
+ただし条件があります。**洗剤の投入口ではなく、洗濯槽の底に直接入れて、そのうえから洗濯物をのせること。**これはメーカーが指定している使い方で、投入口に入れると水流が当たらずフィルムが溶け残ります。「溶け残った」という声の多くはここが原因です。ドラム式でも同様に、槽に直接入れます。
+
+### 1個で足りる日と、2個いる日がある
+
+普段の洗濯量なら1粒で足りました。ただし**洗濯物が多い日は2粒**使っています。ここがジェルボールの一番の弱点で、**液体洗剤のように「今日は少なめ」という調整ができません。**洗濯物が半分の日でも1粒は必要なので、少量洗濯を1日に何度も回す家庭ではコストが効きにくくなります。
+
+逆に、毎日ある程度まとまった量を洗う家庭では、計量の手間がゼロになるメリットのほうがはっきり出ます。4人家族で毎日1回まわして、大容量の詰め替え1袋が2か月半ほどもちました。
+
+### 香りは1粒で十分、翌日まで残る
+
+香りははっきりあります。**1粒でも香りは十分立ちますが、きつすぎるということはありません。**乾かしたあと翌日まで香りが残っていました。
+
+柔軟剤入りの4in1タイプなので、**柔軟剤は別に使わずに済んでいます。**例外は子供の汚れた服をまとめて洗うときで、そこだけ香りビーズを足しています。香りを重ねたくない人や、自分の好きな柔軟剤があるという人は、香りを抑えた微香タイプのアリエールを選んで柔軟剤を別に使う組み合わせのほうが合います。
+
+## 保管してみて分かったこと
+
+### 高さがないぶん棚に収まりやすい
+
+<figure>
+  <img src="/images/articles/laundry-gel-ball/gel-ball-storage.webp" width="620" height="790" loading="lazy" decoding="async" alt="洗濯機上の棚に立てて置いたボールド 太陽のジェルボール4in1の詰め替え袋" />
+  <figcaption>洗濯機上の棚に立てて置いた状態。子供の手が届かない高さに保管している</figcaption>
+</figure>
+
+大容量の詰め替えというと場所を取りそうですが、袋が自立するので棚に立てて置けます。**液体洗剤のボトルのように背が高くないため、棚板の間が狭くても収まりました。**
+
+保管場所については、置き場所を選べるかどうかより先に決めるべきことがあります。**必ず子供の手が届かない高さに置くこと。**理由は後述しますが、これはジェルボールを使ううえでの前提条件です。
+
+### 液体洗剤と並べると、幅は袋のほうが取る
+
+<figure>
+  <img src="/images/articles/laundry-gel-ball/gel-ball-vs-liquid.webp" width="760" height="739" loading="lazy" decoding="async" alt="ボールドの液体洗剤ボトルとジェルボール詰め替え袋を並べて大きさを比較した写真" />
+  <figcaption>同じボールドの液体洗剤ボトルと並べたところ。高さはほぼ同じで、幅は袋のほうが広い</figcaption>
+</figure>
+
+正直に書くと、**同じ容量帯の液体洗剤ボトルと並べると、袋のほうが横幅を取ります。**「ジェルボールは省スペース」と単純には言えません。
+
+ただし置き場所として比べると、印象は変わります。液体洗剤は本体ボトルに加えて詰め替えパックのストックが要り、計量キャップを置いたり洗ったりする場所も必要です。ジェルボールは**袋がそのまま保管容器になる**ため、詰め替え作業もキャップの置き場も要りません。総量ではなく「洗濯機まわりに常駐するモノの数」で比べると、ジェルボールのほうが少なくなります。
+
+### チャック付きで匂いは漏れない
+
+<figure>
+  <img src="/images/articles/laundry-gel-ball/gel-ball-zipper.webp" width="800" height="739" loading="lazy" decoding="async" alt="チャックを開けたジェルボール詰め替え袋の中身。紫色の粒が並んでいる" />
+  <figcaption>袋はチャック付き。閉めておけば香りが部屋に漏れることはない</figcaption>
+</figure>
+
+袋の口はチャックになっています。**閉めておけば匂いが部屋に漏れることはありませんでした。**開封したまま2か月半使い続けましたが、湿気で粒同士がくっついたこともありません。
+
+ただしチャックは**必ず閉めること**が前提です。ジェルボールは水分に触れると溶けはじめるため、開けっぱなしは湿気と誤飲の両方でリスクになります。
+
+## 誤飲対策だけは必ず読んでほしい
+
+<figure>
+  <img src="/images/articles/laundry-gel-ball/gel-ball-warning.webp" width="900" height="79" loading="lazy" decoding="async" alt="ジェルボールのパッケージ裏面の注意書き。子供やペットの手の届く所に置かないと記載されている" />
+  <figcaption>パッケージ裏面の注意書き。「子供やペットの手の届く所に置かない」が最初に書かれている</figcaption>
+</figure>
+
+パッケージ裏面の注意書きは、**「これは食べ物ではありません」「子供やペットの手の届く所に置かない」**から始まります。ジェルボールは色も形もお菓子に似ているため、乳幼児の誤飲事故が実際に報告されています。
+
+家庭でやるべきことは3つだけです。
+
+- **子供の手が届かない高さに置く**（洗濯機上の棚など。床置きは避ける）
+- **チャックを必ず閉める**
+- **洗濯機に入れるとき以外は袋から出さない**
+
+万一、口に入れた・飲み込んだ場合は自己判断せず、**直ちに医療機関に連絡してください。**目に入った場合はこすらずに水で十分に洗い流します。
+
+## 液体洗剤とどう使い分けるか
+
+ジェルボールと液体洗剤は、どちらかが優れているというより向き不向きがはっきり分かれます。
+
+| | ジェルボールが向く | 液体洗剤が向く |
+|---|---|---|
+| 洗濯量 | 毎日まとまった量を洗う | 少量を分けて何度も回す |
+| 手間 | 計量したくない | 量の調整をしたい |
+| 柔軟剤 | 4in1で一本化したい | 好みの柔軟剤を使いたい |
+| 汚れ | 日常の皮脂・食べこぼし | 泥汚れ・部分洗いが多い |
+| 保管 | 詰め替え作業をやめたい | 置き場所の幅が限られる |
+
+実感としては、**計量の手間が完全になくなるのが最大の価値**で、その対価として「量を調整できない」ことを受け入れられるかどうかが分岐点です。泥汚れや襟の黄ばみなど、ジェルボール単体では落としきれない汚れには [衣料用漂白剤のコスパ比較](/articles/laundry-bleach-comparison/) の併用が現実的です。液体洗剤も含めて全体のコストを見直したい場合は [洗濯洗剤のコスパ比較](/articles/laundry-detergent-comparison/)、香りを自分で足したい場合は [柔軟剤のコスパ比較](/articles/fabric-softener-comparison/) もあわせてご覧ください。
+
+## 香りの系統で選ぶ
+
+ジェルボールは香りを自分で調整できないため、香り選びは液体洗剤より重要です。大きく3系統あります。
+
+- **ラベンダー・フローラル系（ボールド）** — 落ち着いた香りで、乾いた翌日まで残ります。柔軟剤を使わない前提ならこの系統が扱いやすい
+- **石けん・ホワイトティー系（ボールド）** — 軽めの香りで家族から不評が出にくい。花系が苦手な人向け
+- **微香（アリエール）** — 香りをほぼ残さないタイプ。好きな柔軟剤や香水と組み合わせたい人、職場で香りを控えたい人向け
+
+香りの好みが分からないうちは、いきなり最大容量を買わないほうが安全です。**中容量で試して、合ったら大容量の詰め替えに切り替える**のが結果的に無駄が出ません。1個あたりのコストは記事上部の比較表で自動更新しているので、そちらで確認してください。
+
+## まとめ
+
+ジェルボールは「計量をやめるための洗剤」です。実際に使って、溶け残りは起きず、1粒で香りも十分でしたが、**量を細かく調整できない**という性質は最後まで変わりませんでした。毎日まとまった量を洗う家庭ほど噛み合い、少量を分けて洗う家庭ほど不利になります。
+
+選ぶときの順番は、①柔軟剤を一本化したいか（ボールド）／別に使いたいか（アリエール微香）を決める → ②香りの系統を決める → ③1個あたりのコストが最も低い容量を選ぶ、の3ステップです。①②で候補を絞ってから、記事上部の比較表で1個あたりのコストを確認するのが最短です。
+
+そして繰り返しになりますが、**保管場所だけは価格より先に決めてください。**子供の手が届かない高さに置く。これがジェルボールを使う条件です。
+
+---
+
+※ 価格・在庫は変動します。最新の価格は各商品リンク先の楽天市場でご確認ください。記事内の写真はすべて筆者が実際に購入した商品を撮影したものです。

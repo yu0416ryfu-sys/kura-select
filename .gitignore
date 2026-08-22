@@ -84,3 +84,6 @@ kura-select-gsc-*.json
 
 # Claude Code のローカル実行状態
 .claude/scheduled_tasks.lock
+
+# 記事用写真の原本（HEIC/JPG。公開用は public/images/articles/ の WebP のみ追跡する）
+pictures/
