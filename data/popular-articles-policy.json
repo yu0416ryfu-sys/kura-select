@@ -1,0 +1,8 @@
+{
+  "slots": 6,
+  "minClicks": 1,
+  "pinned": [],
+  "excluded": [],
+  "spotlight": "laundry-gel-ball-comparison",
+  "note": "凍結中の記事は excluded 一択ではない。いま掲載中なら pinned（掲載を維持して内部リンクを凍結前と同じに保つ）、掲載外なら excluded（新規流入を止める）。判断基準は凍結開始時点の内部リンク構造を維持するかどうか。凍結が明けたら両方から外す。excluded は pinned/spotlight に優先する。pinned と spotlight は minClicks を免除されるが、実在確認は免除されない。spotlight は実績ではなく育てたい記事を1枠だけ確保する手動枠（1枠固定）。集計窓は baseline の meta.startDate〜endDate をそのまま使うため、ここでは指定しない。"
+}
