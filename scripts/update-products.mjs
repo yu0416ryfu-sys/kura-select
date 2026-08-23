@@ -29,7 +29,12 @@ const DRY_RUN = process.argv.includes('--dry-run');
 const VERBOSE = process.argv.includes('--verbose');
 const CHECK_REPLACEMENTS = process.argv.includes('--check-replacements');
 const CHECK_ADDITIONS = process.argv.includes('--check-additions');
-const FILE_FILTER = process.argv.find(a => a.startsWith('--file='))?.split('=')[1] ?? null;
+// Phase 0.6: 実出品名の書き出し（write-only。記事ファイルは一切触らない）
+const DUMP_ITEM_NAMES = process.argv.find(a => a.startsWith('--dump-item-names='))?.split('=').slice(1).join('=') || null;
+// --slug=foo は --file=foo-comparison.md の別名
+const SLUG_FILTER = process.argv.find(a => a.startsWith('--slug='))?.split('=')[1] ?? null;
+const FILE_FILTER = process.argv.find(a => a.startsWith('--file='))?.split('=')[1]
+  ?? (SLUG_FILTER ? `${SLUG_FILTER}-comparison.md` : null);
 const THRESHOLD = parseFloat(process.argv.find(a => a.startsWith('--threshold='))?.split('=')[1] ?? '2');
 const TARGET_COUNT = parseInt(process.argv.find(a => a.startsWith('--target='))?.split('=')[1] ?? '15');
 const CHECK_TARGET_COUNT = (() => {
@@ -3893,7 +3898,99 @@ async function main() {
   }
 }
 
-(CHECK_REPLACEMENTS ? checkReplacements() : CHECK_ADDITIONS ? checkAdditions() : main()).catch(err => {
+/**
+ * Phase 0.6: 実出品名の欠損補完（§4.2 手順2）
+ *
+ * 対象記事の products[] を楽天 Item/Get で引き直し、実出品名だけを JSONL に書き出す。
+ * **記事ファイルは読むだけで一切書き換えない**（.bak も作らない）。
+ * 出力は collect-item-names の --merge= にそのまま渡せる形にしてある。
+ *
+ * 使い方:
+ *   node --experimental-strip-types scripts/update-products.mjs \
+ *     --slug=laundry-gel-ball --dump-item-names=reports/item-names/dump-laundry-gel-ball.jsonl
+ */
+async function dumpItemNames() {
+  if (!FILE_FILTER) {
+    console.error('❌ --dump-item-names は --slug= または --file= と併用してください（全記事の一括実行はしません）');
+    process.exit(1);
+  }
+
+  const articlesDir = resolve(process.cwd(), 'src/content/articles');
+  const files = readdirSync(articlesDir)
+    .filter(f => f.endsWith('.md'))
+    .filter(f => matchesFileFilter(f));
+
+  if (files.length === 0) {
+    console.error(`❌ 対象ファイルがありません（--slug=${SLUG_FILTER ?? '-'} / --file=${FILE_FILTER}）`);
+    process.exit(1);
+  }
+
+  const outPath = resolve(process.cwd(), DUMP_ITEM_NAMES);
+  mkdirSync(dirname(outPath), { recursive: true });
+  const today = new Date().toISOString().slice(0, 10);
+
+  console.log(`📂 対象ファイル: ${files.length}件（実出品名の書き出しのみ。記事は変更しません）`);
+
+  const lines = [];
+  let fetched = 0;
+  let missing = 0;
+  let mismatched = 0;
+
+  for (const file of files) {
+    const content = readFileSync(join(articlesDir, file), 'utf-8');
+    const articleFile = `src/content/articles/${file}`;
+    const category = extractArticleCategory(content);
+    const products = extractAllProductsData(content);
+    console.log(`\n📄 ${file}（${products.length}件）`);
+
+    for (const product of products) {
+      const parsed = parseRakutenItemUrl(product.rakutenUrl);
+      if (!parsed) {
+        missing++;
+        console.log(`   ✗ rank ${product.rank}「${product.name.slice(0, 40)}」rakutenUrl から shopCode/itemCode を取得できません`);
+        continue;
+      }
+
+      let itemData = null;
+      try {
+        itemData = await fetchRakutenItem(parsed.shopCode, parsed.itemCode, product.name);
+      } catch (err) {
+        console.log(`   ✗ rank ${product.rank}「${product.name.slice(0, 40)}」API エラー: ${err.message}`);
+      }
+      if (API_INTERVAL_MS > 0) await sleep(API_INTERVAL_MS);
+
+      if (!itemData || !itemData.name) {
+        missing++;
+        console.log(`   ✗ rank ${product.rank}「${product.name.slice(0, 40)}」実出品名を取得できません（${parsed.shopCode}/${parsed.itemCode}）`);
+        continue;
+      }
+
+      // フォールバック検索経由は別商品の可能性があるため method で区別できるようにする（§4.2）
+      const method = itemData._viafallback === true ? '[Item/Get:fallback]' : '[Item/Get]';
+      const nameMatch = isLikelySameProductName(product.name, itemData.name);
+      if (!nameMatch) mismatched++;
+
+      lines.push(JSON.stringify({
+        articleFile,
+        rank: product.rank,
+        category,
+        method,
+        nameMatch,
+        current: { name: product.name, rakutenUrl: product.rakutenUrl },
+        api: { itemName: itemData.name, itemUrl: itemData.itemUrl ?? null },
+        dumpedAt: today,
+      }));
+      fetched++;
+      console.log(`   ${nameMatch ? '✓' : '⚠'} rank ${product.rank} ${method} ${itemData.name.slice(0, 60)}`);
+    }
+  }
+
+  writeFileSync(outPath, lines.length ? lines.join('\n') + '\n' : '', 'utf-8');
+  console.log(`\n📊 取得 ${fetched}件 / 取得不可 ${missing}件 / 商品名不一致 ${mismatched}件（混入の疑い）`);
+  console.log(`💾 出力: ${DUMP_ITEM_NAMES}`);
+}
+
+(DUMP_ITEM_NAMES ? dumpItemNames() : CHECK_REPLACEMENTS ? checkReplacements() : CHECK_ADDITIONS ? checkAdditions() : main()).catch(err => {
   console.error('予期しないエラー:', err);
   process.exit(1);
 });
