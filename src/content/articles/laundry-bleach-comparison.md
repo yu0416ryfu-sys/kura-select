@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301745910-73-30000846.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-24"
         price: 210
         rating: 4.8
         reviewCount: 15
@@ -121,7 +121,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F34562.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-24"
         price: 996
         rating: 4.5
         reviewCount: 4
@@ -154,7 +154,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7288392.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-24"
         price: 3170
         rating: 4.83
         reviewCount: 12
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4978951060458.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-24"
         price: 991
         rating: 0
         reviewCount: 0
@@ -275,7 +275,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1156.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-24"
         price: 2950
         rating: 4.57
         reviewCount: 37
@@ -308,7 +308,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmebox%2Fj4904735053064f.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-24"
         price: 538
         rating: 0
         reviewCount: 1

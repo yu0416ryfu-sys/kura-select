@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901609015456.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-08-24"
         price: 706
         rating: 4.33
         reviewCount: 3
@@ -117,6 +117,17 @@ products:
     recommendedFor: "少量から試してみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugi2n.3rdw6154.g00ugi2n.3rdw7474/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkankosp%2F4901609012233%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkankosp%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kankosp/cabinet/bc/item/brush/imgrc0106916103.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9612078018.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-24"
+        price: 638
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_9612078018"
+        available: true
 tags:
   - "流せるトイレブラシ おすすめ"
   - "流せるトイレブラシ コスパ"

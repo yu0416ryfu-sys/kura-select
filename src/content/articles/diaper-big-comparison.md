@@ -58,7 +58,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-24"
         rating: 0
         reviewCount: 0
   - rank: 3
@@ -91,7 +91,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_60000000002751"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-24"
         rating: 4
         reviewCount: 3
   - rank: 4

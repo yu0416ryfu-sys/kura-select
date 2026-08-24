@@ -28,6 +28,17 @@ products:
     recommendedFor: "食材も洗いたい方・無香料にこだわる方・毎日の手肌負担を抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4973512309304%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11394431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/304/4973512309304.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujiyaku%2F4973512309304.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-24"
+        price: 492
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4973512309304"
+        available: true
   - rank: 2
     name: "フロッシュ 食器用洗剤 アロエヴェラ 詰替 800mL"
     brand: "フロッシュ（Werner & Mertz）"
@@ -50,6 +61,17 @@ products:
     recommendedFor: "手肌への配慮と環境配慮を両立しつつ、香りやデザインも楽しみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6rrn.3rdw6fe6.g00u6rrn.3rdw7f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaidora%2F4901670116915%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaidora%2Fi%2F10027526%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maidora/cabinet/item_images/drug_cosmetic_15/4901670116915.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F1630136.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-24"
+        price: 690
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_1630136"
+        available: true
 tags:
   - "食器用洗剤"
   - "フロッシュ"

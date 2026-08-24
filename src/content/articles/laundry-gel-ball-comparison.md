@@ -284,13 +284,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fraffine4147%2Fseki111e2720d00cd.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fscbmitsuokun1972%2F4987176284648.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-22"
-        price: 883
+        updatedAt: "2026-08-24"
+        price: 439
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/raffine4147_seki111e2720d00cd"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/scbmitsuokun1972_4987176284648"
         available: true
   - rank: 10
     name: "ボールド ジェルボール4in1 爽やかおひさまとフレッシュサボン 詰め替え"
@@ -319,7 +319,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987176292735.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-24"
         price: 2168
         rating: 0
         reviewCount: 0

@@ -4,7 +4,7 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-08-22"
+updatedAt: "2026-08-24"
 products:
   - rank: 1
     name: "LOGOS 倍速凍結 氷点下パック"
@@ -13,7 +13,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約770円/個"
     rating: 4.65
-    reviewCount: 229
+    reviewCount: 230
     features:
       - "繰り返し使える保冷剤タイプ"
       - "保冷バッグやクーラーボックスに入れやすい形状"
@@ -34,8 +34,8 @@ products:
     price: 1180
     capacity: "Mサイズ 1個"
     pricePerUnit: "約1180円/個"
-    rating: 4.34
-    reviewCount: 151
+    rating: 4.35
+    reviewCount: 153
     features:
       - "ハードタイプで溶けてもかさばらず繰り返し使いやすい設計"
       - "M（540g）・L（830g）・XL（1.1kg）の3サイズから用途に応じて選べる"
@@ -122,8 +122,8 @@ products:
     price: 2980
     capacity: "1個"
     pricePerUnit: "約2980円/個"
-    rating: 4.48
-    reviewCount: 33
+    rating: 4.47
+    reviewCount: 34
     features:
       - "ステンレス製で耐久性が高く長期間の繰り返し使用に向いている"
       - "冷蔵・冷凍どちらにも対応し用途に応じて使い分けが可能"

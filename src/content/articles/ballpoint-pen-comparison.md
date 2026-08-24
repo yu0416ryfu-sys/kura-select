@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: "2026-08-22"
+updatedAt: "2026-08-24"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "10本セット（替え芯付き）"
     pricePerUnit: "約140円/本"
     rating: 4.59
-    reviewCount: 284
+    reviewCount: 285
     features:
       - "150色以上から選べるハーバリウムデザインの装飾ボールペン10本セット"
       - "替え芯付きで長く使えるコスパ設計、送料無料"
@@ -36,7 +36,7 @@ products:
     capacity: "1本（4色ボールペン+シャープペンシル）"
     pricePerUnit: "約1000円/本"
     rating: 4.78
-    reviewCount: 13573
+    reviewCount: 13576
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"
@@ -163,8 +163,8 @@ products:
     price: 4700
     capacity: "1本"
     pricePerUnit: "約4700円/本"
-    rating: 4.73
-    reviewCount: 41
+    rating: 4.74
+    reviewCount: 42
     features:
       - "本体タイプのボールペンで日常の筆記に使いやすい"
       - "まとめ買いやギフト用途でも選びやすい"
