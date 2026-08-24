@@ -230,7 +230,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhappy-natural%2F018004000003.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-22"
         price: 3890
         rating: 0
@@ -263,7 +263,7 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdrmart-1%2Fcm-516393.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-07-14"
         price: 9548
         rating: 0
