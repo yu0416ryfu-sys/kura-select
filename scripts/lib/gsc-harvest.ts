@@ -226,6 +226,15 @@ function formatPosition(position: number): string {
   return (Math.round(position * 10) / 10).toFixed(1);
 }
 
+/** サイト合計（dimensions: [] で取得したもの。次元の行を足し上げない） */
+export interface GscSiteTotals {
+  clicks: number;
+  impressions: number;
+  /** 0〜1 の比率 */
+  ctr: number;
+  position: number;
+}
+
 export interface HarvestMeta {
   startDate: string;
   endDate: string;
@@ -234,6 +243,13 @@ export interface HarvestMeta {
   runDate: string;
   minImpressions: number;
   totalRows: number;
+  /** page 次元の行数（アンカー除外後） */
+  totalPageRows?: number;
+  /** 除外したアンカー付き URL の行数 */
+  excludedFragmentRows?: number;
+  /** 同・表示回数の合計 */
+  excludedFragmentImpressions?: number;
+  siteUrl?: string;
 }
 
 /** ページ単位の刈り取りレポート（Markdown）を組み立てる */

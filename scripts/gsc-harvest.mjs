@@ -9,6 +9,7 @@
 //
 // 出力（reports/ は gitignore 済み）:
 //   reports/gsc-harvest/baseline-<実行日>.json  ← 判定用の生データ。生命線
+//     meta / siteTotals（dimensions: []）/ rows（query×page）/ pageRows（page・アンカー除外後）
 //   reports/gsc-harvest/harvest-<実行日>.md     ← 候補レポート
 //
 // 計画書: docs/IMPLEMENTATION_PLAN_GSC_HARVEST_2026-08-07.md
@@ -18,11 +19,13 @@ import { fileURLToPath } from 'url';
 import {
   getGscAuth,
   fetchAllSearchAnalytics,
+  querySearchAnalytics,
   resolveDateRange,
   resolveServiceAccountKey,
   toDateString,
   SITE_URL,
 } from './lib/gsc-client.mjs';
+import { excludeFragmentPages } from './lib/gsc-pages.ts';
 import {
   classifyRows,
   summarizeByPage,
@@ -115,14 +118,40 @@ async function main() {
     endDate: range.endDate,
     dimensions: ['page'],
   });
-  const pageRows = rawPageRows.map((row) => ({
+  const allPageRows = rawPageRows.map((row) => ({
     page: row.keys?.[0] ?? '',
     clicks: row.clicks ?? 0,
     impressions: row.impressions ?? 0,
     ctr: row.ctr ?? 0,
     position: row.position ?? 0,
   }));
-  console.log(`✓ 取得: ${pageRows.length} 行（page）`);
+  // 見出しアンカー付き URL は親ページの表示を二重計上する（CLAUDE.md §5.0.4）。
+  // weekly-snapshot と取得法を揃えるため baseline 側でも除外する。
+  const {
+    rows: pageRows,
+    excludedCount: excludedFragmentRows,
+    excludedImpressions: excludedFragmentImpressions,
+  } = excludeFragmentPages(allPageRows);
+  console.log(
+    `✓ 取得: ${pageRows.length} 行（page・アンカー ${excludedFragmentRows} 行 / 表示 ${excludedFragmentImpressions} を除外）`,
+  );
+
+  // サイト合計は必ず dimensions: [] で取る。次元の行を足し上げない（CLAUDE.md §5.0.2 ルール2）。
+  const siteTotalRows = await querySearchAnalytics(auth, {
+    startDate: range.startDate,
+    endDate: range.endDate,
+    dimensions: [],
+    rowLimit: 1,
+  });
+  const siteTotals = {
+    clicks: siteTotalRows[0]?.clicks ?? 0,
+    impressions: siteTotalRows[0]?.impressions ?? 0,
+    ctr: siteTotalRows[0]?.ctr ?? 0,
+    position: siteTotalRows[0]?.position ?? 0,
+  };
+  console.log(
+    `✓ サイト合計（dimensions: []）: クリック ${siteTotals.clicks} / 表示 ${siteTotals.impressions}`,
+  );
 
   const runDate = toDateString(new Date());
   const meta = {
@@ -133,6 +162,8 @@ async function main() {
     minImpressions: options.minImpressions,
     totalRows: rows.length,
     totalPageRows: pageRows.length,
+    excludedFragmentRows,
+    excludedFragmentImpressions,
     siteUrl: SITE_URL,
   };
 
@@ -140,7 +171,11 @@ async function main() {
 
   // ベースライン（生データ）は施策判定の生命線。--baseline-only でも必ず保存する。
   const baselinePath = path.join(OUTPUT_DIR, `baseline-${runDate}.json`);
-  writeFileSync(baselinePath, JSON.stringify({ meta, rows, pageRows }, null, 2), 'utf-8');
+  writeFileSync(
+    baselinePath,
+    JSON.stringify({ meta, siteTotals, rows, pageRows }, null, 2),
+    'utf-8',
+  );
   console.log(`✓ ベースライン保存: ${path.relative(process.cwd(), baselinePath)}`);
 
   if (options.baselineOnly) {

@@ -1,10 +1,14 @@
 // 週次アクセス スナップショットの純関数群
 //
+// ページ行の前処理（アンカー付き URL の除外）は ./gsc-pages.ts に集約している。
+//
 // scripts/weekly-snapshot.mjs（CLI）と tests/weekly-snapshot.test.ts の双方がここを import する。
 // テスト側でロジックを再実装しないこと。
 //
 // 目的: 「どの期間を、どの取得法で、どう正規化するか」の判断をコードに固定し、
 // 週次分析のばらつき（CLAUDE.md §5.0.2 の3ルール違反）を構造的に防ぐ。
+
+import { excludeFragmentPages, isFragmentPage } from "./gsc-pages.ts";
 
 /** クリック実数がこの値未満の比較は判定に使わない（CLAUDE.md §10「実数一桁は判定しない」） */
 export const JUDGEABLE_MIN_CLICKS = 10;
@@ -199,34 +203,10 @@ export function toPagePath(page: string): string {
   }
 }
 
-/**
- * GSC の `page` 次元には見出しアンカー付き URL（`.../#見出し`）が別行として返る。
- * これは親ページの表示回数を二重計上している（2026-08-24 実測: 除外前の
- * ページ合計は表示 +27.2% / 除外後は +0.9%）。ページ単位の分析からは必ず外す。
- */
-export function isFragmentPage(page: string): boolean {
-  return page.includes("#");
-}
-
-/** アンカー付き URL を落とす。落とした行数も返す（レポートに明記するため） */
-export function excludeFragmentPages(rows: PageMetricRow[]): {
-  rows: PageMetricRow[];
-  excludedCount: number;
-  excludedImpressions: number;
-} {
-  const kept: PageMetricRow[] = [];
-  let excludedCount = 0;
-  let excludedImpressions = 0;
-  for (const row of rows) {
-    if (row?.page && isFragmentPage(row.page)) {
-      excludedCount += 1;
-      excludedImpressions += Number(row.impressions ?? 0);
-      continue;
-    }
-    kept.push(row);
-  }
-  return { rows: kept, excludedCount, excludedImpressions };
-}
+// アンカー付き URL の除外は gsc-harvest 側の baseline 生成とも共有するため
+// ./gsc-pages.ts に移した。既存の import 元（scripts/weekly-snapshot.mjs /
+// tests/weekly-snapshot.test.ts）を壊さないよう、ここから再 export する。
+export { excludeFragmentPages, isFragmentPage };
 
 function indexPages(rows: PageMetricRow[]): Map<string, PageMetricRow> {
   const map = new Map<string, PageMetricRow>();
