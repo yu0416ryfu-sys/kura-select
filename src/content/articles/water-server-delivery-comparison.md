@@ -1,10 +1,9 @@
 ---
 articleType: "service"
-draft: true
 title: "宅配水ウォーターサーバー コスパ最強ランキング【2026年版】おすすめ4選"
 description: "宅配水（天然水・RO水）のウォーターサーバー4社を、水代だけでなくサーバーの固定費と電気代を含めた月額で比較。注文ノルマ・規定利用期間・解約金・対応エリアまで正直に並べたコスパ最強ランキングです。"
 category: "mineral-water"
-publishedAt: "2026-09-09"
+publishedAt: "2026-08-25"
 pricingBasis: "月100L（1日約3.3L）使った場合"
 pricingScope: "ボトル・パックの水を定期配送する宅配水型ウォーターサーバー4社。浄水型（給水型）・水道直結型は対象外"
 pricingExcludes:
@@ -23,6 +22,7 @@ tags:
 services:
   - rank: 1
     name: "ワンウェイウォーター（プラスプレミアム）"
+    imageUrl: "/images/services/onewaywater.webp"
     brand: "ワンウェイウォーター"
     monthlyCost: 11724
     pricePerLiter: "約117円/L"
@@ -48,6 +48,7 @@ services:
     asp: "a8"
   - rank: 2
     name: "オーケンウォーター（RO水・おトクプラン）"
+    imageUrl: "/images/services/okenwater.webp"
     brand: "オーケンウォーター"
     monthlyCost: 11707
     pricePerLiter: "約117円/L"
@@ -73,6 +74,7 @@ services:
     asp: "a8"
   - rank: 3
     name: "富士おいしい水"
+    imageUrl: "/images/services/fujiwater.webp"
     brand: "富士おいしい水"
     monthlyCost: 13647
     pricePerLiter: "約136円/L"
@@ -99,6 +101,7 @@ services:
     asp: "a8"
   - rank: 4
     name: "フレシャス（dewoⅱ）"
+    imageUrl: "/images/services/frecious-dewo2.webp"
     brand: "フレシャス"
     monthlyCost: 17813
     pricePerLiter: "約178円/L"
