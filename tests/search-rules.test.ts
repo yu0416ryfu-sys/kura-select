@@ -252,3 +252,155 @@ describe("search-rules: 全記事に対する解決（スモーク）", () => {
     }
   });
 });
+
+/**
+ * 優先24本への記事別ルール追加＋include 補強（2026-08-27）の回帰テスト。
+ *
+ * 目的は Phase 1（`check-category-fit`）の前提条件を固定すること。
+ * ルールが無い / 兄弟記事の主題に寄っていると、記事が自分の商品を
+ * stage1 で「カテゴリ語なし」に落とすため、スキャンが誤検知だらけになる。
+ */
+describe("search-rules: 優先24本のルール（2026-08-27 追加）", () => {
+  const dir = resolve(process.cwd(), "src/content/articles");
+
+  /** 記事の既存商品を本番と同じ順（stage1 → stage2 → stage4）で判定する */
+  function judgeArticleProducts(slug: string) {
+    const content = readFileSync(join(dir, `${slug}-comparison.md`), "utf-8");
+    const products = extractAllProductsData(content);
+    const { rule } = resolveArticleSearchRule({
+      title: extractArticleTitle(content),
+      products,
+      file: `${slug}-comparison.md`,
+      category: extractArticleCategory(content) ?? "",
+    });
+    return products.map(product => {
+      const category = checkAdditionCandidateCategory({ name: product.name }, rule);
+      if (!category.ok) return { name: product.name, verdict: "error", reason: category.reason };
+      const score = scoreAdditionCandidate({ name: product.name }, rule);
+      if (score.score < rule.minScore) return { name: product.name, verdict: "error", reason: `score ${score.score}` };
+      return { name: product.name, verdict: "ok", reason: null };
+    });
+  }
+
+  // ルールが無く include が空だったため、stage1 が全商品を落としていた13カテゴリ
+  const RULE_ADDED_CATEGORIES = [
+    "acne-patch", "baby-wipes", "bath-mat", "body-lotion", "cat-food", "cat-litter",
+    "cooling-pack", "cotton-swab", "hair-color", "hair-oil", "insect-repellent",
+    "mineral-water", "razor",
+  ];
+
+  it.each(RULE_ADDED_CATEGORIES)("%s にカテゴリルールがあり include が空でない", category => {
+    const rule = CATEGORY_SEARCH_RULES[category];
+    expect(rule, category).toBeDefined();
+    expect((rule?.include ?? []).length, category).toBeGreaterThan(0);
+    expect((rule?.keywords ?? []).length, category).toBe(3);
+  });
+
+  // 兄弟記事とカテゴリを共有していて、カテゴリ rule が兄弟の主題に寄っていた記事
+  const ARTICLE_RULE_SLUGS: [string, string][] = [
+    ["fabric-softener", "柔軟剤"],
+    ["laundry-detergent", "洗濯洗剤"],
+    ["room-dry-detergent", "部屋干し洗剤"],
+    ["oxiclean-vs-percarbonate", "オキシクリーンと過炭酸ナトリウムを徹底比較"],
+    ["room-deodorizer", "消臭剤"],
+    ["sanitizing-spray", "除菌スプレー"],
+    ["tissue-paper", "ティッシュペーパー"],
+    ["toilet-cleaner", "トイレ用洗剤"],
+    ["toothpaste", "歯磨き粉"],
+    ["wrap-foil", "ラップ・アルミホイル"],
+  ];
+
+  it.each(ARTICLE_RULE_SLUGS)("%s は記事別ルールに解決される", (slug, baseKeyword) => {
+    const content = readFileSync(join(dir, `${slug}-comparison.md`), "utf-8");
+    const category = extractArticleCategory(content) ?? "";
+    expect(buildArticleSearchKeyword(extractArticleTitle(content)), slug).toBe(baseKeyword);
+    expect(getArticleSpecificAdditionRule(category, baseKeyword), slug).not.toBeNull();
+  });
+
+  it("兄弟記事の個別ルールを新ルールが横取りしない", () => {
+    // 上で先に return される兄弟。ここが崩れると兄弟記事の候補生成が壊れる
+    const siblings: [string, string, string][] = [
+      ["fabric-softener", "敏感肌・赤ちゃん向け柔軟剤", "無添加"],
+      ["laundry-detergent", "衣料用漂白剤", "漂白剤"],
+      ["toothpaste", "デンタルフロス", "フロス"],
+      ["toothpaste", "歯間ブラシ", "歯間ブラシ"],
+      ["toilet-cleaner", "トイレ掃除シート", "トイレ掃除"],
+      ["wrap-foil", "保存袋・フリーザーバッグ", "フリーザーバッグ"],
+    ];
+    for (const [category, baseKeyword, expectedInclude] of siblings) {
+      const rule = getArticleSpecificAdditionRule(category, baseKeyword);
+      expect(rule, baseKeyword).not.toBeNull();
+      expect(rule?.include ?? [], baseKeyword).toContain(expectedInclude);
+    }
+  });
+
+  it("子ども用歯磨き粉は歯磨き粉ルールに巻き込まれない", () => {
+    expect(getArticleSpecificAdditionRule("toothpaste", "子ども用歯磨き粉")).toBeNull();
+  });
+
+  // 24本のうち、自記事の商品が1件も stage1/stage4 に落ちない22本。
+  // 残る2本（bathroom-cleaner / toothpaste）は下で「意図した検出」として固定する
+  const CLEAN_SLUGS = [
+    "fabric-softener", "ih-single-pot", "laundry-detergent", "oxiclean-vs-percarbonate",
+    "room-deodorizer", "room-dry-detergent", "sanitizing-spray", "tissue-paper",
+    "toilet-cleaner", "wrap-foil",
+    "acne-patch", "baby-wipes", "bath-mat", "cat-litter", "cotton-swab",
+    "hair-color", "mineral-water",
+  ];
+
+  it.each(CLEAN_SLUGS)("%s は自記事の商品が stage1/stage4 に落ちない", slug => {
+    const errors = judgeArticleProducts(slug).filter(row => row.verdict === "error");
+    expect(errors.map(row => `${row.name} (${row.reason})`), slug).toEqual([]);
+  });
+
+  it("bathroom-cleaner の include 補強で風呂釜・バスタブ・湯アカが通る", () => {
+    const rule = getAdditionSearchRule("bathroom-cleaner", "お風呂用洗剤");
+    for (const name of [
+      "ライオン おふろのルック つめかえ用 350ml",
+      "ルックプラス バスタブクレンジング 銀イオンプラス 詰替 800mL",
+      "リンレイ 速攻湯アカ分解 3点セット",
+      "エコメイト 風呂釜クリーナー 6個セット",
+    ]) {
+      expect(checkAdditionCandidateCategory({ name }, rule).ok, name).toBe(true);
+    }
+    // exclude は触っていないので、トイレ用・キッチン用は従来どおり落ちる
+    expect(checkAdditionCandidateCategory({ name: "トイレ用洗剤 500ml" }, rule).ok).toBe(false);
+  });
+
+  it("歯磨き粉ルールは兄弟記事の主題（歯ブラシ・フロス）を混入として弾く", () => {
+    const rule = getAdditionSearchRule("toothpaste", "歯磨き粉");
+    expect(checkAdditionCandidateCategory({ name: "システマ ハグキプラス プレミアム 95g×4本セット" }, rule).ok).toBe(true);
+    expect(checkAdditionCandidateCategory({ name: "歯ブラシ まとめ買い 大人 おとな用歯ブラシアソート" }, rule).ok).toBe(false);
+    expect(checkAdditionCandidateCategory({ name: "デンタルフロス 50m" }, rule).ok).toBe(false);
+  });
+
+  it("オキシクリーン記事は主題である酸素系漂白剤を除外語で落とさない", () => {
+    const rule = getAdditionSearchRule("laundry-detergent", "オキシクリーンと過炭酸ナトリウムを徹底比較");
+    expect(rule.exclude).not.toContain("漂白剤");
+    expect(checkAdditionCandidateCategory({ name: "NICHIGA 酸素系漂白剤 過炭酸ナトリウム 3kg" }, rule).ok).toBe(true);
+    // 兄弟の laundry-bleach 側は従来どおり '漂白剤' を主題語として持つ
+    const bleach = getAdditionSearchRule("laundry-detergent", "衣料用漂白剤");
+    expect(bleach.include).toContain("漂白剤");
+  });
+
+  it("ラップ記事はケース販売のまとめ買い出品を落とさない", () => {
+    const rule = getAdditionSearchRule("wrap-foil", "ラップ・アルミホイル");
+    expect(checkAdditionCandidateCategory({ name: "【ケース販売】サランラップ 業務用 BOXタイプ 30cm×50m" }, rule).ok).toBe(true);
+    // 'ケースのみ' は DEFAULT_EXCLUDE_TERMS 側で担保される
+    expect(rule.exclude).toContain("ケースのみ");
+    expect(checkAdditionCandidateCategory({ name: "ラップホルダー ケースのみ" }, rule).ok).toBe(false);
+  });
+
+  it("まとめ買い出品が stage2（単位）で落ちない", () => {
+    // units を新設した13カテゴリで「3本」「2個」等が容量として抽出されるケース
+    const cases: [string, string, string][] = [
+      ["body-lotion", "ボディローション", "3本"],
+      ["cotton-swab", "綿棒", "3個"],
+      ["hair-color", "白髪染め", "2個"],
+    ];
+    for (const [category, baseKeyword, capacity] of cases) {
+      const rule = getAdditionSearchRule(category, baseKeyword);
+      expect(isAllowedCapacityUnit(capacity, rule), `${category}/${capacity}`).toBe(true);
+    }
+  });
+});
