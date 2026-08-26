@@ -32,8 +32,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987176194398.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-22"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
         price: 1986
         rating: 4.83
         reviewCount: 6
@@ -66,7 +66,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F2620600.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-26"
         price: 3190
         rating: 4.9
         reviewCount: 10
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F2000000160665.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-26"
         price: 1998
         rating: 4.71
         reviewCount: 7
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176292759.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-26"
         price: 4327
         rating: 0
         reviewCount: 0
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpentagram5%2F4987176315700-1.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-26"
         price: 2780
         rating: 0
         reviewCount: 1
@@ -197,8 +197,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmandmcorporation%2F4987176284518.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-22"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
         price: 3980
         rating: 0
         reviewCount: 0
@@ -284,13 +284,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fscbmitsuokun1972%2F4987176284648.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fraffine4147%2Fseki111e2720d00cd.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-24"
-        price: 439
+        updatedAt: "2026-08-26"
+        price: 883
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/scbmitsuokun1972_4987176284648"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/raffine4147_seki111e2720d00cd"
         available: true
   - rank: 10
     name: "ボールド ジェルボール4in1 爽やかおひさまとフレッシュサボン 詰め替え"

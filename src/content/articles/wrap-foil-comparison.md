@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-24"
+updatedAt: "2026-08-26"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"
@@ -78,8 +78,8 @@ products:
     price: 455
     capacity: "30cm×50m"
     pricePerUnit: "約9.1円/m"
-    rating: 4.56
-    reviewCount: 75
+    rating: 4.57
+    reviewCount: 76
     features:
       - "クレハのポリ塩化ビニリデン製ラップ・幅広30cmタイプ"
       - "のこぎり刃でカットしやすい設計"
@@ -165,7 +165,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9649965.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-26"
         price: 1379
         rating: 5
         reviewCount: 3
@@ -178,7 +178,7 @@ products:
     capacity: "50m"
     pricePerUnit: "約11円/m"
     rating: 4.67
-    reviewCount: 200
+    reviewCount: 201
     features:
       - "日本製ポリ塩化ビニリデン製の高機能ラップ"
       - "抜群の密着力で食品の鮮度を長持ち"
@@ -229,7 +229,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshiningone23%2Fp09f1190c71.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-08-26"
         price: 2136
         rating: 0
         reviewCount: 1

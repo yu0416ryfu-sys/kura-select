@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujiyaku%2F4973512309304.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2877035017.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-24"
-        price: 492
+        updatedAt: "2026-08-26"
+        price: 530
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4973512309304"
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2877035017"
         available: true
   - rank: 2
     name: "フロッシュ 食器用洗剤 アロエヴェラ 詰替 800mL"
@@ -65,8 +65,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F1630136.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-24"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
         price: 690
         rating: 0
         reviewCount: 0

@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-26"
 products:
   - rank: 1
     name: "ハミング 素肌おもい 柔軟剤 つめかえ用 メガサイズ"
@@ -13,7 +13,7 @@ products:
     capacity: "2000mL"
     pricePerUnit: "約0.56円/mL"
     rating: 4.96
-    reviewCount: 25
+    reviewCount: 26
     features:
       - "肌へのやさしさを重視した素肌おもいシリーズの詰め替えパウチ"
       - "香りの強さを抑えたタイプで、無香料の選択肢もある"
@@ -208,8 +208,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-22"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
         price: 1160
         rating: 4.8
         reviewCount: 5
@@ -264,7 +264,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosme-nana%2F1898619600.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-08-26"
         price: 1350
         rating: 0
         reviewCount: 0

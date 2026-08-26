@@ -4,7 +4,7 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-08-24"
+updatedAt: "2026-08-26"
 products:
   - rank: 1
     name: "LOGOS 倍速凍結 氷点下パック"
@@ -29,6 +29,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uv40n.3rdw6f46.g00uv40n.3rdw750c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogosshop%2Flgs94499%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogosshop%2Fi%2F10000621%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/logosshop/cabinet/spr/4/492823152846.jpg?_ex=128x128"
   - rank: 2
+    name: "COOLER SHOCK ハードロング"
+    brand: "COOLER SHOCK"
+    price: 880
+    capacity: "1個"
+    pricePerUnit: "約880円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "繰り返し使える保冷剤タイプ"
+      - "保冷バッグやクーラーボックスに入れやすい形状"
+      - "アウトドアや買い物時の保冷に使いやすい"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00svmtn.3rdw6312.g00svmtn.3rdw778e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmecu%2Fshock-hl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmecu%2Fi%2F10003501%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mecu/cabinet/photo/point/new01/shock-hl.jpg?_ex=128x128"
+  - rank: 3
     name: "HUGEL 氷点下保冷剤 急速凍結タイプ Mサイズ"
     brand: "HUGEL"
     price: 1180
@@ -50,28 +72,6 @@ products:
     recommendedFor: "サイズと冷却力を選んで用途に合わせたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pjh9n.3rdw6262.g00pjh9n.3rdw7cf0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funidy%2F107933%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funidy%2Fi%2F11161201%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unidy/cabinet/11071608/13015942/imgrc0114404094.jpg?_ex=128x128"
-  - rank: 3
-    name: "COOLER SHOCK ハードロング"
-    brand: "COOLER SHOCK"
-    price: 1540
-    capacity: "1個"
-    pricePerUnit: "約1540円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "繰り返し使える保冷剤タイプ"
-      - "保冷バッグやクーラーボックスに入れやすい形状"
-      - "アウトドアや買い物時の保冷に使いやすい"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00svmtn.3rdw6312.g00svmtn.3rdw778e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmecu%2Fshock-hl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmecu%2Fi%2F10003501%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mecu/cabinet/photo/point/new01/shock-hl.jpg?_ex=128x128"
   - rank: 4
     name: "LOGOS 倍速凍結 氷点下パックL"
     brand: "LOGOS"

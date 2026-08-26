@@ -4,15 +4,15 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-08-22"
+updatedAt: "2026-08-26"
 draft: false
 products:
   - rank: 1
     name: "システムポリマー ストッキング水切り袋 浅型"
     brand: "システムポリマー"
-    price: 52279
+    price: 46779
     capacity: "200枚×72袋"
-    pricePerUnit: "約3.6円/枚"
+    pricePerUnit: "約3.2円/枚"
     rating: 0
     reviewCount: 0
     features:
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fye3331.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-08-26"
         price: 467
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_ye3331"
         available: true
@@ -133,35 +133,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyh-beans%2F1339654.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-08-26"
         price: 548
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_1339654"
         available: true
         rating: 0
         reviewCount: 0
   - rank: 5
-    name: "ストッキング水切りネット 浅型 100枚"
-    brand: "まるモール"
-    price: 600
-    capacity: "100枚"
-    pricePerUnit: "約6.0円/枚"
-    rating: 4.8
-    reviewCount: 5
-    features:
-      - "ポリエチレン製のシンプルなストッキングタイプ"
-      - "浅型13×15cmサイズで標準的な排水口バスケットに対応"
-      - "伸縮性のある細かい網目で生ゴミをしっかり捕集"
-    pros:
-      - "余計な機能を省いたベーシック設計でコスパを重視できる"
-      - "軽量でかさばらず保管スペースを取らない"
-      - "100枚入りで交換頻度が高くても消費しやすい"
-    cons:
-      - "特定機能がないためサイズが合わない排水口では伸縮性頼みになる"
-      - "深型や大型シンクへの対応は伸縮性次第"
-    recommendedFor: "コスパ重視の方・シンプルな消耗品を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F14221%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10001327%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/kitchen/kitchen03/imgrc0112005200.jpg?_ex=128x128"
-  - rank: 6
     name: "カウコレ ストッキング水切り袋 浅型"
     brand: "カウネット"
     price: 958
@@ -188,12 +166,34 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaumall%2F42552987.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-08-26"
         price: 958
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaumall_42552987"
         available: true
         rating: 0
         reviewCount: 1
+  - rank: 6
+    name: "ストッキング水切りネット 浅型 100枚"
+    brand: "まるモール"
+    price: 650
+    capacity: "100枚"
+    pricePerUnit: "約6.5円/枚"
+    rating: 4.8
+    reviewCount: 5
+    features:
+      - "ポリエチレン製のシンプルなストッキングタイプ"
+      - "浅型13×15cmサイズで標準的な排水口バスケットに対応"
+      - "伸縮性のある細かい網目で生ゴミをしっかり捕集"
+    pros:
+      - "余計な機能を省いたベーシック設計でコスパを重視できる"
+      - "軽量でかさばらず保管スペースを取らない"
+      - "100枚入りで交換頻度が高くても消費しやすい"
+    cons:
+      - "特定機能がないためサイズが合わない排水口では伸縮性頼みになる"
+      - "深型や大型シンクへの対応は伸縮性次第"
+    recommendedFor: "コスパ重視の方・シンプルな消耗品を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F14221%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10001327%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/kitchen/kitchen03/imgrc0112005200.jpg?_ex=128x128"
   - rank: 7
     name: "水きりネット フィットネット 浅型・深型兼用 50枚入"
     brand: "びーんず"
@@ -276,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhak00a074f.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-08-26"
         price: 1215
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hak00a074f"
         available: true
@@ -309,7 +309,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fla-kurasu%2F186930-10s.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-08-26"
         price: 2150
         rating: 4.71
         reviewCount: 80

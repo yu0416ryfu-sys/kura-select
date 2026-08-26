@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-24"
+updatedAt: "2026-08-26"
 products:
   - rank: 1
     name: "ザクロー精炭酸シャンプー 詰替用"
@@ -13,7 +13,7 @@ products:
     capacity: "800ml"
     pricePerUnit: "約2.4円/mL"
     rating: 4.6
-    reviewCount: 645
+    reviewCount: 646
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmomotaroucrub%2Fa--h-sy-0020-00-muryo.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-08-26"
         price: 2550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/momotaroucrub_a--h-sy-0020-00-muryo"
         available: true
@@ -66,13 +66,35 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301450128.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-08-26"
         price: 748
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301450128"
         available: true
         rating: 0
         reviewCount: 2
   - rank: 3
+    name: "マイマボタニカル 育毛シャンプー"
+    brand: "マイマ"
+    price: 2640
+    capacity: "240ml"
+    pricePerUnit: "約11円/mL"
+    rating: 4.46
+    reviewCount: 472
+    features:
+      - "頭皮や髪のケアに使えるシャンプー"
+      - "容量や仕上がりで選びやすい"
+      - "メンズ・スカルプ系も比較しやすい"
+    pros:
+      - "毎日のヘアケアに使いやすい"
+      - "悩みに合わせて選べる"
+      - "容量比較がしやすい"
+    cons:
+      - "髪質や頭皮との相性確認が必要"
+      - "香りや洗い上がりの好みは分かれる"
+    recommendedFor: "シャンプーを容量とケア目的で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s57rn.3rdw600e.g00s57rn.3rdw7060/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finksc%2Fshampoo_d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finksc%2Fi%2F10000367%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/n_shampoo.jpg?_ex=128x128"
+  - rank: 4
     name: "ケフトル スカルプシャンプー"
     brand: "ケフトル"
     price: 2680
@@ -93,40 +115,18 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r210n.3rdw6403.g00r210n.3rdw7e26/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcerapure%2Fkf-22%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcerapure%2Fi%2F10001611%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cerapure/cabinet/kfutol/09515818/09516239/kf-22_nomal_thum01-2.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cerapure/cabinet/kfutol/08794535/kf-22_nomal_thum01-5.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcerapure%2Fkf-22.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-08-26"
         price: 3350
         rating: 4.75
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cerapure_kf-22"
         available: true
-  - rank: 4
-    name: "マイマボタニカル 育毛シャンプー"
-    brand: "マイマ"
-    price: 2940
-    capacity: "240ml"
-    pricePerUnit: "約12円/mL"
-    rating: 4.46
-    reviewCount: 472
-    features:
-      - "頭皮や髪のケアに使えるシャンプー"
-      - "容量や仕上がりで選びやすい"
-      - "メンズ・スカルプ系も比較しやすい"
-    pros:
-      - "毎日のヘアケアに使いやすい"
-      - "悩みに合わせて選べる"
-      - "容量比較がしやすい"
-    cons:
-      - "髪質や頭皮との相性確認が必要"
-      - "香りや洗い上がりの好みは分かれる"
-    recommendedFor: "シャンプーを容量とケア目的で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s57rn.3rdw600e.g00s57rn.3rdw7060/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finksc%2Fshampoo_d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finksc%2Fi%2F10000367%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/n_shampoo.jpg?_ex=128x128"
   - rank: 5
     name: "ウーマシャンプー プレミアム 300mL"
     brand: "U-MA"
@@ -134,7 +134,7 @@ products:
     capacity: "300mL"
     pricePerUnit: "約15円/mL"
     rating: 4.23
-    reviewCount: 2422
+    reviewCount: 2423
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -148,13 +148,13 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rtxcn.3rdw61bb.g00rtxcn.3rdw7a34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fu-ma-store%2F001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fu-ma-store%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-ma-store/cabinet/main/imgrc0115982279.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-ma-store/cabinet/ciers/2606/imgrc0116381749.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmcosme-style%2Fumahai0000.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-08-26"
         price: 4400
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mcosme-style_umahai0000"
         available: true
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisopo%2F3474636858033.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-08-26"
         price: 4180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_3474636858033"
         available: true
@@ -269,7 +269,7 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u11ln.3rdw6478.g00u11ln.3rdw7413/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftamago-kichi%2Fnewmovactory%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftamago-kichi%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tamago-kichi/cabinet/10419352/10720487/imgrc0107208987.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tamago-kichi/cabinet//10419352/10720487/imgrc0107208987.jpg?_ex=128x128"
 tags:
   - "シャンプー"
   - "コスパ"

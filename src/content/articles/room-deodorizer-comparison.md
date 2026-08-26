@@ -4,7 +4,7 @@ description: "消臭剤のおすすめ8選をコスパで徹底比較。リセ�
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-24"
+updatedAt: "2026-08-26"
 products:
   - rank: 1
     name: "ハルの消臭剤 消臭ビーズ 詰替用"
@@ -29,6 +29,39 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/10000008_page01_01.jpg?_ex=128x128"
   - rank: 2
+    name: "ハルの消臭剤 消臭ビーズ 空容器セット"
+    brand: "ハル・インダストリ"
+    price: 5583
+    capacity: "4kg"
+    pricePerUnit: "約1396円/kg"
+    rating: 4.68
+    reviewCount: 1649
+    features:
+      - "部屋や玄関などのニオイ対策に使える"
+      - "置き型・スプレー・詰替などから選べる"
+      - "ペットや靴まわりにも使いやすい"
+    pros:
+      - "生活臭対策に取り入れやすい"
+      - "容量違いを選べる"
+      - "設置場所に合わせやすい"
+    cons:
+      - "香りや無香料の好みは分かれる"
+      - "使用場所の注意書き確認が必要"
+    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/imgrc0120234197.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fbs02.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-19"
+        price: 6204
+        rating: 4.67
+        reviewCount: 455
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_bs02"
+        available: true
+  - rank: 3
     name: "無香空間 本体 315g"
     brand: "小林製薬"
     price: 448
@@ -62,39 +95,6 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 3
-    name: "ハルの消臭剤 消臭ビーズ 空容器セット"
-    brand: "ハル・インダストリ"
-    price: 6204
-    capacity: "4kg"
-    pricePerUnit: "約1551円/kg"
-    rating: 4.68
-    reviewCount: 1649
-    features:
-      - "部屋や玄関などのニオイ対策に使える"
-      - "置き型・スプレー・詰替などから選べる"
-      - "ペットや靴まわりにも使いやすい"
-    pros:
-      - "生活臭対策に取り入れやすい"
-      - "容量違いを選べる"
-      - "設置場所に合わせやすい"
-    cons:
-      - "香りや無香料の好みは分かれる"
-      - "使用場所の注意書き確認が必要"
-    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/imgrc0120234197.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fbs02.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-19"
-        price: 6204
-        rating: 4.67
-        reviewCount: 455
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_bs02"
-        available: true
   - rank: 4
     name: "消臭ビーズ 600g"
     brand: "ハル・インダストリ"
@@ -102,7 +102,7 @@ products:
     capacity: "600g"
     pricePerUnit: "約1.9円/g"
     rating: 4.52
-    reviewCount: 403
+    reviewCount: 404
     features:
       - "植物由来ミネラル成分を使った無臭・無香料タイプ"
       - "置き型で玄関やクローゼットなど幅広い場所に使える"
@@ -251,7 +251,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fhs01.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-08-26"
         price: 1485
         rating: 4.73
         reviewCount: 56

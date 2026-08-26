@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-26"
 draft: false
 products:
   - rank: 1
@@ -79,8 +79,8 @@ products:
     price: 2390
     capacity: "5枚"
     pricePerUnit: "約478円/枚"
-    rating: 4.28
-    reviewCount: 29
+    rating: 4.23
+    reviewCount: 30
     features:
       - "フレーム式標準タイプ"
       - "サイズ 40×80cm"
@@ -255,7 +255,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdouguyasan%2Fp5-tasco-ta981ag-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-23"
+        updatedAt: "2026-08-25"
         price: 2805
         rating: 0
         reviewCount: 0

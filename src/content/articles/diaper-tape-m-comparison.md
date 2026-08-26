@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-22"
+updatedAt: "2026-08-26"
 products:
   - rank: 1
     name: "グーンプラス 肌の贅沢 テープ Mサイズ 4個セット"
@@ -71,7 +71,7 @@ products:
       - "さらさらケアほど大容量セットがない"
     recommendedFor: "Mサイズでも品質重視で選びたい方・Sサイズ時代からパンパース派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2ngn.3rdw6e7c.g00t2ngn.3rdw797f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F1710000043%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhikaritv%2Fi%2F10227865%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000043_k.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/sale/1710000043_rma.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

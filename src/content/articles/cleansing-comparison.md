@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-08-24"
+updatedAt: "2026-08-26"
 products:
   - rank: 1
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
@@ -117,44 +117,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw2pn.3rdw6069.g00tw2pn.3rdw7b19/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyland%2F1736928005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyland%2Fi%2F10000272%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyland/cabinet/compass1736927868.jpg?_ex=128x128"
   - rank: 5
-    name: "Anua ドクダミポアコントロールクレンジングオイル 200mL"
-    brand: "Anua"
-    price: 2300
-    capacity: "200mL"
-    pricePerUnit: "約12円/mL"
-    rating: 4.69
-    reviewCount: 554
-    features:
-      - "ドクダミエキス配合のクレンジングオイル"
-      - "毛穴や皮脂汚れまで落とす韓国コスメ"
-      - "200mLで日常使いしやすい容量"
-    pros:
-      - "オイルタイプでメイクになじませやすい"
-      - "さっぱり系の洗い上がりを選びたい方に向く"
-      - "韓国コスメ好きに選びやすい"
-    cons:
-      - "個人輸入扱いで配送条件に注意が必要"
-      - "植物由来成分の香りが気になる場合がある"
-    recommendedFor: "皮脂汚れや毛穴汚れが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6mzn.3rdw632b.g00u6mzn.3rdw764e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00061/imgrc0127119292.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbegirl%2F220016596.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-27"
-        price: 2480
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/begirl_220016596"
-        available: true
-        rating: 4.65
-        reviewCount: 49
-  - rank: 6
     name: "manyo ピュアクレンジングオイル ディープクリーン 200mL"
     brand: "manyo"
-    price: 2530
+    price: 2200
     capacity: "200mL"
-    pricePerUnit: "約13円/mL"
+    pricePerUnit: "約11円/mL"
     rating: 4.62
     reviewCount: 95
     features:
@@ -180,6 +147,39 @@ products:
         price: 2340
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/begirl_541203699"
         available: true
+  - rank: 6
+    name: "Anua ドクダミポアコントロールクレンジングオイル 200mL"
+    brand: "Anua"
+    price: 2300
+    capacity: "200mL"
+    pricePerUnit: "約12円/mL"
+    rating: 4.69
+    reviewCount: 556
+    features:
+      - "ドクダミエキス配合のクレンジングオイル"
+      - "毛穴や皮脂汚れまで落とす韓国コスメ"
+      - "200mLで日常使いしやすい容量"
+    pros:
+      - "オイルタイプでメイクになじませやすい"
+      - "さっぱり系の洗い上がりを選びたい方に向く"
+      - "韓国コスメ好きに選びやすい"
+    cons:
+      - "個人輸入扱いで配送条件に注意が必要"
+      - "植物由来成分の香りが気になる場合がある"
+    recommendedFor: "皮脂汚れや毛穴汚れが気になる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6mzn.3rdw632b.g00u6mzn.3rdw764e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00061/imgrc0127119292.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbegirl%2F220016596.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-27"
+        price: 2480
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/begirl_220016596"
+        available: true
+        rating: 4.65
+        reviewCount: 49
   - rank: 7
     name: "DHC ディープクレンジングオイル 200mL"
     brand: "DHC"
@@ -216,7 +216,7 @@ products:
   - rank: 8
     name: "Bioré ビオレ素肌つるるんクレンジングウォーター詰替"
     brand: "花王（ビオレ）"
-    price: 5968
+    price: 6187
     capacity: "290mL"
     pricePerUnit: "約21円/mL"
     rating: 4.4
@@ -262,7 +262,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-23"
+        updatedAt: "2026-08-26"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true
@@ -275,7 +275,7 @@ products:
     capacity: "100mL"
     pricePerUnit: "約44円/mL"
     rating: 4.57
-    reviewCount: 1684
+    reviewCount: 1685
     features:
       - "発酵オイルを配合したクレンジングオイル"
       - "W洗顔不要でメイクと毛穴汚れを落とす"

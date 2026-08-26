@@ -4,15 +4,15 @@ description: "ローション配合の保湿ティッシュを肌触りとコス
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-08-24"
+updatedAt: "2026-08-26"
 draft: false
 products:
   - rank: 1
     name: "エリエール プラスウォーター(+Water) ティシュー 5箱パック"
     brand: "大王製紙（エリエール）"
-    price: 700
+    price: 671
     capacity: "360枚（180組）×5箱"
-    pricePerUnit: "約0.78円/組"
+    pricePerUnit: "約0.75円/組"
     rating: 4.8
     reviewCount: 10
     features:

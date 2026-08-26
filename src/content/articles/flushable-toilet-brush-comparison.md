@@ -4,7 +4,7 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-26"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "72個（24個×3袋）"
     pricePerUnit: "約38円/個"
     rating: 4.82
-    reviewCount: 71
+    reviewCount: 72
     features:
       - "本体を持っている人向けの付替ブラシのみ"
       - "24個入りが3袋の大容量まとめ買いパック"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901609015456.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-08-26"
         price: 706
         rating: 4.33
         reviewCount: 3
@@ -79,8 +79,8 @@ products:
     price: 2092
     capacity: "本体+替え24個"
     pricePerUnit: "約87円/個"
-    rating: 4.54
-    reviewCount: 108
+    rating: 4.5
+    reviewCount: 109
     features:
       - "持ち手の本体と使い捨てブラシのセット"
       - "ブラシに洗剤が含まれた使い切りタイプ"
@@ -101,8 +101,8 @@ products:
     price: 1181
     capacity: "本体+替え4個"
     pricePerUnit: "約295円/個"
-    rating: 4.62
-    reviewCount: 77
+    rating: 4.59
+    reviewCount: 78
     features:
       - "持ち手の本体と替えブラシ4個のスターターセット"
       - "ブラシ交換時に手を汚しにくい構造"
@@ -121,8 +121,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9612078018.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-24"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
         price: 638
         rating: 0
         reviewCount: 2

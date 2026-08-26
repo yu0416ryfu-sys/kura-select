@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-26"
 draft: false
 products:
   - rank: 1
@@ -41,6 +41,28 @@ products:
         rating: 4.83
         reviewCount: 6
   - rank: 2
+    name: "5種のヒアルロン酸配合スキンローション 600ml"
+    brand: "3種のヒアルロン酸配合スキンローショ"
+    price: 1250
+    capacity: "600ml"
+    pricePerUnit: "約2.1円/mL"
+    rating: 4.59
+    reviewCount: 556
+    features:
+      - "全身の保湿に使いやすいローションタイプ"
+      - "ポンプや大容量など日常使いしやすい設計"
+      - "家族で使いやすい処方・使用感を意識した商品"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F4731%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10000232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/04815981/4731-m01c.jpg?_ex=128x128"
+  - rank: 3
     name: "ダイアンボタニカル ボディミルク"
     brand: "Moist Diane（ネイチャーラボ）"
     price: 1097
@@ -73,7 +95,7 @@ products:
         reviewCount: 25
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4560119225856"
         available: true
-  - rank: 3
+  - rank: 4
     name: "ビオレu お風呂で使ううるおいミルク 無香料 300mL"
     brand: "花王（ビオレu）"
     price: 728
@@ -106,28 +128,6 @@ products:
         available: true
         rating: 4.85
         reviewCount: 26
-  - rank: 4
-    name: "5種のヒアルロン酸配合スキンローション 600ml"
-    brand: "3種のヒアルロン酸配合スキンローショ"
-    price: 2500
-    capacity: "600ml"
-    pricePerUnit: "約4.2円/mL"
-    rating: 4.59
-    reviewCount: 556
-    features:
-      - "全身の保湿に使いやすいローションタイプ"
-      - "ポンプや大容量など日常使いしやすい設計"
-      - "家族で使いやすい処方・使用感を意識した商品"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F4731%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10000232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/04815981/4731-m01c.jpg?_ex=128x128"
   - rank: 5
     name: "エリザベスアーデン グリーンティー ボディローション 500mL"
     brand: "Elizabeth Arden（エリザベスアーデン）"
@@ -155,8 +155,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbettysbeauty%2F10910012.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
-        price: 1460
+        updatedAt: "2026-08-25"
+        price: 1464
         rating: 4.5
         reviewCount: 151
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bettysbeauty_10910012"
@@ -188,7 +188,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4971710568530.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
+        updatedAt: "2026-08-25"
         price: 2028
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4971710568530"
         available: true
@@ -221,10 +221,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10161795.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-23"
+        updatedAt: "2026-08-25"
         price: 2899
-        rating: 4.74
-        reviewCount: 35
+        rating: 4.75
+        reviewCount: 36
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10161795"
         available: true
   - rank: 8
@@ -234,7 +234,7 @@ products:
     capacity: "350ml"
     pricePerUnit: "約8.8円/ml"
     rating: 4.75
-    reviewCount: 637
+    reviewCount: 638
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"
@@ -278,7 +278,7 @@ products:
     capacity: "3本"
     pricePerUnit: "約743円/本"
     rating: 4.78
-    reviewCount: 507
+    reviewCount: 508
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"

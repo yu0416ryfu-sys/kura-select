@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ10選を1枚あた
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-26"
 draft: false
 products:
   - rank: 1
@@ -168,7 +168,7 @@ products:
     capacity: "20枚（10枚入×2コセット）"
     pricePerUnit: "約75円/枚"
     rating: 4.65
-    reviewCount: 178
+    reviewCount: 179
     features:
       - "ハイドロコロイド素材を使った密着タイプ"
       - "水や汚れの侵入を防ぐ防水設計"
@@ -201,7 +201,7 @@ products:
     capacity: "20枚（10枚入×2コセット）"
     pricePerUnit: "約75円/枚"
     rating: 4.68
-    reviewCount: 81
+    reviewCount: 82
     features:
       - "ハイドロコロイド素材を使った密着タイプ"
       - "水や汚れの侵入を防ぐ防水設計"
@@ -298,7 +298,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop-ni%2F34901730077002.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-23"
+        updatedAt: "2026-08-25"
         price: 1335
         rating: 0
         reviewCount: 0
