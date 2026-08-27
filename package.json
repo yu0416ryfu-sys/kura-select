@@ -22,6 +22,7 @@
     "update-amazon-products:dry": "node --experimental-strip-types scripts/update-amazon-products.mjs --dry-run",
     "collect-item-names": "node --experimental-strip-types scripts/collect-item-names.mjs",
     "check-category-fit": "node --experimental-strip-types scripts/check-category-fit.mjs",
+    "check-internal-links": "node --experimental-strip-types scripts/check-internal-links.mjs",
     "dump-item-names": "node --experimental-strip-types scripts/update-products.mjs",
     "inject-faqs": "node --experimental-strip-types scripts/inject-faq-frontmatter.mjs",
     "export-ai-rag": "node --experimental-strip-types scripts/export-ai-rag-data.mjs",
