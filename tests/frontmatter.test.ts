@@ -1074,6 +1074,17 @@ describe("isSalesQuantityVariantItemName", () => {
   it("異なる単位が1回ずつの並びは変種扱いにしない", () => {
     expect(isSalesQuantityVariantItemName("森を守ろう 12ロール×8パック 96個")).toBe(false);
   });
+  it("空白区切りの組数選択（3個 6個 12個）を検知する", () => {
+    expect(
+      isSalesQuantityVariantItemName(
+        "ノンアルコール 99%除菌 ウエットティッシュ 除菌シート80枚入 3個 6個 12個 厚手 大判 無香料 送料無料"
+      )
+    ).toBe(true);
+  });
+  it("空白区切りでも内訳（総量＋内訳）は変種扱いにしない", () => {
+    expect(isSalesQuantityVariantItemName("メリーズ パンツ Lサイズ 162枚 54枚×3セット 紙おむつ")).toBe(false);
+    expect(isSalesQuantityVariantItemName("パンパース テープ新生児 144枚 72枚×2袋")).toBe(false);
+  });
 });
 
 describe("syncPricePerUnitWithPolicy skipNames", () => {

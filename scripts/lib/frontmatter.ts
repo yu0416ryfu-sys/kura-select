@@ -301,6 +301,10 @@ const DOSAGE_UNITS = '錠|粒|包|カプセル';
 const VARIANT_ENUM_UNITS = '枚|個|本|袋|セット|パック|箱|ケース|ロール|組';
 // 列挙区切り（半角/全角カンマ・読点・スラッシュ・中黒）
 const VARIANT_ENUM_DELIMITERS = ',，、/／・';
+// 列挙の区切り＝上記の記号、または空白のみ。
+// 楽天の組数選択型商品名は "80枚入 3個 6個 12個" のように空白だけで列挙されることがあり、
+// 記号区切りだけを見ていると最安バリアント価格（3個分）が最大容量（12個）と組み合わされる。
+const VARIANT_ENUM_SEPARATOR = `\\s*(?:[${VARIANT_ENUM_DELIMITERS}]|\\s)\\s*`;
 
 function escapeRegExp(s: string): string {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -394,19 +398,28 @@ export function isLikelySalesQuantityCapacityMisread(itemName: string, extracted
  * 楽天の「組数を選べる」商品名かどうかを判定する。
  * 同一の販売数量単位が列挙区切りで2つ以上並ぶ場合に true。
  * 例: "(60個,30個)" → true（最安バリアント価格が返るため自動更新を避ける）
+ * 例: "80枚入 3個 6個 12個" → true（空白区切りの組数選択）
  * 例: "200枚×5箱"   → false（乗算チェーンであり変種ではない）
+ * 例: "162枚 54枚x3セット" → false（空白区切りだが 162 = 54×3 の内訳表記）
  */
 export function isSalesQuantityVariantItemName(itemName: string): boolean {
   const normalized = normalizeItemName(itemName);
   const re = new RegExp(
-    `(\\d[\\d,]*)\\s*(${VARIANT_ENUM_UNITS})\\s*[${VARIANT_ENUM_DELIMITERS}]\\s*(\\d[\\d,]*)\\s*(${VARIANT_ENUM_UNITS})`,
+    `(\\d[\\d,]*)\\s*(${VARIANT_ENUM_UNITS})(${VARIANT_ENUM_SEPARATOR})(\\d[\\d,]*)\\s*(${VARIANT_ENUM_UNITS})`,
     'gi'
   );
+  const multipliers = getBreakdownMultipliers(normalized);
   for (const match of normalized.matchAll(re)) {
-    if (match[2].toLowerCase() !== match[4].toLowerCase()) continue;
+    if (match[2].toLowerCase() !== match[5].toLowerCase()) continue;
     const a = parseInt(match[1].replace(/,/g, ''), 10);
-    const b = parseInt(match[3].replace(/,/g, ''), 10);
-    if (Number.isFinite(a) && Number.isFinite(b) && a !== b) return true;
+    const b = parseInt(match[4].replace(/,/g, ''), 10);
+    if (!Number.isFinite(a) || !Number.isFinite(b) || a === b) continue;
+    // 空白のみの区切りは「総量＋内訳」（例: "162枚 54枚x3セット"）でも成立してしまうため、
+    // 商数が商品名中の乗数として実在する場合は内訳とみなして変種扱いしない。
+    // 記号区切り（"60個,30個"）は列挙の意図が明確なのでこの緩和を適用しない。
+    const isWhitespaceOnlySeparator = !/[,，、/／・]/.test(match[3]);
+    if (isWhitespaceOnlySeparator && isConsistentCapacityBreakdown([a, b], multipliers)) continue;
+    return true;
   }
   return false;
 }

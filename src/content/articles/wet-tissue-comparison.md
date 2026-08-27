@@ -4,48 +4,14 @@ description: "ウェットティッシュのおすすめ10選を1枚あたり単
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-08-28"
 products:
   - rank: 1
-    name: "ノンアルコール 99%除菌ウェットティッシュ"
-    brand: "VINDA"
-    price: 1740
-    capacity: "80枚×12個（960枚）"
-    pricePerUnit: "約1.8円/枚"
-    rating: 4.81
-    reviewCount: 297
-    features:
-      - "ノンアルコールで99%除菌を訴求したタイプ"
-      - "厚手・大判・無香料設計で幅広い用途に対応"
-      - "破れにくい厚手の素材を採用"
-    pros:
-      - "ノンアルコールのため手肌への刺激を抑えやすい"
-      - "厚手で拭き取りやすく除菌力を重視する方に向く"
-      - "12個まとめ買いで単価を抑えやすい"
-    cons:
-      - "強力な除菌が必要な場面ではアルコールタイプが向く"
-      - "国内大手ブランドに比べて知名度は低め"
-    recommendedFor: "ノンアルコールで除菌力も確保したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnhsn.3rdw6b0b.g00tnhsn.3rdw755e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarubeni-pps%2Fjyokin80-12set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarubeni-pps%2Fi%2F10000026%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marubeni-pps/cabinet/biiino/item/main-image/1702967471168_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmarubeni-forestlinx%2Fjyokin-99.html"
-        matchStatus: "review"
-        updatedAt: "2026-08-09"
-        price: 4980
-        rating: 4.82
-        reviewCount: 60
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/marubeni-forestlinx_jyokin-99"
-        available: false
-        matchNotes: "capacity不一致: capacity不一致"
-  - rank: 2
     name: "レック 水99.9％ 手口ふき"
     brand: "レック"
-    price: 2390
-    capacity: "80枚×15個"
-    pricePerUnit: "約2.0円/枚"
+    price: 2180
+    capacity: "80枚×15個（1200枚）"
+    pricePerUnit: "約1.8円/枚"
     rating: 4.69
     reviewCount: 4733
     features:
@@ -73,7 +39,7 @@ products:
         available: true
         rating: 4.68
         reviewCount: 1029
-  - rank: 3
+  - rank: 2
     name: "おしりふき 手口ふき シンプル"
     brand: "子育て日和"
     price: 3980
@@ -95,7 +61,7 @@ products:
     recommendedFor: "赤ちゃんのいる家庭・敏感肌向け・大容量を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t960n.3rdw6406.g00t960n.3rdw7aa2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foga13%2Foshirihuki24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foga13%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oga13/cabinet/thumbnail2025/oshirihuki24_1.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "シルコット ピュアウォーター ウェットティッシュ 詰替 58枚×8個"
     brand: "ユニ・チャーム（シルコット）"
     price: 1160
@@ -128,6 +94,28 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+  - rank: 4
+    name: "Hugmuu ふんわり厚手 おしりふき 96枚×12個"
+    brand: "Hugmuu"
+    price: 2980
+    capacity: "96枚×12個（1152枚）"
+    pricePerUnit: "約2.6円/枚"
+    rating: 4.36
+    reviewCount: 388
+    features:
+      - "純水99%・無香料・無着色・アルコールフリー"
+      - "14×18cmの厚手シートで手口ふき・体ふきにも使える"
+      - "96枚入り×12個のまとめ買い構成"
+    pros:
+      - "厚手タイプの中では1枚あたり単価を抑えやすい"
+      - "エンボス加工で汚れを拭き取りやすい"
+      - "フタ付きで乾燥しにくい"
+    cons:
+      - "12個まとめ買いのため置き場所が必要"
+      - "おしりふき用途が主軸で、テーブルの除菌には向かない"
+    recommendedFor: "赤ちゃんの手口ふき・体ふきを大容量で用意したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t237n.3rdw6c98.g00t237n.3rdw7b8b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fslotre%2F10000234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fslotre%2Fi%2F10000356%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/sale-main/hunwariatude_5_3.jpg?_ex=128x128"
   - rank: 5
     name: "アイリスオーヤマ 除菌ウェットティッシュ 60枚×48個"
     brand: "アイリスオーヤマ"
@@ -147,6 +135,7 @@ products:
     cons:
       - "アルコール入りで手肌が荒れる方もいる"
       - "個包装ではないため持ち運びには不向き"
+      - "同一ページで大容量（2,880枚）と凄厚（1,152枚）を選ぶ形式のため、購入前に種類の確認が必要"
     recommendedFor: "容量あたりの単価を重視する方・大量消費する家庭・除菌メインで使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3ztn.3rdw6b30.g00t3ztn.3rdw7dc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F1920418%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10156833%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/11073544/12250154/imgrc0110739750.jpg?_ex=128x128"
@@ -154,8 +143,9 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F1920418f.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        matchStatus: "review"
+        updatedAt: "2026-08-28"
+        matchNotes: "サイズ選択型出品（凄厚1152枚/大容量2880枚）で表示価格がどの構成か特定できない"
         price: 4980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_1920418f"
         available: true
@@ -250,6 +240,41 @@ products:
         rating: 0
         reviewCount: 0
   - rank: 9
+    name: "ノンアルコール 99%除菌ウェットティッシュ"
+    brand: "VINDA"
+    price: 4980
+    capacity: "80枚×12個（960枚）"
+    pricePerUnit: "約5.2円/枚"
+    rating: 4.81
+    reviewCount: 297
+    features:
+      - "ノンアルコールで99%除菌を訴求したタイプ"
+      - "厚手・大判・無香料設計で幅広い用途に対応"
+      - "破れにくい厚手の素材を採用"
+    pros:
+      - "ノンアルコールのため手肌への刺激を抑えやすい"
+      - "厚手で拭き取りやすく除菌力を重視する方に向く"
+      - "12個まとめ買いで買い足しの手間が減る"
+    cons:
+      - "強力な除菌が必要な場面ではアルコールタイプが向く"
+      - "国内大手ブランドに比べて知名度は低め"
+      - "同一ページ内で3個・6個・12個を選べるため、購入前に組数と価格の確認が必要"
+    recommendedFor: "ノンアルコールで除菌力も確保したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnhsn.3rdw6b0b.g00tnhsn.3rdw755e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarubeni-pps%2Fjyokin80-12set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarubeni-pps%2Fi%2F10000026%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marubeni-pps/cabinet/biiino/item/main-image/1702967471168_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmarubeni-forestlinx%2Fjyokin-99.html"
+        matchStatus: "review"
+        updatedAt: "2026-08-09"
+        price: 4980
+        rating: 4.82
+        reviewCount: 60
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/marubeni-forestlinx_jyokin-99"
+        available: false
+        matchNotes: "capacity不一致: capacity不一致"
+  - rank: 10
     name: "キレイキレイ 除菌ウェットシート ノンアルコール 30枚 携帯用"
     brand: "ライオン（キレイキレイ）"
     price: 217
@@ -282,28 +307,6 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 10
-    name: "Hugmuu 厚手ウェットティッシュ 96枚"
-    brand: "Hugmuu"
-    price: 2980
-    capacity: "96枚"
-    pricePerUnit: "約31円/枚"
-    rating: 4.36
-    reviewCount: 388
-    features:
-      - "手口ふきやウェットティッシュとして使える"
-      - "大容量でストックしやすい"
-      - "家庭や外出先で使いやすい"
-    pros:
-      - "日常使いしやすい"
-      - "まとめ買いに向く"
-      - "子ども用にも選びやすい"
-    cons:
-      - "用途に合う成分確認が必要"
-      - "乾燥しない保管が必要"
-    recommendedFor: "ウェットティッシュを枚数と使いやすさで比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t237n.3rdw6c98.g00t237n.3rdw7b8b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fslotre%2F10000234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fslotre%2Fi%2F10000356%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/sale-main/hunwariatude_5_3.jpg?_ex=128x128"
 tags:
   - "ウェットティッシュ"
   - "ウェットシート"
