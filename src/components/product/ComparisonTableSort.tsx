@@ -212,7 +212,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
                       />
                       <div>
                         <p class="text-xs text-[var(--color-text-sub)]">{p.brand}</p>
-                        <p title={p.name} class="font-medium text-[var(--color-text)] line-clamp-2 hover:line-clamp-none">{p.name}</p>
+                        <p title={p.name} class="font-medium text-[var(--color-text)] line-clamp-3 hover:line-clamp-none">{p.name}</p>
                       </div>
                     </div>
                   </td>
