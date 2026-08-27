@@ -25,6 +25,7 @@ import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
 import { parseRakutenItemUrl, toDirectItemUrl, toRakutenUrlKey, collectOtherProductUrlKeys, findDuplicateUrlProduct, findDuplicateUrlGroups, selectNonDuplicateItem } from './lib/rakuten-url.ts';
 import { stripCapacityForKeyword, buildProductMatchSearchKeywords, createCandidateSelector } from './lib/product-match-keywords.ts';
 import { CATEGORY_SEARCH_RULES, getAdditionSearchRule, resolveArticleSearchRule, checkAdditionCandidateCategory, getAdditionCandidateDiagnostics, scoreAdditionCandidate, isAllowedCapacityUnit } from './lib/search-rules.ts';
+import { isLikelySameProductName } from './lib/product-name-match.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const VERBOSE = process.argv.includes('--verbose');
@@ -153,40 +154,6 @@ function isSameComparableCapacity(a, b) {
     aTotal.total === bTotal.total &&
     aTotal.unit.toLowerCase() === bTotal.unit.toLowerCase()
   );
-}
-
-const GENERIC_PRODUCT_NAME_TOKENS = new Set([
-  'ゴミ袋',
-  'ポリ袋',
-  '袋',
-  '送料無料',
-  'セット',
-  'パック',
-  'まとめ買い',
-  '大容量',
-]);
-
-function getDistinctiveProductNameTokens(name) {
-  return buildSearchKeyword(name)
-    .replace(/[【】［］\[\]（）()]/g, ' ')
-    .split(/[\s　・、。／/｜|]+/)
-    .map(token => token.trim().toLowerCase())
-    .filter(token => token.length >= 2)
-    .filter(token => !GENERIC_PRODUCT_NAME_TOKENS.has(token))
-    .filter(token => !/^[\d.,]+(?:ml|mL|l|L|g|kg|枚|本|袋|個|パック|セット|mm)?$/i.test(token));
-}
-
-function isLikelySameProductName(currentName, apiName, { strict = false } = {}) {
-  const tokens = getDistinctiveProductNameTokens(currentName);
-  if (tokens.length === 0) return true;
-  const normalizedApiName = apiName.toLowerCase();
-  if (strict) {
-    const matched = tokens.filter(token => normalizedApiName.includes(token)).length;
-    // 2語以上あるなら2語要求、1語しかない商品名は従来通り1語一致で許容
-    const required = tokens.length >= 2 ? 2 : 1;
-    return matched >= required;
-  }
-  return tokens.some(token => normalizedApiName.includes(token));
 }
 
 function buildProductLogLines({ before, after, data, extractedCap, oldComparable, apiComparable, capacityNotes }) {
