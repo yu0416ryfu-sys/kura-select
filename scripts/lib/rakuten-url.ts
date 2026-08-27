@@ -171,3 +171,31 @@ function isSelfProduct(
   if (self.name && product.name) return product.name === self.name;
   return false;
 }
+
+/**
+ * itemCode（URL 末尾の商品管理番号）そのものを検索キーワードとして使うための候補を作る。
+ *
+ * update-products の従来フォールバック（試行A〜C）はすべて商品名ベースのため、
+ * 記事 frontmatter の name が実出品名からドリフトしていると全戦略が外れる
+ * （2026-08-23 に laundry-gel-ball r4 `sundrug/4987176292759` で顕在化）。
+ * 管理番号は商品名に依存しないので、ドリフトしていても引ける。
+ *
+ * 返す候補の順:
+ *   1. itemCode 全体（`4987176292759-2` のような枝番付きもそのまま）
+ *   2. その中の JAN 相当（8〜14桁）の数字列
+ *
+ * 数字を含まない管理番号（`set`, `refill` など）は検索ノイズにしかならないので除外する。
+ */
+export function buildItemCodeKeywords(itemCode: unknown): string[] {
+  if (typeof itemCode !== 'string') return [];
+  const code = itemCode.trim();
+  if (code.length < 6 || code.length > 40) return [];
+  if (!/\d/.test(code)) return [];
+
+  const keywords: string[] = [code];
+  const digitRuns = code.match(/\d{8,14}/g) ?? [];
+  for (const run of digitRuns) {
+    if (!keywords.includes(run)) keywords.push(run);
+  }
+  return keywords;
+}

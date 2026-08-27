@@ -22,7 +22,7 @@ import { spawnSync } from 'child_process';
 import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, isProductManagedArticle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 import { applyAiCapacityToContent, buildProcessedAiCapacityFrozenProduct, buildCapacityReviewInputItem, computePendingFinalization, isSameRakutenItemUrl, parseJsonlPreservingRaw } from './lib/ai-capacity.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
-import { parseRakutenItemUrl, toDirectItemUrl, toRakutenUrlKey, collectOtherProductUrlKeys, findDuplicateUrlProduct, findDuplicateUrlGroups, selectNonDuplicateItem } from './lib/rakuten-url.ts';
+import { parseRakutenItemUrl, toDirectItemUrl, toRakutenUrlKey, collectOtherProductUrlKeys, findDuplicateUrlProduct, findDuplicateUrlGroups, selectNonDuplicateItem, buildItemCodeKeywords } from './lib/rakuten-url.ts';
 import { stripCapacityForKeyword, buildProductMatchSearchKeywords, createCandidateSelector } from './lib/product-match-keywords.ts';
 import { CATEGORY_SEARCH_RULES, getAdditionSearchRule, resolveArticleSearchRule, checkAdditionCandidateCategory, getAdditionCandidateDiagnostics, scoreAdditionCandidate, isAllowedCapacityUnit } from './lib/search-rules.ts';
 import { isLikelySameProductName } from './lib/product-name-match.ts';
@@ -1169,9 +1169,13 @@ async function fetchRakutenItem(shopCode, itemCode, productName) {
 
 /**
  * fetchRakutenItem が null を返した後のフォールバック検索。
- * 試行A: Search API の itemCode パラメータで直接絞り込み（最も確実）
- * 試行B: 容量除去キーワード × hits=30
- * 試行C: 固有語先頭2語 × hits=30（関連度ソート）
+ * いずれも Search API の keyword 検索で、採用は matchesItem() の URL 完全一致のみ。
+ * （現行エンドポイントは itemCode パラメータを受け付けない＝400 itemCode is not valid）
+ * 試行A: 容量除去キーワード × hits=30（shopCode 絞り）
+ * 試行B: 固有語先頭2語 × hits=30（shopCode 絞り・関連度ソート）
+ * 試行C: 固有語先頭2語 × hits=30（shopCode なし・全体検索）
+ * 試行D: 商品管理番号（itemCode）そのものをキーワードに × hits=30（shopCode 絞り → 全体検索）
+ *        記事 name が実出品名からドリフトしていて試行A〜Cが全て外れる場合の最終手段。
  */
 async function fetchRakutenItemFallback(shopCode, itemCode, productName) {
   const strippedKeyword = stripCapacityForKeyword(productName).slice(0, 40);
@@ -1189,6 +1193,12 @@ async function fetchRakutenItemFallback(shopCode, itemCode, productName) {
     ...(brandKeyword.length >= 2
       ? [{ keyword: brandKeyword, hits: 30, sort: 'standard', noShopCode: true }]
       : []),
+    // 試行D: 商品管理番号そのものをキーワードにする（商品名ドリフトに強い最終手段）
+    // shopCode 絞り → 全体検索の順。候補が複数（枝番付き / JAN のみ）ある場合も同じ順で試す
+    ...buildItemCodeKeywords(itemCode).flatMap((codeKeyword) => [
+      { keyword: codeKeyword, hits: 30, sort: 'standard' },
+      { keyword: codeKeyword, hits: 30, sort: 'standard', noShopCode: true },
+    ]),
   ];
 
   const headers = {

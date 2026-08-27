@@ -1,5 +1,6 @@
 import { describe, expect, it } from "vitest";
 import {
+  buildItemCodeKeywords,
   collectOtherProductUrlKeys,
   findDuplicateUrlGroups,
   findDuplicateUrlProduct,
@@ -138,5 +139,40 @@ describe("selectNonDuplicateItem", () => {
       new Set(["jewlinge/ts-s-l3"])
     );
     expect(selection.item?.itemName).toBe("URL不明");
+  });
+});
+
+describe("buildItemCodeKeywords", () => {
+  it("JAN 相当の管理番号をそのままキーワードにする", () => {
+    expect(buildItemCodeKeywords("4987176292759")).toEqual(["4987176292759"]);
+  });
+
+  it("枝番付きは全体と JAN 部分の2候補を返す", () => {
+    expect(buildItemCodeKeywords("4987176292759-2")).toEqual([
+      "4987176292759-2",
+      "4987176292759",
+    ]);
+  });
+
+  it("英数字混在の管理番号も候補にする", () => {
+    expect(buildItemCodeKeywords("ts-s-l3-2set")).toEqual(["ts-s-l3-2set"]);
+  });
+
+  it("数字を含まない管理番号は検索ノイズになるので除外する", () => {
+    expect(buildItemCodeKeywords("refill-set")).toEqual([]);
+  });
+
+  it("短すぎる管理番号は除外する", () => {
+    expect(buildItemCodeKeywords("a12")).toEqual([]);
+  });
+
+  it("長すぎる管理番号・文字列以外は除外する", () => {
+    expect(buildItemCodeKeywords("4987176292759".repeat(4))).toEqual([]);
+    expect(buildItemCodeKeywords(undefined)).toEqual([]);
+    expect(buildItemCodeKeywords(null)).toEqual([]);
+  });
+
+  it("前後の空白は取り除く", () => {
+    expect(buildItemCodeKeywords("  4987176292759  ")).toEqual(["4987176292759"]);
   });
 });
