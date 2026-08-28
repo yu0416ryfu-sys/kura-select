@@ -35,10 +35,17 @@ function parseCapacityNumber(value: string): number {
 }
 
 // 全角英数字を半角へ正規化する
+// 小数点・桁区切り・プラスの全角記号も半角化する。
+// 楽天の商品名には "ダウニーアロマフローラル2．8LBL" のように全角ピリオドの
+// 小数が実在し、半角化しないと "8L"（小数部だけ）を容量と誤読する。
 export function normalizeItemName(s: string): string {
-  return s.replace(/[ａ-ｚＡ-Ｚ０-９]/g, c =>
-    String.fromCharCode(c.charCodeAt(0) - 0xFEE0)
-  );
+  return s
+    .replace(/[ａ-ｚＡ-Ｚ０-９]/g, c =>
+      String.fromCharCode(c.charCodeAt(0) - 0xFEE0)
+    )
+    .replace(/．/g, '.')
+    .replace(/，/g, ',')
+    .replace(/＋/g, '+');
 }
 
 /**

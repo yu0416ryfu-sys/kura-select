@@ -2473,3 +2473,65 @@ products:
     expect(result.content).toContain('pricePerUnit: "約2049円/箱"');
   });
 });
+
+// 2026-08-28 capacity review（reports/capacity-review-2026-08-28.md）で見つかった誤抽出パターン
+describe("商品名ノイズの容量誤抽出（2026-08-28 review）", () => {
+  it("全角ピリオドの小数を総量として読む", () => {
+    expect(
+      extractCapacityFromItemName("シナジートレーディング メキシコ ダウニーアロマフローラル2．8LBL")
+    ).toBe("2.8L");
+  });
+
+  it("増量パック \"12＋4本\" を合算する", () => {
+    expect(
+      extractCapacityFromItemName("富士通 アルカリ乾電池 プレミアムS 単3形 12＋4本 LR6PS 12S＋4")
+    ).toBe("16本");
+  });
+
+  it("メール便の同梱可能数を容量にしない", () => {
+    expect(
+      extractCapacityFromItemName("水だけでスッキリ！激落ちくん　5個まで1通のメール便可 メラミンスポンジ")
+    ).toBeNull();
+  });
+
+  it("（メール便N点まで）を除いて本体容量を取る", () => {
+    expect(
+      extractCapacityFromItemName(
+        "REACH リーチ／デンタルフロス 55ヤード(50.2m)×6個入り ワックス・ノンフレーバー（メール便3点まで）"
+      )
+    ).toBe("50.2m×6個");
+  });
+
+  it("「N本購入→もう1本プレゼント」を容量にしない", () => {
+    expect(
+      extractCapacityFromItemName("＼2本購入→もう1本プレゼント／ 歯磨き粉【薬用 しろえ 歯磨きジェル 50g】")
+    ).toBe("50g");
+  });
+
+  it("おまけ・付属品の数量を容量にしない", () => {
+    expect(
+      extractCapacityFromItemName(
+        "[TOKAIZ] 洗面台 排水口 ゴミ受け ヘアキャッチャー 排水口ネット100枚付き SUS304ステンレス"
+      )
+    ).toBeNull();
+    expect(
+      extractCapacityFromItemName(
+        "ラロッシュポゼ BBクリーム UVイデアXL プロテクションBB 数量限定 ミニ洗顔ソープ2個 付き 日焼け止め"
+      )
+    ).toBeNull();
+  });
+
+  it("カミソリの \"N枚刃\" は販売数量ではない", () => {
+    expect(
+      extractCapacityFromItemName("ジレット マッハシンスリー ターボ 替刃 8コ入り （カミソリ 3枚刃 替え刃）")
+    ).toBe("8個");
+  });
+
+  it("単位を末尾にまとめた列挙（\"1 5 10 枚\"）を選択式として扱う", () => {
+    expect(
+      isSalesQuantityVariantItemName("エアコン用フィルター ペタッとキャッチ SE315-1W 38 × 80cm 1 5 10 枚")
+    ).toBe(true);
+    // 総量＋内訳（列挙ではない）は変種扱いしない
+    expect(isSalesQuantityVariantItemName("スコッティ ティッシュペーパー 200組 5箱 12パック")).toBe(false);
+  });
+});

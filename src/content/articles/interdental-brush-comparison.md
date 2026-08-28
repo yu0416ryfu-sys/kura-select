@@ -231,8 +231,8 @@ products:
     name: "オーラルケア フロアフロス 45m 2個セット (メール便9点まで)"
     brand: "オーラルケア"
     price: 1595
-    capacity: "45m"
-    pricePerUnit: "約35円/m"
+    capacity: "45m×2個（90m）"
+    pricePerUnit: "約18円/m"
     rating: 4.65
     reviewCount: 1159
     features:
@@ -264,8 +264,8 @@ products:
     name: "REACH リーチ／デンタルフロス 55ヤード(50.2m)×6個入り ワックス・ノ"
     brand: "REACH"
     price: 2298
-    capacity: "2m×6個"
-    pricePerUnit: "約192円/m"
+    capacity: "50.2m×6個（301.2m）"
+    pricePerUnit: "約7.6円/m"
     rating: 4.68
     reviewCount: 472
     features:

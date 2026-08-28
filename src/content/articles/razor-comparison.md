@@ -77,8 +77,8 @@ products:
     name: "貝印 04370 ヤングT 6本入り カミソリ シェーバー"
     brand: "貝印"
     price: 2013
-    capacity: "5個"
-    pricePerUnit: "約403円/個"
+    capacity: "6本×5個（30本）"
+    pricePerUnit: "約67円/本"
     rating: 5
     reviewCount: 3
     features:

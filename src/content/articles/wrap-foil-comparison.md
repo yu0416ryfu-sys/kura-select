@@ -1,6 +1,6 @@
 ---
 title: "ラップ・アルミホイル コスパ比較【2026年版】クレラップ・サランラップ徹底解説"
-description: "ラップ・アルミホイルを1mあたりの価格で徹底比較。クレラップ・サランラップ・無添加ポリラップなどおすすめ10選を紹介。密着力・電子レンジ対応・コストで選ぶ決定版。"
+description: "ラップ・アルミホイルを1mあたりの価格で徹底比較。クレラップ・サランラップ・アルミホイルなどおすすめ9選を紹介。密着力・電子レンジ対応・コストで選ぶ決定版。"
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
@@ -301,28 +301,6 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901670110210-73-30001391"
         available: true
-  - rank: 10
-    name: "業務用ポリラップ 無添加 22cm×22cm×100m×3本（300m） 3本セット"
-    brand: "ポリラップ（ポリエチレン製）"
-    price: 13080
-    capacity: "22cm×100m×3本（300m）"
-    pricePerUnit: "約44円/m"
-    rating: 4
-    reviewCount: 980
-    features:
-      - "添加剤不使用のポリエチレン製ラップ"
-      - "100mロールで交換頻度が少ない"
-      - "電子レンジ対応（耐熱140℃）"
-    pros:
-      - "1mあたりのコストが最安値クラス"
-      - "無添加処方で食材への安心感"
-      - "電子レンジ対応で加熱も問題なし"
-    cons:
-      - "クレラップ・サランラップと比べて密着力が劣る"
-      - "プロ向けのシンプル包装でデザイン性は低い"
-    recommendedFor: "コスト最優先の方・業務・大量使用・電子レンジ加熱が多い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7dn.3rdw6546.g00un7dn.3rdw75a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsumehoudai%2F36168p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsumehoudai%2Fi%2F10000740%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsumehoudai/cabinet/lap10.jpg?_ex=128x128"
 tags:
   - "ラップ"
   - "アルミホイル"

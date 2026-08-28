@@ -421,6 +421,19 @@ export function isSalesQuantityVariantItemName(itemName: string): boolean {
     if (isWhitespaceOnlySeparator && isConsistentCapacityBreakdown([a, b], multipliers)) continue;
     return true;
   }
+
+  // 単位を末尾にまとめた列挙（"1 5 10 枚" = 1枚/5枚/10枚から選ぶ）。
+  // 上のループは各数値に単位が付く前提なので拾えない。
+  const trailingUnitEnumRe = new RegExp(
+    String.raw`(?:^|[\s（(])(\d[\d,]*)\s+(\d[\d,]*)(?:\s+\d[\d,]*)*\s+(${VARIANT_ENUM_UNITS})(?![\d])`,
+    'gi'
+  );
+  for (const match of normalized.matchAll(trailingUnitEnumRe)) {
+    const a = parseInt(match[1].replace(/,/g, ''), 10);
+    const b = parseInt(match[2].replace(/,/g, ''), 10);
+    if (Number.isFinite(a) && Number.isFinite(b) && a !== b) return true;
+  }
+
   return false;
 }
 
@@ -601,6 +614,47 @@ function promoBracketHoldsQuantityChain(bracket: string): boolean {
 
 function normalizeItemNameForCapacityExtraction(itemName: string): string {
   let normalized = normalizeItemName(itemName);
+
+  // 「N個購入で1個プレゼント」等のキャンペーン文言。
+  // 例: "3個購入→もう1個贈呈" の "3個" を総量と取り違える。
+  normalized = normalized.replace(
+    /\d[\d,]*\s*(?:個|本|枚|袋|点|セット)\s*(?:以上)?\s*(?:購入|お買上げ?|お買い上げ|買うと)[^。]{0,12}?(?:プレゼント|贈呈|無料|もう\s*\d*\s*(?:個|本|枚|袋))/g,
+    ' '
+  );
+
+  // 配送条件（"5個まで1通のメール便可" / "（メール便3点まで）"）。
+  // 同梱可能数であって商品の内容量ではない。
+  normalized = normalized
+    .replace(
+      /\d[\d,]*\s*(?:個|本|枚|袋|点|セット)?\s*まで\s*\d*\s*通?\s*(?:の)?\s*(?:メール便|ネコポス|クリックポスト|ゆうパケット|定形外)\s*(?:可|対応|OK)?/gi,
+      ' '
+    )
+    .replace(
+      /(?:メール便|ネコポス|クリックポスト|ゆうパケット|定形外)\s*\d[\d,]*\s*(?:個|本|枚|袋|点|セット)?\s*まで/gi,
+      ' '
+    );
+
+  // おまけ・付属品の数量（"排水口ネット100枚付き" / "オマケ(20g)×2本付き"）。
+  // 本体の容量ではないので落とす。
+  normalized = normalized.replace(
+    /(?:オマケ|おまけ|プレゼント|特典|付属品)?\s*[（(]?\s*\d[\d,]*(?:\.\d+)?\s*(?:mL|ml|L|g|kg|枚|個|本|袋|回|包)\s*[）)]?\s*(?:[×xX*＊]\s*\d[\d,]*\s*(?:個|本|枚|袋))?\s*(?:付き|付属|おまけ付|プレゼント付)/gi,
+    ' '
+  );
+
+  // "8コ入り" の "コ" は "個"。単位表記のゆれを吸収する。
+  // "4ロール*12コセット" のような梱包チェーン中の "コセット" は既存の
+  // 内訳解析がそのまま扱えるため対象にしない（変換すると総量を取りこぼす）。
+  normalized = normalized.replace(/(\d[\d,]*)\s*コ(?=入)/g, '$1個');
+
+  // カミソリの "5枚刃" は刃の枚数（性能表記）であり販売数量ではない。
+  normalized = normalized.replace(/\d[\d,]*\s*枚刃/g, ' ');
+
+  // "12+4本"（増量パック）は合算して総量にする。
+  normalized = normalized.replace(
+    /(\d[\d,]*)\s*\+\s*(\d[\d,]*)\s*(枚|個|本|袋|包|錠|粒)/g,
+    (_m, a: string, b: string, unit: string) =>
+      `${parseInt(a.replace(/,/g, ''), 10) + parseInt(b.replace(/,/g, ''), 10)}${unit}`
+  );
 
   // 販促枠を除去する。日付やポイント倍率が容量として拾われるのを防ぐ
   // （"【5月15日限定…】" の "15日" が 円/日 の容量になっていた）。
