@@ -30,39 +30,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ps7en.3rdw689b.g00ps7en.3rdw765e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturalcosmetic%2F456840%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturalcosmetic%2Fi%2F10000564%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturalcosmetic/cabinet/jojobaoil-mk2.jpg?_ex=128x128"
   - rank: 2
-    name: "海藻ヘアエッセンス しっとり"
-    brand: "Lasana（ラサーナ）"
-    price: 1100
-    capacity: "75mL"
-    pricePerUnit: "約15円/mL"
-    rating: 4.75
-    reviewCount: 2908
-    features:
-      - "無香料タイプの洗い流さないヘアエッセンス（オイルタイプ）"
-      - "天然由来成分配合でくせ毛・うねりに対応したしっとり仕上がり設計"
-      - "25mL・75mL・150mLから選べるサイズ展開"
-    pros:
-      - "無香料のため香り付きオイルが苦手な人が選びやすい"
-      - "小容量（25mL）でお試しがしやすく、初めて購入する際の敷居が低い"
-      - "しっとり系の仕上がりで乾燥毛・細い毛のケアに向く"
-    cons:
-      - "エッセンスタイプのためオイル感はやや控えめで、ツヤ感よりしっとり感寄り"
-      - "詰め替え用がなく、継続購入時のコスト管理が必要"
-    recommendedFor: "香り付きヘアオイルが苦手な人・しっとりまとまりを求める人・くせ毛ケアをしたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pixzn.3rdw6fcd.g00pixzn.3rdw761f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymsk%2F597910%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymsk%2Fi%2F10000461%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymsk/cabinet/itemimg/11846526/597910_1_2603.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6016812.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-22"
-        price: 2360
-        rating: 4.4
-        reviewCount: 15
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6016812"
-        available: true
-  - rank: 3
     name: "ルシードエル EXヘアリペアオイル 60mL"
     brand: "LUCIDO-L（マンダム）"
     price: 948
@@ -95,7 +62,7 @@ products:
         reviewCount: 16
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902806100587"
         available: true
-  - rank: 4
+  - rank: 3
     name: "YOLU ディープナイトリペアヘアオイル"
     brand: "YOLU（I-ne）"
     price: 1580
@@ -128,7 +95,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6067551"
         available: true
-  - rank: 5
+  - rank: 4
     name: "N. ポリッシュオイル"
     brand: "ナプラ"
     price: 2962
@@ -161,7 +128,7 @@ products:
         available: true
         rating: 4.61
         reviewCount: 271
-  - rank: 6
+  - rank: 5
     name: "オーガニックホホバオイル ゴールデン"
     brand: "自然化粧品研究所"
     price: 567
@@ -182,7 +149,7 @@ products:
     recommendedFor: "オーガニック原料にこだわりたい人・ホホバオイルを頭皮ケアと髪の保湿に活用したい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ps7en.3rdw689b.g00ps7en.3rdw765e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturalcosmetic%2F10000888%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturalcosmetic%2Fi%2F10000888%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturalcosmetic/cabinet/jojoba-gld-mk2.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "オルナオーガニック ヘアオイル"
     brand: "ALLNA ORGANIC（イルミルド）"
     price: 2280
@@ -215,7 +182,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/adew_manual-haire-3set"
         available: true
-  - rank: 8
+  - rank: 7
     name: "LOA THE OIL"
     brand: "life of aroma"
     price: 3520
@@ -248,7 +215,7 @@ products:
         available: true
         rating: 4.67
         reviewCount: 405
-  - rank: 9
+  - rank: 8
     name: "マドンナリリ ヘアオイル 100mL"
     brand: "MADONNA LILI"
     price: 3840
@@ -270,6 +237,39 @@ products:
     recommendedFor: "無添加・天然由来成分にこだわりたい人・軽いさらさら仕上がりを好む人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ulahn.3rdw62d3.g00ulahn.3rdw7299/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1000cut-carpediem%2Fb08svn8ww7%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1000cut-carpediem%2Fi%2F10149741%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1000cut-carpediem/cabinet/rakub210_0064/b08svn8ww700.jpg?_ex=128x128"
+  - rank: 9
+    name: "海藻ヘアエッセンス しっとり"
+    brand: "Lasana（ラサーナ）"
+    price: 3080
+    capacity: "75mL"
+    pricePerUnit: "約41円/mL"
+    rating: 4.75
+    reviewCount: 2908
+    features:
+      - "無香料タイプの洗い流さないヘアエッセンス（オイルタイプ）"
+      - "天然由来成分配合でくせ毛・うねりに対応したしっとり仕上がり設計"
+      - "25mL・75mL・150mLから選べるサイズ展開"
+    pros:
+      - "無香料のため香り付きオイルが苦手な人が選びやすい"
+      - "小容量（25mL）でお試しがしやすく、初めて購入する際の敷居が低い"
+      - "しっとり系の仕上がりで乾燥毛・細い毛のケアに向く"
+    cons:
+      - "エッセンスタイプのためオイル感はやや控えめで、ツヤ感よりしっとり感寄り"
+      - "詰め替え用がなく、継続購入時のコスト管理が必要"
+    recommendedFor: "香り付きヘアオイルが苦手な人・しっとりまとまりを求める人・くせ毛ケアをしたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pixzn.3rdw6fcd.g00pixzn.3rdw761f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymsk%2F597910%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymsk%2Fi%2F10000461%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymsk/cabinet/itemimg/11846526/597910_1_2603.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6016812.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-22"
+        price: 2360
+        rating: 4.4
+        reviewCount: 15
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6016812"
+        available: true
   - rank: 10
     name: "アメイジングシャインヘアオイル"
     brand: "クイーンズバスルーム"

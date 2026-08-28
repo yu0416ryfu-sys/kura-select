@@ -8,39 +8,6 @@ updatedAt: "2026-08-26"
 draft: false
 products:
   - rank: 1
-    name: "ナチュラルハーベスト メンテナンス ラム (大粒) ドッグフード 犬 ドライフード"
-    brand: "ナチュラルハーベスト"
-    price: 220
-    capacity: "1kg"
-    pricePerUnit: "約220円/kg"
-    rating: 4.77
-    reviewCount: 2523
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q2ujn.3rdw6097.g00q2ujn.3rdw7276/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falbiot%2Fnh_main_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falbiot%2Fi%2F10000275%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/event-bn/p510mp/nh/nh-ml-p510mp.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpet-ruffruff%2F4521254012770.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-08"
-        price: 3080
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pet-ruffruff_4521254012770"
-        available: true
-  - rank: 2
     name: "カークランド ドッグフード チキン ライス 成犬用 12kg"
     brand: "Kirkland"
     price: 6498
@@ -73,7 +40,7 @@ products:
         available: true
         rating: 4.53
         reviewCount: 38
-  - rank: 3
+  - rank: 2
     name: "アイムス 成犬用 体重管理 チキン 5kg"
     brand: "IAMS（アイムス）"
     price: 5366
@@ -106,7 +73,7 @@ products:
         available: true
         rating: 0
         reviewCount: 2
-  - rank: 4
+  - rank: 3
     name: "ロイヤルカナン ミニ インドア アダルト 8kg×2個"
     brand: "ロイヤルカナン"
     price: 21528
@@ -139,7 +106,7 @@ products:
         reviewCount: 12
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wannyan_9763052"
         available: true
-  - rank: 5
+  - rank: 4
     name: "ロイヤルカナン ミニ インドア アダルト 2kg×6個"
     brand: "ロイヤルカナン"
     price: 17819
@@ -172,7 +139,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/koji_3182550746076-s"
         available: true
-  - rank: 6
+  - rank: 5
     name: "ロイヤルカナン ダックスフンド 成犬用"
     brand: "ロイヤルカナン"
     price: 4988
@@ -205,7 +172,7 @@ products:
         available: true
         rating: 4.56
         reviewCount: 16
-  - rank: 7
+  - rank: 6
     name: "ニュートロ ナチュラルチョイス 小型犬用 成犬用 チキン&玄米 6kg"
     brand: "ニュートロ"
     price: 11364
@@ -238,7 +205,7 @@ products:
         available: true
         rating: 4.71
         reviewCount: 167
-  - rank: 8
+  - rank: 7
     name: "アーテミス フレッシュミックス スモールブリードアダルト3kg 小粒 小型犬 成犬 "
     brand: "アーテミス"
     price: 5830
@@ -270,6 +237,39 @@ products:
         rating: 4.74
         reviewCount: 102
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_0813369001904"
+        available: true
+  - rank: 8
+    name: "ナチュラルハーベスト メンテナンス ラム (大粒) ドッグフード 犬 ドライフード"
+    brand: "ナチュラルハーベスト"
+    price: 3080
+    capacity: "1.1kg"
+    pricePerUnit: "約2800円/kg"
+    rating: 4.77
+    reviewCount: 2523
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q2ujn.3rdw6097.g00q2ujn.3rdw7276/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falbiot%2Fnh_main_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falbiot%2Fi%2F10000275%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/event-bn/p510mp/nh/nh-ml-p510mp.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpet-ruffruff%2F4521254012770.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-08"
+        price: 3080
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pet-ruffruff_4521254012770"
         available: true
   - rank: 9
     name: "吉岡油糧 笑顔のドッグフード 国産無添加 1kg"

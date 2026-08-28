@@ -11,7 +11,7 @@ products:
     name: "バスマット マイクロファイバー"
     brand: "Inbloom"
     price: 980
-    capacity: "40×60cm / 50×80cm 1枚"
+    capacity: "40×60cm 1枚"
     pricePerUnit: "約980円/枚"
     rating: 4.37
     reviewCount: 1025

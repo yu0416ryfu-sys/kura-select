@@ -8,28 +8,6 @@ updatedAt: "2026-08-19"
 draft: false
 products:
   - rank: 1
-    name: "CAROTE フライパン 26cm IH対応"
-    brand: "CAROTE"
-    price: 1998
-    capacity: "1個"
-    pricePerUnit: "約1998円/個"
-    rating: 4.5
-    reviewCount: 317
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4hdn.3rdw6bb7.g00u4hdn.3rdw753a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcookware-carote%2Fj02401%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcookware-carote%2Fi%2F10000023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cookware-carote/cabinet/12110183/12820150/0.jpg?_ex=128x128"
-  - rank: 2
     name: "アイリスオーヤマ スキレットコートパン IH対応 26cm"
     brand: "アイリスオーヤマ"
     price: 2728
@@ -51,6 +29,28 @@ products:
     recommendedFor: "焼き物に使いやすいスキレット風タイプを探す方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F7422941010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10373181%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000038/7422941010.jpg?_ex=128x128"
+  - rank: 2
+    name: "CAROTE フライパン 26cm IH対応"
+    brand: "CAROTE"
+    price: 2998
+    capacity: "1個"
+    pricePerUnit: "約2998円/個"
+    rating: 4.5
+    reviewCount: 317
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4hdn.3rdw6bb7.g00u4hdn.3rdw753a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcookware-carote%2Fj02401%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcookware-carote%2Fi%2F10000023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cookware-carote/cabinet/12110183/12820150/0.jpg?_ex=128x128"
   - rank: 3
     name: "アイリスオーヤマ ナチュかるフライパン IH対応 26cm"
     brand: "アイリスオーヤマ"
