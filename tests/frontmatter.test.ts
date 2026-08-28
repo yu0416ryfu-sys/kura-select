@@ -16,6 +16,7 @@ import {
   analyzeCapacityFromItemName,
   isMultiMeasureVariantItemName,
   isSalesQuantityVariantItemName,
+  hasVariantPriceRange,
   mergeExistingMeasureWithSalesQuantity,
   isSameMeasureBaseWithExistingQuantity,
   isSalesQuantityCapacity,
@@ -1084,6 +1085,21 @@ describe("isSalesQuantityVariantItemName", () => {
   it("空白区切りでも内訳（総量＋内訳）は変種扱いにしない", () => {
     expect(isSalesQuantityVariantItemName("メリーズ パンツ Lサイズ 162枚 54枚×3セット 紙おむつ")).toBe(false);
     expect(isSalesQuantityVariantItemName("パンパース テープ新生児 144枚 72枚×2袋")).toBe(false);
+  });
+});
+
+describe("hasVariantPriceRange", () => {
+  it("最小価格と最大価格が違えば価格帯商品と判定する", () => {
+    expect(hasVariantPriceRange(1740, 4980)).toBe(true);
+  });
+  it("同額なら価格帯商品ではない", () => {
+    expect(hasVariantPriceRange(2180, 2180)).toBe(false);
+  });
+  it("欠損値・0以下は判定しない", () => {
+    expect(hasVariantPriceRange(null, 4980)).toBe(false);
+    expect(hasVariantPriceRange(1740, undefined)).toBe(false);
+    expect(hasVariantPriceRange(0, 4980)).toBe(false);
+    expect(hasVariantPriceRange(Number.NaN, 4980)).toBe(false);
   });
 });
 

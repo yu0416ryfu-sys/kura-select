@@ -19,7 +19,7 @@
 import { readFileSync, writeFileSync, appendFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
 import { spawnSync } from 'child_process';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, isProductManagedArticle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, hasVariantPriceRange, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, isProductManagedArticle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 import { applyAiCapacityToContent, buildProcessedAiCapacityFrozenProduct, buildCapacityReviewInputItem, computePendingFinalization, isSameRakutenItemUrl, parseJsonlPreservingRaw } from './lib/ai-capacity.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
 import { parseRakutenItemUrl, toDirectItemUrl, toRakutenUrlKey, collectOtherProductUrlKeys, findDuplicateUrlProduct, findDuplicateUrlGroups, selectNonDuplicateItem, buildItemCodeKeywords } from './lib/rakuten-url.ts';
@@ -1095,7 +1095,7 @@ async function fetchRakutenItem(shopCode, itemCode, productName) {
     sort: '-reviewCount',
     formatVersion: '2',
     elements: [
-      'itemName', 'itemPrice', 'itemUrl', 'affiliateUrl',
+      'itemName', 'itemPrice', 'itemPriceMin1', 'itemPriceMax1', 'itemUrl', 'affiliateUrl',
       'mediumImageUrls', 'reviewCount', 'reviewAverage',
       'shopName', 'shopUrl',
     ].join(','),
@@ -1159,6 +1159,8 @@ async function fetchRakutenItem(shopCode, itemCode, productName) {
   return {
     name: target.itemName,
     price: target.itemPrice ?? null,
+    priceMin: target.itemPriceMin1 ?? null,
+    priceMax: target.itemPriceMax1 ?? null,
     rating: target.reviewAverage ? Number(target.reviewAverage) : null,
     reviewCount: target.reviewCount ? Number(target.reviewCount) : null,
     itemUrl: target.itemUrl,
@@ -1223,7 +1225,7 @@ async function fetchRakutenItemFallback(shopCode, itemCode, productName) {
       sort,
       formatVersion: '2',
       elements: [
-        'itemName', 'itemPrice', 'itemUrl', 'affiliateUrl',
+        'itemName', 'itemPrice', 'itemPriceMin1', 'itemPriceMax1', 'itemUrl', 'affiliateUrl',
         'mediumImageUrls', 'reviewCount', 'reviewAverage',
         'shopName', 'shopUrl',
       ].join(','),
@@ -1260,6 +1262,8 @@ async function fetchRakutenItemFallback(shopCode, itemCode, productName) {
     return {
       name: target.itemName,
       price: target.itemPrice ?? null,
+      priceMin: target.itemPriceMin1 ?? null,
+      priceMax: target.itemPriceMax1 ?? null,
       rating: target.reviewAverage ? Number(target.reviewAverage) : null,
       reviewCount: target.reviewCount ? Number(target.reviewCount) : null,
       itemUrl: target.itemUrl,
@@ -1289,7 +1293,7 @@ async function fetchRakutenSearch(keyword, { excludeUrlKeys = new Set() } = {}) 
     sort: '-reviewCount', // レビュー件数の多い順（人気順）
     formatVersion: '2',  // 改善版レスポンス形式
     elements: [
-      'itemName', 'itemPrice', 'itemUrl', 'affiliateUrl',
+      'itemName', 'itemPrice', 'itemPriceMin1', 'itemPriceMax1', 'itemUrl', 'affiliateUrl',
       'mediumImageUrls', 'reviewCount', 'reviewAverage',
       'shopName', 'shopUrl',
     ].join(','),
@@ -1416,7 +1420,7 @@ async function fetchRakutenSearchMany(keyword, hits = 30, page = 1) {
     sort: '-reviewCount',
     formatVersion: '2',
     elements: [
-      'itemName', 'itemPrice', 'itemUrl', 'affiliateUrl',
+      'itemName', 'itemPrice', 'itemPriceMin1', 'itemPriceMax1', 'itemUrl', 'affiliateUrl',
       'mediumImageUrls', 'reviewCount', 'reviewAverage',
       'shopName', 'shopUrl',
     ].join(','),
@@ -2305,9 +2309,13 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
         isSameComparableCapacity(capacity, embeddedProductCapacity) &&
         !isSameComparableCapacity(capacity, extractedCap)
       );
+      // 価格帯商品（購入時の選択肢で価格が変わる）は itemPrice が最安バリアントを指す。
+      // 商品名から変種を読み取れない出品もあるため、価格帯そのものでも凍結する。
+      const isVariantPriceRange = hasVariantPriceRange(data.priceMin, data.priceMax);
       const shouldFreezePriceCapacity = Boolean(
         (data.name && isMultiMeasureVariantItemName(data.name)) ||
         (data.name && isSalesQuantityVariantItemName(data.name)) ||
+        isVariantPriceRange ||
         isManualCapacityApiConflict
       );
       const hasKnownApiPrice = typeof data.price === 'number' && data.price > 0;
@@ -2335,7 +2343,11 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
         if (shouldFreezePriceCapacity) {
           updates.price = null;           // 最安バリアント価格の流入を防ぎ既存 price を保持
           frozenProductNames.add(name);   // 後段 syncPricePerUnitWithPolicy で除外する
-          capacityNotes.push(`capacity判定: 組数選択/複数容量バリエーションのため要確認。price/capacity/pricePerUnitは自動更新しない`);
+          capacityNotes.push(
+            isVariantPriceRange
+              ? `capacity判定: 価格帯商品（${data.priceMin}〜${data.priceMax}円）のため要確認。price/capacity/pricePerUnitは自動更新しない`
+              : `capacity判定: 組数選択/複数容量バリエーションのため要確認。price/capacity/pricePerUnitは自動更新しない`
+          );
         } else if (capacity && extractedCap) {
           const oldTotal = extractCapacityTotal(capacity);
           const newTotal = extractCapacityTotal(extractedCap);
