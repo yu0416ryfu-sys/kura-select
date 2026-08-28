@@ -87,3 +87,6 @@ kura-select-gsc-*.json
 
 # 記事用写真の原本（HEIC/JPG。公開用は public/images/articles/ の WebP のみ追跡する）
 pictures/
+
+# 一時スキャン用（ローカル作業ディレクトリ）
+tmp_scan/
