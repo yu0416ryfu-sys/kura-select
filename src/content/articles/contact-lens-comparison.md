@@ -7,28 +7,6 @@ articleType: "comparison"
 updatedAt: "2026-08-26"
 products:
   - rank: 1
-    name: "ポイント10倍！オプティフリープラス"
-    brand: "アルコン（オプティフリー）"
-    price: 3890
-    capacity: "360mL×6本×6個"
-    pricePerUnit: "約0.30円/mL"
-    rating: 4.72
-    reviewCount: 74
-    features:
-      - "470mLの大容量で1本あたりのコスパが良い"
-      - "ポリクォート保湿成分配合で装用中の乾燥を軽減"
-      - "アルコンの高い安全性・洗浄技術"
-    pros:
-      - "1mL約2.8円と大容量でコスパが高い"
-      - "保湿成分配合でレンズがつけ心地よく保てる"
-      - "アルコンブランドの眼科推奨レベルの品質"
-    cons:
-      - "1本あたりの価格はやや高いため初期費用がかかる"
-      - "在庫が多くなると保管場所が必要"
-    recommendedFor: "コスパと保湿力を両立したい方・大容量まとめ買いをしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qym5n.3rdw62ce.g00qym5n.3rdw72cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhitomi-cl%2Fopfplus_6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhitomi-cl%2Fi%2F10000358%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hitomi-cl/cabinet/care/optifreeplus/opx10_6.jpg?_ex=128x128"
-  - rank: 2
     name: "ロートCキューブ ソフトワン モイストa"
     brand: "ロート"
     price: 3290
@@ -61,7 +39,7 @@ products:
         available: true
         rating: 4.81
         reviewCount: 196
-  - rank: 3
+  - rank: 2
     name: "ロート Cキューブ ソフトワン モイストα"
     brand: "ロート"
     price: 3320
@@ -83,7 +61,7 @@ products:
     recommendedFor: "ソフトレンズ用のモイストタイプをまとめて備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r4lin.3rdw65b0.g00r4lin.3rdw7b10/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeasis%2F4987241150236-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeasis%2Fi%2F10000112%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/measis/cabinet/rakuten/87-rohto/soft1moist/moist_006.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "レニューフレッシュ 355ml 10本セット"
     brand: "ボシュロム"
     price: 3960
@@ -116,7 +94,7 @@ products:
         reviewCount: 13
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/firstcontact_478"
         available: true
-  - rank: 5
+  - rank: 4
     name: "レニューフレッシュ 355ml 12本"
     brand: "ボシュロム"
     price: 4490
@@ -149,7 +127,7 @@ products:
         available: true
         rating: 4.79
         reviewCount: 380
-  - rank: 6
+  - rank: 5
     name: "レニューフレッシュ 355ml 12本セット"
     brand: "ボシュロム"
     price: 4560
@@ -182,7 +160,7 @@ products:
         available: true
         rating: 4.79
         reviewCount: 380
-  - rank: 7
+  - rank: 6
     name: "レニューフレッシュ 355ml 10本"
     brand: "ボシュロム"
     price: 4127
@@ -215,7 +193,7 @@ products:
         reviewCount: 13
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/firstcontact_478"
         available: true
-  - rank: 8
+  - rank: 7
     name: "レニューフレッシュ 355ml 4本"
     brand: "ボシュロム"
     price: 2260
@@ -248,6 +226,28 @@ products:
         reviewCount: 76
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/world-cl_59"
         available: true
+  - rank: 8
+    name: "ポイント10倍！オプティフリープラス"
+    brand: "アルコン（オプティフリー）"
+    price: 3890
+    capacity: "360mL×6本（2160mL）"
+    pricePerUnit: "約1.8円/mL"
+    rating: 4.72
+    reviewCount: 74
+    features:
+      - "360mL×6本のまとめ買い構成でストックしやすい"
+      - "ポリクォート保湿成分配合で装用中の乾燥を軽減"
+      - "アルコンの高い安全性・洗浄技術"
+    pros:
+      - "6本まとめ買いで1本あたりの価格を抑えやすい"
+      - "保湿成分配合でレンズがつけ心地よく保てる"
+      - "アルコンブランドの眼科推奨レベルの品質"
+    cons:
+      - "1本あたりの価格はやや高いため初期費用がかかる"
+      - "在庫が多くなると保管場所が必要"
+    recommendedFor: "コスパと保湿力を両立したい方・大容量まとめ買いをしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qym5n.3rdw62ce.g00qym5n.3rdw72cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhitomi-cl%2Fopfplus_6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhitomi-cl%2Fi%2F10000358%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hitomi-cl/cabinet/care/optifreeplus/opx10_6.jpg?_ex=128x128"
   - rank: 9
     name: "コンセプト ワンステップ トリプルパック"
     brand: "ジョンソン・エンド・ジョンソン"

@@ -176,7 +176,7 @@ products:
     name: "鼻セレブ プレミアム ティッシュ 130組 6個"
     brand: "日本製紙クレシア（鼻セレブ）"
     price: 4238
-    capacity: "260枚（130組）×6箱"
+    capacity: "390枚（130組）×6箱"
     pricePerUnit: "約5.4円/組"
     rating: 4.69
     reviewCount: 16

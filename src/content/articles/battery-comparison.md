@@ -8,39 +8,6 @@ updatedAt: "2026-08-26"
 draft: false
 products:
   - rank: 1
-    name: "Enevolt basic アルカリ乾電池 単3・単4"
-    brand: "Enevolt basic（エネボルト ベーシック）"
-    price: 470
-    capacity: "40本"
-    pricePerUnit: "約12円/本"
-    rating: 4.52
-    reviewCount: 668
-    features:
-      - "単3・単4をそろえられるアルカリ乾電池"
-      - "本数を選べるまとめ買いタイプ"
-      - "防災ストックにも使える構成"
-    pros:
-      - "まとめ買いでコスパを重視しやすい"
-      - "単3・単4を用途に合わせて選べる"
-      - "防災用のストックにも向く"
-    cons:
-      - "充電池ではなく使い切りタイプ"
-      - "保存期間を確認して使い切る計画が必要"
-    recommendedFor: "乾電池をまとめ買いしてストックしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qkvpn.3rdw6da8.g00qkvpn.3rdw7082/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F3rwebshop%2Fset-eva340%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F3rwebshop%2Fi%2F10008677%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/3rwebshop/cabinet/hansoku/06957443/set-eva38-2ab.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset-eva340.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-25"
-        price: 1880
-        rating: 4.49
-        reviewCount: 1936
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_set-eva340"
-        available: true
-  - rank: 2
     name: "BIGCAPA basic アルカリ乾電池 選べる40本セット"
     brand: "BIGCAPA"
     price: 1000
@@ -62,7 +29,7 @@ products:
     recommendedFor: "家庭の電池を一括管理したい方・コストを徹底的に抑えたまとめ買いをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvevn.3rdw6c9a.g00qvevn.3rdw7567/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkadenrand%2F1908413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkadenrand%2Fi%2F10152844%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kadenrand/cabinet/banner2/11089026/1908413rank_smn.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "単三形 単四形 アルカリ乾電池 電池 40本 10本単位 選べる セット まとめ買い"
     brand: "単三形"
     price: 1040
@@ -94,6 +61,39 @@ products:
         rating: 4.79
         reviewCount: 154
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tabemore_lr6n-03ns4"
+        available: true
+  - rank: 3
+    name: "Enevolt basic アルカリ乾電池 単3・単4"
+    brand: "Enevolt basic（エネボルト ベーシック）"
+    price: 1980
+    capacity: "40本"
+    pricePerUnit: "約50円/本"
+    rating: 4.52
+    reviewCount: 668
+    features:
+      - "単3・単4をそろえられるアルカリ乾電池"
+      - "本数を選べるまとめ買いタイプ"
+      - "防災ストックにも使える構成"
+    pros:
+      - "まとめ買いでコスパを重視しやすい"
+      - "単3・単4を用途に合わせて選べる"
+      - "防災用のストックにも向く"
+    cons:
+      - "充電池ではなく使い切りタイプ"
+      - "保存期間を確認して使い切る計画が必要"
+    recommendedFor: "乾電池をまとめ買いしてストックしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qkvpn.3rdw6da8.g00qkvpn.3rdw7082/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F3rwebshop%2Fset-eva340%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F3rwebshop%2Fi%2F10008677%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/3rwebshop/cabinet/hansoku/06957443/set-eva38-2ab.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset-eva340.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-25"
+        price: 1880
+        rating: 4.49
+        reviewCount: 1936
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_set-eva340"
         available: true
   - rank: 4
     name: "Panasonic アルカリ乾電池 単3形 14本パック"

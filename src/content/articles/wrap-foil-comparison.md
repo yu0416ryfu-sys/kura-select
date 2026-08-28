@@ -73,6 +73,39 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_71920-1"
         available: true
   - rank: 3
+    name: "【ケース販売】サランラップ 業務用 BOXタイプ 30cm×"
+    brand: "旭化成（サランラップ）"
+    price: 12980
+    capacity: "30cm×50m×30本（1500m）"
+    pricePerUnit: "約8.7円/m"
+    rating: 4.83
+    reviewCount: 84
+    features:
+      - "旭化成の定番ポリ塩化ビニリデン製ラップ"
+      - "電子レンジ・冷凍庫対応（高温は除く）"
+      - "幅広30cmタイプで大皿やボウルもカバー"
+    pros:
+      - "ラップといえばサランラップの知名度と信頼性"
+      - "幅広30cmで大きな食材や容器もカバーできる"
+      - "密着力が高く食品の鮮度保持に優れる"
+    cons:
+      - "30cmなので小さい容器には使いにくいことも"
+      - "30本ケース販売のため保管スペースと初期費用が必要"
+    recommendedFor: "大きな容器・食品保存にこだわる方・定番品を使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sjkzn.3rdw6654.g00sjkzn.3rdw73bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsatoiku%2Fsaranwrap_30_30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsatoiku%2Fi%2F10020877%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/satoiku/cabinet/05239510/4901670110388_2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F350600.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-22"
+        price: 13090
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_350600"
+        available: true
+        rating: 4.86
+        reviewCount: 37
+  - rank: 4
     name: "NEWクレラップ お徳用レギュラー 30cm×50m"
     brand: "クレハ（クレラップ）"
     price: 455
@@ -105,7 +138,7 @@ products:
         reviewCount: 7
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901422153502"
         available: true
-  - rank: 4
+  - rank: 5
     name: "旭化成 サランラップ 家庭用 22cm×50m"
     brand: "旭化成（サランラップ）"
     price: 510
@@ -138,7 +171,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 5
+  - rank: 6
     name: "NEWクレラップ ミニ 22cm 3本セット"
     brand: "クレハ（クレラップ）"
     price: 1499
@@ -171,7 +204,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9649965"
         available: true
-  - rank: 6
+  - rank: 7
     name: "NEWクレラップ 22cm*"
     brand: "クレハ（クレラップ）"
     price: 567
@@ -202,7 +235,7 @@ products:
         price: 18711
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/n-mark_4901422055257"
         available: true
-  - rank: 7
+  - rank: 8
     name: "NEWクレラップ レギュラー 30cm 3本セット"
     brand: "クレハ（クレラップ）"
     price: 1852
@@ -235,7 +268,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shiningone23_p09f1190c71"
         available: true
-  - rank: 8
+  - rank: 9
     name: "サランラップ 家庭用 30cm"
     brand: "旭化成（サランラップ）"
     price: 298
@@ -268,7 +301,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901670110210-73-30001391"
         available: true
-  - rank: 9
+  - rank: 10
     name: "業務用ポリラップ 無添加 22cm×22cm×100m×3本（300m） 3本セット"
     brand: "ポリラップ（ポリエチレン製）"
     price: 13080
@@ -290,39 +323,6 @@ products:
     recommendedFor: "コスト最優先の方・業務・大量使用・電子レンジ加熱が多い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7dn.3rdw6546.g00un7dn.3rdw75a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsumehoudai%2F36168p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsumehoudai%2Fi%2F10000740%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsumehoudai/cabinet/lap10.jpg?_ex=128x128"
-  - rank: 10
-    name: "【ケース販売】サランラップ 業務用 BOXタイプ 30cm×"
-    brand: "旭化成（サランラップ）"
-    price: 12980
-    capacity: "50m"
-    pricePerUnit: "約260円/m"
-    rating: 4.83
-    reviewCount: 84
-    features:
-      - "旭化成の定番ポリ塩化ビニリデン製ラップ"
-      - "電子レンジ・冷凍庫対応（高温は除く）"
-      - "幅広30cmタイプで大皿やボウルもカバー"
-    pros:
-      - "ラップといえばサランラップの知名度と信頼性"
-      - "幅広30cmで大きな食材や容器もカバーできる"
-      - "密着力が高く食品の鮮度保持に優れる"
-    cons:
-      - "30cmなので小さい容器には使いにくいことも"
-      - "3本で150mとクレラップより総量が少ない"
-    recommendedFor: "大きな容器・食品保存にこだわる方・定番品を使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sjkzn.3rdw6654.g00sjkzn.3rdw73bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsatoiku%2Fsaranwrap_30_30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsatoiku%2Fi%2F10020877%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/satoiku/cabinet/05239510/4901670110388_2.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F350600.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-22"
-        price: 13090
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_350600"
-        available: true
-        rating: 4.86
-        reviewCount: 37
 tags:
   - "ラップ"
   - "アルミホイル"

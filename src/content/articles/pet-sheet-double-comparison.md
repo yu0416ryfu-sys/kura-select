@@ -8,25 +8,25 @@ updatedAt: "2026-08-26"
 draft: false
 products:
   - rank: 1
-    name: "ペットシーツ スーパーワイド 業務用 まとめ買い"
+    name: "ペットシーツ 60×60cm 業務用 まとめ買い"
     brand: "ナイス物屋"
     price: 3280
-    capacity: "スーパーワイド 1200枚"
-    pricePerUnit: "約2.7円/枚"
+    capacity: "60×60cm 300枚"
+    pricePerUnit: "約11円/枚"
     rating: 4.39
     reviewCount: 1419
     features:
-      - "スーパーワイド（60×90cm）サイズ、約655cc吸収"
+      - "60×60cmの大判サイズ、6層構造で吸収量140cc"
       - "PPE素材使用、1枚あたり約60gの重量"
       - "体重25kg以下の大型犬にも対応する大判設計"
     pros:
-      - "1200枚の大容量でまとめ買いコスパを重視したい方に向く"
+      - "300枚のまとめ買い構成で買い足しの頻度を減らせる"
       - "複数頭飼いや業務用途でも使い切りやすい量"
-      - "スーパーワイドサイズで広めのトイレにそのまま敷ける"
+      - "60×60cmの正方形でトイレまわりを広くカバーできる"
     cons:
       - "大容量のため保管スペースが必要"
       - "薄型タイプのため、尿量が多い場合は複数枚使用を検討"
-    recommendedFor: "多頭飼いや大型犬向けに業務用まとめ買いを重視したい方"
+    recommendedFor: "大判サイズをまとめ買いしてコスパを重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rdq2n.3rdw6d6d.g00rdq2n.3rdw7a87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flgcity%2Fpetsheets%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flgcity%2Fi%2F10001550%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lgcity/cabinet/10106758/13479499/petsc01.jpg?_ex=128x128"
     offers:
@@ -41,15 +41,15 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/freelife_zk-ptst01-many"
         available: true
   - rank: 2
-    name: "Famy ペットシーツ うす型 JPPMA認証 レギュラー 800枚"
+    name: "Famy ペットシーツ うす型 JPPMA認証 スーパーワイド 204枚"
     brand: "Famy"
-    price: 3980
-    capacity: "800枚"
-    pricePerUnit: "約5.0円/枚"
+    price: 4480
+    capacity: "スーパーワイド 204枚"
+    pricePerUnit: "約22円/枚"
     rating: 4.55
     reviewCount: 14659
     features:
-      - "スーパーワイド・ダブルワイド系のペットシーツ"
+      - "スーパーワイドサイズのペットシーツ（薄型・厚型を選べる）"
       - "大型犬や多頭飼いのトイレまわりに使いやすい"
       - "薄型・厚型など交換頻度に合わせて選べる"
     pros:

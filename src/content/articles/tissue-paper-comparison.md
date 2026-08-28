@@ -9,9 +9,9 @@ products:
   - rank: 1
     name: "Smart Yell ソフトパックティッシュ"
     brand: "アイリスオーヤマ"
-    price: 2640
-    capacity: "150組×50個"
-    pricePerUnit: "約0.35円/組"
+    price: 3050
+    capacity: "150組×50個（7500組）"
+    pricePerUnit: "約0.41円/組"
     rating: 4.55
     reviewCount: 819
     features:
