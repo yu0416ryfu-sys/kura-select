@@ -4,7 +4,7 @@ description: "ハンドソープを1回あたりのコストで徹底比較。�
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-08-28"
 products:
   - rank: 1
     name: "ビオレ泡4リットル ビオレu　泡ハンドソープ"
@@ -122,8 +122,8 @@ products:
     price: 475
     capacity: "450ml"
     pricePerUnit: "約1.1円/mL"
-    rating: 4.8
-    reviewCount: 93
+    rating: 4.79
+    reviewCount: 92
     features:
       - "医薬部外品の殺菌成分配合で手指の細菌を洗い流す薬用タイプ"
       - "泡状で出てくる詰め替え用大型サイズ"
@@ -203,7 +203,7 @@ products:
       - "医薬部外品ベースのため保湿特化タイプより使用感がやや異なる"
     recommendedFor: "殺菌・消毒力を重視する方・サラヤの医薬部外品を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tj6en.3rdw6cfc.g00tj6en.3rdw7ce5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsaraya-cs%2Fhandlabhand%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsaraya-cs%2Fi%2F10000881%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/saraya-cs/cabinet/thu/handlabhand.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/saraya-cs/cabinet/cs1/handlabhand2.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -218,9 +218,9 @@ products:
   - rank: 8
     name: "ミヨシ無添加せっけん 泡のハンドソープ リフィル"
     brand: "ミヨシ石鹸"
-    price: 471
+    price: 528
     capacity: "300ml"
-    pricePerUnit: "約1.6円/mL"
+    pricePerUnit: "約1.8円/mL"
     rating: 4.74
     reviewCount: 561
     features:

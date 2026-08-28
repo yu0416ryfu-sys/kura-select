@@ -4,7 +4,7 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-08-28"
 draft: false
 products:
   - rank: 1
@@ -83,7 +83,7 @@ products:
       - "単価比較時は購入セット数に注意"
     recommendedFor: "日常的な水分補給に大容量を備蓄したい家庭向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pifhn.3rdw6a3e.g00pifhn.3rdw7cc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakae%2F4901085196885%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakae%2Fi%2F10027585%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakae/cabinet/1/4901085196885.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakae/cabinet/img004/4901085196885.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -102,7 +102,7 @@ products:
     capacity: "18袋×5個（90袋）"
     pricePerUnit: "約20円/袋"
     rating: 4.8
-    reviewCount: 54
+    reviewCount: 55
     features:
       - "国産六条大麦100%使用"
       - "ノンカフェイン・水出し対応"

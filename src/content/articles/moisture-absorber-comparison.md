@@ -4,7 +4,7 @@ description: "除湿剤おすすめ9選を吸湿量1mLあたりの単価で徹�
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-22"
+updatedAt: "2026-08-28"
 products:
   - rank: 1
     name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
@@ -73,28 +73,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4904637999804-005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10163782%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic4903/4904637999804_1.jpg?_ex=128x128"
   - rank: 4
-    name: "ドライ ドライUP NECO 1000mL×2個"
-    brand: "白元アース（ドライ&ドライUP）"
-    price: 494
-    capacity: "1000mL×2個（2,000mL分）"
-    pricePerUnit: "約0.25円/mL"
-    rating: 4.75
-    reviewCount: 16
-    features:
-      - "1個あたりの吸湿量が大きい貯水タンクタイプ"
-      - "押し入れ・洋服ダンス向けの大型サイズ"
-      - "猫のパッケージデザインが目印のシリーズ"
-    pros:
-      - "1個で広い収納をカバーでき設置数を減らせる"
-      - "交換サイクルが長く手間がかかりにくい"
-      - "少ない個数で済むためゴミが出にくい"
-    cons:
-      - "本体が大きく狭い場所には置きにくい"
-      - "満水時は重くなり取り出しに注意が必要"
-    recommendedFor: "押し入れなど広い収納を少ない個数でまかないたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902407395184%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12343131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2022a/4902407395184.jpg?_ex=128x128"
-  - rank: 5
     name: "備長炭ドライペット 除湿剤 タンクタイプ どこでも用（3個パック×6個）"
     brand: "エステー（ドライペット）"
     price: 1980
@@ -116,6 +94,28 @@ products:
     recommendedFor: "湿気＋臭い対策をしたい方・複数箇所使用派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901070939398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11075355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/398/4901070939398.jpg?_ex=128x128"
+  - rank: 5
+    name: "ドライ ドライUP NECO 1000mL×2個"
+    brand: "白元アース（ドライ&ドライUP）"
+    price: 545
+    capacity: "1000mL×2個（2,000mL分）"
+    pricePerUnit: "約0.27円/mL"
+    rating: 4.75
+    reviewCount: 16
+    features:
+      - "1個あたりの吸湿量が大きい貯水タンクタイプ"
+      - "押し入れ・洋服ダンス向けの大型サイズ"
+      - "猫のパッケージデザインが目印のシリーズ"
+    pros:
+      - "1個で広い収納をカバーでき設置数を減らせる"
+      - "交換サイクルが長く手間がかかりにくい"
+      - "少ない個数で済むためゴミが出にくい"
+    cons:
+      - "本体が大きく狭い場所には置きにくい"
+      - "満水時は重くなり取り出しに注意が必要"
+    recommendedFor: "押し入れなど広い収納を少ない個数でまかないたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902407395184%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12343131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2022a/4902407395184.jpg?_ex=128x128"
   - rank: 6
     name: "激乾 除湿剤 タンクタイプ（400mL×3個パック）"
     brand: "フマキラー（激乾）"

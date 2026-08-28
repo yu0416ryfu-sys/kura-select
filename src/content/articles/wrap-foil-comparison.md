@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-08-28"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"
@@ -78,8 +78,8 @@ products:
     price: 12980
     capacity: "30cm×50m×30本（1500m）"
     pricePerUnit: "約8.7円/m"
-    rating: 4.83
-    reviewCount: 84
+    rating: 4.84
+    reviewCount: 85
     features:
       - "旭化成の定番ポリ塩化ビニリデン製ラップ"
       - "電子レンジ・冷凍庫対応（高温は除く）"

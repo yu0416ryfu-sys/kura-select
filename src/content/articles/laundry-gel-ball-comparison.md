@@ -4,7 +4,7 @@ description: "ジェルボール洗剤を1個あたりのコストで比較し�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-22"
+updatedAt: "2026-08-28"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -45,8 +45,8 @@ products:
     price: 2997
     capacity: "89個"
     pricePerUnit: "約34円/個"
-    rating: 4.8
-    reviewCount: 35
+    rating: 4.81
+    reviewCount: 37
     features:
       - "部屋干し時の生乾き臭に狙いを定めた処方"
       - "汗をかいた衣類・運動着の皮脂汚れに対応"
@@ -232,8 +232,8 @@ products:
     price: 3680
     capacity: "65個"
     pricePerUnit: "約57円/個"
-    rating: 4.63
-    reviewCount: 41
+    rating: 4.64
+    reviewCount: 42
     features:
       - "ムスク系の香りを採用した4in1タイプ"
       - "洗剤・柔軟剤・消臭・シワ防止を1粒でまかなう"

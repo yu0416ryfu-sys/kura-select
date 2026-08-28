@@ -4,15 +4,15 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-08-24"
+updatedAt: "2026-08-28"
 draft: false
 products:
   - rank: 1
     name: "シック ハイドロ5 カスタム 本体+替刃16個セット"
     brand: "シック（Schick）"
-    price: 3560
+    price: 3580
     capacity: "本体1個＋替刃16個"
-    pricePerUnit: "約223円/個"
+    pricePerUnit: "約224円/個"
     rating: 5
     reviewCount: 4
     features:
@@ -211,8 +211,8 @@ products:
     price: 760
     capacity: "16本"
     pricePerUnit: "約48円/本"
-    rating: 4.4
-    reviewCount: 10
+    rating: 4.45
+    reviewCount: 11
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

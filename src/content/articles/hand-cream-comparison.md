@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-08-28"
 products:
   - rank: 1
     name: "ニベア ハンドクリーム 75g"
@@ -191,7 +191,7 @@ products:
       - "オーガニック系は香りや成分に好みが分かれることがある"
     recommendedFor: "オーガニック・自然派コスメを好む方・ギフト用途を検討している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b072wnfzkl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000265%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/905b072wnfzkl-20.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/outlet/202608/905b072wnfzkl-50.jpg?_ex=128x128"
   - rank: 8
     name: "ハンド＆キューティクルクリーム"
     brand: "ミロビーナ"
@@ -268,7 +268,7 @@ products:
       - "30mLのため毎日使うとすぐに使い切る容量感"
     recommendedFor: "保湿と香りを同時に楽しみたい方・ハンドクリームをプチ贅沢として使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s290n.3rdw651f.g00s290n.3rdw7627/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsara-style%2Fm-c-lt-081%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsara-style%2Fi%2F10003229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sara-style/cabinet/cosme-fragrance/cosme/cosme02/lo_pfm_01.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sara-style/cabinet/cosme-fragrance/cosme/cosme3/lo_hand0827_01.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

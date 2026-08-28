@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-08-28"
 products:
   - rank: 1
     name: "ハミング 素肌おもい 柔軟剤 つめかえ用 メガサイズ"
@@ -13,7 +13,7 @@ products:
     capacity: "2000mL"
     pricePerUnit: "約0.56円/mL"
     rating: 4.96
-    reviewCount: 26
+    reviewCount: 27
     features:
       - "肌へのやさしさを重視した素肌おもいシリーズの詰め替えパウチ"
       - "香りの強さを抑えたタイプで、無香料の選択肢もある"
@@ -46,7 +46,7 @@ products:
     capacity: "4L"
     pricePerUnit: "約0.58円/mL"
     rating: 4.73
-    reviewCount: 40
+    reviewCount: 41
     features:
       - "業務用4Lの大容量詰め替えでコスパ重視の購入に向く"
       - "長時間香りが続く処方と香りサラッ機能を組み合わせた設計"
@@ -273,7 +273,7 @@ products:
   - rank: 10
     name: "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え"
     brand: "P&G（レノア）"
-    price: 2464
+    price: 2494
     capacity: "1390mL"
     pricePerUnit: "約1.8円/mL"
     rating: 4.4

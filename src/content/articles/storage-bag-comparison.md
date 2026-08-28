@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-08-28"
 products:
   - rank: 1
     name: "ニッカルフレッシュ 鮮度保持袋"
@@ -202,7 +202,7 @@ products:
       - "フリーザーバッグより薄手で冷凍保存には不向き"
       - "ダブルジッパーではないため密封性はやや劣る"
     recommendedFor: "冷蔵保存がメインの方・大きめサイズが必要な方・開けやすさ重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqv2n.3rdw6222.g00uqv2n.3rdw7c45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fastershop%2Fxpdxwzpdurl4lwg37kw655h3vu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fastershop%2Fi%2F10276928%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqv2n.3rdw6222.g00uqv2n.3rdw7c45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fastershop%2Fxpdxwzpdurl4lwg37kw655h3vu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fastershop%2Fi%2F10773657%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/astershop/cabinet/11875643/34547266_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"

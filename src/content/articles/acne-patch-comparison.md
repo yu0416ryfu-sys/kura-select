@@ -4,7 +4,7 @@ description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚�
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-08-28"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "56枚"
     pricePerUnit: "約14円/枚"
     rating: 4.29
-    reviewCount: 813
+    reviewCount: 814
     features:
       - "薬用CICA配合のハイドロコロイドニキビパッチ"
       - "コメド（黒ニキビ）にも対応した設計"
@@ -28,7 +28,7 @@ products:
       - "一般医療機器区分との違いを事前に確認してから選ぶと安心"
     recommendedFor: "薬用成分配合タイプを試したい方・コメドケアも意識した使用を考えている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2mpn.3rdw6905.g00s2mpn.3rdw76e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvirginbeautyshop%2Fta-the-sp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvirginbeautyshop%2Fi%2F10005693%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/virginbeautyshop/cabinet/campaign/2608_marathon2/img2/ta-the-sp.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/virginbeautyshop/cabinet/04226192/10028549/10028552/ta-the-sp.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -176,7 +176,7 @@ products:
   - rank: 7
     name: "アクネスラボ 夜用ポイントパッチ"
     brand: "ネイチャーラボ（アクネスラボ）"
-    price: 1000
+    price: 1001
     capacity: "60枚"
     pricePerUnit: "約17円/枚"
     rating: 4.14
@@ -235,7 +235,7 @@ products:
     capacity: "48枚"
     pricePerUnit: "約18円/枚"
     rating: 4.51
-    reviewCount: 1495
+    reviewCount: 1496
     features:
       - "硬質ハイドロゲルを使用したスポットパッチ"
       - "2サイズ（10mm・12mm）のパッチが1セットに入った構成"

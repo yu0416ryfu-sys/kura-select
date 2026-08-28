@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-08-28"
 draft: false
 products:
   - rank: 1
@@ -134,8 +134,8 @@ products:
     price: 242
     capacity: "10枚"
     pricePerUnit: "約24円/枚"
-    rating: 4.5
-    reviewCount: 6
+    rating: 4.57
+    reviewCount: 7
     features:
       - "セラミド配合で肌のバリア機能をケアするシート"
       - "アルコールフリー・無香料の低刺激設計"

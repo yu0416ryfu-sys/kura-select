@@ -4,7 +4,7 @@ description: "オキシクリーンと過炭酸ナトリウム（酸素系漂白
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-08-28"
 draft: false
 products:
   - rank: 1
@@ -47,7 +47,7 @@ products:
     capacity: "4.5kg"
     pricePerUnit: "約0.48円/g"
     rating: 4.84
-    reviewCount: 751
+    reviewCount: 752
     features:
       - "過炭酸ナトリウム100%の特大サイズ"
       - "洗濯槽掃除と浸け置き洗いを想定した容量"
@@ -145,8 +145,8 @@ products:
     price: 3490
     capacity: "5.26kg"
     pricePerUnit: "約0.66円/g"
-    rating: 4.53
-    reviewCount: 184
+    rating: 4.54
+    reviewCount: 186
     features:
       - "アメリカ向け仕様のマルチパーパスクリーナー"
       - "界面活性剤と香料を配合した処方"
@@ -234,7 +234,7 @@ products:
     capacity: "1500g"
     pricePerUnit: "約1.0円/g"
     rating: 4.53
-    reviewCount: 1052
+    reviewCount: 1055
     features:
       - "日本国内向けに販売されている無香料タイプ"
       - "界面活性剤と柔軟成分を配合していない処方"

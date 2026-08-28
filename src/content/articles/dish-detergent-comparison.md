@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-28"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -75,9 +75,9 @@ products:
   - rank: 3
     name: "緑の魔女 キッチン 食器用洗剤 業務用 詰め替え 5L 無添加 無香料"
     brand: "ミマスクリーンケア（緑の魔女）"
-    price: 3180
+    price: 3170
     capacity: "5000mL"
-    pricePerUnit: "約0.64円/mL"
+    pricePerUnit: "約0.63円/mL"
     rating: 4.58
     reviewCount: 137
     features:

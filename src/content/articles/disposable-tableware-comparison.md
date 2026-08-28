@@ -4,7 +4,7 @@ description: "紙コップ・紙皿など使い捨て食器のおすすめ9選�
 category: "disposable-tableware"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-08-22"
+updatedAt: "2026-08-28"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "3000個"
     pricePerUnit: "約2.0円/個"
     rating: 4.62
-    reviewCount: 350
+    reviewCount: 351
     features:
       - "5オンス（150ml）の標準的な使い切りサイズ"
       - "無地ホワイトでシーンを選ばないデザイン"

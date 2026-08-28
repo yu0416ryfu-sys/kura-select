@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バブ・�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-08-28"
 products:
   - rank: 1
     name: "ヒマラヤ岩塩バスソルト ピンクソルト 訳あり"
@@ -46,7 +46,7 @@ products:
     capacity: "150g×6個（900g）"
     pricePerUnit: "約1.6円/g"
     rating: 4.43
-    reviewCount: 4314
+    reviewCount: 4317
     features:
       - "純度99%以上の硫酸マグネシウム配合"
       - "好みの香りを6種類から自由に選べる個包装"
@@ -60,7 +60,7 @@ products:
       - "香り付きのため追い焚き・残り湯使用に注意"
     recommendedFor: "香りを楽しみたい方・エプソムソルト初心者の方・お試しに最適"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tm6bn.3rdw6b3c.g00tm6bn.3rdw7960/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flibertylife%2F201028-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flibertylife%2Fi%2F10000500%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/libertylife/cabinet/sale/marason/b_epsom_otameshi.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/libertylife/cabinet/sale/super/b_epsom_otameshi.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -100,8 +100,8 @@ products:
     price: 2300
     capacity: "750g（30回分）"
     pricePerUnit: "約3.1円/g"
-    rating: 4.68
-    reviewCount: 7133
+    rating: 4.69
+    reviewCount: 7134
     features:
       - "高濃度水素とナノバブル技術で肌の奥まで浸透"
       - "重炭酸配合で塩素を除去しながら保湿"
@@ -115,7 +115,7 @@ products:
       - "水素効果の持続時間が短い"
     recommendedFor: "疲労回復・肌ケア重視の方・敏感肌の方・自然派入浴剤を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00szo9n.3rdw677a.g00szo9n.3rdw7c42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuisosum-shop%2Fhakusui%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuisosum-shop%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suisosum-shop/cabinet/h_/pc_01/750g/hakusui_sa_64.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suisosum-shop/cabinet/h_/pc_01/750g/hakusui_sa_65.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -156,7 +156,7 @@ products:
     capacity: "100個セット"
     pricePerUnit: "約38円/個"
     rating: 4.56
-    reviewCount: 9950
+    reviewCount: 9951
     features:
       - "日本製の入浴剤を100個詰め合わせた福袋"
       - "テレビランキング番組1位獲得のロングセラー"

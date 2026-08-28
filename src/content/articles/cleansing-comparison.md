@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-08-28"
 products:
   - rank: 1
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
@@ -154,7 +154,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約12円/mL"
     rating: 4.69
-    reviewCount: 556
+    reviewCount: 557
     features:
       - "ドクダミエキス配合のクレンジングオイル"
       - "毛穴や皮脂汚れまで落とす韓国コスメ"

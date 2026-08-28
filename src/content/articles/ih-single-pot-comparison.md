@@ -4,7 +4,7 @@ description: "IH対応の一人用鍋を16cm・18cm中心に11製品比較。卓
 category: "cooking-pot"
 publishedAt: "2026-05-10"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-08-28"
 draft: false
 products:
   - rank: 1
@@ -113,7 +113,7 @@ products:
     capacity: "21.5cm / 約0.98L"
     pricePerUnit: "約3561円/L"
     rating: 4.83
-    reviewCount: 41
+    reviewCount: 42
     features:
       - "IH200V対応のホーロー製一人鍋"
       - "W21.5×D21.5×H11.5cmのコンパクトサイズ"

@@ -4,7 +4,7 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-08-28"
 products:
   - rank: 1
     name: "セルロース製 食器洗いスポンジ 6個パック SDGs プラスチックフリー"
@@ -35,7 +35,7 @@ products:
     capacity: "6個（約6ヶ月分）"
     pricePerUnit: "約177円/個"
     rating: 4.78
-    reviewCount: 9886
+    reviewCount: 9887
     features:
       - "3層構造で泡立ち・水切れ・耐久性を両立"
       - "楽天レビュー数トップクラスの圧倒的人気"
@@ -68,7 +68,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.76
-    reviewCount: 1381
+    reviewCount: 1382
     features:
       - "ポリウレタンフォーム＋ナイロン不織布＋ポリエステルの3素材構造"
       - "ブラック・グレー・ホワイトのモノトーン3色展開"
@@ -255,7 +255,7 @@ products:
     capacity: "8個（4個×2組）"
     pricePerUnit: "約384円/個"
     rating: 4.81
-    reviewCount: 2560
+    reviewCount: 2564
     features:
       - "全9色から選べるモノトーン系カラー展開"
       - "長持ちしやすい設計の食器洗いスポンジ"
