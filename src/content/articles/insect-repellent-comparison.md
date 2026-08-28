@@ -235,9 +235,9 @@ products:
   - rank: 8
     name: "選べるアロマスプレー 虫除け 3本セット"
     brand: "ease-aroma"
-    price: 1100
+    price: 1320
     capacity: "30ml×2本＋15ml×1本（75ml）"
-    pricePerUnit: "約15円/ml"
+    pricePerUnit: "約18円/mL"
     rating: 4.25
     reviewCount: 789
     features:

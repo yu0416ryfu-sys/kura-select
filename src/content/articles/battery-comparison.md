@@ -219,9 +219,9 @@ products:
   - rank: 8
     name: "エネボルト 充電池 単3 単4 セット 16本 ケース付 充電 電池 充電電池 充電"
     brand: "楽天市場"
-    price: 2830
+    price: 2680
     capacity: "16本"
-    pricePerUnit: "約177円/本"
+    pricePerUnit: "約168円/本"
     rating: 4.46
     reviewCount: 668
     features:

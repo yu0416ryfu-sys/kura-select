@@ -40,39 +40,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7078356"
         available: true
   - rank: 2
-    name: "★大容量2200g入り★フィニッシュ パウダー/ミューズ/ "
-    brand: "レキットベンキーザー（フィニッシュ）"
-    price: 1760
-    capacity: "2200g"
-    pricePerUnit: "約0.80円/g"
-    rating: 4
-    reviewCount: 1
-    features:
-      - "粉末タイプで圧倒的な低コスト"
-      - "パワフル酵素で油汚れ・こびりつきを分解"
-      - "除菌効果99.9%で衛生的"
-    pros:
-      - "1回あたり約3.6円と最安クラス"
-      - "洗浄力が高く油汚れに強い"
-      - "大容量で詰め替え頻度が少ない"
-    cons:
-      - "計量が必要で手間がかかる"
-      - "溶け残りが発生する場合がある"
-    recommendedFor: "コスパ最優先の方・毎日食洗機を使う家庭・洗浄力重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F10001821%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10001821%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0099041248.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b07bbljjxx-20260329.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-19"
-        price: 2728
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b07bbljjxx-20260329"
-        available: true
-  - rank: 3
     name: "緑の魔女 オートキッチン 800g"
     brand: "ミマスクリーンケア"
     price: 713
@@ -105,6 +72,39 @@ products:
         available: true
         rating: 4.54
         reviewCount: 13
+  - rank: 3
+    name: "★大容量2200g入り★フィニッシュ パウダー/ミューズ/ "
+    brand: "レキットベンキーザー（フィニッシュ）"
+    price: 2178
+    capacity: "2200g"
+    pricePerUnit: "約0.99円/g"
+    rating: 4
+    reviewCount: 1
+    features:
+      - "粉末タイプで圧倒的な低コスト"
+      - "パワフル酵素で油汚れ・こびりつきを分解"
+      - "除菌効果99.9%で衛生的"
+    pros:
+      - "1回あたり約3.6円と最安クラス"
+      - "洗浄力が高く油汚れに強い"
+      - "大容量で詰め替え頻度が少ない"
+    cons:
+      - "計量が必要で手間がかかる"
+      - "溶け残りが発生する場合がある"
+    recommendedFor: "コスパ最優先の方・毎日食洗機を使う家庭・洗浄力重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F10001821%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10001821%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0099041248.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b07bbljjxx-20260329.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-19"
+        price: 2728
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b07bbljjxx-20260329"
+        available: true
   - rank: 4
     name: "ジョイ W除菌 食洗機用洗剤 オレンジピール 詰め替え 930g×3袋"
     brand: "P&G（ジョイ）"

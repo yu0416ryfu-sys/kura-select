@@ -141,9 +141,9 @@ products:
   - rank: 5
     name: "パースピレックス コンフォート 20mL×2個 2個セット"
     brand: "Perspirex"
-    price: 5320
+    price: 6350
     capacity: "20mL×2個"
-    pricePerUnit: "約133円/mL"
+    pricePerUnit: "約159円/mL"
     rating: 4.31
     reviewCount: 699
     features:
@@ -163,9 +163,9 @@ products:
   - rank: 6
     name: "パースピレックス オリジナル 20mL×2個 2個セット"
     brand: "Perspirex"
-    price: 5320
+    price: 6350
     capacity: "20mL×2個"
-    pricePerUnit: "約133円/mL"
+    pricePerUnit: "約159円/mL"
     rating: 4.4
     reviewCount: 497
     features:

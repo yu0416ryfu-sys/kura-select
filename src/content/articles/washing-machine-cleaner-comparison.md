@@ -64,9 +64,9 @@ products:
   - rank: 3
     name: "洗たく槽カビキラー 塩素系液体タイプ 550g×3本"
     brand: "ジョンソン（カビキラー）"
-    price: 1589
+    price: 1509
     capacity: "550g×3本"
-    pricePerUnit: "約0.96円/g"
+    pricePerUnit: "約0.91円/g"
     rating: 4.5
     reviewCount: 200
     features:

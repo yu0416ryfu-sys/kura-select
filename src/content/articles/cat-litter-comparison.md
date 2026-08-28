@@ -74,6 +74,28 @@ products:
         rating: 4.47
         reviewCount: 32
   - rank: 3
+    name: "炭の猫砂 まとめ買いセット"
+    brand: "アイリスオーヤマ"
+    price: 2750
+    capacity: "7L×4袋（28L）"
+    pricePerUnit: "約98円/L"
+    rating: 4.35
+    reviewCount: 2239
+    features:
+      - "炭配合の木質系猫砂、固まるタイプ"
+      - "燃えるゴミとして廃棄可能"
+      - "消臭・脱臭機能を備えたベントナイト配合"
+    pros:
+      - "燃えるゴミに出せるため廃棄場所を選ばない"
+      - "大手ブランドで品質が安定しており初めての猫砂にも選びやすい"
+      - "4袋まとめ買いで補充の手間を減らせる"
+    cons:
+      - "炭の色が濃いため汚れの確認がしにくい場合がある"
+      - "鉱物系に比べて固まりがやや柔らかめ"
+    recommendedFor: "大手ブランドの安心感と廃棄のしやすさを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F661502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10003840%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/jishahin29/523462.jpg?_ex=128x128"
+  - rank: 4
     name: "おからでつくったねこ砂"
     brand: "ペッツビレッジクロス"
     price: 4880
@@ -106,7 +128,7 @@ products:
         available: true
         rating: 4.65
         reviewCount: 197
-  - rank: 4
+  - rank: 5
     name: "ウッディフレッシュ 鉱物系猫砂 小粒 16L×2袋"
     brand: "ウッディフレッシュ"
     price: 3280
@@ -128,28 +150,6 @@ products:
     recommendedFor: "複数頭飼いや大容量でまとめ買いコスパを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzr6n.3rdw64d5.g00qzr6n.3rdw7160/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogland%2F1314970%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogland%2Fi%2F10095023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogland/cabinet/jishahin29/1314970.jpg?_ex=128x128"
-  - rank: 5
-    name: "炭の猫砂 まとめ買いセット"
-    brand: "アイリスオーヤマ"
-    price: 3180
-    capacity: "7L×4袋（28L）"
-    pricePerUnit: "約114円/L"
-    rating: 4.35
-    reviewCount: 2239
-    features:
-      - "炭配合の木質系猫砂、固まるタイプ"
-      - "燃えるゴミとして廃棄可能"
-      - "消臭・脱臭機能を備えたベントナイト配合"
-    pros:
-      - "燃えるゴミに出せるため廃棄場所を選ばない"
-      - "大手ブランドで品質が安定しており初めての猫砂にも選びやすい"
-      - "4袋まとめ買いで補充の手間を減らせる"
-    cons:
-      - "炭の色が濃いため汚れの確認がしにくい場合がある"
-      - "鉱物系に比べて固まりがやや柔らかめ"
-    recommendedFor: "大手ブランドの安心感と廃棄のしやすさを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F661502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10003840%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/jishahin29/523462.jpg?_ex=128x128"
   - rank: 6
     name: "パインウッド"
     brand: "スノーフレーク"

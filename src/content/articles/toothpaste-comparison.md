@@ -9,9 +9,9 @@ products:
   - rank: 1
     name: "システマ ハグキプラス プレミアム 95g×4本セット"
     brand: "ライオン（システマ）"
-    price: 798
+    price: 1000
     capacity: "95g×4本"
-    pricePerUnit: "約2.1円/g"
+    pricePerUnit: "約2.6円/g"
     rating: 4.63
     reviewCount: 57
     features:
@@ -84,11 +84,33 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothsmple%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/toothpsnew.jpg?_ex=128x128"
   - rank: 4
+    name: "WHITH WHITE 薬用歯磨き"
+    brand: "WHITH WHITE"
+    price: 2580
+    capacity: "120g"
+    pricePerUnit: "約22円/g"
+    rating: 4.47
+    reviewCount: 2320
+    features:
+      - "毎日の歯みがきに使える歯磨き粉"
+      - "ホワイトニングや口臭ケア系も選べる"
+      - "容量で比較しやすい"
+    pros:
+      - "日常ケアに取り入れやすい"
+      - "目的別に選べる"
+      - "ストックしやすい"
+    cons:
+      - "成分や使用感の好みは分かれる"
+      - "医薬部外品表記の確認が必要"
+    recommendedFor: "歯磨き粉を目的と容量で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b07qzwqjrm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260824m/906b07qzwqjrm-50.jpg?_ex=128x128"
+  - rank: 5
     name: "キラルンパウダー"
     brand: "RUKEN"
-    price: 1000
+    price: 1254
     capacity: "55g"
-    pricePerUnit: "約18円/g"
+    pricePerUnit: "約23円/g"
     rating: 4.31
     reviewCount: 3279
     features:
@@ -116,28 +138,6 @@ products:
         available: true
         rating: 4.24
         reviewCount: 254
-  - rank: 5
-    name: "WHITH WHITE 薬用歯磨き"
-    brand: "WHITH WHITE"
-    price: 2580
-    capacity: "120g"
-    pricePerUnit: "約22円/g"
-    rating: 4.47
-    reviewCount: 2320
-    features:
-      - "毎日の歯みがきに使える歯磨き粉"
-      - "ホワイトニングや口臭ケア系も選べる"
-      - "容量で比較しやすい"
-    pros:
-      - "日常ケアに取り入れやすい"
-      - "目的別に選べる"
-      - "ストックしやすい"
-    cons:
-      - "成分や使用感の好みは分かれる"
-      - "医薬部外品表記の確認が必要"
-    recommendedFor: "歯磨き粉を目的と容量で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b07qzwqjrm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260824m/906b07qzwqjrm-50.jpg?_ex=128x128"
   - rank: 6
     name: "アパガードリナメル"
     brand: "アパガード"

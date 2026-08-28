@@ -9,9 +9,9 @@ products:
   - rank: 1
     name: "さらさ 柔軟剤 詰替 超ジャンボ 1350ml×6袋"
     brand: "P&G（さらさ）"
-    price: 6180
+    price: 7080
     capacity: "1350ml×6袋"
-    pricePerUnit: "約0.76円/ml"
+    pricePerUnit: "約0.87円/mL"
     rating: 4.78
     reviewCount: 98
     features:
@@ -97,9 +97,9 @@ products:
   - rank: 4
     name: "ナイスアンドクイック ボタニカル 柔軟剤 詰替 ピュアコットンシャボンの香り 1320mL 2個セット"
     brand: "ナイスアンドクイック"
-    price: 2675
+    price: 2816
     capacity: "1320mL×2個"
-    pricePerUnit: "約1.0円/mL"
+    pricePerUnit: "約1.1円/mL"
     rating: 4.86
     reviewCount: 181
     features:

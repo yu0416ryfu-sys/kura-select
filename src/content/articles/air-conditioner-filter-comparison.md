@@ -76,9 +76,9 @@ products:
   - rank: 3
     name: "エアコンフィルター 5枚入"
     brand: "東和産業"
-    price: 2390
+    price: 2151
     capacity: "5枚"
-    pricePerUnit: "約478円/枚"
+    pricePerUnit: "約430円/枚"
     rating: 4.23
     reviewCount: 30
     features:

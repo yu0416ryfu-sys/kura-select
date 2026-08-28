@@ -74,28 +74,6 @@ products:
         reviewCount: 2
         matchNotes: "capacity不一致: capacity不一致"
   - rank: 3
-    name: "エリエール 超吸収キッチンタオル 70カット×4ロール×4パック"
-    brand: "大王製紙（エリエール）"
-    price: 5171
-    capacity: "70カット×16ロール（1120枚）"
-    pricePerUnit: "約4.6円/枚"
-    rating: 4.59
-    reviewCount: 213
-    features:
-      - "独自のフェルト構造で圧倒的な吸水力"
-      - "1枚で雑巾1枚分の吸水量"
-      - "水に濡れても破れにくい高強度"
-    pros:
-      - "吸水力が通常品の約2倍"
-      - "1枚で済むので結果的にコスパが良い"
-      - "水拭きにも使える強度"
-    cons:
-      - "1枚あたりの単価はやや高め"
-      - "薄手のキッチンペーパーに慣れていると厚く感じる"
-    recommendedFor: "吸水力重視の方・水回りの掃除にも使いたい方・品質重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F14506%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10645679%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/506/14506.jpg?_ex=128x128"
-  - rank: 4
     name: "リード クッキングペーパー プロ用 中サイズ 100枚×2ロール×8袋"
     brand: "リード"
     price: 7440
@@ -117,6 +95,28 @@ products:
     recommendedFor: "調理や片付けで紙ペーパーをよく使う家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tqrun.3rdw6d1a.g00tqrun.3rdw7ac8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorinoyamamoto%2F10000286%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorinoyamamoto%2Fi%2F10000286%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/morinoyamamoto/cabinet/clean/imgrc0096543840.jpg?_ex=128x128"
+  - rank: 4
+    name: "エリエール 超吸収キッチンタオル 70カット×4ロール×4パック"
+    brand: "大王製紙（エリエール）"
+    price: 5698
+    capacity: "70カット×16ロール（1120枚）"
+    pricePerUnit: "約5.1円/枚"
+    rating: 4.59
+    reviewCount: 213
+    features:
+      - "独自のフェルト構造で圧倒的な吸水力"
+      - "1枚で雑巾1枚分の吸水量"
+      - "水に濡れても破れにくい高強度"
+    pros:
+      - "吸水力が通常品の約2倍"
+      - "1枚で済むので結果的にコスパが良い"
+      - "水拭きにも使える強度"
+    cons:
+      - "1枚あたりの単価はやや高め"
+      - "薄手のキッチンペーパーに慣れていると厚く感じる"
+    recommendedFor: "吸水力重視の方・水回りの掃除にも使いたい方・品質重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F14506%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10645679%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/506/14506.jpg?_ex=128x128"
   - rank: 5
     name: "リード クッキングペーパー スマートタイプ 36枚×24パック"
     brand: "リード"

@@ -113,9 +113,9 @@ products:
   - rank: 4
     name: "レック 水99.9％ 手口ふき おしりふき 80枚×15個"
     brand: "レック"
-    price: 2390
+    price: 2180
     capacity: "80枚×15個（1200枚）"
-    pricePerUnit: "約2.0円/枚"
+    pricePerUnit: "約1.8円/枚"
     rating: 4.69
     reviewCount: 4733
     features:

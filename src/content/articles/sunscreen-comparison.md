@@ -75,9 +75,9 @@ products:
   - rank: 3
     name: "ビオレUV アクアリッチ ウォータリーエッセンス 120g"
     brand: "花王（ビオレ）"
-    price: 1027
+    price: 1164
     capacity: "120g"
-    pricePerUnit: "約8.6円/g"
+    pricePerUnit: "約9.7円/g"
     rating: 4.6
     reviewCount: 5
     features:

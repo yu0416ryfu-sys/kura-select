@@ -43,9 +43,9 @@ products:
   - rank: 2
     name: "ひとり用鍋 浅型 17cm IH対応 蓋付 LD-485"
     brand: "ベストコ"
-    price: 1150
+    price: 1090
     capacity: "17cm / 約1.1L"
-    pricePerUnit: "約1045円/L"
+    pricePerUnit: "約991円/L"
     rating: 4.5
     reviewCount: 4
     features:

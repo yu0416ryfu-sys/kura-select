@@ -98,9 +98,9 @@ products:
   - rank: 4
     name: "消臭ビーズ 600g"
     brand: "ハル・インダストリ"
-    price: 1155
+    price: 1016
     capacity: "600g"
-    pricePerUnit: "約1.9円/g"
+    pricePerUnit: "約1.7円/g"
     rating: 4.52
     reviewCount: 404
     features:
@@ -227,9 +227,9 @@ products:
   - rank: 8
     name: "瞬間消臭スプレー 420ml"
     brand: "ハル・インダストリ"
-    price: 1485
+    price: 1188
     capacity: "420mL"
-    pricePerUnit: "約3.5円/mL"
+    pricePerUnit: "約2.8円/mL"
     rating: 4.73
     reviewCount: 323
     features:

@@ -9,9 +9,9 @@ products:
   - rank: 1
     name: "オヤスミマン 男の子 ビッグ以上 夜用"
     brand: "ユニ・チャーム（ムーニー）"
-    price: 4785
+    price: 5181
     capacity: "22枚×3袋（13kg～28kg）"
-    pricePerUnit: "約73円/枚"
+    pricePerUnit: "約79円/枚"
     rating: 4.69
     reviewCount: 163
     features:
@@ -40,9 +40,9 @@ products:
   - rank: 2
     name: "オヤスミマン 女の子 ビッグ以上 夜用"
     brand: "ユニ・チャーム"
-    price: 4785
+    price: 5181
     capacity: "22枚×3袋（13kg～28kg）"
-    pricePerUnit: "約73円/枚"
+    pricePerUnit: "約79円/枚"
     rating: 4.78
     reviewCount: 122
     features:

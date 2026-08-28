@@ -230,9 +230,9 @@ products:
   - rank: 8
     name: "A2Care 除菌消臭スプレー 300mL"
     brand: "A2Care"
-    price: 2398
+    price: 2038
     capacity: "300mL（約600回分）"
-    pricePerUnit: "約8.0円/mL"
+    pricePerUnit: "約6.8円/mL"
     rating: 4.49
     reviewCount: 452
     features:

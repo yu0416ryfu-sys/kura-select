@@ -74,39 +74,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903320580169"
         available: true
   - rank: 3
-    name: "激落ちポイポイ カットタイプ"
-    brand: "レック（LEC）"
-    price: 198
-    capacity: "20個"
-    pricePerUnit: "約9.9円/個"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "カット済みのメラミンフォームスポンジ"
-      - "水だけで汚れを落とせるタイプ"
-      - "キューブ状で扱いやすいサイズ"
-    pros:
-      - "カット済みで使いたい分だけ取り出せる"
-      - "水だけで使えて洗剤いらず"
-      - "使い捨てしやすい個数構成"
-    cons:
-      - "光沢面やコーティング面には不向き"
-      - "使ううちに小さくすり減っていく"
-    recommendedFor: "茶渋や水あかをこまめに落としたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf4an.3rdw647e.g00qf4an.3rdw7c2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fra-beans%2F0784793%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fra-beans%2Fi%2F10012189%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/g/0784793.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyh-beans%2F0784793.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-24"
-        price: 198
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_0784793"
-        available: true
-  - rank: 4
     name: "ピカ王 ジュニア メラミンスポンジ"
     brand: "ピカ王"
     price: 298
@@ -139,7 +106,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/colorfulbox_455149"
         available: true
-  - rank: 5
+  - rank: 4
     name: "毎日とりかえメラミンスポンジ 30個"
     brand: "アイセン"
     price: 340
@@ -171,6 +138,39 @@ products:
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nitori-net_2111200023626-0000000000003"
+        available: true
+  - rank: 5
+    name: "激落ちポイポイ カットタイプ"
+    brand: "レック（LEC）"
+    price: 248
+    capacity: "20個"
+    pricePerUnit: "約12円/個"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "カット済みのメラミンフォームスポンジ"
+      - "水だけで汚れを落とせるタイプ"
+      - "キューブ状で扱いやすいサイズ"
+    pros:
+      - "カット済みで使いたい分だけ取り出せる"
+      - "水だけで使えて洗剤いらず"
+      - "使い捨てしやすい個数構成"
+    cons:
+      - "光沢面やコーティング面には不向き"
+      - "使ううちに小さくすり減っていく"
+    recommendedFor: "茶渋や水あかをこまめに落としたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf4an.3rdw647e.g00qf4an.3rdw7c2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fra-beans%2F0784793%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fra-beans%2Fi%2F10012189%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/g/0784793.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyh-beans%2F0784793.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-24"
+        price: 198
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_0784793"
         available: true
   - rank: 6
     name: "レック 激落ちくん メラミンスポンジ 工場用"

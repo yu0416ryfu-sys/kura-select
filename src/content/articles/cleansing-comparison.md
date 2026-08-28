@@ -64,9 +64,9 @@ products:
   - rank: 3
     name: "manyo ピュアクレンジングオイル 400mL"
     brand: "manyo"
-    price: 3780
+    price: 3402
     capacity: "400mL"
-    pricePerUnit: "約9.4円/mL"
+    pricePerUnit: "約8.5円/mL"
     rating: 4.63
     reviewCount: 49
     features:

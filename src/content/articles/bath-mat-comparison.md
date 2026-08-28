@@ -100,11 +100,35 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/futoncolors_a979"
         available: true
   - rank: 4
+    name: "バスマット 速乾 洗える【1秒吸収】"
+    brand: "Latuna"
+    price: 1999
+    capacity: "40×60cm / 50×80cm 1枚"
+    pricePerUnit: "約1999円/枚"
+    rating: 4.64
+    reviewCount: 3280
+    features:
+      - "マイクロファイバー素材で高速吸水"
+      - "厚手設計で足裏にフィット"
+      - "抗菌加工で衛生的"
+      - "足拭きマット兼用可能"
+    pros:
+      - "1秒吸収の高速吸水性が優れている"
+      - "耐久性が高く長く使える"
+      - "滑り止め機能で安全性も考慮"
+      - "丸洗い可能でお手入れが簡単"
+    cons:
+      - "サイズ選択が必要"
+      - "マイクロファイバーなので好みが分かれる"
+    recommendedFor: "吸水性を最優先したい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnrsn.3rdw6089.g00tnrsn.3rdw78e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flatuna%2F10000010-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flatuna%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/latuna/cabinet/items/bathmat/imgrc0161877803.jpg?_ex=128x128"
+  - rank: 5
     name: "今治タオル レオン バスマット"
     brand: "今治タオル"
-    price: 1980
+    price: 2290
     capacity: "42×67cm 1枚"
-    pricePerUnit: "約1980円/枚"
+    pricePerUnit: "約2290円/枚"
     rating: 4.61
     reviewCount: 2113
     features:
@@ -132,30 +156,6 @@ products:
         reviewCount: 286
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/broome_0215-0212-0101"
         available: true
-  - rank: 5
-    name: "バスマット 速乾 洗える【1秒吸収】"
-    brand: "Latuna"
-    price: 1999
-    capacity: "40×60cm / 50×80cm 1枚"
-    pricePerUnit: "約1999円/枚"
-    rating: 4.64
-    reviewCount: 3280
-    features:
-      - "マイクロファイバー素材で高速吸水"
-      - "厚手設計で足裏にフィット"
-      - "抗菌加工で衛生的"
-      - "足拭きマット兼用可能"
-    pros:
-      - "1秒吸収の高速吸水性が優れている"
-      - "耐久性が高く長く使える"
-      - "滑り止め機能で安全性も考慮"
-      - "丸洗い可能でお手入れが簡単"
-    cons:
-      - "サイズ選択が必要"
-      - "マイクロファイバーなので好みが分かれる"
-    recommendedFor: "吸水性を最優先したい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnrsn.3rdw6089.g00tnrsn.3rdw78e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flatuna%2F10000010-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flatuna%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/latuna/cabinet/items/bathmat/imgrc0161877803.jpg?_ex=128x128"
   - rank: 6
     name: "乾度良好 Dナチュレ バスマット"
     brand: "乾度良好"

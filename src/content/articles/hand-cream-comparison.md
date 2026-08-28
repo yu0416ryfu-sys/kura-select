@@ -85,9 +85,9 @@ products:
   - rank: 4
     name: "ハンドクリーム 80g べたつかない 無香料"
     brand: "てんまん香粧薬房"
-    price: 2500
+    price: 2000
     capacity: "80g"
-    pricePerUnit: "約31円/g"
+    pricePerUnit: "約25円/g"
     rating: 4.61
     reviewCount: 1976
     features:

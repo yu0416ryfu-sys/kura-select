@@ -175,9 +175,9 @@ products:
   - rank: 6
     name: "カミソリ CRA-3 Yマット袋 250本"
     brand: "湯屋の手土産"
-    price: 9500
+    price: 11000
     capacity: "250本"
-    pricePerUnit: "約38円/本"
+    pricePerUnit: "約44円/本"
     rating: 5
     reviewCount: 2
     features:
@@ -208,9 +208,9 @@ products:
   - rank: 7
     name: "カミソリ TD708 Yマット袋 16本セット"
     brand: "湯屋の手土産"
-    price: 720
+    price: 760
     capacity: "16本"
-    pricePerUnit: "約45円/本"
+    pricePerUnit: "約48円/本"
     rating: 4.4
     reviewCount: 10
     features:

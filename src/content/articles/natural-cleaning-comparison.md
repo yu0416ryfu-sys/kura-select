@@ -74,28 +74,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki15"
         available: true
   - rank: 3
-    name: "重曹 国産 5kg 炭酸水素ナトリウム 食用グレード"
-    brand: "ナチュラルショップ マニン"
-    price: 1980
-    capacity: "5kg"
-    pricePerUnit: "約396円/kg"
-    rating: 4.61
-    reviewCount: 33
-    features:
-      - "食品添加物規格・食用グレードで掃除から料理・入浴剤まで三役"
-      - "アルミニウムフリー・国産原料"
-      - "1kg小分け袋5袋入りで湿気を防ぎながら保管しやすい"
-    pros:
-      - "食用・掃除・入浴剤に幅広く使える汎用性の高さ"
-      - "小分け袋入りで開封後も品質を保ちやすい"
-      - "国産品で原料・製造の安心感がある"
-    cons:
-      - "セスキ炭酸ソーダと比べてアルカリ力が穏やかで頑固な油汚れには不向き"
-      - "粉末が細かく飛び散りやすいため使用時は注意が必要"
-    recommendedFor: "食用・掃除・入浴剤を1種類で兼用したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s8gpn.3rdw6fb0.g00s8gpn.3rdw79fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fns-manin%2F0009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fns-manin%2Fi%2F10000217%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ns-manin/cabinet/05354021/05354772/imgrc0074340684.jpg?_ex=128x128"
-  - rank: 4
     name: "アームアンドハンマー ベーキングソーダ 6.1kg"
     brand: "Arm & Hammer（アームアンドハンマー）"
     price: 2629
@@ -128,7 +106,7 @@ products:
         reviewCount: 10
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos01029"
         available: true
-  - rank: 5
+  - rank: 4
     name: "セスキ炭酸ソーダ 5kg"
     brand: "NICHIGA（ニチガ）"
     price: 2190
@@ -161,7 +139,7 @@ products:
         reviewCount: 230
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki5"
         available: true
-  - rank: 6
+  - rank: 5
     name: "アルカリウォッシュ 3kg"
     brand: "地の塩社"
     price: 1999
@@ -194,6 +172,28 @@ products:
         reviewCount: 68
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6021477"
         available: true
+  - rank: 6
+    name: "重曹 国産 5kg 炭酸水素ナトリウム 食用グレード"
+    brand: "ナチュラルショップ マニン"
+    price: 3350
+    capacity: "5kg"
+    pricePerUnit: "約670円/kg"
+    rating: 4.61
+    reviewCount: 33
+    features:
+      - "食品添加物規格・食用グレードで掃除から料理・入浴剤まで三役"
+      - "アルミニウムフリー・国産原料"
+      - "1kg小分け袋5袋入りで湿気を防ぎながら保管しやすい"
+    pros:
+      - "食用・掃除・入浴剤に幅広く使える汎用性の高さ"
+      - "小分け袋入りで開封後も品質を保ちやすい"
+      - "国産品で原料・製造の安心感がある"
+    cons:
+      - "セスキ炭酸ソーダと比べてアルカリ力が穏やかで頑固な油汚れには不向き"
+      - "粉末が細かく飛び散りやすいため使用時は注意が必要"
+    recommendedFor: "食用・掃除・入浴剤を1種類で兼用したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s8gpn.3rdw6fb0.g00s8gpn.3rdw79fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fns-manin%2F0009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fns-manin%2Fi%2F10000217%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ns-manin/cabinet/05354021/05354772/imgrc0074340684.jpg?_ex=128x128"
   - rank: 7
     name: "セスキ炭酸ソーダ 950g 宅配便配送"
     brand: "NICHIGA（ニチガ）"

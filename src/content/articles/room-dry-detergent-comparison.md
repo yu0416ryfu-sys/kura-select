@@ -114,9 +114,9 @@ products:
   - rank: 4
     name: "アリエール 液体 部屋干しプラス 詰め替え 超ジャンボ 1.21kg（超ジャンボサイズ）"
     brand: "P&G（アリエール）"
-    price: 2981
+    price: 4910
     capacity: "1.21kg（超ジャンボサイズ）"
-    pricePerUnit: "約2464円/kg"
+    pricePerUnit: "約4.1円/g"
     rating: 4.4
     reviewCount: 5
     features:
