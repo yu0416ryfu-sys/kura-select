@@ -1,0 +1,151 @@
+{
+  "updatedAt": "2026-08-29",
+  "readme": [
+    "効果測定中で編集してはいけない対象の台帳。人間・AI 双方の唯一の正はメモリ project_measurement_holds だが、",
+    "機械判定（scripts/check-internal-links.mjs など）はこのファイルを読む。両者は必ず同時に更新する。",
+    "機械が読むのは holds[].slug / holds[].slugs / holds[].releaseDate の3つだけ。ほかのキーは人間向けの注記。",
+    "releaseDate は『この日から編集してよい日』＝台帳の解除日の翌日。判定は releaseDate > today の厳密な文字列比較。",
+    "prohibitions は期限なしの禁止で、範囲が限定的（商品追加のみ等）なため holds には入れない＝機械判定は凍結扱いしない。",
+    "区分A（update-products の price/rating 等の自動更新）は凍結対象外につきここには記帳しない（CLAUDE.md §5.0.3）。"
+  ],
+  "holds": [
+    {
+      "slugs": [
+        "hand-soap-comparison",
+        "body-soap-comparison",
+        "kitchen-paper-comparison",
+        "garbage-bag-comparison"
+      ],
+      "releaseDate": "2026-09-01",
+      "releaseLabel": "2026-08-31",
+      "targetType": "article",
+      "startedAt": "2026-08-07",
+      "measures": ["表示/日", "順位", "CTR"],
+      "actions": ["H2追加（garbage-bag は description のみ改稿）"],
+      "simultaneous": false,
+      "note": "GSC刈り取り Phase 1。body-soap は本文の price 違反2件を凍結明けまで触らない",
+      "source": "project_gsc_harvest_202608"
+    },
+    {
+      "slugs": ["bath-mold-preventer-comparison", "fabric-deodorizer-comparison"],
+      "releaseDate": "2026-09-01",
+      "releaseLabel": "2026-08-31",
+      "targetType": "article",
+      "startedAt": "2026-08-17",
+      "measures": ["表示/日", "順位"],
+      "actions": ["本文加筆（定型H2撤去）"],
+      "simultaneous": false,
+      "note": "AdSense是正 Phase B-1。同群の他17本は 08-25 に判定不能として前倒し解除済み。クリック実数では判定しない",
+      "source": "project_adsense_202608"
+    },
+    {
+      "slug": "laundry-bleach-comparison",
+      "releaseDate": "2026-09-02",
+      "releaseLabel": "2026-09-01",
+      "targetType": "article",
+      "startedAt": "2026-08-18",
+      "measures": ["表示/日", "順位"],
+      "actions": ["本文加筆（定型H2撤去）"],
+      "simultaneous": false,
+      "note": "08-15 に商品是正が❌失敗と判定済みの記事。クリックは 22→7 に落ちているため実数判定はしない",
+      "source": "project_adsense_202608"
+    },
+    {
+      "slug": null,
+      "releaseDate": "2026-09-02",
+      "releaseLabel": "2026-09-01",
+      "targetType": "component",
+      "target": "src/layouts/ArticleLayout.astro（著者バイライン）",
+      "startedAt": "2026-08-18",
+      "measuredTargets": [],
+      "measures": [],
+      "actions": ["著者バイライン＋アバター追加", "HTMLサイトマップ新設と Footer リンク"],
+      "simultaneous": false,
+      "note": "審査対策のテンプレ変更で順位施策ではないため測定指標を置いていない。記事 slug は凍結しない（機械判定の対象外）。判定時は起点 08-18 を併記する",
+      "source": "project_adsense_202608"
+    },
+    {
+      "slug": "deodorizing-bag-comparison",
+      "releaseDate": "2026-09-04",
+      "releaseLabel": "2026-09-03",
+      "targetType": "article",
+      "startedAt": "2026-08-20",
+      "measures": ["表示/日", "クロール頻度"],
+      "actions": ["本文全面改稿", "被リンク 0→4本", "商品構成の是正"],
+      "simultaneous": true,
+      "note": "未離陸の是正。3施策同時のため分離不能。クリック実数では判定しない",
+      "source": "project_new_articles_202607"
+    },
+    {
+      "slugs": [
+        "oxiclean-vs-percarbonate-comparison",
+        "kitchen-paper-comparison",
+        "sanitary-napkin-comparison",
+        "dish-detergent-comparison",
+        "dental-floss-comparison",
+        "garbage-bag-comparison",
+        "cotton-comparison",
+        "tissue-paper-comparison",
+        "room-deodorizer-comparison",
+        "mouthwash-comparison",
+        "laundry-detergent-comparison"
+      ],
+      "releaseDate": "2026-09-09",
+      "releaseLabel": "2026-09-08",
+      "targetType": "article",
+      "startedAt": "2026-08-26",
+      "measures": ["前窓クリーン条件（施策ではない）"],
+      "actions": [],
+      "simultaneous": false,
+      "note": "コホート第1弾の候補プール。08-26〜09-08 が前窓で、変更が入った記事は第1弾から外す。R3（判定不能記事の凍結除外）の対象外",
+      "source": "IMPLEMENTATION_PLAN_MEASUREMENT_REGIME_V2_2026-08-25.md"
+    },
+    {
+      "slug": "toilet-paper-double-comparison",
+      "releaseDate": "2026-09-10",
+      "releaseLabel": "2026-09-09",
+      "targetType": "article",
+      "startedAt": "2026-08-26",
+      "measures": ["表示/日", "順位"],
+      "actions": ["本文加筆（定型H2撤去）", "toilet-paper-comparison への内部リンク1本"],
+      "simultaneous": false,
+      "note": "AdSense是正 Phase B-1 の最後の1本。12日で85表示・5クリックと母数が小さくクリック実数では判定しない",
+      "source": "project_adsense_202608"
+    },
+    {
+      "slug": "laundry-gel-ball-comparison",
+      "releaseDate": "2026-09-13",
+      "releaseLabel": "2026-09-12",
+      "targetType": "article",
+      "startedAt": "2026-08-22",
+      "measures": ["表示/日", "クロール頻度", "インデックス"],
+      "actions": ["商品10件を全入れ替え", "検索ルール追加", "本文全面改稿（独自画像6枚）", "被リンク 0→2本", "title/description 改稿"],
+      "simultaneous": true,
+      "note": "4施策同時のため分離不能。2026-08-27 にバグ修正（区分C・旧セクション残存と literal ** の解消）を実施済みで、判定時はこの起点日も併記する",
+      "source": "project_adsense_202608"
+    },
+    {
+      "slug": "water-server-delivery-comparison",
+      "releaseDate": "2026-09-23",
+      "releaseLabel": "2026-09-22",
+      "targetType": "article",
+      "startedAt": "2026-08-25",
+      "measures": ["インデックス", "順位", "A8成果件数"],
+      "actions": ["新規公開（宅配水4社・articleType: service）"],
+      "simultaneous": false,
+      "note": "公開+4週は title / description / 本文 / services[] を触らない。v1 との相互リンク追加は 09-22 以降の別施策",
+      "source": "project_high_ticket_asp_202608"
+    }
+  ],
+  "prohibitions": [
+    {
+      "slugs": [
+        "frosch-vs-yashinomi-comparison",
+        "joy-vs-cucute-comparison",
+        "mukokukan-vs-shoshuriki-comparison"
+      ],
+      "scope": "products",
+      "note": "期限なし。ブランド一騎打ち構成が記事の設計なので商品を追加しない。pnpm check-additions の『商品不足』判定は無視する。本文・内部リンクの凍結ではないため holds には入れていない"
+    }
+  ]
+}

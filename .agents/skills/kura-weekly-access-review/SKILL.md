@@ -34,7 +34,7 @@ pnpm weekly:snapshot
 | # | 参照先 | 何を取るか |
 |---|---|---|
 | 1 | `reports/weekly/snapshot-<確定日>.md` | 確定日・窓・サイト全体・ページ別・クエリ・GA4・Bing |
-| 2 | メモリ `project_measurement_holds` | 凍結中の記事と解除日。**触れてよい記事の判断はここが正** |
+| 2 | `data/measurement-holds.json` ＋ メモリ `project_measurement_holds` | 凍結中の記事と解除日。JSON は機械可読の一覧、メモリは施策の中身と判定根拠。**両方を見る。齟齬があればメモリが正** |
 | 3 | `docs/TODO.md` §2 凍結表 / §3 カレンダー | 今週が判定期限の施策 |
 | 4 | 前回の `docs/ACCESS_ANALYSIS_*.md`（最新1本） | 前回の宿題と継続観測点 |
 | 5 | `reports/gsc-harvest/baseline-*.json` | 施策判定の比較元（起点日より前の baseline を使う） |
@@ -66,11 +66,11 @@ pnpm weekly:snapshot
 - [ ] §2 の判定で窓を取り直した場合、冒頭にその旨と取得方法を書いたか
 - [ ] ページ別の増減を**正規化後**の値で述べたか
 - [ ] クリック実数が一桁の比較を判定に使っていないか
-- [ ] 凍結中の記事に施策を提案していないか（`project_measurement_holds` と突き合わせたか）
+- [ ] 凍結中の記事に施策を提案していないか（`data/measurement-holds.json` とメモリ `project_measurement_holds` の**両方**と突き合わせたか）
 - [ ] 判定期限が来ている施策を全部拾ったか（`docs/TODO.md` §3）
 - [ ] 提案は3件以内か
 - [ ] 「〜な気がする」「おそらく改善」のような数値の裏付けが無い表現を消したか
-- [ ] 施策を打つ提案をした場合、`project_measurement_holds` への追記（起点日・解除日・指標）を宿題として明記したか
+- [ ] 施策を打つ提案をした場合、`data/measurement-holds.json` とメモリ `project_measurement_holds` の**両方**への追記（起点日・解除日・指標。JSON の `releaseDate` は解除日の翌日）を宿題として明記したか
 
 ## 5. やらないこと
 
