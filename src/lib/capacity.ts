@@ -255,6 +255,8 @@ export const ARTICLE_UNIT_POLICY: Record<string, string> = {
   // 液体系（L/mL・大文字小文字の混在を mL に統一）
   'dish-detergent-comparison': 'mL',
   'hand-soap-comparison': 'mL',
+  // 詰め替えが L 表記（業務用4L）と mL 表記で混在するため mL に統一する
+  'kireikirei-vs-biore-comparison': 'mL',
   'sanitizing-spray-comparison': 'mL',
   'insect-repellent-comparison': 'mL',
   // 液体蚊取りの取替えボトルは「対応日数」が実質のコスパ指標（円/日）
