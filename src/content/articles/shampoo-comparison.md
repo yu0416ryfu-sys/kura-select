@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 products:
   - rank: 1
     name: "ザクロー精炭酸シャンプー 詰替用"
@@ -100,8 +100,8 @@ products:
     price: 2680
     capacity: "250ml"
     pricePerUnit: "約11円/mL"
-    rating: 4.67
-    reviewCount: 1032
+    rating: 4.66
+    reviewCount: 1035
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -134,7 +134,7 @@ products:
     capacity: "300mL"
     pricePerUnit: "約15円/mL"
     rating: 4.23
-    reviewCount: 2423
+    reviewCount: 2424
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"

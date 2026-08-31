@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 products:
   - rank: 1
     name: "ニベア ハンドクリーム 75g"
@@ -177,7 +177,7 @@ products:
     capacity: "43g"
     pricePerUnit: "約51円/g"
     rating: 4.7
-    reviewCount: 734
+    reviewCount: 736
     features:
       - "オーガニック認証原料を使用したハンドクリーム"
       - "43gの使いやすいサイズでギフト用途にも対応"

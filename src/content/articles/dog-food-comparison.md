@@ -4,15 +4,15 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 draft: false
 products:
   - rank: 1
     name: "カークランド ドッグフード チキン ライス 成犬用 12kg"
     brand: "Kirkland"
-    price: 6498
+    price: 5790
     capacity: "12kg"
-    pricePerUnit: "約542円/kg"
+    pricePerUnit: "約483円/kg"
     rating: 4.62
     reviewCount: 21
     features:
@@ -127,7 +127,7 @@ products:
       - "6個セットのため保管スペースが必要になる"
     recommendedFor: "室内飼育の小型犬を多頭または長期飼育している方・開封後鮮度を優先したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fw-145111-00-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10068095%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/w-145111-00-00.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/rinji/w-145111-00-00.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -245,7 +245,7 @@ products:
     capacity: "1.1kg"
     pricePerUnit: "約2800円/kg"
     rating: 4.77
-    reviewCount: 2523
+    reviewCount: 2524
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -278,7 +278,7 @@ products:
     capacity: "1kg"
     pricePerUnit: "約3000円/kg"
     rating: 4.72
-    reviewCount: 2562
+    reviewCount: 2563
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

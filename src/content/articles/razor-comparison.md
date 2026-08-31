@@ -4,74 +4,74 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 draft: false
 products:
   - rank: 1
-    name: "シック ハイドロ5 カスタム 本体+替刃16個セット"
-    brand: "シック（Schick）"
-    price: 3580
-    capacity: "本体1個＋替刃16個"
-    pricePerUnit: "約224円/個"
+    name: "カミソリ CRA-3 Yマット袋 250本"
+    brand: "湯屋の手土産"
+    price: 11000
+    capacity: "250本"
+    pricePerUnit: "約44円/本"
     rating: 5
-    reviewCount: 4
+    reviewCount: 2
     features:
-      - "5枚刃で広い面積をまとめて剃れる構造"
-      - "極薄ヘッドで鼻下やあご周りなど細部へのフィット性が高い"
-      - "フローティングヘッドが肌の凸凹に追従して剃り残しを抑える"
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
     pros:
-      - "本体と替刃がセットになっておりはじめて使う方がすぐに使い始められる"
-      - "替刃が多く入っているためまとめ買いとして割安感がある"
-      - "風呂剃りにも対応しており使用シーンを選ばない"
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
     cons:
-      - "ヘッドがやや大きめで鼻の下などの狭い部分は剃りにくい場合がある"
-      - "3枚刃より刃が多いため詰まりを感じやすい太いひげには水洗いを頻繁に行う必要がある"
-    recommendedFor: "5枚刃で深剃りを求める方・本体と替刃をまとめて揃えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u9ufn.3rdw67db.g00u9ufn.3rdw7f61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwansa-kun-shop%2Fgeneral-shaver016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwansa-kun-shop%2Fi%2F10000096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wansa-kun-shop/cabinet/item_img/general-shaver016_01.jpg?_ex=128x128"
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ts2zn.3rdw659d.g00ts2zn.3rdw7108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuyanotemiyage%2F57020103-250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuyanotemiyage%2Fi%2F10000953%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuyanotemiyage/cabinet/11778705/12714812/ymatte3maiba_samu250.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwansa-kun-shop%2Fgeneral-shaver016.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-26"
-        price: 3526
-        rating: 4.85
-        reviewCount: 72
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wansa-kun-shop_general-shaver016"
-        available: true
-  - rank: 2
-    name: "マッハシンスリー ターボ 替刃 8コ入り"
-    brand: "ジレット（Gillette）"
-    price: 3012
-    capacity: "替刃8個"
-    pricePerUnit: "約377円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "3枚刃設計で肌への密着性が高い"
-      - "潤いコートとスムースコートのダブルコーティングで摩擦を軽減"
-      - "フリクション低減コートで肌ダメージを抑える構造"
-    pros:
-      - "世界で最も多く使われているシリーズのひとつで入手しやすい"
-      - "3枚刃はひげが薄い方や肌が弱い方に刺激が少ない"
-      - "純正品のため互換品より品質が安定している"
-    cons:
-      - "5枚刃より深剃り力は控えめ"
-      - "濃いひげや太いひげには物足りないと感じる場合がある"
-    recommendedFor: "定番ブランドで安定した剃り心地を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902430688635%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10170614%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/re2021/4902430688635.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430688635.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57020103-250.html"
         matchStatus: "matched"
         updatedAt: "2026-08-26"
-        price: 2351
-        rating: 4.75
-        reviewCount: 12
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430688635"
+        price: 9500
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_57020103-250"
+        available: true
+  - rank: 2
+    name: "カミソリ TD708 Yマット袋 16本セット"
+    brand: "湯屋の手土産"
+    price: 760
+    capacity: "16本"
+    pricePerUnit: "約48円/本"
+    rating: 4.45
+    reviewCount: 11
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ts2zn.3rdw659d.g00ts2zn.3rdw7108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuyanotemiyage%2F57010103-16%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuyanotemiyage%2Fi%2F10000949%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuyanotemiyage/cabinet/11778705/12714812/imgrc0184282324.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57010103-16.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
+        price: 720
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_57010103-16"
         available: true
   - rank: 3
     name: "貝印 04370 ヤングT 6本入り カミソリ シェーバー"
@@ -107,6 +107,116 @@ products:
         rating: 0
         reviewCount: 0
   - rank: 4
+    name: "ジレット 髭剃り カミソリ カスタムプラス3 プレミアムスムース(3本入り)×3個 "
+    brand: "ジレット"
+    price: 1413
+    capacity: "3本×3個"
+    pricePerUnit: "約157円/本"
+    rating: 3.75
+    reviewCount: 4
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhson.3rdw6ad0.g00qhson.3rdw7574/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperkid%2F4902430793063-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuperkid%2Fi%2F10017135%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/superkid/cabinet/biyou/imgrc0089091398.jpg?_ex=128x128"
+  - rank: 5
+    name: "貝印カミソリ K-2 ひげそり用カミソリ ホルダー 本体＋替刃5コ付 (二枚刃 シェ"
+    brand: "貝印カミソリ"
+    price: 2413
+    capacity: "1本"
+    pricePerUnit: "約2413円/本"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901331003301-009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12148065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic4900/4901331003301_1.jpg?_ex=128x128"
+  - rank: 6
+    name: "シック ハイドロ5 カスタム 本体+替刃16個セット"
+    brand: "シック（Schick）"
+    price: 3646
+    capacity: "本体1個＋替刃16個"
+    pricePerUnit: "約228円/個"
+    rating: 5
+    reviewCount: 4
+    features:
+      - "5枚刃で広い面積をまとめて剃れる構造"
+      - "極薄ヘッドで鼻下やあご周りなど細部へのフィット性が高い"
+      - "フローティングヘッドが肌の凸凹に追従して剃り残しを抑える"
+    pros:
+      - "本体と替刃がセットになっておりはじめて使う方がすぐに使い始められる"
+      - "替刃が多く入っているためまとめ買いとして割安感がある"
+      - "風呂剃りにも対応しており使用シーンを選ばない"
+    cons:
+      - "ヘッドがやや大きめで鼻の下などの狭い部分は剃りにくい場合がある"
+      - "3枚刃より刃が多いため詰まりを感じやすい太いひげには水洗いを頻繁に行う必要がある"
+    recommendedFor: "5枚刃で深剃りを求める方・本体と替刃をまとめて揃えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u9ufn.3rdw67db.g00u9ufn.3rdw7f61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwansa-kun-shop%2Fgeneral-shaver016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwansa-kun-shop%2Fi%2F10000096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wansa-kun-shop/cabinet/item_img/general-shaver016_01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwansa-kun-shop%2Fgeneral-shaver016.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-26"
+        price: 3526
+        rating: 4.85
+        reviewCount: 72
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wansa-kun-shop_general-shaver016"
+        available: true
+  - rank: 7
+    name: "マッハシンスリー ターボ 替刃 8コ入り"
+    brand: "ジレット（Gillette）"
+    price: 3012
+    capacity: "替刃8個"
+    pricePerUnit: "約377円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "3枚刃設計で肌への密着性が高い"
+      - "潤いコートとスムースコートのダブルコーティングで摩擦を軽減"
+      - "フリクション低減コートで肌ダメージを抑える構造"
+    pros:
+      - "世界で最も多く使われているシリーズのひとつで入手しやすい"
+      - "3枚刃はひげが薄い方や肌が弱い方に刺激が少ない"
+      - "純正品のため互換品より品質が安定している"
+    cons:
+      - "5枚刃より深剃り力は控えめ"
+      - "濃いひげや太いひげには物足りないと感じる場合がある"
+    recommendedFor: "定番ブランドで安定した剃り心地を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902430688635%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10170614%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/re2021/4902430688635.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430688635.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
+        price: 2351
+        rating: 4.75
+        reviewCount: 12
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430688635"
+        available: true
+  - rank: 8
     name: "プログライド マニュアル 替刃 8個"
     brand: "ジレット（Gillette）"
     price: 3500
@@ -139,7 +249,7 @@ products:
         reviewCount: 39
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ramonu_230522-8002"
         available: true
-  - rank: 5
+  - rank: 9
     name: "ジレット パワー フュージョン Gillette 替刃 髭剃り 電動 互換品 替え刃"
     brand: "ジレット"
     price: 1000
@@ -172,116 +282,6 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/karimerobox_4987176033338-1"
         available: true
-  - rank: 6
-    name: "カミソリ CRA-3 Yマット袋 250本"
-    brand: "湯屋の手土産"
-    price: 11000
-    capacity: "250本"
-    pricePerUnit: "約44円/本"
-    rating: 5
-    reviewCount: 2
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ts2zn.3rdw659d.g00ts2zn.3rdw7108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuyanotemiyage%2F57020103-250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuyanotemiyage%2Fi%2F10000953%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuyanotemiyage/cabinet/11778705/12714812/ymatte3maiba_samu250.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57020103-250.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 9500
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_57020103-250"
-        available: true
-  - rank: 7
-    name: "カミソリ TD708 Yマット袋 16本セット"
-    brand: "湯屋の手土産"
-    price: 760
-    capacity: "16本"
-    pricePerUnit: "約48円/本"
-    rating: 4.45
-    reviewCount: 11
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ts2zn.3rdw659d.g00ts2zn.3rdw7108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuyanotemiyage%2F57010103-16%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuyanotemiyage%2Fi%2F10000949%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuyanotemiyage/cabinet/11778705/12714812/imgrc0184282324.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57010103-16.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 720
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_57010103-16"
-        available: true
-  - rank: 8
-    name: "ジレット 髭剃り カミソリ カスタムプラス3 プレミアムスムース(3本入り)×3個 "
-    brand: "ジレット"
-    price: 1413
-    capacity: "3本×3個"
-    pricePerUnit: "約157円/本"
-    rating: 3.75
-    reviewCount: 4
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhson.3rdw6ad0.g00qhson.3rdw7574/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperkid%2F4902430793063-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuperkid%2Fi%2F10017135%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/superkid/cabinet/biyou/imgrc0089091398.jpg?_ex=128x128"
-  - rank: 9
-    name: "貝印カミソリ K-2 ひげそり用カミソリ ホルダー 本体＋替刃5コ付 (二枚刃 シェ"
-    brand: "貝印カミソリ"
-    price: 2413
-    capacity: "1本"
-    pricePerUnit: "約2413円/本"
-    rating: 5
-    reviewCount: 2
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901331003301-009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12148065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic4900/4901331003301_1.jpg?_ex=128x128"
 tags:
   - "T字カミソリ おすすめ"
   - "T字カミソリ コスパ"

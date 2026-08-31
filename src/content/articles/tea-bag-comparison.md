@@ -4,7 +4,7 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 draft: false
 products:
   - rank: 1
@@ -65,9 +65,9 @@ products:
   - rank: 3
     name: "伊藤園 健康ミネラルむぎ茶 ティーバッグ"
     brand: "伊藤園"
-    price: 3618
+    price: 3996
     capacity: "30袋×10個（300袋）"
-    pricePerUnit: "約12円/袋"
+    pricePerUnit: "約13円/袋"
     rating: 4.42
     reviewCount: 12
     features:
@@ -102,7 +102,7 @@ products:
     capacity: "18袋×5個（90袋）"
     pricePerUnit: "約20円/袋"
     rating: 4.8
-    reviewCount: 55
+    reviewCount: 56
     features:
       - "国産六条大麦100%使用"
       - "ノンカフェイン・水出し対応"

@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -45,8 +45,8 @@ products:
     price: 5965
     capacity: "6000ml"
     pricePerUnit: "約0.99円/ml"
-    rating: 4.77
-    reviewCount: 359
+    rating: 4.78
+    reviewCount: 360
     features:
       - "多機能タイプの薬用マウスウォッシュ"
       - "クリーンミント味の液体タイプ"
@@ -233,7 +233,7 @@ products:
     capacity: "300mL"
     pricePerUnit: "約8.6円/mL"
     rating: 4.6
-    reviewCount: 2859
+    reviewCount: 2862
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"
@@ -295,11 +295,11 @@ products:
   - rank: 10
     name: "コンクールF 100mL"
     brand: "ウエルテック（コンクール）"
-    price: 2200
+    price: 2300
     capacity: "100mL（約700回分）"
-    pricePerUnit: "約22円/mL"
+    pricePerUnit: "約23円/mL"
     rating: 4.76
-    reviewCount: 597
+    reviewCount: 598
     features:
       - "歯科医院で推奨される薬用マウスウォッシュ"
       - "グルコン酸クロルヘキシジン配合で高い殺菌力"

@@ -4,7 +4,7 @@ description: "紙おむつを新生児用、Sサイズ、Mサイズ、BIG以上�
 category: "diaper"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 products:
   - rank: 1
     name: "ムーニー テープ S マシュマロ肌ごこち"
@@ -13,7 +13,7 @@ products:
     capacity: "70枚×4袋"
     pricePerUnit: "約26円/枚"
     rating: 4.83
-    reviewCount: 171
+    reviewCount: 173
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"

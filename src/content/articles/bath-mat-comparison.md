@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "40×60cm 1枚"
     pricePerUnit: "約980円/枚"
     rating: 4.36
-    reviewCount: 1031
+    reviewCount: 1035
     features:
       - "マイクロファイバーとポリエステル混合"
       - "抗菌・防臭加工で清潔さを保つ"
@@ -100,6 +100,39 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/futoncolors_a979"
         available: true
   - rank: 4
+    name: "今治タオル レオン バスマット"
+    brand: "今治タオル"
+    price: 1970
+    capacity: "42×67cm 1枚"
+    pricePerUnit: "約1970円/枚"
+    rating: 4.61
+    reviewCount: 2114
+    features:
+      - "吸水・速乾性を重視したバスマット"
+      - "浴室前や洗面所に置きやすい形状"
+      - "洗えるタイプや珪藻土系など用途別に選びやすい"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r0pnn.3rdw6bf8.g00r0pnn.3rdw7fc4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcyberl2010%2F0215-0212-0101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcyberl2010%2Fi%2F10000622%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cyberl2010/cabinet/cartsale/lebm_18_3.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbroome%2F0215-0212-0101.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-29"
+        price: 2290
+        rating: 4.54
+        reviewCount: 286
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/broome_0215-0212-0101"
+        available: true
+  - rank: 5
     name: "バスマット 速乾 洗える【1秒吸収】"
     brand: "Latuna"
     price: 1999
@@ -123,39 +156,6 @@ products:
     recommendedFor: "吸水性を最優先したい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnrsn.3rdw6089.g00tnrsn.3rdw78e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flatuna%2F10000010-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flatuna%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/latuna/cabinet/items/bathmat/imgrc0161877803.jpg?_ex=128x128"
-  - rank: 5
-    name: "今治タオル レオン バスマット"
-    brand: "今治タオル"
-    price: 2290
-    capacity: "42×67cm 1枚"
-    pricePerUnit: "約2290円/枚"
-    rating: 4.61
-    reviewCount: 2114
-    features:
-      - "吸水・速乾性を重視したバスマット"
-      - "浴室前や洗面所に置きやすい形状"
-      - "洗えるタイプや珪藻土系など用途別に選びやすい"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r0pnn.3rdw6bf8.g00r0pnn.3rdw7fc4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcyberl2010%2F0215-0212-0101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcyberl2010%2Fi%2F10000622%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cyberl2010/cabinet/01635375/colormat300pix6.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbroome%2F0215-0212-0101.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-29"
-        price: 2290
-        rating: 4.54
-        reviewCount: 286
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/broome_0215-0212-0101"
-        available: true
   - rank: 6
     name: "乾度良好 Dナチュレ バスマット"
     brand: "乾度良好"
@@ -196,7 +196,7 @@ products:
     capacity: "1枚"
     pricePerUnit: "約7480円/枚"
     rating: 4.59
-    reviewCount: 29437
+    reviewCount: 29438
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -251,7 +251,7 @@ products:
     capacity: "60×40cm / 70×50cm"
     pricePerUnit: "円/枚"
     rating: 4.43
-    reviewCount: 2651
+    reviewCount: 2658
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

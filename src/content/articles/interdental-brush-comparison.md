@@ -4,7 +4,7 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 draft: false
 products:
   - rank: 1
@@ -162,13 +162,47 @@ products:
         rating: 0
         reviewCount: 1
   - rank: 6
+    name: "REACH リーチ／デンタルフロス 55ヤード(50.2m)×6個入り ワックス・ノ"
+    brand: "REACH"
+    price: 2298
+    capacity: "50.2m×6個（301.2m）"
+    pricePerUnit: "約7.6円/m"
+    rating: 4.68
+    reviewCount: 473
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F29860%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10002771%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shohin09/reach29860-sam.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F3008301set.html"
+        matchStatus: "review"
+        updatedAt: "2026-06-07"
+        price: 2392
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_3008301set"
+        available: false
+        rating: 4.2
+        reviewCount: 5
+        matchNotes: "capacity不一致: capacity不一致"
+  - rank: 7
     name: "オーラルケア フロアフロス 250m"
     brand: "オーラルケア"
     price: 3060
     capacity: "250m"
     pricePerUnit: "約12円/m"
     rating: 4.69
-    reviewCount: 517
+    reviewCount: 518
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -194,7 +228,7 @@ products:
         available: true
         rating: 4.77
         reviewCount: 369
-  - rank: 7
+  - rank: 8
     name: "オーラルケア フロアフロス 250m 歯科専売品 fluorfloss"
     brand: "楽天市場"
     price: 3210
@@ -227,14 +261,14 @@ products:
         available: true
         rating: 4.77
         reviewCount: 369
-  - rank: 8
+  - rank: 9
     name: "オーラルケア フロアフロス 45m 2個セット (メール便9点まで)"
     brand: "オーラルケア"
     price: 1595
     capacity: "45m×2個（90m）"
     pricePerUnit: "約18円/m"
     rating: 4.65
-    reviewCount: 1159
+    reviewCount: 1161
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -260,40 +294,6 @@ products:
         available: true
         rating: 4.72
         reviewCount: 170
-  - rank: 9
-    name: "REACH リーチ／デンタルフロス 55ヤード(50.2m)×6個入り ワックス・ノ"
-    brand: "REACH"
-    price: 2298
-    capacity: "50.2m×6個（301.2m）"
-    pricePerUnit: "約7.6円/m"
-    rating: 4.68
-    reviewCount: 472
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F29860%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10002771%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shohin09/reach29860-sam.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F3008301set.html"
-        matchStatus: "review"
-        updatedAt: "2026-06-07"
-        price: 2392
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_3008301set"
-        available: false
-        rating: 4.2
-        reviewCount: 5
-        matchNotes: "capacity不一致: capacity不一致"
 tags:
   - "歯間ブラシ おすすめ"
   - "歯間ブラシ コスパ"

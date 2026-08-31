@@ -4,7 +4,7 @@ description: "パンツ型おむつのBIGサイズを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "36枚×4袋"
     pricePerUnit: "約47円/枚"
     rating: 4.75
-    reviewCount: 84
+    reviewCount: 85
     features:
       - "汗による蒸れを逃がす設計"
       - "12〜22kgのビッグサイズ帯に対応"
@@ -120,9 +120,9 @@ products:
   - rank: 5
     name: "メリーズ エアスルー パンツ ビッグより大きいサイズ"
     brand: "花王（メリーズ）"
-    price: 5207
+    price: 4913
     capacity: "24枚×3袋"
-    pricePerUnit: "約72円/枚"
+    pricePerUnit: "約68円/枚"
     rating: 4.6
     reviewCount: 50
     features:

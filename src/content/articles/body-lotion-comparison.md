@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 draft: false
 products:
   - rank: 1
@@ -234,7 +234,7 @@ products:
     capacity: "350ml"
     pricePerUnit: "約8.8円/ml"
     rating: 4.75
-    reviewCount: 642
+    reviewCount: 643
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"
@@ -248,7 +248,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tds4n.3rdw67bf.g00tds4n.3rdw7dc8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuishodo-pharma%2F4987314009041%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuishodo-pharma%2Fi%2F10000040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suishodo-pharma/cabinet/mamafy/milkylotion/milky310310_thm-new.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suishodo-pharma/cabinet/mamafy/milkylotion/milky310310_thm-p10.jpg?_ex=128x128"
   - rank: 9
     name: "ベビーローション 乳液 大容量 300ml 保湿 無添加 オーガニック 赤ちゃん ベ"
     brand: "ベビーローション"

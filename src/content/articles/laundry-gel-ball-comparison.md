@@ -4,7 +4,7 @@ description: "ジェルボール洗剤を1個あたりのコストで比較し�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -12,8 +12,8 @@ products:
     price: 1986
     capacity: "83個"
     pricePerUnit: "約24円/個"
-    rating: 4.92
-    reviewCount: 13
+    rating: 4.93
+    reviewCount: 14
     features:
       - "洗浄・消臭・防菌・柔軟の4層構造ジェルボール"
       - "香りを抑えた微香タイプで衣類に匂いを残しにくい"
@@ -73,39 +73,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_2620600"
         available: true
   - rank: 3
-    name: "ボールド ジェルボール4D 華やかおひさまとプレミアムブロッサム 詰め替え"
-    brand: "P&G（ボールド）"
-    price: 2546
-    capacity: "70個"
-    pricePerUnit: "約36円/個"
-    rating: 4.7
-    reviewCount: 33
-    features:
-      - "洗剤と柔軟剤が一体になった4in1タイプ"
-      - "すすぎ1回に対応した濃縮処方"
-      - "花系の華やかな香りを長時間持続させる設計"
-    pros:
-      - "柔軟剤を別で買わずに済むぶん総額を抑えやすい"
-      - "すすぎ1回対応で洗濯1回あたりの時間と水を減らせる"
-      - "洗い上がりの香りが分かりやすく満足度が高い"
-    cons:
-      - "柔軟剤一体型なので香りの強さを自分で調整できない"
-      - "柔軟剤を別に使いたい人には向かない"
-    recommendedFor: "洗剤と柔軟剤を1つにまとめたい方・香り重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4987176131447%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10034914%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/11147956/11928062/2000000160665.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F2000000160665.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-26"
-        price: 1998
-        rating: 4.71
-        reviewCount: 7
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_2000000160665"
-        available: true
-  - rank: 4
     name: "ボールド 太陽のジェルボール4in1 ホワイトラベンダー＆ジャスミン 詰め替え テラジャンボ"
     brand: "P&G（ボールド）"
     price: 3150
@@ -138,7 +105,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176292759"
         available: true
-  - rank: 5
+  - rank: 4
     name: "アリエール ジェルボールプロ 部屋干し用 詰め替え"
     brand: "P&G（アリエール）"
     price: 2680
@@ -170,6 +137,39 @@ products:
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pentagram5_4987176315700-1"
+        available: true
+  - rank: 5
+    name: "ボールド ジェルボール4D 華やかおひさまとプレミアムブロッサム 詰め替え"
+    brand: "P&G（ボールド）"
+    price: 2746
+    capacity: "70個"
+    pricePerUnit: "約39円/個"
+    rating: 4.71
+    reviewCount: 34
+    features:
+      - "洗剤と柔軟剤が一体になった4in1タイプ"
+      - "すすぎ1回に対応した濃縮処方"
+      - "花系の華やかな香りを長時間持続させる設計"
+    pros:
+      - "柔軟剤を別で買わずに済むぶん総額を抑えやすい"
+      - "すすぎ1回対応で洗濯1回あたりの時間と水を減らせる"
+      - "洗い上がりの香りが分かりやすく満足度が高い"
+    cons:
+      - "柔軟剤一体型なので香りの強さを自分で調整できない"
+      - "柔軟剤を別に使いたい人には向かない"
+    recommendedFor: "洗剤と柔軟剤を1つにまとめたい方・香り重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4987176131447%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10034914%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/11147956/11928062/2000000160665.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F2000000160665.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-26"
+        price: 1998
+        rating: 4.71
+        reviewCount: 7
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_2000000160665"
         available: true
   - rank: 6
     name: "アリエール ジェルボール 部屋干し＆スポーツ 詰め替え テラジャンボ"

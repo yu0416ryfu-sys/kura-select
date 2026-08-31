@@ -4,7 +4,7 @@ description: "おむつ・生ゴミ用の防臭袋おすすめ10選をコスパ�
 category: "deodorizing-bag"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.78
-    reviewCount: 767
+    reviewCount: 769
     features:
       - "本来は食パン用のポリプロピレン製袋"
       - "厚みのあるPP素材で口を結んで密閉しやすい"
@@ -69,7 +69,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約6.6円/枚"
     rating: 4.52
-    reviewCount: 318
+    reviewCount: 320
     features:
       - "袋の口が広く作られた汎用タイプの防臭袋"
       - "おむつと生ゴミの両方を想定した仕様"
@@ -90,8 +90,8 @@ products:
     price: 1535
     capacity: "200枚"
     pricePerUnit: "約7.7円/枚"
-    rating: 4.86
-    reviewCount: 93
+    rating: 4.85
+    reviewCount: 94
     features:
       - "多層構造で防臭検査に合格した箱型パッケージ"
       - "据え置きで1枚ずつ取り出せる箱入り"
@@ -105,7 +105,7 @@ products:
       - "持ち歩き用途には向かない"
     recommendedFor: "おむつ替えスペースに据え置きで使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tostn.3rdw6d62.g00tostn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvalueprice%2Fdisposalbag%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvalueprice%2Fi%2F10000151%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/valueprice/cabinet/disposalbag/dis_main_g.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/valueprice/cabinet/disposalbag/dis_main_260831nf.jpg?_ex=128x128"
   - rank: 5
     name: "BOS 防臭袋 ストライプパッケージ SSサイズ"
     brand: "クリロン化成"
@@ -113,7 +113,7 @@ products:
     capacity: "200枚"
     pricePerUnit: "約8.1円/枚"
     rating: 4.85
-    reviewCount: 5596
+    reviewCount: 5597
     features:
       - "医療向け開発素材を使ったクリロン化成の防臭袋シリーズ"
       - "新生児のおむつやペットのうんちを想定した小さめサイズ"
@@ -212,7 +212,7 @@ products:
     capacity: "200枚"
     pricePerUnit: "約9.5円/枚"
     rating: 4.85
-    reviewCount: 3737
+    reviewCount: 3740
     features:
       - "SSサイズより一回り大きい標準サイズ"
       - "テープ型からパンツ型まで幅広いおむつサイズを想定した寸法"
@@ -278,7 +278,7 @@ products:
     capacity: "90枚"
     pricePerUnit: "約15円/枚"
     rating: 4.82
-    reviewCount: 1365
+    reviewCount: 1367
     features:
       - "赤ちゃんからペットまで幅広い用途を想定した中間サイズ"
       - "1枚に複数個まとめられる寸法"

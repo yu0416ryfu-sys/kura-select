@@ -4,7 +4,7 @@ description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あ�
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 draft: false
 products:
   - rank: 1
@@ -30,13 +30,46 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pwren.3rdw633f.g00pwren.3rdw7d2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdime%2F785692%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdime%2Fi%2F10008057%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dime/cabinet/04387001/imgrc0075072432.gif?_ex=128x128"
   - rank: 2
+    name: "クリームシャンプー Mee color 白髪染め"
+    brand: "Mee color（ミーカラー）"
+    price: 2739
+    capacity: "350g"
+    pricePerUnit: "約7.8円/g"
+    rating: 4.27
+    reviewCount: 2989
+    features:
+      - "洗いながら染めるクリームシャンプータイプ"
+      - "白髪染め・トリートメント機能を兼ねる"
+      - "オールインワン設計"
+    pros:
+      - "シャンプー感覚で白髪ケアを続けやすい"
+      - "トリートメントも兼ねて手間が少ない"
+      - "徐々に染めたい方に向く"
+    cons:
+      - "一度でしっかり染めたい用途には不向き"
+      - "色味の出方に個人差がある"
+    recommendedFor: "毎日のケアで少しずつ白髪を目立たなくしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s6b6n.3rdw6797.g00s6b6n.3rdw7ada/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fibiki-kenkyujyo%2Faz-711%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fibiki-kenkyujyo%2Fi%2F10000575%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ibiki-kenkyujyo/cabinet/08691637/711_260325_01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fibiki-kenkyujyo%2Faz711.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-22"
+        price: 5478
+        rating: 4.17
+        reviewCount: 1068
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ibiki-kenkyujyo_az711"
+        available: true
+  - rank: 3
     name: "ヘナ初回限定セット 100g×2袋特Aランクヘナプレゼント＆使用手順書付き白髪染め "
     brand: "楽天市場"
     price: 1580
     capacity: "100g×2袋"
     pricePerUnit: "約7.9円/g"
     rating: 4.42
-    reviewCount: 3154
+    reviewCount: 3156
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -51,7 +84,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s02cn.3rdw6b13.g00s02cn.3rdw7b73/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmahalohalo%2F10000044%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmahalohalo%2Fi%2F10000044%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mahalohalo/cabinet/itemimage/re_first_press.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "エムズハーブカラートリートメント彩 500g"
     brand: "スリアン"
     price: 6600
@@ -84,14 +117,14 @@ products:
         available: true
         rating: 4.92
         reviewCount: 48
-  - rank: 4
+  - rank: 5
     name: "白髪染め レフィーネ ヘッドスパ トリートメント カラー 300g 1本or2本セッ"
     brand: "白髪染め"
     price: 4380
     capacity: "300g"
     pricePerUnit: "約15円/g"
     rating: 4.04
-    reviewCount: 2691
+    reviewCount: 2693
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -117,14 +150,14 @@ products:
         available: true
         rating: 4.3
         reviewCount: 249
-  - rank: 5
+  - rank: 6
     name: "白髪染め シャンプー トリートメント KUROクリームシャンプー 400g 単品 バ"
     brand: "楽天市場"
     price: 5808
     capacity: "400g"
     pricePerUnit: "約15円/g"
     rating: 4.37
-    reviewCount: 8102
+    reviewCount: 8132
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -138,7 +171,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvonn.3rdw6ebb.g00pvonn.3rdw720c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008554%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005223%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/imgrc0109107396.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/imgrc0111152163.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -150,39 +183,6 @@ products:
         available: true
         rating: 4.41
         reviewCount: 1772
-  - rank: 6
-    name: "クリームシャンプー Mee color 白髪染め"
-    brand: "Mee color（ミーカラー）"
-    price: 5478
-    capacity: "350g"
-    pricePerUnit: "約16円/g"
-    rating: 4.26
-    reviewCount: 2982
-    features:
-      - "洗いながら染めるクリームシャンプータイプ"
-      - "白髪染め・トリートメント機能を兼ねる"
-      - "オールインワン設計"
-    pros:
-      - "シャンプー感覚で白髪ケアを続けやすい"
-      - "トリートメントも兼ねて手間が少ない"
-      - "徐々に染めたい方に向く"
-    cons:
-      - "一度でしっかり染めたい用途には不向き"
-      - "色味の出方に個人差がある"
-    recommendedFor: "毎日のケアで少しずつ白髪を目立たなくしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s6b6n.3rdw6797.g00s6b6n.3rdw7ada/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fibiki-kenkyujyo%2Faz-711%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fibiki-kenkyujyo%2Fi%2F10000575%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ibiki-kenkyujyo/cabinet/08691637/711_260325_01.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fibiki-kenkyujyo%2Faz711.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-22"
-        price: 5478
-        rating: 4.17
-        reviewCount: 1068
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ibiki-kenkyujyo_az711"
-        available: true
   - rank: 7
     name: "リーゼ 泡ヘアカラー 3個セット"
     brand: "花王（リーゼ）"
@@ -212,7 +212,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.5
-    reviewCount: 2619
+    reviewCount: 2632
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -226,7 +226,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvonn.3rdw6ebb.g00pvonn.3rdw720c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008571%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005224%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/imgrc0107462982.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/imgrc0111152352.jpg?_ex=128x128"
   - rank: 9
     name: "3個セット KUROクリームシャンプー (400g×3) 白髪染め シャンプー トリ"
     brand: "楽天市場"
@@ -234,7 +234,7 @@ products:
     capacity: "3個"
     pricePerUnit: "約5808円/個"
     rating: 4.52
-    reviewCount: 1694
+    reviewCount: 1696
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -248,7 +248,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvonn.3rdw6ebb.g00pvonn.3rdw720c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008572%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005225%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/imgrc0107462985.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/imgrc0111152353.jpg?_ex=128x128"
   - rank: 10
     name: "ヘアボーテエクラ ボタニカルエアカラーフォームEX 2本セット"
     brand: "フューチャーラボ（ヘアボーテエクラ）"

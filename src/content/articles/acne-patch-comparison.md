@@ -4,7 +4,7 @@ description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚�
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-08-31"
 draft: false
 products:
   - rank: 1
@@ -48,7 +48,7 @@ products:
     capacity: "144枚"
     pricePerUnit: "約14円/枚"
     rating: 4.68
-    reviewCount: 1012
+    reviewCount: 1014
     features:
       - "VT PRO CICAシリーズ 48枚入り×3個のまとめ買いセット"
       - "CICA配合ハイドロゲル素材で2サイズ使い分け可能"
@@ -108,39 +108,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdqzn.3rdw68dd.g00tdqzn.3rdw7223/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskindesign%2Fvt-pro-cica-patch02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskindesign%2Fi%2F10001832%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/skindesign/cabinet/cosme/vt/cica_patch/vt-spotpt-new002.jpg?_ex=128x128"
   - rank: 5
-    name: "アクネスラボ 集中ケアシート"
-    brand: "ネイチャーラボ（アクネスラボ）"
-    price: 506
-    capacity: "30枚"
-    pricePerUnit: "約17円/枚"
-    rating: 4.8
-    reviewCount: 5
-    features:
-      - "植物由来成分を配合した無添加処方のスポットパッチ"
-      - "低刺激設計で敏感肌にも使いやすい"
-      - "昼夜兼用で使用できる集中ケアタイプ"
-    pros:
-      - "無添加処方で肌への刺激を抑えたい方に向く"
-      - "男女問わず使いやすい設計"
-      - "ドラッグストア取扱ブランドで入手しやすい"
-    cons:
-      - "30枚と少量のため頻繁な補充が必要になりやすい"
-      - "ヒドロコロイドの厚みや密着感は使用して確認したい"
-    recommendedFor: "植物由来・無添加成分を重視してスポットパッチを選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2F4580173961293%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10004555%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08962044/imgrc0100583379.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580173961293.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-25"
-        price: 506
-        rating: 0
-        reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4580173961293"
-        available: true
-  - rank: 6
     name: "ゼロスポットパッチ 54枚"
     brand: "ゼロスポット"
     price: 932
@@ -173,12 +140,89 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4560461866660"
         available: true
+  - rank: 6
+    name: "ゼロスポットパッチ 54枚×2袋セット"
+    brand: "Today's Cosme"
+    price: 1850
+    capacity: "108枚"
+    pricePerUnit: "約17円/枚"
+    rating: 4.72
+    reviewCount: 93
+    features:
+      - "10mm×30枚・12mm×24枚の2サイズが1袋に入った構成"
+      - "ビタミンE・ビタミンC誘導体・ティーツリー配合"
+      - "2袋セットでまとめ買いができる商品"
+    pros:
+      - "2サイズ同梱でニキビの大きさに合わせて使い分けられる"
+      - "ビタミン系成分配合でシンプルなヒドロコロイドより付加成分を期待できる"
+      - "2袋まとめ買いで1袋あたりのコストを抑えやすい"
+    cons:
+      - "パッケージに色褪せ・汚れがある場合があるため外観を気にする方は注意"
+      - "Today's Cosmeブランドは流通量が限定的で入手しにくい場合がある"
+    recommendedFor: "ビタミン系成分配合タイプを試したい方・パッケージよりコスパを優先する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rsyun.3rdw6cbb.g00rsyun.3rdw739c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwberry%2Fpop-190328-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwberry%2Fi%2F10004458%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wberry/cabinet/03466372/03469001/07312173/zeropatch-01.jpg?_ex=128x128"
   - rank: 7
+    name: "アクネスラボ 集中ケアシート"
+    brand: "ネイチャーラボ（アクネスラボ）"
+    price: 550
+    capacity: "30枚"
+    pricePerUnit: "約18円/枚"
+    rating: 4.8
+    reviewCount: 5
+    features:
+      - "植物由来成分を配合した無添加処方のスポットパッチ"
+      - "低刺激設計で敏感肌にも使いやすい"
+      - "昼夜兼用で使用できる集中ケアタイプ"
+    pros:
+      - "無添加処方で肌への刺激を抑えたい方に向く"
+      - "男女問わず使いやすい設計"
+      - "ドラッグストア取扱ブランドで入手しやすい"
+    cons:
+      - "30枚と少量のため頻繁な補充が必要になりやすい"
+      - "ヒドロコロイドの厚みや密着感は使用して確認したい"
+    recommendedFor: "植物由来・無添加成分を重視してスポットパッチを選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxiin.3rdw647c.g00sxiin.3rdw7851/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturelab%2F4580173961293%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturelab%2Fi%2F10004555%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturelab/cabinet/naturelab/08868072/08962044/imgrc0100583379.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580173961293.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-25"
+        price: 506
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4580173961293"
+        available: true
+  - rank: 8
+    name: "VT PRO CICA クリアスポットパッチ 48枚"
+    brand: "VT Cosmetics"
+    price: 880
+    capacity: "48枚"
+    pricePerUnit: "約18円/枚"
+    rating: 4.51
+    reviewCount: 1498
+    features:
+      - "硬質ハイドロゲルを使用したスポットパッチ"
+      - "2サイズ（10mm・12mm）のパッチが1セットに入った構成"
+      - "CICA（ツボクサエキス）配合の集中ケア設計"
+    pros:
+      - "サイズ違い2種類が入っており、ニキビの大きさに合わせて使い分けられる"
+      - "透明で目立ちにくく、昼間の使用を意識した仕上がり"
+      - "VT PROシリーズの最小単位として試しやすい"
+    cons:
+      - "VT CICAシリーズより高機能設計のため単価は上がりやすい"
+      - "CICA成分に敏感な肌はパッチテストを推奨"
+    recommendedFor: "VT PROシリーズを初めて試したい方・サイズ使い分けを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdqzn.3rdw68dd.g00tdqzn.3rdw7223/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskindesign%2Fvt-pro-cica-patch%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskindesign%2Fi%2F10001694%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/skindesign/cabinet/cosme/vt/cica_patch/vt-spotpt-new00.jpg?_ex=128x128"
+  - rank: 9
     name: "アクネスラボ 夜用ポイントパッチ"
     brand: "ネイチャーラボ（アクネスラボ）"
-    price: 1001
+    price: 1078
     capacity: "60枚"
-    pricePerUnit: "約17円/枚"
+    pricePerUnit: "約18円/枚"
     rating: 4.14
     reviewCount: 73
     features:
@@ -206,50 +250,6 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4580173961811"
         available: true
-  - rank: 8
-    name: "ゼロスポットパッチ 54枚×2袋セット"
-    brand: "Today's Cosme"
-    price: 1850
-    capacity: "108枚"
-    pricePerUnit: "約17円/枚"
-    rating: 4.72
-    reviewCount: 93
-    features:
-      - "10mm×30枚・12mm×24枚の2サイズが1袋に入った構成"
-      - "ビタミンE・ビタミンC誘導体・ティーツリー配合"
-      - "2袋セットでまとめ買いができる商品"
-    pros:
-      - "2サイズ同梱でニキビの大きさに合わせて使い分けられる"
-      - "ビタミン系成分配合でシンプルなヒドロコロイドより付加成分を期待できる"
-      - "2袋まとめ買いで1袋あたりのコストを抑えやすい"
-    cons:
-      - "パッケージに色褪せ・汚れがある場合があるため外観を気にする方は注意"
-      - "Today's Cosmeブランドは流通量が限定的で入手しにくい場合がある"
-    recommendedFor: "ビタミン系成分配合タイプを試したい方・パッケージよりコスパを優先する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rsyun.3rdw6cbb.g00rsyun.3rdw739c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwberry%2Fpop-190328-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwberry%2Fi%2F10004458%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wberry/cabinet/03466372/03469001/07312173/zeropatch-01.jpg?_ex=128x128"
-  - rank: 9
-    name: "VT PRO CICA クリアスポットパッチ 48枚"
-    brand: "VT Cosmetics"
-    price: 880
-    capacity: "48枚"
-    pricePerUnit: "約18円/枚"
-    rating: 4.51
-    reviewCount: 1496
-    features:
-      - "硬質ハイドロゲルを使用したスポットパッチ"
-      - "2サイズ（10mm・12mm）のパッチが1セットに入った構成"
-      - "CICA（ツボクサエキス）配合の集中ケア設計"
-    pros:
-      - "サイズ違い2種類が入っており、ニキビの大きさに合わせて使い分けられる"
-      - "透明で目立ちにくく、昼間の使用を意識した仕上がり"
-      - "VT PROシリーズの最小単位として試しやすい"
-    cons:
-      - "VT CICAシリーズより高機能設計のため単価は上がりやすい"
-      - "CICA成分に敏感な肌はパッチテストを推奨"
-    recommendedFor: "VT PROシリーズを初めて試したい方・サイズ使い分けを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdqzn.3rdw68dd.g00tdqzn.3rdw7223/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskindesign%2Fvt-pro-cica-patch%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskindesign%2Fi%2F10001694%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/skindesign/cabinet/cosme/vt/cica_patch/vt-spotpt-new00.jpg?_ex=128x128"
   - rank: 10
     name: "VT CICA クリアスポットパッチ 48枚"
     brand: "VT Cosmetics"
