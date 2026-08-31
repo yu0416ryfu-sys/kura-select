@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29",
+  "updatedAt": "2026-08-31",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。人間・AI 双方の唯一の正はメモリ project_measurement_holds だが、",
     "機械判定（scripts/check-internal-links.mjs など）はこのファイルを読む。両者は必ず同時に更新する。",
@@ -9,35 +9,6 @@
     "区分A（update-products の price/rating 等の自動更新）は凍結対象外につきここには記帳しない（CLAUDE.md §5.0.3）。"
   ],
   "holds": [
-    {
-      "slugs": [
-        "hand-soap-comparison",
-        "body-soap-comparison",
-        "kitchen-paper-comparison",
-        "garbage-bag-comparison"
-      ],
-      "releaseDate": "2026-09-01",
-      "releaseLabel": "2026-08-31",
-      "targetType": "article",
-      "startedAt": "2026-08-07",
-      "measures": ["表示/日", "順位", "CTR"],
-      "actions": ["H2追加（garbage-bag は description のみ改稿）"],
-      "simultaneous": false,
-      "note": "GSC刈り取り Phase 1。body-soap は本文の price 違反2件を凍結明けまで触らない",
-      "source": "project_gsc_harvest_202608"
-    },
-    {
-      "slugs": ["bath-mold-preventer-comparison", "fabric-deodorizer-comparison"],
-      "releaseDate": "2026-09-01",
-      "releaseLabel": "2026-08-31",
-      "targetType": "article",
-      "startedAt": "2026-08-17",
-      "measures": ["表示/日", "順位"],
-      "actions": ["本文加筆（定型H2撤去）"],
-      "simultaneous": false,
-      "note": "AdSense是正 Phase B-1。同群の他17本は 08-25 に判定不能として前倒し解除済み。クリック実数では判定しない",
-      "source": "project_adsense_202608"
-    },
     {
       "slug": "laundry-bleach-comparison",
       "releaseDate": "2026-09-02",
