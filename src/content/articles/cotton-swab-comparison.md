@@ -4,7 +4,7 @@ description: "綿棒をコットン100%・紙軸・スパイラル・抗菌タ�
 category: "cotton-swab"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-08-22"
+updatedAt: "2026-09-01"
 draft: false
 products:
   - rank: 1
@@ -239,39 +239,6 @@ products:
         rating: 0
         reviewCount: 1
   - rank: 8
-    name: "スパイラル黒綿棒 紙軸 200本入×4個セット"
-    brand: "GALLEIDO"
-    price: 1430
-    capacity: "200本×4個（800本）"
-    pricePerUnit: "約1.8円/本"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "紙軸スパイラル形状の黒い綿棒、2WAYタイプ"
-      - "抗菌加工・折れにくい細め設計"
-      - "100本×8袋の業務用大容量セット"
-    pros:
-      - "800本の大容量でまとめ買いコスパを重視したい方に向く"
-      - "黒色なので汚れの状態が確認しやすい"
-      - "スパイラル形状でしっかり汚れをからめ取りやすい"
-    cons:
-      - "黒い綿棒に慣れていない場合は汚れの見え方が気になることがある"
-      - "大容量のため保管スペースが必要"
-    recommendedFor: "耳掃除・メイク直し・精密機器の掃除まで多用途に使いたい、まとめ買いでコスパを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00urinn.3rdw6454.g00urinn.3rdw7072/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakdailyselect%2Fknn108%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakdailyselect%2Fi%2F10002070%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/akdailyselect/cabinet/top1/12798036/12867086/knn108.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkintarou%2F4976558007630.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-08"
-        price: 658
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kintarou_4976558007630"
-        available: true
-  - rank: 9
     name: "綿棒 コットン100% 紙軸 お得2パックセット"
     brand: "わごんせる金橋"
     price: 880
@@ -304,7 +271,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-4973202501292"
         available: true
-  - rank: 10
+  - rank: 9
     name: "スパイラル黒綿棒 紙軸"
     brand: "平和メディク"
     price: 853
@@ -337,6 +304,39 @@ products:
         available: true
         rating: 4.58
         reviewCount: 12
+  - rank: 10
+    name: "スパイラル黒綿棒 紙軸 200本入×4個セット"
+    brand: "GALLEIDO"
+    price: 1430
+    capacity: "200本×4個（800本）"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "紙軸スパイラル形状の黒い綿棒、2WAYタイプ"
+      - "抗菌加工・折れにくい細め設計"
+      - "100本×8袋の業務用大容量セット"
+    pros:
+      - "800本の大容量でまとめ買いコスパを重視したい方に向く"
+      - "黒色なので汚れの状態が確認しやすい"
+      - "スパイラル形状でしっかり汚れをからめ取りやすい"
+    cons:
+      - "黒い綿棒に慣れていない場合は汚れの見え方が気になることがある"
+      - "大容量のため保管スペースが必要"
+    recommendedFor: "耳掃除・メイク直し・精密機器の掃除まで多用途に使いたい、まとめ買いでコスパを求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00urinn.3rdw6454.g00urinn.3rdw7072/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakdailyselect%2Fknn108%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakdailyselect%2Fi%2F10002070%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/akdailyselect/cabinet/top1/12798036/12867086/knn108.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkintarou%2F4976558007630.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-08"
+        price: 658
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kintarou_4976558007630"
+        available: true
+    priceMax: 2300
 tags:
   - "綿棒 おすすめ"
   - "綿棒 コスパ"

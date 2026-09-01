@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に8製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 draft: false
 products:
   - rank: 1
@@ -30,39 +30,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F7422941010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10373181%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000038/7422941010.jpg?_ex=128x128"
   - rank: 2
-    name: "CAROTE フライパン 26cm IH対応"
-    brand: "CAROTE"
-    price: 2998
-    capacity: "1個"
-    pricePerUnit: "約2998円/個"
-    rating: 4.5
-    reviewCount: 318
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4hdn.3rdw6bb7.g00u4hdn.3rdw753a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcookware-carote%2Fj02401%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcookware-carote%2Fi%2F10000023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cookware-carote/cabinet/12110183/12820150/0.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/wkj6918/"
-        matchStatus: "pending"
-        updatedAt: "2026-08-31"
-        price: 6180
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_wkj6918"
-        available: true
-  - rank: 3
     name: "アイリスオーヤマ ナチュかるフライパン IH対応 26cm"
     brand: "アイリスオーヤマ"
     price: 4228
@@ -84,7 +51,7 @@ products:
     recommendedFor: "軽く扱えるIH対応フライパンを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u87nn.3rdw6697.g00u87nn.3rdw7fe2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhandy%2Fir-4967576735117%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhandy%2Fi%2F10007929%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/handy/cabinet/image39/ir-4967576735117_1.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "サーモス セラプロテクト フライパン IH対応 26cm"
     brand: "サーモス"
     price: 4680
@@ -117,7 +84,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4562344407038"
         available: true
-  - rank: 5
+  - rank: 4
     name: "ティファール インジニオ・ネオ IHルージュ・アンリミテッド フライパン 26cm"
     brand: "ティファール"
     price: 6337
@@ -150,7 +117,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_3168430321212"
         available: true
-  - rank: 6
+  - rank: 5
     name: "CAST VARIUS 取っ手が外れるフライパン IH対応 26cm"
     brand: "CAST VARIUS"
     price: 6880
@@ -172,7 +139,7 @@ products:
     recommendedFor: "省スペース収納やオーブン活用を考える方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2hqn.3rdw6518.g00r2hqn.3rdw7197/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finterior-palette%2F479702%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finterior-palette%2Fi%2F10184108%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/interior-palette/cabinet/maker_hokua1/479702ip.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "ティファール IHハードチタニウム・アンリミテッド フライパン 26cm"
     brand: "ティファール"
     price: 7810
@@ -205,6 +172,39 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_3168430306424"
         available: true
+  - rank: 7
+    name: "CAROTE フライパン 26cm IH対応"
+    brand: "CAROTE"
+    price: 1998
+    capacity: "1個"
+    rating: 4.5
+    reviewCount: 318
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4hdn.3rdw6bb7.g00u4hdn.3rdw753a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcookware-carote%2Fj02401%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcookware-carote%2Fi%2F10000023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cookware-carote/cabinet/12110183/12820150/0.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/wkj6918/"
+        matchStatus: "pending"
+        updatedAt: "2026-08-31"
+        price: 6180
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_wkj6918"
+        available: true
+    priceMax: 4180
 tags:
   - "IH対応フライパン"
   - "フライパン 26cm"

@@ -9,8 +9,13 @@ import {
   getLowestVisibleOffer,
   type ProductOffer,
 } from "../../lib/offers";
-import { formatPriceOrConfirmation, isKnownPrice, shouldShowPricePerUnit } from "../../lib/price";
-import { calcPricePerUnit } from "../../lib/capacity";
+import {
+  formatPriceOrConfirmation,
+  formatPriceRange,
+  isKnownPrice,
+  resolveDisplayPricePerUnit,
+  shouldShowPricePerUnit,
+} from "../../lib/price";
 
 const linkProviders = getEnabledAffiliateProvidersFromEnv(import.meta.env);
 const priceProviders = getStaticAffiliateProvidersFromEnv(import.meta.env);
@@ -20,6 +25,8 @@ interface Product {
   name: string;
   brand: string;
   price: number;
+  /** 選択式出品の上限価格。あるとき price は最安構成を指す */
+  priceMax?: number;
   capacity: string;
   pricePerUnit?: string;
   rating?: number;
@@ -54,8 +61,13 @@ const isLowestOffer = (offer: ProductOffer) =>
 const priceSummary = getOfferPriceSummary(product, { enabledProviders: priceProviders });
 const displayPrice = priceSummary.lowestPrice ?? (isKnownPrice(product.price) ? product.price : null);
 // コスパ（単価）は最安サイトの価格 × capacity から表示時計算する
-const lowestPricePerUnit = displayPrice != null ? calcPricePerUnit(displayPrice, product.capacity, targetUnit) : null;
+// （楽天の価格帯商品は選択肢で価格が変わるため単価を出さない）
+const lowestProvider = priceSummary.lowestProvider ?? "rakuten";
+const lowestPricePerUnit = resolveDisplayPricePerUnit(product, displayPrice, targetUnit, lowestProvider);
 const showPricePerUnit = shouldShowPricePerUnit(displayPrice, lowestPricePerUnit);
+const displayPriceLabel =
+  (lowestProvider === "rakuten" ? formatPriceRange(product) : null) ??
+  formatPriceOrConfirmation(displayPrice);
 ---
 
 <div class="bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200 rounded-xl p-4 md:p-5 mb-8 shadow-sm">
@@ -84,7 +96,7 @@ const showPricePerUnit = shouldShowPricePerUnit(displayPrice, lowestPricePerUnit
         {product.name}
       </h2>
       <div class="flex items-center gap-3 mt-1.5 flex-wrap">
-        <span class="text-lg font-bold text-[var(--color-text)]">{formatPriceOrConfirmation(displayPrice)}</span>
+        <span class="text-lg font-bold text-[var(--color-text)]">{displayPriceLabel}</span>
         {priceSummary.priceRows.length >= 2 && priceSummary.priceDifferenceLabel && (
           <span class="text-xs text-sky-600">{priceSummary.priceDifferenceLabel}</span>
         )}

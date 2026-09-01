@@ -112,6 +112,10 @@ export interface ProductUpdates {
   affiliateUrl: string | null;
   imageUrl: string | null;
   pricePerUnit?: string | null;
+  /** 選択式出品の上限価格。number なら書き込み、null は更新しない */
+  priceMax?: number | null;
+  /** true なら priceMax のキーごと削除する（通常商品に戻ったとき） */
+  clearVariantPrice?: boolean;
   newName?: string;     // name フィールドを置き換え（検索キーワード兼用）
   newCapacity?: string; // capacity フィールドを置き換え
 }
@@ -139,6 +143,13 @@ export function updateProductInFrontmatter(
   if (updates.affiliateUrl)          product.rakutenUrl = updates.affiliateUrl;
   if (updates.imageUrl)              product.imageUrl = updates.imageUrl;
   if (updates.pricePerUnit != null)  product.pricePerUnit = updates.pricePerUnit;
+  if (updates.priceMax != null) {
+    product.priceMax = updates.priceMax;
+    delete product.pricePerUnit;   // 価格帯商品は単価を持たない
+  }
+  if (updates.clearVariantPrice) {
+    delete product.priceMax;
+  }
   if (updates.newName)               product.name = updates.newName;
   if (updates.newCapacity)           product.capacity = updates.newCapacity;
 
@@ -149,6 +160,8 @@ export interface ProductSnapshot {
   rank: number;
   name: string;
   price: number | null;
+  /** 選択式出品の上限価格。通常商品は null */
+  priceMax: number | null;
   rating: number | null;
   reviewCount: number | null;
   rakutenUrl: string | null;
@@ -169,6 +182,7 @@ export function extractProductSnapshot(content: string, productName: string): Pr
     rank: typeof product.rank === 'number' ? product.rank : 0,
     name: typeof product.name === 'string' ? product.name : '',
     price: typeof product.price === 'number' ? product.price : null,
+    priceMax: typeof product.priceMax === 'number' ? product.priceMax : null,
     rating: typeof product.rating === 'number' ? product.rating : null,
     reviewCount: typeof product.reviewCount === 'number' ? product.reviewCount : null,
     rakutenUrl: typeof product.rakutenUrl === 'string' ? product.rakutenUrl : null,
@@ -193,6 +207,7 @@ export function extractProductSnapshotByRank(content: string, rank: number): Pro
     rank: typeof product.rank === 'number' ? product.rank : 0,
     name: typeof product.name === 'string' ? product.name : '',
     price: typeof product.price === 'number' ? product.price : null,
+    priceMax: typeof product.priceMax === 'number' ? product.priceMax : null,
     rating: typeof product.rating === 'number' ? product.rating : null,
     reviewCount: typeof product.reviewCount === 'number' ? product.reviewCount : null,
     rakutenUrl: typeof product.rakutenUrl === 'string' ? product.rakutenUrl : null,
@@ -260,6 +275,13 @@ export function updateProductInFrontmatterByRank(
   if (updates.affiliateUrl)          product.rakutenUrl = updates.affiliateUrl;
   if (updates.imageUrl)              product.imageUrl = updates.imageUrl;
   if (updates.pricePerUnit != null)  product.pricePerUnit = updates.pricePerUnit;
+  if (updates.priceMax != null) {
+    product.priceMax = updates.priceMax;
+    delete product.pricePerUnit;   // 価格帯商品は単価を持たない
+  }
+  if (updates.clearVariantPrice) {
+    delete product.priceMax;
+  }
   if (updates.newName)               product.name = updates.newName;
   if (updates.newCapacity)           product.capacity = updates.newCapacity;
 
@@ -1408,6 +1430,7 @@ export function syncPricePerUnitWithPolicy(
       rank: typeof product.rank === 'number' ? product.rank : 0,
       name: name ?? '',
       price: typeof product.price === 'number' ? product.price : null,
+      priceMax: typeof product.priceMax === 'number' ? product.priceMax : null,
       rating: typeof product.rating === 'number' ? product.rating : null,
       reviewCount: typeof product.reviewCount === 'number' ? product.reviewCount : null,
       rakutenUrl: typeof product.rakutenUrl === 'string' ? product.rakutenUrl : null,

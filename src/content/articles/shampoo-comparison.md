@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
     name: "ザクロー精炭酸シャンプー 詰替用"
@@ -93,7 +93,7 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s57rn.3rdw600e.g00s57rn.3rdw7060/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finksc%2Fshampoo_d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finksc%2Fi%2F10000367%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/n_shampoo.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/ss_shampoo.jpg?_ex=128x128"
   - rank: 4
     name: "ケフトル スカルプシャンプー"
     brand: "ケフトル"
@@ -194,11 +194,32 @@ products:
         rating: 4.45
         reviewCount: 11
   - rank: 7
+    name: "スカルプD モーニング 炭酸シャンプー"
+    brand: "スカルプD"
+    price: 2546
+    capacity: "1本"
+    pricePerUnit: "約2546円/本"
+    rating: 4.63
+    reviewCount: 470
+    features:
+      - "頭皮や髪のケアに使えるシャンプー"
+      - "容量や仕上がりで選びやすい"
+      - "メンズ・スカルプ系も比較しやすい"
+    pros:
+      - "毎日のヘアケアに使いやすい"
+      - "悩みに合わせて選べる"
+      - "容量比較がしやすい"
+    cons:
+      - "髪質や頭皮との相性確認が必要"
+      - "香りや洗い上がりの好みは分かれる"
+    recommendedFor: "シャンプーを容量とケア目的で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ps33n.3rdw647e.g00ps33n.3rdw7e95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Fmorning%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fangfa%2Fi%2F10005009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/angfa/cabinet/2019/item/new_logo/morning_n.jpg?_ex=128x128"
+  - rank: 8
     name: "ケラスターゼ バン デンシフィック"
     brand: "ケラスターゼ"
     price: 4180
     capacity: "250ml"
-    pricePerUnit: "約17円/mL"
     rating: 4.66
     reviewCount: 307
     features:
@@ -226,34 +247,12 @@ products:
         available: true
         rating: 4.61
         reviewCount: 18
-  - rank: 8
-    name: "スカルプD モーニング 炭酸シャンプー"
-    brand: "スカルプD"
-    price: 2546
-    capacity: "1本"
-    pricePerUnit: "約2546円/本"
-    rating: 4.63
-    reviewCount: 470
-    features:
-      - "頭皮や髪のケアに使えるシャンプー"
-      - "容量や仕上がりで選びやすい"
-      - "メンズ・スカルプ系も比較しやすい"
-    pros:
-      - "毎日のヘアケアに使いやすい"
-      - "悩みに合わせて選べる"
-      - "容量比較がしやすい"
-    cons:
-      - "髪質や頭皮との相性確認が必要"
-      - "香りや洗い上がりの好みは分かれる"
-    recommendedFor: "シャンプーを容量とケア目的で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ps33n.3rdw647e.g00ps33n.3rdw7e95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Fmorning%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fangfa%2Fi%2F10005009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/angfa/cabinet/2019/item/new_logo/morning_n.jpg?_ex=128x128"
+    priceMax: 7480
   - rank: 9
     name: "ニューモ ヴァクトリー スカルプシャンプー"
     brand: "ニューモ"
     price: 4970
     capacity: "1本"
-    pricePerUnit: "約4970円/本"
     rating: 4.4
     reviewCount: 528
     features:
@@ -270,6 +269,7 @@ products:
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u11ln.3rdw6478.g00u11ln.3rdw7413/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftamago-kichi%2Fnewmovactory%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftamago-kichi%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tamago-kichi/cabinet/thumb/newmovactory04-06.jpg?_ex=128x128"
+    priceMax: 23865
 tags:
   - "シャンプー"
   - "コスパ"

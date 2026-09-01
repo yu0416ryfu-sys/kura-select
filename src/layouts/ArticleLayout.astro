@@ -19,9 +19,17 @@ import {
   sortOffersByPriceForDisplay,
   getLowestVisibleOffer,
   getRakutenRating,
+  type OfferProvider,
 } from "../lib/offers";
-import { formatPriceOrConfirmation, isKnownPrice, shouldShowPricePerUnit } from "../lib/price";
-import { calcPricePerUnit, getArticleTargetUnit } from "../lib/capacity";
+import {
+  formatPriceOrConfirmation,
+  formatPriceRange,
+  isKnownPrice,
+  isVariantPricedProduct,
+  resolveDisplayPricePerUnit,
+  shouldShowPricePerUnit,
+} from "../lib/price";
+import { getArticleTargetUnit } from "../lib/capacity";
 import { SITE, url } from "../lib/site";
 import type { CollectionEntry } from "astro:content";
 import type { MarkdownHeading } from "astro";
@@ -181,17 +189,34 @@ const serviceJsonLds = services.map((s) => ({
   },
 }));
 
+// Offer / AggregateOffer 共通プロパティ（AggregateOffer は Offer のサブタイプで継承する）
+const JSON_LD_OFFER_COMMON = {
+  availability: "https://schema.org/InStock",
+  shippingDetails: {
+    "@type": "OfferShippingDetails",
+    shippingDestination: {
+      "@type": "DefinedRegion",
+      addressCountry: "JP",
+    },
+  },
+  hasMerchantReturnPolicy: {
+    "@type": "MerchantReturnPolicy",
+    applicableCountry: "JP",
+    returnPolicyCategory: "https://schema.org/MerchantReturnNotPermitted",
+  },
+};
+
 // JSON-LD は楽天・Yahoo のみ（Amazon は 24h 鮮度を SSG で保証できないため除外）
 const productJsonLds = products
   .filter((p) => p.rating !== undefined)
   .map((p) => {
-    let jsonLdOffer: { price: number; url: string } | null = null;
+    let jsonLdOffer: { price: number; url: string; provider: OfferProvider } | null = null;
     const lowest = getLowestOffer(p, { enabledProviders: jsonLdProviders });
-    if (lowest) jsonLdOffer = { price: lowest.price, url: lowest.url };
+    if (lowest) jsonLdOffer = { price: lowest.price, url: lowest.url, provider: lowest.provider };
     if (!jsonLdOffer) {
       const rakuten = getRakutenFallbackOffer(p);
       if (rakuten && typeof rakuten.price === "number" && rakuten.price > 0) {
-        jsonLdOffer = { price: rakuten.price, url: rakuten.url };
+        jsonLdOffer = { price: rakuten.price, url: rakuten.url, provider: rakuten.provider };
       }
     }
     return { product: p, jsonLdOffer };
@@ -204,25 +229,25 @@ const productJsonLds = products
     description: `${p.brand}の${p.name}。${p.capacity}。${p.recommendedFor}`,
     brand: { "@type": "Brand", name: p.brand },
     image: p.imageUrl || `${SITE.url}${SITE.ogImage}`,
-    offers: {
-      "@type": "Offer",
-      priceCurrency: "JPY",
-      price: jsonLdOffer!.price,
-      url: jsonLdOffer!.url,
-      availability: "https://schema.org/InStock",
-      shippingDetails: {
-        "@type": "OfferShippingDetails",
-        shippingDestination: {
-          "@type": "DefinedRegion",
-          addressCountry: "JP",
+    // 楽天の価格帯商品は単一 Offer だと「実際に買えない価格」を宣言することになるため
+    // AggregateOffer（lowPrice〜highPrice）で出す。採用 offer が楽天のときだけ切り替える
+    offers: jsonLdOffer!.provider === "rakuten" && isVariantPricedProduct(p)
+      ? {
+          "@type": "AggregateOffer",
+          priceCurrency: "JPY",
+          lowPrice: p.price,
+          highPrice: p.priceMax,
+          offerCount: 1,
+          url: jsonLdOffer!.url,
+          ...JSON_LD_OFFER_COMMON,
+        }
+      : {
+          "@type": "Offer",
+          priceCurrency: "JPY",
+          price: jsonLdOffer!.price,
+          url: jsonLdOffer!.url,
+          ...JSON_LD_OFFER_COMMON,
         },
-      },
-      hasMerchantReturnPolicy: {
-        "@type": "MerchantReturnPolicy",
-        applicableCountry: "JP",
-        returnPolicyCategory: "https://schema.org/MerchantReturnNotPermitted",
-      },
-    },
     aggregateRating: (() => {
       const r = getRakutenRating(p);
       return r
@@ -413,17 +438,22 @@ const productJsonLds = products
           const topSummary = getOfferPriceSummary(top, { enabledProviders: priceProviders });
           const topDisplayPrice = topSummary.lowestPrice ?? (isKnownPrice(top.price) ? top.price : null);
           // コスパ（単価）は最安サイトの価格 × capacity から表示時計算する
-          const topLowestPricePerUnit = topDisplayPrice != null ? calcPricePerUnit(topDisplayPrice, top.capacity, targetUnit) : null;
+          // （楽天の価格帯商品は選択肢で価格が変わるため単価を出さない）
+          const topLowestProvider = topSummary.lowestProvider ?? "rakuten";
+          const topLowestPricePerUnit = resolveDisplayPricePerUnit(top, topDisplayPrice, targetUnit, topLowestProvider);
           const topPricePerUnitText =
             shouldShowPricePerUnit(topDisplayPrice, topLowestPricePerUnit)
               ? `　${topLowestPricePerUnit}`
               : "";
+          const topDisplayPriceLabel =
+            (topLowestProvider === "rakuten" ? formatPriceRange(top) : null) ??
+            formatPriceOrConfirmation(topDisplayPrice);
           return (
             <div class="mt-8 p-4 md:p-5 bg-sky-50 border border-sky-200 rounded-xl flex flex-col sm:flex-row items-start sm:items-center gap-4">
               <div class="flex-1 min-w-0">
                 <p class="text-xs font-semibold text-sky-600 mb-1">{isComparison ? "この記事の結論" : "紹介商品"}</p>
                 <p class="font-bold text-[var(--color-text)] text-sm leading-snug line-clamp-2">{top.name}</p>
-                <p class="text-sm text-[var(--color-text-sub)] mt-0.5">{formatPriceOrConfirmation(topDisplayPrice)}{topPricePerUnitText}</p>
+                <p class="text-sm text-[var(--color-text-sub)] mt-0.5">{topDisplayPriceLabel}{topPricePerUnitText}</p>
                 {topSummary.priceDifferenceLabel && (
                   <p class="text-xs text-sky-600 mt-0.5">{topSummary.priceDifferenceLabel}</p>
                 )}

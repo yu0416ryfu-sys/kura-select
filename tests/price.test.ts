@@ -5,7 +5,12 @@ import {
   formatPriceOrConfirmation,
   pricePerUnitSortValue,
   shouldShowPricePerUnit,
+  isVariantPricedProduct,
+  formatPriceRange,
+  resolveDisplayPricePerUnit,
+  resolveComparablePrice,
 } from "../src/lib/price";
+import { calcPricePerUnit } from "../src/lib/capacity";
 
 describe("price helper", () => {
   it("有効価格を円表記にする", () => {
@@ -52,5 +57,46 @@ describe("price helper", () => {
     // 単価の安い yahooLowest が昇順で前に来る
     expect(comparePricePerUnit(yahooLowest, rakutenLowest, "asc")).toBeLessThan(0);
     expect(comparePricePerUnit(yahooLowest, rakutenLowest, "desc")).toBeGreaterThan(0);
+  });
+});
+
+describe("価格帯（選択式）商品", () => {
+  const variant = { price: 1080, priceMax: 21980, capacity: "500mL" };
+  const normal = { price: 1080, capacity: "500mL" };
+
+  it("priceMax > price のときだけ価格帯商品と判定する", () => {
+    expect(isVariantPricedProduct(variant)).toBe(true);
+    expect(isVariantPricedProduct(normal)).toBe(false);
+    expect(isVariantPricedProduct({ price: 1080, priceMax: 1080 })).toBe(false);
+    expect(isVariantPricedProduct({ price: 1080, priceMax: 0 })).toBe(false);
+    expect(isVariantPricedProduct({ price: 1080, priceMax: null })).toBe(false);
+    expect(isVariantPricedProduct({ price: null, priceMax: 21980 })).toBe(false);
+  });
+
+  it("帯ラベルを桁区切りで組み立てる", () => {
+    expect(formatPriceRange(variant)).toBe("¥1,080〜¥21,980");
+    expect(formatPriceRange(normal)).toBeNull();
+  });
+
+  it("楽天の価格帯商品は単価を出さない", () => {
+    expect(resolveDisplayPricePerUnit(variant, 1080, undefined, "rakuten")).toBeNull();
+  });
+
+  it("Yahoo / Amazon は固定価格なので単価を出し続ける", () => {
+    expect(resolveDisplayPricePerUnit(variant, 1080, undefined, "yahoo"))
+      .toBe(calcPricePerUnit(1080, "500mL"));
+    expect(resolveDisplayPricePerUnit(variant, 1080, undefined, "amazon"))
+      .toBe(calcPricePerUnit(1080, "500mL"));
+  });
+
+  it("通常商品は calcPricePerUnit と一致する", () => {
+    expect(resolveDisplayPricePerUnit(normal, 1080)).toBe(calcPricePerUnit(1080, "500mL"));
+    expect(resolveDisplayPricePerUnit(normal, null)).toBeNull();
+  });
+
+  it("安い順の比較値は楽天由来のときだけ priceMax に差し替える", () => {
+    expect(resolveComparablePrice(variant, 1080, "rakuten")).toBe(21980);
+    expect(resolveComparablePrice(variant, 980, "yahoo")).toBe(980);
+    expect(resolveComparablePrice(normal, 1080, "rakuten")).toBe(1080);
   });
 });

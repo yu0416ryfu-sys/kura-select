@@ -36,7 +36,7 @@ products:
     capacity: "350g"
     pricePerUnit: "約7.8円/g"
     rating: 4.27
-    reviewCount: 2990
+    reviewCount: 2994
     features:
       - "洗いながら染めるクリームシャンプータイプ"
       - "白髪染め・トリートメント機能を兼ねる"
@@ -118,46 +118,13 @@ products:
         rating: 4.92
         reviewCount: 48
   - rank: 5
-    name: "白髪染め レフィーネ ヘッドスパ トリートメント カラー 300g 1本or2本セッ"
-    brand: "白髪染め"
-    price: 4380
-    capacity: "300g"
-    pricePerUnit: "約15円/g"
-    rating: 4.04
-    reviewCount: 2693
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q7o0n.3rdw64e7.g00q7o0n.3rdw7976/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgardenia%2Fhsrfl_001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgardenia%2Fi%2F10000696%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gardenia/cabinet/07477010/07488588/hs_f/1200_0702_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsvenson%2Fhsrfl.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-22"
-        price: 7700
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/svenson_hsrfl"
-        available: true
-        rating: 4.3
-        reviewCount: 249
-  - rank: 6
     name: "白髪染め シャンプー トリートメント KUROクリームシャンプー 400g 単品 バ"
     brand: "楽天市場"
     price: 5808
     capacity: "400g"
     pricePerUnit: "約15円/g"
     rating: 4.37
-    reviewCount: 8135
+    reviewCount: 8138
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -183,7 +150,7 @@ products:
         available: true
         rating: 4.41
         reviewCount: 1772
-  - rank: 7
+  - rank: 6
     name: "リーゼ 泡ヘアカラー 3個セット"
     brand: "花王（リーゼ）"
     price: 2904
@@ -205,14 +172,14 @@ products:
     recommendedFor: "セルフカラー初心者・定番ブランドで手軽に白髪ケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rirmn.3rdw6865.g00rirmn.3rdw7be3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakarie%2F7279161%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakarie%2Fi%2F10170268%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/akarie/cabinet/tasya120/7279161-e.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "2個セット KUROクリームシャンプー (400g×2) 白髪染め シャンプー トリ"
     brand: "2個セット"
     price: 11616
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.5
-    reviewCount: 2633
+    reviewCount: 2634
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -227,14 +194,14 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvonn.3rdw6ebb.g00pvonn.3rdw720c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008571%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005224%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/imgrc0111152352.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "3個セット KUROクリームシャンプー (400g×3) 白髪染め シャンプー トリ"
     brand: "楽天市場"
     price: 17424
     capacity: "3個"
     pricePerUnit: "約5808円/個"
     rating: 4.52
-    reviewCount: 1696
+    reviewCount: 1697
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -249,7 +216,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvonn.3rdw6ebb.g00pvonn.3rdw720c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008572%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005225%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/imgrc0111152353.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "ヘアボーテエクラ ボタニカルエアカラーフォームEX 2本セット"
     brand: "フューチャーラボ（ヘアボーテエクラ）"
     price: 11000
@@ -271,6 +238,39 @@ products:
     recommendedFor: "髪や頭皮へのダメージを抑えながら白髪をカバーしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rso1n.3rdw62e6.g00rso1n.3rdw78e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkirei-mitsuketa%2Fshb_0002132%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkirei-mitsuketa%2Fi%2F10016287%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kirei-mitsuketa/cabinet/hb_22/shb_0002132_1.jpg?_ex=128x128"
+  - rank: 10
+    name: "白髪染め レフィーネ ヘッドスパ トリートメント カラー 300g 1本or2本セッ"
+    brand: "白髪染め"
+    price: 4380
+    capacity: "300g"
+    rating: 4.04
+    reviewCount: 2695
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q7o0n.3rdw64e7.g00q7o0n.3rdw7976/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgardenia%2Fhsrfl_001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgardenia%2Fi%2F10000696%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gardenia/cabinet/07477010/07488588/hs_f/1200_0702_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsvenson%2Fhsrfl.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-22"
+        price: 7700
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/svenson_hsrfl"
+        available: true
+        rating: 4.3
+        reviewCount: 249
+    priceMax: 7700
 tags:
   - "白髪染め おすすめ"
   - "白髪染め コスパ"

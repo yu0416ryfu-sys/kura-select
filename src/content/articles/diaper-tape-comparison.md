@@ -4,7 +4,7 @@ description: "紙おむつを新生児用、Sサイズ、Mサイズ、BIG以上�
 category: "diaper"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
     name: "ムーニー テープ S マシュマロ肌ごこち"
@@ -77,7 +77,6 @@ products:
     brand: "Pampers"
     price: 5500
     capacity: "新生児144枚/S132枚/M132枚"
-    pricePerUnit: "約38.2円/枚"
     rating: 4.56
     reviewCount: 32
     features:
@@ -94,12 +93,12 @@ products:
     recommendedFor: "乳幼児向けのテープ型おむつをサイズ別に比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2Fck00002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000150%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/187811354738718.jpg?_ex=128x128"
+    priceMax: 6050
   - rank: 4
     name: "パンパース テープ はじめての肌へのいちばん"
     brand: "Pampers"
-    price: 5550
+    price: 5380
     capacity: "新生児144枚/S132枚/M116枚"
-    pricePerUnit: "約38.5円/枚"
     rating: 4.86
     reviewCount: 22
     features:
@@ -116,6 +115,7 @@ products:
     recommendedFor: "乳幼児向けのテープ型おむつをサイズ別に比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uj4hn.3rdw623e.g00uj4hn.3rdw7baf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faguichant-shop%2Fcsc-018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faguichant-shop%2Fi%2F10000058%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aguichant-shop/cabinet/10892317/imgrc0116430911.jpg?_ex=128x128"
+    priceMax: 5650
 tags:
   - "紙おむつ おすすめ"
   - "紙おむつ コスパ"

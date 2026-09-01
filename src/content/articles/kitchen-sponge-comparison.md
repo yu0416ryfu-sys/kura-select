@@ -4,31 +4,9 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
-    name: "セルロース製 食器洗いスポンジ 6個パック SDGs プラスチックフリー"
-    brand: "生活創造舎"
-    price: 870
-    capacity: "6個"
-    pricePerUnit: "約145円/個"
-    rating: 4.55
-    reviewCount: 180
-    features:
-      - "天然セルロース素材でプラスチックフリーの環境配慮設計"
-      - "吸水性が高く使用後の乾きが速い"
-      - "115×70×15mmの使いやすい標準サイズ"
-    pros:
-      - "天然素材で環境への負荷を抑えながら使える"
-      - "速乾性が高く雑菌が繁殖しにくい衛生的な設計"
-      - "6個入りでまとめ買いによるコスト節約が可能"
-    cons:
-      - "研磨力が弱いため頑固な焦げ付きには不向き"
-      - "価格はページ確認が必要"
-    recommendedFor: "環境配慮型の暮らしを目指す方・速乾性を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzban.3rdw6bb0.g00pzban.3rdw70cd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsozolife%2Fserulousu-2p-white%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsozolife%2Fi%2F10000102%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sozolife/cabinet/kitchen-sponge/imgrc0095339799.jpg?_ex=128x128"
-  - rank: 2
     name: "ダスキン 台所用スポンジ 抗菌タイプ 6個セット"
     brand: "ダスキン"
     price: 1060
@@ -61,14 +39,14 @@ products:
         reviewCount: 502
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dusdus_dssmn6"
         available: true
-  - rank: 3
+  - rank: 2
     name: "ダスキン台所用スポンジ ハードタイプ モノトーン 6個セット"
     brand: "ダスキン"
     price: 1100
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.76
-    reviewCount: 1389
+    reviewCount: 1390
     features:
       - "ポリウレタンフォーム＋ナイロン不織布＋ポリエステルの3素材構造"
       - "ブラック・グレー・ホワイトのモノトーン3色展開"
@@ -83,7 +61,7 @@ products:
     recommendedFor: "キッチンの見た目にこだわる方・硬い汚れを落としたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sc6bn.3rdw6db2.g00sc6bn.3rdw709a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnactasukaru%2F10035%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnactasukaru%2Fi%2F10000055%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nactasukaru/cabinet/item_img/10035_new_b.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "【お試し・初回購入限定】太陽油脂　パックスナチュロン　キッチンスポンジ"
     brand: "太陽油脂（パックスナチュロン）"
     price: 199
@@ -116,7 +94,7 @@ products:
         available: true
         rating: 4.33
         reviewCount: 9
-  - rank: 5
+  - rank: 4
     name: "ダスキン 台所用スポンジ ハードタイプ カラー 6個セット"
     brand: "ダスキン"
     price: 1260
@@ -149,7 +127,7 @@ products:
         reviewCount: 249
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/duskin100504_03115400"
         available: true
-  - rank: 6
+  - rank: 5
     name: "パックスナチュロン キッチンスポンジ"
     brand: "パックスナチュロン（PAX NATURON）"
     price: 2480
@@ -182,7 +160,7 @@ products:
         reviewCount: 91
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/vape-land_jj220125-1056"
         available: true
-  - rank: 7
+  - rank: 6
     name: "LA CORVETTE ベジタブルスポンジ 3個入り"
     brand: "LA CORVETTE"
     price: 880
@@ -215,7 +193,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 8
+  - rank: 7
     name: "マーナ おさかなスポンジ 選べる5個セット"
     brand: "MARNA（マーナ）"
     price: 1540
@@ -248,7 +226,7 @@ products:
         available: true
         rating: 4.65
         reviewCount: 20
-  - rank: 9
+  - rank: 8
     name: "サンサンスポンジ 8個セット"
     brand: "ダイニチ"
     price: 3073
@@ -281,6 +259,28 @@ products:
         reviewCount: 261
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sunsunsponge_tss08b"
         available: true
+  - rank: 9
+    name: "セルロース製 食器洗いスポンジ 6個パック SDGs プラスチックフリー"
+    brand: "生活創造舎"
+    price: 870
+    capacity: "6個"
+    rating: 4.55
+    reviewCount: 180
+    features:
+      - "天然セルロース素材でプラスチックフリーの環境配慮設計"
+      - "吸水性が高く使用後の乾きが速い"
+      - "115×70×15mmの使いやすい標準サイズ"
+    pros:
+      - "天然素材で環境への負荷を抑えながら使える"
+      - "速乾性が高く雑菌が繁殖しにくい衛生的な設計"
+      - "6個入りでまとめ買いによるコスト節約が可能"
+    cons:
+      - "研磨力が弱いため頑固な焦げ付きには不向き"
+      - "価格はページ確認が必要"
+    recommendedFor: "環境配慮型の暮らしを目指す方・速乾性を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzban.3rdw6bb0.g00pzban.3rdw70cd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsozolife%2Fserulousu-2p-white%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsozolife%2Fi%2F10000102%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sozolife/cabinet/kitchen-sponge/imgrc0095339799.jpg?_ex=128x128"
+    priceMax: 3200
 tags:
   - "スポンジ"
   - "コスパ"

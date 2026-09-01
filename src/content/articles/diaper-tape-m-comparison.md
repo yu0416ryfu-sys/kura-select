@@ -4,36 +4,14 @@ description: "Mサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
-    name: "グーンプラス 肌の贅沢 テープ Mサイズ 4個セット"
-    brand: "GOO.N（大王製紙）"
-    price: 6980
-    capacity: "52枚×4個（208枚）"
-    pricePerUnit: "約34円/枚"
-    rating: 4.33
-    reviewCount: 3
-    features:
-      - "保湿成分配合で肌への負担を軽減する設計"
-      - "吸収体エンボスで肌あたりをやわらかく保つ"
-      - "Mサイズ（6〜11kg対応）テープタイプ4個セット"
-    pros:
-      - "保湿成分配合で肌が乾燥しやすい赤ちゃんに向く"
-      - "4個セットでまとめ買いでき在庫を確保しやすい"
-      - "肌への優しさを重視したい方に選びやすいラインナップ"
-    cons:
-      - "4個セットのため保管スペースを取りやすい"
-      - "機能性重視のため通常グーンより価格がやや高め"
-    recommendedFor: "保湿成分配合でMサイズをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7255398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10215993%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya103/7255398-e.jpg?_ex=128x128"
-  - rank: 2
     name: "メリーズファストプレミアム テープ Mサイズ"
     brand: "花王（メリーズ）"
-    price: 6644
+    price: 7280
     capacity: "192枚（48枚×4袋・Mサイズ・6〜11kg）"
-    pricePerUnit: "約35円/枚"
+    pricePerUnit: "約38円/枚"
     rating: 4.48
     reviewCount: 48
     features:
@@ -50,12 +28,33 @@ products:
     recommendedFor: "Mサイズで吸収速度を重視したい方・まとめ買いが可能な家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7195766%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10190454%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tenposupport06/12820999/imgrc0130809075.jpg?_ex=128x128"
+  - rank: 2
+    name: "グーンプラス 肌の贅沢 テープ Mサイズ 4個セット"
+    brand: "GOO.N（大王製紙）"
+    price: 6980
+    capacity: "52枚×4個（208枚）"
+    rating: 4.33
+    reviewCount: 3
+    features:
+      - "保湿成分配合で肌への負担を軽減する設計"
+      - "吸収体エンボスで肌あたりをやわらかく保つ"
+      - "Mサイズ（6〜11kg対応）テープタイプ4個セット"
+    pros:
+      - "保湿成分配合で肌が乾燥しやすい赤ちゃんに向く"
+      - "4個セットでまとめ買いでき在庫を確保しやすい"
+      - "肌への優しさを重視したい方に選びやすいラインナップ"
+    cons:
+      - "4個セットのため保管スペースを取りやすい"
+      - "機能性重視のため通常グーンより価格がやや高め"
+    recommendedFor: "保湿成分配合でMサイズをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7255398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10215993%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya103/7255398-e.jpg?_ex=128x128"
+    priceMax: 7250
   - rank: 3
     name: "パンパース オムツ はじめての肌へのいちばん テープ Mサイズ【パンパース】"
     brand: "P&G（パンパース）"
     price: 6880
     capacity: "96枚"
-    pricePerUnit: "約72円/枚"
     rating: 4.77
     reviewCount: 201
     features:
@@ -83,6 +82,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176206374"
         available: true
+    priceMax: 13480
 tags:
   - "Mサイズ おむつ"
   - "テープ型おむつ"

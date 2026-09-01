@@ -106,61 +106,6 @@ products:
         rating: 4
         reviewCount: 7
   - rank: 4
-    name: "【国内正規品 全12種】ALLIE アリィー 日焼け止め クロノビューティ トー"
-    brand: "カネボウ（アリィー）"
-    price: 1430
-    capacity: "60g"
-    pricePerUnit: "約24円/g"
-    rating: 4.67
-    reviewCount: 131
-    features:
-      - "摩擦・汗・水に強いトリプルプルーフ処方"
-      - "美容液成分配合でスキンケア効果"
-      - "SPF50+/PA++++で最高レベルの防御力"
-    pros:
-      - "摩擦にも強く長時間落ちにくい"
-      - "アウトドア・レジャーでも安心の防御力"
-      - "ジェルタイプで伸びが良い"
-    cons:
-      - "価格はプレミアム帯でやや高め"
-      - "落とすときは丁寧なクレンジングが必要"
-    recommendedFor: "屋外でのスポーツ・レジャーが多い方・絶対焼きたくない方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t269n.3rdw662f.g00t269n.3rdw745b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Farianakosume%2Fallie-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Farianakosume%2Fi%2F10006763%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/main-ariana/allie-001-ra.jpg?_ex=128x128"
-  - rank: 5
-    name: "ラブミータッチ シルキーUVミルク 50g"
-    brand: "ラブミータッチ"
-    price: 3080
-    capacity: "50g"
-    pricePerUnit: "約62円/g"
-    rating: 4.84
-    reviewCount: 3808
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugd0n.3rdw6460.g00ugd0n.3rdw79b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthe-beautopia%2F20094-025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthe-beautopia%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/the-beautopia/cabinet/item/lovme/silky_uv/imgrc0127171164.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmedlf%2F20094-025.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-08"
-        price: 3080
-        rating: 4.75
-        reviewCount: 16
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/medlf_20094-025"
-        available: true
-  - rank: 6
     name: "レステモ 美白BBクリーム"
     brand: "レステモ"
     price: 2560
@@ -193,12 +138,12 @@ products:
         available: true
         rating: 4.27
         reviewCount: 150
-  - rank: 7
+  - rank: 5
     name: "ラロッシュポゼ UVイデアXL"
     brand: "ラロッシュポゼ"
-    price: 3960
+    price: 4070
     capacity: "1個"
-    pricePerUnit: "約3960円/個"
+    pricePerUnit: "約4070円/個"
     rating: 4.61
     reviewCount: 1323
     features:
@@ -215,12 +160,12 @@ products:
     recommendedFor: "日焼け止めを使用感と用途で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi2mn.3rdw6aae.g00qi2mn.3rdw7998/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpycno%2Frarossyu35%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpycno%2Fi%2F10000752%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pycno/cabinet/lrp/idea_hqs.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 6
     name: "ラロッシュポゼ UVイデアXL BB"
     brand: "ラロッシュポゼ"
-    price: 3960
+    price: 4070
     capacity: "1個"
-    pricePerUnit: "約3960円/個"
+    pricePerUnit: "約4070円/個"
     rating: 4.51
     reviewCount: 294
     features:
@@ -237,12 +182,12 @@ products:
     recommendedFor: "日焼け止めを使用感と用途で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn2mn.3rdw6125.g00qn2mn.3rdw7702/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsangakushop%2Frarossyu-bb-kit%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsangakushop%2Fi%2F10000726%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sangakushop/cabinet/lrp/rarossyu-bb-kit_hqs2.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 7
     name: "ラロッシュポゼ UVイデアXL 色なし"
     brand: "ラロッシュポゼ"
-    price: 3960
+    price: 4070
     capacity: "1個"
-    pricePerUnit: "約3960円/個"
+    pricePerUnit: "約4070円/個"
     rating: 4.6
     reviewCount: 292
     features:
@@ -259,6 +204,61 @@ products:
     recommendedFor: "日焼け止めを使用感と用途で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn2mn.3rdw6125.g00qn2mn.3rdw7702/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsangakushop%2Frarossyu35%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsangakushop%2Fi%2F10000773%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sangakushop/cabinet/lrp/03044hqs_p01.jpg?_ex=128x128"
+  - rank: 8
+    name: "【国内正規品 全12種】ALLIE アリィー 日焼け止め クロノビューティ トー"
+    brand: "カネボウ（アリィー）"
+    price: 1332
+    capacity: "60g"
+    rating: 4.67
+    reviewCount: 131
+    features:
+      - "摩擦・汗・水に強いトリプルプルーフ処方"
+      - "美容液成分配合でスキンケア効果"
+      - "SPF50+/PA++++で最高レベルの防御力"
+    pros:
+      - "摩擦にも強く長時間落ちにくい"
+      - "アウトドア・レジャーでも安心の防御力"
+      - "ジェルタイプで伸びが良い"
+    cons:
+      - "価格はプレミアム帯でやや高め"
+      - "落とすときは丁寧なクレンジングが必要"
+    recommendedFor: "屋外でのスポーツ・レジャーが多い方・絶対焼きたくない方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t269n.3rdw662f.g00t269n.3rdw745b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Farianakosume%2Fallie-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Farianakosume%2Fi%2F10006763%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/main-ariana/allie-001-ra.jpg?_ex=128x128"
+    priceMax: 6840
+  - rank: 9
+    name: "ラブミータッチ シルキーUVミルク 50g"
+    brand: "ラブミータッチ"
+    price: 3080
+    capacity: "50g"
+    rating: 4.84
+    reviewCount: 3808
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugd0n.3rdw6460.g00ugd0n.3rdw79b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthe-beautopia%2F20094-025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthe-beautopia%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/the-beautopia/cabinet/item/lovme/silky_uv/imgrc0127171164.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmedlf%2F20094-025.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-08"
+        price: 3080
+        rating: 4.75
+        reviewCount: 16
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/medlf_20094-025"
+        available: true
+    priceMax: 13629
 tags:
   - "日焼け止め おすすめ"
   - "日焼け止め コスパ"

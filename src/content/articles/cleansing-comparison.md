@@ -4,42 +4,9 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
-    name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
-    brand: "花王（キュレル）"
-    price: 1300
-    capacity: "180mL"
-    pricePerUnit: "約7.2円/mL"
-    rating: 4.67
-    reviewCount: 9
-    features:
-      - "セラミドケア処方で洗いながら潤いを守る"
-      - "敏感肌・乾燥肌向けに設計された低刺激フォーム"
-      - "泡立てて使うクレンジングフォームタイプ"
-    pros:
-      - "皮膚科医・アレルギー専門医の協力のもと開発された低刺激処方"
-      - "洗い流し後も肌がしっとりしてつっぱらない"
-      - "敏感肌でも使いやすい処方で肌荒れしにくい"
-    cons:
-      - "150mLで容量が少なめのため頻繁に購入が必要"
-      - "濃いメイクはしっかり落ちにくい場合がある"
-    recommendedFor: "敏感肌・乾燥肌の方・肌荒れが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tjrkn.3rdw628c.g00tjrkn.3rdw754d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsup-s-r%2Fr20250207-curel-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsup-s-r%2Fi%2F10001251%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sup-s-r/cabinet/curel/imgrc0095274370.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsup-s%2Fyah20250207-curel.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-23"
-        price: 1390
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sup-s_yah20250207-curel"
-        available: true
-        rating: 5
-        reviewCount: 3
-  - rank: 2
     name: "レステモ クレンジングオイル プロサイズ 480mL"
     brand: "レステモ"
     price: 3980
@@ -61,7 +28,7 @@ products:
     recommendedFor: "メイクの濃さに合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdaen.3rdw686c.g00qdaen.3rdw7002/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flesthemo%2Fcl-480ml%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flesthemo%2Fi%2F10000258%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/cleansing480ml_27.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "manyo ピュアクレンジングオイル 400mL"
     brand: "manyo"
     price: 3402
@@ -94,29 +61,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 4
-    name: "ソフティモ スピーディオイルクレンジング 230mL"
-    brand: "コーセー（ソフティモ）"
-    price: 2270
-    capacity: "230mL"
-    pricePerUnit: "約9.9円/mL"
-    rating: 4.3
-    reviewCount: 600
-    features:
-      - "ポンプ式で適量を出しやすい大容量タイプ"
-      - "ウォータープルーフマスカラも素早くオフできるオイル処方"
-      - "洗い流すとさっぱりする後肌"
-    pros:
-      - "230mLの大容量でコスパが良く、詰め替えも不要"
-      - "ウォータープルーフメイクもしっかり落とせる"
-      - "ポンプ式で衛生的に使用できる"
-    cons:
-      - "オイルタイプなので洗い流しが必要"
-      - "ニキビ肌の方は刺激を感じる場合がある"
-    recommendedFor: "フルメイク派の方・ウォータープルーフアイテムをよく使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw2pn.3rdw6069.g00tw2pn.3rdw7b19/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyland%2F1736928005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyland%2Fi%2F10000272%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyland/cabinet/compass1736927868.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 3
     name: "manyo ピュアクレンジングオイル ディープクリーン 200mL"
     brand: "manyo"
     price: 2200
@@ -147,40 +92,7 @@ products:
         price: 2340
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/begirl_541203699"
         available: true
-  - rank: 6
-    name: "Anua ドクダミポアコントロールクレンジングオイル 200mL"
-    brand: "Anua"
-    price: 2300
-    capacity: "200mL"
-    pricePerUnit: "約12円/mL"
-    rating: 4.69
-    reviewCount: 557
-    features:
-      - "ドクダミエキス配合のクレンジングオイル"
-      - "毛穴や皮脂汚れまで落とす韓国コスメ"
-      - "200mLで日常使いしやすい容量"
-    pros:
-      - "オイルタイプでメイクになじませやすい"
-      - "さっぱり系の洗い上がりを選びたい方に向く"
-      - "韓国コスメ好きに選びやすい"
-    cons:
-      - "個人輸入扱いで配送条件に注意が必要"
-      - "植物由来成分の香りが気になる場合がある"
-    recommendedFor: "皮脂汚れや毛穴汚れが気になる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6mzn.3rdw632b.g00u6mzn.3rdw764e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00061/imgrc0127119292.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbegirl%2F220016596.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-27"
-        price: 2480
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/begirl_220016596"
-        available: true
-        rating: 4.65
-        reviewCount: 49
-  - rank: 7
+  - rank: 4
     name: "DHC ディープクレンジングオイル 200mL"
     brand: "DHC"
     price: 2717
@@ -213,7 +125,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 8
+  - rank: 5
     name: "Bioré ビオレ素肌つるるんクレンジングウォーター詰替"
     brand: "花王（ビオレ）"
     price: 6187
@@ -235,14 +147,14 @@ products:
     recommendedFor: "ライトメイクの方・時短スキンケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ujrwn.3rdw65e1.g00ujrwn.3rdw73b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorro%2F20250623203939_94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorro%2Fi%2F10047472%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/morro/cabinet/r_2025062255/20250623203939_94_1.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 6
     name: "PINCHER マルチクレンズ 500mL"
     brand: "PINCHER"
     price: 15980
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3226
+    reviewCount: 3227
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"
@@ -268,12 +180,99 @@ products:
         available: true
         rating: 4.94
         reviewCount: 470
+  - rank: 7
+    name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
+    brand: "花王（キュレル）"
+    price: 1300
+    capacity: "180mL"
+    rating: 4.67
+    reviewCount: 9
+    features:
+      - "セラミドケア処方で洗いながら潤いを守る"
+      - "敏感肌・乾燥肌向けに設計された低刺激フォーム"
+      - "泡立てて使うクレンジングフォームタイプ"
+    pros:
+      - "皮膚科医・アレルギー専門医の協力のもと開発された低刺激処方"
+      - "洗い流し後も肌がしっとりしてつっぱらない"
+      - "敏感肌でも使いやすい処方で肌荒れしにくい"
+    cons:
+      - "150mLで容量が少なめのため頻繁に購入が必要"
+      - "濃いメイクはしっかり落ちにくい場合がある"
+    recommendedFor: "敏感肌・乾燥肌の方・肌荒れが気になる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tjrkn.3rdw628c.g00tjrkn.3rdw754d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsup-s-r%2Fr20250207-curel-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsup-s-r%2Fi%2F10001251%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sup-s-r/cabinet/curel/imgrc0095274370.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsup-s%2Fyah20250207-curel.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-23"
+        price: 1390
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sup-s_yah20250207-curel"
+        available: true
+        rating: 5
+        reviewCount: 3
+    priceMax: 5440
+  - rank: 8
+    name: "ソフティモ スピーディオイルクレンジング 230mL"
+    brand: "コーセー（ソフティモ）"
+    price: 2270
+    capacity: "230mL"
+    rating: 4.3
+    reviewCount: 600
+    features:
+      - "ポンプ式で適量を出しやすい大容量タイプ"
+      - "ウォータープルーフマスカラも素早くオフできるオイル処方"
+      - "洗い流すとさっぱりする後肌"
+    pros:
+      - "230mLの大容量でコスパが良く、詰め替えも不要"
+      - "ウォータープルーフメイクもしっかり落とせる"
+      - "ポンプ式で衛生的に使用できる"
+    cons:
+      - "オイルタイプなので洗い流しが必要"
+      - "ニキビ肌の方は刺激を感じる場合がある"
+    recommendedFor: "フルメイク派の方・ウォータープルーフアイテムをよく使う方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw2pn.3rdw6069.g00tw2pn.3rdw7b19/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyland%2F1736928005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyland%2Fi%2F10000272%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyland/cabinet/compass1736927868.jpg?_ex=128x128"
+    priceMax: 2970
+  - rank: 9
+    name: "Anua ドクダミポアコントロールクレンジングオイル 200mL"
+    brand: "Anua"
+    price: 2300
+    capacity: "200mL"
+    rating: 4.69
+    reviewCount: 557
+    features:
+      - "ドクダミエキス配合のクレンジングオイル"
+      - "毛穴や皮脂汚れまで落とす韓国コスメ"
+      - "200mLで日常使いしやすい容量"
+    pros:
+      - "オイルタイプでメイクになじませやすい"
+      - "さっぱり系の洗い上がりを選びたい方に向く"
+      - "韓国コスメ好きに選びやすい"
+    cons:
+      - "個人輸入扱いで配送条件に注意が必要"
+      - "植物由来成分の香りが気になる場合がある"
+    recommendedFor: "皮脂汚れや毛穴汚れが気になる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6mzn.3rdw632b.g00u6mzn.3rdw764e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00061/imgrc0127119292.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbegirl%2F220016596.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-27"
+        price: 2480
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/begirl_220016596"
+        available: true
+        rating: 4.65
+        reviewCount: 49
+    priceMax: 4600
   - rank: 10
     name: "KINS クレンジングオイル 100mL"
     brand: "KINS"
     price: 4378
     capacity: "100mL"
-    pricePerUnit: "約44円/mL"
     rating: 4.57
     reviewCount: 1685
     features:
@@ -301,6 +300,7 @@ products:
         available: true
         rating: 4.8
         reviewCount: 35
+    priceMax: 23440
 tags:
   - "クレンジング おすすめ"
   - "クレンジング コスパ"

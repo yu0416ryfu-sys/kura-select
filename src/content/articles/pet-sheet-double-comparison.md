@@ -8,46 +8,13 @@ updatedAt: "2026-09-01"
 draft: false
 products:
   - rank: 1
-    name: "ペットシーツ 60×60cm 業務用 まとめ買い"
-    brand: "ナイス物屋"
-    price: 3280
-    capacity: "60×60cm 300枚"
-    pricePerUnit: "約11円/枚"
-    rating: 4.4
-    reviewCount: 1424
-    features:
-      - "60×60cmの大判サイズ、6層構造で吸収量140cc"
-      - "PPE素材使用、1枚あたり約60gの重量"
-      - "体重25kg以下の大型犬にも対応する大判設計"
-    pros:
-      - "300枚のまとめ買い構成で買い足しの頻度を減らせる"
-      - "複数頭飼いや業務用途でも使い切りやすい量"
-      - "60×60cmの正方形でトイレまわりを広くカバーできる"
-    cons:
-      - "大容量のため保管スペースが必要"
-      - "薄型タイプのため、尿量が多い場合は複数枚使用を検討"
-    recommendedFor: "大判サイズをまとめ買いしてコスパを重視したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rdq2n.3rdw6d6d.g00rdq2n.3rdw7a87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flgcity%2Fpetsheets%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flgcity%2Fi%2F10001550%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lgcity/cabinet/10106758/13479499/petsc01.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffreelife%2Fzk-ptst01-many.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 8450
-        rating: 4.46
-        reviewCount: 656
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/freelife_zk-ptst01-many"
-        available: true
-  - rank: 2
     name: "Famy ペットシーツ うす型 JPPMA認証 スーパーワイド 204枚"
     brand: "Famy"
     price: 4480
     capacity: "スーパーワイド 204枚"
     pricePerUnit: "約22円/枚"
     rating: 4.55
-    reviewCount: 14679
+    reviewCount: 14682
     features:
       - "スーパーワイドサイズのペットシーツ（薄型・厚型を選べる）"
       - "大型犬や多頭飼いのトイレまわりに使いやすい"
@@ -62,7 +29,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5lzn.3rdw67b4.g00s5lzn.3rdw7923/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fryouhin-monogatari%2F10000024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fryouhin-monogatari%2Fi%2F10000024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ryouhin-monogatari/cabinet/renewal2025/thumbnail_sheet2/petsheets-small_main.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "薄型ペットシーツ スーパーワイド"
     brand: "小林薬品"
     price: 4680
@@ -95,7 +62,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/diy-tool_k825-0016"
         available: true
-  - rank: 4
+  - rank: 3
     name: "ペットシーツ スーパーワイド 2ケース"
     brand: "ペットスタジオ"
     price: 9380
@@ -128,7 +95,7 @@ products:
         available: true
         rating: 4.8
         reviewCount: 5
-  - rank: 5
+  - rank: 4
     name: "コスパがいいペットシーツ スーパーワイド"
     brand: "charm"
     price: 5280
@@ -149,7 +116,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pyjhn.3rdw651d.g00pyjhn.3rdw7375/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchanet%2F284018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchanet%2Fi%2F11092927%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/chanet/cabinet/2840/284018-1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/chanet/cabinet/2841/284018-1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -161,7 +128,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 6
+  - rank: 5
     name: "厚型ペットシーツ スーパーワイド"
     brand: "HAMI PET"
     price: 4380
@@ -183,40 +150,7 @@ products:
     recommendedFor: "大型犬や尿量が多いペット向けに吸収力を優先したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5tcn.3rdw6b04.g00u5tcn.3rdw7baa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkingbridge%2Fpdt003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkingbridge%2Fi%2F10000221%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kingbridge/cabinet/08719472/08755630/pdt003a.jpg?_ex=128x128"
-  - rank: 7
-    name: "アライブ 厚型ペットシート 猛吸くん スーパーワイド"
-    brand: "アライブ"
-    price: 4990
-    capacity: "25枚×4袋"
-    pricePerUnit: "約50円/枚"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "スーパーワイド・ダブルワイド系のペットシーツ"
-      - "大型犬や多頭飼いのトイレまわりに使いやすい"
-      - "薄型・厚型など交換頻度に合わせて選べる"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pxxxn.3rdw6036.g00pxxxn.3rdw72f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftomcat%2Far601010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftomcat%2Fi%2F10019272%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tomcat/cabinet/doggoods/toiletries/petsheets/7054_0.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frocky%2Far603011.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-01"
-        price: 17090
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rocky_ar603011"
-        available: true
-        rating: 0
-        reviewCount: 0
-  - rank: 8
+  - rank: 6
     name: "ペットシーツ 薄型 ダブルワイド 200枚 大容量"
     brand: "ペットシーツ"
     price: 9980
@@ -249,7 +183,7 @@ products:
         available: true
         rating: 4.64
         reviewCount: 333
-  - rank: 9
+  - rank: 7
     name: "超薄型ペットシーツ 超大判"
     brand: "StylePlus"
     price: 5000
@@ -271,7 +205,7 @@ products:
     recommendedFor: "超大型犬や広いスペースに敷きたい方、ペットシーツ専門店の品質を試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qup5n.3rdw613f.g00qup5n.3rdw7be1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstyleplus%2F31052%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstyleplus%2Fi%2F10011055%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/styleplus/cabinet/brand/sa/styleplus/style_ooban.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 8
     name: "超吸収厚型プレミアムペットシート 猛吸くんPREMIUM"
     brand: "ALIVE"
     price: 10956
@@ -293,6 +227,72 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvikn.3rdw6aa7.g00qvikn.3rdw7fd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetking%2F9-0014-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpetking%2Fi%2F10000570%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/petking/cabinet/17/09-0017-3.jpg?_ex=128x128"
+  - rank: 9
+    name: "ペットシーツ 60×60cm 業務用 まとめ買い"
+    brand: "ナイス物屋"
+    price: 3180
+    capacity: "60×60cm 300枚"
+    rating: 4.4
+    reviewCount: 1426
+    features:
+      - "60×60cmの大判サイズ、6層構造で吸収量140cc"
+      - "PPE素材使用、1枚あたり約60gの重量"
+      - "体重25kg以下の大型犬にも対応する大判設計"
+    pros:
+      - "300枚のまとめ買い構成で買い足しの頻度を減らせる"
+      - "複数頭飼いや業務用途でも使い切りやすい量"
+      - "60×60cmの正方形でトイレまわりを広くカバーできる"
+    cons:
+      - "大容量のため保管スペースが必要"
+      - "薄型タイプのため、尿量が多い場合は複数枚使用を検討"
+    recommendedFor: "大判サイズをまとめ買いしてコスパを重視したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rdq2n.3rdw6d6d.g00rdq2n.3rdw7a87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flgcity%2Fpetsheets%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flgcity%2Fi%2F10001550%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lgcity/cabinet/10106758/13479499/petsc01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffreelife%2Fzk-ptst01-many.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
+        price: 8450
+        rating: 4.46
+        reviewCount: 656
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/freelife_zk-ptst01-many"
+        available: true
+    priceMax: 4780
+  - rank: 10
+    name: "アライブ 厚型ペットシート 猛吸くん スーパーワイド"
+    brand: "アライブ"
+    price: 4990
+    capacity: "25枚×4袋"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "スーパーワイド・ダブルワイド系のペットシーツ"
+      - "大型犬や多頭飼いのトイレまわりに使いやすい"
+      - "薄型・厚型など交換頻度に合わせて選べる"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pxxxn.3rdw6036.g00pxxxn.3rdw72f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftomcat%2Far601010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftomcat%2Fi%2F10019272%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tomcat/cabinet/doggoods/toiletries/petsheets/7054_0.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frocky%2Far603011.html"
+        matchStatus: "matched"
+        updatedAt: "2026-09-01"
+        price: 17090
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rocky_ar603011"
+        available: true
+        rating: 0
+        reviewCount: 0
+    priceMax: 16750
 tags:
   - "ペットシーツ おすすめ"
   - "ペットシーツ コスパ"

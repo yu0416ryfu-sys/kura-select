@@ -12,11 +12,12 @@ import {
   compareKnownPrice,
   comparePricePerUnit,
   formatPriceOrConfirmation,
+  formatPriceRange,
   isKnownPrice,
+  resolveComparablePrice,
+  resolveDisplayPricePerUnit,
   shouldShowPricePerUnit,
 } from "../../lib/price";
-// capacity.ts は js-yaml 非依存の純粋モジュールのため island に含めても安全
-import { calcPricePerUnit } from "../../lib/capacity";
 
 interface VisibleOfferForTable {
   provider: OfferProvider;
@@ -34,6 +35,8 @@ interface ProductForComparisonTable {
   name: string;
   brand: string;
   price: number;
+  /** 選択式出品の上限価格。あるとき price は最安構成を指す */
+  priceMax?: number;
   capacity: string;
   pricePerUnit?: string;
   rating?: number;
@@ -53,6 +56,11 @@ interface Props {
   targetUnit?: string;
 }
 
+// 表示価格の由来サイト。価格帯商品の抑止は楽天由来のときだけ効かせる
+function lowestProviderOf(p: ProductForComparisonTable): OfferProvider {
+  return p.priceSummary?.lowestProvider ?? "rakuten";
+}
+
 export default function ComparisonTableSort({ products, caption, targetUnit }: Props) {
   const [sortKey, setSortKey] = useState<SortKey>("rank");
   const [sortDir, setSortDir] = useState<"asc" | "desc">("asc");
@@ -66,9 +74,10 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
         av = a.rank;
         bv = b.rank;
       } else if (sortKey === "price") {
+        // 楽天の価格帯商品は上限価格で並べる（最安構成で上位に来るのを防ぐ）
         return compareKnownPrice(
-          a.priceSummary?.lowestPrice ?? a.price,
-          b.priceSummary?.lowestPrice ?? b.price,
+          resolveComparablePrice(a, a.priceSummary?.lowestPrice ?? a.price, lowestProviderOf(a)),
+          resolveComparablePrice(b, b.priceSummary?.lowestPrice ?? b.price, lowestProviderOf(b)),
           sortDir
         );
       } else if (sortKey === "pricePerUnit") {
@@ -76,8 +85,8 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
         const aPrice = a.priceSummary?.lowestPrice ?? a.price;
         const bPrice = b.priceSummary?.lowestPrice ?? b.price;
         return comparePricePerUnit(
-          { price: aPrice, pricePerUnit: calcPricePerUnit(aPrice, a.capacity, targetUnit) },
-          { price: bPrice, pricePerUnit: calcPricePerUnit(bPrice, b.capacity, targetUnit) },
+          { price: aPrice, pricePerUnit: resolveDisplayPricePerUnit(a, aPrice, targetUnit, lowestProviderOf(a)) },
+          { price: bPrice, pricePerUnit: resolveDisplayPricePerUnit(b, bPrice, targetUnit, lowestProviderOf(b)) },
           sortDir
         );
       } else {
@@ -229,9 +238,13 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
                           p.priceSummary?.lowestPrice != null &&
                           price != null &&
                           price === p.priceSummary.lowestPrice;
-                        // サイトごとのコスパ（単価）
-                        const unitLabel = price != null ? calcPricePerUnit(price, p.capacity, targetUnit) : null;
+                        // サイトごとのコスパ（単価）。楽天の価格帯商品では出さない
+                        const unitLabel = resolveDisplayPricePerUnit(p, price, targetUnit, offer.provider);
                         const showUnit = shouldShowPricePerUnit(price, unitLabel);
+                        // 価格帯商品は楽天行だけ帯で表示する
+                        const priceLabel =
+                          (offer.provider === "rakuten" ? formatPriceRange(p) : null) ??
+                          formatPriceOrConfirmation(price);
                         return (
                           <div key={offer.provider} class={desktopPriceRowCls}>
                             <span
@@ -244,7 +257,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
                             </span>
                             <span class="text-right whitespace-nowrap leading-tight">
                               <span class="font-bold tabular-nums block">
-                                {formatPriceOrConfirmation(price)}
+                                {priceLabel}
                               </span>
                               {showUnit && (
                                 <span class="block text-[10px] text-[var(--color-accent)]">{unitLabel}</span>
@@ -272,7 +285,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
                     {(() => {
                       // コスパは最安サイトの価格 × capacity から算出する
                       const lp = p.priceSummary?.lowestPrice ?? p.price;
-                      const unit = calcPricePerUnit(lp, p.capacity, targetUnit);
+                      const unit = resolveDisplayPricePerUnit(p, lp, targetUnit, lowestProviderOf(p));
                       return shouldShowPricePerUnit(lp, unit) ? (
                         <span class="inline-flex min-w-[78px] justify-center bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium whitespace-nowrap">
                           {unit}
@@ -357,7 +370,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
                 {(() => {
                   // コスパは最安サイトの価格 × capacity から算出する
                   const lp = p.priceSummary?.lowestPrice ?? p.price;
-                  const unit = calcPricePerUnit(lp, p.capacity, targetUnit);
+                  const unit = resolveDisplayPricePerUnit(p, lp, targetUnit, lowestProviderOf(p));
                   return shouldShowPricePerUnit(lp, unit) ? (
                     <span class="bg-[var(--color-accent)] text-white text-xs px-2 py-0.5 rounded-full font-medium whitespace-nowrap">
                       {unit}
@@ -408,9 +421,13 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
                     p.priceSummary?.lowestPrice != null &&
                     price != null &&
                     price === p.priceSummary.lowestPrice;
-                  // サイトごとのコスパ（単価）
-                  const unitLabel = price != null ? calcPricePerUnit(price, p.capacity, targetUnit) : null;
+                  // サイトごとのコスパ（単価）。楽天の価格帯商品では出さない
+                  const unitLabel = resolveDisplayPricePerUnit(p, price, targetUnit, offer.provider);
                   const showUnit = shouldShowPricePerUnit(price, unitLabel);
+                  // 価格帯商品は楽天行だけ帯で表示する
+                  const priceLabel =
+                    (offer.provider === "rakuten" ? formatPriceRange(p) : null) ??
+                    formatPriceOrConfirmation(price);
                   return (
                     <div key={offer.provider} class={mobilePriceRowCls}>
                       <span
@@ -423,7 +440,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
                       </span>
                       <span class="whitespace-nowrap leading-tight">
                         <span class="font-bold tabular-nums text-sm block">
-                          {formatPriceOrConfirmation(price)}
+                          {priceLabel}
                         </span>
                         {showUnit && (
                           <span class="block text-[10px] text-[var(--color-accent)]">{unitLabel}</span>

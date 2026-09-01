@@ -4,7 +4,7 @@ description: "フローリング掃除シートを1枚あたりのコストで�
 category: "floor-cleaner"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
     name: "激落ちくん ウェットシート 水の激落ちシート Ba フローリング＆リビング用シー"
@@ -40,39 +40,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_4903320481701"
         available: true
   - rank: 2
-    name: "【20枚/40枚】【スターターセット】フローリングワイパー用"
-    brand: "アイリスオーヤマ"
-    price: 298
-    capacity: "20枚"
-    pricePerUnit: "約15円/枚"
-    rating: 3.69
-    reviewCount: 26
-    features:
-      - "80枚入の大容量でまとめ買いに最適"
-      - "一般的なフロアワイパーに対応する規格サイズ"
-      - "シートが厚手で拭き取り面積が広い"
-    pros:
-      - "1枚約9円と最もコスパが良い"
-      - "80枚で2〜3ヶ月分をまとめ買い可能"
-      - "クイックルワイパー・ウェーブなど主要ワイパーに対応"
-    cons:
-      - "香り付きタイプの選択肢が少ない"
-      - "プレミアム品と比べると薄手"
-    recommendedFor: "コスパ最優先で毎日掃除したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3ztn.3rdw6b30.g00t3ztn.3rdw7dc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F205995%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10158683%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/10172579/imgrc0107615257.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksdenki%2F4967576731652.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-31"
-        price: 245
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksdenki_4967576731652"
-        available: true
-  - rank: 3
     name: "クイックルワイパー ドライシート"
     brand: "花王（クイックルワイパー）"
     price: 728
@@ -105,7 +72,7 @@ products:
         available: true
         rating: 4.88
         reviewCount: 24
-  - rank: 4
+  - rank: 3
     name: "クイックルワイパー 立体吸着ドライシート"
     brand: "花王（クイックルワイパー）"
     price: 2666
@@ -138,7 +105,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nicobase_3nico-4901301281999"
         available: true
-  - rank: 5
+  - rank: 4
     name: "花王 クイックルワイパー 立体吸着ウエットシート 香りが残らないタイプ"
     brand: "花王（クイックルワイパー）"
     price: 599
@@ -171,40 +138,7 @@ products:
         available: true
         rating: 4.81
         reviewCount: 21
-  - rank: 6
-    name: "クイックルワイパー ワイド 立体吸着ドライシート 業務用"
-    brand: "花王"
-    price: 1881
-    capacity: "50枚"
-    pricePerUnit: "約38円/枚"
-    rating: 4.61
-    reviewCount: 18
-    features:
-      - "業務用ワイドサイズで広い床面を素早くカバーする立体吸着ドライシート"
-      - "ホテル・施設など業務環境での日常清掃に適した仕様"
-      - "立体吸着繊維でホコリやゴミを効率よく捕捉"
-    pros:
-      - "ワイドタイプで一拭きあたりの清掃面積が広く作業効率が高い"
-      - "業務環境での日常使いに耐える高い耐久性"
-      - "50枚の大容量で頻繁な補充が不要"
-    cons:
-      - "通常サイズのフロアワイパーには装着できないため専用ワイパーが必要"
-      - "一般家庭には過剰スペックになりやすい"
-    recommendedFor: "ホテル・店舗・施設など業務現場での日常的な床掃除が必要な方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhtnn.3rdw6490.g00qhtnn.3rdw7b45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmine-waribashi%2F31-130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmine-waribashi%2Fi%2F10000221%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mine-waribashi/cabinet/senzai_kao/imgrc0117256375.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-31"
-        price: 1800
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
-        available: true
-        rating: 4.92
-        reviewCount: 12
-  - rank: 7
+  - rank: 5
     name: "クイックルワイパー ドライシート 業務用ワイドサイズ"
     brand: "花王"
     price: 1958
@@ -237,7 +171,7 @@ products:
         available: true
         rating: 4.92
         reviewCount: 12
-  - rank: 8
+  - rank: 6
     name: "クイックルワイパー ドライシート 業務用"
     brand: "花王プロフェッショナル"
     price: 2236
@@ -270,7 +204,7 @@ products:
         available: true
         rating: 4.92
         reviewCount: 12
-  - rank: 9
+  - rank: 7
     name: "ウェーブ 超保水 フロアウェットシート 微香タイプ"
     brand: "ユニ・チャーム（ウェーブ）"
     price: 777
@@ -292,12 +226,77 @@ products:
     recommendedFor: "ホコリ・花粉対策を重視する方・毎日の掃除習慣をつけたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00srsfn.3rdw61f5.g00srsfn.3rdw7376/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstacon%2F4903111466115%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstacon%2Fi%2F10054037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/stacon/cabinet/2022-0921/4903111466115_1.jpg?_ex=128x128"
+  - rank: 8
+    name: "【20枚/40枚】【スターターセット】フローリングワイパー用"
+    brand: "アイリスオーヤマ"
+    price: 350
+    capacity: "20枚"
+    rating: 3.69
+    reviewCount: 26
+    features:
+      - "80枚入の大容量でまとめ買いに最適"
+      - "一般的なフロアワイパーに対応する規格サイズ"
+      - "シートが厚手で拭き取り面積が広い"
+    pros:
+      - "1枚約9円と最もコスパが良い"
+      - "80枚で2〜3ヶ月分をまとめ買い可能"
+      - "クイックルワイパー・ウェーブなど主要ワイパーに対応"
+    cons:
+      - "香り付きタイプの選択肢が少ない"
+      - "プレミアム品と比べると薄手"
+    recommendedFor: "コスパ最優先で毎日掃除したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3ztn.3rdw6b30.g00t3ztn.3rdw7dc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F205995%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10158683%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/10172579/imgrc0107615257.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksdenki%2F4967576731652.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-31"
+        price: 245
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksdenki_4967576731652"
+        available: true
+    priceMax: 1370
+  - rank: 9
+    name: "クイックルワイパー ワイド 立体吸着ドライシート 業務用"
+    brand: "花王"
+    price: 1881
+    capacity: "50枚"
+    rating: 4.61
+    reviewCount: 18
+    features:
+      - "業務用ワイドサイズで広い床面を素早くカバーする立体吸着ドライシート"
+      - "ホテル・施設など業務環境での日常清掃に適した仕様"
+      - "立体吸着繊維でホコリやゴミを効率よく捕捉"
+    pros:
+      - "ワイドタイプで一拭きあたりの清掃面積が広く作業効率が高い"
+      - "業務環境での日常使いに耐える高い耐久性"
+      - "50枚の大容量で頻繁な補充が不要"
+    cons:
+      - "通常サイズのフロアワイパーには装着できないため専用ワイパーが必要"
+      - "一般家庭には過剰スペックになりやすい"
+    recommendedFor: "ホテル・店舗・施設など業務現場での日常的な床掃除が必要な方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhtnn.3rdw6490.g00qhtnn.3rdw7b45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmine-waribashi%2F31-130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmine-waribashi%2Fi%2F10000221%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mine-waribashi/cabinet/senzai_kao/imgrc0117256375.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-31"
+        price: 1800
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
+        available: true
+        rating: 4.92
+        reviewCount: 12
+    priceMax: 19720
   - rank: 10
     name: "クイックルワイパー 立体吸着ウェットシート"
     brand: "花王（クイックルワイパー）"
     price: 2335
     capacity: "32枚"
-    pricePerUnit: "約73円/枚"
     rating: 4.7
     reviewCount: 194
     features:
@@ -325,6 +324,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_sk5254"
         available: true
+    priceMax: 2623
 tags:
   - "フローリングシート おすすめ"
   - "床掃除 コスパ"

@@ -4,7 +4,7 @@ description: "ボディソープを1gあたりのコストで比較。最安候�
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
@@ -49,28 +49,6 @@ products:
         matchNotes: "同容量。Amazon側単品構成をページ確認済み前提で採用"
         updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 2
-    name: "Dove ボディウォッシュ 詰め替え 330g×18袋"
-    brand: "ユニリーバ（ダヴ）"
-    price: 5280
-    capacity: "330g×18袋（5,940g）"
-    pricePerUnit: "約0.89円/g"
-    rating: 4.59
-    reviewCount: 153
-    features:
-      - "ボディソープとして使える洗浄料"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "毎日の入浴ケアに取り入れやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "香りや洗い上がりの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "毎日の入浴ケアに取り入れやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404792%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11110065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/792/404792.jpg?_ex=128x128"
-  - rank: 3
     name: "アレッポの石鹸 ノーマル 200g×4個"
     brand: "アレッポの石鹸"
     price: 3080
@@ -102,7 +80,7 @@ products:
         matchedCapacity: "200g×2個"
         matchNotes: "入数違い採用（楽天は200g×4個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
-  - rank: 4
+  - rank: 3
     name: "ミョウバン柿渋石鹸 ナチュラルクリアソープ 80g"
     brand: "AIMERE"
     price: 880
@@ -136,7 +114,7 @@ products:
         rating: 4.25
         reviewCount: 170
         matchNotes: "capacity不一致: 商品名トークン不一致"
-  - rank: 5
+  - rank: 4
     name: "みんなでみらいを 米ぬか酵素 ボディウォッシュ 詰替用 115g"
     brand: "みんなでみらいを"
     price: 1288
@@ -169,7 +147,7 @@ products:
         available: true
         rating: 4.57
         reviewCount: 35
-  - rank: 6
+  - rank: 5
     name: "柿渋石鹸 男のたしなみ 100g"
     brand: "みつばちロード"
     price: 1990
@@ -202,7 +180,7 @@ products:
         available: true
         rating: 4.17
         reviewCount: 6
-  - rank: 7
+  - rank: 6
     name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
     brand: "ライオン（hadakara）"
     price: 1333
@@ -235,7 +213,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akakabeshop_4903301291305-12"
         available: true
-  - rank: 8
+  - rank: 7
     name: "キュレル ボディウォッシュ ポンプ 420mL"
     brand: "花王（キュレル）"
     price: 900
@@ -268,7 +246,7 @@ products:
         reviewCount: 23
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901301289353"
         available: true
-  - rank: 9
+  - rank: 8
     name: "ミノン 全身シャンプー 泡タイプ 詰め替え 400mL×3袋"
     brand: "第一三共ヘルスケア（ミノン）"
     price: 3300
@@ -290,12 +268,33 @@ products:
     recommendedFor: "敏感肌・アトピー肌の方・赤ちゃんがいる家庭・低刺激にこだわる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F68857%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10910706%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/857/68857.jpg?_ex=128x128"
+  - rank: 9
+    name: "Dove ボディウォッシュ 詰め替え 330g×18袋"
+    brand: "ユニリーバ（ダヴ）"
+    price: 5280
+    capacity: "330g×18袋（5,940g）"
+    rating: 4.59
+    reviewCount: 153
+    features:
+      - "ボディソープとして使える洗浄料"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "毎日の入浴ケアに取り入れやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "香りや洗い上がりの好みを確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "毎日の入浴ケアに取り入れやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404792%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11110065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/792/404792.jpg?_ex=128x128"
+    priceMax: 5940
   - rank: 10
     name: "カウブランド 無添加 泡のボディソープ 詰め替え 450mL"
     brand: "牛乳石鹸"
     price: 1840
     capacity: "450mL"
-    pricePerUnit: "約4.1円/mL"
     rating: 4.29
     reviewCount: 7
     features:
@@ -323,6 +322,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fines-f_4901525011488"
         available: true
+    priceMax: 3850
 tags:
   - "ボディソープ"
   - "コスパ"

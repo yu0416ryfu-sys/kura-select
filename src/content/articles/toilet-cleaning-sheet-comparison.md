@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-09-01"
 draft: false
 products:
   - rank: 1
@@ -232,7 +232,6 @@ products:
     brand: "花王（クイックル）"
     price: 1560
     capacity: "16枚×3個（48枚）"
-    pricePerUnit: "約33円/枚"
     rating: 4.8
     reviewCount: 10
     features:
@@ -249,6 +248,7 @@ products:
     recommendedFor: "除菌力と香りの両方を重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00su2mn.3rdw6afc.g00su2mn.3rdw77f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fu-denki%2F7256844%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fu-denki%2Fi%2F10049024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-denki/cabinet/11925706/7256844-p.jpg?_ex=128x128"
+    priceMax: 1570
 tags:
   - "トイレ掃除シート おすすめ"
   - "トイレ掃除シート コスパ"

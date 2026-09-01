@@ -17,6 +17,8 @@ interface Product {
   name: string;
   brand: string;
   price: number;
+  /** 選択式出品の上限価格。あるとき price は最安構成を指す */
+  priceMax?: number;
   capacity: string;
   pricePerUnit?: string;
   rating?: number;

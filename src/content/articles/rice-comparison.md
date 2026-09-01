@@ -218,7 +218,7 @@ products:
   - rank: 8
     name: "令和7年 佐渡産コシヒカリ 2kg"
     brand: "食の宝島佐渡"
-    price: 3420
+    price: 3640
     capacity: "2kg"
     features:
       - "佐渡産コシヒカリの2kg商品"
@@ -236,7 +236,6 @@ products:
     rating: 4.77
     reviewCount: 30
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-syokunosado/cabinet/1/r-toki-g-sku.jpg?_ex=128x128"
-    pricePerUnit: "約1710円/kg"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -248,12 +247,12 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    priceMax: 23980
   - rank: 9
     name: "秋田県産 あきたこまち 18kg〜20kg"
     brand: "秋田県産あきたこまち"
-    price: 14800
+    price: 8960
     capacity: "18kg〜20kg"
-    pricePerUnit: "0円/kg"
     rating: 4.74
     reviewCount: 45818
     features:
@@ -270,6 +269,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtn3n.3rdw6fc6.g00qtn3n.3rdw7aa1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frice-akita%2F1000000130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frice-akita%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rice-akita/cabinet/03459843/05525503/09674048/imgrc0081536274.jpg?_ex=128x128"
+    priceMax: 9960
 tags:
   - "お米"
   - "米"

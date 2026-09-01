@@ -16,8 +16,12 @@ import {
   getLowestVisibleOffer,
   type ProductOffer,
 } from "../../lib/offers";
-import { formatPriceOrConfirmation, isKnownPrice } from "../../lib/price";
-import { calcPricePerUnit } from "../../lib/capacity";
+import {
+  formatPriceOrConfirmation,
+  formatPriceRange,
+  isKnownPrice,
+  resolveDisplayPricePerUnit,
+} from "../../lib/price";
 
 const linkProviders = getEnabledAffiliateProvidersFromEnv(import.meta.env);
 const priceProviders = getStaticAffiliateProvidersFromEnv(import.meta.env);
@@ -27,6 +31,8 @@ interface Product {
   name: string;
   brand: string;
   price: number;
+  /** 選択式出品の上限価格。あるとき price は最安構成を指す */
+  priceMax?: number;
   capacity: string;
   pricePerUnit?: string;
   rating?: number;
@@ -69,7 +75,12 @@ const priceSummary = getOfferPriceSummary(product, { enabledProviders: priceProv
 const displayPrice = priceSummary.lowestPrice ?? (isKnownPrice(product.price) ? product.price : null);
 // 単価は比較表・TopPickCta と同じく表示時に再計算する。
 // frontmatter の pricePerUnit を直読みすると calcPricePerUnit の結果とズレる（hand-soap rank1 で顕在化）。
-const lowestPricePerUnit = displayPrice != null ? calcPricePerUnit(displayPrice, product.capacity, targetUnit) : null;
+// 楽天の価格帯商品は単価を出さず、価格を帯（¥min〜¥max）で表示する
+const lowestProvider = priceSummary.lowestProvider ?? "rakuten";
+const lowestPricePerUnit = resolveDisplayPricePerUnit(product, displayPrice, targetUnit, lowestProvider);
+const displayPriceLabel =
+  (lowestProvider === "rakuten" ? formatPriceRange(product) : null) ??
+  formatPriceOrConfirmation(displayPrice);
 ---
 
 {ctaOffer && (
@@ -85,7 +96,7 @@ const lowestPricePerUnit = displayPrice != null ? calcPricePerUnit(displayPrice,
           <p class="text-[11px] font-semibold text-amber-600 leading-none mb-0.5">🏆 この記事の1位</p>
           <p class="text-xs font-bold text-[var(--color-text)] truncate">{product.name}</p>
           <p class="text-xs text-[var(--color-text-sub)]">
-            {formatPriceOrConfirmation(displayPrice)}{lowestPricePerUnit && `（${lowestPricePerUnit}）`}
+            {displayPriceLabel}{lowestPricePerUnit && `（${lowestPricePerUnit}）`}
           </p>
         </div>
         <div class="shrink-0 w-36">

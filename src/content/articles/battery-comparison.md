@@ -4,32 +4,10 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 draft: false
 products:
   - rank: 1
-    name: "BIGCAPA basic アルカリ乾電池 選べる40本セット"
-    brand: "BIGCAPA"
-    price: 1000
-    capacity: "40本"
-    pricePerUnit: "約25円/本"
-    rating: 4.63
-    reviewCount: 1109
-    features:
-      - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
-      - "5年保存対応のアルカリ電池でコスパ重視の設計"
-      - "メール便対応でまとめ買いでも送料を抑えやすい"
-    pros:
-      - "40本の大容量で1本あたりの単価を大幅に抑えられる"
-      - "単3と単4の混合セットが選べるので家庭の電池事情に合わせやすい"
-      - "防災備蓄・オフィスのストック管理に向いた量"
-    cons:
-      - "国内大手ブランドと比べるとブランド認知度は低め"
-      - "大量購入のため使用前にサイズ確認が重要"
-    recommendedFor: "家庭の電池を一括管理したい方・コストを徹底的に抑えたまとめ買いをしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvevn.3rdw6c9a.g00qvevn.3rdw7567/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkadenrand%2F1908413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkadenrand%2Fi%2F10152844%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kadenrand/cabinet/banner2/11089026/1908413rank_smn.jpg?_ex=128x128"
-  - rank: 2
     name: "単三形 単四形 アルカリ乾電池 電池 40本 10本単位 選べる セット まとめ買い"
     brand: "単三形"
     price: 1040
@@ -62,40 +40,7 @@ products:
         reviewCount: 154
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tabemore_lr6n-03ns4"
         available: true
-  - rank: 3
-    name: "Enevolt basic アルカリ乾電池 単3・単4"
-    brand: "Enevolt basic（エネボルト ベーシック）"
-    price: 1980
-    capacity: "40本"
-    pricePerUnit: "約50円/本"
-    rating: 4.52
-    reviewCount: 668
-    features:
-      - "単3・単4をそろえられるアルカリ乾電池"
-      - "本数を選べるまとめ買いタイプ"
-      - "防災ストックにも使える構成"
-    pros:
-      - "まとめ買いでコスパを重視しやすい"
-      - "単3・単4を用途に合わせて選べる"
-      - "防災用のストックにも向く"
-    cons:
-      - "充電池ではなく使い切りタイプ"
-      - "保存期間を確認して使い切る計画が必要"
-    recommendedFor: "乾電池をまとめ買いしてストックしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qkvpn.3rdw6da8.g00qkvpn.3rdw7082/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F3rwebshop%2Fset-eva340%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F3rwebshop%2Fi%2F10008677%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/3rwebshop/cabinet/hansoku/06957443/set-eva38-2ab.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset-eva340.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-25"
-        price: 1880
-        rating: 4.49
-        reviewCount: 1936
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_set-eva340"
-        available: true
-  - rank: 4
+  - rank: 2
     name: "Panasonic アルカリ乾電池 単3形 14本パック"
     brand: "Panasonic"
     price: 759
@@ -128,7 +73,7 @@ products:
         reviewCount: 13
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4984824889071"
         available: true
-  - rank: 5
+  - rank: 3
     name: "富士通 アルカリ乾電池 プレミアムS 単3形 16本"
     brand: "富士通（FDK）"
     price: 960
@@ -150,14 +95,14 @@ products:
     recommendedFor: "富士通ブランドの電池を愛用している方・高品質アルカリを16本まとめて購入したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sjs2n.3rdw66d7.g00sjs2n.3rdw7ac9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fb-surprise2%2F4976680250058%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fb-surprise2%2Fi%2F10123347%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/b-surprise2/cabinet/cm102/4976680250058.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 4
     name: "パナソニック アルカリ乾電池 10年保存 20本セット"
     brand: "Panasonic"
     price: 1280
     capacity: "20本"
     pricePerUnit: "約64円/本"
     rating: 4.65
-    reviewCount: 1225
+    reviewCount: 1226
     features:
       - "10年長期保存対応のパナソニック製アルカリ電池"
       - "1パック4本×5パック構成で使いやすい量を分割して管理できる"
@@ -183,7 +128,7 @@ products:
         available: true
         rating: 4.51
         reviewCount: 3523
-  - rank: 7
+  - rank: 5
     name: "Panasonic エボルタNEO 乾電池 単3形 16本"
     brand: "Panasonic（エボルタNEO）"
     price: 1550
@@ -216,7 +161,7 @@ products:
         available: true
         rating: 4.84
         reviewCount: 43
-  - rank: 8
+  - rank: 6
     name: "エネボルト 充電池 単3 単4 セット 16本 ケース付 充電 電池 充電電池 充電"
     brand: "楽天市場"
     price: 2680
@@ -249,7 +194,7 @@ products:
         available: true
         rating: 4.46
         reviewCount: 2185
-  - rank: 9
+  - rank: 7
     name: "充電池 単3 単4 16本 セット エネボルト 電池 2150mAh 950mAh "
     brand: "充電池"
     price: 3120
@@ -282,7 +227,7 @@ products:
         available: true
         rating: 4.46
         reviewCount: 2185
-  - rank: 10
+  - rank: 8
     name: "単3電池 8本セット 繰り返し使う 充電池約1000回繰り返し使える enelong"
     brand: "単3電池"
     price: 3150
@@ -315,6 +260,61 @@ products:
         reviewCount: 557
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_ev30008"
         available: true
+  - rank: 9
+    name: "BIGCAPA basic アルカリ乾電池 選べる40本セット"
+    brand: "BIGCAPA"
+    price: 800
+    capacity: "40本"
+    rating: 4.63
+    reviewCount: 1110
+    features:
+      - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
+      - "5年保存対応のアルカリ電池でコスパ重視の設計"
+      - "メール便対応でまとめ買いでも送料を抑えやすい"
+    pros:
+      - "40本の大容量で1本あたりの単価を大幅に抑えられる"
+      - "単3と単4の混合セットが選べるので家庭の電池事情に合わせやすい"
+      - "防災備蓄・オフィスのストック管理に向いた量"
+    cons:
+      - "国内大手ブランドと比べるとブランド認知度は低め"
+      - "大量購入のため使用前にサイズ確認が重要"
+    recommendedFor: "家庭の電池を一括管理したい方・コストを徹底的に抑えたまとめ買いをしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvevn.3rdw6c9a.g00qvevn.3rdw7567/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkadenrand%2F1908413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkadenrand%2Fi%2F10152844%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kadenrand/cabinet/banner2/11089026/1908413rank_smn.jpg?_ex=128x128"
+    priceMax: 4899
+  - rank: 10
+    name: "Enevolt basic アルカリ乾電池 単3・単4"
+    brand: "Enevolt basic（エネボルト ベーシック）"
+    price: 480
+    capacity: "40本"
+    rating: 4.52
+    reviewCount: 668
+    features:
+      - "単3・単4をそろえられるアルカリ乾電池"
+      - "本数を選べるまとめ買いタイプ"
+      - "防災ストックにも使える構成"
+    pros:
+      - "まとめ買いでコスパを重視しやすい"
+      - "単3・単4を用途に合わせて選べる"
+      - "防災用のストックにも向く"
+    cons:
+      - "充電池ではなく使い切りタイプ"
+      - "保存期間を確認して使い切る計画が必要"
+    recommendedFor: "乾電池をまとめ買いしてストックしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qkvpn.3rdw6da8.g00qkvpn.3rdw7082/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F3rwebshop%2Fset-eva340%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F3rwebshop%2Fi%2F10008677%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/3rwebshop/cabinet/hansoku/06957443/set-eva38-2ab.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset-eva340.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-25"
+        price: 1880
+        rating: 4.49
+        reviewCount: 1936
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_set-eva340"
+        available: true
+    priceMax: 6680
 tags:
   - "乾電池 おすすめ"
   - "乾電池 コスパ"

@@ -4,7 +4,7 @@ description: "コスパいいヘアトリートメントを1g・1mLあたりで�
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -95,50 +95,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qklvn.3rdw6cc2.g00qklvn.3rdw7141/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymura7200%2Fschwarzkopf-kur-clsphm500%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymura7200%2Fi%2F10009582%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymura7200/cabinet/schwrzkopf/schwarzkopf-spc8.jpg?_ex=128x128"
   - rank: 4
-    name: "オルナオーガニック ヘアトリートメント 180g"
-    brand: "ALLNA ORGANIC（イルミルド）"
-    price: 2380
-    capacity: "180g"
-    pricePerUnit: "約13円/g"
-    rating: 4.66
-    reviewCount: 2265
-    features:
-      - "12種の植物成分を含む25種以上の植物由来成分配合"
-      - "シルク・ココナッツオイル・アルガンオイルなどの保湿成分を配合"
-      - "硫酸塩・パラベンなど8つの無添加処方"
-    pros:
-      - "植物由来成分主体で頭皮や髪に低刺激なケアができる"
-      - "オーガニック志向で成分にこだわりたい方に適している"
-      - "シャンプー後2〜3分放置するだけの手軽な使い方"
-    cons:
-      - "無添加処方のため強いダメージへの即効性は高補修タイプに劣る"
-      - "180gとやや少なめの容量"
-    recommendedFor: "成分・無添加にこだわりたい方・植物由来のナチュラルヘアケアを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b07gkxh2ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000959%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/905b07gkxh2ss-20.jpg?_ex=128x128"
-  - rank: 5
-    name: "クイーンズバスルーム システムトリートメント Step1 Step2 各240g×2"
-    brand: "クイーンズバスルーム"
-    price: 6600
-    capacity: "240g×2"
-    pricePerUnit: "約14円/g"
-    rating: 4.7
-    reviewCount: 636
-    features:
-      - "Step1とStep2の2剤式で段階的にダメージを補修するシステムトリートメント"
-      - "ケラチン・濃厚補修成分配合でハイダメージ・ブリーチ毛にアプローチ"
-      - "くせ毛・縮毛矯正・髪質改善ケアにも対応した多機能処方"
-    pros:
-      - "2ステップで深部からの補修と仕上げを分けて行えるため効果的"
-      - "ブリーチ毛・ハイダメージ毛など重度のダメージにも対応できる"
-      - "各240gの大容量セットでコスパよく続けられる"
-    cons:
-      - "2剤式のため手順が多く、時短を重視する方には手間がかかる"
-      - "Step1とStep2をセットで揃える必要があり初期費用がかかる"
-    recommendedFor: "ブリーチ・ハイダメージ毛を本格的にケアしたい方・2ステップのサロンライクなケアを自宅で行いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qjlvn.3rdw6daa.g00qjlvn.3rdw7d36/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fque-bath%2F10000082%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fque-bath%2Fi%2F10000082%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/que-bath/cabinet/10259420/imgrc0089577437.jpg?_ex=128x128"
-  - rank: 6
     name: "LUXスーパーリッチシャイン ダメージリペア 洗い流すトリートメント ヘアマスク"
     brand: "ユニリーバ（LUX）"
     price: 2377
@@ -160,7 +116,7 @@ products:
     recommendedFor: "毎日のケアとしてコスパよく続けたい方・香りを楽しみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prvmn.3rdw683e.g00prvmn.3rdw7a5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwich%2Fluxhairmaskset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwich%2Fi%2F10023186%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wich/cabinet/gazou62/luxhairmaskset-1.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 5
     name: "トリートメント フォンダン オレオ リラックス 200mL"
     brand: "ケラスターゼ"
     price: 4400
@@ -193,7 +149,7 @@ products:
         available: true
         rating: 4.65
         reviewCount: 37
-  - rank: 8
+  - rank: 6
     name: "スペシャルトリートメント マスク オレオ リラックス 200mL"
     brand: "ケラスターゼ"
     price: 7040
@@ -215,10 +171,54 @@ products:
     recommendedFor: "くせ毛・広がりが悩みの方・湿気に負けないまとまり髪を目指す方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fdp-masqor_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/dp-masqor_200/2.jpg?_ex=128x128"
+  - rank: 7
+    name: "オルナオーガニック ヘアトリートメント 180g"
+    brand: "ALLNA ORGANIC（イルミルド）"
+    price: 2380
+    capacity: "180g"
+    rating: 4.66
+    reviewCount: 2266
+    features:
+      - "12種の植物成分を含む25種以上の植物由来成分配合"
+      - "シルク・ココナッツオイル・アルガンオイルなどの保湿成分を配合"
+      - "硫酸塩・パラベンなど8つの無添加処方"
+    pros:
+      - "植物由来成分主体で頭皮や髪に低刺激なケアができる"
+      - "オーガニック志向で成分にこだわりたい方に適している"
+      - "シャンプー後2〜3分放置するだけの手軽な使い方"
+    cons:
+      - "無添加処方のため強いダメージへの即効性は高補修タイプに劣る"
+      - "180gとやや少なめの容量"
+    recommendedFor: "成分・無添加にこだわりたい方・植物由来のナチュラルヘアケアを求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b07gkxh2ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000959%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/905b07gkxh2ss-20.jpg?_ex=128x128"
+    priceMax: 4760
+  - rank: 8
+    name: "クイーンズバスルーム システムトリートメント Step1 Step2 各240g×2"
+    brand: "クイーンズバスルーム"
+    price: 6600
+    capacity: "240g×2"
+    rating: 4.7
+    reviewCount: 636
+    features:
+      - "Step1とStep2の2剤式で段階的にダメージを補修するシステムトリートメント"
+      - "ケラチン・濃厚補修成分配合でハイダメージ・ブリーチ毛にアプローチ"
+      - "くせ毛・縮毛矯正・髪質改善ケアにも対応した多機能処方"
+    pros:
+      - "2ステップで深部からの補修と仕上げを分けて行えるため効果的"
+      - "ブリーチ毛・ハイダメージ毛など重度のダメージにも対応できる"
+      - "各240gの大容量セットでコスパよく続けられる"
+    cons:
+      - "2剤式のため手順が多く、時短を重視する方には手間がかかる"
+      - "Step1とStep2をセットで揃える必要があり初期費用がかかる"
+    recommendedFor: "ブリーチ・ハイダメージ毛を本格的にケアしたい方・2ステップのサロンライクなケアを自宅で行いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qjlvn.3rdw6daa.g00qjlvn.3rdw7d36/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fque-bath%2F10000082%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fque-bath%2Fi%2F10000082%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/que-bath/cabinet/10259420/imgrc0089577437.jpg?_ex=128x128"
+    priceMax: 13200
   - rank: 9
     name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
     brand: "ファイントゥデイ（フィーノ）"
-    price: 2340
+    price: 2321
     capacity: "-"
     pricePerUnit: "-"
     rating: 5

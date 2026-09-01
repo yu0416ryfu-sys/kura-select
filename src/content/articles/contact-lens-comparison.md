@@ -4,7 +4,7 @@ description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹
 category: "contact-lens"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
     name: "ロートCキューブ ソフトワン モイストa"
@@ -249,39 +249,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qym5n.3rdw62ce.g00qym5n.3rdw72cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhitomi-cl%2Fopfplus_6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhitomi-cl%2Fi%2F10000358%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hitomi-cl/cabinet/care/optifreeplus/opx10_6.jpg?_ex=128x128"
   - rank: 9
-    name: "コンセプト ワンステップ トリプルパック"
-    brand: "ジョンソン・エンド・ジョンソン"
-    price: 4718
-    capacity: "300mL×6本"
-    pricePerUnit: "約2.6円/mL"
-    rating: 4.7
-    reviewCount: 610
-    features:
-      - "コンセプトワンステップのトリプルパック構成"
-      - "ソフトコンタクトレンズ向けの洗浄・保存・消毒ケア"
-      - "複数本をまとめて用意できるセット"
-    pros:
-      - "ワンステップ式を継続したい方に選びやすい"
-      - "自宅用ストックとして本数を確保しやすい"
-      - "MPSとは違うケア方式を試したい方の候補になる"
-    cons:
-      - "専用手順を守らないとトラブルにつながる可能性がある"
-      - "短時間で付け外しを繰り返す用途には向かない"
-    recommendedFor: "コンセプトワンステップをまとめて購入したいソフトレンズユーザー"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rupxn.3rdw625a.g00rupxn.3rdw7ed5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flensget%2Famsoco300t-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flensget%2Fi%2F10000311%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lensget/cabinet/product/sub/am/imgrc0087821164.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flensfree%2Famsoco300t-2.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-31"
-        price: 4800
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lensfree_amsoco300t-2"
-        available: true
-        rating: 4.71
-        reviewCount: 34
-  - rank: 10
     name: "アイミー ワンオーケア"
     brand: "アイミー"
     price: 4000
@@ -314,6 +281,39 @@ products:
         available: true
         rating: 4.78
         reviewCount: 85
+  - rank: 10
+    name: "コンセプト ワンステップ トリプルパック"
+    brand: "ジョンソン・エンド・ジョンソン"
+    price: 3180
+    capacity: "300mL×6本"
+    rating: 4.7
+    reviewCount: 610
+    features:
+      - "コンセプトワンステップのトリプルパック構成"
+      - "ソフトコンタクトレンズ向けの洗浄・保存・消毒ケア"
+      - "複数本をまとめて用意できるセット"
+    pros:
+      - "ワンステップ式を継続したい方に選びやすい"
+      - "自宅用ストックとして本数を確保しやすい"
+      - "MPSとは違うケア方式を試したい方の候補になる"
+    cons:
+      - "専用手順を守らないとトラブルにつながる可能性がある"
+      - "短時間で付け外しを繰り返す用途には向かない"
+    recommendedFor: "コンセプトワンステップをまとめて購入したいソフトレンズユーザー"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rupxn.3rdw625a.g00rupxn.3rdw7ed5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flensget%2Famsoco300t-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flensget%2Fi%2F10000311%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lensget/cabinet/product/sub/am/imgrc0087821164.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flensfree%2Famsoco300t-2.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-31"
+        price: 4800
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lensfree_amsoco300t-2"
+        available: true
+        rating: 4.71
+        reviewCount: 34
+    priceMax: 10118
 tags:
   - "コンタクト洗浄液 おすすめ"
   - "コンタクト MPS コスパ"

@@ -196,28 +196,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4580173961293"
         available: true
   - rank: 8
-    name: "VT PRO CICA クリアスポットパッチ 48枚"
-    brand: "VT Cosmetics"
-    price: 880
-    capacity: "48枚"
-    pricePerUnit: "約18円/枚"
-    rating: 4.51
-    reviewCount: 1499
-    features:
-      - "硬質ハイドロゲルを使用したスポットパッチ"
-      - "2サイズ（10mm・12mm）のパッチが1セットに入った構成"
-      - "CICA（ツボクサエキス）配合の集中ケア設計"
-    pros:
-      - "サイズ違い2種類が入っており、ニキビの大きさに合わせて使い分けられる"
-      - "透明で目立ちにくく、昼間の使用を意識した仕上がり"
-      - "VT PROシリーズの最小単位として試しやすい"
-    cons:
-      - "VT CICAシリーズより高機能設計のため単価は上がりやすい"
-      - "CICA成分に敏感な肌はパッチテストを推奨"
-    recommendedFor: "VT PROシリーズを初めて試したい方・サイズ使い分けを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdqzn.3rdw68dd.g00tdqzn.3rdw7223/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskindesign%2Fvt-pro-cica-patch%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskindesign%2Fi%2F10001694%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/skindesign/cabinet/cosme/vt/cica_patch/vt-spotpt-new00.jpg?_ex=128x128"
-  - rank: 9
     name: "アクネスラボ 夜用ポイントパッチ"
     brand: "ネイチャーラボ（アクネスラボ）"
     price: 1078
@@ -250,7 +228,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4580173961811"
         available: true
-  - rank: 10
+  - rank: 9
     name: "VT CICA クリアスポットパッチ 48枚"
     brand: "VT Cosmetics"
     price: 1000
@@ -283,6 +261,28 @@ products:
         available: true
         rating: 4.65
         reviewCount: 17
+  - rank: 10
+    name: "VT PRO CICA クリアスポットパッチ 48枚"
+    brand: "VT Cosmetics"
+    price: 880
+    capacity: "48枚"
+    rating: 4.51
+    reviewCount: 1499
+    features:
+      - "硬質ハイドロゲルを使用したスポットパッチ"
+      - "2サイズ（10mm・12mm）のパッチが1セットに入った構成"
+      - "CICA（ツボクサエキス）配合の集中ケア設計"
+    pros:
+      - "サイズ違い2種類が入っており、ニキビの大きさに合わせて使い分けられる"
+      - "透明で目立ちにくく、昼間の使用を意識した仕上がり"
+      - "VT PROシリーズの最小単位として試しやすい"
+    cons:
+      - "VT CICAシリーズより高機能設計のため単価は上がりやすい"
+      - "CICA成分に敏感な肌はパッチテストを推奨"
+    recommendedFor: "VT PROシリーズを初めて試したい方・サイズ使い分けを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdqzn.3rdw68dd.g00tdqzn.3rdw7223/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskindesign%2Fvt-pro-cica-patch%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskindesign%2Fi%2F10001694%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/skindesign/cabinet/cosme/vt/cica_patch/vt-spotpt-new00.jpg?_ex=128x128"
+    priceMax: 3250
 tags:
   - "ニキビパッチ おすすめ"
   - "ニキビパッチ コスパ"

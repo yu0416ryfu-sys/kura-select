@@ -8,28 +8,6 @@ updatedAt: "2026-09-01"
 draft: false
 products:
   - rank: 1
-    name: "精製ホホバオイル クリア"
-    brand: "自然化粧品研究所"
-    price: 1000
-    capacity: "100mL"
-    pricePerUnit: "約10円/mL"
-    rating: 4.66
-    reviewCount: 2005
-    features:
-      - "天然100%・無添加の精製（クリア）ホホバオイル。スキンケア・マッサージ・ヘアに多目的使用可"
-      - "100mL・300mL・500mL・1000mLの大容量まで選べるサイズ展開"
-      - "精製処理によって色・においが少なく使いやすい透明タイプ"
-    pros:
-      - "ヘアケアとスキンケアを1本で使い回せるため日用品として管理しやすい"
-      - "大容量サイズがありまとめ買いで長期使用しやすい"
-      - "無添加・天然100%でシンプルな成分処方を好む人に向く"
-    cons:
-      - "専用ヘアオイルに比べ、補修・スタイリング特化成分は少なめ"
-      - "仕上がりの質感は専用ブレンド処方のヘアオイルとは異なる"
-    recommendedFor: "ヘアオイルとスキンケアオイルを兼用したい人・シンプルな成分処方を好む人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ps7en.3rdw689b.g00ps7en.3rdw765e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturalcosmetic%2F456840%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturalcosmetic%2Fi%2F10000564%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturalcosmetic/cabinet/jojobaoil-mk2.jpg?_ex=128x128"
-  - rank: 2
     name: "ルシードエル EXヘアリペアオイル 60mL"
     brand: "LUCIDO-L（マンダム）"
     price: 948
@@ -62,12 +40,55 @@ products:
         reviewCount: 16
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902806100587"
         available: true
+  - rank: 2
+    name: "マドンナリリ ヘアオイル 100mL"
+    brand: "MADONNA LILI"
+    price: 3840
+    capacity: "100mL"
+    pricePerUnit: "約38円/mL"
+    rating: 4.58
+    reviewCount: 5304
+    features:
+      - "天然植物由来成分100%・無添加処方（パラベン・シリコン・鉱物油不使用）"
+      - "アルガンオイルなど天然オイル配合のさらさら軽め仕上がり"
+      - "洗い流さないアウトバストリートメント・日本製"
+    pros:
+      - "無添加・天然由来にこだわりたい人が選びやすい"
+      - "べたつきにくい軽い使用感のため、細毛や軟毛の人にも向く"
+      - "日本製にこだわる人が選びやすい"
+    cons:
+      - "シリコン系ほどのコーティング感・まとまり感は出にくい"
+      - "天然由来の香りのため、香りの強さが人によって合わない場合がある"
+    recommendedFor: "無添加・天然由来成分にこだわりたい人・軽いさらさら仕上がりを好む人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ulahn.3rdw62d3.g00ulahn.3rdw7299/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1000cut-carpediem%2Fb08svn8ww7%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1000cut-carpediem%2Fi%2F10149741%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1000cut-carpediem/cabinet/rakub210_0064/b08svn8ww700.jpg?_ex=128x128"
   - rank: 3
+    name: "精製ホホバオイル クリア"
+    brand: "自然化粧品研究所"
+    price: 1000
+    capacity: "100mL"
+    rating: 4.66
+    reviewCount: 2005
+    features:
+      - "天然100%・無添加の精製（クリア）ホホバオイル。スキンケア・マッサージ・ヘアに多目的使用可"
+      - "100mL・300mL・500mL・1000mLの大容量まで選べるサイズ展開"
+      - "精製処理によって色・においが少なく使いやすい透明タイプ"
+    pros:
+      - "ヘアケアとスキンケアを1本で使い回せるため日用品として管理しやすい"
+      - "大容量サイズがありまとめ買いで長期使用しやすい"
+      - "無添加・天然100%でシンプルな成分処方を好む人に向く"
+    cons:
+      - "専用ヘアオイルに比べ、補修・スタイリング特化成分は少なめ"
+      - "仕上がりの質感は専用ブレンド処方のヘアオイルとは異なる"
+    recommendedFor: "ヘアオイルとスキンケアオイルを兼用したい人・シンプルな成分処方を好む人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ps7en.3rdw689b.g00ps7en.3rdw765e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturalcosmetic%2F456840%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturalcosmetic%2Fi%2F10000564%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturalcosmetic/cabinet/jojobaoil-mk2.jpg?_ex=128x128"
+    priceMax: 18711
+  - rank: 4
     name: "YOLU ディープナイトリペアヘアオイル"
     brand: "YOLU（I-ne）"
     price: 1580
     capacity: "80mL"
-    pricePerUnit: "約20円/mL"
     rating: 4.75
     reviewCount: 8
     features:
@@ -95,12 +116,12 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6067551"
         available: true
-  - rank: 4
+    priceMax: 2780
+  - rank: 5
     name: "N. ポリッシュオイル"
     brand: "ナプラ"
     price: 2962
     capacity: "150mL"
-    pricePerUnit: "約20円/mL"
     rating: 4.55
     reviewCount: 1095
     features:
@@ -128,12 +149,12 @@ products:
         available: true
         rating: 4.61
         reviewCount: 271
-  - rank: 5
+    priceMax: 8406
+  - rank: 6
     name: "オーガニックホホバオイル ゴールデン"
     brand: "自然化粧品研究所"
     price: 567
     capacity: "20mL"
-    pricePerUnit: "約28円/mL"
     rating: 4.71
     reviewCount: 2001
     features:
@@ -148,15 +169,15 @@ products:
       - "スタイリング補助成分が含まれないため、まとまり感は出にくい"
     recommendedFor: "オーガニック原料にこだわりたい人・ホホバオイルを頭皮ケアと髪の保湿に活用したい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ps7en.3rdw689b.g00ps7en.3rdw765e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturalcosmetic%2F10000888%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturalcosmetic%2Fi%2F10000888%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturalcosmetic/cabinet/jojoba-gld-mk2.jpg?_ex=128x128"
-  - rank: 6
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturalcosmetic/cabinet/banner/jojoba-gld-mksale.jpg?_ex=128x128"
+    priceMax: 22720
+  - rank: 7
     name: "オルナオーガニック ヘアオイル"
     brand: "ALLNA ORGANIC（イルミルド）"
     price: 2280
     capacity: "80mL"
-    pricePerUnit: "約29円/mL"
     rating: 4.64
-    reviewCount: 13780
+    reviewCount: 13783
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -182,14 +203,14 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/adew_manual-haire-3set"
         available: true
-  - rank: 7
+    priceMax: 4560
+  - rank: 8
     name: "LOA THE OIL"
     brand: "life of aroma"
     price: 3520
     capacity: "100mL"
-    pricePerUnit: "約35円/mL"
     rating: 4.64
-    reviewCount: 4017
+    reviewCount: 4022
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"
@@ -215,34 +236,12 @@ products:
         available: true
         rating: 4.67
         reviewCount: 405
-  - rank: 8
-    name: "マドンナリリ ヘアオイル 100mL"
-    brand: "MADONNA LILI"
-    price: 3840
-    capacity: "100mL"
-    pricePerUnit: "約38円/mL"
-    rating: 4.58
-    reviewCount: 5304
-    features:
-      - "天然植物由来成分100%・無添加処方（パラベン・シリコン・鉱物油不使用）"
-      - "アルガンオイルなど天然オイル配合のさらさら軽め仕上がり"
-      - "洗い流さないアウトバストリートメント・日本製"
-    pros:
-      - "無添加・天然由来にこだわりたい人が選びやすい"
-      - "べたつきにくい軽い使用感のため、細毛や軟毛の人にも向く"
-      - "日本製にこだわる人が選びやすい"
-    cons:
-      - "シリコン系ほどのコーティング感・まとまり感は出にくい"
-      - "天然由来の香りのため、香りの強さが人によって合わない場合がある"
-    recommendedFor: "無添加・天然由来成分にこだわりたい人・軽いさらさら仕上がりを好む人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ulahn.3rdw62d3.g00ulahn.3rdw7299/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1000cut-carpediem%2Fb08svn8ww7%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1000cut-carpediem%2Fi%2F10149741%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1000cut-carpediem/cabinet/rakub210_0064/b08svn8ww700.jpg?_ex=128x128"
+    priceMax: 6930
   - rank: 9
     name: "海藻ヘアエッセンス しっとり"
     brand: "Lasana（ラサーナ）"
-    price: 3080
+    price: 1100
     capacity: "75mL"
-    pricePerUnit: "約41円/mL"
     rating: 4.75
     reviewCount: 2909
     features:
@@ -270,12 +269,12 @@ products:
         reviewCount: 15
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6016812"
         available: true
+    priceMax: 8980
   - rank: 10
     name: "アメイジングシャインヘアオイル"
     brand: "クイーンズバスルーム"
     price: 3300
     capacity: "50mL"
-    pricePerUnit: "約66円/mL"
     rating: 4.59
     reviewCount: 2544
     features:
@@ -292,6 +291,7 @@ products:
     recommendedFor: "ドライ後の仕上げにヘアオイルを取り入れたい人・ハイダメージ毛のツヤ出しをしたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qjlvn.3rdw6daa.g00qjlvn.3rdw7d36/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fque-bath%2F100000022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fque-bath%2Fi%2F10000044%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/que-bath/cabinet/10279123/newhairoilmain.jpg?_ex=128x128"
+    priceMax: 9900
 tags:
   - "ヘアオイル おすすめ"
   - "ヘアオイル コスパ"

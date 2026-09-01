@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 draft: false
 products:
   - rank: 1
@@ -41,28 +41,6 @@ products:
         rating: 4.83
         reviewCount: 6
   - rank: 2
-    name: "5種のヒアルロン酸配合スキンローション 600ml"
-    brand: "3種のヒアルロン酸配合スキンローショ"
-    price: 1250
-    capacity: "600ml"
-    pricePerUnit: "約2.1円/mL"
-    rating: 4.59
-    reviewCount: 556
-    features:
-      - "全身の保湿に使いやすいローションタイプ"
-      - "ポンプや大容量など日常使いしやすい設計"
-      - "家族で使いやすい処方・使用感を意識した商品"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F4731%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10000232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/04815981/4731-m01c.jpg?_ex=128x128"
-  - rank: 3
     name: "ダイアンボタニカル ボディミルク"
     brand: "Moist Diane（ネイチャーラボ）"
     price: 1097
@@ -95,7 +73,7 @@ products:
         reviewCount: 25
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4560119225856"
         available: true
-  - rank: 4
+  - rank: 3
     name: "ビオレu お風呂で使ううるおいミルク 無香料 300mL"
     brand: "花王（ビオレu）"
     price: 728
@@ -128,7 +106,7 @@ products:
         available: true
         rating: 4.85
         reviewCount: 26
-  - rank: 5
+  - rank: 4
     name: "エリザベスアーデン グリーンティー ボディローション 500mL"
     brand: "Elizabeth Arden（エリザベスアーデン）"
     price: 2180
@@ -161,7 +139,7 @@ products:
         reviewCount: 151
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bettysbeauty_10910012"
         available: true
-  - rank: 6
+  - rank: 5
     name: "セラミエイド 薬用スキンミルク"
     brand: "池田模範堂（セラミエイド）"
     price: 2420
@@ -194,7 +172,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 7
+  - rank: 6
     name: "キュレル ローション"
     brand: "花王（キュレル）"
     price: 3850
@@ -227,29 +205,7 @@ products:
         reviewCount: 36
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10161795"
         available: true
-  - rank: 8
-    name: "ママフィ 潤いミルキーローション (本体350ml/つめかえ用310ml) 赤ちゃん"
-    brand: "楽天市場"
-    price: 3080
-    capacity: "350ml"
-    pricePerUnit: "約8.8円/ml"
-    rating: 4.75
-    reviewCount: 643
-    features:
-      - "全身の保湿に使いやすいローションタイプ"
-      - "ポンプや大容量など日常使いしやすい設計"
-      - "家族で使いやすい処方・使用感を意識した商品"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tds4n.3rdw67bf.g00tds4n.3rdw7dc8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuishodo-pharma%2F4987314009041%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuishodo-pharma%2Fi%2F10000040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suishodo-pharma/cabinet/mamafy/milkylotion/milky310310_thm-p10.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 7
     name: "ベビーローション 乳液 大容量 300ml 保湿 無添加 オーガニック 赤ちゃん ベ"
     brand: "ベビーローション"
     price: 4180
@@ -271,12 +227,55 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r8u8n.3rdw60ec.g00r8u8n.3rdw72c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmishii-list%2Fbabyborn%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmishii-list%2Fi%2F10001646%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mishii-list/cabinet/item/thum_190219/r4_babyborn.jpg?_ex=128x128"
+  - rank: 8
+    name: "5種のヒアルロン酸配合スキンローション 600ml"
+    brand: "3種のヒアルロン酸配合スキンローショ"
+    price: 1250
+    capacity: "600ml"
+    rating: 4.59
+    reviewCount: 556
+    features:
+      - "全身の保湿に使いやすいローションタイプ"
+      - "ポンプや大容量など日常使いしやすい設計"
+      - "家族で使いやすい処方・使用感を意識した商品"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F4731%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10000232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/04815981/4731-m01c.jpg?_ex=128x128"
+    priceMax: 7200
+  - rank: 9
+    name: "ママフィ 潤いミルキーローション (本体350ml/つめかえ用310ml) 赤ちゃん"
+    brand: "楽天市場"
+    price: 3080
+    capacity: "350ml"
+    rating: 4.75
+    reviewCount: 643
+    features:
+      - "全身の保湿に使いやすいローションタイプ"
+      - "ポンプや大容量など日常使いしやすい設計"
+      - "家族で使いやすい処方・使用感を意識した商品"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tds4n.3rdw67bf.g00tds4n.3rdw7dc8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuishodo-pharma%2F4987314009041%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuishodo-pharma%2Fi%2F10000040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suishodo-pharma/cabinet/mamafy/milkylotion/milky310310_thm-p10.jpg?_ex=128x128"
+    priceMax: 7920
   - rank: 10
     name: "ヴァセリン アドバンスドリペア ボディローション 3本セット(500mlx3) バセ"
     brand: "ヴァセリン"
     price: 2228
     capacity: "3本"
-    pricePerUnit: "約743円/本"
     rating: 4.78
     reviewCount: 508
     features:
@@ -304,6 +303,7 @@ products:
         available: true
         rating: 4.79
         reviewCount: 34
+    priceMax: 4356
 tags:
   - "ボディローション おすすめ"
   - "ボディミルク コスパ"

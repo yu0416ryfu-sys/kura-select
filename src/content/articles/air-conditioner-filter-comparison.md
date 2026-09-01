@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 draft: false
 products:
   - rank: 1
@@ -108,39 +108,6 @@ products:
         matchStatus: "pending"
         updatedAt: "2026-05-19"
   - rank: 4
-    name: "ペタッとキャッチ エアコンフィルター"
-    brand: "新北九州工業"
-    price: 548
-    capacity: "1枚"
-    pricePerUnit: "約548円/枚"
-    rating: 4.86
-    reviewCount: 7
-    features:
-      - "粘着シール付きで工具不要、フレームなしで貼るだけの家庭用フィルター"
-      - "サイズ 38×80cm、標準的な家庭用エアコンに対応"
-      - "ウイルス・花粉・アレルギー物質の対策機能付き、防臭加工あり"
-    pros:
-      - "貼るだけで装着できるため取り付け作業が手軽"
-      - "まとめ買い（5枚・10枚セット）で1枚あたりのコストを抑えやすい"
-      - "防臭・花粉対策機能付きで空気質の改善が期待できる"
-    cons:
-      - "粘着式のため時間経過で粘着力が低下し定期的な交換が必要"
-      - "フレームのないタイプのためエアコン形状によっては位置ずれが気になる場合がある"
-    recommendedFor: "花粉症や臭い対策を重視したい方・手軽に貼るだけで済ませたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qg7pn.3rdw68ab.g00qg7pn.3rdw73fc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fassistone%2F97008282%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fassistone%2Fi%2F10010356%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/assistone/cabinet/shinkita/97008282-rogon.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F478367.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-05"
-        price: 478
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_478367"
-        available: true
-        rating: 0
-        reviewCount: 0
-  - rank: 5
     name: "パッと貼るだけホコリとりフィルター エアコン用 10個セット"
     brand: "東洋アルミ"
     price: 5580
@@ -162,7 +129,7 @@ products:
     recommendedFor: "長期ストックでコスパを重視したい方・まとめ買いで補充の手間を減らしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t9gln.3rdw61c2.g00t9gln.3rdw7522/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffirst34%2Fkaj-250805g0030510%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffirst34%2Fi%2F25127395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/first34/cabinet/image_sku/26032012_set_10/1890.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 5
     name: "エアコン内部フィルター ペタらく"
     brand: "ペタらく"
     price: 580
@@ -184,7 +151,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ty7xn.3rdw602e.g00ty7xn.3rdw73a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftuhan-ya-2%2F391770%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftuhan-ya-2%2Fi%2F10041601%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tuhan-ya-2/cabinet/tmb/0391770.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 6
     name: "東洋アルミ ウイルス対策ホコリとりフィルター エアコン・空気清浄機用 3個"
     brand: "東洋アルミ"
     price: 1942
@@ -206,7 +173,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00txw5n.3rdw6312.g00txw5n.3rdw7ed3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthree-s-mart%2Fonp-4901987254072-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthree-s-mart%2Fi%2F10001172%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/three-s-mart/cabinet/4901987254072-31.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "スターフィルター カビブロックバイオ酵素フィルター エアコン用 2枚入"
     brand: "スターフィルター"
     price: 1590
@@ -228,7 +195,7 @@ products:
     recommendedFor: "カビや臭い対策を重視する方、エアコン洗浄後のメンテナンスに使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s1l0n.3rdw6a90.g00s1l0n.3rdw70d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfilter%2Fsf100003-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarfilter%2Fi%2F10000090%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/starfilter/cabinet/item/main/imgrc0133123266.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "エアークエストグリーン38 エアコンフィルター 2枚入"
     brand: "エアークエスト"
     price: 2451
@@ -261,7 +228,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/douguyasan_p5-tasco-ta981ag-2"
         available: true
-  - rank: 10
+  - rank: 9
     name: "CleAirWin エアコンフィルター家庭用 抗菌 抗ウイルス 400×800mm"
     brand: "空気の王様"
     price: 4510
@@ -283,6 +250,39 @@ products:
     recommendedFor: "ウイルス対策・花粉対策を兼ねたい方・高機能なフィルターにこだわりたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q0men.3rdw60af.g00q0men.3rdw7e6b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuteteko%2Fcra002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuteteko%2Fi%2F10045452%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suteteko/cabinet/fd070/cra002-1.jpg?_ex=128x128"
+  - rank: 10
+    name: "ペタッとキャッチ エアコンフィルター"
+    brand: "新北九州工業"
+    price: 548
+    capacity: "1枚"
+    rating: 4.86
+    reviewCount: 7
+    features:
+      - "粘着シール付きで工具不要、フレームなしで貼るだけの家庭用フィルター"
+      - "サイズ 38×80cm、標準的な家庭用エアコンに対応"
+      - "ウイルス・花粉・アレルギー物質の対策機能付き、防臭加工あり"
+    pros:
+      - "貼るだけで装着できるため取り付け作業が手軽"
+      - "まとめ買い（5枚・10枚セット）で1枚あたりのコストを抑えやすい"
+      - "防臭・花粉対策機能付きで空気質の改善が期待できる"
+    cons:
+      - "粘着式のため時間経過で粘着力が低下し定期的な交換が必要"
+      - "フレームのないタイプのためエアコン形状によっては位置ずれが気になる場合がある"
+    recommendedFor: "花粉症や臭い対策を重視したい方・手軽に貼るだけで済ませたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qg7pn.3rdw68ab.g00qg7pn.3rdw73fc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fassistone%2F97008282%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fassistone%2Fi%2F10010356%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/assistone/cabinet/shinkita/97008282-rogon.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F478367.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-05"
+        price: 478
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_478367"
+        available: true
+        rating: 0
+        reviewCount: 0
+    priceMax: 5478
 tags:
   - "エアコンフィルター おすすめ"
   - "エアコンフィルター コスパ"

@@ -184,28 +184,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvhdn.3rdw6896.g00rvhdn.3rdw7113/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaily-shop%2F10003997%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaily-shop%2Fi%2F10003997%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daily-shop/cabinet/35/4546490506692-tg0.jpg?_ex=128x128"
   - rank: 8
-    name: "プチなべ IH対応 卓上鍋 蓋付き"
-    brand: "和平フレイズ"
-    price: 2680
-    capacity: "16cm / 1個"
-    pricePerUnit: "約2680円/個"
-    rating: 4.46
-    reviewCount: 13
-    features:
-      - "IH・ガス火両対応の16cm卓上鍋"
-      - "内面はセラミック塗膜加工"
-      - "アルミ製の軽量タイプで小さく収納しやすい"
-    pros:
-      - "一人分の鍋料理に使いやすいサイズ"
-      - "卓上に出しやすい淡いカラー展開"
-      - "小ぶりで洗いやすく日常使いしやすい"
-    cons:
-      - "食器洗い乾燥機は使用不可"
-      - "大きめの具材を多く入れる用途には小さめ"
-    recommendedFor: "一人暮らしで卓上鍋をコンパクトに使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgo8n.3rdw65ec.g00tgo8n.3rdw717e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstore-marufuku%2Fadaq-a76076%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstore-marufuku%2Fi%2F10012869%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/store-marufuku/cabinet/shohin/tanaka7/adaq-a76076_1.jpg?_ex=128x128"
-  - rank: 9
     name: "卓上鍋 18cm IH対応 軽量 蓋付き プチなべ"
     brand: "和平フレイズ"
     price: 2950
@@ -227,7 +205,7 @@ products:
     recommendedFor: "一人鍋だけでなく、少人数の取り分けにも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F462344%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10207572%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_wahei10/462344.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 9
     name: "富士ホーロー コットン ミルクパン 14cm IH対応"
     brand: "FYP"
     price: 3300
@@ -249,6 +227,28 @@ products:
     recommendedFor: "ホーローの片手鍋でミルクパン兼用に使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rhi5n.3rdw6f4a.g00rhi5n.3rdw7b06/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcooking-clocca%2Ffuji-ctn14m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcooking-clocca%2Fi%2F10005336%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cooking-clocca/cabinet/03069247/03181597/fuji-ctn14m_01-1.jpg?_ex=128x128"
+  - rank: 10
+    name: "プチなべ IH対応 卓上鍋 蓋付き"
+    brand: "和平フレイズ"
+    price: 2480
+    capacity: "16cm / 1個"
+    rating: 4.46
+    reviewCount: 13
+    features:
+      - "IH・ガス火両対応の16cm卓上鍋"
+      - "内面はセラミック塗膜加工"
+      - "アルミ製の軽量タイプで小さく収納しやすい"
+    pros:
+      - "一人分の鍋料理に使いやすいサイズ"
+      - "卓上に出しやすい淡いカラー展開"
+      - "小ぶりで洗いやすく日常使いしやすい"
+    cons:
+      - "食器洗い乾燥機は使用不可"
+      - "大きめの具材を多く入れる用途には小さめ"
+    recommendedFor: "一人暮らしで卓上鍋をコンパクトに使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgo8n.3rdw65ec.g00tgo8n.3rdw717e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstore-marufuku%2Fadaq-a76076%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstore-marufuku%2Fi%2F10012869%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/store-marufuku/cabinet/shohin/tanaka7/adaq-a76076_1.jpg?_ex=128x128"
+    priceMax: 2680
 tags:
   - "IH対応鍋"
   - "一人用鍋"

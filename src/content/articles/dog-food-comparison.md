@@ -10,9 +10,9 @@ products:
   - rank: 1
     name: "カークランド ドッグフード チキン ライス 成犬用 12kg"
     brand: "Kirkland"
-    price: 5790
+    price: 5660
     capacity: "12kg"
-    pricePerUnit: "約483円/kg"
+    pricePerUnit: "約472円/kg"
     rating: 4.62
     reviewCount: 21
     features:
@@ -140,39 +140,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/koji_3182550746076-s"
         available: true
   - rank: 5
-    name: "ロイヤルカナン ダックスフンド 成犬用"
-    brand: "ロイヤルカナン"
-    price: 4988
-    capacity: "3kg"
-    pricePerUnit: "約1663円/kg"
-    rating: 4.71
-    reviewCount: 181
-    features:
-      - "ダックスフンド専用に設計された犬種別ドライフード（生後10ヶ月齢以上対象）"
-      - "オメガ3脂肪酸（EPA+DHA）・L-カルニチン配合の栄養設計"
-      - "ジッパー付きパッケージで開封後の保管がしやすい"
-    pros:
-      - "ダックスフンド専用設計のため犬種の体型・特性に合わせた栄養バランスが明確"
-      - "ロイヤルカナンの犬種別シリーズとして品質管理が一定で継続使用実績が多い"
-      - "ジッパー付きで保管しやすく、少量ずつ使い切りやすい"
-    cons:
-      - "ダックスフンド専用のため他犬種には適さない"
-      - "犬種別専用品のため汎用フードよりg単価が高くなりやすい"
-    recommendedFor: "ダックスフンドを飼育している方・犬種別設計フードを使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F9214451%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10000305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/royalcanin/9214451main.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 4948
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
-        available: true
-        rating: 4.56
-        reviewCount: 16
-  - rank: 6
     name: "ニュートロ ナチュラルチョイス 小型犬用 成犬用 チキン&玄米 6kg"
     brand: "ニュートロ"
     price: 11364
@@ -205,7 +172,7 @@ products:
         available: true
         rating: 4.71
         reviewCount: 168
-  - rank: 7
+  - rank: 6
     name: "アーテミス フレッシュミックス スモールブリードアダルト3kg 小粒 小型犬 成犬 "
     brand: "アーテミス"
     price: 5830
@@ -226,7 +193,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q1mvn.3rdw675d.g00q1mvn.3rdw735a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogparadise%2F4562192370942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogparadise%2Fi%2F10004845%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/ad_cart/100kpoint/02/0813369001904.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/artemis/0813369001904.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -238,12 +205,44 @@ products:
         reviewCount: 102
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_0813369001904"
         available: true
+  - rank: 7
+    name: "ロイヤルカナン ダックスフンド 成犬用"
+    brand: "ロイヤルカナン"
+    price: 4988
+    capacity: "3kg"
+    rating: 4.71
+    reviewCount: 181
+    features:
+      - "ダックスフンド専用に設計された犬種別ドライフード（生後10ヶ月齢以上対象）"
+      - "オメガ3脂肪酸（EPA+DHA）・L-カルニチン配合の栄養設計"
+      - "ジッパー付きパッケージで開封後の保管がしやすい"
+    pros:
+      - "ダックスフンド専用設計のため犬種の体型・特性に合わせた栄養バランスが明確"
+      - "ロイヤルカナンの犬種別シリーズとして品質管理が一定で継続使用実績が多い"
+      - "ジッパー付きで保管しやすく、少量ずつ使い切りやすい"
+    cons:
+      - "ダックスフンド専用のため他犬種には適さない"
+      - "犬種別専用品のため汎用フードよりg単価が高くなりやすい"
+    recommendedFor: "ダックスフンドを飼育している方・犬種別設計フードを使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F9214451%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10000305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/royalcanin/9214451main.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
+        price: 4948
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
+        available: true
+        rating: 4.56
+        reviewCount: 16
+    priceMax: 17950
   - rank: 8
     name: "ナチュラルハーベスト メンテナンス ラム (大粒) ドッグフード 犬 ドライフード"
     brand: "ナチュラルハーベスト"
-    price: 3080
+    price: 220
     capacity: "1.1kg"
-    pricePerUnit: "約2800円/kg"
     rating: 4.77
     reviewCount: 2524
     features:
@@ -271,12 +270,12 @@ products:
         reviewCount: 19
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/john-coco_nhd0100260-1"
         available: true
+    priceMax: 26180
   - rank: 9
     name: "吉岡油糧 笑顔のドッグフード 国産無添加 1kg"
     brand: "ドッグフード"
     price: 3000
     capacity: "1kg"
-    pricePerUnit: "約3000円/kg"
     rating: 4.72
     reviewCount: 2563
     features:
@@ -304,12 +303,12 @@ products:
         available: true
         rating: 4.7
         reviewCount: 37
+    priceMax: 15500
   - rank: 10
     name: "ドッグフード 国産 無添加 吉岡油糧 オンリーワンフード 1kg 5kg（ リピート"
     brand: "ドッグフード"
     price: 3750
     capacity: "1kg"
-    pricePerUnit: "約3750円/kg"
     rating: 4.78
     reviewCount: 1575
     features:
@@ -326,6 +325,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3b1n.3rdw673b.g00q3b1n.3rdw7e97/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetnext%2Fonlyone_re1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpetnext%2Fi%2F10000040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/petnext/cabinet/yosioka/only-re.jpg?_ex=128x128"
+    priceMax: 17500
 tags:
   - "ドッグフード おすすめ"
   - "ドッグフード コスパ"

@@ -4,9 +4,86 @@ description: "入浴剤を1回あたりのコストで徹底比較。バブ・�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
+    name: "入浴剤 バラエティ詰め合わせ 100個セット"
+    brand: "湯屋の手土産"
+    price: 2520
+    capacity: "100個（20種類アソート）"
+    pricePerUnit: "約25円/個"
+    rating: 4.64
+    reviewCount: 2050
+    features:
+      - "20種類をアソートした個包装の詰め合わせ"
+      - "薬用入浴剤やバスソルトなど複数タイプを収録"
+      - "プレゼント・ノベルティ向けの梱包"
+    pros:
+      - "毎回違う香りやタイプを楽しめる"
+      - "個包装で必要な分だけ使いやすい"
+      - "ギフトや来客用のストックにも使いやすい"
+    cons:
+      - "特定の香り・タイプをまとめて使いたい人には不向き"
+      - "1個あたりの内容量は控えめ"
+    recommendedFor: "いろいろな入浴剤を試したい方・ギフト用途にしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ts2zn.3rdw659d.g00ts2zn.3rdw7108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuyanotemiyage%2F154136245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuyanotemiyage%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuyanotemiyage/cabinet/12101333/12412971/2025_20_100_1.jpg?_ex=128x128"
+  - rank: 2
+    name: "入浴剤 福袋 100個セット"
+    brand: "YOU通販"
+    price: 3780
+    capacity: "100個セット"
+    pricePerUnit: "約38円/個"
+    rating: 4.56
+    reviewCount: 9953
+    features:
+      - "日本製の入浴剤を100個詰め合わせた福袋"
+      - "テレビランキング番組1位獲得のロングセラー"
+      - "複数の香り・種類がランダムで楽しめる"
+    pros:
+      - "1個あたり約38円の高コスパ"
+      - "バリエーション豊富で毎日飽きない"
+      - "ギフトや贈り物にも最適"
+    cons:
+      - "中身が選べないランダムセット"
+      - "沖縄・離島は別途送料が発生"
+    recommendedFor: "コスパ重視の方・毎日入浴剤を使う方・ギフトを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r685n.3rdw6e25.g00r685n.3rdw7405/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyou2han%2F10001336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyou2han%2Fi%2F10001336%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/you2han/cabinet/nyzai/nyu100-20161.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsolotta%2F50988.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-31"
+        price: 3740
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/solotta_50988"
+        available: true
+        rating: 4.72
+        reviewCount: 116
+  - rank: 3
+    name: "バスクリン きき湯 オリジナルギフトセット 24包"
+    brand: "バスクリン"
+    price: 4400
+    capacity: "24個"
+    pricePerUnit: "約183円/個"
+    rating: 4.92
+    reviewCount: 25
+    features:
+      - "温泉ミネラル成分配合で本格的な温浴効果"
+      - "天然の香料を使用した豊かな香り"
+      - "有効成分が温浴効果を高めて疲労回復"
+    pros:
+      - "1回あたり約30円で最安クラス"
+      - "温泉気分が味わえる豊かな香り"
+      - "肩こり・腰痛・冷え性に効果的"
+    cons:
+      - "粉末タイプで溶け残りが気になることがある"
+      - "浴槽の着色が気になる色もある"
+    recommendedFor: "最安値を求める方・温泉気分を楽しみたい方・疲労回復を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rs30n.3rdw6647.g00rs30n.3rdw71f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbigban%2Fkky-30b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbigban%2Fi%2F10000767%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bigban/cabinet/24s/24-0548-052m.jpg?_ex=128x128"
+  - rank: 4
     name: "ヒマラヤ岩塩バスソルト ピンクソルト 訳あり"
     brand: "アースコンシャス"
     price: 2139
@@ -39,7 +116,7 @@ products:
         available: true
         rating: 4.64
         reviewCount: 11
-  - rank: 2
+  - rank: 5
     name: "エプソムソルト 選べる香り 6個セット"
     brand: "BASSPA"
     price: 1480
@@ -72,205 +149,7 @@ products:
         available: true
         rating: 4.5
         reviewCount: 4
-  - rank: 3
-    name: "【1種類を選べる】きき湯 炭酸湯【きき湯】[炭酸入浴剤 薬用 温泉 風呂 温浴 "
-    brand: "バスクリン（きき湯）"
-    price: 2282
-    capacity: "360g×3"
-    pricePerUnit: "約2.1円/g"
-    rating: 4.84
-    reviewCount: 57
-    features:
-      - "温泉科学に基づいた本格的な薬用入浴剤"
-      - "炭酸ガスが細かい泡で肌を包み込む"
-      - "症状別に選べる豊富なラインナップ"
-    pros:
-      - "温泉科学プロジェクト発の本格処方"
-      - "症状に合わせて選べる（肩こり・腰痛・冷え性）"
-      - "炭酸の泡立ちが心地よい"
-    cons:
-      - "1回あたり約65円とやや高め"
-      - "容量がやや少なめ"
-    recommendedFor: "体の不調を入浴でケアしたい方・本格的な薬用入浴剤を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11231979%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/199/405199.jpg?_ex=128x128"
-  - rank: 4
-    name: "水素入浴剤 アッシュアンド"
-    brand: "SUISOSUM"
-    price: 2300
-    capacity: "750g（30回分）"
-    pricePerUnit: "約3.1円/g"
-    rating: 4.69
-    reviewCount: 7134
-    features:
-      - "高濃度水素とナノバブル技術で肌の奥まで浸透"
-      - "重炭酸配合で塩素を除去しながら保湿"
-      - "無香料・無着色で敏感肌にも安心の国産品"
-    pros:
-      - "水素と重炭酸のダブル効果で疲労回復"
-      - "塩素除去効果で入浴水そのものが清潔に"
-      - "30回分の大容量でコスパよし"
-    cons:
-      - "1回あたり約77円とやや高め"
-      - "水素効果の持続時間が短い"
-    recommendedFor: "疲労回復・肌ケア重視の方・敏感肌の方・自然派入浴剤を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00szo9n.3rdw677a.g00szo9n.3rdw7c42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuisosum-shop%2Fhakusui%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuisosum-shop%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suisosum-shop/cabinet/h_/pc_01/750g/hakusui_sa_64.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuisosum%2Fh-and-750.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-31"
-        price: 3800
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/suisosum_h-and-750"
-        available: true
-        rating: 4.63
-        reviewCount: 195
-  - rank: 5
-    name: "入浴剤 バラエティ詰め合わせ 100個セット"
-    brand: "湯屋の手土産"
-    price: 2520
-    capacity: "100個（20種類アソート）"
-    pricePerUnit: "約25円/個"
-    rating: 4.64
-    reviewCount: 2050
-    features:
-      - "20種類をアソートした個包装の詰め合わせ"
-      - "薬用入浴剤やバスソルトなど複数タイプを収録"
-      - "プレゼント・ノベルティ向けの梱包"
-    pros:
-      - "毎回違う香りやタイプを楽しめる"
-      - "個包装で必要な分だけ使いやすい"
-      - "ギフトや来客用のストックにも使いやすい"
-    cons:
-      - "特定の香り・タイプをまとめて使いたい人には不向き"
-      - "1個あたりの内容量は控えめ"
-    recommendedFor: "いろいろな入浴剤を試したい方・ギフト用途にしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ts2zn.3rdw659d.g00ts2zn.3rdw7108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuyanotemiyage%2F154136245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuyanotemiyage%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuyanotemiyage/cabinet/12101333/12412971/2025_20_100_1.jpg?_ex=128x128"
   - rank: 6
-    name: "入浴剤 福袋 100個セット"
-    brand: "YOU通販"
-    price: 3780
-    capacity: "100個セット"
-    pricePerUnit: "約38円/個"
-    rating: 4.56
-    reviewCount: 9952
-    features:
-      - "日本製の入浴剤を100個詰め合わせた福袋"
-      - "テレビランキング番組1位獲得のロングセラー"
-      - "複数の香り・種類がランダムで楽しめる"
-    pros:
-      - "1個あたり約38円の高コスパ"
-      - "バリエーション豊富で毎日飽きない"
-      - "ギフトや贈り物にも最適"
-    cons:
-      - "中身が選べないランダムセット"
-      - "沖縄・離島は別途送料が発生"
-    recommendedFor: "コスパ重視の方・毎日入浴剤を使う方・ギフトを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r685n.3rdw6e25.g00r685n.3rdw7405/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyou2han%2F10001336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyou2han%2Fi%2F10001336%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/you2han/cabinet/nyzai/nyu100-20161.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsolotta%2F50988.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-31"
-        price: 3740
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/solotta_50988"
-        available: true
-        rating: 4.72
-        reviewCount: 116
-  - rank: 7
-    name: "あまおういちご 入浴剤 26個セット"
-    brand: "湯屋の手土産"
-    price: 1300
-    capacity: "26個"
-    pricePerUnit: "約50円/個"
-    rating: 4.65
-    reviewCount: 140
-    features:
-      - "毎日の入浴に使いやすい入浴剤"
-      - "まとめ買いしやすい容量設定"
-      - "香りや使用感で選びやすい"
-    pros:
-      - "ストックしやすい"
-      - "家族でも使いやすい"
-      - "気分に合わせて選びやすい"
-    cons:
-      - "香りの好みは分かれやすい"
-      - "浴槽素材との相性確認が必要"
-    recommendedFor: "入浴剤をコスパと使いやすさで選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ts2zn.3rdw659d.g00ts2zn.3rdw7108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuyanotemiyage%2F27040004-30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuyanotemiyage%2Fi%2F10000276%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuyanotemiyage/cabinet/27040004-30_01.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F123636322.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-31"
-        price: 1300
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_123636322"
-        available: true
-        rating: 4.22
-        reviewCount: 9
-  - rank: 8
-    name: "バスクリン きき湯 オリジナルギフトセット 24包"
-    brand: "バスクリン"
-    price: 4400
-    capacity: "24個"
-    pricePerUnit: "約183円/個"
-    rating: 4.92
-    reviewCount: 25
-    features:
-      - "温泉ミネラル成分配合で本格的な温浴効果"
-      - "天然の香料を使用した豊かな香り"
-      - "有効成分が温浴効果を高めて疲労回復"
-    pros:
-      - "1回あたり約30円で最安クラス"
-      - "温泉気分が味わえる豊かな香り"
-      - "肩こり・腰痛・冷え性に効果的"
-    cons:
-      - "粉末タイプで溶け残りが気になることがある"
-      - "浴槽の着色が気になる色もある"
-    recommendedFor: "最安値を求める方・温泉気分を楽しみたい方・疲労回復を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rs30n.3rdw6647.g00rs30n.3rdw71f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbigban%2Fkky-30b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbigban%2Fi%2F10000767%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bigban/cabinet/24s/24-0548-052m.jpg?_ex=128x128"
-  - rank: 9
-    name: "木酢液 紀州備長炭 原液"
-    brand: "紀州びお和歌山"
-    price: 1400
-    capacity: "500ml"
-    pricePerUnit: "約2.8円/ml"
-    rating: 4.21
-    reviewCount: 6105
-    features:
-      - "紀州備長炭由来の100%原液木酢液"
-      - "30年以上の実績を持つ和歌山産の高品質品"
-      - "入浴剤・フットケア・肌ケアなど多用途"
-    pros:
-      - "天然素材100%で体に優しい"
-      - "独特の温浴効果で体が芯から温まる"
-      - "少量で使えるためコスパが良い"
-    cons:
-      - "独特の燻製香（煙臭）が苦手な方も"
-      - "原液のため使用量の調整が必要"
-    recommendedFor: "冷え性・肌荒れが気になる方・自然派志向の方・フットケアも一緒にしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqr3n.3rdw62f5.g00qqr3n.3rdw7e06/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkisyubio-wakayama%2Fmokusaku06%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkisyubio-wakayama%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kisyubio-wakayama/cabinet/08028370/p500.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkisyubio-wakayama%2F500ml.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-22"
-        price: 1500
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kisyubio-wakayama_500ml"
-        available: true
-        rating: 4.43
-        reviewCount: 7
-  - rank: 10
     name: "ミネラル鉱泉浴"
     brand: "SMC"
     price: 8800
@@ -303,6 +182,127 @@ products:
         available: true
         rating: 5
         reviewCount: 3
+  - rank: 7
+    name: "【1種類を選べる】きき湯 炭酸湯【きき湯】[炭酸入浴剤 薬用 温泉 風呂 温浴 "
+    brand: "バスクリン（きき湯）"
+    price: 2095
+    capacity: "360g×3"
+    rating: 4.84
+    reviewCount: 57
+    features:
+      - "温泉科学に基づいた本格的な薬用入浴剤"
+      - "炭酸ガスが細かい泡で肌を包み込む"
+      - "症状別に選べる豊富なラインナップ"
+    pros:
+      - "温泉科学プロジェクト発の本格処方"
+      - "症状に合わせて選べる（肩こり・腰痛・冷え性）"
+      - "炭酸の泡立ちが心地よい"
+    cons:
+      - "1回あたり約65円とやや高め"
+      - "容量がやや少なめ"
+    recommendedFor: "体の不調を入浴でケアしたい方・本格的な薬用入浴剤を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11231979%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/199/405199.jpg?_ex=128x128"
+    priceMax: 2282
+  - rank: 8
+    name: "水素入浴剤 アッシュアンド"
+    brand: "SUISOSUM"
+    price: 2300
+    capacity: "750g（30回分）"
+    rating: 4.69
+    reviewCount: 7134
+    features:
+      - "高濃度水素とナノバブル技術で肌の奥まで浸透"
+      - "重炭酸配合で塩素を除去しながら保湿"
+      - "無香料・無着色で敏感肌にも安心の国産品"
+    pros:
+      - "水素と重炭酸のダブル効果で疲労回復"
+      - "塩素除去効果で入浴水そのものが清潔に"
+      - "30回分の大容量でコスパよし"
+    cons:
+      - "1回あたり約77円とやや高め"
+      - "水素効果の持続時間が短い"
+    recommendedFor: "疲労回復・肌ケア重視の方・敏感肌の方・自然派入浴剤を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00szo9n.3rdw677a.g00szo9n.3rdw7c42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuisosum-shop%2Fhakusui%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuisosum-shop%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suisosum-shop/cabinet/h_/pc_01/750g/hakusui_sa_64.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuisosum%2Fh-and-750.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-31"
+        price: 3800
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/suisosum_h-and-750"
+        available: true
+        rating: 4.63
+        reviewCount: 195
+    priceMax: 6300
+  - rank: 9
+    name: "あまおういちご 入浴剤 26個セット"
+    brand: "湯屋の手土産"
+    price: 1300
+    capacity: "26個"
+    rating: 4.65
+    reviewCount: 140
+    features:
+      - "毎日の入浴に使いやすい入浴剤"
+      - "まとめ買いしやすい容量設定"
+      - "香りや使用感で選びやすい"
+    pros:
+      - "ストックしやすい"
+      - "家族でも使いやすい"
+      - "気分に合わせて選びやすい"
+    cons:
+      - "香りの好みは分かれやすい"
+      - "浴槽素材との相性確認が必要"
+    recommendedFor: "入浴剤をコスパと使いやすさで選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ts2zn.3rdw659d.g00ts2zn.3rdw7108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuyanotemiyage%2F27040004-30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuyanotemiyage%2Fi%2F10000276%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuyanotemiyage/cabinet/27040004-30_01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F123636322.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-31"
+        price: 1300
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_123636322"
+        available: true
+        rating: 4.22
+        reviewCount: 9
+    priceMax: 13200
+  - rank: 10
+    name: "木酢液 紀州備長炭 原液"
+    brand: "紀州びお和歌山"
+    price: 1400
+    capacity: "500ml"
+    rating: 4.21
+    reviewCount: 6105
+    features:
+      - "紀州備長炭由来の100%原液木酢液"
+      - "30年以上の実績を持つ和歌山産の高品質品"
+      - "入浴剤・フットケア・肌ケアなど多用途"
+    pros:
+      - "天然素材100%で体に優しい"
+      - "独特の温浴効果で体が芯から温まる"
+      - "少量で使えるためコスパが良い"
+    cons:
+      - "独特の燻製香（煙臭）が苦手な方も"
+      - "原液のため使用量の調整が必要"
+    recommendedFor: "冷え性・肌荒れが気になる方・自然派志向の方・フットケアも一緒にしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqr3n.3rdw62f5.g00qqr3n.3rdw7e06/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkisyubio-wakayama%2Fmokusaku06%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkisyubio-wakayama%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kisyubio-wakayama/cabinet/08028370/p500.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkisyubio-wakayama%2F500ml.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-22"
+        price: 1500
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kisyubio-wakayama_500ml"
+        available: true
+        rating: 4.43
+        reviewCount: 7
+    priceMax: 2800
 tags:
   - "入浴剤"
   - "コスパ"

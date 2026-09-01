@@ -8,39 +8,6 @@ updatedAt: "2026-09-01"
 draft: false
 products:
   - rank: 1
-    name: "ブラウン オーラルB 選べる各種 互換 替えブラシ EB17 EB18 EB20 E"
-    brand: "ブラウン"
-    price: 1383
-    capacity: "16本"
-    pricePerUnit: "約86円/本"
-    rating: 4.23
-    reviewCount: 1449
-    features:
-      - "電動歯ブラシ用の交換ブラシ"
-      - "対応機種を確認して選ぶ替えブラシタイプ"
-      - "ストックしやすい複数本セット"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6l1n.3rdw6f6f.g00r6l1n.3rdw7918/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyhair%2Foral-b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyhair%2Fi%2F10004974%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyhair/cabinet/mbimg/burashi/oral-b-select-16.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fninestars%2Fse4-br.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-26"
-        price: 3408
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ninestars_se4-br"
-        available: true
-        rating: 0
-        reviewCount: 0
-  - rank: 2
     name: "オーラルB互換ブラシ EB17 EB10"
     brand: "e-shop aoakua"
     price: 1420
@@ -62,7 +29,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5rln.3rdw693c.g00s5rln.3rdw7066/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faoakua%2F10000252%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faoakua%2Fi%2F10000252%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aoakua/cabinet/06495854/imgrc0105402366.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "オーラルB フレキシソフト互換ブラシ"
     brand: "INK HOUSE"
     price: 1538
@@ -84,7 +51,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ufykn.3rdw68d3.g00ufykn.3rdw7ff4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fink-house%2F208522-1008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fink-house%2Fi%2F10000604%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/ink-house/images/brushHead/208522-1008/208522-1008.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "オーラルB互換 替えブラシ 16本セット"
     brand: "互換品（非純正）"
     price: 1890
@@ -106,29 +73,7 @@ products:
     recommendedFor: "旧世代オーラルB使用中でコスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ryj2n.3rdw6f59.g00ryj2n.3rdw7608/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbigtonya%2Fbraunset4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbigtonya%2Fi%2F10000447%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bigtonya/cabinet/b001/braunset016new.jpg?_ex=128x128"
-  - rank: 5
-    name: "ブラウン オーラルB 選べる各種 互換 替えブラシ 4本セット EB17 EB18 "
-    brand: "ブラウン"
-    price: 634
-    capacity: "4本"
-    pricePerUnit: "約159円/本"
-    rating: 4.18
-    reviewCount: 2168
-    features:
-      - "電動歯ブラシ用の交換ブラシ"
-      - "対応機種を確認して選ぶ替えブラシタイプ"
-      - "ストックしやすい複数本セット"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6l1n.3rdw6f6f.g00r6l1n.3rdw7918/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyhair%2Foral-b-co%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyhair%2Fi%2F10005065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyhair/cabinet/mbimg/burashi/oral-b-select-202509.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 4
     name: "オーラルB マルチアクションブラシ EB50RX"
     brand: "Braun"
     price: 8480
@@ -161,7 +106,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/distore_eb50rx-16"
         available: true
-  - rank: 7
+  - rank: 5
     name: "ドルツ クリーン＆ホワイトブラシ 2本入"
     brand: "Panasonic"
     price: 1269
@@ -194,7 +139,7 @@ products:
         available: true
         rating: 4.71
         reviewCount: 24
-  - rank: 8
+  - rank: 6
     name: "オーラルB iO用 替えブラシ アルティメイトクリーン 6本セット"
     brand: "Braun Oral-B"
     price: 8338
@@ -227,7 +172,7 @@ products:
         available: true
         rating: 4.64
         reviewCount: 45
-  - rank: 9
+  - rank: 7
     name: "オーラルB ラディアントホワイト iO専用"
     brand: "Braun"
     price: 3498
@@ -260,7 +205,7 @@ products:
         available: true
         rating: 0
         reviewCount: 2
-  - rank: 10
+  - rank: 8
     name: "ソニッケアー プレミアムクリーン 替えブラシ レギュラー 3本"
     brand: "Philips Sonicare"
     price: 6480
@@ -293,6 +238,61 @@ products:
         available: true
         rating: 4.57
         reviewCount: 54
+  - rank: 9
+    name: "ブラウン オーラルB 選べる各種 互換 替えブラシ EB17 EB18 EB20 E"
+    brand: "ブラウン"
+    price: 1383
+    capacity: "16本"
+    rating: 4.23
+    reviewCount: 1449
+    features:
+      - "電動歯ブラシ用の交換ブラシ"
+      - "対応機種を確認して選ぶ替えブラシタイプ"
+      - "ストックしやすい複数本セット"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6l1n.3rdw6f6f.g00r6l1n.3rdw7918/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyhair%2Foral-b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyhair%2Fi%2F10004974%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyhair/cabinet/mbimg/burashi/oral-b-select-16.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fninestars%2Fse4-br.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-26"
+        price: 3408
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ninestars_se4-br"
+        available: true
+        rating: 0
+        reviewCount: 0
+    priceMax: 1584
+  - rank: 10
+    name: "ブラウン オーラルB 選べる各種 互換 替えブラシ 4本セット EB17 EB18 "
+    brand: "ブラウン"
+    price: 634
+    capacity: "4本"
+    rating: 4.18
+    reviewCount: 2168
+    features:
+      - "電動歯ブラシ用の交換ブラシ"
+      - "対応機種を確認して選ぶ替えブラシタイプ"
+      - "ストックしやすい複数本セット"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6l1n.3rdw6f6f.g00r6l1n.3rdw7918/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyhair%2Foral-b-co%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyhair%2Fi%2F10005065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyhair/cabinet/mbimg/burashi/oral-b-select-202509.jpg?_ex=128x128"
+    priceMax: 649
 tags:
   - "電動歯ブラシ替えブラシ おすすめ"
   - "電動歯ブラシ替えブラシ コスパ"

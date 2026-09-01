@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-09-01"
 draft: false
 products:
   - rank: 1
@@ -123,28 +123,6 @@ products:
         matchedCapacity: "250mL（本体）"
         updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 4
-    name: "ヒバNON NON"
-    brand: "ダイレクトテレショップ"
-    price: 7788
-    capacity: "450ml×2本"
-    pricePerUnit: "約8.7円/mL"
-    rating: 4.1
-    reviewCount: 115
-    features:
-      - "ヒノキチオール・テルペン油・除虫菊エキスなど天然由来成分100%配合"
-      - "450ml入りで玄関・室内・軒下など広範囲への噴霧に適した容量"
-      - "クモ・ダニ・カメムシ・アリ・ムカデなど多様な害虫の忌避に対応"
-    pros:
-      - "天然成分のみでペットや子どもがいる家庭でも使いやすい"
-      - "2本・4本・6本セットから選べるので使用頻度に合わせた購入がしやすい"
-      - "屋内外を問わず玄関・寝室・軒下など幅広い場所で使いやすい"
-    cons:
-      - "ボディ用ではないため皮膚への直接使用には向かない"
-      - "独自の天然成分の香りが強く感じる場合がある"
-    recommendedFor: "屋内外の虫の侵入対策に天然成分100%の防虫スプレーを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pqorn.3rdw6854.g00pqorn.3rdw7e1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftv-ya%2Fhibanonnon-a-2-p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftv-ya%2Fi%2F10002598%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hibanonnon-a-2-p/thum/hibanonnon-a-2-p.jpg?_ex=128x128"
-  - rank: 5
     name: "KINCHO プレシャワー DFミスト プレミアガード 無香料 120mL"
     brand: "大日本除虫菊（KINCHO）"
     price: 1113
@@ -177,62 +155,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4987115540569"
         available: true
-  - rank: 6
-    name: "アンチバグ プレミアム"
-    brand: "AROMICstyle"
-    price: 1026
-    capacity: "100ml"
-    pricePerUnit: "約10円/mL"
-    rating: 4.49
-    reviewCount: 252
-    features:
-      - "天然精油9種類を配合した合成殺虫成分不使用の虫よけスプレー"
-      - "レモングラス・ラベンダー・ユーカリ・ヒノキなど天然アロマをブレンド"
-      - "赤ちゃんやベビーカーへの使用も考慮した無添加処方"
-    pros:
-      - "天然成分100%で合成殺虫成分を避けたい方に向いている"
-      - "複数の精油ブレンドで香りを楽しみながら虫対策できる"
-      - "ボディ・ベビーカー・玄関など室内外の複数シーンで使いやすい"
-    cons:
-      - "天然成分のため合成殺虫成分系と比べると持続時間を確認しながら使う必要がある"
-      - "精油の香りが好みに合わない場合もある"
-    recommendedFor: "無添加・天然精油100%の虫よけを子どもにも使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvsqn.3rdw6696.g00qvsqn.3rdw7fa3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faromaspray%2Fsp-bug-100-100e%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faromaspray%2Fi%2F10001233%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aromaspray/cabinet/item/anti-bug-rakuten.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faroma-spray%2Fsp-bug-100-100e.html"
-        matchStatus: "review"
-        updatedAt: "2026-07-16"
-        price: 2980
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/aroma-spray_sp-bug-100-100e"
-        available: true
-        rating: 4.69
-        reviewCount: 29
-  - rank: 7
-    name: "安全安心 虫除けスプレー"
-    brand: "無添加工房 OKADA"
-    price: 1386
-    capacity: "100ml"
-    pricePerUnit: "約14円/ml"
-    rating: 4.53
-    reviewCount: 1552
-    features:
-      - "ディート不使用・天然成分配合の赤ちゃんから使える虫よけスプレー"
-      - "1本・3本・10本セットから選べる購入方法"
-      - "無添加処方で合成殺虫成分を含まない設計"
-    pros:
-      - "ディート不使用で赤ちゃんや子どもへの使用を重視する家庭に向いている"
-      - "まとめ買いが選べ、使用頻度の高い季節にストックしやすい"
-      - "天然成分配合で肌への刺激を気にしたい方に選ばれやすい"
-    cons:
-      - "合成殺虫成分系と比べると使用頻度が多くなる場合がある"
-      - "容量が少ないため長期の使用では複数本の準備が必要"
-    recommendedFor: "ディート不使用で赤ちゃんや子どもと一緒に使える虫よけを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ppoyn.3rdw6621.g00ppoyn.3rdw79a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsafe%2F580481%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsafe%2Fi%2F10000010%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/safe/cabinet/2309_sku_img/580481.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 5
     name: "選べるアロマスプレー 虫除け 3本セット"
     brand: "ease-aroma"
     price: 1320
@@ -254,7 +177,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qfl9n.3rdw60bc.g00qfl9n.3rdw7fb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fease-aroma%2F10002751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fease-aroma%2Fi%2F10002751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ease-aroma/cabinet/spray/spray3hon_s_01.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 6
     name: "パーフェクトポーション アウトドアボディスプレー 100mL"
     brand: "PERFECT POTION"
     price: 1870
@@ -287,6 +210,83 @@ products:
         available: true
         rating: 4.88
         reviewCount: 17
+  - rank: 7
+    name: "ヒバNON NON"
+    brand: "ダイレクトテレショップ"
+    price: 7788
+    capacity: "450ml×2本"
+    rating: 4.1
+    reviewCount: 115
+    features:
+      - "ヒノキチオール・テルペン油・除虫菊エキスなど天然由来成分100%配合"
+      - "450ml入りで玄関・室内・軒下など広範囲への噴霧に適した容量"
+      - "クモ・ダニ・カメムシ・アリ・ムカデなど多様な害虫の忌避に対応"
+    pros:
+      - "天然成分のみでペットや子どもがいる家庭でも使いやすい"
+      - "2本・4本・6本セットから選べるので使用頻度に合わせた購入がしやすい"
+      - "屋内外を問わず玄関・寝室・軒下など幅広い場所で使いやすい"
+    cons:
+      - "ボディ用ではないため皮膚への直接使用には向かない"
+      - "独自の天然成分の香りが強く感じる場合がある"
+    recommendedFor: "屋内外の虫の侵入対策に天然成分100%の防虫スプレーを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pqorn.3rdw6854.g00pqorn.3rdw7e1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftv-ya%2Fhibanonnon-a-2-p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftv-ya%2Fi%2F10002598%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hibanonnon-a-2-p/thum/hibanonnon-a-2-p.jpg?_ex=128x128"
+    priceMax: 15288
+  - rank: 8
+    name: "アンチバグ プレミアム"
+    brand: "AROMICstyle"
+    price: 1026
+    capacity: "100ml"
+    rating: 4.49
+    reviewCount: 252
+    features:
+      - "天然精油9種類を配合した合成殺虫成分不使用の虫よけスプレー"
+      - "レモングラス・ラベンダー・ユーカリ・ヒノキなど天然アロマをブレンド"
+      - "赤ちゃんやベビーカーへの使用も考慮した無添加処方"
+    pros:
+      - "天然成分100%で合成殺虫成分を避けたい方に向いている"
+      - "複数の精油ブレンドで香りを楽しみながら虫対策できる"
+      - "ボディ・ベビーカー・玄関など室内外の複数シーンで使いやすい"
+    cons:
+      - "天然成分のため合成殺虫成分系と比べると持続時間を確認しながら使う必要がある"
+      - "精油の香りが好みに合わない場合もある"
+    recommendedFor: "無添加・天然精油100%の虫よけを子どもにも使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvsqn.3rdw6696.g00qvsqn.3rdw7fa3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faromaspray%2Fsp-bug-100-100e%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faromaspray%2Fi%2F10001233%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aromaspray/cabinet/item/02/anti-bug-cp20.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faroma-spray%2Fsp-bug-100-100e.html"
+        matchStatus: "review"
+        updatedAt: "2026-07-16"
+        price: 2980
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/aroma-spray_sp-bug-100-100e"
+        available: true
+        rating: 4.69
+        reviewCount: 29
+    priceMax: 3580
+  - rank: 9
+    name: "安全安心 虫除けスプレー"
+    brand: "無添加工房 OKADA"
+    price: 1386
+    capacity: "100ml"
+    rating: 4.53
+    reviewCount: 1552
+    features:
+      - "ディート不使用・天然成分配合の赤ちゃんから使える虫よけスプレー"
+      - "1本・3本・10本セットから選べる購入方法"
+      - "無添加処方で合成殺虫成分を含まない設計"
+    pros:
+      - "ディート不使用で赤ちゃんや子どもへの使用を重視する家庭に向いている"
+      - "まとめ買いが選べ、使用頻度の高い季節にストックしやすい"
+      - "天然成分配合で肌への刺激を気にしたい方に選ばれやすい"
+    cons:
+      - "合成殺虫成分系と比べると使用頻度が多くなる場合がある"
+      - "容量が少ないため長期の使用では複数本の準備が必要"
+    recommendedFor: "ディート不使用で赤ちゃんや子どもと一緒に使える虫よけを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ppoyn.3rdw6621.g00ppoyn.3rdw79a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsafe%2F580481%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsafe%2Fi%2F10000010%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/safe/cabinet/2309_sku_img/580481.jpg?_ex=128x128"
+    priceMax: 13860
 tags:
   - "虫除けスプレー おすすめ"
   - "虫除けスプレー コスパ"

@@ -4,7 +4,7 @@ description: "クッキングシートを1mあたりの価格で比較。ロー�
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
     name: "フジ クッキングシート 業務用 33cm×30m"
@@ -73,28 +73,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_51849"
         available: true
   - rank: 3
-    name: "白クッキングシート 33cm×30m"
-    brand: "UACJ製箔"
-    price: 1109
-    capacity: "33cm×30m"
-    pricePerUnit: "約37円/m"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "日本製のシリコン加工クッキングシート"
-      - "耐熱250℃・20分対応でオーブン調理に使いやすい"
-      - "耐油性を備えた白色タイプのロール"
-    pros:
-      - "日本製で品質・安全性を確認しやすい"
-      - "耐熱250℃対応でオーブン調理にも取り入れやすい"
-      - "白色で食材の色を確認しながら調理しやすい"
-    cons:
-      - "使い捨て設計で繰り返し使えるタイプよりコストがかかる"
-      - "30m巻でストックスペースが必要"
-    recommendedFor: "日本製シリコン加工シートで安心感を重視したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6j6n.3rdw6b39.g00r6j6n.3rdw7ef8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuroya-shop%2F10004703%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuroya-shop%2Fi%2F10004703%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuroya-shop/cabinet/02093156/02990298/03176211/imgrc0106122030.jpg?_ex=128x128"
-  - rank: 4
     name: "クックパー クッキングシート L 30cm幅"
     brand: "旭化成 クックパー"
     price: 759
@@ -127,7 +105,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901670109634"
         available: true
-  - rank: 5
+  - rank: 4
     name: "リード ホットクッキングシート 中 30cm幅"
     brand: "ライオン リード"
     price: 1050
@@ -160,7 +138,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_ar-06018k"
         available: true
-  - rank: 6
+  - rank: 5
     name: "透明耐熱クッキングシート TSUTSUMU 36cm×20m"
     brand: "イーシザイ・マーケット"
     price: 4950
@@ -193,7 +171,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujinamisquare_100020900"
         available: true
-  - rank: 7
+  - rank: 6
     name: "クッキングシート ワンパン料理 100枚入り"
     brand: "ニュービックエース"
     price: 1780
@@ -215,6 +193,28 @@ products:
     recommendedFor: "PFAS・フッ素フリーの無漂白シートを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ukv2n.3rdw65ce.g00ukv2n.3rdw7589/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnewbigace%2Fcompass1717137133%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnewbigace%2Fi%2F10000026%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/newbigace/cabinet/biiino/item/main-image/300400top.jpg?_ex=128x128"
+  - rank: 7
+    name: "白クッキングシート 33cm×30m"
+    brand: "UACJ製箔"
+    price: 1109
+    capacity: "33cm×30m"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "日本製のシリコン加工クッキングシート"
+      - "耐熱250℃・20分対応でオーブン調理に使いやすい"
+      - "耐油性を備えた白色タイプのロール"
+    pros:
+      - "日本製で品質・安全性を確認しやすい"
+      - "耐熱250℃対応でオーブン調理にも取り入れやすい"
+      - "白色で食材の色を確認しながら調理しやすい"
+    cons:
+      - "使い捨て設計で繰り返し使えるタイプよりコストがかかる"
+      - "30m巻でストックスペースが必要"
+    recommendedFor: "日本製シリコン加工シートで安心感を重視したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6j6n.3rdw6b39.g00r6j6n.3rdw7ef8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuroya-shop%2F10004703%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuroya-shop%2Fi%2F10004703%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuroya-shop/cabinet/02093156/02990298/03176211/imgrc0106122030.jpg?_ex=128x128"
+    priceMax: 17732
   - rank: 8
     name: "東洋アルミ 業務用クッキングシート コアレス 35cm×30m"
     brand: "東洋アルミ"

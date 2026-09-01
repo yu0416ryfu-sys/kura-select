@@ -4,75 +4,9 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
-    name: "LOGOS 倍速凍結 氷点下パック"
-    brand: "LOGOS"
-    price: 770
-    capacity: "1個"
-    pricePerUnit: "約770円/個"
-    rating: 4.66
-    reviewCount: 239
-    features:
-      - "繰り返し使える保冷剤タイプ"
-      - "保冷バッグやクーラーボックスに入れやすい形状"
-      - "アウトドアや買い物時の保冷に使いやすい"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uv40n.3rdw6f46.g00uv40n.3rdw750c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogosshop%2Flgs94499%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogosshop%2Fi%2F10000621%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/logosshop/cabinet/spr/4/492823152846.jpg?_ex=128x128"
-  - rank: 2
-    name: "COOLER SHOCK ハードロング"
-    brand: "COOLER SHOCK"
-    price: 880
-    capacity: "1個"
-    pricePerUnit: "約880円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "繰り返し使える保冷剤タイプ"
-      - "保冷バッグやクーラーボックスに入れやすい形状"
-      - "アウトドアや買い物時の保冷に使いやすい"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00svmtn.3rdw6312.g00svmtn.3rdw778e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmecu%2Fshock-hl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmecu%2Fi%2F10003501%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mecu/cabinet/photo/point/new01/shock-hl.jpg?_ex=128x128"
-  - rank: 3
-    name: "HUGEL 氷点下保冷剤 急速凍結タイプ Mサイズ"
-    brand: "HUGEL"
-    price: 1180
-    capacity: "Mサイズ 1個"
-    pricePerUnit: "約1180円/個"
-    rating: 4.34
-    reviewCount: 155
-    features:
-      - "ハードタイプで溶けてもかさばらず繰り返し使いやすい設計"
-      - "M（540g）・L（830g）・XL（1.1kg）の3サイズから用途に応じて選べる"
-      - "高速冷却・高冷却・長時間タイプの3モデルが展開されている"
-    pros:
-      - "サイズと冷却モデルを組み合わせて用途に合った保冷力を選べる"
-      - "クーラーボックスや保冷バッグとの組み合わせで幅広いシーンに対応しやすい"
-      - "ハードタイプは形が安定しているため荷物の隙間に詰めやすい"
-    cons:
-      - "ソフトタイプと比べてかさばりやすく収納スペースをとる"
-      - "冷凍に時間がかかる場合があるため前日からの準備が必要"
-    recommendedFor: "サイズと冷却力を選んで用途に合わせたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pjh9n.3rdw6262.g00pjh9n.3rdw7cf0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funidy%2F107933%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funidy%2Fi%2F11161201%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unidy/cabinet/11071608/13015942/imgrc0114404094.jpg?_ex=128x128"
-  - rank: 4
     name: "LOGOS 倍速凍結 氷点下パックL"
     brand: "LOGOS"
     price: 1650
@@ -94,7 +28,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn68n.3rdw6313.g00qn68n.3rdw75ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4981325395827%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10723457%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/orj/35/0-4981325395827.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 2
     name: "JEJアステージ アイスロックス 1100 長時間保冷 持続 強力 ハードタイプ 日"
     brand: "JEJアステージ"
     price: 1760
@@ -116,29 +50,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzvnn.3rdw6032.g00qzvnn.3rdw7eed/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-lalala%2Ficerox%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-lalala%2Fi%2F10437379%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-lalala/cabinet/syohin/astage/icerox.jpg?_ex=128x128"
-  - rank: 6
-    name: "NISHIZARC ステンレス保冷剤"
-    brand: "NISHIZARC"
-    price: 2980
-    capacity: "1個"
-    pricePerUnit: "約2980円/個"
-    rating: 4.41
-    reviewCount: 37
-    features:
-      - "ステンレス製で耐久性が高く長期間の繰り返し使用に向いている"
-      - "冷蔵・冷凍どちらにも対応し用途に応じて使い分けが可能"
-      - "熱中症対策や長時間保冷など複数のシーンを想定した設計"
-    pros:
-      - "1年間の品質保証付きで初めて購入する方も安心して選びやすい"
-      - "ステンレス素材で繰り返し使用しても劣化しにくい"
-      - "コンパクトなクーラーボックスや保冷バッグとの相性がよい"
-    cons:
-      - "ステンレス製のため使用後は丁寧な乾燥保管が必要"
-      - "プラスチックハードタイプと比べて重量がある場合がある"
-    recommendedFor: "耐久性を重視して長く使えるステンレス製保冷剤を探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uocjn.3rdw694e.g00uocjn.3rdw7eaf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdecori%2Fy-342b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdecori%2Fi%2F10000491%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/decori/cabinet/12282578/imgrc0096993936.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 3
     name: "クールインパック ハード 750g 保冷パック 保冷剤 日本製"
     brand: "クールインパック"
     price: 470
@@ -171,7 +83,7 @@ products:
         available: true
         rating: 5
         reviewCount: 3
-  - rank: 8
+  - rank: 4
     name: "保冷剤 ハードタイプ KS-4702"
     brand: "cococica"
     price: 176
@@ -204,13 +116,100 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+  - rank: 5
+    name: "LOGOS 倍速凍結 氷点下パック"
+    brand: "LOGOS"
+    price: 770
+    capacity: "1個"
+    rating: 4.66
+    reviewCount: 239
+    features:
+      - "繰り返し使える保冷剤タイプ"
+      - "保冷バッグやクーラーボックスに入れやすい形状"
+      - "アウトドアや買い物時の保冷に使いやすい"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uv40n.3rdw6f46.g00uv40n.3rdw750c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogosshop%2Flgs94499%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogosshop%2Fi%2F10000621%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/logosshop/cabinet/spr/4/492823152846.jpg?_ex=128x128"
+    priceMax: 5379
+  - rank: 6
+    name: "COOLER SHOCK ハードロング"
+    brand: "COOLER SHOCK"
+    price: 880
+    capacity: "1個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "繰り返し使える保冷剤タイプ"
+      - "保冷バッグやクーラーボックスに入れやすい形状"
+      - "アウトドアや買い物時の保冷に使いやすい"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00svmtn.3rdw6312.g00svmtn.3rdw778e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmecu%2Fshock-hl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmecu%2Fi%2F10003501%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mecu/cabinet/photo/point/new01/shock-hl.jpg?_ex=128x128"
+    priceMax: 1540
+  - rank: 7
+    name: "HUGEL 氷点下保冷剤 急速凍結タイプ Mサイズ"
+    brand: "HUGEL"
+    price: 880
+    capacity: "Mサイズ 1個"
+    rating: 4.34
+    reviewCount: 155
+    features:
+      - "ハードタイプで溶けてもかさばらず繰り返し使いやすい設計"
+      - "M（540g）・L（830g）・XL（1.1kg）の3サイズから用途に応じて選べる"
+      - "高速冷却・高冷却・長時間タイプの3モデルが展開されている"
+    pros:
+      - "サイズと冷却モデルを組み合わせて用途に合った保冷力を選べる"
+      - "クーラーボックスや保冷バッグとの組み合わせで幅広いシーンに対応しやすい"
+      - "ハードタイプは形が安定しているため荷物の隙間に詰めやすい"
+    cons:
+      - "ソフトタイプと比べてかさばりやすく収納スペースをとる"
+      - "冷凍に時間がかかる場合があるため前日からの準備が必要"
+    recommendedFor: "サイズと冷却力を選んで用途に合わせたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pjh9n.3rdw6262.g00pjh9n.3rdw7cf0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funidy%2F107933%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funidy%2Fi%2F11161201%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unidy/cabinet/11071608/13015942/imgrc0114404094.jpg?_ex=128x128"
+    priceMax: 1910
+  - rank: 8
+    name: "NISHIZARC ステンレス保冷剤"
+    brand: "NISHIZARC"
+    price: 2980
+    capacity: "1個"
+    rating: 4.41
+    reviewCount: 37
+    features:
+      - "ステンレス製で耐久性が高く長期間の繰り返し使用に向いている"
+      - "冷蔵・冷凍どちらにも対応し用途に応じて使い分けが可能"
+      - "熱中症対策や長時間保冷など複数のシーンを想定した設計"
+    pros:
+      - "1年間の品質保証付きで初めて購入する方も安心して選びやすい"
+      - "ステンレス素材で繰り返し使用しても劣化しにくい"
+      - "コンパクトなクーラーボックスや保冷バッグとの相性がよい"
+    cons:
+      - "ステンレス製のため使用後は丁寧な乾燥保管が必要"
+      - "プラスチックハードタイプと比べて重量がある場合がある"
+    recommendedFor: "耐久性を重視して長く使えるステンレス製保冷剤を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uocjn.3rdw694e.g00uocjn.3rdw7eaf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdecori%2Fy-342b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdecori%2Fi%2F10000491%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/decori/cabinet/12282578/imgrc0096993936.jpg?_ex=128x128"
+    priceMax: 3280
   - rank: 9
     name: "FIELDOOR ノーザンクーラー アイスパック 2個組"
     brand: "FIELDOOR"
     price: 1100
     capacity: "570g×2個"
-    pricePerUnit: "約0.96円/g"
-    rating: 4.33
+    rating: 4.31
     reviewCount: 48
     features:
       - "日本製ハードタイプで13.8×19.4cm・570g/個のスタンダードサイズ"
@@ -226,6 +225,7 @@ products:
     recommendedFor: "日本製で2個セットをまとめて揃えてアウトドアや食材持ち運びに使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prban.3rdw6259.g00prban.3rdw74a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa10077%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10060767%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a10077.jpg?_ex=128x128"
+    priceMax: 3300
 tags:
   - "保冷剤 おすすめ"
   - "保冷剤 コスパ"

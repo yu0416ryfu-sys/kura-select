@@ -4,42 +4,9 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
-    name: "ハミング 素肌おもい 柔軟剤 つめかえ用 メガサイズ"
-    brand: "花王（ハミング）"
-    price: 1113
-    capacity: "2000mL"
-    pricePerUnit: "約0.56円/mL"
-    rating: 4.96
-    reviewCount: 27
-    features:
-      - "肌へのやさしさを重視した素肌おもいシリーズの詰め替えパウチ"
-      - "香りの強さを抑えたタイプで、無香料の選択肢もある"
-      - "ドラッグストアでも流通する国内定番の家庭用サイズ"
-    pros:
-      - "詰め替えパウチのみで買えるため保管スペースを取りにくい"
-      - "香り控えめで、部屋干し後の衣類や寝具にも使いやすい"
-      - "国内定番ブランドで買い足しを続けやすい"
-    cons:
-      - "香りの持続を重視する方には物足りなく感じられる場合がある"
-      - "詰め替え専用のため、初回は別途ボトルが必要"
-    recommendedFor: "香りを抑えたい方・肌あたりのやさしさを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301423443%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10019551%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/sku/4901301423443-sku.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301423443.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-31"
-        price: 1453
-        rating: 5
-        reviewCount: 5
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301423443"
-        available: true
-  - rank: 2
     name: "ライオン ソフラン アロマリッチ 業務用 4L"
     brand: "ライオン（ソフラン）"
     price: 2313
@@ -72,7 +39,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_r6-06046"
         available: true
-  - rank: 3
+  - rank: 2
     name: "ダウニー サンライズフレッシュ 4L×3本セット"
     brand: "Downy"
     price: 6980
@@ -105,7 +72,7 @@ products:
         available: true
         rating: 4.73
         reviewCount: 233
-  - rank: 4
+  - rank: 3
     name: "メキシコダウニー アロマフローラル 2.8L"
     brand: "Downy"
     price: 1700
@@ -138,7 +105,7 @@ products:
         reviewCount: 60
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_9110715"
         available: true
-  - rank: 5
+  - rank: 4
     name: "ソフラン アロマリッチ 柔軟剤 詰替用 1300mL×6個"
     brand: "ライオン（ソフラン）"
     price: 5830
@@ -160,7 +127,7 @@ products:
     recommendedFor: "定番ブランドをまとめ買いして単価を下げたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405203%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11234252%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/203/405203.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 5
     name: "さらさ 柔軟剤 詰め替え 超ジャンボ"
     brand: "P&G（さらさ）"
     price: 1280
@@ -193,7 +160,7 @@ products:
         reviewCount: 26
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987176184580"
         available: true
-  - rank: 7
+  - rank: 6
     name: "ファーファ フリーアンド 濃縮柔軟剤 無香料 エコパック"
     brand: "NSファーファ"
     price: 1428
@@ -226,7 +193,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902135322537-73-30000839"
         available: true
-  - rank: 8
+  - rank: 7
     name: "ファーファ ファインフレグランス ボーテ 柔軟剤 詰め替え"
     brand: "NSファーファ"
     price: 638
@@ -248,7 +215,7 @@ products:
     recommendedFor: "香りを重視する方・少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2F10001160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10001160%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/9fa-fa/fafasoftner/finefragrance/imgrc0102568817.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "ランドリン 柔軟剤 グッドティータイム"
     brand: "ランドリン（Laundrin）"
     price: 877
@@ -281,7 +248,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosme-nana_1898619600"
         available: true
-  - rank: 10
+  - rank: 9
     name: "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え"
     brand: "P&G（レノア）"
     price: 2494
@@ -314,6 +281,39 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+  - rank: 10
+    name: "ハミング 素肌おもい 柔軟剤 つめかえ用 メガサイズ"
+    brand: "花王（ハミング）"
+    price: 1113
+    capacity: "2000mL"
+    rating: 4.96
+    reviewCount: 27
+    features:
+      - "肌へのやさしさを重視した素肌おもいシリーズの詰め替えパウチ"
+      - "香りの強さを抑えたタイプで、無香料の選択肢もある"
+      - "ドラッグストアでも流通する国内定番の家庭用サイズ"
+    pros:
+      - "詰め替えパウチのみで買えるため保管スペースを取りにくい"
+      - "香り控えめで、部屋干し後の衣類や寝具にも使いやすい"
+      - "国内定番ブランドで買い足しを続けやすい"
+    cons:
+      - "香りの持続を重視する方には物足りなく感じられる場合がある"
+      - "詰め替え専用のため、初回は別途ボトルが必要"
+    recommendedFor: "香りを抑えたい方・肌あたりのやさしさを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301423443%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10019551%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/sku/4901301423443-sku.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301423443.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-31"
+        price: 1453
+        rating: 5
+        reviewCount: 5
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301423443"
+        available: true
+    priceMax: 1139
 tags:
   - "柔軟剤"
   - "コスパ"

@@ -4,7 +4,7 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-21"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
     name: "グーンプラス 肌の贅沢 テープ BIGサイズ"
@@ -29,39 +29,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi7un.3rdw6c00.g00qi7un.3rdw7b0e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-leadonline%2F10134543%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-leadonline%2Fi%2F10204093%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-leadonline/cabinet/item10/lm59-7.jpg?_ex=128x128"
   - rank: 2
-    name: "グーンプラス テープ BIGサイズ"
-    brand: "大王製紙（グーンプラス）"
-    price: 1518
-    capacity: "38枚（BIGサイズ・12〜20kg）"
-    pricePerUnit: "約40円/枚"
-    rating: 5
-    reviewCount: 3
-    features:
-      - "敏感肌向けのやわらかタッチ素材を採用"
-      - "BIGサイズ12〜20kg対応で長く使える"
-      - "エリエール公式ストアで品質保証"
-    pros:
-      - "敏感肌の赤ちゃんに配慮したやさしい肌触り"
-      - "BIGサイズまで使えるシリーズで成長に合わせて選択可能"
-      - "グーンプラス上位ラインで品質が高い"
-    cons:
-      - "38枚と少なめのため頻繁に購入が必要"
-      - "通常のグーンと比べて価格が高め"
-    recommendedFor: "肌荒れやかぶれが気になる敏感肌の赤ちゃん・BIGサイズをお探しの方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00unsmn.3rdw6139.g00unsmn.3rdw7a37/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felleair%2F21001262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felleair%2Fi%2F10000171%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/elleair/cabinet/item-img/img01/21001262-01.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 2745
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcompmoto-y%2F4902011102871.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
-        available: true
-        matchStatus: "matched"
-        updatedAt: "2026-08-31"
-        rating: 0
-        reviewCount: 0
-  - rank: 3
     name: "エリエール　グーン　スーパービッグ　テープ止めタイプ"
     brand: "大王製紙（グーン）"
     price: 6984
@@ -94,7 +61,7 @@ products:
         updatedAt: "2026-08-31"
         rating: 4
         reviewCount: 3
-  - rank: 4
+  - rank: 3
     name: "ムーニーマン スーパービッグ 男の子"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1647
@@ -127,7 +94,7 @@ products:
         updatedAt: "2026-08-08"
         rating: 5
         reviewCount: 3
-  - rank: 5
+  - rank: 4
     name: "ムーニーマン スーパービッグ 女の子"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1647
@@ -160,6 +127,39 @@ products:
         updatedAt: "2026-08-08"
         rating: 0
         reviewCount: 2
+  - rank: 5
+    name: "グーンプラス テープ BIGサイズ"
+    brand: "大王製紙（グーンプラス）"
+    price: 1518
+    capacity: "38枚（BIGサイズ・12〜20kg）"
+    rating: 5
+    reviewCount: 3
+    features:
+      - "敏感肌向けのやわらかタッチ素材を採用"
+      - "BIGサイズ12〜20kg対応で長く使える"
+      - "エリエール公式ストアで品質保証"
+    pros:
+      - "敏感肌の赤ちゃんに配慮したやさしい肌触り"
+      - "BIGサイズまで使えるシリーズで成長に合わせて選択可能"
+      - "グーンプラス上位ラインで品質が高い"
+    cons:
+      - "38枚と少なめのため頻繁に購入が必要"
+      - "通常のグーンと比べて価格が高め"
+    recommendedFor: "肌荒れやかぶれが気になる敏感肌の赤ちゃん・BIGサイズをお探しの方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00unsmn.3rdw6139.g00unsmn.3rdw7a37/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felleair%2F21001262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felleair%2Fi%2F10000171%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/elleair/cabinet/item-img/img01/21001262-01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 2745
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcompmoto-y%2F4902011102871.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
+        available: true
+        matchStatus: "matched"
+        updatedAt: "2026-08-31"
+        rating: 0
+        reviewCount: 0
+    priceMax: 5852
 tags:
   - "BIGサイズ おむつ"
   - "ビッグより大きい おむつ"

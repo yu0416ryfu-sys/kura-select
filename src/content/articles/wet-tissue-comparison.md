@@ -240,41 +240,6 @@ products:
         rating: 0
         reviewCount: 0
   - rank: 9
-    name: "ノンアルコール 99%除菌ウェットティッシュ"
-    brand: "VINDA"
-    price: 4980
-    capacity: "80枚×12個（960枚）"
-    pricePerUnit: "約5.2円/枚"
-    rating: 4.81
-    reviewCount: 297
-    features:
-      - "ノンアルコールで99%除菌を訴求したタイプ"
-      - "厚手・大判・無香料設計で幅広い用途に対応"
-      - "破れにくい厚手の素材を採用"
-    pros:
-      - "ノンアルコールのため手肌への刺激を抑えやすい"
-      - "厚手で拭き取りやすく除菌力を重視する方に向く"
-      - "12個まとめ買いで買い足しの手間が減る"
-    cons:
-      - "強力な除菌が必要な場面ではアルコールタイプが向く"
-      - "国内大手ブランドに比べて知名度は低め"
-      - "同一ページ内で3個・6個・12個を選べるため、購入前に組数と価格の確認が必要"
-    recommendedFor: "ノンアルコールで除菌力も確保したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnhsn.3rdw6b0b.g00tnhsn.3rdw755e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarubeni-pps%2Fjyokin80-12set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarubeni-pps%2Fi%2F10000026%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marubeni-pps/cabinet/biiino/item/main-image/1702967471168_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmarubeni-forestlinx%2Fjyokin-99.html"
-        matchStatus: "review"
-        updatedAt: "2026-08-09"
-        price: 4980
-        rating: 4.82
-        reviewCount: 60
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/marubeni-forestlinx_jyokin-99"
-        available: false
-        matchNotes: "capacity不一致: capacity不一致"
-  - rank: 10
     name: "キレイキレイ 除菌ウェットシート ノンアルコール 30枚 携帯用"
     brand: "ライオン（キレイキレイ）"
     price: 217
@@ -307,6 +272,41 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+  - rank: 10
+    name: "ノンアルコール 99%除菌ウェットティッシュ"
+    brand: "VINDA"
+    price: 1740
+    capacity: "80枚×12個（960枚）"
+    rating: 4.81
+    reviewCount: 297
+    features:
+      - "ノンアルコールで99%除菌を訴求したタイプ"
+      - "厚手・大判・無香料設計で幅広い用途に対応"
+      - "破れにくい厚手の素材を採用"
+    pros:
+      - "ノンアルコールのため手肌への刺激を抑えやすい"
+      - "厚手で拭き取りやすく除菌力を重視する方に向く"
+      - "12個まとめ買いで買い足しの手間が減る"
+    cons:
+      - "強力な除菌が必要な場面ではアルコールタイプが向く"
+      - "国内大手ブランドに比べて知名度は低め"
+      - "同一ページ内で3個・6個・12個を選べるため、購入前に組数と価格の確認が必要"
+    recommendedFor: "ノンアルコールで除菌力も確保したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnhsn.3rdw6b0b.g00tnhsn.3rdw755e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarubeni-pps%2Fjyokin80-12set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarubeni-pps%2Fi%2F10000026%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marubeni-pps/cabinet/biiino/item/main-image/1702967471168_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmarubeni-forestlinx%2Fjyokin-99.html"
+        matchStatus: "review"
+        updatedAt: "2026-08-09"
+        price: 4980
+        rating: 4.82
+        reviewCount: 60
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/marubeni-forestlinx_jyokin-99"
+        available: false
+        matchNotes: "capacity不一致: capacity不一致"
+    priceMax: 4980
 tags:
   - "ウェットティッシュ"
   - "ウェットシート"

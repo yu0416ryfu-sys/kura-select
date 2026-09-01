@@ -13,7 +13,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.63円/g"
     rating: 4.77
-    reviewCount: 2076
+    reviewCount: 2077
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "pH10.5のアルカリ性で汚れに働きかける"
@@ -253,7 +253,6 @@ products:
     brand: "パナソニック（Panasonic）"
     price: 1584
     capacity: "1個"
-    pricePerUnit: "約1584円/個"
     rating: 4.72
     reviewCount: 489
     features:
@@ -270,6 +269,7 @@ products:
     recommendedFor: "縦型洗濯機の槽洗浄をしっかりしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rknln.3rdw6a32.g00rknln.3rdw70a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdentendo%2Fva60200108%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdentendo%2Fi%2F10026801%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dentendo/cabinet/08/va60200108_1.jpg?_ex=128x128"
+    priceMax: 5999
 tags:
   - "洗濯槽クリーナー"
   - "コスパ"

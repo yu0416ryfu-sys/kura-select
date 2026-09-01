@@ -136,12 +136,18 @@ function buildAfterSnapshot(before, updates) {
     rank: before?.rank ?? 0,
     name: updates.newName ?? before?.name ?? '',
     price: updates.price !== null ? updates.price : before?.price ?? null,
+    priceMax: updates.clearVariantPrice
+      ? null
+      : (updates.priceMax != null ? updates.priceMax : before?.priceMax ?? null),
     rating: updates.rating !== null ? updates.rating : before?.rating ?? null,
     reviewCount: updates.reviewCount !== null ? updates.reviewCount : before?.reviewCount ?? null,
     rakutenUrl: updates.affiliateUrl || (before?.rakutenUrl ?? null),
     imageUrl: updates.imageUrl || (before?.imageUrl ?? null),
     capacity: updates.newCapacity ?? before?.capacity ?? null,
-    pricePerUnit: updates.pricePerUnit != null ? updates.pricePerUnit : before?.pricePerUnit ?? null,
+    // 価格帯商品は単価を持たない（update 関数が pricePerUnit キーを削除する）
+    pricePerUnit: updates.priceMax != null
+      ? null
+      : (updates.pricePerUnit != null ? updates.pricePerUnit : before?.pricePerUnit ?? null),
   };
 }
 
@@ -161,6 +167,7 @@ function buildProductLogLines({ before, after, data, extractedCap, oldComparable
   lines.push(`capacity(API抽出): ${formatLogValue(extractedCap)} -> ${formatCapacityTotal(apiComparable)}`);
   pushChangeLine(lines, 'name', before?.name, after.name);
   pushChangeLine(lines, 'price', before?.price, after.price, 'price');
+  pushChangeLine(lines, 'priceMax', before?.priceMax, after.priceMax, 'price');
   pushChangeLine(lines, 'rating', before?.rating, after.rating);
   pushChangeLine(lines, 'reviewCount', before?.reviewCount, after.reviewCount, 'count');
   pushChangeLine(lines, 'capacity', before?.capacity, after.capacity);
@@ -1366,6 +1373,9 @@ async function fetchRakutenSearch(keyword, { excludeUrlKeys = new Set() } = {}) 
   return {
     name: item.itemName,
     price: item.itemPrice ?? null,
+    // 価格帯（選択式）判定に使う。無いと clearVariantPrice が誤発火して是正を巻き戻す
+    priceMin: item.itemPriceMin1 ?? null,
+    priceMax: item.itemPriceMax1 ?? null,
     rating: item.reviewAverage ? Number(item.reviewAverage) : null,
     reviewCount: item.reviewCount ? Number(item.reviewCount) : null,
     itemUrl: item.itemUrl,
@@ -1458,6 +1468,8 @@ async function fetchRakutenSearchMany(keyword, hits = 30, page = 1) {
     .map(item => ({
       name: item.itemName,
       price: item.itemPrice ?? null,
+      priceMin: item.itemPriceMin1 ?? null,
+      priceMax: item.itemPriceMax1 ?? null,
       rating: item.reviewAverage ? Number(item.reviewAverage) : null,
       reviewCount: item.reviewCount ? Number(item.reviewCount) : null,
       itemUrl: item.itemUrl,
@@ -1503,6 +1515,8 @@ async function collectProductMatchCandidates(searchKeywords, maxCandidates = 10)
         directItemUrl,
         affiliateUrl: item.affiliateUrl ?? null,
         price: item.price ?? null,
+        // 選択式（項目選択肢で価格が変わる）出品。AI 側で「採らない」判断ができるようにする
+        isVariantPrice: hasVariantPriceRange(item.priceMin, item.priceMax),
         rating: item.rating ?? null,
         reviewCount: item.reviewCount ?? null,
         imageUrl: item.imageUrl ?? null,
@@ -1769,6 +1783,7 @@ async function checkAdditions() {
         badCapacityUnit: 0,
         recentDeleted: 0,
         lowScore: 0,
+        variantPrice: 0,
       };
 
       // 既存商品・URL不明を除外し、容量不明は必要件数に足りない場合だけ補完候補にする
@@ -1803,6 +1818,12 @@ async function checkAdditions() {
         if (candidateUrlKey && existingUrlKeys.has(candidateUrlKey)) {
           stats.duplicate++;
           recordExcluded('既存URL重複', c, { directUrl });
+          continue;
+        }
+        // 選択式（項目選択肢で価格が変わる）出品は価格・容量を確定できないため候補に入れない
+        if (hasVariantPriceRange(c.priceMin, c.priceMax)) {
+          stats.variantPrice++;
+          recordExcluded(`価格帯商品（${c.priceMin}〜${c.priceMax}円）`, c, { directUrl });
           continue;
         }
         const recentDeleted = findRecentDeletedProduct(directUrl, recentDeletedProducts);
@@ -1882,6 +1903,7 @@ async function checkAdditions() {
           `- 容量抽出不可で補完採用: ${stats.noCapacityUsed}件\n` +
           `- 比較対象外の容量単位で除外: ${stats.badCapacityUnit}件\n` +
           `- 直近削除履歴で除外: ${stats.recentDeleted}件\n` +
+          `- 価格帯商品（選択式）で除外: ${stats.variantPrice}件\n` +
           `- スコア不足で除外: ${stats.lowScore}件\n` +
           `- 有効候補: ${validCandidates.length}件 / 容量抽出不可の補完候補: ${noCapacityCandidates.length}件\n` +
           buildExcludedCandidatesSection(excludedCandidates)
@@ -1901,6 +1923,7 @@ async function checkAdditions() {
       section += `- 容量抽出不可で補完採用: ${stats.noCapacityUsed}件\n`;
       section += `- 比較対象外の容量単位で除外: ${stats.badCapacityUnit}件\n`;
       section += `- 直近削除履歴で除外: ${stats.recentDeleted}件\n`;
+      section += `- 価格帯商品（選択式）で除外: ${stats.variantPrice}件\n`;
       section += `- スコア不足で除外: ${stats.lowScore}件\n`;
       section += `- 有効候補: ${validCandidates.length}件 / 容量抽出不可の補完候補: ${noCapacityCandidates.length}件\n\n`;
 
@@ -2012,6 +2035,7 @@ async function checkReplacements() {
   console.log(`📊 入れ替え候補チェック（閾値: ${THRESHOLD}倍以上）\n`);
 
   const sections = [];
+  let variantPriceExcluded = 0;
 
   for (const file of files) {
     const filePath = join(articlesDir, file);
@@ -2040,6 +2064,14 @@ async function checkReplacements() {
       process.stdout.write(`   [${shortName}...] `);
       try {
         const data = await fetchRakutenSearch(product.name);
+
+        // 選択式（項目選択肢で価格が変わる）出品は価格・容量を確定できないため入れ替え先にしない
+        if (hasVariantPriceRange(data.priceMin, data.priceMax)) {
+          variantPriceExcluded++;
+          console.log(`  価格帯商品のため候補から除外（${data.priceMin}〜${data.priceMax}円）`);
+          await new Promise(r => setTimeout(r, 2000));
+          continue;
+        }
 
         const currentCount = product.reviewCount ?? 0;
         const candidateCount = data.reviewCount ?? 0;
@@ -2092,6 +2124,7 @@ async function checkReplacements() {
     `閾値: 現在のレビュー数の ${THRESHOLD} 倍以上`,
     ``,
     sections.length === 0 ? '> 入れ替え候補はありませんでした。' : `候補あり記事: ${sections.length} 件`,
+    `価格帯商品（選択式）で除外: ${variantPriceExcluded} 件`,
     ``,
     `---`,
     ``,
@@ -2100,6 +2133,7 @@ async function checkReplacements() {
   writeFileSync(outPath, header + sections.join('\n---\n\n'), 'utf-8');
   console.log(`\n✅ レポート出力: ${outPath}`);
   console.log(`   候補あり記事: ${sections.length} 件`);
+  console.log(`   価格帯商品（選択式）で除外: ${variantPriceExcluded} 件`);
 }
 
 function createArticleResult(file) {
@@ -2332,22 +2366,47 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
         pricePerUnit: newPricePerUnit,
       };
 
+      // 価格帯を脱した商品の後始末。min/max を実際に観測できた経路でのみ priceMax を消す
+      // （観測できない経路で消すと最安バリアント価格が書き戻り、是正が巻き戻る）
+      const canObserveRange = data.priceMin != null && data.priceMax != null;
+      if (canObserveRange && !isVariantPriceRange && beforeSnapshot?.priceMax != null) {
+        updates.clearVariantPrice = true;
+      }
+
       // 機能3: 容量差異の自動修正
       // Item/Get は同一商品確定のため差異があれば即更新、Search は誤ヒット防止のため5%超のみ更新
       if (aiCapacityFrozen) {
-        updates.pricePerUnit = capacity && capacity !== '-' && hasKnownApiPrice
-          ? calcPricePerUnit(data.price, capacity, preferUnit)
-          : beforeSnapshot?.pricePerUnit ?? null;
-        capacityNotes.push(`capacity判定: AI capacity確定済みのため同一実行の自動容量修正・review出力をスキップ`);
+        if (isVariantPriceRange) {
+          // 価格帯の記録は AI capacity 確定より優先する（AI が確定させたのは capacity のみ）
+          updates.price = data.priceMin;
+          updates.priceMax = data.priceMax;
+          updates.pricePerUnit = null;
+          frozenProductNames.add(name);
+          capacityNotes.push(`capacity判定: AI capacity確定済みだが価格帯商品（${data.priceMin}〜${data.priceMax}円）のため帯で記録し単価は非表示にする`);
+        } else {
+          updates.pricePerUnit = capacity && capacity !== '-' && hasKnownApiPrice
+            ? calcPricePerUnit(data.price, capacity, preferUnit)
+            : beforeSnapshot?.pricePerUnit ?? null;
+          capacityNotes.push(`capacity判定: AI capacity確定済みのため同一実行の自動容量修正・review出力をスキップ`);
+        }
       } else if (data.name) {
         if (shouldFreezePriceCapacity) {
-          updates.price = null;           // 最安バリアント価格の流入を防ぎ既存 price を保持
           frozenProductNames.add(name);   // 後段 syncPricePerUnitWithPolicy で除外する
-          capacityNotes.push(
-            isVariantPriceRange
-              ? `capacity判定: 価格帯商品（${data.priceMin}〜${data.priceMax}円）のため要確認。price/capacity/pricePerUnitは自動更新しない`
-              : `capacity判定: 組数選択/複数容量バリエーションのため要確認。price/capacity/pricePerUnitは自動更新しない`
-          );
+          if (isVariantPriceRange) {
+            // 帯として記録する。price は最安構成、priceMax は上限。単価は出さない
+            updates.price = data.priceMin;
+            updates.priceMax = data.priceMax;
+            updates.pricePerUnit = null;
+            capacityNotes.push(
+              `capacity判定: 価格帯商品（${data.priceMin}〜${data.priceMax}円）のため price/priceMax を帯で記録し、単価は非表示にする`
+            );
+          } else {
+            // 商品名だけから変種を読んだケースは価格帯が不明なため従来どおり凍結する
+            updates.price = null;         // 最安バリアント価格の流入を防ぎ既存 price を保持
+            capacityNotes.push(
+              `capacity判定: 組数選択/複数容量バリエーションのため要確認。price/capacity/pricePerUnitは自動更新しない`
+            );
+          }
         } else if (capacity && extractedCap) {
           const oldTotal = extractCapacityTotal(capacity);
           const newTotal = extractCapacityTotal(extractedCap);
@@ -2483,6 +2542,7 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
       const changed = [
         ['name', beforeSnapshot?.name, afterSnapshot.name],
         ['price', beforeSnapshot?.price, afterSnapshot.price],
+        ['priceMax', beforeSnapshot?.priceMax, afterSnapshot.priceMax],
         ['rating', beforeSnapshot?.rating, afterSnapshot.rating],
         ['reviewCount', beforeSnapshot?.reviewCount, afterSnapshot.reviewCount],
         ['rakutenUrl', beforeSnapshot?.rakutenUrl, afterSnapshot.rakutenUrl],
@@ -2644,7 +2704,9 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
   // 機能0: pricePerUnit を price+capacity+単位ポリシーから同期（スキップ商品の単位ズレも補正）
   const ppuSyncResult = syncPricePerUnitWithPolicy(updatedContent, preferUnit, {
     skipNames: frozenProductNames,
-    skipProduct: product => isAiCapacityFrozen(aiCapacityFrozenProducts, {
+    // priceMax を持つ商品（価格帯商品）は単価を持たないため恒久的にスキップする。
+    // frozenProductNames はその実行で凍結した商品しか含まないので単独では不十分
+    skipProduct: product => product.priceMax != null || isAiCapacityFrozen(aiCapacityFrozenProducts, {
       file,
       rank: product.rank,
       name: product.name,

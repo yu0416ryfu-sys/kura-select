@@ -24,6 +24,11 @@ const productSchema = z.object({
   name: z.string(),
   brand: z.string(),
   price: z.number().int().nonnegative(),
+  /**
+   * 選択式（項目選択肢で価格が変わる）出品の上限価格。
+   * これがあるとき price は最安構成の価格を指し、比較表は帯で表示して単価を出さない。
+   */
+  priceMax: z.number().int().nonnegative().optional(),
   capacity: z.string(),
   pricePerUnit: z.string().optional(),
   rating: z.number().min(0).max(5).optional(),

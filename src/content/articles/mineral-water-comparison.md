@@ -30,28 +30,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r685n.3rdw6e25.g00r685n.3rdw7405/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyou2han%2F10002791%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyou2han%2Fi%2F10002791%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/you2han/cabinet/dk/life2000-001.jpg?_ex=128x128"
   - rank: 2
-    name: "安曇野ミネラルウォーター 北アルプス 2L×6本"
-    brand: "安曇野"
-    price: 1080
-    capacity: "2L×6本（12L）"
-    pricePerUnit: "約90円/L"
-    rating: 4.19
-    reviewCount: 16
-    features:
-      - "名水百選に選ばれた北アルプス・安曇野産の国産軟水"
-      - "塩分31mg/Lの軟水、クセのないすっきりとした味わい"
-      - "2L×6本のコンパクトセットで試しやすい"
-    pros:
-      - "名水百選の産地という水源へのこだわりがある"
-      - "軟水でどんな料理にも使いやすく幅広い用途に対応"
-      - "6本セットで初めて試す方や少量で揃えたい方に向いている"
-    cons:
-      - "6本単位のため12本・18本セットと比べ1本あたり割高になりやすい"
-      - "一度の到着量が少なく頻繁に注文する必要がある場合がある"
-    recommendedFor: "産地・水源を重視したい方・まずは少量から試してみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7169488%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10180096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tenposupport08/4571454860046.jpg?_ex=128x128"
-  - rank: 3
     name: "アサヒ おいしい水 天然水 ラベルレスボトル 2L×9本"
     brand: "アサヒ飲料"
     price: 1643
@@ -73,36 +51,14 @@ products:
     recommendedFor: "エコ意識が高い方・ストック場所に余裕があり大量購入したいご家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4514603380606%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10890405%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/606/4514603380606.jpg?_ex=128x128"
-  - rank: 4
-    name: "サントリー天然水 南アルプス 2L×12本"
-    brand: "サントリー"
-    price: 2280
-    capacity: "2L×12本（24L）"
-    pricePerUnit: "約95円/L"
-    rating: 4.33
-    reviewCount: 72
-    features:
-      - "南アルプス・北アルプス・奥大山・阿蘇の複数採水地から採水"
-      - "軟水・弱アルカリ性のナチュラルミネラルウォーター"
-      - "まろやかな口当たりで飲料・料理・お茶・コーヒーに幅広く使える"
-    pros:
-      - "日本を代表するブランドとして知名度が高く日常使いしやすい"
-      - "やわらかい口当たりで離乳食やミルク調乳にも合わせやすい"
-      - "スーパーや薬局でも入手しやすく定期補充が容易"
-    cons:
-      - "採水地が複数あるため特定の産地にこだわりたい場合には向かないことがある"
-      - "他の国産ノーブランド水と比べると価格が高めになる場合がある"
-    recommendedFor: "毎日の飲料水として安心感のあるブランドを選びたいご家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00twmen.3rdw6441.g00twmen.3rdw7e0a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzu-onlineshop%2F2255-001097%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuzu-onlineshop%2Fi%2F10000389%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suzu-onlineshop/cabinet/compass1691726585.jpg?_ex=128x128"
-  - rank: 5
+  - rank: 3
     name: "楽天オリジナル 天然水 500mL×24本"
     brand: "楽天オリジナル"
     price: 1310
     capacity: "500mL×24本（12L）"
     pricePerUnit: "約109円/L"
     rating: 4.69
-    reviewCount: 1858
+    reviewCount: 1860
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"
@@ -117,7 +73,7 @@ products:
     recommendedFor: "持ち運び用・職場や学校へのストックに使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqzrn.3rdw615b.g00uqzrn.3rdw7efd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenoriginal-daily%2Fro-b-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenoriginal-daily%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenoriginal-daily/cabinet/item/water/ro-b-001_e_v2.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 4
     name: "いろはす 天然水 ラベルレス"
     brand: "コカコーラ（いろはす）"
     price: 1870
@@ -139,7 +95,7 @@ products:
     recommendedFor: "エコ意識でラベルレスボトルの天然水を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tko0n.3rdw6dd0.g00tko0n.3rdw7f7e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmita-house%2F10000028%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmita-house%2Fi%2F10000028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mita-house/cabinet/compass1694495531.jpg?_ex=128x128"
-  - rank: 7
+  - rank: 5
     name: "クリスタルガイザー 天然水"
     brand: "Crystal Geyser"
     price: 3480
@@ -172,7 +128,7 @@ products:
         reviewCount: 575
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/meshiya_001-0010-001-spu1712"
         available: true
-  - rank: 8
+  - rank: 6
     name: "かぞく想いの天然水 硝酸態窒素ゼロ 2L×12本"
     brand: "かぞく想いの天然水"
     price: 3980
@@ -194,7 +150,7 @@ products:
     recommendedFor: "水の成分・安全性にこだわりたい方・小さなお子様がいるご家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi1bn.3rdw68ab.g00qi1bn.3rdw793b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmsty1018%2F4997150132216-12pcs%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmsty1018%2Fi%2F10001637%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/msty1018/cabinet/mineralwater/4997150132216-12pcs.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 7
     name: "ボルヴィック 天然水 500mL×48本"
     brand: "Volvic"
     price: 5110
@@ -227,7 +183,7 @@ products:
         reviewCount: 21
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_9416005"
         available: true
-  - rank: 10
+  - rank: 8
     name: "エビアン 天然水 硬水 500mL×24本"
     brand: "evian"
     price: 2980
@@ -249,6 +205,50 @@ products:
     recommendedFor: "海外産の硬水を好む方・ミネラル摂取を意識したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fs01299%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10111735%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/guideline/gl01/s01299.jpg?_ex=128x128"
+  - rank: 9
+    name: "安曇野ミネラルウォーター 北アルプス 2L×6本"
+    brand: "安曇野"
+    price: 1080
+    capacity: "2L×6本（12L）"
+    rating: 4.19
+    reviewCount: 16
+    features:
+      - "名水百選に選ばれた北アルプス・安曇野産の国産軟水"
+      - "塩分31mg/Lの軟水、クセのないすっきりとした味わい"
+      - "2L×6本のコンパクトセットで試しやすい"
+    pros:
+      - "名水百選の産地という水源へのこだわりがある"
+      - "軟水でどんな料理にも使いやすく幅広い用途に対応"
+      - "6本セットで初めて試す方や少量で揃えたい方に向いている"
+    cons:
+      - "6本単位のため12本・18本セットと比べ1本あたり割高になりやすい"
+      - "一度の到着量が少なく頻繁に注文する必要がある場合がある"
+    recommendedFor: "産地・水源を重視したい方・まずは少量から試してみたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7169488%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10180096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tenposupport08/4571454860046.jpg?_ex=128x128"
+    priceMax: 2080
+  - rank: 10
+    name: "サントリー天然水 南アルプス 2L×12本"
+    brand: "サントリー"
+    price: 2280
+    capacity: "2L×12本（24L）"
+    rating: 4.33
+    reviewCount: 72
+    features:
+      - "南アルプス・北アルプス・奥大山・阿蘇の複数採水地から採水"
+      - "軟水・弱アルカリ性のナチュラルミネラルウォーター"
+      - "まろやかな口当たりで飲料・料理・お茶・コーヒーに幅広く使える"
+    pros:
+      - "日本を代表するブランドとして知名度が高く日常使いしやすい"
+      - "やわらかい口当たりで離乳食やミルク調乳にも合わせやすい"
+      - "スーパーや薬局でも入手しやすく定期補充が容易"
+    cons:
+      - "採水地が複数あるため特定の産地にこだわりたい場合には向かないことがある"
+      - "他の国産ノーブランド水と比べると価格が高めになる場合がある"
+    recommendedFor: "毎日の飲料水として安心感のあるブランドを選びたいご家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00twmen.3rdw6441.g00twmen.3rdw7e0a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzu-onlineshop%2F2255-001097%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuzu-onlineshop%2Fi%2F10000389%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suzu-onlineshop/cabinet/compass1691726585.jpg?_ex=128x128"
+    priceMax: 3480
 tags:
   - "ミネラルウォーター おすすめ"
   - "天然水 コスパ"

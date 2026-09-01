@@ -303,6 +303,7 @@ body
       rank: 0,
       name: "Alpha",
       price: 1200,
+      priceMax: null,
       rating: 4.5,
       reviewCount: 30,
       rakutenUrl: "https://example.com/a",
@@ -2533,5 +2534,110 @@ describe("商品名ノイズの容量誤抽出（2026-08-28 review）", () => {
     ).toBe(true);
     // 総量＋内訳（列挙ではない）は変種扱いしない
     expect(isSalesQuantityVariantItemName("スコッティ ティッシュペーパー 200組 5箱 12パック")).toBe(false);
+  });
+});
+
+// ─── 価格帯（選択式）商品の帯記録 ─────────────────────────────────────────
+describe("priceMax（選択式出品の上限価格）", () => {
+  const variantMd = [
+    "---",
+    "products:",
+    "  - rank: 1",
+    '    name: "商品A"',
+    "    price: 1000",
+    '    capacity: "100mL"',
+    '    pricePerUnit: "約10円/mL"',
+    '    rakutenUrl: "https://item.rakuten.co.jp/shop/a/"',
+    "  - rank: 2",
+    '    name: "商品B"',
+    "    price: 2000",
+    '    capacity: "100mL"',
+    '    pricePerUnit: "約20円/mL"',
+    '    rakutenUrl: "https://item.rakuten.co.jp/shop/b/"',
+    "---",
+    "本文",
+  ].join("\n");
+
+  const noUpdates = {
+    price: null,
+    rating: null,
+    reviewCount: null,
+    affiliateUrl: null,
+    imageUrl: null,
+  };
+
+  it("updateProductInFrontmatter: priceMax を書き込み pricePerUnit を消す", () => {
+    const result = updateProductInFrontmatter(variantMd, "商品A", {
+      ...noUpdates,
+      price: 1000,
+      priceMax: 9800,
+    });
+    const snap = extractProductSnapshot(result, "商品A");
+    expect(snap?.priceMax).toBe(9800);
+    expect(snap?.pricePerUnit).toBeNull();
+    // 他商品は触らない
+    expect(extractProductSnapshot(result, "商品B")?.pricePerUnit).toBe("約20円/mL");
+  });
+
+  it("updateProductInFrontmatter: clearVariantPrice で priceMax が消える", () => {
+    const withMax = updateProductInFrontmatter(variantMd, "商品A", { ...noUpdates, priceMax: 9800 });
+    const cleared = updateProductInFrontmatter(withMax, "商品A", { ...noUpdates, clearVariantPrice: true });
+    expect(cleared).not.toContain("priceMax");
+    expect(extractProductSnapshot(cleared, "商品A")?.priceMax).toBeNull();
+  });
+
+  it("updateProductInFrontmatterByRank: 同じ分岐が効く", () => {
+    const result = updateProductInFrontmatterByRank(variantMd, 1, {
+      ...noUpdates,
+      price: 1000,
+      priceMax: 9800,
+    });
+    expect(result.changed).toBe(true);
+    const snap = extractProductSnapshotByRank(result.content, 1);
+    expect(snap?.priceMax).toBe(9800);
+    expect(snap?.pricePerUnit).toBeNull();
+
+    const cleared = updateProductInFrontmatterByRank(result.content, 1, {
+      ...noUpdates,
+      clearVariantPrice: true,
+    });
+    expect(extractProductSnapshotByRank(cleared.content, 1)?.priceMax).toBeNull();
+  });
+
+  it("extractProductSnapshot / ...ByRank が priceMax を返す（未設定は null）", () => {
+    const withMax = updateProductInFrontmatter(variantMd, "商品A", { ...noUpdates, priceMax: 9800 });
+    expect(extractProductSnapshot(withMax, "商品A")?.priceMax).toBe(9800);
+    expect(extractProductSnapshotByRank(withMax, 1)?.priceMax).toBe(9800);
+    expect(extractProductSnapshot(withMax, "商品B")?.priceMax).toBeNull();
+    expect(extractProductSnapshotByRank(withMax, 2)?.priceMax).toBeNull();
+  });
+
+  it("syncPricePerUnitWithPolicy に渡る snapshot に priceMax が入っている", () => {
+    const withMax = updateProductInFrontmatter(variantMd, "商品A", { ...noUpdates, priceMax: 9800 });
+    const seen: (number | null)[] = [];
+    syncPricePerUnitWithPolicy(withMax, "mL", {
+      skipProduct: product => {
+        seen.push(product.priceMax);
+        return false;
+      },
+    });
+    expect(seen).toEqual([9800, null]);
+  });
+
+  it("skipProduct: p => p.priceMax != null で単価が復活しない", () => {
+    const withMax = updateProductInFrontmatter(variantMd, "商品A", { ...noUpdates, priceMax: 9800 });
+    const result = syncPricePerUnitWithPolicy(withMax, "mL", {
+      skipProduct: product => product.priceMax != null,
+    });
+    const content = result.changed ? result.content : withMax;
+    expect(extractProductSnapshot(content, "商品A")?.pricePerUnit).toBeNull();
+  });
+
+  it("reorderProductsByPricePerUnit: pricePerUnit の無い商品は末尾に落ちる", () => {
+    const withMax = updateProductInFrontmatter(variantMd, "商品A", { ...noUpdates, priceMax: 9800 });
+    const result = reorderProductsByPricePerUnit(withMax);
+    expect(result.changed).toBe(true);
+    expect(extractProductSnapshotByRank(result.content, 1)?.name).toBe("商品B");
+    expect(extractProductSnapshotByRank(result.content, 2)?.name).toBe("商品A");
   });
 });

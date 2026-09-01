@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
@@ -286,7 +286,6 @@ products:
     brand: "太陽油脂（パックス）"
     price: 608
     capacity: "500g"
-    pricePerUnit: "約1.2円/g"
     rating: 4.74
     reviewCount: 90
     features:
@@ -314,6 +313,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosmebox_j4904735053064f"
         available: true
+    priceMax: 12150
 tags:
   - "漂白剤"
   - "コスパ"

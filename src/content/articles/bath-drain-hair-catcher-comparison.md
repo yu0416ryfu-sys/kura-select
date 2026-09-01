@@ -30,11 +30,142 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ssgkn.3rdw616d.g00ssgkn.3rdw768f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fti-am%2F10000658%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fti-am%2Fi%2F10000487%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ti-am/cabinet/tuujou01/11sanei/ph397-0.jpg?_ex=128x128"
   - rank: 2
+    name: "TOKAIZ ステンレス 排水口ゴミ受け ヘアキャッチャー"
+    brand: "TOKAIZ"
+    price: 1580
+    capacity: "1個"
+    pricePerUnit: "約1580円/個"
+    rating: 4.23
+    reviewCount: 957
+    features:
+      - "ステンレス製の排水口ゴミ受け"
+      - "排水口ネット付きのセット"
+      - "洗面台や浴室向けの小径タイプ"
+    pros:
+      - "ネットも一緒に用意したい方に向く"
+      - "金属製の小型ゴミ受けを比較しやすい"
+      - "洗面所兼用の候補として見やすい"
+    cons:
+      - "浴室排水口のサイズ適合を確認する必要がある"
+      - "ネット不要派には付属品が余る場合がある"
+    recommendedFor: "ネット付きで始めたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0w7n.3rdw68ea.g00s0w7n.3rdw7982/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fysmya%2F80002296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fysmya%2Fi%2F10012656%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ysmya/cabinet/13755558/80002296logotest1.jpg?_ex=128x128"
+  - rank: 3
+    name: "ヘアーキャッチャー お風呂の排水口用 ミューファン"
+    brand: "シンカテック"
+    price: 2090
+    capacity: "1個"
+    pricePerUnit: "約2090円/個"
+    rating: 4
+    reviewCount: 1
+    features:
+      - "市販の排水口ネットを取り付けるホルダー型"
+      - "ミューファン配合素材"
+      - "日本製の浴室排水口用"
+    pros:
+      - "ゴミをネットごと捨てたい方に向く"
+      - "ネット併用で手入れの負担を抑えやすい"
+      - "樹脂製で扱いやすいタイプを選びやすい"
+    cons:
+      - "排水口ネットを別途用意する必要がある"
+      - "ネットの取り付けに慣れが必要な場合がある"
+    recommendedFor: "排水口ネットを使ってゴミを捨てたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F465592%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10210964%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_sinka1/465592.jpg?_ex=128x128"
+  - rank: 4
+    name: "HUBATH お風呂 マグネット ヘアーキャッチャー TT104"
+    brand: "シンカテック"
+    price: 2420
+    capacity: "1個"
+    pricePerUnit: "約2420円/個"
+    rating: 4.7
+    reviewCount: 2385
+    features:
+      - "TOTO対応サイズのヘアーキャッチャー"
+      - "浴室排水口向けのステンレス製"
+      - "マグネット式のごみ受け"
+    pros:
+      - "対応メーカーを確認して選びやすい"
+      - "金属製で見た目を整えやすい"
+      - "ネット不要タイプの候補にしやすい"
+    cons:
+      - "対応サイズ外では使えない場合がある"
+      - "購入前に排水口仕様を確認したい"
+    recommendedFor: "TOTO系浴室の目皿交換候補を探す方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s7h3n.3rdw6d0e.g00s7h3n.3rdw7585/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsinkatec%2Fhu_thair_catcher%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsinkatec%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkatec/cabinet/bath/hubath_btmh/imgrc0151319523.jpg?_ex=128x128"
+  - rank: 5
+    name: "HUBATH お風呂 マグネット ヘアーキャッチャー STD140"
+    brand: "シンカテック"
+    price: 2530
+    capacity: "1個"
+    pricePerUnit: "約2530円/個"
+    rating: 4.62
+    reviewCount: 4842
+    features:
+      - "浴室排水口向けのステンレス製"
+      - "マグネット式のヘアーキャッチャー"
+      - "スタンダードサイズ向け設計"
+    pros:
+      - "金属製のごみ受けを選びたい方に向く"
+      - "置くだけで使うタイプを比較しやすい"
+      - "浴室の目皿交換候補にしやすい"
+    cons:
+      - "購入前に排水口サイズを測る必要がある"
+      - "磁石が使える条件を確認したい"
+    recommendedFor: "ステンレス製の標準サイズを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s7h3n.3rdw6d0e.g00s7h3n.3rdw7585/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsinkatec%2Fhu_mhair_catcher%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsinkatec%2Fi%2F10000428%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkatec/cabinet/bath/hubath_bmh/imgrc0151319519.jpg?_ex=128x128"
+  - rank: 6
+    name: "dailysmile ステンレス 排水口カバー ヘアーキャッチャー"
+    brand: "dailysmile"
+    price: 2580
+    capacity: "1個"
+    pricePerUnit: "約2580円/個"
+    rating: 4.19
+    reviewCount: 210
+    features:
+      - "ステンレス製の排水口カバー"
+      - "ネット付きのヘアーキャッチャー"
+      - "浴室排水口のゴミ受けタイプ"
+    pros:
+      - "カバーとネットをまとめて用意しやすい"
+      - "金属製の見た目を重視しやすい"
+      - "掃除しやすい形状を比較できる"
+    cons:
+      - "付属ネットの管理が必要になる"
+      - "対応サイズを事前に確認したい"
+    recommendedFor: "ネット付きステンレス型を検討したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7an.3rdw60d8.g00un7an.3rdw7e7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdailysmile%2Fl5hm069%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdailysmile%2Fi%2F10000213%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dailysmile/cabinet/homekitchen2/l5hm069_test.jpg?_ex=128x128"
+  - rank: 7
+    name: "KEEPFINE 抗菌ヘアキャッチャー 102mm用"
+    brand: "KEEPFINE"
+    price: 3510
+    capacity: "1個"
+    pricePerUnit: "約3510円/個"
+    rating: 4.75
+    reviewCount: 8
+    features:
+      - "102mm排水口向けのステンレス製"
+      - "SUS304素材"
+      - "置くだけで使うパンチングタイプ"
+    pros:
+      - "金属製のごみ受けを選びたい方に向く"
+      - "ネットなしで使えるタイプを探しやすい"
+      - "ユニットバスの目皿交換候補にしやすい"
+    cons:
+      - "対応サイズを事前に測る必要がある"
+      - "樹脂製より重量感や質感の好みが分かれる"
+    recommendedFor: "ステンレス製の置くだけタイプを選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ur6mn.3rdw6a14.g00ur6mn.3rdw75cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffinelifestyle%2Fncc0302%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffinelifestyle%2Fi%2F10000025%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/finelifestyle/cabinet/keepfine/haircatch142kokin/imgrc0109222928.jpg?_ex=128x128"
+  - rank: 8
     name: "髪の毛くるくるポイ"
     brand: "ウエルスジャパン"
     price: 1030
     capacity: "1個"
-    pricePerUnit: "約1030円/個"
     rating: 4.19
     reviewCount: 647
     features:
@@ -62,36 +193,14 @@ products:
         reviewCount: 19
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fabric-cute_4580356840049"
         available: true
-  - rank: 3
-    name: "TOKAIZ ステンレス 排水口ゴミ受け ヘアキャッチャー"
-    brand: "TOKAIZ"
-    price: 1580
-    capacity: "1個"
-    pricePerUnit: "約1580円/個"
-    rating: 4.22
-    reviewCount: 958
-    features:
-      - "ステンレス製の排水口ゴミ受け"
-      - "排水口ネット付きのセット"
-      - "洗面台や浴室向けの小径タイプ"
-    pros:
-      - "ネットも一緒に用意したい方に向く"
-      - "金属製の小型ゴミ受けを比較しやすい"
-      - "洗面所兼用の候補として見やすい"
-    cons:
-      - "浴室排水口のサイズ適合を確認する必要がある"
-      - "ネット不要派には付属品が余る場合がある"
-    recommendedFor: "ネット付きで始めたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0w7n.3rdw68ea.g00s0w7n.3rdw7982/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fysmya%2F80002296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fysmya%2Fi%2F10012656%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ysmya/cabinet/13755558/80002296logotest1.jpg?_ex=128x128"
-  - rank: 4
+    priceMax: 2280
+  - rank: 9
     name: "Magico かくれんぼネットホルダー"
     brand: "Magico"
-    price: 1980
+    price: 1000
     capacity: "1個"
-    pricePerUnit: "約1980円/個"
     rating: 4.66
-    reviewCount: 632
+    reviewCount: 633
     features:
       - "浴室排水口向けのネットホルダー"
       - "排水口ネットを隠しやすい構造"
@@ -106,12 +215,12 @@ products:
     recommendedFor: "ネット併用でも見た目を整えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rzdpn.3rdw67f2.g00rzdpn.3rdw7df7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkweg%2Fmagico_drainnetholder%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkweg%2Fi%2F10000238%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kweg/cabinet/items/magico/drainnetholder_v2/kakurenbo_kumogata.jpg?_ex=128x128"
-  - rank: 5
+    priceMax: 1980
+  - rank: 10
     name: "HUROYAMA ヘアキャッチャー Ag+"
     brand: "HUROYAMA"
     price: 1980
     capacity: "1個"
-    pricePerUnit: "約1980円/個"
     rating: 4.08
     reviewCount: 53
     features:
@@ -128,116 +237,7 @@ products:
     recommendedFor: "シリコン系のヘアキャッチャーを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s6aun.3rdw6e7e.g00s6aun.3rdw7227/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finter-bb%2Fhy-hc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finter-bb%2Fi%2F10000222%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inter-bb/cabinet/huroyama/haircatcher/sqr/hc_new_thumbnail02.jpg?_ex=128x128"
-  - rank: 6
-    name: "ヘアーキャッチャー お風呂の排水口用 ミューファン"
-    brand: "シンカテック"
-    price: 2090
-    capacity: "1個"
-    pricePerUnit: "約2090円/個"
-    rating: 4
-    reviewCount: 1
-    features:
-      - "市販の排水口ネットを取り付けるホルダー型"
-      - "ミューファン配合素材"
-      - "日本製の浴室排水口用"
-    pros:
-      - "ゴミをネットごと捨てたい方に向く"
-      - "ネット併用で手入れの負担を抑えやすい"
-      - "樹脂製で扱いやすいタイプを選びやすい"
-    cons:
-      - "排水口ネットを別途用意する必要がある"
-      - "ネットの取り付けに慣れが必要な場合がある"
-    recommendedFor: "排水口ネットを使ってゴミを捨てたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F465592%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10210964%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_sinka1/465592.jpg?_ex=128x128"
-  - rank: 7
-    name: "HUBATH お風呂 マグネット ヘアーキャッチャー TT104"
-    brand: "シンカテック"
-    price: 2420
-    capacity: "1個"
-    pricePerUnit: "約2420円/個"
-    rating: 4.7
-    reviewCount: 2384
-    features:
-      - "TOTO対応サイズのヘアーキャッチャー"
-      - "浴室排水口向けのステンレス製"
-      - "マグネット式のごみ受け"
-    pros:
-      - "対応メーカーを確認して選びやすい"
-      - "金属製で見た目を整えやすい"
-      - "ネット不要タイプの候補にしやすい"
-    cons:
-      - "対応サイズ外では使えない場合がある"
-      - "購入前に排水口仕様を確認したい"
-    recommendedFor: "TOTO系浴室の目皿交換候補を探す方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s7h3n.3rdw6d0e.g00s7h3n.3rdw7585/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsinkatec%2Fhu_thair_catcher%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsinkatec%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkatec/cabinet/bath/hubath_btmh/imgrc0151319523.jpg?_ex=128x128"
-  - rank: 8
-    name: "HUBATH お風呂 マグネット ヘアーキャッチャー STD140"
-    brand: "シンカテック"
-    price: 2530
-    capacity: "1個"
-    pricePerUnit: "約2530円/個"
-    rating: 4.62
-    reviewCount: 4835
-    features:
-      - "浴室排水口向けのステンレス製"
-      - "マグネット式のヘアーキャッチャー"
-      - "スタンダードサイズ向け設計"
-    pros:
-      - "金属製のごみ受けを選びたい方に向く"
-      - "置くだけで使うタイプを比較しやすい"
-      - "浴室の目皿交換候補にしやすい"
-    cons:
-      - "購入前に排水口サイズを測る必要がある"
-      - "磁石が使える条件を確認したい"
-    recommendedFor: "ステンレス製の標準サイズを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s7h3n.3rdw6d0e.g00s7h3n.3rdw7585/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsinkatec%2Fhu_mhair_catcher%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsinkatec%2Fi%2F10000428%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkatec/cabinet/bath/hubath_bmh/imgrc0151319519.jpg?_ex=128x128"
-  - rank: 9
-    name: "dailysmile ステンレス 排水口カバー ヘアーキャッチャー"
-    brand: "dailysmile"
-    price: 2580
-    capacity: "1個"
-    pricePerUnit: "約2580円/個"
-    rating: 4.19
-    reviewCount: 210
-    features:
-      - "ステンレス製の排水口カバー"
-      - "ネット付きのヘアーキャッチャー"
-      - "浴室排水口のゴミ受けタイプ"
-    pros:
-      - "カバーとネットをまとめて用意しやすい"
-      - "金属製の見た目を重視しやすい"
-      - "掃除しやすい形状を比較できる"
-    cons:
-      - "付属ネットの管理が必要になる"
-      - "対応サイズを事前に確認したい"
-    recommendedFor: "ネット付きステンレス型を検討したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7an.3rdw60d8.g00un7an.3rdw7e7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdailysmile%2Fl5hm069%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdailysmile%2Fi%2F10000213%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dailysmile/cabinet/homekitchen2/l5hm069_test.jpg?_ex=128x128"
-  - rank: 10
-    name: "KEEPFINE 抗菌ヘアキャッチャー 102mm用"
-    brand: "KEEPFINE"
-    price: 3510
-    capacity: "1個"
-    pricePerUnit: "約3510円/個"
-    rating: 4.75
-    reviewCount: 8
-    features:
-      - "102mm排水口向けのステンレス製"
-      - "SUS304素材"
-      - "置くだけで使うパンチングタイプ"
-    pros:
-      - "金属製のごみ受けを選びたい方に向く"
-      - "ネットなしで使えるタイプを探しやすい"
-      - "ユニットバスの目皿交換候補にしやすい"
-    cons:
-      - "対応サイズを事前に測る必要がある"
-      - "樹脂製より重量感や質感の好みが分かれる"
-    recommendedFor: "ステンレス製の置くだけタイプを選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ur6mn.3rdw6a14.g00ur6mn.3rdw75cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffinelifestyle%2Fncc0302%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffinelifestyle%2Fi%2F10000025%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/finelifestyle/cabinet/keepfine/haircatch142kokin/imgrc0109222928.jpg?_ex=128x128"
+    priceMax: 2480
 tags:
   - "浴室排水口ヘアキャッチャー おすすめ"
   - "お風呂 排水口 ゴミ受け コスパ"

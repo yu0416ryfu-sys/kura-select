@@ -4,7 +4,7 @@ description: "トイレ用洗剤を1回あたりのコストで徹底比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
     name: "ドメスト 除菌クリーナー 500ml×3個セット"
@@ -172,39 +172,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/zozo_47433692"
         available: true
   - rank: 6
-    name: "キバミおちーる 尿石除去剤"
-    brand: "キバミおちーる"
-    price: 1980
-    capacity: "1000ml"
-    pricePerUnit: "約2.0円/ml"
-    rating: 4.66
-    reviewCount: 122
-    features:
-      - "トイレ掃除に使える洗浄剤"
-      - "黄ばみ・尿石・便座まわりなど用途別に選べる"
-      - "日常掃除と集中掃除で使い分けやすい"
-    pros:
-      - "汚れに合わせて選べる"
-      - "トイレ掃除を効率化しやすい"
-      - "ストックしやすい"
-    cons:
-      - "使用場所と素材の確認が必要"
-      - "換気や併用注意が必要"
-    recommendedFor: "トイレ用洗剤を用途別に比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rlifn.3rdw633d.g00rlifn.3rdw7263/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fle-cure%2Fim-kibami%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fle-cure%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/le-cure/cabinet/new-sum2/im-1064511-sum.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fle-cure%2Fim-1008473.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-01"
-        price: 1980
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/le-cure_im-1008473"
-        available: true
-        rating: 4.13
-        reviewCount: 15
-  - rank: 7
     name: "トイレットペーパーでちょいふき"
     brand: "小林製薬"
     price: 3867
@@ -226,7 +193,7 @@ products:
     recommendedFor: "トイレ用洗剤を用途別に比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987072067178-008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12129144%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic49x/4987072067178_1.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 7
     name: "スクラビングバブル 超強力トイレクリーナー"
     brand: "スクラビングバブル（ジョンソン）"
     price: 215
@@ -259,7 +226,7 @@ products:
         reviewCount: 10
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_9615427011"
         available: true
-  - rank: 9
+  - rank: 8
     name: "スクラビングバブル 超強力トイレクリーナー 10本セット"
     brand: "ジョンソン（スクラビングバブル）"
     price: 2277
@@ -292,6 +259,39 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_542515"
         available: true
+  - rank: 9
+    name: "キバミおちーる 尿石除去剤"
+    brand: "キバミおちーる"
+    price: 1980
+    capacity: "1000ml"
+    rating: 4.66
+    reviewCount: 122
+    features:
+      - "トイレ掃除に使える洗浄剤"
+      - "黄ばみ・尿石・便座まわりなど用途別に選べる"
+      - "日常掃除と集中掃除で使い分けやすい"
+    pros:
+      - "汚れに合わせて選べる"
+      - "トイレ掃除を効率化しやすい"
+      - "ストックしやすい"
+    cons:
+      - "使用場所と素材の確認が必要"
+      - "換気や併用注意が必要"
+    recommendedFor: "トイレ用洗剤を用途別に比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rlifn.3rdw633d.g00rlifn.3rdw7263/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fle-cure%2Fim-kibami%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fle-cure%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/le-cure/cabinet/new-sum2/im-1064511-sum.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fle-cure%2Fim-1008473.html"
+        matchStatus: "matched"
+        updatedAt: "2026-09-01"
+        price: 1980
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/le-cure_im-1008473"
+        available: true
+        rating: 4.13
+        reviewCount: 15
+    priceMax: 4620
 tags:
   - "トイレ用洗剤"
   - "コスパ"

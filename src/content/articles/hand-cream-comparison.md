@@ -142,7 +142,6 @@ products:
     brand: "コラーゲンのルウ研究所"
     price: 253
     capacity: "5g"
-    pricePerUnit: "約51円/g"
     rating: 4.24
     reviewCount: 1093
     features:
@@ -170,12 +169,12 @@ products:
         available: true
         rating: 4.1
         reviewCount: 10
+    priceMax: 374
   - rank: 7
     name: "ALLNA ORGANIC ハンドクリーム 43g"
     brand: "ALLNA ORGANIC"
     price: 2200
     capacity: "43g"
-    pricePerUnit: "約51円/g"
     rating: 4.7
     reviewCount: 736
     features:
@@ -192,12 +191,12 @@ products:
     recommendedFor: "オーガニック・自然派コスメを好む方・ギフト用途を検討している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b072wnfzkl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000265%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/outlet/202608/905b072wnfzkl-50.jpg?_ex=128x128"
+    priceMax: 4400
   - rank: 8
     name: "ハンド＆キューティクルクリーム"
     brand: "ミロビーナ"
-    price: 3410
+    price: 3069
     capacity: "60g"
-    pricePerUnit: "約57円/g"
     rating: 4.57
     reviewCount: 384
     features:
@@ -225,12 +224,12 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/okaimono-ichiba_4580333760087"
         available: true
+    priceMax: 9207
   - rank: 9
     name: "ヴァセリン インテンシブケア ハンドクリーム 60mL"
     brand: "ユニリーバ（ヴァセリン）"
     price: 380
     capacity: "60mL"
-    pricePerUnit: "約6.3円/mL"
     rating: 4.4
     reviewCount: 600
     features:
@@ -247,12 +246,12 @@ products:
     recommendedFor: "乾燥が気になる方・敏感肌の方・バリア機能を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uicnn.3rdw69f9.g00uicnn.3rdw721b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnarushop%2Fvl-8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnarushop%2Fi%2F10000105%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/narushop/cabinet/unilever/vl-7.jpg?_ex=128x128"
+    priceMax: 570
   - rank: 10
     name: "ロクシタン パフュームド ハンドクリーム 30mL 選べる6種類"
     brand: "ロクシタン"
     price: 1120
     capacity: "30mL"
-    pricePerUnit: "約37円/mL"
     rating: 4.51
     reviewCount: 807
     features:
@@ -280,6 +279,7 @@ products:
         available: true
         rating: 4.69
         reviewCount: 729
+    priceMax: 1480
 tags:
   - "ハンドクリーム おすすめ"
   - "ハンドクリーム コスパ"

@@ -255,28 +255,6 @@ products:
         rating: 0
         reviewCount: 1
   - rank: 9
-    name: "プロ・ウォッシュ おしゃれ着洗剤"
-    brand: "プロ・ウォッシュ"
-    price: 3780
-    capacity: "1000ml"
-    pricePerUnit: "約3.8円/ml"
-    rating: 4.63
-    reviewCount: 1280
-    features:
-      - "おしゃれ着やドライマーク衣類向けの洗剤"
-      - "ニットやスーツなどに使いやすい"
-      - "家庭での衣類ケアに向く"
-    pros:
-      - "クリーニング頻度を抑えたい時に便利"
-      - "デリケート衣類を洗いやすい"
-      - "容量で選びやすい"
-    cons:
-      - "洗濯表示の確認が必要"
-      - "素材によっては使えない場合がある"
-    recommendedFor: "おしゃれ着用洗剤を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2b0n.3rdw6085.g00r2b0n.3rdw7a27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faspa%2Farigatou004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faspa%2Fi%2F10000003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aspa/cabinet/item/item280/pro_700_w.jpg?_ex=128x128"
-  - rank: 10
     name: "アリエール ジェルボール4D 部屋干し用 詰め替え 92個"
     brand: "P&G（アリエール）"
     price: 4722
@@ -309,6 +287,28 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+  - rank: 10
+    name: "プロ・ウォッシュ おしゃれ着洗剤"
+    brand: "プロ・ウォッシュ"
+    price: 3780
+    capacity: "1000ml"
+    rating: 4.63
+    reviewCount: 1280
+    features:
+      - "おしゃれ着やドライマーク衣類向けの洗剤"
+      - "ニットやスーツなどに使いやすい"
+      - "家庭での衣類ケアに向く"
+    pros:
+      - "クリーニング頻度を抑えたい時に便利"
+      - "デリケート衣類を洗いやすい"
+      - "容量で選びやすい"
+    cons:
+      - "洗濯表示の確認が必要"
+      - "素材によっては使えない場合がある"
+    recommendedFor: "おしゃれ着用洗剤を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2b0n.3rdw6085.g00r2b0n.3rdw7a27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faspa%2Farigatou004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faspa%2Fi%2F10000003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aspa/cabinet/item/item280/pro_700_w.jpg?_ex=128x128"
+    priceMax: 9240
 tags:
   - "部屋干し"
   - "洗濯洗剤"
