@@ -123,7 +123,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
   const inactiveCls =
     "bg-white text-[var(--color-text-sub)] border-[var(--color-border)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]";
   const desktopPriceRowCls =
-    "grid grid-cols-[38px_92px_112px] items-center gap-2";
+    "grid grid-cols-[38px_124px_112px] items-center gap-2";
   const mobilePriceRowCls =
     "grid grid-cols-[36px_minmax(70px,1fr)_132px] items-center gap-2";
   const ratingProviderCls = "text-[var(--color-text-sub)] w-14 shrink-0";
@@ -167,7 +167,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
               <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] whitespace-nowrap w-12">順位</th>
               <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] min-w-[220px]">商品名</th>
               <th
-                class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[282px] whitespace-nowrap"
+                class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[314px] whitespace-nowrap"
                 aria-sort={ariaSortAttr("price")}
                 onClick={() => handleSort("price")}
               >
@@ -242,9 +242,9 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
                         const unitLabel = resolveDisplayPricePerUnit(p, price, targetUnit, offer.provider);
                         const showUnit = shouldShowPricePerUnit(price, unitLabel);
                         // 価格帯商品は楽天行だけ帯で表示する
-                        const priceLabel =
-                          (offer.provider === "rakuten" ? formatPriceRange(p) : null) ??
-                          formatPriceOrConfirmation(price);
+                        const priceRangeLabel =
+                          offer.provider === "rakuten" ? formatPriceRange(p) : null;
+                        const priceLabel = priceRangeLabel ?? formatPriceOrConfirmation(price);
                         return (
                           <div key={offer.provider} class={desktopPriceRowCls}>
                             <span
@@ -256,7 +256,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
                               最安
                             </span>
                             <span class="text-right whitespace-nowrap leading-tight">
-                              <span class="font-bold tabular-nums block">
+                              <span class={`font-bold tabular-nums block ${priceRangeLabel ? "text-xs" : ""}`}>
                                 {priceLabel}
                               </span>
                               {showUnit && (
@@ -425,9 +425,9 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
                   const unitLabel = resolveDisplayPricePerUnit(p, price, targetUnit, offer.provider);
                   const showUnit = shouldShowPricePerUnit(price, unitLabel);
                   // 価格帯商品は楽天行だけ帯で表示する
-                  const priceLabel =
-                    (offer.provider === "rakuten" ? formatPriceRange(p) : null) ??
-                    formatPriceOrConfirmation(price);
+                  const priceRangeLabel =
+                    offer.provider === "rakuten" ? formatPriceRange(p) : null;
+                  const priceLabel = priceRangeLabel ?? formatPriceOrConfirmation(price);
                   return (
                     <div key={offer.provider} class={mobilePriceRowCls}>
                       <span
@@ -439,7 +439,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
                         最安
                       </span>
                       <span class="whitespace-nowrap leading-tight">
-                        <span class="font-bold tabular-nums text-sm block">
+                        <span class={`font-bold tabular-nums block ${priceRangeLabel ? "text-xs" : "text-sm"}`}>
                           {priceLabel}
                         </span>
                         {showUnit && (
