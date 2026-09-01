@@ -3,7 +3,7 @@ title: "キレイキレイとビオレuどっちがいい？【2026年版】殺�
 description: "キレイキレイ（ライオン）とビオレu（花王）のハンドソープはどっちがいい？定番2ブランドの違いを、薬用殺菌成分の位置づけ・泡と液体の選択肢・1mLあたりの単価・肌あたりの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "hand-soap"
 publishedAt: "2026-08-31"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 articleType: "comparison"
 draft: false
 products:
@@ -12,7 +12,7 @@ products:
     brand: "花王（ビオレu）"
     price: 2780
     capacity: "2L×2本"
-    pricePerUnit: "約695円/L"
+    pricePerUnit: "約0.69円/mL"
     rating: 4.66
     reviewCount: 244
     features:
@@ -56,7 +56,7 @@ products:
     brand: "ライオン（キレイキレイ）"
     price: 3006
     capacity: "4L"
-    pricePerUnit: "約752円/L"
+    pricePerUnit: "約0.75円/mL"
     rating: 4.73
     reviewCount: 128
     features:
@@ -96,28 +96,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901301446404%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11301123%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/404/4901301446404.jpg?_ex=128x128"
   - rank: 5
-    name: "ビオレu 泡ハンドソープ 業務用 4L つめかえ用"
-    brand: "花王（ビオレu）"
-    price: 3430
-    capacity: "4L"
-    pricePerUnit: "約858円/L"
-    rating: 4.89
-    reviewCount: 35
-    features:
-      - "業務用サイズの泡ハンドソープ詰め替え"
-      - "弱酸性で手肌への負担に配慮した処方"
-      - "1本で長く使えるボトル形状"
-    pros:
-      - "ビオレuの泡タイプを最大サイズで確保できる"
-      - "セット品より1本単位で買い足しやすい"
-      - "泡で出るため小さな子どもでも扱いやすい"
-    cons:
-      - "重量があり詰め替え時に扱いにくい"
-      - "使い切るまでに時間がかかる家庭では保管場所が必要"
-    recommendedFor: "ビオレuの泡タイプを大容量で使い続けたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvoan.3rdw6634.g00tvoan.3rdw7deb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-relight%2F002001-4901301416780blk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-relight%2Fi%2F10009787%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-relight/cabinet/thum1/imgrc0098651122.jpg?_ex=128x128"
-  - rank: 6
     name: "キレイキレイ 薬用液体ハンドソープ 詰替用 800mL"
     brand: "ライオン（キレイキレイ）"
     price: 685
@@ -139,12 +117,34 @@ products:
     recommendedFor: "液体タイプのキレイキレイを普段使いのサイズで買いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4903301282228%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10880521%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/228/4903301282228.jpg?_ex=128x128"
+  - rank: 6
+    name: "ビオレu 泡ハンドソープ 業務用 4L つめかえ用"
+    brand: "花王（ビオレu）"
+    price: 3430
+    capacity: "4L"
+    pricePerUnit: "約0.86円/mL"
+    rating: 4.89
+    reviewCount: 35
+    features:
+      - "業務用サイズの泡ハンドソープ詰め替え"
+      - "弱酸性で手肌への負担に配慮した処方"
+      - "1本で長く使えるボトル形状"
+    pros:
+      - "ビオレuの泡タイプを最大サイズで確保できる"
+      - "セット品より1本単位で買い足しやすい"
+      - "泡で出るため小さな子どもでも扱いやすい"
+    cons:
+      - "重量があり詰め替え時に扱いにくい"
+      - "使い切るまでに時間がかかる家庭では保管場所が必要"
+    recommendedFor: "ビオレuの泡タイプを大容量で使い続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvoan.3rdw6634.g00tvoan.3rdw7deb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-relight%2F002001-4901301416780blk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-relight%2Fi%2F10009787%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-relight/cabinet/thum1/imgrc0098651122.jpg?_ex=128x128"
   - rank: 7
     name: "キレイキレイ 薬用泡ハンドソープ 詰替用"
     brand: "ライオン（キレイキレイ）"
     price: 4164
     capacity: "4800ml"
-    pricePerUnit: "約0.87円/ml"
+    pricePerUnit: "約0.87円/mL"
     rating: 4.71
     reviewCount: 422
     features:
@@ -166,7 +166,7 @@ products:
     brand: "ライオン（キレイキレイ）"
     price: 475
     capacity: "450ml"
-    pricePerUnit: "約1.1円/ml"
+    pricePerUnit: "約1.1円/mL"
     rating: 4.79
     reviewCount: 92
     features:
@@ -183,6 +183,17 @@ products:
     recommendedFor: "ストックを増やさず必要なときに買い足したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001223385714%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10057813%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/862/4903301176862.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/9836705/"
+        matchStatus: "pending"
+        updatedAt: "2026-08-31"
+        price: 400
+        rating: 4.5
+        reviewCount: 127
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_9836705"
+        available: true
 tags:
   - "ハンドソープ"
   - "キレイキレイ"

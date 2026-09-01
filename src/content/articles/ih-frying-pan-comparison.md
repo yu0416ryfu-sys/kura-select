@@ -51,6 +51,17 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4hdn.3rdw6bb7.g00u4hdn.3rdw753a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcookware-carote%2Fj02401%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcookware-carote%2Fi%2F10000023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cookware-carote/cabinet/12110183/12820150/0.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/wkj6918/"
+        matchStatus: "pending"
+        updatedAt: "2026-08-31"
+        price: 6180
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_wkj6918"
+        available: true
   - rank: 3
     name: "アイリスオーヤマ ナチュかるフライパン IH対応 26cm"
     brand: "アイリスオーヤマ"

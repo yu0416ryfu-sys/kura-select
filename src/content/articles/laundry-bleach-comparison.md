@@ -273,13 +273,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1156.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fipstyle%2F12003.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-24"
-        price: 2950
-        rating: 4.57
-        reviewCount: 37
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1156"
+        updatedAt: "2026-09-01"
+        price: 3520
+        rating: 5
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ipstyle_12003"
         available: true
   - rank: 10
     name: "パックス 酸素系漂白剤 詰替用 500g"

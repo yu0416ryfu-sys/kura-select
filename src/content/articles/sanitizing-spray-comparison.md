@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4901609016491.html"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ax59783/"
         matchStatus: "pending"
-        updatedAt: "2026-08-08"
-        price: 1240
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4901609016491"
+        updatedAt: "2026-09-01"
+        price: 1200
+        rating: 4.74
+        reviewCount: 65
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ax59783"
         available: true
   - rank: 2
     name: "フマキラー キッチン用 アルコール除菌スプレー つめかえ用【フマキラー アルコー"
@@ -66,8 +66,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10130857.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-08"
-        price: 498
+        updatedAt: "2026-09-01"
+        price: 445
         rating: 4.67
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10130857"

@@ -64,13 +64,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fec-try%2F4901670103113.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackage-marche%2F51849.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-24"
-        price: 550
-        rating: 4.91
-        reviewCount: 11
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ec-try_4901670103113"
+        updatedAt: "2026-08-31"
+        price: 9440
+        rating: 5
+        reviewCount: 14
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_51849"
         available: true
   - rank: 3
     name: "白クッキングシート 33cm×30m"
@@ -186,8 +186,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujinamisquare%2F100020900.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-19"
+        matchStatus: "matched"
+        updatedAt: "2026-08-31"
         price: 4950
         rating: 0
         reviewCount: 0

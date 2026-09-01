@@ -33,8 +33,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987072094686-3.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-16"
+        matchStatus: "matched"
+        updatedAt: "2026-09-01"
         price: 5577
         rating: 0
         reviewCount: 0
@@ -65,13 +65,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10126018.html"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/x808238/"
         matchStatus: "pending"
-        updatedAt: "2026-08-16"
-        price: 798
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10126018"
+        updatedAt: "2026-09-01"
+        price: 1773
+        rating: 4.64
+        reviewCount: 39
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_x808238"
         available: true
   - rank: 3
     name: "無香空間 本体 315g"
@@ -132,8 +132,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4901070119141.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-08"
+        matchStatus: "matched"
+        updatedAt: "2026-09-01"
         price: 383
         rating: 0
         reviewCount: 0

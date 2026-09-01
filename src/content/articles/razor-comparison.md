@@ -34,8 +34,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57020103-250.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 9500
+        updatedAt: "2026-09-01"
+        price: 11000
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_57020103-250"
@@ -67,8 +67,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57010103-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 720
+        updatedAt: "2026-09-01"
+        price: 760
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_57010103-16"
@@ -175,13 +175,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwansa-kun-shop%2Fgeneral-shaver016.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgrowrichjapan%2F4891228309626-1.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
-        price: 3526
-        rating: 4.85
-        reviewCount: 72
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wansa-kun-shop_general-shaver016"
+        updatedAt: "2026-09-01"
+        price: 3724
+        rating: 4.72
+        reviewCount: 57
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/growrichjapan_4891228309626-1"
         available: true
   - rank: 7
     name: "マッハシンスリー ターボ 替刃 8コ入り"
@@ -210,7 +210,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430688635.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-01"
         price: 2351
         rating: 4.75
         reviewCount: 12
@@ -243,7 +243,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Framonu%2F230522-8002.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-01"
         price: 3480
         rating: 4.49
         reviewCount: 39
@@ -274,13 +274,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkarimerobox%2F4987176033338-1.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-aozora-shop%2F250929-005.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
-        price: 1290
-        rating: 5
-        reviewCount: 3
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/karimerobox_4987176033338-1"
+        updatedAt: "2026-09-01"
+        price: 1300
+        rating: 4.88
+        reviewCount: 8
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/life-aozora-shop_250929-005"
         available: true
 tags:
   - "T字カミソリ おすすめ"

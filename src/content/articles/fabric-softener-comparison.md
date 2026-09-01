@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301423450.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301423443.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-19"
-        price: 1387
+        updatedAt: "2026-08-31"
+        price: 1453
         rating: 5
         reviewCount: 5
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301423450"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301423443"
         available: true
   - rank: 2
     name: "ライオン ソフラン アロマリッチ 業務用 4L"
@@ -99,12 +99,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9590768.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
+        updatedAt: "2026-08-31"
         price: 6580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9590768"
         available: true
         rating: 4.73
-        reviewCount: 232
+        reviewCount: 233
   - rank: 4
     name: "メキシコダウニー アロマフローラル 2.8L"
     brand: "Downy"
@@ -182,6 +182,17 @@ products:
     recommendedFor: "赤ちゃんのいる家庭・無添加志向で選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987176184580%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10115690%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202408_5/4987176184580.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987176184580.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-31"
+        price: 1281
+        rating: 4.96
+        reviewCount: 26
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987176184580"
+        available: true
   - rank: 7
     name: "ファーファ フリーアンド 濃縮柔軟剤 無香料 エコパック"
     brand: "NSファーファ"
@@ -209,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-08-31"
         price: 1160
         rating: 4.8
         reviewCount: 5

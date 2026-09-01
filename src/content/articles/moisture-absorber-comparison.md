@@ -28,6 +28,17 @@ products:
     recommendedFor: "押し入れ・クローゼット・納戸など湿気の多い広い収納スペースに"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F4904637999866set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10017235%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_okamoto1/4904637999804set.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/awk4587/"
+        matchStatus: "pending"
+        updatedAt: "2026-09-01"
+        price: 3345
+        rating: 5
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_awk4587"
+        available: true
   - rank: 2
     name: "ドライペットスキット 420ml×3個パック"
     brand: "エステー（ドライペット）"

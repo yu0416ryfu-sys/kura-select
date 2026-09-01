@@ -163,14 +163,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdism%2Fds-1572637.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F2649654.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
-        price: 14600
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/dism_ds-1572637"
+        updatedAt: "2026-09-01"
+        price: 3630
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_2649654"
         available: true
         rating: 0
-        reviewCount: 0
+        reviewCount: 1
   - rank: 7
     name: "b2c カーペットクリーナー"
     brand: "sarasa design"
