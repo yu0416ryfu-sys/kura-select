@@ -8,27 +8,27 @@ updatedAt: "2026-09-01"
 draft: false
 products:
   - rank: 1
-    name: "THE スポットエイド 56枚"
-    brand: "THE SPOTAID（THEスポットエイド）"
-    price: 770
-    capacity: "56枚"
+    name: "G9SKIN ゼロソルーション ニキビパッチ 108枚"
+    brand: "G9SKIN"
+    price: 1490
+    capacity: "108枚"
     pricePerUnit: "約14円/枚"
-    rating: 4.29
-    reviewCount: 814
+    rating: 4.73
+    reviewCount: 11
     features:
-      - "薬用CICA配合のハイドロコロイドニキビパッチ"
-      - "コメド（黒ニキビ）にも対応した設計"
-      - "武内製薬製造の敏感肌対応処方"
+      - "大容量108枚入りのハイドロコロイドパッチ"
+      - "肌なじみを意識した目立ちにくいタイプ"
+      - "国内発送で届くまでが早い"
     pros:
-      - "薬用CICA配合で成分面の訴求が明確"
-      - "56枚入りで継続使用しやすい枚数構成"
-      - "敏感肌を考慮した処方設計で幅広い肌質に対応しやすい"
+      - "枚数が多く1枚あたりの単価を抑えやすい"
+      - "日中でも貼ったまま過ごしやすい薄さ"
+      - "常備用としてまとめて置いておける"
     cons:
-      - "CICA成分配合のため、成分に反応しやすい肌の方は注意が必要"
-      - "一般医療機器区分との違いを事前に確認してから選ぶと安心"
-    recommendedFor: "薬用成分配合タイプを試したい方・コメドケアも意識した使用を考えている方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2mpn.3rdw6905.g00s2mpn.3rdw76e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvirginbeautyshop%2Fta-the-sp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvirginbeautyshop%2Fi%2F10005693%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/virginbeautyshop/cabinet/04226192/10028549/10028552/ta-the-sp.jpg?_ex=128x128"
+      - "サイズ展開が限られ大きめの箇所には重ねる必要がある"
+      - "レビュー件数がまだ少なく評価が安定していない"
+    recommendedFor: "毎日こまめに使うため枚数を優先したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s493n.3rdw6de5.g00s493n.3rdw7c07/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskingarden%2F10005759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskingarden%2Fi%2F10010234%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/skingarden/cabinet/04401049/g9skin/08446006/imgrc0131554880.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -326,7 +326,7 @@ faqs:
 
 **CICA配合タイプ（VT CICA / VT PRO CICA）** はツボクサエキス配合で韓国コスメ市場での認知度が高いブランドです。透明・極薄設計で昼間の使用を意識した仕上がりが特徴です。1個買いから5個セットまでサイズ展開が豊富で、まとめ買いによるコスパ改善がしやすいシリーズです。
 
-**薬用CICA配合タイプ（THE スポットエイド）** は武内製薬製造の敏感肌対応処方で、成分面での訴求が明確なタイプです。コメド（黒ニキビ）にも対応した設計で、シンプルなヒドロコロイドより成分にこだわりたい方に選ばれやすいです。
+**大容量タイプ（G9SKIN ゼロソルーション）** は1袋あたりの枚数が多く、毎日こまめに貼り替える使い方に向いています。目立ちにくい薄さで日中も使いやすく、常備用としてまとめて置いておきたい方に選ばれやすいです。
 
 **ベーシックタイプ（ゼロスポットパッチ）** はシンプルなヒドロコロイド処方で枚数コスパを優先したい方に向いています。単品・2袋セットの選択肢があり、継続使用時の補充がしやすい構成です。
 

@@ -7,27 +7,27 @@ articleType: "comparison"
 updatedAt: "2026-09-01"
 products:
   - rank: 1
-    name: "システマ ハグキプラス プレミアム 95g×4本セット"
+    name: "システマ ハグキプラスW ハミガキ 95g"
     brand: "ライオン（システマ）"
-    price: 1000
-    capacity: "95g×4本"
-    pricePerUnit: "約2.6円/g"
-    rating: 4.63
-    reviewCount: 57
+    price: 404
+    capacity: "95g"
+    pricePerUnit: "約4.3円/g"
+    rating: 4.75
+    reviewCount: 12
     features:
-      - "4種の薬用成分で歯周病・歯肉炎をケア"
-      - "フッ素1450ppm配合"
-      - "歯周病専門薬用ハブラシと組み合わせ推奨"
+      - "歯ぐきケア向けの薬用ハミガキ（医薬部外品）"
+      - "ホワイトニング処方で着色汚れのケアにも対応"
+      - "ドラッグストア定番の単品売りで買い足しやすい"
     pros:
-      - "歯周病・歯肉炎の予防に特化した処方"
-      - "ライオンの歯科専門ブランドで信頼性が高い"
-      - "歯茎ケアと虫歯予防を同時にできる"
+      - "1本あたりの価格が手ごろで続けやすい"
+      - "ライオンの歯科ブランドで入手性が高い"
+      - "歯ぐきケアと着色ケアを1本でまかなえる"
     cons:
-      - "1本あたりの単価はクリアクリーンより高め"
-      - "味が薬用感があり好みが分かれる"
-    recommendedFor: "歯周病・歯茎の腫れが気になる方・40代以上の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301326694-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12280697%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/d/202410/imagej115.jpg?_ex=128x128"
+      - "まとめ買い向けのセット構成ではない"
+      - "薬用らしい味わいで好みが分かれる"
+    recommendedFor: "歯ぐきのケアを1本から手ごろに始めたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10091291%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10037527%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/syohin91/10091291.jpg?_ex=128x128"
   - rank: 2
     name: "キラルンペースト 100g"
     brand: "RUKEN"
@@ -90,7 +90,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約22円/g"
     rating: 4.47
-    reviewCount: 2326
+    reviewCount: 2328
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"

@@ -4,42 +4,9 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-01"
 products:
   - rank: 1
-    name: "熊本県産 ヒノヒカリ"
-    brand: "こめたつ"
-    price: 10180
-    capacity: "20kg"
-    pricePerUnit: "約509円/kg"
-    rating: 4.59
-    reviewCount: 14939
-    features:
-      - "家庭用に使いやすい米商品"
-      - "まとめ買いやギフトに対応"
-      - "容量で比較しやすい"
-    pros:
-      - "日常の主食として使いやすい"
-      - "まとめ買いに向く"
-      - "用途に合わせて選べる"
-    cons:
-      - "精米時期や保存方法の確認が必要"
-      - "銘柄の好みは分かれる"
-    recommendedFor: "お米を容量と用途で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rxarn.3rdw6fdf.g00rxarn.3rdw7758/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuchigami%2F10000028%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuchigami%2Fi%2F10000028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/rakurip/kome/hino-saisyu-20.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffuchigami%2Fhino-kp30.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
-        price: 9340
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fuchigami_hino-kp30"
-        available: true
-        rating: 4.59
-        reviewCount: 120
-  - rank: 2
     name: "国内産 農家直米 白米"
     brand: "安齋商店"
     price: 5180
@@ -48,17 +15,17 @@ products:
     rating: 4.39
     reviewCount: 16099
     features:
-      - "家庭用に使いやすい米商品"
-      - "まとめ買いやギフトに対応"
-      - "容量で比較しやすい"
+      - "研がずに炊ける無洗米タイプ"
+      - "5kg×2袋に小分けされていて保管しやすい"
+      - "三重県産コシヒカリの単一銘柄"
     pros:
-      - "日常の主食として使いやすい"
-      - "まとめ買いに向く"
-      - "用途に合わせて選べる"
+      - "水を節約でき毎日の炊飯の手間が減る"
+      - "小分け包装で開封後も鮮度を保ちやすい"
+      - "レビュー件数が多く味の評価を確認しやすい"
     cons:
-      - "精米時期や保存方法の確認が必要"
-      - "銘柄の好みは分かれる"
-    recommendedFor: "お米を容量と用途で比較したい方"
+      - "無洗米は通常精米より価格がやや高め"
+      - "産年の切り替え時期は在庫が変動しやすい"
+    recommendedFor: "研ぐ手間を省きたい方・銘柄を決めて買いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qemen.3rdw6bea.g00qemen.3rdw7dff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanzai-rice%2Fnouka10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanzai-rice%2Fi%2F10000181%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anzai-rice/cabinet/02207291/02207319/r7san-n10.jpg?_ex=128x128"
     offers:
@@ -72,6 +39,39 @@ products:
         available: true
         rating: 4.18
         reviewCount: 1778
+  - rank: 2
+    name: "令和7年産 無洗米 三重県産コシヒカリ 10kg"
+    brand: "ハーベストシーズン"
+    price: 6099
+    capacity: "10kg"
+    pricePerUnit: "約610円/kg"
+    rating: 4.61
+    reviewCount: 4527
+    features:
+      - "家庭用に使いやすい米商品"
+      - "まとめ買いやギフトに対応"
+      - "容量で比較しやすい"
+    pros:
+      - "日常の主食として使いやすい"
+      - "まとめ買いに向く"
+      - "用途に合わせて選べる"
+    cons:
+      - "精米時期や保存方法の確認が必要"
+      - "銘柄の好みは分かれる"
+    recommendedFor: "お米を容量と用途で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q4ksn.3rdw606a.g00q4ksn.3rdw7324/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhseason%2Fmnek005-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhseason%2Fi%2F10000078%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hseason/cabinet/00208353/04331240/mumiekoshi10k2026.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffuchigami%2Fhino-kp30.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-01"
+        price: 9340
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fuchigami_hino-kp30"
+        available: true
+        rating: 4.59
+        reviewCount: 120
   - rank: 3
     name: "無洗米 農薬節減米 岩手県産ひとめぼれ 10kg"
     brand: "ヤマトライス"
@@ -255,7 +255,7 @@ products:
     capacity: "18kg〜20kg"
     pricePerUnit: "0円/kg"
     rating: 4.74
-    reviewCount: 45816
+    reviewCount: 45818
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
