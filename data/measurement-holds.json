@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31",
+  "updatedAt": "2026-09-02",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。人間・AI 双方の唯一の正はメモリ project_measurement_holds だが、",
     "機械判定（scripts/check-internal-links.mjs など）はこのファイルを読む。両者は必ず同時に更新する。",
@@ -10,39 +10,20 @@
   ],
   "holds": [
     {
-      "slug": "laundry-bleach-comparison",
-      "releaseDate": "2026-09-02",
-      "releaseLabel": "2026-09-01",
-      "targetType": "article",
-      "startedAt": "2026-08-18",
-      "measures": ["表示/日", "順位"],
-      "actions": ["本文加筆（定型H2撤去）"],
-      "simultaneous": false,
-      "note": "08-15 に商品是正が❌失敗と判定済みの記事。クリックは 22→7 に落ちているため実数判定はしない",
-      "source": "project_adsense_202608"
-    },
-    {
-      "slug": null,
-      "releaseDate": "2026-09-02",
-      "releaseLabel": "2026-09-01",
-      "targetType": "component",
-      "target": "src/layouts/ArticleLayout.astro（著者バイライン）",
-      "startedAt": "2026-08-18",
-      "measuredTargets": [],
-      "measures": [],
-      "actions": ["著者バイライン＋アバター追加", "HTMLサイトマップ新設と Footer リンク"],
-      "simultaneous": false,
-      "note": "審査対策のテンプレ変更で順位施策ではないため測定指標を置いていない。記事 slug は凍結しない（機械判定の対象外）。判定時は起点 08-18 を併記する",
-      "source": "project_adsense_202608"
-    },
-    {
       "slug": "deodorizing-bag-comparison",
       "releaseDate": "2026-09-04",
       "releaseLabel": "2026-09-03",
       "targetType": "article",
       "startedAt": "2026-08-20",
-      "measures": ["表示/日", "クロール頻度"],
-      "actions": ["本文全面改稿", "被リンク 0→4本", "商品構成の是正"],
+      "measures": [
+        "表示/日",
+        "クロール頻度"
+      ],
+      "actions": [
+        "本文全面改稿",
+        "被リンク 0→4本",
+        "商品構成の是正"
+      ],
       "simultaneous": true,
       "note": "未離陸の是正。3施策同時のため分離不能。クリック実数では判定しない",
       "source": "project_new_articles_202607"
@@ -65,7 +46,9 @@
       "releaseLabel": "2026-09-08",
       "targetType": "article",
       "startedAt": "2026-08-26",
-      "measures": ["前窓クリーン条件（施策ではない）"],
+      "measures": [
+        "前窓クリーン条件（施策ではない）"
+      ],
       "actions": [],
       "simultaneous": false,
       "note": "コホート第1弾の候補プール。08-26〜09-08 が前窓で、変更が入った記事は第1弾から外す。R3（判定不能記事の凍結除外）の対象外",
@@ -77,8 +60,14 @@
       "releaseLabel": "2026-09-09",
       "targetType": "article",
       "startedAt": "2026-08-26",
-      "measures": ["表示/日", "順位"],
-      "actions": ["本文加筆（定型H2撤去）", "toilet-paper-comparison への内部リンク1本"],
+      "measures": [
+        "表示/日",
+        "順位"
+      ],
+      "actions": [
+        "本文加筆（定型H2撤去）",
+        "toilet-paper-comparison への内部リンク1本"
+      ],
       "simultaneous": false,
       "note": "AdSense是正 Phase B-1 の最後の1本。12日で85表示・5クリックと母数が小さくクリック実数では判定しない",
       "source": "project_adsense_202608"
@@ -89,8 +78,18 @@
       "releaseLabel": "2026-09-12",
       "targetType": "article",
       "startedAt": "2026-08-22",
-      "measures": ["表示/日", "クロール頻度", "インデックス"],
-      "actions": ["商品10件を全入れ替え", "検索ルール追加", "本文全面改稿（独自画像6枚）", "被リンク 0→2本", "title/description 改稿"],
+      "measures": [
+        "表示/日",
+        "クロール頻度",
+        "インデックス"
+      ],
+      "actions": [
+        "商品10件を全入れ替え",
+        "検索ルール追加",
+        "本文全面改稿（独自画像6枚）",
+        "被リンク 0→2本",
+        "title/description 改稿"
+      ],
       "simultaneous": true,
       "note": "4施策同時のため分離不能。2026-08-27 にバグ修正（区分C・旧セクション残存と literal ** の解消）を実施済みで、判定時はこの起点日も併記する",
       "source": "project_adsense_202608"
@@ -101,8 +100,14 @@
       "releaseLabel": "2026-09-22",
       "targetType": "article",
       "startedAt": "2026-08-25",
-      "measures": ["インデックス", "順位", "A8成果件数"],
-      "actions": ["新規公開（宅配水4社・articleType: service）"],
+      "measures": [
+        "インデックス",
+        "順位",
+        "A8成果件数"
+      ],
+      "actions": [
+        "新規公開（宅配水4社・articleType: service）"
+      ],
       "simultaneous": false,
       "note": "公開+4週は title / description / 本文 / services[] を触らない。v1 との相互リンク追加は 09-22 以降の別施策",
       "source": "project_high_ticket_asp_202608"
