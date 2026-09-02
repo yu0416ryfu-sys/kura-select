@@ -1,10 +1,10 @@
 ---
-title: "トイレ掃除シート コスパ比較【2026年版】流せるタイプ8選"
+title: "トイレ掃除シート コスパ比較【2026年版】流せるタイプ10選"
 description: "トイレ掃除シートを1枚あたりのコストで比較。流せるタイプや厚手タイプの違い、用途に合った選び方を解説します。"
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-02"
 draft: false
 products:
   - rank: 1
@@ -129,6 +129,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2F4573177599661-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10002537%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/c/c01292_6.jpg?_ex=128x128"
   - rank: 5
+    name: "激落ちくん 流せる除菌トイレクリーナー 大判"
+    brand: "激落ちくん（レック）"
+    price: 238
+    capacity: "10枚×2個"
+    pricePerUnit: "約12円/枚"
+    rating: 4.67
+    reviewCount: 3
+    features:
+      - "トイレに流せる大判タイプの掃除シート"
+      - "除菌をうたうウェットシート"
+      - "少量パックの2個組"
+    pros:
+      - "大判で広い面をひと拭きしやすい"
+      - "少量なので使い切りやすく試しやすい"
+      - "価格帯が手頃で気軽に常備できる"
+    cons:
+      - "内容量が少なく頻繁に掃除する家庭では減りが早い"
+      - "厚みは上位品ほどではないため汚れによっては重ね拭きが必要"
+    recommendedFor: "まずは少量から流せる掃除シートを試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2jfn.3rdw67d5.g00s2jfn.3rdw75cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcolorfulbox%2F310414%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcolorfulbox%2Fi%2F10096152%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/colorfulbox/cabinet/maker_lec8/310414.jpg?_ex=128x128"
+  - rank: 6
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 20枚"
     brand: "花王（クイックル）"
     price: 438
@@ -161,7 +183,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_9q0372"
         available: true
-  - rank: 6
+  - rank: 7
     name: "トイレクイックル つめかえ用 10枚×12パック"
     brand: "花王（クイックル）"
     price: 2600
@@ -194,7 +216,29 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_4901301510808"
         available: true
-  - rank: 7
+  - rank: 8
+    name: "トイレクイックル 詰め替え ジャンボパック"
+    brand: "トイレクイックル（花王）"
+    price: 6253
+    capacity: "20枚×12個"
+    pricePerUnit: "約26円/枚"
+    rating: 4.76
+    reviewCount: 358
+    features:
+      - "トイレに流せる厚手の掃除シート"
+      - "本体ケースに詰め替えて使うタイプ"
+      - "ジャンボパックのまとめ販売"
+    pros:
+      - "1枚で便座から床まで拭き切れる厚み"
+      - "詰め替えなのでケースを買い直さずに済む"
+      - "まとめ買いで買い足しの手間が減る"
+    cons:
+      - "まとめ販売のため保管スペースが必要"
+      - "乾燥を防ぐためフタの閉め忘れに注意がいる"
+    recommendedFor: "トイレ掃除シートを常備していてストックをまとめたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe390620h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10315997%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/566/4901301308566.jpg?_ex=128x128"
+  - rank: 9
     name: "エリエール ミチガエル トイレクリーナー 本体 10枚"
     brand: "大王製紙（エリエール）"
     price: 301
@@ -227,7 +271,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-30881"
         available: true
-  - rank: 8
+  - rank: 10
     name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×3個"
     brand: "花王（クイックル）"
     price: 1560

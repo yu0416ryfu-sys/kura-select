@@ -1,13 +1,35 @@
 ---
-title: "パンツ型おむつ Mサイズ おすすめ3選【2026年】1枚単価で比較"
+title: "パンツ型おむつ Mサイズ おすすめ7選【2026年】1枚単価で比較"
 description: "パンツ型おむつのMサイズを1枚あたりの価格で比較します。"
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-08-24"
+updatedAt: "2026-09-02"
 draft: false
 products:
   - rank: 1
+    name: "メリーズ パンツ Mサイズ 大容量セット"
+    brand: "メリーズ（花王）"
+    price: 10795
+    capacity: "186枚×2個（6〜11kg）"
+    pricePerUnit: "約29円/枚"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "Mサイズの大容量まとめ買いセット"
+      - "素肌さらさらエアスルー設計"
+      - "小分け袋の詰め合わせ構成"
+    pros:
+      - "1枚あたりの負担を抑えやすい構成"
+      - "買い足しの頻度を大きく減らせる"
+      - "定番ブランドなので子どもが慣れている"
+    cons:
+      - "保管スペースを大きく取る"
+      - "サイズアップが近いと使い切れないことがある"
+    recommendedFor: "Mサイズを長く使う見込みでまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4901301443502-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10036245%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/11147956/11147958/4901301443502-2set.jpg?_ex=128x128"
+  - rank: 2
     name: "メリーズ パンツ 素肌さらさらエアスルー Mサイズ"
     brand: "花王（メリーズ）"
     price: 5597
@@ -40,7 +62,29 @@ products:
         reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/reonstyle_a4901301422057"
         available: true
-  - rank: 2
+  - rank: 3
+    name: "メリーズパンツ エアスルー Mサイズ"
+    brand: "メリーズ（花王）"
+    price: 4779
+    capacity: "52枚×3個（6〜11kg）"
+    pricePerUnit: "約31円/枚"
+    rating: 4.9
+    reviewCount: 10
+    features:
+      - "通気性を重視した素肌さらさらエアスルー設計"
+      - "Mサイズのまとめ買い構成"
+      - "スーパー系ショップの取り扱い"
+    pros:
+      - "むれが気になる時期に選びやすい"
+      - "定番ブランドで品質が安定している"
+      - "価格と品質のバランスを取りやすい"
+    cons:
+      - "上位ラインより肌あたりはあっさりしている"
+      - "保管スペースをまとめて取る"
+    recommendedFor: "通気性重視でMサイズをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.3rdw6eed.g00s0vmn.3rdw7144/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4901301418579-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10147305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/09476807/4901301418579.jpg?_ex=128x128"
+  - rank: 4
     name: "ムーニーマン パンツ Mサイズ"
     brand: "ユニ・チャーム"
     price: 1647
@@ -62,7 +106,29 @@ products:
     recommendedFor: "テープ型からパンツ型に移りたてのMサイズ帯のお子さん"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4903111137329%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10539508%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0083/4903111137329_1.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 5
+    name: "メリーズ パンツ Mサイズ 大容量パック"
+    brand: "メリーズ（花王）"
+    price: 5898
+    capacity: "180枚（6〜11kg）"
+    pricePerUnit: "約33円/枚"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "倉庫型店舗向けの大容量パック"
+      - "素肌さらさらエアスルー設計"
+      - "送料込みで届く構成"
+    pros:
+      - "1枚あたりの負担を抑えやすい"
+      - "会員店舗に行かずに大容量を確保できる"
+      - "定番ブランドで品質が安定している"
+    cons:
+      - "保管スペースを大きく取る"
+      - "一部地域は送料条件が異なる"
+    recommendedFor: "倉庫型店舗の大容量パックを通販で確保したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F10002250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10002250%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/151076402495518.jpg?_ex=128x128"
+  - rank: 6
     name: "メリーズ パンツ ファーストプレミアム Mサイズ"
     brand: "花王（メリーズ）"
     price: 1673
@@ -95,6 +161,28 @@ products:
         reviewCount: 16
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301396549"
         available: true
+  - rank: 7
+    name: "メリーズ ずっと肌さらエアスルー Mサイズ ケースセット"
+    brand: "メリーズ（花王）"
+    price: 8200
+    capacity: "108枚×2（6〜11kg）"
+    pricePerUnit: "約38円/枚"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "肌さらさら感を重視したエアスルー設計"
+      - "ケース単位のまとめ販売"
+      - "Mサイズ対応"
+    pros:
+      - "ケース買いで買い足しの頻度が下がる"
+      - "定番ブランドで品質が安定している"
+      - "むれが気になる時期に選びやすい"
+    cons:
+      - "ケース販売のため保管スペースを大きく取る"
+      - "サイズアウトが近いと余りやすい"
+    recommendedFor: "Mサイズをケース単位で確保したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6xln.3rdw632a.g00u6xln.3rdw7ef6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjandcbaby%2F4901301402394-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjandcbaby%2Fi%2F10000347%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jandcbaby/cabinet/08963043/imgrc0113226111.jpg?_ex=128x128"
 tags:
   - "パンツ型おむつ おすすめ"
   - "パンツ型おむつ コスパ"

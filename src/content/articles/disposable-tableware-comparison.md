@@ -1,10 +1,10 @@
 ---
-title: "使い捨て食器おすすめ9選【2026年】紙コップ・紙皿をコスパ比較"
-description: "紙コップ・紙皿など使い捨て食器のおすすめ9選を1個・1枚あたりの単価で徹底比較。業務用大容量からおしゃれなパーティー向けまで、容量・サイズ・用途で選ぶポイントを解説します。"
+title: "使い捨て食器おすすめ10選【2026年】紙コップ・紙皿をコスパ比較"
+description: "紙コップ・紙皿など使い捨て食器のおすすめ10選を1個・1枚あたりの単価で徹底比較。業務用大容量からおしゃれなパーティー向けまで、容量・サイズ・用途で選ぶポイントを解説します。"
 category: "disposable-tableware"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-09-02"
 draft: false
 products:
   - rank: 1
@@ -162,6 +162,28 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nuts_wa-dm-011"
         available: true
   - rank: 6
+    name: "WASARA 紙の器 ボウル セット"
+    brand: "WASARA"
+    price: 748
+    capacity: "6個"
+    pricePerUnit: "約125円/個"
+    rating: 4.8
+    reviewCount: 5
+    features:
+      - "竹やバガスなど植物由来の素材を使った紙の器"
+      - "手に持ったときの質感を意識したデザイン"
+      - "ボウル形状で汁気のある料理に対応"
+    pros:
+      - "来客時やホームパーティーで見栄えがする"
+      - "使い捨てなので片付けの手間が減る"
+      - "脚つきの形状で持ちやすい"
+    cons:
+      - "一般的な紙皿より価格帯が高い"
+      - "電子レンジや直火には使えない"
+    recommendedFor: "来客用に見栄えのする使い捨て食器を用意したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pajin.3rdw665b.g00pajin.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnuts%2F1032799%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnuts%2Fi%2F10003124%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nuts/cabinet/nuts_gazo/item_kitchen/bowl.jpg?_ex=128x128"
+  - rank: 7
     name: "ワサラ 角皿 特大 紙の器 6個セット"
     brand: "WASARA（ワサラ）"
     price: 1133
@@ -194,7 +216,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nuts_wa-dm-014"
         available: true
-  - rank: 7
+  - rank: 8
     name: "フジナップ ペーパープレート 13cm 業務用 2400枚"
     brand: "フジナップ"
     price: 10626
@@ -227,7 +249,7 @@ products:
         reviewCount: 7
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_215400"
         available: true
-  - rank: 8
+  - rank: 9
     name: "フジナップ ペーパープレート 15cm 業務用 2400枚"
     brand: "フジナップ"
     price: 11539
@@ -260,12 +282,11 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_215500"
         available: true
-  - rank: 9
+  - rank: 10
     name: "ワサラ ボウル 500ml 紙の器 6枚入"
     brand: "WASARA（ワサラ）"
     price: 748
     capacity: "6枚"
-    pricePerUnit: "約125円/枚"
     rating: 4.64
     reviewCount: 14
     features:
@@ -282,6 +303,7 @@ products:
     recommendedFor: "見た目にこだわりたい方・パーティーや来客用に使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qu79n.3rdw63c4.g00qu79n.3rdw7eab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsourire-f%2Fwasara-bowl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsourire-f%2Fi%2F10000412%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sourire-f/cabinet/wasara/bowl_thum01a.jpg?_ex=128x128"
+    priceMax: 10560
 tags:
   - "使い捨て食器 おすすめ"
   - "紙コップ コスパ"

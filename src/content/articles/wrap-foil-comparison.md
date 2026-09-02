@@ -1,10 +1,10 @@
 ---
 title: "ラップ・アルミホイル コスパ比較【2026年版】クレラップ・サランラップ徹底解説"
-description: "ラップ・アルミホイルを1mあたりの価格で徹底比較。クレラップ・サランラップ・アルミホイルなどおすすめ9選を紹介。密着力・電子レンジ対応・コストで選ぶ決定版。"
+description: "ラップ・アルミホイルを1mあたりの価格で徹底比較。クレラップ・サランラップ・アルミホイルなどおすすめ10選を紹介。密着力・電子レンジ対応・コストで選ぶ決定版。"
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-02"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"
@@ -236,6 +236,28 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shiningone23_p09f1190c71"
         available: true
   - rank: 8
+    name: "サランラップ 22cm 3本セット"
+    brand: "サランラップ（旭化成）"
+    price: 1881
+    capacity: "22cm×50m×3本"
+    pricePerUnit: "約13円/m"
+    rating: 4.78
+    reviewCount: 80
+    features:
+      - "食品用ラップフィルムの定番ブランド"
+      - "中皿サイズに使いやすい幅"
+      - "3本組のまとめ販売"
+    pros:
+      - "切れ味が安定していて引き出しやすい"
+      - "電子レンジでの加熱に対応している"
+      - "まとめ買いで買い足しの頻度を下げられる"
+    cons:
+      - "安価なポリエチレン系ラップより価格帯が高い"
+      - "大皿には幅が足りない場面がある"
+    recommendedFor: "よく使う幅のラップをまとめて確保したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F73980%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10941575%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/980/73980.jpg?_ex=128x128"
+  - rank: 9
     name: "サランラップ 家庭用 30cm"
     brand: "旭化成（サランラップ）"
     price: 298
@@ -268,7 +290,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901670110210-73-30001391"
         available: true
-  - rank: 9
+  - rank: 10
     name: "【ケース販売】サランラップ 業務用 BOXタイプ 30cm×"
     brand: "旭化成（サランラップ）"
     price: 14190

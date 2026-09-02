@@ -4,7 +4,7 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-02"
 products:
   - rank: 1
     name: "LOGOS 倍速凍結 氷点下パックL"
@@ -51,6 +51,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzvnn.3rdw6032.g00qzvnn.3rdw7eed/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-lalala%2Ficerox%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-lalala%2Fi%2F10437379%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-lalala/cabinet/syohin/astage/icerox.jpg?_ex=128x128"
   - rank: 3
+    name: "ロゴス 倍速凍結 氷点下パックXL セット"
+    brand: "ロゴス（LOGOS）"
+    price: 5610
+    capacity: "3個"
+    pricePerUnit: "約1870円/個"
+    rating: 4.71
+    reviewCount: 52
+    features:
+      - "氷点下を保つ強力タイプの保冷剤"
+      - "短時間で凍結できる設計をうたうシリーズ"
+      - "XLサイズのまとめセット"
+    pros:
+      - "クーラーボックスの温度を長く低く保ちやすい"
+      - "キャンプや買い出しなど長時間の持ち運びに向く"
+      - "複数個あるので上下に挟む使い方ができる"
+    cons:
+      - "サイズが大きく冷凍庫の場所を取る"
+      - "再凍結に時間がかかるため連日の使用には向かない"
+    recommendedFor: "アウトドアや長距離の買い出しで保冷力を優先したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3jpn.3rdw6dfe.g00r3jpn.3rdw7ca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhimaraya%2F0000383605set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhimaraya%2Fi%2F10410213%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/himaraya/cabinet/0000383605/0000383605set_r1_01.jpg?_ex=128x128"
+  - rank: 4
     name: "クールインパック ハード 750g 保冷パック 保冷剤 日本製"
     brand: "クールインパック"
     price: 470
@@ -83,7 +105,7 @@ products:
         available: true
         rating: 5
         reviewCount: 3
-  - rank: 4
+  - rank: 5
     name: "保冷剤 ハードタイプ KS-4702"
     brand: "cococica"
     price: 176
@@ -116,7 +138,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 5
+  - rank: 6
     name: "LOGOS 倍速凍結 氷点下パック"
     brand: "LOGOS"
     price: 770
@@ -138,7 +160,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uv40n.3rdw6f46.g00uv40n.3rdw750c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogosshop%2Flgs94499%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogosshop%2Fi%2F10000621%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/logosshop/cabinet/spr/4/492823152846.jpg?_ex=128x128"
     priceMax: 5379
-  - rank: 6
+  - rank: 7
     name: "COOLER SHOCK ハードロング"
     brand: "COOLER SHOCK"
     price: 880
@@ -160,7 +182,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00svmtn.3rdw6312.g00svmtn.3rdw778e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmecu%2Fshock-hl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmecu%2Fi%2F10003501%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mecu/cabinet/photo/point/new01/shock-hl.jpg?_ex=128x128"
     priceMax: 1540
-  - rank: 7
+  - rank: 8
     name: "HUGEL 氷点下保冷剤 急速凍結タイプ Mサイズ"
     brand: "HUGEL"
     price: 880
@@ -182,7 +204,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pjh9n.3rdw6262.g00pjh9n.3rdw7cf0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funidy%2F107933%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funidy%2Fi%2F11161201%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unidy/cabinet/11071608/13015942/imgrc0114404094.jpg?_ex=128x128"
     priceMax: 1910
-  - rank: 8
+  - rank: 9
     name: "NISHIZARC ステンレス保冷剤"
     brand: "NISHIZARC"
     price: 2980
@@ -204,7 +226,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uocjn.3rdw694e.g00uocjn.3rdw7eaf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdecori%2Fy-342b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdecori%2Fi%2F10000491%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/decori/cabinet/12282578/imgrc0096993936.jpg?_ex=128x128"
     priceMax: 3280
-  - rank: 9
+  - rank: 10
     name: "FIELDOOR ノーザンクーラー アイスパック 2個組"
     brand: "FIELDOOR"
     price: 1100

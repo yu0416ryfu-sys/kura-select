@@ -4,7 +4,7 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-02"
 products:
   - rank: 1
     name: "ムーニー マシュマロ肌ごこち 新生児 テープ"
@@ -172,6 +172,28 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/netbaby_4903111123247"
         available: true
   - rank: 6
+    name: "パンパース はじめての肌へのいちばん テープ 新生児"
+    brand: "パンパース（P&G）"
+    price: 2420
+    capacity: "72枚（新生児サイズ・〜5kg）"
+    pricePerUnit: "約34円/枚"
+    rating: 4.68
+    reviewCount: 53
+    features:
+      - "新生児サイズのテープタイプ紙おむつ"
+      - "肌へのやわらかさを重視した上位ライン"
+      - "おしっこサインで交換タイミングがわかる"
+    pros:
+      - "生まれてすぐの細い体にもフィットしやすい"
+      - "肌トラブルが気になる時期に選びやすい"
+      - "入手しやすい定番ブランドで買い足しに困らない"
+    cons:
+      - "同ブランドの標準ラインより価格帯が高め"
+      - "体重が増えると早めにサイズアップが必要になる"
+    recommendedFor: "新生児期の肌あたりを最優先したい方・出産準備を整えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4987176203229%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10018972%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/229/4987176203229.jpg?_ex=128x128"
+  - rank: 7
     name: "パンパース はじめての肌へのいちばん テープ新生児 144枚"
     brand: "P&G（パンパース）"
     price: 4969
@@ -204,7 +226,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos02652"
         available: true
-  - rank: 7
+  - rank: 8
     name: "パンパース はじめての肌へのいちばん テープ3S"
     brand: "P&G（パンパース）"
     price: 8506
@@ -226,7 +248,7 @@ products:
     recommendedFor: "出生体重が小さめの赤ちゃんに備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sargn.3rdw6a7b.g00sargn.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyrepi-2%2F4987176238498-6r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmyrepi-2%2Fi%2F10176330%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/myrepi-2/cabinet/ichi06/4987176238498-6.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "バンボネイチャー ドリーム テープ/パンツ ニューボーン"
     brand: "BAMBO Nature"
     price: 3190
@@ -248,7 +270,7 @@ products:
     recommendedFor: "素材感やプレミアム感を重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcnfn.3rdw6f9c.g00qcnfn.3rdw70c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu684137%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10037852%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/natural-living/cabinet/spr/1/1/118753296834.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 10
     name: "パンパース テープ新生児 144枚"
     brand: "P&G（パンパース）"
     price: 5500

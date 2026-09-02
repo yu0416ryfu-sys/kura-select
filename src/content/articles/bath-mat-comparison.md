@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-02"
 draft: false
 products:
   - rank: 1
@@ -175,6 +175,28 @@ products:
         rating: 4.68
         reviewCount: 53
   - rank: 6
+    name: "soil バスマット ライト 珪藻土"
+    brand: "soil（イスルギ）"
+    price: 9900
+    capacity: "1枚"
+    pricePerUnit: "約9900円/枚"
+    rating: 4.64
+    reviewCount: 5130
+    features:
+      - "珪藻土を板状に成形した速乾タイプのバスマット"
+      - "アスベスト不使用をうたう日本製の正規品"
+      - "薄手で軽量なライト仕様"
+    pros:
+      - "洗濯せずに立てかけて乾かせる"
+      - "踏んだ瞬間に水気を吸うので次の人が気持ちよく使える"
+      - "布マットのような生乾き臭が出にくい"
+    cons:
+      - "硬く割れやすいため落下や強い衝撃に弱い"
+      - "吸水が落ちたら紙やすりでの手入れが必要"
+    recommendedFor: "バスマットの洗濯回数を減らしたい方・脱衣所を清潔に保ちたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pmxdn.3rdw6b38.g00pmxdn.3rdw7247/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-goods%2Fbath_soil-bathmat-lt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-goods%2Fi%2F10009860%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-goods/cabinet/h_cart3/soil-bathmat-lt_th.jpg?_ex=128x128"
+  - rank: 7
     name: "バスマット マイクロファイバー"
     brand: "Inbloom"
     price: 980
@@ -198,13 +220,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r9znn.3rdw6e57.g00r9znn.3rdw7ba2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgossipstar%2Fbm1187%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgossipstar%2Fi%2F10011710%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gossipstar/cabinet/pop/bm1187-pop.jpg?_ex=128x128"
     priceMax: 2380
-  - rank: 7
+  - rank: 8
     name: "バスマット 速乾 洗える【1秒吸収】"
     brand: "Latuna"
     price: 1999
     capacity: "40×60cm / 50×80cm 1枚"
     rating: 4.64
-    reviewCount: 3282
+    reviewCount: 3283
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"
@@ -222,7 +244,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnrsn.3rdw6089.g00tnrsn.3rdw78e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flatuna%2F10000010-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flatuna%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/latuna/cabinet/items/bathmat/imgrc0161877803.jpg?_ex=128x128"
     priceMax: 5320
-  - rank: 8
+  - rank: 9
     name: "なのらぼ足快バスマット"
     brand: "なのらぼ"
     price: 7480
@@ -244,13 +266,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn4on.3rdw6e6d.g00qn4on.3rdw7c3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamayuu%2Fubs-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamayuu%2Fi%2F10001621%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamayuu/cabinet/01023319/bathgoods/10648094/ubs-1-thum01.jpg?_ex=128x128"
     priceMax: 29920
-  - rank: 9
+  - rank: 10
     name: "Mirx プレミアムバスマット 珪藻土 吸水2.5倍"
     brand: "Mirx"
     price: 2070
     capacity: "60×40cm / 70×50cm"
     rating: 4.42
-    reviewCount: 2661
+    reviewCount: 2662
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

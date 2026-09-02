@@ -4,7 +4,7 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-02"
 products:
   - rank: 1
     name: "グーンプラス 肌の贅沢 テープ BIGサイズ"
@@ -29,6 +29,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi7un.3rdw6c00.g00qi7un.3rdw7b0e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-leadonline%2F10134543%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-leadonline%2Fi%2F10204093%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-leadonline/cabinet/item10/lm59-7.jpg?_ex=128x128"
   - rank: 2
+    name: "グーン スーパーBIG テープ"
+    brand: "グーン（大王製紙）"
+    price: 1710
+    capacity: "28枚（Bigより大きいサイズ・15〜35kg）"
+    pricePerUnit: "約61円/枚"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "体格が大きくなった子ども向けのテープタイプ"
+      - "BIGサイズを超える体重帯に対応"
+      - "寝かせたまま交換できるテープ止め設計"
+    pros:
+      - "パンツ型では窮屈になった体型でも使える"
+      - "おむつ外れが遅い子の夜用として選びやすい"
+      - "単袋なのでサイズが合うか試しやすい"
+    cons:
+      - "取り扱い店舗が限られサイズ欠けが起きやすい"
+      - "まとめ買いパックより1枚あたりの負担が大きい"
+    recommendedFor: "BIGサイズでは小さくなってきた子のテープ型を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r8mvn.3rdw64c9.g00r8mvn.3rdw71c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F4902011745009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11307183%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r-kojima/cabinet/n0000000683/4902011745009_1.jpg?_ex=128x128"
+  - rank: 3
     name: "エリエール　グーン　スーパービッグ　テープ止めタイプ"
     brand: "大王製紙（グーン）"
     price: 6984
@@ -61,7 +83,29 @@ products:
         updatedAt: "2026-08-31"
         rating: 4
         reviewCount: 3
-  - rank: 3
+  - rank: 4
+    name: "グーン スーパーBIG テープ 3個セット"
+    brand: "グーン（大王製紙）"
+    price: 6884
+    capacity: "28枚×3（Bigより大きいサイズ・15〜35kg）"
+    pricePerUnit: "約82円/枚"
+    rating: 2.5
+    reviewCount: 2
+    features:
+      - "スーパーBIGテープタイプのまとめ買いセット"
+      - "ウエストまわりの対応幅が広い設計"
+      - "送料込みでまとめて届く構成"
+    pros:
+      - "買い足しの頻度を減らせる"
+      - "サイズが合うと分かってからのストック用に向く"
+      - "単袋より1枚あたりの負担を抑えやすい"
+    cons:
+      - "サイズアウトすると使い切れずに余る"
+      - "保管スペースをまとまって取る"
+    recommendedFor: "スーパーBIGサイズを継続利用していてストックしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902011745009-003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10136975%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4902011745009.jpg?_ex=128x128"
+  - rank: 5
     name: "ムーニーマン スーパービッグ 男の子"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1647
@@ -94,7 +138,7 @@ products:
         updatedAt: "2026-08-08"
         rating: 5
         reviewCount: 3
-  - rank: 4
+  - rank: 6
     name: "ムーニーマン スーパービッグ 女の子"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1647
@@ -127,7 +171,7 @@ products:
         updatedAt: "2026-08-08"
         rating: 0
         reviewCount: 2
-  - rank: 5
+  - rank: 7
     name: "グーンプラス テープ BIGサイズ"
     brand: "大王製紙（グーンプラス）"
     price: 1518

@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-02"
 products:
   - rank: 1
     name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚 旧パッケージ"
@@ -29,6 +29,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6xln.3rdw632a.g00u6xln.3rdw7ef6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjandcbaby%2Fkao-ts88%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjandcbaby%2Fi%2F10000078%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jandcbaby/cabinet/08963043/imgrc0111965819.jpg?_ex=128x128"
   - rank: 2
+    name: "ムーニー テープ Sサイズ"
+    brand: "ムーニー（ユニ・チャーム）"
+    price: 1757
+    capacity: "70枚（Sサイズ・4〜8kg）"
+    pricePerUnit: "約25円/枚"
+    rating: 4.17
+    reviewCount: 12
+    features:
+      - "Sサイズのテープタイプ紙おむつ"
+      - "おなかまわりにフィットする伸縮ギャザー"
+      - "おしっこサインつきで交換の目安がわかる"
+    pros:
+      - "単袋なので使い切れるか試しやすい"
+      - "寝かせたまま替えられるテープ型で新生児期からの継続に向く"
+      - "ドラッグストア系ショップで買い足しやすい"
+    cons:
+      - "まとめ買いパックに比べると1枚あたりの負担が大きい"
+      - "動きが活発になるとパンツ型への切り替えが必要になる"
+    recommendedFor: "Sサイズを少量から試したい方・テープ型を続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4903111138302%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10539510%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0083/4903111138302_1.jpg?_ex=128x128"
+  - rank: 3
     name: "ムーニー マシュマロ肌ごこち テープ Sサイズ 大容量"
     brand: "ユニ・チャーム（ムーニー）"
     price: 7084
@@ -61,7 +83,7 @@ products:
         available: true
         rating: 4.74
         reviewCount: 53
-  - rank: 3
+  - rank: 4
     name: "ムーニー マシュマロ肌ごこち モレ安心 テープ S 70枚"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1804
@@ -94,7 +116,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 4
+  - rank: 5
     name: "パンパース テープ Sサイズ 74枚×4袋"
     brand: "P&G（パンパース）"
     price: 8800
@@ -115,7 +137,7 @@ products:
       - "4袋での枚数が他社より少ない（74枚×4袋）"
     recommendedFor: "産院でパンパースを使っていた方・世界基準の品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7252901%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10193037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tasya108/imgrc0116993733.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/09483188/12470037/imgrc0138992127.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -127,14 +149,14 @@ products:
         available: true
         rating: 4.79
         reviewCount: 140
-  - rank: 5
+  - rank: 6
     name: "ムーニー 低刺激であんしん 紙おむつ テープ"
     brand: "ユニ・チャーム（ムーニーナチュラル）"
     price: 7158
     capacity: "54枚×4個セット"
     pricePerUnit: "約33円/枚"
     rating: 4.75
-    reviewCount: 502
+    reviewCount: 503
     features:
       - "低刺激処方で敏感肌向けに配慮"
       - "安心設計のテープタイプ"
@@ -160,7 +182,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 6
+  - rank: 7
     name: "パンパース はじめての肌へのいちばん テープ Sサイズ 132枚"
     brand: "P&G（パンパース）"
     price: 5699

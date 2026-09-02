@@ -1,16 +1,38 @@
 ---
-title: "パンツ型おむつ Lサイズ おすすめ5選【2026年】1枚単価で比較"
-description: "パンツ型おむつのLサイズおすすめ5選を1枚あたりの価格で比較。使用期間が長いLサイズのまとめ買いの考え方、保育園用の選び方、フィット調整のコツを解説します。"
+title: "パンツ型おむつ Lサイズ おすすめ7選【2026年】1枚単価で比較"
+description: "パンツ型おむつのLサイズおすすめ7選を1枚あたりの価格で比較。使用期間が長いLサイズのまとめ買いの考え方、保育園用の選び方、フィット調整のコツを解説します。"
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-09-02"
 draft: false
 products:
   - rank: 1
+    name: "メリーズ パンツ Lサイズ 大容量セット"
+    brand: "メリーズ（花王）"
+    price: 10795
+    capacity: "162枚×2個（9〜14kg）"
+    pricePerUnit: "約33円/枚"
+    rating: 4.71
+    reviewCount: 7
+    features:
+      - "通気性を重視した素肌さらさらエアスルー設計"
+      - "Lサイズのまとめ買いセット"
+      - "小分け袋の詰め合わせ構成"
+    pros:
+      - "1枚あたりの負担を抑えやすい構成"
+      - "定番ブランドで品質が安定している"
+      - "買い足しの頻度を大きく減らせる"
+    cons:
+      - "保管スペースをまとまって取る"
+      - "サイズアップが近いと使い切れないことがある"
+    recommendedFor: "Lサイズを長く使う見込みでまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4901301425942-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10035549%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/11147956/11928062/4901301443519-2rr.jpg?_ex=128x128"
+  - rank: 2
     name: "メリーズ パンツ 素肌さらさらエアスルー Lサイズ"
     brand: "花王（メリーズ）"
-    price: 5640
+    price: 5597
     capacity: "54枚×3袋"
     pricePerUnit: "約35円/枚"
     rating: 5
@@ -40,7 +62,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_67491"
         available: true
-  - rank: 2
+  - rank: 3
     name: "パンパース パンツ さらさらケアEX Lサイズ"
     brand: "P&G（パンパース）"
     price: 7497
@@ -62,7 +84,7 @@ products:
     recommendedFor: "Lサイズ帯で薄手タイプをまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u65wn.3rdw62a6.g00u65wn.3rdw75c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3-2%2F4987176155825%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3-2%2Fi%2F10009040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3-2/cabinet/12383927/4987176386304.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 4
     name: "ムーニーマン 汗スッキリ 男女共用 Lサイズ"
     brand: "ユニ・チャーム"
     price: 7084
@@ -95,7 +117,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shiningstore-next_auc-no-42564-004"
         available: true
-  - rank: 4
+  - rank: 5
     name: "メリーズ パンツ ファーストプレミアム Lサイズ"
     brand: "花王（メリーズ）"
     price: 1673
@@ -128,7 +150,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901301396556"
         available: true
-  - rank: 5
+  - rank: 6
     name: "パンパース パンツ さらさらケア スーパージャンボ Lサイズ"
     brand: "P&G（パンパース）"
     price: 2126
@@ -161,6 +183,28 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2873471017"
         available: true
+  - rank: 7
+    name: "ナチュラルムーニーマン パンツ Lサイズ"
+    brand: "ナチュラルムーニー（ユニ・チャーム）"
+    price: 7720
+    capacity: "36枚×4個（9kg〜14kg）"
+    pricePerUnit: "約54円/枚"
+    rating: 4.65
+    reviewCount: 55
+    features:
+      - "オーガニックコットンを表面シートに使うライン"
+      - "低刺激設計をうたうナチュラル系"
+      - "まとめ買いセット"
+    pros:
+      - "肌の弱い子に選びやすい素材"
+      - "素材にこだわりたい家庭の常用候補になる"
+      - "まとめ買いで買い足しの頻度が下がる"
+    cons:
+      - "標準ラインより価格帯がかなり高い"
+      - "取り扱い店舗が限られる"
+    recommendedFor: "素材にこだわってLサイズのパンツ型を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4903111243099x4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10054907%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202603_4/4903111243099.jpg?_ex=128x128"
 tags:
   - "パンツ型おむつ おすすめ"
   - "パンツ型おむつ コスパ"

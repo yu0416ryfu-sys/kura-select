@@ -4,10 +4,32 @@ description: "電気式（プラグ式）液体蚊取りの取替えボトルを
 category: "mosquito-repellent-liquid"
 publishedAt: "2026-06-13"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-09-02"
 draft: false
 products:
   - rank: 1
+    name: "アースノーマット 取替えボトル 90日用 無香料 3本入"
+    brand: "アース製薬（アースノーマット）"
+    price: 2714
+    capacity: "90日用×3本（270日）"
+    pricePerUnit: "約10円/日"
+    rating: 4.75
+    reviewCount: 8
+    features:
+      - "プラグ式液体蚊取りの取替えボトル"
+      - "無香料タイプ"
+      - "長期用ボトルのまとめ入り"
+    pros:
+      - "シーズンを通して買い足さずに使える"
+      - "無香料なので寝室でも使いやすい"
+      - "定番規格なので手持ちの本体に使える"
+    cons:
+      - "対応する本体を別途用意する必要がある"
+      - "シーズンをまたぐと保管期間が長くなる"
+    recommendedFor: "液体蚊取りをシーズン通して使う方・無香料を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901080094919%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11177974%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/919/4901080094919.jpg?_ex=128x128"
+  - rank: 2
     name: "ベープリキッド 取替え用 60日 無香料"
     brand: "フマキラー"
     price: 1270
@@ -40,7 +62,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4902424427134"
         available: true
-  - rank: 2
+  - rank: 3
     name: "ノーマット 取替えボトル 90日用 微香性"
     brand: "アース製薬"
     price: 2068
@@ -73,7 +95,29 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hcvalor_vh-2162902907264"
         available: true
-  - rank: 3
+  - rank: 4
+    name: "アースノーマット 取替えボトル 90日用 無香料 2箱セット"
+    brand: "アース製薬（アースノーマット）"
+    price: 3864
+    capacity: "90日用×4本（360日）"
+    pricePerUnit: "約11円/日"
+    rating: 4.76
+    reviewCount: 49
+    features:
+      - "長期用取替えボトルの2箱まとめ買い"
+      - "無香料タイプ"
+      - "複数部屋での併用を想定した構成"
+    pros:
+      - "寝室とリビングなど複数部屋で同時に使える"
+      - "1日あたりの負担を抑えやすい"
+      - "シーズン中の買い足しがほぼ不要になる"
+    cons:
+      - "使い切れないと翌シーズンまで保管することになる"
+      - "対応する本体を部屋数分そろえる必要がある"
+    recommendedFor: "複数の部屋で液体蚊取りを使う方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F62629%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10888488%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/629/62629.jpg?_ex=128x128"
+  - rank: 5
     name: "ノーマット 取替えボトル 60日用 無香料"
     brand: "アース製薬"
     price: 1690
@@ -95,7 +139,7 @@ products:
     recommendedFor: "定番ブランドの無香料タイプを安心して使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200219%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10114372%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/113/4901080120113.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 6
     name: "ノーマット 取替えボトル 30日用 無香料"
     brand: "アース製薬"
     price: 1210
@@ -128,6 +172,28 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/atlife_101-x010-4901080120113"
         available: true
+  - rank: 7
+    name: "アースノーマット 取替えボトル 30日用 無香料 2本入"
+    brand: "アース製薬（アースノーマット）"
+    price: 1210
+    capacity: "30日用×2本（60日）"
+    pricePerUnit: "約20円/日"
+    rating: 4.5
+    reviewCount: 8
+    features:
+      - "短期用のプラグ式液体蚊取り取替えボトル"
+      - "無香料タイプ"
+      - "2本組の構成"
+    pros:
+      - "蚊が出る時期だけ短く使いたい場合に向く"
+      - "保管期間が短く済むので劣化を気にしにくい"
+      - "部屋数が少ない家庭でも使い切りやすい"
+    cons:
+      - "長期用より1日あたりの負担が大きい"
+      - "シーズン中に買い足す回数が増える"
+    recommendedFor: "必要な時期だけ液体蚊取りを使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa003200200023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10121091%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/214/4901080308214.jpg?_ex=128x128"
 tags:
   - "液体蚊取り おすすめ"
   - "液体蚊取り コスパ"

@@ -1,10 +1,10 @@
 ---
 title: "日焼け止め コスパ最強ランキング【2026年版】1mLあたり最安で比較"
-description: "日焼け止めを1mLあたりのコストで徹底比較。ビオレUV・スキンアクア・ニベアUV・アリィーなど人気9選をUV防御力・コスパで解説します。"
+description: "日焼け止めを1mLあたりのコストで徹底比較。ビオレUV・スキンアクア・ニベアUV・アリィーなど人気10選をUV防御力・コスパで解説します。"
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-02"
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -205,6 +205,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn2mn.3rdw6125.g00qn2mn.3rdw7702/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsangakushop%2Frarossyu35%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsangakushop%2Fi%2F10000773%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sangakushop/cabinet/lrp/03044hqs_p01.jpg?_ex=128x128"
   - rank: 8
+    name: "レステモ ノンケミカル UVミルク"
+    brand: "レステモ"
+    price: 2580
+    capacity: "50mL"
+    pricePerUnit: "約52円/mL"
+    rating: 4.33
+    reviewCount: 2400
+    features:
+      - "紫外線吸収剤を使わないノンケミカル処方"
+      - "ミルクタイプで伸ばしやすいテクスチャー"
+      - "ウォータープルーフ仕様"
+    pros:
+      - "肌あたりが穏やかで子どもと一緒に使いやすい"
+      - "日常使いから外出時まで用途を選びにくい"
+      - "白浮きしにくいミルク状で顔にも使いやすい"
+    cons:
+      - "ノンケミカル処方は塗り直しの手間がかかる"
+      - "専用クレンジングの要否は表示を確認したい"
+    recommendedFor: "紫外線吸収剤を避けたい方・家族で共用したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdaen.3rdw686c.g00qdaen.3rdw7002/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flesthemo%2Fuv50g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flesthemo%2Fi%2F10000061%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/uvmilk_01_01_3500px.jpg?_ex=128x128"
+  - rank: 9
     name: "【国内正規品 全12種】ALLIE アリィー 日焼け止め クロノビューティ トー"
     brand: "カネボウ（アリィー）"
     price: 1332
@@ -226,13 +248,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t269n.3rdw662f.g00t269n.3rdw745b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Farianakosume%2Fallie-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Farianakosume%2Fi%2F10006763%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/main-ariana/allie-001-ra.jpg?_ex=128x128"
     priceMax: 6840
-  - rank: 9
+  - rank: 10
     name: "ラブミータッチ シルキーUVミルク 50g"
     brand: "ラブミータッチ"
     price: 3080
     capacity: "50g"
     rating: 4.84
-    reviewCount: 3808
+    reviewCount: 3809
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

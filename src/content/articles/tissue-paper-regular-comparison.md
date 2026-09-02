@@ -4,17 +4,39 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-02"
 draft: false
 products:
   - rank: 1
+    name: "スコッティ ティッシュ 200組 60箱"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 5299
+    capacity: "200組×60箱（12,000組）"
+    pricePerUnit: "約0.44円/組"
+    rating: 4.79
+    reviewCount: 1594
+    features:
+      - "ティッシュペーパー本体のまとめ買い候補"
+      - "箱タイプまたはソフトパックで選べる"
+      - "家庭でストックしやすい容量構成"
+    pros:
+      - "日常の消耗品をまとめて比較できる"
+      - "保管場所に合わせて形状を選びやすい"
+      - "家族使いのストック候補になる"
+    cons:
+      - "紙質や肌ざわりは好みが分かれる"
+      - "大容量品は置き場所の確認が必要"
+    recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F13336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10024833%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/020/main-13336_t.jpg?_ex=128x128"
+  - rank: 2
     name: "スコッティ ティッシュ ホワイトパッケージ 60箱"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5375
+    price: 5401
     capacity: "400枚（200組）×60箱"
     pricePerUnit: "約0.45円/組"
     rating: 4.75
-    reviewCount: 522
+    reviewCount: 526
     features:
       - "シンプルなホワイトパッケージの定番箱タイプ"
       - "200組のスタンダードな2枚重ね"
@@ -40,10 +62,10 @@ products:
         reviewCount: 36
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kyoto23_10001789"
         available: true
-  - rank: 2
+  - rank: 3
     name: "スコッティ ティッシュ 200組 60箱セット"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5375
+    price: 5401
     capacity: "200組×60箱"
     pricePerUnit: "約0.45円/組"
     rating: 4.68
@@ -62,28 +84,6 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7162877%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077529%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7162877.jpg?_ex=128x128"
-  - rank: 3
-    name: "スコッティ ティッシュ 200組 60箱"
-    brand: "日本製紙クレシア（スコッティ）"
-    price: 5499
-    capacity: "200組×60箱（12,000組）"
-    pricePerUnit: "約0.46円/組"
-    rating: 4.79
-    reviewCount: 1593
-    features:
-      - "ティッシュペーパー本体のまとめ買い候補"
-      - "箱タイプまたはソフトパックで選べる"
-      - "家庭でストックしやすい容量構成"
-    pros:
-      - "日常の消耗品をまとめて比較できる"
-      - "保管場所に合わせて形状を選びやすい"
-      - "家族使いのストック候補になる"
-    cons:
-      - "紙質や肌ざわりは好みが分かれる"
-      - "大容量品は置き場所の確認が必要"
-    recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F13336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10024833%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/020/main-13336_t.jpg?_ex=128x128"
   - rank: 4
     name: "スコッティ ティッシュペーパー 200組5箱×12パック"
     brand: "日本製紙クレシア（スコッティ）"
@@ -186,9 +186,9 @@ products:
   - rank: 8
     name: "クリネックス ティシュー 180組 5箱×12パック（60箱）"
     brand: "日本製紙クレシア（クリネックス）"
-    price: 6699
+    price: 6999
     capacity: "180組×5箱×12パック（60箱）"
-    pricePerUnit: "約0.62円/組"
+    pricePerUnit: "約0.65円/組"
     rating: 4.66
     reviewCount: 140
     features:
@@ -227,6 +227,28 @@ products:
     recommendedFor: "オフィス・店舗・大量消費する世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00saddn.3rdw6ebe.g00saddn.3rdw7146/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaicom-pack%2F190942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaicom-pack%2Fi%2F10023307%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaicom-pack/cabinet/adsum1/190942.jpg?_ex=128x128"
+  - rank: 10
+    name: "スコッティ カシミヤ ティッシュペーパー"
+    brand: "スコッティ（日本製紙クレシア）"
+    price: 6952
+    capacity: "220組×20箱"
+    pricePerUnit: "約1.6円/組"
+    rating: 4.83
+    reviewCount: 273
+    features:
+      - "やわらかさを重視した上位ラインのティッシュ"
+      - "保湿タイプではない通常タイプ"
+      - "箱入りのまとめ買いセット"
+    pros:
+      - "鼻をかむ回数が増える時期でも肌への負担が少ない"
+      - "定番ブランドで品質が安定している"
+      - "箱でまとめて届くのでストック管理が楽"
+    cons:
+      - "標準グレードより価格帯が高い"
+      - "まとめ買いのため置き場所を確保する必要がある"
+    recommendedFor: "肌あたりを重視して普段使いのティッシュを選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcsnn.3rdw6570.g00qcsnn.3rdw762b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyoto23%2F10000506%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyoto23%2Fi%2F10000506%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kyoto23/cabinet/img3/10000506.jpg?_ex=128x128"
 tags:
   - "ティッシュペーパー"
   - "通常タイプ"
