@@ -18,6 +18,7 @@ import {
   resolveDisplayPricePerUnit,
   shouldShowPricePerUnit,
 } from "../../lib/price";
+import { productImageSrc } from "../../lib/image";
 
 interface VisibleOfferForTable {
   provider: OfferProvider;
@@ -212,11 +213,11 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
                   <td class="px-3 py-3">
                     <div class="flex items-center gap-2">
                       <img
-                        src={p.imageUrl || "/placeholder/product-default.svg"}
+                        src={productImageSrc(p.imageUrl, 128)}
                         alt=""
-                        width="40"
-                        height="40"
-                        class="w-10 h-10 object-contain rounded border border-[var(--color-border)] bg-white shrink-0"
+                        width="64"
+                        height="64"
+                        class="w-16 h-16 object-contain rounded border border-[var(--color-border)] bg-white shrink-0"
                         loading="lazy"
                       />
                       <div>
@@ -352,7 +353,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
                   {p.rank}
                 </span>
                 <img
-                  src={p.imageUrl || "/placeholder/product-default.svg"}
+                  src={productImageSrc(p.imageUrl, 128)}
                   alt=""
                   width="56"
                   height="56"

@@ -1,5 +1,6 @@
 ---
 import AffiliateLink from "./AffiliateLink.astro";
+import { productImageSrc } from "../../lib/image";
 import {
   getVisibleOffers,
   getOfferPriceSummary,
@@ -80,7 +81,7 @@ const displayPriceLabel =
     <!-- 商品画像 -->
     <div class="shrink-0 w-16 h-16 md:w-20 md:h-20 rounded-lg overflow-hidden bg-white border border-[var(--color-border)]">
       <img
-        src={product.imageUrl || "/placeholder/product-default.svg"}
+        src={productImageSrc(product.imageUrl, 160)}
         alt={`${product.name}の商品画像`}
         width="80"
         height="80"

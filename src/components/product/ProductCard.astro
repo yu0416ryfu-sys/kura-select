@@ -1,5 +1,6 @@
 ---
 import AffiliateLink from "./AffiliateLink.astro";
+import { productImageSrc } from "../../lib/image";
 import {
   getVisibleOffers,
   getOfferPriceSummary,
@@ -106,12 +107,12 @@ const rankColor = rankColors[product.rank] ?? "bg-[var(--color-surface)] text-[v
     </div>
 
     <!-- 商品画像 -->
-    <div class="shrink-0 w-20 h-20 rounded-lg overflow-hidden bg-[var(--color-surface)] border border-[var(--color-border)]">
+    <div class="shrink-0 w-20 h-20 md:w-28 md:h-28 rounded-lg overflow-hidden bg-[var(--color-surface)] border border-[var(--color-border)]">
       <img
-        src={product.imageUrl || "/placeholder/product-default.svg"}
+        src={productImageSrc(product.imageUrl, 224)}
         alt={`${product.name}の商品画像`}
-        width="80"
-        height="80"
+        width="112"
+        height="112"
         class="w-full h-full object-contain"
         loading="lazy"
       />

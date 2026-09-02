@@ -4,6 +4,7 @@ import Container from "../components/layout/Container.astro";
 import SearchBox from "../components/search/SearchBox.astro";
 import { getCollection } from "astro:content";
 import { formatPriceOrConfirmation } from "../lib/price";
+import { productImageSrc } from "../lib/image";
 import { SITE, url } from "../lib/site";
 import { getArticleProducts, getArticleServices } from "../lib/article";
 
@@ -48,7 +49,7 @@ const searchData = {
       brand: product.brand,
       priceLabel: formatPriceOrConfirmation(product.price),
       capacity: product.capacity,
-      imageUrl: product.imageUrl || "/placeholder/product-default.svg",
+      imageUrl: productImageSrc(product.imageUrl, 160),
       articleTitle: article.data.title,
       categoryName,
       href: url(`/articles/${article.id}#product-${product.rank}`),
