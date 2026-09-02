@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02",
+  "updatedAt": "2026-09-03",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。人間・AI 双方の唯一の正はメモリ project_measurement_holds だが、",
     "機械判定（scripts/check-internal-links.mjs など）はこのファイルを読む。両者は必ず同時に更新する。",
@@ -9,25 +9,6 @@
     "区分A（update-products の price/rating 等の自動更新）は凍結対象外につきここには記帳しない（CLAUDE.md §5.0.3）。"
   ],
   "holds": [
-    {
-      "slug": "deodorizing-bag-comparison",
-      "releaseDate": "2026-09-04",
-      "releaseLabel": "2026-09-03",
-      "targetType": "article",
-      "startedAt": "2026-08-20",
-      "measures": [
-        "表示/日",
-        "クロール頻度"
-      ],
-      "actions": [
-        "本文全面改稿",
-        "被リンク 0→4本",
-        "商品構成の是正"
-      ],
-      "simultaneous": true,
-      "note": "未離陸の是正。3施策同時のため分離不能。クリック実数では判定しない",
-      "source": "project_new_articles_202607"
-    },
     {
       "slugs": [
         "oxiclean-vs-percarbonate-comparison",
