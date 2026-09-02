@@ -173,7 +173,7 @@ products:
         reviewCount: 10
   - rank: 6
     name: "大日本除蟲菊 タンスにゴンゴン 衣類の防虫剤 クローゼット用 無臭"
-    brand: "白元アース（タンスにゴン）"
+    brand: "大日本除蟲菊（タンスにゴンゴン）"
     price: 657
     capacity: "3個"
     pricePerUnit: "約219円/個"
@@ -186,9 +186,9 @@ products:
     pros:
       - "防虫＋防カビ＋消臭の3機能で衣類を総合保護"
       - "吊り下げ式で取り付け・取り外しが簡単"
-      - "白元アースの定番ブランドで信頼性が高い"
+      - "大日本除蟲菊（金鳥）の定番ブランドで入手しやすい"
     cons:
-      - "12個入のため大量購入時は複数セット必要"
+      - "3個入のため収納が多い場合は複数セット必要"
       - "消臭効果は専用品には劣る"
     recommendedFor: "防虫・防カビ・消臭をまとめてケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4987115842472%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10436024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
