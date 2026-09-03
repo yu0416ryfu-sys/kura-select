@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-03"
 draft: false
 products:
   - rank: 1
@@ -195,39 +195,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301348418"
         available: true
   - rank: 7
-    name: "ビオレ さらさらパウダーシート 無香料"
-    brand: "花王（ビオレ）"
-    price: 1000
-    capacity: "30枚"
-    pricePerUnit: "約33円/枚"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "厚手のメッシュシートでしっかり拭き取れる設計"
-      - "皮脂や汗のベタつきを拭き取るボディシート"
-      - "香りが残らない無香性タイプ"
-    pros:
-      - "香りが苦手な人や香水と併用したい人でも使いやすい"
-      - "厚手で1枚で広い範囲を拭きやすい"
-      - "ビジネスシーンでも香りを気にせず使える"
-    cons:
-      - "香りでリフレッシュしたい人には物足りない"
-      - "厚手のぶん1袋の枚数は控えめ"
-    recommendedFor: "香りを残したくない方・オフィスで使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uso0n.3rdw6c16.g00uso0n.3rdw73a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsasaya-halo%2Fcompass1775955499%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsasaya-halo%2Fi%2F10000058%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sasaya-halo/cabinet/compass1785600442.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F612-8545-103.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-31"
-        price: 1259
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_612-8545-103"
-        available: true
-  - rank: 8
     name: "オーガニックコットン アロマ ボディシート フレッシュシトラス"
     brand: "NaturaMoon"
     price: 660
@@ -260,12 +227,12 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ecomarche_100003175"
         available: true
-  - rank: 9
+  - rank: 8
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
-    price: 2239
+    price: 2234
     capacity: "30枚"
-    pricePerUnit: "約75円/枚"
+    pricePerUnit: "約74円/枚"
     rating: 4.81
     reviewCount: 21
     features:
@@ -293,7 +260,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902806135947"
         available: true
-  - rank: 10
+  - rank: 9
     name: "リフレッシュボディシート"
     brand: "久光製薬"
     price: 1780
@@ -326,6 +293,39 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188322109"
         available: true
+  - rank: 10
+    name: "ビオレ さらさらパウダーシート 無香料"
+    brand: "花王（ビオレ）"
+    price: 1000
+    capacity: "30枚"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "厚手のメッシュシートでしっかり拭き取れる設計"
+      - "皮脂や汗のベタつきを拭き取るボディシート"
+      - "香りが残らない無香性タイプ"
+    pros:
+      - "香りが苦手な人や香水と併用したい人でも使いやすい"
+      - "厚手で1枚で広い範囲を拭きやすい"
+      - "ビジネスシーンでも香りを気にせず使える"
+    cons:
+      - "香りでリフレッシュしたい人には物足りない"
+      - "厚手のぶん1袋の枚数は控えめ"
+    recommendedFor: "香りを残したくない方・オフィスで使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uso0n.3rdw6c16.g00uso0n.3rdw73a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsasaya-halo%2Fcompass1775955499%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsasaya-halo%2Fi%2F10000058%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sasaya-halo/cabinet/compass1785600442.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F612-8545-103.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-31"
+        price: 1259
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_612-8545-103"
+        available: true
+    priceMax: 1500
 tags:
   - "汗拭きシート おすすめ"
   - "ボディシート コスパ"

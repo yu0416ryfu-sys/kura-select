@@ -4,7 +4,7 @@ description: "パンツ型おむつのLサイズおすすめ7選を1枚あたり
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-09-02"
+updatedAt: "2026-09-03"
 draft: false
 products:
   - rank: 1
@@ -65,9 +65,9 @@ products:
   - rank: 3
     name: "パンパース パンツ さらさらケアEX Lサイズ"
     brand: "P&G（パンパース）"
-    price: 7497
+    price: 6980
     capacity: "60枚×3袋"
-    pricePerUnit: "約42円/枚"
+    pricePerUnit: "約39円/枚"
     rating: 4.56
     reviewCount: 9
     features:

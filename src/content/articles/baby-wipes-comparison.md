@@ -4,7 +4,7 @@ description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.78
-    reviewCount: 7993
+    reviewCount: 8016
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -81,8 +81,8 @@ products:
     price: 3740
     capacity: "76枚×32個"
     pricePerUnit: "約1.5円/枚"
-    rating: 4.74
-    reviewCount: 19
+    rating: 4.75
+    reviewCount: 20
     features:
       - "カシミヤタッチ素材で柔らかく肌にやさしい"
       - "純水99%配合で不純物が少ない"
@@ -113,11 +113,11 @@ products:
   - rank: 4
     name: "レック 水99.9％ 手口ふき おしりふき 80枚×15個"
     brand: "レック"
-    price: 2180
+    price: 1962
     capacity: "80枚×15個（1200枚）"
-    pricePerUnit: "約1.8円/枚"
+    pricePerUnit: "約1.6円/枚"
     rating: 4.69
-    reviewCount: 4754
+    reviewCount: 4762
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -181,7 +181,7 @@ products:
     capacity: "54枚×15個"
     pricePerUnit: "約2.6円/枚"
     rating: 4.62
-    reviewCount: 3885
+    reviewCount: 3889
     features:
       - "菌を99.9%除去する除菌処理"
       - "厚手タイプで吸収性が高い"
@@ -280,7 +280,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.6円/枚"
     rating: 4.42
-    reviewCount: 1661
+    reviewCount: 1662
     features:
       - "トイレに流せる素材で処理が簡単"
       - "菌を99.9%除去する除菌効果"

@@ -4,7 +4,7 @@ description: "除湿剤おすすめ9選を吸湿量1mLあたりの単価で徹�
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
@@ -89,8 +89,8 @@ products:
     price: 1980
     capacity: "420mL×18個（7,560mL分）"
     pricePerUnit: "約0.26円/mL"
-    rating: 4.52
-    reviewCount: 42
+    rating: 4.53
+    reviewCount: 43
     features:
       - "備長炭配合で除湿＋消臭"
       - "タンクタイプで吸湿した水が一目でわかる"
@@ -150,39 +150,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ramcn.3rdw6d52.g00ramcn.3rdw79d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmdse%2Fho-4902424439014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frcmdse%2Fi%2F14732325%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmdse/cabinet/ho01/ho-4902424439014.jpg?_ex=128x128"
   - rank: 7
-    name: "水とりぞうさん 550ml×12個入り"
-    brand: "オカモト（水とりぞうさん）"
-    price: 2496
-    capacity: "550mL×12個（6,600mL分）"
-    pricePerUnit: "約0.38円/mL"
-    rating: 4.51
-    reviewCount: 121
-    features:
-      - "定番ブランドの標準タンクタイプをまとめた中容量セット"
-      - "押し入れ・クローゼット・下駄箱などに対応"
-      - "強力脱臭・防臭・防カビをうたうシリーズ"
-    pros:
-      - "家じゅうの数か所を一度に揃えられる個数"
-      - "最小パックより吸湿量あたりの単価を抑えやすい"
-      - "定番ブランドで使用感を把握しやすい"
-    cons:
-      - "最大容量セットに比べると単価では見劣りする"
-      - "使い切るまで保管スペースが必要"
-    recommendedFor: "家じゅう数か所にまとめて設置したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r75tn.3rdw6eee.g00r75tn.3rdw7179/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffabuleux%2F10002254%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffabuleux%2Fi%2F10002254%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fabuleux/cabinet/03396666/06117872/06716668/imgrc0071968010.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawarikikaku%2Fcostoco-mizutori-a.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-22"
-        price: 1618
-        rating: 4.75
-        reviewCount: 4
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawarikikaku_costoco-mizutori-a"
-        available: true
-  - rank: 8
     name: "コーナン 除湿剤 1000ml 置き型 大容量タイプ"
     brand: "コーナン"
     price: 1090
@@ -215,7 +182,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_4522831169825"
         available: true
-  - rank: 9
+  - rank: 8
     name: "コーナン 除湿剤 500ml 置き型"
     brand: "コーナン"
     price: 990
@@ -249,6 +216,39 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_4522831781188"
         available: false
         matchNotes: "capacity不一致: 商品名トークン不一致"
+  - rank: 9
+    name: "水とりぞうさん 550ml×12個入り"
+    brand: "オカモト（水とりぞうさん）"
+    price: 2496
+    capacity: "550mL×12個（6,600mL分）"
+    rating: 4.51
+    reviewCount: 121
+    features:
+      - "定番ブランドの標準タンクタイプをまとめた中容量セット"
+      - "押し入れ・クローゼット・下駄箱などに対応"
+      - "強力脱臭・防臭・防カビをうたうシリーズ"
+    pros:
+      - "家じゅうの数か所を一度に揃えられる個数"
+      - "最小パックより吸湿量あたりの単価を抑えやすい"
+      - "定番ブランドで使用感を把握しやすい"
+    cons:
+      - "最大容量セットに比べると単価では見劣りする"
+      - "使い切るまで保管スペースが必要"
+    recommendedFor: "家じゅう数か所にまとめて設置したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r75tn.3rdw6eee.g00r75tn.3rdw7179/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffabuleux%2F10002254%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffabuleux%2Fi%2F10002254%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fabuleux/cabinet/03396666/06117872/06716668/imgrc0071968010.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawarikikaku%2Fcostoco-mizutori-a.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-22"
+        price: 1618
+        rating: 4.75
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawarikikaku_costoco-mizutori-a"
+        available: true
+    priceMax: 6388
 tags:
   - "除湿剤 おすすめ"
   - "除湿剤 コスパ"

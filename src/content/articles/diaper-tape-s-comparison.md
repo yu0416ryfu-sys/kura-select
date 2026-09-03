@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-02"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚 旧パッケージ"
@@ -12,8 +12,8 @@ products:
     price: 2930
     capacity: "124枚+8枚（132枚）"
     pricePerUnit: "約22円/枚"
-    rating: 4.56
-    reviewCount: 25
+    rating: 4.58
+    reviewCount: 26
     features:
       - "全面通気性に優れたエアスルー素材採用"
       - "132枚大容量で1枚あたりコストが安い"
@@ -117,39 +117,6 @@ products:
         rating: 0
         reviewCount: 1
   - rank: 5
-    name: "パンパース テープ Sサイズ 74枚×4袋"
-    brand: "P&G（パンパース）"
-    price: 8800
-    capacity: "74枚×4袋（296枚）"
-    pricePerUnit: "約30円/枚"
-    rating: 4.7
-    reviewCount: 66
-    features:
-      - "世界No.1シェアの信頼ブランド"
-      - "肌のpHバランスを考慮した処方"
-      - "おしりふき1回分（無香）サンプル付き商品も"
-    pros:
-      - "世界中で使われている信頼性の高いブランド"
-      - "肌への配慮が高く赤ちゃんの肌研究に基づいた設計"
-      - "産院採用率が高く退院後もそのまま使える"
-    cons:
-      - "国産ブランドと比べると価格がやや高め"
-      - "4袋での枚数が他社より少ない（74枚×4袋）"
-    recommendedFor: "産院でパンパースを使っていた方・世界基準の品質を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7252901%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10193037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/09483188/12470037/imgrc0138992127.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134295-case.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-25"
-        price: 7020
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134295-case"
-        available: true
-        rating: 4.79
-        reviewCount: 140
-  - rank: 6
     name: "ムーニー 低刺激であんしん 紙おむつ テープ"
     brand: "ユニ・チャーム（ムーニーナチュラル）"
     price: 7158
@@ -182,7 +149,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 7
+  - rank: 6
     name: "パンパース はじめての肌へのいちばん テープ Sサイズ 132枚"
     brand: "P&G（パンパース）"
     price: 5699
@@ -215,6 +182,39 @@ products:
         available: true
         rating: 0
         reviewCount: 2
+  - rank: 7
+    name: "パンパース テープ Sサイズ 74枚×4袋"
+    brand: "P&G（パンパース）"
+    price: 7360
+    capacity: "74枚×4袋（296枚）"
+    rating: 4.7
+    reviewCount: 66
+    features:
+      - "世界No.1シェアの信頼ブランド"
+      - "肌のpHバランスを考慮した処方"
+      - "おしりふき1回分（無香）サンプル付き商品も"
+    pros:
+      - "世界中で使われている信頼性の高いブランド"
+      - "肌への配慮が高く赤ちゃんの肌研究に基づいた設計"
+      - "産院採用率が高く退院後もそのまま使える"
+    cons:
+      - "国産ブランドと比べると価格がやや高め"
+      - "4袋での枚数が他社より少ない（74枚×4袋）"
+    recommendedFor: "産院でパンパースを使っていた方・世界基準の品質を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7252901%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10193037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/09483188/12470037/imgrc0140407660.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134295-case.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-25"
+        price: 7020
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134295-case"
+        available: true
+        rating: 4.79
+        reviewCount: 140
+    priceMax: 8980
 tags:
   - "Sサイズ おむつ"
   - "テープ型おむつ"

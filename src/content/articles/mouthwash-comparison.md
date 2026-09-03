@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -212,7 +212,7 @@ products:
     capacity: "500mL×3本"
     pricePerUnit: "約5.0円/mL"
     rating: 4.72
-    reviewCount: 497
+    reviewCount: 498
     features:
       - "二酸化塩素（ClO2）配合で口臭の原因菌を抑制"
       - "無香料・ノンアルコール処方で低刺激"
@@ -228,39 +228,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pz2wn.3rdw6ac8.g00pz2wn.3rdw7cbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falpha-net%2F020-prf-0013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falpha-net%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/alpha-net/cabinet/profresh/imgrc0134851319.jpg?_ex=128x128"
   - rank: 8
-    name: "フィス ホワイト 薬用マウスウォッシュ 300mL"
-    brand: "WHITH WHITE（フィスホワイト）"
-    price: 2580
-    capacity: "300mL"
-    pricePerUnit: "約8.6円/mL"
-    rating: 4.6
-    reviewCount: 2864
-    features:
-      - "ホワイトニング成分配合でセルフケアに対応"
-      - "ノンアルコール処方で低刺激"
-      - "日本製の医薬部外品"
-    pros:
-      - "歯の着色が気になる方のホワイトニングケアに"
-      - "低刺激で敏感な口腔環境にも使いやすい"
-      - "子どもから大人まで使える幅広い対応"
-    cons:
-      - "300mLとやや小容量"
-      - "ホワイトニング効果は継続使用が前提"
-    recommendedFor: "ホワイトニングケアを日常に取り入れたい方・低刺激マウスウォッシュを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b071gypvwv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000116%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260904ss/906b071gypvwv-50.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbluecastle%2Fnitiyou-102.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
-        price: 3980
-        rating: 5
-        reviewCount: 4
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/bluecastle_nitiyou-102"
-        available: true
-  - rank: 9
     name: "ドクターウォッシュ デンタル露ウォッシュ"
     brand: "ビーラッシュストア"
     price: 2970
@@ -293,14 +260,14 @@ products:
         available: true
         rating: 4.57
         reviewCount: 7
-  - rank: 10
+  - rank: 9
     name: "コンクールF 100mL"
     brand: "ウエルテック（コンクール）"
     price: 2300
     capacity: "100mL（約700回分）"
     pricePerUnit: "約23円/mL"
     rating: 4.76
-    reviewCount: 598
+    reviewCount: 601
     features:
       - "歯科医院で推奨される薬用マウスウォッシュ"
       - "グルコン酸クロルヘキシジン配合で高い殺菌力"
@@ -314,7 +281,7 @@ products:
       - "薄める手間がある"
     recommendedFor: "歯科医推奨品を求める方・歯周病予防を重視する方・長く使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fdf2819%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10012094%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg/df2819_1450ppm.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0904_ss/kirikae2/df2819_1450ppm.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -326,6 +293,39 @@ products:
         available: true
         rating: 4.78
         reviewCount: 1428
+  - rank: 10
+    name: "フィス ホワイト 薬用マウスウォッシュ 300mL"
+    brand: "WHITH WHITE（フィスホワイト）"
+    price: 2580
+    capacity: "300mL"
+    rating: 4.6
+    reviewCount: 2868
+    features:
+      - "ホワイトニング成分配合でセルフケアに対応"
+      - "ノンアルコール処方で低刺激"
+      - "日本製の医薬部外品"
+    pros:
+      - "歯の着色が気になる方のホワイトニングケアに"
+      - "低刺激で敏感な口腔環境にも使いやすい"
+      - "子どもから大人まで使える幅広い対応"
+    cons:
+      - "300mLとやや小容量"
+      - "ホワイトニング効果は継続使用が前提"
+    recommendedFor: "ホワイトニングケアを日常に取り入れたい方・低刺激マウスウォッシュを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b071gypvwv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000116%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260904ss/906b071gypvwv-50.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbluecastle%2Fnitiyou-102.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-01"
+        price: 3980
+        rating: 5
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/bluecastle_nitiyou-102"
+        available: true
+    priceMax: 7740
 tags:
   - "マウスウォッシュ"
   - "コスパ"

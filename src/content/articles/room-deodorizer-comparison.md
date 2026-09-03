@@ -4,7 +4,7 @@ description: "消臭剤のおすすめ8選をコスパで徹底比較。リセ�
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "ハルの消臭剤 消臭ビーズ 詰替用"
@@ -13,7 +13,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1265円/kg"
     rating: 4.79
-    reviewCount: 3024
+    reviewCount: 3030
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -35,7 +35,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1396円/kg"
     rating: 4.68
-    reviewCount: 1650
+    reviewCount: 1652
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -102,7 +102,7 @@ products:
     capacity: "600g"
     pricePerUnit: "約1.7円/g"
     rating: 4.52
-    reviewCount: 404
+    reviewCount: 405
     features:
       - "植物由来ミネラル成分を使った無臭・無香料タイプ"
       - "置き型で玄関やクローゼットなど幅広い場所に使える"
@@ -227,11 +227,11 @@ products:
   - rank: 8
     name: "瞬間消臭スプレー 420ml"
     brand: "ハル・インダストリ"
-    price: 1188
+    price: 1485
     capacity: "420mL"
-    pricePerUnit: "約2.8円/mL"
-    rating: 4.73
-    reviewCount: 324
+    pricePerUnit: "約3.5円/mL"
+    rating: 4.74
+    reviewCount: 325
     features:
       - "ハイパー消臭成分でニオイの原因菌に速効対応"
       - "100%天然由来成分で無香料・無添加"

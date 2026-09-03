@@ -4,7 +4,7 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "30本×4個"
     pricePerUnit: "約9.2円/本"
     rating: 4.79
-    reviewCount: 330
+    reviewCount: 331
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -182,7 +182,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F29860%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10002771%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shohin09/reach29860-sam.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0904_ss/kirikae1/reach29860-sam.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -196,39 +196,6 @@ products:
         reviewCount: 5
         matchNotes: "capacity不一致: capacity不一致"
   - rank: 7
-    name: "オーラルケア フロアフロス 250m"
-    brand: "オーラルケア"
-    price: 3060
-    capacity: "250m"
-    pricePerUnit: "約12円/m"
-    rating: 4.69
-    reviewCount: 518
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fpppp25%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/13453622/pppp25_sam.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 3278
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
-        available: true
-        rating: 4.77
-        reviewCount: 369
-  - rank: 8
     name: "オーラルケア フロアフロス 250m 歯科専売品 fluorfloss"
     brand: "楽天市場"
     price: 3210
@@ -261,14 +228,14 @@ products:
         available: true
         rating: 4.77
         reviewCount: 369
-  - rank: 9
+  - rank: 8
     name: "オーラルケア フロアフロス 45m 2個セット (メール便9点まで)"
     brand: "オーラルケア"
     price: 1595
     capacity: "45m×2個（90m）"
     pricePerUnit: "約18円/m"
     rating: 4.65
-    reviewCount: 1163
+    reviewCount: 1164
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -282,7 +249,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008759%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/07319599/49759_n.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0904_ss/kirikae2/49759_n.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -295,6 +262,39 @@ products:
         rating: 4.72
         reviewCount: 170
         matchNotes: "capacity不一致: capacity不一致"
+  - rank: 9
+    name: "オーラルケア フロアフロス 250m"
+    brand: "オーラルケア"
+    price: 3060
+    capacity: "250m"
+    rating: 4.7
+    reviewCount: 519
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fpppp25%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0904_ss/mini/pppp25_sam.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F41694.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
+        price: 3278
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
+        available: true
+        rating: 4.77
+        reviewCount: 369
+    priceMax: 3988
 tags:
   - "歯間ブラシ おすすめ"
   - "歯間ブラシ コスパ"

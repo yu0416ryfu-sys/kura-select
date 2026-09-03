@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 draft: false
 products:
   - rank: 1
@@ -210,7 +210,6 @@ products:
     brand: "ベビーローション"
     price: 4180
     capacity: "300ml"
-    pricePerUnit: "約14円/mL"
     rating: 4.7
     reviewCount: 2938
     features:
@@ -227,6 +226,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r8u8n.3rdw60ec.g00r8u8n.3rdw72c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmishii-list%2Fbabyborn%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmishii-list%2Fi%2F10001646%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mishii-list/cabinet/item/thum_190219/r4_babyborn.jpg?_ex=128x128"
+    priceMax: 4480
   - rank: 8
     name: "5種のヒアルロン酸配合スキンローション 600ml"
     brand: "3種のヒアルロン酸配合スキンローショ"
@@ -255,7 +255,7 @@ products:
     price: 3080
     capacity: "350ml"
     rating: 4.75
-    reviewCount: 643
+    reviewCount: 645
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"

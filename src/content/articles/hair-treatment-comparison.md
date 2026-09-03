@@ -4,7 +4,7 @@ description: "コスパいいヘアトリートメントを1g・1mLあたりで�
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -123,7 +123,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約22円/mL"
     rating: 4.73
-    reviewCount: 1249
+    reviewCount: 1251
     features:
       - "くせ毛ケアのディシプリンラインのコンディショナータイプ"
       - "髪の広がりを抑えまとまりのある艶やかな仕上がりをもたらす処方"
@@ -177,7 +177,7 @@ products:
     price: 2380
     capacity: "180g"
     rating: 4.66
-    reviewCount: 2266
+    reviewCount: 2267
     features:
       - "12種の植物成分を含む25種以上の植物由来成分配合"
       - "シルク・ココナッツオイル・アルガンオイルなどの保湿成分を配合"
@@ -191,7 +191,7 @@ products:
       - "180gとやや少なめの容量"
     recommendedFor: "成分・無添加にこだわりたい方・植物由来のナチュラルヘアケアを求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b07gkxh2ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000959%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/905b07gkxh2ss-20.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/ctr/905b07gkxh2ss.jpg?_ex=128x128"
     priceMax: 4760
   - rank: 8
     name: "クイーンズバスルーム システムトリートメント Step1 Step2 各240g×2"
@@ -199,7 +199,7 @@ products:
     price: 6600
     capacity: "240g×2"
     rating: 4.7
-    reviewCount: 636
+    reviewCount: 638
     features:
       - "Step1とStep2の2剤式で段階的にダメージを補修するシステムトリートメント"
       - "ケラチン・濃厚補修成分配合でハイダメージ・ブリーチ毛にアプローチ"

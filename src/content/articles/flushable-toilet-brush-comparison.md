@@ -4,7 +4,7 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-09-03"
 draft: false
 products:
   - rank: 1
@@ -41,46 +41,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/handm_2303-003931"
         available: true
   - rank: 2
-    name: "スクラビングバブル 流せるトイレブラシ 替え24個 ホワイトブロッサムの香り"
-    brand: "スクラビングバブル"
-    price: 1298
-    capacity: "24個"
-    pricePerUnit: "約54円/個"
-    rating: 4.73
-    reviewCount: 111
-    features:
-      - "付替ブラシ24個入りの標準サイズ"
-      - "ホワイトブロッサムの香り付きタイプ"
-      - "使用後にトイレへ流せる使い捨てブラシ"
-    pros:
-      - "香りで選びたい人に向いた補充用パック"
-      - "標準量で買いやすく在庫を調整しやすい"
-      - "まとめ買いほどかさばらず保管しやすい"
-    cons:
-      - "香りの好みが分かれる場合がある"
-      - "大容量パックより1個あたりは高くなりやすい"
-    recommendedFor: "香りを選んで補充したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0ifn.3rdw6cd5.g00u0ifn.3rdw7e49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsevensails%2Fsruwhb12p2p1198636157%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsevensails%2Fi%2F10000236%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sevensails/cabinet/entryp10/scraentryp10/imgrc0128970344.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901609015456.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 706
-        rating: 4.33
-        reviewCount: 3
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4901609015456"
-        available: true
-  - rank: 3
     name: "スクラビングバブル 流せるトイレブラシ 本体+替え24個"
     brand: "スクラビングバブル"
     price: 2092
     capacity: "本体+替え24個"
     pricePerUnit: "約87円/個"
     rating: 4.5
-    reviewCount: 109
+    reviewCount: 110
     features:
       - "持ち手の本体と使い捨てブラシのセット"
       - "ブラシに洗剤が含まれた使い切りタイプ"
@@ -95,7 +62,7 @@ products:
     recommendedFor: "流せるトイレブラシを初めて使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugi2n.3rdw6154.g00ugi2n.3rdw7474/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkankosp%2F2500004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkankosp%2Fi%2F10000024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kankosp/cabinet/bc/item/brush/imgrc0106916112.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "スクラビングバブル 流せるトイレブラシ 本体+替え4個"
     brand: "スクラビングバブル"
     price: 1181
@@ -128,6 +95,39 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_9612078018"
         available: true
+  - rank: 4
+    name: "スクラビングバブル 流せるトイレブラシ 替え24個 ホワイトブロッサムの香り"
+    brand: "スクラビングバブル"
+    price: 1298
+    capacity: "24個"
+    rating: 4.73
+    reviewCount: 111
+    features:
+      - "付替ブラシ24個入りの標準サイズ"
+      - "ホワイトブロッサムの香り付きタイプ"
+      - "使用後にトイレへ流せる使い捨てブラシ"
+    pros:
+      - "香りで選びたい人に向いた補充用パック"
+      - "標準量で買いやすく在庫を調整しやすい"
+      - "まとめ買いほどかさばらず保管しやすい"
+    cons:
+      - "香りの好みが分かれる場合がある"
+      - "大容量パックより1個あたりは高くなりやすい"
+    recommendedFor: "香りを選んで補充したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0ifn.3rdw6cd5.g00u0ifn.3rdw7e49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsevensails%2Fsruwhb12p2p1198636157%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsevensails%2Fi%2F10000236%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sevensails/cabinet/entryp10/scraentryp10/imgrc0128970344.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901609015456.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
+        price: 706
+        rating: 4.33
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4901609015456"
+        available: true
+    priceMax: 9999
 tags:
   - "流せるトイレブラシ おすすめ"
   - "流せるトイレブラシ コスパ"

@@ -4,7 +4,7 @@ description: "ハンドソープを1回あたりのコストで徹底比較。�
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "ビオレ泡4リットル ビオレu　泡ハンドソープ"
@@ -79,7 +79,7 @@ products:
     capacity: "4800ml"
     pricePerUnit: "約0.87円/mL"
     rating: 4.71
-    reviewCount: 422
+    reviewCount: 423
     features:
       - "薬用タイプの泡ハンドソープ"
       - "シトラスフルーティの香り"
@@ -183,39 +183,6 @@ products:
         rating: 4.69
         reviewCount: 35
   - rank: 7
-    name: "ハンドラボ 薬用泡ハンドソープ 300mL"
-    brand: "サラヤ（ハンドラボ）"
-    price: 361
-    capacity: "300mL"
-    pricePerUnit: "約1.2円/mL"
-    rating: 4.88
-    reviewCount: 51
-    features:
-      - "医薬部外品の薬用処方で殺菌・消毒に対応した泡ハンドソープ"
-      - "たっぷり泡立つポンプ設計で手洗いしやすい"
-      - "サラヤが展開するハンドラボシリーズの定番製品"
-    pros:
-      - "医療・福祉現場でも使われるサラヤブランドの殺菌力が選べる"
-      - "泡タイプで泡立て不要のためすぐに手洗いに取りかかれる"
-      - "ジェームズマーティンと並ぶ薬用泡ハンドソープとして比較しやすい"
-    cons:
-      - "300mLと中容量のため家族が多い場合は買い足し頻度が高くなる"
-      - "医薬部外品ベースのため保湿特化タイプより使用感がやや異なる"
-    recommendedFor: "殺菌・消毒力を重視する方・サラヤの医薬部外品を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tj6en.3rdw6cfc.g00tj6en.3rdw7ce5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsaraya-cs%2Fhandlabhand%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsaraya-cs%2Fi%2F10000881%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/saraya-cs/cabinet/cs1/handlabhand2.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-depart%2F462535.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-25"
-        price: 337
-        rating: 4.17
-        reviewCount: 6
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-depart_462535"
-        available: true
-  - rank: 8
     name: "ミヨシ無添加せっけん 泡のハンドソープ リフィル"
     brand: "ミヨシ石鹸"
     price: 528
@@ -237,7 +204,7 @@ products:
     recommendedFor: "無添加・低刺激にこだわる方・赤ちゃんや敏感肌の家族がいる家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200474%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10114171%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/614/4904551100614.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 8
     name: "ジェームズマーティン 薬用泡ハンドソープ 詰め替え用"
     brand: "ジェームズマーティン"
     price: 737
@@ -270,7 +237,7 @@ products:
         available: true
         rating: 4.67
         reviewCount: 12
-  - rank: 10
+  - rank: 9
     name: "ジェームズマーティン 薬用泡ハンドソープ"
     brand: "ジェームズマーティン"
     price: 1254
@@ -303,6 +270,39 @@ products:
         available: true
         rating: 4.62
         reviewCount: 63
+  - rank: 10
+    name: "ハンドラボ 薬用泡ハンドソープ 300mL"
+    brand: "サラヤ（ハンドラボ）"
+    price: 578
+    capacity: "300mL"
+    rating: 4.88
+    reviewCount: 51
+    features:
+      - "医薬部外品の薬用処方で殺菌・消毒に対応した泡ハンドソープ"
+      - "たっぷり泡立つポンプ設計で手洗いしやすい"
+      - "サラヤが展開するハンドラボシリーズの定番製品"
+    pros:
+      - "医療・福祉現場でも使われるサラヤブランドの殺菌力が選べる"
+      - "泡タイプで泡立て不要のためすぐに手洗いに取りかかれる"
+      - "ジェームズマーティンと並ぶ薬用泡ハンドソープとして比較しやすい"
+    cons:
+      - "300mLと中容量のため家族が多い場合は買い足し頻度が高くなる"
+      - "医薬部外品ベースのため保湿特化タイプより使用感がやや異なる"
+    recommendedFor: "殺菌・消毒力を重視する方・サラヤの医薬部外品を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tj6en.3rdw6cfc.g00tj6en.3rdw7ce5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsaraya-cs%2Fhandlabhand%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsaraya-cs%2Fi%2F10000881%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/saraya-cs/cabinet/cs1/handlabhand2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-depart%2F462535.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-25"
+        price: 337
+        rating: 4.17
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-depart_462535"
+        available: true
+    priceMax: 13009
 tags:
   - "ハンドソープ"
   - "コスパ"

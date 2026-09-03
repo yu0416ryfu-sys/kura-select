@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-02"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"
@@ -178,7 +178,7 @@ products:
     capacity: "50m"
     pricePerUnit: "約11円/m"
     rating: 4.67
-    reviewCount: 201
+    reviewCount: 202
     features:
       - "日本製ポリ塩化ビニリデン製の高機能ラップ"
       - "抜群の密着力で食品の鮮度を長持ち"
@@ -295,8 +295,8 @@ products:
     brand: "旭化成（サランラップ）"
     price: 14190
     capacity: "30cm×50m×30本（1500m）"
-    rating: 4.84
-    reviewCount: 85
+    rating: 4.83
+    reviewCount: 86
     features:
       - "旭化成の定番ポリ塩化ビニリデン製ラップ"
       - "電子レンジ・冷凍庫対応（高温は除く）"

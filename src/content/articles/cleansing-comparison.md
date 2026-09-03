@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -13,7 +13,7 @@ products:
     capacity: "480mL"
     pricePerUnit: "約8.3円/mL"
     rating: 4.51
-    reviewCount: 1819
+    reviewCount: 1820
     features:
       - "メイク落としに使うクレンジング"
       - "継続利用しやすい定番構成"
@@ -154,7 +154,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3227
+    reviewCount: 3228
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"
@@ -241,7 +241,7 @@ products:
     price: 2300
     capacity: "200mL"
     rating: 4.69
-    reviewCount: 557
+    reviewCount: 558
     features:
       - "ドクダミエキス配合のクレンジングオイル"
       - "毛穴や皮脂汚れまで落とす韓国コスメ"
@@ -274,7 +274,7 @@ products:
     price: 4378
     capacity: "100mL"
     rating: 4.57
-    reviewCount: 1685
+    reviewCount: 1686
     features:
       - "発酵オイルを配合したクレンジングオイル"
       - "W洗顔不要でメイクと毛穴汚れを落とす"
@@ -288,7 +288,7 @@ products:
       - "オイルの香りや使用感は好みが分かれる"
     recommendedFor: "発酵由来成分のクレンジングを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u3u5n.3rdw6176.g00u3u5n.3rdw7186/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkins%2Fv_41744114712753%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkins%2Fi%2F10000027%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kins/cabinet/item/11808837/13043807/imgrc0127714962.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kins/cabinet/item/11808837/13043807/thumb_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

@@ -4,7 +4,7 @@ description: "父の日に贈りやすい実用ギフトを比較。名入れボ
 category: "gift"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 draft: false
 products:
   - rank: 1
@@ -149,7 +149,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rdztn.3rdw6487.g00rdztn.3rdw7366/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcavatina%2Fralph-117%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcavatina%2Fi%2F10036342%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 5
     reviewCount: 1
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cavatina/cabinet/pt20260901-1/ralph-117.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cavatina/cabinet/ralph-01/ralph-01/ralph-117.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -221,8 +221,8 @@ products:
       - "名入れ仕様は注文前にレイアウト確認が必要"
     recommendedFor: "仕事で使える、少しきちんとした父の日ギフトを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qfxfn.3rdw6df5.g00qfxfn.3rdw764e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffsapo%2Fp-jotter%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffsapo%2Fi%2F10035159%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    rating: 4.26
-    reviewCount: 144
+    rating: 4.27
+    reviewCount: 145
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fsapo/cabinet/parker/p-jotter_2024_1.jpg?_ex=128x128"
     priceMax: 3300
   - rank: 10

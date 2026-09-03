@@ -4,7 +4,7 @@ description: "サントリー・アサヒ・エビアンなど人気の天然水
 category: "mineral-water"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 draft: false
 products:
   - rank: 1
@@ -54,11 +54,11 @@ products:
   - rank: 3
     name: "楽天オリジナル 天然水 500mL×24本"
     brand: "楽天オリジナル"
-    price: 1310
+    price: 1215
     capacity: "500mL×24本（12L）"
-    pricePerUnit: "約109円/L"
+    pricePerUnit: "約101円/L"
     rating: 4.69
-    reviewCount: 1860
+    reviewCount: 1870
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"

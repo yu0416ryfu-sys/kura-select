@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ10選を1回
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 draft: false
 products:
   - rank: 1
@@ -90,7 +90,7 @@ products:
     price: 1080
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7157
+    reviewCount: 7161
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -178,7 +178,7 @@ products:
     price: 4999
     capacity: "100回分"
     rating: 4.64
-    reviewCount: 801
+    reviewCount: 802
     features:
       - "炭入り凝固剤でにおい対策に配慮したセット"
       - "凝固剤と汚物袋がそろった構成"
@@ -233,7 +233,7 @@ products:
     price: 4999
     capacity: "100回分"
     rating: 4.59
-    reviewCount: 1346
+    reviewCount: 1347
     features:
       - "凝固剤と汚物袋がそろった災害用セット"
       - "超長期保存に対応し入れ替え頻度を抑えやすい"
@@ -266,7 +266,7 @@ products:
     price: 1380
     capacity: "20回分"
     rating: 4.52
-    reviewCount: 7212
+    reviewCount: 7215
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"

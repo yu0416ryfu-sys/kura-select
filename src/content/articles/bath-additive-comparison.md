@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バブ・�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "入浴剤 バラエティ詰め合わせ 100個セット"
@@ -123,7 +123,7 @@ products:
     capacity: "150g×6個（900g）"
     pricePerUnit: "約1.6円/g"
     rating: 4.43
-    reviewCount: 4317
+    reviewCount: 4319
     features:
       - "純度99%以上の硫酸マグネシウム配合"
       - "好みの香りを6種類から自由に選べる個包装"

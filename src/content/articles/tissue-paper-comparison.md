@@ -4,7 +4,7 @@ description: "ティッシュペーパーを1組あたりの価格で徹底比�
 category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "ハロー ソフトパックティッシュ"
@@ -29,50 +29,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Ffm1354%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10063482%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/life/life12/3m9496.jpg?_ex=128x128"
   - rank: 2
-    name: "Smart Yell ソフトパックティッシュ"
-    brand: "アイリスオーヤマ"
-    price: 3050
-    capacity: "150組×50個（7500組）"
-    pricePerUnit: "約0.41円/組"
-    rating: 4.55
-    reviewCount: 823
-    features:
-      - "家庭用に使いやすいティッシュペーパー"
-      - "箱タイプ・ソフトパックを選べる"
-      - "まとめ買いしやすい"
-    pros:
-      - "日用品としてストックしやすい"
-      - "容量比較がしやすい"
-      - "家族用に向く"
-    cons:
-      - "保管場所が必要"
-      - "紙質の好みは分かれる"
-    recommendedFor: "ティッシュペーパーを容量と単価で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7185802-cp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10207887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/7185802-cp.jpg?_ex=128x128"
-  - rank: 3
-    name: "フルール ソフトパックティッシュ"
-    brand: "フルール"
-    price: 6480
-    capacity: "200組×80個"
-    pricePerUnit: "約0.41円/組"
-    rating: 4.66
-    reviewCount: 1301
-    features:
-      - "家庭用に使いやすいティッシュペーパー"
-      - "箱タイプ・ソフトパックを選べる"
-      - "まとめ買いしやすい"
-    pros:
-      - "日用品としてストックしやすい"
-      - "容量比較がしやすい"
-      - "家族用に向く"
-    cons:
-      - "保管場所が必要"
-      - "紙質の好みは分かれる"
-    recommendedFor: "ティッシュペーパーを容量と単価で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnhsn.3rdw6b0b.g00tnhsn.3rdw755e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarubeni-pps%2Ffleur200w_out%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarubeni-pps%2Fi%2F10000013%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marubeni-pps/cabinet/biiino/item/main-image/1697420273121_1.jpg?_ex=128x128"
-  - rank: 4
     name: "スコッティ ティッシュペーパー フラワーボックス"
     brand: "日本製紙クレシア（スコッティ）"
     price: 7999
@@ -105,10 +61,10 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 5
+  - rank: 3
     name: "王子ネピア ネピネピ ティシュ 150組×5箱"
     brand: "ネピア"
-    price: 440
+    price: 445
     capacity: "150組×5箱（750組）"
     pricePerUnit: "約0.59円/組"
     rating: 5
@@ -127,14 +83,14 @@ products:
     recommendedFor: "ティッシュペーパーを容量と単価で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901121182889-today202504%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12642906%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2024v/4901121182889.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 4
     name: "クリネックス ティシュー 180組 5箱×12パック（60箱）"
     brand: "日本製紙クレシア（クリネックス）"
-    price: 6699
+    price: 6999
     capacity: "360枚×60箱（21600枚）"
-    pricePerUnit: "約0.62円/組"
+    pricePerUnit: "約0.65円/組"
     rating: 4.66
-    reviewCount: 140
+    reviewCount: 141
     features:
       - "世界的ブランド・クリネックスの定番品"
       - "厚みと柔らかさのバランスが優秀"
@@ -160,7 +116,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/raffine4147_seki111ed90b9d363"
         available: true
-  - rank: 7
+  - rank: 5
     name: "業務用ティッシュ POPティシュ200W 60箱"
     brand: "OneStep"
     price: 7968
@@ -182,7 +138,7 @@ products:
     recommendedFor: "ティッシュペーパーを容量と単価で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00saddn.3rdw6ebe.g00saddn.3rdw7146/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaicom-pack%2F190942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaicom-pack%2Fi%2F10023307%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaicom-pack/cabinet/adsum1/190942.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 6
     name: "プライベートブランド ティッシュ 200枚（100組）×60箱"
     brand: "業務用無地"
     price: 5760
@@ -204,14 +160,14 @@ products:
     recommendedFor: "大家族・オフィス・長期備蓄したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s581n.3rdw6f03.g00s581n.3rdw79ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-bomber-shop%2F251641002216000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpc-bomber-shop%2Fi%2F10124307%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-bomber-shop/cabinet/mastertool70/251641002216000.jpg?_ex=128x128"
-  - rank: 9
+  - rank: 7
     name: "エリエール ティシュー 200枚（100組）×12箱"
     brand: "大王製紙（エリエール）"
     price: 5705
     capacity: "200枚（100組）×12箱"
     pricePerUnit: "約4.8円/組"
     rating: 4.65
-    reviewCount: 694
+    reviewCount: 695
     features:
       - "パルプ100%の柔らかな2枚重ね"
       - "エリエールブランドの高品質"
@@ -226,7 +182,7 @@ products:
     recommendedFor: "肌触りを重視する方・子どものいる家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tiz9n.3rdw6353.g00tiz9n.3rdw771a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprotoolshop%2F4902011722734%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprotoolshop%2Fi%2F10006509%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/protoolshop/cabinet/734/4902011722734.jpg?_ex=128x128"
-  - rank: 10
+  - rank: 8
     name: "鼻セレブ ティッシュ 3個セット 引っ越し挨拶ギフト"
     brand: "日本製紙クレシア（鼻セレブ）"
     price: 1960
@@ -248,6 +204,50 @@ products:
     recommendedFor: "花粉症・風邪が多い方・デリケートな肌の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quq9n.3rdw60c1.g00quq9n.3rdw73f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-hachidai%2Ffba607%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-hachidai%2Fi%2F10558835%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-hachidai/cabinet/hirano/imgrc0127969155.jpg?_ex=128x128"
+  - rank: 9
+    name: "Smart Yell ソフトパックティッシュ"
+    brand: "アイリスオーヤマ"
+    price: 2640
+    capacity: "150組×50個（7500組）"
+    rating: 4.55
+    reviewCount: 825
+    features:
+      - "家庭用に使いやすいティッシュペーパー"
+      - "箱タイプ・ソフトパックを選べる"
+      - "まとめ買いしやすい"
+    pros:
+      - "日用品としてストックしやすい"
+      - "容量比較がしやすい"
+      - "家族用に向く"
+    cons:
+      - "保管場所が必要"
+      - "紙質の好みは分かれる"
+    recommendedFor: "ティッシュペーパーを容量と単価で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7185802-cp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10207887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/7185802-cp.jpg?_ex=128x128"
+    priceMax: 4301
+  - rank: 10
+    name: "フルール ソフトパックティッシュ"
+    brand: "フルール"
+    price: 1600
+    capacity: "200組×80個"
+    rating: 4.66
+    reviewCount: 1302
+    features:
+      - "家庭用に使いやすいティッシュペーパー"
+      - "箱タイプ・ソフトパックを選べる"
+      - "まとめ買いしやすい"
+    pros:
+      - "日用品としてストックしやすい"
+      - "容量比較がしやすい"
+      - "家族用に向く"
+    cons:
+      - "保管場所が必要"
+      - "紙質の好みは分かれる"
+    recommendedFor: "ティッシュペーパーを容量と単価で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnhsn.3rdw6b0b.g00tnhsn.3rdw755e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarubeni-pps%2Ffleur200w_out%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarubeni-pps%2Fi%2F10000013%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/marubeni-pps/cabinet/biiino/item/main-image/1697420273121_1.jpg?_ex=128x128"
+    priceMax: 6480
 tags:
   - "ティッシュペーパー"
   - "コスパ"

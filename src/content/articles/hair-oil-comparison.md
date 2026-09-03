@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 draft: false
 products:
   - rank: 1
@@ -123,7 +123,7 @@ products:
     price: 2962
     capacity: "150mL"
     rating: 4.55
-    reviewCount: 1095
+    reviewCount: 1096
     features:
       - "100%植物由来成分（スクワラン・アルガンオイル・ホホバオイル配合）"
       - "濡れ髪・乾いた髪どちらにも使えるアウトバスオイル"
@@ -177,7 +177,7 @@ products:
     price: 2280
     capacity: "80mL"
     rating: 4.64
-    reviewCount: 13783
+    reviewCount: 13788
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -210,7 +210,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4022
+    reviewCount: 4034
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"
@@ -243,7 +243,7 @@ products:
     price: 1100
     capacity: "75mL"
     rating: 4.75
-    reviewCount: 2909
+    reviewCount: 2912
     features:
       - "無香料タイプの洗い流さないヘアエッセンス（オイルタイプ）"
       - "天然由来成分配合でくせ毛・うねりに対応したしっとり仕上がり設計"

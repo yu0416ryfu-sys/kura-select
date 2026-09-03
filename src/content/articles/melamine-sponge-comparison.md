@@ -4,7 +4,7 @@ description: "メラミンスポンジを1個あたりのコストで比較。�
 category: "melamine-sponge"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-08-04"
+updatedAt: "2026-09-03"
 draft: false
 products:
   - rank: 1
@@ -175,9 +175,9 @@ products:
   - rank: 6
     name: "レック 激落ちくん メラミンスポンジ 工場用"
     brand: "レック（激落ちくん）"
-    price: 5000
+    price: 5320
     capacity: "120個"
-    pricePerUnit: "約42円/個"
+    pricePerUnit: "約44円/個"
     rating: 4.75
     reviewCount: 12
     features:
@@ -208,9 +208,9 @@ products:
   - rank: 7
     name: "激落ちくん メラミンスポンジ 6個セット"
     brand: "レック（激落ちくん）"
-    price: 719
+    price: 849
     capacity: "6個"
-    pricePerUnit: "約120円/個"
+    pricePerUnit: "約142円/個"
     rating: 4.77
     reviewCount: 13
     features:

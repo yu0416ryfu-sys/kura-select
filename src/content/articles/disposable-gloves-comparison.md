@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "ウイルカット プラスチックグローブ 100枚"
@@ -195,7 +195,7 @@ products:
   - rank: 7
     name: "ニトリルゴム手袋 パウダーフリー 100枚"
     brand: "厳選いいもの本舗"
-    price: 999
+    price: 1059
     capacity: "100枚"
     rating: 4.48
     reviewCount: 136
@@ -224,14 +224,14 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-    priceMax: 16950
+    priceMax: 17950
   - rank: 8
     name: "ニトリル手袋 パウダーフリー 医療対応"
     brand: "TKJP"
-    price: 1080
+    price: 1060
     capacity: "100枚"
     rating: 4.57
-    reviewCount: 3641
+    reviewCount: 3645
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -250,10 +250,10 @@ products:
   - rank: 9
     name: "ニトリル手袋 パウダーフリー 100枚"
     brand: "TRINITY COSME"
-    price: 1080
+    price: 1060
     capacity: "100枚"
-    rating: 4.7
-    reviewCount: 1444
+    rating: 4.71
+    reviewCount: 1448
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -279,7 +279,7 @@ products:
         reviewCount: 2262
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
         available: true
-    priceMax: 34800
+    priceMax: 34300
   - rank: 10
     name: "調理用ビニール使いきり極薄手袋"
     brand: "KAWANISHI"

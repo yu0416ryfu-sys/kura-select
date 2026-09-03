@@ -4,41 +4,9 @@ description: "コンディショナーを1mLあたりのコストで徹底比較
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-31"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
-    name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
-    brand: "クラシエ（いち髪）"
-    price: 1000
-    capacity: "660mL×2個（約6ヶ月分）"
-    pricePerUnit: "約0.76円/mL"
-    rating: 4.33
-    reviewCount: 9
-    features:
-      - "純・和草プレミアムエキス配合で髪のダメージを補修"
-      - "ノンシリコン処方でふんわり軽い仕上がり"
-      - "みずみずしい山桜の香りがシャンプーと統一感"
-    pros:
-      - "1mLあたり約0.76円と圧倒的コスパ"
-      - "同シリーズのシャンプーとセットで相乗効果"
-      - "ドラッグストアで手に入りやすい"
-    cons:
-      - "ダメージが強い髪にはやや物足りない"
-      - "しっとり感は控えめ"
-    recommendedFor: "コスパ重視の方・普通〜軽いダメージ髪の方・いち髪シャンプーと揃えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhm1n.3rdw621b.g00uhm1n.3rdw7ede/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep0104%2Fichikami-smth%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep0104%2Fi%2F10000229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep0104/cabinet/10645709/11494580/imgrc0187994441.jpg?_ex=128x128"
-    offers:
-      - provider: "amazon"
-        label: "Amazon（660g×1袋）"
-        asin: "B0B4RSGNRQ"
-        url: "https://www.amazon.co.jp/dp/B0B4RSGNRQ?tag=kuraselect-direct-22"
-        matchStatus: "matched"
-        matchConfidence: "medium"
-        matchedCapacity: "660g×1袋"
-        matchNotes: "入数違い採用（楽天は660mL×2個）"
-        updatedAt: "2026-07-16T00:00:00.000Z"
-  - rank: 2
     name: "エッセンシャル しっとりまとまる コンディショナー 詰替 1800mL"
     brand: "花王（エッセンシャル）"
     price: 1558
@@ -71,7 +39,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_590828"
         available: true
-  - rank: 3
+  - rank: 2
     name: "メリット コンディショナー つめかえ用【メリット】"
     brand: "花王（メリット）"
     price: 6600
@@ -104,7 +72,7 @@ products:
         available: true
         rating: 4.67
         reviewCount: 6
-  - rank: 4
+  - rank: 3
     name: "デミ ミレアム ヘアケア コンディショナー 1800mL"
     brand: "デミ"
     price: 1839
@@ -137,7 +105,7 @@ products:
         available: true
         rating: 4.65
         reviewCount: 17
-  - rank: 5
+  - rank: 4
     name: "アンナトゥモール モイストヘアコンディショナー 300ml 詰替"
     brand: "アンナトゥモール"
     price: 2860
@@ -170,7 +138,7 @@ products:
         available: true
         rating: 4.5
         reviewCount: 14
-  - rank: 6
+  - rank: 5
     name: "ケラスターゼ ディシプリン マスク オレオ リラックス"
     brand: "KERASTASE（ケラスターゼ）"
     price: 7040
@@ -203,7 +171,7 @@ products:
         reviewCount: 27
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_3474636636761-01"
         available: true
-  - rank: 7
+  - rank: 6
     name: "ラックス スーパーリッチシャイン ダメージリペア 補修コンディショナー つめかえ用 280g"
     brand: "ユニリーバ（LUX）"
     price: 448
@@ -236,7 +204,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tuuhan-tamashop_4902111773926"
         available: true
-  - rank: 8
+  - rank: 7
     name: "ホーユー レセ ソーダベースメイク ヘアコンディショナー 350g"
     brand: "ホーユー（レセ）"
     price: 1866
@@ -269,7 +237,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-  - rank: 9
+  - rank: 8
     name: "パルガ ヘアコンディショナー アクアリッチ 500g 詰替"
     brand: "パルガ"
     price: 4950
@@ -290,8 +258,8 @@ products:
       - "500g容量で頻繁な購入が必要"
     recommendedFor: "細い髪の方・サロン品質のコンディショナーを求める方・継続的なダメージケアを行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000013%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989115/parga_2026_ar500.jpg?_ex=128x128"
-  - rank: 10
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_ar500_p10.jpg?_ex=128x128"
+  - rank: 9
     name: "パルガ ヘアコンディショナー ソフトリッチR 500g 詰替"
     brand: "パルガ"
     price: 4950
@@ -312,7 +280,39 @@ products:
       - "一般流通が限られる"
     recommendedFor: "硬い髪の方・ふんわり感よりまとまりを求める方・継続的なケアを行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989115/parga_2026_sr500.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_sr500_p10.jpg?_ex=128x128"
+  - rank: 10
+    name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
+    brand: "クラシエ（いち髪）"
+    price: 1000
+    capacity: "660mL×2個（約6ヶ月分）"
+    rating: 4.33
+    reviewCount: 9
+    features:
+      - "純・和草プレミアムエキス配合で髪のダメージを補修"
+      - "ノンシリコン処方でふんわり軽い仕上がり"
+      - "みずみずしい山桜の香りがシャンプーと統一感"
+    pros:
+      - "1mLあたり約0.76円と圧倒的コスパ"
+      - "同シリーズのシャンプーとセットで相乗効果"
+      - "ドラッグストアで手に入りやすい"
+    cons:
+      - "ダメージが強い髪にはやや物足りない"
+      - "しっとり感は控えめ"
+    recommendedFor: "コスパ重視の方・普通〜軽いダメージ髪の方・いち髪シャンプーと揃えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhm1n.3rdw621b.g00uhm1n.3rdw7ede/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep0104%2Fichikami-smth%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep0104%2Fi%2F10000229%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep0104/cabinet/10645709/11494580/imgrc0187994441.jpg?_ex=128x128"
+    offers:
+      - provider: "amazon"
+        label: "Amazon（660g×1袋）"
+        asin: "B0B4RSGNRQ"
+        url: "https://www.amazon.co.jp/dp/B0B4RSGNRQ?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "medium"
+        matchedCapacity: "660g×1袋"
+        matchNotes: "入数違い採用（楽天は660mL×2個）"
+        updatedAt: "2026-07-16T00:00:00.000Z"
+    priceMax: 3580
 tags:
   - "コンディショナー"
   - "コスパ"

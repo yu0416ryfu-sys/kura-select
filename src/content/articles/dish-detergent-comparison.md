@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-08-28"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -106,39 +106,6 @@ products:
         rating: 4.64
         reviewCount: 98
   - rank: 4
-    name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
-    brand: "P&G（ジョイ）"
-    price: 2675
-    capacity: "4L"
-    pricePerUnit: "約0.67円/mL"
-    rating: 4.8
-    reviewCount: 60
-    features:
-      - "コンパクト処方で少量でもよく落ちる"
-      - "食洗機非対応・手洗い専用設計"
-      - "ジョイは洗浄力の強さで国内トップシェア"
-    pros:
-      - "1滴で驚くほどよく落ちるコンパクト処方"
-      - "P&Gブランドの安定した品質"
-      - "泡切れがよく後処理が楽"
-    cons:
-      - "キュキュットより若干価格が高め"
-      - "香りが強めと感じる方も"
-    recommendedFor: "洗浄力最優先の方・油の多い料理をする方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7269456%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10221021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasyakura/7269456.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftakuhaibin%2Fm7269456.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-19"
-        price: 2750
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/takuhaibin_m7269456"
-        available: true
-  - rank: 5
     name: "パックス 200番 台所用石けん 詰替用 2300mL×2本 2本セット"
     brand: "太陽油脂"
     price: 4550
@@ -160,7 +127,7 @@ products:
     recommendedFor: "台所用石けんを大容量でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pk2an.3rdw647a.g00pk2an.3rdw7456/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuyeki%2F395%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fuyeki%2Fi%2F10000474%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/uyeki/cabinet/syohin1/item01/packs/pax200_set2.jpg?_ex=128x128"
-  - rank: 6
+  - rank: 5
     name: "フロッシュ アロエベラ 食器用洗剤 1000mL×2本"
     brand: "フロッシュ（Werner & Mertz）"
     price: 2298
@@ -193,7 +160,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ifc-valuetrust_b07kzgjhtd20250718"
         available: true
-  - rank: 7
+  - rank: 6
     name: "ヤシノミ洗剤 野菜・食器用 つめかえ用 480mL"
     brand: "サラヤ（ヤシノミ洗剤）"
     price: 606
@@ -226,7 +193,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kireshop_a4973512320477"
         available: true
-  - rank: 8
+  - rank: 7
     name: "SOMALI 台所用石けん 詰替用 5000ml そまり 純石けん 無添加"
     brand: "木村石鹸（SOMALI）"
     price: 6600
@@ -259,7 +226,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 9
+  - rank: 8
     name: "IVORY DISH SOAP クラシック 食器用洗剤 709mL"
     brand: "IVORY"
     price: 980
@@ -281,6 +248,39 @@ products:
     recommendedFor: "海外ブランドの食器用洗剤を使ってみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q931n.3rdw6861.g00q931n.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftida-market%2F768628%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftida-market%2Fi%2F10000063%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tida-market/cabinet/ivorydishsoap.jpg?_ex=128x128"
+  - rank: 9
+    name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
+    brand: "P&G（ジョイ）"
+    price: 2675
+    capacity: "4L"
+    rating: 4.8
+    reviewCount: 60
+    features:
+      - "コンパクト処方で少量でもよく落ちる"
+      - "食洗機非対応・手洗い専用設計"
+      - "ジョイは洗浄力の強さで国内トップシェア"
+    pros:
+      - "1滴で驚くほどよく落ちるコンパクト処方"
+      - "P&Gブランドの安定した品質"
+      - "泡切れがよく後処理が楽"
+    cons:
+      - "キュキュットより若干価格が高め"
+      - "香りが強めと感じる方も"
+    recommendedFor: "洗浄力最優先の方・油の多い料理をする方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7269456%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10221021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasyakura/7269456.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftakuhaibin%2Fm7269456.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-19"
+        price: 2750
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/takuhaibin_m7269456"
+        available: true
+    priceMax: 2750
 tags:
   - "食器用洗剤"
   - "コスパ"

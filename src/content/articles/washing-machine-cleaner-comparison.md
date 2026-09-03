@@ -4,7 +4,7 @@ description: "洗濯槽クリーナーを1回あたりのコストで徹底比�
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "過炭酸ナトリウム 酸素系漂白剤 950g"
@@ -167,7 +167,7 @@ products:
     capacity: "200g×3個（3回分）"
     pricePerUnit: "約4.2円/g"
     rating: 4.64
-    reviewCount: 771
+    reviewCount: 772
     features:
       - "酵素と塩素系成分を組み合わせたクリーナー"
       - "縦型・ドラム式両対応の設計"
@@ -181,7 +181,7 @@ products:
       - "四国化成ブランドのため流通量が限られる場合がある"
     recommendedFor: "縦型・ドラム式どちらにも使える汎用品を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u9stn.3rdw63e2.g00u9stn.3rdw7c29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshikokukasei%2Fwadhmania02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshikokukasei%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shikokukasei/cabinet/washmania02/washmania01/imgrc0130728363.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shikokukasei/cabinet/pr/10955476/2609_rss_3.jpg?_ex=128x128"
   - rank: 8
     name: "洗濯槽快 10個セット 専用ネット付 ホタテ貝殻素材"
     brand: "くらし快適ショップ"

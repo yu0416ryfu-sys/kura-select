@@ -4,7 +4,7 @@ description: "コットンを1枚あたりのコストで徹底比較。シル�
 category: "cotton"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-08-02"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "業務用フェイシャルコットン エステ化粧用"
@@ -178,7 +178,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約9.9円/枚"
     rating: 4.75
-    reviewCount: 92
+    reviewCount: 93
     features:
       - "スキンケア向けの化粧用コットン"
       - "化粧水やふき取りケアに使いやすいタイプ"

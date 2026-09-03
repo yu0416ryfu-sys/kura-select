@@ -4,7 +4,7 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-08-26"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -207,9 +207,9 @@ products:
   - rank: 8
     name: "エコメイト 風呂釜クリーナー 6個セット"
     brand: "木村石鹸工業"
-    price: 7722
+    price: 8910
     capacity: "300g×6個（18回分）"
-    pricePerUnit: "約4.3円/g"
+    pricePerUnit: "約5.0円/g"
     rating: 4.6
     reviewCount: 379
     features:
@@ -227,11 +227,33 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F659544%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000660%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/ecomate_hgc_05.jpg?_ex=128x128"
   - rank: 9
+    name: "エコメイト 風呂釜クリーナー 3個セット"
+    brand: "木村石鹸工業"
+    price: 4702
+    capacity: "300g×3個（9回分）"
+    pricePerUnit: "約5.2円/g"
+    rating: 4.2
+    reviewCount: 666
+    features:
+      - "13年以上の実績を持つ植物由来の風呂釜クリーナー"
+      - "一つ穴・二つ穴両対応でほぼすべての風呂釜に使える"
+      - "天然成分100%でエコかつ洗浄力も確か"
+    pros:
+      - "植物由来で環境と体に優しい"
+      - "3個セットでまとめ買いコスパが良い"
+      - "24時間浸け置きで風呂釜の奥まで洗浄"
+    cons:
+      - "化学系クリーナーより洗浄力はおだやか"
+      - "1回分300gと使用量が多め"
+    recommendedFor: "自然派洗剤派の方・定期的に風呂釜洗浄したい方・エコ洗剤を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100000031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000033%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/ecomate_hgc_03.jpg?_ex=128x128"
+  - rank: 10
     name: "エコメイト 風呂釜クリーナー"
     brand: "木村石鹸工業"
-    price: 1386
+    price: 1650
     capacity: "300g（3回分）"
-    pricePerUnit: "約4.6円/g"
+    pricePerUnit: "約5.5円/g"
     rating: 4.55
     reviewCount: 325
     features:
@@ -259,28 +281,6 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 10
-    name: "エコメイト 風呂釜クリーナー 3個セット"
-    brand: "木村石鹸工業"
-    price: 4158
-    capacity: "300g×3個（9回分）"
-    pricePerUnit: "約4.6円/g"
-    rating: 4.2
-    reviewCount: 666
-    features:
-      - "13年以上の実績を持つ植物由来の風呂釜クリーナー"
-      - "一つ穴・二つ穴両対応でほぼすべての風呂釜に使える"
-      - "天然成分100%でエコかつ洗浄力も確か"
-    pros:
-      - "植物由来で環境と体に優しい"
-      - "3個セットでまとめ買いコスパが良い"
-      - "24時間浸け置きで風呂釜の奥まで洗浄"
-    cons:
-      - "化学系クリーナーより洗浄力はおだやか"
-      - "1回分300gと使用量が多め"
-    recommendedFor: "自然派洗剤派の方・定期的に風呂釜洗浄したい方・エコ洗剤を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100000031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000033%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/ecomate_hgc_03.jpg?_ex=128x128"
 tags:
   - "お風呂用洗剤"
   - "コスパ"

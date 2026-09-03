@@ -4,7 +4,7 @@ description: "オキシクリーンと過炭酸ナトリウム（酸素系漂白
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "3kg"
     pricePerUnit: "約0.38円/g"
     rating: 4.78
-    reviewCount: 822
+    reviewCount: 824
     features:
       - "過炭酸ナトリウム100%の大容量パック"
       - "洗濯槽掃除と衣類の漂白を想定した汎用タイプ"
@@ -47,7 +47,7 @@ products:
     capacity: "4.5kg"
     pricePerUnit: "約0.48円/g"
     rating: 4.84
-    reviewCount: 753
+    reviewCount: 754
     features:
       - "過炭酸ナトリウム100%の特大サイズ"
       - "洗濯槽掃除と浸け置き洗いを想定した容量"
@@ -80,7 +80,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.52円/g"
     rating: 4.71
-    reviewCount: 968
+    reviewCount: 969
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "添加物を加えていないシンプルな組成"
@@ -145,8 +145,8 @@ products:
     price: 3490
     capacity: "5.26kg"
     pricePerUnit: "約0.66円/g"
-    rating: 4.54
-    reviewCount: 187
+    rating: 4.52
+    reviewCount: 188
     features:
       - "アメリカ向け仕様のマルチパーパスクリーナー"
       - "界面活性剤と香料を配合した処方"
@@ -228,39 +228,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7112916%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10072715%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/thum/naosi/7112916.jpg?_ex=128x128"
   - rank: 8
-    name: "オキシクリーン 1500g 無香料 粉末タイプ"
-    brand: "グラフィコ（日本版）"
-    price: 1527
-    capacity: "1500g"
-    pricePerUnit: "約1.0円/g"
-    rating: 4.53
-    reviewCount: 1057
-    features:
-      - "日本国内向けに販売されている無香料タイプ"
-      - "界面活性剤と柔軟成分を配合していない処方"
-      - "計量スプーン付きで使用量を量りやすい"
-    pros:
-      - "香りが残らないため衣類や食器まわりにも使いやすい"
-      - "情報量が多く使い方を調べやすい定番品"
-      - "スーパーやドラッグストアでも入手しやすい"
-    cons:
-      - "純粋な過炭酸ナトリウム製品と比べると単価は上がりやすい"
-      - "泡立ちを期待すると物足りなく感じる場合がある"
-    recommendedFor: "まず定番から試したい方・無香料がよい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7091275%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10060922%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09344783/7091275-1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbrisk-online%2F20251011231548-00401.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-02"
-        price: 1395
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/brisk-online_20251011231548-00401"
-        available: true
-  - rank: 9
     name: "オキシクリーン つめかえ用 2000g 粉末タイプ"
     brand: "グラフィコ（日本版）"
     price: 2280
@@ -293,6 +260,39 @@ products:
         reviewCount: 36
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7180967"
         available: true
+  - rank: 9
+    name: "オキシクリーン 1500g 無香料 粉末タイプ"
+    brand: "グラフィコ（日本版）"
+    price: 1525
+    capacity: "1500g"
+    rating: 4.53
+    reviewCount: 1057
+    features:
+      - "日本国内向けに販売されている無香料タイプ"
+      - "界面活性剤と柔軟成分を配合していない処方"
+      - "計量スプーン付きで使用量を量りやすい"
+    pros:
+      - "香りが残らないため衣類や食器まわりにも使いやすい"
+      - "情報量が多く使い方を調べやすい定番品"
+      - "スーパーやドラッグストアでも入手しやすい"
+    cons:
+      - "純粋な過炭酸ナトリウム製品と比べると単価は上がりやすい"
+      - "泡立ちを期待すると物足りなく感じる場合がある"
+    recommendedFor: "まず定番から試したい方・無香料がよい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7091275%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10060922%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09344783/7091275-1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbrisk-online%2F20251011231548-00401.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-02"
+        price: 1395
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/brisk-online_20251011231548-00401"
+        available: true
+    priceMax: 7980
 tags:
   - "オキシクリーン 比較"
   - "過炭酸ナトリウム コスパ"

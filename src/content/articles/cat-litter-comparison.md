@@ -4,7 +4,7 @@ description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペ
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 draft: false
 products:
   - rank: 1
@@ -28,7 +28,7 @@ products:
       - "好みによっては紙独特の使用感が気になる場合がある"
     recommendedFor: "猫の健康チェックや軽量・廃棄の手軽さを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10005169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10005169%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo10/r985_00028.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo12/r1043_00028.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -47,7 +47,7 @@ products:
     capacity: "7L×6袋（42L）"
     pricePerUnit: "約88円/L"
     rating: 4.21
-    reviewCount: 5679
+    reviewCount: 5680
     features:
       - "アイリスオーヤマ製のペレットタイプ紙製猫砂"
       - "燃えるゴミとして廃棄可能・トイレへの廃棄にも対応"
@@ -94,7 +94,7 @@ products:
       - "流す際は一度に大量に流さないよう注意が必要"
     recommendedFor: "国産・植物系素材で手軽に処理できる猫砂を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10014011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10014011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo10/r985_00224.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo12/r1043_00229.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -190,7 +190,7 @@ products:
     capacity: "5L×4袋（20L）"
     pricePerUnit: "約176円/L"
     rating: 4.69
-    reviewCount: 2421
+    reviewCount: 2422
     features:
       - "ベントナイト鉱物系・固まるタイプの消臭猫砂"
       - "大手メーカーライオンによる消臭設計"
@@ -222,7 +222,7 @@ products:
     price: 2680
     capacity: "5L×4袋（20L）"
     rating: 4.61
-    reviewCount: 1958
+    reviewCount: 1959
     features:
       - "ベントナイト鉱物系・ペレットタイプの固まる猫砂"
       - "抗菌・脱臭機能付きで衛生管理を考慮した設計"
@@ -254,8 +254,8 @@ products:
     brand: "クリーンビート"
     price: 4430
     capacity: "7L×4袋"
-    rating: 4.82
-    reviewCount: 50
+    rating: 4.8
+    reviewCount: 51
     features:
       - "大豆粕（おから）由来の植物系猫砂"
       - "トイレに流せる・燃えるゴミに出せる"
@@ -277,7 +277,7 @@ products:
     price: 4380
     capacity: "6L×3個（18L）"
     rating: 4.68
-    reviewCount: 1952
+    reviewCount: 1956
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"

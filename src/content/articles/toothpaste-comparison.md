@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-02"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "システマ ハグキプラスW ハミガキ 95g"
@@ -35,7 +35,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 11014
+    reviewCount: 11016
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -145,7 +145,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約24円/g"
     rating: 4.6
-    reviewCount: 799
+    reviewCount: 801
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -221,7 +221,7 @@ products:
     price: 2580
     capacity: "120g"
     rating: 4.47
-    reviewCount: 2329
+    reviewCount: 2330
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"

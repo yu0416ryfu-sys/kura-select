@@ -4,7 +4,7 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-03"
 products:
   - rank: 1
     name: "ダスキン 台所用スポンジ 抗菌タイプ 6個セット"
@@ -13,7 +13,7 @@ products:
     capacity: "6個（約6ヶ月分）"
     pricePerUnit: "約177円/個"
     rating: 4.78
-    reviewCount: 9888
+    reviewCount: 9889
     features:
       - "3層構造で泡立ち・水切れ・耐久性を両立"
       - "楽天レビュー数トップクラスの圧倒的人気"
@@ -46,7 +46,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.76
-    reviewCount: 1390
+    reviewCount: 1391
     features:
       - "ポリウレタンフォーム＋ナイロン不織布＋ポリエステルの3素材構造"
       - "ブラック・グレー・ホワイトのモノトーン3色展開"
