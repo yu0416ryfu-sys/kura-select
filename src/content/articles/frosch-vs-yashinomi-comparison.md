@@ -40,13 +40,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2877035017"
         available: true
   - rank: 2
-    name: "フロッシュ 食器用洗剤 アロエヴェラ 詰替 800mL"
+    name: "フロッシュ 食器用洗剤 アロエヴェラ 詰替 800mL×2個"
     brand: "フロッシュ（Werner & Mertz）"
-    price: 763
-    capacity: "800mL"
-    pricePerUnit: "約0.95円/mL"
-    rating: 0
-    reviewCount: 0
+    price: 1144
+    capacity: "800mL×2個"
+    pricePerUnit: "約0.71円/mL"
+    rating: 5
+    reviewCount: 1
     features:
       - "アロエベラ配合の低刺激処方"
       - "詰め替えパック仕様で手持ちのボトルを再利用できる"
@@ -59,14 +59,14 @@ products:
       - "野菜・果物の洗浄には使えない"
       - "香りつきのため無香料を求める方には向かない"
     recommendedFor: "手肌への配慮と環境配慮を両立しつつ、香りやデザインも楽しみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6rrn.3rdw6fe6.g00u6rrn.3rdw7f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaidora%2F4901670116915%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaidora%2Fi%2F10027526%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maidora/cabinet/item_images/drug_cosmetic_15/4901670116915.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pm62n.3rdw619c.g00pm62n.3rdw7751/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flamd%2F49016701169152%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flamd%2Fi%2F10141617%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lamd/cabinet/set12/4901670116915.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F1630136.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        matchStatus: "review"
+        updatedAt: "2026-09-04"
         price: 690
         rating: 0
         reviewCount: 0

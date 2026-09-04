@@ -43,11 +43,11 @@ products:
   - rank: 2
     name: "マドンナリリ ヘアオイル 100mL"
     brand: "MADONNA LILI"
-    price: 3840
+    price: 3042
     capacity: "100mL"
-    pricePerUnit: "約38円/mL"
-    rating: 4.58
-    reviewCount: 5304
+    pricePerUnit: "約30円/mL"
+    rating: 0
+    reviewCount: 0
     features:
       - "天然植物由来成分100%・無添加処方（パラベン・シリコン・鉱物油不使用）"
       - "アルガンオイルなど天然オイル配合のさらさら軽め仕上がり"
@@ -60,8 +60,8 @@ products:
       - "シリコン系ほどのコーティング感・まとまり感は出にくい"
       - "天然由来の香りのため、香りの強さが人によって合わない場合がある"
     recommendedFor: "無添加・天然由来成分にこだわりたい人・軽いさらさら仕上がりを好む人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ulahn.3rdw62d3.g00ulahn.3rdw7299/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1000cut-carpediem%2Fb08svn8ww7%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1000cut-carpediem%2Fi%2F10149741%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1000cut-carpediem/cabinet/rakub210_0064/b08svn8ww700.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uv5fn.3rdw6da4.g00uv5fn.3rdw7cbd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhousing-reformfair%2Fb07gp854c1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhousing-reformfair%2Fi%2F10123292%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/housing-reformfair/cabinet/rakuv269_0005/b07gp854c100.jpg?_ex=128x128"
   - rank: 3
     name: "精製ホホバオイル クリア"
     brand: "自然化粧品研究所"

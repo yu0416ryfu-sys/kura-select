@@ -30,27 +30,27 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5rln.3rdw693c.g00s5rln.3rdw7066/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faoakua%2F10000252%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faoakua%2Fi%2F10000252%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aoakua/cabinet/06495854/imgrc0105402366.jpg?_ex=128x128"
   - rank: 2
-    name: "オーラルB フレキシソフト互換ブラシ"
-    brand: "INK HOUSE"
-    price: 1538
-    capacity: "16本"
-    pricePerUnit: "約96円/本"
-    rating: 0
-    reviewCount: 0
+    name: "ブラウン オーラルB EB17 対応 互換替えブラシ 32本"
+    brand: "ビューティーブリッジ（オーラルB 互換品）"
+    price: 2574
+    capacity: "32本"
+    pricePerUnit: "約80円/本"
+    rating: 4.32
+    reviewCount: 182
     features:
-      - "電動歯ブラシ用の交換ブラシ"
-      - "対応機種を確認して選ぶ替えブラシタイプ"
-      - "ストックしやすい複数本セット"
+      - "オーラルB EB17 / SB-17A 対応の非純正互換ブラシ"
+      - "8セット合計32本の大容量パック"
+      - "レビュー件数が多く選ばれている互換品"
     pros:
       - "既存候補と比較して選択肢を広げやすい"
       - "ストックや日常使いの候補として検討しやすい"
       - "用途や好みに合わせて比較表で確認しやすい"
     cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
+      - "非純正品のため純正と使用感や耐久性が異なる場合がある"
+      - "io シリーズには使用できないなど対応機種の確認が必要"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ufykn.3rdw68d3.g00ufykn.3rdw7ff4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fink-house%2F208522-1008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fink-house%2Fi%2F10000604%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/ink-house/images/brushHead/208522-1008/208522-1008.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6l1n.3rdw6f6f.g00r6l1n.3rdw7918/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyhair%2Foral-b-8set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyhair%2Fi%2F10005265%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyhair/cabinet/mbimg/eb17-32m01.jpg?_ex=128x128"
   - rank: 3
     name: "オーラルB互換 替えブラシ 16本セット"
     brand: "互換品（非純正）"

@@ -7,7 +7,8 @@
 //   4. capacity（数量）が実出品名から読み取れる容量と一致しているか
 //   5. その商品が記事のカテゴリ検索ルールに適合するか（本番と同じ stage1/2/4 ガード）
 //
-// 使い方: node --experimental-strip-types scripts/audit-rank1.mjs
+// 使い方: node --experimental-strip-types scripts/audit-rank1.mjs [--rank=2] [--slug=a,b]
+//   --rank は監査対象の順位（既定 1）。出力は reports/rank1-audit/rank<N>-audit-<実行日>.json
 // 出力:   reports/rank1-audit/rank1-audit-<実行日>.json / .md
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'fs';
 import path from 'path';
@@ -167,6 +168,11 @@ for (const file of listArticleFiles(ARTICLES_DIR)) {
   categoryCounts.set(category, (categoryCounts.get(category) ?? 0) + 1);
   articles.push({ slug, relative, fileName: path.basename(file), title: extractArticleTitle(content) ?? '', category, content });
 }
+const TARGET_RANK = Number(process.argv.find((a) => a.startsWith('--rank='))?.split('=')[1] ?? 1);
+if (!Number.isInteger(TARGET_RANK) || TARGET_RANK < 1) {
+  console.error('--rank は1以上の整数で指定してください');
+  process.exit(1);
+}
 const SLUG_FILTER = process.argv.find((a) => a.startsWith('--slug='))?.split('=').slice(1).join('=') ?? null;
 if (SLUG_FILTER) {
   const wanted = new Set(SLUG_FILTER.split(','));
@@ -178,20 +184,22 @@ const results = [];
 let n = 0;
 for (const a of articles) {
   n++;
-  const snap = extractProductSnapshotByRank(a.content, 1);
+  const snap = extractProductSnapshotByRank(a.content, TARGET_RANK);
   const row = {
     slug: a.slug,
     category: a.category,
     title: a.title,
+    rank: TARGET_RANK,
+    // レポート側（audit-rank1-report.mjs）が読むキー名。rank を変えても互換のため名前は据え置く
     rank1Name: snap?.name ?? null,
     price: snap?.price ?? null,
     capacity: snap?.capacity ?? null,
     rakutenUrl: snap?.rakutenUrl ?? null,
   };
   if (!snap) {
-    row.status = 'no-rank1';
+    row.status = 'no-rank';
     results.push(row);
-    console.error('[' + n + '/' + articles.length + '] ' + a.slug + ': 1位商品なし');
+    console.error('[' + n + '/' + articles.length + '] ' + a.slug + ': ' + TARGET_RANK + '位商品なし');
     continue;
   }
   const ref = parseRakutenItemUrl(snap.rakutenUrl);
@@ -238,7 +246,7 @@ for (const a of articles) {
     articlesInCategory: categoryCounts.get(a.category) ?? 1,
     products: extractAllProductsData(a.content).map((p) => {
       const s = p.rank != null ? extractProductSnapshotByRank(a.content, p.rank) : null;
-      const isRank1 = p.rank === 1;
+      const isRank1 = p.rank === TARGET_RANK;
       return {
         slug: a.slug,
         articleFile: a.relative,
@@ -252,7 +260,7 @@ for (const a of articles) {
       };
     }),
   });
-  const f1 = fit.findings.find((f) => f.rank === 1);
+  const f1 = fit.findings.find((f) => f.rank === TARGET_RANK);
   row.baseKeyword = fit.baseKeyword;
   row.ruleMissing = fit.ruleMissing;
   row.fitCode = f1?.code ?? null;
@@ -272,6 +280,6 @@ for (const a of articles) {
 const outDir = path.join(ROOT, 'reports/rank1-audit');
 mkdirSync(outDir, { recursive: true });
 const today = new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Tokyo' }).format(new Date());
-const jsonPath = path.join(outDir, 'rank1-audit-' + today + '.json');
+const jsonPath = path.join(outDir, 'rank' + TARGET_RANK + '-audit-' + today + '.json');
 writeFileSync(jsonPath, JSON.stringify({ today, results }, null, 2), 'utf-8');
 console.error('出力: ' + path.relative(ROOT, jsonPath));
