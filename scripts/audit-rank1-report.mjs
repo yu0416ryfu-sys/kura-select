@@ -13,6 +13,8 @@ const jsonPath = arg
   ? path.resolve(ROOT, arg)
   : path.join(DIR, readdirSync(DIR).filter((f) => f.endsWith('.json')).sort().pop());
 const { today, results } = JSON.parse(readFileSync(jsonPath, 'utf-8'));
+// 監査対象の順位（audit-rank1.mjs --rank=N）。rank を持たない旧 JSON は 1 位として扱う
+const RANK = results.find((r) => r.rank != null)?.rank ?? 1;
 
 /** 比較用に同系単位へ寄せる（kg→g / L→mL、大文字小文字の揺れも吸収） */
 function norm(total) {
@@ -68,10 +70,10 @@ const problem = (r) =>
 const esc = (s) => String(s ?? '').replace(/\|/g, '\\|');
 
 const lines = [];
-lines.push('# 1位商品の実地照合レポート（' + today + '）');
+lines.push('# ' + RANK + '位商品の実地照合レポート（' + today + '）');
 lines.push('');
 lines.push('- データ元: 楽天市場 Search API（記事の rakutenUrl から shopCode/itemCode を取り出し、その実商品と照合）');
-lines.push('- 対象: comparison 記事 ' + results.length + ' 本の rank 1 商品');
+lines.push('- 対象: comparison 記事 ' + results.length + ' 本の rank ' + RANK + ' 商品');
 lines.push('');
 
 const found = results.filter((r) => r.status === 'found');
@@ -93,7 +95,7 @@ for (const [k, v] of Object.entries(counts)) lines.push('| ' + k + ' | ' + v + '
 lines.push('| 全項目クリア | ' + results.filter((r) => !problem(r)).length + ' |');
 lines.push('');
 
-const header = '| 記事 | 1位商品（記事） | リンク先商品名（楽天実データ） | リンク一致 | 金額 | 数量 | カテゴリ適合 |';
+const header = '| 記事 | ' + RANK + '位商品（記事） | リンク先商品名（楽天実データ） | リンク一致 | 金額 | 数量 | カテゴリ適合 |';
 const sep = '|---|---|---|---|---|---|---|';
 
 lines.push('## 要確認（いずれかに不一致あり）');
