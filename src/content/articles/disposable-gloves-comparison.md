@@ -231,7 +231,7 @@ products:
     price: 1050
     capacity: "100枚"
     rating: 4.57
-    reviewCount: 3648
+    reviewCount: 3649
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"

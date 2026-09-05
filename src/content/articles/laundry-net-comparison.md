@@ -4,7 +4,7 @@ description: "洗濯ネットおすすめ10選をコスパ・用途別に比較�
 category: "laundry-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-08-16"
+updatedAt: "2026-09-05"
 draft: false
 products:
   - rank: 1
@@ -120,9 +120,9 @@ products:
   - rank: 5
     name: "5枚セット洗濯ネット 大中小 角型 筒型"
     brand: "YHBOX"
-    price: 2599
+    price: 2399
     capacity: "5枚（大1・中1・小1・ブラジャー用1・筒型1）"
-    pricePerUnit: "約520円/枚"
+    pricePerUnit: "約480円/枚"
     rating: 0
     reviewCount: 0
     features:

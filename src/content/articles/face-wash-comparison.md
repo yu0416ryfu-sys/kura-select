@@ -156,7 +156,7 @@ products:
     capacity: "150g×2点（300g）"
     pricePerUnit: "約21円/g"
     rating: 4.45
-    reviewCount: 3806
+    reviewCount: 3807
     features:
       - "炭酸泡タイプの洗顔・パック兼用アイテム"
       - "コラーゲン・ヒアルロン酸など複数の保湿成分を配合"

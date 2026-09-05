@@ -144,7 +144,7 @@ products:
     price: 770
     capacity: "1個"
     rating: 4.66
-    reviewCount: 242
+    reviewCount: 243
     features:
       - "繰り返し使える保冷剤タイプ"
       - "保冷バッグやクーラーボックスに入れやすい形状"

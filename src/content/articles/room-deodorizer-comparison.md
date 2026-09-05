@@ -13,7 +13,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1265円/kg"
     rating: 4.79
-    reviewCount: 3033
+    reviewCount: 3034
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -35,7 +35,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1396円/kg"
     rating: 4.68
-    reviewCount: 1652
+    reviewCount: 1653
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"

@@ -254,7 +254,7 @@ products:
     price: 3080
     capacity: "50g"
     rating: 4.84
-    reviewCount: 3829
+    reviewCount: 3832
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

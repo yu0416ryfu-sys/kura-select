@@ -178,7 +178,7 @@ products:
     price: 4999
     capacity: "100回分"
     rating: 4.64
-    reviewCount: 802
+    reviewCount: 803
     features:
       - "炭入り凝固剤でにおい対策に配慮したセット"
       - "凝固剤と汚物袋がそろった構成"
@@ -233,7 +233,7 @@ products:
     price: 4999
     capacity: "100回分"
     rating: 4.59
-    reviewCount: 1347
+    reviewCount: 1348
     features:
       - "凝固剤と汚物袋がそろった災害用セット"
       - "超長期保存に対応し入れ替え頻度を抑えやすい"

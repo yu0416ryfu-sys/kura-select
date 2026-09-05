@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ10選を1枚あた
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-05"
 draft: false
 products:
   - rank: 1
@@ -102,7 +102,7 @@ products:
     capacity: "18枚"
     pricePerUnit: "約22円/枚"
     rating: 4.68
-    reviewCount: 116
+    reviewCount: 117
     features:
       - "サンリオキャラクターズをデザインした絆創膏"
       - "複数柄がセットになったアソートタイプ"
