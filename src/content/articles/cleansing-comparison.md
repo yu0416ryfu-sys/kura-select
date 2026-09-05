@@ -64,11 +64,11 @@ products:
   - rank: 3
     name: "manyo ピュアクレンジングオイル ディープクリーン 200mL"
     brand: "manyo"
-    price: 2200
+    price: 2190
     capacity: "200mL"
     pricePerUnit: "約11円/mL"
-    rating: 4.62
-    reviewCount: 95
+    rating: 4.75
+    reviewCount: 8
     features:
       - "植物由来オイルを配合したクレンジングオイル"
       - "200mLの標準サイズ"
@@ -81,8 +81,8 @@ products:
       - "大容量タイプより1mL単価は上がりやすい"
       - "韓国からの配送で時間がかかる場合がある"
     recommendedFor: "manyoのクレンジングをまず試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdwjn.3rdw6201.g00tdwjn.3rdw7cc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmanyo-official%2Fma104%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmanyo-official%2Fi%2F10000269%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/manyo-official/cabinet/13371190/13371231/imgrc0134383104.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ttfqn.3rdw6749.g00ttfqn.3rdw728e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F683street%2Fman_oil200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F683street%2Fi%2F10001315%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/683street/cabinet/manyofactory/13028679/imgrc0128856003.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

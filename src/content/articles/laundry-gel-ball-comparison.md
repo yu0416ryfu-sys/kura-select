@@ -73,33 +73,33 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_2620600"
         available: true
   - rank: 3
-    name: "ボールド 太陽のジェルボール4in1 ホワイトラベンダー＆ジャスミン 詰め替え テラジャンボ"
+    name: "ボールド 太陽のジェルボール4in1 Yoruのホワイトラベンダー＆ジャスミン 詰め替え 55個"
     brand: "P&G（ボールド）"
-    price: 3150
-    capacity: "86個"
-    pricePerUnit: "約37円/個"
-    rating: 5
-    reviewCount: 1
+    price: 1745
+    capacity: "55個"
+    pricePerUnit: "約32円/個"
+    rating: 0
+    reviewCount: 0
     features:
       - "洗浄・消臭・柔軟・香り持続を1粒にまとめた4in1"
       - "ラベンダーとジャスミンを合わせた落ち着いた香り"
-      - "テラジャンボサイズで1個あたりの単価を抑えた詰め替え"
+      - "詰め替えパックで1個あたりの単価を抑えやすい"
     pros:
       - "1粒でも香りがしっかり立つので柔軟剤の追加がいらない"
       - "チャック付きの袋で開封後も匂いがもれにくい"
       - "立てて置ける袋形状で棚の場所を取りにくい"
     cons:
       - "無香が好みの人には香りが主張して感じられる"
-      - "袋が大きいぶん買い置き先の棚の高さを選ぶ"
+      - "1袋あたりの個数は大容量パックより少ない"
     recommendedFor: "柔軟剤なしで香りを完結させたい方・夜洗濯や部屋干しが多い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987176292759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10151166%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202505_3/4987176292759.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tr3yn.3rdw6682.g00tr3yn.3rdw7309/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpayoff%2Fpk08204%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpayoff%2Fi%2F10115877%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/payoff/cabinet/sale3_muryou_08/b08204.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176292759.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
+        matchStatus: "review"
+        updatedAt: "2026-09-05"
         price: 4327
         rating: 0
         reviewCount: 0
