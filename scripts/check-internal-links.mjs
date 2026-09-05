@@ -23,6 +23,8 @@ import {
   suggestLinkSources,
   formatLinkReport,
 } from './lib/internal-links.ts';
+// 凍結台帳の読み取りは scripts/lib/measurement-holds.ts に集約（check-genre-fit.mjs と共用）
+import { loadHolds } from './lib/measurement-holds.ts';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -92,27 +94,6 @@ function collectArticleMeta() {
   return map;
 }
 
-/**
- * 凍結台帳を読む。未整備なら available:false で動かす。
- * 台帳が単一の正になるまでは、実際にリンクを足す前にメモリ側を必ず確認すること。
- */
-function loadHolds() {
-  if (!existsSync(HOLDS_PATH)) return { frozenSlugs: new Set(), available: false };
-  try {
-    const parsed = JSON.parse(readFileSync(HOLDS_PATH, 'utf-8'));
-    const rows = Array.isArray(parsed) ? parsed : (parsed.holds ?? []);
-    const today = todayJst();
-    const frozen = rows
-      .filter(row => !row.releaseDate || String(row.releaseDate) > today)
-      .flatMap(row => (Array.isArray(row.slugs) ? row.slugs : [row.slug]))
-      .filter(Boolean);
-    return { frozenSlugs: new Set(frozen), available: true };
-  } catch (error) {
-    console.error(`data/measurement-holds.json の読み込みに失敗: ${error instanceof Error ? error.message : error}`);
-    return { frozenSlugs: new Set(), available: false };
-  }
-}
-
 function main() {
   const options = { json: process.argv.includes('--json') };
 
@@ -133,7 +114,7 @@ function main() {
   const pages = built.map(({ slug, indexPath }) => extractPageLinks(slug, readFileSync(indexPath, 'utf-8')));
   const graph = buildLinkGraph(pages);
   const summary = summarizeLinks(graph);
-  const holds = loadHolds();
+  const holds = loadHolds(HOLDS_PATH);
   const suggestions = suggestLinkSources(graph.stats, collectArticleMeta(), holds);
 
   const today = todayJst();

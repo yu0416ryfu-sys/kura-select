@@ -39,6 +39,11 @@ const productSchema = z.object({
   recommendedFor: z.string(),
   rakutenUrl: z.string().url(),
   imageUrl: z.string().optional(),
+  /**
+   * 楽天が商品に付けたジャンルID。カテゴリ混入検出の第2証拠に使う運用メタデータで、
+   * 表示・JSON-LD には出さない。update-products が API レスポンスから書き込む。
+   */
+  genreId: z.string().optional(),
   offers: z.array(offerSchema).optional(),
 });
 

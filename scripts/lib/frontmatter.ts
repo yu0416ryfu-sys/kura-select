@@ -118,6 +118,45 @@ export interface ProductUpdates {
   clearVariantPrice?: boolean;
   newName?: string;     // name フィールドを置き換え（検索キーワード兼用）
   newCapacity?: string; // capacity フィールドを置き換え
+  /** 楽天ジャンルID。null / undefined / 空文字はいずれも「更新しない」 */
+  genreId?: string | null;
+}
+
+/**
+ * genreId を文字列に正規化する。
+ * yaml は `genreId: 216044`（引用なし）を number としてパースするため、
+ * 手書きされた記事や過去データが number で入りうる。読み取り側で必ず通す。
+ */
+export function normalizeGenreId(value: unknown): string | null {
+  if (typeof value === 'string') return value.trim() || null;
+  if (typeof value === 'number' && Number.isFinite(value)) return String(value);
+  return null;
+}
+
+/**
+ * updates を product オブジェクトへ適用する。
+ * updateProductInFrontmatter と updateProductInFrontmatterByRank の共通処理。
+ * null / undefined / 空文字はいずれも「更新しない」（undefined を代入すると
+ * yaml.dump がキーごと落とし、price 等の必須フィールドが消える）。
+ */
+function applyProductUpdates(product: Record<string, unknown>, updates: ProductUpdates): void {
+  if (updates.price != null)         product.price = updates.price;
+  if (updates.rating != null)        product.rating = updates.rating;
+  if (updates.reviewCount != null)   product.reviewCount = updates.reviewCount;
+  if (updates.affiliateUrl)          product.rakutenUrl = updates.affiliateUrl;
+  if (updates.imageUrl)              product.imageUrl = updates.imageUrl;
+  if (updates.pricePerUnit != null)  product.pricePerUnit = updates.pricePerUnit;
+  if (updates.priceMax != null) {
+    product.priceMax = updates.priceMax;
+    delete product.pricePerUnit;   // 価格帯商品は単価を持たない
+  }
+  if (updates.clearVariantPrice) {
+    delete product.priceMax;
+  }
+  if (updates.newName)               product.name = updates.newName;
+  if (updates.newCapacity)           product.capacity = updates.newCapacity;
+  // 空文字は「取得できなかった」と同義なので書き込まない（既存値を消さない）
+  if (updates.genreId)               product.genreId = updates.genreId;
 }
 
 /**
@@ -135,23 +174,7 @@ export function updateProductInFrontmatter(
   const product = (parsed.data.products as P[]).find(p => p.name === productName);
   if (!product) return content;
 
-  // null / undefined はいずれも「更新しない」。undefined を代入すると
-  // yaml.dump がキーごと落とし、price 等の必須フィールドが消える
-  if (updates.price != null)         product.price = updates.price;
-  if (updates.rating != null)        product.rating = updates.rating;
-  if (updates.reviewCount != null)   product.reviewCount = updates.reviewCount;
-  if (updates.affiliateUrl)          product.rakutenUrl = updates.affiliateUrl;
-  if (updates.imageUrl)              product.imageUrl = updates.imageUrl;
-  if (updates.pricePerUnit != null)  product.pricePerUnit = updates.pricePerUnit;
-  if (updates.priceMax != null) {
-    product.priceMax = updates.priceMax;
-    delete product.pricePerUnit;   // 価格帯商品は単価を持たない
-  }
-  if (updates.clearVariantPrice) {
-    delete product.priceMax;
-  }
-  if (updates.newName)               product.name = updates.newName;
-  if (updates.newCapacity)           product.capacity = updates.newCapacity;
+  applyProductUpdates(product, updates);
 
   return dumpFrontmatter(parsed.data, parsed.body);
 }
@@ -168,6 +191,8 @@ export interface ProductSnapshot {
   imageUrl: string | null;
   capacity: string | null;
   pricePerUnit: string | null;
+  /** 楽天ジャンルID。未取得の商品は null */
+  genreId: string | null;
 }
 
 export function extractProductSnapshot(content: string, productName: string): ProductSnapshot | null {
@@ -189,6 +214,7 @@ export function extractProductSnapshot(content: string, productName: string): Pr
     imageUrl: typeof product.imageUrl === 'string' ? product.imageUrl : null,
     capacity: typeof product.capacity === 'string' ? product.capacity : null,
     pricePerUnit: typeof product.pricePerUnit === 'string' ? product.pricePerUnit : null,
+    genreId: normalizeGenreId(product.genreId),
   };
 }
 
@@ -214,6 +240,7 @@ export function extractProductSnapshotByRank(content: string, rank: number): Pro
     imageUrl: typeof product.imageUrl === 'string' ? product.imageUrl : null,
     capacity: typeof product.capacity === 'string' ? product.capacity : null,
     pricePerUnit: typeof product.pricePerUnit === 'string' ? product.pricePerUnit : null,
+    genreId: normalizeGenreId(product.genreId),
   };
 }
 
@@ -268,22 +295,7 @@ export function updateProductInFrontmatterByRank(
   }
 
   const before = extractProductSnapshotByRank(content, normalizedRank) ?? undefined;
-  // null / undefined はいずれも「更新しない」（updateProductInFrontmatter と同じ扱い）
-  if (updates.price != null)         product.price = updates.price;
-  if (updates.rating != null)        product.rating = updates.rating;
-  if (updates.reviewCount != null)   product.reviewCount = updates.reviewCount;
-  if (updates.affiliateUrl)          product.rakutenUrl = updates.affiliateUrl;
-  if (updates.imageUrl)              product.imageUrl = updates.imageUrl;
-  if (updates.pricePerUnit != null)  product.pricePerUnit = updates.pricePerUnit;
-  if (updates.priceMax != null) {
-    product.priceMax = updates.priceMax;
-    delete product.pricePerUnit;   // 価格帯商品は単価を持たない
-  }
-  if (updates.clearVariantPrice) {
-    delete product.priceMax;
-  }
-  if (updates.newName)               product.name = updates.newName;
-  if (updates.newCapacity)           product.capacity = updates.newCapacity;
+  applyProductUpdates(product, updates);
 
   const nextContent = dumpFrontmatter(parsed.data, parsed.body);
   const after = extractProductSnapshotByRank(nextContent, normalizedRank) ?? undefined;
@@ -1437,6 +1449,7 @@ export function syncPricePerUnitWithPolicy(
       imageUrl: typeof product.imageUrl === 'string' ? product.imageUrl : null,
       capacity: typeof product.capacity === 'string' ? product.capacity : null,
       pricePerUnit: typeof product.pricePerUnit === 'string' ? product.pricePerUnit : null,
+      genreId: normalizeGenreId(product.genreId),
     };
     if (skipProduct?.(snapshot)) continue;
     const price = typeof product.price === 'number' ? product.price : null;
@@ -1573,6 +1586,8 @@ export interface ProductBasicData {
   capacity: string | null;
   reviewCount: number | null;
   rakutenUrl: string;
+  /** 楽天ジャンルID。未取得の商品は null */
+  genreId: string | null;
 }
 
 export function extractAllProductsData(content: string): ProductBasicData[] {
@@ -1589,6 +1604,7 @@ export function extractAllProductsData(content: string): ProductBasicData[] {
         capacity: typeof product.capacity === 'string' ? product.capacity : null,
         reviewCount: typeof product.reviewCount === 'number' ? product.reviewCount : null,
         rakutenUrl: typeof product.rakutenUrl === 'string' ? product.rakutenUrl : '',
+        genreId: normalizeGenreId(product.genreId),
       };
     })
     .filter(p => p.name && p.rakutenUrl);

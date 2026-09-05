@@ -34,6 +34,8 @@ import {
   replaceCapacityInProductName,
   extractArticleType,
   isProductManagedArticle,
+  normalizeGenreId,
+  extractAllProductsData,
 } from "../scripts/lib/frontmatter";
 
 // ─── テスト用フィクスチャ ─────────────────────────────────────────────────
@@ -310,6 +312,7 @@ body
       imageUrl: "https://example.com/a.jpg",
       capacity: "500mL",
       pricePerUnit: "2.4/mL",
+      genreId: null,
     });
   });
 
@@ -2639,5 +2642,132 @@ describe("priceMax（選択式出品の上限価格）", () => {
     expect(result.changed).toBe(true);
     expect(extractProductSnapshotByRank(result.content, 1)?.name).toBe("商品B");
     expect(extractProductSnapshotByRank(result.content, 2)?.name).toBe("商品A");
+  });
+});
+
+describe("genreId（楽天ジャンルID）", () => {
+  const CONTENT = `---
+title: テスト
+products:
+  - rank: 1
+    name: 商品A
+    brand: A社
+    price: 1000
+    capacity: 100枚
+    rakutenUrl: https://example.com/a
+    genreId: "216044"
+  - rank: 2
+    name: 商品B
+    brand: B社
+    price: 2000
+    capacity: 200枚
+    rakutenUrl: https://example.com/b
+---
+
+body
+`;
+
+  // F1
+  it("updateProductInFrontmatter で genreId を書き込める", () => {
+    const result = updateProductInFrontmatter(CONTENT, "商品B", {
+      price: null, rating: null, reviewCount: null, affiliateUrl: null, imageUrl: null,
+      genreId: "205838",
+    });
+    expect(extractProductSnapshot(result, "商品B")?.genreId).toBe("205838");
+  });
+
+  // F2
+  it.each([[null], [undefined], [""]] as const)(
+    "genreId が %p のとき既存値を消さない",
+    (value) => {
+      const result = updateProductInFrontmatter(CONTENT, "商品A", {
+        price: null, rating: null, reviewCount: null, affiliateUrl: null, imageUrl: null,
+        genreId: value as string | null | undefined,
+      });
+      expect(extractProductSnapshot(result, "商品A")?.genreId).toBe("216044");
+    }
+  );
+
+  // F3
+  it("updateProductInFrontmatterByRank でも genreId が書き込まれる", () => {
+    const result = updateProductInFrontmatterByRank(CONTENT, 2, {
+      price: null, rating: null, reviewCount: null, affiliateUrl: null, imageUrl: null,
+      genreId: "205838",
+    });
+    expect(result.changed).toBe(true);
+    expect(result.after?.genreId).toBe("205838");
+  });
+
+  // F4: applyProductUpdates 括り出しのリグレッション
+  it("既存フィールドの挙動が括り出し前と同じ", () => {
+    const result = updateProductInFrontmatterByRank(CONTENT, 1, {
+      price: 1500, rating: 4.2, reviewCount: 12,
+      affiliateUrl: "https://example.com/aff", imageUrl: "https://example.com/img.jpg",
+      pricePerUnit: "15円/枚", newName: "商品A改", newCapacity: "120枚",
+    });
+    const after = extractProductSnapshotByRank(result.content, 1);
+    expect(after).toMatchObject({
+      price: 1500, rating: 4.2, reviewCount: 12,
+      rakutenUrl: "https://example.com/aff", imageUrl: "https://example.com/img.jpg",
+      pricePerUnit: "15円/枚", name: "商品A改", capacity: "120枚",
+    });
+  });
+
+  it("priceMax を渡すと pricePerUnit が消え、clearVariantPrice で priceMax が消える", () => {
+    const withMax = updateProductInFrontmatterByRank(CONTENT, 1, {
+      price: null, rating: null, reviewCount: null, affiliateUrl: null, imageUrl: null,
+      pricePerUnit: "10円/枚", priceMax: 3000,
+    });
+    expect(extractProductSnapshotByRank(withMax.content, 1)?.priceMax).toBe(3000);
+    expect(extractProductSnapshotByRank(withMax.content, 1)?.pricePerUnit).toBeNull();
+
+    const cleared = updateProductInFrontmatterByRank(withMax.content, 1, {
+      price: null, rating: null, reviewCount: null, affiliateUrl: null, imageUrl: null,
+      clearVariantPrice: true,
+    });
+    expect(extractProductSnapshotByRank(cleared.content, 1)?.priceMax).toBeNull();
+  });
+
+  // F5 / F6
+  it("extractAllProductsData が genreId を返す（未設定は null）", () => {
+    const data = extractAllProductsData(CONTENT);
+    expect(data[0].genreId).toBe("216044");
+    expect(data[1].genreId).toBeNull();
+  });
+
+  // F7
+  it("extractProductSnapshot に genreId が載る", () => {
+    expect(extractProductSnapshot(CONTENT, "商品A")?.genreId).toBe("216044");
+  });
+
+  // F8
+  it("normalizeGenreId が文字列へ寄せる", () => {
+    expect(normalizeGenreId("216044")).toBe("216044");
+    expect(normalizeGenreId(216044)).toBe("216044");
+    expect(normalizeGenreId(" 216044 ")).toBe("216044");
+    expect(normalizeGenreId(" ")).toBeNull();
+    expect(normalizeGenreId("")).toBeNull();
+    expect(normalizeGenreId(null)).toBeNull();
+    expect(normalizeGenreId(undefined)).toBeNull();
+    expect(normalizeGenreId(Number.NaN)).toBeNull();
+  });
+
+  // F9: yaml が number としてパースするケースでも両者が一致する
+  it("extractAllProductsData と extractProductSnapshot の genreId が一致する", () => {
+    const numeric = CONTENT.replace('genreId: "216044"', "genreId: 216044");
+    expect(extractAllProductsData(numeric)[0].genreId).toBe("216044");
+    expect(extractProductSnapshot(numeric, "商品A")?.genreId).toBe("216044");
+  });
+
+  // F10
+  it("syncPricePerUnitWithPolicy の snapshot に genreId が載る", () => {
+    const seen: Array<string | null> = [];
+    syncPricePerUnitWithPolicy(CONTENT, "枚", {
+      skipProduct: (product) => {
+        seen.push(product.genreId);
+        return false;
+      },
+    });
+    expect(seen).toEqual(["216044", null]);
   });
 });
