@@ -32,7 +32,7 @@
       ],
       "actions": [],
       "simultaneous": false,
-      "note": "コホート第1弾の候補プール。08-26〜09-08 が前窓で、変更が入った記事は第1弾から外す。R3（判定不能記事の凍結除外）の対象外。2026-09-05 にリンク切れ差し替え（区分B）を実施した dental-floss(r8) / dish-detergent(r6) / mouthwash(r5) / room-deodorizer(r6) の4本は前窓が汚れたためコホート第1弾から外す",
+      "note": "コホート第1弾の候補プール。08-26〜09-08 が前窓で、変更が入った記事は第1弾から外す。R3（判定不能記事の凍結除外）の対象外。2026-09-05 にリンク切れ差し替え（区分B）を実施した dental-floss(r8) / dish-detergent(r6) / mouthwash(r5) / room-deodorizer(r6) の4本は前窓が汚れたためコホート第1弾から外す。2026-09-05 に ComparisonTable.astro へ送料の注記2行を追加（区分C・全記事共通の脚注で SERP 指標には作用しない）",
       "source": "IMPLEMENTATION_PLAN_MEASUREMENT_REGIME_V2_2026-08-25.md"
     },
     {

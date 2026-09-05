@@ -70,7 +70,7 @@ const productsForTable = products.map((product) => {
 
 <div class="my-8">
   <p class="text-xs text-[var(--color-text-sub)] mb-2">
-    ※ 掲載価格は執筆時点のものです。最新価格は各ショップでご確認ください。
+    ※ 掲載価格は執筆時点の商品本体価格で、<strong>送料は含みません</strong>。最新価格は各ショップでご確認ください。
   </p>
   <ComparisonTableSort
     products={productsForTable}
@@ -84,5 +84,8 @@ const productsForTable = products.map((product) => {
   </p>
   <p class="text-xs text-[var(--color-text-sub)] mt-1">
     ※ コスパ（単価）は「最安価格 ÷ 内容量」で当サイトが自動計算しています。価格・単価・順位は週次で自動更新されるため、手動更新の比較サイトより新しい状態を保ちやすいのが特徴です。
+  </p>
+  <p class="text-xs text-[var(--color-text-sub)] mt-1">
+    ※ <strong>単価・順位の計算に送料は含めていません。</strong>送料はお届け先の地域やショップごとの送料無料ラインによって変わるため、本体価格が安くても送料を足すと順位が入れ替わることがあります。まとめ買いや他商品との同時購入で送料無料になる場合も多いので、実際に支払う総額は各ショップの購入画面でご確認ください。
   </p>
 </div>
