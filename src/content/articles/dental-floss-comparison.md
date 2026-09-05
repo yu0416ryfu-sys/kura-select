@@ -66,7 +66,7 @@ products:
     capacity: "45m×3個（270回）"
     pricePerUnit: "約8.3円/回"
     rating: 4.79
-    reviewCount: 193
+    reviewCount: 194
     features:
       - "384本の細い繊維を束ねた高密度フロス設計"
       - "1セットで135mの使用量を確保"
@@ -247,7 +247,7 @@ products:
     capacity: "45m×2個（90m）"
     pricePerUnit: "約18円/m"
     rating: 4.65
-    reviewCount: 1164
+    reviewCount: 1165
     features:
       - "糸巻きタイプのデンタルフロス"
       - "歯間ケア向けの細い繊維設計"

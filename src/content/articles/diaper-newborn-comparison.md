@@ -4,7 +4,7 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-02"
+updatedAt: "2026-09-05"
 products:
   - rank: 1
     name: "ムーニー マシュマロ肌ごこち 新生児 テープ"
@@ -40,6 +40,39 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100639"
         available: true
   - rank: 2
+    name: "グーンプラス 敏感肌にやわらかタッチ テープ 新生児用 82枚"
+    brand: "大王製紙（グーンプラス）"
+    price: 1870
+    capacity: "82枚"
+    pricePerUnit: "約23円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "敏感肌設計で保湿成分を配合した素材"
+      - "ふわふわタッチのメッシュシートを採用"
+      - "医師・助産師からの推奨実績があるシリーズ"
+    pros:
+      - "敏感肌の赤ちゃんの肌トラブルが気になる方に選びやすい"
+      - "保湿成分配合で肌乾燥を軽減したい方に向く"
+      - "グーンシリーズとして成長後も継続しやすい"
+    cons:
+      - "76枚の単品販売のため長期ストックには追加購入が必要"
+      - "他ブランドとの肌相性は実際に試してから判断したい"
+    recommendedFor: "敏感肌の赤ちゃんに向けた保湿設計を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F260-4181%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10659148%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin200_06/260-4181.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4902011115567.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-24"
+        price: 2204
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4902011115567"
+        available: true
+  - rank: 3
     name: "ムーニー マシュマロ肌ごこち テープ 新生児"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1518
@@ -71,39 +104,6 @@ products:
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100637"
-        available: true
-  - rank: 3
-    name: "グーンプラス 敏感肌にやわらかタッチ テープ 新生児用 82枚"
-    brand: "大王製紙（グーンプラス）"
-    price: 1999
-    capacity: "82枚"
-    pricePerUnit: "約24円/枚"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "敏感肌設計で保湿成分を配合した素材"
-      - "ふわふわタッチのメッシュシートを採用"
-      - "医師・助産師からの推奨実績があるシリーズ"
-    pros:
-      - "敏感肌の赤ちゃんの肌トラブルが気になる方に選びやすい"
-      - "保湿成分配合で肌乾燥を軽減したい方に向く"
-      - "グーンシリーズとして成長後も継続しやすい"
-    cons:
-      - "76枚の単品販売のため長期ストックには追加購入が必要"
-      - "他ブランドとの肌相性は実際に試してから判断したい"
-    recommendedFor: "敏感肌の赤ちゃんに向けた保湿設計を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902011115567%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12613615%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/ebase-a01/4902011115567.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4902011115567.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-24"
-        price: 2204
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4902011115567"
         available: true
   - rank: 4
     name: "メリーズ エアスルー テープ 新生児"

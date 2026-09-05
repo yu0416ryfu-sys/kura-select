@@ -218,7 +218,7 @@ products:
   - rank: 9
     name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
     brand: "ファイントゥデイ（フィーノ）"
-    price: 2340
+    price: 2321
     capacity: "-"
     pricePerUnit: "-"
     rating: 5

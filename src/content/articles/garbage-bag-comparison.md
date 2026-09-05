@@ -27,7 +27,7 @@ products:
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "家庭内のにおい対策や分別に使いやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uc6ln.3rdw66a7.g00uc6ln.3rdw7212/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamazenyamaya%2F49017554468143%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamazenyamaya%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamazenyamaya/cabinet/09561915/09597830/3p_han_w.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamazenyamaya/cabinet/09561915/09597830/imgrc0121625975.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

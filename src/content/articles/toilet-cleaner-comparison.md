@@ -13,7 +13,7 @@ products:
     capacity: "500ml×3個（1500ml）"
     pricePerUnit: "約0.79円/ml"
     rating: 4.7
-    reviewCount: 82
+    reviewCount: 83
     features:
       - "トイレ用の洗剤本体"
       - "液体やジェルなど便器まわりに使いやすい設計"

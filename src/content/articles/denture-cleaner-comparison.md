@@ -161,6 +161,28 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/karayasa_03-sm2"
         available: true
   - rank: 6
+    name: "スマイルクリーナータブレット 90錠×2個セット"
+    brand: "SANWA DENTAL"
+    price: 5280
+    capacity: "90錠×2個（180錠）"
+    pricePerUnit: "約29円/錠"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "部分入れ歯・総入れ歯に対応するタブレットタイプ"
+      - "過酸化尿素を配合した洗浄設計"
+      - "日本製のつけ置き洗浄剤"
+    pros:
+      - "除菌・消臭・口臭予防をまとめてケアしたい方に向く"
+      - "まとめ買いで補充の手間を減らしやすい"
+      - "短時間のつけ置きで手軽に使える"
+    cons:
+      - "お湯の温度など使用条件を守る必要がある"
+      - "香りの好みが分かれることがある"
+    recommendedFor: "除菌・消臭ケアをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ug7tn.3rdw6fbe.g00ug7tn.3rdw71d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwa-dental%2Fsmilecleaner-tab90-2ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwa-dental%2Fi%2F10000024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwa-dental/cabinet/smilecleaner-tab90/10242173/imgrc0120075345.jpg?_ex=128x128"
+  - rank: 7
     name: "フィジオクリーン キラリ錠剤 30錠 3箱"
     brand: "ニッシン"
     price: 2832
@@ -193,7 +215,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisare-gal_kirari03"
         available: true
-  - rank: 7
+  - rank: 8
     name: "ロートピカ 義歯洗浄剤 6箱セット"
     brand: "松風"
     price: 5738
@@ -215,7 +237,7 @@ products:
     recommendedFor: "毎日ケアと週次ケアを分けて丁寧に手入れしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F7171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10004542%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0905_100b/kirikae2/25930_7171_sam.jpg?_ex=128x128"
-  - rank: 8
+  - rank: 9
     name: "フィジオクリーン キラリ錠剤 30錠 6箱"
     brand: "ニッシン"
     price: 6095
@@ -248,28 +270,6 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/todaysun_2022yr12mt18daywq069ic09f694wp2"
         available: true
-  - rank: 9
-    name: "スマイルクリーナータブレット 90錠×2個セット"
-    brand: "SANWA DENTAL"
-    price: 5280
-    capacity: "90錠×2個（180錠）"
-    pricePerUnit: "約29円/錠"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "部分入れ歯・総入れ歯に対応するタブレットタイプ"
-      - "過酸化尿素を配合した洗浄設計"
-      - "日本製のつけ置き洗浄剤"
-    pros:
-      - "除菌・消臭・口臭予防をまとめてケアしたい方に向く"
-      - "まとめ買いで補充の手間を減らしやすい"
-      - "短時間のつけ置きで手軽に使える"
-    cons:
-      - "お湯の温度など使用条件を守る必要がある"
-      - "香りの好みが分かれることがある"
-    recommendedFor: "除菌・消臭ケアをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ug7tn.3rdw6fbe.g00ug7tn.3rdw71d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwa-dental%2Fsmilecleaner-tab90-2ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwa-dental%2Fi%2F10000024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwa-dental/cabinet/smilecleaner-tab90/10242173/imgrc0120075345.jpg?_ex=128x128"
   - rank: 10
     name: "スマイルクリーナータブレット 90錠"
     brand: "SANWA DENTAL"

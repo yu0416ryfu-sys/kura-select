@@ -73,6 +73,39 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_10053002"
         available: true
   - rank: 3
+    name: "ヤシノミ洗剤 野菜・食器用 つめかえ用 1000mL"
+    brand: "サラヤ（ヤシノミ洗剤）"
+    price: 559
+    capacity: "1000mL"
+    pricePerUnit: "約0.56円/mL"
+    rating: 5
+    reviewCount: 6
+    features:
+      - "植物系天然成分99%使用の低刺激処方"
+      - "野菜・果物の洗浄にも使える食品対応"
+      - "環境負荷が低い生分解性処方"
+    pros:
+      - "手荒れが気になる方にやさしい処方"
+      - "野菜・果物も洗えて食材に安心"
+      - "環境への配慮でエコ志向の方に最適"
+    cons:
+      - "容量が少なく詰め替え頻度が高い"
+      - "強い油汚れには複数回使用が必要"
+    recommendedFor: "敏感肌・手荒れが心配な方・食材も洗いたい方・エコ志向の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4973512309304%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11394431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/304/4973512309304.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkireshop%2Fa4973512320477.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-31"
+        price: 456
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kireshop_a4973512320477"
+        available: true
+  - rank: 4
     name: "緑の魔女 キッチン 食器用洗剤 業務用 詰め替え 5L 無添加 無香料"
     brand: "ミマスクリーンケア（緑の魔女）"
     price: 3170
@@ -105,7 +138,7 @@ products:
         available: true
         rating: 4.64
         reviewCount: 98
-  - rank: 4
+  - rank: 5
     name: "パックス 200番 台所用石けん 詰替用 2300mL×2本 2本セット"
     brand: "太陽油脂"
     price: 4550
@@ -127,14 +160,14 @@ products:
     recommendedFor: "台所用石けんを大容量でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pk2an.3rdw647a.g00pk2an.3rdw7456/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuyeki%2F395%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fuyeki%2Fi%2F10000474%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/uyeki/cabinet/syohin1/item01/packs/pax200_set2.jpg?_ex=128x128"
-  - rank: 5
-    name: "フロッシュ アロエベラ 食器用洗剤 1000mL×2本"
+  - rank: 6
+    name: "フロッシュ 食器用洗剤 アロエベラ 1000mL×2本"
     brand: "フロッシュ（Werner & Mertz）"
-    price: 2298
+    price: 2351
     capacity: "1000mL×2本（2000mL）"
-    pricePerUnit: "約1.1円/mL"
-    rating: 4.42
-    reviewCount: 12
+    pricePerUnit: "約1.2円/mL"
+    rating: 0
+    reviewCount: 0
     features:
       - "アロエベラ配合で手肌に優しい低刺激処方"
       - "100%リサイクルPET容器使用の環境配慮型ボトル"
@@ -147,8 +180,8 @@ products:
       - "4本セットのため保管スペースの確保が必要"
       - "まとめ買い形式で少量から試しにくい"
     recommendedFor: "手荒れ対策と環境配慮を両立しつつ大容量でコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q9u1n.3rdw67e0.g00q9u1n.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhiteleaf%2Fcostoco_aloevera-kitchenwash%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhiteleaf%2Fi%2F10002851%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whiteleaf/cabinet/08766852/08895266/10306423/frosch.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uge1n.3rdw6789.g00uge1n.3rdw7be3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsjahop%2F20250805031604_70%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsjahop%2Fi%2F10069146%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsjahop/cabinet/r_2023112506/20250805031604_70_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -159,39 +192,6 @@ products:
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ifc-valuetrust_b07kzgjhtd20250718"
-        available: true
-  - rank: 6
-    name: "ヤシノミ洗剤 野菜・食器用 つめかえ用 1000mL"
-    brand: "サラヤ（ヤシノミ洗剤）"
-    price: 559
-    capacity: "1000mL"
-    pricePerUnit: "約0.56円/mL"
-    rating: 5
-    reviewCount: 6
-    features:
-      - "植物系天然成分99%使用の低刺激処方"
-      - "野菜・果物の洗浄にも使える食品対応"
-      - "環境負荷が低い生分解性処方"
-    pros:
-      - "手荒れが気になる方にやさしい処方"
-      - "野菜・果物も洗えて食材に安心"
-      - "環境への配慮でエコ志向の方に最適"
-    cons:
-      - "容量が少なく詰め替え頻度が高い"
-      - "強い油汚れには複数回使用が必要"
-    recommendedFor: "敏感肌・手荒れが心配な方・食材も洗いたい方・エコ志向の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4973512309304%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11394431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/304/4973512309304.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkireshop%2Fa4973512320477.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-31"
-        price: 456
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kireshop_a4973512320477"
         available: true
   - rank: 7
     name: "SOMALI 台所用石けん 詰替用 5000ml そまり 純石けん 無添加"
@@ -227,13 +227,13 @@ products:
         rating: 0
         reviewCount: 0
   - rank: 8
-    name: "IVORY DISH SOAP クラシック 食器用洗剤 709mL"
+    name: "IVORY ディッシュソープ クラシック 食器用洗剤 709mL×2本"
     brand: "IVORY"
-    price: 980
-    capacity: "709mL"
-    pricePerUnit: "約1.4円/mL"
-    rating: 4.79
-    reviewCount: 56
+    price: 3468
+    capacity: "709mL×2本（1418mL）"
+    pricePerUnit: "約2.4円/mL"
+    rating: 0
+    reviewCount: 0
     features:
       - "海外ブランドの大容量食器用洗剤"
       - "濃縮タイプで油汚れに使いやすい"
@@ -246,15 +246,15 @@ products:
       - "香りの好みが分かれやすい"
       - "国内定番品と比べて詰め替え運用しにくい"
     recommendedFor: "海外ブランドの食器用洗剤を使ってみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q931n.3rdw6861.g00q931n.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftida-market%2F768628%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftida-market%2Fi%2F10000063%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tida-market/cabinet/ivorydishsoap.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00up3bn.3rdw60f2.g00up3bn.3rdw7ff6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyksakai%2Fmepxask4lgaaw2jmf54vmsjiaa%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyksakai%2Fi%2F10521015%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yksakai/cabinet/13132948/44216308_1.jpg?_ex=128x128"
   - rank: 9
     name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
     brand: "P&G（ジョイ）"
     price: 2675
     capacity: "4L"
     rating: 4.8
-    reviewCount: 60
+    reviewCount: 61
     features:
       - "コンパクト処方で少量でもよく落ちる"
       - "食洗機非対応・手洗い専用設計"

@@ -47,7 +47,7 @@ products:
     capacity: "7L×6袋（42L）"
     pricePerUnit: "約88円/L"
     rating: 4.21
-    reviewCount: 5680
+    reviewCount: 5681
     features:
       - "アイリスオーヤマ製のペレットタイプ紙製猫砂"
       - "燃えるゴミとして廃棄可能・トイレへの廃棄にも対応"
@@ -277,7 +277,7 @@ products:
     price: 4380
     capacity: "6L×3個（18L）"
     rating: 4.68
-    reviewCount: 1961
+    reviewCount: 1962
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"

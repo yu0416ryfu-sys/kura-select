@@ -35,7 +35,7 @@ products:
     capacity: "110g"
     pricePerUnit: "約9.0円/g"
     rating: 4.6
-    reviewCount: 1869
+    reviewCount: 1870
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"

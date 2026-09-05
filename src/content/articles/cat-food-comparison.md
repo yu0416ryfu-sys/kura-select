@@ -299,7 +299,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.69
-    reviewCount: 935
+    reviewCount: 937
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

@@ -40,39 +40,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4987176194398"
         available: true
   - rank: 2
-    name: "アリエール ジェルボールプロ 部屋干し＆スポーツ 詰め替え"
-    brand: "P&G（アリエール）"
-    price: 2997
-    capacity: "89個"
-    pricePerUnit: "約34円/個"
-    rating: 4.82
-    reviewCount: 39
-    features:
-      - "部屋干し時の生乾き臭に狙いを定めた処方"
-      - "汗をかいた衣類・運動着の皮脂汚れに対応"
-      - "1袋あたりの入り数が多い大容量詰め替え"
-    pros:
-      - "部屋干し中心の家庭で使いやすい設計"
-      - "入り数が多く買い足しの頻度を減らせる"
-      - "ドラム式・縦型どちらの洗濯機でも使える"
-    cons:
-      - "部屋干し向けの香りが好みを分けやすい"
-      - "洗濯物が少ない日でも1個を使い切る"
-    recommendedFor: "部屋干しが多い家庭・運動着の洗濯が多い家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987176284914%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11319035%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/914/4987176284914.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F2620600.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
-        price: 3190
-        rating: 4.9
-        reviewCount: 10
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_2620600"
-        available: true
-  - rank: 3
     name: "ボールド 太陽のジェルボール4in1 Yoruのホワイトラベンダー＆ジャスミン 詰め替え 55個"
     brand: "P&G（ボールド）"
     price: 1745
@@ -105,7 +72,73 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176292759"
         available: true
+  - rank: 3
+    name: "アリエール ジェルボールプロ 部屋干し＆スポーツ 詰め替え"
+    brand: "P&G（アリエール）"
+    price: 2997
+    capacity: "89個"
+    pricePerUnit: "約34円/個"
+    rating: 4.82
+    reviewCount: 39
+    features:
+      - "部屋干し時の生乾き臭に狙いを定めた処方"
+      - "汗をかいた衣類・運動着の皮脂汚れに対応"
+      - "1袋あたりの入り数が多い大容量詰め替え"
+    pros:
+      - "部屋干し中心の家庭で使いやすい設計"
+      - "入り数が多く買い足しの頻度を減らせる"
+      - "ドラム式・縦型どちらの洗濯機でも使える"
+    cons:
+      - "部屋干し向けの香りが好みを分けやすい"
+      - "洗濯物が少ない日でも1個を使い切る"
+    recommendedFor: "部屋干しが多い家庭・運動着の洗濯が多い家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987176284914%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11319035%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/914/4987176284914.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F2620600.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-01"
+        price: 3190
+        rating: 4.9
+        reviewCount: 10
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_2620600"
+        available: true
   - rank: 4
+    name: "アリエール ジェルボールプロ 部屋干し用 詰替 73個"
+    brand: "P&G（アリエール）"
+    price: 2580
+    capacity: "73個"
+    rating: 5
+    reviewCount: 9
+    features:
+      - "部屋干し時の菌の繁殖を抑える処方"
+      - "微香タイプで衣類に香りを残しすぎない"
+      - "投入口に入れず洗濯槽に直接入れて使うタイプ"
+    pros:
+      - "部屋干し臭対策と香り控えめを両立できる"
+      - "入り数と価格のバランスが取りやすい"
+      - "汚れがひどくない日常着の洗濯に十分な洗浄力"
+    cons:
+      - "泥汚れなど強い汚れは前処理が必要になる"
+      - "詰め替え専用で本体容器が別途必要"
+    recommendedFor: "部屋干しはするが香りは強くしたくない方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987176284556%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10147649%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202503_8/4987176284556.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpentagram5%2F4987176315700-1.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-01"
+        price: 2780
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pentagram5_4987176315700-1"
+        available: true
+    pricePerUnit: "約35円/個"
+  - rank: 5
     name: "ボールド ジェルボール4D 華やかおひさまとプレミアムブロッサム 詰め替え"
     brand: "P&G（ボールド）"
     price: 2746
@@ -138,7 +171,7 @@ products:
         reviewCount: 7
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_2000000160665"
         available: true
-  - rank: 5
+  - rank: 6
     name: "アリエール ジェルボールプロ まるごと洗浄消臭 本体"
     brand: "P&G（アリエール）"
     price: 640
@@ -171,7 +204,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/raffine4147_seki111e2720d00cd"
         available: true
-  - rank: 6
+  - rank: 7
     name: "ボールド ジェルボール4in1 爽やかおひさまとフレッシュサボン 詰め替え"
     brand: "P&G（ボールド）"
     price: 3380
@@ -204,40 +237,6 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987176292735"
         available: true
-  - rank: 7
-    name: "アリエール ジェルボールプロ 部屋干し用 詰替 73個"
-    brand: "P&G（アリエール）"
-    price: 2580
-    capacity: "73個"
-    rating: 5
-    reviewCount: 9
-    features:
-      - "部屋干し時の菌の繁殖を抑える処方"
-      - "微香タイプで衣類に香りを残しすぎない"
-      - "投入口に入れず洗濯槽に直接入れて使うタイプ"
-    pros:
-      - "部屋干し臭対策と香り控えめを両立できる"
-      - "入り数と価格のバランスが取りやすい"
-      - "汚れがひどくない日常着の洗濯に十分な洗浄力"
-    cons:
-      - "泥汚れなど強い汚れは前処理が必要になる"
-      - "詰め替え専用で本体容器が別途必要"
-    recommendedFor: "部屋干しはするが香りは強くしたくない方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987176284556%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10147649%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202503_8/4987176284556.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpentagram5%2F4987176315700-1.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
-        price: 2780
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pentagram5_4987176315700-1"
-        available: true
-    priceMax: 4580
-    pricePerUnit: "約35円/個"
   - rank: 8
     name: "アリエール ジェルボール 部屋干し＆スポーツ 詰め替え テラジャンボ"
     brand: "P&G（アリエール）"

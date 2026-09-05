@@ -122,8 +122,8 @@ products:
     price: 1650
     capacity: "500g×2個（1000g）"
     pricePerUnit: "約1.6円/g"
-    rating: 4.76
-    reviewCount: 72
+    rating: 4.77
+    reviewCount: 73
     features:
       - "合成香料・合成界面活性剤不使用のクリーナー"
       - "ドラム式・縦型の両方に対応"
@@ -167,7 +167,7 @@ products:
     capacity: "200g×3個（3回分）"
     pricePerUnit: "約4.2円/g"
     rating: 4.64
-    reviewCount: 774
+    reviewCount: 776
     features:
       - "酵素と塩素系成分を組み合わせたクリーナー"
       - "縦型・ドラム式両対応の設計"

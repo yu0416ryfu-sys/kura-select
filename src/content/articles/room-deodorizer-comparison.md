@@ -13,7 +13,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1265円/kg"
     rating: 4.79
-    reviewCount: 3032
+    reviewCount: 3033
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -164,6 +164,31 @@ products:
         rating: 0
         reviewCount: 0
   - rank: 6
+    name: "ファブリーズ W除菌+消臭 詰め替え 1280ml×2セット"
+    brand: "ファブリーズ(febreze) / P&G"
+    price: 3297
+    capacity: "1280ml×2セット（2,560ml）"
+    pricePerUnit: "約1.3円/ml"
+    rating: 4.64
+    reviewCount: 11
+    features:
+      - "48時間爽やか続く消臭効果"
+      - "W除菌+消臭で衣類・布製品にスプレーするだけ"
+      - "香りが残らない無香タイプ"
+      - "シワ取り効果もあり"
+    pros:
+      - "大容量詰め替えでコスパが良い"
+      - "除菌・消臭成分を配合し、衣類や布団などに使いやすい"
+      - "お子さまのいる家庭でも使用可能"
+      - "ボトルに4回詰め替え可能で経済的"
+    cons:
+      - "詰め替え作業が必要で少し手間"
+      - "大容量のため保管スペースを取る"
+      - "特定の素材（革・和装品など）には使用不可"
+    recommendedFor: "布製品・空間の消臭除菌を手軽にしたい方・ファブリーズユーザー"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598757%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321967%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/757/598757.jpg?_ex=128x128"
+  - rank: 7
     name: "リセッシュ除菌EX ワイドジェット ストロング つめかえ用 630mL"
     brand: "花王"
     price: 930
@@ -199,31 +224,6 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 7
-    name: "ファブリーズ W除菌+消臭 詰め替え 1280ml×2セット"
-    brand: "ファブリーズ(febreze) / P&G"
-    price: 3297
-    capacity: "1280ml×2セット（2,560ml）"
-    pricePerUnit: "約1.3円/ml"
-    rating: 4.64
-    reviewCount: 11
-    features:
-      - "48時間爽やか続く消臭効果"
-      - "W除菌+消臭で衣類・布製品にスプレーするだけ"
-      - "香りが残らない無香タイプ"
-      - "シワ取り効果もあり"
-    pros:
-      - "大容量詰め替えでコスパが良い"
-      - "除菌・消臭成分を配合し、衣類や布団などに使いやすい"
-      - "お子さまのいる家庭でも使用可能"
-      - "ボトルに4回詰め替え可能で経済的"
-    cons:
-      - "詰め替え作業が必要で少し手間"
-      - "大容量のため保管スペースを取る"
-      - "特定の素材（革・和装品など）には使用不可"
-    recommendedFor: "布製品・空間の消臭除菌を手軽にしたい方・ファブリーズユーザー"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598757%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321967%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/757/598757.jpg?_ex=128x128"
   - rank: 8
     name: "瞬間消臭スプレー 420ml"
     brand: "ハル・インダストリ"

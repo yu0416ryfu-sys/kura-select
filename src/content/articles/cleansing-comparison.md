@@ -154,7 +154,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3228
+    reviewCount: 3229
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"
@@ -274,7 +274,7 @@ products:
     price: 4378
     capacity: "100mL"
     rating: 4.57
-    reviewCount: 1688
+    reviewCount: 1690
     features:
       - "発酵オイルを配合したクレンジングオイル"
       - "W洗顔不要でメイクと毛穴汚れを落とす"

@@ -4,16 +4,16 @@ description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底�
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-05"
 products:
   - rank: 1
-    name: "アタック 抗菌EX 部屋干し用 詰め替え 2380g×6個セット"
+    name: "アタック 抗菌EX 部屋干し用 つめかえ用 2030g"
     brand: "花王（アタック）"
-    price: 7480
-    capacity: "2380g×6個（約476回分）"
-    pricePerUnit: "約0.52円/g"
-    rating: 4.87
-    reviewCount: 116
+    price: 1180
+    capacity: "2030g"
+    pricePerUnit: "約0.58円/g"
+    rating: 4.67
+    reviewCount: 3
     features:
       - "抗菌水洗浄で生乾き臭の原因菌を99%除去"
       - "24時間部屋干ししても臭わない抗菌力"
@@ -26,8 +26,8 @@ products:
       - "香りがやや強めと感じる方もいる"
       - "濃縮タイプのため計量に注意が必要"
     recommendedFor: "コスパと抗菌力を両立したい方・毎日部屋干しする方・すすぎ1回派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u7dvn.3rdw6bc7.g00u7dvn.3rdw7a34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuterastar%2Fb0d4z7rrlp-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuterastar%2Fi%2F10002720%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suterastar/cabinet/goq002/1617_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901301451200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10160287%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202511_2/4901301451200.jpg?_ex=128x128"
     offers:
       - provider: "amazon"
         label: "Amazon（2380g×4個）"

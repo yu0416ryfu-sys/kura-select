@@ -73,6 +73,40 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_70697"
         available: true
   - rank: 3
+    name: "薬用リステリン トータルケアゼロプラス ノンアルコール 1000mL×6本"
+    brand: "ジョンソン・エンド・ジョンソン（リステリン）"
+    price: 5965
+    capacity: "1000mL×6本（6000mL）"
+    pricePerUnit: "約0.99円/mL"
+    rating: 4.76
+    reviewCount: 253
+    features:
+      - "ノンアルコール処方で刺激を抑えながら殺菌"
+      - "バクテリアフィルムに作用する7種の機能性成分配合"
+      - "クリーンミントの爽快な後味"
+    pros:
+      - "刺激が苦手な方もリステリンの殺菌力を体感できる"
+      - "4本まとめ買いで長期間の使用コストを抑えられる"
+      - "リステリンブランドの信頼性とノンアルコールの低刺激を両立"
+    cons:
+      - "アルコール配合タイプと比べると爽快感がやや控えめ"
+      - "4本セットのため保管スペースが必要"
+    recommendedFor: "リステリンを試したいがアルコール刺激が不安な方・まとめ買いでコストを抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F70696%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10924599%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/696/70696.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F89403.html"
+        matchStatus: "review"
+        updatedAt: "2026-08-09"
+        price: 4021
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_89403"
+        available: false
+        rating: 5
+        reviewCount: 5
+        matchNotes: "capacity不一致: capacity不一致"
+  - rank: 4
     name: "モンダミン プレミアムケア ゴールドミント"
     brand: "アース製薬（モンダミン）"
     price: 1047
@@ -105,7 +139,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901080248619"
         available: true
-  - rank: 4
+  - rank: 5
     name: "GUM デンタルリンス ナイトケア 900mL"
     brand: "サンスター（GUM）"
     price: 1038
@@ -138,40 +172,6 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 5
-    name: "薬用リステリン トータルケアゼロプラス ノンアルコール 1000mL×6本"
-    brand: "ジョンソン・エンド・ジョンソン（リステリン）"
-    price: 5965
-    capacity: "1000mL×6本（6000mL）"
-    pricePerUnit: "約0.99円/mL"
-    rating: 4.76
-    reviewCount: 252
-    features:
-      - "ノンアルコール処方で刺激を抑えながら殺菌"
-      - "バクテリアフィルムに作用する7種の機能性成分配合"
-      - "クリーンミントの爽快な後味"
-    pros:
-      - "刺激が苦手な方もリステリンの殺菌力を体感できる"
-      - "4本まとめ買いで長期間の使用コストを抑えられる"
-      - "リステリンブランドの信頼性とノンアルコールの低刺激を両立"
-    cons:
-      - "アルコール配合タイプと比べると爽快感がやや控えめ"
-      - "4本セットのため保管スペースが必要"
-    recommendedFor: "リステリンを試したいがアルコール刺激が不安な方・まとめ買いでコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F70696%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10924599%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/696/70696.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F89403.html"
-        matchStatus: "review"
-        updatedAt: "2026-08-09"
-        price: 4021
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_89403"
-        available: false
-        rating: 5
-        reviewCount: 5
-        matchNotes: "capacity不一致: capacity不一致"
   - rank: 6
     name: "システマ EX デンタルリンス"
     brand: "ライオン（システマ）"

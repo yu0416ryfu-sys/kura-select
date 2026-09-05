@@ -194,13 +194,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902135322537-73-30000839"
         available: true
   - rank: 7
-    name: "ファーファ ファインフレグランス ボーテ 柔軟剤 詰め替え"
+    name: "ファーファ ファインフレグランス ボーテ 詰替 780mL×12個"
     brand: "NSファーファ"
-    price: 638
-    capacity: "500mL"
-    pricePerUnit: "約1.3円/mL"
-    rating: 4.69
-    reviewCount: 413
+    price: 8999
+    capacity: "780mL×12個（9360mL）"
+    pricePerUnit: "約0.96円/mL"
+    rating: 4.86
+    reviewCount: 397
     features:
       - "香水調に調香されたファインフレグランスシリーズ"
       - "静電気や吸水性に配慮した仕上がり設計"
@@ -213,8 +213,8 @@ products:
       - "小容量のため容量あたりの単価は高くなりやすい"
       - "香りが強めのため、無香料を好む方には向かない"
     recommendedFor: "香りを重視する方・少量から試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2F10001160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10001160%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/9fa-fa/fafasoftner/finefragrance/imgrc0102568817.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902135324067-16%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10011122%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/03455230/gg/i1525mage.jpg?_ex=128x128"
   - rank: 8
     name: "ランドリン 柔軟剤 グッドティータイム"
     brand: "ランドリン（Laundrin）"

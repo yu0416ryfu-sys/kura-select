@@ -129,39 +129,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fci_11300"
         available: true
   - rank: 5
-    name: "If You Care コーヒーフィルター No.2"
-    brand: "If You Care（イフユーケア）"
-    price: 990
-    capacity: "100枚（1-2杯用）"
-    pricePerUnit: "約9.9円/枚"
-    rating: 5
-    reviewCount: 8
-    features:
-      - "FSC認証・コンポスタブル認証取得の環境配慮製品"
-      - "PFASフリーで化学物質を使わない無漂白タイプ"
-      - "サステナブル素材を採用した設計"
-    pros:
-      - "環境負荷を意識した選択をしたい方に向く"
-      - "PFASフリーで安心して使いやすい設計"
-      - "コンポスト対応で廃棄への意識が高い方に合いやすい"
-    cons:
-      - "価格は一般的なペーパーフィルターより高め"
-      - "No.2サイズのため対応ドリッパーを事前に確認したい"
-    recommendedFor: "環境配慮・PFASフリーを重視してフィルターを選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psqcn.3rdw6d99.g00psqcn.3rdw7c41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fre-vision%2Fiyc004zkc031xx1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fre-vision%2Fi%2F10004159%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/re-vision/cabinet/rm/item/09/iyc004zkc031xx1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgpecoe%2Fiyc004zkc031xx1.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 990
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/gpecoe_iyc004zkc031xx1"
-        available: true
-  - rank: 6
     name: "珈琲考具 コットンフィルター 1-2杯用 60枚"
     brand: "下村企販"
     price: 594
@@ -194,6 +161,39 @@ products:
         available: true
         rating: 4.57
         reviewCount: 14
+  - rank: 6
+    name: "If You Care コーヒーフィルター No.2"
+    brand: "If You Care（イフユーケア）"
+    price: 990
+    capacity: "100枚（1-2杯用）"
+    pricePerUnit: "約9.9円/枚"
+    rating: 5
+    reviewCount: 8
+    features:
+      - "FSC認証・コンポスタブル認証取得の環境配慮製品"
+      - "PFASフリーで化学物質を使わない無漂白タイプ"
+      - "サステナブル素材を採用した設計"
+    pros:
+      - "環境負荷を意識した選択をしたい方に向く"
+      - "PFASフリーで安心して使いやすい設計"
+      - "コンポスト対応で廃棄への意識が高い方に合いやすい"
+    cons:
+      - "価格は一般的なペーパーフィルターより高め"
+      - "No.2サイズのため対応ドリッパーを事前に確認したい"
+    recommendedFor: "環境配慮・PFASフリーを重視してフィルターを選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psqcn.3rdw6d99.g00psqcn.3rdw7c41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fre-vision%2Fiyc004zkc031xx1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fre-vision%2Fi%2F10004159%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/re-vision/cabinet/rm/item/09/iyc004zkc031xx1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgpecoe%2Fiyc004zkc031xx1.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
+        price: 990
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/gpecoe_iyc004zkc031xx1"
+        available: true
   - rank: 7
     name: "珈琲考具 コットンフィルター 2-4杯用 60枚"
     brand: "下村企販"

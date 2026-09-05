@@ -7,37 +7,6 @@ articleType: "comparison"
 updatedAt: "2026-09-05"
 products:
   - rank: 1
-    name: "ウイルカット プラスチックグローブ 100枚"
-    brand: "ウイルカット"
-    price: 1159
-    capacity: "100枚"
-    pricePerUnit: "約12円/枚"
-    rating: 4.75
-    reviewCount: 266
-    features:
-      - "使い切りで使える作業用手袋"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "掃除や調理補助に備えやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "素材やサイズの相性を確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "掃除や調理補助に備えやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uvf0n.3rdw6958.g00uvf0n.3rdw7634/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwatashinosalon%2Fpop8367%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwatashinosalon%2Fi%2F10003330%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/watashinosalon/cabinet//image21/pop8367.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fits-japan%2Fp21037610e99a.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-11"
-        price: 1594
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/its-japan_p21037610e99a"
-        available: true
-  - rank: 2
     name: "PVCグローブ 100枚×20箱"
     brand: "サンユー"
     price: 15675
@@ -70,7 +39,7 @@ products:
         available: true
         rating: 4.69
         reviewCount: 386
-  - rank: 3
+  - rank: 2
     name: "PVCグローブ 100枚×10箱"
     brand: "サンユー"
     price: 8265
@@ -104,6 +73,37 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove041"
         available: false
         matchNotes: "capacity不一致: capacity不一致"
+  - rank: 3
+    name: "ウイルカット プラスチックグローブ 100枚"
+    brand: "ウイルカット"
+    price: 1159
+    capacity: "100枚"
+    pricePerUnit: "約12円/枚"
+    rating: 4.75
+    reviewCount: 266
+    features:
+      - "使い切りで使える作業用手袋"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "掃除や調理補助に備えやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "素材やサイズの相性を確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "掃除や調理補助に備えやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uvf0n.3rdw6958.g00uvf0n.3rdw7634/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwatashinosalon%2Fpop8367%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwatashinosalon%2Fi%2F10003330%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/watashinosalon/cabinet//image21/pop8367.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fits-japan%2Fp21037610e99a.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-11"
+        price: 1594
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/its-japan_p21037610e99a"
+        available: true
   - rank: 4
     name: "PVC手袋 粉なし 2000枚"
     brand: "厳選いいもの本舗"
@@ -228,10 +228,10 @@ products:
   - rank: 8
     name: "ニトリル手袋 パウダーフリー 医療対応"
     brand: "TKJP"
-    price: 1060
+    price: 1056
     capacity: "100枚"
     rating: 4.57
-    reviewCount: 3646
+    reviewCount: 3648
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -253,7 +253,7 @@ products:
     price: 1059
     capacity: "100枚"
     rating: 4.71
-    reviewCount: 1450
+    reviewCount: 1451
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
