@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-05"
 draft: false
 products:
   - rank: 1
@@ -28,7 +28,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fw-105176-00-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10013214%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/w-105176-00-00.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/rinji/w-105176-00-00.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -197,7 +197,7 @@ products:
   - rank: 7
     name: "ロイヤルカナン インドア 7+ 室内中高齢猫用 3.5kg"
     brand: "ロイヤルカナン"
-    price: 5277
+    price: 5643
     capacity: "3.5kg"
     rating: 4.82
     reviewCount: 148
@@ -226,11 +226,11 @@ products:
         reviewCount: 390
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687310"
         available: true
-    priceMax: 20199
+    priceMax: 20518
   - rank: 8
     name: "ロイヤルカナン インドア 4kg"
     brand: "ロイヤルカナン"
-    price: 5989
+    price: 5980
     capacity: "4kg"
     rating: 4.65
     reviewCount: 696
@@ -259,11 +259,11 @@ products:
         available: true
         rating: 4.75
         reviewCount: 1388
-    priceMax: 11899
+    priceMax: 11536
   - rank: 9
     name: "ロイヤルカナン キトン"
     brand: "ロイヤルカナン"
-    price: 3976
+    price: 3927
     capacity: "2kg"
     rating: 4.74
     reviewCount: 550
@@ -292,7 +292,7 @@ products:
         available: true
         rating: 4.75
         reviewCount: 864
-    priceMax: 20355
+    priceMax: 21414
   - rank: 10
     name: "ニュートロ ナチュラルチョイス キャット"
     brand: "ニュートロ"

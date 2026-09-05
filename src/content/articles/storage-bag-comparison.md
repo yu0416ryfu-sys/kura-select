@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-05"
 products:
   - rank: 1
     name: "システムポリマー XP-11 スライダー付ジッパー保存袋"
@@ -141,9 +141,9 @@ products:
   - rank: 5
     name: "ジップロック ストックバッグ L 16枚"
     brand: "旭化成（ジップロック）"
-    price: 1203
+    price: 1600
     capacity: "16枚"
-    pricePerUnit: "約75円/枚"
+    pricePerUnit: "約100円/枚"
     rating: 4.4
     reviewCount: 200
     features:

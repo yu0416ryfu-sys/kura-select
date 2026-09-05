@@ -4,7 +4,7 @@ description: "フローリング掃除シートを1枚あたりのコストで�
 category: "floor-cleaner"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-05"
 products:
   - rank: 1
     name: "激落ちくん ウェットシート 水の激落ちシート Ba フローリング＆リビング用シー"
@@ -229,7 +229,7 @@ products:
   - rank: 8
     name: "【20枚/40枚】【スターターセット】フローリングワイパー用"
     brand: "アイリスオーヤマ"
-    price: 350
+    price: 298
     capacity: "20枚"
     rating: 3.69
     reviewCount: 26
@@ -258,7 +258,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksdenki_4967576731652"
         available: true
-    priceMax: 1370
+    priceMax: 1001
   - rank: 9
     name: "クイックルワイパー ワイド 立体吸着ドライシート 業務用"
     brand: "花王"

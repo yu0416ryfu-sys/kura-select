@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バブ・�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-05"
 products:
   - rank: 1
     name: "入浴剤 バラエティ詰め合わせ 100個セット"
@@ -35,7 +35,7 @@ products:
     capacity: "100個セット"
     pricePerUnit: "約38円/個"
     rating: 4.56
-    reviewCount: 9953
+    reviewCount: 9954
     features:
       - "日本製の入浴剤を100個詰め合わせた福袋"
       - "テレビランキング番組1位獲得のロングセラー"
@@ -123,7 +123,7 @@ products:
     capacity: "150g×6個（900g）"
     pricePerUnit: "約1.6円/g"
     rating: 4.43
-    reviewCount: 4319
+    reviewCount: 4321
     features:
       - "純度99%以上の硫酸マグネシウム配合"
       - "好みの香りを6種類から自由に選べる個包装"
@@ -156,7 +156,7 @@ products:
     capacity: "1L"
     pricePerUnit: "約8800円/L"
     rating: 4.66
-    reviewCount: 1574
+    reviewCount: 1575
     features:
       - "毎日の入浴に使いやすい入浴剤"
       - "まとめ買いしやすい容量設定"
@@ -210,7 +210,7 @@ products:
     price: 2300
     capacity: "750g（30回分）"
     rating: 4.69
-    reviewCount: 7134
+    reviewCount: 7135
     features:
       - "高濃度水素とナノバブル技術で肌の奥まで浸透"
       - "重炭酸配合で塩素を除去しながら保湿"

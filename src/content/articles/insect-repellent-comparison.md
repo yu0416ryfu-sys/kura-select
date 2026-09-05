@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-05"
 draft: false
 products:
   - rank: 1
@@ -235,7 +235,7 @@ products:
   - rank: 8
     name: "アンチバグ プレミアム"
     brand: "AROMICstyle"
-    price: 1026
+    price: 972
     capacity: "100ml"
     rating: 4.48
     reviewCount: 253
@@ -271,7 +271,7 @@ products:
     price: 1386
     capacity: "100ml"
     rating: 4.53
-    reviewCount: 1552
+    reviewCount: 1553
     features:
       - "ディート不使用・天然成分配合の赤ちゃんから使える虫よけスプレー"
       - "1本・3本・10本セットから選べる購入方法"

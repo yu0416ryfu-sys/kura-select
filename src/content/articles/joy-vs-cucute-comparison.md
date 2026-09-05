@@ -3,7 +3,7 @@ title: "ジョイとキュキュットどっちがいい？【2026年版】コ�
 description: "ジョイとキュキュットはどっちがいい？大容量の詰め替えを1mLあたりの単価・洗浄力・除菌・すすぎやすさの4軸で徹底比較。用途別の使い分けと選び方まで解説します。価格は毎週自動更新。"
 category: "dish-detergent"
 publishedAt: "2026-07-27"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-05"
 articleType: "comparison"
 products:
   - rank: 1
@@ -45,8 +45,8 @@ products:
     price: 1857
     capacity: "1250mL×2セット"
     pricePerUnit: "約0.74円/mL"
-    rating: 4.58
-    reviewCount: 79
+    rating: 4.59
+    reviewCount: 80
     features:
       - "クリア除菌処方でスポンジの除菌にも使えると表示されている"
       - "泡切れとすすぎやすさを重視した処方"

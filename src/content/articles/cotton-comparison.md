@@ -4,7 +4,7 @@ description: "コットンを1枚あたりのコストで徹底比較。シル�
 category: "cotton"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-05"
 products:
   - rank: 1
     name: "業務用フェイシャルコットン エステ化粧用"
@@ -100,8 +100,8 @@ products:
     price: 360
     capacity: "80枚"
     pricePerUnit: "約4.5円/枚"
-    rating: 4.74
-    reviewCount: 23
+    rating: 4.67
+    reviewCount: 24
     features:
       - "ウルトラ吸水加工で化粧水を繊維内にたっぷり保持"
       - "独自の波形加工で摩擦が少なく肌へのダメージを軽減"

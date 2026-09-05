@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-05"
 products:
   - rank: 1
     name: "ウイルカット プラスチックグローブ 100枚"
@@ -158,7 +158,7 @@ products:
         available: true
         rating: 4.6
         reviewCount: 88
-    priceMax: 6820
+    priceMax: 6787
   - rank: 6
     name: "ニトリル手袋 パウダーフリー 1000枚"
     brand: "明成"
@@ -231,7 +231,7 @@ products:
     price: 1060
     capacity: "100枚"
     rating: 4.57
-    reviewCount: 3645
+    reviewCount: 3646
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -250,10 +250,10 @@ products:
   - rank: 9
     name: "ニトリル手袋 パウダーフリー 100枚"
     brand: "TRINITY COSME"
-    price: 1060
+    price: 1059
     capacity: "100枚"
     rating: 4.71
-    reviewCount: 1448
+    reviewCount: 1450
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -267,7 +267,7 @@ products:
       - "大量購入で在庫管理スペースを確保したい"
     recommendedFor: "食品調理・介護・作業用にニトリル手袋を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz97n.3rdw61ff.g00tz97n.3rdw7e95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrinity-cosme%2Fsan350532x1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrinity-cosme%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/trinity-cosme/cabinet/09165139/09165140/imgrc0112130448.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/trinity-cosme/cabinet/09165139/09165140/imgrc0121496615.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

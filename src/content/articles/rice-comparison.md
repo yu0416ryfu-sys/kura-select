@@ -4,14 +4,14 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-05"
 products:
   - rank: 1
     name: "国内産 農家直米 白米"
     brand: "安齋商店"
-    price: 5180
+    price: 4980
     capacity: "10kg"
-    pricePerUnit: "約518円/kg"
+    pricePerUnit: "約498円/kg"
     rating: 4.39
     reviewCount: 16099
     features:
@@ -42,9 +42,9 @@ products:
   - rank: 2
     name: "令和7年産 無洗米 三重県産コシヒカリ 10kg"
     brand: "ハーベストシーズン"
-    price: 6099
+    price: 5890
     capacity: "10kg"
-    pricePerUnit: "約610円/kg"
+    pricePerUnit: "約589円/kg"
     rating: 4.61
     reviewCount: 4527
     features:
@@ -247,11 +247,11 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-    priceMax: 23980
+    priceMax: 19950
   - rank: 9
     name: "秋田県産 あきたこまち 18kg〜20kg"
     brand: "秋田県産あきたこまち"
-    price: 8960
+    price: 8250
     capacity: "18kg〜20kg"
     rating: 4.74
     reviewCount: 45819
@@ -269,7 +269,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtn3n.3rdw6fc6.g00qtn3n.3rdw7aa1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frice-akita%2F1000000130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frice-akita%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rice-akita/cabinet/03459843/05525503/09674048/imgrc0081536274.jpg?_ex=128x128"
-    priceMax: 9960
+    priceMax: 9170
 tags:
   - "お米"
   - "米"

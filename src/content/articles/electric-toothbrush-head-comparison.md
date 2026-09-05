@@ -4,32 +4,10 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-05"
 draft: false
 products:
   - rank: 1
-    name: "オーラルB互換ブラシ EB17 EB10"
-    brand: "e-shop aoakua"
-    price: 1420
-    capacity: "16本"
-    pricePerUnit: "約89円/本"
-    rating: 4.8
-    reviewCount: 30
-    features:
-      - "電動歯ブラシ用の交換ブラシ"
-      - "対応機種を確認して選ぶ替えブラシタイプ"
-      - "ストックしやすい複数本セット"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5rln.3rdw693c.g00s5rln.3rdw7066/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faoakua%2F10000252%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faoakua%2Fi%2F10000252%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aoakua/cabinet/06495854/imgrc0105402366.jpg?_ex=128x128"
-  - rank: 2
     name: "ブラウン オーラルB EB17 対応 互換替えブラシ 32本"
     brand: "ビューティーブリッジ（オーラルB 互換品）"
     price: 2574
@@ -51,6 +29,28 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6l1n.3rdw6f6f.g00r6l1n.3rdw7918/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyhair%2Foral-b-8set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyhair%2Fi%2F10005265%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyhair/cabinet/mbimg/eb17-32m01.jpg?_ex=128x128"
+  - rank: 2
+    name: "オーラルB互換ブラシ EB17 EB10"
+    brand: "e-shop aoakua"
+    price: 1420
+    capacity: "16本"
+    pricePerUnit: "約89円/本"
+    rating: 4.8
+    reviewCount: 30
+    features:
+      - "電動歯ブラシ用の交換ブラシ"
+      - "対応機種を確認して選ぶ替えブラシタイプ"
+      - "ストックしやすい複数本セット"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5rln.3rdw693c.g00s5rln.3rdw7066/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faoakua%2F10000252%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faoakua%2Fi%2F10000252%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aoakua/cabinet/06495854/imgrc0105402366.jpg?_ex=128x128"
   - rank: 3
     name: "オーラルB互換 替えブラシ 16本セット"
     brand: "互換品（非純正）"
@@ -145,8 +145,8 @@ products:
     price: 8338
     capacity: "6本"
     pricePerUnit: "約1390円/本"
-    rating: 4.6
-    reviewCount: 203
+    rating: 4.59
+    reviewCount: 206
     features:
       - "iOシリーズ（iO2〜iO9）専用設計"
       - "純正品のためiO本体の自動認識機能が正常動作"
@@ -178,8 +178,8 @@ products:
     price: 3498
     capacity: "2本"
     pricePerUnit: "約1749円/本"
-    rating: 4.56
-    reviewCount: 32
+    rating: 4.55
+    reviewCount: 33
     features:
       - "電動歯ブラシ用の交換ブラシ"
       - "対応機種を確認して選ぶ替えブラシタイプ"

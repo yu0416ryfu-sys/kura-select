@@ -4,7 +4,7 @@ description: "ティッシュペーパーを1組あたりの価格で徹底比�
 category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-05"
 products:
   - rank: 1
     name: "ハロー ソフトパックティッシュ"
@@ -167,7 +167,7 @@ products:
     capacity: "200枚（100組）×12箱"
     pricePerUnit: "約4.8円/組"
     rating: 4.65
-    reviewCount: 695
+    reviewCount: 697
     features:
       - "パルプ100%の柔らかな2枚重ね"
       - "エリエールブランドの高品質"
@@ -232,7 +232,7 @@ products:
     price: 1600
     capacity: "200組×80個"
     rating: 4.66
-    reviewCount: 1302
+    reviewCount: 1303
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"
