@@ -29,12 +29,45 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4eyn.3rdw6ddc.g00s4eyn.3rdw7319/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiryushop%2Fkorokoro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiryushop%2Fi%2F10006942%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiryushop/cabinet/health3/korokoro-00.jpg?_ex=128x128"
   - rank: 2
-    name: "激コロくん スゴ技ななめカット 粘着スペアテープ 3巻×2"
+    name: "レック 激コロくん スゴ技ななめカット 70周 3巻入り"
+    brand: "レック"
+    price: 377
+    capacity: "3巻（1巻70周）"
+    pricePerUnit: "約126円/巻"
+    rating: 4.5
+    reviewCount: 2
+    features:
+      - "特殊なスパイラルカットで手でまっすぐめくれる"
+      - "1巻70周で標準より多い周回数"
+      - "強粘着タイプでペットの毛もキャッチ"
+    pros:
+      - "スパイラルカットでめくりストレスゼロ"
+      - "70周と多めでコスパが良い"
+      - "強粘着でしっかりゴミを取れる"
+    cons:
+      - "フローリングでは貼り付きやすい"
+      - "3巻入りのみで大容量パックがない"
+    recommendedFor: "ペットを飼っている方・カーペットの掃除が多い方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pymin.3rdw6e02.g00pymin.3rdw7e2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhc7%2F4903320587014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhc7%2Fi%2F12437796%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hc7/cabinet/2019-10/4903320587014.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fb60033.html"
+        matchStatus: "pending"
+        updatedAt: "2026-08-09"
+        price: 293
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_b60033"
+        available: true
+  - rank: 3
+    name: "レック 激コロくん スゴ技ななめカット スジ塗り強粘 70周 3巻入り"
     brand: "レック（LEC）"
-    price: 762
-    capacity: "3巻×2（6巻）"
-    pricePerUnit: "約127円/巻"
-    rating: 1
+    price: 500
+    capacity: "3巻（1巻70周）"
+    pricePerUnit: "約167円/巻"
+    rating: 3
     reviewCount: 1
     features:
       - "コロコロ本体用の替え粘着テープ"
@@ -48,8 +81,8 @@ products:
       - "対応する本体が必要"
       - "テープ幅が合う本体か確認が必要"
     recommendedFor: "コロコロの替えテープをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F47704%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10859735%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/704/47704.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pymin.3rdw6e02.g00pymin.3rdw7e2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhc7%2F4903320587120%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhc7%2Fi%2F12341142%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hc7/cabinet/2019-10/4903320587120.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -61,7 +94,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4903320592193"
         available: true
-  - rank: 3
+  - rank: 4
     name: "3M スコッチ ブライト 衣類用粘着クリーナー ペタコロ用ス"
     brand: "3M（スコッチ・ブライト）"
     price: 426
@@ -83,7 +116,7 @@ products:
     recommendedFor: "花粉・ハウスダスト対策をしたい方・カーペット中心のお部屋の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tiz9n.3rdw6353.g00tiz9n.3rdw771a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprotoolshop%2F4547452231119%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprotoolshop%2Fi%2F10170127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/protoolshop/cabinet/119/4547452231119.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 5
     name: "アイム ミラクルくるsoujikko 粘着クリーナー"
     brand: "アイム"
     price: 4607
@@ -105,39 +138,6 @@ products:
     recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0k0n.3rdw6b8e.g00u0k0n.3rdw7ca2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimximx%2F4978406020464-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimximx%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/imximx/cabinet/compass1739768026.jpg?_ex=128x128"
-  - rank: 5
-    name: "レック 激コロ スゴ技カット スペアテープ 70周 3巻入り"
-    brand: "レック"
-    price: 802
-    capacity: "3巻（1巻70周）"
-    pricePerUnit: "約267円/巻"
-    rating: 5
-    reviewCount: 2
-    features:
-      - "特殊なスパイラルカットで手でまっすぐめくれる"
-      - "1巻70周で標準より多い周回数"
-      - "強粘着タイプでペットの毛もキャッチ"
-    pros:
-      - "スパイラルカットでめくりストレスゼロ"
-      - "70周と多めでコスパが良い"
-      - "強粘着でしっかりゴミを取れる"
-    cons:
-      - "フローリングでは貼り付きやすい"
-      - "3巻入りのみで大容量パックがない"
-    recommendedFor: "ペットを飼っている方・カーペットの掃除が多い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rxl4n.3rdw6a4b.g00rxl4n.3rdw744a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-zakka%2F103-4903320587014com%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-zakka%2Fi%2F10172371%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-zakka/cabinet/vic202202/4903320587014.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fb60033.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-09"
-        price: 293
-        rating: 0
-        reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_b60033"
-        available: true
   - rank: 6
     name: "ニトムズ コロコロ スペアテープ フロアクリン 3巻入り"
     brand: "ニトムズ"

@@ -51,13 +51,13 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00trvxn.3rdw692d.g00trvxn.3rdw77c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frunnrunn-shop%2Fdaiomask-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frunnrunn-shop%2Fi%2F10000121%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/runnrunn-shop/cabinet/10802269/imgrc0107306132.jpg?_ex=128x128"
   - rank: 3
-    name: "ユニ・チャーム 超快適マスク プリーツタイプ ふつうサイズ 50枚入"
+    name: "ユニ・チャーム 超快適マスク プリーツタイプ ふつうサイズ 50枚"
     brand: "ユニ・チャーム"
-    price: 2260
-    capacity: "50枚入"
-    pricePerUnit: "約45円/枚"
-    rating: 4.92
-    reviewCount: 13
+    price: 1900
+    capacity: "50枚"
+    pricePerUnit: "約38円/枚"
+    rating: 4.94
+    reviewCount: 118
     features:
       - "独自の超快適素材で肌への刺激が少ない"
       - "プリーツ構造で口まわりに空間ができて息がしやすい"
@@ -70,8 +70,8 @@ products:
       - "コスパ重視の安価品より1枚単価が高め"
       - "立体型と比べると顔に密着しやすい"
     recommendedFor: "肌へのやさしさと着用感を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugwon.3rdw61af.g00ugwon.3rdw786a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fechi-zen-r%2Fcho-kaiteki-mask-m-50-1pc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fechi-zen-r%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/echi-zen-r/cabinet/biiino/item/main-image/20240213101506_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qkwxn.3rdw6942.g00qkwxn.3rdw7551/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-tsuhan%2F10039800%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-tsuhan%2Fi%2F10039800%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-tsuhan/cabinet/uni/4903111579907_01.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

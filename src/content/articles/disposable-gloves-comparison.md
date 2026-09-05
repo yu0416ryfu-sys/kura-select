@@ -228,7 +228,7 @@ products:
   - rank: 8
     name: "ニトリル手袋 パウダーフリー 医療対応"
     brand: "TKJP"
-    price: 1056
+    price: 1050
     capacity: "100枚"
     rating: 4.57
     reviewCount: 3648

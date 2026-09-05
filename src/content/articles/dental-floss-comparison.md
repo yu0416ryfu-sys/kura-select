@@ -211,11 +211,11 @@ products:
   - rank: 8
     name: "オーラルケア フロアフロス 250m 歯科専売品"
     brand: "fluorfloss"
-    price: 3010
+    price: 3089
     capacity: "250m"
     pricePerUnit: "約12円/m"
-    rating: 4.72
-    reviewCount: 209
+    rating: 4.44
+    reviewCount: 216
     features:
       - "384本の細い繊維を束ねた高密度フロス設計"
       - "詰め替え用でホルダーを再利用できるエコ設計"
@@ -228,8 +228,8 @@ products:
       - "専用ホルダーが別途必要な場合がある"
       - "初期購入コストがやや高め"
     recommendedFor: "環境に配慮した使い方をしたい方・フロアフロスのリピーター"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F41694%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007294%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0905_100b/kirikae2/41694_sam.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t0trn.3rdw642b.g00t0trn.3rdw7fbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkelly-s%2F10000928%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkelly-s%2Fi%2F10002733%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kelly-s/cabinet/2023/aimgrc0074576324.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

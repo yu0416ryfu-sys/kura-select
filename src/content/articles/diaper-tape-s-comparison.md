@@ -7,28 +7,6 @@ articleType: "comparison"
 updatedAt: "2026-09-05"
 products:
   - rank: 1
-    name: "メリーズ ずっと肌さらエアスルー Sサイズ 124枚+8枚（132枚）+8枚 旧パッケージ"
-    brand: "花王（メリーズ）"
-    price: 2930
-    capacity: "124枚+8枚（132枚）"
-    pricePerUnit: "約22円/枚"
-    rating: 4.58
-    reviewCount: 26
-    features:
-      - "全面通気性に優れたエアスルー素材採用"
-      - "132枚大容量で1枚あたりコストが安い"
-      - "Sサイズ4〜8kg対応"
-    pros:
-      - "通気性に優れており蒸れにくく肌さらさらをキープ"
-      - "132枚の大容量でコストパフォーマンスが高い"
-      - "花王の定番人気ブランドで安心の品質"
-    cons:
-      - "通気性重視のため長時間は漏れリスクが上がる場合も"
-      - "プレミアムラインと比べると肌触りはシンプル"
-    recommendedFor: "蒸れやおむつかぶれが気になる方・コスパ重視でまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6xln.3rdw632a.g00u6xln.3rdw7ef6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjandcbaby%2Fkao-ts88%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjandcbaby%2Fi%2F10000078%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jandcbaby/cabinet/08963043/imgrc0111965819.jpg?_ex=128x128"
-  - rank: 2
     name: "ムーニー テープ Sサイズ"
     brand: "ムーニー（ユニ・チャーム）"
     price: 1757
@@ -50,7 +28,7 @@ products:
     recommendedFor: "Sサイズを少量から試したい方・テープ型を続けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4903111138302%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10539510%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0083/4903111138302_1.jpg?_ex=128x128"
-  - rank: 3
+  - rank: 2
     name: "ムーニー マシュマロ肌ごこち テープ Sサイズ 大容量"
     brand: "ユニ・チャーム（ムーニー）"
     price: 7084
@@ -83,7 +61,7 @@ products:
         available: true
         rating: 4.74
         reviewCount: 53
-  - rank: 4
+  - rank: 3
     name: "ムーニー マシュマロ肌ごこち モレ安心 テープ S 70枚"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1804
@@ -116,6 +94,28 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+  - rank: 4
+    name: "メリーズ ずっと肌さらエアスルー テープ Sサイズ 62枚"
+    brand: "花王（メリーズ）"
+    price: 1870
+    capacity: "62枚"
+    pricePerUnit: "約30円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "全面通気性に優れたエアスルー素材採用"
+      - "132枚大容量で1枚あたりコストが安い"
+      - "Sサイズ4〜8kg対応"
+    pros:
+      - "通気性に優れており蒸れにくく肌さらさらをキープ"
+      - "132枚の大容量でコストパフォーマンスが高い"
+      - "花王の定番人気ブランドで安心の品質"
+    cons:
+      - "通気性重視のため長時間は漏れリスクが上がる場合も"
+      - "プレミアムラインと比べると肌触りはシンプル"
+    recommendedFor: "蒸れやおむつかぶれが気になる方・コスパ重視でまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F666-2109%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10640742%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin600_07/666-2109.jpg?_ex=128x128"
   - rank: 5
     name: "ムーニー 低刺激であんしん 紙おむつ テープ"
     brand: "ユニ・チャーム（ムーニーナチュラル）"
