@@ -6,6 +6,7 @@ import {
   buildYahooItemSearchUrl,
   normalizeYahooItemSearchResponse,
   searchYahooShoppingItems,
+  checkOfferLinkStatus,
 } from "../scripts/lib/yahoo-shopping";
 
 describe("yahoo-shopping", () => {
@@ -133,5 +134,79 @@ describe("yahoo-shopping", () => {
         fetchImpl,
       })
     ).resolves.toBeInstanceOf(Array);
+  });
+});
+
+/**
+ * offer リンクの生存確認。
+ *
+ * ⚠ 実ネットワークには一切出ない（fetchImpl を注入する）。
+ *   判定できないものは unknown にして review 化しない＝記事を壊さない側に倒す設計。
+ */
+describe("checkOfferLinkStatus", () => {
+  const URL_UNDER_TEST = "https://store.shopping.yahoo.co.jp/sundrugec/4560461866660.html";
+
+  function fakeFetch(status: number, body = "<html>商品ページ</html>") {
+    const calls: Array<{ url: string; init: RequestInit }> = [];
+    const impl = (async (url: string, init: RequestInit) => {
+      calls.push({ url, init });
+      return { status, text: async () => body } as unknown as Response;
+    }) as unknown as typeof fetch;
+    return { impl, calls };
+  }
+
+  it.each([404, 410])("%i は dead", async (status) => {
+    const { impl } = fakeFetch(status);
+    expect(await checkOfferLinkStatus(URL_UNDER_TEST, { fetchImpl: impl })).toBe("dead");
+  });
+
+  it("200 は alive", async () => {
+    const { impl } = fakeFetch(200);
+    expect(await checkOfferLinkStatus(URL_UNDER_TEST, { fetchImpl: impl })).toBe("alive");
+  });
+
+  it.each([403, 429, 500, 503])("%i は unknown（ショップ側の都合で dead とは限らない）", async (status) => {
+    const { impl } = fakeFetch(status);
+    expect(await checkOfferLinkStatus(URL_UNDER_TEST, { fetchImpl: impl })).toBe("unknown");
+  });
+
+  it("fetch が throw したら unknown", async () => {
+    const impl = (async () => {
+      throw new Error("network down");
+    }) as unknown as typeof fetch;
+    expect(await checkOfferLinkStatus(URL_UNDER_TEST, { fetchImpl: impl })).toBe("unknown");
+  });
+
+  it("タイムアウト（abort）は unknown", async () => {
+    const impl = ((_url: string, init: RequestInit) =>
+      new Promise((_resolve, reject) => {
+        init.signal?.addEventListener("abort", () => reject(new Error("aborted")));
+      })) as unknown as typeof fetch;
+    expect(await checkOfferLinkStatus(URL_UNDER_TEST, { fetchImpl: impl, timeoutMs: 10 })).toBe(
+      "unknown"
+    );
+  });
+
+  it("User-Agent と redirect: follow を指定して叩く（403 対策）", async () => {
+    const { impl, calls } = fakeFetch(200);
+    await checkOfferLinkStatus(URL_UNDER_TEST, { fetchImpl: impl });
+    expect(calls).toHaveLength(1);
+    expect(calls[0].url).toBe(URL_UNDER_TEST);
+    expect(calls[0].init.redirect).toBe("follow");
+    const headers = calls[0].init.headers as Record<string, string>;
+    expect(headers["User-Agent"]).toMatch(/KuraSelect-LinkCheck/);
+  });
+
+  it("SOLD_OUT_MARKERS が空の間は本文を読まない（200 は無条件 alive）", async () => {
+    let textCalled = false;
+    const impl = (async () => ({
+      status: 200,
+      text: async () => {
+        textCalled = true;
+        return "";
+      },
+    })) as unknown as typeof fetch;
+    expect(await checkOfferLinkStatus(URL_UNDER_TEST, { fetchImpl: impl })).toBe("alive");
+    expect(textCalled).toBe(false);
   });
 });

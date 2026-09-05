@@ -44,6 +44,50 @@ export function extractUrlQuantityMultiplier(url: string): number {
   return Number.isFinite(n) && n >= 2 ? n : 1;
 }
 
+/** 計測リンクのホスト。ここへは生存確認のリクエストを絶対に投げない。 */
+const AFFILIATE_TRACKER_HOSTS = new Set(["ck.jp.ap.valuecommerce.com"]);
+
+/**
+ * offer URL から「生存確認のために実際に叩いてよい URL」を取り出す。
+ *
+ * 記事の Yahoo offer は全件が ValueCommerce の referral リンクで、これを GET すると
+ *   1. VC 側に架空クリックが計上され reports/affiliate-performance-log.md の CVR/EPC が汚れる
+ *   2. ASP から不正クリック扱いされうる
+ *   3. そもそも referral servlet は転送先が死んでいても 200/302 を返すので 404 を検出できない
+ * の3つが起きる。したがって vc_url をデコードした転送先だけを返す。
+ *
+ * 戻り値 null = 生存確認の対象にできない。呼び出し側は必ず skip すること
+ * （unwrapAffiliateUrl() と違い、パラメータが無いときに元 URL へフォールバックしない。
+ *  フォールバックすると計測リンクをそのまま叩いてしまうため）。
+ */
+export function resolveOfferTargetUrl(offerUrl: string | null | undefined): string | null {
+  if (!offerUrl) return null;
+
+  let parsed: URL;
+  try {
+    parsed = new URL(offerUrl);
+  } catch {
+    return null;
+  }
+
+  if (!AFFILIATE_TRACKER_HOSTS.has(parsed.hostname)) return parsed.toString();
+
+  // URLSearchParams.get() が既にデコード済みの値を返すので decodeURIComponent は呼ばない
+  // （二重デコードすると転送先クエリ内の %26 などが壊れる）。
+  const target = parsed.searchParams.get("vc_url");
+  if (!target) return null;
+
+  let inner: URL;
+  try {
+    inner = new URL(target);
+  } catch {
+    return null;
+  }
+  // 二重ラップの計測リンクを転送先として受け入れない
+  if (AFFILIATE_TRACKER_HOSTS.has(inner.hostname)) return null;
+  return inner.toString();
+}
+
 function unwrapAffiliateUrl(url: string, param: string): string | null {
   try {
     const parsed = new URL(url);
@@ -352,10 +396,45 @@ function getOkuriganaAliases(token: string): readonly string[] {
   return OKURIGANA_TOKEN_ALIASES[token] ?? [];
 }
 
+/**
+ * Yahoo 候補として採用しない出品形態。
+ *
+ * 数量違い（ケース売り・○個セット・まとめ買い）は capacity 整合が既に弾いているので
+ * ここには入れない。ここで弾くのは「同一商品として価格比較する対象にならない」出品。
+ *
+ * ⚠ 売り文句として現れる語は入れない。2026-09-06 に 'アウトレット' / '訳あり' / 'わけあり' を
+ *   候補に挙げたところ、rice の rank2（実データ）の出品名
+ *   「…お米 白米 安い 令和7年産 訳あり ブレンド米『国内産令和7年農家直米白米10kg』」に
+ *   反応して、既に matched になっている正当な offer を落とした。
+ *   出品形態を一意に示す語だけに限定する。
+ */
+export const YAHOO_EXCLUDED_LISTING_TERMS = [
+  "ふるさと納税",
+  "返礼品",
+  "中古",
+  "福袋",
+  "レンタル",
+] as const;
+
+/** 候補名に採用不可の出品形態語が含まれるか。両辺とも同じ正規化を通して比較する。 */
+export function findExcludedListingTerms(name: string): string[] {
+  const text = normalizeYahooMatchText(name);
+  return YAHOO_EXCLUDED_LISTING_TERMS.filter((term) =>
+    text.includes(normalizeYahooMatchText(term))
+  );
+}
+
 export function evaluateYahooCandidate(
   product: ProductForMatching,
   candidate: YahooOfferCandidate
 ): EvaluateResult {
+  // 出品形態ゲート: ふるさと納税・中古など、同一商品として価格比較できない出品を最初に落とす。
+  // 商品名トークンが完全一致しても採用しないので isLikelySameProduct より前に置く。
+  const excludedTerms = findExcludedListingTerms(candidate.name);
+  if (excludedTerms.length > 0) {
+    return { ok: false, reason: `出品形態が対象外（${excludedTerms.join(", ")}）` };
+  }
+
   // 基本チェック: isLikelySameProduct は変更しない（ok 判定に brand は使わない）
   if (!isLikelySameProduct(product.name, candidate.name)) {
     return { ok: false, reason: "商品名トークン不一致" };

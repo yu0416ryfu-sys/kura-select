@@ -16,6 +16,7 @@
     "update-products:dry": "node --experimental-strip-types scripts/update-products.mjs --dry-run",
     "update-yahoo-products": "node --experimental-strip-types scripts/update-yahoo-products.mjs",
     "update-yahoo-products:dry": "node --experimental-strip-types scripts/update-yahoo-products.mjs --dry-run",
+    "check-yahoo-links": "node --experimental-strip-types scripts/update-yahoo-products.mjs --check-links --dry-run --concurrency=1 --api-interval=1000",
     "check-replacements": "node --experimental-strip-types scripts/update-products.mjs --check-replacements",
     "check-additions": "node --experimental-strip-types scripts/update-products.mjs --check-additions",
     "update-amazon-products": "node --experimental-strip-types scripts/update-amazon-products.mjs",

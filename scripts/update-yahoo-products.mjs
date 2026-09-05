@@ -16,12 +16,13 @@ import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 
 import { join, resolve } from "path";
 import yaml from "js-yaml";
 import { buildSearchKeyword, isProductManagedArticle } from "./lib/frontmatter.ts";
-import { searchYahooShoppingItems } from "./lib/yahoo-shopping.ts";
+import { searchYahooShoppingItems, checkOfferLinkStatus } from "./lib/yahoo-shopping.ts";
 import { upsertYahooOfferInFrontmatter, markProviderOffersForReview } from "./lib/yahoo-offers.ts";
 import {
   buildYahooSupplementalSearchQuery,
   evaluateYahooCandidate,
   toComparableCapacity,
+  resolveOfferTargetUrl,
 } from "./lib/yahoo-matching.ts";
 
 // ─── 環境変数を読み込み ──────────────────────────────────────────────────────
@@ -48,6 +49,8 @@ const rawEnv = loadEnv();
 
 const args = process.argv.slice(2);
 const DRY_RUN = args.includes("--dry-run");
+// リンク生存確認モード。Yahoo API も ValueCommerce も使わず、既存 offer の URL だけを見る。
+const CHECK_LINKS = args.includes("--check-links");
 const FILE_FILTER = args.find((a) => a.startsWith("--file="))?.split("=")[1] ?? null;
 
 // 正の整数オプションを安全にパースする（NaN は default にフォールバックし min/max でクランプ）
@@ -138,6 +141,12 @@ async function searchYahooShoppingItemsLimited(query) {
   return searchYahooShoppingItems(query, { ...env, results: 5, timeoutMs: API_TIMEOUT_MS });
 }
 
+// ショップサイトへの直接アクセスなので API と同じレート制御に乗せる（API より遠慮する）
+async function checkOfferLinkStatusLimited(url) {
+  await waitForApiSlot();
+  return checkOfferLinkStatus(url, { timeoutMs: API_TIMEOUT_MS });
+}
+
 function todayJst() {
   return new Date().toISOString().slice(0, 10);
 }
@@ -215,6 +224,53 @@ async function runWithConcurrency(items, concurrency, worker) {
     if (executing.size >= concurrency) await Promise.race(executing);
   }
   return Promise.all(results);
+}
+
+// ─── 1 商品のリンク生存確認（--check-links。API 照合はしない）──────────────
+
+// レポート集計用。全体の内訳を出さないと「404 が 0 件」と「検出できていない」を取り違える。
+const linkCheckTally = { alive: 0, dead: 0, unknown: 0, skipped: 0 };
+
+/**
+ * 既存 yahoo offer のリンクが生きているかだけを確認する。
+ *
+ * ⚠ 記事の offer URL は ValueCommerce の計測リンクなので、そのまま叩くと架空クリックが
+ *   計上される。必ず resolveOfferTargetUrl() で転送先の実 URL に解決してから叩く。
+ *   解決できないものは skip する（フォールバックで計測リンクを叩かせない）。
+ */
+async function checkProductLinks(product) {
+  const lines = [`### rank ${product.rank}: ${product.name}`];
+
+  // 人の判断待ち（review / rejected）と pending は触らない
+  const offer = product.offers.find(
+    (o) => o.provider === "yahoo" && (o.matchStatus === "matched" || !o.matchStatus)
+  );
+  if (!offer) {
+    linkCheckTally.skipped++;
+    lines.push("- link: skipped (対象の yahoo offer なし)");
+    return { product, lines, mutationAction: null };
+  }
+
+  const targetUrl = resolveOfferTargetUrl(offer.url);
+  if (!targetUrl) {
+    linkCheckTally.skipped++;
+    lines.push("- link: skipped (実URLを抽出できない)");
+    return { product, lines, mutationAction: null };
+  }
+
+  const status = await checkOfferLinkStatusLimited(targetUrl);
+  lines.push(`- target: ${targetUrl}`);
+  lines.push(`- link: ${status}`);
+  linkCheckTally[status]++;
+
+  if (status === "dead") {
+    return {
+      product,
+      lines,
+      mutationAction: { type: "review", reason: "リンク切れ(404)" },
+    };
+  }
+  return { product, lines, mutationAction: null };
 }
 
 // ─── 1 商品の API 照合・判定（content への書き込みはしない）────────────────
@@ -315,7 +371,7 @@ async function fetchProductDecision(product) {
       if (existingMatched) {
         const rejectedExisting = rejectedCandidates.find((r) => r.url === existingMatched.url);
         if (rejectedExisting) {
-          lines.push(`- downgrade: matched offer が capacity 不一致（${rejectedExisting.reason}）のため review に降格`);
+          lines.push(`- downgrade: matched offer が不適合（${rejectedExisting.reason}）のため review に降格`);
           return {
             product,
             lines,
@@ -348,7 +404,7 @@ async function fetchProductDecision(product) {
     }
     const shouldForceReplace = !!(rejectedExistingMatched && selected.url !== existingMatchedUrl);
     if (shouldForceReplace && rejectedExistingMatched) {
-      lines.push(`- replace: matched offer が capacity 不一致（${rejectedExistingMatched.reason}）のため新候補に置換`);
+      lines.push(`- replace: matched offer が不適合（${rejectedExistingMatched.reason}）のため新候補に置換`);
     }
     return {
       product,
@@ -391,7 +447,9 @@ async function processArticle(file, index, progress) {
       // 保険: fetchProductDecision は必ず解決する設計だが、想定外の throw でも
       // Promise.all を巻き込まないよう商品単位で握りつぶす
       try {
-        return await fetchProductDecision(product);
+        return CHECK_LINKS
+          ? await checkProductLinks(product)
+          : await fetchProductDecision(product);
       } catch (error) {
         return {
           product,
@@ -459,7 +517,8 @@ const header = [
   "",
 ];
 
-if (!hasCredentials) {
+// --check-links は Yahoo API も VC も呼ばないので資格情報を要求しない
+if (!hasCredentials && !CHECK_LINKS) {
   const outputPath = reportPath();
   writeFileSync(outputPath, `${header.join("\n")}\n- skipped: credentials are missing\n`, "utf8");
   console.error("❌ YAHOO_SHOPPING_APP_ID / VALUECOMMERCE_SID / VALUECOMMERCE_PID が設定されていません");
@@ -474,6 +533,26 @@ const progress = createProgressLogger(files.length);
 const results = await runWithConcurrency(files, CONCURRENCY, (file, index) => processArticle(file, index, progress));
 
 const allLines = [...header];
+
+// リンク確認モードは内訳を必ず先頭に出す。
+// unknown が多い状態の「dead 0件」を「リンク切れ無し」と読み違えないため。
+if (CHECK_LINKS) {
+  const { alive, dead, unknown, skipped } = linkCheckTally;
+  const checked = alive + dead + unknown;
+  const unknownRate = checked > 0 ? ((unknown / checked) * 100).toFixed(1) : "0.0";
+  allLines.push(
+    "## リンク確認の内訳",
+    "",
+    `- alive: ${alive} / dead: ${dead} / unknown: ${unknown} / skipped: ${skipped}`,
+    `- unknown 比率: ${unknownRate}%（確認できた ${checked} 件に対する割合）`,
+    "- ⚠ unknown 比率が 30% を超える場合、この方式は成立していない（Yahoo 側のブロックを疑い itemSearch 経由に切り替える）",
+    ""
+  );
+  console.log(
+    `🔗 alive ${alive} / dead ${dead} / unknown ${unknown} / skipped ${skipped}（unknown 比率 ${unknownRate}%）`
+  );
+}
+
 let changedFiles = 0;
 for (const r of results) {
   allLines.push(...r.lines, "");

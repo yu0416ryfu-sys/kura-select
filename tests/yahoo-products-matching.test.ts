@@ -15,7 +15,76 @@ import {
   normalizeTokens,
   normalizeYahooMatchText,
   buildYahooSupplementalSearchQuery,
+  resolveOfferTargetUrl,
+  findExcludedListingTerms,
 } from "../scripts/lib/yahoo-matching";
+
+/**
+ * 生存確認の対象 URL の解決。
+ *
+ * ⚠ このテストが守っているのは「アフィリエイト計測リンクを絶対に叩かない」こと。
+ *   記事の Yahoo offer は実測で 110記事すべてが ValueCommerce の referral リンクで、
+ *   これを GET すると架空クリックが計上され CVR/EPC が汚染される。
+ *   戻り値に計測ホストが出ないことを全ケースで assert する。
+ */
+describe("resolveOfferTargetUrl（計測リンクを叩かないためのガード）", () => {
+  const TRACKER_HOST = "ck.jp.ap.valuecommerce.com";
+  // 実記事（src/content/articles/*.md）から採取した実物の形。
+  const REAL_OFFER_URL =
+    "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315" +
+    "&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4560461866660.html";
+
+  it("VC referral リンクから転送先の Yahoo ストア URL を取り出す", () => {
+    expect(resolveOfferTargetUrl(REAL_OFFER_URL)).toBe(
+      "https://store.shopping.yahoo.co.jp/sundrugec/4560461866660.html"
+    );
+  });
+
+  it("vc_url が無い VC リンクは null（元 URL にフォールバックしない）", () => {
+    const url = `https://${TRACKER_HOST}/servlet/referral?sid=3770852&pid=892615315`;
+    expect(resolveOfferTargetUrl(url)).toBeNull();
+  });
+
+  it("二重ラップの計測リンクは受け入れない", () => {
+    const inner = encodeURIComponent(`https://${TRACKER_HOST}/servlet/referral?sid=1&pid=2`);
+    expect(resolveOfferTargetUrl(`https://${TRACKER_HOST}/servlet/referral?vc_url=${inner}`)).toBeNull();
+  });
+
+  it("Yahoo ストアの直リンクはそのまま返す", () => {
+    const url = "https://store.shopping.yahoo.co.jp/sundrugec/4560461866660.html";
+    expect(resolveOfferTargetUrl(url)).toBe(url);
+  });
+
+  it("URL として壊れている値・空値は null", () => {
+    expect(resolveOfferTargetUrl("not a url")).toBeNull();
+    expect(resolveOfferTargetUrl("")).toBeNull();
+    expect(resolveOfferTargetUrl(null)).toBeNull();
+    expect(resolveOfferTargetUrl(undefined)).toBeNull();
+  });
+
+  it("転送先がクエリを持つ場合も二重デコードで壊さない", () => {
+    const target = "https://store.shopping.yahoo.co.jp/shop/item.html?a=1%262&b=x";
+    const url = `https://${TRACKER_HOST}/servlet/referral?vc_url=${encodeURIComponent(target)}`;
+    expect(resolveOfferTargetUrl(url)).toBe(target);
+  });
+
+  it("どの入力でも戻り値に計測ホストが出ない", () => {
+    const inputs = [
+      REAL_OFFER_URL,
+      `https://${TRACKER_HOST}/servlet/referral?sid=1`,
+      `https://${TRACKER_HOST}/servlet/referral?vc_url=${encodeURIComponent(
+        `https://${TRACKER_HOST}/servlet/referral?sid=1`
+      )}`,
+      "https://store.shopping.yahoo.co.jp/shop/item.html",
+      "not a url",
+      "",
+    ];
+    for (const input of inputs) {
+      const resolved = resolveOfferTargetUrl(input);
+      if (resolved !== null) expect(resolved).not.toContain("valuecommerce");
+    }
+  });
+});
 
 describe("Yahoo候補の容量照合", () => {
   describe("isSameComparableCapacity", () => {
@@ -839,5 +908,160 @@ products:
       expect(result.ok).toBe(true);
       expect(result.urlMultiplier).toBe(1);
     });
+  });
+});
+
+describe("出品形態ゲート（findExcludedListingTerms / evaluateYahooCandidate）", () => {
+  const product = {
+    name: "エリエール トイレットペーパー ダブル 25m",
+    capacity: "25m",
+    brand: "エリエール",
+  };
+  const candidate = (name: string) => ({
+    provider: "yahoo" as const,
+    label: "Yahoo!" as const,
+    name,
+    price: 1280,
+    url: "https://store.shopping.yahoo.co.jp/shop/item.html",
+    imageUrl: null,
+    available: true,
+    sellerName: null,
+  });
+
+  it("ふるさと納税・中古などを検出する", () => {
+    expect(findExcludedListingTerms("【ふるさと納税】トイレットペーパー 48ロール")).toEqual([
+      "ふるさと納税",
+    ]);
+    expect(findExcludedListingTerms("中古 ボールペン")).toEqual(["中古"]);
+    expect(findExcludedListingTerms("2026年 福袋 詰め合わせ")).toEqual(["福袋"]);
+  });
+
+  // 2026-09-06: '訳あり' 等を入れたら rice の rank2（実データ）を落とした。
+  // 売り文句として現れる語は除外リストに入れない、という設計判断の回帰テスト。
+  it("売り文句として現れる語（訳あり・アウトレット）では落とさない", () => {
+    expect(
+      findExcludedListingTerms(
+        "月間おすすめ! セール 米 10kg 送料無料 お米 白米 安い 令和7年産 訳あり ブレンド米"
+      )
+    ).toEqual([]);
+    expect(findExcludedListingTerms("アウトレット価格 洗剤 詰め替え")).toEqual([]);
+  });
+
+  it("数量表記（ケース・まとめ買い・○個セット）は対象にしない（capacity 整合の担当）", () => {
+    expect(findExcludedListingTerms("トイレットペーパー ケース販売 まとめ買い 12ロール×6")).toEqual(
+      []
+    );
+  });
+
+  it("通常の出品は空配列", () => {
+    expect(findExcludedListingTerms("メリット コンディショナー つめかえ用 1800ml")).toEqual([]);
+  });
+
+  it("商品名が一致していてもふるさと納税なら採用しない（トークン照合より前に効く）", () => {
+    const result = evaluateYahooCandidate(
+      product,
+      candidate("【ふるさと納税】エリエール トイレットペーパー ダブル 25m")
+    );
+    expect(result.ok).toBe(false);
+    expect(result.reason).toContain("出品形態が対象外");
+    expect(result.reason).toContain("ふるさと納税");
+  });
+
+  it("通常の出品はゲートを素通りして従来どおり評価される", () => {
+    const result = evaluateYahooCandidate(
+      product,
+      candidate("エリエール トイレットペーパー ダブル 25m 12ロール")
+    );
+    expect(result.reason).not.toContain("出品形態が対象外");
+  });
+});
+
+/**
+ * review / rejected の offer を自動で matched に戻さないことの回帰テスト。
+ *
+ * 実装は offers-frontmatter.ts の early return 順に依存している（review/rejected の判定が
+ * forceReplaceMatched の分岐より前にある）。この順序が入れ替わると、人が review に落とした
+ * offer が次回実行で静かに復活する。順序そのものをテストで固定する。
+ */
+describe("upsertYahooOfferInFrontmatter: matchStatus の状態遷移", () => {
+  const fm = (matchStatus: string | null, url = "https://example.com/old") => `---
+title: "テスト"
+products:
+  - name: "商品A"
+    rank: 1
+    capacity: "1000ml"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 3000
+        url: "${url}"
+        available: true
+${matchStatus === null ? "" : `        matchStatus: "${matchStatus}"
+`}        updatedAt: "2026-01-01"
+---
+本文
+`;
+
+  const candidate = (url: string) => ({
+    provider: "yahoo" as const,
+    label: "Yahoo!" as const,
+    name: "商品A 1000ml",
+    price: 2800,
+    url,
+    imageUrl: null,
+    available: true,
+    sellerName: null,
+  });
+
+  const SAME = "https://example.com/old";
+  const OTHER = "https://example.com/new";
+  const opts = { capacityVerified: true, strictMatch: true };
+
+  it.each([
+    ["review", SAME, false],
+    ["review", OTHER, false],
+    ["review", OTHER, true],
+    ["rejected", SAME, false],
+    ["rejected", OTHER, true],
+  ])(
+    "%s の offer は forceReplaceMatched=%s でも復活しない（url=%s）",
+    (status, url, force) => {
+      const result = upsertYahooOfferInFrontmatter(
+        fm(status as string),
+        "商品A",
+        candidate(url as string),
+        "2026-09-06",
+        { ...opts, forceReplaceMatched: force as boolean }
+      );
+      expect(result.changed).toBe(false);
+      expect(result.reason).toContain(status as string);
+      // 元の matchStatus が保たれていること
+      expect(result.content).toContain(`matchStatus: "${status}"`);
+    }
+  );
+
+  it("matched + 同一URL は更新される", () => {
+    const result = upsertYahooOfferInFrontmatter(fm("matched"), "商品A", candidate(SAME), "2026-09-06", opts);
+    expect(result.changed).toBe(true);
+  });
+
+  it("matched + 別URL は forceReplaceMatched なしでは置換しない", () => {
+    const result = upsertYahooOfferInFrontmatter(fm("matched"), "商品A", candidate(OTHER), "2026-09-06", opts);
+    expect(result.changed).toBe(false);
+    expect(result.reason).toContain("別URL");
+  });
+
+  it("matched + 別URL は forceReplaceMatched で置換する", () => {
+    const result = upsertYahooOfferInFrontmatter(fm("matched"), "商品A", candidate(OTHER), "2026-09-06", {
+      ...opts,
+      forceReplaceMatched: true,
+    });
+    expect(result.changed).toBe(true);
+    expect(result.content).toContain(OTHER);
+  });
+
+  it("matchStatus なし（legacy）+ 同一URL は更新される", () => {
+    const result = upsertYahooOfferInFrontmatter(fm(null), "商品A", candidate(SAME), "2026-09-06", opts);
+    expect(result.changed).toBe(true);
   });
 });
