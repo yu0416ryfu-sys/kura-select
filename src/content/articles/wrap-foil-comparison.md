@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-05"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"
@@ -40,13 +40,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/n-mark_4901422055158"
         available: true
   - rank: 2
-    name: "サランラップ ミニ 22cm"
+    name: "サランラップ 22cm×50m"
     brand: "旭化成（サランラップ）"
-    price: 348
+    price: 431
     capacity: "22cm×50m"
-    pricePerUnit: "約7.0円/m"
-    rating: 4.79
-    reviewCount: 70
+    pricePerUnit: "約8.6円/m"
+    rating: 4.73
+    reviewCount: 33
     features:
       - "旭化成のポリ塩化ビニリデン製ラップ・50mロール"
       - "22cm幅で日常使いしやすいサイズ"
@@ -59,8 +59,8 @@ products:
       - "密着性に特化した設計のため価格はポリエチレン製より高め"
       - "高温調理への使用は耐熱温度を確認する必要がある"
     recommendedFor: "長めのロールでコスパを上げたい方・22cm幅を日常使いする方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901670110197%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10090294%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/57/4901670110197.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4901670110197%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10063821%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0030/4901670110197_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

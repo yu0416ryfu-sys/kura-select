@@ -4,7 +4,7 @@ description: "粘着クリーナー（コロコロ）を1巻あたりのコス�
 category: "lint-roller"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-08-22"
+updatedAt: "2026-09-05"
 products:
   - rank: 1
     name: "粘着クリーナー スペアテープ 粘着王 お得な3巻入"
@@ -106,11 +106,11 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0k0n.3rdw6b8e.g00u0k0n.3rdw7ca2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimximx%2F4978406020464-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimximx%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/imximx/cabinet/compass1739768026.jpg?_ex=128x128"
   - rank: 5
-    name: "レック 激コロ スゴ技カット スペアテープ 3巻入り"
+    name: "レック 激コロ スゴ技カット スペアテープ 70周 3巻入り"
     brand: "レック"
-    price: 790
+    price: 802
     capacity: "3巻（1巻70周）"
-    pricePerUnit: "約263円/巻"
+    pricePerUnit: "約267円/巻"
     rating: 5
     reviewCount: 2
     features:
@@ -125,8 +125,8 @@ products:
       - "フローリングでは貼り付きやすい"
       - "3巻入りのみで大容量パックがない"
     recommendedFor: "ペットを飼っている方・カーペットの掃除が多い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ucoln.3rdw667d.g00ucoln.3rdw71eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenicy2022%2Ff671%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenicy2022%2Fi%2F10009158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enicy2022/cabinet/tmb/f/f671.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rxl4n.3rdw6a4b.g00rxl4n.3rdw744a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-zakka%2F103-4903320587014com%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-zakka%2Fi%2F10172371%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-zakka/cabinet/vic202202/4903320587014.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

@@ -80,7 +80,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2420円/個"
     rating: 4.7
-    reviewCount: 2400
+    reviewCount: 2401
     features:
       - "TOTO対応サイズのヘアーキャッチャー"
       - "浴室排水口向けのステンレス製"
@@ -102,7 +102,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2530円/個"
     rating: 4.62
-    reviewCount: 4869
+    reviewCount: 4872
     features:
       - "浴室排水口向けのステンレス製"
       - "マグネット式のヘアーキャッチャー"
@@ -200,7 +200,7 @@ products:
     price: 1000
     capacity: "1個"
     rating: 4.66
-    reviewCount: 636
+    reviewCount: 637
     features:
       - "浴室排水口向けのネットホルダー"
       - "排水口ネットを隠しやすい構造"

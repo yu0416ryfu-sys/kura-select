@@ -141,11 +141,11 @@ products:
   - rank: 5
     name: "薬用リステリン トータルケアゼロプラス ノンアルコール 1000mL×6本"
     brand: "ジョンソン・エンド・ジョンソン（リステリン）"
-    price: 6920
+    price: 5965
     capacity: "1000mL×6本（6000mL）"
-    pricePerUnit: "約1.2円/mL"
-    rating: 4.7
-    reviewCount: 269
+    pricePerUnit: "約0.99円/mL"
+    rating: 4.76
+    reviewCount: 252
     features:
       - "ノンアルコール処方で刺激を抑えながら殺菌"
       - "バクテリアフィルムに作用する7種の機能性成分配合"
@@ -158,8 +158,8 @@ products:
       - "アルコール配合タイプと比べると爽快感がやや控えめ"
       - "4本セットのため保管スペースが必要"
     recommendedFor: "リステリンを試したいがアルコール刺激が不安な方・まとめ買いでコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qml9n.3rdw6b88.g00qml9n.3rdw74eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoukaikenbi%2Fpal-4901730160766-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoukaikenbi%2Fi%2F10298220%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/soukaikenbi/cabinet/066/4901730160766.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F70696%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10924599%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/696/70696.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

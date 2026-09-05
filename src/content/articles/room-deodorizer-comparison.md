@@ -166,9 +166,9 @@ products:
   - rank: 6
     name: "リセッシュ除菌EX ワイドジェット ストロング つめかえ用 630mL"
     brand: "花王"
-    price: 740
+    price: 930
     capacity: "630mL"
-    pricePerUnit: "約1.2円/mL"
+    pricePerUnit: "約1.5円/mL"
     rating: 4
     reviewCount: 1
     features:
@@ -186,8 +186,8 @@ products:
       - "スプレータイプのため一時的な効果が中心"
       - "無香タイプのため香りを楽しみたい人には不向き"
     recommendedFor: "コスパ重視・まとめ買い派・広いリビングに置きたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qxwtn.3rdw642e.g00qxwtn.3rdw77a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-azzuro-%2F10039743%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-azzuro-%2Fi%2F10055680%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-azzuro-/cabinet/product_img12/10039743.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwzqn.3rdw6dcb.g00qwzqn.3rdw7889/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdotkae-ru%2F2000000959993%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdotkae-ru%2Fi%2F10325111%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dotkae-ru/cabinet/item/t_img/b612/871-25453.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

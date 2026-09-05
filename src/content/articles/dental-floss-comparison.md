@@ -209,13 +209,13 @@ products:
         available: false
         matchNotes: "capacity不一致: capacity不一致"
   - rank: 8
-    name: "オーラルケア フロアフロス 250m 歯科専売品 fluorfloss"
+    name: "オーラルケア フロアフロス 250m 歯科専売品"
     brand: "fluorfloss"
-    price: 3210
+    price: 3010
     capacity: "250m"
-    pricePerUnit: "約13円/m"
-    rating: 4.76
-    reviewCount: 571
+    pricePerUnit: "約12円/m"
+    rating: 4.72
+    reviewCount: 209
     features:
       - "384本の細い繊維を束ねた高密度フロス設計"
       - "詰め替え用でホルダーを再利用できるエコ設計"
@@ -228,8 +228,8 @@ products:
       - "専用ホルダーが別途必要な場合がある"
       - "初期購入コストがやや高め"
     recommendedFor: "環境に配慮した使い方をしたい方・フロアフロスのリピーター"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F0090023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000766%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/0090023_001.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F41694%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007294%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0905_100b/kirikae2/41694_sam.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

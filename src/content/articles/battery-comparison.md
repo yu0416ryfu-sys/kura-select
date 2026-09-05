@@ -41,39 +41,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tabemore_lr6n-03ns4"
         available: true
   - rank: 2
-    name: "Panasonic アルカリ乾電池 単3形 14本パック"
-    brand: "Panasonic"
-    price: 759
-    capacity: "14本"
-    pricePerUnit: "約54円/本"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "10年長期保存対応の液漏れ防止製法Ag+採用"
-      - "単3形14本入りでまとめ買いに対応した大容量パック"
-      - "リモコン・懐中電灯・防災グッズなど幅広い用途に対応"
-    pros:
-      - "Panasonic国内生産ブランドへの信頼性と入手しやすさ"
-      - "14本まとめ買いで家庭の電池交換スケジュールに合わせやすい"
-      - "10年保存対応で防災備蓄用途にも兼用できる"
-    cons:
-      - "高性能モデル（エボルタNEO）と比べると使用時間は短め"
-      - "大容量機器（デジカメ・ゲームコントローラー）には高性能タイプが向く"
-    recommendedFor: "リモコン・時計など日常機器に幅広く使いたい方・防災備蓄を兼ねたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pj3cn.3rdw632a.g00pj3cn.3rdw766e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fizumiya-ty%2F4984824760745%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fizumiya-ty%2Fi%2F10087719%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/izumiya-ty/cabinet/jyuukan/panakanndennti_301.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4984824889071.html"
-        matchStatus: "rejected"
-        updatedAt: "2026-08-05"
-        price: 1607
-        rating: 4.69
-        reviewCount: 13
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4984824889071"
-        available: true
-  - rank: 3
     name: "富士通 アルカリ乾電池 プレミアムS 単3形 16本"
     brand: "富士通（FDK）"
     price: 960
@@ -95,14 +62,14 @@ products:
     recommendedFor: "富士通ブランドの電池を愛用している方・高品質アルカリを16本まとめて購入したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sjs2n.3rdw66d7.g00sjs2n.3rdw7ac9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fb-surprise2%2F4976680250058%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fb-surprise2%2Fi%2F10123347%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/b-surprise2/cabinet/cm102/4976680250058.jpg?_ex=128x128"
-  - rank: 4
+  - rank: 3
     name: "パナソニック アルカリ乾電池 10年保存 20本セット"
     brand: "Panasonic"
     price: 1280
     capacity: "20本"
     pricePerUnit: "約64円/本"
     rating: 4.65
-    reviewCount: 1226
+    reviewCount: 1228
     features:
       - "10年長期保存対応のパナソニック製アルカリ電池"
       - "1パック4本×5パック構成で使いやすい量を分割して管理できる"
@@ -128,6 +95,39 @@ products:
         available: true
         rating: 4.51
         reviewCount: 3523
+  - rank: 4
+    name: "Panasonic アルカリ乾電池 単3形 20本パック"
+    brand: "Panasonic"
+    price: 1880
+    capacity: "20本"
+    pricePerUnit: "約94円/本"
+    rating: 4.8
+    reviewCount: 51
+    features:
+      - "10年長期保存対応の液漏れ防止製法Ag+採用"
+      - "単3形14本入りでまとめ買いに対応した大容量パック"
+      - "リモコン・懐中電灯・防災グッズなど幅広い用途に対応"
+    pros:
+      - "Panasonic国内生産ブランドへの信頼性と入手しやすさ"
+      - "14本まとめ買いで家庭の電池交換スケジュールに合わせやすい"
+      - "10年保存対応で防災備蓄用途にも兼用できる"
+    cons:
+      - "高性能モデル（エボルタNEO）と比べると使用時間は短め"
+      - "大容量機器（デジカメ・ゲームコントローラー）には高性能タイプが向く"
+    recommendedFor: "リモコン・時計など日常機器に幅広く使いたい方・防災備蓄を兼ねたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pukwn.3rdw61de.g00pukwn.3rdw7759/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4984824719897-21-23984-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F10849241%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0060/4984824719897.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4984824889071.html"
+        matchStatus: "rejected"
+        updatedAt: "2026-08-05"
+        price: 1607
+        rating: 4.69
+        reviewCount: 13
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4984824889071"
+        available: true
   - rank: 5
     name: "Panasonic エボルタNEO 乾電池 単3形 16本"
     brand: "Panasonic（エボルタNEO）"
@@ -266,7 +266,7 @@ products:
     price: 800
     capacity: "40本"
     rating: 4.63
-    reviewCount: 1112
+    reviewCount: 1113
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"

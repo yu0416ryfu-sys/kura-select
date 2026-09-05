@@ -9,9 +9,9 @@ products:
   - rank: 1
     name: "リセッシュ 除菌EX デオドラントパワー 香りが残らないタイプ 本体 360mL"
     brand: "花王（リセッシュ）"
-    price: 437
+    price: 475
     capacity: "360mL"
-    pricePerUnit: "約1.2円/mL"
+    pricePerUnit: "約1.3円/mL"
     rating: 5
     reviewCount: 2
     features:
@@ -26,8 +26,8 @@ products:
       - "香りの好みが分かれる"
       - "本体スプレーボトルが別途必要"
     recommendedFor: "コスパ重視の方・大量に使う方・加齢臭対策に・部屋干し臭対策に"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtgwn.3rdw6d4e.g00qtgwn.3rdw7c15/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcotacota%2Fg-4901301349033%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcotacota%2Fi%2F10036436%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cotacota/cabinet/2024-g/4901301349033.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwzqn.3rdw6dcb.g00qwzqn.3rdw7889/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdotkae-ru%2F2000000840762%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdotkae-ru%2Fi%2F10298519%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dotkae-ru/cabinet/item/t_img/b536/870-50414.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

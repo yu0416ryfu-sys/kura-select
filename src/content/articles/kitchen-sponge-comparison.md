@@ -95,13 +95,13 @@ products:
         rating: 4.33
         reviewCount: 9
   - rank: 4
-    name: "ダスキン 台所用スポンジ ハードタイプ カラー 6個セット"
+    name: "ダスキン 台所用スポンジ ハードタイプ 6個セット"
     brand: "ダスキン"
     price: 1260
     capacity: "6個"
     pricePerUnit: "約210円/個"
-    rating: 4.79
-    reviewCount: 274
+    rating: 4.9
+    reviewCount: 51
     features:
       - "ポリエステル＋ウレタンフォームのハードタイプ構造"
       - "3色パック×2セットのカラフルな6個組"
@@ -114,8 +114,8 @@ products:
       - "ハードタイプのためデリケートなコーティング面には不向き"
       - "価格はページ確認が必要"
     recommendedFor: "用途別に色分けして使いたい方・耐久性重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxc7n.3rdw6ae4.g00sxc7n.3rdw7171/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fduskin100504%2F03115400%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fduskin100504%2Fi%2F10000038%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/duskin100504/cabinet/itempic202604/03115400.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxc7n.3rdw6ae4.g00sxc7n.3rdw7171/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fduskin100504%2F03317200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fduskin100504%2Fi%2F10000348%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/duskin100504/cabinet/itempic202604/03317200.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -166,8 +166,8 @@ products:
     price: 880
     capacity: "3個"
     pricePerUnit: "約293円/個"
-    rating: 4.49
-    reviewCount: 37
+    rating: 4.55
+    reviewCount: 11
     features:
       - "再生木材由来のセルロース素材でノンケミカル設計"
       - "ザラザラ面で食器の汚れを効率よく除去できる"
@@ -180,8 +180,8 @@ products:
       - "ザラザラ面でデリケートなコーティングを傷つけないよう注意が必要"
       - "価格はページ確認が必要"
     recommendedFor: "自然派志向の方・プラスチックフリーの生活を実践したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf6in.3rdw6cdf.g00qf6in.3rdw72b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmugigokoro%2F3182614073001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmugigokoro%2Fi%2F10003672%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mugigokoro/cabinet/lacorvette/lacor-vegesp-700.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tcv2n.3rdw6ae4.g00tcv2n.3rdw7238/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-midi%2F18311004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-midi%2Fi%2F10000121%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-midi/cabinet/item-corvette/sponge-01.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

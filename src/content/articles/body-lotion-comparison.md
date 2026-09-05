@@ -211,7 +211,7 @@ products:
     price: 4180
     capacity: "300ml"
     rating: 4.7
-    reviewCount: 2938
+    reviewCount: 2939
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"

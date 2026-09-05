@@ -1,5 +1,5 @@
 ---
-title: "おしりふき コスパ最強ランキング【2026年版】10選"
+title: "おしりふき コスパ最強ランキング【2026年版】9選"
 description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比較。ムーニー、パンパース、グーン、レックなど人気メーカーの商品を肌優しさ・容量・単価で徹底比較。"
 category: "baby-wipes"
 publishedAt: "2026-05-17"
@@ -14,7 +14,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.78
-    reviewCount: 8035
+    reviewCount: 8038
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -144,44 +144,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
         available: true
   - rank: 5
-    name: "おしりふき 手口ふき シンプル"
-    brand: "and mom"
-    price: 3980
-    capacity: "80枚×24個"
-    pricePerUnit: "約2.1円/枚"
-    rating: 4.52
-    reviewCount: 1300
-    features:
-      - "綿99.5%のパフ素材で優しい触り心地"
-      - "リサイクル繊維配合で環境配慮"
-      - "新生児から対応できる肌負担の少ない素材"
-    pros:
-      - "シンプルで経済的な価格帯"
-      - "肌に優しい天然素材重視"
-      - "手口拭きとしても使える多目的性"
-    cons:
-      - "ブランド認知度が低い"
-      - "特別な機能性が限定的"
-    recommendedFor: "シンプルで経済的な選択肢を求める方、環境への配慮を重視する家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t960n.3rdw6406.g00t960n.3rdw7aa2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foga13%2Foshirihuki24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foga13%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oga13/cabinet/thumbnail2025/oshirihuki24_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 1100
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftakeya-official%2F3110915050.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/takeya-official_3110915050"
-        available: true
-        matchStatus: "pending"
-        updatedAt: "2026-05-21"
-  - rank: 6
     name: "おしりふき 厚手 菌99.9除去"
     brand: "レック"
     price: 2110
     capacity: "54枚×15個"
     pricePerUnit: "約2.6円/枚"
     rating: 4.62
-    reviewCount: 3893
+    reviewCount: 3894
     features:
       - "菌を99.9%除去する除菌処理"
       - "厚手タイプで吸収性が高い"
@@ -207,14 +176,14 @@ products:
         updatedAt: "2026-08-31"
         rating: 4.7
         reviewCount: 967
-  - rank: 7
-    name: "おしりふき 厚手 水99.9% ネット限定デザイン"
+  - rank: 6
+    name: "レックダイレクト おしりふき 厚手 水99.9% 54枚×15個"
     brand: "レック"
-    price: 2310
-    capacity: "60枚×15個"
+    price: 2110
+    capacity: "54枚×15個（810枚）"
     pricePerUnit: "約2.6円/枚"
-    rating: 4.84
-    reviewCount: 2727
+    rating: 4.62
+    reviewCount: 3894
     features:
       - "99.9%の純水成分で肌に優しい"
       - "厚手シートで吸収性が優れている"
@@ -227,8 +196,8 @@ products:
       - "ネット限定デザインで汎用性が限定的"
       - "配送に時間がかかる場合がある"
     recommendedFor: "ネット限定商品を好む方、大容量ながら肌への優しさを求める家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2F4560319046015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10002059%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00655.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2Fe170_999atsu15p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10001750%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00975.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -240,7 +209,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-  - rank: 8
+  - rank: 7
     name: "おしり拭き 流せる シート 純水99.9% W保湿成分配合"
     brand: "Lec.Be"
     price: 2330
@@ -273,7 +242,7 @@ products:
         reviewCount: 1041
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
-  - rank: 9
+  - rank: 8
     name: "おしり拭き 流せる シート 菌99.9除去"
     brand: "レック"
     price: 2330
@@ -306,7 +275,7 @@ products:
         updatedAt: "2026-08-31"
         rating: 4.61
         reviewCount: 1041
-  - rank: 10
+  - rank: 9
     name: "パンパース 肌へのいちばん おしりふき 56枚×12個"
     brand: "P&G（パンパース）"
     price: 3180

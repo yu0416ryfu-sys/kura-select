@@ -196,13 +196,13 @@ products:
         reviewCount: 5
         matchNotes: "capacity不一致: capacity不一致"
   - rank: 7
-    name: "オーラルケア フロアフロス 250m 歯科専売品 fluorfloss"
+    name: "オーラルケア フロアフロス 250m 歯科専売品"
     brand: "楽天市場"
-    price: 3210
+    price: 3089
     capacity: "250m"
-    pricePerUnit: "約13円/m"
-    rating: 4.76
-    reviewCount: 571
+    pricePerUnit: "約12円/m"
+    rating: 4.44
+    reviewCount: 216
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -215,8 +215,8 @@ products:
       - "サイズや対応条件は購入前に確認したい"
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F0090023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000766%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/0090023_001.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t0trn.3rdw642b.g00t0trn.3rdw7fbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkelly-s%2F10000928%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkelly-s%2Fi%2F10002733%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kelly-s/cabinet/2023/aimgrc0074576324.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -265,10 +265,10 @@ products:
   - rank: 9
     name: "オーラルケア フロアフロス 250m"
     brand: "オーラルケア"
-    price: 3060
+    price: 3010
     capacity: "250m"
-    rating: 4.7
-    reviewCount: 519
+    rating: 4.72
+    reviewCount: 209
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -281,8 +281,8 @@ products:
       - "サイズや対応条件は購入前に確認したい"
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fpppp25%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0904_ss/mini/pppp25_sam.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F41694%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007294%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0905_100b/kirikae2/41694_sam.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -295,6 +295,7 @@ products:
         rating: 4.77
         reviewCount: 369
     priceMax: 3988
+    pricePerUnit: "約12円/m"
 tags:
   - "歯間ブラシ おすすめ"
   - "歯間ブラシ コスパ"

@@ -152,7 +152,7 @@ products:
   - rank: 6
     name: "無洗米 新潟県産コシヒカリ 10kg（5kg×2袋）"
     brand: "ヤマトライス"
-    price: 8180
+    price: 6999
     capacity: "10kg（5kg×2袋）"
     features:
       - "新潟県産コシヒカリの10kg無洗米"
@@ -166,11 +166,11 @@ products:
       - "コスパだけで見ると地域銘柄米より高くなる場合がある"
       - "配送時期や精米時期は購入ページで確認したい"
     recommendedFor: "産地重視で新潟県産コシヒカリを選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tb2cn.3rdw6c5a.g00tb2cn.3rdw77de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokome-no-takasaka%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokome-no-takasaka%2Fi%2F10000017%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    rating: 4.7
-    reviewCount: 315
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/okome-no-takasaka/cabinet/imgrc0125565919.jpg?_ex=128x128"
-    pricePerUnit: "約818円/kg"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q4ksn.3rdw606a.g00q4ksn.3rdw7324/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhseason%2Fmnnk005-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhseason%2Fi%2F10000180%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rating: 4.64
+    reviewCount: 3557
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hseason/cabinet/00208353/04348418/muniigata_10k.jpg?_ex=128x128"
+    pricePerUnit: "約700円/kg"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

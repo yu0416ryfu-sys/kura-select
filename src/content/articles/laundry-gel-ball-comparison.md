@@ -4,7 +4,7 @@ description: "ジェルボール洗剤を1個あたりのコストで比較し�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-05"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -205,12 +205,12 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987176292735"
         available: true
   - rank: 7
-    name: "アリエール ジェルボールプロ 部屋干し用 詰め替え"
+    name: "アリエール ジェルボールプロ 部屋干し用 詰替 73個"
     brand: "P&G（アリエール）"
-    price: 2680
-    capacity: "70個"
-    rating: 4.69
-    reviewCount: 39
+    price: 2580
+    capacity: "73個"
+    rating: 5
+    reviewCount: 9
     features:
       - "部屋干し時の菌の繁殖を抑える処方"
       - "微香タイプで衣類に香りを残しすぎない"
@@ -223,8 +223,8 @@ products:
       - "泥汚れなど強い汚れは前処理が必要になる"
       - "詰め替え専用で本体容器が別途必要"
     recommendedFor: "部屋干しはするが香りは強くしたくない方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u24hn.3rdw6c19.g00u24hn.3rdw7523/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Factive-online%2F4987176315700%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Factive-online%2Fi%2F10001415%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/active-online/cabinet/compass1765261121.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987176284556%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10147649%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202503_8/4987176284556.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -237,6 +237,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pentagram5_4987176315700-1"
         available: true
     priceMax: 4580
+    pricePerUnit: "約35円/個"
   - rank: 8
     name: "アリエール ジェルボール 部屋干し＆スポーツ 詰め替え テラジャンボ"
     brand: "P&G（アリエール）"

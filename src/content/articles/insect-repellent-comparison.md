@@ -8,13 +8,13 @@ updatedAt: "2026-09-05"
 draft: false
 products:
   - rank: 1
-    name: "スキンベープ イカリジン"
+    name: "フマキラー スキンベープ ミスト プレミアム イカリジン 200mL"
     brand: "フマキラー"
-    price: 498
-    capacity: "200ml"
-    pricePerUnit: "約2.5円/mL"
-    rating: 5
-    reviewCount: 1
+    price: 752
+    capacity: "200mL"
+    pricePerUnit: "約3.8円/mL"
+    rating: 4.67
+    reviewCount: 9
     features:
       - "イカリジン10%配合のミストタイプ虫よけスプレー"
       - "蚊・アブ・マダニなど幅広い虫に対応した防除用医薬部外品"
@@ -27,8 +27,8 @@ products:
       - "香り付きのため無香料を好む方には向かない場合がある"
       - "高温多湿な環境では効果の持続を確認してから使いたい"
     recommendedFor: "子どもも一緒に使えるイカリジン系虫よけを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rh2yn.3rdw6f5a.g00rh2yn.3rdw7514/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbp-shop%2F20250621-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbp-shop%2Fi%2F10031648%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bp-shop/cabinet/11646596/20250621-bep-1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902424440614%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10175287%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/e/imgrc0071325465.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

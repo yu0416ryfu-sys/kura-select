@@ -4,7 +4,7 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-09-02"
+updatedAt: "2026-09-05"
 draft: false
 products:
   - rank: 1
@@ -129,13 +129,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ramonu_230522-8002"
         available: true
   - rank: 5
-    name: "ジレット パワー フュージョン Gillette 替刃 髭剃り 電動 互換品 替え刃"
+    name: "ジレット パワー フュージョン 互換替刃 PROモデル 4個入"
     brand: "ジレット"
-    price: 1000
-    capacity: "1個"
-    pricePerUnit: "約1000円/個"
-    rating: 4.53
-    reviewCount: 1782
+    price: 890
+    capacity: "4個"
+    pricePerUnit: "約223円/個"
+    rating: 3.71
+    reviewCount: 14
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -148,8 +148,8 @@ products:
       - "サイズや対応条件は購入前に確認したい"
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t06rn.3rdw6996.g00t06rn.3rdw7c95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnishi-ryutu%2Fgillette-fusion%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnishi-ryutu%2Fi%2F10087380%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nishi-ryutu/cabinet/13772266/gillette-fusion-th.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t06rn.3rdw6996.g00t06rn.3rdw7c95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnishi-ryutu%2Fgillette-goldpw01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnishi-ryutu%2Fi%2F10067321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nishi-ryutu/cabinet/13739583/hangaku000243.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

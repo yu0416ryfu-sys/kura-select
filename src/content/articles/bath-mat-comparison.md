@@ -272,7 +272,7 @@ products:
     price: 1770
     capacity: "60×40cm / 70×50cm"
     rating: 4.42
-    reviewCount: 2668
+    reviewCount: 2669
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

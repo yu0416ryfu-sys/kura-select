@@ -9,9 +9,9 @@ products:
   - rank: 1
     name: "ウイルカット プラスチックグローブ 100枚"
     brand: "ウイルカット"
-    price: 489
+    price: 1159
     capacity: "100枚"
-    pricePerUnit: "約4.9円/枚"
+    pricePerUnit: "約12円/枚"
     rating: 4.75
     reviewCount: 266
     features:
@@ -26,8 +26,8 @@ products:
       - "素材やサイズの相性を確認したい"
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "掃除や調理補助に備えやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tovjn.3rdw6552.g00tovjn.3rdw7b0f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbelamer%2Fvpg-pf02-all%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbelamer%2Fi%2F10000216%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/belamer/cabinet/biiino/item/main-image/1694593798075_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uvf0n.3rdw6958.g00uvf0n.3rdw7634/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwatashinosalon%2Fpop8367%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwatashinosalon%2Fi%2F10003330%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/watashinosalon/cabinet//image21/pop8367.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

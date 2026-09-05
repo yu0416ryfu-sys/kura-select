@@ -293,28 +293,6 @@ products:
         reviewCount: 394
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bos-shop_bos-b003a"
         available: true
-  - rank: 10
-    name: "BabyGoo おむつの防臭袋 箱型"
-    brand: "BabyGoo"
-    price: 1300
-    capacity: "200枚"
-    rating: 4.85
-    reviewCount: 95
-    features:
-      - "多層構造で防臭検査に合格した箱型パッケージ"
-      - "据え置きで1枚ずつ取り出せる箱入り"
-      - "結び方を選ばず使える寸法設計"
-    pros:
-      - "片手で1枚取り出せるのでおむつ替え中に扱いやすい"
-      - "箱型なので置き場所が決まり袋を探さずに済む"
-      - "入り数が多くまとめ買いの単位として選びやすい"
-    cons:
-      - "箱のぶん保管スペースを取る"
-      - "持ち歩き用途には向かない"
-    recommendedFor: "おむつ替えスペースに据え置きで使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tostn.3rdw6d62.g00tostn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvalueprice%2Fdisposalbag%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvalueprice%2Fi%2F10000151%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/valueprice/cabinet/disposalbag/dis_main_260831nf.jpg?_ex=128x128"
-    priceMax: 2900
 tags:
   - "防臭袋 おすすめ"
   - "防臭袋 コスパ"

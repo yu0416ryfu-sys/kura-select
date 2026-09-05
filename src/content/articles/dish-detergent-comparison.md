@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-05"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -161,12 +161,12 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ifc-valuetrust_b07kzgjhtd20250718"
         available: true
   - rank: 6
-    name: "ヤシノミ洗剤 野菜・食器用 つめかえ用 480mL"
+    name: "ヤシノミ洗剤 野菜・食器用 つめかえ用 1000mL"
     brand: "サラヤ（ヤシノミ洗剤）"
-    price: 606
-    capacity: "480mL"
-    pricePerUnit: "約1.3円/mL"
-    rating: 4.67
+    price: 559
+    capacity: "1000mL"
+    pricePerUnit: "約0.56円/mL"
+    rating: 5
     reviewCount: 6
     features:
       - "植物系天然成分99%使用の低刺激処方"
@@ -180,8 +180,8 @@ products:
       - "容量が少なく詰め替え頻度が高い"
       - "強い油汚れには複数回使用が必要"
     recommendedFor: "敏感肌・手荒れが心配な方・食材も洗いたい方・エコ志向の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe445699h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10537497%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/477/4973512320477.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4973512309304%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11394431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/304/4973512309304.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

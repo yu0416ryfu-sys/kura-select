@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03",
+  "updatedAt": "2026-09-05",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。人間・AI 双方の唯一の正はメモリ project_measurement_holds だが、",
     "機械判定（scripts/check-internal-links.mjs など）はこのファイルを読む。両者は必ず同時に更新する。",
@@ -32,7 +32,7 @@
       ],
       "actions": [],
       "simultaneous": false,
-      "note": "コホート第1弾の候補プール。08-26〜09-08 が前窓で、変更が入った記事は第1弾から外す。R3（判定不能記事の凍結除外）の対象外",
+      "note": "コホート第1弾の候補プール。08-26〜09-08 が前窓で、変更が入った記事は第1弾から外す。R3（判定不能記事の凍結除外）の対象外。2026-09-05 にリンク切れ差し替え（区分B）を実施した dental-floss(r8) / dish-detergent(r6) / mouthwash(r5) / room-deodorizer(r6) の4本は前窓が汚れたためコホート第1弾から外す",
       "source": "IMPLEMENTATION_PLAN_MEASUREMENT_REGIME_V2_2026-08-25.md"
     },
     {
@@ -72,7 +72,7 @@
         "title/description 改稿"
       ],
       "simultaneous": true,
-      "note": "4施策同時のため分離不能。2026-08-27 にバグ修正（区分C・旧セクション残存と literal ** の解消）を実施済みで、判定時はこの起点日も併記する",
+      "note": "4施策同時のため分離不能。2026-08-27 にバグ修正（区分C・旧セクション残存と literal ** の解消）を実施済みで、判定時はこの起点日も併記する。2026-09-05 に rank7（アリエール ジェルボールプロ 部屋干し用）のリンク切れ差し替え（区分B）を実施",
       "source": "project_adsense_202608"
     },
     {

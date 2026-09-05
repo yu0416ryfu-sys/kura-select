@@ -8,13 +8,13 @@ updatedAt: "2026-09-05"
 draft: false
 products:
   - rank: 1
-    name: "カークランド ドッグフード チキン ライス 成犬用 12kg"
+    name: "カークランド ドッグフード チキン＆ライス 成犬用 12kg"
     brand: "Kirkland"
-    price: 5660
+    price: 6250
     capacity: "12kg"
-    pricePerUnit: "約472円/kg"
-    rating: 4.62
-    reviewCount: 21
+    pricePerUnit: "約521円/kg"
+    rating: 4.53
+    reviewCount: 80
     features:
       - "コーン・大豆・小麦不使用のチキン・ライス・ベジタブルレシピ"
       - "プロバイオティクス・プリバイオティクス配合で消化健康をサポート"
@@ -27,8 +27,8 @@ products:
       - "12kgのため保管スペースが必要で小型犬の単頭飼いでは消費に時間がかかる"
       - "コストコ系ブランドのため国内ペット専門店では在庫が変動しやすい"
     recommendedFor: "大型犬・多頭飼いでg単価を重視したい方・コーン・大豆・小麦不使用フードを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u8nmn.3rdw604a.g00u8nmn.3rdw7c76/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-temp%2Fi-co609%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-temp%2Fi%2F10001477%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-temp/cabinet/ico609-10.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F131911%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0068462602.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -173,13 +173,13 @@ products:
         rating: 4.71
         reviewCount: 168
   - rank: 6
-    name: "アーテミス フレッシュミックス スモールブリードアダルト3kg 小粒 小型犬 成犬 "
+    name: "アーテミス フレッシュミックス スモールブリードアダルト 3kg"
     brand: "アーテミス"
     price: 5830
     capacity: "3kg"
     pricePerUnit: "約1943円/kg"
-    rating: 4.68
-    reviewCount: 2407
+    rating: 4.89
+    reviewCount: 9
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -192,8 +192,8 @@ products:
       - "サイズや対応条件は購入前に確認したい"
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q1mvn.3rdw675d.g00q1mvn.3rdw735a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogparadise%2F4562192370942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogparadise%2Fi%2F10004845%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogparadise/cabinet/artemis/0813369001904.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ufghn.3rdw6e5c.g00ufghn.3rdw741c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetoukokupremium%2F6135%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpetoukokupremium%2Fi%2F10000625%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/petoukokupremium/cabinet/09863928/6135.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
