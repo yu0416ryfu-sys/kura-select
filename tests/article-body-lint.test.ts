@@ -48,13 +48,51 @@ describe("lintArticleBody（ユニット）", () => {
     expect(tableRows.every((x) => x.severity === "error")).toBe(true);
   });
 
-  it("税込価格（3桁以上+円）は既定 warn、priceAsError で error", () => {
+  it("価格表記（桁数を問わず）は既定 warn、priceAsError で error", () => {
     const body = "この洗剤はおよそ2,680円で購入できます。";
     expect(lintArticleBody(article(body))[0]).toMatchObject({ kind: "price", severity: "warn" });
     expect(lintArticleBody(article(body), { priceAsError: true })[0]).toMatchObject({
       kind: "price",
       severity: "error",
     });
+  });
+
+  // 2026-09-04 の定型H2 是正で取りこぼした実例に対応（room-dry-detergent / bathroom-cleaner）。
+  it.each([
+    ["小数価格", "1mLあたり12.9円で計算すると割安です。"],
+    ["2桁価格", "1回あたり31円ほどかかります。"],
+    ["1桁価格", "1回5円で使えます。"],
+  ])("%s も price/warn として検出する", (_label, body) => {
+    const v = lintArticleBody(article(body));
+    expect(v).toHaveLength(1);
+    expect(v[0]).toMatchObject({ kind: "price", area: "body", severity: "warn" });
+    expect(lintArticleBody(article(body), { priceAsError: true })[0]).toMatchObject({
+      severity: "error",
+    });
+  });
+
+  it.each([
+    ["円錐（数字が直前にない）", "円錐形のフィルターを選びます。"],
+    ["半径の円（間に助詞が入る）", "半径3の円で囲みます。"],
+    ["許可コメント付き", "1回5円で使えます。<!-- lint-allow-number -->"],
+  ])("%s は検出しない", (_label, body) => {
+    expect(lintArticleBody(article(body))).toHaveLength(0);
+  });
+
+  it("単価表記は price と二重計上されない（unit-price を優先）", () => {
+    const v = lintArticleBody(article("詰め替えは約0.72円/mLです。"));
+    expect(v).toHaveLength(1);
+    expect(v[0]).toMatchObject({ kind: "unit-price", severity: "error" });
+  });
+
+  it("faqs[].answer の 2 桁価格も area:'faq' で検出する", () => {
+    const faqs = `faqs:
+  - question: "1回いくら？"
+    answer: "1回あたり31円ほどです。"
+`;
+    const v = lintArticleBody(article("選び方の解説。", faqs));
+    expect(v).toHaveLength(1);
+    expect(v[0]).toMatchObject({ kind: "price", area: "faq", severity: "warn", line: null });
   });
 
   it("frontmatter products[] の単価は検査しない（誤検知回避）", () => {
