@@ -29,6 +29,10 @@ import { isLikelySameProductName } from './lib/product-name-match.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const VERBOSE = process.argv.includes('--verbose');
+// 記事への genreId 書き込みは既定で無効。コホート第1弾の前窓（〜09-08）を汚さないため、
+// 有効化は 09-09 以降にフラグ指定、または既定値の変更で行う。
+// フラグ OFF でも API からの取得（elements）と check-genre-fit の読み取りは動く。
+const WRITE_GENRE_ID = process.argv.includes('--write-genre-id');
 const CHECK_REPLACEMENTS = process.argv.includes('--check-replacements');
 const CHECK_ADDITIONS = process.argv.includes('--check-additions');
 // Phase 0.6: 実出品名の書き出し（write-only。記事ファイルは一切触らない）
@@ -148,6 +152,7 @@ function buildAfterSnapshot(before, updates) {
     pricePerUnit: updates.priceMax != null
       ? null
       : (updates.pricePerUnit != null ? updates.pricePerUnit : before?.pricePerUnit ?? null),
+    genreId: updates.genreId || (before?.genreId ?? null),
   };
 }
 
@@ -172,6 +177,7 @@ function buildProductLogLines({ before, after, data, extractedCap, oldComparable
   pushChangeLine(lines, 'reviewCount', before?.reviewCount, after.reviewCount, 'count');
   pushChangeLine(lines, 'capacity', before?.capacity, after.capacity);
   pushChangeLine(lines, 'pricePerUnit', before?.pricePerUnit, after.pricePerUnit);
+  pushChangeLine(lines, 'genreId', before?.genreId, after.genreId);
   if (VERBOSE) {
     lines.push(`楽天商品名: ${formatLogValue(data.name)}`);
     lines.push(`capacity(既存比較値): ${formatCapacityTotal(oldComparable)}`);
@@ -1104,7 +1110,7 @@ async function fetchRakutenItem(shopCode, itemCode, productName) {
     elements: [
       'itemName', 'itemPrice', 'itemPriceMin1', 'itemPriceMax1', 'itemUrl', 'affiliateUrl',
       'mediumImageUrls', 'reviewCount', 'reviewAverage',
-      'shopName', 'shopUrl',
+      'shopName', 'shopUrl', 'genreId',
     ].join(','),
   });
 
@@ -1173,6 +1179,7 @@ async function fetchRakutenItem(shopCode, itemCode, productName) {
     itemUrl: target.itemUrl,
     imageUrl: target.mediumImageUrls?.[0] ?? null,
     affiliateUrl: target.affiliateUrl ?? null,
+    genreId: target.genreId != null ? String(target.genreId) : null,
   };
 }
 
@@ -1234,7 +1241,7 @@ async function fetchRakutenItemFallback(shopCode, itemCode, productName) {
       elements: [
         'itemName', 'itemPrice', 'itemPriceMin1', 'itemPriceMax1', 'itemUrl', 'affiliateUrl',
         'mediumImageUrls', 'reviewCount', 'reviewAverage',
-        'shopName', 'shopUrl',
+        'shopName', 'shopUrl', 'genreId',
       ].join(','),
     };
     if (keyword) paramObj.keyword = keyword;
@@ -1276,6 +1283,7 @@ async function fetchRakutenItemFallback(shopCode, itemCode, productName) {
       itemUrl: target.itemUrl,
       imageUrl: target.mediumImageUrls?.[0] ?? null,
       affiliateUrl: target.affiliateUrl ?? null,
+      genreId: target.genreId != null ? String(target.genreId) : null,
       _viafallback: true,
     };
   }
@@ -1302,7 +1310,7 @@ async function fetchRakutenSearch(keyword, { excludeUrlKeys = new Set() } = {}) 
     elements: [
       'itemName', 'itemPrice', 'itemPriceMin1', 'itemPriceMax1', 'itemUrl', 'affiliateUrl',
       'mediumImageUrls', 'reviewCount', 'reviewAverage',
-      'shopName', 'shopUrl',
+      'shopName', 'shopUrl', 'genreId',
     ].join(','),
   });
 
@@ -1381,6 +1389,7 @@ async function fetchRakutenSearch(keyword, { excludeUrlKeys = new Set() } = {}) 
     itemUrl: item.itemUrl,
     imageUrl,
     affiliateUrl: item.affiliateUrl ?? null,
+    genreId: item.genreId != null ? String(item.genreId) : null,
   };
 }
 
@@ -1432,7 +1441,7 @@ async function fetchRakutenSearchMany(keyword, hits = 30, page = 1) {
     elements: [
       'itemName', 'itemPrice', 'itemPriceMin1', 'itemPriceMax1', 'itemUrl', 'affiliateUrl',
       'mediumImageUrls', 'reviewCount', 'reviewAverage',
-      'shopName', 'shopUrl',
+      'shopName', 'shopUrl', 'genreId',
     ].join(','),
   });
 
@@ -1475,6 +1484,7 @@ async function fetchRakutenSearchMany(keyword, hits = 30, page = 1) {
       itemUrl: item.itemUrl,
       affiliateUrl: item.affiliateUrl ?? null,
       imageUrl: item.mediumImageUrls?.[0] ?? null,
+      genreId: item.genreId != null ? String(item.genreId) : null,
     }));
 }
 
@@ -2364,6 +2374,8 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
         affiliateUrl: data.affiliateUrl,
         imageUrl: data.imageUrl,
         pricePerUnit: newPricePerUnit,
+        // フラグ OFF の間は null＝更新しない（既存値も消さない）
+        genreId: WRITE_GENRE_ID ? (data.genreId ?? null) : null,
       };
 
       // 価格帯を脱した商品の後始末。min/max を実際に観測できた経路でのみ priceMax を消す
@@ -2549,6 +2561,7 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
         ['imageUrl', beforeSnapshot?.imageUrl, afterSnapshot.imageUrl],
         ['capacity', beforeSnapshot?.capacity, afterSnapshot.capacity],
         ['pricePerUnit', beforeSnapshot?.pricePerUnit, afterSnapshot.pricePerUnit],
+        ['genreId', beforeSnapshot?.genreId, afterSnapshot.genreId],
       ].some(([, beforeValue, afterValue]) => (beforeValue ?? null) !== (afterValue ?? null));
       const capacityChanged = (beforeSnapshot?.capacity ?? null) !== (afterSnapshot.capacity ?? null);
       const capacityMissing = !extractedCap && method === '[Item/Get]';

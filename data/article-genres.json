@@ -1,0 +1,13 @@
+{
+  "updatedAt": "2026-09-05",
+  "note": "記事ごとの期待ジャンル。事実ではなく人間の判断なので frontmatter ではなくここに置く",
+  "readme": [
+    "キーは記事 slug（-comparison を除いたもの）。expected は楽天 genreId の配列。",
+    "expected が空 / 未登録の記事は unconfigured として判定せず、提案だけ出す（pnpm check-genre-fit -- --json）。",
+    "多数派＝正ではない（別ジャンルでも記事として妥当な商品がある）ので、提案値は人間が承認してから登録する。"
+  ],
+  "articles": {
+    "garbage-bag": { "expected": ["216044"], "note": "ゴミ袋。パン袋(205838/550088)は混入" },
+    "diaper-newborn": { "expected": ["205198"], "note": "紙おむつ" }
+  }
+}
