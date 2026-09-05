@@ -8,6 +8,17 @@
  */
 import { extractCapacityTotal, buildArticleSearchKeyword } from './frontmatter.ts';
 
+/**
+ * 除外語ごとの「この文脈で現れたらヒットとみなさない」正規表現。ルール単位で宣言する。
+ *
+ * 共通の EXCLUDE_TERM_EXCEPTIONS（リテラル）と違い、同じ除外語でもルールによって
+ * 許したい文脈が正反対になるケース（'セット' が conditioner では数量表記・
+ * cooking-pot のフライパン分岐では弾きたい詰め合わせ）を扱うためにルール側へ閉じる。
+ *
+ * パターンは candidateText() が通す NFKC + 小文字化の後の形で書く（半角数字・小文字英字前提）。
+ */
+export type ExcludeContextExceptions = Record<string, RegExp[]>;
+
 /** カテゴリ / 記事別に定義される検索ルールの生の形（未指定項目は解決時に既定値で埋まる） */
 export interface RawSearchRule {
   keywords?: string[];
@@ -17,6 +28,8 @@ export interface RawSearchRule {
   units?: string[] | null;
   minScore?: number;
   requireInclude?: boolean;
+  /** 省略時は空オブジェクト。共通の EXCLUDE_TERM_EXCEPTIONS とは併用される（OR 判定）。 */
+  excludeContextExceptions?: ExcludeContextExceptions;
 }
 
 /** getAdditionSearchRule() が返す、既定値まで解決済みのルール */
@@ -28,6 +41,8 @@ export interface ResolvedSearchRule {
   minScore: number;
   requireInclude: boolean;
   requiredGroups: string[][];
+  /** 未宣言のルールでは {}。空値の扱いを暗黙にしないため必須にしてある。 */
+  excludeContextExceptions: ExcludeContextExceptions;
 }
 
 /** 判定対象となる商品候補（楽天 API のアイテム / 記事の既存商品のどちらも受ける） */
@@ -251,7 +266,9 @@ export const CATEGORY_SEARCH_RULES: Record<string, RawSearchRule> = {
   'disposable-gloves': {
     keywords: ['使い捨て手袋', 'ニトリル手袋', 'ポリエチレン手袋'],
     include: ['使い捨て手袋', 'ニトリル', 'ビニール手袋', 'ポリエチレン手袋', 'PVC手袋', '手袋'],
-    exclude: ['軍手', 'ゴム手袋 厚手', '作業用', '防寒', 'インナー', 'ホルダー'],
+    // 使い捨てPVC手袋は出品名に「作業用手袋」を用途として併記するのが普通なので '作業用' は使わない。
+    // 本当に弾きたいのは革手袋・耐切創手袋などの再利用前提の作業手袋。
+    exclude: ['軍手', 'ゴム手袋 厚手', '革手袋', '耐切創', '溶接', '防寒', 'インナー', 'ホルダー'],
     units: ['枚'],
   },
   'fabric-softener': {
@@ -576,7 +593,8 @@ export const CATEGORY_SEARCH_RULES: Record<string, RawSearchRule> = {
   'acne-patch': {
     keywords: ['ニキビパッチ', 'ニキビ パッチ 大容量', 'スポットパッチ ニキビ'],
     include: ['ニキビパッチ', 'ニキビ', 'スポットパッチ', 'スポットエイド', 'アクネ', 'ポイントパッチ', '集中ケアシート', 'ハイドロコロイド'],
-    exclude: ['化粧水', '美容液', 'クリーム', '洗顔', 'サプリ', 'マスク', 'シートマスク', 'パック'],
+    // 'パック' 単体は「韓国パック」等の売り文句に反応するため、フェイスパック商品の形に限定する
+    exclude: ['化粧水', '美容液', 'クリーム', '洗顔', 'サプリ', 'マスク', 'シートマスク', 'フェイスパック', 'シートパック'],
     units: ['枚'],
   },
   'baby-wipes': {
@@ -792,6 +810,17 @@ export function getArticleSpecificAdditionRule(category: string, baseKeyword: st
         'セット', '詰め合わせ', 'トライアル', 'サンプル', 'お試し', '試供品',
         'リンス不要', '混ぜる',
       ],
+      // 「1800ml×4セット」は数量表記であって詰め合わせではない。
+      // cooking-pot のフライパン分岐は逆に「3点セット」を弾きたいので、
+      // 共通の EXCLUDE_TERM_EXCEPTIONS ではなくこのルール内に閉じて宣言する。
+      // パターンは candidateText() が通す NFKC + 小文字化の後の形で書く。
+      //
+      // ⚠ 乗算記号（×等）を必須にしてある。「500ml 2本セット」のように区切りが無い表記は
+      //   extractCapacityTotal() が総量を取れず（500ml のまま）pricePerUnit がズレるため、
+      //   あえて例外にせず除外語ヒットのままにする。2026-09-06 に実測して確認済み。
+      excludeContextExceptions: {
+        'セット': [/[0-9０-９]+\s*(?:個|本|袋|箱|パック|点|ml|g|l)?\s*[×xX*＊]\s*[0-9０-９]+\s*セット/],
+      },
       units: ['ml', 'g'],
       minScore: 4,
     };
@@ -1088,7 +1117,9 @@ export function getArticleSpecificAdditionRule(category: string, baseKeyword: st
       keywords: ['オキシクリーン', '過炭酸ナトリウム 大容量', '酸素系漂白剤 粉末'],
       include: ['オキシクリーン', 'oxiclean', '過炭酸ナトリウム', '酸素系漂白剤', '酸素系'],
       // この記事の主題そのものが酸素系漂白剤なので、カテゴリ rule の '漂白剤' 除外は使わない
-      exclude: ['塩素系', 'カビキラー', 'キッチンハイター', '柔軟剤', '食器用', '洗濯槽クリーナー'],
+      // 過炭酸ナトリウムの主用途のひとつが洗濯槽掃除なので、出品名の用途併記を弾いていた。
+      // カテゴリルール（washing-machine-cleaner 側）の同語除外は残す。
+      exclude: ['塩素系', 'カビキラー', 'キッチンハイター', '柔軟剤', '食器用'],
       units: ['g', 'kg'],
       minScore: 4,
     };
@@ -1244,6 +1275,7 @@ export function getAdditionSearchRule(category: string, baseKeyword: string): Re
     minScore: rule.minScore ?? 4,
     requireInclude: rule.requireInclude ?? true,
     requiredGroups: rule.requiredGroups ?? [],
+    excludeContextExceptions: rule.excludeContextExceptions ?? {},
   };
 }
 
@@ -1276,31 +1308,64 @@ export function findTermHits(text: string, terms: string[]): string[] {
  */
 const EXCLUDE_TERM_EXCEPTIONS: Record<string, string[]> = {
   'マット': ['ノーマット'],
+  // 以下は rank2 監査（2026-09-04）で誤検知が出た、店名・メーカー名・販売形態の一部。
+  // ⚠ 'コーヒー豆' 単体は入れない。coffee-filter の '豆' 除外はコーヒー豆商品そのものを
+  //   弾くためのもので、これを例外にすると豆商品が全部通る。店名の形に限定する。
+  '豆': ['コーヒー豆専門', '珈琲豆専門'],
+  '鉛筆': ['三菱鉛筆'],
+  // 「ケース販売」はセット売りの表記であり、収納ケース商品ではない。
+  // 'ケース' は26ルールで除外語に使われているので、共通で許可してよい形だけを入れる。
+  'ケース': ['ケース販売'],
 };
 
 /**
  * 除外語のヒットを求める。EXCLUDE_TERM_EXCEPTIONS に載る語は、
  * 例外語の内側にしか出現しない場合ヒットとみなさない。
  */
-export function findExcludeTermHits(text: string, terms: string[]): string[] {
+/**
+ * 例外フレーズ（リテラル）と例外パターン（正規表現）が占める文字位置を塗りつぶした配列を返す。
+ * 正規表現は呼び出しごとに複製して g フラグを付ける（宣言側の lastIndex を汚さないため）。
+ */
+function collectCoveredRanges(text: string, phrases: string[], patterns: RegExp[]): boolean[] {
+  const covered = new Array(text.length).fill(false);
+
+  for (const phrase of phrases) {
+    const needle = normalizedTerm(phrase);
+    if (!needle) continue;
+    let at = text.indexOf(needle);
+    while (at !== -1) {
+      for (let i = at; i < at + needle.length; i++) covered[i] = true;
+      at = text.indexOf(needle, at + 1);
+    }
+  }
+
+  for (const pattern of patterns) {
+    const flags = pattern.flags.includes('g') ? pattern.flags : pattern.flags + 'g';
+    const re = new RegExp(pattern.source, flags);
+    for (const m of text.matchAll(re)) {
+      if (m.index === undefined || m[0].length === 0) continue;
+      for (let i = m.index; i < m.index + m[0].length; i++) covered[i] = true;
+    }
+  }
+
+  return covered;
+}
+
+export function findExcludeTermHits(
+  text: string,
+  terms: string[],
+  contextExceptions: ExcludeContextExceptions = {}
+): string[] {
   return terms.filter(term => {
     const needle = normalizedTerm(term);
     if (!needle || !text.includes(needle)) return false;
 
-    const exceptions = EXCLUDE_TERM_EXCEPTIONS[term];
-    if (!exceptions) return true;
+    const phrases = EXCLUDE_TERM_EXCEPTIONS[term] ?? [];
+    const patterns = contextExceptions[term] ?? [];
+    if (phrases.length === 0 && patterns.length === 0) return true;
 
-    // 例外語が占める区間を塗りつぶし、そこに含まれない出現があるかを見る
-    const covered = new Array(text.length).fill(false);
-    for (const exception of exceptions) {
-      const phrase = normalizedTerm(exception);
-      if (!phrase) continue;
-      let at = text.indexOf(phrase);
-      while (at !== -1) {
-        for (let i = at; i < at + phrase.length; i++) covered[i] = true;
-        at = text.indexOf(phrase, at + 1);
-      }
-    }
+    // 例外が占める区間を塗りつぶし、そこに含まれない出現があるかを見る
+    const covered = collectCoveredRanges(text, phrases, patterns);
     let at = text.indexOf(needle);
     while (at !== -1) {
       let inside = false;
@@ -1324,7 +1389,7 @@ export function findRequiredGroupHits(text: string, groups: string[][] = []): Re
 export function checkAdditionCandidateCategory(candidate: RuleCandidate, rule: ResolvedSearchRule): { ok: boolean; reason: string | null } {
   const text = candidateText(candidate);
   const includeHits = findTermHits(text, rule.include);
-  const excludeHits = findExcludeTermHits(text, rule.exclude);
+  const excludeHits = findExcludeTermHits(text, rule.exclude, rule.excludeContextExceptions);
   const requiredGroupHits = findRequiredGroupHits(text, rule.requiredGroups);
 
   if (excludeHits.length > 0) {
@@ -1345,7 +1410,7 @@ export function getAdditionCandidateDiagnostics(candidate: RuleCandidate, rule: 
   const text = candidateText(candidate);
   return {
     includeHits: findTermHits(text, rule.include),
-    excludeHits: findExcludeTermHits(text, rule.exclude),
+    excludeHits: findExcludeTermHits(text, rule.exclude, rule.excludeContextExceptions),
     requiredGroupHits: findRequiredGroupHits(text, rule.requiredGroups),
   };
 }
@@ -1368,7 +1433,7 @@ export function scoreAdditionCandidate(candidate: RuleCandidate, rule: ResolvedS
     }
   }
 
-  const excludeHits = findExcludeTermHits(text, rule.exclude);
+  const excludeHits = findExcludeTermHits(text, rule.exclude, rule.excludeContextExceptions);
   if (excludeHits.length > 0) {
     score -= 4 * excludeHits.length;
     reasons.push(`除外語: ${excludeHits.slice(0, 3).join(', ')}`);

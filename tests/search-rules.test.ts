@@ -162,6 +162,150 @@ describe("search-rules: 除外語の部分一致例外", () => {
   });
 });
 
+/**
+ * rank2 実地照合（2026-09-04）で excluded-term の誤検知になった7件の回帰テスト。
+ *
+ * 出品名はレポート（reports/rank1-audit/rank2-audit-2026-09-04.md）の実測値だが、
+ * レポートは再生成で消えるためここに文字列定数として写してある。
+ * 誤検知を消すのと同時に「本来弾きたいもの」を通していないことも必ず対で確認する。
+ */
+describe("search-rules: rank2 誤検知7件（2026-09-04）", () => {
+  // 記事の title から実際に組み立てられる baseKeyword と同じ形を使う。
+  const coffeeFilter = getAdditionSearchRule("coffee-filter", "コーヒーフィルター");
+  const ballpointPen = getAdditionSearchRule("ballpoint-pen", "ボールペン");
+  const conditioner = getAdditionSearchRule("conditioner", "コンディショナー");
+  const acnePatch = getAdditionSearchRule("acne-patch", "ニキビパッチ");
+  const gloves = getAdditionSearchRule("disposable-gloves", "使い捨て手袋");
+  const toiletPaperDouble = getAdditionSearchRule("toilet-paper", "トイレットペーパー ダブル");
+  const oxiclean = getAdditionSearchRule("laundry-detergent", "オキシクリーンと過炭酸ナトリウム");
+
+  it("店名の一部の『豆』は誤検知にしないが、コーヒー豆商品は弾く", () => {
+    expect(findExcludeTermHits("グルメコーヒー豆専門加藤珈琲店", ["豆"])).toEqual([]);
+    // 例外は店名の形に限定してあるので、豆そのものの出品は従来どおり落ちる
+    expect(findExcludeTermHits("スペシャルティ コーヒー豆 200g 中深煎り", ["豆"])).toEqual(["豆"]);
+    expect(findExcludeTermHits("コーヒー豆専門店の豆 1kg", ["豆"])).toEqual(["豆"]);
+
+    expect(
+      checkAdditionCandidateCategory(
+        {
+          name: "V60用ペーパーフィルターみさらし100枚箱入りVCF-02-100MK（1〜4杯用）/ハリオ（HARIO）コーヒーフィルター/アイス珈琲/アイスコーヒー/グルメコーヒー豆専門加藤珈琲店",
+        },
+        coffeeFilter
+      ).ok
+    ).toBe(true);
+  });
+
+  it("メーカー名の一部の『鉛筆』は誤検知にしないが、鉛筆商品は弾く", () => {
+    expect(findExcludeTermHits("名入れ 三菱鉛筆 ジェットストリーム", ["鉛筆"])).toEqual([]);
+    expect(findExcludeTermHits("色鉛筆 12色 三菱鉛筆", ["鉛筆"])).toEqual(["鉛筆"]);
+
+    expect(
+      checkAdditionCandidateCategory(
+        {
+          name: "名入れ ジェットストリーム 4&1 メタルエディション 0.5mm ボールペン 多機能ペン 三菱鉛筆 名前入り プレゼント",
+        },
+        ballpointPen
+      ).ok
+    ).toBe(true);
+  });
+
+  it("『ケース販売』は誤検知にしないが、収納ケースは弾く", () => {
+    expect(findExcludeTermHits("ケース販売(12ロール×6パック入)", ["ケース"])).toEqual([]);
+    expect(findExcludeTermHits("トイレットペーパー 収納ケース", ["ケース"])).toEqual(["ケース"]);
+
+    expect(
+      checkAdditionCandidateCategory(
+        { name: "ハロー トイレットペーパー ダブル 2倍巻き 50m ケース販売(12ロール×6パック入)【ハロー】" },
+        toiletPaperDouble
+      ).ok
+    ).toBe(true);
+  });
+
+  it("conditioner の『セット』は数量表記のときだけ通す", () => {
+    const exc = conditioner.excludeContextExceptions;
+    expect(findExcludeTermHits("つめかえ用(1800ml×4セット)", ["セット"], exc)).toEqual([]);
+    expect(findExcludeTermHits("コンディショナー 500ml×2セット", ["セット"], exc)).toEqual([]);
+    // 数量文脈でない詰め合わせは従来どおり落ちる
+    expect(findExcludeTermHits("シャンプーとの詰め合わせセット", ["セット"], exc)).toEqual(["セット"]);
+    // 乗算記号のない「2本セット」は extractCapacityTotal が総量を取れず単価がズレるので、
+    // あえて例外にしない（総量 500ml のまま計算されるのを防ぐ）
+    expect(findExcludeTermHits("コンディショナー 500ml 2本セット", ["セット"], exc)).toEqual([
+      "セット",
+    ]);
+
+    expect(
+      checkAdditionCandidateCategory(
+        { name: "メリット コンディショナー つめかえ用(1800ml×4セット)【メリット】" },
+        conditioner
+      ).ok
+    ).toBe(true);
+  });
+
+  it("cooking-pot のフライパン分岐は『3点セット』を従来どおり弾く（非回帰）", () => {
+    const frypan = getAdditionSearchRule("cooking-pot", "IH対応 フライパン 26cm");
+    // 文脈例外を宣言していないルールなので、数量表記でもヒットする
+    expect(frypan.excludeContextExceptions).toEqual({});
+    expect(findExcludeTermHits("フライパン 3点セット", ["セット"])).toEqual(["セット"]);
+    expect(
+      checkAdditionCandidateCategory({ name: "IH対応 フライパン 26cm 3点セット" }, frypan).ok
+    ).toBe(false);
+  });
+
+  it("acne-patch は売り文句の『韓国パック』を通し、フェイスパック商品は弾く", () => {
+    expect(
+      checkAdditionCandidateCategory(
+        {
+          name: "【3個】VT PRO CICA CLEAR SPOT PATCH 48粒 【正規品】ブイティ 公式 韓国パック スキンケア シカ ニキビ 肌荒れ 集中ケア パッチ スポットパッチ ニキビパッチ",
+        },
+        acnePatch
+      ).ok
+    ).toBe(true);
+    expect(
+      checkAdditionCandidateCategory({ name: "ニキビケア フェイスパック 30枚入り" }, acnePatch).ok
+    ).toBe(false);
+  });
+
+  it("disposable-gloves は用途併記の『作業用手袋』を通し、革手袋は弾く", () => {
+    expect(
+      checkAdditionCandidateCategory(
+        {
+          name: "PVCグローブ 100枚 ×20箱 2000枚 まとめ買い 使い捨て手袋 厚手ビニール手袋 介護用手袋 作業用手袋 ビニール手袋 PVC手袋 パウダーフリー",
+        },
+        gloves
+      ).ok
+    ).toBe(true);
+    expect(
+      checkAdditionCandidateCategory({ name: "耐切創 作業用 革手袋 Lサイズ 1双" }, gloves).ok
+    ).toBe(false);
+  });
+
+  it("oxiclean 記事は用途併記の『洗濯槽クリーナー』を通す", () => {
+    expect(
+      checkAdditionCandidateCategory(
+        {
+          name: "酸素系漂白剤 4.5kg 【送料無料】Oxygen bleach (過炭酸ナトリウム 100%) 洗濯槽クリーナー 洗濯 掃除に NICHIGA(ニチガ) TK1",
+        },
+        oxiclean
+      ).ok
+    ).toBe(true);
+  });
+
+  it("washing-machine-cleaner 側の『洗濯槽クリーナー』除外は残っている（非回帰）", () => {
+    // laundry-net など他ルールの除外語まで消していないことを確認する
+    const laundryNet = getAdditionSearchRule("laundry-net", "洗濯ネット");
+    expect(laundryNet.exclude).toContain("洗濯槽クリーナー");
+  });
+
+  it("未宣言のルールの excludeContextExceptions は空オブジェクト", () => {
+    expect(getAdditionSearchRule("__unknown__", "なにか").excludeContextExceptions).toEqual({});
+    expect(coffeeFilter.excludeContextExceptions).toEqual({});
+  });
+
+  it("conditioner のルールだけが『セット』の文脈例外を持つ", () => {
+    expect(Object.keys(conditioner.excludeContextExceptions)).toEqual(["セット"]);
+  });
+});
+
 describe("search-rules: stage2 単位判定", () => {
   const rule = getAdditionSearchRule("adult-diaper", "大人用紙おむつ");
 
