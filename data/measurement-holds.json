@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05",
+  "updatedAt": "2026-09-06",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。人間・AI 双方の唯一の正はメモリ project_measurement_holds だが、",
     "機械判定（scripts/check-internal-links.mjs など）はこのファイルを読む。両者は必ず同時に更新する。",
@@ -36,46 +36,6 @@
       "source": "IMPLEMENTATION_PLAN_MEASUREMENT_REGIME_V2_2026-08-25.md"
     },
     {
-      "slug": "toilet-paper-double-comparison",
-      "releaseDate": "2026-09-10",
-      "releaseLabel": "2026-09-09",
-      "targetType": "article",
-      "startedAt": "2026-08-26",
-      "measures": [
-        "表示/日",
-        "順位"
-      ],
-      "actions": [
-        "本文加筆（定型H2撤去）",
-        "toilet-paper-comparison への内部リンク1本"
-      ],
-      "simultaneous": false,
-      "note": "AdSense是正 Phase B-1 の最後の1本。12日で85表示・5クリックと母数が小さくクリック実数では判定しない",
-      "source": "project_adsense_202608"
-    },
-    {
-      "slug": "laundry-gel-ball-comparison",
-      "releaseDate": "2026-09-13",
-      "releaseLabel": "2026-09-12",
-      "targetType": "article",
-      "startedAt": "2026-08-22",
-      "measures": [
-        "表示/日",
-        "クロール頻度",
-        "インデックス"
-      ],
-      "actions": [
-        "商品10件を全入れ替え",
-        "検索ルール追加",
-        "本文全面改稿（独自画像6枚）",
-        "被リンク 0→2本",
-        "title/description 改稿"
-      ],
-      "simultaneous": true,
-      "note": "4施策同時のため分離不能。2026-08-27 にバグ修正（区分C・旧セクション残存と literal ** の解消）を実施済みで、判定時はこの起点日も併記する。2026-09-05 に rank7（アリエール ジェルボールプロ 部屋干し用）のリンク切れ差し替え（区分B）を実施",
-      "source": "project_adsense_202608"
-    },
-    {
       "slug": "water-server-delivery-comparison",
       "releaseDate": "2026-09-23",
       "releaseLabel": "2026-09-22",
@@ -92,6 +52,23 @@
       "simultaneous": false,
       "note": "公開+4週は title / description / 本文 / services[] を触らない。v1 との相互リンク追加は 09-22 以降の別施策",
       "source": "project_high_ticket_asp_202608"
+    },
+    {
+      "slug": "laundry-gel-ball-comparison",
+      "releaseDate": "2026-09-21",
+      "releaseLabel": "2026-09-20",
+      "targetType": "article",
+      "startedAt": "2026-09-06",
+      "measures": [
+        "表示/日",
+        "表示加重平均順位"
+      ],
+      "actions": [
+        "定型H2 3本の撤去と記事固有セクション2本への差し替え（選び方ガイド/タイプ別の特徴と使い分け/コスパ比較のポイント → 容量の逆算・向いていない人）"
+      ],
+      "simultaneous": false,
+      "note": "定型H2 是正 Step 4 の残件。08-27 の修正はこの3本を『削除』ではなく独自本文の下へ『移動』しただけだったことが 09-06 に判明したため、あらためて撤去した。撤去1,327字 / 追加959字・実プロース4,122字。⚠️撤去した定型H2 は『さらさ』のジェルボールを3箇所で推奨しており、記事本文の『日本のジェルボールは実質P&Gの2ブランド』と矛盾する事実誤り（§5.0.3 区分C相当）を含んでいた。⚠️判定は交絡する: 起点時点でこの記事は 08-22 の全面是正から表示が単調増（0.79→19表示/日）の途中で、前後比較は上昇トレンドを施策効果として読んでしまう。判定時は『上昇の継続/鈍化』としてしか読まないこと",
+      "source": "IMPLEMENTATION_PLAN_TEMPLATE_H2_REWRITE_2026-09-01.md"
     }
   ],
   "prohibitions": [
