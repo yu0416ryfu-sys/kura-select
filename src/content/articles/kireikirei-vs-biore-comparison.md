@@ -265,7 +265,7 @@ faqs:
 すでに液体ポンプを使っていて容器を替えたくない場合や、泡ポンプの詰まりが煩わしいと感じている場合は、液体ラインが揃っているキレイキレイのほうが移行しやすくなります。逆に子どもの手洗い習慣を優先するなら、泡で統一されているビオレuは選択に迷いが出ません。
 
 <figure>
-  <img src="/images/articles/kireikirei-vs-biore/kireikirei-bottle-refill.webp" width="800" height="811" loading="lazy" decoding="async" alt="キレイキレイ薬用泡ハンドソープの本体ボトルと、つめかえ用200mLのパウチを並べて撮影した写真" />
+  <img src="/images/articles/kireikirei-vs-biore/kireikirei-bottle-refill.webp" width="800" height="790" loading="lazy" decoding="async" alt="キレイキレイ薬用泡ハンドソープの本体ボトルと、つめかえ用200mLのパウチを並べて撮影した写真" />
   <figcaption>左が泡タイプの本体ボトル、右がつめかえ用200mL。泡タイプはポンプの構造が液体用と別物です</figcaption>
 </figure>
 
@@ -284,7 +284,7 @@ faqs:
 - 泡タイプの詰め替えは、必ず泡ポンプ対応の本体容器に入れる（液体用容器では泡にならない）
 
 <figure>
-  <img src="/images/articles/kireikirei-vs-biore/kireikirei-refill-foam-only.webp" width="800" height="415" loading="lazy" decoding="async" alt="キレイキレイ泡ハンドソープつめかえ用のパッケージ上部。液体で出るタイプではありませんという注意書きが印刷されている" />
+  <img src="/images/articles/kireikirei-vs-biore/kireikirei-refill-foam-only.webp" width="800" height="324" loading="lazy" decoding="async" alt="キレイキレイ泡ハンドソープつめかえ用のパッケージ上部。液体で出るタイプではありませんという注意書きが印刷されている" />
   <figcaption>つめかえパッケージの上部。「液体で出るタイプではありません」と明記されている</figcaption>
 </figure>
 
