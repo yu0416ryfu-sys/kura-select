@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 products:
   - rank: 1
     name: "国内産 農家直米 白米"
@@ -254,7 +254,7 @@ products:
     price: 8250
     capacity: "18kg〜20kg"
     rating: 4.74
-    reviewCount: 45821
+    reviewCount: 45822
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

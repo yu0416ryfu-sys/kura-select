@@ -4,7 +4,7 @@ description: "歯ブラシを1本あたりのコストで徹底比較。シス�
 category: "toothpaste"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 products:
   - rank: 1
     name: "Shu&Shu 歯ブラシ"
@@ -49,7 +49,7 @@ products:
       - "電動タイプは替えブラシ確認が必要"
     recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49669%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10009043%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0905_100b/kirikae2/49669_2025.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0906_p5/kirikae2/49669_2025.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -104,7 +104,7 @@ products:
       - "電動タイプは替えブラシ確認が必要"
     recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49821%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007820%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0905_100b/mini/49821_kuji.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0906_p5/mini/49821_kuji.jpg?_ex=128x128"
   - rank: 5
     name: "Ci 700シリーズ 歯科専売歯ブラシ 選べる20本"
     brand: "Ciメディカル"
@@ -159,7 +159,7 @@ products:
       - "電動タイプは替えブラシ確認が必要"
     recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F41868%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007938%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0905_100b/41868_sam2.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0906_p5/41868_sam2.jpg?_ex=128x128"
   - rank: 7
     name: "子供向けキャラクター歯ブラシ"
     brand: "Ciメディカル"
@@ -167,7 +167,7 @@ products:
     capacity: "30本"
     pricePerUnit: "約139円/本"
     rating: 4.73
-    reviewCount: 2198
+    reviewCount: 2200
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -181,7 +181,7 @@ products:
       - "電動タイプは替えブラシ確認が必要"
     recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Foooo86%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10009832%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0905_100b/kirikae3/oooo86_sam.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0906_p5/kirikae3/oooo86_sam.jpg?_ex=128x128"
   - rank: 8
     name: "タフト24 歯ブラシ 10本セット MS"
     brand: "オーラルケア（タフト24）"
@@ -203,7 +203,7 @@ products:
       - "デザインがシンプルすぎる"
     recommendedFor: "歯科医推奨の品質をコスパよく使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fyyyy27%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007716%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0905_100b/kirikae3/yyyy27_2026.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0906_p5/kirikae3/yyyy27_2026.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -221,7 +221,7 @@ products:
     price: 2090
     capacity: "30本"
     rating: 4.76
-    reviewCount: 3949
+    reviewCount: 3950
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -235,7 +235,7 @@ products:
       - "電動タイプは替えブラシ確認が必要"
     recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F03952%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007262%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0905_100b/kirikae1/03952_sam04.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0906_p5/kirikae1/03952_sam04.jpg?_ex=128x128"
     priceMax: 2160
   - rank: 10
     name: "オーラルB 互換替えブラシ"

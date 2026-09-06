@@ -4,7 +4,7 @@ description: "コスパいいヘアトリートメントを1g・1mLあたりで�
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -191,7 +191,7 @@ products:
       - "180gとやや少なめの容量"
     recommendedFor: "成分・無添加にこだわりたい方・植物由来のナチュラルヘアケアを求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b07gkxh2ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000959%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/ts/905b07gkxh2ss-39.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/905b07gkxh2ss-25.jpg?_ex=128x128"
     priceMax: 4760
   - rank: 8
     name: "クイーンズバスルーム システムトリートメント Step1 Step2 各240g×2"

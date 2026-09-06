@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 products:
   - rank: 1
     name: "PVCグローブ 100枚×20箱"
@@ -228,10 +228,10 @@ products:
   - rank: 8
     name: "ニトリル手袋 パウダーフリー 医療対応"
     brand: "TKJP"
-    price: 1050
+    price: 999
     capacity: "100枚"
     rating: 4.57
-    reviewCount: 3649
+    reviewCount: 3650
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -250,7 +250,7 @@ products:
   - rank: 9
     name: "ニトリル手袋 パウダーフリー 100枚"
     brand: "TRINITY COSME"
-    price: 1059
+    price: 1000
     capacity: "100枚"
     rating: 4.71
     reviewCount: 1451

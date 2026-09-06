@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -34,8 +34,8 @@ products:
     price: 3402
     capacity: "400mL"
     pricePerUnit: "約8.5円/mL"
-    rating: 4.63
-    reviewCount: 49
+    rating: 4.64
+    reviewCount: 50
     features:
       - "天然由来成分を重視したクレンジングオイル"
       - "400mLの大容量タイプ"
@@ -154,7 +154,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3229
+    reviewCount: 3231
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"
@@ -185,8 +185,8 @@ products:
     brand: "花王（キュレル）"
     price: 1300
     capacity: "180mL"
-    rating: 4.67
-    reviewCount: 9
+    rating: 4.7
+    reviewCount: 10
     features:
       - "セラミドケア処方で洗いながら潤いを守る"
       - "敏感肌・乾燥肌向けに設計された低刺激フォーム"

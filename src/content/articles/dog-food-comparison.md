@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 draft: false
 products:
   - rank: 1
@@ -258,7 +258,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q2ujn.3rdw6097.g00q2ujn.3rdw7276/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falbiot%2Fnh_main_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falbiot%2Fi%2F10000275%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/event-bn/ss/1000off-pb/nh-ml-pkrepb1000.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/event-bn/ss/1000/nh-ml-pk-1000.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -277,7 +277,7 @@ products:
     price: 3000
     capacity: "1kg"
     rating: 4.72
-    reviewCount: 2566
+    reviewCount: 2567
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

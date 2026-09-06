@@ -4,7 +4,7 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 draft: false
 products:
   - rank: 1
@@ -127,7 +127,7 @@ products:
       - "価格・在庫はページ確認が必要"
     recommendedFor: "水切れを重視する方・複数の排水口に使い回したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf4an.3rdw647e.g00qf4an.3rdw7c2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fra-beans%2F1339654%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fra-beans%2Fi%2F10034995%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/ss20260904-4/1339654.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/d18/1339654.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -193,7 +193,7 @@ products:
       - "まとめ買いによる大幅なコスト削減は期待しにくい"
     recommendedFor: "浅型・深型どちらかわからない方・まず試してみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf4an.3rdw647e.g00qf4an.3rdw7c2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fra-beans%2F8300774%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fra-beans%2Fi%2F10015900%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/ss20260904-4/8300774.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/d2/8300774.jpg?_ex=128x128"
   - rank: 7
     name: "水切りネット ごみとり物語 三角コーナー用 不織布 50枚入"
     brand: "びーんず"
@@ -215,7 +215,7 @@ products:
       - "50枚入りのため大量消費の場合は購入頻度が高くなる"
     recommendedFor: "三角コーナーを使っている方・不織布タイプを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf4an.3rdw647e.g00qf4an.3rdw7c2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fra-beans%2F4446605%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fra-beans%2Fi%2F10015907%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/ss20260904-4/4446605.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/d2/4446605.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -267,7 +267,7 @@ products:
     capacity: "4枚×10袋（40枚）"
     pricePerUnit: "約55円/枚"
     rating: 4.65
-    reviewCount: 1053
+    reviewCount: 1054
     features:
       - "ポリプロピレン・ポリエステル製のヘアキャッチャー"
       - "台所・浴室どちらの排水口にも対応"

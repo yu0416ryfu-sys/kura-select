@@ -4,7 +4,7 @@ description: "おむつ・生ゴミ用の防臭袋おすすめ9選をコスパ�
 category: "deodorizing-bag"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 draft: false
 products:
   - rank: 1
@@ -102,7 +102,7 @@ products:
     capacity: "200枚"
     pricePerUnit: "約8.1円/枚"
     rating: 4.85
-    reviewCount: 5601
+    reviewCount: 5602
     features:
       - "医療向け開発素材を使ったクリロン化成の防臭袋シリーズ"
       - "新生児のおむつやペットのうんちを想定した小さめサイズ"

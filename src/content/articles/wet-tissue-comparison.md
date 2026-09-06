@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ9選を1枚あたり単�
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 products:
   - rank: 1
     name: "レック 水99.9％ 手口ふき"
@@ -13,7 +13,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約1.6円/枚"
     rating: 4.69
-    reviewCount: 4769
+    reviewCount: 4774
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -79,7 +79,7 @@ products:
     capacity: "96枚×12個（1152枚）"
     pricePerUnit: "約2.6円/枚"
     rating: 4.37
-    reviewCount: 398
+    reviewCount: 399
     features:
       - "純水99%・無香料・無着色・アルコールフリー"
       - "14×18cmの厚手シートで手口ふき・体ふきにも使える"

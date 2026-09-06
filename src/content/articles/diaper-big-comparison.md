@@ -4,7 +4,7 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-02"
+updatedAt: "2026-09-06"
 products:
   - rank: 1
     name: "グーンプラス 肌の贅沢 テープ BIGサイズ"
@@ -13,7 +13,7 @@ products:
     capacity: "36枚×4パック"
     pricePerUnit: "約30円/枚"
     rating: 5
-    reviewCount: 8
+    reviewCount: 9
     features:
       - "グーンプラスの上位ライン"
       - "肌に触れる面をやわらかく仕上げたシート"
