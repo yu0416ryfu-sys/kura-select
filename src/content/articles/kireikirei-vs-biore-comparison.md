@@ -3,16 +3,16 @@ title: "キレイキレイとビオレuどっちがいい？【2026年版】殺�
 description: "キレイキレイ（ライオン）とビオレu（花王）のハンドソープはどっちがいい？定番2ブランドの違いを、薬用殺菌成分の位置づけ・泡と液体の選択肢・1mLあたりの単価・肌あたりの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "hand-soap"
 publishedAt: "2026-08-31"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 articleType: "comparison"
 draft: false
 products:
   - rank: 1
-    name: "ビオレ泡4リットル ビオレu　泡ハンドソープ"
+    name: "ビオレu 薬用 泡ハンドソープ つめかえ用 2L"
     brand: "花王（ビオレu）"
-    price: 2780
-    capacity: "2L×2本"
-    pricePerUnit: "約0.69円/mL"
+    price: 1350
+    capacity: "2L"
+    pricePerUnit: "約0.68円/mL"
     rating: 4.66
     reviewCount: 244
     features:
@@ -27,8 +27,8 @@ products:
       - "保管スペースを取るサイズ感"
       - "詰め替え用のため泡ポンプ容器が別途必要"
     recommendedFor: "家族の人数が多く、泡タイプをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00toizn.3rdw6228.g00toizn.3rdw730f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonoworld%2Fzakka-0029%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmonoworld%2Fi%2F10000154%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/monoworld/cabinet/10151410/compass1703598547.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqo7n.3rdw69f3.g00rqo7n.3rdw7041/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famuse37%2F901009864%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famuse37%2Fi%2F10047232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amuse37/cabinet/img50/901009864.jpg?_ex=128x128"
   - rank: 2
     name: "キレイキレイ 薬用ハンドソープ 業務用 4L"
     brand: "ライオン（キレイキレイ）"

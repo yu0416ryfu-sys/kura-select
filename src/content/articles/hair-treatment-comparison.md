@@ -156,7 +156,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約35円/mL"
     rating: 4.76
-    reviewCount: 1602
+    reviewCount: 1603
     features:
       - "くせ毛ケア特化のディシプリンライン集中トリートメントマスク"
       - "湿気・広がり・アホ毛をまとめるポリマー・シーディ成分配合"

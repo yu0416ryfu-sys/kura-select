@@ -4,14 +4,14 @@ description: "ハンドソープを1回あたりのコストで徹底比較。�
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 products:
   - rank: 1
-    name: "ビオレ泡4リットル ビオレu　泡ハンドソープ"
+    name: "ビオレu 薬用 泡ハンドソープ つめかえ用 2L"
     brand: "花王（ビオレu）"
-    price: 2780
-    capacity: "2L×2本"
-    pricePerUnit: "約0.69円/mL"
+    price: 1350
+    capacity: "2L"
+    pricePerUnit: "約0.68円/mL"
     rating: 4.66
     reviewCount: 244
     features:
@@ -26,8 +26,8 @@ products:
       - "キレイキレイに比べると若干割高"
       - "泡の密度がやや軽め"
     recommendedFor: "敏感肌の方・小さな子どもがいる家庭・保湿も重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00toizn.3rdw6228.g00toizn.3rdw730f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonoworld%2Fzakka-0029%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmonoworld%2Fi%2F10000154%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/monoworld/cabinet/10151410/compass1703598547.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqo7n.3rdw69f3.g00rqo7n.3rdw7041/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famuse37%2F901009864%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famuse37%2Fi%2F10047232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amuse37/cabinet/img50/901009864.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -189,7 +189,7 @@ products:
     capacity: "300ml"
     pricePerUnit: "約1.8円/mL"
     rating: 4.74
-    reviewCount: 561
+    reviewCount: 562
     features:
       - "香料・防腐剤・着色料などの添加物を一切使用しない無添加処方"
       - "赤ちゃんから大人まで使える石けん由来の洗浄成分"

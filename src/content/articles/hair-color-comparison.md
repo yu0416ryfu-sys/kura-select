@@ -124,7 +124,7 @@ products:
     capacity: "400g"
     pricePerUnit: "約15円/g"
     rating: 4.37
-    reviewCount: 8167
+    reviewCount: 8175
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -179,7 +179,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.5
-    reviewCount: 2643
+    reviewCount: 2647
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

@@ -4,7 +4,7 @@ description: "コンディショナーを1mLあたりのコストで徹底比較
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 products:
   - rank: 1
     name: "メリット コンディショナー つめかえ用【メリット】"
@@ -145,7 +145,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約35円/mL"
     rating: 4.76
-    reviewCount: 1602
+    reviewCount: 1603
     features:
       - "くせ毛・広がりケア向けのトリートメントマスク"
       - "インバスで使うヘアマスク"

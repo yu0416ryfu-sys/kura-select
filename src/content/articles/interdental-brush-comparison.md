@@ -14,7 +14,7 @@ products:
     capacity: "30本×4個"
     pricePerUnit: "約9.2円/本"
     rating: 4.79
-    reviewCount: 331
+    reviewCount: 332
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -198,7 +198,7 @@ products:
   - rank: 7
     name: "オーラルケア フロアフロス 250m 詰め替え用"
     brand: "オーラルケア"
-    price: 3059
+    price: 3079
     capacity: "250m"
     rating: 4.55
     reviewCount: 85
@@ -234,8 +234,8 @@ products:
     price: 3099
     capacity: "250m"
     pricePerUnit: "約12円/m"
-    rating: 4.44
-    reviewCount: 216
+    rating: 4.45
+    reviewCount: 217
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

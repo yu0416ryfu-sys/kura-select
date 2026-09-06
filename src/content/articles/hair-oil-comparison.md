@@ -177,7 +177,7 @@ products:
     price: 2280
     capacity: "80mL"
     rating: 4.64
-    reviewCount: 13790
+    reviewCount: 13792
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -210,7 +210,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4060
+    reviewCount: 4062
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"

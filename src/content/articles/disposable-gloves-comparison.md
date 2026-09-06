@@ -228,10 +228,10 @@ products:
   - rank: 8
     name: "ニトリル手袋 パウダーフリー 医療対応"
     brand: "TKJP"
-    price: 999
+    price: 995
     capacity: "100枚"
     rating: 4.57
-    reviewCount: 3650
+    reviewCount: 3652
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -250,7 +250,7 @@ products:
   - rank: 9
     name: "ニトリル手袋 パウダーフリー 100枚"
     brand: "TRINITY COSME"
-    price: 1000
+    price: 994
     capacity: "100枚"
     rating: 4.71
     reviewCount: 1451
@@ -279,7 +279,7 @@ products:
         reviewCount: 2262
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
         available: true
-    priceMax: 34300
+    priceMax: 33800
   - rank: 10
     name: "調理用ビニール使いきり極薄手袋"
     brand: "KAWANISHI"

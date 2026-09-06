@@ -249,7 +249,7 @@ products:
   - rank: 9
     name: "フィニッシュ パワーキューブ ビッグパック"
     brand: "フィニッシュ（Finish）"
-    price: 5680
+    price: 5780
     capacity: "450個"
     pricePerUnit: "約13円/個"
     rating: 4.82

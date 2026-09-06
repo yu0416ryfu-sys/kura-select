@@ -4,32 +4,10 @@ description: "電気式（プラグ式）液体蚊取りの取替えボトルを
 category: "mosquito-repellent-liquid"
 publishedAt: "2026-06-13"
 articleType: "comparison"
-updatedAt: "2026-09-02"
+updatedAt: "2026-09-06"
 draft: false
 products:
   - rank: 1
-    name: "アースノーマット 取替えボトル 90日用 無香料 3本入"
-    brand: "アース製薬（アースノーマット）"
-    price: 2714
-    capacity: "90日用×3本（270日）"
-    pricePerUnit: "約10円/日"
-    rating: 4.75
-    reviewCount: 8
-    features:
-      - "プラグ式液体蚊取りの取替えボトル"
-      - "無香料タイプ"
-      - "長期用ボトルのまとめ入り"
-    pros:
-      - "シーズンを通して買い足さずに使える"
-      - "無香料なので寝室でも使いやすい"
-      - "定番規格なので手持ちの本体に使える"
-    cons:
-      - "対応する本体を別途用意する必要がある"
-      - "シーズンをまたぐと保管期間が長くなる"
-    recommendedFor: "液体蚊取りをシーズン通して使う方・無香料を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901080094919%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11177974%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/919/4901080094919.jpg?_ex=128x128"
-  - rank: 2
     name: "ベープリキッド 取替え用 60日 無香料"
     brand: "フマキラー"
     price: 1270
@@ -62,6 +40,28 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4902424427134"
         available: true
+  - rank: 2
+    name: "アースノーマット 取替えボトル 90日用 無香料 2本入"
+    brand: "アース製薬（アースノーマット）"
+    price: 1942
+    capacity: "90日用×2本（180日）"
+    pricePerUnit: "約11円/日"
+    rating: 4.65
+    reviewCount: 37
+    features:
+      - "プラグ式液体蚊取りの取替えボトル"
+      - "無香料タイプ"
+      - "長期用ボトルのまとめ入り"
+    pros:
+      - "シーズンを通して買い足さずに使える"
+      - "無香料なので寝室でも使いやすい"
+      - "定番規格なので手持ちの本体に使える"
+    cons:
+      - "対応する本体を別途用意する必要がある"
+      - "シーズンをまたぐと保管期間が長くなる"
+    recommendedFor: "液体蚊取りをシーズン通して使う方・無香料を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200483%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10114180%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/011/4901080121011.jpg?_ex=128x128"
   - rank: 3
     name: "ノーマット 取替えボトル 90日用 微香性"
     brand: "アース製薬"

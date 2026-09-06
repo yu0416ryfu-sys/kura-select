@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ10選を1枚あた
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 draft: false
 products:
   - rank: 1
@@ -32,11 +32,11 @@ products:
   - rank: 2
     name: "ニチバン ケアリーヴ 素肌タイプ Mサイズ 100枚"
     brand: "ニチバン（ケアリーヴ）"
-    price: 966
+    price: 1477
     capacity: "100枚"
-    pricePerUnit: "約9.7円/枚"
-    rating: 4.88
-    reviewCount: 74
+    pricePerUnit: "約15円/枚"
+    rating: 5
+    reviewCount: 3
     features:
       - "肌になじみやすい素肌タイプの絆創膏"
       - "Mサイズ100枚入りの定番パック"
@@ -49,8 +49,8 @@ products:
       - "業務用大容量より1枚単価は上がる"
       - "サイズ展開を使い分けたい場合は別途必要"
     recommendedFor: "肌へのやさしさと定番の安心感を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10092408%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10038590%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/shouhin84/10092408.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987167035464%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10075164%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic02/4987167035464.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

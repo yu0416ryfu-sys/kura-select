@@ -4,7 +4,7 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 products:
   - rank: 1
     name: "LOGOS 倍速凍結 氷点下パックL"
@@ -209,8 +209,8 @@ products:
     brand: "NISHIZARC"
     price: 2980
     capacity: "1個"
-    rating: 4.42
-    reviewCount: 38
+    rating: 4.44
+    reviewCount: 39
     features:
       - "ステンレス製で耐久性が高く長期間の繰り返し使用に向いている"
       - "冷蔵・冷凍どちらにも対応し用途に応じて使い分けが可能"

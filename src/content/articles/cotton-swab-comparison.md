@@ -4,17 +4,17 @@ description: "綿棒をコットン100%・紙軸・スパイラル・抗菌タ�
 category: "cotton-swab"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-06"
 draft: false
 products:
   - rank: 1
-    name: "山洋 ケアレージュ 抗菌ふつう綿棒"
+    name: "山洋 ケアレージュ 抗菌ふつう綿棒 200本"
     brand: "山洋"
-    price: 108
+    price: 110
     capacity: "200本"
-    pricePerUnit: "約0.54円/本"
-    rating: 5
-    reviewCount: 3
+    pricePerUnit: "約0.55円/本"
+    rating: 4
+    reviewCount: 1
     features:
       - "日常の耳まわりや細かなケアに使いやすい綿棒"
       - "紙軸や抗菌加工など衛生面に配慮した仕様"
@@ -27,8 +27,8 @@ products:
       - "サイズや対応条件は購入前に確認したい"
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F103-4560309820588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12586997%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/vic202402/4560309820588.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sccjn.3rdw63ca.g00sccjn.3rdw709f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffines-f%2F4560309820588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffines-f%2Fi%2F10023345%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fines-f/cabinet/06547305/07536538/imgrc0074191566.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

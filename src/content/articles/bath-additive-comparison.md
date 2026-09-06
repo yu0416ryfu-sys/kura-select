@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バブ・�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-06"
 products:
   - rank: 1
     name: "入浴剤 バラエティ詰め合わせ 100個セット"
@@ -13,7 +13,7 @@ products:
     capacity: "100個（20種類アソート）"
     pricePerUnit: "約25円/個"
     rating: 4.64
-    reviewCount: 2050
+    reviewCount: 2051
     features:
       - "20種類をアソートした個包装の詰め合わせ"
       - "薬用入浴剤やバスソルトなど複数タイプを収録"

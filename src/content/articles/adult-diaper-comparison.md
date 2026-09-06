@@ -254,7 +254,7 @@ products:
     price: 3899
     capacity: "120枚"
     rating: 4.74
-    reviewCount: 801
+    reviewCount: 802
     features:
       - "パンツタイプの大人用紙おむつ"
       - "一枚ずつ分けて持ち運べる個包装"

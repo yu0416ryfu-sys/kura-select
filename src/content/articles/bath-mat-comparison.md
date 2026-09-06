@@ -82,7 +82,7 @@ products:
     capacity: "42×67cm 1枚"
     pricePerUnit: "約1970円/枚"
     rating: 4.61
-    reviewCount: 2117
+    reviewCount: 2118
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"

@@ -46,7 +46,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.76
-    reviewCount: 1394
+    reviewCount: 1396
     features:
       - "ポリウレタンフォーム＋ナイロン不織布＋ポリエステルの3素材構造"
       - "ブラック・グレー・ホワイトのモノトーン3色展開"
@@ -95,13 +95,13 @@ products:
         rating: 4.33
         reviewCount: 9
   - rank: 4
-    name: "ダスキン 台所用スポンジ ハードタイプ 6個セット"
+    name: "ダスキン 台所用スポンジ ハードタイプ ブラック 個包装 6個"
     brand: "ダスキン"
-    price: 1260
+    price: 1300
     capacity: "6個"
-    pricePerUnit: "約210円/個"
-    rating: 4.9
-    reviewCount: 51
+    pricePerUnit: "約217円/個"
+    rating: 4.68
+    reviewCount: 272
     features:
       - "ポリエステル＋ウレタンフォームのハードタイプ構造"
       - "3色パック×2セットのカラフルな6個組"
@@ -114,8 +114,8 @@ products:
       - "ハードタイプのためデリケートなコーティング面には不向き"
       - "価格はページ確認が必要"
     recommendedFor: "用途別に色分けして使いたい方・耐久性重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sxc7n.3rdw6ae4.g00sxc7n.3rdw7171/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fduskin100504%2F03317200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fduskin100504%2Fi%2F10000348%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/duskin100504/cabinet/itempic202604/03317200.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00scwvn.3rdw672a.g00scwvn.3rdw7cad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdusdus-shop%2Fdskbl6-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdusdus-shop%2Fi%2F10000122%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dusdus-shop/cabinet/05082460/noprice/sponge/dskbl06.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -233,7 +233,7 @@ products:
     capacity: "8個（4個×2組）"
     pricePerUnit: "約346円/個"
     rating: 4.81
-    reviewCount: 2566
+    reviewCount: 2568
     features:
       - "全9色から選べるモノトーン系カラー展開"
       - "長持ちしやすい設計の食器洗いスポンジ"

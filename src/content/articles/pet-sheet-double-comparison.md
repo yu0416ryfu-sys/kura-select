@@ -14,7 +14,7 @@ products:
     capacity: "スーパーワイド 204枚"
     pricePerUnit: "約22円/枚"
     rating: 4.55
-    reviewCount: 14708
+    reviewCount: 14710
     features:
       - "スーパーワイドサイズのペットシーツ（薄型・厚型を選べる）"
       - "大型犬や多頭飼いのトイレまわりに使いやすい"
@@ -233,7 +233,7 @@ products:
     price: 3180
     capacity: "60×60cm 300枚"
     rating: 4.4
-    reviewCount: 1435
+    reviewCount: 1437
     features:
       - "60×60cmの大判サイズ、6層構造で吸収量140cc"
       - "PPE素材使用、1枚あたり約60gの重量"

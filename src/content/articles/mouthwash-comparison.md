@@ -79,7 +79,7 @@ products:
     capacity: "1000mL×6本（6000mL）"
     pricePerUnit: "約0.99円/mL"
     rating: 4.76
-    reviewCount: 253
+    reviewCount: 254
     features:
       - "ノンアルコール処方で刺激を抑えながら殺菌"
       - "バクテリアフィルムに作用する7種の機能性成分配合"

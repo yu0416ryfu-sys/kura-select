@@ -4,7 +4,7 @@ description: "ボディソープを1gあたりのコストで比較。最安候�
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-06"
 products:
   - rank: 1
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
@@ -253,7 +253,7 @@ products:
     capacity: "400mL×3袋（約300回分）"
     pricePerUnit: "約2.8円/mL"
     rating: 4.78
-    reviewCount: 94
+    reviewCount: 96
     features:
       - "製薬会社開発の薬用処方"
       - "植物性アミノ酸系洗浄成分100%"

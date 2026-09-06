@@ -36,7 +36,7 @@ products:
     capacity: "36枚×4袋"
     pricePerUnit: "約47円/枚"
     rating: 4.76
-    reviewCount: 87
+    reviewCount: 88
     features:
       - "汗による蒸れを逃がす設計"
       - "12〜22kgのビッグサイズ帯に対応"

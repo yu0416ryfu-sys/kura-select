@@ -13,7 +13,7 @@ products:
     capacity: "120錠"
     pricePerUnit: "約5.8円/錠"
     rating: 4.56
-    reviewCount: 63
+    reviewCount: 64
     features:
       - "部分入れ歯・総入れ歯兼用の洗浄剤"
       - "酵素を配合したつけ置きタイプ"
@@ -167,7 +167,7 @@ products:
     capacity: "90錠×2個（180錠）"
     pricePerUnit: "約29円/錠"
     rating: 5
-    reviewCount: 1
+    reviewCount: 2
     features:
       - "部分入れ歯・総入れ歯に対応するタブレットタイプ"
       - "過酸化尿素を配合した洗浄設計"

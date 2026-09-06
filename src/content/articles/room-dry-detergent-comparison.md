@@ -7,38 +7,6 @@ articleType: "comparison"
 updatedAt: "2026-09-06"
 products:
   - rank: 1
-    name: "アタック 抗菌EX 部屋干し用 つめかえ用 2030g"
-    brand: "花王（アタック）"
-    price: 1180
-    capacity: "2030g"
-    pricePerUnit: "約0.58円/g"
-    rating: 4.67
-    reviewCount: 3
-    features:
-      - "抗菌水洗浄で生乾き臭の原因菌を99%除去"
-      - "24時間部屋干ししても臭わない抗菌力"
-      - "すすぎ1回対応で節水・時短"
-    pros:
-      - "1回あたり約15円の高コスパ"
-      - "抗菌力が高く生乾き臭をしっかり防ぐ"
-      - "すすぎ1回で節水効果も"
-    cons:
-      - "香りがやや強めと感じる方もいる"
-      - "濃縮タイプのため計量に注意が必要"
-    recommendedFor: "コスパと抗菌力を両立したい方・毎日部屋干しする方・すすぎ1回派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901301451200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10160287%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202511_2/4901301451200.jpg?_ex=128x128"
-    offers:
-      - provider: "amazon"
-        label: "Amazon（2380g×4個）"
-        asin: "B0FFN2P323"
-        url: "https://www.amazon.co.jp/dp/B0FFN2P323?tag=kuraselect-direct-22"
-        matchStatus: "matched"
-        matchConfidence: "medium"
-        matchedCapacity: "2380g×4個"
-        matchNotes: "入数違い採用（楽天は2380g×6個）"
-        updatedAt: "2026-07-16T00:00:00.000Z"
-  - rank: 2
     name: "部屋干しトップ 除菌EX 詰替 810g×10個"
     brand: "ライオン（トップ）"
     price: 4980
@@ -78,6 +46,38 @@ products:
         matchStatus: "matched"
         matchConfidence: "high"
         matchedCapacity: "810g×10個"
+        updatedAt: "2026-07-16T00:00:00.000Z"
+  - rank: 2
+    name: "アタック 抗菌EX 部屋干し用 つめかえ用 2030g"
+    brand: "花王（アタック）"
+    price: 1408
+    capacity: "2030g"
+    pricePerUnit: "約0.69円/g"
+    rating: 4.88
+    reviewCount: 17
+    features:
+      - "抗菌水洗浄で生乾き臭の原因菌を99%除去"
+      - "24時間部屋干ししても臭わない抗菌力"
+      - "すすぎ1回対応で節水・時短"
+    pros:
+      - "1回あたり約15円の高コスパ"
+      - "抗菌力が高く生乾き臭をしっかり防ぐ"
+      - "すすぎ1回で節水効果も"
+    cons:
+      - "香りがやや強めと感じる方もいる"
+      - "濃縮タイプのため計量に注意が必要"
+    recommendedFor: "コスパと抗菌力を両立したい方・毎日部屋干しする方・すすぎ1回派の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301451200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10029019%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/200/4901301451200.jpg?_ex=128x128"
+    offers:
+      - provider: "amazon"
+        label: "Amazon（2380g×4個）"
+        asin: "B0FFN2P323"
+        url: "https://www.amazon.co.jp/dp/B0FFN2P323?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "medium"
+        matchedCapacity: "2380g×4個"
+        matchNotes: "入数違い採用（楽天は2380g×6個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
   - rank: 3
     name: "トップ スーパーナノックス ニオイ専用 部屋干し 詰め替え 1510g×6個セット"

@@ -211,7 +211,7 @@ products:
     price: 4988
     capacity: "3kg"
     rating: 4.71
-    reviewCount: 182
+    reviewCount: 183
     features:
       - "ダックスフンド専用に設計された犬種別ドライフード（生後10ヶ月齢以上対象）"
       - "オメガ3脂肪酸（EPA+DHA）・L-カルニチン配合の栄養設計"

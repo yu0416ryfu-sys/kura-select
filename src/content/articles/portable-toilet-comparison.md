@@ -145,7 +145,7 @@ products:
     price: 1380
     capacity: "50回分"
     rating: 4.6
-    reviewCount: 739
+    reviewCount: 740
     features:
       - "凝固剤・ポリエチレン袋・消臭液・吸収シートをまとめた構成"
       - "組み立てが簡単な設計"

@@ -221,7 +221,7 @@ products:
     price: 2090
     capacity: "30本"
     rating: 4.76
-    reviewCount: 3950
+    reviewCount: 3951
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"

@@ -14,7 +14,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.78
-    reviewCount: 8042
+    reviewCount: 8047
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -41,41 +41,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_2000363s"
         available: true
   - rank: 2
-    name: "グーン 肌にやさしい おしりふき"
-    brand: "グーン"
-    price: 1188
-    capacity: "70枚×12個"
-    pricePerUnit: "約1.4円/枚"
-    rating: 5
-    reviewCount: 3
-    features:
-      - "純粋99%成分で肌負担が少ない"
-      - "パラベン無配合で化学物質に配慮"
-      - "ノンアルコール処方で肌に優しい"
-      - "くまのプーさんデザインで子どもに人気"
-    pros:
-      - "バランスの取れた価格と品質"
-      - "肌に優しい成分を厳選"
-      - "デザインがかわいくおむつ替えの時間が楽しくなる"
-      - "ふんわりした手触り"
-    cons:
-      - "香りがやや強いと感じる人もいる"
-      - "パッケージのサイズが大きめ"
-    recommendedFor: "肌への優しさと価格のバランスを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhjwn.3rdw671d.g00uhjwn.3rdw7aba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faeonstyleonline%2Fp-4902011831931%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faeonstyleonline%2Fi%2F10002076%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aeonstyleonline/cabinet/thumbnailimg/kids/p-490201183193100.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 1800
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackage-marche%2F20661.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_20661"
-        available: true
-        matchStatus: "matched"
-        updatedAt: "2026-07-13"
-        rating: 0
-        reviewCount: 0
-  - rank: 3
     name: "ムーニー おしりふき やわらか素材 詰め替え"
     brand: "ムーニー"
     price: 3740
@@ -110,14 +75,14 @@ products:
         updatedAt: "2026-08-19"
         rating: 4.56
         reviewCount: 9
-  - rank: 4
+  - rank: 3
     name: "レック 水99.9％ 手口ふき おしりふき 80枚×15個"
     brand: "レック"
     price: 1962
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約1.6円/枚"
     rating: 4.69
-    reviewCount: 4774
+    reviewCount: 4775
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -143,6 +108,41 @@ products:
         reviewCount: 1032
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
         available: true
+  - rank: 4
+    name: "グーン 肌にやさしいおしりふき 70枚×12袋"
+    brand: "グーン"
+    price: 1657
+    capacity: "70枚×12袋（840枚）"
+    pricePerUnit: "約2.0円/枚"
+    rating: 4.75
+    reviewCount: 8
+    features:
+      - "純粋99%成分で肌負担が少ない"
+      - "パラベン無配合で化学物質に配慮"
+      - "ノンアルコール処方で肌に優しい"
+      - "くまのプーさんデザインで子どもに人気"
+    pros:
+      - "バランスの取れた価格と品質"
+      - "肌に優しい成分を厳選"
+      - "デザインがかわいくおむつ替えの時間が楽しくなる"
+      - "ふんわりした手触り"
+    cons:
+      - "香りがやや強いと感じる人もいる"
+      - "パッケージのサイズが大きめ"
+    recommendedFor: "肌への優しさと価格のバランスを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp883%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10013808%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg/799655_sam.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 1800
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackage-marche%2F20661.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_20661"
+        available: true
+        matchStatus: "matched"
+        updatedAt: "2026-07-13"
+        rating: 0
+        reviewCount: 0
   - rank: 5
     name: "おしりふき 厚手 菌99.9除去"
     brand: "レック"
@@ -249,7 +249,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.6円/枚"
     rating: 4.42
-    reviewCount: 1665
+    reviewCount: 1666
     features:
       - "トイレに流せる素材で処理が簡単"
       - "菌を99.9%除去する除菌効果"
