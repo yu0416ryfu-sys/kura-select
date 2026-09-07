@@ -6,7 +6,8 @@
     "機械が読むのは holds[].slug / holds[].slugs / holds[].releaseDate の3つだけ。ほかのキーは人間向けの注記。",
     "releaseDate は『この日から編集してよい日』＝台帳の解除日の翌日。判定は releaseDate > today の厳密な文字列比較。",
     "prohibitions は期限なしの禁止で、範囲が限定的（商品追加のみ等）なため holds には入れない＝機械判定は凍結扱いしない。",
-    "区分A（update-products の price/rating 等の自動更新）は凍結対象外につきここには記帳しない（CLAUDE.md §5.0.3）。"
+    "区分A（update-products の price/rating 等の自動更新）は凍結対象外につきここには記帳しない（CLAUDE.md §5.0.3）。",
+    "cohortPreRegistrations は 09-09 適用予定のコホートの事前登録。機械は読まない（人間向け）。適用時に holds へ正式な行を起こす。"
   ],
   "holds": [
     {
@@ -100,6 +101,103 @@
       ],
       "scope": "products",
       "note": "期限なし。ブランド一騎打ち構成が記事の設計なので商品を追加しない。pnpm check-additions の『商品不足』判定は無視する。本文・内部リンクの凍結ではないため holds には入れていない"
+    }
+  ],
+  "cohortPreRegistrations": [
+    {
+      "id": "cohort-1",
+      "registeredAt": "2026-09-07",
+      "plannedApplyDate": "2026-09-09",
+      "status": "pre-registered（未適用）",
+      "measure": "description 改稿（本文・title・products は不変）",
+      "baseline": "reports/gsc-harvest/baseline-2026-09-07.json（窓 2026-08-08〜2026-09-04・28日・GSC 確定日 09-04・page 次元・アンカー除外後）",
+      "criteria": {
+        "applied": "28日表示 >= 150 かつ CTR < 5% かつ 記事ページ かつ 非凍結 かつ 前窓クリーン",
+        "original": "28日表示 >= 150 かつ CTR < 3%（CTR 閾値のみ 3% → 5% に緩和）",
+        "tieBreak": "表示が同数の場合はクリック降順 → slug 昇順（garbage-bag と tissue-paper が表示436で同数）",
+        "relaxationReason": "CTR<3% では採択5本＝施策4/対照1 になり、対照群1本では R2 の「方向の確認」が成立しないため。閾値3%は検定由来ではなく「CTR が低い症状」の目安で、5% でも施策群 2.09% / 対照群 1.99% と症状の定義からは外れていない。",
+        "relaxationCaveat": "⚠️ 実測 CTR を見てから閾値を動かしたので、プレレジストレーションとしての強さは落ちる。10月第1週の「レジーム v2 自体の評価」ではこの点を明記する。",
+        "decidedBy": "ユーザー（2026-09-07・選択肢 a）"
+      },
+      "frontWindowRuleChange": {
+        "decidedAt": "2026-09-07",
+        "decidedBy": "ユーザー（選択肢 1）",
+        "change": "R2 の前窓クリーン条件から「update-products（cron）が出品終了に伴って自動で行う商品の削除・差し替え」と「価格更新に伴う rank 並び替え」を除外し、区分A相当として扱う。",
+        "reason": "週次 cron は出品終了商品を自動で差し替えるため、14日間ずっと商品構成が動かない記事はほとんど残らず、この定義のままではコホートを永久に組成できない。加えて description 改稿の判定指標は CTR＝SERP 上の見え方であり、商品構成・並び順は SERP に露出しない。",
+        "counterArgument": "§5.0.3 が区分D を凍結対象にした根拠は laundry-bleach の実証（商品是正だけでクリック 22→7）だが、あれは人間による意図的な順位設計の変更であり、cron の自動差し替えとは性質が異なる。",
+        "stillCounted": "人間が意図して行う商品の追加・削除・順位設計の変更（区分D）と、title / description / 本文 / 見出しの変更は従来どおり「変更」に数える。"
+      },
+      "frontWindowAudit": {
+        "auditedAt": "2026-09-07",
+        "method": "前窓直前 d598b79（08-25 の cron）と HEAD、および全中間コミットで products[].name のセットを突き合わせ。あわせて title/description/見出しの差分行数を計測。",
+        "result": "採択8本すべてで (1) 商品の追加・削除は中間状態も含めてゼロ (2) title/description/見出しの差分は0行。",
+        "nonCategoryAChanges": {
+          "rank 並び替え": "oxiclean-vs-percarbonate / kitchen-paper / garbage-bag / tissue-paper / laundry-detergent の5本。価格更新に伴う自動ソートの結果で、商品セットは不変。新ルールにより区分A相当。",
+          "tissue-paper-comparison": "c70021c(08-28) で capacity 表記を補正（「150組×50個」→「150組×50個（7500組）」）。区分C だが商品は同一で、変わったのは単価表示のみ＝SERP に露出しない。採択を維持する。",
+          "hand-soap-comparison": "update-products の自動差し替えで商品1件が入れ替わった（「ビオレ泡4リットル ビオレu 泡ハンドソープ」→「ビオレu 薬用 泡ハンドソープ つめかえ用 2L」）。新ルールにより区分A相当。"
+        },
+        "correction": "⚠️ 2026-09-07 の初回監査ではコミット単位の diff で「ブロック削除＋ブロック追加」を商品構成の変更と誤読し、5本を汚染と報告した。商品セットで突き合わせたところ実際には並び替えだった。今後の前窓監査は必ず products[].name のセット比較で行う。"
+      },
+      "allocation": "採択記事を28日表示の多い順に並べ 2:1 で機械割当（3の倍数番目を対照群）",
+      "treatment": [
+        "oxiclean-vs-percarbonate-comparison",
+        "hand-soap-comparison",
+        "sanitary-napkin-comparison",
+        "garbage-bag-comparison",
+        "cotton-comparison",
+        "laundry-detergent-comparison"
+      ],
+      "control": [
+        "kitchen-paper-comparison",
+        "tissue-paper-comparison"
+      ],
+      "excludedFromPool": {
+        "dental-floss-comparison": "前窓汚染（09-05 リンク切れ差し替え r8・区分B・人手）",
+        "dish-detergent-comparison": "前窓汚染（09-05 リンク切れ差し替え r6・区分B・人手）",
+        "mouthwash-comparison": "前窓汚染（09-05 リンク切れ差し替え r5・区分B・人手）",
+        "room-deodorizer-comparison": "前窓汚染（09-05 リンク切れ差し替え r6・区分B・人手）",
+        "cleansing-comparison / fabric-softener-comparison / fabric-deodorizer-comparison / kitchen-sponge-comparison / toilet-paper-comparison": "基準は通過するが前窓汚染。fabric-softener は 09-05 の定型H2 是正 Step 4 第2バッチ（3a8e774）で本文改稿、他は fc1caa3（出品終了の人手適用）/ a78388f（価格帯商品の帯表示化）"
+      },
+      "baselineMetrics": {
+        "treatment": {
+          "articles": 6,
+          "impressions28d": 5500,
+          "clicks28d": 115,
+          "ctr": "2.09%"
+        },
+        "control": {
+          "articles": 2,
+          "impressions28d": 1508,
+          "clicks28d": 30,
+          "ctr": "1.99%"
+        }
+      },
+      "descriptionsBefore": {
+        "oxiclean-vs-percarbonate-comparison": "オキシクリーンと過炭酸ナトリウム（酸素系漂白剤）の違いを1gあたりの単価・成分・使いやすさ・用途の4軸で徹底比較。中身は同じ？どっちを選ぶべきか、洗濯槽掃除やオキシ漬けでの使い分けまで解説します。価格は毎週自動更新。",
+        "hand-soap-comparison": "ハンドソープを1回あたりのコストで徹底比較。キレイキレイ・ビオレu・ミューズ・ジェームズマーティンなど人気10選を紹介。殺菌力重視・保湿重視・家族向けに最適な商品が分かります。",
+        "kitchen-paper-comparison": "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気10選を吸水力・強度・コスパで解説します。",
+        "sanitary-napkin-comparison": "生理用ナプキンを1枚あたりのコストで徹底比較。ソフィ・ロリエ・エリス・ナチュラムーンなど人気10選を吸収力・肌へのやさしさ・コスパ最強ランキングで解説します。",
+        "garbage-bag-comparison": "45リットルのゴミ袋はどこが安い？1枚あたりの価格で徹底比較しました。厚手・半透明・エコ素材から20Lの小分け用まで、まとめ買いでコスパ最強の家庭向けおすすめ10選を楽天市場から紹介します。",
+        "tissue-paper-comparison": "ティッシュペーパーを1組あたりの価格で徹底比較。まとめ買いでお得な商品から花粉症向け高保湿タイプまでおすすめ10選を紹介。用途別に選べるティッシュの決定版。",
+        "cotton-comparison": "コットンを1枚あたりのコストで徹底比較。シルコット・ビオレ・大容量無印など人気8選を吸水性・肌触り・コスパ最強ランキングで解説。スキンケア毎日使いに最適な1袋が見つかります。",
+        "laundry-detergent-comparison": "洗濯洗剤を液体・粉末・ジェルボールのタイプ別に徹底比較。部屋干し対応や詰め替えのしやすさも解説するおすすめ10選。楽天で買える洗濯洗剤選びの参考にどうぞ。"
+      },
+      "judgement": {
+        "normalizer": "page 次元で閉じる（R2）。⚠️前窓（08-26〜09-08）にサイト全体 +65.0%／+65.6% の異常週（08-29〜09-04）が丸ごと含まれる点を判定時に必ず併記する",
+        "windows": "前14日 / 後14日（暫定・09-26）＋ 後28日（確定・10-10）",
+        "decisionRule": "合算 CTR +50% 以上なら第2弾で再現を見る／未満なら型を捨てる。これは検定閾値ではなく意思決定ルール（MDE は 前14/後14 で +84%、前14/後28 で +73%）",
+        "controlGroupRole": "方向の確認専用。量の補正（DiD）には使わない。対照群が施策群と同方向・同程度に動いたら平均回帰または外部要因として無効化する"
+      },
+      "applyChecklist": [
+        "pnpm weekly:snapshot で GSC 確定日を実測する",
+        "pnpm gsc:harvest -- --start=<開始> --end=<確定日> --baseline-only で前窓 baseline を取り直す",
+        "criteria.applied を機械適用して採否を再判定する（窓が数日ずれるため kitchen-paper 2.33% など閾値付近は動きうる。動いたら基準どおり機械的に従う）",
+        "前窓監査を products[].name のセット比較でやり直す（コミット件名や単発 diff で判断しない）",
+        "施策群6本のみ description を改稿する。本文・title・products は触らない",
+        "単独コミット・単独デプロイにする",
+        "holds に正式な行（startedAt: 適用日 / releaseDate / measures / actions）を起こし、この事前登録の status を applied に変える",
+        "メモリ project_measurement_holds にも同内容を追記する"
+      ]
     }
   ]
 }
