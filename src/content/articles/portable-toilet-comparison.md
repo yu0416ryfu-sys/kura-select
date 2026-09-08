@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ10選を1回
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-08"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fozoneassocia%2Ftoilet100.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-07"
         price: 3980
         rating: 4.25
         reviewCount: 208
@@ -90,7 +90,7 @@ products:
     price: 1080
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7166
+    reviewCount: 7173
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -112,7 +112,7 @@ products:
     price: 2652
     capacity: "120回分（100回＋20回）"
     rating: 4.32
-    reviewCount: 174
+    reviewCount: 175
     features:
       - "防災士監修で凝固剤と排便袋がセット"
       - "消臭・抗菌に配慮した長期保存タイプ"
@@ -132,10 +132,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fulimalie%2F99jun24yjcs02.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-07"
         price: 4980
         rating: 4.57
-        reviewCount: 98
+        reviewCount: 100
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ulimalie_99jun24yjcs02"
         available: true
     priceMax: 21138
@@ -163,13 +163,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsafety-toilet%2Fstick50.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoco-yasashisaya%2Fsaimol01.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
-        price: 6800
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/safety-toilet_stick50"
+        updatedAt: "2026-09-07"
+        price: 3780
+        rating: 4.49
+        reviewCount: 781
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/coco-yasashisaya_saimol01"
         available: true
     priceMax: 26800
   - rank: 7
@@ -198,10 +198,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2Fps-100.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-07"
         price: 4999
-        rating: 4.53
-        reviewCount: 618
+        rating: 4.54
+        reviewCount: 624
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
         available: true
     priceMax: 38599
@@ -253,10 +253,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2Fps-100.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-07"
         price: 4999
-        rating: 4.53
-        reviewCount: 618
+        rating: 4.54
+        reviewCount: 624
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
         available: true
     priceMax: 38599

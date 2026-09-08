@@ -73,6 +73,17 @@ products:
     recommendedFor: "日中用のビッグサイズをコスパ重視で選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fr001200200187%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10203959%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/948/4902430148948.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430148948.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 1940
+        rating: 4.25
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430148948"
+        available: true
   - rank: 4
     name: "パンパース パンツ さらさらケア スーパージャンボ ビッグ"
     brand: "P&G（パンパース）"
@@ -133,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujiyaku%2F4901301396563-4.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-19"
+        updatedAt: "2026-09-07"
         price: 6512
         rating: 5
         reviewCount: 3
@@ -166,7 +177,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301442918-3.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-19"
+        updatedAt: "2026-09-07"
         price: 5550
         rating: 0
         reviewCount: 1
@@ -194,6 +205,17 @@ products:
     recommendedFor: "スーパービッグサイズが必要な女の子向けを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2F11431%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F11598509%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/431/11431.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8186043/"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 10868
+        rating: 4.9
+        reviewCount: 20
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_8186043"
+        available: true
   - rank: 8
     name: "ムーニーマン パンツ スーパービッグ 男の子"
     brand: "ユニ・チャーム"

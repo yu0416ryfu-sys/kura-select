@@ -4,7 +4,7 @@ description: "パンツ型おむつのLサイズおすすめ7選を1枚あたり
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-08"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,17 @@ products:
     recommendedFor: "Lサイズを長く使う見込みでまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4901301425942-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10035549%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/11147956/11928062/4901301443519-2rr.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443519-2.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 11680
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_4901301443519-2"
+        available: true
   - rank: 2
     name: "メリーズ パンツ 素肌さらさらエアスルー Lサイズ"
     brand: "花王（メリーズ）"
@@ -56,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F67491.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-19"
+        updatedAt: "2026-09-07"
         price: 5580
         rating: 5
         reviewCount: 3
@@ -84,6 +95,17 @@ products:
     recommendedFor: "Lサイズ帯で薄手タイプをまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u65wn.3rdw62a6.g00u65wn.3rdw75c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3-2%2F4987176155825%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3-2%2Fi%2F10009040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3-2/cabinet/12383927/4987176386304.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitemp-yh%2Fico3952y.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 7000
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itemp-yh_ico3952y"
+        available: true
   - rank: 4
     name: "ムーニーマン 汗スッキリ 男女共用 Lサイズ"
     brand: "ユニ・チャーム"
@@ -109,20 +131,53 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshiningstore-next%2Fauc-no-42564-004.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111127986x4.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-19"
-        price: 9058
+        updatedAt: "2026-09-07"
+        price: 7720
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shiningstore-next_auc-no-42564-004"
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111127986x4"
         available: true
   - rank: 5
+    name: "パンパース パンツ さらさらケア スーパージャンボ Lサイズ"
+    brand: "P&G（パンパース）"
+    price: 2126
+    capacity: "44枚"
+    pricePerUnit: "約48円/枚"
+    rating: 4.57
+    reviewCount: 7
+    features:
+      - "9〜14kgのLサイズ帯に対応"
+      - "男女共用の吸収体配置"
+      - "単袋で扱いやすいスーパージャンボ"
+    pros:
+      - "1袋から試しやすい"
+      - "保管場所を取りにくい"
+      - "他ラインとの比較に使いやすい"
+    cons:
+      - "まとめ買いより1枚あたりの負担が大きい"
+      - "買い足しの頻度が上がる"
+    recommendedFor: "まずは1袋でブランドを試したいLサイズ帯の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10031225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10031225%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/syohin100/10031225.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2873471017.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 8712
+        rating: 5
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2873471017"
+        available: true
+  - rank: 6
     name: "メリーズ パンツ ファーストプレミアム Lサイズ"
     brand: "花王（メリーズ）"
-    price: 1673
+    price: 1807
     capacity: "36枚"
-    pricePerUnit: "約46円/枚"
+    pricePerUnit: "約50円/枚"
     rating: 4.69
     reviewCount: 16
     features:
@@ -150,39 +205,6 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901301396556"
         available: true
-  - rank: 6
-    name: "パンパース パンツ さらさらケア スーパージャンボ Lサイズ"
-    brand: "P&G（パンパース）"
-    price: 2126
-    capacity: "44枚"
-    pricePerUnit: "約48円/枚"
-    rating: 4.57
-    reviewCount: 7
-    features:
-      - "9〜14kgのLサイズ帯に対応"
-      - "男女共用の吸収体配置"
-      - "単袋で扱いやすいスーパージャンボ"
-    pros:
-      - "1袋から試しやすい"
-      - "保管場所を取りにくい"
-      - "他ラインとの比較に使いやすい"
-    cons:
-      - "まとめ買いより1枚あたりの負担が大きい"
-      - "買い足しの頻度が上がる"
-    recommendedFor: "まずは1袋でブランドを試したいLサイズ帯の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10031225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10031225%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/syohin100/10031225.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2873471017.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-19"
-        price: 6811
-        rating: 5
-        reviewCount: 3
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2873471017"
-        available: true
   - rank: 7
     name: "ナチュラルムーニーマン パンツ Lサイズ"
     brand: "ナチュラルムーニー（ユニ・チャーム）"
@@ -205,6 +227,17 @@ products:
     recommendedFor: "素材にこだわってLサイズのパンツ型を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4903111243099x4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10054907%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202603_4/4903111243099.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111243099x4.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 7720
+        rating: 4.82
+        reviewCount: 118
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111243099x4"
+        available: true
 tags:
   - "パンツ型おむつ おすすめ"
   - "パンツ型おむつ コスパ"

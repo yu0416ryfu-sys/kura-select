@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-08"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "10本セット（替え芯付き）"
     pricePerUnit: "約140円/本"
     rating: 4.59
-    reviewCount: 285
+    reviewCount: 286
     features:
       - "150色以上から選べるハーバリウムデザインの装飾ボールペン10本セット"
       - "替え芯付きで長く使えるコスパ設計、送料無料"
@@ -29,6 +29,17 @@ products:
     recommendedFor: "ウェディング・イベント記念品を探している方・個性的なフラワーデザインを希望する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00srmbn.3rdw681f.g00srmbn.3rdw7f24/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdenshitabaco%2Fherbarium-ballpen-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdenshitabaco%2Fi%2F10000566%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/denshitabaco/image02/herbarium-pen-new/10set.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flittle-hands%2Fbl0516.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 1400
+        rating: 4.89
+        reviewCount: 90
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/little-hands_bl0516"
+        available: true
   - rank: 2
     name: "ジェットストリーム 名入れ 多機能ボールペン 限定"
     brand: "uni（三菱鉛筆）"
@@ -79,7 +90,7 @@ products:
     price: 1000
     capacity: "1本（4色ボールペン+シャープペンシル）"
     rating: 4.78
-    reviewCount: 13617
+    reviewCount: 13618
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"
@@ -110,7 +121,7 @@ products:
     price: 2680
     capacity: "1本"
     rating: 4.57
-    reviewCount: 1323
+    reviewCount: 1324
     features:
       - "本体タイプのボールペンで日常の筆記に使いやすい"
       - "まとめ買いやギフト用途でも選びやすい"
@@ -184,8 +195,8 @@ products:
     brand: "uni（三菱鉛筆）"
     price: 880
     capacity: "-"
-    rating: 4.53
-    reviewCount: 184
+    rating: 4.54
+    reviewCount: 185
     features:
       - "4色油性ボールペン＋シャープペンシル搭載の多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きでギフト・記念品に最適"

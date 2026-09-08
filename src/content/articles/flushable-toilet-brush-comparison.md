@@ -62,6 +62,17 @@ products:
     recommendedFor: "流せるトイレブラシを初めて使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugi2n.3rdw6154.g00ugi2n.3rdw7474/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkankosp%2F2500004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkankosp%2Fi%2F10000024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kankosp/cabinet/bc/item/brush/imgrc0106916112.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3103567/"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 921
+        rating: 4.59
+        reviewCount: 468
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_3103567"
+        available: true
   - rank: 3
     name: "スクラビングバブル 流せるトイレブラシ 本体+替え4個"
     brand: "スクラビングバブル"
@@ -89,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9612078018.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-07"
         price: 638
         rating: 0
         reviewCount: 2

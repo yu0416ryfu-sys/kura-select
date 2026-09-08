@@ -4,7 +4,7 @@ description: "電気式（プラグ式）液体蚊取りの取替えボトルを
 category: "mosquito-repellent-liquid"
 publishedAt: "2026-06-13"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-08"
 draft: false
 products:
   - rank: 1
@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4902424427134.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-09-07"
         price: 1440
         rating: 0
-        reviewCount: 1
+        reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4902424427134"
         available: true
   - rank: 2
@@ -46,8 +46,8 @@ products:
     price: 1942
     capacity: "90日用×2本（180日）"
     pricePerUnit: "約11円/日"
-    rating: 4.65
-    reviewCount: 37
+    rating: 4.66
+    reviewCount: 38
     features:
       - "プラグ式液体蚊取りの取替えボトル"
       - "無香料タイプ"
@@ -89,7 +89,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhcvalor%2Fvh-2162902907264.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-09-07"
         price: 4071
         rating: 0
         reviewCount: 0
@@ -194,6 +194,17 @@ products:
     recommendedFor: "必要な時期だけ液体蚊取りを使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa003200200023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10121091%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/214/4901080308214.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F101-x010-90655.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 16119
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/atlife_101-x010-90655"
+        available: true
 tags:
   - "液体蚊取り おすすめ"
   - "液体蚊取り コスパ"

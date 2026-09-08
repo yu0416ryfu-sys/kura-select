@@ -50,6 +50,17 @@ products:
     recommendedFor: "子ども用歯みがき粉を年齢や味で選びたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t0trn.3rdw642b.g00t0trn.3rdw7fbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkelly-s%2F10003245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkelly-s%2Fi%2F10003245%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kelly-s/cabinet/chkupkodomogr3_01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fa-kustore%2F4903301166054s3.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 1440
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/a-kustore_4903301166054s3"
+        available: true
   - rank: 3
     name: "あわだたない こどもハミガキ ラムネ 60g"
     brand: "エスケー石鹸"

@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-08"
 products:
   - rank: 1
     name: "システムポリマー XP-11 スライダー付ジッパー保存袋"
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbungubin%2Fka0047.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-01"
+        updatedAt: "2026-09-07"
         price: 145
         rating: 0
         reviewCount: 0
@@ -165,8 +165,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcrance%2F20260617125853-01502.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
-        price: 1053
+        updatedAt: "2026-09-07"
+        price: 1035
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/crance_20260617125853-01502"
@@ -209,8 +209,8 @@ products:
     brand: "パワーサポート"
     price: 780
     capacity: "50枚または100枚（S/M/Lサイズ選択可）"
-    rating: 4.73
-    reviewCount: 155
+    rating: 4.72
+    reviewCount: 156
     features:
       - "ポリエチレン素材・厚さ0.03mmの軽量薄手タイプ"
       - "抗菌性能を備えた食品保存専用設計"

@@ -4,7 +4,7 @@ description: "デンタルフロスを1回あたりのコストで比較した�
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-08"
 products:
   - rank: 1
     name: "GUM デンタルフロス 550m"
@@ -211,9 +211,9 @@ products:
   - rank: 8
     name: "オーラルケア フロアフロス 250m 歯科専売品"
     brand: "fluorfloss"
-    price: 3099
+    price: 3199
     capacity: "250m"
-    pricePerUnit: "約12円/m"
+    pricePerUnit: "約13円/m"
     rating: 4.45
     reviewCount: 217
     features:

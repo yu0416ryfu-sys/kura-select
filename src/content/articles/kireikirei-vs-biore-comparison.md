@@ -29,6 +29,17 @@ products:
     recommendedFor: "家族の人数が多く、泡タイプをまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqo7n.3rdw69f3.g00rqo7n.3rdw7041/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famuse37%2F901009864%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famuse37%2Fi%2F10047232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amuse37/cabinet/img50/901009864.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Freonstyle%2F4901301243935.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 1410
+        rating: 4.75
+        reviewCount: 40
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/reonstyle_4901301243935"
+        available: true
   - rank: 2
     name: "キレイキレイ 薬用ハンドソープ 業務用 4L"
     brand: "ライオン（キレイキレイ）"
@@ -51,6 +62,17 @@ products:
     recommendedFor: "手洗いの回数が多い家庭や、液体タイプを使い慣れている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F426723%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10000830%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/426723.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmkrj%2F4903301181613.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 2499
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/mkrj_4903301181613"
+        available: true
   - rank: 3
     name: "ビオレu 泡ハンドソープ つめかえ用 1500mL"
     brand: "花王（ビオレu）"

@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-08"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
@@ -33,8 +33,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301745910-73-30000846.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
-        price: 210
+        updatedAt: "2026-09-07"
+        price: 220
         rating: 4.8
         reviewCount: 15
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901301745910-73-30000846"
@@ -46,7 +46,7 @@ products:
     capacity: "820ml×3セット（2460ml）"
     pricePerUnit: "約0.52円/ml"
     rating: 4.84
-    reviewCount: 86
+    reviewCount: 87
     features:
       - "液体タイプの衣料用酸素系漂白剤"
       - "洗剤と一緒に洗濯機へ入れて使う設計"
@@ -134,7 +134,7 @@ products:
     capacity: "450ml×6袋（2700ml）"
     pricePerUnit: "約1.1円/ml"
     rating: 4.82
-    reviewCount: 232
+    reviewCount: 233
     features:
       - "抗菌成分を配合した液体タイプの酸素系漂白剤"
       - "部屋干し時の菌のケアを想定した処方"

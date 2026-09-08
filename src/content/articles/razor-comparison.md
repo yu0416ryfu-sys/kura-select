@@ -4,7 +4,7 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-08"
 draft: false
 products:
   - rank: 1
@@ -80,7 +80,7 @@ products:
     capacity: "8個"
     pricePerUnit: "約288円/個"
     rating: 4.55
-    reviewCount: 758
+    reviewCount: 759
     features:
       - "ハイドロ5シリーズ用の替刃セット"
       - "肌あたりを和らげるジェルボックス搭載"

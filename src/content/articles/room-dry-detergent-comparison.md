@@ -79,6 +79,16 @@ products:
         matchedCapacity: "2380g×4個"
         matchNotes: "入数違い採用（楽天は2380g×6個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsgline%2Fkao-attack-heya-2130g-4.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 5460
+        rating: 4.92
+        reviewCount: 13
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sgline_kao-attack-heya-2130g-4"
+        available: true
   - rank: 3
     name: "トップ スーパーナノックス ニオイ専用 部屋干し 詰め替え 1510g×6個セット"
     brand: "ライオン（トップ スーパーナノックス）"

@@ -4,7 +4,7 @@ description: "犬猫用ペットシーツのレギュラーサイズを1枚あ�
 category: "pet-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-08"
 draft: false
 products:
   - rank: 1
@@ -42,10 +42,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fstyleplus%2Ft001.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-01"
+        updatedAt: "2026-09-07"
         price: 5280
         rating: 4.55
-        reviewCount: 5075
+        reviewCount: 5078
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/styleplus_t001"
         available: true
   - rank: 2
@@ -74,11 +74,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpickupplazashop%2Fpsar0800.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
-        price: 3780
+        matchStatus: "matched"
+        updatedAt: "2026-09-07"
+        price: 3980
         rating: 4.47
-        reviewCount: 584
+        reviewCount: 586
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pickupplazashop_psar0800"
         available: true
   - rank: 3
@@ -115,11 +115,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F55102162ku.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
+        matchStatus: "matched"
+        updatedAt: "2026-09-07"
         price: 4280
         rating: 4.51
-        reviewCount: 2598
+        reviewCount: 2599
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_55102162ku"
         available: true
   - rank: 4
@@ -129,7 +129,7 @@ products:
     capacity: "レギュラー 800枚"
     pricePerUnit: "約5.6円/枚"
     rating: 4.62
-    reviewCount: 5132
+    reviewCount: 5134
     features:
       - "レギュラーサイズのペット用トイレシート"
       - "薄型のまとめ買い向けタイプ"
@@ -170,11 +170,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpet-studio%2F4562461715412.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
+        matchStatus: "matched"
+        updatedAt: "2026-09-07"
         price: 3950
-        rating: 4.06
-        reviewCount: 31
+        rating: 4.09
+        reviewCount: 32
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pet-studio_4562461715412"
         available: true
   - rank: 6
@@ -203,11 +203,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpickupplazashop%2Fpsar0800.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-19"
+        matchStatus: "matched"
+        updatedAt: "2026-09-07"
         price: 3980
         rating: 4.47
-        reviewCount: 580
+        reviewCount: 586
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pickupplazashop_psar0800"
         available: true
   - rank: 7
@@ -216,7 +216,7 @@ products:
     price: 4480
     capacity: "レギュラー 800枚"
     rating: 4.49
-    reviewCount: 45442
+    reviewCount: 45444
     features:
       - "薄型のペット用トイレシート"
       - "レギュラーサイズを選べる"
@@ -235,11 +235,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpickupplazashop%2Fpsar0800.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
-        price: 3780
+        matchStatus: "matched"
+        updatedAt: "2026-09-07"
+        price: 3980
         rating: 4.47
-        reviewCount: 584
+        reviewCount: 586
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pickupplazashop_psar0800"
         available: true
     priceMax: 9280
@@ -268,11 +268,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F55102162ku.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-19"
+        matchStatus: "matched"
+        updatedAt: "2026-09-07"
         price: 4280
         rating: 4.51
-        reviewCount: 2597
+        reviewCount: 2599
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_55102162ku"
         available: true
     priceMax: 9280
@@ -304,7 +304,7 @@ products:
     price: 4680
     capacity: "レギュラー 400枚"
     rating: 4.3
-    reviewCount: 6596
+    reviewCount: 6598
     features:
       - "吸収量を重視した厚型タイプ"
       - "レギュラーサイズを選べるペット用トイレシート"
@@ -324,10 +324,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2Fp315349.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-07"
         price: 4980
         rating: 4.38
-        reviewCount: 934
+        reviewCount: 936
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_p315349"
         available: true
     priceMax: 7980

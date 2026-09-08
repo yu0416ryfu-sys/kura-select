@@ -4,7 +4,7 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-08"
 products:
   - rank: 1
     name: "ダスキン 台所用スポンジ 抗菌タイプ 6個セット"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdusdus%2Fdssmn6.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-07"
         price: 1220
         rating: 4.88
         reviewCount: 502
@@ -119,13 +119,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fduskin100504%2F03115400.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdusrara%2F140.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
-        price: 1260
-        rating: 4.83
-        reviewCount: 249
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/duskin100504_03115400"
+        updatedAt: "2026-09-07"
+        price: 1320
+        rating: 4.84
+        reviewCount: 737
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/dusrara_140"
         available: true
   - rank: 5
     name: "パックスナチュロン キッチンスポンジ"
@@ -187,7 +187,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funmaison%2F19311003.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-09-07"
         price: 880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unmaison_19311003"
         available: true
@@ -233,7 +233,7 @@ products:
     capacity: "8個（4個×2組）"
     pricePerUnit: "約346円/個"
     rating: 4.81
-    reviewCount: 2568
+    reviewCount: 2575
     features:
       - "全9色から選べるモノトーン系カラー展開"
       - "長持ちしやすい設計の食器洗いスポンジ"
@@ -253,10 +253,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsunsunsponge%2Ftss08b.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-09-07"
         price: 3073
         rating: 4.86
-        reviewCount: 261
+        reviewCount: 267
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sunsunsponge_tss08b"
         available: true
   - rank: 9

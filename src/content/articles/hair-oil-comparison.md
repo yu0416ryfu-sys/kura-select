@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-08"
 draft: false
 products:
   - rank: 1
@@ -68,7 +68,7 @@ products:
     price: 1000
     capacity: "100mL"
     rating: 4.66
-    reviewCount: 2005
+    reviewCount: 2006
     features:
       - "天然100%・無添加の精製（クリア）ホホバオイル。スキンケア・マッサージ・ヘアに多目的使用可"
       - "100mL・300mL・500mL・1000mLの大容量まで選べるサイズ展開"
@@ -123,7 +123,7 @@ products:
     price: 2962
     capacity: "150mL"
     rating: 4.55
-    reviewCount: 1096
+    reviewCount: 1098
     features:
       - "100%植物由来成分（スクワラン・アルガンオイル・ホホバオイル配合）"
       - "濡れ髪・乾いた髪どちらにも使えるアウトバスオイル"
@@ -143,12 +143,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbb-2023%2Fn-poil150.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-09-07"
         price: 3280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bb-2023_n-poil150"
         available: true
         rating: 4.61
-        reviewCount: 271
+        reviewCount: 277
     priceMax: 8406
   - rank: 6
     name: "オーガニックホホバオイル ゴールデン"
@@ -177,7 +177,7 @@ products:
     price: 2280
     capacity: "80mL"
     rating: 4.64
-    reviewCount: 13792
+    reviewCount: 13794
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -210,7 +210,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4062
+    reviewCount: 4075
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"
@@ -243,7 +243,7 @@ products:
     price: 1100
     capacity: "75mL"
     rating: 4.75
-    reviewCount: 2915
+    reviewCount: 2917
     features:
       - "無香料タイプの洗い流さないヘアエッセンス（オイルタイプ）"
       - "天然由来成分配合でくせ毛・うねりに対応したしっとり仕上がり設計"
@@ -263,8 +263,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6016812.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
-        price: 2360
+        updatedAt: "2026-09-07"
+        price: 2538
         rating: 4.4
         reviewCount: 15
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6016812"

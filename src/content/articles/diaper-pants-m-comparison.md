@@ -4,7 +4,7 @@ description: "パンツ型おむつのMサイズを1枚あたりの価格で比�
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-09-02"
+updatedAt: "2026-09-08"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,17 @@ products:
     recommendedFor: "Mサイズを長く使う見込みでまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4901301443502-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10036245%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/11147956/11147958/4901301443502-2set.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443502-2.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 11680
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_4901301443502-2"
+        available: true
   - rank: 2
     name: "メリーズ パンツ 素肌さらさらエアスルー Mサイズ"
     brand: "花王（メリーズ）"
@@ -84,6 +95,17 @@ products:
     recommendedFor: "通気性重視でMサイズをまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.3rdw6eed.g00s0vmn.3rdw7144/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4901301418579-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10147305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/09476807/4901301418579.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301418579-3.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 4779
+        rating: 4.91
+        reviewCount: 11
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301418579-3"
+        available: true
   - rank: 4
     name: "ムーニーマン パンツ Mサイズ"
     brand: "ユニ・チャーム"
@@ -106,6 +128,17 @@ products:
     recommendedFor: "テープ型からパンツ型に移りたてのMサイズ帯のお子さん"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4903111137329%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10539508%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0083/4903111137329_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/p648079/"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 5600
+        rating: 4.78
+        reviewCount: 296
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_p648079"
+        available: true
   - rank: 5
     name: "メリーズ パンツ Mサイズ 大容量パック"
     brand: "メリーズ（花王）"
@@ -129,39 +162,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F10002250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10002250%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/151076402495518.jpg?_ex=128x128"
   - rank: 6
-    name: "メリーズ パンツ ファーストプレミアム Mサイズ"
-    brand: "花王（メリーズ）"
-    price: 1673
-    capacity: "46枚"
-    pricePerUnit: "約36円/枚"
-    rating: 4.92
-    reviewCount: 12
-    features:
-      - "メリーズの上位ライン"
-      - "肌に触れる面を薄くやわらかく設計"
-      - "6〜11kgのMサイズ帯に対応"
-    pros:
-      - "肌あたりを最優先したいときに選べる"
-      - "少量パックで試しやすい"
-      - "夜間の使用にも回しやすい厚み"
-    cons:
-      - "1枚あたりの負担は標準ラインより大きい"
-      - "まとめ買い向きの容量ではない"
-    recommendedFor: "肌のやわらかさを優先して少量から試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301396549%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10018758%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/549/4901301396549.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301396549.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-22"
-        price: 1580
-        rating: 4.81
-        reviewCount: 16
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301396549"
-        available: true
-  - rank: 7
     name: "メリーズ ずっと肌さらエアスルー Mサイズ ケースセット"
     brand: "メリーズ（花王）"
     price: 8200
@@ -183,6 +183,39 @@ products:
     recommendedFor: "Mサイズをケース単位で確保したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6xln.3rdw632a.g00u6xln.3rdw7ef6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjandcbaby%2F4901301402394-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjandcbaby%2Fi%2F10000347%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jandcbaby/cabinet/08963043/imgrc0113226111.jpg?_ex=128x128"
+  - rank: 7
+    name: "メリーズ パンツ ファーストプレミアム Mサイズ"
+    brand: "花王（メリーズ）"
+    price: 1807
+    capacity: "46枚"
+    pricePerUnit: "約39円/枚"
+    rating: 4.92
+    reviewCount: 12
+    features:
+      - "メリーズの上位ライン"
+      - "肌に触れる面を薄くやわらかく設計"
+      - "6〜11kgのMサイズ帯に対応"
+    pros:
+      - "肌あたりを最優先したいときに選べる"
+      - "少量パックで試しやすい"
+      - "夜間の使用にも回しやすい厚み"
+    cons:
+      - "1枚あたりの負担は標準ラインより大きい"
+      - "まとめ買い向きの容量ではない"
+    recommendedFor: "肌のやわらかさを優先して少量から試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301396549%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10018758%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/549/4901301396549.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/au51038/"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 6595
+        rating: 4.92
+        reviewCount: 12
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_au51038"
+        available: true
 tags:
   - "パンツ型おむつ おすすめ"
   - "パンツ型おむつ コスパ"

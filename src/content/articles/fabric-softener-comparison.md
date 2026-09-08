@@ -66,12 +66,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9590768.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-31"
-        price: 6580
+        updatedAt: "2026-09-07"
+        price: 6380
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9590768"
         available: true
-        rating: 4.73
-        reviewCount: 233
+        rating: 4.74
+        reviewCount: 234
   - rank: 3
     name: "メキシコダウニー アロマフローラル 2.8L"
     brand: "Downy"
@@ -127,6 +127,17 @@ products:
     recommendedFor: "定番ブランドをまとめ買いして単価を下げたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405203%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11234252%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/203/405203.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4903301375012.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 5180
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4903301375012"
+        available: true
   - rank: 5
     name: "さらさ 柔軟剤 詰め替え 超ジャンボ"
     brand: "P&G（さらさ）"
@@ -153,8 +164,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987176184580.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-31"
+        matchStatus: "matched"
+        updatedAt: "2026-09-07"
         price: 1281
         rating: 4.96
         reviewCount: 26
@@ -187,7 +198,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-31"
+        updatedAt: "2026-09-07"
         price: 1160
         rating: 4.8
         reviewCount: 5
@@ -240,13 +251,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosme-nana%2F1898619600.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone%2F1898619600.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-07"
         price: 1350
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosme-nana_1898619600"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone_1898619600"
         available: true
   - rank: 9
     name: "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え"

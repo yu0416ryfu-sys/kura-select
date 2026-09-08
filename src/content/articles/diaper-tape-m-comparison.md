@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-08"
 products:
   - rank: 1
     name: "メリーズファストプレミアム テープ Mサイズ"
@@ -56,7 +56,7 @@ products:
     price: 6180
     capacity: "96枚"
     rating: 4.77
-    reviewCount: 202
+    reviewCount: 203
     features:
       - "ネット状の肌触りで蒸れにくく快適"
       - "パラベン・アルコール無添加の低刺激処方"

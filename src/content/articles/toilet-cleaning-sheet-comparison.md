@@ -177,8 +177,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkilat%2F9q0372.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
-        price: 547
+        updatedAt: "2026-09-07"
+        price: 657
         rating: 5
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_9q0372"
@@ -238,6 +238,17 @@ products:
     recommendedFor: "トイレ掃除シートを常備していてストックをまとめたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe390620h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10315997%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/566/4901301308566.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301308566.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 6253
+        rating: 3.33
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301308566"
+        available: true
   - rank: 9
     name: "エリエール ミチガエル トイレクリーナー 本体 10枚"
     brand: "大王製紙（エリエール）"
