@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-09",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。人間・AI 双方の唯一の正はメモリ project_measurement_holds だが、",
     "機械判定（scripts/check-internal-links.mjs など）はこのファイルを読む。両者は必ず同時に更新する。",
@@ -7,36 +7,9 @@
     "releaseDate は『この日から編集してよい日』＝台帳の解除日の翌日。判定は releaseDate > today の厳密な文字列比較。",
     "prohibitions は期限なしの禁止で、範囲が限定的（商品追加のみ等）なため holds には入れない＝機械判定は凍結扱いしない。",
     "区分A（update-products の price/rating 等の自動更新）は凍結対象外につきここには記帳しない（CLAUDE.md §5.0.3）。",
-    "cohortPreRegistrations は 09-09 適用予定のコホートの事前登録。機械は読まない（人間向け）。適用時に holds へ正式な行を起こす。"
+    "cohortPreRegistrations はコホートの事前登録（機械は読まない）。第1弾は 2026-09-09 に適用し holds に treatment / control の2行を起こした。"
   ],
   "holds": [
-    {
-      "slugs": [
-        "oxiclean-vs-percarbonate-comparison",
-        "kitchen-paper-comparison",
-        "sanitary-napkin-comparison",
-        "dish-detergent-comparison",
-        "dental-floss-comparison",
-        "garbage-bag-comparison",
-        "cotton-comparison",
-        "tissue-paper-comparison",
-        "room-deodorizer-comparison",
-        "mouthwash-comparison",
-        "laundry-detergent-comparison",
-        "hand-soap-comparison"
-      ],
-      "releaseDate": "2026-09-09",
-      "releaseLabel": "2026-09-08",
-      "targetType": "article",
-      "startedAt": "2026-08-26",
-      "measures": [
-        "前窓クリーン条件（施策ではない）"
-      ],
-      "actions": [],
-      "simultaneous": false,
-      "note": "コホート第1弾の候補プール。08-26〜09-08 が前窓で、変更が入った記事は第1弾から外す。R3（判定不能記事の凍結除外）の対象外。2026-09-05 にリンク切れ差し替え（区分B）を実施した dental-floss(r8) / dish-detergent(r6) / mouthwash(r5) / room-deodorizer(r6) の4本は前窓が汚れたためコホート第1弾から外す。2026-09-05 に ComparisonTable.astro へ送料の注記2行を追加（区分C・全記事共通の脚注で SERP 指標には作用しない） 2026-09-07: 前窓クリーン条件の見直し（cron の自動差し替え・rank 並び替えを区分A相当として除外）により hand-soap-comparison がコホート第1弾の採択に入ったため、プールに追加して 09-08 まで機械的に凍結する。",
-      "source": "IMPLEMENTATION_PLAN_MEASUREMENT_REGIME_V2_2026-08-25.md"
-    },
     {
       "slug": "water-server-delivery-comparison",
       "releaseDate": "2026-09-23",
@@ -91,6 +64,71 @@
       "simultaneous": true,
       "note": "2026-09-07 に遡って登録（公開 08-31 時点で記帳が漏れていた）。公開+2週で判定＝メモリ project_new_article_ramp_up「順位帯は2週で確定」に従う。⚠️2施策同時（公開と 09-06 の独自画像追加）。初週実績＝クリック23・表示/日28.6・順位3.9（ACCESS_ANALYSIS_2026-09-07.md §4）だが前週が0のため正規化できず、判定は 09-14 のスナップショットで行う。products への追加禁止（vs記事の一騎打ち構成）は prohibitions 側の3本と同趣旨だが本記事は未登録",
       "source": "ACCESS_ANALYSIS_2026-09-07.md / project_seo_vs_articles"
+    },
+    {
+      "slugs": [
+        "oxiclean-vs-percarbonate-comparison",
+        "hand-soap-comparison",
+        "sanitary-napkin-comparison",
+        "garbage-bag-comparison",
+        "cotton-comparison",
+        "laundry-detergent-comparison"
+      ],
+      "releaseDate": "2026-10-11",
+      "releaseLabel": "2026-10-10",
+      "targetType": "cohort",
+      "cohortId": "cohort-01-description",
+      "arm": "treatment",
+      "startedAt": "2026-09-09",
+      "measures": [
+        "コホート合算 CTR",
+        "コホート合算 クリック/日",
+        "コホート合算 表示/日",
+        "コホート合算 表示加重平均順位"
+      ],
+      "actions": [
+        "description のみ改稿（本文・title・products・見出しは不変）",
+        "改稿の型は6本で統一: ①冒頭を主要クエリの言い換え疑問文にする ②選び分け軸を3つ具体名で並べる ③末尾に「価格は毎週自動更新」を置く。改稿後 114〜122字（改稿前 76〜110字）"
+      ],
+      "simultaneous": false,
+      "note": "測定レジーム v2 R2 のコホート第1弾（description 改稿型）。事前登録 cohortPreRegistrations[0]（09-07・a367f0e）を 09-09 に適用。採択基準（全文）: 28日表示 >= 150 かつ CTR < 5% かつ 記事ページ かつ 非凍結 かつ 前窓クリーン。同数時は クリック降順 → slug 昇順。CTR 閾値は事前登録時に実測を見てから 3% → 5% に緩和した（ユーザー判断 09-07）。3% のままだと採択5本＝施策4/対照1 で対照群が『方向の確認』として機能しないため。⚠️プレレジとしての強さは落ちる。 正規化子: page 次元（アンカー除外後）の全記事ページ合計から施策群6本と対照群2本を控除した残余を基準にする（控除方式・R2）。サイト全体の報告値に使う dimensions: [] とは混ぜない。 判定日: 暫定 2026-09-26（後窓14日）／確定 2026-10-10（後窓28日）。合算 CTR +50% 以上なら第2弾で再現を見る／未満なら型を捨てる＝意思決定ルールであって検定閾値ではない（MDE 前14/後14 +84%・前14/後28 +73%）。 ⚠️判定時に必ず併記する留保: ①CTR 閾値を実測後に緩和 ②前窓（08-26〜09-08）にサイト全体 +65.0%／+65.6% の異常週（08-29〜09-04）が丸ごと入る ③09-09 は JSON-LD 末尾スラッシュ是正など全記事共通テンプレの変更と同日になりうる（CTR には作用しないが、実施したらこの行に注記する） ④08-25 の15記事同時改稿が前窓に乗っている。 改稿前 description の全文は cohortPreRegistrations[0].descriptionsBefore に保存（8本分）。対照群は方向の確認専用で DiD には使わない（CTR の標準誤差 0.68pp）。記事別内訳は参考記録に留め、記事単位の成否判定には使わない。",
+      "source": "IMPLEMENTATION_PLAN_MEASUREMENT_REGIME_V2_2026-08-25.md / cohortPreRegistrations[0]",
+      "descriptionsBefore": {
+        "oxiclean-vs-percarbonate-comparison": "オキシクリーンと過炭酸ナトリウム（酸素系漂白剤）の違いを1gあたりの単価・成分・使いやすさ・用途の4軸で徹底比較。中身は同じ？どっちを選ぶべきか、洗濯槽掃除やオキシ漬けでの使い分けまで解説します。価格は毎週自動更新。",
+        "hand-soap-comparison": "ハンドソープを1回あたりのコストで徹底比較。キレイキレイ・ビオレu・ミューズ・ジェームズマーティンなど人気10選を紹介。殺菌力重視・保湿重視・家族向けに最適な商品が分かります。",
+        "sanitary-napkin-comparison": "生理用ナプキンを1枚あたりのコストで徹底比較。ソフィ・ロリエ・エリス・ナチュラムーンなど人気10選を吸収力・肌へのやさしさ・コスパ最強ランキングで解説します。",
+        "garbage-bag-comparison": "45リットルのゴミ袋はどこが安い？1枚あたりの価格で徹底比較しました。厚手・半透明・エコ素材から20Lの小分け用まで、まとめ買いでコスパ最強の家庭向けおすすめ10選を楽天市場から紹介します。",
+        "cotton-comparison": "コットンを1枚あたりのコストで徹底比較。シルコット・ビオレ・大容量無印など人気8選を吸水性・肌触り・コスパ最強ランキングで解説。スキンケア毎日使いに最適な1袋が見つかります。",
+        "laundry-detergent-comparison": "洗濯洗剤を液体・粉末・ジェルボールのタイプ別に徹底比較。部屋干し対応や詰め替えのしやすさも解説するおすすめ10選。楽天で買える洗濯洗剤選びの参考にどうぞ。"
+      }
+    },
+    {
+      "slugs": [
+        "kitchen-paper-comparison",
+        "tissue-paper-comparison"
+      ],
+      "releaseDate": "2026-10-11",
+      "releaseLabel": "2026-10-10",
+      "targetType": "cohort",
+      "cohortId": "cohort-01-description",
+      "arm": "control",
+      "startedAt": "2026-09-09",
+      "measures": [
+        "コホート合算 CTR",
+        "コホート合算 クリック/日",
+        "コホート合算 表示/日",
+        "コホート合算 表示加重平均順位"
+      ],
+      "actions": [
+        "何も変更しない（対照群）。区分B のリンク切れ差し替えも含めて 2026-10-10 まで触らない"
+      ],
+      "simultaneous": false,
+      "note": "測定レジーム v2 R2 のコホート第1弾（description 改稿型）。事前登録 cohortPreRegistrations[0]（09-07・a367f0e）を 09-09 に適用。採択基準（全文）: 28日表示 >= 150 かつ CTR < 5% かつ 記事ページ かつ 非凍結 かつ 前窓クリーン。同数時は クリック降順 → slug 昇順。CTR 閾値は事前登録時に実測を見てから 3% → 5% に緩和した（ユーザー判断 09-07）。3% のままだと採択5本＝施策4/対照1 で対照群が『方向の確認』として機能しないため。⚠️プレレジとしての強さは落ちる。 正規化子: page 次元（アンカー除外後）の全記事ページ合計から施策群6本と対照群2本を控除した残余を基準にする（控除方式・R2）。サイト全体の報告値に使う dimensions: [] とは混ぜない。 判定日: 暫定 2026-09-26（後窓14日）／確定 2026-10-10（後窓28日）。合算 CTR +50% 以上なら第2弾で再現を見る／未満なら型を捨てる＝意思決定ルールであって検定閾値ではない（MDE 前14/後14 +84%・前14/後28 +73%）。 ⚠️判定時に必ず併記する留保: ①CTR 閾値を実測後に緩和 ②前窓（08-26〜09-08）にサイト全体 +65.0%／+65.6% の異常週（08-29〜09-04）が丸ごと入る ③09-09 は JSON-LD 末尾スラッシュ是正など全記事共通テンプレの変更と同日になりうる（CTR には作用しないが、実施したらこの行に注記する） ④08-25 の15記事同時改稿が前窓に乗っている。 改稿前 description の全文は cohortPreRegistrations[0].descriptionsBefore に保存（8本分）。対照群は方向の確認専用で DiD には使わない（CTR の標準誤差 0.68pp）。記事別内訳は参考記録に留め、記事単位の成否判定には使わない。",
+      "source": "IMPLEMENTATION_PLAN_MEASUREMENT_REGIME_V2_2026-08-25.md / cohortPreRegistrations[0]",
+      "descriptionsBefore": {
+        "kitchen-paper-comparison": "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気10選を吸水力・強度・コスパで解説します。",
+        "tissue-paper-comparison": "ティッシュペーパーを1組あたりの価格で徹底比較。まとめ買いでお得な商品から花粉症向け高保湿タイプまでおすすめ10選を紹介。用途別に選べるティッシュの決定版。"
+      }
     }
   ],
   "prohibitions": [
@@ -109,7 +147,7 @@
       "id": "cohort-1",
       "registeredAt": "2026-09-07",
       "plannedApplyDate": "2026-09-09",
-      "status": "pre-registered（未適用）",
+      "status": "applied（2026-09-09 適用済み）",
       "measure": "description 改稿（本文・title・products は不変）",
       "baseline": "reports/gsc-harvest/baseline-2026-09-07.json（窓 2026-08-08〜2026-09-04・28日・GSC 確定日 09-04・page 次元・アンカー除外後）",
       "criteria": {
@@ -198,7 +236,30 @@
         "単独コミット・単独デプロイにする",
         "holds に正式な行（startedAt: 適用日 / releaseDate / measures / actions）を起こし、この事前登録の status を applied に変える",
         "メモリ project_measurement_holds にも同内容を追記する"
-      ]
+      ],
+      "appliedAt": "2026-09-09",
+      "appliedResult": {
+        "gscConfirmedDate": "2026-09-06",
+        "baseline": "reports/gsc-harvest/baseline-2026-09-09.json（窓 2026-08-10〜2026-09-06・28日・page 次元・アンカー除外後）",
+        "criteriaRecheck": "採択8本すべて基準を維持。kitchen-paper の CTR は 2.33%→2.58%、hand-soap 3.28%、sanitary-napkin 4.29%、garbage-bag 3.95%、cotton 1.51%、laundry-detergent 1.18%、oxiclean-vs-percarbonate 0.78%、tissue-paper 0.94%。構成の変更なし（施策6/対照2）。",
+        "frontWindowReaudit": "a367f0e〜HEAD の全中間コミット（0d0e52e の cron を含む）で products[].name セット・title・description・見出しを再照合し、8本すべて差分ゼロ。",
+        "baselineMetricsApplied": {
+          "treatment": {
+            "articles": 6,
+            "impressions28d": 6291,
+            "clicks28d": 125,
+            "ctr": "1.99%"
+          },
+          "control": {
+            "articles": 2,
+            "impressions28d": 1588,
+            "clicks28d": 34,
+            "ctr": "2.14%"
+          }
+        },
+        "descriptionsAfter": "施策群6本の改稿後 description は各記事の frontmatter を参照（本コミットの diff は6ファイル各1行）。",
+        "baselineMetricsNote": "⚠️ 事前登録時（窓 08-08〜09-04）は施策群 2.09% / 対照群 1.99% だったが、窓が2日ずれた結果 施策群 1.99% / 対照群 2.14% と大小が逆転した。差は 0.15pp で群間は依然そろっており、割当は基準どおり機械適用したものなので構成は変更しない。"
+      }
     }
   ]
 }
