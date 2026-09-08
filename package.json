@@ -30,6 +30,7 @@
     "export-ai-rag": "node --experimental-strip-types scripts/export-ai-rag-data.mjs",
     "gsc:harvest": "node --experimental-strip-types scripts/gsc-harvest.mjs",
     "weekly:snapshot": "node --experimental-strip-types scripts/weekly-snapshot.mjs",
+    "cohort:crawl-check": "node --experimental-strip-types scripts/cohort-crawl-check.mjs",
     "generate-popular": "node --experimental-strip-types scripts/generate-popular-articles.mjs",
     "generate-popular:dry": "node --experimental-strip-types scripts/generate-popular-articles.mjs --dry-run",
     "indexnow": "node scripts/indexnow-submit.mjs",

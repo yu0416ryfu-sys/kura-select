@@ -8,6 +8,7 @@
 // 目的: 「どの期間を、どの取得法で、どう正規化するか」の判断をコードに固定し、
 // 週次分析のばらつき（CLAUDE.md §5.0.2 の3ルール違反）を構造的に防ぐ。
 
+import { formatCohortCrawlSection, type CohortCrawlStatus } from './cohort-crawl.ts';
 import { excludeFragmentPages, isFragmentPage } from "./gsc-pages.ts";
 
 /** クリック実数がこの値未満の比較は判定に使わない（CLAUDE.md §10「実数一桁は判定しない」） */
@@ -337,6 +338,12 @@ export interface SnapshotForDigest {
     previous?: { clicks: number; impressions: number };
     missingDates?: string[];
   };
+  /** コホート施策の再クロール確認（後窓の起点）。--no-crawl-check なら available:false */
+  cohortCrawl?: {
+    available: boolean;
+    error?: string;
+    statuses: CohortCrawlStatus[];
+  };
 }
 
 /**
@@ -373,6 +380,15 @@ export function buildDigest(
       "次元の行を足し上げてサイト合計にしないこと（CLAUDE.md §5.0.2 ルール2）。",
   );
   lines.push("");
+
+  if (snapshot.cohortCrawl?.available) {
+    lines.push(...formatCohortCrawlSection(snapshot.cohortCrawl.statuses));
+  } else if (snapshot.cohortCrawl && snapshot.cohortCrawl.error !== "skipped") {
+    lines.push("## 0. コホート施策の再クロール確認（後窓の起点）");
+    lines.push("");
+    lines.push(`⚠️ 確認できなかった: ${snapshot.cohortCrawl.error}`);
+    lines.push("");
+  }
 
   lines.push("## 1. サイト全体（GSC・`dimensions: []`）");
   lines.push("");

@@ -74,8 +74,8 @@
         "cotton-comparison",
         "laundry-detergent-comparison"
       ],
-      "releaseDate": "2026-10-11",
-      "releaseLabel": "2026-10-10",
+      "releaseDate": "2026-10-08",
+      "releaseLabel": "2026-10-07",
       "targetType": "cohort",
       "cohortId": "cohort-01-description",
       "arm": "treatment",
@@ -101,23 +101,26 @@
         "cotton-comparison": "コットンを1枚あたりのコストで徹底比較。シルコット・ビオレ・大容量無印など人気8選を吸水性・肌触り・コスパ最強ランキングで解説。スキンケア毎日使いに最適な1袋が見つかります。",
         "laundry-detergent-comparison": "洗濯洗剤を液体・粉末・ジェルボールのタイプ別に徹底比較。部屋干し対応や詰め替えのしやすさも解説するおすすめ10選。楽天で買える洗濯洗剤選びの参考にどうぞ。"
       },
-      "windowStartRule": "後窓の起点は**6本すべての再クロール完了日**（改稿後の版でクロールされた日）。ユーザー判断 2026-09-09。暫定＝起点+14日 / 確定＝起点+28日 に読み替え、releaseDate も起点確定後に更新する。あわせてユーザーが GSC の URL 検査から施策群6本のインデックス登録をリクエストする（対照群は内容を変えないためリクエスト不要。対照群の役割は方向の確認のみ）。運用: 数日おきに gsc_index_status で6本の lastCrawlTime を確認し、全本が 2026-09-09 以降になった日を起点として両台帳に記帳する。",
+      "windowStartRule": "後窓の起点は**全6本の再クロール完了日**（ユーザー判断 2026-09-09）。**2026-09-09 に確定＝起点 2026-09-09**: ユーザーが URL 検査からインデックス登録をリクエストした結果、施策群6本が同日 23:05〜23:11Z に再クロールされた（description デプロイ完了は 22:45:25Z なので全本がデプロイ後）。**暫定判断 2026-09-23 / 確定判断 2026-10-07**、releaseDate は 2026-10-08。確認は機械化済み: `pnpm cohort:crawl-check`（随時）と `pnpm weekly:snapshot`（毎週月曜・スナップショットの §0 に出力）が lastCrawlAtApply / deployedAt と現在の lastCrawlTime を比較する。",
       "lastCrawlAtApply": {
-        "laundry-detergent-comparison": "2026-08-22",
-        "garbage-bag-comparison": "2026-08-24",
-        "cotton-comparison": "2026-08-25",
-        "sanitary-napkin-comparison": "2026-08-29",
-        "hand-soap-comparison": "2026-08-31",
-        "oxiclean-vs-percarbonate-comparison": "2026-09-02"
-      }
+        "laundry-detergent-comparison": "2026-08-22T12:48:44Z",
+        "garbage-bag-comparison": "2026-08-24T04:23:08Z",
+        "cotton-comparison": "2026-08-25T01:42:55Z",
+        "sanitary-napkin-comparison": "2026-08-29T01:52:06Z",
+        "hand-soap-comparison": "2026-08-31T21:59:22Z",
+        "oxiclean-vs-percarbonate-comparison": "2026-09-02T09:12:19Z"
+      },
+      "lastCrawlAtApplyNote": "GSC URL 検査 API の lastCrawlTime（ISO 8601・UTC）。pnpm cohort:crawl-check / pnpm weekly:snapshot がこの値と現在値を比較して後窓の起点を判定する。⚠️この行を手で書き換えると起点判定が壊れる。",
+      "deployedAt": "2026-09-08T22:45:25Z",
+      "originDate": "2026-09-09"
     },
     {
       "slugs": [
         "kitchen-paper-comparison",
         "tissue-paper-comparison"
       ],
-      "releaseDate": "2026-10-11",
-      "releaseLabel": "2026-10-10",
+      "releaseDate": "2026-10-08",
+      "releaseLabel": "2026-10-07",
       "targetType": "cohort",
       "cohortId": "cohort-01-description",
       "arm": "control",
@@ -138,7 +141,9 @@
         "kitchen-paper-comparison": "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気10選を吸水力・強度・コスパで解説します。",
         "tissue-paper-comparison": "ティッシュペーパーを1組あたりの価格で徹底比較。まとめ買いでお得な商品から花粉症向け高保湿タイプまでおすすめ10選を紹介。用途別に選べるティッシュの決定版。"
       },
-      "windowStartRule": "後窓の起点は**6本すべての再クロール完了日**（改稿後の版でクロールされた日）。ユーザー判断 2026-09-09。暫定＝起点+14日 / 確定＝起点+28日 に読み替え、releaseDate も起点確定後に更新する。あわせてユーザーが GSC の URL 検査から施策群6本のインデックス登録をリクエストする（対照群は内容を変えないためリクエスト不要。対照群の役割は方向の確認のみ）。運用: 数日おきに gsc_index_status で6本の lastCrawlTime を確認し、全本が 2026-09-09 以降になった日を起点として両台帳に記帳する。"
+      "windowStartRule": "後窓の起点は**全6本の再クロール完了日**（ユーザー判断 2026-09-09）。**2026-09-09 に確定＝起点 2026-09-09**: ユーザーが URL 検査からインデックス登録をリクエストした結果、施策群6本が同日 23:05〜23:11Z に再クロールされた（description デプロイ完了は 22:45:25Z なので全本がデプロイ後）。**暫定判断 2026-09-23 / 確定判断 2026-10-07**、releaseDate は 2026-10-08。確認は機械化済み: `pnpm cohort:crawl-check`（随時）と `pnpm weekly:snapshot`（毎週月曜・スナップショットの §0 に出力）が lastCrawlAtApply / deployedAt と現在の lastCrawlTime を比較する。",
+      "deployedAt": "2026-09-08T22:45:25Z",
+      "originDate": "2026-09-09"
     }
   ],
   "prohibitions": [

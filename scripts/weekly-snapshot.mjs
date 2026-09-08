@@ -4,6 +4,7 @@
 //   pnpm weekly:snapshot                 # 確定日を実測して今週/前週/28日の窓で取得
 //   pnpm weekly:snapshot -- --week-days=7 --month-days=28
 //   pnpm weekly:snapshot -- --no-bing    # Bing をスキップ
+//   pnpm weekly:snapshot -- --no-crawl-check  # コホートの再クロール確認をスキップ
 //   pnpm weekly:snapshot -- --top-pages=30 --top-queries=30
 //
 // 出力（reports/ は gitignore 済み）:
@@ -15,7 +16,7 @@
 //   1. 確定日を dimensions:["date"] で実測してから窓を切る
 //   2. サイト全体は dimensions: [] で取る（次元の行を足し上げない）
 //   3. 確定日を出力の先頭に明記する
-import { mkdirSync, writeFileSync } from 'fs';
+import { mkdirSync, readFileSync, writeFileSync } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { google } from 'googleapis';
@@ -40,10 +41,15 @@ import {
   toMetrics,
   toPerDay,
 } from './lib/weekly-snapshot.ts';
+import {
+  selectCohortCrawlTargets,
+  evaluateCohortCrawl,
+} from './lib/cohort-crawl.ts';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_DIR = path.resolve(__dirname, '../reports/weekly');
 const ENV_PATH = path.resolve(__dirname, '../.env');
+const HOLDS_PATH = path.resolve(__dirname, '../data/measurement-holds.json');
 
 const GA4_PROPERTY_ID = process.env.GA4_PROPERTY_ID ?? '535186053';
 const GA4_METRICS = [
@@ -72,10 +78,15 @@ function parseArgs(argv) {
     topPages: 20,
     topQueries: 20,
     bing: true,
+    crawlCheck: true,
     confirmedDate: null,
   };
 
   for (const arg of argv) {
+    if (arg === '--no-crawl-check') {
+      options.crawlCheck = false;
+      continue;
+    }
     if (arg === '--no-bing') {
       options.bing = false;
       continue;
@@ -469,6 +480,44 @@ async function collectBing(windows) {
   };
 }
 
+// ------------------------------------------------- コホートの再クロール確認
+
+/**
+ * 施策群の記事が「改稿後の版でクロールされたか」を URL 検査 API で確認する。
+ *
+ * 後窓の起点はデプロイ日ではなく再クロール日（CLAUDE.md §5.0.2 / R2）。
+ * この確認を人間や AI の記憶に置くと落ちるので週次スナップショットに組み込む。
+ */
+async function collectCohortCrawl(auth) {
+  let ledger;
+  try {
+    ledger = JSON.parse(readFileSync(HOLDS_PATH, 'utf8'));
+  } catch (error) {
+    return { available: false, error: `台帳を読めません: ${error.message}`, statuses: [] };
+  }
+
+  const targets = selectCohortCrawlTargets(ledger, SITE_URL);
+  if (targets.length === 0) return { available: true, statuses: [] };
+
+  const searchconsole = google.searchconsole({ version: 'v1', auth });
+  const inspections = new Map();
+  for (const target of targets) {
+    // URL 検査 API は 1 サイトあたり日次クォータがあるので直列で叩く
+    try {
+      const res = await searchconsole.urlInspection.index.inspect({
+        requestBody: { inspectionUrl: target.url, siteUrl: SITE_URL },
+      });
+      const lastCrawlTime =
+        res.data.inspectionResult?.indexStatusResult?.lastCrawlTime ?? null;
+      inspections.set(target.slug, { lastCrawlTime });
+    } catch (error) {
+      inspections.set(target.slug, { error: error.message });
+    }
+  }
+
+  return { available: true, statuses: evaluateCohortCrawl(targets, inspections) };
+}
+
 // ---------------------------------------------------------------- main
 
 async function main() {
@@ -549,6 +598,23 @@ async function main() {
     }
   }
 
+  let cohortCrawl = { available: false, error: 'skipped', statuses: [] };
+  if (options.crawlCheck) {
+    try {
+      cohortCrawl = await collectCohortCrawl(auth);
+    } catch (error) {
+      cohortCrawl = { available: false, error: error.message, statuses: [] };
+      console.warn(`⚠️ コホートの再クロール確認に失敗しました: ${error.message}`);
+    }
+    for (const status of cohortCrawl.statuses) {
+      console.log(
+        status.allRecrawled
+          ? `再クロール確認 ${status.cohortId}(${status.arm}): ✅ 全本完了 → 後窓の起点 ${status.originDate}`
+          : `再クロール確認 ${status.cohortId}(${status.arm}): ⏳ 未クロール ${status.pendingSlugs.length} 本（起点は未確定）`,
+      );
+    }
+  }
+
   const snapshot = {
     generatedAt: new Date().toISOString(),
     siteUrl: SITE_URL,
@@ -567,6 +633,7 @@ async function main() {
     },
     ga4,
     bing,
+    cohortCrawl,
   };
 
   mkdirSync(OUTPUT_DIR, { recursive: true });
