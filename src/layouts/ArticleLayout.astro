@@ -132,7 +132,7 @@ const articleJsonLd = {
   },
   publisher: { "@type": "Organization", name: SITE.nameJa },
   image: data.heroImage ? String(data.heroImage) : `${SITE.url}${SITE.ogImage}`,
-  url: `${SITE.url}/articles/${article.id}`,
+  url: `${SITE.url}/articles/${article.id}/`,
 };
 
 // FAQPage 構造化データ用に answer をプレーンテキスト化する。
@@ -160,9 +160,9 @@ const breadcrumbJsonLd = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   itemListElement: [
-    { "@type": "ListItem", position: 1, name: "ホーム", item: SITE.url },
-    { "@type": "ListItem", position: 2, name: categoryName, item: `${SITE.url}/category/${categorySlug}` },
-    { "@type": "ListItem", position: 3, name: data.title, item: `${SITE.url}/articles/${article.id}` },
+    { "@type": "ListItem", position: 1, name: "ホーム", item: `${SITE.url}/` },
+    { "@type": "ListItem", position: 2, name: categoryName, item: `${SITE.url}/category/${categorySlug}/` },
+    { "@type": "ListItem", position: 3, name: data.title, item: `${SITE.url}/articles/${article.id}/` },
   ],
 };
 
@@ -185,7 +185,7 @@ const serviceJsonLds = services.map((s) => ({
       priceCurrency: "JPY",
       unitCode: "MON",
     },
-    url: `${SITE.url}/articles/${article.id}`,
+    url: `${SITE.url}/articles/${article.id}/`,
   },
 }));
 
