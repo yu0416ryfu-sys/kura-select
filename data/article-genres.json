@@ -1,13 +1,746 @@
 {
-  "updatedAt": "2026-09-05",
+  "updatedAt": "2026-09-10",
   "note": "記事ごとの期待ジャンル。事実ではなく人間の判断なので frontmatter ではなくここに置く",
   "readme": [
     "キーは記事 slug（-comparison を除いたもの）。expected は楽天 genreId の配列。",
     "expected が空 / 未登録の記事は unconfigured として判定せず、提案だけ出す（pnpm check-genre-fit -- --json）。",
-    "多数派＝正ではない（別ジャンルでも記事として妥当な商品がある）ので、提案値は人間が承認してから登録する。"
+    "多数派＝正ではない（別ジャンルでも記事として妥当な商品がある）ので、提案値は人間が承認してから登録する。",
+    "2026-09-10: Step 9 で unconfigured 111 記事を承認登録。判断は商品名ベース（楽天のジャンル名 API は現行の資格情報では叩けない）。",
+    "登録方針: 現時点の所属商品がテーマに合っているジャンルは expected に入れ、テーマ外の商品が入っているジャンルだけ外す。",
+    "結果として「今後 新しいジャンルの商品が入ったら気づく」ガードになる。既存の混入は note に理由を書いた6記事だけ。"
   ],
   "articles": {
-    "garbage-bag": { "expected": ["216044"], "note": "ゴミ袋。パン袋(205838/550088)は混入" },
-    "diaper-newborn": { "expected": ["205198"], "note": "紙おむつ" }
+    "acne-patch": {
+      "expected": [
+        "562084",
+        "503020",
+        "112849",
+        "564572"
+      ]
+    },
+    "adult-diaper": {
+      "expected": [
+        "201540",
+        "402842"
+      ],
+      "note": "パッドとパンツの2ジャンル構成。記事として両方妥当"
+    },
+    "adult-wipes": {
+      "expected": [
+        "214947",
+        "101062",
+        "302779"
+      ]
+    },
+    "air-conditioner-filter": {
+      "expected": [
+        "212105",
+        "212141",
+        "101833",
+        "101839",
+        "112779"
+      ]
+    },
+    "baby-wipes": {
+      "expected": [
+        "205194",
+        "505416"
+      ]
+    },
+    "ballpoint-pen": {
+      "expected": [
+        "216058",
+        "205824"
+      ],
+      "note": "多機能ペン（ジェットストリーム）は別ジャンルだが記事としては妥当"
+    },
+    "bandage": {
+      "expected": [
+        "568428",
+        "101830",
+        "204748",
+        "402796"
+      ]
+    },
+    "bath-additive": {
+      "expected": [
+        "205761",
+        "101838",
+        "214816",
+        "401163"
+      ]
+    },
+    "bath-drain-hair-catcher": {
+      "expected": [
+        "101838",
+        "101839",
+        "565605"
+      ]
+    },
+    "bath-mat": {
+      "expected": [
+        "100650"
+      ]
+    },
+    "bath-mold-preventer": {
+      "expected": [
+        "216017",
+        "101838",
+        "216834",
+        "565622"
+      ]
+    },
+    "bathroom-cleaner": {
+      "expected": [
+        "216017",
+        "216027",
+        "565624"
+      ]
+    },
+    "battery": {
+      "expected": [
+        "212634",
+        "566792"
+      ],
+      "note": "アルカリ乾電池と充電池の2ジャンル。記事として両方妥当"
+    },
+    "body-lotion": {
+      "expected": [
+        "216670",
+        "205205",
+        "216387",
+        "216307"
+      ]
+    },
+    "body-sheet": {
+      "expected": [
+        "507854",
+        "101882",
+        "208212"
+      ]
+    },
+    "body-soap": {
+      "expected": [
+        "100962"
+      ]
+    },
+    "cat-food": {
+      "expected": [
+        "565724"
+      ]
+    },
+    "cat-litter": {
+      "expected": [
+        "204174"
+      ]
+    },
+    "cleansing": {
+      "expected": [
+        "405061",
+        "101876",
+        "405091",
+        "502945"
+      ]
+    },
+    "coffee-filter": {
+      "expected": [
+        "566122",
+        "566123",
+        "101799"
+      ]
+    },
+    "conditioner": {
+      "expected": [
+        "210686",
+        "210695",
+        "567538"
+      ]
+    },
+    "contact-lens": {
+      "expected": [
+        "509123",
+        "408109",
+        "214884",
+        "566013"
+      ]
+    },
+    "cooking-sheet": {
+      "expected": [
+        "401532",
+        "100635"
+      ]
+    },
+    "cooling-pack": {
+      "expected": [
+        "568877",
+        "101991",
+        "201925",
+        "111923",
+        "567381"
+      ]
+    },
+    "cotton": {
+      "expected": [
+        "111797",
+        "562084"
+      ],
+      "note": "化粧用コットン。メイク落としシートは混入 / 502976 除外: ビオレ ふくだけコットン＝メイク落としシート。化粧用コットン記事のテーマ外"
+    },
+    "cotton-swab": {
+      "expected": [
+        "506400",
+        "200829",
+        "505519"
+      ]
+    },
+    "dental-floss": {
+      "expected": [
+        "208218",
+        "204758"
+      ]
+    },
+    "denture-cleaner": {
+      "expected": [
+        "208216"
+      ]
+    },
+    "deodorant": {
+      "expected": [
+        "507856",
+        "112779",
+        "304761",
+        "507852",
+        "507855"
+      ]
+    },
+    "deodorizing-bag": {
+      "expected": [
+        "216044",
+        "566815",
+        "201671"
+      ],
+      "note": "防臭袋。パン袋は混入 / 550088 除外: HEIKO 食パン袋。garbage-bag と同じパン袋混入"
+    },
+    "diaper-big": {
+      "expected": [
+        "205198",
+        "200821"
+      ]
+    },
+    "diaper-newborn": {
+      "expected": [
+        "205198"
+      ],
+      "note": "紙おむつ"
+    },
+    "diaper-pants": {
+      "expected": [
+        "205198"
+      ]
+    },
+    "diaper-pants-big": {
+      "expected": [
+        "205198"
+      ]
+    },
+    "diaper-pants-l": {
+      "expected": [
+        "205198"
+      ]
+    },
+    "diaper-pants-m": {
+      "expected": [
+        "205198"
+      ]
+    },
+    "diaper-tape": {
+      "expected": [
+        "205198"
+      ]
+    },
+    "diaper-tape-m": {
+      "expected": [
+        "205198"
+      ]
+    },
+    "diaper-tape-s": {
+      "expected": [
+        "205198",
+        "112779"
+      ]
+    },
+    "dish-detergent": {
+      "expected": [
+        "216012",
+        "112779"
+      ]
+    },
+    "dishwasher-detergent": {
+      "expected": [
+        "216012",
+        "201230",
+        "216016",
+        "568277"
+      ]
+    },
+    "disposable-gloves": {
+      "expected": [
+        "401632",
+        "567837"
+      ]
+    },
+    "disposable-tableware": {
+      "expected": [
+        "215980",
+        "564993",
+        "566130"
+      ]
+    },
+    "dog-food": {
+      "expected": [
+        "565715"
+      ]
+    },
+    "drain-cleaner": {
+      "expected": [
+        "565623",
+        "101839"
+      ]
+    },
+    "drain-net": {
+      "expected": [
+        "301447",
+        "216012",
+        "565605"
+      ]
+    },
+    "electric-toothbrush-head": {
+      "expected": [
+        "212559",
+        "208522"
+      ]
+    },
+    "fabric-deodorizer": {
+      "expected": [
+        "401619",
+        "208238",
+        "568537",
+        "101892"
+      ]
+    },
+    "fabric-softener": {
+      "expected": [
+        "559647",
+        "565675"
+      ]
+    },
+    "face-wash": {
+      "expected": [
+        "405130",
+        "100627",
+        "216467",
+        "405165",
+        "405183"
+      ]
+    },
+    "father-day-gift": {
+      "expected": [
+        "216058",
+        "407036",
+        "110626",
+        "502429",
+        "551736",
+        "566157"
+      ],
+      "note": "ギフト記事のためジャンルが分散するのが正常"
+    },
+    "floor-cleaner": {
+      "expected": [
+        "568230",
+        "101839",
+        "401612"
+      ]
+    },
+    "flushable-toilet-brush": {
+      "expected": [
+        "215999"
+      ]
+    },
+    "frosch-vs-yashinomi": {
+      "expected": [
+        "216012"
+      ]
+    },
+    "garbage-bag": {
+      "expected": [
+        "216044"
+      ],
+      "note": "ゴミ袋。パン袋(205838/550088)は混入"
+    },
+    "hair-color": {
+      "expected": [
+        "210724",
+        "507833",
+        "101878",
+        "210726"
+      ]
+    },
+    "hair-oil": {
+      "expected": [
+        "210695",
+        "216461",
+        "507825",
+        "568579"
+      ]
+    },
+    "hair-treatment": {
+      "expected": [
+        "210695",
+        "210716"
+      ]
+    },
+    "hand-cream": {
+      "expected": [
+        "304759"
+      ]
+    },
+    "hand-soap": {
+      "expected": [
+        "304758",
+        "204748"
+      ]
+    },
+    "ih-frying-pan": {
+      "expected": [
+        "215927",
+        "559247"
+      ]
+    },
+    "ih-single-pot": {
+      "expected": [
+        "215913",
+        "215908",
+        "101857",
+        "558994",
+        "559062"
+      ]
+    },
+    "insect-repellent": {
+      "expected": [
+        "401642",
+        "101882",
+        "216082",
+        "553423"
+      ]
+    },
+    "interdental-brush": {
+      "expected": [
+        "204758",
+        "506385"
+      ],
+      "note": "歯間ブラシ。現状フロスが5件入っており design-review になる（§7-Z） / 208218 除外: デンタルフロス。歯間ブラシ記事の設計問題（§7-Z）"
+    },
+    "joy-vs-cucute": {
+      "expected": [
+        "216012"
+      ]
+    },
+    "kids-toothpaste": {
+      "expected": [
+        "204759",
+        "551695"
+      ]
+    },
+    "kireikirei-vs-biore": {
+      "expected": [
+        "304758",
+        "101833",
+        "204748"
+      ]
+    },
+    "kitchen-bleach": {
+      "expected": [
+        "216016",
+        "210182"
+      ]
+    },
+    "kitchen-paper": {
+      "expected": [
+        "100632",
+        "568271",
+        "566118"
+      ]
+    },
+    "kitchen-sponge": {
+      "expected": [
+        "401520"
+      ]
+    },
+    "laundry-bleach": {
+      "expected": [
+        "564510",
+        "210182",
+        "216016"
+      ]
+    },
+    "laundry-detergent": {
+      "expected": [
+        "210182"
+      ]
+    },
+    "laundry-gel-ball": {
+      "expected": [
+        "210182",
+        "216031"
+      ]
+    },
+    "laundry-net": {
+      "expected": [
+        "205776"
+      ]
+    },
+    "lint-roller": {
+      "expected": [
+        "567230",
+        "101839"
+      ]
+    },
+    "mask": {
+      "expected": [
+        "402788",
+        "506394"
+      ]
+    },
+    "melamine-sponge": {
+      "expected": [
+        "401520",
+        "568269",
+        "101737",
+        "101839",
+        "401611"
+      ]
+    },
+    "mineral-water": {
+      "expected": [
+        "201351"
+      ]
+    },
+    "moisture-absorber": {
+      "expected": [
+        "568231",
+        "101833",
+        "401619"
+      ]
+    },
+    "mosquito-repellent-liquid": {
+      "expected": [
+        "553423",
+        "100695"
+      ]
+    },
+    "moth-repellent": {
+      "expected": [
+        "568699",
+        "100695"
+      ]
+    },
+    "mouthwash": {
+      "expected": [
+        "208265"
+      ]
+    },
+    "mukokukan-vs-shoshuriki": {
+      "expected": [
+        "401619"
+      ]
+    },
+    "natural-cleaning": {
+      "expected": [
+        "216027",
+        "210182",
+        "402589"
+      ]
+    },
+    "oxiclean-vs-percarbonate": {
+      "expected": [
+        "564510",
+        "210182",
+        "568344"
+      ]
+    },
+    "panty-liner": {
+      "expected": [
+        "214860"
+      ]
+    },
+    "pet-sheet-double": {
+      "expected": [
+        "409755"
+      ]
+    },
+    "pet-sheet-regular": {
+      "expected": [
+        "409755",
+        "203259"
+      ]
+    },
+    "portable-toilet": {
+      "expected": [
+        "501137"
+      ]
+    },
+    "razor": {
+      "expected": [
+        "567539",
+        "567540",
+        "208532",
+        "216660"
+      ]
+    },
+    "rice": {
+      "expected": [
+        "201184"
+      ]
+    },
+    "room-deodorizer": {
+      "expected": [
+        "401619",
+        "568537"
+      ]
+    },
+    "room-dry-detergent": {
+      "expected": [
+        "210182",
+        "101172"
+      ]
+    },
+    "sanitary-napkin": {
+      "expected": [
+        "402761"
+      ]
+    },
+    "sanitizing-spray": {
+      "expected": [
+        "401619",
+        "208238",
+        "206187",
+        "409431",
+        "568364"
+      ]
+    },
+    "sensitive-softener": {
+      "expected": [
+        "559647"
+      ]
+    },
+    "shampoo": {
+      "expected": [
+        "210677",
+        "567538"
+      ]
+    },
+    "storage-bag": {
+      "expected": [
+        "401519",
+        "101843",
+        "101855",
+        "112779"
+      ]
+    },
+    "sunscreen": {
+      "expected": [
+        "503054",
+        "216307",
+        "567445"
+      ]
+    },
+    "tea-bag": {
+      "expected": [
+        "100361",
+        "567645",
+        "565603"
+      ]
+    },
+    "tissue-paper": {
+      "expected": [
+        "100670",
+        "501098",
+        "505519"
+      ]
+    },
+    "tissue-paper-moist": {
+      "expected": [
+        "100670",
+        "216045",
+        "505522"
+      ]
+    },
+    "tissue-paper-regular": {
+      "expected": [
+        "100670"
+      ]
+    },
+    "tissue-paper-soft-pack": {
+      "expected": [
+        "100670"
+      ]
+    },
+    "toilet-cleaner": {
+      "expected": [
+        "216022"
+      ]
+    },
+    "toilet-cleaning-sheet": {
+      "expected": [
+        "508447",
+        "216022"
+      ]
+    },
+    "toilet-paper": {
+      "expected": [
+        "501098"
+      ]
+    },
+    "toilet-paper-double": {
+      "expected": [
+        "501098"
+      ]
+    },
+    "toothbrush": {
+      "expected": [
+        "506385",
+        "551693"
+      ],
+      "note": "歯ブラシ本体。電動の替えブラシは混入 / 212559 除外: 電動歯ブラシの互換替えブラシ。electric-toothbrush-head の領分"
+    },
+    "toothpaste": {
+      "expected": [
+        "204759"
+      ],
+      "note": "歯磨き粉。歯ブラシ本体は混入 / 506385 除外: 歯ブラシ本体。歯磨き粉記事のテーマ外"
+    },
+    "washing-machine-cleaner": {
+      "expected": [
+        "568344",
+        "101172",
+        "101837",
+        "210182",
+        "216834",
+        "564510"
+      ]
+    },
+    "wet-tissue": {
+      "expected": [
+        "505519",
+        "505416",
+        "505522"
+      ],
+      "note": "ウェットティッシュ・手口ふき。ベビーおしりふきは混入 / 205194 除外: ベビーおしりふき。baby-wipes の領分"
+    },
+    "wrap-foil": {
+      "expected": [
+        "100633"
+      ]
+    }
   }
 }
