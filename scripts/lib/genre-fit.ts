@@ -7,7 +7,14 @@
 // 計画書: docs/IMPLEMENTATION_PLAN_RAKUTEN_GENRE_ID_2026-09-05.md §3.5
 import { normalizeGenreId } from './frontmatter.ts';
 
-/** 外れ率の閾値。これ以下なら混入候補、超えたら記事設計の問題として扱う */
+/**
+ * 外れ率の閾値。これ以下なら混入候補、超えたら記事設計の問題として扱う。
+ *
+ * 2026-09-10（全113記事の初回実行後）に再調整を検討し 0.25 のまま据え置いた。
+ * 実測の外れ率は 10〜20%（混入 = 単発の異物1〜2件）と 56%（interdental-brush =
+ * 記事設計の問題）にきれいに二分され、25% 付近に該当記事が1件も無い。
+ * どちらに動かしても分類は変わらないため、動かす根拠が無い。
+ */
 export const CONTAMINATION_MAX_RATIO = 0.25;
 
 export type GenreFitCode = 'clean' | 'contamination' | 'design-review' | 'unconfigured' | 'no-data';
