@@ -4,9 +4,32 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 products:
   - rank: 1
+    name: "クリニカ アドバンテージ ハミガキ クールミント 130g×3本"
+    brand: "ライオン（クリニカ）"
+    price: 1062
+    capacity: "130g×3本"
+    pricePerUnit: "約2.7円/g"
+    rating: 4.71
+    reviewCount: 332
+    features:
+      - "フッ素1450ppm配合の薬用ハミガキ（医薬部外品）"
+      - "歯垢を分解する酵素デキストラナーゼを配合"
+      - "3本セットで1本あたりの価格を抑えられる"
+    pros:
+      - "記事内で1gあたりが最も安い"
+      - "ドラッグストア定番でリピートしやすい"
+      - "虫歯予防の基本処方をひと通り備える"
+    cons:
+      - "ホワイトニング専用の処方ではない"
+      - "3本セットなので置き場所を取る"
+    recommendedFor: "虫歯予防を優先しつつ単価も抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F65916%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10905882%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/916/65916.jpg?_ex=128x128"
+    genreId: "204759"
+  - rank: 2
     name: "システマ ハグキプラスW ハミガキ 95g"
     brand: "ライオン（システマ）"
     price: 404
@@ -40,14 +63,14 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_1898149"
         available: true
     genreId: "204759"
-  - rank: 2
+  - rank: 3
     name: "キラルンペースト 100g"
     brand: "RUKEN"
     price: 1298
     capacity: "100g"
     pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 11020
+    reviewCount: 11022
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -74,7 +97,7 @@ products:
         rating: 4.31
         reviewCount: 1070
     genreId: "204759"
-  - rank: 3
+  - rank: 4
     name: "キラルン 2点ミニセット パウダー5g＋ペースト15g"
     brand: "RUKEN"
     price: 328
@@ -97,7 +120,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothsmple%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/toothpsnew.jpg?_ex=128x128"
     genreId: "204759"
-  - rank: 4
+  - rank: 5
     name: "キラルンパウダー"
     brand: "RUKEN"
     price: 1000
@@ -131,7 +154,7 @@ products:
         rating: 4.24
         reviewCount: 254
     genreId: "204759"
-  - rank: 5
+  - rank: 6
     name: "だいじょうぶなもの ホワイトニングトゥースペースト シルクパウダー"
     brand: "だいじょうぶなもの"
     price: 1760
@@ -165,7 +188,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yoga-pi_moo-18026"
         available: true
     genreId: "204759"
-  - rank: 6
+  - rank: 7
     name: "アパガードリナメル"
     brand: "アパガード"
     price: 2870
@@ -199,29 +222,6 @@ products:
         rating: 4.51
         reviewCount: 1084
     genreId: "204759"
-  - rank: 7
-    name: "歯ブラシ まとめ買い 大人 おとな用歯ブラシアソート"
-    brand: "サンギ（アパガード）"
-    price: 1480
-    capacity: "（20g）"
-    pricePerUnit: "約74円/g"
-    rating: 4.68
-    reviewCount: 1673
-    features:
-      - "ナノ粒子ハイドロキシアパタイトでエナメル質を補修"
-      - "研磨剤不使用でやさしいホワイトニング"
-      - "ステイン（着色汚れ）除去と予防"
-    pros:
-      - "歯の表面のステインを落とし白くする効果"
-      - "研磨剤不使用なので歯を傷めにくい"
-      - "リナメル処方で傷ついたエナメル質を補修"
-    cons:
-      - "単価が最も高い"
-      - "ホワイトニング効果を実感するまで時間がかかる"
-    recommendedFor: "ホワイトニング・着色汚れを落としたい方・歯の白さにこだわる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F36667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10004851%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0908_p5400/kirikae1/36667.jpg?_ex=128x128"
-    genreId: "506385"
   - rank: 8
     name: "しろえ ホワイトニングパウダー"
     brand: "しろえ"
@@ -251,7 +251,7 @@ products:
     price: 2580
     capacity: "120g"
     rating: 4.47
-    reviewCount: 2333
+    reviewCount: 2334
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"

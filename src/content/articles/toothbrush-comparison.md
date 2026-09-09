@@ -4,7 +4,7 @@ description: "歯ブラシを1本あたりのコストで徹底比較。シス�
 category: "toothpaste"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 products:
   - rank: 1
     name: "Shu&Shu 歯ブラシ"
@@ -13,7 +13,7 @@ products:
     capacity: "50本"
     pricePerUnit: "約36円/本"
     rating: 4.67
-    reviewCount: 1235
+    reviewCount: 1237
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -36,7 +36,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約58円/本"
     rating: 4.74
-    reviewCount: 2037
+    reviewCount: 2038
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -93,7 +93,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約74円/本"
     rating: 4.81
-    reviewCount: 4901
+    reviewCount: 4902
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -150,7 +150,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約123円/本"
     rating: 4.45
-    reviewCount: 2311
+    reviewCount: 2315
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -173,7 +173,7 @@ products:
     capacity: "30本"
     pricePerUnit: "約139円/本"
     rating: 4.73
-    reviewCount: 2204
+    reviewCount: 2205
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -224,12 +224,35 @@ products:
         reviewCount: 2659
     genreId: "506385"
   - rank: 9
+    name: "ガム・ウェルプラス デンタルブラシ #226 10本セット"
+    brand: "サンスター（GUM）"
+    price: 1570
+    capacity: "10本"
+    pricePerUnit: "約157円/本"
+    rating: 4.86
+    reviewCount: 14
+    features:
+      - "歯科専売のガム・ウェルプラス #226（S／M）"
+      - "歯周ケア向けの定番シリーズ"
+      - "10本セットでストックしやすい"
+    pros:
+      - "市販ブランドの中では1本あたりが抑えめ"
+      - "歯科専売品をまとめ買いできる"
+      - "かたさを S／M から選べる"
+    cons:
+      - "歯科専売品のため店頭では買いにくい"
+      - "ハンドルカラーは選べない"
+    recommendedFor: "歯周ケア向けの定番ブランドをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvuln.3rdw600e.g00tvuln.3rdw7892/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficekanna%2Fcompass1662087272%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficekanna%2Fi%2F10007835%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/officekanna/cabinet/12162853/compass1749738591.jpg?_ex=128x128"
+    genreId: "506385"
+  - rank: 10
     name: "キャラクター子ども歯ブラシ"
     brand: "Ciメディカル"
     price: 2090
     capacity: "30本"
     rating: 4.76
-    reviewCount: 3966
+    reviewCount: 3972
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -246,29 +269,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0908_p5400/kirikae1/03952_sam04.jpg?_ex=128x128"
     priceMax: 2160
     genreId: "506385"
-  - rank: 10
-    name: "オーラルB 互換替えブラシ"
-    brand: "オーラルB互換"
-    price: 634
-    capacity: "4本"
-    rating: 4.18
-    reviewCount: 2168
-    features:
-      - "歯ブラシ本体または電動歯ブラシ"
-      - "まとめ買いしやすい本数"
-      - "大人用・子ども用を選べる"
-    pros:
-      - "家族分をまとめて備えやすい"
-      - "交換用ストックに向く"
-      - "用途に合わせて選べる"
-    cons:
-      - "毛のかたさやサイズ確認が必要"
-      - "電動タイプは替えブラシ確認が必要"
-    recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6l1n.3rdw6f6f.g00r6l1n.3rdw7918/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyhair%2Foral-b-co%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyhair%2Fi%2F10005065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyhair/cabinet/mbimg/burashi/oral-b-select-202509.jpg?_ex=128x128"
-    priceMax: 649
-    genreId: "212559"
 tags:
   - "歯ブラシ おすすめ"
   - "歯ブラシ コスパ"
