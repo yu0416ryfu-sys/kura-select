@@ -175,7 +175,7 @@
         "区分C の同時是正: products[] に存在しない銘柄の撤去（contact-lens / dishwasher-detergent / conditioner / body-soap の description、contact-lens 本文、moisture-absorber・cleansing・floor-cleaner のまとめ）、陳腐化した手書き単価の撤去（conditioner 本文、body-soap 本文、dishwasher-detergent / body-soap / conditioner の pros）、§11 の根拠なし断定の撤去（cleansing pros の「人気No.1クラス」、floor-cleaner まとめの「ダントツのコスパ」）、薬機法リスク表現の中和（conditioner features）"
       ],
       "simultaneous": true,
-      "note": "定型H2 是正 Step 4 第3バッチ（R3非該当9本）。着手日は 2026-09-10（ユーザー判断）。⚠️**当初の対象は10本だったが `hand-soap` を除外した** —— 09-09 のコホート第1弾で施策群に採択され releaseDate 2026-10-08 で凍結されたため。TODO §6.6 の「残り10本」は 09-01 時点のリストで、そのままでは凍結を踏む。 ⚠️**コホート第1弾（cohort-01-description）の正規化子から、この9本も控除すること**。cohort-01 の正規化子は『page 次元（アンカー除外後）の全記事ページ合計 − 施策群6 − 対照群2』の残余だが、この9本は残余に含まれており 09-10 に本文を改稿した。控除しないと cohort-01 の正規化が汚れる（ユーザー判断 2026-09-10）。 判定: 対照群は置かない（AdSense 対策の品質改善が主目的で、施策型の有効性検定ではない）。したがって**合算の方向を見るだけ**で、cohort-01 のような意思決定ルール（+50%）は適用しない。 ⚠️後窓の起点はデプロイ日ではなく再クロール日（cohort-01 と同じ）。適用時の lastCrawlTime は lastCrawlAtApply に保存済みで、全9本とも改稿前の版（08-29〜09-06）。`pnpm cohort:crawl-check` / `pnpm weekly:snapshot` が再クロール完了を検知する。**暫定 09-24 / 確定 10-08 は仮日付**で、起点が後ろにずれたら releaseDate も後ろ倒しする。 simultaneous: true —— 定型H2 の置換と区分C 是正を同時に実施しているため、記事単位の判定はできない（区分C はいずれも §5.0.3 の例外に当たる誤表示・法務リスクの是正で、放置する選択肢がなかった）。 ⚠️`body-soap` の title に「1g0.87円〜」という陳腐化した単価が残っている（実データは約0.85円/g）。title の変更は §5.0.2 の施策に当たるため本バッチでは触れていない。別施策として判断する。",
+      "note": "定型H2 是正 Step 4 第3バッチ（R3非該当9本）。着手日は 2026-09-10（ユーザー判断）。⚠️**当初の対象は10本だったが `hand-soap` を除外した** —— 09-09 のコホート第1弾で施策群に採択され releaseDate 2026-10-08 で凍結されたため。TODO §6.6 の「残り10本」は 09-01 時点のリストで、そのままでは凍結を踏む。 ⚠️**コホート第1弾（cohort-01-description）の正規化子から、この9本も控除すること**。cohort-01 の正規化子は『page 次元（アンカー除外後）の全記事ページ合計 − 施策群6 − 対照群2』の残余だが、この9本は残余に含まれており 09-10 に本文を改稿した。控除しないと cohort-01 の正規化が汚れる（ユーザー判断 2026-09-10）。 判定: 対照群は置かない（AdSense 対策の品質改善が主目的で、施策型の有効性検定ではない）。したがって**合算の方向を見るだけ**で、cohort-01 のような意思決定ルール（+50%）は適用しない。 ⚠️後窓の起点はデプロイ日ではなく再クロール日（cohort-01 と同じ）。適用時の lastCrawlTime は lastCrawlAtApply に保存済みで、全9本とも改稿前の版（08-29〜09-06）。`pnpm cohort:crawl-check` / `pnpm weekly:snapshot` が再クロール完了を検知する。**暫定 09-24 / 確定 10-08 は仮日付**で、起点が後ろにずれたら releaseDate も後ろ倒しする。 simultaneous: true —— 定型H2 の置換と区分C 是正を同時に実施しているため、記事単位の判定はできない（区分C はいずれも §5.0.3 の例外に当たる誤表示・法務リスクの是正で、放置する選択肢がなかった）。 ⚠️`body-soap` の title に「1g0.87円〜」という陳腐化した単価が残っている（実データは約0.85円/g）。title の変更は §5.0.2 の施策に当たるため本バッチでは触れていない。別施策として判断する。 ⚠️2026-09-10 追記: デプロイ完了 2026-09-09T23:08:56Z（GitHub Actions の deploy ジョブ）。本番HTML9本で旧定型H2 が 0件であることを curl で確認済み。IndexNow（Bing）は同ワークフローの indexnow ジョブが自動送信済み。**Google は GSC の URL 検査から9本すべてインデックス登録をリクエスト済み**（2026-09-10・ブラウザ操作。9本とも「インデックス登録をリクエスト済み」ダイアログで確認）。⚠️GSC API には「インデックス登録をリクエスト」の口がない（urlInspection.index.inspect は読み取り専用、Indexing API は JobPosting / BroadcastEvent 限定）ので、この操作は画面からしかできない。次は `pnpm cohort:crawl-check` で lastCrawlTime が lastCrawlAtApply から更新されたかを確認し、更新された日を後窓の起点として確定する。",
       "source": "IMPLEMENTATION_PLAN_TEMPLATE_H2_REWRITE_2026-09-01.md / docs/TODO.md §6.6",
       "windowStartRule": "後窓の起点は9本の再クロール完了日。lastCrawlAtApply と現在の lastCrawlTime を `pnpm cohort:crawl-check` で比較して確定する。仮に 2026-09-10 起点とすると暫定判断 2026-09-24 / 確定判断 2026-10-08、releaseDate は 2026-10-09。",
       "lastCrawlAtApply": {
@@ -190,7 +190,7 @@
         "floor-cleaner-comparison": "2026-09-05T09:09:30Z"
       },
       "lastCrawlAtApplyNote": "GSC URL 検査 API の lastCrawlTime（ISO 8601・UTC）。適用当日 2026-09-10 に取得。⚠️この行を手で書き換えると起点判定が壊れる。",
-      "deployedAt": null,
+      "deployedAt": "2026-09-09T23:08:56Z",
       "originDate": "2026-09-10（仮）"
     }
   ],
