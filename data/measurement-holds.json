@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09",
+  "updatedAt": "2026-09-10",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。人間・AI 双方の唯一の正はメモリ project_measurement_holds だが、",
     "機械判定（scripts/check-internal-links.mjs など）はこのファイルを読む。両者は必ず同時に更新する。",
@@ -7,7 +7,8 @@
     "releaseDate は『この日から編集してよい日』＝台帳の解除日の翌日。判定は releaseDate > today の厳密な文字列比較。",
     "prohibitions は期限なしの禁止で、範囲が限定的（商品追加のみ等）なため holds には入れない＝機械判定は凍結扱いしない。",
     "区分A（update-products の price/rating 等の自動更新）は凍結対象外につきここには記帳しない（CLAUDE.md §5.0.3）。",
-    "cohortPreRegistrations はコホートの事前登録（機械は読まない）。第1弾は 2026-09-09 に適用し holds に treatment / control の2行を起こした。"
+    "cohortPreRegistrations はコホートの事前登録（機械は読まない）。第1弾は 2026-09-09 に適用し holds に treatment / control の2行を起こした。",
+    "cohort-02-template-h2（2026-09-10・定型H2 是正 第3バッチ9本）は cohort-01 の残余正規化子に含まれるため、cohort-01 の判定では残余からこの9本も控除する。"
   ],
   "holds": [
     {
@@ -91,7 +92,7 @@
         "改稿の型は6本で統一: ①冒頭を主要クエリの言い換え疑問文にする ②選び分け軸を3つ具体名で並べる ③末尾に「価格は毎週自動更新」を置く。改稿後 114〜122字（改稿前 76〜110字）"
       ],
       "simultaneous": false,
-      "note": "測定レジーム v2 R2 のコホート第1弾（description 改稿型）。事前登録 cohortPreRegistrations[0]（09-07・a367f0e）を 09-09 に適用。採択基準（全文）: 28日表示 >= 150 かつ CTR < 5% かつ 記事ページ かつ 非凍結 かつ 前窓クリーン。同数時は クリック降順 → slug 昇順。CTR 閾値は事前登録時に実測を見てから 3% → 5% に緩和した（ユーザー判断 09-07）。3% のままだと採択5本＝施策4/対照1 で対照群が『方向の確認』として機能しないため。⚠️プレレジとしての強さは落ちる。 正規化子: page 次元（アンカー除外後）の全記事ページ合計から施策群6本と対照群2本を控除した残余を基準にする（控除方式・R2）。サイト全体の報告値に使う dimensions: [] とは混ぜない。 判定日: 暫定 2026-09-26（後窓14日）／確定 2026-10-10（後窓28日）。合算 CTR +50% 以上なら第2弾で再現を見る／未満なら型を捨てる＝意思決定ルールであって検定閾値ではない（MDE 前14/後14 +84%・前14/後28 +73%）。 ⚠️判定時に必ず併記する留保: ①CTR 閾値を実測後に緩和 ②前窓（08-26〜09-08）にサイト全体 +65.0%／+65.6% の異常週（08-29〜09-04）が丸ごと入る ③09-09 は JSON-LD 末尾スラッシュ是正など全記事共通テンプレの変更と同日になりうる（CTR には作用しないが、実施したらこの行に注記する） ④08-25 の15記事同時改稿が前窓に乗っている。 改稿前 description の全文は cohortPreRegistrations[0].descriptionsBefore に保存（8本分）。対照群は方向の確認専用で DiD には使わない（CTR の標準誤差 0.68pp）。記事別内訳は参考記録に留め、記事単位の成否判定には使わない。 ⚠️2026-09-09 補正: **後窓の起点はデプロイ日ではなく再クロール日**。適用直後に GSC URL 検査で確認したところ、施策群6本の lastCrawlTime は laundry-detergent 08-22 / garbage-bag 08-24 / cotton 08-25 / sanitary-napkin 08-29 / hand-soap 08-31 / oxiclean-vs-percarbonate 09-02 で、**いずれも改稿前の版**だった。09-09 起点で窓を切ると前半が旧スニペットの CTR になり施策を過小評価する（laundry-gel-ball で踏んだ空振りと同型）。したがって **暫定 09-26 / 確定 10-10 は仮日付**とし、再クロール完了日が決まってから確定する。releaseDate 2026-10-11 も起点確定後に後ろ倒しする可能性がある。前窓（baseline-2026-09-09.json・窓 08-10〜09-06）は確定データなので影響を受けない。 ⚠️2026-09-09: JSON-LD 末尾スラッシュ是正（`ArticleLayout.astro` 5箇所・全記事共通テンプレ・区分C相当）を実施。起点 09-09。判定時に併記する。",
+      "note": "測定レジーム v2 R2 のコホート第1弾（description 改稿型）。事前登録 cohortPreRegistrations[0]（09-07・a367f0e）を 09-09 に適用。採択基準（全文）: 28日表示 >= 150 かつ CTR < 5% かつ 記事ページ かつ 非凍結 かつ 前窓クリーン。同数時は クリック降順 → slug 昇順。CTR 閾値は事前登録時に実測を見てから 3% → 5% に緩和した（ユーザー判断 09-07）。3% のままだと採択5本＝施策4/対照1 で対照群が『方向の確認』として機能しないため。⚠️プレレジとしての強さは落ちる。 正規化子: page 次元（アンカー除外後）の全記事ページ合計から施策群6本と対照群2本を控除した残余を基準にする（控除方式・R2）。サイト全体の報告値に使う dimensions: [] とは混ぜない。 判定日: 暫定 2026-09-26（後窓14日）／確定 2026-10-10（後窓28日）。合算 CTR +50% 以上なら第2弾で再現を見る／未満なら型を捨てる＝意思決定ルールであって検定閾値ではない（MDE 前14/後14 +84%・前14/後28 +73%）。 ⚠️判定時に必ず併記する留保: ①CTR 閾値を実測後に緩和 ②前窓（08-26〜09-08）にサイト全体 +65.0%／+65.6% の異常週（08-29〜09-04）が丸ごと入る ③09-09 は JSON-LD 末尾スラッシュ是正など全記事共通テンプレの変更と同日になりうる（CTR には作用しないが、実施したらこの行に注記する） ④08-25 の15記事同時改稿が前窓に乗っている。 改稿前 description の全文は cohortPreRegistrations[0].descriptionsBefore に保存（8本分）。対照群は方向の確認専用で DiD には使わない（CTR の標準誤差 0.68pp）。記事別内訳は参考記録に留め、記事単位の成否判定には使わない。 ⚠️2026-09-09 補正: **後窓の起点はデプロイ日ではなく再クロール日**。適用直後に GSC URL 検査で確認したところ、施策群6本の lastCrawlTime は laundry-detergent 08-22 / garbage-bag 08-24 / cotton 08-25 / sanitary-napkin 08-29 / hand-soap 08-31 / oxiclean-vs-percarbonate 09-02 で、**いずれも改稿前の版**だった。09-09 起点で窓を切ると前半が旧スニペットの CTR になり施策を過小評価する（laundry-gel-ball で踏んだ空振りと同型）。したがって **暫定 09-26 / 確定 10-10 は仮日付**とし、再クロール完了日が決まってから確定する。releaseDate 2026-10-11 も起点確定後に後ろ倒しする可能性がある。前窓（baseline-2026-09-09.json・窓 08-10〜09-06）は確定データなので影響を受けない。 ⚠️2026-09-09: JSON-LD 末尾スラッシュ是正（`ArticleLayout.astro` 5箇所・全記事共通テンプレ・区分C相当）を実施。起点 09-09。判定時に併記する。 ⚠️2026-09-10: 定型H2 是正 Step 4 第3バッチ（cohort-02-template-h2・9本）を実施した。**この9本は cohort-01 の正規化子（残余）に含まれるため、判定時は残余からこの9本も控除すること**（ユーザー判断 2026-09-10）。",
       "source": "IMPLEMENTATION_PLAN_MEASUREMENT_REGIME_V2_2026-08-25.md / cohortPreRegistrations[0]",
       "descriptionsBefore": {
         "oxiclean-vs-percarbonate-comparison": "オキシクリーンと過炭酸ナトリウム（酸素系漂白剤）の違いを1gあたりの単価・成分・使いやすさ・用途の4軸で徹底比較。中身は同じ？どっちを選ぶべきか、洗濯槽掃除やオキシ漬けでの使い分けまで解説します。価格は毎週自動更新。",
@@ -135,7 +136,7 @@
         "何も変更しない（対照群）。区分B のリンク切れ差し替えも含めて 2026-10-10 まで触らない"
       ],
       "simultaneous": false,
-      "note": "測定レジーム v2 R2 のコホート第1弾（description 改稿型）。事前登録 cohortPreRegistrations[0]（09-07・a367f0e）を 09-09 に適用。採択基準（全文）: 28日表示 >= 150 かつ CTR < 5% かつ 記事ページ かつ 非凍結 かつ 前窓クリーン。同数時は クリック降順 → slug 昇順。CTR 閾値は事前登録時に実測を見てから 3% → 5% に緩和した（ユーザー判断 09-07）。3% のままだと採択5本＝施策4/対照1 で対照群が『方向の確認』として機能しないため。⚠️プレレジとしての強さは落ちる。 正規化子: page 次元（アンカー除外後）の全記事ページ合計から施策群6本と対照群2本を控除した残余を基準にする（控除方式・R2）。サイト全体の報告値に使う dimensions: [] とは混ぜない。 判定日: 暫定 2026-09-26（後窓14日）／確定 2026-10-10（後窓28日）。合算 CTR +50% 以上なら第2弾で再現を見る／未満なら型を捨てる＝意思決定ルールであって検定閾値ではない（MDE 前14/後14 +84%・前14/後28 +73%）。 ⚠️判定時に必ず併記する留保: ①CTR 閾値を実測後に緩和 ②前窓（08-26〜09-08）にサイト全体 +65.0%／+65.6% の異常週（08-29〜09-04）が丸ごと入る ③09-09 は JSON-LD 末尾スラッシュ是正など全記事共通テンプレの変更と同日になりうる（CTR には作用しないが、実施したらこの行に注記する） ④08-25 の15記事同時改稿が前窓に乗っている。 改稿前 description の全文は cohortPreRegistrations[0].descriptionsBefore に保存（8本分）。対照群は方向の確認専用で DiD には使わない（CTR の標準誤差 0.68pp）。記事別内訳は参考記録に留め、記事単位の成否判定には使わない。 ⚠️2026-09-09 補正: **後窓の起点はデプロイ日ではなく再クロール日**。適用直後に GSC URL 検査で確認したところ、施策群6本の lastCrawlTime は laundry-detergent 08-22 / garbage-bag 08-24 / cotton 08-25 / sanitary-napkin 08-29 / hand-soap 08-31 / oxiclean-vs-percarbonate 09-02 で、**いずれも改稿前の版**だった。09-09 起点で窓を切ると前半が旧スニペットの CTR になり施策を過小評価する（laundry-gel-ball で踏んだ空振りと同型）。したがって **暫定 09-26 / 確定 10-10 は仮日付**とし、再クロール完了日が決まってから確定する。releaseDate 2026-10-11 も起点確定後に後ろ倒しする可能性がある。前窓（baseline-2026-09-09.json・窓 08-10〜09-06）は確定データなので影響を受けない。 ⚠️2026-09-09: JSON-LD 末尾スラッシュ是正（`ArticleLayout.astro` 5箇所・全記事共通テンプレ・区分C相当）を実施。起点 09-09。判定時に併記する。",
+      "note": "測定レジーム v2 R2 のコホート第1弾（description 改稿型）。事前登録 cohortPreRegistrations[0]（09-07・a367f0e）を 09-09 に適用。採択基準（全文）: 28日表示 >= 150 かつ CTR < 5% かつ 記事ページ かつ 非凍結 かつ 前窓クリーン。同数時は クリック降順 → slug 昇順。CTR 閾値は事前登録時に実測を見てから 3% → 5% に緩和した（ユーザー判断 09-07）。3% のままだと採択5本＝施策4/対照1 で対照群が『方向の確認』として機能しないため。⚠️プレレジとしての強さは落ちる。 正規化子: page 次元（アンカー除外後）の全記事ページ合計から施策群6本と対照群2本を控除した残余を基準にする（控除方式・R2）。サイト全体の報告値に使う dimensions: [] とは混ぜない。 判定日: 暫定 2026-09-26（後窓14日）／確定 2026-10-10（後窓28日）。合算 CTR +50% 以上なら第2弾で再現を見る／未満なら型を捨てる＝意思決定ルールであって検定閾値ではない（MDE 前14/後14 +84%・前14/後28 +73%）。 ⚠️判定時に必ず併記する留保: ①CTR 閾値を実測後に緩和 ②前窓（08-26〜09-08）にサイト全体 +65.0%／+65.6% の異常週（08-29〜09-04）が丸ごと入る ③09-09 は JSON-LD 末尾スラッシュ是正など全記事共通テンプレの変更と同日になりうる（CTR には作用しないが、実施したらこの行に注記する） ④08-25 の15記事同時改稿が前窓に乗っている。 改稿前 description の全文は cohortPreRegistrations[0].descriptionsBefore に保存（8本分）。対照群は方向の確認専用で DiD には使わない（CTR の標準誤差 0.68pp）。記事別内訳は参考記録に留め、記事単位の成否判定には使わない。 ⚠️2026-09-09 補正: **後窓の起点はデプロイ日ではなく再クロール日**。適用直後に GSC URL 検査で確認したところ、施策群6本の lastCrawlTime は laundry-detergent 08-22 / garbage-bag 08-24 / cotton 08-25 / sanitary-napkin 08-29 / hand-soap 08-31 / oxiclean-vs-percarbonate 09-02 で、**いずれも改稿前の版**だった。09-09 起点で窓を切ると前半が旧スニペットの CTR になり施策を過小評価する（laundry-gel-ball で踏んだ空振りと同型）。したがって **暫定 09-26 / 確定 10-10 は仮日付**とし、再クロール完了日が決まってから確定する。releaseDate 2026-10-11 も起点確定後に後ろ倒しする可能性がある。前窓（baseline-2026-09-09.json・窓 08-10〜09-06）は確定データなので影響を受けない。 ⚠️2026-09-09: JSON-LD 末尾スラッシュ是正（`ArticleLayout.astro` 5箇所・全記事共通テンプレ・区分C相当）を実施。起点 09-09。判定時に併記する。 ⚠️2026-09-10: 定型H2 是正 Step 4 第3バッチ（cohort-02-template-h2・9本）を実施した。**この9本は cohort-01 の正規化子（残余）に含まれるため、判定時は残余からこの9本も控除すること**（ユーザー判断 2026-09-10）。",
       "source": "IMPLEMENTATION_PLAN_MEASUREMENT_REGIME_V2_2026-08-25.md / cohortPreRegistrations[0]",
       "descriptionsBefore": {
         "kitchen-paper-comparison": "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気10選を吸水力・強度・コスパで解説します。",
@@ -144,6 +145,53 @@
       "windowStartRule": "後窓の起点は**全6本の再クロール完了日**（ユーザー判断 2026-09-09）。**2026-09-09 に確定＝起点 2026-09-09**: ユーザーが URL 検査からインデックス登録をリクエストした結果、施策群6本が同日 23:05〜23:11Z に再クロールされた（description デプロイ完了は 22:45:25Z なので全本がデプロイ後）。**暫定判断 2026-09-23 / 確定判断 2026-10-07**、releaseDate は 2026-10-08。確認は機械化済み: `pnpm cohort:crawl-check`（随時）と `pnpm weekly:snapshot`（毎週月曜・スナップショットの §0 に出力）が lastCrawlAtApply / deployedAt と現在の lastCrawlTime を比較する。",
       "deployedAt": "2026-09-08T22:45:25Z",
       "originDate": "2026-09-09"
+    },
+    {
+      "slugs": [
+        "wet-tissue-comparison",
+        "contact-lens-comparison",
+        "moisture-absorber-comparison",
+        "dishwasher-detergent-comparison",
+        "baby-wipes-comparison",
+        "body-soap-comparison",
+        "conditioner-comparison",
+        "cleansing-comparison",
+        "floor-cleaner-comparison"
+      ],
+      "releaseDate": "2026-10-09",
+      "releaseLabel": "2026-10-08（仮・再クロール完了日で確定する）",
+      "targetType": "cohort",
+      "cohortId": "cohort-02-template-h2",
+      "arm": "treatment",
+      "startedAt": "2026-09-10",
+      "measures": [
+        "再クロールが来たか（起点の確定）",
+        "コホート合算 表示/日",
+        "コホート合算 クリック/日",
+        "コホート合算 表示加重平均順位"
+      ],
+      "actions": [
+        "定型H2（「コスパ比較のポイント」「タイプ別の特徴と使い分け」）を記事固有セクションへ置換。本文のみ（title は不変）",
+        "区分C の同時是正: products[] に存在しない銘柄の撤去（contact-lens / dishwasher-detergent / conditioner / body-soap の description、contact-lens 本文、moisture-absorber・cleansing・floor-cleaner のまとめ）、陳腐化した手書き単価の撤去（conditioner 本文、body-soap 本文、dishwasher-detergent / body-soap / conditioner の pros）、§11 の根拠なし断定の撤去（cleansing pros の「人気No.1クラス」、floor-cleaner まとめの「ダントツのコスパ」）、薬機法リスク表現の中和（conditioner features）"
+      ],
+      "simultaneous": true,
+      "note": "定型H2 是正 Step 4 第3バッチ（R3非該当9本）。着手日は 2026-09-10（ユーザー判断）。⚠️**当初の対象は10本だったが `hand-soap` を除外した** —— 09-09 のコホート第1弾で施策群に採択され releaseDate 2026-10-08 で凍結されたため。TODO §6.6 の「残り10本」は 09-01 時点のリストで、そのままでは凍結を踏む。 ⚠️**コホート第1弾（cohort-01-description）の正規化子から、この9本も控除すること**。cohort-01 の正規化子は『page 次元（アンカー除外後）の全記事ページ合計 − 施策群6 − 対照群2』の残余だが、この9本は残余に含まれており 09-10 に本文を改稿した。控除しないと cohort-01 の正規化が汚れる（ユーザー判断 2026-09-10）。 判定: 対照群は置かない（AdSense 対策の品質改善が主目的で、施策型の有効性検定ではない）。したがって**合算の方向を見るだけ**で、cohort-01 のような意思決定ルール（+50%）は適用しない。 ⚠️後窓の起点はデプロイ日ではなく再クロール日（cohort-01 と同じ）。適用時の lastCrawlTime は lastCrawlAtApply に保存済みで、全9本とも改稿前の版（08-29〜09-06）。`pnpm cohort:crawl-check` / `pnpm weekly:snapshot` が再クロール完了を検知する。**暫定 09-24 / 確定 10-08 は仮日付**で、起点が後ろにずれたら releaseDate も後ろ倒しする。 simultaneous: true —— 定型H2 の置換と区分C 是正を同時に実施しているため、記事単位の判定はできない（区分C はいずれも §5.0.3 の例外に当たる誤表示・法務リスクの是正で、放置する選択肢がなかった）。 ⚠️`body-soap` の title に「1g0.87円〜」という陳腐化した単価が残っている（実データは約0.85円/g）。title の変更は §5.0.2 の施策に当たるため本バッチでは触れていない。別施策として判断する。",
+      "source": "IMPLEMENTATION_PLAN_TEMPLATE_H2_REWRITE_2026-09-01.md / docs/TODO.md §6.6",
+      "windowStartRule": "後窓の起点は9本の再クロール完了日。lastCrawlAtApply と現在の lastCrawlTime を `pnpm cohort:crawl-check` で比較して確定する。仮に 2026-09-10 起点とすると暫定判断 2026-09-24 / 確定判断 2026-10-08、releaseDate は 2026-10-09。",
+      "lastCrawlAtApply": {
+        "wet-tissue-comparison": "2026-09-06T11:51:57Z",
+        "contact-lens-comparison": "2026-09-05T02:42:35Z",
+        "moisture-absorber-comparison": "2026-09-05T09:07:38Z",
+        "dishwasher-detergent-comparison": "2026-09-02T05:14:22Z",
+        "baby-wipes-comparison": "2026-09-06T00:36:51Z",
+        "body-soap-comparison": "2026-08-29T05:04:30Z",
+        "conditioner-comparison": "2026-08-31T10:55:08Z",
+        "cleansing-comparison": "2026-08-29T07:18:33Z",
+        "floor-cleaner-comparison": "2026-09-05T09:09:30Z"
+      },
+      "lastCrawlAtApplyNote": "GSC URL 検査 API の lastCrawlTime（ISO 8601・UTC）。適用当日 2026-09-10 に取得。⚠️この行を手で書き換えると起点判定が壊れる。",
+      "deployedAt": null,
+      "originDate": "2026-09-10（仮）"
     }
   ],
   "prohibitions": [
