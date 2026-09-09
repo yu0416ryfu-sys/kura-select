@@ -4,7 +4,7 @@ description: "赤ちゃん用おしりふき15商品を1枚当たり価格で比
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.78
-    reviewCount: 8057
+    reviewCount: 8066
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -40,6 +40,7 @@ products:
         reviewCount: 1636
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_2000363s"
         available: true
+    genreId: "205194"
   - rank: 2
     name: "ムーニー おしりふき やわらか素材 詰め替え"
     brand: "ムーニー"
@@ -75,6 +76,7 @@ products:
         updatedAt: "2026-08-19"
         rating: 4.56
         reviewCount: 9
+    genreId: "205194"
   - rank: 3
     name: "レック 水99.9％ 手口ふき おしりふき 80枚×15個"
     brand: "レック"
@@ -82,7 +84,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約1.6円/枚"
     rating: 4.69
-    reviewCount: 4777
+    reviewCount: 4780
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -108,6 +110,7 @@ products:
         reviewCount: 1034
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
         available: true
+    genreId: "505416"
   - rank: 4
     name: "グーン 肌にやさしいおしりふき 70枚×12袋"
     brand: "グーン"
@@ -143,6 +146,7 @@ products:
         updatedAt: "2026-07-13"
         rating: 0
         reviewCount: 0
+    genreId: "205194"
   - rank: 5
     name: "おしりふき 厚手 菌99.9除去"
     brand: "レック"
@@ -242,6 +246,7 @@ products:
         reviewCount: 1041
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
+    genreId: "205194"
   - rank: 8
     name: "おしり拭き 流せる シート 菌99.9除去"
     brand: "レック"
@@ -275,6 +280,7 @@ products:
         updatedAt: "2026-09-07"
         rating: 4.61
         reviewCount: 1041
+    genreId: "205194"
   - rank: 9
     name: "パンパース 肌へのいちばん おしりふき 56枚×12個"
     brand: "P&G（パンパース）"
@@ -308,6 +314,7 @@ products:
         reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cherubin-shopp_ks058ad589c4"
         available: true
+    genreId: "205194"
 tags:
   - "おしりふき おすすめ"
   - "おしりふき コスパ"

@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "PVCグローブ 100枚×20箱"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 4.69
         reviewCount: 389
+    genreId: "567837"
   - rank: 2
     name: "PVCグローブ 100枚×10箱"
     brand: "サンユー"
@@ -73,6 +74,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove041"
         available: false
         matchNotes: "capacity不一致: capacity不一致"
+    genreId: "567837"
   - rank: 3
     name: "ウイルカット プラスチックグローブ 100枚"
     brand: "ウイルカット"
@@ -104,6 +106,7 @@ products:
         price: 1594
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/its-japan_p21037610e99a"
         available: true
+    genreId: "401632"
   - rank: 4
     name: "PVC手袋 粉なし 2000枚"
     brand: "厳選いいもの本舗"
@@ -126,6 +129,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz0kn.3rdw6a1c.g00tz0kn.3rdw7d29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbt-iimono%2Fpvc-m-01-2000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbt-iimono%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bt-iimono/cabinet/07914503/new-pvc.jpg?_ex=128x128"
     priceMax: 6860
+    genreId: "401632"
   - rank: 5
     name: "プラスチック手袋 パウダーフリー 100枚"
     brand: "ワークアップ"
@@ -159,6 +163,7 @@ products:
         rating: 4.6
         reviewCount: 88
     priceMax: 6787
+    genreId: "401632"
   - rank: 6
     name: "ニトリル手袋 パウダーフリー 1000枚"
     brand: "明成"
@@ -192,6 +197,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove003"
         available: true
     priceMax: 19000
+    genreId: "401632"
   - rank: 7
     name: "ニトリルゴム手袋 パウダーフリー 100枚"
     brand: "厳選いいもの本舗"
@@ -225,13 +231,14 @@ products:
         rating: 0
         reviewCount: 0
     priceMax: 17950
+    genreId: "401632"
   - rank: 8
     name: "ニトリル手袋 パウダーフリー 医療対応"
     brand: "TKJP"
     price: 890
     capacity: "100枚"
     rating: 4.57
-    reviewCount: 3653
+    reviewCount: 3658
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -247,13 +254,14 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs3nn.3rdw6825.g00qs3nn.3rdw7afb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenkapas%2Fglove001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenkapas%2Fi%2F10010258%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tenkapas/cabinet/item_image/item_health_beauty/sanitary-goods/glove001-2026.jpg?_ex=128x128"
     priceMax: 38200
+    genreId: "401632"
   - rank: 9
     name: "ニトリル手袋 パウダーフリー 100枚"
     brand: "TRINITY COSME"
     price: 890
     capacity: "100枚"
     rating: 4.71
-    reviewCount: 1451
+    reviewCount: 1452
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -279,14 +287,15 @@ products:
         reviewCount: 2262
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
         available: true
-    priceMax: 33800
+    priceMax: 33600
+    genreId: "401632"
   - rank: 10
     name: "調理用ビニール使いきり極薄手袋"
     brand: "KAWANISHI"
     price: 1198
     capacity: "100枚"
     rating: 4.61
-    reviewCount: 861
+    reviewCount: 862
     features:
       - "調理向けの極薄仕様で粉なしタイプ"
       - "食品衛生法に適合したビニール素材"
@@ -302,6 +311,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qz79n.3rdw6c04.g00qz79n.3rdw7be5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshizaicom-rt%2F10000858%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshizaicom-rt%2Fi%2F10000858%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shizaicom-rt/cabinet/kawanishi/gloves/imgrc0141332171.jpg?_ex=128x128"
     priceMax: 26970
+    genreId: "401632"
 tags:
   - "使い捨て手袋"
   - "ニトリル手袋"

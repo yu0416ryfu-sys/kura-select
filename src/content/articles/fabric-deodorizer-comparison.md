@@ -4,7 +4,7 @@ description: "衣類・布用消臭スプレーを1プッシュあたりのコ�
 category: "sanitizing-spray"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "リセッシュ 除菌EX デオドラントパワー 香りが残らないタイプ 本体 360mL"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "101892"
   - rank: 2
     name: "ファブリーズ W除菌+消臭 詰め替え 1280ml×2セット"
     brand: "P&G（ファブリーズ）"
@@ -61,6 +62,7 @@ products:
     recommendedFor: "ブランド重視の方・臭いを根本から消したい方・無香料派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598757%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321967%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/757/598757.jpg?_ex=128x128"
+    genreId: "568537"
   - rank: 3
     name: "ランドリン ファブリックミスト クラシックフローラル 370mL"
     brand: "ネイチャーラボ（ランドリン）"
@@ -94,6 +96,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/toku00301_pbtuqj2ih5k3phffpwr6vs7ywy"
         available: true
+    genreId: "568537"
   - rank: 4
     name: "フレナチュラ 除菌スプレー 消臭スプレー 400mL"
     brand: "フレナチュラ"
@@ -127,14 +130,15 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "401619"
   - rank: 5
     name: "フレナチュラ グレージュ カラーボトル 400mL"
     brand: "フレナチュラ"
     price: 2200
     capacity: "400mL"
     pricePerUnit: "約5.5円/mL"
-    rating: 4.38
-    reviewCount: 309
+    rating: 4.37
+    reviewCount: 310
     features:
       - "インテリアになじむグレージュカラーのボトルデザイン"
       - "99%除菌対応の無臭処方"
@@ -160,6 +164,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "401619"
   - rank: 6
     name: "K・ガード プラスnine 500mLスプレー"
     brand: "K・ガード"
@@ -193,6 +198,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "208238"
   - rank: 7
     name: "スリーフ 除菌スプレー 500ml＋1L"
     brand: "Sourif（スリーフ）"
@@ -200,7 +206,7 @@ products:
     capacity: "500ml＋1L"
     pricePerUnit: "約6.4円/ml"
     rating: 4.54
-    reviewCount: 1055
+    reviewCount: 1056
     features:
       - "本体500mLと詰め替え1000mLのセット販売"
       - "速乾性の高いスプレータイプ"
@@ -227,6 +233,7 @@ products:
         rating: 0
         reviewCount: 0
         matchNotes: "capacity不一致: capacity不一致"
+    genreId: "208238"
   - rank: 8
     name: "A2Care 除菌消臭スプレー 300mL"
     brand: "A2Care"
@@ -260,6 +267,7 @@ products:
         available: true
         rating: 4.67
         reviewCount: 6
+    genreId: "401619"
   - rank: 9
     name: "シュシュキッキ リフレッシャー除菌消臭ミスト 20mL"
     brand: "ナカノザダイレクト"
@@ -282,6 +290,7 @@ products:
     recommendedFor: "外出先での応急消臭に・スーツやジャケットを持ち歩きケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptlfn.3rdw66e3.g00ptlfn.3rdw7472/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakano-d%2Fkesisaru-20%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakano-d%2Fi%2F10015727%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakano-d/cabinet/brand/bracebe/pic/chouchoukikki_20_1.jpg?_ex=128x128"
+    genreId: "401619"
 tags:
   - "消臭スプレー"
   - "ファブリーズ"

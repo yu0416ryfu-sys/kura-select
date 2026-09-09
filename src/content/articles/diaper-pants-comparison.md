@@ -4,7 +4,7 @@ description: "夜用パンツタイプのおむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "オヤスミマン 男の子 ビッグ以上 夜用"
@@ -37,6 +37,7 @@ products:
         available: true
         matchStatus: "matched"
         updatedAt: "2026-05-29"
+    genreId: "205198"
   - rank: 2
     name: "オヤスミマン 女の子 ビッグ以上 夜用"
     brand: "ユニ・チャーム"
@@ -68,6 +69,7 @@ products:
         available: true
         matchStatus: "matched"
         updatedAt: "2026-05-27"
+    genreId: "205198"
 tags:
   - "パンツ型おむつ"
   - "紙おむつ コスパ"

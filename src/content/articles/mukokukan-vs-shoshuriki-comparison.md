@@ -3,7 +3,7 @@ title: "無香空間と消臭力どっちがいい？【2026年版】無香料�
 description: "無香空間（小林製薬）と消臭力（エステー）はどっちがいい？置き型消臭剤の定番2ブランドを1gあたりの単価・無香料か香りか・持続力・詰め替えのしやすさの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "room-deodorizer"
 publishedAt: "2026-08-03"
-updatedAt: "2026-08-03"
+updatedAt: "2026-09-09"
 articleType: "comparison"
 draft: false
 products:
@@ -40,6 +40,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4987072094686-3"
         available: true
+    genreId: "401619"
   - rank: 2
     name: "消臭力 イオン消臭プラス 消臭ビーズ 詰め替え 無香料 1.5kg"
     brand: "エステー（消臭力）"
@@ -73,6 +74,7 @@ products:
         reviewCount: 40
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_x808238"
         available: true
+    genreId: "401619"
   - rank: 3
     name: "無香空間 本体 315g"
     brand: "小林製薬（無香空間）"
@@ -106,6 +108,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987072098813"
         available: true
+    genreId: "401619"
   - rank: 4
     name: "お部屋の消臭力 消臭芳香剤 部屋用 無香料 400mL"
     brand: "エステー（消臭力）"
@@ -139,6 +142,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4901070119141"
         available: true
+    genreId: "401619"
 tags:
   - "消臭剤"
   - "無香空間"

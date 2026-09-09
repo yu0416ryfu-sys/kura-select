@@ -4,7 +4,7 @@ description: "おりものシート（パンティライナー）のおすすめ
 category: "panty-liner"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-07-28"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/benkyoudou_so-4903111364244"
         available: true
+    genreId: "214860"
   - rank: 2
     name: "ロリエ きれいスタイル 超吸ランジェリーライナー 天然コットン100%"
     brand: "花王（ロリエ）"
@@ -62,6 +63,7 @@ products:
     recommendedFor: "肌に触れる素材を重視する方・吸収力も欲しい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sccjn.3rdw63ca.g00sccjn.3rdw709f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffines-f%2F4901301382757%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffines-f%2Fi%2F10026494%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fines-f/cabinet/06547305/07785924/imgrc0074857596.jpg?_ex=128x128"
+    genreId: "214860"
   - rank: 3
     name: "ソフィ Kiyora フレッシュシトラス イランイラン パンティライナー"
     brand: "ユニ・チャーム（ソフィ）"
@@ -95,6 +97,7 @@ products:
         reviewCount: 51
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_8029471"
         available: true
+    genreId: "214860"
   - rank: 4
     name: "ソフィ Kiyora アロマローズ パンティライナー おりものシート"
     brand: "ユニ・チャーム（ソフィ）"
@@ -128,6 +131,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4903111375677"
         available: true
+    genreId: "214860"
   - rank: 5
     name: "サラサーティ コットン100 極上やわらか 無香料 52枚"
     brand: "小林製薬（サラサーティ）"
@@ -161,6 +165,7 @@ products:
         reviewCount: 32
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_e471977"
         available: true
+    genreId: "214860"
   - rank: 6
     name: "ソフィ はだおもいライナー 天然極コットン 低刺激デリケートタイプ 14cm"
     brand: "ユニ・チャーム（ソフィ）"
@@ -194,6 +199,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903111316083"
         available: true
+    genreId: "214860"
   - rank: 7
     name: "サラサーティ コットン100 無香料 おりものシート"
     brand: "小林製薬（サラサーティ）"
@@ -227,6 +233,7 @@ products:
         reviewCount: 41
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_e471971"
         available: true
+    genreId: "214860"
 tags:
   - "おりものシート おすすめ"
   - "おりものシート コスパ"

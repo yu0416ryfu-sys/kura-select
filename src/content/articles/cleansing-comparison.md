@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -28,6 +28,7 @@ products:
     recommendedFor: "メイクの濃さに合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdaen.3rdw686c.g00qdaen.3rdw7002/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flesthemo%2Fcl-480ml%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flesthemo%2Fi%2F10000258%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/cleansing480ml_27.jpg?_ex=128x128"
+    genreId: "405061"
   - rank: 2
     name: "manyo ピュアクレンジングオイル 400mL"
     brand: "manyo"
@@ -61,6 +62,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "405061"
   - rank: 3
     name: "manyo ピュアクレンジングオイル ディープクリーン 200mL"
     brand: "manyo"
@@ -92,6 +94,7 @@ products:
         price: 2340
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/begirl_541203699"
         available: true
+    genreId: "405061"
   - rank: 4
     name: "DHC ディープクレンジングオイル 200mL"
     brand: "DHC"
@@ -125,6 +128,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "405061"
   - rank: 5
     name: "Bioré ビオレ素肌つるるんクレンジングウォーター詰替"
     brand: "花王（ビオレ）"
@@ -147,6 +151,7 @@ products:
     recommendedFor: "ライトメイクの方・時短スキンケアをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ujrwn.3rdw65e1.g00ujrwn.3rdw73b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorro%2F20250623203939_94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorro%2Fi%2F10047472%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/morro/cabinet/r_2025062255/20250623203939_94_1.jpg?_ex=128x128"
+    genreId: "101876"
   - rank: 6
     name: "PINCHER マルチクレンズ 500mL"
     brand: "PINCHER"
@@ -154,7 +159,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3234
+    reviewCount: 3236
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"
@@ -180,6 +185,7 @@ products:
         available: true
         rating: 4.94
         reviewCount: 471
+    genreId: "405091"
   - rank: 7
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
     brand: "花王（キュレル）"
@@ -213,6 +219,7 @@ products:
         rating: 5
         reviewCount: 3
     priceMax: 5440
+    genreId: "502945"
   - rank: 8
     name: "ソフティモ スピーディオイルクレンジング 230mL"
     brand: "コーセー（ソフティモ）"
@@ -235,6 +242,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw2pn.3rdw6069.g00tw2pn.3rdw7b19/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyland%2F1736928005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyland%2Fi%2F10000272%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyland/cabinet/compass1736927868.jpg?_ex=128x128"
     priceMax: 2970
+    genreId: "405061"
   - rank: 9
     name: "Anua ドクダミポアコントロールクレンジングオイル 200mL"
     brand: "Anua"
@@ -268,6 +276,7 @@ products:
         rating: 4.65
         reviewCount: 49
     priceMax: 6210
+    genreId: "405061"
   - rank: 10
     name: "KINS クレンジングオイル 100mL"
     brand: "KINS"
@@ -301,6 +310,7 @@ products:
         rating: 4.8
         reviewCount: 35
     priceMax: 23440
+    genreId: "405061"
 tags:
   - "クレンジング おすすめ"
   - "クレンジング コスパ"

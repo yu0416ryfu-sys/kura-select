@@ -4,7 +4,7 @@ description: "コンディショナーを1mLあたりのコストで徹底比較
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "メリット コンディショナー つめかえ用【メリット】"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 4.67
         reviewCount: 6
+    genreId: "210686"
   - rank: 2
     name: "デミ ミレアム ヘアケア コンディショナー 1800mL"
     brand: "デミ"
@@ -72,6 +73,7 @@ products:
         available: true
         rating: 4.65
         reviewCount: 17
+    genreId: "210686"
   - rank: 3
     name: "エッセンシャル しっとりまとまる コンディショナー 詰替 1080mL"
     brand: "花王（エッセンシャル）"
@@ -138,6 +140,7 @@ products:
         available: true
         rating: 4.5
         reviewCount: 14
+    genreId: "210686"
   - rank: 5
     name: "ケラスターゼ ディシプリン マスク オレオ リラックス"
     brand: "KERASTASE（ケラスターゼ）"
@@ -171,6 +174,7 @@ products:
         reviewCount: 27
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_3474636636761-01"
         available: true
+    genreId: "210695"
   - rank: 6
     name: "ラックス スーパーリッチシャイン ダメージリペア 補修コンディショナー つめかえ用 280g"
     brand: "ユニリーバ（LUX）"
@@ -204,6 +208,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tuuhan-tamashop_4902111773926"
         available: true
+    genreId: "210686"
   - rank: 7
     name: "ホーユー レセ ソーダベースメイク ヘアコンディショナー 350g"
     brand: "ホーユー（レセ）"
@@ -237,6 +242,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "210686"
   - rank: 8
     name: "パルガ ヘアコンディショナー アクアリッチ 500g 詰替"
     brand: "パルガ"
@@ -259,6 +265,7 @@ products:
     recommendedFor: "細い髪の方・サロン品質のコンディショナーを求める方・継続的なダメージケアを行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000013%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_ar500_p10.jpg?_ex=128x128"
+    genreId: "210695"
   - rank: 9
     name: "パルガ ヘアコンディショナー ソフトリッチR 500g 詰替"
     brand: "パルガ"
@@ -281,6 +288,7 @@ products:
     recommendedFor: "硬い髪の方・ふんわり感よりまとまりを求める方・継続的なケアを行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_sr500_p10.jpg?_ex=128x128"
+    genreId: "210695"
   - rank: 10
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"
     brand: "クラシエ（いち髪）"
@@ -313,6 +321,7 @@ products:
         matchNotes: "入数違い採用（楽天は660mL×2個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
     priceMax: 3580
+    genreId: "567538"
 tags:
   - "コンディショナー"
   - "コスパ"

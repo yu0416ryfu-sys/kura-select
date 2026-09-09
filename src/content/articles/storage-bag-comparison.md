@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "システムポリマー XP-11 スライダー付ジッパー保存袋"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 5
         reviewCount: 3
+    genreId: "401519"
   - rank: 2
     name: "システムポリマー PND-0420 パンダ柄おやつパック"
     brand: "システムポリマー"
@@ -72,6 +73,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "401519"
   - rank: 3
     name: "システムポリマー XP-13 スライダー付ジッパー保存袋 ML 10枚"
     brand: "システムポリマー"
@@ -105,6 +107,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bungubin_ka0046"
         available: true
+    genreId: "401519"
   - rank: 4
     name: "システムポリマー XP-14 スライダー付ジッパー保存袋 L 9枚"
     brand: "システムポリマー"
@@ -138,6 +141,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bungubin_ka0047"
         available: true
+    genreId: "401519"
   - rank: 5
     name: "ジップロック ストックバッグ L 16枚"
     brand: "旭化成（ジップロック）"
@@ -171,6 +175,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/crance_20260617125853-01502"
         available: true
+    genreId: "112779"
   - rank: 6
     name: "マーナ パン冷凍保存袋 一斤 2枚入り"
     brand: "マーナ"
@@ -204,6 +209,7 @@ products:
         available: true
         rating: 4.62
         reviewCount: 29
+    genreId: "101855"
   - rank: 7
     name: "ニッカルフレッシュ 鮮度保持袋"
     brand: "パワーサポート"
@@ -226,13 +232,14 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tasyn.3rdw62b8.g00tasyn.3rdw787a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpawasapo%2Fnf-100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpawasapo%2Fi%2F10001552%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pawasapo/cabinet/item/nf-100/250723/s1.jpg?_ex=128x128"
     priceMax: 1980
+    genreId: "401519"
   - rank: 8
     name: "アルミ保存袋 ジップ付き"
     brand: "SEALIFE MART"
     price: 574
     capacity: "10枚〜50枚（サイズ・枚数選択可）"
     rating: 4.78
-    reviewCount: 166
+    reviewCount: 168
     features:
       - "アルミ素材により防湿・遮光・防臭効果を発揮"
       - "マチ付き構造で自立可能な設計"
@@ -248,6 +255,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2sxn.3rdw6fcb.g00t2sxn.3rdw7915/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffishingkingdom%2Fqa100085%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffishingkingdom%2Fi%2F10001404%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fishingkingdom/cabinet/biiino/item/main-image-2/20240802145259_1.jpg?_ex=128x128"
     priceMax: 4128
+    genreId: "101843"
 tags:
   - "フリーザーバッグ"
   - "保存袋"

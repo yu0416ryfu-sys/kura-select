@@ -4,7 +4,7 @@ description: "排水口クリーナーを容量あたりのコストで比較。
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,7 @@ products:
     recommendedFor: "扱いやすいジェルボトルを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00upj3n.3rdw6ae7.g00upj3n.3rdw77a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffansfactory%2F4901301307453-3set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffansfactory%2Fi%2F10011038%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fansfactory/cabinet/images191/4901301307453-3set_1.jpg?_ex=128x128"
+    genreId: "565623"
   - rank: 2
     name: "パイプユニッシュ 排水口 パイプクリーナー"
     brand: "ジョンソン"
@@ -51,6 +52,7 @@ products:
     recommendedFor: "容量重視でパイプ洗浄剤を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t6mwn.3rdw690e.g00t6mwn.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famart-e%2F26100274-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famart-e%2Fi%2F10006631%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amart-e/cabinet/08990542/26100274-3.jpg?_ex=128x128"
+    genreId: "565623"
   - rank: 3
     name: "パイプユニッシュ PRO 凝縮パワージェル 本体"
     brand: "ジョンソン"
@@ -84,6 +86,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/atlife_101-4901609000926"
         available: true
+    genreId: "565623"
   - rank: 4
     name: "パイプユニッシュ PRO 凝縮パワージェル"
     brand: "ジョンソン"
@@ -117,6 +120,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nicobase_nico-4901609000926"
         available: true
+    genreId: "565623"
   - rank: 5
     name: "パイプユニッシュPRO"
     brand: "ジョンソン"
@@ -139,6 +143,7 @@ products:
     recommendedFor: "排水口クリーナーをまとめて備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q04pn.3rdw67f3.g00q04pn.3rdw7ea5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenetshop%2F4901609017283%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenetshop%2Fi%2F10058791%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/benetshop/cabinet/item_img/mm13/12876795/4901609017283.jpg?_ex=128x128"
+    genreId: "565623"
   - rank: 6
     name: "ピーピースルーF 600g×12本セット"
     brand: "和協産業"
@@ -161,6 +166,7 @@ products:
     recommendedFor: "業務用途や長期ストックを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quion.3rdw6e7d.g00quion.3rdw731c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F6019094%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosharecafe%2Fi%2F10031246%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/marsn/marsn_08/rank_6019094.jpg?_ex=128x128"
+    genreId: "565623"
   - rank: 7
     name: "ピーピースルーF 600g×2本セット"
     brand: "和協産業"
@@ -194,6 +200,7 @@ products:
         reviewCount: 308
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6038803"
         available: true
+    genreId: "565623"
   - rank: 8
     name: "ピーピースルーF 600g"
     brand: "和協産業"
@@ -227,6 +234,7 @@ products:
         reviewCount: 80
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10176772"
         available: true
+    genreId: "565623"
   - rank: 9
     name: "ピーピースルーF 業務用 排水管洗浄剤"
     brand: "和協産業"
@@ -260,6 +268,7 @@ products:
         reviewCount: 822
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6017917"
         available: true
+    genreId: "101839"
   - rank: 10
     name: "ミツエイ ハーバルスリー パイプクリーナー 1000mL"
     brand: "ミツエイ"
@@ -293,6 +302,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_9q0975"
         available: true
+    genreId: "565623"
 tags:
   - "排水口クリーナー おすすめ"
   - "パイプクリーナー コスパ"

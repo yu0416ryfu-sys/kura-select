@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,7 @@ products:
     recommendedFor: "夏のあいだ切らさずに使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rh2yn.3rdw6f5a.g00rh2yn.3rdw7514/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbp-shop%2F20240702%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbp-shop%2Fi%2F10030414%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bp-shop/cabinet/goq013/coolsheet_x10.gif?_ex=128x128"
+    genreId: "507854"
   - rank: 2
     name: "ハッピーデオ ボディシート 極冷 シャープミント"
     brand: "マンダム"
@@ -62,6 +63,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4902806127973"
         available: true
+    genreId: "507854"
   - rank: 3
     name: "シーブリーズ ボディシート せっけんの香り"
     brand: "資生堂（SEA BREEZE）"
@@ -95,6 +97,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4550516475473"
         available: true
+    genreId: "507854"
   - rank: 4
     name: "エージーデオ24 プレミアムデオドラント シャワーシート 無香性 30枚入"
     brand: "資生堂（Ag DEO24）"
@@ -128,6 +131,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/atata12121_deodorantshawarshirt-ag24-kosme-4550516493194-1"
         available: true
+    genreId: "507854"
   - rank: 5
     name: "キュレル スキンケアシート"
     brand: "花王（Curel）"
@@ -161,6 +165,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/zagzag_4901301396570-3"
         available: true
+    genreId: "507854"
   - rank: 6
     name: "ビオレ 冷シート 無香性"
     brand: "花王（ビオレ）"
@@ -194,6 +199,7 @@ products:
         reviewCount: 8
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301348418"
         available: true
+    genreId: "507854"
   - rank: 7
     name: "オーガニックコットン アロマ ボディシート フレッシュシトラス"
     brand: "NaturaMoon"
@@ -227,10 +233,11 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ecomarche_100003175"
         available: true
+    genreId: "507854"
   - rank: 8
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
-    price: 2236
+    price: 2237
     capacity: "30枚"
     pricePerUnit: "約75円/枚"
     rating: 4.81
@@ -260,6 +267,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902806135947"
         available: true
+    genreId: "507854"
   - rank: 9
     name: "リフレッシュボディシート"
     brand: "久光製薬"
@@ -293,6 +301,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188322109"
         available: true
+    genreId: "208212"
   - rank: 10
     name: "ビオレ さらさらパウダーシート 無香料"
     brand: "花王（ビオレ）"
@@ -326,6 +335,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_612-8545-103"
         available: true
     priceMax: 1500
+    genreId: "101882"
 tags:
   - "汗拭きシート おすすめ"
   - "ボディシート コスパ"

@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
@@ -39,6 +39,7 @@ products:
         reviewCount: 15
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901301745910-73-30000846"
         available: true
+    genreId: "564510"
   - rank: 2
     name: "ワイドハイター EXパワー 詰め替え 820ml×3セット"
     brand: "花王（ワイドハイター）"
@@ -61,6 +62,7 @@ products:
     recommendedFor: "毎日の洗濯に漂白剤を足したい方・色柄物を多く洗う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F569981%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11227244%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/981/569981.jpg?_ex=128x128"
+    genreId: "564510"
   - rank: 3
     name: "ブライトストロング 酸素系衣類用漂白剤 詰替 900ml×6セット"
     brand: "ライオン（ブライト）"
@@ -94,6 +96,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_574939"
         available: true
+    genreId: "564510"
   - rank: 4
     name: "ワイドハイター PRO 泡スプレー つけかえ用 300ml×3個"
     brand: "花王（ワイドハイター）"
@@ -127,6 +130,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_34562"
         available: true
+    genreId: "564510"
   - rank: 5
     name: "ワイドハイター PRO 抗菌リキッド 詰め替え 450ml×6袋"
     brand: "花王（ワイドハイター）"
@@ -134,7 +138,7 @@ products:
     capacity: "450ml×6袋（2700ml）"
     pricePerUnit: "約1.1円/ml"
     rating: 4.82
-    reviewCount: 233
+    reviewCount: 234
     features:
       - "抗菌成分を配合した液体タイプの酸素系漂白剤"
       - "部屋干し時の菌のケアを想定した処方"
@@ -160,6 +164,7 @@ products:
         reviewCount: 12
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7288392"
         available: true
+    genreId: "564510"
   - rank: 6
     name: "スマイルチョイス 衣料用ブリーチ 業務用 5kg"
     brand: "ミツエイ"
@@ -193,6 +198,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4978951060458"
         available: true
+    genreId: "564510"
   - rank: 7
     name: "オキシクリーン 計量スプーン付き 5.26kg"
     brand: "グラフィコ（オキシクリーン）"
@@ -200,7 +206,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.65円/g"
     rating: 4.64
-    reviewCount: 1432
+    reviewCount: 1433
     features:
       - "酸素系漂白剤の代名詞的ブランド"
       - "衣類・洗濯槽・キッチン・風呂と多用途"
@@ -226,6 +232,7 @@ products:
         reviewCount: 33
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_757037000915"
         available: true
+    genreId: "210182"
   - rank: 8
     name: "シャボン玉 酸素系漂白剤 750g×6袋"
     brand: "シャボン玉石けん"
@@ -248,6 +255,7 @@ products:
     recommendedFor: "無香料・無添加を重視する方・過炭酸ナトリウム単体で使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rl91n.3rdw6dd1.g00rl91n.3rdw7bbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiimonotokusen%2Fsyabondama-08%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiimonotokusen%2Fi%2F10000218%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iimonotokusen/cabinet/06423142/06423152/06667790/imgrc0077767503.jpg?_ex=128x128"
+    genreId: "216016"
   - rank: 9
     name: "ワイドハイター EXパワー 粉末タイプ 業務用 3.5kg"
     brand: "花王（ワイドハイター）"
@@ -281,6 +289,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ipstyle_12003"
         available: true
+    genreId: "564510"
   - rank: 10
     name: "パックス 酸素系漂白剤 詰替用 500g"
     brand: "太陽油脂（パックス）"
@@ -314,6 +323,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosmebox_j4904735053064f"
         available: true
     priceMax: 12150
+    genreId: "564510"
 tags:
   - "漂白剤"
   - "コスパ"

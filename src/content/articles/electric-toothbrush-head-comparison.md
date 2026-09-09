@@ -4,7 +4,7 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6l1n.3rdw6f6f.g00r6l1n.3rdw7918/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyhair%2Foral-b-8set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyhair%2Fi%2F10005265%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyhair/cabinet/mbimg/eb17-32m01.jpg?_ex=128x128"
+    genreId: "212559"
   - rank: 2
     name: "オーラルB互換ブラシ EB17 EB10"
     brand: "e-shop aoakua"
@@ -51,6 +52,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5rln.3rdw693c.g00s5rln.3rdw7066/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faoakua%2F10000252%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faoakua%2Fi%2F10000252%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aoakua/cabinet/06495854/imgrc0105402366.jpg?_ex=128x128"
+    genreId: "212559"
   - rank: 3
     name: "オーラルB互換 替えブラシ 16本セット"
     brand: "互換品（非純正）"
@@ -73,6 +75,7 @@ products:
     recommendedFor: "旧世代オーラルB使用中でコスパ重視の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ryj2n.3rdw6f59.g00ryj2n.3rdw7608/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbigtonya%2Fbraunset4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbigtonya%2Fi%2F10000447%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bigtonya/cabinet/b001/braunset016new.jpg?_ex=128x128"
+    genreId: "208522"
   - rank: 4
     name: "オーラルB マルチアクションブラシ EB50RX"
     brand: "Braun"
@@ -106,6 +109,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/distore_eb50rx-16"
         available: true
+    genreId: "208522"
   - rank: 5
     name: "ドルツ クリーン＆ホワイトブラシ 2本入"
     brand: "Panasonic"
@@ -139,14 +143,15 @@ products:
         available: true
         rating: 4.71
         reviewCount: 24
+    genreId: "208522"
   - rank: 6
     name: "オーラルB iO用 替えブラシ アルティメイトクリーン 6本セット"
     brand: "Braun Oral-B"
     price: 8338
     capacity: "6本"
     pricePerUnit: "約1390円/本"
-    rating: 4.59
-    reviewCount: 207
+    rating: 4.58
+    reviewCount: 209
     features:
       - "iOシリーズ（iO2〜iO9）専用設計"
       - "純正品のためiO本体の自動認識機能が正常動作"
@@ -172,6 +177,7 @@ products:
         available: true
         rating: 4.64
         reviewCount: 45
+    genreId: "208522"
   - rank: 7
     name: "オーラルB ラディアントホワイト iO専用"
     brand: "Braun"
@@ -205,6 +211,7 @@ products:
         available: true
         rating: 0
         reviewCount: 2
+    genreId: "212559"
   - rank: 8
     name: "ソニッケアー プレミアムクリーン 替えブラシ レギュラー 3本"
     brand: "Philips Sonicare"
@@ -238,6 +245,7 @@ products:
         available: true
         rating: 4.57
         reviewCount: 54
+    genreId: "212559"
   - rank: 9
     name: "ブラウン オーラルB 選べる各種 互換 替えブラシ EB17 EB18 EB20 E"
     brand: "ブラウン"
@@ -271,6 +279,7 @@ products:
         rating: 0
         reviewCount: 0
     priceMax: 1584
+    genreId: "212559"
   - rank: 10
     name: "ブラウン オーラルB 選べる各種 互換 替えブラシ 4本セット EB17 EB18 "
     brand: "ブラウン"
@@ -293,6 +302,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6l1n.3rdw6f6f.g00r6l1n.3rdw7918/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyhair%2Foral-b-co%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyhair%2Fi%2F10005065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyhair/cabinet/mbimg/burashi/oral-b-select-202509.jpg?_ex=128x128"
     priceMax: 649
+    genreId: "212559"
 tags:
   - "電動歯ブラシ替えブラシ おすすめ"
   - "電動歯ブラシ替えブラシ コスパ"

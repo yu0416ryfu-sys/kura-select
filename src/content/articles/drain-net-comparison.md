@@ -4,7 +4,7 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "301447"
   - rank: 2
     name: "水切りゴミ袋 浅型排水口用 ストッキングタイプ 100枚入 （ 水切りネット シンク"
     brand: "水切りゴミ袋"
@@ -73,6 +74,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "301447"
   - rank: 3
     name: "システムポリマー ゴム付 不織布 水切り袋 浅型排水口用 100枚 水きりネット 三"
     brand: "システムポリマー"
@@ -106,6 +108,7 @@ products:
         available: true
         rating: 0
         reviewCount: 2
+    genreId: "301447"
   - rank: 4
     name: "水切りネット 水切れ抜群 浅型 KS-05 100枚"
     brand: "びーんず"
@@ -139,6 +142,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "301447"
   - rank: 5
     name: "カウコレ ストッキング水切り袋 浅型"
     brand: "カウネット"
@@ -172,6 +176,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "301447"
   - rank: 6
     name: "水きりネット フィットネット 浅型・深型兼用 50枚入"
     brand: "びーんず"
@@ -194,6 +199,7 @@ products:
     recommendedFor: "浅型・深型どちらかわからない方・まず試してみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf4an.3rdw647e.g00qf4an.3rdw7c2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fra-beans%2F8300774%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fra-beans%2Fi%2F10015900%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/d2/8300774.jpg?_ex=128x128"
+    genreId: "301447"
   - rank: 7
     name: "水切りネット ごみとり物語 三角コーナー用 不織布 50枚入"
     brand: "びーんず"
@@ -227,6 +233,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "301447"
   - rank: 8
     name: "ストリックスデザイン 水切りネット 抗菌 ストッキング 水切り袋 100枚 約32×"
     brand: "ストリックスデザイン"
@@ -260,6 +267,7 @@ products:
         available: true
         rating: 4.31
         reviewCount: 13
+    genreId: "216012"
   - rank: 9
     name: "髪の毛トリトリ イージーネット 4枚×10袋（40枚）"
     brand: "ボンスター"
@@ -293,6 +301,7 @@ products:
         reviewCount: 80
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/la-kurasu_186930-10s"
         available: true
+    genreId: "565605"
   - rank: 10
     name: "ストッキング水切りネット 浅型 100枚"
     brand: "まるモール"
@@ -315,6 +324,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F14221%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10001327%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/kitchen/kitchen03/imgrc0112005200.jpg?_ex=128x128"
     priceMax: 4901
+    genreId: "301447"
 tags:
   - "排水口ネット おすすめ"
   - "水切りネット コスパ"

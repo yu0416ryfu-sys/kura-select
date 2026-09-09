@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 205
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/taorunomori_10001288"
         available: true
+    genreId: "100650"
   - rank: 2
     name: "バスマット タオル地 45×65cm"
     brand: "布団と寝具専門店 COLORS"
@@ -75,6 +76,7 @@ products:
         reviewCount: 438
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/futoncolors_a979"
         available: true
+    genreId: "100650"
   - rank: 3
     name: "今治タオル レオン バスマット"
     brand: "今治タオル"
@@ -108,6 +110,7 @@ products:
         reviewCount: 286
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/broome_0215-0212-0101"
         available: true
+    genreId: "100650"
   - rank: 4
     name: "乾度良好 Dナチュレ バスマット"
     brand: "乾度良好"
@@ -141,6 +144,7 @@ products:
         reviewCount: 302
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/m-rug_712421510"
         available: true
+    genreId: "100650"
   - rank: 5
     name: "soil バスマット ライト"
     brand: "soil"
@@ -174,6 +178,7 @@ products:
         available: true
         rating: 4.68
         reviewCount: 53
+    genreId: "100650"
   - rank: 6
     name: "soil バスマット ライト 珪藻土"
     brand: "soil（イスルギ）"
@@ -196,13 +201,14 @@ products:
     recommendedFor: "バスマットの洗濯回数を減らしたい方・脱衣所を清潔に保ちたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pmxdn.3rdw6b38.g00pmxdn.3rdw7247/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-goods%2Fbath_soil-bathmat-lt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-goods%2Fi%2F10009860%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-goods/cabinet/h_cart3/soil-bathmat-lt_th.jpg?_ex=128x128"
+    genreId: "100650"
   - rank: 7
     name: "バスマット マイクロファイバー"
     brand: "Inbloom"
     price: 980
     capacity: "40×60cm 1枚"
     rating: 4.36
-    reviewCount: 1037
+    reviewCount: 1038
     features:
       - "マイクロファイバーとポリエステル混合"
       - "抗菌・防臭加工で清潔さを保つ"
@@ -220,6 +226,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r9znn.3rdw6e57.g00r9znn.3rdw7ba2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgossipstar%2Fbm1187%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgossipstar%2Fi%2F10011710%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gossipstar/cabinet/pop/bm1187-pop.jpg?_ex=128x128"
     priceMax: 2380
+    genreId: "100650"
   - rank: 8
     name: "バスマット 速乾 洗える【1秒吸収】"
     brand: "Latuna"
@@ -244,6 +251,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnrsn.3rdw6089.g00tnrsn.3rdw78e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flatuna%2F10000010-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flatuna%2Fi%2F10000067%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/latuna/cabinet/items/bathmat/imgrc0161877803.jpg?_ex=128x128"
     priceMax: 4480
+    genreId: "100650"
   - rank: 9
     name: "なのらぼ足快バスマット"
     brand: "なのらぼ"
@@ -266,13 +274,14 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn4on.3rdw6e6d.g00qn4on.3rdw7c3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamayuu%2Fubs-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamayuu%2Fi%2F10001621%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamayuu/cabinet/01023319/bathgoods/10648094/ubs-1-thum01.jpg?_ex=128x128"
     priceMax: 29920
+    genreId: "100650"
   - rank: 10
     name: "Mirx プレミアムバスマット 珪藻土 吸水2.5倍"
     brand: "Mirx"
     price: 1770
     capacity: "60×40cm / 70×50cm"
     rating: 4.42
-    reviewCount: 2671
+    reviewCount: 2672
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"
@@ -291,6 +300,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u2t0n.3rdw6d5c.g00u2t0n.3rdw74d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneo-lifestyle%2Fbmt001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneo-lifestyle%2Fi%2F10000083%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-lifestyle/cabinet/zaka01/09054478/09779292/bmt001_bom.jpg?_ex=128x128"
     priceMax: 2980
+    genreId: "100650"
 tags:
   - "バスマット おすすめ"
   - "バスマット コスパ"

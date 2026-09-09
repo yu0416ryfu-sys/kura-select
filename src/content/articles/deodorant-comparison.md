@@ -4,7 +4,7 @@ description: "制汗剤・デオドラントを容量あたりのコストで比
 category: "deodorant"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "Ban 汗ブロックロールオン プレミアムゴールドラベル 40mL"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 0
         reviewCount: 2
+    genreId: "507856"
   - rank: 2
     name: "クデオ ジェルクリーム 30mL"
     brand: "クデオ"
@@ -72,6 +73,7 @@ products:
         available: true
         rating: 4.51
         reviewCount: 654
+    genreId: "304761"
   - rank: 3
     name: "クデオ ジェルクリーム ロールオン 30mL"
     brand: "クデオ"
@@ -105,6 +107,7 @@ products:
         available: true
         rating: 4.49
         reviewCount: 136
+    genreId: "507856"
   - rank: 4
     name: "パースピレックス コンフォート 20mL×2個 2個セット"
     brand: "Perspirex"
@@ -127,6 +130,7 @@ products:
     recommendedFor: "無香料のロールオン制汗剤をまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sx68n.3rdw6b00.g00sx68n.3rdw7236/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenbasket%2Fuk-perspirexcom20ml-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenbasket%2Fi%2F10000042%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/product_uk/ukproduct/perspirexnew/imgrc0098357565.jpg?_ex=128x128"
+    genreId: "507856"
   - rank: 5
     name: "パースピレックス オリジナル 20mL×2個 2個セット"
     brand: "Perspirex"
@@ -134,7 +138,7 @@ products:
     capacity: "20mL×2個"
     pricePerUnit: "約159円/mL"
     rating: 4.4
-    reviewCount: 501
+    reviewCount: 502
     features:
       - "オリジナルタイプのロールオン制汗デオドラント"
       - "無香料で汗とニオイのケアに使いやすい"
@@ -149,6 +153,7 @@ products:
     recommendedFor: "無香料の海外ロールオン制汗剤を継続したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sx68n.3rdw6b00.g00sx68n.3rdw7236/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenbasket%2Fuk-perspirexorg20ml-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenbasket%2Fi%2F10000046%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/product_uk/ukproduct/perspirexnew/imgrc0098357570.jpg?_ex=128x128"
+    genreId: "507856"
   - rank: 6
     name: "パースピレックス オリジナル ロールオン"
     brand: "Perspirex（パースピレックス）"
@@ -156,7 +161,7 @@ products:
     capacity: "20ml"
     pricePerUnit: "約167円/ml"
     rating: 4.14
-    reviewCount: 1677
+    reviewCount: 1678
     features:
       - "ロールオンタイプの制汗デオドラント"
       - "無香料タイプ"
@@ -171,6 +176,7 @@ products:
     recommendedFor: "汗やニオイ対策を重点的にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sx68n.3rdw6b00.g00sx68n.3rdw7236/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenbasket%2Fuk-perspirexorg20ml%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenbasket%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/product_uk/ukproduct/perspirexnew/imgrc0098357569.jpg?_ex=128x128"
+    genreId: "507856"
   - rank: 7
     name: "8x4 パウダースプレー 無香料 150g"
     brand: "花王（8×4）"
@@ -204,6 +210,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "507855"
   - rank: 8
     name: "エージーデオ24 パウダースプレー 無香料 180g"
     brand: "資生堂（Ag DEO 24）"
@@ -237,6 +244,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_7250013"
         available: true
+    genreId: "112779"
   - rank: 9
     name: "クリニーク フォー メン アンティ パースパイラント デオドラント ロールオン N 75mL"
     brand: "CLINIQUE"
@@ -270,6 +278,7 @@ products:
         rating: 4.5
         reviewCount: 4
     priceMax: 14850
+    genreId: "507856"
   - rank: 10
     name: "勉強堂 デオドラントクリーム 50g"
     brand: "勉強堂"
@@ -303,6 +312,7 @@ products:
         rating: 4.54
         reviewCount: 205
     priceMax: 3600
+    genreId: "507852"
 tags:
   - "制汗剤 おすすめ"
   - "デオドラント コスパ"

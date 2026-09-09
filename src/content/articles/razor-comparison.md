@@ -4,7 +4,7 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 8
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/life-aozora-shop_250929-005"
         available: true
+    genreId: "567540"
   - rank: 2
     name: "シック ハイドロ5 カスタム 本体+替刃16個セット"
     brand: "シック（Schick）"
@@ -73,6 +74,7 @@ products:
         reviewCount: 57
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/growrichjapan_4891228309626-1"
         available: true
+    genreId: "208532"
   - rank: 3
     name: "シック ハイドロ5 カスタム 替刃"
     brand: "シック（Schick）"
@@ -95,6 +97,7 @@ products:
     recommendedFor: "ハイドロ5を使っていて替刃をまとめて確保したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tx9an.3rdw653a.g00tx9an.3rdw78ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzuyaebisudo%2Fr-schick-hydr5-8p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuzuyaebisudo%2Fi%2F10000290%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suzuyaebisudo/cabinet/product/schick-hydr5/schick-hydr5-8p_01.jpg?_ex=128x128"
+    genreId: "567540"
   - rank: 4
     name: "マッハシンスリー ターボ 替刃 8コ入り"
     brand: "ジレット（Gillette）"
@@ -128,6 +131,7 @@ products:
         reviewCount: 12
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430688635"
         available: true
+    genreId: "216660"
   - rank: 5
     name: "プログライド マニュアル 替刃 8個"
     brand: "ジレット（Gillette）"
@@ -161,6 +165,7 @@ products:
         reviewCount: 39
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ramonu_230522-8002"
         available: true
+    genreId: "567540"
   - rank: 6
     name: "カミソリ CRA-3 Yマット袋 250本"
     brand: "湯屋の手土産"
@@ -194,6 +199,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_57020103-250"
         available: true
+    genreId: "567539"
   - rank: 7
     name: "カミソリ TD708 Yマット袋 16本セット"
     brand: "湯屋の手土産"
@@ -227,6 +233,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_57010103-16"
         available: true
+    genreId: "567539"
   - rank: 8
     name: "貝印 04370 ヤングT 6本入り カミソリ シェーバー"
     brand: "貝印"
@@ -260,6 +267,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "567539"
   - rank: 9
     name: "ジレット 髭剃り カミソリ カスタムプラス3 プレミアムスムース(3本入り)×3個 "
     brand: "ジレット"
@@ -282,6 +290,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhson.3rdw6ad0.g00qhson.3rdw7574/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperkid%2F4902430793063-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuperkid%2Fi%2F10017135%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/superkid/cabinet/biyou/imgrc0089091398.jpg?_ex=128x128"
+    genreId: "567539"
   - rank: 10
     name: "貝印カミソリ K-2 ひげそり用カミソリ ホルダー 本体＋替刃5コ付 (二枚刃 シェ"
     brand: "貝印カミソリ"
@@ -304,6 +313,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901331003301-009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12148065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic4900/4901331003301_1.jpg?_ex=128x128"
+    genreId: "567539"
 tags:
   - "T字カミソリ おすすめ"
   - "T字カミソリ コスパ"

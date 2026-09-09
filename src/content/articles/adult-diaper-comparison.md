@@ -4,7 +4,7 @@ description: "大人用紙おむつ・尿とりパッドのおすすめ10選を1
 category: "adult-diaper"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ひまわり にっこり緑茶パッド 2回吸収 300枚"
@@ -39,6 +39,7 @@ products:
         reviewCount: 94
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_10004173"
         available: true
+    genreId: "201540"
   - rank: 2
     name: "サルバ Rパッド"
     brand: "サルバ"
@@ -72,6 +73,7 @@ products:
         reviewCount: 65
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_g00181"
         available: true
+    genreId: "201540"
   - rank: 3
     name: "サルバ うす型安心 スーパーワイドパッド"
     brand: "サルバ"
@@ -105,6 +107,7 @@ products:
         reviewCount: 102
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_g00170"
         available: true
+    genreId: "201540"
   - rank: 4
     name: "サルバ やわ楽パンツ M 96枚"
     brand: "サルバ"
@@ -138,6 +141,7 @@ products:
         reviewCount: 80
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_5817"
         available: true
+    genreId: "402842"
   - rank: 5
     name: "アテント 夜用安心パッド 6回吸収 66枚"
     brand: "アテント"
@@ -160,6 +164,7 @@ products:
     recommendedFor: "夜間の漏れ対策を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pve3n.3rdw6e49.g00pve3n.3rdw72d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhimawari-kaigo%2F10005075%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhimawari-kaigo%2Fi%2F10005075%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/himawari-kaigo/cabinet/kami/g019453case-2024.jpg?_ex=128x128"
+    genreId: "201540"
   - rank: 6
     name: "サルバ フレーヌケア ナイトロング 30枚×3袋（90枚）"
     brand: "サルバ"
@@ -193,6 +198,7 @@ products:
         reviewCount: 15
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kintarou_4987603332188-3"
         available: true
+    genreId: "201540"
   - rank: 7
     name: "サルバ うす型やわ楽パンツ"
     brand: "サルバ"
@@ -226,6 +232,7 @@ products:
         reviewCount: 72
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_5819"
         available: true
+    genreId: "402842"
   - rank: 8
     name: "DFree リハビリ うすい型パンツ"
     brand: "DFree"
@@ -248,13 +255,14 @@ products:
     recommendedFor: "リハビリ中など動きやすさを重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u1shn.3rdw60bd.g00u1shn.3rdw72d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdfree%2Ftwj-sp300m-003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdfree%2Fi%2F10000010%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dfree/cabinet/08419397/pants_m4_01.jpg?_ex=128x128"
+    genreId: "402842"
   - rank: 9
     name: "リラパンツ 大人用紙おむつ パンツ 2回分 120枚"
     brand: "リラパンツ"
     price: 3899
     capacity: "120枚"
     rating: 4.74
-    reviewCount: 802
+    reviewCount: 803
     features:
       - "パンツタイプの大人用紙おむつ"
       - "一枚ずつ分けて持ち運べる個包装"
@@ -281,6 +289,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/komamono_xins-rps2t-m20-6"
         available: true
     priceMax: 9240
+    genreId: "402842"
   - rank: 10
     name: "フリーネ Pro 軽快パンツ"
     brand: "フリーネ"
@@ -303,6 +312,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fxy154%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10023923%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/020/main-xy154.jpg?_ex=128x128"
     priceMax: 10999
+    genreId: "402842"
 tags:
   - "大人用紙おむつ おすすめ"
   - "尿とりパッド コスパ"

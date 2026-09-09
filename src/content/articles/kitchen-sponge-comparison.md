@@ -4,7 +4,7 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ダスキン 台所用スポンジ 抗菌タイプ 6個セット"
@@ -39,6 +39,7 @@ products:
         reviewCount: 502
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dusdus_dssmn6"
         available: true
+    genreId: "401520"
   - rank: 2
     name: "ダスキン台所用スポンジ ハードタイプ モノトーン 6個セット"
     brand: "ダスキン"
@@ -68,7 +69,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約199円/個"
     rating: 4.76
-    reviewCount: 486
+    reviewCount: 487
     features:
       - "天然素材のセルロース＋綿で環境にやさしい"
       - "速乾性が高く雑菌が繁殖しにくい"
@@ -94,6 +95,7 @@ products:
         available: true
         rating: 4.33
         reviewCount: 9
+    genreId: "401520"
   - rank: 4
     name: "ダスキン 台所用スポンジ ハードタイプ ブラック 個包装 6個"
     brand: "ダスキン"
@@ -127,6 +129,7 @@ products:
         reviewCount: 737
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dusrara_140"
         available: true
+    genreId: "401520"
   - rank: 5
     name: "パックスナチュロン キッチンスポンジ"
     brand: "パックスナチュロン（PAX NATURON）"
@@ -160,6 +163,7 @@ products:
         reviewCount: 91
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/vape-land_jj220125-1056"
         available: true
+    genreId: "401520"
   - rank: 6
     name: "LA CORVETTE ベジタブルスポンジ 3個入り"
     brand: "LA CORVETTE"
@@ -193,6 +197,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "401520"
   - rank: 7
     name: "マーナ おさかなスポンジ 選べる5個セット"
     brand: "MARNA（マーナ）"
@@ -226,6 +231,7 @@ products:
         available: true
         rating: 4.65
         reviewCount: 20
+    genreId: "401520"
   - rank: 8
     name: "サンサンスポンジ 8個セット"
     brand: "ダイニチ"
@@ -233,7 +239,7 @@ products:
     capacity: "8個（4個×2組）"
     pricePerUnit: "約346円/個"
     rating: 4.81
-    reviewCount: 2575
+    reviewCount: 2580
     features:
       - "全9色から選べるモノトーン系カラー展開"
       - "長持ちしやすい設計の食器洗いスポンジ"
@@ -259,6 +265,7 @@ products:
         reviewCount: 267
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sunsunsponge_tss08b"
         available: true
+    genreId: "401520"
   - rank: 9
     name: "セルロース製 食器洗いスポンジ 6個パック SDGs プラスチックフリー"
     brand: "生活創造舎"
@@ -281,6 +288,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzban.3rdw6bb0.g00pzban.3rdw70cd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsozolife%2Fserulousu-2p-white%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsozolife%2Fi%2F10000102%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sozolife/cabinet/kitchen-sponge/imgrc0095339799.jpg?_ex=128x128"
     priceMax: 3200
+    genreId: "401520"
 tags:
   - "スポンジ"
   - "コスパ"

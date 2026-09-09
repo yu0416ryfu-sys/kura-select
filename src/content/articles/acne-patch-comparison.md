@@ -4,7 +4,7 @@ description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚�
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -41,6 +41,7 @@ products:
         rating: 4.29
         reviewCount: 418
         matchNotes: "capacity不一致: 商品名トークン不一致"
+    genreId: "564572"
   - rank: 2
     name: "VT PRO CICA クリアスポットパッチ 48枚×3個セット"
     brand: "VT Cosmetics"
@@ -63,6 +64,7 @@ products:
     recommendedFor: "VT PRO CICAを継続使用する予定の方・1枚あたりのコストを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzhmn.3rdw67dd.g00tzhmn.3rdw7f4c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiraclim%2F8809695674327_3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmiraclim%2Fi%2F10001936%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/miraclim/cabinet/cosme/vt/cica_spot_patch/8809695674327_3_.jpg?_ex=128x128"
+    genreId: "562084"
   - rank: 3
     name: "VT PRO CICA クリアスポットパッチ 48枚×5個セット"
     brand: "VT Cosmetics"
@@ -85,6 +87,7 @@ products:
     recommendedFor: "VT PRO CICAシリーズを日常使いとして長期継続する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzhmn.3rdw67dd.g00tzhmn.3rdw7f4c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiraclim%2F8809695674327_5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmiraclim%2Fi%2F10001937%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/miraclim/cabinet/cosme/vt/cica_spot_patch/8809695674327_5.jpg?_ex=128x128"
+    genreId: "562084"
   - rank: 4
     name: "VT PRO CICA クリアスポットパッチ 48枚×2個セット"
     brand: "VT Cosmetics"
@@ -107,6 +110,7 @@ products:
     recommendedFor: "VT PRO CICAシリーズをある程度試してから継続したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdqzn.3rdw68dd.g00tdqzn.3rdw7223/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskindesign%2Fvt-pro-cica-patch02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskindesign%2Fi%2F10001832%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/skindesign/cabinet/cosme/vt/cica_patch/vt-spotpt-new002.jpg?_ex=128x128"
+    genreId: "562084"
   - rank: 5
     name: "ゼロスポットパッチ 54枚"
     brand: "ゼロスポット"
@@ -140,6 +144,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4560461866660"
         available: true
+    genreId: "503020"
   - rank: 6
     name: "ゼロスポットパッチ 54枚×2袋セット"
     brand: "Today's Cosme"
@@ -162,6 +167,7 @@ products:
     recommendedFor: "ビタミン系成分配合タイプを試したい方・パッケージよりコスパを優先する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rsyun.3rdw6cbb.g00rsyun.3rdw739c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwberry%2Fpop-190328-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwberry%2Fi%2F10004458%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wberry/cabinet/03466372/03469001/07312173/zeropatch-01.jpg?_ex=128x128"
+    genreId: "562084"
   - rank: 7
     name: "アクネスラボ 集中ケアシート"
     brand: "ネイチャーラボ（アクネスラボ）"
@@ -195,6 +201,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4580173961293"
         available: true
+    genreId: "503020"
   - rank: 8
     name: "アクネスラボ 夜用ポイントパッチ"
     brand: "ネイチャーラボ（アクネスラボ）"
@@ -228,6 +235,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4580173961811"
         available: true
+    genreId: "112849"
   - rank: 9
     name: "VT CICA クリアスポットパッチ 48枚"
     brand: "VT Cosmetics"
@@ -261,13 +269,14 @@ products:
         available: true
         rating: 4.65
         reviewCount: 17
+    genreId: "562084"
   - rank: 10
     name: "VT PRO CICA クリアスポットパッチ 48枚"
     brand: "VT Cosmetics"
     price: 880
     capacity: "48枚"
     rating: 4.51
-    reviewCount: 1499
+    reviewCount: 1500
     features:
       - "硬質ハイドロゲルを使用したスポットパッチ"
       - "2サイズ（10mm・12mm）のパッチが1セットに入った構成"
@@ -283,6 +292,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdqzn.3rdw68dd.g00tdqzn.3rdw7223/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskindesign%2Fvt-pro-cica-patch%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskindesign%2Fi%2F10001694%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/skindesign/cabinet/cosme/vt/cica_patch/vt-spotpt-new00.jpg?_ex=128x128"
     priceMax: 3250
+    genreId: "562084"
 tags:
   - "ニキビパッチ おすすめ"
   - "ニキビパッチ コスパ"

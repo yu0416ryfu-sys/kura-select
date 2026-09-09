@@ -4,7 +4,7 @@ description: "ダブルのトイレットペーパーを1mあたりのコスト�
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "エシカル12RW ダブル 12ロール×8パック"
@@ -28,6 +28,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7hcn.3rdw6d10.g00r7hcn.3rdw7ef9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoming%2Fcolor-jun1kyuhinrolls-t%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoming%2Fi%2F10000149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/coming/cabinet/daiichimoji/imgrc0078843721.jpg?_ex=128x128"
+    genreId: "501098"
   - rank: 2
     name: "ハロー トイレットペーパー ダブル 2倍巻き"
     brand: "ハロー"
@@ -61,6 +62,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/stylem_aj4741mstyle284edf800d"
         available: true
+    genreId: "501098"
   - rank: 3
     name: "ブルーネット トイレットペーパー ダブル 27.5m×12ロール×8パック"
     brand: "カミングネット"
@@ -83,6 +85,7 @@ products:
     recommendedFor: "再生紙のダブルタイプをまとめ買いしたい方・家庭用のストックを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r90rn.3rdw6d63.g00r90rn.3rdw7ade/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwakuwaku-kobe%2F4972165012074%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwakuwaku-kobe%2Fi%2F10001689%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wakuwaku-kobe/cabinet/toipe_ippann/imgrc0095014555.jpg?_ex=128x128"
+    genreId: "501098"
   - rank: 4
     name: "スコッティ フラワーパック 3倍長持ち ダブル 4ロール×12袋"
     brand: "日本製紙クレシア（スコッティ）"
@@ -116,6 +119,7 @@ products:
         reviewCount: 7
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_ye3041"
         available: true
+    genreId: "501098"
   - rank: 5
     name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
     brand: "日本製紙クレシア（スコッティ）"
@@ -149,6 +153,7 @@ products:
         available: true
         rating: 4.77
         reviewCount: 135
+    genreId: "501098"
   - rank: 6
     name: "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール（4ロール×12パック）"
     brand: "スコッティ"
@@ -182,14 +187,15 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/me-belu_ds-2358010"
         available: true
+    genreId: "501098"
   - rank: 7
     name: "ネピア おしりセレブ ダブル 40m×4ロール"
     brand: "王子ネピア（ネピア）"
     price: 734
     capacity: "40m×4ロール"
     pricePerUnit: "約4.6円/m"
-    rating: 4.82
-    reviewCount: 17
+    rating: 4.83
+    reviewCount: 18
     features:
       - "トリートメント配合で肌に優しい"
       - "長めシート設計で少量でも十分"
@@ -215,6 +221,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_5647190"
         available: true
+    genreId: "501098"
   - rank: 8
     name: "（まとめ）日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり "
     brand: "スコッティ"
@@ -248,13 +255,14 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4901750227302"
         available: true
+    genreId: "501098"
   - rank: 9
     name: "スコッティ フラワーパック 3倍長持ち ダブル"
     brand: "日本製紙クレシア（スコッティ）"
     price: 3650
     capacity: "75m×4ロール×12パック（3倍巻き）"
     rating: 4.75
-    reviewCount: 949
+    reviewCount: 950
     features:
       - "3倍長持ち設計で交換頻度が大幅に減る"
       - "ダブルタイプで使い心地が良い"
@@ -280,7 +288,8 @@ products:
         available: true
         rating: 4.78
         reviewCount: 557
-    priceMax: 7458
+    priceMax: 6870
+    genreId: "501098"
 tags:
   - "トイレットペーパー"
   - "ダブル"

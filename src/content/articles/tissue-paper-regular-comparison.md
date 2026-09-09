@@ -4,7 +4,7 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 4990
     capacity: "400枚（200組）×60箱"
     pricePerUnit: "約0.42円/組"
-    rating: 4.76
-    reviewCount: 529
+    rating: 4.75
+    reviewCount: 530
     features:
       - "シンプルなホワイトパッケージの定番箱タイプ"
       - "200組のスタンダードな2枚重ね"
@@ -40,6 +40,7 @@ products:
         reviewCount: 36
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kyoto23_10001789"
         available: true
+    genreId: "100670"
   - rank: 2
     name: "スコッティ ティッシュ 200組 60箱セット"
     brand: "日本製紙クレシア（スコッティ）"
@@ -62,6 +63,7 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7162877%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077529%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7162877.jpg?_ex=128x128"
+    genreId: "100670"
   - rank: 3
     name: "スコッティ ティッシュ 200組 60箱"
     brand: "日本製紙クレシア（スコッティ）"
@@ -84,6 +86,7 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F13336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10024833%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/020/main-13336_t.jpg?_ex=128x128"
+    genreId: "100670"
   - rank: 4
     name: "スコッティ ティッシュペーパー 200組5箱×12パック"
     brand: "日本製紙クレシア（スコッティ）"
@@ -106,6 +109,7 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t7pwn.3rdw6abd.g00t7pwn.3rdw7773/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkamiyasan-store%2F10000001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkamiyasan-store%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kamiyasan-store/cabinet/06137907/imgrc0103044949.jpg?_ex=128x128"
+    genreId: "100670"
   - rank: 5
     name: "イットコティッシュ 150組 60箱"
     brand: "イトマン"
@@ -128,6 +132,7 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q242n.3rdw6f72.g00q242n.3rdw7b52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitoman%2Fittokotissu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fitoman%2Fi%2F10000374%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/itoman/cabinet/tissue/ittoco_20150001/20150001.jpg?_ex=128x128"
+    genreId: "100670"
   - rank: 6
     name: "スコッティ ティッシュペーパー フラワーボックス"
     brand: "日本製紙クレシア（スコッティ）"
@@ -161,6 +166,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lefutur_scottie500"
         available: true
+    genreId: "100670"
   - rank: 7
     name: "王子ネピア ネピネピ ティシュ 150組×5箱"
     brand: "ネピア"
@@ -183,14 +189,15 @@ products:
     recommendedFor: "少量ずつストックしたい一人暮らし・少人数世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901121182889-today202504%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12642906%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2024v/4901121182889.jpg?_ex=128x128"
+    genreId: "100670"
   - rank: 8
     name: "クリネックス ティシュー 180組 5箱×12パック（60箱）"
     brand: "日本製紙クレシア（クリネックス）"
     price: 6999
     capacity: "180組×5箱×12パック（60箱）"
     pricePerUnit: "約0.65円/組"
-    rating: 4.66
-    reviewCount: 141
+    rating: 4.65
+    reviewCount: 142
     features:
       - "世界的ブランド・クリネックスの定番品"
       - "厚みと柔らかさのバランスが優秀"
@@ -205,6 +212,7 @@ products:
     recommendedFor: "普段使いに定番の品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F29313%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10027769%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/021/main-29313t.jpg?_ex=128x128"
+    genreId: "100670"
   - rank: 9
     name: "業務用ティッシュ POPティシュ200W 60箱"
     brand: "OneStep"
@@ -227,6 +235,7 @@ products:
     recommendedFor: "オフィス・店舗・大量消費する世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00saddn.3rdw6ebe.g00saddn.3rdw7146/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaicom-pack%2F190942%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaicom-pack%2Fi%2F10023307%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaicom-pack/cabinet/adsum1/190942.jpg?_ex=128x128"
+    genreId: "100670"
   - rank: 10
     name: "スコッティ カシミヤ ティッシュペーパー"
     brand: "スコッティ（日本製紙クレシア）"
@@ -249,6 +258,7 @@ products:
     recommendedFor: "肌あたりを重視して普段使いのティッシュを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcsnn.3rdw6570.g00qcsnn.3rdw762b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyoto23%2F10000506%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyoto23%2Fi%2F10000506%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kyoto23/cabinet/img3/10000506.jpg?_ex=128x128"
+    genreId: "100670"
 tags:
   - "ティッシュペーパー"
   - "通常タイプ"

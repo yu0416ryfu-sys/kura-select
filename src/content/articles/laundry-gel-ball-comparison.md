@@ -4,7 +4,7 @@ description: "ジェルボール洗剤を1個あたりのコストで比較し�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -39,6 +39,7 @@ products:
         reviewCount: 7
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4987176194398"
         available: true
+    genreId: "210182"
   - rank: 2
     name: "ボールド 太陽のジェルボール4in1 Yoruのホワイトラベンダー＆ジャスミン 詰め替え 55個"
     brand: "P&G（ボールド）"
@@ -72,6 +73,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176292759"
         available: true
+    genreId: "210182"
   - rank: 3
     name: "アリエール ジェルボールプロ 部屋干し＆スポーツ 詰め替え"
     brand: "P&G（アリエール）"
@@ -105,6 +107,7 @@ products:
         reviewCount: 10
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_2620600"
         available: true
+    genreId: "210182"
   - rank: 4
     name: "アリエール ジェルボールプロ 部屋干し用 つめかえ用 超メガジャンボ 73個"
     brand: "P&G（アリエール）"
@@ -138,6 +141,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987176284556"
         available: true
     pricePerUnit: "約35円/個"
+    genreId: "210182"
   - rank: 5
     name: "ボールド ジェルボール4D 華やかおひさまとプレミアムブロッサム 詰め替え"
     brand: "P&G（ボールド）"
@@ -171,6 +175,7 @@ products:
         reviewCount: 7
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_2000000160665"
         available: true
+    genreId: "216031"
   - rank: 6
     name: "アリエール ジェルボールプロ まるごと洗浄消臭 本体"
     brand: "P&G（アリエール）"
@@ -204,14 +209,15 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176284648"
         available: true
+    genreId: "210182"
   - rank: 7
     name: "ボールド ジェルボール4in1 爽やかおひさまとフレッシュサボン 詰め替え"
     brand: "P&G（ボールド）"
     price: 3380
     capacity: "57個"
     pricePerUnit: "約59円/個"
-    rating: 4.86
-    reviewCount: 7
+    rating: 4.88
+    reviewCount: 8
     features:
       - "石けん系のフレッシュサボンの香り"
       - "柔軟剤入り4in1で洗濯を1工程にまとめられる"
@@ -237,6 +243,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987176292735"
         available: true
+    genreId: "210182"
   - rank: 8
     name: "アリエール ジェルボール 部屋干し＆スポーツ 詰め替え テラジャンボ"
     brand: "P&G（アリエール）"
@@ -270,6 +277,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mandmcorporation_4987176284518"
         available: true
     priceMax: 15480
+    genreId: "210182"
   - rank: 9
     name: "ボールド ジェルボール4in1 ホワイトティー＆フローラル 詰め替え 超テラジャンボ"
     brand: "P&G（ボールド）"
@@ -325,6 +333,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/worldglobal_20250727090631-01056"
         available: true
     priceMax: 10890
+    genreId: "210182"
 tags:
   - "ジェルボール 洗剤"
   - "ジェルボール おすすめ"

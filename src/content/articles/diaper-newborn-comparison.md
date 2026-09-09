@@ -4,7 +4,7 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ムーニー マシュマロ肌ごこち 新生児 テープ"
@@ -39,6 +39,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100639"
         available: true
+    genreId: "205198"
   - rank: 2
     name: "グーンプラス 敏感肌にやわらかタッチ テープ 新生児用 82枚"
     brand: "大王製紙（グーンプラス）"
@@ -105,6 +106,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100637"
         available: true
+    genreId: "205198"
   - rank: 4
     name: "メリーズ エアスルー テープ 新生児"
     brand: "花王（メリーズ）"
@@ -138,6 +140,7 @@ products:
         reviewCount: 17
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301437693x4"
         available: true
+    genreId: "205198"
   - rank: 5
     name: "ムーニー 低刺激であんしん 新生児 テープ 52枚×3個"
     brand: "ユニ・チャーム（ムーニー）"
@@ -171,6 +174,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/netbaby_4903111123247"
         available: true
+    genreId: "205198"
   - rank: 6
     name: "パンパース はじめての肌へのいちばん テープ 新生児"
     brand: "パンパース（P&G）"
@@ -193,6 +197,7 @@ products:
     recommendedFor: "新生児期の肌あたりを最優先したい方・出産準備を整えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4987176203229%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10018972%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/229/4987176203229.jpg?_ex=128x128"
+    genreId: "205198"
   - rank: 7
     name: "パンパース はじめての肌へのいちばん テープ新生児 144枚"
     brand: "P&G（パンパース）"
@@ -226,6 +231,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos02652"
         available: true
+    genreId: "205198"
   - rank: 8
     name: "パンパース はじめての肌へのいちばん テープ3S"
     brand: "P&G（パンパース）"
@@ -248,6 +254,7 @@ products:
     recommendedFor: "出生体重が小さめの赤ちゃんに備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sargn.3rdw6a7b.g00sargn.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyrepi-2%2F4987176238498-6r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmyrepi-2%2Fi%2F10176330%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/myrepi-2/cabinet/ichi06/4987176238498-6.jpg?_ex=128x128"
+    genreId: "205198"
   - rank: 9
     name: "バンボネイチャー ドリーム テープ/パンツ ニューボーン"
     brand: "BAMBO Nature"
@@ -270,6 +277,7 @@ products:
     recommendedFor: "素材感やプレミアム感を重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcnfn.3rdw6f9c.g00qcnfn.3rdw70c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu684137%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10037852%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/natural-living/cabinet/spr/1/1/118753296834.jpg?_ex=128x128"
+    genreId: "205198"
   - rank: 10
     name: "パンパース テープ新生児 144枚"
     brand: "P&G（パンパース）"
@@ -292,6 +300,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2Fck00015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000166%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/187811354738718.jpg?_ex=128x128"
     priceMax: 6050
+    genreId: "200821"
 tags:
   - "新生児 おむつ"
   - "紙おむつ コスパ"

@@ -4,7 +4,7 @@ description: "コスパいいヘアトリートメントを1g・1mLあたりで�
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "210695"
   - rank: 2
     name: "ダイアン パワートリートメントマスク 本体"
     brand: "ネイチャーラボ（ダイアン）"
@@ -72,6 +73,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4580632116943"
         available: true
+    genreId: "210695"
   - rank: 3
     name: "BC クア カラースペシフィック ヘアマスク 500g"
     brand: "シュワルツコフ"
@@ -94,6 +96,7 @@ products:
     recommendedFor: "カラーリングを繰り返す方・色持ちとダメージケアを両立したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qklvn.3rdw6cc2.g00qklvn.3rdw7141/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymura7200%2Fschwarzkopf-kur-clsphm500%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymura7200%2Fi%2F10009582%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymura7200/cabinet/schwrzkopf/schwarzkopf-spc8.jpg?_ex=128x128"
+    genreId: "210695"
   - rank: 4
     name: "LUXスーパーリッチシャイン ダメージリペア 洗い流すトリートメント ヘアマスク"
     brand: "ユニリーバ（LUX）"
@@ -116,6 +119,7 @@ products:
     recommendedFor: "毎日のケアとしてコスパよく続けたい方・香りを楽しみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prvmn.3rdw683e.g00prvmn.3rdw7a5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwich%2Fluxhairmaskset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwich%2Fi%2F10023186%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wich/cabinet/gazou62/luxhairmaskset-1.jpg?_ex=128x128"
+    genreId: "210695"
   - rank: 5
     name: "トリートメント フォンダン オレオ リラックス 200mL"
     brand: "ケラスターゼ"
@@ -123,7 +127,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約22円/mL"
     rating: 4.73
-    reviewCount: 1251
+    reviewCount: 1253
     features:
       - "くせ毛ケアのディシプリンラインのコンディショナータイプ"
       - "髪の広がりを抑えまとまりのある艶やかな仕上がりをもたらす処方"
@@ -149,6 +153,7 @@ products:
         available: true
         rating: 4.65
         reviewCount: 37
+    genreId: "210695"
   - rank: 6
     name: "スペシャルトリートメント マスク オレオ リラックス 200mL"
     brand: "ケラスターゼ"
@@ -171,13 +176,14 @@ products:
     recommendedFor: "くせ毛・広がりが悩みの方・湿気に負けないまとまり髪を目指す方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tnoan.3rdw67ba.g00tnoan.3rdw7286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fdp-masqor_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkerastase-varie%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kerastase-varie/cabinet/thumbna/dp-masqor_200/2.jpg?_ex=128x128"
+    genreId: "210695"
   - rank: 7
     name: "オルナオーガニック ヘアトリートメント 180g"
     brand: "ALLNA ORGANIC（イルミルド）"
     price: 2380
     capacity: "180g"
     rating: 4.66
-    reviewCount: 2267
+    reviewCount: 2268
     features:
       - "12種の植物成分を含む25種以上の植物由来成分配合"
       - "シルク・ココナッツオイル・アルガンオイルなどの保湿成分を配合"
@@ -193,6 +199,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b07gkxh2ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000959%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/905b07gkxh2ss-25.jpg?_ex=128x128"
     priceMax: 4760
+    genreId: "210695"
   - rank: 8
     name: "クイーンズバスルーム システムトリートメント Step1 Step2 各240g×2"
     brand: "クイーンズバスルーム"
@@ -215,6 +222,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qjlvn.3rdw6daa.g00qjlvn.3rdw7d36/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fque-bath%2F10000082%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fque-bath%2Fi%2F10000082%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/que-bath/cabinet/10259420/imgrc0089577437.jpg?_ex=128x128"
     priceMax: 13200
+    genreId: "210695"
   - rank: 9
     name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
     brand: "ファイントゥデイ（フィーノ）"
@@ -237,6 +245,7 @@ products:
     recommendedFor: "カラー・パーマのダメージを集中ケアしたい方・サロン品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F2873936011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10607476%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000343/2873936011.jpg?_ex=128x128"
+    genreId: "210716"
 tags:
   - "ヘアトリートメント おすすめ"
   - "ヘアマスク コスパ"

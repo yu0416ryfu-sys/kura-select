@@ -4,7 +4,7 @@ description: "シングルのトイレットペーパーを1mあたりの単価�
 category: "toilet-paper"
 publishedAt: "2024-11-01"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "コアユース 無包装 シングル 芯なし"
@@ -39,6 +39,7 @@ products:
         matchStatus: "matched"
         rating: 0
         reviewCount: 1
+    genreId: "501098"
   - rank: 2
     name: "ワンタッチ 再生紙 トイレットペーパー シングル 芯なし"
     brand: "ワンタッチ"
@@ -72,6 +73,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuasakamiten_c02295"
         available: true
+    genreId: "501098"
   - rank: 3
     name: "イットコ スリム シングル 芯なし"
     brand: "イトマン"
@@ -79,7 +81,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.65円/m"
     rating: 4.67
-    reviewCount: 2810
+    reviewCount: 2811
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
@@ -104,6 +106,7 @@ products:
         updatedAt: "2026-05-18"
         matchStatus: "review"
         matchNotes: "capacity不一致: capacity不一致"
+    genreId: "501098"
   - rank: 4
     name: "【最安値に挑戦中！】 トイレットペーパー シングル 業務用 ワンタッチ"
     brand: "コアレックス（CORELEX）"
@@ -137,6 +140,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ebarabo_ebr-ppr-core-p2009"
         available: true
+    genreId: "501098"
   - rank: 5
     name: "良い紙 業務用コアレス シングル"
     brand: "良い紙"
@@ -159,6 +163,7 @@ products:
     recommendedFor: "芯なし長巻きを家庭用にも備蓄用にも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00syqkn.3rdw6214.g00syqkn.3rdw7eef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frebirth-inc%2Fyoikami6r_150_108_s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frebirth-inc%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rebirth-inc/cabinet/single/yoikami150/s_yoikami_150_th.jpg?_ex=128x128"
+    genreId: "501098"
   - rank: 6
     name: "Comfy 芯なし トイレットペーパー シングル"
     brand: "イトマン"
@@ -191,6 +196,7 @@ products:
         updatedAt: "2026-05-18"
         matchStatus: "review"
         matchNotes: "capacity不一致: 商品名トークン不一致"
+    genreId: "501098"
   - rank: 7
     name: "トーヨ クリーンテックス シングル 個包装"
     brand: "トーヨ"
@@ -198,7 +204,7 @@ products:
     capacity: "110m×45ロール"
     pricePerUnit: "約0.80円/m"
     rating: 4.72
-    reviewCount: 1089
+    reviewCount: 1090
     features:
       - "国産のシングルトイレットペーパー"
       - "個包装で保管時の衛生面に配慮しやすい"
@@ -225,6 +231,7 @@ products:
         reviewCount: 0
         matchStatus: "review"
         matchNotes: "capacity不一致: capacity不一致"
+    genreId: "501098"
   - rank: 8
     name: "無漂白 トイレットペーパー シングル 無包装"
     brand: "牧製紙"
@@ -258,6 +265,7 @@ products:
         reviewCount: 26
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/maki-seishi_mori100ms60"
         available: true
+    genreId: "501098"
   - rank: 9
     name: "コアユース シングル 芯なし"
     brand: "コアユース"
@@ -291,6 +299,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
+    genreId: "501098"
   - rank: 10
     name: "スマートエール 消臭機能付き シングル 芯なし"
     brand: "アイリスプラザ"
@@ -313,6 +322,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7253225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10216050%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11514673/7253225.jpg?_ex=128x128"
     priceMax: 3780
+    genreId: "501098"
 tags:
   - "トイレットペーパー"
   - "シングル"

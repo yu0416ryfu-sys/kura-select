@@ -4,7 +4,7 @@ description: "消臭剤のおすすめ8選をコスパで徹底比較。リセ�
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ハルの消臭剤 消臭ビーズ 詰替用"
@@ -28,6 +28,7 @@ products:
     recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/beads/10000008_page01_01.jpg?_ex=128x128"
+    genreId: "401619"
   - rank: 2
     name: "ハルの消臭剤 消臭ビーズ 空容器セット"
     brand: "ハル・インダストリ"
@@ -35,7 +36,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1396円/kg"
     rating: 4.68
-    reviewCount: 1653
+    reviewCount: 1654
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -61,6 +62,7 @@ products:
         reviewCount: 457
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_bs02"
         available: true
+    genreId: "401619"
   - rank: 3
     name: "無香空間 本体 315g"
     brand: "小林製薬"
@@ -95,6 +97,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "401619"
   - rank: 4
     name: "消臭ビーズ 600g"
     brand: "ハル・インダストリ"
@@ -128,6 +131,7 @@ products:
         reviewCount: 26
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_hb15"
         available: true
+    genreId: "401619"
   - rank: 5
     name: "リセッシュ 除菌EX デオドラントパワー 香りが残らないタイプ 詰替 680mL"
     brand: "花王"
@@ -163,6 +167,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "401619"
   - rank: 6
     name: "ファブリーズ W除菌+消臭 詰め替え 1280ml×2セット"
     brand: "ファブリーズ(febreze) / P&G"
@@ -188,6 +193,7 @@ products:
     recommendedFor: "布製品・空間の消臭除菌を手軽にしたい方・ファブリーズユーザー"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598757%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321967%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/757/598757.jpg?_ex=128x128"
+    genreId: "568537"
   - rank: 7
     name: "リセッシュ除菌EX ワイドジェット ストロング つめかえ用 630mL"
     brand: "花王"
@@ -257,6 +263,7 @@ products:
         reviewCount: 56
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_hs01"
         available: true
+    genreId: "401619"
 tags:
   - "消臭剤 おすすめ"
   - "消臭剤 コスパ"

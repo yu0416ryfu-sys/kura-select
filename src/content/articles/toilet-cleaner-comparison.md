@@ -4,7 +4,7 @@ description: "トイレ用洗剤を1回あたりのコストで徹底比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ドメスト 除菌クリーナー 500ml×3個セット"
@@ -39,6 +39,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/minoku-value_1758927216-3-e"
         available: true
+    genreId: "216022"
   - rank: 2
     name: "除菌洗浄トイレハイター"
     brand: "ハイター"
@@ -72,6 +73,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301018755"
         available: true
+    genreId: "216022"
   - rank: 3
     name: "ルック まめピカ トイレクリーナー つめかえ用 190ml"
     brand: "ライオン（ルック）"
@@ -105,6 +107,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "216022"
   - rank: 4
     name: "ソネット ナチュラルトイレットクリーナー"
     brand: "SONETT（ソネット）"
@@ -138,6 +141,7 @@ products:
         available: true
         rating: 4.33
         reviewCount: 3
+    genreId: "216022"
   - rank: 5
     name: "エコストア トイレクリーナー ユーカリ 500mL"
     brand: "ecostore"
@@ -171,6 +175,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/zozo_47433692"
         available: true
+    genreId: "216022"
   - rank: 6
     name: "トイレットペーパーでちょいふき"
     brand: "小林製薬"
@@ -193,6 +198,7 @@ products:
     recommendedFor: "トイレ用洗剤を用途別に比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987072067178-008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12129144%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic49x/4987072067178_1.jpg?_ex=128x128"
+    genreId: "216022"
   - rank: 7
     name: "スクラビングバブル 超強力トイレクリーナー"
     brand: "スクラビングバブル（ジョンソン）"
@@ -226,6 +232,7 @@ products:
         reviewCount: 10
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_9615427011"
         available: true
+    genreId: "216022"
   - rank: 8
     name: "スクラビングバブル 超強力トイレクリーナー 10本セット"
     brand: "ジョンソン（スクラビングバブル）"
@@ -259,6 +266,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_542515"
         available: true
+    genreId: "216022"
   - rank: 9
     name: "キバミおちーる 尿石除去剤"
     brand: "キバミおちーる"
@@ -292,6 +300,7 @@ products:
         rating: 4.13
         reviewCount: 15
     priceMax: 4620
+    genreId: "216022"
 tags:
   - "トイレ用洗剤"
   - "コスパ"

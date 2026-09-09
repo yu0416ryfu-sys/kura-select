@@ -4,15 +4,15 @@ description: "ローション配合の保湿ティッシュを肌あたりとコ
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
     name: "エリエール プラスウォーター(+Water) ティシュー 5箱パック"
     brand: "大王製紙（エリエール）"
-    price: 651
+    price: 660
     capacity: "360枚（180組）×5箱"
-    pricePerUnit: "約0.72円/組"
+    pricePerUnit: "約0.73円/組"
     rating: 4.73
     reviewCount: 11
     features:
@@ -40,6 +40,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rcmdsp_kr-4902011711400"
         available: true
+    genreId: "100670"
   - rank: 2
     name: "ネピア 鼻セレブ 200組×20箱 まとめ買い"
     brand: "日本製紙クレシア（鼻セレブ）"
@@ -62,6 +63,7 @@ products:
     recommendedFor: "花粉症で消費が多い方・家族でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvoan.3rdw6634.g00tvoan.3rdw7deb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-relight%2F100-4901121636085cs%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-relight%2Fi%2F10001060%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-relight/cabinet/thum1/imgrc0084303832.jpg?_ex=128x128"
+    genreId: "100670"
   - rank: 3
     name: "ネピア 鼻セレブ 潤いつづく濃厚保湿ティッシュ 200組×3個"
     brand: "王子ネピア（鼻セレブ）"
@@ -84,6 +86,7 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901121636078%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10818648%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/078/4901121636078.jpg?_ex=128x128"
+    genreId: "100670"
   - rank: 4
     name: "ネピア 鼻セレブ 濃厚保湿ティッシュ アンパンマン"
     brand: "ネピア（nepia）"
@@ -117,6 +120,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/azzurro_10043328"
         available: true
+    genreId: "100670"
   - rank: 5
     name: "エリエール 贅沢保湿 ポケットティシュー 14組×4個パック"
     brand: "大王製紙（エリエール）"
@@ -150,6 +154,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhan-okusuri_1758946401-1-d"
         available: true
+    genreId: "505522"
   - rank: 6
     name: "鼻セレブ プレミアム ティッシュ 130組×10個"
     brand: "王子ネピア（鼻セレブ）"
@@ -172,6 +177,7 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw89n.3rdw62e9.g00tw89n.3rdw7e13/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeyroom-hida%2Fkeyroom-10000018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeyroom-hida%2Fi%2F10000018%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keyroom-hida/cabinet/11236817/imgrc0085650333.jpg?_ex=128x128"
+    genreId: "100670"
   - rank: 7
     name: "鼻セレブ プレミアム ティッシュ 130組 6個"
     brand: "日本製紙クレシア（鼻セレブ）"
@@ -194,6 +200,7 @@ products:
     recommendedFor: "肌当たりを最優先したい方・敏感肌の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw89n.3rdw62e9.g00tw89n.3rdw7e13/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeyroom-hida%2Fkeyroom-10000333%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeyroom-hida%2Fi%2F10000279%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keyroom-hida/cabinet/11236817/imgrc0085650332.jpg?_ex=128x128"
+    genreId: "100670"
   - rank: 8
     name: "ダイレイ プレミアムふんわか ローションティシュ 12個組"
     brand: "ダイレイ"
@@ -227,6 +234,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenkoo-life_101-30186"
         available: true
+    genreId: "216045"
   - rank: 9
     name: "鼻セレブティッシュ 3個パック"
     brand: "王子ネピア（鼻セレブ）"
@@ -249,6 +257,7 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901121636078%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10084864%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/56/4901121636078.jpg?_ex=128x128"
+    genreId: "100670"
   - rank: 10
     name: "ネピア 鼻セレブ ティッシュ 2個パック"
     brand: "王子ネピア（鼻セレブ）"
@@ -282,6 +291,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhanpark_888808"
         available: true
+    genreId: "100670"
 tags:
   - "保湿ティッシュ"
   - "花粉症"

@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に8製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-09-01"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,7 @@ products:
     recommendedFor: "焼き物に使いやすいスキレット風タイプを探す方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F7422941010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10373181%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000038/7422941010.jpg?_ex=128x128"
+    genreId: "215927"
   - rank: 2
     name: "アイリスオーヤマ ナチュかるフライパン IH対応 26cm"
     brand: "アイリスオーヤマ"
@@ -62,6 +63,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco3_ua39643"
         available: true
+    genreId: "215927"
   - rank: 3
     name: "サーモス セラプロテクト フライパン IH対応 26cm"
     brand: "サーモス"
@@ -95,6 +97,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4562344407038"
         available: true
+    genreId: "215927"
   - rank: 4
     name: "ティファール インジニオ・ネオ IHルージュ・アンリミテッド フライパン 26cm"
     brand: "ティファール"
@@ -128,6 +131,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_3168430321212"
         available: true
+    genreId: "215927"
   - rank: 5
     name: "CAST VARIUS 取っ手が外れるフライパン IH対応 26cm"
     brand: "CAST VARIUS"
@@ -150,6 +154,7 @@ products:
     recommendedFor: "省スペース収納やオーブン活用を考える方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2hqn.3rdw6518.g00r2hqn.3rdw7197/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finterior-palette%2F479702%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finterior-palette%2Fi%2F10184108%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/interior-palette/cabinet/maker_hokua1/479702ip.jpg?_ex=128x128"
+    genreId: "215927"
   - rank: 6
     name: "ティファール IHハードチタニウム・アンリミテッド フライパン 26cm"
     brand: "ティファール"
@@ -183,13 +188,14 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_3168430306424"
         available: true
+    genreId: "559247"
   - rank: 7
     name: "CAROTE フライパン 26cm IH対応"
     brand: "CAROTE"
     price: 1998
     capacity: "1個"
-    rating: 4.5
-    reviewCount: 318
+    rating: 4.49
+    reviewCount: 321
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -216,6 +222,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_wkj6918"
         available: true
     priceMax: 4180
+    genreId: "215927"
 tags:
   - "IH対応フライパン"
   - "フライパン 26cm"

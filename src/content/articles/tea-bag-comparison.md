@@ -4,7 +4,7 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,7 @@ products:
     recommendedFor: "香ばしい風味の麦茶を日常的に飲みたいコスパ重視の人向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q6srn.3rdw6528.g00q6srn.3rdw7513/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimu%2F891462%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimu%2Fi%2F10000182%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimu/cabinet/shokuhin/innryou/811483.jpg?_ex=128x128"
+    genreId: "100361"
   - rank: 2
     name: "伊藤園 香り薫るむぎ茶 ティーバッグ 54袋×10袋"
     brand: "伊藤園"
@@ -62,6 +63,7 @@ products:
         available: true
         rating: 4.71
         reviewCount: 7
+    genreId: "567645"
   - rank: 3
     name: "伊藤園 健康ミネラルむぎ茶 ティーバッグ"
     brand: "伊藤園"
@@ -95,14 +97,15 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/plusin_2002282-10"
         available: true
+    genreId: "100361"
   - rank: 4
     name: "はくばく 水出しでおいしい麦茶 ティーバッグ"
     brand: "はくばく"
     price: 1788
     capacity: "18袋×5個（90袋）"
     pricePerUnit: "約20円/袋"
-    rating: 4.8
-    reviewCount: 56
+    rating: 4.81
+    reviewCount: 57
     features:
       - "国産六条大麦100%使用"
       - "ノンカフェイン・水出し対応"
@@ -117,6 +120,7 @@ products:
     recommendedFor: "原材料にこだわりたい・水出し麦茶を手軽に楽しみたい人向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4gan.3rdw631b.g00s4gan.3rdw7c3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcheeky%2Fu508146%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcheeky%2Fi%2F10370771%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cheeky/cabinet/8001-8500/u508146.jpg?_ex=128x128"
+    genreId: "567645"
   - rank: 5
     name: "極深蒸し茶 どんぶかし ティーバッグ"
     brand: "平岡商店"
@@ -139,6 +143,7 @@ products:
     recommendedFor: "本格的な深蒸し緑茶を手軽なティーバッグで少量から試したい人向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qxp2n.3rdw627b.g00qxp2n.3rdw7e81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiraoka88%2Fdonbukashi_tb_3set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiraoka88%2Fi%2F10000269%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiraoka88/cabinet/campaign/12921542/imgrc0114498626.jpg?_ex=128x128"
+    genreId: "100361"
   - rank: 6
     name: "駿府玉川 爽茶 ティーバッグ"
     brand: "平岡商店"
@@ -161,6 +166,7 @@ products:
     recommendedFor: "本格緑茶ティーバッグを比較的手軽な価格帯で試したい人向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qxp2n.3rdw627b.g00qxp2n.3rdw7e81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiraoka88%2Fsou-tb3g12_3set_postmail%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiraoka88%2Fi%2F10000295%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiraoka88/cabinet/campaign/modify/imgrc0087368259.jpg?_ex=128x128"
+    genreId: "100361"
   - rank: 7
     name: "駿府玉川茶 極 ティーバッグ"
     brand: "平岡商店"
@@ -183,6 +189,7 @@ products:
     recommendedFor: "品質を重視した緑茶ティーバッグを手軽に楽しみたい人向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qxp2n.3rdw627b.g00qxp2n.3rdw7e81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiraoka88%2Fkwm-tb3g12_3set_postmail%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiraoka88%2Fi%2F10000293%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiraoka88/cabinet/campaign/modify/imgrc0087368257.jpg?_ex=128x128"
+    genreId: "100361"
   - rank: 8
     name: "十六爽健 麦茶 ティーバッグ 192g（8g×24袋）"
     brand: "竹田本社"
@@ -217,6 +224,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/a-life_t3ab-2274329"
         available: false
         matchNotes: "capacity不一致: capacity不一致"
+    genreId: "565603"
   - rank: 9
     name: "新潟県産 玄米茶 ティーバッグ"
     brand: "みずほの輝き"
@@ -239,6 +247,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ulxsn.3rdw6807.g00ulxsn.3rdw79a1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaka-store%2Fk4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaka-store%2Fi%2F10000168%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naka-store/cabinet/12752361/251012_b1_jo_food1a.jpg?_ex=128x128"
     priceMax: 2180
+    genreId: "100361"
   - rank: 10
     name: "国産はとむぎ茶"
     brand: "ティーライフ"
@@ -261,6 +270,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pufzn.3rdw677e.g00pufzn.3rdw7a38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftea-life%2F93366%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftea-life%2Fi%2F10006754%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tea-life/cabinet/drink/hatomugi/93366h_thumb02-2.jpg?_ex=128x128"
     priceMax: 11100
+    genreId: "100361"
 tags:
   - "麦茶 おすすめ"
   - "麦茶 コスパ"

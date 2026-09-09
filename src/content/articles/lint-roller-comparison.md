@@ -4,7 +4,7 @@ description: "粘着クリーナー（コロコロ）を1巻あたりのコス�
 category: "lint-roller"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "粘着クリーナー スペアテープ 粘着王 お得な3巻入"
@@ -28,6 +28,7 @@ products:
     recommendedFor: "汎用タイプの日本製スペアテープを手頃に購入したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4eyn.3rdw6ddc.g00s4eyn.3rdw7319/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiryushop%2Fkorokoro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiryushop%2Fi%2F10006942%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiryushop/cabinet/health3/korokoro-00.jpg?_ex=128x128"
+    genreId: "567230"
   - rank: 2
     name: "レック 激コロくん スゴ技ななめカット 70周 3巻入り"
     brand: "レック"
@@ -61,6 +62,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_b60033"
         available: true
+    genreId: "101839"
   - rank: 3
     name: "レック 激コロくん スゴ技ななめカット スジ塗り強粘 70周 3巻入り"
     brand: "レック（LEC）"
@@ -94,6 +96,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4903320592193"
         available: true
+    genreId: "567230"
   - rank: 4
     name: "3M スコッチ ブライト 衣類用粘着クリーナー ペタコロ用ス"
     brand: "3M（スコッチ・ブライト）"
@@ -116,6 +119,7 @@ products:
     recommendedFor: "花粉・ハウスダスト対策をしたい方・カーペット中心のお部屋の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tiz9n.3rdw6353.g00tiz9n.3rdw771a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprotoolshop%2F4547452231119%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprotoolshop%2Fi%2F10170127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/protoolshop/cabinet/119/4547452231119.jpg?_ex=128x128"
+    genreId: "567230"
   - rank: 5
     name: "アイム ミラクルくるsoujikko 粘着クリーナー"
     brand: "アイム"
@@ -138,6 +142,7 @@ products:
     recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0k0n.3rdw6b8e.g00u0k0n.3rdw7ca2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimximx%2F4978406020464-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimximx%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/imximx/cabinet/compass1739768026.jpg?_ex=128x128"
+    genreId: "567230"
   - rank: 6
     name: "ニトムズ コロコロ スペアテープ フロアクリン 3巻入り"
     brand: "ニトムズ"
@@ -171,6 +176,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "567230"
   - rank: 7
     name: "b2c カーペットクリーナー"
     brand: "sarasa design"
@@ -193,6 +199,7 @@ products:
     recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1osn.3rdw6db5.g00r1osn.3rdw76c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarasa-designstore%2Fcr001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarasa-designstore%2Fi%2F10000901%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sarasa-designstore/cabinet/c01/cr001-cr002.jpg?_ex=128x128"
+    genreId: "567230"
   - rank: 8
     name: "アイム ミラクルくる 替えテープ 抗菌加工"
     brand: "アイム"
@@ -215,6 +222,7 @@ products:
     recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0k0n.3rdw6b8e.g00u0k0n.3rdw7ca2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimximx%2F4978406022581-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimximx%2Fi%2F10000028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/imximx/cabinet/compass1726811766.jpg?_ex=128x128"
+    genreId: "567230"
   - rank: 9
     name: "LIFELEX 伸縮タイプ 粘着クリーナー"
     brand: "LIFELEX"
@@ -237,6 +245,7 @@ products:
     recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u7mtn.3rdw60c8.g00u7mtn.3rdw7b25/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhihirose%2F090102024522831996070%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhihirose%2Fi%2F10015591%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hihirose/cabinet/11747284/4522831996070_01.jpg?_ex=128x128"
+    genreId: "567230"
   - rank: 10
     name: "アイリスオーヤマ 粘着クリーナー スペアテープ 90巻入り"
     brand: "アイリスオーヤマ"
@@ -259,6 +268,7 @@ products:
     recommendedFor: "コスパ最優先の方・大容量のまとめ買い派の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F528254%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10018584%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/web06/e-net_299166.jpg?_ex=128x128"
+    genreId: "101839"
 tags:
   - "コロコロ おすすめ"
   - "粘着クリーナー コスパ"

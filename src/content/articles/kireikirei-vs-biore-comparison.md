@@ -3,7 +3,7 @@ title: "キレイキレイとビオレuどっちがいい？【2026年版】殺�
 description: "キレイキレイ（ライオン）とビオレu（花王）のハンドソープはどっちがいい？定番2ブランドの違いを、薬用殺菌成分の位置づけ・泡と液体の選択肢・1mLあたりの単価・肌あたりの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "hand-soap"
 publishedAt: "2026-08-31"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 articleType: "comparison"
 draft: false
 products:
@@ -40,6 +40,7 @@ products:
         reviewCount: 40
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/reonstyle_4901301243935"
         available: true
+    genreId: "204748"
   - rank: 2
     name: "キレイキレイ 薬用ハンドソープ 業務用 4L"
     brand: "ライオン（キレイキレイ）"
@@ -73,6 +74,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mkrj_4903301181613"
         available: true
+    genreId: "304758"
   - rank: 3
     name: "ビオレu 泡ハンドソープ つめかえ用 1500mL"
     brand: "花王（ビオレu）"
@@ -95,6 +97,7 @@ products:
     recommendedFor: "保管スペースを取らずにビオレuを使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901301446404%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11301123%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/404/4901301446404.jpg?_ex=128x128"
+    genreId: "304758"
   - rank: 4
     name: "キレイキレイ 薬用液体ハンドソープ 詰替用 800mL"
     brand: "ライオン（キレイキレイ）"
@@ -117,6 +120,7 @@ products:
     recommendedFor: "液体タイプのキレイキレイを普段使いのサイズで買いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4903301282228%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10880521%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/228/4903301282228.jpg?_ex=128x128"
+    genreId: "304758"
   - rank: 5
     name: "ビオレu 泡ハンドソープ 業務用 4L つめかえ用"
     brand: "花王（ビオレu）"
@@ -139,6 +143,7 @@ products:
     recommendedFor: "ビオレuの泡タイプを大容量で使い続けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvoan.3rdw6634.g00tvoan.3rdw7deb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-relight%2F002001-4901301416780blk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-relight%2Fi%2F10009787%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-relight/cabinet/thum1/imgrc0098651122.jpg?_ex=128x128"
+    genreId: "101833"
   - rank: 6
     name: "キレイキレイ 薬用泡ハンドソープ 詰替用"
     brand: "ライオン（キレイキレイ）"
@@ -161,6 +166,7 @@ products:
     recommendedFor: "薬用タイプの泡ハンドソープを長く使い続けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F90667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10986242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/667/90667.jpg?_ex=128x128"
+    genreId: "304758"
   - rank: 7
     name: "キレイキレイ 薬用泡ハンドソープ シトラスフルーティの香り つめかえ用 大型サイズ"
     brand: "ライオン（キレイキレイ）"
@@ -194,6 +200,7 @@ products:
         reviewCount: 127
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_9836705"
         available: true
+    genreId: "304758"
   - rank: 8
     name: "ビオレu 泡ハンドソープ つめかえ用 770mL"
     brand: "花王（ビオレu）"
@@ -216,6 +223,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301416001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10017913%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/sku/4901301416001-sku.jpg?_ex=128x128"
     priceMax: 550
+    genreId: "304758"
 tags:
   - "ハンドソープ"
   - "キレイキレイ"

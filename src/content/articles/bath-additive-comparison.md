@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バブ・�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "入浴剤 バラエティ詰め合わせ 100個セット"
@@ -28,6 +28,7 @@ products:
     recommendedFor: "いろいろな入浴剤を試したい方・ギフト用途にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ts2zn.3rdw659d.g00ts2zn.3rdw7108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuyanotemiyage%2F154136245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuyanotemiyage%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yuyanotemiyage/cabinet/12101333/12412971/2025_20_100_1.jpg?_ex=128x128"
+    genreId: "205761"
   - rank: 2
     name: "入浴剤 福袋 100個セット"
     brand: "YOU通販"
@@ -61,6 +62,7 @@ products:
         available: true
         rating: 4.72
         reviewCount: 116
+    genreId: "205761"
   - rank: 3
     name: "バスクリン きき湯 オリジナルギフトセット 24包"
     brand: "バスクリン"
@@ -83,6 +85,7 @@ products:
     recommendedFor: "最安値を求める方・温泉気分を楽しみたい方・疲労回復を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rs30n.3rdw6647.g00rs30n.3rdw71f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbigban%2Fkky-30b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbigban%2Fi%2F10000767%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bigban/cabinet/24s/24-0548-052m.jpg?_ex=128x128"
+    genreId: "205761"
   - rank: 4
     name: "ヒマラヤ岩塩バスソルト ピンクソルト 訳あり"
     brand: "アースコンシャス"
@@ -116,6 +119,7 @@ products:
         available: true
         rating: 4.64
         reviewCount: 11
+    genreId: "205761"
   - rank: 5
     name: "エプソムソルト 選べる香り 6個セット"
     brand: "BASSPA"
@@ -149,6 +153,7 @@ products:
         available: true
         rating: 4.5
         reviewCount: 4
+    genreId: "401163"
   - rank: 6
     name: "ミネラル鉱泉浴"
     brand: "SMC"
@@ -182,6 +187,7 @@ products:
         available: true
         rating: 5
         reviewCount: 3
+    genreId: "101838"
   - rank: 7
     name: "【1種類を選べる】きき湯 炭酸湯【きき湯】[炭酸入浴剤 薬用 温泉 風呂 温浴 "
     brand: "バスクリン（きき湯）"
@@ -204,13 +210,14 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11231979%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/199/405199.jpg?_ex=128x128"
     priceMax: 2282
+    genreId: "205761"
   - rank: 8
     name: "水素入浴剤 アッシュアンド"
     brand: "SUISOSUM"
     price: 2300
     capacity: "750g（30回分）"
     rating: 4.69
-    reviewCount: 7137
+    reviewCount: 7139
     features:
       - "高濃度水素とナノバブル技術で肌の奥まで浸透"
       - "重炭酸配合で塩素を除去しながら保湿"
@@ -237,6 +244,7 @@ products:
         rating: 4.63
         reviewCount: 195
     priceMax: 6300
+    genreId: "205761"
   - rank: 9
     name: "あまおういちご 入浴剤 26個セット"
     brand: "湯屋の手土産"
@@ -270,6 +278,7 @@ products:
         rating: 4.22
         reviewCount: 9
     priceMax: 13200
+    genreId: "205761"
   - rank: 10
     name: "木酢液 紀州備長炭 原液"
     brand: "紀州びお和歌山"
@@ -303,6 +312,7 @@ products:
         rating: 4.43
         reviewCount: 7
     priceMax: 2800
+    genreId: "214816"
 tags:
   - "入浴剤"
   - "コスパ"

@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "WEIMALL 不織布カラーマスク 立体3D 50枚"
@@ -28,6 +28,7 @@ products:
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tmjzn.3rdw6ae9.g00tmjzn.3rdw7078/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclassort%2Fbwm1yp50%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclassort%2Fi%2F10000150%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/classort/cabinet/shouhin-image/bwm1yp50.jpg?_ex=128x128"
+    genreId: "402788"
   - rank: 2
     name: "【50枚入×2箱セット】大王製紙 大王製紙 エリエール サー"
     brand: "大王製紙（エリエール）"
@@ -50,6 +51,7 @@ products:
     recommendedFor: "ウイルス・花粉対策を重視する方・高機能マスクを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00trvxn.3rdw692d.g00trvxn.3rdw77c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frunnrunn-shop%2Fdaiomask-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frunnrunn-shop%2Fi%2F10000121%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/runnrunn-shop/cabinet/10802269/imgrc0107306132.jpg?_ex=128x128"
+    genreId: "402788"
   - rank: 3
     name: "ユニ・チャーム 超快適マスク プリーツタイプ ふつうサイズ 50枚"
     brand: "ユニ・チャーム"
@@ -83,6 +85,7 @@ products:
         available: true
         rating: 4.71
         reviewCount: 35
+    genreId: "402788"
   - rank: 4
     name: "アイリスオーヤマ ナノエアーマスク ふつう 7枚×5個"
     brand: "アイリスオーヤマ"
@@ -116,13 +119,14 @@ products:
         reviewCount: 27
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akakabeshop_4967576481694"
         available: true
+    genreId: "402788"
   - rank: 5
     name: "立体不織布マスク バイカラー 50枚"
     brand: "ashop"
     price: 264
     capacity: "50枚"
-    rating: 4.19
-    reviewCount: 22179
+    rating: 4.2
+    reviewCount: 22181
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -138,6 +142,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rgdwn.3rdw6bcc.g00rgdwn.3rdw740b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fweiwei%2Fbwm8yp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fweiwei%2Fi%2F10022881%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/weiwei/cabinet/shouhin-image03/bwm8cr.jpg?_ex=128x128"
     priceMax: 698
+    genreId: "402788"
   - rank: 6
     name: "WEIMALL 子供用立体マスク"
     brand: "WEIMALL"
@@ -170,13 +175,14 @@ products:
         available: false
         matchNotes: "capacity不一致: 商品名トークン不一致"
     priceMax: 450
+    genreId: "506394"
   - rank: 7
     name: "子供用 3D不織布マスク 51枚"
     brand: "MTKSHOP"
     price: 298
     capacity: "51枚"
     rating: 4.22
-    reviewCount: 5774
+    reviewCount: 5775
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -192,13 +198,14 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sa33n.3rdw66a9.g00sa33n.3rdw7255/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcicib%2Fmskbhxh50%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcicib%2Fi%2F10002044%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cicib/cabinet/08727032/top3-.jpg?_ex=128x128"
     priceMax: 790
+    genreId: "506394"
   - rank: 8
     name: "接触冷感 3D不織布マスク"
     brand: "alice-zk"
     price: 328
     capacity: "20枚"
     rating: 4.06
-    reviewCount: 9221
+    reviewCount: 9222
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -225,6 +232,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/maskmore_mm3dice020-"
         available: true
     priceMax: 498
+    genreId: "402788"
   - rank: 9
     name: "ST快適立体マスク"
     brand: "ST-TRADE"
@@ -258,6 +266,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/life-ife-reborn_mask120kfst"
         available: true
     priceMax: 2580
+    genreId: "402788"
 tags:
   - "使い捨てマスク おすすめ"
   - "不織布マスク コスパ"

@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ10選を1枚あた
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,7 @@ products:
     recommendedFor: "とにかく単価を抑えたい方・大量に常備したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.3rdw6eed.g00s0vmn.3rdw7144/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4562378460849%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10027893%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/newthumbnail/4562378460849_00.jpg?_ex=128x128"
+    genreId: "568428"
   - rank: 2
     name: "ニチバン ケアリーヴ 素肌タイプ Mサイズ 100枚"
     brand: "ニチバン（ケアリーヴ）"
@@ -62,6 +63,7 @@ products:
         reviewCount: 98
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10092408"
         available: true
+    genreId: "402796"
   - rank: 3
     name: "ニッコリバン絆創膏 2サイズ入り"
     brand: "ニッコリバン"
@@ -95,6 +97,7 @@ products:
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mirful_10000890"
         available: true
+    genreId: "101830"
   - rank: 4
     name: "サンリオキャラクターズ 絆創膏 18枚"
     brand: "Littleleaf（リトルリーフ）"
@@ -128,6 +131,7 @@ products:
         reviewCount: 25
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aprox_cha-bansoko"
         available: true
+    genreId: "568428"
   - rank: 5
     name: "白十字 ファミリーケア ワンタッチパット Mサイズ 22枚"
     brand: "白十字（ファミリーケア）"
@@ -161,6 +165,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4987603464520"
         available: true
+    genreId: "204748"
   - rank: 6
     name: "キズパワーパッド ふつうサイズ 10枚入×2コセット"
     brand: "バンドエイド（BAND-AID）"
@@ -194,6 +199,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901730240017"
         available: true
+    genreId: "568428"
   - rank: 7
     name: "キズパワーパッド スポットタイプ 10枚入×2コセット"
     brand: "バンドエイド（BAND-AID）"
@@ -216,6 +222,7 @@ products:
     recommendedFor: "指先など小さめのキズを防水でケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F22192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10674573%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/192/22192.jpg?_ex=128x128"
+    genreId: "568428"
   - rank: 8
     name: "キズパワーパッド 水仕事用 10枚入×2コセット"
     brand: "バンドエイド（BAND-AID）"
@@ -249,6 +256,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_re45827"
         available: true
+    genreId: "568428"
   - rank: 9
     name: "バンドエイド キズパワーパッド ふつうサイズ 10枚"
     brand: "バンドエイド（BAND-AID）"
@@ -282,6 +290,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhan-okusuri_1758907765-6-d"
         available: true
+    genreId: "568428"
   - rank: 10
     name: "キズパワーパッド 大きめサイズ 12枚"
     brand: "バンドエイド（BAND-AID）"
@@ -315,6 +324,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop-ni_34901730077002"
         available: true
+    genreId: "568428"
 tags:
   - "絆創膏 おすすめ"
   - "絆創膏 コスパ"

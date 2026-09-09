@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -39,6 +39,7 @@ products:
         reviewCount: 56
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901730160476"
         available: true
+    genreId: "208265"
   - rank: 2
     name: "リステリン トータルケアプラス クリーンミント"
     brand: "LISTERINE（リステリン）"
@@ -72,6 +73,7 @@ products:
         reviewCount: 32
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_70697"
         available: true
+    genreId: "208265"
   - rank: 3
     name: "薬用リステリン トータルケアゼロプラス ノンアルコール 1000mL×6本"
     brand: "ジョンソン・エンド・ジョンソン（リステリン）"
@@ -106,6 +108,7 @@ products:
         rating: 5
         reviewCount: 5
         matchNotes: "capacity不一致: capacity不一致"
+    genreId: "208265"
   - rank: 4
     name: "モンダミン プレミアムケア ゴールドミント"
     brand: "アース製薬（モンダミン）"
@@ -139,6 +142,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901080248619"
         available: true
+    genreId: "208265"
   - rank: 5
     name: "GUM デンタルリンス ナイトケア 900mL"
     brand: "サンスター（GUM）"
@@ -172,6 +176,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "208265"
   - rank: 6
     name: "システマ EX デンタルリンス"
     brand: "ライオン（システマ）"
@@ -205,6 +210,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7267910f"
         available: true
+    genreId: "208265"
   - rank: 7
     name: "プロフレッシュ 口臭ケア マウスウォッシュ"
     brand: "PROFRESH（プロフレッシュ）"
@@ -227,6 +233,7 @@ products:
     recommendedFor: "口臭が強く気になる方・無香料マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pz2wn.3rdw6ac8.g00pz2wn.3rdw7cbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falpha-net%2F020-prf-0013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falpha-net%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/alpha-net/cabinet/profresh/imgrc0134851319.jpg?_ex=128x128"
+    genreId: "208265"
   - rank: 8
     name: "ドクターウォッシュ デンタル露ウォッシュ"
     brand: "ビーラッシュストア"
@@ -260,6 +267,7 @@ products:
         available: true
         rating: 4.57
         reviewCount: 7
+    genreId: "208265"
   - rank: 9
     name: "コンクールF 100mL"
     brand: "ウエルテック（コンクール）"
@@ -281,7 +289,7 @@ products:
       - "薄める手間がある"
     recommendedFor: "歯科医推奨品を求める方・歯周病予防を重視する方・長く使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fdf2819%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10012094%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0906_p5/kirikae2/df2819_1450ppm.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0908_p5400/kirikae2/df2819_1450ppm.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -293,13 +301,14 @@ products:
         available: true
         rating: 4.78
         reviewCount: 1428
+    genreId: "208265"
   - rank: 10
     name: "フィス ホワイト 薬用マウスウォッシュ 300mL"
     brand: "WHITH WHITE（フィスホワイト）"
     price: 2580
     capacity: "300mL"
     rating: 4.6
-    reviewCount: 2870
+    reviewCount: 2872
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"
@@ -326,6 +335,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bluecastle_nitiyou-102"
         available: true
     priceMax: 7740
+    genreId: "208265"
 tags:
   - "マウスウォッシュ"
   - "コスパ"

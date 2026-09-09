@@ -4,7 +4,7 @@ description: "キッチン用漂白剤を1mLあたりのコストで徹底比較
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-09-02"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 4.69
         reviewCount: 127
+    genreId: "216016"
   - rank: 2
     name: "ライオン キッチンパワーブリーチ 業務用 5kg"
     brand: "ライオン"
@@ -72,6 +73,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "216016"
   - rank: 3
     name: "オキシクリーン マルチパーパスクリーナー 5.26kg"
     brand: "グラフィコ（OxiClean）"
@@ -79,7 +81,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.65円/g"
     rating: 4.64
-    reviewCount: 1432
+    reviewCount: 1433
     features:
       - "酸素系漂白剤で幅広い用途に対応"
       - "界面活性剤配合でキッチン汚れにも効果的"
@@ -105,6 +107,7 @@ products:
         reviewCount: 161
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/butterflyeffectllc_46"
         available: true
+    genreId: "210182"
   - rank: 4
     name: "シャボン玉 酸素系漂白剤 750g"
     brand: "シャボン玉石けん"
@@ -138,6 +141,7 @@ products:
         reviewCount: 17
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/withemx_65-5"
         available: true
+    genreId: "210182"
   - rank: 5
     name: "シャボン玉 酸素系漂白剤 ケース販売"
     brand: "シャボン玉石けん"
@@ -160,6 +164,7 @@ products:
     recommendedFor: "酸素系漂白剤を常用していてストックをまとめたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901797100019_018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10017091%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/vic201810/4901797100019.jpg?_ex=128x128"
+    genreId: "210182"
   - rank: 6
     name: "丹羽久 niwaQ キッチン漂白剤 ボトル 300g"
     brand: "丹羽久"
@@ -191,6 +196,7 @@ products:
         price: 927
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rokusyoudo_2022yr12mt18daywq069ic073s83h3f"
         available: true
+    genreId: "216016"
   - rank: 7
     name: "キッチンハイター 特大 2本セット"
     brand: "花王（ハイター）"
@@ -224,6 +230,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_508035"
         available: true
+    genreId: "216016"
   - rank: 8
     name: "キッチンハイター 特大"
     brand: "花王（ハイター）"
@@ -257,6 +264,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901301008619-73-30002004"
         available: true
+    genreId: "216016"
   - rank: 9
     name: "キッチンハイター 大ボトル"
     brand: "花王（ハイター）"
@@ -279,6 +287,7 @@ products:
     recommendedFor: "日常的にキッチン除菌を行う方・コスパと扱いやすさを両立したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001256000921%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10122674%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/370/4901301019370.jpg?_ex=128x128"
+    genreId: "216016"
   - rank: 10
     name: "キッチンハイター 小 600mL"
     brand: "花王（ハイター）"
@@ -312,6 +321,7 @@ products:
         reviewCount: 13
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_0603201"
         available: true
+    genreId: "216016"
 tags:
   - "キッチン漂白剤 おすすめ"
   - "キッチンハイター コスパ"

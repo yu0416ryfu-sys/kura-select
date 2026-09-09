@@ -4,7 +4,7 @@ description: "洗濯槽クリーナーを1回あたりのコストで徹底比�
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "過炭酸ナトリウム 酸素系漂白剤 950g"
@@ -13,7 +13,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.63円/g"
     rating: 4.77
-    reviewCount: 2085
+    reviewCount: 2086
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "pH10.5のアルカリ性で汚れに働きかける"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 4.56
         reviewCount: 2063
+    genreId: "564510"
   - rank: 2
     name: "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.26kg！★【"
     brand: "グラフィコ（オキシクリーン）"
@@ -46,7 +47,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.65円/g"
     rating: 4.64
-    reviewCount: 1432
+    reviewCount: 1433
     features:
       - "酸素系漂白剤で洗濯槽以外にも多用途"
       - "界面活性剤入りで洗浄力を強化（日本版）"
@@ -61,6 +62,7 @@ products:
     recommendedFor: "コスパ最優先の方・多用途に使いたい方・縦型洗濯機の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F309892sm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0079732773.jpg?_ex=128x128"
+    genreId: "210182"
   - rank: 3
     name: "洗たく槽カビキラー 塩素系液体タイプ 550g×3本"
     brand: "ジョンソン（カビキラー）"
@@ -83,6 +85,7 @@ products:
     recommendedFor: "手軽にカビ対策したい方・塩素系の強力洗浄を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uppgn.3rdw6472.g00uppgn.3rdw7292/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsootune%2Fhinofce19ab2db%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsootune%2Fi%2F10009173%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sootune/cabinet/onesell128/hinofce19ab2db_0.jpg?_ex=128x128"
+    genreId: "101172"
   - rank: 4
     name: "シャボン玉石けん 洗たく槽クリーナー 500g"
     brand: "シャボン玉石けん"
@@ -116,6 +119,7 @@ products:
         available: true
         rating: 4.7
         reviewCount: 47
+    genreId: "568344"
   - rank: 5
     name: "シャボン玉石けん 洗たく槽クリーナー 500g×2個"
     brand: "シャボン玉石けん"
@@ -138,6 +142,7 @@ products:
     recommendedFor: "無添加処方で2回分ストックしておきたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbcon.3rdw6193.g00rbcon.3rdw7b41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikaiteki-shop%2F10001449%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikaiteki-shop%2Fi%2F10010471%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikaiteki-shop/cabinet/imgrc0091507900.jpg?_ex=128x128"
+    genreId: "568344"
   - rank: 6
     name: "エスケー石鹸 すっきり洗濯槽クリーナー 3箱"
     brand: "エスケー石鹸"
@@ -160,6 +165,7 @@ products:
     recommendedFor: "赤ちゃんの衣類を洗う方・環境配慮派・汚れを目で確認したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rl91n.3rdw6dd1.g00rl91n.3rdw7bbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiimonotokusen%2Fesuke-03%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiimonotokusen%2Fi%2F10000090%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iimonotokusen/cabinet/06423142/06423152/06667656/imgrc0077767095.jpg?_ex=128x128"
+    genreId: "216834"
   - rank: 7
     name: "WASHMANIA 洗濯槽クリーナー 3個セット"
     brand: "四国化成（WASHMANIA）"
@@ -167,7 +173,7 @@ products:
     capacity: "200g×3個（3回分）"
     pricePerUnit: "約4.2円/g"
     rating: 4.64
-    reviewCount: 778
+    reviewCount: 780
     features:
       - "酵素と塩素系成分を組み合わせたクリーナー"
       - "縦型・ドラム式両対応の設計"
@@ -182,6 +188,7 @@ products:
     recommendedFor: "縦型・ドラム式どちらにも使える汎用品を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u9stn.3rdw63e2.g00u9stn.3rdw7c29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshikokukasei%2Fwadhmania02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshikokukasei%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shikokukasei/cabinet/pr/10955476/2609_rss_3.jpg?_ex=128x128"
+    genreId: "101837"
   - rank: 8
     name: "洗濯槽快 10個セット 専用ネット付 ホタテ貝殻素材"
     brand: "くらし快適ショップ"
@@ -215,6 +222,7 @@ products:
         reviewCount: 34
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurashikaiteki-pro_10000168"
         available: true
+    genreId: "568344"
   - rank: 9
     name: "洗濯槽快 2個入 ホタテ貝殻素材"
     brand: "くらし快適ショップ"
@@ -248,6 +256,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "568344"
   - rank: 10
     name: "パナソニック 洗濯槽クリーナー 縦型用 N-W1A"
     brand: "パナソニック（Panasonic）"
@@ -270,6 +279,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rknln.3rdw6a32.g00rknln.3rdw70a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdentendo%2Fva60200108%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdentendo%2Fi%2F10026801%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dentendo/cabinet/08/va60200108_1.jpg?_ex=128x128"
     priceMax: 5999
+    genreId: "568344"
 tags:
   - "洗濯槽クリーナー"
   - "コスパ"

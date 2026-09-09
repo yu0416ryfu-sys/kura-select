@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 1040
     capacity: "40本"
     pricePerUnit: "約26円/本"
-    rating: 4.69
-    reviewCount: 643
+    rating: 4.68
+    reviewCount: 644
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -40,6 +40,7 @@ products:
         reviewCount: 154
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tabemore_lr6n-03ns4"
         available: true
+    genreId: "212634"
   - rank: 2
     name: "富士通 アルカリ乾電池 プレミアムS 単3形 16本"
     brand: "富士通（FDK）"
@@ -62,6 +63,7 @@ products:
     recommendedFor: "富士通ブランドの電池を愛用している方・高品質アルカリを16本まとめて購入したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sjs2n.3rdw66d7.g00sjs2n.3rdw7ac9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fb-surprise2%2F4976680250058%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fb-surprise2%2Fi%2F10123347%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/b-surprise2/cabinet/cm102/4976680250058.jpg?_ex=128x128"
+    genreId: "212634"
   - rank: 3
     name: "パナソニック アルカリ乾電池 10年保存 20本セット"
     brand: "Panasonic"
@@ -95,6 +97,7 @@ products:
         available: true
         rating: 4.51
         reviewCount: 3523
+    genreId: "212634"
   - rank: 4
     name: "Panasonic アルカリ乾電池 単3形 20本パック"
     brand: "Panasonic"
@@ -128,6 +131,7 @@ products:
         reviewCount: 13
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4984824889071"
         available: true
+    genreId: "212634"
   - rank: 5
     name: "Panasonic エボルタNEO 乾電池 単3形 16本"
     brand: "Panasonic（エボルタNEO）"
@@ -161,6 +165,7 @@ products:
         available: true
         rating: 4.84
         reviewCount: 43
+    genreId: "212634"
   - rank: 6
     name: "エネボルト 充電池 単3 単4 セット 16本 ケース付 充電 電池 充電電池 充電"
     brand: "楽天市場"
@@ -194,6 +199,7 @@ products:
         available: true
         rating: 4.46
         reviewCount: 2185
+    genreId: "566792"
   - rank: 7
     name: "充電池 単3 単4 16本 セット エネボルト 電池 2150mAh 950mAh "
     brand: "充電池"
@@ -227,6 +233,7 @@ products:
         available: true
         rating: 4.46
         reviewCount: 2185
+    genreId: "566792"
   - rank: 8
     name: "単3電池 8本セット 繰り返し使う 充電池約1000回繰り返し使える enelong"
     brand: "単3電池"
@@ -260,13 +267,14 @@ products:
         reviewCount: 557
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_ev30008"
         available: true
+    genreId: "566792"
   - rank: 9
     name: "BIGCAPA basic アルカリ乾電池 選べる40本セット"
     brand: "BIGCAPA"
     price: 800
     capacity: "40本"
     rating: 4.63
-    reviewCount: 1117
+    reviewCount: 1119
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"
@@ -282,6 +290,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvevn.3rdw6c9a.g00qvevn.3rdw7567/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkadenrand%2F1908413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkadenrand%2Fi%2F10152844%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kadenrand/cabinet/banner2/11089026/1908413rank_smn.jpg?_ex=128x128"
     priceMax: 4899
+    genreId: "212634"
   - rank: 10
     name: "Enevolt basic アルカリ乾電池 単3・単4"
     brand: "Enevolt basic（エネボルト ベーシック）"
@@ -315,6 +324,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_set-eva340"
         available: true
     priceMax: 6680
+    genreId: "212634"
 tags:
   - "乾電池 おすすめ"
   - "乾電池 コスパ"

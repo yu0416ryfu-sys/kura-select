@@ -4,7 +4,7 @@ description: "ハンドソープはどれが殺菌力とコスパを両立する
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ビオレu 薬用 泡ハンドソープ つめかえ用 2L"
@@ -39,6 +39,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seisen-online_0547268-2"
         available: true
+    genreId: "204748"
   - rank: 2
     name: "ミューズ 泡ハンドソープ オリジナル 詰め替え 900mL"
     brand: "レキットベンキーザー（ミューズ）"
@@ -72,6 +73,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_b81709"
         available: true
+    genreId: "304758"
   - rank: 3
     name: "キレイキレイ 薬用泡ハンドソープ 詰替用"
     brand: "キレイキレイ（Kirei Kirei）"
@@ -94,6 +96,7 @@ products:
     recommendedFor: "泡ハンドソープをまとめ買いしたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F90667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10986242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/667/90667.jpg?_ex=128x128"
+    genreId: "304758"
   - rank: 4
     name: "キレイキレイ 薬用泡ハンドソープ シトラスフルーティ 詰替用 450ml×6袋"
     brand: "ライオン（キレイキレイ）"
@@ -101,7 +104,7 @@ products:
     capacity: "450ml×6袋（2,700ml）"
     pricePerUnit: "約1.0円/mL"
     rating: 4.71
-    reviewCount: 34
+    reviewCount: 35
     features:
       - "殺菌成分配合の医薬部外品で、手指の細菌を素早く洗い流す薬用タイプ"
       - "シトラスフルーティの香りで毎回の手洗いが爽やかな気分になる"
@@ -116,6 +119,7 @@ products:
     recommendedFor: "家族が多い家庭・殺菌力を重視しながら詰め替えをまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F99035%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11017200%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/035/99035.jpg?_ex=128x128"
+    genreId: "304758"
   - rank: 5
     name: "キレイキレイ 薬用泡ハンドソープ シトラスフルーティの香り つめかえ用 大型サイズ"
     brand: "ライオン（キレイキレイ）"
@@ -149,6 +153,7 @@ products:
         available: true
         rating: 4.71
         reviewCount: 24
+    genreId: "304758"
   - rank: 6
     name: "arau. 泡ハンドソープ つめかえ用 500mL"
     brand: "arau.（アラウ）"
@@ -182,6 +187,7 @@ products:
         available: true
         rating: 4.69
         reviewCount: 35
+    genreId: "304758"
   - rank: 7
     name: "ミヨシ無添加せっけん 泡のハンドソープ リフィル"
     brand: "ミヨシ石鹸"
@@ -204,6 +210,7 @@ products:
     recommendedFor: "無添加・低刺激にこだわる方・赤ちゃんや敏感肌の家族がいる家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200474%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10114171%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/614/4904551100614.jpg?_ex=128x128"
+    genreId: "304758"
   - rank: 8
     name: "ジェームズマーティン 薬用泡ハンドソープ 詰め替え用"
     brand: "ジェームズマーティン"
@@ -237,6 +244,7 @@ products:
         available: true
         rating: 4.67
         reviewCount: 12
+    genreId: "304758"
   - rank: 9
     name: "ジェームズマーティン 薬用泡ハンドソープ"
     brand: "ジェームズマーティン"
@@ -270,6 +278,7 @@ products:
         available: true
         rating: 4.62
         reviewCount: 63
+    genreId: "304758"
   - rank: 10
     name: "ハンドラボ 薬用泡ハンドソープ 300mL"
     brand: "サラヤ（ハンドラボ）"
@@ -303,6 +312,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-depart_462535"
         available: true
     priceMax: 13009
+    genreId: "304758"
 tags:
   - "ハンドソープ"
   - "コスパ"

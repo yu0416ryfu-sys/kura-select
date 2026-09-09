@@ -4,7 +4,7 @@ description: "洗濯ネットおすすめ10選をコスパ・用途別に比較�
 category: "laundry-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,7 @@ products:
     recommendedFor: "ブラジャーを毎回ていねいに洗いたい方・ランジェリー専用ネットを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdpbn.3rdw64e7.g00qdpbn.3rdw735a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkagudoki%2Fbyt1011802%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkagudoki%2Fi%2F10141724%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kagudoki/cabinet/gyouhann/byt1011802.jpg?_ex=128x128"
+    genreId: "205776"
   - rank: 2
     name: "KEYUCA AST洗濯ネット 角型 30×40cm"
     brand: "KEYUCA"
@@ -62,6 +63,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/keyuca_4100149"
         available: true
+    genreId: "205776"
   - rank: 3
     name: "洗濯ネット 6枚セット サイズ組み合わせ自由"
     brand: "COREMO+"
@@ -95,6 +97,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/linofle_ly-0506"
         available: true
+    genreId: "205776"
   - rank: 4
     name: "洗濯ネット CX 糸くずブロックネット 特大 50cm"
     brand: "LEC"
@@ -117,6 +120,7 @@ products:
     recommendedFor: "ニット・タオルなど糸くずが出やすい衣類を洗いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F262061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10104745%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_lec3/262061.jpg?_ex=128x128"
+    genreId: "205776"
   - rank: 5
     name: "5枚セット洗濯ネット 大中小 角型 筒型"
     brand: "YHBOX"
@@ -139,6 +143,7 @@ products:
     recommendedFor: "洗濯ネットを初めてまとめ揃えたい方・多用途をワンセットで揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ut1jn.3rdw690e.g00ut1jn.3rdw7e1e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyh-box%2Fwek03160654c8b3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyh-box%2Fi%2F10081950%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yh-box/cabinet/wek0316/wek03160654c8b3_1.jpg?_ex=128x128"
+    genreId: "205776"
   - rank: 6
     name: "洗濯ネット 布団用 大型 角型 特大 3枚入り"
     brand: "魔法小屋"
@@ -161,6 +166,7 @@ products:
     recommendedFor: "布団・毛布を自宅で定期的に洗いたい方・大物寝具を複数枚揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u4c0n.3rdw6b08.g00u4c0n.3rdw7f94/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmagichut%2Fxhd-large-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmagichut%2Fi%2F10000032%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/magichut/cabinet/compass1637980543.jpg?_ex=128x128"
+    genreId: "205776"
   - rank: 7
     name: "フランドリー やさしく洗うネット 角40 無蛍光 40×50cm"
     brand: "ダイヤ"
@@ -183,6 +189,7 @@ products:
     recommendedFor: "敏感肌・赤ちゃん用品を洗う方・長期使用できるものを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgo8n.3rdw65ec.g00tgo8n.3rdw717e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstore-marufuku%2Falag-a11068%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstore-marufuku%2Fi%2F10018447%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/store-marufuku/cabinet/shohin/hayase10/alag-a11068_1.jpg?_ex=128x128"
+    genreId: "205776"
   - rank: 8
     name: "ダイヤ 大きくふくらむ洗濯ネット 50cm"
     brand: "ダイヤ"
@@ -205,6 +212,7 @@ products:
     recommendedFor: "毛布・タオルケットなど大物を洗いたい方・乾燥機使用者"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q17fn.3rdw6d53.g00q17fn.3rdw7877/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaiya%2F057234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaiya%2Fi%2F10001029%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daiya/cabinet/05643472/06637217/06639614/057234.jpg?_ex=128x128"
+    genreId: "205776"
   - rank: 9
     name: "メッシュ洗濯ネット 筒形 ファスナー式"
     brand: "ワイエムハウス"
@@ -227,6 +235,7 @@ products:
     recommendedFor: "デリケートな衣類・ニット・シャツを丁寧に洗いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00top5n.3rdw68a7.g00top5n.3rdw7244/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymhouse%2Fwzm39%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymhouse%2Fi%2F10000850%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymhouse/cabinet/07576115/mz-6851.jpg?_ex=128x128"
+    genreId: "205776"
   - rank: 10
     name: "洗濯ネット ドラム式専用"
     brand: "マルフク"
@@ -249,6 +258,7 @@ products:
     recommendedFor: "ドラム式でおしゃれ着をやさしく洗いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgo8n.3rdw65ec.g00tgo8n.3rdw717e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstore-marufuku%2Falag-a11044%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstore-marufuku%2Fi%2F10012435%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/store-marufuku/cabinet/shohin/hayase5/alag-a11044_1.jpg?_ex=128x128"
+    genreId: "205776"
 tags:
   - "洗濯ネット おすすめ"
   - "洗濯ネット コスパ"

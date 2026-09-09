@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ10選を1回
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 208
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ozoneassocia_toilet100"
         available: true
+    genreId: "501137"
   - rank: 2
     name: "トイレの女神 PREMIUM 簡易トイレ 防災セット 2〜4人世帯向け"
     brand: "HACONO"
@@ -62,6 +63,7 @@ products:
     recommendedFor: "家族分の防災トイレをまとめて備えたい世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t1uon.3rdw6c61.g00t1uon.3rdw7c8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhacono%2Fftl010200102%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhacono%2Fi%2F10000273%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hacono/cabinet/megami/ftl010200102-th1-n.jpg?_ex=128x128"
+    genreId: "501137"
   - rank: 3
     name: "非常用トイレ 防災セット トイレットペーパー付き"
     brand: "NICE SHOP"
@@ -84,13 +86,14 @@ products:
     recommendedFor: "紙類までまとめて備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rteun.3rdw658d.g00rteun.3rdw7974/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnice-shop%2F12-05000002_ha%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnice-shop%2Fi%2F10000198%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nice-shop/cabinet/additional/11868220/11868221/imgrc0108424299.jpg?_ex=128x128"
+    genreId: "501137"
   - rank: 4
     name: "簡易トイレ 半永久保存 非常用トイレセット"
     brand: "RONE_SHOP"
     price: 1080
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7173
+    reviewCount: 7182
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -106,6 +109,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ue8bn.3rdw65ff.g00ue8bn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr1-shop%2Fcsd-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr1-shop%2Fi%2F10000062%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r1-shop/cabinet/10018776/10165018/2603/csd-64.jpg?_ex=128x128"
     priceMax: 21980
+    genreId: "501137"
   - rank: 5
     name: "簡易トイレ 防災士監修 凝固剤 消臭 セット"
     brand: "Taigu"
@@ -139,13 +143,14 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ulimalie_99jun24yjcs02"
         available: true
     priceMax: 21138
+    genreId: "501137"
   - rank: 6
     name: "簡易トイレ 防災士監修 50回分セット"
     brand: "東京博海"
     price: 1380
     capacity: "50回分"
     rating: 4.6
-    reviewCount: 740
+    reviewCount: 741
     features:
       - "凝固剤・ポリエチレン袋・消臭液・吸収シートをまとめた構成"
       - "組み立てが簡単な設計"
@@ -172,13 +177,14 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coco-yasashisaya_saimol01"
         available: true
     priceMax: 26800
+    genreId: "501137"
   - rank: 7
     name: "非常用トイレ 炭入り 100回分 半永久保存 防災トイレ"
     brand: "Life Reach"
-    price: 4999
+    price: 5999
     capacity: "100回分"
     rating: 4.64
-    reviewCount: 803
+    reviewCount: 804
     features:
       - "炭入り凝固剤でにおい対策に配慮したセット"
       - "凝固剤と汚物袋がそろった構成"
@@ -205,13 +211,14 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
         available: true
     priceMax: 38599
+    genreId: "501137"
   - rank: 8
     name: "簡易トイレ シートトイレ"
     brand: "アクアタルク"
     price: 1800
     capacity: "50回分"
     rating: 4.45
-    reviewCount: 4083
+    reviewCount: 4084
     features:
       - "吸水ポリマーを使ったシートタイプの凝固剤"
       - "災害用・非常用として個包装で使いやすい構成"
@@ -227,13 +234,14 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pn22n.3rdw67a9.g00pn22n.3rdw7e73/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faquatalk%2F10000314%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faquatalk%2Fi%2F10000314%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aquatalk/cabinet/shin/sheetoilet20-100/ssam3.jpg?_ex=128x128"
     priceMax: 5000
+    genreId: "501137"
   - rank: 9
     name: "非常用トイレ 100回分 半永久保存 防災トイレ"
     brand: "Life Reach"
     price: 4999
     capacity: "100回分"
     rating: 4.59
-    reviewCount: 1348
+    reviewCount: 1349
     features:
       - "凝固剤と汚物袋がそろった災害用セット"
       - "超長期保存に対応し入れ替え頻度を抑えやすい"
@@ -260,13 +268,14 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
         available: true
     priceMax: 38599
+    genreId: "501137"
   - rank: 10
     name: "簡易トイレ 防災士監修 20回分 コンパクトセット"
     brand: ""
     price: 1380
     capacity: "20回分"
     rating: 4.52
-    reviewCount: 7215
+    reviewCount: 7217
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"
@@ -293,6 +302,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yandk_portable-toilet"
         available: true
     priceMax: 25800
+    genreId: "501137"
 tags:
   - "簡易トイレ おすすめ"
   - "簡易トイレ コスパ"

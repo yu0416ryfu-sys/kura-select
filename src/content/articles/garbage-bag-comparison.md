@@ -4,7 +4,7 @@ description: "ゴミ袋はどれがコスパよくお得？45L・20Lの人気10�
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -13,7 +13,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.76
-    reviewCount: 1592
+    reviewCount: 1594
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 4.84
         reviewCount: 945
+    genreId: "205838"
   - rank: 2
     name: "HEIKO PPパン袋 20-30 300枚"
     brand: "HEIKO"
@@ -72,6 +73,7 @@ products:
         available: true
         rating: 5
         reviewCount: 8
+    genreId: "550088"
   - rank: 3
     name: "TANOSEE　ゴミ袋エコノミー　乳白半透明"
     brand: "TANOSEE（国内大手OEM）"
@@ -105,6 +107,7 @@ products:
         reviewCount: 45
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_7661730"
         available: true
+    genreId: "216044"
   - rank: 4
     name: "とって付きポリ袋 L 白半透明"
     brand: "日本サニパック"
@@ -127,6 +130,7 @@ products:
     recommendedFor: "取っ手付きゴミ袋を好む方、Lサイズゴミ箱を使っている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902393558198-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10068514%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic201404/4902393558198_1.jpg?_ex=128x128"
+    genreId: "216044"
   - rank: 5
     name: "サンキョウプラテック ごみ袋 45L 半透明 100枚×2小箱"
     brand: "サンキョウプラテック"
@@ -149,6 +153,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fbx-530box2kobako%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10001012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/ecotaibox/bx/45l/bx-530n_2k.jpg?_ex=128x128"
+    genreId: "216044"
   - rank: 6
     name: "東京都容量表示ポリ袋 70L 白半透明"
     brand: "サンキョウプラテック"
@@ -171,6 +176,7 @@ products:
     recommendedFor: "70Lのゴミ袋を大容量でストックしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fkc-73%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10001776%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/sitei/kc/kc-73n_1.jpg?_ex=128x128"
+    genreId: "216044"
   - rank: 7
     name: "クラフトマン 業務用厚手ゴミ袋 45L 100枚"
     brand: "クラフトマン"
@@ -193,6 +199,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F466-6776%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10061351%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin400_06/466-6776.jpg?_ex=128x128"
+    genreId: "216044"
   - rank: 8
     name: "ゴミ袋 90L 業務用 厚手 50枚×4冊"
     brand: "ケイヨウ実業"
@@ -226,6 +233,7 @@ products:
         available: true
         rating: 4.94
         reviewCount: 18
+    genreId: "216044"
   - rank: 9
     name: "スマートエール 45L 半透明ごみ袋 100枚"
     brand: "スマートエール"
@@ -259,6 +267,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_7276048"
         available: true
     priceMax: 12800
+    genreId: "216044"
   - rank: 10
     name: "業務用ゴミ袋 45L 半透明 厚手"
     brand: "ケイヨウ実業"
@@ -281,6 +290,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00umsyn.3rdw6998.g00umsyn.3rdw7ed2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeiyoujitsugyou%2Fk2404%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeiyoujitsugyou%2Fi%2F10000041%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keiyoujitsugyou/cabinet/11482914/13224248/imgrc0128933675.jpg?_ex=128x128"
     priceMax: 5600
+    genreId: "216044"
 tags:
   - "ゴミ袋"
   - "コスパ"

@@ -4,7 +4,7 @@ description: "クローゼット用・引き出し用の衣類防虫剤を1個�
 category: "moth-repellent"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×2箱セット"
@@ -39,6 +39,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-kurashi_t2x16s"
         available: true
+    genreId: "568699"
   - rank: 2
     name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×3箱セット"
     brand: "エステー（ムシューダ）"
@@ -72,6 +73,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-kurashi_t2x17s"
         available: true
+    genreId: "568699"
   - rank: 3
     name: "ムシューダ 1年間有効 引き出し・衣装ケース用 無香タイプ"
     brand: "エステー（ムシューダ）"
@@ -105,6 +107,7 @@ products:
         available: true
         rating: 4.63
         reviewCount: 8
+    genreId: "568699"
   - rank: 4
     name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入"
     brand: "エステー（ムシューダ）"
@@ -138,6 +141,7 @@ products:
         available: true
         rating: 4.79
         reviewCount: 14
+    genreId: "568699"
   - rank: 5
     name: "ムシューダ 1年間有効 引き出し・衣装ケース用"
     brand: "エステー（ムシューダ）"
@@ -171,6 +175,7 @@ products:
         available: true
         rating: 4.5
         reviewCount: 10
+    genreId: "100695"
   - rank: 6
     name: "大日本除蟲菊 タンスにゴンゴン 衣類の防虫剤 クローゼット用 無臭"
     brand: "大日本除蟲菊（タンスにゴンゴン）"
@@ -204,6 +209,7 @@ products:
         available: true
         rating: 0
         reviewCount: 2
+    genreId: "100695"
   - rank: 7
     name: "ムシューダ クローゼット用 防カビ剤配合 無香タイプ 1年間有効 3個入×5箱セット"
     brand: "エステー（ムシューダ）"
@@ -237,6 +243,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_65253"
         available: true
+    genreId: "568699"
   - rank: 8
     name: "ムシューダ クローゼット用 防カビ剤配合 無香タイプ 1年間有効 3個入×3箱セット"
     brand: "エステー（ムシューダ）"
@@ -270,6 +277,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_65247"
         available: true
+    genreId: "568699"
   - rank: 9
     name: "ムシューダ クローゼット用 衣類用 防虫剤 防カビ剤配合 無香タイプ 1年間有効"
     brand: "エステー（ムシューダ）"
@@ -303,6 +311,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "568699"
   - rank: 10
     name: "ムシューダ ウォークインクローゼット専用 無香タイプ 1年間有効 3個入×3箱セット"
     brand: "エステー（ムシューダ）"
@@ -336,6 +345,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsutsu-uraura_este-mh-wc3-3s"
         available: true
+    genreId: "568699"
 tags:
   - "衣類防虫剤 おすすめ"
   - "防虫剤 コスパ"

@@ -4,7 +4,7 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/handm_2303-003931"
         available: true
+    genreId: "215999"
   - rank: 2
     name: "スクラビングバブル 流せるトイレブラシ 本体+替え24個"
     brand: "スクラビングバブル"
@@ -73,6 +74,7 @@ products:
         reviewCount: 468
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_3103567"
         available: true
+    genreId: "215999"
   - rank: 3
     name: "スクラビングバブル 流せるトイレブラシ 本体+替え4個"
     brand: "スクラビングバブル"
@@ -106,6 +108,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_9612078018"
         available: true
+    genreId: "215999"
   - rank: 4
     name: "スクラビングバブル 流せるトイレブラシ 替え24個 ホワイトブロッサムの香り"
     brand: "スクラビングバブル"
@@ -139,6 +142,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4901609015456"
         available: true
     priceMax: 9999
+    genreId: "215999"
 tags:
   - "流せるトイレブラシ おすすめ"
   - "流せるトイレブラシ コスパ"

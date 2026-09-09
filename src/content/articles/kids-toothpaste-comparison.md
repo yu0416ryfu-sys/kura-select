@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット"
@@ -61,6 +61,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/a-kustore_4903301166054s3"
         available: true
+    genreId: "204759"
   - rank: 3
     name: "あわだたない こどもハミガキ ラムネ 60g"
     brand: "エスケー石鹸"
@@ -94,6 +95,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hareya_y-nsk0182x5"
         available: true
+    genreId: "204759"
   - rank: 4
     name: "エスケー石鹸 あわだたないこどもハミガキ ぶどう 60g"
     brand: "エスケー石鹸"
@@ -127,6 +129,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "204759"
   - rank: 5
     name: "エスケー石鹸 あわだたないこどもハミガキ ぶどう 60g×32個"
     brand: "エスケー石鹸"
@@ -149,6 +152,7 @@ products:
     recommendedFor: "年齢や味の好みに合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2u0n.3rdw6e74.g00r2u0n.3rdw74e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fecorea2010%2F3770c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fecorea2010%2Fi%2F10000578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ecorea2010/cabinet/item/case/3770c.jpg?_ex=128x128"
+    genreId: "204759"
   - rank: 6
     name: "あわだたない こどもハミガキ ラムネ 60g"
     brand: "エスケー石鹸"
@@ -204,6 +208,7 @@ products:
         available: true
         rating: 4.88
         reviewCount: 17
+    genreId: "551695"
   - rank: 8
     name: "ばぶりーキッズ ゆらしー こども用泡歯磨き粉 48ml"
     brand: "from COCORO"
@@ -237,6 +242,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fromcocoro_y-yurabub-n1"
         available: true
     priceMax: 4530
+    genreId: "204759"
 tags:
   - "歯磨き粉"
   - "子ども"

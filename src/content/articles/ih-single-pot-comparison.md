@@ -4,7 +4,7 @@ description: "IH対応の一人用鍋を16cm・18cm中心に11製品比較。卓
 category: "cooking-pot"
 publishedAt: "2026-05-10"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4549308569414"
         available: true
+    genreId: "101857"
   - rank: 2
     name: "ひとり用鍋 浅型 17cm IH対応 蓋付 LD-485"
     brand: "ベストコ"
@@ -62,6 +63,7 @@ products:
     recommendedFor: "卓上で浅型の一人鍋を使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uczfn.3rdw6070.g00uczfn.3rdw7487/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanadeya2022%2Fn1579%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanadeya2022%2Fi%2F10007117%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kanadeya2022/cabinet/tmb/n/n1501-n1600/n1579.jpg?_ex=128x128"
+    genreId: "215913"
   - rank: 3
     name: "一人鍋 深型 14cm IH対応 蓋付 LD-486"
     brand: "ベストコ"
@@ -84,6 +86,7 @@ products:
     recommendedFor: "一人分の少量調理を手軽にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sm4gn.3rdw6cde.g00sm4gn.3rdw7f68/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatsukukan%2Fn1580%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatsukukan%2Fi%2F10011195%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/seikatsukukan/cabinet/tmb/n/n1501-n1600/n1580.jpg?_ex=128x128"
+    genreId: "215913"
   - rank: 4
     name: "パール金属 おうち御膳 すきやき鍋 18cm HB-6603"
     brand: "パール金属"
@@ -106,6 +109,7 @@ products:
     recommendedFor: "すき焼きや卓上調理を中心に使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psopn.3rdw654b.g00psopn.3rdw78e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fj-shop%2Fp02563%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fj-shop%2Fi%2F10012580%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/j-shop/cabinet/02933114/p02563-01.jpg?_ex=128x128"
+    genreId: "559062"
   - rank: 5
     name: "野田琺瑯 ココナベ 個々鍋 大 KO-21 IH対応"
     brand: "野田琺瑯"
@@ -128,6 +132,7 @@ products:
     recommendedFor: "見た目にこだわりながら一人鍋を楽しみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ps1gn.3rdw6ea1.g00ps1gn.3rdw70d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshokki%2Fkokonabe002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshokki%2Fi%2F10010755%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shokki/cabinet/noda/imgrc0073680268.jpg?_ex=128x128"
+    genreId: "215913"
   - rank: 6
     name: "ジオ・プロダクト 片手鍋 16cm GEO-16N"
     brand: "宮崎製作所"
@@ -161,6 +166,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/white-sha_1200012059"
         available: true
+    genreId: "215908"
   - rank: 7
     name: "アルミ卓上鍋 SHIEN 旨宴 16cm IH対応"
     brand: "リビング"
@@ -183,6 +189,7 @@ products:
     recommendedFor: "見た目も落ち着いた卓上用の一人鍋を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvhdn.3rdw6896.g00rvhdn.3rdw7113/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaily-shop%2F10003997%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaily-shop%2Fi%2F10003997%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daily-shop/cabinet/35/4546490506692-tg0.jpg?_ex=128x128"
+    genreId: "215913"
   - rank: 8
     name: "卓上鍋 18cm IH対応 軽量 蓋付き プチなべ"
     brand: "和平フレイズ"
@@ -205,6 +212,7 @@ products:
     recommendedFor: "一人鍋だけでなく、少人数の取り分けにも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F462344%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10207572%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_wahei10/462344.jpg?_ex=128x128"
+    genreId: "215913"
   - rank: 9
     name: "富士ホーロー コットン ミルクパン 14cm IH対応"
     brand: "FYP"
@@ -227,6 +235,7 @@ products:
     recommendedFor: "ホーローの片手鍋でミルクパン兼用に使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rhi5n.3rdw6f4a.g00rhi5n.3rdw7b06/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcooking-clocca%2Ffuji-ctn14m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcooking-clocca%2Fi%2F10005336%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cooking-clocca/cabinet/03069247/03181597/fuji-ctn14m_01-1.jpg?_ex=128x128"
+    genreId: "215908"
   - rank: 10
     name: "プチなべ IH対応 卓上鍋 蓋付き"
     brand: "和平フレイズ"
@@ -249,6 +258,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgo8n.3rdw65ec.g00tgo8n.3rdw717e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstore-marufuku%2Fadaq-a76076%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstore-marufuku%2Fi%2F10012869%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/store-marufuku/cabinet/shohin/tanaka7/adaq-a76076_1.jpg?_ex=128x128"
     priceMax: 2680
+    genreId: "558994"
 tags:
   - "IH対応鍋"
   - "一人用鍋"

@@ -4,7 +4,7 @@ description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹
 category: "contact-lens"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ロートCキューブ ソフトワン モイストa"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 4.81
         reviewCount: 196
+    genreId: "509123"
   - rank: 2
     name: "ロート Cキューブ ソフトワン モイストα"
     brand: "ロート"
@@ -61,6 +62,7 @@ products:
     recommendedFor: "ソフトレンズ用のモイストタイプをまとめて備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r4lin.3rdw65b0.g00r4lin.3rdw7b10/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeasis%2F4987241150236-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeasis%2Fi%2F10000112%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/measis/cabinet/rakuten/87-rohto/soft1moist/moist_006.jpg?_ex=128x128"
+    genreId: "509123"
   - rank: 3
     name: "レニューフレッシュ 355ml 10本セット"
     brand: "ボシュロム"
@@ -94,6 +96,7 @@ products:
         reviewCount: 14
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/firstcontact_478"
         available: true
+    genreId: "509123"
   - rank: 4
     name: "レニューフレッシュ 355ml 12本"
     brand: "ボシュロム"
@@ -101,7 +104,7 @@ products:
     capacity: "355mL×12本"
     pricePerUnit: "約1.1円/mL"
     rating: 4.81
-    reviewCount: 2986
+    reviewCount: 2988
     features:
       - "ソフトコンタクトレンズ用の洗浄・保存液セット"
       - "ボシュロムのレニューフレッシュを大容量で用意できる"
@@ -127,6 +130,7 @@ products:
         available: true
         rating: 4.79
         reviewCount: 381
+    genreId: "509123"
   - rank: 5
     name: "レニューフレッシュ 355ml 12本セット"
     brand: "ボシュロム"
@@ -160,6 +164,7 @@ products:
         available: true
         rating: 4.79
         reviewCount: 381
+    genreId: "509123"
   - rank: 6
     name: "レニューフレッシュ 355ml 10本"
     brand: "ボシュロム"
@@ -193,6 +198,7 @@ products:
         reviewCount: 14
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/firstcontact_478"
         available: true
+    genreId: "408109"
   - rank: 7
     name: "レニューフレッシュ 355ml 4本"
     brand: "ボシュロム"
@@ -226,6 +232,7 @@ products:
         reviewCount: 76
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/world-cl_59"
         available: true
+    genreId: "408109"
   - rank: 8
     name: "ポイント10倍！オプティフリープラス"
     brand: "アルコン（オプティフリー）"
@@ -248,6 +255,7 @@ products:
     recommendedFor: "コスパと保湿力を両立したい方・大容量まとめ買いをしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qym5n.3rdw62ce.g00qym5n.3rdw72cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhitomi-cl%2Fopfplus_6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhitomi-cl%2Fi%2F10000358%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hitomi-cl/cabinet/care/optifreeplus/opx10_6.jpg?_ex=128x128"
+    genreId: "509123"
   - rank: 9
     name: "アイミー ワンオーケア"
     brand: "アイミー"
@@ -281,6 +289,7 @@ products:
         available: true
         rating: 4.78
         reviewCount: 85
+    genreId: "214884"
   - rank: 10
     name: "コンセプト ワンステップ トリプルパック"
     brand: "ジョンソン・エンド・ジョンソン"
@@ -314,6 +323,7 @@ products:
         rating: 4.71
         reviewCount: 34
     priceMax: 10118
+    genreId: "566013"
 tags:
   - "コンタクト洗浄液 おすすめ"
   - "コンタクト MPS コスパ"

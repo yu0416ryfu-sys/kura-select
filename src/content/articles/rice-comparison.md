@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "国内産 農家直米 白米"
@@ -13,7 +13,7 @@ products:
     capacity: "10kg"
     pricePerUnit: "約498円/kg"
     rating: 4.39
-    reviewCount: 16099
+    reviewCount: 16100
     features:
       - "研がずに炊ける無洗米タイプ"
       - "5kg×2袋に小分けされていて保管しやすい"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 4.18
         reviewCount: 1778
+    genreId: "201184"
   - rank: 2
     name: "令和7年産 無洗米 三重県産コシヒカリ 10kg"
     brand: "ハーベストシーズン"
@@ -72,6 +73,7 @@ products:
         available: true
         rating: 4.59
         reviewCount: 120
+    genreId: "201184"
   - rank: 3
     name: "令和7年産 無洗米 新潟産コシヒカリ 10kg"
     brand: "ミツハシライス"
@@ -105,6 +107,7 @@ products:
         available: true
         rating: 4.8
         reviewCount: 10
+    genreId: "201184"
   - rank: 4
     name: "無洗米 新潟県産コシヒカリ 10kg（5kg×2袋）"
     brand: "ヤマトライス"
@@ -138,6 +141,7 @@ products:
         available: true
         rating: 4.63
         reviewCount: 636
+    genreId: "201184"
   - rank: 5
     name: "無洗米 富山県産コシヒカリ 10kg"
     brand: "ヤマトライス"
@@ -160,6 +164,7 @@ products:
     reviewCount: 152
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/tym/koshi/bg/000324-2.jpg?_ex=128x128"
     pricePerUnit: "約708円/kg"
+    genreId: "201184"
   - rank: 6
     name: "無洗米 農薬節減米 岩手県産ひとめぼれ 10kg"
     brand: "ヤマトライス"
@@ -182,6 +187,7 @@ products:
     reviewCount: 73
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/iwt/hitome/008963-2.jpg?_ex=128x128"
     pricePerUnit: "約728円/kg"
+    genreId: "201184"
   - rank: 7
     name: "令和7年産 無洗米 茨城県産コシヒカリ 10kg"
     brand: "ミツハシライス"
@@ -215,6 +221,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "201184"
   - rank: 8
     name: "令和7年 佐渡産コシヒカリ 2kg"
     brand: "食の宝島佐渡"
@@ -248,6 +255,7 @@ products:
         rating: 0
         reviewCount: 0
     priceMax: 19950
+    genreId: "201184"
   - rank: 9
     name: "秋田県産 あきたこまち 18kg〜20kg"
     brand: "秋田県産あきたこまち"
@@ -270,6 +278,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtn3n.3rdw6fc6.g00qtn3n.3rdw7aa1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frice-akita%2F1000000130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frice-akita%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rice-akita/cabinet/03459843/05525503/09674048/imgrc0081536274.jpg?_ex=128x128"
     priceMax: 9170
+    genreId: "201184"
 tags:
   - "お米"
   - "米"

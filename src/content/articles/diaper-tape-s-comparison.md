@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ムーニー テープ Sサイズ"
@@ -28,6 +28,7 @@ products:
     recommendedFor: "Sサイズを少量から試したい方・テープ型を続けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4903111138302%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10539510%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0083/4903111138302_1.jpg?_ex=128x128"
+    genreId: "205198"
   - rank: 2
     name: "ムーニー マシュマロ肌ごこち テープ Sサイズ 大容量"
     brand: "ユニ・チャーム（ムーニー）"
@@ -35,7 +36,7 @@ products:
     capacity: "70枚×4パック"
     pricePerUnit: "約25円/枚"
     rating: 4.57
-    reviewCount: 53
+    reviewCount: 54
     features:
       - "マシュマロのようなやさしい肌触り"
       - "モレ安心設計でテープタイプの安心感"
@@ -61,6 +62,7 @@ products:
         available: true
         rating: 4.74
         reviewCount: 53
+    genreId: "205198"
   - rank: 3
     name: "ムーニー マシュマロ肌ごこち モレ安心 テープ S 70枚"
     brand: "ユニ・チャーム（ムーニー）"
@@ -94,6 +96,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "205198"
   - rank: 4
     name: "メリーズ ずっと肌さらエアスルー テープ Sサイズ 62枚"
     brand: "花王（メリーズ）"
@@ -116,6 +119,7 @@ products:
     recommendedFor: "蒸れやおむつかぶれが気になる方・コスパ重視でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F666-2109%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10640742%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin600_07/666-2109.jpg?_ex=128x128"
+    genreId: "112779"
   - rank: 5
     name: "ムーニー 低刺激であんしん 紙おむつ テープ"
     brand: "ユニ・チャーム（ムーニーナチュラル）"
@@ -123,7 +127,7 @@ products:
     capacity: "54枚×4個セット"
     pricePerUnit: "約33円/枚"
     rating: 4.75
-    reviewCount: 505
+    reviewCount: 506
     features:
       - "低刺激処方で敏感肌向けに配慮"
       - "安心設計のテープタイプ"
@@ -149,6 +153,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "205198"
   - rank: 6
     name: "パンパース はじめての肌へのいちばん テープ Sサイズ 132枚"
     brand: "P&G（パンパース）"
@@ -182,10 +187,11 @@ products:
         available: true
         rating: 0
         reviewCount: 2
+    genreId: "205198"
   - rank: 7
     name: "パンパース テープ Sサイズ 74枚×4袋"
     brand: "P&G（パンパース）"
-    price: 7360
+    price: 7180
     capacity: "74枚×4袋（296枚）"
     rating: 4.7
     reviewCount: 66
@@ -215,6 +221,7 @@ products:
         rating: 4.79
         reviewCount: 140
     priceMax: 8980
+    genreId: "205198"
 tags:
   - "Sサイズ おむつ"
   - "テープ型おむつ"

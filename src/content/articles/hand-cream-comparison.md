@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ユースキン ハンドクリーム つけかえパウチ 180g"
@@ -27,6 +27,7 @@ products:
     recommendedFor: "ユースキンを使い続けていて詰め替えで単価を下げたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987353190618%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10990957%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/618/4987353190618.jpg?_ex=128x128"
+    genreId: "304759"
   - rank: 2
     name: "ユースキンA 180g"
     brand: "ユースキン製薬"
@@ -60,6 +61,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "304759"
   - rank: 3
     name: "オーガニックシアバター 精製 35g 選べる9種類の香り"
     brand: "SH"
@@ -67,7 +69,7 @@ products:
     capacity: "35g"
     pricePerUnit: "約19円/g"
     rating: 4.5
-    reviewCount: 414
+    reviewCount: 415
     features:
       - "100%ピュアシアバターを精製したオーガニック処方"
       - "9種類の香りから選べるセレクト仕様"
@@ -82,6 +84,7 @@ products:
     recommendedFor: "天然由来の高保湿ケアを求める方・就寝前の集中ケアに使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rz29n.3rdw614e.g00rz29n.3rdw7091/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkumokumo-square%2F10042086%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkumokumo-square%2Fi%2F10063869%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kumokumo-square/cabinet/andsh_sam/10042086.jpg?_ex=128x128"
+    genreId: "304759"
   - rank: 4
     name: "ハンドクリーム 80g べたつかない 無香料"
     brand: "てんまん香粧薬房"
@@ -115,6 +118,7 @@ products:
         reviewCount: 378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenman-hompo_th003"
         available: true
+    genreId: "304759"
   - rank: 5
     name: "ハンドクリーム ミニ プチギフト 40g"
     brand: "てんまん香粧薬房"
@@ -137,6 +141,7 @@ products:
     recommendedFor: "外出時の携帯用に持ち歩きたい方・ギフトを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rujan.3rdw6444.g00rujan.3rdw7e0d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenman-kosho-yakubo%2Fth034%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenman-kosho-yakubo%2Fi%2F10000039%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tenman-kosho-yakubo/cabinet/tenman-handcream/40g/th034_008.jpg?_ex=128x128"
+    genreId: "304759"
   - rank: 6
     name: "卵殻膜 ハンドクリーム OVO 5g お試し"
     brand: "コラーゲンのルウ研究所"
@@ -170,6 +175,7 @@ products:
         rating: 4.1
         reviewCount: 10
     priceMax: 374
+    genreId: "304759"
   - rank: 7
     name: "ALLNA ORGANIC ハンドクリーム 43g"
     brand: "ALLNA ORGANIC"
@@ -192,6 +198,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b072wnfzkl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000265%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/outlet/202609/905b072wnfzkl-50.jpg?_ex=128x128"
     priceMax: 4400
+    genreId: "304759"
   - rank: 8
     name: "ハンド＆キューティクルクリーム"
     brand: "ミロビーナ"
@@ -225,6 +232,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/okaimono-ichiba_4580333760087"
         available: true
     priceMax: 9207
+    genreId: "304759"
   - rank: 9
     name: "ヴァセリン インテンシブケア ハンドクリーム 60mL"
     brand: "ユニリーバ（ヴァセリン）"
@@ -247,6 +255,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uicnn.3rdw69f9.g00uicnn.3rdw721b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnarushop%2Fvl-8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnarushop%2Fi%2F10000105%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/narushop/cabinet/unilever/vl-7.jpg?_ex=128x128"
     priceMax: 570
+    genreId: "304759"
   - rank: 10
     name: "ロクシタン パフュームド ハンドクリーム 30mL 選べる6種類"
     brand: "ロクシタン"
@@ -280,6 +289,7 @@ products:
         rating: 4.69
         reviewCount: 729
     priceMax: 1480
+    genreId: "304759"
 tags:
   - "ハンドクリーム おすすめ"
   - "ハンドクリーム コスパ"

@@ -4,7 +4,7 @@ description: "父の日に贈りやすい実用ギフトを比較。名入れボ
 category: "gift"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4955287917984"
         available: true
+    genreId: "110626"
   - rank: 2
     name: "刺繍ネクタイ 名入れ"
     brand: "104 TENFOUR"
@@ -62,6 +63,7 @@ products:
     recommendedFor: "ビジネスマンの父親に名入れの特別なネクタイを贈りたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tbstn.3rdw672e.g00tbstn.3rdw75f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F104-tenfour%2Fnecktie-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F104-tenfour%2Fi%2F10001418%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/104-tenfour/cabinet/shohin01/shohin02/necktie_01.jpg?_ex=128x128"
+    genreId: "502429"
   - rank: 3
     name: "LAMY safari ボールペン"
     brand: "プリントドッグ"
@@ -84,6 +86,7 @@ products:
     rating: 5
     reviewCount: 4
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/printdog/cabinet/biiino/item/main-image/20230424214450_1.jpg?_ex=128x128"
+    genreId: "216058"
   - rank: 4
     name: "名入れタオル 父の日ワンポイントデザイン"
     brand: "シャレもん"
@@ -106,6 +109,7 @@ products:
     recommendedFor: "実用的な名入れギフトでタオルを贈りたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rjw5n.3rdw679e.g00rjw5n.3rdw747b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshalemon%2Ftlcs6c-dad-onepoint%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshalemon%2Fi%2F10002289%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shalemon/cabinet/towel/tlcs6c-dad-onepoint.jpg?_ex=128x128"
+    genreId: "551736"
   - rank: 5
     name: "生涯を添い遂げるマグ"
     brand: "Wired Beans"
@@ -128,6 +132,7 @@ products:
     rating: 4.67
     reviewCount: 3
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wiredbeans/cabinet/05633541/12071_90naire.jpg?_ex=128x128"
+    genreId: "566157"
   - rank: 6
     name: "ポロ ラルフローレン メンズ靴下 6足セット"
     brand: "Polo Ralph Lauren"
@@ -181,6 +186,7 @@ products:
     recommendedFor: "晩酌好きのお父さんへ、少し特別な父の日ギフトを贈りたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u22ln.3rdw679d.g00u22ln.3rdw757e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaire-jorio%2F10000806%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaire-jorio%2Fi%2F10001107%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naire-jorio/cabinet/11614016/compass1744359650.jpg?_ex=128x128"
+    genreId: "407036"
   - rank: 8
     name: "名入れ 木製ボールペン"
     brand: "名入れできる雑貨屋 リコルド"
@@ -203,6 +209,7 @@ products:
     reviewCount: 99
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/happy-gift/cabinet/04391796/008-001.jpg?_ex=128x128"
     priceMax: 1430
+    genreId: "216058"
   - rank: 9
     name: "パーカー ジョッター"
     brand: "名入れ文具のイケマン"
@@ -225,6 +232,7 @@ products:
     reviewCount: 145
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fsapo/cabinet/parker/p-jotter_2024_1.jpg?_ex=128x128"
     priceMax: 3300
+    genreId: "216058"
   - rank: 10
     name: "切子グラス 光明"
     brand: "AZUL 楽天市場店"
@@ -245,6 +253,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tddfn.3rdw6713.g00tddfn.3rdw720b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fazul%2F10000049%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fazul%2Fi%2F10000051%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/azul/cabinet/06834766/07583404/imgrc0127645312.jpg?_ex=128x128"
     priceMax: 22440
+    genreId: "407036"
 tags:
   - "父の日 プレゼント"
   - "父の日 ギフト"

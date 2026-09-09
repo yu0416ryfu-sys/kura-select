@@ -4,7 +4,7 @@ description: "サントリー・アサヒ・エビアンなど人気の天然水
 category: "mineral-water"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,7 @@ products:
     recommendedFor: "赤ちゃんがいる家庭・コスパ重視で備蓄用の水を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r685n.3rdw6e25.g00r685n.3rdw7405/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyou2han%2F10002791%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyou2han%2Fi%2F10002791%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/you2han/cabinet/dk/life2000-001.jpg?_ex=128x128"
+    genreId: "201351"
   - rank: 2
     name: "アサヒ おいしい水 天然水 ラベルレスボトル 2L×9本"
     brand: "アサヒ飲料"
@@ -51,6 +52,7 @@ products:
     recommendedFor: "エコ意識が高い方・ストック場所に余裕があり大量購入したいご家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4514603380606%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10890405%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/606/4514603380606.jpg?_ex=128x128"
+    genreId: "201351"
   - rank: 3
     name: "楽天オリジナル 天然水 500mL×24本"
     brand: "楽天オリジナル"
@@ -58,7 +60,7 @@ products:
     capacity: "500mL×24本（12L）"
     pricePerUnit: "約101円/L"
     rating: 4.69
-    reviewCount: 1907
+    reviewCount: 1928
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"
@@ -73,6 +75,7 @@ products:
     recommendedFor: "持ち運び用・職場や学校へのストックに使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqzrn.3rdw615b.g00uqzrn.3rdw7efd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenoriginal-daily%2Fro-b-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenoriginal-daily%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenoriginal-daily/cabinet/item/water/ro-b-001_e_v2.jpg?_ex=128x128"
+    genreId: "201351"
   - rank: 4
     name: "いろはす 天然水 ラベルレス"
     brand: "コカコーラ（いろはす）"
@@ -95,6 +98,7 @@ products:
     recommendedFor: "エコ意識でラベルレスボトルの天然水を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tko0n.3rdw6dd0.g00tko0n.3rdw7f7e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmita-house%2F10000028%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmita-house%2Fi%2F10000028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mita-house/cabinet/compass1694495531.jpg?_ex=128x128"
+    genreId: "201351"
   - rank: 5
     name: "クリスタルガイザー 天然水"
     brand: "Crystal Geyser"
@@ -128,6 +132,7 @@ products:
         reviewCount: 575
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/meshiya_001-0010-001-spu1712"
         available: true
+    genreId: "201351"
   - rank: 6
     name: "かぞく想いの天然水 硝酸態窒素ゼロ 2L×12本"
     brand: "かぞく想いの天然水"
@@ -150,14 +155,15 @@ products:
     recommendedFor: "水の成分・安全性にこだわりたい方・小さなお子様がいるご家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi1bn.3rdw68ab.g00qi1bn.3rdw793b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmsty1018%2F4997150132216-12pcs%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmsty1018%2Fi%2F10001637%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/msty1018/cabinet/mineralwater/4997150132216-12pcs.jpg?_ex=128x128"
+    genreId: "201351"
   - rank: 7
     name: "ボルヴィック 天然水 500mL×48本"
     brand: "Volvic"
     price: 5110
     capacity: "500mL×48本（24L）"
     pricePerUnit: "約213円/L"
-    rating: 4.63
-    reviewCount: 35
+    rating: 4.64
+    reviewCount: 36
     features:
       - "フランス・オーヴェルニュ地方の火山岩フィルターを通った軟水（pH7.0）"
       - "ケイ酸（シリカ）を含み硬度60mg/Lの軟水"
@@ -183,6 +189,7 @@ products:
         reviewCount: 21
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_9416005"
         available: true
+    genreId: "201351"
   - rank: 8
     name: "エビアン 天然水 硬水 500mL×24本"
     brand: "evian"
@@ -205,6 +212,7 @@ products:
     recommendedFor: "海外産の硬水を好む方・ミネラル摂取を意識したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fs01299%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10111735%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/guideline/gl01/s01299.jpg?_ex=128x128"
+    genreId: "201351"
   - rank: 9
     name: "安曇野ミネラルウォーター 北アルプス 2L×6本"
     brand: "安曇野"
@@ -227,6 +235,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7169488%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10180096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tenposupport08/4571454860046.jpg?_ex=128x128"
     priceMax: 2080
+    genreId: "201351"
   - rank: 10
     name: "サントリー天然水 南アルプス 2L×12本"
     brand: "サントリー"
@@ -249,6 +258,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00twmen.3rdw6441.g00twmen.3rdw7e0a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzu-onlineshop%2F2255-001097%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuzu-onlineshop%2Fi%2F10000389%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suzu-onlineshop/cabinet/compass1691726585.jpg?_ex=128x128"
     priceMax: 3480
+    genreId: "201351"
 tags:
   - "ミネラルウォーター おすすめ"
   - "天然水 コスパ"

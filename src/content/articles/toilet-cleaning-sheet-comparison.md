@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-09-02"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10137083"
         available: true
+    genreId: "508447"
   - rank: 2
     name: "オレンジオイル配合 トイレクリーナー 30枚入×60個セット"
     brand: "美と健康"
@@ -73,6 +74,7 @@ products:
         reviewCount: 55
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale_4957434002796330"
         available: true
+    genreId: "508447"
   - rank: 3
     name: "流せる トイレクリーナー 除菌 消臭 エンボスシート"
     brand: "ワゴンセール"
@@ -106,6 +108,7 @@ products:
         reviewCount: 43
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale_4988787090024-10"
         available: true
+    genreId: "508447"
   - rank: 4
     name: "激落ちくん 節水トイレクリーナー 流せるシート"
     brand: "レック（LEC）"
@@ -128,6 +131,7 @@ products:
     recommendedFor: "流せるトイレ掃除シートをまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2F4573177599661-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10002537%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/c/c01292_6.jpg?_ex=128x128"
+    genreId: "508447"
   - rank: 5
     name: "激落ちくん 流せる除菌トイレクリーナー 大判"
     brand: "激落ちくん（レック）"
@@ -150,6 +154,7 @@ products:
     recommendedFor: "まずは少量から流せる掃除シートを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s2jfn.3rdw67d5.g00s2jfn.3rdw75cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcolorfulbox%2F310414%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcolorfulbox%2Fi%2F10096152%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/colorfulbox/cabinet/maker_lec8/310414.jpg?_ex=128x128"
+    genreId: "508447"
   - rank: 6
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 20枚"
     brand: "花王（クイックル）"
@@ -216,6 +221,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_4901301510808"
         available: true
+    genreId: "508447"
   - rank: 8
     name: "トイレクイックル 詰め替え ジャンボパック"
     brand: "トイレクイックル（花王）"
@@ -223,7 +229,7 @@ products:
     capacity: "20枚×12個"
     pricePerUnit: "約26円/枚"
     rating: 4.76
-    reviewCount: 358
+    reviewCount: 359
     features:
       - "トイレに流せる厚手の掃除シート"
       - "本体ケースに詰め替えて使うタイプ"
@@ -249,6 +255,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301308566"
         available: true
+    genreId: "508447"
   - rank: 9
     name: "エリエール ミチガエル トイレクリーナー 本体 10枚"
     brand: "大王製紙（エリエール）"
@@ -304,6 +311,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00su2mn.3rdw6afc.g00su2mn.3rdw77f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fu-denki%2F7256844%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fu-denki%2Fi%2F10049024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-denki/cabinet/11925706/7256844-p.jpg?_ex=128x128"
     priceMax: 1570
+    genreId: "216022"
 tags:
   - "トイレ掃除シート おすすめ"
   - "トイレ掃除シート コスパ"

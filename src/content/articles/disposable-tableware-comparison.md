@@ -4,7 +4,7 @@ description: "紙コップ・紙皿など使い捨て食器のおすすめ10選�
 category: "disposable-tableware"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-09-02"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 44
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/koins_1002106"
         available: true
+    genreId: "215980"
   - rank: 2
     name: "紙コップ 7オンス 白無地 業務用 2000個"
     brand: "業務用ペーパーカップ"
@@ -73,6 +74,7 @@ products:
         reviewCount: 430
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_181000"
         available: true
+    genreId: "215980"
   - rank: 3
     name: "紙コップ 7オンス 白無地 50個"
     brand: "よろずやマルシェ"
@@ -95,6 +97,7 @@ products:
     recommendedFor: "まずは少量で試したい方・自宅用にちょうどよい量が欲しい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2F706066%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10052109%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/guideline/gl01/706066.jpg?_ex=128x128"
+    genreId: "215980"
   - rank: 4
     name: "ワサラ 猪口 紙の器 12個セット"
     brand: "WASARA（ワサラ）"
@@ -128,6 +131,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nuts_wa-dm-012r"
         available: true
+    genreId: "215980"
   - rank: 5
     name: "ワサラ コーヒーカップ 紙の器 6個セット"
     brand: "WASARA（ワサラ）"
@@ -161,6 +165,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nuts_wa-dm-011"
         available: true
+    genreId: "215980"
   - rank: 6
     name: "WASARA 紙の器 ボウル セット"
     brand: "WASARA"
@@ -183,6 +188,7 @@ products:
     recommendedFor: "来客用に見栄えのする使い捨て食器を用意したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pajin.3rdw665b.g00pajin.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnuts%2F1032799%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnuts%2Fi%2F10003124%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nuts/cabinet/nuts_gazo/item_kitchen/bowl.jpg?_ex=128x128"
+    genreId: "564993"
   - rank: 7
     name: "ワサラ 角皿 特大 紙の器 6個セット"
     brand: "WASARA（ワサラ）"
@@ -216,6 +222,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nuts_wa-dm-014"
         available: true
+    genreId: "564993"
   - rank: 8
     name: "フジナップ ペーパープレート 13cm 業務用 2400枚"
     brand: "フジナップ"
@@ -249,6 +256,7 @@ products:
         reviewCount: 7
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_215400"
         available: true
+    genreId: "564993"
   - rank: 9
     name: "フジナップ ペーパープレート 15cm 業務用 2400枚"
     brand: "フジナップ"
@@ -282,6 +290,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_215500"
         available: true
+    genreId: "566130"
   - rank: 10
     name: "ワサラ ボウル 500ml 紙の器 6枚入"
     brand: "WASARA（ワサラ）"
@@ -304,6 +313,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qu79n.3rdw63c4.g00qu79n.3rdw7eab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsourire-f%2Fwasara-bowl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsourire-f%2Fi%2F10000412%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sourire-f/cabinet/wasara/bowl_thum01a.jpg?_ex=128x128"
     priceMax: 10560
+    genreId: "564993"
 tags:
   - "使い捨て食器 おすすめ"
   - "紙コップ コスパ"

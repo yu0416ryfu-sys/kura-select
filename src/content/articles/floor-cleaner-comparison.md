@@ -4,7 +4,7 @@ description: "フローリング掃除シートを1枚あたりのコストで�
 category: "floor-cleaner"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "激落ちくん ウェットシート 水の激落ちシート Ba フローリング＆リビング用シー"
@@ -39,6 +39,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_4903320481701"
         available: true
+    genreId: "568230"
   - rank: 2
     name: "クイックルワイパー ドライシート"
     brand: "花王（クイックルワイパー）"
@@ -72,6 +73,7 @@ products:
         available: true
         rating: 4.88
         reviewCount: 24
+    genreId: "568230"
   - rank: 3
     name: "クイックルワイパー 立体吸着ドライシート"
     brand: "花王（クイックルワイパー）"
@@ -105,6 +107,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nicobase_3nico-4901301281999"
         available: true
+    genreId: "568230"
   - rank: 4
     name: "花王 クイックルワイパー 立体吸着ウエットシート 香りが残らないタイプ"
     brand: "花王（クイックルワイパー）"
@@ -138,6 +141,7 @@ products:
         available: true
         rating: 4.81
         reviewCount: 21
+    genreId: "568230"
   - rank: 5
     name: "クイックルワイパー ドライシート 業務用ワイドサイズ"
     brand: "花王"
@@ -171,6 +175,7 @@ products:
         available: true
         rating: 4.92
         reviewCount: 12
+    genreId: "568230"
   - rank: 6
     name: "クイックルワイパー ドライシート 業務用"
     brand: "花王プロフェッショナル"
@@ -204,6 +209,7 @@ products:
         available: true
         rating: 4.92
         reviewCount: 12
+    genreId: "568230"
   - rank: 7
     name: "ウェーブ 超保水 フロアウェットシート 微香タイプ"
     brand: "ユニ・チャーム（ウェーブ）"
@@ -226,6 +232,7 @@ products:
     recommendedFor: "ホコリ・花粉対策を重視する方・毎日の掃除習慣をつけたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00srsfn.3rdw61f5.g00srsfn.3rdw7376/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstacon%2F4903111466115%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstacon%2Fi%2F10054037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/stacon/cabinet/2022-0921/4903111466115_1.jpg?_ex=128x128"
+    genreId: "401612"
   - rank: 8
     name: "【20枚/40枚】【スターターセット】フローリングワイパー用"
     brand: "アイリスオーヤマ"
@@ -259,6 +266,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksdenki_4967576731652"
         available: true
     priceMax: 1001
+    genreId: "568230"
   - rank: 9
     name: "クイックルワイパー ワイド 立体吸着ドライシート 業務用"
     brand: "花王"
@@ -292,6 +300,7 @@ products:
         rating: 4.92
         reviewCount: 12
     priceMax: 19720
+    genreId: "101839"
   - rank: 10
     name: "クイックルワイパー 立体吸着ウェットシート"
     brand: "花王（クイックルワイパー）"
@@ -325,6 +334,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_sk5254"
         available: true
     priceMax: 2623
+    genreId: "568230"
 tags:
   - "フローリングシート おすすめ"
   - "床掃除 コスパ"

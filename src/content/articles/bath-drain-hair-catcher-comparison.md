@@ -4,7 +4,7 @@ description: "浴室排水口ヘアキャッチャーを1個あたりのコス�
 category: "bath-drain-hair-catcher"
 publishedAt: "2026-06-04"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,7 @@ products:
     recommendedFor: "樹脂製の定番ヘアキャッチャーを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ssgkn.3rdw616d.g00ssgkn.3rdw768f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fti-am%2F10000658%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fti-am%2Fi%2F10000487%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ti-am/cabinet/tuujou01/11sanei/ph397-0.jpg?_ex=128x128"
+    genreId: "101838"
   - rank: 2
     name: "TOKAIZ ステンレス 排水口ゴミ受け ヘアキャッチャー"
     brand: "TOKAIZ"
@@ -51,6 +52,7 @@ products:
     recommendedFor: "ネット付きで始めたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0w7n.3rdw68ea.g00s0w7n.3rdw7982/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fysmya%2F80002296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fysmya%2Fi%2F10012656%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ysmya/cabinet/13755558/80002296logotest1.jpg?_ex=128x128"
+    genreId: "101838"
   - rank: 3
     name: "ヘアーキャッチャー お風呂の排水口用 ミューファン"
     brand: "シンカテック"
@@ -73,6 +75,7 @@ products:
     recommendedFor: "排水口ネットを使ってゴミを捨てたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F465592%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10210964%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_sinka1/465592.jpg?_ex=128x128"
+    genreId: "101838"
   - rank: 4
     name: "HUBATH お風呂 マグネット ヘアーキャッチャー TT104"
     brand: "シンカテック"
@@ -80,7 +83,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2420円/個"
     rating: 4.7
-    reviewCount: 2406
+    reviewCount: 2408
     features:
       - "TOTO対応サイズのヘアーキャッチャー"
       - "浴室排水口向けのステンレス製"
@@ -95,6 +98,7 @@ products:
     recommendedFor: "TOTO系浴室の目皿交換候補を探す方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s7h3n.3rdw6d0e.g00s7h3n.3rdw7585/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsinkatec%2Fhu_thair_catcher%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsinkatec%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkatec/cabinet/sale/tt_p5_260904.jpg?_ex=128x128"
+    genreId: "101838"
   - rank: 5
     name: "HUBATH お風呂 マグネット ヘアーキャッチャー STD140"
     brand: "シンカテック"
@@ -102,7 +106,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2530円/個"
     rating: 4.62
-    reviewCount: 4892
+    reviewCount: 4899
     features:
       - "浴室排水口向けのステンレス製"
       - "マグネット式のヘアーキャッチャー"
@@ -117,6 +121,7 @@ products:
     recommendedFor: "ステンレス製の標準サイズを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s7h3n.3rdw6d0e.g00s7h3n.3rdw7585/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsinkatec%2Fhu_mhair_catcher%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsinkatec%2Fi%2F10000428%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkatec/cabinet/sale/cd_p5_260904.jpg?_ex=128x128"
+    genreId: "101838"
   - rank: 6
     name: "dailysmile ステンレス 排水口カバー ヘアーキャッチャー"
     brand: "dailysmile"
@@ -139,6 +144,7 @@ products:
     recommendedFor: "ネット付きステンレス型を検討したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7an.3rdw60d8.g00un7an.3rdw7e7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdailysmile%2Fl5hm069%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdailysmile%2Fi%2F10000213%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dailysmile/cabinet/homekitchen2/l5hm069_test.jpg?_ex=128x128"
+    genreId: "565605"
   - rank: 7
     name: "KEEPFINE 抗菌ヘアキャッチャー 102mm用"
     brand: "KEEPFINE"
@@ -161,6 +167,7 @@ products:
     recommendedFor: "ステンレス製の置くだけタイプを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ur6mn.3rdw6a14.g00ur6mn.3rdw75cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffinelifestyle%2Fncc0302%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffinelifestyle%2Fi%2F10000025%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/finelifestyle/cabinet/keepfine/haircatch142kokin/imgrc0109222928.jpg?_ex=128x128"
+    genreId: "101838"
   - rank: 8
     name: "髪の毛くるくるポイ"
     brand: "ウエルスジャパン"
@@ -194,13 +201,14 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fabric-cute_4580356840049"
         available: true
     priceMax: 2280
+    genreId: "101839"
   - rank: 9
     name: "Magico かくれんぼネットホルダー"
     brand: "Magico"
     price: 1000
     capacity: "1個"
     rating: 4.66
-    reviewCount: 644
+    reviewCount: 647
     features:
       - "浴室排水口向けのネットホルダー"
       - "排水口ネットを隠しやすい構造"
@@ -216,6 +224,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rzdpn.3rdw67f2.g00rzdpn.3rdw7df7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkweg%2Fmagico_drainnetholder%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkweg%2Fi%2F10000238%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kweg/cabinet/items/magico/drainnetholder_v2/kakurenbo_kumogata.jpg?_ex=128x128"
     priceMax: 1980
+    genreId: "101839"
   - rank: 10
     name: "HUROYAMA ヘアキャッチャー Ag+"
     brand: "HUROYAMA"
@@ -238,6 +247,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s6aun.3rdw6e7e.g00s6aun.3rdw7227/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finter-bb%2Fhy-hc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finter-bb%2Fi%2F10000222%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inter-bb/cabinet/huroyama/haircatcher/sqr/hc_new_thumbnail02.jpg?_ex=128x128"
     priceMax: 2480
+    genreId: "101838"
 tags:
   - "浴室排水口ヘアキャッチャー おすすめ"
   - "お風呂 排水口 ゴミ受け コスパ"

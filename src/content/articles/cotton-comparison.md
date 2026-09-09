@@ -4,7 +4,7 @@ description: "化粧用コットンはどれが安くてコスパがいい？シ
 category: "cotton"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "業務用フェイシャルコットン エステ化粧用"
@@ -39,6 +39,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthemart_etf-cotton56"
         available: true
+    genreId: "111797"
   - rank: 2
     name: "コットンパフ カット綿 大判"
     brand: "7エステ"
@@ -61,6 +62,7 @@ products:
     recommendedFor: "コットンを日常的に多めに使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbjkn.3rdw681d.g00qbjkn.3rdw7a7f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F7esthe-pro%2F10000740%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F7esthe-pro%2Fi%2F10000740%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/7esthe-pro/cabinet/esthe/goods_expendable_2/10445_88.jpg?_ex=128x128"
+    genreId: "111797"
   - rank: 3
     name: "業務用フェイシャルコットン"
     brand: "エステマート"
@@ -94,6 +96,7 @@ products:
         available: true
         rating: 5
         reviewCount: 5
+    genreId: "111797"
   - rank: 4
     name: "【1点限り！令和お試し価格】ユニ・チャーム シルコット うるうる コットン"
     brand: "ユニ・チャーム（シルコット）"
@@ -127,6 +130,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "111797"
   - rank: 5
     name: "フェイシャルコットンパッド"
     brand: "Luvum"
@@ -149,6 +153,7 @@ products:
     recommendedFor: "コットンパッドを少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5myn.3rdw6d6d.g00u5myn.3rdw7a77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyeppeuda%2Fluvum-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyeppeuda%2Fi%2F10000127%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yeppeuda/cabinet/luvum/luvum_00/luvum-4_00.jpg?_ex=128x128"
+    genreId: "562084"
   - rank: 6
     name: "フェイシャルコットンパッド セット"
     brand: "Luvum"
@@ -171,6 +176,7 @@ products:
     recommendedFor: "韓国コスメ系のコットンパッドをまとめて使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5myn.3rdw6d6d.g00u5myn.3rdw7a77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyeppeuda%2Fluvumset-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyeppeuda%2Fi%2F10000132%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yeppeuda/cabinet/luvum/luvum_00/luvumset-5_00.jpg?_ex=128x128"
+    genreId: "562084"
   - rank: 7
     name: "クオリティー コットン"
     brand: "SK-II"
@@ -193,6 +199,7 @@ products:
     recommendedFor: "ブランドラインの使い心地を重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00siy3n.3rdw6c23.g00siy3n.3rdw73c7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsk-ii%2Fsk2cotton%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsk-ii%2Fi%2F10003320%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sk-ii/cabinet/item/thumb/2606/sk2cotton.jpg?_ex=128x128"
+    genreId: "111797"
   - rank: 8
     name: "花王　ビオレ　メイク落とし　ふくだけコットン　つめかえ用　詰め替え用　クレンジン"
     brand: "花王（ビオレ）"
@@ -226,6 +233,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10034333"
         available: true
+    genreId: "502976"
 tags:
   - "コットン おすすめ"
   - "コットンパッド コスパ"

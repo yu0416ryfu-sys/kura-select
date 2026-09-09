@@ -4,7 +4,7 @@ description: "パンツ型おむつのBIGサイズを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -29,6 +29,7 @@ products:
     recommendedFor: "ビッグサイズ帯で日中のコストを抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4901301426017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10541286%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0086/4901301426017_1.jpg?_ex=128x128"
+    genreId: "205198"
   - rank: 2
     name: "ムーニーマン 汗スッキリ 男女共用 ビッグ"
     brand: "ユニ・チャーム"
@@ -36,7 +37,7 @@ products:
     capacity: "36枚×4袋"
     pricePerUnit: "約47円/枚"
     rating: 4.76
-    reviewCount: 88
+    reviewCount: 90
     features:
       - "汗による蒸れを逃がす設計"
       - "12〜22kgのビッグサイズ帯に対応"
@@ -51,6 +52,7 @@ products:
     recommendedFor: "きょうだいで兼用したいビッグサイズ帯のお子さん"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4903111128440%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10044894%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/440/4903111128440.jpg?_ex=128x128"
+    genreId: "205198"
   - rank: 3
     name: "パンパース さらさらケア パンツ スーパージャンボ ビッグ"
     brand: "パンパース（P&G）"
@@ -84,6 +86,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430148948"
         available: true
+    genreId: "205198"
   - rank: 4
     name: "パンパース パンツ さらさらケア スーパージャンボ ビッグ"
     brand: "P&G（パンパース）"
@@ -117,6 +120,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hikaritv_2010125886"
         available: true
+    genreId: "205198"
   - rank: 5
     name: "メリーズ パンツ ファーストプレミアム ビッグ"
     brand: "花王（メリーズ）"
@@ -150,6 +154,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujiyaku_4901301396563-4"
         available: true
+    genreId: "205198"
   - rank: 6
     name: "メリーズ エアスルー パンツ ビッグより大きいサイズ"
     brand: "花王（メリーズ）"
@@ -183,6 +188,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301442918-3"
         available: true
+    genreId: "205198"
   - rank: 7
     name: "ムーニーマン パンツ スーパービッグ 女の子"
     brand: "ムーニーマン（ユニ・チャーム）"
@@ -216,6 +222,7 @@ products:
         reviewCount: 20
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_8186043"
         available: true
+    genreId: "205198"
   - rank: 8
     name: "ムーニーマン パンツ スーパービッグ 男の子"
     brand: "ユニ・チャーム"
@@ -249,6 +256,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4903111171675x6"
         available: true
+    genreId: "205198"
 tags:
   - "パンツ型おむつ おすすめ"
   - "パンツ型おむつ コスパ"

@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -41,6 +41,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsutsu-uraura_toyo-ear-2s"
         available: true
+    genreId: "212141"
   - rank: 2
     name: "エアロクリーン ニューAC エアコンフィルター 3枚入"
     brand: "東和産業"
@@ -73,6 +74,7 @@ products:
         available: true
         matchStatus: "matched"
         updatedAt: "2026-05-27"
+    genreId: "212105"
   - rank: 3
     name: "エアコンフィルター 5枚入"
     brand: "東和産業"
@@ -107,6 +109,7 @@ products:
         available: true
         matchStatus: "pending"
         updatedAt: "2026-05-19"
+    genreId: "212105"
   - rank: 4
     name: "パッと貼るだけホコリとりフィルター エアコン用 10個セット"
     brand: "東洋アルミ"
@@ -129,6 +132,7 @@ products:
     recommendedFor: "長期ストックでコスパを重視したい方・まとめ買いで補充の手間を減らしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t9gln.3rdw61c2.g00t9gln.3rdw7522/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffirst34%2Fkaj-250805g0030510%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffirst34%2Fi%2F25127395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/first34/cabinet/image_sku/26032012_set_10/1890.jpg?_ex=128x128"
+    genreId: "101833"
   - rank: 5
     name: "エアコン内部フィルター ペタらく"
     brand: "ペタらく"
@@ -151,12 +155,13 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ty7xn.3rdw602e.g00ty7xn.3rdw73a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftuhan-ya-2%2F391770%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftuhan-ya-2%2Fi%2F10041601%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tuhan-ya-2/cabinet/tmb/0391770.jpg?_ex=128x128"
+    genreId: "212141"
   - rank: 6
     name: "東洋アルミ ウイルス対策ホコリとりフィルター エアコン・空気清浄機用 3個"
     brand: "東洋アルミ"
-    price: 1995
+    price: 2000
     capacity: "1枚×3個（3枚）"
-    pricePerUnit: "約665円/枚"
+    pricePerUnit: "約667円/枚"
     rating: 4
     reviewCount: 2
     features:
@@ -173,6 +178,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00txw5n.3rdw6312.g00txw5n.3rdw7ed3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthree-s-mart%2Fonp-4901987254072-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthree-s-mart%2Fi%2F10001172%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/three-s-mart/cabinet/4901987254072-31.jpg?_ex=128x128"
+    genreId: "112779"
   - rank: 7
     name: "スターフィルター カビブロックバイオ酵素フィルター エアコン用 2枚入"
     brand: "スターフィルター"
@@ -195,6 +201,7 @@ products:
     recommendedFor: "カビや臭い対策を重視する方、エアコン洗浄後のメンテナンスに使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s1l0n.3rdw6a90.g00s1l0n.3rdw70d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfilter%2Fsf100003-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarfilter%2Fi%2F10000090%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/starfilter/cabinet/item/main/imgrc0133123266.jpg?_ex=128x128"
+    genreId: "212105"
   - rank: 8
     name: "エアークエストグリーン38 エアコンフィルター 2枚入"
     brand: "エアークエスト"
@@ -228,6 +235,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/douguyasan_p5-tasco-ta981ag-2"
         available: true
+    genreId: "212105"
   - rank: 9
     name: "CleAirWin エアコンフィルター家庭用 抗菌 抗ウイルス 400×800mm"
     brand: "空気の王様"
@@ -250,6 +258,7 @@ products:
     recommendedFor: "ウイルス対策・花粉対策を兼ねたい方・高機能なフィルターにこだわりたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q0men.3rdw60af.g00q0men.3rdw7e6b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuteteko%2Fcra002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuteteko%2Fi%2F10045452%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suteteko/cabinet/fd070/cra002-1.jpg?_ex=128x128"
+    genreId: "212105"
   - rank: 10
     name: "ペタッとキャッチ エアコンフィルター"
     brand: "新北九州工業"
@@ -283,6 +292,7 @@ products:
         rating: 0
         reviewCount: 0
     priceMax: 5478
+    genreId: "101839"
 tags:
   - "エアコンフィルター おすすめ"
   - "エアコンフィルター コスパ"

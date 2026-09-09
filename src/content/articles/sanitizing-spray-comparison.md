@@ -4,7 +4,7 @@ description: "除菌スプレー・アルコールを1mLあたりのコストで
 category: "sanitizing-spray"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "カビキラー アルコール除菌 キッチン用 詰め替え用【カビキラー】[アルコールスプ"
@@ -39,6 +39,7 @@ products:
         reviewCount: 8
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_nj04120"
         available: true
+    genreId: "208238"
   - rank: 2
     name: "フマキラー キッチン用 アルコール除菌スプレー つめかえ用【フマキラー アルコー"
     brand: "フマキラー"
@@ -72,6 +73,7 @@ products:
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10130857"
         available: true
+    genreId: "208238"
   - rank: 3
     name: "手ピカスプレー 消毒用アルコール"
     brand: "健栄製薬（手ピカ）"
@@ -94,6 +96,7 @@ products:
     recommendedFor: "手指消毒がメインの方・手荒れが気になる方・医薬部外品を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F103-4987286415437-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12254363%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/yy/4987286415437.jpg?_ex=128x128"
+    genreId: "568364"
   - rank: 4
     name: "微酸性次亜塩素酸水"
     brand: "すこやかこまち"
@@ -127,6 +130,7 @@ products:
         reviewCount: 12
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sukoyakakomachi_aqarfa1l"
         available: true
+    genreId: "401619"
   - rank: 5
     name: "微酸性次亜塩素酸水 スプレー 500mL×3本"
     brand: "すこやかこまち"
@@ -149,6 +153,7 @@ products:
     recommendedFor: "除菌スプレーを用途と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rt83n.3rdw6209.g00rt83n.3rdw7241/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsukoyakakomachi%2Faqarfa500mlx3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsukoyakakomachi%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/sukoyakakomachi/banner/r_syohin_af5003.jpg?_ex=128x128"
+    genreId: "206187"
   - rank: 6
     name: "シュシュキッキ 除菌消臭ミスト"
     brand: "シュシュキッキ"
@@ -171,6 +176,7 @@ products:
     recommendedFor: "除菌スプレーを用途と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptlfn.3rdw66e3.g00ptlfn.3rdw7472/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnakano-d%2Fkesisaru-250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnakano-d%2Fi%2F10015729%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nakano-d/cabinet/brand/bracebe/pic/chouchoukikki_300_1.jpg?_ex=128x128"
+    genreId: "401619"
   - rank: 7
     name: "ブテナロック 除菌抗菌スプレー 180ml"
     brand: "ブテナロック"
@@ -204,6 +210,7 @@ products:
         available: true
         rating: 4.47
         reviewCount: 32
+    genreId: "409431"
   - rank: 8
     name: "シュシュキッキ 除菌消臭ミスト 携帯サイズ"
     brand: "シュシュキッキ"
@@ -237,6 +244,7 @@ products:
         available: true
         rating: 4.28
         reviewCount: 29
+    genreId: "401619"
   - rank: 9
     name: "＆wpaia 除菌消臭スプレーセット"
     brand: "＆wpaia"
@@ -259,6 +267,7 @@ products:
     recommendedFor: "除菌スプレーを用途と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tfaun.3rdw63b0.g00tfaun.3rdw7d50/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fandwpaia%2Fandwpaia_100x300x600_copy%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fandwpaia%2Fi%2F10000035%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/andwpaia/cabinet/07621536/imgrc0089044303.jpg?_ex=128x128"
+    genreId: "401619"
 tags:
   - "除菌スプレー"
   - "アルコール"

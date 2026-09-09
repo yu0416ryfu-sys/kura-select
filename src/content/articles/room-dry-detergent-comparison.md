@@ -4,7 +4,7 @@ description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底�
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "部屋干しトップ 除菌EX 詰替 810g×10個"
@@ -47,6 +47,7 @@ products:
         matchConfidence: "high"
         matchedCapacity: "810g×10個"
         updatedAt: "2026-07-16T00:00:00.000Z"
+    genreId: "210182"
   - rank: 2
     name: "アタック 抗菌EX 部屋干し用 つめかえ用 2030g"
     brand: "花王（アタック）"
@@ -121,6 +122,7 @@ products:
         matchedCapacity: "1510g×2個"
         matchNotes: "入数違い採用（楽天は1510g×6個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
+    genreId: "210182"
   - rank: 4
     name: "アリエール 液体 部屋干しプラス 詰め替え 超ジャンボ 1.21kg（超ジャンボサイズ）"
     brand: "P&G（アリエール）"
@@ -143,6 +145,7 @@ products:
     recommendedFor: "アリエール液体タイプで部屋干し対策をまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7260888%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10217200%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/7280525.jpg?_ex=128x128"
+    genreId: "210182"
   - rank: 5
     name: "ハイベック プレミアムドライ"
     brand: "ハイベック"
@@ -176,6 +179,7 @@ products:
         available: true
         rating: 4.7
         reviewCount: 20
+    genreId: "210182"
   - rank: 6
     name: "サンベック高級洗剤"
     brand: "サンベック"
@@ -183,7 +187,7 @@ products:
     capacity: "1000g"
     pricePerUnit: "約6.4円/g"
     rating: 4.7
-    reviewCount: 652
+    reviewCount: 653
     features:
       - "おしゃれ着やドライマーク衣類向けの洗剤"
       - "ニットやスーツなどに使いやすい"
@@ -198,6 +202,7 @@ products:
     recommendedFor: "おしゃれ着用洗剤を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsb1000-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000195%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/18sb.jpg?_ex=128x128"
+    genreId: "210182"
   - rank: 7
     name: "サンベックドライ洗剤"
     brand: "サンベック"
@@ -231,6 +236,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tamari-do_li08c865d17f"
         available: true
+    genreId: "210182"
   - rank: 8
     name: "おまかせドライ"
     brand: "ファーファ"
@@ -264,6 +270,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "210182"
   - rank: 9
     name: "アリエール ジェルボール4D 部屋干し用 詰め替え 92個"
     brand: "P&G（アリエール）"
@@ -297,6 +304,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "101172"
   - rank: 10
     name: "プロ・ウォッシュ おしゃれ着洗剤"
     brand: "プロ・ウォッシュ"
@@ -319,6 +327,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2b0n.3rdw6085.g00r2b0n.3rdw7a27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faspa%2Farigatou004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faspa%2Fi%2F10000003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aspa/cabinet/item/item280/pro_700_w.jpg?_ex=128x128"
     priceMax: 9240
+    genreId: "210182"
 tags:
   - "部屋干し"
   - "洗濯洗剤"

@@ -4,7 +4,7 @@ description: "パンツ型おむつのMサイズを1枚あたりの価格で比�
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_4901301443502-2"
         available: true
+    genreId: "205198"
   - rank: 2
     name: "メリーズ パンツ 素肌さらさらエアスルー Mサイズ"
     brand: "花王（メリーズ）"
@@ -73,14 +74,15 @@ products:
         reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/reonstyle_a4901301422057"
         available: true
+    genreId: "205198"
   - rank: 3
     name: "メリーズパンツ エアスルー Mサイズ"
     brand: "メリーズ（花王）"
     price: 4779
     capacity: "52枚×3個（6〜11kg）"
     pricePerUnit: "約31円/枚"
-    rating: 4.9
-    reviewCount: 10
+    rating: 4.92
+    reviewCount: 12
     features:
       - "通気性を重視した素肌さらさらエアスルー設計"
       - "Mサイズのまとめ買い構成"
@@ -106,6 +108,7 @@ products:
         reviewCount: 11
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301418579-3"
         available: true
+    genreId: "205198"
   - rank: 4
     name: "ムーニーマン パンツ Mサイズ"
     brand: "ユニ・チャーム"
@@ -139,6 +142,7 @@ products:
         reviewCount: 296
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_p648079"
         available: true
+    genreId: "205198"
   - rank: 5
     name: "メリーズ パンツ Mサイズ 大容量パック"
     brand: "メリーズ（花王）"
@@ -161,6 +165,7 @@ products:
     recommendedFor: "倉庫型店舗の大容量パックを通販で確保したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F10002250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10002250%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/151076402495518.jpg?_ex=128x128"
+    genreId: "205198"
   - rank: 6
     name: "メリーズ ずっと肌さらエアスルー Mサイズ ケースセット"
     brand: "メリーズ（花王）"
@@ -216,6 +221,7 @@ products:
         reviewCount: 12
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_au51038"
         available: true
+    genreId: "205198"
 tags:
   - "パンツ型おむつ おすすめ"
   - "パンツ型おむつ コスパ"

@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 90
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/little-hands_bl0516"
         available: true
+    genreId: "216058"
   - rank: 2
     name: "ジェットストリーム 名入れ 多機能ボールペン 限定"
     brand: "uni（三菱鉛筆）"
@@ -62,6 +63,7 @@ products:
     recommendedFor: "限定カラーで個性を出したい方・特別な卒団・卒業記念品を贈りたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbsyn.3rdw622d.g00qbsyn.3rdw79de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbugyo%2Fe06-21-660%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbugyo%2Fi%2F10006340%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/icon/sale/e06-21-660_c100.jpg?_ex=128x128"
+    genreId: "205824"
   - rank: 3
     name: "パーカー IM ボールペン"
     brand: "Parker（パーカー）"
@@ -84,13 +86,14 @@ products:
     recommendedFor: "海外ブランドの品質感を求める方・ビジネスギフトを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rviqn.3rdw6978.g00rviqn.3rdw793e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaireya%2Fparkerim%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaireya%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naireya/cabinet/item/parker/parker-bp-im-mbk.jpg?_ex=128x128"
+    genreId: "216058"
   - rank: 4
     name: "ジェットストリーム 名入れ 多機能ボールペン 新色"
     brand: "uni（三菱鉛筆）"
     price: 1000
     capacity: "1本（4色ボールペン+シャープペンシル）"
     rating: 4.78
-    reviewCount: 13618
+    reviewCount: 13626
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"
@@ -115,6 +118,7 @@ products:
         matchStatus: "rejected"
         updatedAt: "2026-05-22"
     priceMax: 1627
+    genreId: "205824"
   - rank: 5
     name: "PARKER IM ボールペン"
     brand: "PARKER"
@@ -146,6 +150,7 @@ products:
         matchStatus: "rejected"
         updatedAt: "2026-05-22"
     priceMax: 5225
+    genreId: "216058"
   - rank: 6
     name: "木製ボールペン 名入れ ケースセット"
     brand: "福来館"
@@ -168,6 +173,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pus9n.3rdw6c57.g00pus9n.3rdw7ed1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuraikan%2F3502-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuraikan%2Fi%2F10020594%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuraikan/cabinet/12089717/imgrc0145999489.jpg?_ex=128x128"
     priceMax: 3600
+    genreId: "216058"
   - rank: 7
     name: "CROSS ATX 名入れボールペン"
     brand: "CROSS"
@@ -190,6 +196,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tlg5n.3rdw6c53.g00tlg5n.3rdw7b17/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshoppress%2Fcrossn882%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshoppress%2Fi%2F10000169%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shoppress/cabinet/cross/crossn882a_1.jpg?_ex=128x128"
     priceMax: 4950
+    genreId: "216058"
   - rank: 8
     name: "ジェットストリーム 4&1 多機能ボールペン 名入れ 0.5mm"
     brand: "uni（三菱鉛筆）"
@@ -212,6 +219,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q656n.3rdw61ae.g00q656n.3rdw7d60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbunbougu-shibuya%2Fmsxe5-1000-05n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbunbougu-shibuya%2Fi%2F10074288%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bunbougu-shibuya/cabinet/73/msxe5-1000n_.jpg?_ex=128x128"
     priceMax: 1320
+    genreId: "205824"
   - rank: 9
     name: "ジェットストリーム 4+1 MSXE5-1000 名入れ無料"
     brand: "uni（三菱鉛筆）"
@@ -234,6 +242,7 @@ products:
     recommendedFor: "名入れコストを抑えたい方・まとめてギフトを手配したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qm7tn.3rdw6475.g00qm7tn.3rdw747f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-youstyle%2Fmit-msxe5-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-youstyle%2Fi%2F10066665%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-youstyle/cabinet/rakulogo/rakulogo1/r1069_00007.jpg?_ex=128x128"
+    genreId: "205824"
   - rank: 10
     name: "サラサグランド ビンテージ ジェルボールペン"
     brand: "ZEBRA（ゼブラ）"
@@ -256,6 +265,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q020n.3rdw6d49.g00q020n.3rdw75a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fogawahan%2F10008119%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fogawahan%2Fi%2F10008119%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ogawahan/cabinet/sho06/sarasa/sarasa2026-naire-01.jpg?_ex=128x128"
     priceMax: 1980
+    genreId: "216058"
 tags:
   - "ボールペン おすすめ"
   - "ボールペン コスパ"

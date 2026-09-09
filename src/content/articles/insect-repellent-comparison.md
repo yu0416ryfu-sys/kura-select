@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         available: true
         rating: 4.53
         reviewCount: 15
+    genreId: "401642"
   - rank: 2
     name: "サラテクト 無香料"
     brand: "アース製薬"
@@ -81,6 +82,7 @@ products:
         matchConfidence: "high"
         matchedCapacity: "100mL"
         updatedAt: "2026-07-16T00:00:00.000Z"
+    genreId: "553423"
   - rank: 3
     name: "家中どこでも虫キライスプレー"
     brand: "ウッディラボ"
@@ -122,6 +124,7 @@ products:
         matchConfidence: "high"
         matchedCapacity: "250mL（本体）"
         updatedAt: "2026-07-16T00:00:00.000Z"
+    genreId: "401642"
   - rank: 4
     name: "KINCHO プレシャワー DFミスト プレミアガード 無香料 120mL"
     brand: "大日本除虫菊（KINCHO）"
@@ -155,6 +158,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4987115540569"
         available: true
+    genreId: "401642"
   - rank: 5
     name: "選べるアロマスプレー 虫除け 3本セット"
     brand: "ease-aroma"
@@ -177,6 +181,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qfl9n.3rdw60bc.g00qfl9n.3rdw7fb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fease-aroma%2F10002751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fease-aroma%2Fi%2F10002751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ease-aroma/cabinet/spray/spray3hon_s_01.jpg?_ex=128x128"
+    genreId: "216082"
   - rank: 6
     name: "パーフェクトポーション アウトドアボディスプレー 100mL"
     brand: "PERFECT POTION"
@@ -210,6 +215,7 @@ products:
         available: true
         rating: 4.88
         reviewCount: 17
+    genreId: "101882"
   - rank: 7
     name: "ヒバNON NON"
     brand: "ダイレクトテレショップ"
@@ -232,6 +238,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pqorn.3rdw6854.g00pqorn.3rdw7e1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftv-ya%2Fhibanonnon-a-2-p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftv-ya%2Fi%2F10002598%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hibanonnon-a-2-p/thum/hibanonnon-a-2-p.jpg?_ex=128x128"
     priceMax: 15288
+    genreId: "401642"
   - rank: 8
     name: "アンチバグ プレミアム"
     brand: "AROMICstyle"
@@ -265,6 +272,7 @@ products:
         rating: 4.69
         reviewCount: 29
     priceMax: 3580
+    genreId: "401642"
   - rank: 9
     name: "安全安心 虫除けスプレー"
     brand: "無添加工房 OKADA"
@@ -287,6 +295,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ppoyn.3rdw6621.g00ppoyn.3rdw79a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsafe%2F580481%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsafe%2Fi%2F10000010%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/safe/cabinet/2309_sku_img/580481.jpg?_ex=128x128"
     priceMax: 13860
+    genreId: "401642"
 tags:
   - "虫除けスプレー おすすめ"
   - "虫除けスプレー コスパ"

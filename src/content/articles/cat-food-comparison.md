@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         available: true
         rating: 4.73
         reviewCount: 743
+    genreId: "565724"
   - rank: 2
     name: "ペットライブラリー ピュアボウル グレインフリー 7歳以上 800g"
     brand: "ペットライブラリー"
@@ -73,6 +74,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "565724"
   - rank: 3
     name: "ナチュラルバランス オリジナルウルトラ"
     brand: "Natural Balance"
@@ -106,6 +108,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cell-apt_c-2801-800-2"
         available: true
+    genreId: "565724"
   - rank: 4
     name: "キアオラ キャットフード カンガルー 2.7kg"
     brand: "キアオラ"
@@ -139,6 +142,7 @@ products:
         reviewCount: 21
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petoukoku_42"
         available: true
+    genreId: "565724"
   - rank: 5
     name: "ねこままちょいす ドライフード 成猫用 500g"
     brand: "犬猫自然食本舗"
@@ -161,6 +165,7 @@ products:
     recommendedFor: "国産・無添加フードを選びたい成猫オーナー・添加物を気にする方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ryhin.3rdw69af.g00ryhin.3rdw7f8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finunekohonpo%2F90053%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finunekohonpo%2Fi%2F10000280%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inunekohonpo/cabinet/cf/nekomama/nekomama_new2023se.jpg?_ex=128x128"
+    genreId: "565724"
   - rank: 6
     name: "ピュリナワン キャット"
     brand: "PURINA ONE"
@@ -194,6 +199,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4902201210980"
         available: true
+    genreId: "565724"
   - rank: 7
     name: "ロイヤルカナン インドア 7+ 室内中高齢猫用 3.5kg"
     brand: "ロイヤルカナン"
@@ -227,13 +233,14 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687310"
         available: true
     priceMax: 20518
+    genreId: "565724"
   - rank: 8
     name: "ロイヤルカナン インドア 4kg"
     brand: "ロイヤルカナン"
     price: 5980
     capacity: "4kg"
     rating: 4.65
-    reviewCount: 696
+    reviewCount: 697
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -260,6 +267,7 @@ products:
         rating: 4.75
         reviewCount: 1388
     priceMax: 11536
+    genreId: "565724"
   - rank: 9
     name: "ロイヤルカナン キトン"
     brand: "ロイヤルカナン"
@@ -293,13 +301,14 @@ products:
         rating: 4.75
         reviewCount: 864
     priceMax: 21414
+    genreId: "565724"
   - rank: 10
     name: "ニュートロ ナチュラルチョイス キャット"
     brand: "ニュートロ"
     price: 3980
     capacity: "2kg"
     rating: 4.69
-    reviewCount: 940
+    reviewCount: 944
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -326,6 +335,7 @@ products:
         rating: 4.68
         reviewCount: 118
     priceMax: 4180
+    genreId: "565724"
 tags:
   - "キャットフード おすすめ"
   - "キャットフード コスパ"

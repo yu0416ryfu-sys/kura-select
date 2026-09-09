@@ -4,7 +4,7 @@ description: "生理用ナプキンはどれがコスパ最強？ソフィ・ロ
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20.5cm"
@@ -39,6 +39,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_600587"
         available: true
+    genreId: "402761"
   - rank: 2
     name: "ソフィ はだおもい 特に多い昼用 230 羽つき 20枚入"
     brand: "ユニ・チャーム（ソフィ）"
@@ -72,6 +73,7 @@ products:
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4903111363407"
         available: true
+    genreId: "402761"
   - rank: 3
     name: "ソフィ はだおもい オーガニックコットン 特に多い昼用 230 羽つき 15枚入*3袋セット"
     brand: "ユニ・チャーム（ソフィ）"
@@ -105,6 +107,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_62688"
         available: true
+    genreId: "402761"
   - rank: 4
     name: "ソフィ はだおもい 多い夜用 羽つき 29cm 10枚入"
     brand: "ユニ・チャーム（ソフィ）"
@@ -138,6 +141,7 @@ products:
         reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4903111363582"
         available: true
+    genreId: "402761"
   - rank: 5
     name: "エリス 朝まで超安心 クリニクス 量が心配な人用 羽つき 40cm 10枚入*3袋セット"
     brand: "大王製紙（エリス）"
@@ -171,6 +175,7 @@ products:
         reviewCount: 17
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_20497"
         available: true
+    genreId: "402761"
   - rank: 6
     name: "エリス 朝まで超安心 クリニクス 量が心配な人用 羽つき 40cm 10枚入"
     brand: "大王製紙（エリス）"
@@ -204,6 +209,7 @@ products:
         reviewCount: 21
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/finespharma_4902011881349"
         available: true
+    genreId: "402761"
   - rank: 7
     name: "ナチュラムーン 生理用ナプキン 普通の日用 羽なし 24個入"
     brand: "ナチュラムーン"
@@ -237,6 +243,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/happy-natural_018004000003"
         available: true
+    genreId: "402761"
   - rank: 8
     name: "ロリエ スリムガード 特に多い昼用 羽つき 19個入"
     brand: "花王（ロリエ）"
@@ -270,6 +277,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/drmart-1_cm-516393"
         available: true
+    genreId: "402761"
   - rank: 9
     name: "シシフィーユ ナプキン 23.5cm 多い日用 20個入"
     brand: "シシフィーユ"
@@ -303,6 +311,7 @@ products:
         reviewCount: 19
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_s0370008"
         available: true
+    genreId: "402761"
   - rank: 10
     name: "ロリエ スリムガード 特に多い夜用 羽つき 13個入"
     brand: "花王（ロリエ）"
@@ -336,6 +345,7 @@ products:
         reviewCount: 24
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301264992"
         available: true
+    genreId: "402761"
 tags:
   - "ナプキン おすすめ"
   - "生理用品 コスパ"

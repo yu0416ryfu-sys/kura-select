@@ -4,7 +4,7 @@ description: "重曹・セスキ炭酸ソーダ・クエン酸などのナチュ
 category: "natural-cleaning"
 articleType: "comparison"
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 133
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki25"
         available: true
+    genreId: "216027"
   - rank: 2
     name: "セスキ炭酸ソーダ 5kg×3袋"
     brand: "NICHIGA（ニチガ）"
@@ -73,6 +74,7 @@ products:
         reviewCount: 113
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki15"
         available: true
+    genreId: "216027"
   - rank: 3
     name: "アームアンドハンマー ベーキングソーダ 6.1kg"
     brand: "Arm & Hammer（アームアンドハンマー）"
@@ -106,6 +108,7 @@ products:
         reviewCount: 10
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos01029"
         available: true
+    genreId: "216027"
   - rank: 4
     name: "セスキ炭酸ソーダ 5kg"
     brand: "NICHIGA（ニチガ）"
@@ -139,6 +142,7 @@ products:
         reviewCount: 232
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki5"
         available: true
+    genreId: "216027"
   - rank: 5
     name: "アルカリウォッシュ 3kg"
     brand: "地の塩社"
@@ -172,6 +176,7 @@ products:
         reviewCount: 68
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6021477"
         available: true
+    genreId: "216027"
   - rank: 6
     name: "重曹 国産 5kg 炭酸水素ナトリウム 食用グレード"
     brand: "ナチュラルショップ マニン"
@@ -194,6 +199,7 @@ products:
     recommendedFor: "食用・掃除・入浴剤を1種類で兼用したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s8gpn.3rdw6fb0.g00s8gpn.3rdw79fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fns-manin%2F0009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fns-manin%2Fi%2F10000217%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ns-manin/cabinet/05354021/05354772/imgrc0074340684.jpg?_ex=128x128"
+    genreId: "216027"
   - rank: 7
     name: "セスキ炭酸ソーダ 950g 宅配便配送"
     brand: "NICHIGA（ニチガ）"
@@ -227,6 +233,7 @@ products:
         reviewCount: 1270
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki"
         available: true
+    genreId: "216027"
   - rank: 8
     name: "クエン酸粉末 5kg 食品添加物グレード 純度99.5%以上"
     brand: "アレスヘルスケア"
@@ -249,6 +256,7 @@ products:
     recommendedFor: "加湿器・電気ポット・トイレの水垢を定期的にケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qa34n.3rdw6dcf.g00qa34n.3rdw74c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fares-hc%2F700099%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fares-hc%2Fi%2F10000242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ares-hc/cabinet/00356984/kuensan5-1.jpg?_ex=128x128"
+    genreId: "402589"
   - rank: 9
     name: "セスキ炭酸ソーダ 950g メール便配送"
     brand: "NICHIGA（ニチガ）"
@@ -282,6 +290,7 @@ products:
         reviewCount: 1270
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_sesuki"
         available: true
+    genreId: "216027"
   - rank: 10
     name: "アルカリウォッシュ セスキ炭酸ソーダ 500g 2個セット"
     brand: "地の塩社"
@@ -315,6 +324,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_101-w001-11309"
         available: true
+    genreId: "210182"
 tags:
   - "重曹 コスパ"
   - "セスキ炭酸ソーダ おすすめ"

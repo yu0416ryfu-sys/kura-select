@@ -4,7 +4,7 @@ description: "パンツ型おむつのLサイズおすすめ7選を1枚あたり
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_4901301443519-2"
         available: true
+    genreId: "205198"
   - rank: 2
     name: "メリーズ パンツ 素肌さらさらエアスルー Lサイズ"
     brand: "花王（メリーズ）"
@@ -73,6 +74,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_67491"
         available: true
+    genreId: "205198"
   - rank: 3
     name: "パンパース パンツ さらさらケアEX Lサイズ"
     brand: "P&G（パンパース）"
@@ -106,6 +108,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/itemp-yh_ico3952y"
         available: true
+    genreId: "205198"
   - rank: 4
     name: "ムーニーマン 汗スッキリ 男女共用 Lサイズ"
     brand: "ユニ・チャーム"
@@ -139,6 +142,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111127986x4"
         available: true
+    genreId: "205198"
   - rank: 5
     name: "パンパース パンツ さらさらケア スーパージャンボ Lサイズ"
     brand: "P&G（パンパース）"
@@ -205,6 +209,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901301396556"
         available: true
+    genreId: "205198"
   - rank: 7
     name: "ナチュラルムーニーマン パンツ Lサイズ"
     brand: "ナチュラルムーニー（ユニ・チャーム）"
@@ -238,6 +243,7 @@ products:
         reviewCount: 118
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111243099x4"
         available: true
+    genreId: "205198"
 tags:
   - "パンツ型おむつ おすすめ"
   - "パンツ型おむつ コスパ"

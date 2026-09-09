@@ -4,7 +4,7 @@ description: "洗濯洗剤は液体・粉末・ジェルボールのどれがコ
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 5
         reviewCount: 13
+    genreId: "210182"
   - rank: 2
     name: "トップ クリアリキッド 業務用 4kg×3本"
     brand: "ライオン（トップ）"
@@ -72,6 +73,7 @@ products:
         available: true
         rating: 4.88
         reviewCount: 40
+    genreId: "210182"
   - rank: 3
     name: "WORKERS 作業着液体洗剤 業務用"
     brand: "WORKERS"
@@ -94,6 +96,7 @@ products:
     recommendedFor: "大容量の洗濯洗剤を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2F620905a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10000769%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/01/workers/workers2019_4500_c.jpg?_ex=128x128"
+    genreId: "210182"
   - rank: 4
     name: "ナノックス ワン スタンダード 詰め替え 1400g×6袋セット"
     brand: "ライオン（ナノックス ワン）"
@@ -116,6 +119,7 @@ products:
     recommendedFor: "高濃度洗剤をまとめ買いでコスパよく使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7174421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10198614%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11663202/12603758/7262632.jpg?_ex=128x128"
+    genreId: "210182"
   - rank: 5
     name: "アリエール 部屋干し 除菌プラス 詰め替え 超ジャンボ 1kg×6袋"
     brand: "アリエール（P&G）"
@@ -150,6 +154,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "210182"
   - rank: 6
     name: "ハイベック プレミアムドライ 1100g"
     brand: "ハイベック"
@@ -183,6 +188,7 @@ products:
         available: true
         rating: 4.7
         reviewCount: 20
+    genreId: "210182"
   - rank: 7
     name: "サンベック高級洗剤 1000g"
     brand: "サンベック"
@@ -190,7 +196,7 @@ products:
     capacity: "1000g"
     pricePerUnit: "約6.4円/g"
     rating: 4.7
-    reviewCount: 652
+    reviewCount: 653
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -205,6 +211,7 @@ products:
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsb1000-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000195%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/18sb.jpg?_ex=128x128"
+    genreId: "210182"
   - rank: 8
     name: "海へ Fukii 詰替 380g"
     brand: "がんこ本舗"
@@ -238,6 +245,7 @@ products:
         available: true
         rating: 4.75
         reviewCount: 8
+    genreId: "210182"
   - rank: 9
     name: "海へ Fukii 詰替 380g×3個セット"
     brand: "がんこ本舗"
@@ -271,6 +279,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/okinawangirls_umihe-fukii3"
         available: true
+    genreId: "210182"
   - rank: 10
     name: "サンベックドライ洗剤 500g"
     brand: "サンベック"
@@ -304,6 +313,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tamari-do_li08c865d17f"
         available: true
+    genreId: "210182"
 tags:
   - "洗濯洗剤"
   - "コスパ"

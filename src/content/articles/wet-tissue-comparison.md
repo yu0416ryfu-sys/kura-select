@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ9選を1枚あたり単�
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "レック 水99.9％ 手口ふき"
@@ -13,7 +13,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約1.6円/枚"
     rating: 4.69
-    reviewCount: 4777
+    reviewCount: 4780
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 4.68
         reviewCount: 1029
+    genreId: "505416"
   - rank: 2
     name: "シルコット ピュアウォーター ウェットティッシュ 詰替 58枚×8個"
     brand: "ユニ・チャーム（シルコット）"
@@ -72,6 +73,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "505519"
   - rank: 3
     name: "Hugmuu ふんわり厚手 おしりふき 96枚×12個"
     brand: "Hugmuu"
@@ -79,7 +81,7 @@ products:
     capacity: "96枚×12個（1152枚）"
     pricePerUnit: "約2.6円/枚"
     rating: 4.37
-    reviewCount: 402
+    reviewCount: 405
     features:
       - "純水99%・無香料・無着色・アルコールフリー"
       - "14×18cmの厚手シートで手口ふき・体ふきにも使える"
@@ -94,6 +96,7 @@ products:
     recommendedFor: "赤ちゃんの手口ふき・体ふきを大容量で用意したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t237n.3rdw6c98.g00t237n.3rdw7b8b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fslotre%2F10000234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fslotre%2Fi%2F10000356%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/sale-main/hunwariatude_5_3.jpg?_ex=128x128"
+    genreId: "205194"
   - rank: 4
     name: "アイリスオーヤマ 除菌ウェットティッシュ 60枚×48個"
     brand: "アイリスオーヤマ"
@@ -101,7 +104,7 @@ products:
     capacity: "60枚×48個（2,880枚）"
     pricePerUnit: "約2.6円/枚"
     rating: 4.42
-    reviewCount: 485
+    reviewCount: 486
     features:
       - "アルコール配合で除菌用途に向いたタイプ"
       - "厚手シートで拭き取りやすい設計"
@@ -129,6 +132,7 @@ products:
         available: true
         rating: 4.6
         reviewCount: 20
+    genreId: "505519"
   - rank: 5
     name: "シルコット ノンアルコール除菌ウェットティッシュ 詰替 43枚×8個×4個"
     brand: "ユニ・チャーム（シルコット）"
@@ -136,7 +140,7 @@ products:
     capacity: "43枚×8個×4個（1376枚）"
     pricePerUnit: "約3.8円/枚"
     rating: 4.75
-    reviewCount: 237
+    reviewCount: 239
     features:
       - "ノンアルコールタイプの除菌ウェットティッシュ詰替"
       - "ワンプッシュで開閉できる取り出し口設計"
@@ -162,6 +166,7 @@ products:
         reviewCount: 17
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100996"
         available: true
+    genreId: "505519"
   - rank: 6
     name: "エリエール 除菌できるアルコールタオル 大容量本体"
     brand: "大王製紙（エリエール）"
@@ -184,6 +189,7 @@ products:
     recommendedFor: "エリエールブランドの大容量タイプをまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fwet-tissue61%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10000657%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item_r/wet-tissue61-a1.jpg?_ex=128x128"
+    genreId: "505519"
   - rank: 7
     name: "エリエール 除菌できるアルコールタオル ウイルス除去用 詰め替え 70枚×3個"
     brand: "大王製紙（エリエール）"
@@ -217,6 +223,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "505519"
   - rank: 8
     name: "キレイキレイ 除菌ウェットシート ノンアルコール 30枚 携帯用"
     brand: "ライオン（キレイキレイ）"
@@ -250,6 +257,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "505522"
   - rank: 9
     name: "ノンアルコール 99%除菌ウェットティッシュ"
     brand: "VINDA"
@@ -285,6 +293,7 @@ products:
         available: false
         matchNotes: "capacity不一致: capacity不一致"
     priceMax: 4980
+    genreId: "505519"
 tags:
   - "ウェットティッシュ"
   - "ウェットシート"

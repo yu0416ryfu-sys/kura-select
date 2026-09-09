@@ -4,7 +4,7 @@ description: "綿棒をコットン100%・紙軸・スパイラル・抗菌タ�
 category: "cotton-swab"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "506400"
   - rank: 2
     name: "コットン・ラボ スタンダード綿棒"
     brand: "コットン・ラボ"
@@ -73,6 +74,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "505519"
   - rank: 3
     name: "FC ファミリー綿棒"
     brand: "白十字"
@@ -106,6 +108,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "506400"
   - rank: 4
     name: "うさベビー 抗菌綿棒 ほそめ 250本"
     brand: "山洋"
@@ -139,6 +142,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "200829"
   - rank: 5
     name: "ピップ 抗菌綿棒 3個セット"
     brand: "ピップ"
@@ -172,6 +176,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10155171"
         available: true
+    genreId: "506400"
   - rank: 6
     name: "黒綿棒"
     brand: "ビバホーム"
@@ -205,6 +210,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "506400"
   - rank: 7
     name: "アメジスト 抗菌綿棒"
     brand: "大衛"
@@ -238,6 +244,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "506400"
   - rank: 8
     name: "綿棒 コットン100% 紙軸 お得2パックセット"
     brand: "わごんせる金橋"
@@ -271,6 +278,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-4973202501292"
         available: true
+    genreId: "506400"
   - rank: 9
     name: "スパイラル黒綿棒 紙軸"
     brand: "平和メディク"
@@ -304,6 +312,7 @@ products:
         available: true
         rating: 4.58
         reviewCount: 12
+    genreId: "506400"
   - rank: 10
     name: "スパイラル黒綿棒 紙軸 200本入×4個セット"
     brand: "GALLEIDO"
@@ -337,6 +346,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kintarou_4976558007630"
         available: true
     priceMax: 2300
+    genreId: "506400"
 tags:
   - "綿棒 おすすめ"
   - "綿棒 コスパ"

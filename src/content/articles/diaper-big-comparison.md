@@ -4,7 +4,7 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "グーンプラス 肌の贅沢 テープ BIGサイズ"
@@ -28,6 +28,7 @@ products:
     recommendedFor: "BIGサイズ帯でテープ型を続けたい、肌あたりを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi7un.3rdw6c00.g00qi7un.3rdw7b0e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-leadonline%2F10134543%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-leadonline%2Fi%2F10204093%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-leadonline/cabinet/item10/lm59-7.jpg?_ex=128x128"
+    genreId: "205198"
   - rank: 2
     name: "グーン スーパーBIG テープ"
     brand: "グーン（大王製紙）"
@@ -61,6 +62,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hashbaby_w875019-1008--"
         available: true
+    genreId: "205198"
   - rank: 3
     name: "エリエール　グーン　スーパービッグ　テープ止めタイプ"
     brand: "大王製紙（グーン）"
@@ -94,6 +96,7 @@ products:
         updatedAt: "2026-09-07"
         rating: 4
         reviewCount: 3
+    genreId: "205198"
   - rank: 4
     name: "グーン スーパーBIG テープ 3個セット"
     brand: "グーン（大王製紙）"
@@ -116,6 +119,7 @@ products:
     recommendedFor: "スーパーBIGサイズを継続利用していてストックしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902011745009-003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10136975%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4902011745009.jpg?_ex=128x128"
+    genreId: "205198"
   - rank: 5
     name: "ムーニーマン スーパービッグ 男の子"
     brand: "ユニ・チャーム（ムーニー）"
@@ -149,6 +153,7 @@ products:
         updatedAt: "2026-08-08"
         rating: 5
         reviewCount: 3
+    genreId: "200821"
   - rank: 6
     name: "ムーニーマン スーパービッグ 女の子"
     brand: "ユニ・チャーム（ムーニー）"
@@ -182,6 +187,7 @@ products:
         updatedAt: "2026-08-08"
         rating: 0
         reviewCount: 2
+    genreId: "200821"
   - rank: 7
     name: "グーンプラス テープ BIGサイズ"
     brand: "大王製紙（グーンプラス）"
@@ -215,6 +221,7 @@ products:
         rating: 0
         reviewCount: 0
     priceMax: 5852
+    genreId: "205198"
 tags:
   - "BIGサイズ おむつ"
   - "ビッグより大きい おむつ"

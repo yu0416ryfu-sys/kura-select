@@ -4,7 +4,7 @@ description: "除湿剤おすすめ9選を吸湿量1mLあたりの単価で徹�
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
@@ -39,6 +39,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_awk4587"
         available: true
+    genreId: "568231"
   - rank: 2
     name: "ドライペットスキット 420ml×3個パック"
     brand: "エステー（ドライペット）"
@@ -61,6 +62,7 @@ products:
     recommendedFor: "必要な分だけ買い足したい方・ドライペットを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901070910168%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10109203%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/80/4901070910168.jpg?_ex=128x128"
+    genreId: "568231"
   - rank: 3
     name: "水とりぞうさん 550ml×3個×5パック タンクタイプ"
     brand: "オカモト（水とりぞうさん）"
@@ -83,6 +85,7 @@ products:
     recommendedFor: "まず少量から試したい方・置き場所が数か所の方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4904637999804-005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10163782%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic4903/4904637999804_1.jpg?_ex=128x128"
+    genreId: "401619"
   - rank: 4
     name: "備長炭ドライペット 除湿剤 タンクタイプ どこでも用（3個パック×6個）"
     brand: "エステー（ドライペット）"
@@ -105,6 +108,7 @@ products:
     recommendedFor: "湿気＋臭い対策をしたい方・複数箇所使用派"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901070939398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11075355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/398/4901070939398.jpg?_ex=128x128"
+    genreId: "568231"
   - rank: 5
     name: "ドライ ドライUP NECO 1000mL×2個"
     brand: "白元アース（ドライ&ドライUP）"
@@ -127,6 +131,7 @@ products:
     recommendedFor: "押し入れなど広い収納を少ない個数でまかないたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902407395184%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12343131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2022a/4902407395184.jpg?_ex=128x128"
+    genreId: "568231"
   - rank: 6
     name: "激乾 除湿剤 タンクタイプ（400mL×3個パック）"
     brand: "フマキラー（激乾）"
@@ -149,6 +154,7 @@ products:
     recommendedFor: "下駄箱・引き出し・小さめの収納スペースに"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ramcn.3rdw6d52.g00ramcn.3rdw79d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmdse%2Fho-4902424439014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frcmdse%2Fi%2F14732325%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmdse/cabinet/ho01/ho-4902424439014.jpg?_ex=128x128"
+    genreId: "568231"
   - rank: 7
     name: "コーナン 除湿剤 1000ml 置き型 大容量タイプ"
     brand: "コーナン"
@@ -182,6 +188,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_4522831169818"
         available: true
+    genreId: "568231"
   - rank: 8
     name: "コーナン 除湿剤 500ml 置き型"
     brand: "コーナン"
@@ -216,6 +223,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_4522831781188"
         available: false
         matchNotes: "capacity不一致: 商品名トークン不一致"
+    genreId: "101833"
   - rank: 9
     name: "水とりぞうさん 550ml×12個入り"
     brand: "オカモト（水とりぞうさん）"
@@ -249,6 +257,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawarikikaku_costoco-mizutori-a"
         available: true
     priceMax: 6388
+    genreId: "568231"
 tags:
   - "除湿剤 おすすめ"
   - "除湿剤 コスパ"

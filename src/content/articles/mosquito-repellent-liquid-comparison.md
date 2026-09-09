@@ -4,7 +4,7 @@ description: "電気式（プラグ式）液体蚊取りの取替えボトルを
 category: "mosquito-repellent-liquid"
 publishedAt: "2026-06-13"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4902424427134"
         available: true
+    genreId: "553423"
   - rank: 2
     name: "アースノーマット 取替えボトル 90日用 無香料 2本入"
     brand: "アース製薬（アースノーマット）"
@@ -62,6 +63,7 @@ products:
     recommendedFor: "液体蚊取りをシーズン通して使う方・無香料を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200483%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10114180%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/011/4901080121011.jpg?_ex=128x128"
+    genreId: "553423"
   - rank: 3
     name: "ノーマット 取替えボトル 90日用 微香性"
     brand: "アース製薬"
@@ -95,6 +97,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hcvalor_vh-2162902907264"
         available: true
+    genreId: "100695"
   - rank: 4
     name: "アースノーマット 取替えボトル 90日用 無香料 2箱セット"
     brand: "アース製薬（アースノーマット）"
@@ -117,6 +120,7 @@ products:
     recommendedFor: "複数の部屋で液体蚊取りを使う方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F62629%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10888488%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/629/62629.jpg?_ex=128x128"
+    genreId: "553423"
   - rank: 5
     name: "ノーマット 取替えボトル 60日用 無香料"
     brand: "アース製薬"
@@ -139,6 +143,7 @@ products:
     recommendedFor: "定番ブランドの無香料タイプを安心して使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa001200200219%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10114372%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/113/4901080120113.jpg?_ex=128x128"
+    genreId: "553423"
   - rank: 6
     name: "ノーマット 取替えボトル 30日用 無香料"
     brand: "アース製薬"
@@ -172,6 +177,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/atlife_101-x010-4901080120113"
         available: true
+    genreId: "553423"
   - rank: 7
     name: "アースノーマット 取替えボトル 30日用 無香料 2本入"
     brand: "アース製薬（アースノーマット）"
@@ -205,6 +211,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/atlife_101-x010-90655"
         available: true
+    genreId: "553423"
 tags:
   - "液体蚊取り おすすめ"
   - "液体蚊取り コスパ"

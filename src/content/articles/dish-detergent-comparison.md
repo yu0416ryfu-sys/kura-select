@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "216012"
   - rank: 2
     name: "ライオン CHARMY Magica 除菌＋ プロフェッショナル 無香料 ハーバ"
     brand: "ライオン（チャーミー）"
@@ -72,6 +73,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_10053002"
         available: true
+    genreId: "216012"
   - rank: 3
     name: "ヤシノミ洗剤 野菜・食器用 つめかえ用 1000mL"
     brand: "サラヤ（ヤシノミ洗剤）"
@@ -105,6 +107,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kireshop_a4973512320477"
         available: true
+    genreId: "216012"
   - rank: 4
     name: "緑の魔女 キッチン 食器用洗剤 業務用 詰め替え 5L 無添加 無香料"
     brand: "ミマスクリーンケア（緑の魔女）"
@@ -138,6 +141,7 @@ products:
         available: true
         rating: 4.64
         reviewCount: 98
+    genreId: "216012"
   - rank: 5
     name: "パックス 200番 台所用石けん 詰替用 2300mL×2本 2本セット"
     brand: "太陽油脂"
@@ -160,6 +164,7 @@ products:
     recommendedFor: "台所用石けんを大容量でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pk2an.3rdw647a.g00pk2an.3rdw7456/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuyeki%2F395%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fuyeki%2Fi%2F10000474%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/uyeki/cabinet/syohin1/item01/packs/pax200_set2.jpg?_ex=128x128"
+    genreId: "216012"
   - rank: 6
     name: "フロッシュ 食器用洗剤 アロエベラ 1000mL×2本"
     brand: "フロッシュ（Werner & Mertz）"
@@ -226,6 +231,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "216012"
   - rank: 8
     name: "IVORY ディッシュソープ クラシック 食器用洗剤 709mL×2本"
     brand: "IVORY"
@@ -248,6 +254,7 @@ products:
     recommendedFor: "海外ブランドの食器用洗剤を使ってみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00up3bn.3rdw60f2.g00up3bn.3rdw7ff6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyksakai%2Fmepxask4lgaaw2jmf54vmsjiaa%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyksakai%2Fi%2F10521015%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yksakai/cabinet/13132948/44216308_1.jpg?_ex=128x128"
+    genreId: "112779"
   - rank: 9
     name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
     brand: "P&G（ジョイ）"
@@ -281,6 +288,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/takuhaibin_m7269456"
         available: true
     priceMax: 2750
+    genreId: "216012"
 tags:
   - "食器用洗剤"
   - "コスパ"

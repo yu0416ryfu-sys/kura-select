@@ -29,10 +29,10 @@ import { isLikelySameProductName } from './lib/product-name-match.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const VERBOSE = process.argv.includes('--verbose');
-// 記事への genreId 書き込みは既定で無効。コホート第1弾の前窓（〜09-08）を汚さないため、
-// 有効化は 09-09 以降にフラグ指定、または既定値の変更で行う。
-// フラグ OFF でも API からの取得（elements）と check-genre-fit の読み取りは動く。
-const WRITE_GENRE_ID = process.argv.includes('--write-genre-id');
+// 記事への genreId 書き込みは既定で有効（2026-09-09 の初回一括投入をもって既定を反転）。
+// --no-write-genre-id で無効化できる。無効時も API からの取得（elements）と
+// check-genre-fit の読み取りは動く。
+const WRITE_GENRE_ID = !process.argv.includes('--no-write-genre-id');
 const CHECK_REPLACEMENTS = process.argv.includes('--check-replacements');
 const CHECK_ADDITIONS = process.argv.includes('--check-additions');
 // Phase 0.6: 実出品名の書き出し（write-only。記事ファイルは一切触らない）

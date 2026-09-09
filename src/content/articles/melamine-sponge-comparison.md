@@ -4,7 +4,7 @@ description: "メラミンスポンジを1個あたりのコストで比較。�
 category: "melamine-sponge"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-09-06"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kawauchi_2kkb50088"
         available: true
+    genreId: "568269"
   - rank: 2
     name: "激落ち ダブルポイポイ"
     brand: "レック（激落ちくん）"
@@ -73,6 +74,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903320580169"
         available: true
+    genreId: "401520"
   - rank: 3
     name: "ピカ王 ジュニア メラミンスポンジ"
     brand: "ピカ王"
@@ -106,6 +108,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/colorfulbox_455149"
         available: true
+    genreId: "401520"
   - rank: 4
     name: "毎日とりかえメラミンスポンジ 30個"
     brand: "アイセン"
@@ -139,6 +142,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nitori-net_2111200023626-0000000000003"
         available: true
+    genreId: "101737"
   - rank: 5
     name: "激落ちポイポイ カットタイプ"
     brand: "レック（LEC）"
@@ -172,6 +176,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_0784793"
         available: true
+    genreId: "401611"
   - rank: 6
     name: "レック 激落ちくん メラミンスポンジ 工場用"
     brand: "レック（激落ちくん）"
@@ -205,6 +210,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_yy5504"
         available: true
+    genreId: "401520"
   - rank: 7
     name: "激落ちくん メラミンスポンジ 6個セット"
     brand: "レック（激落ちくん）"
@@ -238,6 +244,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/atlife_103-m006-4903320579101"
         available: true
+    genreId: "101839"
   - rank: 8
     name: "激落ちくん メラミンスポンジ まとめ買い"
     brand: "レック（激落ちくん）"
@@ -271,6 +278,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_0784751x60"
         available: true
+    genreId: "401520"
   - rank: 9
     name: "激落ちくんパパ メラミンスポンジ まとめ買い"
     brand: "レック（激落ちくん）"
@@ -293,6 +301,7 @@ products:
     recommendedFor: "メラミンスポンジを用途や個数で選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Fhouse-cleaner41%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10001609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item7/house-cleaner41-a1.jpg?_ex=128x128"
+    genreId: "401520"
   - rank: 10
     name: "激落ちくん メラミンスポンジ"
     brand: "レック（激落ちくん）"
@@ -326,6 +335,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhan-okusuri_1758956223-1-d"
         available: true
+    genreId: "568269"
 tags:
   - "メラミンスポンジ おすすめ"
   - "メラミンスポンジ コスパ"

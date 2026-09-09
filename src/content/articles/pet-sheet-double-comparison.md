@@ -4,7 +4,7 @@ description: "ペットシーツのダブル（スーパーワイド）サイズ
 category: "pet-sheet"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "スーパーワイド 204枚"
     pricePerUnit: "約22円/枚"
     rating: 4.55
-    reviewCount: 14717
+    reviewCount: 14727
     features:
       - "スーパーワイドサイズのペットシーツ（薄型・厚型を選べる）"
       - "大型犬や多頭飼いのトイレまわりに使いやすい"
@@ -29,6 +29,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5lzn.3rdw67b4.g00s5lzn.3rdw7923/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fryouhin-monogatari%2F10000024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fryouhin-monogatari%2Fi%2F10000024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ryouhin-monogatari/cabinet/sale/salethumb/petsheets-s_sale.jpg?_ex=128x128"
+    genreId: "409755"
   - rank: 2
     name: "薄型ペットシーツ スーパーワイド"
     brand: "小林薬品"
@@ -62,6 +63,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/diy-tool_k825-0016"
         available: true
+    genreId: "409755"
   - rank: 3
     name: "ペットシーツ スーパーワイド 2ケース"
     brand: "ペットスタジオ"
@@ -95,6 +97,7 @@ products:
         available: true
         rating: 4.8
         reviewCount: 5
+    genreId: "409755"
   - rank: 4
     name: "コスパがいいペットシーツ スーパーワイド"
     brand: "charm"
@@ -128,6 +131,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "409755"
   - rank: 5
     name: "厚型ペットシーツ スーパーワイド"
     brand: "HAMI PET"
@@ -135,7 +139,7 @@ products:
     capacity: "スーパーワイド 100枚（25枚×4パック）"
     pricePerUnit: "約42円/枚"
     rating: 4.35
-    reviewCount: 1829
+    reviewCount: 1832
     features:
       - "スーパーワイド（60×90cm）の厚型設計"
       - "ポリエチレン素材で吸収力・防水性を両立"
@@ -150,6 +154,7 @@ products:
     recommendedFor: "大型犬や尿量が多いペット向けに吸収力を優先したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5tcn.3rdw6b04.g00u5tcn.3rdw7baa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkingbridge%2Fpdt003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkingbridge%2Fi%2F10000221%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kingbridge/cabinet/08719472/08755630/pdt003a.jpg?_ex=128x128"
+    genreId: "409755"
   - rank: 6
     name: "ペットシーツ 薄型 ダブルワイド 200枚 大容量"
     brand: "ペットシーツ"
@@ -183,6 +188,7 @@ products:
         available: true
         rating: 4.64
         reviewCount: 333
+    genreId: "409755"
   - rank: 7
     name: "超薄型ペットシーツ 超大判"
     brand: "StylePlus"
@@ -205,6 +211,7 @@ products:
     recommendedFor: "超大型犬や広いスペースに敷きたい方、ペットシーツ専門店の品質を試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qup5n.3rdw613f.g00qup5n.3rdw7be1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstyleplus%2F31052%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstyleplus%2Fi%2F10011055%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/styleplus/cabinet/brand/sa/styleplus/style_ooban.jpg?_ex=128x128"
+    genreId: "409755"
   - rank: 8
     name: "超吸収厚型プレミアムペットシート 猛吸くんPREMIUM"
     brand: "ALIVE"
@@ -227,13 +234,14 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvikn.3rdw6aa7.g00qvikn.3rdw7fd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetking%2F9-0014-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpetking%2Fi%2F10000570%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/petking/cabinet/17/09-0017-3.jpg?_ex=128x128"
+    genreId: "409755"
   - rank: 9
     name: "ペットシーツ 60×60cm 業務用 まとめ買い"
     brand: "ナイス物屋"
     price: 3180
     capacity: "60×60cm 300枚"
     rating: 4.4
-    reviewCount: 1439
+    reviewCount: 1441
     features:
       - "60×60cmの大判サイズ、6層構造で吸収量140cc"
       - "PPE素材使用、1枚あたり約60gの重量"
@@ -260,6 +268,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/freelife_zk-ptst01-many"
         available: true
     priceMax: 4780
+    genreId: "409755"
   - rank: 10
     name: "アライブ 厚型ペットシート 猛吸くん スーパーワイド"
     brand: "アライブ"
@@ -293,6 +302,7 @@ products:
         rating: 0
         reviewCount: 0
     priceMax: 16750
+    genreId: "409755"
 tags:
   - "ペットシーツ おすすめ"
   - "ペットシーツ コスパ"

@@ -4,7 +4,7 @@ description: "デンタルフロスを1回あたりのコストで比較した�
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "GUM デンタルフロス 550m"
@@ -27,7 +27,8 @@ products:
       - "移動中や外出先では使いにくい"
     recommendedFor: "毎日フロスを使う方・コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10010887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0906_p5/kirikae3/28528.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0908_p5400/kirikae3/28528.jpg?_ex=128x128"
+    genreId: "208218"
   - rank: 2
     name: "クリニカ アドバンテージ スポンジフロス"
     brand: "ライオン（クリニカ）"
@@ -59,6 +60,7 @@ products:
         matchConfidence: "high"
         matchedCapacity: "40m×4個"
         updatedAt: "2026-07-16T00:00:00.000Z"
+    genreId: "208218"
   - rank: 3
     name: "フロアフロス 45m×3個 3個セット"
     brand: "fluorfloss"
@@ -113,6 +115,7 @@ products:
     recommendedFor: "膨張タイプで歯間をしっかりケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qxmsn.3rdw699a.g00qxmsn.3rdw7125/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foralcare-dod%2F10582536%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foralcare-dod%2Fi%2F10028497%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oralcare-dod/cabinet/t/02/10582536.jpg?_ex=128x128"
+    genreId: "208218"
   - rank: 5
     name: "小林製薬 糸ようじ フロス&ピック デンタルフロス 60本入"
     brand: "小林製薬（糸ようじ）"
@@ -144,6 +147,7 @@ products:
         price: 798
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-pal_4987072025895-1"
         available: true
+    genreId: "208218"
   - rank: 6
     name: "ライオン クリニカ アドバンテージ フロス Y字タイプ"
     brand: "ライオン（クリニカ）"
@@ -176,6 +180,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk13773-a2603"
         available: false
         matchNotes: "capacity不一致: capacity不一致"
+    genreId: "204758"
   - rank: 7
     name: "DENT.EX ウルトラフロスS 10本入×10パック"
     brand: "ライオン（DENT.EX）"
@@ -197,7 +202,7 @@ products:
       - "まとめ買いのため初期費用が高め"
     recommendedFor: "奥歯のケアを重視する方・まとめ買いで節約したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F13122%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10000202%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0906_p5/kirikae1/04080.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0908_p5400/kirikae1/04080.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -208,6 +213,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_13122"
         available: false
         matchNotes: "capacity不一致: capacity不一致"
+    genreId: "208218"
   - rank: 8
     name: "オーラルケア フロアフロス 250m 歯科専売品"
     brand: "fluorfloss"
@@ -240,6 +246,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_41694"
         available: false
         matchNotes: "capacity不一致: capacity不一致"
+    genreId: "208218"
   - rank: 9
     name: "フロアフロス 45m 2個セット"
     brand: "オーラルケア"
@@ -247,7 +254,7 @@ products:
     capacity: "45m×2個（90m）"
     pricePerUnit: "約18円/m"
     rating: 4.65
-    reviewCount: 1166
+    reviewCount: 1167
     features:
       - "糸巻きタイプのデンタルフロス"
       - "歯間ケア向けの細い繊維設計"
@@ -261,7 +268,7 @@ products:
       - "ワックス感や太さは使用感の好みが分かれる"
     recommendedFor: "糸巻きフロスを日常的に使いたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008759%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0906_p5/kirikae2/49759_n.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0908_p5400/kirikae2/49759_n.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -274,6 +281,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/item-for-life_fluorfloss-45-02"
         available: false
         matchNotes: "capacity不一致: capacity不一致"
+    genreId: "208218"
 tags:
   - "デンタルフロス おすすめ"
   - "歯間ブラシ コスパ"

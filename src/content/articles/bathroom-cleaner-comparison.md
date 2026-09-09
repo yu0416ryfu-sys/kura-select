@@ -4,7 +4,7 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-03"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -39,6 +39,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
+    genreId: "565624"
   - rank: 2
     name: "ルックプラス バスタブクレンジング 銀イオンプラス ハーバルグリーン 詰替 800mL"
     brand: "ライオン（ルック）"
@@ -72,6 +73,7 @@ products:
         reviewCount: 150
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_x627331"
         available: true
+    genreId: "216017"
   - rank: 3
     name: "バスマジックリン エアジェット 除菌EX ハーバルクリアの香り つめかえ用"
     brand: "花王（バスマジックリン）"
@@ -105,6 +107,7 @@ products:
         available: true
         rating: 5
         reviewCount: 4
+    genreId: "216017"
   - rank: 4
     name: "リンレイ 速攻湯アカ分解 3点セット"
     brand: "リンレイ"
@@ -127,6 +130,7 @@ products:
     recommendedFor: "浴室用洗剤を用途別に比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903339712216-003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10133011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic4903/4903339712216_1.jpg?_ex=128x128"
+    genreId: "216017"
   - rank: 5
     name: "東邦　ウタマロ クリーナー"
     brand: "東邦（ウタマロ）"
@@ -160,14 +164,15 @@ products:
         available: true
         rating: 4.67
         reviewCount: 3
+    genreId: "216027"
   - rank: 6
     name: "カビ取り一発 液体カビ取り洗浄剤 2L"
     brand: "おそうじキレイ"
     price: 2999
     capacity: "2L"
     pricePerUnit: "約1.5円/mL"
-    rating: 4.62
-    reviewCount: 111
+    rating: 4.63
+    reviewCount: 112
     features:
       - "業務用の液体カビ取り洗浄剤で浴室のカビ汚れに対応"
       - "たっぷり使える2L容量で広い範囲の掃除に使いやすい"
@@ -182,6 +187,7 @@ products:
     recommendedFor: "浴室の頑固なカビをまとめて掃除したい方・大容量のカビ取り剤を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quomn.3rdw6fd3.g00quomn.3rdw7ac8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosouji-kis%2Fkabi-ekitai2000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosouji-kis%2Fi%2F10000218%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osouji-kis/cabinet/motogazou/kabi/ek2000a.gif?_ex=128x128"
+    genreId: "216017"
   - rank: 7
     name: "カビキラー 特大サイズ 本体 1000g"
     brand: "ジョンソン（カビキラー）"
@@ -204,6 +210,7 @@ products:
     recommendedFor: "黒カビに悩んでいる方・ゴムパッキンのカビを取りたい方・強力なカビ取りが必要な方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4901609000148%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10021843%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0008/4901609000148_1.jpg?_ex=128x128"
+    genreId: "216017"
   - rank: 8
     name: "エコメイト 風呂釜クリーナー 6個セット"
     brand: "木村石鹸工業"
@@ -226,6 +233,7 @@ products:
     recommendedFor: "定期的に風呂釜洗浄をしている方・まとめ買いでコストを下げたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F659544%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000660%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/ecomate_hgc_05.jpg?_ex=128x128"
+    genreId: "216017"
   - rank: 9
     name: "エコメイト 風呂釜クリーナー 3個セット"
     brand: "木村石鹸工業"
@@ -248,6 +256,7 @@ products:
     recommendedFor: "自然派洗剤派の方・定期的に風呂釜洗浄したい方・エコ洗剤を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100000031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000033%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/ecomate_hgc_03.jpg?_ex=128x128"
+    genreId: "216017"
   - rank: 10
     name: "エコメイト 風呂釜クリーナー"
     brand: "木村石鹸工業"
@@ -281,6 +290,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "216017"
 tags:
   - "お風呂用洗剤"
   - "コスパ"

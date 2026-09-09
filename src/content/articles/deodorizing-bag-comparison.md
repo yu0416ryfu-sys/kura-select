@@ -4,7 +4,7 @@ description: "おむつ・生ゴミ用の防臭袋おすすめ9選をコスパ�
 category: "deodorizing-bag"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/netbaby_4932702057333"
         available: true
+    genreId: "566815"
   - rank: 2
     name: "HEIKO PP 食パン袋 半斤用"
     brand: "シモジマ"
@@ -47,7 +48,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.78
-    reviewCount: 780
+    reviewCount: 781
     features:
       - "本来は食パン用のポリプロピレン製袋"
       - "厚みのあるPP素材で口を結んで密閉しやすい"
@@ -73,6 +74,7 @@ products:
         reviewCount: 945
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_pphalf300"
         available: true
+    genreId: "550088"
   - rank: 3
     name: "防臭袋 おむつ 生ゴミ処理袋 口が大きいタイプ"
     brand: "ライフハウス"
@@ -95,6 +97,7 @@ products:
     recommendedFor: "おむつと生ゴミをまとめて1種類の袋で済ませたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00twlwn.3rdw6927.g00twlwn.3rdw72f3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifehouse%2Fg6021%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flifehouse%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lifehouse/cabinet/bag/imgrc0131608556.jpg?_ex=128x128"
+    genreId: "566815"
   - rank: 4
     name: "BOS 防臭袋 ストライプパッケージ SSサイズ"
     brand: "クリロン化成"
@@ -128,6 +131,7 @@ products:
         reviewCount: 98
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bos-shop_bos-b020a"
         available: true
+    genreId: "216044"
   - rank: 5
     name: "うんちが臭わない袋 BOS ネコ用 SSサイズ"
     brand: "クリロン化成"
@@ -161,6 +165,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/furusatochoice_5681229"
         available: true
+    genreId: "201671"
   - rank: 6
     name: "BOS 防臭袋 ストライプパッケージ SSminiサイズ"
     brand: "クリロン化成"
@@ -168,7 +173,7 @@ products:
     capacity: "100枚×2個（200枚）"
     pricePerUnit: "約9.1円/枚"
     rating: 4.87
-    reviewCount: 483
+    reviewCount: 484
     features:
       - "シリーズ最小クラスの寸法"
       - "2個パックで1つを持ち歩き用に分けられる構成"
@@ -194,6 +199,7 @@ products:
         reviewCount: 134
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bos-shop_bos-b012a"
         available: true
+    genreId: "216044"
   - rank: 7
     name: "BOS 防臭袋 ストライプパッケージ Sサイズ"
     brand: "クリロン化成"
@@ -201,7 +207,7 @@ products:
     capacity: "200枚"
     pricePerUnit: "約9.5円/枚"
     rating: 4.85
-    reviewCount: 3749
+    reviewCount: 3750
     features:
       - "SSサイズより一回り大きい標準サイズ"
       - "テープ型からパンツ型まで幅広いおむつサイズを想定した寸法"
@@ -227,6 +233,7 @@ products:
         reviewCount: 776
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bos-shop_bos-b002a"
         available: true
+    genreId: "216044"
   - rank: 8
     name: "においバイバイ袋 赤ちゃん用 Mサイズ"
     brand: "ONESTEP"
@@ -260,6 +267,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nioi-byebye-shop_sk6588"
         available: true
+    genreId: "566815"
   - rank: 9
     name: "BOS 防臭袋 ストライプパッケージ Mサイズ"
     brand: "クリロン化成"
@@ -267,7 +275,7 @@ products:
     capacity: "90枚"
     pricePerUnit: "約15円/枚"
     rating: 4.82
-    reviewCount: 1367
+    reviewCount: 1368
     features:
       - "赤ちゃんからペットまで幅広い用途を想定した中間サイズ"
       - "1枚に複数個まとめられる寸法"
@@ -293,6 +301,7 @@ products:
         reviewCount: 394
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bos-shop_bos-b003a"
         available: true
+    genreId: "216044"
 tags:
   - "防臭袋 おすすめ"
   - "防臭袋 コスパ"

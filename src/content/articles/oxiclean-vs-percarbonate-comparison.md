@@ -4,7 +4,7 @@ description: "過炭酸ナトリウムとオキシクリーンは何が違う？
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 draft: false
 products:
   - rank: 1
@@ -40,6 +40,7 @@ products:
         reviewCount: 243
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann3k"
         available: true
+    genreId: "564510"
   - rank: 2
     name: "NICHIGA 酸素系漂白剤 過炭酸ナトリウム 4.5kg"
     brand: "NICHIGA"
@@ -73,6 +74,7 @@ products:
         reviewCount: 253
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann5k"
         available: true
+    genreId: "564510"
   - rank: 3
     name: "NICHIGA 酸素系漂白剤 過炭酸ナトリウム 950g"
     brand: "NICHIGA"
@@ -106,6 +108,7 @@ products:
         reviewCount: 2063
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann1"
         available: true
+    genreId: "564510"
   - rank: 4
     name: "国産 過炭酸ナトリウム 酸素系漂白剤 3kg"
     brand: "アレスヘルスケア"
@@ -139,6 +142,7 @@ products:
         reviewCount: 77
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ares_700056"
         available: true
+    genreId: "568344"
   - rank: 5
     name: "オキシクリーン マルチパーパスクリーナー 5.26kg"
     brand: "OxiClean（アメリカ版）"
@@ -172,6 +176,7 @@ products:
         reviewCount: 94
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kameyamastore_cos-28137"
         available: true
+    genreId: "210182"
   - rank: 6
     name: "国産 過炭酸ナトリウム 酸素系漂白剤 900g"
     brand: "アレスヘルスケア"
@@ -205,14 +210,15 @@ products:
         reviewCount: 40
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ares_700181001"
         available: true
+    genreId: "564510"
   - rank: 7
     name: "オキシクリーン 1500g×3個 業務用"
     brand: "グラフィコ（日本版）"
     price: 3980
     capacity: "1500g×3個（4500g）"
     pricePerUnit: "約0.88円/g"
-    rating: 4.64
-    reviewCount: 64
+    rating: 4.65
+    reviewCount: 66
     features:
       - "日本版オキシクリーンのまとめ買いセット"
       - "無香料の粉末タイプ"
@@ -227,6 +233,7 @@ products:
     recommendedFor: "日常的にオキシ漬けをする方・買い置きしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7112916%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10072715%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/thum/naosi/7112916.jpg?_ex=128x128"
+    genreId: "564510"
   - rank: 8
     name: "オキシクリーン つめかえ用 2000g 粉末タイプ"
     brand: "グラフィコ（日本版）"
@@ -260,6 +267,7 @@ products:
         reviewCount: 36
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7180967"
         available: true
+    genreId: "564510"
   - rank: 9
     name: "オキシクリーン 1500g 無香料 粉末タイプ"
     brand: "グラフィコ（日本版）"
@@ -293,6 +301,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/brisk-online_20251011231548-00401"
         available: true
     priceMax: 7980
+    genreId: "564510"
 tags:
   - "オキシクリーン 比較"
   - "過炭酸ナトリウム コスパ"

@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "ライオン ソフラン アロマリッチ 業務用 4L"
@@ -39,6 +39,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_r6-06046"
         available: true
+    genreId: "559647"
   - rank: 2
     name: "ダウニー サンライズフレッシュ 4L×3本セット"
     brand: "Downy"
@@ -72,6 +73,7 @@ products:
         available: true
         rating: 4.74
         reviewCount: 234
+    genreId: "559647"
   - rank: 3
     name: "メキシコダウニー アロマフローラル 2.8L"
     brand: "Downy"
@@ -105,6 +107,7 @@ products:
         reviewCount: 60
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_9110715"
         available: true
+    genreId: "559647"
   - rank: 4
     name: "ソフラン アロマリッチ 柔軟剤 詰替用 1300mL×6個"
     brand: "ライオン（ソフラン）"
@@ -112,7 +115,7 @@ products:
     capacity: "1300mL×6個（7800mL）"
     pricePerUnit: "約0.75円/mL"
     rating: 4.77
-    reviewCount: 308
+    reviewCount: 309
     features:
       - "家庭用の詰め替えパウチをケース単位でまとめた構成"
       - "アロマオイル配合で香りの立ち上がりを設計したシリーズ"
@@ -138,6 +141,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4903301375012"
         available: true
+    genreId: "559647"
   - rank: 5
     name: "さらさ 柔軟剤 詰め替え 超ジャンボ"
     brand: "P&G（さらさ）"
@@ -171,6 +175,7 @@ products:
         reviewCount: 26
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987176184580"
         available: true
+    genreId: "559647"
   - rank: 6
     name: "ファーファ フリーアンド 濃縮柔軟剤 無香料 エコパック"
     brand: "NSファーファ"
@@ -204,6 +209,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902135322537-73-30000839"
         available: true
+    genreId: "559647"
   - rank: 7
     name: "ファーファ ファインフレグランス ボーテ 詰替 780mL×12個"
     brand: "NSファーファ"
@@ -226,6 +232,7 @@ products:
     recommendedFor: "香りを重視する方・少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902135324067-16%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10011122%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/03455230/gg/i1525mage.jpg?_ex=128x128"
+    genreId: "559647"
   - rank: 8
     name: "ランドリン 柔軟剤 グッドティータイム"
     brand: "ランドリン（Laundrin）"
@@ -259,6 +266,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone_1898619600"
         available: true
+    genreId: "559647"
   - rank: 9
     name: "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え"
     brand: "P&G（レノア）"
@@ -292,6 +300,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "565675"
   - rank: 10
     name: "ハミング 素肌おもい 柔軟剤 つめかえ用 メガサイズ"
     brand: "花王（ハミング）"
@@ -325,6 +334,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301423443"
         available: true
     priceMax: 1139
+    genreId: "559647"
 tags:
   - "柔軟剤"
   - "コスパ"

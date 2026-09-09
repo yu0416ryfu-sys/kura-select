@@ -4,7 +4,7 @@ description: "クッキングシートを1mあたりの価格で比較。ロー�
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-09-08"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "フジ クッキングシート 業務用 33cm×30m"
@@ -39,6 +39,7 @@ products:
         reviewCount: 30
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_373600"
         available: true
+    genreId: "401532"
   - rank: 2
     name: "クックパー EG 業務用 33cm×30m"
     brand: "旭化成クックパー"
@@ -72,6 +73,7 @@ products:
         reviewCount: 14
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_51849"
         available: true
+    genreId: "401532"
   - rank: 3
     name: "クックパー クッキングシート L 30cm幅"
     brand: "旭化成 クックパー"
@@ -105,6 +107,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901670109634"
         available: true
+    genreId: "401532"
   - rank: 4
     name: "リード ホットクッキングシート 中 30cm幅"
     brand: "ライオン リード"
@@ -138,6 +141,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_ar-06018k"
         available: true
+    genreId: "401532"
   - rank: 5
     name: "透明耐熱クッキングシート TSUTSUMU 36cm×20m"
     brand: "イーシザイ・マーケット"
@@ -171,6 +175,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujinamisquare_100020900"
         available: true
+    genreId: "401532"
   - rank: 6
     name: "クッキングシート ワンパン料理 100枚入り"
     brand: "ニュービックエース"
@@ -178,7 +183,7 @@ products:
     capacity: "100枚入り"
     pricePerUnit: "約18円/枚"
     rating: 4.66
-    reviewCount: 175
+    reviewCount: 176
     features:
       - "PFAS・フッ素フリーの無漂白クッキングシート"
       - "フライパンや蒸し料理・包み焼きに対応した多用途タイプ"
@@ -193,6 +198,7 @@ products:
     recommendedFor: "PFAS・フッ素フリーの無漂白シートを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ukv2n.3rdw65ce.g00ukv2n.3rdw7589/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnewbigace%2Fcompass1717137133%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnewbigace%2Fi%2F10000026%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/newbigace/cabinet/biiino/item/main-image/300400top.jpg?_ex=128x128"
+    genreId: "401532"
   - rank: 7
     name: "白クッキングシート 33cm×30m"
     brand: "UACJ製箔"
@@ -215,6 +221,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6j6n.3rdw6b39.g00r6j6n.3rdw7ef8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuroya-shop%2F10004703%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuroya-shop%2Fi%2F10004703%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuroya-shop/cabinet/02093156/02990298/03176211/imgrc0106122030.jpg?_ex=128x128"
     priceMax: 17732
+    genreId: "401532"
   - rank: 8
     name: "東洋アルミ 業務用クッキングシート コアレス 35cm×30m"
     brand: "東洋アルミ"
@@ -237,6 +244,7 @@ products:
     recommendedFor: "大きめ天板の製菓・調理でコアレスタイプを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F607168%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11336923%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/168/607168.jpg?_ex=128x128"
+    genreId: "100635"
 tags:
   - "クッキングシート おすすめ"
   - "クッキングシート コスパ"

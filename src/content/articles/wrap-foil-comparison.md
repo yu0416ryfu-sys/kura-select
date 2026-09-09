@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-05"
+updatedAt: "2026-09-09"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"
@@ -39,6 +39,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/n-mark_4901422055158"
         available: true
+    genreId: "100633"
   - rank: 2
     name: "サランラップ 22cm×50m"
     brand: "旭化成（サランラップ）"
@@ -72,6 +73,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_71920-1"
         available: true
+    genreId: "100633"
   - rank: 3
     name: "NEWクレラップ お徳用レギュラー 30cm×50m"
     brand: "クレハ（クレラップ）"
@@ -105,6 +107,7 @@ products:
         reviewCount: 7
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901422153502"
         available: true
+    genreId: "100633"
   - rank: 4
     name: "旭化成 サランラップ 家庭用 22cm×50m"
     brand: "旭化成（サランラップ）"
@@ -138,6 +141,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "100633"
   - rank: 5
     name: "NEWクレラップ ミニ 22cm 3本セット"
     brand: "クレハ（クレラップ）"
@@ -171,6 +175,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9649965"
         available: true
+    genreId: "100633"
   - rank: 6
     name: "NEWクレラップ 22cm*"
     brand: "クレハ（クレラップ）"
@@ -202,6 +207,7 @@ products:
         price: 18711
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/n-mark_4901422055257"
         available: true
+    genreId: "100633"
   - rank: 7
     name: "NEWクレラップ レギュラー 30cm 3本セット"
     brand: "クレハ（クレラップ）"
@@ -209,7 +215,7 @@ products:
     capacity: "30cm×50m×3本"
     pricePerUnit: "約12円/m"
     rating: 4.77
-    reviewCount: 43
+    reviewCount: 44
     features:
       - "クレハのポリ塩化ビニリデン製ラップ・30cmまとめ買い3本セット"
       - "のこぎり刃でカットしやすい設計"
@@ -235,6 +241,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shiningone23_p09f1190c71"
         available: true
+    genreId: "100633"
   - rank: 8
     name: "サランラップ 22cm 3本セット"
     brand: "サランラップ（旭化成）"
@@ -257,6 +264,7 @@ products:
     recommendedFor: "よく使う幅のラップをまとめて確保したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F73980%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10941575%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/980/73980.jpg?_ex=128x128"
+    genreId: "100633"
   - rank: 9
     name: "サランラップ 家庭用 30cm"
     brand: "旭化成（サランラップ）"
@@ -290,6 +298,7 @@ products:
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901670110210-73-30001391"
         available: true
+    genreId: "100633"
   - rank: 10
     name: "【ケース販売】サランラップ 業務用 BOXタイプ 30cm×"
     brand: "旭化成（サランラップ）"
@@ -323,6 +332,7 @@ products:
         rating: 4.86
         reviewCount: 37
     priceMax: 112200
+    genreId: "100633"
 tags:
   - "ラップ"
   - "アルミホイル"
