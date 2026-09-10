@@ -4,7 +4,7 @@ description: "ゴミ袋はどれがコスパよくお得？45L・20Lの人気10�
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -13,7 +13,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.76
-    reviewCount: 1594
+    reviewCount: 1599
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -47,7 +47,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.9円/枚"
     rating: 4.85
-    reviewCount: 290
+    reviewCount: 291
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -138,7 +138,7 @@ products:
     capacity: "100枚×2小箱（200枚）"
     pricePerUnit: "約10円/枚"
     rating: 4.63
-    reviewCount: 206
+    reviewCount: 207
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

@@ -4,7 +4,7 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 products:
   - rank: 1
     name: "ムーニー マシュマロ肌ごこち 新生児 テープ"
@@ -181,8 +181,8 @@ products:
     price: 2420
     capacity: "72枚（新生児サイズ・〜5kg）"
     pricePerUnit: "約34円/枚"
-    rating: 4.68
-    reviewCount: 53
+    rating: 4.69
+    reviewCount: 54
     features:
       - "新生児サイズのテープタイプ紙おむつ"
       - "肌へのやわらかさを重視した上位ライン"

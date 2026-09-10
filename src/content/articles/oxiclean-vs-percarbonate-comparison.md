@@ -4,7 +4,7 @@ description: "過炭酸ナトリウムとオキシクリーンは何が違う？
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "3kg"
     pricePerUnit: "約0.38円/g"
     rating: 4.78
-    reviewCount: 827
+    reviewCount: 828
     features:
       - "過炭酸ナトリウム100%の大容量パック"
       - "洗濯槽掃除と衣類の漂白を想定した汎用タイプ"
@@ -183,8 +183,8 @@ products:
     price: 638
     capacity: "900g"
     pricePerUnit: "約0.71円/g"
-    rating: 4.83
-    reviewCount: 389
+    rating: 4.82
+    reviewCount: 390
     features:
       - "国内製造の過炭酸ナトリウム"
       - "少量から試せる小容量パッケージ"
@@ -217,8 +217,8 @@ products:
     price: 3980
     capacity: "1500g×3個（4500g）"
     pricePerUnit: "約0.88円/g"
-    rating: 4.65
-    reviewCount: 66
+    rating: 4.66
+    reviewCount: 67
     features:
       - "日本版オキシクリーンのまとめ買いセット"
       - "無香料の粉末タイプ"
@@ -274,7 +274,7 @@ products:
     price: 1525
     capacity: "1500g"
     rating: 4.53
-    reviewCount: 1057
+    reviewCount: 1058
     features:
       - "日本国内向けに販売されている無香料タイプ"
       - "界面活性剤と柔軟成分を配合していない処方"

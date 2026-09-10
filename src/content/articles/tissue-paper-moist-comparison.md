@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌あたりとコ
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 660
     capacity: "360枚（180組）×5箱"
     pricePerUnit: "約0.73円/組"
-    rating: 4.73
-    reviewCount: 11
+    rating: 4.67
+    reviewCount: 12
     features:
       - "保湿成分配合のローションティッシュ"
       - "やわらかな2枚重ねで日常の鼻かみにも対応"

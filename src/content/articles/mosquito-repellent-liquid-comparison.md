@@ -4,7 +4,7 @@ description: "電気式（プラグ式）液体蚊取りの取替えボトルを
 category: "mosquito-repellent-liquid"
 publishedAt: "2026-06-13"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 draft: false
 products:
   - rank: 1
@@ -47,8 +47,8 @@ products:
     price: 1942
     capacity: "90日用×2本（180日）"
     pricePerUnit: "約11円/日"
-    rating: 4.66
-    reviewCount: 38
+    rating: 4.67
+    reviewCount: 39
     features:
       - "プラグ式液体蚊取りの取替えボトル"
       - "無香料タイプ"

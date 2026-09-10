@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 draft: false
 products:
   - rank: 1
@@ -48,7 +48,7 @@ products:
     capacity: "1本（4色ボールペン+シャープペンシル、0.5mm）"
     pricePerUnit: "約1980円/本"
     rating: 4.74
-    reviewCount: 716
+    reviewCount: 717
     features:
       - "限定カラー展開の4色ボールペン＋シャープ0.5mmの多機能タイプ（MSXE5-1000-05）"
       - "名前刻印サービス付きで卒団・卒業祝いなどの特別な記念品に対応"
@@ -62,7 +62,7 @@ products:
       - "名入れ後は返品・交換不可"
     recommendedFor: "限定カラーで個性を出したい方・特別な卒団・卒業記念品を贈りたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbsyn.3rdw622d.g00qbsyn.3rdw79de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbugyo%2Fe06-21-660%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbugyo%2Fi%2F10006340%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/icon/sale/e06-21-660_c100.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/icon/sale/e06-21-660_d0p3.jpg?_ex=128x128"
     genreId: "205824"
   - rank: 3
     name: "パーカー IM ボールペン"
@@ -71,7 +71,7 @@ products:
     capacity: "1本（替え芯対応）"
     pricePerUnit: "約3470円/本"
     rating: 4.73
-    reviewCount: 2839
+    reviewCount: 2840
     features:
       - "創業135年以上の英国老舗ブランド・パーカーのエントリーモデル"
       - "長さ140mm・直径11mm・重さ27gのバランスの良い設計"
@@ -93,7 +93,7 @@ products:
     price: 1000
     capacity: "1本（4色ボールペン+シャープペンシル）"
     rating: 4.78
-    reviewCount: 13626
+    reviewCount: 13628
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"
@@ -107,7 +107,7 @@ products:
       - "多機能ペンのため単機能ペンより軸が太め"
     recommendedFor: "新色で個性を出したい方・卒業・誕生日の記念品を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbsyn.3rdw622d.g00qbsyn.3rdw79de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbugyo%2Fb06-21-277%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbugyo%2Fi%2F10004467%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/icon/sale/b06-21-277_c100.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/icon/sale/b06-21-277_d0p3.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -241,7 +241,7 @@ products:
       - "名入れ後は返品不可のため注文内容の事前確認が必須"
     recommendedFor: "名入れコストを抑えたい方・まとめてギフトを手配したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qm7tn.3rdw6475.g00qm7tn.3rdw747f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-youstyle%2Fmit-msxe5-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-youstyle%2Fi%2F10066665%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-youstyle/cabinet/rakulogo/rakulogo1/r1069_00007.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-youstyle/cabinet/rakulogo/rakulogo1/r1073_00007.jpg?_ex=128x128"
     genreId: "205824"
   - rank: 10
     name: "サラサグランド ビンテージ ジェルボールペン"

@@ -4,7 +4,7 @@ description: "除湿剤おすすめ9選を吸湿量1mLあたりの単価で徹�
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 products:
   - rank: 1
     name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
@@ -92,8 +92,8 @@ products:
     price: 1980
     capacity: "420mL×18個（7,560mL分）"
     pricePerUnit: "約0.26円/mL"
-    rating: 4.52
-    reviewCount: 44
+    rating: 4.53
+    reviewCount: 45
     features:
       - "備長炭配合で除湿＋消臭"
       - "タンクタイプで吸湿した水が一目でわかる"

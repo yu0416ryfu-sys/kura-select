@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 products:
   - rank: 1
     name: "ユースキン ハンドクリーム つけかえパウチ 180g"
@@ -262,7 +262,7 @@ products:
     price: 1120
     capacity: "30mL"
     rating: 4.51
-    reviewCount: 807
+    reviewCount: 808
     features:
       - "香水のような香りを楽しめるパフューム処方のハンドクリーム"
       - "5種類の香りから選べるセレクト仕様"

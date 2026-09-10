@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に8製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 draft: false
 products:
   - rank: 1
@@ -158,9 +158,9 @@ products:
   - rank: 6
     name: "ティファール IHハードチタニウム・アンリミテッド フライパン 26cm"
     brand: "ティファール"
-    price: 7810
+    price: 5024
     capacity: "1枚"
-    pricePerUnit: "約7810円/枚"
+    pricePerUnit: "約5024円/枚"
     rating: 4.44
     reviewCount: 9
     features:
@@ -195,7 +195,7 @@ products:
     price: 1998
     capacity: "1個"
     rating: 4.49
-    reviewCount: 321
+    reviewCount: 322
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

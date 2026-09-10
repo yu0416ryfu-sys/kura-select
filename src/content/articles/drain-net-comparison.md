@@ -4,7 +4,7 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 draft: false
 products:
   - rank: 1
@@ -275,7 +275,7 @@ products:
     capacity: "4枚×10袋（40枚）"
     pricePerUnit: "約55円/枚"
     rating: 4.65
-    reviewCount: 1055
+    reviewCount: 1056
     features:
       - "ポリプロピレン・ポリエステル製のヘアキャッチャー"
       - "台所・浴室どちらの排水口にも対応"
@@ -307,8 +307,8 @@ products:
     brand: "まるモール"
     price: 600
     capacity: "100枚"
-    rating: 4.8
-    reviewCount: 5
+    rating: 4.83
+    reviewCount: 6
     features:
       - "ポリエチレン製のシンプルなストッキングタイプ"
       - "浅型13×15cmサイズで標準的な排水口バスケットに対応"

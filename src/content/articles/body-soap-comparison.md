@@ -4,7 +4,7 @@ description: "ボディソープを1gあたりのコストで比較。ダヴ・h
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 products:
   - rank: 1
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
@@ -124,7 +124,7 @@ products:
     capacity: "115g"
     pricePerUnit: "約11円/g"
     rating: 4.79
-    reviewCount: 339
+    reviewCount: 340
     features:
       - "ボディソープとして使える洗浄料"
       - "継続利用しやすい定番構成"

@@ -4,7 +4,7 @@ description: "衣類・布用消臭スプレーを1プッシュあたりのコ�
 category: "sanitizing-spray"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 products:
   - rank: 1
     name: "リセッシュ 除菌EX デオドラントパワー 香りが残らないタイプ 本体 360mL"
@@ -267,7 +267,7 @@ products:
         available: true
         rating: 4.67
         reviewCount: 6
-    genreId: "401619"
+    genreId: "566118"
   - rank: 9
     name: "シュシュキッキ リフレッシャー除菌消臭ミスト 20mL"
     brand: "ナカノザダイレクト"

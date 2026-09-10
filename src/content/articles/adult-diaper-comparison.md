@@ -4,7 +4,7 @@ description: "大人用紙おむつ・尿とりパッドのおすすめ10選を1
 category: "adult-diaper"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 products:
   - rank: 1
     name: "ひまわり にっこり緑茶パッド 2回吸収 300枚"
@@ -148,8 +148,8 @@ products:
     price: 4521
     capacity: "66枚"
     pricePerUnit: "約69円/枚"
-    rating: 4.76
-    reviewCount: 704
+    rating: 4.75
+    reviewCount: 705
     features:
       - "夜間の長時間使用を想定したパッド"
       - "多めの吸収量に対応する厚手設計"
