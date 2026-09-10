@@ -353,6 +353,66 @@ describe("search-rules: rank2・rank3 の「カテゴリ語なし」誤検知（
   });
 });
 
+describe("search-rules: rank3 のカテゴリ適合 error の誤検知（2026-09-11）", () => {
+  // 実出品名をそのまま使う（rank3-audit-2026-09-10 の apiName）。どれも「弾きたいもの」を対で確認する
+  it("insect-repellent は「殺虫成分不使用」の '殺虫' に反応しない", () => {
+    const rule = getAdditionSearchRule("insect-repellent", "虫除けスプレー");
+    expect(
+      checkAdditionCandidateCategory(
+        { name: "【公式】カメムシ 対策 寄せ付けない 虫除け 虫除けスプレー 家中どこでも虫キライスプレー 防カビ 消臭 ベランダ 玄関 窓 蚊 蚊よけ クモ コバエ アリ 忌避剤 室内 殺虫成分不使用 天然精油 天然由来 カビ対策" },
+        rule
+      ).ok
+    ).toBe(true);
+    expect(checkAdditionCandidateCategory({ name: "虫除け 殺虫スプレー 蚊 ハエ 450ml" }, rule).ok).toBe(false);
+  });
+
+  it("natural-cleaning は重曹の用途列挙の '歯磨き' を通し、重曹歯磨き粉は弾く", () => {
+    const rule = getAdditionSearchRule("natural-cleaning", "重曹・セスキ炭酸ソーダ・クエン酸");
+    expect(
+      checkAdditionCandidateCategory(
+        { name: "重曹 ベーキングソーダー 大容量 6.1kg 6キロ コストコ アームアンドハンマー 食用グレード アルミニウムフリー 重曹 食品添加物 歯磨き 掃除 洗濯 脱臭 消臭 製菓 環境にやさしい エコ eco アメリカ産 天然鉱石 ジップロックタイプ ベーキングパウダー 【4個まで1送料】" },
+        rule
+      ).ok
+    ).toBe(true);
+    expect(checkAdditionCandidateCategory({ name: "重曹 歯磨き粉 100g ホワイトニング" }, rule).ok).toBe(false);
+  });
+
+  it("bath-drain-hair-catcher は「排水口ホルダー」を通し、他のホルダーは弾く", () => {
+    const rule = getAdditionSearchRule("bath-drain-hair-catcher", "浴室排水口ヘアキャッチャー");
+    expect(
+      checkAdditionCandidateCategory(
+        { name: "ヘアーキャッチャー お風呂の排水口用 （ 排水口ホルダー ヘアー キャッチャー ミューファン 抗菌 日本製 排水口カバー ヘアーストッパー 髪の毛キャッチャー 排水溝 ゴミ受け ヌメリ防止 お手入れ簡単 ）" },
+        rule
+      ).ok
+    ).toBe(true);
+    expect(checkAdditionCandidateCategory({ name: "排水口 ゴミ受け 掃除用 スポンジホルダー" }, rule).ok).toBe(false);
+  });
+
+  it("father-day-gift は父の日を含む用途列挙を通し、母の日専用ギフトは弾く", () => {
+    const rule = getAdditionSearchRule("gift", "父の日プレゼントランキング");
+    expect(
+      checkAdditionCandidateCategory(
+        { name: "名入れ ボールペン [ラミー] サファリ 国内正規品 ギフトBOX付き LAMY safari ボール 父の日 母の日 入学祝 就職祝 卒業記念 成人祝 プレゼント クリスマス 高級 筆記具 記念品 誕生日 名入り 名前入り 名入れペン 成人式" },
+        rule
+      ).ok
+    ).toBe(true);
+    expect(checkAdditionCandidateCategory({ name: "母の日 プレゼント カーネーション ギフト" }, rule).ok).toBe(false);
+    expect(checkAdditionCandidateCategory({ name: "クリスマス ギフト セット" }, rule).ok).toBe(false);
+  });
+
+  it("body-lotion はビオレu お風呂で使ううるおいミルクを通す", () => {
+    const rule = getAdditionSearchRule("body-lotion", "ボディローション");
+    expect(checkAdditionCandidateCategory({ name: "ビオレu お風呂で使ううるおいミルク 無香料 300ml" }, rule).ok).toBe(true);
+    expect(checkAdditionCandidateCategory({ name: "うるおいミルク 洗顔 150ml" }, rule).ok).toBe(false);
+  });
+
+  it("room-deodorizer（mukokukan-vs-shoshuriki）は無香空間を通す", () => {
+    const rule = getAdditionSearchRule("room-deodorizer", "無香空間と消臭力どっちがいい？");
+    expect(checkAdditionCandidateCategory({ name: "無香空間 本体 315g 小林製薬" }, rule).ok).toBe(true);
+    expect(checkAdditionCandidateCategory({ name: "無香空間 車用 ゲル" }, rule).ok).toBe(false);
+  });
+});
+
 describe("search-rules: stage2 単位判定", () => {
   const rule = getAdditionSearchRule("adult-diaper", "大人用紙おむつ");
 
