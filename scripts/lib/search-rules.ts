@@ -1039,6 +1039,9 @@ export function getArticleSpecificAdditionRule(category: string, baseKeyword: st
         'マウスウォッシャー',
         'ウォーターフロス',
         '電動フロス',
+        // フロススレッダー（糸通し）はフロス本体ではない。2026-09-10 に dental-floss r1 の
+        // リンク先がスレッダー5本入りだったのを削除したので、ここで再流入を止める
+        'スレッダー',
         'スタンド',
         'ケース',
         '収納',
