@@ -407,7 +407,7 @@ faqs:
 - **削って落ちる**: 水あか、茶渋、湯あか、乾いて硬くなった石けんカス
 - **洗剤のほうが早い**: 油、皮脂、ぬめり、カビの黒ずみ。こすっても伸びるだけで時間がかかります
 
-落ちない汚れに回数を重ねると、汚れより先に表面が削れます。数回こすって手応えが無ければ、道具を変えるサインです。浴室のカビや床の皮脂汚れは [浴室用洗剤の比較](/articles/bathroom-cleaner-comparison/) や [フローリング用洗剤の比較](/articles/floor-cleaner-comparison/)、食器のこびりつきは [キッチンスポンジの比較](/articles/kitchen-sponge-comparison/) のほうが目的に合います。
+落ちない汚れに回数を重ねると、汚れより先に表面が削れます。数回こすって手応えが無ければ、道具を変えるサインです。浴室のカビは [浴室用洗剤の比較](/articles/bathroom-cleaner-comparison/)、便器の輪じみは [トイレ用洗剤の比較](/articles/toilet-cleaner-comparison/)、食器のこびりつきは [キッチンスポンジの比較](/articles/kitchen-sponge-comparison/) のほうが目的に合います。
 
 ## この記事が向いていない人
 
