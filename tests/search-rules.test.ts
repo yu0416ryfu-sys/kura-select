@@ -306,6 +306,53 @@ describe("search-rules: rank2 誤検知7件（2026-09-04）", () => {
   });
 });
 
+describe("search-rules: rank2・rank3 の「カテゴリ語なし」誤検知（2026-09-10）", () => {
+  // 実出品名をそのまま使う（rank2-audit-2026-09-04 の apiName）
+  it("hand-cream はユースキンAa の詰め替えパウチを通す", () => {
+    const rule = getAdditionSearchRule("hand-cream", "ハンドクリーム");
+    expect(
+      checkAdditionCandidateCategory(
+        { name: "【2個セット】【指定医薬部外品】 ユースキンAa ポンプつけかえパウチ 180g ユースキン製薬 カートリッジ 詰替え ( 4987353190618-2)" },
+        rule
+      ).ok
+    ).toBe(true);
+    // 'ユースキン' 単体は入れていない（ローション等を通さない）
+    expect(checkAdditionCandidateCategory({ name: "ユースキン シソラ ローション 170mL" }, rule).ok).toBe(false);
+  });
+
+  it("kitchen-bleach はキッチンパワーブリーチを通し、ヘアブリーチは通さない", () => {
+    const rule = getAdditionSearchRule("kitchen-bleach", "キッチン漂白剤");
+    expect(
+      checkAdditionCandidateCategory(
+        { name: "ライオン キッチンパワーブリーチ 5kg 大容量 詰め替え 業務用 コック付き 注ぎ口付き つけ置き 除菌 漂白 除臭 食器 油汚れ ふきん 調理器具 雑菌 悪臭 LION ライオンハイジーン" },
+        rule
+      ).ok
+    ).toBe(true);
+    expect(checkAdditionCandidateCategory({ name: "ヘアブリーチ 脱色剤 セルフカラー" }, rule).ok).toBe(false);
+  });
+
+  it("washing-machine-cleaner / kitchen-bleach はコストコ版オキシクリーンを通す（記事が酸素系を比較対象にしている）", () => {
+    const name =
+      "《即納品》オキシクリーン除菌OK！当店計量スプーン付き★増量！5.26kg！★【送料無料】オキシクリーン　マルチパーパスクリーナー　OxiClean Multi Purpose Cleaner 11LB (oxi clean) コストコ通販";
+    expect(checkAdditionCandidateCategory({ name }, getAdditionSearchRule("washing-machine-cleaner", "洗濯槽クリーナー")).ok).toBe(true);
+    expect(checkAdditionCandidateCategory({ name }, getAdditionSearchRule("kitchen-bleach", "キッチン漂白剤")).ok).toBe(true);
+    // kitchen-bleach の『洗濯』除外は残っている（洗濯用のオキシクリーンは弾く）
+    expect(
+      checkAdditionCandidateCategory({ name: "オキシクリーン 洗濯用 1500g" }, getAdditionSearchRule("kitchen-bleach", "キッチン漂白剤")).ok
+    ).toBe(false);
+  });
+
+  it("kids-toothpaste（toothpaste カテゴリ）はチェックアップ コドモを通す", () => {
+    const rule = getAdditionSearchRule("toothpaste", "子ども用歯磨き粉");
+    expect(
+      checkAdditionCandidateCategory(
+        { name: "ライオン DENT. チェックアップコドモ 60g グレープ x 3本 【送料無料】【最安値挑戦中】【対象商品PT10倍開催中】" },
+        rule
+      ).ok
+    ).toBe(true);
+  });
+});
+
 describe("search-rules: stage2 単位判定", () => {
   const rule = getAdditionSearchRule("adult-diaper", "大人用紙おむつ");
 

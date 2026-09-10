@@ -3,7 +3,7 @@ title: "フロッシュとヤシノミ洗剤を徹底比較【2026年版】コ�
 description: "フロッシュとヤシノミ洗剤（サラヤ）の違いを1mLあたりの単価・手肌へのやさしさ・食材洗浄対応・環境配慮の4軸で徹底比較。どっちを選ぶべきか、用途別の使い分けまで解説します。価格は毎週自動更新。"
 category: "dish-detergent"
 publishedAt: "2026-07-08"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-10"
 articleType: "comparison"
 products:
   - rank: 1
@@ -41,11 +41,11 @@ products:
         available: true
     genreId: "216012"
   - rank: 2
-    name: "フロッシュ 食器用洗剤 アロエヴェラ 詰替 800mL"
+    name: "フロッシュ 食器用洗剤 アロエヴェラ 詰替 1000mL"
     brand: "フロッシュ（Werner & Mertz）"
-    price: 1361
-    capacity: "800mL"
-    pricePerUnit: "約1.7円/mL"
+    price: 1852
+    capacity: "1000mL"
+    pricePerUnit: "約1.9円/mL"
     rating: 0
     reviewCount: 0
     features:
@@ -60,8 +60,8 @@ products:
       - "野菜・果物の洗浄には使えない"
       - "香りつきのため無香料を求める方には向かない"
     recommendedFor: "手肌への配慮と環境配慮を両立しつつ、香りやデザインも楽しみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ul69n.3rdw632e.g00ul69n.3rdw7e5b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiraiyuki%2Ffd4jy7rbtgypaahfhfhhgndg4y%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmiraiyuki%2Fi%2F10885442%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/miraiyuki/cabinet/13315600/6568486_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uge1n.3rdw6789.g00uge1n.3rdw7be3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsjahop%2F20250805031624_70%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsjahop%2Fi%2F10069149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsjahop/cabinet/r_2023112506/20250805031624_70_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -73,6 +73,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_1630136"
         available: true
+    genreId: "101877"
 tags:
   - "食器用洗剤"
   - "フロッシュ"

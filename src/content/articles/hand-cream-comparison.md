@@ -29,32 +29,32 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/618/4987353190618.jpg?_ex=128x128"
     genreId: "304759"
   - rank: 2
-    name: "ユースキンA 180g"
+    name: "ユースキンAa ポンプつけかえパウチ 180g×2個"
     brand: "ユースキン製薬"
     price: 2790
-    capacity: "180g"
-    pricePerUnit: "約16円/g"
+    capacity: "180g×2個"
+    pricePerUnit: "約7.8円/g"
     rating: 5
     reviewCount: 3
     features:
-      - "ビタミンB2・ビタミンE・グリチルリチン酸配合の薬用処方"
-      - "ひび・あかぎれ・手荒れに効く第2類医薬品"
-      - "日本製の国産薬用ハンドクリーム"
+      - "有効成分を配合した指定医薬部外品のハンドクリーム"
+      - "ポンプ容器に付け替えて使う詰め替えパウチ"
+      - "180gパウチ2個のまとめ買いセット"
     pros:
-      - "医薬品成分配合で荒れた手肌に高い治療効果"
-      - "国産製造で品質管理が徹底されている"
-      - "黄色いチューブの定番で薬局でも入手しやすい"
+      - "1位と同じ詰め替えパウチを2個まとめて確保できる"
+      - "ポンプ式なので家族で共用しやすい"
+      - "定番ブランドで店頭でも見かけやすい"
     cons:
       - "独特の香りが気になる方もいる"
-      - "黄色い色素が白い布につく場合がある"
-    recommendedFor: "手荒れ・ひび・あかぎれが気になる方・薬用成分を重視する方"
+      - "ポンプ容器は別途用意する必要がある"
+    recommendedFor: "ユースキンを家族で使っていて詰め替えをまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00teiqn.3rdw6c4d.g00teiqn.3rdw7ea6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffumichan%2F4987353190618-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffumichan%2Fi%2F10004284%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fumichan/cabinet/07809991/4987353190618-2.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhashbaby%2Fc492513.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-24"
         price: 1540
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hashbaby_c492513"
