@@ -1,5 +1,5 @@
 import { describe, it, expect, afterEach } from "vitest";
-import { mkdtempSync, writeFileSync, rmSync } from "fs";
+import { mkdtempSync, writeFileSync, rmSync, readFileSync } from "fs";
 import { tmpdir } from "os";
 import path from "path";
 import { loadHolds } from "../scripts/lib/measurement-holds";
@@ -130,5 +130,36 @@ describe("loadHolds - releaseDateBySlug（新規）", () => {
     const holds = loadHolds(file, TODAY);
     expect(holds.frozenSlugs.size).toBe(0);
     expect(holds.available).toBe(true);
+  });
+});
+
+// 実ファイル（data/measurement-holds.json）の記帳規約。
+// searchNeed は機械判定には使わないが、施策が外れたときに
+// 「手法が悪かったのか、検索意図の読み違いか」を切り分ける唯一の記録なので、
+// 記帳漏れをテストで止める（CLAUDE.md §5.0.2）。
+describe("data/measurement-holds.json - 記帳規約", () => {
+  const realHolds = JSON.parse(
+    readFileSync(path.join(__dirname, "..", "data", "measurement-holds.json"), "utf-8"),
+  ) as { holds: Array<Record<string, unknown>> };
+
+  function label(row: Record<string, unknown>): string {
+    if (typeof row.slug === "string") return row.slug;
+    if (Array.isArray(row.slugs)) return `${row.cohortId ?? "cohort"}/${row.arm ?? "?"}`;
+    return JSON.stringify(row).slice(0, 40);
+  }
+
+  it("全 holds 行に searchNeed がある", () => {
+    const missing = realHolds.holds.filter((row) => typeof row.searchNeed !== "string").map(label);
+    expect(missing).toEqual([]);
+  });
+
+  it("searchNeed が空文字・プレースホルダでない", () => {
+    const empty = realHolds.holds
+      .filter((row) => {
+        const v = typeof row.searchNeed === "string" ? row.searchNeed.trim() : "";
+        return v.length < 10 || v === "TODO" || v === "未定";
+      })
+      .map(label);
+    expect(empty).toEqual([]);
   });
 });
