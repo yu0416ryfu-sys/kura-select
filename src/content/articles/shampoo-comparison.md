@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "ザクロー精炭酸シャンプー 詰替用"
@@ -75,36 +75,13 @@ products:
         reviewCount: 68
     genreId: "210677"
   - rank: 3
-    name: "マイマボタニカル 育毛シャンプー"
-    brand: "マイマ"
-    price: 2640
-    capacity: "240ml"
-    pricePerUnit: "約11円/mL"
-    rating: 4.46
-    reviewCount: 472
-    features:
-      - "頭皮や髪のケアに使えるシャンプー"
-      - "容量や仕上がりで選びやすい"
-      - "メンズ・スカルプ系も比較しやすい"
-    pros:
-      - "毎日のヘアケアに使いやすい"
-      - "悩みに合わせて選べる"
-      - "容量比較がしやすい"
-    cons:
-      - "髪質や頭皮との相性確認が必要"
-      - "香りや洗い上がりの好みは分かれる"
-    recommendedFor: "シャンプーを容量とケア目的で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s57rn.3rdw600e.g00s57rn.3rdw7060/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finksc%2Fshampoo_d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finksc%2Fi%2F10000367%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/ss_shampoo.jpg?_ex=128x128"
-    genreId: "210677"
-  - rank: 4
     name: "ケフトル スカルプシャンプー"
     brand: "ケフトル"
     price: 2680
     capacity: "250ml"
     pricePerUnit: "約11円/mL"
     rating: 4.66
-    reviewCount: 1037
+    reviewCount: 1043
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -131,6 +108,29 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cerapure_kf-22"
         available: true
     genreId: "210677"
+  - rank: 4
+    name: "マイマボタニカル 育毛シャンプー"
+    brand: "マイマ"
+    price: 2940
+    capacity: "240ml"
+    pricePerUnit: "約12円/mL"
+    rating: 4.45
+    reviewCount: 473
+    features:
+      - "頭皮や髪のケアに使えるシャンプー"
+      - "容量や仕上がりで選びやすい"
+      - "メンズ・スカルプ系も比較しやすい"
+    pros:
+      - "毎日のヘアケアに使いやすい"
+      - "悩みに合わせて選べる"
+      - "容量比較がしやすい"
+    cons:
+      - "髪質や頭皮との相性確認が必要"
+      - "香りや洗い上がりの好みは分かれる"
+    recommendedFor: "シャンプーを容量とケア目的で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s57rn.3rdw600e.g00s57rn.3rdw7060/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finksc%2Fshampoo_d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finksc%2Fi%2F10000367%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/n_shampoo.jpg?_ex=128x128"
+    genreId: "210677"
   - rank: 5
     name: "ウーマシャンプー プレミアム 300mL"
     brand: "U-MA"
@@ -138,7 +138,7 @@ products:
     capacity: "300mL"
     pricePerUnit: "約15円/mL"
     rating: 4.23
-    reviewCount: 2424
+    reviewCount: 2425
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -152,7 +152,7 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rtxcn.3rdw61bb.g00rtxcn.3rdw7a34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fu-ma-store%2F001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fu-ma-store%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-ma-store/cabinet/ciers/imgrc0115456436.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-ma-store/cabinet/main/imgrc0115982279.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -227,8 +227,8 @@ products:
     brand: "ケラスターゼ"
     price: 4180
     capacity: "250ml"
-    rating: 4.67
-    reviewCount: 309
+    rating: 4.66
+    reviewCount: 316
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"

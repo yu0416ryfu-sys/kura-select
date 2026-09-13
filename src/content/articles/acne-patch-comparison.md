@@ -4,7 +4,7 @@ description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚�
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 1490
     capacity: "108枚"
     pricePerUnit: "約14円/枚"
-    rating: 4.73
-    reviewCount: 11
+    rating: 4.75
+    reviewCount: 12
     features:
       - "大容量108枚入りのハイドロコロイドパッチ"
       - "肌なじみを意識した目立ちにくいタイプ"
@@ -49,7 +49,7 @@ products:
     capacity: "144枚"
     pricePerUnit: "約14円/枚"
     rating: 4.68
-    reviewCount: 1018
+    reviewCount: 1026
     features:
       - "VT PRO CICAシリーズ 48枚入り×3個のまとめ買いセット"
       - "CICA配合ハイドロゲル素材で2サイズ使い分け可能"
@@ -276,7 +276,7 @@ products:
     price: 880
     capacity: "48枚"
     rating: 4.51
-    reviewCount: 1501
+    reviewCount: 1505
     features:
       - "硬質ハイドロゲルを使用したスポットパッチ"
       - "2サイズ（10mm・12mm）のパッチが1セットに入った構成"

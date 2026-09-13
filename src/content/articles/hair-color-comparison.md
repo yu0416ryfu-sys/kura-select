@@ -4,7 +4,7 @@ description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あ�
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -37,7 +37,7 @@ products:
     capacity: "100g×2袋"
     pricePerUnit: "約7.9円/g"
     rating: 4.42
-    reviewCount: 3157
+    reviewCount: 3158
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -56,9 +56,9 @@ products:
   - rank: 3
     name: "エムズハーブカラートリートメント彩 500g"
     brand: "スリアン"
-    price: 5940
+    price: 6600
     capacity: "500g"
-    pricePerUnit: "約12円/g"
+    pricePerUnit: "約13円/g"
     rating: 4.54
     reviewCount: 705
     features:
@@ -93,8 +93,8 @@ products:
     price: 5808
     capacity: "400g"
     pricePerUnit: "約15円/g"
-    rating: 4.37
-    reviewCount: 8218
+    rating: 4.38
+    reviewCount: 8266
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -128,7 +128,7 @@ products:
     capacity: "350g"
     pricePerUnit: "約16円/g"
     rating: 4.27
-    reviewCount: 3007
+    reviewCount: 3020
     features:
       - "洗いながら染めるクリームシャンプータイプ"
       - "白髪染め・トリートメント機能を兼ねる"
@@ -185,7 +185,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.5
-    reviewCount: 2658
+    reviewCount: 2684
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -208,7 +208,7 @@ products:
     capacity: "3個"
     pricePerUnit: "約5808円/個"
     rating: 4.52
-    reviewCount: 1705
+    reviewCount: 1712
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

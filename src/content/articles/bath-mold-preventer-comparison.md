@@ -4,7 +4,7 @@ description: "お風呂防カビ剤を1回あたりのコストで比較。く�
 category: "bath-mold-preventer"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -274,8 +274,8 @@ products:
     price: 752
     capacity: "4g（1個）"
     pricePerUnit: "約752円/個"
-    rating: 4.54
-    reviewCount: 120
+    rating: 4.53
+    reviewCount: 121
     features:
       - "1回使い切りの単品パッケージ"
       - "浴室のカビの発生を抑えるくん煙タイプ"

@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -254,7 +254,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9214406%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10000607%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/logo/9214406.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/eigyou/11675860/7356288.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -308,7 +308,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.69
-    reviewCount: 946
+    reviewCount: 951
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

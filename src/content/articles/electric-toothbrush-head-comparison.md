@@ -4,33 +4,10 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
-    name: "ブラウン オーラルB EB17 対応 互換替えブラシ 32本"
-    brand: "ビューティーブリッジ（オーラルB 互換品）"
-    price: 2574
-    capacity: "32本"
-    pricePerUnit: "約80円/本"
-    rating: 4.32
-    reviewCount: 182
-    features:
-      - "オーラルB EB17 / SB-17A 対応の非純正互換ブラシ"
-      - "8セット合計32本の大容量パック"
-      - "レビュー件数が多く選ばれている互換品"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "非純正品のため純正と使用感や耐久性が異なる場合がある"
-      - "io シリーズには使用できないなど対応機種の確認が必要"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6l1n.3rdw6f6f.g00r6l1n.3rdw7918/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyhair%2Foral-b-8set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyhair%2Fi%2F10005265%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyhair/cabinet/mbimg/eb17-32m01.jpg?_ex=128x128"
-    genreId: "212559"
-  - rank: 2
     name: "オーラルB互換ブラシ EB17 EB10"
     brand: "e-shop aoakua"
     price: 1420
@@ -52,6 +29,29 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5rln.3rdw693c.g00s5rln.3rdw7066/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faoakua%2F10000252%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faoakua%2Fi%2F10000252%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aoakua/cabinet/06495854/imgrc0105402366.jpg?_ex=128x128"
+    genreId: "212559"
+  - rank: 2
+    name: "ブラウン オーラルB EB17 対応 互換替えブラシ 32本"
+    brand: "ビューティーブリッジ（オーラルB 互換品）"
+    price: 2860
+    capacity: "32本"
+    pricePerUnit: "約89円/本"
+    rating: 4.32
+    reviewCount: 182
+    features:
+      - "オーラルB EB17 / SB-17A 対応の非純正互換ブラシ"
+      - "8セット合計32本の大容量パック"
+      - "レビュー件数が多く選ばれている互換品"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "非純正品のため純正と使用感や耐久性が異なる場合がある"
+      - "io シリーズには使用できないなど対応機種の確認が必要"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6l1n.3rdw6f6f.g00r6l1n.3rdw7918/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyhair%2Foral-b-8set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautyhair%2Fi%2F10005265%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beautyhair/cabinet/mbimg/eb17-32m01.jpg?_ex=128x128"
     genreId: "212559"
   - rank: 3
     name: "オーラルB互換 替えブラシ 16本セット"
@@ -249,7 +249,7 @@ products:
   - rank: 9
     name: "ブラウン オーラルB 選べる各種 互換 替えブラシ EB17 EB18 EB20 E"
     brand: "ブラウン"
-    price: 1383
+    price: 1537
     capacity: "16本"
     rating: 4.23
     reviewCount: 1449
@@ -278,7 +278,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-    priceMax: 1584
+    priceMax: 1760
     genreId: "212559"
   - rank: 10
     name: "ブラウン オーラルB 選べる各種 互換 替えブラシ 4本セット EB17 EB18 "

@@ -4,7 +4,7 @@ description: "夜用パンツタイプのおむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "オヤスミマン 男の子 ビッグ以上 夜用"
@@ -45,7 +45,7 @@ products:
     capacity: "22枚×3袋（13kg～28kg）"
     pricePerUnit: "約79円/枚"
     rating: 4.78
-    reviewCount: 122
+    reviewCount: 123
     features:
       - "8回分の吸収力を持つ夜用設計"
       - "360°モレ徹底ガード構造"

@@ -4,7 +4,7 @@ description: "ゴミ袋はどれがコスパよくお得？45L・20Lの人気10�
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "HEIKO PP食パン袋 半斤用 300枚"
@@ -13,7 +13,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.76
-    reviewCount: 1599
+    reviewCount: 1607
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -27,7 +27,7 @@ products:
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "家庭内のにおい対策や分別に使いやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uc6ln.3rdw66a7.g00uc6ln.3rdw7212/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamazenyamaya%2F49017554468143%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamazenyamaya%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamazenyamaya/cabinet/09561915/09597830/imgrc0121625975.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamazenyamaya/cabinet/09561915/09597830/3p_han_w.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -47,7 +47,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.9円/枚"
     rating: 4.85
-    reviewCount: 291
+    reviewCount: 292
     features:
       - "ごみや汚れ物の小分けに使える袋"
       - "継続利用しやすい定番構成"
@@ -273,8 +273,8 @@ products:
     brand: "ケイヨウ実業"
     price: 2880
     capacity: "200枚"
-    rating: 4.14
-    reviewCount: 81
+    rating: 4.12
+    reviewCount: 82
     features:
       - "45Lサイズの半透明ゴミ袋"
       - "破れにくい厚手タイプ"

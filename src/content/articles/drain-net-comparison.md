@@ -4,7 +4,7 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -81,8 +81,8 @@ products:
     price: 459
     capacity: "100枚"
     pricePerUnit: "約4.6円/枚"
-    rating: 4.5
-    reviewCount: 4
+    rating: 4.6
+    reviewCount: 5
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -275,7 +275,7 @@ products:
     capacity: "4枚×10袋（40枚）"
     pricePerUnit: "約55円/枚"
     rating: 4.65
-    reviewCount: 1056
+    reviewCount: 1058
     features:
       - "ポリプロピレン・ポリエステル製のヘアキャッチャー"
       - "台所・浴室どちらの排水口にも対応"
@@ -289,7 +289,7 @@ products:
       - "深型の排水口にはサイズが合わない場合がある"
     recommendedFor: "台所と浴室の両方で使い分けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0hgn.3rdw611d.g00u0hgn.3rdw71b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fla-kurasu%2Fbt-et-186930-10s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fla-kurasu%2Fi%2F10000124%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/la-kurasu/cabinet/item/event/bt-et-186930-10s_905.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/la-kurasu/cabinet/item/maker_bonstar/imgrc0103005309.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

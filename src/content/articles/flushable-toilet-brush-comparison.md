@@ -4,7 +4,7 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -115,7 +115,7 @@ products:
     price: 1298
     capacity: "24個"
     rating: 4.73
-    reviewCount: 111
+    reviewCount: 112
     features:
       - "付替ブラシ24個入りの標準サイズ"
       - "ホワイトブロッサムの香り付きタイプ"

@@ -4,7 +4,7 @@ description: "食洗機用洗剤を1回あたりのコストで徹底比較。�
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "P&G 食洗機用ジョイ オレンジピール成分入り 詰替 490g"
@@ -205,8 +205,8 @@ products:
     price: 990
     capacity: "800g"
     pricePerUnit: "約1.2円/g"
-    rating: 4.47
-    reviewCount: 57
+    rating: 4.48
+    reviewCount: 58
     features:
       - "食器洗い乾燥機専用の洗剤"
       - "継続利用しやすい定番構成"
@@ -268,11 +268,11 @@ products:
   - rank: 9
     name: "フィニッシュ パワーキューブ ビッグパック"
     brand: "フィニッシュ（Finish）"
-    price: 5850
+    price: 6050
     capacity: "450個"
     pricePerUnit: "約13円/個"
     rating: 4.82
-    reviewCount: 228
+    reviewCount: 229
     features:
       - "タブレットタイプの食洗機用洗剤"
       - "大容量のビッグパック3袋セット"

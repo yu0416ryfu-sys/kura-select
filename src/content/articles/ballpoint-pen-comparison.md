@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -62,7 +62,7 @@ products:
       - "名入れ後は返品・交換不可"
     recommendedFor: "限定カラーで個性を出したい方・特別な卒団・卒業記念品を贈りたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbsyn.3rdw622d.g00qbsyn.3rdw79de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbugyo%2Fe06-21-660%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbugyo%2Fi%2F10006340%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/icon/sale/e06-21-660_d0p3.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/pen_2014/pen_2020_136_3.jpg?_ex=128x128"
     genreId: "205824"
   - rank: 3
     name: "パーカー IM ボールペン"
@@ -93,7 +93,7 @@ products:
     price: 1000
     capacity: "1本（4色ボールペン+シャープペンシル）"
     rating: 4.78
-    reviewCount: 13628
+    reviewCount: 13632
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"
@@ -107,7 +107,7 @@ products:
       - "多機能ペンのため単機能ペンより軸が太め"
     recommendedFor: "新色で個性を出したい方・卒業・誕生日の記念品を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbsyn.3rdw622d.g00qbsyn.3rdw79de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbugyo%2Fb06-21-277%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbugyo%2Fi%2F10004467%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/icon/sale/b06-21-277_d0p3.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/pen_2021/pen_2019_123d.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -203,7 +203,7 @@ products:
     price: 880
     capacity: "-"
     rating: 4.54
-    reviewCount: 185
+    reviewCount: 187
     features:
       - "4色油性ボールペン＋シャープペンシル搭載の多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きでギフト・記念品に最適"
@@ -227,7 +227,7 @@ products:
     capacity: "-"
     pricePerUnit: "-"
     rating: 4.55
-    reviewCount: 250
+    reviewCount: 251
     features:
       - "MSXE5-1000正規品に名入れ無料サービスが込みで1,000円台"
       - "0.38/0.5/0.7mm軸径を選択でき、用途に合わせてカスタマイズ可能"
@@ -241,7 +241,7 @@ products:
       - "名入れ後は返品不可のため注文内容の事前確認が必須"
     recommendedFor: "名入れコストを抑えたい方・まとめてギフトを手配したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qm7tn.3rdw6475.g00qm7tn.3rdw747f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-youstyle%2Fmit-msxe5-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-youstyle%2Fi%2F10066665%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-youstyle/cabinet/rakulogo/rakulogo1/r1073_00007.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-youstyle/cabinet/rakulogo/rakulogo1/r1069_00007.jpg?_ex=128x128"
     genreId: "205824"
   - rank: 10
     name: "サラサグランド ビンテージ ジェルボールペン"
@@ -249,7 +249,7 @@ products:
     price: 1100
     capacity: "-"
     rating: 4.8
-    reviewCount: 291
+    reviewCount: 292
     features:
       - "ビンテージカラーのおしゃれなデザインで日常使いからギフトまで対応"
       - "0.5mm・0.3mm選択可能なゲルインク採用"

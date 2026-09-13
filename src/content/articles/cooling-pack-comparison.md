@@ -4,9 +4,32 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
+    name: "ロゴス 倍速凍結 氷点下パックXL セット"
+    brand: "ロゴス（LOGOS）"
+    price: 4650
+    capacity: "3個"
+    pricePerUnit: "約1550円/個"
+    rating: 4.71
+    reviewCount: 52
+    features:
+      - "氷点下を保つ強力タイプの保冷剤"
+      - "短時間で凍結できる設計をうたうシリーズ"
+      - "XLサイズのまとめセット"
+    pros:
+      - "クーラーボックスの温度を長く低く保ちやすい"
+      - "キャンプや買い出しなど長時間の持ち運びに向く"
+      - "複数個あるので上下に挟む使い方ができる"
+    cons:
+      - "サイズが大きく冷凍庫の場所を取る"
+      - "再凍結に時間がかかるため連日の使用には向かない"
+    recommendedFor: "アウトドアや長距離の買い出しで保冷力を優先したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3jpn.3rdw6dfe.g00r3jpn.3rdw7ca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhimaraya%2F0000383605set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhimaraya%2Fi%2F10410213%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/himaraya/cabinet/0000383605/0000383605set_r1_01.jpg?_ex=128x128"
+    genreId: "567381"
+  - rank: 2
     name: "LOGOS 倍速凍結 氷点下パックL"
     brand: "LOGOS"
     price: 1650
@@ -29,7 +52,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn68n.3rdw6313.g00qn68n.3rdw75ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4981325395827%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10723457%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/orj/35/0-4981325395827.jpg?_ex=128x128"
     genreId: "101991"
-  - rank: 2
+  - rank: 3
     name: "JEJアステージ アイスロックス 1100 長時間保冷 持続 強力 ハードタイプ 日"
     brand: "JEJアステージ"
     price: 1760
@@ -52,29 +75,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzvnn.3rdw6032.g00qzvnn.3rdw7eed/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-lalala%2Ficerox%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-lalala%2Fi%2F10437379%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-lalala/cabinet/syohin/astage/icerox.jpg?_ex=128x128"
     genreId: "201925"
-  - rank: 3
-    name: "ロゴス 倍速凍結 氷点下パックXL セット"
-    brand: "ロゴス（LOGOS）"
-    price: 5610
-    capacity: "3個"
-    pricePerUnit: "約1870円/個"
-    rating: 4.71
-    reviewCount: 52
-    features:
-      - "氷点下を保つ強力タイプの保冷剤"
-      - "短時間で凍結できる設計をうたうシリーズ"
-      - "XLサイズのまとめセット"
-    pros:
-      - "クーラーボックスの温度を長く低く保ちやすい"
-      - "キャンプや買い出しなど長時間の持ち運びに向く"
-      - "複数個あるので上下に挟む使い方ができる"
-    cons:
-      - "サイズが大きく冷凍庫の場所を取る"
-      - "再凍結に時間がかかるため連日の使用には向かない"
-    recommendedFor: "アウトドアや長距離の買い出しで保冷力を優先したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3jpn.3rdw6dfe.g00r3jpn.3rdw7ca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhimaraya%2F0000383605set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhimaraya%2Fi%2F10410213%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/himaraya/cabinet/0000383605/0000383605set_r1_01.jpg?_ex=128x128"
-    genreId: "567381"
   - rank: 4
     name: "クールインパック ハード 750g 保冷パック 保冷剤 日本製"
     brand: "クールインパック"
@@ -148,8 +148,8 @@ products:
     brand: "LOGOS"
     price: 770
     capacity: "1個"
-    rating: 4.66
-    reviewCount: 250
+    rating: 4.67
+    reviewCount: 255
     features:
       - "繰り返し使える保冷剤タイプ"
       - "保冷バッグやクーラーボックスに入れやすい形状"
@@ -192,10 +192,10 @@ products:
   - rank: 8
     name: "HUGEL 氷点下保冷剤 急速凍結タイプ Mサイズ"
     brand: "HUGEL"
-    price: 880
+    price: 1180
     capacity: "Mサイズ 1個"
-    rating: 4.34
-    reviewCount: 156
+    rating: 4.35
+    reviewCount: 158
     features:
       - "ハードタイプで溶けてもかさばらず繰り返し使いやすい設計"
       - "M（540g）・L（830g）・XL（1.1kg）の3サイズから用途に応じて選べる"
@@ -210,7 +210,7 @@ products:
     recommendedFor: "サイズと冷却力を選んで用途に合わせたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pjh9n.3rdw6262.g00pjh9n.3rdw7cf0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funidy%2F107933%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funidy%2Fi%2F11161201%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unidy/cabinet/11071608/13015942/imgrc0114404094.jpg?_ex=128x128"
-    priceMax: 1910
+    priceMax: 2680
     genreId: "101991"
   - rank: 9
     name: "NISHIZARC ステンレス保冷剤"

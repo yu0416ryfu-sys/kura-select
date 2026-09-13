@@ -4,7 +4,7 @@ description: "浴室排水口ヘアキャッチャーを1個あたりのコス�
 category: "bath-drain-hair-catcher"
 publishedAt: "2026-06-04"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -82,8 +82,8 @@ products:
     price: 2420
     capacity: "1個"
     pricePerUnit: "約2420円/個"
-    rating: 4.7
-    reviewCount: 2412
+    rating: 4.69
+    reviewCount: 2442
     features:
       - "TOTO対応サイズのヘアーキャッチャー"
       - "浴室排水口向けのステンレス製"
@@ -106,7 +106,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2530円/個"
     rating: 4.62
-    reviewCount: 4911
+    reviewCount: 4977
     features:
       - "浴室排水口向けのステンレス製"
       - "マグネット式のヘアーキャッチャー"
@@ -129,7 +129,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2580円/個"
     rating: 4.19
-    reviewCount: 210
+    reviewCount: 211
     features:
       - "ステンレス製の排水口カバー"
       - "ネット付きのヘアーキャッチャー"
@@ -171,7 +171,7 @@ products:
   - rank: 8
     name: "髪の毛くるくるポイ"
     brand: "ウエルスジャパン"
-    price: 1030
+    price: 1150
     capacity: "1個"
     rating: 4.19
     reviewCount: 647
@@ -200,15 +200,15 @@ products:
         reviewCount: 19
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fabric-cute_4580356840049"
         available: true
-    priceMax: 2280
+    priceMax: 2550
     genreId: "101839"
   - rank: 9
     name: "Magico かくれんぼネットホルダー"
     brand: "Magico"
     price: 1000
     capacity: "1個"
-    rating: 4.66
-    reviewCount: 648
+    rating: 4.65
+    reviewCount: 653
     features:
       - "浴室排水口向けのネットホルダー"
       - "排水口ネットを隠しやすい構造"

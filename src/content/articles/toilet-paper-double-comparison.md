@@ -4,7 +4,7 @@ description: "ダブルのトイレットペーパーを1mあたりのコスト�
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "エシカル12RW ダブル 12ロール×8パック"
@@ -13,7 +13,7 @@ products:
     capacity: "27.5m×12ロール×8パック"
     pricePerUnit: "約1.2円/m"
     rating: 4.43
-    reviewCount: 3347
+    reviewCount: 3348
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -30,6 +30,29 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/coming/cabinet/daiichimoji/imgrc0078843721.jpg?_ex=128x128"
     genreId: "501098"
   - rank: 2
+    name: "ブルーネット トイレットペーパー ダブル 27.5m×12ロール×8パック"
+    brand: "カミングネット"
+    price: 4565
+    capacity: "27.5m×12ロール×8パック（96ロール）"
+    pricePerUnit: "約1.7円/m"
+    rating: 5
+    reviewCount: 5
+    features:
+      - "再生紙を使ったダブルタイプ"
+      - "無地・無印刷で日常使いしやすい"
+      - "まとめ買い向けのケース販売"
+    pros:
+      - "日常使いのストックをまとめて確保しやすい"
+      - "再生紙タイプを選びたい家庭に向いている"
+      - "シンプルな仕様で家庭用にも業務用にも使いやすい"
+    cons:
+      - "パルプ製品と比べると肌触りの好みが分かれる"
+      - "大容量のため保管スペースを事前に確認したい"
+    recommendedFor: "再生紙のダブルタイプをまとめ買いしたい方・家庭用のストックを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r90rn.3rdw6d63.g00r90rn.3rdw7ade/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwakuwaku-kobe%2F4972165012074%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwakuwaku-kobe%2Fi%2F10001689%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wakuwaku-kobe/cabinet/toipe_ippann/imgrc0095014555.jpg?_ex=128x128"
+    genreId: "501098"
+  - rank: 3
     name: "ハロー トイレットペーパー ダブル 2倍巻き"
     brand: "ハロー"
     price: 6210
@@ -63,29 +86,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/stylem_aj4741mstyle284edf800d"
         available: true
     genreId: "501098"
-  - rank: 3
-    name: "ブルーネット トイレットペーパー ダブル 27.5m×12ロール×8パック"
-    brand: "カミングネット"
-    price: 4752
-    capacity: "27.5m×12ロール×8パック（96ロール）"
-    pricePerUnit: "約1.8円/m"
-    rating: 5
-    reviewCount: 5
-    features:
-      - "再生紙を使ったダブルタイプ"
-      - "無地・無印刷で日常使いしやすい"
-      - "まとめ買い向けのケース販売"
-    pros:
-      - "日常使いのストックをまとめて確保しやすい"
-      - "再生紙タイプを選びたい家庭に向いている"
-      - "シンプルな仕様で家庭用にも業務用にも使いやすい"
-    cons:
-      - "パルプ製品と比べると肌触りの好みが分かれる"
-      - "大容量のため保管スペースを事前に確認したい"
-    recommendedFor: "再生紙のダブルタイプをまとめ買いしたい方・家庭用のストックを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r90rn.3rdw6d63.g00r90rn.3rdw7ade/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwakuwaku-kobe%2F4972165012074%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwakuwaku-kobe%2Fi%2F10001689%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wakuwaku-kobe/cabinet/toipe_ippann/imgrc0095014555.jpg?_ex=128x128"
-    genreId: "501098"
   - rank: 4
     name: "スコッティ フラワーパック 3倍長持ち ダブル 4ロール×12袋"
     brand: "日本製紙クレシア（スコッティ）"
@@ -93,7 +93,7 @@ products:
     capacity: "75m×4ロール×12袋"
     pricePerUnit: "約2.0円/m"
     rating: 4.64
-    reviewCount: 1520
+    reviewCount: 1524
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -262,7 +262,7 @@ products:
     price: 3650
     capacity: "75m×4ロール×12パック（3倍巻き）"
     rating: 4.75
-    reviewCount: 950
+    reviewCount: 952
     features:
       - "3倍長持ち設計で交換頻度が大幅に減る"
       - "ダブルタイプで使い心地が良い"
@@ -288,7 +288,7 @@ products:
         available: true
         rating: 4.78
         reviewCount: 557
-    priceMax: 6870
+    priceMax: 7458
     genreId: "501098"
 tags:
   - "トイレットペーパー"

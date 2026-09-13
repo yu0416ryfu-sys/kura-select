@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -78,9 +78,9 @@ products:
   - rank: 3
     name: "エアコンフィルター 5枚入"
     brand: "東和産業"
-    price: 2151
+    price: 2390
     capacity: "5枚"
-    pricePerUnit: "約430円/枚"
+    pricePerUnit: "約478円/枚"
     rating: 4.23
     reviewCount: 30
     features:
@@ -99,7 +99,7 @@ products:
       - "単価は中程度"
     recommendedFor: "まとめ買いしたい、こまめに交換したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqjzn.3rdw60ba.g00qqjzn.3rdw79fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkainan-zakka%2F902625%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkainan-zakka%2Fi%2F10002942%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kainan-zakka/cabinet/tz/ekf/tz_ekf5p_top_sl.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kainan-zakka/cabinet/tz/ekf/tz_ekf5p_top.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -159,9 +159,9 @@ products:
   - rank: 6
     name: "東洋アルミ ウイルス対策ホコリとりフィルター エアコン・空気清浄機用 3個"
     brand: "東洋アルミ"
-    price: 1999
+    price: 2018
     capacity: "1枚×3個（3枚）"
-    pricePerUnit: "約666円/枚"
+    pricePerUnit: "約673円/枚"
     rating: 4
     reviewCount: 2
     features:
@@ -186,7 +186,7 @@ products:
     capacity: "2枚"
     pricePerUnit: "約795円/枚"
     rating: 4.39
-    reviewCount: 508
+    reviewCount: 509
     features:
       - "バイオ酵素配合でカビの発生を抑制する設計"
       - "粘着シール付きでフレームなしで装着可能"

@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -191,9 +191,9 @@ products:
   - rank: 7
     name: "トイレクイックル つめかえ用 10枚×12パック"
     brand: "花王（クイックル）"
-    price: 2600
+    price: 3000
     capacity: "10枚×12パック（120枚）"
-    pricePerUnit: "約22円/枚"
+    pricePerUnit: "約25円/枚"
     rating: 5
     reviewCount: 1
     features:

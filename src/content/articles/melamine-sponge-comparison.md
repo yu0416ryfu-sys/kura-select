@@ -4,7 +4,7 @@ description: "メラミンスポンジを1個あたりのコストで比較。�
 category: "melamine-sponge"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -217,8 +217,8 @@ products:
     price: 849
     capacity: "6個"
     pricePerUnit: "約142円/個"
-    rating: 4.77
-    reviewCount: 13
+    rating: 4.79
+    reviewCount: 14
     features:
       - "メラミンフォームの掃除用スポンジ"
       - "水を含ませて使うタイプ"

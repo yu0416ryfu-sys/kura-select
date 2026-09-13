@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -66,9 +66,9 @@ products:
   - rank: 3
     name: "ネピア ソフトパックティッシュ 240組 80パック"
     brand: "王子ネピア"
-    price: 6880
+    price: 7720
     capacity: "240組×80パック"
-    pricePerUnit: "約0.36円/組"
+    pricePerUnit: "約0.40円/組"
     rating: 4.88
     reviewCount: 8
     features:
@@ -89,9 +89,9 @@ products:
   - rank: 4
     name: "ネピア ソフトパックティッシュ 240組 80パック 防災備蓄セット"
     brand: "王子ネピア"
-    price: 6880
+    price: 7720
     capacity: "240組×80パック"
-    pricePerUnit: "約0.36円/組"
+    pricePerUnit: "約0.40円/組"
     rating: 5
     reviewCount: 1
     features:
@@ -112,7 +112,7 @@ products:
   - rank: 5
     name: "ネピア ソフトパックティッシュ 200組 90個"
     brand: "王子ネピア"
-    price: 5440
+    price: 5980
     capacity: "200組×90個"
     rating: 4.62
     reviewCount: 39
@@ -167,10 +167,10 @@ products:
   - rank: 7
     name: "Smart Yell ソフトパックティッシュ 150組×50個"
     brand: "アイリスオーヤマ"
-    price: 2640
+    price: 3050
     capacity: "150組×50個（7500組）"
     rating: 4.55
-    reviewCount: 830
+    reviewCount: 831
     features:
       - "アイリスオーヤマのソフトパック"
       - "150組×50個のまとめ買いパック"
@@ -195,7 +195,7 @@ products:
         matchedCapacity: "150組 5P×5セット（25個）"
         matchNotes: "入数違い採用（楽天は150組×50個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
-    priceMax: 4301
+    priceMax: 4980
     genreId: "100670"
   - rank: 8
     name: "フルール ソフトパックティッシュ 200組×80個"

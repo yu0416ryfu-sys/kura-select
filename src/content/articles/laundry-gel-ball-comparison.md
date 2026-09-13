@@ -4,7 +4,7 @@ description: "ジェルボール洗剤を1個あたりのコストで比較し�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -61,7 +61,7 @@ products:
       - "1袋あたりの個数は大容量パックより少ない"
     recommendedFor: "柔軟剤なしで香りを完結させたい方・夜洗濯や部屋干しが多い方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tr3yn.3rdw6682.g00tr3yn.3rdw7309/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpayoff%2Fpk08204%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpayoff%2Fi%2F10115877%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/payoff/cabinet/sale3_muryou_08/b08204.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/payoff/cabinet/muryou_08/b08204.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -80,8 +80,8 @@ products:
     price: 2997
     capacity: "89個"
     pricePerUnit: "約34円/個"
-    rating: 4.84
-    reviewCount: 43
+    rating: 4.82
+    reviewCount: 44
     features:
       - "部屋干し時の生乾き臭に狙いを定めた処方"
       - "汗をかいた衣類・運動着の皮脂汚れに対応"
@@ -300,6 +300,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00umlcn.3rdw6f00.g00umlcn.3rdw76fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatanusstore%2F4987176336330%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplatanusstore%2Fi%2F10000138%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/platanusstore/cabinet/compass1761781326.jpg?_ex=128x128"
     priceMax: 15280
+    genreId: "210182"
   - rank: 10
     name: "ボールド ジェルボール4in1 ホワイトムスク＆フローラル 詰め替え"
     brand: "P&G（ボールド）"

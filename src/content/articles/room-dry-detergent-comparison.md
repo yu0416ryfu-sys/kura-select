@@ -4,7 +4,7 @@ description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底�
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "部屋干しトップ 除菌EX 詰替 810g×10個"
@@ -187,7 +187,7 @@ products:
     capacity: "1000g"
     pricePerUnit: "約6.4円/g"
     rating: 4.7
-    reviewCount: 653
+    reviewCount: 654
     features:
       - "おしゃれ着やドライマーク衣類向けの洗剤"
       - "ニットやスーツなどに使いやすい"
@@ -274,9 +274,9 @@ products:
   - rank: 9
     name: "アリエール ジェルボール4D 部屋干し用 詰め替え 92個"
     brand: "P&G（アリエール）"
-    price: 4611
+    price: 4211
     capacity: "92個（92回分）"
-    pricePerUnit: "約50円/個"
+    pricePerUnit: "約46円/個"
     rating: 4.75
     reviewCount: 8
     features:

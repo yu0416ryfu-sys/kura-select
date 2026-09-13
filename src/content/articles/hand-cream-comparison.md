@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "ユースキン ハンドクリーム つけかえパウチ 180g"
@@ -88,11 +88,11 @@ products:
   - rank: 4
     name: "ハンドクリーム 80g べたつかない 無香料"
     brand: "てんまん香粧薬房"
-    price: 2000
+    price: 2500
     capacity: "80g"
-    pricePerUnit: "約25円/g"
+    pricePerUnit: "約31円/g"
     rating: 4.61
-    reviewCount: 1976
+    reviewCount: 1977
     features:
       - "80g入りの大容量チューブタイプ"
       - "無香料処方で香りが苦手な方も使いやすい"
@@ -148,7 +148,7 @@ products:
     price: 253
     capacity: "5g"
     rating: 4.24
-    reviewCount: 1093
+    reviewCount: 1094
     features:
       - "卵殻膜エキス配合のナチュラルモイスチュアクリーム"
       - "5gのお試しサイズで使用感を確認しやすい"
@@ -182,7 +182,7 @@ products:
     price: 2200
     capacity: "43g"
     rating: 4.7
-    reviewCount: 738
+    reviewCount: 739
     features:
       - "オーガニック認証原料を使用したハンドクリーム"
       - "43gの使いやすいサイズでギフト用途にも対応"
@@ -202,7 +202,7 @@ products:
   - rank: 8
     name: "ハンド＆キューティクルクリーム"
     brand: "ミロビーナ"
-    price: 3069
+    price: 3410
     capacity: "60g"
     rating: 4.57
     reviewCount: 384
@@ -231,7 +231,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/okaimono-ichiba_4580333760087"
         available: true
-    priceMax: 9207
+    priceMax: 10230
     genreId: "304759"
   - rank: 9
     name: "ヴァセリン インテンシブケア ハンドクリーム 60mL"
@@ -262,7 +262,7 @@ products:
     price: 1120
     capacity: "30mL"
     rating: 4.51
-    reviewCount: 808
+    reviewCount: 809
     features:
       - "香水のような香りを楽しめるパフューム処方のハンドクリーム"
       - "5種類の香りから選べるセレクト仕様"

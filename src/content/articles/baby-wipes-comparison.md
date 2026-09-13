@@ -4,7 +4,7 @@ description: "赤ちゃん用おしりふきを1枚当たり価格で比較。�
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.78
-    reviewCount: 8075
+    reviewCount: 8105
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -78,47 +78,13 @@ products:
         reviewCount: 9
     genreId: "205194"
   - rank: 3
-    name: "レック 水99.9％ 手口ふき おしりふき 80枚×15個"
-    brand: "レック"
-    price: 1962
-    capacity: "80枚×15個（1200枚）"
-    pricePerUnit: "約1.6円/枚"
-    rating: 4.69
-    reviewCount: 4787
-    features:
-      - "おしりふきとして使えるウェットシート"
-      - "詰め替え用やまとめ買いで選びやすい構成"
-      - "赤ちゃんまわりの日常ケアに使いやすいタイプ"
-    pros:
-      - "使用頻度が高い家庭でストックしやすい"
-      - "手口まわりや外出用の候補にもなる"
-      - "厚みや水分量の好みで比較できる"
-    cons:
-      - "シートの厚みや香りの有無は好みが分かれる"
-      - "ケースやフタの有無は商品ごとに確認が必要"
-    recommendedFor: "おしりふきをまとめて備えておきたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2Fe242_999tekuchi15p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10001752%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00975-1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-07"
-        price: 2390
-        rating: 4.68
-        reviewCount: 1034
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
-        available: true
-    genreId: "505416"
-  - rank: 4
     name: "グーン 肌にやさしいおしりふき 70枚×12袋"
     brand: "グーン"
     price: 1657
     capacity: "70枚×12袋（840枚）"
     pricePerUnit: "約2.0円/枚"
-    rating: 4.75
-    reviewCount: 8
+    rating: 4.56
+    reviewCount: 9
     features:
       - "純粋99%成分で肌負担が少ない"
       - "パラベン無配合で化学物質に配慮"
@@ -147,6 +113,40 @@ products:
         rating: 0
         reviewCount: 0
     genreId: "205194"
+  - rank: 4
+    name: "レック 水99.9％ 手口ふき おしりふき 80枚×15個"
+    brand: "レック"
+    price: 2390
+    capacity: "80枚×15個（1200枚）"
+    pricePerUnit: "約2.0円/枚"
+    rating: 4.69
+    reviewCount: 4799
+    features:
+      - "おしりふきとして使えるウェットシート"
+      - "詰め替え用やまとめ買いで選びやすい構成"
+      - "赤ちゃんまわりの日常ケアに使いやすいタイプ"
+    pros:
+      - "使用頻度が高い家庭でストックしやすい"
+      - "手口まわりや外出用の候補にもなる"
+      - "厚みや水分量の好みで比較できる"
+    cons:
+      - "シートの厚みや香りの有無は好みが分かれる"
+      - "ケースやフタの有無は商品ごとに確認が必要"
+    recommendedFor: "おしりふきをまとめて備えておきたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2Fe242_999tekuchi15p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10001752%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00975-1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-07"
+        price: 2390
+        rating: 4.68
+        reviewCount: 1034
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
+        available: true
+    genreId: "505416"
   - rank: 5
     name: "おしりふき 厚手 菌99.9除去"
     brand: "レック"
@@ -222,7 +222,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.6円/枚"
     rating: 4.56
-    reviewCount: 380
+    reviewCount: 381
     features:
       - "純水99.9%で肌に優しい処方"
       - "流せるシートで処理が簡単"
@@ -256,7 +256,7 @@ products:
     capacity: "60枚×15個"
     pricePerUnit: "約2.6円/枚"
     rating: 4.42
-    reviewCount: 1666
+    reviewCount: 1667
     features:
       - "トイレに流せる素材で処理が簡単"
       - "菌を99.9%除去する除菌効果"

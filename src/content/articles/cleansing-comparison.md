@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -159,7 +159,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3236
+    reviewCount: 3241
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"
@@ -263,7 +263,7 @@ products:
       - "植物由来成分の香りが気になる場合がある"
     recommendedFor: "皮脂汚れや毛穴汚れが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6mzn.3rdw632b.g00u6mzn.3rdw764e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/2609_ss/cleansing.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00061/imgrc0127119292.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -283,7 +283,7 @@ products:
     price: 4378
     capacity: "100mL"
     rating: 4.57
-    reviewCount: 1691
+    reviewCount: 1692
     features:
       - "発酵オイルを配合したクレンジングオイル"
       - "W洗顔不要でメイクと毛穴汚れを落とす"

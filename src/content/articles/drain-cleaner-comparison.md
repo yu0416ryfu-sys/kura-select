@@ -4,7 +4,7 @@ description: "排水口クリーナーを容量あたりのコストで比較。
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -31,29 +31,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fansfactory/cabinet/images191/4901301307453-3set_1.jpg?_ex=128x128"
     genreId: "565623"
   - rank: 2
-    name: "パイプユニッシュ 排水口 パイプクリーナー"
-    brand: "ジョンソン"
-    price: 1782
-    capacity: "800g×3本（2400g）"
-    pricePerUnit: "約0.74円/g"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "排水口・排水パイプ用の液体クリーナー"
-      - "大容量ボトルのセット"
-      - "台所や浴室の排水口ケア向け"
-    pros:
-      - "家庭内の複数箇所に使いやすい"
-      - "容量重視で選びたい方に向く"
-      - "定番ブランドをまとめて購入しやすい"
-    cons:
-      - "大容量ボトルは収納場所を取りやすい"
-      - "使用量を守って使う必要がある"
-    recommendedFor: "容量重視でパイプ洗浄剤を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t6mwn.3rdw690e.g00t6mwn.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famart-e%2F26100274-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famart-e%2Fi%2F10006631%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amart-e/cabinet/08990542/26100274-3.jpg?_ex=128x128"
-    genreId: "565623"
-  - rank: 3
     name: "パイプユニッシュ PRO 凝縮パワージェル 本体"
     brand: "ジョンソン"
     price: 320
@@ -86,6 +63,29 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/atlife_101-4901609000926"
         available: true
+    genreId: "565623"
+  - rank: 3
+    name: "パイプユニッシュ 排水口 パイプクリーナー"
+    brand: "ジョンソン"
+    price: 1980
+    capacity: "800g×3本（2400g）"
+    pricePerUnit: "約0.82円/g"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "排水口・排水パイプ用の液体クリーナー"
+      - "大容量ボトルのセット"
+      - "台所や浴室の排水口ケア向け"
+    pros:
+      - "家庭内の複数箇所に使いやすい"
+      - "容量重視で選びたい方に向く"
+      - "定番ブランドをまとめて購入しやすい"
+    cons:
+      - "大容量ボトルは収納場所を取りやすい"
+      - "使用量を守って使う必要がある"
+    recommendedFor: "容量重視でパイプ洗浄剤を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t6mwn.3rdw690e.g00t6mwn.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famart-e%2F26100274-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famart-e%2Fi%2F10006631%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amart-e/cabinet/08990542/26100274-3.jpg?_ex=128x128"
     genreId: "565623"
   - rank: 4
     name: "パイプユニッシュ PRO 凝縮パワージェル"
@@ -165,7 +165,7 @@ products:
       - "強力タイプのため換気や取り扱いに注意が必要"
     recommendedFor: "業務用途や長期ストックを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quion.3rdw6e7d.g00quion.3rdw731c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F6019094%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosharecafe%2Fi%2F10031246%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/marsn/marsn_08/rank_6019094.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/ranking_top3/rank_6019094.jpg?_ex=128x128"
     genreId: "565623"
   - rank: 7
     name: "ピーピースルーF 600g×2本セット"
@@ -188,7 +188,7 @@ products:
       - "素材によっては使用できない排水管がある"
     recommendedFor: "頑固なつまりをまとめて対策したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quion.3rdw6e7d.g00quion.3rdw731c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F6038803%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosharecafe%2Fi%2F10067832%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/marsn/marsn_08/rank_6038803.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/ranking_top3/rank_6038803.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

@@ -4,7 +4,7 @@ description: "クッキングシートを1mあたりの価格で比較。ロー�
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "フジ クッキングシート 業務用 33cm×30m"
@@ -43,9 +43,9 @@ products:
   - rank: 2
     name: "クックパー EG 業務用 33cm×30m"
     brand: "旭化成クックパー"
-    price: 1101
+    price: 1224
     capacity: "33cm×30m"
-    pricePerUnit: "約37円/m"
+    pricePerUnit: "約41円/m"
     rating: 4.8
     reviewCount: 5
     features:
@@ -179,11 +179,11 @@ products:
   - rank: 6
     name: "クッキングシート ワンパン料理 100枚入り"
     brand: "ニュービックエース"
-    price: 1780
+    price: 1980
     capacity: "100枚入り"
-    pricePerUnit: "約18円/枚"
-    rating: 4.67
-    reviewCount: 179
+    pricePerUnit: "約20円/枚"
+    rating: 4.68
+    reviewCount: 185
     features:
       - "PFAS・フッ素フリーの無漂白クッキングシート"
       - "フライパンや蒸し料理・包み焼きに対応した多用途タイプ"

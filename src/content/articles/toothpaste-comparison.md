@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "クリニカ アドバンテージ ハミガキ クールミント 130g×3本"
@@ -70,7 +70,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 11023
+    reviewCount: 11027
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -104,7 +104,7 @@ products:
     capacity: "パウダー5g + ペースト15g（計20g）"
     pricePerUnit: "約16.4円/g"
     rating: 4.19
-    reviewCount: 4742
+    reviewCount: 4743
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -121,40 +121,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/toothpsnew.jpg?_ex=128x128"
     genreId: "204759"
   - rank: 5
-    name: "キラルンパウダー"
-    brand: "RUKEN"
-    price: 1000
-    capacity: "55g"
-    pricePerUnit: "約18円/g"
-    rating: 4.31
-    reviewCount: 3282
-    features:
-      - "毎日の歯みがきに使える歯磨き粉"
-      - "ホワイトニングや口臭ケア系も選べる"
-      - "容量で比較しやすい"
-    pros:
-      - "日常ケアに取り入れやすい"
-      - "目的別に選べる"
-      - "ストックしやすい"
-    cons:
-      - "成分や使用感の好みは分かれる"
-      - "医薬部外品表記の確認が必要"
-    recommendedFor: "歯磨き粉を目的と容量で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothmini%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000114%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/05964132/item00kirarunpwd.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F008.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-07"
-        price: 1254
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_008"
-        available: true
-        rating: 4.24
-        reviewCount: 254
-    genreId: "204759"
-  - rank: 6
     name: "だいじょうぶなもの ホワイトニングトゥースペースト シルクパウダー"
     brand: "だいじょうぶなもの"
     price: 1760
@@ -188,6 +154,40 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yoga-pi_moo-18026"
         available: true
     genreId: "204759"
+  - rank: 6
+    name: "キラルンパウダー"
+    brand: "RUKEN"
+    price: 1254
+    capacity: "55g"
+    pricePerUnit: "約23円/g"
+    rating: 4.31
+    reviewCount: 3283
+    features:
+      - "毎日の歯みがきに使える歯磨き粉"
+      - "ホワイトニングや口臭ケア系も選べる"
+      - "容量で比較しやすい"
+    pros:
+      - "日常ケアに取り入れやすい"
+      - "目的別に選べる"
+      - "ストックしやすい"
+    cons:
+      - "成分や使用感の好みは分かれる"
+      - "医薬部外品表記の確認が必要"
+    recommendedFor: "歯磨き粉を目的と容量で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothmini%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000114%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/05964132/item00kirarunpwd.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F008.html"
+        matchStatus: "matched"
+        updatedAt: "2026-09-07"
+        price: 1254
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_008"
+        available: true
+        rating: 4.24
+        reviewCount: 254
+    genreId: "204759"
   - rank: 7
     name: "アパガードリナメル"
     brand: "アパガード"
@@ -195,7 +195,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約24円/g"
     rating: 4.6
-    reviewCount: 804
+    reviewCount: 806
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -209,7 +209,7 @@ products:
       - "医薬部外品表記の確認が必要"
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F84449%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10005817%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0905_100b/mini/84449_omake2m.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/wb_logo_6/04645_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -251,7 +251,7 @@ products:
     price: 2580
     capacity: "120g"
     rating: 4.47
-    reviewCount: 2334
+    reviewCount: 2347
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -265,7 +265,7 @@ products:
       - "医薬部外品表記の確認が必要"
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b07qzwqjrm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260904ss/906b07qzwqjrm-50.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/whith/top/00/906b07qzwqjrm.jpg?_ex=128x128"
     priceMax: 6840
     genreId: "204759"
   - rank: 10
@@ -274,7 +274,7 @@ products:
     price: 2200
     capacity: "50g"
     rating: 4.37
-    reviewCount: 2248
+    reviewCount: 2249
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"

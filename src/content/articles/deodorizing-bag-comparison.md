@@ -4,7 +4,7 @@ description: "おむつ・生ゴミ用の防臭袋おすすめ9選をコスパ�
 category: "deodorizing-bag"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -48,7 +48,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.78
-    reviewCount: 784
+    reviewCount: 788
     features:
       - "本来は食パン用のポリプロピレン製袋"
       - "厚みのあるPP素材で口を結んで密閉しやすい"
@@ -96,7 +96,7 @@ products:
       - "サイズ展開が限られるため用途に合わせた選択がしにくい"
     recommendedFor: "おむつと生ゴミをまとめて1種類の袋で済ませたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00twlwn.3rdw6927.g00twlwn.3rdw72f3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifehouse%2Fg6021%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flifehouse%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lifehouse/cabinet/bag/imgrc0131608556.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lifehouse/cabinet/bag/imgrc0132481490.jpg?_ex=128x128"
     genreId: "566815"
   - rank: 4
     name: "BOS 防臭袋 ストライプパッケージ SSサイズ"
@@ -105,7 +105,7 @@ products:
     capacity: "200枚"
     pricePerUnit: "約8.1円/枚"
     rating: 4.85
-    reviewCount: 5604
+    reviewCount: 5609
     features:
       - "医療向け開発素材を使ったクリロン化成の防臭袋シリーズ"
       - "新生児のおむつやペットのうんちを想定した小さめサイズ"
@@ -173,7 +173,7 @@ products:
     capacity: "100枚×2個（200枚）"
     pricePerUnit: "約9.1円/枚"
     rating: 4.87
-    reviewCount: 485
+    reviewCount: 487
     features:
       - "シリーズ最小クラスの寸法"
       - "2個パックで1つを持ち歩き用に分けられる構成"
@@ -207,7 +207,7 @@ products:
     capacity: "200枚"
     pricePerUnit: "約9.5円/枚"
     rating: 4.85
-    reviewCount: 3750
+    reviewCount: 3758
     features:
       - "SSサイズより一回り大きい標準サイズ"
       - "テープ型からパンツ型まで幅広いおむつサイズを想定した寸法"
@@ -275,7 +275,7 @@ products:
     capacity: "90枚"
     pricePerUnit: "約15円/枚"
     rating: 4.82
-    reviewCount: 1369
+    reviewCount: 1371
     features:
       - "赤ちゃんからペットまで幅広い用途を想定した中間サイズ"
       - "1枚に複数個まとめられる寸法"

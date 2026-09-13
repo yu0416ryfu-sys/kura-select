@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "ライオン ソフラン アロマリッチ 業務用 4L"
@@ -115,7 +115,7 @@ products:
     capacity: "1300mL×6個（7800mL）"
     pricePerUnit: "約0.75円/mL"
     rating: 4.77
-    reviewCount: 309
+    reviewCount: 312
     features:
       - "家庭用の詰め替えパウチをケース単位でまとめた構成"
       - "アロマオイル配合で香りの立ち上がりを設計したシリーズ"
@@ -239,8 +239,8 @@ products:
     price: 877
     capacity: "600mL"
     pricePerUnit: "約1.5円/mL"
-    rating: 4.63
-    reviewCount: 178
+    rating: 4.61
+    reviewCount: 179
     features:
       - "紅茶をテーマにした香りの柔軟剤"
       - "液体タイプの本体"
@@ -307,7 +307,7 @@ products:
     price: 1113
     capacity: "2000mL"
     rating: 4.96
-    reviewCount: 27
+    reviewCount: 28
     features:
       - "肌へのやさしさを重視した素肌おもいシリーズの詰め替えパウチ"
       - "香りの強さを抑えたタイプで、無香料の選択肢もある"

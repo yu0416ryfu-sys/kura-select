@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約26円/本"
     rating: 4.68
-    reviewCount: 644
+    reviewCount: 650
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -71,7 +71,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約64円/本"
     rating: 4.65
-    reviewCount: 1230
+    reviewCount: 1232
     features:
       - "10年長期保存対応のパナソニック製アルカリ電池"
       - "1パック4本×5パック構成で使いやすい量を分割して管理できる"
@@ -169,10 +169,10 @@ products:
   - rank: 6
     name: "エネボルト 充電池 単3 単4 セット 16本 ケース付 充電 電池 充電電池 充電"
     brand: "楽天市場"
-    price: 2680
+    price: 2980
     capacity: "16本"
-    pricePerUnit: "約168円/本"
-    rating: 4.46
+    pricePerUnit: "約186円/本"
+    rating: 4.45
     reviewCount: 669
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
@@ -273,8 +273,8 @@ products:
     brand: "BIGCAPA"
     price: 800
     capacity: "40本"
-    rating: 4.63
-    reviewCount: 1122
+    rating: 4.64
+    reviewCount: 1128
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"

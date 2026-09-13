@@ -4,7 +4,7 @@ description: "粘着クリーナー（コロコロ）を1巻あたりのコス�
 category: "lint-roller"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "粘着クリーナー スペアテープ 粘着王 お得な3巻入"
@@ -104,7 +104,7 @@ products:
     capacity: "2巻"
     pricePerUnit: "約213円/巻"
     rating: 5
-    reviewCount: 1
+    reviewCount: 2
     features:
       - "花粉・ハウスダストもキャッチする強粘着"
       - "56周のロングタイプで長持ち"

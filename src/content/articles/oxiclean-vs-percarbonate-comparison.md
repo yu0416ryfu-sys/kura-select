@@ -4,7 +4,7 @@ description: "過炭酸ナトリウムとオキシクリーンは何が違う？
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "3kg"
     pricePerUnit: "約0.38円/g"
     rating: 4.78
-    reviewCount: 828
+    reviewCount: 829
     features:
       - "過炭酸ナトリウム100%の大容量パック"
       - "洗濯槽掃除と衣類の漂白を想定した汎用タイプ"
@@ -48,7 +48,7 @@ products:
     capacity: "4.5kg"
     pricePerUnit: "約0.48円/g"
     rating: 4.84
-    reviewCount: 757
+    reviewCount: 758
     features:
       - "過炭酸ナトリウム100%の特大サイズ"
       - "洗濯槽掃除と浸け置き洗いを想定した容量"
@@ -146,11 +146,11 @@ products:
   - rank: 5
     name: "オキシクリーン マルチパーパスクリーナー 5.26kg"
     brand: "OxiClean（アメリカ版）"
-    price: 3580
+    price: 3690
     capacity: "5.26kg"
-    pricePerUnit: "約0.68円/g"
+    pricePerUnit: "約0.70円/g"
     rating: 4.52
-    reviewCount: 188
+    reviewCount: 189
     features:
       - "アメリカ向け仕様のマルチパーパスクリーナー"
       - "界面活性剤と香料を配合した処方"
@@ -184,7 +184,7 @@ products:
     capacity: "900g"
     pricePerUnit: "約0.71円/g"
     rating: 4.82
-    reviewCount: 390
+    reviewCount: 391
     features:
       - "国内製造の過炭酸ナトリウム"
       - "少量から試せる小容量パッケージ"
@@ -217,8 +217,8 @@ products:
     price: 3980
     capacity: "1500g×3個（4500g）"
     pricePerUnit: "約0.88円/g"
-    rating: 4.66
-    reviewCount: 67
+    rating: 4.65
+    reviewCount: 69
     features:
       - "日本版オキシクリーンのまとめ買いセット"
       - "無香料の粉末タイプ"
@@ -271,10 +271,10 @@ products:
   - rank: 9
     name: "オキシクリーン 1500g 無香料 粉末タイプ"
     brand: "グラフィコ（日本版）"
-    price: 1525
+    price: 1540
     capacity: "1500g"
     rating: 4.53
-    reviewCount: 1058
+    reviewCount: 1063
     features:
       - "日本国内向けに販売されている無香料タイプ"
       - "界面活性剤と柔軟成分を配合していない処方"

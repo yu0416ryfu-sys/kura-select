@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -47,7 +47,7 @@ products:
     capacity: "6000ml"
     pricePerUnit: "約0.99円/ml"
     rating: 4.78
-    reviewCount: 362
+    reviewCount: 364
     features:
       - "多機能タイプの薬用マウスウォッシュ"
       - "クリーンミント味の液体タイプ"
@@ -81,7 +81,7 @@ products:
     capacity: "1000mL×6本（6000mL）"
     pricePerUnit: "約0.99円/mL"
     rating: 4.76
-    reviewCount: 254
+    reviewCount: 255
     features:
       - "ノンアルコール処方で刺激を抑えながら殺菌"
       - "バクテリアフィルムに作用する7種の機能性成分配合"
@@ -218,7 +218,7 @@ products:
     capacity: "500mL×3本"
     pricePerUnit: "約5.0円/mL"
     rating: 4.72
-    reviewCount: 498
+    reviewCount: 499
     features:
       - "二酸化塩素（ClO2）配合で口臭の原因菌を抑制"
       - "無香料・ノンアルコール処方で低刺激"
@@ -275,7 +275,7 @@ products:
     capacity: "100mL（約700回分）"
     pricePerUnit: "約23円/mL"
     rating: 4.76
-    reviewCount: 605
+    reviewCount: 606
     features:
       - "歯科医院で推奨される薬用マウスウォッシュ"
       - "グルコン酸クロルヘキシジン配合で高い殺菌力"
@@ -289,7 +289,7 @@ products:
       - "薄める手間がある"
     recommendedFor: "歯科医推奨品を求める方・歯周病予防を重視する方・長く使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fdf2819%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10012094%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0905_100b/kirikae2/df2819_1450ppm.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg/df2819_1450ppm.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -308,7 +308,7 @@ products:
     price: 2580
     capacity: "300mL"
     rating: 4.6
-    reviewCount: 2873
+    reviewCount: 2884
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"
@@ -322,7 +322,7 @@ products:
       - "ホワイトニング効果は継続使用が前提"
     recommendedFor: "ホワイトニングケアを日常に取り入れたい方・低刺激マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b071gypvwv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000116%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20260904ss/906b071gypvwv-50.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/whith/top/906b071gypvwv.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -334,7 +334,7 @@ products:
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bluecastle_nitiyou-102"
         available: true
-    priceMax: 7740
+    priceMax: 8140
     genreId: "208265"
 tags:
   - "マウスウォッシュ"

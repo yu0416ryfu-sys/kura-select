@@ -4,16 +4,16 @@ description: "ウェットティッシュのおすすめ9選を1枚あたり単�
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "レック 水99.9％ 手口ふき"
     brand: "レック"
-    price: 1962
+    price: 2390
     capacity: "80枚×15個（1200枚）"
-    pricePerUnit: "約1.6円/枚"
+    pricePerUnit: "約2.0円/枚"
     rating: 4.69
-    reviewCount: 4788
+    reviewCount: 4799
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -81,7 +81,7 @@ products:
     capacity: "96枚×12個（1152枚）"
     pricePerUnit: "約2.6円/枚"
     rating: 4.38
-    reviewCount: 407
+    reviewCount: 416
     features:
       - "純水99%・無香料・無着色・アルコールフリー"
       - "14×18cmの厚手シートで手口ふき・体ふきにも使える"
@@ -95,7 +95,7 @@ products:
       - "おしりふき用途が主軸で、テーブルの除菌には向かない"
     recommendedFor: "赤ちゃんの手口ふき・体ふきを大容量で用意したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t237n.3rdw6c98.g00t237n.3rdw7b8b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fslotre%2F10000234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fslotre%2Fi%2F10000356%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/sale-main/hunwariatude_5_3.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/12191014/13038805/main_260303.jpg?_ex=128x128"
     genreId: "205194"
   - rank: 4
     name: "アイリスオーヤマ 除菌ウェットティッシュ 60枚×48個"
@@ -103,8 +103,8 @@ products:
     price: 7480
     capacity: "60枚×48個（2,880枚）"
     pricePerUnit: "約2.6円/枚"
-    rating: 4.42
-    reviewCount: 486
+    rating: 4.43
+    reviewCount: 487
     features:
       - "アルコール配合で除菌用途に向いたタイプ"
       - "厚手シートで拭き取りやすい設計"
@@ -140,7 +140,7 @@ products:
     capacity: "43枚×8個×4個（1376枚）"
     pricePerUnit: "約3.8円/枚"
     rating: 4.75
-    reviewCount: 239
+    reviewCount: 240
     features:
       - "ノンアルコールタイプの除菌ウェットティッシュ詰替"
       - "ワンプッシュで開閉できる取り出し口設計"
@@ -264,7 +264,7 @@ products:
     price: 1740
     capacity: "80枚×12個（960枚）"
     rating: 4.81
-    reviewCount: 298
+    reviewCount: 299
     features:
       - "ノンアルコールで99%除菌を訴求したタイプ"
       - "厚手・大判・無香料設計で幅広い用途に対応"

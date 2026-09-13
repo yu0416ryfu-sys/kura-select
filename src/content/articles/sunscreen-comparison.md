@@ -4,7 +4,7 @@ description: "日焼け止めを1mLあたりのコストで徹底比較。ビオ
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-10"
+updatedAt: "2026-09-13"
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -77,7 +77,7 @@ products:
   - rank: 3
     name: "ビオレUV アクアリッチ ウォータリーエッセンス 120g"
     brand: "花王（ビオレ）"
-    price: 1281
+    price: 1269
     capacity: "120g"
     pricePerUnit: "約11円/g"
     rating: 4.5
@@ -111,9 +111,9 @@ products:
   - rank: 4
     name: "レステモ 美白BBクリーム"
     brand: "レステモ"
-    price: 2500
+    price: 2560
     capacity: "35g"
-    pricePerUnit: "約71円/g"
+    pricePerUnit: "約73円/g"
     rating: 3.97
     reviewCount: 12945
     features:
@@ -129,7 +129,7 @@ products:
       - "肌に合うか確認が必要"
     recommendedFor: "日焼け止めを使用感と用途で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdaen.3rdw686c.g00qdaen.3rdw7002/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flesthemo%2Fbb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flesthemo%2Fi%2F10000033%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/st25/tp-bb.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/bbcream_01_02_3500px.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -214,9 +214,9 @@ products:
   - rank: 8
     name: "レステモ ノンケミカル UVミルク"
     brand: "レステモ"
-    price: 2480
+    price: 2580
     capacity: "50mL"
-    pricePerUnit: "約50円/mL"
+    pricePerUnit: "約52円/mL"
     rating: 4.33
     reviewCount: 2400
     features:
@@ -232,7 +232,7 @@ products:
       - "専用クレンジングの要否は表示を確認したい"
     recommendedFor: "紫外線吸収剤を避けたい方・家族で共用したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdaen.3rdw686c.g00qdaen.3rdw7002/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flesthemo%2Fuv50g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flesthemo%2Fi%2F10000061%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/uvmilk_03_2480y.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/uvmilk_01_01_3500px.jpg?_ex=128x128"
     genreId: "503054"
   - rank: 9
     name: "【国内正規品 全12種】ALLIE アリィー 日焼け止め クロノビューティ トー"
@@ -263,7 +263,7 @@ products:
     price: 3080
     capacity: "50g"
     rating: 4.84
-    reviewCount: 3848
+    reviewCount: 3873
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
