@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-14",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。人間・AI 双方の唯一の正はメモリ project_measurement_holds だが、",
     "機械判定（scripts/check-internal-links.mjs など）はこのファイルを読む。両者は必ず同時に更新する。",
@@ -50,26 +50,6 @@
       "simultaneous": false,
       "note": "定型H2 是正 Step 4 の残件。08-27 の修正はこの3本を『削除』ではなく独自本文の下へ『移動』しただけだったことが 09-06 に判明したため、あらためて撤去した。撤去1,327字 / 追加959字・実プロース4,122字。⚠️撤去した定型H2 は『さらさ』のジェルボールを3箇所で推奨しており、記事本文の『日本のジェルボールは実質P&Gの2ブランド』と矛盾する事実誤りを含んでいた。⚠️**最重要**: 09-06 時点で lastCrawlTime が 2026-08-17 のままで、Google は 08-22 の全面是正すら見ていない（リッチリザルトが旧10商品を返す）。したがって 08-22 施策の ✅成功判定は誤りで『判定不能（窓が空振り）』が正。今回の 09-06 改稿も、再クロールが来ない限り検索結果には一切反映されない＝現在ランクしている版に対する下振れリスクも当面ない。**この記事で最優先の行動は本文の追加改稿ではなく、Search Console の URL 検査からインデックス登録をリクエストすること（ユーザー作業）。** 判定は『再クロールが来たか』を第1指標にする。 ⚠️**2026-09-06 にユーザーが URL 検査からインデックス登録をリクエスト済み。**以後の測定窓は**デプロイ日ではなく再クロール日（lastCrawlTime が 08-17 から更新された日）で切る**。⚠️08-22〜09-03 の表示増（0.79→13.92 表示/日）の説明は3つで、分離できない: ①前窓が14日で11表示＝ほぼ0の分母で倍率を語っている（§10 実数一桁層） ②被リンク 0→2本＝再クロールなしでも効く唯一の経路。リンク元 laundry-detergent は 08-22 12:48（リンク追加当日）、laundry-net は 09-04 にクロール済み ③洗濯カテゴリの季節性（同窓の正規化後倍率: laundry-detergent ×2.01 / room-dry-detergent ×1.98 / fabric-softener ×1.19 / laundry-bleach ×0.87、サイト全体 ×1.00）。**順位が 7.5→7.2 とほぼ横ばいのまま表示が17倍**＝順位上昇ではなく『マッチするクエリの幅が広がった』signature で、コンテンツは Google から見て 08-17 のまま不変なので原因はコンテンツ側にない。 ⚠️2026-09-09: JSON-LD 末尾スラッシュ是正（`ArticleLayout.astro` 5箇所・全記事共通テンプレ・区分C相当）を実施。起点 09-09。**この記事は指標にインデックス／再クロールを含むため中立ではない**（acne-patch に JSON-LD 修正で表示が回復した前例あり）。判定時に必ず併記する。",
       "source": "IMPLEMENTATION_PLAN_TEMPLATE_H2_REWRITE_2026-09-01.md"
-    },
-    {
-      "slug": "kireikirei-vs-biore-comparison",
-      "releaseDate": "2026-09-15",
-      "releaseLabel": "2026-09-14",
-      "targetType": "article",
-      "startedAt": "2026-08-31",
-      "searchNeed": "⚠️遡及記入（2026-09-12）: ハンドソープ売り場でキレイキレイとビオレu のどちらを買うか迷っている人が、選択の決め手を1つ得たい。指名2銘柄の一騎打ち＝選択系クエリ。",
-      "measures": [
-        "表示/日",
-        "表示加重平均順位",
-        "送客件数"
-      ],
-      "actions": [
-        "新規公開（vs記事「キレイキレイ vs ビオレu」）",
-        "独自撮影画像2枚の追加（2026-09-06・c8e12fc）"
-      ],
-      "simultaneous": true,
-      "note": "2026-09-07 に遡って登録（公開 08-31 時点で記帳が漏れていた）。公開+2週で判定＝メモリ project_new_article_ramp_up「順位帯は2週で確定」に従う。⚠️2施策同時（公開と 09-06 の独自画像追加）。初週実績＝クリック23・表示/日28.6・順位3.9（ACCESS_ANALYSIS_2026-09-07.md §4）だが前週が0のため正規化できず、判定は 09-14 のスナップショットで行う。products への追加禁止（vs記事の一騎打ち構成）は prohibitions 側の3本と同趣旨だが本記事は未登録 ⚠️2026-09-09: JSON-LD 末尾スラッシュ是正（`ArticleLayout.astro` 5箇所・全記事共通テンプレ・区分C相当）を実施。起点 09-09。判定時に併記する。",
-      "source": "ACCESS_ANALYSIS_2026-09-07.md / project_seo_vs_articles"
     },
     {
       "slug": "dental-floss-comparison",
@@ -187,8 +167,8 @@
         "cleansing-comparison",
         "floor-cleaner-comparison"
       ],
-      "releaseDate": "2026-10-09",
-      "releaseLabel": "2026-10-08（仮・再クロール完了日で確定する）",
+      "releaseDate": "2026-10-10",
+      "releaseLabel": "2026-10-09",
       "targetType": "cohort",
       "cohortId": "cohort-02-template-h2",
       "arm": "treatment",
@@ -207,7 +187,7 @@
       "simultaneous": true,
       "note": "定型H2 是正 Step 4 第3バッチ（R3非該当9本）。着手日は 2026-09-10（ユーザー判断）。⚠️**当初の対象は10本だったが `hand-soap` を除外した** —— 09-09 のコホート第1弾で施策群に採択され releaseDate 2026-10-08 で凍結されたため。TODO §6.6 の「残り10本」は 09-01 時点のリストで、そのままでは凍結を踏む。 ⚠️**コホート第1弾（cohort-01-description）の正規化子から、この9本も控除すること**。cohort-01 の正規化子は『page 次元（アンカー除外後）の全記事ページ合計 − 施策群6 − 対照群2』の残余だが、この9本は残余に含まれており 09-10 に本文を改稿した。控除しないと cohort-01 の正規化が汚れる（ユーザー判断 2026-09-10）。 判定: 対照群は置かない（AdSense 対策の品質改善が主目的で、施策型の有効性検定ではない）。したがって**合算の方向を見るだけ**で、cohort-01 のような意思決定ルール（+50%）は適用しない。 ⚠️後窓の起点はデプロイ日ではなく再クロール日（cohort-01 と同じ）。適用時の lastCrawlTime は lastCrawlAtApply に保存済みで、全9本とも改稿前の版（08-29〜09-06）。`pnpm cohort:crawl-check` / `pnpm weekly:snapshot` が再クロール完了を検知する。**暫定 09-24 / 確定 10-08 は仮日付**で、起点が後ろにずれたら releaseDate も後ろ倒しする。 simultaneous: true —— 定型H2 の置換と区分C 是正を同時に実施しているため、記事単位の判定はできない（区分C はいずれも §5.0.3 の例外に当たる誤表示・法務リスクの是正で、放置する選択肢がなかった）。 ⚠️`body-soap` の title に「1g0.87円〜」という陳腐化した単価が残っている（実データは約0.85円/g）。title の変更は §5.0.2 の施策に当たるため本バッチでは触れていない。別施策として判断する。 ⚠️2026-09-10 追記: デプロイ完了 2026-09-09T23:08:56Z（GitHub Actions の deploy ジョブ）。本番HTML9本で旧定型H2 が 0件であることを curl で確認済み。IndexNow（Bing）は同ワークフローの indexnow ジョブが自動送信済み。**Google は GSC の URL 検査から9本すべてインデックス登録をリクエスト済み**（2026-09-10・ブラウザ操作。9本とも「インデックス登録をリクエスト済み」ダイアログで確認）。⚠️GSC API には「インデックス登録をリクエスト」の口がない（urlInspection.index.inspect は読み取り専用、Indexing API は JobPosting / BroadcastEvent 限定）ので、この操作は画面からしかできない。次は `pnpm cohort:crawl-check` で lastCrawlTime が lastCrawlAtApply から更新されたかを確認し、更新された日を後窓の起点として確定する。",
       "source": "IMPLEMENTATION_PLAN_TEMPLATE_H2_REWRITE_2026-09-01.md / docs/TODO.md §6.6",
-      "windowStartRule": "後窓の起点は9本の再クロール完了日。lastCrawlAtApply と現在の lastCrawlTime を `pnpm cohort:crawl-check` で比較して確定する。仮に 2026-09-10 起点とすると暫定判断 2026-09-24 / 確定判断 2026-10-08、releaseDate は 2026-10-09。",
+      "windowStartRule": "後窓の起点は9本の再クロール完了日。**2026-09-14 に確定＝起点 2026-09-11**（JST）: 09-10 のインデックス登録リクエスト直後に6本、同日中に conditioner / floor-cleaner が再クロールされ、最後の cleansing は 09-11。cleansing の最初の再クロール日は現在値の上書きで厳密には特定できないが、遅い側に倒す（窓の先頭に旧版の日を混ぜない）。**暫定判断 2026-09-25 / 確定判断 2026-10-09**、releaseDate は 2026-10-10。originDate を日付だけで書いたので pnpm cohort:crawl-check / weekly:snapshot は以後この値に固定する。",
       "lastCrawlAtApply": {
         "wet-tissue-comparison": "2026-09-06T11:51:57Z",
         "contact-lens-comparison": "2026-09-05T02:42:35Z",
@@ -221,7 +201,7 @@
       },
       "lastCrawlAtApplyNote": "GSC URL 検査 API の lastCrawlTime（ISO 8601・UTC）。適用当日 2026-09-10 に取得。⚠️この行を手で書き換えると起点判定が壊れる。",
       "deployedAt": "2026-09-09T23:08:56Z",
-      "originDate": "2026-09-10（仮）"
+      "originDate": "2026-09-11"
     }
   ],
   "prohibitions": [
@@ -229,10 +209,11 @@
       "slugs": [
         "frosch-vs-yashinomi-comparison",
         "joy-vs-cucute-comparison",
-        "mukokukan-vs-shoshuriki-comparison"
+        "mukokukan-vs-shoshuriki-comparison",
+        "kireikirei-vs-biore-comparison"
       ],
       "scope": "products",
-      "note": "期限なし。ブランド一騎打ち構成が記事の設計なので商品を追加しない。pnpm check-additions の『商品不足』判定は無視する。本文・内部リンクの凍結ではないため holds には入れていない"
+      "note": "期限なし。ブランド一騎打ち構成が記事の設計なので商品を追加しない。pnpm check-additions の『商品不足』判定は無視する。本文・内部リンクの凍結ではないため holds には入れていない ※2026-09-14 に kireikirei-vs-biore-comparison を追加（公開+2週の判定で離陸確定・同じブランド一騎打ち構成）。"
     }
   ],
   "cohortPreRegistrations": [

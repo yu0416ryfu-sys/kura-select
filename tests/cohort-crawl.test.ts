@@ -47,6 +47,7 @@ function target(over: Partial<CohortCrawlTarget> = {}): CohortCrawlTarget {
     startedAt: '2026-09-09',
     crawlAtApply: '2026-08-22T12:48:44Z',
     deployedAt: null,
+    fixedOriginDate: null,
     ...over,
   };
 }
@@ -88,6 +89,18 @@ describe('selectCohortCrawlTargets', () => {
       SITE,
     );
     expect(targets[0].deployedAt).toBeNull();
+  });
+
+  it('台帳の originDate が日付だけなら確定済みとして引き継ぐ', () => {
+    const targets = selectCohortCrawlTargets(ledger({ originDate: '2026-09-09' }), SITE);
+    expect(targets.every((t) => t.fixedOriginDate === '2026-09-09')).toBe(true);
+  });
+
+  it('originDate に注記がつく（仮）・無い・壊れている場合は未確定（null）', () => {
+    for (const originDate of ['2026-09-10（仮）', undefined, 20260909, '']) {
+      const targets = selectCohortCrawlTargets(ledger({ originDate }), SITE);
+      expect(targets[0].fixedOriginDate).toBeNull();
+    }
   });
 
   it('lastCrawlAtApply を持つ行だけを対象にする', () => {
@@ -178,6 +191,31 @@ describe('evaluateCohortCrawl', () => {
     expect(status.interimJudgementDate).toBe('2026-09-26');
     expect(status.finalJudgementDate).toBe('2026-10-10');
     expect(status.pendingSlugs).toEqual([]);
+    expect(status.originSource).toBe('computed');
+  });
+
+  describe('台帳で起点が確定しているとき（再クロールで起点が後ろへずれない）', () => {
+    const fixed = selectCohortCrawlTargets(ledger({ originDate: '2026-09-09' }), SITE);
+
+    it('確定後に再クロールされても起点は台帳の値のまま', () => {
+      // 2026-09-11 の実例: 09-09 に確定した cohort-01 が、再々クロールで 09-12 起点と表示された
+      const inspections = new Map<string, InspectionResult>([
+        ['a-comparison', { lastCrawlTime: '2026-09-09T00:00:00Z' }],
+        ['b-comparison', { lastCrawlTime: '2026-09-12T03:00:00Z' }],
+      ]);
+      const [status] = evaluateCohortCrawl(fixed, inspections);
+      expect(status.originDate).toBe('2026-09-09');
+      expect(status.originSource).toBe('ledger');
+      expect(status.interimJudgementDate).toBe('2026-09-23');
+      expect(status.finalJudgementDate).toBe('2026-10-07');
+    });
+
+    it('URL 検査が取得エラーでも確定済みの起点は失わない', () => {
+      const [status] = evaluateCohortCrawl(fixed, new Map([['a-comparison', { error: 'quota exceeded' }]]));
+      expect(status.allRecrawled).toBe(false);
+      expect(status.originDate).toBe('2026-09-09');
+      expect(status.originSource).toBe('ledger');
+    });
   });
 
   it('1本でも未クロールなら起点を出さない', () => {
@@ -251,5 +289,22 @@ describe('formatCohortCrawlSection', () => {
     expect(text).toContain('2026-09-26');
     expect(text).toContain('2026-10-10');
     expect(text).toContain('releaseDate');
+    expect(text).toContain('originDate');
+    expect(text).toContain('後ろへずれる');
+  });
+
+  it('台帳で確定済みなら固定である旨を書き、書き戻しを促さない', () => {
+    const targets = selectCohortCrawlTargets(ledger({ originDate: '2026-09-09' }), SITE);
+    const statuses = evaluateCohortCrawl(
+      targets,
+      new Map<string, InspectionResult>([
+        ['a-comparison', { lastCrawlTime: '2026-09-12T00:00:00Z' }],
+        ['b-comparison', { lastCrawlTime: '2026-09-12T00:00:00Z' }],
+      ]),
+    );
+    const text = formatCohortCrawlSection(statuses).join('\n');
+    expect(text).toContain('後窓の起点 = 2026-09-09（台帳で確定済み・固定）');
+    expect(text).not.toContain('後窓の起点 = 2026-09-12');
+    expect(text).not.toContain('後ろへずれる');
   });
 });
