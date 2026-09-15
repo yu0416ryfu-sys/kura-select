@@ -21,6 +21,15 @@ description: |
 
 ---
 
+## Step 0: 凍結・禁止の確認（最初に必ず行う）
+
+商品の追加・削除・差し替え・順位設計の変更は CLAUDE.md §5.0.3 の**区分D＝凍結対象**。着手前に次を確認する。
+
+1. `data/measurement-holds.json` の `holds[]`（`slug` / `slugs`）に対象記事があり `releaseDate > 今日` なら**編集しない**。解除日を添えてユーザーに確認する（対照群を含むコホート記事も同じ）。施策の中身はメモリ `project_measurement_holds` を見る
+2. `prohibitions[]` の `scope: "products"` に対象記事がある（frosch-vs-yashinomi / joy-vs-cucute / mukokukan-vs-shoshuriki / kireikirei-vs-biore などブランド一騎打ちの vs 記事）なら**商品を追加しない**。`pnpm check-additions` が「商品不足」と出しても無視する
+3. **順位が停滞している記事（GSC で 12〜20位帯）に商品是正を施策として打たない**（2026-08-27 ユーザー判断・案A）。laundry-bleach / sanitary-napkin / fabric-softener は正しい商品是正でも表示・クリックが減った。商品に触ってよいのは、未離陸記事（表示<30 かつクリック0）・リンク切れ差し替え（区分B）・誤表示の修正（区分C）
+4. 凍結対象外でも、実施したら `data/measurement-holds.json` とメモリの両方に記帳が要るか（R3 の判定不能層でなければ要る）を判断する。商品を手動削除したら `data/deleted-products-history.jsonl` にも追記する
+
 ## Step 1: 既存ファイルの確認
 
 既存ファイルの確認は役割を分けて行う:

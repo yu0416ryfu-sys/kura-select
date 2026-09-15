@@ -6,7 +6,7 @@
 //
 // ⚠️ 機械が読むのは holds[].slug / holds[].slugs / holds[].releaseDate の3つだけ。
 // prohibitions は読まない（範囲が限定的な商品追加禁止であり記事編集の凍結ではない）。
-// 台帳の唯一の正はメモリ project_measurement_holds なので、実施前に必ずそちらを確認すること。
+// 凍結の対象・起点日・解除日はこのファイルが正。施策の中身・判定根拠はメモリ project_measurement_holds を確認すること。
 import { readFileSync, existsSync } from 'fs';
 
 export interface HoldsLookup {

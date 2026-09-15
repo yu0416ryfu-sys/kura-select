@@ -34,7 +34,7 @@ pnpm weekly:snapshot
 | # | 参照先 | 何を取るか |
 |---|---|---|
 | 1 | `reports/weekly/snapshot-<確定日>.md` | 確定日・窓・サイト全体・ページ別・クエリ・GA4・Bing |
-| 2 | `data/measurement-holds.json` ＋ メモリ `project_measurement_holds` | 凍結中の記事と解除日。JSON は機械可読の一覧、メモリは施策の中身と判定根拠。**両方を見る。齟齬があればメモリが正** |
+| 2 | `data/measurement-holds.json` ＋ メモリ `project_measurement_holds` | 凍結中の記事と解除日。**両方を見る。凍結の対象・起点日・解除日は JSON が正、施策の中身と判定根拠はメモリが正**（2026-09-15 改定） |
 | 3 | `docs/TODO.md` §2 凍結表 / §3 カレンダー | 今週が判定期限の施策 |
 | 4 | 前回の `docs/ACCESS_ANALYSIS_*.md`（最新1本） | 前回の宿題と継続観測点 |
 | 5 | `reports/gsc-harvest/baseline-*.json` | 施策判定の比較元（起点日より前の baseline を使う） |
@@ -50,6 +50,7 @@ pnpm weekly:snapshot
 - **ベースラインが無い期間は「判定不能」と正直に書く。** GSC の期間比較UIや体感で補わない
 - **凍結中の記事に施策を提案しない。** 解除日を書いて次週以降に送る。ただし `CLAUDE.md` §5.0.3 の区分B（リンク切れ）・区分C（誤表示）は例外
 - **提案は上位3件まで。** 4件目以降は「今週は出さない」と書く
+- **GA4 の `engagementRate` / `engagedSessions` / チャネル属性（Unassigned 等）は T-1（昨日）を含む窓で読まない。** これらは確定に約2日かかり、T-1 時点では極端に低く出る（08-16 は T-1 で 1.8% → 確定後 66.7%）。`sessions` / `screenPageViews` / イベント数は T-1 でも使える。スナップショット本体は GSC 確定日で切るので安全だが、**`reports/affiliate-performance-log.md` の週次行（月〜日を月曜に記入）は最終日が必ず T-1 になる**ので、その週のエンゲージメント率を「ボット流入」「急落」と解釈しない（08-17 と 09-07 の2回誤読した）。必要なら T-2 までで再取得する
 
 ## 3. 出力
 
@@ -66,6 +67,7 @@ pnpm weekly:snapshot
 - [ ] §2 の判定で窓を取り直した場合、冒頭にその旨と取得方法を書いたか
 - [ ] ページ別の増減を**正規化後**の値で述べたか
 - [ ] クリック実数が一桁の比較を判定に使っていないか
+- [ ] GA4 の engagementRate / engagedSessions / チャネル属性を T-1 を含む窓（affiliate-performance-log の週次行を含む）から読んでいないか
 - [ ] 凍結中の記事に施策を提案していないか（`data/measurement-holds.json` とメモリ `project_measurement_holds` の**両方**と突き合わせたか）
 - [ ] 判定期限が来ている施策を全部拾ったか（`docs/TODO.md` §3）
 - [ ] 提案は3件以内か

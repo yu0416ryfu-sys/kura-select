@@ -59,6 +59,24 @@ RAGファイルが存在しない場合は従来フローで続行する。
 
 ## 判定方針
 
+### 着手前: 凍結の確認
+
+`data/measurement-holds.json` の `holds[]` に対象 `articleFile` の slug があり `releaseDate > 今日` の場合、リンク切れ差し替え（CLAUDE.md §5.0.3 区分B）は凍結中でも実施してよいが、**コホートの対照群（`arm: "control"`）は区分B も含めて触らない**ので `review` にして理由に解除日を書く。内容量・順位設計が変わる差し替え（区分D）は凍結中は `review` に倒す。`prohibitions[]` の `scope: "products"` がある記事（vs 記事）は差し替え先も同ブランドの同一商品に限る。
+
+### manual / review に倒す前に再検索する（必須）
+
+`item-get-failed` で candidates に同一商品が無いとき、**すぐ人間判断に回さない**。候補が出ないのは同一商品が無いからではなく、`update-products` が作った `searchKeywords` が悪いだけのことが多い（2026-09-05 に manual 扱いの6件中5件が再検索で解決した）。
+
+```bash
+node --experimental-strip-types scripts/find-replacement.mjs --slug=<slug> --rank=<N> --keyword="<数量・容量を落とした短い商品名>" --hits=30
+```
+
+再検索でも無いときに初めて `review` にする。本当に人間判断なのは ①内容量が変わって記事の主張が変わる ②`prohibitions` の `scope:"products"` がある記事 ③単価が跳ねて順位設計が崩れる、の3類型だけ。`review` にするときは記事の単価一覧と「単価順で何位になるか」を添える。
+
+候補は生成時点のスナップショットにすぎず、在庫連動の強いショップでは入れた直後に再び出品終了になることがある。これを異常と決めつけない。
+
+### 同一性の判定
+
 `current` 商品と `candidates` の中から、同一または実質的に同じ商品を選ぶ。
 
 **判定の最初のステップ: candidates に既存 URL が含まれるか確認する**

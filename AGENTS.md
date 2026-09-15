@@ -1,284 +1,125 @@
 # AGENTS.md
 
-このファイルは Codex（Codex / Cowork など）がこのリポジトリで作業する際の前提知識・規約をまとめたものです。**新しい作業を始める前に必ず読むこと。**
+Codex などのエージェントがこのリポジトリで作業するときの**最低限の禁止事項と前提**です。作業前に必ず読んでください。
 
-## トークン使用量の節約
-
-- 回答は常に簡潔に。余分な説明・要約・確認文は省く
-- 長いセッションでコンテキストが膨らんできたら「新しいチャットを始めると節約できます」と提案する
-- 大きな作業は `/clear` や新チャットで分割することを推奨
-- ファイルは必要な範囲だけ Read（`offset` / `limit` を活用）
+- このリポジトリは公開されています。ここには施策の中身や経緯を書かず、守るべきルールだけを書きます
+- ローカルに `CLAUDE.md`（gitignore 済み）があれば、あわせて読んでください。詳しい運用ルールと経緯はそちらにあります
+- ユーザーへの応答・コードコメント・コミットメッセージは日本語で書きます
 
 ---
 
 ## 1. プロジェクト概要
 
-**KuraSelect（暮らセレクト）** は、日用品・消耗品に特化した日本語の楽天アフィリエイト比較サイトです。トイレットペーパー、洗剤、シャンプーなど家庭の必需品を「コスパ」「機能」「使用感」で比較する記事を提供し、楽天市場へのアフィリエイトリンクで収益化しています。Astro による静的サイト生成 (SSG) で、現在は GitHub Pages にデプロイされています。
-
----
-
-## 2. 技術スタック
+**KuraSelect（暮らセレクト）** は、日用品・消耗品の楽天アフィリエイト比較サイトです。Astro の静的サイト生成で作り、GitHub Pages（`www.kura-select.com`）で公開しています。
 
 | 項目 | 採用 |
-|------|------|
-| フレームワーク | Astro 6.1（SSG） |
-| Islands | Preact 10（`compat: true`） |
-| スタイル | Tailwind CSS v4（`@tailwindcss/vite` + `@theme`） |
+|---|---|
+| フレームワーク | Astro 6（SSG）＋ Preact islands |
+| スタイル | Tailwind CSS v4（`src/styles/global.css` の `@theme`。`tailwind.config.js` は使わない） |
 | 言語 | TypeScript（strict） |
-| コンテンツ | Content Collections（Zod スキーマ + glob loader） |
-| Markdown 拡張 | MDX |
-| OGP 画像生成 | Sharp |
-| テスト | Vitest（`tests/frontmatter.test.ts` の frontmatter ユーティリティテスト） |
-| パッケージマネージャ | **pnpm 固定**（`pnpm-lock.yaml` あり、`npm` / `yarn` 使用禁止） |
-| Node | 22.x 以上 |
-| デプロイ | GitHub Pages（GitHub Actions 経由、CNAME `www.kura-select.com`） |
-| 自動化 | GitHub Actions：`deploy.yml`（main push でデプロイ）/ `update-products.yml`（毎週月曜 12:00 JST に楽天 API 同期） |
+| コンテンツ | Content Collections。スキーマは `src/content.config.ts` が唯一の正 |
+| テスト | Vitest（`tests/`） |
+| パッケージマネージャ | **pnpm 固定**（npm / yarn は使わない） |
+| 自動化 | `deploy.yml`（main への push でデプロイ）／`update-products.yml`（毎週月曜 12:00 JST に楽天 API で商品データを更新） |
 
 ---
 
-## 3. コマンド早見表
+## 2. 最重要: 測定凍結（触る前に必ず確認）
+
+記事の一部は、SEO 施策の効果を測定するために**編集を凍結**しています。凍結中の記事を編集すると、測定が壊れて元に戻せません。
+
+- **記事を編集する前に、必ず `data/measurement-holds.json` を読む**
+  - `holds[]` の `slug` または `slugs` に含まれ、かつ **`releaseDate` が今日（JST）より後**なら凍結中です
+  - `releaseDate` は「この日から編集してよい日」です。当日は編集できます
+  - `releaseDate` が無い行は、期限なしの凍結です
+  - `prohibitions[]` は範囲を限った期限なしの禁止です（例: 商品追加の禁止）。`scope` を確認してください
+- **凍結中に触ってはいけないもの**: title / description / 本文 / 見出し / FAQ、および商品の意図的な追加・削除・差し替え・順位設計の変更
+- **凍結中でも実施してよいもの**: `pnpm update-products` による価格などの自動更新。リンク切れの差し替えや、表示されている事実の誤りの修正も可能ですが、**この2つは実施前にユーザーに確認してください**（凍結が測っている指標を動かすことがあるため）
+- 迷ったら触らずにユーザーに確認してください
+- `data/measurement-holds.json` 自体を書き換えるのは、ユーザーの指示があった場合だけです
+
+---
+
+## 3. コンテンツ編集のルール
+
+### 3.1 本文に数値を書かない
+
+価格・単価・レビュー件数・年間コスト・順位など、更新で変わる数値の正は frontmatter の `products[]` だけです。本文と `faqs[].answer` には書きません。手書きの価格表も作りません。
+
+- 比較・単価は、ページ上部の自動生成される比較表に任せます（単価は `src/lib/capacity.ts` の `calcPricePerUnit()` が表示時に計算します）
+- 「30〜50% 安くなる傾向」のように、特定の商品に紐づかない一般的な目安は書いてかまいません
+- `pnpm test` の `tests/article-body-lint.test.ts` がこの違反を検出します
+
+### 3.2 記事ファイル（`src/content/articles/*.md`）の扱い
+
+- `price` / `rating` / `reviewCount` / `imageUrl` / `capacity` / `pricePerUnit` / `updatedAt` などの**自動更新される欄は手で直さない**。データがおかしい場合は `scripts/update-products.mjs` や `scripts/lib/frontmatter.ts` の側を直します
+- 商品を手で削除したら、`data/deleted-products-history.jsonl` にも追記します（自動で再追加されるのを防ぐため）
+- FAQ は frontmatter の `faqs` に書き、`pnpm inject-faqs` で反映します。本文に直接書くとカード表示されません
+- `title` は60文字以内、`description` は160文字以内です（Zod で検証されます）
+- 記事本文や見出しのコピーは原則そのまま残します。変えるときはユーザーに確認してください
+- `*.md.bak` は `update-products` が作るバックアップです。**削除・編集しない**
+
+### 3.3 アフィリエイトと法務
+
+- `rakutenUrl` には実際の楽天アフィリエイトリンクを入れます。`example.com` などのプレースホルダは本番に入れません
+- 楽天リンクは必ず `src/components/product/RakutenLink.astro` 経由で出力します（`rel="sponsored nofollow noopener"` をここで一元管理しています）
+- アフィリエイト表記（`disclaimer.astro` と記事下部の表記）を外さない
+- 「最安」「No.1」などの断定表現には、比較日・対象範囲・出典が必要です
+- 効果効能（医薬品的な記述）は書かず、比較・コスパの観点で書きます
+
+---
+
+## 4. 実装のルール
+
+- 内部リンクは必ず `src/lib/site.ts` の `url()` ヘルパーを通します（直書きするとリンクが壊れます）
+- 新しい island は追加前にユーザーへ理由を示します。ハイドレーションは `client:visible` だけにし、**`client:load` は使いません**
+- 画像には必ず `width` / `height` と `alt` を付けます
+- 色やフォントはハードコードせず、`@theme` のトークンを使います
+- スキーマ（`src/content.config.ts`）を変えると全記事に影響します。着手前に影響範囲をユーザーに示してください
+- `.agents/skills/` と `.claude/skills/` は同じ内容です。スキルを変えるときは両方に同じ変更を入れます
+- `data/rag/` は `pnpm export-ai-rag` で生成されます。直接編集しません
+- `.env` はコミットしません。`reports/` もコミットしません（gitignore 済み）
+- `node_modules` / `dist` / `.astro/` は読まない・触らない
+
+---
+
+## 5. 環境まわりの注意（Windows）
+
+- 日本語の文字数を数えるときに PowerShell 5.1 を使わないでください。UTF-8 を誤って読み、文字数が大きくずれます。Node.js の `readFileSync(path, 'utf8')` を使います
+- PowerShell で日本語が文字化けして見えても、ファイルが壊れているとは限りません。文字化けした本文を推測で編集しないでください
+- `.ps1` は UTF-8（BOM 付き）で保存します
+- Git Bash で `--file=/正規表現/` のような引数を渡すとパスとして変換されます。`MSYS_NO_PATHCONV=1` を付けてください
+
+---
+
+## 6. アクセス解析の数値の扱い
+
+- GSC / Bing のデータは2〜3日遅れて反映され、まだ反映されていない日は0ではなく**行ごと欠けます**。最後に返ってきた日付（確定日）までで期間を区切り、要求した日数で割らないでください
+- サイト全体の合計は、行を足し合わせるのではなく `dimensions: []` で取得します
+- 施策の成否はエージェントが独自に判定せず、`pnpm weekly:snapshot` / `pnpm gsc:harvest` の出力をもとにユーザーと確認します
+
+---
+
+## 7. コマンド
 
 ```bash
-pnpm install               # 依存導入
-pnpm dev                   # 開発サーバー (http://localhost:4321)
-pnpm build                 # OGP 画像生成 → Astro ビルド
-pnpm preview               # ビルド成果物のローカルプレビュー
-pnpm test                  # Vitest
-pnpm test:watch            # Vitest watch モード
-pnpm generate-ogp          # OGP 画像のみ手動生成
-pnpm update-products       # 楽天 API から商品データを更新
-pnpm update-products:dry   # 上記の dry-run
-pnpm update-products -- --concurrency=2 --api-interval=1000  # 記事並列数/API間隔を指定
-pnpm check-additions -- --target=15       # 商品追加候補レポート
-pnpm check-replacements -- --threshold=2  # 商品入れ替え候補レポート
+pnpm install
+pnpm dev                    # http://localhost:4321
+pnpm build                  # OGP 画像生成 → Astro ビルド
+pnpm test                   # Vitest（変更後は必ずグリーンを確認）
+pnpm update-products        # 楽天 API から商品データを更新（:dry で dry-run）
+pnpm check-additions        # 商品追加候補レポート
+pnpm check-replacements     # 商品入れ替え候補レポート
+pnpm check-internal-links   # 内部リンク点検（凍結台帳を参照）
+pnpm inject-faqs            # frontmatter の faqs を反映
+pnpm export-ai-rag          # data/rag/ を再生成
+pnpm weekly:snapshot        # 週次アクセスのスナップショット
+pnpm gsc:harvest            # GSC のテコ入れ候補レポート
+pnpm cohort:crawl-check     # コホート施策の再クロール確認
 ```
 
-`pnpm build` は **必ず `generate-ogp.mjs` を先に実行**してから Astro をビルドします（`package.json` で連結済み）。記事を追加・更新した後にデプロイする場合は、ローカルで `pnpm build` を回して OGP が生成されることを確認してください。
+大きな変更の後は `pnpm build` と `pnpm test` の両方が通ることを確認してください。
 
 ---
 
-## 4. ディレクトリマップ
-
-```
-KuraSelect/
-├ astro.config.mjs           # site / base / integrations
-├ tsconfig.json              # strict + Preact JSX
-├ package.json               # スクリプト・依存
-├ .env / .env.example        # 環境変数（.env はコミット禁止）
-├ CNAME                      # GitHub Pages カスタムドメイン（www.kura-select.com）
-├ .github/workflows/
-│  ├ deploy.yml              # main push で Pages にデプロイ
-│  └ update-products.yml     # 月曜 12:00 JST に楽天 API 同期 → commit → deploy
-├ Codex/                # ローカル作業メモ（.gitignore 済み、Codex が触らない）
-├ data/
-│  └ rag/                    # RAG データ（export-ai-rag で生成。products / capacity-patterns / match-decisions / category-rules）
-├ docs/
-│  └ AI_OPERATIONS.md        # AI 運用手順書（RAG・MCP・照合フロー）
-├ tests/
-│  ├ frontmatter.test.ts     # frontmatter ライブラリの Vitest スイート
-│  └ mcp-content-tools.test.ts  # MCP content-tools の Vitest スイート
-├ public/                    # 静的アセット（favicon, placeholder, og 画像出力先）
-├ scripts/
-│  ├ generate-ogp.mjs        # OGP 画像生成（ビルド前自動実行）
-│  ├ update-products.mjs     # 楽天 API から商品情報を更新
-│  ├ mcp/
-│  │  ├ kura-content-mcp.mjs  # 読み取り専用 MCP サーバー（stdio）
-│  │  └ lib/content-tools.ts  # MCP ツール実装
-│  └ lib/frontmatter.ts      # frontmatter 操作ユーティリティ
-└ src/
-   ├ content.config.ts       # Zod スキーマ（articles / categories）★唯一の正
-   ├ env.d.ts                # Astro / env 型定義
-   ├ content/
-   │  ├ articles/            # 記事 .md / .mdx（53 本）
-   │  └ categories/          # カテゴリ .md（43 件）
-   ├ layouts/
-   │  ├ BaseLayout.astro     # 全ページ共通（GA, Header, Footer, CSS 変数）
-   │  └ ArticleLayout.astro  # 記事ページ専用（CTA、比較表、JSON-LD）
-   ├ components/
-   │  ├ layout/              # Header / Footer / Container
-   │  ├ product/             # ProductCard, ComparisonTable(.astro / Sort.tsx), RakutenLink, TopPickCta
-   │  └ seo/                 # BaseSeo, JsonLd
-   ├ pages/
-   │  ├ index.astro          # トップ（カテゴリ一覧 + 最新 6 記事）
-   │  ├ articles/[...slug].astro  # 記事詳細（getStaticPaths）
-   │  ├ category/[slug].astro     # カテゴリページ
-   │  ├ rss.xml.ts                # RSS フィード
-   │  └ about / contact / privacy / disclaimer.astro
-   ├ lib/
-   │  ├ rakuten.ts           # 楽天 URL ヘルパー（現状スタブ）
-   │  └ site.ts              # サイト定数 + url() ヘルパー
-   └ styles/global.css       # Tailwind v4 + @theme カラー/フォント定義
-```
-
----
-
-## 5. コンテンツ追加・編集ルール
-
-### 5.0 記事候補提案のルール
-
-「記事を追加したい」「おすすめ記事を提案して」など、新規比較記事の候補出しでは `.agents/skills/kura-article-recommend/SKILL.md` を使い、既存記事・カテゴリだけでなく `data/rag/`、読み取り専用MCP、必要に応じて `reports/` も確認する。回答では RAG/MCP/レポートのどれを使ったか明記する。
-
-### 5.1 スキーマは `src/content.config.ts` が唯一の正
-
-記事 (`articles`) と カテゴリ (`categories`) のスキーマは Zod で定義されています。**スキーマを変更する場合は既存の 63 記事すべてに影響する**ことを意識し、必ず破壊的影響を見積もったうえでユーザーに確認してください。
-
-主要バリデーション:
-- `title`: 最大 **60 文字**
-- `description`: 最大 **160 文字**
-- `category`: `categories` への参照（slug ではなくファイル ID）
-- `products[].rakutenUrl`: URL 形式必須
-- `draft: true` でビルド対象から除外
-
-### 5.2 記事追加の手順
-
-1. 必要ならカテゴリを `src/content/categories/` に追加（`order` は既存と重複させない）
-2. `src/content/articles/<slug>-comparison.md` を作成
-3. frontmatter は既存記事（例: `toilet-paper-comparison.md`）をテンプレに
-4. `pnpm build` でスキーマ検証 + OGP 生成が通ることを確認
-
-### 5.3 アフィリエイト URL ルール
-
-- `rakutenUrl` には**実際の楽天アフィリエイトリンク**（`https://hb.afl.rakuten.co.jp/...`）を入れる
-- `https://example.com/...` 形式のプレースホルダは本番投入禁止
-- 商品画像 (`imageUrl`) は `https://thumbnail.image.rakuten.co.jp/...` を直書き可
-
-### 5.4 `.bak` ファイルの扱い
-
-`src/content/articles/` には `*.md.bak` が 5 本残っています（`deodorant`, `face-wash`, `lint-roller`, `sunscreen`, `toothbrush`）。`.gitignore` で `*.bak` は除外されているためコミットには乗りません（あくまでローカルの旧テンプレ・差分保存）。それでも **Codex は勝手に削除・編集しない**こと。整理が必要ならユーザーに確認してから動く。
-
----
-
-## 6. デプロイ環境
-
-### 現状: GitHub Pages（GitHub Actions 経由）
-
-- リポジトリの `main` ブランチに push すると `.github/workflows/deploy.yml` が起動し、`pnpm install` → `pnpm build` → `actions/deploy-pages@v4` で Pages に公開する。
-- `CNAME` ファイルでカスタムドメイン `www.kura-select.com` を設定済み。
-- `astro.config.mjs` は `site: https://www.kura-select.com`、`base` なしで運用中。
-- 内部リンクは必ず `src/lib/site.ts` の `url()` ヘルパー経由で `BASE_URL` を解決すること（`/articles/...` のような直書きは GH Pages で 404 になる）。
-
-### 商品データ自動更新（cron）
-
-- `.github/workflows/update-products.yml` が **毎週月曜 03:00 UTC（日本時間 12:00）** に走り、`pnpm update-products` で楽天 API から最新価格などを取得 → `src/content/articles/` を `git commit & push`（bot コミット）→ `deploy.yml` を workflow_dispatch で起動。
-- `pnpm update-products` は記事ファイル単位で並列処理する。既定は `--concurrency=2 --api-interval=1000`。楽天 API の 429 が出る場合は `--concurrency=1 --api-interval=2000` などに下げる。
-- secrets: `RAKUTEN_APPLICATION_ID` / `RAKUTEN_ACCESS_KEY` / `PUBLIC_RAKUTEN_AFFILIATE_ID`。
-
-### カスタムドメイン化 / Vercel 移行時の作業
-
-- `astro.config.mjs` の `site` / `base` 設定を移行先ドメインに合わせて確認。
-- 全記事・OGP・サイトマップが新ドメイン基準で再生成されるため、`pnpm build` の差分を必ず確認。
-- Vercel 移行なら `vercel.json` 追加検討、`update-products.yml` のデプロイトリガーも書き換え。
-- README は GitHub Pages / `security.checkOrigin` / CSP 未設定の実態に合わせて更新済み。移行時は再確認する。
-
----
-
-## 7. 環境変数
-
-| 変数 | 用途 | スコープ |
-|------|------|----------|
-| `PUBLIC_RAKUTEN_AFFILIATE_ID` | 楽天アフィリエイト ID | クライアント公開 |
-| `PUBLIC_SITE_URL` | サイト canonical URL | クライアント公開 |
-| `RAKUTEN_APPLICATION_ID` | 楽天 Web Service API ID | サーバ（`update-products.mjs`） |
-| `RAKUTEN_ACCESS_KEY` | 楽天 Web Service API key | サーバ（同上） |
-
-`.env` は **コミット禁止**。`.env.example` をテンプレに使う。
-
----
-
-## 8. スタイリング規約
-
-- **`tailwind.config.js` は使わない**（v4 方式）
-- カラー / フォント / 行間は `src/styles/global.css` の `@theme` ブロックで一元管理
-  - `--color-bg`, `--color-surface`, `--color-border`, `--color-text`, `--color-primary`, `--color-accent`, `--color-warning` …
-- 個別コンポーネントで `#xxx` や `text-blue-500` のようなハードコードを避け、semantic token を優先
-- フォントは Hiragino Sans / Noto Sans JP / system-ui の順でフォールバック
-
----
-
-## 9. SEO / 構造化データ / OGP
-
-- `src/components/seo/BaseSeo.astro` … OG / Twitter Card / canonical / RSS autodiscovery
-- `src/components/seo/JsonLd.astro` … Article / Product / BreadcrumbList JSON-LD
-- OGP 画像: `scripts/generate-ogp.mjs` が **`pnpm build` 時に自動生成**
-  - 出力先: `public/og-default.png`, `public/og/articles/<slug>.png`
-  - 1200×630px、Sharp + SVG テンプレ
-  - 記事を追加・タイトル変更したら必ず再ビルド
-- RSS: `src/pages/rss.xml.ts`
-- サイトマップ: `@astrojs/sitemap` が自動生成
-
----
-
-## 10. パフォーマンス基準
-
-Lighthouse の **Performance / SEO / Accessibility / Best Practices すべて 95+** が設計目標。これを下回る変更は基本 NG。
-
-実装ルール:
-- Islands は `ComparisonTableSort.tsx` のみ。新規 island 追加は事前にユーザーへ理由提示
-- ハイドレーションは `client:visible` 限定。**`client:load` 禁止**
-- 画像は必ず `width` / `height` 指定（CLS 対策）
-- 全画像に `alt` 必須
-- フォーカスリング、ARIA、スキップリンクなどアクセシビリティを壊さない
-
----
-
-## 11. アフィリエイト & 法務
-
-- 楽天リンクは必ず `RakutenLink.astro` 経由で出力（`rel="sponsored nofollow noopener"` を中央管理）
-- ステマ規制対応：`disclaimer.astro` と記事レイアウト下部にアフィリエイト表記を表示中。**外さないこと**
-- 「最安」「No.1」「業界一」など断定表現は、比較日・対象範囲・出典の根拠が記事内に必要
-- 効果効能（医薬品的記述）は薬機法に抵触しうるため、トーンは比較・コスパ訴求に寄せる
-
----
-
-## 12. テスト
-
-- テストは `tests/frontmatter.test.ts`（frontmatter ユーティリティ）と `tests/mcp-content-tools.test.ts`（MCP content-tools）の 2 ファイル（`pnpm test` で実行可）。
-- 追加するなら優先順位は次の通り:
-  1. `src/lib/rakuten.ts` のロジック関数（現在スタブ、実装と並行で）
-  2. Zod スキーマの境界値（title 60 文字、description 160 文字、`rakutenUrl` の URL 検証など）
-  3. `scripts/update-products.mjs` のレスポンスパース・差分検出部分
-- ビルドが通ることに加え、**`pnpm test` がグリーン**であることもスモークラインに含める。
-
----
-
-## 13. Codex 作業時のお作法
-
-1. **ファイル変更前に必ず Read**。推測で編集しない
-2. 一括置換は破壊的になりやすい。まず 1 ファイルで動作確認 → 横展開
-3. スキーマ変更（`content.config.ts`）は影響範囲（既存 53 記事）をユーザーに提示してから着手
-4. README と `astro.config.mjs` のデプロイ設定・CSP 記述を触るときは整合性を確認
-5. 日本語コンテンツが主。記事本文や見出しのコピーは**原則そのまま保持**、変更時はユーザー確認
-6. コミットメッセージは日本語可
-7. `node_modules`, `dist`, `.astro/` は触らない・読まない（時間の無駄）
-8. 大きな変更は `pnpm build` を回して Zod / TS / OGP 全工程が通ることを確認
-9. このリポジトリは原則 UTF-8。PowerShell の `Get-Content` では日本語が表示上文字化けすることがあるため、文字化けをファイル破損と即断しない。日本語内容を確認する場合は `Get-Content -Encoding utf8` と UTF-8 出力設定を使う。文字化けして見える本文を推測で編集しない。
-10. `data/rag/` は `pnpm export-ai-rag` で自動生成されるため直接編集しない。更新後は `data/rag/summary.json` で記事数・商品数を確認する。
-11. `scripts/mcp/kura-content-mcp.mjs` は**読み取り専用**の MCP サーバー。書き込み操作は既存スクリプト（`update-products.mjs` など）経由で行う。
-12. `reports/` は `.gitignore` 済み。レポートファイルはコミットしない。
-
----
-
-## 14. 既知の負債 / TODO
-
-- ~~[x] **`astro.config.mjs` と CNAME の不整合**：解消済み（2026-05-03）。`site` を `https://www.kura-select.com` に変更、`base` を削除~~
-- ~~[x] README の「Vercel デプロイ」「`experimental.csp` 有効化」記述を GitHub Pages / CSP 未設定の実態に合わせて修正~~（2026-05-13）
-- ~~[x] `*.md.bak`（5 本）の扱い：**残す**で確定（2026-05-03 ユーザー判断）。`.gitignore` 済みなのでコミットには影響しない~~
-- [ ] `src/lib/rakuten.ts` の実装（現状スタブ。`update-products.mjs` と統合余地）
-- [ ] `astro.config.mjs` の `image.domains` に `thumbnail.image.rakuten.co.jp` 追加検討（楽天画像の最適化）
-- [ ] ESLint / Prettier / EditorConfig の導入可否
-- ~~[x] `scripts/update-products.mjs` の使い方ドキュメント（README 未記載）~~ README に通常更新・並列/API制御・追加/入れ替え候補レポート・AI照合ファイルの扱いを追記（2026-05-13）
-- [ ] CSP の本格設定（楽天画像ドメイン許可など）
-- [ ] Vitest テストの拡充（`rakuten.ts` / Zod 境界値が手薄）
-
----
-
-## 15. 参考リンク
-
-- 楽天アフィリエイト: https://affiliate.rakuten.co.jp/
-- 楽天 Web Service: https://webservice.rakuten.co.jp/
-- Astro 6 ドキュメント: https://docs.astro.build/
-- Tailwind CSS v4: https://tailwindcss.com/docs
-
----
-
-_最終更新: 2026-05-03（初版）_
+_最終更新: 2026-09-15（公開リポジトリ向けに、禁止事項だけで完結する版へ全面改訂）_
