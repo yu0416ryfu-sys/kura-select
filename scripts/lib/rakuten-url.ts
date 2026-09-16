@@ -7,37 +7,10 @@
  * URL比較は必ずこのモジュールの正規化キーを通して行う。
  */
 
-export interface RakutenItemRef {
-  shopCode: string;
-  itemCode: string;
-}
-
-/**
- * affiliateUrl（hb.afl.rakuten.co.jp）と item.rakuten.co.jp URL から
- * shopCode / itemCode を取り出す。大文字小文字は元の表記のまま返す
- * （楽天APIへ再問い合わせする際のコードとして使うため）。
- */
-export function parseRakutenItemUrl(url: unknown): RakutenItemRef | null {
-  if (typeof url !== 'string' || !url) return null;
-  try {
-    const parsed = new URL(url);
-    if (parsed.hostname === 'hb.afl.rakuten.co.jp') {
-      const pc = parsed.searchParams.get('pc');
-      if (!pc) return null;
-      const inner = new URL(decodeURIComponent(pc));
-      if (inner.hostname !== 'item.rakuten.co.jp') return null;
-      const m = inner.pathname.match(/^\/([^/]+)\/([^/]+)\/?$/);
-      return m ? { shopCode: m[1], itemCode: m[2] } : null;
-    }
-    if (parsed.hostname === 'item.rakuten.co.jp') {
-      const m = parsed.pathname.match(/^\/([^/]+)\/([^/]+)\/?$/);
-      return m ? { shopCode: m[1], itemCode: m[2] } : null;
-    }
-    return null;
-  } catch {
-    return null;
-  }
-}
+// 解析の実体は src/lib/rakuten-url.ts に置く（Astro 側と共有するため）。
+// ⚠ Node ESM（--experimental-strip-types で実行）解決のため相対 import は拡張子 .ts を必須にする。
+import { parseRakutenItemUrl, toRakutenUrlKey } from '../../src/lib/rakuten-url.ts';
+export { parseRakutenItemUrl, toRakutenUrlKey, type RakutenItemRef } from '../../src/lib/rakuten-url.ts';
 
 /**
  * affiliateUrl / item.rakuten.co.jp URL を正規化して
@@ -53,16 +26,6 @@ export function toDirectItemUrl(url: unknown): string | null {
     if (u.hostname === 'item.rakuten.co.jp') return url;
   } catch { /* ignore */ }
   return null;
-}
-
-/**
- * 同一商品かどうかを判定するための比較キー。
- * shopCode / itemCode は楽天側で大文字小文字が揺れるため小文字に揃える。
- */
-export function toRakutenUrlKey(url: unknown): string | null {
-  const parsed = parseRakutenItemUrl(url);
-  if (!parsed) return null;
-  return `${parsed.shopCode.toLowerCase()}/${parsed.itemCode.toLowerCase()}`;
 }
 
 export function isSameRakutenItem(a: unknown, b: unknown): boolean {

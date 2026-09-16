@@ -26,6 +26,7 @@ import { parseRakutenItemUrl, toDirectItemUrl, toRakutenUrlKey, collectOtherProd
 import { stripCapacityForKeyword, buildProductMatchSearchKeywords, createCandidateSelector } from './lib/product-match-keywords.ts';
 import { CATEGORY_SEARCH_RULES, getAdditionSearchRule, resolveArticleSearchRule, checkAdditionCandidateCategory, getAdditionCandidateDiagnostics, scoreAdditionCandidate, isAllowedCapacityUnit } from './lib/search-rules.ts';
 import { isLikelySameProductName } from './lib/product-name-match.ts';
+import { appendPriceHistorySnapshot } from './lib/price-history.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const VERBOSE = process.argv.includes('--verbose');
@@ -2870,6 +2871,18 @@ async function main() {
   }
   if (!DRY_RUN && totals.success > 0) {
     console.log('各ファイルの .bak でいつでも元に戻せます。');
+  }
+
+  // 価格履歴（data/price-history/）を追記する。
+  // 記事ファイルには一切触れない副産物なので、失敗しても本体は止めない。
+  if (!DRY_RUN) {
+    try {
+      const capturedAt = new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Tokyo' }).format(new Date());
+      const history = appendPriceHistorySnapshot({ root: process.cwd(), capturedAt });
+      console.log(`価格履歴: ${history.newRows}行を追記（記事 ${history.articles}本 / capturedAt ${capturedAt}）`);
+    } catch (e) {
+      console.warn(`価格履歴の追記に失敗（本体は続行）: ${e.message}`);
+    }
   }
 
   // 補充が必要な記事に check-additions を自動実行

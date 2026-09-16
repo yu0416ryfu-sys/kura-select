@@ -42,7 +42,12 @@ jobs:
       - name: 変更を確認
         id: check-changes
         run: |
+          # 記事の変更（= 再デプロイが要る変更）
           if [ -n "$(git status --porcelain src/content/articles/ data/deleted-products-history.jsonl)" ]; then
+            echo "has_article_changes=true" >> $GITHUB_OUTPUT
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          # 価格履歴だけの変更はコミットするがデプロイはしない（表示物が変わらないため）
+          elif [ -n "$(git status --porcelain data/price-history/)" ]; then
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
 
@@ -55,12 +60,15 @@ jobs:
           if [ -f data/deleted-products-history.jsonl ]; then
             git add data/deleted-products-history.jsonl
           fi
+          if [ -d data/price-history ]; then
+            git add data/price-history/
+          fi
           git commit -m "商品データを自動更新（$(date '+%Y-%m-%d')）"
           git pull --rebase origin main
           git push
 
       - name: デプロイワークフローをトリガー
-        if: steps.check-changes.outputs.has_changes == 'true'
+        if: steps.check-changes.outputs.has_article_changes == 'true'
         uses: actions/github-script@v7
         with:
           script: |
