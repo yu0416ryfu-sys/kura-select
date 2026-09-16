@@ -4,14 +4,14 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "国内産 農家直米 白米"
     brand: "安齋商店"
-    price: 4980
+    price: 4480
     capacity: "10kg"
-    pricePerUnit: "約498円/kg"
+    pricePerUnit: "約448円/kg"
     rating: 4.39
     reviewCount: 16100
     features:
@@ -33,8 +33,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmanmayarice%2Fnouka10.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-01"
-        price: 5180
+        updatedAt: "2026-09-16"
+        price: 4480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/manmayarice_nouka10"
         available: true
         rating: 4.18
@@ -92,8 +92,8 @@ products:
       - "無洗米は水加減に慣れが必要な場合がある"
     recommendedFor: "新潟県産コシヒカリを無洗米で使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3eon.3rdw616f.g00q3eon.3rdw7349/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakizawa%2F2019090073%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftakizawa%2Fi%2F10000227%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    rating: 4.89
-    reviewCount: 133
+    rating: 4.9
+    reviewCount: 136
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/takizawa/cabinet/syouhinn/08533100/musenmai10kgver3.jpg?_ex=128x128"
     pricePerUnit: "約680円/kg"
     offers:

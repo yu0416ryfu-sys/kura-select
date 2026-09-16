@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 draft: false
 products:
   - rank: 1
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F0019014614196.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-16"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_0019014614196"
         available: true
@@ -170,12 +170,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-31"
+        updatedAt: "2026-09-16"
         price: 8980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
-        rating: 4.71
-        reviewCount: 168
+        rating: 4.72
+        reviewCount: 172
     genreId: "565715"
   - rank: 6
     name: "アーテミス フレッシュミックス スモールブリードアダルト 3kg"
@@ -204,10 +204,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F0813369001904.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-31"
+        updatedAt: "2026-09-16"
         price: 5830
         rating: 4.74
-        reviewCount: 102
+        reviewCount: 103
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_0813369001904"
         available: true
     genreId: "565715"
@@ -237,8 +237,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 4948
+        updatedAt: "2026-09-16"
+        price: 5148
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
         rating: 4.56
@@ -248,7 +248,7 @@ products:
   - rank: 8
     name: "ナチュラルハーベスト メンテナンス ラム (大粒) ドッグフード 犬 ドライフード"
     brand: "ナチュラルハーベスト"
-    price: 220
+    price: 3080
     capacity: "1.1kg"
     rating: 4.77
     reviewCount: 2525
@@ -270,11 +270,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjohn-coco%2Fnhd0100260-1.html"
-        matchStatus: "pending"
-        updatedAt: "2026-08-31"
+        matchStatus: "matched"
+        updatedAt: "2026-09-16"
         price: 3080
-        rating: 4.74
-        reviewCount: 19
+        rating: 4.76
+        reviewCount: 21
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/john-coco_nhd0100260-1"
         available: true
     priceMax: 26180
@@ -285,7 +285,7 @@ products:
     price: 3000
     capacity: "1kg"
     rating: 4.72
-    reviewCount: 2570
+    reviewCount: 2571
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -305,12 +305,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600a.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-31"
+        updatedAt: "2026-09-16"
         price: 3000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600a"
         available: true
-        rating: 4.7
-        reviewCount: 37
+        rating: 4.69
+        reviewCount: 39
     priceMax: 15500
     genreId: "565715"
   - rank: 10

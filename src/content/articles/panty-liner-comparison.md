@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbenkyoudou%2Fso-4903111364244.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-16"
         price: 314
         rating: 5
         reviewCount: 3
@@ -90,8 +90,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8029471/"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
+        matchStatus: "matched"
+        updatedAt: "2026-09-16"
         price: 294
         rating: 4.49
         reviewCount: 51
@@ -158,8 +158,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/e471977/"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
+        matchStatus: "matched"
+        updatedAt: "2026-09-16"
         price: 1044
         rating: 4.72
         reviewCount: 32
@@ -226,8 +226,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/e471971/"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
+        matchStatus: "matched"
+        updatedAt: "2026-09-16"
         price: 2230
         rating: 4.73
         reviewCount: 41

@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "クリニカ アドバンテージ ハミガキ クールミント 130g×3本"
@@ -70,7 +70,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 11027
+    reviewCount: 11033
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -84,7 +84,7 @@ products:
       - "医薬部外品表記の確認が必要"
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/mailmagazine/r2022/toothp_sale_tmb09.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/paste_ok_08.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -195,7 +195,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約24円/g"
     rating: 4.6
-    reviewCount: 806
+    reviewCount: 807
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -251,7 +251,7 @@ products:
     price: 2580
     capacity: "120g"
     rating: 4.47
-    reviewCount: 2347
+    reviewCount: 2352
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -274,7 +274,7 @@ products:
     price: 2200
     capacity: "50g"
     rating: 4.37
-    reviewCount: 2249
+    reviewCount: 2250
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"

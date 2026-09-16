@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "ムーニー テープ Sサイズ"
@@ -35,8 +35,8 @@ products:
     price: 7084
     capacity: "70枚×4パック"
     pricePerUnit: "約25円/枚"
-    rating: 4.57
-    reviewCount: 54
+    rating: 4.58
+    reviewCount: 55
     features:
       - "マシュマロのようなやさしい肌触り"
       - "モレ安心設計でテープタイプの安心感"

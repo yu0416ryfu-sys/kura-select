@@ -4,7 +4,7 @@ description: "介護用・大人用おしりふきのおすすめ9選を1枚あ�
 category: "adult-wipes"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 draft: false
 products:
   - rank: 1
@@ -37,7 +37,7 @@ products:
     capacity: "72枚×10パック（720枚）"
     pricePerUnit: "約4.1円/枚"
     rating: 4.61
-    reviewCount: 75
+    reviewCount: 76
     features:
       - "ヒアルロン酸配合の弱酸性シート"
       - "ノンアルコール・無香料で肌への刺激に配慮"
@@ -82,8 +82,8 @@ products:
     price: 4224
     capacity: "72枚×12袋（864枚）"
     pricePerUnit: "約4.9円/枚"
-    rating: 4.79
-    reviewCount: 85
+    rating: 4.78
+    reviewCount: 86
     features:
       - "厚手素材でしっかり拭き取れる設計"
       - "使用後はトイレに流せる水解性シート"
@@ -105,8 +105,8 @@ products:
     price: 2497
     capacity: "80枚×6個（480枚）"
     pricePerUnit: "約5.2円/枚"
-    rating: 4.63
-    reviewCount: 8
+    rating: 4.67
+    reviewCount: 9
     features:
       - "無添加処方でトイレに流せる厚手シート"
       - "蓋つきパッケージで乾燥を防ぎやすい"

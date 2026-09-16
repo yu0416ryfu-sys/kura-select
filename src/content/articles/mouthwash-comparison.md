@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901730160476.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4901730160476.html"
         matchStatus: "pending"
-        updatedAt: "2026-07-26"
-        price: 1030
-        rating: 4.73
-        reviewCount: 56
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901730160476"
+        updatedAt: "2026-09-16"
+        price: 1060
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4901730160476"
         available: true
     genreId: "208265"
   - rank: 2
@@ -218,7 +218,7 @@ products:
     capacity: "500mL×3本"
     pricePerUnit: "約5.0円/mL"
     rating: 4.72
-    reviewCount: 499
+    reviewCount: 500
     features:
       - "二酸化塩素（ClO2）配合で口臭の原因菌を抑制"
       - "無香料・ノンアルコール処方で低刺激"
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichinan25%2Fdr-wash.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-01"
+        updatedAt: "2026-09-16"
         price: 2970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichinan25_dr-wash"
         available: true
@@ -275,7 +275,7 @@ products:
     capacity: "100mL（約700回分）"
     pricePerUnit: "約23円/mL"
     rating: 4.76
-    reviewCount: 606
+    reviewCount: 610
     features:
       - "歯科医院で推奨される薬用マウスウォッシュ"
       - "グルコン酸クロルヘキシジン配合で高い殺菌力"
@@ -295,12 +295,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Fdf0129.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-01"
+        updatedAt: "2026-09-16"
         price: 3340
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_df0129"
         available: true
         rating: 4.78
-        reviewCount: 1428
+        reviewCount: 1444
     genreId: "208265"
   - rank: 10
     name: "フィス ホワイト 薬用マウスウォッシュ 300mL"
@@ -308,7 +308,7 @@ products:
     price: 2580
     capacity: "300mL"
     rating: 4.6
-    reviewCount: 2884
+    reviewCount: 2891
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"
@@ -328,7 +328,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbluecastle%2Fnitiyou-102.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-16"
         price: 3980
         rating: 5
         reviewCount: 4

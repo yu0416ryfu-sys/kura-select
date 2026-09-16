@@ -4,40 +4,17 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 draft: false
 products:
   - rank: 1
-    name: "スコッティ ティッシュ 200組 60箱"
-    brand: "日本製紙クレシア（スコッティ）"
-    price: 5299
-    capacity: "200組×60箱（12,000組）"
-    pricePerUnit: "約0.44円/組"
-    rating: 4.79
-    reviewCount: 1597
-    features:
-      - "ティッシュペーパー本体のまとめ買い候補"
-      - "箱タイプまたはソフトパックで選べる"
-      - "家庭でストックしやすい容量構成"
-    pros:
-      - "日常の消耗品をまとめて比較できる"
-      - "保管場所に合わせて形状を選びやすい"
-      - "家族使いのストック候補になる"
-    cons:
-      - "紙質や肌ざわりは好みが分かれる"
-      - "大容量品は置き場所の確認が必要"
-    recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F13336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10024833%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/020/main-13336_t.jpg?_ex=128x128"
-    genreId: "100670"
-  - rank: 2
     name: "スコッティ ティッシュ ホワイトパッケージ 60箱"
     brand: "日本製紙クレシア（スコッティ）"
     price: 5401
     capacity: "400枚（200組）×60箱"
     pricePerUnit: "約0.45円/組"
     rating: 4.75
-    reviewCount: 534
+    reviewCount: 536
     features:
       - "シンプルなホワイトパッケージの定番箱タイプ"
       - "200組のスタンダードな2枚重ね"
@@ -64,14 +41,14 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kyoto23_10001789"
         available: true
     genreId: "100670"
-  - rank: 3
+  - rank: 2
     name: "スコッティ ティッシュ 200組 60箱セット"
     brand: "日本製紙クレシア（スコッティ）"
     price: 5401
     capacity: "200組×60箱"
     pricePerUnit: "約0.45円/組"
     rating: 4.68
-    reviewCount: 302
+    reviewCount: 304
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -87,12 +64,35 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7162877%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077529%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7162877.jpg?_ex=128x128"
     genreId: "100670"
+  - rank: 3
+    name: "スコッティ ティッシュ 200組 60箱"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 5499
+    capacity: "200組×60箱（12,000組）"
+    pricePerUnit: "約0.46円/組"
+    rating: 4.79
+    reviewCount: 1598
+    features:
+      - "ティッシュペーパー本体のまとめ買い候補"
+      - "箱タイプまたはソフトパックで選べる"
+      - "家庭でストックしやすい容量構成"
+    pros:
+      - "日常の消耗品をまとめて比較できる"
+      - "保管場所に合わせて形状を選びやすい"
+      - "家族使いのストック候補になる"
+    cons:
+      - "紙質や肌ざわりは好みが分かれる"
+      - "大容量品は置き場所の確認が必要"
+    recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F13336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10024833%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/020/main-13336_t.jpg?_ex=128x128"
+    genreId: "100670"
   - rank: 4
     name: "スコッティ ティッシュペーパー 200組5箱×12パック"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5500
+    price: 5790
     capacity: "200組×5箱×12パック（60箱）"
-    pricePerUnit: "約0.46円/組"
+    pricePerUnit: "約0.48円/組"
     rating: 4.64
     reviewCount: 112
     features:
@@ -113,9 +113,9 @@ products:
   - rank: 5
     name: "スコッティ ティッシュペーパー フラワーボックス"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 7999
+    price: 7699
     capacity: "500枚×60箱"
-    pricePerUnit: "約0.53円/組"
+    pricePerUnit: "約0.51円/組"
     rating: 4.71
     reviewCount: 885
     features:

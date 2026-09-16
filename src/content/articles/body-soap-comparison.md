@@ -4,7 +4,7 @@ description: "ボディソープを1gあたりのコストで比較。ダヴ・h
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
@@ -124,7 +124,7 @@ products:
     capacity: "115g"
     pricePerUnit: "約11円/g"
     rating: 4.79
-    reviewCount: 344
+    reviewCount: 345
     features:
       - "ボディソープとして使える洗浄料"
       - "継続利用しやすい定番構成"
@@ -144,12 +144,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhealingvillage%2Fmndmrw-kbwt0.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-16"
         price: 1227
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/healingvillage_mndmrw-kbwt0"
         available: true
-        rating: 4.57
-        reviewCount: 35
+        rating: 4.59
+        reviewCount: 37
     genreId: "100962"
   - rank: 5
     name: "柿渋石鹸 男のたしなみ 100g"
@@ -212,10 +212,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakakabeshop%2F4903301291305-12.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-16"
         price: 7480
         rating: 0
-        reviewCount: 0
+        reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akakabeshop_4903301291305-12"
         available: true
     genreId: "100962"
@@ -246,8 +246,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901301289353.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 752
+        updatedAt: "2026-09-16"
+        price: 764
         rating: 4.7
         reviewCount: 23
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901301289353"
@@ -259,8 +259,8 @@ products:
     price: 3300
     capacity: "400mL×3袋（約300回分）"
     pricePerUnit: "約2.8円/mL"
-    rating: 4.77
-    reviewCount: 97
+    rating: 4.78
+    reviewCount: 98
     features:
       - "製薬会社開発の薬用処方"
       - "植物性アミノ酸系洗浄成分100%"

@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ10選を1回
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 draft: false
 products:
   - rank: 1
@@ -93,7 +93,7 @@ products:
     price: 1280
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7252
+    reviewCount: 7279
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -134,13 +134,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fulimalie%2F99jun24yjcs02.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenton-store%2Fportabletoilet01f2.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
-        price: 4980
-        rating: 4.57
-        reviewCount: 100
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ulimalie_99jun24yjcs02"
+        updatedAt: "2026-09-16"
+        price: 5280
+        rating: 4.68
+        reviewCount: 105
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenton-store_portabletoilet01f2"
         available: true
     priceMax: 23750
     genreId: "501137"
@@ -150,7 +150,7 @@ products:
     price: 1380
     capacity: "50回分"
     rating: 4.6
-    reviewCount: 746
+    reviewCount: 747
     features:
       - "凝固剤・ポリエチレン袋・消臭液・吸収シートをまとめた構成"
       - "組み立てが簡単な設計"
@@ -170,10 +170,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoco-yasashisaya%2Fsaimol01.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-16"
         price: 3780
         rating: 4.49
-        reviewCount: 781
+        reviewCount: 783
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coco-yasashisaya_saimol01"
         available: true
     priceMax: 26800
@@ -202,13 +202,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2Fps-100.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpinus-copia%2Fpi1f729cc7a0.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
-        price: 4999
-        rating: 4.54
-        reviewCount: 624
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
+        updatedAt: "2026-09-16"
+        price: 5215
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pinus-copia_pi1f729cc7a0"
         available: true
     priceMax: 38599
     genreId: "501137"
@@ -259,13 +259,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2Fps-100.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhacono%2Fftl010210102.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
-        price: 4999
-        rating: 4.54
-        reviewCount: 624
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
+        updatedAt: "2026-09-16"
+        price: 7980
+        rating: 3.88
+        reviewCount: 24
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hacono_ftl010210102"
         available: true
     priceMax: 39599
     genreId: "501137"
@@ -295,7 +295,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyandk%2Fportable-toilet.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-16"
         price: 3480
         rating: 0
         reviewCount: 0

@@ -4,7 +4,7 @@ description: "入れ歯洗浄剤のおすすめ10選を1錠あたりの単価で
 category: "denture-cleaner"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "スッキリデント 部分入れ歯総入れ歯兼用 120錠"
@@ -12,8 +12,8 @@ products:
     price: 694
     capacity: "120錠"
     pricePerUnit: "約5.8円/錠"
-    rating: 4.57
-    reviewCount: 65
+    rating: 4.56
+    reviewCount: 66
     features:
       - "部分入れ歯・総入れ歯兼用の洗浄剤"
       - "酵素を配合したつけ置きタイプ"

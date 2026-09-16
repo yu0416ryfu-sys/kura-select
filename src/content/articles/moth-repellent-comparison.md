@@ -4,7 +4,7 @@ description: "クローゼット用・引き出し用の衣類防虫剤を1個�
 category: "moth-repellent"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×2箱セット"
@@ -203,7 +203,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F3685161.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-16"
         price: 609
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_3685161"
         available: true
@@ -237,7 +237,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F65253.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-16"
         price: 4277
         rating: 0
         reviewCount: 2
@@ -271,7 +271,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F65247.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-16"
         price: 2796
         rating: 4.67
         reviewCount: 3
@@ -284,8 +284,8 @@ products:
     price: 1628
     capacity: "3個×2"
     pricePerUnit: "約271円/個"
-    rating: 4.74
-    reviewCount: 133
+    rating: 4.73
+    reviewCount: 134
     features:
       - "有効期間1年で年1回の交換でOK"
       - "衣類への移り香防止処方"

@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -132,9 +132,9 @@ products:
   - rank: 5
     name: "Bioré ビオレ素肌つるるんクレンジングウォーター詰替"
     brand: "花王（ビオレ）"
-    price: 6366
+    price: 6116
     capacity: "290mL"
-    pricePerUnit: "約22円/mL"
+    pricePerUnit: "約21円/mL"
     rating: 4.4
     reviewCount: 800
     features:
@@ -159,7 +159,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3241
+    reviewCount: 3252
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"
@@ -179,12 +179,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-16"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true
         rating: 4.94
-        reviewCount: 471
+        reviewCount: 473
     genreId: "405091"
   - rank: 7
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
@@ -249,7 +249,7 @@ products:
     price: 2300
     capacity: "200mL"
     rating: 4.69
-    reviewCount: 558
+    reviewCount: 559
     features:
       - "ドクダミエキス配合のクレンジングオイル"
       - "毛穴や皮脂汚れまで落とす韓国コスメ"
@@ -283,7 +283,7 @@ products:
     price: 4378
     capacity: "100mL"
     rating: 4.57
-    reviewCount: 1692
+    reviewCount: 1694
     features:
       - "発酵オイルを配合したクレンジングオイル"
       - "W洗顔不要でメイクと毛穴汚れを落とす"

@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301745910-73-30000846.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-16"
         price: 220
         rating: 4.8
         reviewCount: 15
@@ -46,8 +46,8 @@ products:
     price: 1288
     capacity: "820ml×3セット（2460ml）"
     pricePerUnit: "約0.52円/ml"
-    rating: 4.84
-    reviewCount: 87
+    rating: 4.83
+    reviewCount: 90
     features:
       - "液体タイプの衣料用酸素系漂白剤"
       - "洗剤と一緒に洗濯機へ入れて使う設計"
@@ -90,7 +90,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F574939.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-09-16"
         price: 3960
         rating: 0
         reviewCount: 0
@@ -124,7 +124,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F34562.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-09-16"
         price: 996
         rating: 4.5
         reviewCount: 4
@@ -137,8 +137,8 @@ products:
     price: 2883
     capacity: "450ml×6袋（2700ml）"
     pricePerUnit: "約1.1円/ml"
-    rating: 4.82
-    reviewCount: 234
+    rating: 4.8
+    reviewCount: 238
     features:
       - "抗菌成分を配合した液体タイプの酸素系漂白剤"
       - "部屋干し時の菌のケアを想定した処方"
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4978951060458.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-09-16"
         price: 991
         rating: 0
         reviewCount: 0
@@ -202,11 +202,11 @@ products:
   - rank: 7
     name: "オキシクリーン 計量スプーン付き 5.26kg"
     brand: "グラフィコ（オキシクリーン）"
-    price: 3429
+    price: 3347
     capacity: "5.26kg"
-    pricePerUnit: "約0.65円/g"
+    pricePerUnit: "約0.64円/g"
     rating: 4.64
-    reviewCount: 1434
+    reviewCount: 1435
     features:
       - "酸素系漂白剤の代名詞的ブランド"
       - "衣類・洗濯槽・キッチン・風呂と多用途"

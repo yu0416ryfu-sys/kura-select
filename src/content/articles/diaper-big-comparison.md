@@ -4,7 +4,7 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "グーンプラス 肌の贅沢 テープ BIGサイズ"
@@ -55,8 +55,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhashbaby%2Fw875019-1008--.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-07"
+        matchStatus: "matched"
+        updatedAt: "2026-09-16"
         price: 12051
         rating: 0
         reviewCount: 0
@@ -93,7 +93,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_60000000002751"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-16"
         rating: 4
         reviewCount: 3
     genreId: "205198"
@@ -194,7 +194,7 @@ products:
     price: 1518
     capacity: "38枚（BIGサイズ・12〜20kg）"
     rating: 5
-    reviewCount: 3
+    reviewCount: 4
     features:
       - "敏感肌向けのやわらかタッチ素材を採用"
       - "BIGサイズ12〜20kg対応で長く使える"

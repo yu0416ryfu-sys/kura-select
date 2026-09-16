@@ -32,8 +32,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/awk4587/"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
+        matchStatus: "matched"
+        updatedAt: "2026-09-16"
         price: 3345
         rating: 5
         reviewCount: 4

@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 draft: false
 products:
   - rank: 1
@@ -33,8 +33,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flittle-hands%2Fbl0516.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-07"
+        matchStatus: "matched"
+        updatedAt: "2026-09-16"
         price: 1400
         rating: 4.89
         reviewCount: 90
@@ -48,7 +48,7 @@ products:
     capacity: "1本（4色ボールペン+シャープペンシル、0.5mm）"
     pricePerUnit: "約1980円/本"
     rating: 4.74
-    reviewCount: 717
+    reviewCount: 718
     features:
       - "限定カラー展開の4色ボールペン＋シャープ0.5mmの多機能タイプ（MSXE5-1000-05）"
       - "名前刻印サービス付きで卒団・卒業祝いなどの特別な記念品に対応"
@@ -93,7 +93,7 @@ products:
     price: 1000
     capacity: "1本（4色ボールペン+シャープペンシル）"
     rating: 4.78
-    reviewCount: 13632
+    reviewCount: 13645
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"
@@ -227,7 +227,7 @@ products:
     capacity: "-"
     pricePerUnit: "-"
     rating: 4.55
-    reviewCount: 251
+    reviewCount: 253
     features:
       - "MSXE5-1000正規品に名入れ無料サービスが込みで1,000円台"
       - "0.38/0.5/0.7mm軸径を選択でき、用途に合わせてカスタマイズ可能"

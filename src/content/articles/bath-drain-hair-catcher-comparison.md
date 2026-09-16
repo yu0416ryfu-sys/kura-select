@@ -4,7 +4,7 @@ description: "浴室排水口ヘアキャッチャーを1個あたりのコス�
 category: "bath-drain-hair-catcher"
 publishedAt: "2026-06-04"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 draft: false
 products:
   - rank: 1
@@ -36,7 +36,7 @@ products:
     price: 1580
     capacity: "1個"
     pricePerUnit: "約1580円/個"
-    rating: 4.22
+    rating: 4.23
     reviewCount: 959
     features:
       - "ステンレス製の排水口ゴミ受け"
@@ -51,7 +51,7 @@ products:
       - "ネット不要派には付属品が余る場合がある"
     recommendedFor: "ネット付きで始めたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0w7n.3rdw68ea.g00s0w7n.3rdw7982/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fysmya%2F80002296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fysmya%2Fi%2F10012656%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ysmya/cabinet/13755558/80002296logotest1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ysmya/cabinet/wang1/80002296logo00.jpg?_ex=128x128"
     genreId: "101838"
   - rank: 3
     name: "ヘアーキャッチャー お風呂の排水口用 ミューファン"
@@ -83,7 +83,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2420円/個"
     rating: 4.69
-    reviewCount: 2442
+    reviewCount: 2468
     features:
       - "TOTO対応サイズのヘアーキャッチャー"
       - "浴室排水口向けのステンレス製"
@@ -97,7 +97,7 @@ products:
       - "購入前に排水口仕様を確認したい"
     recommendedFor: "TOTO系浴室の目皿交換候補を探す方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s7h3n.3rdw6d0e.g00s7h3n.3rdw7585/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsinkatec%2Fhu_thair_catcher%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsinkatec%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkatec/cabinet/sale/tt_p5_260904.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkatec/cabinet/bath/hubath_btmh/imgrc0151319523.jpg?_ex=128x128"
     genreId: "101838"
   - rank: 5
     name: "HUBATH お風呂 マグネット ヘアーキャッチャー STD140"
@@ -106,7 +106,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2530円/個"
     rating: 4.62
-    reviewCount: 4977
+    reviewCount: 5009
     features:
       - "浴室排水口向けのステンレス製"
       - "マグネット式のヘアーキャッチャー"
@@ -120,7 +120,7 @@ products:
       - "磁石が使える条件を確認したい"
     recommendedFor: "ステンレス製の標準サイズを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s7h3n.3rdw6d0e.g00s7h3n.3rdw7585/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsinkatec%2Fhu_mhair_catcher%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsinkatec%2Fi%2F10000428%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkatec/cabinet/sale/cd_p5_260904.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkatec/cabinet/bath/hubath_bmh/imgrc0151319519.jpg?_ex=128x128"
     genreId: "101838"
   - rank: 6
     name: "dailysmile ステンレス 排水口カバー ヘアーキャッチャー"
@@ -174,7 +174,7 @@ products:
     price: 1150
     capacity: "1個"
     rating: 4.19
-    reviewCount: 647
+    reviewCount: 648
     features:
       - "浴室排水口向けのヘアキャッチャー"
       - "渦の流れで髪の毛を集める設計"
@@ -194,10 +194,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffabric-cute%2F4580356840049.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-31"
+        updatedAt: "2026-09-16"
         price: 1150
-        rating: 4.63
-        reviewCount: 19
+        rating: 4.65
+        reviewCount: 20
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fabric-cute_4580356840049"
         available: true
     priceMax: 2550
@@ -208,7 +208,7 @@ products:
     price: 1000
     capacity: "1個"
     rating: 4.65
-    reviewCount: 653
+    reviewCount: 659
     features:
       - "浴室排水口向けのネットホルダー"
       - "排水口ネットを隠しやすい構造"

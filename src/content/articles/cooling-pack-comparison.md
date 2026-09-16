@@ -4,7 +4,7 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "ロゴス 倍速凍結 氷点下パックXL セット"
@@ -149,7 +149,7 @@ products:
     price: 770
     capacity: "1個"
     rating: 4.67
-    reviewCount: 255
+    reviewCount: 258
     features:
       - "繰り返し使える保冷剤タイプ"
       - "保冷バッグやクーラーボックスに入れやすい形状"
@@ -217,8 +217,8 @@ products:
     brand: "NISHIZARC"
     price: 2980
     capacity: "1個"
-    rating: 4.44
-    reviewCount: 39
+    rating: 4.45
+    reviewCount: 40
     features:
       - "ステンレス製で耐久性が高く長期間の繰り返し使用に向いている"
       - "冷蔵・冷凍どちらにも対応し用途に応じて使い分けが可能"

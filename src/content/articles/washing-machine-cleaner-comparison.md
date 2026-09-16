@@ -4,7 +4,7 @@ description: "洗濯槽クリーナーを1回あたりのコストで徹底比�
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "過炭酸ナトリウム 酸素系漂白剤 950g"
@@ -13,7 +13,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.63円/g"
     rating: 4.76
-    reviewCount: 2098
+    reviewCount: 2105
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "pH10.5のアルカリ性で汚れに働きかける"
@@ -43,11 +43,11 @@ products:
   - rank: 2
     name: "オキシクリーン マルチパーパスクリーナー 5.26kg（コストコ版）"
     brand: "オキシクリーン（Church & Dwight）"
-    price: 3429
+    price: 3347
     capacity: "5.26kg"
-    pricePerUnit: "約0.65円/g"
+    pricePerUnit: "約0.64円/g"
     rating: 4.64
-    reviewCount: 1434
+    reviewCount: 1435
     features:
       - "酸素系漂白剤で洗濯槽以外にも多用途"
       - "界面活性剤入りのアメリカ版（コストコで流通する大容量）"
@@ -93,7 +93,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約1.1円/g"
     rating: 4.81
-    reviewCount: 170
+    reviewCount: 172
     features:
       - "合成界面活性剤不使用の酸素系石けん系クリーナー"
       - "塩素系漂白剤を含まない処方"
@@ -173,7 +173,7 @@ products:
     capacity: "200g×3個（3回分）"
     pricePerUnit: "約4.2円/g"
     rating: 4.64
-    reviewCount: 793
+    reviewCount: 798
     features:
       - "酵素と塩素系成分を組み合わせたクリーナー"
       - "縦型・ドラム式両対応の設計"
@@ -187,7 +187,7 @@ products:
       - "四国化成ブランドのため流通量が限られる場合がある"
     recommendedFor: "縦型・ドラム式どちらにも使える汎用品を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u9stn.3rdw63e2.g00u9stn.3rdw7c29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshikokukasei%2Fwadhmania02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshikokukasei%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shikokukasei/cabinet/pr/10955476/2609_rss_3.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shikokukasei/cabinet/washmania02/washmania01/imgrc0128297174.jpg?_ex=128x128"
     genreId: "101837"
   - rank: 8
     name: "洗濯槽快 10個セット 専用ネット付 ホタテ貝殻素材"
@@ -216,7 +216,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurashikaiteki-pro%2F10000168.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-09-16"
         price: 4345
         rating: 4.21
         reviewCount: 34
@@ -230,7 +230,7 @@ products:
     capacity: "2個入り（新ネット付）"
     pricePerUnit: "約605円/個"
     rating: 4.3
-    reviewCount: 186
+    reviewCount: 187
     features:
       - "ホタテ貝殻を原料とした天然素材系クリーナー"
       - "カビ防止・除菌・消臭の3つの機能を持つ"

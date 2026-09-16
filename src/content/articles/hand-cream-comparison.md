@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "ユースキン ハンドクリーム つけかえパウチ 180g"
@@ -28,6 +28,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987353190618%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10990957%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/618/4987353190618.jpg?_ex=128x128"
     genreId: "304759"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4987353190618.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-16"
+        price: 1159
+        rating: 4.67
+        reviewCount: 9
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4987353190618"
+        available: true
   - rank: 2
     name: "ユースキンAa ポンプつけかえパウチ 180g×2個"
     brand: "ユースキン製薬"
@@ -69,7 +80,7 @@ products:
     capacity: "35g"
     pricePerUnit: "約19円/g"
     rating: 4.5
-    reviewCount: 415
+    reviewCount: 416
     features:
       - "100%ピュアシアバターを精製したオーガニック処方"
       - "9種類の香りから選べるセレクト仕様"

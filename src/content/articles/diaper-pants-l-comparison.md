@@ -34,8 +34,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443519-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
-        price: 11680
+        updatedAt: "2026-09-16"
+        price: 10890
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_4901301443519-2"
@@ -68,8 +68,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F67491.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
-        price: 5580
+        updatedAt: "2026-09-16"
+        price: 5980
         rating: 5
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_67491"
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111127986x4.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-16"
         price: 7720
         rating: 0
         reviewCount: 2
@@ -168,13 +168,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2873471017.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430148887.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
-        price: 8712
-        rating: 5
-        reviewCount: 3
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2873471017"
+        updatedAt: "2026-09-16"
+        price: 1940
+        rating: 4.89
+        reviewCount: 18
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430148887"
         available: true
   - rank: 6
     name: "メリーズ パンツ ファーストプレミアム Lサイズ"
@@ -236,8 +236,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111243099x4.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-07"
+        matchStatus: "matched"
+        updatedAt: "2026-09-16"
         price: 7720
         rating: 4.82
         reviewCount: 118

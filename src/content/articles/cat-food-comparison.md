@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 draft: false
 products:
   - rank: 1
@@ -206,7 +206,7 @@ products:
     price: 5759
     capacity: "3.5kg"
     rating: 4.82
-    reviewCount: 148
+    reviewCount: 149
     features:
       - "7歳以上の室内で生活する中高齢猫向け総合栄養食"
       - "ジッパー付き袋で開封後の保存がしやすい設計"
@@ -240,7 +240,7 @@ products:
     price: 6476
     capacity: "4kg"
     rating: 4.65
-    reviewCount: 698
+    reviewCount: 700
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -307,8 +307,8 @@ products:
     brand: "ニュートロ"
     price: 3980
     capacity: "2kg"
-    rating: 4.69
-    reviewCount: 951
+    rating: 4.7
+    reviewCount: 957
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約26円/本"
     rating: 4.68
-    reviewCount: 650
+    reviewCount: 652
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -71,7 +71,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約64円/本"
     rating: 4.65
-    reviewCount: 1232
+    reviewCount: 1233
     features:
       - "10年長期保存対応のパナソニック製アルカリ電池"
       - "1パック4本×5パック構成で使いやすい量を分割して管理できる"
@@ -139,7 +139,7 @@ products:
     capacity: "16本"
     pricePerUnit: "約97円/本"
     rating: 5
-    reviewCount: 17
+    reviewCount: 18
     features:
       - "Panasonicのフラッグシップモデルで業界最高水準の持続時間"
       - "単3形16本入りでまとめ買い対応"
@@ -173,7 +173,7 @@ products:
     capacity: "16本"
     pricePerUnit: "約186円/本"
     rating: 4.45
-    reviewCount: 669
+    reviewCount: 670
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -274,7 +274,7 @@ products:
     price: 800
     capacity: "40本"
     rating: 4.64
-    reviewCount: 1128
+    reviewCount: 1129
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"
@@ -297,7 +297,7 @@ products:
     price: 480
     capacity: "40本"
     rating: 4.52
-    reviewCount: 668
+    reviewCount: 669
     features:
       - "単3・単4をそろえられるアルカリ乾電池"
       - "本数を選べるまとめ買いタイプ"

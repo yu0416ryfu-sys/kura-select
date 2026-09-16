@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "ザクロー精炭酸シャンプー 詰替用"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/1931029/"
         matchStatus: "pending"
-        updatedAt: "2026-09-01"
+        updatedAt: "2026-09-16"
         price: 909
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_1931029"
         available: true
@@ -81,7 +81,7 @@ products:
     capacity: "250ml"
     pricePerUnit: "約11円/mL"
     rating: 4.66
-    reviewCount: 1043
+    reviewCount: 1044
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -101,10 +101,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcerapure%2Fkf-22.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-01"
+        updatedAt: "2026-09-16"
         price: 3350
-        rating: 4.6
-        reviewCount: 5
+        rating: 4.5
+        reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cerapure_kf-22"
         available: true
     genreId: "210677"
@@ -115,7 +115,7 @@ products:
     capacity: "240ml"
     pricePerUnit: "約12円/mL"
     rating: 4.45
-    reviewCount: 473
+    reviewCount: 475
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -138,7 +138,7 @@ products:
     capacity: "300mL"
     pricePerUnit: "約15円/mL"
     rating: 4.23
-    reviewCount: 2425
+    reviewCount: 2426
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -158,7 +158,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmcosme-style%2Fumahai0000.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-01"
+        updatedAt: "2026-09-16"
         price: 4400
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mcosme-style_umahai0000"
         available: true
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisopo%2F3474636858033.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-01"
+        updatedAt: "2026-09-16"
         price: 4180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_3474636858033"
         available: true
@@ -228,7 +228,7 @@ products:
     price: 4180
     capacity: "250ml"
     rating: 4.66
-    reviewCount: 316
+    reviewCount: 317
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"

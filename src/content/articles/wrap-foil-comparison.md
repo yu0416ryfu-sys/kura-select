@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"
@@ -41,40 +41,6 @@ products:
         available: true
     genreId: "100633"
   - rank: 2
-    name: "サランラップ 22cm×50m"
-    brand: "旭化成（サランラップ）"
-    price: 431
-    capacity: "22cm×50m"
-    pricePerUnit: "約8.6円/m"
-    rating: 4.73
-    reviewCount: 33
-    features:
-      - "旭化成のポリ塩化ビニリデン製ラップ・50mロール"
-      - "22cm幅で日常使いしやすいサイズ"
-      - "電子レンジ・冷凍保存に対応"
-    pros:
-      - "50mで交換頻度を抑えられる"
-      - "密着性が高く食品の鮮度保持に優れる"
-      - "22cm幅で小皿・お茶碗など一般的な食器に対応しやすい"
-    cons:
-      - "密着性に特化した設計のため価格はポリエチレン製より高め"
-      - "高温調理への使用は耐熱温度を確認する必要がある"
-    recommendedFor: "長めのロールでコスパを上げたい方・22cm幅を日常使いする方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4901670110197%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10063821%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0030/4901670110197_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F71920-1.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-01"
-        price: 2280
-        rating: 0
-        reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_71920-1"
-        available: true
-    genreId: "100633"
-  - rank: 3
     name: "NEWクレラップ お徳用レギュラー 30cm×50m"
     brand: "クレハ（クレラップ）"
     price: 455
@@ -101,11 +67,45 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901422153502.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-09-16"
         price: 501
         rating: 4.86
         reviewCount: 7
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901422153502"
+        available: true
+    genreId: "100633"
+  - rank: 3
+    name: "サランラップ 22cm×50m"
+    brand: "旭化成（サランラップ）"
+    price: 471
+    capacity: "22cm×50m"
+    pricePerUnit: "約9.4円/m"
+    rating: 4.73
+    reviewCount: 33
+    features:
+      - "旭化成のポリ塩化ビニリデン製ラップ・50mロール"
+      - "22cm幅で日常使いしやすいサイズ"
+      - "電子レンジ・冷凍保存に対応"
+    pros:
+      - "50mで交換頻度を抑えられる"
+      - "密着性が高く食品の鮮度保持に優れる"
+      - "22cm幅で小皿・お茶碗など一般的な食器に対応しやすい"
+    cons:
+      - "密着性に特化した設計のため価格はポリエチレン製より高め"
+      - "高温調理への使用は耐熱温度を確認する必要がある"
+    recommendedFor: "長めのロールでコスパを上げたい方・22cm幅を日常使いする方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4901670110197%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10063821%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0030/4901670110197_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F71920-1.html"
+        matchStatus: "matched"
+        updatedAt: "2026-09-16"
+        price: 2280
+        rating: 5
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_71920-1"
         available: true
     genreId: "100633"
   - rank: 4

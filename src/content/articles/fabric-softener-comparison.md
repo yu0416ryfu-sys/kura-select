@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "ライオン ソフラン アロマリッチ 業務用 4L"
@@ -67,12 +67,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9590768.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
-        price: 6380
+        updatedAt: "2026-09-16"
+        price: 6580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9590768"
         available: true
         rating: 4.74
-        reviewCount: 234
+        reviewCount: 235
     genreId: "559647"
   - rank: 3
     name: "メキシコダウニー アロマフローラル 2.8L"
@@ -115,7 +115,7 @@ products:
     capacity: "1300mL×6個（7800mL）"
     pricePerUnit: "約0.75円/mL"
     rating: 4.77
-    reviewCount: 312
+    reviewCount: 313
     features:
       - "家庭用の詰め替えパウチをケース単位でまとめた構成"
       - "アロマオイル配合で香りの立ち上がりを設計したシリーズ"
@@ -135,7 +135,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4903301375012.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-16"
         price: 5180
         rating: 0
         reviewCount: 0
@@ -203,7 +203,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-16"
         price: 1160
         rating: 4.8
         reviewCount: 5

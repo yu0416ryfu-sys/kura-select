@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-16"
 products:
   - rank: 1
     name: "洗顔フォーム 毛穴 ロゼット洗顔パスタ 海泥スムース WEB限定2倍"
@@ -70,7 +70,7 @@ products:
     capacity: "110g"
     pricePerUnit: "約18円/g"
     rating: 4.61
-    reviewCount: 1953
+    reviewCount: 1985
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -84,7 +84,7 @@ products:
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "肌質や洗い上がりで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tfrwn.3rdw669e.g00tfrwn.3rdw74a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdomecare%2Fdmc_micro-cray-wash%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdomecare%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/domecare/cabinet/campain1/50per/mcwsamnew_50per.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/domecare/cabinet/microcraywash/mcwsam2-8.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -138,7 +138,7 @@ products:
     capacity: "67g×3袋"
     pricePerUnit: "約21円/g"
     rating: 4.83
-    reviewCount: 5616
+    reviewCount: 5617
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -161,7 +161,7 @@ products:
     capacity: "150g×2点（300g）"
     pricePerUnit: "約21円/g"
     rating: 4.45
-    reviewCount: 3810
+    reviewCount: 3812
     features:
       - "炭酸泡タイプの洗顔・パック兼用アイテム"
       - "コラーゲン・ヒアルロン酸など複数の保湿成分を配合"
@@ -175,7 +175,7 @@ products:
       - "炭酸の刺激が苦手な人には不向き"
     recommendedFor: "洗顔とパックを一本で済ませたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po0zn.3rdw627e.g00po0zn.3rdw7621/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fpscp11000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10005954%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/plus04/clpack-2_p20.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/plus04/clpack-2_01.jpg?_ex=128x128"
     genreId: "405130"
   - rank: 7
     name: "ファンケル ピュアモイスト泡洗顔料 150ml"
@@ -248,10 +248,10 @@ products:
   - rank: 9
     name: "どろばーゆ 泡洗顔"
     brand: "ナチュボーテ"
-    price: 1380
+    price: 1540
     capacity: "120g"
     rating: 4.58
-    reviewCount: 1573
+    reviewCount: 1574
     features:
       - "竹炭・海シルト・馬油配合の泥洗顔"
       - "無香料タイプとバラの香りタイプを展開"
@@ -265,7 +265,7 @@ products:
       - "毎日の使用ではやや洗浄力が強く感じる場合がある"
     recommendedFor: "毛穴汚れを重点的にケアしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r97bn.3rdw60e8.g00r97bn.3rdw72a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-cueb%2Fawasoapa-2set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-cueb%2Fi%2F10005406%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-cueb/cabinet/03069387/natubeaute/claywash/acdoro2_sn.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-cueb/cabinet/03069387/natubeaute/claywash/doro2602_sn1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -277,15 +277,15 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/acuebshop_dorobayu"
         available: true
-    priceMax: 1824
+    priceMax: 2280
     genreId: "405130"
   - rank: 10
     name: "オルナ オーガニック 泥洗顔 130g"
     brand: "ALLNA ORGANIC"
-    price: 2200
+    price: 1100
     capacity: "130g"
     rating: 4.62
-    reviewCount: 1255
+    reviewCount: 1256
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -312,7 +312,7 @@ products:
         rating: 4.55
         reviewCount: 278
         matchNotes: "capacity不一致: capacity不一致"
-    priceMax: 5940
+    priceMax: 2970
     genreId: "216467"
 tags:
   - "洗顔料 おすすめ"
