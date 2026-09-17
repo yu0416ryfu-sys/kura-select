@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15",
+  "updatedAt": "2026-09-17",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。凍結の対象・起点日・解除日（releaseDate）はこのファイルが唯一の正（2026-09-15 改定）。",
     "施策の中身・判定根拠・経緯の正はローカルのメモリ project_measurement_holds。機械判定（scripts/check-internal-links.mjs など）もこのファイルを読む。施策を打ったら両者を必ず同時に更新する。",
@@ -202,6 +202,29 @@
       "lastCrawlAtApplyNote": "GSC URL 検査 API の lastCrawlTime（ISO 8601・UTC）。適用当日 2026-09-10 に取得。⚠️この行を手で書き換えると起点判定が壊れる。",
       "deployedAt": "2026-09-09T23:08:56Z",
       "originDate": "2026-09-11"
+    },
+    {
+      "slug": "mukokukan-vs-shoshuriki-comparison",
+      "releaseDate": "2026-10-16",
+      "releaseLabel": "2026-10-15",
+      "targetType": "article",
+      "startedAt": "2026-09-17",
+      "searchNeed": "無香空間とイオン消臭プラスで迷っている人が、ビーズタイプ同士でどちらを買うかの結論を知りたくて検索している。本文に結論が無いため、比較を読んでも決めきれずに離脱している。結論とその直後のボタンを置けば、クリック率に表れるはず",
+      "measures": [
+        "アフィリエイトクリック率",
+        "verdict_cta クリック数",
+        "B群・A群の表示/順位/CTR（記録のみ）"
+      ],
+      "actions": [
+        "ビーズ同士の結論セクション追加＋2択ボタン（placement=verdict_cta）＋FAQ 1問追加"
+      ],
+      "simultaneous": false,
+      "note": "計画書 docs/IMPLEMENTATION_PLAN_MUKOKUKAN_VERDICT_CTA_2026-09-17.md §7（事前登録）。コミット 378f275b、デプロイ日 2026-09-17（JST）＝起点。【主指標・GA4】前窓 2026-08-10〜09-16 の基準値（確定）= アフィリエイトクリック 7（楽天4／Amazon2／Yahoo1）÷ PV 310 = 2.26%。後窓 09-17〜10-14（28日）。成功 = 後窓 PV≧200 かつ クリック率≧4.52%（基準値の2倍）かつ verdict_cta≧3件。失敗 = 基準値以下。判定不能 = PV<200。【SEO 記録指標・GSC（判定に使わない）】クエリ定義（空白除去後）: B群 = 「イオン消臭プラス」または「イオン消臭」を含む／A群 = それ以外で「無香空間」と「消臭力」を両方含む。ベースライン reports/gsc-harvest/baseline-2026-09-17.json（GSC 確定日 2026-09-14、窓 09-01〜09-14）: A群 表示183（13.1/日）・クリック54・CTR 29.5%・順位2.5／B群 表示183（13.1/日）・クリック16・CTR 8.7%・順位3.7。GSC の後窓は再クロール日（JST）起点で前14/後14・後28。再クロール日: 未確認（デプロイ時点の lastCrawlTime は 2026-09-11T12:15:12Z＝改稿前の版。pnpm cohort:crawl-check で検知後に追記）。",
+      "source": "project_measurement_holds",
+      "deployedAt": "2026-09-17T11:50:09Z",
+      "lastCrawlAtApply": {
+        "mukokukan-vs-shoshuriki-comparison": "2026-09-11T12:15:12Z"
+      }
     }
   ],
   "prohibitions": [
