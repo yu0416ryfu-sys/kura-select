@@ -7,6 +7,7 @@ import tailwindcss from "@tailwindcss/vite";
 import fs from "node:fs";
 import path from "node:path";
 import { getThinCategorySlugs, isThinCategoryUrl } from "./scripts/lib/thin-categories.mjs";
+import rehypePickButtons from "./src/lib/markdown/rehype-pick-buttons.ts";
 
 // 記事 frontmatter の updatedAt（無ければ publishedAt）から sitemap の lastmod を作る。
 // Google に「この URL は更新済み」と伝え、再クロールと SERP 日付の見直しを促す。
@@ -49,6 +50,11 @@ export default defineConfig({
     }),
     mdx(),
   ],
+  markdown: {
+    // 本文の <!-- kura:pick-buttons ... --> を楽天ボタンに置き換える（マーカーの無い記事では何もしない）。
+    // @astrojs/mdx は既定でこの設定を引き継ぐ。
+    rehypePlugins: [rehypePickButtons],
+  },
   vite: {
     plugins: [tailwindcss()],
   },

@@ -1,11 +1,12 @@
 ---
 import type { OfferProvider } from "../../lib/offers";
 import {
-  getProviderButtonClass,
-  getProviderGaEvent,
-  getProviderLabel,
-  getProviderName,
-} from "../../lib/offers";
+  AFFILIATE_ICON_CLASS,
+  AFFILIATE_ICON_PATH,
+  EXTERNAL_ICON_CLASS,
+  EXTERNAL_ICON_PATH,
+  buildAffiliateLinkAttrs,
+} from "../../lib/affiliate-link";
 
 interface Props {
   href: string;
@@ -18,49 +19,26 @@ interface Props {
   gaPlacement?: string;
 }
 
-const {
-  href,
-  provider,
-  label,
-  variant = "primary",
-  size = "md",
-  productName,
-  gaPlacement,
-} = Astro.props;
-
-const defaultLabel = `${getProviderLabel(provider)}で見る`;
-const displayLabel = label ?? defaultLabel;
-const providerName = getProviderName(provider);
-const ariaLabel = productName
-  ? `${productName}を${providerName}で見る（別タブで開く）`
-  : `${displayLabel}（別タブで開く）`;
-
-const sizeClasses = {
-  sm: "px-4 py-2 text-sm min-h-[36px]",
-  md: "px-6 py-2.5 text-sm min-h-[44px]",
-  lg: "px-8 py-3 text-base min-h-[52px]",
-};
-
-const variantClass = getProviderButtonClass(provider, variant);
-const gaEvent = getProviderGaEvent(provider);
+// 属性の組み立ては src/lib/affiliate-link.ts に集約（本文マーカーのボタンと共有）
+const attrs = buildAffiliateLinkAttrs(Astro.props);
 ---
 
 <a
-  href={href}
-  rel="sponsored nofollow noopener"
-  target="_blank"
-  aria-label={ariaLabel}
-  class={`inline-flex items-center justify-center gap-2 rounded-lg font-semibold transition-all focus-visible:ring-2 focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-2 w-full whitespace-nowrap ${sizeClasses[size]} ${variantClass}`}
-  data-ga-event={gaEvent}
-  data-ga-provider={provider}
-  data-ga-product={productName}
-  data-ga-placement={gaPlacement}
+  href={attrs.href}
+  rel={attrs.rel}
+  target={attrs.target}
+  aria-label={attrs.ariaLabel}
+  class={attrs.className}
+  data-ga-event={attrs.dataset.gaEvent}
+  data-ga-provider={attrs.dataset.gaProvider}
+  data-ga-product={attrs.dataset.gaProduct}
+  data-ga-placement={attrs.dataset.gaPlacement}
 >
-  <svg class="w-4 h-4 shrink-0" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-    <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/>
+  <svg class={AFFILIATE_ICON_CLASS} fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+    <path d={AFFILIATE_ICON_PATH}/>
   </svg>
-  {displayLabel}
-  <svg class="w-3.5 h-3.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+  {attrs.label}
+  <svg class={EXTERNAL_ICON_CLASS} fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d={EXTERNAL_ICON_PATH}/>
   </svg>
 </a>
