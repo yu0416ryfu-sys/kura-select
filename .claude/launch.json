@@ -4,14 +4,29 @@
     {
       "name": "kura-preview",
       "runtimeExecutable": "pnpm",
-      "runtimeArgs": ["preview"],
+      "runtimeArgs": [
+        "preview"
+      ],
       "port": 4321
     },
     {
       "name": "kura-dev",
       "runtimeExecutable": "pnpm",
-      "runtimeArgs": ["dev"],
+      "runtimeArgs": [
+        "dev"
+      ],
       "port": 4321
+    },
+    {
+      "name": "kura-preview-4322",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": [
+        "preview",
+        "--port",
+        "4322"
+      ],
+      "port": 4322,
+      "autoPort": false
     }
   ]
 }
