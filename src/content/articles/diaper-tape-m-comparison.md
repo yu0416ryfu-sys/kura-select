@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "メリーズファストプレミアム テープ Mサイズ"
@@ -30,6 +30,40 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tenposupport06/12820999/imgrc0130809075.jpg?_ex=128x128"
     genreId: "205198"
   - rank: 2
+    name: "パンパース はじめての肌へのいちばん テープ Mサイズ 56枚"
+    brand: "P&G（パンパース）"
+    price: 2514
+    capacity: "56枚"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "ネット状の肌触りで蒸れにくく快適"
+      - "パラベン・アルコール無添加の低刺激処方"
+      - "全周ギャザーと3D凹凸加工で漏れをしっかり防止"
+    pros:
+      - "プレミアム素材で敏感な肌への配慮が高い"
+      - "96枚入りで一定期間のまとめ買いが可能"
+      - "Sサイズから同シリーズで継続できて安心"
+    cons:
+      - "さらさらケアと比べて価格が高め"
+      - "さらさらケアほど大容量セットがない"
+    recommendedFor: "Mサイズでも品質重視で選びたい方・Sサイズ時代からパンパース派の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4987176341518%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10051186%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/518/4987176341518.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176206374.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-30"
+        price: 3980
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176206374"
+        available: true
+    genreId: "205198"
+    pricePerUnit: "約45円/枚"
+  - rank: 3
     name: "グーンプラス 肌の贅沢 テープ Mサイズ 4個セット"
     brand: "GOO.N（大王製紙）"
     price: 6980
@@ -51,40 +85,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7255398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10215993%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya103/7255398-e.jpg?_ex=128x128"
     priceMax: 7250
-    genreId: "205198"
-  - rank: 3
-    name: "パンパース オムツ はじめての肌へのいちばん テープ Mサイズ【パンパース】"
-    brand: "P&G（パンパース）"
-    price: 6180
-    capacity: "96枚"
-    rating: 4.77
-    reviewCount: 208
-    features:
-      - "ネット状の肌触りで蒸れにくく快適"
-      - "パラベン・アルコール無添加の低刺激処方"
-      - "全周ギャザーと3D凹凸加工で漏れをしっかり防止"
-    pros:
-      - "プレミアム素材で敏感な肌への配慮が高い"
-      - "96枚入りで一定期間のまとめ買いが可能"
-      - "Sサイズから同シリーズで継続できて安心"
-    cons:
-      - "さらさらケアと比べて価格が高め"
-      - "さらさらケアほど大容量セットがない"
-    recommendedFor: "Mサイズでも品質重視で選びたい方・Sサイズ時代からパンパース派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2ngn.3rdw6e7c.g00t2ngn.3rdw797f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F1710000043%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhikaritv%2Fi%2F10227865%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000043_k.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176206374.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-30"
-        price: 3980
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176206374"
-        available: true
-    priceMax: 13480
     genreId: "205198"
 tags:
   - "Mサイズ おむつ"

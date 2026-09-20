@@ -4,7 +4,7 @@ description: "洗濯槽クリーナーを1回あたりのコストで徹底比�
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "過炭酸ナトリウム 酸素系漂白剤 950g"
@@ -13,7 +13,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.63円/g"
     rating: 4.76
-    reviewCount: 2105
+    reviewCount: 2110
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "pH10.5のアルカリ性で汚れに働きかける"
@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann1.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         price: 598
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann1"
         available: true
         rating: 4.56
-        reviewCount: 2063
+        reviewCount: 2068
     genreId: "564510"
   - rank: 2
     name: "オキシクリーン マルチパーパスクリーナー 5.26kg（コストコ版）"
@@ -47,7 +47,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.64円/g"
     rating: 4.64
-    reviewCount: 1435
+    reviewCount: 1436
     features:
       - "酸素系漂白剤で洗濯槽以外にも多用途"
       - "界面活性剤入りのアメリカ版（コストコで流通する大容量）"
@@ -63,6 +63,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F309892sm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10000609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/imgrc0079732773.jpg?_ex=128x128"
     genreId: "210182"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbutterflyeffectllc%2F46.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-19"
+        price: 3594
+        rating: 4.8
+        reviewCount: 164
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/butterflyeffectllc_46"
+        available: true
   - rank: 3
     name: "洗たく槽カビキラー 塩素系液体タイプ 550g×3本"
     brand: "ジョンソン（カビキラー）"
@@ -173,7 +184,7 @@ products:
     capacity: "200g×3個（3回分）"
     pricePerUnit: "約4.2円/g"
     rating: 4.64
-    reviewCount: 798
+    reviewCount: 802
     features:
       - "酵素と塩素系成分を組み合わせたクリーナー"
       - "縦型・ドラム式両対応の設計"
@@ -187,7 +198,7 @@ products:
       - "四国化成ブランドのため流通量が限られる場合がある"
     recommendedFor: "縦型・ドラム式どちらにも使える汎用品を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u9stn.3rdw63e2.g00u9stn.3rdw7c29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshikokukasei%2Fwadhmania02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshikokukasei%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shikokukasei/cabinet/washmania02/washmania01/imgrc0128297174.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shikokukasei/cabinet/washmania02/washmania01/imgrc0138647215.jpg?_ex=128x128"
     genreId: "101837"
   - rank: 8
     name: "洗濯槽快 10個セット 専用ネット付 ホタテ貝殻素材"
@@ -210,7 +221,7 @@ products:
       - "一般的な化学系クリーナーと洗浄機序が異なる点に注意"
     recommendedFor: "天然素材にこだわりたい方・まとめ買いで節約したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbcon.3rdw6193.g00rbcon.3rdw7b41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikaiteki-shop%2F10000168%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikaiteki-shop%2Fi%2F10010350%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikaiteki-shop/cabinet/imgrc0091514740.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikaiteki-shop/cabinet/10000168-umimamo.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -244,7 +255,7 @@ products:
       - "まとめ買いより割高になる場合がある"
     recommendedFor: "天然素材クリーナーを初めて試したい方・少量から始めたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbcon.3rdw6193.g00rbcon.3rdw7b41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikaiteki-shop%2F10000098%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikaiteki-shop%2Fi%2F10010198%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikaiteki-shop/cabinet/imgrc0091514723.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikaiteki-shop/cabinet/10000098-umimamo.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

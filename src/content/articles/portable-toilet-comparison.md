@@ -1,10 +1,10 @@
 ---
-title: "簡易トイレおすすめ10選【2026年】防災・凝固剤タイプを1回単価で比較"
-description: "防災・災害備蓄用の簡易トイレおすすめ10選を1回あたり単価で比較。凝固剤タイプの選び方、保存年数や排便袋の有無、家族人数×日数で必要な回数の考え方まで、備蓄でコスパよく選ぶポイントを解説します。"
+title: "簡易トイレおすすめ9選【2026年】防災・凝固剤タイプを1回単価で比較"
+description: "防災・災害備蓄用の簡易トイレおすすめ9選を1回あたり単価で比較。凝固剤タイプの選び方、保存年数や排便袋の有無、家族人数×日数で必要な回数の考え方まで、備蓄でコスパよく選ぶポイントを解説します。"
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fozoneassocia%2Ftoilet100.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         price: 3980
         rating: 4.25
         reviewCount: 208
@@ -93,7 +93,7 @@ products:
     price: 1280
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7279
+    reviewCount: 7299
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -107,7 +107,7 @@ products:
       - "セット量が多く収納スペースを取りやすい"
     recommendedFor: "在宅避難向けにまとまった回数を備えたい世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ue8bn.3rdw65ff.g00ue8bn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr1-shop%2Fcsd-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr1-shop%2Fi%2F10000062%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r1-shop/cabinet/09975530/09975535/csdgai/zt.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r1-shop/cabinet/10018776/10041819/310.jpg?_ex=128x128"
     priceMax: 25900
     genreId: "501137"
   - rank: 5
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenton-store%2Fportabletoilet01f2.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 5280
         rating: 4.68
         reviewCount: 105
@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoco-yasashisaya%2Fsaimol01.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 3780
         rating: 4.49
         reviewCount: 783
@@ -179,40 +179,6 @@ products:
     priceMax: 26800
     genreId: "501137"
   - rank: 7
-    name: "非常用トイレ 炭入り 100回分 半永久保存 防災トイレ"
-    brand: "Life Reach"
-    price: 5999
-    capacity: "100回分"
-    rating: 4.64
-    reviewCount: 804
-    features:
-      - "炭入り凝固剤でにおい対策に配慮したセット"
-      - "凝固剤と汚物袋がそろった構成"
-      - "超長期保存に対応した使い捨てタイプ"
-    pros:
-      - "炭入りで室内使用時のにおいが気になる人に向く"
-      - "100回分でしっかり備蓄できる"
-      - "長期保存で点検・入れ替えの負担が少ない"
-    cons:
-      - "便座は付属せず別途用意が必要"
-      - "通常タイプよりやや割高になりやすい"
-    recommendedFor: "室内使用でのにおい対策を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tivgn.3rdw607f.g00tivgn.3rdw7cf0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupplement-life%2Fps-100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupplement-life%2Fi%2F10000060%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/supplement-life/cabinet/plm1/b100.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpinus-copia%2Fpi1f729cc7a0.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-16"
-        price: 5215
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pinus-copia_pi1f729cc7a0"
-        available: true
-    priceMax: 38599
-    genreId: "501137"
-  - rank: 8
     name: "簡易トイレ シートトイレ"
     brand: "アクアタルク"
     price: 1800
@@ -235,13 +201,13 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aquatalk/cabinet/shin/sheetoilet20-100/ssam3.jpg?_ex=128x128"
     priceMax: 5000
     genreId: "501137"
-  - rank: 9
+  - rank: 8
     name: "非常用トイレ 100回分 半永久保存 防災トイレ"
     brand: "Life Reach"
     price: 5999
     capacity: "100回分"
     rating: 4.59
-    reviewCount: 1350
+    reviewCount: 1351
     features:
       - "凝固剤と汚物袋がそろった災害用セット"
       - "超長期保存に対応し入れ替え頻度を抑えやすい"
@@ -261,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhacono%2Fftl010210102.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 7980
         rating: 3.88
         reviewCount: 24
@@ -269,13 +235,13 @@ products:
         available: true
     priceMax: 39599
     genreId: "501137"
-  - rank: 10
+  - rank: 9
     name: "簡易トイレ 防災士監修 20回分 コンパクトセット"
     brand: ""
     price: 1380
     capacity: "20回分"
     rating: 4.52
-    reviewCount: 7221
+    reviewCount: 7223
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"
@@ -289,13 +255,13 @@ products:
       - "便座は付属せず既存トイレや簡易便座と併用する"
     recommendedFor: "持ち出し用にコンパクトな備蓄を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u49fn.3rdw6725.g00u49fn.3rdw7bf8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiromifashionhouse%2Fmkhrm60f%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiromifashionhouse%2Fi%2F10005004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiromifashionhouse/cabinet/12169031/12169039/imgrc0128895947.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiromifashionhouse/cabinet/12169031/12169039/imgrc0129550500.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyandk%2Fportable-toilet.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 3480
         rating: 0
         reviewCount: 0

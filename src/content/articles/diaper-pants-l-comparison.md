@@ -4,7 +4,7 @@ description: "パンツ型おむつのLサイズおすすめ7選を1枚あたり
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 10795
     capacity: "162枚×2個（9〜14kg）"
     pricePerUnit: "約33円/枚"
-    rating: 4.71
-    reviewCount: 7
+    rating: 4.63
+    reviewCount: 8
     features:
       - "通気性を重視した素肌さらさらエアスルー設計"
       - "Lサイズのまとめ買いセット"
@@ -144,13 +144,13 @@ products:
         available: true
     genreId: "205198"
   - rank: 5
-    name: "パンパース パンツ さらさらケア スーパージャンボ Lサイズ"
+    name: "パンパース パンツ さらさらケア スーパージャンボ Lサイズ 44枚"
     brand: "P&G（パンパース）"
-    price: 2126
+    price: 2032
     capacity: "44枚"
-    pricePerUnit: "約48円/枚"
-    rating: 4.57
-    reviewCount: 7
+    pricePerUnit: "約46円/枚"
+    rating: 4.53
+    reviewCount: 57
     features:
       - "9〜14kgのLサイズ帯に対応"
       - "男女共用の吸収体配置"
@@ -163,19 +163,20 @@ products:
       - "まとめ買いより1枚あたりの負担が大きい"
       - "買い足しの頻度が上がる"
     recommendedFor: "まずは1袋でブランドを試したいLサイズ帯の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10031225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10031225%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/syohin100/10031225.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fr001200200186%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10203958%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/887/4902430148887.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430148887.html"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8165179/"
         matchStatus: "pending"
-        updatedAt: "2026-09-16"
-        price: 1940
-        rating: 4.89
-        reviewCount: 18
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430148887"
+        updatedAt: "2026-09-19"
+        price: 2050
+        rating: 4.53
+        reviewCount: 92
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_8165179"
         available: true
+    genreId: "205198"
   - rank: 6
     name: "メリーズ パンツ ファーストプレミアム Lサイズ"
     brand: "花王（メリーズ）"
@@ -237,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111243099x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 7720
         rating: 4.82
         reviewCount: 118

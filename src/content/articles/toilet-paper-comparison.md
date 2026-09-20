@@ -4,7 +4,7 @@ description: "シングルのトイレットペーパーを1mあたりの単価�
 category: "toilet-paper"
 publishedAt: "2024-11-01"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "コアユース 無包装 シングル 芯なし"
@@ -31,11 +31,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        price: 6985
+        price: 7755
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fikurun0810%2F101436.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         matchStatus: "matched"
         rating: 0
         reviewCount: 1
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Febarabo%2Febr-ppr-core-p2009.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         price: 6675
         rating: 0
         reviewCount: 1
@@ -81,7 +81,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.71円/m"
     rating: 4.78
-    reviewCount: 1073
+    reviewCount: 1074
     features:
       - "太穴コアレスのシングルトイレットペーパー"
       - "再生紙を使用した長巻きタイプ"
@@ -104,7 +104,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.73円/m"
     rating: 4.67
-    reviewCount: 2824
+    reviewCount: 2829
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
@@ -157,8 +157,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuasakamiten%2Fc02295.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
-        price: 5028
+        updatedAt: "2026-09-19"
+        price: 5954
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuasakamiten_c02295"
@@ -171,7 +171,7 @@ products:
     capacity: "110m×45ロール"
     pricePerUnit: "約0.80円/m"
     rating: 4.72
-    reviewCount: 1091
+    reviewCount: 1092
     features:
       - "国産のシングルトイレットペーパー"
       - "個包装で保管時の衛生面に配慮しやすい"
@@ -206,7 +206,7 @@ products:
     capacity: "150m×36ロール"
     pricePerUnit: "約0.81円/m"
     rating: 4.62
-    reviewCount: 758
+    reviewCount: 759
     features:
       - "芯なしの長巻きシングルトイレットペーパー"
       - "個包装で分けて保管しやすい"
@@ -259,7 +259,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaki-seishi%2Fmori100ms60.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         price: 5810
         rating: 4.69
         reviewCount: 26
@@ -303,7 +303,7 @@ products:
   - rank: 10
     name: "スマートエール 消臭機能付き シングル 芯なし"
     brand: "アイリスプラザ"
-    price: 2981
+    price: 2845
     capacity: "250m×16ロール"
     rating: 4.6
     reviewCount: 434
@@ -321,7 +321,7 @@ products:
     recommendedFor: "省スペースで長巻きロールを備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7253225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10216050%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11514673/7253225.jpg?_ex=128x128"
-    priceMax: 3780
+    priceMax: 3610
     genreId: "501098"
 tags:
   - "トイレットペーパー"

@@ -4,7 +4,7 @@ description: "お風呂防カビ剤を1回あたりのコストで比較。く�
 category: "bath-mold-preventer"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -68,10 +68,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903301187240.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         price: 1581
-        rating: 4.38
-        reviewCount: 29
+        rating: 4.4
+        reviewCount: 30
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903301187240"
         available: true
     genreId: "565622"
@@ -125,7 +125,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F101-r003-4903301221043.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 5911
         rating: 0
         reviewCount: 0
@@ -138,8 +138,8 @@ products:
     price: 1936
     capacity: "3個"
     pricePerUnit: "約645円/個"
-    rating: 4.61
-    reviewCount: 166
+    rating: 4.6
+    reviewCount: 167
     features:
       - "せっけんの香りタイプ"
       - "浴室用のくん煙タイプ"
@@ -159,7 +159,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10092851.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 1498
         rating: 5
         reviewCount: 3

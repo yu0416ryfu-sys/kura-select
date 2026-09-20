@@ -4,7 +4,7 @@ description: "ダブルのトイレットペーパーを1mあたりのコスト�
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "エシカル12RW ダブル 12ロール×8パック"
@@ -13,7 +13,7 @@ products:
     capacity: "27.5m×12ロール×8パック"
     pricePerUnit: "約1.2円/m"
     rating: 4.43
-    reviewCount: 3348
+    reviewCount: 3351
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -87,6 +87,40 @@ products:
         available: true
     genreId: "501098"
   - rank: 4
+    name: "スコッティ フラワーパック 3倍長持ち ダブル 4ロール×12袋"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 6572
+    capacity: "75m×4ロール×12袋"
+    pricePerUnit: "約1.8円/m"
+    rating: 4.63
+    reviewCount: 1527
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F20005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10674449%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/005/20005.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fye3041.html"
+        matchStatus: "matched"
+        updatedAt: "2026-09-16"
+        price: 6204
+        rating: 5
+        reviewCount: 7
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_ye3041"
+        available: true
+    genreId: "501098"
+  - rank: 5
     name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
     brand: "日本製紙クレシア（スコッティ）"
     price: 4899
@@ -119,40 +153,6 @@ products:
         available: true
         rating: 4.77
         reviewCount: 135
-    genreId: "501098"
-  - rank: 5
-    name: "スコッティ フラワーパック 3倍長持ち ダブル 4ロール×12袋"
-    brand: "日本製紙クレシア（スコッティ）"
-    price: 7059
-    capacity: "75m×4ロール×12袋"
-    pricePerUnit: "約2.0円/m"
-    rating: 4.64
-    reviewCount: 1526
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F20005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10674449%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/005/20005.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fye3041.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-16"
-        price: 6204
-        rating: 5
-        reviewCount: 7
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_ye3041"
-        available: true
     genreId: "501098"
   - rank: 6
     name: "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール（4ロール×12パック）"
@@ -262,7 +262,7 @@ products:
     price: 3650
     capacity: "75m×4ロール×12パック（3倍巻き）"
     rating: 4.75
-    reviewCount: 952
+    reviewCount: 953
     features:
       - "3倍長持ち設計で交換頻度が大幅に減る"
       - "ダブルタイプで使い心地が良い"

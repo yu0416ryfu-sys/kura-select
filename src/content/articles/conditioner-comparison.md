@@ -4,7 +4,7 @@ description: "コンディショナーを1mLあたりのコストで徹底比較
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "メリット コンディショナー つめかえ用【メリット】"
@@ -77,7 +77,7 @@ products:
   - rank: 3
     name: "エッセンシャル しっとりまとまる コンディショナー 詰替 1080mL"
     brand: "花王（エッセンシャル）"
-    price: 1149
+    price: 1140
     capacity: "1080mL"
     pricePerUnit: "約1.1円/mL"
     rating: 5
@@ -94,8 +94,8 @@ products:
       - "大容量のため保管スペースが必要"
       - "しっとり感が強いためさらさら仕上がりを好む方には向かない"
     recommendedFor: "大容量でコスパ重視の方・しっとりまとまる仕上がりが好みの方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901301436696%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11292814%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/696/4901301436696.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r8gxn.3rdw6125.g00r8gxn.3rdw7562/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpremoa%2F4901301436696%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpremoa%2Fi%2F11128096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/premoa/cabinet/pics/763/4901301436696.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -107,6 +107,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_590828"
         available: true
+    genreId: "210686"
   - rank: 4
     name: "アンナトゥモール モイストヘアコンディショナー 300ml 詰替"
     brand: "アンナトゥモール"
@@ -148,7 +149,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約35円/mL"
     rating: 4.76
-    reviewCount: 1615
+    reviewCount: 1619
     features:
       - "くせ毛・広がりケア向けのトリートメントマスク"
       - "インバスで使うヘアマスク"
@@ -236,12 +237,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk0602-a2510.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         price: 1572
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk0602-a2510"
         available: true
         rating: 0
-        reviewCount: 1
+        reviewCount: 2
     genreId: "210686"
   - rank: 8
     name: "パルガ ヘアコンディショナー アクアリッチ 500g 詰替"
@@ -264,7 +265,7 @@ products:
       - "500g容量で頻繁な購入が必要"
     recommendedFor: "細い髪の方・サロン品質のコンディショナーを求める方・継続的なダメージケアを行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000013%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989115/parga_2026_ar500.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_ar500_p10.jpg?_ex=128x128"
     genreId: "210695"
   - rank: 9
     name: "パルガ ヘアコンディショナー ソフトリッチR 500g 詰替"
@@ -287,7 +288,7 @@ products:
       - "一般流通が限られる"
     recommendedFor: "硬い髪の方・ふんわり感よりまとまりを求める方・継続的なケアを行いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwvin.3rdw6dcd.g00qwvin.3rdw7e56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleague-shop%2Fp-11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleague-shop%2Fi%2F10000012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989115/parga_2026_sr500.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/league-shop/cabinet/01/12989112/12989118/parga_2026_sr500_p10.jpg?_ex=128x128"
     genreId: "210695"
   - rank: 10
     name: "いち髪 なめらかスムースケア コンディショナー 詰め替え 660mL×2個"

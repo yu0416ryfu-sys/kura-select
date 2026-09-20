@@ -4,7 +4,7 @@ description: "ハンドソープはどれが殺菌力とコスパを両立する
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "ビオレu 薬用 泡ハンドソープ つめかえ用 2L"
@@ -81,7 +81,7 @@ products:
     capacity: "4800ml"
     pricePerUnit: "約0.87円/mL"
     rating: 4.71
-    reviewCount: 426
+    reviewCount: 427
     features:
       - "薬用タイプの泡ハンドソープ"
       - "シトラスフルーティの香り"

@@ -4,7 +4,7 @@ description: "ペットシーツのダブル（スーパーワイド）サイズ
 category: "pet-sheet"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "スーパーワイド 204枚"
     pricePerUnit: "約22円/枚"
     rating: 4.55
-    reviewCount: 14771
+    reviewCount: 14798
     features:
       - "スーパーワイドサイズのペットシーツ（薄型・厚型を選べる）"
       - "大型犬や多頭飼いのトイレまわりに使いやすい"
@@ -28,7 +28,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5lzn.3rdw67b4.g00s5lzn.3rdw7923/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fryouhin-monogatari%2F10000024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fryouhin-monogatari%2Fi%2F10000024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ryouhin-monogatari/cabinet/renewal2025/thumbnail_sheet2/petsheets-small_main.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ryouhin-monogatari/cabinet/sale/salethumb/petsheets-s_sale.jpg?_ex=128x128"
     genreId: "409755"
   - rank: 2
     name: "薄型ペットシーツ スーパーワイド"
@@ -57,7 +57,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdiy-tool%2Fk825-0016.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 9853
         rating: 0
         reviewCount: 0
@@ -139,7 +139,7 @@ products:
     capacity: "スーパーワイド 100枚（25枚×4パック）"
     pricePerUnit: "約44円/枚"
     rating: 4.35
-    reviewCount: 1836
+    reviewCount: 1839
     features:
       - "スーパーワイド（60×90cm）の厚型設計"
       - "ポリエチレン素材で吸収力・防水性を両立"
@@ -241,7 +241,7 @@ products:
     price: 3180
     capacity: "60×60cm 300枚"
     rating: 4.4
-    reviewCount: 1461
+    reviewCount: 1471
     features:
       - "60×60cmの大判サイズ、6層構造で吸収量140cc"
       - "PPE素材使用、1枚あたり約60gの重量"

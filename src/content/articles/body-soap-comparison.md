@@ -4,7 +4,7 @@ description: "ボディソープを1gあたりのコストで比較。ダヴ・h
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F57777.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         price: 1980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_57777"
         available: true
-        rating: 4.74
-        reviewCount: 31
+        rating: 4.75
+        reviewCount: 32
       - provider: "amazon"
         label: "Amazon（3kg）"
         asin: "B01LKPBU66"
@@ -124,7 +124,7 @@ products:
     capacity: "115g"
     pricePerUnit: "約11円/g"
     rating: 4.79
-    reviewCount: 345
+    reviewCount: 349
     features:
       - "ボディソープとして使える洗浄料"
       - "継続利用しやすい定番構成"
@@ -144,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhealingvillage%2Fmndmrw-kbwt0.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 1227
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/healingvillage_mndmrw-kbwt0"
         available: true
@@ -158,7 +158,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約20円/g"
     rating: 4.16
-    reviewCount: 1340
+    reviewCount: 1339
     features:
       - "カキタンニン（柿渋）を配合した固形石けん"
       - "汗・ニオイケアを意識した男性向け処方"

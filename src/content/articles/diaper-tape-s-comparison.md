@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "ムーニー テープ Sサイズ"
@@ -29,6 +29,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4903111138302%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10539510%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0083/4903111138302_1.jpg?_ex=128x128"
     genreId: "205198"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/hk42805/"
+        matchStatus: "pending"
+        updatedAt: "2026-09-19"
+        price: 7550
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_hk42805"
+        available: true
   - rank: 2
     name: "ムーニー マシュマロ肌ごこち テープ Sサイズ 大容量"
     brand: "ユニ・チャーム（ムーニー）"
@@ -56,12 +67,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-31"
+        updatedAt: "2026-09-19"
         price: 7084
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true
-        rating: 4.74
-        reviewCount: 53
+        rating: 4.75
+        reviewCount: 56
     genreId: "205198"
   - rank: 3
     name: "ムーニー マシュマロ肌ごこち モレ安心 テープ S 70枚"
@@ -120,6 +131,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F666-2109%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10640742%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin600_07/666-2109.jpg?_ex=128x128"
     genreId: "112779"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/xn34257/"
+        matchStatus: "pending"
+        updatedAt: "2026-09-19"
+        price: 2019
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_xn34257"
+        available: true
   - rank: 5
     name: "ムーニー 低刺激であんしん 紙おむつ テープ"
     brand: "ユニ・チャーム（ムーニーナチュラル）"
@@ -127,7 +149,7 @@ products:
     capacity: "54枚×4個セット"
     pricePerUnit: "約33円/枚"
     rating: 4.75
-    reviewCount: 511
+    reviewCount: 513
     features:
       - "低刺激処方で敏感肌向けに配慮"
       - "安心設計のテープタイプ"

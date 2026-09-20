@@ -4,7 +4,7 @@ description: "ティッシュペーパーを1組あたりの価格で徹底比�
 category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "ハロー ソフトパックティッシュ"
@@ -93,7 +93,7 @@ products:
     capacity: "360枚×60箱（21600枚）"
     pricePerUnit: "約0.65円/組"
     rating: 4.65
-    reviewCount: 142
+    reviewCount: 144
     features:
       - "世界的ブランド・クリネックスの定番品"
       - "厚みと柔らかさのバランスが優秀"
@@ -173,7 +173,7 @@ products:
     capacity: "200枚（100組）×12箱"
     pricePerUnit: "約4.8円/組"
     rating: 4.65
-    reviewCount: 699
+    reviewCount: 700
     features:
       - "パルプ100%の柔らかな2枚重ね"
       - "エリエールブランドの高品質"
@@ -215,7 +215,7 @@ products:
   - rank: 9
     name: "Smart Yell ソフトパックティッシュ"
     brand: "アイリスオーヤマ"
-    price: 3050
+    price: 2645
     capacity: "150組×50個（7500組）"
     rating: 4.55
     reviewCount: 833
@@ -233,7 +233,7 @@ products:
     recommendedFor: "ティッシュペーパーを容量と単価で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7185802-cp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10207887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/7185802-cp.jpg?_ex=128x128"
-    priceMax: 4980
+    priceMax: 4301
     genreId: "100670"
   - rank: 10
     name: "フルール ソフトパックティッシュ"
@@ -241,7 +241,7 @@ products:
     price: 1600
     capacity: "200組×80個"
     rating: 4.66
-    reviewCount: 1303
+    reviewCount: 1305
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"

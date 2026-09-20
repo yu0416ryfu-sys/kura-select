@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -112,11 +112,11 @@ products:
   - rank: 4
     name: "ロイヤルカナン ミニ インドア アダルト 2kg×6個"
     brand: "ロイヤルカナン"
-    price: 17819
+    price: 18954
     capacity: "2kg×6個"
-    pricePerUnit: "約1485円/kg"
-    rating: 4.6
-    reviewCount: 5
+    pricePerUnit: "約1580円/kg"
+    rating: 5
+    reviewCount: 1
     features:
       - "室内飼育の小型犬（成犬時体重10kgまで）成犬向けドライフードのまとめ買いセット"
       - "オメガ脂肪酸（EPA/DHA）配合で皮膚と被毛の健康維持に配慮した設計"
@@ -129,8 +129,8 @@ products:
       - "室内小型犬以外（屋外活動が多い犬や中大型犬）には向かない"
       - "6個セットのため保管スペースが必要になる"
     recommendedFor: "室内飼育の小型犬を多頭または長期飼育している方・開封後鮮度を優先したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fw-145111-00-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10068095%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/rinji/w-145111-00-00.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pyyln.3rdw6e5d.g00pyyln.3rdw7543/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkoji%2F3182550746076-s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkoji%2Fi%2F10048489%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/koji/cabinet/0919/folder1/3182550746076-s.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -265,7 +265,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q2ujn.3rdw6097.g00q2ujn.3rdw7276/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falbiot%2Fnh_main_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falbiot%2Fi%2F10000275%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/n_nh/renew2024/nh-ml-pkimgre.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/event-bn/100pb/nh/nh-ml-pb.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

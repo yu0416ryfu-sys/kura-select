@@ -4,7 +4,7 @@ description: "父の日に贈りやすい実用ギフトを比較。名入れボ
 category: "gift"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -131,14 +131,14 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s89vn.3rdw620c.g00s89vn.3rdw7422/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwiredbeans%2F10000095-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwiredbeans%2Fi%2F10000137%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 4.67
     reviewCount: 3
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wiredbeans/cabinet/05633541/12071_90naire.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wiredbeans/cabinet/05633541/imgrc0154323088.jpg?_ex=128x128"
     genreId: "566157"
   - rank: 6
-    name: "ポロ ラルフローレン メンズ靴下 6足セット"
+    name: "ポロ ラルフローレン メンズ ローカットソックス 6足セット"
     brand: "Polo Ralph Lauren"
-    price: 2980
+    price: 3900
     capacity: "6足"
-    pricePerUnit: "約497円/足"
+    pricePerUnit: "約650円/足"
     features:
       - "まとめて贈りやすい6足セットのメンズソックス"
       - "ブラック基調でビジネスにも合わせやすい"
@@ -151,10 +151,10 @@ products:
       - "好みの丈や厚みは事前に確認したい"
       - "靴下だけだと少し軽く見える場合がある"
     recommendedFor: "実用性を重視しつつ、定番ブランドで外したくない方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rdztn.3rdw6487.g00rdztn.3rdw7366/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcavatina%2Fralph-117%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcavatina%2Fi%2F10036342%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdfon.3rdw68e5.g00qdfon.3rdw78b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelicious%2Frl-m-sk-d0420%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelicious%2Fi%2F10018069%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 5
     reviewCount: 1
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cavatina/cabinet/ralph-01/ralph-01/ralph-117.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/delicious/cabinet/20/rl-m-sk-d0420_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -166,6 +166,7 @@ products:
         reviewCount: 11
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/maido-selection_014-208"
         available: true
+    genreId: "408907"
   - rank: 7
     name: "名前入りタンブラーとハンディビアサーバーセット"
     brand: "名入れギフトJORIO"

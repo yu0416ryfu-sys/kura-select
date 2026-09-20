@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -173,7 +173,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2280円/個"
     rating: 4.64
-    reviewCount: 910
+    reviewCount: 911
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -203,7 +203,7 @@ products:
   - rank: 7
     name: "ロイヤルカナン インドア 7+ 室内中高齢猫用 3.5kg"
     brand: "ロイヤルカナン"
-    price: 5759
+    price: 5343
     capacity: "3.5kg"
     rating: 4.82
     reviewCount: 149
@@ -232,12 +232,12 @@ products:
         reviewCount: 390
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687310"
         available: true
-    priceMax: 21598
+    priceMax: 20148
     genreId: "565724"
   - rank: 8
     name: "ロイヤルカナン インドア 4kg"
     brand: "ロイヤルカナン"
-    price: 6476
+    price: 5947
     capacity: "4kg"
     rating: 4.65
     reviewCount: 700
@@ -266,12 +266,12 @@ products:
         available: true
         rating: 4.75
         reviewCount: 1388
-    priceMax: 12144
+    priceMax: 11529
     genreId: "565724"
   - rank: 9
     name: "ロイヤルカナン キトン"
     brand: "ロイヤルカナン"
-    price: 4007
+    price: 3743
     capacity: "2kg"
     rating: 4.74
     reviewCount: 550
@@ -300,7 +300,7 @@ products:
         available: true
         rating: 4.75
         reviewCount: 864
-    priceMax: 22542
+    priceMax: 20112
     genreId: "565724"
   - rank: 10
     name: "ニュートロ ナチュラルチョイス キャット"
@@ -308,7 +308,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.7
-    reviewCount: 957
+    reviewCount: 966
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

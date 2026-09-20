@@ -4,7 +4,7 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "400枚（200組）×60箱"
     pricePerUnit: "約0.45円/組"
     rating: 4.75
-    reviewCount: 536
+    reviewCount: 537
     features:
       - "シンプルなホワイトパッケージの定番箱タイプ"
       - "200組のスタンダードな2枚重ね"
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkyoto23%2F10001789.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-19"
         price: 7153
         rating: 4.58
         reviewCount: 36
@@ -48,7 +48,7 @@ products:
     capacity: "200組×60箱"
     pricePerUnit: "約0.45円/組"
     rating: 4.68
-    reviewCount: 304
+    reviewCount: 305
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -71,7 +71,7 @@ products:
     capacity: "200組×60箱（12,000組）"
     pricePerUnit: "約0.46円/組"
     rating: 4.79
-    reviewCount: 1598
+    reviewCount: 1599
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -197,7 +197,7 @@ products:
     capacity: "180組×5箱×12パック（60箱）"
     pricePerUnit: "約0.65円/組"
     rating: 4.65
-    reviewCount: 142
+    reviewCount: 144
     features:
       - "世界的ブランド・クリネックスの定番品"
       - "厚みと柔らかさのバランスが優秀"

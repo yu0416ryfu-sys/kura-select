@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "PVCグローブ 100枚×20箱"
@@ -33,8 +33,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh734020.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
-        price: 6820
+        updatedAt: "2026-09-19"
+        price: 6776
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh734020"
         available: true
         rating: 4.69
@@ -156,13 +156,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh8451-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-08"
+        updatedAt: "2026-09-19"
         price: 418
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh8451-1"
         available: true
         rating: 4.6
         reviewCount: 88
-    priceMax: 6787
+    priceMax: 6776
     genreId: "401632"
   - rank: 6
     name: "ニトリル手袋 パウダーフリー 1000枚"
@@ -238,7 +238,7 @@ products:
     price: 890
     capacity: "100枚"
     rating: 4.57
-    reviewCount: 3682
+    reviewCount: 3692
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -261,7 +261,7 @@ products:
     price: 890
     capacity: "100枚"
     rating: 4.71
-    reviewCount: 1466
+    reviewCount: 1472
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -281,10 +281,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove001.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 1100
+        updatedAt: "2026-09-19"
+        price: 1059
         rating: 4.59
-        reviewCount: 2262
+        reviewCount: 2293
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
         available: true
     priceMax: 33600

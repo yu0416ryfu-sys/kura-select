@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -204,10 +204,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10161795.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-25"
+        updatedAt: "2026-09-19"
         price: 2899
-        rating: 4.75
-        reviewCount: 36
+        rating: 4.76
+        reviewCount: 38
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10161795"
         available: true
     genreId: "216670"
@@ -217,7 +217,7 @@ products:
     price: 4180
     capacity: "300ml"
     rating: 4.7
-    reviewCount: 2941
+    reviewCount: 2942
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"
@@ -263,7 +263,7 @@ products:
     price: 3080
     capacity: "350ml"
     rating: 4.75
-    reviewCount: 653
+    reviewCount: 656
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"

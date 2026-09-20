@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901422153502.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 501
         rating: 4.86
         reviewCount: 7
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F71920-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 2280
         rating: 5
         reviewCount: 3
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9649965.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-01"
+        updatedAt: "2026-09-19"
         price: 1379
         rating: 5
         reviewCount: 3
@@ -265,6 +265,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F73980%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10941575%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/980/73980.jpg?_ex=128x128"
     genreId: "100633"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j662098/"
+        matchStatus: "pending"
+        updatedAt: "2026-09-19"
+        price: 1416
+        rating: 4.69
+        reviewCount: 676
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_j662098"
+        available: true
   - rank: 9
     name: "サランラップ 家庭用 30cm"
     brand: "旭化成（サランラップ）"
@@ -324,13 +335,14 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F350600.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-22"
         price: 13090
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_350600"
-        available: true
+        available: false
         rating: 4.86
         reviewCount: 37
+        matchNotes: "capacity不一致: capacity不一致"
     priceMax: 112200
     genreId: "100633"
 tags:

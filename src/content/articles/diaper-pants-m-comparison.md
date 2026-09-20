@@ -1,10 +1,10 @@
 ---
-title: "パンツ型おむつ Mサイズ おすすめ7選【2026年】1枚単価で比較"
+title: "パンツ型おむつ Mサイズ おすすめ6選【2026年】1枚単価で比較"
 description: "パンツ型おむつのMサイズを1枚あたりの価格で比較します。"
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443502-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 10990
         rating: 0
         reviewCount: 0
@@ -76,40 +76,6 @@ products:
         available: true
     genreId: "205198"
   - rank: 3
-    name: "メリーズパンツ エアスルー Mサイズ"
-    brand: "メリーズ（花王）"
-    price: 4779
-    capacity: "52枚×3個（6〜11kg）"
-    pricePerUnit: "約31円/枚"
-    rating: 4.92
-    reviewCount: 12
-    features:
-      - "通気性を重視した素肌さらさらエアスルー設計"
-      - "Mサイズのまとめ買い構成"
-      - "スーパー系ショップの取り扱い"
-    pros:
-      - "むれが気になる時期に選びやすい"
-      - "定番ブランドで品質が安定している"
-      - "価格と品質のバランスを取りやすい"
-    cons:
-      - "上位ラインより肌あたりはあっさりしている"
-      - "保管スペースをまとめて取る"
-    recommendedFor: "通気性重視でMサイズをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.3rdw6eed.g00s0vmn.3rdw7144/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4901301418579-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10147305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/09476807/4901301418579.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301418579-3.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-16"
-        price: 4779
-        rating: 4.92
-        reviewCount: 12
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301418579-3"
-        available: true
-    genreId: "205198"
-  - rank: 4
     name: "ムーニーマン パンツ Mサイズ"
     brand: "ユニ・チャーム"
     price: 1647
@@ -136,11 +102,45 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/p648079/"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 5600
         rating: 4.78
         reviewCount: 296
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_p648079"
+        available: true
+    genreId: "205198"
+  - rank: 4
+    name: "メリーズパンツ エアスルー Mサイズ"
+    brand: "メリーズ（花王）"
+    price: 5190
+    capacity: "52枚×3個（6〜11kg）"
+    pricePerUnit: "約33円/枚"
+    rating: 4.92
+    reviewCount: 12
+    features:
+      - "通気性を重視した素肌さらさらエアスルー設計"
+      - "Mサイズのまとめ買い構成"
+      - "スーパー系ショップの取り扱い"
+    pros:
+      - "むれが気になる時期に選びやすい"
+      - "定番ブランドで品質が安定している"
+      - "価格と品質のバランスを取りやすい"
+    cons:
+      - "上位ラインより肌あたりはあっさりしている"
+      - "保管スペースをまとめて取る"
+    recommendedFor: "通気性重視でMサイズをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.3rdw6eed.g00s0vmn.3rdw7144/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4901301418579-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10147305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/09476807/4901301418579.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301418579-3.html"
+        matchStatus: "matched"
+        updatedAt: "2026-09-19"
+        price: 5190
+        rating: 4.92
+        reviewCount: 13
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301418579-3"
         available: true
     genreId: "205198"
   - rank: 5
@@ -167,28 +167,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/151076402495518.jpg?_ex=128x128"
     genreId: "205198"
   - rank: 6
-    name: "メリーズ ずっと肌さらエアスルー Mサイズ ケースセット"
-    brand: "メリーズ（花王）"
-    price: 8200
-    capacity: "108枚×2（6〜11kg）"
-    pricePerUnit: "約38円/枚"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "肌さらさら感を重視したエアスルー設計"
-      - "ケース単位のまとめ販売"
-      - "Mサイズ対応"
-    pros:
-      - "ケース買いで買い足しの頻度が下がる"
-      - "定番ブランドで品質が安定している"
-      - "むれが気になる時期に選びやすい"
-    cons:
-      - "ケース販売のため保管スペースを大きく取る"
-      - "サイズアウトが近いと余りやすい"
-    recommendedFor: "Mサイズをケース単位で確保したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6xln.3rdw632a.g00u6xln.3rdw7ef6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjandcbaby%2F4901301402394-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjandcbaby%2Fi%2F10000347%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jandcbaby/cabinet/08963043/imgrc0113226111.jpg?_ex=128x128"
-  - rank: 7
     name: "メリーズ パンツ ファーストプレミアム Mサイズ"
     brand: "花王（メリーズ）"
     price: 1807
@@ -215,7 +193,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/au51038/"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 7122
         rating: 4.92
         reviewCount: 12

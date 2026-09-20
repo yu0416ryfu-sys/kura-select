@@ -4,17 +4,17 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
     name: "シック ハイドロ5 カスタム 本体+替刃16個セット"
     brand: "シック（Schick）"
-    price: 3680
+    price: 3550
     capacity: "本体1個＋替刃16個"
-    pricePerUnit: "約230円/個"
-    rating: 5
-    reviewCount: 4
+    pricePerUnit: "約222円/個"
+    rating: 4.68
+    reviewCount: 3445
     features:
       - "5枚刃で広い面積をまとめて剃れる構造"
       - "極薄ヘッドで鼻下やあご周りなど細部へのフィット性が高い"
@@ -27,20 +27,20 @@ products:
       - "ヘッドがやや大きめで鼻の下などの狭い部分は剃りにくい場合がある"
       - "3枚刃より刃が多いため詰まりを感じやすい太いひげには水洗いを頻繁に行う必要がある"
     recommendedFor: "5枚刃で深剃りを求める方・本体と替刃をまとめて揃えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u9ufn.3rdw67db.g00u9ufn.3rdw7f61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwansa-kun-shop%2Fgeneral-shaver016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwansa-kun-shop%2Fi%2F10000096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wansa-kun-shop/cabinet/item_img/general-shaver016_01.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tx9an.3rdw653a.g00tx9an.3rdw78ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzuyaebisudo%2Fr-schick-hydr5-16pa%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuzuyaebisudo%2Fi%2F10000257%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suzuyaebisudo/cabinet/product/schick-hydr5/imgrc0084464923v2.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwansa-kun-shop%2Fgeneral-shaver016.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-16"
+        matchStatus: "matched"
+        updatedAt: "2026-09-19"
         price: 3880
         rating: 4.86
         reviewCount: 76
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wansa-kun-shop_general-shaver016"
         available: true
-    genreId: "208532"
+    genreId: "567539"
   - rank: 2
     name: "ジレット パワー フュージョン 互換替刃 PROモデル 4個入"
     brand: "ジレット"
@@ -102,8 +102,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwa-life%2Fcg-0001-8.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-16"
+        matchStatus: "matched"
+        updatedAt: "2026-09-19"
         price: 1998
         rating: 4.69
         reviewCount: 124
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430688635.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 2351
         rating: 4.75
         reviewCount: 12
@@ -150,7 +150,7 @@ products:
     capacity: "替刃8個"
     pricePerUnit: "約438円/個"
     rating: 4.5
-    reviewCount: 296
+    reviewCount: 298
     features:
       - "5枚刃に加えて精密トリマー刃を搭載"
       - "極薄刃がひげの根元近くまで密着する設計"
@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Framonu%2F230522-8002.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 3450
         rating: 4.49
         reviewCount: 39
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57020103-250.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 11000
         rating: 0
         reviewCount: 0
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57010103-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 760
         rating: 0
         reviewCount: 0

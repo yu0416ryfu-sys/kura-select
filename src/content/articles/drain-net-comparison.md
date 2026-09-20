@@ -4,7 +4,7 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fbk2707.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         price: 44603
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_bk2707"
         available: true
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fye3331.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         price: 436
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_ye3331"
         available: true
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyh-beans%2F1339654.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         price: 548
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_1339654"
         available: true
@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaumall%2F42552987.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         price: 958
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaumall_42552987"
         available: true
@@ -237,9 +237,9 @@ products:
   - rank: 8
     name: "ストリックスデザイン 水切りネット 抗菌 ストッキング 水切り袋 100枚 約32×"
     brand: "ストリックスデザイン"
-    price: 944
+    price: 973
     capacity: "100枚"
-    pricePerUnit: "約9.4円/枚"
+    pricePerUnit: "約9.7円/枚"
     rating: 0
     reviewCount: 0
     features:
@@ -259,14 +259,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ax13746/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ax13762/"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
-        price: 668
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ax13746"
+        updatedAt: "2026-09-19"
+        price: 698
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ax13762"
         available: true
-        rating: 4.31
-        reviewCount: 13
+        rating: 4
+        reviewCount: 8
     genreId: "216012"
   - rank: 9
     name: "髪の毛トリトリ イージーネット 4枚×10袋（40枚）"
@@ -275,7 +275,7 @@ products:
     capacity: "4枚×10袋（40枚）"
     pricePerUnit: "約55円/枚"
     rating: 4.65
-    reviewCount: 1062
+    reviewCount: 1063
     features:
       - "ポリプロピレン・ポリエステル製のヘアキャッチャー"
       - "台所・浴室どちらの排水口にも対応"
@@ -289,16 +289,16 @@ products:
       - "深型の排水口にはサイズが合わない場合がある"
     recommendedFor: "台所と浴室の両方で使い分けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0hgn.3rdw611d.g00u0hgn.3rdw71b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fla-kurasu%2Fbt-et-186930-10s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fla-kurasu%2Fi%2F10000124%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/la-kurasu/cabinet/item/maker_bonstar/imgrc0103005309.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/la-kurasu/cabinet/item/event/bt-et-186930-10s_920.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fla-kurasu%2F186930-10s.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         price: 2150
-        rating: 4.71
-        reviewCount: 80
+        rating: 4.72
+        reviewCount: 81
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/la-kurasu_186930-10s"
         available: true
     genreId: "565605"

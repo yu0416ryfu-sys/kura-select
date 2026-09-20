@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301745910-73-30000846.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 220
         rating: 4.8
         reviewCount: 15
@@ -43,11 +43,11 @@ products:
   - rank: 2
     name: "ワイドハイター EXパワー 詰め替え 820ml×3セット"
     brand: "花王（ワイドハイター）"
-    price: 1288
+    price: 1569
     capacity: "820ml×3セット（2460ml）"
-    pricePerUnit: "約0.52円/ml"
-    rating: 4.83
-    reviewCount: 90
+    pricePerUnit: "約0.64円/ml"
+    rating: 4.84
+    reviewCount: 91
     features:
       - "液体タイプの衣料用酸素系漂白剤"
       - "洗剤と一緒に洗濯機へ入れて使う設計"
@@ -90,7 +90,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F574939.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 3960
         rating: 0
         reviewCount: 0
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4978951060458.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 991
         rating: 0
         reviewCount: 0
@@ -206,7 +206,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.64円/g"
     rating: 4.64
-    reviewCount: 1435
+    reviewCount: 1436
     features:
       - "酸素系漂白剤の代名詞的ブランド"
       - "衣類・洗濯槽・キッチン・風呂と多用途"
@@ -282,8 +282,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fipstyle%2F12003.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
+        matchStatus: "matched"
+        updatedAt: "2026-09-19"
         price: 3520
         rating: 5
         reviewCount: 3

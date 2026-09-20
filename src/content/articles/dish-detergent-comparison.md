@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -143,6 +143,40 @@ products:
         reviewCount: 98
     genreId: "216012"
   - rank: 5
+    name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
+    brand: "P&G（ジョイ）"
+    price: 2820
+    capacity: "4L"
+    rating: 4.81
+    reviewCount: 64
+    features:
+      - "コンパクト処方で少量でもよく落ちる"
+      - "食洗機非対応・手洗い専用設計"
+      - "ジョイは洗浄力の強さで国内トップシェア"
+    pros:
+      - "1滴で驚くほどよく落ちるコンパクト処方"
+      - "P&Gブランドの安定した品質"
+      - "泡切れがよく後処理が楽"
+    cons:
+      - "キュキュットより若干価格が高め"
+      - "香りが強めと感じる方も"
+    recommendedFor: "洗浄力最優先の方・油の多い料理をする方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7269456%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10221021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasyakura/7269456.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftakuhaibin%2Fm7269456.html"
+        matchStatus: "matched"
+        updatedAt: "2026-09-07"
+        price: 2750
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/takuhaibin_m7269456"
+        available: true
+    genreId: "216012"
+    pricePerUnit: "約0.70円/mL"
+  - rank: 6
     name: "パックス 200番 台所用石けん 詰替用 2300mL×2本 2本セット"
     brand: "太陽油脂"
     price: 4550
@@ -165,39 +199,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pk2an.3rdw647a.g00pk2an.3rdw7456/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuyeki%2F395%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fuyeki%2Fi%2F10000474%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/uyeki/cabinet/syohin1/item01/packs/pax200_set2.jpg?_ex=128x128"
     genreId: "216012"
-  - rank: 6
-    name: "フロッシュ 食器用洗剤 アロエベラ 1000mL×2本"
-    brand: "フロッシュ（Werner & Mertz）"
-    price: 2351
-    capacity: "1000mL×2本（2000mL）"
-    pricePerUnit: "約1.2円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "アロエベラ配合で手肌に優しい低刺激処方"
-      - "100%リサイクルPET容器使用の環境配慮型ボトル"
-      - "生分解性100%（OECD302B試験済み）のエコ洗剤"
-    pros:
-      - "アロエベラ配合で手荒れが気になる方にも使いやすい"
-      - "1000mL×4本の大容量で詰め替え頻度を大幅削減"
-      - "環境負荷が低く、エコ志向の方に向いている"
-    cons:
-      - "4本セットのため保管スペースの確保が必要"
-      - "まとめ買い形式で少量から試しにくい"
-    recommendedFor: "手荒れ対策と環境配慮を両立しつつ大容量でコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uge1n.3rdw6789.g00uge1n.3rdw7be3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsjahop%2F20250805031604_70%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsjahop%2Fi%2F10069146%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsjahop/cabinet/r_2023112506/20250805031604_70_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fifc-valuetrust%2Fb07kzgjhtd20250718.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-16"
-        price: 1699
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ifc-valuetrust_b07kzgjhtd20250718"
-        available: true
   - rank: 7
     name: "SOMALI 台所用石けん 詰替用 5000ml そまり 純石けん 無添加"
     brand: "木村石鹸（SOMALI）"
@@ -233,6 +234,39 @@ products:
         reviewCount: 0
     genreId: "216012"
   - rank: 8
+    name: "フロッシュ 食器用洗剤 アロエベラ 1000mL×2本"
+    brand: "フロッシュ（Werner & Mertz）"
+    price: 2980
+    capacity: "1000mL×2本（2000mL）"
+    pricePerUnit: "約1.5円/mL"
+    rating: 5
+    reviewCount: 4
+    features:
+      - "アロエベラ配合で手肌に優しい低刺激処方"
+      - "100%リサイクルPET容器使用の環境配慮型ボトル"
+      - "生分解性100%（OECD302B試験済み）のエコ洗剤"
+    pros:
+      - "アロエベラ配合で手荒れが気になる方にも使いやすい"
+      - "1000mL×4本の大容量で詰め替え頻度を大幅削減"
+      - "環境負荷が低く、エコ志向の方に向いている"
+    cons:
+      - "4本セットのため保管スペースの確保が必要"
+      - "まとめ買い形式で少量から試しにくい"
+    recommendedFor: "手荒れ対策と環境配慮を両立しつつ大容量でコストを抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u8nmn.3rdw604a.g00u8nmn.3rdw7c76/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-temp%2Fico2867%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-temp%2Fi%2F10002854%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-temp/cabinet/12659768/ico2867.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fifc-valuetrust%2Fb07kzgjhtd20250718.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-16"
+        price: 1699
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ifc-valuetrust_b07kzgjhtd20250718"
+        available: true
+  - rank: 9
     name: "IVORY ディッシュソープ クラシック 食器用洗剤 709mL×2本"
     brand: "IVORY"
     price: 3468
@@ -255,40 +289,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00up3bn.3rdw60f2.g00up3bn.3rdw7ff6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyksakai%2Fmepxask4lgaaw2jmf54vmsjiaa%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyksakai%2Fi%2F10521015%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yksakai/cabinet/13132948/44216308_1.jpg?_ex=128x128"
     genreId: "112779"
-  - rank: 9
-    name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
-    brand: "P&G（ジョイ）"
-    price: 2675
-    capacity: "4L"
-    rating: 4.81
-    reviewCount: 64
-    features:
-      - "コンパクト処方で少量でもよく落ちる"
-      - "食洗機非対応・手洗い専用設計"
-      - "ジョイは洗浄力の強さで国内トップシェア"
-    pros:
-      - "1滴で驚くほどよく落ちるコンパクト処方"
-      - "P&Gブランドの安定した品質"
-      - "泡切れがよく後処理が楽"
-    cons:
-      - "キュキュットより若干価格が高め"
-      - "香りが強めと感じる方も"
-    recommendedFor: "洗浄力最優先の方・油の多い料理をする方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7269456%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10221021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasyakura/7269456.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftakuhaibin%2Fm7269456.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-07"
-        price: 2750
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/takuhaibin_m7269456"
-        available: true
-    priceMax: 2750
-    genreId: "216012"
 tags:
   - "食器用洗剤"
   - "コスパ"

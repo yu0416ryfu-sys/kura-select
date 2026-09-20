@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "システムポリマー XP-11 スライダー付ジッパー保存袋"
@@ -179,11 +179,11 @@ products:
   - rank: 6
     name: "マーナ パン冷凍保存袋 一斤 2枚入り"
     brand: "マーナ"
-    price: 1000
+    price: 980
     capacity: "2枚"
-    pricePerUnit: "約500円/枚"
-    rating: 4.77
-    reviewCount: 22
+    pricePerUnit: "約490円/枚"
+    rating: 4
+    reviewCount: 1
     features:
       - "ポリエチレン・PET複合フィルムで冷凍対応の専用設計"
       - "乾燥防止・臭い移り防止機能を備えたパン専用保存袋"
@@ -196,8 +196,8 @@ products:
       - "1セット2枚入りのため複数本まとめて冷凍したい場合は複数購入が必要"
       - "パン専用設計のため汎用保存袋としての用途は限定的"
     recommendedFor: "パンをまとめ買いして冷凍保存する方・食パンの鮮度を保ちたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s07zn.3rdw6c2d.g00s07zn.3rdw7e9a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshimada-ya%2F4976404002536%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshimada-ya%2Fi%2F10017760%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shimada-ya/cabinet/miraicode/15/4976404002536_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2q3n.3rdw68dd.g00r2q3n.3rdw7aa4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fc-market%2Fmarna-k782%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fc-market%2Fi%2F10005912%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/c-market/cabinet/08477376/imgrc0103900684.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -209,7 +209,7 @@ products:
         available: true
         rating: 4.62
         reviewCount: 29
-    genreId: "101855"
+    genreId: "564982"
   - rank: 7
     name: "ニッカルフレッシュ 鮮度保持袋"
     brand: "パワーサポート"
@@ -239,7 +239,7 @@ products:
     price: 574
     capacity: "10枚〜50枚（サイズ・枚数選択可）"
     rating: 4.78
-    reviewCount: 168
+    reviewCount: 170
     features:
       - "アルミ素材により防湿・遮光・防臭効果を発揮"
       - "マチ付き構造で自立可能な設計"

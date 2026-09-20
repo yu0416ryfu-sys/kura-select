@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "ユースキン ハンドクリーム つけかえパウチ 180g"
@@ -33,8 +33,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4987353190618.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-16"
-        price: 1159
+        updatedAt: "2026-09-19"
+        price: 1211
         rating: 4.67
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4987353190618"
@@ -80,7 +80,7 @@ products:
     capacity: "35g"
     pricePerUnit: "約19円/g"
     rating: 4.5
-    reviewCount: 416
+    reviewCount: 417
     features:
       - "100%ピュアシアバターを精製したオーガニック処方"
       - "9種類の香りから選べるセレクト仕様"
@@ -123,7 +123,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenman-hompo%2Fth003.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-19"
         price: 2500
         rating: 4.61
         reviewCount: 378
@@ -179,12 +179,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F3303a.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-31"
+        updatedAt: "2026-09-19"
         price: 253
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_3303a"
         available: true
-        rating: 4.1
-        reviewCount: 10
+        rating: 4.18
+        reviewCount: 11
     priceMax: 374
     genreId: "304759"
   - rank: 7
@@ -193,7 +193,7 @@ products:
     price: 2200
     capacity: "43g"
     rating: 4.7
-    reviewCount: 739
+    reviewCount: 740
     features:
       - "オーガニック認証原料を使用したハンドクリーム"
       - "43gの使いやすいサイズでギフト用途にも対応"
@@ -216,7 +216,7 @@ products:
     price: 3410
     capacity: "60g"
     rating: 4.57
-    reviewCount: 384
+    reviewCount: 385
     features:
       - "手肌と甘皮までケアできるハンドクリーム"
       - "保湿を重視した無添加処方"
@@ -273,7 +273,7 @@ products:
     price: 1120
     capacity: "30mL"
     rating: 4.51
-    reviewCount: 809
+    reviewCount: 810
     features:
       - "香水のような香りを楽しめるパフューム処方のハンドクリーム"
       - "5種類の香りから選べるセレクト仕様"
@@ -293,7 +293,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeautyhoney%2Fm-c-lt-040.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-31"
+        updatedAt: "2026-09-19"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beautyhoney_m-c-lt-040"
         available: true

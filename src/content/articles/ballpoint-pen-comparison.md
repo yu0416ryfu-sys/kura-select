@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flittle-hands%2Fbl0516.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 1400
         rating: 4.89
         reviewCount: 90
@@ -71,7 +71,7 @@ products:
     capacity: "1本（替え芯対応）"
     pricePerUnit: "約3470円/本"
     rating: 4.73
-    reviewCount: 2840
+    reviewCount: 2841
     features:
       - "創業135年以上の英国老舗ブランド・パーカーのエントリーモデル"
       - "長さ140mm・直径11mm・重さ27gのバランスの良い設計"
@@ -93,7 +93,7 @@ products:
     price: 1000
     capacity: "1本（4色ボールペン+シャープペンシル）"
     rating: 4.78
-    reviewCount: 13645
+    reviewCount: 13652
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"
@@ -157,7 +157,7 @@ products:
     price: 3300
     capacity: "1本+ケース1個のセット"
     rating: 4.74
-    reviewCount: 2662
+    reviewCount: 2663
     features:
       - "天然木素材を使用した温かみのあるデザインのボールペン＆ケースセット"
       - "10文字までの名入れ刻印に対応し、送料無料で届けられる"
@@ -180,7 +180,7 @@ products:
     price: 4700
     capacity: "1本"
     rating: 4.74
-    reviewCount: 42
+    reviewCount: 43
     features:
       - "本体タイプのボールペンで日常の筆記に使いやすい"
       - "まとめ買いやギフト用途でも選びやすい"
@@ -203,7 +203,7 @@ products:
     price: 880
     capacity: "-"
     rating: 4.54
-    reviewCount: 187
+    reviewCount: 188
     features:
       - "4色油性ボールペン＋シャープペンシル搭載の多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きでギフト・記念品に最適"
@@ -249,7 +249,7 @@ products:
     price: 1100
     capacity: "-"
     rating: 4.8
-    reviewCount: 292
+    reviewCount: 293
     features:
       - "ビンテージカラーのおしゃれなデザインで日常使いからギフトまで対応"
       - "0.5mm・0.3mm選択可能なゲルインク採用"

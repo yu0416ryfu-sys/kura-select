@@ -4,7 +4,7 @@ description: "コーヒーフィルターを1枚あたりのコストで徹底�
 category: "coffee-filter"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -133,40 +133,6 @@ products:
         available: true
     genreId: "566122"
   - rank: 5
-    name: "珈琲考具 コットンフィルター 1-2杯用 60枚"
-    brand: "下村企販"
-    price: 594
-    capacity: "60枚（1-2杯用）"
-    pricePerUnit: "約9.9円/枚"
-    rating: 4.95
-    reviewCount: 19
-    features:
-      - "綿素材使用のコットンフィルター・ネルドリップに近い淹れ心地を実現"
-      - "日本製・珈琲考具ドリッパー対応設計"
-      - "サイズ14.5cm×10.5cm・60枚入り"
-    pros:
-      - "1-2杯用の少量サイズで一人暮らしや少人数家庭に向いている"
-      - "コットン素材でペーパーフィルターとは異なる風味を楽しめる"
-      - "60枚入りでコストを抑えながら継続使用できる"
-    cons:
-      - "珈琲考具ドリッパー1-2杯用専用設計のため他社ドリッパーへの適合確認が必要"
-      - "コットン素材特有の扱い方に慣れが必要な場合がある"
-    recommendedFor: "珈琲考具ドリッパー1-2杯用をお使いの方・少人数向けにネルドリップ風味を試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t7aon.3rdw6b8b.g00t7aon.3rdw7da6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F43451-ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10002493%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06436825/43451sale_s.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshimomurakihan%2F43451.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 660
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shimomurakihan_43451"
-        available: true
-        rating: 4.57
-        reviewCount: 14
-    genreId: "566122"
-  - rank: 6
     name: "If You Care コーヒーフィルター No.2"
     brand: "If You Care（イフユーケア）"
     price: 990
@@ -200,14 +166,48 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/gpecoe_iyc004zkc031xx1"
         available: true
     genreId: "566122"
+  - rank: 6
+    name: "珈琲考具 コットンフィルター 1-2杯用 60枚"
+    brand: "下村企販"
+    price: 660
+    capacity: "60枚（1-2杯用）"
+    pricePerUnit: "約11円/枚"
+    rating: 4.95
+    reviewCount: 19
+    features:
+      - "綿素材使用のコットンフィルター・ネルドリップに近い淹れ心地を実現"
+      - "日本製・珈琲考具ドリッパー対応設計"
+      - "サイズ14.5cm×10.5cm・60枚入り"
+    pros:
+      - "1-2杯用の少量サイズで一人暮らしや少人数家庭に向いている"
+      - "コットン素材でペーパーフィルターとは異なる風味を楽しめる"
+      - "60枚入りでコストを抑えながら継続使用できる"
+    cons:
+      - "珈琲考具ドリッパー1-2杯用専用設計のため他社ドリッパーへの適合確認が必要"
+      - "コットン素材特有の扱い方に慣れが必要な場合がある"
+    recommendedFor: "珈琲考具ドリッパー1-2杯用をお使いの方・少人数向けにネルドリップ風味を試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t7aon.3rdw6b8b.g00t7aon.3rdw7da6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F43451%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10001242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/07359703/43451-10.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshimomurakihan%2F43451.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
+        price: 660
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shimomurakihan_43451"
+        available: true
+        rating: 4.57
+        reviewCount: 14
+    genreId: "566122"
   - rank: 7
     name: "珈琲考具 コットンフィルター 2-4杯用 60枚"
     brand: "下村企販"
-    price: 693
+    price: 770
     capacity: "60枚（2-4杯用）"
-    pricePerUnit: "約12円/枚"
-    rating: 4.5
-    reviewCount: 2
+    pricePerUnit: "約13円/枚"
+    rating: 4.95
+    reviewCount: 20
     features:
       - "綿素材使用のコットンフィルター・ネルドリップに近い淹れ心地を実現"
       - "日本製・珈琲考具ドリッパー対応設計"
@@ -220,8 +220,8 @@ products:
       - "珈琲考具ドリッパー専用設計のため他社ドリッパーへの適合確認が必要"
       - "コットン素材特有の扱い方に慣れが必要な場合がある"
     recommendedFor: "珈琲考具ドリッパー2-4杯用をお使いの方・ネルドリップに近い風味を試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t7aon.3rdw6b8b.g00t7aon.3rdw7da6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F43452-ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10002494%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06436825/43452sale_s.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t7aon.3rdw6b8b.g00t7aon.3rdw7da6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F43452%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10001243%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/07359703/43452-10.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

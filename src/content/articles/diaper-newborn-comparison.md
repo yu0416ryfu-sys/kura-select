@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100637.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-19"
         price: 1804
         rating: 0
         reviewCount: 0
@@ -135,10 +135,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301437693x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 5980
-        rating: 4.88
-        reviewCount: 17
+        updatedAt: "2026-09-19"
+        price: 6920
+        rating: 4.89
+        reviewCount: 19
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301437693x4"
         available: true
     genreId: "205198"
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnetbaby%2F4903111123247.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-19"
         price: 4494
         rating: 0
         reviewCount: 0
@@ -199,6 +199,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4987176203229%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10018972%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/229/4987176203229.jpg?_ex=128x128"
     genreId: "205198"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176203229.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-19"
+        price: 2196
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176203229"
+        available: true
   - rank: 7
     name: "パンパース はじめての肌へのいちばん テープ新生児 144枚"
     brand: "P&G（パンパース）"
@@ -224,13 +235,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02652.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftigtig%2F25062704.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-26"
-        price: 4749
-        rating: 4.67
-        reviewCount: 3
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos02652"
+        updatedAt: "2026-09-19"
+        price: 5580
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tigtig_25062704"
         available: true
     genreId: "205198"
   - rank: 8

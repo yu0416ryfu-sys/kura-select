@@ -4,7 +4,7 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -150,8 +150,8 @@ products:
     price: 8338
     capacity: "6本"
     pricePerUnit: "約1390円/本"
-    rating: 4.58
-    reviewCount: 209
+    rating: 4.59
+    reviewCount: 214
     features:
       - "iOシリーズ（iO2〜iO9）専用設計"
       - "純正品のためiO本体の自動認識機能が正常動作"
@@ -165,7 +165,7 @@ products:
       - "互換品より1本あたり単価が高め"
     recommendedFor: "iOシリーズ使用中で純正品にこだわりたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4rin.3rdw6d84.g00t4rin.3rdw7ca0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foralb-braun%2Fhds-ultimate2plus4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foralb-braun%2Fi%2F10001249%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oralb-braun/cabinet/event/290904/hds-ultimate2plus4.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oralb-braun/cabinet/item/hds-ultimate2plus4/hds-ulti2p4_2409.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -179,13 +179,13 @@ products:
         reviewCount: 11
     genreId: "208522"
   - rank: 7
-    name: "オーラルB ラディアントホワイト iO専用"
+    name: "オーラルB iO専用 替えブラシ ラディアントホワイト 2本"
     brand: "Braun"
-    price: 3498
+    price: 3300
     capacity: "2本"
-    pricePerUnit: "約1749円/本"
-    rating: 4.56
-    reviewCount: 32
+    pricePerUnit: "約1650円/本"
+    rating: 5
+    reviewCount: 3
     features:
       - "電動歯ブラシ用の交換ブラシ"
       - "対応機種を確認して選ぶ替えブラシタイプ"
@@ -198,8 +198,8 @@ products:
       - "サイズや対応条件は購入前に確認したい"
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4rin.3rdw6d84.g00t4rin.3rdw7ca0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foralb-braun%2Fhds-radiant2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foralb-braun%2Fi%2F10001390%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oralb-braun/cabinet/item/hds-radiant/thum_radiant_wh_2505.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sy9tn.3rdw6bb6.g00sy9tn.3rdw7e05/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiiha%2F27000052%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiiha%2Fi%2F10002920%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iiha/cabinet/electrictoothbrush/oralb/radian-min.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -211,7 +211,7 @@ products:
         available: true
         rating: 0
         reviewCount: 2
-    genreId: "212559"
+    genreId: "208522"
   - rank: 8
     name: "ソニッケアー プレミアムクリーン 替えブラシ レギュラー 3本"
     brand: "Philips Sonicare"

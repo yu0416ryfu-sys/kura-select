@@ -4,7 +4,7 @@ description: "フローリング掃除シートを1枚あたりのコストで�
 category: "floor-cleaner"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "激落ちくん ウェットシート 水の激落ちシート Ba フローリング＆リビング用シー"
@@ -133,14 +133,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301327826.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301327826-73-30002086.html"
         matchStatus: "pending"
-        updatedAt: "2026-08-31"
-        price: 518
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301327826"
+        updatedAt: "2026-09-19"
+        price: 620
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901301327826-73-30002086"
         available: true
-        rating: 4.81
-        reviewCount: 21
+        rating: 4.75
+        reviewCount: 4
     genreId: "568230"
   - rank: 5
     name: "クイックルワイパー ドライシート 業務用ワイドサイズ"
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         price: 1800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
         available: true
@@ -203,7 +203,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-19"
         price: 1800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
         available: true
@@ -259,7 +259,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksdenki%2F4967576731652.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 249
         rating: 0
         reviewCount: 1
@@ -293,7 +293,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-19"
         price: 1800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
         available: true
@@ -306,8 +306,8 @@ products:
     brand: "花王（クイックルワイパー）"
     price: 2335
     capacity: "32枚"
-    rating: 4.69
-    reviewCount: 196
+    rating: 4.7
+    reviewCount: 197
     features:
       - "立体吸着構造の洗浄液入りウェットシートで皮脂汚れをしっかり拭き取る"
       - "1枚でゴミ取りと拭き掃除を同時にこなせる設計"

@@ -4,7 +4,7 @@ description: "日焼け止めを1mLあたりのコストで徹底比較。ビオ
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -80,8 +80,8 @@ products:
     price: 1269
     capacity: "120g"
     pricePerUnit: "約11円/g"
-    rating: 4.5
-    reviewCount: 6
+    rating: 4.57
+    reviewCount: 7
     features:
       - "世界初のミクロディフェンス処方で塗りムラを防止"
       - "水感エッセンスで軽いつけ心地"
@@ -109,13 +109,36 @@ products:
         reviewCount: 7
     genreId: "503054"
   - rank: 4
+    name: "アリィー クロノビューティ トーンアップUV 01 60g"
+    brand: "カネボウ（アリィー）"
+    price: 2332
+    capacity: "60g"
+    rating: 4
+    reviewCount: 9
+    features:
+      - "摩擦・汗・水に強いトリプルプルーフ処方"
+      - "美容液成分配合でスキンケア効果"
+      - "SPF50+/PA++++で最高レベルの防御力"
+    pros:
+      - "摩擦にも強く長時間落ちにくい"
+      - "アウトドア・レジャーでも安心の防御力"
+      - "ジェルタイプで伸びが良い"
+    cons:
+      - "価格はプレミアム帯でやや高め"
+      - "落とすときは丁寧なクレンジングが必要"
+    recommendedFor: "屋外でのスポーツ・レジャーが多い方・絶対焼きたくない方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4973167057667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11097710%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/667/4973167057667.jpg?_ex=128x128"
+    genreId: "503054"
+    pricePerUnit: "約39円/g"
+  - rank: 5
     name: "レステモ 美白BBクリーム"
     brand: "レステモ"
     price: 2560
     capacity: "35g"
     pricePerUnit: "約73円/g"
     rating: 3.97
-    reviewCount: 12945
+    reviewCount: 12946
     features:
       - "UVケアに使える日焼け止め・化粧下地"
       - "顔用や子ども向けも選べる"
@@ -142,7 +165,7 @@ products:
         rating: 4.27
         reviewCount: 150
     genreId: "567445"
-  - rank: 5
+  - rank: 6
     name: "ラロッシュポゼ UVイデアXL"
     brand: "ラロッシュポゼ"
     price: 4070
@@ -165,7 +188,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi2mn.3rdw6aae.g00qi2mn.3rdw7998/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpycno%2Frarossyu35%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpycno%2Fi%2F10000752%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pycno/cabinet/lrp/idea_hqs.jpg?_ex=128x128"
     genreId: "503054"
-  - rank: 6
+  - rank: 7
     name: "ラロッシュポゼ UVイデアXL BB"
     brand: "ラロッシュポゼ"
     price: 4070
@@ -188,7 +211,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn2mn.3rdw6125.g00qn2mn.3rdw7702/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsangakushop%2Frarossyu-bb-kit%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsangakushop%2Fi%2F10000726%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sangakushop/cabinet/lrp/rarossyu-bb-kit_hqs2.jpg?_ex=128x128"
     genreId: "216307"
-  - rank: 7
+  - rank: 8
     name: "ラロッシュポゼ UVイデアXL 色なし"
     brand: "ラロッシュポゼ"
     price: 4070
@@ -211,12 +234,12 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn2mn.3rdw6125.g00qn2mn.3rdw7702/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsangakushop%2Frarossyu35%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsangakushop%2Fi%2F10000773%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sangakushop/cabinet/lrp/03044hqs_p01.jpg?_ex=128x128"
     genreId: "503054"
-  - rank: 8
+  - rank: 9
     name: "レステモ ノンケミカル UVミルク"
     brand: "レステモ"
-    price: 2580
+    price: 2480
     capacity: "50mL"
-    pricePerUnit: "約52円/mL"
+    pricePerUnit: "約50円/mL"
     rating: 4.33
     reviewCount: 2400
     features:
@@ -232,30 +255,7 @@ products:
       - "専用クレンジングの要否は表示を確認したい"
     recommendedFor: "紫外線吸収剤を避けたい方・家族で共用したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdaen.3rdw686c.g00qdaen.3rdw7002/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flesthemo%2Fuv50g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flesthemo%2Fi%2F10000061%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/uvmilk_01_01_3500px.jpg?_ex=128x128"
-    genreId: "503054"
-  - rank: 9
-    name: "【国内正規品 全12種】ALLIE アリィー 日焼け止め クロノビューティ トー"
-    brand: "カネボウ（アリィー）"
-    price: 1332
-    capacity: "60g"
-    rating: 4.67
-    reviewCount: 131
-    features:
-      - "摩擦・汗・水に強いトリプルプルーフ処方"
-      - "美容液成分配合でスキンケア効果"
-      - "SPF50+/PA++++で最高レベルの防御力"
-    pros:
-      - "摩擦にも強く長時間落ちにくい"
-      - "アウトドア・レジャーでも安心の防御力"
-      - "ジェルタイプで伸びが良い"
-    cons:
-      - "価格はプレミアム帯でやや高め"
-      - "落とすときは丁寧なクレンジングが必要"
-    recommendedFor: "屋外でのスポーツ・レジャーが多い方・絶対焼きたくない方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t269n.3rdw662f.g00t269n.3rdw745b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Farianakosume%2Fallie-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Farianakosume%2Fi%2F10006763%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/arianakosume/cabinet/marason-ariana/allie-001-ra.jpg?_ex=128x128"
-    priceMax: 6840
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/uvmilk_03_2480y.jpg?_ex=128x128"
     genreId: "503054"
   - rank: 10
     name: "ラブミータッチ シルキーUVミルク 50g"
@@ -263,7 +263,7 @@ products:
     price: 3080
     capacity: "50g"
     rating: 4.84
-    reviewCount: 3878
+    reviewCount: 3885
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

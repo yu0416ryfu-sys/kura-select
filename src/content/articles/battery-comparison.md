@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約26円/本"
     rating: 4.68
-    reviewCount: 652
+    reviewCount: 653
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -71,7 +71,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約64円/本"
     rating: 4.65
-    reviewCount: 1233
+    reviewCount: 1234
     features:
       - "10年長期保存対応のパナソニック製アルカリ電池"
       - "1パック4本×5パック構成で使いやすい量を分割して管理できる"
@@ -135,9 +135,9 @@ products:
   - rank: 5
     name: "Panasonic エボルタNEO 乾電池 単3形 16本"
     brand: "Panasonic（エボルタNEO）"
-    price: 1550
+    price: 1699
     capacity: "16本"
-    pricePerUnit: "約97円/本"
+    pricePerUnit: "約106円/本"
     rating: 5
     reviewCount: 18
     features:
@@ -274,7 +274,7 @@ products:
     price: 800
     capacity: "40本"
     rating: 4.64
-    reviewCount: 1129
+    reviewCount: 1134
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"

@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-19"
 products:
   - rank: 1
     name: "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット"
@@ -28,6 +28,7 @@ products:
     recommendedFor: "歯磨き嫌いのお子さま・仕上げ磨きに使いたい方・ジェルタイプが好きな方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F0000049795240-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10184891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/aa/49795240.jpg?_ex=128x128"
+    genreId: "208265"
   - rank: 2
     name: "チェックアップ コドモ 60g×3本"
     brand: "ライオン（チェックアップ）"
