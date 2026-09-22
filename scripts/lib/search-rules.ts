@@ -1043,6 +1043,37 @@ export function getArticleSpecificAdditionRule(category: string, baseKeyword: st
     };
   }
 
+  // 歯間ブラシ記事の専用ルール（下のフロス用ルールより先に判定する）
+  // フロス用ルールは include に「歯間ブラシ」を含むため、歯間ブラシ記事でも keywords が
+  // フロス寄りになり、フロス商品が候補として流入していた（2026-09-22 に
+  // interdental-brush からフロス5件を削除。docs/TODO.md §7-Z）。
+  // 単価の単位が「本」と「m」で混在すると比較表として横に並ばないので units は「本」だけにし、
+  // 楽天のタイトルは関連語を羅列しがちなため「フロス」を含む商品はまとめて除外する。
+  if (category === 'toothpaste' && /歯間ブラシ/.test(baseKeyword) && !/デンタルフロス|糸ようじ|糸ピックス/.test(baseKeyword)) {
+    return {
+      keywords: ['歯間ブラシ', '歯間ブラシ L字型', '歯間ブラシ まとめ買い'],
+      include: ['歯間ブラシ', '歯間清掃', 'デンタルプロ', 'GUM 歯間', 'ガム 歯間'],
+      requiredGroups: [['歯間ブラシ']],
+      exclude: [
+        'フロス',
+        '糸ようじ',
+        '糸ピックス',
+        'fluorfloss',
+        '歯ブラシ',
+        '歯磨き粉',
+        '歯みがき粉',
+        'ジェットウォッシャー',
+        '口腔洗浄器',
+        '口腔洗浄機',
+        'スタンド',
+        'ケース',
+        '収納',
+      ],
+      units: ['本'],
+      minScore: 4,
+    };
+  }
+
   if (category === 'toothpaste' && /デンタルフロス|フロス|歯間ブラシ|糸ようじ/.test(baseKeyword)) {
     return {
       keywords: ['デンタルフロス', 'フロスピック 100本', 'ウルトラフロス 30本'],
