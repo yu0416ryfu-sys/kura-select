@@ -2771,3 +2771,68 @@ body
     expect(seen).toEqual(["216044", null]);
   });
 });
+
+// docs/IMPLEMENTATION_PLAN_CAPACITY_PACK_CHAIN_2026-09-22.md §4
+// 集合単位の個数（N箱 / Nパック）と 1集合あたりの内容量（M本入）が × で連結されずに
+// 離れて出現する形を対にする。商品名は §2.1 で実測した実タイトルをそのまま使う。
+describe("extractCapacityFromItemName: 集合単位のペアリング（§7-AA）", () => {
+  it("配送条件の『（10箱）まで』を集合数に使わない", () => {
+    // 修正前は "4本×10箱"（40本）を返していた。P-D とは独立した既存バグ
+    expect(extractCapacityFromItemName(
+      "歯間ブラシ4本入り【メール便可 2セット（10箱）まで】"
+    )).toBe("4本");
+  });
+
+  it("【N箱セット】【1箱M本入り】を対にする", () => {
+    expect(extractCapacityFromItemName(
+      "【送料無料】【選べるサイズ】 ライオン 歯間ブラシ デントEX LION DENT.EX 【4箱セット】【1箱4本入り】超合金ワイヤー"
+    )).toBe("4本×4箱");
+  });
+
+  it("M本入/N箱 のスラッシュ区切りを対にする", () => {
+    expect(extractCapacityFromItemName(
+      "歯間ブラシ ライオン DENT.EX 各サイズ4S〜LL 4本入/5箱 まとめ買い"
+    )).toBe("4本×5箱");
+  });
+
+  it("Nパック(M本入/パック) の括弧形を対にする", () => {
+    expect(extractCapacityFromItemName(
+      "Ci PRO L字型歯間ブラシ 3パック(5本入/パック) LL(グリーン) / L(ライトグリーン) 日本製"
+    )).toBe("5本×3パック");
+  });
+
+  it("N箱セットと M本入り が離れていても対にする（配送条件は拾わない）", () => {
+    expect(extractCapacityFromItemName(
+      "5箱セット ライオン DENT.EX 歯間ブラシ4本入り【L字型】【メール便可 2セット（10箱）まで】"
+    )).toBe("4本×5箱");
+  });
+
+  it("集合数が無い『1箱M本入り』は従来どおり M本 のまま", () => {
+    expect(extractCapacityFromItemName("DENT.EX 歯間ブラシ 1箱4本入り")).toBe("4本");
+  });
+
+  it("既に × で連結済みのチェーンは二重に掛けない", () => {
+    expect(extractCapacityFromItemName("スコッティ 200枚×5箱")).toBe("200枚×5箱");
+  });
+
+  it("配送語の手前にある実容量は消さない", () => {
+    // 配送条件除去 (c) が "3個まで" だけを落とし、"200枚入り" を残すこと
+    expect(extractCapacityFromItemName("ネコポス対応 200枚入り 3個まで")).toBe("200枚");
+  });
+
+  // 8月コーパスで実測した P-D の実誤爆。G1 が効いていることを直接検証する。
+  // G1 を qty×qty（"入" を跨げない形）で実装すると "100枚×2箱" になって落ちる。
+  it("既に × で連結済みのチェーンがあれば集合数を再利用しない（G1）", () => {
+    expect(extractCapacityFromItemName(
+      "【全品1,000円OFFクーポン有り！8/25迄】【50枚入×2箱セット】大王製紙 エリエール サージカルマスク ふつうサイズ 100枚入 エリエールマスク"
+    )).toBe("50枚×2箱");
+  });
+
+  // G2/G4 のテストではない。"お得" を含む枠が PROMO_BRACKET_RE で丸ごと落ち、
+  // 集合数トークンがそもそも残らないことの回帰（ガードを全部外しても緑）。
+  it("販促枠ごと消える『6箱～30箱セット』を集合数に使わない", () => {
+    expect(extractCapacityFromItemName(
+      "KAWANISHI 2025 調理用ビニール使いきり極薄手袋 100枚入 【1箱・お得な6箱～30箱セット】手荒れ対策におすすめ！"
+    )).toBe("100枚");
+  });
+});

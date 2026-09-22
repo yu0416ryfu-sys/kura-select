@@ -646,6 +646,16 @@ function promoBracketHoldsQuantityChain(bracket: string): boolean {
   return new RegExp(`${qty}\\s*[${MULTIPLY_RE_CHAR_CLASS}]\\s*${qty}`).test(bracket);
 }
 
+// 配送条件（同梱可能数）の除去。商品の内容量ではないので容量抽出の前に落とす。
+const SHIP_TERMS = 'メール便|ネコポス|クリックポスト|ゆうパケット|定形外|宅配便';
+const SHIP_QTY_UNITS = '個|本|枚|袋|点|セット|箱|パック|組';
+const SHIP_BRACKET_RE = new RegExp(`【[^】]*(?:${SHIP_TERMS})[^】]*まで[^】]*】`, 'g');
+const SHIP_PAREN_RE = new RegExp(`[（(][^）)]*(?:${SHIP_TERMS})[^）)]*まで[^）)]*[）)]`, 'g');
+const SHIP_TRAILING_RE = new RegExp(
+  `((?:${SHIP_TERMS})[^】]{0,20}?)\\d[\\d,]*\\s*(?:${SHIP_QTY_UNITS})\\s*まで`,
+  'g'
+);
+
 function normalizeItemNameForCapacityExtraction(itemName: string): string {
   let normalized = normalizeItemName(itemName);
 
@@ -667,6 +677,19 @@ function normalizeItemNameForCapacityExtraction(itemName: string): string {
       /(?:メール便|ネコポス|クリックポスト|ゆうパケット|定形外)\s*\d[\d,]*\s*(?:個|本|枚|袋|点|セット)?\s*まで/gi,
       ' '
     );
+
+  // 上の2本は配送語と数量が隣接する形しか見ていないため、
+  // "【メール便可 2セット（10箱）まで】" のように間に別トークンが挟まる枠を取り逃がし、
+  // 枠内の "10箱" が乗算チェーンの乗数として拾われていた（実測で "4本×10箱"）。
+  // ワイルドカードで数字を跨ぐと実容量まで巻き込むため（"ネコポス対応 200枚入り 3個まで"）、
+  // 「どこまで消すか」を括弧の枠で区切る。
+  normalized = normalized
+    // (a) 配送語と「まで」を両方含む【…】枠は丸ごと落とす（内側の丸括弧を跨ぐ）
+    .replace(SHIP_BRACKET_RE, ' ')
+    // (b) 同じ形の（…）枠
+    .replace(SHIP_PAREN_RE, ' ')
+    // (c) 枠外は「配送語より後ろの N{単位}まで」だけを落とし、間にある実容量は残す
+    .replace(SHIP_TRAILING_RE, '$1 ');
 
   // おまけ・付属品の数量（"排水口ネット100枚付き" / "オマケ(20g)×2本付き"）。
   // 本体の容量ではないので落とす。
@@ -761,6 +784,100 @@ function shouldPreferSalesQuantityOverMeasure(itemName: string): boolean {
   return /防カビくん煙剤|お風呂カビーヌ|風呂釜クリーナー/.test(normalizeItemName(itemName));
 }
 
+// 集合単位の個数と、1集合あたりの内容量を対にする。
+// PACK_UNITS（ロール|パック|セット|箱|缶|ケース）のうち「ロール」「缶」は意図的に外す:
+//   ロール … トイレットペーパー記事では base 単位（円/ロール）として扱うので、
+//            集合側に回すと単価の分母が変わってしまう
+//   缶    … 実データで「N缶（1缶M本入）」型が確認できておらず、投機的に広げない
+const PACK_CHAIN_UNITS = '箱|パック|セット|ケース';
+
+// G4 範囲表記の除外。"6箱～30箱セット" は選択肢であって内容量ではない。
+// 判定窓は集合数トークンの直前・直後だけに限る（"4S〜LL" のようなサイズ表記を巻き込まないため）。
+function hasRangeMarkerAround(text: string, start: number, end: number): boolean {
+  return /[〜~～]/.test(text.slice(Math.max(0, start - 1), start) + text.slice(end, end + 1));
+}
+
+// 集合単位の個数（N箱 / Nパック）と、1集合あたりの内容量（M本入）が × で連結されずに
+// 離れて書かれている形を対にして "M{base}×N{pack}" を組み立てる。
+// 「1集合あたり」を示すマーカー（"1箱" / "/パック" / スラッシュ区切り / "N箱セット"）を
+// 必ず要求する。マーカー無しで数量どうしを掛けると、配送条件やおまけ表記を
+// 巻き込んで総量が過大になるため。
+function extractPackChainFromItemName(itemName: string): string | null {
+  // G1 既存 × チェーン優先。"【50枚入×2箱セット】…100枚入" のように既に連結済みの
+  // チェーンがあれば、後方の総量と集合数を対にして二重に掛けてしまう。
+  // promoBracketHoldsQuantityChain と違い、数量と × の間の "入" を跨げるようにする
+  // （"50枚入×2箱" を取りこぼすと G1 の動機であるマスク行が素通りする）。
+  const qty = `${CAPACITY_NUMBER_PATTERN}\\s*(?:${CAPACITY_UNITS}|${PACK_UNITS})\\s*(?:入り?)?`;
+  if (new RegExp(`${qty}\\s*[${MULTIPLY_RE_CHAR_CLASS}]\\s*${qty}`).test(itemName)) return null;
+
+  const base = CAPACITY_UNITS;
+  const pack = PACK_CHAIN_UNITS;
+
+  // P-A: "【N箱セット】…【1箱M本入り】"。マーカーは "1{pack}" の literal。
+  // G2（{pack} が先）は後方検索で担保する。G3（割り込み禁止）は適用しない
+  // ── マーカー "1箱" は定義上 "N箱セット" と "M本入" の間に挟まるため。
+  const packTokenRe = new RegExp(`(\\d[\\d,]*)\\s*(${pack})`, 'g');
+  for (const m of itemName.matchAll(packTokenRe)) {
+    const count = parseInt(m[1].replace(/,/g, ''), 10);
+    if (count < 2) continue;
+    const start = m.index ?? 0;
+    if (hasRangeMarkerAround(itemName, start, start + m[0].length)) continue;
+    const after = itemName.slice(start + m[0].length);
+    const perPackM = after.match(new RegExp(`1\\s*${m[2]}\\s*(${CAPACITY_NUMBER_PATTERN})\\s*(${base})\\s*入`));
+    if (perPackM) return `${perPackM[1]}${perPackM[2]}×${m[1]}${m[2]}`;
+  }
+
+  // P-B: "M本入/5箱" のスラッシュ区切り。対が構文で閉じているので G2 / G3 は適用しない。
+  // 逆順（"M本入 … N箱"）は既存のパターン1g が処理するため、この語順だけを見る。
+  const slashM = itemName.match(
+    new RegExp(`(${CAPACITY_NUMBER_PATTERN})\\s*(${base})\\s*入り?\\s*[/／]\\s*(\\d[\\d,]*)\\s*(${pack})`)
+  );
+  if (slashM && parseInt(slashM[3].replace(/,/g, ''), 10) >= 2) {
+    // 集合数トークンの直前は構文上スラッシュなので、G4 は直後だけ見れば足りる。
+    const end = (slashM.index ?? 0) + slashM[0].length;
+    if (!hasRangeMarkerAround(itemName, end, end)) {
+      return `${slashM[1]}${slashM[2]}×${slashM[3]}${slashM[4]}`;
+    }
+  }
+
+  // P-C: "3パック(5本入/パック)" の括弧形。括弧内の "/{pack}" がマーカー。
+  const parenM = itemName.match(
+    new RegExp(
+      `(\\d[\\d,]*)\\s*(${pack})\\s*[（(][^）)]*?(${CAPACITY_NUMBER_PATTERN})\\s*(${base})\\s*入り?\\s*[/／]\\s*\\2[^）)]*[）)]`
+    )
+  );
+  if (parenM && parseInt(parenM[1].replace(/,/g, ''), 10) >= 2) {
+    const start = parenM.index ?? 0;
+    if (!hasRangeMarkerAround(itemName, start, start + parenM[1].length + parenM[2].length)) {
+      return `${parenM[3]}${parenM[4]}×${parenM[1]}${parenM[2]}`;
+    }
+  }
+
+  // P-D: "5箱セット … 4本入り" のように離れている形。マーカーは "{pack}セット" の literal。
+  // PACK_CHAIN_UNITS の "セット" を選ぶと "Nセットセット" になり成立しないので、
+  // ここでの集合単位は 箱 / パック / ケース に限る。
+  // 最も誤爆しやすいのでガードは G1〜G4 すべて適用する。
+  const packSetRe = /(\d[\d,]*)\s*(箱|パック|ケース)\s*セット/g;
+  for (const m of itemName.matchAll(packSetRe)) {
+    const count = parseInt(m[1].replace(/,/g, ''), 10);
+    if (count < 2) continue;
+    const start = m.index ?? 0;
+    const end = start + m[0].length;
+    // G4 範囲表記（"6箱～30箱セット"）
+    if (hasRangeMarkerAround(itemName, start, end)) continue;
+    // G2 語順: {pack} が先。後方だけを探索する
+    const after = itemName.slice(end);
+    const enteredM = after.match(new RegExp(`(${CAPACITY_NUMBER_PATTERN})\\s*(${base})\\s*入`));
+    if (!enteredM) continue;
+    // G3 割り込み禁止: 2つのトークンの間に別の数量トークンが挟まらないこと
+    const gap = after.slice(0, enteredM.index ?? 0);
+    if (new RegExp(`\\d[\\d,]*\\s*(?:${base}|${pack})`).test(gap)) continue;
+    return `${enteredM[1]}${enteredM[2]}×${m[1]}${m[2]}`;
+  }
+
+  return null;
+}
+
 export function extractCapacityFromItemName(itemName: string): string | null {
   itemName = normalizeItemNameForCapacityExtraction(itemName);
   if (shouldPreferSalesQuantityOverMeasure(itemName)) {
@@ -792,6 +909,16 @@ export function extractCapacityFromItemName(itemName: string): string | null {
     // rest から抽出できない場合はブラケットを除去して後続パターンで処理
     itemName = rest;
   }
+
+  // パターン0-pre: 集合単位の個数と「1集合あたりの内容量」が × で連結されずに
+  // 離れて書かれている形を対にする（docs/IMPLEMENTATION_PLAN_CAPACITY_PACK_CHAIN_2026-09-22.md）。
+  // 例: "【4箱セット】【1箱4本入り】" → "4本×4箱"
+  // 例: "4本入/5箱"                  → "4本×5箱"
+  // 例: "3パック(5本入/パック)"       → "5本×3パック"
+  // extractCapacityTotal はこの形を既に解釈できるので、ここでは文字列を組み立てるだけ。
+  const packChain = extractPackChainFromItemName(itemName);
+  if (packChain) return packChain;
+
   // パターン0: 括弧内に総枚数と内訳があるケース
   // 例: "45L 1セット（1000枚：100枚×10パック）" → "（1000枚）"
   const bracketTotalWithBreakdownRe = new RegExp(`[（(][^）)]*?([\\d,]+)\\s*(${CAPACITY_UNITS})\\s*[：:][^）)]*[）)]`);

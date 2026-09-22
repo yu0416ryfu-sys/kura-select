@@ -171,3 +171,12 @@ describe("calcPricePerUnit / フォールバック経由の単価", () => {
     expect(calcPricePerUnit(1000, "-")).toBeNull();
   });
 });
+
+// docs/IMPLEMENTATION_PLAN_CAPACITY_PACK_CHAIN_2026-09-22.md §4.3
+// 集合単位ペアリング（frontmatter 側）の出力を extractCapacityTotal が展開できることの検算。
+describe("集合単位ペアリングの出力（§7-AA）", () => {
+  it("集合単位ペアリングの出力が総量へ展開できる", () => {
+    expect(extractCapacityTotal("4本×4箱")).toEqual({ total: 16, unit: "本" });
+    expect(extractCapacityTotal("5本×3パック")).toEqual({ total: 15, unit: "本" });
+  });
+});
