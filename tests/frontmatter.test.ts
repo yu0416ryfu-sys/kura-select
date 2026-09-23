@@ -1831,6 +1831,44 @@ products:
     expect(result.descBefore).toBe(result.descAfter);
     expect(result.content).toContain('description: "コスパで選ぶ歯磨き粉ガイド"');
   });
+
+  it("descriptionのN商品・N製品も実際の商品数に合わせる", () => {
+    const content = `---
+title: "鍋おすすめ比較3選"
+description: "人気4商品と話題の11製品を比較"
+products:
+  - rank: 1
+    name: "商品1"
+  - rank: 2
+    name: "商品2"
+  - rank: 3
+    name: "商品3"
+---
+本文
+`;
+    const result = syncTitleProductCount(content);
+
+    expect(result.changed).toBe(true);
+    expect(result.descAfter).toBe("人気3商品と話題の3製品を比較");
+  });
+
+  it("1商品あたりのような単価表現は変更しない", () => {
+    const content = `---
+title: "洗剤の比較"
+description: "1商品あたりの単価で比較"
+products:
+  - rank: 1
+    name: "商品1"
+  - rank: 2
+    name: "商品2"
+---
+本文
+`;
+    const result = syncTitleProductCount(content);
+
+    expect(result.changed).toBe(false);
+    expect(result.content).toBe(content);
+  });
 });
 
 // ─── updateUpdatedAt ──────────────────────────────────────────────────────

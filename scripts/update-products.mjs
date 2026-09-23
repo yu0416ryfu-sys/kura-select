@@ -2756,7 +2756,7 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
     limitResult.log.forEach(l => log(`   🗑 ${DRY_RUN ? '[dry-run] ' : ''}${l}`));
   }
 
-  // 機能6: title・description の「N選」を実際の商品数に同期
+  // 機能6: title・description の「N選」「N商品」「N製品」を実際の商品数に同期
   const titleCountResult = syncTitleProductCount(updatedContent);
   if (titleCountResult.changed) {
     updatedContent = titleCountResult.content;
