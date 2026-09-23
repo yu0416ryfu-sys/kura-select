@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-23",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。凍結の対象・起点日・解除日（releaseDate）はこのファイルが唯一の正（2026-09-15 改定）。",
     "施策の中身・判定根拠・経緯の正はローカルのメモリ project_measurement_holds。機械判定（scripts/check-internal-links.mjs など）もこのファイルを読む。施策を打ったら両者を必ず同時に更新する。",
@@ -13,25 +13,6 @@
     "searchNeed を必須にしたのは、施策が外れたときに「手法が悪かったのか、検索意図の読み違いか」を切り分けるため。施策時点の仮説を書き、後から結果に合わせて書き換えない。コホート行は記事個別ではなく施策型の仮説を書く。"
   ],
   "holds": [
-    {
-      "slug": "water-server-delivery-comparison",
-      "releaseDate": "2026-09-23",
-      "releaseLabel": "2026-09-22",
-      "targetType": "article",
-      "startedAt": "2026-08-25",
-      "searchNeed": "⚠️遡及記入（2026-09-12）: 宅配水の導入を検討している人が、月額の実コストと水の種類・解約条件を4社横断で比較し、契約先を1社に絞りたい。指名クエリではなく検討フェーズの比較系クエリ。",
-      "measures": [
-        "インデックス",
-        "順位",
-        "A8成果件数"
-      ],
-      "actions": [
-        "新規公開（宅配水4社・articleType: service）"
-      ],
-      "simultaneous": false,
-      "note": "公開+4週は title / description / 本文 / services[] を触らない。v1 との相互リンク追加は 09-22 以降の別施策 ⚠️2026-09-09: JSON-LD 末尾スラッシュ是正（`ArticleLayout.astro` 5箇所・全記事共通テンプレ・区分C相当）を実施。起点 09-09。**この記事は指標にインデックス／再クロールを含むため中立ではない**（acne-patch に JSON-LD 修正で表示が回復した前例あり）。判定時に必ず併記する。 ⚠️2026-09-21 判定済み（解除日を待たずに読み取りのみで実施・記事は未編集）: **❌未離陸**。公開から25日（08-25〜09-18・GSC 確定日 09-18）で **表示 0 / クリック 0**。gsc_index_status は Submitted and indexed・lastCrawlTime 2026-08-28T02:16:15Z（以後3週間クロールなし）。指標3つは インデックス ✅ / 順位 ⚠️判定不能（表示0で順位が存在しない）/ A8成果 0件。参考: v1 water-server-comparison も同窓 表示29・クリック0。判定が済んだので、09-22 の関連記事 fallback デプロイ（被リンク 22→3）はこの行の測定を損なわない。詳細は docs/MEASUREMENT_HOLDS_ARCHIVE.md 末尾。",
-      "source": "project_high_ticket_asp_202608"
-    },
     {
       "slug": "dental-floss-comparison",
       "releaseDate": "2026-09-25",
