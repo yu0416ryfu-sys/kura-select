@@ -206,6 +206,25 @@
       "simultaneous": false,
       "note": "2026-09-23 の kura-article-recommend で季節先行枠として提案、ユーザー判断で同日公開。判定は公開2週後の順位帯（CLAUDE.md §5.0.2 手順6）＝判定日 2026-10-07。⚠️判定時に必ず併記する留保: ①判定窓（09-23〜10-07）は需要の立ち上がり前で、表示が少なくても「未離陸」と断定しない（季節性）②新記事の表示は cohort-01-description の正規化子（全記事ページの残余）に入るため、cohort-01 の判定時は残余から kairo-comparison を控除する ③deodorizing-bag の教訓どおり、公開後に URL 検査からインデックス登録をリクエストしないと窓が空振りしうる（ユーザー作業）。cooling-pack は凍結対象外（被リンク追加のみ）。",
       "source": "project_measurement_holds"
+    },
+    {
+      "slug": "hydrocolloid-bandage-comparison",
+      "releaseDate": "2026-10-08",
+      "releaseLabel": "2026-10-07",
+      "targetType": "new-article",
+      "startedAt": "2026-09-23",
+      "searchNeed": "すり傷・あかぎれ・靴ずれなどを湿潤環境でケアしたい人が、キズパワーパッドと他社品（ケアリーヴ 治す力・徳用の救急バンなど）のどれをどのサイズで買えば1枚あたり安く済むかを知りたくて検索している。GSC では需要を実測できていない（bandage-comparison でもハイドロコロイド系クエリの表示0。Bing でも該当クエリなし）ので、離陸すれば表示/日と表示加重平均順位に出るはず",
+      "measures": [
+        "表示/日",
+        "表示加重平均順位",
+        "インデックス登録（lastCrawlTime）"
+      ],
+      "actions": [
+        "新規記事公開（7選・カテゴリ bandage を共有）。bandage-comparison からキズパワーパッド3件を移設し4件を新規追加。被リンクは bandage-comparison 本文から3本"
+      ],
+      "simultaneous": false,
+      "note": "bandage-comparison の用途混在（一般絆創膏とハイドロコロイド・子ども向けキャラクター柄）をユーザー判断で分離した際に同日公開。判定は公開2週後の順位帯＝判定日 2026-10-07。⚠️判定時の留保: ①新記事の表示は cohort-01-description の正規化子（残余）に入るため、cohort-01 の判定時は残余から hydrocolloid-bandage-comparison も控除する ②公開後に URL 検査からインデックス登録をリクエストしないと窓が空振りしうる（ユーザー作業）。bandage-comparison 本体は R3 判定不能層のため凍結・記帳なし（商品構成 10→9 選・本文改稿は保守作業扱い）。",
+      "source": "project_measurement_holds"
     }
   ],
   "prohibitions": [

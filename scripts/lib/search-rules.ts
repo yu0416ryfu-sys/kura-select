@@ -409,8 +409,13 @@ export const CATEGORY_SEARCH_RULES: Record<string, RawSearchRule> = {
   },
   'bandage': {
     keywords: ['絆創膏 まとめ買い', '絆創膏 防水', 'ばんそうこう 大容量'],
-    include: ['絆創膏', 'ばんそうこう', 'バンソウコウ', 'キズパワーパッド', 'ケアリーヴ', 'バンドエイド', 'ワンタッチパッド', 'ワンタッチパット', '救急ばんそうこう', '救急絆創膏'],
-    exclude: ['絆創膏ケース', 'ケース', 'ホルダー', 'サポーター', 'テーピング', 'マスク', 'ガーゼ単体', '消毒', '綿棒', '指サック', 'お菓子'],
+    include: ['絆創膏', 'ばんそうこう', 'バンソウコウ', 'ケアリーヴ', 'バンドエイド', 'ワンタッチパッド', 'ワンタッチパット', '救急ばんそうこう', '救急絆創膏', '救急バン'],
+    // ハイドロコロイドは hydrocolloid-bandage 記事、キャラクター柄（子ども向け）は扱わない方針（2026-09-23 ユーザー判断）
+    exclude: [
+      '絆創膏ケース', 'ケース', 'ホルダー', 'サポーター', 'テーピング', 'マスク', 'ガーゼ単体', '消毒', '綿棒', '指サック', 'お菓子',
+      'ハイドロコロイド', 'キズパワーパッド', '治す力', 'ハイドロ', 'キズクイック', 'モイスト',
+      'キャラクター', 'サンリオ', 'すみっコ', 'キティ', 'ミッフィー', 'ディズニー', 'ポケモン', 'キッズ', '子供', '子ども', 'こども', '男の子', '女の子',
+    ],
     units: ['枚', '個'],
   },
   'disposable-tableware': {
@@ -791,6 +796,24 @@ export const DIAPER_NIGHT_EXCLUDE_TERMS = [
 ];
 
 export function getArticleSpecificAdditionRule(category: string, baseKeyword: string): RawSearchRule | null {
+  // 絆創膏カテゴリは一般絆創膏（bandage）とハイドロコロイド（hydrocolloid-bandage）の2記事で共有する
+  if (category === 'bandage' && /ハイドロコロイド/.test(baseKeyword)) {
+    return {
+      keywords: ['ハイドロコロイド 絆創膏', 'キズパワーパッド', 'ケアリーヴ 治す力'],
+      include: ['ハイドロコロイド', 'キズパワーパッド', '治す力', 'ハイドロ救急バン', 'キズクイック'],
+      exclude: [
+        'ニキビ', 'にきび', 'スポットエイド', '靴擦れ防止', 'かかと', 'インソール', 'ロール', 'フリーサイズ',
+        'サポーター', 'ケース', 'キャラクター', 'サンリオ', 'キッズ', '子供', '子ども',
+      ],
+      units: ['枚'],
+      minScore: 4,
+    };
+  }
+
+  if (category === 'bandage') {
+    return CATEGORY_SEARCH_RULES['bandage'];
+  }
+
   if (category === 'cooking-pot' && /フライパン/.test(baseKeyword)) {
     return {
       keywords: ['IH対応 フライパン 26cm', 'フライパン 26cm IH ガス火対応', '取っ手が外れる フライパン 26cm IH'],
