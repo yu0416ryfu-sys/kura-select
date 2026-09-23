@@ -187,6 +187,25 @@
       "lastCrawlAtApply": {
         "mukokukan-vs-shoshuriki-comparison": "2026-09-11T12:15:12Z"
       }
+    },
+    {
+      "slug": "kairo-comparison",
+      "releaseDate": "2026-10-08",
+      "releaseLabel": "2026-10-07",
+      "targetType": "new-article",
+      "startedAt": "2026-09-23",
+      "searchNeed": "冬の通勤・屋外作業・スポーツ観戦に備えて使い捨てカイロをまとめ買いしたい人が、貼る・貼らない・ミニのどれを何個買えば1個あたり安く済むかを知りたくて検索している。GSC では需要を実測できていない（既存記事で「カイロ」を含むクエリの表示0）季節先行の一般名詞記事なので、離陸すれば表示/日と表示加重平均順位に出るはず",
+      "measures": [
+        "表示/日",
+        "表示加重平均順位",
+        "インデックス登録（lastCrawlTime）"
+      ],
+      "actions": [
+        "新規記事公開（10選・カテゴリ kairo 新設）＋保冷剤記事 cooling-pack のまとめ末尾から被リンク1本"
+      ],
+      "simultaneous": false,
+      "note": "2026-09-23 の kura-article-recommend で季節先行枠として提案、ユーザー判断で同日公開。判定は公開2週後の順位帯（CLAUDE.md §5.0.2 手順6）＝判定日 2026-10-07。⚠️判定時に必ず併記する留保: ①判定窓（09-23〜10-07）は需要の立ち上がり前で、表示が少なくても「未離陸」と断定しない（季節性）②新記事の表示は cohort-01-description の正規化子（全記事ページの残余）に入るため、cohort-01 の判定時は残余から kairo-comparison を控除する ③deodorizing-bag の教訓どおり、公開後に URL 検査からインデックス登録をリクエストしないと窓が空振りしうる（ユーザー作業）。cooling-pack は凍結対象外（被リンク追加のみ）。",
+      "source": "project_measurement_holds"
     }
   ],
   "prohibitions": [
