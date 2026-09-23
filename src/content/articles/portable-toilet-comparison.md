@@ -93,7 +93,7 @@ products:
     price: 1280
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7309
+    reviewCount: 7310
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -241,7 +241,7 @@ products:
     price: 1380
     capacity: "20回分"
     rating: 4.52
-    reviewCount: 7226
+    reviewCount: 7227
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"

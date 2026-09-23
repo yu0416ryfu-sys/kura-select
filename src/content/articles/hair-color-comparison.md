@@ -94,7 +94,7 @@ products:
     capacity: "400g"
     pricePerUnit: "約15円/g"
     rating: 4.38
-    reviewCount: 8346
+    reviewCount: 8350
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -230,8 +230,8 @@ products:
     price: 11000
     capacity: "2本"
     pricePerUnit: "約5500円/本"
-    rating: 4.59
-    reviewCount: 27
+    rating: 4.61
+    reviewCount: 28
     features:
       - "植物エキス配合のボタニカル泡タイプヘアカラー"
       - "脱色せずに染めるタイプで髪へのダメージを抑えた設計"

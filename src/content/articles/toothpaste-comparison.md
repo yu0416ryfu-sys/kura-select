@@ -262,7 +262,7 @@ products:
     price: 2580
     capacity: "120g"
     rating: 4.48
-    reviewCount: 2357
+    reviewCount: 2360
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"

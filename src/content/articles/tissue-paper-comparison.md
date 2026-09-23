@@ -218,7 +218,7 @@ products:
     price: 2645
     capacity: "150組×50個（7500組）"
     rating: 4.55
-    reviewCount: 839
+    reviewCount: 840
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"
@@ -241,7 +241,7 @@ products:
     price: 1600
     capacity: "200組×80個"
     rating: 4.66
-    reviewCount: 1306
+    reviewCount: 1307
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"

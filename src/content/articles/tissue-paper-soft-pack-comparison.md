@@ -69,8 +69,8 @@ products:
     price: 7720
     capacity: "240組×80パック"
     pricePerUnit: "約0.40円/組"
-    rating: 4.88
-    reviewCount: 8
+    rating: 5
+    reviewCount: 2
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -83,8 +83,8 @@ products:
       - "紙質や肌ざわりは好みが分かれる"
       - "大容量品は置き場所の確認が必要"
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7258440%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10088618%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/thum/naosi/7258440.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7258440%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10195102%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tasya80/7258440_s.jpg?_ex=128x128"
     genreId: "100670"
   - rank: 4
     name: "ネピア ソフトパックティッシュ 240組 80パック 防災備蓄セット"
@@ -170,7 +170,7 @@ products:
     price: 2645
     capacity: "150組×50個（7500組）"
     rating: 4.55
-    reviewCount: 839
+    reviewCount: 840
     features:
       - "アイリスオーヤマのソフトパック"
       - "150組×50個のまとめ買いパック"
@@ -203,7 +203,7 @@ products:
     price: 1600
     capacity: "200組×80個"
     rating: 4.66
-    reviewCount: 1306
+    reviewCount: 1307
     features:
       - "箱を使わないソフトパック仕様"
       - "200組のたっぷり大容量"

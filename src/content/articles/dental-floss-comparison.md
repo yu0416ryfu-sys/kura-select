@@ -226,13 +226,13 @@ products:
         matchNotes: "capacity不一致: capacity不一致"
     genreId: "208218"
   - rank: 8
-    name: "フロアフロス 45m 2個セット"
+    name: "オーラルケア フロアフロス 45m×2個"
     brand: "オーラルケア"
-    price: 1595
+    price: 1430
     capacity: "45m×2個（90m）"
-    pricePerUnit: "約18円/m"
-    rating: 4.65
-    reviewCount: 1179
+    pricePerUnit: "約16円/m"
+    rating: 4.77
+    reviewCount: 30
     features:
       - "糸巻きタイプのデンタルフロス"
       - "歯間ケア向けの細い繊維設計"
@@ -245,8 +245,8 @@ products:
       - "ホルダー付きタイプが好みの人には手間に感じやすい"
       - "ワックス感や太さは使用感の好みが分かれる"
     recommendedFor: "糸巻きフロスを日常的に使いたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008759%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0919_p5/kirikae2/49759_n.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp280%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10011276%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_0919_p5/kirikae3/49759_n.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

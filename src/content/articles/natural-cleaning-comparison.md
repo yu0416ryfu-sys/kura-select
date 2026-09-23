@@ -241,7 +241,7 @@ products:
     capacity: "5kg"
     pricePerUnit: "約718円/kg"
     rating: 4.78
-    reviewCount: 265
+    reviewCount: 266
     features:
       - "食品添加物規格・純度99.5%以上の高純度クエン酸"
       - "酸性タイプで水垢・石灰スケール・尿石を溶かす"

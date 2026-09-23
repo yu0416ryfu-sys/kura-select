@@ -177,12 +177,12 @@ products:
         available: true
     genreId: "112779"
   - rank: 6
-    name: "マーナ パン冷凍保存袋 一斤 2枚入り"
+    name: "マーナ パン冷凍保存袋 一斤用 2枚入"
     brand: "マーナ"
-    price: 980
+    price: 979
     capacity: "2枚"
     pricePerUnit: "約490円/枚"
-    rating: 4
+    rating: 5
     reviewCount: 1
     features:
       - "ポリエチレン・PET複合フィルムで冷凍対応の専用設計"
@@ -196,8 +196,8 @@ products:
       - "1セット2枚入りのため複数本まとめて冷凍したい場合は複数購入が必要"
       - "パン専用設計のため汎用保存袋としての用途は限定的"
     recommendedFor: "パンをまとめ買いして冷凍保存する方・食パンの鮮度を保ちたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2q3n.3rdw68dd.g00r2q3n.3rdw7aa4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fc-market%2Fmarna-k782%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fc-market%2Fi%2F10005912%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/c-market/cabinet/08477376/imgrc0103900684.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q4sgn.3rdw6bbc.g00q4sgn.3rdw7a08/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcucina%2Fc3355-0458%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcucina%2Fi%2F10008660%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cucina/cabinet/08973932/c3355-0458-1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

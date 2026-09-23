@@ -1,6 +1,6 @@
 ---
 title: "IH対応フライパンおすすめ比較7選｜26cmの選び方"
-description: "IH対応フライパンを26cm中心に8製品比較。軽量タイプ、セラミック加工、取っ手が外れるタイプなどを選び方とあわせて紹介します。"
+description: "IH対応フライパンを26cm中心に7製品比較。軽量タイプ、セラミック加工、取っ手が外れるタイプなどを選び方とあわせて紹介します。"
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"

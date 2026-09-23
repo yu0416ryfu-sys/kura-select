@@ -144,6 +144,40 @@ products:
         available: true
     genreId: "565715"
   - rank: 5
+    name: "ロイヤルカナン ダックスフンド 成犬用 3kg"
+    brand: "ロイヤルカナン"
+    price: 4850
+    capacity: "3kg"
+    rating: 4.61
+    reviewCount: 213
+    features:
+      - "ダックスフンド専用に設計された犬種別ドライフード（生後10ヶ月齢以上対象）"
+      - "オメガ3脂肪酸（EPA+DHA）・L-カルニチン配合の栄養設計"
+      - "ジッパー付きパッケージで開封後の保管がしやすい"
+    pros:
+      - "ダックスフンド専用設計のため犬種の体型・特性に合わせた栄養バランスが明確"
+      - "ロイヤルカナンの犬種別シリーズとして品質管理が一定で継続使用実績が多い"
+      - "ジッパー付きで保管しやすく、少量ずつ使い切りやすい"
+    cons:
+      - "ダックスフンド専用のため他犬種には適さない"
+      - "犬種別専用品のため汎用フードよりg単価が高くなりやすい"
+    recommendedFor: "ダックスフンドを飼育している方・犬種別設計フードを使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2F50663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10003619%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/50663.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
+        matchStatus: "matched"
+        updatedAt: "2026-09-16"
+        price: 5148
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
+        available: true
+        rating: 4.56
+        reviewCount: 16
+    genreId: "565715"
+    pricePerUnit: "約1617円/kg"
+  - rank: 6
     name: "ニュートロ ナチュラルチョイス 小型犬用 成犬用 チキン&玄米 6kg"
     brand: "ニュートロ"
     price: 11364
@@ -177,7 +211,7 @@ products:
         rating: 4.72
         reviewCount: 172
     genreId: "565715"
-  - rank: 6
+  - rank: 7
     name: "アーテミス フレッシュミックス スモールブリードアダルト 3kg"
     brand: "アーテミス"
     price: 5830
@@ -210,40 +244,6 @@ products:
         reviewCount: 103
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_0813369001904"
         available: true
-    genreId: "565715"
-  - rank: 7
-    name: "ロイヤルカナン ダックスフンド 成犬用"
-    brand: "ロイヤルカナン"
-    price: 4988
-    capacity: "3kg"
-    rating: 4.71
-    reviewCount: 184
-    features:
-      - "ダックスフンド専用に設計された犬種別ドライフード（生後10ヶ月齢以上対象）"
-      - "オメガ3脂肪酸（EPA+DHA）・L-カルニチン配合の栄養設計"
-      - "ジッパー付きパッケージで開封後の保管がしやすい"
-    pros:
-      - "ダックスフンド専用設計のため犬種の体型・特性に合わせた栄養バランスが明確"
-      - "ロイヤルカナンの犬種別シリーズとして品質管理が一定で継続使用実績が多い"
-      - "ジッパー付きで保管しやすく、少量ずつ使い切りやすい"
-    cons:
-      - "ダックスフンド専用のため他犬種には適さない"
-      - "犬種別専用品のため汎用フードよりg単価が高くなりやすい"
-    recommendedFor: "ダックスフンドを飼育している方・犬種別設計フードを使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F9214451%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10000305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/royalcanin/9214451main.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-16"
-        price: 5148
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
-        available: true
-        rating: 4.56
-        reviewCount: 16
-    priceMax: 17950
     genreId: "565715"
   - rank: 8
     name: "ナチュラルハーベスト メンテナンス ラム (大粒) ドッグフード 犬 ドライフード"

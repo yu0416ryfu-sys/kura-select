@@ -201,29 +201,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sarasa-designstore/cabinet/c01/cr001-cr002.jpg?_ex=128x128"
     genreId: "567230"
   - rank: 8
-    name: "アイム ミラクルくる 替えテープ 抗菌加工"
-    brand: "アイム"
-    price: 4300
-    capacity: "70周×8袋"
-    pricePerUnit: "約7.7円/周"
-    rating: 4.67
-    reviewCount: 36
-    features:
-      - "カーペットや衣類のホコリ取りに使える"
-      - "本体または替えテープとして選べる"
-      - "日常掃除に取り入れやすい"
-    pros:
-      - "手軽に掃除できる"
-      - "ペット毛や髪の毛対策に向く"
-      - "ストックしやすい"
-    cons:
-      - "対応サイズの確認が必要"
-      - "床材によって使い分けが必要"
-    recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0k0n.3rdw6b8e.g00u0k0n.3rdw7ca2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimximx%2F4978406022581-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimximx%2Fi%2F10000028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/imximx/cabinet/compass1726811766.jpg?_ex=128x128"
-    genreId: "567230"
-  - rank: 9
     name: "LIFELEX 伸縮タイプ 粘着クリーナー"
     brand: "LIFELEX"
     price: 1990
@@ -245,6 +222,29 @@ products:
     recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u7mtn.3rdw60c8.g00u7mtn.3rdw7b25/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhihirose%2F090102024522831996070%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhihirose%2Fi%2F10015591%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hihirose/cabinet/11747284/4522831996070_01.jpg?_ex=128x128"
+    genreId: "567230"
+  - rank: 9
+    name: "アイム ミラクルくる 替えテープ 抗菌加工 70周 1袋"
+    brand: "アイム"
+    price: 598
+    capacity: "70周×1袋"
+    pricePerUnit: "約8.5円/周"
+    rating: 4.8
+    reviewCount: 5
+    features:
+      - "カーペットや衣類のホコリ取りに使える"
+      - "本体または替えテープとして選べる"
+      - "日常掃除に取り入れやすい"
+    pros:
+      - "手軽に掃除できる"
+      - "ペット毛や髪の毛対策に向く"
+      - "ストックしやすい"
+    cons:
+      - "対応サイズの確認が必要"
+      - "床材によって使い分けが必要"
+    recommendedFor: "粘着クリーナーを本体・替えテープで比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0k0n.3rdw6b8e.g00u0k0n.3rdw7ca2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimximx%2F4978406022581-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimximx%2Fi%2F10000042%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/imximx/cabinet/compass1726808768.jpg?_ex=128x128"
     genreId: "567230"
   - rank: 10
     name: "アイリスオーヤマ 粘着クリーナー スペアテープ 90巻入り"

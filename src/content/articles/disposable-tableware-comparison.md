@@ -118,8 +118,8 @@ products:
       - "1個あたりの単価は大容量タイプより高め"
       - "料理をたっぷり盛るには向かない小ぶりなサイズ"
     recommendedFor: "小鉢や薬味皿として使いたい方・食卓を華やかに見せたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pajin.3rdw665b.g00pajin.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnuts%2Fdm-012r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnuts%2Fi%2F10020593%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nuts/cabinet/nuts_gazo/item_kitchen/small_cup.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ril6n.3rdw628b.g00ril6n.3rdw7d37/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fconohana%2Fwasara-choko%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fconohana%2Fi%2F10000501%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/conohana/products/wasara/choko/wasara-choko.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -131,7 +131,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nuts_wa-dm-012r"
         available: true
-    genreId: "215980"
+    genreId: "564993"
   - rank: 5
     name: "ワサラ コーヒーカップ 紙の器 6個セット"
     brand: "WASARA（ワサラ）"

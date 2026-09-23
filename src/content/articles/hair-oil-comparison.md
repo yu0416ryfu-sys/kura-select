@@ -1,6 +1,6 @@
 ---
 title: "ヘアオイル コスパ比較【2026年版】洗い流さないトリートメント おすすめ10選"
-description: "洗い流さないヘアオイルを1mLあたりの単価で比較。サロン系・プチプラ・ナイトケアなど人気11商品を成分・仕上がり・容量で徹底比較します。"
+description: "洗い流さないヘアオイルを1mLあたりの単価で比較。サロン系・プチプラ・ナイトケアなど人気10商品を成分・仕上がり・容量で徹底比較します。"
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
@@ -183,7 +183,7 @@ products:
     price: 2280
     capacity: "80mL"
     rating: 4.64
-    reviewCount: 13870
+    reviewCount: 13872
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -217,7 +217,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4246
+    reviewCount: 4247
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"

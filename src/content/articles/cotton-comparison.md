@@ -98,13 +98,13 @@ products:
         reviewCount: 5
     genreId: "111797"
   - rank: 4
-    name: "【1点限り！令和お試し価格】ユニ・チャーム シルコット うるうる コットン"
+    name: "ユニ・チャーム シルコット うるうるコットン 80枚"
     brand: "ユニ・チャーム（シルコット）"
-    price: 360
+    price: 384
     capacity: "80枚"
-    pricePerUnit: "約4.5円/枚"
-    rating: 4.67
-    reviewCount: 24
+    pricePerUnit: "約4.8円/枚"
+    rating: 4.88
+    reviewCount: 8
     features:
       - "ウルトラ吸水加工で化粧水を繊維内にたっぷり保持"
       - "独自の波形加工で摩擦が少なく肌へのダメージを軽減"
@@ -117,7 +117,7 @@ products:
       - "1枚単価は比較商品の中では高め"
       - "容量表記は販売ページの更新により変わる場合がある"
     recommendedFor: "化粧水をたっぷり使いたい方・肌が敏感な方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903111456789-today%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12194578%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903111456789%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12172563%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4903111456789.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"

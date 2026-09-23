@@ -105,7 +105,7 @@ products:
     capacity: "600g"
     pricePerUnit: "約1.9円/g"
     rating: 4.52
-    reviewCount: 405
+    reviewCount: 406
     features:
       - "植物由来ミネラル成分を使った無臭・無香料タイプ"
       - "置き型で玄関やクローゼットなど幅広い場所に使える"

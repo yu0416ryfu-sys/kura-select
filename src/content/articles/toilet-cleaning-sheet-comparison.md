@@ -269,6 +269,29 @@ products:
         available: true
     genreId: "508447"
   - rank: 9
+    name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×3個"
+    brand: "花王（クイックル）"
+    price: 1410
+    capacity: "16枚×3個（48枚）"
+    rating: 4.8
+    reviewCount: 10
+    features:
+      - "強い除菌成分配合のトイレ掃除シート"
+      - "プレミアムローズの香り"
+      - "便座やドアの取っ手まわりの拭き掃除に対応"
+    pros:
+      - "6袋セットでまとめ買いしやすい"
+      - "香り付きでトイレ空間を快適に保ちやすい"
+      - "除菌力を重視したい人に向く"
+    cons:
+      - "無香料を好む人には香りが強く感じる場合がある"
+      - "一度に流せる枚数を守る必要がある"
+    recommendedFor: "除菌力と香りの両方を重視したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00upj3n.3rdw6ae7.g00upj3n.3rdw77a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffansfactory%2F4901301417695-3set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffansfactory%2Fi%2F10011175%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fansfactory/cabinet/images191/4901301417695-3set_1.jpg?_ex=128x128"
+    genreId: "216022"
+    pricePerUnit: "約29円/枚"
+  - rank: 10
     name: "エリエール ミチガエル トイレクリーナー 本体 10枚"
     brand: "大王製紙（エリエール）"
     price: 299
@@ -301,29 +324,6 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-30881"
         available: true
-    genreId: "216022"
-  - rank: 10
-    name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×3個"
-    brand: "花王（クイックル）"
-    price: 1560
-    capacity: "16枚×3個（48枚）"
-    rating: 4.8
-    reviewCount: 10
-    features:
-      - "強い除菌成分配合のトイレ掃除シート"
-      - "プレミアムローズの香り"
-      - "便座やドアの取っ手まわりの拭き掃除に対応"
-    pros:
-      - "6袋セットでまとめ買いしやすい"
-      - "香り付きでトイレ空間を快適に保ちやすい"
-      - "除菌力を重視したい人に向く"
-    cons:
-      - "無香料を好む人には香りが強く感じる場合がある"
-      - "一度に流せる枚数を守る必要がある"
-    recommendedFor: "除菌力と香りの両方を重視したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00su2mn.3rdw6afc.g00su2mn.3rdw77f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fu-denki%2F7256844%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fu-denki%2Fi%2F10049024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/u-denki/cabinet/11925706/7256844-p.jpg?_ex=128x128"
-    priceMax: 1570
     genreId: "216022"
 tags:
   - "トイレ掃除シート おすすめ"

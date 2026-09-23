@@ -258,7 +258,7 @@ products:
     price: 7480
     capacity: "1枚"
     rating: 4.59
-    reviewCount: 29442
+    reviewCount: 29443
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"

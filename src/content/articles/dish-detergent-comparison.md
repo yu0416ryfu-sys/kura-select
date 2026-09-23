@@ -1,6 +1,6 @@
 ---
-title: "食器用洗剤 コスパ最強ランキング【2026年版】おすすめ9選｜フロッシュ・ヤシノミ比較"
-description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ、キュキュット、フロッシュ、ヤシノミ洗剤など人気9選をコスパ最強ランキングで紹介。油汚れ・手荒れ対策・大容量の3軸で解説します。"
+title: "食器用洗剤 コスパ最強ランキング【2026年版】おすすめ8選｜ヤシノミ・ジョイ比較"
+description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ、チャーミー、ヤシノミ洗剤、緑の魔女など人気8選をコスパ最強ランキングで紹介。油汚れ・手荒れ対策・大容量の3軸で解説します。"
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
@@ -115,7 +115,7 @@ products:
     capacity: "5000mL"
     pricePerUnit: "約0.63円/mL"
     rating: 4.58
-    reviewCount: 137
+    reviewCount: 138
     features:
       - "無香料・無着色・無添加の低刺激処方"
       - "5L大容量で業務用レベルのコスパを実現"
@@ -234,39 +234,6 @@ products:
         reviewCount: 0
     genreId: "216012"
   - rank: 8
-    name: "フロッシュ 食器用洗剤 アロエベラ 1000mL×2本"
-    brand: "フロッシュ（Werner & Mertz）"
-    price: 2980
-    capacity: "1000mL×2本（2000mL）"
-    pricePerUnit: "約1.5円/mL"
-    rating: 5
-    reviewCount: 4
-    features:
-      - "アロエベラ配合で手肌に優しい低刺激処方"
-      - "100%リサイクルPET容器使用の環境配慮型ボトル"
-      - "生分解性100%（OECD302B試験済み）のエコ洗剤"
-    pros:
-      - "アロエベラ配合で手荒れが気になる方にも使いやすい"
-      - "1000mL×4本の大容量で詰め替え頻度を大幅削減"
-      - "環境負荷が低く、エコ志向の方に向いている"
-    cons:
-      - "4本セットのため保管スペースの確保が必要"
-      - "まとめ買い形式で少量から試しにくい"
-    recommendedFor: "手荒れ対策と環境配慮を両立しつつ大容量でコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u8nmn.3rdw604a.g00u8nmn.3rdw7c76/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-temp%2Fico2867%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-temp%2Fi%2F10002854%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-temp/cabinet/12659768/ico2867.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fifc-valuetrust%2Fb07kzgjhtd20250718.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-16"
-        price: 1699
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ifc-valuetrust_b07kzgjhtd20250718"
-        available: true
-  - rank: 9
     name: "IVORY ディッシュソープ クラシック 食器用洗剤 709mL×2本"
     brand: "IVORY"
     price: 3468
@@ -373,7 +340,7 @@ faqs:
 |--------|-------------|------|
 | 無香料・無添加タイプ | 緑の魔女 キッチン 5L | 香りが控えめで、手荒れが気になる方にも使いやすい |
 | 植物由来・野菜洗浄対応タイプ | ヤシノミ洗剤、SOMALI | 食材洗いにも対応する商品があり、低刺激志向の方に向く |
-| 洗浄力・除菌重視タイプ | JOY、キュキュット、CHARMY Magica | 油汚れや衛生面を重視したい家庭に向く |
+| 洗浄力・除菌重視タイプ | JOY、CHARMY Magica | 油汚れや衛生面を重視したい家庭に向く |
 
 手荒れ対策を最優先するなら、ヤシノミ洗剤・SOMALI・緑の魔女のような低刺激系を候補にしつつ、長時間の水仕事ではゴム手袋も併用すると安心です。油汚れが多い家庭では、低刺激系だけに寄せすぎると洗浄力が物足りない場合があるため、用途に合わせて使い分けましょう。
 
@@ -381,7 +348,7 @@ faqs:
 
 ## フロッシュとヤシノミ洗剤はどちらがコスパ良い？
 
-フロッシュとヤシノミ洗剤は、どちらも手荒れ対策・環境配慮として選ばれる食器用洗剤ですが、得意な用途が違います。掲載済み商品の特徴で比較します（最新の順位・価格はページ上部の比較表をご確認ください）。
+フロッシュとヤシノミ洗剤は、どちらも手荒れ対策・環境配慮として選ばれる食器用洗剤ですが、得意な用途が違います。ブランドの一般的な特徴で比較します（フロッシュは現在ランキングに掲載していません。ヤシノミ洗剤の最新の順位・価格はページ上部の比較表をご確認ください）。
 
 単価を比べるときは、**本体ボトルのまとめ買いと小容量の詰め替えを突き合わせない**のが鉄則です。売り方の違いが単価差として出てしまい、ブランドの実力を比べたことになりません。詰め替えパック同士でそろえると、1mLあたり単価はヤシノミ洗剤のほうが安く収まりやすい傾向です。
 

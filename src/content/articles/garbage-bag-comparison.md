@@ -239,8 +239,8 @@ products:
     brand: "スマートエール"
     price: 1000
     capacity: "100枚"
-    rating: 4.68
-    reviewCount: 65
+    rating: 4.65
+    reviewCount: 66
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
