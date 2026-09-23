@@ -4,7 +4,7 @@ description: "制汗剤・デオドラントを容量あたりのコストで比
 category: "deodorant"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "Ban 汗ブロックロールオン プレミアムゴールドラベル 40mL"
@@ -81,7 +81,7 @@ products:
     capacity: "30mL"
     pricePerUnit: "約110円/mL"
     rating: 4.51
-    reviewCount: 428
+    reviewCount: 430
     features:
       - "ロールオンで塗れるジェルクリームタイプ"
       - "手を汚しにくくワキへ直塗りしやすい"
@@ -115,7 +115,7 @@ products:
     capacity: "20mL×2個"
     pricePerUnit: "約159円/mL"
     rating: 4.32
-    reviewCount: 704
+    reviewCount: 705
     features:
       - "敏感肌向けのロールオン制汗デオドラント"
       - "無香料で使いやすい海外製アイテム"
@@ -138,7 +138,7 @@ products:
     capacity: "20mL×2個"
     pricePerUnit: "約159円/mL"
     rating: 4.41
-    reviewCount: 506
+    reviewCount: 507
     features:
       - "オリジナルタイプのロールオン制汗デオドラント"
       - "無香料で汗とニオイのケアに使いやすい"
@@ -161,7 +161,7 @@ products:
     capacity: "20ml"
     pricePerUnit: "約167円/ml"
     rating: 4.14
-    reviewCount: 1680
+    reviewCount: 1681
     features:
       - "ロールオンタイプの制汗デオドラント"
       - "無香料タイプ"
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F7250013.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 1270
         rating: 0
         reviewCount: 0
@@ -271,7 +271,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000039445.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 4950
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosmecom_1000039445"
         available: true
@@ -305,7 +305,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbenkyoudou%2Fyo-yumail-4580392000254.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 1800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/benkyoudou_yo-yumail-4580392000254"
         available: true

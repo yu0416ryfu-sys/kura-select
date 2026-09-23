@@ -4,7 +4,7 @@ description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚�
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 draft: false
 products:
   - rank: 1
@@ -195,7 +195,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580173961293.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 550
         rating: 0
         reviewCount: 2
@@ -229,7 +229,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4580173961811.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 1078
         rating: 0
         reviewCount: 0

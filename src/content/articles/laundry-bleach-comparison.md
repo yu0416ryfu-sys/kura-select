@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
@@ -47,7 +47,7 @@ products:
     capacity: "820ml×3セット（2460ml）"
     pricePerUnit: "約0.64円/ml"
     rating: 4.84
-    reviewCount: 91
+    reviewCount: 92
     features:
       - "液体タイプの衣料用酸素系漂白剤"
       - "洗剤と一緒に洗濯機へ入れて使う設計"
@@ -90,7 +90,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F574939.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 3960
         rating: 0
         reviewCount: 0
@@ -124,7 +124,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F34562.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 996
         rating: 4.5
         reviewCount: 4
@@ -138,7 +138,7 @@ products:
     capacity: "450ml×6袋（2700ml）"
     pricePerUnit: "約1.1円/ml"
     rating: 4.8
-    reviewCount: 238
+    reviewCount: 240
     features:
       - "抗菌成分を配合した液体タイプの酸素系漂白剤"
       - "部屋干し時の菌のケアを想定した処方"
@@ -202,11 +202,11 @@ products:
   - rank: 7
     name: "オキシクリーン 計量スプーン付き 5.26kg"
     brand: "グラフィコ（オキシクリーン）"
-    price: 3347
+    price: 3450
     capacity: "5.26kg"
-    pricePerUnit: "約0.64円/g"
+    pricePerUnit: "約0.66円/g"
     rating: 4.64
-    reviewCount: 1436
+    reviewCount: 1437
     features:
       - "酸素系漂白剤の代名詞的ブランド"
       - "衣類・洗濯槽・キッチン・風呂と多用途"
@@ -283,7 +283,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fipstyle%2F12003.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 3520
         rating: 5
         reviewCount: 3

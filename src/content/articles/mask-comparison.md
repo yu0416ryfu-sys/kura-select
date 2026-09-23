@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "WEIMALL 不織布カラーマスク 立体3D 50枚"
@@ -13,7 +13,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約9.0円/枚"
     rating: 4.19
-    reviewCount: 2342
+    reviewCount: 2343
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -126,7 +126,7 @@ products:
     price: 264
     capacity: "50枚"
     rating: 4.2
-    reviewCount: 22196
+    reviewCount: 22204
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -205,7 +205,7 @@ products:
     price: 328
     capacity: "20枚"
     rating: 4.06
-    reviewCount: 9233
+    reviewCount: 9236
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -239,7 +239,7 @@ products:
     price: 2380
     capacity: "120枚"
     rating: 4.19
-    reviewCount: 2738
+    reviewCount: 2739
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -259,7 +259,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-ife-reborn%2Fmask120kfst.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 2680
         rating: 5
         reviewCount: 3

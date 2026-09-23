@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット"
@@ -56,7 +56,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fa-kustore%2F4903301166054s3.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 1440
         rating: 0
         reviewCount: 0
@@ -215,8 +215,8 @@ products:
     brand: "from COCORO"
     price: 550
     capacity: "48ml"
-    rating: 4.27
-    reviewCount: 249
+    rating: 4.26
+    reviewCount: 250
     features:
       - "子ども向けの歯みがき用品"
       - "ジェルや泡タイプなど使いやすさで選べる"

@@ -4,7 +4,7 @@ description: "トイレ用洗剤を1回あたりのコストで徹底比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "ドメスト 除菌クリーナー 500ml×3個セット"
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4903301118336.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-01"
+        updatedAt: "2026-09-23"
         price: 244
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4903301118336"
         available: true
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzozo%2F47433692.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-22"
+        updatedAt: "2026-09-23"
         price: 880
         rating: 0
         reviewCount: 2

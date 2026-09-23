@@ -4,7 +4,7 @@ description: "ボディソープを1gあたりのコストで比較。ダヴ・h
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
@@ -33,8 +33,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F57777.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
-        price: 1980
+        updatedAt: "2026-09-23"
+        price: 2280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_57777"
         available: true
         rating: 4.75
@@ -144,7 +144,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhealingvillage%2Fmndmrw-kbwt0.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 1227
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/healingvillage_mndmrw-kbwt0"
         available: true
@@ -246,8 +246,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901301289353.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
-        price: 764
+        updatedAt: "2026-09-23"
+        price: 765
         rating: 4.7
         reviewCount: 23
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901301289353"

@@ -4,7 +4,7 @@ description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹
 category: "contact-lens"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "ロートCキューブ ソフトワン モイストa"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcontact-clean%2F284.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 3230
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/contact-clean_284"
         available: true
@@ -47,7 +47,7 @@ products:
     capacity: "500mL×6本"
     pricePerUnit: "約1.1円/mL"
     rating: 4.88
-    reviewCount: 1285
+    reviewCount: 1286
     features:
       - "ソフトコンタクトレンズ用の洗浄・すすぎ・消毒・保存液"
       - "大きめボトルを複数本そろえられるセット構成"
@@ -90,7 +90,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffirstcontact%2F478.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 3840
         rating: 4.86
         reviewCount: 14
@@ -104,7 +104,7 @@ products:
     capacity: "355mL×12本"
     pricePerUnit: "約1.1円/mL"
     rating: 4.81
-    reviewCount: 3003
+    reviewCount: 3006
     features:
       - "ソフトコンタクトレンズ用の洗浄・保存液セット"
       - "ボシュロムのレニューフレッシュを大容量で用意できる"
@@ -124,12 +124,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworld-cl%2F2019016.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
-        price: 4170
+        updatedAt: "2026-09-23"
+        price: 4440
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/world-cl_2019016"
         available: true
         rating: 4.79
-        reviewCount: 385
+        reviewCount: 386
     genreId: "509123"
   - rank: 5
     name: "レニューフレッシュ 355ml 12本セット"
@@ -158,12 +158,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworld-cl%2F2019016.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
-        price: 4170
+        updatedAt: "2026-09-23"
+        price: 4440
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/world-cl_2019016"
         available: true
         rating: 4.79
-        reviewCount: 385
+        reviewCount: 386
     genreId: "509123"
   - rank: 6
     name: "レニューフレッシュ 355ml 10本"
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffirstcontact%2F478.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 3840
         rating: 4.86
         reviewCount: 14
@@ -226,10 +226,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworld-cl%2F59.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 2096
-        rating: 4.59
-        reviewCount: 78
+        rating: 4.58
+        reviewCount: 79
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/world-cl_59"
         available: true
     genreId: "408109"
@@ -283,12 +283,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ficare%2Fbid-car-10014.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 4200
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/icare_bid-car-10014"
         available: true
         rating: 4.77
-        reviewCount: 86
+        reviewCount: 87
     genreId: "214884"
   - rank: 10
     name: "コンセプト ワンステップ トリプルパック"
@@ -316,7 +316,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flensfree%2Famsoco300t-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 4800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lensfree_amsoco300t-2"
         available: true

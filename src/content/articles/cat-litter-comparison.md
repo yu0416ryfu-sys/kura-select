@@ -4,7 +4,7 @@ description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペ
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 draft: false
 products:
   - rank: 1
@@ -105,7 +105,7 @@ products:
     capacity: "6L×8袋（48L）"
     pricePerUnit: "約104円/L"
     rating: 4.59
-    reviewCount: 3340
+    reviewCount: 3343
     features:
       - "国産おから（大豆粕）由来の植物系猫砂"
       - "トイレに流せる・燃えるゴミに出せる処理方法の選択肢が広い"
@@ -125,12 +125,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101386ku.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 4980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101386ku"
         available: true
-        rating: 4.66
-        reviewCount: 199
+        rating: 4.65
+        reviewCount: 200
     genreId: "204174"
   - rank: 5
     name: "炭の猫砂 まとめ買いセット"
@@ -162,7 +162,7 @@ products:
     capacity: "6L×4袋（24L）"
     pricePerUnit: "約132円/L"
     rating: 4.78
-    reviewCount: 1823
+    reviewCount: 1824
     features:
       - "天然木（松）由来の木製猫砂・システムトイレ対応"
       - "無臭タイプで木の自然な消臭機能を活かした設計"
@@ -216,7 +216,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903351011250x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 2701
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903351011250x4"
         available: true
@@ -229,7 +229,7 @@ products:
     price: 2680
     capacity: "5L×4袋（20L）"
     rating: 4.61
-    reviewCount: 1962
+    reviewCount: 1963
     features:
       - "ベントナイト鉱物系・ペレットタイプの固まる猫砂"
       - "抗菌・脱臭機能付きで衛生管理を考慮した設計"
@@ -249,7 +249,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F309805.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 2782
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_309805"
         available: true
@@ -262,8 +262,8 @@ products:
     brand: "クリーンビート"
     price: 4430
     capacity: "7L×4袋"
-    rating: 4.8
-    reviewCount: 51
+    rating: 4.79
+    reviewCount: 52
     features:
       - "大豆粕（おから）由来の植物系猫砂"
       - "トイレに流せる・燃えるゴミに出せる"
@@ -286,7 +286,7 @@ products:
     price: 4349
     capacity: "6L×3個（18L）"
     rating: 4.68
-    reviewCount: 2015
+    reviewCount: 2030
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"
@@ -306,7 +306,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F100142.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 5499
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_100142"
         available: true

@@ -4,7 +4,7 @@ description: "デンタルフロスを1回あたりのコストで比較した�
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "クリニカ アドバンテージ スポンジフロス"
@@ -195,7 +195,7 @@ products:
   - rank: 7
     name: "オーラルケア フロアフロス 250m 歯科専売品"
     brand: "fluorfloss"
-    price: 3279
+    price: 3209
     capacity: "250m"
     pricePerUnit: "約13円/m"
     rating: 4.44

@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "国内産 農家直米 白米"
@@ -127,7 +127,7 @@ products:
     recommendedFor: "産地重視で新潟県産コシヒカリを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q4ksn.3rdw606a.g00q4ksn.3rdw7324/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhseason%2Fmnnk005-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhseason%2Fi%2F10000180%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 4.64
-    reviewCount: 3557
+    reviewCount: 3558
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hseason/cabinet/00208353/04348418/muniigata_10k.jpg?_ex=128x128"
     pricePerUnit: "約700円/kg"
     offers:
@@ -262,7 +262,7 @@ products:
     price: 8250
     capacity: "18kg〜20kg"
     rating: 4.74
-    reviewCount: 45829
+    reviewCount: 45830
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

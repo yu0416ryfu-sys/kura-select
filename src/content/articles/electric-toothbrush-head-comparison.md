@@ -4,7 +4,7 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 draft: false
 products:
   - rank: 1
@@ -103,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdistore%2Feb50rx-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-23"
         price: 8480
         rating: 0
         reviewCount: 1
@@ -137,8 +137,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksdenki%2F4549980443545.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 943
+        updatedAt: "2026-09-23"
+        price: 969
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksdenki_4549980443545"
         available: true
         rating: 4.71
@@ -151,7 +151,7 @@ products:
     capacity: "6本"
     pricePerUnit: "約1390円/本"
     rating: 4.59
-    reviewCount: 214
+    reviewCount: 216
     features:
       - "iOシリーズ（iO2〜iO9）専用設計"
       - "純正品のためiO本体の自動認識機能が正常動作"
@@ -169,14 +169,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foralb-braun%2Fgentle2-4-p.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foralb-braun%2Fultimate2-4-p.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 8338
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/oralb-braun_gentle2-4-p"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/oralb-braun_ultimate2-4-p"
         available: true
-        rating: 4.73
-        reviewCount: 11
+        rating: 4.64
+        reviewCount: 45
     genreId: "208522"
   - rank: 7
     name: "オーラルB iO専用 替えブラシ ラディアントホワイト 2本"
@@ -252,7 +252,7 @@ products:
     price: 1537
     capacity: "16本"
     rating: 4.23
-    reviewCount: 1450
+    reviewCount: 1451
     features:
       - "電動歯ブラシ用の交換ブラシ"
       - "対応機種を確認して選ぶ替えブラシタイプ"

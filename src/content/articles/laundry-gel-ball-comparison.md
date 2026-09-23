@@ -4,7 +4,7 @@ description: "ジェルボール洗剤を1個あたりのコストで比較し�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -81,7 +81,7 @@ products:
     capacity: "89個"
     pricePerUnit: "約34円/個"
     rating: 4.81
-    reviewCount: 47
+    reviewCount: 48
     features:
       - "部屋干し時の生乾き臭に狙いを定めた処方"
       - "汗をかいた衣類・運動着の皮脂汚れに対応"
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F2000000160665.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-23"
         price: 2086
         rating: 4.71
         reviewCount: 7
@@ -226,7 +226,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176284648.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-23"
         price: 640
         rating: 0
         reviewCount: 0
@@ -258,13 +258,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987176292735.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176292735.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-07"
-        price: 2168
+        updatedAt: "2026-09-23"
+        price: 3380
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987176292735"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176292735"
         available: true
     genreId: "210182"
   - rank: 9
@@ -273,7 +273,7 @@ products:
     price: 3980
     capacity: "100個"
     rating: 4.73
-    reviewCount: 45
+    reviewCount: 48
     features:
       - "1袋の入り数が最大級のテラジャンボサイズ"
       - "部屋干しと運動着の両方を想定した処方"
@@ -293,7 +293,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmandmcorporation%2F4987176284518.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-23"
         price: 3980
         rating: 0
         reviewCount: 0
@@ -327,8 +327,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworldglobal%2F20250727090631-01056.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-19"
-        price: 4329
+        updatedAt: "2026-09-23"
+        price: 4270
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/worldglobal_20250727090631-01056"

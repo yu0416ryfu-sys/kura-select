@@ -4,7 +4,7 @@ description: "洗濯槽クリーナーを1回あたりのコストで徹底比�
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "過炭酸ナトリウム 酸素系漂白剤 950g"
@@ -13,7 +13,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.63円/g"
     rating: 4.76
-    reviewCount: 2110
+    reviewCount: 2116
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "pH10.5のアルカリ性で汚れに働きかける"
@@ -33,21 +33,21 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann1.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 598
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann1"
         available: true
         rating: 4.56
-        reviewCount: 2068
+        reviewCount: 2073
     genreId: "564510"
   - rank: 2
     name: "オキシクリーン マルチパーパスクリーナー 5.26kg（コストコ版）"
     brand: "オキシクリーン（Church & Dwight）"
-    price: 3347
+    price: 3450
     capacity: "5.26kg"
-    pricePerUnit: "約0.64円/g"
+    pricePerUnit: "約0.66円/g"
     rating: 4.64
-    reviewCount: 1436
+    reviewCount: 1437
     features:
       - "酸素系漂白剤で洗濯槽以外にも多用途"
       - "界面活性剤入りのアメリカ版（コストコで流通する大容量）"
@@ -67,8 +67,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbutterflyeffectllc%2F46.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-19"
+        matchStatus: "matched"
+        updatedAt: "2026-09-23"
         price: 3594
         rating: 4.8
         reviewCount: 164
@@ -103,8 +103,8 @@ products:
     price: 550
     capacity: "500g"
     pricePerUnit: "約1.1円/g"
-    rating: 4.81
-    reviewCount: 172
+    rating: 4.82
+    reviewCount: 173
     features:
       - "合成界面活性剤不使用の酸素系石けん系クリーナー"
       - "塩素系漂白剤を含まない処方"
@@ -184,7 +184,7 @@ products:
     capacity: "200g×3個（3回分）"
     pricePerUnit: "約4.2円/g"
     rating: 4.64
-    reviewCount: 802
+    reviewCount: 805
     features:
       - "酵素と塩素系成分を組み合わせたクリーナー"
       - "縦型・ドラム式両対応の設計"
@@ -227,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurashikaiteki-pro%2F10000168.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 4345
         rating: 4.21
         reviewCount: 34
@@ -274,7 +274,7 @@ products:
     price: 1584
     capacity: "1個"
     rating: 4.72
-    reviewCount: 489
+    reviewCount: 490
     features:
       - "縦型洗濯機向けの塩素系クリーナー"
       - "強力洗浄をうたう業務用レベル設計"
@@ -291,6 +291,17 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dentendo/cabinet/08/va60200108_1.jpg?_ex=128x128"
     priceMax: 5999
     genreId: "568344"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnitto-netstore%2Fsa2000223.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-23"
+        price: 3052
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nitto-netstore_sa2000223"
+        available: true
 tags:
   - "洗濯槽クリーナー"
   - "コスパ"

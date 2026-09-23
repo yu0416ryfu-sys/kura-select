@@ -168,6 +168,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F4970520461338set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10008855%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_okamoto1/4970520461338set.jpg?_ex=128x128"
     genreId: "506416"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F4970520461338set.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-23"
+        price: 6080
+        rating: 5
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_4970520461338set"
+        available: true
   - rank: 8
     name: "アイリスオーヤマ ぽかぽか家族 貼らないカイロ レギュラー 120枚"
     brand: "アイリスオーヤマ"
@@ -191,6 +202,17 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tenposupport02/7195412_enet.jpg?_ex=128x128"
     genreId: "506416"
     pricePerUnit: "約26円/個"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladybird6353%2F1919335.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-23"
+        price: 2980
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladybird6353_1919335"
+        available: true
   - rank: 9
     name: "桐灰カイロ 貼る 30個入"
     brand: "小林製薬"
@@ -237,6 +259,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6mcn.3rdw6191.g00r6mcn.3rdw73f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujix-sizai%2F4902899450040%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujix-sizai%2Fi%2F10013974%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fujix-sizai/cabinet/shohin00/st/4902899450040.jpg?_ex=128x128"
     genreId: "506417"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flamd%2Fs450057.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-23"
+        price: 8597
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lamd_s450057"
+        available: true
 tags:
   - "カイロ おすすめ"
   - "カイロ コスパ"

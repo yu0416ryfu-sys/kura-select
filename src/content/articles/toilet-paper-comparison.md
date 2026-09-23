@@ -4,7 +4,7 @@ description: "シングルのトイレットペーパーを1mあたりの単価�
 category: "toilet-paper"
 publishedAt: "2024-11-01"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "コアユース 無包装 シングル 芯なし"
@@ -46,8 +46,8 @@ products:
     price: 4980
     capacity: "150m×48ロール"
     pricePerUnit: "約0.69円/m"
-    rating: 4.76
-    reviewCount: 87
+    rating: 4.75
+    reviewCount: 88
     features:
       - "芯なし設計でゴミが出にくい環境配慮型"
       - "150mの長尺ロールで交換頻度を減らせる"
@@ -104,7 +104,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.73円/m"
     rating: 4.67
-    reviewCount: 2829
+    reviewCount: 2835
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
@@ -157,7 +157,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuasakamiten%2Fc02295.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 5954
         rating: 0
         reviewCount: 0
@@ -171,7 +171,7 @@ products:
     capacity: "110m×45ロール"
     pricePerUnit: "約0.80円/m"
     rating: 4.72
-    reviewCount: 1092
+    reviewCount: 1094
     features:
       - "国産のシングルトイレットペーパー"
       - "個包装で保管時の衛生面に配慮しやすい"
@@ -259,7 +259,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaki-seishi%2Fmori100ms60.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 5810
         rating: 4.69
         reviewCount: 26
@@ -273,7 +273,7 @@ products:
     capacity: "170m×48ロール"
     pricePerUnit: "約1.1円/m"
     rating: 4.52
-    reviewCount: 2030
+    reviewCount: 2033
     features:
       - "芯なしのロングタイプで交換の手間を減らしやすい"
       - "再生紙を使用した家庭用にも業務用にも使える仕様"
@@ -306,7 +306,7 @@ products:
     price: 2845
     capacity: "250m×16ロール"
     rating: 4.6
-    reviewCount: 434
+    reviewCount: 436
     features:
       - "パルプを使用した消臭機能付きのシングルタイプ"
       - "芯なしの長巻き仕様で省スペースに保管しやすい"

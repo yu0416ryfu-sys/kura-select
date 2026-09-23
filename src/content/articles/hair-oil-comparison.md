@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 draft: false
 products:
   - rank: 1
@@ -70,7 +70,7 @@ products:
     price: 1189
     capacity: "100mL"
     rating: 4.66
-    reviewCount: 2008
+    reviewCount: 2010
     features:
       - "天然100%・無添加の精製（クリア）ホホバオイル。スキンケア・マッサージ・ヘアに多目的使用可"
       - "100mL・300mL・500mL・1000mLの大容量まで選べるサイズ展開"
@@ -127,7 +127,7 @@ products:
     price: 2959
     capacity: "150mL"
     rating: 4.55
-    reviewCount: 1106
+    reviewCount: 1108
     features:
       - "100%植物由来成分（スクワラン・アルガンオイル・ホホバオイル配合）"
       - "濡れ髪・乾いた髪どちらにも使えるアウトバスオイル"
@@ -147,12 +147,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbb-2023%2Fn-poil150.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 3280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bb-2023_n-poil150"
         available: true
-        rating: 4.6
-        reviewCount: 284
+        rating: 4.61
+        reviewCount: 287
     priceMax: 8406
     genreId: "210695"
   - rank: 6
@@ -161,7 +161,7 @@ products:
     price: 630
     capacity: "20mL"
     rating: 4.71
-    reviewCount: 2005
+    reviewCount: 2006
     features:
       - "オーガニック認証のホホバオイル（ゴールデン脱臭タイプ）。天然100%・無添加"
       - "20mL・100mL・300mL・500mL・1000mLの幅広いサイズ展開"
@@ -183,7 +183,7 @@ products:
     price: 2280
     capacity: "80mL"
     rating: 4.64
-    reviewCount: 13862
+    reviewCount: 13870
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -217,7 +217,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4219
+    reviewCount: 4246
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"
@@ -251,7 +251,7 @@ products:
     price: 1100
     capacity: "75mL"
     rating: 4.75
-    reviewCount: 2927
+    reviewCount: 2932
     features:
       - "無香料タイプの洗い流さないヘアエッセンス（オイルタイプ）"
       - "天然由来成分配合でくせ毛・うねりに対応したしっとり仕上がり設計"
@@ -271,7 +271,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6016812.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 2538
         rating: 4.4
         reviewCount: 15
@@ -285,7 +285,7 @@ products:
     price: 3300
     capacity: "50mL"
     rating: 4.59
-    reviewCount: 2545
+    reviewCount: 2546
     features:
       - "ドライヤー後の乾いた髪に使う仕上げ用ヘアオイル"
       - "ツヤと潤いを与えながらボリューム感も保つ設計"

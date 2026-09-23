@@ -4,7 +4,7 @@ description: "電気式（プラグ式）液体蚊取りの取替えボトルを
 category: "mosquito-repellent-liquid"
 publishedAt: "2026-06-13"
 articleType: "comparison"
-updatedAt: "2026-09-13"
+updatedAt: "2026-09-23"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4902424427134.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-23"
         price: 1440
         rating: 0
         reviewCount: 2
@@ -91,7 +91,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhcvalor%2Fvh-2162902907264.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-23"
         price: 4071
         rating: 0
         reviewCount: 0
@@ -205,7 +205,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F101-x010-90655.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 16119
         rating: 0
         reviewCount: 0

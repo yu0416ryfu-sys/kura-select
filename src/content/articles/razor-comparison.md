@@ -4,7 +4,7 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "本体1個＋替刃16個"
     pricePerUnit: "約222円/個"
     rating: 4.68
-    reviewCount: 3445
+    reviewCount: 3449
     features:
       - "5枚刃で広い面積をまとめて剃れる構造"
       - "極薄ヘッドで鼻下やあご周りなど細部へのフィット性が高い"
@@ -103,10 +103,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwa-life%2Fcg-0001-8.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 1998
-        rating: 4.69
-        reviewCount: 124
+        rating: 4.7
+        reviewCount: 126
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wa-life_cg-0001-8"
         available: true
   - rank: 4

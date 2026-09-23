@@ -4,7 +4,7 @@ description: "紙コップ・紙皿など使い捨て食器のおすすめ10選�
 category: "disposable-tableware"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-23"
 draft: false
 products:
   - rank: 1
@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoins%2F1002106.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 5885
-        rating: 4.6
-        reviewCount: 45
+        rating: 4.57
+        reviewCount: 46
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/koins_1002106"
         available: true
     genreId: "215980"
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F181000.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 6160
         rating: 4.76
         reviewCount: 430
@@ -189,6 +189,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pajin.3rdw665b.g00pajin.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnuts%2F1032799%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnuts%2Fi%2F10003124%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nuts/cabinet/nuts_gazo/item_kitchen/bowl.jpg?_ex=128x128"
     genreId: "564993"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnuts%2Fwa-dm-007.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-23"
+        price: 748
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nuts_wa-dm-007"
+        available: true
   - rank: 7
     name: "ワサラ 角皿 特大 紙の器 6個セット"
     brand: "WASARA（ワサラ）"
@@ -216,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnuts%2Fwa-dm-014.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-23"
         price: 704
         rating: 0
         reviewCount: 0
@@ -250,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F215400.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-09-23"
         price: 10626
         rating: 4.86
         reviewCount: 7
@@ -284,7 +295,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F215500.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 11539
         rating: 0
         reviewCount: 2

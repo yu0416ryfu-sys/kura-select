@@ -4,7 +4,7 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/x627331/"
         matchStatus: "pending"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 468
         rating: 4.67
         reviewCount: 150
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301453242.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 765
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301453242"
         available: true
@@ -284,7 +284,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00001384.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 2526
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00001384"
         available: true

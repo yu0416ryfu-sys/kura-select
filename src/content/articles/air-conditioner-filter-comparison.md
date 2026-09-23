@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 draft: false
 products:
   - rank: 1
@@ -159,9 +159,9 @@ products:
   - rank: 6
     name: "東洋アルミ ウイルス対策ホコリとりフィルター エアコン・空気清浄機用 3個"
     brand: "東洋アルミ"
-    price: 2011
+    price: 2007
     capacity: "1枚×3個（3枚）"
-    pricePerUnit: "約670円/枚"
+    pricePerUnit: "約669円/枚"
     rating: 4
     reviewCount: 2
     features:
@@ -242,8 +242,8 @@ products:
     price: 4510
     capacity: "400×800mm 1枚"
     pricePerUnit: "約4510円/枚"
-    rating: 4.66
-    reviewCount: 64
+    rating: 4.67
+    reviewCount: 66
     features:
       - "抗ウイルス・抗菌・抗カビ・消臭を備えた高機能タイプ"
       - "サイズ 38×80cm（380×800mm）、家庭用エアコンの標準サイズに対応"
@@ -285,7 +285,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F478367.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 478
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_478367"
         available: true

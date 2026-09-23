@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ9選を1枚あたり単�
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "レック 水99.9％ 手口ふき"
@@ -13,7 +13,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約2.0円/枚"
     rating: 4.69
-    reviewCount: 4827
+    reviewCount: 4843
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 2390
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
         available: true
         rating: 4.67
-        reviewCount: 1040
+        reviewCount: 1055
     genreId: "505416"
   - rank: 2
     name: "シルコット ピュアウォーター ウェットティッシュ 詰替 58枚×8個"
@@ -80,8 +80,8 @@ products:
     price: 2980
     capacity: "96枚×12個（1152枚）"
     pricePerUnit: "約2.6円/枚"
-    rating: 4.38
-    reviewCount: 429
+    rating: 4.37
+    reviewCount: 433
     features:
       - "純水99%・無香料・無着色・アルコールフリー"
       - "14×18cmの厚手シートで手口ふき・体ふきにも使える"
@@ -140,7 +140,7 @@ products:
     capacity: "43枚×8個×4個（1376枚）"
     pricePerUnit: "約3.8円/枚"
     rating: 4.75
-    reviewCount: 242
+    reviewCount: 243
     features:
       - "ノンアルコールタイプの除菌ウェットティッシュ詰替"
       - "ワンプッシュで開閉できる取り出し口設計"
@@ -160,7 +160,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100996.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 4620
         rating: 4.88
         reviewCount: 17

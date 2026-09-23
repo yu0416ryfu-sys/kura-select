@@ -3,7 +3,7 @@ title: "無香空間と消臭力どっちがいい？【2026年版】無香料�
 description: "無香空間（小林製薬）と消臭力（エステー）はどっちがいい？置き型消臭剤の定番2ブランドを1gあたりの単価・無香料か香りか・持続力・詰め替えのしやすさの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "room-deodorizer"
 publishedAt: "2026-08-03"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 articleType: "comparison"
 draft: false
 products:

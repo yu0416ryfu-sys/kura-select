@@ -4,7 +4,7 @@ description: "化粧用コットンはどれが安くてコスパがいい？シ
 category: "cotton"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-09"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "業務用フェイシャルコットン エステ化粧用"
@@ -227,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10034333.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 565
         rating: 0
         reviewCount: 0

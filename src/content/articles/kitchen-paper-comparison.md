@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -13,7 +13,7 @@ products:
     capacity: "200枚×30袋（6000枚）"
     pricePerUnit: "約0.65円/枚"
     rating: 4.62
-    reviewCount: 316
+    reviewCount: 317
     features:
       - "1枚あたり約0.66円の圧倒的コスパ"
       - "業務用の安定した品質"
@@ -116,7 +116,7 @@ products:
     capacity: "70カット×16ロール（1120枚）"
     pricePerUnit: "約5.1円/枚"
     rating: 4.59
-    reviewCount: 213
+    reviewCount: 214
     features:
       - "独自のフェルト構造で圧倒的な吸水力"
       - "1枚で雑巾1枚分の吸水量"
@@ -284,7 +284,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4975156901005.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 4440
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4975156901005"
         available: true
@@ -294,7 +294,7 @@ products:
   - rank: 10
     name: "スコッティ ファイン 3倍巻き キッチンタオル 150カット 4ロール×4パック"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 4726
+    price: 4610
     capacity: "150カット×4ロール×4パック（2400カット）"
     pricePerUnit: "約2.0円/カット"
     rating: 5

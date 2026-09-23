@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "ムーニー テープ Sサイズ"
@@ -33,8 +33,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/hk42805/"
-        matchStatus: "pending"
-        updatedAt: "2026-09-19"
+        matchStatus: "matched"
+        updatedAt: "2026-09-23"
         price: 7550
         rating: 0
         reviewCount: 2
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 7084
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true
@@ -149,7 +149,7 @@ products:
     capacity: "54枚×4個セット"
     pricePerUnit: "約33円/枚"
     rating: 4.75
-    reviewCount: 513
+    reviewCount: 517
     features:
       - "低刺激処方で敏感肌向けに配慮"
       - "安心設計のテープタイプ"

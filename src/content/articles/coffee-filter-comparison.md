@@ -4,7 +4,7 @@ description: "コーヒーフィルターを1枚あたりのコストで徹底�
 category: "coffee-filter"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 draft: false
 products:
   - rank: 1
@@ -91,7 +91,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhiroshimacoffee%2Fcafe-60.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-09-23"
         price: 187
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hiroshimacoffee_cafe-60"
         available: true

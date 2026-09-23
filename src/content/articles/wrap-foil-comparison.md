@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-16"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"

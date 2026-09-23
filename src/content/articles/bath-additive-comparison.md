@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バブ・�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "入浴剤 バラエティ詰め合わせ 100個セット"
@@ -13,7 +13,7 @@ products:
     capacity: "100個（20種類アソート）"
     pricePerUnit: "約37円/個"
     rating: 4.64
-    reviewCount: 2052
+    reviewCount: 2053
     features:
       - "20種類をアソートした個包装の詰め合わせ"
       - "薬用入浴剤やバスソルトなど複数タイプを収録"
@@ -36,7 +36,7 @@ products:
     capacity: "100個セット"
     pricePerUnit: "約38円/個"
     rating: 4.56
-    reviewCount: 9958
+    reviewCount: 9960
     features:
       - "日本製の入浴剤を100個詰め合わせた福袋"
       - "テレビランキング番組1位獲得のロングセラー"
@@ -113,7 +113,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fearth2001%2Fwp-003.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 2139
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/earth2001_wp-003"
         available: true
@@ -147,7 +147,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flibertylife%2Fb-epsom-05.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/libertylife_b-epsom-05"
         available: true
@@ -237,7 +237,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuisosum%2Fh-and-750.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 3800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/suisosum_h-and-750"
         available: true
@@ -271,7 +271,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F123636322.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 1300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_123636322"
         available: true
@@ -305,7 +305,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkisyubio-wakayama%2F500ml.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 1500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kisyubio-wakayama_500ml"
         available: true

@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4901730160476.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 1060
         rating: 0
         reviewCount: 0
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F70697.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-19"
+        updatedAt: "2026-09-23"
         price: 5965
         rating: 4.63
         reviewCount: 32
@@ -81,7 +81,7 @@ products:
     capacity: "1000mL×6本（6000mL）"
     pricePerUnit: "約0.99円/mL"
     rating: 4.75
-    reviewCount: 256
+    reviewCount: 257
     features:
       - "ノンアルコール処方で刺激を抑えながら殺菌"
       - "バクテリアフィルムに作用する7種の機能性成分配合"
@@ -274,8 +274,8 @@ products:
     price: 2300
     capacity: "100mL（約700回分）"
     pricePerUnit: "約23円/mL"
-    rating: 4.75
-    reviewCount: 612
+    rating: 4.76
+    reviewCount: 615
     features:
       - "歯科医院で推奨される薬用マウスウォッシュ"
       - "グルコン酸クロルヘキシジン配合で高い殺菌力"
@@ -308,7 +308,7 @@ products:
     price: 2580
     capacity: "300mL"
     rating: 4.6
-    reviewCount: 2898
+    reviewCount: 2901
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"

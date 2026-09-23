@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 draft: false
 products:
   - rank: 1
@@ -173,7 +173,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2280円/個"
     rating: 4.64
-    reviewCount: 911
+    reviewCount: 913
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -239,8 +239,8 @@ products:
     brand: "ロイヤルカナン"
     price: 5947
     capacity: "4kg"
-    rating: 4.65
-    reviewCount: 700
+    rating: 4.66
+    reviewCount: 706
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -308,7 +308,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.7
-    reviewCount: 966
+    reviewCount: 974
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

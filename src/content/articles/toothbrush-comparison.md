@@ -4,7 +4,7 @@ description: "歯ブラシを1本あたりのコストで徹底比較。シス�
 category: "toothpaste"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "Shu&Shu 歯ブラシ"
@@ -13,7 +13,7 @@ products:
     capacity: "50本"
     pricePerUnit: "約36円/本"
     rating: 4.67
-    reviewCount: 1270
+    reviewCount: 1278
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -59,7 +59,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約64円/本"
     rating: 4.74
-    reviewCount: 2053
+    reviewCount: 2059
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -116,7 +116,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約74円/本"
     rating: 4.81
-    reviewCount: 4916
+    reviewCount: 4919
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -173,7 +173,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約123円/本"
     rating: 4.46
-    reviewCount: 2366
+    reviewCount: 2387
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -196,7 +196,7 @@ products:
     capacity: "10本（約10ヶ月分）"
     pricePerUnit: "約140円/本"
     rating: 4.69
-    reviewCount: 2244
+    reviewCount: 2248
     features:
       - "歯科医院でも採用される定番ブラシ"
       - "PBT毛材で耐久性が高くヘタりにくい"
@@ -263,7 +263,7 @@ products:
     price: 4180
     capacity: "30本"
     rating: 4.76
-    reviewCount: 4027
+    reviewCount: 4042
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"

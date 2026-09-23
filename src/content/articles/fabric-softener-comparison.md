@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-19"
+updatedAt: "2026-09-23"
 products:
   - rank: 1
     name: "ライオン ソフラン アロマリッチ 業務用 4L"
@@ -133,13 +133,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4903301375012.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4903301375111.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 5180
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4903301375012"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4903301375111"
         available: true
     genreId: "559647"
   - rank: 5
@@ -203,7 +203,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 1160
         rating: 4.8
         reviewCount: 5
@@ -239,8 +239,8 @@ products:
     price: 877
     capacity: "600mL"
     pricePerUnit: "約1.5円/mL"
-    rating: 4.61
-    reviewCount: 179
+    rating: 4.62
+    reviewCount: 181
     features:
       - "紅茶をテーマにした香りの柔軟剤"
       - "液体タイプの本体"
@@ -260,7 +260,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone%2F1898619600.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 1350
         rating: 0
         reviewCount: 0
@@ -306,8 +306,8 @@ products:
     brand: "花王（ハミング）"
     price: 1113
     capacity: "2000mL"
-    rating: 4.96
-    reviewCount: 28
+    rating: 4.97
+    reviewCount: 29
     features:
       - "肌へのやさしさを重視した素肌おもいシリーズの詰め替えパウチ"
       - "香りの強さを抑えたタイプで、無香料の選択肢もある"
@@ -327,7 +327,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301423443.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-23"
         price: 1453
         rating: 5
         reviewCount: 5
