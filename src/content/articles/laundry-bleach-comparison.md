@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301745910-73-30000846.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-26"
         price: 220
         rating: 4.8
         reviewCount: 15
@@ -90,7 +90,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F574939.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-23"
+        updatedAt: "2026-09-26"
         price: 3960
         rating: 0
         reviewCount: 0
@@ -124,7 +124,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F34562.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-23"
+        updatedAt: "2026-09-26"
         price: 996
         rating: 4.5
         reviewCount: 4
@@ -137,8 +137,8 @@ products:
     price: 2883
     capacity: "450ml×6袋（2700ml）"
     pricePerUnit: "約1.1円/ml"
-    rating: 4.8
-    reviewCount: 240
+    rating: 4.81
+    reviewCount: 242
     features:
       - "抗菌成分を配合した液体タイプの酸素系漂白剤"
       - "部屋干し時の菌のケアを想定した処方"
@@ -226,10 +226,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F757037000915.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-09"
-        price: 3398
-        rating: 4.91
-        reviewCount: 33
+        updatedAt: "2026-09-26"
+        price: 3630
+        rating: 4.89
+        reviewCount: 38
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_757037000915"
         available: true
     genreId: "210182"

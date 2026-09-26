@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -46,8 +46,8 @@ products:
     price: 6165
     capacity: "3.8L×3個"
     pricePerUnit: "約0.54円/mL"
-    rating: 4.8
-    reviewCount: 15
+    rating: 4.75
+    reviewCount: 16
     features:
       - "1本あたりの容量が多くコストダウンに貢献"
       - "電解水と酵素の力で汚れをしっかり落とす"
@@ -147,8 +147,8 @@ products:
     brand: "P&G（ジョイ）"
     price: 2820
     capacity: "4L"
-    rating: 4.81
-    reviewCount: 64
+    rating: 4.8
+    reviewCount: 65
     features:
       - "コンパクト処方で少量でもよく落ちる"
       - "食洗機非対応・手洗い専用設計"

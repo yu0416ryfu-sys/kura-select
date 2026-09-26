@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 products:
   - rank: 1
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F1228689.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-07"
+        updatedAt: "2026-09-26"
         price: 3970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_1228689"
         available: true
@@ -46,8 +46,8 @@ products:
     price: 5396
     capacity: "100枚×4ロール×12パック"
     pricePerUnit: "約1.1円/枚"
-    rating: 4.6
-    reviewCount: 55
+    rating: 4.61
+    reviewCount: 56
     features:
       - "激吸収構造で水分をすばやくキャッチ"
       - "大容量24ロールでまとめ買いに最適"
@@ -115,8 +115,8 @@ products:
     price: 5698
     capacity: "70カット×16ロール（1120枚）"
     pricePerUnit: "約5.1円/枚"
-    rating: 4.59
-    reviewCount: 214
+    rating: 4.6
+    reviewCount: 215
     features:
       - "独自のフェルト構造で圧倒的な吸水力"
       - "1枚で雑巾1枚分の吸水量"
@@ -173,7 +173,7 @@ products:
     capacity: "400枚"
     pricePerUnit: "約9.2円/枚"
     rating: 4.71
-    reviewCount: 369
+    reviewCount: 370
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

@@ -4,14 +4,14 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 products:
   - rank: 1
     name: "国内産 農家直米 白米"
     brand: "安齋商店"
-    price: 4480
+    price: 4180
     capacity: "10kg"
-    pricePerUnit: "約448円/kg"
+    pricePerUnit: "約418円/kg"
     rating: 4.39
     reviewCount: 16100
     features:
@@ -241,7 +241,7 @@ products:
     recommendedFor: "産地や栽培方法にこだわってお米を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qll1n.3rdw6927.g00qll1n.3rdw75a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-syokunosado%2F10000229%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-syokunosado%2Fi%2F10000251%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 4.77
-    reviewCount: 30
+    reviewCount: 31
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-syokunosado/cabinet/1/r-toki-g-sku.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
@@ -254,7 +254,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-    priceMax: 19450
+    priceMax: 21160
     genreId: "201184"
   - rank: 9
     name: "秋田県産 あきたこまち 18kg〜20kg"
@@ -262,7 +262,7 @@ products:
     price: 8250
     capacity: "18kg〜20kg"
     rating: 4.74
-    reviewCount: 45830
+    reviewCount: 45832
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

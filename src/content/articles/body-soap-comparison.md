@@ -4,7 +4,7 @@ description: "ボディソープを1gあたりのコストで比較。ダヴ・h
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 products:
   - rank: 1
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
@@ -124,7 +124,7 @@ products:
     capacity: "115g"
     pricePerUnit: "約11円/g"
     rating: 4.79
-    reviewCount: 349
+    reviewCount: 351
     features:
       - "ボディソープとして使える洗浄料"
       - "継続利用しやすい定番構成"
@@ -144,12 +144,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhealingvillage%2Fmndmrw-kbwt0.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-23"
+        updatedAt: "2026-09-26"
         price: 1227
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/healingvillage_mndmrw-kbwt0"
         available: true
-        rating: 4.59
-        reviewCount: 37
+        rating: 4.61
+        reviewCount: 38
     genreId: "100962"
   - rank: 5
     name: "柿渋石鹸 男のたしなみ 100g"
@@ -246,8 +246,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901301289353.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-23"
-        price: 765
+        updatedAt: "2026-09-26"
+        price: 761
         rating: 4.7
         reviewCount: 23
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901301289353"

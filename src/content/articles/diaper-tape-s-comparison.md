@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 products:
   - rank: 1
     name: "ムーニー テープ Sサイズ"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-23"
+        updatedAt: "2026-09-26"
         price: 7084
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true
@@ -216,7 +216,7 @@ products:
     price: 7180
     capacity: "74枚×4袋（296枚）"
     rating: 4.7
-    reviewCount: 66
+    reviewCount: 67
     features:
       - "世界No.1シェアの信頼ブランド"
       - "肌のpHバランスを考慮した処方"

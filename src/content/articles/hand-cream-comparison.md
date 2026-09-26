@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 products:
   - rank: 1
     name: "ユースキン ハンドクリーム つけかえパウチ 180g"
@@ -80,7 +80,7 @@ products:
     capacity: "35g"
     pricePerUnit: "約19円/g"
     rating: 4.5
-    reviewCount: 417
+    reviewCount: 418
     features:
       - "100%ピュアシアバターを精製したオーガニック処方"
       - "9種類の香りから選べるセレクト仕様"
@@ -103,7 +103,7 @@ products:
     capacity: "80g"
     pricePerUnit: "約31円/g"
     rating: 4.61
-    reviewCount: 1977
+    reviewCount: 1978
     features:
       - "80g入りの大容量チューブタイプ"
       - "無香料処方で香りが苦手な方も使いやすい"
@@ -193,7 +193,7 @@ products:
     price: 2200
     capacity: "43g"
     rating: 4.7
-    reviewCount: 740
+    reviewCount: 741
     features:
       - "オーガニック認証原料を使用したハンドクリーム"
       - "43gの使いやすいサイズでギフト用途にも対応"

@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ9選を1枚あたり単�
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 products:
   - rank: 1
     name: "レック 水99.9％ 手口ふき"
@@ -13,7 +13,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約2.0円/枚"
     rating: 4.69
-    reviewCount: 4845
+    reviewCount: 4852
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-23"
+        updatedAt: "2026-09-26"
         price: 2390
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
         available: true
         rating: 4.67
-        reviewCount: 1055
+        reviewCount: 1058
     genreId: "505416"
   - rank: 2
     name: "シルコット ピュアウォーター ウェットティッシュ 詰替 58枚×8個"
@@ -81,7 +81,7 @@ products:
     capacity: "96枚×12個（1152枚）"
     pricePerUnit: "約2.6円/枚"
     rating: 4.38
-    reviewCount: 434
+    reviewCount: 435
     features:
       - "純水99%・無香料・無着色・アルコールフリー"
       - "14×18cmの厚手シートで手口ふき・体ふきにも使える"
@@ -95,7 +95,7 @@ products:
       - "おしりふき用途が主軸で、テーブルの除菌には向かない"
     recommendedFor: "赤ちゃんの手口ふき・体ふきを大容量で用意したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t237n.3rdw6c98.g00t237n.3rdw7b8b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fslotre%2F10000234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fslotre%2Fi%2F10000356%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/sale-main/hunwariatude_5_3.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/12191014/13038805/main_260303.jpg?_ex=128x128"
     genreId: "205194"
   - rank: 4
     name: "アイリスオーヤマ 除菌ウェットティッシュ 60枚×48個"
@@ -160,7 +160,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100996.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-23"
+        updatedAt: "2026-09-26"
         price: 4620
         rating: 4.88
         reviewCount: 17
@@ -249,14 +249,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/p821335/"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4903301291022.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-16"
-        price: 318
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_p821335"
+        updatedAt: "2026-09-26"
+        price: 205
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4903301291022"
         available: true
-        rating: 4.47
-        reviewCount: 19
+        rating: 0
+        reviewCount: 1
     genreId: "505522"
   - rank: 9
     name: "ノンアルコール 99%除菌ウェットティッシュ"
@@ -264,7 +264,7 @@ products:
     price: 1740
     capacity: "80枚×12個（960枚）"
     rating: 4.81
-    reviewCount: 299
+    reviewCount: 301
     features:
       - "ノンアルコールで99%除菌を訴求したタイプ"
       - "厚手・大判・無香料設計で幅広い用途に対応"

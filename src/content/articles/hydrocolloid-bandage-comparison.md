@@ -4,7 +4,7 @@ description: "ハイドロコロイド絆創膏のおすすめ7選を1枚あた�
 category: "bandage"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "100枚"
     pricePerUnit: "約26円/枚"
     rating: 5
-    reviewCount: 2
+    reviewCount: 3
     features:
       - "透明度の高いハイドロコロイド素材の救急バン"
       - "薄いウレタンフィルムをベースにしたやわらかい素材"
@@ -30,6 +30,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F103-4955574823646%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10412235%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/zz/4955574823646.jpg?_ex=128x128"
     genreId: "204748"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnisshodrug%2F4955574823646.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-26"
+        price: 2598
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nisshodrug_4955574823646"
+        available: true
   - rank: 2
     name: "キズクイックFit ジャストサイズ 12枚"
     brand: "キズクイック（東洋化学）"
@@ -53,6 +64,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00povvn.3rdw6e24.g00povvn.3rdw7a27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmisawa-jp%2F4960085990510%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmisawa-jp%2Fi%2F10173494%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/misawa-jp/cabinet/img038/4960085990510.jpg?_ex=128x128"
     genreId: "568428"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1229-4960085990510.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-26"
+        price: 605
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-ex_1229-4960085990510"
+        available: true
   - rank: 3
     name: "ケアリーヴ 治す力 防水タイプ Mサイズ 12枚"
     brand: "ニチバン（ケアリーヴ）"
@@ -76,6 +98,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe459503h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10556304%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/026/4987167075026.jpg?_ex=128x128"
     genreId: "568428"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdenergy%2Fal-4987167075026-5set-ypt.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-26"
+        price: 3170
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/denergy_al-4987167075026-5set-ypt"
+        available: true
   - rank: 4
     name: "ケアリーヴ 治す力 Mサイズ 12枚"
     brand: "ニチバン（ケアリーヴ）"
@@ -99,6 +132,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe239190h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10209999%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/744/4987167065744.jpg?_ex=128x128"
     genreId: "568428"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4987167065744-73-30001222.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-26"
+        price: 587
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4987167065744-73-30001222"
+        available: true
   - rank: 5
     name: "キズパワーパッド ふつうサイズ 10枚入×2コセット"
     brand: "バンドエイド（BAND-AID）"
@@ -106,7 +150,7 @@ products:
     capacity: "20枚（10枚入×2コセット）"
     pricePerUnit: "約75円/枚"
     rating: 4.64
-    reviewCount: 181
+    reviewCount: 183
     features:
       - "ハイドロコロイド素材で傷口の湿潤環境を保つ救急用パッド"
       - "水や汚れの侵入を防ぐ防水設計"
@@ -158,13 +202,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/re45827/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/h219465/"
         matchStatus: "pending"
-        updatedAt: "2026-08-31"
-        price: 3080
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_re45827"
+        updatedAt: "2026-09-26"
+        price: 1495
+        rating: 4.75
+        reviewCount: 57
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_h219465"
         available: true
     genreId: "568428"
   - rank: 7

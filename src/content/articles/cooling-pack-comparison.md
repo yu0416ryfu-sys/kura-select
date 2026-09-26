@@ -4,7 +4,7 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 products:
   - rank: 1
     name: "ロゴス 倍速凍結 氷点下パックXL セット"
@@ -29,6 +29,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3jpn.3rdw6dfe.g00r3jpn.3rdw7ca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhimaraya%2F0000383605set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhimaraya%2Fi%2F10410213%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/himaraya/cabinet/0000383605/0000383605set_r1_01.jpg?_ex=128x128"
     genreId: "567381"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Falpen-group%2F7633990001.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-26"
+        price: 5610
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/alpen-group_7633990001"
+        available: true
   - rank: 2
     name: "LOGOS 倍速凍結 氷点下パックL"
     brand: "LOGOS"
@@ -52,6 +63,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn68n.3rdw6313.g00qn68n.3rdw75ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4981325395827%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10723457%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/orj/35/0-4981325395827.jpg?_ex=128x128"
     genreId: "101991"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej91976/"
+        matchStatus: "pending"
+        updatedAt: "2026-09-26"
+        price: 1595
+        rating: 4.67
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ej91976"
+        available: true
   - rank: 3
     name: "JEJアステージ アイスロックス 1100 長時間保冷 持続 強力 ハードタイプ 日"
     brand: "JEJアステージ"
@@ -102,7 +124,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fk-lalala%2Fa620622j8391.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-19"
+        updatedAt: "2026-09-26"
         price: 469
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/k-lalala_a620622j8391"
         available: true
@@ -136,7 +158,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkbjapan%2Fy5900479-19746001.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-19"
+        updatedAt: "2026-09-26"
         price: 176
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kbjapan_y5900479-19746001"
         available: true
@@ -149,7 +171,7 @@ products:
     price: 693
     capacity: "1個"
     rating: 4.68
-    reviewCount: 263
+    reviewCount: 265
     features:
       - "繰り返し使える保冷剤タイプ"
       - "保冷バッグやクーラーボックスに入れやすい形状"
@@ -166,6 +188,17 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/logosshop/cabinet/spr/4/492823152846.jpg?_ex=128x128"
     priceMax: 5379
     genreId: "568877"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej91976/"
+        matchStatus: "pending"
+        updatedAt: "2026-09-26"
+        price: 1595
+        rating: 4.67
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ej91976"
+        available: true
   - rank: 7
     name: "COOLER SHOCK ハードロング"
     brand: "COOLER SHOCK"

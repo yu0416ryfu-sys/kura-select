@@ -4,7 +4,7 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "400枚（200組）×60箱"
     pricePerUnit: "約0.45円/組"
     rating: 4.75
-    reviewCount: 537
+    reviewCount: 538
     features:
       - "シンプルなホワイトパッケージの定番箱タイプ"
       - "200組のスタンダードな2枚重ね"
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkyoto23%2F10001789.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-26"
         price: 7153
         rating: 4.58
         reviewCount: 36
@@ -47,8 +47,8 @@ products:
     price: 5401
     capacity: "200組×60箱"
     pricePerUnit: "約0.45円/組"
-    rating: 4.68
-    reviewCount: 307
+    rating: 4.69
+    reviewCount: 308
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -151,7 +151,7 @@ products:
     capacity: "150組×60箱"
     pricePerUnit: "約0.54円/組"
     rating: 4.55
-    reviewCount: 108
+    reviewCount: 109
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -216,9 +216,9 @@ products:
   - rank: 9
     name: "業務用ティッシュ POPティシュ200W 60箱"
     brand: "OneStep"
-    price: 7968
+    price: 8018
     capacity: "200組×5箱×12（60箱）"
-    pricePerUnit: "約0.66円/組"
+    pricePerUnit: "約0.67円/組"
     rating: 3.5
     reviewCount: 2
     features:

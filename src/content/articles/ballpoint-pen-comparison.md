@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flittle-hands%2Fbl0516.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-23"
+        updatedAt: "2026-09-26"
         price: 1400
         rating: 4.89
         reviewCount: 90
@@ -48,7 +48,7 @@ products:
     capacity: "1本（4色ボールペン+シャープペンシル、0.5mm）"
     pricePerUnit: "約1980円/本"
     rating: 4.74
-    reviewCount: 719
+    reviewCount: 720
     features:
       - "限定カラー展開の4色ボールペン＋シャープ0.5mmの多機能タイプ（MSXE5-1000-05）"
       - "名前刻印サービス付きで卒団・卒業祝いなどの特別な記念品に対応"
@@ -62,7 +62,7 @@ products:
       - "名入れ後は返品・交換不可"
     recommendedFor: "限定カラーで個性を出したい方・特別な卒団・卒業記念品を贈りたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbsyn.3rdw622d.g00qbsyn.3rdw79de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbugyo%2Fe06-21-660%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbugyo%2Fi%2F10006340%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/icon/sale/e06-21-660_c100.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/pen_2014/pen_2020_136_3.jpg?_ex=128x128"
     genreId: "205824"
   - rank: 3
     name: "パーカー IM ボールペン"
@@ -93,7 +93,7 @@ products:
     price: 1000
     capacity: "1本（4色ボールペン+シャープペンシル）"
     rating: 4.78
-    reviewCount: 13661
+    reviewCount: 13671
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"
@@ -107,7 +107,7 @@ products:
       - "多機能ペンのため単機能ペンより軸が太め"
     recommendedFor: "新色で個性を出したい方・卒業・誕生日の記念品を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbsyn.3rdw622d.g00qbsyn.3rdw79de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbugyo%2Fb06-21-277%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbugyo%2Fi%2F10004467%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/icon/sale/b06-21-277_c100.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/pen_2021/pen_2019_123d.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -179,8 +179,8 @@ products:
     brand: "CROSS"
     price: 4700
     capacity: "1本"
-    rating: 4.74
-    reviewCount: 43
+    rating: 4.73
+    reviewCount: 44
     features:
       - "本体タイプのボールペンで日常の筆記に使いやすい"
       - "まとめ買いやギフト用途でも選びやすい"
@@ -203,7 +203,7 @@ products:
     price: 880
     capacity: "-"
     rating: 4.54
-    reviewCount: 188
+    reviewCount: 190
     features:
       - "4色油性ボールペン＋シャープペンシル搭載の多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きでギフト・記念品に最適"
@@ -217,7 +217,7 @@ products:
       - "多機能ペンのため単機能ペンより軸が太く重い"
     recommendedFor: "プレゼント・記念品を探している方・1本で多機能をまとめたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q656n.3rdw61ae.g00q656n.3rdw7d60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbunbougu-shibuya%2Fmsxe5-1000-05n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbunbougu-shibuya%2Fi%2F10074288%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bunbougu-shibuya/cabinet/73/msxe5-1000n_.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bunbougu-shibuya/cabinet/73/msxe5-1000n.jpg?_ex=128x128"
     priceMax: 1320
     genreId: "205824"
   - rank: 9
@@ -249,7 +249,7 @@ products:
     price: 1100
     capacity: "-"
     rating: 4.8
-    reviewCount: 293
+    reviewCount: 295
     features:
       - "ビンテージカラーのおしゃれなデザインで日常使いからギフトまで対応"
       - "0.5mm・0.3mm選択可能なゲルインク採用"

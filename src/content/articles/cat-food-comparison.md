@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 draft: false
 products:
   - rank: 1
@@ -169,11 +169,11 @@ products:
   - rank: 6
     name: "ピュリナワン キャット"
     brand: "PURINA ONE"
-    price: 2280
+    price: 2614
     capacity: "1個"
-    pricePerUnit: "約2280円/個"
+    pricePerUnit: "約2614円/個"
     rating: 4.64
-    reviewCount: 913
+    reviewCount: 915
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -274,7 +274,7 @@ products:
     price: 3743
     capacity: "2kg"
     rating: 4.74
-    reviewCount: 550
+    reviewCount: 551
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -308,7 +308,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.7
-    reviewCount: 974
+    reviewCount: 983
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

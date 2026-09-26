@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"
@@ -248,8 +248,8 @@ products:
     price: 1881
     capacity: "22cm×50m×3本"
     pricePerUnit: "約13円/m"
-    rating: 4.78
-    reviewCount: 80
+    rating: 4.73
+    reviewCount: 81
     features:
       - "食品用ラップフィルムの定番ブランド"
       - "中皿サイズに使いやすい幅"

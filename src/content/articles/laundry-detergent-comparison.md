@@ -67,12 +67,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou-selection%2Fr5-15080k.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-26"
         price: 6100
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou-selection_r5-15080k"
         available: true
         rating: 4.88
-        reviewCount: 41
+        reviewCount: 42
     genreId: "210182"
   - rank: 3
     name: "WORKERS 作業着液体洗剤 業務用"
@@ -146,11 +146,11 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fremtory%2Fremtoryb92c83663b.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkarimerobox%2Ftoys-n-b0h37z9x9j.html"
         matchStatus: "pending"
-        updatedAt: "2026-06-08"
-        price: 13012
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/remtory_remtoryb92c83663b"
+        updatedAt: "2026-09-26"
+        price: 3990
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/karimerobox_toys-n-b0h37z9x9j"
         available: true
         rating: 0
         reviewCount: 0
@@ -182,7 +182,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-01"
+        updatedAt: "2026-09-26"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true

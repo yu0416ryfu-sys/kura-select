@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 products:
   - rank: 1
     name: "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット"
@@ -32,7 +32,7 @@ products:
   - rank: 2
     name: "チェックアップ コドモ 60g×3本"
     brand: "ライオン（チェックアップ）"
-    price: 1309
+    price: 1307
     capacity: "60g×3本（180g）"
     pricePerUnit: "約7.3円/g"
     rating: 4.86

@@ -76,6 +76,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pxfkn.3rdw6005.g00pxfkn.3rdw7ac5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkoex%2F1197-4987067829309x8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkoex%2Fi%2F10201597%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkoex/cabinet/1197/0b27d34b79831b3306_1.jpg?_ex=128x128"
     genreId: "506416"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1197-4987067829309x8.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-26"
+        price: 5573
+        rating: 5
+        reviewCount: 8
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-ex_1197-4987067829309x8"
+        available: true
   - rank: 4
     name: "アイリスオーヤマ ぽかぽか家族 貼るカイロ ミニ 120枚"
     brand: "アイリスオーヤマ"
@@ -99,6 +110,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pjh9n.3rdw6262.g00pjh9n.3rdw7cf0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funidy%2F1900434-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funidy%2Fi%2F11162354%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unidy/cabinet/11076768/12004294/12027472/1900434-1.jpg?_ex=128x128"
     genreId: "506417"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej35309/"
+        matchStatus: "pending"
+        updatedAt: "2026-09-26"
+        price: 2889
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ej35309"
+        available: true
   - rank: 5
     name: "アイリスオーヤマ ぽかぽか家族 貼るカイロ レギュラー 120枚"
     brand: "アイリスオーヤマ"

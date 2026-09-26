@@ -4,7 +4,7 @@ description: "パンツ型おむつのMサイズを1枚あたりの価格で比�
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-26"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443502-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-26"
         price: 10990
         rating: 0
         reviewCount: 0
@@ -47,8 +47,8 @@ products:
     price: 5597
     capacity: "62枚×3袋"
     pricePerUnit: "約30円/枚"
-    rating: 4.78
-    reviewCount: 9
+    rating: 4.4
+    reviewCount: 10
     features:
       - "通気性を高めた多孔性シート"
       - "6〜11kgのMサイズ帯に対応"
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/p648079/"
         matchStatus: "matched"
-        updatedAt: "2026-09-23"
+        updatedAt: "2026-09-26"
         price: 5600
         rating: 4.78
         reviewCount: 296
@@ -115,8 +115,8 @@ products:
     price: 5190
     capacity: "52枚×3個（6〜11kg）"
     pricePerUnit: "約33円/枚"
-    rating: 4.92
-    reviewCount: 12
+    rating: 4.77
+    reviewCount: 13
     features:
       - "通気性を重視した素肌さらさらエアスルー設計"
       - "Mサイズのまとめ買い構成"
@@ -136,10 +136,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301418579-3.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-09-26"
         price: 5190
-        rating: 4.92
-        reviewCount: 13
+        rating: 4.93
+        reviewCount: 15
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301418579-3"
         available: true
     genreId: "205198"
@@ -193,7 +193,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/au51038/"
         matchStatus: "matched"
-        updatedAt: "2026-09-23"
+        updatedAt: "2026-09-26"
         price: 7122
         rating: 4.92
         reviewCount: 12
