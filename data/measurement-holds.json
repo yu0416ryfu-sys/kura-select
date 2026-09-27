@@ -3,7 +3,7 @@
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。凍結の対象・起点日・解除日（releaseDate）はこのファイルが唯一の正（2026-09-15 改定）。",
     "施策の中身・判定根拠・経緯の正はローカルのメモリ project_measurement_holds。機械判定（scripts/check-internal-links.mjs など）もこのファイルを読む。施策を打ったら両者を必ず同時に更新する。",
-    "機械が読むのは holds[].slug / holds[].slugs / holds[].releaseDate の3つだけ。ほかのキーは人間向けの注記。",
+    "機械が読むのは holds[].slug / holds[].slugs / holds[].releaseDate / holds[].arm の4つだけ。ほかのキーは人間向けの注記。arm は \"control\"（小文字・完全一致）のときだけ効き、凍結ガード hook（scripts/hooks/freeze-guard.mjs）が対照群の記事の編集を deny にする。\"Control\" などと書き間違えると deny ではなく ask に弱まるので注意。",
     "releaseDate は『この日から編集してよい日』＝台帳の解除日の翌日。判定は releaseDate > today の厳密な文字列比較。",
     "prohibitions は期限なしの禁止で、範囲が限定的（商品追加のみ等）なため holds には入れない＝機械判定は凍結扱いしない。",
     "区分A（update-products の price/rating 等の自動更新）は凍結対象外につきここには記帳しない（CLAUDE.md §5.0.3）。",

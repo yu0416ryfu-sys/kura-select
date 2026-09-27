@@ -133,6 +133,41 @@ describe("loadHolds - releaseDateBySlug（新規）", () => {
   });
 });
 
+describe("loadHolds - controlSlugs（凍結ガード hook 用）", () => {
+  // H-C1
+  it("arm: control の凍結中の行は controlSlugs に入る", () => {
+    const file = writeHolds(JSON.stringify({ holds: [{ slugs: ["a", "b"], arm: "control", releaseDate: "2026-09-12" }] }));
+    const holds = loadHolds(file, TODAY);
+    expect([...holds.controlSlugs].sort()).toEqual(["a", "b"]);
+    expect(holds.frozenSlugs.has("a")).toBe(true);
+  });
+
+  // H-C2
+  it("arm: control でも解除済みなら入らない", () => {
+    const file = writeHolds(JSON.stringify({ holds: [{ slug: "a", arm: "control", releaseDate: TODAY }] }));
+    expect(loadHolds(file, TODAY).controlSlugs.has("a")).toBe(false);
+  });
+
+  // H-C3
+  it("arm: treatment / arm なし / 大文字違いは入らない", () => {
+    const file = writeHolds(JSON.stringify({ holds: [
+      { slug: "a", arm: "treatment", releaseDate: "2026-09-12" },
+      { slug: "b", releaseDate: "2026-09-12" },
+      { slug: "c", arm: "Control", releaseDate: "2026-09-12" },
+    ] }));
+    const holds = loadHolds(file, TODAY);
+    expect(holds.controlSlugs.size).toBe(0);
+    expect(holds.frozenSlugs.size).toBe(3);
+  });
+
+  // H-C4
+  it("台帳が無ければ controlSlugs は空の Set", () => {
+    const holds = loadHolds(path.join(tmpdir(), "no-such-holds-file.json"), TODAY);
+    expect(holds.controlSlugs).toBeInstanceOf(Set);
+    expect(holds.controlSlugs.size).toBe(0);
+  });
+});
+
 // 実ファイル（data/measurement-holds.json）の記帳規約。
 // searchNeed は機械判定には使わないが、施策が外れたときに
 // 「手法が悪かったのか、検索意図の読み違いか」を切り分ける唯一の記録なので、

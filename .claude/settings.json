@@ -6,5 +6,19 @@
       "Bash(pnpm test)",
       "Bash(pnpm build)"
     ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit|Bash|PowerShell",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"$CLAUDE_PROJECT_DIR/scripts/hooks/freeze-guard.mjs\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
   }
 }

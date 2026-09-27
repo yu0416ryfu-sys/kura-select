@@ -4,7 +4,8 @@
 // check-genre-fit.mjs からも使うために切り出した。
 // frozenSlugs / available は切り出し前と同一の挙動。releaseDateBySlug は新規。
 //
-// ⚠️ 機械が読むのは holds[].slug / holds[].slugs / holds[].releaseDate の3つだけ。
+// ⚠️ 機械が読むのは holds[].slug / holds[].slugs / holds[].releaseDate / holds[].arm の4つだけ。
+// arm は "control"（小文字・完全一致）のときだけ効き、凍結ガード hook が編集を deny にする。
 // prohibitions は読まない（範囲が限定的な商品追加禁止であり記事編集の凍結ではない）。
 // 凍結の対象・起点日・解除日はこのファイルが正。施策の中身・判定根拠はメモリ project_measurement_holds を確認すること。
 import { readFileSync, existsSync } from 'fs';
@@ -14,12 +15,19 @@ export interface HoldsLookup {
   frozenSlugs: Set<string>;
   /** slug → releaseDate（この日から編集してよい日）。期限なし凍結の slug は含まない */
   releaseDateBySlug: Map<string, string>;
+  /** 凍結中のコホート対照群（arm: "control"）の slug。区分 B も触らない（§5.0.3） */
+  controlSlugs: Set<string>;
   /** 台帳ファイルを読めたか。false ならレポートに「凍結判定なし」と明記する */
   available: boolean;
 }
 
 function emptyLookup(available: boolean): HoldsLookup {
-  return { frozenSlugs: new Set<string>(), releaseDateBySlug: new Map<string, string>(), available };
+  return {
+    frozenSlugs: new Set<string>(),
+    releaseDateBySlug: new Map<string, string>(),
+    controlSlugs: new Set<string>(),
+    available,
+  };
 }
 
 /** レポート名・判定は JST の日付で行う（UTC だと日本時間の午前中に前日付になる） */
@@ -46,6 +54,7 @@ export function loadHolds(holdsPath: string, today: string = todayJst()): HoldsL
     const frozenSlugs = new Set<string>();
     const releaseDateBySlug = new Map<string, string>();
     const openEnded = new Set<string>();
+    const controlSlugs = new Set<string>();
 
     for (const row of rows) {
       const releaseDate = row.releaseDate == null ? null : String(row.releaseDate);
@@ -55,8 +64,10 @@ export function loadHolds(holdsPath: string, today: string = todayJst()): HoldsL
         .filter(Boolean)
         .map(String);
 
+      const isControl = row.arm === 'control';
       for (const slug of slugs) {
         frozenSlugs.add(slug);
+        if (isControl) controlSlugs.add(slug);
         if (!releaseDate) {
           openEnded.add(slug);
           releaseDateBySlug.delete(slug);
@@ -68,7 +79,7 @@ export function loadHolds(holdsPath: string, today: string = todayJst()): HoldsL
       }
     }
 
-    return { frozenSlugs, releaseDateBySlug, available: true };
+    return { frozenSlugs, releaseDateBySlug, controlSlugs, available: true };
   } catch (error) {
     console.error(`${holdsPath} の読み込みに失敗: ${error instanceof Error ? error.message : error}`);
     return emptyLookup(false);
