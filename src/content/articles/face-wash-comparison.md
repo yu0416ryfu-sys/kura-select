@@ -7,6 +7,40 @@ articleType: "comparison"
 updatedAt: "2026-09-26"
 products:
   - rank: 1
+    name: "ダヴ ビューティモイスチャー 洗顔料 130g"
+    brand: "ユニリーバ（ダヴ）"
+    price: 407
+    capacity: "130g"
+    pricePerUnit: "約3.1円/g"
+    rating: 4.67
+    reviewCount: 3
+    features:
+      - "ニュートリアムモイスチャー配合で洗い上がりしっとり"
+      - "マイルドな洗浄成分で肌に負担が少ない"
+      - "クリーミーな泡が肌を包み込むように洗う"
+    pros:
+      - "洗い上がりのつっぱり感がほとんどない"
+      - "敏感肌でも使いやすいマイルド処方"
+      - "大手ブランドの安心感"
+    cons:
+      - "さっぱり感を求める方には不向き"
+      - "毛穴汚れへの洗浄力はやや控えめ"
+    recommendedFor: "敏感肌・乾燥肌の方・マイルドな洗い心地を好む方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4902111736655%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10445198%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/i0069/4902111736655_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902111736655.html"
+        matchStatus: "matched"
+        updatedAt: "2026-09-23"
+        price: 378
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902111736655"
+        available: true
+        rating: 4.5
+        reviewCount: 8
+    genreId: "100627"
+  - rank: 2
     name: "洗顔フォーム 毛穴 ロゼット洗顔パスタ 海泥スムース WEB限定2倍"
     brand: "ロゼット"
     price: 1210
@@ -29,40 +63,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u529n.3rdw64b3.g00u529n.3rdw7138/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frosette-shop%2Fpasta_ks240_1ps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frosette-shop%2Fi%2F10000066%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rosette-shop/cabinet/thumbna/pasta_ks240_1ps/imgrc0108556464.jpg?_ex=128x128"
     genreId: "405130"
-  - rank: 2
-    name: "ダヴ ビューティモイスチャー 洗顔料 130g"
-    brand: "ユニリーバ（ダヴ）"
-    price: 1577
-    capacity: "130g"
-    pricePerUnit: "約12円/g"
-    rating: 4.64
-    reviewCount: 14
-    features:
-      - "ニュートリアムモイスチャー配合で洗い上がりしっとり"
-      - "マイルドな洗浄成分で肌に負担が少ない"
-      - "クリーミーな泡が肌を包み込むように洗う"
-    pros:
-      - "洗い上がりのつっぱり感がほとんどない"
-      - "敏感肌でも使いやすいマイルド処方"
-      - "大手ブランドの安心感"
-    cons:
-      - "さっぱり感を求める方には不向き"
-      - "毛穴汚れへの洗浄力はやや控えめ"
-    recommendedFor: "敏感肌・乾燥肌の方・マイルドな洗い心地を好む方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F563823%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11186459%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/823/563823.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902111736655.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-23"
-        price: 378
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902111736655"
-        available: true
-        rating: 4.5
-        reviewCount: 8
-    genreId: "100627"
   - rank: 3
     name: "DoMeCare マイクロクレイウォッシュ 110g"
     brand: "DoMeCare"
