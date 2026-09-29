@@ -7,7 +7,7 @@ articleType: "comparison"
 updatedAt: "2026-09-26"
 products:
   - rank: 1
-    name: "国内産 農家直米 白米"
+    name: "国内産 ブレンド米 白米 10kg（訳あり）"
     brand: "安齋商店"
     price: 4180
     capacity: "10kg"
@@ -15,17 +15,17 @@ products:
     rating: 4.39
     reviewCount: 16100
     features:
-      - "研がずに炊ける無洗米タイプ"
-      - "5kg×2袋に小分けされていて保管しやすい"
-      - "三重県産コシヒカリの単一銘柄"
+      - "国内産の複数原料米（ブレンド米）"
+      - "通常の精米（無洗米ではない）"
+      - "価格重視の訳あり品"
     pros:
-      - "水を節約でき毎日の炊飯の手間が減る"
-      - "小分け包装で開封後も鮮度を保ちやすい"
+      - "1kgあたりの価格を抑えやすい"
+      - "毎日の炊飯用にまとめて買いやすい"
       - "レビュー件数が多く味の評価を確認しやすい"
     cons:
-      - "無洗米は通常精米より価格がやや高め"
-      - "産年の切り替え時期は在庫が変動しやすい"
-    recommendedFor: "研ぐ手間を省きたい方・銘柄を決めて買いたい方"
+      - "産地・品種は単一銘柄ではない"
+      - "炊飯前に研ぐ必要がある"
+    recommendedFor: "銘柄にこだわらず価格を抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qemen.3rdw6bea.g00qemen.3rdw7dff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanzai-rice%2Fnouka10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanzai-rice%2Fi%2F10000181%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anzai-rice/cabinet/02207291/02207319/r7san-n10.jpg?_ex=128x128"
     offers:
@@ -75,7 +75,7 @@ products:
         reviewCount: 120
     genreId: "201184"
   - rank: 3
-    name: "令和7年産 無洗米 新潟産コシヒカリ 10kg"
+    name: "令和8年産 無洗米 新潟産コシヒカリ 10kg"
     brand: "ミツハシライス"
     price: 6800
     capacity: "10kg"
