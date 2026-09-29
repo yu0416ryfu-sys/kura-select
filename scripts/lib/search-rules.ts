@@ -814,6 +814,19 @@ export function getArticleSpecificAdditionRule(category: string, baseKeyword: st
     return CATEGORY_SEARCH_RULES['bandage'];
   }
 
+  // mineral-water カテゴリは「ウォーターサーバー」を除外語にしているため、買い切り卓上浄水サーバー記事は専用ルールにする
+  // ノーブランドの同型品（温冷両用 5L 等）が大量出品されているので、ブランド名を必須にして混入を防ぐ
+  if (category === 'mineral-water' && /買い切り/.test(baseKeyword)) {
+    return {
+      keywords: ['浄水型ウォーターサーバー 買い切り 卓上', 'ブリタ キューブCool', 'puriot 浄水 サーバー'],
+      include: ['ウォーターサーバー', '浄水サーバー', 'サーバー型浄水器', '卓上浄水器'],
+      requiredGroups: [['puriot', 'ピュリオ', 'ブリタ', 'BRITA', 'AQUIBEAR', 'アクイビア']],
+      exclude: ['カートリッジのみ', '交換用', 'フィルターのみ', 'ボトル', 'ガロン', 'ペットボトル対応', '天然水', 'レンタル', '炭酸', '水素水', 'おままごと'],
+      units: ['個'],
+      minScore: 4,
+    };
+  }
+
   if (category === 'cooking-pot' && /フライパン/.test(baseKeyword)) {
     return {
       keywords: ['IH対応 フライパン 26cm', 'フライパン 26cm IH ガス火対応', '取っ手が外れる フライパン 26cm IH'],

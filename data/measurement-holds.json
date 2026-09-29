@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-09-30",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。凍結の対象・起点日・解除日（releaseDate）はこのファイルが唯一の正（2026-09-15 改定）。",
     "施策の中身・判定根拠・経緯の正はローカルのメモリ project_measurement_holds。機械判定（scripts/check-internal-links.mjs など）もこのファイルを読む。施策を打ったら両者を必ず同時に更新する。",
@@ -184,6 +184,26 @@
       ],
       "simultaneous": false,
       "note": "2026-09-23 の kura-article-recommend で季節先行枠として提案、ユーザー判断で同日公開。判定は公開2週後の順位帯（CLAUDE.md §5.0.2 手順6）＝判定日 2026-10-07。⚠️判定時に必ず併記する留保: ①判定窓（09-23〜10-07）は需要の立ち上がり前で、表示が少なくても「未離陸」と断定しない（季節性）②新記事の表示は cohort-01-description の正規化子（全記事ページの残余）に入るため、cohort-01 の判定時は残余から kairo-comparison を控除する ③deodorizing-bag の教訓どおり、公開後に URL 検査からインデックス登録をリクエストしないと窓が空振りしうる（ユーザー作業）。cooling-pack は凍結対象外（被リンク追加のみ）。",
+      "source": "project_measurement_holds"
+    },
+    {
+      "slug": "water-server-buyout-comparison",
+      "releaseDate": "2026-10-15",
+      "releaseLabel": "2026-10-14",
+      "targetType": "new-article",
+      "startedAt": "2026-09-30",
+      "searchNeed": "レンタル契約や解約金に縛られずにウォーターサーバーを使いたい人が、水道水を注ぐだけの買い切り型・卓上型の浄水サーバーの中から、冷水・お湯の有無とカートリッジ代まで含めてどれを買えばよいかを知りたくて検索している。Google サジェストでは「浄水型ウォーターサーバー 買い切り／卓上／購入／解約金なし／契約期間なし」「ウォーターサーバー 水道水 買い切り 卓上」が確認できたが、GSC・Bing とも既存記事で該当クエリの表示はほぼ0で需要は未実測。離陸すれば表示/日と表示加重平均順位に出るはず",
+      "measures": [
+        "表示/日",
+        "表示加重平均順位",
+        "インデックス登録（lastCrawlTime）"
+      ],
+      "actions": [
+        "新規記事公開（4選・カテゴリ mineral-water）＋ water-server-comparison と mineral-water-comparison の本文から被リンク各1本",
+        "search-rules.ts に記事別ルール（mineral-water && 買い切り・ブランド名必須）を追加"
+      ],
+      "simultaneous": false,
+      "note": "2026-09-30 の市場分析（Google サジェスト・競合 SERP）で「買い切り・卓上・水道水」の需要の集まりを確認し、ユーザー判断で作成。楽天はノーブランドの同型品が大半のため、ブランド品4機種（puriot ES / ブリタ キューブCool / AQUIBEAR F1 / puriot CUTE）に限定。単価列は本体価格（capacity 1個）で、カートリッジ代は本文で考え方のみ示す（ユーザー判断）。判定は公開2週後の順位帯（CLAUDE.md §5.0.2 手順6）＝判定日 2026-10-14。起点はデプロイ日（JST）。push が 09-30 でなければ startedAt / releaseDate / releaseLabel を直す。⚠️判定時に必ず併記する留保: ①新記事の表示は cohort-01-description の正規化子（全記事ページの残余）に入るため、cohort-01 の確定判断（10-08）では残余から water-server-buyout-comparison も控除する ②公開後に URL 検査からインデックス登録をリクエストしないと窓が空振りしうる（ユーザー作業）③リンク元の water-server-comparison / mineral-water-comparison は凍結対象外（R3・被リンク追加のみ）。",
       "source": "project_measurement_holds"
     },
     {
