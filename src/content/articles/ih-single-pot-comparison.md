@@ -1,6 +1,6 @@
 ---
-title: "IH対応一人用鍋おすすめ比較10選｜16cm・18cmの選び方"
-description: "IH対応の一人用鍋を16cm・18cm中心に10製品比較。卓上鍋、ホーロー、片手鍋など少人数調理に使いやすい鍋を選び方とあわせて紹介します。"
+title: "IH対応一人用鍋おすすめ比較9選｜16cm・18cmの選び方"
+description: "IH対応の一人用鍋を16cm・18cm中心に9製品比較。卓上鍋、ホーロー、片手鍋など少人数調理に使いやすい鍋を選び方とあわせて紹介します。"
 category: "cooking-pot"
 publishedAt: "2026-05-10"
 articleType: "comparison"
@@ -8,40 +8,6 @@ updatedAt: "2026-09-23"
 draft: false
 products:
   - rank: 1
-    name: "パール金属 丸鍋 IH対応 17cm HB-6941"
-    brand: "パール金属"
-    price: 320
-    capacity: "17cm / 約0.9L"
-    pricePerUnit: "約356円/L"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "IH・ガス火対応の17cmアルミ丸鍋"
-      - "容量約900mlの一人鍋向きサイズ"
-      - "3個組セット販売"
-    pros:
-      - "16cmと18cmの中間サイズで汎用性がある"
-      - "ラーメンやうどんを一人分作りやすい深さ"
-      - "まとめ買いで予備を確保しやすい"
-    cons:
-      - "3個組のため単品での購入はできない"
-      - "アルミ素材のため熱の保温は長くない"
-    recommendedFor: "一人鍋をコスパよく揃えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00skymn.3rdw69d1.g00skymn.3rdw71fc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbarg-k%2F4549308569414%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbarg-k%2Fi%2F10033844%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/barg-k/cabinet/pearl/06709571/06786135/hb6941-1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4549308569414.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-23"
-        price: 236
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4549308569414"
-        available: true
-    genreId: "101857"
-  - rank: 2
     name: "ひとり用鍋 浅型 17cm IH対応 蓋付 LD-485"
     brand: "ベストコ"
     price: 1090
@@ -64,7 +30,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uczfn.3rdw6070.g00uczfn.3rdw7487/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanadeya2022%2Fn1579%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanadeya2022%2Fi%2F10007117%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kanadeya2022/cabinet/tmb/n/n1501-n1600/n1579.jpg?_ex=128x128"
     genreId: "215913"
-  - rank: 3
+  - rank: 2
     name: "一人鍋 深型 14cm IH対応 蓋付 LD-486"
     brand: "ベストコ"
     price: 1090
@@ -87,7 +53,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sm4gn.3rdw6cde.g00sm4gn.3rdw7f68/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatsukukan%2Fn1580%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatsukukan%2Fi%2F10011195%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/seikatsukukan/cabinet/tmb/n/n1501-n1600/n1580.jpg?_ex=128x128"
     genreId: "215913"
-  - rank: 4
+  - rank: 3
     name: "パール金属 おうち御膳 すきやき鍋 18cm HB-6603"
     brand: "パール金属"
     price: 1540
@@ -110,7 +76,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psopn.3rdw654b.g00psopn.3rdw78e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fj-shop%2Fp02563%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fj-shop%2Fi%2F10012580%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/j-shop/cabinet/02933114/p02563-01.jpg?_ex=128x128"
     genreId: "559062"
-  - rank: 5
+  - rank: 4
     name: "野田琺瑯 ココナベ 個々鍋 大 KO-21 IH対応"
     brand: "野田琺瑯"
     price: 3490
@@ -133,7 +99,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ps1gn.3rdw6ea1.g00ps1gn.3rdw70d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshokki%2Fkokonabe002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshokki%2Fi%2F10010755%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shokki/cabinet/noda/imgrc0073680268.jpg?_ex=128x128"
     genreId: "215913"
-  - rank: 6
+  - rank: 5
     name: "ジオ・プロダクト 片手鍋 16cm GEO-16N"
     brand: "宮崎製作所"
     price: 6840
@@ -167,7 +133,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cooking-clocca_10001872"
         available: true
     genreId: "215908"
-  - rank: 7
+  - rank: 6
     name: "アルミ卓上鍋 SHIEN 旨宴 16cm IH対応"
     brand: "リビング"
     price: 2470
@@ -190,7 +156,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvhdn.3rdw6896.g00rvhdn.3rdw7113/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaily-shop%2F10003997%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaily-shop%2Fi%2F10003997%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daily-shop/cabinet/35/4546490506692-tg0.jpg?_ex=128x128"
     genreId: "215913"
-  - rank: 8
+  - rank: 7
     name: "卓上鍋 18cm IH対応 軽量 蓋付き プチなべ"
     brand: "和平フレイズ"
     price: 2950
@@ -213,7 +179,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F462344%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10207572%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_wahei10/462344.jpg?_ex=128x128"
     genreId: "215913"
-  - rank: 9
+  - rank: 8
     name: "富士ホーロー コットン ミルクパン 14cm IH対応"
     brand: "FYP"
     price: 3300
@@ -236,7 +202,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rhi5n.3rdw6f4a.g00rhi5n.3rdw7b06/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcooking-clocca%2Ffuji-ctn14m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcooking-clocca%2Fi%2F10005336%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cooking-clocca/cabinet/03069247/03181597/fuji-ctn14m_01-1.jpg?_ex=128x128"
     genreId: "215908"
-  - rank: 10
+  - rank: 9
     name: "プチなべ IH対応 卓上鍋 蓋付き"
     brand: "和平フレイズ"
     price: 2480
