@@ -3,7 +3,7 @@ title: "フロッシュとヤシノミ洗剤を徹底比較【2026年版】コ�
 description: "フロッシュとヤシノミ洗剤（サラヤ）の違いを1mLあたりの単価・手肌へのやさしさ・食材洗浄対応・環境配慮の4軸で徹底比較。どっちを選ぶべきか、用途別の使い分けまで解説します。価格は毎週自動更新。"
 category: "dish-detergent"
 publishedAt: "2026-07-08"
-updatedAt: "2026-09-26"
+updatedAt: "2026-09-29"
 articleType: "comparison"
 products:
   - rank: 1
@@ -43,9 +43,9 @@ products:
   - rank: 2
     name: "フロッシュ 食器用洗剤 アロエヴェラ 詰替 1000mL"
     brand: "フロッシュ（Werner & Mertz）"
-    price: 2264
+    price: 2351
     capacity: "1000mL"
-    pricePerUnit: "約2.3円/mL"
+    pricePerUnit: "約2.4円/mL"
     rating: 0
     reviewCount: 0
     features:
