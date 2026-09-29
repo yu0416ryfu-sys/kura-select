@@ -1,5 +1,5 @@
 ---
-title: "シャンプー比較【2026年版】コスパと仕上がりで選ぶ9選"
+title: "シャンプー比較【2026年版】コスパと仕上がりで選ぶ8選"
 description: "シャンプーを1mLあたりの価格と仕上がりで比較。家族用・ダメージケア・スカルプ系まで、選び方の基準を整理します。"
 category: "shampoo"
 publishedAt: "2026-04-30"
@@ -41,40 +41,6 @@ products:
         reviewCount: 0
     genreId: "210677"
   - rank: 2
-    name: "メリットキッズ 泡で出てくるシャンプー ナチュラルフローラル 330ml"
-    brand: "花王（メリット）"
-    price: 862
-    capacity: "330ml"
-    pricePerUnit: "約2.6円/mL"
-    rating: 4.74
-    reviewCount: 128
-    features:
-      - "地肌すっきり成分でフケ・かゆみを防ぐ"
-      - "ノンシリコン処方で地肌にやさしい"
-      - "家族全員で使えるやさしい処方"
-    pros:
-      - "1mLあたり約0.90円で最安クラス"
-      - "大容量1200mLで詰め替え頻度が少ない"
-      - "家族みんなで使えるシンプル処方"
-    cons:
-      - "しっとり感は控えめ"
-      - "ダメージケア効果は弱い"
-    recommendedFor: "家族で使いたい方・地肌ケア重視の方・シンプルなシャンプーを求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qawwn.3rdw6843.g00qawwn.3rdw7de1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000207354%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmecomonline%2Fi%2F10166811%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecomonline/cabinet/item-img221/item_1000207354_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/1931029/"
-        matchStatus: "pending"
-        updatedAt: "2026-09-26"
-        price: 909
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_1931029"
-        available: true
-        rating: 4.4
-        reviewCount: 68
-    genreId: "210677"
-  - rank: 3
     name: "ケフトル スカルプシャンプー"
     brand: "ケフトル"
     price: 2680
@@ -108,7 +74,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cerapure_kf-22"
         available: true
     genreId: "210677"
-  - rank: 4
+  - rank: 3
     name: "マイマボタニカル 育毛シャンプー"
     brand: "マイマ"
     price: 2940
@@ -131,7 +97,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s57rn.3rdw600e.g00s57rn.3rdw7060/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finksc%2Fshampoo_d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finksc%2Fi%2F10000367%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/n_shampoo.jpg?_ex=128x128"
     genreId: "210677"
-  - rank: 5
+  - rank: 4
     name: "ウーマシャンプー プレミアム 300mL"
     brand: "U-MA"
     price: 4400
@@ -165,7 +131,7 @@ products:
         rating: 4.5
         reviewCount: 6
     genreId: "210677"
-  - rank: 6
+  - rank: 5
     name: "ケラスターゼ バン ニュートリ フォーティファイ 250mL"
     brand: "ケラスターゼ"
     price: 4180
@@ -199,7 +165,7 @@ products:
         rating: 4.5
         reviewCount: 12
     genreId: "210677"
-  - rank: 7
+  - rank: 6
     name: "スカルプD モーニング 炭酸シャンプー"
     brand: "スカルプD"
     price: 2546
@@ -222,7 +188,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ps33n.3rdw647e.g00ps33n.3rdw7e95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Fmorning%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fangfa%2Fi%2F10005009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/angfa/cabinet/2019/item/new_logo/morning_n.jpg?_ex=128x128"
     genreId: "210677"
-  - rank: 8
+  - rank: 7
     name: "ケラスターゼ バン デンシフィック"
     brand: "ケラスターゼ"
     price: 4180
@@ -256,7 +222,7 @@ products:
         reviewCount: 18
     priceMax: 7480
     genreId: "210677"
-  - rank: 9
+  - rank: 8
     name: "ニューモ ヴァクトリー スカルプシャンプー"
     brand: "ニューモ"
     price: 4970
