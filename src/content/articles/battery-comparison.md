@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-26"
+updatedAt: "2026-09-30"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約26円/本"
     rating: 4.69
-    reviewCount: 654
+    reviewCount: 655
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -64,6 +64,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sjs2n.3rdw66d7.g00sjs2n.3rdw7ac9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fb-surprise2%2F4976680250058%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fb-surprise2%2Fi%2F10123347%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/b-surprise2/cabinet/cm102/4976680250058.jpg?_ex=128x128"
     genreId: "212634"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisiadenki%2F4976680250058.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-29"
+        price: 1188
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisiadenki_4976680250058"
+        available: true
   - rank: 3
     name: "パナソニック アルカリ乾電池 10年保存 20本セット"
     brand: "Panasonic"
@@ -71,7 +82,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約64円/本"
     rating: 4.65
-    reviewCount: 1235
+    reviewCount: 1237
     features:
       - "10年長期保存対応のパナソニック製アルカリ電池"
       - "1パック4本×5パック構成で使いやすい量を分割して管理できる"
@@ -101,9 +112,9 @@ products:
   - rank: 4
     name: "Panasonic アルカリ乾電池 単3形 20本パック"
     brand: "Panasonic"
-    price: 1540
+    price: 1880
     capacity: "20本"
-    pricePerUnit: "約77円/本"
+    pricePerUnit: "約94円/本"
     rating: 4.8
     reviewCount: 51
     features:

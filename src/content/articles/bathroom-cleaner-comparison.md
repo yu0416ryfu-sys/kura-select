@@ -4,7 +4,7 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-30"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -43,9 +43,9 @@ products:
   - rank: 2
     name: "ルックプラス バスタブクレンジング 銀イオンプラス ハーバルグリーン 詰替 800mL"
     brand: "ライオン（ルック）"
-    price: 535
+    price: 366
     capacity: "800mL"
-    pricePerUnit: "約0.67円/mL"
+    pricePerUnit: "約0.46円/mL"
     rating: 5
     reviewCount: 19
     features:
@@ -65,13 +65,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/x627331/"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4903301333470.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-26"
-        price: 468
-        rating: 4.67
-        reviewCount: 150
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_x627331"
+        updatedAt: "2026-09-29"
+        price: 380
+        rating: 4.71
+        reviewCount: 7
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4903301333470"
         available: true
     genreId: "216017"
   - rank: 3
@@ -284,8 +284,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00001384.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
-        price: 2526
+        updatedAt: "2026-09-29"
+        price: 2326
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00001384"
         available: true
         rating: 0

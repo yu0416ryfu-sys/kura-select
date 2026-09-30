@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnisshodrug%2F4955574823646.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-09-29"
         price: 2598
         rating: 0
         reviewCount: 0
@@ -67,13 +67,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1229-4960085990510.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkikuchiyakuten%2F4960085990510.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-26"
-        price: 605
+        updatedAt: "2026-09-29"
+        price: 547
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-ex_1229-4960085990510"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kikuchiyakuten_4960085990510"
         available: true
   - rank: 3
     name: "ケアリーヴ 治す力 防水タイプ Mサイズ 12枚"
@@ -102,8 +102,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdenergy%2Fal-4987167075026-5set-ypt.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-26"
+        matchStatus: "matched"
+        updatedAt: "2026-09-29"
         price: 3170
         rating: 0
         reviewCount: 1
@@ -136,8 +136,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4987167065744-73-30001222.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-26"
+        matchStatus: "matched"
+        updatedAt: "2026-09-29"
         price: 587
         rating: 0
         reviewCount: 1
@@ -170,8 +170,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901730240017.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
-        price: 1267
+        updatedAt: "2026-09-29"
+        price: 1249
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901730240017"
@@ -203,8 +203,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/h219465/"
-        matchStatus: "pending"
-        updatedAt: "2026-09-26"
+        matchStatus: "matched"
+        updatedAt: "2026-09-29"
         price: 1495
         rating: 4.75
         reviewCount: 57

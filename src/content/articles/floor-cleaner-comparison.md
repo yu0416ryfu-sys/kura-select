@@ -4,7 +4,7 @@ description: "フローリング掃除シートを1枚あたりのコストで�
 category: "floor-cleaner"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-30"
 products:
   - rank: 1
     name: "激落ちくん ウェットシート 水の激落ちシート Ba フローリング＆リビング用シー"
@@ -293,7 +293,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-09-29"
         price: 1800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
         available: true
@@ -307,7 +307,7 @@ products:
     price: 2335
     capacity: "32枚"
     rating: 4.7
-    reviewCount: 197
+    reviewCount: 199
     features:
       - "立体吸着構造の洗浄液入りウェットシートで皮脂汚れをしっかり拭き取る"
       - "1枚でゴミ取りと拭き掃除を同時にこなせる設計"

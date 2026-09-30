@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-09-26"
+updatedAt: "2026-09-30"
 products:
   - rank: 1
     name: "WEIMALL 不織布カラーマスク 立体3D 50枚"
@@ -79,7 +79,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft0090-01-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-09-29"
         price: 2039
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t0090-01-a"
         available: true
@@ -126,7 +126,7 @@ products:
     price: 264
     capacity: "50枚"
     rating: 4.2
-    reviewCount: 22208
+    reviewCount: 22213
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -149,7 +149,7 @@ products:
     price: 298
     capacity: "50枚"
     rating: 4.17
-    reviewCount: 3740
+    reviewCount: 3742
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -202,10 +202,10 @@ products:
   - rank: 8
     name: "接触冷感 3D不織布マスク"
     brand: "alice-zk"
-    price: 328
+    price: 276
     capacity: "20枚"
     rating: 4.06
-    reviewCount: 9242
+    reviewCount: 9243
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"

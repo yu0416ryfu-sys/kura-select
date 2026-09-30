@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-09-26"
+updatedAt: "2026-09-30"
 draft: false
 products:
   - rank: 1
@@ -84,7 +84,7 @@ products:
     capacity: "42×67cm 1枚"
     pricePerUnit: "約2290円/枚"
     rating: 4.61
-    reviewCount: 2130
+    reviewCount: 2132
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -205,10 +205,10 @@ products:
   - rank: 7
     name: "バスマット マイクロファイバー"
     brand: "Inbloom"
-    price: 980
+    price: 1170
     capacity: "40×60cm 1枚"
     rating: 4.35
-    reviewCount: 1050
+    reviewCount: 1053
     features:
       - "マイクロファイバーとポリエステル混合"
       - "抗菌・防臭加工で清潔さを保つ"
@@ -233,7 +233,7 @@ products:
     price: 1999
     capacity: "40×60cm / 50×80cm 1枚"
     rating: 4.64
-    reviewCount: 3303
+    reviewCount: 3306
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"
@@ -281,7 +281,7 @@ products:
     price: 2070
     capacity: "60×40cm / 70×50cm"
     rating: 4.42
-    reviewCount: 2696
+    reviewCount: 2700
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

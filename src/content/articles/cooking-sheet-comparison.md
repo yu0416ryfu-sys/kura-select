@@ -4,7 +4,7 @@ description: "クッキングシートを1mあたりの価格で比較。ロー�
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-09-26"
+updatedAt: "2026-09-30"
 products:
   - rank: 1
     name: "フジ クッキングシート 業務用 33cm×30m"
@@ -181,8 +181,8 @@ products:
     brand: "ニュービックエース"
     price: 1980
     capacity: "100枚入り"
-    rating: 4.68
-    reviewCount: 203
+    rating: 4.69
+    reviewCount: 210
     features:
       - "PFAS・フッ素フリーの無漂白クッキングシート"
       - "フライパンや蒸し料理・包み焼きに対応した多用途タイプ"

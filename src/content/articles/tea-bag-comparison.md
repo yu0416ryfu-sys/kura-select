@@ -4,7 +4,7 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-30"
 draft: false
 products:
   - rank: 1
@@ -165,7 +165,7 @@ products:
       - "同シリーズ「極」と比べると風味のグレード差がある場合がある"
     recommendedFor: "本格緑茶ティーバッグを比較的手軽な価格帯で試したい人向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qxp2n.3rdw627b.g00qxp2n.3rdw7e81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiraoka88%2Fsou-tb3g12_3set_postmail%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiraoka88%2Fi%2F10000295%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiraoka88/cabinet/campaign/modify/imgrc0087368259.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiraoka88/cabinet/campaign/modify/imgrc0130888454.jpg?_ex=128x128"
     genreId: "100361"
   - rank: 7
     name: "駿府玉川茶 極 ティーバッグ"
@@ -188,7 +188,7 @@ products:
       - "同シリーズ他品と比べると価格が高めの場合がある"
     recommendedFor: "品質を重視した緑茶ティーバッグを手軽に楽しみたい人向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qxp2n.3rdw627b.g00qxp2n.3rdw7e81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiraoka88%2Fkwm-tb3g12_3set_postmail%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiraoka88%2Fi%2F10000293%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiraoka88/cabinet/campaign/modify/imgrc0087368257.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiraoka88/cabinet/campaign/modify/imgrc0130825617.jpg?_ex=128x128"
     genreId: "100361"
   - rank: 8
     name: "十六爽健 麦茶 ティーバッグ 192g（8g×24袋）"

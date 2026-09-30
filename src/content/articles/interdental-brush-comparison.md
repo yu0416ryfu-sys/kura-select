@@ -4,7 +4,7 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-26"
+updatedAt: "2026-09-30"
 draft: false
 products:
   - rank: 1
@@ -34,8 +34,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fippo0709%2F10073035-03-01.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-26"
+        matchStatus: "matched"
+        updatedAt: "2026-09-29"
         price: 1489
         rating: 4.6
         reviewCount: 5
@@ -48,7 +48,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約10円/本"
     rating: 4.54
-    reviewCount: 114
+    reviewCount: 115
     features:
       - "ワイヤーを使わないラバー素材の I字型"
       - "4S-3S / SS〜M / M〜L の3区分から選ぶサイズ展開"
@@ -68,8 +68,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F107212.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-26"
+        matchStatus: "matched"
+        updatedAt: "2026-09-29"
         price: 200
         rating: 4.41
         reviewCount: 58
@@ -102,8 +102,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901616216099.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
-        price: 248
+        updatedAt: "2026-09-29"
+        price: 251
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901616216099"
         available: true
         rating: 4.83
@@ -193,7 +193,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-09-29"
         price: 247
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
         available: true
@@ -250,8 +250,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fi-ha%2F24000005.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-26"
+        matchStatus: "matched"
+        updatedAt: "2026-09-29"
         price: 1950
         rating: 4.79
         reviewCount: 380

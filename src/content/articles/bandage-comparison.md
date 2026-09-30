@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ9選を1枚あた�
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-09-26"
+updatedAt: "2026-09-30"
 draft: false
 products:
   - rank: 1
@@ -123,11 +123,34 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/680/4987059002680.jpg?_ex=128x128"
     genreId: "568428"
   - rank: 6
-    name: "ニチバン ケアリーヴ 素肌タイプ Mサイズ 100枚"
-    brand: "ニチバン（ケアリーヴ）"
-    price: 1477
+    name: "バンドエイド 超フィット Mサイズ 100枚"
+    brand: "バンドエイド（BAND-AID）"
+    price: 1530
     capacity: "100枚"
     pricePerUnit: "約15円/枚"
+    rating: 4.48
+    reviewCount: 29
+    features:
+      - "伸縮性の高いポリウレタンエラストマー素材"
+      - "通気性があり素肌に近い色味"
+      - "滅菌済みの救急絆創膏"
+    pros:
+      - "指や関節など動かす部位でもぴったりフィットしやすい"
+      - "貼っていても目立ちにくい"
+      - "動きの邪魔になりにくく日常使いしやすい"
+    cons:
+      - "プラスチックタイプより1枚あたりの単価は上がりやすい"
+      - "伸縮性が高いため貼る際に引っ張りすぎるとシワになりやすい"
+    recommendedFor: "指や関節など動く場所に貼ることが多い方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901730230322%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11231350%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/322/4901730230322.jpg?_ex=128x128"
+    genreId: "568428"
+  - rank: 7
+    name: "ニチバン ケアリーヴ 素肌タイプ Mサイズ 100枚"
+    brand: "ニチバン（ケアリーヴ）"
+    price: 1650
+    capacity: "100枚"
+    pricePerUnit: "約17円/枚"
     rating: 5
     reviewCount: 3
     features:
@@ -156,33 +179,10 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10092408"
         available: true
     genreId: "402796"
-  - rank: 7
-    name: "バンドエイド 超フィット Mサイズ 100枚"
-    brand: "バンドエイド（BAND-AID）"
-    price: 1530
-    capacity: "100枚"
-    pricePerUnit: "約15円/枚"
-    rating: 4.48
-    reviewCount: 29
-    features:
-      - "伸縮性の高いポリウレタンエラストマー素材"
-      - "通気性があり素肌に近い色味"
-      - "滅菌済みの救急絆創膏"
-    pros:
-      - "指や関節など動かす部位でもぴったりフィットしやすい"
-      - "貼っていても目立ちにくい"
-      - "動きの邪魔になりにくく日常使いしやすい"
-    cons:
-      - "プラスチックタイプより1枚あたりの単価は上がりやすい"
-      - "伸縮性が高いため貼る際に引っ張りすぎるとシワになりやすい"
-    recommendedFor: "指や関節など動く場所に貼ることが多い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901730230322%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11231350%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/322/4901730230322.jpg?_ex=128x128"
-    genreId: "568428"
   - rank: 8
     name: "ケアリーヴ 防水タイプ Mサイズ 40枚"
     brand: "ニチバン（ケアリーヴ）"
-    price: 803
+    price: 806
     capacity: "40枚"
     pricePerUnit: "約20円/枚"
     rating: 4.79

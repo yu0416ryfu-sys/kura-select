@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-26"
+updatedAt: "2026-09-30"
 products:
   - rank: 1
     name: "ユースキン ハンドクリーム つけかえパウチ 180g"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4987353190618.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-23"
+        updatedAt: "2026-09-29"
         price: 1211
         rating: 4.67
         reviewCount: 9
@@ -46,7 +46,7 @@ products:
     capacity: "180g×2個"
     pricePerUnit: "約7.8円/g"
     rating: 5
-    reviewCount: 3
+    reviewCount: 4
     features:
       - "有効成分を配合した指定医薬部外品のハンドクリーム"
       - "ポンプ容器に付け替えて使う詰め替えパウチ"
@@ -193,7 +193,7 @@ products:
     price: 2200
     capacity: "43g"
     rating: 4.7
-    reviewCount: 741
+    reviewCount: 742
     features:
       - "オーガニック認証原料を使用したハンドクリーム"
       - "43gの使いやすいサイズでギフト用途にも対応"

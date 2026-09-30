@@ -4,43 +4,9 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-09-30"
 products:
   - rank: 1
-    name: "グーン スーパーBIG テープ"
-    brand: "グーン（大王製紙）"
-    price: 1710
-    capacity: "28枚（Bigより大きいサイズ・15〜35kg）"
-    pricePerUnit: "約61円/枚"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "体格が大きくなった子ども向けのテープタイプ"
-      - "BIGサイズを超える体重帯に対応"
-      - "寝かせたまま交換できるテープ止め設計"
-    pros:
-      - "パンツ型では窮屈になった体型でも使える"
-      - "おむつ外れが遅い子の夜用として選びやすい"
-      - "単袋なのでサイズが合うか試しやすい"
-    cons:
-      - "取り扱い店舗が限られサイズ欠けが起きやすい"
-      - "まとめ買いパックより1枚あたりの負担が大きい"
-    recommendedFor: "BIGサイズでは小さくなってきた子のテープ型を探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r8mvn.3rdw64c9.g00r8mvn.3rdw71c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F4902011745009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11307183%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r-kojima/cabinet/n0000000683/4902011745009_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhashbaby%2Fw875019-1008--.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-26"
-        price: 12051
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hashbaby_w875019-1008--"
-        available: true
-    genreId: "205198"
-  - rank: 2
     name: "エリエール　グーン　スーパービッグ　テープ止めタイプ"
     brand: "大王製紙（グーン）"
     price: 6984
@@ -73,6 +39,40 @@ products:
         updatedAt: "2026-09-26"
         rating: 4
         reviewCount: 3
+    genreId: "205198"
+  - rank: 2
+    name: "グーン スーパーBIG テープ"
+    brand: "グーン（大王製紙）"
+    price: 2300
+    capacity: "28枚（Bigより大きいサイズ・15〜35kg）"
+    pricePerUnit: "約82円/枚"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "体格が大きくなった子ども向けのテープタイプ"
+      - "BIGサイズを超える体重帯に対応"
+      - "寝かせたまま交換できるテープ止め設計"
+    pros:
+      - "パンツ型では窮屈になった体型でも使える"
+      - "おむつ外れが遅い子の夜用として選びやすい"
+      - "単袋なのでサイズが合うか試しやすい"
+    cons:
+      - "取り扱い店舗が限られサイズ欠けが起きやすい"
+      - "まとめ買いパックより1枚あたりの負担が大きい"
+    recommendedFor: "BIGサイズでは小さくなってきた子のテープ型を探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r8mvn.3rdw64c9.g00r8mvn.3rdw71c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F4902011745009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F11307183%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r-kojima/cabinet/n0000000683/4902011745009_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhashbaby%2Fw875019-1008--.html"
+        matchStatus: "matched"
+        updatedAt: "2026-09-26"
+        price: 12051
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hashbaby_w875019-1008--"
+        available: true
     genreId: "205198"
   - rank: 3
     name: "グーン スーパーBIG テープ 3個セット"
@@ -194,7 +194,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-09-29"
         rating: 0
         reviewCount: 0
     priceMax: 5852

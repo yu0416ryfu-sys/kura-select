@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-26"
+updatedAt: "2026-09-30"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"
@@ -46,8 +46,8 @@ products:
     price: 455
     capacity: "30cm×50m"
     pricePerUnit: "約9.1円/m"
-    rating: 4.57
-    reviewCount: 76
+    rating: 4.58
+    reviewCount: 78
     features:
       - "クレハのポリ塩化ビニリデン製ラップ・幅広30cmタイプ"
       - "のこぎり刃でカットしやすい設計"
