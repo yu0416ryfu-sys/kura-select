@@ -60,8 +60,8 @@ products:
       - "1回あたりのコストがやや高め"
       - "乾燥肌の方は保湿ケアが別途必要"
     recommendedFor: "殺菌力を最重視する方・しっかり洗いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe416836h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10507332%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/217/4906156801217.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4906156801217%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10017772%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/217/4906156801217.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
