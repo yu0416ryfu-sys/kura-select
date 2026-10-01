@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 740" width="600" height="740" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>汚れの種類と、効くもの</title>
+  <rect width="600" height="740" fill="#ffffff"/>
+
+  <!-- 見出し -->
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">汚れの種類と、効くもの</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">油汚れはアルカリで、水まわりの白い汚れは酸で落とす</text>
+
+  <!-- 油の汚れ → アルカリ性 -->
+  <rect x="20" y="96" width="560" height="250" rx="14" fill="#fff4ea" stroke="#f0b27a" stroke-width="2"/>
+  <rect x="40" y="114" width="250" height="40" rx="20" fill="#d9701f"/>
+  <text x="165" y="141" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">べたつく汚れ（油・皮脂）</text>
+  <text x="40" y="186" font-size="19" fill="#374151">油・皮脂・手あか・衣類の黄ばみ</text>
+  <line x1="300" y1="198" x2="300" y2="220" stroke="#d9701f" stroke-width="3"/>
+  <path d="M290 216 L300 230 L310 216 Z" fill="#d9701f"/>
+  <text x="318" y="220" font-size="17" font-weight="700" fill="#9a4a10">アルカリ性で落とす</text>
+
+  <rect x="40" y="238" width="250" height="92" rx="10" fill="#ffffff" stroke="#f0b27a" stroke-width="1.5"/>
+  <text x="60" y="272" font-size="22" font-weight="700" fill="#1f2937">重曹</text>
+  <text x="118" y="271" font-size="16" fill="#6b7280">粉のままこする</text>
+  <text x="60" y="310" font-size="17" fill="#374151">焦げ・こびりつき・におい</text>
+
+  <rect x="310" y="238" width="250" height="92" rx="10" fill="#ffffff" stroke="#f0b27a" stroke-width="1.5"/>
+  <text x="330" y="272" font-size="22" font-weight="700" fill="#1f2937">セスキ</text>
+  <text x="402" y="271" font-size="16" fill="#6b7280">溶かしてスプレー</text>
+  <text x="330" y="310" font-size="17" fill="#374151">油汚れ・皮脂・黄ばみ</text>
+
+  <!-- ミネラルの汚れ → 酸性 -->
+  <rect x="20" y="366" width="560" height="230" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <rect x="40" y="384" width="380" height="40" rx="20" fill="#2f6fb5"/>
+  <text x="230" y="411" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">白く固まる汚れ（水あか・石けんカス）</text>
+  <text x="40" y="456" font-size="19" fill="#374151">水あか・石けんカス・白い結晶・尿石</text>
+  <line x1="300" y1="468" x2="300" y2="490" stroke="#2f6fb5" stroke-width="3"/>
+  <path d="M290 486 L300 500 L310 486 Z" fill="#2f6fb5"/>
+  <text x="318" y="490" font-size="17" font-weight="700" fill="#1f4f87">酸性で落とす</text>
+
+  <rect x="40" y="508" width="520" height="72" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="60" y="540" font-size="22" font-weight="700" fill="#1f2937">クエン酸</text>
+  <text x="160" y="539" font-size="16" fill="#6b7280">水に溶かして使う</text>
+  <text x="60" y="567" font-size="17" fill="#374151">蛇口やシンクの白い曇り、トイレの尿石に</text>
+
+  <!-- 注意 -->
+  <rect x="20" y="616" width="560" height="108" rx="12" fill="#fdecec" stroke="#e57373" stroke-width="2"/>
+  <text x="40" y="648" font-size="18" font-weight="700" fill="#b42318">注意</text>
+  <text x="40" y="679" font-size="17" fill="#374151">重曹とクエン酸を混ぜると、力を打ち消し合う</text>
+  <text x="40" y="708" font-size="17" font-weight="700" fill="#b42318">クエン酸と塩素系洗剤は絶対に混ぜない（有毒ガス）</text>
+</svg>
