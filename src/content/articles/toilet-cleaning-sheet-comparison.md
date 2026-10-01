@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-09-26"
+updatedAt: "2026-09-30"
 draft: false
 products:
   - rank: 1
@@ -44,9 +44,9 @@ products:
   - rank: 2
     name: "オレンジオイル配合 トイレクリーナー 30枚入×60個セット"
     brand: "美と健康"
-    price: 6589
+    price: 7040
     capacity: "30枚×60個（1800枚）"
-    pricePerUnit: "約3.7円/枚"
+    pricePerUnit: "約3.9円/枚"
     rating: 4.8
     reviewCount: 5
     features:
@@ -116,7 +116,7 @@ products:
     capacity: "288枚"
     pricePerUnit: "約8.7円/枚"
     rating: 4.58
-    reviewCount: 52
+    reviewCount: 53
     features:
       - "トイレに流せる掃除シート"
       - "特許製法をうたう厚手シート"

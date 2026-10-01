@@ -46,8 +46,8 @@ products:
     price: 3297
     capacity: "1280ml×2セット（2,560ml）"
     pricePerUnit: "約1.3円/ml"
-    rating: 4.64
-    reviewCount: 11
+    rating: 4.67
+    reviewCount: 12
     features:
       - "独自のW除菌成分で菌を99.9%除去"
       - "トウモロコシ由来の消臭成分で臭いを分解"

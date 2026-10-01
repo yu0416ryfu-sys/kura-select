@@ -91,7 +91,7 @@ products:
     price: 2680
     capacity: "1本"
     rating: 4.57
-    reviewCount: 1324
+    reviewCount: 1325
     features:
       - "本体タイプのボールペンで日常の筆記に使いやすい"
       - "まとめ買いやギフト用途でも選びやすい"

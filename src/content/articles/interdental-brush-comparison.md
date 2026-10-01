@@ -133,6 +133,40 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sugartime/cabinet/kz/kzsuns/kzsuns-79.jpg?_ex=128x128"
     genreId: "506385"
   - rank: 5
+    name: "デンタルプロ 歯間ブラシ I字型 Mサイズ 15本入"
+    brand: "デンタルプロ"
+    price: 423
+    capacity: "15本"
+    pricePerUnit: "約28円/本"
+    rating: 4.44
+    reviewCount: 9
+    features:
+      - "I字型でまっすぐ届く設計、前歯・小臼歯に使いやすい"
+      - "Mサイズ（サイズ4）は日本人の歯間幅に合う定番サイズ"
+      - "15本入でコスパと使い切りやすさのバランスが良い"
+    pros:
+      - "I字型なので鏡を見ながら挿入角度を確認しやすい"
+      - "最も普及したサイズで使い方の情報が豊富"
+      - "コンビニ・ドラッグストアでも補充しやすい定番品"
+    cons:
+      - "奥歯（大臼歯）にはL字型の方が届きやすい場合がある"
+      - "サイズ選びを誤ると歯ぐきを傷つける可能性がある"
+    recommendedFor: "歯間ブラシを初めて使う方・前歯や小臼歯のケアを中心にしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fd412800h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10014395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/634/4973227834634.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
+        matchStatus: "matched"
+        updatedAt: "2026-09-29"
+        price: 247
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
+        available: true
+        rating: 0
+        reviewCount: 1
+    genreId: "204758"
+  - rank: 6
     name: "デンタルプロ 歯間ブラシ L字型 SS 10本入"
     brand: "デンタルプロ"
     price: 288
@@ -165,40 +199,6 @@ products:
         available: true
         rating: 4.73
         reviewCount: 22
-    genreId: "204758"
-  - rank: 6
-    name: "デンタルプロ 歯間ブラシ I字型 Mサイズ 15本入"
-    brand: "デンタルプロ"
-    price: 467
-    capacity: "15本"
-    pricePerUnit: "約31円/本"
-    rating: 4.44
-    reviewCount: 9
-    features:
-      - "I字型でまっすぐ届く設計、前歯・小臼歯に使いやすい"
-      - "Mサイズ（サイズ4）は日本人の歯間幅に合う定番サイズ"
-      - "15本入でコスパと使い切りやすさのバランスが良い"
-    pros:
-      - "I字型なので鏡を見ながら挿入角度を確認しやすい"
-      - "最も普及したサイズで使い方の情報が豊富"
-      - "コンビニ・ドラッグストアでも補充しやすい定番品"
-    cons:
-      - "奥歯（大臼歯）にはL字型の方が届きやすい場合がある"
-      - "サイズ選びを誤ると歯ぐきを傷つける可能性がある"
-    recommendedFor: "歯間ブラシを初めて使う方・前歯や小臼歯のケアを中心にしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fd412800h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10014395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/634/4973227834634.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-29"
-        price: 247
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
-        available: true
-        rating: 0
-        reviewCount: 1
     genreId: "204758"
   - rank: 7
     name: "GUM 歯間ブラシ L字型 10本×4セット"

@@ -13,7 +13,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1265円/kg"
     rating: 4.79
-    reviewCount: 3057
+    reviewCount: 3056
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -138,8 +138,8 @@ products:
     price: 3297
     capacity: "1280ml×2セット（2,560ml）"
     pricePerUnit: "約1.3円/ml"
-    rating: 4.64
-    reviewCount: 11
+    rating: 4.67
+    reviewCount: 12
     features:
       - "48時間爽やか続く消臭効果"
       - "W除菌+消臭で衣類・布製品にスプレーするだけ"

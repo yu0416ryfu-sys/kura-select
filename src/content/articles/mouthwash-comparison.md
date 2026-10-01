@@ -7,40 +7,6 @@ articleType: "comparison"
 updatedAt: "2026-09-30"
 products:
   - rank: 1
-    name: "薬用リステリン トータルケアプラス クリーンミント味 マウスウォッシュ【LIST"
-    brand: "ジョンソン・エンド・ジョンソン（リステリン）"
-    price: 964
-    capacity: "1000mL"
-    pricePerUnit: "約0.96円/mL"
-    rating: 4.67
-    reviewCount: 421
-    features:
-      - "4つの有効成分で口内の原因菌を99.9%殺菌"
-      - "虫歯・歯肉炎・口臭・歯石・着色の7大トラブルに対応"
-      - "液体だから歯ブラシが届かない場所もケア"
-    pros:
-      - "1mLあたり約1.0円で高コスパ"
-      - "殺菌力が最も高いマウスウォッシュの一つ"
-      - "4本セットでまとめ買いに最適"
-    cons:
-      - "刺激が強く、初心者には辛い"
-      - "アルコール配合で口が乾燥しやすい"
-    recommendedFor: "口臭・虫歯予防を徹底したい方・刺激に慣れている方・コスパ重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ukdzn.3rdw666d.g00ukdzn.3rdw7ec6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplant-online%2Fp10605%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplant-online%2Fi%2F10000064%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/plant-online/cabinet/image/p10605_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4901730160476.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-23"
-        price: 1060
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4901730160476"
-        available: true
-    genreId: "208265"
-  - rank: 2
     name: "リステリン トータルケアプラス クリーンミント"
     brand: "LISTERINE（リステリン）"
     price: 5965
@@ -74,7 +40,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_70697"
         available: true
     genreId: "208265"
-  - rank: 3
+  - rank: 2
     name: "薬用リステリン トータルケアゼロプラス ノンアルコール 1000mL×6本"
     brand: "ジョンソン・エンド・ジョンソン（リステリン）"
     price: 5965
@@ -109,7 +75,7 @@ products:
         reviewCount: 5
         matchNotes: "capacity不一致: capacity不一致"
     genreId: "208265"
-  - rank: 4
+  - rank: 3
     name: "モンダミン プレミアムケア ゴールドミント"
     brand: "アース製薬（モンダミン）"
     price: 1047
@@ -143,7 +109,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901080248619"
         available: true
     genreId: "208265"
-  - rank: 5
+  - rank: 4
     name: "GUM デンタルリンス ナイトケア 900mL"
     brand: "サンスター（GUM）"
     price: 1038
@@ -176,6 +142,40 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "208265"
+  - rank: 5
+    name: "薬用リステリン トータルケアプラス クリーンミント味 1000mL"
+    brand: "ジョンソン・エンド・ジョンソン（リステリン）"
+    price: 1235
+    capacity: "1000mL"
+    pricePerUnit: "約1.2円/mL"
+    rating: 4.42
+    reviewCount: 76
+    features:
+      - "4つの有効成分で口内の原因菌を99.9%殺菌"
+      - "虫歯・歯肉炎・口臭・歯石・着色の7大トラブルに対応"
+      - "液体だから歯ブラシが届かない場所もケア"
+    pros:
+      - "1mLあたり約1.0円で高コスパ"
+      - "殺菌力が最も高いマウスウォッシュの一つ"
+      - "4本セットでまとめ買いに最適"
+    cons:
+      - "刺激が強く、初心者には辛い"
+      - "アルコール配合で口が乾燥しやすい"
+    recommendedFor: "口臭・虫歯予防を徹底したい方・刺激に慣れている方・コスパ重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901730160476%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10784829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/476/4901730160476.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4901730160476.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-23"
+        price: 1060
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4901730160476"
+        available: true
     genreId: "208265"
   - rank: 6
     name: "システマ EX デンタルリンス"
@@ -308,7 +308,7 @@ products:
     price: 2580
     capacity: "300mL"
     rating: 4.6
-    reviewCount: 2911
+    reviewCount: 2913
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"
@@ -322,7 +322,7 @@ products:
       - "ホワイトニング効果は継続使用が前提"
     recommendedFor: "ホワイトニングケアを日常に取り入れたい方・低刺激マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b071gypvwv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000116%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/whith/top/906b071gypvwv.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/coupon/906b071gypvwv-50.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

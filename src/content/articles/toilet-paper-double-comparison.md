@@ -194,8 +194,8 @@ products:
     price: 734
     capacity: "40m×4ロール"
     pricePerUnit: "約4.6円/m"
-    rating: 4.83
-    reviewCount: 18
+    rating: 4.84
+    reviewCount: 19
     features:
       - "トリートメント配合で肌に優しい"
       - "長めシート設計で少量でも十分"

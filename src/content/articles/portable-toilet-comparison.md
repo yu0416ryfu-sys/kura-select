@@ -107,7 +107,7 @@ products:
       - "セット量が多く収納スペースを取りやすい"
     recommendedFor: "在宅避難向けにまとまった回数を備えたい世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ue8bn.3rdw65ff.g00ue8bn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr1-shop%2Fcsd-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr1-shop%2Fi%2F10000062%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r1-shop/cabinet/09975530/09975535/csdgai/zt.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r1-shop/cabinet/10018776/10041819/310.jpg?_ex=128x128"
     priceMax: 25900
     genreId: "501137"
   - rank: 5
@@ -164,7 +164,7 @@ products:
       - "凝固スピードや使用感は環境で差が出る"
     recommendedFor: "初めて簡易トイレを備える方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ttlin.3rdw62eb.g00ttlin.3rdw7fe0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftokyohiromi%2Fmkdj-easycs60%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftokyohiromi%2Fi%2F10004913%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tokyohiromi/cabinet/mkdj-easycs/imgrc0120353239.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tokyohiromi/cabinet/mkdj-easycs/imgrc0121094239.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -241,7 +241,7 @@ products:
     price: 1580
     capacity: "20回分"
     rating: 4.52
-    reviewCount: 7228
+    reviewCount: 7229
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"

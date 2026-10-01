@@ -8,40 +8,6 @@ updatedAt: "2026-09-30"
 draft: false
 products:
   - rank: 1
-    name: "紙でつくったねこ砂"
-    brand: "ペッツビレッジクロス"
-    price: 4480
-    capacity: "6.5L×8袋（52L）"
-    pricePerUnit: "約86円/L"
-    rating: 4.55
-    reviewCount: 2397
-    features:
-      - "国産再生紙由来の紙製猫砂"
-      - "濡れると色が変わる変色機能付き"
-      - "トイレに流せる・燃えるゴミに出せる"
-    pros:
-      - "色の変化で尿の状態を確認しやすい"
-      - "軽量で持ち運びや交換がしやすい"
-      - "廃棄の選択肢が多く使い勝手が良い"
-    cons:
-      - "鉱物系に比べて固まりが軽く崩れやすい場合がある"
-      - "好みによっては紙独特の使用感が気になる場合がある"
-    recommendedFor: "猫の健康チェックや軽量・廃棄の手軽さを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10005169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10005169%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo15/r1394_00028.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101385ku.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 4280
-        rating: 4.27
-        reviewCount: 95
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101385ku"
-        available: true
-    genreId: "204174"
-  - rank: 2
     name: "アイリスオーヤマ 紙の猫砂 7L×6袋"
     brand: "アイリスオーヤマ"
     price: 3980
@@ -75,6 +41,40 @@ products:
         rating: 4.47
         reviewCount: 32
     genreId: "204174"
+  - rank: 2
+    name: "紙でつくったねこ砂"
+    brand: "ペッツビレッジクロス"
+    price: 5160
+    capacity: "6.5L×8袋（52L）"
+    pricePerUnit: "約99円/L"
+    rating: 4.55
+    reviewCount: 2397
+    features:
+      - "国産再生紙由来の紙製猫砂"
+      - "濡れると色が変わる変色機能付き"
+      - "トイレに流せる・燃えるゴミに出せる"
+    pros:
+      - "色の変化で尿の状態を確認しやすい"
+      - "軽量で持ち運びや交換がしやすい"
+      - "廃棄の選択肢が多く使い勝手が良い"
+    cons:
+      - "鉱物系に比べて固まりが軽く崩れやすい場合がある"
+      - "好みによっては紙独特の使用感が気になる場合がある"
+    recommendedFor: "猫の健康チェックや軽量・廃棄の手軽さを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10005169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10005169%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo15/r1394_00028.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101385ku.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
+        price: 4280
+        rating: 4.27
+        reviewCount: 95
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101385ku"
+        available: true
+    genreId: "204174"
   - rank: 3
     name: "ウッディフレッシュ 鉱物系猫砂 小粒 16L×2袋"
     brand: "ウッディフレッシュ"
@@ -101,9 +101,9 @@ products:
   - rank: 4
     name: "おからでつくったねこ砂"
     brand: "ペッツビレッジクロス"
-    price: 4980
+    price: 5160
     capacity: "6L×8袋（48L）"
-    pricePerUnit: "約104円/L"
+    pricePerUnit: "約108円/L"
     rating: 4.59
     reviewCount: 3345
     features:
@@ -286,7 +286,7 @@ products:
     price: 4349
     capacity: "6L×3個（18L）"
     rating: 4.68
-    reviewCount: 2052
+    reviewCount: 2053
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"

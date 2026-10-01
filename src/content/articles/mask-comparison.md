@@ -182,7 +182,7 @@ products:
     price: 298
     capacity: "51枚"
     rating: 4.22
-    reviewCount: 5781
+    reviewCount: 5782
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"

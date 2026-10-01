@@ -9,9 +9,9 @@ products:
   - rank: 1
     name: "ダスキン 台所用スポンジ 抗菌タイプ 6個セット"
     brand: "ダスキン"
-    price: 1060
+    price: 1098
     capacity: "6個（約6ヶ月分）"
-    pricePerUnit: "約177円/個"
+    pricePerUnit: "約183円/個"
     rating: 4.78
     reviewCount: 9895
     features:
@@ -47,7 +47,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.76
-    reviewCount: 1432
+    reviewCount: 1433
     features:
       - "ポリウレタンフォーム＋ナイロン不織布＋ポリエステルの3素材構造"
       - "ブラック・グレー・ホワイトのモノトーン3色展開"

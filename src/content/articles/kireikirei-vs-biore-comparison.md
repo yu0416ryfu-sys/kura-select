@@ -183,8 +183,8 @@ products:
     price: 4164
     capacity: "4800ml"
     pricePerUnit: "約0.87円/mL"
-    rating: 4.71
-    reviewCount: 431
+    rating: 4.72
+    reviewCount: 432
     features:
       - "殺菌成分を配合した医薬部外品の薬用泡タイプ"
       - "シトラスフルーティの香り"

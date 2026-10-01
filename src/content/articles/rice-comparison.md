@@ -262,7 +262,7 @@ products:
     price: 8250
     capacity: "18kg〜20kg"
     rating: 4.74
-    reviewCount: 45833
+    reviewCount: 45834
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

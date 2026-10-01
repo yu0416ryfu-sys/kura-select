@@ -182,11 +182,11 @@ products:
   - rank: 6
     name: "soil バスマット ライト 珪藻土"
     brand: "soil（イスルギ）"
-    price: 9900
+    price: 11000
     capacity: "1枚"
-    pricePerUnit: "約9900円/枚"
-    rating: 4.64
-    reviewCount: 5132
+    pricePerUnit: "約11000円/枚"
+    rating: 4.58
+    reviewCount: 1502
     features:
       - "珪藻土を板状に成形した速乾タイプのバスマット"
       - "アスベスト不使用をうたう日本製の正規品"
@@ -199,8 +199,8 @@ products:
       - "硬く割れやすいため落下や強い衝撃に弱い"
       - "吸水が落ちたら紙やすりでの手入れが必要"
     recommendedFor: "バスマットの洗濯回数を減らしたい方・脱衣所を清潔に保ちたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pmxdn.3rdw6b38.g00pmxdn.3rdw7247/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-goods%2Fbath_soil-bathmat-lt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-goods%2Fi%2F10009860%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-goods/cabinet/h_cart3/soil-bathmat-lt_th.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pz5qn.3rdw6327.g00pz5qn.3rdw7b11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimportshopaqua%2Fac-bm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimportshopaqua%2Fi%2F10002973%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/importshopaqua/cabinet/zoom_c/omk0/10/ac-bm.jpg?_ex=128x128"
     genreId: "100650"
   - rank: 7
     name: "バスマット マイクロファイバー"
@@ -281,7 +281,7 @@ products:
     price: 2070
     capacity: "60×40cm / 70×50cm"
     rating: 4.42
-    reviewCount: 2700
+    reviewCount: 2699
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

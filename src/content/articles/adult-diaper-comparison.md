@@ -115,7 +115,7 @@ products:
     capacity: "96枚"
     pricePerUnit: "約65円/枚"
     rating: 4.71
-    reviewCount: 447
+    reviewCount: 448
     features:
       - "男女共用のパンツタイプ"
       - "やわらかい肌当たりの素材設計"

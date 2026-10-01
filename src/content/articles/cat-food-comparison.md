@@ -78,9 +78,9 @@ products:
   - rank: 3
     name: "ナチュラルバランス オリジナルウルトラ"
     brand: "Natural Balance"
-    price: 5000
+    price: 6001
     capacity: "800g×2袋"
-    pricePerUnit: "約3.1円/g"
+    pricePerUnit: "約3.8円/g"
     rating: 4.78
     reviewCount: 674
     features:
@@ -308,7 +308,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.7
-    reviewCount: 985
+    reviewCount: 988
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

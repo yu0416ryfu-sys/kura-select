@@ -60,7 +60,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約80300円/個"
     rating: 4.47
-    reviewCount: 223
+    reviewCount: 225
     features:
       - "冷水・常温・お湯に加え、中間の温度も選べる操作パネル"
       - "ポット型と共通のマクストラプロ カートリッジを使う"

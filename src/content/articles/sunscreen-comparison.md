@@ -197,7 +197,7 @@ products:
       - "肌に合うか確認が必要"
     recommendedFor: "日焼け止めを使用感と用途で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi2mn.3rdw6aae.g00qi2mn.3rdw7998/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpycno%2Frarossyu35%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpycno%2Fi%2F10000752%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pycno/cabinet/lrp/idea_hqs.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pycno/cabinet/cmp/rakuten_sale/1001event_200.jpg?_ex=128x128"
     genreId: "503054"
   - rank: 7
     name: "ラロッシュポゼ UVイデアXL BB"
@@ -274,7 +274,7 @@ products:
     price: 3080
     capacity: "50g"
     rating: 4.84
-    reviewCount: 3921
+    reviewCount: 3923
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
