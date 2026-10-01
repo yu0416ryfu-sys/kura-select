@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 910" width="600" height="910" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>猫砂は、トイレの方式から決める</title>
+  <rect width="600" height="910" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">猫砂は、トイレの方式から決める</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">素材の好みより先に、方式と捨て方を確認する</text>
+  <rect x="20" y="102" width="560" height="248" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <rect x="40" y="120" width="254.8" height="40" rx="20" fill="#2f6fb5"/>
+  <text x="167.4" y="147" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">1. いまのトイレの方式</text>
+  <rect x="40" y="172" width="250" height="160" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="60" y="206" font-size="22" font-weight="700" fill="#1f2937">通常トイレ</text>
+  <text x="182" y="205" font-size="16" fill="#6b7280">固まる砂</text>
+  <text x="60" y="238" font-size="17" fill="#374151">固まった塊をすくい、</text>
+  <text x="60" y="264" font-size="17" fill="#374151">減った分を足す</text>
+  <rect x="310" y="172" width="250" height="160" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="330" y="206" font-size="22" font-weight="700" fill="#1f2937">システムトイレ</text>
+  <text x="330" y="230" font-size="16" fill="#6b7280">専用品</text>
+  <text x="330" y="262" font-size="17" fill="#374151">固まる砂は詰まる</text>
+  <text x="330" y="288" font-size="17" fill="#374151">専用のチップや</text>
+  <text x="330" y="314" font-size="17" fill="#374151">ペレットを使う</text>
+  <line x1="300" y1="354" x2="300" y2="376" stroke="#2f6fb5" stroke-width="3"/>
+  <path d="M290 372 L300 386 L310 372 Z" fill="#2f6fb5"/>
+  <text x="318" y="372" font-size="17" font-weight="700" fill="#1f4f87">通常トイレなら</text>
+  <rect x="20" y="392" width="560" height="372" rx="14" fill="#fff4ea" stroke="#f0b27a" stroke-width="2"/>
+  <rect x="40" y="410" width="334.8" height="40" rx="20" fill="#d9701f"/>
+  <text x="207.4" y="437" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">2. 住まいの捨て方で素材を選ぶ</text>
+  <rect x="40" y="462" width="250" height="136" rx="10" fill="#ffffff" stroke="#f0b27a" stroke-width="1.5"/>
+  <text x="60" y="496" font-size="22" font-weight="700" fill="#1f2937">紙系</text>
+  <text x="60" y="528" font-size="17" fill="#374151">軽い</text>
+  <text x="60" y="554" font-size="17" fill="#374151">可燃ごみに出せる</text>
+  <text x="60" y="580" font-size="17" fill="#374151">自治体が多い</text>
+  <rect x="310" y="462" width="250" height="136" rx="10" fill="#ffffff" stroke="#f0b27a" stroke-width="1.5"/>
+  <text x="330" y="496" font-size="22" font-weight="700" fill="#1f2937">木質・木炭系</text>
+  <text x="330" y="528" font-size="17" fill="#374151">可燃ごみ向き</text>
+  <rect x="40" y="610" width="250" height="136" rx="10" fill="#ffffff" stroke="#f0b27a" stroke-width="1.5"/>
+  <text x="60" y="644" font-size="22" font-weight="700" fill="#1f2937">おから系</text>
+  <text x="60" y="676" font-size="17" fill="#374151">流せる表記が中心</text>
+  <text x="60" y="702" font-size="17" fill="#374151">配管と管理規約を</text>
+  <text x="60" y="728" font-size="17" fill="#374151">先に確認</text>
+  <rect x="310" y="610" width="250" height="136" rx="10" fill="#ffffff" stroke="#f0b27a" stroke-width="1.5"/>
+  <text x="330" y="644" font-size="22" font-weight="700" fill="#1f2937">鉱物系</text>
+  <text x="330" y="676" font-size="17" fill="#374151">処理は楽だが重い</text>
+  <text x="330" y="702" font-size="17" fill="#374151">燃えるごみに出せない</text>
+  <text x="330" y="728" font-size="17" fill="#374151">自治体が多い</text>
+  <rect x="20" y="784" width="560" height="110" rx="12" fill="#f5f6f7" stroke="#c9ced4" stroke-width="2"/>
+  <text x="40" y="816" font-size="18" font-weight="700" fill="#374151">銘柄を変えるとき</text>
+  <text x="40" y="847" font-size="17" fill="#374151">いまの砂に少しずつ混ぜて、数週間かけて移行する</text>
+  <text x="40" y="876" font-size="17" fill="#374151">まとめ買いは、猫が受け入れると分かってから</text>
+</svg>

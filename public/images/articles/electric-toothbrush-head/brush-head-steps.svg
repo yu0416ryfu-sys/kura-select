@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 906" width="600" height="906" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>替えブラシを選ぶ順番</title>
+  <rect width="600" height="906" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">替えブラシを選ぶ順番</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">価格を見るのは、付くことを確かめてから</text>
+  <rect x="20" y="102" width="560" height="114" rx="14" fill="#f5f6f7" stroke="#c9ced4" stroke-width="2"/>
+  <rect x="40" y="120" width="254.8" height="40" rx="20" fill="#4b5563"/>
+  <text x="167.4" y="147" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">1. 本体の型番を調べる</text>
+  <text x="40" y="198" font-size="19" fill="#374151">本体の底面や持ち手、取扱説明書、購入時の箱</text>
+  <line x1="300" y1="220" x2="300" y2="242" stroke="#4b5563" stroke-width="3"/>
+  <path d="M290 238 L300 252 L310 238 Z" fill="#4b5563"/>
+  <rect x="20" y="258" width="560" height="114" rx="14" fill="#f5f6f7" stroke="#c9ced4" stroke-width="2"/>
+  <rect x="40" y="276" width="294.8" height="40" rx="20" fill="#4b5563"/>
+  <text x="187.4" y="303" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">2. 今のブラシの型番を見る</text>
+  <text x="40" y="354" font-size="19" fill="#374151">ブラシの根元やパッケージ</text>
+  <line x1="300" y1="376" x2="300" y2="398" stroke="#4b5563" stroke-width="3"/>
+  <path d="M290 394 L300 408 L310 394 Z" fill="#4b5563"/>
+  <rect x="20" y="414" width="560" height="170" rx="14" fill="#f5f6f7" stroke="#c9ced4" stroke-width="2"/>
+  <rect x="40" y="432" width="294.8" height="40" rx="20" fill="#4b5563"/>
+  <text x="187.4" y="459" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">3. 同じシリーズか確かめる</text>
+  <text x="40" y="510" font-size="19" fill="#374151">同じメーカーでも、世代やシリーズが</text>
+  <text x="40" y="538" font-size="19" fill="#374151">違うと付かないことがある</text>
+  <text x="40" y="566" font-size="19" fill="#374151">メーカーをまたぐ流用は基本的にできない</text>
+  <line x1="300" y1="588" x2="300" y2="610" stroke="#4b5563" stroke-width="3"/>
+  <path d="M290 606 L300 620 L310 606 Z" fill="#4b5563"/>
+  <rect x="20" y="626" width="560" height="264" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <rect x="40" y="644" width="294.8" height="40" rx="20" fill="#2f6fb5"/>
+  <text x="187.4" y="671" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">4. 純正か互換品かを決める</text>
+  <text x="40" y="722" font-size="19" fill="#374151">ブラシの種類を認識する、交換時期を</text>
+  <text x="40" y="750" font-size="19" fill="#374151">知らせる、といった機能が本体にあるか</text>
+  <rect x="40" y="762" width="250" height="110" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="60" y="796" font-size="22" font-weight="700" fill="#1f2937">機能がある</text>
+  <text x="60" y="828" font-size="17" fill="#374151">純正品なら本体の</text>
+  <text x="60" y="854" font-size="17" fill="#374151">性能どおりに使える</text>
+  <rect x="310" y="762" width="250" height="110" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="330" y="796" font-size="22" font-weight="700" fill="#1f2937">機能がない</text>
+  <text x="330" y="828" font-size="17" fill="#374151">互換品でも実害は小さい</text>
+</svg>

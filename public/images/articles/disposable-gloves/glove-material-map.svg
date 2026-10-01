@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1070" width="600" height="1070" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>作業ごとの手袋の選び方</title>
+  <rect width="600" height="1070" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">作業ごとの手袋の選び方</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">汚れから守るのか、薬品から守るのか</text>
+  <rect x="20" y="102" width="560" height="252" rx="14" fill="#edf7f1" stroke="#8fc9a8" stroke-width="2"/>
+  <rect x="40" y="120" width="280" height="40" rx="20" fill="#2f8a5b"/>
+  <text x="180" y="147" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">手を汚さずにつまむ・包む</text>
+  <text x="40" y="198" font-size="19" fill="#374151">料理の下ごしらえ、おにぎり、ゴミ出し</text>
+  <line x1="300" y1="210" x2="300" y2="232" stroke="#2f8a5b" stroke-width="3"/>
+  <path d="M290 228 L300 242 L310 228 Z" fill="#2f8a5b"/>
+  <text x="318" y="232" font-size="17" font-weight="700" fill="#1d5e3d">すぐ外すので薄くてよい</text>
+  <rect x="40" y="252" width="520" height="84" rx="10" fill="#ffffff" stroke="#8fc9a8" stroke-width="1.5"/>
+  <text x="60" y="286" font-size="22" font-weight="700" fill="#1f2937">ポリエチレン</text>
+  <text x="204" y="285" font-size="16" fill="#6b7280">ゆるい</text>
+  <text x="60" y="318" font-size="17" fill="#374151">力を入れると破れやすい</text>
+  <rect x="20" y="374" width="560" height="278" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <rect x="40" y="392" width="200" height="40" rx="20" fill="#2f6fb5"/>
+  <text x="140" y="419" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">洗剤に長く触れる</text>
+  <text x="40" y="470" font-size="19" fill="#374151">食器洗い、洗剤を使う掃除</text>
+  <line x1="300" y1="482" x2="300" y2="504" stroke="#2f6fb5" stroke-width="3"/>
+  <path d="M290 500 L300 514 L310 500 Z" fill="#2f6fb5"/>
+  <text x="318" y="504" font-size="17" font-weight="700" fill="#1f4f87">途中で破れない厚みが要る</text>
+  <rect x="40" y="524" width="250" height="110" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="60" y="558" font-size="22" font-weight="700" fill="#1f2937">ビニール</text>
+  <text x="60" y="590" font-size="17" fill="#374151">ある程度フィットする</text>
+  <text x="60" y="616" font-size="17" fill="#374151">薬品にもある程度強い</text>
+  <rect x="310" y="524" width="250" height="110" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="330" y="558" font-size="22" font-weight="700" fill="#1f2937">ニトリル</text>
+  <text x="330" y="590" font-size="17" fill="#374151">手の形に沿う</text>
+  <text x="330" y="616" font-size="17" fill="#374151">破れにくく薬品に強い</text>
+  <rect x="20" y="672" width="560" height="252" rx="14" fill="#f3effb" stroke="#b9a6e3" stroke-width="2"/>
+  <rect x="40" y="690" width="260" height="40" rx="20" fill="#6b4fb3"/>
+  <text x="170" y="717" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">溶剤・染料、細かい作業</text>
+  <text x="40" y="768" font-size="19" fill="#374151">毛染め、油汚れの掃除、介護</text>
+  <line x1="300" y1="780" x2="300" y2="802" stroke="#6b4fb3" stroke-width="3"/>
+  <path d="M290 798 L300 812 L310 798 Z" fill="#6b4fb3"/>
+  <text x="318" y="802" font-size="17" font-weight="700" fill="#4a3485">強さと指先の感覚が要る</text>
+  <rect x="40" y="822" width="520" height="84" rx="10" fill="#ffffff" stroke="#b9a6e3" stroke-width="1.5"/>
+  <text x="60" y="856" font-size="22" font-weight="700" fill="#1f2937">ニトリル</text>
+  <text x="160" y="855" font-size="16" fill="#6b7280">単価は高め</text>
+  <text x="60" y="888" font-size="17" fill="#374151">溶剤や染料にいちばん粘る</text>
+  <rect x="20" y="944" width="560" height="110" rx="12" fill="#f5f6f7" stroke="#c9ced4" stroke-width="2"/>
+  <text x="40" y="976" font-size="18" font-weight="700" fill="#374151">買い方</text>
+  <text x="40" y="1007" font-size="17" fill="#374151">全部ニトリルだと高くつき、全部ポリエチレンだと破れる</text>
+  <text x="40" y="1036" font-size="17" fill="#374151">2種類を用意して使い分けるのが現実的</text>
+</svg>

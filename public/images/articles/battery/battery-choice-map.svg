@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1099" width="600" height="1099" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>乾電池と充電池の使い分け</title>
+  <rect width="600" height="1099" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">乾電池と充電池の使い分け</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">交換の頻度と、機器の消費電力で決まる</text>
+  <rect x="20" y="102" width="560" height="252" rx="14" fill="#edf7f1" stroke="#8fc9a8" stroke-width="2"/>
+  <rect x="40" y="120" width="240" height="40" rx="20" fill="#2f8a5b"/>
+  <text x="160" y="147" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">月に何度も替える機器</text>
+  <text x="40" y="198" font-size="19" fill="#374151">ゲームのコントローラー、ワイヤレスマウス</text>
+  <line x1="300" y1="210" x2="300" y2="232" stroke="#2f8a5b" stroke-width="3"/>
+  <path d="M290 228 L300 242 L310 228 Z" fill="#2f8a5b"/>
+  <text x="318" y="232" font-size="17" font-weight="700" fill="#1d5e3d">繰り返し使えるぶんが効く</text>
+  <rect x="40" y="252" width="520" height="84" rx="10" fill="#ffffff" stroke="#8fc9a8" stroke-width="1.5"/>
+  <text x="60" y="286" font-size="22" font-weight="700" fill="#1f2937">充電池</text>
+  <text x="138" y="285" font-size="16" fill="#6b7280">ニッケル水素</text>
+  <text x="60" y="318" font-size="17" fill="#374151">充電器が付属するかは商品によって違う</text>
+  <rect x="20" y="374" width="560" height="278" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <rect x="40" y="392" width="300" height="40" rx="20" fill="#2f6fb5"/>
+  <text x="190" y="419" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">年単位で替えない機器・備蓄</text>
+  <text x="40" y="470" font-size="19" fill="#374151">時計、リモコン、防災用の備え置き</text>
+  <line x1="300" y1="482" x2="300" y2="504" stroke="#2f6fb5" stroke-width="3"/>
+  <path d="M290 500 L300 514 L310 500 Z" fill="#2f6fb5"/>
+  <text x="318" y="504" font-size="17" font-weight="700" fill="#1f4f87">充電池は自然放電で不利</text>
+  <rect x="40" y="524" width="250" height="110" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="60" y="558" font-size="22" font-weight="700" fill="#1f2937">アルカリ</text>
+  <text x="60" y="590" font-size="17" fill="#374151">リモコンや時計は</text>
+  <text x="60" y="616" font-size="17" fill="#374151">これで十分</text>
+  <rect x="310" y="524" width="250" height="110" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="330" y="558" font-size="22" font-weight="700" fill="#1f2937">長期保存品</text>
+  <text x="330" y="590" font-size="17" fill="#374151">防災備蓄向き</text>
+  <text x="330" y="616" font-size="17" fill="#374151">保存期限を確認</text>
+  <rect x="20" y="672" width="560" height="252" rx="14" fill="#fff4ea" stroke="#f0b27a" stroke-width="2"/>
+  <rect x="40" y="690" width="240" height="40" rx="20" fill="#d9701f"/>
+  <text x="160" y="717" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">消費電力の大きい機器</text>
+  <text x="40" y="768" font-size="19" fill="#374151">デジタルカメラ、電動おもちゃ、ストロボ</text>
+  <line x1="300" y1="780" x2="300" y2="802" stroke="#d9701f" stroke-width="3"/>
+  <path d="M290 798 L300 812 L310 798 Z" fill="#d9701f"/>
+  <text x="318" y="802" font-size="17" font-weight="700" fill="#9a4a10">交換の頻度を減らせる</text>
+  <rect x="40" y="822" width="520" height="84" rx="10" fill="#ffffff" stroke="#f0b27a" stroke-width="1.5"/>
+  <text x="60" y="856" font-size="22" font-weight="700" fill="#1f2937">高性能アルカリ</text>
+  <text x="60" y="888" font-size="17" fill="#374151">リモコンや時計では体感差はほとんどない</text>
+  <rect x="20" y="944" width="560" height="139" rx="12" fill="#fdecec" stroke="#e57373" stroke-width="2"/>
+  <text x="40" y="976" font-size="18" font-weight="700" fill="#b42318">注意</text>
+  <text x="40" y="1007" font-size="17" font-weight="700" fill="#b42318">充電池（1.2V）とアルカリ（1.5V）は電圧が違う</text>
+  <text x="40" y="1036" font-size="17" fill="#374151">動かない機器や、残量表示が早く「電池切れ」になる機器がある</text>
+  <text x="40" y="1065" font-size="17" fill="#374151">説明書で充電池が禁止されていないかも確認する</text>
+</svg>

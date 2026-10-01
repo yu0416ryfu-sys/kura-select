@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 986" width="600" height="986" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>日焼け止めを比べる前に決めること</title>
+  <rect width="600" height="986" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">日焼け止めを比べる前に決めること</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">顔に塗れるかどうかで、比べる相手が変わる</text>
+  <rect x="20" y="102" width="560" height="224" rx="14" fill="#fff4ea" stroke="#f0b27a" stroke-width="2"/>
+  <rect x="40" y="120" width="194.8" height="40" rx="20" fill="#d9701f"/>
+  <text x="137.4" y="147" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">1. どこに使うか</text>
+  <rect x="40" y="172" width="250" height="136" rx="10" fill="#ffffff" stroke="#f0b27a" stroke-width="1.5"/>
+  <text x="60" y="206" font-size="22" font-weight="700" fill="#1f2937">顔・下地兼用</text>
+  <text x="60" y="238" font-size="17" fill="#374151">BBクリームや</text>
+  <text x="60" y="264" font-size="17" fill="#374151">色つきタイプは</text>
+  <text x="60" y="290" font-size="17" fill="#374151">メイク工程が1つ減る</text>
+  <rect x="310" y="172" width="250" height="136" rx="10" fill="#ffffff" stroke="#f0b27a" stroke-width="1.5"/>
+  <text x="330" y="206" font-size="22" font-weight="700" fill="#1f2937">全身・大容量</text>
+  <text x="330" y="238" font-size="17" fill="#374151">色なしタイプは</text>
+  <text x="330" y="264" font-size="17" fill="#374151">体にも使える</text>
+  <rect x="20" y="346" width="560" height="250" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <rect x="40" y="364" width="174.8" height="40" rx="20" fill="#2f6fb5"/>
+  <text x="127.4" y="391" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">2. 肌が敏感か</text>
+  <rect x="40" y="416" width="250" height="162" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="60" y="450" font-size="22" font-weight="700" fill="#1f2937">紫外線吸収剤</text>
+  <text x="60" y="482" font-size="17" fill="#374151">伸びがよく</text>
+  <text x="60" y="508" font-size="17" fill="#374151">白浮きしにくい</text>
+  <text x="60" y="534" font-size="17" fill="#374151">敏感な時期は</text>
+  <text x="60" y="560" font-size="17" fill="#374151">しみることがある</text>
+  <rect x="310" y="416" width="250" height="162" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="330" y="450" font-size="22" font-weight="700" fill="#1f2937">ノンケミカル</text>
+  <text x="330" y="474" font-size="16" fill="#6b7280">散乱剤のみ</text>
+  <text x="330" y="506" font-size="17" fill="#374151">肌当たりが穏やか</text>
+  <text x="330" y="532" font-size="17" fill="#374151">単価は高め</text>
+  <rect x="20" y="616" width="560" height="224" rx="14" fill="#edf7f1" stroke="#8fc9a8" stroke-width="2"/>
+  <rect x="40" y="634" width="234.8" height="40" rx="20" fill="#2f8a5b"/>
+  <text x="157.4" y="661" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">3. どんな日に使うか</text>
+  <rect x="40" y="686" width="250" height="136" rx="10" fill="#ffffff" stroke="#8fc9a8" stroke-width="1.5"/>
+  <text x="60" y="720" font-size="22" font-weight="700" fill="#1f2937">屋内中心の毎日</text>
+  <text x="60" y="752" font-size="17" fill="#374151">石けんで落とせる</text>
+  <text x="60" y="778" font-size="17" fill="#374151">表記のもの</text>
+  <rect x="310" y="686" width="250" height="136" rx="10" fill="#ffffff" stroke="#8fc9a8" stroke-width="1.5"/>
+  <text x="330" y="720" font-size="22" font-weight="700" fill="#1f2937">プール・炎天下</text>
+  <text x="330" y="752" font-size="17" fill="#374151">ウォータープルーフ</text>
+  <text x="330" y="778" font-size="17" fill="#374151">専用クレンジングが</text>
+  <text x="330" y="804" font-size="17" fill="#374151">要ることも</text>
+  <rect x="20" y="860" width="560" height="110" rx="12" fill="#f5f6f7" stroke="#c9ced4" stroke-width="2"/>
+  <text x="40" y="892" font-size="18" font-weight="700" fill="#374151">同じ銘柄を長く使うなら</text>
+  <text x="40" y="923" font-size="17" fill="#374151">詰め替え用があるかも確認する</text>
+  <text x="40" y="952" font-size="17" fill="#374151">2本目以降の単価が下がる</text>
+</svg>

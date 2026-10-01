@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 983" width="600" height="983" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>塩素系と酸素系の選び分け</title>
+  <rect width="600" height="983" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">塩素系と酸素系の選び分け</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">強さではなく、使える対象で分かれる</text>
+  <rect x="20" y="102" width="560" height="278" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <rect x="40" y="120" width="380" height="40" rx="20" fill="#2f6fb5"/>
+  <text x="230" y="147" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">白いものをしっかり漂白・除菌したい</text>
+  <text x="40" y="198" font-size="19" fill="#374151">まな板、ふきん、白い樹脂製品</text>
+  <line x1="300" y1="210" x2="300" y2="232" stroke="#2f6fb5" stroke-width="3"/>
+  <path d="M290 228 L300 242 L310 228 Z" fill="#2f6fb5"/>
+  <text x="318" y="232" font-size="17" font-weight="700" fill="#1f4f87">向いているのは</text>
+  <rect x="40" y="252" width="520" height="110" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="60" y="286" font-size="22" font-weight="700" fill="#1f2937">塩素系</text>
+  <text x="138" y="285" font-size="16" fill="#6b7280">作用が強い</text>
+  <text x="60" y="318" font-size="17" fill="#374151">色柄物は色が抜ける</text>
+  <text x="60" y="344" font-size="17" fill="#374151">金属は変色やサビの原因になる</text>
+  <rect x="20" y="400" width="560" height="278" rx="14" fill="#edf7f1" stroke="#8fc9a8" stroke-width="2"/>
+  <rect x="40" y="418" width="340" height="40" rx="20" fill="#2f8a5b"/>
+  <text x="210" y="445" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">色柄物も含めて日常的に洗いたい</text>
+  <text x="40" y="496" font-size="19" fill="#374151">色柄のふきんや衣類</text>
+  <line x1="300" y1="508" x2="300" y2="530" stroke="#2f8a5b" stroke-width="3"/>
+  <path d="M290 526 L300 540 L310 526 Z" fill="#2f8a5b"/>
+  <text x="318" y="530" font-size="17" font-weight="700" fill="#1d5e3d">向いているのは</text>
+  <rect x="40" y="550" width="520" height="110" rx="10" fill="#ffffff" stroke="#8fc9a8" stroke-width="1.5"/>
+  <text x="60" y="584" font-size="22" font-weight="700" fill="#1f2937">酸素系</text>
+  <text x="138" y="583" font-size="16" fill="#6b7280">においが穏やか</text>
+  <text x="60" y="616" font-size="17" fill="#374151">色柄物にも使いやすい</text>
+  <text x="60" y="642" font-size="17" fill="#374151">塩素系ほど作用は強くない</text>
+  <rect x="20" y="698" width="560" height="168" rx="12" fill="#fdecec" stroke="#e57373" stroke-width="2"/>
+  <text x="40" y="730" font-size="18" font-weight="700" fill="#b42318">注意</text>
+  <text x="40" y="761" font-size="17" font-weight="700" fill="#b42318">塩素系は、酸性の製品（酸性洗剤・酢・</text>
+  <text x="40" y="790" font-size="17" font-weight="700" fill="#b42318">クエン酸）と反応して有害なガスが出る</text>
+  <text x="40" y="819" font-size="17" fill="#374151">別々に使ったつもりでも、</text>
+  <text x="40" y="848" font-size="17" fill="#374151">排水口やシンクに残っていれば起こりうる</text>
+  <rect x="20" y="886" width="560" height="81" rx="12" fill="#f5f6f7" stroke="#c9ced4" stroke-width="2"/>
+  <text x="40" y="918" font-size="18" font-weight="700" fill="#374151">比較表の見方</text>
+  <text x="40" y="949" font-size="17" fill="#374151">用途が違うので、単価は同じ系統の中で比べる</text>
+</svg>
