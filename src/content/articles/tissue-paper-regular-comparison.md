@@ -4,17 +4,17 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 draft: false
 products:
   - rank: 1
     name: "スコッティ ティッシュ ホワイトパッケージ 60箱"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5401
+    price: 5000
     capacity: "400枚（200組）×60箱"
-    pricePerUnit: "約0.45円/組"
-    rating: 4.75
-    reviewCount: 538
+    pricePerUnit: "約0.42円/組"
+    rating: 4.74
+    reviewCount: 541
     features:
       - "シンプルなホワイトパッケージの定番箱タイプ"
       - "200組のスタンダードな2枚重ね"
@@ -44,11 +44,11 @@ products:
   - rank: 2
     name: "スコッティ ティッシュ 200組 60箱セット"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5401
+    price: 5000
     capacity: "200組×60箱"
-    pricePerUnit: "約0.45円/組"
+    pricePerUnit: "約0.42円/組"
     rating: 4.68
-    reviewCount: 310
+    reviewCount: 311
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -71,7 +71,7 @@ products:
     capacity: "200組×60箱（12,000組）"
     pricePerUnit: "約0.46円/組"
     rating: 4.79
-    reviewCount: 1602
+    reviewCount: 1604
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"

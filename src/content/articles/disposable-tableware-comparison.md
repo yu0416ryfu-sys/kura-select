@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoins%2F1002106.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 5885
         rating: 4.57
         reviewCount: 46
@@ -66,13 +66,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoins%2F1002108.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F181000.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-29"
-        price: 5544
-        rating: 4.61
-        reviewCount: 28
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/koins_1002108"
+        updatedAt: "2026-10-04"
+        price: 6160
+        rating: 4.76
+        reviewCount: 430
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_181000"
         available: true
     genreId: "215980"
   - rank: 3

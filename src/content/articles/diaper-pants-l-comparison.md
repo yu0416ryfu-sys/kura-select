@@ -101,9 +101,9 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitemp-yh%2Fico3952y.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-07"
-        price: 7000
+        matchStatus: "matched"
+        updatedAt: "2026-10-04"
+        price: 6780
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/itemp-yh_ico3952y"
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111127986x4.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-10-04"
         price: 7720
         rating: 0
         reviewCount: 2
@@ -168,13 +168,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8165179/"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhcvalor%2Fvh-4902430148887.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-19"
-        price: 2050
-        rating: 4.53
-        reviewCount: 92
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_8165179"
+        updatedAt: "2026-10-04"
+        price: 2494
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hcvalor_vh-4902430148887"
         available: true
     genreId: "205198"
   - rank: 6
@@ -238,10 +238,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111243099x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-10-04"
         price: 7720
         rating: 4.82
-        reviewCount: 119
+        reviewCount: 120
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111243099x4"
         available: true
     genreId: "205198"

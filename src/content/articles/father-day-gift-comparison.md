@@ -4,15 +4,15 @@ description: "父の日に贈りやすい実用ギフトを比較。名入れボ
 category: "gift"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-10-04"
 draft: false
 products:
   - rank: 1
     name: "日本のクラフトビール 6種飲み比べセット 6本入り"
     brand: "軽井沢ブルワリー"
-    price: 3980
+    price: 4880
     capacity: "6本"
-    pricePerUnit: "約663円/本"
+    pricePerUnit: "約813円/本"
     features:
       - "複数種類のビールを飲み比べしやすいギフトセット"
       - "父の日向けの特別感がある、季節感の強いプレゼント"
@@ -229,8 +229,8 @@ products:
       - "名入れ仕様は注文前にレイアウト確認が必要"
     recommendedFor: "仕事で使える、少しきちんとした父の日ギフトを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qfxfn.3rdw6df5.g00qfxfn.3rdw764e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffsapo%2Fp-jotter%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffsapo%2Fi%2F10035159%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    rating: 4.27
-    reviewCount: 146
+    rating: 4.28
+    reviewCount: 147
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fsapo/cabinet/parker/p-jotter_2024_1.jpg?_ex=128x128"
     priceMax: 3300
     genreId: "216058"

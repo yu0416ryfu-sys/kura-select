@@ -4,7 +4,7 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 draft: false
 products:
   - rank: 1
@@ -165,7 +165,7 @@ products:
       - "互換品より1本あたり単価が高め"
     recommendedFor: "iOシリーズ使用中で純正品にこだわりたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4rin.3rdw6d84.g00t4rin.3rdw7ca0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foralb-braun%2Fhds-ultimate2plus4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foralb-braun%2Fi%2F10001249%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oralb-braun/cabinet/item/hds-ultimate2plus4/hds-ulti2p4_2409.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oralb-braun/cabinet/event/261004/hds-ultimate2plus4.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -215,9 +215,9 @@ products:
   - rank: 8
     name: "ソニッケアー プレミアムクリーン 替えブラシ レギュラー 3本"
     brand: "Philips Sonicare"
-    price: 6480
+    price: 6680
     capacity: "3本"
-    pricePerUnit: "約2160円/本"
+    pricePerUnit: "約2227円/本"
     rating: 4.53
     reviewCount: 15
     features:

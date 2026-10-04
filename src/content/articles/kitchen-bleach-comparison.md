@@ -4,7 +4,7 @@ description: "キッチン用漂白剤を1mLあたりのコストで徹底比較
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4901301021144.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 4345
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4901301021144"
         available: true
@@ -43,9 +43,9 @@ products:
   - rank: 2
     name: "ライオン キッチンパワーブリーチ 業務用 5kg"
     brand: "ライオン"
-    price: 1478
+    price: 1662
     capacity: "5kg"
-    pricePerUnit: "約0.30円/g"
+    pricePerUnit: "約0.33円/g"
     rating: 4.77
     reviewCount: 13
     features:
@@ -77,9 +77,9 @@ products:
   - rank: 3
     name: "オキシクリーン マルチパーパスクリーナー 5.26kg"
     brand: "グラフィコ（OxiClean）"
-    price: 3450
+    price: 3348
     capacity: "5.26kg"
-    pricePerUnit: "約0.66円/g"
+    pricePerUnit: "約0.64円/g"
     rating: 4.64
     reviewCount: 1437
     features:
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbutterflyeffectllc%2F46.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 3594
         rating: 4.8
         reviewCount: 165
@@ -224,7 +224,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F508035.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 1954
         rating: 0
         reviewCount: 0

@@ -3,7 +3,7 @@ title: "キレイキレイとビオレuどっちがいい？【2026年版】殺�
 description: "キレイキレイ（ライオン）とビオレu（花王）のハンドソープはどっちがいい？定番2ブランドの違いを、薬用殺菌成分の位置づけ・泡と液体の選択肢・1mLあたりの単価・肌あたりの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "hand-soap"
 publishedAt: "2026-08-31"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 articleType: "comparison"
 draft: false
 products:
@@ -68,10 +68,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos00871.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-10-04"
         price: 2459
-        rating: 4.77
-        reviewCount: 31
+        rating: 4.79
+        reviewCount: 33
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos00871"
         available: true
     genreId: "304758"
@@ -82,7 +82,7 @@ products:
     capacity: "1500mL"
     pricePerUnit: "約0.77円/mL"
     rating: 4.88
-    reviewCount: 24
+    reviewCount: 25
     features:
       - "使い切りやすい中容量の詰め替えパック"
       - "弱酸性設計の泡タイプ"
@@ -103,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301446404.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-10-04"
         price: 1149
         rating: 0
         reviewCount: 0
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3242257/"
         matchStatus: "pending"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-10-04"
         price: 535
         rating: 4.65
         reviewCount: 210
@@ -171,7 +171,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3112833/"
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-10-04"
         price: 4180
         rating: 4.81
         reviewCount: 73
@@ -184,7 +184,7 @@ products:
     capacity: "4800ml"
     pricePerUnit: "約0.87円/mL"
     rating: 4.72
-    reviewCount: 432
+    reviewCount: 433
     features:
       - "殺菌成分を配合した医薬部外品の薬用泡タイプ"
       - "シトラスフルーティの香り"
@@ -227,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/2787233/"
         matchStatus: "pending"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 720
         rating: 4.69
         reviewCount: 95
@@ -262,8 +262,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2874540019.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
-        price: 638
+        updatedAt: "2026-10-04"
+        price: 578
         rating: 4.8
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2874540019"

@@ -4,14 +4,14 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
     brand: "ライオン（チャーミーグリーン）"
-    price: 1876
+    price: 2108
     capacity: "4000mL"
-    pricePerUnit: "約0.47円/mL"
+    pricePerUnit: "約0.53円/mL"
     rating: 4.72
     reviewCount: 25
     features:
@@ -41,11 +41,45 @@ products:
         reviewCount: 1
     genreId: "216012"
   - rank: 2
+    name: "ヤシノミ洗剤 野菜・食器用 つめかえ用 1000mL"
+    brand: "サラヤ（ヤシノミ洗剤）"
+    price: 559
+    capacity: "1000mL"
+    pricePerUnit: "約0.56円/mL"
+    rating: 4.8
+    reviewCount: 10
+    features:
+      - "植物系天然成分99%使用の低刺激処方"
+      - "野菜・果物の洗浄にも使える食品対応"
+      - "環境負荷が低い生分解性処方"
+    pros:
+      - "手荒れが気になる方にやさしい処方"
+      - "野菜・果物も洗えて食材に安心"
+      - "環境への配慮でエコ志向の方に最適"
+    cons:
+      - "容量が少なく詰め替え頻度が高い"
+      - "強い油汚れには複数回使用が必要"
+    recommendedFor: "敏感肌・手荒れが心配な方・食材も洗いたい方・エコ志向の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4973512309304%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11394431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/304/4973512309304.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkireshop%2Fa4973512320477.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-31"
+        price: 456
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kireshop_a4973512320477"
+        available: true
+    genreId: "216012"
+  - rank: 3
     name: "ライオン CHARMY Magica 除菌＋ プロフェッショナル 無香料 ハーバ"
     brand: "ライオン（チャーミー）"
-    price: 6165
+    price: 6927
     capacity: "3.8L×3個"
-    pricePerUnit: "約0.54円/mL"
+    pricePerUnit: "約0.61円/mL"
     rating: 4.75
     reviewCount: 16
     features:
@@ -72,40 +106,6 @@ products:
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_10053002"
-        available: true
-    genreId: "216012"
-  - rank: 3
-    name: "ヤシノミ洗剤 野菜・食器用 つめかえ用 1000mL"
-    brand: "サラヤ（ヤシノミ洗剤）"
-    price: 559
-    capacity: "1000mL"
-    pricePerUnit: "約0.56円/mL"
-    rating: 4.89
-    reviewCount: 9
-    features:
-      - "植物系天然成分99%使用の低刺激処方"
-      - "野菜・果物の洗浄にも使える食品対応"
-      - "環境負荷が低い生分解性処方"
-    pros:
-      - "手荒れが気になる方にやさしい処方"
-      - "野菜・果物も洗えて食材に安心"
-      - "環境への配慮でエコ志向の方に最適"
-    cons:
-      - "容量が少なく詰め替え頻度が高い"
-      - "強い油汚れには複数回使用が必要"
-    recommendedFor: "敏感肌・手荒れが心配な方・食材も洗いたい方・エコ志向の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4973512309304%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11394431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/304/4973512309304.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkireshop%2Fa4973512320477.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-31"
-        price: 456
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kireshop_a4973512320477"
         available: true
     genreId: "216012"
   - rank: 4

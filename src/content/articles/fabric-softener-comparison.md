@@ -4,43 +4,9 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 products:
   - rank: 1
-    name: "ライオン ソフラン アロマリッチ 業務用 4L"
-    brand: "ライオン（ソフラン）"
-    price: 2313
-    capacity: "4L"
-    pricePerUnit: "約0.58円/mL"
-    rating: 4.73
-    reviewCount: 41
-    features:
-      - "業務用4Lの大容量詰め替えでコスパ重視の購入に向く"
-      - "長時間香りが続く処方と香りサラッ機能を組み合わせた設計"
-      - "コック付き注ぎ口で詰め替えしやすい"
-    pros:
-      - "4Lの大容量でまとめ買いコストを抑えやすい"
-      - "コック付き容器で詰め替え時にこぼれにくい"
-      - "国内定番ブランドで購入しやすく継続しやすい"
-    cons:
-      - "4Lの大容量のため保管スペースが必要"
-      - "香りが強めのため無香料や弱香タイプを好む方には向かない"
-    recommendedFor: "大容量でコストを抑えたい方・国内ブランドの柔軟剤を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F4903301335078%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10059158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/4903301335078tn.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Fr6-06046.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-05"
-        price: 2100
-        rating: 5
-        reviewCount: 4
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_r6-06046"
-        available: true
-    genreId: "559647"
-  - rank: 2
     name: "ダウニー サンライズフレッシュ 4L×3本セット"
     brand: "Downy"
     price: 6980
@@ -67,14 +33,14 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9590768.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-10-04"
         price: 6580
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9590768"
         available: true
-        rating: 4.74
-        reviewCount: 235
+        rating: 4.73
+        reviewCount: 240
     genreId: "559647"
-  - rank: 3
+  - rank: 2
     name: "メキシコダウニー アロマフローラル 2.8L"
     brand: "Downy"
     price: 1700
@@ -108,6 +74,40 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_9110715"
         available: true
     genreId: "559647"
+  - rank: 3
+    name: "ライオン ソフラン アロマリッチ 業務用 4L"
+    brand: "ライオン（ソフラン）"
+    price: 2599
+    capacity: "4L"
+    pricePerUnit: "約0.65円/mL"
+    rating: 4.73
+    reviewCount: 41
+    features:
+      - "業務用4Lの大容量詰め替えでコスパ重視の購入に向く"
+      - "長時間香りが続く処方と香りサラッ機能を組み合わせた設計"
+      - "コック付き注ぎ口で詰め替えしやすい"
+    pros:
+      - "4Lの大容量でまとめ買いコストを抑えやすい"
+      - "コック付き容器で詰め替え時にこぼれにくい"
+      - "国内定番ブランドで購入しやすく継続しやすい"
+    cons:
+      - "4Lの大容量のため保管スペースが必要"
+      - "香りが強めのため無香料や弱香タイプを好む方には向かない"
+    recommendedFor: "大容量でコストを抑えたい方・国内ブランドの柔軟剤を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F4903301335078%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10059158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/4903301335078tn.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Fr6-06046.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-05"
+        price: 2100
+        rating: 5
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_r6-06046"
+        available: true
+    genreId: "559647"
   - rank: 4
     name: "ソフラン アロマリッチ 柔軟剤 詰替用 1300mL×6個"
     brand: "ライオン（ソフラン）"
@@ -135,7 +135,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4903301375111.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-10-04"
         price: 5180
         rating: 0
         reviewCount: 0
@@ -203,7 +203,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-10-04"
         price: 1160
         rating: 4.8
         reviewCount: 5
@@ -258,13 +258,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosme-nana%2F1898619600.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone%2F1898619600.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 1350
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosme-nana_1898619600"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone_1898619600"
         available: true
     genreId: "559647"
   - rank: 9
@@ -327,7 +327,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301423443.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 1453
         rating: 5
         reviewCount: 5

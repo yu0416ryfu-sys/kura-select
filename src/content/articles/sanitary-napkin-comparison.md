@@ -4,7 +4,7 @@ description: "生理用ナプキンはどれがコスパ最強？ソフィ・ロ
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 products:
   - rank: 1
     name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20.5cm"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F600587.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-30"
+        updatedAt: "2026-10-04"
         price: 2183
         rating: 0
         reviewCount: 0
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F20497.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-30"
+        updatedAt: "2026-10-04"
         price: 1933
         rating: 4.88
         reviewCount: 17
@@ -203,7 +203,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffinespharma%2F4902011881349.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-30"
+        updatedAt: "2026-10-04"
         price: 539
         rating: 4.86
         reviewCount: 21
@@ -213,9 +213,9 @@ products:
   - rank: 7
     name: "ナチュラムーン 生理用ナプキン 普通の日用 羽なし 24個入"
     brand: "ナチュラムーン"
-    price: 583
+    price: 638
     capacity: "24個入"
-    pricePerUnit: "約24円/個"
+    pricePerUnit: "約27円/個"
     rating: 4.57
     reviewCount: 301
     features:

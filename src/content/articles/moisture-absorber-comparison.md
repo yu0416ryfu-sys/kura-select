@@ -4,7 +4,7 @@ description: "除湿剤おすすめ9選を吸湿量1mLあたりの単価で徹�
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 products:
   - rank: 1
     name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/awk4587/"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 3345
         rating: 5
         reviewCount: 4
@@ -98,29 +98,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic4903/4904637999804_1.jpg?_ex=128x128"
     genreId: "401619"
   - rank: 4
-    name: "備長炭ドライペット 除湿剤 タンクタイプ どこでも用（3個パック×6個）"
-    brand: "エステー（ドライペット）"
-    price: 1980
-    capacity: "420mL×18個（7,560mL分）"
-    pricePerUnit: "約0.26円/mL"
-    rating: 4.53
-    reviewCount: 47
-    features:
-      - "備長炭配合で除湿＋消臭"
-      - "タンクタイプで吸湿した水が一目でわかる"
-      - "どこでも置ける汎用タイプ"
-    pros:
-      - "除湿と消臭を同時にできる"
-      - "ケース販売で複数箇所に設置しやすい"
-      - "エステーの信頼性と安定した吸湿力"
-    cons:
-      - "1個あたりの吸湿量は水とりぞうさんよりやや少ない"
-      - "タンクが大きいため設置場所を選ぶ"
-    recommendedFor: "湿気＋臭い対策をしたい方・複数箇所使用派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901070939398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11075355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/398/4901070939398.jpg?_ex=128x128"
-    genreId: "568231"
-  - rank: 5
     name: "ドライ ドライUP NECO 1000mL×2個"
     brand: "白元アース（ドライ&ドライUP）"
     price: 545
@@ -154,6 +131,29 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/artfulllife_l222080301"
         available: true
+  - rank: 5
+    name: "備長炭ドライペット 除湿剤 タンクタイプ どこでも用（3個パック×6個）"
+    brand: "エステー（ドライペット）"
+    price: 2107
+    capacity: "420mL×18個（7,560mL分）"
+    pricePerUnit: "約0.28円/mL"
+    rating: 4.54
+    reviewCount: 48
+    features:
+      - "備長炭配合で除湿＋消臭"
+      - "タンクタイプで吸湿した水が一目でわかる"
+      - "どこでも置ける汎用タイプ"
+    pros:
+      - "除湿と消臭を同時にできる"
+      - "ケース販売で複数箇所に設置しやすい"
+      - "エステーの信頼性と安定した吸湿力"
+    cons:
+      - "1個あたりの吸湿量は水とりぞうさんよりやや少ない"
+      - "タンクが大きいため設置場所を選ぶ"
+    recommendedFor: "湿気＋臭い対策をしたい方・複数箇所使用派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901070939398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11075355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/398/4901070939398.jpg?_ex=128x128"
+    genreId: "568231"
   - rank: 6
     name: "激乾 除湿剤 タンクタイプ（400mL×3個パック）"
     brand: "フマキラー（激乾）"

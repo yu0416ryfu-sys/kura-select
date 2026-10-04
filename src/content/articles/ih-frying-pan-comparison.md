@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に7製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 draft: false
 products:
   - rank: 1
@@ -57,7 +57,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco3/item/ua39639/"
         matchStatus: "pending"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 2443
         rating: 0
         reviewCount: 0
@@ -125,7 +125,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F3168430321212.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 5018
         rating: 4.5
         reviewCount: 4
@@ -135,9 +135,9 @@ products:
   - rank: 5
     name: "CAST VARIUS 取っ手が外れるフライパン IH対応 26cm"
     brand: "CAST VARIUS"
-    price: 6880
+    price: 8080
     capacity: "1個"
-    pricePerUnit: "約6880円/個"
+    pricePerUnit: "約8080円/個"
     rating: 0
     reviewCount: 0
     features:

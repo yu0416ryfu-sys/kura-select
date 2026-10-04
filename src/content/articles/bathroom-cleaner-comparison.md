@@ -4,7 +4,7 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4903301333470.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 380
         rating: 4.71
         reviewCount: 7
@@ -80,8 +80,8 @@ products:
     price: 744
     capacity: "1000mL"
     pricePerUnit: "約0.74円/mL"
-    rating: 4.85
-    reviewCount: 20
+    rating: 4.67
+    reviewCount: 21
     features:
       - "エアジェット噴射で浴室全体にムラなく広がる"
       - "こすらずに60秒待って流すだけ"
@@ -284,7 +284,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00001384.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 2326
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00001384"
         available: true

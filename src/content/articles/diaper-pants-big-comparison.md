@@ -4,7 +4,7 @@ description: "パンツ型おむつのBIGサイズを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-10-04"
 draft: false
 products:
   - rank: 1
@@ -33,9 +33,9 @@ products:
   - rank: 2
     name: "ムーニーマン 汗スッキリ 男女共用 ビッグ"
     brand: "ユニ・チャーム"
-    price: 6701
+    price: 6921
     capacity: "36枚×4袋"
-    pricePerUnit: "約47円/枚"
+    pricePerUnit: "約48円/枚"
     rating: 4.76
     reviewCount: 95
     features:

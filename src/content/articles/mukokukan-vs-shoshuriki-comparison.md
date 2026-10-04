@@ -3,7 +3,7 @@ title: "無香空間と消臭力どっちがいい？【2026年版】無香料�
 description: "無香空間（小林製薬）と消臭力（エステー）はどっちがいい？置き型消臭剤の定番2ブランドを1gあたりの単価・無香料か香りか・持続力・詰め替えのしやすさの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "room-deodorizer"
 publishedAt: "2026-08-03"
-updatedAt: "2026-09-23"
+updatedAt: "2026-10-04"
 articleType: "comparison"
 draft: false
 products:
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987072094686-3.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 5577
         rating: 0
         reviewCount: 0
@@ -44,9 +44,9 @@ products:
   - rank: 2
     name: "消臭力 イオン消臭プラス 消臭ビーズ 詰め替え 無香料 1.5kg"
     brand: "エステー（消臭力）"
-    price: 1189
+    price: 1259
     capacity: "1.5kg"
-    pricePerUnit: "約0.79円/g"
+    pricePerUnit: "約0.84円/g"
     rating: 4.68
     reviewCount: 34
     features:
@@ -66,13 +66,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/x808238/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j976230/"
         matchStatus: "pending"
-        updatedAt: "2026-09-29"
-        price: 1780
-        rating: 4.66
-        reviewCount: 41
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_x808238"
+        updatedAt: "2026-10-04"
+        price: 930
+        rating: 4.58
+        reviewCount: 69
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_j976230"
         available: true
     genreId: "401619"
   - rank: 3

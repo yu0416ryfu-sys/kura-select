@@ -4,7 +4,7 @@ description: "洗濯ネットおすすめ10選をコスパ・用途別に比較�
 category: "laundry-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-09-26"
+updatedAt: "2026-10-04"
 draft: false
 products:
   - rank: 1
@@ -99,29 +99,6 @@ products:
         available: true
     genreId: "205776"
   - rank: 4
-    name: "洗濯ネット CX 糸くずブロックネット 特大 50cm"
-    brand: "LEC"
-    price: 458
-    capacity: "1枚（50×50cm）"
-    pricePerUnit: "約458円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "50×50cmの特大角型で洗濯槽内の糸くずが衣類に付着するのをブロックする設計"
-      - "細目メッシュで衣類の繊維の飛び出しや摩擦ダメージを防ぐ"
-      - "ポリエステル100%素材で軽量かつ丸洗い可能"
-    pros:
-      - "糸くず対策に特化した設計でニット・タオルなど繊維の多い衣類に向く"
-      - "特大サイズのためトレーナー・ジャケットなど大きめ衣類も収めやすい"
-      - "LECブランドで品質が安定しており入手しやすい"
-    cons:
-      - "1枚単位販売のため複数必要な場合は追加購入が必要"
-      - "糸くず対策特化のため全般的な型崩れ防止用途には汎用品のほうが向く"
-    recommendedFor: "ニット・タオルなど糸くずが出やすい衣類を洗いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F262061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10104745%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_lec3/262061.jpg?_ex=128x128"
-    genreId: "205776"
-  - rank: 5
     name: "5枚セット洗濯ネット 大中小 角型 筒型"
     brand: "YHBOX"
     price: 2399
@@ -143,6 +120,29 @@ products:
     recommendedFor: "洗濯ネットを初めてまとめ揃えたい方・多用途をワンセットで揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ut1jn.3rdw690e.g00ut1jn.3rdw7e1e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyh-box%2Fwek03160654c8b3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyh-box%2Fi%2F10081950%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yh-box/cabinet/wek0316/wek03160654c8b3_1.jpg?_ex=128x128"
+    genreId: "205776"
+  - rank: 5
+    name: "洗濯ネット CX 糸くずブロックネット 特大 50cm"
+    brand: "LEC"
+    price: 548
+    capacity: "1枚（50×50cm）"
+    pricePerUnit: "約548円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "50×50cmの特大角型で洗濯槽内の糸くずが衣類に付着するのをブロックする設計"
+      - "細目メッシュで衣類の繊維の飛び出しや摩擦ダメージを防ぐ"
+      - "ポリエステル100%素材で軽量かつ丸洗い可能"
+    pros:
+      - "糸くず対策に特化した設計でニット・タオルなど繊維の多い衣類に向く"
+      - "特大サイズのためトレーナー・ジャケットなど大きめ衣類も収めやすい"
+      - "LECブランドで品質が安定しており入手しやすい"
+    cons:
+      - "1枚単位販売のため複数必要な場合は追加購入が必要"
+      - "糸くず対策特化のため全般的な型崩れ防止用途には汎用品のほうが向く"
+    recommendedFor: "ニット・タオルなど糸くずが出やすい衣類を洗いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q728n.3rdw6c21.g00q728n.3rdw754f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F262061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivingut%2Fi%2F10104745%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_lec3/262061.jpg?_ex=128x128"
     genreId: "205776"
   - rank: 6
     name: "洗濯ネット 布団用 大型 角型 特大 3枚入り"

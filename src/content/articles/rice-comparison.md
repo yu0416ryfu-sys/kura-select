@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 products:
   - rank: 1
     name: "国内産 ブレンド米 白米 10kg（訳あり）"
@@ -27,7 +27,7 @@ products:
       - "炊飯前に研ぐ必要がある"
     recommendedFor: "銘柄にこだわらず価格を抑えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qemen.3rdw6bea.g00qemen.3rdw7dff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanzai-rice%2Fnouka10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanzai-rice%2Fi%2F10000181%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anzai-rice/cabinet/02207291/02207319/r7san-n10.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anzai-rice/cabinet/02207291/02207319/r8-n10.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -75,6 +75,63 @@ products:
         reviewCount: 120
     genreId: "201184"
   - rank: 3
+    name: "無洗米 新潟県産コシヒカリ 10kg（5kg×2袋）"
+    brand: "ヤマトライス"
+    price: 6180
+    capacity: "10kg（5kg×2袋）"
+    features:
+      - "新潟県産コシヒカリの10kg無洗米"
+      - "ギフトや贈答にも使いやすい販売形態"
+      - "5kg×2袋で家庭用ストックにしやすい"
+    pros:
+      - "有名産地のコシヒカリを選びたい方に向く"
+      - "無洗米なので炊飯準備が簡単"
+      - "日常用と贈答用のどちらにも検討しやすい"
+    cons:
+      - "コスパだけで見ると地域銘柄米より高くなる場合がある"
+      - "配送時期や精米時期は購入ページで確認したい"
+    recommendedFor: "産地重視で新潟県産コシヒカリを選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q4ksn.3rdw606a.g00q4ksn.3rdw7324/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhseason%2Fmnnk005-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhseason%2Fi%2F10000180%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rating: 4.64
+    reviewCount: 3558
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hseason/cabinet/00208353/04348418/muniigata_10k.jpg?_ex=128x128"
+    pricePerUnit: "約618円/kg"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkosihikari%2F205.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-16"
+        price: 9378
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kosihikari_205"
+        available: true
+        rating: 4.63
+        reviewCount: 636
+    genreId: "201184"
+  - rank: 4
+    name: "無洗米 富山県産コシヒカリ 10kg"
+    brand: "ヤマトライス"
+    price: 6780
+    capacity: "10kg"
+    features:
+      - "富山県産コシヒカリの無洗米"
+      - "5kg×2袋で保管しやすい"
+      - "単一原料米として産地と銘柄を確認しやすい"
+    pros:
+      - "毎日の炊飯に使いやすい定番タイプ"
+      - "無洗米で炊飯前の準備を短縮できる"
+      - "5kg袋単位で開封タイミングを分けやすい"
+    cons:
+      - "銘柄の食味は好みが分かれる"
+      - "まとめ買いのため保管場所が必要"
+    recommendedFor: "富山県産コシヒカリを日常用に選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r5uxn.3rdw630e.g00r5uxn.3rdw7dc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamatorice%2F10000070%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamatorice%2Fi%2F10000070%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rating: 4.67
+    reviewCount: 152
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/tym/koshi/bg/000324-2sale_.jpg?_ex=128x128"
+    pricePerUnit: "約678円/kg"
+    genreId: "201184"
+  - rank: 5
     name: "令和8年産 無洗米 新潟産コシヒカリ 10kg"
     brand: "ミツハシライス"
     price: 6800
@@ -107,63 +164,6 @@ products:
         available: true
         rating: 4.93
         reviewCount: 14
-    genreId: "201184"
-  - rank: 4
-    name: "無洗米 新潟県産コシヒカリ 10kg（5kg×2袋）"
-    brand: "ヤマトライス"
-    price: 6999
-    capacity: "10kg（5kg×2袋）"
-    features:
-      - "新潟県産コシヒカリの10kg無洗米"
-      - "ギフトや贈答にも使いやすい販売形態"
-      - "5kg×2袋で家庭用ストックにしやすい"
-    pros:
-      - "有名産地のコシヒカリを選びたい方に向く"
-      - "無洗米なので炊飯準備が簡単"
-      - "日常用と贈答用のどちらにも検討しやすい"
-    cons:
-      - "コスパだけで見ると地域銘柄米より高くなる場合がある"
-      - "配送時期や精米時期は購入ページで確認したい"
-    recommendedFor: "産地重視で新潟県産コシヒカリを選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q4ksn.3rdw606a.g00q4ksn.3rdw7324/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhseason%2Fmnnk005-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhseason%2Fi%2F10000180%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    rating: 4.64
-    reviewCount: 3558
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hseason/cabinet/00208353/04348418/muniigata_10k.jpg?_ex=128x128"
-    pricePerUnit: "約700円/kg"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkosihikari%2F205.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-16"
-        price: 9378
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kosihikari_205"
-        available: true
-        rating: 4.63
-        reviewCount: 636
-    genreId: "201184"
-  - rank: 5
-    name: "無洗米 富山県産コシヒカリ 10kg"
-    brand: "ヤマトライス"
-    price: 7280
-    capacity: "10kg"
-    features:
-      - "富山県産コシヒカリの無洗米"
-      - "5kg×2袋で保管しやすい"
-      - "単一原料米として産地と銘柄を確認しやすい"
-    pros:
-      - "毎日の炊飯に使いやすい定番タイプ"
-      - "無洗米で炊飯前の準備を短縮できる"
-      - "5kg袋単位で開封タイミングを分けやすい"
-    cons:
-      - "銘柄の食味は好みが分かれる"
-      - "まとめ買いのため保管場所が必要"
-    recommendedFor: "富山県産コシヒカリを日常用に選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r5uxn.3rdw630e.g00r5uxn.3rdw7dc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamatorice%2F10000070%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamatorice%2Fi%2F10000070%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    rating: 4.67
-    reviewCount: 152
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/tym/koshi/bg/000324-2_.jpg?_ex=128x128"
-    pricePerUnit: "約728円/kg"
     genreId: "201184"
   - rank: 6
     name: "無洗米 農薬節減米 岩手県産ひとめぼれ 10kg"
@@ -259,10 +259,10 @@ products:
   - rank: 9
     name: "秋田県産 あきたこまち 18kg〜20kg"
     brand: "秋田県産あきたこまち"
-    price: 8250
+    price: 8710
     capacity: "18kg〜20kg"
     rating: 4.74
-    reviewCount: 45834
+    reviewCount: 45835
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -277,7 +277,7 @@ products:
     recommendedFor: "既存候補以外も比較して選びたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qtn3n.3rdw6fc6.g00qtn3n.3rdw7aa1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frice-akita%2F1000000130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frice-akita%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rice-akita/cabinet/03459843/05525503/09674048/imgrc0081536274.jpg?_ex=128x128"
-    priceMax: 9170
+    priceMax: 9680
     genreId: "201184"
 tags:
   - "お米"

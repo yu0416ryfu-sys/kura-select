@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 990
     capacity: "40×60cm 1枚"
     pricePerUnit: "約990円/枚"
-    rating: 4.44
-    reviewCount: 2618
+    rating: 4.43
+    reviewCount: 2619
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -48,7 +48,7 @@ products:
     capacity: "45×65cm 1枚"
     pricePerUnit: "約1000円/枚"
     rating: 4.4
-    reviewCount: 1366
+    reviewCount: 1367
     features:
       - "綿100%で肌に優しい"
       - "パイル生地で吸水性に優れた設計"
@@ -80,11 +80,11 @@ products:
   - rank: 3
     name: "今治タオル レオン バスマット"
     brand: "今治タオル"
-    price: 2290
+    price: 1980
     capacity: "42×67cm 1枚"
-    pricePerUnit: "約2290円/枚"
+    pricePerUnit: "約1980円/枚"
     rating: 4.61
-    reviewCount: 2132
+    reviewCount: 2138
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -98,7 +98,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r0pnn.3rdw6bf8.g00r0pnn.3rdw7fc4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcyberl2010%2F0215-0212-0101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcyberl2010%2Fi%2F10000622%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cyberl2010/cabinet/01635375/colormat300pix6.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cyberl2010/cabinet/cartsale/lebm_18_3.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -114,11 +114,11 @@ products:
   - rank: 4
     name: "乾度良好 Dナチュレ バスマット"
     brand: "乾度良好"
-    price: 6050
+    price: 5445
     capacity: "50×80cm 1枚"
-    pricePerUnit: "約6050円/枚"
+    pricePerUnit: "約5445円/枚"
     rating: 4.64
-    reviewCount: 1251
+    reviewCount: 1253
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -132,7 +132,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q124n.3rdw6458.g00q124n.3rdw7ee2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmat-rug%2F10000016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmat-rug%2Fi%2F10000016%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mat-rug/cabinet/00382341/03050199/20251201005.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mat-rug/cabinet/event/12088430/12511782/imgrc0192868647.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -148,9 +148,9 @@ products:
   - rank: 5
     name: "soil バスマット ライト"
     brand: "soil"
-    price: 9900
+    price: 11000
     capacity: "1枚"
-    pricePerUnit: "約9900円/枚"
+    pricePerUnit: "約11000円/枚"
     rating: 4.58
     reviewCount: 1502
     features:
@@ -208,7 +208,7 @@ products:
     price: 1170
     capacity: "40×60cm 1枚"
     rating: 4.35
-    reviewCount: 1053
+    reviewCount: 1056
     features:
       - "マイクロファイバーとポリエステル混合"
       - "抗菌・防臭加工で清潔さを保つ"
@@ -233,7 +233,7 @@ products:
     price: 1999
     capacity: "40×60cm / 50×80cm 1枚"
     rating: 4.64
-    reviewCount: 3306
+    reviewCount: 3307
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"
@@ -280,8 +280,8 @@ products:
     brand: "Mirx"
     price: 2070
     capacity: "60×40cm / 70×50cm"
-    rating: 4.42
-    reviewCount: 2699
+    rating: 4.43
+    reviewCount: 2703
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"
@@ -298,7 +298,7 @@ products:
       - "落下時の破損リスク"
     recommendedFor: "機能性と品質を重視する人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u2t0n.3rdw6d5c.g00u2t0n.3rdw74d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneo-lifestyle%2Fbmt001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneo-lifestyle%2Fi%2F10000083%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-lifestyle/cabinet/zaka01/09054478/09779292/bmt001.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-lifestyle/cabinet/zaka01/09054478/09779292/bmt001_cp.jpg?_ex=128x128"
     priceMax: 3480
     genreId: "100650"
 tags:

@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 products:
   - rank: 1
     name: "ムーニー テープ Sサイズ"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 7084
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true
@@ -109,11 +109,45 @@ products:
         reviewCount: 1
     genreId: "205198"
   - rank: 4
+    name: "ムーニー 低刺激であんしん 紙おむつ テープ"
+    brand: "ユニ・チャーム（ムーニーナチュラル）"
+    price: 7158
+    capacity: "54枚×4個セット"
+    pricePerUnit: "約33円/枚"
+    rating: 4.76
+    reviewCount: 521
+    features:
+      - "低刺激処方で敏感肌向けに配慮"
+      - "安心設計のテープタイプ"
+      - "Sサイズ4〜8kg対応"
+    pros:
+      - "肌が敏感な赤ちゃんに優しい処方"
+      - "複数個セット購入で管理しやすい"
+      - "ムーニーナチュラルブランドの信頼品質"
+    cons:
+      - "1個あたり54枚と少なめ"
+      - "セット購入必須のため初期コストがやや高め"
+    recommendedFor: "肌が敏感またはアレルギーが気になる赤ちゃんがいる家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2Fa63053xxx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10024544%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/349/402349.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4903111569786-4.html"
+        matchStatus: "matched"
+        updatedAt: "2026-07-16"
+        price: 8316
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4903111569786-4"
+        available: true
+        rating: 0
+        reviewCount: 0
+    genreId: "205198"
+  - rank: 5
     name: "メリーズ ずっと肌さらエアスルー テープ Sサイズ 62枚"
     brand: "花王（メリーズ）"
-    price: 1870
+    price: 2090
     capacity: "62枚"
-    pricePerUnit: "約30円/枚"
+    pricePerUnit: "約34円/枚"
     rating: 0
     reviewCount: 0
     features:
@@ -142,40 +176,6 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_xn34257"
         available: true
-  - rank: 5
-    name: "ムーニー 低刺激であんしん 紙おむつ テープ"
-    brand: "ユニ・チャーム（ムーニーナチュラル）"
-    price: 7158
-    capacity: "54枚×4個セット"
-    pricePerUnit: "約33円/枚"
-    rating: 4.76
-    reviewCount: 520
-    features:
-      - "低刺激処方で敏感肌向けに配慮"
-      - "安心設計のテープタイプ"
-      - "Sサイズ4〜8kg対応"
-    pros:
-      - "肌が敏感な赤ちゃんに優しい処方"
-      - "複数個セット購入で管理しやすい"
-      - "ムーニーナチュラルブランドの信頼品質"
-    cons:
-      - "1個あたり54枚と少なめ"
-      - "セット購入必須のため初期コストがやや高め"
-    recommendedFor: "肌が敏感またはアレルギーが気になる赤ちゃんがいる家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2Fa63053xxx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10024544%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/349/402349.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4903111569786-4.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-16"
-        price: 8316
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4903111569786-4"
-        available: true
-        rating: 0
-        reviewCount: 0
-    genreId: "205198"
   - rank: 6
     name: "パンパース はじめての肌へのいちばん テープ Sサイズ 132枚"
     brand: "P&G（パンパース）"

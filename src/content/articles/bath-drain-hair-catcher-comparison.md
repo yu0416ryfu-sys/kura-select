@@ -4,7 +4,7 @@ description: "浴室排水口ヘアキャッチャーを1個あたりのコス�
 category: "bath-drain-hair-catcher"
 publishedAt: "2026-06-04"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 draft: false
 products:
   - rank: 1
@@ -37,7 +37,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約1580円/個"
     rating: 4.23
-    reviewCount: 961
+    reviewCount: 963
     features:
       - "ステンレス製の排水口ゴミ受け"
       - "排水口ネット付きのセット"
@@ -83,7 +83,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2420円/個"
     rating: 4.7
-    reviewCount: 2525
+    reviewCount: 2541
     features:
       - "TOTO対応サイズのヘアーキャッチャー"
       - "浴室排水口向けのステンレス製"
@@ -106,7 +106,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2530円/個"
     rating: 4.62
-    reviewCount: 5113
+    reviewCount: 5147
     features:
       - "浴室排水口向けのステンレス製"
       - "マグネット式のヘアーキャッチャー"
@@ -143,7 +143,7 @@ products:
       - "対応サイズを事前に確認したい"
     recommendedFor: "ネット付きステンレス型を検討したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7an.3rdw60d8.g00un7an.3rdw7e7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdailysmile%2Fl5hm069%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdailysmile%2Fi%2F10000213%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dailysmile/cabinet/homekitchen2/l5hm069_test.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dailysmile/cabinet/seikatsu/l5hm069_smile.jpg?_ex=128x128"
     genreId: "565605"
   - rank: 7
     name: "KEEPFINE 抗菌ヘアキャッチャー 102mm用"
@@ -174,7 +174,7 @@ products:
     price: 1180
     capacity: "1個"
     rating: 4.19
-    reviewCount: 648
+    reviewCount: 649
     features:
       - "浴室排水口向けのヘアキャッチャー"
       - "渦の流れで髪の毛を集める設計"
@@ -194,7 +194,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffabric-cute%2F4580356840049.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 1180
         rating: 4.65
         reviewCount: 20
@@ -208,7 +208,7 @@ products:
     price: 1000
     capacity: "1個"
     rating: 4.65
-    reviewCount: 675
+    reviewCount: 677
     features:
       - "浴室排水口向けのネットホルダー"
       - "排水口ネットを隠しやすい構造"

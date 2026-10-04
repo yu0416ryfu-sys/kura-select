@@ -4,7 +4,7 @@ description: "おむつ・生ゴミ用の防臭袋おすすめ9選をコスパ�
 category: "deodorizing-bag"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 draft: false
 products:
   - rank: 1
@@ -32,13 +32,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnetbaby%2F4932702057333.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00003510.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-23"
-        price: 642
+        updatedAt: "2026-10-04"
+        price: 1169
         rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/netbaby_4932702057333"
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00003510"
         available: true
     genreId: "566815"
   - rank: 2
@@ -48,7 +48,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.77
-    reviewCount: 809
+    reviewCount: 811
     features:
       - "本来は食パン用のポリプロピレン製袋"
       - "厚みのあるPP素材で口を結んで密閉しやすい"
@@ -68,10 +68,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2Fpphalf300.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-23"
+        updatedAt: "2026-10-04"
         price: 1100
         rating: 4.84
-        reviewCount: 963
+        reviewCount: 971
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_pphalf300"
         available: true
     genreId: "550088"
@@ -119,7 +119,7 @@ products:
       - "汎用のポリ袋と比べると単価は高め"
     recommendedFor: "新生児期のおむつ処理・ペットのうんち処理に使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sok0n.3rdw63e8.g00sok0n.3rdw7ce8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbos-shop%2Fbos-b001a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbos-shop%2Fi%2F10000023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bos-shop/cabinet/07487916/stripe_ss200.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bos-shop/cabinet/13614180/13614192/stripe_ss200.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -173,7 +173,7 @@ products:
     capacity: "100枚×2個（200枚）"
     pricePerUnit: "約9.1円/枚"
     rating: 4.87
-    reviewCount: 489
+    reviewCount: 491
     features:
       - "シリーズ最小クラスの寸法"
       - "2個パックで1つを持ち歩き用に分けられる構成"
@@ -193,7 +193,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b012a.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-10-04"
         price: 1815
         rating: 4.91
         reviewCount: 134
@@ -207,7 +207,7 @@ products:
     capacity: "200枚"
     pricePerUnit: "約9.5円/枚"
     rating: 4.85
-    reviewCount: 3768
+    reviewCount: 3770
     features:
       - "SSサイズより一回り大きい標準サイズ"
       - "テープ型からパンツ型まで幅広いおむつサイズを想定した寸法"
@@ -221,16 +221,16 @@ products:
       - "新生児期には袋が余りやすい"
     recommendedFor: "おむつのサイズアップを見込んで長く使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sok0n.3rdw63e8.g00sok0n.3rdw7ce8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbos-shop%2Fbos-b002a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbos-shop%2Fi%2F10000024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bos-shop/cabinet/07487916/stripe_s200.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bos-shop/cabinet/13614180/13614192/stripe_s200.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b002a.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-10-04"
         price: 1909
         rating: 4.86
-        reviewCount: 780
+        reviewCount: 782
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bos-shop_bos-b002a"
         available: true
     genreId: "216044"
@@ -240,8 +240,8 @@ products:
     price: 2227
     capacity: "180枚"
     pricePerUnit: "約12円/枚"
-    rating: 4.58
-    reviewCount: 197
+    rating: 4.57
+    reviewCount: 198
     features:
       - "多層ポリエチレンフィルムを用いた防臭袋"
       - "おむつ1回分を想定した中間サイズ"
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnioi-byebye-shop%2Fsk6588.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-10-04"
         price: 2227
         rating: 0
         reviewCount: 2
@@ -289,16 +289,16 @@ products:
       - "1枚あたりの単価は小さいサイズより高くなる"
     recommendedFor: "1日分をまとめて処理したい方・生ゴミにも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sok0n.3rdw63e8.g00sok0n.3rdw7ce8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbos-shop%2Fbos-b003a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbos-shop%2Fi%2F10000025%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bos-shop/cabinet/07487916/stripe_m90.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bos-shop/cabinet/13614180/13614192/stripe_m90.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b003a.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-10-04"
         price: 1375
         rating: 4.83
-        reviewCount: 394
+        reviewCount: 395
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bos-shop_bos-b003a"
         available: true
     genreId: "216044"

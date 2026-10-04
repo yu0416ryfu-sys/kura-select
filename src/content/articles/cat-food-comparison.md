@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 draft: false
 products:
   - rank: 1
@@ -173,7 +173,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2614円/個"
     rating: 4.64
-    reviewCount: 915
+    reviewCount: 916
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -203,10 +203,10 @@ products:
   - rank: 7
     name: "ロイヤルカナン インドア 7+ 室内中高齢猫用 3.5kg"
     brand: "ロイヤルカナン"
-    price: 5343
+    price: 5270
     capacity: "3.5kg"
-    rating: 4.82
-    reviewCount: 149
+    rating: 4.81
+    reviewCount: 150
     features:
       - "7歳以上の室内で生活する中高齢猫向け総合栄養食"
       - "ジッパー付き袋で開封後の保存がしやすい設計"
@@ -232,15 +232,15 @@ products:
         reviewCount: 390
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687310"
         available: true
-    priceMax: 20148
+    priceMax: 20600
     genreId: "565724"
   - rank: 8
     name: "ロイヤルカナン インドア 4kg"
     brand: "ロイヤルカナン"
-    price: 5947
+    price: 6476
     capacity: "4kg"
     rating: 4.66
-    reviewCount: 708
+    reviewCount: 710
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -266,15 +266,15 @@ products:
         available: true
         rating: 4.75
         reviewCount: 1388
-    priceMax: 11529
+    priceMax: 12144
     genreId: "565724"
   - rank: 9
     name: "ロイヤルカナン キトン"
     brand: "ロイヤルカナン"
-    price: 3743
+    price: 3938
     capacity: "2kg"
     rating: 4.73
-    reviewCount: 554
+    reviewCount: 555
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -300,7 +300,7 @@ products:
         available: true
         rating: 4.75
         reviewCount: 864
-    priceMax: 20112
+    priceMax: 20801
     genreId: "565724"
   - rank: 10
     name: "ニュートロ ナチュラルチョイス キャット"
@@ -308,7 +308,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.7
-    reviewCount: 988
+    reviewCount: 996
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

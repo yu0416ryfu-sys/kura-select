@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-04"
 draft: false
 products:
   - rank: 1
@@ -57,48 +57,14 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4902806127973.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
-        price: 332
+        updatedAt: "2026-10-04"
+        price: 335
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4902806127973"
         available: true
     genreId: "507854"
   - rank: 3
-    name: "シーブリーズ ボディシート せっけんの香り"
-    brand: "資生堂（SEA BREEZE）"
-    price: 457
-    capacity: "30枚"
-    pricePerUnit: "約15円/枚"
-    rating: 4
-    reviewCount: 1
-    features:
-      - "汗とニオイを拭き取るボディシート"
-      - "せっけん系のすっきりした香り"
-      - "男女問わず使いやすいユニセックス設計"
-    pros:
-      - "強すぎない香りで日常使いしやすい"
-      - "学生から大人まで世代を問わず選びやすい"
-      - "持ち歩きやすいパッケージサイズ"
-    cons:
-      - "冷感タイプほどの清涼感はない"
-      - "香りの好みが分かれる場合がある"
-    recommendedFor: "クセの少ない香りで毎日使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q7yxn.3rdw6516.g00q7yxn.3rdw7e1e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmebox%2Fj4550516475473%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmebox%2Fi%2F10046745%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmebox/cabinet/item65/j4550516475473_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4550516475473.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-29"
-        price: 458
-        rating: 5
-        reviewCount: 4
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4550516475473"
-        available: true
-    genreId: "507854"
-  - rank: 4
     name: "エージーデオ24 プレミアムデオドラント シャワーシート 無香性 30枚入"
     brand: "資生堂（Ag DEO24）"
     price: 704
@@ -132,7 +98,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/atata12121_deodorantshawarshirt-ag24-kosme-4550516493194-1"
         available: true
     genreId: "507854"
-  - rank: 5
+  - rank: 4
     name: "キュレル スキンケアシート"
     brand: "花王（Curel）"
     price: 242
@@ -166,7 +132,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/zagzag_4901301396570-3"
         available: true
     genreId: "507854"
-  - rank: 6
+  - rank: 5
     name: "ビオレ 冷シート 無香性"
     brand: "花王（ビオレ）"
     price: 478
@@ -200,7 +166,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301348418"
         available: true
     genreId: "507854"
-  - rank: 7
+  - rank: 6
     name: "オーガニックコットン アロマ ボディシート フレッシュシトラス"
     brand: "NaturaMoon"
     price: 660
@@ -227,17 +193,17 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fecomarche%2F100003175.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 660
         rating: 4.2
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ecomarche_100003175"
         available: true
     genreId: "507854"
-  - rank: 8
+  - rank: 7
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
-    price: 2274
+    price: 2272
     capacity: "30枚"
     pricePerUnit: "約76円/枚"
     rating: 4.81
@@ -268,7 +234,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902806135947"
         available: true
     genreId: "507854"
-  - rank: 9
+  - rank: 8
     name: "リフレッシュボディシート"
     brand: "久光製薬"
     price: 1780
@@ -295,13 +261,47 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188322109.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 1780
         rating: 4.2
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188322109"
         available: true
     genreId: "208212"
+  - rank: 9
+    name: "シーブリーズ ボディシート せっけんの香り"
+    brand: "資生堂（SEA BREEZE）"
+    price: 457
+    capacity: "30枚"
+    rating: 4
+    reviewCount: 1
+    features:
+      - "汗とニオイを拭き取るボディシート"
+      - "せっけん系のすっきりした香り"
+      - "男女問わず使いやすいユニセックス設計"
+    pros:
+      - "強すぎない香りで日常使いしやすい"
+      - "学生から大人まで世代を問わず選びやすい"
+      - "持ち歩きやすいパッケージサイズ"
+    cons:
+      - "冷感タイプほどの清涼感はない"
+      - "香りの好みが分かれる場合がある"
+    recommendedFor: "クセの少ない香りで毎日使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q7yxn.3rdw6516.g00q7yxn.3rdw7e1e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmebox%2Fj4550516475473%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmebox%2Fi%2F10046745%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmebox/cabinet/item65/j4550516475473_1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/hn22156/"
+        matchStatus: "pending"
+        updatedAt: "2026-10-04"
+        price: 510
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_hn22156"
+        available: true
+    genreId: "507854"
+    priceMax: 15550
   - rank: 10
     name: "ビオレ さらさらパウダーシート 無香料"
     brand: "花王（ビオレ）"
@@ -328,7 +328,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F612-8545-103.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-04"
         price: 1259
         rating: 0
         reviewCount: 0
