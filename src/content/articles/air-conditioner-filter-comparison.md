@@ -372,7 +372,7 @@ faqs:
 
 定期的なフィルター交換は、エアコンの効きを保つだけでなく、室内空気の清潔さにも直結します。最適な商品選びで、年間を通じた快適な生活をサポートしましょう。
 
-季節家電まわりでは、夏場の暑さ対策に [冷却ジェル・保冷剤の比較](/articles/cooling-pack-comparison/)、湿気対策に [除湿剤の比較](/articles/moisture-absorber-comparison/) もあわせてご覧ください。
+季節家電まわりでは、夏場の暑さ対策に [冷却ジェル・保冷剤の比較](/articles/cooling-pack-comparison/)、湿気対策に [除湿剤の比較](/articles/moisture-absorber-comparison/) もあわせてご覧ください。年末の大掃除でキッチンのフィルターも替えるなら、[レンジフードフィルター（換気扇フィルター）の比較](/articles/range-hood-filter-comparison/) も参考になります。
 
 ---
 

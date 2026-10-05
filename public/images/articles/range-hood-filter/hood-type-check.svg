@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 878" width="600" height="878" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>交換フィルターを選ぶ順番</title>
+  <rect width="600" height="878" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">交換フィルターを選ぶ順番</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">価格を見るのは、型が合うと分かってから</text>
+  <rect x="20" y="102" width="560" height="170" rx="14" fill="#f5f6f7" stroke="#c9ced4" stroke-width="2"/>
+  <rect x="40" y="120" width="294.8" height="40" rx="20" fill="#4b5563"/>
+  <text x="187.4" y="147" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">1. 今のフィルターを測る</text>
+  <text x="40" y="198" font-size="19" fill="#374151">枠の内側か、使っているフィルターの縦横</text>
+  <text x="40" y="226" font-size="19" fill="#374151">約29.7cm×34cm 前後ならR型</text>
+  <text x="40" y="254" font-size="19" fill="#374151">取扱説明書のフィルター型番でも分かる</text>
+  <line x1="300" y1="276" x2="300" y2="298" stroke="#4b5563" stroke-width="3"/>
+  <path d="M290 294 L300 308 L310 294 Z" fill="#4b5563"/>
+  <rect x="20" y="314" width="560" height="254" rx="14" fill="#f5f6f7" stroke="#c9ced4" stroke-width="2"/>
+  <rect x="40" y="332" width="294.8" height="40" rx="20" fill="#4b5563"/>
+  <text x="187.4" y="359" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">2. 取付枠があるか見る</text>
+  <text x="40" y="410" font-size="19" fill="#374151">フィルターは枠にはめて使う</text>
+  <rect x="40" y="426" width="250" height="124" rx="10" fill="#ffffff" stroke="#c9ced4" stroke-width="1.5"/>
+  <text x="60" y="460" font-size="22" font-weight="700" fill="#1f2937">枠がある</text>
+  <text x="60" y="492" font-size="17" fill="#374151">交換用のフィルター</text>
+  <text x="60" y="518" font-size="17" fill="#374151">だけを買えばよい</text>
+  <rect x="310" y="426" width="250" height="124" rx="10" fill="#ffffff" stroke="#c9ced4" stroke-width="1.5"/>
+  <text x="330" y="460" font-size="22" font-weight="700" fill="#1f2937">枠がない</text>
+  <text x="330" y="492" font-size="17" fill="#374151">初回だけ、同じ型の</text>
+  <text x="330" y="518" font-size="17" fill="#374151">取付枠を用意する</text>
+  <line x1="300" y1="572" x2="300" y2="594" stroke="#4b5563" stroke-width="3"/>
+  <path d="M290 590 L300 604 L310 590 Z" fill="#4b5563"/>
+  <rect x="20" y="610" width="560" height="252" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <rect x="40" y="628" width="294.8" height="40" rx="20" fill="#2f6fb5"/>
+  <text x="187.4" y="655" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">3. 素材と入数を決める</text>
+  <rect x="40" y="686" width="250" height="158" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="60" y="720" font-size="21" font-weight="700" fill="#1f2937">素材</text>
+  <text x="60" y="752" font-size="17" fill="#374151">ガラス繊維か不織布か</text>
+  <text x="60" y="778" font-size="17" fill="#374151">不燃・難燃の表示は</text>
+  <text x="60" y="804" font-size="17" fill="#374151">商品ページで確かめる</text>
+  <rect x="310" y="686" width="250" height="158" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="330" y="720" font-size="21" font-weight="700" fill="#1f2937">入数</text>
+  <text x="330" y="752" font-size="17" fill="#374151">交換の間隔と</text>
+  <text x="330" y="778" font-size="17" fill="#374151">枠の枚数から</text>
+  <text x="330" y="804" font-size="17" fill="#374151">1年分を逆算する</text>
+</svg>

@@ -187,6 +187,26 @@
       "source": "project_measurement_holds"
     },
     {
+      "slug": "range-hood-filter-comparison",
+      "releaseDate": "2026-10-20",
+      "releaseLabel": "2026-10-19",
+      "targetType": "new-article",
+      "startedAt": "2026-10-05",
+      "searchNeed": "12月の大掃除の前に、シロッコファンのレンジフードのフィルターを買い替える人が、自分の型（R型）に合う交換フィルターをどれを何枚入りで買えば1枚あたり安く済むかを比べたくて検索している。Google では大掃除・レンジフード系クエリの表示が0で、狙いは Bing の単語クエリ（「レンジフードフィルター」「換気扇フィルター」）。離陸すれば Bing の主要クエリ順位と表示/日に出て、12月の送客クリックに出るはず",
+      "measures": [
+        "Bing の主要クエリ順位",
+        "表示/日",
+        "表示加重平均順位",
+        "インデックス登録（lastCrawlTime）"
+      ],
+      "actions": [
+        "新規記事公開（8選・カテゴリ range-hood-filter 新設）＋air-conditioner-filter-comparison のまとめ末尾から被リンク1本"
+      ],
+      "simultaneous": false,
+      "note": "docs/IMPLEMENTATION_PLAN_SEASONAL_ARTICLE_YEAREND_2026-10-05.md の季節先行記事。ユーザー判断で計画の 11-03 から前倒しして 10-05 に公開。判定は公開2週後の順位帯＝判定日 2026-10-19（Bing の単語クエリのどれかで10位以内なら離陸）。⚠️判定時に必ず併記する留保: ①Google の表示が少なくても失敗としない（計画 §0 の実測で Google は期待していない）②判定窓（10-05〜10-19）は需要の立ち上がり前なので、表示が少なくても「未離陸」と断定しない（季節性）③新記事の表示は、測定中のコホートがあればその正規化子（残余）から控除する ④capacity は cron で書き換わりうるので、判定時に比較表の1枚単価欄も確認する。12月の送客の判定（送客クリック20以上）は凍結を伴わず、1-05 の週次分析で行う。air-conditioner-filter は凍結対象外（被リンク追加のみ）。",
+      "source": "project_measurement_holds"
+    },
+    {
       "slug": "water-server-buyout-comparison",
       "releaseDate": "2026-10-15",
       "releaseLabel": "2026-10-14",
