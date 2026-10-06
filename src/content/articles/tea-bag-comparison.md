@@ -4,7 +4,7 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-06"
 draft: false
 products:
   - rank: 1
@@ -142,7 +142,7 @@ products:
       - "麦茶とは全く異なる緑茶の風味"
     recommendedFor: "本格的な深蒸し緑茶を手軽なティーバッグで少量から試したい人向け"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qxp2n.3rdw627b.g00qxp2n.3rdw7e81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiraoka88%2Fdonbukashi_tb_3set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiraoka88%2Fi%2F10000269%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiraoka88/cabinet/campaign/12921542/imgrc0114498626.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiraoka88/cabinet/campaign/modify/imgrc0130964410.jpg?_ex=128x128"
     genreId: "100361"
   - rank: 6
     name: "駿府玉川 爽茶 ティーバッグ"

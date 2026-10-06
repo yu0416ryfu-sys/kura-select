@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌あたりとコ
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-06"
 draft: false
 products:
   - rank: 1
@@ -71,7 +71,7 @@ products:
     capacity: "400枚（200組）×3個"
     pricePerUnit: "約1.8円/組"
     rating: 4.59
-    reviewCount: 75
+    reviewCount: 76
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -285,10 +285,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhanpark%2F888808.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-04"
+        updatedAt: "2026-10-06"
         price: 798
-        rating: 0
-        reviewCount: 2
+        rating: 5
+        reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhanpark_888808"
         available: true
     genreId: "100670"

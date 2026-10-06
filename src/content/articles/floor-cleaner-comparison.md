@@ -33,8 +33,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F4903320481701.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-31"
-        price: 128
+        updatedAt: "2026-10-06"
+        price: 148
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_4903320481701"
@@ -135,7 +135,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301327826-73-30002086.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-06"
         price: 620
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901301327826-73-30002086"
         available: true
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-06"
         price: 1800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
         available: true
@@ -259,8 +259,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksdenki%2F4967576731652.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
-        price: 250
+        updatedAt: "2026-10-06"
+        price: 241
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksdenki_4967576731652"
@@ -293,7 +293,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosakashopkira2%2F1035.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-06"
         price: 1800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osakashopkira2_1035"
         available: true

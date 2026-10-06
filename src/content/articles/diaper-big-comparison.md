@@ -194,7 +194,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-06"
         rating: 0
         reviewCount: 0
     priceMax: 5852

@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-06"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -263,7 +263,7 @@ products:
       - "植物由来成分の香りが気になる場合がある"
     recommendedFor: "皮脂汚れや毛穴汚れが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6mzn.3rdw632b.g00u6mzn.3rdw764e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00061/imgrc0127119292.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00061/oil_new_thum.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -275,7 +275,7 @@ products:
         available: true
         rating: 4.65
         reviewCount: 49
-    priceMax: 6900
+    priceMax: 6000
     genreId: "405061"
   - rank: 10
     name: "KINS クレンジングオイル 100mL"
@@ -283,7 +283,7 @@ products:
     price: 4378
     capacity: "100mL"
     rating: 4.57
-    reviewCount: 1697
+    reviewCount: 1698
     features:
       - "発酵オイルを配合したクレンジングオイル"
       - "W洗顔不要でメイクと毛穴汚れを落とす"

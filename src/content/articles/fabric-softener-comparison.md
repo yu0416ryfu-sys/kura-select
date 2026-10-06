@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-06"
 products:
   - rank: 1
     name: "ダウニー サンライズフレッシュ 4L×3本セット"
@@ -307,7 +307,7 @@ products:
     price: 1113
     capacity: "2000mL"
     rating: 4.97
-    reviewCount: 29
+    reviewCount: 30
     features:
       - "肌へのやさしさを重視した素肌おもいシリーズの詰め替えパウチ"
       - "香りの強さを抑えたタイプで、無香料の選択肢もある"

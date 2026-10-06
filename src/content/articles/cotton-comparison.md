@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhemart%2Fetf-cotton56.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-05"
         price: 1580
         rating: 0
         reviewCount: 1
@@ -90,7 +90,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhemart%2Fetf-cotton68.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-05"
         price: 1833
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthemart_etf-cotton68"
         available: true

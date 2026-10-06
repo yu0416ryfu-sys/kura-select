@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-06"
 products:
   - rank: 1
     name: "PVCグローブ 100枚×20箱"
@@ -156,7 +156,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh8451-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-06"
         price: 418
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh8451-1"
         available: true
@@ -190,7 +190,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove003.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-06"
         price: 8330
         rating: 4.72
         reviewCount: 232
@@ -238,7 +238,7 @@ products:
     price: 890
     capacity: "100枚"
     rating: 4.57
-    reviewCount: 3731
+    reviewCount: 3740
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -261,7 +261,7 @@ products:
     price: 890
     capacity: "100枚"
     rating: 4.7
-    reviewCount: 1498
+    reviewCount: 1500
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -281,13 +281,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove001.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-06"
         price: 1059
         rating: 4.59
-        reviewCount: 2301
+        reviewCount: 2303
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
         available: true
-    priceMax: 33600
+    priceMax: 33500
     genreId: "401632"
   - rank: 10
     name: "調理用ビニール使いきり極薄手袋"

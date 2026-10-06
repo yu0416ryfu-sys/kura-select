@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-06"
 draft: false
 products:
   - rank: 1
@@ -57,8 +57,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4902806127973.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
-        price: 335
+        updatedAt: "2026-10-05"
+        price: 332
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4902806127973"
@@ -193,7 +193,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fecomarche%2F100003175.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-05"
         price: 660
         rating: 4.2
         reviewCount: 5
@@ -203,7 +203,7 @@ products:
   - rank: 7
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
-    price: 2272
+    price: 2273
     capacity: "30枚"
     pricePerUnit: "約76円/枚"
     rating: 4.81
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188322109.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-05"
         price: 1780
         rating: 4.2
         reviewCount: 5
@@ -292,13 +292,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/hn22156/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/hn22180/"
         matchStatus: "pending"
-        updatedAt: "2026-10-04"
-        price: 510
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_hn22156"
+        updatedAt: "2026-10-05"
+        price: 1014
+        rating: 4.33
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_hn22180"
         available: true
     genreId: "507854"
     priceMax: 15550
@@ -328,7 +328,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F612-8545-103.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-05"
         price: 1259
         rating: 0
         reviewCount: 0

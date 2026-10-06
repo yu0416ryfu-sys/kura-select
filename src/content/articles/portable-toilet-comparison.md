@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ9選を1回�
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-06"
 draft: false
 products:
   - rank: 1
@@ -93,7 +93,7 @@ products:
     price: 1280
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7329
+    reviewCount: 7330
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -241,7 +241,7 @@ products:
     price: 1580
     capacity: "20回分"
     rating: 4.52
-    reviewCount: 7229
+    reviewCount: 7230
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"
@@ -255,13 +255,13 @@ products:
       - "便座は付属せず既存トイレや簡易便座と併用する"
     recommendedFor: "持ち出し用にコンパクトな備蓄を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u49fn.3rdw6725.g00u49fn.3rdw7bf8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiromifashionhouse%2Fmkhrm60f%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiromifashionhouse%2Fi%2F10005004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiromifashionhouse/cabinet/12169031/12169039/imgrc0130078731.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiromifashionhouse/cabinet/12169031/12169039/imgrc0130187604.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcenturyshop%2Fportable-toilet.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-06"
         price: 3480
         rating: 0
         reviewCount: 0

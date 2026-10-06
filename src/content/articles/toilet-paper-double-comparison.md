@@ -4,7 +4,7 @@ description: "ダブルのトイレットペーパーを1mあたりのコスト�
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-06"
 products:
   - rank: 1
     name: "エシカル12RW ダブル 12ロール×8パック"
@@ -59,7 +59,7 @@ products:
     capacity: "75m×4ロール×12袋"
     pricePerUnit: "約2.0円/m"
     rating: 4.63
-    reviewCount: 1533
+    reviewCount: 1534
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

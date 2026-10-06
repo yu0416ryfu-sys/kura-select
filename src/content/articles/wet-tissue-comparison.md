@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ9選を1枚あたり単�
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-06"
 products:
   - rank: 1
     name: "レック 水99.9％ 手口ふき"
@@ -13,7 +13,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約2.0円/枚"
     rating: 4.7
-    reviewCount: 4877
+    reviewCount: 4888
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -95,7 +95,7 @@ products:
       - "おしりふき用途が主軸で、テーブルの除菌には向かない"
     recommendedFor: "赤ちゃんの手口ふき・体ふきを大容量で用意したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t237n.3rdw6c98.g00t237n.3rdw7b8b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fslotre%2F10000234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fslotre%2Fi%2F10000356%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/12191014/13038805/main_260303.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/sale-main/hunwariatude_5_3.jpg?_ex=128x128"
     genreId: "205194"
   - rank: 4
     name: "アイリスオーヤマ 除菌ウェットティッシュ 60枚×48個"
@@ -140,7 +140,7 @@ products:
     capacity: "43枚×8個×4個（1376枚）"
     pricePerUnit: "約3.8円/枚"
     rating: 4.75
-    reviewCount: 243
+    reviewCount: 244
     features:
       - "ノンアルコールタイプの除菌ウェットティッシュ詰替"
       - "ワンプッシュで開閉できる取り出し口設計"

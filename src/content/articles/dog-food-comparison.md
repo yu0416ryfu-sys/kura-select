@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-06"
 draft: false
 products:
   - rank: 1
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F0019014614196.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-06"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_0019014614196"
         available: true
@@ -112,9 +112,9 @@ products:
   - rank: 4
     name: "ロイヤルカナン ミニ インドア アダルト 2kg×6個"
     brand: "ロイヤルカナン"
-    price: 17323
+    price: 18954
     capacity: "2kg×6個"
-    pricePerUnit: "約1444円/kg"
+    pricePerUnit: "約1580円/kg"
     rating: 5
     reviewCount: 1
     features:
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoji%2F3182550746076-s.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-31"
+        updatedAt: "2026-10-06"
         price: 17226
         rating: 0
         reviewCount: 1
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-06"
         price: 5067
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
@@ -285,7 +285,7 @@ products:
     price: 3000
     capacity: "1kg"
     rating: 4.72
-    reviewCount: 2574
+    reviewCount: 2575
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

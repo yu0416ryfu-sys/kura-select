@@ -4,7 +4,7 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-06"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "本体1個＋替刃16個"
     pricePerUnit: "約222円/個"
     rating: 4.68
-    reviewCount: 3466
+    reviewCount: 3468
     features:
       - "5枚刃で広い面積をまとめて剃れる構造"
       - "極薄ヘッドで鼻下やあご周りなど細部へのフィット性が高い"
@@ -103,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwa-life%2Fcg-0001-8.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-06"
         price: 1998
         rating: 4.7
         reviewCount: 126
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430688635.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-06"
         price: 2351
         rating: 4.75
         reviewCount: 12
@@ -150,7 +150,7 @@ products:
     capacity: "替刃8個"
     pricePerUnit: "約438円/個"
     rating: 4.51
-    reviewCount: 301
+    reviewCount: 302
     features:
       - "5枚刃に加えて精密トリマー刃を搭載"
       - "極薄刃がひげの根元近くまで密着する設計"
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57020103-250.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-06"
         price: 11000
         rating: 0
         reviewCount: 0
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57010103-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-06"
         price: 760
         rating: 0
         reviewCount: 0

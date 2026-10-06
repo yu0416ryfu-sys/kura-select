@@ -123,7 +123,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenman-hompo%2Fth003.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-10-06"
         price: 2500
         rating: 4.61
         reviewCount: 378
@@ -179,12 +179,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F3303a.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-10-06"
         price: 253
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_3303a"
         available: true
-        rating: 4.18
-        reviewCount: 11
+        rating: 4.25
+        reviewCount: 12
     priceMax: 374
     genreId: "304759"
   - rank: 7
@@ -293,12 +293,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeautyhoney%2Fm-c-lt-040.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-10-06"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beautyhoney_m-c-lt-040"
         available: true
         rating: 4.69
-        reviewCount: 729
+        reviewCount: 731
     priceMax: 1480
     genreId: "304759"
 tags:
