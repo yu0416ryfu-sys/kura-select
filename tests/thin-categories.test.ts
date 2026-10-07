@@ -7,6 +7,8 @@ import {
   getPublishedArticleCountByCategory,
   getThinCategorySlugs,
   isThinCategoryUrl,
+  getThinCategoryRecrawlEntries,
+  NOINDEX_DEPLOYED_AT,
   ARTICLES_DIR,
   CATEGORIES_DIR,
 } from "../scripts/lib/thin-categories.mjs";
@@ -65,6 +67,24 @@ beforeAll(() => {
 
   // noslug: slug frontmatter が無い → ファイル ID にフォールバック
   writeCategory("noslug.md", 'name: "スラッグなし"');
+
+  // 以下は一時サイトマップの lastmod 用（いずれも薄い）
+  // old-solo: noindex デプロイ前に公開 → lastmod はデプロイ時刻
+  writeCategory("old-solo.md", 'name: "旧ソロ"\nslug: old-solo');
+  writeArticle("old-solo-a.md", 'title: "A"\ncategory: "old-solo"\npublishedAt: "2026-07-01"');
+  // same-day: noindex デプロイ当日に公開 → 日付だけ比べると同日だが、デプロイ時刻を採る
+  writeCategory("same-day.md", 'name: "同日"\nslug: same-day');
+  writeArticle("same-day-a.md", 'title: "A"\ncategory: "same-day"\npublishedAt: "2026-08-14"');
+  // new-solo: デプロイ後に新設 → lastmod はその publishedAt
+  writeCategory("new-solo.md", 'name: "新ソロ"\nslug: new-solo');
+  writeArticle("new-solo-a.md", 'title: "A"\ncategory: "new-solo"\npublishedAt: "2026-09-23"');
+  // draft-later: 公開1本（09-01）+ 古い draft 1本（07-01）→ draft の日付は使わない
+  writeCategory("draft-later.md", 'name: "後公開"\nslug: draft-later');
+  writeArticle("draft-later-a.md", 'title: "A"\ncategory: "draft-later"\npublishedAt: "2026-09-01"');
+  writeArticle("draft-later-b.md", 'title: "B"\ncategory: "draft-later"\npublishedAt: "2026-07-01"\ndraft: true');
+  // renamed-late: ファイル ID と slug が異なり、デプロイ後に新設 → slug で引けること
+  writeCategory("renamed-late.md", 'name: "改名後"\nslug: renamed-late-slug');
+  writeArticle("renamed-late-a.md", 'title: "A"\ncategory: "renamed-late"\npublishedAt: "2026-09-20"');
 });
 
 afterAll(() => {
@@ -143,6 +163,52 @@ describe("isThinCategoryUrl", () => {
   });
 });
 
+describe("getThinCategoryRecrawlEntries", () => {
+  const entries = () => getThinCategoryRecrawlEntries(fxArticles, fxCategories);
+  const lastmodOf = (slug: string) => entries().find((e) => e.slug === slug)?.lastmod;
+
+  it("slug の集合が getThinCategorySlugs と一致する", () => {
+    const slugs = entries().map((e) => e.slug);
+    expect(new Set(slugs)).toEqual(getThinCategorySlugs(fxArticles, fxCategories));
+    expect(slugs.length).toBe(new Set(slugs).size);
+  });
+
+  it("slug 昇順で返す", () => {
+    const slugs = entries().map((e) => e.slug);
+    expect(slugs).toEqual([...slugs].sort());
+  });
+
+  it("記事0本のカテゴリはデプロイ時刻", () => {
+    expect(lastmodOf("empty")).toBe(NOINDEX_DEPLOYED_AT);
+  });
+
+  it("publishedAt の無い記事しか無ければデプロイ時刻", () => {
+    expect(lastmodOf("solo")).toBe(NOINDEX_DEPLOYED_AT);
+  });
+
+  it("デプロイ前・デプロイ当日に公開されたカテゴリはデプロイ時刻（時刻つき）", () => {
+    expect(lastmodOf("old-solo")).toBe("2026-08-14T06:00:00Z");
+    expect(lastmodOf("same-day")).toBe("2026-08-14T06:00:00Z");
+  });
+
+  it("デプロイ後に新設されたカテゴリはその publishedAt", () => {
+    expect(lastmodOf("new-solo")).toBe("2026-09-23");
+  });
+
+  it("draft 記事の publishedAt は使わない", () => {
+    expect(lastmodOf("draft-later")).toBe("2026-09-01");
+  });
+
+  it("ファイル ID と slug が異なっても slug で引ける", () => {
+    expect(lastmodOf("renamed-late-slug")).toBe("2026-09-20");
+    expect(lastmodOf("renamed-late")).toBeUndefined();
+  });
+
+  it("薄くないカテゴリは含まない", () => {
+    expect(lastmodOf("pair")).toBeUndefined();
+  });
+});
+
 // ---------------------------------------------------------------------------
 // 実データに対する検証（sitemap と noindex のドリフト検知）
 //
@@ -190,5 +256,17 @@ describe("実データ", () => {
 
     const counted = [...getPublishedArticleCountByCategory().values()].reduce((a, b) => a + b, 0);
     expect(counted).toBe(published.length);
+  });
+
+  it("一時サイトマップの行が薄いカテゴリと同数で、lastmod が日付か時刻つきでデプロイ時刻以降", () => {
+    const entries = getThinCategoryRecrawlEntries();
+    expect(entries.length).toBe(getThinCategorySlugs().size);
+    const deployed = new Date(NOINDEX_DEPLOYED_AT).getTime();
+    for (const { slug, lastmod } of entries) {
+      // slug をそのまま XML に埋め込むので、エスケープ不要な文字だけであることも確かめる
+      expect(slug).toMatch(/^[a-z0-9-]+$/);
+      expect(lastmod).toMatch(/^\d{4}-\d{2}-\d{2}(T06:00:00Z)?$/);
+      expect(new Date(lastmod).getTime()).toBeGreaterThanOrEqual(deployed);
+    }
   });
 });

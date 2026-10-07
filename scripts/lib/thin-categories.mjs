@@ -102,3 +102,58 @@ export function isThinCategoryUrl(pageUrl, thinSlugs = getThinCategorySlugs()) {
   const slug = pageUrl.match(/\/category\/([^/]+)\/?$/)?.[1];
   return slug !== undefined && thinSlugs.has(slug);
 }
+
+/**
+ * 薄いカテゴリの noindex が本番に出た時刻（5a9b1ef のデプロイ成功 05:52Z に余裕を持たせた値）。
+ * これより後のクロールなら noindex を読んでいるはず、と判定する境界。
+ * 余裕を見て遅めに置く（早めに置くと、noindex を読んでいないクロールを「読んだ」と誤判定する）。
+ */
+export const NOINDEX_DEPLOYED_AT = "2026-08-14T06:00:00Z"; // = 15:00 JST
+
+/** カテゴリのファイル ID → 公開記事の最古の publishedAt（YYYY-MM-DD）。draft と日付なしは除く */
+function getEarliestPublishedAtByCategory(articlesDir) {
+  const earliestById = new Map();
+  for (const file of listContentFiles(articlesDir)) {
+    const frontmatter = readFrontmatter(file);
+    if (/^draft:\s*true\s*$/m.test(frontmatter)) continue;
+    const category = frontmatter.match(/^category:\s*"?([^"\r\n]+)"?/m)?.[1];
+    const published = frontmatter.match(/^publishedAt:\s*"?([\d-]+)"?/m)?.[1];
+    if (!category || !published) continue;
+    const id = category.trim();
+    const current = earliestById.get(id);
+    if (current === undefined || published < current) earliestById.set(id, published);
+  }
+  return earliestById;
+}
+
+/**
+ * 一時サイトマップ（src/pages/sitemap-recrawl.xml.ts）用の行を返す。
+ * lastmod は「そのページが最後に意味のある変化をした時点」として、
+ * noindex デプロイ時刻とカテゴリ内の最初の公開記事の publishedAt の遅いほうを使う。
+ * - 08-14 より後に新設されたカテゴリに 08-14 を付けると、存在しなかった日付を宣言することになる
+ * - updatedAt は cron の価格更新で毎週動くが、カテゴリページの見た目は変わらないので使わない
+ * - デプロイ時刻は時刻つきで出す（日付だけだと、同日のデプロイ前クロールより古く見える）
+ *
+ * @returns {{ slug: string, lastmod: string }[]} slug 昇順
+ */
+export function getThinCategoryRecrawlEntries(
+  articlesDir = ARTICLES_DIR,
+  categoriesDir = CATEGORIES_DIR
+) {
+  const thinSlugs = getThinCategorySlugs(articlesDir, categoriesDir);
+  const earliestById = getEarliestPublishedAtByCategory(articlesDir);
+  const deployedAt = new Date(NOINDEX_DEPLOYED_AT).getTime();
+
+  const entries = [];
+  // 最古日はファイル ID ごとに集まり、薄い判定は slug で返るので、ID を回して slug で絞る
+  for (const [id, slug] of getCategorySlugById(categoriesDir)) {
+    if (!thinSlugs.has(slug)) continue;
+    const published = earliestById.get(id);
+    const lastmod =
+      published !== undefined && new Date(published).getTime() > deployedAt
+        ? published
+        : NOINDEX_DEPLOYED_AT;
+    entries.push({ slug, lastmod });
+  }
+  return entries.sort((a, b) => (a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0));
+}
