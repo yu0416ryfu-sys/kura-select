@@ -32,6 +32,7 @@
     "price-history:backfill": "node --experimental-strip-types scripts/extract-price-history.mjs --backfill",
     "price-history:dry": "node --experimental-strip-types scripts/extract-price-history.mjs --dry-run",
     "gsc:harvest": "node --experimental-strip-types scripts/gsc-harvest.mjs",
+    "gsc:appearance": "node --experimental-strip-types scripts/search-appearance-check.mjs",
     "weekly:snapshot": "node --experimental-strip-types scripts/weekly-snapshot.mjs",
     "cohort:crawl-check": "node --experimental-strip-types scripts/cohort-crawl-check.mjs",
     "thin-cat:crawl-check": "node --experimental-strip-types scripts/thin-category-crawl-check.mjs",
