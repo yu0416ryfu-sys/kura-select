@@ -172,9 +172,8 @@ const breadcrumbJsonLd = {
 const jsonLdCtx = {
   ogImageFallback: `${SITE.url}${SITE.ogImage}`,
   jsonLdProviders,
-  articleUrl: `${SITE.url}/articles/${article.id}/`,
 };
-const serviceJsonLds = services.map((s) => buildServiceJsonLd(s, jsonLdCtx));
+const serviceJsonLds = services.map((s) => buildServiceJsonLd(s));
 const productJsonLds = products
   .map((p) => buildProductJsonLd(p, jsonLdCtx))
   .filter((ld) => ld !== null);

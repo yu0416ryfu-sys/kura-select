@@ -27,32 +27,12 @@ export interface JsonLdService {
   name: string;
   brand: string;
   waterType?: string;
-  monthlyCost: number;
 }
 
 export interface JsonLdContext {
   ogImageFallback: string;
   jsonLdProviders: readonly OfferProvider[];
-  /** 切り出し確認用の一時フィールド */
-  articleUrl: string;
 }
-
-// Offer / AggregateOffer 共通プロパティ（AggregateOffer は Offer のサブタイプで継承する）
-const JSON_LD_OFFER_COMMON = {
-  availability: "https://schema.org/InStock",
-  shippingDetails: {
-    "@type": "OfferShippingDetails",
-    shippingDestination: {
-      "@type": "DefinedRegion",
-      addressCountry: "JP",
-    },
-  },
-  hasMerchantReturnPolicy: {
-    "@type": "MerchantReturnPolicy",
-    applicableCountry: "JP",
-    returnPolicyCategory: "https://schema.org/MerchantReturnNotPermitted",
-  },
-};
 
 /** Product JSON-LD。出力できない商品（rating 未定義・offer なし）は null */
 export function buildProductJsonLd(
@@ -80,6 +60,12 @@ export function buildProductJsonLd(
     description: `${p.brand}の${p.name}。${p.capacity}。${p.recommendedFor}`,
     brand: { "@type": "Brand", name: p.brand },
     image: p.imageUrl || ctx.ogImageFallback,
+    // 当サイトは販売・配送・返品の主体ではないため、availability / shippingDetails /
+    // hasMerchantReturnPolicy は出さない（2026-10-07 AdSense 是正 計画書2）。
+    // GSC の「販売者のリスティング」と「商品スニペット」に「項目が不足しています」の
+    // 警告（availability 等）が出るが、販売していないサイトでは出たままが正しい。
+    // 警告であって資格には影響しない。警告を消すために再追加しないこと。
+    //
     // 楽天の価格帯商品は単一 Offer だと「実際に買えない価格」を宣言することになるため
     // AggregateOffer（lowPrice〜highPrice）で出す。採用 offer が楽天のときだけ切り替える
     offers:
@@ -91,14 +77,12 @@ export function buildProductJsonLd(
             highPrice: p.priceMax,
             offerCount: 1,
             url: jsonLdOffer.url,
-            ...JSON_LD_OFFER_COMMON,
           }
         : {
             "@type": "Offer",
             priceCurrency: "JPY",
             price: jsonLdOffer.price,
             url: jsonLdOffer.url,
-            ...JSON_LD_OFFER_COMMON,
           },
   };
 
@@ -116,8 +100,11 @@ export function buildProductJsonLd(
   return ld;
 }
 
-/** Service JSON-LD */
-export function buildServiceJsonLd(s: JsonLdService, ctx: JsonLdContext): Record<string, unknown> {
+/**
+ * Service JSON-LD。provider / areaServed だけを出す。
+ * 当サイトはサービスの提供者ではないため offers（月額の価格指定）は出さない。
+ */
+export function buildServiceJsonLd(s: JsonLdService): Record<string, unknown> {
   return {
     "@context": "https://schema.org",
     "@type": "Service",
@@ -125,16 +112,5 @@ export function buildServiceJsonLd(s: JsonLdService, ctx: JsonLdContext): Record
     serviceType: s.waterType === "purifier" ? "浄水型ウォーターサーバー" : "宅配水ウォーターサーバー",
     provider: { "@type": "Organization", name: s.brand },
     areaServed: { "@type": "Country", name: "JP" },
-    offers: {
-      "@type": "Offer",
-      priceCurrency: "JPY",
-      priceSpecification: {
-        "@type": "UnitPriceSpecification",
-        price: s.monthlyCost,
-        priceCurrency: "JPY",
-        unitCode: "MON",
-      },
-      url: ctx.articleUrl,
-    },
   };
 }
