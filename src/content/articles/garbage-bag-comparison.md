@@ -1,80 +1,12 @@
 ---
-title: "ゴミ袋 おすすめ10選【2026年版】45L・20Lをコスパ比較"
-description: "ゴミ袋はどれがコスパよくお得？45L・20Lの人気10選を1枚あたりの価格で比較し、厚手・半透明・エコ素材の3タイプで選び分けを解説。まとめ買いでの単価の下がり方や、袋の厚みと破れにくさの関係も整理しました。価格は毎週自動更新。"
+title: "ゴミ袋 おすすめ8選【2026年版】45L・20Lをコスパ比較"
+description: "ゴミ袋はどれがコスパよくお得？45L・20Lの人気8選を1枚あたりの価格で比較し、厚手・半透明・エコ素材の3タイプで選び分けを解説。まとめ買いでの単価の下がり方や、袋の厚みと破れにくさの関係も整理しました。価格は毎週自動更新。"
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
 updatedAt: "2026-10-06"
 products:
   - rank: 1
-    name: "HEIKO PP食パン袋 半斤用 300枚"
-    brand: "HEIKO"
-    price: 1130
-    capacity: "300枚"
-    pricePerUnit: "約3.8円/枚"
-    rating: 4.76
-    reviewCount: 1623
-    features:
-      - "ごみや汚れ物の小分けに使える袋"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "家庭内のにおい対策や分別に使いやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "本来用途とサイズを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "家庭内のにおい対策や分別に使いやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uc6ln.3rdw66a7.g00uc6ln.3rdw7212/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamazenyamaya%2F49017554468143%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamazenyamaya%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamazenyamaya/cabinet/09561915/09597830/imgrc0121625975.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2Fpphalf300.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-04"
-        price: 1100
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_pphalf300"
-        available: true
-        rating: 4.84
-        reviewCount: 971
-    genreId: "205838"
-  - rank: 2
-    name: "HEIKO PPパン袋 20-30 300枚"
-    brand: "HEIKO"
-    price: 1180
-    capacity: "300枚"
-    pricePerUnit: "約3.9円/枚"
-    rating: 4.85
-    reviewCount: 295
-    features:
-      - "ごみや汚れ物の小分けに使える袋"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "家庭内のにおい対策や分別に使いやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "本来用途とサイズを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "家庭内のにおい対策や分別に使いやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u8lpn.3rdw6471.g00u8lpn.3rdw751c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivlan%2F1004-000190%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivlan%2Fi%2F10000794%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livlan/cabinet/ranking/1004-000190_logo.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2F2030l300.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-29"
-        price: 1170
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_2030l300"
-        available: true
-        rating: 4.89
-        reviewCount: 9
-    genreId: "550088"
-  - rank: 3
     name: "TANOSEE　ゴミ袋エコノミー　乳白半透明"
     brand: "TANOSEE（国内大手OEM）"
     price: 7656
@@ -108,7 +40,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_7661730"
         available: true
     genreId: "216044"
-  - rank: 4
+  - rank: 2
     name: "とって付きポリ袋 L 白半透明"
     brand: "日本サニパック"
     price: 4800
@@ -131,7 +63,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902393558198-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10068514%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic201404/4902393558198_1.jpg?_ex=128x128"
     genreId: "216044"
-  - rank: 5
+  - rank: 3
     name: "サンキョウプラテック ごみ袋 45L 半透明 100枚×2小箱"
     brand: "サンキョウプラテック"
     price: 2020
@@ -154,7 +86,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fbx-530box2kobako%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10001012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/ecotaibox/bx/45l/bx-530n_2k.jpg?_ex=128x128"
     genreId: "216044"
-  - rank: 6
+  - rank: 4
     name: "東京都容量表示ポリ袋 70L 白半透明"
     brand: "サンキョウプラテック"
     price: 9700
@@ -177,7 +109,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r56kn.3rdw6fb4.g00r56kn.3rdw781e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoly-stadium%2Fkc-73%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpoly-stadium%2Fi%2F10001776%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/poly-stadium/cabinet/sitei/kc/kc-73n_1.jpg?_ex=128x128"
     genreId: "216044"
-  - rank: 7
+  - rank: 5
     name: "クラフトマン 業務用厚手ゴミ袋 45L 100枚"
     brand: "クラフトマン"
     price: 2103
@@ -200,7 +132,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F466-6776%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10061351%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin400_06/466-6776.jpg?_ex=128x128"
     genreId: "216044"
-  - rank: 8
+  - rank: 6
     name: "ゴミ袋 90L 業務用 厚手 50枚×4冊"
     brand: "ケイヨウ実業"
     price: 5780
@@ -234,7 +166,7 @@ products:
         rating: 4.94
         reviewCount: 18
     genreId: "216044"
-  - rank: 9
+  - rank: 7
     name: "スマートエール 45L 半透明ごみ袋 100枚"
     brand: "スマートエール"
     price: 1000
@@ -268,7 +200,7 @@ products:
         available: true
     priceMax: 12800
     genreId: "216044"
-  - rank: 10
+  - rank: 8
     name: "業務用ゴミ袋 45L 半透明 厚手"
     brand: "ケイヨウ実業"
     price: 2880

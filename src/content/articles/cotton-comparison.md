@@ -1,6 +1,6 @@
 ---
-title: "コットン コスパ最強ランキング【2026年版】おすすめ8選｜1枚あたりで比較"
-description: "化粧用コットンはどれが安くてコスパがいい？シルコット・ビオレ・大容量タイプなど人気8選を1枚あたりのコストで比較し、拭き取り・パック・ネイルオフの3用途で選び分けを解説。吸水性と毛羽立ちにくさも整理しました。価格は毎週自動更新。"
+title: "コットン コスパ最強ランキング【2026年版】おすすめ7選｜1枚あたりで比較"
+description: "化粧用コットンはどれが安くてコスパがいい？シルコット・大容量タイプなど人気7選を1枚あたりのコストで比較し、拭き取り・パック・ネイルオフの3用途で選び分けを解説。吸水性と毛羽立ちにくさも整理しました。価格は毎週自動更新。"
 category: "cotton"
 publishedAt: "2026-05-03"
 articleType: "comparison"
@@ -200,40 +200,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00siy3n.3rdw6c23.g00siy3n.3rdw73c7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsk-ii%2Fsk2cotton%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsk-ii%2Fi%2F10003320%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sk-ii/cabinet/item/thumb/2606/sk2cotton.jpg?_ex=128x128"
     genreId: "111797"
-  - rank: 8
-    name: "花王　ビオレ　メイク落とし　ふくだけコットン　つめかえ用　詰め替え用　クレンジン"
-    brand: "花王（ビオレ）"
-    price: 565
-    capacity: "46枚"
-    pricePerUnit: "約12円/枚"
-    rating: 4.67
-    reviewCount: 15
-    features:
-      - "メイク落とし用のふくだけコットン詰め替えタイプ"
-      - "天然コットン100%使用で肌にやさしい"
-      - "クレンジングシートとして使いやすい46枚入り"
-    pros:
-      - "ふき取りメイク落としを手軽に補充できる"
-      - "花王ビオレブランドの安心感と品質の安定性"
-      - "46枚入で日常使いのストックにしやすい"
-    cons:
-      - "プレミアム品と比べると薄さが若干劣る"
-      - "ミシン目なしのため自分でサイズ調整はできない"
-    recommendedFor: "コスパと品質のバランスを求める方・毎日コットンを使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10034333%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10034333%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin56/4901301729286.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10034333.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-04"
-        price: 565
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10034333"
-        available: true
-    genreId: "502976"
 tags:
   - "コットン おすすめ"
   - "コットンパッド コスパ"
@@ -288,10 +254,10 @@ faqs:
 
 コットンのコスパは「1枚あたりの単価」で比較します。高吸水タイプは化粧水の節約効果があるため、化粧水代も含めた総コストで考えることも重要です。入数と1枚単価はページ上部の比較表（自動更新）でご確認ください。
 
-化粧水の消費量を抑えたいならシルコット、メイク落とし用途で手早く使いたいならビオレのふくだけコットンが候補になります。楽天リンクの商品整合性に疑いが出た商品は、正しい商品URLを確認できるまでランキングから外しています。
+化粧水の消費量を抑えたいならシルコットが候補になります。楽天リンクの商品整合性に疑いが出た商品は、正しい商品URLを確認できるまでランキングから外しています。
 ## まとめ
 
-コットン選びは「コスパ」「吸水性」「用途」で決まります。化粧水節約効果を求めるならユニ・チャーム シルコット うるうるコットン、メイク落とし用途なら花王 ビオレ ふくだけコットンが候補です。価格や入数は楽天市場の商品ページ更新で変わるため、購入前に最新表示を確認しましょう。
+コットン選びは「コスパ」「吸水性」「用途」で決まります。化粧水節約効果を求めるならユニ・チャーム シルコット うるうるコットンが候補です。価格や入数は楽天市場の商品ページ更新で変わるため、購入前に最新表示を確認しましょう。
 
 ---
 
