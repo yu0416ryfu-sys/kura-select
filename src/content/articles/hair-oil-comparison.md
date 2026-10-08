@@ -44,9 +44,9 @@ products:
   - rank: 2
     name: "マドンナリリ ヘアオイル 100mL"
     brand: "MADONNA LILI"
-    price: 3042
+    price: 2696
     capacity: "100mL"
-    pricePerUnit: "約30円/mL"
+    pricePerUnit: "約27円/mL"
     rating: 0
     reviewCount: 0
     features:
@@ -183,7 +183,7 @@ products:
     price: 2280
     capacity: "80mL"
     rating: 4.65
-    reviewCount: 13902
+    reviewCount: 13901
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -217,7 +217,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4382
+    reviewCount: 4388
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"
@@ -285,7 +285,7 @@ products:
     price: 3300
     capacity: "50mL"
     rating: 4.59
-    reviewCount: 2550
+    reviewCount: 2551
     features:
       - "ドライヤー後の乾いた髪に使う仕上げ用ヘアオイル"
       - "ツヤと潤いを与えながらボリューム感も保つ設計"

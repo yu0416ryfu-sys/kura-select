@@ -182,7 +182,7 @@ products:
     price: 1980
     capacity: "100枚入り"
     rating: 4.69
-    reviewCount: 215
+    reviewCount: 216
     features:
       - "PFAS・フッ素フリーの無漂白クッキングシート"
       - "フライパンや蒸し料理・包み焼きに対応した多用途タイプ"

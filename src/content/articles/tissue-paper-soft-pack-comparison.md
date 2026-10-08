@@ -8,39 +8,6 @@ updatedAt: "2026-10-08"
 draft: false
 products:
   - rank: 1
-    name: "ハロー ソフトパックティッシュ 150組×100個"
-    brand: "ハロー"
-    price: 5280
-    capacity: "150組×100個"
-    pricePerUnit: "約0.35円/組"
-    rating: 4.59
-    reviewCount: 757
-    features:
-      - "150組×100個の超大容量ソフトパック"
-      - "箱を使わない省スペース仕様"
-      - "1度の購入で長く使えるまとめ買い向け"
-    pros:
-      - "100個入りで買い足し頻度を減らせる"
-      - "包装がコンパクトでゴミが少ない"
-      - "家族の多い世帯でも安心のストック量"
-    cons:
-      - "100個分の保管場所が必要"
-      - "据え置き用途には箱タイプが向く"
-    recommendedFor: "大家族・買い物頻度を減らしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Ffm1354%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10063482%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/life/life12/3m9496.jpg?_ex=128x128"
-    offers:
-      - provider: "amazon"
-        label: "Amazon（150組×90個）"
-        asin: "B0D97R89YS"
-        url: "https://www.amazon.co.jp/dp/B0D97R89YS?tag=kuraselect-direct-22"
-        matchStatus: "matched"
-        matchConfidence: "medium"
-        matchedCapacity: "150組 5個×18パック（90個）"
-        matchNotes: "入数違い採用（楽天は150組×100個）"
-        updatedAt: "2026-07-16T00:00:00.000Z"
-    genreId: "100670"
-  - rank: 2
     name: "ネピア ソフトパックティッシュ 200組 5パック×18個"
     brand: "王子ネピア"
     price: 6480
@@ -63,7 +30,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7254701%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10195100%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tasya80/b_7253224.jpg?_ex=128x128"
     genreId: "100670"
-  - rank: 3
+  - rank: 2
     name: "ネピア ソフトパックティッシュ 240組 80パック"
     brand: "王子ネピア"
     price: 7720
@@ -86,7 +53,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7258440%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10195102%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tasya80/7258440_s.jpg?_ex=128x128"
     genreId: "100670"
-  - rank: 4
+  - rank: 3
     name: "ネピア ソフトパックティッシュ 240組 80パック 防災備蓄セット"
     brand: "王子ネピア"
     price: 7720
@@ -108,6 +75,39 @@ products:
     recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7258440%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10216545%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya113/7258440.jpg?_ex=128x128"
+    genreId: "100670"
+  - rank: 4
+    name: "ハロー ソフトパックティッシュ 150組×100個"
+    brand: "ハロー"
+    price: 5740
+    capacity: "150組×5個×20パック（100個）"
+    pricePerUnit: "約57円/個"
+    rating: 5
+    reviewCount: 3
+    features:
+      - "150組×100個の超大容量ソフトパック"
+      - "箱を使わない省スペース仕様"
+      - "1度の購入で長く使えるまとめ買い向け"
+    pros:
+      - "100個入りで買い足し頻度を減らせる"
+      - "包装がコンパクトでゴミが少ない"
+      - "家族の多い世帯でも安心のストック量"
+    cons:
+      - "100個分の保管場所が必要"
+      - "据え置き用途には箱タイプが向く"
+    recommendedFor: "大家族・買い物頻度を減らしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pjh9n.3rdw6262.g00pjh9n.3rdw7cf0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funidy%2F7272419%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funidy%2Fi%2F11163033%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unidy/cabinet/tasya116/7272419-e.jpg?_ex=128x128"
+    offers:
+      - provider: "amazon"
+        label: "Amazon（150組×90個）"
+        asin: "B0D97R89YS"
+        url: "https://www.amazon.co.jp/dp/B0D97R89YS?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "medium"
+        matchedCapacity: "150組 5個×18パック（90個）"
+        matchNotes: "入数違い採用（楽天は150組×100個）"
+        updatedAt: "2026-07-16T00:00:00.000Z"
     genreId: "100670"
   - rank: 5
     name: "ネピア ソフトパックティッシュ 200組 90個"
@@ -170,7 +170,7 @@ products:
     price: 2640
     capacity: "150組×50個（7500組）"
     rating: 4.56
-    reviewCount: 844
+    reviewCount: 845
     features:
       - "アイリスオーヤマのソフトパック"
       - "150組×50個のまとめ買いパック"

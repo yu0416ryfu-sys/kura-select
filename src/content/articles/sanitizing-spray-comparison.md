@@ -4,7 +4,7 @@ description: "除菌スプレー・アルコールを1mLあたりのコストで
 category: "sanitizing-spray"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-06"
+updatedAt: "2026-10-08"
 products:
   - rank: 1
     name: "カビキラー アルコール除菌 キッチン用 詰め替え用【カビキラー】[アルコールスプ"
@@ -180,11 +180,11 @@ products:
   - rank: 7
     name: "ブテナロック 除菌抗菌スプレー 180ml"
     brand: "ブテナロック"
-    price: 1100
+    price: 1078
     capacity: "180ml"
-    pricePerUnit: "約6.1円/mL"
-    rating: 4.65
-    reviewCount: 4133
+    pricePerUnit: "約6.0円/mL"
+    rating: 4.77
+    reviewCount: 13
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"
@@ -197,8 +197,8 @@ products:
       - "対象素材への使用可否確認が必要"
       - "成分や濃度の確認が必要"
     recommendedFor: "除菌スプレーを用途と容量で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00telan.3rdw6aaf.g00telan.3rdw7f40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamitsu%2F4987188317853%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamitsu%2Fi%2F10000030%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hisamitsu/cabinet/4987188317853.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987188188262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10048017%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/54/4987188188262.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -210,7 +210,7 @@ products:
         available: true
         rating: 4.43
         reviewCount: 35
-    genreId: "409431"
+    genreId: "208238"
   - rank: 8
     name: "シュシュキッキ 除菌消臭ミスト 携帯サイズ"
     brand: "シュシュキッキ"

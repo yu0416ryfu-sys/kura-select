@@ -4,17 +4,17 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-10-06"
+updatedAt: "2026-10-08"
 draft: false
 products:
   - rank: 1
-    name: "ヴァセリン アドバンスドリペア ボディローション 500ml×3本 フェイス ボディ"
+    name: "ヴァセリン アドバンスドリペア ボディローション 500ml×3本"
     brand: "ヴァセリン"
-    price: 2210
-    capacity: "500ml×3"
-    pricePerUnit: "約1.5円/mL"
-    rating: 4.77
-    reviewCount: 147
+    price: 2480
+    capacity: "500ml×3本（1500mL）"
+    pricePerUnit: "約1.7円/mL"
+    rating: 4.7
+    reviewCount: 136
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"
@@ -27,8 +27,8 @@ products:
       - "サイズや対応条件は購入前に確認したい"
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sa3qn.3rdw64a4.g00sa3qn.3rdw76a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopavail%2F1605%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopavail%2Fi%2F10001450%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shopavail/cabinet/nichiyouzakka/compass1707355688.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qc51n.3rdw6b5e.g00qc51n.3rdw7f40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fper-bestone%2F1081106600-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fper-bestone%2Fi%2F10021102%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/per-bestone/cabinet/item03/1081106500-3.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -40,7 +40,7 @@ products:
         available: true
         rating: 4.83
         reviewCount: 6
-    genreId: "216387"
+    genreId: "216670"
   - rank: 2
     name: "ダイアンボタニカル ボディミルク"
     brand: "Moist Diane（ネイチャーラボ）"
@@ -263,7 +263,7 @@ products:
     price: 3080
     capacity: "350ml"
     rating: 4.75
-    reviewCount: 662
+    reviewCount: 663
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"

@@ -161,7 +161,7 @@ products:
     capacity: "20ml"
     pricePerUnit: "約167円/ml"
     rating: 4.14
-    reviewCount: 1686
+    reviewCount: 1687
     features:
       - "ロールオンタイプの制汗デオドラント"
       - "無香料タイプ"

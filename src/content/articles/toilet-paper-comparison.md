@@ -13,7 +13,7 @@ products:
     capacity: "170m×48ロール"
     pricePerUnit: "約0.63円/m"
     rating: 4.61
-    reviewCount: 844
+    reviewCount: 845
     features:
       - "芯なしの長尺シングルで交換頻度を抑えやすい"
       - "無包装タイプで包装ごみを減らしやすい"

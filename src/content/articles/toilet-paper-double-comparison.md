@@ -4,16 +4,16 @@ description: "ダブルのトイレットペーパーを1mあたりのコスト�
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-10-06"
+updatedAt: "2026-10-08"
 products:
   - rank: 1
-    name: "エシカル12RW ダブル 12ロール×8パック"
+    name: "再生紙トイレット12RW ダブル 12ロール×8パック"
     brand: "エシカル"
-    price: 3280
+    price: 3200
     capacity: "27.5m×12ロール×8パック"
     pricePerUnit: "約1.2円/m"
-    rating: 4.43
-    reviewCount: 3357
+    rating: 4.58
+    reviewCount: 3686
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -26,8 +26,8 @@ products:
       - "サイズや仕様は購入前に確認が必要"
       - "ショップにより在庫や配送条件が変わる"
     recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7hcn.3rdw6d10.g00r7hcn.3rdw7ef9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoming%2Fcolor-jun1kyuhinrolls-t%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoming%2Fi%2F10000149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/coming/cabinet/daiichimoji/imgrc0078843721.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7hcn.3rdw6d10.g00r7hcn.3rdw7ef9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoming%2Fjun1kyuhinrolls-recycle12rw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoming%2Fi%2F10000440%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/coming/cabinet/daiichimoji/imgrc0096851285.jpg?_ex=128x128"
     genreId: "501098"
   - rank: 2
     name: "ブルーネット トイレットペーパー ダブル 27.5m×12ロール×8パック"

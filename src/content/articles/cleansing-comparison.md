@@ -30,40 +30,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/cleansing480ml_27.jpg?_ex=128x128"
     genreId: "405061"
   - rank: 2
-    name: "manyo ピュアクレンジングオイル 400mL"
-    brand: "manyo"
-    price: 3780
-    capacity: "400mL"
-    pricePerUnit: "約9.4円/mL"
-    rating: 4.64
-    reviewCount: 50
-    features:
-      - "天然由来成分を重視したクレンジングオイル"
-      - "400mLの大容量タイプ"
-      - "W洗顔不要で使える韓国コスメ"
-    pros:
-      - "大容量でコスパを重視しやすい"
-      - "オイルタイプでメイクや皮脂汚れになじみやすい"
-      - "敏感肌向けを意識した処方"
-    cons:
-      - "韓国からの配送で到着まで時間がかかる場合がある"
-      - "香りの好みが分かれることがある"
-    recommendedFor: "韓国コスメの大容量オイルを選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdwjn.3rdw6201.g00tdwjn.3rdw7cc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmanyo-official%2Fma1277%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmanyo-official%2Fi%2F10000303%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/manyo-official/cabinet/10979173/12298620/imgrc0131021702.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F50759-12.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-06"
-        price: 3980
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_50759-12"
-        available: true
-        rating: 0
-        reviewCount: 0
-    genreId: "405061"
-  - rank: 3
     name: "manyo ピュアクレンジングオイル ディープクリーン 200mL"
     brand: "manyo"
     price: 2420
@@ -95,14 +61,14 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/begirl_541203699"
         available: true
     genreId: "405061"
-  - rank: 4
+  - rank: 3
     name: "DHC ディープクレンジングオイル 200mL"
     brand: "DHC"
     price: 2717
     capacity: "200mL"
     pricePerUnit: "約14円/mL"
     rating: 4.71
-    reviewCount: 635
+    reviewCount: 636
     features:
       - "オリーブバージンオイル配合でメイクと馴染みやすい"
       - "マッサージしながら毛穴汚れもオフ"
@@ -129,7 +95,7 @@ products:
         rating: 0
         reviewCount: 1
     genreId: "405061"
-  - rank: 5
+  - rank: 4
     name: "Bioré ビオレ素肌つるるんクレンジングウォーター詰替"
     brand: "花王（ビオレ）"
     price: 6116
@@ -152,14 +118,14 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ujrwn.3rdw65e1.g00ujrwn.3rdw73b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorro%2F20250623203939_94%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorro%2Fi%2F10047472%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/morro/cabinet/r_2025062255/20250623203939_94_1.jpg?_ex=128x128"
     genreId: "101876"
-  - rank: 6
+  - rank: 5
     name: "PINCHER マルチクレンズ 500mL"
     brand: "PINCHER"
     price: 15980
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3261
+    reviewCount: 3262
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"
@@ -186,6 +152,40 @@ products:
         rating: 4.94
         reviewCount: 476
     genreId: "405091"
+  - rank: 6
+    name: "manyo ピュアクレンジングオイル 200mL"
+    brand: "manyo"
+    price: 3960
+    capacity: "200mL"
+    rating: 4.46
+    reviewCount: 1175
+    features:
+      - "天然由来成分を重視したクレンジングオイル"
+      - "400mLの大容量タイプ"
+      - "W洗顔不要で使える韓国コスメ"
+    pros:
+      - "大容量でコスパを重視しやすい"
+      - "オイルタイプでメイクや皮脂汚れになじみやすい"
+      - "敏感肌向けを意識した処方"
+    cons:
+      - "韓国からの配送で到着まで時間がかかる場合がある"
+      - "香りの好みが分かれることがある"
+    recommendedFor: "韓国コスメの大容量オイルを選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tdwjn.3rdw6201.g00tdwjn.3rdw7cc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmanyo-official%2Fma105%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmanyo-official%2Fi%2F10000089%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/manyo-official/cabinet/13371190/13371231/imgrc0134386875.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F50759-12.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-06"
+        price: 3980
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_50759-12"
+        available: true
+        rating: 0
+        reviewCount: 0
+    genreId: "405061"
+    priceMax: 10000
   - rank: 7
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
     brand: "花王（キュレル）"

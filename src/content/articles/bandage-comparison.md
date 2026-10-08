@@ -182,7 +182,7 @@ products:
   - rank: 8
     name: "ケアリーヴ 防水タイプ Mサイズ 40枚"
     brand: "ニチバン（ケアリーヴ）"
-    price: 811
+    price: 812
     capacity: "40枚"
     pricePerUnit: "約20円/枚"
     rating: 4.79

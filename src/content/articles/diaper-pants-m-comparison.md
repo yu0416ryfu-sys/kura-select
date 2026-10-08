@@ -1,10 +1,10 @@
 ---
-title: "パンツ型おむつ Mサイズ おすすめ6選【2026年】1枚単価で比較"
+title: "パンツ型おむつ Mサイズ おすすめ5選【2026年】1枚単価で比較"
 description: "パンツ型おむつのMサイズを1枚あたりの価格で比較します。"
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-10-06"
+updatedAt: "2026-10-08"
 draft: false
 products:
   - rank: 1
@@ -110,40 +110,6 @@ products:
         available: true
     genreId: "205198"
   - rank: 4
-    name: "メリーズパンツ エアスルー Mサイズ"
-    brand: "メリーズ（花王）"
-    price: 5190
-    capacity: "52枚×3個（6〜11kg）"
-    pricePerUnit: "約33円/枚"
-    rating: 4.77
-    reviewCount: 13
-    features:
-      - "通気性を重視した素肌さらさらエアスルー設計"
-      - "Mサイズのまとめ買い構成"
-      - "スーパー系ショップの取り扱い"
-    pros:
-      - "むれが気になる時期に選びやすい"
-      - "定番ブランドで品質が安定している"
-      - "価格と品質のバランスを取りやすい"
-    cons:
-      - "上位ラインより肌あたりはあっさりしている"
-      - "保管スペースをまとめて取る"
-    recommendedFor: "通気性重視でMサイズをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.3rdw6eed.g00s0vmn.3rdw7144/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4901301418579-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10147305%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/09476807/4901301418579.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301418579-3.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-26"
-        price: 5190
-        rating: 4.93
-        reviewCount: 15
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301418579-3"
-        available: true
-    genreId: "205198"
-  - rank: 5
     name: "メリーズ パンツ Mサイズ 大容量パック"
     brand: "メリーズ（花王）"
     price: 5898
@@ -166,7 +132,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F10002250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10002250%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/151076402495518.jpg?_ex=128x128"
     genreId: "205198"
-  - rank: 6
+  - rank: 5
     name: "メリーズ パンツ ファーストプレミアム Mサイズ"
     brand: "花王（メリーズ）"
     price: 1807

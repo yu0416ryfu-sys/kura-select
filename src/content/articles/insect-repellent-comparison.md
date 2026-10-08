@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-08"
 draft: false
 products:
   - rank: 1
@@ -128,9 +128,9 @@ products:
   - rank: 4
     name: "KINCHO プレシャワー DFミスト プレミアガード 無香料 120mL"
     brand: "大日本除虫菊（KINCHO）"
-    price: 1113
+    price: 1009
     capacity: "120mL"
-    pricePerUnit: "約9.3円/mL"
+    pricePerUnit: "約8.4円/mL"
     rating: 5
     reviewCount: 1
     features:
@@ -145,8 +145,8 @@ products:
       - "120mLと中容量のため使用頻度が高いと消費が早め"
       - "スキンベープと同成分のためブランドによる使い分けが主な違いになる"
     recommendedFor: "KINCHOブランドのイカリジン配合無香料スプレーを試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00slbfn.3rdw664c.g00slbfn.3rdw7e6f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthinkrich%2Fsk07402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthinkrich%2Fi%2F10227049%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thinkrich/cabinet/sale2_muryou_07/s07402.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pymin.3rdw6e02.g00pymin.3rdw7e2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhc7%2F4987115540569%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhc7%2Fi%2F13295296%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hc7/cabinet/2024-12-h/4987115540569.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -158,7 +158,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4987115540569"
         available: true
-    genreId: "401642"
+    genreId: "567856"
   - rank: 5
     name: "選べるアロマスプレー 虫除け 3本セット"
     brand: "ease-aroma"

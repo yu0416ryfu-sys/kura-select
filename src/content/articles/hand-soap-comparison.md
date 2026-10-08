@@ -9,11 +9,11 @@ products:
   - rank: 1
     name: "ミューズ 泡ハンドソープ オリジナル 詰め替え 900mL"
     brand: "レキットベンキーザー（ミューズ）"
-    price: 590
+    price: 605
     capacity: "900mL"
-    pricePerUnit: "約0.66円/mL"
+    pricePerUnit: "約0.67円/mL"
     rating: 4.73
-    reviewCount: 52
+    reviewCount: 0
     features:
       - "幅広いバイ菌を殺菌・消毒"
       - "ミューズ独自の殺菌処方で高い除菌力"
@@ -26,8 +26,8 @@ products:
       - "1回あたりのコストがやや高め"
       - "乾燥肌の方は保湿ケアが別途必要"
     recommendedFor: "殺菌力を最重視する方・しっかり洗いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4906156801217%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10017772%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/217/4906156801217.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3ryn.3rdw6d50.g00q3ryn.3rdw725d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnice%2F4906156801217%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnice%2Fi%2F10024659%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nice/cabinet/00535313/4906156801217-1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -39,7 +39,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_b81709"
         available: true
-    genreId: "304758"
+    genreId: "553430"
   - rank: 2
     name: "ビオレu 薬用 泡ハンドソープ つめかえ用 2L"
     brand: "花王（ビオレu）"
@@ -246,13 +246,13 @@ products:
         reviewCount: 12
     genreId: "304758"
   - rank: 9
-    name: "ジェームズマーティン 薬用泡ハンドソープ"
+    name: "ジェームズマーティン 薬用泡ハンドソープ 400ml"
     brand: "ジェームズマーティン"
     price: 1254
     capacity: "400ml"
     pricePerUnit: "約3.1円/mL"
-    rating: 4.56
-    reviewCount: 50
+    rating: 4.77
+    reviewCount: 26
     features:
       - "医薬部外品の薬用ハンドソープで殺菌・消毒成分を配合"
       - "濃密できめ細かい泡立ちが特徴の本体ボトルタイプ"
@@ -265,8 +265,8 @@ products:
       - "本体ボトルのみのためランニングコストは詰め替え型より高め"
       - "デザイン重視の商品のため価格帯はやや高め"
     recommendedFor: "洗面台のインテリアにこだわる方・薬用ハンドソープを手軽に試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Fj0030009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10017408%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/02716961/05514327/imgrc0078436931.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s1zgn.3rdw68b6.g00s1zgn.3rdw755c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fredcabin%2Fjam-100-0011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fredcabin%2Fi%2F10001587%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/redcabin/item_images/jam-100-0011_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

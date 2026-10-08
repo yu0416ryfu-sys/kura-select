@@ -94,7 +94,7 @@ products:
     capacity: "350g"
     pricePerUnit: "約16円/g"
     rating: 4.27
-    reviewCount: 3058
+    reviewCount: 3059
     features:
       - "洗いながら染めるクリームシャンプータイプ"
       - "白髪染め・トリートメント機能を兼ねる"
@@ -151,7 +151,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.5
-    reviewCount: 2731
+    reviewCount: 2734
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -219,7 +219,7 @@ products:
     price: 2640
     capacity: "400g"
     rating: 4.38
-    reviewCount: 8446
+    reviewCount: 8449
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

@@ -234,13 +234,13 @@ products:
         reviewCount: 0
     genreId: "216012"
   - rank: 8
-    name: "IVORY ディッシュソープ クラシック 食器用洗剤 709mL×2本"
+    name: "IVORY ウルトラアイボリー 食器用洗剤 クラシック 709mL"
     brand: "IVORY"
-    price: 3468
-    capacity: "709mL×2本（1418mL）"
-    pricePerUnit: "約2.4円/mL"
-    rating: 0
-    reviewCount: 0
+    price: 1005
+    capacity: "709mL"
+    pricePerUnit: "約1.4円/mL"
+    rating: 5
+    reviewCount: 1
     features:
       - "海外ブランドの大容量食器用洗剤"
       - "濃縮タイプで油汚れに使いやすい"
@@ -253,9 +253,9 @@ products:
       - "香りの好みが分かれやすい"
       - "国内定番品と比べて詰め替え運用しにくい"
     recommendedFor: "海外ブランドの食器用洗剤を使ってみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00up3bn.3rdw60f2.g00up3bn.3rdw7ff6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyksakai%2Fmepxask4lgaaw2jmf54vmsjiaa%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyksakai%2Fi%2F10521015%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yksakai/cabinet/13132948/44216308_1.jpg?_ex=128x128"
-    genreId: "112779"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F0037000255741%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12410718%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2022a/37000255741.jpg?_ex=128x128"
+    genreId: "216012"
 tags:
   - "食器用洗剤"
   - "コスパ"

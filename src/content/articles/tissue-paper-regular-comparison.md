@@ -13,8 +13,8 @@ products:
     price: 5000
     capacity: "400枚（200組）×60箱"
     pricePerUnit: "約0.42円/組"
-    rating: 4.74
-    reviewCount: 541
+    rating: 4.75
+    reviewCount: 542
     features:
       - "シンプルなホワイトパッケージの定番箱タイプ"
       - "200組のスタンダードな2枚重ね"

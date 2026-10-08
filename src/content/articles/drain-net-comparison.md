@@ -1,6 +1,6 @@
 ---
-title: "排水口ネット おすすめ10選｜水切りネットをコスパで比較【2026年】"
-description: "キッチンシンクの排水口ネット（水切りネット）おすすめ10選をコスパで比較。ストッキングタイプ100枚入りを中心に、1枚あたりの単価・素材・使い勝手の違いをわかりやすく解説します。"
+title: "排水口ネット おすすめ9選｜水切りネットをコスパで比較【2026年】"
+description: "キッチンシンクの排水口ネット（水切りネット）おすすめ9選をコスパで比較。ストッキングタイプ100枚入りを中心に、1枚あたりの単価・素材・使い勝手の違いをわかりやすく解説します。"
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
@@ -275,7 +275,7 @@ products:
     capacity: "4枚×10袋（40枚）"
     pricePerUnit: "約55円/枚"
     rating: 4.65
-    reviewCount: 1076
+    reviewCount: 1077
     features:
       - "ポリプロピレン・ポリエステル製のヘアキャッチャー"
       - "台所・浴室どちらの排水口にも対応"
@@ -302,29 +302,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/la-kurasu_186930-10s"
         available: true
     genreId: "565605"
-  - rank: 10
-    name: "ストッキング水切りネット 浅型 100枚"
-    brand: "まるモール"
-    price: 600
-    capacity: "100枚"
-    rating: 4.83
-    reviewCount: 6
-    features:
-      - "ポリエチレン製のシンプルなストッキングタイプ"
-      - "浅型13×15cmサイズで標準的な排水口バスケットに対応"
-      - "伸縮性のある細かい網目で生ゴミをしっかり捕集"
-    pros:
-      - "余計な機能を省いたベーシック設計でコスパを重視できる"
-      - "軽量でかさばらず保管スペースを取らない"
-      - "100枚入りで交換頻度が高くても消費しやすい"
-    cons:
-      - "特定機能がないためサイズが合わない排水口では伸縮性頼みになる"
-      - "深型や大型シンクへの対応は伸縮性次第"
-    recommendedFor: "コスパ重視の方・シンプルな消耗品を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F14221%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10001327%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/kitchen/kitchen03/imgrc0112005200.jpg?_ex=128x128"
-    priceMax: 4901
-    genreId: "301447"
 tags:
   - "排水口ネット おすすめ"
   - "水切りネット コスパ"

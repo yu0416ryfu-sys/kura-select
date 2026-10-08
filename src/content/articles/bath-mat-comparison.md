@@ -233,7 +233,7 @@ products:
     price: 1999
     capacity: "40×60cm / 50×80cm 1枚"
     rating: 4.64
-    reviewCount: 3310
+    reviewCount: 3312
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"
@@ -281,7 +281,7 @@ products:
     price: 2070
     capacity: "60×40cm / 70×50cm"
     rating: 4.43
-    reviewCount: 2708
+    reviewCount: 2707
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"

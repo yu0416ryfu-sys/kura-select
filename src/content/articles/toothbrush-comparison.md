@@ -25,7 +25,7 @@ products:
       - "毛のかたさやサイズ確認が必要"
       - "電動タイプは替えブラシ確認が必要"
     recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tbfbn.3rdw6cbf.g00tbfbn.3rdw75f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiyocohealth%2Fshuandshu-m20copy%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiyocohealth%2Fi%2F10001808%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tbfbn.3rdw6cbf.g00tbfbn.3rdw75f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiyocohealth%2Fshuandshu-m20%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiyocohealth%2Fi%2F10001497%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiyocohealth/cabinet/09504983/imgrc0117762758.jpg?_ex=128x128"
     genreId: "506385"
   - rank: 2

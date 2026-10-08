@@ -1,6 +1,6 @@
 ---
 title: "食器用スポンジ・キッチンスポンジ コスパ比較【2026年版】1個単価と耐久性"
-description: "食器用スポンジ・キッチンスポンジを1個あたりで比較。ダスキン、パックス、マーナなど9選を耐久性・泡立ち・交換頻度で整理し、食器洗い用に選びやすく解説します。"
+description: "食器用スポンジ・キッチンスポンジを1個あたりで比較。ダスキン、パックス、マーナなど8選を耐久性・泡立ち・交換頻度で整理し、食器洗い用に選びやすく解説します。"
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -13,7 +13,7 @@ products:
     capacity: "6個（約6ヶ月分）"
     pricePerUnit: "約183円/個"
     rating: 4.78
-    reviewCount: 9895
+    reviewCount: 9896
     features:
       - "3層構造で泡立ち・水切れ・耐久性を両立"
       - "楽天レビュー数トップクラスの圧倒的人気"
@@ -47,7 +47,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.76
-    reviewCount: 1438
+    reviewCount: 1439
     features:
       - "ポリウレタンフォーム＋ナイロン不織布＋ポリエステルの3素材構造"
       - "ブラック・グレー・ホワイトのモノトーン3色展開"
@@ -98,40 +98,6 @@ products:
         reviewCount: 9
     genreId: "401520"
   - rank: 4
-    name: "ダスキン 台所用スポンジ ハードタイプ ブラック 個包装 6個"
-    brand: "ダスキン"
-    price: 1300
-    capacity: "6個"
-    pricePerUnit: "約217円/個"
-    rating: 4.68
-    reviewCount: 273
-    features:
-      - "ポリエステル＋ウレタンフォームのハードタイプ構造"
-      - "3色パック×2セットのカラフルな6個組"
-      - "1個あたり約6.5×12.5×3.5cmの標準サイズ"
-    pros:
-      - "カラー展開で食器・鍋・コンロなど用途別に使い分けやすい"
-      - "ハードタイプで繰り返し使える耐久性"
-      - "傷つけにくい素材で食器を守りながら洗える"
-    cons:
-      - "ハードタイプのためデリケートなコーティング面には不向き"
-      - "価格はページ確認が必要"
-    recommendedFor: "用途別に色分けして使いたい方・耐久性重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00scwvn.3rdw672a.g00scwvn.3rdw7cad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdusdus-shop%2Fdskbl6-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdusdus-shop%2Fi%2F10000122%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dusdus-shop/cabinet/05082460/noprice/sponge/dskbl06.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdusrara%2F152.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-23"
-        price: 1300
-        rating: 4.9
-        reviewCount: 70
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/dusrara_152"
-        available: true
-    genreId: "401520"
-  - rank: 5
     name: "パックスナチュロン キッチンスポンジ"
     brand: "パックスナチュロン（PAX NATURON）"
     price: 2480
@@ -165,7 +131,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/vape-land_jj220125-1056"
         available: true
     genreId: "401520"
-  - rank: 6
+  - rank: 5
     name: "LA CORVETTE ベジタブルスポンジ 3個入り"
     brand: "LA CORVETTE"
     price: 880
@@ -199,7 +165,7 @@ products:
         rating: 0
         reviewCount: 1
     genreId: "401520"
-  - rank: 7
+  - rank: 6
     name: "マーナ おさかなスポンジ 選べる5個セット"
     brand: "MARNA（マーナ）"
     price: 1540
@@ -233,7 +199,7 @@ products:
         rating: 4.65
         reviewCount: 20
     genreId: "401520"
-  - rank: 8
+  - rank: 7
     name: "サンサンスポンジ 8個セット"
     brand: "ダイニチ"
     price: 3073
@@ -267,7 +233,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sunsunsponge_tss08b"
         available: true
     genreId: "401520"
-  - rank: 9
+  - rank: 8
     name: "セルロース製 食器洗いスポンジ 6個パック SDGs プラスチックフリー"
     brand: "生活創造舎"
     price: 870

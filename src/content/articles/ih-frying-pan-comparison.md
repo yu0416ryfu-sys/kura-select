@@ -27,8 +27,8 @@ products:
       - "一般的な軽量フライパンより重さを感じる場合がある"
       - "収納時は通常の浅型フライパンよりかさばりやすい"
     recommendedFor: "焼き物に使いやすいスキレット風タイプを探す方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.3rdw65f5.g00t3jpn.3rdw7f69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F7422941010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10373181%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000038/7422941010.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tl2kn.3rdw67a7.g00tl2kn.3rdw7a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsuyadenki%2F7422941010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsuyadenki%2Fi%2F10105958%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsuyadenki/cabinet/img00091/7422941010.jpg?_ex=128x128"
     genreId: "215927"
   - rank: 2
     name: "アイリスオーヤマ ナチュかるフライパン IH対応 26cm"

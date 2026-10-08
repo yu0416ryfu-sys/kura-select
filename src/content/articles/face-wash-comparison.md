@@ -1,6 +1,6 @@
 ---
 title: "洗顔料 コスパ最強ランキング【2026年版】1gあたり最安で比較"
-description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴなど人気10選を成分・洗い上がり・コスパで解説。泡タイプとパウダーで単価を比べられない理由も整理します。"
+description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・ロゼット・ダヴなど人気9選を成分・洗い上がり・コスパで解説。泡タイプとパウダーで単価を比べられない理由も整理します。"
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -70,7 +70,7 @@ products:
     capacity: "110g"
     pricePerUnit: "約18円/g"
     rating: 4.6
-    reviewCount: 2029
+    reviewCount: 2030
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"
@@ -246,40 +246,6 @@ products:
     priceMax: 2290
     genreId: "405165"
   - rank: 9
-    name: "どろばーゆ 泡洗顔"
-    brand: "ナチュボーテ"
-    price: 1540
-    capacity: "120g"
-    rating: 4.58
-    reviewCount: 1576
-    features:
-      - "竹炭・海シルト・馬油配合の泥洗顔"
-      - "無香料タイプとバラの香りタイプを展開"
-      - "日本製のクレイ洗顔フォーム"
-    pros:
-      - "毛穴汚れが気になる方に選びやすい処方"
-      - "無香料を選べば香り付きが苦手な人にも使いやすい"
-      - "メンズにも使いやすいシンプルな設計"
-    cons:
-      - "泥タイプのためすすぎ残しに注意が必要"
-      - "毎日の使用ではやや洗浄力が強く感じる場合がある"
-    recommendedFor: "毛穴汚れを重点的にケアしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r97bn.3rdw60e8.g00r97bn.3rdw72a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-cueb%2Fawasoapa-2set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-cueb%2Fi%2F10005406%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-cueb/cabinet/03069387/natubeaute/claywash/doro2602_sn1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Facuebshop%2Fdorobayu.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-08"
-        price: 1540
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/acuebshop_dorobayu"
-        available: true
-    priceMax: 2280
-    genreId: "405130"
-  - rank: 10
     name: "オルナ オーガニック 泥洗顔 130g"
     brand: "ALLNA ORGANIC"
     price: 2200

@@ -81,8 +81,8 @@ products:
     price: 1980
     capacity: "300枚"
     pricePerUnit: "約6.6円/枚"
-    rating: 4.5
-    reviewCount: 322
+    rating: 4.51
+    reviewCount: 321
     features:
       - "袋の口が広く作られた汎用タイプの防臭袋"
       - "おむつと生ゴミの両方を想定した仕様"
@@ -275,7 +275,7 @@ products:
     capacity: "90枚"
     pricePerUnit: "約15円/枚"
     rating: 4.82
-    reviewCount: 1374
+    reviewCount: 1375
     features:
       - "赤ちゃんからペットまで幅広い用途を想定した中間サイズ"
       - "1枚に複数個まとめられる寸法"

@@ -1,10 +1,10 @@
 ---
-title: "除湿剤 コスパ最強ランキング【2026年版】おすすめ9選｜タンク型を比較"
-description: "除湿剤おすすめ9選を吸湿量1mLあたりの単価で徹底比較。水とりぞうさん・ドライペット・激乾など、タンクタイプの人気商品を容量・消臭機能・使いやすさで解説します。"
+title: "除湿剤 コスパ最強ランキング【2026年版】おすすめ8選｜タンク型を比較"
+description: "除湿剤おすすめ8選を吸湿量1mLあたりの単価で徹底比較。水とりぞうさん・ドライペット・激乾など、タンクタイプの人気商品を容量・消臭機能・使いやすさで解説します。"
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-06"
+updatedAt: "2026-10-08"
 products:
   - rank: 1
     name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
@@ -75,29 +75,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901070910168"
         available: true
   - rank: 3
-    name: "水とりぞうさん 550ml×3個×5パック タンクタイプ"
-    brand: "オカモト（水とりぞうさん）"
-    price: 1925
-    capacity: "550mL×3個×5パック（8,250mL）"
-    pricePerUnit: "約0.23円/mL"
-    rating: 4.61
-    reviewCount: 38
-    features:
-      - "定番ブランドの標準的なタンクタイプ"
-      - "3個パックの最小単位で販売"
-      - "押し入れ・クローゼット・下駄箱などに対応"
-    pros:
-      - "少量から試せて初めての1セットに選びやすい"
-      - "定番ブランドで店頭でも買い足しやすい"
-      - "保管スペースをほとんど取らない"
-    cons:
-      - "まとめ買いに比べると吸湿量あたりの単価は上がりやすい"
-      - "設置箇所が多い家庭では数が足りなくなりやすい"
-    recommendedFor: "まず少量から試したい方・置き場所が数か所の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4904637999804-005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10163782%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic4903/4904637999804_1.jpg?_ex=128x128"
-    genreId: "401619"
-  - rank: 4
     name: "ドライ ドライUP NECO 1000mL×2個"
     brand: "白元アース（ドライ&ドライUP）"
     price: 545
@@ -131,7 +108,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/artfulllife_l222080301"
         available: true
-  - rank: 5
+  - rank: 4
     name: "備長炭ドライペット 除湿剤 タンクタイプ どこでも用（3個パック×6個）"
     brand: "エステー（ドライペット）"
     price: 2107
@@ -154,7 +131,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901070939398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11075355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/398/4901070939398.jpg?_ex=128x128"
     genreId: "568231"
-  - rank: 6
+  - rank: 5
     name: "激乾 除湿剤 タンクタイプ（400mL×3個パック）"
     brand: "フマキラー（激乾）"
     price: 421
@@ -177,7 +154,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ramcn.3rdw6d52.g00ramcn.3rdw79d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmdse%2Fho-4902424439014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frcmdse%2Fi%2F14732325%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmdse/cabinet/ho01/ho-4902424439014.jpg?_ex=128x128"
     genreId: "568231"
-  - rank: 7
+  - rank: 6
     name: "コーナン 除湿剤 1000ml 置き型 大容量タイプ"
     brand: "コーナン"
     price: 1090
@@ -211,7 +188,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_4522831169818"
         available: true
     genreId: "568231"
-  - rank: 8
+  - rank: 7
     name: "コーナン 除湿剤 500ml 置き型"
     brand: "コーナン"
     price: 990
@@ -246,7 +223,7 @@ products:
         available: false
         matchNotes: "capacity不一致: 商品名トークン不一致"
     genreId: "101833"
-  - rank: 9
+  - rank: 8
     name: "水とりぞうさん 550ml×12個入り"
     brand: "オカモト（水とりぞうさん）"
     price: 2496

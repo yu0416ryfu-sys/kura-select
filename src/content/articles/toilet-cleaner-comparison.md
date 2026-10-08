@@ -202,9 +202,9 @@ products:
   - rank: 7
     name: "スクラビングバブル 超強力トイレクリーナー"
     brand: "スクラビングバブル（ジョンソン）"
-    price: 198
+    price: 207
     capacity: "400g"
-    pricePerUnit: "約0.49円/g"
+    pricePerUnit: "約0.52円/g"
     rating: 4.76
     reviewCount: 54
     features:

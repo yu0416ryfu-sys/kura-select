@@ -4,7 +4,7 @@ description: "洗濯洗剤は液体・粉末・ジェルボールのどれがコ
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-08"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -43,11 +43,11 @@ products:
   - rank: 2
     name: "トップ クリアリキッド 業務用 4kg×3本"
     brand: "ライオン（トップ）"
-    price: 6530
-    capacity: "4kg×3本"
-    pricePerUnit: "約0.54円/g"
-    rating: 4.81
-    reviewCount: 48
+    price: 7166
+    capacity: "4kg×3本（12kg）"
+    pricePerUnit: "約0.60円/g"
+    rating: 4.8
+    reviewCount: 215
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -60,8 +60,8 @@ products:
       - "香りや洗い上がりの好みを確認したい"
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ur23n.3rdw6945.g00ur23n.3rdw7aae/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnontarou-selection%2Fr5-15080k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnontarou-selection%2Fi%2F10000031%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nontarou-selection/cabinet/item/r5-15080k_rogo.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r74en.3rdw6e21.g00r74en.3rdw7279/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-nontarou%2Fr5-15080k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-nontarou%2Fi%2F10001040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-nontarou/cabinet/sale/root_hz/r5-15080.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

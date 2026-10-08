@@ -13,7 +13,7 @@ products:
     capacity: "500mL×6本"
     pricePerUnit: "約1.1円/mL"
     rating: 4.84
-    reviewCount: 466
+    reviewCount: 467
     features:
       - "ソフトコンタクトレンズ用の洗浄・保存液"
       - "モイストタイプを複数本まとめて備えられる"
