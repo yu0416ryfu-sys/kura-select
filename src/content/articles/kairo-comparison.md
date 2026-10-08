@@ -149,7 +149,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej35309/"
         matchStatus: "pending"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-08"
         price: 2889
         rating: 0
         reviewCount: 1
@@ -182,11 +182,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F4970520461383set.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-29"
+        matchStatus: "matched"
+        updatedAt: "2026-10-08"
         price: 6080
-        rating: 4.9
-        reviewCount: 10
+        rating: 4.91
+        reviewCount: 11
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_4970520461383set"
         available: true
   - rank: 7
@@ -217,7 +217,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F4970520461338set.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-08"
         price: 6080
         rating: 5
         reviewCount: 3
@@ -251,7 +251,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladybird6353%2F1919335.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-08"
         price: 2980
         rating: 0
         reviewCount: 0
@@ -280,6 +280,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ssuan.3rdw6ccc.g00ssuan.3rdw7316/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkohnan-eshop%2F4901548603738%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkohnan-eshop%2Fi%2F10164173%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kohnan-eshop/cabinet/goods/202311/s1/4901548603738.jpg?_ex=128x128"
     genreId: "506417"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ae09408/"
+        matchStatus: "pending"
+        updatedAt: "2026-10-08"
+        price: 1480
+        rating: 4.83
+        reviewCount: 23
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ae09408"
+        available: true
   - rank: 10
     name: "エステー はるオンパックス 10個×24袋 ケース"
     brand: "エステー"
@@ -307,8 +318,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flamd%2Fs450057.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-23"
+        matchStatus: "matched"
+        updatedAt: "2026-10-08"
         price: 8597
         rating: 0
         reviewCount: 0

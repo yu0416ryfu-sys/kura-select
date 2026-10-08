@@ -4,7 +4,7 @@ description: "排水口クリーナーを容量あたりのコストで比較。
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-08"
 draft: false
 products:
   - rank: 1
@@ -174,7 +174,7 @@ products:
     capacity: "600g×2本（1200g）"
     pricePerUnit: "約3.4円/g"
     rating: 4.58
-    reviewCount: 362
+    reviewCount: 363
     features:
       - "水酸化ナトリウムを含む強力配管洗浄剤"
       - "油脂・毛髪・食べ物などのつまりに対応"
