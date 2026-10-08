@@ -1,12 +1,103 @@
 ---
-title: "ボディソープ コスパ最強ランキング【2026年版】1g0.87円〜保湿・敏感肌比較"
-description: "ボディソープを1gあたりのコストで比較。ダヴ・hadakara・キュレル・ミノン・牛乳石鹸など人気10選を保湿力・洗浄力・コスパで解説します。"
+title: "ボディソープ コスパ最強ランキング【2026年版】保湿・敏感肌7選を単価比較"
+description: "ボディソープを1mLあたりのコストで比較。hadakara・キュレル・ミノン・ダヴ・牛乳石鹸など人気7選を保湿力・洗浄力・コスパで解説します。"
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
 updatedAt: "2026-10-08"
 products:
   - rank: 1
+    name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
+    brand: "ライオン（hadakara）"
+    price: 1333
+    capacity: "800mL"
+    pricePerUnit: "約1.7円/mL"
+    rating: 4.51
+    reviewCount: 195
+    features:
+      - "吸着保湿技術で洗い上がりしっとり"
+      - "肌に保湿成分が残る独自処方"
+      - "サラサラ仕上がりでベタつかない"
+    pros:
+      - "大容量の詰め替えで1gあたりの単価が下がる"
+      - "洗い上がりの保湿感が長続き"
+      - "べたつかないサラサラ仕上がり"
+    cons:
+      - "泡立ちにはスポンジ等が必要"
+      - "さっぱり派にはやや保湿感が強い"
+    recommendedFor: "保湿重視の方・乾燥肌の方・コスパと保湿を両立したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs40n.3rdw6e75.g00qs40n.3rdw7092/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fladies-online-shop%2F10021895%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fladies-online-shop%2Fi%2F10021895%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ladies-online-shop/cabinet/okashi/mo58077154.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakakabeshop%2F4903301291299-12.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-08"
+        price: 7480
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/akakabeshop_4903301291299-12"
+        available: true
+    genreId: "100962"
+  - rank: 2
+    name: "キュレル ボディウォッシュ ポンプ 420mL"
+    brand: "花王（キュレル）"
+    price: 900
+    capacity: "420mL"
+    pricePerUnit: "約2.1円/mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "セラミド機能成分配合で肌のバリア機能を守る処方"
+      - "無香料・無着色・アルコールフリーの低刺激設計"
+      - "赤ちゃんにも使えると謳う敏感肌向け処方"
+    pros:
+      - "乾燥肌・敏感肌の方が選びやすい製薬会社発ブランド"
+      - "アルコールフリーで肌への刺激を抑えたい方に向く"
+      - "ポンプタイプで使い勝手がよく毎日の入浴に取り入れやすい"
+    cons:
+      - "1mLあたりのコストは大容量詰め替えと比べて高め"
+      - "洗浄力は控えめで脂性肌の方には物足りない場合がある"
+    recommendedFor: "乾燥肌・敏感肌の方・家族全員で低刺激のボディソープを使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q8den.3rdw61ea.g00q8den.3rdw7cb4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatsuzakka-plus1%2F4901301289353%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatsuzakka-plus1%2Fi%2F10126445%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/seikatsuzakka-plus1/cabinet/r310-dcitem/0001/4901301289353.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901301289353.html"
+        matchStatus: "matched"
+        updatedAt: "2026-10-08"
+        price: 765
+        rating: 4.7
+        reviewCount: 23
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901301289353"
+        available: true
+    genreId: "100962"
+  - rank: 3
+    name: "ミノン 全身シャンプー 泡タイプ 詰め替え 400mL×3袋"
+    brand: "第一三共ヘルスケア（ミノン）"
+    price: 3300
+    capacity: "400mL×3袋（約300回分）"
+    pricePerUnit: "約2.8円/mL"
+    rating: 4.78
+    reviewCount: 98
+    features:
+      - "製薬会社開発の薬用処方"
+      - "植物性アミノ酸系洗浄成分100%"
+      - "赤ちゃんから大人まで全身に使える"
+    pros:
+      - "アミノ酸系で肌への刺激が最小限"
+      - "皮膚科医も推奨する低刺激処方"
+      - "頭から体まで全身に使える"
+    cons:
+      - "1mLあたりの価格がやや高い"
+      - "洗浄力は控えめで脂性肌には物足りない"
+    recommendedFor: "敏感肌・アトピー肌の方・赤ちゃんがいる家庭・低刺激にこだわる方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F68857%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10910706%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/857/68857.jpg?_ex=128x128"
+    genreId: "100962"
+  - rank: 4
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
     brand: "ユニリーバ（ダヴ）"
     price: 2648
@@ -49,75 +140,7 @@ products:
         matchNotes: "同容量。Amazon側単品構成をページ確認済み前提で採用"
         updatedAt: "2026-07-16T00:00:00.000Z"
     genreId: "100962"
-  - rank: 2
-    name: "アレッポの石鹸 ノーマル 200g×4個"
-    brand: "アレッポの石鹸"
-    price: 3080
-    capacity: "200g×4個（800g）"
-    pricePerUnit: "約3.9円/g"
-    rating: 4.55
-    reviewCount: 1238
-    features:
-      - "オリーブオイルと月桂樹オイルを配合した伝統的な固形石けん"
-      - "無添加・天然素材で顔から全身まで使える"
-      - "シリア・アレッポ発祥の歴史あるオーガニック石けん"
-    pros:
-      - "天然・無添加素材で肌への刺激を抑えたい方に選びやすい"
-      - "顔と全身を1本で洗えるオールインワン"
-      - "4個まとめ買いで1個あたりのコストを抑えやすい"
-    cons:
-      - "固形石けんのため水切りや保管場所に工夫が必要"
-      - "液体ボディソープと比べ泡立てに手間がかかる"
-    recommendedFor: "天然・無添加素材を重視したい方・顔と体を同じ石けんで洗いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf6in.3rdw6cdf.g00qf6in.3rdw72b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmugigokoro%2F10000030%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmugigokoro%2Fi%2F10000020%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mugigokoro/cabinet/newsg/ale/areppo-nomal.jpg?_ex=128x128"
-    offers:
-      - provider: "amazon"
-        label: "Amazon（200g×2個）"
-        asin: "B01C6JQSDK"
-        url: "https://www.amazon.co.jp/dp/B01C6JQSDK?tag=kuraselect-direct-22"
-        matchStatus: "matched"
-        matchConfidence: "medium"
-        matchedCapacity: "200g×2個"
-        matchNotes: "入数違い採用（楽天は200g×4個）"
-        updatedAt: "2026-07-16T00:00:00.000Z"
-    genreId: "100962"
-  - rank: 3
-    name: "ミョウバン柿渋石鹸 ナチュラルクリアソープ 80g"
-    brand: "AIMERE"
-    price: 880
-    capacity: "80g"
-    pricePerUnit: "約11円/g"
-    rating: 4.14
-    reviewCount: 2763
-    features:
-      - "ミョウバンと柿渋を配合した石けん"
-      - "ペパーミントやチャ葉エキスを配合"
-      - "エタノール不使用の枠練りタイプ"
-    pros:
-      - "ニオイ対策を重視したい人に選びやすい"
-      - "880円で試しやすい価格帯"
-      - "足やワキなど部分洗いにも使える"
-    cons:
-      - "保湿重視のボディソープよりさっぱり寄り"
-      - "固形石けんなので保管に水切りが必要"
-    recommendedFor: "汗やニオイが気になる方・さっぱり洗いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Fb0110001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10001851%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/smartphone/cosme/myoubankakisibusoap/imgrc0119024289.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fb0110001.html"
-        matchStatus: "review"
-        updatedAt: "2026-06-11"
-        price: 880
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_b0110001"
-        available: false
-        rating: 4.25
-        reviewCount: 170
-        matchNotes: "capacity不一致: 商品名トークン不一致"
-    genreId: "100962"
-  - rank: 4
+  - rank: 5
     name: "みんなでみらいを 米ぬか酵素 ボディウォッシュ 詰替用 115g"
     brand: "みんなでみらいを"
     price: 1396
@@ -151,132 +174,7 @@ products:
         rating: 4.62
         reviewCount: 39
     genreId: "100962"
-  - rank: 5
-    name: "柿渋石鹸 男のたしなみ 100g"
-    brand: "みつばちロード"
-    price: 1990
-    capacity: "100g"
-    pricePerUnit: "約20円/g"
-    rating: 4.16
-    reviewCount: 1339
-    features:
-      - "カキタンニン（柿渋）を配合した固形石けん"
-      - "汗・ニオイケアを意識した男性向け処方"
-      - "固形タイプでスポンジや手で泡立てて使う"
-    pros:
-      - "柿渋成分でニオイが気になる方に選びやすい"
-      - "100gのお試しサイズで使い心地を確かめやすい"
-      - "足・ワキなど部分洗いにも取り入れやすい"
-    cons:
-      - "100gと容量が少なめで単品では使い切りが早め"
-      - "固形石けんのため水切りや保管に工夫が必要"
-    recommendedFor: "汗・ニオイが気になる方・柿渋石けんを初めて試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q7nnn.3rdw62ac.g00q7nnn.3rdw7be3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmitsubachi-road%2F20022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmitsubachi-road%2Fi%2F10000527%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_gold/mitsubachi-road/product/mitsubachi-road/001/001001_otamesi.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmitsubachi-road%2F20012-4.html"
-        matchStatus: "review"
-        updatedAt: "2026-08-19"
-        price: 10000
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/mitsubachi-road_20012-4"
-        available: true
-        rating: 4.17
-        reviewCount: 6
-    genreId: "100962"
   - rank: 6
-    name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
-    brand: "ライオン（hadakara）"
-    price: 1333
-    capacity: "800mL"
-    pricePerUnit: "約1.7円/mL"
-    rating: 4.51
-    reviewCount: 195
-    features:
-      - "吸着保湿技術で洗い上がりしっとり"
-      - "肌に保湿成分が残る独自処方"
-      - "サラサラ仕上がりでベタつかない"
-    pros:
-      - "大容量の詰め替えで1gあたりの単価が下がる"
-      - "洗い上がりの保湿感が長続き"
-      - "べたつかないサラサラ仕上がり"
-    cons:
-      - "泡立ちにはスポンジ等が必要"
-      - "さっぱり派にはやや保湿感が強い"
-    recommendedFor: "保湿重視の方・乾燥肌の方・コスパと保湿を両立したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs40n.3rdw6e75.g00qs40n.3rdw7092/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fladies-online-shop%2F10021895%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fladies-online-shop%2Fi%2F10021895%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ladies-online-shop/cabinet/okashi/mo58077154.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakakabeshop%2F4903301291299-12.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-08"
-        price: 7480
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/akakabeshop_4903301291299-12"
-        available: true
-    genreId: "100962"
-  - rank: 7
-    name: "キュレル ボディウォッシュ ポンプ 420mL"
-    brand: "花王（キュレル）"
-    price: 900
-    capacity: "420mL"
-    pricePerUnit: "約2.1円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "セラミド機能成分配合で肌のバリア機能を守る処方"
-      - "無香料・無着色・アルコールフリーの低刺激設計"
-      - "赤ちゃんにも使えると謳う敏感肌向け処方"
-    pros:
-      - "乾燥肌・敏感肌の方が選びやすい製薬会社発ブランド"
-      - "アルコールフリーで肌への刺激を抑えたい方に向く"
-      - "ポンプタイプで使い勝手がよく毎日の入浴に取り入れやすい"
-    cons:
-      - "1mLあたりのコストは大容量詰め替えと比べて高め"
-      - "洗浄力は控えめで脂性肌の方には物足りない場合がある"
-    recommendedFor: "乾燥肌・敏感肌の方・家族全員で低刺激のボディソープを使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q8den.3rdw61ea.g00q8den.3rdw7cb4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatsuzakka-plus1%2F4901301289353%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatsuzakka-plus1%2Fi%2F10126445%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/seikatsuzakka-plus1/cabinet/r310-dcitem/0001/4901301289353.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901301289353.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-08"
-        price: 765
-        rating: 4.7
-        reviewCount: 23
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901301289353"
-        available: true
-    genreId: "100962"
-  - rank: 8
-    name: "ミノン 全身シャンプー 泡タイプ 詰め替え 400mL×3袋"
-    brand: "第一三共ヘルスケア（ミノン）"
-    price: 3300
-    capacity: "400mL×3袋（約300回分）"
-    pricePerUnit: "約2.8円/mL"
-    rating: 4.78
-    reviewCount: 98
-    features:
-      - "製薬会社開発の薬用処方"
-      - "植物性アミノ酸系洗浄成分100%"
-      - "赤ちゃんから大人まで全身に使える"
-    pros:
-      - "アミノ酸系で肌への刺激が最小限"
-      - "皮膚科医も推奨する低刺激処方"
-      - "頭から体まで全身に使える"
-    cons:
-      - "1mLあたりの価格がやや高い"
-      - "洗浄力は控えめで脂性肌には物足りない"
-    recommendedFor: "敏感肌・アトピー肌の方・赤ちゃんがいる家庭・低刺激にこだわる方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F68857%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10910706%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/857/68857.jpg?_ex=128x128"
-    genreId: "100962"
-  - rank: 9
     name: "Dove ボディウォッシュ 詰め替え 330g×18袋"
     brand: "ユニリーバ（ダヴ）"
     price: 5280
@@ -299,7 +197,7 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/792/404792.jpg?_ex=128x128"
     priceMax: 5940
     genreId: "100962"
-  - rank: 10
+  - rank: 7
     name: "カウブランド 無添加 泡のボディソープ 詰め替え 450mL"
     brand: "牛乳石鹸"
     price: 1840
@@ -390,7 +288,7 @@ faqs:
 
 ### 固形石けんは液体と同じ物差しで並べられない
 
-固形石けんは1gあたりの単価で見ると液体タイプより高く出ます。ただし固形は水分を含まないぶん、100gの石けん1個が1〜2か月もつことも珍しくありません。一方の液体タイプは1回に数mLずつ減っていきます。**「1gあたりいくら」ではなく「1個・1本で何日もつか」で比べないと、固形石けんの評価を見誤ります**。泡立ちや洗い上がりの好みで固形を選んでいる方は、単価表の順位はいったん脇に置いて構いません。
+固形石けんは1gあたりの単価で見ると液体タイプより高く出ます。ただし固形は水分を含まないぶん、100gの石けん1個が1〜2か月もつことも珍しくありません。一方の液体タイプは1回に数mLずつ減っていきます。**「1gあたりいくら」ではなく「1個・1本で何日もつか」で比べないと、固形石けんの評価を見誤ります**。そのため、ページ上部の比較表は液体・泡のボディソープに絞り、固形石けんは載せていません。泡立ちや洗い上がりの好みで固形を選ぶ方は、1個で何日もつかを目安に比べてください。
 
 ### 詰め替えの大容量は、置き場所から決める
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-09",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。凍結の対象・起点日・解除日（releaseDate）はこのファイルが唯一の正（2026-09-15 改定）。",
     "施策の中身・判定根拠・経緯の正はローカルのメモリ project_measurement_holds。機械判定（scripts/check-internal-links.mjs など）もこのファイルを読む。施策を打ったら両者を必ず同時に更新する。",
@@ -287,6 +287,71 @@
       "simultaneous": false,
       "note": "単独施策（本文節＋FAQ）。ベースライン reports/gsc-harvest/baseline-2026-09-23.json（窓 08-24〜09-20）: ページ クリック80・表示680・CTR 11.8%・順位4.1／「フロッシュ に 代わる 洗剤」7/36（順位3.3）・「フロッシュ 代替品」0/3（4.3）・「フロッシュ 製造中止」0/1（3.0）。クエリ件数が少ないので実数一桁は判定しない（方向の記録にとどめる）。同日に dish-detergent も同じクエリ向けに改稿したため、2記事の合算でも見る。起点はデプロイ日（JST）。push が 09-23 でなければ startedAt / releaseDate を直す。商品追加は prohibitions で禁止のまま",
       "source": "project_measurement_holds"
+    },
+    {
+      "slug": "tissue-paper-comparison",
+      "releaseDate": "2026-11-07",
+      "releaseLabel": "2026-11-06",
+      "targetType": "article",
+      "startedAt": "2026-10-09",
+      "searchNeed": "「ティッシュ おすすめ」「ティッシュペーパー コスパ」で探す人は、まずどのタイプ（通常・保湿・ソフトパック）を買うかを決めたい。ハブが子記事と同じ商品を10件並べていたため、タイプの選び分けと各タイプの代表に絞れば、ハブは入口クエリで表示を保ち、子記事へのクリック（内部遷移）が増えるはず。保湿系クエリは moist 記事に寄るので、ハブの表示はそのぶん減ってよい",
+      "measures": [
+        "表示/日",
+        "表示加重平均順位",
+        "CTR",
+        "子記事3本（regular / moist / soft-pack）の表示・クリック"
+      ],
+      "actions": [
+        "r6・r7（リンク先がウェットティッシュ／トイレットペーパーの別商品）を削除（区分C・§7-Y）",
+        "ハブの商品を各タイプ代表1点の3件に絞る（区分D・ユーザー判断 10-09）: ハロー ソフトパック／スコッティ フラワーボックスを残し、ネピネピ・クリネックス・POP・鼻セレブ3個ギフト・Smart Yell・フルールを削除、保湿の代表に moist 記事 r2「ネピア 鼻セレブ 200組×20箱」を追加",
+        "title「おすすめ10選…1組あたりでコスパ比較」→「おすすめ3選…通常・保湿・ソフトパックの選び方」、description から「花粉症向け高保湿タイプ」を削除",
+        "定型H2「タイプ別の特徴と使い分け」「コスパ比較のポイント」を置換（上部3商品の読み方・タイプ別の選び方・枚と組の表記ゆれ）。本文リンク数は不変"
+      ],
+      "simultaneous": true,
+      "note": "区分C＋区分D＋title/description＋定型H2置換の同時実施（cohort-01 対照群の解除日 10-09 に実施）。施策型の判定には使わず、ハブの絞り込みで入口クエリの表示を失うか・子記事へ寄るかの記録。前窓のベースラインは 10-12 に取る cohort-01 後窓（09-10〜10-07）の baseline を流用する。起点はデプロイ日（JST）で、push が 10-09 でなければ startedAt / releaseDate を直す。後窓は再クロール日起点で前14/後14・後28。R3 非該当（baseline-2026-10-06・窓 09-06〜10-03: クリック10・表示449・CTR 2.23%・順位10.3／子記事 soft-pack 6/185・regular 2/244・moist 1/129）",
+      "source": "project_measurement_holds"
+    },
+    {
+      "slug": "wet-tissue-comparison",
+      "releaseDate": "2026-11-07",
+      "releaseLabel": "2026-11-06",
+      "targetType": "article",
+      "startedAt": "2026-10-09",
+      "source": "project_measurement_holds",
+      "searchNeed": "「ウェットティッシュ おすすめ」「除菌シート コスパ」で探す人は、手や机を拭く大人用のウェットティッシュを1枚単価で選びたい。赤ちゃん用おしりふきが3位にあると用途違いの商品を比べさせることになるので、外せば比較表への信頼が増し CTR・送客は維持か改善、表示・順位は動かないはず",
+      "measures": [
+        "表示/日",
+        "CTR",
+        "表示加重平均順位"
+      ],
+      "actions": [
+        "r3「Hugmuu ふんわり厚手 おしりふき 96枚×12個」を削除（用途混在・区分D・TODO §3.1）。r4 以下が繰り上がり 9→8選",
+        "title/description の「9選」→「8選」",
+        "baby-wipes への移設はしない（baby-wipes を凍結させないため）"
+      ],
+      "simultaneous": false,
+      "note": "cohort-02 施策群の解除日（10-09・後窓 〜10-08 は終了）に実施。R3 非該当（baseline-2026-10-06: クリック101・表示1139・順位7.0）。件数表記の追随は商品削除に従属する変更として単独施策扱い。前窓は 10-12 に取る cohort-02 後窓（09-11〜10-08）の baseline を流用。起点はデプロイ日（JST）"
+    },
+    {
+      "slug": "body-soap-comparison",
+      "releaseDate": "2026-11-07",
+      "releaseLabel": "2026-11-06",
+      "targetType": "article",
+      "startedAt": "2026-10-09",
+      "source": "project_measurement_holds",
+      "searchNeed": "「ボディソープ コスパ」で探す人は、液体・泡のボディソープを詰め替えの単価で比べたい。固形石けん（g単価）が液体（mL単価）より上位に並び、title の「1g0.87円〜」も実態と合っていなかったため、液体・泡だけの比較にすれば CTR が上がり、表示・順位は動かないはず",
+      "measures": [
+        "表示/日",
+        "CTR",
+        "表示加重平均順位"
+      ],
+      "actions": [
+        "固形石けん3件（r2 アレッポの石鹸・r3 ミョウバン柿渋石鹸・r5 柿渋石鹸 男のたしなみ）を削除（区分D）し、reorderProductsByPricePerUnit で順位を振り直し（mL 単価の商品が先）。10→7選",
+        "title「…1g0.87円〜保湿・敏感肌比較」→「…保湿・敏感肌7選を単価比較」（陳腐化した単価の削除・区分C）、description を「1mLあたり」「7選」に",
+        "本文「固形石けんは液体と同じ物差しで並べられない」節の末尾を「比較表は液体・泡に絞り固形は載せていない」に修正"
+      ],
+      "simultaneous": true,
+      "note": "cohort-02 施策群の解除日（10-09）に実施。区分D＋title/description 変更の同時実施なので施策型の判定には使わない。R3 非該当（baseline-2026-10-06: クリック47・表示1323・順位9.3）。r6 Dove 330g×18袋・r7 カウブランド 450mL は pricePerUnit 未設定のまま（capacity-review 10-08: multiple capacity variant。カウブランドは【2-6個】の選択式出品で価格が容量と対応しない疑い）＝区分A/B の範囲で別途。前窓は 10-12 に取る cohort-02 後窓（09-11〜10-08）の baseline を流用。起点はデプロイ日（JST）"
     }
   ],
   "prohibitions": [

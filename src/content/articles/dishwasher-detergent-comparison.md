@@ -41,7 +41,7 @@ products:
         available: true
     genreId: "216012"
   - rank: 2
-    name: "緑の魔女 オートキッチン 800g"
+    name: "緑の魔女 オートキッチン 食洗機用洗剤 800g"
     brand: "ミマスクリーンケア"
     price: 713
     capacity: "800g"
