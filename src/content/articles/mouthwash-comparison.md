@@ -243,7 +243,7 @@ products:
     rating: 4.68
     reviewCount: 174
     features:
-      - "天然植物由来成分100%使用の低刺激処方"
+      - "植物由来成分を中心にした低刺激処方"
       - "パラベンフリー・アルコールフリーで敏感な方にも対応"
       - "子どもから大人まで使えるマイルドな口腔ケア"
     pros:
@@ -251,7 +251,7 @@ products:
       - "アルコールフリーで口の乾燥を気にせず使える"
       - "子どものいる家庭で家族全員が使いやすい"
     cons:
-      - "天然成分のみのため殺菌力は医薬部外品より穏やか"
+      - "医薬部外品の殺菌成分を配合したタイプとは方向性が異なる"
       - "330mLとやや小容量でコスパは控えめ"
     recommendedFor: "天然成分・低刺激処方にこだわる方・家族みんなで使えるマウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r46in.3rdw6894.g00r46in.3rdw71bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firie%2Fitem_dr-wash2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firie%2Fi%2F10005630%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
@@ -277,17 +277,17 @@ products:
     rating: 4.76
     reviewCount: 623
     features:
-      - "歯科医院で推奨される薬用マウスウォッシュ"
-      - "グルコン酸クロルヘキシジン配合で高い殺菌力"
+      - "歯科医院でも販売されている薬用マウスウォッシュ"
+      - "殺菌成分グルコン酸クロルヘキシジン配合"
       - "濃縮タイプで水に薄めて使う（1回5〜10滴）"
     pros:
-      - "歯科医院推奨の高い信頼性"
+      - "歯科医院でも扱われる定番品"
       - "濃縮タイプで1本で約700回使える"
       - "マイルドな使い心地で刺激が少ない"
     cons:
       - "初期投資がやや高い"
       - "薄める手間がある"
-    recommendedFor: "歯科医推奨品を求める方・歯周病予防を重視する方・長く使いたい方"
+    recommendedFor: "歯科医院でも扱われる定番品を選びたい方・歯周病予防を重視する方・長く使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fdf2819%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10012094%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1006_p5/kirikae2/df2819_1450ppm.jpg?_ex=128x128"
     offers:
@@ -349,7 +349,7 @@ faqs:
   - question: "子どもにも使える？"
     answer: "ノンアルコールタイプで、対象年齢が記載されている商品を選びましょう。一般的には**6歳以上**から使用可能な商品が多いです。ぶくぶくうがいができることが前提です。"
   - question: "使うタイミングはいつがベスト？"
-    answer: "**歯磨きの後**に使うのが最も効果的です。就寝前に使うと、就寝中の菌の繁殖を抑えられるため特におすすめです。"
+    answer: "多くの商品は**歯磨きの後**の使用を想定しています。用法はパッケージで確認し、就寝前など毎日同じタイミングにすると続けやすくなります。"
 ---
 
 ## マウスウォッシュの選び方ガイド
