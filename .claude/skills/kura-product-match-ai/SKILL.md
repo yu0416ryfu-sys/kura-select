@@ -98,6 +98,8 @@ node --experimental-strip-types scripts/find-replacement.mjs --slug=<slug> --ran
 
 AI判定結果に使えるURLは、最終的に JSONL の `candidates` に存在する候補だけ。検索語を推測しても、候補にない URL を作らない。
 
+**記事内の他商品と同じ楽天商品を選ばない。** 入力 JSONL には同じ記事の他商品の URL が入っていないので、`replace` を書く前に対象記事の frontmatter `products[]` を読み、選んだ candidate の `directItemUrl`（ショップコード＋商品コード）が**自分以外の rank の `rakutenUrl`** と一致しないか確認する。一致したら、その candidate は使わず次点を探す。次点が無ければ `review`（重複先の既存商品と同じ商品なら `decision: "delete"`、判断が要るなら `manual`）にする。「取扱ショップのみ変更」の replace は、変更先のショップが記事内の別 rank で既に使われていないかを特に確認する。適用時も `update-products` が重複を検知して failed に回すが、AI 側で出さないのが前提（2026-09-05 baby-wipes・2026-10-01 bath-mat はこの確認漏れで同一 URL が2件になった）。
+
 優先する一致条件:
 
 - ブランド一致
@@ -248,6 +250,7 @@ $OutputEncoding = [System.Text.UTF8Encoding]::new($false)
 - 入力の `current.rakutenUrl` がアフィリエイトURLではない行が `review/manual` になっていない
 - `replace` 行は、現在の記事 frontmatter にある同じ `rank` の `name` と `current.name` が一致する
 - `replace` 行の `selectedItemUrl` / `selectedAffiliateUrl` / `selectedImageUrl` は、同じ入力行の `candidates` に存在する
+- `replace` 行の `selectedItemUrl` が、同じ記事の自分以外の rank の `rakutenUrl` と同じ楽天商品になっていない
 
 例:
 

@@ -75,6 +75,23 @@ export function findDuplicateUrlProduct<T extends ProductUrlLike>(
 }
 
 /**
+ * AI match（reports/ai-matches）の replace が、差し替え先URLとして同一記事内の
+ * 他商品と同じ楽天商品を指していないかを判定する。重複していればエラーメッセージを返す。
+ * API 更新経路の重複ガードと揃えるための関数で、置き換える本人（rank 一致）は除外する。
+ * 2026-09-05 baby-wipes / 2026-10-01 bath-mat はこの経路で同一URLが2件になった。
+ */
+export function checkAiMatchReplaceDuplicate<T extends ProductUrlLike>(
+  products: readonly T[],
+  rank: number,
+  selectedUrl: unknown
+): string | null {
+  const duplicated = findDuplicateUrlProduct(products, selectedUrl, { rank });
+  if (!duplicated) return null;
+  const key = toRakutenUrlKey(selectedUrl);
+  return `selectedAffiliateUrl duplicates rank ${duplicated.rank} "${duplicated.name ?? ''}" (${key}): skipped replace`;
+}
+
+/**
  * 記事内で同一楽天商品を指している products[] のグループを返す（2件以上のみ）。
  * 手作業での商品追加で混入した重複を検知する用途。
  */

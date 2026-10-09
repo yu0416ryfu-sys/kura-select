@@ -22,7 +22,7 @@ import { spawnSync } from 'child_process';
 import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, hasVariantPriceRange, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, isProductManagedArticle, isRankedArticle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 import { applyAiCapacityToContent, buildProcessedAiCapacityFrozenProduct, buildCapacityReviewInputItem, computePendingFinalization, isSameRakutenItemUrl, parseJsonlPreservingRaw } from './lib/ai-capacity.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
-import { parseRakutenItemUrl, toDirectItemUrl, toRakutenUrlKey, collectOtherProductUrlKeys, findDuplicateUrlProduct, findDuplicateUrlGroups, selectNonDuplicateItem, buildItemCodeKeywords } from './lib/rakuten-url.ts';
+import { parseRakutenItemUrl, toDirectItemUrl, toRakutenUrlKey, collectOtherProductUrlKeys, findDuplicateUrlProduct, findDuplicateUrlGroups, checkAiMatchReplaceDuplicate, selectNonDuplicateItem, buildItemCodeKeywords } from './lib/rakuten-url.ts';
 import { stripCapacityForKeyword, buildProductMatchSearchKeywords, createCandidateSelector } from './lib/product-match-keywords.ts';
 import { CATEGORY_SEARCH_RULES, getAdditionSearchRule, resolveArticleSearchRule, checkAdditionCandidateCategory, getAdditionCandidateDiagnostics, scoreAdditionCandidate, isAllowedCapacityUnit } from './lib/search-rules.ts';
 import { isLikelySameProductName } from './lib/product-name-match.ts';
@@ -505,7 +505,8 @@ function applyAiMatchToContent(content, match) {
     return { ok: false, message: 'replace requires selectedAffiliateUrl' };
   }
 
-  const rankProduct = getProductByRank(extractAllProductsData(content), match.rank);
+  const replaceProducts = extractAllProductsData(content);
+  const rankProduct = getProductByRank(replaceProducts, match.rank);
   const currentName = getAiMatchCurrentName(match);
   if (!rankProduct || !currentName) {
     return { ok: false, message: 'rank and current.name are required for replace' };
@@ -515,6 +516,11 @@ function applyAiMatchToContent(content, match) {
       ok: false,
       message: `rank/current.name mismatch: rank ${match.rank} is "${rankProduct.name}", JSONL current is "${currentName}"`,
     };
+  }
+  // 差し替え先が同一記事内の他商品と同じ楽天商品なら書き込まず failed へ回す（rakutenUrl重複の防止）
+  const duplicateMessage = checkAiMatchReplaceDuplicate(replaceProducts, rankProduct.rank, match.selectedAffiliateUrl);
+  if (duplicateMessage) {
+    return { ok: false, message: duplicateMessage };
   }
 
   const before = extractProductSnapshot(content, rankProduct.name);

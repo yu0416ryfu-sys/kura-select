@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import {
   buildItemCodeKeywords,
+  checkAiMatchReplaceDuplicate,
   collectOtherProductUrlKeys,
   findDuplicateUrlGroups,
   findDuplicateUrlProduct,
@@ -80,6 +81,31 @@ describe("collectOtherProductUrlKeys / findDuplicateUrlProduct", () => {
     expect(
       findDuplicateUrlProduct(products, "https://item.rakuten.co.jp/other/xyz/", { rank: 3 })
     ).toBeNull();
+  });
+});
+
+describe("checkAiMatchReplaceDuplicate", () => {
+  // 2026-10-01 bath-mat の再現: r5 が既に importshopaqua/ac-bm を指している状態で、
+  // AI match が r6 を同じ商品へ replace しようとした
+  const SOIL_AFFILIATE =
+    "https://hb.afl.rakuten.co.jp/hgc/g00pz5qn.3rdw6327.g00pz5qn.3rdw7b11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimportshopaqua%2Fac-bm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimportshopaqua%2Fi%2F10000001%2F";
+  const products = [
+    { rank: 5, name: "soil バスマット ライト", rakutenUrl: SOIL_AFFILIATE },
+    { rank: 6, name: "soil バスマット ライト 珪藻土", rakutenUrl: "https://item.rakuten.co.jp/e-goods/bath_soil-bathmat-lt/" },
+  ];
+
+  it("差し替え先が他商品と同じ楽天商品ならエラーを返す", () => {
+    const message = checkAiMatchReplaceDuplicate(products, 6, "https://item.rakuten.co.jp/importshopaqua/ac-bm/");
+    expect(message).toContain("rank 5");
+    expect(message).toContain("importshopaqua/ac-bm");
+  });
+
+  it("差し替え先が自分自身の現URLと同じなら重複扱いしない", () => {
+    expect(checkAiMatchReplaceDuplicate(products, 5, SOIL_AFFILIATE)).toBeNull();
+  });
+
+  it("他商品と重複しない差し替え先なら null を返す", () => {
+    expect(checkAiMatchReplaceDuplicate(products, 6, "https://item.rakuten.co.jp/other/xyz/")).toBeNull();
   });
 });
 
