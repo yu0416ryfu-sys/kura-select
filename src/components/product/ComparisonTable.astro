@@ -26,15 +26,18 @@ interface Product {
   rakutenUrl: string;
   imageUrl?: string;
   offers?: ProductOffer[];
+  typeLabel?: string;
 }
 
 interface Props {
   products: Product[];
   caption?: string;
   targetUnit?: string;
+  /** false: 順位を付けないハブ記事（ranking: false） */
+  ranked?: boolean;
 }
 
-const { products, caption = "商品比較表", targetUnit } = Astro.props;
+const { products, caption = "商品比較表", targetUnit, ranked = true } = Astro.props;
 
 const yahooSearchFallback = {
   enabled: import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true",
@@ -77,15 +80,29 @@ const productsForTable = products.map((product) => {
     caption={caption}
     enabledProviders={linkProviders}
     targetUnit={targetUnit}
+    ranked={ranked}
     client:visible
   />
   <p class="text-xs text-[var(--color-text-sub)] mt-2">
     ※ 評価は各ショップ（楽天市場・Yahoo!ショッピング等）のレビュー平均・件数です。集計時点の値で、最新はリンク先でご確認ください。
   </p>
-  <p class="text-xs text-[var(--color-text-sub)] mt-1">
-    ※ コスパ（単価）は「最安価格 ÷ 内容量」で当サイトが自動計算しています。価格・単価・順位は週次で自動更新されるため、手動更新の比較サイトより新しい状態を保ちやすいのが特徴です。
-  </p>
-  <p class="text-xs text-[var(--color-text-sub)] mt-1">
-    ※ <strong>単価・順位の計算に送料は含めていません。</strong>送料はお届け先の地域やショップごとの送料無料ラインによって変わるため、本体価格が安くても送料を足すと順位が入れ替わることがあります。まとめ買いや他商品との同時購入で送料無料になる場合も多いので、実際に支払う総額は各ショップの購入画面でご確認ください。
-  </p>
+  {ranked ? (
+    <>
+      <p class="text-xs text-[var(--color-text-sub)] mt-1">
+        ※ コスパ（単価）は「最安価格 ÷ 内容量」で当サイトが自動計算しています。価格・単価・順位は週次で自動更新されるため、手動更新の比較サイトより新しい状態を保ちやすいのが特徴です。
+      </p>
+      <p class="text-xs text-[var(--color-text-sub)] mt-1">
+        ※ <strong>単価・順位の計算に送料は含めていません。</strong>送料はお届け先の地域やショップごとの送料無料ラインによって変わるため、本体価格が安くても送料を足すと順位が入れ替わることがあります。まとめ買いや他商品との同時購入で送料無料になる場合も多いので、実際に支払う総額は各ショップの購入画面でご確認ください。
+      </p>
+    </>
+  ) : (
+    <>
+      <p class="text-xs text-[var(--color-text-sub)] mt-1">
+        ※ この表は順位ではなく、タイプごとの代表商品を並べたものです。コスパ（単価）は「最安価格 ÷ 内容量」で当サイトが自動計算し、価格・単価は週次で自動更新しています。
+      </p>
+      <p class="text-xs text-[var(--color-text-sub)] mt-1">
+        ※ <strong>単価の計算に送料は含めていません。</strong>送料はお届け先の地域やショップごとの送料無料ラインによって変わるため、実際に支払う総額は各ショップの購入画面でご確認ください。
+      </p>
+    </>
+  )}
 </div>

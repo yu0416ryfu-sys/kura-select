@@ -46,6 +46,8 @@ interface ProductForComparisonTable {
   imageUrl?: string;
   priceSummary?: OfferPriceSummary;
   visibleOffers?: VisibleOfferForTable[];
+  /** ranked: false のとき順位バッジの代わりに表示するタイプ名 */
+  typeLabel?: string;
 }
 
 type SortKey = "rank" | "price" | "pricePerUnit" | "rating";
@@ -55,6 +57,8 @@ interface Props {
   caption: string;
   enabledProviders: OfferProvider[];
   targetUnit?: string;
+  /** false: 順位を付けないハブ記事。順位バッジ → タイプ名、「おすすめ順」→「掲載順」 */
+  ranked?: boolean;
 }
 
 // 表示価格の由来サイト。価格帯商品の抑止は楽天由来のときだけ効かせる
@@ -62,7 +66,7 @@ function lowestProviderOf(p: ProductForComparisonTable): OfferProvider {
   return p.priceSummary?.lowestProvider ?? "rakuten";
 }
 
-export default function ComparisonTableSort({ products, caption, targetUnit }: Props) {
+export default function ComparisonTableSort({ products, caption, targetUnit, ranked = true }: Props) {
   const [sortKey, setSortKey] = useState<SortKey>("rank");
   const [sortDir, setSortDir] = useState<"asc" | "desc">("asc");
 
@@ -139,7 +143,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
       <div class="flex flex-wrap gap-2 mb-3" role="group" aria-label="並び替え">
         {(
           [
-            { key: "rank" as SortKey, label: "おすすめ順" },
+            { key: "rank" as SortKey, label: ranked ? "おすすめ順" : "掲載順" },
             { key: "price" as SortKey, label: "安い順" },
             { key: "pricePerUnit" as SortKey, label: "コスパ順" },
             { key: "rating" as SortKey, label: "評価順" },
@@ -165,7 +169,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
           <caption class="sr-only">{caption}</caption>
           <thead class="bg-[var(--color-surface)] sticky top-0">
             <tr>
-              <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] whitespace-nowrap w-12">順位</th>
+              <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] whitespace-nowrap w-12">{ranked ? "順位" : "タイプ"}</th>
               <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] min-w-[220px]">商品名</th>
               <th
                 class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[314px] whitespace-nowrap"
@@ -201,14 +205,22 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
               return (
                 <tr key={p.name} class={`${i % 2 === 0 ? "bg-white" : "bg-[var(--color-surface)]"} border-t border-[var(--color-border)]/70 hover:bg-[var(--color-primary)]/5 transition-colors`}>
                   <td class="px-3 py-3 text-center">
-                    <span class={`inline-flex items-center justify-center w-7 h-7 rounded-full text-xs font-bold ${
-                      p.rank === 1 ? "bg-amber-400 text-white" :
-                      p.rank === 2 ? "bg-slate-400 text-white" :
-                      p.rank === 3 ? "bg-amber-600 text-white" :
-                      "bg-[var(--color-surface)] text-[var(--color-text-sub)]"
-                    }`}>
-                      {p.rank}
-                    </span>
+                    {ranked ? (
+                      <span class={`inline-flex items-center justify-center w-7 h-7 rounded-full text-xs font-bold ${
+                        p.rank === 1 ? "bg-amber-400 text-white" :
+                        p.rank === 2 ? "bg-slate-400 text-white" :
+                        p.rank === 3 ? "bg-amber-600 text-white" :
+                        "bg-[var(--color-surface)] text-[var(--color-text-sub)]"
+                      }`}>
+                        {p.rank}
+                      </span>
+                    ) : (
+                      p.typeLabel && (
+                        <span class="inline-block px-2 py-0.5 rounded-full text-xs font-semibold whitespace-nowrap bg-[var(--color-surface)] text-[var(--color-text)] border border-[var(--color-border)]">
+                          {p.typeLabel}
+                        </span>
+                      )
+                    )}
                   </td>
                   <td class="px-3 py-3">
                     <div class="flex items-center gap-2">
@@ -344,14 +356,16 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
           return (
             <div key={p.name} class="bg-white rounded-xl border border-[var(--color-border)] p-4 shadow-sm">
               <div class="flex items-start gap-3 mb-3">
-                <span class={`shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold ${
-                  p.rank === 1 ? "bg-amber-400 text-white" :
-                  p.rank === 2 ? "bg-slate-400 text-white" :
-                  p.rank === 3 ? "bg-amber-600 text-white" :
-                  "bg-[var(--color-surface)] text-[var(--color-text-sub)]"
-                }`}>
-                  {p.rank}
-                </span>
+                {ranked && (
+                  <span class={`shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold ${
+                    p.rank === 1 ? "bg-amber-400 text-white" :
+                    p.rank === 2 ? "bg-slate-400 text-white" :
+                    p.rank === 3 ? "bg-amber-600 text-white" :
+                    "bg-[var(--color-surface)] text-[var(--color-text-sub)]"
+                  }`}>
+                    {p.rank}
+                  </span>
+                )}
                 <img
                   src={productImageSrc(p.imageUrl, 128)}
                   alt=""
@@ -361,6 +375,11 @@ export default function ComparisonTableSort({ products, caption, targetUnit }: P
                   loading="lazy"
                 />
                 <div class="flex-1 min-w-0">
+                  {!ranked && p.typeLabel && (
+                    <span class="inline-block mb-1 px-2 py-0.5 rounded-full text-xs font-semibold bg-[var(--color-surface)] text-[var(--color-text)] border border-[var(--color-border)]">
+                      {p.typeLabel}
+                    </span>
+                  )}
                   <p class="text-xs text-[var(--color-text-sub)]">{p.brand}</p>
                   <p class="font-bold text-sm text-[var(--color-text)] leading-tight">{p.name}</p>
                 </div>

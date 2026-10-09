@@ -19,7 +19,7 @@
 import { readFileSync, writeFileSync, appendFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
 import { spawnSync } from 'child_process';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, hasVariantPriceRange, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, isProductManagedArticle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, hasVariantPriceRange, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, isProductManagedArticle, isRankedArticle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 import { applyAiCapacityToContent, buildProcessedAiCapacityFrozenProduct, buildCapacityReviewInputItem, computePendingFinalization, isSameRakutenItemUrl, parseJsonlPreservingRaw } from './lib/ai-capacity.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
 import { parseRakutenItemUrl, toDirectItemUrl, toRakutenUrlKey, collectOtherProductUrlKeys, findDuplicateUrlProduct, findDuplicateUrlGroups, selectNonDuplicateItem, buildItemCodeKeywords } from './lib/rakuten-url.ts';
@@ -2733,12 +2733,17 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
   }
 
   // 機能1: コスパ順並び替え（全商品処理後）
-  const reorderResult = reorderProductsByPricePerUnit(updatedContent);
-  if (reorderResult.changed) {
-    updatedContent = reorderResult.content;
-    reorderResult.log.forEach(l => log(`   🔀 ${l}`));
-  } else if (reorderResult.log.length > 0) {
-    reorderResult.log.forEach(l => log(`   ⚠ ${l}`));
+  // ranking: false のハブ記事はタイプ別の掲載順を保つため並び替えない
+  if (!isRankedArticle(updatedContent)) {
+    log('   ⏭ ranking:false のため並び替えをスキップ');
+  } else {
+    const reorderResult = reorderProductsByPricePerUnit(updatedContent);
+    if (reorderResult.changed) {
+      updatedContent = reorderResult.content;
+      reorderResult.log.forEach(l => log(`   🔀 ${l}`));
+    } else if (reorderResult.log.length > 0) {
+      reorderResult.log.forEach(l => log(`   ⚠ ${l}`));
+    }
   }
 
   // 機能5: 並び替え後、rank 11位以下の商品を削除

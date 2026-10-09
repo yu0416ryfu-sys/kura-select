@@ -1785,6 +1785,17 @@ export function isProductManagedArticle(content: string): boolean {
 }
 
 /**
+ * 記事が順位付きの比較記事かどうかを返す。
+ * `ranking: false` のハブ記事（タイプ別の代表を並べるだけ）は false。
+ * 未指定・フロントマターなしは従来どおり true。
+ */
+export function isRankedArticle(content: string): boolean {
+  const parsed = parseFrontmatter(content);
+  if (!parsed) return true;
+  return parsed.data.ranking !== false;
+}
+
+/**
  * 記事タイトルから楽天API検索用キーワードを生成する。
  * 「ジェルボール洗剤 コスパ最強ランキング【2026年版】...」→「ジェルボール洗剤」
  */

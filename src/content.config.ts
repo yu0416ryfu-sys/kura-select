@@ -45,6 +45,11 @@ const productSchema = z.object({
    */
   genreId: z.string().optional(),
   offers: z.array(offerSchema).optional(),
+  /**
+   * ranking: false の記事で順位バッジの代わりに表示するタイプ名（例: 通常タイプ）。
+   * 順位ありの記事では使わない。
+   */
+  typeLabel: z.string().optional(),
 });
 
 // サービス記事（ウォーターサーバー等の ASP 案件）用スキーマ。
@@ -102,6 +107,9 @@ const articles = defineCollection({
         articleType: z.literal("comparison"),
         ...commonFields({ image }),
         products: z.array(productSchema).min(1),
+        // false: 順位を付けないハブ記事（タイプ別の代表を並べるだけ）。
+        // 1位 CTA・順位バッジを出さず、cron の単価順並べ替えもしない。未指定は順位あり
+        ranking: z.boolean().optional(),
       }),
       // レビュー記事: products は任意（単品レビューでも商品情報あり）
       z.object({

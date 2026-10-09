@@ -34,6 +34,7 @@ import {
   replaceCapacityInProductName,
   extractArticleType,
   isProductManagedArticle,
+  isRankedArticle,
   normalizeGenreId,
   extractAllProductsData,
 } from "../scripts/lib/frontmatter";
@@ -2439,6 +2440,28 @@ articleType: unknown-type
 ---
 `;
     expect(extractArticleType(content)).toBe("comparison");
+  });
+});
+
+// ─── isRankedArticle ─────────────────────────────────────────────────────────
+describe("isRankedArticle", () => {
+  const article = (ranking?: string) => `---
+title: "記事"
+articleType: comparison
+${ranking ? `ranking: ${ranking}` : ""}
+---
+`;
+
+  it("ranking 未指定は順位あり（後方互換）", () => {
+    expect(isRankedArticle(article())).toBe(true);
+  });
+
+  it("ranking: false は順位なしのハブ記事", () => {
+    expect(isRankedArticle(article("false"))).toBe(false);
+  });
+
+  it("ranking: true は順位あり", () => {
+    expect(isRankedArticle(article("true"))).toBe(true);
   });
 });
 

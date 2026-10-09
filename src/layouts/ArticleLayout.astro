@@ -54,6 +54,9 @@ const { data } = article;
 const isService = data.articleType === "service";
 // サービス記事は products[] を持たないため比較記事扱いにしない
 const isComparison = data.articleType !== "review" && !isService;
+// ranking: false の比較記事は順位を付けないハブ記事。1位 CTA と順位バッジを出さない
+// （ranking は判別共用体の comparison 側にしか無いので in で絞る）
+const isRanked = !(isComparison && "ranking" in data && data.ranking === false);
 // products はサービス記事に存在せず、レビュー記事でも任意。参照側は常にこの配列を使う
 const products = "products" in data && Array.isArray(data.products) ? data.products : [];
 const services = "services" in data && Array.isArray(data.services) ? data.services : [];
@@ -361,7 +364,7 @@ const productJsonLds = products
         <SaleBanner />
 
         <!-- ファーストビューCTA: comparison のみ（1位商品） -->
-        {isComparison && products.length > 0 && (
+        {isComparison && isRanked && products.length > 0 && (
           <TopPickCta product={products.find((p) => p.rank === 1) ?? products[0]} targetUnit={targetUnit} />
         )}
 
@@ -371,7 +374,7 @@ const productJsonLds = products
         <!-- 比較表（comparison のみ） -->
         {isComparison && products.length > 0 && (
           <section id="comparison-table" aria-label="商品比較表" class="scroll-mt-24">
-            <ComparisonTable products={products} caption={`${data.title} 比較表`} targetUnit={targetUnit} />
+            <ComparisonTable products={products} caption={`${data.title} 比較表`} targetUnit={targetUnit} ranked={isRanked} />
           </section>
         )}
 
@@ -417,7 +420,7 @@ const productJsonLds = products
         )}
 
         <!-- 記事本文後インライン CTA（comparison: 1位商品 / review: 紹介商品） -->
-        {products.length > 0 && (() => {
+        {products.length > 0 && isRanked && (() => {
           const top = products.find((p) => p.rank === 1) ?? products[0];
           const yahooSearchFallback = {
             enabled: import.meta.env.PUBLIC_ENABLE_YAHOO_AFFILIATE === "true",
@@ -480,7 +483,7 @@ const productJsonLds = products
             <h2 class="text-xl font-bold mb-6">{isComparison ? "各商品の詳細" : "商品情報"}</h2>
             <div class="space-y-6">
               {products.map((product) => (
-                <ProductCard product={product} id={`product-${product.rank}`} targetUnit={targetUnit} />
+                <ProductCard product={product} id={`product-${product.rank}`} targetUnit={targetUnit} ranked={isRanked} />
               ))}
             </div>
           </section>
@@ -526,7 +529,7 @@ const productJsonLds = products
   </Container>
 
   <!-- モバイル追従CTA（comparison のみ・比較表通過後に表示） -->
-  {isComparison && products.length > 0 && (
+  {isComparison && isRanked && products.length > 0 && (
     <StickyCta product={products.find((p) => p.rank === 1) ?? products[0]} targetUnit={targetUnit} />
   )}
 </BaseLayout>
