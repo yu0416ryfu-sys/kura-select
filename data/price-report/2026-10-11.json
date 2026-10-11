@@ -1,0 +1,3306 @@
+{
+  "asOf": "2026-10-11",
+  "baseMonth": "2026-05",
+  "params": {
+    "minPairs": 30,
+    "minGroupPairs": 20,
+    "minCaptureDays": 3,
+    "suspectLow": 0.6,
+    "suspectHigh": 1.6,
+    "setMultipleTolerance": 0.08,
+    "returnBand": [
+      0.85,
+      1.15
+    ],
+    "levelShiftMaxDays": 84,
+    "discountWindowDays": 28,
+    "discountThreshold": 0.9
+  },
+  "input": {
+    "rows": 113402,
+    "droppedAfterAsOf": 0,
+    "unmappedArticles": {
+      "count": 0,
+      "articleIds": []
+    },
+    "priceRangeItems": 173,
+    "manualExclusions": 0
+  },
+  "groups": [
+    {
+      "id": "paper-kitchen",
+      "label": "紙製品・キッチン消耗品",
+      "categories": [
+        "coffee-filter",
+        "cooking-sheet",
+        "deodorizing-bag",
+        "disposable-gloves",
+        "disposable-tableware",
+        "drain-net",
+        "garbage-bag",
+        "kitchen-paper",
+        "kitchen-sponge",
+        "melamine-sponge",
+        "tissue-paper",
+        "toilet-paper",
+        "wrap-foil"
+      ]
+    },
+    {
+      "id": "laundry-cleaning",
+      "label": "洗濯・掃除",
+      "categories": [
+        "air-conditioner-filter",
+        "bath-drain-hair-catcher",
+        "bath-mold-preventer",
+        "bathroom-cleaner",
+        "dish-detergent",
+        "dishwasher-detergent",
+        "drain-cleaner",
+        "fabric-softener",
+        "floor-cleaner",
+        "flushable-toilet-brush",
+        "kitchen-bleach",
+        "laundry-detergent",
+        "laundry-net",
+        "lint-roller",
+        "natural-cleaning",
+        "range-hood-filter",
+        "sanitizing-spray",
+        "toilet-cleaner",
+        "washing-machine-cleaner"
+      ]
+    },
+    {
+      "id": "hygiene-care",
+      "label": "衛生・ケア用品",
+      "categories": [
+        "acne-patch",
+        "bandage",
+        "body-sheet",
+        "body-soap",
+        "contact-lens",
+        "cotton",
+        "cotton-swab",
+        "denture-cleaner",
+        "deodorant",
+        "hand-soap",
+        "insect-repellent",
+        "mask",
+        "mouthwash",
+        "panty-liner",
+        "razor",
+        "sanitary-napkin",
+        "toothpaste"
+      ]
+    },
+    {
+      "id": "baby-nursing",
+      "label": "ベビー・介護",
+      "categories": [
+        "adult-diaper",
+        "adult-wipes",
+        "baby-wipes",
+        "diaper",
+        "portable-toilet"
+      ]
+    },
+    {
+      "id": "beauty-hair",
+      "label": "美容・ヘアケア",
+      "categories": [
+        "bath-additive",
+        "body-lotion",
+        "cleansing",
+        "conditioner",
+        "face-wash",
+        "hair-color",
+        "hair-oil",
+        "hair-treatment",
+        "hand-cream",
+        "shampoo",
+        "sunscreen"
+      ]
+    },
+    {
+      "id": "pet-food",
+      "label": "ペット・食品",
+      "categories": [
+        "cat-food",
+        "cat-litter",
+        "dog-food",
+        "mineral-water",
+        "pet-sheet",
+        "rice",
+        "tea-bag"
+      ]
+    },
+    {
+      "id": "household",
+      "label": "生活雑貨",
+      "categories": [
+        "ballpoint-pen",
+        "bath-mat",
+        "battery",
+        "cooking-pot",
+        "cooling-pack",
+        "gift",
+        "kairo",
+        "moisture-absorber",
+        "mosquito-repellent-liquid",
+        "moth-repellent",
+        "room-deodorizer",
+        "sale-guide"
+      ]
+    }
+  ],
+  "providers": [
+    {
+      "provider": "rakuten",
+      "input": {
+        "series": 1642,
+        "observations": 72196
+      },
+      "cleaning": {
+        "priceRange": {
+          "excludedSeries": 180,
+          "excludedObservations": 11613
+        },
+        "suspect": {
+          "setMultiple": 9,
+          "unknown": 1
+        },
+        "levelShift": {
+          "intervals": 14,
+          "observations": 110,
+          "unresolvedNoReturn": 11,
+          "unresolvedNoBaseline": 5
+        },
+        "manual": {
+          "observations": 0
+        }
+      },
+      "coverage": {
+        "firstDate": "2026-04-29",
+        "lastDate": "2026-10-11",
+        "captureDays": 81,
+        "maxGapDays": 17,
+        "longGaps": [
+          {
+            "from": "2026-05-06",
+            "to": "2026-05-23",
+            "days": 17
+          },
+          {
+            "from": "2026-08-26",
+            "to": "2026-09-03",
+            "days": 8
+          }
+        ],
+        "months": [
+          {
+            "month": "2026-04",
+            "series": 133,
+            "captureDays": 2,
+            "retainedFromPrev": 0,
+            "retentionRate": null
+          },
+          {
+            "month": "2026-05",
+            "series": 800,
+            "captureDays": 10,
+            "retainedFromPrev": 78,
+            "retentionRate": 0.5865
+          },
+          {
+            "month": "2026-06",
+            "series": 908,
+            "captureDays": 18,
+            "retainedFromPrev": 681,
+            "retentionRate": 0.8513
+          },
+          {
+            "month": "2026-07",
+            "series": 895,
+            "captureDays": 21,
+            "retainedFromPrev": 781,
+            "retentionRate": 0.8601
+          },
+          {
+            "month": "2026-08",
+            "series": 921,
+            "captureDays": 14,
+            "retainedFromPrev": 821,
+            "retentionRate": 0.9173
+          },
+          {
+            "month": "2026-09",
+            "series": 966,
+            "captureDays": 11,
+            "retainedFromPrev": 817,
+            "retentionRate": 0.8871
+          },
+          {
+            "month": "2026-10",
+            "series": 892,
+            "captureDays": 5,
+            "retainedFromPrev": 865,
+            "retentionRate": 0.8954
+          }
+        ]
+      },
+      "index": {
+        "months": [
+          {
+            "month": "2026-05",
+            "index": 100,
+            "pairs": 800,
+            "captureDays": 10
+          },
+          {
+            "month": "2026-06",
+            "index": 100.41,
+            "pairs": 681,
+            "captureDays": 18
+          },
+          {
+            "month": "2026-07",
+            "index": 101.11,
+            "pairs": 781,
+            "captureDays": 21
+          },
+          {
+            "month": "2026-08",
+            "index": 101.56,
+            "pairs": 821,
+            "captureDays": 14
+          },
+          {
+            "month": "2026-09",
+            "index": 102.27,
+            "pairs": 817,
+            "captureDays": 11
+          }
+        ],
+        "partial": {
+          "month": "2026-10",
+          "through": "2026-10-11",
+          "index": 102.68,
+          "pairs": 865,
+          "captureDays": 5
+        }
+      },
+      "groups": [
+        {
+          "id": "paper-kitchen",
+          "label": "紙製品・キッチン消耗品",
+          "series": 264,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 126,
+              "captureDays": 10
+            },
+            {
+              "month": "2026-06",
+              "index": 100.75,
+              "pairs": 107,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 100.37,
+              "pairs": 141,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 101.15,
+              "pairs": 157,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 102.32,
+              "pairs": 152,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 102.32,
+            "pairs": 154,
+            "captureDays": 5
+          }
+        },
+        {
+          "id": "laundry-cleaning",
+          "label": "洗濯・掃除",
+          "series": 408,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 204,
+              "captureDays": 10
+            },
+            {
+              "month": "2026-06",
+              "index": 100.82,
+              "pairs": 165,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 102.52,
+              "pairs": 210,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 103.48,
+              "pairs": 216,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 104.92,
+              "pairs": 218,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 105.45,
+            "pairs": 223,
+            "captureDays": 5
+          }
+        },
+        {
+          "id": "hygiene-care",
+          "label": "衛生・ケア用品",
+          "series": 314,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 179,
+              "captureDays": 10
+            },
+            {
+              "month": "2026-06",
+              "index": 100.1,
+              "pairs": 150,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 100.79,
+              "pairs": 160,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 100.43,
+              "pairs": 175,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 101.09,
+              "pairs": 178,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 101.76,
+            "pairs": 192,
+            "captureDays": 5
+          }
+        },
+        {
+          "id": "baby-nursing",
+          "label": "ベビー・介護",
+          "series": 130,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 62,
+              "captureDays": 10
+            },
+            {
+              "month": "2026-06",
+              "index": 100.02,
+              "pairs": 58,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 99.41,
+              "pairs": 64,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 100.28,
+              "pairs": 78,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 100.88,
+              "pairs": 67,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 101.51,
+            "pairs": 75,
+            "captureDays": 5
+          }
+        },
+        {
+          "id": "beauty-hair",
+          "label": "美容・ヘアケア",
+          "series": 124,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 93,
+              "captureDays": 10
+            },
+            {
+              "month": "2026-06",
+              "index": 100.46,
+              "pairs": 75,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 100.42,
+              "pairs": 72,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 100.59,
+              "pairs": 71,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 100.67,
+              "pairs": 70,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 100.54,
+            "pairs": 72,
+            "captureDays": 5
+          }
+        },
+        {
+          "id": "pet-food",
+          "label": "ペット・食品",
+          "series": 80,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 55,
+              "captureDays": 10
+            },
+            {
+              "month": "2026-06",
+              "index": 99.42,
+              "pairs": 54,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 100.58,
+              "pairs": 56,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 101.03,
+              "pairs": 55,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 99.68,
+              "pairs": 55,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 100.08,
+            "pairs": 60,
+            "captureDays": 5
+          }
+        },
+        {
+          "id": "household",
+          "label": "生活雑貨",
+          "series": 142,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 81,
+              "captureDays": 10
+            },
+            {
+              "month": "2026-06",
+              "index": 100.65,
+              "pairs": 72,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 102.07,
+              "pairs": 78,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 102.04,
+              "pairs": 69,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 102.11,
+              "pairs": 77,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 102.63,
+            "pairs": 89,
+            "captureDays": 5
+          }
+        }
+      ],
+      "capacityChanges": {
+        "decreases": 37,
+        "increases": 38,
+        "unparsedObservations": 470,
+        "unitMismatches": 27,
+        "items": [
+          {
+            "key": "rakuten\tbathroom-cleaner-comparison\trk:rakuten24/85253",
+            "articleId": "bathroom-cleaner-comparison",
+            "productKey": "rk:rakuten24/85253",
+            "name": "ルックプラス バスタブクレンジング 銀イオンプラス ハーバルグリーン 詰替サイズ",
+            "date": "2026-05-23",
+            "fromCapacity": "800mL（約120回分）",
+            "toCapacity": "800mL×6袋",
+            "unit": "mL",
+            "fromTotal": 800,
+            "toTotal": 4800,
+            "priceBefore": 3262,
+            "priceAfter": 3262,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tbathroom-cleaner-comparison\trk:rakutensokuhaimart/4901301453242",
+            "articleId": "bathroom-cleaner-comparison",
+            "productKey": "rk:rakutensokuhaimart/4901301453242",
+            "name": "バスマジックリン エアジェット 除菌EX ハーバルクリアの香り つめかえ用",
+            "date": "2026-05-23",
+            "fromCapacity": "820mL×2袋（約240回分）",
+            "toCapacity": "1000mL",
+            "unit": "mL",
+            "fromTotal": 1640,
+            "toTotal": 1000,
+            "priceBefore": 722,
+            "priceAfter": 722,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tbattery-comparison\trk:pc-goodmedia/20180822-000006",
+            "articleId": "battery-comparison",
+            "productKey": "rk:pc-goodmedia/20180822-000006",
+            "name": "Panasonic エボルタNEO 乾電池 単3形 16本",
+            "date": "2026-06-09",
+            "fromCapacity": "12本",
+            "toCapacity": "16本",
+            "unit": "本",
+            "fromTotal": 12,
+            "toTotal": 16,
+            "priceBefore": 1550,
+            "priceAfter": 1550,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tbody-soap-comparison\trk:rakuten24/68857",
+            "articleId": "body-soap-comparison",
+            "productKey": "rk:rakuten24/68857",
+            "name": "ミノン 全身シャンプー 泡タイプ 詰め替え 400mL×3袋",
+            "date": "2026-05-23",
+            "fromCapacity": "400mL（約100回分）",
+            "toCapacity": "400mL×3袋（約300回分）",
+            "unit": "mL",
+            "fromTotal": 400,
+            "toTotal": 1200,
+            "priceBefore": 2993,
+            "priceAfter": 3300,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tcleansing-comparison\trk:morro/20250623203939_94",
+            "articleId": "cleansing-comparison",
+            "productKey": "rk:morro/20250623203939_94",
+            "name": "Bioré ビオレ素肌つるるんクレンジングウォーター詰替",
+            "date": "2026-05-23",
+            "fromCapacity": "300mL",
+            "toCapacity": "290mL",
+            "unit": "mL",
+            "fromTotal": 300,
+            "toTotal": 290,
+            "priceBefore": 6263,
+            "priceAfter": 6263,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tcoffee-filter-comparison\trk:hiroshimacoffee/426221",
+            "articleId": "coffee-filter-comparison",
+            "productKey": "rk:hiroshimacoffee/426221",
+            "name": "【カリタ】コーヒーフィルターみさらし101濾紙1〜2人用/",
+            "date": "2026-05-23",
+            "fromCapacity": "100枚（1〜2杯用）",
+            "toCapacity": "40枚",
+            "unit": "枚",
+            "fromTotal": 100,
+            "toTotal": 40,
+            "priceBefore": 209,
+            "priceAfter": 209,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tconditioner-comparison\trk:at-life/4902111773964-today",
+            "articleId": "conditioner-comparison",
+            "productKey": "rk:at-life/4902111773964-today",
+            "name": "【決算還元】ユニリーバ LUX ラックス スーパーリッチシャイン ダメージリペア",
+            "date": "2026-05-23",
+            "fromCapacity": "660g（約2ヶ月分）",
+            "toCapacity": "290g",
+            "unit": "g",
+            "fromTotal": 660,
+            "toTotal": 290,
+            "priceBefore": 299,
+            "priceAfter": 299,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tconditioner-comparison\trk:rakuten24/601325",
+            "articleId": "conditioner-comparison",
+            "productKey": "rk:rakuten24/601325",
+            "name": "メリット コンディショナー つめかえ用【メリット】",
+            "date": "2026-05-23",
+            "fromCapacity": "1200mL（約4ヶ月分）",
+            "toCapacity": "1800mL×4セット",
+            "unit": "mL",
+            "fromTotal": 1200,
+            "toTotal": 7200,
+            "priceBefore": 6600,
+            "priceAfter": 6600,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tcontact-lens-comparison\trk:hitomi-cl/opfplus_6",
+            "articleId": "contact-lens-comparison",
+            "productKey": "rk:hitomi-cl/opfplus_6",
+            "name": "ポイント10倍！オプティフリープラス",
+            "date": "2026-05-23",
+            "fromCapacity": "470mL",
+            "toCapacity": "360mL×6本×6個",
+            "unit": "mL",
+            "fromTotal": 470,
+            "toTotal": 12960,
+            "priceBefore": 3890,
+            "priceAfter": 3890,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tcontact-lens-comparison\trk:hitomi-cl/opfplus_6",
+            "articleId": "contact-lens-comparison",
+            "productKey": "rk:hitomi-cl/opfplus_6",
+            "name": "ポイント10倍！オプティフリープラス",
+            "date": "2026-09-03",
+            "fromCapacity": "360mL×6本×6個",
+            "toCapacity": "360mL×6本（2160mL）",
+            "unit": "mL",
+            "fromTotal": 12960,
+            "toTotal": 2160,
+            "priceBefore": 3890,
+            "priceAfter": 3890,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tcotton-comparison\trk:at-life/4903111456789-today",
+            "articleId": "cotton-comparison",
+            "productKey": "rk:at-life/4903111456789-today",
+            "name": "【1点限り！令和お試し価格】ユニ・チャーム シルコット うるうる コットン",
+            "date": "2026-05-23",
+            "fromCapacity": "66枚入",
+            "toCapacity": "80枚",
+            "unit": "枚",
+            "fromTotal": 66,
+            "toTotal": 80,
+            "priceBefore": 341,
+            "priceAfter": 341,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tcotton-comparison\trk:wellness-web/10034333",
+            "articleId": "cotton-comparison",
+            "productKey": "rk:wellness-web/10034333",
+            "name": "花王　ビオレ　メイク落とし　ふくだけコットン　つめかえ用　詰め替え用　クレンジン",
+            "date": "2026-05-23",
+            "fromCapacity": "82枚入",
+            "toCapacity": "46枚",
+            "unit": "枚",
+            "fromTotal": 82,
+            "toTotal": 46,
+            "priceBefore": 565,
+            "priceAfter": 565,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tdental-floss-comparison\trk:at-life/4903301203896",
+            "articleId": "dental-floss-comparison",
+            "productKey": "rk:at-life/4903301203896",
+            "name": "ライオン クリニカ アドバンテージ フロス Y字タイプ",
+            "date": "2026-05-23",
+            "fromCapacity": "30本入",
+            "toCapacity": "18本",
+            "unit": "本",
+            "fromTotal": 30,
+            "toTotal": 18,
+            "priceBefore": 292,
+            "priceAfter": 292,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tdental-floss-comparison\trk:kenkocom/d412800h",
+            "articleId": "dental-floss-comparison",
+            "productKey": "rk:kenkocom/d412800h",
+            "name": "デンタルプロ 歯間ブラシ 4【more30】【デンタルプロ】",
+            "date": "2026-05-23",
+            "fromCapacity": "30本入（10本×3個）",
+            "toCapacity": "15本",
+            "unit": "本",
+            "fromTotal": 30,
+            "toTotal": 15,
+            "priceBefore": 467,
+            "priceAfter": 467,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tdiaper-tape-s-comparison\trk:tokyoabcstore/compass1748853340",
+            "articleId": "diaper-tape-s-comparison",
+            "productKey": "rk:tokyoabcstore/compass1748853340",
+            "name": "パンパース オムツ はじめての肌へのいちばん テープ Sサイズ【パンパース】",
+            "date": "2026-06-09",
+            "fromCapacity": "108枚",
+            "toCapacity": "132枚",
+            "unit": "枚",
+            "fromTotal": 108,
+            "toTotal": 132,
+            "priceBefore": 6280,
+            "priceAfter": 6280,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tdish-detergent-comparison\trk:i-order/10053002",
+            "articleId": "dish-detergent-comparison",
+            "productKey": "rk:i-order/10053002",
+            "name": "ライオン CHARMY Magica 除菌＋ プロフェッショナル 無香料 ハーバ",
+            "date": "2026-06-09",
+            "fromCapacity": "8L×3個",
+            "toCapacity": "3.8L×3個",
+            "unit": "L",
+            "fromTotal": 24,
+            "toTotal": 11.399999999999999,
+            "priceBefore": 6165,
+            "priceAfter": 6165,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tdish-detergent-comparison\trk:rakuten24/404955",
+            "articleId": "dish-detergent-comparison",
+            "productKey": "rk:rakuten24/404955",
+            "name": "【1種類を選べる】キュキュット 食器用洗剤 つめかえ用 ジャンボサイズ 梱販売用",
+            "date": "2026-05-23",
+            "fromCapacity": "820mL×2袋（約410回分）",
+            "toCapacity": "1250mL×6本",
+            "unit": "mL",
+            "fromTotal": 1640,
+            "toTotal": 7500,
+            "priceBefore": 5035,
+            "priceAfter": 5035,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tdishwasher-detergent-comparison\trk:aimere/s0270032",
+            "articleId": "dishwasher-detergent-comparison",
+            "productKey": "rk:aimere/s0270032",
+            "name": "ソネット 食洗機用洗剤 ナチュラルディッシュウォッシャー 1.5kg",
+            "date": "2026-06-09",
+            "fromCapacity": "5kg",
+            "toCapacity": "1.5kg",
+            "unit": "kg",
+            "fromTotal": 5,
+            "toTotal": 1.5,
+            "priceBefore": 2970,
+            "priceAfter": 2970,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tdishwasher-detergent-comparison\trk:good-mam88/10001821",
+            "articleId": "dishwasher-detergent-comparison",
+            "productKey": "rk:good-mam88/10001821",
+            "name": "★大容量2200g入り★フィニッシュ パウダー/ミューズ/ ",
+            "date": "2026-05-23",
+            "fromCapacity": "900g（約200回分）",
+            "toCapacity": "2200g",
+            "unit": "g",
+            "fromTotal": 900,
+            "toTotal": 2200,
+            "priceBefore": 1760,
+            "priceAfter": 1760,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tdishwasher-detergent-comparison\trk:greenpacks/100000736",
+            "articleId": "dishwasher-detergent-comparison",
+            "productKey": "rk:greenpacks/100000736",
+            "name": "ソネット ナチュラルディッシュウォッシャー 1.5kg",
+            "date": "2026-06-09",
+            "fromCapacity": "5kg",
+            "toCapacity": "1.5kg",
+            "unit": "kg",
+            "fromTotal": 5,
+            "toTotal": 1.5,
+            "priceBefore": 2970,
+            "priceAfter": 2970,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tdishwasher-detergent-comparison\trk:rakuten24/555031",
+            "articleId": "dishwasher-detergent-comparison",
+            "productKey": "rk:rakuten24/555031",
+            "name": "キュキュット 食洗機用洗剤 ウルトラクリーン すっきりシトラスの香り 詰め替え【",
+            "date": "2026-05-23",
+            "fromCapacity": "840g（約140回分）",
+            "toCapacity": "770g×3袋",
+            "unit": "g",
+            "fromTotal": 840,
+            "toTotal": 2310,
+            "priceBefore": 1999,
+            "priceAfter": 1999,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tfabric-deodorizer-comparison\trk:biccamera/4901301348333",
+            "articleId": "fabric-deodorizer-comparison",
+            "productKey": "rk:biccamera/4901301348333",
+            "name": "花王｜Kao Resesh リセッシュ 除菌EX デオドラントパワー 香りが残ら",
+            "date": "2026-05-23",
+            "fromCapacity": "680mL×3個（約2,700回分）",
+            "toCapacity": "310mL",
+            "unit": "mL",
+            "fromTotal": 2040,
+            "toTotal": 310,
+            "priceBefore": 328,
+            "priceAfter": 328,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tfabric-deodorizer-comparison\trk:fidela/fid6-00f050vya",
+            "articleId": "fabric-deodorizer-comparison",
+            "productKey": "rk:fidela/fid6-00f050vya",
+            "name": "トップ ハイジア 除菌・消臭スプレー 詰め替え",
+            "date": "2026-05-23",
+            "fromCapacity": "800mL（約1,000回分）",
+            "toCapacity": "320mL",
+            "unit": "mL",
+            "fromTotal": 800,
+            "toTotal": 320,
+            "priceBefore": 3765,
+            "priceAfter": 3734,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tfabric-softener-comparison\trk:sarasa-designstore/set-ls021x3",
+            "articleId": "fabric-softener-comparison",
+            "productKey": "rk:sarasa-designstore/set-ls021x3",
+            "name": "【シリーズ累計50万本突破】ランドリーボトル 洗濯ボトル 洗剤ボトル ［セット ",
+            "date": "2026-05-23",
+            "fromCapacity": "1260mL（約84回分）",
+            "toCapacity": "700mL",
+            "unit": "mL",
+            "fromTotal": 1260,
+            "toTotal": 700,
+            "priceBefore": 2664,
+            "priceAfter": 2664,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tfabric-softener-comparison\trk:yksakai/rm5gaghcckomnptjv3ixcugo64",
+            "articleId": "fabric-softener-comparison",
+            "productKey": "rk:yksakai/rm5gaghcckomnptjv3ixcugo64",
+            "name": "レノア 本格消臭 柔軟剤 スポーツ フレッシュシトラスブルー 詰め替え",
+            "date": "2026-05-23",
+            "fromCapacity": "1260mL×2袋（約126回分）",
+            "toCapacity": "1260mL",
+            "unit": "mL",
+            "fromTotal": 2520,
+            "toTotal": 1260,
+            "priceBefore": 3020,
+            "priceAfter": 3020,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tface-wash-comparison\trk:rosette-shop/pasta_ks240_1ps",
+            "articleId": "face-wash-comparison",
+            "productKey": "rk:rosette-shop/pasta_ks240_1ps",
+            "name": "洗顔フォーム 毛穴 ロゼット洗顔パスタ 海泥スムース WEB限定2倍",
+            "date": "2026-05-23",
+            "fromCapacity": "120g",
+            "toCapacity": "240g",
+            "unit": "g",
+            "fromTotal": 120,
+            "toTotal": 240,
+            "priceBefore": 1210,
+            "priceAfter": 1210,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tfloor-cleaner-comparison\trk:colorfulbox/4903320481701",
+            "articleId": "floor-cleaner-comparison",
+            "productKey": "rk:colorfulbox/4903320481701",
+            "name": "激落ちくん ウェットシート 水の激落ちシート Ba フローリング＆リビング用シー",
+            "date": "2026-05-23",
+            "fromCapacity": "30枚入",
+            "toCapacity": "20枚",
+            "unit": "枚",
+            "fromTotal": 30,
+            "toTotal": 20,
+            "priceBefore": 148,
+            "priceAfter": 148,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tfloor-cleaner-comparison\trk:stacon/4903111466115",
+            "articleId": "floor-cleaner-comparison",
+            "productKey": "rk:stacon/4903111466115",
+            "name": "ウェーブ 超保水 フロアウェットシート 微香タイプ",
+            "date": "2026-05-23",
+            "fromCapacity": "36枚入",
+            "toCapacity": "16枚",
+            "unit": "枚",
+            "fromTotal": 36,
+            "toTotal": 16,
+            "priceBefore": 777,
+            "priceAfter": 777,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tfloor-cleaner-comparison\trk:wellness-web/10006153",
+            "articleId": "floor-cleaner-comparison",
+            "productKey": "rk:wellness-web/10006153",
+            "name": "花王 クイックルワイパー 立体吸着ウエットシート 香りが残らないタイプ",
+            "date": "2026-05-23",
+            "fromCapacity": "30枚入",
+            "toCapacity": "16枚",
+            "unit": "枚",
+            "fromTotal": 30,
+            "toTotal": 16,
+            "priceBefore": 599,
+            "priceAfter": 599,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tflushable-toilet-brush-comparison\trk:kankosp/2500004",
+            "articleId": "flushable-toilet-brush-comparison",
+            "productKey": "rk:kankosp/2500004",
+            "name": "スクラビングバブル 流せるトイレブラシ 本体+替え28個",
+            "date": "2026-09-16",
+            "fromCapacity": "本体+替え24個",
+            "toCapacity": "本体+替え28個",
+            "unit": "個",
+            "fromTotal": 24,
+            "toTotal": 28,
+            "priceBefore": 2092,
+            "priceAfter": 2092,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tgarbage-bag-comparison\trk:p-tano/766-1730",
+            "articleId": "garbage-bag-comparison",
+            "productKey": "rk:p-tano/766-1730",
+            "name": "TANOSEE　ゴミ袋エコノミー　乳白半透明",
+            "date": "2026-05-23",
+            "fromCapacity": "45L×100枚×5パック（500枚）",
+            "toCapacity": "100枚×10パック（1000枚）",
+            "unit": "枚",
+            "fromTotal": 500,
+            "toTotal": 1000,
+            "priceBefore": 5742,
+            "priceAfter": 5742,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\thand-cream-comparison\trk:fumichan/4987353190618-2",
+            "articleId": "hand-cream-comparison",
+            "productKey": "rk:fumichan/4987353190618-2",
+            "name": "ユースキンAa ポンプつけかえパウチ 180g×2個",
+            "date": "2026-09-16",
+            "fromCapacity": "180g",
+            "toCapacity": "180g×2個",
+            "unit": "g",
+            "fromTotal": 180,
+            "toTotal": 360,
+            "priceBefore": 2790,
+            "priceAfter": 2790,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tinterdental-brush-comparison\trk:d-fit/29860",
+            "articleId": "interdental-brush-comparison",
+            "productKey": "rk:d-fit/29860",
+            "name": "REACH リーチ／デンタルフロス 55ヤード(50.2m)×6個入り ワックス・ノ",
+            "date": "2026-09-03",
+            "fromCapacity": "2m×6個",
+            "toCapacity": "50.2m×6個（301.2m）",
+            "unit": "m",
+            "fromTotal": 12,
+            "toTotal": 301.2,
+            "priceBefore": 2298,
+            "priceAfter": 2298,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tinterdental-brush-comparison\trk:d-fit/49759",
+            "articleId": "interdental-brush-comparison",
+            "productKey": "rk:d-fit/49759",
+            "name": "オーラルケア フロアフロス 45m 2個セット (メール便9点まで)",
+            "date": "2026-09-03",
+            "fromCapacity": "45m",
+            "toCapacity": "45m×2個（90m）",
+            "unit": "m",
+            "fromTotal": 45,
+            "toTotal": 90,
+            "priceBefore": 1595,
+            "priceAfter": 1595,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tkids-toothpaste-comparison\trk:at-life/0000049795240-010",
+            "articleId": "kids-toothpaste-comparison",
+            "productKey": "rk:at-life/0000049795240-010",
+            "name": "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット",
+            "date": "2026-05-23",
+            "fromCapacity": "60g×3本（約6ヶ月分）",
+            "toCapacity": "60g×10点セット",
+            "unit": "g",
+            "fromTotal": 180,
+            "toTotal": 600,
+            "priceBefore": 3494,
+            "priceAfter": 3494,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tkitchen-paper-comparison\trk:kyoto23/10000311",
+            "articleId": "kitchen-paper-comparison",
+            "productKey": "rk:kyoto23/10000311",
+            "name": "【数量限定】 ネピア 激吸収 キッチンタオル 4ロール×",
+            "date": "2026-05-23",
+            "fromCapacity": "100カット×24ロール（2400枚）",
+            "toCapacity": "2枚",
+            "unit": "枚",
+            "fromTotal": 2400,
+            "toTotal": 2,
+            "priceBefore": 5396,
+            "priceAfter": 5396,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tkitchen-paper-comparison\trk:kyoto23/10000311",
+            "articleId": "kitchen-paper-comparison",
+            "productKey": "rk:kyoto23/10000311",
+            "name": "ネピア 激吸収 キッチンタオル 4ロール×12パック（100カット）",
+            "date": "2026-07-08",
+            "fromCapacity": "2枚",
+            "toCapacity": "100枚×4ロール×12パック",
+            "unit": "枚",
+            "fromTotal": 2,
+            "toTotal": 4800,
+            "priceBefore": 5396,
+            "priceAfter": 5396,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tkitchen-sponge-comparison\trk:at-life/4904735053095-1",
+            "articleId": "kitchen-sponge-comparison",
+            "productKey": "rk:at-life/4904735053095-1",
+            "name": "【お試し・初回購入限定】太陽油脂　パックスナチュロン　キッチンスポンジ",
+            "date": "2026-05-23",
+            "fromCapacity": "8個（約8ヶ月分）",
+            "toCapacity": "1個",
+            "unit": "個",
+            "fromTotal": 8,
+            "toTotal": 1,
+            "priceBefore": 199,
+            "priceAfter": 199,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tmask-comparison\trk:at-life/4967576481694-today",
+            "articleId": "mask-comparison",
+            "productKey": "rk:at-life/4967576481694-today",
+            "name": "【1点限り！令和お試し価格】アイリスオーヤマ ナノエアーマスク",
+            "date": "2026-05-23",
+            "fromCapacity": "60枚入",
+            "toCapacity": "7枚",
+            "unit": "枚",
+            "fromTotal": 60,
+            "toTotal": 7,
+            "priceBefore": 320,
+            "priceAfter": 320,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tmask-comparison\trk:runnrunn-shop/daiomask-2",
+            "articleId": "mask-comparison",
+            "productKey": "rk:runnrunn-shop/daiomask-2",
+            "name": "【50枚入×2箱セット】大王製紙 大王製紙 エリエール サー",
+            "date": "2026-05-23",
+            "fromCapacity": "30枚入",
+            "toCapacity": "50枚×2",
+            "unit": "枚",
+            "fromTotal": 30,
+            "toTotal": 100,
+            "priceBefore": 2600,
+            "priceAfter": 2600,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tmoth-repellent-comparison\trk:matsukiyo/4987115842472",
+            "articleId": "moth-repellent-comparison",
+            "productKey": "rk:matsukiyo/4987115842472",
+            "name": "大日本除蟲菊 タンスにゴンゴン 衣類の防虫剤 クローゼット用 無臭",
+            "date": "2026-05-23",
+            "fromCapacity": "12個入",
+            "toCapacity": "3個",
+            "unit": "個",
+            "fromTotal": 12,
+            "toTotal": 3,
+            "priceBefore": 657,
+            "priceAfter": 617,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tmoth-repellent-comparison\trk:rakuten24/65240",
+            "articleId": "moth-repellent-comparison",
+            "productKey": "rk:rakuten24/65240",
+            "name": "ムシューダ クローゼット用 衣類用 防虫剤 防カビ剤配合 無香タイプ 1年間有効",
+            "date": "2026-05-23",
+            "fromCapacity": "24個入",
+            "toCapacity": "3個×2",
+            "unit": "個",
+            "fromTotal": 24,
+            "toTotal": 6,
+            "priceBefore": 1628,
+            "priceAfter": 1628,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tmouthwash-comparison\trk:rakuten24/89402",
+            "articleId": "mouthwash-comparison",
+            "productKey": "rk:rakuten24/89402",
+            "name": "リステリン トータルケアプラス 1000mL×4本セット",
+            "date": "2026-05-06",
+            "fromCapacity": "1000mL×2本（約3ヶ月分）",
+            "toCapacity": "1000mL×4本セット（約6ヶ月分）",
+            "unit": "mL",
+            "fromTotal": 2000,
+            "toTotal": 4000,
+            "priceBefore": 3980,
+            "priceAfter": 3980,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tpet-sheet-double-comparison\trk:ryouhin-monogatari/10000024",
+            "articleId": "pet-sheet-double-comparison",
+            "productKey": "rk:ryouhin-monogatari/10000024",
+            "name": "Famy ペットシーツ うす型 JPPMA認証 スーパーワイド 204枚",
+            "date": "2026-09-03",
+            "fromCapacity": "800枚",
+            "toCapacity": "スーパーワイド 204枚",
+            "unit": "枚",
+            "fromTotal": 800,
+            "toTotal": 204,
+            "priceBefore": 3980,
+            "priceAfter": 4480,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\troom-deodorizer-comparison\trk:rakuten24/580764",
+            "articleId": "room-deodorizer-comparison",
+            "productKey": "rk:rakuten24/580764",
+            "name": "リセッシュ 除菌EX ワイドジェット ストロング 香りが残らないタイプ つめかえ",
+            "date": "2026-05-23",
+            "fromCapacity": "630ml",
+            "toCapacity": "630ml×4",
+            "unit": "ml",
+            "fromTotal": 630,
+            "toTotal": 2520,
+            "priceBefore": 3080,
+            "priceAfter": 3080,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\troom-dry-detergent-comparison\trk:good-mam88/10001948",
+            "articleId": "room-dry-detergent-comparison",
+            "productKey": "rk:good-mam88/10001948",
+            "name": "アリエール ジェルボール4D 部屋干し用 詰め替え 140個入り",
+            "date": "2026-05-06",
+            "fromCapacity": "63個（63回分）",
+            "toCapacity": "140個（140回分）",
+            "unit": "個",
+            "fromTotal": 63,
+            "toTotal": 140,
+            "priceBefore": 4398,
+            "priceAfter": 4398,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\troom-dry-detergent-comparison\trk:platinum-eight/425",
+            "articleId": "room-dry-detergent-comparison",
+            "productKey": "rk:platinum-eight/425",
+            "name": "トップ スーパーナノックス ニオイ専用 部屋干し 詰め替え 1510g×6個セット",
+            "date": "2026-05-06",
+            "fromCapacity": "1230g（約62回分）",
+            "toCapacity": "1510g×6個（約363回分）",
+            "unit": "g",
+            "fromTotal": 1230,
+            "toTotal": 9060,
+            "priceBefore": 17800,
+            "priceAfter": 18800,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\troom-dry-detergent-comparison\trk:suterastar/b0d4z7rrlp-6",
+            "articleId": "room-dry-detergent-comparison",
+            "productKey": "rk:suterastar/b0d4z7rrlp-6",
+            "name": "アタック 抗菌EX 部屋干し用 詰め替え 2380g×6個セット",
+            "date": "2026-05-06",
+            "fromCapacity": "1800g（約60回分）",
+            "toCapacity": "2380g×6個（約476回分）",
+            "unit": "g",
+            "fromTotal": 1800,
+            "toTotal": 14280,
+            "priceBefore": 6980,
+            "priceAfter": 6980,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\troom-dry-detergent-comparison\trk:yyshop-japan/jan-4903301340133-10",
+            "articleId": "room-dry-detergent-comparison",
+            "productKey": "rk:yyshop-japan/jan-4903301340133-10",
+            "name": "【送料無料】部屋干しトップ 除菌EX つめかえ用",
+            "date": "2026-05-23",
+            "fromCapacity": "810g（約22回分）",
+            "toCapacity": "810g×10個",
+            "unit": "g",
+            "fromTotal": 810,
+            "toTotal": 8100,
+            "priceBefore": 4700,
+            "priceAfter": 4700,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tsanitary-napkin-comparison\trk:rakuten24/600587",
+            "articleId": "sanitary-napkin-comparison",
+            "productKey": "rk:rakuten24/600587",
+            "name": "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20",
+            "date": "2026-05-23",
+            "fromCapacity": "52枚入",
+            "toCapacity": "27枚×5",
+            "unit": "枚",
+            "fromTotal": 52,
+            "toTotal": 135,
+            "priceBefore": 2183,
+            "priceAfter": 2183,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tsanitary-napkin-comparison\trk:rakuten24/a001256000944",
+            "articleId": "sanitary-napkin-comparison",
+            "productKey": "rk:rakuten24/a001256000944",
+            "name": "ロリエ スリムガード 特に多い昼用 羽つき 19個入",
+            "date": "2026-05-23",
+            "fromCapacity": "30枚入",
+            "toCapacity": "19枚入",
+            "unit": "枚",
+            "fromTotal": 30,
+            "toTotal": 19,
+            "priceBefore": 529,
+            "priceAfter": 529,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tsanitizing-spray-comparison\trk:rakuten24/4901609016491",
+            "articleId": "sanitizing-spray-comparison",
+            "productKey": "rk:rakuten24/4901609016491",
+            "name": "カビキラー アルコール除菌 キッチン用 詰め替え用【カビキラー】[アルコールスプ",
+            "date": "2026-05-23",
+            "fromCapacity": "630mL×3本（1890mL）",
+            "toCapacity": "（1260mL）",
+            "unit": "mL",
+            "fromTotal": 1890,
+            "toTotal": 1260,
+            "priceBefore": 1130,
+            "priceAfter": 1130,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tsanitizing-spray-comparison\trk:rakuten24/4902424441727",
+            "articleId": "sanitizing-spray-comparison",
+            "productKey": "rk:rakuten24/4902424441727",
+            "name": "フマキラー キッチン用 アルコール除菌スプレー つめかえ用【フマキラー アルコー",
+            "date": "2026-05-23",
+            "fromCapacity": "720mL×2本（1440mL）",
+            "toCapacity": "（720mL）",
+            "unit": "mL",
+            "fromTotal": 1440,
+            "toTotal": 720,
+            "priceBefore": 657,
+            "priceAfter": 657,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tsensitive-softener-comparison\trk:k-home/7174547",
+            "articleId": "sensitive-softener-comparison",
+            "productKey": "rk:k-home/7174547",
+            "name": "さらさ 柔軟剤 詰め替え 超ジャンボ 1350ml 6個セット",
+            "date": "2026-05-25",
+            "fromCapacity": "850mL×2袋（約100回分）",
+            "toCapacity": "1350mL×6個",
+            "unit": "mL",
+            "fromTotal": 1700,
+            "toTotal": 8100,
+            "priceBefore": 6977,
+            "priceAfter": 7280,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tsensitive-softener-comparison\trk:nissansoap/s970428",
+            "articleId": "sensitive-softener-comparison",
+            "productKey": "rk:nissansoap/s970428",
+            "name": "送料無料　ファーファ　フリー＆　濃縮柔軟剤　無香料　エコパックお試しセット　本体",
+            "date": "2026-05-23",
+            "fromCapacity": "480mL×3袋（約90回分）",
+            "toCapacity": "900mL",
+            "unit": "mL",
+            "fromTotal": 1440,
+            "toTotal": 900,
+            "priceBefore": 1370,
+            "priceAfter": 1370,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tsensitive-softener-comparison\trk:sarasa-designstore/set-ls021x3",
+            "articleId": "sensitive-softener-comparison",
+            "productKey": "rk:sarasa-designstore/set-ls021x3",
+            "name": "【シリーズ累計50万本突破】ランドリーボトル 洗濯ボトル 洗剤ボトル ［セット ",
+            "date": "2026-05-23",
+            "fromCapacity": "850mL×2袋（約100回分）",
+            "toCapacity": "700mL",
+            "unit": "mL",
+            "fromTotal": 1700,
+            "toTotal": 700,
+            "priceBefore": 2664,
+            "priceAfter": 2664,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tshampoo-comparison\trk:kzstore/2734-000217",
+            "articleId": "shampoo-comparison",
+            "productKey": "rk:kzstore/2734-000217",
+            "name": "パンテーン シャンプー 詰め替え エクストラダメージケア",
+            "date": "2026-05-23",
+            "fromCapacity": "950mL（約3ヶ月分）",
+            "toCapacity": "1700mL×2個",
+            "unit": "mL",
+            "fromTotal": 950,
+            "toTotal": 3400,
+            "priceBefore": 3980,
+            "priceAfter": 3980,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tsunscreen-comparison\trk:at-life/103-4901301298706",
+            "articleId": "sunscreen-comparison",
+            "productKey": "rk:at-life/103-4901301298706",
+            "name": "花王 ニベアUV　ニベアサン ウォータージェル SPF50 詰替え",
+            "date": "2026-05-23",
+            "fromCapacity": "160g",
+            "toCapacity": "125g",
+            "unit": "g",
+            "fromTotal": 160,
+            "toTotal": 125,
+            "priceBefore": 975,
+            "priceAfter": 975,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\tsunscreen-comparison\trk:beautyeveryday/4901301416957",
+            "articleId": "sunscreen-comparison",
+            "productKey": "rk:beautyeveryday/4901301416957",
+            "name": "ビオレUV アクアリッチ ウォータリーエッセンス フレッシュパウチ",
+            "date": "2026-05-23",
+            "fromCapacity": "70g",
+            "toCapacity": "120g",
+            "unit": "g",
+            "fromTotal": 70,
+            "toTotal": 120,
+            "priceBefore": 2480,
+            "priceAfter": 2480,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\tsunscreen-comparison\trk:tsuruha/10156053",
+            "articleId": "sunscreen-comparison",
+            "productKey": "rk:tsuruha/10156053",
+            "name": "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA",
+            "date": "2026-05-23",
+            "fromCapacity": "110g",
+            "toCapacity": "（140g）",
+            "unit": "g",
+            "fromTotal": 110,
+            "toTotal": 140,
+            "priceBefore": 897,
+            "priceAfter": 897,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\ttissue-paper-comparison\trk:e-kurashi/13337",
+            "articleId": "tissue-paper-comparison",
+            "productKey": "rk:e-kurashi/13337",
+            "name": "スコッティ ティッシュペーパー フラワーボックス",
+            "date": "2026-05-23",
+            "fromCapacity": "320枚（160組）×12箱",
+            "toCapacity": "500枚×60箱",
+            "unit": "枚",
+            "fromTotal": 3840,
+            "toTotal": 30000,
+            "priceBefore": 7399,
+            "priceAfter": 7099,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\ttissue-paper-comparison\trk:kyoto23/10000355",
+            "articleId": "tissue-paper-comparison",
+            "productKey": "rk:kyoto23/10000355",
+            "name": "クリネックス ティシュー 180組 5箱パック×12パック",
+            "date": "2026-05-23",
+            "fromCapacity": "200枚（100組）×12箱",
+            "toCapacity": "360枚（180組）×60箱",
+            "unit": "枚",
+            "fromTotal": 2400,
+            "toTotal": 21600,
+            "priceBefore": 6146,
+            "priceAfter": 6146,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\ttissue-paper-moist-comparison\trk:keyroom-hida/keyroom-10000333",
+            "articleId": "tissue-paper-moist-comparison",
+            "productKey": "rk:keyroom-hida/keyroom-10000333",
+            "name": "鼻セレブ プレミアム ティッシュ 130組 6個",
+            "date": "2026-09-03",
+            "fromCapacity": "260枚（130組）×6箱",
+            "toCapacity": "390枚（130組）×6箱",
+            "unit": "枚",
+            "fromTotal": 1560,
+            "toTotal": 2340,
+            "priceBefore": 4238,
+            "priceAfter": 4238,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\ttoilet-cleaner-comparison\trk:rakuten24/542515",
+            "articleId": "toilet-cleaner-comparison",
+            "productKey": "rk:rakuten24/542515",
+            "name": "スクラビングバブル 超強力トイレクリーナー 10本セット",
+            "date": "2026-05-23",
+            "fromCapacity": "400g×3本（約90回分）",
+            "toCapacity": "400g×10本",
+            "unit": "g",
+            "fromTotal": 1200,
+            "toTotal": 4000,
+            "priceBefore": 2277,
+            "priceAfter": 2277,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\ttoilet-cleaner-comparison\trk:rakuten24/e341234h",
+            "articleId": "toilet-cleaner-comparison",
+            "productKey": "rk:rakuten24/e341234h",
+            "name": "スクラビングバブル 超強力トイレクリーナー 400g",
+            "date": "2026-05-23",
+            "fromCapacity": "400g×3本（約90回分）",
+            "toCapacity": "400g",
+            "unit": "g",
+            "fromTotal": 1200,
+            "toTotal": 400,
+            "priceBefore": 441,
+            "priceAfter": 441,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\ttoilet-paper-double-comparison\trk:cagu-le/ds-2358010",
+            "articleId": "toilet-paper-double-comparison",
+            "productKey": "rk:cagu-le/ds-2358010",
+            "name": "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール（4ロール×12パック）",
+            "date": "2026-06-09",
+            "fromCapacity": "75m×48ロール×4ロール×12パック",
+            "toCapacity": "75m×48ロール（4ロール×12パック）",
+            "unit": "m",
+            "fromTotal": 172800,
+            "toTotal": 3600,
+            "priceBefore": 10010,
+            "priceAfter": 10010,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\ttoothpaste-comparison\trk:d-fit/36667",
+            "articleId": "toothpaste-comparison",
+            "productKey": "rk:d-fit/36667",
+            "name": "歯ブラシ まとめ買い 大人 おとな用歯ブラシアソート",
+            "date": "2026-05-23",
+            "fromCapacity": "135g×3本",
+            "toCapacity": "（20g）",
+            "unit": "g",
+            "fromTotal": 405,
+            "toTotal": 20,
+            "priceBefore": 1480,
+            "priceAfter": 1480,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\twashing-machine-cleaner-comparison\trk:iimonotokusen/esuke-03",
+            "articleId": "washing-machine-cleaner-comparison",
+            "productKey": "rk:iimonotokusen/esuke-03",
+            "name": "エスケー石鹸 すっきり洗濯槽クリーナー 3箱",
+            "date": "2026-05-23",
+            "fromCapacity": "500g×2個（2回分）",
+            "toCapacity": "500g×3箱（3回分）",
+            "unit": "g",
+            "fromTotal": 1000,
+            "toTotal": 1500,
+            "priceBefore": 3780,
+            "priceAfter": 3780,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\twet-tissue-comparison\trk:irisplaza-r/1920418",
+            "articleId": "wet-tissue-comparison",
+            "productKey": "rk:irisplaza-r/1920418",
+            "name": "アイリスオーヤマ 除菌ウェットティッシュ 60枚×48個",
+            "date": "2026-05-06",
+            "fromCapacity": "80枚×15個（1,200枚）",
+            "toCapacity": "60枚×48個（2,880枚）",
+            "unit": "枚",
+            "fromTotal": 1200,
+            "toTotal": 2880,
+            "priceBefore": 7480,
+            "priceAfter": 7480,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\twet-tissue-comparison\trk:rakuten24/4903111460106",
+            "articleId": "wet-tissue-comparison",
+            "productKey": "rk:rakuten24/4903111460106",
+            "name": "シルコット ウェットティッシュ ノンアルコール 詰め替え 43枚×8個×4セット",
+            "date": "2026-05-06",
+            "fromCapacity": "45枚×8個（360枚）",
+            "toCapacity": "43枚×8個×4セット（1,376枚）",
+            "unit": "枚",
+            "fromTotal": 360,
+            "toTotal": 1376,
+            "priceBefore": 5269,
+            "priceAfter": 5269,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\twet-tissue-comparison\trk:rakuten24/e387819h",
+            "articleId": "wet-tissue-comparison",
+            "productKey": "rk:rakuten24/e387819h",
+            "name": "エリエール 除菌できるアルコールタオル ウイルス除去用 詰め替え 70枚×3個",
+            "date": "2026-05-06",
+            "fromCapacity": "80枚×12個（960枚）",
+            "toCapacity": "70枚×3個（210枚）",
+            "unit": "枚",
+            "fromTotal": 960,
+            "toTotal": 210,
+            "priceBefore": 1097,
+            "priceAfter": 1097,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\twet-tissue-comparison\trk:slotre/10000234",
+            "articleId": "wet-tissue-comparison",
+            "productKey": "rk:slotre/10000234",
+            "name": "Hugmuu ふんわり厚手 おしりふき 96枚×12個",
+            "date": "2026-09-03",
+            "fromCapacity": "96枚",
+            "toCapacity": "96枚×12個（1152枚）",
+            "unit": "枚",
+            "fromTotal": 96,
+            "toTotal": 1152,
+            "priceBefore": 2980,
+            "priceAfter": 2980,
+            "direction": "increase"
+          },
+          {
+            "key": "rakuten\twet-tissue-comparison\trk:wellness-web/10048919",
+            "articleId": "wet-tissue-comparison",
+            "productKey": "rk:wellness-web/10048919",
+            "name": "キレイキレイ 除菌ウェットシート ノンアルコール 30枚 携帯用",
+            "date": "2026-05-06",
+            "fromCapacity": "30枚×10個（300枚）",
+            "toCapacity": "30枚（携帯用）",
+            "unit": "枚",
+            "fromTotal": 300,
+            "toTotal": 30,
+            "priceBefore": 217,
+            "priceAfter": 217,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\twrap-foil-comparison\trk:at-life/4901670106336",
+            "articleId": "wrap-foil-comparison",
+            "productKey": "rk:at-life/4901670106336",
+            "name": "サランラップ 家庭用 30cm",
+            "date": "2026-05-23",
+            "fromCapacity": "30cm×50m×3本（150m）",
+            "toCapacity": "30cm×20m",
+            "unit": "m",
+            "fromTotal": 150,
+            "toTotal": 20,
+            "priceBefore": 262,
+            "priceAfter": 262,
+            "direction": "decrease"
+          },
+          {
+            "key": "rakuten\twrap-foil-comparison\trk:rakuten24/a001200200078",
+            "articleId": "wrap-foil-comparison",
+            "productKey": "rk:rakuten24/a001200200078",
+            "name": "NEWクレラップ 22cm*",
+            "date": "2026-05-23",
+            "fromCapacity": "22cm×50m×4本（200m）",
+            "toCapacity": "50m",
+            "unit": "m",
+            "fromTotal": 200,
+            "toTotal": 50,
+            "priceBefore": 567,
+            "priceAfter": 567,
+            "direction": "decrease"
+          }
+        ]
+      },
+      "discountShare": [
+        {
+          "date": "2026-04-29",
+          "eligible": 0,
+          "discounted": 0,
+          "share": null
+        },
+        {
+          "date": "2026-04-30",
+          "eligible": 0,
+          "discounted": 0,
+          "share": null
+        },
+        {
+          "date": "2026-05-01",
+          "eligible": 0,
+          "discounted": 0,
+          "share": null
+        },
+        {
+          "date": "2026-05-06",
+          "eligible": 14,
+          "discounted": 0,
+          "share": 0
+        },
+        {
+          "date": "2026-05-23",
+          "eligible": 42,
+          "discounted": 0,
+          "share": 0
+        },
+        {
+          "date": "2026-05-24",
+          "eligible": 63,
+          "discounted": 0,
+          "share": 0
+        },
+        {
+          "date": "2026-05-25",
+          "eligible": 113,
+          "discounted": 0,
+          "share": 0
+        },
+        {
+          "date": "2026-05-26",
+          "eligible": 492,
+          "discounted": 7,
+          "share": 0.0142
+        },
+        {
+          "date": "2026-05-27",
+          "eligible": 489,
+          "discounted": 11,
+          "share": 0.0225
+        },
+        {
+          "date": "2026-05-28",
+          "eligible": 493,
+          "discounted": 10,
+          "share": 0.0203
+        },
+        {
+          "date": "2026-05-29",
+          "eligible": 515,
+          "discounted": 3,
+          "share": 0.0058
+        },
+        {
+          "date": "2026-05-31",
+          "eligible": 552,
+          "discounted": 3,
+          "share": 0.0054
+        },
+        {
+          "date": "2026-06-05",
+          "eligible": 555,
+          "discounted": 12,
+          "share": 0.0216
+        },
+        {
+          "date": "2026-06-06",
+          "eligible": 561,
+          "discounted": 12,
+          "share": 0.0214
+        },
+        {
+          "date": "2026-06-07",
+          "eligible": 676,
+          "discounted": 10,
+          "share": 0.0148
+        },
+        {
+          "date": "2026-06-08",
+          "eligible": 694,
+          "discounted": 11,
+          "share": 0.0159
+        },
+        {
+          "date": "2026-06-09",
+          "eligible": 691,
+          "discounted": 11,
+          "share": 0.0159
+        },
+        {
+          "date": "2026-06-10",
+          "eligible": 702,
+          "discounted": 10,
+          "share": 0.0142
+        },
+        {
+          "date": "2026-06-11",
+          "eligible": 704,
+          "discounted": 4,
+          "share": 0.0057
+        },
+        {
+          "date": "2026-06-12",
+          "eligible": 748,
+          "discounted": 4,
+          "share": 0.0053
+        },
+        {
+          "date": "2026-06-14",
+          "eligible": 738,
+          "discounted": 2,
+          "share": 0.0027
+        },
+        {
+          "date": "2026-06-15",
+          "eligible": 756,
+          "discounted": 2,
+          "share": 0.0026
+        },
+        {
+          "date": "2026-06-17",
+          "eligible": 758,
+          "discounted": 2,
+          "share": 0.0026
+        },
+        {
+          "date": "2026-06-18",
+          "eligible": 769,
+          "discounted": 4,
+          "share": 0.0052
+        },
+        {
+          "date": "2026-06-20",
+          "eligible": 776,
+          "discounted": 7,
+          "share": 0.009
+        },
+        {
+          "date": "2026-06-22",
+          "eligible": 776,
+          "discounted": 5,
+          "share": 0.0064
+        },
+        {
+          "date": "2026-06-23",
+          "eligible": 768,
+          "discounted": 4,
+          "share": 0.0052
+        },
+        {
+          "date": "2026-06-24",
+          "eligible": 768,
+          "discounted": 4,
+          "share": 0.0052
+        },
+        {
+          "date": "2026-06-25",
+          "eligible": 773,
+          "discounted": 7,
+          "share": 0.0091
+        },
+        {
+          "date": "2026-06-30",
+          "eligible": 773,
+          "discounted": 9,
+          "share": 0.0116
+        },
+        {
+          "date": "2026-07-01",
+          "eligible": 762,
+          "discounted": 4,
+          "share": 0.0052
+        },
+        {
+          "date": "2026-07-02",
+          "eligible": 762,
+          "discounted": 4,
+          "share": 0.0052
+        },
+        {
+          "date": "2026-07-04",
+          "eligible": 773,
+          "discounted": 5,
+          "share": 0.0065
+        },
+        {
+          "date": "2026-07-05",
+          "eligible": 805,
+          "discounted": 6,
+          "share": 0.0075
+        },
+        {
+          "date": "2026-07-06",
+          "eligible": 802,
+          "discounted": 6,
+          "share": 0.0075
+        },
+        {
+          "date": "2026-07-08",
+          "eligible": 798,
+          "discounted": 5,
+          "share": 0.0063
+        },
+        {
+          "date": "2026-07-09",
+          "eligible": 790,
+          "discounted": 7,
+          "share": 0.0089
+        },
+        {
+          "date": "2026-07-11",
+          "eligible": 791,
+          "discounted": 5,
+          "share": 0.0063
+        },
+        {
+          "date": "2026-07-12",
+          "eligible": 790,
+          "discounted": 5,
+          "share": 0.0063
+        },
+        {
+          "date": "2026-07-14",
+          "eligible": 794,
+          "discounted": 2,
+          "share": 0.0025
+        },
+        {
+          "date": "2026-07-15",
+          "eligible": 795,
+          "discounted": 5,
+          "share": 0.0063
+        },
+        {
+          "date": "2026-07-17",
+          "eligible": 800,
+          "discounted": 6,
+          "share": 0.0075
+        },
+        {
+          "date": "2026-07-20",
+          "eligible": 817,
+          "discounted": 6,
+          "share": 0.0073
+        },
+        {
+          "date": "2026-07-21",
+          "eligible": 820,
+          "discounted": 6,
+          "share": 0.0073
+        },
+        {
+          "date": "2026-07-22",
+          "eligible": 806,
+          "discounted": 6,
+          "share": 0.0074
+        },
+        {
+          "date": "2026-07-23",
+          "eligible": 806,
+          "discounted": 6,
+          "share": 0.0074
+        },
+        {
+          "date": "2026-07-25",
+          "eligible": 803,
+          "discounted": 7,
+          "share": 0.0087
+        },
+        {
+          "date": "2026-07-27",
+          "eligible": 817,
+          "discounted": 5,
+          "share": 0.0061
+        },
+        {
+          "date": "2026-07-28",
+          "eligible": 817,
+          "discounted": 4,
+          "share": 0.0049
+        },
+        {
+          "date": "2026-07-29",
+          "eligible": 806,
+          "discounted": 3,
+          "share": 0.0037
+        },
+        {
+          "date": "2026-07-31",
+          "eligible": 805,
+          "discounted": 3,
+          "share": 0.0037
+        },
+        {
+          "date": "2026-08-01",
+          "eligible": 810,
+          "discounted": 9,
+          "share": 0.0111
+        },
+        {
+          "date": "2026-08-02",
+          "eligible": 808,
+          "discounted": 10,
+          "share": 0.0124
+        },
+        {
+          "date": "2026-08-04",
+          "eligible": 808,
+          "discounted": 7,
+          "share": 0.0087
+        },
+        {
+          "date": "2026-08-06",
+          "eligible": 820,
+          "discounted": 10,
+          "share": 0.0122
+        },
+        {
+          "date": "2026-08-07",
+          "eligible": 817,
+          "discounted": 10,
+          "share": 0.0122
+        },
+        {
+          "date": "2026-08-08",
+          "eligible": 822,
+          "discounted": 11,
+          "share": 0.0134
+        },
+        {
+          "date": "2026-08-09",
+          "eligible": 832,
+          "discounted": 11,
+          "share": 0.0132
+        },
+        {
+          "date": "2026-08-12",
+          "eligible": 824,
+          "discounted": 7,
+          "share": 0.0085
+        },
+        {
+          "date": "2026-08-13",
+          "eligible": 821,
+          "discounted": 7,
+          "share": 0.0085
+        },
+        {
+          "date": "2026-08-17",
+          "eligible": 794,
+          "discounted": 8,
+          "share": 0.0101
+        },
+        {
+          "date": "2026-08-19",
+          "eligible": 781,
+          "discounted": 6,
+          "share": 0.0077
+        },
+        {
+          "date": "2026-08-21",
+          "eligible": 777,
+          "discounted": 8,
+          "share": 0.0103
+        },
+        {
+          "date": "2026-08-22",
+          "eligible": 790,
+          "discounted": 9,
+          "share": 0.0114
+        },
+        {
+          "date": "2026-08-26",
+          "eligible": 808,
+          "discounted": 17,
+          "share": 0.021
+        },
+        {
+          "date": "2026-09-03",
+          "eligible": 809,
+          "discounted": 32,
+          "share": 0.0396
+        },
+        {
+          "date": "2026-09-05",
+          "eligible": 812,
+          "discounted": 34,
+          "share": 0.0419
+        },
+        {
+          "date": "2026-09-06",
+          "eligible": 773,
+          "discounted": 27,
+          "share": 0.0349
+        },
+        {
+          "date": "2026-09-10",
+          "eligible": 808,
+          "discounted": 27,
+          "share": 0.0334
+        },
+        {
+          "date": "2026-09-16",
+          "eligible": 809,
+          "discounted": 5,
+          "share": 0.0062
+        },
+        {
+          "date": "2026-09-19",
+          "eligible": 829,
+          "discounted": 3,
+          "share": 0.0036
+        },
+        {
+          "date": "2026-09-22",
+          "eligible": 826,
+          "discounted": 3,
+          "share": 0.0036
+        },
+        {
+          "date": "2026-09-23",
+          "eligible": 828,
+          "discounted": 3,
+          "share": 0.0036
+        },
+        {
+          "date": "2026-09-26",
+          "eligible": 830,
+          "discounted": 2,
+          "share": 0.0024
+        },
+        {
+          "date": "2026-09-29",
+          "eligible": 834,
+          "discounted": 1,
+          "share": 0.0012
+        },
+        {
+          "date": "2026-09-30",
+          "eligible": 860,
+          "discounted": 2,
+          "share": 0.0023
+        },
+        {
+          "date": "2026-10-04",
+          "eligible": 854,
+          "discounted": 5,
+          "share": 0.0059
+        },
+        {
+          "date": "2026-10-05",
+          "eligible": 0,
+          "discounted": 0,
+          "share": null
+        },
+        {
+          "date": "2026-10-06",
+          "eligible": 854,
+          "discounted": 6,
+          "share": 0.007
+        },
+        {
+          "date": "2026-10-08",
+          "eligible": 860,
+          "discounted": 6,
+          "share": 0.007
+        },
+        {
+          "date": "2026-10-11",
+          "eligible": 837,
+          "discounted": 2,
+          "share": 0.0024
+        }
+      ]
+    },
+    {
+      "provider": "yahoo",
+      "input": {
+        "series": 971,
+        "observations": 41206
+      },
+      "cleaning": {
+        "priceRange": {
+          "excludedSeries": 0,
+          "excludedObservations": 0
+        },
+        "suspect": {
+          "setMultiple": 42,
+          "unknown": 32
+        },
+        "levelShift": {
+          "intervals": 12,
+          "observations": 63,
+          "unresolvedNoReturn": 23,
+          "unresolvedNoBaseline": 5
+        },
+        "manual": {
+          "observations": 0
+        }
+      },
+      "coverage": {
+        "firstDate": "2026-05-23",
+        "lastDate": "2026-10-11",
+        "captureDays": 76,
+        "maxGapDays": 8,
+        "longGaps": [
+          {
+            "from": "2026-08-26",
+            "to": "2026-09-03",
+            "days": 8
+          }
+        ],
+        "months": [
+          {
+            "month": "2026-05",
+            "series": 447,
+            "captureDays": 8,
+            "retainedFromPrev": 0,
+            "retentionRate": null
+          },
+          {
+            "month": "2026-06",
+            "series": 578,
+            "captureDays": 18,
+            "retainedFromPrev": 421,
+            "retentionRate": 0.9418
+          },
+          {
+            "month": "2026-07",
+            "series": 626,
+            "captureDays": 21,
+            "retainedFromPrev": 519,
+            "retentionRate": 0.8979
+          },
+          {
+            "month": "2026-08",
+            "series": 693,
+            "captureDays": 14,
+            "retainedFromPrev": 580,
+            "retentionRate": 0.9265
+          },
+          {
+            "month": "2026-09",
+            "series": 767,
+            "captureDays": 11,
+            "retainedFromPrev": 624,
+            "retentionRate": 0.9004
+          },
+          {
+            "month": "2026-10",
+            "series": 692,
+            "captureDays": 4,
+            "retainedFromPrev": 682,
+            "retentionRate": 0.8892
+          }
+        ]
+      },
+      "index": {
+        "months": [
+          {
+            "month": "2026-05",
+            "index": 100,
+            "pairs": 447,
+            "captureDays": 8
+          },
+          {
+            "month": "2026-06",
+            "index": 99.97,
+            "pairs": 421,
+            "captureDays": 18
+          },
+          {
+            "month": "2026-07",
+            "index": 100.06,
+            "pairs": 519,
+            "captureDays": 21
+          },
+          {
+            "month": "2026-08",
+            "index": 100.79,
+            "pairs": 580,
+            "captureDays": 14
+          },
+          {
+            "month": "2026-09",
+            "index": 102.36,
+            "pairs": 624,
+            "captureDays": 11
+          }
+        ],
+        "partial": {
+          "month": "2026-10",
+          "through": "2026-10-11",
+          "index": 102.17,
+          "pairs": 682,
+          "captureDays": 4
+        }
+      },
+      "groups": [
+        {
+          "id": "paper-kitchen",
+          "label": "紙製品・キッチン消耗品",
+          "series": 153,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 59,
+              "captureDays": 8
+            },
+            {
+              "month": "2026-06",
+              "index": 99.97,
+              "pairs": 58,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 97.85,
+              "pairs": 90,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 98.2,
+              "pairs": 109,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 98.53,
+              "pairs": 116,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 99.27,
+            "pairs": 121,
+            "captureDays": 4
+          }
+        },
+        {
+          "id": "laundry-cleaning",
+          "label": "洗濯・掃除",
+          "series": 255,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 111,
+              "captureDays": 8
+            },
+            {
+              "month": "2026-06",
+              "index": 99.38,
+              "pairs": 101,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 100.21,
+              "pairs": 130,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 100.97,
+              "pairs": 138,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 102.52,
+              "pairs": 156,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 102.36,
+            "pairs": 163,
+            "captureDays": 4
+          }
+        },
+        {
+          "id": "hygiene-care",
+          "label": "衛生・ケア用品",
+          "series": 217,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 101,
+              "captureDays": 8
+            },
+            {
+              "month": "2026-06",
+              "index": 99.79,
+              "pairs": 94,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 99.83,
+              "pairs": 113,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 101.16,
+              "pairs": 134,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 103.99,
+              "pairs": 141,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 103.57,
+            "pairs": 155,
+            "captureDays": 4
+          }
+        },
+        {
+          "id": "baby-nursing",
+          "label": "ベビー・介護",
+          "series": 97,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 43,
+              "captureDays": 8
+            },
+            {
+              "month": "2026-06",
+              "index": 101.01,
+              "pairs": 41,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 101.81,
+              "pairs": 46,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 102.05,
+              "pairs": 58,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 106.14,
+              "pairs": 53,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 106.29,
+            "pairs": 62,
+            "captureDays": 4
+          }
+        },
+        {
+          "id": "beauty-hair",
+          "label": "美容・ヘアケア",
+          "series": 92,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 62,
+              "captureDays": 8
+            },
+            {
+              "month": "2026-06",
+              "index": 100.18,
+              "pairs": 59,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 99.73,
+              "pairs": 61,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 100.21,
+              "pairs": 63,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 99.96,
+              "pairs": 64,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 99.99,
+            "pairs": 65,
+            "captureDays": 4
+          }
+        },
+        {
+          "id": "pet-food",
+          "label": "ペット・食品",
+          "series": 65,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 35,
+              "captureDays": 8
+            },
+            {
+              "month": "2026-06",
+              "index": 99.82,
+              "pairs": 34,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 101.41,
+              "pairs": 38,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 102.64,
+              "pairs": 39,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 103.2,
+              "pairs": 44,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 101.59,
+            "pairs": 50,
+            "captureDays": 4
+          }
+        },
+        {
+          "id": "household",
+          "label": "生活雑貨",
+          "series": 92,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 36,
+              "captureDays": 8
+            },
+            {
+              "month": "2026-06",
+              "index": 100.73,
+              "pairs": 34,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 102.14,
+              "pairs": 41,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 102.47,
+              "pairs": 39,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 104.13,
+              "pairs": 50,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 103.21,
+            "pairs": 66,
+            "captureDays": 4
+          }
+        }
+      ],
+      "capacityChanges": {
+        "decreases": 4,
+        "increases": 8,
+        "unparsedObservations": 40,
+        "unitMismatches": 9,
+        "items": [
+          {
+            "key": "yahoo\tbattery-comparison\trk:pc-goodmedia/20180822-000006",
+            "articleId": "battery-comparison",
+            "productKey": "rk:pc-goodmedia/20180822-000006",
+            "name": "Panasonic エボルタNEO 乾電池 単3形 16本",
+            "date": "2026-06-09",
+            "fromCapacity": "12本",
+            "toCapacity": "16本",
+            "unit": "本",
+            "fromTotal": 12,
+            "toTotal": 16,
+            "priceBefore": 1235,
+            "priceAfter": 1235,
+            "direction": "increase"
+          },
+          {
+            "key": "yahoo\tdiaper-tape-s-comparison\trk:tokyoabcstore/compass1748853340",
+            "articleId": "diaper-tape-s-comparison",
+            "productKey": "rk:tokyoabcstore/compass1748853340",
+            "name": "パンパース オムツ はじめての肌へのいちばん テープ Sサイズ【パンパース】",
+            "date": "2026-06-09",
+            "fromCapacity": "108枚",
+            "toCapacity": "132枚",
+            "unit": "枚",
+            "fromTotal": 108,
+            "toTotal": 132,
+            "priceBefore": 3980,
+            "priceAfter": 3980,
+            "direction": "increase"
+          },
+          {
+            "key": "yahoo\tdishwasher-detergent-comparison\trk:aimere/s0270032",
+            "articleId": "dishwasher-detergent-comparison",
+            "productKey": "rk:aimere/s0270032",
+            "name": "ソネット 食洗機用洗剤 ナチュラルディッシュウォッシャー 1.5kg",
+            "date": "2026-06-09",
+            "fromCapacity": "5kg",
+            "toCapacity": "1.5kg",
+            "unit": "kg",
+            "fromTotal": 5,
+            "toTotal": 1.5,
+            "priceBefore": 2970,
+            "priceAfter": 2970,
+            "direction": "decrease"
+          },
+          {
+            "key": "yahoo\tdishwasher-detergent-comparison\trk:greenpacks/100000736",
+            "articleId": "dishwasher-detergent-comparison",
+            "productKey": "rk:greenpacks/100000736",
+            "name": "ソネット ナチュラルディッシュウォッシャー 1.5kg",
+            "date": "2026-06-09",
+            "fromCapacity": "5kg",
+            "toCapacity": "1.5kg",
+            "unit": "kg",
+            "fromTotal": 5,
+            "toTotal": 1.5,
+            "priceBefore": 2970,
+            "priceAfter": 2970,
+            "direction": "decrease"
+          },
+          {
+            "key": "yahoo\tdog-food-comparison\trk:albiot/nh_main_4",
+            "articleId": "dog-food-comparison",
+            "productKey": "rk:albiot/nh_main_4",
+            "name": "ナチュラルハーベスト メンテナンス ラム (大粒) ドッグフード 犬 ドライフード",
+            "date": "2026-09-03",
+            "fromCapacity": "1kg",
+            "toCapacity": "1.1kg",
+            "unit": "kg",
+            "fromTotal": 1,
+            "toTotal": 1.1,
+            "priceBefore": 3080,
+            "priceAfter": 3080,
+            "direction": "increase"
+          },
+          {
+            "key": "yahoo\thand-cream-comparison\trk:fumichan/4987353190618-2",
+            "articleId": "hand-cream-comparison",
+            "productKey": "rk:fumichan/4987353190618-2",
+            "name": "ユースキンAa ポンプつけかえパウチ 180g×2個",
+            "date": "2026-09-16",
+            "fromCapacity": "180g",
+            "toCapacity": "180g×2個",
+            "unit": "g",
+            "fromTotal": 180,
+            "toTotal": 360,
+            "priceBefore": 1540,
+            "priceAfter": 1540,
+            "direction": "increase"
+          },
+          {
+            "key": "yahoo\tinterdental-brush-comparison\trk:d-fit/29860",
+            "articleId": "interdental-brush-comparison",
+            "productKey": "rk:d-fit/29860",
+            "name": "REACH リーチ／デンタルフロス 55ヤード(50.2m)×6個入り ワックス・ノ",
+            "date": "2026-09-03",
+            "fromCapacity": "2m×6個",
+            "toCapacity": "50.2m×6個（301.2m）",
+            "unit": "m",
+            "fromTotal": 12,
+            "toTotal": 301.2,
+            "priceBefore": 2392,
+            "priceAfter": 2392,
+            "direction": "increase"
+          },
+          {
+            "key": "yahoo\tinterdental-brush-comparison\trk:d-fit/49759",
+            "articleId": "interdental-brush-comparison",
+            "productKey": "rk:d-fit/49759",
+            "name": "オーラルケア フロアフロス 45m 2個セット (メール便9点まで)",
+            "date": "2026-09-03",
+            "fromCapacity": "45m",
+            "toCapacity": "45m×2個（90m）",
+            "unit": "m",
+            "fromTotal": 45,
+            "toTotal": 90,
+            "priceBefore": 2230,
+            "priceAfter": 2230,
+            "direction": "increase"
+          },
+          {
+            "key": "yahoo\tkitchen-paper-comparison\trk:kyoto23/10000311",
+            "articleId": "kitchen-paper-comparison",
+            "productKey": "rk:kyoto23/10000311",
+            "name": "ネピア 激吸収 キッチンタオル 4ロール×12パック（100カット）",
+            "date": "2026-07-08",
+            "fromCapacity": "2枚",
+            "toCapacity": "100枚×4ロール×12パック",
+            "unit": "枚",
+            "fromTotal": 2,
+            "toTotal": 4800,
+            "priceBefore": 5173,
+            "priceAfter": 5173,
+            "direction": "increase"
+          },
+          {
+            "key": "yahoo\tpet-sheet-double-comparison\trk:lgcity/petsheets",
+            "articleId": "pet-sheet-double-comparison",
+            "productKey": "rk:lgcity/petsheets",
+            "name": "ペットシーツ 60×60cm 業務用 まとめ買い",
+            "date": "2026-09-03",
+            "fromCapacity": "スーパーワイド 1200枚",
+            "toCapacity": "60×60cm 300枚",
+            "unit": "枚",
+            "fromTotal": 1200,
+            "toTotal": 300,
+            "priceBefore": 8450,
+            "priceAfter": 8450,
+            "direction": "decrease"
+          },
+          {
+            "key": "yahoo\ttoilet-paper-double-comparison\trk:cagu-le/ds-2358010",
+            "articleId": "toilet-paper-double-comparison",
+            "productKey": "rk:cagu-le/ds-2358010",
+            "name": "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール（4ロール×12パック）",
+            "date": "2026-06-09",
+            "fromCapacity": "75m×48ロール×4ロール×12パック",
+            "toCapacity": "75m×48ロール（4ロール×12パック）",
+            "unit": "m",
+            "fromTotal": 172800,
+            "toTotal": 3600,
+            "priceBefore": 10260,
+            "priceAfter": 10260,
+            "direction": "decrease"
+          },
+          {
+            "key": "yahoo\twrap-foil-comparison\trk:satoiku/saranwrap_30_30",
+            "articleId": "wrap-foil-comparison",
+            "productKey": "rk:satoiku/saranwrap_30_30",
+            "name": "【ケース販売】サランラップ 業務用 BOXタイプ 30cm×",
+            "date": "2026-09-03",
+            "fromCapacity": "50m",
+            "toCapacity": "30cm×50m×30本（1500m）",
+            "unit": "m",
+            "fromTotal": 50,
+            "toTotal": 1500,
+            "priceBefore": 13090,
+            "priceAfter": 13090,
+            "direction": "increase"
+          }
+        ]
+      },
+      "discountShare": [
+        {
+          "date": "2026-05-23",
+          "eligible": 0,
+          "discounted": 0,
+          "share": null
+        },
+        {
+          "date": "2026-05-24",
+          "eligible": 0,
+          "discounted": 0,
+          "share": null
+        },
+        {
+          "date": "2026-05-25",
+          "eligible": 0,
+          "discounted": 0,
+          "share": null
+        },
+        {
+          "date": "2026-05-26",
+          "eligible": 42,
+          "discounted": 0,
+          "share": 0
+        },
+        {
+          "date": "2026-05-27",
+          "eligible": 220,
+          "discounted": 2,
+          "share": 0.0091
+        },
+        {
+          "date": "2026-05-28",
+          "eligible": 219,
+          "discounted": 1,
+          "share": 0.0046
+        },
+        {
+          "date": "2026-05-29",
+          "eligible": 243,
+          "discounted": 1,
+          "share": 0.0041
+        },
+        {
+          "date": "2026-05-31",
+          "eligible": 265,
+          "discounted": 9,
+          "share": 0.034
+        },
+        {
+          "date": "2026-06-05",
+          "eligible": 263,
+          "discounted": 6,
+          "share": 0.0228
+        },
+        {
+          "date": "2026-06-06",
+          "eligible": 263,
+          "discounted": 7,
+          "share": 0.0266
+        },
+        {
+          "date": "2026-06-07",
+          "eligible": 421,
+          "discounted": 8,
+          "share": 0.019
+        },
+        {
+          "date": "2026-06-08",
+          "eligible": 437,
+          "discounted": 6,
+          "share": 0.0137
+        },
+        {
+          "date": "2026-06-09",
+          "eligible": 442,
+          "discounted": 5,
+          "share": 0.0113
+        },
+        {
+          "date": "2026-06-10",
+          "eligible": 441,
+          "discounted": 8,
+          "share": 0.0181
+        },
+        {
+          "date": "2026-06-11",
+          "eligible": 448,
+          "discounted": 4,
+          "share": 0.0089
+        },
+        {
+          "date": "2026-06-12",
+          "eligible": 447,
+          "discounted": 3,
+          "share": 0.0067
+        },
+        {
+          "date": "2026-06-14",
+          "eligible": 455,
+          "discounted": 4,
+          "share": 0.0088
+        },
+        {
+          "date": "2026-06-15",
+          "eligible": 476,
+          "discounted": 4,
+          "share": 0.0084
+        },
+        {
+          "date": "2026-06-17",
+          "eligible": 478,
+          "discounted": 1,
+          "share": 0.0021
+        },
+        {
+          "date": "2026-06-18",
+          "eligible": 495,
+          "discounted": 0,
+          "share": 0
+        },
+        {
+          "date": "2026-06-20",
+          "eligible": 502,
+          "discounted": 3,
+          "share": 0.006
+        },
+        {
+          "date": "2026-06-22",
+          "eligible": 508,
+          "discounted": 4,
+          "share": 0.0079
+        },
+        {
+          "date": "2026-06-23",
+          "eligible": 506,
+          "discounted": 2,
+          "share": 0.004
+        },
+        {
+          "date": "2026-06-24",
+          "eligible": 507,
+          "discounted": 2,
+          "share": 0.0039
+        },
+        {
+          "date": "2026-06-25",
+          "eligible": 513,
+          "discounted": 1,
+          "share": 0.0019
+        },
+        {
+          "date": "2026-06-30",
+          "eligible": 514,
+          "discounted": 2,
+          "share": 0.0039
+        },
+        {
+          "date": "2026-07-01",
+          "eligible": 506,
+          "discounted": 2,
+          "share": 0.004
+        },
+        {
+          "date": "2026-07-02",
+          "eligible": 506,
+          "discounted": 5,
+          "share": 0.0099
+        },
+        {
+          "date": "2026-07-04",
+          "eligible": 514,
+          "discounted": 5,
+          "share": 0.0097
+        },
+        {
+          "date": "2026-07-05",
+          "eligible": 516,
+          "discounted": 4,
+          "share": 0.0078
+        },
+        {
+          "date": "2026-07-06",
+          "eligible": 535,
+          "discounted": 4,
+          "share": 0.0075
+        },
+        {
+          "date": "2026-07-08",
+          "eligible": 540,
+          "discounted": 6,
+          "share": 0.0111
+        },
+        {
+          "date": "2026-07-09",
+          "eligible": 537,
+          "discounted": 6,
+          "share": 0.0112
+        },
+        {
+          "date": "2026-07-11",
+          "eligible": 541,
+          "discounted": 13,
+          "share": 0.024
+        },
+        {
+          "date": "2026-07-12",
+          "eligible": 543,
+          "discounted": 12,
+          "share": 0.0221
+        },
+        {
+          "date": "2026-07-14",
+          "eligible": 545,
+          "discounted": 9,
+          "share": 0.0165
+        },
+        {
+          "date": "2026-07-15",
+          "eligible": 546,
+          "discounted": 9,
+          "share": 0.0165
+        },
+        {
+          "date": "2026-07-17",
+          "eligible": 554,
+          "discounted": 11,
+          "share": 0.0199
+        },
+        {
+          "date": "2026-07-20",
+          "eligible": 561,
+          "discounted": 11,
+          "share": 0.0196
+        },
+        {
+          "date": "2026-07-21",
+          "eligible": 566,
+          "discounted": 10,
+          "share": 0.0177
+        },
+        {
+          "date": "2026-07-22",
+          "eligible": 560,
+          "discounted": 9,
+          "share": 0.0161
+        },
+        {
+          "date": "2026-07-23",
+          "eligible": 560,
+          "discounted": 8,
+          "share": 0.0143
+        },
+        {
+          "date": "2026-07-25",
+          "eligible": 559,
+          "discounted": 10,
+          "share": 0.0179
+        },
+        {
+          "date": "2026-07-27",
+          "eligible": 570,
+          "discounted": 11,
+          "share": 0.0193
+        },
+        {
+          "date": "2026-07-28",
+          "eligible": 570,
+          "discounted": 8,
+          "share": 0.014
+        },
+        {
+          "date": "2026-07-29",
+          "eligible": 562,
+          "discounted": 7,
+          "share": 0.0125
+        },
+        {
+          "date": "2026-07-31",
+          "eligible": 563,
+          "discounted": 4,
+          "share": 0.0071
+        },
+        {
+          "date": "2026-08-01",
+          "eligible": 558,
+          "discounted": 5,
+          "share": 0.009
+        },
+        {
+          "date": "2026-08-02",
+          "eligible": 570,
+          "discounted": 8,
+          "share": 0.014
+        },
+        {
+          "date": "2026-08-04",
+          "eligible": 572,
+          "discounted": 7,
+          "share": 0.0122
+        },
+        {
+          "date": "2026-08-06",
+          "eligible": 580,
+          "discounted": 7,
+          "share": 0.0121
+        },
+        {
+          "date": "2026-08-07",
+          "eligible": 584,
+          "discounted": 5,
+          "share": 0.0086
+        },
+        {
+          "date": "2026-08-08",
+          "eligible": 585,
+          "discounted": 5,
+          "share": 0.0085
+        },
+        {
+          "date": "2026-08-09",
+          "eligible": 597,
+          "discounted": 6,
+          "share": 0.0101
+        },
+        {
+          "date": "2026-08-12",
+          "eligible": 594,
+          "discounted": 5,
+          "share": 0.0084
+        },
+        {
+          "date": "2026-08-13",
+          "eligible": 595,
+          "discounted": 5,
+          "share": 0.0084
+        },
+        {
+          "date": "2026-08-17",
+          "eligible": 576,
+          "discounted": 5,
+          "share": 0.0087
+        },
+        {
+          "date": "2026-08-19",
+          "eligible": 561,
+          "discounted": 1,
+          "share": 0.0018
+        },
+        {
+          "date": "2026-08-21",
+          "eligible": 554,
+          "discounted": 0,
+          "share": 0
+        },
+        {
+          "date": "2026-08-22",
+          "eligible": 581,
+          "discounted": 2,
+          "share": 0.0034
+        },
+        {
+          "date": "2026-08-26",
+          "eligible": 599,
+          "discounted": 2,
+          "share": 0.0033
+        },
+        {
+          "date": "2026-09-03",
+          "eligible": 601,
+          "discounted": 2,
+          "share": 0.0033
+        },
+        {
+          "date": "2026-09-05",
+          "eligible": 619,
+          "discounted": 3,
+          "share": 0.0048
+        },
+        {
+          "date": "2026-09-06",
+          "eligible": 584,
+          "discounted": 3,
+          "share": 0.0051
+        },
+        {
+          "date": "2026-09-10",
+          "eligible": 600,
+          "discounted": 9,
+          "share": 0.015
+        },
+        {
+          "date": "2026-09-16",
+          "eligible": 600,
+          "discounted": 7,
+          "share": 0.0117
+        },
+        {
+          "date": "2026-09-19",
+          "eligible": 615,
+          "discounted": 8,
+          "share": 0.013
+        },
+        {
+          "date": "2026-09-22",
+          "eligible": 630,
+          "discounted": 8,
+          "share": 0.0127
+        },
+        {
+          "date": "2026-09-23",
+          "eligible": 635,
+          "discounted": 7,
+          "share": 0.011
+        },
+        {
+          "date": "2026-09-26",
+          "eligible": 643,
+          "discounted": 4,
+          "share": 0.0062
+        },
+        {
+          "date": "2026-09-29",
+          "eligible": 650,
+          "discounted": 6,
+          "share": 0.0092
+        },
+        {
+          "date": "2026-09-30",
+          "eligible": 660,
+          "discounted": 8,
+          "share": 0.0121
+        },
+        {
+          "date": "2026-10-04",
+          "eligible": 655,
+          "discounted": 6,
+          "share": 0.0092
+        },
+        {
+          "date": "2026-10-06",
+          "eligible": 667,
+          "discounted": 6,
+          "share": 0.009
+        },
+        {
+          "date": "2026-10-08",
+          "eligible": 676,
+          "discounted": 11,
+          "share": 0.0163
+        },
+        {
+          "date": "2026-10-11",
+          "eligible": 657,
+          "discounted": 11,
+          "share": 0.0167
+        }
+      ]
+    }
+  ]
+}
