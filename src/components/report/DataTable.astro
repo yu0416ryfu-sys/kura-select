@@ -1,0 +1,48 @@
+---
+// グラフと同じ数値を表でも出す（スクリーンリーダーと引用のため。折りたたみ）。計画書6 §3.3
+
+interface Props {
+  caption: string;
+  columns: string[];
+  rows: Array<Array<string | number | null>>;
+  /** 最初から開いておくか */
+  open?: boolean;
+  summary?: string;
+}
+
+const { caption, columns, rows, open = false, summary = "数値を表で見る" } = Astro.props;
+const cell = (v: string | number | null) => (v == null ? "—" : typeof v === "number" ? v.toFixed(1) : v);
+---
+
+<details class="mt-2 text-sm" open={open}>
+  <summary class="cursor-pointer text-[var(--color-text-sub)]">{summary}</summary>
+  <div class="overflow-x-auto mt-2">
+    <table class="min-w-full border-collapse text-[var(--color-text)]">
+      <caption class="text-left text-xs text-[var(--color-text-sub)] mb-1">{caption}</caption>
+      <thead>
+        <tr>
+          {columns.map((c, i) => (
+            <th scope="col" class={`border-b border-[var(--color-border)] px-2 py-1 font-semibold whitespace-nowrap ${i === 0 ? "text-left" : "text-right"}`}>
+              {c}
+            </th>
+          ))}
+        </tr>
+      </thead>
+      <tbody>
+        {rows.map((r) => (
+          <tr>
+            {r.map((v, i) =>
+              i === 0 ? (
+                <th scope="row" class="border-b border-[var(--color-border)] px-2 py-1 text-left font-normal whitespace-nowrap">
+                  {cell(v)}
+                </th>
+              ) : (
+                <td class="border-b border-[var(--color-border)] px-2 py-1 text-right tabular-nums">{cell(v)}</td>
+              ),
+            )}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</details>

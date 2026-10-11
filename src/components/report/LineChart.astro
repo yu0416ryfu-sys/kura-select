@@ -1,0 +1,304 @@
+---
+// 価格レポート用の静的な折れ線グラフ（SVG・JS なし・island なし。計画書6 §3.3）。
+// 値の読み取りは各点の <title>（ブラウザ標準のツールチップ）と、併記する DataTable で担保する。
+// 色は dataviz スキルの検証済みカテゴリ配色（スロット1〜3）をこのコンポーネント内だけで定義する。
+
+export interface ChartPoint {
+  x: string;
+  y: number | null;
+}
+
+export interface ChartSeries {
+  label: string;
+  /** カテゴリ配色のスロット（固定順。系列の順位で塗り替えない） */
+  slot: 1 | 2 | 3;
+  points: ChartPoint[];
+  /** 途中経過の点（点線でつなぎ、白抜きの点で描く） */
+  partial?: ChartPoint | null;
+}
+
+interface Props {
+  /** ページ内で一意な ID（aria の参照用。ビルド出力を決定的にするため乱数を使わない） */
+  id: string;
+  title: string;
+  desc: string;
+  /** x 軸の並び（途中経過の月も含める） */
+  xLabels: string[];
+  series: ChartSeries[];
+  yMin?: number;
+  yMax?: number;
+  /** 基準線（指数の 100） */
+  baseline?: number;
+  width?: number;
+  height?: number;
+  /** 小さな折れ線を並べるとき用（末尾ラベルなし・余白小） */
+  compact?: boolean;
+  unit?: string;
+}
+
+const {
+  id,
+  title,
+  desc,
+  xLabels,
+  series,
+  baseline = 100,
+  width = 480,
+  height = 260,
+  compact = false,
+  unit = "",
+} = Astro.props;
+
+const values = series.flatMap((s) => [
+  ...s.points.map((p) => p.y),
+  s.partial?.y ?? null,
+]).filter((v): v is number => v != null);
+
+const rawMin = Astro.props.yMin ?? Math.min(baseline, ...values);
+const rawMax = Astro.props.yMax ?? Math.max(baseline, ...values);
+const span = Math.max(rawMax - rawMin, 2);
+const step = span <= 4 ? 1 : span <= 10 ? 2 : span <= 25 ? 5 : 10;
+const yMin = Math.floor((rawMin - span * 0.05) / step) * step;
+const yMax = Math.ceil((rawMax + span * 0.05) / step) * step;
+const ticks: number[] = [];
+for (let v = yMin; v <= yMax + 1e-9; v += step) ticks.push(Math.round(v * 100) / 100);
+
+const m = compact
+  ? { top: 10, right: 12, bottom: 24, left: 34 }
+  : { top: 14, right: 118, bottom: 30, left: 34 };
+const plotW = width - m.left - m.right;
+const plotH = height - m.top - m.bottom;
+
+const xOf = (label: string) => {
+  const i = xLabels.indexOf(label);
+  return m.left + (xLabels.length === 1 ? plotW / 2 : (plotW * i) / (xLabels.length - 1));
+};
+const yOf = (v: number) => m.top + plotH - ((v - yMin) / (yMax - yMin)) * plotH;
+const fmt = (v: number) => `${v.toFixed(1)}${unit}`;
+
+/** null で途切れる区間ごとに分けた座標列 */
+function segments(points: ChartPoint[]) {
+  const out: Array<Array<[number, number]>> = [];
+  let cur: Array<[number, number]> = [];
+  for (const p of points) {
+    if (p.y == null) {
+      if (cur.length) out.push(cur);
+      cur = [];
+    } else {
+      cur.push([xOf(p.x), yOf(p.y)]);
+    }
+  }
+  if (cur.length) out.push(cur);
+  return out;
+}
+
+const drawn = series.map((s) => {
+  const valid = s.points.filter((p) => p.y != null);
+  const last = valid[valid.length - 1] ?? null;
+  // 途中経過は、本線が切れずに前月まで続いているときだけつなぐ
+  const lastMain = s.points[s.points.length - 1];
+  const partial = s.partial && s.partial.y != null && lastMain?.y != null ? s.partial : null;
+  const endPoint = partial ?? last;
+  return {
+    ...s,
+    segs: segments(s.points),
+    partial,
+    lastMain,
+    endPoint,
+  };
+});
+
+// 末尾ラベルの縦位置（重なったら最小間隔 16px まで押し広げる）
+const labels = compact
+  ? []
+  : drawn
+      .filter((d) => d.endPoint && d.endPoint.y != null)
+      .map((d) => ({ slot: d.slot, label: d.label, value: d.endPoint!.y as number, y: yOf(d.endPoint!.y as number) }))
+      .sort((a, b) => a.y - b.y);
+for (let i = 1; i < labels.length; i++) {
+  if (labels[i].y - labels[i - 1].y < 16) labels[i].y = labels[i - 1].y + 16;
+}
+const labelX = m.left + plotW + 14;
+const titleId = `chart-${id}`;
+---
+
+<figure class="viz">
+  {
+    !compact && series.length >= 2 && (
+      <ul class="legend" aria-hidden="true">
+        {series.map((s) => (
+          <li>
+            <span class={`key key-${s.slot}`} />
+            {s.label}
+          </li>
+        ))}
+      </ul>
+    )
+  }
+  <svg
+    width={width}
+    height={height}
+    viewBox={`0 0 ${width} ${height}`}
+    role="img"
+    aria-labelledby={`${titleId} ${titleId}-d`}
+    class="chart"
+  >
+    <title id={titleId}>{title}</title>
+    <desc id={`${titleId}-d`}>{desc}</desc>
+    {
+      ticks.map((t) => (
+        <g>
+          <line
+            x1={m.left}
+            x2={m.left + plotW}
+            y1={yOf(t)}
+            y2={yOf(t)}
+            class={t === baseline ? "base" : "grid"}
+          />
+          <text x={m.left - 6} y={yOf(t)} class="ytick" dominant-baseline="middle" text-anchor="end">
+            {t}
+          </text>
+        </g>
+      ))
+    }
+    {
+      xLabels.map((x) => (
+        <text x={xOf(x)} y={height - 8} class="xtick" text-anchor="middle">
+          {compact ? x.replace(/（d+日まで）$/, "途中") : x}
+        </text>
+      ))
+    }
+    {
+      drawn.map((d) => (
+        <g class={`s s-${d.slot}`}>
+          {d.segs.map((seg) =>
+            seg.length > 1 ? (
+              <polyline points={seg.map(([x, y]) => `${x},${y}`).join(" ")} class="line" />
+            ) : null,
+          )}
+          {d.partial && d.lastMain?.y != null && (
+            <line
+              x1={xOf(d.lastMain.x)}
+              y1={yOf(d.lastMain.y)}
+              x2={xOf(d.partial.x)}
+              y2={yOf(d.partial.y as number)}
+              class="line partial"
+            />
+          )}
+          {d.points.map((p) =>
+            p.y == null ? null : (
+              <circle cx={xOf(p.x)} cy={yOf(p.y)} r={compact ? 3 : 4} class="dot">
+                <title>{`${d.label} ${p.x}: ${fmt(p.y)}`}</title>
+              </circle>
+            ),
+          )}
+          {d.partial && (
+            <circle cx={xOf(d.partial.x)} cy={yOf(d.partial.y as number)} r={compact ? 3 : 4} class="dot hollow">
+              <title>{`${d.label} ${d.partial.x}: ${fmt(d.partial.y as number)}`}</title>
+            </circle>
+          )}
+        </g>
+      ))
+    }
+    {
+      labels.map((l) => (
+        <g>
+          <line x1={labelX - 10} x2={labelX - 2} y1={l.y} y2={l.y} class={`key-line s-${l.slot}`} />
+          <text x={labelX} y={l.y} dominant-baseline="middle" class="end-label">
+            {l.label} {fmt(l.value)}
+          </text>
+        </g>
+      ))
+    }
+  </svg>
+</figure>
+
+<style>
+  .viz {
+    --series-1: #2a78d6;
+    --series-2: #eb6834;
+    --series-3: #1baf7a;
+    --viz-surface: var(--color-bg);
+    --viz-grid: var(--color-border);
+    --viz-base: #94a3b8;
+    margin: 0;
+  }
+  .chart {
+    width: 100%;
+    height: auto;
+    display: block;
+    overflow: visible;
+  }
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1rem;
+    font-size: 0.8rem;
+    color: var(--color-text-sub);
+    margin: 0 0 0.25rem;
+    padding: 0;
+    list-style: none;
+  }
+  .legend li {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  .key {
+    display: inline-block;
+    width: 14px;
+    height: 2px;
+    border-radius: 1px;
+  }
+  .key-1 { background: var(--series-1); }
+  .key-2 { background: var(--series-2); }
+  .key-3 { background: var(--series-3); }
+  .grid {
+    stroke: var(--viz-grid);
+    stroke-width: 1;
+  }
+  .base {
+    stroke: var(--viz-base);
+    stroke-width: 1;
+  }
+  .ytick,
+  .xtick {
+    fill: var(--color-text-sub);
+    font-size: 11px;
+  }
+  .end-label {
+    fill: var(--color-text);
+    font-size: 12px;
+  }
+  .s-1 { --c: var(--series-1); }
+  .s-2 { --c: var(--series-2); }
+  .s-3 { --c: var(--series-3); }
+  .line {
+    fill: none;
+    stroke: var(--c);
+    stroke-width: 2;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+  }
+  .partial {
+    stroke-dasharray: 3 4;
+  }
+  .key-line {
+    stroke: var(--c);
+    stroke-width: 2;
+    stroke-linecap: round;
+  }
+  .dot {
+    fill: var(--c);
+    stroke: var(--viz-surface);
+    stroke-width: 2;
+  }
+  .hollow {
+    fill: var(--viz-surface);
+    stroke: var(--c);
+  }
+  @media (forced-colors: active) {
+    .line, .key-line { stroke: CanvasText; }
+    .dot { fill: CanvasText; }
+  }
+</style>
