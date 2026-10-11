@@ -5,6 +5,7 @@ import { dirname, basename, join } from "node:path";
 import {
   lintArticleBody,
   getErrorViolations,
+  productNameKeys,
 } from "../scripts/lib/article-body-lint";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -128,6 +129,49 @@ describe("lintArticleBody（ユニット）", () => {
     ].join("\n");
     expect(lintArticleBody(article(body))).toHaveLength(0);
   });
+
+  it("比較表の構成・順位に依存する表現を error として検出する", () => {
+    const lines = [
+      "比較表の上位に並ぶのは、大きく次の3系統です。",
+      "単価が下位に並ぶ商品には詰め替え用が含まれます。",
+      "| サイズ | 比較表の商品の例 | 選び方 |",
+      "なお、現在の比較表にはエコ素材の袋は入っていません。",
+      "## 上部の3商品の読み方",
+      "## 比較表の10商品を3グループで読み分ける",
+    ];
+    for (const line of lines) {
+      expect(lintArticleBody(article(line)), line).toMatchObject([
+        { kind: "table-composition", area: "body", severity: "error" },
+      ]);
+    }
+  });
+
+  it("構成に依存しない比較表への言及は誤検知しない", () => {
+    const body = [
+      "最新の単価と順位はページ上部の比較表（自動更新）でご確認ください。",
+      "比較表には両方が並ぶことがあるので、どちらが欲しいのかを先に決めてください。",
+      "| 重視すること | 商品名の目印 | 確認するところ |",
+    ].join("\n");
+    expect(lintArticleBody(article(body))).toHaveLength(0);
+  });
+
+  it("掲載商品名（先頭2語）の直書きを warn で検出し、checkProductNames: false で止める", () => {
+    const body = "商品A 1000mL は詰め替えに向いています。";
+    expect(lintArticleBody(article(body))).toMatchObject([
+      { kind: "product-name", area: "body", severity: "warn" },
+    ]);
+    expect(lintArticleBody(article(body), { checkProductNames: false })).toHaveLength(0);
+  });
+
+  it("商品名キーは先頭2語から作り、1語だけの商品名は使わない", () => {
+    expect(
+      productNameKeys([
+        { name: "シック ハイドロ5 カスタム 替刃" },
+        { name: "エリエール" },
+        { name: "A B 100枚" },
+      ]),
+    ).toEqual(["シック ハイドロ5"]);
+  });
 });
 
 describe("lintArticleBody（統合: 全記事）", () => {
@@ -139,6 +183,10 @@ describe("lintArticleBody（統合: 全記事）", () => {
   // SEO 測定中・監視中のため本文クリーンアップを一時保留している記事（2026-06-30 時点）。
   // 7月初旬の回復再判定後に順次浄化し、このリストから外す。詳細は
   // docs/IMPLEMENTATION_PLAN_BODY_NUMERIC_SINGLE_SOURCE.md / メモリ参照。
+  // 測定凍結中のため table-composition の是正を保留している記事。解除日を過ぎたら直してここから外す。
+  // tissue-paper: 「## 上部の3商品の読み方…」（凍結は data/measurement-holds.json で 2026-11-07 解除）
+  const COMPOSITION_EXEMPT = new Set(["tissue-paper-comparison.md:table-composition"]);
+
   it("記事ファイルが取得できている", () => {
     expect(files.length).toBeGreaterThan(0);
   });
@@ -147,7 +195,9 @@ describe("lintArticleBody（統合: 全記事）", () => {
     const offenders: string[] = [];
     for (const file of files) {
       const content = readFileSync(file, "utf-8");
-      const errors = getErrorViolations(lintArticleBody(content));
+      const errors = getErrorViolations(lintArticleBody(content)).filter(
+        (e) => !COMPOSITION_EXEMPT.has(`${basename(file)}:${e.kind}`),
+      );
       for (const e of errors) {
         offenders.push(`${basename(file)}${e.line ? `:${e.line}` : " (faq)"} [${e.kind}] ${e.snippet}`);
       }

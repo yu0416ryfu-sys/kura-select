@@ -40,6 +40,8 @@ description: KuraSelect の比較記事について、title/description/本文�
 - 検出は `scripts/lib/article-body-lint.ts` の `lintArticleBody(content)` を使う（`pnpm test` の `tests/article-body-lint.test.ts` と同じ判定）。
   - `unit-price`（`円/mL` 等）・`price-table`（`| … 円 |`）= `warning`（更新で陳腐化・景表法リスク）。定性表現へ置換し、具体数値は上部自動比較表へ誘導する。
   - `price`（3桁以上+円）= `info`（一般記述の誤検知に注意。商品別の固定価格なら修正候補）。
+  - `table-composition`（「比較表の上位に並ぶ」「比較表の商品の例」「上部の3商品」等）= `warning`。比較表は update-products・AI 照合で入れ替わるので、商品名ではなく「商品名の目印」（容量・薬用・夜用などの表記）で読み分ける書き方に直す。
+  - `product-name`（掲載商品名の先頭2語の直書き）= `info`。vs 記事は対象外（`checkProductNames: false`）。商品が入れ替わると嘘になる文脈（例・推奨・順位）なら修正候補。
 - 許容: 「30〜50%」「約3年」等の特定商品非依存の一般目安、比較日・出典を伴う断定。
 
 **法務表現**
