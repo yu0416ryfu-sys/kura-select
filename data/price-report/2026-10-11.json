@@ -24,7 +24,7 @@
       "articleIds": []
     },
     "priceRangeItems": 173,
-    "manualExclusions": 0
+    "manualExclusions": 16
   },
   "groups": [
     {
@@ -123,14 +123,20 @@
       ]
     },
     {
-      "id": "pet-food",
-      "label": "ペット・食品",
+      "id": "pet",
+      "label": "ペット用品",
       "categories": [
         "cat-food",
         "cat-litter",
         "dog-food",
+        "pet-sheet"
+      ]
+    },
+    {
+      "id": "food",
+      "label": "食品・飲料",
+      "categories": [
         "mineral-water",
-        "pet-sheet",
         "rice",
         "tea-bag"
       ]
@@ -177,7 +183,7 @@
           "unresolvedNoBaseline": 5
         },
         "manual": {
-          "observations": 0
+          "observations": 222
         }
       },
       "coverage": {
@@ -214,38 +220,38 @@
           },
           {
             "month": "2026-06",
-            "series": 908,
+            "series": 905,
             "captureDays": 18,
-            "retainedFromPrev": 681,
-            "retentionRate": 0.8513
+            "retainedFromPrev": 678,
+            "retentionRate": 0.8475
           },
           {
             "month": "2026-07",
-            "series": 895,
+            "series": 892,
             "captureDays": 21,
-            "retainedFromPrev": 781,
-            "retentionRate": 0.8601
+            "retainedFromPrev": 778,
+            "retentionRate": 0.8597
           },
           {
             "month": "2026-08",
-            "series": 921,
+            "series": 917,
             "captureDays": 14,
-            "retainedFromPrev": 821,
-            "retentionRate": 0.9173
+            "retainedFromPrev": 817,
+            "retentionRate": 0.9159
           },
           {
             "month": "2026-09",
-            "series": 966,
+            "series": 962,
             "captureDays": 11,
-            "retainedFromPrev": 817,
-            "retentionRate": 0.8871
+            "retainedFromPrev": 813,
+            "retentionRate": 0.8866
           },
           {
             "month": "2026-10",
-            "series": 892,
+            "series": 888,
             "captureDays": 5,
-            "retainedFromPrev": 865,
-            "retentionRate": 0.8954
+            "retainedFromPrev": 861,
+            "retentionRate": 0.895
           }
         ]
       },
@@ -259,34 +265,34 @@
           },
           {
             "month": "2026-06",
-            "index": 100.41,
-            "pairs": 681,
+            "index": 100.42,
+            "pairs": 678,
             "captureDays": 18
           },
           {
             "month": "2026-07",
             "index": 101.11,
-            "pairs": 781,
+            "pairs": 778,
             "captureDays": 21
           },
           {
             "month": "2026-08",
             "index": 101.56,
-            "pairs": 821,
+            "pairs": 817,
             "captureDays": 14
           },
           {
             "month": "2026-09",
-            "index": 102.27,
-            "pairs": 817,
+            "index": 102.28,
+            "pairs": 813,
             "captureDays": 11
           }
         ],
         "partial": {
           "month": "2026-10",
           "through": "2026-10-11",
-          "index": 102.68,
-          "pairs": 865,
+          "index": 102.61,
+          "pairs": 861,
           "captureDays": 5
         }
       },
@@ -348,34 +354,34 @@
             },
             {
               "month": "2026-06",
-              "index": 100.82,
-              "pairs": 165,
+              "index": 100.84,
+              "pairs": 162,
               "captureDays": 18
             },
             {
               "month": "2026-07",
-              "index": 102.52,
-              "pairs": 210,
+              "index": 102.56,
+              "pairs": 207,
               "captureDays": 21
             },
             {
               "month": "2026-08",
-              "index": 103.48,
-              "pairs": 216,
+              "index": 103.53,
+              "pairs": 214,
               "captureDays": 14
             },
             {
               "month": "2026-09",
-              "index": 104.92,
-              "pairs": 218,
+              "index": 104.98,
+              "pairs": 217,
               "captureDays": 11
             }
           ],
           "partial": {
             "month": "2026-10",
             "through": "2026-10-11",
-            "index": 105.45,
-            "pairs": 223,
+            "index": 105.51,
+            "pairs": 222,
             "captureDays": 5
           }
         },
@@ -405,21 +411,21 @@
             {
               "month": "2026-08",
               "index": 100.43,
-              "pairs": 175,
+              "pairs": 173,
               "captureDays": 14
             },
             {
               "month": "2026-09",
               "index": 101.09,
-              "pairs": 178,
+              "pairs": 176,
               "captureDays": 11
             }
           ],
           "partial": {
             "month": "2026-10",
             "through": "2026-10-11",
-            "index": 101.76,
-            "pairs": 192,
+            "index": 101.4,
+            "pairs": 190,
             "captureDays": 5
           }
         },
@@ -499,7 +505,7 @@
             {
               "month": "2026-09",
               "index": 100.67,
-              "pairs": 70,
+              "pairs": 69,
               "captureDays": 11
             }
           ],
@@ -507,51 +513,95 @@
             "month": "2026-10",
             "through": "2026-10-11",
             "index": 100.54,
-            "pairs": 72,
+            "pairs": 71,
             "captureDays": 5
           }
         },
         {
-          "id": "pet-food",
-          "label": "ペット・食品",
-          "series": 80,
+          "id": "pet",
+          "label": "ペット用品",
+          "series": 43,
           "months": [
             {
               "month": "2026-05",
               "index": 100,
-              "pairs": 55,
+              "pairs": 31,
               "captureDays": 10
             },
             {
               "month": "2026-06",
-              "index": 99.42,
-              "pairs": 54,
+              "index": 100.22,
+              "pairs": 30,
               "captureDays": 18
             },
             {
               "month": "2026-07",
-              "index": 100.58,
-              "pairs": 56,
+              "index": 101.37,
+              "pairs": 33,
               "captureDays": 21
             },
             {
               "month": "2026-08",
-              "index": 101.03,
-              "pairs": 55,
+              "index": 101.78,
+              "pairs": 33,
               "captureDays": 14
             },
             {
               "month": "2026-09",
-              "index": 99.68,
-              "pairs": 55,
+              "index": 102.14,
+              "pairs": 33,
               "captureDays": 11
             }
           ],
           "partial": {
             "month": "2026-10",
             "through": "2026-10-11",
-            "index": 100.08,
-            "pairs": 60,
+            "index": 103.89,
+            "pairs": 34,
+            "captureDays": 5
+          }
+        },
+        {
+          "id": "food",
+          "label": "食品・飲料",
+          "series": 37,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": 100,
+              "pairs": 24,
+              "captureDays": 10
+            },
+            {
+              "month": "2026-06",
+              "index": 98.43,
+              "pairs": 24,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": 99.61,
+              "pairs": 23,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": 100.12,
+              "pairs": 22,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": 96.31,
+              "pairs": 22,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": 95.05,
+            "pairs": 26,
             "captureDays": 5
           }
         },
@@ -1814,385 +1864,385 @@
         },
         {
           "date": "2026-06-06",
-          "eligible": 561,
+          "eligible": 558,
           "discounted": 12,
-          "share": 0.0214
+          "share": 0.0215
         },
         {
           "date": "2026-06-07",
-          "eligible": 676,
+          "eligible": 673,
           "discounted": 10,
-          "share": 0.0148
+          "share": 0.0149
         },
         {
           "date": "2026-06-08",
-          "eligible": 694,
-          "discounted": 11,
-          "share": 0.0159
-        },
-        {
-          "date": "2026-06-09",
           "eligible": 691,
           "discounted": 11,
           "share": 0.0159
         },
         {
+          "date": "2026-06-09",
+          "eligible": 688,
+          "discounted": 11,
+          "share": 0.016
+        },
+        {
           "date": "2026-06-10",
-          "eligible": 702,
+          "eligible": 699,
           "discounted": 10,
-          "share": 0.0142
+          "share": 0.0143
         },
         {
           "date": "2026-06-11",
-          "eligible": 704,
+          "eligible": 701,
           "discounted": 4,
           "share": 0.0057
         },
         {
           "date": "2026-06-12",
-          "eligible": 748,
+          "eligible": 745,
           "discounted": 4,
-          "share": 0.0053
+          "share": 0.0054
         },
         {
           "date": "2026-06-14",
-          "eligible": 738,
+          "eligible": 735,
           "discounted": 2,
           "share": 0.0027
         },
         {
           "date": "2026-06-15",
-          "eligible": 756,
+          "eligible": 753,
           "discounted": 2,
-          "share": 0.0026
+          "share": 0.0027
         },
         {
           "date": "2026-06-17",
-          "eligible": 758,
+          "eligible": 755,
           "discounted": 2,
           "share": 0.0026
         },
         {
           "date": "2026-06-18",
-          "eligible": 769,
+          "eligible": 766,
           "discounted": 4,
           "share": 0.0052
         },
         {
           "date": "2026-06-20",
-          "eligible": 776,
-          "discounted": 7,
-          "share": 0.009
-        },
-        {
-          "date": "2026-06-22",
-          "eligible": 776,
-          "discounted": 5,
-          "share": 0.0064
-        },
-        {
-          "date": "2026-06-23",
-          "eligible": 768,
-          "discounted": 4,
-          "share": 0.0052
-        },
-        {
-          "date": "2026-06-24",
-          "eligible": 768,
-          "discounted": 4,
-          "share": 0.0052
-        },
-        {
-          "date": "2026-06-25",
           "eligible": 773,
           "discounted": 7,
           "share": 0.0091
         },
         {
-          "date": "2026-06-30",
-          "eligible": 773,
-          "discounted": 9,
-          "share": 0.0116
-        },
-        {
-          "date": "2026-07-01",
-          "eligible": 762,
-          "discounted": 4,
-          "share": 0.0052
-        },
-        {
-          "date": "2026-07-02",
-          "eligible": 762,
-          "discounted": 4,
-          "share": 0.0052
-        },
-        {
-          "date": "2026-07-04",
+          "date": "2026-06-22",
           "eligible": 773,
           "discounted": 5,
           "share": 0.0065
         },
         {
-          "date": "2026-07-05",
-          "eligible": 805,
-          "discounted": 6,
-          "share": 0.0075
+          "date": "2026-06-23",
+          "eligible": 765,
+          "discounted": 4,
+          "share": 0.0052
         },
         {
-          "date": "2026-07-06",
+          "date": "2026-06-24",
+          "eligible": 765,
+          "discounted": 4,
+          "share": 0.0052
+        },
+        {
+          "date": "2026-06-25",
+          "eligible": 770,
+          "discounted": 7,
+          "share": 0.0091
+        },
+        {
+          "date": "2026-06-30",
+          "eligible": 770,
+          "discounted": 9,
+          "share": 0.0117
+        },
+        {
+          "date": "2026-07-01",
+          "eligible": 759,
+          "discounted": 4,
+          "share": 0.0053
+        },
+        {
+          "date": "2026-07-02",
+          "eligible": 759,
+          "discounted": 4,
+          "share": 0.0053
+        },
+        {
+          "date": "2026-07-04",
+          "eligible": 770,
+          "discounted": 5,
+          "share": 0.0065
+        },
+        {
+          "date": "2026-07-05",
           "eligible": 802,
           "discounted": 6,
           "share": 0.0075
         },
         {
+          "date": "2026-07-06",
+          "eligible": 799,
+          "discounted": 6,
+          "share": 0.0075
+        },
+        {
           "date": "2026-07-08",
-          "eligible": 798,
-          "discounted": 5,
-          "share": 0.0063
-        },
-        {
-          "date": "2026-07-09",
-          "eligible": 790,
-          "discounted": 7,
-          "share": 0.0089
-        },
-        {
-          "date": "2026-07-11",
-          "eligible": 791,
-          "discounted": 5,
-          "share": 0.0063
-        },
-        {
-          "date": "2026-07-12",
-          "eligible": 790,
-          "discounted": 5,
-          "share": 0.0063
-        },
-        {
-          "date": "2026-07-14",
-          "eligible": 794,
-          "discounted": 2,
-          "share": 0.0025
-        },
-        {
-          "date": "2026-07-15",
           "eligible": 795,
           "discounted": 5,
           "share": 0.0063
         },
         {
+          "date": "2026-07-09",
+          "eligible": 787,
+          "discounted": 7,
+          "share": 0.0089
+        },
+        {
+          "date": "2026-07-11",
+          "eligible": 788,
+          "discounted": 5,
+          "share": 0.0063
+        },
+        {
+          "date": "2026-07-12",
+          "eligible": 787,
+          "discounted": 5,
+          "share": 0.0064
+        },
+        {
+          "date": "2026-07-14",
+          "eligible": 791,
+          "discounted": 2,
+          "share": 0.0025
+        },
+        {
+          "date": "2026-07-15",
+          "eligible": 792,
+          "discounted": 5,
+          "share": 0.0063
+        },
+        {
           "date": "2026-07-17",
-          "eligible": 800,
+          "eligible": 797,
           "discounted": 6,
           "share": 0.0075
         },
         {
           "date": "2026-07-20",
-          "eligible": 817,
+          "eligible": 814,
           "discounted": 6,
-          "share": 0.0073
+          "share": 0.0074
         },
         {
           "date": "2026-07-21",
-          "eligible": 820,
+          "eligible": 817,
           "discounted": 6,
           "share": 0.0073
         },
         {
           "date": "2026-07-22",
-          "eligible": 806,
+          "eligible": 802,
           "discounted": 6,
-          "share": 0.0074
+          "share": 0.0075
         },
         {
           "date": "2026-07-23",
-          "eligible": 806,
+          "eligible": 802,
           "discounted": 6,
-          "share": 0.0074
+          "share": 0.0075
         },
         {
           "date": "2026-07-25",
-          "eligible": 803,
+          "eligible": 799,
           "discounted": 7,
-          "share": 0.0087
+          "share": 0.0088
         },
         {
           "date": "2026-07-27",
-          "eligible": 817,
+          "eligible": 813,
           "discounted": 5,
-          "share": 0.0061
+          "share": 0.0062
         },
         {
           "date": "2026-07-28",
-          "eligible": 817,
+          "eligible": 813,
           "discounted": 4,
           "share": 0.0049
         },
         {
           "date": "2026-07-29",
-          "eligible": 806,
+          "eligible": 802,
           "discounted": 3,
           "share": 0.0037
         },
         {
           "date": "2026-07-31",
-          "eligible": 805,
+          "eligible": 801,
           "discounted": 3,
           "share": 0.0037
         },
         {
           "date": "2026-08-01",
-          "eligible": 810,
+          "eligible": 807,
           "discounted": 9,
-          "share": 0.0111
+          "share": 0.0112
         },
         {
           "date": "2026-08-02",
-          "eligible": 808,
+          "eligible": 805,
           "discounted": 10,
           "share": 0.0124
         },
         {
           "date": "2026-08-04",
-          "eligible": 808,
+          "eligible": 805,
           "discounted": 7,
           "share": 0.0087
         },
         {
           "date": "2026-08-06",
-          "eligible": 820,
-          "discounted": 10,
-          "share": 0.0122
-        },
-        {
-          "date": "2026-08-07",
           "eligible": 817,
           "discounted": 10,
           "share": 0.0122
         },
         {
+          "date": "2026-08-07",
+          "eligible": 814,
+          "discounted": 10,
+          "share": 0.0123
+        },
+        {
           "date": "2026-08-08",
-          "eligible": 822,
+          "eligible": 819,
           "discounted": 11,
           "share": 0.0134
         },
         {
           "date": "2026-08-09",
-          "eligible": 832,
+          "eligible": 828,
           "discounted": 11,
-          "share": 0.0132
+          "share": 0.0133
         },
         {
           "date": "2026-08-12",
-          "eligible": 824,
+          "eligible": 820,
           "discounted": 7,
           "share": 0.0085
         },
         {
           "date": "2026-08-13",
-          "eligible": 821,
+          "eligible": 817,
           "discounted": 7,
-          "share": 0.0085
+          "share": 0.0086
         },
         {
           "date": "2026-08-17",
-          "eligible": 794,
+          "eligible": 790,
           "discounted": 8,
           "share": 0.0101
         },
         {
           "date": "2026-08-19",
-          "eligible": 781,
+          "eligible": 777,
           "discounted": 6,
           "share": 0.0077
         },
         {
           "date": "2026-08-21",
-          "eligible": 777,
+          "eligible": 773,
           "discounted": 8,
           "share": 0.0103
         },
         {
           "date": "2026-08-22",
-          "eligible": 790,
+          "eligible": 787,
           "discounted": 9,
           "share": 0.0114
         },
         {
           "date": "2026-08-26",
-          "eligible": 808,
+          "eligible": 805,
           "discounted": 17,
-          "share": 0.021
+          "share": 0.0211
         },
         {
           "date": "2026-09-03",
-          "eligible": 809,
+          "eligible": 806,
           "discounted": 32,
-          "share": 0.0396
+          "share": 0.0397
         },
         {
           "date": "2026-09-05",
-          "eligible": 812,
+          "eligible": 809,
           "discounted": 34,
-          "share": 0.0419
+          "share": 0.042
         },
         {
           "date": "2026-09-06",
-          "eligible": 773,
+          "eligible": 770,
           "discounted": 27,
-          "share": 0.0349
+          "share": 0.0351
         },
         {
           "date": "2026-09-10",
-          "eligible": 808,
+          "eligible": 805,
           "discounted": 27,
-          "share": 0.0334
+          "share": 0.0335
         },
         {
           "date": "2026-09-16",
-          "eligible": 809,
+          "eligible": 805,
           "discounted": 5,
           "share": 0.0062
         },
         {
           "date": "2026-09-19",
-          "eligible": 829,
-          "discounted": 3,
-          "share": 0.0036
-        },
-        {
-          "date": "2026-09-22",
           "eligible": 826,
           "discounted": 3,
           "share": 0.0036
         },
         {
+          "date": "2026-09-22",
+          "eligible": 823,
+          "discounted": 3,
+          "share": 0.0036
+        },
+        {
           "date": "2026-09-23",
-          "eligible": 828,
+          "eligible": 825,
           "discounted": 3,
           "share": 0.0036
         },
         {
           "date": "2026-09-26",
-          "eligible": 830,
+          "eligible": 826,
           "discounted": 2,
           "share": 0.0024
         },
         {
           "date": "2026-09-29",
-          "eligible": 834,
+          "eligible": 830,
           "discounted": 1,
           "share": 0.0012
         },
         {
           "date": "2026-09-30",
-          "eligible": 860,
+          "eligible": 856,
           "discounted": 2,
           "share": 0.0023
         },
         {
           "date": "2026-10-04",
-          "eligible": 854,
+          "eligible": 850,
           "discounted": 5,
           "share": 0.0059
         },
@@ -2204,19 +2254,19 @@
         },
         {
           "date": "2026-10-06",
-          "eligible": 854,
+          "eligible": 850,
           "discounted": 6,
-          "share": 0.007
+          "share": 0.0071
         },
         {
           "date": "2026-10-08",
-          "eligible": 860,
+          "eligible": 856,
           "discounted": 6,
           "share": 0.007
         },
         {
           "date": "2026-10-11",
-          "eligible": 837,
+          "eligible": 833,
           "discounted": 2,
           "share": 0.0024
         }
@@ -2244,7 +2294,7 @@
           "unresolvedNoBaseline": 5
         },
         "manual": {
-          "observations": 0
+          "observations": 117
         }
       },
       "coverage": {
@@ -2283,24 +2333,24 @@
           },
           {
             "month": "2026-08",
-            "series": 693,
+            "series": 691,
             "captureDays": 14,
-            "retainedFromPrev": 580,
-            "retentionRate": 0.9265
+            "retainedFromPrev": 578,
+            "retentionRate": 0.9233
           },
           {
             "month": "2026-09",
-            "series": 767,
+            "series": 762,
             "captureDays": 11,
-            "retainedFromPrev": 624,
-            "retentionRate": 0.9004
+            "retainedFromPrev": 619,
+            "retentionRate": 0.8958
           },
           {
             "month": "2026-10",
-            "series": 692,
+            "series": 686,
             "captureDays": 4,
-            "retainedFromPrev": 682,
-            "retentionRate": 0.8892
+            "retainedFromPrev": 676,
+            "retentionRate": 0.8871
           }
         ]
       },
@@ -2320,28 +2370,28 @@
           },
           {
             "month": "2026-07",
-            "index": 100.06,
+            "index": 100.1,
             "pairs": 519,
             "captureDays": 21
           },
           {
             "month": "2026-08",
-            "index": 100.79,
-            "pairs": 580,
+            "index": 100.91,
+            "pairs": 578,
             "captureDays": 14
           },
           {
             "month": "2026-09",
-            "index": 102.36,
-            "pairs": 624,
+            "index": 101.35,
+            "pairs": 619,
             "captureDays": 11
           }
         ],
         "partial": {
           "month": "2026-10",
           "through": "2026-10-11",
-          "index": 102.17,
-          "pairs": 682,
+          "index": 101.28,
+          "pairs": 676,
           "captureDays": 4
         }
       },
@@ -2421,16 +2471,16 @@
             },
             {
               "month": "2026-09",
-              "index": 102.52,
-              "pairs": 156,
+              "index": 101.3,
+              "pairs": 155,
               "captureDays": 11
             }
           ],
           "partial": {
             "month": "2026-10",
             "through": "2026-10-11",
-            "index": 102.36,
-            "pairs": 163,
+            "index": 101.13,
+            "pairs": 162,
             "captureDays": 4
           }
         },
@@ -2459,22 +2509,22 @@
             },
             {
               "month": "2026-08",
-              "index": 101.16,
-              "pairs": 134,
+              "index": 101.17,
+              "pairs": 133,
               "captureDays": 14
             },
             {
               "month": "2026-09",
-              "index": 103.99,
-              "pairs": 141,
+              "index": 101.4,
+              "pairs": 138,
               "captureDays": 11
             }
           ],
           "partial": {
             "month": "2026-10",
             "through": "2026-10-11",
-            "index": 103.57,
-            "pairs": 155,
+            "index": 100.98,
+            "pairs": 152,
             "captureDays": 4
           }
         },
@@ -2497,28 +2547,28 @@
             },
             {
               "month": "2026-07",
-              "index": 101.81,
+              "index": 102.33,
               "pairs": 46,
               "captureDays": 21
             },
             {
               "month": "2026-08",
-              "index": 102.05,
-              "pairs": 58,
+              "index": 103.38,
+              "pairs": 57,
               "captureDays": 14
             },
             {
               "month": "2026-09",
-              "index": 106.14,
-              "pairs": 53,
+              "index": 104.54,
+              "pairs": 52,
               "captureDays": 11
             }
           ],
           "partial": {
             "month": "2026-10",
             "through": "2026-10-11",
-            "index": 106.29,
-            "pairs": 62,
+            "index": 104.69,
+            "pairs": 61,
             "captureDays": 4
           }
         },
@@ -2567,46 +2617,90 @@
           }
         },
         {
-          "id": "pet-food",
-          "label": "ペット・食品",
-          "series": 65,
+          "id": "pet",
+          "label": "ペット用品",
+          "series": 49,
           "months": [
             {
               "month": "2026-05",
               "index": 100,
-              "pairs": 35,
+              "pairs": 27,
               "captureDays": 8
             },
             {
               "month": "2026-06",
-              "index": 99.82,
-              "pairs": 34,
+              "index": 100,
+              "pairs": 26,
               "captureDays": 18
             },
             {
               "month": "2026-07",
-              "index": 101.41,
-              "pairs": 38,
+              "index": 100.11,
+              "pairs": 29,
               "captureDays": 21
             },
             {
               "month": "2026-08",
-              "index": 102.64,
-              "pairs": 39,
+              "index": 100.77,
+              "pairs": 29,
               "captureDays": 14
             },
             {
               "month": "2026-09",
-              "index": 103.2,
-              "pairs": 44,
+              "index": 102.07,
+              "pairs": 34,
               "captureDays": 11
             }
           ],
           "partial": {
             "month": "2026-10",
             "through": "2026-10-11",
-            "index": 101.59,
-            "pairs": 50,
+            "index": 102.64,
+            "pairs": 38,
+            "captureDays": 4
+          }
+        },
+        {
+          "id": "food",
+          "label": "食品・飲料",
+          "series": 16,
+          "months": [
+            {
+              "month": "2026-05",
+              "index": null,
+              "pairs": 8,
+              "captureDays": 8
+            },
+            {
+              "month": "2026-06",
+              "index": null,
+              "pairs": 8,
+              "captureDays": 18
+            },
+            {
+              "month": "2026-07",
+              "index": null,
+              "pairs": 9,
+              "captureDays": 21
+            },
+            {
+              "month": "2026-08",
+              "index": null,
+              "pairs": 10,
+              "captureDays": 14
+            },
+            {
+              "month": "2026-09",
+              "index": null,
+              "pairs": 10,
+              "captureDays": 11
+            }
+          ],
+          "partial": {
+            "month": "2026-10",
+            "through": "2026-10-11",
+            "index": null,
+            "pairs": 11,
             "captureDays": 4
           }
         },
@@ -3080,225 +3174,225 @@
         },
         {
           "date": "2026-07-21",
-          "eligible": 566,
+          "eligible": 565,
           "discounted": 10,
           "share": 0.0177
         },
         {
           "date": "2026-07-22",
-          "eligible": 560,
+          "eligible": 559,
           "discounted": 9,
           "share": 0.0161
         },
         {
           "date": "2026-07-23",
-          "eligible": 560,
+          "eligible": 559,
           "discounted": 8,
           "share": 0.0143
         },
         {
           "date": "2026-07-25",
-          "eligible": 559,
+          "eligible": 558,
           "discounted": 10,
           "share": 0.0179
         },
         {
           "date": "2026-07-27",
-          "eligible": 570,
+          "eligible": 569,
           "discounted": 11,
           "share": 0.0193
         },
         {
           "date": "2026-07-28",
-          "eligible": 570,
-          "discounted": 8,
-          "share": 0.014
+          "eligible": 568,
+          "discounted": 7,
+          "share": 0.0123
         },
         {
           "date": "2026-07-29",
-          "eligible": 562,
-          "discounted": 7,
-          "share": 0.0125
+          "eligible": 561,
+          "discounted": 6,
+          "share": 0.0107
         },
         {
           "date": "2026-07-31",
-          "eligible": 563,
-          "discounted": 4,
-          "share": 0.0071
+          "eligible": 562,
+          "discounted": 3,
+          "share": 0.0053
         },
         {
           "date": "2026-08-01",
-          "eligible": 558,
-          "discounted": 5,
-          "share": 0.009
+          "eligible": 557,
+          "discounted": 4,
+          "share": 0.0072
         },
         {
           "date": "2026-08-02",
-          "eligible": 570,
-          "discounted": 8,
-          "share": 0.014
+          "eligible": 569,
+          "discounted": 7,
+          "share": 0.0123
         },
         {
           "date": "2026-08-04",
-          "eligible": 572,
-          "discounted": 7,
-          "share": 0.0122
+          "eligible": 571,
+          "discounted": 6,
+          "share": 0.0105
         },
         {
           "date": "2026-08-06",
-          "eligible": 580,
-          "discounted": 7,
-          "share": 0.0121
+          "eligible": 578,
+          "discounted": 6,
+          "share": 0.0104
         },
         {
           "date": "2026-08-07",
-          "eligible": 584,
-          "discounted": 5,
-          "share": 0.0086
+          "eligible": 582,
+          "discounted": 4,
+          "share": 0.0069
         },
         {
           "date": "2026-08-08",
-          "eligible": 585,
-          "discounted": 5,
-          "share": 0.0085
+          "eligible": 583,
+          "discounted": 4,
+          "share": 0.0069
         },
         {
           "date": "2026-08-09",
-          "eligible": 597,
-          "discounted": 6,
-          "share": 0.0101
-        },
-        {
-          "date": "2026-08-12",
-          "eligible": 594,
-          "discounted": 5,
-          "share": 0.0084
-        },
-        {
-          "date": "2026-08-13",
           "eligible": 595,
           "discounted": 5,
           "share": 0.0084
         },
         {
+          "date": "2026-08-12",
+          "eligible": 592,
+          "discounted": 5,
+          "share": 0.0084
+        },
+        {
+          "date": "2026-08-13",
+          "eligible": 593,
+          "discounted": 5,
+          "share": 0.0084
+        },
+        {
           "date": "2026-08-17",
-          "eligible": 576,
+          "eligible": 574,
           "discounted": 5,
           "share": 0.0087
         },
         {
           "date": "2026-08-19",
-          "eligible": 561,
+          "eligible": 558,
           "discounted": 1,
           "share": 0.0018
         },
         {
           "date": "2026-08-21",
-          "eligible": 554,
+          "eligible": 551,
           "discounted": 0,
           "share": 0
         },
         {
           "date": "2026-08-22",
-          "eligible": 581,
+          "eligible": 578,
+          "discounted": 2,
+          "share": 0.0035
+        },
+        {
+          "date": "2026-08-26",
+          "eligible": 596,
           "discounted": 2,
           "share": 0.0034
         },
         {
-          "date": "2026-08-26",
-          "eligible": 599,
-          "discounted": 2,
-          "share": 0.0033
-        },
-        {
           "date": "2026-09-03",
-          "eligible": 601,
+          "eligible": 596,
           "discounted": 2,
-          "share": 0.0033
+          "share": 0.0034
         },
         {
           "date": "2026-09-05",
-          "eligible": 619,
+          "eligible": 614,
           "discounted": 3,
-          "share": 0.0048
+          "share": 0.0049
         },
         {
           "date": "2026-09-06",
-          "eligible": 584,
+          "eligible": 580,
           "discounted": 3,
-          "share": 0.0051
+          "share": 0.0052
         },
         {
           "date": "2026-09-10",
-          "eligible": 600,
+          "eligible": 596,
           "discounted": 9,
-          "share": 0.015
+          "share": 0.0151
         },
         {
           "date": "2026-09-16",
-          "eligible": 600,
+          "eligible": 595,
           "discounted": 7,
-          "share": 0.0117
+          "share": 0.0118
         },
         {
           "date": "2026-09-19",
-          "eligible": 615,
+          "eligible": 610,
           "discounted": 8,
-          "share": 0.013
+          "share": 0.0131
         },
         {
           "date": "2026-09-22",
-          "eligible": 630,
+          "eligible": 625,
           "discounted": 8,
-          "share": 0.0127
+          "share": 0.0128
         },
         {
           "date": "2026-09-23",
-          "eligible": 635,
+          "eligible": 630,
           "discounted": 7,
-          "share": 0.011
+          "share": 0.0111
         },
         {
           "date": "2026-09-26",
-          "eligible": 643,
+          "eligible": 638,
           "discounted": 4,
-          "share": 0.0062
+          "share": 0.0063
         },
         {
           "date": "2026-09-29",
-          "eligible": 650,
-          "discounted": 6,
-          "share": 0.0092
+          "eligible": 644,
+          "discounted": 5,
+          "share": 0.0078
         },
         {
           "date": "2026-09-30",
-          "eligible": 660,
-          "discounted": 8,
-          "share": 0.0121
+          "eligible": 654,
+          "discounted": 7,
+          "share": 0.0107
         },
         {
           "date": "2026-10-04",
-          "eligible": 655,
-          "discounted": 6,
-          "share": 0.0092
+          "eligible": 649,
+          "discounted": 5,
+          "share": 0.0077
         },
         {
           "date": "2026-10-06",
-          "eligible": 667,
-          "discounted": 6,
-          "share": 0.009
+          "eligible": 661,
+          "discounted": 5,
+          "share": 0.0076
         },
         {
           "date": "2026-10-08",
-          "eligible": 676,
-          "discounted": 11,
-          "share": 0.0163
+          "eligible": 670,
+          "discounted": 10,
+          "share": 0.0149
         },
         {
           "date": "2026-10-11",
-          "eligible": 657,
-          "discounted": 11,
-          "share": 0.0167
+          "eligible": 651,
+          "discounted": 10,
+          "share": 0.0154
         }
       ]
     }
