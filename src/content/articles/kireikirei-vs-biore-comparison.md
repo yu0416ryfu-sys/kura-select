@@ -3,7 +3,7 @@ title: "キレイキレイとビオレuどっちがいい？【2026年版】殺�
 description: "キレイキレイ（ライオン）とビオレu（花王）のハンドソープはどっちがいい？定番2ブランドの違いを、薬用殺菌成分の位置づけ・泡と液体の選択肢・1mLあたりの単価・肌あたりの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "hand-soap"
 publishedAt: "2026-08-31"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 articleType: "comparison"
 draft: false
 products:
@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Freonstyle%2F4901301243935.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 1400
         rating: 4.78
-        reviewCount: 45
+        reviewCount: 46
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/reonstyle_4901301243935"
         available: true
     genreId: "204748"
@@ -68,10 +68,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos00871.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 2459
-        rating: 4.79
-        reviewCount: 33
+        rating: 4.8
+        reviewCount: 35
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos00871"
         available: true
     genreId: "304758"
@@ -103,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301446404.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 1149
         rating: 0
         reviewCount: 0
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3242257/"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 535
         rating: 4.65
         reviewCount: 210
@@ -171,7 +171,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3112833/"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 4180
         rating: 4.81
         reviewCount: 73
@@ -206,8 +206,8 @@ products:
     price: 475
     capacity: "450ml"
     pricePerUnit: "約1.1円/mL"
-    rating: 4.79
-    reviewCount: 92
+    rating: 4.8
+    reviewCount: 93
     features:
       - "医薬部外品の薬用泡ハンドソープ詰め替え"
       - "店頭でも見つけやすい定番の大型サイズ"
@@ -225,13 +225,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/9836705/"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10068791.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
-        price: 479
-        rating: 4.5
-        reviewCount: 127
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_9836705"
+        updatedAt: "2026-10-11"
+        price: 328
+        rating: 5
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10068791"
         available: true
     genreId: "304758"
   - rank: 8
@@ -239,8 +239,8 @@ products:
     brand: "花王（ビオレu）"
     price: 397
     capacity: "770mL"
-    rating: 4.57
-    reviewCount: 21
+    rating: 4.59
+    reviewCount: 22
     features:
       - "標準的なサイズの泡ハンドソープ詰め替え"
       - "香りのバリエーションが複数展開されている"
@@ -262,7 +262,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2874540019.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-11"
         price: 578
         rating: 4.8
         reviewCount: 5

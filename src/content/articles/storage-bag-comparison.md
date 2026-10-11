@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 products:
   - rank: 1
     name: "システムポリマー XP-11 スライダー付ジッパー保存袋"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4997495112409.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 182
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4997495112409"
         available: true
@@ -254,7 +254,7 @@ products:
     recommendedFor: "光・湿気・臭いを防いで長期保存したい方・乾物や茶葉を保存する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2sxn.3rdw6fcb.g00t2sxn.3rdw7915/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffishingkingdom%2Fqa100085%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffishingkingdom%2Fi%2F10001404%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fishingkingdom/cabinet/biiino/item/main-image-2/20240802145259_1.jpg?_ex=128x128"
-    priceMax: 4128
+    priceMax: 99999
     genreId: "101843"
 tags:
   - "フリーザーバッグ"

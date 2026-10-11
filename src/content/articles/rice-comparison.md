@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 products:
   - rank: 1
     name: "国内産 ブレンド米 白米 10kg（訳あり）"
@@ -43,9 +43,9 @@ products:
   - rank: 2
     name: "令和7年産 無洗米 三重県産コシヒカリ 10kg"
     brand: "ハーベストシーズン"
-    price: 5890
+    price: 5799
     capacity: "10kg"
-    pricePerUnit: "約589円/kg"
+    pricePerUnit: "約580円/kg"
     rating: 4.61
     reviewCount: 4527
     features:
@@ -109,29 +109,6 @@ products:
         reviewCount: 637
     genreId: "201184"
   - rank: 4
-    name: "無洗米 富山県産コシヒカリ 10kg"
-    brand: "ヤマトライス"
-    price: 6780
-    capacity: "10kg"
-    features:
-      - "富山県産コシヒカリの無洗米"
-      - "5kg×2袋で保管しやすい"
-      - "単一原料米として産地と銘柄を確認しやすい"
-    pros:
-      - "毎日の炊飯に使いやすい定番タイプ"
-      - "無洗米で炊飯前の準備を短縮できる"
-      - "5kg袋単位で開封タイミングを分けやすい"
-    cons:
-      - "銘柄の食味は好みが分かれる"
-      - "まとめ買いのため保管場所が必要"
-    recommendedFor: "富山県産コシヒカリを日常用に選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r5uxn.3rdw630e.g00r5uxn.3rdw7dc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamatorice%2F10000070%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamatorice%2Fi%2F10000070%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    rating: 4.67
-    reviewCount: 152
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/tym/koshi/bg/000324-2sale_.jpg?_ex=128x128"
-    pricePerUnit: "約678円/kg"
-    genreId: "201184"
-  - rank: 5
     name: "令和8年産 無洗米 新潟産コシヒカリ 10kg"
     brand: "ミツハシライス"
     price: 6800
@@ -149,8 +126,8 @@ products:
       - "無洗米は水加減に慣れが必要な場合がある"
     recommendedFor: "新潟県産コシヒカリを無洗米で使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3eon.3rdw616f.g00q3eon.3rdw7349/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakizawa%2F2019090073%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftakizawa%2Fi%2F10000227%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    rating: 4.88
-    reviewCount: 140
+    rating: 4.86
+    reviewCount: 141
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/takizawa/cabinet/syouhinn/08533100/musenmai10kgver3.jpg?_ex=128x128"
     pricePerUnit: "約680円/kg"
     offers:
@@ -164,6 +141,29 @@ products:
         available: true
         rating: 4.93
         reviewCount: 14
+    genreId: "201184"
+  - rank: 5
+    name: "無洗米 富山県産コシヒカリ 10kg"
+    brand: "ヤマトライス"
+    price: 7280
+    capacity: "10kg"
+    features:
+      - "富山県産コシヒカリの無洗米"
+      - "5kg×2袋で保管しやすい"
+      - "単一原料米として産地と銘柄を確認しやすい"
+    pros:
+      - "毎日の炊飯に使いやすい定番タイプ"
+      - "無洗米で炊飯前の準備を短縮できる"
+      - "5kg袋単位で開封タイミングを分けやすい"
+    cons:
+      - "銘柄の食味は好みが分かれる"
+      - "まとめ買いのため保管場所が必要"
+    recommendedFor: "富山県産コシヒカリを日常用に選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r5uxn.3rdw630e.g00r5uxn.3rdw7dc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamatorice%2F10000070%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamatorice%2Fi%2F10000070%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rating: 4.67
+    reviewCount: 152
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/tym/koshi/bg/000324-2_.jpg?_ex=128x128"
+    pricePerUnit: "約728円/kg"
     genreId: "201184"
   - rank: 6
     name: "令和7年産 無洗米 茨城県産コシヒカリ 10kg"
@@ -239,7 +239,7 @@ products:
     price: 8710
     capacity: "18kg〜20kg"
     rating: 4.74
-    reviewCount: 45838
+    reviewCount: 45839
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

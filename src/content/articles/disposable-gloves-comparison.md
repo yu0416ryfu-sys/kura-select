@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 products:
   - rank: 1
     name: "PVCグローブ 100枚×20箱"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh734020.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 6776
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh734020"
         available: true
@@ -128,7 +128,7 @@ products:
     recommendedFor: "掃除や調理補助に備えやすい"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz0kn.3rdw6a1c.g00tz0kn.3rdw7d29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbt-iimono%2Fpvc-m-01-2000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbt-iimono%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bt-iimono/cabinet/07914503/new-pvc.jpg?_ex=128x128"
-    priceMax: 6785
+    priceMax: 6775
     genreId: "401632"
   - rank: 5
     name: "プラスチック手袋 パウダーフリー 100枚"
@@ -156,7 +156,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh8451-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 418
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh8451-1"
         available: true
@@ -238,7 +238,7 @@ products:
     price: 890
     capacity: "100枚"
     rating: 4.57
-    reviewCount: 3746
+    reviewCount: 3753
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -261,7 +261,7 @@ products:
     price: 890
     capacity: "100枚"
     rating: 4.7
-    reviewCount: 1511
+    reviewCount: 1514
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -287,7 +287,7 @@ products:
         reviewCount: 2305
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
         available: true
-    priceMax: 33500
+    priceMax: 33480
     genreId: "401632"
   - rank: 10
     name: "調理用ビニール使いきり極薄手袋"

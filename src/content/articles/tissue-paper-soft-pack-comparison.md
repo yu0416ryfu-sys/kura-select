@@ -108,6 +108,16 @@ products:
         matchedCapacity: "150組 5個×18パック（90個）"
         matchNotes: "入数違い採用（楽天は150組×100個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkilat%2F3m9496.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-11"
+        price: 5280
+        rating: 4.67
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_3m9496"
+        available: true
     genreId: "100670"
   - rank: 5
     name: "ネピア ソフトパックティッシュ 200組 90個"

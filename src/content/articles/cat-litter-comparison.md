@@ -4,7 +4,7 @@ description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペ
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "7L×6袋（42L）"
     pricePerUnit: "約95円/L"
     rating: 4.25
-    reviewCount: 857
+    reviewCount: 858
     features:
       - "アイリスオーヤマ製のペレットタイプ紙製猫砂"
       - "燃えるゴミとして廃棄可能・トイレへの廃棄にも対応"
@@ -48,7 +48,7 @@ products:
     capacity: "6.5L×8袋（52L）"
     pricePerUnit: "約99円/L"
     rating: 4.55
-    reviewCount: 2397
+    reviewCount: 2398
     features:
       - "国産再生紙由来の紙製猫砂"
       - "濡れると色が変わる変色機能付き"
@@ -62,7 +62,7 @@ products:
       - "好みによっては紙独特の使用感が気になる場合がある"
     recommendedFor: "猫の健康チェックや軽量・廃棄の手軽さを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10005169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10005169%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo16/r1460_00028.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/cat_litter01/200811_pb_06.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -105,7 +105,7 @@ products:
     capacity: "6L×8袋（48L）"
     pricePerUnit: "約108円/L"
     rating: 4.59
-    reviewCount: 3345
+    reviewCount: 3346
     features:
       - "国産おから（大豆粕）由来の植物系猫砂"
       - "トイレに流せる・燃えるゴミに出せる処理方法の選択肢が広い"
@@ -119,7 +119,7 @@ products:
       - "流す際は一度に大量に流さないよう注意が必要"
     recommendedFor: "国産・植物系素材で手軽に処理できる猫砂を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10014011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10014011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo16/r1460_00230.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/cat_litter01/200811_pb_02.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -139,7 +139,7 @@ products:
     capacity: "7L×4袋（28L）"
     pricePerUnit: "約114円/L"
     rating: 4.35
-    reviewCount: 2242
+    reviewCount: 2243
     features:
       - "炭配合の木質系猫砂、固まるタイプ"
       - "燃えるゴミとして廃棄可能"
@@ -190,40 +190,6 @@ products:
         reviewCount: 10
     genreId: "204174"
   - rank: 7
-    name: "ペットキレイ ニオイをとる砂"
-    brand: "ライオン"
-    price: 3511
-    capacity: "5L×4袋（20L）"
-    pricePerUnit: "約176円/L"
-    rating: 4.69
-    reviewCount: 2436
-    features:
-      - "ベントナイト鉱物系・固まるタイプの消臭猫砂"
-      - "大手メーカーライオンによる消臭設計"
-      - "使用時のホコリを抑えた処方"
-    pros:
-      - "大手ブランドの品質安定性と入手しやすさが特徴"
-      - "固まりが硬く処理しやすい鉱物系の使い勝手"
-      - "ホコリが抑えられており猫のトイレ環境を整えやすい"
-    cons:
-      - "鉱物系のため重量があり保管・廃棄に場所が必要"
-      - "燃えないゴミとして処理する地域が多い"
-    recommendedFor: "大手ブランドの安定品質で固まりやすい鉱物系を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe390373h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10315882%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/134/10134.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903351011250x4.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-04"
-        price: 3180
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903351011250x4"
-        available: true
-        rating: 4.79
-        reviewCount: 127
-    genreId: "204174"
-  - rank: 8
     name: "クリーンサンド"
     brand: "アイリスオーヤマ"
     price: 2680
@@ -255,7 +221,41 @@ products:
         available: true
         rating: 0
         reviewCount: 2
-    priceMax: 3980
+    genreId: "204174"
+    pricePerUnit: "約134円/L"
+  - rank: 8
+    name: "ペットキレイ ニオイをとる砂"
+    brand: "ライオン"
+    price: 3511
+    capacity: "5L×4袋（20L）"
+    pricePerUnit: "約176円/L"
+    rating: 4.69
+    reviewCount: 2437
+    features:
+      - "ベントナイト鉱物系・固まるタイプの消臭猫砂"
+      - "大手メーカーライオンによる消臭設計"
+      - "使用時のホコリを抑えた処方"
+    pros:
+      - "大手ブランドの品質安定性と入手しやすさが特徴"
+      - "固まりが硬く処理しやすい鉱物系の使い勝手"
+      - "ホコリが抑えられており猫のトイレ環境を整えやすい"
+    cons:
+      - "鉱物系のため重量があり保管・廃棄に場所が必要"
+      - "燃えないゴミとして処理する地域が多い"
+    recommendedFor: "大手ブランドの安定品質で固まりやすい鉱物系を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe390373h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10315882%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/134/10134.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903351011250x4.html"
+        matchStatus: "matched"
+        updatedAt: "2026-10-04"
+        price: 3180
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903351011250x4"
+        available: true
+        rating: 4.79
+        reviewCount: 127
     genreId: "204174"
   - rank: 9
     name: "トフカスサンドK おから猫砂"
@@ -286,7 +286,7 @@ products:
     price: 4349
     capacity: "6L×3個（18L）"
     rating: 4.68
-    reviewCount: 2070
+    reviewCount: 2075
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"
@@ -300,7 +300,7 @@ products:
       - "他の国産品と比べてやや価格帯が上がる場合がある"
     recommendedFor: "海外ブランドの細粒鉱物系で固まり性能を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10014271%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10014271%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo16/r1460_00232.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/event_img/ss/100142_24y.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

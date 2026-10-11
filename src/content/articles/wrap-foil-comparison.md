@@ -4,14 +4,14 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"
     brand: "クレハ（クレラップ）"
-    price: 275
+    price: 328
     capacity: "15cm×50m"
-    pricePerUnit: "約5.5円/m"
+    pricePerUnit: "約6.6円/m"
     rating: 4.85
     reviewCount: 39
     features:
@@ -41,40 +41,6 @@ products:
         available: true
     genreId: "100633"
   - rank: 2
-    name: "NEWクレラップ お徳用レギュラー 30cm×50m"
-    brand: "クレハ（クレラップ）"
-    price: 455
-    capacity: "30cm×50m"
-    pricePerUnit: "約9.1円/m"
-    rating: 4.58
-    reviewCount: 79
-    features:
-      - "クレハのポリ塩化ビニリデン製ラップ・幅広30cmタイプ"
-      - "のこぎり刃でカットしやすい設計"
-      - "電子レンジ・冷凍保存に対応"
-    pros:
-      - "大皿やボウルをカバーできる30cm幅で使い勝手が広い"
-      - "密着性が高く食品の酸化・乾燥を防ぎやすい"
-      - "50mの徳用サイズで交換頻度を抑えられる"
-    cons:
-      - "小さい容器には幅が余りやすい"
-      - "ポリ塩化ビニリデン製のため高温調理での使用には注意が必要"
-    recommendedFor: "大きな食器を多用する方・まとめ買いでコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901422153502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10072573%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/55/4901422153502.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901422153502.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-19"
-        price: 501
-        rating: 4.86
-        reviewCount: 7
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901422153502"
-        available: true
-    genreId: "100633"
-  - rank: 3
     name: "サランラップ 22cm×50m"
     brand: "旭化成（サランラップ）"
     price: 471
@@ -106,6 +72,40 @@ products:
         rating: 5
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_71920-1"
+        available: true
+    genreId: "100633"
+  - rank: 3
+    name: "NEWクレラップ お徳用レギュラー 30cm×50m"
+    brand: "クレハ（クレラップ）"
+    price: 498
+    capacity: "30cm×50m"
+    pricePerUnit: "約10.0円/m"
+    rating: 4.58
+    reviewCount: 79
+    features:
+      - "クレハのポリ塩化ビニリデン製ラップ・幅広30cmタイプ"
+      - "のこぎり刃でカットしやすい設計"
+      - "電子レンジ・冷凍保存に対応"
+    pros:
+      - "大皿やボウルをカバーできる30cm幅で使い勝手が広い"
+      - "密着性が高く食品の酸化・乾燥を防ぎやすい"
+      - "50mの徳用サイズで交換頻度を抑えられる"
+    cons:
+      - "小さい容器には幅が余りやすい"
+      - "ポリ塩化ビニリデン製のため高温調理での使用には注意が必要"
+    recommendedFor: "大きな食器を多用する方・まとめ買いでコストを抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901422153502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10072573%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/55/4901422153502.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901422153502.html"
+        matchStatus: "matched"
+        updatedAt: "2026-09-19"
+        price: 501
+        rating: 4.86
+        reviewCount: 7
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901422153502"
         available: true
     genreId: "100633"
   - rank: 4
@@ -270,7 +270,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j662098/"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-11"
         price: 1232
         rating: 4.69
         reviewCount: 676

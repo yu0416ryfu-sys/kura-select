@@ -4,7 +4,7 @@ description: "大人用紙おむつ・尿とりパッドのおすすめ10選を1
 category: "adult-diaper"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 products:
   - rank: 1
     name: "ひまわり にっこり緑茶パッド 2回吸収 300枚"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F10004173.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-07"
+        updatedAt: "2026-10-11"
         price: 7304
         rating: 4.77
         reviewCount: 94
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00181.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-07"
+        updatedAt: "2026-10-11"
         price: 7876
         rating: 4.54
         reviewCount: 65
@@ -81,7 +81,7 @@ products:
     capacity: "180枚"
     pricePerUnit: "約43円/枚"
     rating: 4.71
-    reviewCount: 445
+    reviewCount: 446
     features:
       - "紙パンツに重ねて使う大判タイプの尿とりパッド"
       - "薄型ながら防漏設計を採用"
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00170.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-07"
+        updatedAt: "2026-10-11"
         price: 7722
         rating: 4.5
         reviewCount: 102
@@ -135,7 +135,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5817.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-07"
+        updatedAt: "2026-10-11"
         price: 6270
         rating: 4.51
         reviewCount: 81
@@ -206,7 +206,7 @@ products:
     capacity: "88枚"
     pricePerUnit: "約71円/枚"
     rating: 4.74
-    reviewCount: 281
+    reviewCount: 282
     features:
       - "男女共用のパンツタイプ"
       - "薄型でやわらかい肌当たりの素材設計"
@@ -226,10 +226,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5819.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-07"
+        updatedAt: "2026-10-11"
         price: 6270
-        rating: 4.69
-        reviewCount: 74
+        rating: 4.68
+        reviewCount: 75
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_5819"
         available: true
     genreId: "402842"
@@ -262,7 +262,7 @@ products:
     price: 3899
     capacity: "120枚"
     rating: 4.74
-    reviewCount: 816
+    reviewCount: 817
     features:
       - "パンツタイプの大人用紙おむつ"
       - "一枚ずつ分けて持ち運べる個包装"

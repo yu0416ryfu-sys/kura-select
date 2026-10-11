@@ -4,7 +4,7 @@ description: "サントリー・アサヒ・エビアンなど人気の天然水
 category: "mineral-water"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 draft: false
 products:
   - rank: 1
@@ -56,11 +56,11 @@ products:
   - rank: 3
     name: "楽天オリジナル 天然水 500mL×24本"
     brand: "楽天オリジナル"
-    price: 1215
+    price: 1310
     capacity: "500mL×24本（12L）"
-    pricePerUnit: "約101円/L"
+    pricePerUnit: "約109円/L"
     rating: 4.69
-    reviewCount: 2168
+    reviewCount: 2182
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"
@@ -74,7 +74,7 @@ products:
       - "詳細な産地・水源情報がやや少ない"
     recommendedFor: "持ち運び用・職場や学校へのストックに使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uqzrn.3rdw615b.g00uqzrn.3rdw7efd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenoriginal-daily%2Fro-b-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenoriginal-daily%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenoriginal-daily/cabinet/item/water/ro-b-001_e_v2.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenoriginal-daily/cabinet/item/water/ro-b-001_2610_00.jpg?_ex=128x128"
     genreId: "201351"
   - rank: 4
     name: "いろはす 天然水 ラベルレス"
@@ -126,7 +126,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmeshiya%2F001-0010-001-spu1712.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-11"
         price: 3240
         rating: 4.4
         reviewCount: 575
@@ -162,8 +162,8 @@ products:
     price: 5110
     capacity: "500mL×48本（24L）"
     pricePerUnit: "約213円/L"
-    rating: 4.57
-    reviewCount: 37
+    rating: 4.59
+    reviewCount: 39
     features:
       - "フランス・オーヴェルニュ地方の火山岩フィルターを通った軟水（pH7.0）"
       - "ケイ酸（シリカ）を含み硬度60mg/Lの軟水"

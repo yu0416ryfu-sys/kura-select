@@ -4,7 +4,7 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-10-06"
+updatedAt: "2026-10-11"
 draft: false
 products:
   - rank: 1
@@ -47,8 +47,8 @@ products:
     price: 2092
     capacity: "本体+替え28個"
     pricePerUnit: "約75円/個"
-    rating: 4.51
-    reviewCount: 114
+    rating: 4.5
+    reviewCount: 115
     features:
       - "持ち手の本体と使い捨てブラシのセット"
       - "ブラシに洗剤が含まれた使い切りタイプ"
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9612078018.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 638
         rating: 0
         reviewCount: 2

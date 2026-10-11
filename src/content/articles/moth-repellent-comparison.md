@@ -4,7 +4,7 @@ description: "クローゼット用・引き出し用の衣類防虫剤を1個�
 category: "moth-repellent"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 products:
   - rank: 1
     name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×2箱セット"
@@ -12,8 +12,8 @@ products:
     price: 1779
     capacity: "32個×2箱"
     pricePerUnit: "約28円/個"
-    rating: 4.8
-    reviewCount: 145
+    rating: 4.79
+    reviewCount: 146
     features:
       - "引き出し・衣装ケース用に最適化された設計"
       - "1年間有効で交換頻度を抑えられる"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Ft2x16s.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 2799
         rating: 0
         reviewCount: 0
@@ -114,8 +114,8 @@ products:
     price: 1045
     capacity: "32個"
     pricePerUnit: "約33円/個"
-    rating: 4.52
-    reviewCount: 124
+    rating: 4.53
+    reviewCount: 125
     features:
       - "引き出し・衣装ケース専用設計で省スペース収納に対応"
       - "1年間有効で年1回交換の手間が少ない"
@@ -203,7 +203,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F3685161.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 609
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_3685161"
         available: true
@@ -237,7 +237,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F65253.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 4277
         rating: 0
         reviewCount: 2
@@ -251,7 +251,7 @@ products:
     capacity: "3個×3箱"
     pricePerUnit: "約268円/個"
     rating: 4.77
-    reviewCount: 124
+    reviewCount: 125
     features:
       - "防虫・防カビの2役を1年間有効でカバー"
       - "無香タイプで衣類への香り移りを防ぐ"
@@ -271,7 +271,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F65247.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 2796
         rating: 4.67
         reviewCount: 3

@@ -4,7 +4,7 @@ description: "ハンドソープはどれが殺菌力とコスパを両立する
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 products:
   - rank: 1
     name: "ミューズ 泡ハンドソープ オリジナル 詰め替え 900mL"
@@ -126,8 +126,8 @@ products:
     price: 475
     capacity: "450ml"
     pricePerUnit: "約1.1円/mL"
-    rating: 4.79
-    reviewCount: 92
+    rating: 4.8
+    reviewCount: 93
     features:
       - "医薬部外品の殺菌成分配合で手指の細菌を洗い流す薬用タイプ"
       - "泡状で出てくる詰め替え用大型サイズ"

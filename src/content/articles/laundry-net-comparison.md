@@ -4,7 +4,7 @@ description: "洗濯ネットおすすめ10選をコスパ・用途別に比較�
 category: "laundry-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 draft: false
 products:
   - rank: 1
@@ -57,7 +57,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkeyuca%2F4100149.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 187
         rating: 3.67
         reviewCount: 3
@@ -91,7 +91,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flinofle%2Fly-0506.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 1490
         rating: 0
         reviewCount: 2
@@ -196,8 +196,8 @@ products:
     price: 1100
     capacity: "1枚（50cm）"
     pricePerUnit: "約1100円/枚"
-    rating: 4.22
-    reviewCount: 69
+    rating: 4.23
+    reviewCount: 70
     features:
       - "膨らみやすい構造で毛布・タオルケットなど大物にフィット"
       - "乾燥機対応設計でそのまま乾燥まで使用可能"

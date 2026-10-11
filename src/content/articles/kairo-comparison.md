@@ -4,7 +4,7 @@ description: "使い捨てカイロのおすすめ10選を1個あたり単価で
 category: "kairo"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-10-06"
+updatedAt: "2026-10-11"
 draft: false
 products:
   - rank: 1
@@ -59,8 +59,8 @@ products:
     price: 5573
     capacity: "30個×8個（240個）"
     pricePerUnit: "約23円/個"
-    rating: 4.69
-    reviewCount: 13
+    rating: 4.71
+    reviewCount: 14
     features:
       - "ポケットや手で持つ貼らないタイプ"
       - "40℃以上を保つ持続時間は20時間（メーカー表示）"

@@ -91,7 +91,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8029471/"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-10-11"
         price: 294
         rating: 4.49
         reviewCount: 51
@@ -159,7 +159,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/e471977/"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-11"
         price: 1044
         rating: 4.72
         reviewCount: 32
@@ -227,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/e471971/"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-11"
         price: 2230
         rating: 4.73
         reviewCount: 41

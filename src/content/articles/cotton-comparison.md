@@ -4,7 +4,7 @@ description: "化粧用コットンはどれが安くてコスパがいい？シ
 category: "cotton"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 products:
   - rank: 1
     name: "業務用フェイシャルコットン エステ化粧用"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhemart%2Fetf-cotton56.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 1580
         rating: 0
         reviewCount: 1
@@ -90,7 +90,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Festhemart%2Fetf-cotton68.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 1833
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/esthemart_etf-cotton68"
         available: true
@@ -103,8 +103,8 @@ products:
     price: 384
     capacity: "80枚"
     pricePerUnit: "約4.8円/枚"
-    rating: 4.88
-    reviewCount: 8
+    rating: 4.89
+    reviewCount: 9
     features:
       - "ウルトラ吸水加工で化粧水を繊維内にたっぷり保持"
       - "独自の波形加工で摩擦が少なく肌へのダメージを軽減"

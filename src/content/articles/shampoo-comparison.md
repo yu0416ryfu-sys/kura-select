@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 products:
   - rank: 1
     name: "ザクロー精炭酸シャンプー 詰替用"
@@ -47,7 +47,7 @@ products:
     capacity: "250ml"
     pricePerUnit: "約11円/mL"
     rating: 4.66
-    reviewCount: 1053
+    reviewCount: 1055
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcerapure%2Fkf-22.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-11"
         price: 3350
         rating: 4.5
         reviewCount: 6
@@ -95,7 +95,7 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s57rn.3rdw600e.g00s57rn.3rdw7060/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finksc%2Fshampoo_d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finksc%2Fi%2F10000367%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/po_shampoo.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/n_shampoo.jpg?_ex=128x128"
     genreId: "210677"
   - rank: 4
     name: "ウーマシャンプー プレミアム 300mL"
@@ -158,7 +158,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisopo%2F3474636858033.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-11"
         price: 4180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_3474636858033"
         available: true
@@ -194,7 +194,7 @@ products:
     price: 4180
     capacity: "250ml"
     rating: 4.66
-    reviewCount: 321
+    reviewCount: 323
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"
@@ -225,7 +225,7 @@ products:
   - rank: 8
     name: "ニューモ ヴァクトリー スカルプシャンプー"
     brand: "ニューモ"
-    price: 4473
+    price: 4970
     capacity: "1本"
     rating: 4.4
     reviewCount: 529
@@ -242,8 +242,8 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u11ln.3rdw6478.g00u11ln.3rdw7413/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftamago-kichi%2Fnewmovactory%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftamago-kichi%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tamago-kichi/cabinet/thumb/2610ms/newmovactory.jpg?_ex=128x128"
-    priceMax: 21478
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tamago-kichi/cabinet/10419352/10720487/imgrc0107208987.jpg?_ex=128x128"
+    priceMax: 23865
     genreId: "567538"
 tags:
   - "シャンプー"

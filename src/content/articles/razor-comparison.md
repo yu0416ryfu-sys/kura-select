@@ -4,7 +4,7 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "本体1個＋替刃16個"
     pricePerUnit: "約222円/個"
     rating: 4.68
-    reviewCount: 3473
+    reviewCount: 3474
     features:
       - "5枚刃で広い面積をまとめて剃れる構造"
       - "極薄ヘッドで鼻下やあご周りなど細部へのフィット性が高い"
@@ -66,13 +66,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-aozora-shop%2F250929-005.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faoderi%2Fgillette-goldpw01.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-01"
-        price: 1300
-        rating: 4.88
-        reviewCount: 8
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/life-aozora-shop_250929-005"
+        updatedAt: "2026-10-11"
+        price: 1000
+        rating: 4.5
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/aoderi_gillette-goldpw01"
         available: true
     genreId: "567540"
   - rank: 3
@@ -82,7 +82,7 @@ products:
     capacity: "8個"
     pricePerUnit: "約288円/個"
     rating: 4.55
-    reviewCount: 762
+    reviewCount: 763
     features:
       - "ハイドロ5シリーズ用の替刃セット"
       - "肌あたりを和らげるジェルボックス搭載"
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430688635.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-11"
         price: 2351
         rating: 4.75
         reviewCount: 12
@@ -149,8 +149,8 @@ products:
     price: 3500
     capacity: "替刃8個"
     pricePerUnit: "約438円/個"
-    rating: 4.5
-    reviewCount: 303
+    rating: 4.51
+    reviewCount: 304
     features:
       - "5枚刃に加えて精密トリマー刃を搭載"
       - "極薄刃がひげの根元近くまで密着する設計"
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57020103-250.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-11"
         price: 11000
         rating: 0
         reviewCount: 0
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57010103-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-11"
         price: 760
         rating: 0
         reviewCount: 0

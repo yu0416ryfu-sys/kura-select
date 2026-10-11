@@ -4,7 +4,7 @@ description: "シングルのトイレットペーパーを1mあたりの単価�
 category: "toilet-paper"
 publishedAt: "2024-11-01"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 products:
   - rank: 1
     name: "コアユース 無包装 シングル 芯なし"
@@ -35,7 +35,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fikurun0810%2F101436.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-11"
         matchStatus: "matched"
         rating: 0
         reviewCount: 1
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Febarabo%2Febr-ppr-core-p2009.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-11"
         price: 6675
         rating: 0
         reviewCount: 1
@@ -81,7 +81,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.71円/m"
     rating: 4.78
-    reviewCount: 1075
+    reviewCount: 1076
     features:
       - "太穴コアレスのシングルトイレットペーパー"
       - "再生紙を使用した長巻きタイプ"
@@ -104,7 +104,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.73円/m"
     rating: 4.67
-    reviewCount: 2852
+    reviewCount: 2855
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
@@ -155,13 +155,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuasakamiten%2Fc02295.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujisanwa%2Fsanwa170ms6r.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-23"
-        price: 5954
+        updatedAt: "2026-10-11"
+        price: 5350
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuasakamiten_c02295"
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujisanwa_sanwa170ms6r"
         available: true
     genreId: "501098"
   - rank: 6
@@ -171,7 +171,7 @@ products:
     capacity: "110m×45ロール"
     pricePerUnit: "約0.80円/m"
     rating: 4.72
-    reviewCount: 1100
+    reviewCount: 1102
     features:
       - "国産のシングルトイレットペーパー"
       - "個包装で保管時の衛生面に配慮しやすい"
@@ -206,7 +206,7 @@ products:
     capacity: "150m×36ロール"
     pricePerUnit: "約0.81円/m"
     rating: 4.62
-    reviewCount: 761
+    reviewCount: 762
     features:
       - "芯なしの長巻きシングルトイレットペーパー"
       - "個包装で分けて保管しやすい"
@@ -238,8 +238,8 @@ products:
     price: 5610
     capacity: "100m×60ロール"
     pricePerUnit: "約0.94円/m"
-    rating: 4.55
-    reviewCount: 807
+    rating: 4.54
+    reviewCount: 808
     features:
       - "無漂白の再生紙を使用したシングルタイプ"
       - "無包装でフィルムごみを減らせるシンプル仕様"
@@ -259,7 +259,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaki-seishi%2Fmori100ms60.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-11"
         price: 5810
         rating: 4.69
         reviewCount: 26

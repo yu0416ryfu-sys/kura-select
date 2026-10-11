@@ -65,13 +65,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ph87443/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/x627331/"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
-        price: 566
-        rating: 4.78
-        reviewCount: 9
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ph87443"
+        updatedAt: "2026-10-11"
+        price: 468
+        rating: 4.67
+        reviewCount: 150
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_x627331"
         available: true
     genreId: "216017"
   - rank: 3
@@ -284,7 +284,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00001384.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         price: 2326
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00001384"
         available: true

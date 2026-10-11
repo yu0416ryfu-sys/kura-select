@@ -4,7 +4,7 @@ description: "レンジフードフィルター（換気扇フィルター）の
 category: "range-hood-filter"
 publishedAt: "2026-10-05"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 draft: false
 products:
   - rank: 1
@@ -83,7 +83,7 @@ products:
     capacity: "29.5cm×34cm 12枚"
     pricePerUnit: "約495円/枚"
     rating: 4.67
-    reviewCount: 232
+    reviewCount: 233
     features:
       - "横295×縦340のR型でカット不要"
       - "難燃性ポリエステルの特厚タイプ（ショップ表示）"
@@ -105,8 +105,8 @@ products:
     price: 9180
     capacity: "29.7cm×34cm 18枚"
     pricePerUnit: "約510円/枚"
-    rating: 4.66
-    reviewCount: 696
+    rating: 4.67
+    reviewCount: 699
     features:
       - "6枚入りの袋を3袋まとめたセット"
       - "不燃性ガラス繊維タイプ（メーカー表示）"
@@ -129,7 +129,7 @@ products:
     capacity: "29.7cm×34cm 6枚"
     pricePerUnit: "約543円/枚"
     rating: 4.72
-    reviewCount: 668
+    reviewCount: 669
     features:
       - "R型相当の中サイズ（約29.7cm×34cm）"
       - "不燃性ガラス繊維を使う中サイズ（メーカー表示）"

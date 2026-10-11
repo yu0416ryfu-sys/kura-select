@@ -4,7 +4,7 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 products:
   - rank: 1
     name: "グーン スーパーBIG テープ"
@@ -70,7 +70,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_60000000002751"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-11"
         rating: 4
         reviewCount: 3
     genreId: "205198"
@@ -170,8 +170,8 @@ products:
     brand: "大王製紙（グーンプラス）"
     price: 1518
     capacity: "38枚（BIGサイズ・12〜20kg）"
-    rating: 5
-    reviewCount: 4
+    rating: 4.8
+    reviewCount: 5
     features:
       - "敏感肌向けのやわらかタッチ素材を採用"
       - "BIGサイズ12〜20kg対応で長く使える"

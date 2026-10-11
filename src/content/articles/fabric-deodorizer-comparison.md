@@ -4,7 +4,7 @@ description: "衣類・布用消臭スプレーを1プッシュあたりのコ�
 category: "sanitizing-spray"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-11"
 products:
   - rank: 1
     name: "リセッシュ 除菌EX デオドラントパワー 香りが残らないタイプ 本体 360mL"
@@ -158,7 +158,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseiketu-online%2Fnew-frais-natula-350-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-10-11"
         price: 3630
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seiketu-online_new-frais-natula-350-set"
         available: true
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foasismse%2F342501-500.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-10-11"
         price: 2772
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oasismse_342501-500"
         available: true
@@ -220,7 +220,7 @@ products:
       - "初期コストが高め"
     recommendedFor: "まとめ買いで手間を減らしたい方・詰め替え運用でコスト管理したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sughn.3rdw62df.g00sughn.3rdw7388/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcubic-square%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcubic-square%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cubic-square/cabinet/mem_item/asrk/c/10000009line12.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cubic-square/cabinet/mem_item/asrk/c/10000009line.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
