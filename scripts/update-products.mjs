@@ -20,6 +20,7 @@ import { readFileSync, writeFileSync, appendFileSync, readdirSync, existsSync, m
 import { resolve, join, basename, dirname } from 'path';
 import { spawnSync } from 'child_process';
 import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, hasVariantPriceRange, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, isProductManagedArticle, isRankedArticle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { PAIR_AS_ONE_USE_ARTICLES } from '../src/lib/capacity.ts';
 import { applyAiCapacityToContent, buildProcessedAiCapacityFrozenProduct, buildCapacityReviewInputItem, computePendingFinalization, isSameRakutenItemUrl, parseJsonlPreservingRaw } from './lib/ai-capacity.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
 import { parseRakutenItemUrl, toDirectItemUrl, toRakutenUrlKey, collectOtherProductUrlKeys, findDuplicateUrlProduct, findDuplicateUrlGroups, checkAiMatchReplaceDuplicate, selectNonDuplicateItem, buildItemCodeKeywords } from './lib/rakuten-url.ts';
@@ -2743,7 +2744,9 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
   if (!isRankedArticle(updatedContent)) {
     log('   ⏭ ranking:false のため並び替えをスキップ');
   } else {
-    const reorderResult = reorderProductsByPricePerUnit(updatedContent);
+    const reorderResult = reorderProductsByPricePerUnit(updatedContent, {
+      pairCountsAsOneUse: PAIR_AS_ONE_USE_ARTICLES.has(basename(file, '.md')),
+    });
     if (reorderResult.changed) {
       updatedContent = reorderResult.content;
       reorderResult.log.forEach(l => log(`   🔀 ${l}`));

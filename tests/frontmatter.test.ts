@@ -1529,6 +1529,40 @@ products:
     expect(result.content).toMatch(/- rank: 2[\s\S]*?name: "単価不明商品"/);
   });
 
+  describe("組と枚の並び替え（ティッシュ換算と手拭き用の1回分換算）", () => {
+    const pairSample = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "1枚もの"
+    price: 540
+    capacity: "1000枚"
+    pricePerUnit: "約0.54円/枚"
+    rakutenUrl: "https://example.com/a"
+  - rank: 2
+    name: "2枚重ね"
+    price: 880
+    capacity: "1000組"
+    pricePerUnit: "約0.88円/組"
+    rakutenUrl: "https://example.com/b"
+---`;
+
+    it("既定では1組=2枚で換算する（0.88円/組 → 0.44円/枚 が先）", () => {
+      const result = reorderProductsByPricePerUnit(pairSample);
+      expect(result.changed).toBe(true);
+      expect(result.content).toMatch(/- rank: 1[\s\S]*?name: "2枚重ね"/);
+    });
+
+    it("pairCountsAsOneUse では1組=1回分として枚と1:1で並べる", () => {
+      const result = reorderProductsByPricePerUnit(pairSample, { pairCountsAsOneUse: true });
+      expect(result.changed).toBe(false);
+      expect(result.content).toMatch(/- rank: 1[\s\S]*?name: "1枚もの"/);
+    });
+  });
+
   it("単位が混在する場合は同一単位グループ内で並び替える", () => {
     const mixedSample = `---
 title: "テスト記事"

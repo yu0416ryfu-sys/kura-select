@@ -343,7 +343,7 @@ export const CATEGORY_SEARCH_RULES: Record<string, RawSearchRule> = {
   'kitchen-paper': {
     keywords: ['キッチンペーパー', 'キッチンタオル', 'ペーパータオル キッチン'],
     include: ['キッチンペーパー', 'キッチンタオル', 'ペーパータオル', 'クッキングペーパー'],
-    exclude: ['ホルダー', 'ケース', 'ティッシュ', 'トイレット', '布巾', 'ふきん'],
+    exclude: ['ホルダー', 'ケース', 'ティッシュ', 'トイレット', '布巾', 'ふきん', '中判', '小判', 'ハンドタオル', '紙タオル'],
     units: ['枚', 'ロール', '個'],
   },
   'kitchen-sponge': {
@@ -830,6 +830,23 @@ export function getArticleSpecificAdditionRule(category: string, baseKeyword: st
       requiredGroups: [['puriot', 'ピュリオ', 'ブリタ', 'BRITA', 'AQUIBEAR', 'アクイビア']],
       exclude: ['カートリッジのみ', '交換用', 'フィルターのみ', 'ボトル', 'ガロン', 'ペットボトル対応', '天然水', 'レンタル', '炭酸', '水素水', 'おままごと'],
       units: ['個'],
+      minScore: 4,
+    };
+  }
+
+  // kitchen-paper カテゴリは キッチンペーパー（kitchen-paper）と手拭き用ペーパータオル（paper-towel）の2記事で共有する
+  // 手拭き用は中判・小判の業務用タオルが中心。ホルダー・ケースやキッチンタオル（ロール）を除外する
+  if (category === 'kitchen-paper' && /ペーパータオル/.test(baseKeyword) && !/キッチン/.test(baseKeyword)) {
+    return {
+      keywords: ['ペーパータオル 中判 業務用', 'ペーパータオル 小判 業務用', 'ペーパータオル 2枚重ね ソフト'],
+      include: ['ペーパータオル', 'ハンドタオル', '紙タオル'],
+      requiredGroups: [['中判', '小判', 'レギュラー', 'スリム']],
+      exclude: [
+        // 「キッチンペーパー」は手拭き用の出品名にも SEO 語として入るので除外語にしない（中判・小判の必須語で足りる）
+        'ホルダー', 'ケース', 'ディスペンサー', 'キッチンタオル', 'クッキングペーパー', 'ロール',
+        'ティッシュ', 'トイレット', '流せる', 'ペーパーハンカチ', 'ウェット', 'ワイプ', 'ムーミン',
+      ],
+      units: ['枚', '組'],
       minScore: 4,
     };
   }

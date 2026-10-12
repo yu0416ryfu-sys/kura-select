@@ -1443,7 +1443,11 @@ export function updateUpdatedAt(content: string, date: string): string {
  * フロントマター内の全商品を pricePerUnit の安い順に並び替え、rank を振り直す。
  * 単位が混在する場合は同一単位グループ内で並び替え、グループ単位でランキングする。
  */
-function normalizePricePerUnit(value: number, unit: string): { value: number; unit: string } | null {
+function normalizePricePerUnit(
+  value: number,
+  unit: string,
+  options: { pairCountsAsOneUse?: boolean } = {}
+): { value: number; unit: string } | null {
   const normalizedUnit = unit.trim();
   const lowerUnit = normalizedUnit.toLowerCase();
   if (!Number.isFinite(value) || value <= 0 || !normalizedUnit) return null;
@@ -1455,13 +1459,16 @@ function normalizePricePerUnit(value: number, unit: string): { value: number; un
   // ティッシュの「組」は1組=2枚。並び替え・グループ化のみ枚換算し、
   // 円/枚の商品（箱ティッシュ）と同一グループで正しく単価比較できるようにする。
   // 表示用の pricePerUnit（円/組）は calcPricePerUnit 側でそのまま保持する。
+  // 手拭き用ペーパータオルの2枚重ねは「1組＝1回分」で、1枚ものの「1枚＝1回分」と同じ単位として並べる。
+  if (normalizedUnit === '組' && options.pairCountsAsOneUse) return { value, unit: '枚' };
   if (normalizedUnit === '組') return { value: value / 2, unit: '枚' };
 
   return { value, unit: normalizedUnit };
 }
 
 export function reorderProductsByPricePerUnit(
-  content: string
+  content: string,
+  options: { pairCountsAsOneUse?: boolean } = {}
 ): { content: string; changed: boolean; log: string[] } {
   const parsed = parseFrontmatter(content);
   if (!parsed || !Array.isArray(parsed.data.products)) return { content, changed: false, log: [] };
@@ -1474,7 +1481,7 @@ export function reorderProductsByPricePerUnit(
   const blockInfos = products.map((p, origIdx) => {
     const ppu = typeof p.pricePerUnit === 'string' ? p.pricePerUnit.match(ppuRe) : null;
     const ppuValue = ppu ? parseFloat(ppu[1]) : Infinity;
-    const normalized = ppu ? normalizePricePerUnit(ppuValue, ppu[2]) : null;
+    const normalized = ppu ? normalizePricePerUnit(ppuValue, ppu[2], options) : null;
     return {
       product: p,
       ppuValue: normalized?.value ?? Infinity,
