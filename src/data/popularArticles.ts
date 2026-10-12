@@ -9,5 +9,5 @@ export const popularArticleIds = [
   "oxiclean-vs-percarbonate-comparison",
   "kireikirei-vs-biore-comparison",
   "hand-soap-comparison",
-  "laundry-gel-ball-comparison",
+  "baby-wipes-comparison",
 ] as const;
