@@ -175,7 +175,7 @@ products:
     capacity: "200組×30パック"
     pricePerUnit: "約0.98円/組"
     rating: 4.76
-    reviewCount: 348
+    reviewCount: 349
     features:
       - "中判（レギュラーサイズ）の2枚重ね・ソフトタイプ"
       - "牛乳パック類を配合した再生紙（商品ページ表記）"
