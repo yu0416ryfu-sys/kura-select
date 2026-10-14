@@ -19,7 +19,7 @@
 import { readFileSync, writeFileSync, appendFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
 import { spawnSync } from 'child_process';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, hasVariantPriceRange, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, isProductManagedArticle, isRankedArticle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, hasVariantPriceRange, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isCutNotationOfSameCapacity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, isProductManagedArticle, isRankedArticle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 import { PAIR_AS_ONE_USE_ARTICLES } from '../src/lib/capacity.ts';
 import { applyAiCapacityToContent, buildProcessedAiCapacityFrozenProduct, buildCapacityReviewInputItem, computePendingFinalization, isSameRakutenItemUrl, parseJsonlPreservingRaw } from './lib/ai-capacity.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
@@ -2497,6 +2497,13 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
                 : newPricePerUnit;
               capacityNotes.push(`capacity判定: 差異検出により capacity を更新`);
             }
+          } else if (method === '[Item/Get]' && isCutNotationOfSameCapacity(capacity, extractedCap)) {
+            // 既存の「カット」表記は解析できず円/カットのまま残るため、総枚数が一致するときだけ枚表記に揃える
+            updates.newCapacity = extractedCap;
+            updates.pricePerUnit = hasKnownApiPrice
+              ? calcPricePerUnit(data.price, extractedCap, preferUnit)
+              : newPricePerUnit;
+            capacityNotes.push(`capacity判定: 既存のカット表記を同じ総枚数の枚表記に統一`);
           } else if (!capacity && !oldTotal && newTotal && method === '[Item/Get]') {
             // 既存 capacity が未認識単位等でパース不能な場合、Item/Get 確定商品なら API 値で置換
             updates.newCapacity = extractedCap;

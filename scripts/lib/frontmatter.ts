@@ -415,6 +415,33 @@ export function isSameMeasureBaseWithExistingQuantity(
   );
 }
 
+/**
+ * 既存 capacity が「カット」表記のため解析できず、カット=枚 と読み替えると
+ * API 抽出値と同じ総枚数になるか（キッチンペーパー等の表記ゆれ）。
+ * 総数が一致するときだけ true にし、表記の置き換えで容量そのものは変えない。
+ * 例: "150カット×4ロール×4パック（2400カット）" と "150枚×4ロール×4パック"
+ */
+export function isCutNotationOfSameCapacity(
+  existingCapacity: string | null | undefined,
+  extractedCapacity: string | null | undefined
+): boolean {
+  if (!existingCapacity || existingCapacity === '-' || !extractedCapacity || extractedCapacity === '-') return false;
+  if (!/\d[\d,]*\s*カット/.test(existingCapacity)) return false;
+  if (extractCapacityTotal(existingCapacity)) return false;
+
+  const existingTotal = normalizeCapacityTotal(
+    extractCapacityTotal(existingCapacity.replace(/(\d[\d,]*)\s*カット/g, '$1枚'))
+  );
+  const extractedTotal = normalizeCapacityTotal(extractCapacityTotal(extractedCapacity));
+  return Boolean(
+    existingTotal &&
+    extractedTotal &&
+    existingTotal.unit === '枚' &&
+    extractedTotal.unit === '枚' &&
+    existingTotal.total === extractedTotal.total
+  );
+}
+
 export function isLikelySalesQuantityCapacityMisread(itemName: string, extractedCapacity: string): boolean {
   const normalizedName = normalizeItemName(itemName);
   const normalizedCapacity = normalizeItemName(extractedCapacity);

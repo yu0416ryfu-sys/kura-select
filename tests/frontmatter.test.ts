@@ -19,6 +19,7 @@ import {
   hasVariantPriceRange,
   mergeExistingMeasureWithSalesQuantity,
   isSameMeasureBaseWithExistingQuantity,
+  isCutNotationOfSameCapacity,
   isSalesQuantityCapacity,
   hasMeasureCapacity,
   isLikelySalesQuantityCapacityMisread,
@@ -1256,6 +1257,16 @@ describe("capacity kind helpers", () => {
     expect(isSameMeasureBaseWithExistingQuantity("500mL×6本", "500mL")).toBe(true);
     expect(isSameMeasureBaseWithExistingQuantity("355mL×12本", "360ml")).toBe(false);
     expect(isSameMeasureBaseWithExistingQuantity("355mL", "355ml")).toBe(false);
+  });
+
+  it("既存capacityのカット表記が同じ総枚数の枚表記かを判定する", () => {
+    expect(isCutNotationOfSameCapacity("150カット×4ロール×4パック（2400カット）", "150枚×4ロール×4パック")).toBe(true);
+    // 総枚数が違えば表記ゆれではない
+    expect(isCutNotationOfSameCapacity("150カット×4ロール×4パック（2400カット）", "150枚×4ロール×2パック")).toBe(false);
+    // 既存が枚表記で解析できるなら対象外（通常の差分判定に任せる）
+    expect(isCutNotationOfSameCapacity("150枚×4ロール×4パック", "150枚×4ロール×4パック")).toBe(false);
+    expect(isCutNotationOfSameCapacity("12ロール", "12ロール")).toBe(false);
+    expect(isCutNotationOfSameCapacity("-", "150枚")).toBe(false);
   });
 
   it("販売数量のみのcapacityを判定する", () => {
