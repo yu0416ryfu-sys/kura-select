@@ -4,7 +4,7 @@ description: "パンツ型おむつのBIGサイズを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-14"
 draft: false
 products:
   - rank: 1
@@ -182,7 +182,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301442918-3.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-13"
         price: 5550
         rating: 0
         reviewCount: 1
@@ -195,8 +195,8 @@ products:
     price: 7858
     capacity: "14枚×6袋（18〜35kg）"
     pricePerUnit: "約94円/枚"
-    rating: 4.82
-    reviewCount: 45
+    rating: 4.83
+    reviewCount: 46
     features:
       - "ビッグサイズを超える体重帯に対応したパンツ型"
       - "女の子の体型に合わせた吸収体配置"
@@ -216,7 +216,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8186043/"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-13"
         price: 10868
         rating: 4.9
         reviewCount: 20

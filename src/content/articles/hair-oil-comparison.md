@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-14"
 draft: false
 products:
   - rank: 1
@@ -113,7 +113,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6067551.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-14"
         price: 1119
         rating: 0
         reviewCount: 0
@@ -127,7 +127,7 @@ products:
     price: 2959
     capacity: "150mL"
     rating: 4.55
-    reviewCount: 1121
+    reviewCount: 1122
     features:
       - "100%植物由来成分（スクワラン・アルガンオイル・ホホバオイル配合）"
       - "濡れ髪・乾いた髪どちらにも使えるアウトバスオイル"
@@ -147,12 +147,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbb-2023%2Fn-poil150.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-14"
         price: 3280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bb-2023_n-poil150"
         available: true
         rating: 4.61
-        reviewCount: 290
+        reviewCount: 291
     priceMax: 8406
     genreId: "210695"
   - rank: 6
@@ -183,7 +183,7 @@ products:
     price: 2280
     capacity: "80mL"
     rating: 4.65
-    reviewCount: 13903
+    reviewCount: 13913
     features:
       - "天然由来成分配合の洗い流さないアウトバストリートメント"
       - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
@@ -217,7 +217,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4415
+    reviewCount: 4448
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"
@@ -271,8 +271,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6016812.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
-        price: 2538
+        updatedAt: "2026-10-14"
+        price: 2570
         rating: 4.44
         reviewCount: 16
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6016812"
@@ -285,7 +285,7 @@ products:
     price: 3300
     capacity: "50mL"
     rating: 4.59
-    reviewCount: 2551
+    reviewCount: 2552
     features:
       - "ドライヤー後の乾いた髪に使う仕上げ用ヘアオイル"
       - "ツヤと潤いを与えながらボリューム感も保つ設計"

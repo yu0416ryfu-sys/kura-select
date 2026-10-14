@@ -4,7 +4,7 @@ description: "使い捨てカイロのおすすめ10選を1個あたり単価で
 category: "kairo"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-14"
 draft: false
 products:
   - rank: 1
@@ -81,7 +81,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1197-4987067829309x8.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-14"
         price: 5573
         rating: 5
         reviewCount: 8
@@ -115,7 +115,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej35309/"
         matchStatus: "pending"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-14"
         price: 2889
         rating: 0
         reviewCount: 1
@@ -124,9 +124,9 @@ products:
   - rank: 5
     name: "アイリスオーヤマ ぽかぽか家族 貼るカイロ レギュラー 120枚"
     brand: "アイリスオーヤマ"
-    price: 2860
+    price: 2981
     capacity: "120個"
-    pricePerUnit: "約24円/個"
+    pricePerUnit: "約25円/個"
     rating: 4.76
     reviewCount: 147
     features:
@@ -149,13 +149,47 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej35309/"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-14"
         price: 2889
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ej35309"
         available: true
   - rank: 6
+    name: "アイリスオーヤマ ぽかぽか家族 貼らないカイロ レギュラー 120枚"
+    brand: "アイリスオーヤマ"
+    price: 2981
+    capacity: "120個"
+    rating: 4.78
+    reviewCount: 18
+    features:
+      - "ぽかぽか家族シリーズの貼らないレギュラーサイズ"
+      - "16時間持続タイプ（メーカー表示）"
+      - "1箱にまとまった大袋入り"
+    pros:
+      - "通勤の往復と日中の外回りを1個でまかないやすい"
+      - "ポケットに入れて手を温める使い方に向く"
+      - "貼るタイプと同シリーズで買いそろえやすい"
+    cons:
+      - "服の中で位置が動くため腰を温める用途には向かない"
+      - "箱の中身を小分けして持ち歩く手間がある"
+    recommendedFor: "外回りや通勤でポケットに入れて使いたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7195412%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10187598%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tenposupport02/7195412_enet.jpg?_ex=128x128"
+    genreId: "506416"
+    pricePerUnit: "約25円/個"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladybird6353%2F1919335.html"
+        matchStatus: "matched"
+        updatedAt: "2026-10-08"
+        price: 2980
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladybird6353_1919335"
+        available: true
+  - rank: 7
     name: "オカモト 快温くん 貼るカイロ レギュラー 30個×8箱"
     brand: "オカモト"
     price: 6080
@@ -183,13 +217,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F4970520461383set.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-14"
         price: 6080
         rating: 4.91
         reviewCount: 11
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_4970520461383set"
         available: true
-  - rank: 7
+  - rank: 8
     name: "オカモト 快温くん 貼らないカイロ レギュラー 30個×8箱"
     brand: "オカモト"
     price: 6080
@@ -222,40 +256,6 @@ products:
         rating: 5
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_4970520461338set"
-        available: true
-  - rank: 8
-    name: "アイリスオーヤマ ぽかぽか家族 貼らないカイロ レギュラー 120枚"
-    brand: "アイリスオーヤマ"
-    price: 3070
-    capacity: "120個"
-    rating: 4.78
-    reviewCount: 18
-    features:
-      - "ぽかぽか家族シリーズの貼らないレギュラーサイズ"
-      - "16時間持続タイプ（メーカー表示）"
-      - "1箱にまとまった大袋入り"
-    pros:
-      - "通勤の往復と日中の外回りを1個でまかないやすい"
-      - "ポケットに入れて手を温める使い方に向く"
-      - "貼るタイプと同シリーズで買いそろえやすい"
-    cons:
-      - "服の中で位置が動くため腰を温める用途には向かない"
-      - "箱の中身を小分けして持ち歩く手間がある"
-    recommendedFor: "外回りや通勤でポケットに入れて使いたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7195412%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10187598%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tenposupport02/7195412_enet.jpg?_ex=128x128"
-    genreId: "506416"
-    pricePerUnit: "約26円/個"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladybird6353%2F1919335.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-08"
-        price: 2980
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladybird6353_1919335"
         available: true
   - rank: 9
     name: "桐灰カイロ 貼る 30個入"

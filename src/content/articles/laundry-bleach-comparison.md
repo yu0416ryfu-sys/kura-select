@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-14"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301745910-73-30000846.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-14"
         price: 220
         rating: 4.8
         reviewCount: 15
@@ -172,7 +172,7 @@ products:
     capacity: "5kg"
     pricePerUnit: "約0.18円/g"
     rating: 5
-    reviewCount: 11
+    reviewCount: 12
     features:
       - "次亜塩素酸ナトリウムを使う塩素系の衣料用漂白剤"
       - "白物衣類の漂白・除菌を想定した業務用規格"

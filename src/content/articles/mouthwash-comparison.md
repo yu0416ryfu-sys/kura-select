@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-14"
 products:
   - rank: 1
     name: "リステリン トータルケアプラス クリーンミント"
@@ -180,9 +180,9 @@ products:
   - rank: 6
     name: "システマ EX デンタルリンス"
     brand: "ライオン（システマ）"
-    price: 1230
+    price: 1193
     capacity: "900mL"
-    pricePerUnit: "約1.4円/mL"
+    pricePerUnit: "約1.3円/mL"
     rating: 0
     reviewCount: 0
     features:
@@ -218,7 +218,7 @@ products:
     capacity: "500mL×3本"
     pricePerUnit: "約5.0円/mL"
     rating: 4.72
-    reviewCount: 500
+    reviewCount: 501
     features:
       - "二酸化塩素（ClO2）配合で口臭の原因菌を抑制"
       - "無香料・ノンアルコール処方で低刺激"
@@ -275,7 +275,7 @@ products:
     capacity: "100mL（約700回分）"
     pricePerUnit: "約23円/mL"
     rating: 4.76
-    reviewCount: 623
+    reviewCount: 627
     features:
       - "歯科医院でも販売されている薬用マウスウォッシュ"
       - "殺菌成分グルコン酸クロルヘキシジン配合"
@@ -308,7 +308,7 @@ products:
     price: 2580
     capacity: "300mL"
     rating: 4.6
-    reviewCount: 2923
+    reviewCount: 2928
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"
@@ -322,7 +322,7 @@ products:
       - "ホワイトニング効果は継続使用が前提"
     recommendedFor: "ホワイトニングケアを日常に取り入れたい方・低刺激マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b071gypvwv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000116%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20261004m/906b071gypvwv-50.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20261014m/906b071gypvwv-50.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

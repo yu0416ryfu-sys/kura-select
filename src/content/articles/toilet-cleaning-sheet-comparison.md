@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-14"
 draft: false
 products:
   - rank: 1
@@ -115,8 +115,8 @@ products:
     price: 2508
     capacity: "288枚"
     pricePerUnit: "約8.7円/枚"
-    rating: 4.58
-    reviewCount: 53
+    rating: 4.57
+    reviewCount: 54
     features:
       - "トイレに流せる掃除シート"
       - "特許製法をうたう厚手シート"
@@ -241,7 +241,7 @@ products:
     capacity: "20枚×12個"
     pricePerUnit: "約26円/枚"
     rating: 4.76
-    reviewCount: 364
+    reviewCount: 365
     features:
       - "トイレに流せる厚手の掃除シート"
       - "本体ケースに詰め替えて使うタイプ"
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301308566.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-14"
         price: 6253
         rating: 3.33
         reviewCount: 3

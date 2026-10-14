@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-14"
 products:
   - rank: 1
     name: "システムポリマー XP-11 スライダー付ジッパー保存袋"
@@ -251,7 +251,7 @@ products:
       - "一般的なポリ袋と比べると1枚あたりの価格が高くなりやすい"
     recommendedFor: "光・湿気・臭いを防いで長期保存したい方・乾物や茶葉を保存する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2sxn.3rdw6fcb.g00t2sxn.3rdw7915/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffishingkingdom%2Fqa100085%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffishingkingdom%2Fi%2F10001404%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fishingkingdom/cabinet/biiino/item/main-image-2/20240802145259_1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fishingkingdom/cabinet/10370268/qa100085_top_ra.jpg?_ex=128x128"
     priceMax: 99999
     genreId: "101843"
 tags:

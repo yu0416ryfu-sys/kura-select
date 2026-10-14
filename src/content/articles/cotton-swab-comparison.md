@@ -4,7 +4,7 @@ description: "綿棒をコットン100%・紙軸・スパイラル・抗菌タ�
 category: "cotton-swab"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-14"
 draft: false
 products:
   - rank: 1
@@ -42,40 +42,6 @@ products:
         reviewCount: 1
     genreId: "506400"
   - rank: 2
-    name: "コットン・ラボ スタンダード綿棒"
-    brand: "コットン・ラボ"
-    price: 144
-    capacity: "200本"
-    pricePerUnit: "約0.72円/本"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "日常の耳まわりや細かなケアに使いやすい綿棒"
-      - "紙軸や抗菌加工など衛生面に配慮した仕様"
-      - "保管しやすいケース・パック入り"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t1zjn.3rdw66fb.g00t1zjn.3rdw7ada/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupplyshop%2F204098%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupplyshop%2Fi%2F10042518%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/supplyshop/cabinet/285/4973202501285.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4973202501285.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-11"
-        price: 114
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4973202501285"
-        available: true
-        rating: 0
-        reviewCount: 0
-    genreId: "505519"
-  - rank: 3
     name: "FC ファミリー綿棒"
     brand: "白十字"
     price: 158
@@ -102,13 +68,47 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenjoy%2F4987603109247.html"
         matchStatus: "matched"
-        updatedAt: "2026-05-30"
+        updatedAt: "2026-10-13"
         price: 128
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenjoy_4987603109247"
         available: true
         rating: 0
         reviewCount: 0
     genreId: "506400"
+  - rank: 3
+    name: "コットン・ラボ スタンダード綿棒"
+    brand: "コットン・ラボ"
+    price: 161
+    capacity: "200本"
+    pricePerUnit: "約0.81円/本"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "日常の耳まわりや細かなケアに使いやすい綿棒"
+      - "紙軸や抗菌加工など衛生面に配慮した仕様"
+      - "保管しやすいケース・パック入り"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t1zjn.3rdw66fb.g00t1zjn.3rdw7ada/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupplyshop%2F204098%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupplyshop%2Fi%2F10042518%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/supplyshop/cabinet/285/4973202501285.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4973202501285.html"
+        matchStatus: "matched"
+        updatedAt: "2026-10-13"
+        price: 114
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4973202501285"
+        available: true
+        rating: 0
+        reviewCount: 0
+    genreId: "505519"
   - rank: 4
     name: "うさベビー 抗菌綿棒 ほそめ 250本"
     brand: "山洋"
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4976558006428.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-13"
         price: 180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4976558006428"
         available: true

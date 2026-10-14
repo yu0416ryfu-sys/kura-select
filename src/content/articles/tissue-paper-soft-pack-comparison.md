@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-14"
 draft: false
 products:
   - rank: 1
@@ -79,9 +79,9 @@ products:
   - rank: 4
     name: "ハロー ソフトパックティッシュ 150組×100個"
     brand: "ハロー"
-    price: 5740
+    price: 5540
     capacity: "150組×5個×20パック（100個）"
-    pricePerUnit: "約57円/個"
+    pricePerUnit: "約55円/個"
     rating: 5
     reviewCount: 3
     features:
@@ -111,8 +111,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkilat%2F3m9496.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-11"
+        matchStatus: "matched"
+        updatedAt: "2026-10-14"
         price: 5280
         rating: 4.67
         reviewCount: 3
@@ -122,7 +122,7 @@ products:
   - rank: 5
     name: "ネピア ソフトパックティッシュ 200組 90個"
     brand: "王子ネピア"
-    price: 5980
+    price: 5820
     capacity: "200組×90個"
     rating: 4.63
     reviewCount: 40
@@ -154,7 +154,7 @@ products:
   - rank: 6
     name: "ネピア ソフトパックティッシュ 200組 80パック"
     brand: "王子ネピア"
-    price: 5980
+    price: 5820
     capacity: "200組×80パック"
     rating: 5
     reviewCount: 1
@@ -180,7 +180,7 @@ products:
     price: 2640
     capacity: "150組×50個（7500組）"
     rating: 4.56
-    reviewCount: 845
+    reviewCount: 847
     features:
       - "アイリスオーヤマのソフトパック"
       - "150組×50個のまとめ買いパック"

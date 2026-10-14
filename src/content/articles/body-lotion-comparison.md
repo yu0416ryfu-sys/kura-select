@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-14"
 draft: false
 products:
   - rank: 1
@@ -217,7 +217,7 @@ products:
     price: 4180
     capacity: "300ml"
     rating: 4.7
-    reviewCount: 2945
+    reviewCount: 2946
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"
@@ -237,7 +237,7 @@ products:
   - rank: 8
     name: "5種のヒアルロン酸配合スキンローション 600ml"
     brand: "3種のヒアルロン酸配合スキンローショ"
-    price: 2500
+    price: 1250
     capacity: "600ml"
     rating: 4.59
     reviewCount: 561
@@ -255,7 +255,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F4731%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10000232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/04815981/4731-m01c.jpg?_ex=128x128"
-    priceMax: 14400
+    priceMax: 7200
     genreId: "216307"
   - rank: 9
     name: "ママフィ 潤いミルキーローション (本体350ml/つめかえ用310ml) 赤ちゃん"
@@ -306,12 +306,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F56770.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-05"
+        updatedAt: "2026-10-13"
         price: 2280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_56770"
         available: true
-        rating: 4.75
-        reviewCount: 36
+        rating: 4.73
+        reviewCount: 37
     priceMax: 4296
     genreId: "216670"
 tags:

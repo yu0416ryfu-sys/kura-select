@@ -4,7 +4,7 @@ description: "卓上浄水ウォーターサーバーのおすすめ4選を、�
 category: "mineral-water"
 publishedAt: "2026-09-30"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-14"
 draft: false
 products:
   - rank: 1
@@ -59,8 +59,8 @@ products:
     price: 80300
     capacity: "1個"
     pricePerUnit: "約80300円/個"
-    rating: 4.48
-    reviewCount: 235
+    rating: 4.47
+    reviewCount: 238
     features:
       - "冷水・常温・お湯に加え、中間の温度も選べる操作パネル"
       - "ポット型と共通のマクストラプロ カートリッジを使う"
@@ -79,9 +79,9 @@ products:
   - rank: 4
     name: "puriot ES 浄水型ウォーターサーバー PES-2400"
     brand: "puriot"
-    price: 88800
+    price: 88000
     capacity: "1個"
-    pricePerUnit: "約88800円/個"
+    pricePerUnit: "約88000円/個"
     rating: 0
     reviewCount: 0
     features:

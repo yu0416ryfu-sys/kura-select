@@ -4,7 +4,7 @@ description: "デンタルフロスを1回あたりのコストで比較した�
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-14"
 products:
   - rank: 1
     name: "クリニカ アドバンテージ スポンジフロス"
@@ -13,7 +13,7 @@ products:
     capacity: "40m×4個（320回）"
     pricePerUnit: "約4.2円/回"
     rating: 4.76
-    reviewCount: 75
+    reviewCount: 76
     features:
       - "スポンジ状の素材で歯肉を傷つけにくい設計"
       - "小さな凹凸構造で歯垢をかき出しやすい"

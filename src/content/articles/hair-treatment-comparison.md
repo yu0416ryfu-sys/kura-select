@@ -4,7 +4,7 @@ description: "コスパいいヘアトリートメントを1g・1mLあたりで�
 category: "hair-treatment"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-14"
 products:
   - rank: 1
     name: "いち髪 ヘアマスク 200g"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frich0808store%2Fap-4901417618795.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-14"
         price: 1488
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rich0808store_ap-4901417618795"
         available: true
@@ -81,7 +81,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約8.1円/g"
     rating: 4.59
-    reviewCount: 2073
+    reviewCount: 2072
     features:
       - "カラーリング後の髪を対象とした色彩ケア特化の集中トリートメント"
       - "セラミド・タンパク質・18種のアミノ酸・オーガニックオイル配合"
@@ -127,7 +127,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約22円/mL"
     rating: 4.73
-    reviewCount: 1301
+    reviewCount: 1303
     features:
       - "くせ毛ケアのディシプリンラインのコンディショナータイプ"
       - "髪の広がりを抑えまとまりのある艶やかな仕上がりをもたらす処方"
@@ -183,7 +183,7 @@ products:
     price: 2380
     capacity: "180g"
     rating: 4.66
-    reviewCount: 2298
+    reviewCount: 2301
     features:
       - "12種の植物成分を含む25種以上の植物由来成分配合"
       - "シルク・ココナッツオイル・アルガンオイルなどの保湿成分を配合"
@@ -226,7 +226,7 @@ products:
   - rank: 9
     name: "フィーノ プレミアムタッチ 浸透美容液ヘアマスク 230g"
     brand: "ファイントゥデイ（フィーノ）"
-    price: 2321
+    price: 2341
     capacity: "-"
     pricePerUnit: "-"
     rating: 5

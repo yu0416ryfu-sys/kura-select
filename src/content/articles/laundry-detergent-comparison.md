@@ -4,7 +4,7 @@ description: "洗濯洗剤は液体・粉末・ジェルボールのどれがコ
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-14"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -98,29 +98,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/01/workers/workers2019_4500_c.jpg?_ex=128x128"
     genreId: "210182"
   - rank: 4
-    name: "ナノックス ワン スタンダード 詰め替え 1400g×6袋セット"
-    brand: "ライオン（ナノックス ワン）"
-    price: 7280
-    capacity: "1400g×6袋（8,400g）"
-    pricePerUnit: "約0.87円/g"
-    rating: 4.61
-    reviewCount: 38
-    features:
-      - "高濃度処方で少量でもしっかり洗える液体洗剤"
-      - "抗菌・消臭・色変化防止を備えた多機能タイプ"
-      - "6袋まとめ買いセットで購入頻度を抑えやすい"
-    pros:
-      - "6袋セットで大量購入コストを効率よく下げられる"
-      - "高濃度設計で1回あたりの使用量が少なく経済的"
-      - "消臭・抗菌効果も備えており汗臭や部屋干し臭が気になる方にも向く"
-    cons:
-      - "6袋セットのため保管スペースが必要"
-      - "高濃度タイプのため使用量を守らないと過剰使用になりやすい"
-    recommendedFor: "高濃度洗剤をまとめ買いでコスパよく使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7174421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10198614%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11663202/12603758/7262632.jpg?_ex=128x128"
-    genreId: "210182"
-  - rank: 5
     name: "アリエール 部屋干し 除菌プラス 詰め替え 超ジャンボ 1kg×6袋"
     brand: "アリエール（P&G）"
     price: 8921
@@ -155,7 +132,7 @@ products:
         rating: 0
         reviewCount: 0
     genreId: "210182"
-  - rank: 6
+  - rank: 5
     name: "ハイベック プレミアムドライ 1100g"
     brand: "ハイベック"
     price: 6600
@@ -189,14 +166,14 @@ products:
         rating: 4.7
         reviewCount: 20
     genreId: "210182"
-  - rank: 7
+  - rank: 6
     name: "サンベック高級洗剤 1000g"
     brand: "サンベック"
     price: 6380
     capacity: "1000g"
     pricePerUnit: "約6.4円/g"
     rating: 4.7
-    reviewCount: 656
+    reviewCount: 657
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -212,7 +189,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsb1000-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000195%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/18sb.jpg?_ex=128x128"
     genreId: "210182"
-  - rank: 8
+  - rank: 7
     name: "海へ Fukii 詰替 380g"
     brand: "がんこ本舗"
     price: 2552
@@ -246,7 +223,7 @@ products:
         rating: 4.75
         reviewCount: 8
     genreId: "210182"
-  - rank: 9
+  - rank: 8
     name: "海へ Fukii 詰替 380g×3個セット"
     brand: "がんこ本舗"
     price: 7656
@@ -280,7 +257,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/okinawangirls_umihe-fukii3"
         available: true
     genreId: "210182"
-  - rank: 10
+  - rank: 9
     name: "サンベックドライ洗剤 500g"
     brand: "サンベック"
     price: 3980
@@ -314,6 +291,29 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tamari-do_li08c865d17f"
         available: true
     genreId: "210182"
+  - rank: 10
+    name: "ナノックス ワン スタンダード 詰め替え 1400g×6袋セット"
+    brand: "ライオン（ナノックス ワン）"
+    price: 8481
+    capacity: "1400g×6袋（8,400g）"
+    rating: 4.61
+    reviewCount: 38
+    features:
+      - "高濃度処方で少量でもしっかり洗える液体洗剤"
+      - "抗菌・消臭・色変化防止を備えた多機能タイプ"
+      - "6袋まとめ買いセットで購入頻度を抑えやすい"
+    pros:
+      - "6袋セットで大量購入コストを効率よく下げられる"
+      - "高濃度設計で1回あたりの使用量が少なく経済的"
+      - "消臭・抗菌効果も備えており汗臭や部屋干し臭が気になる方にも向く"
+    cons:
+      - "6袋セットのため保管スペースが必要"
+      - "高濃度タイプのため使用量を守らないと過剰使用になりやすい"
+    recommendedFor: "高濃度洗剤をまとめ買いでコスパよく使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7174421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10198614%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11663202/12603758/7262632.jpg?_ex=128x128"
+    genreId: "210182"
+    priceMax: 9119
 tags:
   - "洗濯洗剤"
   - "コスパ"
