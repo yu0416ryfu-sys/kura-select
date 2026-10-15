@@ -53,13 +53,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176206374.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-30"
-        price: 3980
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/anu1891/"
+        matchStatus: "pending"
+        updatedAt: "2026-10-15"
+        price: 2390
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176206374"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_anu1891"
         available: true
     genreId: "205198"
     pricePerUnit: "約45円/枚"

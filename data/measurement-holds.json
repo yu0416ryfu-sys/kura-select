@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-10-16",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。凍結の対象・起点日・解除日（releaseDate）はこのファイルが唯一の正（2026-09-15 改定）。",
     "施策の中身・判定根拠・経緯の正はローカルのメモリ project_measurement_holds。機械判定（scripts/check-internal-links.mjs など）もこのファイルを読む。施策を打ったら両者を必ず同時に更新する。",
@@ -137,7 +137,7 @@
         "frontmatter faqs に「フロッシュの代わりになる食器用洗剤は？」を1問追加（6問）。title・description・products は未変更"
       ],
       "simultaneous": false,
-      "note": "単独施策（本文節＋FAQ）。ベースライン reports/gsc-harvest/baseline-2026-09-23.json（窓 08-24〜09-20）: ページ クリック80・表示680・CTR 11.8%・順位4.1／「フロッシュ に 代わる 洗剤」7/36（順位3.3）・「フロッシュ 代替品」0/3（4.3）・「フロッシュ 製造中止」0/1（3.0）。クエリ件数が少ないので実数一桁は判定しない（方向の記録にとどめる）。同日に dish-detergent も同じクエリ向けに改稿したため、2記事の合算でも見る。起点はデプロイ日（JST）。push が 09-23 でなければ startedAt / releaseDate を直す。商品追加は prohibitions で禁止のまま",
+      "note": "単独施策（本文節＋FAQ）。ベースライン reports/gsc-harvest/baseline-2026-09-23.json（窓 08-24〜09-20）: ページ クリック80・表示680・CTR 11.8%・順位4.1／「フロッシュ に 代わる 洗剤」7/36（順位3.3）・「フロッシュ 代替品」0/3（4.3）・「フロッシュ 製造中止」0/1（3.0）。クエリ件数が少ないので実数一桁は判定しない（方向の記録にとどめる）。同日に dish-detergent も同じクエリ向けに改稿したため、2記事の合算でも見る。起点はデプロイ日（JST）。push が 09-23 でなければ startedAt / releaseDate を直す。商品追加は prohibitions で禁止のまま／2026-10-16 区分B: r1 ヤシノミ洗剤 詰替用 1000mL の Yahoo offer がリンク切れ(404)のため別ショップの同一商品（1000mL）に差し替え（凍結対象外・GSC 指標に作用しない）。",
       "source": "project_measurement_holds"
     },
     {

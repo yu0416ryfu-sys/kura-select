@@ -54,14 +54,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901301349033.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdrugpure%2F4901301349033-1jvso.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
-        price: 363
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901301349033"
-        available: true
+        updatedAt: "2026-10-15"
+        price: 1130
         rating: 0
-        reviewCount: 1
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/drugpure_4901301349033-1jvso"
+        available: true
     genreId: "401619"
   - rank: 3
     name: "ランドリン ファブリックミスト クラシックフローラル 370mL"

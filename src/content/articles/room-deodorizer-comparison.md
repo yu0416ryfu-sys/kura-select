@@ -91,7 +91,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fbs02.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-15"
         price: 6204
         rating: 4.67
         reviewCount: 459
@@ -222,14 +222,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F113-8544-001.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-04"
-        price: 720
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_113-8544-001"
-        available: true
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworldglobal%2F20260619202540-00359.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-15"
+        price: 944
         rating: 0
         reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/worldglobal_20260619202540-00359"
+        available: true
     genreId: "401619"
   - rank: 8
     name: "瞬間消臭スプレー 420ml"
@@ -258,7 +258,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fhs01.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-15"
         price: 1485
         rating: 4.73
         reviewCount: 56

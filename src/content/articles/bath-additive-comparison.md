@@ -180,13 +180,14 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakeelstore%2Fmeisui-8.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-09-07"
         price: 7880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akeelstore_meisui-8"
-        available: true
+        available: false
         rating: 5
         reviewCount: 3
+        matchNotes: "リンク切れ(404)"
     genreId: "101838"
   - rank: 7
     name: "【1種類を選べる】きき湯 炭酸湯【きき湯】[炭酸入浴剤 薬用 温泉 風呂 温浴 "

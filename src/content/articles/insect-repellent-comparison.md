@@ -32,14 +32,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902424446593.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4902424446593.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-11"
-        price: 881
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902424446593"
+        updatedAt: "2026-10-15"
+        price: 800
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4902424446593"
         available: true
-        rating: 4.53
-        reviewCount: 15
     genreId: "401642"
   - rank: 2
     name: "サラテクト 無香料"

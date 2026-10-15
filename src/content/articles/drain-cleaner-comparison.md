@@ -57,7 +57,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F101-4901609000926.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-13"
+        updatedAt: "2026-10-15"
         price: 331
         rating: 0
         reviewCount: 0
@@ -194,10 +194,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6038803.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-13"
+        updatedAt: "2026-10-15"
         price: 3750
-        rating: 4.65
-        reviewCount: 313
+        rating: 4.66
+        reviewCount: 315
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6038803"
         available: true
     genreId: "565623"
@@ -226,13 +226,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10176772.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-08"
-        price: 1980
-        rating: 4.63
-        reviewCount: 80
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10176772"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksstore-yh%2F4560275310151.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-15"
+        price: 2380
+        rating: 4.33
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksstore-yh_4560275310151"
         available: true
     genreId: "565623"
   - rank: 9

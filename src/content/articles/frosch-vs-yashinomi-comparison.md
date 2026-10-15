@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpcbomber%2F251734000059400.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2877035017.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
-        price: 352
+        updatedAt: "2026-10-15"
+        price: 513
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/pcbomber_251734000059400"
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2877035017"
         available: true
     genreId: "216012"
   - rank: 2

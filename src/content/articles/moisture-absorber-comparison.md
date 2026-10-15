@@ -248,13 +248,14 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawarikikaku%2Fcostoco-mizutori-a.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-08-22"
         price: 1618
         rating: 4.75
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawarikikaku_costoco-mizutori-a"
-        available: true
+        available: false
+        matchNotes: "リンク切れ(404)"
     priceMax: 6388
     genreId: "568231"
 tags:

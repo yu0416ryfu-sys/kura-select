@@ -145,12 +145,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true
         rating: 4.94
-        reviewCount: 476
+        reviewCount: 477
     genreId: "405091"
   - rank: 6
     name: "manyo ピュアクレンジングオイル 200mL"
@@ -176,14 +176,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F50759-12.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkscojp%2F960120670.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
-        price: 3980
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_50759-12"
+        updatedAt: "2026-10-15"
+        price: 2380
+        rating: 4.46
+        reviewCount: 68
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kscojp_960120670"
         available: true
-        rating: 0
-        reviewCount: 0
     genreId: "405061"
     priceMax: 10000
   - rank: 7

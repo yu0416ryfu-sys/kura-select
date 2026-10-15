@@ -66,14 +66,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fv-drug%2F0270030-4904879658255-1.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10148480.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-01"
-        price: 968
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/v-drug_0270030-4904879658255-1"
-        available: true
+        updatedAt: "2026-10-15"
+        price: 1184
         rating: 0
-        reviewCount: 1
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10148480"
+        available: true
     genreId: "565724"
   - rank: 3
     name: "ナチュラルバランス オリジナルウルトラ"
@@ -100,13 +100,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcell-apt%2Fc-2801-800-2.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftierheim-ps%2Fc-2799-800-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 5400
+        updatedAt: "2026-10-15"
+        price: 6000
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cell-apt_c-2801-800-2"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tierheim-ps_c-2799-800-2"
         available: true
     genreId: "565724"
   - rank: 4
@@ -193,7 +193,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4902201210980.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-13"
+        updatedAt: "2026-10-15"
         price: 3207
         rating: 0
         reviewCount: 0
@@ -224,13 +224,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2Fw-111736-00-00.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffamilypet%2F52905133.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-13"
-        price: 5489
-        rating: 4.8
-        reviewCount: 54
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_w-111736-00-00"
+        updatedAt: "2026-10-15"
+        price: 5280
+        rating: 4.6
+        reviewCount: 93
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/familypet_52905133"
         available: true
     priceMax: 21598
     genreId: "565724"
@@ -294,7 +294,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687270.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-13"
+        updatedAt: "2026-10-15"
         price: 4006
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687270"
         available: true
@@ -328,7 +328,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnutro-galenus%2F841762198.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-13"
+        updatedAt: "2026-10-15"
         price: 3980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nutro-galenus_841762198"
         available: true

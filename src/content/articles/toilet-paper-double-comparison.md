@@ -111,13 +111,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fstylem%2Faj4741mstyle284edf800d.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4580287284745.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
-        price: 7635
+        updatedAt: "2026-10-15"
+        price: 7261
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/stylem_aj4741mstyle284edf800d"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4580287284745"
         available: true
     genreId: "501098"
   - rank: 5
@@ -179,13 +179,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fme-belu%2Fds-2358010.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9620775.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
-        price: 10260
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/me-belu_ds-2358010"
+        updatedAt: "2026-10-15"
+        price: 6164
+        rating: 4.78
+        reviewCount: 73
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9620775"
         available: true
     genreId: "501098"
   - rank: 7

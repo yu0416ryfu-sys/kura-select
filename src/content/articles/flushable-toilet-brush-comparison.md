@@ -32,13 +32,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhandm%2F2303-003931.html"
-        matchStatus: "matched"
-        updatedAt: "2026-07-09"
-        price: 4000
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/handm_2303-003931"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/6172915/"
+        matchStatus: "pending"
+        updatedAt: "2026-10-15"
+        price: 2577
+        rating: 4.58
+        reviewCount: 104
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_6172915"
         available: true
     genreId: "215999"
   - rank: 2
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9612078018.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-15"
         price: 638
         rating: 0
         reviewCount: 2

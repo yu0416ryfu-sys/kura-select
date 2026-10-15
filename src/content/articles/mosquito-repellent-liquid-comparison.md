@@ -90,13 +90,14 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhcvalor%2Fvh-2162902907264.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-10-08"
         price: 4071
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hcvalor_vh-2162902907264"
-        available: true
+        available: false
+        matchNotes: "リンク切れ(404)"
     genreId: "100695"
   - rank: 4
     name: "アースノーマット 取替えボトル 90日用 無香料 2箱セット"

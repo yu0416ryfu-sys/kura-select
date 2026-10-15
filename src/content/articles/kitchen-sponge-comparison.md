@@ -32,13 +32,14 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdusdus%2Fdssmn6.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-09-07"
         price: 1220
         rating: 4.88
         reviewCount: 502
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dusdus_dssmn6"
-        available: true
+        available: false
+        matchNotes: "リンク切れ(404)"
     genreId: "401520"
   - rank: 2
     name: "ダスキン台所用スポンジ ハードタイプ モノトーン 6個セット"

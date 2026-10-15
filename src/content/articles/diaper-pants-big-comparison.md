@@ -79,13 +79,14 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430148948.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-09-29"
         price: 1940
         rating: 4.4
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430148948"
-        available: true
+        available: false
+        matchNotes: "リンク切れ(404)"
     genreId: "205198"
   - rank: 4
     name: "メリーズ パンツ ファーストプレミアム ビッグ"
