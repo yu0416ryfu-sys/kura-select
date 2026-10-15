@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "ダウニー サンライズフレッシュ 4L×3本セット"

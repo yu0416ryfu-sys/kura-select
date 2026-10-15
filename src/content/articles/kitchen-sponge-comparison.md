@@ -4,7 +4,7 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "ダスキン 台所用スポンジ 抗菌タイプ 6個セット"
@@ -70,7 +70,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約199円/個"
     rating: 4.76
-    reviewCount: 494
+    reviewCount: 495
     features:
       - "天然素材のセルロース＋綿で環境にやさしい"
       - "速乾性が高く雑菌が繁殖しにくい"
@@ -158,7 +158,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funmaison%2F19311003.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-15"
         price: 880
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unmaison_19311003"
         available: true
@@ -206,7 +206,7 @@ products:
     capacity: "8個（4個×2組）"
     pricePerUnit: "約384円/個"
     rating: 4.81
-    reviewCount: 2630
+    reviewCount: 2632
     features:
       - "全9色から選べるモノトーン系カラー展開"
       - "長持ちしやすい設計の食器洗いスポンジ"
@@ -226,7 +226,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsunsunsponge%2Ftss08b.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-15"
         price: 3073
         rating: 4.86
         reviewCount: 278

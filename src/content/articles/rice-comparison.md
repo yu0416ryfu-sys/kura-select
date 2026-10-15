@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "国内産 ブレンド米 白米 10kg（訳あり）"
@@ -111,7 +111,7 @@ products:
   - rank: 4
     name: "令和8年産 無洗米 新潟産コシヒカリ 10kg"
     brand: "ミツハシライス"
-    price: 6800
+    price: 6200
     capacity: "10kg"
     features:
       - "新潟県産コシヒカリの無洗米タイプ"
@@ -129,7 +129,7 @@ products:
     rating: 4.88
     reviewCount: 142
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/takizawa/cabinet/syouhinn/08533100/musenmai10kgver3.jpg?_ex=128x128"
-    pricePerUnit: "約680円/kg"
+    pricePerUnit: "約620円/kg"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -239,7 +239,7 @@ products:
     price: 8710
     capacity: "18kg〜20kg"
     rating: 4.74
-    reviewCount: 45840
+    reviewCount: 45842
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

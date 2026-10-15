@@ -4,7 +4,7 @@ description: "クッキングシートを1mあたりの価格で比較。ロー�
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "フジ クッキングシート 業務用 33cm×30m"

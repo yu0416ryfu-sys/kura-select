@@ -4,15 +4,15 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 draft: false
 products:
   - rank: 1
     name: "ロイヤルカナン インドア 室内で生活する成猫用 10kg"
     brand: "ロイヤルカナン"
-    price: 14000
+    price: 13200
     capacity: "10kg"
-    pricePerUnit: "約1.4円/g"
+    pricePerUnit: "約1.3円/g"
     rating: 4.64
     reviewCount: 399
     features:
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F75320.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 13999
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_75320"
         available: true
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetoukoku%2F42.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-13"
+        updatedAt: "2026-10-15"
         price: 10670
         rating: 4.86
         reviewCount: 21
@@ -240,7 +240,7 @@ products:
     price: 6476
     capacity: "4kg"
     rating: 4.66
-    reviewCount: 714
+    reviewCount: 716
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -274,7 +274,7 @@ products:
     price: 4007
     capacity: "2kg"
     rating: 4.73
-    reviewCount: 558
+    reviewCount: 559
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -308,7 +308,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.71
-    reviewCount: 1018
+    reviewCount: 1021
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

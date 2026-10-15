@@ -4,43 +4,9 @@ description: "衣類・布用消臭スプレーを1プッシュあたりのコ�
 category: "sanitizing-spray"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
-    name: "リセッシュ 除菌EX デオドラントパワー 香りが残らないタイプ 本体 360mL"
-    brand: "花王（リセッシュ）"
-    price: 475
-    capacity: "360mL"
-    pricePerUnit: "約1.3円/mL"
-    rating: 5
-    reviewCount: 2
-    features:
-      - "99.9%除菌＆ウイルス除去（エンベロープタイプ）"
-      - "汗臭・加齢臭・タバコ臭をしっかり消臭"
-      - "6時間後も消臭効果が持続する長時間処方"
-    pros:
-      - "1プッシュあたり約0.47円で圧倒的コスパ"
-      - "大容量詰め替えで買い足し頻度が減る"
-      - "除菌・消臭ともに高い効果"
-    cons:
-      - "香りの好みが分かれる"
-      - "本体スプレーボトルが別途必要"
-    recommendedFor: "コスパ重視の方・大量に使う方・加齢臭対策に・部屋干し臭対策に"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwzqn.3rdw6dcb.g00qwzqn.3rdw7889/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdotkae-ru%2F2000000840762%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdotkae-ru%2Fi%2F10298519%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dotkae-ru/cabinet/item/t_img/b536/870-50414.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901301349033.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-01"
-        price: 363
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901301349033"
-        available: true
-        rating: 0
-        reviewCount: 1
-    genreId: "101892"
-  - rank: 2
     name: "ファブリーズ W除菌+消臭 詰め替え 1280ml×2セット"
     brand: "P&G（ファブリーズ）"
     price: 3297
@@ -63,6 +29,40 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F598757%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11321967%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/757/598757.jpg?_ex=128x128"
     genreId: "568537"
+  - rank: 2
+    name: "リセッシュ 除菌EX デオドラントパワー 香りが残らないタイプ 本体 360mL"
+    brand: "花王（リセッシュ）"
+    price: 488
+    capacity: "360mL"
+    pricePerUnit: "約1.4円/mL"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "99.9%除菌＆ウイルス除去（エンベロープタイプ）"
+      - "汗臭・加齢臭・タバコ臭をしっかり消臭"
+      - "6時間後も消臭効果が持続する長時間処方"
+    pros:
+      - "1プッシュあたり約0.47円で圧倒的コスパ"
+      - "大容量詰め替えで買い足し頻度が減る"
+      - "除菌・消臭ともに高い効果"
+    cons:
+      - "香りの好みが分かれる"
+      - "本体スプレーボトルが別途必要"
+    recommendedFor: "コスパ重視の方・大量に使う方・加齢臭対策に・部屋干し臭対策に"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rummn.3rdw60cd.g00rummn.3rdw75f1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficeyu%2Fo24-44304%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficeyu%2Fi%2F10513207%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/officeyu/cabinet/202410/44304.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901301349033.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-01"
+        price: 363
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901301349033"
+        available: true
+        rating: 0
+        reviewCount: 1
+    genreId: "401619"
   - rank: 3
     name: "ランドリン ファブリックミスト クラシックフローラル 370mL"
     brand: "ネイチャーラボ（ランドリン）"
@@ -90,10 +90,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftoku00301%2Fpbtuqj2ih5k3phffpwr6vs7ywy.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-28"
-        price: 617
-        rating: 0
-        reviewCount: 2
+        updatedAt: "2026-10-15"
+        price: 789
+        rating: 4.33
+        reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/toku00301_pbtuqj2ih5k3phffpwr6vs7ywy"
         available: true
     genreId: "568537"
@@ -124,7 +124,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseiketu-online%2Fnew-frais-natula-350-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-10-15"
         price: 3630
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seiketu-online_new-frais-natula-350-set"
         available: true
@@ -158,7 +158,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseiketu-online%2Fnew-frais-natula-350-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 3630
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seiketu-online_new-frais-natula-350-set"
         available: true
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foasismse%2F342501-500.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 2772
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oasismse_342501-500"
         available: true
@@ -220,7 +220,7 @@ products:
       - "初期コストが高め"
     recommendedFor: "まとめ買いで手間を減らしたい方・詰め替え運用でコスト管理したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sughn.3rdw62df.g00sughn.3rdw7388/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcubic-square%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcubic-square%2Fi%2F10000011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cubic-square/cabinet/mem_item/asrk/c/10000009line.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cubic-square/cabinet/mem_item/asrk/c/10000009line12.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

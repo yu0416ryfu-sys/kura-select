@@ -4,7 +4,7 @@ description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あ�
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 draft: false
 products:
   - rank: 1
@@ -80,7 +80,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpeacehair%2Fsai500gset.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/peacehair_sai500gset"
         available: true
@@ -94,7 +94,7 @@ products:
     capacity: "350g"
     pricePerUnit: "約16円/g"
     rating: 4.27
-    reviewCount: 3072
+    reviewCount: 3075
     features:
       - "洗いながら染めるクリームシャンプータイプ"
       - "白髪染め・トリートメント機能を兼ねる"
@@ -114,10 +114,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fibiki-kenkyujyo%2Faz711.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 5478
-        rating: 4.18
-        reviewCount: 1171
+        rating: 4.17
+        reviewCount: 1175
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ibiki-kenkyujyo_az711"
         available: true
     genreId: "507833"
@@ -151,7 +151,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.51
-    reviewCount: 2744
+    reviewCount: 2745
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -196,8 +196,8 @@ products:
     price: 11000
     capacity: "2本"
     pricePerUnit: "約5500円/本"
-    rating: 4.5
-    reviewCount: 30
+    rating: 4.47
+    reviewCount: 32
     features:
       - "植物エキス配合のボタニカル泡タイプヘアカラー"
       - "脱色せずに染めるタイプで髪へのダメージを抑えた設計"
@@ -219,7 +219,7 @@ products:
     price: 2640
     capacity: "400g"
     rating: 4.38
-    reviewCount: 8489
+    reviewCount: 8494
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

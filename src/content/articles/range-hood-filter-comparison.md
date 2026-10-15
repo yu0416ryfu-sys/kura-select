@@ -4,7 +4,7 @@ description: "レンジフードフィルター（換気扇フィルター）の
 category: "range-hood-filter"
 publishedAt: "2026-10-05"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 draft: false
 products:
   - rank: 1

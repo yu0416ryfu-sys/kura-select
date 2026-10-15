@@ -4,7 +4,7 @@ description: "パンツ型おむつのLサイズおすすめ7選を1枚あたり
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-10-15"
 draft: false
 products:
   - rank: 1
@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbabytown%2F5004-pampers-4902430148887.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-13"
+        updatedAt: "2026-10-15"
         price: 7700
         rating: 0
         reviewCount: 0
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111243099x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-13"
+        updatedAt: "2026-10-15"
         price: 7720
         rating: 4.82
         reviewCount: 120

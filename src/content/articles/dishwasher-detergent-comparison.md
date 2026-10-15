@@ -4,7 +4,7 @@ description: "食洗機用洗剤を1回あたりのコストで徹底比較。�
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "P&G 食洗機用ジョイ オレンジピール成分入り 詰替 490g"
@@ -226,7 +226,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8811720/"
         matchStatus: "matched"
-        updatedAt: "2026-10-13"
+        updatedAt: "2026-10-15"
         price: 840
         rating: 0
         reviewCount: 2
@@ -274,7 +274,7 @@ products:
     capacity: "450個"
     pricePerUnit: "約12円/個"
     rating: 4.81
-    reviewCount: 236
+    reviewCount: 237
     features:
       - "タブレットタイプの食洗機用洗剤"
       - "大容量のビッグパック3袋セット"

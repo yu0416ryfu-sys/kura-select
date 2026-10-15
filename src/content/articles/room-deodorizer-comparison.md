@@ -4,7 +4,7 @@ description: "消臭剤のおすすめ8選をコスパで徹底比較。リセ�
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "ハルの消臭剤 消臭ビーズ 詰替用"

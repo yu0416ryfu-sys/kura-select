@@ -3,7 +3,7 @@ title: "無香空間と消臭力どっちがいい？【2026年版】無香料�
 description: "無香空間（小林製薬）と消臭力（エステー）はどっちがいい？置き型消臭剤の定番2ブランドを1gあたりの単価・無香料か香りか・持続力・詰め替えのしやすさの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "room-deodorizer"
 publishedAt: "2026-08-03"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-15"
 articleType: "comparison"
 draft: false
 products:
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j976230/"
         matchStatus: "pending"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-15"
         price: 930
         rating: 4.58
         reviewCount: 69
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4901070119141.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-15"
         price: 383
         rating: 0
         reviewCount: 0

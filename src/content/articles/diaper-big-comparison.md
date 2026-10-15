@@ -70,7 +70,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_60000000002751"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         rating: 4
         reviewCount: 3
     genreId: "205198"
@@ -194,7 +194,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-15"
         rating: 0
         reviewCount: 0
     priceMax: 5852

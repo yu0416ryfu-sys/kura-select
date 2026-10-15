@@ -4,7 +4,7 @@ description: "サントリー・アサヒ・エビアンなど人気の天然水
 category: "mineral-water"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 draft: false
 products:
   - rank: 1
@@ -126,7 +126,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmeshiya%2F001-0010-001-spu1712.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 3240
         rating: 4.4
         reviewCount: 575

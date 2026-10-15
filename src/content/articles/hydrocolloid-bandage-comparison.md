@@ -4,7 +4,7 @@ description: "ハイドロコロイド絆創膏のおすすめ7選を1枚あた�
 category: "bandage"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-09-26"
+updatedAt: "2026-10-15"
 draft: false
 products:
   - rank: 1

@@ -4,7 +4,7 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-15"
 draft: false
 products:
   - rank: 1
@@ -81,8 +81,8 @@ products:
     price: 1181
     capacity: "本体+替え4個"
     pricePerUnit: "約295円/個"
-    rating: 4.58
-    reviewCount: 79
+    rating: 4.59
+    reviewCount: 80
     features:
       - "持ち手の本体と替えブラシ4個のスターターセット"
       - "ブラシ交換時に手を汚しにくい構造"

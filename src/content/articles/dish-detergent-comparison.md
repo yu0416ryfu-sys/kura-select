@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -46,8 +46,8 @@ products:
     price: 559
     capacity: "1000mL"
     pricePerUnit: "約0.56円/mL"
-    rating: 4.82
-    reviewCount: 11
+    rating: 4.83
+    reviewCount: 12
     features:
       - "植物系天然成分99%使用の低刺激処方"
       - "野菜・果物の洗浄にも使える食品対応"

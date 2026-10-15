@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "WEIMALL 不織布カラーマスク 立体3D 50枚"
@@ -126,7 +126,7 @@ products:
     price: 264
     capacity: "50枚"
     rating: 4.2
-    reviewCount: 22226
+    reviewCount: 22229
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -205,7 +205,7 @@ products:
     price: 276
     capacity: "20枚"
     rating: 4.06
-    reviewCount: 9255
+    reviewCount: 9259
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"

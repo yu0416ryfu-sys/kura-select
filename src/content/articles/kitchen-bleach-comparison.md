@@ -4,7 +4,7 @@ description: "キッチン用漂白剤を1mLあたりのコストで徹底比較
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4901301021144.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 4345
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4901301021144"
         available: true
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F1671344.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 1118
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_1671344"
         available: true
@@ -81,7 +81,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.64円/g"
     rating: 4.64
-    reviewCount: 1439
+    reviewCount: 1440
     features:
       - "酸素系漂白剤で幅広い用途に対応"
       - "界面活性剤配合でキッチン汚れにも効果的"
@@ -101,10 +101,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbutterflyeffectllc%2F46.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
-        price: 3475
+        updatedAt: "2026-10-15"
+        price: 3464
         rating: 4.8
-        reviewCount: 167
+        reviewCount: 168
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/butterflyeffectllc_46"
         available: true
     genreId: "210182"
@@ -224,7 +224,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F508035.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-15"
         price: 1954
         rating: 0
         reviewCount: 0

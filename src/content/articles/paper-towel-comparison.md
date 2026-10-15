@@ -4,7 +4,7 @@ description: "手拭き用ペーパータオルのおすすめ10選を、1枚（
 category: "kitchen-paper"
 publishedAt: "2026-10-14"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "200枚×49袋"
     pricePerUnit: "約0.54円/枚"
     rating: 4.77
-    reviewCount: 274
+    reviewCount: 275
     features:
       - "小判サイズの1枚もの（シングル）"
       - "国産の業務用ペーパータオル"
@@ -53,6 +53,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pssvn.3rdw67c0.g00pssvn.3rdw7b2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-miyaco%2F2012611%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-miyaco%2Fi%2F10000367%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-miyaco/cabinet/shohin4/2012611.jpg?_ex=128x128"
     genreId: "568271"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-miyaco%2F2012611.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-15"
+        price: 5060
+        rating: 4.33
+        reviewCount: 27
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-miyaco_2012611"
+        available: true
   - rank: 3
     name: "ペーパータオル エコタイプ 中判 200枚×30袋"
     brand: "ベクストミル"
@@ -76,6 +87,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F1228689%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/1228689_001-2.jpg?_ex=128x128"
     genreId: "568271"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F1228689.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-15"
+        price: 3970
+        rating: 4.58
+        reviewCount: 43
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_1228689"
+        available: true
   - rank: 4
     name: "イットコ ライトタオル L200 ハード 中判 200枚×30パック"
     brand: "イトマン（イットコ）"
@@ -122,6 +144,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq8tn.3rdw6841.g00qq8tn.3rdw7945/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocodecow%2F773072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocodecow%2Fi%2F10021998%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/095/773072.jpg?_ex=128x128"
     genreId: "568271"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F529287.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-15"
+        price: 4598
+        rating: 4.5
+        reviewCount: 34
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_529287"
+        available: true
   - rank: 6
     name: "業務用 ペーパータオル 中判 ピュアソフトREG 200枚×30袋"
     brand: "ピュアソフト"
@@ -145,6 +178,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pssvn.3rdw67c0.g00pssvn.3rdw7b2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-miyaco%2F2012621%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-miyaco%2Fi%2F10000370%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-miyaco/cabinet/shohin4/2012621.jpg?_ex=128x128"
     genreId: "568271"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-miyaco%2F2012621.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-15"
+        price: 4785
+        rating: 4.11
+        reviewCount: 9
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-miyaco_2012621"
+        available: true
   - rank: 7
     name: "クレシア EFハンドタオル スリムEX ソフトタイプ200 小判 200組×36袋"
     brand: "日本製紙クレシア"

@@ -4,7 +4,7 @@ description: "ジェルボールは液体洗剤より1回あたり割高です�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -239,8 +239,8 @@ products:
     price: 4598
     capacity: "70個"
     pricePerUnit: "約66円/個"
-    rating: 4.72
-    reviewCount: 36
+    rating: 4.73
+    reviewCount: 37
     features:
       - "洗剤と柔軟剤が一体になった4in1タイプ"
       - "すすぎ1回に対応した濃縮処方"
@@ -270,7 +270,7 @@ products:
   - rank: 9
     name: "ボールド ジェルボール4in1 ホワイトムスク＆フローラル 詰め替え 65個"
     brand: "P&G（ボールド）"
-    price: 4856
+    price: 4800
     capacity: "65個"
     rating: 5
     reviewCount: 2
@@ -300,7 +300,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/worldglobal_20250727090631-01056"
         available: true
     genreId: "210182"
-    pricePerUnit: "約75円/個"
+    pricePerUnit: "約74円/個"
   - rank: 10
     name: "アリエール ジェルボール 部屋干し＆スポーツ 詰め替え テラジャンボ"
     brand: "P&G（アリエール）"

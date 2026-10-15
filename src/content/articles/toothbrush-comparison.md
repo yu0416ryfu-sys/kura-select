@@ -4,7 +4,7 @@ description: "歯ブラシを1本あたりのコストで徹底比較。Shu&Shu�
 category: "toothpaste"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "Ci200シリーズ 歯科専売歯ブラシ"
@@ -13,7 +13,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約58円/本"
     rating: 4.46
-    reviewCount: 2408
+    reviewCount: 2410
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -26,7 +26,7 @@ products:
       - "電動タイプは替えブラシ確認が必要"
     recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F41868%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007938%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg01/41868_sam2.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1015_100b/kirikae2/41868_sam2.jpg?_ex=128x128"
     genreId: "506385"
   - rank: 2
     name: "FEED Shu&Shu 大人用歯ブラシアソート 20本 M"
@@ -99,7 +99,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Fs9.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-15"
         price: 1680
         rating: 4.39
         reviewCount: 138
@@ -113,7 +113,7 @@ products:
     capacity: "10本（約10ヶ月分）"
     pricePerUnit: "約140円/本"
     rating: 4.69
-    reviewCount: 2280
+    reviewCount: 2281
     features:
       - "歯科医院でも採用される定番ブラシ"
       - "PBT毛材で耐久性が高くヘタりにくい"
@@ -127,7 +127,7 @@ products:
       - "デザインがシンプルすぎる"
     recommendedFor: "歯科医推奨の品質をコスパよく使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fyyyy27%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007716%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/13453622/yyyy27_2026.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1015_100b/kirikae3/yyyy27_2026.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -168,7 +168,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhagahaga%2Fsns-266102.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-15"
         price: 1270
         rating: 4.78
         reviewCount: 9

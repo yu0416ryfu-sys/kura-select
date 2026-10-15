@@ -4,7 +4,7 @@ description: "制汗剤・デオドラントを容量あたりのコストで比
 category: "deodorant"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "Ban 汗ブロックロールオン プレミアムゴールドラベル 40mL"
@@ -81,7 +81,7 @@ products:
     capacity: "30mL"
     pricePerUnit: "約110円/mL"
     rating: 4.51
-    reviewCount: 434
+    reviewCount: 435
     features:
       - "ロールオンで塗れるジェルクリームタイプ"
       - "手を汚しにくくワキへ直塗りしやすい"
@@ -161,7 +161,7 @@ products:
     capacity: "20ml"
     pricePerUnit: "約167円/ml"
     rating: 4.14
-    reviewCount: 1689
+    reviewCount: 1690
     features:
       - "ロールオンタイプの制汗デオドラント"
       - "無香料タイプ"
@@ -270,8 +270,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaruishouten%2Fy02488k.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-13"
+        matchStatus: "matched"
+        updatedAt: "2026-10-15"
         price: 4500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/maruishouten_y02488k"
         available: true
@@ -305,7 +305,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbenkyoudou%2Fyo-yumail-4580392000254.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-13"
+        updatedAt: "2026-10-15"
         price: 1800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/benkyoudou_yo-yumail-4580392000254"
         available: true

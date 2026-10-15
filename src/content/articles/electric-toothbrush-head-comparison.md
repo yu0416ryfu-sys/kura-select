@@ -4,7 +4,7 @@ description: "電動歯ブラシの替えブラシをメーカー別にコスパ
 category: "toothpaste"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-15"
 draft: false
 products:
   - rank: 1
@@ -103,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdistore%2Feb50rx-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-15"
         price: 8480
         rating: 0
         reviewCount: 1
@@ -137,8 +137,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksdenki%2F4549980443545.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
-        price: 1188
+        updatedAt: "2026-10-15"
+        price: 941
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksdenki_4549980443545"
         available: true
         rating: 4.71
@@ -150,8 +150,8 @@ products:
     price: 8338
     capacity: "6本"
     pricePerUnit: "約1390円/本"
-    rating: 4.59
-    reviewCount: 220
+    rating: 4.58
+    reviewCount: 221
     features:
       - "iOシリーズ（iO2〜iO9）専用設計"
       - "純正品のためiO本体の自動認識機能が正常動作"
@@ -165,13 +165,13 @@ products:
       - "互換品より1本あたり単価が高め"
     recommendedFor: "iOシリーズ使用中で純正品にこだわりたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4rin.3rdw6d84.g00t4rin.3rdw7ca0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foralb-braun%2Fhds-ultimate2plus4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foralb-braun%2Fi%2F10001249%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oralb-braun/cabinet/item/hds-ultimate2plus4/hds-ulti2p4_2409.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oralb-braun/cabinet/event/261010/hds-ultimate2plus4.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foralb-braun%2Fultimate2-4-p.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-15"
         price: 8338
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oralb-braun_ultimate2-4-p"
         available: true
@@ -239,7 +239,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fphilips-japan%2Fhx9043.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-15"
         price: 6141
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/philips-japan_hx9043"
         available: true
@@ -272,7 +272,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fninestars%2Fse4-br.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 3408
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ninestars_se4-br"
         available: true

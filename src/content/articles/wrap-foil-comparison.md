@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9649965.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-15"
         price: 1379
         rating: 5
         reviewCount: 3
@@ -270,7 +270,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j662098/"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-15"
         price: 1232
         rating: 4.69
         reviewCount: 676

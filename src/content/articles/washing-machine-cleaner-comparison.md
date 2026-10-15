@@ -4,7 +4,7 @@ description: "洗濯槽クリーナーを1回あたりのコストで徹底比�
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "過炭酸ナトリウム 酸素系漂白剤 950g"
@@ -13,7 +13,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.63円/g"
     rating: 4.76
-    reviewCount: 2152
+    reviewCount: 2155
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "pH10.5のアルカリ性で汚れに働きかける"
@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann1.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-15"
         price: 598
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann1"
         available: true
         rating: 4.56
-        reviewCount: 2079
+        reviewCount: 2080
     genreId: "564510"
   - rank: 2
     name: "オキシクリーン マルチパーパスクリーナー 5.26kg（コストコ版）"
@@ -47,7 +47,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.64円/g"
     rating: 4.64
-    reviewCount: 1439
+    reviewCount: 1440
     features:
       - "酸素系漂白剤で洗濯槽以外にも多用途"
       - "界面活性剤入りのアメリカ版（コストコで流通する大容量）"
@@ -68,8 +68,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbutterflyeffectllc%2F46.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
-        price: 3475
+        updatedAt: "2026-10-15"
+        price: 3464
         rating: 4.8
         reviewCount: 168
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/butterflyeffectllc_46"

@@ -4,7 +4,7 @@ description: "トイレ用洗剤を1回あたりのコストで徹底比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "ドメスト 除菌クリーナー 500ml×3個セット"
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4903301118336.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 244
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4903301118336"
         available: true
@@ -146,8 +146,8 @@ products:
     name: "エコストア トイレクリーナー ユーカリ 500mL"
     brand: "ecostore"
     price: 880
-    capacity: "500ml"
-    pricePerUnit: "約1.8円/ml"
+    capacity: "500mL"
+    pricePerUnit: "約1.8円/mL"
     rating: 4.61
     reviewCount: 38
     features:
@@ -162,14 +162,14 @@ products:
       - "酸性や塩素系など種類の確認が必要"
       - "素材や使用場所によって注意点がある"
     recommendedFor: "トイレ用洗剤を液体タイプ中心に比較したい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00thycn.3rdw660f.g00thycn.3rdw7533/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fecostore%2F9420015012583%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fecostore%2Fi%2F10000918%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ecostore/cabinet/rankinglabel/9420015012583_rb.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pxfkn.3rdw6005.g00pxfkn.3rdw7ac5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkoex%2F1288-9420015012583%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkoex%2Fi%2F10251652%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkoex/cabinet/1288_4/1288-9420015012583_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzozo%2F47433692.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-30"
+        updatedAt: "2026-10-15"
         price: 880
         rating: 0
         reviewCount: 2

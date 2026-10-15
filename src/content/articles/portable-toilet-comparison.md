@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ9選を1回�
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fozoneassocia%2Ftoilet100.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-15"
         price: 3980
         rating: 4.25
         reviewCount: 208
@@ -93,7 +93,7 @@ products:
     price: 1280
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7331
+    reviewCount: 7333
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenton-store%2Fportabletoilet01f2.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-15"
         price: 5280
         rating: 4.68
         reviewCount: 107
@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faaa8390a3%2F4969919200672.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-15"
         price: 5500
         rating: 0
         reviewCount: 0
@@ -227,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2F100pol1.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-15"
         price: 4999
         rating: 4.5
         reviewCount: 969
@@ -241,7 +241,7 @@ products:
     price: 1580
     capacity: "20回分"
     rating: 4.52
-    reviewCount: 7232
+    reviewCount: 7233
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcenturyshop%2Fportable-toilet.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-15"
         price: 3480
         rating: 0
         reviewCount: 0

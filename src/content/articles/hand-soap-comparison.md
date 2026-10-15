@@ -4,7 +4,7 @@ description: "ハンドソープはどれが殺菌力とコスパを両立する
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "ミューズ 泡ハンドソープ オリジナル 詰め替え 900mL"

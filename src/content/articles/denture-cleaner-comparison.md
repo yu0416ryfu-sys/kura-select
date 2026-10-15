@@ -4,7 +4,7 @@ description: "入れ歯洗浄剤のおすすめ9選を1錠あたりの単価で�
 category: "denture-cleaner"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "スッキリデント 部分入れ歯総入れ歯兼用 120錠"
@@ -132,13 +132,13 @@ products:
         available: true
     genreId: "208216"
   - rank: 5
-    name: "スマイルデントプラス 120錠 2セット"
+    name: "スマイルデントプラス 120錠 2箱"
     brand: "スマイルデントプラス"
-    price: 2800
-    capacity: "120錠×2セット"
+    price: 2980
+    capacity: "120錠×2箱（240錠）"
     pricePerUnit: "約12円/錠"
-    rating: 4.72
-    reviewCount: 47
+    rating: 4.57
+    reviewCount: 7
     features:
       - "歯科医院専売の入れ歯洗浄剤"
       - "銀イオンや除菌成分を配合したつけ置きタイプ"
@@ -151,8 +151,8 @@ products:
       - "香りの強さは好みが分かれる"
       - "保管スペースを確保したい"
     recommendedFor: "除菌・消臭を重視してまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F1324419-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000997%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/1324419-02_001.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk19n.3rdw629a.g00qk19n.3rdw7a1d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkarayasa%2F10000125-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkarayasa%2Fi%2F10000178%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/karayasa/cabinet/01gazou/main/10000125-2.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -220,7 +220,7 @@ products:
       - "保管スペースをやや確保したい"
     recommendedFor: "毎日ケアと週次ケアを分けて丁寧に手入れしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F7171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10004542%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shouhin10/25930_7171_sam.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1015_100b/kirikae2/25930_7171_sam.jpg?_ex=128x128"
     genreId: "208216"
   - rank: 8
     name: "フィジオクリーン キラリ錠剤 30錠 6箱"

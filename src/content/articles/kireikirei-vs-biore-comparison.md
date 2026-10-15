@@ -3,7 +3,7 @@ title: "キレイキレイとビオレuどっちがいい？【2026年版】殺�
 description: "キレイキレイ（ライオン）とビオレu（花王）のハンドソープはどっちがいい？定番2ブランドの違いを、薬用殺菌成分の位置づけ・泡と液体の選択肢・1mLあたりの単価・肌あたりの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "hand-soap"
 publishedAt: "2026-08-31"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 articleType: "comparison"
 draft: false
 products:
@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Freonstyle%2F4901301243935.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 1400
-        rating: 4.78
-        reviewCount: 46
+        rating: 4.79
+        reviewCount: 47
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/reonstyle_4901301243935"
         available: true
     genreId: "204748"
@@ -68,10 +68,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos00871.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 2459
-        rating: 4.8
-        reviewCount: 35
+        rating: 4.75
+        reviewCount: 36
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos00871"
         available: true
     genreId: "304758"
@@ -103,13 +103,47 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301446404.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 1149
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301446404"
         available: true
   - rank: 4
+    name: "ビオレu 泡ハンドソープ 業務用 4L つめかえ用"
+    brand: "花王（ビオレu）"
+    price: 3358
+    capacity: "4L"
+    pricePerUnit: "約0.84円/mL"
+    rating: 4.89
+    reviewCount: 35
+    features:
+      - "業務用サイズの泡ハンドソープ詰め替え"
+      - "弱酸性で手肌への負担に配慮した処方"
+      - "1本で長く使えるボトル形状"
+    pros:
+      - "ビオレuの泡タイプを最大サイズで確保できる"
+      - "セット品より1本単位で買い足しやすい"
+      - "泡で出るため小さな子どもでも扱いやすい"
+    cons:
+      - "重量があり詰め替え時に扱いにくい"
+      - "使い切るまでに時間がかかる家庭では保管場所が必要"
+    recommendedFor: "ビオレuの泡タイプを大容量で使い続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvoan.3rdw6634.g00tvoan.3rdw7deb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-relight%2F002001-4901301416780blk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-relight%2Fi%2F10009787%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-relight/cabinet/thum1/imgrc0098651122.jpg?_ex=128x128"
+    genreId: "101833"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3112833/"
+        matchStatus: "matched"
+        updatedAt: "2026-10-15"
+        price: 4180
+        rating: 4.81
+        reviewCount: 73
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_3112833"
+        available: true
+  - rank: 5
     name: "キレイキレイ 薬用液体ハンドソープ 詰替用 800mL"
     brand: "ライオン（キレイキレイ）"
     price: 685
@@ -137,45 +171,11 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3242257/"
         matchStatus: "pending"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 535
         rating: 4.65
         reviewCount: 210
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_3242257"
-        available: true
-  - rank: 5
-    name: "ビオレu 泡ハンドソープ 業務用 4L つめかえ用"
-    brand: "花王（ビオレu）"
-    price: 3430
-    capacity: "4L"
-    pricePerUnit: "約0.86円/mL"
-    rating: 4.89
-    reviewCount: 35
-    features:
-      - "業務用サイズの泡ハンドソープ詰め替え"
-      - "弱酸性で手肌への負担に配慮した処方"
-      - "1本で長く使えるボトル形状"
-    pros:
-      - "ビオレuの泡タイプを最大サイズで確保できる"
-      - "セット品より1本単位で買い足しやすい"
-      - "泡で出るため小さな子どもでも扱いやすい"
-    cons:
-      - "重量があり詰め替え時に扱いにくい"
-      - "使い切るまでに時間がかかる家庭では保管場所が必要"
-    recommendedFor: "ビオレuの泡タイプを大容量で使い続けたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvoan.3rdw6634.g00tvoan.3rdw7deb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-relight%2F002001-4901301416780blk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-relight%2Fi%2F10009787%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-relight/cabinet/thum1/imgrc0098651122.jpg?_ex=128x128"
-    genreId: "101833"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3112833/"
-        matchStatus: "matched"
-        updatedAt: "2026-10-11"
-        price: 4180
-        rating: 4.81
-        reviewCount: 73
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_3112833"
         available: true
   - rank: 6
     name: "キレイキレイ 薬用泡ハンドソープ 詰替用"
@@ -225,13 +225,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10068791.html"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/9836705/"
         matchStatus: "pending"
-        updatedAt: "2026-10-11"
-        price: 328
-        rating: 5
-        reviewCount: 6
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10068791"
+        updatedAt: "2026-10-15"
+        price: 479
+        rating: 4.5
+        reviewCount: 127
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_9836705"
         available: true
     genreId: "304758"
   - rank: 8
@@ -262,7 +262,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2874540019.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 578
         rating: 4.8
         reviewCount: 5

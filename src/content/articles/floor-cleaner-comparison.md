@@ -4,7 +4,7 @@ description: "フローリング掃除シートを1枚あたりのコストで�
 category: "floor-cleaner"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "激落ちくん ウェットシート 水の激落ちシート Ba フローリング＆リビング用シー"

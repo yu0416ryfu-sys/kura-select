@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に7製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 draft: false
 products:
   - rank: 1

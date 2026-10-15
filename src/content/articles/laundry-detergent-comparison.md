@@ -4,7 +4,7 @@ description: "洗濯洗剤は液体・粉末・ジェルボールのどれがコ
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -41,13 +41,13 @@ products:
         reviewCount: 13
     genreId: "210182"
   - rank: 2
-    name: "トップ クリアリキッド 業務用 4kg×3本"
+    name: "トップ クリアリキッド抗菌 業務用 4kg×3本"
     brand: "ライオン（トップ）"
-    price: 7166
+    price: 7170
     capacity: "4kg×3本（12kg）"
     pricePerUnit: "約0.60円/g"
-    rating: 4.8
-    reviewCount: 215
+    rating: 4.94
+    reviewCount: 17
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -60,8 +60,8 @@ products:
       - "香りや洗い上がりの好みを確認したい"
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "洗濯物の種類に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r74en.3rdw6e21.g00r74en.3rdw7279/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-nontarou%2Fr5-15080k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-nontarou%2Fi%2F10001040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-nontarou/cabinet/sale/root_hz/r5-15080.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r74en.3rdw6e21.g00r74en.3rdw7279/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-nontarou%2Fr5-15090k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-nontarou%2Fi%2F10005822%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-nontarou/cabinet/sale/root_hz/r5-15090.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -125,7 +125,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkarimerobox%2Ftoys-n-b0h37z9x9j.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-15"
         price: 3990
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/karimerobox_toys-n-b0h37z9x9j"
         available: true
@@ -159,7 +159,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-15"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -196,7 +196,7 @@ products:
     capacity: "380g"
     pricePerUnit: "約6.7円/g"
     rating: 4.68
-    reviewCount: 186
+    reviewCount: 187
     features:
       - "衣類洗濯に使う洗剤"
       - "継続利用しやすい定番構成"
@@ -216,12 +216,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fg0290005set.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-16"
+        updatedAt: "2026-10-15"
         price: 4367
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_g0290005set"
         available: true
-        rating: 4.75
-        reviewCount: 8
+        rating: 4.78
+        reviewCount: 9
     genreId: "210182"
   - rank: 8
     name: "海へ Fukii 詰替 380g×3個セット"
@@ -313,7 +313,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7174421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10198614%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11663202/12603758/7262632.jpg?_ex=128x128"
     genreId: "210182"
-    priceMax: 9119
 tags:
   - "洗濯洗剤"
   - "コスパ"

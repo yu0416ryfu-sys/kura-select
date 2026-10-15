@@ -4,7 +4,7 @@ description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹
 category: "contact-lens"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-15"
 products:
   - rank: 1
     name: "ロートCキューブ ソフトワン モイストa"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcontact-clean%2F284.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-13"
+        updatedAt: "2026-10-15"
         price: 3230
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/contact-clean_284"
         available: true
@@ -90,7 +90,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffirstcontact%2F478.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-13"
+        updatedAt: "2026-10-15"
         price: 3840
         rating: 4.86
         reviewCount: 14
@@ -104,7 +104,7 @@ products:
     capacity: "355mL×12本"
     pricePerUnit: "約1.1円/mL"
     rating: 4.81
-    reviewCount: 3012
+    reviewCount: 3013
     features:
       - "ソフトコンタクトレンズ用の洗浄・保存液セット"
       - "ボシュロムのレニューフレッシュを大容量で用意できる"
