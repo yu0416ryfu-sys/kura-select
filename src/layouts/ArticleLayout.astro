@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
+import { getNoindexArticleSlugs } from "../../scripts/lib/noindex-articles.mjs";
 import Container from "../components/layout/Container.astro";
 import JsonLd from "../components/seo/JsonLd.astro";
 import ComparisonTable from "../components/product/ComparisonTable.astro";
@@ -119,6 +120,8 @@ const formatJaDate = (date: Date): string =>
 
 // 記事別OGP画像パス（ビルド時に generate-ogp.mjs で生成）
 const ogImage = `/og/articles/${article.id}.png`;
+// 入れ替えで外した記事は noindex,follow（data/noindex-articles.json・sitemap からも外す）
+const isNoindex = getNoindexArticleSlugs().has(article.id);
 
 const articleJsonLd = {
   "@context": "https://schema.org",
@@ -273,6 +276,8 @@ const productJsonLds = products
   ogType="article"
   publishedTime={data.publishedAt.toISOString()}
   modifiedTime={(data.updatedAt ?? data.publishedAt).toISOString()}
+  noindex={isNoindex}
+  nofollow={false}
 >
   <Fragment slot="head">
     <JsonLd data={articleJsonLd} />
