@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -145,7 +145,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-17"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true
@@ -155,10 +155,10 @@ products:
   - rank: 6
     name: "manyo ピュアクレンジングオイル 200mL"
     brand: "manyo"
-    price: 1400
+    price: 2000
     capacity: "200mL"
     rating: 4.46
-    reviewCount: 1176
+    reviewCount: 1177
     features:
       - "天然由来成分を重視したクレンジングオイル"
       - "400mLの大容量タイプ"
@@ -178,7 +178,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkscojp%2F960120670.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-17"
         price: 2380
         rating: 4.46
         reviewCount: 68
@@ -249,7 +249,7 @@ products:
     price: 2300
     capacity: "200mL"
     rating: 4.69
-    reviewCount: 569
+    reviewCount: 570
     features:
       - "ドクダミエキス配合のクレンジングオイル"
       - "毛穴や皮脂汚れまで落とす韓国コスメ"

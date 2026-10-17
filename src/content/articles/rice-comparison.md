@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "国内産 ブレンド米 白米 10kg（訳あり）"
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkosihikari%2F205.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-17"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kosihikari_205"
         available: true
@@ -127,7 +127,7 @@ products:
     recommendedFor: "新潟県産コシヒカリを無洗米で使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3eon.3rdw616f.g00q3eon.3rdw7349/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakizawa%2F2019090073%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftakizawa%2Fi%2F10000227%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 4.88
-    reviewCount: 142
+    reviewCount: 144
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/takizawa/cabinet/syouhinn/08533100/musenmai10kgver3.jpg?_ex=128x128"
     pricePerUnit: "約620円/kg"
     offers:
@@ -135,12 +135,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkomenoya%2Frfngtkshknb10000.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-17"
         price: 7180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/komenoya_rfngtkshknb10000"
         available: true
         rating: 4.93
-        reviewCount: 14
+        reviewCount: 15
     genreId: "201184"
   - rank: 5
     name: "無洗米 富山県産コシヒカリ 10kg"
@@ -239,7 +239,7 @@ products:
     price: 8710
     capacity: "18kg〜20kg"
     rating: 4.74
-    reviewCount: 45842
+    reviewCount: 45846
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

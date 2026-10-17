@@ -4,7 +4,7 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "本体1個＋替刃16個"
     pricePerUnit: "約222円/個"
     rating: 4.68
-    reviewCount: 3480
+    reviewCount: 3481
     features:
       - "5枚刃で広い面積をまとめて剃れる構造"
       - "極薄ヘッドで鼻下やあご周りなど細部へのフィット性が高い"
@@ -82,7 +82,7 @@ products:
     capacity: "8個"
     pricePerUnit: "約288円/個"
     rating: 4.55
-    reviewCount: 764
+    reviewCount: 765
     features:
       - "ハイドロ5シリーズ用の替刃セット"
       - "肌あたりを和らげるジェルボックス搭載"

@@ -4,7 +4,7 @@ description: "過炭酸ナトリウムとオキシクリーンは何が違う？
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann1.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-17"
         price: 598
         rating: 4.56
         reviewCount: 2082
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fares%2F700056.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-17"
         price: 1991
         rating: 4.66
         reviewCount: 77
@@ -150,7 +150,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.66円/g"
     rating: 4.52
-    reviewCount: 189
+    reviewCount: 190
     features:
       - "アメリカ向け仕様のマルチパーパスクリーナー"
       - "界面活性剤と香料を配合した処方"
@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbutterflyeffectllc%2F46.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-17"
         price: 3464
         rating: 4.8
         reviewCount: 168
@@ -184,7 +184,7 @@ products:
     capacity: "900g"
     pricePerUnit: "約0.71円/g"
     rating: 4.82
-    reviewCount: 408
+    reviewCount: 409
     features:
       - "国内製造の過炭酸ナトリウム"
       - "少量から試せる小容量パッケージ"
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fares%2F700181001.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-17"
         price: 638
         rating: 4.86
         reviewCount: 42

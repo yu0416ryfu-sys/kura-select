@@ -4,7 +4,7 @@ description: "お風呂防カビ剤を1回あたりのコストで比較。く�
 category: "bath-mold-preventer"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1

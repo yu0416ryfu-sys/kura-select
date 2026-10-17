@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "メリーズファストプレミアム テープ Mサイズ"
@@ -54,8 +54,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/anu1891/"
-        matchStatus: "pending"
-        updatedAt: "2026-10-15"
+        matchStatus: "matched"
+        updatedAt: "2026-10-17"
         price: 2390
         rating: 0
         reviewCount: 0

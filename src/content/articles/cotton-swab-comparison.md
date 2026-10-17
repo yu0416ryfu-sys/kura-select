@@ -4,7 +4,7 @@ description: "綿棒をコットン100%・紙軸・スパイラル・抗菌タ�
 category: "cotton-swab"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -306,7 +306,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkintarou%2F4976558006428.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-17"
         price: 188
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kintarou_4976558006428"
         available: true

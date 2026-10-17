@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に7製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -28,7 +28,7 @@ products:
       - "収納時は通常の浅型フライパンよりかさばりやすい"
     recommendedFor: "焼き物に使いやすいスキレット風タイプを探す方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tl2kn.3rdw67a7.g00tl2kn.3rdw7a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsuyadenki%2F7422941010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsuyadenki%2Fi%2F10105958%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsuyadenki/cabinet/img00091/7422941010.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsuyadenki/cabinet/a07000385/7422941010.jpg?_ex=128x128"
     genreId: "215927"
   - rank: 2
     name: "アイリスオーヤマ ナチュかるフライパン IH対応 26cm"
@@ -125,7 +125,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F3168430321212.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-17"
         price: 5018
         rating: 4.5
         reviewCount: 4
@@ -195,7 +195,7 @@ products:
     price: 1998
     capacity: "1個"
     rating: 4.5
-    reviewCount: 327
+    reviewCount: 328
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -215,7 +215,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/wkj6918/"
         matchStatus: "pending"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-17"
         price: 6180
         rating: 0
         reviewCount: 0

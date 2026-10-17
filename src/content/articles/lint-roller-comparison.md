@@ -4,7 +4,7 @@ description: "粘着クリーナー（コロコロ）を1巻あたりのコス�
 category: "lint-roller"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "粘着クリーナー スペアテープ 粘着王 カーペット用 3巻入"
@@ -13,7 +13,7 @@ products:
     capacity: "3巻入り（幅160mm）"
     pricePerUnit: "約84円/巻"
     rating: 5
-    reviewCount: 3
+    reviewCount: 4
     features:
       - "各社共通サイズで互換性のある日本製スペアテープ"
       - "幅160mm×紙芯内径38mmの標準サイズ"

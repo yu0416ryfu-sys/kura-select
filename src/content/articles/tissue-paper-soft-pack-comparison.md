@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -125,7 +125,7 @@ products:
     price: 5980
     capacity: "200組×90個"
     rating: 4.63
-    reviewCount: 40
+    reviewCount: 41
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -180,7 +180,7 @@ products:
     price: 2640
     capacity: "150組×50個（7500組）"
     rating: 4.56
-    reviewCount: 848
+    reviewCount: 851
     features:
       - "アイリスオーヤマのソフトパック"
       - "150組×50個のまとめ買いパック"
@@ -213,7 +213,7 @@ products:
     price: 1600
     capacity: "200組×80個"
     rating: 4.66
-    reviewCount: 1308
+    reviewCount: 1310
     features:
       - "箱を使わないソフトパック仕様"
       - "200組のたっぷり大容量"

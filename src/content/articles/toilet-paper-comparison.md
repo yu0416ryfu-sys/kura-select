@@ -4,7 +4,7 @@ description: "シングルのトイレットペーパーを1mあたりの単価�
 category: "toilet-paper"
 publishedAt: "2024-11-01"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "コアユース シングル 芯なし"
@@ -13,7 +13,7 @@ products:
     capacity: "170m×48ロール"
     pricePerUnit: "約0.58円/m"
     rating: 4.52
-    reviewCount: 2035
+    reviewCount: 2036
     features:
       - "芯なしのロングタイプで交換の手間を減らしやすい"
       - "再生紙を使用した家庭用にも業務用にも使える仕様"
@@ -69,7 +69,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fikurun0810%2F101436.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-17"
         matchStatus: "matched"
         rating: 0
         reviewCount: 1
@@ -99,13 +99,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Febarabo%2Febr-ppr-core-p2009.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fazukipalette%2Fs25jc7gyfsoqpj3cyrfamfjvru.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-14"
-        price: 6675
+        updatedAt: "2026-10-17"
+        price: 8225
         rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ebarabo_ebr-ppr-core-p2009"
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/azukipalette_s25jc7gyfsoqpj3cyrfamfjvru"
         available: true
     genreId: "501098"
   - rank: 4
@@ -138,7 +138,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.73円/m"
     rating: 4.67
-    reviewCount: 2857
+    reviewCount: 2860
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
@@ -191,7 +191,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujisanwa%2Fsanwa170ms6r.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-17"
         price: 5350
         rating: 0
         reviewCount: 1
@@ -205,7 +205,7 @@ products:
     capacity: "110m×45ロール"
     pricePerUnit: "約0.80円/m"
     rating: 4.72
-    reviewCount: 1103
+    reviewCount: 1104
     features:
       - "国産のシングルトイレットペーパー"
       - "個包装で保管時の衛生面に配慮しやすい"
@@ -240,7 +240,7 @@ products:
     capacity: "150m×36ロール"
     pricePerUnit: "約0.81円/m"
     rating: 4.62
-    reviewCount: 762
+    reviewCount: 763
     features:
       - "芯なしの長巻きシングルトイレットペーパー"
       - "個包装で分けて保管しやすい"
@@ -305,8 +305,8 @@ products:
     brand: "アイリスプラザ"
     price: 2981
     capacity: "250m×16ロール"
-    rating: 4.61
-    reviewCount: 439
+    rating: 4.6
+    reviewCount: 440
     features:
       - "パルプを使用した消臭機能付きのシングルタイプ"
       - "芯なしの長巻き仕様で省スペースに保管しやすい"

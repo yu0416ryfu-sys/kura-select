@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 1040
     capacity: "40本"
     pricePerUnit: "約26円/本"
-    rating: 4.69
-    reviewCount: 660
+    rating: 4.68
+    reviewCount: 662
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -69,7 +69,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisiadenki%2F4976680250058.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-17"
         price: 1188
         rating: 0
         reviewCount: 0
@@ -102,12 +102,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftop1-price%2F20161219-16denchi.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-17"
         price: 1280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/top1-price_20161219-16denchi"
         available: true
         rating: 4.51
-        reviewCount: 3532
+        reviewCount: 3533
     genreId: "212634"
   - rank: 4
     name: "Panasonic アルカリ乾電池 単3形 20本パック"
@@ -184,7 +184,7 @@ products:
     capacity: "16本"
     pricePerUnit: "約177円/本"
     rating: 4.45
-    reviewCount: 670
+    reviewCount: 671
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -285,7 +285,7 @@ products:
     price: 800
     capacity: "40本"
     rating: 4.63
-    reviewCount: 1155
+    reviewCount: 1156
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"

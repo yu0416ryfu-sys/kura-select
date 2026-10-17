@@ -4,7 +4,7 @@ description: "化粧用コットンはどれが安くてコスパがいい？シ
 category: "cotton"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "業務用フェイシャルコットン エステ化粧用"

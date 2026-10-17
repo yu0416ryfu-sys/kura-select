@@ -4,7 +4,7 @@ description: "手拭き用ペーパータオルのおすすめ10選を、1枚（
 category: "kitchen-paper"
 publishedAt: "2026-10-14"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -57,8 +57,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-miyaco%2F2012611.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-15"
+        matchStatus: "matched"
+        updatedAt: "2026-10-17"
         price: 5060
         rating: 4.33
         reviewCount: 27
@@ -91,8 +91,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F1228689.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-15"
+        matchStatus: "matched"
+        updatedAt: "2026-10-17"
         price: 3970
         rating: 4.58
         reviewCount: 43
@@ -149,7 +149,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F529287.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-17"
         price: 4598
         rating: 4.5
         reviewCount: 34
@@ -182,8 +182,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-miyaco%2F2012621.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-15"
+        matchStatus: "matched"
+        updatedAt: "2026-10-17"
         price: 4785
         rating: 4.11
         reviewCount: 9
@@ -219,7 +219,7 @@ products:
     capacity: "200組×30パック"
     pricePerUnit: "約0.98円/組"
     rating: 4.76
-    reviewCount: 349
+    reviewCount: 350
     features:
       - "中判（レギュラーサイズ）の2枚重ね・ソフトタイプ"
       - "牛乳パック類を配合した再生紙（商品ページ表記）"

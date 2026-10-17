@@ -4,7 +4,7 @@ description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹
 category: "contact-lens"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "ロートCキューブ ソフトワン モイストa"
@@ -206,7 +206,7 @@ products:
     capacity: "355mL×4本"
     pricePerUnit: "約1.6円/mL"
     rating: 4.74
-    reviewCount: 1929
+    reviewCount: 1928
     features:
       - "レニューフレッシュを試しやすい本数でそろえられるセット"
       - "ソフトレンズの洗浄・すすぎ・消毒・保存に対応"
@@ -283,12 +283,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ficare%2Fbid-car-10014.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-23"
+        updatedAt: "2026-10-17"
         price: 4200
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/icare_bid-car-10014"
         available: true
-        rating: 4.77
-        reviewCount: 87
+        rating: 4.78
+        reviewCount: 89
     genreId: "214884"
   - rank: 10
     name: "コンセプト ワンステップ トリプルパック"
@@ -316,7 +316,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flensfree%2Famsoco300t-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-17"
         price: 4800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lensfree_amsoco300t-2"
         available: true

@@ -3,7 +3,7 @@ title: "キレイキレイとビオレuどっちがいい？【2026年版】殺�
 description: "キレイキレイ（ライオン）とビオレu（花王）のハンドソープはどっちがいい？定番2ブランドの違いを、薬用殺菌成分の位置づけ・泡と液体の選択肢・1mLあたりの単価・肌あたりの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "hand-soap"
 publishedAt: "2026-08-31"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 articleType: "comparison"
 draft: false
 products:
@@ -116,7 +116,7 @@ products:
     capacity: "4L"
     pricePerUnit: "約0.84円/mL"
     rating: 4.89
-    reviewCount: 35
+    reviewCount: 36
     features:
       - "業務用サイズの泡ハンドソープ詰め替え"
       - "弱酸性で手肌への負担に配慮した処方"
@@ -184,7 +184,7 @@ products:
     capacity: "4800ml"
     pricePerUnit: "約0.87円/mL"
     rating: 4.72
-    reviewCount: 434
+    reviewCount: 435
     features:
       - "殺菌成分を配合した医薬部外品の薬用泡タイプ"
       - "シトラスフルーティの香り"

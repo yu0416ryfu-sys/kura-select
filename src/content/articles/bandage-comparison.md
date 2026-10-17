@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ9選を1枚あた�
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -128,8 +128,8 @@ products:
     price: 1530
     capacity: "100枚"
     pricePerUnit: "約15円/枚"
-    rating: 4.52
-    reviewCount: 31
+    rating: 4.53
+    reviewCount: 32
     features:
       - "伸縮性の高いポリウレタンエラストマー素材"
       - "通気性があり素肌に近い色味"
@@ -182,7 +182,7 @@ products:
   - rank: 8
     name: "ケアリーヴ 防水タイプ Mサイズ 40枚"
     brand: "ニチバン（ケアリーヴ）"
-    price: 814
+    price: 812
     capacity: "40枚"
     pricePerUnit: "約20円/枚"
     rating: 4.79

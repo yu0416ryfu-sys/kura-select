@@ -4,7 +4,7 @@ description: "クローゼット用・引き出し用の衣類防虫剤を1個�
 category: "moth-repellent"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "ムシューダ 1年間有効 防虫剤 引き出し・衣装ケース用 32個入×2箱セット"
@@ -13,7 +13,7 @@ products:
     capacity: "32個×2箱"
     pricePerUnit: "約28円/個"
     rating: 4.79
-    reviewCount: 148
+    reviewCount: 149
     features:
       - "引き出し・衣装ケース用に最適化された設計"
       - "1年間有効で交換頻度を抑えられる"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Ft2x16s.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-17"
         price: 2799
         rating: 0
         reviewCount: 0

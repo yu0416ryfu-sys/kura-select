@@ -4,7 +4,7 @@ description: "IH対応の一人用鍋を16cm・18cm中心に9製品比較。卓�
 category: "cooking-pot"
 publishedAt: "2026-05-10"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -126,7 +126,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcooking-clocca%2F10001872.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-10-17"
         price: 7480
         rating: 0
         reviewCount: 1

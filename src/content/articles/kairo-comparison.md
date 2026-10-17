@@ -4,7 +4,7 @@ description: "使い捨てカイロのおすすめ10選を1個あたり単価で
 category: "kairo"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -81,7 +81,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1197-4987067829309x8.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-17"
         price: 5573
         rating: 5
         reviewCount: 8
@@ -115,7 +115,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej35309/"
         matchStatus: "pending"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-17"
         price: 2889
         rating: 0
         reviewCount: 1
@@ -128,7 +128,7 @@ products:
     capacity: "120個"
     pricePerUnit: "約25円/個"
     rating: 4.76
-    reviewCount: 149
+    reviewCount: 150
     features:
       - "ぽかぽか家族シリーズの衣類に貼るレギュラーサイズ"
       - "12時間持続タイプ（メーカー表示）"
@@ -149,7 +149,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej35309/"
         matchStatus: "pending"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-17"
         price: 2889
         rating: 0
         reviewCount: 1
@@ -183,7 +183,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladybird6353%2F1919335.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-17"
         price: 2980
         rating: 0
         reviewCount: 0
@@ -217,7 +217,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F4970520461383set.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-17"
         price: 6080
         rating: 4.91
         reviewCount: 11
@@ -251,7 +251,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F4970520461338set.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-17"
         price: 6080
         rating: 5
         reviewCount: 3

@@ -4,7 +4,7 @@ description: "洗濯ネットおすすめ10選をコスパ・用途別に比較�
 category: "laundry-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -57,7 +57,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkeyuca%2F4100149.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-17"
         price: 187
         rating: 3.67
         reviewCount: 3
@@ -71,7 +71,7 @@ products:
     capacity: "6枚"
     pricePerUnit: "約247円/枚"
     rating: 4.43
-    reviewCount: 110
+    reviewCount: 111
     features:
       - "6枚セットでサイズを自由に組み合わせて選べる"
       - "ファスナー開閉式でネット内への衣類の出し入れがしやすい"

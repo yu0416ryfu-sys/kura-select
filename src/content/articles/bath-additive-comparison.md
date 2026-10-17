@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バブ・�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "入浴剤 バラエティ詰め合わせ 100個セット"
@@ -36,7 +36,7 @@ products:
     capacity: "100個セット"
     pricePerUnit: "約38円/個"
     rating: 4.56
-    reviewCount: 9966
+    reviewCount: 9968
     features:
       - "日本製の入浴剤を100個詰め合わせた福袋"
       - "テレビランキング番組1位獲得のロングセラー"
@@ -113,7 +113,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fearth2001%2Fwp-003.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-17"
         price: 2139
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/earth2001_wp-003"
         available: true
@@ -127,7 +127,7 @@ products:
     capacity: "150g×6個（900g）"
     pricePerUnit: "約1.6円/g"
     rating: 4.43
-    reviewCount: 4333
+    reviewCount: 4335
     features:
       - "純度99%以上の硫酸マグネシウム配合"
       - "好みの香りを6種類から自由に選べる個包装"
@@ -147,7 +147,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flibertylife%2Fb-epsom-05.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-17"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/libertylife_b-epsom-05"
         available: true
@@ -218,7 +218,7 @@ products:
     price: 2300
     capacity: "750g（30回分）"
     rating: 4.68
-    reviewCount: 7161
+    reviewCount: 7164
     features:
       - "高濃度水素とナノバブル技術で肌の奥まで浸透"
       - "重炭酸配合で塩素を除去しながら保湿"
@@ -238,12 +238,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuisosum%2Fh-and-750.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-17"
         price: 3800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/suisosum_h-and-750"
         available: true
         rating: 4.63
-        reviewCount: 196
+        reviewCount: 197
     priceMax: 6300
     genreId: "205761"
   - rank: 9
@@ -272,7 +272,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F123636322.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-17"
         price: 1300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_123636322"
         available: true
@@ -283,10 +283,10 @@ products:
   - rank: 10
     name: "木酢液 紀州備長炭 原液"
     brand: "紀州びお和歌山"
-    price: 1380
+    price: 1400
     capacity: "500ml"
     rating: 4.21
-    reviewCount: 6112
+    reviewCount: 6115
     features:
       - "紀州備長炭由来の100%原液木酢液"
       - "30年以上の実績を持つ和歌山産の高品質品"
@@ -306,13 +306,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkisyubio-wakayama%2F500ml.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-17"
         price: 1500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kisyubio-wakayama_500ml"
         available: true
         rating: 4.43
         reviewCount: 7
-    priceMax: 2760
+    priceMax: 2800
     genreId: "214816"
 tags:
   - "入浴剤"

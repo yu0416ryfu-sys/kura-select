@@ -3,7 +3,7 @@ title: "無香空間と消臭力どっちがいい？【2026年版】無香料�
 description: "無香空間（小林製薬）と消臭力（エステー）はどっちがいい？置き型消臭剤の定番2ブランドを1gあたりの単価・無香料か香りか・持続力・詰め替えのしやすさの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "room-deodorizer"
 publishedAt: "2026-08-03"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-17"
 articleType: "comparison"
 draft: false
 products:
@@ -47,8 +47,8 @@ products:
     price: 1259
     capacity: "1.5kg"
     pricePerUnit: "約0.84円/g"
-    rating: 4.68
-    reviewCount: 34
+    rating: 4.69
+    reviewCount: 35
     features:
       - "イオン消臭プラス処方をうたう無香料タイプの消臭ビーズ"
       - "部屋用として設計された特大サイズの詰め替えパック"
