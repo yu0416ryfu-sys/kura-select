@@ -32,13 +32,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00003510.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuzuberu%2F20260917023930-01363.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-15"
-        price: 1169
+        updatedAt: "2026-10-18"
+        price: 906
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00003510"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/suzuberu_20260917023930-01363"
         available: true
     genreId: "566815"
   - rank: 2
@@ -68,10 +68,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackagestock%2Fpphalf300.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-18"
         price: 1100
         rating: 4.84
-        reviewCount: 978
+        reviewCount: 979
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/packagestock_pphalf300"
         available: true
     genreId: "550088"
@@ -193,7 +193,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b012a.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 1815
         rating: 4.91
         reviewCount: 135

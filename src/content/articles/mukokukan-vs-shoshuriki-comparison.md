@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j976230/"
         matchStatus: "pending"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-18"
         price: 930
         rating: 4.58
         reviewCount: 69

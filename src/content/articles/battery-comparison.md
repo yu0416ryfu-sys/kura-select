@@ -69,7 +69,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisiadenki%2F4976680250058.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 1188
         rating: 0
         reviewCount: 0
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftop1-price%2F20161219-16denchi.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 1280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/top1-price_20161219-16denchi"
         available: true

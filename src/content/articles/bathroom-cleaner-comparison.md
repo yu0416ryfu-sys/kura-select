@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/x627331/"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 468
         rating: 4.67
         reviewCount: 150

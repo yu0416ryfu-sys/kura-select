@@ -147,7 +147,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flibertylife%2Fb-epsom-05.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/libertylife_b-epsom-05"
         available: true
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuisosum%2Fh-and-750.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 3800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/suisosum_h-and-750"
         available: true
@@ -272,7 +272,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F123636322.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 1300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_123636322"
         available: true
@@ -306,7 +306,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkisyubio-wakayama%2F500ml.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 1500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kisyubio-wakayama_500ml"
         available: true

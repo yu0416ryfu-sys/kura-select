@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-18"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -158,7 +158,7 @@ products:
     price: 2000
     capacity: "200mL"
     rating: 4.46
-    reviewCount: 1177
+    reviewCount: 1178
     features:
       - "天然由来成分を重視したクレンジングオイル"
       - "400mLの大容量タイプ"

@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301298706.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 920
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301298706"
         available: true
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fohgiri-store%2Fallie7667.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 1863
         rating: 0
         reviewCount: 2
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flesthemo%2Fbb-cream.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 2560
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lesthemo_bb-cream"
         available: true

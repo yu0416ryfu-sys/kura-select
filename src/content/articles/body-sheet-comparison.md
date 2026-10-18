@@ -57,7 +57,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4902806127973.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 323
         rating: 0
         reviewCount: 0
@@ -193,7 +193,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fecomarche%2F100003175.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 660
         rating: 4.2
         reviewCount: 5
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188322109.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 1780
         rating: 4.2
         reviewCount: 5
@@ -292,13 +292,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/hn22181/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/hn22180/"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
-        price: 2868
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_hn22181"
+        updatedAt: "2026-10-18"
+        price: 1014
+        rating: 4.33
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_hn22180"
         available: true
     genreId: "507854"
     priceMax: 15550
@@ -328,7 +328,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F612-8545-103.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 1314
         rating: 0
         reviewCount: 0

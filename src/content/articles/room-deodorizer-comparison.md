@@ -91,7 +91,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fbs02.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 6204
         rating: 4.67
         reviewCount: 460
@@ -224,7 +224,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworldglobal%2F20260619202540-00359.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 944
         rating: 0
         reviewCount: 0
@@ -258,7 +258,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fhs01.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 1485
         rating: 4.74
         reviewCount: 57

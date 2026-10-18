@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7078356.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-13"
+        updatedAt: "2026-10-18"
         price: 930
         rating: 4.67
         reviewCount: 3
@@ -99,13 +99,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b07bbljjxx-20260329.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkiiroihachi%2Fyahoo20250603-b07bbljjxx.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-13"
-        price: 2688
+        updatedAt: "2026-10-18"
+        price: 2628
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b07bbljjxx-20260329"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kiiroihachi_yahoo20250603-b07bbljjxx"
         available: true
     genreId: "201230"
   - rank: 4

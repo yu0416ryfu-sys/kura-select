@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-ypp%2F3799-0026554.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 6180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-ypp_3799-0026554"
         available: true
@@ -237,7 +237,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk0602-a2510.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-18"
         price: 1572
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk0602-a2510"
         available: true

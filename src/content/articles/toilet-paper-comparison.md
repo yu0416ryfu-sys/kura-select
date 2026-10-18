@@ -69,7 +69,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fikurun0810%2F101436.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         matchStatus: "matched"
         rating: 0
         reviewCount: 1
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fazukipalette%2Fs25jc7gyfsoqpj3cyrfamfjvru.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 8225
         rating: 0
         reviewCount: 0
@@ -191,7 +191,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujisanwa%2Fsanwa170ms6r.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 5350
         rating: 0
         reviewCount: 1

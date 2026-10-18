@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ax59783/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/nj04120/"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
-        price: 1200
-        rating: 4.74
-        reviewCount: 65
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ax59783"
+        updatedAt: "2026-10-18"
+        price: 3640
+        rating: 4.88
+        reviewCount: 8
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_nj04120"
         available: true
     genreId: "208238"
   - rank: 2
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10130857.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 434
         rating: 4.67
         reviewCount: 9
@@ -124,7 +124,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsukoyakakomachi%2Faqarfa1l.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 1540
         rating: 4.92
         reviewCount: 12
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188318706.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 1100
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188318706"
         available: true
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnakano-dy%2Fkesisaru-20.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nakano-dy_kesisaru-20"
         available: true

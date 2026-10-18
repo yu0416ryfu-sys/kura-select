@@ -4,7 +4,7 @@ description: "ゴミ袋はどれがコスパよくお得？45L・20Lの人気8�
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-18"
 products:
   - rank: 1
     name: "TANOSEE　ゴミ袋エコノミー　乳白半透明"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7661730.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-18"
         price: 7656
         rating: 4.71
         reviewCount: 45
@@ -146,9 +146,9 @@ products:
   - rank: 6
     name: "ゴミ袋 90L 業務用 厚手 50枚×4冊"
     brand: "ケイヨウ実業"
-    price: 5780
+    price: 5980
     capacity: "50枚×4冊（200枚）"
-    pricePerUnit: "約29円/枚"
+    pricePerUnit: "約30円/枚"
     rating: 3.64
     reviewCount: 14
     features:
@@ -214,7 +214,7 @@ products:
   - rank: 8
     name: "業務用ゴミ袋 45L 半透明 厚手"
     brand: "ケイヨウ実業"
-    price: 2880
+    price: 2980
     capacity: "200枚"
     rating: 4.13
     reviewCount: 83

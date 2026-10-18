@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-18"
 products:
   - rank: 1
     name: "PVCグローブ 100枚×20箱"
@@ -261,7 +261,7 @@ products:
     price: 890
     capacity: "100枚"
     rating: 4.7
-    reviewCount: 1532
+    reviewCount: 1533
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"

@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhigh-touch%2Fqdeo-0001-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-18"
         price: 3300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/high-touch_qdeo-0001-a"
         available: true
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhigh-touch%2Fqdeo-0010.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-18"
         price: 3300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/high-touch_qdeo-0010"
         available: true
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301333834-73-30001116.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-18"
         price: 728
         rating: 0
         reviewCount: 0
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F7250013.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-18"
         price: 1270
         rating: 0
         reviewCount: 0
@@ -305,7 +305,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbenkyoudou%2Fyo-yumail-4580392000254.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-18"
         price: 1800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/benkyoudou_yo-yumail-4580392000254"
         available: true

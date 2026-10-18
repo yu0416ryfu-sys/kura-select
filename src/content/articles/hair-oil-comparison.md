@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-18"
 draft: false
 products:
   - rank: 1
@@ -217,7 +217,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4476
+    reviewCount: 4477
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"

@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ9選を1回�
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-18"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fozoneassocia%2Ftoilet100.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 3980
         rating: 4.25
         reviewCount: 208
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenton-store%2Fportabletoilet01f2.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 5069
         rating: 4.68
         reviewCount: 107
@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faaa8390a3%2F4969919200672.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 5500
         rating: 0
         reviewCount: 0
@@ -184,7 +184,7 @@ products:
     price: 1800
     capacity: "50回分"
     rating: 4.45
-    reviewCount: 4089
+    reviewCount: 4090
     features:
       - "吸水ポリマーを使ったシートタイプの凝固剤"
       - "災害用・非常用として個包装で使いやすい構成"
@@ -227,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2F100pol1.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 4999
         rating: 4.5
         reviewCount: 969
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcenturyshop%2Fportable-toilet.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 3480
         rating: 0
         reviewCount: 0

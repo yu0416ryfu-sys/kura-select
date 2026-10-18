@@ -4,7 +4,7 @@ description: "トイレ用洗剤を1回あたりのコストで徹底比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-18"
 products:
   - rank: 1
     name: "ドメスト 除菌クリーナー 500ml×3個セット"
@@ -202,7 +202,7 @@ products:
   - rank: 7
     name: "スクラビングバブル 超強力トイレクリーナー"
     brand: "スクラビングバブル（ジョンソン）"
-    price: 208
+    price: 207
     capacity: "400g"
     pricePerUnit: "約0.52円/g"
     rating: 4.76
@@ -260,7 +260,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F542515.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 2277
         rating: 0
         reviewCount: 0
@@ -293,7 +293,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fle-cure%2Fim-1008473.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-18"
         price: 1980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/le-cure_im-1008473"
         available: true

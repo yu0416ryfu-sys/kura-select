@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F0019014614196.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-18"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_0019014614196"
         available: true
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoji%2F3182550746076-s.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-18"
         price: 17226
         rating: 0
         reviewCount: 1
@@ -169,8 +169,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
-        price: 5280
+        updatedAt: "2026-10-18"
+        price: 5147
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
         rating: 4.59
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F0813369001904.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-18"
         price: 5830
         rating: 4.74
         reviewCount: 103
@@ -238,12 +238,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-18"
         price: 9534
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
         rating: 4.72
-        reviewCount: 175
+        reviewCount: 177
     genreId: "565715"
   - rank: 8
     name: "ナチュラルハーベスト メンテナンス ラム (大粒) ドッグフード 犬 ドライフード"
@@ -271,7 +271,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjohn-coco%2Fnhd0100260-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-18"
         price: 3080
         rating: 4.78
         reviewCount: 23
@@ -303,14 +303,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600a.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg360011-.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-18"
         price: 3000
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600a"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g360011-"
         available: true
-        rating: 4.69
-        reviewCount: 39
+        rating: 4.82
+        reviewCount: 82
     priceMax: 15500
     genreId: "565715"
   - rank: 10
