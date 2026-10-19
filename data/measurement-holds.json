@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。凍結の対象・起点日・解除日（releaseDate）はこのファイルが唯一の正（2026-09-15 改定）。",
     "施策の中身・判定根拠・経緯の正はローカルのメモリ project_measurement_holds。機械判定（scripts/check-internal-links.mjs など）もこのファイルを読む。施策を打ったら両者を必ず同時に更新する。",
@@ -55,46 +55,6 @@
       ],
       "simultaneous": false,
       "note": "主指標を事前に決めた単独施策（2026-10-12 ユーザー承認）。【窓】前窓＝デプロイ前28日 09-15〜10-12。確定日が 10-12 に届いたら pnpm gsc:harvest -- --start=2026-09-15 --end=2026-10-12 --baseline-only で保存。後窓＝再クロール日（JST）起点の28日。参考値（09-12〜10-09・確定日 10-09）: ページ クリック28・表示1,599（57.1/日）・CTR 1.75%・順位8.8、サイト CTR 4.20%（正規化比 0.417）／「ジェルボール コスパ」4/213・順位9.2。【成功】正規化後ページ CTR ≧ +50% かつ 後窓クリック≧40 かつ 固定クエリ CTR も上昇。【失敗】正規化後 CTR ≦ 基準。【見かけの上昇ガード】表示/日がサイト正規化後 -30% 以上なら CTR が上がっても成功にしない。【revert】順位が2以上悪化 または 表示/日が正規化後 -30% 以上。【交絡】10-12 に人気記事欄の育成枠から外れサイト内リンクが1本減った（マイナス方向。順位低下による低 CTR クエリの脱落だけは CTR を見かけ上押し上げるので、固定クエリ CTR と表示ガードで除く）。【再クロール】2026-10-13（JST）で確定（lastCrawlTime 2026-10-12T23:20:30Z＝デプロイ完了 23:12:04Z の8分後・10-15 に URL 検査 API で確認）。後窓＝10-13〜11-09、解除 11-10。前窓ベースラインは reports/gsc-harvest/baseline-2026-10-15.json（10-15 保存）。push が 10-13 でなければ startedAt を直す",
-      "source": "project_measurement_holds"
-    },
-    {
-      "slug": "range-hood-filter-comparison",
-      "releaseDate": "2026-10-20",
-      "releaseLabel": "2026-10-19",
-      "targetType": "new-article",
-      "startedAt": "2026-10-05",
-      "searchNeed": "12月の大掃除の前に、シロッコファンのレンジフードのフィルターを買い替える人が、自分の型（R型）に合う交換フィルターをどれを何枚入りで買えば1枚あたり安く済むかを比べたくて検索している。Google では大掃除・レンジフード系クエリの表示が0で、狙いは Bing の単語クエリ（「レンジフードフィルター」「換気扇フィルター」）。離陸すれば Bing の主要クエリ順位と表示/日に出て、12月の送客クリックに出るはず",
-      "measures": [
-        "Bing の主要クエリ順位",
-        "表示/日",
-        "表示加重平均順位",
-        "インデックス登録（lastCrawlTime）"
-      ],
-      "actions": [
-        "新規記事公開（8選・カテゴリ range-hood-filter 新設）＋air-conditioner-filter-comparison のまとめ末尾から被リンク1本"
-      ],
-      "simultaneous": false,
-      "note": "docs/IMPLEMENTATION_PLAN_SEASONAL_ARTICLE_YEAREND_2026-10-05.md の季節先行記事。ユーザー判断で計画の 11-03 から前倒しして 10-05 に公開。判定は公開2週後の順位帯＝判定日 2026-10-19（Bing の単語クエリのどれかで10位以内なら離陸）。⚠️判定時に必ず併記する留保: ①Google の表示が少なくても失敗としない（計画 §0 の実測で Google は期待していない）②判定窓（10-05〜10-19）は需要の立ち上がり前なので、表示が少なくても「未離陸」と断定しない（季節性）③新記事の表示は、測定中のコホートがあればその正規化子（残余）から控除する ④capacity は cron で書き換わりうるので、判定時に比較表の1枚単価欄も確認する ⑤2026-10-07 21:52 JST デプロイの一時サイトマップ（sitemap-recrawl.xml・AdSense 是正）に親カテゴリ /category/range-hood-filter/ が入ったため、カテゴリ経由で記事の発見・クロールが早まった可能性を割り引く（記事 HTML は無変更）。12月の送客の判定（送客クリック20以上）は凍結を伴わず、1-05 の週次分析で行う。air-conditioner-filter は凍結対象外（被リンク追加のみ）。",
-      "source": "project_measurement_holds"
-    },
-    {
-      "slug": "water-server-buyout-comparison",
-      "releaseDate": "2026-10-15",
-      "releaseLabel": "2026-10-14",
-      "targetType": "new-article",
-      "startedAt": "2026-09-30",
-      "searchNeed": "レンタル契約や解約金に縛られずにウォーターサーバーを使いたい人が、水道水を注ぐだけの買い切り型・卓上型の浄水サーバーの中から、冷水・お湯の有無とカートリッジ代まで含めてどれを買えばよいかを知りたくて検索している。Google サジェストでは「浄水型ウォーターサーバー 買い切り／卓上／購入／解約金なし／契約期間なし」「ウォーターサーバー 水道水 買い切り 卓上」が確認できたが、GSC・Bing とも既存記事で該当クエリの表示はほぼ0で需要は未実測。離陸すれば表示/日と表示加重平均順位に出るはず",
-      "measures": [
-        "表示/日",
-        "表示加重平均順位",
-        "インデックス登録（lastCrawlTime）"
-      ],
-      "actions": [
-        "新規記事公開（4選・カテゴリ mineral-water）＋ water-server-comparison と mineral-water-comparison の本文から被リンク各1本",
-        "search-rules.ts に記事別ルール（mineral-water && 買い切り・ブランド名必須）を追加"
-      ],
-      "simultaneous": false,
-      "note": "2026-09-30 の市場分析（Google サジェスト・競合 SERP）で「買い切り・卓上・水道水」の需要の集まりを確認し、ユーザー判断で作成。楽天はノーブランドの同型品が大半のため、ブランド品4機種（puriot ES / ブリタ キューブCool / AQUIBEAR F1 / puriot CUTE）に限定。単価列は本体価格（capacity 1個）で、カートリッジ代は本文で考え方のみ示す（ユーザー判断）。判定は公開2週後の順位帯（CLAUDE.md §5.0.2 手順6）＝判定日 2026-10-14。起点はデプロイ日（JST）。push が 09-30 でなければ startedAt / releaseDate / releaseLabel を直す。⚠️判定時に必ず併記する留保: ①新記事の表示は cohort-01-description の正規化子（全記事ページの残余）に入るため、cohort-01 の確定判断（10-08）では残余から water-server-buyout-comparison も控除する ②公開後に URL 検査からインデックス登録をリクエストしないと窓が空振りしうる（ユーザー作業）③リンク元の water-server-comparison / mineral-water-comparison は凍結対象外（R3・被リンク追加のみ）。",
       "source": "project_measurement_holds"
     },
     {
