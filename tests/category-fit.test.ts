@@ -253,7 +253,7 @@ describe("category-fit: ルール未定義の検出", () => {
   });
 
   it("兄弟とカテゴリを共有していて記事別 rule が無ければ shared-category-no-article-rule", () => {
-    expect(detectRuleMissing("toothpaste", "歯ブラシ", 6)).toBe("shared-category-no-article-rule");
+    expect(detectRuleMissing("toothpaste", "電動歯ブラシ替えブラシ", 6)).toBe("shared-category-no-article-rule");
   });
 
   it("記事別 rule があれば未定義ではない", () => {
