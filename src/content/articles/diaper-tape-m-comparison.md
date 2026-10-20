@@ -73,15 +73,15 @@ products:
     features:
       - "保湿成分配合で肌への負担を軽減する設計"
       - "吸収体エンボスで肌あたりをやわらかく保つ"
-      - "Mサイズ（6〜11kg対応）テープタイプ4個セット"
+      - "Mサイズ（6〜11kg対応）テープタイプ"
     pros:
       - "保湿成分配合で肌が乾燥しやすい赤ちゃんに向く"
-      - "4個セットでまとめ買いでき在庫を確保しやすい"
+      - "1パック単位で買えるので試しやすい"
       - "肌への優しさを重視したい方に選びやすいラインナップ"
     cons:
-      - "4個セットのため保管スペースを取りやすい"
+      - "サイズ選択式のため購入時にMサイズを選ぶ必要がある"
       - "機能性重視のため通常グーンより価格がやや高め"
-    recommendedFor: "保湿成分配合でMサイズをまとめ買いしたい方"
+    recommendedFor: "保湿成分配合のMサイズを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7255398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10215993%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya103/7255398-e.jpg?_ex=128x128"
     priceMax: 7250
