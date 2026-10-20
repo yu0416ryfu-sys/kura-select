@@ -4,9 +4,32 @@ description: "夜用パンツタイプのおむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-10-21"
 products:
   - rank: 1
+    name: "グーン ナイトキッズパンツ 夜用"
+    brand: "グーン（大王製紙）"
+    price: 1555
+    capacity: "22枚（身長90～120cm）"
+    pricePerUnit: "約71円/枚"
+    rating: 4
+    reviewCount: 4
+    features:
+      - "夜用のパンツタイプ"
+      - "男女共用"
+      - "うつぶせ寝のモレに配慮した設計"
+    pros:
+      - "性別を問わず選べる"
+      - "寝相が動きやすい子の夜用候補になる"
+      - "身長目安でサイズを判断しやすい"
+    cons:
+      - "体重ではなく身長目安の表記なので、他ブランドとサイズ比較しにくい"
+      - "取扱店舗が他ブランドより少なめ"
+    recommendedFor: "うつぶせ寝でのモレが気になる方・オヤスミマン以外の夜用パンツを試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4902011859874%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10916328%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/874/4902011859874.jpg?_ex=128x128"
+    genreId: "205198"
+  - rank: 2
     name: "オヤスミマン 男の子 ビッグ以上 夜用"
     brand: "ユニ・チャーム（ムーニー）"
     price: 5181
@@ -38,7 +61,7 @@ products:
         matchStatus: "matched"
         updatedAt: "2026-05-29"
     genreId: "205198"
-  - rank: 2
+  - rank: 3
     name: "オヤスミマン 女の子 ビッグ以上 夜用"
     brand: "ユニ・チャーム"
     price: 5181
@@ -69,6 +92,29 @@ products:
         available: true
         matchStatus: "matched"
         updatedAt: "2026-05-27"
+    genreId: "205198"
+  - rank: 4
+    name: "おやすみパンツ XXLサイズ 夜用"
+    brand: "パンパース"
+    price: 2244
+    capacity: "24枚（15kg～28kg）"
+    pricePerUnit: "約94円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "夜用のパンツタイプ"
+      - "男の子・女の子の両方に使える男女兼用タイプ"
+      - "ビッグより大きいサイズ帯に対応"
+    pros:
+      - "性別を問わず選べるので、きょうだいで使い回しやすい"
+      - "夜用パンツの中でブランドの選択肢を広げられる"
+      - "1袋単位で試しやすい"
+    cons:
+      - "ムーニーのオヤスミマンとは吸収体の設計思想が異なるため、使用感は好みが分かれる"
+      - "ショップによってパッケージ表記が異なる場合がある"
+    recommendedFor: "ビッグより大きいサイズの夜用パンツを男女兼用で探している方・オヤスミマン以外も試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvxzn.3rdw6cd4.g00rvxzn.3rdw76f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaigo%2F4987176404398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaigo%2Fi%2F10400745%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaigo/cabinet/2026a/4987176404398.jpg?_ex=128x128"
     genreId: "205198"
 tags:
   - "パンツ型おむつ"

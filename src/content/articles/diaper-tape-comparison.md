@@ -4,7 +4,7 @@ description: "紙おむつを新生児用、Sサイズ、Mサイズ、BIG以上�
 category: "diaper"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-21"
 products:
   - rank: 1
     name: "ムーニー テープ S マシュマロ肌ごこち"
@@ -13,7 +13,7 @@ products:
     capacity: "70枚×4袋"
     pricePerUnit: "約26円/枚"
     rating: 4.85
-    reviewCount: 216
+    reviewCount: 218
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"
@@ -75,6 +75,29 @@ products:
         reviewCount: 0
     genreId: "205198"
   - rank: 3
+    name: "ムーニー 低刺激であんしん テープ Mサイズ"
+    brand: "ムーニー"
+    price: 1840
+    capacity: "46枚"
+    pricePerUnit: "約40円/枚"
+    rating: 4.74
+    reviewCount: 155
+    features:
+      - "低刺激をうたうムーニーナチュラルのテープタイプ"
+      - "Mサイズ相当の体重目安に対応"
+      - "1袋から試しやすい"
+    pros:
+      - "肌へのやさしさを重視する家庭が選びやすい"
+      - "Mサイズのテープ型をストックしたい場合に向く"
+      - "ムーニーの定番ラインと比較しやすい"
+    cons:
+      - "対応サイズが限られるため成長に合わせた買い足しが必要"
+      - "赤ちゃんの肌との相性で合う商品が分かれる"
+    recommendedFor: "肌へのやさしさを重視してMサイズのテープ型を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4903111241439%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10179522%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202603_4/4903111241439.jpg?_ex=128x128"
+    genreId: "205198"
+  - rank: 4
     name: "パンパース テープ コットンケア"
     brand: "Pampers"
     price: 5500
@@ -97,7 +120,7 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/187811354738718.jpg?_ex=128x128"
     priceMax: 6050
     genreId: "205198"
-  - rank: 4
+  - rank: 5
     name: "パンパース テープ はじめての肌へのいちばん"
     brand: "Pampers"
     price: 5380
@@ -119,6 +142,28 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uj4hn.3rdw623e.g00uj4hn.3rdw7baf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faguichant-shop%2Fcsc-018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faguichant-shop%2Fi%2F10000058%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aguichant-shop/cabinet/10892317/imgrc0116430911.jpg?_ex=128x128"
     priceMax: 5650
+    genreId: "205198"
+  - rank: 6
+    name: "パンパース テープ さらさらケア"
+    brand: "Pampers"
+    price: 9156
+    capacity: "新生児336枚/S336枚/M248枚/L216枚"
+    rating: 4.68
+    reviewCount: 3983
+    features:
+      - "テープタイプの乳幼児向け紙おむつ"
+      - "全方向に伸びるストレッチ設計でフィットしやすい"
+      - "サイズを選べるまとめ買い向けパック構成"
+    pros:
+      - "動きの多い時期でもフィットを重視して選びやすい"
+      - "サイズ展開が広く成長に合わせて選びやすい"
+      - "パンパースのテープ型を試したい家庭の候補にしやすい"
+    cons:
+      - "選ぶサイズによって内容が変わるため購入前に確認したい"
+      - "赤ちゃんの体型との相性で合う商品が分かれる"
+    recommendedFor: "さらさらした履き心地のテープ型を、サイズを選んでまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2Fa62000xxx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10018171%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/031/402031.jpg?_ex=128x128"
     genreId: "205198"
 tags:
   - "紙おむつ おすすめ"

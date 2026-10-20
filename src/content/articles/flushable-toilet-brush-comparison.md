@@ -1,10 +1,10 @@
 ---
-title: "流せるトイレブラシ コスパ比較【2026年版】使い捨て4選"
+title: "流せるトイレブラシ コスパ比較【2026年版】使い捨て5選"
 description: "使い捨ての流せるトイレブラシを1個あたりのコストで比較。本体セット・付替まとめ買い・香り違いの選び方を解説します。"
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-21"
 draft: false
 products:
   - rank: 1
@@ -76,6 +76,29 @@ products:
         available: true
     genreId: "215999"
   - rank: 3
+    name: "スクラビングバブル 流せるトイレブラシ 本体+替え16個"
+    brand: "スクラビングバブル"
+    price: 1729
+    capacity: "本体+替え16個"
+    pricePerUnit: "約108円/個"
+    rating: 4.5
+    reviewCount: 2
+    features:
+      - "持ち手の本体と使い捨てブラシのセット"
+      - "ブラシに洗剤が含まれた使い切りタイプ"
+      - "使用後はブラシをそのままトイレに流せる"
+    pros:
+      - "本体付きで届いてすぐに掃除を始められる"
+      - "本体セットの中では替えの量が中程度で試しやすい"
+      - "ブラシに触れずに付け外しできて衛生的"
+    cons:
+      - "本体代を含むため1個あたりは付替のみより割高になりやすい"
+      - "掃除の頻度が高い家庭では早めに買い足しが必要になる"
+    recommendedFor: "本体と替えをほどよい量でそろえたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00um6vn.3rdw6969.g00um6vn.3rdw7cd7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakkastore365%2F20241229094709_179%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakkastore365%2Fi%2F10009878%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/zakkastore365/cabinet/r_2024101029/20241229094709_179_1.jpg?_ex=128x128"
+    genreId: "215999"
+  - rank: 4
     name: "スクラビングバブル 流せるトイレブラシ 本体+替え4個"
     brand: "スクラビングバブル"
     price: 1181
@@ -109,7 +132,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_9612078018"
         available: true
     genreId: "215999"
-  - rank: 4
+  - rank: 5
     name: "スクラビングバブル 流せるトイレブラシ 替え24個 ホワイトブロッサムの香り"
     brand: "スクラビングバブル"
     price: 1298

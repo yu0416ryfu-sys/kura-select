@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-21"
 products:
   - rank: 1
     name: "メリーズファストプレミアム テープ Mサイズ"
@@ -30,6 +30,75 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tenposupport06/12820999/imgrc0130809075.jpg?_ex=128x128"
     genreId: "205198"
   - rank: 2
+    name: "ムーニー 低刺激であんしん テープ Mサイズ"
+    brand: "ユニ・チャーム（ムーニー）"
+    price: 1840
+    capacity: "46枚"
+    pricePerUnit: "約40円/枚"
+    rating: 4.5
+    reviewCount: 4
+    features:
+      - "低刺激設計をうたうナチュラルムーニーのテープタイプ"
+      - "メーカー公式ショップの販売ページ"
+      - "Mサイズ（6〜11kg）対応のテープ型"
+    pros:
+      - "肌への刺激が気になる赤ちゃんに選びやすい"
+      - "公式ショップなので購入先に迷いにくい"
+      - "まとまった量を一度に確保できる"
+    cons:
+      - "1袋売りのため、まとめ買いには向かない"
+      - "サイズが合わなくなった場合に残りやすい"
+    recommendedFor: "低刺激設計を重視してMサイズを選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4903111241439%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10179522%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202603_4/4903111241439.jpg?_ex=128x128"
+    genreId: "205198"
+  - rank: 3
+    name: "パンパース さらさらケア テープ Mサイズ"
+    brand: "P&G（パンパース）"
+    price: 2535
+    capacity: "62枚"
+    pricePerUnit: "約41円/枚"
+    rating: 5
+    reviewCount: 2
+    features:
+      - "さらさらした肌ざわりをうたうテープタイプ"
+      - "Mサイズ（6〜11kg）対応のテープ型"
+      - "楽天24ベビー館の単一規格ページ"
+    pros:
+      - "日常使いしやすいパンパースの定番ライン"
+      - "はじめての肌へのいちばんと使い分けやすい"
+      - "1パックで試せるので相性を確かめやすい"
+    cons:
+      - "素材にこだわる方にはプレミアムラインのほうが合う場合がある"
+      - "セット販売のような大量確保には向かない"
+    recommendedFor: "日常使いのコスパを意識してMサイズのパンパースを選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4987176203281%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10042777%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/281/4987176203281.jpg?_ex=128x128"
+    genreId: "205198"
+  - rank: 4
+    name: "メリーズ エアスルー テープ Mサイズ"
+    brand: "花王（メリーズ）"
+    price: 2297
+    capacity: "52枚"
+    pricePerUnit: "約44円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "通気性を重視したエアスルー設計のテープタイプ"
+      - "Mサイズ（6〜11kg）対応のテープ型"
+      - "楽天24ベビー館の単一規格ページ"
+    pros:
+      - "蒸れやすい時期でも快適さを重視して選べる"
+      - "1パック単位で買えるので試しやすい"
+      - "メリーズの定番ラインとして合わせやすい"
+    cons:
+      - "ファストプレミアムとは設計の方向性が異なる"
+      - "大容量セットでのまとめ買いには向かない"
+    recommendedFor: "通気性を重視してMサイズのメリーズを試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4901301437716%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10045200%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/716/4901301437716.jpg?_ex=128x128"
+    genreId: "205198"
+  - rank: 5
     name: "パンパース はじめての肌へのいちばん テープ Mサイズ 56枚"
     brand: "P&G（パンパース）"
     price: 2514
@@ -63,13 +132,13 @@ products:
         available: true
     genreId: "205198"
     pricePerUnit: "約45円/枚"
-  - rank: 3
-    name: "グーンプラス 肌の贅沢 テープ Mサイズ 4個セット"
+  - rank: 6
+    name: "グーンプラス 肌の贅沢 テープ Mサイズ"
     brand: "GOO.N（大王製紙）"
-    price: 6980
-    capacity: "52枚×4個（208枚）"
-    rating: 4.33
-    reviewCount: 3
+    price: 1750
+    capacity: "1パック（サイズ選択式）"
+    rating: 5
+    reviewCount: 1
     features:
       - "保湿成分配合で肌への負担を軽減する設計"
       - "吸収体エンボスで肌あたりをやわらかく保つ"
@@ -82,9 +151,9 @@ products:
       - "サイズ選択式のため購入時にMサイズを選ぶ必要がある"
       - "機能性重視のため通常グーンより価格がやや高め"
     recommendedFor: "保湿成分配合のMサイズを選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7255398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10215993%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya103/7255398-e.jpg?_ex=128x128"
-    priceMax: 7250
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7255390%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10215991%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/jisyakura/7255390.jpg?_ex=128x128"
+    priceMax: 2180
     genreId: "205198"
 tags:
   - "Mサイズ おむつ"
