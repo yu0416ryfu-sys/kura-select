@@ -4,7 +4,7 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "ロゴス 倍速凍結 氷点下パックXL セット"
@@ -158,7 +158,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkbjapan%2Fy5900479-19746001.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 176
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kbjapan_y5900479-19746001"
         available: true
@@ -171,7 +171,7 @@ products:
     price: 770
     capacity: "1個"
     rating: 4.68
-    reviewCount: 265
+    reviewCount: 266
     features:
       - "繰り返し使える保冷剤タイプ"
       - "保冷バッグやクーラーボックスに入れやすい形状"

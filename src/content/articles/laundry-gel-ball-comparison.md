@@ -4,7 +4,7 @@ description: "ジェルボールは液体洗剤より1回あたり割高です�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987176194398.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-20"
         price: 1986
         rating: 4.86
         reviewCount: 7
@@ -46,8 +46,8 @@ products:
     price: 2997
     capacity: "89個"
     pricePerUnit: "約34円/個"
-    rating: 4.82
-    reviewCount: 56
+    rating: 4.81
+    reviewCount: 59
     features:
       - "部屋干し時の生乾き臭に狙いを定めた処方"
       - "汗をかいた衣類・運動着の皮脂汚れに対応"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F2620600.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-20"
         price: 3190
         rating: 4.83
         reviewCount: 12
@@ -80,7 +80,7 @@ products:
     price: 2580
     capacity: "73個"
     rating: 5
-    reviewCount: 9
+    reviewCount: 10
     features:
       - "部屋干し時の菌の繁殖を抑える処方"
       - "微香タイプで衣類に香りを残しすぎない"
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4987176284556-73-30001986.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-20"
         price: 2750
         rating: 0
         reviewCount: 2
@@ -109,40 +109,6 @@ products:
     pricePerUnit: "約35円/個"
     genreId: "210182"
   - rank: 4
-    name: "ボールド ジェルボール4D Yoruのホワイトラベンダー＆ジャスミン 詰め替え 55個"
-    brand: "P&G（ボールド）"
-    price: 2299
-    capacity: "55個"
-    pricePerUnit: "約42円/個"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "洗浄・消臭・柔軟・香り持続を1粒にまとめた4in1"
-      - "ラベンダーとジャスミンを合わせた落ち着いた香り"
-      - "詰め替えパックで1個あたりの単価を抑えやすい"
-    pros:
-      - "1粒でも香りがしっかり立つので柔軟剤の追加がいらない"
-      - "チャック付きの袋で開封後も匂いがもれにくい"
-      - "立てて置ける袋形状で棚の場所を取りにくい"
-    cons:
-      - "無香が好みの人には香りが主張して感じられる"
-      - "1袋あたりの個数は大容量パックより少ない"
-    recommendedFor: "柔軟剤なしで香りを完結させたい方・夜洗濯や部屋干しが多い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r1z8n.3rdw6cd0.g00r1z8n.3rdw7404/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-server%2F4987176292292%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-server%2Fi%2F10120518%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-server/cabinet/imgdir109/4987176292292_1.gif?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176292759.html"
-        matchStatus: "review"
-        updatedAt: "2026-09-05"
-        price: 4327
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176292759"
-        available: true
-    genreId: "210182"
-  - rank: 5
     name: "ボールド ジェルボール4in1 ホワイトティー＆フローラル 詰め替え 96個"
     brand: "P&G（ボールド）"
     price: 4378
@@ -165,6 +131,40 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nice/cabinet/06394362/06493908/4987176336330-1.jpg?_ex=128x128"
     genreId: "210182"
     pricePerUnit: "約46円/個"
+  - rank: 5
+    name: "ボールド ジェルボール4D Yoruのホワイトラベンダー＆ジャスミン 詰め替え 55個"
+    brand: "P&G（ボールド）"
+    price: 3160
+    capacity: "55個"
+    pricePerUnit: "約57円/個"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "洗浄・消臭・柔軟・香り持続を1粒にまとめた4in1"
+      - "ラベンダーとジャスミンを合わせた落ち着いた香り"
+      - "詰め替えパックで1個あたりの単価を抑えやすい"
+    pros:
+      - "1粒でも香りがしっかり立つので柔軟剤の追加がいらない"
+      - "チャック付きの袋で開封後も匂いがもれにくい"
+      - "立てて置ける袋形状で棚の場所を取りにくい"
+    cons:
+      - "無香が好みの人には香りが主張して感じられる"
+      - "1袋あたりの個数は大容量パックより少ない"
+    recommendedFor: "柔軟剤なしで香りを完結させたい方・夜洗濯や部屋干しが多い方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rfqvn.3rdw6b07.g00rfqvn.3rdw76c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcompmoto-r%2F4987176292292%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcompmoto-r%2Fi%2F12455346%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/compmoto-r/cabinet/gf00108/4987176292292.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176292759.html"
+        matchStatus: "review"
+        updatedAt: "2026-09-05"
+        price: 4327
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176292759"
+        available: true
+    genreId: "210182"
   - rank: 6
     name: "アリエール ジェルボールプロ まるごと洗浄消臭 本体"
     brand: "P&G（アリエール）"
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176284648.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-20"
         price: 640
         rating: 0
         reviewCount: 0
@@ -226,7 +226,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000220176.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-20"
         price: 2909
         rating: 0
         reviewCount: 0
@@ -293,7 +293,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworldglobal%2F20250727090631-01056.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-20"
         price: 4446
         rating: 0
         reviewCount: 0
@@ -327,7 +327,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmandmcorporation%2F4987176284518.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-20"
         price: 3980
         rating: 0
         reviewCount: 0

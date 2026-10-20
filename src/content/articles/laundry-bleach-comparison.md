@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301745910-73-30000846.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 220
         rating: 4.8
         reviewCount: 15
@@ -90,7 +90,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F574939.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 3960
         rating: 0
         reviewCount: 0
@@ -104,7 +104,7 @@ products:
     capacity: "300ml×3個（900ml）"
     pricePerUnit: "約0.95円/ml"
     rating: 4.61
-    reviewCount: 82
+    reviewCount: 83
     features:
       - "泡で直接塗布する部分用の衣料用漂白剤"
       - "襟袖や食べこぼしなど局所の汚れを想定した設計"

@@ -4,7 +4,7 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 2715
     capacity: "72個（24個×3袋）"
     pricePerUnit: "約38円/個"
-    rating: 4.82
-    reviewCount: 74
+    rating: 4.83
+    reviewCount: 75
     features:
       - "本体を持っている人向けの付替ブラシのみ"
       - "24個入りが3袋の大容量まとめ買いパック"
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/6172915/"
         matchStatus: "pending"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 2577
         rating: 4.58
         reviewCount: 104
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9612078018.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 638
         rating: 0
         reviewCount: 2

@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
@@ -89,8 +89,8 @@ products:
     price: 1980
     capacity: "250ml"
     pricePerUnit: "約7.9円/mL"
-    rating: 4.1
-    reviewCount: 40
+    rating: 4.07
+    reviewCount: 41
     features:
       - "天然精油配合・殺虫成分不使用の空間用忌避スプレー"
       - "玄関・ベランダ・窓周りへの噴霧に使いやすい大容量"
@@ -166,7 +166,7 @@ products:
     capacity: "30ml×2本＋15ml×1本（75ml）"
     pricePerUnit: "約18円/mL"
     rating: 4.25
-    reviewCount: 791
+    reviewCount: 792
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "システムポリマー XP-11 スライダー付ジッパー保存袋"
@@ -237,7 +237,7 @@ products:
     price: 574
     capacity: "10枚〜50枚（サイズ・枚数選択可）"
     rating: 4.78
-    reviewCount: 173
+    reviewCount: 174
     features:
       - "アルミ素材により防湿・遮光・防臭効果を発揮"
       - "マチ付き構造で自立可能な設計"

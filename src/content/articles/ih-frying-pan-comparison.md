@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に7製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-10-18"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
@@ -99,11 +99,45 @@ products:
         available: true
     genreId: "215927"
   - rank: 4
+    name: "ティファール IHハードチタニウム・アンリミテッド フライパン 26cm"
+    brand: "ティファール"
+    price: 5516
+    capacity: "1個"
+    pricePerUnit: "約5516円/個"
+    rating: 4.47
+    reviewCount: 144
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00scpcn.3rdw6fd2.g00scpcn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjetprice%2Fx838sr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjetprice%2Fi%2F10726657%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jetprice/cabinet/cl8/j011ww.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F3168430306424.html"
+        matchStatus: "matched"
+        updatedAt: "2026-09-23"
+        price: 7810
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_3168430306424"
+        available: true
+    genreId: "215927"
+  - rank: 5
     name: "ティファール インジニオ・ネオ IHルージュ・アンリミテッド フライパン 26cm"
     brand: "ティファール"
-    price: 6337
+    price: 6336
     capacity: "1個"
-    pricePerUnit: "約6337円/個"
+    pricePerUnit: "約6336円/個"
     rating: 4.44
     reviewCount: 84
     features:
@@ -132,7 +166,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_3168430321212"
         available: true
     genreId: "215927"
-  - rank: 5
+  - rank: 6
     name: "CAST VARIUS 取っ手が外れるフライパン IH対応 26cm"
     brand: "CAST VARIUS"
     price: 8080
@@ -154,40 +188,6 @@ products:
     recommendedFor: "省スペース収納やオーブン活用を考える方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2hqn.3rdw6518.g00r2hqn.3rdw7197/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finterior-palette%2F479702%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finterior-palette%2Fi%2F10184108%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/interior-palette/cabinet/maker_hokua1/479702ip.jpg?_ex=128x128"
-    genreId: "215927"
-  - rank: 6
-    name: "ティファール IHハードチタニウム・アンリミテッド フライパン 26cm"
-    brand: "ティファール"
-    price: 5024
-    capacity: "1枚"
-    pricePerUnit: "約5024円/枚"
-    rating: 4.47
-    reviewCount: 144
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q1q9n.3rdw69c5.g00q1q9n.3rdw75df/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbellevie-harima%2Ft-fal-077%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbellevie-harima%2Fi%2F10152355%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bellevie-harima/cabinet/0000/tfal1012/s1/t-fal-077_s1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F3168430306424.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-23"
-        price: 7810
-        rating: 0
-        reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_3168430306424"
-        available: true
     genreId: "215927"
   - rank: 7
     name: "CAROTE フライパン 26cm IH対応"

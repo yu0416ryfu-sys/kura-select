@@ -4,7 +4,7 @@ description: "ダブルのトイレットペーパーを1mあたりのコスト�
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "再生紙トイレット12RW ダブル 12ロール×8パック"
@@ -13,7 +13,7 @@ products:
     capacity: "27.5m×12ロール×8パック"
     pricePerUnit: "約1.2円/m"
     rating: 4.58
-    reviewCount: 3696
+    reviewCount: 3697
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -59,7 +59,7 @@ products:
     capacity: "75m×4ロール×12袋"
     pricePerUnit: "約1.8円/m"
     rating: 4.63
-    reviewCount: 1535
+    reviewCount: 1537
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -261,7 +261,7 @@ products:
     brand: "日本製紙クレシア（スコッティ）"
     price: 3650
     capacity: "75m×4ロール×12パック（3倍巻き）"
-    rating: 4.74
+    rating: 4.75
     reviewCount: 959
     features:
       - "3倍長持ち設計で交換頻度が大幅に減る"

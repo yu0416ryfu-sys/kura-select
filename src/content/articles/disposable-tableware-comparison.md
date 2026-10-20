@@ -295,7 +295,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F215500.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 11539
         rating: 0
         reviewCount: 2
@@ -329,8 +329,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fconohana%2Fwasara-bowl.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-29"
+        matchStatus: "matched"
+        updatedAt: "2026-10-20"
         price: 748
         rating: 0
         reviewCount: 0

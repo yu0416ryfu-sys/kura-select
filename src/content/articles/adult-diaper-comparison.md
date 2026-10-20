@@ -4,7 +4,7 @@ description: "大人用紙おむつ・尿とりパッドのおすすめ10選を1
 category: "adult-diaper"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "ひまわり にっこり緑茶パッド 2回吸収 300枚"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F10004173.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-19"
         price: 7304
         rating: 4.77
         reviewCount: 94
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00170.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-19"
         price: 7722
         rating: 4.5
         reviewCount: 102
@@ -111,7 +111,7 @@ products:
   - rank: 4
     name: "サルバ やわ楽パンツ M 96枚"
     brand: "サルバ"
-    price: 6540
+    price: 6534
     capacity: "96枚"
     pricePerUnit: "約68円/枚"
     rating: 4.71
@@ -135,8 +135,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5817.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
-        price: 6540
+        updatedAt: "2026-10-19"
+        price: 6534
         rating: 4.51
         reviewCount: 81
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_5817"
@@ -202,7 +202,7 @@ products:
   - rank: 7
     name: "サルバ うす型やわ楽パンツ"
     brand: "サルバ"
-    price: 6540
+    price: 6534
     capacity: "88枚"
     pricePerUnit: "約74円/枚"
     rating: 4.74
@@ -226,8 +226,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5819.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
-        price: 6540
+        updatedAt: "2026-10-19"
+        price: 6534
         rating: 4.68
         reviewCount: 75
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawari-kaigo_5819"

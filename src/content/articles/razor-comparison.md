@@ -4,7 +4,7 @@ description: "ジレット・シックなど人気ブランドのT字カミソ�
 category: "razor"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
@@ -103,20 +103,20 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwa-life%2Fcg-0001-8.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-20"
         price: 1998
         rating: 4.69
         reviewCount: 129
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wa-life_cg-0001-8"
         available: true
   - rank: 4
-    name: "マッハシンスリー ターボ 替刃 8コ入り"
+    name: "ジレット マッハシンスリーターボ 替刃 8個"
     brand: "ジレット（Gillette）"
-    price: 3012
+    price: 2350
     capacity: "替刃8個"
-    pricePerUnit: "約377円/個"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約294円/個"
+    rating: 3
+    reviewCount: 2
     features:
       - "3枚刃設計で肌への密着性が高い"
       - "潤いコートとスムースコートのダブルコーティングで摩擦を軽減"
@@ -129,8 +129,8 @@ products:
       - "5枚刃より深剃り力は控えめ"
       - "濃いひげや太いひげには物足りないと感じる場合がある"
     recommendedFor: "定番ブランドで安定した剃り心地を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902430688635%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10170614%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/re2021/4902430688635.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4902430688635%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10060575%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/20/4902430688635.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -142,7 +142,7 @@ products:
         reviewCount: 12
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430688635"
         available: true
-    genreId: "216660"
+    genreId: "201461"
   - rank: 5
     name: "プログライド マニュアル 替刃 8個"
     brand: "ジレット（Gillette）"
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57020103-250.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 11000
         rating: 0
         reviewCount: 0
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F57010103-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 760
         rating: 0
         reviewCount: 0

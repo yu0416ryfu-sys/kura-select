@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Freonstyle%2F4901301243935.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 1400
         rating: 4.79
         reviewCount: 47
@@ -66,13 +66,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4903301181613.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos00871.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-18"
-        price: 2498
-        rating: 4.95
-        reviewCount: 37
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4903301181613"
+        updatedAt: "2026-10-20"
+        price: 2459
+        rating: 4.75
+        reviewCount: 36
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos00871"
         available: true
     genreId: "304758"
   - rank: 3
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3112833/"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 4180
         rating: 4.81
         reviewCount: 73

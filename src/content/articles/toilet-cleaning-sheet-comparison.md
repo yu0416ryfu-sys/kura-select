@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
@@ -81,8 +81,8 @@ products:
     price: 1980
     capacity: "30枚×10個（300枚）"
     pricePerUnit: "約6.6円/枚"
-    rating: 4.67
-    reviewCount: 18
+    rating: 4.68
+    reviewCount: 19
     features:
       - "流せるトイレ用掃除シート"
       - "エンボス加工のシート"
@@ -160,7 +160,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j974081/"
         matchStatus: "pending"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 640
         rating: 4.04
         reviewCount: 56
@@ -193,7 +193,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkilat%2F9q0372.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 657
         rating: 5
         reviewCount: 4

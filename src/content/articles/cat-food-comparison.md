@@ -4,17 +4,17 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-10-18"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
     name: "ロイヤルカナン インドア 室内で生活する成猫用 10kg"
     brand: "ロイヤルカナン"
-    price: 13200
+    price: 12990
     capacity: "10kg"
     pricePerUnit: "約1.3円/g"
-    rating: 4.64
-    reviewCount: 399
+    rating: 4.75
+    reviewCount: 59
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -27,14 +27,14 @@ products:
       - "サイズや対応条件は購入前に確認したい"
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00re8pn.3rdw67ff.g00re8pn.3rdw7a5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffamilypet%2F52905079%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffamilypet%2Fi%2F10001224%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/familypet/cabinet/asd/item/royalcanin/3182550706940.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pw7an.3rdw6acf.g00pw7an.3rdw72c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpets-kojima%2F02706940%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpets-kojima%2Fi%2F10052029%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pets-kojima/cabinet/02/02706940.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F75320.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 13999
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_75320"
         available: true
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10148480.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 1184
         rating: 0
         reviewCount: 0
@@ -76,6 +76,40 @@ products:
         available: true
     genreId: "565724"
   - rank: 3
+    name: "ロイヤルカナン キトン 2kg"
+    brand: "ロイヤルカナン"
+    price: 4007
+    capacity: "2kg"
+    rating: 4.72
+    reviewCount: 433
+    features:
+      - "猫向けのドライフードとして使いやすい設計"
+      - "年齢や生活環境に合わせて選びやすいライン"
+      - "保存しやすい袋入り・大容量タイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pyjhn.3rdw651d.g00pyjhn.3rdw7375/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchanet%2F75294%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchanet%2Fi%2F10133294%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/chanet/cabinet/753/75294-1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687270.html"
+        matchStatus: "matched"
+        updatedAt: "2026-10-20"
+        price: 4006
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687270"
+        available: true
+        rating: 4.75
+        reviewCount: 880
+    genreId: "565724"
+    pricePerUnit: "約2.0円/g"
+  - rank: 4
     name: "ナチュラルバランス オリジナルウルトラ"
     brand: "Natural Balance"
     price: 6001
@@ -102,14 +136,14 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftierheim-ps%2Fc-2799-800-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 6000
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tierheim-ps_c-2799-800-2"
         available: true
     genreId: "565724"
-  - rank: 4
+  - rank: 5
     name: "キアオラ キャットフード カンガルー 2.7kg"
     brand: "キアオラ"
     price: 10670
@@ -136,14 +170,14 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetoukoku%2F42.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 10670
         rating: 4.86
         reviewCount: 21
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petoukoku_42"
         available: true
     genreId: "565724"
-  - rank: 5
+  - rank: 6
     name: "ねこままちょいす ドライフード 成猫用 500g"
     brand: "犬猫自然食本舗"
     price: 2200
@@ -166,14 +200,14 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ryhin.3rdw69af.g00ryhin.3rdw7f8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finunekohonpo%2F90053%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finunekohonpo%2Fi%2F10000280%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inunekohonpo/cabinet/cf/nekomama/nekomama_new2023se.jpg?_ex=128x128"
     genreId: "565724"
-  - rank: 6
+  - rank: 7
     name: "ピュリナワン キャット"
     brand: "PURINA ONE"
     price: 2614
     capacity: "1個"
     pricePerUnit: "約2614円/個"
     rating: 4.65
-    reviewCount: 919
+    reviewCount: 920
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -200,13 +234,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4902201210980"
         available: true
     genreId: "565724"
-  - rank: 7
+  - rank: 8
     name: "ロイヤルカナン インドア 7+ 室内中高齢猫用 3.5kg"
     brand: "ロイヤルカナン"
     price: 5759
     capacity: "3.5kg"
-    rating: 4.81
-    reviewCount: 151
+    rating: 4.82
+    reviewCount: 152
     features:
       - "7歳以上の室内で生活する中高齢猫向け総合栄養食"
       - "ジッパー付き袋で開封後の保存がしやすい設計"
@@ -234,7 +268,7 @@ products:
         available: true
     priceMax: 21598
     genreId: "565724"
-  - rank: 8
+  - rank: 9
     name: "ロイヤルカナン インドア 4kg"
     brand: "ロイヤルカナン"
     price: 6476
@@ -254,7 +288,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9214406%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10000607%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/eigyou/11675860/7356288.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/rc2606_3/9214406.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -268,47 +302,13 @@ products:
         reviewCount: 1388
     priceMax: 12144
     genreId: "565724"
-  - rank: 9
-    name: "ロイヤルカナン キトン"
-    brand: "ロイヤルカナン"
-    price: 4007
-    capacity: "2kg"
-    rating: 4.73
-    reviewCount: 559
-    features:
-      - "猫向けのドライフードとして使いやすい設計"
-      - "年齢や生活環境に合わせて選びやすいライン"
-      - "保存しやすい袋入り・大容量タイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F9214398%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10000603%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/logo/9214398_e-net.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687270.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-15"
-        price: 4006
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687270"
-        available: true
-        rating: 4.75
-        reviewCount: 878
-    priceMax: 22542
-    genreId: "565724"
   - rank: 10
     name: "ニュートロ ナチュラルチョイス キャット"
     brand: "ニュートロ"
     price: 3980
     capacity: "2kg"
     rating: 4.71
-    reviewCount: 1027
+    reviewCount: 1030
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
@@ -58,8 +58,8 @@ products:
     brand: "uni（三菱鉛筆）"
     price: 1000
     capacity: "1本（4色ボールペン+シャープペンシル）"
-    rating: 4.78
-    reviewCount: 13712
+    rating: 4.77
+    reviewCount: 13717
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"

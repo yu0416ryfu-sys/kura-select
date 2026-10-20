@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
@@ -112,7 +112,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkilat%2F3m9496.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-20"
         price: 5280
         rating: 4.67
         reviewCount: 3
@@ -177,7 +177,7 @@ products:
   - rank: 7
     name: "Smart Yell ソフトパックティッシュ 150組×50個"
     brand: "アイリスオーヤマ"
-    price: 2640
+    price: 3050
     capacity: "150組×50個（7500組）"
     rating: 4.56
     reviewCount: 851
@@ -205,7 +205,7 @@ products:
         matchedCapacity: "150組 5P×5セット（25個）"
         matchNotes: "入数違い採用（楽天は150組×50個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
-    priceMax: 4301
+    priceMax: 4980
     genreId: "100670"
   - rank: 8
     name: "フルール ソフトパックティッシュ 200組×80個"

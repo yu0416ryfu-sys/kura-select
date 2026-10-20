@@ -4,7 +4,7 @@ description: "おりものシート（パンティライナー）のおすすめ
 category: "panty-liner"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbenkyoudou%2Fso-4903111364244.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-20"
         price: 314
         rating: 5
         reviewCount: 3
@@ -62,7 +62,7 @@ products:
       - "厚みより薄さ優先の人には好みが分かれる"
     recommendedFor: "肌に触れる素材を重視する方・吸収力も欲しい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sccjn.3rdw63ca.g00sccjn.3rdw709f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffines-f%2F4901301382757%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffines-f%2Fi%2F10026494%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fines-f/cabinet/06547305/07785924/imgrc0074857596.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fines-f/cabinet/21/4901301382757.jpg?_ex=128x128"
     genreId: "214860"
   - rank: 3
     name: "ソフィ Kiyora フレッシュシトラス イランイラン パンティライナー"

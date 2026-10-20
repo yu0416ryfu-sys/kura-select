@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
@@ -237,7 +237,7 @@ products:
   - rank: 8
     name: "5種のヒアルロン酸配合スキンローション 600ml"
     brand: "3種のヒアルロン酸配合スキンローショ"
-    price: 1250
+    price: 2500
     capacity: "600ml"
     rating: 4.59
     reviewCount: 561
@@ -255,7 +255,7 @@ products:
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F4731%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10000232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/04815981/4731-m01c.jpg?_ex=128x128"
-    priceMax: 7200
+    priceMax: 14400
     genreId: "216307"
   - rank: 9
     name: "ママフィ 潤いミルキーローション (本体350ml/つめかえ用310ml) 赤ちゃん"
@@ -263,7 +263,7 @@ products:
     price: 3080
     capacity: "350ml"
     rating: 4.75
-    reviewCount: 663
+    reviewCount: 664
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"

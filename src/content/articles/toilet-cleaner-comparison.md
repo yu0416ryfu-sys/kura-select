@@ -4,7 +4,7 @@ description: "トイレ用洗剤を1回あたりのコストで徹底比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-18"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "ドメスト 除菌クリーナー 500ml×3個セット"
@@ -202,7 +202,7 @@ products:
   - rank: 7
     name: "スクラビングバブル 超強力トイレクリーナー"
     brand: "スクラビングバブル（ジョンソン）"
-    price: 207
+    price: 208
     capacity: "400g"
     pricePerUnit: "約0.52円/g"
     rating: 4.76
@@ -272,8 +272,8 @@ products:
     brand: "キバミおちーる"
     price: 1980
     capacity: "1000ml"
-    rating: 4.67
-    reviewCount: 123
+    rating: 4.66
+    reviewCount: 125
     features:
       - "トイレ掃除に使える洗浄剤"
       - "黄ばみ・尿石・便座まわりなど用途別に選べる"
