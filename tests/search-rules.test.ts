@@ -788,13 +788,22 @@ describe("search-rules: check-additions 候補精度（2026-10-21）", () => {
   });
 
   describe("getPriceFrozenVariantNameReason（update-products が price を更新しない出品）", () => {
-    it("組数選択ページ（unicharm の ×4袋・netbaby の a63055 型）は理由を返す", () => {
+    it("組数選択ページは理由を返す", () => {
+      for (const name of [
+        "トイレットペーパー 12ロール 24ロール 48ロール",
+        "令和7年 佐渡産 コシヒカリ 朱鷺認証米 特別栽培米 2kg 5kg 10kg 15kg 20kg 25kg",
+      ]) {
+        expect(getPriceFrozenVariantNameReason(name), name).not.toBeNull();
+      }
+    });
+
+    it("おむつの体重帯（6kg〜11kg）だけでは理由を返さない（unicharm の ×4袋・netbaby の a63055 型）", () => {
+      // 体重帯を 6kg と 11kg の2容量と誤読して、単一規格の正規商品まで候補から落としていた
       for (const name of [
         "【ムーニー 低刺激であんしん オムツ M 46枚×4袋】moony テープ Mサイズ 6kg〜11kg テープ型ベビー用紙オムツ 低刺激",
         "ムーニー 低刺激であんしん M 6kg〜11kg 紙おむつ テープ(46枚入*4個)【yb00】【yb05】【ムーニーナチュラル】",
-        "トイレットペーパー 12ロール 24ロール 48ロール",
       ]) {
-        expect(getPriceFrozenVariantNameReason(name), name).not.toBeNull();
+        expect(getPriceFrozenVariantNameReason(name), name).toBeNull();
       }
     });
 
