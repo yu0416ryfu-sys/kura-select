@@ -15,6 +15,7 @@ import {
   findExcludeTermHits,
   findRequiredGroupHits,
   uniqueStrings,
+  getPriceFrozenVariantNameReason,
 } from "../scripts/lib/search-rules.ts";
 import {
   extractAllProductsData,
@@ -653,5 +654,168 @@ describe("search-rules: 優先24本のルール（2026-08-27 追加）", () => {
       const rule = getAdditionSearchRule(category, baseKeyword);
       expect(isAllowedCapacityUnit(capacity, rule), `${category}/${capacity}`).toBe(true);
     }
+  });
+});
+
+/**
+ * check-additions の候補精度改善（2026-10-21）の回帰テスト。
+ *
+ * リンク切れ削除で商品が減った記事を補充したとき、次の3記事で候補が使えず手動検索に頼った。
+ * - toothbrush: カテゴリ rule（歯磨き粉寄り）のままで、歯磨き粉・子ども用・キャラ柄が上位を占めた
+ * - diaper-tape-m: 単独の 'M' が検索語から落ちて大人用テープで埋まり、有効候補0件
+ * - diaper-tape: カテゴリ rule に付属品・ペット用の除外語が無く、犬用マナーベルト等が通った
+ * 商品名はいずれも当日の楽天 API の実出品名。
+ */
+describe("search-rules: check-additions 候補精度（2026-10-21）", () => {
+  const dir = resolve(process.cwd(), "src/content/articles");
+
+  function ruleOf(slug: string) {
+    const content = readFileSync(join(dir, `${slug}-comparison.md`), "utf-8");
+    return resolveArticleSearchRule({
+      title: extractArticleTitle(content),
+      products: extractAllProductsData(content),
+      file: `${slug}-comparison.md`,
+      category: extractArticleCategory(content) ?? "",
+    });
+  }
+
+  function passes(name: string, rule: ReturnType<typeof getAdditionSearchRule>) {
+    return checkAdditionCandidateCategory({ name }, rule).ok;
+  }
+
+  it.each(["toothbrush", "diaper-tape-m", "diaper-tape"])("%s の既存商品は stage1/stage4 に落ちない", slug => {
+    const content = readFileSync(join(dir, `${slug}-comparison.md`), "utf-8");
+    const { rule } = ruleOf(slug);
+    const errors = extractAllProductsData(content).filter(product =>
+      !passes(product.name, rule) || scoreAdditionCandidate({ name: product.name }, rule).score < rule.minScore
+    );
+    expect(errors.map(product => product.name), slug).toEqual([]);
+  });
+
+  describe("toothbrush（大人用の手用歯ブラシ）", () => {
+    it("記事別ルールに解決され、検索語に歯磨き粉・子ども用を含まない", () => {
+      const { baseKeyword, rule } = ruleOf("toothbrush");
+      expect(getArticleSpecificAdditionRule("toothpaste", baseKeyword)).not.toBeNull();
+      expect(rule.keywords.join(" ")).not.toMatch(/歯磨き粉|子ども|子供/);
+      expect(rule.units).toEqual(["本"]);
+    });
+
+    it("大人用の歯ブラシは通る", () => {
+      const { rule } = ruleOf("toothbrush");
+      for (const name of [
+        "Ciメディカル Ci700 歯ブラシ M ふつう 30本セット 歯科専売品",
+        "【★最大300円OFFクーポン有 10/20迄】Ci スマート M（ふつう）25本セット【Ciメディカル 歯科専売 日本製 歯ブラシ】",
+        "ライオン プレミアムケア ハブラシ 6列レギュラー ふつう 12本",
+      ]) {
+        expect(passes(name, rule), name).toBe(true);
+      }
+    });
+
+    it("歯磨き粉・子ども用・キャラ柄・電動の替えブラシは落ちる", () => {
+      const { rule } = ruleOf("toothbrush");
+      for (const name of [
+        "【★最大300円OFFクーポン有 10/20迄】歯磨き粉 子供 チェックアップ kodomo フッ素950ppmF 3本セット(60g/本)",
+        "【★43%OFFクーポン 10/22 9:59迄】歯ブラシ 子供 まとめ買い 子供向けキャラクター歯ブラシ30本セット (トミカ・キティ・ドラえもん・シナモロール)",
+        "【★最大300円OFFクーポン有 10/20迄】歯ブラシ 子供 仕上げ磨き用歯ブラシ Ci602/Ci603 20本【Ciメディカル 歯ブラシ】",
+        "歯ブラシ 25本 Shu&Shu 5色×5本 大人用／3〜6歳用／6〜12歳用 ふつう／やわらかめ キッズ歯ブラシ 歯科専売品",
+        "ブラウン フロスアクション 6本パック EB25-6-EL 【送料無料 電動歯ブラシ 替えブラシ 歯ブラシ オーラルB】",
+        "クラプロックス 歯ブラシ CS1006 シングルタフト 【3本】 CURAPROX Taft 大人用",
+      ]) {
+        expect(passes(name, rule), name).toBe(false);
+      }
+    });
+
+    it("兄弟記事（電動歯ブラシ替えブラシ・子ども用歯磨き粉・歯間ブラシ）を横取りしない", () => {
+      expect(getArticleSpecificAdditionRule("toothpaste", "電動歯ブラシ替えブラシ")).toBeNull();
+      expect(getArticleSpecificAdditionRule("toothpaste", "子ども用歯磨き粉")).toBeNull();
+      expect(getArticleSpecificAdditionRule("toothpaste", "歯間ブラシ")?.include).toContain("歯間ブラシ");
+    });
+  });
+
+  describe("diaper-tape-m（ベビー用テープ型 M）", () => {
+    it("検索語は1文字の 'M' を使わない（buildSearchKeyword が落とすため）", () => {
+      const { rule } = ruleOf("diaper-tape-m");
+      for (const keyword of rule.keywords) {
+        expect(keyword, keyword).toContain("Mサイズ");
+        expect(keyword.split(/\s+/).some(token => /^[A-Za-z]$/.test(token)), keyword).toBe(false);
+      }
+    });
+
+    it("netbaby の「M 6kg〜11kg」表記と、SEO 語で「新生児」を併記した M テープが通る", () => {
+      const { rule } = ruleOf("diaper-tape-m");
+      for (const name of [
+        "ムーニー マシュマロ肌ごこち モレ安心 M 6kg〜11kg 紙おむつ テープ(54枚)【ムーニー】",
+        "パンパース さらさらケア テープ Mサイズ オムツ 6-11kg(62枚入)【パンパース】",
+        "花王 メリーズ エアスルー テープ M52枚×4個入 紙おむつ | テープ おむつ 新生児 メリーズ おむつ Mサイズ メリーズテープ",
+      ]) {
+        expect(passes(name, rule), name).toBe(true);
+      }
+    });
+
+    it("サイズ列挙・大人用・夜用パンツは落ちる", () => {
+      const { rule } = ruleOf("diaper-tape-m");
+      for (const name of [
+        "【1サイズを選べる】ムーニー マシュマロ肌ごこち モレ安心 テープ 新生児・S・Mサイズ（4袋セット）オムツ",
+        "【4個セット】おむつ グーン プラス テープ 新生児 S M L ビッグ 新生児用 Sサイズ Mサイズ Lサイズ テープタイプ 紙おむつ",
+        "【速配】Mサイズ 大人用紙おむつ アテント 消臭効果付きテープ式M 背モレ横モレも防ぐ ケース(28枚×2袋）",
+        "【パンツ Mサイズ】パンパース オムツ 夜用 おやすみパンツ (5~12kg) 34枚 おむつ 紙おむつ ベビー まとめ買い テープ",
+      ]) {
+        expect(passes(name, rule), name).toBe(false);
+      }
+    });
+  });
+
+  describe("diaper-tape（サイズを特定しないガイド記事）", () => {
+    it("記事別ルールに解決され、検索語はベビー用ブランド名", () => {
+      const { baseKeyword, rule } = ruleOf("diaper-tape");
+      expect(getArticleSpecificAdditionRule("diaper", baseKeyword)).not.toBeNull();
+      expect(rule.keywords).toEqual(["パンパース テープ", "メリーズ テープ", "ムーニー テープ"]);
+    });
+
+    it("ペット用マナーベルト・マナーおむつ・ギフト・サイズ選択式は落ちる", () => {
+      const { rule } = ruleOf("diaper-tape");
+      for (const name of [
+        "【楽天1位/累計15,000個突破】 犬用マナーベルト 優しい 通気性 ムレない マナーバンド オムツカバー おむつカバー ドッグウェア",
+        "P・ワン 男の子＆女の子のためのマナーおむつ のび〜るテープ付き ジャンボパック SS(64枚入)【P・ワン(P・one)】",
+        "マナーベルト 男の子 おむつ テープ 洗える",
+        "パンパース テープ おむつギフト 出産準備 3段",
+        "【1種類を選べる】ムーニー 低刺激であんしん 紙おむつ テープ(4個セット)【ムーニーナチュラル】",
+      ]) {
+        expect(passes(name, rule), name).toBe(false);
+      }
+      expect(passes("ムーニー マシュマロ肌ごこち モレ安心 新生児 お誕生〜5000g 紙おむつ テープ(76枚入)【ムーニー】", rule)).toBe(true);
+    });
+  });
+
+  describe("getPriceFrozenVariantNameReason（update-products が price を更新しない出品）", () => {
+    it("組数選択ページは理由を返す", () => {
+      for (const name of [
+        "トイレットペーパー 12ロール 24ロール 48ロール",
+        "令和7年 佐渡産 コシヒカリ 朱鷺認証米 特別栽培米 2kg 5kg 10kg 15kg 20kg 25kg",
+      ]) {
+        expect(getPriceFrozenVariantNameReason(name), name).not.toBeNull();
+      }
+    });
+
+    it("おむつの体重帯（6kg〜11kg）だけでは理由を返さない（unicharm の ×4袋・netbaby の a63055 型）", () => {
+      // 体重帯を 6kg と 11kg の2容量と誤読して、単一規格の正規商品まで候補から落としていた
+      for (const name of [
+        "【ムーニー 低刺激であんしん オムツ M 46枚×4袋】moony テープ Mサイズ 6kg〜11kg テープ型ベビー用紙オムツ 低刺激",
+        "ムーニー 低刺激であんしん M 6kg〜11kg 紙おむつ テープ(46枚入*4個)【yb00】【yb05】【ムーニーナチュラル】",
+      ]) {
+        expect(getPriceFrozenVariantNameReason(name), name).toBeNull();
+      }
+    });
+
+    it("単一規格の出品は null（候補から落とさない）", () => {
+      for (const name of [
+        "メリーズ エアスルー テープ Mサイズ(52枚入)【メリーズ】",
+        "【ケース】ムーニー マシュマロ肌ごこちモレ安心 Mサイズ 54枚×4 [ 公式ショップ ] ユニ・チャーム公式 紙おむつ テープタイプ",
+        "パンパース テープ オムツ さらさらケア Mサイズ 6〜11kg(4個×2セット(1個62枚入))【パンパース】",
+      ]) {
+        expect(getPriceFrozenVariantNameReason(name), name).toBeNull();
+      }
+      expect(getPriceFrozenVariantNameReason(null)).toBeNull();
+    });
   });
 });

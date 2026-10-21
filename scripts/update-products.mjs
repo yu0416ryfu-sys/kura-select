@@ -25,7 +25,7 @@ import { applyAiCapacityToContent, buildProcessedAiCapacityFrozenProduct, buildC
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
 import { parseRakutenItemUrl, toDirectItemUrl, toRakutenUrlKey, collectOtherProductUrlKeys, findDuplicateUrlProduct, findDuplicateUrlGroups, checkAiMatchReplaceDuplicate, selectNonDuplicateItem, buildItemCodeKeywords } from './lib/rakuten-url.ts';
 import { stripCapacityForKeyword, buildProductMatchSearchKeywords, createCandidateSelector } from './lib/product-match-keywords.ts';
-import { CATEGORY_SEARCH_RULES, getAdditionSearchRule, resolveArticleSearchRule, checkAdditionCandidateCategory, getAdditionCandidateDiagnostics, scoreAdditionCandidate, isAllowedCapacityUnit } from './lib/search-rules.ts';
+import { CATEGORY_SEARCH_RULES, getAdditionSearchRule, resolveArticleSearchRule, checkAdditionCandidateCategory, getAdditionCandidateDiagnostics, scoreAdditionCandidate, isAllowedCapacityUnit, getPriceFrozenVariantNameReason } from './lib/search-rules.ts';
 import { isLikelySameProductName } from './lib/product-name-match.ts';
 import { appendPriceHistorySnapshot } from './lib/price-history.ts';
 
@@ -1802,6 +1802,7 @@ async function checkAdditions() {
         recentDeleted: 0,
         lowScore: 0,
         variantPrice: 0,
+        variantName: 0,
       };
 
       // 既存商品・URL不明を除外し、容量不明は必要件数に足りない場合だけ補完候補にする
@@ -1842,6 +1843,14 @@ async function checkAdditions() {
         if (hasVariantPriceRange(c.priceMin, c.priceMax)) {
           stats.variantPrice++;
           recordExcluded(`価格帯商品（${c.priceMin}〜${c.priceMax}円）`, c, { directUrl });
+          continue;
+        }
+        // 価格帯が無くても、商品名が組数選択・複数容量に見える出品は update-products が price を更新しない。
+        // 追加しても price が 0 のまま残るので候補に入れない
+        const variantNameReason = getPriceFrozenVariantNameReason(c.name);
+        if (variantNameReason) {
+          stats.variantName++;
+          recordExcluded(`価格を自動更新できない出品（${variantNameReason}）`, c, { directUrl });
           continue;
         }
         const recentDeleted = findRecentDeletedProduct(directUrl, recentDeletedProducts);
@@ -1922,6 +1931,7 @@ async function checkAdditions() {
           `- 比較対象外の容量単位で除外: ${stats.badCapacityUnit}件\n` +
           `- 直近削除履歴で除外: ${stats.recentDeleted}件\n` +
           `- 価格帯商品（選択式）で除外: ${stats.variantPrice}件\n` +
+          `- 価格を自動更新できない出品（組数選択・複数容量の商品名）で除外: ${stats.variantName}件\n` +
           `- スコア不足で除外: ${stats.lowScore}件\n` +
           `- 有効候補: ${validCandidates.length}件 / 容量抽出不可の補完候補: ${noCapacityCandidates.length}件\n` +
           buildExcludedCandidatesSection(excludedCandidates)
@@ -1942,6 +1952,7 @@ async function checkAdditions() {
       section += `- 比較対象外の容量単位で除外: ${stats.badCapacityUnit}件\n`;
       section += `- 直近削除履歴で除外: ${stats.recentDeleted}件\n`;
       section += `- 価格帯商品（選択式）で除外: ${stats.variantPrice}件\n`;
+      section += `- 価格を自動更新できない出品（組数選択・複数容量の商品名）で除外: ${stats.variantName}件\n`;
       section += `- スコア不足で除外: ${stats.lowScore}件\n`;
       section += `- 有効候補: ${validCandidates.length}件 / 容量抽出不可の補完候補: ${noCapacityCandidates.length}件\n\n`;
 

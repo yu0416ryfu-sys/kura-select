@@ -580,8 +580,35 @@ export function hasVariantPriceRange(
   return priceMin !== priceMax;
 }
 
+// おむつの商品名に現れる語。体重帯（"6kg〜11kg" "6-11kg"）を容量と区別するための文脈判定に使う。
+// 米の "18kg〜20kg" のような容量選択と同じ形をしているため、おむつ以外では除去しない。
+const DIAPER_CONTEXT_RE = /おむつ|オムツ|紙パンツ|パンパース|メリーズ|ムーニー|グーン|マミーポコ|GENKI|ゲンキ|お誕生|新生児/i;
+const BODY_WEIGHT_NUMBER = String.raw`\d[\d,]*(?:\.\d+)?`;
+const BODY_WEIGHT_UNIT = '(?:kg|g)';
+// "6kg〜11kg" "6-11kg" "お誕生〜5000g"（範囲の左辺は単位省略可・省略もあり）
+const BODY_WEIGHT_RANGE_RE = new RegExp(
+  `(?:${BODY_WEIGHT_NUMBER}\\s*${BODY_WEIGHT_UNIT}?\\s*)?[〜~～\\-－−]\\s*${BODY_WEIGHT_NUMBER}\\s*${BODY_WEIGHT_UNIT}`,
+  'gi'
+);
+// "5kgまで" "12kg以上" "15kg〜"（上限・下限だけの体重表記）
+const BODY_WEIGHT_BOUND_RE = new RegExp(
+  `${BODY_WEIGHT_NUMBER}\\s*${BODY_WEIGHT_UNIT}\\s*(?:まで|以上|以下|[〜~～](?!\\s*${BODY_WEIGHT_NUMBER}\\s*${BODY_WEIGHT_UNIT}))`,
+  'gi'
+);
+
+/**
+ * おむつの商品名から体重帯の表記を取り除く。おむつ以外の商品名はそのまま返す。
+ * 例: "ムーニー M 6kg〜11kg テープ(46枚入)" → "ムーニー M  テープ(46枚入)"
+ * 体重帯を容量と読むと、容量抽出が "6kg" を返し、変種判定が 6kg と 11kg を
+ * 2つの容量とみなして price を凍結してしまう。
+ */
+function stripDiaperBodyWeightNotation(itemName: string): string {
+  if (!DIAPER_CONTEXT_RE.test(itemName)) return itemName;
+  return itemName.replace(BODY_WEIGHT_RANGE_RE, ' ').replace(BODY_WEIGHT_BOUND_RE, ' ');
+}
+
 export function isMultiMeasureVariantItemName(itemName: string): boolean {
-  const normalized = normalizeItemName(itemName);
+  const normalized = stripDiaperBodyWeightNotation(normalizeItemName(itemName));
   const matches = [...normalized.matchAll(new RegExp(`(\\d[\\d,]*)\\s*(${MEASURE_UNITS})`, 'gi'))];
   const totalsByUnit = new Map<string, Set<number>>();
 
@@ -665,6 +692,10 @@ function collapseRedundantPackBreakdown(chain: string): string {
 const PROMO_BRACKET_RE =
   /【[^】]*(?:送料無料|ポイント|PT\d|倍|クーポン|セール|割引|最安|リニューアル|限定|あす楽|即納|在庫|まとめ買い|お得|SALE|新生活|訳あり)[^】]*】/gi;
 
+// 先頭の「まとめ買い×N」枠（"【送料込・まとめ買い×4個セット】" "【送料無料・まとめ買い×3】"）。
+const LEADING_BULK_PROMO_BRACKET_RE =
+  /^\s*【[^】]*まとめ買い\s*[×xX*＊]\s*(\d[\d,]*)\s*(?:個|点|セット|袋|本|箱|パック)?\s*(?:セット)?[^】\d]*】/;
+
 // 販促枠であっても、中に "36枚 ×6個" のような数量の乗算チェーンがある場合は
 // そこが唯一の総量表記であることがある（例: "【送料込・まとめ買い36枚 ×6個セット】…36枚"）。
 // 除去すると総量を取りこぼして単価が過大になるため、この形だけは残す。
@@ -744,6 +775,13 @@ function normalizeItemNameForCapacityExtraction(itemName: string): string {
   // （"【5月15日限定…】" の "15日" が 円/日 の容量になっていた）。
   // "【送料無料・2個セット】…2.8g×90錠×2個セット" が先頭の "2個" を
   // 総量と取り違える問題も同時に解消する。
+  // ただし先頭の "【送料込・まとめ買い×4個セット】" の ×4 は販売数量（4個まとめて1価格）。
+  // 枠ごと消すと本体の "50枚" だけが残り、4個分の価格に1個分の容量を組み合わせてしまう。
+  // 先頭の【N個】に置き換え、extractCapacityFromItemName の先頭乗数処理
+  // （本体のチェーンに ×N が既にあれば二重に掛けない）へ渡す。
+  normalized = normalized.replace(LEADING_BULK_PROMO_BRACKET_RE, (m, count: string) =>
+    promoBracketHoldsQuantityChain(m) ? m : `【${count}個】`
+  );
   normalized = normalized.replace(PROMO_BRACKET_RE, m =>
     promoBracketHoldsQuantityChain(m) ? m : ' '
   );
@@ -913,7 +951,8 @@ export function extractCapacityFromItemName(itemName: string): string | null {
   }
   // 体重上限表記（「5kgまで」「3000gまで」「〜5000g」）を除去して容量誤抽出を防ぐ
   // 例: "5kgまで72枚入" → "72枚入" / "お誕生〜3000g 紙おむつ" → "紙おむつ"
-  itemName = itemName
+  // おむつの体重帯（"6kg〜11kg" "6-11kg"）は左辺も含めて落とす（左辺 "6kg" が容量として残るため）
+  itemName = stripDiaperBodyWeightNotation(itemName)
     .replace(/\d[\d,]*(?:\.\d+)?\s*(?:kg|g)\s*まで/g, '')
     .replace(/(?:〜|~)\s*\d[\d,]*(?:\.\d+)?\s*(?:kg|g)/g, '')
     .trim();

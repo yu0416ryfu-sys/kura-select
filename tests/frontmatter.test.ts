@@ -642,12 +642,31 @@ describe("extractCapacityFromItemName", () => {
     ).toBe("3回");
   });
 
-  it("販促枠の個数を容量として拾わない", () => {
+  it("先頭の「まとめ買い×N」枠は販売数量として本体の容量に掛ける", () => {
+    // 枠の個数そのものを容量にはしない（"9個" ではなく "60g×9個"）
     expect(
       extractCapacityFromItemName(
         "【送料お得・まとめ買い×9個セット】あわだたない こどもハミガキ ぶどう香味 60g エスケー石鹸"
       )
-    ).toBe("60g");
+    ).toBe("60g×9個");
+    expect(
+      extractCapacityFromItemName(
+        "【送料込・まとめ買い×4個セット】パンパース さらさらケア テープ スーパ-ジャンボ Mサイズ 50枚"
+      )
+    ).toBe("50枚×4個");
+  });
+
+  it("「まとめ買い×N」が本体のチェーンに既にある場合は二重に掛けない", () => {
+    expect(
+      extractCapacityFromItemName(
+        "【送料無料・まとめ買い×3】【オムツ特売】大王製紙 グーン スーパーBIG テープ 28枚入 サイズ：Bigサイズ ×3点セット ( 4902011745009 )"
+      )
+    ).toBe("28枚×3");
+    expect(
+      extractCapacityFromItemName(
+        "【送料無料・まとめ買い×5】オカモト　水とりぞうさん 550ml×3個パック×5点セット　除湿剤タンス用"
+      )
+    ).toBe("550ml×3個×5");
   });
 
   it("販促枠に総量の乗算チェーンがある場合は残す", () => {
@@ -1016,6 +1035,29 @@ describe("extractCapacityFromItemName", () => {
       )
     ).toBe("132枚");
   });
+
+  // ─── おむつの体重帯（2026-10-21）────────────────────────────────
+  it("おむつの体重帯を容量として拾わない", () => {
+    expect(
+      extractCapacityFromItemName("ムーニー 低刺激であんしん M 6kg〜11kg 紙おむつ テープ(46枚入)")
+    ).toBe("46枚");
+    expect(
+      extractCapacityFromItemName("パンパース さらさらケア テープ Mサイズ オムツ 6-11kg(62枚入)")
+    ).toBe("62枚");
+    expect(
+      extractCapacityFromItemName("メリーズ パンツ ビッグ 12〜22kg 38枚×3袋")
+    ).toBe("38枚×3袋");
+    expect(
+      extractCapacityFromItemName("パンパース テープ ビッグより大きいサイズ 15kg〜 26枚")
+    ).toBe("26枚");
+    expect(
+      extractCapacityFromItemName("グーン テープ 新生児 5kgまで 72枚入")
+    ).toBe("72枚");
+  });
+
+  it("おむつ以外の重量範囲は従来どおり（米の 18kg〜20kg）", () => {
+    expect(extractCapacityFromItemName("秋田県産あきたこまち 18kg〜20kg")).toBe("18kg");
+  });
 });
 
 describe("isMultiMeasureVariantItemName", () => {
@@ -1057,6 +1099,24 @@ describe("isMultiMeasureVariantItemName", () => {
   it("商数が商品名中の乗数と一致しない場合は検知する", () => {
     expect(isMultiMeasureVariantItemName("スリーフ 除菌スプレー 500ml＋1L")).toBe(true);
     expect(isMultiMeasureVariantItemName("秋田県産あきたこまち 18kg〜20kg")).toBe(true);
+  });
+
+  it("おむつの体重帯は複数容量扱いにしない", () => {
+    for (const name of [
+      "ムーニー 低刺激であんしん M 6kg〜11kg 紙おむつ テープ(46枚入)",
+      "パンパース さらさらケア テープ Mサイズ オムツ 6-11kg(62枚入)",
+      "メリーズ テープ 新生児 お誕生〜5000g 90枚",
+      "グーン テープ 新生児 5kgまで 72枚入",
+      "パンパース テープ ビッグより大きいサイズ 15kg〜 26枚",
+    ]) {
+      expect(isMultiMeasureVariantItemName(name), name).toBe(false);
+      expect(isSalesQuantityVariantItemName(name), name).toBe(false);
+    }
+  });
+
+  it("おむつでも容量の列挙は検知する", () => {
+    // 体重帯を消したあとに残る容量どうしの判定は従来どおり
+    expect(isMultiMeasureVariantItemName("ペット用おむつ 3kg 5kg 10kg")).toBe(true);
   });
 });
 
