@@ -4,7 +4,7 @@ description: "ハンドソープはどれが殺菌力とコスパを両立する
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "ミューズ 泡ハンドソープ オリジナル 詰め替え 900mL"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fb81709.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
+        updatedAt: "2026-10-20"
         price: 640
         rating: 0
         reviewCount: 0
@@ -81,7 +81,7 @@ products:
     capacity: "4800ml"
     pricePerUnit: "約0.87円/mL"
     rating: 4.72
-    reviewCount: 434
+    reviewCount: 435
     features:
       - "薬用タイプの泡ハンドソープ"
       - "シトラスフルーティの香り"
@@ -145,14 +145,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/2787233/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/9836705/"
         matchStatus: "pending"
-        updatedAt: "2026-10-06"
-        price: 720
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_2787233"
+        updatedAt: "2026-10-20"
+        price: 479
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_9836705"
         available: true
-        rating: 4.69
-        reviewCount: 95
+        rating: 4.5
+        reviewCount: 127
     genreId: "304758"
   - rank: 6
     name: "arau. 泡ハンドソープ つめかえ用 500mL"
@@ -181,7 +181,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-depart%2F409774.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-20"
         price: 440
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-depart_409774"
         available: true
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fj0030012.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-14"
         price: 737
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_j0030012"
         available: true
@@ -285,7 +285,7 @@ products:
     price: 578
     capacity: "300mL"
     rating: 4.89
-    reviewCount: 54
+    reviewCount: 55
     features:
       - "医薬部外品の薬用処方で殺菌・消毒に対応した泡ハンドソープ"
       - "たっぷり泡立つポンプ設計で手洗いしやすい"
@@ -305,8 +305,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-depart%2F462535.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-25"
-        price: 337
+        updatedAt: "2026-10-14"
+        price: 390
         rating: 4.17
         reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-depart_462535"

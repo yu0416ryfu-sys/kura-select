@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "システムポリマー XP-11 スライダー付ジッパー保存袋"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4997495112409.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 182
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4997495112409"
         available: true
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbungubin%2Fka0046.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-18"
         price: 128
         rating: 0
         reviewCount: 0
@@ -133,7 +133,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbungubin%2Fka0047.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-18"
         price: 145
         rating: 0
         reviewCount: 0
@@ -141,13 +141,13 @@ products:
         available: true
     genreId: "401519"
   - rank: 5
-    name: "ジップロック ストックバッグ L 16枚"
+    name: "ジップロック ストックバッグ L 5枚"
     brand: "旭化成（ジップロック）"
-    price: 2078
-    capacity: "16枚"
-    pricePerUnit: "約130円/枚"
-    rating: 4.4
-    reviewCount: 200
+    price: 159
+    capacity: "5枚"
+    pricePerUnit: "約32円/枚"
+    rating: 0
+    reviewCount: 0
     features:
       - "薄手で日常使いに最適なストックバッグ"
       - "つまみ付きオープンタブで開けやすい"
@@ -160,8 +160,8 @@ products:
       - "フリーザーバッグより薄手で冷凍保存には不向き"
       - "ダブルジッパーではないため密封性はやや劣る"
     recommendedFor: "冷蔵保存がメインの方・大きめサイズが必要な方・開けやすさ重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uh3fn.3rdw6e2f.g00uh3fn.3rdw77a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falmeria-secondstore%2F57081718517%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falmeria-secondstore%2Fi%2F10899331%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/almeria-secondstore/cabinet/item/518/57081718517_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ry6an.3rdw6b25.g00ry6an.3rdw7125/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbababa%2F1srn30021%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbababa%2Fi%2F10027773%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bababa/cabinet/ba146/1srn30021.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -173,7 +173,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/crance_20260617125853-01502"
         available: true
-    genreId: "401519"
+    genreId: "101855"
   - rank: 6
     name: "マーナ パン冷凍保存袋 一斤用 2枚入"
     brand: "マーナ"
@@ -199,22 +199,22 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkomonosennka%2F2112mn124.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmurphyshop%2Fbread-freezer-bag-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-01"
+        updatedAt: "2026-10-18"
         price: 980
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/komonosennka_2112mn124"
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/murphyshop_bread-freezer-bag-2"
         available: true
-        rating: 4.62
-        reviewCount: 29
     genreId: "564982"
   - rank: 7
     name: "ニッカルフレッシュ 鮮度保持袋"
     brand: "パワーサポート"
     price: 780
     capacity: "50枚または100枚（S/M/Lサイズ選択可）"
-    rating: 4.72
-    reviewCount: 159
+    rating: 4.73
+    reviewCount: 160
     features:
       - "ポリエチレン素材・厚さ0.03mmの軽量薄手タイプ"
       - "抗菌性能を備えた食品保存専用設計"
@@ -237,7 +237,7 @@ products:
     price: 574
     capacity: "10枚〜50枚（サイズ・枚数選択可）"
     rating: 4.78
-    reviewCount: 172
+    reviewCount: 174
     features:
       - "アルミ素材により防湿・遮光・防臭効果を発揮"
       - "マチ付き構造で自立可能な設計"
@@ -251,7 +251,7 @@ products:
       - "一般的なポリ袋と比べると1枚あたりの価格が高くなりやすい"
     recommendedFor: "光・湿気・臭いを防いで長期保存したい方・乾物や茶葉を保存する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t2sxn.3rdw6fcb.g00t2sxn.3rdw7915/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffishingkingdom%2Fqa100085%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffishingkingdom%2Fi%2F10001404%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fishingkingdom/cabinet/biiino/item/main-image-2/20240802145259_1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fishingkingdom/cabinet/10370268/qa100085_top_ra.jpg?_ex=128x128"
     priceMax: 99999
     genreId: "101843"
 tags:

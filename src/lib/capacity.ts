@@ -249,6 +249,10 @@ export function calcPricePerUnit(price: number, capacity: string, targetUnit?: s
   return `約${formatted}円/${extracted.unit}`;
 }
 
+// 2枚重ねの「組」を1回分として、1枚ものの「枚」と1:1で並べる記事（ティッシュの1組=2枚換算をしない）。
+// 表示は 円/枚・円/組 のまま。並び替え（reorderProductsByPricePerUnit）だけに効く。
+export const PAIR_AS_ONE_USE_ARTICLES = new Set(['paper-towel-comparison']);
+
 export const ARTICLE_UNIT_POLICY: Record<string, string> = {
   'fabric-softener-comparison': 'mL',
   'laundry-detergent-comparison': 'g',

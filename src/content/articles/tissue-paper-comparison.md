@@ -5,7 +5,7 @@ category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
 ranking: false
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "スコッティ ティッシュペーパー フラワーボックス"
@@ -67,14 +67,14 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-relight/cabinet/thum1/imgrc0084303832.jpg?_ex=128x128"
     genreId: "100670"
   - rank: 3
-    name: "ハロー ソフトパックティッシュ"
+    name: "ハロー ソフトパックティッシュ 150組×100個"
     typeLabel: "ソフトパック"
     brand: "ハロー"
-    price: 5280
-    capacity: "150組×100個"
-    pricePerUnit: "約0.35円/組"
-    rating: 4.59
-    reviewCount: 757
+    price: 4980
+    capacity: "150組×100個（15000組）"
+    pricePerUnit: "約0.33円/組"
+    rating: 4
+    reviewCount: 5
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"
@@ -87,8 +87,8 @@ products:
       - "保管場所が必要"
       - "紙質の好みは分かれる"
     recommendedFor: "ティッシュペーパーを容量と単価で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Ffm1354%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10063482%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/life/life12/3m9496.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u1i9n.3rdw6476.g00u1i9n.3rdw7fbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F3m9496%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficetrust%2Fi%2F10055026%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/life/life03/3m9496.jpg?_ex=128x128"
     genreId: "100670"
 tags:
   - "ティッシュペーパー"

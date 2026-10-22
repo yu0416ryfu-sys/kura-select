@@ -4,7 +4,7 @@ description: "入れ歯洗浄剤のおすすめ9選を1錠あたりの単価で�
 category: "denture-cleaner"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "スッキリデント 部分入れ歯総入れ歯兼用 120錠"
@@ -54,13 +54,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frokorokoshop%2F1773896790-458.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuzuberu%2F20260917030817-00989.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-12"
-        price: 690
+        updatedAt: "2026-10-17"
+        price: 713
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rokorokoshop_1773896790-458"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/suzuberu_20260917030817-00989"
         available: true
     genreId: "208216"
   - rank: 3
@@ -132,13 +132,13 @@ products:
         available: true
     genreId: "208216"
   - rank: 5
-    name: "スマイルデントプラス 120錠 2セット"
+    name: "スマイルデントプラス 120錠 2箱"
     brand: "スマイルデントプラス"
-    price: 2800
-    capacity: "120錠×2セット"
+    price: 2980
+    capacity: "120錠×2箱（240錠）"
     pricePerUnit: "約12円/錠"
-    rating: 4.72
-    reviewCount: 47
+    rating: 4.57
+    reviewCount: 7
     features:
       - "歯科医院専売の入れ歯洗浄剤"
       - "銀イオンや除菌成分を配合したつけ置きタイプ"
@@ -151,8 +151,8 @@ products:
       - "香りの強さは好みが分かれる"
       - "保管スペースを確保したい"
     recommendedFor: "除菌・消臭を重視してまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzu2n.3rdw6b33.g00tzu2n.3rdw7216/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanico%2F1324419-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanico%2Fi%2F10000997%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hanico/cabinet/items/thumbnails/1324419-02_001.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk19n.3rdw629a.g00qk19n.3rdw7a1d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkarayasa%2F10000125-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkarayasa%2Fi%2F10000178%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/karayasa/cabinet/01gazou/main/10000125-2.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisare-gal%2Fkirari03.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-20"
         price: 3189
         rating: 0
         reviewCount: 1
@@ -283,7 +283,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmymouthpeace%2F98.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-20"
         price: 3780
         rating: 4.36
         reviewCount: 11

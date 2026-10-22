@@ -4,7 +4,7 @@ description: "ダブルのトイレットペーパーを1mあたりのコスト�
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "再生紙トイレット12RW ダブル 12ロール×8パック"
@@ -12,8 +12,8 @@ products:
     price: 3200
     capacity: "27.5m×12ロール×8パック"
     pricePerUnit: "約1.2円/m"
-    rating: 4.59
-    reviewCount: 3689
+    rating: 4.58
+    reviewCount: 3697
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -55,11 +55,11 @@ products:
   - rank: 3
     name: "スコッティ フラワーパック 3倍長持ち ダブル 4ロール×12袋"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 7059
+    price: 6490
     capacity: "75m×4ロール×12袋"
-    pricePerUnit: "約2.0円/m"
+    pricePerUnit: "約1.8円/m"
     rating: 4.63
-    reviewCount: 1534
+    reviewCount: 1537
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -111,13 +111,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fstylem%2Faj4741mstyle284edf800d.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4580287284745.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-06"
-        price: 7635
+        updatedAt: "2026-10-15"
+        price: 7261
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/stylem_aj4741mstyle284edf800d"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4580287284745"
         available: true
     genreId: "501098"
   - rank: 5
@@ -147,7 +147,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9620643.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-15"
         price: 4853
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9620643"
         available: true
@@ -179,13 +179,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fme-belu%2Fds-2358010.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9620775.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-14"
-        price: 10260
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/me-belu_ds-2358010"
+        updatedAt: "2026-10-15"
+        price: 6164
+        rating: 4.78
+        reviewCount: 73
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9620775"
         available: true
     genreId: "501098"
   - rank: 7
@@ -249,7 +249,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4901750227302.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-15"
         price: 776
         rating: 5
         reviewCount: 3
@@ -261,7 +261,7 @@ products:
     brand: "日本製紙クレシア（スコッティ）"
     price: 3650
     capacity: "75m×4ロール×12パック（3倍巻き）"
-    rating: 4.74
+    rating: 4.75
     reviewCount: 959
     features:
       - "3倍長持ち設計で交換頻度が大幅に減る"

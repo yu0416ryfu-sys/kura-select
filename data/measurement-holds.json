@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-10-19",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。凍結の対象・起点日・解除日（releaseDate）はこのファイルが唯一の正（2026-09-15 改定）。",
     "施策の中身・判定根拠・経緯の正はローカルのメモリ project_measurement_holds。機械判定（scripts/check-internal-links.mjs など）もこのファイルを読む。施策を打ったら両者を必ず同時に更新する。",
@@ -13,136 +13,6 @@
     "searchNeed を必須にしたのは、施策が外れたときに「手法が悪かったのか、検索意図の読み違いか」を切り分けるため。施策時点の仮説を書き、後から結果に合わせて書き換えない。コホート行は記事個別ではなく施策型の仮説を書く。"
   ],
   "holds": [
-    {
-      "slugs": [
-        "oxiclean-vs-percarbonate-comparison",
-        "hand-soap-comparison",
-        "sanitary-napkin-comparison",
-        "garbage-bag-comparison",
-        "cotton-comparison",
-        "laundry-detergent-comparison"
-      ],
-      "releaseDate": "2026-10-09",
-      "releaseLabel": "2026-10-08",
-      "targetType": "cohort",
-      "cohortId": "cohort-01-description",
-      "arm": "treatment",
-      "startedAt": "2026-09-09",
-      "searchNeed": "施策型の仮説（記事個別ではなくコホート共通）: 検索結果で商品選びの決め手を探している人に対し、改稿前の description は「何で選び分けるか」を1つも提示しておらず、クリックする理由が SERP 上で読めない。改稿はこの欠落を埋めるもの。したがって効くなら CTR に出て、順位・表示には出ないはず。",
-      "measures": [
-        "コホート合算 CTR",
-        "コホート合算 クリック/日",
-        "コホート合算 表示/日",
-        "コホート合算 表示加重平均順位"
-      ],
-      "actions": [
-        "description のみ改稿（本文・title・products・見出しは不変）",
-        "改稿の型は6本で統一: ①冒頭を主要クエリの言い換え疑問文にする ②選び分け軸を3つ具体名で並べる ③末尾に「価格は毎週自動更新」を置く。改稿後 114〜122字（改稿前 76〜110字）"
-      ],
-      "simultaneous": false,
-      "note": "測定レジーム v2 R2 のコホート第1弾（description 改稿型）。事前登録 cohortPreRegistrations[0]（09-07・a367f0e）を 09-09 に適用。採択基準（全文）: 28日表示 >= 150 かつ CTR < 5% かつ 記事ページ かつ 非凍結 かつ 前窓クリーン。同数時は クリック降順 → slug 昇順。CTR 閾値は事前登録時に実測を見てから 3% → 5% に緩和した（ユーザー判断 09-07）。3% のままだと採択5本＝施策4/対照1 で対照群が『方向の確認』として機能しないため。⚠️プレレジとしての強さは落ちる。 正規化子: page 次元（アンカー除外後）の全記事ページ合計から施策群6本と対照群2本を控除した残余を基準にする（控除方式・R2）。サイト全体の報告値に使う dimensions: [] とは混ぜない。 判定日: 暫定 2026-09-26（後窓14日）／確定 2026-10-10（後窓28日）。合算 CTR +50% 以上なら第2弾で再現を見る／未満なら型を捨てる＝意思決定ルールであって検定閾値ではない（MDE 前14/後14 +84%・前14/後28 +73%）。 ⚠️判定時に必ず併記する留保: ①CTR 閾値を実測後に緩和 ②前窓（08-26〜09-08）にサイト全体 +65.0%／+65.6% の異常週（08-29〜09-04）が丸ごと入る ③09-09 は JSON-LD 末尾スラッシュ是正など全記事共通テンプレの変更と同日になりうる（CTR には作用しないが、実施したらこの行に注記する） ④08-25 の15記事同時改稿が前窓に乗っている。 改稿前 description の全文は cohortPreRegistrations[0].descriptionsBefore に保存（8本分）。対照群は方向の確認専用で DiD には使わない（CTR の標準誤差 0.68pp）。記事別内訳は参考記録に留め、記事単位の成否判定には使わない。 ⚠️2026-09-09 補正: **後窓の起点はデプロイ日ではなく再クロール日**。適用直後に GSC URL 検査で確認したところ、施策群6本の lastCrawlTime は laundry-detergent 08-22 / garbage-bag 08-24 / cotton 08-25 / sanitary-napkin 08-29 / hand-soap 08-31 / oxiclean-vs-percarbonate 09-02 で、**いずれも改稿前の版**だった。09-09 起点で窓を切ると前半が旧スニペットの CTR になり施策を過小評価する（laundry-gel-ball で踏んだ空振りと同型）。したがって **暫定 09-26 / 確定 10-10 は仮日付**とし、再クロール完了日が決まってから確定する。releaseDate 2026-10-11 も起点確定後に後ろ倒しする可能性がある。前窓（baseline-2026-09-09.json・窓 08-10〜09-06）は確定データなので影響を受けない。 ⚠️2026-09-09: JSON-LD 末尾スラッシュ是正（`ArticleLayout.astro` 5箇所・全記事共通テンプレ・区分C相当）を実施。起点 09-09。判定時に併記する。 ⚠️2026-09-10: 定型H2 是正 Step 4 第3バッチ（cohort-02-template-h2・9本）を実施した。**この9本は cohort-01 の正規化子（残余）に含まれるため、判定時は残余からこの9本も控除すること**（ユーザー判断 2026-09-10）。 ⚠️2026-09-10: dental-floss-comparison の r1 削除＋title/description 変更（§7-Y）を実施。この記事も残余に含まれるので、判定時は残余から控除すること。 ⚠️2026-09-15 補正（ユーザー判断）: 起点を UTC 日付の 09-09 から **JST の 09-10** に補正した。台帳と scripts/lib/cohort-crawl.ts は JST 日付で判定する規約で、cohort-02 も JST で起点を確定しているため、cohort-01 だけが UTC 日付になっていた。補正後は **暫定 2026-09-24 / 確定 2026-10-08 / releaseDate 2026-10-09**。この note 前半の「暫定 09-26 / 確定 10-10」「releaseDate 2026-10-11」は起点確定前の仮日付であり、windowStartRule の値が正。 ⚠️2026-09-26 暫定判断（後窓14日・2日遅れで実施）: GSC 確定日 2026-09-23。前窓 08-26〜09-08 / 後窓 09-10〜09-23（各14日・page 次元アンカー除外後。生データ reports/gsc-harvest/cohort-windows/）。正規化子＝全記事ページ − 施策6 − 対照2 − cohort-02 の9本 − dental-floss − kairo − hydrocolloid-bandage。**施策群の合算 CTR 2.23%→2.16%（素 -3.1%／正規化後 -24.9%）＝+50% に遠く届かず、意思決定ルールにより description 改稿型は捨てる（第2弾へ横展開しない）**。対照群 2.72%→2.80%（素 +3.1%／正規化後 -20.1%）で施策群と同方向・同程度＝効果なしと整合（対照群の無効化条件は偽陽性の除外用で、効果が出ていない今回は判定を変えない）。施策群の表示/日は正規化後 +27.9%・順位は相対 1.32 改善だが、仮説では CTR にしか出ないはずの施策で、oxiclean-vs-percarbonate 1本の表示急増（3,010→7,654）が主因のため帰属しない。oxiclean を除いた5本でも CTR 3.97%→3.97%（正規化後 -22.6%）で結論は同じ（事後分析・参考）。感度分析（後窓中に編集した8本も残余から控除）でも施策群 CTR 正規化後 -23.5%。確定判断 10-08 は予定どおり実施し MDE +73% を併記する。 ⚠️2026-09-30 区分B: hand-soap-comparison r2（ミューズ 泡ハンドソープ オリジナル 詰め替え 900mL）のリンク切れを差し替え（rakuten24/e416836h → 楽天24エクスプレス rakutensokuhaimart/4906156801217）。同一商品・同容量で rakutenUrl / imageUrl のみ変更、description・title・本文・商品構成は不変。",
-      "source": "IMPLEMENTATION_PLAN_MEASUREMENT_REGIME_V2_2026-08-25.md / cohortPreRegistrations[0]",
-      "descriptionsBefore": {
-        "oxiclean-vs-percarbonate-comparison": "オキシクリーンと過炭酸ナトリウム（酸素系漂白剤）の違いを1gあたりの単価・成分・使いやすさ・用途の4軸で徹底比較。中身は同じ？どっちを選ぶべきか、洗濯槽掃除やオキシ漬けでの使い分けまで解説します。価格は毎週自動更新。",
-        "hand-soap-comparison": "ハンドソープを1回あたりのコストで徹底比較。キレイキレイ・ビオレu・ミューズ・ジェームズマーティンなど人気10選を紹介。殺菌力重視・保湿重視・家族向けに最適な商品が分かります。",
-        "sanitary-napkin-comparison": "生理用ナプキンを1枚あたりのコストで徹底比較。ソフィ・ロリエ・エリス・ナチュラムーンなど人気10選を吸収力・肌へのやさしさ・コスパ最強ランキングで解説します。",
-        "garbage-bag-comparison": "45リットルのゴミ袋はどこが安い？1枚あたりの価格で徹底比較しました。厚手・半透明・エコ素材から20Lの小分け用まで、まとめ買いでコスパ最強の家庭向けおすすめ10選を楽天市場から紹介します。",
-        "cotton-comparison": "コットンを1枚あたりのコストで徹底比較。シルコット・ビオレ・大容量無印など人気8選を吸水性・肌触り・コスパ最強ランキングで解説。スキンケア毎日使いに最適な1袋が見つかります。",
-        "laundry-detergent-comparison": "洗濯洗剤を液体・粉末・ジェルボールのタイプ別に徹底比較。部屋干し対応や詰め替えのしやすさも解説するおすすめ10選。楽天で買える洗濯洗剤選びの参考にどうぞ。"
-      },
-      "windowStartRule": "後窓の起点は**全6本の再クロール完了日**（ユーザー判断 2026-09-09）。**2026-09-09 に確定・2026-09-15 に JST へ補正＝起点 2026-09-10**: ユーザーが URL 検査からインデックス登録をリクエストした結果、施策群6本が 09-09 23:05〜23:11Z（JST 09-10 08:05〜08:11）に再クロールされた（description デプロイ完了は 22:45:25Z なので全本がデプロイ後）。**暫定判断 2026-09-24 / 確定判断 2026-10-08**、releaseDate は 2026-10-09。確認は機械化済み: `pnpm cohort:crawl-check`（随時）と `pnpm weekly:snapshot`（毎週月曜・スナップショットの §0 に出力）が lastCrawlAtApply / deployedAt と現在の lastCrawlTime を比較する。",
-      "lastCrawlAtApply": {
-        "laundry-detergent-comparison": "2026-08-22T12:48:44Z",
-        "garbage-bag-comparison": "2026-08-24T04:23:08Z",
-        "cotton-comparison": "2026-08-25T01:42:55Z",
-        "sanitary-napkin-comparison": "2026-08-29T01:52:06Z",
-        "hand-soap-comparison": "2026-08-31T21:59:22Z",
-        "oxiclean-vs-percarbonate-comparison": "2026-09-02T09:12:19Z"
-      },
-      "lastCrawlAtApplyNote": "GSC URL 検査 API の lastCrawlTime（ISO 8601・UTC）。pnpm cohort:crawl-check / pnpm weekly:snapshot がこの値と現在値を比較して後窓の起点を判定する。⚠️この行を手で書き換えると起点判定が壊れる。",
-      "deployedAt": "2026-09-08T22:45:25Z",
-      "originDate": "2026-09-10"
-    },
-    {
-      "slugs": [
-        "kitchen-paper-comparison",
-        "tissue-paper-comparison"
-      ],
-      "releaseDate": "2026-10-09",
-      "releaseLabel": "2026-10-08",
-      "targetType": "cohort",
-      "cohortId": "cohort-01-description",
-      "arm": "control",
-      "startedAt": "2026-09-09",
-      "searchNeed": "該当なし（対照群・変更を加えないため検索ニーズの仮説を持たない）。",
-      "measures": [
-        "コホート合算 CTR",
-        "コホート合算 クリック/日",
-        "コホート合算 表示/日",
-        "コホート合算 表示加重平均順位"
-      ],
-      "actions": [
-        "何も変更しない（対照群）。区分B のリンク切れ差し替えも含めて 2026-10-08 まで触らない（releaseDate 2026-10-09 から編集可）"
-      ],
-      "simultaneous": false,
-      "note": "測定レジーム v2 R2 のコホート第1弾（description 改稿型）。事前登録 cohortPreRegistrations[0]（09-07・a367f0e）を 09-09 に適用。採択基準（全文）: 28日表示 >= 150 かつ CTR < 5% かつ 記事ページ かつ 非凍結 かつ 前窓クリーン。同数時は クリック降順 → slug 昇順。CTR 閾値は事前登録時に実測を見てから 3% → 5% に緩和した（ユーザー判断 09-07）。3% のままだと採択5本＝施策4/対照1 で対照群が『方向の確認』として機能しないため。⚠️プレレジとしての強さは落ちる。 正規化子: page 次元（アンカー除外後）の全記事ページ合計から施策群6本と対照群2本を控除した残余を基準にする（控除方式・R2）。サイト全体の報告値に使う dimensions: [] とは混ぜない。 判定日: 暫定 2026-09-26（後窓14日）／確定 2026-10-10（後窓28日）。合算 CTR +50% 以上なら第2弾で再現を見る／未満なら型を捨てる＝意思決定ルールであって検定閾値ではない（MDE 前14/後14 +84%・前14/後28 +73%）。 ⚠️判定時に必ず併記する留保: ①CTR 閾値を実測後に緩和 ②前窓（08-26〜09-08）にサイト全体 +65.0%／+65.6% の異常週（08-29〜09-04）が丸ごと入る ③09-09 は JSON-LD 末尾スラッシュ是正など全記事共通テンプレの変更と同日になりうる（CTR には作用しないが、実施したらこの行に注記する） ④08-25 の15記事同時改稿が前窓に乗っている。 改稿前 description の全文は cohortPreRegistrations[0].descriptionsBefore に保存（8本分）。対照群は方向の確認専用で DiD には使わない（CTR の標準誤差 0.68pp）。記事別内訳は参考記録に留め、記事単位の成否判定には使わない。 ⚠️2026-09-09 補正: **後窓の起点はデプロイ日ではなく再クロール日**。適用直後に GSC URL 検査で確認したところ、施策群6本の lastCrawlTime は laundry-detergent 08-22 / garbage-bag 08-24 / cotton 08-25 / sanitary-napkin 08-29 / hand-soap 08-31 / oxiclean-vs-percarbonate 09-02 で、**いずれも改稿前の版**だった。09-09 起点で窓を切ると前半が旧スニペットの CTR になり施策を過小評価する（laundry-gel-ball で踏んだ空振りと同型）。したがって **暫定 09-26 / 確定 10-10 は仮日付**とし、再クロール完了日が決まってから確定する。releaseDate 2026-10-11 も起点確定後に後ろ倒しする可能性がある。前窓（baseline-2026-09-09.json・窓 08-10〜09-06）は確定データなので影響を受けない。 ⚠️2026-09-09: JSON-LD 末尾スラッシュ是正（`ArticleLayout.astro` 5箇所・全記事共通テンプレ・区分C相当）を実施。起点 09-09。判定時に併記する。 ⚠️2026-09-10: 定型H2 是正 Step 4 第3バッチ（cohort-02-template-h2・9本）を実施した。**この9本は cohort-01 の正規化子（残余）に含まれるため、判定時は残余からこの9本も控除すること**（ユーザー判断 2026-09-10）。 ⚠️2026-09-10: dental-floss-comparison の r1 削除＋title/description 変更（§7-Y）を実施。この記事も残余に含まれるので、判定時は残余から控除すること。 ⚠️2026-09-15 補正（ユーザー判断）: 起点を UTC 日付の 09-09 から **JST の 09-10** に補正した。台帳と scripts/lib/cohort-crawl.ts は JST 日付で判定する規約で、cohort-02 も JST で起点を確定しているため、cohort-01 だけが UTC 日付になっていた。補正後は **暫定 2026-09-24 / 確定 2026-10-08 / releaseDate 2026-10-09**。この note 前半の「暫定 09-26 / 確定 10-10」「releaseDate 2026-10-11」は起点確定前の仮日付であり、windowStartRule の値が正。 ⚠️2026-09-26 暫定判断（後窓14日・2日遅れで実施）: GSC 確定日 2026-09-23。前窓 08-26〜09-08 / 後窓 09-10〜09-23（各14日・page 次元アンカー除外後。生データ reports/gsc-harvest/cohort-windows/）。正規化子＝全記事ページ − 施策6 − 対照2 − cohort-02 の9本 − dental-floss − kairo − hydrocolloid-bandage。**施策群の合算 CTR 2.23%→2.16%（素 -3.1%／正規化後 -24.9%）＝+50% に遠く届かず、意思決定ルールにより description 改稿型は捨てる（第2弾へ横展開しない）**。対照群 2.72%→2.80%（素 +3.1%／正規化後 -20.1%）で施策群と同方向・同程度＝効果なしと整合（対照群の無効化条件は偽陽性の除外用で、効果が出ていない今回は判定を変えない）。施策群の表示/日は正規化後 +27.9%・順位は相対 1.32 改善だが、仮説では CTR にしか出ないはずの施策で、oxiclean-vs-percarbonate 1本の表示急増（3,010→7,654）が主因のため帰属しない。oxiclean を除いた5本でも CTR 3.97%→3.97%（正規化後 -22.6%）で結論は同じ（事後分析・参考）。感度分析（後窓中に編集した8本も残余から控除）でも施策群 CTR 正規化後 -23.5%。確定判断 10-08 は予定どおり実施し MDE +73% を併記する。",
-      "source": "IMPLEMENTATION_PLAN_MEASUREMENT_REGIME_V2_2026-08-25.md / cohortPreRegistrations[0]",
-      "descriptionsBefore": {
-        "kitchen-paper-comparison": "キッチンペーパーを1枚あたりのコストで徹底比較。エリエール・スコッティ・ネピアなど人気10選を吸水力・強度・コスパで解説します。",
-        "tissue-paper-comparison": "ティッシュペーパーを1組あたりの価格で徹底比較。まとめ買いでお得な商品から花粉症向け高保湿タイプまでおすすめ10選を紹介。用途別に選べるティッシュの決定版。"
-      },
-      "windowStartRule": "後窓の起点は**全6本の再クロール完了日**（ユーザー判断 2026-09-09）。**2026-09-09 に確定・2026-09-15 に JST へ補正＝起点 2026-09-10**: ユーザーが URL 検査からインデックス登録をリクエストした結果、施策群6本が 09-09 23:05〜23:11Z（JST 09-10 08:05〜08:11）に再クロールされた（description デプロイ完了は 22:45:25Z なので全本がデプロイ後）。**暫定判断 2026-09-24 / 確定判断 2026-10-08**、releaseDate は 2026-10-09。確認は機械化済み: `pnpm cohort:crawl-check`（随時）と `pnpm weekly:snapshot`（毎週月曜・スナップショットの §0 に出力）が lastCrawlAtApply / deployedAt と現在の lastCrawlTime を比較する。",
-      "deployedAt": "2026-09-08T22:45:25Z",
-      "originDate": "2026-09-10"
-    },
-    {
-      "slugs": [
-        "wet-tissue-comparison",
-        "contact-lens-comparison",
-        "moisture-absorber-comparison",
-        "dishwasher-detergent-comparison",
-        "baby-wipes-comparison",
-        "body-soap-comparison",
-        "conditioner-comparison",
-        "cleansing-comparison",
-        "floor-cleaner-comparison"
-      ],
-      "releaseDate": "2026-10-10",
-      "releaseLabel": "2026-10-09",
-      "targetType": "cohort",
-      "cohortId": "cohort-02-template-h2",
-      "arm": "treatment",
-      "startedAt": "2026-09-10",
-      "searchNeed": "施策型の仮説（記事個別ではなくコホート共通）: 記事固有の判断材料（容量の逆算・向いていない人など）を求めている検索者に対し、定型H2 が全記事共通の一般論を返しており、検索ニーズに実質何も答えていない。置換はこの空白を記事固有の情報で埋めるもの。",
-      "measures": [
-        "再クロールが来たか（起点の確定）",
-        "コホート合算 表示/日",
-        "コホート合算 クリック/日",
-        "コホート合算 表示加重平均順位"
-      ],
-      "actions": [
-        "定型H2（「コスパ比較のポイント」「タイプ別の特徴と使い分け」）を記事固有セクションへ置換。本文のみ（title は不変）",
-        "区分C の同時是正: products[] に存在しない銘柄の撤去（contact-lens / dishwasher-detergent / conditioner / body-soap の description、contact-lens 本文、moisture-absorber・cleansing・floor-cleaner のまとめ）、陳腐化した手書き単価の撤去（conditioner 本文、body-soap 本文、dishwasher-detergent / body-soap / conditioner の pros）、§11 の根拠なし断定の撤去（cleansing pros の「人気No.1クラス」、floor-cleaner まとめの「ダントツのコスパ」）、薬機法リスク表現の中和（conditioner features）"
-      ],
-      "simultaneous": true,
-      "note": "定型H2 是正 Step 4 第3バッチ（R3非該当9本）。着手日は 2026-09-10（ユーザー判断）。⚠️**当初の対象は10本だったが `hand-soap` を除外した** —— 09-09 のコホート第1弾で施策群に採択され releaseDate 2026-10-09 で凍結されたため（当時の記載は 10-08。2026-09-15 の JST 補正で 10-09）。TODO §6.6 の「残り10本」は 09-01 時点のリストで、そのままでは凍結を踏む。 ⚠️**コホート第1弾（cohort-01-description）の正規化子から、この9本も控除すること**。cohort-01 の正規化子は『page 次元（アンカー除外後）の全記事ページ合計 − 施策群6 − 対照群2』の残余だが、この9本は残余に含まれており 09-10 に本文を改稿した。控除しないと cohort-01 の正規化が汚れる（ユーザー判断 2026-09-10）。 判定: 対照群は置かない（AdSense 対策の品質改善が主目的で、施策型の有効性検定ではない）。したがって**合算の方向を見るだけ**で、cohort-01 のような意思決定ルール（+50%）は適用しない。 ⚠️後窓の起点はデプロイ日ではなく再クロール日（cohort-01 と同じ）。適用時の lastCrawlTime は lastCrawlAtApply に保存済みで、全9本とも改稿前の版（08-29〜09-06）。`pnpm cohort:crawl-check` / `pnpm weekly:snapshot` が再クロール完了を検知する。**暫定 09-24 / 確定 10-08 は仮日付**で、起点が後ろにずれたら releaseDate も後ろ倒しする。 simultaneous: true —— 定型H2 の置換と区分C 是正を同時に実施しているため、記事単位の判定はできない（区分C はいずれも §5.0.3 の例外に当たる誤表示・法務リスクの是正で、放置する選択肢がなかった）。 ⚠️`body-soap` の title に「1g0.87円〜」という陳腐化した単価が残っている（実データは約0.85円/g）。title の変更は §5.0.2 の施策に当たるため本バッチでは触れていない。別施策として判断する。 ⚠️2026-09-10 追記: デプロイ完了 2026-09-09T23:08:56Z（GitHub Actions の deploy ジョブ）。本番HTML9本で旧定型H2 が 0件であることを curl で確認済み。IndexNow（Bing）は同ワークフローの indexnow ジョブが自動送信済み。**Google は GSC の URL 検査から9本すべてインデックス登録をリクエスト済み**（2026-09-10・ブラウザ操作。9本とも「インデックス登録をリクエスト済み」ダイアログで確認）。⚠️GSC API には「インデックス登録をリクエスト」の口がない（urlInspection.index.inspect は読み取り専用、Indexing API は JobPosting / BroadcastEvent 限定）ので、この操作は画面からしかできない。次は `pnpm cohort:crawl-check` で lastCrawlTime が lastCrawlAtApply から更新されたかを確認し、更新された日を後窓の起点として確定する。 ⚠️2026-09-21 ユーザー判断: 関連記事 fallback 修正（TODO §7-U・全記事共通テンプレ・内部リンク構造の意図的な変更＝区分D 相当）を **2026-09-22 にデプロイする**。この9本の後窓（起点 09-11・確定判断 10-09）に丸ごと入るため、**cohort-02 は「2施策同時」として扱い、定型H2 置換の型の判定は第2弾に委ねる**。出リンクが変わるのは20記事のみで、この9本が関連枠から受ける被リンクは一律 0〜+1 の範囲。デプロイ完了後に実際の起点日をこの note に追記すること。 ✅2026-09-22 実施: 関連記事 fallback 修正をデプロイした（`03d3a147`・単独デプロイ・deploy ジョブ完了 2026-09-21T23:00:29Z＝JST 09-22 08:00）。**起点 2026-09-22（JST）**。本番HTMLで `father-day-gift-comparison` から `cotton-swab-comparison` への関連リンクが出ていることを curl で確認。`pnpm check-internal-links` は孤立 1 本 / 本文被リンクなし 22 本。**この9本の後窓（09-11〜）に 09-22 以降が含まれるため、確定判断 10-09 は「定型H2 置換 ＋ 関連記事 fallback の2施策同時」として読む。型の判定は第2弾に委ねる。** ⚠️2026-09-26: 暫定判断は**順延**。GSC 確定日が 2026-09-23 で後窓14日（09-11〜09-24）の最終日が未確定のため。参考値（後窓13日・判定に使わない）: 前窓 08-27〜09-09 → 後窓 09-11〜09-23 で、施策群9本の表示/日 302.0→359.0（正規化後 -16.0%）・クリック/日 13.93→15.77（正規化後 -39%相当＝残余が +85%）・CTR 4.61→4.39%（正規化後 -27.3%）・表示加重順位 9.52→8.29（相対 0.25 改善）。09-24 確定後（09-28 の週次分析）に14日窓で正式に方向を記録する。 ⚠️2026-09-28 暫定判断（後窓14日・ACCESS_ANALYSIS_2026-09-28.md §2）: **方向の記録のみ（正規化後はマイナス）**。前窓 08-27〜09-09 / 後窓 09-11〜09-24（各14日。生データ reports/gsc-harvest/cohort-windows/window-2026-08-27_2026-09-09.json・window-2026-09-11_2026-09-24.json）。9本合算: クリック 195→218 / 表示 4,228→4,951（302.0→353.6 表示/日）/ CTR 4.61→4.40% / 表示加重順位 9.52→8.22。正規化子①サイト全体（dimensions: []・クリック×1.576・表示×1.425・順位 8.78→7.21）: 表示 -17.8% / クリック -29.1% / CTR -13.7% / 順位は相対 0.26 悪化。正規化子②残余（page 次元の記事合計 − cohort-01 の8本 − cohort-02 の9本 − 施策が入った他9本）: 表示 -16.0% / クリック -36.5% / CTR -24.4% / 順位は相対 0.51 改善。表示・クリックの向きは一致、順位は正規化子しだいで符号が変わる。対照群なし・関連記事 fallback（09-22）と区分C の同時投入のため型の効果とは言えない。確定判断 10-09（後窓28日）で同じ2つの正規化子で方向を再記録する。",
-      "source": "IMPLEMENTATION_PLAN_TEMPLATE_H2_REWRITE_2026-09-01.md / docs/TODO.md §6.6",
-      "windowStartRule": "後窓の起点は9本の再クロール完了日。**2026-09-14 に確定＝起点 2026-09-11**（JST）: 09-10 のインデックス登録リクエスト直後に6本、同日中に conditioner / floor-cleaner が再クロールされ、最後の cleansing は 09-11。cleansing の最初の再クロール日は現在値の上書きで厳密には特定できないが、遅い側に倒す（窓の先頭に旧版の日を混ぜない）。**暫定判断 2026-09-25 / 確定判断 2026-10-09**、releaseDate は 2026-10-10。originDate を日付だけで書いたので pnpm cohort:crawl-check / weekly:snapshot は以後この値に固定する。",
-      "lastCrawlAtApply": {
-        "wet-tissue-comparison": "2026-09-06T11:51:57Z",
-        "contact-lens-comparison": "2026-09-05T02:42:35Z",
-        "moisture-absorber-comparison": "2026-09-05T09:07:38Z",
-        "dishwasher-detergent-comparison": "2026-09-02T05:14:22Z",
-        "baby-wipes-comparison": "2026-09-06T00:36:51Z",
-        "body-soap-comparison": "2026-08-29T05:04:30Z",
-        "conditioner-comparison": "2026-08-31T10:55:08Z",
-        "cleansing-comparison": "2026-08-29T07:18:33Z",
-        "floor-cleaner-comparison": "2026-09-05T09:09:30Z"
-      },
-      "lastCrawlAtApplyNote": "GSC URL 検査 API の lastCrawlTime（ISO 8601・UTC）。適用当日 2026-09-10 に取得。⚠️この行を手で書き換えると起点判定が壊れる。",
-      "deployedAt": "2026-09-09T23:08:56Z",
-      "originDate": "2026-09-11"
-    },
     {
       "slug": "mukokukan-vs-shoshuriki-comparison",
       "releaseDate": "2026-10-16",
@@ -159,7 +29,7 @@
         "ビーズ同士の結論セクション追加＋2択ボタン（placement=verdict_cta）＋FAQ 1問追加"
       ],
       "simultaneous": false,
-      "note": "計画書 docs/IMPLEMENTATION_PLAN_MUKOKUKAN_VERDICT_CTA_2026-09-17.md §7（事前登録）。コミット 378f275b、デプロイ日 2026-09-17（JST）＝起点。【主指標・GA4】前窓 2026-08-10〜09-16 の基準値（確定）= アフィリエイトクリック 7（楽天4／Amazon2／Yahoo1）÷ PV 310 = 2.26%。後窓 09-17〜10-14（28日）。成功 = 後窓 PV≧200 かつ クリック率≧4.52%（基準値の2倍）かつ verdict_cta≧3件。失敗 = 基準値以下。判定不能 = PV<200。【SEO 記録指標・GSC（判定に使わない）】クエリ定義（空白除去後）: B群 = 「イオン消臭プラス」または「イオン消臭」を含む／A群 = それ以外で「無香空間」と「消臭力」を両方含む。ベースライン reports/gsc-harvest/baseline-2026-09-17.json（GSC 確定日 2026-09-14、窓 09-01〜09-14）: A群 表示183（13.1/日）・クリック54・CTR 29.5%・順位2.5／B群 表示183（13.1/日）・クリック16・CTR 8.7%・順位3.7。GSC の後窓は再クロール日（JST）起点で前14/後14・後28。再クロール日: **2026-09-25（JST）で確定**（reports/weekly/snapshot-2026-09-25.md §0・2026-09-29 記帳。デプロイ時点の lastCrawlTime は 2026-09-11T12:15:12Z＝改稿前の版）。GSC 記録指標の暫定 10-09 / 確定 10-23。主指標（GA4）はデプロイ日 09-17 起点のままで、解除日 10-15（releaseDate 10-16）は変えない。",
+      "note": "計画書 docs/IMPLEMENTATION_PLAN_MUKOKUKAN_VERDICT_CTA_2026-09-17.md §7（事前登録）。コミット 378f275b、デプロイ日 2026-09-17（JST）＝起点。【主指標・GA4】前窓 2026-08-10〜09-16 の基準値（確定）= アフィリエイトクリック 7（楽天4／Amazon2／Yahoo1）÷ PV 310 = 2.26%。後窓 09-17〜10-14（28日）。成功 = 後窓 PV≧200 かつ クリック率≧4.52%（基準値の2倍）かつ verdict_cta≧3件。失敗 = 基準値以下。判定不能 = PV<200。【SEO 記録指標・GSC（判定に使わない）】クエリ定義（空白除去後）: B群 = 「イオン消臭プラス」または「イオン消臭」を含む／A群 = それ以外で「無香空間」と「消臭力」を両方含む。ベースライン reports/gsc-harvest/baseline-2026-09-17.json（GSC 確定日 2026-09-14、窓 09-01〜09-14）: A群 表示183（13.1/日）・クリック54・CTR 29.5%・順位2.5／B群 表示183（13.1/日）・クリック16・CTR 8.7%・順位3.7。GSC の後窓は再クロール日（JST）起点で前14/後14・後28。再クロール日: **2026-09-25（JST）で確定**（reports/weekly/snapshot-2026-09-25.md §0・2026-09-29 記帳。デプロイ時点の lastCrawlTime は 2026-09-11T12:15:12Z＝改稿前の版）。GSC 記録指標の暫定 10-09 / 確定 10-23。主指標（GA4）はデプロイ日 09-17 起点のままで、解除日 10-15（releaseDate 10-16）は変えない。【判定 2026-10-15】GA4 後窓 09-17〜10-14（10-14 は T-1 だが PV・イベント数のみ使用）: PV 359（≧200 ✓）／クリック 14（楽天5・Amazon7・Yahoo2）= 3.90%（基準の1.73倍・成功ライン 4.52% 未達 ✕）／verdict_cta 4件（≧3 ✓）→ 成功基準に届かず・失敗でもない（事前登録に中間区分なし）。",
       "source": "project_measurement_holds",
       "deployedAt": "2026-09-17T11:50:09Z",
       "lastCrawlAtApply": {
@@ -168,81 +38,23 @@
       "originDate": "2026-09-25"
     },
     {
-      "slug": "kairo-comparison",
-      "releaseDate": "2026-10-08",
-      "releaseLabel": "2026-10-07",
-      "targetType": "new-article",
-      "startedAt": "2026-09-23",
-      "searchNeed": "冬の通勤・屋外作業・スポーツ観戦に備えて使い捨てカイロをまとめ買いしたい人が、貼る・貼らない・ミニのどれを何個買えば1個あたり安く済むかを知りたくて検索している。GSC では需要を実測できていない（既存記事で「カイロ」を含むクエリの表示0）季節先行の一般名詞記事なので、離陸すれば表示/日と表示加重平均順位に出るはず",
+      "slug": "laundry-gel-ball-comparison",
+      "releaseDate": "2026-11-11",
+      "releaseLabel": "2026-11-10",
+      "targetType": "article",
+      "startedAt": "2026-10-13",
+      "originDate": "2026-10-13",
+      "searchNeed": "ジェルボールを使うか迷っている人が「ジェルボールは液体洗剤より割高なのか」を知りたくて「ジェルボール コスパ」「ジェルボール 液体洗剤 コスパ」「ジェルボール 値段 比較」で検索している。記事本文は冒頭で「液体洗剤より1回あたりは高い」と答えているが、title はランキング型で検索結果からその答えが見えず、順位9前後でもクリックされていない。title/description で疑問に答える形にすれば、ページ CTR と割高・液体比較系クエリの CTR に出るはず",
       "measures": [
-        "表示/日",
-        "表示加重平均順位",
-        "インデックス登録（lastCrawlTime）"
+        "ページ CTR（サイト全体 CTR で正規化）＝主指標",
+        "固定クエリ CTR:「ジェルボール コスパ」＋「液体洗剤」「値段」「割高」を含むクエリ群",
+        "ページ全体の表示/日・順位（ガード）"
       ],
       "actions": [
-        "新規記事公開（10選・カテゴリ kairo 新設）＋保冷剤記事 cooling-pack のまとめ末尾から被リンク1本"
+        "title を「ジェルボール洗剤はコスパ悪い？液体洗剤との違いとおすすめ10選【2026年版】」に、description を疑問への答えを冒頭に置く形に改稿。本文・FAQ・products は未変更"
       ],
       "simultaneous": false,
-      "note": "2026-09-23 の kura-article-recommend で季節先行枠として提案、ユーザー判断で同日公開。判定は公開2週後の順位帯（CLAUDE.md §5.0.2 手順6）＝判定日 2026-10-07。⚠️判定時に必ず併記する留保: ①判定窓（09-23〜10-07）は需要の立ち上がり前で、表示が少なくても「未離陸」と断定しない（季節性）②新記事の表示は cohort-01-description の正規化子（全記事ページの残余）に入るため、cohort-01 の判定時は残余から kairo-comparison を控除する ③deodorizing-bag の教訓どおり、公開後に URL 検査からインデックス登録をリクエストしないと窓が空振りしうる（ユーザー作業）。cooling-pack は凍結対象外（被リンク追加のみ）。",
-      "source": "project_measurement_holds"
-    },
-    {
-      "slug": "range-hood-filter-comparison",
-      "releaseDate": "2026-10-20",
-      "releaseLabel": "2026-10-19",
-      "targetType": "new-article",
-      "startedAt": "2026-10-05",
-      "searchNeed": "12月の大掃除の前に、シロッコファンのレンジフードのフィルターを買い替える人が、自分の型（R型）に合う交換フィルターをどれを何枚入りで買えば1枚あたり安く済むかを比べたくて検索している。Google では大掃除・レンジフード系クエリの表示が0で、狙いは Bing の単語クエリ（「レンジフードフィルター」「換気扇フィルター」）。離陸すれば Bing の主要クエリ順位と表示/日に出て、12月の送客クリックに出るはず",
-      "measures": [
-        "Bing の主要クエリ順位",
-        "表示/日",
-        "表示加重平均順位",
-        "インデックス登録（lastCrawlTime）"
-      ],
-      "actions": [
-        "新規記事公開（8選・カテゴリ range-hood-filter 新設）＋air-conditioner-filter-comparison のまとめ末尾から被リンク1本"
-      ],
-      "simultaneous": false,
-      "note": "docs/IMPLEMENTATION_PLAN_SEASONAL_ARTICLE_YEAREND_2026-10-05.md の季節先行記事。ユーザー判断で計画の 11-03 から前倒しして 10-05 に公開。判定は公開2週後の順位帯＝判定日 2026-10-19（Bing の単語クエリのどれかで10位以内なら離陸）。⚠️判定時に必ず併記する留保: ①Google の表示が少なくても失敗としない（計画 §0 の実測で Google は期待していない）②判定窓（10-05〜10-19）は需要の立ち上がり前なので、表示が少なくても「未離陸」と断定しない（季節性）③新記事の表示は、測定中のコホートがあればその正規化子（残余）から控除する ④capacity は cron で書き換わりうるので、判定時に比較表の1枚単価欄も確認する ⑤2026-10-07 21:52 JST デプロイの一時サイトマップ（sitemap-recrawl.xml・AdSense 是正）に親カテゴリ /category/range-hood-filter/ が入ったため、カテゴリ経由で記事の発見・クロールが早まった可能性を割り引く（記事 HTML は無変更）。12月の送客の判定（送客クリック20以上）は凍結を伴わず、1-05 の週次分析で行う。air-conditioner-filter は凍結対象外（被リンク追加のみ）。",
-      "source": "project_measurement_holds"
-    },
-    {
-      "slug": "water-server-buyout-comparison",
-      "releaseDate": "2026-10-15",
-      "releaseLabel": "2026-10-14",
-      "targetType": "new-article",
-      "startedAt": "2026-09-30",
-      "searchNeed": "レンタル契約や解約金に縛られずにウォーターサーバーを使いたい人が、水道水を注ぐだけの買い切り型・卓上型の浄水サーバーの中から、冷水・お湯の有無とカートリッジ代まで含めてどれを買えばよいかを知りたくて検索している。Google サジェストでは「浄水型ウォーターサーバー 買い切り／卓上／購入／解約金なし／契約期間なし」「ウォーターサーバー 水道水 買い切り 卓上」が確認できたが、GSC・Bing とも既存記事で該当クエリの表示はほぼ0で需要は未実測。離陸すれば表示/日と表示加重平均順位に出るはず",
-      "measures": [
-        "表示/日",
-        "表示加重平均順位",
-        "インデックス登録（lastCrawlTime）"
-      ],
-      "actions": [
-        "新規記事公開（4選・カテゴリ mineral-water）＋ water-server-comparison と mineral-water-comparison の本文から被リンク各1本",
-        "search-rules.ts に記事別ルール（mineral-water && 買い切り・ブランド名必須）を追加"
-      ],
-      "simultaneous": false,
-      "note": "2026-09-30 の市場分析（Google サジェスト・競合 SERP）で「買い切り・卓上・水道水」の需要の集まりを確認し、ユーザー判断で作成。楽天はノーブランドの同型品が大半のため、ブランド品4機種（puriot ES / ブリタ キューブCool / AQUIBEAR F1 / puriot CUTE）に限定。単価列は本体価格（capacity 1個）で、カートリッジ代は本文で考え方のみ示す（ユーザー判断）。判定は公開2週後の順位帯（CLAUDE.md §5.0.2 手順6）＝判定日 2026-10-14。起点はデプロイ日（JST）。push が 09-30 でなければ startedAt / releaseDate / releaseLabel を直す。⚠️判定時に必ず併記する留保: ①新記事の表示は cohort-01-description の正規化子（全記事ページの残余）に入るため、cohort-01 の確定判断（10-08）では残余から water-server-buyout-comparison も控除する ②公開後に URL 検査からインデックス登録をリクエストしないと窓が空振りしうる（ユーザー作業）③リンク元の water-server-comparison / mineral-water-comparison は凍結対象外（R3・被リンク追加のみ）。",
-      "source": "project_measurement_holds"
-    },
-    {
-      "slug": "hydrocolloid-bandage-comparison",
-      "releaseDate": "2026-10-08",
-      "releaseLabel": "2026-10-07",
-      "targetType": "new-article",
-      "startedAt": "2026-09-23",
-      "searchNeed": "すり傷・あかぎれ・靴ずれなどを湿潤環境でケアしたい人が、キズパワーパッドと他社品（ケアリーヴ 治す力・徳用の救急バンなど）のどれをどのサイズで買えば1枚あたり安く済むかを知りたくて検索している。GSC では需要を実測できていない（bandage-comparison でもハイドロコロイド系クエリの表示0。Bing でも該当クエリなし）ので、離陸すれば表示/日と表示加重平均順位に出るはず",
-      "measures": [
-        "表示/日",
-        "表示加重平均順位",
-        "インデックス登録（lastCrawlTime）"
-      ],
-      "actions": [
-        "新規記事公開（7選・カテゴリ bandage を共有）。bandage-comparison からキズパワーパッド3件を移設し4件を新規追加。被リンクは bandage-comparison 本文から3本"
-      ],
-      "simultaneous": false,
-      "note": "bandage-comparison の用途混在（一般絆創膏とハイドロコロイド・子ども向けキャラクター柄）をユーザー判断で分離した際に同日公開。判定は公開2週後の順位帯＝判定日 2026-10-07。⚠️判定時の留保: ①新記事の表示は cohort-01-description の正規化子（残余）に入るため、cohort-01 の判定時は残余から hydrocolloid-bandage-comparison も控除する ②公開後に URL 検査からインデックス登録をリクエストしないと窓が空振りしうる（ユーザー作業）。bandage-comparison 本体は R3 判定不能層のため凍結・記帳なし（商品構成 10→9 選・本文改稿は保守作業扱い）。",
+      "note": "主指標を事前に決めた単独施策（2026-10-12 ユーザー承認）。【窓】前窓＝デプロイ前28日 09-15〜10-12。確定日が 10-12 に届いたら pnpm gsc:harvest -- --start=2026-09-15 --end=2026-10-12 --baseline-only で保存。後窓＝再クロール日（JST）起点の28日。参考値（09-12〜10-09・確定日 10-09）: ページ クリック28・表示1,599（57.1/日）・CTR 1.75%・順位8.8、サイト CTR 4.20%（正規化比 0.417）／「ジェルボール コスパ」4/213・順位9.2。【成功】正規化後ページ CTR ≧ +50% かつ 後窓クリック≧40 かつ 固定クエリ CTR も上昇。【失敗】正規化後 CTR ≦ 基準。【見かけの上昇ガード】表示/日がサイト正規化後 -30% 以上なら CTR が上がっても成功にしない。【revert】順位が2以上悪化 または 表示/日が正規化後 -30% 以上。【交絡】10-12 に人気記事欄の育成枠から外れサイト内リンクが1本減った（マイナス方向。順位低下による低 CTR クエリの脱落だけは CTR を見かけ上押し上げるので、固定クエリ CTR と表示ガードで除く）。【再クロール】2026-10-13（JST）で確定（lastCrawlTime 2026-10-12T23:20:30Z＝デプロイ完了 23:12:04Z の8分後・10-15 に URL 検査 API で確認）。後窓＝10-13〜11-09、解除 11-10。前窓ベースラインは reports/gsc-harvest/baseline-2026-10-15.json（10-15 保存）。push が 10-13 でなければ startedAt を直す ｜10-22: JSON-LD から売り手宣言を除去（計画書2 第1段・区分C・全記事）。判定時に併記",
       "source": "project_measurement_holds"
     },
     {
@@ -285,7 +97,7 @@
         "frontmatter faqs に「フロッシュの代わりになる食器用洗剤は？」を1問追加（6問）。title・description・products は未変更"
       ],
       "simultaneous": false,
-      "note": "単独施策（本文節＋FAQ）。ベースライン reports/gsc-harvest/baseline-2026-09-23.json（窓 08-24〜09-20）: ページ クリック80・表示680・CTR 11.8%・順位4.1／「フロッシュ に 代わる 洗剤」7/36（順位3.3）・「フロッシュ 代替品」0/3（4.3）・「フロッシュ 製造中止」0/1（3.0）。クエリ件数が少ないので実数一桁は判定しない（方向の記録にとどめる）。同日に dish-detergent も同じクエリ向けに改稿したため、2記事の合算でも見る。起点はデプロイ日（JST）。push が 09-23 でなければ startedAt / releaseDate を直す。商品追加は prohibitions で禁止のまま",
+      "note": "単独施策（本文節＋FAQ）。ベースライン reports/gsc-harvest/baseline-2026-09-23.json（窓 08-24〜09-20）: ページ クリック80・表示680・CTR 11.8%・順位4.1／「フロッシュ に 代わる 洗剤」7/36（順位3.3）・「フロッシュ 代替品」0/3（4.3）・「フロッシュ 製造中止」0/1（3.0）。クエリ件数が少ないので実数一桁は判定しない（方向の記録にとどめる）。同日に dish-detergent も同じクエリ向けに改稿したため、2記事の合算でも見る。起点はデプロイ日（JST）。push が 09-23 でなければ startedAt / releaseDate を直す。商品追加は prohibitions で禁止のまま／2026-10-16 区分B: r1 ヤシノミ洗剤 詰替用 1000mL の Yahoo offer がリンク切れ(404)のため別ショップの同一商品（1000mL）に差し替え（凍結対象外・GSC 指標に作用しない）。",
       "source": "project_measurement_holds"
     },
     {
@@ -309,7 +121,7 @@
         "同日2回目のデプロイ（ユーザー判断 10-09・案A）: ranking: false を新設し、順位をやめてハブ化した。1位 CTA 3種（TopPickCta・StickyCta・本文後の『この記事の結論』）と順位バッジを非表示にし、比較表は typeLabel（通常タイプ・保湿タイプ・ソフトパック）で表示。cron の単価順並べ替えから除外し、並びを 通常 → 保湿 → ソフトパック に固定。title を『おすすめの選び方【2026年版】通常・保湿・ソフトパック別』に再変更（docs/IMPLEMENTATION_PLAN_unranked-hub-2026-10-09.md）"
       ],
       "simultaneous": true,
-      "note": "区分C＋区分D＋title/description＋定型H2置換の同時実施（cohort-01 対照群の解除日 10-09 に実施）。施策型の判定には使わず、ハブの絞り込みで入口クエリの表示を失うか・子記事へ寄るかの記録。前窓のベースラインは 10-12 に取る cohort-01 後窓（09-10〜10-07）の baseline を流用する。起点はデプロイ日（JST）で、push が 10-09 でなければ startedAt / releaseDate を直す。後窓は再クロール日起点で前14/後14・後28。R3 非該当（baseline-2026-10-06・窓 09-06〜10-03: クリック10・表示449・CTR 2.23%・順位10.3／子記事 soft-pack 6/185・regular 2/244・moist 1/129）",
+      "note": "区分C＋区分D＋title/description＋定型H2置換の同時実施（cohort-01 対照群の解除日 10-09 に実施）。施策型の判定には使わず、ハブの絞り込みで入口クエリの表示を失うか・子記事へ寄るかの記録。前窓のベースラインは 10-12 に取る cohort-01 後窓（09-10〜10-07）の baseline を流用する。起点はデプロイ日（JST）で、push が 10-09 でなければ startedAt / releaseDate を直す。後窓は再クロール日起点で前14/後14・後28。R3 非該当（baseline-2026-10-06・窓 09-06〜10-03: クリック10・表示449・CTR 2.23%・順位10.3／子記事 soft-pack 6/185・regular 2/244・moist 1/129） ｜10-22: JSON-LD から売り手宣言を除去（計画書2 第1段・区分C・全記事）。判定時に併記",
       "source": "project_measurement_holds"
     },
     {
@@ -331,7 +143,7 @@
         "baby-wipes への移設はしない（baby-wipes を凍結させないため）"
       ],
       "simultaneous": false,
-      "note": "cohort-02 施策群の解除日（10-09・後窓 〜10-08 は終了）に実施。R3 非該当（baseline-2026-10-06: クリック101・表示1139・順位7.0）。件数表記の追随は商品削除に従属する変更として単独施策扱い。前窓は 10-12 に取る cohort-02 後窓（09-11〜10-08）の baseline を流用。起点はデプロイ日（JST）"
+      "note": "cohort-02 施策群の解除日（10-09・後窓 〜10-08 は終了）に実施。R3 非該当（baseline-2026-10-06: クリック101・表示1139・順位7.0）。件数表記の追随は商品削除に従属する変更として単独施策扱い。前窓は 10-12 に取る cohort-02 後窓（09-11〜10-08）の baseline を流用。起点はデプロイ日（JST） ｜10-22: JSON-LD から売り手宣言を除去（計画書2 第1段・区分C・全記事）。判定時に併記"
     },
     {
       "slug": "body-soap-comparison",
@@ -352,7 +164,26 @@
         "本文「固形石けんは液体と同じ物差しで並べられない」節の末尾を「比較表は液体・泡に絞り固形は載せていない」に修正"
       ],
       "simultaneous": true,
-      "note": "cohort-02 施策群の解除日（10-09）に実施。区分D＋title/description 変更の同時実施なので施策型の判定には使わない。R3 非該当（baseline-2026-10-06: クリック47・表示1323・順位9.3）。r6 Dove 330g×18袋・r7 カウブランド 450mL は pricePerUnit 未設定のまま（capacity-review 10-08: multiple capacity variant。カウブランドは【2-6個】の選択式出品で価格が容量と対応しない疑い）＝区分A/B の範囲で別途。前窓は 10-12 に取る cohort-02 後窓（09-11〜10-08）の baseline を流用。起点はデプロイ日（JST）"
+      "note": "cohort-02 施策群の解除日（10-09）に実施。区分D＋title/description 変更の同時実施なので施策型の判定には使わない。R3 非該当（baseline-2026-10-06: クリック47・表示1323・順位9.3）。r6 Dove 330g×18袋・r7 カウブランド 450mL は pricePerUnit 未設定のまま（capacity-review 10-08: multiple capacity variant。カウブランドは【2-6個】の選択式出品で価格が容量と対応しない疑い）＝区分A/B の範囲で別途。前窓は 10-12 に取る cohort-02 後窓（09-11〜10-08）の baseline を流用。起点はデプロイ日（JST） ｜10-22: JSON-LD から売り手宣言を除去（計画書2 第1段・区分C・全記事）。判定時に併記"
+    },
+    {
+      "slug": "paper-towel-comparison",
+      "releaseDate": "2026-10-29",
+      "releaseLabel": "2026-10-28",
+      "targetType": "new-article",
+      "startedAt": "2026-10-14",
+      "searchNeed": "洗面所やトイレのホルダーに補充する手拭き用ペーパータオルをまとめ買いしたい人が、中判・小判のどれが1枚（2枚重ねは1組）あたり安いかを比べたくて「ペーパータオル コスパ最強」「ペーパータオル 業務用」「キッチンペーパー ペーパータオル どっちが安い」などで検索している。受け皿は kitchen-paper で順位11〜12・クリック0だった（2026-09-23 の推薦時点）。新記事が受ければ、ペーパータオル系クエリの順位帯と表示/日に出るはず",
+      "measures": [
+        "ペーパータオル系クエリ（「ペーパータオル」を含み「キッチン」を含まない）の順位帯",
+        "表示/日",
+        "インデックス登録（lastCrawlTime）"
+      ],
+      "actions": [
+        "新規記事公開（10選・カテゴリ kitchen-paper に同居し表示名を「キッチンペーパー・ペーパータオル」に変更）＋kitchen-paper から手拭き用 r1・r6 を撤去し本文から被リンク2本"
+      ],
+      "simultaneous": false,
+      "note": "2026-10-12 ユーザー承認。判定は公開2週後の順位帯＝判定日 2026-10-28（ペーパータオル系クエリのどれかで10位以内なら離陸）。単価は1回に引き出す単位（1枚もの=円/枚、2枚重ね=円/組）で比較し、並び替えは PAIR_AS_ONE_USE_ARTICLES で1組=1回分。⚠️判定時の留保: ①kitchen-paper は同日に区分D（r1・r6 撤去）と本文改稿を受けたが凍結していない（10-12 決定で記録だけの凍結は起こさない）。kitchen-paper の表示がペーパータオル系クエリで減るのはカニバリの解消として想定内 ②カテゴリ /category/kitchen-paper/ は記事2本になり noindex が外れた（一時サイトマップ sitemap-recrawl.xml に入っている場合は thin-cat:crawl-check の扱いを確認） ③クリック実数が一桁なら CTR ではなく順位帯で見る ｜10-22: JSON-LD から売り手宣言を除去（計画書2 第1段・区分C・全記事）。判定時に併記",
+      "source": "project_measurement_holds"
     }
   ],
   "prohibitions": [
@@ -372,7 +203,7 @@
       "id": "cohort-1",
       "registeredAt": "2026-09-07",
       "plannedApplyDate": "2026-09-09",
-      "status": "applied（2026-09-09 適用済み）",
+      "status": "judged（2026-09-09 適用・2026-10-12 確定判断 ❌型を捨てる。holds から削除済み。判定記録は docs/ACCESS_ANALYSIS_2026-10-12.md §2）",
       "measure": "description 改稿（本文・title・products は不変）",
       "baseline": "reports/gsc-harvest/baseline-2026-09-07.json（窓 2026-08-08〜2026-09-04・28日・GSC 確定日 09-04・page 次元・アンカー除外後）",
       "criteria": {

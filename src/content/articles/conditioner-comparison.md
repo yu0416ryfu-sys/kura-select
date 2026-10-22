@@ -4,7 +4,7 @@ description: "コンディショナーを1mLあたりのコストで徹底比較
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "エッセンシャル しっとりまとまる コンディショナー 詰替 1080mL"
@@ -67,12 +67,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshop-ypp%2F3799-0026554.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 6180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-ypp_3799-0026554"
         available: true
-        rating: 4.67
-        reviewCount: 6
+        rating: 4.71
+        reviewCount: 7
     genreId: "210686"
   - rank: 3
     name: "デミ ミレアム ヘアケア コンディショナー 1800mL"
@@ -81,7 +81,7 @@ products:
     capacity: "1800mL"
     pricePerUnit: "約1.0円/mL"
     rating: 4.54
-    reviewCount: 1328
+    reviewCount: 1329
     features:
       - "L.P.P.（髪のアミノ酸複合体）配合で毛髪を補修"
       - "ドライヤーの熱や紫外線から髪を保護する処方"
@@ -149,7 +149,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約35円/mL"
     rating: 4.76
-    reviewCount: 1646
+    reviewCount: 1648
     features:
       - "くせ毛・広がりケア向けのトリートメントマスク"
       - "インバスで使うヘアマスク"
@@ -237,7 +237,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk0602-a2510.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-18"
         price: 1572
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk0602-a2510"
         available: true

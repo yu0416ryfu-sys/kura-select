@@ -4,7 +4,7 @@ description: "トイレ用洗剤を1回あたりのコストで徹底比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "ドメスト 除菌クリーナー 500ml×3個セット"
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4903301118336.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-15"
         price: 244
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4903301118336"
         available: true
@@ -146,8 +146,8 @@ products:
     name: "エコストア トイレクリーナー ユーカリ 500mL"
     brand: "ecostore"
     price: 880
-    capacity: "500ml"
-    pricePerUnit: "約1.8円/ml"
+    capacity: "500mL"
+    pricePerUnit: "約1.8円/mL"
     rating: 4.61
     reviewCount: 38
     features:
@@ -162,14 +162,14 @@ products:
       - "酸性や塩素系など種類の確認が必要"
       - "素材や使用場所によって注意点がある"
     recommendedFor: "トイレ用洗剤を液体タイプ中心に比較したい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00thycn.3rdw660f.g00thycn.3rdw7533/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fecostore%2F9420015012583%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fecostore%2Fi%2F10000918%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ecostore/cabinet/rankinglabel/9420015012583_rb.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pxfkn.3rdw6005.g00pxfkn.3rdw7ac5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkoex%2F1288-9420015012583%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkoex%2Fi%2F10251652%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkoex/cabinet/1288_4/1288-9420015012583_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzozo%2F47433692.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-30"
+        updatedAt: "2026-10-15"
         price: 880
         rating: 0
         reviewCount: 2
@@ -202,11 +202,11 @@ products:
   - rank: 7
     name: "スクラビングバブル 超強力トイレクリーナー"
     brand: "スクラビングバブル（ジョンソン）"
-    price: 207
+    price: 208
     capacity: "400g"
     pricePerUnit: "約0.52円/g"
     rating: 4.76
-    reviewCount: 54
+    reviewCount: 55
     features:
       - "便器の汚れ向けの強力タイプ洗剤"
       - "ジェル状で密着しやすい設計"
@@ -260,7 +260,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F542515.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-30"
+        updatedAt: "2026-10-18"
         price: 2277
         rating: 0
         reviewCount: 0
@@ -272,8 +272,8 @@ products:
     brand: "キバミおちーる"
     price: 1980
     capacity: "1000ml"
-    rating: 4.67
-    reviewCount: 123
+    rating: 4.66
+    reviewCount: 125
     features:
       - "トイレ掃除に使える洗浄剤"
       - "黄ばみ・尿石・便座まわりなど用途別に選べる"
@@ -293,7 +293,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fle-cure%2Fim-1008473.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-30"
+        updatedAt: "2026-10-18"
         price: 1980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/le-cure_im-1008473"
         available: true
@@ -336,6 +336,25 @@ faqs:
   <img src="/images/articles/toilet-cleaner/stain-cleaner-map.svg" width="600" height="1073" loading="lazy" decoding="async" alt="トイレの汚れと効く洗剤の対応図。黄ばみ・尿石には酸性の洗剤、カビや雑菌による黒ずみには塩素系の洗剤、固着していない日常の汚れには中性の洗剤。酸性と塩素系が混ざると有毒な塩素ガスが出るため、続けて使うときは間に水でよく流す" />
   <figcaption>黄ばみか、黒ずみか、まだ軽い汚れか。汚れの種類で使う洗剤が決まる</figcaption>
 </figure>
+
+## 比較表の商品を「液性と使う場所」で読み分ける
+
+ページ上部の比較表は単価の安い順に並びますが、塩素系・酸性・中性の洗剤と、便座を拭くためのクリーナーが<strong>同じ表に混ざって並びます</strong>。単価で選ぶ前に、商品名とパッケージの表示から、どのグループの商品かを確かめてください。
+
+| グループ | 商品名・表示の目印 | 向いている汚れ・場所 |
+|---------|----------------|-----------------|
+| 塩素系 | 「除菌」「ハイター」「塩素系」、液性欄の「アルカリ性」 | 便器内の黒ずみ・カビ、除菌 |
+| 酸性 | 「尿石」「黄ばみ」「キバミ」、液性欄の「酸性」 | フチ裏や水際の固い付着物 |
+| 中性・植物由来 | 「中性」「ナチュラル」「ユーカリ」など香りや原料の表記 | 固着する前の日常の汚れ |
+| 便座・ふき取り用 | 「便座」「ちょいふき」「トイレットペーパーで」「スプレー」 | 便座・フタ・便器のフチなど外側。便器内の固い汚れには使わない |
+
+### 「まぜるな危険」の表示だけでは、どちらか分からない
+
+「まぜるな危険」は、塩素系にも酸性タイプにも書かれる表示です。この表示があるから同じ種類、というわけではありません。<strong>裏面の「液性」の欄で、塩素系（アルカリ性）か酸性かを確かめてください</strong>。両方を家に置くなら、収納場所を分けておくと取り違えを防げます。
+
+### 単価は同じグループの中で比べる
+
+比較表の単価は1mLや1gあたりですが、便座用の少量スプレーと、便器内に回しかける大きなボトルとでは、1回に使う量がまるで違います。単価を比べるのは同じグループの中だけにして、量の多いまとめ売り（「◯個セット」「◯本セット」）は、置き場所と使い切るまでの期間も考えて選んでください。最新の価格と単価はページ上部の比較表（自動更新）でご確認ください。
 
 ## 液性ごとの性質と注意点
 
@@ -380,6 +399,34 @@ faqs:
 どちらの場合も、使ったあとは十分に水で流すことが基本です。成分が残ったまま乾くと、そこから素材が傷みます。
 
 具体的な価格や1mLあたりの単価は変動するため、ページ上部の比較表（自動更新）でご確認ください。
+
+## 買ってから気づきやすい失敗と、その避け方
+
+比較表の単価や容量だけでは分からない、使う場面で起きやすい失敗をまとめました。
+
+### 便器用の洗剤を、便座やノズルにも使う
+
+便座・フタ・温水洗浄便座のノズルは、陶器ではなく樹脂でできています。便器内用の塩素系や酸性の洗剤が付いたままになると、<strong>ひび割れや変色の原因になる</strong>ことがあります。便座まわりは中性の洗剤か便座用のクリーナーで拭き、便器内用の洗剤が飛んだらすぐに水拭きしてください。
+
+### 温水洗浄便座の操作部に、直接スプレーする
+
+操作パネルや本体のすき間、電源プラグのまわりに液体を直接吹き付けると、中に入り込んで故障の原因になります。スプレータイプでも、トイレットペーパーや布に吹き付けてから拭くのが安全です。
+
+### タンクの中に洗剤を入れる
+
+便器用の洗剤や置き型の洗浄剤をタンクの中に入れると、中のゴム部品や樹脂部品を傷めることがあります。タンク内に使えるかどうかは便器メーカーと洗剤の両方の注意書きで決まるので、<strong>「タンクに入れてよい」と書かれていない洗剤は入れない</strong>でください。
+
+### 詰め替えを、別の洗剤の空きボトルに入れる
+
+詰め替え用を手元の空きボトルに移すと、前に入っていた洗剤の残りと混ざることがあります。塩素系と酸性が混ざれば、ボトルの中で有毒なガスが出ます。詰め替えは同じ商品の専用ボトルに入れ、ボトルには中身が分かる表示を残してください。
+
+### 尿石除去剤を泡立てるように強くこする
+
+酸性の尿石除去剤は、ブラシで勢いよくこすると飛び散って目や肌に付くことがあります。手袋をして、洗剤をかけたら表示の時間を置き、こするのは汚れが柔らかくなってからにしてください。目に入ったときは、こすらずにすぐ大量の水で洗い流します。
+
+### 浄化槽の家で、塩素系を一度に大量に流す
+
+浄化槽を使っている家では、塩素系の洗剤を一度に多く流すと、浄化槽の働きに影響することがあります。浄化槽で使えるかどうかと使用量の目安は、パッケージの表示で確かめてください。
 
 ## まとめ
 

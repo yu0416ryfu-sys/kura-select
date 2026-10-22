@@ -4,7 +4,7 @@ description: "除菌スプレー・アルコールを1mLあたりのコストで
 category: "sanitizing-spray"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "カビキラー アルコール除菌 キッチン用 詰め替え用【カビキラー】[アルコールスプ"
@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ax59783/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/nj04120/"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
-        price: 1200
-        rating: 4.74
-        reviewCount: 65
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ax59783"
+        updatedAt: "2026-10-20"
+        price: 3640
+        rating: 4.88
+        reviewCount: 8
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_nj04120"
         available: true
     genreId: "208238"
   - rank: 2
@@ -67,8 +67,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10130857.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
-        price: 444
+        updatedAt: "2026-10-20"
+        price: 432
         rating: 4.67
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10130857"
@@ -124,7 +124,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsukoyakakomachi%2Faqarfa1l.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-20"
         price: 1540
         rating: 4.92
         reviewCount: 12
@@ -138,7 +138,7 @@ products:
     capacity: "500ml×3本"
     pricePerUnit: "約2.9円/mL"
     rating: 4.78
-    reviewCount: 432
+    reviewCount: 433
     features:
       - "除菌・消臭用途のスプレーまたは液剤"
       - "靴や室内など用途別に選びやすい"
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188318706.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-18"
         price: 1100
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188318706"
         available: true
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnakano-dy%2Fkesisaru-20.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-18"
         price: 550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nakano-dy_kesisaru-20"
         available: true
@@ -299,6 +299,25 @@ faqs:
 
 用途と区分が合っていないと、効果の問題以前に、想定されていない使い方になります。**買う前にパッケージのどこかにある区分表示を見る**のが、最も確実な選び方です。
 
+## 比較表の商品を「成分と使う場所」で読み分ける
+
+ページ上部の比較表は単価の安い順に並びますが、キッチン用のアルコール、手指用のアルコール、次亜塩素酸水、布や空間に使う除菌消臭ミストといった、<strong>使える場所の違う商品が同じ表に並びます</strong>。単価で選ぶ前に、商品名とパッケージの表示から、どのグループの商品かを確かめてください。
+
+| グループ | 商品名・表示の目印 | 向いている使い方 |
+|---------|----------------|---------------|
+| キッチン用アルコール | 「アルコール除菌」「キッチン用」「つめかえ用」、「食品添加物」の表示 | 調理台・冷蔵庫・食卓など。表示があれば調理器具にも |
+| 手指用アルコール | 「消毒用」「手指」、「指定医薬部外品」の表示 | 人の手指。物の表面に使うと割高になりやすい |
+| 次亜塩素酸水 | 「次亜塩素酸水」「微酸性」 | 物の表面の拭き取り。光や時間で弱まりやすい |
+| 除菌消臭・抗菌ミスト | 「除菌消臭」「抗菌」「ミスト」「ノンアルコール」 | 布製品・靴・室内のにおい対策など。手指用ではない |
+
+### 「除菌」の文字だけでは、手に使えるか分からない
+
+どのグループの商品にも「除菌」と書かれていますが、<strong>手指に使えるのは手指用と表示されたものだけ</strong>です。キッチン用や除菌消臭ミストを手に使うのは、想定された使い方ではありません。前の節の区分表示とあわせて、パッケージの「使用できる場所」の欄を確かめてください。
+
+### 単価は同じグループの中で比べる
+
+比較表の単価は1mLあたりですが、携帯用の小さなボトルと詰め替え用の大きなパックでは単価が大きく違い、成分の違う商品同士では同じ量で同じ使い方ができるわけでもありません。単価を比べるのは同じグループの中だけにしてください。複数サイズのセットは、1本ずつの容量と使い道を分けて考えると選びやすくなります。最新の価格と単価はページ上部の比較表（自動更新）でご確認ください。
+
 ## アルコール濃度は高ければよいわけではない
 
 アルコール（エタノール）を使った製品では、濃度が使用感と適した場面を左右します。一般に、消毒用として広く使われてきたのは60〜80%程度の範囲です。
@@ -339,6 +358,30 @@ faqs:
 詰め替え用の大容量を使うと、スプレーボトルを買い直す必要がなくなるぶん負担は下がります。ただし前述のとおり保管には条件があるので、置き場所を確保できる範囲にとどめてください。
 
 具体的な価格や1mLあたりの単価は変動するため、ページ上部の比較表（自動更新）でご確認ください。
+
+## 買ってから気づきやすい失敗と、その避け方
+
+比較表の単価や容量だけでは分からない、使う場面で起きやすい失敗をまとめました。
+
+### 汚れの上から吹きかけて終わりにする
+
+油汚れや食べこぼしが残った上に除菌スプレーを吹いても、汚れに邪魔されて表面に届きにくくなります。<strong>先に汚れを拭き取ってから吹きかける</strong>のが基本の順番です。吹きかけたあとは、表示に「拭き取る」とあれば拭き取り、「そのまま乾かす」とあればすぐに拭かずに置いてください。
+
+### 次亜塩素酸水を、透明なボトルに移して窓辺に置く
+
+次亜塩素酸水は、光や熱、空気に触れる時間で力が弱まりやすい液体です。透明なスプレーボトルに移して日の当たる場所に置くと、使う前に弱まってしまうことがあります。<strong>遮光できる容器に入れ、少量ずつ移して早めに使い切る</strong>のが安全です。金属に付けたまま放置するとサビの原因になることもあるので、金属部分は使ったあと水拭きしてください。
+
+### アルコールを吹いた直後に、コンロの火をつける
+
+調理台やコンロまわりにアルコールを吹きかけた直後は、気化したアルコールが周りに残っています。火を使うのは、拭き取って乾いてからにしてください。IH でも、すぐ横のガス機器やトースターなどの熱源には同じ注意が要ります。
+
+### 除菌消臭ミストを、手や顔の近くで使う
+
+布製品や部屋のにおい用のミストは、人の肌に使う前提では作られていません。ソファやカーテンに吹くときは、顔の近くで吹かない、子どもやペットが吸い込まない場所で使うなど、表示の注意を守ってください。革・シルク・水じみしやすい素材は、目立たない場所で試してからにします。
+
+### 携帯用ボトルを、夏の車内やかばんに入れたままにする
+
+小さな携帯用ボトルは持ち歩きやすい反面、夏の車内や日の当たるかばんの中では高温になります。アルコールを含むものは容器が変形したり中身が漏れたりする原因になるので、車内に置きっぱなしにしないでください。
 
 ## まとめ
 

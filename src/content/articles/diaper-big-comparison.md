@@ -4,7 +4,7 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "グーン スーパーBIG テープ"
@@ -70,7 +70,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_60000000002751"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-17"
         rating: 4
         reviewCount: 3
     genreId: "205198"
@@ -194,7 +194,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
         available: true
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-17"
         rating: 0
         reviewCount: 0
     priceMax: 5852

@@ -4,7 +4,7 @@ description: "ゴミ袋はどれがコスパよくお得？45L・20Lの人気8�
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "TANOSEE　ゴミ袋エコノミー　乳白半透明"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7661730.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 7656
         rating: 4.71
         reviewCount: 45
@@ -63,6 +63,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902393558198-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10068514%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic201404/4902393558198_1.jpg?_ex=128x128"
     genreId: "216044"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou%2Fsn-00228l.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-15"
+        price: 29151
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou_sn-00228l"
+        available: true
   - rank: 3
     name: "サンキョウプラテック ごみ袋 45L 半透明 100枚×2小箱"
     brand: "サンキョウプラテック"
@@ -70,7 +81,7 @@ products:
     capacity: "100枚×2小箱（200枚）"
     pricePerUnit: "約10円/枚"
     rating: 4.64
-    reviewCount: 211
+    reviewCount: 213
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -206,7 +217,7 @@ products:
     price: 2880
     capacity: "200枚"
     rating: 4.13
-    reviewCount: 82
+    reviewCount: 83
     features:
       - "45Lサイズの半透明ゴミ袋"
       - "破れにくい厚手タイプ"

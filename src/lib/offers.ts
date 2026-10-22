@@ -44,7 +44,7 @@ export interface OfferVisibilityOptions {
   amazonSearchFallback?: AmazonSearchFallbackOptions;
 }
 
-interface ProductWithOffers {
+export interface ProductWithOffers {
   name?: string;
   offers?: ProductOffer[];
   rakutenUrl?: string;

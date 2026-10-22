@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -46,8 +46,8 @@ products:
     price: 559
     capacity: "1000mL"
     pricePerUnit: "約0.56円/mL"
-    rating: 4.82
-    reviewCount: 11
+    rating: 4.83
+    reviewCount: 12
     features:
       - "植物系天然成分99%使用の低刺激処方"
       - "野菜・果物の洗浄にも使える食品対応"
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F10053002.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 7816
         rating: 0
         reviewCount: 1
@@ -114,8 +114,8 @@ products:
     price: 3170
     capacity: "5000mL"
     pricePerUnit: "約0.63円/mL"
-    rating: 4.58
-    reviewCount: 139
+    rating: 4.59
+    reviewCount: 140
     features:
       - "無香料・無着色・無添加の低刺激処方"
       - "5L大容量で業務用レベルのコスパを実現"
@@ -135,12 +135,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9847345.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-20"
         price: 3180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9847345"
         available: true
         rating: 4.62
-        reviewCount: 99
+        reviewCount: 100
     genreId: "216012"
   - rank: 5
     name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
@@ -260,9 +260,9 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbackyard%2Fkf741.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-11"
-        price: 1995
+        matchStatus: "matched"
+        updatedAt: "2026-10-20"
+        price: 1896
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/backyard_kf741"

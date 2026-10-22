@@ -76,6 +76,7 @@ Codex などのエージェントがこのリポジトリで作業するとき�
 - 画像には必ず `width` / `height` と `alt` を付けます
 - 色やフォントはハードコードせず、`@theme` のトークンを使います
 - スキーマ（`src/content.config.ts`）を変えると全記事に影響します。着手前に影響範囲をユーザーに示してください
+- JSON-LD（`src/lib/structured-data.ts`）に `availability` / `shippingDetails` / `hasMerchantReturnPolicy` と Service の `offers` を追加しません。当サイトは販売者ではありません。GSC の「項目が不足しています」の警告は出たままが正常です
 - `.agents/skills/` と `.claude/skills/` は同じ内容です。スキルを変えるときは両方に同じ変更を入れます
 - `data/rag/` は `pnpm export-ai-rag` で生成されます。直接編集しません
 - `.env` はコミットしません。`reports/` もコミットしません（gitignore 済み）

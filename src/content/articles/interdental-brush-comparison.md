@@ -4,15 +4,15 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
     name: "スマートイン歯間ブラシ Ag 60本×3個"
     brand: "クリエイト"
-    price: 1489
+    price: 1380
     capacity: "60本×3個"
-    pricePerUnit: "約8.3円/本"
+    pricePerUnit: "約7.7円/本"
     rating: 4.79
     reviewCount: 98
     features:
@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fippo0709%2F10073035-03-01.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 1489
         rating: 4.6
         reviewCount: 5
@@ -69,7 +69,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F107212.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 200
         rating: 4.41
         reviewCount: 58
@@ -102,8 +102,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901616216099.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
-        price: 248
+        updatedAt: "2026-10-20"
+        price: 244
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901616216099"
         available: true
         rating: 4.83
@@ -159,7 +159,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 263
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
         available: true
@@ -206,8 +206,8 @@ products:
     price: 1980
     capacity: "10本×4セット"
     pricePerUnit: "約50円/本"
-    rating: 4.67
-    reviewCount: 21
+    rating: 4.68
+    reviewCount: 22
     features:
       - "奥歯に角度をつけて入れやすい L字型"
       - "線径 0.6mm のワイヤーにプラスチックコーティングを施した構造"
@@ -229,8 +229,8 @@ products:
     price: 1800
     capacity: "4本×4個"
     pricePerUnit: "約113円/本"
-    rating: 4.86
-    reviewCount: 88
+    rating: 4.87
+    reviewCount: 91
     features:
       - "歯科医院で扱われる歯科専売品のシリーズ"
       - "ハイテク毛を採用し、毛先が動いて歯面に沿う設計"
@@ -251,10 +251,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fi-ha%2F24000005.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-10-20"
         price: 1950
         rating: 4.79
-        reviewCount: 382
+        reviewCount: 386
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/i-ha_24000005"
         available: true
 tags:

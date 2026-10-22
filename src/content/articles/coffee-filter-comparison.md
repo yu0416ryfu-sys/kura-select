@@ -4,7 +4,7 @@ description: "コーヒーフィルターを1枚あたりのコストで徹底�
 category: "coffee-filter"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
@@ -91,7 +91,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhiroshimacoffee%2Fcafe-60.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 187
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hiroshimacoffee_cafe-60"
         available: true
@@ -125,7 +125,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffci%2F11300.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 385
         rating: 4.83
         reviewCount: 6
@@ -133,11 +133,11 @@ products:
         available: true
     genreId: "566122"
   - rank: 5
-    name: "If You Care コーヒーフィルター No.2"
+    name: "If You Care 無漂白コーヒーフィルター No.2 100枚"
     brand: "If You Care（イフユーケア）"
-    price: 990
+    price: 972
     capacity: "100枚（1-2杯用）"
-    pricePerUnit: "約9.9円/枚"
+    pricePerUnit: "約9.7円/枚"
     rating: 5
     reviewCount: 8
     features:
@@ -152,8 +152,8 @@ products:
       - "価格は一般的なペーパーフィルターより高め"
       - "No.2サイズのため対応ドリッパーを事前に確認したい"
     recommendedFor: "環境配慮・PFASフリーを重視してフィルターを選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psqcn.3rdw6d99.g00psqcn.3rdw7c41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fre-vision%2Fiyc004zkc031xx1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fre-vision%2Fi%2F10004159%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/re-vision/cabinet/rm/item/09/iyc004zkc031xx1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uoq2n.3rdw61ca.g00uoq2n.3rdw7644/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeiyushop-2%2Fali-g165%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeiyushop-2%2Fi%2F10002237%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keiyushop-2/cabinet/alishan/g165.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -193,7 +193,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshimomurakihan%2F43451.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
+        updatedAt: "2026-10-20"
         price: 660
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shimomurakihan_43451"
         available: true
@@ -227,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshimomurakihan%2F43452.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-25"
+        updatedAt: "2026-10-20"
         price: 770
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shimomurakihan_43452"
         available: true
@@ -295,7 +295,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fultramix%2Fif-filter-mx.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 2208
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ultramix_if-filter-mx"
         available: true

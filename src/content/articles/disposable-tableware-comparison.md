@@ -4,7 +4,7 @@ description: "紙コップ・紙皿など使い捨て食器のおすすめ10選�
 category: "disposable-tableware"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -32,13 +32,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoins%2F1002106.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F1225415.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
-        price: 5885
-        rating: 4.57
-        reviewCount: 46
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/koins_1002106"
+        updatedAt: "2026-10-18"
+        price: 6037
+        rating: 4.76
+        reviewCount: 17
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_1225415"
         available: true
     genreId: "215980"
   - rank: 2
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F181000.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-18"
         price: 6160
         rating: 4.76
         reviewCount: 430
@@ -194,7 +194,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnuts%2Fwa-dm-007.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-18"
         price: 748
         rating: 0
         reviewCount: 0
@@ -227,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnuts%2Fwa-dm-014.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-18"
         price: 704
         rating: 0
         reviewCount: 0
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F215400.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-18"
         price: 10626
         rating: 4.86
         reviewCount: 7
@@ -295,7 +295,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F215500.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-20"
         price: 11539
         rating: 0
         reviewCount: 2
@@ -329,8 +329,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fconohana%2Fwasara-bowl.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-29"
+        matchStatus: "matched"
+        updatedAt: "2026-10-20"
         price: 748
         rating: 0
         reviewCount: 0

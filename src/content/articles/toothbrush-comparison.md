@@ -1,10 +1,10 @@
 ---
 title: "歯ブラシ コスパ最強ランキング【2026年版】1本あたり最安で比較"
-description: "歯ブラシを1本あたりのコストで徹底比較。Shu&Shu・Ci・タフト24・GUMなど大人用6選を磨き心地・耐久性・コスパで解説します。"
+description: "歯ブラシを1本あたりのコストで徹底比較。Shu&Shu・Ci・タフト24・GUMなど大人用10選を磨き心地・耐久性・コスパで解説します。"
 category: "toothpaste"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-21"
 products:
   - rank: 1
     name: "FEED Shu&Shu 大人用歯ブラシアソート 20本 M"
@@ -35,7 +35,7 @@ products:
     capacity: "50本"
     pricePerUnit: "約73円/本"
     rating: 4.67
-    reviewCount: 1286
+    reviewCount: 1291
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -77,7 +77,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Fs9.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-15"
         price: 1680
         rating: 4.39
         reviewCount: 138
@@ -91,7 +91,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約123円/本"
     rating: 4.46
-    reviewCount: 2405
+    reviewCount: 2413
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -113,7 +113,7 @@ products:
     capacity: "10本（約10ヶ月分）"
     pricePerUnit: "約140円/本"
     rating: 4.69
-    reviewCount: 2273
+    reviewCount: 2284
     features:
       - "歯科医院でも採用される定番ブラシ"
       - "PBT毛材で耐久性が高くヘタりにくい"
@@ -168,12 +168,104 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhagahaga%2Fsns-266102.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-18"
         price: 1270
         rating: 4.78
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hagahaga_sns-266102"
         available: true
+  - rank: 7
+    name: "DENT.EX システマ 歯ブラシ 44M コンパクト ふつう"
+    brand: "ライオン（DENT.EX）"
+    price: 2877
+    capacity: "10本"
+    pricePerUnit: "約288円/本"
+    rating: 4.75
+    reviewCount: 24
+    features:
+      - "歯科専売のDENT.EX システマシリーズ"
+      - "コンパクトヘッドで奥歯まで届きやすい"
+      - "毛のかたさはふつう（44M）"
+    pros:
+      - "歯科医院で採用されるシリーズをまとめ買いできる"
+      - "細めの毛で歯と歯ぐきの境目を磨きやすい"
+      - "同じ規格を家族分そろえやすい"
+    cons:
+      - "ハンドルの色は選べない"
+      - "ドラッグストアでは買いにくい"
+    recommendedFor: "歯科専売の定番ブラシを同じ規格でまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t0trn.3rdw642b.g00t0trn.3rdw7fbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkelly-s%2F10002626%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkelly-s%2Fi%2F10004680%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kelly-s/cabinet/2023/aimgrc0079136379.jpg?_ex=128x128"
+    genreId: "506385"
+  - rank: 8
+    name: "ルシェロ 歯ブラシ B-10 M ふつう"
+    brand: "GC（ルシェロ）"
+    price: 3026
+    capacity: "10本"
+    pricePerUnit: "約303円/本"
+    rating: 4.75
+    reviewCount: 8
+    features:
+      - "歯科専売のルシェロ B-10（ベーシックタイプ）"
+      - "ラウンド毛の3列植毛"
+      - "先端集中毛と段差植毛の設計"
+    pros:
+      - "歯科専売品をまとめ買いできる"
+      - "シンプルな形状で使い方に迷いにくい"
+      - "かたさを M／S から選べる"
+    cons:
+      - "歯科専売品のため店頭では買いにくい"
+      - "ハンドルの色は選べない"
+    recommendedFor: "歯科専売のシンプルな歯ブラシを定番として使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvdwn.3rdw65c2.g00tvdwn.3rdw7ec2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fm4-magic%2Fgcrubrushp-b10-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fm4-magic%2Fi%2F10000527%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/m4-magic/cabinet/gc/toothbrush/brushb-10/new-brushb-10.jpg?_ex=128x128"
+    genreId: "506385"
+  - rank: 9
+    name: "プレミアムケア ハブラシ 6列レギュラー ふつう"
+    brand: "エビス"
+    price: 3999
+    capacity: "12本（おまけ付き）"
+    pricePerUnit: "約333円/本"
+    rating: 4.84
+    reviewCount: 37
+    features:
+      - "幅広ヘッドの6列レギュラータイプ"
+      - "毛のかたさはふつう"
+      - "ハンドルカラーはおまかせ"
+    pros:
+      - "ドラッグストアでも見かける定番ブランド"
+      - "幅広ヘッドで一度に磨ける面が広い"
+      - "まとめ買いでストックしやすい"
+    cons:
+      - "ヘッドが大きめで口の小さい方には合いにくい"
+      - "ハンドルの色は選べない"
+    recommendedFor: "市販ブランドの歯ブラシを大人数分まとめて備えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901221808115-020-wa%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10703454%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/d/dd/imzxdcvfage.jpg?_ex=128x128"
+    genreId: "204756"
+  - rank: 10
+    name: "ピュオーラ ハブラシ 薄型コンパクト ふつう"
+    brand: "花王（ピュオーラ）"
+    price: 1786
+    capacity: "4本"
+    pricePerUnit: "約447円/本"
+    rating: 4.81
+    reviewCount: 21
+    features:
+      - "薄型でコンパクトなヘッド"
+      - "毛のかたさはふつう"
+      - "1本入りを複数セットにした構成"
+    pros:
+      - "奥歯の裏側にもヘッドを当てやすい"
+      - "市販ブランドで手に入りやすい"
+      - "少量から試しやすい"
+    cons:
+      - "本数が少なめでストック用には向きにくい"
+      - "ハンドルの色は選べない"
+    recommendedFor: "市販の定番ブランドを少量から試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F25781%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10812598%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/781/25781.jpg?_ex=128x128"
+    genreId: "506385"
 tags:
   - "歯ブラシ おすすめ"
   - "歯ブラシ コスパ"

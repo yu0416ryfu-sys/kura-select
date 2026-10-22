@@ -19,12 +19,13 @@
 import { readFileSync, writeFileSync, appendFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
 import { spawnSync } from 'child_process';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, hasVariantPriceRange, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, isProductManagedArticle, isRankedArticle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, hasVariantPriceRange, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isCutNotationOfSameCapacity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, isProductManagedArticle, isRankedArticle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { PAIR_AS_ONE_USE_ARTICLES } from '../src/lib/capacity.ts';
 import { applyAiCapacityToContent, buildProcessedAiCapacityFrozenProduct, buildCapacityReviewInputItem, computePendingFinalization, isSameRakutenItemUrl, parseJsonlPreservingRaw } from './lib/ai-capacity.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
 import { parseRakutenItemUrl, toDirectItemUrl, toRakutenUrlKey, collectOtherProductUrlKeys, findDuplicateUrlProduct, findDuplicateUrlGroups, checkAiMatchReplaceDuplicate, selectNonDuplicateItem, buildItemCodeKeywords } from './lib/rakuten-url.ts';
 import { stripCapacityForKeyword, buildProductMatchSearchKeywords, createCandidateSelector } from './lib/product-match-keywords.ts';
-import { CATEGORY_SEARCH_RULES, getAdditionSearchRule, resolveArticleSearchRule, checkAdditionCandidateCategory, getAdditionCandidateDiagnostics, scoreAdditionCandidate, isAllowedCapacityUnit } from './lib/search-rules.ts';
+import { CATEGORY_SEARCH_RULES, getAdditionSearchRule, resolveArticleSearchRule, checkAdditionCandidateCategory, getAdditionCandidateDiagnostics, scoreAdditionCandidate, isAllowedCapacityUnit, getPriceFrozenVariantNameReason } from './lib/search-rules.ts';
 import { isLikelySameProductName } from './lib/product-name-match.ts';
 import { appendPriceHistorySnapshot } from './lib/price-history.ts';
 
@@ -1801,6 +1802,7 @@ async function checkAdditions() {
         recentDeleted: 0,
         lowScore: 0,
         variantPrice: 0,
+        variantName: 0,
       };
 
       // 既存商品・URL不明を除外し、容量不明は必要件数に足りない場合だけ補完候補にする
@@ -1841,6 +1843,14 @@ async function checkAdditions() {
         if (hasVariantPriceRange(c.priceMin, c.priceMax)) {
           stats.variantPrice++;
           recordExcluded(`価格帯商品（${c.priceMin}〜${c.priceMax}円）`, c, { directUrl });
+          continue;
+        }
+        // 価格帯が無くても、商品名が組数選択・複数容量に見える出品は update-products が price を更新しない。
+        // 追加しても price が 0 のまま残るので候補に入れない
+        const variantNameReason = getPriceFrozenVariantNameReason(c.name);
+        if (variantNameReason) {
+          stats.variantName++;
+          recordExcluded(`価格を自動更新できない出品（${variantNameReason}）`, c, { directUrl });
           continue;
         }
         const recentDeleted = findRecentDeletedProduct(directUrl, recentDeletedProducts);
@@ -1921,6 +1931,7 @@ async function checkAdditions() {
           `- 比較対象外の容量単位で除外: ${stats.badCapacityUnit}件\n` +
           `- 直近削除履歴で除外: ${stats.recentDeleted}件\n` +
           `- 価格帯商品（選択式）で除外: ${stats.variantPrice}件\n` +
+          `- 価格を自動更新できない出品（組数選択・複数容量の商品名）で除外: ${stats.variantName}件\n` +
           `- スコア不足で除外: ${stats.lowScore}件\n` +
           `- 有効候補: ${validCandidates.length}件 / 容量抽出不可の補完候補: ${noCapacityCandidates.length}件\n` +
           buildExcludedCandidatesSection(excludedCandidates)
@@ -1941,6 +1952,7 @@ async function checkAdditions() {
       section += `- 比較対象外の容量単位で除外: ${stats.badCapacityUnit}件\n`;
       section += `- 直近削除履歴で除外: ${stats.recentDeleted}件\n`;
       section += `- 価格帯商品（選択式）で除外: ${stats.variantPrice}件\n`;
+      section += `- 価格を自動更新できない出品（組数選択・複数容量の商品名）で除外: ${stats.variantName}件\n`;
       section += `- スコア不足で除外: ${stats.lowScore}件\n`;
       section += `- 有効候補: ${validCandidates.length}件 / 容量抽出不可の補完候補: ${noCapacityCandidates.length}件\n\n`;
 
@@ -2496,6 +2508,13 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
                 : newPricePerUnit;
               capacityNotes.push(`capacity判定: 差異検出により capacity を更新`);
             }
+          } else if (method === '[Item/Get]' && isCutNotationOfSameCapacity(capacity, extractedCap)) {
+            // 既存の「カット」表記は解析できず円/カットのまま残るため、総枚数が一致するときだけ枚表記に揃える
+            updates.newCapacity = extractedCap;
+            updates.pricePerUnit = hasKnownApiPrice
+              ? calcPricePerUnit(data.price, extractedCap, preferUnit)
+              : newPricePerUnit;
+            capacityNotes.push(`capacity判定: 既存のカット表記を同じ総枚数の枚表記に統一`);
           } else if (!capacity && !oldTotal && newTotal && method === '[Item/Get]') {
             // 既存 capacity が未認識単位等でパース不能な場合、Item/Get 確定商品なら API 値で置換
             updates.newCapacity = extractedCap;
@@ -2743,7 +2762,9 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
   if (!isRankedArticle(updatedContent)) {
     log('   ⏭ ranking:false のため並び替えをスキップ');
   } else {
-    const reorderResult = reorderProductsByPricePerUnit(updatedContent);
+    const reorderResult = reorderProductsByPricePerUnit(updatedContent, {
+      pairCountsAsOneUse: PAIR_AS_ONE_USE_ARTICLES.has(basename(file, '.md')),
+    });
     if (reorderResult.changed) {
       updatedContent = reorderResult.content;
       reorderResult.log.forEach(l => log(`   🔀 ${l}`));

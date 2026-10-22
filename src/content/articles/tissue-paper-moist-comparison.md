@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌あたりとコ
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 651
     capacity: "360枚（180組）×5箱"
     pricePerUnit: "約0.72円/組"
-    rating: 4.67
-    reviewCount: 12
+    rating: 4.69
+    reviewCount: 13
     features:
       - "保湿成分配合のローションティッシュ"
       - "やわらかな2枚重ねで日常の鼻かみにも対応"
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frcmdsp%2Fkr-4902011711400.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-30"
+        updatedAt: "2026-10-15"
         price: 850
         rating: 0
         reviewCount: 0
@@ -146,13 +146,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhan-okusuri%2F1758946401-1-d.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4902011714425.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-30"
-        price: 391
+        updatedAt: "2026-10-18"
+        price: 154
         rating: 0
-        reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuhan-okusuri_1758946401-1-d"
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4902011714425"
         available: true
     genreId: "505522"
   - rank: 6
@@ -228,7 +228,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenkoo-life%2F101-30186.html"
         matchStatus: "pending"
-        updatedAt: "2026-09-30"
+        updatedAt: "2026-10-18"
         price: 231
         rating: 0
         reviewCount: 0
@@ -241,8 +241,8 @@ products:
     price: 698
     capacity: "3個パック"
     pricePerUnit: "約233円/個"
-    rating: 4.76
-    reviewCount: 42
+    rating: 4.67
+    reviewCount: 43
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -285,7 +285,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuhanpark%2F888808.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-20"
         price: 798
         rating: 5
         reviewCount: 4

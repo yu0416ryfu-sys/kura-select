@@ -1,10 +1,10 @@
 ---
-title: "パンツ型おむつ Mサイズ おすすめ5選【2026年】1枚単価で比較"
+title: "パンツ型おむつ Mサイズ おすすめ7選【2026年】1枚単価で比較"
 description: "パンツ型おむつのMサイズを1枚あたりの価格で比較します。"
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-21"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/p648079/"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 5600
         rating: 4.78
         reviewCount: 296
@@ -68,8 +68,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Freonstyle%2Fa4901301422057.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
-        price: 5990
+        updatedAt: "2026-10-20"
+        price: 5970
         rating: 4.83
         reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/reonstyle_a4901301422057"
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443502-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 11800
         rating: 0
         reviewCount: 0
@@ -133,6 +133,29 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/151076402495518.jpg?_ex=128x128"
     genreId: "205198"
   - rank: 5
+    name: "パンパース さらさらケア パンツ Mサイズ"
+    brand: "P&G（パンパース）"
+    price: 1958
+    capacity: "52枚"
+    pricePerUnit: "約38円/枚"
+    rating: 5
+    reviewCount: 3
+    features:
+      - "たっち期向けのMサイズパンツ型"
+      - "さらさら感を重視した通気設計"
+      - "スーパージャンボの袋入り"
+    pros:
+      - "メリーズやムーニーマンとは別ブランドで比較の幅が出る"
+      - "大手ドラッグストアの店舗で買い足しやすい"
+      - "1袋から試して相性を確かめやすい"
+    cons:
+      - "体型によってウエストのフィット感が分かれる"
+      - "まとめ買い向きの構成ではない"
+    recommendedFor: "ブランドを替えて相性を試したい、たっち期のお子さんの保護者"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4987176136152%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10539273%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0083/4987176136152_1.jpg?_ex=128x128"
+    genreId: "205198"
+  - rank: 6
     name: "メリーズ パンツ ファーストプレミアム Mサイズ"
     brand: "花王（メリーズ）"
     price: 1807
@@ -159,12 +182,35 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/au51038/"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 7122
         rating: 4.92
         reviewCount: 12
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_au51038"
         available: true
+    genreId: "205198"
+  - rank: 7
+    name: "ムーニーマン 低刺激であんしん パンツ Mサイズ"
+    brand: "ユニ・チャーム"
+    price: 1980
+    capacity: "46枚"
+    pricePerUnit: "約43円/枚"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "低刺激・無添加・弱酸性をうたう設計"
+      - "保湿成分を配合したやわらかなシート"
+      - "背中側の漏れ対策を施したパンツ型"
+    pros:
+      - "肌への刺激が気になる時期に選びやすい"
+      - "メーカー公式ショップで買い足しやすい"
+      - "1袋から試して肌との相性を確かめやすい"
+    cons:
+      - "標準ラインより価格が高めになりやすい"
+      - "肌トラブルがある場合は医師への相談が前提"
+    recommendedFor: "肌へのやさしさを優先してパンツ型を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pukwn.3rdw61de.g00pukwn.3rdw7759/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4903111242610-73-21250102-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F14372443%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/1938/4903111242610.jpg?_ex=128x128"
     genreId: "205198"
 tags:
   - "パンツ型おむつ おすすめ"

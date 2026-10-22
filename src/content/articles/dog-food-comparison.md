@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F0019014614196.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-18"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_0019014614196"
         available: true
@@ -130,13 +130,13 @@ products:
       - "6個セットのため保管スペースが必要になる"
     recommendedFor: "室内飼育の小型犬を多頭または長期飼育している方・開封後鮮度を優先したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pyyln.3rdw6e5d.g00pyyln.3rdw7543/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkoji%2F3182550746076-s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkoji%2Fi%2F10048489%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/koji/cabinet/royalcanin2/3182550746076-s.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/koji/cabinet/1018/folder1/3182550746076-s.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoji%2F3182550746076-s.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 17226
         rating: 0
         reviewCount: 1
@@ -169,8 +169,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
-        price: 5280
+        updatedAt: "2026-10-20"
+        price: 4864
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
         rating: 4.59
@@ -178,40 +178,6 @@ products:
     genreId: "565715"
     pricePerUnit: "約1689円/kg"
   - rank: 6
-    name: "ニュートロ ナチュラルチョイス 小型犬用 成犬用 チキン&玄米 6kg"
-    brand: "ニュートロ"
-    price: 11364
-    capacity: "6kg"
-    pricePerUnit: "約1894円/kg"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "チキン&玄米を主原料にした自然派プレミアムドッグフード"
-      - "合成酸化防止剤・着色料・香料不使用の無添加設計"
-      - "小型犬の成犬（生後8ヶ月以上）に対応した粒サイズ"
-    pros:
-      - "無添加設計で原材料にこだわりたい飼い主に選ばれやすい"
-      - "6kg入りでプレミアムフードとしてまとめ買いしやすい量"
-      - "チキンを主原料にしたシンプルなレシピで食材が把握しやすい"
-    cons:
-      - "プレミアムフードのため一般的な大容量フードよりg単価は高くなりやすい"
-      - "小型犬用のため中型・大型犬には別サイズ展開を選ぶ必要がある"
-    recommendedFor: "無添加・自然派素材にこだわりたい小型犬の飼い主・プレミアムフードを継続使用したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3q9n.3rdw6fae.g00r3q9n.3rdw7c86/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetland-kumatori%2Fdf-0151%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpetland-kumatori%2Fi%2F10000469%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/petland-kumatori/cabinet/df04/df-0149.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-11"
-        price: 9534
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
-        available: true
-        rating: 4.72
-        reviewCount: 175
-    genreId: "565715"
-  - rank: 7
     name: "アーテミス フレッシュミックス スモールブリードアダルト 3kg"
     brand: "アーテミス"
     price: 5830
@@ -238,12 +204,46 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F0813369001904.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 5830
         rating: 4.74
         reviewCount: 103
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_0813369001904"
         available: true
+    genreId: "565715"
+  - rank: 7
+    name: "ニュートロ ナチュラルチョイス 小型犬用 成犬用 チキン&玄米 6kg"
+    brand: "ニュートロ"
+    price: 12064
+    capacity: "6kg"
+    pricePerUnit: "約2011円/kg"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "チキン&玄米を主原料にした自然派プレミアムドッグフード"
+      - "合成酸化防止剤・着色料・香料不使用の無添加設計"
+      - "小型犬の成犬（生後8ヶ月以上）に対応した粒サイズ"
+    pros:
+      - "無添加設計で原材料にこだわりたい飼い主に選ばれやすい"
+      - "6kg入りでプレミアムフードとしてまとめ買いしやすい量"
+      - "チキンを主原料にしたシンプルなレシピで食材が把握しやすい"
+    cons:
+      - "プレミアムフードのため一般的な大容量フードよりg単価は高くなりやすい"
+      - "小型犬用のため中型・大型犬には別サイズ展開を選ぶ必要がある"
+    recommendedFor: "無添加・自然派素材にこだわりたい小型犬の飼い主・プレミアムフードを継続使用したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3q9n.3rdw6fae.g00r3q9n.3rdw7c86/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetland-kumatori%2Fdf-0151%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpetland-kumatori%2Fi%2F10000469%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/petland-kumatori/cabinet/df04/df-0149.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
+        matchStatus: "matched"
+        updatedAt: "2026-10-20"
+        price: 9534
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
+        available: true
+        rating: 4.72
+        reviewCount: 177
     genreId: "565715"
   - rank: 8
     name: "ナチュラルハーベスト メンテナンス ラム (大粒) ドッグフード 犬 ドライフード"
@@ -265,13 +265,13 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q2ujn.3rdw6097.g00q2ujn.3rdw7276/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falbiot%2Fnh_main_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falbiot%2Fi%2F10000275%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/n_nh/renew2024/nh-ml-pkimgre.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/event-bn/100pb/nh/nh-ml-pb.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjohn-coco%2Fnhd0100260-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 3080
         rating: 4.78
         reviewCount: 23
@@ -303,14 +303,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600a.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg360011-.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 3000
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600a"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g360011-"
         available: true
-        rating: 4.69
-        reviewCount: 39
+        rating: 4.82
+        reviewCount: 82
     priceMax: 15500
     genreId: "565715"
   - rank: 10

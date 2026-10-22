@@ -4,7 +4,7 @@ description: "浴室排水口ヘアキャッチャーを1個あたりのコス�
 category: "bath-drain-hair-catcher"
 publishedAt: "2026-06-04"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
@@ -82,8 +82,8 @@ products:
     price: 2420
     capacity: "1個"
     pricePerUnit: "約2420円/個"
-    rating: 4.69
-    reviewCount: 2572
+    rating: 4.7
+    reviewCount: 2607
     features:
       - "TOTO対応サイズのヘアーキャッチャー"
       - "浴室排水口向けのステンレス製"
@@ -105,8 +105,8 @@ products:
     price: 2530
     capacity: "1個"
     pricePerUnit: "約2530円/個"
-    rating: 4.62
-    reviewCount: 5216
+    rating: 4.63
+    reviewCount: 5276
     features:
       - "浴室排水口向けのステンレス製"
       - "マグネット式のヘアーキャッチャー"
@@ -128,8 +128,8 @@ products:
     price: 2580
     capacity: "1個"
     pricePerUnit: "約2580円/個"
-    rating: 4.19
-    reviewCount: 212
+    rating: 4.2
+    reviewCount: 215
     features:
       - "ステンレス製の排水口カバー"
       - "ネット付きのヘアーキャッチャー"
@@ -194,10 +194,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffabric-cute%2F4580356840049.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-19"
         price: 1180
-        rating: 4.67
-        reviewCount: 21
+        rating: 4.64
+        reviewCount: 22
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fabric-cute_4580356840049"
         available: true
     priceMax: 2580
@@ -207,8 +207,8 @@ products:
     brand: "Magico"
     price: 1000
     capacity: "1個"
-    rating: 4.65
-    reviewCount: 679
+    rating: 4.64
+    reviewCount: 683
     features:
       - "浴室排水口向けのネットホルダー"
       - "排水口ネットを隠しやすい構造"

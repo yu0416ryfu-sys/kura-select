@@ -19,6 +19,7 @@ import {
   hasVariantPriceRange,
   mergeExistingMeasureWithSalesQuantity,
   isSameMeasureBaseWithExistingQuantity,
+  isCutNotationOfSameCapacity,
   isSalesQuantityCapacity,
   hasMeasureCapacity,
   isLikelySalesQuantityCapacityMisread,
@@ -641,12 +642,31 @@ describe("extractCapacityFromItemName", () => {
     ).toBe("3回");
   });
 
-  it("販促枠の個数を容量として拾わない", () => {
+  it("先頭の「まとめ買い×N」枠は販売数量として本体の容量に掛ける", () => {
+    // 枠の個数そのものを容量にはしない（"9個" ではなく "60g×9個"）
     expect(
       extractCapacityFromItemName(
         "【送料お得・まとめ買い×9個セット】あわだたない こどもハミガキ ぶどう香味 60g エスケー石鹸"
       )
-    ).toBe("60g");
+    ).toBe("60g×9個");
+    expect(
+      extractCapacityFromItemName(
+        "【送料込・まとめ買い×4個セット】パンパース さらさらケア テープ スーパ-ジャンボ Mサイズ 50枚"
+      )
+    ).toBe("50枚×4個");
+  });
+
+  it("「まとめ買い×N」が本体のチェーンに既にある場合は二重に掛けない", () => {
+    expect(
+      extractCapacityFromItemName(
+        "【送料無料・まとめ買い×3】【オムツ特売】大王製紙 グーン スーパーBIG テープ 28枚入 サイズ：Bigサイズ ×3点セット ( 4902011745009 )"
+      )
+    ).toBe("28枚×3");
+    expect(
+      extractCapacityFromItemName(
+        "【送料無料・まとめ買い×5】オカモト　水とりぞうさん 550ml×3個パック×5点セット　除湿剤タンス用"
+      )
+    ).toBe("550ml×3個×5");
   });
 
   it("販促枠に総量の乗算チェーンがある場合は残す", () => {
@@ -1015,6 +1035,29 @@ describe("extractCapacityFromItemName", () => {
       )
     ).toBe("132枚");
   });
+
+  // ─── おむつの体重帯（2026-10-21）────────────────────────────────
+  it("おむつの体重帯を容量として拾わない", () => {
+    expect(
+      extractCapacityFromItemName("ムーニー 低刺激であんしん M 6kg〜11kg 紙おむつ テープ(46枚入)")
+    ).toBe("46枚");
+    expect(
+      extractCapacityFromItemName("パンパース さらさらケア テープ Mサイズ オムツ 6-11kg(62枚入)")
+    ).toBe("62枚");
+    expect(
+      extractCapacityFromItemName("メリーズ パンツ ビッグ 12〜22kg 38枚×3袋")
+    ).toBe("38枚×3袋");
+    expect(
+      extractCapacityFromItemName("パンパース テープ ビッグより大きいサイズ 15kg〜 26枚")
+    ).toBe("26枚");
+    expect(
+      extractCapacityFromItemName("グーン テープ 新生児 5kgまで 72枚入")
+    ).toBe("72枚");
+  });
+
+  it("おむつ以外の重量範囲は従来どおり（米の 18kg〜20kg）", () => {
+    expect(extractCapacityFromItemName("秋田県産あきたこまち 18kg〜20kg")).toBe("18kg");
+  });
 });
 
 describe("isMultiMeasureVariantItemName", () => {
@@ -1056,6 +1099,24 @@ describe("isMultiMeasureVariantItemName", () => {
   it("商数が商品名中の乗数と一致しない場合は検知する", () => {
     expect(isMultiMeasureVariantItemName("スリーフ 除菌スプレー 500ml＋1L")).toBe(true);
     expect(isMultiMeasureVariantItemName("秋田県産あきたこまち 18kg〜20kg")).toBe(true);
+  });
+
+  it("おむつの体重帯は複数容量扱いにしない", () => {
+    for (const name of [
+      "ムーニー 低刺激であんしん M 6kg〜11kg 紙おむつ テープ(46枚入)",
+      "パンパース さらさらケア テープ Mサイズ オムツ 6-11kg(62枚入)",
+      "メリーズ テープ 新生児 お誕生〜5000g 90枚",
+      "グーン テープ 新生児 5kgまで 72枚入",
+      "パンパース テープ ビッグより大きいサイズ 15kg〜 26枚",
+    ]) {
+      expect(isMultiMeasureVariantItemName(name), name).toBe(false);
+      expect(isSalesQuantityVariantItemName(name), name).toBe(false);
+    }
+  });
+
+  it("おむつでも容量の列挙は検知する", () => {
+    // 体重帯を消したあとに残る容量どうしの判定は従来どおり
+    expect(isMultiMeasureVariantItemName("ペット用おむつ 3kg 5kg 10kg")).toBe(true);
   });
 });
 
@@ -1256,6 +1317,16 @@ describe("capacity kind helpers", () => {
     expect(isSameMeasureBaseWithExistingQuantity("500mL×6本", "500mL")).toBe(true);
     expect(isSameMeasureBaseWithExistingQuantity("355mL×12本", "360ml")).toBe(false);
     expect(isSameMeasureBaseWithExistingQuantity("355mL", "355ml")).toBe(false);
+  });
+
+  it("既存capacityのカット表記が同じ総枚数の枚表記かを判定する", () => {
+    expect(isCutNotationOfSameCapacity("150カット×4ロール×4パック（2400カット）", "150枚×4ロール×4パック")).toBe(true);
+    // 総枚数が違えば表記ゆれではない
+    expect(isCutNotationOfSameCapacity("150カット×4ロール×4パック（2400カット）", "150枚×4ロール×2パック")).toBe(false);
+    // 既存が枚表記で解析できるなら対象外（通常の差分判定に任せる）
+    expect(isCutNotationOfSameCapacity("150枚×4ロール×4パック", "150枚×4ロール×4パック")).toBe(false);
+    expect(isCutNotationOfSameCapacity("12ロール", "12ロール")).toBe(false);
+    expect(isCutNotationOfSameCapacity("-", "150枚")).toBe(false);
   });
 
   it("販売数量のみのcapacityを判定する", () => {
@@ -1527,6 +1598,40 @@ products:
     expect(result.changed).toBe(true);
     expect(result.content).toMatch(/- rank: 1[\s\S]*?name: "単価あり商品"/);
     expect(result.content).toMatch(/- rank: 2[\s\S]*?name: "単価不明商品"/);
+  });
+
+  describe("組と枚の並び替え（ティッシュ換算と手拭き用の1回分換算）", () => {
+    const pairSample = `---
+title: "テスト記事"
+description: "テスト"
+category: test
+publishedAt: 2026-01-01
+products:
+  - rank: 1
+    name: "1枚もの"
+    price: 540
+    capacity: "1000枚"
+    pricePerUnit: "約0.54円/枚"
+    rakutenUrl: "https://example.com/a"
+  - rank: 2
+    name: "2枚重ね"
+    price: 880
+    capacity: "1000組"
+    pricePerUnit: "約0.88円/組"
+    rakutenUrl: "https://example.com/b"
+---`;
+
+    it("既定では1組=2枚で換算する（0.88円/組 → 0.44円/枚 が先）", () => {
+      const result = reorderProductsByPricePerUnit(pairSample);
+      expect(result.changed).toBe(true);
+      expect(result.content).toMatch(/- rank: 1[\s\S]*?name: "2枚重ね"/);
+    });
+
+    it("pairCountsAsOneUse では1組=1回分として枚と1:1で並べる", () => {
+      const result = reorderProductsByPricePerUnit(pairSample, { pairCountsAsOneUse: true });
+      expect(result.changed).toBe(false);
+      expect(result.content).toMatch(/- rank: 1[\s\S]*?name: "1枚もの"/);
+    });
   });
 
   it("単位が混在する場合は同一単位グループ内で並び替える", () => {

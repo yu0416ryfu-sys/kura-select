@@ -4,7 +4,7 @@ description: "ハイドロコロイド絆創膏のおすすめ7選を1枚あた�
 category: "bandage"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-09-26"
+updatedAt: "2026-10-17"
 draft: false
 products:
   - rank: 1
@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnisshodrug%2F4955574823646.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-14"
         price: 2598
         rating: 0
         reviewCount: 0
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4987167065744-73-30001222.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-14"
         price: 587
         rating: 0
         reviewCount: 1
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/h219465/"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-14"
         price: 1345
         rating: 4.75
         reviewCount: 57
@@ -262,7 +262,9 @@ faqs:
     answer: "深い傷や出血が止まらない傷、動物にかまれた傷、赤く腫れる・膿が出るなど化膿が疑われる傷、広い範囲のやけどには使わず、医師や薬剤師に相談してください。貼っている間に痛みや腫れが強くなった場合も使用を中止してください。"
 ---
 
-ハイドロコロイド絆創膏は、傷から出る体液を保って湿潤環境をつくるタイプの救急用パッドです。この記事では、キズパワーパッドやケアリーヴ 治す力などを、サイズ・防水性・枚数・1枚あたりの単価で比較します。
+ハイドロコロイド絆創膏は、キズパワーパッドに代表される「貼ったまま傷を覆っておくタイプ」の救急用パッドです。ハイドロコロイドは水分を吸うとゼリー状になる素材の名前で、傷から出る液を吸って白くふくらみ、傷口を乾かさずに覆います。ガーゼのように傷に貼りつきにくいのも、一般的な絆創膏との違いです。
+
+この記事では、キズパワーパッドやケアリーヴ 治す力などを、サイズ・防水性・枚数・1枚あたりの単価で比較します。
 
 普段使いのガーゼパッド付き絆創膏とは使い方も価格帯も違うため、一般的な絆創膏は [絆創膏の比較](/articles/bandage-comparison/) に分けています。
 

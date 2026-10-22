@@ -4,15 +4,15 @@ description: "パンツ型おむつのLサイズおすすめ7選を1枚あたり
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-09-23"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
     name: "メリーズ パンツ Lサイズ 大容量セット"
     brand: "メリーズ（花王）"
-    price: 10795
+    price: 11800
     capacity: "162枚×2個（9〜14kg）"
-    pricePerUnit: "約33円/枚"
+    pricePerUnit: "約36円/枚"
     rating: 4.63
     reviewCount: 8
     features:
@@ -34,8 +34,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443519-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-11"
-        price: 10890
+        updatedAt: "2026-10-20"
+        price: 11800
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_4901301443519-2"
@@ -44,9 +44,9 @@ products:
   - rank: 2
     name: "メリーズ パンツ 素肌さらさらエアスルー Lサイズ"
     brand: "花王（メリーズ）"
-    price: 5597
+    price: 5997
     capacity: "54枚×3袋"
-    pricePerUnit: "約35円/枚"
+    pricePerUnit: "約37円/枚"
     rating: 5
     reviewCount: 10
     features:
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitemp-yh%2Fico3952y.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 6780
         rating: 0
         reviewCount: 1
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111127986x4.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 7720
         rating: 0
         reviewCount: 2
@@ -168,13 +168,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbabytown%2F5004-pampers-4902430148887.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4902430148887.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-11"
-        price: 7700
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/babytown_5004-pampers-4902430148887"
+        updatedAt: "2026-10-20"
+        price: 1848
+        rating: 4.63
+        reviewCount: 27
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4902430148887"
         available: true
     genreId: "205198"
   - rank: 6
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111243099x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 7720
         rating: 4.82
         reviewCount: 120

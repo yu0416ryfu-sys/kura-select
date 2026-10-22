@@ -7,6 +7,7 @@ import tailwindcss from "@tailwindcss/vite";
 import fs from "node:fs";
 import path from "node:path";
 import { getThinCategorySlugs, isThinCategoryUrl } from "./scripts/lib/thin-categories.mjs";
+import { getNoindexArticleSlugs, isNoindexArticleUrl } from "./scripts/lib/noindex-articles.mjs";
 import rehypePickButtons from "./src/lib/markdown/rehype-pick-buttons.ts";
 
 // 記事 frontmatter の updatedAt（無ければ publishedAt）から sitemap の lastmod を作る。
@@ -28,6 +29,10 @@ for (const file of fs.readdirSync(ARTICLES_DIR)) {
 // tests/thin-categories.test.ts で [slug].astro とのドリフトを検知する。
 const thinCategorySlugs = getThinCategorySlugs();
 
+// 入れ替えで外した記事（data/noindex-articles.json）も noindex なので sitemap から外す。
+// 判定は scripts/lib/noindex-articles.mjs に集約し、ArticleLayout.astro と共有する。
+const noindexArticleSlugs = getNoindexArticleSlugs();
+
 export default defineConfig({
   site: "https://www.kura-select.com",
   // 末尾スラッシュを統一（GH Pages での重複URL・リンクエクイティ分散を防ぐ）
@@ -35,12 +40,13 @@ export default defineConfig({
   integrations: [
     preact({ compat: true }),
     sitemap({
-      // 検索ページ・記事一覧ページ・記事1本以下のカテゴリはインデックス対象外（noindex 指定と整合）。
-      // 記事詳細（/articles/<slug>/）は除外しない。
+      // 検索ページ・記事一覧ページ・記事1本以下のカテゴリ・入れ替えで外した記事はインデックス対象外
+      // （noindex 指定と整合）。それ以外の記事詳細（/articles/<slug>/）は除外しない。
       filter: (page) =>
         !page.endsWith("/search/") &&
         !page.endsWith("/articles/") &&
-        !isThinCategoryUrl(page, thinCategorySlugs),
+        !isThinCategoryUrl(page, thinCategorySlugs) &&
+        !isNoindexArticleUrl(page, noindexArticleSlugs),
       serialize(item) {
         const slug = item.url.match(/\/articles\/([^/]+)\/?$/)?.[1];
         const lastmod = slug ? articleLastmod.get(slug) : undefined;

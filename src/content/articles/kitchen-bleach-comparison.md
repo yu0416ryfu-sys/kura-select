@@ -4,7 +4,7 @@ description: "キッチン用漂白剤を1mLあたりのコストで徹底比較
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-17"
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"
@@ -13,7 +13,7 @@ products:
     capacity: "5kg×3本"
     pricePerUnit: "約0.29円/g"
     rating: 4.86
-    reviewCount: 102
+    reviewCount: 103
     features:
       - "国内トップシェアのキッチン用塩素系漂白剤"
       - "詰め替え用大容量でコスパ最高クラス"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4901301021144.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-18"
         price: 4345
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4901301021144"
         available: true
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F1671344.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-18"
         price: 1118
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_1671344"
         available: true
@@ -81,7 +81,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.64円/g"
     rating: 4.64
-    reviewCount: 1439
+    reviewCount: 1440
     features:
       - "酸素系漂白剤で幅広い用途に対応"
       - "界面活性剤配合でキッチン汚れにも効果的"
@@ -101,10 +101,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbutterflyeffectllc%2F46.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
-        price: 3475
+        updatedAt: "2026-10-18"
+        price: 3464
         rating: 4.8
-        reviewCount: 167
+        reviewCount: 168
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/butterflyeffectllc_46"
         available: true
     genreId: "210182"
@@ -224,7 +224,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F508035.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-17"
         price: 1954
         rating: 0
         reviewCount: 0
@@ -353,6 +353,25 @@ faqs:
   <figcaption>まず「何に使うか」で塩素系か酸素系かを分け、単価はそのあとで同じ系統の中だけで比べる</figcaption>
 </figure>
 
+## 比較表の商品を「系統と形状」で読み分ける
+
+ページ上部の比較表は単価の安い順に並びますが、液体の塩素系、粉末の酸素系、業務用の大容量と家庭用のボトルが<strong>同じ表に混ざって並びます</strong>。単価で選ぶ前に、商品名とパッケージの表示から、どのグループの商品かを確かめてください。
+
+| グループ | 商品名・表示の目印 | 向いている使い方 |
+|---------|----------------|---------------|
+| 塩素系・家庭用ボトル | 「ハイター」「ブリーチ」、「塩素系」、「大」「特大」「小」 | まな板・ふきん・白い食器の漂白と除菌 |
+| 塩素系・業務用大容量 | 「業務用」「5kg」などの重さ表記 | 使う量が多い家庭。小分けの手間と使い切る期間を考えて選ぶ |
+| 酸素系・粉末 | 「酸素系」「過炭酸ナトリウム」「オキシ」、重さ（g・kg）の表記 | 色柄物のふきん・保存容器・水筒のつけおき |
+| 酸素系・ボトル入り | 「酸素系」＋「ボトル」、量の少ない表記 | ときどき使う程度の家庭。少量から試したいとき |
+
+### 単価の単位（mL と g）がそろっているかを見る
+
+液体の塩素系は mL、粉末の酸素系は g や kg で量が書かれていることが多く、業務用の液体も kg で売られることがあります。<strong>単位の違う単価は、そのまま比べられません</strong>。比較表の単価欄の単位を確かめて、同じ系統・同じ単位の中で比べてください。最新の価格と単価はページ上部の比較表（自動更新）でご確認ください。
+
+### 粉末の酸素系は「お湯の温度」で働きが変わる
+
+粉末の酸素系漂白剤は、ぬるま湯に溶かして使う前提のものが多く、冷たい水では溶け残ったり働きが弱くなったりします。使うお湯の温度はパッケージの表示に従ってください。液体の塩素系とは、使い方の前提から違う商品だと考えると選び分けやすくなります。
+
 ## 「混ぜるな危険」は同時でなくても起こる
 
 塩素系漂白剤は、酸性の製品（酸性タイプの洗剤、酢、クエン酸など）と反応して有害なガスが発生します。よく知られた注意ですが、**別々に使ったつもりでも、直前に使った洗剤が排水口やシンクに残っていれば起こりえます**。
@@ -378,6 +397,30 @@ faqs:
 重さも実務的な問題です。大きな容器から小分けに移す作業は、そのたびに原液に触れる機会が増えます。**移し替えるなら専用の詰め替えボトルを使い、金属製の容器は使わない**でください（腐食の原因になります）。
 
 家族の人数と使う頻度から、**季節をまたがずに使い切れる容量**を選ぶと、単価と品質のバランスが取れます。
+
+## 使う場面で起きやすい失敗と、その避け方
+
+比較表の単価や容量だけでは分からない、実際に使う場面での失敗をまとめました。
+
+### 水筒やボトルのつけおきで、ふたを閉めたままにする
+
+酸素系の漂白剤は、溶かすと泡と一緒に気体が出ます。水筒やボトルに溶かした液を入れてふたを閉めると、中の圧力が上がってふたが飛んだり、液があふれたりすることがあります。<strong>つけおき中はふたを閉めない</strong>でください。水筒の場合は、本体の素材や塗装に使えるかも、水筒側の取扱説明で確かめます。
+
+### 金属の部品が付いたまま、塩素系につける
+
+ふた付きの保存容器や、金属の留め具・持ち手が付いた道具を塩素系につけると、金属部分が変色したりサビたりします。金属の部品は外してからつけるか、酸素系や台所用の中性洗剤で洗ってください。
+
+### 熱いお湯で塩素系を薄める
+
+塩素系の漂白剤は、熱いお湯で薄めると成分が分解しやすくなり、においも強く出ます。<strong>塩素系は水で薄める</strong>のが基本で、お湯を使う前提の粉末の酸素系とは逆になります。
+
+### まな板の表面だけを漂白して、すすぎを短くする
+
+漂白剤は、まな板の細かい傷の中にも入り込みます。表面を流しただけでは傷の中に残ることがあるので、使ったあとはたっぷりの水で十分にすすいでください。木のまな板は、漂白剤が使えるかどうかを、まな板と漂白剤の両方の表示で確かめてから使います。
+
+### 粉末を湿気の多い場所に開けたまま置く
+
+粉末の酸素系は、湿気を吸うと固まったり、力が弱まったりします。使ったあとは袋の口をしっかり閉じ、シンク下など湿気のこもる場所を避けて保管してください。
 
 ## 買ってから気づきやすい注意点
 

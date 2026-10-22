@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ8選を1枚あたり単�
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "レック 水99.9％ 手口ふき"
@@ -13,7 +13,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約2.0円/枚"
     rating: 4.7
-    reviewCount: 4898
+    reviewCount: 4922
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -116,8 +116,8 @@ products:
     price: 5269
     capacity: "43枚×8個×4個（1376枚）"
     pricePerUnit: "約3.8円/枚"
-    rating: 4.75
-    reviewCount: 244
+    rating: 4.76
+    reviewCount: 246
     features:
       - "ノンアルコールタイプの除菌ウェットティッシュ詰替"
       - "ワンプッシュで開閉できる取り出し口設計"
@@ -226,14 +226,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4903301291022.html"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/p821335/"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
-        price: 205
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4903301291022"
+        updatedAt: "2026-10-15"
+        price: 318
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_p821335"
         available: true
-        rating: 0
-        reviewCount: 1
+        rating: 4.47
+        reviewCount: 19
     genreId: "505522"
   - rank: 8
     name: "ノンアルコール 99%除菌ウェットティッシュ"

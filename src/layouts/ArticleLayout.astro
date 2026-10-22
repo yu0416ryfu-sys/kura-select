@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
+import { getNoindexArticleSlugs } from "../../scripts/lib/noindex-articles.mjs";
 import Container from "../components/layout/Container.astro";
 import JsonLd from "../components/seo/JsonLd.astro";
 import ComparisonTable from "../components/product/ComparisonTable.astro";
@@ -10,26 +11,22 @@ import ServiceTable from "../components/service/ServiceTable.astro";
 import ServiceCard from "../components/service/ServiceCard.astro";
 import AffiliateLink from "../components/product/AffiliateLink.astro";
 import {
-  getLowestOffer,
-  getRakutenFallbackOffer,
   getOfferPriceSummary,
   getVisibleOffers,
   getEnabledAffiliateProvidersFromEnv,
   getStaticAffiliateProvidersFromEnv,
   sortOffersByPriceForDisplay,
   getLowestVisibleOffer,
-  getRakutenRating,
-  type OfferProvider,
 } from "../lib/offers";
 import {
   formatPriceOrConfirmation,
   formatPriceRange,
   isKnownPrice,
-  isVariantPricedProduct,
   resolveDisplayPricePerUnit,
   shouldShowPricePerUnit,
 } from "../lib/price";
 import { getArticleTargetUnit } from "../lib/capacity";
+import { buildProductJsonLd, buildServiceJsonLd } from "../lib/structured-data";
 import { SITE, url } from "../lib/site";
 import type { CollectionEntry } from "astro:content";
 import type { MarkdownHeading } from "astro";
@@ -119,6 +116,8 @@ const formatJaDate = (date: Date): string =>
 
 // 記事別OGP画像パス（ビルド時に generate-ogp.mjs で生成）
 const ogImage = `/og/articles/${article.id}.png`;
+// 入れ替えで外した記事は noindex,follow（data/noindex-articles.json・sitemap からも外す）
+const isNoindex = getNoindexArticleSlugs().has(article.id);
 
 const articleJsonLd = {
   "@context": "https://schema.org",
@@ -169,101 +168,15 @@ const breadcrumbJsonLd = {
   ],
 };
 
-// サービス記事は Product ではなく Service で構造化する。
-// 月額は使用量・地域・プランで変動するため price ではなく priceSpecification で
-// 「〜円/月の目安」として表現し、断定を避ける。
-const serviceJsonLds = services.map((s) => ({
-  "@context": "https://schema.org",
-  "@type": "Service",
-  name: s.name,
-  serviceType: s.waterType === "purifier" ? "浄水型ウォーターサーバー" : "宅配水ウォーターサーバー",
-  provider: { "@type": "Organization", name: s.brand },
-  areaServed: { "@type": "Country", name: "JP" },
-  offers: {
-    "@type": "Offer",
-    priceCurrency: "JPY",
-    priceSpecification: {
-      "@type": "UnitPriceSpecification",
-      price: s.monthlyCost,
-      priceCurrency: "JPY",
-      unitCode: "MON",
-    },
-    url: `${SITE.url}/articles/${article.id}/`,
-  },
-}));
-
-// Offer / AggregateOffer 共通プロパティ（AggregateOffer は Offer のサブタイプで継承する）
-const JSON_LD_OFFER_COMMON = {
-  availability: "https://schema.org/InStock",
-  shippingDetails: {
-    "@type": "OfferShippingDetails",
-    shippingDestination: {
-      "@type": "DefinedRegion",
-      addressCountry: "JP",
-    },
-  },
-  hasMerchantReturnPolicy: {
-    "@type": "MerchantReturnPolicy",
-    applicableCountry: "JP",
-    returnPolicyCategory: "https://schema.org/MerchantReturnNotPermitted",
-  },
+// Product / Service JSON-LD の組み立ては src/lib/structured-data.ts（Vitest で直接テスト）
+const jsonLdCtx = {
+  ogImageFallback: `${SITE.url}${SITE.ogImage}`,
+  jsonLdProviders,
 };
-
-// JSON-LD は楽天・Yahoo のみ（Amazon は 24h 鮮度を SSG で保証できないため除外）
+const serviceJsonLds = services.map((s) => buildServiceJsonLd(s));
 const productJsonLds = products
-  .filter((p) => p.rating !== undefined)
-  .map((p) => {
-    let jsonLdOffer: { price: number; url: string; provider: OfferProvider } | null = null;
-    const lowest = getLowestOffer(p, { enabledProviders: jsonLdProviders });
-    if (lowest) jsonLdOffer = { price: lowest.price, url: lowest.url, provider: lowest.provider };
-    if (!jsonLdOffer) {
-      const rakuten = getRakutenFallbackOffer(p);
-      if (rakuten && typeof rakuten.price === "number" && rakuten.price > 0) {
-        jsonLdOffer = { price: rakuten.price, url: rakuten.url, provider: rakuten.provider };
-      }
-    }
-    return { product: p, jsonLdOffer };
-  })
-  .filter(({ jsonLdOffer }) => jsonLdOffer !== null)
-  .map(({ product: p, jsonLdOffer }) => ({
-    "@context": "https://schema.org",
-    "@type": "Product",
-    name: p.name,
-    description: `${p.brand}の${p.name}。${p.capacity}。${p.recommendedFor}`,
-    brand: { "@type": "Brand", name: p.brand },
-    image: p.imageUrl || `${SITE.url}${SITE.ogImage}`,
-    // 楽天の価格帯商品は単一 Offer だと「実際に買えない価格」を宣言することになるため
-    // AggregateOffer（lowPrice〜highPrice）で出す。採用 offer が楽天のときだけ切り替える
-    offers: jsonLdOffer!.provider === "rakuten" && isVariantPricedProduct(p)
-      ? {
-          "@type": "AggregateOffer",
-          priceCurrency: "JPY",
-          lowPrice: p.price,
-          highPrice: p.priceMax,
-          offerCount: 1,
-          url: jsonLdOffer!.url,
-          ...JSON_LD_OFFER_COMMON,
-        }
-      : {
-          "@type": "Offer",
-          priceCurrency: "JPY",
-          price: jsonLdOffer!.price,
-          url: jsonLdOffer!.url,
-          ...JSON_LD_OFFER_COMMON,
-        },
-    aggregateRating: (() => {
-      const r = getRakutenRating(p);
-      return r
-        ? {
-            "@type": "AggregateRating",
-            ratingValue: r.rating,
-            reviewCount: r.reviewCount,
-            bestRating: 5,
-            worstRating: 1,
-          }
-        : undefined;
-    })(),
-  }));
+  .map((p) => buildProductJsonLd(p, jsonLdCtx))
+  .filter((ld) => ld !== null);
 ---
 
 <BaseLayout
@@ -273,6 +186,8 @@ const productJsonLds = products
   ogType="article"
   publishedTime={data.publishedAt.toISOString()}
   modifiedTime={(data.updatedAt ?? data.publishedAt).toISOString()}
+  noindex={isNoindex}
+  nofollow={false}
 >
   <Fragment slot="head">
     <JsonLd data={articleJsonLd} />

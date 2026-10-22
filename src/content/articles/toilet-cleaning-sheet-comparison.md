@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-10-04"
+updatedAt: "2026-10-20"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10137083.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-30"
+        updatedAt: "2026-10-18"
         price: 206
         rating: 4.5
         reviewCount: 4
@@ -68,8 +68,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale%2F4957434002796330.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-30"
-        price: 5990
+        updatedAt: "2026-10-18"
+        price: 6400
         rating: 4.16
         reviewCount: 56
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale_4957434002796330"
@@ -81,8 +81,8 @@ products:
     price: 1980
     capacity: "30枚×10個（300枚）"
     pricePerUnit: "約6.6円/枚"
-    rating: 4.67
-    reviewCount: 18
+    rating: 4.68
+    reviewCount: 19
     features:
       - "流せるトイレ用掃除シート"
       - "エンボス加工のシート"
@@ -102,10 +102,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale%2F4988787090024-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-18"
         price: 1780
         rating: 4.51
-        reviewCount: 45
+        reviewCount: 47
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale_4988787090024-10"
         available: true
     genreId: "508447"
@@ -115,8 +115,8 @@ products:
     price: 2508
     capacity: "288枚"
     pricePerUnit: "約8.7円/枚"
-    rating: 4.58
-    reviewCount: 53
+    rating: 4.57
+    reviewCount: 54
     features:
       - "トイレに流せる掃除シート"
       - "特許製法をうたう厚手シート"
@@ -160,7 +160,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j974081/"
         matchStatus: "pending"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-20"
         price: 640
         rating: 4.04
         reviewCount: 56
@@ -193,7 +193,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkilat%2F9q0372.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-20"
         price: 657
         rating: 5
         reviewCount: 4
@@ -241,7 +241,7 @@ products:
     capacity: "20枚×12個"
     pricePerUnit: "約26円/枚"
     rating: 4.76
-    reviewCount: 364
+    reviewCount: 365
     features:
       - "トイレに流せる厚手の掃除シート"
       - "本体ケースに詰め替えて使うタイプ"
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301308566.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-06"
+        updatedAt: "2026-10-18"
         price: 6253
         rating: 3.33
         reviewCount: 3
@@ -280,7 +280,7 @@ products:
       - "プレミアムローズの香り"
       - "便座やドアの取っ手まわりの拭き掃除に対応"
     pros:
-      - "6袋セットでまとめ買いしやすい"
+      - "4個セットでまとめ買いしやすい"
       - "香り付きでトイレ空間を快適に保ちやすい"
       - "除菌力を重視したい人に向く"
     cons:

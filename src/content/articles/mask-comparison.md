@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-20"
 products:
   - rank: 1
     name: "WEIMALL 不織布カラーマスク 立体3D 50枚"
@@ -53,13 +53,13 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/runnrunn-shop/cabinet/10802269/imgrc0107306132.jpg?_ex=128x128"
     genreId: "402788"
   - rank: 3
-    name: "ユニ・チャーム 超快適マスク プリーツタイプ ふつうサイズ 50枚"
+    name: "ユニ・チャーム 超快適マスク プリーツタイプ ふつう 50枚"
     brand: "ユニ・チャーム"
-    price: 2260
+    price: 1900
     capacity: "50枚"
-    pricePerUnit: "約45円/枚"
-    rating: 4.92
-    reviewCount: 13
+    pricePerUnit: "約38円/枚"
+    rating: 4.94
+    reviewCount: 118
     features:
       - "独自の超快適素材で肌への刺激が少ない"
       - "プリーツ構造で口まわりに空間ができて息がしやすい"
@@ -72,14 +72,14 @@ products:
       - "コスパ重視の安価品より1枚単価が高め"
       - "立体型と比べると顔に密着しやすい"
     recommendedFor: "肌へのやさしさと着用感を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugwon.3rdw61af.g00ugwon.3rdw786a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fechi-zen-r%2Fcho-kaiteki-mask-m-50-1pc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fechi-zen-r%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/echi-zen-r/cabinet/biiino/item/main-image/20240213101506_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qkwxn.3rdw6942.g00qkwxn.3rdw7551/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-tsuhan%2F10039800%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-tsuhan%2Fi%2F10039800%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-tsuhan/cabinet/uni/4903111579907_01.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft0090-01-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-20"
         price: 2039
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t0090-01-a"
         available: true
@@ -126,7 +126,7 @@ products:
     price: 264
     capacity: "50枚"
     rating: 4.2
-    reviewCount: 22225
+    reviewCount: 22236
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -149,7 +149,7 @@ products:
     price: 298
     capacity: "50枚"
     rating: 4.17
-    reviewCount: 3746
+    reviewCount: 3750
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -182,7 +182,7 @@ products:
     price: 298
     capacity: "51枚"
     rating: 4.22
-    reviewCount: 5785
+    reviewCount: 5786
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -205,7 +205,7 @@ products:
     price: 276
     capacity: "20枚"
     rating: 4.06
-    reviewCount: 9253
+    reviewCount: 9261
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -239,7 +239,7 @@ products:
     price: 2380
     capacity: "120枚"
     rating: 4.19
-    reviewCount: 2740
+    reviewCount: 2742
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -259,7 +259,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-ife-reborn%2Fmask120kfst.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-11"
+        updatedAt: "2026-10-20"
         price: 2680
         rating: 5
         reviewCount: 3

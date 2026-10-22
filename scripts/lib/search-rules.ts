@@ -6,7 +6,7 @@
  * 本番のガード4段（stage1 カテゴリ判定 / stage2 単位 / stage4 スコア）と定義を共有する。
  * ここを複製して別実装を作らないこと。
  */
-import { extractCapacityTotal, buildArticleSearchKeyword } from './frontmatter.ts';
+import { extractCapacityTotal, buildArticleSearchKeyword, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName } from './frontmatter.ts';
 
 /**
  * 除外語ごとの「この文脈で現れたらヒットとみなさない」正規表現。ルール単位で宣言する。
@@ -343,7 +343,7 @@ export const CATEGORY_SEARCH_RULES: Record<string, RawSearchRule> = {
   'kitchen-paper': {
     keywords: ['キッチンペーパー', 'キッチンタオル', 'ペーパータオル キッチン'],
     include: ['キッチンペーパー', 'キッチンタオル', 'ペーパータオル', 'クッキングペーパー'],
-    exclude: ['ホルダー', 'ケース', 'ティッシュ', 'トイレット', '布巾', 'ふきん'],
+    exclude: ['ホルダー', 'ケース', 'ティッシュ', 'トイレット', '布巾', 'ふきん', '中判', '小判', 'ハンドタオル', '紙タオル'],
     units: ['枚', 'ロール', '個'],
   },
   'kitchen-sponge': {
@@ -769,9 +769,19 @@ export const DIAPER_ACCESSORY_EXCLUDE_TERMS = [
   'マナーおむつ',
   'マナーウェア',
   'p.one',
+  // NFKC 後も「P・ワン」は 'p.one' に一致しない（2026-10-21 diaper-tape の候補に混入）
+  'p・ワン',
   'ペピイ',
   '犬用',
   '猫用',
+  // 犬用マナーベルトは「犬用」を含まない出品名もある（2026-10-21 diaper-tape の候補に混入）
+  'マナーベルト',
+  'マナーバンド',
+  'ドッグ',
+  // おむつ入りのギフト商品。'ギフト' 単体は SEO 語として本体の出品名にも入るので使わない
+  'ギフトセット',
+  'おむつギフト',
+  'オムツギフト',
 ];
 
 /**
@@ -830,6 +840,23 @@ export function getArticleSpecificAdditionRule(category: string, baseKeyword: st
       requiredGroups: [['puriot', 'ピュリオ', 'ブリタ', 'BRITA', 'AQUIBEAR', 'アクイビア']],
       exclude: ['カートリッジのみ', '交換用', 'フィルターのみ', 'ボトル', 'ガロン', 'ペットボトル対応', '天然水', 'レンタル', '炭酸', '水素水', 'おままごと'],
       units: ['個'],
+      minScore: 4,
+    };
+  }
+
+  // kitchen-paper カテゴリは キッチンペーパー（kitchen-paper）と手拭き用ペーパータオル（paper-towel）の2記事で共有する
+  // 手拭き用は中判・小判の業務用タオルが中心。ホルダー・ケースやキッチンタオル（ロール）を除外する
+  if (category === 'kitchen-paper' && /ペーパータオル/.test(baseKeyword) && !/キッチン/.test(baseKeyword)) {
+    return {
+      keywords: ['ペーパータオル 中判 業務用', 'ペーパータオル 小判 業務用', 'ペーパータオル 2枚重ね ソフト'],
+      include: ['ペーパータオル', 'ハンドタオル', '紙タオル'],
+      requiredGroups: [['中判', '小判', 'レギュラー', 'スリム']],
+      exclude: [
+        // 「キッチンペーパー」は手拭き用の出品名にも SEO 語として入るので除外語にしない（中判・小判の必須語で足りる）
+        'ホルダー', 'ケース', 'ディスペンサー', 'キッチンタオル', 'クッキングペーパー', 'ロール',
+        'ティッシュ', 'トイレット', '流せる', 'ペーパーハンカチ', 'ウェット', 'ワイプ', 'ムーミン',
+      ],
+      units: ['枚', '組'],
       minScore: 4,
     };
   }
@@ -993,12 +1020,28 @@ export function getArticleSpecificAdditionRule(category: string, baseKeyword: st
     };
   }
 
+  // テープ型 M（diaper-tape-m）。2026-10-21 に有効候補0件になった原因と対策:
+  // - 検索語の単独 'M' は buildSearchKeyword() が1文字トークンとして落とすため「紙おむつ テープ」になり、
+  //   レビュー数順の上位が大人用テープで埋まっていた → ベビー用ブランド名＋「Mサイズ」で検索する
+  // - 楽天24ベビー館（netbaby）は「ムーニー … M 6kg〜11kg … テープ」とサイズを1文字で書く
+  //   → 必須語に M の体重帯（6〜11kg）を加える
+  // - 正規の M テープも SEO 語として「新生児」を併記する（例: メリーズ エアスルー テープ M52枚×4個入 | … 新生児 …）
+  //   → '新生児' 単体は除外語にせず、サイズの列挙（新生児・S・M 等）だけを弾く
   if (category === 'diaper' && /Mサイズ|M サイズ/.test(baseKeyword)) {
     return {
-      keywords: ['Mサイズ おむつ テープ', '紙おむつ M テープ', 'パンパース M テープ'],
+      keywords: ['パンパース テープ Mサイズ', 'メリーズ テープ Mサイズ', 'ムーニー テープ Mサイズ'],
       include: ['おむつ', 'オムツ', '紙おむつ', 'テープ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
-      requiredGroups: [['Mサイズ', 'M サイズ', 'テープ M', 'M テープ'], ['テープ']],
-      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, ...DIAPER_VARIABLE_SIZE_EXCLUDE_TERMS, '新生児', 'NB', 'Sサイズ', 'Lサイズ', 'BIG', 'ビッグ', 'パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      requiredGroups: [
+        ['Mサイズ', 'M サイズ', 'テープ M', 'M テープ', '6kg〜11kg', '6kg~11kg', '6〜11kg', '6~11kg', '6-11kg'],
+        ['テープ'],
+      ],
+      exclude: [
+        ...DIAPER_ACCESSORY_EXCLUDE_TERMS, ...DIAPER_VARIABLE_SIZE_EXCLUDE_TERMS,
+        '新生児・', '新生児/', '新生児 s', 's・m', 'm・l', 's/m', 'm/l',
+        'NB', 'Sサイズ', 'Lサイズ', 'BIG', 'ビッグ', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット',
+        // 夜用パンツは SEO 語に「テープ」を併記することがある（2026-10-21: パンパース おやすみパンツ M）
+        'パンツ', '夜用', 'おやすみ',
+      ],
       units: ['枚'],
       minScore: 3,
     };
@@ -1025,6 +1068,20 @@ export function getArticleSpecificAdditionRule(category: string, baseKeyword: st
       include: ['おむつ', 'オムツ', '紙おむつ', 'BIG', 'ビッグ', 'スーパービッグ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
       requiredGroups: [['BIG', 'ビッグ', 'スーパービッグ'], ['テープ']],
       exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, ...DIAPER_VARIABLE_SIZE_EXCLUDE_TERMS, '新生児', 'Sサイズ', 'Mサイズ', 'パンツ', 'パンツタイプ', 'パンツ型', '夜用', 'オヤスミマン', 'おやすみ', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
+      units: ['枚'],
+      minScore: 3,
+    };
+  }
+
+  // サイズ・形状を特定しない diaper 記事（diaper-tape のガイド記事）。上のサイズ別ルールに当たらなかった残り。
+  // カテゴリ rule のままだと DIAPER_ACCESSORY_EXCLUDE_TERMS が効かず、犬用マナーベルト・P・ワンの
+  // マナーおむつ・「1種類を選べる」セットが候補に入っていた（2026-10-21）。
+  // 「紙おむつ テープ」の検索は大人用テープで埋まるので、ベビー用ブランド名で検索する。
+  if (category === 'diaper') {
+    return {
+      keywords: ['パンパース テープ', 'メリーズ テープ', 'ムーニー テープ'],
+      include: ['おむつ', 'オムツ', '紙おむつ', 'テープ', 'パンパース', 'メリーズ', 'ムーニー', 'グーン'],
+      exclude: [...DIAPER_ACCESSORY_EXCLUDE_TERMS, ...DIAPER_VARIABLE_SIZE_EXCLUDE_TERMS, 'パンツタイプ', 'パンツ型', 'おしりふき', '尿とりパッド', '大人用', '介護', 'ペット'],
       units: ['枚'],
       minScore: 3,
     };
@@ -1157,6 +1214,34 @@ export function getArticleSpecificAdditionRule(category: string, baseKeyword: st
         '収納',
       ],
       units: ['本', 'm', '個'],
+      minScore: 4,
+    };
+  }
+
+  // 大人用の手用歯ブラシ記事（toothbrush）の専用ルール。
+  // カテゴリ rule は歯磨き粉寄り（検索語に「歯磨き粉」「子ども 歯磨き粉」）なので、
+  // 候補が歯磨き粉・子ども用・キャラクター柄で埋まっていた（2026-10-21）。
+  // 電動歯ブラシの替えブラシ記事（baseKeyword「電動歯ブラシ替えブラシ」）は別主題なので巻き込まない。
+  if (category === 'toothpaste' && /歯ブラシ|ハブラシ/.test(baseKeyword) && !/電動|替え|替ブラシ|歯間|子ども|子供|こども|キッズ/.test(baseKeyword)) {
+    return {
+      keywords: ['歯ブラシ 大人用 まとめ買い', '歯ブラシ 歯科専売 ふつう', 'ハブラシ 大人 ふつう'],
+      include: ['歯ブラシ', 'ハブラシ', 'はぶらし', 'デンタルブラシ', 'システマ', 'タフト', 'ルシェロ', 'ピュオーラ', 'プレミアムケア'],
+      requiredGroups: [['歯ブラシ', 'ハブラシ', 'はぶらし', 'デンタルブラシ']],
+      exclude: [
+        // 兄弟記事の主題（歯磨き粉 / フロス / 歯間ブラシ）
+        '歯磨き粉', '歯みがき粉', 'ハミガキ粉', 'はみがき粉', '歯磨きジェル', 'マウスウォッシュ',
+        'フロス', '歯間ブラシ', '糸ようじ', '舌ブラシ', '舌クリーナー', 'タングクリーナー', 'ワンタフト', 'シングルタフト',
+        // 子ども用・キャラクター柄は年齢層が違うので混ぜない
+        '子供', '子ども', 'こども', 'キッズ', 'ジュニア', '幼児', '乳児', 'ベビー', '仕上げ', '歳用',
+        'キャラクター', 'ディズニー', 'サンリオ', 'ドラえもん', 'アンパンマン', 'ポケモン', 'ポケットモンスター',
+        'キティ', 'すみっコ', 'トミカ', 'プラレール', 'スヌーピー', 'ミッキー', 'シナモロール', 'ちいかわ', 'マリオ',
+        // 電動歯ブラシ本体・替えブラシは比較軸が違う
+        '電動', '音波', '替えブラシ', '替ブラシ', '替え歯ブラシ', 'オーラルb', 'ソニッケアー', 'ドルツ', '充電',
+        // 歯ブラシ用品・介護用・ペット用
+        'ケース', 'キャップ', 'カバー', '歯ブラシ立て', '除菌器', '入れ歯', '義歯', 'スポンジブラシ', '介護',
+        'ペット', '犬用', '猫用', '犬猫', 'ドッグ',
+      ],
+      units: ['本'],
       minScore: 4,
     };
   }
@@ -1390,6 +1475,21 @@ export function getAdditionSearchRule(category: string, baseKeyword: string): Re
     requiredGroups: rule.requiredGroups ?? [],
     excludeContextExceptions: rule.excludeContextExceptions ?? {},
   };
+}
+
+/**
+ * update-products が商品名から「組数選択 / 複数容量」と判定して price を自動更新しない出品か。
+ * 該当すると、記事に追加した時点の price（0）がそのまま残る（2026-10-21: unicharm 公式の
+ * 「46枚×4袋 … 6kg〜11kg」、netbaby の a63055「M 6kg〜11kg …(46枚入*4個)」）。
+ * update-products 側の凍結条件（isMultiMeasureVariantItemName / isSalesQuantityVariantItemName）と
+ * 同じ関数で判定し、候補段階で除外する。該当しなければ null を返す。
+ */
+export function getPriceFrozenVariantNameReason(itemName: string | null | undefined): string | null {
+  const name = String(itemName ?? '');
+  if (!name) return null;
+  if (isSalesQuantityVariantItemName(name)) return '組数選択の商品名';
+  if (isMultiMeasureVariantItemName(name)) return '複数容量の商品名';
+  return null;
 }
 
 export function isAllowedCapacityUnit(capacity: string, rule: ResolvedSearchRule): boolean {
