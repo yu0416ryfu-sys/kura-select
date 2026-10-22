@@ -1,0 +1,716 @@
+{
+  "generatedAt": "2026-10-11",
+  "description": "価格帯（選択式）の出品の名簿（計画書6 §3.2 第1段）。--refresh-price-range のときだけ書き換える。追加のみで削除しない。照合は小文字の shop/code",
+  "sources": [
+    {
+      "kind": "frontmatter-priceMax",
+      "path": "src/content/articles/**/*.md",
+      "asOf": "2026-10-11"
+    },
+    {
+      "kind": "product-data-audit",
+      "path": "reports/product-data-audit-2026-08-28.json",
+      "asOf": "2026-08-28"
+    }
+  ],
+  "counts": {
+    "total": 173,
+    "priceMaxOnly": 24,
+    "auditOnly": 16,
+    "both": 133
+  },
+  "items": [
+    {
+      "itemCode": "3rwebshop/set-eva340",
+      "source": "both"
+    },
+    {
+      "itemCode": "a-cueb/awasoapa-2set",
+      "source": "audit"
+    },
+    {
+      "itemCode": "active-online/4987176315700",
+      "source": "audit"
+    },
+    {
+      "itemCode": "aguichant-shop/csc-018",
+      "source": "both"
+    },
+    {
+      "itemCode": "akdailyselect/knn108",
+      "source": "both"
+    },
+    {
+      "itemCode": "albiot/nh_main_4",
+      "source": "both"
+    },
+    {
+      "itemCode": "alice-zk/ny263",
+      "source": "both"
+    },
+    {
+      "itemCode": "anuajapan/anua00061",
+      "source": "both"
+    },
+    {
+      "itemCode": "aquatalk/10000314",
+      "source": "both"
+    },
+    {
+      "itemCode": "arianakosume/allie-001",
+      "source": "audit"
+    },
+    {
+      "itemCode": "aromaspray/sp-bug-100-100e",
+      "source": "both"
+    },
+    {
+      "itemCode": "aspa/arigatou004",
+      "source": "both"
+    },
+    {
+      "itemCode": "assistone/97008282",
+      "source": "both"
+    },
+    {
+      "itemCode": "auc-syokunosado/10000229",
+      "source": "both"
+    },
+    {
+      "itemCode": "auc-tokutoku/kurukurupoictype",
+      "source": "both"
+    },
+    {
+      "itemCode": "azul/10000049",
+      "source": "both"
+    },
+    {
+      "itemCode": "beautyhair/oral-b",
+      "source": "both"
+    },
+    {
+      "itemCode": "beautyhair/oral-b-co",
+      "source": "both"
+    },
+    {
+      "itemCode": "beautyland/1736928005",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "beautypark2017/loaoil",
+      "source": "both"
+    },
+    {
+      "itemCode": "benkyo/4580392000254",
+      "source": "both"
+    },
+    {
+      "itemCode": "bt-iimono/dj-blue-01-100",
+      "source": "both"
+    },
+    {
+      "itemCode": "bt-iimono/pvc-m-01-2000",
+      "source": "both"
+    },
+    {
+      "itemCode": "bugyo/b06-21-277",
+      "source": "both"
+    },
+    {
+      "itemCode": "bunbougu-shibuya/msxe5-1000-05n",
+      "source": "both"
+    },
+    {
+      "itemCode": "cat-land/1917955",
+      "source": "audit"
+    },
+    {
+      "itemCode": "cat-land/9214398",
+      "source": "both"
+    },
+    {
+      "itemCode": "cat-land/9214406",
+      "source": "both"
+    },
+    {
+      "itemCode": "cat-land/9217328",
+      "source": "both"
+    },
+    {
+      "itemCode": "cicib/mskbhxh50",
+      "source": "both"
+    },
+    {
+      "itemCode": "clinique/6933",
+      "source": "both"
+    },
+    {
+      "itemCode": "cookware-carote/j02401",
+      "source": "both"
+    },
+    {
+      "itemCode": "cosmebox/j4550516475473",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "cosmebox/j4904735053064",
+      "source": "both"
+    },
+    {
+      "itemCode": "cosmedefun/11000090",
+      "source": "both"
+    },
+    {
+      "itemCode": "creidea-coms/10002224",
+      "source": "both"
+    },
+    {
+      "itemCode": "d-fit/03952",
+      "source": "audit"
+    },
+    {
+      "itemCode": "d-fit/pppp25",
+      "source": "audit"
+    },
+    {
+      "itemCode": "decori/y-342b",
+      "source": "both"
+    },
+    {
+      "itemCode": "dentendo/va60200108",
+      "source": "both"
+    },
+    {
+      "itemCode": "dog-kan/315359",
+      "source": "both"
+    },
+    {
+      "itemCode": "dog-kan/886730",
+      "source": "both"
+    },
+    {
+      "itemCode": "dog-kan/9214451",
+      "source": "audit"
+    },
+    {
+      "itemCode": "e-kurashi/xy154",
+      "source": "both"
+    },
+    {
+      "itemCode": "elleair/21001262",
+      "source": "both"
+    },
+    {
+      "itemCode": "enetanmin/7254701",
+      "source": "both"
+    },
+    {
+      "itemCode": "enetroom/7169488",
+      "source": "both"
+    },
+    {
+      "itemCode": "enetroom/9871988",
+      "source": "both"
+    },
+    {
+      "itemCode": "essence-of-life/4901301342904",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "fabuleux/10002254",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "fishingkingdom/qa100085",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "fromcocoro/bubbly_set",
+      "source": "both"
+    },
+    {
+      "itemCode": "fsapo/p-jotter",
+      "source": "both"
+    },
+    {
+      "itemCode": "fuchigami/10000028",
+      "source": "audit"
+    },
+    {
+      "itemCode": "fukuraikan/3502-01",
+      "source": "both"
+    },
+    {
+      "itemCode": "fukuroya-shop/10004703",
+      "source": "both"
+    },
+    {
+      "itemCode": "gardenia/hsrfl_001",
+      "source": "both"
+    },
+    {
+      "itemCode": "gelaskins/abntg-100-w",
+      "source": "both"
+    },
+    {
+      "itemCode": "good-mam88/ck00002",
+      "source": "both"
+    },
+    {
+      "itemCode": "good-mam88/ck00015",
+      "source": "both"
+    },
+    {
+      "itemCode": "gossipstar/bm1187",
+      "source": "both"
+    },
+    {
+      "itemCode": "happy-gift/008-001",
+      "source": "both"
+    },
+    {
+      "itemCode": "hiromifashionhouse/mkhrm60f",
+      "source": "both"
+    },
+    {
+      "itemCode": "inter-bb/hy-hc",
+      "source": "both"
+    },
+    {
+      "itemCode": "irisplaza-r/205995",
+      "source": "both"
+    },
+    {
+      "itemCode": "k-home/7091275",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "k-home/7165192",
+      "source": "both"
+    },
+    {
+      "itemCode": "kadenrand/1908413",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "keiyoujitsugyou/k2404",
+      "source": "both"
+    },
+    {
+      "itemCode": "kerastase-varie/ds-bainds_250",
+      "source": "both"
+    },
+    {
+      "itemCode": "kins/v_41744114712753",
+      "source": "both"
+    },
+    {
+      "itemCode": "kisyubio-wakayama/mokusaku06",
+      "source": "both"
+    },
+    {
+      "itemCode": "kurashikenkou/7185802-cp",
+      "source": "both"
+    },
+    {
+      "itemCode": "kurashikenkou/7253225",
+      "source": "both"
+    },
+    {
+      "itemCode": "kurashikenkou/7254701",
+      "source": "both"
+    },
+    {
+      "itemCode": "kurashikenkou/7255398",
+      "source": "both"
+    },
+    {
+      "itemCode": "kurashikenkou/7269456",
+      "source": "audit"
+    },
+    {
+      "itemCode": "kurashikenkou/7276048",
+      "source": "both"
+    },
+    {
+      "itemCode": "kurosu/10014271",
+      "source": "both"
+    },
+    {
+      "itemCode": "kweg/magico_drainnetholder",
+      "source": "both"
+    },
+    {
+      "itemCode": "latuna/10000010-1",
+      "source": "both"
+    },
+    {
+      "itemCode": "le-cure/im-kibami",
+      "source": "both"
+    },
+    {
+      "itemCode": "lensget/amsoco300t-2",
+      "source": "both"
+    },
+    {
+      "itemCode": "lgcity/petsheets",
+      "source": "both"
+    },
+    {
+      "itemCode": "lgo-2023/4987176321565",
+      "source": "audit"
+    },
+    {
+      "itemCode": "life-life/mask120kf",
+      "source": "both"
+    },
+    {
+      "itemCode": "lifedesignstore/cg-0003",
+      "source": "both"
+    },
+    {
+      "itemCode": "logosshop/lgs94499",
+      "source": "both"
+    },
+    {
+      "itemCode": "mahou-soap/381899",
+      "source": "both"
+    },
+    {
+      "itemCode": "mamababy/7252901",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "manyo-official/ma105",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "maru-mall/14221",
+      "source": "audit"
+    },
+    {
+      "itemCode": "maru-mall/4731",
+      "source": "both"
+    },
+    {
+      "itemCode": "marubeni-pps/fleur200w_out",
+      "source": "both"
+    },
+    {
+      "itemCode": "marubeni-pps/jyokin80-12set",
+      "source": "both"
+    },
+    {
+      "itemCode": "matsuyoshi-web/og028",
+      "source": "both"
+    },
+    {
+      "itemCode": "maxshare/a10077",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "mecu/shock-hl",
+      "source": "both"
+    },
+    {
+      "itemCode": "mine-waribashi/31-130",
+      "source": "both"
+    },
+    {
+      "itemCode": "mishii-list/babyborn",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "naka-store/k4",
+      "source": "both"
+    },
+    {
+      "itemCode": "narushop/vl-8",
+      "source": "both"
+    },
+    {
+      "itemCode": "naturalcosmetic/10000888",
+      "source": "both"
+    },
+    {
+      "itemCode": "naturalcosmetic/456840",
+      "source": "both"
+    },
+    {
+      "itemCode": "neo-lifestyle/bmt001",
+      "source": "both"
+    },
+    {
+      "itemCode": "newbigace/compass1717137133",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "nyanzaq/mtm0061",
+      "source": "both"
+    },
+    {
+      "itemCode": "ogawahan/10008119",
+      "source": "both"
+    },
+    {
+      "itemCode": "onemakem/10000085",
+      "source": "both"
+    },
+    {
+      "itemCode": "onestep0104/ichikami-smth",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "pawasapo/nf-100",
+      "source": "both"
+    },
+    {
+      "itemCode": "penroom/parker0028",
+      "source": "both"
+    },
+    {
+      "itemCode": "petnext/g360061",
+      "source": "both"
+    },
+    {
+      "itemCode": "petnext/onlyone_re1",
+      "source": "both"
+    },
+    {
+      "itemCode": "petworldone/1886612",
+      "source": "both"
+    },
+    {
+      "itemCode": "platanusstore/4987176234766",
+      "source": "both"
+    },
+    {
+      "itemCode": "platanusstore/4987176336330",
+      "source": "audit"
+    },
+    {
+      "itemCode": "que-bath/100000022",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "que-bath/10000082",
+      "source": "both"
+    },
+    {
+      "itemCode": "r1-shop/csd-2",
+      "source": "both"
+    },
+    {
+      "itemCode": "rakuten24/404792",
+      "source": "both"
+    },
+    {
+      "itemCode": "rakuten24/404960",
+      "source": "both"
+    },
+    {
+      "itemCode": "rakuten24/405199",
+      "source": "both"
+    },
+    {
+      "itemCode": "rakutensokuhaimart/4901301416001",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "rakutensokuhaimart/4901301423443",
+      "source": "both"
+    },
+    {
+      "itemCode": "rice-akita/1000000130",
+      "source": "both"
+    },
+    {
+      "itemCode": "ru-collagen/ovosample",
+      "source": "both"
+    },
+    {
+      "itemCode": "safe/580481",
+      "source": "both"
+    },
+    {
+      "itemCode": "sakurap/10008554",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "sara-style/m-c-lt-081",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "saraya-cs/handlabhand",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "sasaya-halo/compass1775955499",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "satoiku/saranwrap_30_30",
+      "source": "both"
+    },
+    {
+      "itemCode": "sevensails/sruwhb12p2p1198636157",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "shizaicom-rt/10000858",
+      "source": "both"
+    },
+    {
+      "itemCode": "shizenshop/shiroewhitening",
+      "source": "both"
+    },
+    {
+      "itemCode": "shoppress/crossn882",
+      "source": "both"
+    },
+    {
+      "itemCode": "skindesign/vt-pro-cica-patch",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "sourire-f/wasara-bowl",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "sozolife/serulousu-2p-white",
+      "source": "both"
+    },
+    {
+      "itemCode": "store-marufuku/adaq-a76076",
+      "source": "both"
+    },
+    {
+      "itemCode": "suishodo-pharma/4987314009041",
+      "source": "both"
+    },
+    {
+      "itemCode": "suisosum-shop/hakusui",
+      "source": "both"
+    },
+    {
+      "itemCode": "sup-s-r/r20250207-curel-3",
+      "source": "both"
+    },
+    {
+      "itemCode": "supplement-life/100pol1",
+      "source": "both"
+    },
+    {
+      "itemCode": "supplement-life/ps-100",
+      "source": "audit"
+    },
+    {
+      "itemCode": "suzu-onlineshop/2255-001097",
+      "source": "both"
+    },
+    {
+      "itemCode": "taigu188/simple_toilet",
+      "source": "both"
+    },
+    {
+      "itemCode": "tamago-kichi/newmovactory",
+      "source": "both"
+    },
+    {
+      "itemCode": "tea-life/93366",
+      "source": "both"
+    },
+    {
+      "itemCode": "tenkapas/glove001",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "the-beautopia/20094-025",
+      "source": "both"
+    },
+    {
+      "itemCode": "tokyohiromi/mkdj-easycs60",
+      "source": "both"
+    },
+    {
+      "itemCode": "tomcat/ar601010",
+      "source": "both"
+    },
+    {
+      "itemCode": "trinity-cosme/san350532x1",
+      "source": "both"
+    },
+    {
+      "itemCode": "tsurunishi/905b01n0bsytw",
+      "source": "both"
+    },
+    {
+      "itemCode": "tsurunishi/905b072wnfzkl",
+      "source": "priceMax"
+    },
+    {
+      "itemCode": "tsurunishi/905b07gkxh2ss",
+      "source": "both"
+    },
+    {
+      "itemCode": "tsurunishi/90xb079s1wb7s",
+      "source": "both"
+    },
+    {
+      "itemCode": "tv-ya/hibanonnon-a-2-p",
+      "source": "both"
+    },
+    {
+      "itemCode": "u-denki/7256844",
+      "source": "audit"
+    },
+    {
+      "itemCode": "unidy/107933",
+      "source": "both"
+    },
+    {
+      "itemCode": "valueprice/disposalbag",
+      "source": "audit"
+    },
+    {
+      "itemCode": "virginbeautyshop/ta-the-sp",
+      "source": "audit"
+    },
+    {
+      "itemCode": "waste/8451-1",
+      "source": "both"
+    },
+    {
+      "itemCode": "weiwei/bwm2yp50",
+      "source": "both"
+    },
+    {
+      "itemCode": "weiwei/bwm8yp",
+      "source": "both"
+    },
+    {
+      "itemCode": "whithwhite/906b071gypvwv",
+      "source": "both"
+    },
+    {
+      "itemCode": "whithwhite/906b07qzwqjrm",
+      "source": "both"
+    },
+    {
+      "itemCode": "xins-honatsugi/200000024",
+      "source": "both"
+    },
+    {
+      "itemCode": "yamayuu/ubs-1",
+      "source": "both"
+    },
+    {
+      "itemCode": "ymsk/597910",
+      "source": "both"
+    },
+    {
+      "itemCode": "yuyanotemiyage/27040004-30",
+      "source": "both"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+---
+// 価格レポートの一覧（計画書6 §3.3）。アフィリエイトリンクを置かない
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Container from "../../components/layout/Container.astro";
+import JsonLd from "../../components/seo/JsonLd.astro";
+import { SITE, url } from "../../lib/site";
+
+const issues = [
+  {
+    href: "/price-report/2026-10/",
+    label: "2026年10月号",
+    title: "日用品の価格の動き 2026年5〜9月",
+    summary:
+      "掲載商品の楽天市場の表示価格を、同じ商品どうしの前月比でつないだ指数にまとめた第1号。グループ別の動き、容量の表記の変化、総務省 消費者物価指数との並置。",
+  },
+];
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "ホーム", item: `${SITE.url}/` },
+    { "@type": "ListItem", position: 2, name: "価格レポート", item: `${SITE.url}/price-report/` },
+  ],
+};
+---
+
+<BaseLayout
+  title="日用品の価格レポート"
+  description="暮らセレクトが比較のために記録している日用品の価格データを集計し、価格の動きを毎号まとめるレポートの一覧です。データの取り方と限界は方法論のページで公開しています。"
+>
+  <JsonLd slot="head" data={jsonLd} />
+  <Container class="py-10 md:py-14 max-w-3xl">
+    <nav aria-label="パンくずリスト" class="mb-4">
+      <ol class="flex items-center gap-1.5 text-sm text-[var(--color-text-sub)]">
+        <li><a href={url("/")} class="hover:text-[var(--color-primary)]">ホーム</a></li>
+        <li aria-hidden="true" class="text-[var(--color-border)]">/</li>
+        <li class="text-[var(--color-text)] font-medium">価格レポート</li>
+      </ol>
+    </nav>
+
+    <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)]">日用品の価格レポート</h1>
+    <div class="mt-4 space-y-3 text-[var(--color-text)] leading-relaxed">
+      <p>
+        暮らセレクトでは、比較記事に載せている日用品の価格を毎週を目安に記録しています。このレポートでは、その記録を集計して「同じ商品の値段がどう動いたか」をまとめています。
+      </p>
+      <p class="text-sm text-[var(--color-text-sub)]">
+        対象は当サイトが比較のために選んだ商品の表示価格（ポイント・クーポン・送料を含まない）で、日本の物価全体を表すものではありません。公開した号の数値は後から書き換えません。
+      </p>
+    </div>
+
+    <ul class="mt-8 space-y-4">
+      {
+        issues.map((i) => (
+          <li class="border border-[var(--color-border)] rounded-xl p-5 bg-[var(--color-surface)]">
+            <p class="text-xs text-[var(--color-text-sub)]">{i.label}</p>
+            <a href={url(i.href)} class="text-lg font-bold text-[var(--color-text)] hover:text-[var(--color-primary)]">
+              {i.title}
+            </a>
+            <p class="text-sm text-[var(--color-text-sub)] mt-1">{i.summary}</p>
+          </li>
+        ))
+      }
+    </ul>
+
+    <p class="mt-8 text-sm">
+      <a href={url("/price-report/methodology/")} class="text-[var(--color-primary)] hover:underline">データの取り方・集計方法・限界（方法論）</a>
+    </p>
+  </Container>
+</BaseLayout>

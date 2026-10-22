@@ -1,0 +1,330 @@
+---
+// 日用品価格レポート 第1号（計画書6 §3.3）。
+// アフィリエイトリンク・RakutenLink・AffiliateLink・StickyCta を置かない（build 後の check-price-report-dist.mjs が検査する）。
+// 数値は集計済み JSON（as-of 固定）から読む。本文に書いた数値は「比較日・対象・出典を伴う断定」（§5.0.1 の許容範囲）。
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Container from "../../../components/layout/Container.astro";
+import JsonLd from "../../../components/seo/JsonLd.astro";
+import LineChart from "../../../components/report/LineChart.astro";
+import SmallMultiples from "../../../components/report/SmallMultiples.astro";
+import DataTable from "../../../components/report/DataTable.astro";
+import { getCollection } from "astro:content";
+import { SITE, url } from "../../../lib/site";
+import {
+  monthLabel,
+  partialLabel,
+  toPoints,
+  toPartialPoint,
+  xLabelsOf,
+  rebase,
+  changePct,
+} from "../../../lib/price-report-view";
+import report from "../../../../data/price-report/2026-10-11.json";
+import cpi from "../../../../data/price-report/cpi-2026-10.json";
+import links from "../../../../data/price-report/links-2026-10.json";
+
+/** 公開日（手順11 のデプロイ当日に合わせる） */
+const PUBLISHED = "2026-10-23";
+const ISSUE = "2026-10";
+
+const rakuten = report.providers.find((p) => p.provider === "rakuten")!;
+const yahoo = report.providers.find((p) => p.provider === "yahoo")!;
+const asOf = report.asOf;
+const asOfJa = `${Number(asOf.slice(5, 7))}月${Number(asOf.slice(8, 10))}日`;
+
+const months = rakuten.index.months;
+const lastMonth = months[months.length - 1];
+const xLabels = xLabelsOf(months, rakuten.index.partial);
+const overallChange = changePct(100, lastMonth.index);
+const pairsMin = Math.min(...months.slice(1).map((m) => m.pairs));
+const pairsMax = Math.max(...months.slice(1).map((m) => m.pairs));
+
+// グループ: 5〜9月の各月で pairs ≥ minGroupPairs のものだけ図に出す（§3.2）
+const minGroupPairs = report.params.minGroupPairs;
+const groupsShown = rakuten.groups
+  .filter((g) => g.months.every((m) => m.index != null && m.pairs >= minGroupPairs))
+  .map((g) => ({ ...g, change: changePct(100, g.months[g.months.length - 1].index) }));
+const groupsSorted = [...groupsShown].sort((a, b) => (b.change ?? 0) - (a.change ?? 0));
+const allGroupValues = groupsShown.flatMap((g) => [...g.months.map((m) => m.index), g.partial?.index]).filter(
+  (v): v is number => v != null,
+);
+const gMin = Math.floor(Math.min(100, ...allGroupValues)) - 1;
+const gMax = Math.ceil(Math.max(100, ...allGroupValues)) + 1;
+const groupById = new Map(groupsShown.map((g) => [g.id, g]));
+
+// CPI（5月＝100 に置き直して並べる）
+const baseMonth = report.baseMonth;
+const cpiItem = (code: string) => cpi.items.find((i) => i.code === code)!;
+const cpiHousehold = rebase(cpiItem("0077").values, baseMonth);
+const cpiLast = cpi.source.latestMonth;
+const cpiMonths = months.filter((m) => m.month <= cpiLast);
+const cpiLastJa = `${Number(cpiLast.slice(5, 7))}月`;
+const cpiPublishedJa = `${Number(cpi.source.publishedAt.slice(5, 7))}月${Number(cpi.source.publishedAt.slice(8, 10))}日`;
+const ourAtCpiLast = months.find((m) => m.month === cpiLast)?.index ?? null;
+const cpiRows = cpi.items
+  .filter((i) => i.group != null)
+  .map((i) => {
+    const g = groupById.get(i.group!);
+    const ours = g?.months.find((m) => m.month === cpiLast)?.index ?? null;
+    return {
+      name: i.name,
+      group: g?.label ?? "—",
+      cpiChange: changePct(i.values[baseMonth as keyof typeof i.values], i.values[cpiLast as keyof typeof i.values]),
+      oursChange: changePct(100, ours),
+    };
+  });
+
+// 値下がり系列の割合
+const shares = rakuten.discountShare.filter((d) => d.share != null && d.eligible >= 100);
+const maxShare = shares.reduce((a, b) => ((b.share ?? 0) > (a.share ?? 0) ? b : a));
+const sharesBelow2 = shares.filter((d) => (d.share ?? 0) < 0.02).length;
+
+// 容量の変化
+const cap = rakuten.capacityChanges;
+const capTotal = cap.items.length;
+const capSamePrice = cap.items.filter((c) => Math.abs(c.priceAfter / c.priceBefore - 1) <= 0.03).length;
+
+// リンク先（links-2026-10.json を通したものだけ）
+const categories = await getCollection("categories");
+const catName = new Map(categories.map((c) => [c.id, c.data.name]));
+const catLinks = links.categories.map((slug) => ({ slug, name: catName.get(slug) ?? slug }));
+
+const title = "日用品の価格の動き 2026年5〜9月｜価格レポート";
+const description = `当サイトが比較のために定点観測している楽天市場の日用品${rakuten.coverage.months.find((m) => m.month === lastMonth.month)?.series ?? ""}系列の表示価格を、同じ商品どうしの前月比でつないだ指数にまとめました。2026年5月を100として9月は${lastMonth.index}。総務省の消費者物価指数と並べています。`;
+
+const pageUrl = `${SITE.url}/price-report/${ISSUE}/`;
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: "日用品の価格の動き 2026年5〜9月",
+    description,
+    url: pageUrl,
+    datePublished: PUBLISHED,
+    dateModified: PUBLISHED,
+    author: { "@type": "Person", "@id": `${SITE.url}/about/#person`, name: "ゆきんこ", url: `${SITE.url}/about/` },
+    publisher: { "@type": "Organization", name: SITE.nameJa, url: SITE.url },
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "ホーム", item: `${SITE.url}/` },
+      { "@type": "ListItem", position: 2, name: "価格レポート", item: `${SITE.url}/price-report/` },
+      { "@type": "ListItem", position: 3, name: "2026年10月号", item: pageUrl },
+    ],
+  },
+];
+
+const fmtPct = (v: number | null) => (v == null ? "—" : `${v > 0 ? "+" : ""}${v.toFixed(1)}%`);
+---
+
+<BaseLayout title={title} description={description} ogType="article">
+  <JsonLd slot="head" data={jsonLd} />
+
+  <Container class="py-10 md:py-14 max-w-3xl">
+    <nav aria-label="パンくずリスト" class="mb-4">
+      <ol class="flex flex-wrap items-center gap-1.5 text-sm text-[var(--color-text-sub)]">
+        <li><a href={url("/")} class="hover:text-[var(--color-primary)]">ホーム</a></li>
+        <li aria-hidden="true" class="text-[var(--color-border)]">/</li>
+        <li><a href={url("/price-report/")} class="hover:text-[var(--color-primary)]">価格レポート</a></li>
+        <li aria-hidden="true" class="text-[var(--color-border)]">/</li>
+        <li class="text-[var(--color-text)] font-medium">2026年10月号</li>
+      </ol>
+    </nav>
+
+    <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)]">日用品の価格の動き 2026年5〜9月</h1>
+    <p class="text-sm text-[var(--color-text-sub)] mt-2">
+      暮らセレクト価格レポート 第1号 ／ データは{asOfJa}取得分まで ／ 公開 {PUBLISHED.replace(/-/g, "/")}
+    </p>
+    <p class="text-sm text-[var(--color-text-sub)] mt-1">
+      対象は当サイトが比較のために選んだ商品の<strong>楽天市場の表示価格</strong>です。日本の日用品の物価全体を表すものではありません。ポイント還元・クーポン・送料は含みません。
+    </p>
+
+    <div class="space-y-12 mt-10 text-[var(--color-text)] leading-relaxed">
+      <section>
+        <h2 class="text-xl font-bold mb-3">要点</h2>
+        <ul class="list-disc pl-5 space-y-2">
+          <li>
+            同じ商品どうしの前月比をつないだ指数は、2026年5月を100として9月に<strong>{lastMonth.index}</strong>（{fmtPct(overallChange)}）。毎月少しずつ上がっていますが、1か月の上げ幅は1%未満です。
+          </li>
+          <li>
+            グループ別では「{groupsSorted[0].label}」の上昇が最も大きく（{fmtPct(groupsSorted[0].change)}）、「{groupsSorted[groupsSorted.length - 1].label}」だけが下がりました（{fmtPct(groupsSorted[groupsSorted.length - 1].change)}）。
+          </li>
+          <li>
+            総務省の消費者物価指数（CPI）の「家事用消耗品」は、同じく5月を100に置き直すと{cpiLastJa}に{cpiHousehold[cpiLast]}で、当サイトの指数（{cpiLastJa} {ourAtCpiLast}）より大きく上がっています。対象・集め方が違うので、どちらが正しいという話ではありません。
+          </li>
+          <li>
+            同じ出品で内容量だけが減った例（いわゆる実質値上げ）は、この期間の観測でははっきりとは確認できませんでした。
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">全体の指数</h2>
+        <p class="mb-4">
+          当サイトでは、比較記事に載せている商品の価格を毎週を目安に記録しています。掲載商品は入れ替わりが多く、5月にあった商品の多くは秋までに別の商品へ入れ替わっています。そのため「5月の平均と9月の平均」を比べると、商品の入れ替えの影響が混ざってしまいます。そこで、<strong>隣り合う2か月の両方に価格がある商品だけ</strong>で前月比を取り、それを掛け合わせて指数にしました（毎月の比較商品数は{pairsMin}〜{pairsMax}系列）。
+        </p>
+        <LineChart
+          id="overall"
+          title="楽天市場・Yahoo!ショッピングの掲載商品の価格指数（2026年5月＝100）"
+          desc={`楽天は${months.map((m) => `${monthLabel(m.month)} ${m.index}`).join("、")}。Yahoo!ショッピングは${yahoo.index.months.map((m) => `${monthLabel(m.month)} ${m.index}`).join("、")}。${partialLabel(rakuten.index.partial!)}は途中経過。`}
+          xLabels={xLabels}
+          series={[
+            { label: "楽天市場", slot: 1, points: toPoints(months), partial: toPartialPoint(rakuten.index.partial) },
+            {
+              label: "Yahoo!（参考）",
+              slot: 2,
+              points: toPoints(yahoo.index.months),
+              partial: yahoo.index.partial?.month === rakuten.index.partial?.month ? { x: partialLabel(rakuten.index.partial!), y: yahoo.index.partial?.index ?? null } : null,
+            },
+          ]}
+          unit=""
+        />
+        <p class="text-xs text-[var(--color-text-sub)] mt-2">
+          点線と白抜きの点は{partialLabel(rakuten.index.partial!)}の途中経過です（前月の月全体と比べた暫定値で、次号で月全体の値に置き換えます）。Yahoo!ショッピングは店も価格の付け方も違うため楽天と混ぜずに別に計算し、参考として並べています。
+        </p>
+        <DataTable
+          caption="月別の指数と比較系列数（楽天市場）"
+          columns={["月", "指数", "比較系列数", "取得日数"]}
+          rows={[
+            ...months.map((m) => [monthLabel(m.month), m.index, String(m.pairs), String(m.captureDays)]),
+            ...(rakuten.index.partial
+              ? [[partialLabel(rakuten.index.partial), rakuten.index.partial.index, String(rakuten.index.partial.pairs), String(rakuten.index.partial.captureDays)]]
+              : []),
+          ]}
+        />
+        <p class="mt-4">
+          5か月で約{overallChange}%という動きは、店頭の値札で感じる値上がりと比べると小さく見えるかもしれません。ただし、これは「同じ出品が同じ値段で売られ続けたか」を見た数字です。当サイトの比較記事は容量あたりの安い商品を選び直しているため、値上がりした商品が途中で比較から外れると、その商品の値上がりはこの指数に入らなくなります。この点は後半の「この分析の限界」で詳しく触れます。
+        </p>
+      </section>
+
+      {
+        groupsShown.length >= 3 && (
+          <section>
+            <h2 class="text-xl font-bold mb-3">グループ別の指数</h2>
+            <p class="mb-4">
+              カテゴリを{groupsShown.length}つのグループにまとめて、同じ方法で指数を出しました。縦軸の範囲はすべて同じにそろえています。比較系列数が少ないグループほど、1商品の値動きで線が大きく振れます（各グラフの下に比較系列数を書いています）。
+            </p>
+            <SmallMultiples
+              idPrefix="group"
+              xLabels={xLabels}
+              yMin={gMin}
+              yMax={gMax}
+              items={groupsShown.map((g) => ({
+                id: g.id,
+                label: g.label,
+                points: toPoints(g.months),
+                partial: toPartialPoint(g.partial),
+                note: `9月 ${g.months[g.months.length - 1].index}（${fmtPct(g.change)}）・比較系列数 ${Math.min(...g.months.slice(1).map((m) => m.pairs))}〜${Math.max(...g.months.slice(1).map((m) => m.pairs))}`,
+              }))}
+            />
+            <DataTable
+              caption="グループ別の指数（楽天市場・2026年5月＝100）"
+              columns={["グループ", ...months.map((m) => monthLabel(m.month)), partialLabel(rakuten.index.partial!)]}
+              rows={groupsShown.map((g) => [g.label, ...g.months.map((m) => m.index), g.partial?.index ?? null])}
+            />
+            <p class="mt-4">
+              上がり幅が最も大きかったのは「{groupsSorted[0].label}」で、7月以降に上げ幅が広がっています。洗濯洗剤や食器用洗剤は、CPI でも同じ時期に上がっている品目です。一方で「食品・飲料」は下がりました。このグループにはお米が含まれ、CPI の「うるち米」も5月から下がり続けています。ただし食品・飲料の比較系列数は{Math.min(...(groupById.get("food")?.months.slice(1).map((m) => m.pairs) ?? [0]))}〜{Math.max(...(groupById.get("food")?.months.slice(1).map((m) => m.pairs) ?? [0]))}と少なく、数商品の値下げで動く幅です。
+            </p>
+          </section>
+        )
+      }
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">総務省 消費者物価指数（CPI）と並べる</h2>
+        <p class="mb-4">
+          CPI は全国の小売価格を、品目ごとに決まった銘柄で調べた公的な統計です。当サイトの指数と比べやすいように、どちらも2026年5月を100に置き直して並べました。CPI は翌月下旬の公表なので、{asOfJa}時点で取れるのは{cpiLastJa}分まで（{cpiPublishedJa}公表）です。
+        </p>
+        <LineChart
+          id="cpi"
+          title="当サイトの指数とCPI「家事用消耗品」（2026年5月＝100）"
+          desc={`当サイト（楽天）は${cpiMonths.map((m) => `${monthLabel(m.month)} ${m.index}`).join("、")}。CPI 家事用消耗品は${Object.entries(cpiHousehold).map(([m, v]) => `${monthLabel(m)} ${v}`).join("、")}。`}
+          xLabels={cpiMonths.map((m) => monthLabel(m.month))}
+          series={[
+            { label: "当サイト（楽天）", slot: 1, points: toPoints(cpiMonths) },
+            { label: "CPI 家事用消耗品", slot: 2, points: cpiMonths.map((m) => ({ x: monthLabel(m.month), y: cpiHousehold[m.month] ?? null })) },
+          ]}
+        />
+        <p class="text-xs text-[var(--color-text-sub)] mt-2">
+          CPI は{cpiLastJa}分まで（{cpiPublishedJa}公表）。出典: 総務省統計局「2025年基準 消費者物価指数」第4-1表 品目別価格指数（全国）。{cpi.source.accessedAt.replace(/-/g, "/")}取得。5月＝100 への置き直しは当サイトによる。
+        </p>
+        <DataTable
+          open
+          summary="品目別の比較（表）"
+          caption={`5月→${cpiLastJa}の変化率。CPI は品目、当サイトはその品目を含むグループ全体の値`}
+          columns={["CPI の品目", "CPI", "当サイトのグループ", "当サイト"]}
+          rows={cpiRows.map((r) => [r.name, fmtPct(r.cpiChange), r.group, fmtPct(r.oursChange)])}
+        />
+        <p class="mt-4">
+          CPI では、トイレットペーパーやティッシュペーパー、洗濯用洗剤などが7〜8月にはっきり上がっています。当サイトの指数にも同じ向きの動きはありますが、幅はずっと小さいままです。このデータだけでは理由を言い切れませんが、次のような違いが考えられます。
+        </p>
+        <ul class="list-disc pl-5 space-y-1 mt-2">
+          <li>CPI は品目ごとに決まった銘柄を調べるのに対し、当サイトは楽天市場の通販価格で、まとめ買いの大容量品が多い</li>
+          <li>当サイトの比較記事は容量あたりの安い商品を選び直すので、値上がりした商品が比較から外れやすい（指数に入らなくなる）</li>
+          <li>当サイトはグループに複数の品目をまとめており、品目どうしの重み付けもしていない</li>
+        </ul>
+        <p class="mt-2">ここでは2つを並べるだけにとどめ、どちらかで他方を説明することはしません。</p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">容量の変化</h2>
+        <p>
+          同じ出品のまま内容量の表記が変わった件数を数えました（楽天市場・{capTotal}件）。このうち{capSamePrice}件は価格が変わらないまま表記だけが変わったもので、日付の多くが当サイトで容量の表記をまとめて直した日（5月23日・6月9日・9月3日など）と重なります。「12個入」が「3個」になるような、増減の向きもまちまちな変化が大半で、多くは商品が変わったのではなく<strong>当サイト側の表記の修正</strong>と見られます。
+        </p>
+        <p class="mt-3">
+          表記の修正と区別できる形で、同じ出品の値段はそのまま内容量だけが減った例（いわゆる実質値上げ）は、この5か月の観測でははっきりとは確認できませんでした。ただ、メーカーが中身を減らすときは商品コードや出品ごと切り替わることが多く、その場合は「別の商品」として扱われるため、この方法では見つけられません。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">値下がりしていた商品の割合</h2>
+        <p>
+          観測日ごとに、その商品の直近28日の中央値より10%以上安くなっていた商品の割合も数えました。ほとんどの日で2%未満（{shares.length}日のうち{sharesBelow2}日）で、最も高かったのは{Number(maxShare.date.slice(5, 7))}月{Number(maxShare.date.slice(8, 10))}日の{((maxShare.share ?? 0) * 100).toFixed(1)}%でした。記録は週1回程度なので、数日だけのセールは取りこぼしています。また、半額以上の値下がりは取得の不具合と区別できないため集計から外しており、この割合は控えめに出ています。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">買い物のときに役立ちそうなこと</h2>
+        <ul class="list-disc pl-5 space-y-2">
+          <li>
+            <strong>容量あたりの単価で比べる。</strong>値段が変わらなくても、同じ出品で選択肢（セット数）が切り替わることが今回の観測でも何度もありました。総額だけを見ていると気づきにくい変化です。
+          </li>
+          <li>
+            <strong>値上がりは「全部が少しずつ」ではない。</strong>グループごとに上がり方がかなり違いました。値上がりが気になる品目は、別の銘柄や別の容量に乗り換えると影響を抑えられることがあります。
+          </li>
+          <li>
+            <strong>表示価格がすべてではない。</strong>この分析はポイント還元・クーポン・送料を含んでいません。実際の支払額は、購入時の条件で変わります。
+          </li>
+        </ul>
+        <p class="mt-4 text-sm">
+          品目ごとの比較は、各カテゴリのページから見られます:
+          {
+            catLinks.map((c, i) => (
+              <>
+                {i > 0 && "・"}
+                <a href={url(`/category/${c.slug}/`)} class="text-[var(--color-primary)] hover:underline">
+                  {c.name}
+                </a>
+              </>
+            ))
+          }
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">この分析の限界</h2>
+        <ul class="list-disc pl-5 space-y-1">
+          <li>対象は当サイトが比較のために選んだ商品だけで、売れ筋の代表でも、日本の日用品全体でもありません</li>
+          <li>商品の入れ替えが多く、値上がりした商品が比較から外れると指数に入りません（上がり幅を小さく見せる方向に働きます）</li>
+          <li>記録は週1回程度で間隔も一定ではありません。数日間のセールは取りこぼします</li>
+          <li>価格の記録には、セット数の取り違えなどの不具合が含まれる時期があります。明らかな外れは集計から除いていますが、すべては除けません</li>
+          <li>ポイント還元・クーポン・送料は含みません</li>
+        </ul>
+        <p class="mt-3">
+          データの取り方・集計の手順・除外の基準は<a href={url("/price-report/methodology/")} class="text-[var(--color-primary)] hover:underline">方法論のページ</a>にまとめています。月×グループの指数は<a href={url("/price-report/2026-10/index.csv")} class="text-[var(--color-primary)] hover:underline">CSV</a>でも配布しています。
+        </p>
+      </section>
+    </div>
+  </Container>
+</BaseLayout>

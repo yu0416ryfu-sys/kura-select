@@ -1,0 +1,155 @@
+---
+// 価格レポートの方法論（計画書6 §3.3）。数値は最新号の集計済み JSON から読む。アフィリエイトリンクを置かない
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Container from "../../components/layout/Container.astro";
+import JsonLd from "../../components/seo/JsonLd.astro";
+import DataTable from "../../components/report/DataTable.astro";
+import { SITE, url } from "../../lib/site";
+import { monthLabel } from "../../lib/price-report-view";
+import report from "../../../data/price-report/2026-10-11.json";
+import groupsDoc from "../../../data/price-report/category-groups.json";
+import { getCollection } from "astro:content";
+
+const rakuten = report.providers.find((p) => p.provider === "rakuten")!;
+const yahoo = report.providers.find((p) => p.provider === "yahoo")!;
+const p = report.params;
+const categories = await getCollection("categories");
+const catName = new Map(categories.map((c) => [c.id, c.data.name]));
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "ホーム", item: `${SITE.url}/` },
+    { "@type": "ListItem", position: 2, name: "価格レポート", item: `${SITE.url}/price-report/` },
+    { "@type": "ListItem", position: 3, name: "方法論", item: `${SITE.url}/price-report/methodology/` },
+  ],
+};
+const pct = (v: number | null) => (v == null ? "—" : `${(v * 100).toFixed(1)}%`);
+---
+
+<BaseLayout
+  title="価格レポートの方法論｜データの取り方と限界"
+  description="暮らセレクトの日用品価格レポートで使うデータの取り方、連鎖指数の計算方法、取得不具合の除外基準、分析の限界、集計CSVの利用条件をまとめています。"
+>
+  <JsonLd slot="head" data={jsonLd} />
+  <Container class="py-10 md:py-14 max-w-3xl">
+    <nav aria-label="パンくずリスト" class="mb-4">
+      <ol class="flex flex-wrap items-center gap-1.5 text-sm text-[var(--color-text-sub)]">
+        <li><a href={url("/")} class="hover:text-[var(--color-primary)]">ホーム</a></li>
+        <li aria-hidden="true" class="text-[var(--color-border)]">/</li>
+        <li><a href={url("/price-report/")} class="hover:text-[var(--color-primary)]">価格レポート</a></li>
+        <li aria-hidden="true" class="text-[var(--color-border)]">/</li>
+        <li class="text-[var(--color-text)] font-medium">方法論</li>
+      </ol>
+    </nav>
+
+    <h1 class="text-2xl md:text-3xl font-bold text-[var(--color-text)]">価格レポートの方法論</h1>
+    <p class="text-sm text-[var(--color-text-sub)] mt-2">
+      数値は第1号（{report.asOf.replace(/-/g, "/")} 取得分まで）の集計に基づきます。
+    </p>
+
+    <div class="space-y-10 mt-8 text-[var(--color-text)] leading-relaxed">
+      <section>
+        <h2 class="text-xl font-bold mb-3">データの取り方</h2>
+        <ul class="list-disc pl-5 space-y-1">
+          <li>比較記事に掲載している商品の価格を、楽天市場・Yahoo!ショッピングの公開 API から毎週を目安に取得して記録しています（取得日は不規則で、最大 {rakuten.coverage.maxGapDays} 日あいた期間があります）</li>
+          <li>記録の開始前の価格は、比較記事の更新履歴から復元しています</li>
+          <li>価格は表示価格です。ポイント還元・クーポン・送料は含みません</li>
+          <li>対象の商品は「単位あたりで安い商品を比べる」という当サイトの目的で選んだもので、売れ筋の代表でも、無作為の標本でもありません</li>
+        </ul>
+        <DataTable
+          caption="月別の系列数・取得日数・前月からの継続率（楽天市場・除外後）"
+          columns={["月", "系列数", "取得日数", "前月からの継続率"]}
+          rows={rakuten.coverage.months.map((m) => [monthLabel(m.month), String(m.series), String(m.captureDays), pct(m.retentionRate)])}
+        />
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">指数の計算方法</h2>
+        <ol class="list-decimal pl-5 space-y-2">
+          <li>「記事 × 商品 × 店（楽天／Yahoo!）」を1つの系列とし、系列ごと・月ごとに価格の中央値を取ります（週1回程度の記録の偏りをならすため）</li>
+          <li>隣り合う2か月の両方に価格がある系列だけで前月比を取り、その幾何平均を前月比とします（ジェボンズ型）</li>
+          <li>{monthLabel(report.baseMonth)}を100として前月比を掛け合わせます（連鎖指数）。4月は取得が2日だけなので使いません</li>
+          <li>比較できる系列が {p.minPairs} 未満（グループ別は {p.minGroupPairs} 未満）の月、取得日が {p.minCaptureDays} 日未満の月は値を出さず、<strong>それ以降の月も出しません</strong>（基準を取り直して再開すると、前後の数字が比べられなくなるため）</li>
+          <li>最新の月は月の途中までしかないので本線に入れず、前月の月全体と比べた「途中経過」として別に示します</li>
+          <li>楽天と Yahoo!ショッピングは混ぜずに別々に計算します</li>
+        </ol>
+        <p class="mt-3">
+          入れ替わった商品を平均に混ぜると、値段の違う商品への入れ替えが値動きのように見えてしまいます。連鎖指数はこれを避けるための方法ですが、「値上がりした商品が比較から外れる」影響（下記の限界）は残ります。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">取得の不具合の除外</h2>
+        <p>
+          価格の記録には、セット数の判定の誤りなどで、容量の表記と合わない価格が入った時期があります。元の記録は書き換えず、集計のときに次の3段階で外しています。
+        </p>
+        <ol class="list-decimal pl-5 space-y-2 mt-3">
+          <li>
+            <strong>価格帯（選択式）の出品を系列ごと外す</strong>（楽天のみ）: 1つの出品に「10個セット」「12個セット」などの選択肢があると、どの選択肢の価格かが分からないためです。楽天 {rakuten.cleaning.priceRange.excludedSeries} 系列を外しました
+          </li>
+          <li>
+            <strong>前後と大きく食い違う観測を外す</strong>: 前後3回ずつの中央値に対して {p.suspectLow} 倍未満か {p.suspectHigh} 倍超の観測、および同じ倍率で上がって {p.levelShiftMaxDays} 日以内に元へ戻る段差を外します。外した観測のうち、倍率が整数倍に近いもの（セット数の誤判定型）とそれ以外（原因不明型）を分けて数えています
+          </li>
+          <li>
+            <strong>個別に判断して外す</strong>: 元に戻らない段差のうち、容量の表記が変わらないまま価格がちょうど整数倍（または整数分の1）になったものは、セット数の誤判定と判断して以後の観測を外しています（楽天 {rakuten.cleaning.manual.observations}・Yahoo! {yahoo.cleaning.manual.observations} 観測）
+          </li>
+        </ol>
+        <DataTable
+          caption="除外した件数"
+          columns={["", "楽天市場", "Yahoo!"]}
+          rows={[
+            ["価格帯の出品（系列）", String(rakuten.cleaning.priceRange.excludedSeries), "対象外"],
+            ["単発の外れ・誤判定型（観測）", String(rakuten.cleaning.suspect.setMultiple), String(yahoo.cleaning.suspect.setMultiple)],
+            ["単発の外れ・原因不明型（観測）", String(rakuten.cleaning.suspect.unknown), String(yahoo.cleaning.suspect.unknown)],
+            ["戻る段差（観測）", String(rakuten.cleaning.levelShift.observations), String(yahoo.cleaning.levelShift.observations)],
+            ["個別判断（観測）", String(rakuten.cleaning.manual.observations), String(yahoo.cleaning.manual.observations)],
+          ]}
+        />
+        <p class="mt-3 text-sm text-[var(--color-text-sub)]">
+          副作用として、本物の半額セールも外れます。そのため「値下がりしていた商品の割合」は控えめに出ます（値下がりの判定は直近28日の中央値より10%以上安いこと。除外の基準とは重なりません）。また、10個と12個の取り違え（約1.2倍）のような小さな誤りは、価格帯の出品の除外と個別判断でしか捕まえられません。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">グループの分け方</h2>
+        <p class="mb-3">
+          カテゴリごとでは比較できる商品が少なすぎるため、次のグループにまとめています。グループの分け方は号をまたいで変えません。
+        </p>
+        <DataTable
+          caption="グループとカテゴリ"
+          columns={["グループ", "カテゴリ"]}
+          rows={groupsDoc.groups.map((g) => [g.label, g.categories.map((c) => catName.get(c) ?? c).join("、")])}
+        />
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">この分析の限界</h2>
+        <ul class="list-disc pl-5 space-y-1">
+          <li>当サイトの掲載商品だけが対象で、日本の日用品の価格全体を表すものではありません</li>
+          <li>比較記事は容量あたりの安い商品を選び直すので、値上がりした商品は比較から外れやすく、指数の上がり幅は小さめに出る方向にずれます</li>
+          <li>記録は週1回程度のため、数日間のセールの周期などは分かりません</li>
+          <li>数量（売れた数）のデータがないので、需要や供給の変化は分かりません。値上げの理由も分かりません</li>
+          <li>総務省の消費者物価指数とは、対象の銘柄・店・集め方が違います。並べて示すだけで、因果や相関は主張しません</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">更新方針</h2>
+        <ul class="list-disc pl-5 space-y-1">
+          <li>月1回を目安に、考察を書ける月だけ号を出します（自動では増やしません）</li>
+          <li>公開した号の数値は後から書き換えません。途中経過の月は、次の号で月全体の値に置き換えます</li>
+          <li>アフィリエイトリンクはこのレポートには置いていません</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">集計データ（CSV）の利用</h2>
+        <p>
+          月×グループの指数と比較系列数を<a href={url("/price-report/2026-10/index.csv")} class="text-[var(--color-primary)] hover:underline">CSV</a>で配布しています（個々の商品の価格は含みません）。引用・転載の際は「暮らセレクト 日用品価格レポート（号と URL）」と出典を明記してください。
+        </p>
+      </section>
+    </div>
+  </Container>
+</BaseLayout>

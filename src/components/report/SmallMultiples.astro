@@ -1,0 +1,49 @@
+---
+// グループ別の指数を小さな折れ線で並べる（縦軸の範囲はすべて共通）。計画書6 §3.3
+import LineChart, { type ChartPoint } from "./LineChart.astro";
+
+export interface MultipleItem {
+  id: string;
+  label: string;
+  points: ChartPoint[];
+  partial?: ChartPoint | null;
+  /** 補足（比較系列数など） */
+  note?: string;
+}
+
+interface Props {
+  idPrefix: string;
+  items: MultipleItem[];
+  xLabels: string[];
+  yMin: number;
+  yMax: number;
+}
+
+const { idPrefix, items, xLabels, yMin, yMax } = Astro.props;
+---
+
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-5">
+  {
+    items.map((it) => (
+      <div>
+        <h3 class="text-sm font-bold text-[var(--color-text)] mb-1">{it.label}</h3>
+        <LineChart
+          id={`${idPrefix}-${it.id}`}
+          title={`${it.label}の価格指数（2026年5月＝100）`}
+          desc={`${it.label}の月次の連鎖指数。${it.points
+            .filter((p) => p.y != null)
+            .map((p) => `${p.x} ${p.y}`)
+            .join("、")}`}
+          xLabels={xLabels}
+          series={[{ label: it.label, slot: 1, points: it.points, partial: it.partial }]}
+          yMin={yMin}
+          yMax={yMax}
+          width={320}
+          height={170}
+          compact
+        />
+        {it.note && <p class="text-xs text-[var(--color-text-sub)] mt-1">{it.note}</p>}
+      </div>
+    ))
+  }
+</div>

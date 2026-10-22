@@ -1,0 +1,137 @@
+{
+  "note": "カテゴリ → グループの固定対応（計画書6 §3.2）。号をまたいで対応を変えない。新しいカテゴリは追加だけする",
+  "groups": [
+    {
+      "id": "paper-kitchen",
+      "label": "紙製品・キッチン消耗品",
+      "categories": [
+        "toilet-paper",
+        "tissue-paper",
+        "kitchen-paper",
+        "wrap-foil",
+        "cooking-sheet",
+        "coffee-filter",
+        "disposable-tableware",
+        "disposable-gloves",
+        "garbage-bag",
+        "deodorizing-bag",
+        "drain-net",
+        "kitchen-sponge",
+        "melamine-sponge"
+      ]
+    },
+    {
+      "id": "laundry-cleaning",
+      "label": "洗濯・掃除",
+      "categories": [
+        "laundry-detergent",
+        "fabric-softener",
+        "laundry-net",
+        "washing-machine-cleaner",
+        "dish-detergent",
+        "dishwasher-detergent",
+        "kitchen-bleach",
+        "bathroom-cleaner",
+        "bath-mold-preventer",
+        "toilet-cleaner",
+        "flushable-toilet-brush",
+        "drain-cleaner",
+        "floor-cleaner",
+        "lint-roller",
+        "natural-cleaning",
+        "sanitizing-spray",
+        "range-hood-filter",
+        "air-conditioner-filter",
+        "bath-drain-hair-catcher"
+      ]
+    },
+    {
+      "id": "hygiene-care",
+      "label": "衛生・ケア用品",
+      "categories": [
+        "mask",
+        "bandage",
+        "cotton-swab",
+        "cotton",
+        "toothpaste",
+        "mouthwash",
+        "denture-cleaner",
+        "contact-lens",
+        "sanitary-napkin",
+        "panty-liner",
+        "hand-soap",
+        "body-soap",
+        "body-sheet",
+        "deodorant",
+        "razor",
+        "acne-patch",
+        "insect-repellent"
+      ]
+    },
+    {
+      "id": "baby-nursing",
+      "label": "ベビー・介護",
+      "categories": [
+        "diaper",
+        "baby-wipes",
+        "adult-diaper",
+        "adult-wipes",
+        "portable-toilet"
+      ]
+    },
+    {
+      "id": "beauty-hair",
+      "label": "美容・ヘアケア",
+      "categories": [
+        "shampoo",
+        "conditioner",
+        "hair-treatment",
+        "hair-oil",
+        "hair-color",
+        "face-wash",
+        "cleansing",
+        "body-lotion",
+        "hand-cream",
+        "sunscreen",
+        "bath-additive"
+      ]
+    },
+    {
+      "id": "pet",
+      "label": "ペット用品",
+      "categories": [
+        "cat-food",
+        "cat-litter",
+        "dog-food",
+        "pet-sheet"
+      ]
+    },
+    {
+      "id": "food",
+      "label": "食品・飲料",
+      "categories": [
+        "rice",
+        "mineral-water",
+        "tea-bag"
+      ]
+    },
+    {
+      "id": "household",
+      "label": "生活雑貨",
+      "categories": [
+        "battery",
+        "ballpoint-pen",
+        "kairo",
+        "cooling-pack",
+        "moisture-absorber",
+        "room-deodorizer",
+        "moth-repellent",
+        "mosquito-repellent-liquid",
+        "bath-mat",
+        "cooking-pot",
+        "gift",
+        "sale-guide"
+      ]
+    }
+  ]
+}

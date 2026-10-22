@@ -1,0 +1,134 @@
+{
+  "note": "第3段の手入力の除外（計画書6 §3.2）。生データは書き換えず集計時に外す。from/to は両端を含む（省略時は系列の全期間）",
+  "exclusions": [
+    {
+      "provider": "rakuten",
+      "articleId": "face-wash-comparison",
+      "productKey": "rk:domecare/dmc_micro-cray-wash",
+      "from": "2026-09-16",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「110g」は不変のまま 990円→1980円・比 2.00）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "rakuten",
+      "articleId": "laundry-bleach-comparison",
+      "productKey": "rk:nissansoap/s621006",
+      "from": "2026-06-06",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「1100g×8個セット」は不変のまま 1989円→3978円・比 2.00）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "rakuten",
+      "articleId": "laundry-detergent-comparison",
+      "productKey": "rk:nissansoap/s621006",
+      "from": "2026-06-06",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「1100g×8個」は不変のまま 1989円→3978円・比 2.00）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "rakuten",
+      "articleId": "laundry-gel-ball-comparison",
+      "productKey": "rk:nissansoap/s621006",
+      "from": "2026-06-06",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「1100g×8個セット」は不変のまま 1989円→3978円・比 2.00）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "rakuten",
+      "articleId": "toothbrush-comparison",
+      "productKey": "rk:d-fit/41868",
+      "from": "2026-07-22",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「20本」は不変のまま 1180円→2460円・比 2.08）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "rakuten",
+      "articleId": "toothbrush-comparison",
+      "productKey": "rk:d-fit/oooo86",
+      "from": "2026-08-09",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「30本」は不変のまま 2090円→4180円・比 2.00）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "rakuten",
+      "articleId": "toothbrush-comparison",
+      "productKey": "rk:hanico/4188688",
+      "from": "2026-09-26",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「50本」は不変のまま 1815円→3630円・比 2.00）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "yahoo",
+      "articleId": "baby-wipes-comparison",
+      "productKey": "rk:lecdirect/4560319046015",
+      "from": "2026-07-28",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「60枚×15個」は不変のまま 4810円→2431円・比 0.51）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "yahoo",
+      "articleId": "body-soap-comparison",
+      "productKey": "rk:ladies-online-shop/10021895",
+      "from": "2026-08-26",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「800mL」は不変のまま 678円→7480円・比 11.03）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "yahoo",
+      "articleId": "diaper-pants-m-comparison",
+      "productKey": "rk:rakutensokuhaimart/4901301396549",
+      "from": "2026-09-16",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「46枚」は不変のまま 1580円→6595円・比 4.17）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "yahoo",
+      "articleId": "lint-roller-comparison",
+      "productKey": "rk:hareya/nc2500_5set",
+      "from": "2026-08-19",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「3巻（1巻40周）」は不変のまま 690円→3630円・比 5.26）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "yahoo",
+      "articleId": "mask-comparison",
+      "productKey": "rk:alice-zk/ny263",
+      "from": "2026-08-06",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「20枚」は不変のまま 398円→806円・比 2.03）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "yahoo",
+      "articleId": "panty-liner-comparison",
+      "productKey": "rk:rakuten24/a003200200615",
+      "from": "2026-09-03",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「112枚」は不変のまま 691円→2230円・比 3.23）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "yahoo",
+      "articleId": "pet-sheet-double-comparison",
+      "productKey": "rk:dog-kan/1009566",
+      "from": "2026-07-21",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「200枚」は不変のまま 4690円→9980円・比 2.13）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "yahoo",
+      "articleId": "pet-sheet-double-comparison",
+      "productKey": "rk:dogland/1009566",
+      "from": "2026-09-29",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「200枚」は不変のまま 9980円→4690円・比 0.47）。以後の観測を除外",
+      "commit": null
+    },
+    {
+      "provider": "yahoo",
+      "articleId": "sanitizing-spray-comparison",
+      "productKey": "rk:rakuten24/4901609016491",
+      "from": "2026-09-10",
+      "reason": "セット数の誤判定と見られる戻りのない段差（容量表記「（1260mL）」は不変のまま 1200円→3640円・比 3.03）。以後の観測を除外",
+      "commit": null
+    }
+  ],
+  "criteria": "戻りのない段差（系列の終わりまで L0 の ±15% に戻らない）のうち、比が整数倍・整数分の1（±8%）で、段差の前後で容量表記が変わらないもの。単品の調理鍋（ih-single-pot）は セット販売の誤判定が考えにくいので除外しない（2026-10-11 判断）"
+}
