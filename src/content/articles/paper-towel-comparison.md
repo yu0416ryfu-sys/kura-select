@@ -4,7 +4,7 @@ description: "手拭き用ペーパータオルのおすすめ10選を、1枚（
 category: "kitchen-paper"
 publishedAt: "2026-10-14"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
@@ -58,7 +58,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-miyaco%2F2012611.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 5060
         rating: 4.33
         reviewCount: 27
@@ -71,7 +71,7 @@ products:
     capacity: "200枚×30袋（6000枚）"
     pricePerUnit: "約0.65円/枚"
     rating: 4.62
-    reviewCount: 318
+    reviewCount: 319
     features:
       - "中判サイズの1枚もの（シングル）"
       - "業務用・家庭用兼用のエコタイプ"
@@ -92,7 +92,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F1228689.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 3970
         rating: 4.58
         reviewCount: 43
@@ -149,7 +149,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F529287.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 4598
         rating: 4.5
         reviewCount: 34
@@ -183,7 +183,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-miyaco%2F2012621.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 4785
         rating: 4.11
         reviewCount: 9
@@ -219,7 +219,7 @@ products:
     capacity: "200組×30パック"
     pricePerUnit: "約0.98円/組"
     rating: 4.76
-    reviewCount: 350
+    reviewCount: 351
     features:
       - "中判（レギュラーサイズ）の2枚重ね・ソフトタイプ"
       - "牛乳パック類を配合した再生紙（商品ページ表記）"

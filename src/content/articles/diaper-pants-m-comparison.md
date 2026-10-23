@@ -4,7 +4,7 @@ description: "パンツ型おむつのMサイズを1枚あたりの価格で比�
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-10-21"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/p648079/"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 5600
         rating: 4.78
         reviewCount: 296
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Freonstyle%2Fa4901301422057.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 5970
         rating: 4.83
         reviewCount: 6
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443502-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 11800
         rating: 0
         reviewCount: 0
@@ -132,6 +132,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qx6in.3rdw6f17.g00qx6in.3rdw7fd9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-mam88%2F10002250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-mam88%2Fi%2F10002250%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/good-mam88/cabinet/151076402495518.jpg?_ex=128x128"
     genreId: "205198"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftravel-depart%2Fc144.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-23"
+        price: 6861
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/travel-depart_c144"
+        available: true
   - rank: 5
     name: "パンパース さらさらケア パンツ Mサイズ"
     brand: "P&G（パンパース）"
@@ -155,6 +166,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4987176136152%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10539273%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0083/4987176136152_1.jpg?_ex=128x128"
     genreId: "205198"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhcvalor%2Fvh-4987176136138.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-23"
+        price: 2494
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hcvalor_vh-4987176136138"
+        available: true
   - rank: 6
     name: "メリーズ パンツ ファーストプレミアム Mサイズ"
     brand: "花王（メリーズ）"
@@ -182,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/au51038/"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 7122
         rating: 4.92
         reviewCount: 12
@@ -212,6 +234,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pukwn.3rdw61de.g00pukwn.3rdw7759/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4903111242610-73-21250102-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F14372443%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/1938/4903111242610.jpg?_ex=128x128"
     genreId: "205198"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2873284013.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-23"
+        price: 6593
+        rating: 4.2
+        reviewCount: 5
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2873284013"
+        available: true
 tags:
   - "パンツ型おむつ おすすめ"
   - "パンツ型おむつ コスパ"

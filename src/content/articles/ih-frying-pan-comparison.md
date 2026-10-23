@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に7製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
@@ -57,7 +57,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco3/item/ua39639/"
         matchStatus: "pending"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 2443
         rating: 0
         reviewCount: 0
@@ -135,9 +135,9 @@ products:
   - rank: 5
     name: "ティファール インジニオ・ネオ IHルージュ・アンリミテッド フライパン 26cm"
     brand: "ティファール"
-    price: 6336
+    price: 6157
     capacity: "1個"
-    pricePerUnit: "約6336円/個"
+    pricePerUnit: "約6157円/個"
     rating: 4.44
     reviewCount: 84
     features:
@@ -194,8 +194,8 @@ products:
     brand: "CAROTE"
     price: 1998
     capacity: "1個"
-    rating: 4.5
-    reviewCount: 329
+    rating: 4.49
+    reviewCount: 330
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

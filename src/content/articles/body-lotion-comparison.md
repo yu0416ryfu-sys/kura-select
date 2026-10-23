@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
@@ -110,6 +110,29 @@ products:
         reviewCount: 26
     genreId: "216670"
   - rank: 4
+    name: "5種のヒアルロン酸配合スキンローション 600ml×3本"
+    brand: "3種のヒアルロン酸配合スキンローショ"
+    price: 7350
+    capacity: "600ml×3本（1800ml）"
+    rating: 4.77
+    reviewCount: 77
+    features:
+      - "全身の保湿に使いやすいローションタイプ"
+      - "ポンプや大容量など日常使いしやすい設計"
+      - "家族で使いやすい処方・使用感を意識した商品"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F76292%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10000502%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/04815981/hial_renew_3.jpg?_ex=128x128"
+    genreId: "216307"
+    pricePerUnit: "約4.1円/mL"
+  - rank: 5
     name: "エリザベスアーデン グリーンティー ボディローション 500mL"
     brand: "Elizabeth Arden（エリザベスアーデン）"
     price: 2180
@@ -143,7 +166,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bettysbeauty_10910012"
         available: true
     genreId: "216670"
-  - rank: 5
+  - rank: 6
     name: "セラミエイド 薬用スキンミルク"
     brand: "池田模範堂（セラミエイド）"
     price: 2420
@@ -177,7 +200,7 @@ products:
         rating: 0
         reviewCount: 1
     genreId: "216387"
-  - rank: 6
+  - rank: 7
     name: "キュレル ローション"
     brand: "花王（キュレル）"
     price: 3850
@@ -211,7 +234,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10161795"
         available: true
     genreId: "216670"
-  - rank: 7
+  - rank: 8
     name: "ベビーローション 乳液 大容量 300ml 保湿 無添加 オーガニック 赤ちゃん ベ"
     brand: "ベビーローション"
     price: 4180
@@ -234,36 +257,13 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mishii-list/cabinet/item/thum_190219/r4_babyborn.jpg?_ex=128x128"
     priceMax: 4480
     genreId: "205205"
-  - rank: 8
-    name: "5種のヒアルロン酸配合スキンローション 600ml"
-    brand: "3種のヒアルロン酸配合スキンローショ"
-    price: 2500
-    capacity: "600ml"
-    rating: 4.59
-    reviewCount: 561
-    features:
-      - "全身の保湿に使いやすいローションタイプ"
-      - "ポンプや大容量など日常使いしやすい設計"
-      - "家族で使いやすい処方・使用感を意識した商品"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s88hn.3rdw6166.g00s88hn.3rdw7d91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaru-mall%2F4731%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaru-mall%2Fi%2F10000232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/maru-mall/cabinet/04815981/4731-m01c.jpg?_ex=128x128"
-    priceMax: 14400
-    genreId: "216307"
   - rank: 9
     name: "ママフィ 潤いミルキーローション (本体350ml/つめかえ用310ml) 赤ちゃん"
     brand: "楽天市場"
     price: 3080
     capacity: "350ml"
     rating: 4.75
-    reviewCount: 664
+    reviewCount: 665
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"

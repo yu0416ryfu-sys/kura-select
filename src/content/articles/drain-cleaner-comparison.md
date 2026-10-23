@@ -4,7 +4,7 @@ description: "排水口クリーナーを容量あたりのコストで比較。
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
@@ -55,13 +55,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F101-4901609000926.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F101-12085.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-23"
         price: 331
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/atlife_101-4901609000926"
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/atlife_101-12085"
         available: true
     genreId: "565623"
   - rank: 3
@@ -165,7 +165,7 @@ products:
       - "強力タイプのため換気や取り扱いに注意が必要"
     recommendedFor: "業務用途や長期ストックを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quion.3rdw6e7d.g00quion.3rdw731c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F6019094%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosharecafe%2Fi%2F10031246%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/ranking_top3/rank_6019094.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/marsn/marsn_07/rank_6019094.jpg?_ex=128x128"
     genreId: "565623"
   - rank: 7
     name: "ピーピースルーF 600g×2本セット"
@@ -188,16 +188,16 @@ products:
       - "素材によっては使用できない排水管がある"
     recommendedFor: "頑固なつまりをまとめて対策したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quion.3rdw6e7d.g00quion.3rdw731c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F6038803%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosharecafe%2Fi%2F10067832%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/ranking_top3/rank_6038803.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/marsn/marsn_07/rank_6038803.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6038803.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 3750
         rating: 4.66
-        reviewCount: 318
+        reviewCount: 319
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6038803"
         available: true
     genreId: "565623"
@@ -227,8 +227,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdaiyu8-y%2F4560275310151.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-20"
+        matchStatus: "matched"
+        updatedAt: "2026-10-23"
         price: 2069
         rating: 5
         reviewCount: 6

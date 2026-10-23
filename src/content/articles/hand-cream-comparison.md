@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 products:
   - rank: 1
     name: "ユースキン ハンドクリーム つけかえパウチ 180g"
@@ -13,7 +13,7 @@ products:
     capacity: "180g"
     pricePerUnit: "約6.7円/g"
     rating: 4.74
-    reviewCount: 68
+    reviewCount: 69
     features:
       - "ポンプ容器に詰め替えて使う大容量パウチ"
       - "ビタミンB2配合の黄色いクリームでしっとり保湿"
@@ -80,7 +80,7 @@ products:
     capacity: "35g"
     pricePerUnit: "約19円/g"
     rating: 4.51
-    reviewCount: 423
+    reviewCount: 424
     features:
       - "100%ピュアシアバターを精製したオーガニック処方"
       - "9種類の香りから選べるセレクト仕様"
@@ -193,7 +193,7 @@ products:
     price: 2200
     capacity: "43g"
     rating: 4.7
-    reviewCount: 744
+    reviewCount: 745
     features:
       - "オーガニック認証原料を使用したハンドクリーム"
       - "43gの使いやすいサイズでギフト用途にも対応"
@@ -207,7 +207,7 @@ products:
       - "オーガニック系は香りや成分に好みが分かれることがある"
     recommendedFor: "オーガニック・自然派コスメを好む方・ギフト用途を検討している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b072wnfzkl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000265%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/905b072wnfzkl-25.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/allna/top/905b072wnfzkl.jpg?_ex=128x128"
     priceMax: 4400
     genreId: "304759"
   - rank: 8
@@ -216,7 +216,7 @@ products:
     price: 3410
     capacity: "60g"
     rating: 4.57
-    reviewCount: 386
+    reviewCount: 387
     features:
       - "手肌と甘皮までケアできるハンドクリーム"
       - "保湿を重視した無添加処方"
@@ -230,7 +230,7 @@ products:
       - "香りの好みが分かれる"
     recommendedFor: "手肌と爪のケアを一緒にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptgvn.3rdw63b1.g00ptgvn.3rdw7403/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmahou-soap%2F381899%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmahou-soap%2Fi%2F10000423%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mahou-soap/cabinet/fresh_aroma/handcream/product/product.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mahou-soap/cabinet/fresh_aroma/handcream/product/product-point.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -265,7 +265,7 @@ products:
     recommendedFor: "乾燥が気になる方・敏感肌の方・バリア機能を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uicnn.3rdw69f9.g00uicnn.3rdw721b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnarushop%2Fvl-8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnarushop%2Fi%2F10000105%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/narushop/cabinet/unilever/vl-7.jpg?_ex=128x128"
-    priceMax: 570
+    priceMax: 750
     genreId: "304759"
   - rank: 10
     name: "ロクシタン パフュームド ハンドクリーム 30mL 選べる6種類"

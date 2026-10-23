@@ -4,7 +4,7 @@ description: "おりものシート（パンティライナー）のおすすめ
 category: "panty-liner"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbenkyoudou%2Fso-4903111364244.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 314
         rating: 5
         reviewCount: 3
@@ -159,7 +159,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/e471977/"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 1044
         rating: 4.72
         reviewCount: 32
@@ -227,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/e471971/"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 2230
         rating: 4.73
         reviewCount: 41

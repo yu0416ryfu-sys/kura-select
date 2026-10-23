@@ -4,7 +4,7 @@ description: "衣類・布用消臭スプレーを1プッシュあたりのコ�
 category: "sanitizing-spray"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 products:
   - rank: 1
     name: "ファブリーズ W除菌+消臭 詰め替え 1280ml×2セット"
@@ -90,10 +90,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftoku00301%2Fpbtuqj2ih5k3phffpwr6vs7ywy.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
-        price: 789
-        rating: 4.33
-        reviewCount: 3
+        updatedAt: "2026-10-23"
+        price: 771
+        rating: 4.5
+        reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/toku00301_pbtuqj2ih5k3phffpwr6vs7ywy"
         available: true
     genreId: "568537"
@@ -124,7 +124,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseiketu-online%2Fnew-frais-natula-350-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 3630
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seiketu-online_new-frais-natula-350-set"
         available: true
@@ -158,7 +158,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fseiketu-online%2Fnew-frais-natula-350-set.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 3630
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seiketu-online_new-frais-natula-350-set"
         available: true
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foasismse%2F342501-500.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 2772
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/oasismse_342501-500"
         available: true
@@ -241,7 +241,7 @@ products:
     capacity: "300mL（約600回分）"
     pricePerUnit: "約8.0円/mL"
     rating: 4.49
-    reviewCount: 464
+    reviewCount: 466
     features:
       - "ANA国際線ファーストクラスで採用実績"
       - "MA-T（二酸化塩素系）で強力除菌"
@@ -255,7 +255,7 @@ products:
       - "入手しにくいことがある"
     recommendedFor: "品質最優先の方・無臭にこだわる方・赤ちゃん・ペットのいる家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00thfbn.3rdw6868.g00thfbn.3rdw7b07/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa2care-official%2F10000003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa2care-official%2Fi%2F10000003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a2care-official/cabinet/ef/kago/2607_300ml.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a2care-official/cabinet/ef/sale-kago/10000003_5off-cp.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

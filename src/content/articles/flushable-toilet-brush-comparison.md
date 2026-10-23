@@ -4,15 +4,15 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-10-21"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
     name: "スクラビングバブル 流せるトイレブラシ 替え72個"
     brand: "スクラビングバブル"
-    price: 2715
+    price: 3370
     capacity: "72個（24個×3袋）"
-    pricePerUnit: "約38円/個"
+    pricePerUnit: "約47円/個"
     rating: 4.83
     reviewCount: 75
     features:
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/6172915/"
         matchStatus: "pending"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 2577
         rating: 4.58
         reviewCount: 104
@@ -44,9 +44,9 @@ products:
   - rank: 2
     name: "スクラビングバブル 流せるトイレブラシ 本体+替え28個"
     brand: "スクラビングバブル"
-    price: 2092
+    price: 2392
     capacity: "本体+替え28個"
-    pricePerUnit: "約75円/個"
+    pricePerUnit: "約85円/個"
     rating: 4.5
     reviewCount: 115
     features:
@@ -98,12 +98,23 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00um6vn.3rdw6969.g00um6vn.3rdw7cd7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakkastore365%2F20241229094709_179%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakkastore365%2Fi%2F10009878%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/zakkastore365/cabinet/r_2024101029/20241229094709_179_1.jpg?_ex=128x128"
     genreId: "215999"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftomopoko%2Fb0cshz6q7n.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-23"
+        price: 1500
+        rating: 4.45
+        reviewCount: 11
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tomopoko_b0cshz6q7n"
+        available: true
   - rank: 4
     name: "スクラビングバブル 流せるトイレブラシ 本体+替え4個"
     brand: "スクラビングバブル"
-    price: 1181
+    price: 1541
     capacity: "本体+替え4個"
-    pricePerUnit: "約295円/個"
+    pricePerUnit: "約385円/個"
     rating: 4.59
     reviewCount: 80
     features:
@@ -125,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9612078018.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 638
         rating: 0
         reviewCount: 2

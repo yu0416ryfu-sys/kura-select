@@ -4,7 +4,7 @@ description: "夜用パンツタイプのおむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-10-21"
+updatedAt: "2026-10-23"
 products:
   - rank: 1
     name: "グーン ナイトキッズパンツ 夜用"

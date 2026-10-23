@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
@@ -34,12 +34,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F75320.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 13999
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_75320"
         available: true
         rating: 4.73
-        reviewCount: 747
+        reviewCount: 749
     genreId: "565724"
   - rank: 2
     name: "ペットライブラリー ピュアボウル グレインフリー 7歳以上 800g"
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10148480.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 1184
         rating: 0
         reviewCount: 0
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687270.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 4006
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687270"
         available: true
@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetoukoku%2F42.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 10670
         rating: 4.86
         reviewCount: 21
@@ -207,7 +207,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2614円/個"
     rating: 4.65
-    reviewCount: 920
+    reviewCount: 921
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -240,7 +240,7 @@ products:
     price: 5759
     capacity: "3.5kg"
     rating: 4.82
-    reviewCount: 152
+    reviewCount: 153
     features:
       - "7歳以上の室内で生活する中高齢猫向け総合栄養食"
       - "ジッパー付き袋で開封後の保存がしやすい設計"
@@ -308,7 +308,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.71
-    reviewCount: 1030
+    reviewCount: 1035
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

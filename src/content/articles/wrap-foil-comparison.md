@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-23"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F71920-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 2580
         rating: 5
         reviewCount: 6
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901422153502.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 490
         rating: 4.86
         reviewCount: 7
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9649965.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 1379
         rating: 5
         reviewCount: 3
@@ -214,8 +214,8 @@ products:
     price: 1852
     capacity: "30cm×50m×3本"
     pricePerUnit: "約12円/m"
-    rating: 4.77
-    reviewCount: 44
+    rating: 4.78
+    reviewCount: 45
     features:
       - "クレハのポリ塩化ビニリデン製ラップ・30cmまとめ買い3本セット"
       - "のこぎり刃でカットしやすい設計"
@@ -270,7 +270,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j662098/"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 1232
         rating: 4.69
         reviewCount: 676

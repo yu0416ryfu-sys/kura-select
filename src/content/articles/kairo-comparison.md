@@ -4,7 +4,7 @@ description: "使い捨てカイロのおすすめ10選を1個あたり単価で
 category: "kairo"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
@@ -81,7 +81,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1197-4987067829309x8.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 5573
         rating: 5
         reviewCount: 8
@@ -192,9 +192,9 @@ products:
   - rank: 7
     name: "オカモト 快温くん 貼るカイロ レギュラー 30個×8箱"
     brand: "オカモト"
-    price: 6080
+    price: 6480
     capacity: "30個×8箱（240個）"
-    pricePerUnit: "約25円/個"
+    pricePerUnit: "約27円/個"
     rating: 4.77
     reviewCount: 133
     features:
@@ -226,9 +226,9 @@ products:
   - rank: 8
     name: "オカモト 快温くん 貼らないカイロ レギュラー 30個×8箱"
     brand: "オカモト"
-    price: 6080
+    price: 6480
     capacity: "30個×8箱（240個）"
-    pricePerUnit: "約25円/個"
+    pricePerUnit: "約27円/個"
     rating: 4.52
     reviewCount: 23
     features:

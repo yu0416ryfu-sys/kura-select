@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
@@ -48,7 +48,7 @@ products:
     capacity: "45×65cm 1枚"
     pricePerUnit: "約1000円/枚"
     rating: 4.4
-    reviewCount: 1371
+    reviewCount: 1372
     features:
       - "綿100%で肌に優しい"
       - "パイル生地で吸水性に優れた設計"
@@ -84,7 +84,7 @@ products:
     capacity: "42×67cm 1枚"
     pricePerUnit: "約2290円/枚"
     rating: 4.61
-    reviewCount: 2146
+    reviewCount: 2147
     features:
       - "吸水・速乾性を重視したバスマット"
       - "浴室前や洗面所に置きやすい形状"
@@ -173,8 +173,8 @@ products:
     brand: "Inbloom"
     price: 1170
     capacity: "40×60cm 1枚"
-    rating: 4.35
-    reviewCount: 1071
+    rating: 4.34
+    reviewCount: 1075
     features:
       - "マイクロファイバーとポリエステル混合"
       - "抗菌・防臭加工で清潔さを保つ"
@@ -247,7 +247,7 @@ products:
     price: 2070
     capacity: "60×40cm / 70×50cm"
     rating: 4.43
-    reviewCount: 2719
+    reviewCount: 2722
     features:
       - "珪藻土素材で天然の吸水・速乾性"
       - "約5mm厚で肉厚感がある"
@@ -264,7 +264,7 @@ products:
       - "落下時の破損リスク"
     recommendedFor: "機能性と品質を重視する人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u2t0n.3rdw6d5c.g00u2t0n.3rdw74d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneo-lifestyle%2Fbmt001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneo-lifestyle%2Fi%2F10000083%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-lifestyle/cabinet/zaka01/09054478/09779292/bmt001.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-lifestyle/cabinet/zaka01/09054478/09779292/bmt001_cp.jpg?_ex=128x128"
     priceMax: 3480
     genreId: "100650"
 tags:

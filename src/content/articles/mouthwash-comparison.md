@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 products:
   - rank: 1
     name: "リステリン トータルケアプラス クリーンミント"
@@ -47,7 +47,7 @@ products:
     capacity: "1000mL×6本（6000mL）"
     pricePerUnit: "約0.99円/mL"
     rating: 4.76
-    reviewCount: 258
+    reviewCount: 259
     features:
       - "ノンアルコール処方で刺激を抑えながら殺菌"
       - "バクテリアフィルムに作用する7種の機能性成分配合"
@@ -170,10 +170,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180740-6.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 5098
-        rating: 4.57
-        reviewCount: 7
+        rating: 4.63
+        reviewCount: 8
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4901730180740-6"
         available: true
     genreId: "208265"
@@ -241,7 +241,7 @@ products:
     capacity: "330mL"
     pricePerUnit: "約9.0円/mL"
     rating: 4.68
-    reviewCount: 175
+    reviewCount: 176
     features:
       - "植物由来成分を中心にした低刺激処方"
       - "パラベンフリー・アルコールフリーで敏感な方にも対応"
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichinan25%2Fdr-wash.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 2970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichinan25_dr-wash"
         available: true
@@ -275,7 +275,7 @@ products:
     capacity: "100mL（約700回分）"
     pricePerUnit: "約23円/mL"
     rating: 4.75
-    reviewCount: 631
+    reviewCount: 633
     features:
       - "歯科医院でも販売されている薬用マウスウォッシュ"
       - "殺菌成分グルコン酸クロルヘキシジン配合"
@@ -289,18 +289,18 @@ products:
       - "薄める手間がある"
     recommendedFor: "歯科医院でも扱われる定番品を選びたい方・歯周病予防を重視する方・長く使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fdf2819%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10012094%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg/df2819_1450ppm.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1022_p5/kirikae2/df2819_1450ppm.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2Fdf0129.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 3340
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_df0129"
         available: true
         rating: 4.78
-        reviewCount: 1460
+        reviewCount: 1462
     genreId: "208265"
   - rank: 10
     name: "フィス ホワイト 薬用マウスウォッシュ 300mL"
@@ -308,7 +308,7 @@ products:
     price: 2580
     capacity: "300mL"
     rating: 4.6
-    reviewCount: 2936
+    reviewCount: 2941
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"
@@ -322,13 +322,13 @@ products:
       - "ホワイトニング効果は継続使用が前提"
     recommendedFor: "ホワイトニングケアを日常に取り入れたい方・低刺激マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b071gypvwv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000116%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20261014m/906b071gypvwv-50.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20261024m/906b071gypvwv-50.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbluecastle%2Fnitiyou-102.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 3980
         rating: 5
         reviewCount: 4

@@ -4,7 +4,7 @@ description: "赤ちゃん用おしりふきを1枚当たり価格で比較。�
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.78
-    reviewCount: 8333
+    reviewCount: 8345
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpigeon-shop%2F2000363s.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-19"
+        updatedAt: "2026-10-23"
         price: 4070
         rating: 4.78
-        reviewCount: 1736
+        reviewCount: 1739
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_2000363s"
         available: true
     genreId: "205194"
@@ -120,7 +120,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約2.0円/枚"
     rating: 4.7
-    reviewCount: 4922
+    reviewCount: 4927
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -140,10 +140,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-19"
+        updatedAt: "2026-10-23"
         price: 2390
         rating: 4.67
-        reviewCount: 1065
+        reviewCount: 1067
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
         available: true
     genreId: "505416"
@@ -154,7 +154,7 @@ products:
     capacity: "54枚×15個（810枚）"
     pricePerUnit: "約2.6円/枚"
     rating: 4.63
-    reviewCount: 3953
+    reviewCount: 3959
     features:
       - "99.9%の純水成分で肌に優しい"
       - "厚手シートで吸収性が優れている"
@@ -174,12 +174,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe170.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-19"
+        updatedAt: "2026-10-23"
         price: 2110
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e170"
         available: true
         rating: 4.71
-        reviewCount: 977
+        reviewCount: 978
     genreId: "205194"
   - rank: 6
     name: "おしり拭き 流せる シート 純水99.9% W保湿成分配合"
@@ -208,10 +208,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe241.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-19"
+        updatedAt: "2026-10-23"
         price: 2330
         rating: 4.61
-        reviewCount: 1046
+        reviewCount: 1047
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e241"
         available: true
     genreId: "205194"
@@ -221,8 +221,8 @@ products:
     price: 3180
     capacity: "56枚×12個（672枚）"
     pricePerUnit: "約4.7円/枚"
-    rating: 4.92
-    reviewCount: 26
+    rating: 4.89
+    reviewCount: 27
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"

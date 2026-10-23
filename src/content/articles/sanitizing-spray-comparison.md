@@ -4,7 +4,7 @@ description: "除菌スプレー・アルコールを1mLあたりのコストで
 category: "sanitizing-spray"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-23"
 products:
   - rank: 1
     name: "カビキラー アルコール除菌 キッチン用 詰め替え用【カビキラー】[アルコールスプ"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/nj04120/"
         matchStatus: "pending"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 3640
         rating: 4.88
         reviewCount: 8
@@ -46,8 +46,8 @@ products:
     price: 657
     capacity: "（720mL）"
     pricePerUnit: "約0.91円/mL"
-    rating: 4.69
-    reviewCount: 62
+    rating: 4.68
+    reviewCount: 63
     features:
       - "100%天然由来のアルコール成分"
       - "食器・調理器具にそのまま使える"
@@ -67,8 +67,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10130857.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-20"
-        price: 432
+        updatedAt: "2026-10-23"
+        price: 429
         rating: 4.67
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10130857"
@@ -124,7 +124,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsukoyakakomachi%2Faqarfa1l.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 1540
         rating: 4.92
         reviewCount: 12
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188318706.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 1100
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188318706"
         available: true
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnakano-dy%2Fkesisaru-20.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nakano-dy_kesisaru-20"
         available: true

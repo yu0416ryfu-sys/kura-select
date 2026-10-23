@@ -4,9 +4,32 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 products:
   - rank: 1
+    name: "PVC手袋 粉なし 2000枚（100枚×20箱）"
+    brand: "厳選いいもの本舗"
+    price: 6760
+    capacity: "100枚×20箱（2000枚）"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "使い切りで使える作業用手袋"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "掃除や調理補助に備えやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "素材やサイズの相性を確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "掃除や調理補助に備えやすい"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz97n.3rdw61ff.g00tz97n.3rdw7e95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrinity-cosme%2Fpvc-glove-2box%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftrinity-cosme%2Fi%2F10000768%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/trinity-cosme/cabinet/09165139/13281630/imgrc0118353753.jpg?_ex=128x128"
+    genreId: "401632"
+    pricePerUnit: "約3.4円/枚"
+  - rank: 2
     name: "PVCグローブ 100枚×20箱"
     brand: "サンユー"
     price: 16000
@@ -33,14 +56,14 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh734020.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 6776
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh734020"
         available: true
         rating: 4.7
         reviewCount: 391
     genreId: "567837"
-  - rank: 2
+  - rank: 3
     name: "PVCグローブ 100枚×10箱"
     brand: "サンユー"
     price: 8250
@@ -75,7 +98,7 @@ products:
         available: false
         matchNotes: "capacity不一致: capacity不一致"
     genreId: "567837"
-  - rank: 3
+  - rank: 4
     name: "ウイルカット プラスチックグローブ 100枚"
     brand: "ウイルカット"
     price: 1159
@@ -107,29 +130,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/its-japan_p21037610e99a"
         available: true
     genreId: "401632"
-  - rank: 4
-    name: "PVC手袋 粉なし 2000枚"
-    brand: "厳選いいもの本舗"
-    price: 2780
-    capacity: "2000枚"
-    rating: 4.68
-    reviewCount: 292
-    features:
-      - "使い切りで使える作業用手袋"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "掃除や調理補助に備えやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "素材やサイズの相性を確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "掃除や調理補助に備えやすい"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tz0kn.3rdw6a1c.g00tz0kn.3rdw7d29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbt-iimono%2Fpvc-m-01-2000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbt-iimono%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bt-iimono/cabinet/07914503/new-pvc.jpg?_ex=128x128"
-    priceMax: 6775
-    genreId: "401632"
   - rank: 5
     name: "プラスチック手袋 パウダーフリー 100枚"
     brand: "ワークアップ"
@@ -156,7 +156,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh8451-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-23"
         price: 418
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh8451-1"
         available: true
@@ -238,7 +238,7 @@ products:
     price: 890
     capacity: "100枚"
     rating: 4.57
-    reviewCount: 3778
+    reviewCount: 3786
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -261,7 +261,7 @@ products:
     price: 890
     capacity: "100枚"
     rating: 4.7
-    reviewCount: 1536
+    reviewCount: 1542
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"

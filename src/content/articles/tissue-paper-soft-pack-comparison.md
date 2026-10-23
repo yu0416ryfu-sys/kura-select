@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
@@ -124,8 +124,8 @@ products:
     brand: "王子ネピア"
     price: 5980
     capacity: "200組×90個"
-    rating: 4.63
-    reviewCount: 41
+    rating: 4.65
+    reviewCount: 43
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -177,10 +177,10 @@ products:
   - rank: 7
     name: "Smart Yell ソフトパックティッシュ 150組×50個"
     brand: "アイリスオーヤマ"
-    price: 3050
+    price: 2640
     capacity: "150組×50個（7500組）"
     rating: 4.56
-    reviewCount: 851
+    reviewCount: 854
     features:
       - "アイリスオーヤマのソフトパック"
       - "150組×50個のまとめ買いパック"
@@ -205,7 +205,7 @@ products:
         matchedCapacity: "150組 5P×5セット（25個）"
         matchNotes: "入数違い採用（楽天は150組×50個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
-    priceMax: 4980
+    priceMax: 4301
     genreId: "100670"
   - rank: 8
     name: "フルール ソフトパックティッシュ 200組×80個"

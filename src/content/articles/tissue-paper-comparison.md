@@ -5,7 +5,7 @@ category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
 ranking: false
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-23"
 products:
   - rank: 1
     name: "スコッティ ティッシュペーパー フラワーボックス"

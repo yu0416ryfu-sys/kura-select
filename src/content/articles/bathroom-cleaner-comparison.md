@@ -4,16 +4,16 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-23"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
     brand: "ライオン"
-    price: 117
+    price: 148
     capacity: "350ml"
-    pricePerUnit: "約0.33円/mL"
-    rating: 5
-    reviewCount: 1
+    pricePerUnit: "約0.42円/mL"
+    rating: 4.33
+    reviewCount: 3
     features:
       - "浴室掃除に使える洗浄剤"
       - "汚れの種類に合わせて選びやすい"
@@ -26,8 +26,8 @@ products:
       - "用途外使用は避ける必要がある"
       - "素材への影響は事前確認が必要"
     recommendedFor: "浴室用洗剤を用途別に比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q8den.3rdw61ea.g00q8den.3rdw7cb4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatsuzakka-plus1%2F4903301015369%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatsuzakka-plus1%2Fi%2F10126208%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/seikatsuzakka-plus1/cabinet/r310-dcitem/0009/4903301015369.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q7yxn.3rdw6516.g00q7yxn.3rdw7e1e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmebox%2Fj4903301015369%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmebox%2Fi%2F10009104%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmebox/cabinet/j4903301015369_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -39,7 +39,7 @@ products:
         available: true
         rating: 0
         reviewCount: 1
-    genreId: "565624"
+    genreId: "216017"
   - rank: 2
     name: "ルックプラス バスタブクレンジング 銀イオンプラス ハーバルグリーン 詰替 800mL"
     brand: "ライオン（ルック）"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/x627331/"
         matchStatus: "pending"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 468
         rating: 4.67
         reviewCount: 150
@@ -77,7 +77,7 @@ products:
   - rank: 3
     name: "バスマジックリン エアジェット 除菌EX ハーバルクリアの香り つめかえ用"
     brand: "花王（バスマジックリン）"
-    price: 744
+    price: 745
     capacity: "1000mL"
     pricePerUnit: "約0.74円/mL"
     rating: 4.68

@@ -4,7 +4,7 @@ description: "ジェルボールは液体洗剤より1回あたり割高です�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987176194398.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 1986
         rating: 4.86
         reviewCount: 7
@@ -46,8 +46,8 @@ products:
     price: 2997
     capacity: "89個"
     pricePerUnit: "約34円/個"
-    rating: 4.81
-    reviewCount: 59
+    rating: 4.82
+    reviewCount: 62
     features:
       - "部屋干し時の生乾き臭に狙いを定めた処方"
       - "汗をかいた衣類・運動着の皮脂汚れに対応"
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4987176284556-73-30001986.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 2750
         rating: 0
         reviewCount: 2
@@ -134,9 +134,9 @@ products:
   - rank: 5
     name: "ボールド ジェルボール4D Yoruのホワイトラベンダー＆ジャスミン 詰め替え 55個"
     brand: "P&G（ボールド）"
-    price: 3160
+    price: 2845
     capacity: "55個"
-    pricePerUnit: "約57円/個"
+    pricePerUnit: "約52円/個"
     rating: 0
     reviewCount: 0
     features:
@@ -270,7 +270,7 @@ products:
   - rank: 9
     name: "ボールド ジェルボール4in1 ホワイトムスク＆フローラル 詰め替え 65個"
     brand: "P&G（ボールド）"
-    price: 5000
+    price: 4978
     capacity: "65個"
     rating: 5
     reviewCount: 2

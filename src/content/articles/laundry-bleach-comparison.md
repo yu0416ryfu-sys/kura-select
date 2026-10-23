@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
@@ -138,7 +138,7 @@ products:
     capacity: "450ml×6袋（2700ml）"
     pricePerUnit: "約1.1円/ml"
     rating: 4.79
-    reviewCount: 247
+    reviewCount: 248
     features:
       - "抗菌成分を配合した液体タイプの酸素系漂白剤"
       - "部屋干し時の菌のケアを想定した処方"
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4978951060458.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 991
         rating: 0
         reviewCount: 0
@@ -226,10 +226,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F757037000915.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
-        price: 3530
-        rating: 4.89
-        reviewCount: 38
+        updatedAt: "2026-10-23"
+        price: 3398
+        rating: 4.9
+        reviewCount: 39
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_757037000915"
         available: true
     genreId: "210182"

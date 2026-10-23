@@ -4,7 +4,7 @@ description: "除湿剤おすすめ8選を吸湿量1mLあたりの単価で徹�
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 products:
   - rank: 1
     name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
@@ -13,7 +13,7 @@ products:
     capacity: "550mL×45個（24,750mL分）"
     pricePerUnit: "約0.17円/mL"
     rating: 4.82
-    reviewCount: 270
+    reviewCount: 271
     features:
       - "国内定番の大容量タンクタイプ除湿剤"
       - "強力脱臭・防臭・防カビ効果"
@@ -80,8 +80,8 @@ products:
     price: 545
     capacity: "1000mL×2個（2,000mL分）"
     pricePerUnit: "約0.27円/mL"
-    rating: 4.75
-    reviewCount: 16
+    rating: 4.76
+    reviewCount: 17
     features:
       - "1個あたりの吸湿量が大きい貯水タンクタイプ"
       - "押し入れ・洋服ダンス向けの大型サイズ"
@@ -114,8 +114,8 @@ products:
     price: 2107
     capacity: "420mL×18個（7,560mL分）"
     pricePerUnit: "約0.28円/mL"
-    rating: 4.54
-    reviewCount: 48
+    rating: 4.53
+    reviewCount: 49
     features:
       - "備長炭配合で除湿＋消臭"
       - "タンクタイプで吸湿した水が一目でわかる"
@@ -267,7 +267,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawarikikaku_costoco-mizutori-a"
         available: false
         matchNotes: "リンク切れ(404)"
-    priceMax: 6388
+    priceMax: 6399
     genreId: "568231"
 tags:
   - "除湿剤 おすすめ"

@@ -4,7 +4,7 @@ description: "キッチン用漂白剤を1mLあたりのコストで徹底比較
 category: "kitchen-bleach"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-23"
 products:
   - rank: 1
     name: "花王 キッチンハイター 業務用 5kg×3本"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujix-sizai%2F4901301021144.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 4345
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujix-sizai_4901301021144"
         available: true
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F1671344.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
+        updatedAt: "2026-10-23"
         price: 1118
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_1671344"
         available: true
@@ -101,10 +101,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbutterflyeffectllc%2F46.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-18"
-        price: 3464
+        updatedAt: "2026-10-23"
+        price: 3489
         rating: 4.8
-        reviewCount: 168
+        reviewCount: 169
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/butterflyeffectllc_46"
         available: true
     genreId: "210182"
@@ -165,6 +165,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901797100019_018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10017091%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/vic201810/4901797100019.jpg?_ex=128x128"
     genreId: "210182"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhc7%2F4901797033164-cs.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-23"
+        price: 11211
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hc7_4901797033164-cs"
+        available: true
   - rank: 6
     name: "丹羽久 niwaQ キッチン漂白剤 ボトル 300g"
     brand: "丹羽久"
@@ -203,8 +214,8 @@ products:
     price: 1719
     capacity: "2500ml×2本"
     pricePerUnit: "約0.34円/ml"
-    rating: 4.79
-    reviewCount: 34
+    rating: 4.69
+    reviewCount: 35
     features:
       - "キッチンハイター特大（2500ml）を2本まとめたセット"
       - "塩素系台所用漂白剤でまな板・ふきんの漂白・除菌に対応"
@@ -224,7 +235,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F508035.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-17"
+        updatedAt: "2026-10-23"
         price: 1954
         rating: 0
         reviewCount: 0

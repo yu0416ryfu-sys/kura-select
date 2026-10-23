@@ -4,7 +4,7 @@ description: "ハイドロコロイド絆創膏のおすすめ7選を1枚あた�
 category: "bandage"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnisshodrug%2F4955574823646.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-23"
         price: 2598
         rating: 0
         reviewCount: 0
@@ -69,7 +69,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1229-4960085990510.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-08"
+        updatedAt: "2026-10-23"
         price: 605
         rating: 0
         reviewCount: 0
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/h219465/"
         matchStatus: "matched"
-        updatedAt: "2026-10-14"
+        updatedAt: "2026-10-23"
         price: 1345
         rating: 4.75
         reviewCount: 57

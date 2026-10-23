@@ -4,7 +4,7 @@ description: "ボールペンを書き心地・インク・デザインで徹底
 category: "ballpoint-pen"
 publishedAt: "2026-05-06"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
@@ -28,7 +28,7 @@ products:
       - "名入れ後は返品・交換不可"
     recommendedFor: "限定カラーで個性を出したい方・特別な卒団・卒業記念品を贈りたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qbsyn.3rdw622d.g00qbsyn.3rdw79de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbugyo%2Fe06-21-660%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbugyo%2Fi%2F10006340%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/pen_2014/pen_2020_136_3.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bugyo/cabinet/pen_2021/e06-21-660.jpg?_ex=128x128"
     genreId: "205824"
   - rank: 2
     name: "パーカー IM ボールペン"
@@ -37,7 +37,7 @@ products:
     capacity: "1本（替え芯対応）"
     pricePerUnit: "約3470円/本"
     rating: 4.73
-    reviewCount: 2843
+    reviewCount: 2844
     features:
       - "創業135年以上の英国老舗ブランド・パーカーのエントリーモデル"
       - "長さ140mm・直径11mm・重さ27gのバランスの良い設計"
@@ -58,8 +58,8 @@ products:
     brand: "uni（三菱鉛筆）"
     price: 1000
     capacity: "1本（4色ボールペン+シャープペンシル）"
-    rating: 4.77
-    reviewCount: 13717
+    rating: 4.78
+    reviewCount: 13722
     features:
       - "2025年新色展開の4色油性ボールペン＋シャープペンシル搭載多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きで卒業・卒団・誕生日などの記念品に対応"
@@ -169,7 +169,7 @@ products:
     price: 880
     capacity: "-"
     rating: 4.55
-    reviewCount: 192
+    reviewCount: 194
     features:
       - "4色油性ボールペン＋シャープペンシル搭載の多機能タイプ（0.38/0.5/0.7mm選択可）"
       - "名前刻印サービス付きでギフト・記念品に最適"

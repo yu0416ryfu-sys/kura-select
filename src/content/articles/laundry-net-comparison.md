@@ -4,7 +4,7 @@ description: "洗濯ネットおすすめ10選をコスパ・用途別に比較�
 category: "laundry-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-10-17"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1

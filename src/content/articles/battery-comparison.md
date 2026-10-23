@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-23"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 1040
     capacity: "40本"
     pricePerUnit: "約26円/本"
-    rating: 4.68
-    reviewCount: 662
+    rating: 4.69
+    reviewCount: 664
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -69,7 +69,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisiadenki%2F4976680250058.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 1188
         rating: 0
         reviewCount: 0
@@ -82,7 +82,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約64円/本"
     rating: 4.65
-    reviewCount: 1242
+    reviewCount: 1243
     features:
       - "10年長期保存対応のパナソニック製アルカリ電池"
       - "1パック4本×5パック構成で使いやすい量を分割して管理できる"
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftop1-price%2F20161219-16denchi.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-23"
         price: 1280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/top1-price_20161219-16denchi"
         available: true
@@ -112,9 +112,9 @@ products:
   - rank: 4
     name: "Panasonic アルカリ乾電池 単3形 20本パック"
     brand: "Panasonic"
-    price: 1880
+    price: 1545
     capacity: "20本"
-    pricePerUnit: "約94円/本"
+    pricePerUnit: "約77円/本"
     rating: 4.8
     reviewCount: 51
     features:
@@ -285,7 +285,7 @@ products:
     price: 800
     capacity: "40本"
     rating: 4.63
-    reviewCount: 1165
+    reviewCount: 1168
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"
