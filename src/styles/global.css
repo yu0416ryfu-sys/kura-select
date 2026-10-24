@@ -7,6 +7,7 @@
   --color-text: #0f172a;
   --color-text-sub: #475569;
   --color-primary: #0ea5e9;
+  --color-primary-strong: #0369a1; /* 本文の見出し装飾・リスト記号。白背景で 5.93:1 */
   --color-accent: #10b981;
   --color-warning: #f59e0b;
 
@@ -52,4 +53,30 @@
     font-style: normal;
     font-display: swap;
   }
+}
+
+@layer components {
+  /* 記事本文（ArticleLayout の <slot /> コンテナ）だけに効かせる */
+  .article-body h2 {
+    border-left: 5px solid var(--color-primary-strong);
+    border-bottom: 1px solid var(--color-border);
+    padding: 0.1em 0 0.35em 0.6em;
+  }
+  .article-body h3 {
+    display: flex;
+    align-items: baseline;
+    gap: 0.45em;
+  }
+  .article-body h3::before {
+    content: "";
+    flex-shrink: 0;
+    width: 0.5em;
+    height: 0.5em;
+    background: var(--color-primary-strong);
+    transform: translateY(-0.1em);
+  }
+  .article-body ul { list-style: disc; padding-left: 1.4em; }
+  .article-body ol { list-style: decimal; padding-left: 1.6em; margin-bottom: 1rem; }
+  .article-body li::marker { color: var(--color-primary-strong); }
+  .article-body ol > li::marker { font-weight: 700; }
 }
