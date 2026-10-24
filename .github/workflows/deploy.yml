@@ -39,6 +39,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+          check-latest: true
           cache: pnpm
 
       - name: 依存関係インストール
@@ -89,6 +90,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+          check-latest: true
 
       - name: IndexNowへ更新URLを通知
         run: node scripts/indexnow-submit.mjs
