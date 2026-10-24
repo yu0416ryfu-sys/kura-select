@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1016" width="600" height="1016" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>使い捨てカイロの選び方</title>
+  <rect width="600" height="1016" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">使い捨てカイロの選び方</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">温めたい場所でタイプを決め、外にいる時間で持続時間を選ぶ</text>
+  <rect x="20" y="100" width="560" height="300" rx="14" fill="#fff4ea" stroke="#f0b27a" stroke-width="2"/>
+  <rect x="40" y="118" width="230" height="40" rx="20" fill="#d9701f"/>
+  <text x="155" y="145" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">① どこを温めたいか</text>
+  <rect x="40" y="176" width="166" height="206" rx="10" fill="#ffffff" stroke="#f0b27a" stroke-width="1.5"/>
+  <text x="123" y="208" text-anchor="middle" font-size="17" fill="#374151">背中・腰・お腹</text>
+  <line x1="123" y1="222" x2="123" y2="244" stroke="#d9701f" stroke-width="3"/>
+  <path d="M113 240 L123 254 L133 240 Z" fill="#d9701f"/>
+  <text x="123" y="292" text-anchor="middle" font-size="21" font-weight="700" fill="#1f2937">貼るタイプ</text>
+  <text x="123" y="324" text-anchor="middle" font-size="16" fill="#374151">レギュラーを軸に</text>
+  <text x="123" y="348" text-anchor="middle" font-size="16" fill="#374151">貼れば手が空く</text>
+  <rect x="217" y="176" width="166" height="206" rx="10" fill="#ffffff" stroke="#f0b27a" stroke-width="1.5"/>
+  <text x="300" y="208" text-anchor="middle" font-size="17" fill="#374151">手・ポケット</text>
+  <line x1="300" y1="222" x2="300" y2="244" stroke="#d9701f" stroke-width="3"/>
+  <path d="M290 240 L300 254 L310 240 Z" fill="#d9701f"/>
+  <text x="300" y="292" text-anchor="middle" font-size="21" font-weight="700" fill="#1f2937">貼らないタイプ</text>
+  <text x="300" y="324" text-anchor="middle" font-size="16" fill="#374151">手元を温める</text>
+  <text x="300" y="348" text-anchor="middle" font-size="16" fill="#374151">服の中では動く</text>
+  <rect x="394" y="176" width="166" height="206" rx="10" fill="#ffffff" stroke="#f0b27a" stroke-width="1.5"/>
+  <text x="477" y="208" text-anchor="middle" font-size="17" fill="#374151">首元・肩・狭い所</text>
+  <line x1="477" y1="222" x2="477" y2="244" stroke="#d9701f" stroke-width="3"/>
+  <path d="M467 240 L477 254 L487 240 Z" fill="#d9701f"/>
+  <text x="477" y="292" text-anchor="middle" font-size="21" font-weight="700" fill="#1f2937">貼るミニ</text>
+  <text x="477" y="324" text-anchor="middle" font-size="16" fill="#374151">重ね着の下でも</text>
+  <text x="477" y="348" text-anchor="middle" font-size="16" fill="#374151">膨らみにくい</text>
+  <rect x="20" y="420" width="560" height="330" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <rect x="40" y="438" width="200" height="40" rx="20" fill="#2f6fb5"/>
+  <text x="140" y="465" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">② 外にいる時間</text>
+  <rect x="40" y="496" width="520" height="70" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="60" y="537" font-size="17" font-weight="700" fill="#1f2937">通勤・通学だけ</text>
+  <text x="222" y="537" font-size="17" font-weight="700" fill="#2f6fb5">→</text>
+  <text x="250" y="524" font-size="17" fill="#374151">ミニか標準的なレギュラー</text>
+  <text x="250" y="550" font-size="17" fill="#374151">で足りることが多い</text>
+  <rect x="40" y="578" width="520" height="70" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="60" y="619" font-size="17" font-weight="700" fill="#1f2937">朝から夕方まで屋外</text>
+  <text x="222" y="619" font-size="17" font-weight="700" fill="#2f6fb5">→</text>
+  <text x="250" y="606" font-size="17" fill="#374151">持続時間の長い貼らない</text>
+  <text x="250" y="632" font-size="17" fill="#374151">タイプを手元用に足す</text>
+  <rect x="40" y="660" width="520" height="70" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="60" y="701" font-size="17" font-weight="700" fill="#1f2937">夜まで続く外出</text>
+  <text x="222" y="701" font-size="17" font-weight="700" fill="#2f6fb5">→</text>
+  <text x="250" y="688" font-size="17" fill="#374151">途中で交換する前提で</text>
+  <text x="250" y="714" font-size="17" fill="#374151">個数を多めに持つ</text>
+  <rect x="20" y="770" width="560" height="100" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+  <text x="40" y="808" font-size="18" font-weight="700" fill="#1f2937">持続時間は長いほど得ではない</text>
+  <text x="40" y="842" font-size="17" fill="#374151">短い外出で使うと、まだ温かいうちに捨てることになる</text>
+  <rect x="20" y="890" width="560" height="110" rx="12" fill="#fdecec" stroke="#e57373" stroke-width="2"/>
+  <text x="40" y="922" font-size="18" font-weight="700" fill="#b42318">注意</text>
+  <text x="40" y="953" font-size="17" font-weight="700" fill="#b42318">肌に直接貼らない・寝るときに使わない</text>
+  <text x="40" y="982" font-size="17" fill="#374151">低温やけどの原因になる。熱いと感じたらすぐ外す</text>
+</svg>
