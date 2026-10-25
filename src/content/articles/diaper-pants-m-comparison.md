@@ -4,7 +4,7 @@ description: "パンツ型おむつのMサイズを1枚あたりの価格で比�
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/p648079/"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-25"
         price: 5600
         rating: 4.78
         reviewCount: 296
@@ -144,40 +144,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/travel-depart_c144"
         available: true
   - rank: 5
-    name: "パンパース さらさらケア パンツ Mサイズ"
-    brand: "P&G（パンパース）"
-    price: 1958
-    capacity: "52枚"
-    pricePerUnit: "約38円/枚"
-    rating: 5
-    reviewCount: 3
-    features:
-      - "たっち期向けのMサイズパンツ型"
-      - "さらさら感を重視した通気設計"
-      - "スーパージャンボの袋入り"
-    pros:
-      - "メリーズやムーニーマンとは別ブランドで比較の幅が出る"
-      - "大手ドラッグストアの店舗で買い足しやすい"
-      - "1袋から試して相性を確かめやすい"
-    cons:
-      - "体型によってウエストのフィット感が分かれる"
-      - "まとめ買い向きの構成ではない"
-    recommendedFor: "ブランドを替えて相性を試したい、たっち期のお子さんの保護者"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4987176136152%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10539273%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0083/4987176136152_1.jpg?_ex=128x128"
-    genreId: "205198"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhcvalor%2Fvh-4987176136138.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-23"
-        price: 2494
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hcvalor_vh-4987176136138"
-        available: true
-  - rank: 6
     name: "メリーズ パンツ ファーストプレミアム Mサイズ"
     brand: "花王（メリーズ）"
     price: 1807
@@ -211,7 +177,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_au51038"
         available: true
     genreId: "205198"
-  - rank: 7
+  - rank: 6
     name: "ムーニーマン 低刺激であんしん パンツ Mサイズ"
     brand: "ユニ・チャーム"
     price: 1980
@@ -244,6 +210,40 @@ products:
         rating: 4.2
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2873284013"
+        available: true
+  - rank: 7
+    name: "パンパース さらさらケア パンツ Mサイズ 52枚"
+    brand: "P&G（パンパース）"
+    price: 2315
+    capacity: "52枚"
+    pricePerUnit: "約45円/枚"
+    rating: 5
+    reviewCount: 0
+    features:
+      - "たっち期向けのMサイズパンツ型"
+      - "さらさら感を重視した通気設計"
+      - "スーパージャンボの袋入り"
+    pros:
+      - "メリーズやムーニーマンとは別ブランドで比較の幅が出る"
+      - "大手ドラッグストアの店舗で買い足しやすい"
+      - "1袋から試して相性を確かめやすい"
+    cons:
+      - "体型によってウエストのフィット感が分かれる"
+      - "まとめ買い向きの構成ではない"
+    recommendedFor: "ブランドを替えて相性を試したい、たっち期のお子さんの保護者"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4987176136138%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12415968%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2022b/4987176136138.jpg?_ex=128x128"
+    genreId: "205198"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhcvalor%2Fvh-4987176136138.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-23"
+        price: 2494
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hcvalor_vh-4987176136138"
         available: true
 tags:
   - "パンツ型おむつ おすすめ"

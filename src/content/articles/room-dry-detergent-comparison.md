@@ -4,51 +4,9 @@ description: "部屋干し用洗濯洗剤を1回あたりのコストで徹底�
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 products:
   - rank: 1
-    name: "部屋干しトップ 除菌EX 詰替 810g×10個"
-    brand: "ライオン（トップ）"
-    price: 5380
-    capacity: "810g×10個"
-    pricePerUnit: "約0.66円/g"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "除菌成分配合で部屋干し臭を元からカット"
-      - "詰め替え用タイプの手軽な洗浄力"
-      - "酵素の力でタンパク質汚れを分解"
-    pros:
-      - "除菌EXで臭いの原因菌を除去"
-      - "酵素配合で食べこぼしにも強い"
-      - "詰め替え用でゴミが少なくエコ"
-    cons:
-      - "容量がやや少なく詰め替え頻度が高い"
-      - "大容量タイプに比べてコストが割高"
-    recommendedFor: "洗浄力重視の方・小容量でお試ししたい方・食べこぼしが多い家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rw7pn.3rdw6287.g00rw7pn.3rdw73d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkusurinofukutaro%2F10180417%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkusurinofukutaro%2Fi%2F10104690%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kusurinofukutaro/cabinet/syohin95/10180417.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyyshop%2F4903301340133-10.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-06"
-        price: 4700
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yyshop_4903301340133-10"
-        available: true
-        rating: 4.88
-        reviewCount: 113
-      - provider: "amazon"
-        label: "Amazon"
-        asin: "B0CR6MN4MQ"
-        url: "https://www.amazon.co.jp/dp/B0CR6MN4MQ?tag=kuraselect-direct-22"
-        matchStatus: "matched"
-        matchConfidence: "high"
-        matchedCapacity: "810g×10個"
-        updatedAt: "2026-07-16T00:00:00.000Z"
-    genreId: "210182"
-  - rank: 2
     name: "アタック 抗菌EX 部屋干し用 つめかえ用 2030g"
     brand: "花王（アタック）"
     price: 1399
@@ -90,6 +48,48 @@ products:
         reviewCount: 13
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sgline_kao-attack-heya-2130g-4"
         available: true
+    genreId: "210182"
+  - rank: 2
+    name: "部屋干しトップ 除菌EX 詰替 810g×10個"
+    brand: "ライオン（トップ）"
+    price: 6480
+    capacity: "810g×10個"
+    pricePerUnit: "約0.80円/g"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "除菌成分配合で部屋干し臭を元からカット"
+      - "詰め替え用タイプの手軽な洗浄力"
+      - "酵素の力でタンパク質汚れを分解"
+    pros:
+      - "除菌EXで臭いの原因菌を除去"
+      - "酵素配合で食べこぼしにも強い"
+      - "詰め替え用でゴミが少なくエコ"
+    cons:
+      - "容量がやや少なく詰め替え頻度が高い"
+      - "大容量タイプに比べてコストが割高"
+    recommendedFor: "洗浄力重視の方・小容量でお試ししたい方・食べこぼしが多い家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rw7pn.3rdw6287.g00rw7pn.3rdw73d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkusurinofukutaro%2F10180417%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkusurinofukutaro%2Fi%2F10104690%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kusurinofukutaro/cabinet/syohin95/10180417.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyyshop%2F4903301340133-10.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-06"
+        price: 4700
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yyshop_4903301340133-10"
+        available: true
+        rating: 4.88
+        reviewCount: 113
+      - provider: "amazon"
+        label: "Amazon"
+        asin: "B0CR6MN4MQ"
+        url: "https://www.amazon.co.jp/dp/B0CR6MN4MQ?tag=kuraselect-direct-22"
+        matchStatus: "matched"
+        matchConfidence: "high"
+        matchedCapacity: "810g×10個"
+        updatedAt: "2026-07-16T00:00:00.000Z"
     genreId: "210182"
   - rank: 3
     name: "トップ スーパーナノックス ニオイ専用 部屋干し 詰め替え 1510g×6個セット"
@@ -275,9 +275,9 @@ products:
   - rank: 9
     name: "アリエール ジェルボール4D 部屋干し用 詰め替え 92個"
     brand: "P&G（アリエール）"
-    price: 15356
+    price: 4300
     capacity: "92個（92回分）"
-    pricePerUnit: "約167円/個"
+    pricePerUnit: "約47円/個"
     rating: 4.75
     reviewCount: 8
     features:
@@ -312,7 +312,7 @@ products:
     price: 3780
     capacity: "1000ml"
     rating: 4.63
-    reviewCount: 1281
+    reviewCount: 1282
     features:
       - "おしゃれ着やドライマーク衣類向けの洗剤"
       - "ニットやスーツなどに使いやすい"

@@ -4,7 +4,7 @@ description: "メラミンスポンジを1個あたりのコストで比較。�
 category: "melamine-sponge"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 draft: false
 products:
   - rank: 1
@@ -178,13 +178,13 @@ products:
         available: true
     genreId: "401611"
   - rank: 6
-    name: "レック 激落ちくん メラミンスポンジ 工場用"
+    name: "レック 激落ちくん 工場用メラミンスポンジ 120個"
     brand: "レック（激落ちくん）"
-    price: 5320
+    price: 5099
     capacity: "120個"
-    pricePerUnit: "約44円/個"
-    rating: 4.75
-    reviewCount: 12
+    pricePerUnit: "約42円/個"
+    rating: 5
+    reviewCount: 1
     features:
       - "メラミンフォームの使い捨てクリーナー"
       - "大容量のカット済みタイプ"
@@ -197,8 +197,8 @@ products:
       - "保管スペースを確保する必要がある"
       - "使えない素材を事前に確認する必要がある"
     recommendedFor: "メラミンスポンジをまとめて備えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn68n.3rdw6313.g00qn68n.3rdw75ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4903320048027%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F11156091%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/pics/674/4903320048027.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tiz9n.3rdw6353.g00tiz9n.3rdw771a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprotoolshop%2F4903320048027%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprotoolshop%2Fi%2F10083204%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/protoolshop/cabinet/027/4903320048027.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

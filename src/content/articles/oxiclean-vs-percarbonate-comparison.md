@@ -4,7 +4,7 @@ description: "過炭酸ナトリウムとオキシクリーンは何が違う？
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "3kg"
     pricePerUnit: "約0.38円/g"
     rating: 4.78
-    reviewCount: 848
+    reviewCount: 849
     features:
       - "過炭酸ナトリウム100%の大容量パック"
       - "洗濯槽掃除と衣類の漂白を想定した汎用タイプ"
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann3k.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-25"
         price: 1130
         rating: 4.71
         reviewCount: 245
@@ -48,7 +48,7 @@ products:
     capacity: "4.5kg"
     pricePerUnit: "約0.48円/g"
     rating: 4.84
-    reviewCount: 785
+    reviewCount: 786
     features:
       - "過炭酸ナトリウム100%の特大サイズ"
       - "洗濯槽掃除と浸け置き洗いを想定した容量"
@@ -150,7 +150,7 @@ products:
     capacity: "5.26kg"
     pricePerUnit: "約0.66円/g"
     rating: 4.52
-    reviewCount: 190
+    reviewCount: 191
     features:
       - "アメリカ向け仕様のマルチパーパスクリーナー"
       - "界面活性剤と香料を配合した処方"
@@ -183,8 +183,8 @@ products:
     price: 638
     capacity: "900g"
     pricePerUnit: "約0.71円/g"
-    rating: 4.82
-    reviewCount: 413
+    rating: 4.81
+    reviewCount: 414
     features:
       - "国内製造の過炭酸ナトリウム"
       - "少量から試せる小容量パッケージ"

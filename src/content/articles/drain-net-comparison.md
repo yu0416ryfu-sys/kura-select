@@ -4,7 +4,7 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 draft: false
 products:
   - rank: 1
@@ -178,13 +178,13 @@ products:
         reviewCount: 1
     genreId: "301447"
   - rank: 6
-    name: "水きりネット フィットネット 浅型・深型兼用 50枚入"
+    name: "オーエ 水きりネット フィットネット 50枚"
     brand: "びーんず"
-    price: 358
+    price: 378
     capacity: "50枚"
-    pricePerUnit: "約7.2円/枚"
+    pricePerUnit: "約7.6円/枚"
     rating: 5
-    reviewCount: 1
+    reviewCount: 0
     features:
       - "浅型・深型どちらのバスケットにも対応できる兼用設計"
       - "ポリエステル素材で伸縮性と耐久性を確保"
@@ -197,8 +197,8 @@ products:
       - "50枚入りのため100枚入りと比べて1枚あたりの単価は高くなりやすい"
       - "まとめ買いによる大幅なコスト削減は期待しにくい"
     recommendedFor: "浅型・深型どちらかわからない方・まず試してみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf4an.3rdw647e.g00qf4an.3rdw7c2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fra-beans%2F8300774%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fra-beans%2Fi%2F10015900%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ra-beans/cabinet/d2/8300774.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2hqn.3rdw6518.g00r2hqn.3rdw7197/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finterior-palette%2F253270%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finterior-palette%2Fi%2F10098731%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/interior-palette/cabinet/maker_ohe/253270.jpg?_ex=128x128"
     genreId: "301447"
   - rank: 7
     name: "水切りネット ごみとり物語 三角コーナー用 不織布 50枚入"
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ax13762/"
         matchStatus: "pending"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-25"
         price: 698
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ax13762"
         available: true
@@ -275,7 +275,7 @@ products:
     capacity: "4枚×10袋（40枚）"
     pricePerUnit: "約55円/枚"
     rating: 4.65
-    reviewCount: 1088
+    reviewCount: 1091
     features:
       - "ポリプロピレン・ポリエステル製のヘアキャッチャー"
       - "台所・浴室どちらの排水口にも対応"
@@ -295,10 +295,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fla-kurasu%2F186930-10s.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-25"
         price: 2150
         rating: 4.72
-        reviewCount: 81
+        reviewCount: 82
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/la-kurasu_186930-10s"
         available: true
     genreId: "565605"

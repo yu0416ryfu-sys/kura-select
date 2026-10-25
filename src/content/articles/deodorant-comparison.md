@@ -4,7 +4,7 @@ description: "制汗剤・デオドラントを容量あたりのコストで比
 category: "deodorant"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 products:
   - rank: 1
     name: "Ban 汗ブロックロールオン プレミアムゴールドラベル 40mL"
@@ -47,7 +47,7 @@ products:
     capacity: "30mL"
     pricePerUnit: "約110円/mL"
     rating: 4.4
-    reviewCount: 2159
+    reviewCount: 2160
     features:
       - "ジェルクリームタイプのワキ向けデオドラント"
       - "子どもから大人まで使いやすい設計"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhigh-touch%2Fqdeo-0001-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-25"
         price: 3300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/high-touch_qdeo-0001-a"
         available: true
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhigh-touch%2Fqdeo-0010.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-25"
         price: 3300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/high-touch_qdeo-0010"
         available: true
@@ -129,7 +129,7 @@ products:
       - "初回は単品で試したい方には量が多い"
     recommendedFor: "無香料のロールオン制汗剤をまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sx68n.3rdw6b00.g00sx68n.3rdw7236/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenbasket%2Fuk-perspirexcom20ml-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenbasket%2Fi%2F10000042%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/product_uk/ukproduct/perspirexnew/imgrc0106450064.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/img-up_1_1514/856203_dec_qm9zs8.jpg?_ex=128x128"
     genreId: "507856"
   - rank: 5
     name: "パースピレックス オリジナル 20mL×2個 2個セット"
@@ -152,7 +152,7 @@ products:
       - "初めて使う場合はまとめ買いが多く感じる"
     recommendedFor: "無香料の海外ロールオン制汗剤を継続したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sx68n.3rdw6b00.g00sx68n.3rdw7236/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenbasket%2Fuk-perspirexorg20ml-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenbasket%2Fi%2F10000046%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/product_uk/ukproduct/perspirexnew/imgrc0106450056.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/img-up_1_1514/856205_dec_uhor74.jpg?_ex=128x128"
     genreId: "507856"
   - rank: 6
     name: "パースピレックス オリジナル ロールオン"
@@ -161,7 +161,7 @@ products:
     capacity: "20ml"
     pricePerUnit: "約167円/ml"
     rating: 4.14
-    reviewCount: 1692
+    reviewCount: 1693
     features:
       - "ロールオンタイプの制汗デオドラント"
       - "無香料タイプ"
@@ -175,7 +175,7 @@ products:
       - "使用方法を守って使う必要がある"
     recommendedFor: "汗やニオイ対策を重点的にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sx68n.3rdw6b00.g00sx68n.3rdw7236/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenbasket%2Fuk-perspirexorg20ml%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenbasket%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/product_uk/ukproduct/perspirexnew/imgrc0106450012.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/img-up_1_1514/856202_dec_9sh8w3.jpg?_ex=128x128"
     genreId: "507856"
   - rank: 7
     name: "8x4 パウダースプレー 無香料 150g"
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301333834-73-30001116.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-25"
         price: 728
         rating: 0
         reviewCount: 0
@@ -271,7 +271,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaruishouten%2Fy02488k.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-10-25"
         price: 4500
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/maruishouten_y02488k"
         available: true
@@ -285,7 +285,7 @@ products:
     price: 1800
     capacity: "50g"
     rating: 4.38
-    reviewCount: 1320
+    reviewCount: 1321
     features:
       - "クリームタイプの医薬部外品デオドラント"
       - "ワキガやワキ汗対策向けの処方"
@@ -305,7 +305,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbenkyoudou%2Fyo-yumail-4580392000254.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-25"
         price: 1800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/benkyoudou_yo-yumail-4580392000254"
         available: true

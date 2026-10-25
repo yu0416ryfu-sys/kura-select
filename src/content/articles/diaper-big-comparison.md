@@ -4,7 +4,7 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 products:
   - rank: 1
     name: "グーン スーパーBIG テープ"
@@ -75,6 +75,40 @@ products:
         reviewCount: 3
     genreId: "205198"
   - rank: 3
+    name: "グーンプラス テープ BIGサイズ 38枚"
+    brand: "大王製紙（グーンプラス）"
+    price: 2384
+    capacity: "38枚（BIGサイズ・12〜20kg）"
+    rating: 4.8
+    reviewCount: 0
+    features:
+      - "敏感肌向けのやわらかタッチ素材を採用"
+      - "BIGサイズ12〜20kg対応で長く使える"
+      - "エリエール公式ストアで品質保証"
+    pros:
+      - "敏感肌の赤ちゃんに配慮したやさしい肌触り"
+      - "BIGサイズまで使えるシリーズで成長に合わせて選択可能"
+      - "グーンプラス上位ラインで品質が高い"
+    cons:
+      - "38枚と少なめのため頻繁に購入が必要"
+      - "通常のグーンと比べて価格が高め"
+    recommendedFor: "肌荒れやかぶれが気になる敏感肌の赤ちゃん・BIGサイズをお探しの方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rvxcn.3rdw6a6e.g00rvxcn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanos-sr%2F4902011102871%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnanos-sr%2Fi%2F12497765%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nanos-sr/cabinet/gf00073/4902011102871.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        price: 2745
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcompmoto-y%2F4902011102871.html"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
+        available: true
+        matchStatus: "matched"
+        updatedAt: "2026-10-17"
+        rating: 0
+        reviewCount: 0
+    genreId: "205198"
+    pricePerUnit: "約63円/枚"
+  - rank: 4
     name: "グーン スーパーBIG テープ 3個セット"
     brand: "グーン（大王製紙）"
     price: 6884
@@ -97,7 +131,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4902011745009-003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10136975%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal02/4902011745009.jpg?_ex=128x128"
     genreId: "205198"
-  - rank: 4
+  - rank: 5
     name: "ムーニーマン スーパービッグ 男の子"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1647
@@ -131,7 +165,7 @@ products:
         rating: 5
         reviewCount: 3
     genreId: "200821"
-  - rank: 5
+  - rank: 6
     name: "ムーニーマン スーパービッグ 女の子"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1647
@@ -165,40 +199,6 @@ products:
         rating: 0
         reviewCount: 2
     genreId: "200821"
-  - rank: 6
-    name: "グーンプラス テープ BIGサイズ"
-    brand: "大王製紙（グーンプラス）"
-    price: 1518
-    capacity: "38枚（BIGサイズ・12〜20kg）"
-    rating: 4.8
-    reviewCount: 5
-    features:
-      - "敏感肌向けのやわらかタッチ素材を採用"
-      - "BIGサイズ12〜20kg対応で長く使える"
-      - "エリエール公式ストアで品質保証"
-    pros:
-      - "敏感肌の赤ちゃんに配慮したやさしい肌触り"
-      - "BIGサイズまで使えるシリーズで成長に合わせて選択可能"
-      - "グーンプラス上位ラインで品質が高い"
-    cons:
-      - "38枚と少なめのため頻繁に購入が必要"
-      - "通常のグーンと比べて価格が高め"
-    recommendedFor: "肌荒れやかぶれが気になる敏感肌の赤ちゃん・BIGサイズをお探しの方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00unsmn.3rdw6139.g00unsmn.3rdw7a37/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felleair%2F21001262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felleair%2Fi%2F10000171%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/elleair/cabinet/item-img/img01/21001262-01.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        price: 2745
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcompmoto-y%2F4902011102871.html"
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/compmoto-y_4902011102871"
-        available: true
-        matchStatus: "matched"
-        updatedAt: "2026-10-17"
-        rating: 0
-        reviewCount: 0
-    priceMax: 5852
-    genreId: "205198"
 tags:
   - "BIGサイズ おむつ"
   - "ビッグより大きい おむつ"

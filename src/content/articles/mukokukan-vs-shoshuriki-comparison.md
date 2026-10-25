@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987072094686-3.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-25"
         price: 5577
         rating: 0
         reviewCount: 0
@@ -66,13 +66,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j976230/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/x808238/"
         matchStatus: "pending"
-        updatedAt: "2026-10-23"
-        price: 930
-        rating: 4.58
-        reviewCount: 69
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_j976230"
+        updatedAt: "2026-10-25"
+        price: 1780
+        rating: 4.66
+        reviewCount: 41
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_x808238"
         available: true
     genreId: "401619"
   - rank: 3
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4901070119141.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-25"
         price: 383
         rating: 0
         reviewCount: 0

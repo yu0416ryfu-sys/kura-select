@@ -81,7 +81,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1197-4987067829309x8.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-25"
         price: 5573
         rating: 5
         reviewCount: 8
@@ -115,7 +115,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej35309/"
         matchStatus: "pending"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-25"
         price: 2889
         rating: 0
         reviewCount: 2
@@ -149,7 +149,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej35309/"
         matchStatus: "pending"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-25"
         price: 2889
         rating: 0
         reviewCount: 2
@@ -183,7 +183,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladybird6353%2F1919335.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-25"
         price: 2980
         rating: 0
         reviewCount: 0
@@ -217,8 +217,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F4970520461383set.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
-        price: 6080
+        updatedAt: "2026-10-25"
+        price: 6480
         rating: 4.91
         reviewCount: 11
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_4970520461383set"
@@ -251,8 +251,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F4970520461338set.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
-        price: 6080
+        updatedAt: "2026-10-25"
+        price: 6480
         rating: 5
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/livingut_4970520461338set"

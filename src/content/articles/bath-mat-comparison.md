@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 draft: false
 products:
   - rank: 1
@@ -48,7 +48,7 @@ products:
     capacity: "45×65cm 1枚"
     pricePerUnit: "約1000円/枚"
     rating: 4.4
-    reviewCount: 1372
+    reviewCount: 1373
     features:
       - "綿100%で肌に優しい"
       - "パイル生地で吸水性に優れた設計"
@@ -80,9 +80,9 @@ products:
   - rank: 3
     name: "今治タオル レオン バスマット"
     brand: "今治タオル"
-    price: 2290
+    price: 1980
     capacity: "42×67cm 1枚"
-    pricePerUnit: "約2290円/枚"
+    pricePerUnit: "約1980円/枚"
     rating: 4.61
     reviewCount: 2147
     features:
@@ -98,16 +98,16 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r0pnn.3rdw6bf8.g00r0pnn.3rdw7fc4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcyberl2010%2F0215-0212-0101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcyberl2010%2Fi%2F10000622%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cyberl2010/cabinet/01635375/colormat300pix6.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cyberl2010/cabinet/cartsale/lebm_18_3.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbroome%2F0215-0212-0101.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
-        price: 2290
+        updatedAt: "2026-10-25"
+        price: 1980
         rating: 4.54
-        reviewCount: 286
+        reviewCount: 290
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/broome_0215-0212-0101"
         available: true
     genreId: "100650"
@@ -168,13 +168,24 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pz5qn.3rdw6327.g00pz5qn.3rdw7b11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimportshopaqua%2Fac-bm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimportshopaqua%2Fi%2F10002973%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/importshopaqua/cabinet/zoom_c/omk0/10/ac-bm.jpg?_ex=128x128"
     genreId: "100650"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F49149.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-25"
+        price: 11000
+        rating: 4.68
+        reviewCount: 53
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_49149"
+        available: true
   - rank: 6
     name: "バスマット マイクロファイバー"
     brand: "Inbloom"
     price: 1170
     capacity: "40×60cm 1枚"
     rating: 4.34
-    reviewCount: 1075
+    reviewCount: 1078
     features:
       - "マイクロファイバーとポリエステル混合"
       - "抗菌・防臭加工で清潔さを保つ"
@@ -193,13 +204,24 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/gossipstar/cabinet/pop/bm1187-pop.jpg?_ex=128x128"
     priceMax: 2780
     genreId: "100650"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimjp%2F10000010a.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-25"
+        price: 1880
+        rating: 4.62
+        reviewCount: 1065
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himjp_10000010a"
+        available: true
   - rank: 7
     name: "バスマット 速乾 洗える【1秒吸収】"
     brand: "Latuna"
     price: 1999
     capacity: "40×60cm / 50×80cm 1枚"
     rating: 4.64
-    reviewCount: 3322
+    reviewCount: 3324
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"

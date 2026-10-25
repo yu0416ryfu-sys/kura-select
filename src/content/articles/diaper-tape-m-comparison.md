@@ -89,13 +89,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ek09975/"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmvtokai-yho%2Fbaby039.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-23"
-        price: 2350
+        updatedAt: "2026-10-25"
+        price: 2900
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ek09975"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/mvtokai-yho_baby039"
         available: true
   - rank: 4
     name: "メリーズ エアスルー テープ Mサイズ"
@@ -124,8 +124,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2875571012.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-23"
+        matchStatus: "matched"
+        updatedAt: "2026-10-25"
         price: 8712
         rating: 0
         reviewCount: 0
@@ -157,7 +157,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/anu1891/"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-25"
         price: 2390
         rating: 0
         reviewCount: 0

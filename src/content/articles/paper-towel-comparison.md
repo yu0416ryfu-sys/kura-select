@@ -4,7 +4,7 @@ description: "手拭き用ペーパータオルのおすすめ10選を、1枚（
 category: "kitchen-paper"
 publishedAt: "2026-10-14"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "200枚×49袋"
     pricePerUnit: "約0.54円/枚"
     rating: 4.77
-    reviewCount: 275
+    reviewCount: 276
     features:
       - "小判サイズの1枚もの（シングル）"
       - "国産の業務用ペーパータオル"
@@ -161,8 +161,8 @@ products:
     price: 4785
     capacity: "200枚×30袋"
     pricePerUnit: "約0.80円/枚"
-    rating: 4.42
-    reviewCount: 102
+    rating: 4.43
+    reviewCount: 103
     features:
       - "中判サイズの1枚もの（シングル）"
       - "バージンパルプを使用（商品ページ表記）"

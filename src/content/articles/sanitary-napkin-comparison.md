@@ -4,7 +4,7 @@ description: "生理用ナプキンはどれがコスパ最強？ソフィ・ロ
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 products:
   - rank: 1
     name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20.5cm"
@@ -75,13 +75,13 @@ products:
         available: true
     genreId: "402761"
   - rank: 3
-    name: "ソフィ はだおもい オーガニックコットン 特に多い昼用 230 羽つき 15枚入*3袋セット"
+    name: "ソフィ はだおもい オーガニックコットン 特に多い昼用 230 羽つき 15枚×3袋"
     brand: "ユニ・チャーム（ソフィ）"
     price: 1643
     capacity: "15枚×3"
     pricePerUnit: "約37円/枚"
     rating: 4.8
-    reviewCount: 55
+    reviewCount: 0
     features:
       - "表面材にオーガニックコットンを使用"
       - "230mm の昼用サイズで羽つき"
@@ -94,8 +94,8 @@ products:
       - "通常タイプに比べて価格帯は高め"
       - "昼用サイズのため夜間には別途必要"
     recommendedFor: "肌あたりと素材を優先しつつ昼用をまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F62688%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10888547%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/688/62688.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r0nun.3rdw6bc3.g00r0nun.3rdw7bd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujiyaku%2F4903111301249-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujiyaku%2Fi%2F10023400%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fujiyaku/cabinet/item21/4903111301249.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

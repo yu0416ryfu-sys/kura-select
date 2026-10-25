@@ -4,7 +4,7 @@ description: "除湿剤おすすめ8選を吸湿量1mLあたりの単価で徹�
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 products:
   - rank: 1
     name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
@@ -13,7 +13,7 @@ products:
     capacity: "550mL×45個（24,750mL分）"
     pricePerUnit: "約0.17円/mL"
     rating: 4.82
-    reviewCount: 271
+    reviewCount: 272
     features:
       - "国内定番の大容量タンクタイプ除湿剤"
       - "強力脱臭・防臭・防カビ効果"
@@ -67,11 +67,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901070910168.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-29"
+        matchStatus: "matched"
+        updatedAt: "2026-10-25"
         price: 240
-        rating: 5
-        reviewCount: 5
+        rating: 4.83
+        reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901070910168"
         available: true
   - rank: 3
@@ -134,13 +134,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshopmi%2F20260915160845-00625.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foasiszakkaten%2F20260917004143-00593.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-17"
-        price: 2772
+        updatedAt: "2026-10-25"
+        price: 2705
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/shopmi_20260915160845-00625"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/oasiszakkaten_20260917004143-00593"
         available: true
   - rank: 5
     name: "激乾 除湿剤 タンクタイプ（400mL×3個パック）"
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F4522831169818.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-25"
         price: 1090
         rating: 0
         reviewCount: 1

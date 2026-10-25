@@ -3,7 +3,7 @@ title: "ジョイとキュキュットどっちがいい？油汚れはジョイ
 description: "ジョイとキュキュットはどっちがいい？結論は、油汚れを落としたいならジョイ、泡切れ・すすぎやすさ重視ならキュキュット。大容量詰め替えの1mL単価・除菌・香りも比較し、用途別の選び方と使うときの失敗例まで解説。価格は毎週自動更新。"
 category: "dish-detergent"
 publishedAt: "2026-07-27"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 articleType: "comparison"
 products:
   - rank: 1
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnicobase%2F2nico-4901301418609.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-25"
         price: 2346
         rating: 0
         reviewCount: 1

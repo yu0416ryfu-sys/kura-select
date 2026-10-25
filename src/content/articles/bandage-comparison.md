@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ9選を1枚あた�
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 draft: false
 products:
   - rank: 1
@@ -53,6 +53,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pp25n.3rdw63dd.g00pp25n.3rdw7c22/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwellness-web%2F10008242%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwellness-web%2Fi%2F10008242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wellness-web/cabinet/shouhin54/4955574781526.jpg?_ex=128x128"
     genreId: "204748"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10008242.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-25"
+        price: 188
+        rating: 3.92
+        reviewCount: 12
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10008242"
+        available: true
   - rank: 3
     name: "ケアレージュ 救急バン Mサイズ 100枚"
     brand: "ケアレージュ（CARELAGE）"
@@ -76,6 +87,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe408418h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10442303%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/687/4560309820687.jpg?_ex=128x128"
     genreId: "568428"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffines-f%2F4560309820687.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-25"
+        price: 178
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fines-f_4560309820687"
+        available: true
   - rank: 4
     name: "リバテープ 救急ばんそうこう Mサイズ 100枚"
     brand: "リバテープ製薬"
@@ -99,6 +121,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe386726h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10325203%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/793/4987335200793.jpg?_ex=128x128"
     genreId: "568428"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3331455/"
+        matchStatus: "pending"
+        updatedAt: "2026-10-25"
+        price: 698
+        rating: 4.57
+        reviewCount: 53
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_3331455"
+        available: true
   - rank: 5
     name: "キズリバテープ ウレタンタイプ 伸縮自在 ST60 60枚"
     brand: "キズリバテープ（共立薬品工業）"
@@ -122,6 +155,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fr000269197505%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10140979%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/680/4987059002680.jpg?_ex=128x128"
     genreId: "568428"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987059002680.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-25"
+        price: 778
+        rating: 5
+        reviewCount: 7
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987059002680"
+        available: true
   - rank: 6
     name: "バンドエイド 超フィット Mサイズ 100枚"
     brand: "バンドエイド（BAND-AID）"
@@ -145,6 +189,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901730230322%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11231350%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/322/4901730230322.jpg?_ex=128x128"
     genreId: "568428"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/wxj9152/"
+        matchStatus: "pending"
+        updatedAt: "2026-10-25"
+        price: 1071
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_wxj9152"
+        available: true
   - rank: 7
     name: "ニチバン ケアリーヴ 素肌タイプ Mサイズ 100枚"
     brand: "ニチバン（ケアリーヴ）"
@@ -172,8 +227,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10092408.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
-        price: 986
+        updatedAt: "2026-10-25"
+        price: 1022
         rating: 4.93
         reviewCount: 98
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10092408"
@@ -182,9 +237,9 @@ products:
   - rank: 8
     name: "ケアリーヴ 防水タイプ Mサイズ 40枚"
     brand: "ニチバン（ケアリーヴ）"
-    price: 896
+    price: 916
     capacity: "40枚"
-    pricePerUnit: "約22円/枚"
+    pricePerUnit: "約23円/枚"
     rating: 4.79
     reviewCount: 19
     features:
@@ -202,6 +257,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fk414910h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10043804%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/770/4987167044770.jpg?_ex=128x128"
     genreId: "568428"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3185722/"
+        matchStatus: "pending"
+        updatedAt: "2026-10-25"
+        price: 747
+        rating: 4.5
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_3185722"
+        available: true
   - rank: 9
     name: "白十字 ファミリーケア ワンタッチパット Mサイズ 22枚"
     brand: "白十字（ファミリーケア）"
@@ -229,7 +295,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987603464520.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-26"
+        updatedAt: "2026-10-25"
         price: 580
         rating: 0
         reviewCount: 0

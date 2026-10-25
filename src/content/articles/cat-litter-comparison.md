@@ -4,7 +4,7 @@ description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペ
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 draft: false
 products:
   - rank: 1
@@ -71,7 +71,7 @@ products:
     capacity: "6.5L×8袋（52L）"
     pricePerUnit: "約99円/L"
     rating: 4.55
-    reviewCount: 2398
+    reviewCount: 2399
     features:
       - "国産再生紙由来の紙製猫砂"
       - "濡れると色が変わる変色機能付き"
@@ -195,7 +195,7 @@ products:
     price: 2680
     capacity: "5L×4袋（20L）"
     rating: 4.61
-    reviewCount: 1968
+    reviewCount: 1969
     features:
       - "ベントナイト鉱物系・ペレットタイプの固まる猫砂"
       - "抗菌・脱臭機能付きで衛生管理を考慮した設計"
@@ -286,7 +286,7 @@ products:
     price: 4349
     capacity: "6L×3個（18L）"
     rating: 4.68
-    reviewCount: 2115
+    reviewCount: 2120
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"

@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 products:
   - rank: 1
     name: "国内産 ブレンド米 白米 10kg（訳あり）"
@@ -13,7 +13,7 @@ products:
     capacity: "10kg"
     pricePerUnit: "約418円/kg"
     rating: 4.39
-    reviewCount: 16101
+    reviewCount: 16100
     features:
       - "国内産の複数原料米（ブレンド米）"
       - "通常の精米（無洗米ではない）"
@@ -93,7 +93,7 @@ products:
     recommendedFor: "産地重視で新潟県産コシヒカリを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q4ksn.3rdw606a.g00q4ksn.3rdw7324/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhseason%2Fmnnk005-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhseason%2Fi%2F10000180%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 4.64
-    reviewCount: 3558
+    reviewCount: 3559
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hseason/cabinet/00208353/04348418/muniigata_10k.jpg?_ex=128x128"
     pricePerUnit: "約618円/kg"
     offers:
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkosihikari%2F205.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-25"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kosihikari_205"
         available: true
@@ -239,7 +239,7 @@ products:
     price: 9980
     capacity: "18kg〜20kg"
     rating: 4.74
-    reviewCount: 45847
+    reviewCount: 45852
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

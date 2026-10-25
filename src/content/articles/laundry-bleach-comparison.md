@@ -283,7 +283,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fipstyle%2F12003.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-29"
+        updatedAt: "2026-10-25"
         price: 3520
         rating: 5
         reviewCount: 3
@@ -316,7 +316,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmebox%2Fj4904735053064f.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-24"
+        updatedAt: "2026-10-25"
         price: 538
         rating: 0
         reviewCount: 1
