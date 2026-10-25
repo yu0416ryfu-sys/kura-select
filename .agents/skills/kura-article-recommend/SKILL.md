@@ -18,6 +18,7 @@ KuraSelectの新規比較記事候補を、思いつきではなく既存コン�
 4. MCPが利用可能なら、読み取り専用の `kura-content` MCP で `search_rag` / `get_product_context` / `read_latest_reports` を使う。MCPが使えない場合は、その旨をユーザーへ簡潔に報告してからローカルファイルを直接読む。`search_rag` は部分一致検索のため、返却された record の `category` / `articleFile` を確認し、無関係な行が混ざっていないかチェックすること。
 5. `reports/addition-candidates-*.md` / `reports/addition-urls-*.md` / `reports/toAI/` は最新または関連ジャンルだけを確認する。`reports/` はコミット対象外なので編集しない。
 6. **GSC で需要を実測する。** `mcp__gsc__gsc_search_analytics` を `dimensions:["query"]`・直近28日で投げ、候補ジャンルの指名クエリが既存記事で表示を拾っているかを見る（窓の終端は `dimensions:["date"]` で実測した確定日まで。CLAUDE.md §5.0.2 のルール1）。最新の `reports/gsc-harvest/harvest-*.md` があれば先に読む。
+7. `docs/CONTENT_IMPROVEMENT_LOG.md` §4（新規記事の種）で判断が「kura-article-recommend へ回す」の種を見る（`kura-trend-topics` が記録する SNS・世間の話題由来のジャンル）。**既存の採択基準（vs 記事の2条件・vs 以外は表示30以上・受け皿が無ければ0扱い）と月の新規枠はそのまま適用し、種であることを理由に基準を緩めない。** 受け皿の無い話題は表示が立たず見送りになるのが普通で、種は需要が育ったジャンルを見逃さないための記録にすぎない。docs/ が無い環境（別 PC）では飛ばしてよい。
 
 ## vs 記事（ブランド一騎打ち）の採択基準（必須）
 
