@@ -184,11 +184,11 @@ products:
   - rank: 6
     name: "おしり拭き 流せる シート 純水99.9% W保湿成分配合"
     brand: "Lec.Be"
-    price: 2330
+    price: 2912
     capacity: "60枚×15個"
-    pricePerUnit: "約2.6円/枚"
-    rating: 4.57
-    reviewCount: 390
+    pricePerUnit: "約3.2円/枚"
+    rating: 0
+    reviewCount: 0
     features:
       - "純水99.9%で肌に優しい処方"
       - "流せるシートで処理が簡単"
@@ -201,8 +201,8 @@ products:
       - "流せる製品のため単価がやや高い"
       - "詰まりのリスクがゼロではない"
     recommendedFor: "処理の手軽さと肌への優しさの両立を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5d7n.3rdw6b76.g00s5d7n.3rdw7a8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect-2%2F4560319042413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect-2%2Fi%2F10003040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect-2/cabinet/img/e/e00975-2.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0eon.3rdw6d08.g00u0eon.3rdw7b97/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbontan108%2F20260805115700_104%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbontan108%2Fi%2F10089464%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bontan108/cabinet/r_2026080514/20260805115700_104_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

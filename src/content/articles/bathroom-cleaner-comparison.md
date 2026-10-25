@@ -43,11 +43,11 @@ products:
   - rank: 2
     name: "ルックプラス バスタブクレンジング 銀イオンプラス ハーバルグリーン 詰替 800mL"
     brand: "ライオン（ルック）"
-    price: 366
+    price: 482
     capacity: "800mL"
-    pricePerUnit: "約0.46円/mL"
-    rating: 5
-    reviewCount: 19
+    pricePerUnit: "約0.60円/mL"
+    rating: 4.73
+    reviewCount: 11
     features:
       - "ミストスプレーで浴槽全体に広がる"
       - "こすらず60秒で皮脂汚れを分解"
@@ -60,8 +60,8 @@ products:
       - "詰め替え時にこぼしやすい"
       - "カビ取り効果はない（日常洗い専用）"
     recommendedFor: "最安値を求める方・浴槽掃除がメインの方・すすぎの楽さを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4903301302674%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F13008452%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/5337/00000007925156_a01.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301302674%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F11958324%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/renewal03/4903301302674.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
