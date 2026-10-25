@@ -4,7 +4,7 @@ description: "洗濯洗剤は液体・粉末・ジェルボールのどれがコ
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-25"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -41,63 +41,98 @@ products:
         reviewCount: 13
     genreId: "210182"
   - rank: 2
-    name: "トップ クリアリキッド抗菌 業務用 4kg×3本"
-    brand: "ライオン（トップ）"
-    price: 7170
-    capacity: "4kg×3本（12kg）"
-    pricePerUnit: "約0.60円/g"
-    rating: 4.94
-    reviewCount: 17
+    name: "トップ クリアリキッド抗菌 詰替 超特大 900g×6個セット"
+    brand: "トップ（ライオン）"
+    price: 2980
+    capacity: "900g×6個"
+    pricePerUnit: "約0.55円/g"
+    rating: 4.75
+    reviewCount: 4
     features:
-      - "衣類洗濯に使う洗剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
+      - "液体タイプの衣料用洗剤"
+      - "抗菌・部屋干し向けをうたう商品"
+      - "超特大サイズの詰め替え用をまとめた構成"
     pros:
-      - "洗濯物の種類に合わせて選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
+      - "部屋干しが多い家庭で使いやすい"
+      - "まとめ買いで買い足しの頻度を下げられる"
+      - "家庭用の定番シリーズで扱いやすい"
     cons:
-      - "香りや洗い上がりの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "洗濯物の種類に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r74en.3rdw6e21.g00r74en.3rdw7279/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-nontarou%2Fr5-15090k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-nontarou%2Fi%2F10005822%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-nontarou/cabinet/sale/root_hz/r5-15090.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnontarou-selection%2Fr5-15080k.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-04"
-        price: 6350
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nontarou-selection_r5-15080k"
-        available: true
-        rating: 4.88
-        reviewCount: 42
+      - "複数袋分の置き場所が必要"
+      - "香りが控えめなので、香りを重視する方には物足りないことがある"
+    recommendedFor: "部屋干しが多く、香りより抗菌を優先してまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00us33n.3rdw6ffe.g00us33n.3rdw7df9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsskikaku%2F4903301365570-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsskikaku%2Fi%2F10000023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sskikaku/cabinet/imgrc0122421950.jpg?_ex=128x128"
     genreId: "210182"
   - rank: 3
-    name: "WORKERS 作業着液体洗剤 業務用"
-    brand: "WORKERS"
-    price: 14432
-    capacity: "4500g×4本"
-    pricePerUnit: "約0.80円/g"
-    rating: 4.61
-    reviewCount: 169
+    name: "アタックZERO つめかえ用 2300g"
+    brand: "アタック（花王）"
+    price: 2238
+    capacity: "2300g"
+    pricePerUnit: "約0.97円/g"
+    rating: 4.77
+    reviewCount: 30
     features:
-      - "衣類用の液体洗剤"
-      - "業務用・大容量で使いやすい"
-      - "汚れの多い衣類にも選びやすい"
+      - "濃縮タイプの液体洗剤"
+      - "部屋干しの臭い対策をうたうシリーズ"
+      - "詰め替え用の大きめサイズ"
     pros:
-      - "まとめ買い向き"
-      - "使用頻度が高い家庭に向く"
-      - "作業着洗いに使いやすい"
+      - "1回に使う量が少なく、ボトルへの詰め替え回数を減らしやすい"
+      - "ドラム式・縦型のどちらでも使いやすい液体タイプ"
+      - "ドラッグストアでも見かける定番ブランドで選びやすい"
     cons:
-      - "保管場所が必要"
-      - "通常衣類への使い方は表示確認が必要"
-    recommendedFor: "大容量の洗濯洗剤を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psx0n.3rdw6310.g00psx0n.3rdw7f9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissansoap%2F620905a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissansoap%2Fi%2F10000769%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nissansoap/cabinet/01/workers/workers2019_4500_c.jpg?_ex=128x128"
+      - "詰め替え用なので、本体ボトルを別に用意する必要がある"
+      - "香りの好みは実際に使って確かめたい"
+    recommendedFor: "部屋干しが多く、定番ブランドの液体洗剤を詰め替えで使い続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301466211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10042602%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/211/4901301466211.jpg?_ex=128x128"
     genreId: "210182"
   - rank: 4
+    name: "アタック 高活性バイオパワー つめかえ用 750g×8パック"
+    brand: "アタック（花王）"
+    price: 5900
+    capacity: "750g×8個"
+    pricePerUnit: "約0.98円/g"
+    rating: 5
+    reviewCount: 5
+    features:
+      - "粉末タイプの衣料用洗剤"
+      - "酵素配合をうたう粉末洗剤"
+      - "詰め替え用パックのまとめ買い構成"
+    pros:
+      - "皮脂汚れや泥汚れの多い洗濯物にも使いやすい粉末タイプ"
+      - "粉末は液体より1gあたりの単価が下がりやすい傾向がある"
+      - "パック単位で開封できるので湿気を避けて保管しやすい"
+    cons:
+      - "水温が低いと溶け残ることがある"
+      - "ドラム式の自動投入には使えない機種がある"
+    recommendedFor: "子どもの泥汚れや作業着など、汚れの多い洗濯物を普段の洗剤で洗いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qqojn.3rdw68f8.g00qqojn.3rdw7493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feco-hiryo%2Flaundry204%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feco-hiryo%2Fi%2F10001646%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/eco-hiryo/cabinet/item7/laundry204-a1.jpg?_ex=128x128"
+    genreId: "210182"
+  - rank: 5
+    name: "アリエール 液体 詰め替え 超ジャンボ 1000g×4セット"
+    brand: "アリエール（P&G）"
+    price: 4078
+    capacity: "1000g×4個"
+    pricePerUnit: "約1.0円/g"
+    rating: 4.62
+    reviewCount: 666
+    features:
+      - "液体タイプの衣料用洗剤"
+      - "超ジャンボサイズの詰め替え用を複数袋まとめた構成"
+      - "香り・タイプを選んで購入できる"
+    pros:
+      - "まとめ買いで買い足しの手間を減らせる"
+      - "1袋ずつ開封できるので保管しやすい"
+      - "家庭用の定番ブランドで使い方に迷いにくい"
+    cons:
+      - "複数袋分の置き場所が必要"
+      - "選ぶタイプによって香りや得意な汚れが違う"
+    recommendedFor: "家族の洗濯物が多く、定番の液体洗剤をまとめて買っておきたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11279561%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/421/405421.jpg?_ex=128x128"
+    genreId: "210182"
+  - rank: 6
     name: "アリエール 部屋干し 除菌プラス 詰め替え 超ジャンボ 1kg×6袋"
     brand: "アリエール（P&G）"
     price: 8921
@@ -132,64 +167,30 @@ products:
         rating: 0
         reviewCount: 0
     genreId: "210182"
-  - rank: 5
-    name: "ハイベック プレミアムドライ 1100g"
-    brand: "ハイベック"
-    price: 6600
-    capacity: "1100g"
-    pricePerUnit: "約6.0円/g"
-    rating: 4.62
-    reviewCount: 786
-    features:
-      - "衣類洗濯に使う洗剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "洗濯物の種類に合わせて選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "香りや洗い上がりの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "洗濯物の種類に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r3zun.3rdw6a0f.g00r3zun.3rdw79f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec%2F00000101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec%2Fi%2F10000019%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec/cabinet/01874330/premiun/hi-bec_premium_01.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-25"
-        price: 6600
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
-        available: true
-        rating: 4.7
-        reviewCount: 20
-    genreId: "210182"
-  - rank: 6
-    name: "サンベック高級洗剤 1000g"
-    brand: "サンベック"
-    price: 6380
-    capacity: "1000g"
-    pricePerUnit: "約6.4円/g"
-    rating: 4.7
-    reviewCount: 657
-    features:
-      - "衣類洗濯に使う洗剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "洗濯物の種類に合わせて選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "香りや洗い上がりの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "洗濯物の種類に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsb1000-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000195%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/18sb.jpg?_ex=128x128"
-    genreId: "210182"
   - rank: 7
+    name: "大人のさらさ 詰替 超特大 760g×2セット"
+    brand: "さらさ（P&G）"
+    price: 2380
+    capacity: "760g×2個"
+    pricePerUnit: "約1.6円/g"
+    rating: 4.47
+    reviewCount: 17
+    features:
+      - "液体タイプの衣料用洗剤"
+      - "肌へのやさしさを重視したシリーズ"
+      - "超特大サイズの詰め替え用を2袋まとめた構成"
+    pros:
+      - "肌着やタオルなど肌に触れる衣類を洗う洗剤として選びやすい"
+      - "2袋構成で保管場所を取りにくい"
+      - "家庭用の定番シリーズで買い足ししやすい"
+    cons:
+      - "1gあたりの単価は大容量の液体洗剤より高めになりやすい"
+      - "汚れの多い作業着などには別の洗剤を検討したい"
+    recommendedFor: "家族の肌着やタオルを、肌へのやさしさを重視した洗剤で洗いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F631045%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11386298%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/045/631045.jpg?_ex=128x128"
+    genreId: "210182"
+  - rank: 8
     name: "海へ Fukii 詰替 380g"
     brand: "がんこ本舗"
     price: 2552
@@ -223,7 +224,7 @@ products:
         rating: 4.78
         reviewCount: 9
     genreId: "210182"
-  - rank: 8
+  - rank: 9
     name: "海へ Fukii 詰替 380g×3個セット"
     brand: "がんこ本舗"
     price: 7656
@@ -255,40 +256,6 @@ products:
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/okinawangirls_umihe-fukii3"
-        available: true
-    genreId: "210182"
-  - rank: 9
-    name: "サンベックドライ洗剤 500g"
-    brand: "サンベック"
-    price: 3980
-    capacity: "500g"
-    pricePerUnit: "約8.0円/g"
-    rating: 4.68
-    reviewCount: 567
-    features:
-      - "衣類洗濯に使う洗剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "洗濯物の種類に合わせて選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "香りや洗い上がりの好みを確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "洗濯物の種類に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwqon.3rdw612a.g00qwqon.3rdw718c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhibec-senmonten%2Fsbd500-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhibec-senmonten%2Fi%2F10000197%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hibec-senmonten/cabinet/01411001/sanbec/imgrc0074782606.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftamari-do%2Fli08c865d17f.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-23"
-        price: 15800
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tamari-do_li08c865d17f"
         available: true
     genreId: "210182"
   - rank: 10
