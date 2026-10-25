@@ -831,6 +831,19 @@ export function getArticleSpecificAdditionRule(category: string, baseKeyword: st
     return CATEGORY_SEARCH_RULES['bandage'];
   }
 
+  // mineral-water カテゴリのポット型浄水器カートリッジ記事（water-filter-cartridge）はマクストラ規格の交換用カートリッジだけを扱う
+  // 規格の違う蛇口直結型・他社ポット用やポット本体の混入を防ぐため、マクストラの表記を必須にする
+  if (category === 'mineral-water' && /カートリッジ/.test(baseKeyword) && !/買い切り/.test(baseKeyword)) {
+    return {
+      keywords: ['ブリタ マクストラプロ カートリッジ', 'マクストラ 互換 カートリッジ', 'ブリタ カートリッジ まとめ買い'],
+      include: ['カートリッジ', 'フィルター'],
+      requiredGroups: [['マクストラ', 'MAXTRA', 'maxtra']],
+      exclude: ['蛇口', '直結', 'ポット本体', '本体のみ', 'ウォーターサーバー', 'サーバー', 'クリンスイ', 'トレビーノ', 'シャワー', 'ボトル型', 'アルカリ'],
+      units: ['個'],
+      minScore: 4,
+    };
+  }
+
   // mineral-water カテゴリは「ウォーターサーバー」を除外語にしているため、買い切り卓上浄水サーバー記事は専用ルールにする
   // ノーブランドの同型品（温冷両用 5L 等）が大量出品されているので、ブランド名を必須にして混入を防ぐ
   if (category === 'mineral-water' && /買い切り/.test(baseKeyword)) {
