@@ -327,14 +327,22 @@ function displayPriceValue(offer: ProductOffer): number {
 }
 
 // 購入ボタン等の表示順を「最安サイト先頭」に並べ替える。
-// 価格未知・Amazon（価格確認）は末尾。同価格は既存 PROVIDER_ORDER で安定化する。
+// 価格未知・Amazon（価格確認）は末尾扱いで並べたうえで、Amazon が3番目以降なら2番目へ移す
+// （押されたときの報酬が多いため。docs/IMPLEMENTATION_PLAN_AMAZON_SECOND_2026-10-25.md）。
+// 同価格は既存 PROVIDER_ORDER で安定化する。
 export function sortOffersByPriceForDisplay(offers: ProductOffer[]): ProductOffer[] {
-  return [...offers].sort((a, b) => {
+  const sorted = [...offers].sort((a, b) => {
     const av = displayPriceValue(a);
     const bv = displayPriceValue(b);
     if (av !== bv) return av - bv;
     return PROVIDER_ORDER[a.provider] - PROVIDER_ORDER[b.provider];
   });
+  const amazonIndex = sorted.findIndex((offer) => offer.provider === "amazon");
+  if (amazonIndex >= 2) {
+    const [amazon] = sorted.splice(amazonIndex, 1);
+    sorted.splice(1, 0, amazon);
+  }
+  return sorted;
 }
 
 // 表示対象 offer の中で最安のもの（primary 強調用）。価格を表示する offer が無ければ null。

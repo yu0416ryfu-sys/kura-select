@@ -15,6 +15,7 @@ import {
   buildAmazonSearchUrl,
   getAmazonSearchFallbackOffer,
   getRakutenRating,
+  sortOffersByPriceForDisplay,
   PROVIDER_META,
 } from "../src/lib/offers";
 
@@ -733,5 +734,38 @@ describe("Amazon 検索フォールバック", () => {
     );
     const providers = offers.map((o) => o.provider);
     expect(providers).toEqual(["rakuten", "yahoo", "amazon"]);
+  });
+});
+
+describe("sortOffersByPriceForDisplay", () => {
+  const rakuten = (price?: number) => ({ provider: "rakuten" as const, label: "楽天市場", url: rakutenUrl, price });
+  const yahoo = (price?: number) => ({ provider: "yahoo" as const, label: "Yahoo!", url: yahooUrl, price });
+  const amazon = { provider: "amazon" as const, label: "Amazon", url: amazonUrl };
+  const providers = (offers: { provider: string }[]) => offers.map((o) => o.provider);
+
+  it("最安の楽天の次に Amazon を置き、Yahoo を最後にする", () => {
+    expect(providers(sortOffersByPriceForDisplay([rakuten(1000), yahoo(1200), amazon]))).toEqual(["rakuten", "amazon", "yahoo"]);
+  });
+
+  it("Yahoo が最安なら Yahoo を先頭に残し、Amazon を2番目にする", () => {
+    expect(providers(sortOffersByPriceForDisplay([rakuten(1200), yahoo(1000), amazon]))).toEqual(["yahoo", "amazon", "rakuten"]);
+  });
+
+  it("ボタンが2つなら並びは変わらない", () => {
+    expect(providers(sortOffersByPriceForDisplay([amazon, rakuten(1000)]))).toEqual(["rakuten", "amazon"]);
+  });
+
+  it("Amazon が無ければ価格順のまま", () => {
+    expect(providers(sortOffersByPriceForDisplay([rakuten(1200), yahoo(1000)]))).toEqual(["yahoo", "rakuten"]);
+  });
+
+  it("価格が全部無いときは楽天を先頭にして Amazon を2番目にする", () => {
+    expect(providers(sortOffersByPriceForDisplay([yahoo(), amazon, rakuten(0)]))).toEqual(["rakuten", "amazon", "yahoo"]);
+  });
+
+  it("入力の配列を変更しない", () => {
+    const input = [rakuten(1000), yahoo(1200), amazon];
+    sortOffersByPriceForDisplay(input);
+    expect(providers(input)).toEqual(["rakuten", "yahoo", "amazon"]);
   });
 });
