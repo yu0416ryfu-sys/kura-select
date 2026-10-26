@@ -35,7 +35,7 @@ pnpm weekly:snapshot
 |---|---|---|
 | 1 | `reports/weekly/snapshot-<確定日>.md` | 確定日・窓・サイト全体・ページ別・クエリ・GA4・Bing |
 | 2 | `data/measurement-holds.json` ＋ メモリ `project_measurement_holds` | 凍結中の記事と解除日。**両方を見る。凍結の対象・起点日・解除日は JSON が正、施策の中身と判定根拠はメモリが正**（2026-09-15 改定） |
-| 3 | `docs/TODO.md` §2 凍結表 / §3 カレンダー | 今週が判定期限の施策 |
+| 3 | `data/measurement-holds.json` ＋ `docs/TODO.md` §3 カレンダー | 今週が判定期限の施策（判定日は §3 に日付つきの行で置く） |
 | 4 | 前回の `docs/ACCESS_ANALYSIS_*.md`（最新1本） | 前回の宿題と継続観測点 |
 | 5 | `reports/gsc-harvest/baseline-*.json` | 施策判定の比較元（起点日より前の baseline を使う） |
 | 6 | `reports/affiliate-performance-log.md` | 送客の実績（GA4 クリックと管理画面の乖離） |
