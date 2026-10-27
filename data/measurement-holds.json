@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-10-28",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。凍結の対象・起点日・解除日（releaseDate）はこのファイルが唯一の正（2026-09-15 改定）。",
     "施策の中身・判定根拠・経緯の正はローカルのメモリ project_measurement_holds。機械判定（scripts/check-internal-links.mjs など）もこのファイルを読む。施策を打ったら両者を必ず同時に更新する。",
@@ -142,25 +142,6 @@
       ],
       "simultaneous": true,
       "note": "cohort-02 施策群の解除日（10-09）に実施。区分D＋title/description 変更の同時実施なので施策型の判定には使わない。R3 非該当（baseline-2026-10-06: クリック47・表示1323・順位9.3）。r6 Dove 330g×18袋・r7 カウブランド 450mL は pricePerUnit 未設定のまま（capacity-review 10-08: multiple capacity variant。カウブランドは【2-6個】の選択式出品で価格が容量と対応しない疑い）＝区分A/B の範囲で別途。前窓は 10-12 に取る cohort-02 後窓（09-11〜10-08）の baseline を流用。起点はデプロイ日（JST） ｜10-22: JSON-LD から売り手宣言を除去（計画書2 第1段・区分C・全記事）。判定時に併記 ｜10-24: 記事本文の見出し・リスト記号に青アクセント（CSS のみ・全記事・title/description/本文/商品は不変）。判定時に併記 ｜10-27: サイト全体の購入ボタン順変更（Amazon を最安の次の2番目へ・SERP 非露出・送客は指標にしていないので凍結は起こさない。docs/IMPLEMENTATION_PLAN_AMAZON_SECOND_2026-10-25.md）。判定時に併記"
-    },
-    {
-      "slug": "paper-towel-comparison",
-      "releaseDate": "2026-10-29",
-      "releaseLabel": "2026-10-28",
-      "targetType": "new-article",
-      "startedAt": "2026-10-14",
-      "searchNeed": "洗面所やトイレのホルダーに補充する手拭き用ペーパータオルをまとめ買いしたい人が、中判・小判のどれが1枚（2枚重ねは1組）あたり安いかを比べたくて「ペーパータオル コスパ最強」「ペーパータオル 業務用」「キッチンペーパー ペーパータオル どっちが安い」などで検索している。受け皿は kitchen-paper で順位11〜12・クリック0だった（2026-09-23 の推薦時点）。新記事が受ければ、ペーパータオル系クエリの順位帯と表示/日に出るはず",
-      "measures": [
-        "ペーパータオル系クエリ（「ペーパータオル」を含み「キッチン」を含まない）の順位帯",
-        "表示/日",
-        "インデックス登録（lastCrawlTime）"
-      ],
-      "actions": [
-        "新規記事公開（10選・カテゴリ kitchen-paper に同居し表示名を「キッチンペーパー・ペーパータオル」に変更）＋kitchen-paper から手拭き用 r1・r6 を撤去し本文から被リンク2本"
-      ],
-      "simultaneous": false,
-      "note": "2026-10-12 ユーザー承認。判定は公開2週後の順位帯＝判定日 2026-10-28（ペーパータオル系クエリのどれかで10位以内なら離陸）。単価は1回に引き出す単位（1枚もの=円/枚、2枚重ね=円/組）で比較し、並び替えは PAIR_AS_ONE_USE_ARTICLES で1組=1回分。⚠️判定時の留保: ①kitchen-paper は同日に区分D（r1・r6 撤去）と本文改稿を受けたが凍結していない（10-12 決定で記録だけの凍結は起こさない）。kitchen-paper の表示がペーパータオル系クエリで減るのはカニバリの解消として想定内 ②カテゴリ /category/kitchen-paper/ は記事2本になり noindex が外れた（一時サイトマップ sitemap-recrawl.xml に入っている場合は thin-cat:crawl-check の扱いを確認） ③クリック実数が一桁なら CTR ではなく順位帯で見る ｜10-22: JSON-LD から売り手宣言を除去（計画書2 第1段・区分C・全記事）。判定時に併記 ｜10-24: 記事本文の見出し・リスト記号に青アクセント（CSS のみ・全記事・title/description/本文/商品は不変）。判定時に併記 ｜10-27: サイト全体の購入ボタン順変更（Amazon を最安の次の2番目へ・SERP 非露出・送客は指標にしていないので凍結は起こさない。docs/IMPLEMENTATION_PLAN_AMAZON_SECOND_2026-10-25.md）。判定時に併記",
-      "source": "project_measurement_holds"
     },
     {
       "slug": "water-filter-cartridge-comparison",
