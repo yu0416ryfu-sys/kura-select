@@ -4,7 +4,7 @@ description: "夜用パンツタイプのおむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-27"
 products:
   - rank: 1
     name: "グーン ナイトキッズパンツ 夜用"
@@ -12,8 +12,8 @@ products:
     price: 1555
     capacity: "22枚（身長90～120cm）"
     pricePerUnit: "約71円/枚"
-    rating: 4
-    reviewCount: 4
+    rating: 4.2
+    reviewCount: 5
     features:
       - "夜用のパンツタイプ"
       - "男女共用"

@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-25"
+updatedAt: "2026-10-27"
 products:
   - rank: 1
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
@@ -93,7 +93,7 @@ products:
     capacity: "110g"
     pricePerUnit: "約18円/g"
     rating: 4.6
-    reviewCount: 2048
+    reviewCount: 2050
     features:
       - "顔の洗浄に使う洗顔料"
       - "継続利用しやすい定番構成"

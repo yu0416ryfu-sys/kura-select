@@ -4,7 +4,7 @@ description: "犬猫用ペットシーツのレギュラーサイズを1枚あ�
 category: "pet-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-10-25"
+updatedAt: "2026-10-27"
 draft: false
 products:
   - rank: 1
@@ -210,10 +210,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpickupplazashop%2Fpsar0800.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-23"
-        price: 3780
+        updatedAt: "2026-10-27"
+        price: 3980
         rating: 4.46
-        reviewCount: 594
+        reviewCount: 614
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pickupplazashop_psar0800"
         available: true
     genreId: "409755"
@@ -223,7 +223,7 @@ products:
     price: 4480
     capacity: "レギュラー 800枚"
     rating: 4.49
-    reviewCount: 45562
+    reviewCount: 45565
     features:
       - "薄型のペット用トイレシート"
       - "レギュラーサイズを選べる"
@@ -243,10 +243,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpickupplazashop%2Fpsar0800.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-23"
-        price: 3780
+        updatedAt: "2026-10-27"
+        price: 3980
         rating: 4.46
-        reviewCount: 594
+        reviewCount: 614
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pickupplazashop_psar0800"
         available: true
     priceMax: 9280
@@ -314,7 +314,7 @@ products:
     price: 4650
     capacity: "レギュラー 400枚"
     rating: 4.3
-    reviewCount: 6625
+    reviewCount: 6626
     features:
       - "吸収量を重視した厚型タイプ"
       - "レギュラーサイズを選べるペット用トイレシート"
@@ -334,7 +334,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2Fp315349.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-25"
+        updatedAt: "2026-10-27"
         price: 4980
         rating: 4.37
         reviewCount: 941

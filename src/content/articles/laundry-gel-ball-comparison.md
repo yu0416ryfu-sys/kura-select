@@ -4,7 +4,7 @@ description: "ジェルボールは液体洗剤より1回あたり割高です�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-25"
+updatedAt: "2026-10-27"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -47,7 +47,7 @@ products:
     capacity: "89個"
     pricePerUnit: "約34円/個"
     rating: 4.83
-    reviewCount: 63
+    reviewCount: 65
     features:
       - "部屋干し時の生乾き臭に狙いを定めた処方"
       - "汗をかいた衣類・運動着の皮脂汚れに対応"
@@ -307,7 +307,7 @@ products:
     price: 3980
     capacity: "100個"
     rating: 4.73
-    reviewCount: 48
+    reviewCount: 49
     features:
       - "1袋の入り数が最大級のテラジャンボサイズ"
       - "部屋干しと運動着の両方を想定した処方"

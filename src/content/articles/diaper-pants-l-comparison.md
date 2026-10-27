@@ -4,49 +4,15 @@ description: "パンツ型おむつのLサイズおすすめ7選を1枚あたり
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-27"
 draft: false
 products:
   - rank: 1
-    name: "メリーズ パンツ Lサイズ 大容量セット"
-    brand: "メリーズ（花王）"
-    price: 11800
-    capacity: "162枚×2個（9〜14kg）"
-    pricePerUnit: "約36円/枚"
-    rating: 4.63
-    reviewCount: 8
-    features:
-      - "通気性を重視した素肌さらさらエアスルー設計"
-      - "Lサイズのまとめ買いセット"
-      - "小分け袋の詰め合わせ構成"
-    pros:
-      - "1枚あたりの負担を抑えやすい構成"
-      - "定番ブランドで品質が安定している"
-      - "買い足しの頻度を大きく減らせる"
-    cons:
-      - "保管スペースをまとまって取る"
-      - "サイズアップが近いと使い切れないことがある"
-    recommendedFor: "Lサイズを長く使う見込みでまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4901301425942-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10035549%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/11147956/11928062/4901301443519-2rr.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443519-2.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-25"
-        price: 11800
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_4901301443519-2"
-        available: true
-    genreId: "205198"
-  - rank: 2
     name: "メリーズ パンツ 素肌さらさらエアスルー Lサイズ"
     brand: "花王（メリーズ）"
-    price: 5997
+    price: 6197
     capacity: "54枚×3袋"
-    pricePerUnit: "約37円/枚"
+    pricePerUnit: "約38円/枚"
     rating: 5
     reviewCount: 10
     features:
@@ -73,6 +39,40 @@ products:
         rating: 5
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_67491"
+        available: true
+    genreId: "205198"
+  - rank: 2
+    name: "メリーズ パンツ Lサイズ 大容量セット"
+    brand: "メリーズ（花王）"
+    price: 12179
+    capacity: "162枚×2個（9〜14kg）"
+    pricePerUnit: "約38円/枚"
+    rating: 4.63
+    reviewCount: 8
+    features:
+      - "通気性を重視した素肌さらさらエアスルー設計"
+      - "Lサイズのまとめ買いセット"
+      - "小分け袋の詰め合わせ構成"
+    pros:
+      - "1枚あたりの負担を抑えやすい構成"
+      - "定番ブランドで品質が安定している"
+      - "買い足しの頻度を大きく減らせる"
+    cons:
+      - "保管スペースをまとまって取る"
+      - "サイズアップが近いと使い切れないことがある"
+    recommendedFor: "Lサイズを長く使う見込みでまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00psjvn.3rdw61e6.g00psjvn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftry3%2F4901301425942-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftry3%2Fi%2F10035549%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/try3/cabinet/11147956/11928062/4901301443519-2rr.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443519-2.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-26"
+        price: 12498
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_4901301443519-2"
         available: true
     genreId: "205198"
   - rank: 3
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111127986x4.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-25"
+        updatedAt: "2026-10-26"
         price: 7720
         rating: 0
         reviewCount: 2
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111243099x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-25"
+        updatedAt: "2026-10-26"
         price: 7720
         rating: 4.82
         reviewCount: 120

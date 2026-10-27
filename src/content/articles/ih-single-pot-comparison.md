@@ -4,7 +4,7 @@ description: "IH対応の一人用鍋を16cm・18cm中心に9製品比較。卓�
 category: "cooking-pot"
 publishedAt: "2026-05-10"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-27"
 draft: false
 products:
   - rank: 1
@@ -186,7 +186,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約3300円/個"
     rating: 4.63
-    reviewCount: 599
+    reviewCount: 600
     features:
       - "IH・ガス火対応のホーローミルクパン"
       - "シンプルなデザインで食卓にも出しやすい"

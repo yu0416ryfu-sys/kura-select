@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に7製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-10-25"
+updatedAt: "2026-10-27"
 draft: false
 products:
   - rank: 1
@@ -194,8 +194,8 @@ products:
     brand: "CAROTE"
     price: 1998
     capacity: "1個"
-    rating: 4.51
-    reviewCount: 333
+    rating: 4.5
+    reviewCount: 334
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

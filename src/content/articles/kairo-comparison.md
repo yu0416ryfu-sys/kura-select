@@ -4,7 +4,7 @@ description: "使い捨てカイロのおすすめ10選を1個あたり単価で
 category: "kairo"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-27"
 draft: false
 products:
   - rank: 1
@@ -127,8 +127,8 @@ products:
     price: 2981
     capacity: "120個"
     pricePerUnit: "約25円/個"
-    rating: 4.76
-    reviewCount: 150
+    rating: 4.74
+    reviewCount: 151
     features:
       - "ぽかぽか家族シリーズの衣類に貼るレギュラーサイズ"
       - "12時間持続タイプ（メーカー表示）"
