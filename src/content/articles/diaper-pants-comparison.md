@@ -4,9 +4,55 @@ description: "夜用パンツタイプのおむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-28"
 products:
   - rank: 1
+    name: "マミーポコ 夜用パンツ ビッグより大きいサイズ"
+    brand: "ユニ・チャーム（マミーポコ）"
+    price: 1174
+    capacity: "22枚（13kg～28kg）"
+    pricePerUnit: "約53円/枚"
+    rating: 4.61
+    reviewCount: 23
+    features:
+      - "夜用のパンツタイプ"
+      - "男女共用"
+      - "トリプルブロックギャザーで横モレに配慮した設計"
+    pros:
+      - "性別を問わず選べる"
+      - "ドラッグストアや通販で取扱店舗が多く、買い足しやすい"
+      - "オヤスミマンと同じメーカーの別ブランドとして比較しやすい"
+    cons:
+      - "うたっている吸収回数はオヤスミマンより少ない"
+      - "キャラクター柄のデザインなので、柄の好みは分かれる"
+    recommendedFor: "男女兼用の夜用パンツを手に入りやすさで選びたい方・きょうだいで共用したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4903111176076%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11137078%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/076/4903111176076.jpg?_ex=128x128"
+    genreId: "205198"
+  - rank: 2
+    name: "メリーズ ぐっすりパンツ ビッグより大きいサイズ 夜用"
+    brand: "花王（メリーズ）"
+    price: 1628
+    capacity: "24枚（15kg～28kg）"
+    pricePerUnit: "約68円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "夜用のパンツタイプ"
+      - "男女共用"
+      - "おなかをしめつけにくいはき心地をうたった設計"
+    pros:
+      - "性別を問わず選べる"
+      - "通気性を重視したいメリーズ派の夜用候補になる"
+      - "1袋単位で試しやすい"
+    cons:
+      - "取扱ショップによって価格の差が出やすい"
+      - "大袋やケース単位の出品は限られる"
+    recommendedFor: "日中メリーズを使っていて夜用も同じブランドでそろえたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4901301452214%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10174046%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202512_2/4901301452214.jpg?_ex=128x128"
+    genreId: "205198"
+  - rank: 3
     name: "グーン ナイトキッズパンツ 夜用"
     brand: "グーン（大王製紙）"
     price: 1555
@@ -40,7 +86,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/worldglobal_20260619202540-00444"
         available: true
-  - rank: 2
+  - rank: 4
     name: "オヤスミマン 男の子 ビッグ以上 夜用"
     brand: "ユニ・チャーム（ムーニー）"
     price: 5181
@@ -72,7 +118,7 @@ products:
         matchStatus: "matched"
         updatedAt: "2026-05-29"
     genreId: "205198"
-  - rank: 3
+  - rank: 5
     name: "オヤスミマン 女の子 ビッグ以上 夜用"
     brand: "ユニ・チャーム"
     price: 5181
@@ -104,7 +150,7 @@ products:
         matchStatus: "matched"
         updatedAt: "2026-05-27"
     genreId: "205198"
-  - rank: 4
+  - rank: 6
     name: "おやすみパンツ XXLサイズ 夜用"
     brand: "パンパース"
     price: 2244
