@@ -1909,9 +1909,27 @@ async function checkAdditions() {
         (b.rating ?? 0) - (a.rating ?? 0);
       validCandidates.sort(sortCandidates);
       noCapacityCandidates.sort(sortCandidates);
-      const suggestions = validCandidates.slice(0, needed);
+      // 同じ商品を別店舗・別URLで重複提案しない（採用済み候補と同一判定されたものは飛ばす）
+      // 商品名に同じ JAN があれば入数・セット数違いでも同一商品として扱う
+      const janOf = name => String(name ?? '').normalize('NFKC').match(/(?<!\d)4[59]\d{11}(?!\d)/)?.[0] ?? null;
+      const pickDistinct = (pool, limit, picked) => {
+        const result = [];
+        for (const c of pool) {
+          if (result.length >= limit) break;
+          const jan = janOf(c.name);
+          const sameJan = jan && [...picked, ...result].some(p => janOf(p.name) === jan);
+          if (sameJan || isSameProductDifferentUrl(c.name, c.capacity, [...picked, ...result])) {
+            stats.sameProduct++;
+            recordExcluded('URL違い同一商品（候補間）', c, { directUrl: c.directUrl, capacity: c.capacity });
+            continue;
+          }
+          result.push(c);
+        }
+        return result;
+      };
+      const suggestions = pickDistinct(validCandidates, needed, []);
       if (suggestions.length < needed) {
-        const fallbackSuggestions = noCapacityCandidates.slice(0, needed - suggestions.length);
+        const fallbackSuggestions = pickDistinct(noCapacityCandidates, needed - suggestions.length, suggestions);
         stats.noCapacityUsed = fallbackSuggestions.length;
         suggestions.push(...fallbackSuggestions);
       }
