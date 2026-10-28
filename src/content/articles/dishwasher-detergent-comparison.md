@@ -1,46 +1,12 @@
 ---
 title: "食洗機用洗剤 コスパ最強ランキング【2026年版】粉末・ジェル・タブで比較"
-description: "食洗機用洗剤を1回あたりのコストで徹底比較。フィニッシュ・キュキュット・ジョイ・緑の魔女の人気9選を洗浄力・コスパで解説します。"
+description: "食洗機用洗剤を1回あたりのコストで徹底比較。フィニッシュ・キュキュット・ジョイ・緑の魔女の人気10選を洗浄力・コスパで解説します。"
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-28"
 products:
   - rank: 1
-    name: "緑の魔女 食洗機用洗剤 800g"
-    brand: "ミマスクリーンケア"
-    price: 588
-    capacity: "800g"
-    pricePerUnit: "約0.73円/g"
-    rating: 4.47
-    reviewCount: 59
-    features:
-      - "食器洗い乾燥機専用の洗剤"
-      - "継続利用しやすい定番構成"
-      - "楽天市場で購入できる商品"
-    pros:
-      - "食洗機の運用に合わせて選びやすい"
-      - "買い足し候補として比較しやすい"
-      - "既存商品と単価で比べやすい"
-    cons:
-      - "対応機種や投入量を確認したい"
-      - "購入時は最新の販売条件を確認したい"
-    recommendedFor: "食洗機の運用に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F9847343%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10096247%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya114/9847343.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8811720/"
-        matchStatus: "matched"
-        updatedAt: "2026-10-26"
-        price: 840
-        rating: 0
-        reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_8811720"
-        available: true
-    genreId: "216012"
-  - rank: 2
     name: "P&G 食洗機用ジョイ オレンジピール成分入り 詰替 490g"
     brand: "P&G（ジョイ）"
     price: 366
@@ -74,7 +40,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7078356"
         available: true
     genreId: "216012"
-  - rank: 3
+  - rank: 2
     name: "緑の魔女 オートキッチン 食洗機用洗剤 800g"
     brand: "ミマスクリーンケア"
     price: 713
@@ -108,7 +74,7 @@ products:
         rating: 4.54
         reviewCount: 13
     genreId: "216016"
-  - rank: 4
+  - rank: 3
     name: "★大容量2200g入り★フィニッシュ パウダー/ミューズ/ "
     brand: "レキットベンキーザー（フィニッシュ）"
     price: 2178
@@ -142,7 +108,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b07bbljjxx-20260329"
         available: true
     genreId: "201230"
-  - rank: 5
+  - rank: 4
     name: "ジョイ W除菌 食洗機用洗剤 オレンジピール 詰め替え 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
@@ -176,7 +142,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/life-select-easyshop_ls1c040a6150"
         available: true
     genreId: "216012"
-  - rank: 6
+  - rank: 5
     name: "食洗機用ジョイ 除菌 詰替特大 930g×3袋"
     brand: "P&G（ジョイ）"
     price: 2785
@@ -210,7 +176,7 @@ products:
         rating: 4.83
         reviewCount: 12
     genreId: "216012"
-  - rank: 7
+  - rank: 6
     name: "キュキュット 食器洗い乾燥機専用 粉末タイプ 詰替 800g×3セット"
     brand: "花王（キュキュット）"
     price: 2574
@@ -233,7 +199,64 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404959%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148567%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/959/404959.jpg?_ex=128x128"
     genreId: "568277"
+  - rank: 7
+    name: "緑の魔女 食洗機用洗剤 800g"
+    brand: "ミマスクリーンケア"
+    price: 990
+    capacity: "800g"
+    pricePerUnit: "約1.2円/g"
+    rating: 4.47
+    reviewCount: 59
+    features:
+      - "食器洗い乾燥機専用の洗剤"
+      - "継続利用しやすい定番構成"
+      - "楽天市場で購入できる商品"
+    pros:
+      - "食洗機の運用に合わせて選びやすい"
+      - "買い足し候補として比較しやすい"
+      - "既存商品と単価で比べやすい"
+    cons:
+      - "対応機種や投入量を確認したい"
+      - "購入時は最新の販売条件を確認したい"
+    recommendedFor: "食洗機の運用に合わせて選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F9847343%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10096247%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya114/9847343.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8811720/"
+        matchStatus: "matched"
+        updatedAt: "2026-10-26"
+        price: 840
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_8811720"
+        available: true
+    genreId: "216012"
   - rank: 8
+    name: "エコメイト 食器洗浄機用洗剤 750g"
+    brand: "木村石鹸（エコメイト）"
+    price: 1210
+    capacity: "750g"
+    pricePerUnit: "約1.6円/g"
+    rating: 4.7
+    reviewCount: 23
+    features:
+      - "界面活性剤を使わない粉末タイプの食洗機用洗剤"
+      - "炭酸塩などアルカリ成分で油汚れを分解"
+      - "日本製"
+    pros:
+      - "界面活性剤不使用の洗剤を選びたい方に合う"
+      - "油汚れやタンパク質汚れに対応"
+      - "単品で試してから続けるか決めやすい"
+    cons:
+      - "計量スプーンは付属しない"
+      - "アルミや銀、漆塗りの食器には使えない"
+    recommendedFor: "界面活性剤を使わない食洗機用洗剤を試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptm1n.3rdw60b6.g00ptm1n.3rdw7f5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenpacks%2F100000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenpacks%2Fi%2F10000019%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenpacks/cabinet/ecod01/ecomate_tac_015.jpg?_ex=128x128"
+    genreId: "216012"
+  - rank: 9
     name: "ソネット ナチュラルディッシュウォッシャー 1.5kg"
     brand: "SONETT"
     price: 2970
@@ -267,7 +290,7 @@ products:
         rating: 4.17
         reviewCount: 6
     genreId: "216012"
-  - rank: 9
+  - rank: 10
     name: "フィニッシュ パワーキューブ ビッグパック"
     brand: "フィニッシュ（Finish）"
     price: 5660

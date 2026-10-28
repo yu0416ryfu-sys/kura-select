@@ -1,12 +1,35 @@
 ---
-title: "デンタルフロス コスパ最強ランキング【2026年版】おすすめ8選比較"
-description: "デンタルフロスを1回あたりのコストで比較したランキング。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ8選。"
+title: "デンタルフロス コスパ最強ランキング【2026年版】おすすめ10選比較"
+description: "デンタルフロスを1回あたりのコストで比較したランキング。クリニカvsウルトラフロスの違いも解説。ロール・糸ようじ・Y字タイプ別おすすめ10選。"
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-28"
 products:
   - rank: 1
+    name: "REACH リーチ デンタルフロス 55ヤード 6個入り"
+    brand: "REACH"
+    price: 2298
+    capacity: "50.2m×6個（602回）"
+    pricePerUnit: "約3.8円/回"
+    rating: 4.68
+    reviewCount: 477
+    features:
+      - "ワックス加工のロール型フロス"
+      - "極細繊維でも切れにくい設計"
+      - "ノンフレーバーとミントから選べる"
+    pros:
+      - "歯間が狭い方でも通しやすい"
+      - "フロス初心者にも扱いやすい定番品"
+      - "まとめ買いでストックを切らしにくい"
+    cons:
+      - "指に巻いて使うためホルダー型より慣れが必要"
+      - "ワックスの感触は好みが分かれる"
+    recommendedFor: "ロール型のフロスを定番品で続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F29860%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10002771%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shohin09/reach29860-sam.jpg?_ex=128x128"
+    genreId: "208218"
+  - rank: 2
     name: "クリニカ アドバンテージ スポンジフロス"
     brand: "ライオン（クリニカ）"
     price: 1347
@@ -38,7 +61,30 @@ products:
         matchedCapacity: "40m×4個"
         updatedAt: "2026-07-16T00:00:00.000Z"
     genreId: "208218"
-  - rank: 2
+  - rank: 3
+    name: "ルシェロ フロス 30m 6個セット"
+    brand: "ジーシー（ルシェロ）"
+    price: 1600
+    capacity: "30m×6個（360回）"
+    pricePerUnit: "約4.4円/回"
+    rating: 4.89
+    reviewCount: 135
+    features:
+      - "マイクロファイバーを使ったロール型フロス"
+      - "アンワックスとミントワックスがある"
+      - "歯肉を傷つけにくいやわらかな使用感"
+    pros:
+      - "フロスに慣れていない方でも歯間に入れやすい"
+      - "歯科医院でも扱われるブランドで選びやすい"
+      - "携帯しやすいサイズ"
+    cons:
+      - "指に巻いて使うためホルダー型より慣れが必要"
+      - "1個あたりの長さは短め"
+    recommendedFor: "やわらかい使用感のロール型フロスを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugykn.3rdw6a2f.g00ugykn.3rdw7299/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhano-senmonten%2F4548161180989-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhano-senmonten%2Fi%2F10000145%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hano-senmonten/cabinet/senyuritu/4548161180989-6.jpg?_ex=128x128"
+    genreId: "208218"
+  - rank: 4
     name: "フロアフロス 45m×3個 3個セット"
     brand: "fluorfloss"
     price: 2230
@@ -59,7 +105,7 @@ products:
       - "価格帯がやや高めで試しにくい"
     recommendedFor: "歯科医院品質のフロスをまとめて揃えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F49760%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008760%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1022_p5/kirikae2/49760_n.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/07319599/49760_n.jpg?_ex=128x128"
     offers:
       - provider: "amazon"
         label: "Amazon（45m×2個）"
@@ -71,7 +117,7 @@ products:
         matchNotes: "入数違い採用（楽天は45m×3個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
     genreId: "208218"
-  - rank: 3
+  - rank: 5
     name: "GUM エクスパンディングフロス 30m"
     brand: "GUM"
     price: 657
@@ -94,7 +140,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qxmsn.3rdw699a.g00qxmsn.3rdw7125/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foralcare-dod%2F10582536%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foralcare-dod%2Fi%2F10028497%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oralcare-dod/cabinet/t/02/10582536.jpg?_ex=128x128"
     genreId: "208218"
-  - rank: 4
+  - rank: 6
     name: "小林製薬 糸ようじ フロス&ピック デンタルフロス 60本入"
     brand: "小林製薬（糸ようじ）"
     price: 770
@@ -126,7 +172,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/shop-pal_4987072025895-1"
         available: true
     genreId: "208218"
-  - rank: 5
+  - rank: 7
     name: "ライオン クリニカ アドバンテージ フロス Y字タイプ"
     brand: "ライオン（クリニカ）"
     price: 292
@@ -159,7 +205,7 @@ products:
         available: false
         matchNotes: "capacity不一致: capacity不一致"
     genreId: "204758"
-  - rank: 6
+  - rank: 8
     name: "DENT.EX ウルトラフロスS 10本入×10パック"
     brand: "ライオン（DENT.EX）"
     price: 4850
@@ -180,7 +226,7 @@ products:
       - "まとめ買いのため初期費用が高め"
     recommendedFor: "奥歯のケアを重視する方・まとめ買いで節約したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F13122%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10000202%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1022_p5/kirikae1/04080.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/wb_logo_6/04080.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -192,14 +238,14 @@ products:
         available: false
         matchNotes: "capacity不一致: capacity不一致"
     genreId: "208218"
-  - rank: 7
+  - rank: 9
     name: "オーラルケア フロアフロス 250m 歯科専売品"
     brand: "fluorfloss"
     price: 3097
     capacity: "250m"
     pricePerUnit: "約12円/m"
     rating: 4.45
-    reviewCount: 229
+    reviewCount: 230
     features:
       - "384本の細い繊維を束ねた高密度フロス設計"
       - "詰め替え用でホルダーを再利用できるエコ設計"
@@ -225,7 +271,7 @@ products:
         available: false
         matchNotes: "capacity不一致: capacity不一致"
     genreId: "208218"
-  - rank: 8
+  - rank: 10
     name: "オーラルケア フロアフロス 45m×2個"
     brand: "オーラルケア"
     price: 1430
@@ -246,7 +292,7 @@ products:
       - "ワックス感や太さは使用感の好みが分かれる"
     recommendedFor: "糸巻きフロスを日常的に使いたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fppp280%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10011276%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1022_p5/kirikae3/49759_n.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/07319599/49759_n.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -281,7 +327,7 @@ faqs:
 ---
 
 このページでは、**デンタルフロスのコスパランキング**を1回あたりのコストで比較します。
-クリニカ・GUM・糸ようじ・フロアフロスなど8選を、ロール型・ホルダー型・一体型のタイプ別に選び方を解説します。
+クリニカ・GUM・糸ようじ・フロアフロスなどのおすすめを、ロール型・ホルダー型・一体型のタイプ別に選び方を解説します。
 
 ## デンタルフロス・歯間ブラシの選び方ガイド
 

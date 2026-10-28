@@ -1,10 +1,10 @@
 ---
-title: "食器用洗剤 コスパ最強ランキング【2026年版】おすすめ8選｜フロッシュの代わりも比較"
-description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ、チャーミー、ヤシノミ洗剤、緑の魔女など人気8選をコスパ最強ランキングで紹介。油汚れ・手荒れ対策・大容量の3軸で解説し、フロッシュの代わりの選び方も紹介します。"
+title: "食器用洗剤 コスパ最強ランキング【2026年版】おすすめ10選｜フロッシュの代わりも比較"
+description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ、チャーミー、ヤシノミ洗剤、緑の魔女など人気10選をコスパ最強ランキングで紹介。油汚れ・手荒れ対策・大容量の3軸で解説し、フロッシュの代わりの選び方も紹介します。"
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-28"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -143,6 +143,29 @@ products:
         reviewCount: 100
     genreId: "216012"
   - rank: 5
+    name: "ジョイ W除菌 食器用洗剤 詰め替え 超ジャンボ 1550ml×5セット"
+    brand: "P&G（ジョイ）"
+    price: 4988
+    capacity: "1550mL×5個（7750mL）"
+    pricePerUnit: "約0.64円/mL"
+    rating: 4.76
+    reviewCount: 921
+    features:
+      - "除菌もできる濃縮タイプの食器用洗剤"
+      - "詰め替え用の超ジャンボサイズ"
+      - "香りの種類から選べるセット"
+    pros:
+      - "家庭用ボトルにそのまま詰め替えやすい"
+      - "まとめ買いでストックを切らしにくい"
+      - "油汚れの多い家庭の日常使いに合う"
+    cons:
+      - "セットのため収納場所が必要"
+      - "香りの種類によって使用感の好みが分かれる"
+    recommendedFor: "家庭用サイズのジョイを詰め替えでまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405030%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11164781%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/030/405030.jpg?_ex=128x128"
+    genreId: "216012"
+  - rank: 6
     name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
     brand: "P&G（ジョイ）"
     price: 2810
@@ -176,7 +199,30 @@ products:
         available: true
     genreId: "216012"
     pricePerUnit: "約0.70円/mL"
-  - rank: 6
+  - rank: 7
+    name: "キュキュット 業務用 4.5L"
+    brand: "花王（キュキュット）"
+    price: 3350
+    capacity: "4500mL"
+    pricePerUnit: "約0.74円/mL"
+    rating: 4.35
+    reviewCount: 46
+    features:
+      - "固まり油も分解する濃縮タイプ"
+      - "泡立ちとすすぎの早さを両立した処方"
+      - "オレンジの香りの業務用大容量"
+    pros:
+      - "詰め替えの回数を減らせる"
+      - "まな板やスポンジの除菌にも使える"
+      - "泡切れが早くすすぎの手間を減らしやすい"
+    cons:
+      - "大容量ボトルのため小分け容器が必要"
+      - "香りが苦手な方には合わない場合がある"
+    recommendedFor: "キュキュットを業務用サイズでまとめて使いたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvoan.3rdw6634.g00tvoan.3rdw7deb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-relight%2F003-4901301510778br%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-relight%2Fi%2F10000736%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-relight/cabinet/thum1/0070233785.jpg?_ex=128x128"
+    genreId: "216012"
+  - rank: 8
     name: "パックス 200番 台所用石けん 詰替用 2300mL×2本 2本セット"
     brand: "太陽油脂"
     price: 4550
@@ -199,7 +245,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pk2an.3rdw647a.g00pk2an.3rdw7456/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuyeki%2F395%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fuyeki%2Fi%2F10000474%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/uyeki/cabinet/syohin1/item01/packs/pax200_set2.jpg?_ex=128x128"
     genreId: "216012"
-  - rank: 7
+  - rank: 9
     name: "SOMALI 台所用石けん 詰替用 5000ml そまり 純石けん 無添加"
     brand: "木村石鹸（SOMALI）"
     price: 6600
@@ -233,7 +279,7 @@ products:
         rating: 0
         reviewCount: 0
     genreId: "216012"
-  - rank: 8
+  - rank: 10
     name: "IVORY ウルトラアイボリー 食器用洗剤 クラシック 709mL"
     brand: "IVORY"
     price: 1005
