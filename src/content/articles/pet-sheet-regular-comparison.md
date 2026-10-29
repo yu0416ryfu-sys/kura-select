@@ -4,7 +4,7 @@ description: "犬猫用ペットシーツのレギュラーサイズを1枚あ�
 category: "pet-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-29"
 draft: false
 products:
   - rank: 1
@@ -41,11 +41,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fweimall%2Fpsar1200.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-25"
-        price: 4980
+        matchStatus: "matched"
+        updatedAt: "2026-10-29"
+        price: 5380
         rating: 4.52
-        reviewCount: 290
+        reviewCount: 291
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/weimall_psar1200"
         available: true
     genreId: "409755"
@@ -70,7 +70,7 @@ products:
       - "購入時にレギュラーサイズを選択しているか確認が必要"
     recommendedFor: "薄型をこまめに交換して使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10025751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10025751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo18/r1737_00469.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/img016/55103458ku_1.jpg?_ex=128x128"
     offers:
       - provider: "amazon"
         label: "Amazon"
@@ -84,7 +84,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F55102162ku.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-25"
+        updatedAt: "2026-10-29"
         price: 4280
         rating: 4.51
         reviewCount: 2601
@@ -133,7 +133,7 @@ products:
     capacity: "レギュラー 800枚"
     pricePerUnit: "約6.2円/枚"
     rating: 4.62
-    reviewCount: 5173
+    reviewCount: 5174
     features:
       - "レギュラーサイズのペット用トイレシート"
       - "薄型のまとめ買い向けタイプ"
@@ -210,8 +210,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpickupplazashop%2Fpsar0800.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-27"
-        price: 3980
+        updatedAt: "2026-10-29"
+        price: 3780
         rating: 4.46
         reviewCount: 614
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pickupplazashop_psar0800"
@@ -223,7 +223,7 @@ products:
     price: 4480
     capacity: "レギュラー 800枚"
     rating: 4.49
-    reviewCount: 45565
+    reviewCount: 45574
     features:
       - "薄型のペット用トイレシート"
       - "レギュラーサイズを選べる"
@@ -254,7 +254,7 @@ products:
   - rank: 8
     name: "ペットシーツ 薄型 レギュラー まとめ買い"
     brand: "Pet World One"
-    price: 4180
+    price: 4480
     capacity: "レギュラー 800枚"
     rating: 4.46
     reviewCount: 8642
@@ -314,7 +314,7 @@ products:
     price: 4650
     capacity: "レギュラー 400枚"
     rating: 4.3
-    reviewCount: 6626
+    reviewCount: 6628
     features:
       - "吸収量を重視した厚型タイプ"
       - "レギュラーサイズを選べるペット用トイレシート"

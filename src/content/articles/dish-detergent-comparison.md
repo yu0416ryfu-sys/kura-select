@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-10-28"
+updatedAt: "2026-10-29"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -33,8 +33,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F501277.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-25"
-        price: 1841
+        updatedAt: "2026-10-29"
+        price: 2002
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_501277"
         available: true
         rating: 0
@@ -115,7 +115,7 @@ products:
     capacity: "5000mL"
     pricePerUnit: "約0.63円/mL"
     rating: 4.59
-    reviewCount: 140
+    reviewCount: 141
     features:
       - "無香料・無着色・無添加の低刺激処方"
       - "5L大容量で業務用レベルのコスパを実現"

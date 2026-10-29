@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ9選を1回�
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-29"
 draft: false
 products:
   - rank: 1
@@ -93,7 +93,7 @@ products:
     price: 1280
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7339
+    reviewCount: 7346
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -107,7 +107,7 @@ products:
       - "セット量が多く収納スペースを取りやすい"
     recommendedFor: "在宅避難向けにまとまった回数を備えたい世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ue8bn.3rdw65ff.g00ue8bn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr1-shop%2Fcsd-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr1-shop%2Fi%2F10000062%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r1-shop/cabinet/10018776/10041819/310.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r1-shop/cabinet/09975530/09975535/csdgai/zt.jpg?_ex=128x128"
     priceMax: 25900
     genreId: "501137"
   - rank: 5
@@ -204,7 +204,7 @@ products:
   - rank: 8
     name: "非常用トイレ 100回分 半永久保存 防災トイレ"
     brand: "Life Reach"
-    price: 5999
+    price: 7999
     capacity: "100回分"
     rating: 4.59
     reviewCount: 1353
@@ -233,7 +233,7 @@ products:
         reviewCount: 629
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
         available: true
-    priceMax: 39599
+    priceMax: 55555
     genreId: "501137"
   - rank: 9
     name: "簡易トイレ 防災士監修 20回分 コンパクトセット"
@@ -241,7 +241,7 @@ products:
     price: 1380
     capacity: "20回分"
     rating: 4.52
-    reviewCount: 7235
+    reviewCount: 7239
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"

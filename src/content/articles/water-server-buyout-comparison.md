@@ -4,7 +4,7 @@ description: "卓上浄水ウォーターサーバーのおすすめ4選を、�
 category: "mineral-water"
 publishedAt: "2026-09-30"
 articleType: "comparison"
-updatedAt: "2026-10-25"
+updatedAt: "2026-10-29"
 draft: false
 products:
   - rank: 1
@@ -51,7 +51,7 @@ products:
       - "原水タンクと浄水タンクの2つを洗う手入れが必要"
     recommendedFor: "冷水よりお湯を毎日すぐ使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00towqn.3rdw6717.g00towqn.3rdw71b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fatliving%2Faquibear-f1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fatliving%2Fi%2F10000315%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/atliving/cabinet/09378508/09941351/260210-40off-1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/atliving/cabinet/09378508/09941351/260711-02.jpg?_ex=128x128"
     genreId: "212478"
   - rank: 3
     name: "ブリタ サーバー型浄水器 キューブCool マクストラプロ カートリッジ1個付"
@@ -60,7 +60,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約80300円/個"
     rating: 4.48
-    reviewCount: 255
+    reviewCount: 260
     features:
       - "冷水・常温・お湯に加え、中間の温度も選べる操作パネル"
       - "ポット型と共通のマクストラプロ カートリッジを使う"
@@ -74,7 +74,7 @@ products:
       - "アース線の接続が必要で、コンセントの形によっては工事がいる"
     recommendedFor: "ブリタのポット型を使っていて、冷温水に広げたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tbsun.3rdw6e8c.g00tbsun.3rdw7800/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fcube%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbrita%2Fi%2F10000291%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/brita/cabinet/thum/261024_mt/cube.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/brita/cabinet/thum/thumb_01/cube.jpg?_ex=128x128"
     genreId: "559934"
   - rank: 4
     name: "puriot ES 浄水型ウォーターサーバー PES-2400"

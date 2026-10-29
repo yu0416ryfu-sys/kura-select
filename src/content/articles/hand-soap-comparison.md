@@ -4,43 +4,9 @@ description: "ハンドソープはどれが殺菌力とコスパを両立する
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-29"
 products:
   - rank: 1
-    name: "ミューズ 泡ハンドソープ オリジナル 詰め替え 900mL"
-    brand: "レキットベンキーザー（ミューズ）"
-    price: 605
-    capacity: "900mL"
-    pricePerUnit: "約0.67円/mL"
-    rating: 4.73
-    reviewCount: 0
-    features:
-      - "幅広いバイ菌を殺菌・消毒"
-      - "ミューズ独自の殺菌処方で高い除菌力"
-      - "豊かな泡立ちで洗い心地が良い"
-    pros:
-      - "殺菌力の高さで定評があるブランド"
-      - "泡がクリーミーで洗い心地が良い"
-      - "大容量で詰め替え頻度が少ない"
-    cons:
-      - "1回あたりのコストがやや高め"
-      - "乾燥肌の方は保湿ケアが別途必要"
-    recommendedFor: "殺菌力を最重視する方・しっかり洗いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3ryn.3rdw6d50.g00q3ryn.3rdw725d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnice%2F4906156801217%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnice%2Fi%2F10024659%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nice/cabinet/00535313/4906156801217-1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fb81709.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-27"
-        price: 640
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_b81709"
-        available: true
-    genreId: "304758"
-  - rank: 2
     name: "ビオレu 薬用 泡ハンドソープ つめかえ用 2L"
     brand: "花王（ビオレu）"
     price: 1350
@@ -74,14 +40,14 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seisen-online_0547268-2"
         available: true
     genreId: "204748"
-  - rank: 3
+  - rank: 2
     name: "キレイキレイ 薬用泡ハンドソープ 詰替用"
     brand: "キレイキレイ（Kirei Kirei）"
     price: 4164
     capacity: "4800ml"
     pricePerUnit: "約0.87円/mL"
     rating: 4.72
-    reviewCount: 436
+    reviewCount: 437
     features:
       - "薬用タイプの泡ハンドソープ"
       - "シトラスフルーティの香り"
@@ -96,6 +62,40 @@ products:
     recommendedFor: "泡ハンドソープをまとめ買いしたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F90667%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10986242%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/667/90667.jpg?_ex=128x128"
+    genreId: "304758"
+  - rank: 3
+    name: "ミューズ 泡ハンドソープ オリジナル 詰め替え 900mL"
+    brand: "レキットベンキーザー（ミューズ）"
+    price: 855
+    capacity: "900mL"
+    pricePerUnit: "約0.95円/mL"
+    rating: 4.73
+    reviewCount: 0
+    features:
+      - "幅広いバイ菌を殺菌・消毒"
+      - "ミューズ独自の殺菌処方で高い除菌力"
+      - "豊かな泡立ちで洗い心地が良い"
+    pros:
+      - "殺菌力の高さで定評があるブランド"
+      - "泡がクリーミーで洗い心地が良い"
+      - "大容量で詰め替え頻度が少ない"
+    cons:
+      - "1回あたりのコストがやや高め"
+      - "乾燥肌の方は保湿ケアが別途必要"
+    recommendedFor: "殺菌力を最重視する方・しっかり洗いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3ryn.3rdw6d50.g00q3ryn.3rdw725d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnice%2F4906156801217%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnice%2Fi%2F10024659%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nice/cabinet/00535313/4906156801217-1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fb81709.html"
+        matchStatus: "matched"
+        updatedAt: "2026-10-27"
+        price: 640
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_b81709"
+        available: true
     genreId: "304758"
   - rank: 4
     name: "キレイキレイ 薬用泡ハンドソープ シトラスフルーティ 詰替用 450ml×6袋"

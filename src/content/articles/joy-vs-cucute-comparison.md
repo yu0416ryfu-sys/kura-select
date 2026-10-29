@@ -3,7 +3,7 @@ title: "ジョイとキュキュットどっちがいい？油汚れはジョイ
 description: "ジョイとキュキュットはどっちがいい？結論は、油汚れを落としたいならジョイ、泡切れ・すすぎやすさ重視ならキュキュット。大容量詰め替えの1mL単価・除菌・香りも比較し、用途別の選び方と使うときの失敗例まで解説。価格は毎週自動更新。"
 category: "dish-detergent"
 publishedAt: "2026-07-27"
-updatedAt: "2026-10-25"
+updatedAt: "2026-10-29"
 articleType: "comparison"
 products:
   - rank: 1
@@ -47,7 +47,7 @@ products:
     capacity: "1250mL×2セット"
     pricePerUnit: "約0.74円/mL"
     rating: 4.56
-    reviewCount: 84
+    reviewCount: 85
     features:
       - "クリア除菌処方でスポンジの除菌にも使えると表示されている"
       - "泡切れとすすぎやすさを重視した処方"

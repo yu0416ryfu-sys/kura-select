@@ -5,15 +5,15 @@ category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
 ranking: false
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-29"
 products:
   - rank: 1
     name: "スコッティ ティッシュペーパー フラワーボックス"
     typeLabel: "通常タイプ"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 7999
+    price: 7699
     capacity: "500枚×60箱"
-    pricePerUnit: "約0.53円/組"
+    pricePerUnit: "約0.51円/組"
     rating: 4.71
     reviewCount: 885
     features:

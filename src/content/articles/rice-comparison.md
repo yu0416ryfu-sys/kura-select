@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-29"
 products:
   - rank: 1
     name: "国内産 ブレンド米 白米 10kg（訳あり）"
@@ -13,7 +13,7 @@ products:
     capacity: "10kg"
     pricePerUnit: "約418円/kg"
     rating: 4.39
-    reviewCount: 16100
+    reviewCount: 16101
     features:
       - "国内産の複数原料米（ブレンド米）"
       - "通常の精米（無洗米ではない）"
@@ -43,11 +43,11 @@ products:
   - rank: 2
     name: "令和7年産 無洗米 三重県産コシヒカリ 10kg"
     brand: "ハーベストシーズン"
-    price: 5799
+    price: 5580
     capacity: "10kg"
-    pricePerUnit: "約580円/kg"
+    pricePerUnit: "約558円/kg"
     rating: 4.61
-    reviewCount: 4527
+    reviewCount: 4528
     features:
       - "家庭用に使いやすい米商品"
       - "まとめ買いやギフトに対応"
@@ -77,7 +77,7 @@ products:
   - rank: 3
     name: "無洗米 新潟県産コシヒカリ 10kg（5kg×2袋）"
     brand: "ヤマトライス"
-    price: 6180
+    price: 5880
     capacity: "10kg（5kg×2袋）"
     features:
       - "新潟県産コシヒカリの10kg無洗米"
@@ -95,7 +95,7 @@ products:
     rating: 4.64
     reviewCount: 3559
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hseason/cabinet/00208353/04348418/muniigata_10k.jpg?_ex=128x128"
-    pricePerUnit: "約618円/kg"
+    pricePerUnit: "約588円/kg"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -239,7 +239,7 @@ products:
     price: 9980
     capacity: "18kg〜20kg"
     rating: 4.74
-    reviewCount: 45853
+    reviewCount: 45855
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

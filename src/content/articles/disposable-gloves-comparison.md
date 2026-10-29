@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-29"
 products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚（100枚×20箱）"
@@ -29,12 +29,23 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/trinity-cosme/cabinet/09165139/13281630/imgrc0118353753.jpg?_ex=128x128"
     genreId: "401632"
     pricePerUnit: "約3.4円/枚"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbetter-tech-life%2Fpvc-2000.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-29"
+        price: 6775
+        rating: 4.72
+        reviewCount: 75
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/better-tech-life_pvc-2000"
+        available: true
   - rank: 2
     name: "PVCグローブ 100枚×20箱"
     brand: "サンユー"
-    price: 16000
+    price: 17600
     capacity: "100枚×20箱"
-    pricePerUnit: "約8.0円/枚"
+    pricePerUnit: "約8.8円/枚"
     rating: 5
     reviewCount: 2
     features:
@@ -56,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh734020.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-10-29"
         price: 6776
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh734020"
         available: true
@@ -66,9 +77,9 @@ products:
   - rank: 3
     name: "PVCグローブ 100枚×10箱"
     brand: "サンユー"
-    price: 8250
+    price: 9075
     capacity: "100枚×10箱"
-    pricePerUnit: "約8.3円/枚"
+    pricePerUnit: "約9.1円/枚"
     rating: 4.56
     reviewCount: 9
     features:
@@ -156,12 +167,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh8451-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-29"
         price: 418
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh8451-1"
         available: true
         rating: 4.61
-        reviewCount: 89
+        reviewCount: 90
     priceMax: 6776
     genreId: "401632"
   - rank: 6
@@ -238,7 +249,7 @@ products:
     price: 890
     capacity: "100枚"
     rating: 4.57
-    reviewCount: 3795
+    reviewCount: 3801
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -260,8 +271,8 @@ products:
     brand: "TRINITY COSME"
     price: 890
     capacity: "100枚"
-    rating: 4.7
-    reviewCount: 1549
+    rating: 4.71
+    reviewCount: 1554
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"
@@ -281,10 +292,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenka-shop%2Fglove001.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-25"
+        updatedAt: "2026-10-29"
         price: 1038
         rating: 4.59
-        reviewCount: 2321
+        reviewCount: 2322
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenka-shop_glove001"
         available: true
     priceMax: 33480
@@ -295,7 +306,7 @@ products:
     price: 1198
     capacity: "100枚"
     rating: 4.61
-    reviewCount: 864
+    reviewCount: 863
     features:
       - "調理向けの極薄仕様で粉なしタイプ"
       - "食品衛生法に適合したビニール素材"

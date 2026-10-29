@@ -4,7 +4,7 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-29"
 products:
   - rank: 1
     name: "ダスキン 台所用スポンジ 抗菌タイプ 6個セット"
@@ -13,7 +13,7 @@ products:
     capacity: "6個（約6ヶ月分）"
     pricePerUnit: "約183円/個"
     rating: 4.78
-    reviewCount: 9902
+    reviewCount: 9903
     features:
       - "3層構造で泡立ち・水切れ・耐久性を両立"
       - "楽天レビュー数トップクラスの圧倒的人気"
@@ -67,11 +67,11 @@ products:
   - rank: 3
     name: "【お試し・初回購入限定】太陽油脂　パックスナチュロン　キッチンスポンジ"
     brand: "太陽油脂（パックスナチュロン）"
-    price: 199
+    price: 220
     capacity: "1個"
-    pricePerUnit: "約199円/個"
+    pricePerUnit: "約220円/個"
     rating: 4.76
-    reviewCount: 496
+    reviewCount: 497
     features:
       - "天然素材のセルロース＋綿で環境にやさしい"
       - "速乾性が高く雑菌が繁殖しにくい"
@@ -169,9 +169,9 @@ products:
   - rank: 6
     name: "マーナ おさかなスポンジ 選べる5個セット"
     brand: "MARNA（マーナ）"
-    price: 1540
+    price: 1683
     capacity: "5個"
-    pricePerUnit: "約308円/個"
+    pricePerUnit: "約337円/個"
     rating: 4.71
     reviewCount: 255
     features:
@@ -227,10 +227,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsunsunsponge%2Ftss08b.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-27"
+        updatedAt: "2026-10-29"
         price: 3073
         rating: 4.86
-        reviewCount: 281
+        reviewCount: 282
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sunsunsponge_tss08b"
         available: true
     genreId: "401520"

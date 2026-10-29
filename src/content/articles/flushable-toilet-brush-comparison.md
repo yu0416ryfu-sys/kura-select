@@ -4,7 +4,7 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-10-25"
+updatedAt: "2026-10-29"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/6172915/"
         matchStatus: "pending"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-29"
         price: 2577
         rating: 4.58
         reviewCount: 104
@@ -78,9 +78,9 @@ products:
   - rank: 3
     name: "スクラビングバブル 流せるトイレブラシ 本体+替え16個"
     brand: "スクラビングバブル"
-    price: 1603
+    price: 1583
     capacity: "本体+替え16個"
-    pricePerUnit: "約100円/個"
+    pricePerUnit: "約99円/個"
     rating: 4.5
     reviewCount: 2
     features:
@@ -103,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftomopoko%2Fb0cshz6q7n.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-29"
         price: 1500
         rating: 4.45
         reviewCount: 11
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9612078018.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-29"
         price: 638
         rating: 0
         reviewCount: 2

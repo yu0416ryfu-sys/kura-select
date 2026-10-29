@@ -4,7 +4,7 @@ description: "ジェルボールは液体洗剤より1回あたり割高です�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-29"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987176194398.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-25"
+        updatedAt: "2026-10-29"
         price: 1986
         rating: 4.86
         reviewCount: 7
@@ -47,7 +47,7 @@ products:
     capacity: "89個"
     pricePerUnit: "約34円/個"
     rating: 4.83
-    reviewCount: 65
+    reviewCount: 70
     features:
       - "部屋干し時の生乾き臭に狙いを定めた処方"
       - "汗をかいた衣類・運動着の皮脂汚れに対応"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176284914.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-25"
+        updatedAt: "2026-10-29"
         price: 2997
         rating: 0
         reviewCount: 0
@@ -98,13 +98,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987176284556.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4987176284556-73-30001986.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-25"
-        price: 2580
+        updatedAt: "2026-10-29"
+        price: 2750
         rating: 0
         reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987176284556"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4987176284556-73-30001986"
         available: true
     pricePerUnit: "約35円/個"
     genreId: "210182"
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176284648.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-25"
+        updatedAt: "2026-10-29"
         price: 640
         rating: 0
         reviewCount: 0
@@ -224,13 +224,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176292735.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000220176.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-25"
-        price: 3380
+        updatedAt: "2026-10-29"
+        price: 2909
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176292735"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cosmecom_1000220176"
         available: true
     genreId: "210182"
   - rank: 8
@@ -239,8 +239,8 @@ products:
     price: 4598
     capacity: "70個"
     pricePerUnit: "約66円/個"
-    rating: 4.73
-    reviewCount: 37
+    rating: 4.71
+    reviewCount: 38
     features:
       - "洗剤と柔軟剤が一体になった4in1タイプ"
       - "すすぎ1回に対応した濃縮処方"
@@ -293,7 +293,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworldglobal%2F20250727090631-01056.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-25"
+        updatedAt: "2026-10-29"
         price: 4446
         rating: 0
         reviewCount: 0
@@ -327,7 +327,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmandmcorporation%2F4987176284518.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-29"
         price: 3980
         rating: 0
         reviewCount: 0

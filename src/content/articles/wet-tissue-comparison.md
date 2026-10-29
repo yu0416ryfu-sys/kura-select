@@ -4,16 +4,16 @@ description: "ウェットティッシュのおすすめ8選を1枚あたり単�
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-29"
 products:
   - rank: 1
     name: "レック 水99.9％ 手口ふき"
     brand: "レック"
-    price: 2390
+    price: 2151
     capacity: "80枚×15個（1200枚）"
-    pricePerUnit: "約2.0円/枚"
+    pricePerUnit: "約1.8円/枚"
     rating: 4.7
-    reviewCount: 4943
+    reviewCount: 4947
     features:
       - "手口ふきやウェットティッシュとして使える"
       - "大容量でストックしやすい"
@@ -204,8 +204,8 @@ products:
     brand: "アイリスオーヤマ"
     price: 7480
     capacity: "60枚×48個（2,880枚）"
-    rating: 4.42
-    reviewCount: 490
+    rating: 4.43
+    reviewCount: 491
     features:
       - "アルコール配合で除菌用途に向いたタイプ"
       - "厚手シートで拭き取りやすい設計"

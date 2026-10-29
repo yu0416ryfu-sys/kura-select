@@ -4,7 +4,7 @@ description: "生理用ナプキンはどれがコスパ最強？ソフィ・ロ
 category: "sanitary-napkin"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-10-25"
+updatedAt: "2026-10-29"
 products:
   - rank: 1
     name: "エリス 素肌のきもち ルナフィット 超スリム 多い昼〜ふつうの日用 羽なし 20.5cm"
@@ -12,8 +12,8 @@ products:
     price: 2183
     capacity: "27枚×5"
     pricePerUnit: "約16円/枚"
-    rating: 5
-    reviewCount: 4
+    rating: 4.6
+    reviewCount: 5
     features:
       - "超スリム設計でショーツ内でのかさばりが少ない"
       - "素肌感覚の薄さで存在感を感じにくい"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F600587.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-29"
         price: 2183
         rating: 0
         reviewCount: 0
@@ -203,7 +203,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffinespharma%2F4902011881349.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-10-29"
         price: 539
         rating: 4.86
         reviewCount: 22

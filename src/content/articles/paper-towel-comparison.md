@@ -4,7 +4,7 @@ description: "手拭き用ペーパータオルのおすすめ10選を、1枚（
 category: "kitchen-paper"
 publishedAt: "2026-10-14"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-29"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "200枚×49袋"
     pricePerUnit: "約0.54円/枚"
     rating: 4.77
-    reviewCount: 278
+    reviewCount: 280
     features:
       - "小判サイズの1枚もの（シングル）"
       - "国産の業務用ペーパータオル"
@@ -71,7 +71,7 @@ products:
     capacity: "200枚×30袋（6000枚）"
     pricePerUnit: "約0.65円/枚"
     rating: 4.62
-    reviewCount: 319
+    reviewCount: 320
     features:
       - "中判サイズの1枚もの（シングル）"
       - "業務用・家庭用兼用のエコタイプ"
@@ -122,40 +122,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/itoman/cabinet/papertowel/ittoco_50200006/50200006.jpg?_ex=128x128"
     genreId: "568271"
   - rank: 5
-    name: "ペーパータオル レナージュ レギュラー 中判 200枚×30パック"
-    brand: "太洋紙業"
-    price: 4600
-    capacity: "200枚×30パック"
-    pricePerUnit: "約0.77円/枚"
-    rating: 4.67
-    reviewCount: 401
-    features:
-      - "中判（レギュラー）の1枚もの"
-      - "日本製の業務用ペーパータオル"
-      - "同じシリーズに小判のエコノミーもある"
-    pros:
-      - "レビューが多く、使っている人の評価を参考にしやすい"
-      - "洗面所・トイレ・キッチンの手拭きに幅広く使える"
-      - "中判ホルダーの定番サイズで補充に迷わない"
-    cons:
-      - "小判ホルダーでは使えない"
-      - "顔を拭くような柔らかさを求める用途には向かない"
-    recommendedFor: "中判ホルダーで、評価の定まった定番品を選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq8tn.3rdw6841.g00qq8tn.3rdw7945/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocodecow%2F773072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocodecow%2Fi%2F10021998%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/095/773072.jpg?_ex=128x128"
-    genreId: "568271"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F529287.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-27"
-        price: 4598
-        rating: 4.5
-        reviewCount: 34
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_529287"
-        available: true
-  - rank: 6
     name: "業務用 ペーパータオル 中判 ピュアソフトREG 200枚×30袋"
     brand: "ピュアソフト"
     price: 4785
@@ -188,6 +154,40 @@ products:
         rating: 4.11
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-miyaco_2012621"
+        available: true
+  - rank: 6
+    name: "ペーパータオル レナージュ レギュラー 中判 200枚×30パック"
+    brand: "太洋紙業"
+    price: 4910
+    capacity: "200枚×30パック"
+    pricePerUnit: "約0.82円/枚"
+    rating: 4.67
+    reviewCount: 401
+    features:
+      - "中判（レギュラー）の1枚もの"
+      - "日本製の業務用ペーパータオル"
+      - "同じシリーズに小判のエコノミーもある"
+    pros:
+      - "レビューが多く、使っている人の評価を参考にしやすい"
+      - "洗面所・トイレ・キッチンの手拭きに幅広く使える"
+      - "中判ホルダーの定番サイズで補充に迷わない"
+    cons:
+      - "小判ホルダーでは使えない"
+      - "顔を拭くような柔らかさを求める用途には向かない"
+    recommendedFor: "中判ホルダーで、評価の定まった定番品を選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq8tn.3rdw6841.g00qq8tn.3rdw7945/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocodecow%2F773072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocodecow%2Fi%2F10021998%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/095/773072.jpg?_ex=128x128"
+    genreId: "568271"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F529287.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-27"
+        price: 4598
+        rating: 4.5
+        reviewCount: 34
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_529287"
         available: true
   - rank: 7
     name: "クレシア EFハンドタオル スリムEX ソフトタイプ200 小判 200組×36袋"
@@ -264,8 +264,8 @@ products:
     price: 3680
     capacity: "200組×10袋"
     pricePerUnit: "約1.8円/組"
-    rating: 4.71
-    reviewCount: 371
+    rating: 4.72
+    reviewCount: 373
     features:
       - "中判の2枚重ね・ソフトタイプ"
       - "厚手で蛍光染料不使用"

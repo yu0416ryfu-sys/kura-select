@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-29"
 draft: false
 products:
   - rank: 1
@@ -104,7 +104,7 @@ products:
       - "天然精油の香りが強く感じられる場合がある"
     recommendedFor: "室内や玄関まわりの虫の侵入対策を手軽にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhp6n.3rdw613e.g00uhp6n.3rdw7d67/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwoddylabo%2F4560437941414%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwoddylabo%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/woddylabo/cabinet/product/01/11722292/mushikirai_g_202606.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/woddylabo/cabinet/product/01/11722292/imgrc0192840559.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -259,7 +259,7 @@ products:
       - "精油の香りが好みに合わない場合もある"
     recommendedFor: "無添加・天然精油100%の虫よけを子どもにも使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvsqn.3rdw6696.g00qvsqn.3rdw7fa3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faromaspray%2Fsp-bug-100-100e%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faromaspray%2Fi%2F10001233%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aromaspray/cabinet/item/02/sp-bug-max10cp.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aromaspray/cabinet/item/02/sp-bug-100-50.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

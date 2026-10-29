@@ -3,7 +3,7 @@ title: "フロッシュとヤシノミ洗剤を徹底比較【2026年版】コ�
 description: "フロッシュとヤシノミ洗剤（サラヤ）の違いを1mLあたりの単価・手肌へのやさしさ・食材洗浄対応・環境配慮の4軸で徹底比較。どっちを選ぶべきか、用途別の使い分けまで解説します。価格は毎週自動更新。"
 category: "dish-detergent"
 publishedAt: "2026-07-08"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-29"
 articleType: "comparison"
 products:
   - rank: 1
@@ -33,8 +33,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2877035017.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
-        price: 513
+        updatedAt: "2026-10-29"
+        price: 530
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2877035017"
@@ -43,9 +43,9 @@ products:
   - rank: 2
     name: "フロッシュ 食器用洗剤 アロエヴェラ 詰替 1000mL"
     brand: "フロッシュ（Werner & Mertz）"
-    price: 2370
+    price: 2563
     capacity: "1000mL"
-    pricePerUnit: "約2.4円/mL"
+    pricePerUnit: "約2.6円/mL"
     rating: 0
     reviewCount: 0
     features:

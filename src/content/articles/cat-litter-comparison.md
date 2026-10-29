@@ -4,7 +4,7 @@ description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペ
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-29"
 draft: false
 products:
   - rank: 1
@@ -42,29 +42,6 @@ products:
         reviewCount: 32
     genreId: "204174"
   - rank: 2
-    name: "炭の猫砂 まとめ買いセット"
-    brand: "アイリスオーヤマ"
-    price: 2750
-    capacity: "7L×4袋（28L）"
-    pricePerUnit: "約98円/L"
-    rating: 4.35
-    reviewCount: 2244
-    features:
-      - "炭配合の木質系猫砂、固まるタイプ"
-      - "燃えるゴミとして廃棄可能"
-      - "消臭・脱臭機能を備えたベントナイト配合"
-    pros:
-      - "燃えるゴミに出せるため廃棄場所を選ばない"
-      - "大手ブランドで品質が安定しており初めての猫砂にも選びやすい"
-      - "4袋まとめ買いで補充の手間を減らせる"
-    cons:
-      - "炭の色が濃いため汚れの確認がしにくい場合がある"
-      - "鉱物系に比べて固まりがやや柔らかめ"
-    recommendedFor: "大手ブランドの安心感と廃棄のしやすさを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F661502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10003840%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/jishahin29/523462.jpg?_ex=128x128"
-    genreId: "204174"
-  - rank: 3
     name: "紙でつくったねこ砂"
     brand: "ペッツビレッジクロス"
     price: 5160
@@ -85,7 +62,7 @@ products:
       - "好みによっては紙独特の使用感が気になる場合がある"
     recommendedFor: "猫の健康チェックや軽量・廃棄の手軽さを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10005169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10005169%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo17/r1737_00028.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/cat_litter01/200811_pb_06.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -98,7 +75,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101385ku"
         available: true
     genreId: "204174"
-  - rank: 4
+  - rank: 3
     name: "ウッディフレッシュ 鉱物系猫砂 小粒 16L×2袋"
     brand: "ウッディフレッシュ"
     price: 3280
@@ -121,7 +98,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzr6n.3rdw64d5.g00qzr6n.3rdw7160/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogland%2F1314970%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogland%2Fi%2F10095023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogland/cabinet/jishahin29/1314970.jpg?_ex=128x128"
     genreId: "204174"
-  - rank: 5
+  - rank: 4
     name: "おからでつくったねこ砂"
     brand: "ペッツビレッジクロス"
     price: 5160
@@ -142,7 +119,7 @@ products:
       - "流す際は一度に大量に流さないよう注意が必要"
     recommendedFor: "国産・植物系素材で手軽に処理できる猫砂を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10014011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10014011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo17/r1737_00230.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/cat_litter01/200811_pb_02.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -154,6 +131,29 @@ products:
         available: true
         rating: 4.65
         reviewCount: 200
+    genreId: "204174"
+  - rank: 5
+    name: "炭の猫砂 まとめ買いセット"
+    brand: "アイリスオーヤマ"
+    price: 3180
+    capacity: "7L×4袋（28L）"
+    pricePerUnit: "約114円/L"
+    rating: 4.35
+    reviewCount: 2244
+    features:
+      - "炭配合の木質系猫砂、固まるタイプ"
+      - "燃えるゴミとして廃棄可能"
+      - "消臭・脱臭機能を備えたベントナイト配合"
+    pros:
+      - "燃えるゴミに出せるため廃棄場所を選ばない"
+      - "大手ブランドで品質が安定しており初めての猫砂にも選びやすい"
+      - "4袋まとめ買いで補充の手間を減らせる"
+    cons:
+      - "炭の色が濃いため汚れの確認がしにくい場合がある"
+      - "鉱物系に比べて固まりがやや柔らかめ"
+    recommendedFor: "大手ブランドの安心感と廃棄のしやすさを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F661502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10003840%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/jishahin29/523462.jpg?_ex=128x128"
     genreId: "204174"
   - rank: 6
     name: "パインウッド"
@@ -195,7 +195,7 @@ products:
     price: 2680
     capacity: "5L×4袋（20L）"
     rating: 4.61
-    reviewCount: 1970
+    reviewCount: 1971
     features:
       - "ベントナイト鉱物系・ペレットタイプの固まる猫砂"
       - "抗菌・脱臭機能付きで衛生管理を考慮した設計"
@@ -278,7 +278,7 @@ products:
     recommendedFor: "廃棄を手軽にしたい、植物由来素材を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F9871988%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10183945%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/11375185/11760512/imgrc0105024504.jpg?_ex=128x128"
-    priceMax: 4580
+    priceMax: 4659
     genreId: "204174"
   - rank: 10
     name: "エバークリーン"
@@ -286,7 +286,7 @@ products:
     price: 4349
     capacity: "6L×3個（18L）"
     rating: 4.68
-    reviewCount: 2123
+    reviewCount: 2131
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"
@@ -300,7 +300,7 @@ products:
       - "他の国産品と比べてやや価格帯が上がる場合がある"
     recommendedFor: "海外ブランドの細粒鉱物系で固まり性能を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10014271%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10014271%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo17/r1737_00232.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/event_img/ss/100142_24y.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

@@ -4,7 +4,7 @@ description: "BIGサイズ・スーパービッグサイズの紙おむつを1�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-10-25"
+updatedAt: "2026-10-29"
 products:
   - rank: 1
     name: "グーン スーパーBIG テープ"
@@ -77,7 +77,7 @@ products:
   - rank: 3
     name: "グーンプラス テープ BIGサイズ 38枚"
     brand: "大王製紙（グーンプラス）"
-    price: 2384
+    price: 2782
     capacity: "38枚（BIGサイズ・12〜20kg）"
     rating: 4.8
     reviewCount: 0
@@ -107,7 +107,7 @@ products:
         rating: 0
         reviewCount: 0
     genreId: "205198"
-    pricePerUnit: "約63円/枚"
+    pricePerUnit: "約73円/枚"
   - rank: 4
     name: "グーン スーパーBIG テープ 3個セット"
     brand: "グーン（大王製紙）"
