@@ -27,6 +27,20 @@
       ],
       "port": 4322,
       "autoPort": false
+    },
+    {
+      "name": "kura-dashboard",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "4330",
+        "--bind",
+        "127.0.0.1",
+        "--directory",
+        "reports/dashboard"
+      ],
+      "port": 4330
     }
   ]
 }
