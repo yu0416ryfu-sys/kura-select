@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>レギュラーのペットシーツは、サイズ・厚み・時間帯の順で決める</title>
+  <rect width="600" height="900" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#1f2937">ペットシーツは、この順で決める</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">単価を比べるのは、3つを決めたあと</text>
+
+  <!-- 1. サイズ -->
+  <rect x="20" y="100" width="560" height="232" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <rect x="40" y="118" width="300" height="40" rx="20" fill="#2f6fb5"/>
+  <text x="190" y="145" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">1. トレーの内寸とサイズ</text>
+  <rect x="40" y="170" width="250" height="146" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="60" y="204" font-size="21" font-weight="700" fill="#1f2937">レギュラー</text>
+  <text x="60" y="236" font-size="16" fill="#374151">内寸に収まり、</text>
+  <text x="60" y="260" font-size="16" fill="#374151">端が浮かない</text>
+  <text x="60" y="284" font-size="16" fill="#374151">中央で用を足せる</text>
+  <rect x="310" y="170" width="250" height="146" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="330" y="204" font-size="21" font-weight="700" fill="#1f2937">ワイド以上</text>
+  <text x="330" y="236" font-size="16" fill="#374151">足を上げる・回る</text>
+  <text x="330" y="260" font-size="16" fill="#374151">端でして漏れる</text>
+  <text x="330" y="284" font-size="16" fill="#374151">1回の量が多い</text>
+
+  <line x1="300" y1="336" x2="300" y2="358" stroke="#2f6fb5" stroke-width="3"/>
+  <path d="M290 354 L300 368 L310 354 Z" fill="#2f6fb5"/>
+  <text x="318" y="356" font-size="16" font-weight="700" fill="#1f4f87">レギュラーで合うなら</text>
+
+  <!-- 2. 厚み -->
+  <rect x="20" y="374" width="560" height="232" rx="14" fill="#fff4ea" stroke="#f0b27a" stroke-width="2"/>
+  <rect x="40" y="392" width="340" height="40" rx="20" fill="#d9701f"/>
+  <text x="210" y="419" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">2. 1回を1枚で受け止められるか</text>
+  <rect x="40" y="444" width="250" height="146" rx="10" fill="#ffffff" stroke="#f0b27a" stroke-width="1.5"/>
+  <text x="60" y="478" font-size="21" font-weight="700" fill="#1f2937">薄型で足りる</text>
+  <text x="60" y="510" font-size="16" fill="#374151">足元が濡れない</text>
+  <text x="60" y="534" font-size="16" fill="#374151">端に染みが回らない</text>
+  <text x="60" y="558" font-size="16" fill="#374151">1回ごとに替える</text>
+  <rect x="310" y="444" width="250" height="146" rx="10" fill="#ffffff" stroke="#f0b27a" stroke-width="1.5"/>
+  <text x="330" y="478" font-size="21" font-weight="700" fill="#1f2937">厚型にする</text>
+  <text x="330" y="510" font-size="16" fill="#374151">毎回ぎりぎり</text>
+  <text x="330" y="534" font-size="16" fill="#374151">足跡が残る</text>
+  <text x="330" y="558" font-size="16" fill="#374151">重ねて使っている</text>
+
+  <line x1="300" y1="610" x2="300" y2="632" stroke="#d9701f" stroke-width="3"/>
+  <path d="M290 628 L300 642 L310 628 Z" fill="#d9701f"/>
+
+  <!-- 3. 時間帯 -->
+  <rect x="20" y="648" width="560" height="160" rx="14" fill="#eef8f1" stroke="#86c59a" stroke-width="2"/>
+  <rect x="40" y="666" width="300" height="40" rx="20" fill="#2e8b57"/>
+  <text x="190" y="693" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">3. 時間帯で2種類に分ける</text>
+  <text x="60" y="742" font-size="18" fill="#1f2937">在宅でこまめに替える時間 → 薄型</text>
+  <text x="60" y="776" font-size="18" fill="#1f2937">留守番・夜 → 厚めのものを別に用意</text>
+
+  <rect x="20" y="826" width="560" height="56" rx="12" fill="#f3f4f6"/>
+  <text x="300" y="861" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">単価は、同じ厚みどうしで比べる</text>
+</svg>
