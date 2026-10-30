@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1000" width="600" height="1000" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>洗顔料の選び方</title>
+  <rect width="600" height="1000" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">洗顔料の選び方</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">肌の状態で洗浄力を決め、朝と夜、容器の形で絞る</text>
+
+  <!-- ① 肌の状態 -->
+  <rect x="20" y="100" width="560" height="300" rx="14" fill="#eef5ff" stroke="#8fb4e8" stroke-width="2"/>
+  <rect x="40" y="118" width="300" height="40" rx="20" fill="#2f6fdb"/>
+  <text x="190" y="145" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">① 洗ったあとの肌の状態</text>
+  <rect x="40" y="176" width="166" height="206" rx="10" fill="#ffffff" stroke="#8fb4e8" stroke-width="1.5"/>
+  <text x="123" y="206" text-anchor="middle" font-size="16" fill="#374151">つっぱる・粉をふく</text>
+  <path d="M113 222 L123 238 L133 222 Z" fill="#2f6fdb"/>
+  <text x="123" y="268" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">おだやかな</text>
+  <text x="123" y="292" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">洗浄成分</text>
+  <text x="123" y="326" text-anchor="middle" font-size="15" fill="#374151">アミノ酸系など</text>
+  <text x="123" y="350" text-anchor="middle" font-size="15" fill="#374151">泥・スクラブは控える</text>
+  <rect x="217" y="176" width="166" height="206" rx="10" fill="#ffffff" stroke="#8fb4e8" stroke-width="1.5"/>
+  <text x="300" y="206" text-anchor="middle" font-size="16" fill="#374151">とくに困っていない</text>
+  <path d="M290 222 L300 238 L310 222 Z" fill="#2f6fdb"/>
+  <text x="300" y="268" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">毎日用は</text>
+  <text x="300" y="292" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">おだやか〜標準</text>
+  <text x="300" y="326" text-anchor="middle" font-size="15" fill="#374151">冬は1段おだやかに</text>
+  <text x="300" y="350" text-anchor="middle" font-size="15" fill="#374151">寄せると無理がない</text>
+  <rect x="394" y="176" width="166" height="206" rx="10" fill="#ffffff" stroke="#8fb4e8" stroke-width="1.5"/>
+  <text x="477" y="206" text-anchor="middle" font-size="16" fill="#374151">皮脂が多い・べたつく</text>
+  <path d="M467 222 L477 238 L487 222 Z" fill="#2f6fdb"/>
+  <text x="477" y="268" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">石けん系も</text>
+  <text x="477" y="292" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">候補に入る</text>
+  <text x="477" y="326" text-anchor="middle" font-size="15" fill="#374151">泥・炭・スクラブは</text>
+  <text x="477" y="350" text-anchor="middle" font-size="15" fill="#374151">週に数回にとどめる</text>
+
+  <!-- ② 朝と夜 -->
+  <rect x="20" y="416" width="560" height="200" rx="14" fill="#eefaf2" stroke="#86c99f" stroke-width="2"/>
+  <rect x="40" y="434" width="300" height="40" rx="20" fill="#1f8a4c"/>
+  <text x="190" y="461" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">② 朝と夜で必要な洗浄力が違う</text>
+  <rect x="40" y="490" width="252" height="108" rx="10" fill="#ffffff" stroke="#86c99f" stroke-width="1.5"/>
+  <text x="166" y="522" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">朝</text>
+  <text x="166" y="552" text-anchor="middle" font-size="15" fill="#374151">寝ている間の汗と皮脂だけ</text>
+  <text x="166" y="576" text-anchor="middle" font-size="15" fill="#374151">少量・おだやかなもので足りる</text>
+  <rect x="308" y="490" width="252" height="108" rx="10" fill="#ffffff" stroke="#86c99f" stroke-width="1.5"/>
+  <text x="434" y="522" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">夜</text>
+  <text x="434" y="552" text-anchor="middle" font-size="15" fill="#374151">一日の皮脂と汚れを落とす</text>
+  <text x="434" y="576" text-anchor="middle" font-size="15" fill="#374151">メイクは先にクレンジングで</text>
+
+  <!-- ③ 容器の形 -->
+  <rect x="20" y="632" width="560" height="230" rx="14" fill="#fff4ea" stroke="#f0b27a" stroke-width="2"/>
+  <rect x="40" y="650" width="300" height="40" rx="20" fill="#d9701f"/>
+  <text x="190" y="677" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">③ 容器の形で何を買うか</text>
+  <text x="44" y="726" font-size="17" fill="#1f2937"><tspan font-weight="700">泡ポンプ</tspan>：泡立て不要の手早さ。量は調整しにくい</text>
+  <text x="44" y="762" font-size="17" fill="#1f2937"><tspan font-weight="700">チューブ</tspan>：量を調整できる。ネットで泡立てると少量で済む</text>
+  <text x="44" y="798" font-size="17" fill="#1f2937"><tspan font-weight="700">パウダー</tspan>：1回はごく少量。湿気に弱く浴室に置かない</text>
+  <text x="44" y="834" font-size="17" fill="#1f2937"><tspan font-weight="700">ジャー</tspan>：指ですくう。底に残りやすく水も入りやすい</text>
+
+  <!-- 洗い方 -->
+  <rect x="20" y="878" width="560" height="88" rx="14" fill="#f3f4f6" stroke="#d1d5db" stroke-width="2"/>
+  <text x="300" y="912" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">どれを選んでも：人肌くらいのぬるま湯・泡で包んでこすらない</text>
+  <text x="300" y="942" text-anchor="middle" font-size="16" fill="#374151">すすぎは流水で約1分・タオルは押さえて水分を取る</text>
+  <text x="300" y="988" text-anchor="middle" font-size="14" fill="#6b7280">洗い方の出典: 資生堂「冬のスキンケア」セミナー資料</text>
+</svg>
