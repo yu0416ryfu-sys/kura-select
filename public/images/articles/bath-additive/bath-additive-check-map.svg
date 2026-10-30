@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 940" width="600" height="940" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>入浴剤を入れる前の3つの確認</title>
+  <rect width="600" height="940" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">入浴剤を入れる前の3つの確認</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">給湯器・洗濯・冬の入り方を先に決めておく</text>
+
+  <!-- ① 追い焚き -->
+  <rect x="20" y="100" width="560" height="330" rx="14" fill="#eef5ff" stroke="#8fb4e8" stroke-width="2"/>
+  <rect x="40" y="118" width="300" height="40" rx="20" fill="#2f6fdb"/>
+  <text x="190" y="145" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">① 追い焚き・保温をするか</text>
+  <rect x="40" y="176" width="252" height="236" rx="10" fill="#ffffff" stroke="#8fb4e8" stroke-width="1.5"/>
+  <text x="166" y="206" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">する日に向くもの</text>
+  <text x="58" y="242" font-size="16" fill="#374151">・湯に完全に溶ける</text>
+  <text x="58" y="270" font-size="16" fill="#374151">・浴槽の底が見える透明さ</text>
+  <text x="58" y="298" font-size="16" fill="#374151">・「ふろがまをいためない」</text>
+  <text x="72" y="322" font-size="16" fill="#374151">などの表示がある</text>
+  <text x="58" y="358" font-size="15" fill="#6b7280">機種の条件は給湯器の</text>
+  <text x="58" y="380" font-size="15" fill="#6b7280">取扱説明書で確かめる</text>
+  <rect x="308" y="176" width="252" height="236" rx="10" fill="#ffffff" stroke="#e08a8a" stroke-width="1.5"/>
+  <text x="434" y="206" text-anchor="middle" font-size="18" font-weight="700" fill="#b42318">その日は避けるもの</text>
+  <text x="326" y="242" font-size="16" fill="#374151">・泡が出ている間の炭酸</text>
+  <text x="326" y="270" font-size="16" fill="#374151">・塩（ソルト）・硫黄</text>
+  <text x="326" y="298" font-size="16" fill="#374151">・酸・アルカリの強いもの</text>
+  <text x="326" y="326" font-size="16" fill="#374151">・にごり・パウダー入り</text>
+  <text x="326" y="354" font-size="16" fill="#374151">・ミルク・とろみ・オイル</text>
+  <text x="326" y="382" font-size="16" fill="#374151">・葉や茎など固形物入り</text>
+
+  <!-- ② 洗濯 -->
+  <rect x="20" y="446" width="560" height="214" rx="14" fill="#eefaf2" stroke="#86c99f" stroke-width="2"/>
+  <rect x="40" y="464" width="300" height="40" rx="20" fill="#1f8a4c"/>
+  <text x="190" y="491" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">② 残り湯を洗濯に使うか</text>
+  <text x="44" y="536" font-size="17" fill="#1f2937"><tspan font-weight="700">使えるのは「洗い」だけ</tspan>（表示で可とあるもの）</text>
+  <text x="44" y="566" font-size="17" fill="#1f2937"><tspan font-weight="700">すすぎは水道水</tspan>で行う</text>
+  <text x="44" y="596" font-size="16" fill="#374151">おしゃれ着用洗剤・柔軟剤仕上げ・つけ置きには使わない</text>
+  <text x="44" y="626" font-size="16" fill="#374151">色つきは色移り、白濁は風呂水ポンプの詰まりに注意</text>
+
+  <!-- ③ 冬の入り方 -->
+  <rect x="20" y="676" width="560" height="214" rx="14" fill="#fff4ea" stroke="#f0b27a" stroke-width="2"/>
+  <rect x="40" y="694" width="300" height="40" rx="20" fill="#d9701f"/>
+  <text x="190" y="721" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">③ 冬は湯温と時間を決める</text>
+  <text x="44" y="768" font-size="18" fill="#1f2937"><tspan font-weight="700">湯温は41度以下・つかるのは10分まで</tspan></text>
+  <text x="44" y="800" font-size="16" fill="#374151">入る前に脱衣所と浴室を暖める</text>
+  <text x="44" y="828" font-size="16" fill="#374151">浴槽から急に立ち上がらない</text>
+  <text x="44" y="856" font-size="16" fill="#374151">食後すぐ・飲酒後は入らない（目安は消費者庁）</text>
+
+  <text x="300" y="922" text-anchor="middle" font-size="14" fill="#6b7280">出典: ノーリツ・リンナイのよくある質問、花王・バスクリンの案内、消費者庁</text>
+</svg>
