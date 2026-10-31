@@ -9,11 +9,11 @@ products:
   - rank: 1
     name: "エッセンシャル しっとりまとまる コンディショナー 詰替 1080mL"
     brand: "花王（エッセンシャル）"
-    price: 920
+    price: 898
     capacity: "1080mL"
-    pricePerUnit: "約0.85円/mL"
-    rating: 5
-    reviewCount: 3
+    pricePerUnit: "約0.83円/mL"
+    rating: 0
+    reviewCount: 0
     features:
       - "18-MEAオイル配合でキューティクルを保護し指通りをなめらかにする"
       - "1800mL×2の大容量詰め替えで長期間使いやすい"
@@ -26,8 +26,8 @@ products:
       - "大容量のため保管スペースが必要"
       - "しっとり感が強いためさらさら仕上がりを好む方には向かない"
     recommendedFor: "大容量でコスパ重視の方・しっとりまとまる仕上がりが好みの方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00scpcn.3rdw6fd2.g00scpcn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjetprice%2Fx992nw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjetprice%2Fi%2F10673461%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jetprice/cabinet/ba6/j0971t.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00swq7n.3rdw6fcd.g00swq7n.3rdw7876/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnafco%2Fn21059520%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnafco%2Fi%2F10383542%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nafco/cabinet/item331/n21059520_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

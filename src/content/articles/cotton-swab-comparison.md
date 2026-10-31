@@ -4,7 +4,7 @@ description: "綿棒をコットン100%・紙軸・スパイラル・抗菌タ�
 category: "cotton-swab"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-31"
 draft: false
 products:
   - rank: 1
@@ -112,11 +112,11 @@ products:
   - rank: 4
     name: "うさベビー 抗菌綿棒 ほそめ 250本"
     brand: "山洋"
-    price: 218
+    price: 217
     capacity: "250本"
     pricePerUnit: "約0.87円/本"
-    rating: 5
-    reviewCount: 1
+    rating: 0
+    reviewCount: 0
     features:
       - "細め設計の紙軸綿棒、抗菌加工"
       - "赤ちゃんの鼻・耳の細部にも使いやすい細さ"
@@ -129,8 +129,8 @@ products:
       - "細さがあるため力をかけすぎると折れやすい"
       - "大人の耳掃除には細すぎると感じる場合がある"
     recommendedFor: "赤ちゃんや幼児の細部ケア、メイクの細かい修正や傷手当てに"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q8den.3rdw61ea.g00q8den.3rdw7cb4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatsuzakka-plus1%2F4936613072409%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatsuzakka-plus1%2Fi%2F10163408%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/seikatsuzakka-plus1/cabinet/250802/4936613072409.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ty7vn.3rdw64fb.g00ty7vn.3rdw7747/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkusuriaoki-r%2F4936613072409%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkusuriaoki-r%2Fi%2F10013319%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kusuriaoki-r/cabinet/pic2281/4936613072409_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
