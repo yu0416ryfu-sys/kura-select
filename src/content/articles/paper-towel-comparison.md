@@ -71,7 +71,7 @@ products:
     capacity: "200枚×30袋（6000枚）"
     pricePerUnit: "約0.65円/枚"
     rating: 4.62
-    reviewCount: 320
+    reviewCount: 321
     features:
       - "中判サイズの1枚もの（シングル）"
       - "業務用・家庭用兼用のエコタイプ"
@@ -236,28 +236,28 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/itoman/cabinet/papertowel/monalis_50200036/50200036.jpg?_ex=128x128"
     genreId: "568271"
   - rank: 9
-    name: "パブリックペーパータオル ソフトM 中判 200組×25パック"
-    brand: "王子ネピア"
-    price: 7334
-    capacity: "200組×25パック"
-    pricePerUnit: "約1.5円/組"
-    rating: 4.64
-    reviewCount: 14
+    name: "エルフォーレ ペーパータオルダブル 中判 200組×30パック"
+    brand: "大王製紙（エリエール）"
+    price: 5947
+    capacity: "200組×30パック"
+    pricePerUnit: "約0.99円/組"
+    rating: 4.75
+    reviewCount: 28
     features:
-      - "中判（Mサイズ）の2枚重ね・ソフトタイプ"
-      - "施設向けのパブリックシリーズ"
-      - "同じシリーズに小判（S）やライトタイプもある"
+      - "中判の2枚重ね・ソフトタイプ"
+      - "エリエールの業務用エルフォーレシリーズ"
+      - "ミルクカートン（牛乳パック）を配合した環境対応型"
     pros:
       - "メーカー品の2枚重ねを中判ホルダーで使いたい人に向く"
-      - "シリーズ内でサイズと厚さを選び分けられる"
+      - "再生素材を使った商品を選びたい施設や店舗にも合わせやすい"
       - "柔らかさを重視する洗面所の手拭きに使いやすい"
     cons:
-      - "レビューがまだ少なく、使い心地の評価は集まりきっていない"
-      - "入荷待ちになることがあり、在庫を確かめてから買う必要がある"
+      - "レビューがまだ多くなく、使い心地の評価は集まりきっていない"
+      - "ケース単位の購入になるため、保管場所を見ておく必要がある"
     recommendedFor: "中判ホルダーで、メーカー品の柔らかい2枚重ねを選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t7pwn.3rdw6abd.g00t7pwn.3rdw7773/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkamiyasan-store%2F10000164%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkamiyasan-store%2Fi%2F10000164%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kamiyasan-store/cabinet/06137907/imgrc0100671485.jpg?_ex=128x128"
-    genreId: "568271"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tiz9n.3rdw6353.g00tiz9n.3rdw771a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprotoolshop%2F4902011619690%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fprotoolshop%2Fi%2F10068195%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/protoolshop/cabinet/690/4902011619690.jpg?_ex=128x128"
+    genreId: "101842"
   - rank: 10
     name: "クレシア EFハンドタオル ソフトタイプ200 中判 200組×10袋"
     brand: "日本製紙クレシア"
