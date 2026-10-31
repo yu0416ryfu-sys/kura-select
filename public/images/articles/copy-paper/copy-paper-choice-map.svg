@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>コピー用紙の選び方</title>
+  <rect width="600" height="900" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">コピー用紙の選び方</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">用途で白さを決め、月の枚数で冊数を決める</text>
+
+  <!-- ① 何を印刷するか -->
+  <rect x="20" y="100" width="560" height="280" rx="14" fill="#eef5ff" stroke="#8fb4e8" stroke-width="2"/>
+  <rect x="40" y="118" width="300" height="40" rx="20" fill="#2f6fdb"/>
+  <text x="190" y="145" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">① 何を印刷するか</text>
+  <rect x="40" y="176" width="166" height="186" rx="10" fill="#ffffff" stroke="#8fb4e8" stroke-width="1.5"/>
+  <text x="123" y="206" text-anchor="middle" font-size="16" fill="#374151">文字が中心の書類</text>
+  <path d="M113 222 L123 238 L133 222 Z" fill="#2f6fdb"/>
+  <text x="123" y="268" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">標準白色</text>
+  <text x="123" y="302" text-anchor="middle" font-size="15" fill="#374151">白色度80%台</text>
+  <text x="123" y="326" text-anchor="middle" font-size="15" fill="#374151">社内資料・下書き</text>
+  <rect x="217" y="176" width="166" height="186" rx="10" fill="#ffffff" stroke="#8fb4e8" stroke-width="1.5"/>
+  <text x="300" y="206" text-anchor="middle" font-size="16" fill="#374151">カラー・社外に渡す</text>
+  <path d="M290 222 L300 238 L310 222 Z" fill="#2f6fdb"/>
+  <text x="300" y="268" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">高白色</text>
+  <text x="300" y="302" text-anchor="middle" font-size="15" fill="#374151">白色度90%以上</text>
+  <text x="300" y="326" text-anchor="middle" font-size="15" fill="#374151">グラフ・配布資料</text>
+  <rect x="394" y="176" width="166" height="186" rx="10" fill="#ffffff" stroke="#8fb4e8" stroke-width="1.5"/>
+  <text x="477" y="206" text-anchor="middle" font-size="16" fill="#374151">環境配慮が条件</text>
+  <path d="M467 222 L477 238 L487 222 Z" fill="#2f6fdb"/>
+  <text x="477" y="268" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">再生紙</text>
+  <text x="477" y="302" text-anchor="middle" font-size="15" fill="#374151">古紙パルプの配合率と</text>
+  <text x="477" y="326" text-anchor="middle" font-size="15" fill="#374151">適合表示を確かめる</text>
+
+  <!-- ② 月に何枚使うか -->
+  <rect x="20" y="396" width="560" height="220" rx="14" fill="#eefaf2" stroke="#86c99f" stroke-width="2"/>
+  <rect x="40" y="414" width="300" height="40" rx="20" fill="#1f8a4c"/>
+  <text x="190" y="441" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">② 月に何枚使うか</text>
+  <rect x="40" y="470" width="166" height="128" rx="10" fill="#ffffff" stroke="#86c99f" stroke-width="1.5"/>
+  <text x="123" y="502" text-anchor="middle" font-size="16" fill="#374151">月100枚以下</text>
+  <text x="123" y="538" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">1冊（500枚）</text>
+  <text x="123" y="572" text-anchor="middle" font-size="15" fill="#374151">送料を足して比べる</text>
+  <rect x="217" y="470" width="166" height="128" rx="10" fill="#ffffff" stroke="#86c99f" stroke-width="1.5"/>
+  <text x="300" y="502" text-anchor="middle" font-size="16" fill="#374151">月200枚くらいから</text>
+  <text x="300" y="538" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">5冊の箱</text>
+  <text x="300" y="572" text-anchor="middle" font-size="15" fill="#374151">2500枚・約1年分</text>
+  <rect x="394" y="470" width="166" height="128" rx="10" fill="#ffffff" stroke="#86c99f" stroke-width="1.5"/>
+  <text x="477" y="502" text-anchor="middle" font-size="16" fill="#374151">月400枚くらいから</text>
+  <text x="477" y="538" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">10冊の箱</text>
+  <text x="477" y="572" text-anchor="middle" font-size="15" fill="#374151">5000枚・約1年分</text>
+
+  <!-- ③ 注文の前に確かめる -->
+  <rect x="20" y="632" width="560" height="170" rx="14" fill="#fff4ea" stroke="#f0b27a" stroke-width="2"/>
+  <rect x="40" y="650" width="300" height="40" rx="20" fill="#d9701f"/>
+  <text x="190" y="677" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">③ 注文の前に確かめる</text>
+  <text x="44" y="722" font-size="17" fill="#1f2937"><tspan font-weight="700">届け先</tspan>：法人名・屋号あて限定の出品ではないか</text>
+  <text x="44" y="752" font-size="17" fill="#1f2937"><tspan font-weight="700">送料</tspan>：単価に送料は入らない。合計で比べる</text>
+  <text x="44" y="782" font-size="17" fill="#1f2937"><tspan font-weight="700">重さ</tspan>：10冊の箱は20kgを超える。置き場所まで運べるか</text>
+
+  <!-- 保管 -->
+  <rect x="20" y="818" width="560" height="62" rx="14" fill="#f3f4f6" stroke="#d1d5db" stroke-width="2"/>
+  <text x="300" y="855" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">どれを選んでも：湿気を避け、立てかけず平らに保管する</text>
+</svg>
