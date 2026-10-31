@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640" width="600" height="640" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>使う頻度と追い焚きで選ぶ入浴剤</title>
+  <rect width="600" height="640" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">使う頻度と追い焚きで選ぶ入浴剤</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">2つの質問に答えると、向くタイプが絞れる</text>
+
+  <!-- 列見出し -->
+  <rect x="100" y="96" width="236" height="38" rx="19" fill="#374151"/>
+  <text x="218" y="121" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">追い焚きをしない</text>
+  <rect x="344" y="96" width="236" height="38" rx="19" fill="#374151"/>
+  <text x="462" y="121" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">追い焚きをする</text>
+
+  <!-- 行見出し -->
+  <rect x="20" y="146" width="72" height="200" rx="10" fill="#374151"/>
+  <text x="56" y="240" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">毎日</text>
+  <text x="56" y="266" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">使う</text>
+  <rect x="20" y="356" width="72" height="200" rx="10" fill="#374151"/>
+  <text x="56" y="450" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">たまに</text>
+  <text x="56" y="476" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">使う</text>
+
+  <!-- 毎日 × 追い焚きをしない -->
+  <rect x="100" y="146" width="236" height="200" rx="12" fill="#eef5ff" stroke="#8fb4e8" stroke-width="2"/>
+  <text x="218" y="184" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">計量式の粉末・ソルト</text>
+  <text x="116" y="226" font-size="16" fill="#374151">大袋から量って使う</text>
+  <text x="116" y="258" font-size="16" fill="#374151">岩塩・エプソムも候補</text>
+  <text x="116" y="290" font-size="16" fill="#374151">1回量を掛けて比べる</text>
+
+  <!-- 毎日 × 追い焚きをする -->
+  <rect x="344" y="146" width="236" height="200" rx="12" fill="#eefaf2" stroke="#86c99f" stroke-width="2"/>
+  <text x="462" y="184" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">溶けきる透明な粉末</text>
+  <text x="358" y="226" font-size="16" fill="#374151">「ふろがまをいためない」</text>
+  <text x="358" y="258" font-size="16" fill="#374151">などの表示を確かめる</text>
+  <text x="358" y="290" font-size="16" fill="#374151">条件は給湯器の説明書で</text>
+
+  <!-- たまに × 追い焚きをしない -->
+  <rect x="100" y="356" width="236" height="200" rx="12" fill="#fff4ea" stroke="#f0b27a" stroke-width="2"/>
+  <text x="218" y="394" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">炭酸の錠剤・アソート</text>
+  <text x="116" y="436" font-size="16" fill="#374151">1回分ずつ包まれている</text>
+  <text x="116" y="468" font-size="16" fill="#374151">香りを日替わりにできる</text>
+  <text x="116" y="500" font-size="16" fill="#374151">にごり湯も選べる</text>
+
+  <!-- たまに × 追い焚きをする -->
+  <rect x="344" y="356" width="236" height="200" rx="12" fill="#fff9db" stroke="#e3c65a" stroke-width="2"/>
+  <text x="462" y="394" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">個包装の透明タイプ</text>
+  <text x="358" y="436" font-size="16" fill="#374151">炭酸は追い焚きを</text>
+  <text x="358" y="468" font-size="16" fill="#374151">済ませてから入れる</text>
+  <text x="358" y="500" font-size="16" fill="#374151">泡が消えてから保温する</text>
+
+  <!-- 注意 -->
+  <rect x="20" y="568" width="560" height="38" rx="10" fill="#fdecec" stroke="#e08a8a" stroke-width="1.5"/>
+  <text x="300" y="593" text-anchor="middle" font-size="15" fill="#b42318">ソルト・硫黄・にごり・ミルク系は、追い焚きをする日は避ける</text>
+  <text x="300" y="628" text-anchor="middle" font-size="14" fill="#6b7280">出典: ノーリツ・リンナイのよくある質問をもとに作成</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640" width="600" height="640" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>入浴剤の1回あたりの費用の出し方</title>
+  <rect width="600" height="640" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">1回あたりの費用の出し方</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">表示の単位ごとに、計算のしかたを分ける</text>
+
+  <!-- 個・錠・包 -->
+  <rect x="20" y="100" width="560" height="140" rx="14" fill="#eef5ff" stroke="#8fb4e8" stroke-width="2"/>
+  <rect x="40" y="114" width="260" height="38" rx="19" fill="#2f6fdb"/>
+  <text x="170" y="139" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">個・錠・包の表示</text>
+  <text x="44" y="186" font-size="20" font-weight="700" fill="#1f2937">価格 ÷ 入っている数 × 1回に入れる数</text>
+  <text x="44" y="218" font-size="16" fill="#374151">1回に3錠や2包を使う商品もある</text>
+
+  <!-- g・kg・mL・L -->
+  <rect x="20" y="252" width="560" height="166" rx="14" fill="#eefaf2" stroke="#86c99f" stroke-width="2"/>
+  <rect x="40" y="266" width="260" height="38" rx="19" fill="#1f8a4c"/>
+  <text x="170" y="291" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">g・kg・mL・Lの表示</text>
+  <text x="44" y="338" font-size="20" font-weight="700" fill="#1f2937">価格 ÷ 内容量 × 1回に入れる量</text>
+  <text x="44" y="370" font-size="16" fill="#374151">単位をそろえて計算する（1kg＝1000g）</text>
+  <text x="44" y="398" font-size="16" fill="#374151">例：1kgの袋を1回30g使うなら約33回分</text>
+
+  <!-- 〇回分 -->
+  <rect x="20" y="430" width="560" height="140" rx="14" fill="#fff4ea" stroke="#f0b27a" stroke-width="2"/>
+  <rect x="40" y="444" width="260" height="38" rx="19" fill="#d9701f"/>
+  <text x="170" y="469" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">「〇回分」の表示</text>
+  <text x="44" y="516" font-size="20" font-weight="700" fill="#1f2937">価格 ÷ 回数</text>
+  <text x="44" y="548" font-size="16" fill="#374151">使用方法の1回量で数え直すと回数が変わることがある</text>
+
+  <text x="300" y="610" text-anchor="middle" font-size="16" fill="#6b7280">比べるときは湯量をそろえる（家庭の浴槽は150〜200Lが目安）</text>
+</svg>
