@@ -98,7 +98,8 @@ const cancellationLabel = (fee: number) => (fee > 0 ? yen(fee) : "なし");
           <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">月額目安</th>
           <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">契約期間</th>
           <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">解約金</th>
-          <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap">詳細</th>
+          <!-- 詳細列は公式サイトへのボタンなので、横スクロールしても右端に残す -->
+          <th scope="col" class="px-3 py-3 font-semibold whitespace-nowrap md:sticky md:right-0 bg-[var(--color-bg)] md:shadow-[-1px_0_0_var(--color-border)]">詳細</th>
         </tr>
       </thead>
       <tbody>
@@ -114,7 +115,7 @@ const cancellationLabel = (fee: number) => (fee > 0 ? yen(fee) : "なし");
             <td class="px-3 py-3 whitespace-nowrap">{yen(service.monthlyCost)}</td>
             <td class="px-3 py-3 whitespace-nowrap">{contractLabel(service.contractMonths)}</td>
             <td class="px-3 py-3 whitespace-nowrap">{cancellationLabel(service.cancellationFee)}</td>
-            <td class="px-3 py-3 min-w-[160px]">
+            <td class="px-3 py-3 min-w-[160px] md:sticky md:right-0 bg-[var(--color-surface)] md:shadow-[-1px_0_0_var(--color-border)]">
               <ServiceLink
                 href={service.affiliateUrl}
                 asp={service.asp}

@@ -178,7 +178,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit, ran
               >
                 価格・購入{sortKey === "price" && <span class="ml-1">{sortDir === "asc" ? "↑" : "↓"}</span>}
               </th>
-              <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] min-w-[66px] whitespace-nowrap">容量</th>
+              <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] min-w-[112px] whitespace-nowrap">容量</th>
               <th
                 class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[88px] whitespace-nowrap"
                 aria-sort={ariaSortAttr("pricePerUnit")}
@@ -293,7 +293,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit, ran
                       })}
                     </div>
                   </td>
-                  <td class="px-3 py-3 text-sm whitespace-nowrap align-middle">{p.capacity}</td>
+                  <td class="px-3 py-3 text-sm align-middle">{p.capacity}</td>
                   <td class="px-3 py-3 align-middle">
                     {(() => {
                       // コスパは最安サイトの価格 × capacity から算出する
