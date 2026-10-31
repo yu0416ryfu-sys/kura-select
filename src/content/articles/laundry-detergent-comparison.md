@@ -4,7 +4,7 @@ description: "洗濯洗剤は液体・粉末・ジェルボールのどれがコ
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -64,29 +64,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sskikaku/cabinet/imgrc0122421950.jpg?_ex=128x128"
     genreId: "210182"
   - rank: 3
-    name: "アタックZERO つめかえ用 2300g"
-    brand: "アタック（花王）"
-    price: 2238
-    capacity: "2300g"
-    pricePerUnit: "約0.97円/g"
-    rating: 4.77
-    reviewCount: 31
-    features:
-      - "濃縮タイプの液体洗剤"
-      - "部屋干しの臭い対策をうたうシリーズ"
-      - "詰め替え用の大きめサイズ"
-    pros:
-      - "1回に使う量が少なく、ボトルへの詰め替え回数を減らしやすい"
-      - "ドラム式・縦型のどちらでも使いやすい液体タイプ"
-      - "ドラッグストアでも見かける定番ブランドで選びやすい"
-    cons:
-      - "詰め替え用なので、本体ボトルを別に用意する必要がある"
-      - "香りの好みは実際に使って確かめたい"
-    recommendedFor: "部屋干しが多く、定番ブランドの液体洗剤を詰め替えで使い続けたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301466211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10042602%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/211/4901301466211.jpg?_ex=128x128"
-    genreId: "210182"
-  - rank: 4
     name: "アタック 高活性バイオパワー つめかえ用 750g×8パック"
     brand: "アタック（花王）"
     price: 5900
@@ -120,6 +97,29 @@ products:
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301452429x8"
         available: true
+  - rank: 4
+    name: "アタックZERO つめかえ用 2300g"
+    brand: "アタック（花王）"
+    price: 2347
+    capacity: "2300g"
+    pricePerUnit: "約1.0円/g"
+    rating: 4.77
+    reviewCount: 31
+    features:
+      - "濃縮タイプの液体洗剤"
+      - "部屋干しの臭い対策をうたうシリーズ"
+      - "詰め替え用の大きめサイズ"
+    pros:
+      - "1回に使う量が少なく、ボトルへの詰め替え回数を減らしやすい"
+      - "ドラム式・縦型のどちらでも使いやすい液体タイプ"
+      - "ドラッグストアでも見かける定番ブランドで選びやすい"
+    cons:
+      - "詰め替え用なので、本体ボトルを別に用意する必要がある"
+      - "香りの好みは実際に使って確かめたい"
+    recommendedFor: "部屋干しが多く、定番ブランドの液体洗剤を詰め替えで使い続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301466211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10042602%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/211/4901301466211.jpg?_ex=128x128"
+    genreId: "210182"
   - rank: 5
     name: "アリエール 液体 詰め替え 超ジャンボ 1000g×4セット"
     brand: "アリエール（P&G）"
@@ -127,7 +127,7 @@ products:
     capacity: "1000g×4個"
     pricePerUnit: "約1.0円/g"
     rating: 4.62
-    reviewCount: 666
+    reviewCount: 667
     features:
       - "液体タイプの衣料用洗剤"
       - "超ジャンボサイズの詰め替え用を複数袋まとめた構成"
@@ -283,7 +283,7 @@ products:
   - rank: 10
     name: "ナノックス ワン スタンダード 詰め替え 1400g×6袋セット"
     brand: "ライオン（ナノックス ワン）"
-    price: 8481
+    price: 7980
     capacity: "1400g×6袋（8,400g）"
     rating: 4.61
     reviewCount: 38
@@ -302,6 +302,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7174421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10198614%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11663202/12603758/7262632.jpg?_ex=128x128"
     genreId: "210182"
+    priceMax: 9220
 tags:
   - "洗濯洗剤"
   - "コスパ"

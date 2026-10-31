@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ9選を1回�
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fozoneassocia%2Ftoilet100.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-27"
+        updatedAt: "2026-10-31"
         price: 3980
         rating: 4.25
         reviewCount: 208
@@ -93,7 +93,7 @@ products:
     price: 1280
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7346
+    reviewCount: 7381
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -130,7 +130,7 @@ products:
       - "単身者にはやや多めの容量"
     recommendedFor: "在宅と持ち出しをまとめて備えたい世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u856n.3rdw6d87.g00u856n.3rdw73f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftaigu188%2Fsimple_toilet%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftaigu188%2Fi%2F10000649%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/taigu188/cabinet/10350855/imgrc0098417905.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/taigu188/cabinet/14124896/imgrc0138393487.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -241,7 +241,7 @@ products:
     price: 1380
     capacity: "20回分"
     rating: 4.52
-    reviewCount: 7239
+    reviewCount: 7243
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"

@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 draft: false
 products:
   - rank: 1
@@ -185,7 +185,7 @@ products:
     price: 1170
     capacity: "40×60cm 1枚"
     rating: 4.35
-    reviewCount: 1084
+    reviewCount: 1086
     features:
       - "マイクロファイバーとポリエステル混合"
       - "抗菌・防臭加工で清潔さを保つ"
@@ -221,7 +221,7 @@ products:
     price: 1999
     capacity: "40×60cm / 50×80cm 1枚"
     rating: 4.64
-    reviewCount: 3327
+    reviewCount: 3328
     features:
       - "マイクロファイバー素材で高速吸水"
       - "厚手設計で足裏にフィット"

@@ -4,7 +4,7 @@ description: "使い捨てカイロのおすすめ10選を1個あたり単価で
 category: "kairo"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 draft: false
 products:
   - rank: 1
@@ -81,7 +81,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1197-4987067829309x8.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-25"
+        updatedAt: "2026-10-31"
         price: 5573
         rating: 5
         reviewCount: 8
@@ -94,7 +94,7 @@ products:
     capacity: "120個"
     pricePerUnit: "約24円/個"
     rating: 4.78
-    reviewCount: 121
+    reviewCount: 122
     features:
       - "約9.6×7cmのミニサイズで衣類に貼るタイプ"
       - "10時間持続タイプ（メーカー表示）"
@@ -115,7 +115,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej35309/"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 2889
         rating: 0
         reviewCount: 2
@@ -149,7 +149,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej35309/"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 2889
         rating: 0
         reviewCount: 2
@@ -217,7 +217,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F4970520461383set.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 6480
         rating: 4.91
         reviewCount: 11
@@ -251,7 +251,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F4970520461338set.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 6480
         rating: 5
         reviewCount: 3
@@ -283,13 +283,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ae09408/"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fb087ex.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-08"
-        price: 1480
-        rating: 4.83
-        reviewCount: 23
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ae09408"
+        updatedAt: "2026-10-31"
+        price: 1402
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_b087ex"
         available: true
   - rank: 10
     name: "エステー はるオンパックス 10個×24袋 ケース"

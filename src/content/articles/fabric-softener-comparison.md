@@ -66,8 +66,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fririnana%2F13ca849f60f.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-27"
+        matchStatus: "matched"
+        updatedAt: "2026-10-31"
         price: 1944
         rating: 0
         reviewCount: 0
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987176184580.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 1281
         rating: 4.96
         reviewCount: 27
@@ -203,7 +203,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 1160
         rating: 4.8
         reviewCount: 5
@@ -260,7 +260,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone%2F1898619600.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 1350
         rating: 0
         reviewCount: 0
@@ -327,7 +327,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301423443.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 1453
         rating: 5
         reviewCount: 5

@@ -4,7 +4,7 @@ description: "ボディソープを1mLあたりのコストで比較。hadakara�
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-31"
 products:
   - rank: 1
     name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
@@ -31,23 +31,23 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakakabeshop%2F4903301291299-12.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakakabeshop%2F4903301291305-12.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 7480
         rating: 0
         reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/akakabeshop_4903301291299-12"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/akakabeshop_4903301291305-12"
         available: true
     genreId: "100962"
   - rank: 2
     name: "キュレル ボディウォッシュ ポンプ 420mL"
     brand: "花王（キュレル）"
-    price: 900
+    price: 768
     capacity: "420mL"
-    pricePerUnit: "約2.1円/mL"
-    rating: 0
-    reviewCount: 0
+    pricePerUnit: "約1.8円/mL"
+    rating: 4.67
+    reviewCount: 12
     features:
       - "セラミド機能成分配合で肌のバリア機能を守る処方"
       - "無香料・無着色・アルコールフリーの低刺激設計"
@@ -60,8 +60,8 @@ products:
       - "1mLあたりのコストは大容量詰め替えと比べて高め"
       - "洗浄力は控えめで脂性肌の方には物足りない場合がある"
     recommendedFor: "乾燥肌・敏感肌の方・家族全員で低刺激のボディソープを使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q8den.3rdw61ea.g00q8den.3rdw7cb4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatsuzakka-plus1%2F4901301289353%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatsuzakka-plus1%2Fi%2F10126445%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/seikatsuzakka-plus1/cabinet/r310-dcitem/0001/4901301289353.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10084454%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10031009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/shouhin56/4901301289353.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -114,8 +114,8 @@ products:
     price: 2648
     capacity: "3kg"
     pricePerUnit: "約0.88円/g"
-    rating: 4.65
-    reviewCount: 34
+    rating: 4.6
+    reviewCount: 35
     features:
       - "ニュートリアムモイスチャー配合で肌にうるおい"
       - "クリーミーな泡で肌を包み込む"
@@ -178,7 +178,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhealingvillage%2Fmndmrw-kbwt0.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 1398
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/healingvillage_mndmrw-kbwt0"
         available: true

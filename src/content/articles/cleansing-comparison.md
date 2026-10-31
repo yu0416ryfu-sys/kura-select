@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdhc%2F8000023597.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 2717
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dhc_8000023597"
         available: true
@@ -145,7 +145,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true
@@ -178,14 +178,14 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkscojp%2F960120670.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 2380
         rating: 4.46
         reviewCount: 68
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kscojp_960120670"
         available: true
     genreId: "405061"
-    priceMax: 10000
+    priceMax: 7560
   - rank: 7
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
     brand: "花王（キュレル）"

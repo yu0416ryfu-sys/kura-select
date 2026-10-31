@@ -215,7 +215,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/wkj6918/"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 6180
         rating: 0
         reviewCount: 0

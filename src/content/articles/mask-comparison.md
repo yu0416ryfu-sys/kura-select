@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 products:
   - rank: 1
     name: "WEIMALL 不織布カラーマスク 立体3D 50枚"
@@ -79,7 +79,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft0090-01-a.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 2039
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t0090-01-a"
         available: true
@@ -126,7 +126,7 @@ products:
     price: 264
     capacity: "50枚"
     rating: 4.2
-    reviewCount: 22243
+    reviewCount: 22247
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -219,7 +219,7 @@ products:
       - "色や形状の好みは分かれる"
     recommendedFor: "使い捨てマスクを枚数と使いやすさで選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5hnn.3rdw6544.g00s5hnn.3rdw7f71/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falice-zk%2Fny263%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falice-zk%2Fi%2F10002994%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/alice-zk/cabinet/mk/ny263-j.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/alice-zk/cabinet/mk/ny263-cool.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -259,7 +259,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flife-ife-reborn%2Fmask120kfst.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 2680
         rating: 5
         reviewCount: 3

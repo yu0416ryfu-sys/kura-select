@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 products:
   - rank: 1
     name: "クリニカ アドバンテージ ハミガキ クールミント 130g×3本"
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F65916.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-31"
         price: 1322
         rating: 0
         reviewCount: 0
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/1898149/"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-31"
         price: 740
         rating: 4.58
         reviewCount: 26
@@ -101,12 +101,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F007.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
-        price: 1298
+        updatedAt: "2026-10-31"
+        price: 1001
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_007"
         available: true
         rating: 4.3
-        reviewCount: 1080
+        reviewCount: 1081
     genreId: "204759"
   - rank: 4
     name: "キラルン 2点ミニセット パウダー5g＋ペースト15g"
@@ -115,7 +115,7 @@ products:
     capacity: "パウダー5g + ペースト15g（計20g）"
     pricePerUnit: "約16.4円/g"
     rating: 4.19
-    reviewCount: 4752
+    reviewCount: 4753
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -172,7 +172,7 @@ products:
     capacity: "55g"
     pricePerUnit: "約23円/g"
     rating: 4.31
-    reviewCount: 3284
+    reviewCount: 3285
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F008.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-31"
         price: 1254
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_008"
         available: true
@@ -206,7 +206,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約24円/g"
     rating: 4.6
-    reviewCount: 825
+    reviewCount: 826
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -226,7 +226,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F34284.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-31"
         price: 3020
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_34284"
         available: true
@@ -262,7 +262,7 @@ products:
     price: 2580
     capacity: "120g"
     rating: 4.48
-    reviewCount: 2403
+    reviewCount: 2407
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -276,7 +276,7 @@ products:
       - "医薬部外品表記の確認が必要"
     recommendedFor: "歯磨き粉を目的と容量で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b07qzwqjrm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/whith/top/00/906b07qzwqjrm.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/coupon/906b07qzwqjrm-50.jpg?_ex=128x128"
     priceMax: 6840
     genreId: "204759"
   - rank: 10

@@ -4,7 +4,7 @@ description: "日焼け止めを1mLあたりのコストで徹底比較。ビオ
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301298706.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-31"
         price: 920
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301298706"
         available: true
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fohgiri-store%2Fallie7667.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-31"
         price: 1863
         rating: 0
         reviewCount: 2
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flesthemo%2Fbb-cream.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-31"
         price: 2560
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lesthemo_bb-cream"
         available: true
@@ -197,7 +197,7 @@ products:
       - "肌に合うか確認が必要"
     recommendedFor: "日焼け止めを使用感と用途で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi2mn.3rdw6aae.g00qi2mn.3rdw7998/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpycno%2Frarossyu35%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpycno%2Fi%2F10000752%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pycno/cabinet/lrp/idea_hqs.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pycno/cabinet/cmp/sale01/1101event_206.jpg?_ex=128x128"
     genreId: "503054"
   - rank: 7
     name: "ラロッシュポゼ UVイデアXL BB"
@@ -274,7 +274,7 @@ products:
     price: 3499
     capacity: "50g"
     rating: 4.84
-    reviewCount: 3976
+    reviewCount: 3977
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

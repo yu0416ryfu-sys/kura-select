@@ -99,13 +99,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b07bbljjxx-20260329.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkiiroihachi%2Fyahoo20250603-b07bbljjxx.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-26"
-        price: 2565
+        updatedAt: "2026-10-31"
+        price: 2667
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b07bbljjxx-20260329"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kiiroihachi_yahoo20250603-b07bbljjxx"
         available: true
     genreId: "201230"
   - rank: 4
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430777537x3.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-10-31"
         price: 1705
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430777537x3"
         available: true
@@ -226,7 +226,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8811720/"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 840
         rating: 0
         reviewCount: 2
@@ -260,8 +260,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fecomarche%2F100000017.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        matchStatus: "matched"
+        updatedAt: "2026-10-31"
         price: 1210
         rating: 0
         reviewCount: 1
@@ -294,7 +294,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fs0270032.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 2970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_s0270032"
         available: true

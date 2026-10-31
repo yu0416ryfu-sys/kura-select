@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Freonstyle%2F4901301243935.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 1400
         rating: 4.76
         reviewCount: 49
@@ -68,10 +68,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2874540019.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 578
-        rating: 4.8
-        reviewCount: 5
+        rating: 4.83
+        reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2874540019"
         available: true
     pricePerUnit: "約0.71円/mL"
@@ -100,13 +100,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4903301181613.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos00871.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
-        price: 2498
-        rating: 4.95
+        updatedAt: "2026-10-31"
+        price: 2459
+        rating: 4.76
         reviewCount: 37
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4903301181613"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos00871"
         available: true
     genreId: "304758"
   - rank: 4

@@ -4,7 +4,7 @@ description: "パンツ型おむつのLサイズおすすめ7選を1枚あたり
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-31"
 draft: false
 products:
   - rank: 1
@@ -68,8 +68,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443519-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-26"
-        price: 12498
+        updatedAt: "2026-10-31"
+        price: 13423
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_4901301443519-2"
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111127986x4.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-10-31"
         price: 7720
         rating: 0
         reviewCount: 2
@@ -144,11 +144,11 @@ products:
         available: true
     genreId: "205198"
   - rank: 5
-    name: "パンパース パンツ さらさらケア スーパージャンボ Lサイズ 44枚"
+    name: "パンパース パンツ さらさらケア スーパージャンボ L 44枚×4袋"
     brand: "P&G（パンパース）"
-    price: 2032
-    capacity: "44枚"
-    pricePerUnit: "約46円/枚"
+    price: 7791
+    capacity: "44枚×4袋（176枚）"
+    pricePerUnit: "約44円/枚"
     rating: 4.53
     reviewCount: 57
     features:
@@ -163,8 +163,8 @@ products:
       - "まとめ買いより1枚あたりの負担が大きい"
       - "買い足しの頻度が上がる"
     recommendedFor: "まずは1袋でブランドを試したいLサイズ帯の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fr001200200186%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10203958%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/887/4902430148887.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhson.3rdw6ad0.g00qhson.3rdw7574/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperkid%2F4902430148887-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuperkid%2Fi%2F10022840%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/superkid/cabinet/04424974/imgrc0145070191.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111243099x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-10-31"
         price: 7720
         rating: 4.82
         reviewCount: 120

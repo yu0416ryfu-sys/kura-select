@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10155171.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
+        updatedAt: "2026-10-31"
         price: 522
         rating: 0
         reviewCount: 0
@@ -204,8 +204,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4976558006428.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-20"
-        price: 180
+        updatedAt: "2026-10-31"
+        price: 203
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4976558006428"
         available: true
         rating: 0
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Famethystwebshop%2F92189.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-31"
         price: 352
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/amethystwebshop_92189"
         available: true

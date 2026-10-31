@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/p648079/"
         matchStatus: "matched"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-10-31"
         price: 5600
         rating: 4.78
         reviewCount: 296
@@ -69,7 +69,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftravel-depart%2Fc144.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-10-31"
         price: 6861
         rating: 0
         reviewCount: 0
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Freonstyle%2Fa4901301422057.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-10-31"
         price: 5970
         rating: 4.83
         reviewCount: 6
@@ -136,8 +136,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443502-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-26"
-        price: 12498
+        updatedAt: "2026-10-31"
+        price: 13423
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_4901301443502-2"
@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/au51038/"
         matchStatus: "matched"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-10-31"
         price: 7122
         rating: 4.92
         reviewCount: 12
@@ -205,7 +205,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2873284013.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-10-31"
         price: 6593
         rating: 4.2
         reviewCount: 5

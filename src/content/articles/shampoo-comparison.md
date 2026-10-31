@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 products:
   - rank: 1
     name: "ザクロー精炭酸シャンプー 詰替用"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcerapure%2Fkf-22.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 3350
         rating: 4.5
         reviewCount: 6
@@ -124,7 +124,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmcosme-style%2Fumahai0000.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 4400
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mcosme-style_umahai0000"
         available: true
@@ -158,7 +158,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faisopo%2F3474636858033.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 4180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/aisopo_3474636858033"
         available: true
@@ -189,6 +189,29 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/angfa/cabinet/2019/item/new_logo/morning_n.jpg?_ex=128x128"
     genreId: "210677"
   - rank: 7
+    name: "ニューモ ヴァクトリー スカルプシャンプー"
+    brand: "ニューモ"
+    price: 4970
+    capacity: "1本"
+    rating: 4.5
+    reviewCount: 6
+    features:
+      - "頭皮や髪のケアに使えるシャンプー"
+      - "容量や仕上がりで選びやすい"
+      - "メンズ・スカルプ系も比較しやすい"
+    pros:
+      - "毎日のヘアケアに使いやすい"
+      - "悩みに合わせて選べる"
+      - "容量比較がしやすい"
+    cons:
+      - "髪質や頭皮との相性確認が必要"
+      - "香りや洗い上がりの好みは分かれる"
+    recommendedFor: "シャンプーを容量とケア目的で比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u11ln.3rdw6478.g00u11ln.3rdw7413/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftamago-kichi%2Ffnewmovactory%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftamago-kichi%2Fi%2F10000271%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tamago-kichi/cabinet/white/imgrc0103287954.jpg?_ex=128x128"
+    genreId: "210677"
+    pricePerUnit: "約4970円/本"
+  - rank: 8
     name: "ケラスターゼ バン デンシフィック"
     brand: "ケラスターゼ"
     price: 4180
@@ -222,29 +245,6 @@ products:
         reviewCount: 18
     priceMax: 7480
     genreId: "210677"
-  - rank: 8
-    name: "ニューモ ヴァクトリー スカルプシャンプー"
-    brand: "ニューモ"
-    price: 4970
-    capacity: "1本"
-    rating: 4.4
-    reviewCount: 530
-    features:
-      - "頭皮や髪のケアに使えるシャンプー"
-      - "容量や仕上がりで選びやすい"
-      - "メンズ・スカルプ系も比較しやすい"
-    pros:
-      - "毎日のヘアケアに使いやすい"
-      - "悩みに合わせて選べる"
-      - "容量比較がしやすい"
-    cons:
-      - "髪質や頭皮との相性確認が必要"
-      - "香りや洗い上がりの好みは分かれる"
-    recommendedFor: "シャンプーを容量とケア目的で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u11ln.3rdw6478.g00u11ln.3rdw7413/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftamago-kichi%2Fnewmovactory%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftamago-kichi%2Fi%2F10000002%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tamago-kichi/cabinet/10419352/10720487/imgrc0107208987.jpg?_ex=128x128"
-    priceMax: 23865
-    genreId: "567538"
 tags:
   - "シャンプー"
   - "コスパ"

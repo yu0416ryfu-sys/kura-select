@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/6172915/"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 2577
         rating: 4.58
         reviewCount: 104
@@ -103,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftomopoko%2Fb0cshz6q7n.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 1500
         rating: 4.45
         reviewCount: 11
@@ -136,8 +136,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9612078018.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
-        price: 638
+        updatedAt: "2026-10-31"
+        price: 579
         rating: 0
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_9612078018"

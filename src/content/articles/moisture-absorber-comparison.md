@@ -4,7 +4,7 @@ description: "除湿剤おすすめ9選を吸湿量1mLあたりの単価で徹�
 category: "moisture-absorber"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-28"
+updatedAt: "2026-10-31"
 products:
   - rank: 1
     name: "水とりぞうさん 除湿剤 3個入×15個セット（タンクタイプ）"
@@ -215,7 +215,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F4522831169818.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 1090
         rating: 0
         reviewCount: 1
@@ -290,7 +290,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawarikikaku_costoco-mizutori-a"
         available: false
         matchNotes: "リンク切れ(404)"
-    priceMax: 6399
+    priceMax: 6444
     genreId: "568231"
 tags:
   - "除湿剤 おすすめ"

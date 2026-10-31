@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 draft: false
 products:
   - rank: 1
@@ -69,7 +69,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisiadenki%2F4976680250058.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 1188
         rating: 0
         reviewCount: 0
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftop1-price%2F20161219-16denchi.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 1280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/top1-price_20161219-16denchi"
         available: true
@@ -285,7 +285,7 @@ products:
     price: 800
     capacity: "40本"
     rating: 4.63
-    reviewCount: 1173
+    reviewCount: 1177
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"

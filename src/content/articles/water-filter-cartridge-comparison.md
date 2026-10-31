@@ -4,7 +4,7 @@ description: "ブリタのポット型浄水器に使えるマクストラ規格
 category: "mineral-water"
 publishedAt: "2026-10-25"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 draft: false
 products:
   - rank: 1
@@ -31,13 +31,13 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yj-planning/cabinet/s276/s276-new-12pcs.jpg?_ex=128x128"
     genreId: "212495"
   - rank: 2
-    name: "浄水器 交換用カートリッジ マクストラプロ互換 10個セット"
+    name: "浄水器 交換用カートリッジ マクストラプロ互換 8個セット"
     brand: "YJ暮らし"
-    price: 3980
-    capacity: "10個"
-    pricePerUnit: "約398円/個"
-    rating: 5
-    reviewCount: 1
+    price: 3580
+    capacity: "8個"
+    pricePerUnit: "約448円/個"
+    rating: 4.4
+    reviewCount: 5
     features:
       - "マクストラプロ規格のポットに合わせた互換カートリッジ"
       - "商品ページにろ過水量と交換目安が明記されている"
@@ -50,8 +50,8 @@ products:
       - "メーカー純正ではないため、ポットとの相性は購入前に商品ページで確認が必要"
       - "ろ過の性能はメーカーの公表値で、純正品と同じとは限らない"
     recommendedFor: "互換品で、まとめ買いの単価を優先したい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhs4n.3rdw6e20.g00uhs4n.3rdw714a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyj-planning%2Fs106-10set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyj-planning%2Fi%2F10000049%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yj-planning/cabinet/s106/s106-10set-bnr.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uhs4n.3rdw6e20.g00uhs4n.3rdw714a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyj-planning%2Fs106-8set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyj-planning%2Fi%2F10000048%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yj-planning/cabinet/s106/s106-8set-bnr.jpg?_ex=128x128"
     genreId: "212495"
   - rank: 3
     name: "ブリタに使える互換性浄水カートリッジ マクストラ対応 12個セット"
@@ -117,7 +117,7 @@ products:
     capacity: "8個"
     pricePerUnit: "約1079円/個"
     rating: 4.78
-    reviewCount: 26851
+    reviewCount: 26873
     features:
       - "ブリタ公式ショップが販売する日本仕様の純正カートリッジ"
       - "マクストラプロ規格のポット型浄水器に差し込んで使う"
@@ -161,7 +161,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4006387132774.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 4721
         rating: 0
         reviewCount: 0

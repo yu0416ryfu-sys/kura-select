@@ -4,7 +4,7 @@ description: "VT・CICA・薬用タイプなど人気ニキビパッチを1枚�
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 draft: false
 products:
   - rank: 1
@@ -28,7 +28,7 @@ products:
       - "レビュー件数がまだ少なく評価が安定していない"
     recommendedFor: "毎日こまめに使うため枚数を優先したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s493n.3rdw6de5.g00s493n.3rdw7c07/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskingarden%2F10005759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskingarden%2Fi%2F10010234%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/skingarden/cabinet/04401049/g9skin/08446006/imgrc0131554880.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/skingarden/cabinet/event/13668656/kami-spot.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -49,7 +49,7 @@ products:
     capacity: "144枚"
     pricePerUnit: "約14円/枚"
     rating: 4.68
-    reviewCount: 1059
+    reviewCount: 1061
     features:
       - "VT PRO CICAシリーズ 48枚入り×3個のまとめ買いセット"
       - "CICA配合ハイドロゲル素材で2サイズ使い分け可能"
@@ -195,7 +195,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580173961293.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 550
         rating: 0
         reviewCount: 2
@@ -276,7 +276,7 @@ products:
     price: 880
     capacity: "48枚"
     rating: 4.51
-    reviewCount: 1552
+    reviewCount: 1557
     features:
       - "硬質ハイドロゲルを使用したスポットパッチ"
       - "2サイズ（10mm・12mm）のパッチが1セットに入った構成"

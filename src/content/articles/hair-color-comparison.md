@@ -4,7 +4,7 @@ description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あ�
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 draft: false
 products:
   - rank: 1
@@ -94,7 +94,7 @@ products:
     capacity: "350g"
     pricePerUnit: "約16円/g"
     rating: 4.27
-    reviewCount: 3101
+    reviewCount: 3103
     features:
       - "洗いながら染めるクリームシャンプータイプ"
       - "白髪染め・トリートメント機能を兼ねる"
@@ -219,7 +219,7 @@ products:
     price: 2640
     capacity: "400g"
     rating: 4.38
-    reviewCount: 8575
+    reviewCount: 8586
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

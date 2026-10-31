@@ -4,7 +4,7 @@ description: "ペットシーツのダブル（スーパーワイド）サイズ
 category: "pet-sheet"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "スーパーワイド 204枚"
     pricePerUnit: "約22円/枚"
     rating: 4.56
-    reviewCount: 14998
+    reviewCount: 15003
     features:
       - "スーパーワイドサイズのペットシーツ（薄型・厚型を選べる）"
       - "大型犬や多頭飼いのトイレまわりに使いやすい"
@@ -241,7 +241,7 @@ products:
     price: 3680
     capacity: "60×60cm 300枚"
     rating: 4.41
-    reviewCount: 1520
+    reviewCount: 1521
     features:
       - "60×60cmの大判サイズ、6層構造で吸収量140cc"
       - "PPE素材使用、1枚あたり約60gの重量"
@@ -295,7 +295,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frocky%2Far603011.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 17090
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rocky_ar603011"
         available: true

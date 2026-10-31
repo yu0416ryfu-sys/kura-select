@@ -4,7 +4,7 @@ description: "重曹・セスキ炭酸ソーダ・クエン酸などのナチュ
 category: "natural-cleaning"
 articleType: "comparison"
 publishedAt: "2026-06-09"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "22.5kg"
     pricePerUnit: "約355円/kg"
     rating: 4.85
-    reviewCount: 575
+    reviewCount: 576
     features:
       - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
       - "4.5kg×5袋の小分けパッケージによる大容量セット"
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos01029.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 2599
         rating: 4.55
         reviewCount: 11
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki5.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 2190
         rating: 4.74
         reviewCount: 238
@@ -227,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 748
         rating: 4.57
         reviewCount: 1276
@@ -264,7 +264,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.79円/g"
     rating: 4.78
-    reviewCount: 1316
+    reviewCount: 1317
     features:
       - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
       - "メール便配送に対応した小容量パッケージ"
@@ -284,7 +284,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 748
         rating: 4.57
         reviewCount: 1276

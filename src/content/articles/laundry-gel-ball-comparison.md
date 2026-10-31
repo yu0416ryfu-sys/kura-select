@@ -4,7 +4,7 @@ description: "ジェルボールは液体洗剤より1回あたり割高です�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -13,7 +13,7 @@ products:
     capacity: "83個"
     pricePerUnit: "約24円/個"
     rating: 4.94
-    reviewCount: 16
+    reviewCount: 17
     features:
       - "洗浄・消臭・防菌・柔軟の4層構造ジェルボール"
       - "香りを抑えた微香タイプで衣類に匂いを残しにくい"
@@ -33,10 +33,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987176194398.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 1986
-        rating: 4.86
-        reviewCount: 7
+        rating: 4.75
+        reviewCount: 8
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4987176194398"
         available: true
     genreId: "210182"
@@ -47,7 +47,7 @@ products:
     capacity: "89個"
     pricePerUnit: "約34円/個"
     rating: 4.83
-    reviewCount: 70
+    reviewCount: 71
     features:
       - "部屋干し時の生乾き臭に狙いを定めた処方"
       - "汗をかいた衣類・運動着の皮脂汚れに対応"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176284914.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 2997
         rating: 0
         reviewCount: 0
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4987176284556-73-30001986.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 2750
         rating: 0
         reviewCount: 2
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176284648.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 640
         rating: 0
         reviewCount: 0
@@ -226,7 +226,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000220176.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 2909
         rating: 0
         reviewCount: 0
@@ -293,7 +293,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworldglobal%2F20250727090631-01056.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 4446
         rating: 0
         reviewCount: 0
@@ -327,7 +327,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmandmcorporation%2F4987176284518.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 3980
         rating: 0
         reviewCount: 0

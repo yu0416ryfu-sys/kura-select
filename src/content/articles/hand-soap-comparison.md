@@ -145,14 +145,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/u864924/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/2787233/"
         matchStatus: "pending"
-        updatedAt: "2026-10-27"
-        price: 1432
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_u864924"
+        updatedAt: "2026-10-31"
+        price: 720
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_2787233"
         available: true
-        rating: 4.71
-        reviewCount: 24
+        rating: 4.69
+        reviewCount: 95
     genreId: "304758"
   - rank: 6
     name: "arau. 泡ハンドソープ つめかえ用 500mL"
@@ -181,7 +181,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-depart%2F409774.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-27"
+        updatedAt: "2026-10-31"
         price: 440
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-depart_409774"
         available: true
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fj0030012.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-27"
+        updatedAt: "2026-10-31"
         price: 737
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_j0030012"
         available: true

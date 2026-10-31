@@ -4,7 +4,7 @@ description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペ
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 draft: false
 products:
   - rank: 1
@@ -62,7 +62,7 @@ products:
       - "好みによっては紙独特の使用感が気になる場合がある"
     recommendedFor: "猫の健康チェックや軽量・廃棄の手軽さを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10005169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10005169%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/cat_litter01/200811_pb_06.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo19/r1806_00028.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -119,7 +119,7 @@ products:
       - "流す際は一度に大量に流さないよう注意が必要"
     recommendedFor: "国産・植物系素材で手軽に処理できる猫砂を探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10014011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10014011%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/cat_litter01/200811_pb_02.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo19/r1806_00230.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -162,7 +162,7 @@ products:
     capacity: "6L×4袋（24L）"
     pricePerUnit: "約132円/L"
     rating: 4.78
-    reviewCount: 1825
+    reviewCount: 1826
     features:
       - "天然木（松）由来の木製猫砂・システムトイレ対応"
       - "無臭タイプで木の自然な消臭機能を活かした設計"
@@ -286,7 +286,7 @@ products:
     price: 4349
     capacity: "6L×3個（18L）"
     rating: 4.68
-    reviewCount: 2131
+    reviewCount: 2135
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"
@@ -300,7 +300,7 @@ products:
       - "他の国産品と比べてやや価格帯が上がる場合がある"
     recommendedFor: "海外ブランドの細粒鉱物系で固まり性能を重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10014271%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10014271%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/event_img/ss/100142_24y.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo19/r1806_00232.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fbk2707.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 44603
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/jetprice_bk2707"
         available: true
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fye3331.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 436
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_ye3331"
         available: true
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyh-beans%2F1339654.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 548
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yh-beans_1339654"
         available: true
@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaumall%2F42552987.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 958
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaumall_42552987"
         available: true
@@ -204,8 +204,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjetprice%2Fbh4386.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        matchStatus: "matched"
+        updatedAt: "2026-10-31"
         price: 317
         rating: 0
         reviewCount: 0
@@ -272,7 +272,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ax13762/"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 698
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ax13762"
         available: true
@@ -305,8 +305,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fstrade-web%2F3s450309-10m.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        matchStatus: "matched"
+        updatedAt: "2026-10-31"
         price: 2200
         rating: 0
         reviewCount: 0

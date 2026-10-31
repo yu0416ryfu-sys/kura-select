@@ -101,8 +101,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F10053002.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-26"
-        price: 7816
+        updatedAt: "2026-10-31"
+        price: 8496
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_10053002"
@@ -135,7 +135,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9847345.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-10-31"
         price: 3180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9847345"
         available: true
@@ -222,6 +222,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tvoan.3rdw6634.g00tvoan.3rdw7deb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-relight%2F003-4901301510778br%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-relight%2Fi%2F10000736%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-relight/cabinet/thum1/0070233785.jpg?_ex=128x128"
     genreId: "216012"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frecommendo%2Fte-4901301510778.html"
+        matchStatus: "pending"
+        updatedAt: "2026-10-31"
+        price: 5181
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/recommendo_te-4901301510778"
+        available: true
   - rank: 8
     name: "パックス 200番 台所用石けん 詰替用 2300mL×2本 2本セット"
     brand: "太陽油脂"
@@ -307,7 +318,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbackyard%2Fkf741.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-10-31"
         price: 1896
         rating: 0
         reviewCount: 1

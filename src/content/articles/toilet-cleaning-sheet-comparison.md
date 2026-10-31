@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-10-31"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10137083.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 206
         rating: 4.5
         reviewCount: 4
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale%2F4957434002796330.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 6400
         rating: 4.16
         reviewCount: 56
@@ -102,10 +102,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale%2F4988787090024-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 1780
-        rating: 4.5
-        reviewCount: 48
+        rating: 4.47
+        reviewCount: 49
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/wagonsale_4988787090024-10"
         available: true
     genreId: "508447"
@@ -158,13 +158,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4573177599678.html"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j974081/"
         matchStatus: "pending"
-        updatedAt: "2026-10-23"
-        price: 269
-        rating: 0
-        reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4573177599678"
+        updatedAt: "2026-10-31"
+        price: 640
+        rating: 4.04
+        reviewCount: 56
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_j974081"
         available: true
   - rank: 6
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 20枚"
@@ -193,7 +193,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkilat%2F9q0372.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-10-31"
         price: 657
         rating: 5
         reviewCount: 4
@@ -305,7 +305,7 @@ products:
   - rank: 10
     name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×4個"
     brand: "花王（クイックル）"
-    price: 2397
+    price: 2394
     capacity: "16枚×4個（64枚）"
     rating: 0
     reviewCount: 0

@@ -1,10 +1,10 @@
 ---
 title: "食器用スポンジ・キッチンスポンジ コスパ比較【2026年版】1個単価と耐久性"
-description: "食器用スポンジ・キッチンスポンジを1個あたりで比較。ダスキン、パックス、マーナなど8選を耐久性・泡立ち・交換頻度で整理し、食器洗い用に選びやすく解説します。"
+description: "食器用スポンジ・キッチンスポンジを1個あたりで比較。ダスキン、パックス、マーナなど7選を耐久性・泡立ち・交換頻度で整理し、食器洗い用に選びやすく解説します。"
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 products:
   - rank: 1
     name: "ダスキン 台所用スポンジ 抗菌タイプ 6個セット"
@@ -48,7 +48,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.76
-    reviewCount: 1450
+    reviewCount: 1451
     features:
       - "ポリウレタンフォーム＋ナイロン不織布＋ポリエステルの3素材構造"
       - "ブラック・グレー・ホワイトのモノトーン3色展開"
@@ -138,8 +138,8 @@ products:
     price: 880
     capacity: "3個"
     pricePerUnit: "約293円/個"
-    rating: 4.55
-    reviewCount: 11
+    rating: 4.49
+    reviewCount: 37
     features:
       - "再生木材由来のセルロース素材でノンケミカル設計"
       - "ザラザラ面で食器の汚れを効率よく除去できる"
@@ -152,8 +152,8 @@ products:
       - "ザラザラ面でデリケートなコーティングを傷つけないよう注意が必要"
       - "価格はページ確認が必要"
     recommendedFor: "自然派志向の方・プラスチックフリーの生活を実践したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tcv2n.3rdw6ae4.g00tcv2n.3rdw7238/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-midi%2F18311004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-midi%2Fi%2F10000121%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-midi/cabinet/item-corvette/sponge-01.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf6in.3rdw6cdf.g00qf6in.3rdw72b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmugigokoro%2F3182614073001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmugigokoro%2Fi%2F10003672%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mugigokoro/cabinet/lacorvette/lacor-vegesp-700.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -227,35 +227,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsunsunsponge%2Ftss08b.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-10-31"
         price: 3073
         rating: 4.86
-        reviewCount: 282
+        reviewCount: 283
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sunsunsponge_tss08b"
         available: true
-    genreId: "401520"
-  - rank: 8
-    name: "セルロース製 食器洗いスポンジ 6個パック SDGs プラスチックフリー"
-    brand: "生活創造舎"
-    price: 870
-    capacity: "6個"
-    rating: 4.56
-    reviewCount: 183
-    features:
-      - "天然セルロース素材でプラスチックフリーの環境配慮設計"
-      - "吸水性が高く使用後の乾きが速い"
-      - "115×70×15mmの使いやすい標準サイズ"
-    pros:
-      - "天然素材で環境への負荷を抑えながら使える"
-      - "速乾性が高く雑菌が繁殖しにくい衛生的な設計"
-      - "6個入りでまとめ買いによるコスト節約が可能"
-    cons:
-      - "研磨力が弱いため頑固な焦げ付きには不向き"
-      - "価格はページ確認が必要"
-    recommendedFor: "環境配慮型の暮らしを目指す方・速乾性を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzban.3rdw6bb0.g00pzban.3rdw70cd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsozolife%2Fserulousu-2p-white%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsozolife%2Fi%2F10000102%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sozolife/cabinet/kitchen-sponge/imgrc0095339799.jpg?_ex=128x128"
-    priceMax: 3200
     genreId: "401520"
 tags:
   - "スポンジ"

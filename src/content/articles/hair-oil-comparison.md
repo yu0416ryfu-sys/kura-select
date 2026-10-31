@@ -1,10 +1,10 @@
 ---
-title: "ヘアオイル コスパ比較【2026年版】洗い流さないトリートメント おすすめ10選"
-description: "洗い流さないヘアオイルを1mLあたりの単価で比較。サロン系・プチプラ・ナイトケアなど人気10商品を成分・仕上がり・容量で徹底比較します。"
+title: "ヘアオイル コスパ比較【2026年版】洗い流さないトリートメント おすすめ9選"
+description: "洗い流さないヘアオイルを1mLあたりの単価で比較。サロン系・プチプラ・ナイトケアなど人気9商品を成分・仕上がり・容量で徹底比較します。"
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-10-31"
 draft: false
 products:
   - rank: 1
@@ -127,7 +127,7 @@ products:
     price: 2959
     capacity: "150mL"
     rating: 4.55
-    reviewCount: 1129
+    reviewCount: 1131
     features:
       - "100%植物由来成分（スクワラン・アルガンオイル・ホホバオイル配合）"
       - "濡れ髪・乾いた髪どちらにも使えるアウトバスオイル"
@@ -178,46 +178,12 @@ products:
     priceMax: 25245
     genreId: "216461"
   - rank: 7
-    name: "オルナオーガニック ヘアオイル"
-    brand: "ALLNA ORGANIC（イルミルド）"
-    price: 2280
-    capacity: "80mL"
-    rating: 4.65
-    reviewCount: 13936
-    features:
-      - "天然由来成分配合の洗い流さないアウトバストリートメント"
-      - "ふんわりと柔らかなナチュラル仕上がりを目指した設計"
-      - "ドライヤー後の使用で毛先の保湿と広がり抑制に対応"
-    pros:
-      - "軽めのテクスチャーで重くなりにくく、ふんわり仕上がりを好む人に向く"
-      - "オーガニック系成分にこだわりたい人が選びやすいブランドポジション"
-      - "アウトバストリートメントとして日常ケアに組み込みやすい使い方"
-    cons:
-      - "ツヤ感やウェット感を求める人には物足りない仕上がりになる場合がある"
-      - "成分の詳細情報が商品ページ上で少なめのため、成分重視の人は要確認"
-    recommendedFor: "軽めのナチュラル仕上がりを好む人・オーガニック系成分にこだわりたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F90xb079s1wb7s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000288%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/90xb079s1wb7s-20.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fadew%2Fmanual-haire-3set.html"
-        matchStatus: "review"
-        updatedAt: "2026-08-09"
-        price: 6680
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/adew_manual-haire-3set"
-        available: true
-    priceMax: 4760
-    genreId: "210695"
-  - rank: 8
     name: "LOA THE OIL"
     brand: "life of aroma"
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4566
+    reviewCount: 4585
     features:
       - "9種類の香りバリエーション（ブランシュ・シトラスベール・ジャスミンドレなど）から選べる"
       - "ヘアオイルのほかハンド・ネックケアにも使えるマルチユースオイル"
@@ -245,7 +211,7 @@ products:
         reviewCount: 405
     priceMax: 6930
     genreId: "568579"
-  - rank: 9
+  - rank: 8
     name: "海藻ヘアエッセンス しっとり"
     brand: "Lasana（ラサーナ）"
     price: 1100
@@ -265,7 +231,7 @@ products:
       - "詰め替え用がなく、継続購入時のコスト管理が必要"
     recommendedFor: "香り付きヘアオイルが苦手な人・しっとりまとまりを求める人・くせ毛ケアをしたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pixzn.3rdw6fcd.g00pixzn.3rdw761f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymsk%2F597910%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymsk%2Fi%2F10000461%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymsk/cabinet/itemimg/thumb_logo/597910_1_2603.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymsk/cabinet/itemimg/12091989/597910_1_2603.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -279,13 +245,13 @@ products:
         available: true
     priceMax: 8980
     genreId: "210695"
-  - rank: 10
+  - rank: 9
     name: "アメイジングシャインヘアオイル"
     brand: "クイーンズバスルーム"
     price: 3300
     capacity: "50mL"
     rating: 4.59
-    reviewCount: 2553
+    reviewCount: 2554
     features:
       - "ドライヤー後の乾いた髪に使う仕上げ用ヘアオイル"
       - "ツヤと潤いを与えながらボリューム感も保つ設計"
