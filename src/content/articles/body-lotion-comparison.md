@@ -42,40 +42,6 @@ products:
         reviewCount: 6
     genreId: "216387"
   - rank: 2
-    name: "ビオレu お風呂で使ううるおいミルク 無香料 300mL"
-    brand: "花王（ビオレu）"
-    price: 635
-    capacity: "300mL"
-    pricePerUnit: "約2.1円/mL"
-    rating: 3.75
-    reviewCount: 4
-    features:
-      - "濡れた肌に直接なじませるお風呂での使用を前提にした保湿ボディミルク"
-      - "無香料処方で香りに敏感な人や他の香りと合わせたい人に使いやすい"
-      - "花王の定番ブランドでドラッグストアやスーパーでも入手しやすい設計"
-    pros:
-      - "お風呂の中でそのまま塗れるため、入浴後のスキンケア手順を短縮しやすい"
-      - "無香料のためシャンプーやボディソープの香りを引き立てたい人にも向く"
-      - "入手しやすい定番品で継続しやすく、ルーティン化したい人に向く"
-    cons:
-      - "入浴中専用のため、入浴後に乾燥が気になった際の補修使いには向かない"
-      - "シンプルな保湿処方のため、ひどい乾燥部位には別途クリームの重ね使いが必要な場合も"
-    recommendedFor: "入浴中にボディケアを済ませたい人・無香料処方を好む人・手軽さを重視したい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4901301342409%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F11683086%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/2972/00000003791186_a01.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301342416.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-23"
-        price: 618
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301342416"
-        available: true
-        rating: 4.85
-        reviewCount: 26
-    genreId: "216670"
-  - rank: 3
     name: "ダイアンボタニカル ボディミルク"
     brand: "Moist Diane（ネイチャーラボ）"
     price: 1097
@@ -108,6 +74,40 @@ products:
         reviewCount: 25
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/naturelab-store_4560119225856"
         available: true
+    genreId: "216670"
+  - rank: 3
+    name: "ビオレu お風呂で使ううるおいミルク 無香料 300mL"
+    brand: "花王（ビオレu）"
+    price: 822
+    capacity: "300mL"
+    pricePerUnit: "約2.7円/mL"
+    rating: 3.75
+    reviewCount: 4
+    features:
+      - "濡れた肌に直接なじませるお風呂での使用を前提にした保湿ボディミルク"
+      - "無香料処方で香りに敏感な人や他の香りと合わせたい人に使いやすい"
+      - "花王の定番ブランドでドラッグストアやスーパーでも入手しやすい設計"
+    pros:
+      - "お風呂の中でそのまま塗れるため、入浴後のスキンケア手順を短縮しやすい"
+      - "無香料のためシャンプーやボディソープの香りを引き立てたい人にも向く"
+      - "入手しやすい定番品で継続しやすく、ルーティン化したい人に向く"
+    cons:
+      - "入浴中専用のため、入浴後に乾燥が気になった際の補修使いには向かない"
+      - "シンプルな保湿処方のため、ひどい乾燥部位には別途クリームの重ね使いが必要な場合も"
+    recommendedFor: "入浴中にボディケアを済ませたい人・無香料処方を好む人・手軽さを重視したい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.3rdw6378.g00r7ldn.3rdw7abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4901301342409%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F11683086%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/2972/00000003791186_a01.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301342416.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-23"
+        price: 618
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301342416"
+        available: true
+        rating: 4.85
+        reviewCount: 26
     genreId: "216670"
   - rank: 4
     name: "5種のヒアルロン酸配合スキンローション 600ml×3本"

@@ -9,9 +9,9 @@ products:
   - rank: 1
     name: "国内産 ブレンド米 白米 10kg（訳あり）"
     brand: "安齋商店"
-    price: 4180
+    price: 4080
     capacity: "10kg"
-    pricePerUnit: "約418円/kg"
+    pricePerUnit: "約408円/kg"
     rating: 4.39
     reviewCount: 16101
     features:

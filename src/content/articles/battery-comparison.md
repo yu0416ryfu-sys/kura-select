@@ -285,7 +285,7 @@ products:
     price: 800
     capacity: "40本"
     rating: 4.63
-    reviewCount: 1177
+    reviewCount: 1178
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"

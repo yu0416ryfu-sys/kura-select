@@ -223,7 +223,7 @@ products:
     price: 4480
     capacity: "レギュラー 800枚"
     rating: 4.49
-    reviewCount: 45577
+    reviewCount: 45578
     features:
       - "薄型のペット用トイレシート"
       - "レギュラーサイズを選べる"

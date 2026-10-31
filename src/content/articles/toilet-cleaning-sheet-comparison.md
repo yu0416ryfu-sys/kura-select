@@ -305,7 +305,7 @@ products:
   - rank: 10
     name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×4個"
     brand: "花王（クイックル）"
-    price: 2394
+    price: 2397
     capacity: "16枚×4個（64枚）"
     rating: 0
     reviewCount: 0

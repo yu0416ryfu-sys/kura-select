@@ -142,7 +142,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4936613072409"
         available: true
-    genreId: "200829"
+    genreId: "213978"
   - rank: 5
     name: "ピップ 抗菌綿棒 3個セット"
     brand: "ピップ"

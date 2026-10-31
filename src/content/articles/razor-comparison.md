@@ -217,8 +217,8 @@ products:
     price: 760
     capacity: "16本"
     pricePerUnit: "約48円/本"
-    rating: 4.5
-    reviewCount: 12
+    rating: 4.54
+    reviewCount: 13
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

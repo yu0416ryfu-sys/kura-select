@@ -68,7 +68,7 @@ products:
     capacity: "200mL"
     pricePerUnit: "約14円/mL"
     rating: 4.71
-    reviewCount: 636
+    reviewCount: 637
     features:
       - "オリーブバージンオイル配合でメイクと馴染みやすい"
       - "マッサージしながら毛穴汚れもオフ"

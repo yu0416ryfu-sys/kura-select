@@ -84,7 +84,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約1.8円/枚"
     rating: 4.7
-    reviewCount: 4954
+    reviewCount: 4956
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -211,7 +211,7 @@ products:
     capacity: "54枚×15個（810枚）"
     pricePerUnit: "約2.6円/枚"
     rating: 4.63
-    reviewCount: 3968
+    reviewCount: 3969
     features:
       - "99.9%の純水成分で肌に優しい"
       - "厚手シートで吸収性が優れている"

@@ -117,7 +117,7 @@ products:
     capacity: "8個"
     pricePerUnit: "約1079円/個"
     rating: 4.78
-    reviewCount: 26873
+    reviewCount: 26876
     features:
       - "ブリタ公式ショップが販売する日本仕様の純正カートリッジ"
       - "マクストラプロ規格のポット型浄水器に差し込んで使う"
