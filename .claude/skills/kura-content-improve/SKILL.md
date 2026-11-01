@@ -7,7 +7,7 @@ description: |
   凍結台帳・デプロイ禁止日・週次スナップショットを確認して、その日にやる記事と型を最大3件提案し、
   人間が承認したものだけを実施してログに記録する。測定する施策・凍結は起こさない。
   施策の効果判定は kura-weekly-access-review、収益の改善は kura-revenue-improve、新規記事の候補は
-  kura-article-recommend、商品の追加は kura-article-add を使う。
+  kura-article-recommend、商品の追加は kura-article-add、未登録の記事を登録に戻す作業は kura-index-recover を使う。
 ---
 
 # KuraSelect 記事改善ルーチン
