@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-01"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -155,7 +155,7 @@ products:
   - rank: 6
     name: "manyo ピュアクレンジングオイル 200mL"
     brand: "manyo"
-    price: 2000
+    price: 1400
     capacity: "200mL"
     rating: 4.45
     reviewCount: 1184
@@ -185,7 +185,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kscojp_960120670"
         available: true
     genreId: "405061"
-    priceMax: 7560
+    priceMax: 8000
   - rank: 7
     name: "キュレル 潤浸保湿 乳液ケアメイク落とし つめかえ用/ キュレル"
     brand: "花王（キュレル）"
@@ -249,7 +249,7 @@ products:
     price: 2300
     capacity: "200mL"
     rating: 4.69
-    reviewCount: 573
+    reviewCount: 574
     features:
       - "ドクダミエキス配合のクレンジングオイル"
       - "毛穴や皮脂汚れまで落とす韓国コスメ"

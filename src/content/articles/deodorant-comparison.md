@@ -4,7 +4,7 @@ description: "制汗剤・デオドラントを容量あたりのコストで比
 category: "deodorant"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-01"
 products:
   - rank: 1
     name: "Ban 汗ブロックロールオン プレミアムゴールドラベル 40mL"
@@ -180,9 +180,9 @@ products:
   - rank: 7
     name: "8x4 パウダースプレー 無香料 150g"
     brand: "花王（8×4）"
-    price: 602
+    price: 679
     capacity: "150g"
-    pricePerUnit: "約4.0円/g"
+    pricePerUnit: "約4.5円/g"
     rating: 5
     reviewCount: 2
     features:
@@ -251,7 +251,7 @@ products:
     price: 4950
     capacity: "75mL"
     rating: 4.73
-    reviewCount: 705
+    reviewCount: 706
     features:
       - "メンズ向けのロールオン制汗デオドラント"
       - "汗やニオイが気になるワキに直接塗れる"

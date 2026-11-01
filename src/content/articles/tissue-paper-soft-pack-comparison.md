@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-01"
 draft: false
 products:
   - rank: 1
@@ -124,8 +124,8 @@ products:
     brand: "王子ネピア"
     price: 5980
     capacity: "200組×90個"
-    rating: 4.65
-    reviewCount: 43
+    rating: 4.66
+    reviewCount: 44
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -180,7 +180,7 @@ products:
     price: 3050
     capacity: "150組×50個（7500組）"
     rating: 4.56
-    reviewCount: 861
+    reviewCount: 862
     features:
       - "アイリスオーヤマのソフトパック"
       - "150組×50個のまとめ買いパック"

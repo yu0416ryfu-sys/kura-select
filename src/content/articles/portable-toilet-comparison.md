@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ9選を1回�
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-01"
 draft: false
 products:
   - rank: 1
@@ -93,7 +93,7 @@ products:
     price: 1280
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7392
+    reviewCount: 7422
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -147,7 +147,7 @@ products:
   - rank: 6
     name: "簡易トイレ 防災士監修 50回分セット"
     brand: "東京博海"
-    price: 1380
+    price: 1580
     capacity: "50回分"
     rating: 4.6
     reviewCount: 749
@@ -176,7 +176,7 @@ products:
         reviewCount: 785
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coco-yasashisaya_saimol01"
         available: true
-    priceMax: 26800
+    priceMax: 27800
     genreId: "501137"
   - rank: 7
     name: "簡易トイレ シートトイレ"
@@ -238,10 +238,10 @@ products:
   - rank: 9
     name: "簡易トイレ 防災士監修 20回分 コンパクトセット"
     brand: ""
-    price: 1380
+    price: 1580
     capacity: "20回分"
-    rating: 4.52
-    reviewCount: 7244
+    rating: 4.51
+    reviewCount: 7255
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"
@@ -267,7 +267,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/centuryshop_portable-toilet"
         available: true
-    priceMax: 26800
+    priceMax: 28800
     genreId: "501137"
 tags:
   - "簡易トイレ おすすめ"

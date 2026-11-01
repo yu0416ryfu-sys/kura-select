@@ -4,7 +4,7 @@ description: "消臭剤のおすすめ8選をコスパで徹底比較。リセ�
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-01"
 products:
   - rank: 1
     name: "ハルの消臭剤 消臭ビーズ 詰替用"
@@ -105,7 +105,7 @@ products:
     capacity: "600g"
     pricePerUnit: "約1.9円/g"
     rating: 4.52
-    reviewCount: 412
+    reviewCount: 413
     features:
       - "植物由来ミネラル成分を使った無臭・無香料タイプ"
       - "置き型で玄関やクローゼットなど幅広い場所に使える"

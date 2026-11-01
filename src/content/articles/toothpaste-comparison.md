@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-01"
 products:
   - rank: 1
     name: "クリニカ アドバンテージ ハミガキ クールミント 130g×3本"
@@ -172,7 +172,7 @@ products:
     capacity: "55g"
     pricePerUnit: "約23円/g"
     rating: 4.31
-    reviewCount: 3285
+    reviewCount: 3286
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"
@@ -262,7 +262,7 @@ products:
     price: 2580
     capacity: "120g"
     rating: 4.48
-    reviewCount: 2407
+    reviewCount: 2411
     features:
       - "毎日の歯みがきに使える歯磨き粉"
       - "ホワイトニングや口臭ケア系も選べる"

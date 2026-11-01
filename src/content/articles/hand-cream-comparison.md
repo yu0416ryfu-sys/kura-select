@@ -195,8 +195,8 @@ products:
     brand: "ALLNA ORGANIC"
     price: 2200
     capacity: "43g"
-    rating: 4.71
-    reviewCount: 746
+    rating: 4.7
+    reviewCount: 747
     features:
       - "合成香料・合成着色料不使用をうたうハンドクリーム（商品区分は化粧品）"
       - "コラーゲン・ヒアルロン酸・セラミドを保湿成分として配合"

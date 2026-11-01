@@ -143,6 +143,29 @@ products:
         available: true
     genreId: "401532"
   - rank: 5
+    name: "東洋アルミ 業務用クッキングシート 35cm×30m 2本セット"
+    brand: "東洋アルミ"
+    price: 3405
+    capacity: "35cm×30m×2本"
+    pricePerUnit: "約57円/m"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "日本製の両面シリコーン樹脂加工耐油紙"
+      - "35cm幅で大きめの天板やせいろに合わせやすい"
+      - "耐熱250℃（20分）の表示で2本セット"
+    pros:
+      - "2本あるので買い足しの回数が減る"
+      - "35cm幅で幅広の天板にもゆとりを持って敷きやすい"
+      - "両面加工なので表裏を気にせず使える"
+    cons:
+      - "標準幅より広いため小さな調理器具では持て余しやすい"
+      - "計60mあり、使用頻度が低いと使い切るまで長くかかる"
+    recommendedFor: "大きめの天板やせいろで業務用ロールを使いたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F607168%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11336923%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/168/607168.jpg?_ex=128x128"
+    genreId: "100635"
+  - rank: 6
     name: "透明耐熱クッキングシート TSUTSUMU 36cm×20m"
     brand: "イーシザイ・マーケット"
     price: 4950
@@ -176,7 +199,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujinamisquare_100020900"
         available: true
     genreId: "401532"
-  - rank: 6
+  - rank: 7
     name: "クッキングシート 30×40cm ワンパン料理 100枚入り"
     brand: "ニュービックエース"
     price: 1980
@@ -199,7 +222,7 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/newbigace/cabinet/biiino/item/s-image/imgrc0190907654.jpg?_ex=128x128"
     genreId: "401532"
     priceMax: 2700
-  - rank: 7
+  - rank: 8
     name: "白クッキングシート 33cm×30m"
     brand: "UACJ製箔"
     price: 1109
@@ -222,29 +245,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuroya-shop/cabinet/02093156/02990298/03176211/imgrc0106122030.jpg?_ex=128x128"
     priceMax: 17732
     genreId: "401532"
-  - rank: 8
-    name: "東洋アルミ 業務用クッキングシート 35cm×30m 2本セット"
-    brand: "東洋アルミ"
-    price: 3405
-    capacity: "35cm×30m×2本"
-    pricePerUnit: "約57円/m"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "日本製の両面シリコーン樹脂加工耐油紙"
-      - "35cm幅で大きめの天板やせいろに合わせやすい"
-      - "耐熱250℃（20分）の表示で2本セット"
-    pros:
-      - "2本あるので買い足しの回数が減る"
-      - "35cm幅で幅広の天板にもゆとりを持って敷きやすい"
-      - "両面加工なので表裏を気にせず使える"
-    cons:
-      - "標準幅より広いため小さな調理器具では持て余しやすい"
-      - "計60mあり、使用頻度が低いと使い切るまで長くかかる"
-    recommendedFor: "大きめの天板やせいろで業務用ロールを使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F607168%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11336923%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/168/607168.jpg?_ex=128x128"
-    genreId: "100635"
 tags:
   - "クッキングシート おすすめ"
   - "クッキングシート コスパ"

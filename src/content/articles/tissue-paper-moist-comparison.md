@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌あたりとコ
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-10-25"
+updatedAt: "2026-11-01"
 draft: false
 products:
   - rank: 1
@@ -238,9 +238,9 @@ products:
   - rank: 9
     name: "鼻セレブティッシュ 3個パック"
     brand: "王子ネピア（鼻セレブ）"
-    price: 698
+    price: 840
     capacity: "3個パック"
-    pricePerUnit: "約233円/個"
+    pricePerUnit: "約280円/個"
     rating: 4.67
     reviewCount: 43
     features:
