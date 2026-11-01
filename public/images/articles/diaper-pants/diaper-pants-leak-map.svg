@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 560" width="600" height="560" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>朝に濡れている場所から原因を読む図</title>
+  <rect width="600" height="560" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">濡れている場所で原因が分かる</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">まず朝のパンツの重さを見て、次に濡れた場所を見る</text>
+
+  <!-- 手順1 -->
+  <rect x="20" y="96" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="120" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">1. パンツは重い？</text>
+
+  <rect x="20" y="144" width="274" height="74" rx="10" fill="#fdf0d5"/>
+  <text x="157" y="174" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">ずっしり重くふくらむ</text>
+  <text x="157" y="202" text-anchor="middle" font-size="16" fill="#374151">量が足りない → 吸収量を上げる</text>
+
+  <rect x="306" y="144" width="274" height="74" rx="10" fill="#e6f0f7"/>
+  <text x="443" y="174" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">吸える余裕があるのに漏れる</text>
+  <text x="443" y="202" text-anchor="middle" font-size="16" fill="#374151">位置の問題 → 下の場所を見る</text>
+
+  <!-- 手順2 -->
+  <rect x="20" y="238" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="262" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">2. 濡れた場所は？</text>
+
+  <!-- パンツの形 -->
+  <path d="M222 306 L378 306 L388 350 C384 398 356 436 330 446 C318 434 282 434 270 446 C244 436 216 398 212 350 Z" fill="#f3f4f6" stroke="#6b7280" stroke-width="2.5"/>
+  <path d="M222 322 L378 322" stroke="#9ca3af" stroke-width="2" stroke-dasharray="6 5" fill="none"/>
+  <path d="M270 446 C276 416 324 416 330 446" fill="none" stroke="#9ca3af" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- 印 -->
+  <g fill="#2f6fdb">
+    <circle cx="300" cy="312" r="9"/>
+    <circle cx="300" cy="372" r="9"/>
+    <circle cx="244" cy="418" r="9"/>
+    <circle cx="356" cy="418" r="9"/>
+  </g>
+  <g stroke="#2f6fdb" stroke-width="1.5" fill="none">
+    <path d="M309 312 L420 312"/>
+    <path d="M291 372 L190 372"/>
+    <path d="M235 418 L190 418"/>
+    <path d="M365 418 L420 418"/>
+  </g>
+
+  <g font-size="16" fill="#1f2937">
+    <text x="428" y="306" font-weight="700">ウエスト・背中</text>
+    <text x="428" y="328" fill="#374151">あおむけで流れる</text>
+    <text x="428" y="350" fill="#374151">丈とずれを確かめる</text>
+    <text x="182" y="366" text-anchor="end" font-weight="700">おなか側</text>
+    <text x="182" y="388" text-anchor="end" fill="#374151">うつぶせで集まる</text>
+    <text x="182" y="412" text-anchor="end" font-weight="700">太もも</text>
+    <text x="182" y="434" text-anchor="end" fill="#374151">ギャザーの折れ込み</text>
+    <text x="428" y="412" font-weight="700">太もも</text>
+    <text x="428" y="434" fill="#374151">横向きのすき間</text>
+  </g>
+
+  <text x="300" y="492" text-anchor="middle" font-size="15" fill="#374151">吸える余裕があるのに漏れるなら、量を増やしても変わらないことがある</text>
+  <text x="300" y="522" text-anchor="middle" font-size="14" fill="#6b7280">濡れる場所と寝る姿勢の関係は目安。お子さんの様子で確かめる</text>
+</svg>

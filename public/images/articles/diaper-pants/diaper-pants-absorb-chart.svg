@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 470" width="600" height="470" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>吸収量の表示をccにそろえた図</title>
+  <rect width="600" height="470" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">「○回分」はccにそろえて比べる</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">回数 × 1回の想定量 ＝ 表示から計算した吸収量の目安</text>
+
+  <!-- 基線 -->
+  <line x1="150" y1="104" x2="150" y2="382" stroke="#d1d5db" stroke-width="1"/>
+
+  <!-- 8回×80cc: 640cc -->
+  <text x="138" y="134" text-anchor="end" font-size="17" fill="#374151">8回×80cc</text>
+  <rect x="150" y="114" width="320" height="30" rx="4" fill="#2f6f9f"/>
+  <text x="480" y="136" font-size="18" font-weight="700" fill="#1f2937">640cc</text>
+
+  <!-- 8回×70cc: 560cc -->
+  <text x="138" y="190" text-anchor="end" font-size="17" fill="#374151">8回×70cc</text>
+  <rect x="150" y="170" width="280" height="30" rx="4" fill="#2f6f9f"/>
+  <text x="440" y="192" font-size="18" font-weight="700" fill="#1f2937">560cc</text>
+
+  <!-- 8回×60cc: 480cc -->
+  <text x="138" y="246" text-anchor="end" font-size="17" fill="#374151">8回×60cc</text>
+  <rect x="150" y="226" width="240" height="30" rx="4" fill="#2f6f9f"/>
+  <text x="400" y="248" font-size="18" font-weight="700" fill="#1f2937">480cc</text>
+
+  <!-- 5回×70cc: 350cc -->
+  <text x="138" y="302" text-anchor="end" font-size="17" fill="#374151">5回×70cc</text>
+  <rect x="150" y="282" width="175" height="30" rx="4" fill="#d97706"/>
+  <text x="335" y="304" font-size="18" font-weight="700" fill="#1f2937">350cc</text>
+
+  <!-- 8回×40cc: 320cc -->
+  <text x="138" y="358" text-anchor="end" font-size="17" fill="#374151">8回×40cc</text>
+  <rect x="150" y="338" width="160" height="30" rx="4" fill="#2f6f9f"/>
+  <text x="320" y="360" font-size="18" font-weight="700" fill="#1f2937">320cc</text>
+
+  <text x="300" y="414" text-anchor="middle" font-size="15" fill="#374151">同じ8回分でも1回量で2倍違い、5回分が8回分を上回ることもある</text>
+  <text x="300" y="444" text-anchor="middle" font-size="14" fill="#6b7280">メーカー公式の表示（2026年11月1日確認）から計算した当サイトの目安</text>
+</svg>

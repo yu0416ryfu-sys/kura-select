@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" width="600" height="700" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>夜用パンツの選び方の図</title>
+  <rect width="600" height="700" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">朝の状態、体重、寝相の順に決める</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">夜用が要るかどうかを先に確かめる</text>
+
+  <!-- 手順1 -->
+  <rect x="20" y="96" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="120" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">1. 朝のおむつはどんな状態？</text>
+
+  <rect x="20" y="144" width="178" height="96" rx="10" fill="#fdf0d5"/>
+  <text x="109" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">重くて漏れる</text>
+  <text x="109" y="204" text-anchor="middle" font-size="16" fill="#374151">夜用を1袋</text>
+  <text x="109" y="226" text-anchor="middle" font-size="16" fill="#374151">試す</text>
+
+  <rect x="211" y="144" width="178" height="96" rx="10" fill="#e6f0f7"/>
+  <text x="300" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">軽いのに漏れる</text>
+  <text x="300" y="204" text-anchor="middle" font-size="16" fill="#374151">サイズと</text>
+  <text x="300" y="226" text-anchor="middle" font-size="16" fill="#374151">ギャザーを確認</text>
+
+  <rect x="402" y="144" width="178" height="96" rx="10" fill="#e5f3ea"/>
+  <text x="491" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">濡れない朝が増えた</text>
+  <text x="491" y="204" text-anchor="middle" font-size="16" fill="#374151">1袋ずつ</text>
+  <text x="491" y="226" text-anchor="middle" font-size="16" fill="#374151">買い足す</text>
+
+  <!-- 手順2 -->
+  <rect x="20" y="260" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="284" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">2. 体重はどの帯？</text>
+
+  <rect x="20" y="308" width="133" height="82" rx="10" fill="#eef2f7"/>
+  <text x="86" y="342" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">9〜15kg</text>
+  <text x="86" y="370" text-anchor="middle" font-size="16" fill="#374151">Lの帯</text>
+
+  <rect x="162" y="308" width="133" height="82" rx="10" fill="#eef2f7"/>
+  <text x="228" y="342" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">12〜22kg</text>
+  <text x="228" y="370" text-anchor="middle" font-size="16" fill="#374151">ビッグの帯</text>
+
+  <rect x="304" y="308" width="133" height="82" rx="10" fill="#eef2f7"/>
+  <text x="370" y="342" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">13〜28kg</text>
+  <text x="370" y="370" text-anchor="middle" font-size="15" fill="#374151">ビッグより大きい</text>
+
+  <rect x="447" y="308" width="133" height="82" rx="10" fill="#eef2f7"/>
+  <text x="513" y="342" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">18〜35kg</text>
+  <text x="513" y="370" text-anchor="middle" font-size="15" fill="#374151">スーパービッグ</text>
+
+  <!-- 手順3 -->
+  <rect x="20" y="410" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="434" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">3. 寝相と困りごとで絞る</text>
+
+  <rect x="20" y="458" width="274" height="66" rx="10" fill="#f3f4f6"/>
+  <text x="157" y="486" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2937">あおむけ・背中が濡れる</text>
+  <text x="157" y="510" text-anchor="middle" font-size="15" fill="#374151">背中まで吸収体がある設計</text>
+
+  <rect x="306" y="458" width="274" height="66" rx="10" fill="#f3f4f6"/>
+  <text x="443" y="486" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2937">うつぶせ・おなかが濡れる</text>
+  <text x="443" y="510" text-anchor="middle" font-size="15" fill="#374151">前側の吸収をうたう設計</text>
+
+  <rect x="20" y="534" width="274" height="66" rx="10" fill="#f3f4f6"/>
+  <text x="157" y="562" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2937">寝返りが多い・太ももが濡れる</text>
+  <text x="157" y="586" text-anchor="middle" font-size="15" fill="#374151">足まわりのギャザーを確かめる</text>
+
+  <rect x="306" y="534" width="274" height="66" rx="10" fill="#f3f4f6"/>
+  <text x="443" y="562" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2937">朝の量が多い</text>
+  <text x="443" y="586" text-anchor="middle" font-size="15" fill="#374151">ccに換算した吸収量で比べる</text>
+
+  <text x="300" y="634" text-anchor="middle" font-size="15" fill="#374151">体重の範囲はブランドで少しずつ違う。袋の表示で確かめる</text>
+  <text x="300" y="664" text-anchor="middle" font-size="14" fill="#6b7280">帯はメーカー公式の表示（2026年11月1日確認）を当サイトがまとめた目安</text>
+</svg>
