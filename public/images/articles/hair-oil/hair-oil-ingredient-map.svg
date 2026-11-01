@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 560" width="600" height="560" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>全成分の先頭でヘアオイルを3種類に分ける図</title>
+  <rect width="600" height="560" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">全成分の先頭で3種類に分ける</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">全成分は基本的に、配合量の多い順に並ぶ</text>
+
+  <!-- シリコーン -->
+  <rect x="20" y="98" width="560" height="140" rx="10" fill="#e6f0f7"/>
+  <text x="44" y="132" font-size="20" font-weight="700" fill="#1f2937">シリコーン系</text>
+  <text x="44" y="164" font-size="16" fill="#374151">目印: ジメチコン、シクロペンタシロキサン、</text>
+  <text x="44" y="188" font-size="16" fill="#374151">イソドデカン、(C9-12)アルカン</text>
+  <text x="44" y="218" font-size="16" fill="#374151">質感はさらさらからしっとりまで商品で違う</text>
+
+  <!-- 植物オイル -->
+  <rect x="20" y="254" width="560" height="140" rx="10" fill="#fdf0d5"/>
+  <text x="44" y="288" font-size="20" font-weight="700" fill="#1f2937">植物オイル系</text>
+  <text x="44" y="320" font-size="16" fill="#374151">目印: ゴマ油、サフラワー油、ヒマワリ種子油</text>
+  <text x="44" y="344" font-size="16" fill="#374151">重めの質感という声が多い</text>
+  <text x="44" y="374" font-size="16" fill="#374151">酸化したようなにおいの声もある</text>
+
+  <!-- ホホバ -->
+  <rect x="20" y="410" width="560" height="130" rx="10" fill="#e5f3ea"/>
+  <text x="44" y="444" font-size="20" font-weight="700" fill="#1f2937">ホホバ単体</text>
+  <text x="44" y="476" font-size="16" fill="#374151">目印: 全成分がホホバ種子油だけ</text>
+  <text x="44" y="500" font-size="16" fill="#374151">顔や体にも使える多用途のオイル</text>
+  <text x="44" y="524" font-size="16" fill="#374151">低温で固まるが、温めると液体に戻る</text>
+</svg>

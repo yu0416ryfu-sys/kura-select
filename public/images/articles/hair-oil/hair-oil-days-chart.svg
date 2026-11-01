@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>100mLのヘアオイルが何日もつかの図</title>
+  <rect width="600" height="450" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">100mLが何日もつかは1回の量で決まる</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">毎日1回使った場合（100mL ÷ 1回の量）</text>
+
+  <!-- 基線 -->
+  <line x1="120" y1="112" x2="120" y2="372" stroke="#d1d5db" stroke-width="1"/>
+
+  <!-- 半年の線: 180日 = 120 + 180 × 1.08 -->
+  <line x1="314" y1="104" x2="314" y2="372" stroke="#9ca3af" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="314" y="396" text-anchor="middle" font-size="15" fill="#374151">半年（180日）</text>
+
+  <!-- 0.3mL: 333日 -->
+  <text x="108" y="140" text-anchor="end" font-size="17" fill="#374151">1回0.3mL</text>
+  <rect x="120" y="120" width="360" height="30" rx="4" fill="#d97706"/>
+  <text x="490" y="142" font-size="18" font-weight="700" fill="#1f2937">約333日</text>
+
+  <!-- 0.5mL: 200日 -->
+  <text x="108" y="192" text-anchor="end" font-size="17" fill="#374151">1回0.5mL</text>
+  <rect x="120" y="172" width="216" height="30" rx="4" fill="#d97706"/>
+  <text x="346" y="194" font-size="18" font-weight="700" fill="#1f2937">200日</text>
+
+  <!-- 1mL: 100日 -->
+  <text x="108" y="244" text-anchor="end" font-size="17" fill="#374151">1回1mL</text>
+  <rect x="120" y="224" width="108" height="30" rx="4" fill="#2f6f9f"/>
+  <text x="238" y="246" font-size="18" font-weight="700" fill="#1f2937">100日</text>
+
+  <!-- 1.5mL: 67日 -->
+  <text x="108" y="296" text-anchor="end" font-size="17" fill="#374151">1回1.5mL</text>
+  <rect x="120" y="276" width="72" height="30" rx="4" fill="#2f6f9f"/>
+  <text x="202" y="298" font-size="18" font-weight="700" fill="#1f2937">約67日</text>
+
+  <!-- 2mL: 50日 -->
+  <text x="108" y="348" text-anchor="end" font-size="17" fill="#374151">1回2mL</text>
+  <rect x="120" y="328" width="54" height="30" rx="4" fill="#2f6f9f"/>
+  <text x="184" y="350" font-size="18" font-weight="700" fill="#1f2937">50日</text>
+
+  <text x="300" y="428" text-anchor="middle" font-size="14" fill="#6b7280">オレンジは半年を超える量。容量と1回の量から計算した当サイトの目安</text>
+</svg>

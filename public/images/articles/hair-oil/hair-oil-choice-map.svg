@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640" width="600" height="640" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>ヘアオイルの選び方の図</title>
+  <rect width="600" height="640" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">髪の太さ、使う時間、避けたいものの順</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">迷ったら小さいサイズで1回の量を確かめる</text>
+
+  <!-- 手順1 -->
+  <rect x="20" y="96" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="120" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">1. 髪はどんな状態？</text>
+
+  <rect x="20" y="144" width="178" height="118" rx="10" fill="#e6f0f7"/>
+  <text x="109" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">細い・やわらかい</text>
+  <text x="109" y="206" text-anchor="middle" font-size="16" fill="#374151">「さらさら」「軽い」</text>
+  <text x="109" y="230" text-anchor="middle" font-size="16" fill="#374151">目安より少なめ</text>
+
+  <rect x="211" y="144" width="178" height="118" rx="10" fill="#e5f3ea"/>
+  <text x="300" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">普通の太さ</text>
+  <text x="300" y="206" text-anchor="middle" font-size="16" fill="#374151">どちらのタイプも可</text>
+  <text x="300" y="230" text-anchor="middle" font-size="16" fill="#374151">目安の量から</text>
+
+  <rect x="402" y="144" width="178" height="118" rx="10" fill="#fdf0d5"/>
+  <text x="491" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">太い・硬い・くせ</text>
+  <text x="491" y="206" text-anchor="middle" font-size="16" fill="#374151">「しっとり」</text>
+  <text x="491" y="230" text-anchor="middle" font-size="16" fill="#374151">重めのオイルも候補</text>
+
+  <!-- 手順2 -->
+  <rect x="20" y="282" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="306" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">2. いつ使う？</text>
+
+  <rect x="20" y="330" width="178" height="118" rx="10" fill="#eef2f7"/>
+  <text x="109" y="362" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">乾かす前だけ</text>
+  <text x="109" y="392" text-anchor="middle" font-size="16" fill="#374151">タオルドライ後に</text>
+  <text x="109" y="416" text-anchor="middle" font-size="16" fill="#374151">使える商品</text>
+
+  <rect x="211" y="330" width="178" height="118" rx="10" fill="#eef2f7"/>
+  <text x="300" y="362" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">朝の仕上げにも</text>
+  <text x="300" y="392" text-anchor="middle" font-size="16" fill="#374151">乾いた髪に使えると</text>
+  <text x="300" y="416" text-anchor="middle" font-size="16" fill="#374151">書かれた商品</text>
+
+  <rect x="402" y="330" width="178" height="118" rx="10" fill="#eef2f7"/>
+  <text x="491" y="362" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">アイロンの前にも</text>
+  <text x="491" y="392" text-anchor="middle" font-size="16" fill="#374151">アイロン前の使い方を</text>
+  <text x="491" y="416" text-anchor="middle" font-size="16" fill="#374151">案内している商品</text>
+
+  <!-- 手順3 -->
+  <rect x="20" y="468" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="492" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">3. 避けたいものは？</text>
+
+  <rect x="20" y="516" width="178" height="104" rx="10" fill="#fdf0d5"/>
+  <text x="109" y="548" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">強い香り</text>
+  <text x="109" y="578" text-anchor="middle" font-size="16" fill="#374151">無香料か微香を</text>
+  <text x="109" y="602" text-anchor="middle" font-size="16" fill="#374151">小さいサイズで</text>
+
+  <rect x="211" y="516" width="178" height="104" rx="10" fill="#fdf0d5"/>
+  <text x="300" y="548" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">シリコーン</text>
+  <text x="300" y="578" text-anchor="middle" font-size="16" fill="#374151">全成分の先頭が</text>
+  <text x="300" y="602" text-anchor="middle" font-size="16" fill="#374151">植物オイルかホホバ</text>
+
+  <rect x="402" y="516" width="178" height="104" rx="10" fill="#fdf0d5"/>
+  <text x="491" y="548" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">使い残し</text>
+  <text x="491" y="578" text-anchor="middle" font-size="16" fill="#374151">半年で使い切れる</text>
+  <text x="491" y="602" text-anchor="middle" font-size="16" fill="#374151">容量にする</text>
+</svg>
