@@ -41,6 +41,10 @@ const { title, description, ogImage, canonical, noindex, nofollow, ogType, publi
     <!-- Google Analytics -->
     <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-9ZPLHX62KS"></script>
     <script is:inline>
+      // 本番ドメイン以外（localhost の preview など）では GA4 へ送らない
+      if (!/(^|\.)kura-select\.com$/.test(location.hostname)) {
+        window['ga-disable-G-9ZPLHX62KS'] = true;
+      }
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
