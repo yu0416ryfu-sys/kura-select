@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>歯磨き粉の選び方の図</title>
+  <rect width="600" height="600" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">歯磨き粉は目的の表示から選ぶ</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">パッケージや商品ページの効能・全成分を見る</text>
+
+  <!-- 虫歯 -->
+  <rect x="24" y="100" width="552" height="90" rx="8" fill="#f3f4f6"/>
+  <rect x="24" y="100" width="150" height="90" rx="8" fill="#2f6f9f"/>
+  <text x="99" y="141" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">虫歯を</text>
+  <text x="99" y="165" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">防ぎたい</text>
+  <text x="190" y="138" font-size="18" font-weight="700" fill="#1f2937">「フッ素1450ppm」などの濃度</text>
+  <text x="190" y="166" font-size="16" fill="#374151">6歳以上は1400〜1500ppmが勧められている</text>
+
+  <!-- 歯ぐき -->
+  <rect x="24" y="200" width="552" height="90" rx="8" fill="#f3f4f6"/>
+  <rect x="24" y="200" width="150" height="90" rx="8" fill="#2f6f9f"/>
+  <text x="99" y="241" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">歯ぐきが</text>
+  <text x="99" y="265" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">気になる</text>
+  <text x="190" y="238" font-size="18" font-weight="700" fill="#1f2937">「歯周炎の予防」「歯肉炎の予防」</text>
+  <text x="190" y="266" font-size="16" fill="#374151">出血や腫れが続くなら歯科へ</text>
+
+  <!-- 着色 -->
+  <rect x="24" y="300" width="552" height="90" rx="8" fill="#f3f4f6"/>
+  <rect x="24" y="300" width="150" height="90" rx="8" fill="#d97706"/>
+  <text x="99" y="341" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">着色が</text>
+  <text x="99" y="365" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">気になる</text>
+  <text x="190" y="338" font-size="18" font-weight="700" fill="#1f2937">「歯を白くする」「やに除去」</text>
+  <text x="190" y="366" font-size="16" fill="#374151">変わるのは表面の着色まで</text>
+
+  <!-- しみる -->
+  <rect x="24" y="400" width="552" height="90" rx="8" fill="#f3f4f6"/>
+  <rect x="24" y="400" width="150" height="90" rx="8" fill="#d97706"/>
+  <text x="99" y="441" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">冷たいものが</text>
+  <text x="99" y="465" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">しみる</text>
+  <text x="190" y="438" font-size="18" font-weight="700" fill="#1f2937">「歯がしみるのを防ぐ」</text>
+  <text x="190" y="466" font-size="16" fill="#374151">続くなら虫歯の確認も</text>
+
+  <!-- 避けたい -->
+  <rect x="24" y="500" width="552" height="90" rx="8" fill="#f3f4f6"/>
+  <rect x="24" y="500" width="150" height="90" rx="8" fill="#6b7280"/>
+  <text x="99" y="541" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">泡や研磨剤を</text>
+  <text x="99" y="565" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">避けたい</text>
+  <text x="190" y="538" font-size="18" font-weight="700" fill="#1f2937">「低発泡」「研磨剤不使用」など</text>
+  <text x="190" y="566" font-size="16" fill="#374151">フッ素の有無は全成分で確かめる</text>
+</svg>
