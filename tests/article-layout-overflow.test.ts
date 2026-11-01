@@ -34,10 +34,29 @@ describe("記事ページの横あふれ防止", () => {
     expect(layout).toContain("grid grid-cols-1 xl:grid-cols-2 gap-6");
   });
 
-  it("比較表の容量セルは折り返せる", () => {
-    const cell = comparisonTable.match(/<td [^>]*>\{p\.capacity\}<\/td>/);
+  it("比較表の容量は折り返せる", () => {
+    const cell = comparisonTable.match(/<div class="[^"]*">\{p\.capacity\}<\/div>/);
     expect(cell).not.toBeNull();
     expect(cell![0]).not.toContain("whitespace-nowrap");
+  });
+
+  it("PC の比較表は容量とコスパを1列にまとめ、コスパで並べ替えられる", () => {
+    const th = comparisonTable.match(/<th[\s\S]*?容量・コスパ/);
+    expect(th).not.toBeNull();
+    const merged = th![0].slice(th![0].lastIndexOf("<th"));
+    expect(merged).toContain('handleSort("pricePerUnit")');
+    expect(merged).toContain('ariaSortAttr("pricePerUnit")');
+    expect(comparisonTable).not.toMatch(/>容量<\/th>/);
+    // コスパと容量が同じセルにある（間に <td が入らない）
+    const cell = comparisonTable.match(/\{unit\}[\s\S]*?\{p\.capacity\}/);
+    expect(cell).not.toBeNull();
+    expect(cell![0]).not.toContain("<td");
+  });
+
+  it("統合列の見出しは矢印が出ても広がらず、商品名は4行まで見える", () => {
+    // 126px を下回ると、並べ替えたときだけ列幅が変わる
+    expect(comparisonTable).toContain("min-w-[126px]");
+    expect(comparisonTable).toContain("line-clamp-4 hover:line-clamp-none");
   });
 
   it("サービス比較表の詳細列は横スクロールしても右端に残る", () => {

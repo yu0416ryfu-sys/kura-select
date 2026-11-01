@@ -169,25 +169,24 @@ export default function ComparisonTableSort({ products, caption, targetUnit, ran
           <caption class="sr-only">{caption}</caption>
           <thead class="bg-[var(--color-surface)] sticky top-0">
             <tr>
-              <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] whitespace-nowrap w-12">{ranked ? "順位" : "タイプ"}</th>
-              <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] min-w-[220px]">商品名</th>
+              <th class="px-2 py-3 text-left font-semibold text-[var(--color-text-sub)] whitespace-nowrap w-12">{ranked ? "順位" : "タイプ"}</th>
+              <th class="px-2 py-3 text-left font-semibold text-[var(--color-text-sub)] min-w-[180px]">商品名</th>
               <th
-                class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[314px] whitespace-nowrap"
+                class="px-2 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[308px] whitespace-nowrap"
                 aria-sort={ariaSortAttr("price")}
                 onClick={() => handleSort("price")}
               >
                 価格・購入{sortKey === "price" && <span class="ml-1">{sortDir === "asc" ? "↑" : "↓"}</span>}
               </th>
-              <th class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] min-w-[112px] whitespace-nowrap">容量</th>
               <th
-                class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[88px] whitespace-nowrap"
+                class="px-2 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[126px] whitespace-nowrap"
                 aria-sort={ariaSortAttr("pricePerUnit")}
                 onClick={() => handleSort("pricePerUnit")}
               >
-                コスパ{sortKey === "pricePerUnit" && <span class="ml-1">{sortDir === "asc" ? "↑" : "↓"}</span>}
+                容量・コスパ{sortKey === "pricePerUnit" && <span class="ml-1">{sortDir === "asc" ? "↑" : "↓"}</span>}
               </th>
               <th
-                class="px-3 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[82px] whitespace-nowrap"
+                class="px-2 py-3 text-left font-semibold text-[var(--color-text-sub)] cursor-pointer hover:text-[var(--color-primary)] select-none min-w-[82px] whitespace-nowrap"
                 aria-sort={ariaSortAttr("rating")}
                 onClick={() => handleSort("rating")}
               >
@@ -204,7 +203,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit, ran
               const multiOffer = offers.length > 1;
               return (
                 <tr key={p.name} class={`${i % 2 === 0 ? "bg-white" : "bg-[var(--color-surface)]"} border-t border-[var(--color-border)]/70 hover:bg-[var(--color-primary)]/5 transition-colors`}>
-                  <td class="px-3 py-3 text-center">
+                  <td class="px-2 py-3 text-center">
                     {ranked ? (
                       <span class={`inline-flex items-center justify-center w-7 h-7 rounded-full text-xs font-bold ${
                         p.rank === 1 ? "bg-amber-400 text-white" :
@@ -222,7 +221,7 @@ export default function ComparisonTableSort({ products, caption, targetUnit, ran
                       )
                     )}
                   </td>
-                  <td class="px-3 py-3">
+                  <td class="px-2 py-3">
                     <div class="flex items-center gap-2">
                       <img
                         src={productImageSrc(p.imageUrl, 128)}
@@ -234,11 +233,11 @@ export default function ComparisonTableSort({ products, caption, targetUnit, ran
                       />
                       <div>
                         <p class="text-xs text-[var(--color-text-sub)]">{p.brand}</p>
-                        <p title={p.name} class="font-medium text-[var(--color-text)] line-clamp-3 hover:line-clamp-none">{p.name}</p>
+                        <p title={p.name} class="font-medium text-[var(--color-text)] line-clamp-4 hover:line-clamp-none">{p.name}</p>
                       </div>
                     </div>
                   </td>
-                  <td class="px-3 py-3 align-middle">
+                  <td class="px-2 py-3 align-middle">
                     <div class="space-y-2">
                       {offers.map((offer) => {
                         const priceRow = p.priceSummary?.priceRows.find(
@@ -293,8 +292,8 @@ export default function ComparisonTableSort({ products, caption, targetUnit, ran
                       })}
                     </div>
                   </td>
-                  <td class="px-3 py-3 text-sm align-middle">{p.capacity}</td>
-                  <td class="px-3 py-3 align-middle">
+                  {/* 容量とコスパは同じ列に置き、縦に見比べられるようにする */}
+                  <td class="px-2 py-3 text-sm align-middle">
                     {(() => {
                       // コスパは最安サイトの価格 × capacity から算出する
                       const lp = p.priceSummary?.lowestPrice ?? p.price;
@@ -305,8 +304,9 @@ export default function ComparisonTableSort({ products, caption, targetUnit, ran
                         </span>
                       ) : null;
                     })()}
+                    <div class="mt-1">{p.capacity}</div>
                   </td>
-                  <td class="px-3 py-3 align-middle">
+                  <td class="px-2 py-3 align-middle">
                     <div class="space-y-2">
                       {offers.map((offer) => {
                         const rating =
