@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 410" width="600" height="410" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>ロールの長さごとの使い切るまでの期間</title>
+  <rect width="600" height="410" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">1本で何か月もつか</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">天板1枚に40cm使い、週2回焼いた場合の計算</text>
+
+  <!-- 基線 -->
+  <line x1="92" y1="104" x2="92" y2="326" stroke="#d1d5db" stroke-width="1"/>
+
+  <!-- 5m: 約1.5か月 -->
+  <text x="80" y="134" text-anchor="end" font-size="17" fill="#374151">5m</text>
+  <rect x="92" y="116" width="52" height="26" rx="4" fill="#2f6f9f"/>
+  <text x="154" y="135" font-size="17" font-weight="700" fill="#1f2937">約1.5か月</text>
+
+  <!-- 15m: 約4か月 -->
+  <text x="80" y="189" text-anchor="end" font-size="17" fill="#374151">15m</text>
+  <rect x="92" y="171" width="150" height="26" rx="4" fill="#2f6f9f"/>
+  <text x="252" y="190" font-size="17" font-weight="700" fill="#1f2937">約4か月</text>
+
+  <!-- 20m: 約6か月 -->
+  <text x="80" y="244" text-anchor="end" font-size="17" fill="#374151">20m</text>
+  <rect x="92" y="226" width="202" height="26" rx="4" fill="#2f6f9f"/>
+  <text x="304" y="245" font-size="17" font-weight="700" fill="#1f2937">約6か月</text>
+
+  <!-- 30m: 約9か月 -->
+  <text x="80" y="299" text-anchor="end" font-size="17" fill="#374151">30m</text>
+  <rect x="92" y="281" width="303" height="26" rx="4" fill="#2f6f9f"/>
+  <text x="405" y="300" font-size="17" font-weight="700" fill="#1f2937">約9か月</text>
+
+  <text x="300" y="358" text-anchor="middle" font-size="15" fill="#374151">30mは家庭用の標準5mの6本分。週2回でも使い切りに9か月かかる</text>
+  <text x="300" y="388" text-anchor="middle" font-size="14" fill="#6b7280">1回の長さは30Lクラスの角皿（内寸 約37×25cm）に合わせた当サイトの計算</text>
+</svg>

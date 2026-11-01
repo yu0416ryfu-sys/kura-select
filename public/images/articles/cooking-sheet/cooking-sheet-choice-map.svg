@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>使う場所と頻度で選ぶクッキングシート</title>
+  <rect width="600" height="720" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">まず使う場所、次に頻度で決める</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">器具で使えるかどうかが分かれてから、長さを選ぶ</text>
+
+  <!-- 手順1 -->
+  <rect x="20" y="96" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="120" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">1. どこで使う？</text>
+
+  <!-- オーブン・レンジ・蒸し器 -->
+  <rect x="20" y="144" width="208" height="62" rx="10" fill="#eef2f7"/>
+  <text x="124" y="170" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">オーブン・電子レンジ</text>
+  <text x="124" y="194" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">蒸し器</text>
+  <rect x="240" y="144" width="340" height="62" rx="10" fill="#e3f1e8" stroke="#2f7d55" stroke-width="1.5"/>
+  <text x="256" y="170" font-size="17" font-weight="700" fill="#1f5c3d">紙のクッキングシートを使う</text>
+  <text x="256" y="194" font-size="15" fill="#374151">耐熱の温度と時間の表示を守る</text>
+
+  <!-- トースター -->
+  <rect x="20" y="216" width="208" height="62" rx="10" fill="#eef2f7"/>
+  <text x="124" y="254" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">オーブントースター</text>
+  <rect x="240" y="216" width="340" height="62" rx="10" fill="#fdf3dc" stroke="#b7791f" stroke-width="1.5"/>
+  <text x="256" y="242" font-size="17" font-weight="700" fill="#8a5a12">取扱説明書を先に確認する</text>
+  <text x="256" y="266" font-size="15" fill="#374151">禁止の機種が多い。可でも天板の中に収める</text>
+
+  <!-- IH -->
+  <rect x="20" y="288" width="208" height="62" rx="10" fill="#eef2f7"/>
+  <text x="124" y="326" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">IHのフライパン</text>
+  <rect x="240" y="288" width="340" height="62" rx="10" fill="#fdf3dc" stroke="#b7791f" stroke-width="1.5"/>
+  <text x="256" y="314" font-size="17" font-weight="700" fill="#8a5a12">条件つき。強火にしない</text>
+  <text x="256" y="338" font-size="15" fill="#374151">ラジエントヒーターは不可</text>
+
+  <!-- ガス -->
+  <rect x="20" y="360" width="208" height="62" rx="10" fill="#eef2f7"/>
+  <text x="124" y="398" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">ガスのフライパン</text>
+  <rect x="240" y="360" width="340" height="62" rx="10" fill="#e6eff7" stroke="#2f6f9f" stroke-width="1.5"/>
+  <text x="256" y="386" font-size="17" font-weight="700" fill="#21557c">フライパン用ホイルに替える</text>
+  <text x="256" y="410" font-size="15" fill="#374151">紙のシートではなく、アルミ製の別の商品</text>
+
+  <!-- グリル -->
+  <rect x="20" y="432" width="208" height="62" rx="10" fill="#eef2f7"/>
+  <text x="124" y="470" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">魚焼きグリル・直火</text>
+  <rect x="240" y="432" width="340" height="62" rx="10" fill="#fbe5e3" stroke="#b83a2e" stroke-width="1.5"/>
+  <text x="256" y="458" font-size="17" font-weight="700" fill="#912c22">使わない</text>
+  <text x="256" y="482" font-size="15" fill="#374151">燃えたり、たまった油に火がついたりする</text>
+
+  <!-- 手順2 -->
+  <rect x="20" y="512" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="536" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">2. 天板に敷く回数は？</text>
+
+  <rect x="20" y="560" width="178" height="106" rx="10" fill="#eef2f7"/>
+  <text x="109" y="590" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2937">月に数回まで</text>
+  <text x="109" y="622" text-anchor="middle" font-size="18" font-weight="700" fill="#21557c">5m</text>
+  <text x="109" y="648" text-anchor="middle" font-size="15" fill="#374151">またはカット済み</text>
+
+  <rect x="211" y="560" width="178" height="106" rx="10" fill="#eef2f7"/>
+  <text x="300" y="590" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2937">週1〜2回</text>
+  <text x="300" y="622" text-anchor="middle" font-size="18" font-weight="700" fill="#21557c">15〜20m</text>
+  <text x="300" y="648" text-anchor="middle" font-size="15" fill="#374151">箱と刃の有無を見る</text>
+
+  <rect x="402" y="560" width="178" height="106" rx="10" fill="#eef2f7"/>
+  <text x="491" y="590" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2937">週3回以上</text>
+  <text x="491" y="622" text-anchor="middle" font-size="18" font-weight="700" fill="#21557c">30m</text>
+  <text x="491" y="648" text-anchor="middle" font-size="15" fill="#374151">送料を入れて計算する</text>
+
+  <text x="300" y="700" text-anchor="middle" font-size="14" fill="#6b7280">可否は旭化成・東洋アルミ・象印・ノーリツの公式情報より。機種の取扱説明書を優先</text>
+</svg>

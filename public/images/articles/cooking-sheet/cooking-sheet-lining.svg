@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640" width="600" height="640" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>天板と型へのクッキングシートの切り方</title>
+  <rect width="600" height="640" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">天板と型に合わせた切り方</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">破線が切り込み。青い線が底の大きさ</text>
+
+  <!-- 天板 -->
+  <rect x="20" y="98" width="560" height="166" rx="12" fill="#f3f4f6"/>
+  <rect x="44" y="118" width="208" height="126" fill="#fbf7ee" stroke="#a8a29e" stroke-width="1.5"/>
+  <rect x="74" y="142" width="148" height="78" fill="none" stroke="#2f6f9f" stroke-width="2.5"/>
+  <line x1="44" y1="118" x2="74" y2="142" stroke="#b83a2e" stroke-width="2" stroke-dasharray="5 4"/>
+  <line x1="252" y1="118" x2="222" y2="142" stroke="#b83a2e" stroke-width="2" stroke-dasharray="5 4"/>
+  <line x1="44" y1="244" x2="74" y2="220" stroke="#b83a2e" stroke-width="2" stroke-dasharray="5 4"/>
+  <line x1="252" y1="244" x2="222" y2="220" stroke="#b83a2e" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="276" y="140" font-size="19" font-weight="700" fill="#1f2937">天板いっぱいに焼く</text>
+  <text x="276" y="172" font-size="16" fill="#374151">天板より大きめに切る</text>
+  <text x="276" y="200" font-size="16" fill="#374151">四隅に切り込みを入れ</text>
+  <text x="276" y="228" font-size="16" fill="#374151">角で重ねて立ち上げる</text>
+
+  <!-- パウンド型 -->
+  <rect x="20" y="278" width="560" height="166" rx="12" fill="#f3f4f6"/>
+  <rect x="44" y="298" width="208" height="126" fill="#fbf7ee" stroke="#a8a29e" stroke-width="1.5"/>
+  <rect x="86" y="326" width="124" height="70" fill="none" stroke="#2f6f9f" stroke-width="2.5"/>
+  <line x1="44" y1="326" x2="86" y2="326" stroke="#b83a2e" stroke-width="2" stroke-dasharray="5 4"/>
+  <line x1="210" y1="326" x2="252" y2="326" stroke="#b83a2e" stroke-width="2" stroke-dasharray="5 4"/>
+  <line x1="44" y1="396" x2="86" y2="396" stroke="#b83a2e" stroke-width="2" stroke-dasharray="5 4"/>
+  <line x1="210" y1="396" x2="252" y2="396" stroke="#b83a2e" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="276" y="320" font-size="19" font-weight="700" fill="#1f2937">パウンド型・角型</text>
+  <text x="276" y="352" font-size="16" fill="#374151">型の底を写し取り</text>
+  <text x="276" y="380" font-size="16" fill="#374151">周りに「型の高さ＋1cm」を足す</text>
+  <text x="276" y="408" font-size="16" fill="#374151">四隅に切り込みを入れる</text>
+
+  <!-- 丸型 -->
+  <rect x="20" y="458" width="560" height="166" rx="12" fill="#f3f4f6"/>
+  <circle cx="110" cy="541" r="62" fill="#fbf7ee" stroke="#a8a29e" stroke-width="1.5"/>
+  <circle cx="110" cy="541" r="50" fill="none" stroke="#2f6f9f" stroke-width="2.5"/>
+  <g stroke="#b83a2e" stroke-width="2">
+    <line x1="110" y1="479" x2="110" y2="491"/>
+    <line x1="141" y1="487" x2="135" y2="498"/>
+    <line x1="164" y1="510" x2="153" y2="516"/>
+    <line x1="172" y1="541" x2="160" y2="541"/>
+    <line x1="164" y1="572" x2="153" y2="566"/>
+    <line x1="141" y1="595" x2="135" y2="584"/>
+    <line x1="110" y1="603" x2="110" y2="591"/>
+    <line x1="79" y1="595" x2="85" y2="584"/>
+    <line x1="56" y1="572" x2="67" y2="566"/>
+    <line x1="48" y1="541" x2="60" y2="541"/>
+    <line x1="56" y1="510" x2="67" y2="516"/>
+    <line x1="79" y1="487" x2="85" y2="498"/>
+  </g>
+  <rect x="184" y="526" width="74" height="30" fill="#fbf7ee" stroke="#a8a29e" stroke-width="1.5"/>
+  <text x="221" y="546" text-anchor="middle" font-size="13" fill="#374151">側面の帯</text>
+  <text x="276" y="490" font-size="19" font-weight="700" fill="#1f2937">丸型（デコレーション型）</text>
+  <text x="276" y="520" font-size="16" fill="#374151">底は「底＋1cm」の円に切り</text>
+  <text x="276" y="546" font-size="16" fill="#374151">縁に1cmほどの間隔で切り込み</text>
+  <text x="276" y="572" font-size="16" fill="#374151">側面の帯は 幅「高さ＋1cm」</text>
+  <text x="276" y="598" font-size="16" fill="#374151">長さ「円周＋3cm」</text>
+</svg>
