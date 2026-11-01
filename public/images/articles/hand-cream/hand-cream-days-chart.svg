@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 430" width="600" height="430" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>容量ごとの使い切るまでの日数</title>
+  <rect width="600" height="430" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">1本で何日もつか</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">1回0.5gを1日4回（1日2g）塗った場合の計算</text>
+
+  <!-- 基線 -->
+  <line x1="92" y1="104" x2="92" y2="356" stroke="#d1d5db" stroke-width="1"/>
+
+  <!-- 30g: 15日 -->
+  <text x="80" y="134" text-anchor="end" font-size="17" fill="#374151">30g</text>
+  <rect x="92" y="116" width="55" height="26" rx="4" fill="#2f6f9f"/>
+  <text x="157" y="135" font-size="17" font-weight="700" fill="#1f2937">15日</text>
+
+  <!-- 40g: 20日 -->
+  <text x="80" y="184" text-anchor="end" font-size="17" fill="#374151">40g</text>
+  <rect x="92" y="166" width="73" height="26" rx="4" fill="#2f6f9f"/>
+  <text x="175" y="185" font-size="17" font-weight="700" fill="#1f2937">20日</text>
+
+  <!-- 60g: 30日 -->
+  <text x="80" y="234" text-anchor="end" font-size="17" fill="#374151">60g</text>
+  <rect x="92" y="216" width="110" height="26" rx="4" fill="#2f6f9f"/>
+  <text x="212" y="235" font-size="17" font-weight="700" fill="#1f2937">30日</text>
+
+  <!-- 80g: 40日 -->
+  <text x="80" y="284" text-anchor="end" font-size="17" fill="#374151">80g</text>
+  <rect x="92" y="266" width="147" height="26" rx="4" fill="#2f6f9f"/>
+  <text x="249" y="285" font-size="17" font-weight="700" fill="#1f2937">40日</text>
+
+  <!-- 180g: 90日 -->
+  <text x="80" y="334" text-anchor="end" font-size="17" fill="#374151">180g</text>
+  <rect x="92" y="316" width="330" height="26" rx="4" fill="#2f6f9f"/>
+  <text x="432" y="335" font-size="17" font-weight="700" fill="#1f2937">90日</text>
+
+  <text x="300" y="386" text-anchor="middle" font-size="15" fill="#374151">小さいチューブは2〜3週間でなくなる計算。買い足す手間も費用に入る</text>
+  <text x="300" y="414" text-anchor="middle" font-size="14" fill="#6b7280">1回の量はユースキン製薬の案内（約0.5g）をもとに当サイトで計算</text>
+</svg>

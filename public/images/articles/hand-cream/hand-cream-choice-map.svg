@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 680" width="600" height="680" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>手の状態と塗ったあとの過ごし方で選ぶハンドクリーム</title>
+  <rect width="600" height="680" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">手の状態と、塗ったあとで選ぶ</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">2つの質問に答えると、向くタイプが絞れる</text>
+
+  <!-- 列見出し -->
+  <rect x="100" y="96" width="236" height="38" rx="19" fill="#374151"/>
+  <text x="218" y="121" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">すぐに手を使う</text>
+  <rect x="344" y="96" width="236" height="38" rx="19" fill="#374151"/>
+  <text x="462" y="121" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">しばらく手を使わない</text>
+
+  <!-- 行見出し -->
+  <rect x="20" y="146" width="72" height="190" rx="10" fill="#374151"/>
+  <text x="56" y="232" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">カサつく</text>
+  <text x="56" y="258" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">乾く</text>
+  <rect x="20" y="346" width="72" height="190" rx="10" fill="#374151"/>
+  <text x="56" y="432" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">ひび</text>
+  <text x="56" y="458" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">あかぎれ</text>
+
+  <!-- カサつく × すぐに手を使う -->
+  <rect x="100" y="146" width="236" height="190" rx="12" fill="#eef4fb" stroke="#8fb3d9" stroke-width="2"/>
+  <text x="218" y="184" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">軽いクリーム</text>
+  <text x="116" y="226" font-size="16" fill="#374151">チューブかポンプ</text>
+  <text x="116" y="258" font-size="16" fill="#374151">無香料だと場面を選ばない</text>
+  <text x="116" y="290" font-size="16" fill="#374151">回数を増やして補う</text>
+
+  <!-- カサつく × 手を使わない -->
+  <rect x="344" y="146" width="236" height="190" rx="12" fill="#eefaf2" stroke="#86c99f" stroke-width="2"/>
+  <text x="462" y="184" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">しっとり重めのタイプ</text>
+  <text x="358" y="226" font-size="16" fill="#374151">風呂上がりと寝る前に</text>
+  <text x="358" y="258" font-size="16" fill="#374151">シアバターやワセリン系</text>
+  <text x="358" y="290" font-size="16" fill="#374151">香りつきはここで楽しむ</text>
+
+  <!-- ひび × すぐに手を使う -->
+  <rect x="100" y="346" width="236" height="190" rx="12" fill="#fff4ea" stroke="#f0b27a" stroke-width="2"/>
+  <text x="218" y="384" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">表示を確かめて選ぶ</text>
+  <text x="116" y="426" font-size="16" fill="#374151">「効能・効果」の欄を見る</text>
+  <text x="116" y="458" font-size="16" fill="#374151">医薬部外品か医薬品が候補</text>
+  <text x="116" y="490" font-size="16" fill="#374151">水仕事は手袋で守る</text>
+
+  <!-- ひび × 手を使わない -->
+  <rect x="344" y="346" width="236" height="190" rx="12" fill="#fff9db" stroke="#e3c65a" stroke-width="2"/>
+  <text x="462" y="384" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">たっぷり塗って手袋</text>
+  <text x="358" y="426" font-size="16" fill="#374151">量は第2関節までを目安に</text>
+  <text x="358" y="458" font-size="16" fill="#374151">綿の手袋を重ねて寝る</text>
+  <text x="358" y="490" font-size="16" fill="#374151">尿素はしみることがある</text>
+
+  <!-- 受診 -->
+  <rect x="20" y="548" width="560" height="84" rx="12" fill="#fdecec" stroke="#e08a8a" stroke-width="2"/>
+  <text x="300" y="582" text-anchor="middle" font-size="18" font-weight="700" fill="#b42318">赤み・かゆみ・水ぶくれ・じゅくじゅくしている</text>
+  <text x="300" y="612" text-anchor="middle" font-size="16" fill="#b42318">市販品で様子を見続けず、皮膚科で相談する</text>
+  <text x="300" y="660" text-anchor="middle" font-size="14" fill="#6b7280">量の目安はユースキン製薬の案内をもとに作成</text>
+</svg>

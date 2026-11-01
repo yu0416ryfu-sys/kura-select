@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 560" width="600" height="560" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>ハンドクリームの塗り残しやすい場所</title>
+  <rect width="600" height="560" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">塗り残しやすい場所</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">手の甲だけで終わらせない</text>
+
+  <!-- 手の甲の図 -->
+  <g fill="#f6dcc6">
+    <rect x="82" y="282" width="172" height="196" rx="56"/>
+    <rect x="86" y="152" width="38" height="170" rx="19" transform="rotate(-7 105 322)"/>
+    <rect x="130" y="112" width="38" height="200" rx="19"/>
+    <rect x="174" y="124" width="38" height="190" rx="19"/>
+    <rect x="216" y="168" width="36" height="160" rx="18" transform="rotate(8 234 328)"/>
+    <rect x="76" y="320" width="40" height="130" rx="20" transform="rotate(-26 96 450)"/>
+  </g>
+  <!-- 爪 -->
+  <g fill="#ffffff" stroke="#e6bfa3" stroke-width="1.5">
+    <rect x="96" y="160" width="26" height="30" rx="10" transform="rotate(-7 105 322)"/>
+    <rect x="136" y="120" width="26" height="30" rx="10"/>
+    <rect x="180" y="132" width="26" height="30" rx="10"/>
+    <rect x="221" y="176" width="26" height="30" rx="10" transform="rotate(8 234 328)"/>
+    <rect x="83" y="328" width="26" height="30" rx="10" transform="rotate(-26 96 450)"/>
+  </g>
+
+  <!-- 番号 -->
+  <g font-size="16" font-weight="700" text-anchor="middle">
+    <circle cx="149" cy="166" r="15" fill="#2f6f9f"/><text x="149" y="172" fill="#ffffff">1</text>
+    <circle cx="171" cy="298" r="15" fill="#b5622a"/><text x="171" y="304" fill="#ffffff">2</text>
+    <circle cx="262" cy="396" r="15" fill="#2e7d4f"/><text x="262" y="402" fill="#ffffff">3</text>
+    <circle cx="168" cy="392" r="15" fill="#6b7280"/><text x="168" y="398" fill="#ffffff">4</text>
+  </g>
+
+  <!-- 説明 -->
+  <circle cx="306" cy="136" r="15" fill="#2f6f9f"/><text x="306" y="142" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">1</text>
+  <text x="332" y="130" font-size="18" font-weight="700" fill="#1f2937">爪のまわり</text>
+  <text x="332" y="156" font-size="16" fill="#374151">ささくれができやすい</text>
+  <text x="332" y="180" font-size="16" fill="#374151">押さえるようにやさしく</text>
+
+  <circle cx="306" cy="232" r="15" fill="#b5622a"/><text x="306" y="238" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">2</text>
+  <text x="332" y="226" font-size="18" font-weight="700" fill="#1f2937">指の股（みずかき）</text>
+  <text x="332" y="252" font-size="16" fill="#374151">手を組むようにして届かせる</text>
+
+  <circle cx="306" cy="304" r="15" fill="#2e7d4f"/><text x="306" y="310" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">3</text>
+  <text x="332" y="298" font-size="18" font-weight="700" fill="#1f2937">手の側面</text>
+  <text x="332" y="324" font-size="16" fill="#374151">筆記やマウスでこすれる場所</text>
+
+  <circle cx="306" cy="376" r="15" fill="#6b7280"/><text x="306" y="382" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">4</text>
+  <text x="332" y="370" font-size="18" font-weight="700" fill="#1f2937">手の甲</text>
+  <text x="332" y="396" font-size="16" fill="#374151">ここに出して、甲どうしで広げる</text>
+
+  <rect x="296" y="426" width="284" height="66" rx="10" fill="#eef4fb" stroke="#8fb3d9" stroke-width="1.5"/>
+  <text x="438" y="453" text-anchor="middle" font-size="16" fill="#1f2937">強くこすると刺激になるので</text>
+  <text x="438" y="477" text-anchor="middle" font-size="16" fill="#1f2937">なでるように広げる</text>
+
+  <text x="300" y="538" text-anchor="middle" font-size="14" fill="#6b7280">ユースキン製薬の案内と皮膚科医の講演録をもとに作成</text>
+</svg>
