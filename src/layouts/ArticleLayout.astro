@@ -33,6 +33,8 @@ import type { MarkdownHeading } from "astro";
 import ArticleToc from "../components/article/ArticleToc.astro";
 import SaleBanner from "../components/article/SaleBanner.astro";
 import FaqList from "../components/article/FaqList.astro";
+import AdSlot from "../components/article/AdSlot.astro";
+import { getActivePlacement } from "../../scripts/lib/ad-placements.mjs";
 
 const linkProviders = getEnabledAffiliateProvidersFromEnv(import.meta.env);
 const priceProviders = getStaticAffiliateProvidersFromEnv(import.meta.env);
@@ -48,6 +50,8 @@ interface Props {
 
 const { article, categoryName, categorySlug, relatedArticles, headings } = Astro.props;
 const { data } = article;
+// 掲載中の広告枠（台帳に無い記事は AdSlot を描画しない＝スクリプトも出さない）
+const adPlacement = getActivePlacement(article.id);
 const isService = data.articleType === "service";
 // サービス記事は products[] を持たないため比較記事扱いにしない
 const isComparison = data.articleType !== "review" && !isService;
@@ -409,6 +413,9 @@ const productJsonLds = products
           <p class="font-semibold mb-1">広告・免責事項</p>
           <p>当サイトのリンクには楽天・Yahoo!ショッピング・Amazon等のアフィリエイトを含みます。商品購入により当サイトが報酬を得る場合があります。掲載価格は執筆時点のものです。最新価格は各ショップでご確認ください。</p>
         </div>
+
+        <!-- インプレッション広告（data/ad-placements.json で掲載中の記事だけ） -->
+        {adPlacement && <AdSlot slotId={adPlacement.slotId} />}
       </article>
 
       <!-- サイドバー（デスクトップ: 目次+関連記事を一体でスクロール追従。目次のみ内側スクロールで縮む） -->

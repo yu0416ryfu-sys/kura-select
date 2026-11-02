@@ -1,0 +1,9 @@
+{
+  "readme": [
+    "インプレッション広告の枠別・日別の実績（計画書 docs/PLAN_IMPRESSION_ADS_2026-11-03_V3.md §5 #6）。",
+    "i-mobile の管理画面の枠別レポートを週1回、日別（date・slotId・impressions・revenue）で追記する。API は使わない。",
+    "slotId は data/ad-placements.json の placements[].slotId と一致させる。revenue は円。同じ date・slotId の行は1つだけ。"
+  ],
+  "network": "i-mobile",
+  "rows": []
+}

@@ -1,0 +1,10 @@
+{
+  "readme": [
+    "インプレッション広告の掲載台帳（計画書 docs/PLAN_IMPRESSION_ADS_2026-11-03_V3.md §5）。掲載する記事の行だけを書く。",
+    "掲載中 = start <= ビルド日（JST） かつ end == null。静的サイトなので start の日付だけでは切り替わらない。掲載開始日に台帳をコミットしてデプロイする。",
+    "外すときは行を消さず end と endReason（stop-send-rate / stop-zero-send / stop-cwv / stop-search / manual）を入れる。",
+    "凍結中（data/measurement-holds.json の startedAt <= start < releaseDate）の記事には掲載しない。tests/ad-placements.test.ts が検査する。"
+  ],
+  "network": "i-mobile",
+  "placements": []
+}

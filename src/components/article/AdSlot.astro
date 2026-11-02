@@ -1,0 +1,49 @@
+---
+// インプレッション広告の枠（計画書 docs/PLAN_IMPRESSION_ADS_2026-11-03_V3.md §5 #3）。
+// data/ad-placements.json で掲載中（start <= ビルド日(JST) かつ end == null）の記事だけに1枠出す。
+// 掲載するかどうかは ArticleLayout.astro が判定し、掲載しない記事ではこのコンポーネント自体を描画しない
+// （描画するとスクリプトが全記事に出るため）。
+// - 高さは min-height で固定し、広告が後から入っても CLS を起こさない
+// - 広告タグは枠がビューポートに近づいてから読む（初期表示の CWV を守る）
+// - 自分の閲覧で無効インプレッションを作らないよう、本番ドメイン以外ではタグを読まない
+// - 下に StickyCta の高さ分の余白を取り、追従バーと重ねない（StickyCta.astro は変えない）
+interface Props {
+  /** 台帳 placements[].slotId */
+  slotId: string;
+}
+
+const { slotId } = Astro.props;
+---
+
+<aside aria-label="広告" class="mt-10 pb-24">
+  <p class="text-xs text-[var(--color-text-sub)] mb-1">広告</p>
+  <div
+    class="kura-ad-slot min-h-[280px] flex items-center justify-center bg-[var(--color-surface)] rounded-xl overflow-hidden"
+    data-ad-network="i-mobile"
+    data-ad-slot-id={slotId}
+  ></div>
+</aside>
+
+<script>
+  // 枠が画面の手前 200px まで近づいたら広告タグを読む（1枠1回）
+  const slots = document.querySelectorAll<HTMLElement>(".kura-ad-slot");
+  const isProduction = /^(www\.)?kura-select\.com$/.test(location.hostname);
+  if (slots.length > 0 && isProduction && "IntersectionObserver" in window) {
+    const load = (slot: HTMLElement) => {
+      if (slot.dataset.adLoaded) return;
+      slot.dataset.adLoaded = "true";
+      // i-mobile の広告タグは審査通過後に入れる（計画書 §5 #4）。枠 ID は slot.dataset.adSlotId
+    };
+    const observer = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (!entry.isIntersecting) continue;
+          load(entry.target as HTMLElement);
+          observer.unobserve(entry.target);
+        }
+      },
+      { rootMargin: "200px 0px" }
+    );
+    slots.forEach((slot) => observer.observe(slot));
+  }
+</script>
