@@ -31,7 +31,7 @@ export function parseFrontmatter(content: string): { data: Record<string, unknow
 }
 
 // data を YAML に変換して Markdown フロントマターとして組み立てる
-function dumpFrontmatter(data: Record<string, unknown>, body: string): string {
+export function dumpFrontmatter(data: Record<string, unknown>, body: string): string {
   const fm = yaml.dump(data, {
     indent: 2,
     lineWidth: -1,
@@ -1719,6 +1719,13 @@ export function limitProductsByRank(
 }
 
 /**
+ * title・description 内の「N選」「N商品」「N製品」に一致する正規表現。
+ * 件数の同期（syncTitleProductCount）と content-stamp の件数正規化で共有する。
+ * g フラグ付きなので test() には使わず replace 専用にする（lastIndex が残るため）。
+ */
+export const PRODUCT_COUNT_RE = /[0-9０-９]+(選|商品|製品)(?!あたり|当たり)/g;
+
+/**
  * title・description 内の「N選」「N商品」「N製品」を products 件数に同期する。
  * 該当表記がないフィールドは記事意図を壊さないため変更しない。
  * 「1商品あたり」のような単価表現は件数ではないため対象外。
@@ -1739,13 +1746,12 @@ export function syncTitleProductCount(
   }
 
   const count = parsed.data.products.length;
-  const nSenRe = /[0-9０-９]+(選|商品|製品)(?!あたり|当たり)/g;
   let changed = false;
 
   let before: string | null = null;
   let after: string | null = null;
   if (typeof parsed.data.title === 'string') {
-    const next = parsed.data.title.replace(nSenRe, (_m, unit) => `${count}${unit}`);
+    const next = parsed.data.title.replace(PRODUCT_COUNT_RE, (_m, unit) => `${count}${unit}`);
     before = parsed.data.title;
     after = next;
     if (next !== parsed.data.title) {
@@ -1757,7 +1763,7 @@ export function syncTitleProductCount(
   let descBefore: string | null = null;
   let descAfter: string | null = null;
   if (typeof parsed.data.description === 'string') {
-    const next = parsed.data.description.replace(nSenRe, (_m, unit) => `${count}${unit}`);
+    const next = parsed.data.description.replace(PRODUCT_COUNT_RE, (_m, unit) => `${count}${unit}`);
     descBefore = parsed.data.description;
     descAfter = next;
     if (next !== parsed.data.description) {

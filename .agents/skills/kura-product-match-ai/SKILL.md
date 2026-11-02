@@ -228,6 +228,7 @@ $OutputEncoding = [System.Text.UTF8Encoding]::new($false)
 - `selectedImageUrl` は candidates の `imageUrl` を使う
 - `articleFile`、`rank`、`current.name` は入力から引き継ぐ
 - `replace` 適用時は `rank + current.name` の二重照合が行われるため、`current.name` を省略しない
+- 適用は `products[]` と件数表記だけを変えるので、台帳 `data/content-dates.json`（sitemap の lastmod）は動かない。本文・FAQ も手で直したときだけ `pnpm content:stamp` を実行し、台帳を同じコミットに入れる
 - 同一 `articleFile` + `rank` が入力内に重複する場合は、後続行が mismatch にならないよう片方を `review` にする
 - `action` は `replace` または `review` のみ
 - `review` の `decision` は `manual` / `delete` のみ（省略時は `manual` 扱い）

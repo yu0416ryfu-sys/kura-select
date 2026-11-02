@@ -194,6 +194,7 @@ tags:
 2. `pnpm inject-faqs` を実行し、本文 FAQ を `faqs:` frontmatter に反映する
 3. **本文の `## よくある質問（FAQ）` セクションは削除**し、frontmatter 一本化する（既存記事と同じ＝本文には FAQ 見出しを残さない）
 4. `pnpm inject-faqs --check` が「faqs は最新です」になることを確認する
+5. `pnpm content:stamp` を実行し、新しい記事を台帳 `data/content-dates.json` に載せて記事と同じコミットに入れる（載せ忘れると `pnpm test` の `tests/content-stamp.test.ts` が落ちる）
 
 本文構成（FAQ は inject 後に削除するため、最終的な本文には残らない）:
 

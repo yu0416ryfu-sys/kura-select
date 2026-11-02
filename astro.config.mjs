@@ -4,24 +4,14 @@ import sitemap from "@astrojs/sitemap";
 import rss from "@astrojs/rss";
 import mdx from "@astrojs/mdx";
 import tailwindcss from "@tailwindcss/vite";
-import fs from "node:fs";
-import path from "node:path";
 import { getThinCategorySlugs, isThinCategoryUrl } from "./scripts/lib/thin-categories.mjs";
-import { getNoindexArticleSlugs, isNoindexArticleUrl } from "./scripts/lib/noindex-articles.mjs";
+import { articleSlugFromUrl, getNoindexArticleSlugs, isNoindexArticleUrl } from "./scripts/lib/noindex-articles.mjs";
+import { buildArticleLastmod } from "./scripts/lib/sitemap-lastmod.mjs";
 import rehypePickButtons from "./src/lib/markdown/rehype-pick-buttons.ts";
 
-// 記事 frontmatter の updatedAt（無ければ publishedAt）から sitemap の lastmod を作る。
-// Google に「この URL は更新済み」と伝え、再クロールと SERP 日付の見直しを促す。
-const ARTICLES_DIR = path.resolve("./src/content/articles");
-const articleLastmod = new Map();
-for (const file of fs.readdirSync(ARTICLES_DIR)) {
-  if (!/\.mdx?$/.test(file)) continue;
-  const frontmatter = fs.readFileSync(path.join(ARTICLES_DIR, file), "utf-8").split(/^---\s*$/m)[1] ?? "";
-  const published = frontmatter.match(/^publishedAt:\s*"?([\d-]+)"?/m)?.[1];
-  const updated = frontmatter.match(/^updatedAt:\s*"?([\d-]+)"?/m)?.[1];
-  const date = updated ?? published;
-  if (date) articleLastmod.set(file.replace(/\.mdx?$/, ""), new Date(date).toISOString());
-}
+// sitemap の記事 lastmod は「内容の更新日」（data/content-dates.json・無ければ publishedAt）。
+// 価格同期で進む updatedAt は使わない。加筆したときだけ lastmod が進み、再クロールを促せる。計画書5 §3。
+const articleLastmod = buildArticleLastmod();
 
 // 記事1本以下のカテゴリページは noindex（src/pages/category/[slug].astro）なので sitemap からも外す。
 // noindex なのに sitemap に載っていると GSC が「送信された URL に noindex タグが追加されています」
@@ -48,7 +38,8 @@ export default defineConfig({
         !isThinCategoryUrl(page, thinCategorySlugs) &&
         !isNoindexArticleUrl(page, noindexArticleSlugs),
       serialize(item) {
-        const slug = item.url.match(/\/articles\/([^/]+)\/?$/)?.[1];
+        // reviews/<slug> も拾う（article.id と同じ形。noindex の判定と同じ helper）
+        const slug = articleSlugFromUrl(item.url);
         const lastmod = slug ? articleLastmod.get(slug) : undefined;
         if (lastmod) item.lastmod = lastmod;
         return item;

@@ -30,7 +30,7 @@ function readFrontmatter(filePath) {
  * ここを再帰しないと、サブディレクトリの記事が数えられず
  * カテゴリを誤って「薄い」と判定してしまう。
  */
-function listContentFiles(dir) {
+export function listContentFiles(dir) {
   const found = [];
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, entry.name);

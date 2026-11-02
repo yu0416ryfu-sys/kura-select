@@ -289,6 +289,8 @@ rg -o 'item\.rakuten\.co\.jp(%2F|/)[^/&"%]+(%2F|/)[^/&"%]+' src/content/articles
 2. grep -r "item.rakuten.co.jp" src/content/articles/{slug}-comparison.md
    → 残っている場合は name を修正して再実行
 3. pnpm build  （Zodスキーマ検証 + OGP生成）
+   本文・title（件数以外）・description・faqs も変えたら pnpm content:stamp を実行し、data/content-dates.json を同じコミットに入れる
+   （商品の追加と件数表記の変更だけなら台帳は動かない。pnpm test が落ちたら実行する）
 4. git add / commit / push
 ```
 
