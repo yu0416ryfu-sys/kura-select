@@ -41,6 +41,11 @@
         "112779"
       ]
     },
+    "baby-formula": {
+      "expected": [
+        "401171"
+      ]
+    },
     "baby-wipes": {
       "expected": [
         "205194",
@@ -657,6 +662,11 @@
       "expected": [
         "210677",
         "567538"
+      ]
+    },
+    "sheet-mask": {
+      "expected": [
+        "503020"
       ]
     },
     "storage-bag": {

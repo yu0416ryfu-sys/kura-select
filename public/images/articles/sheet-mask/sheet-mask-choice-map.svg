@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>大容量シートマスクの選び方</title>
+  <rect width="600" height="900" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">大容量シートマスクの選び方</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">使う頻度で形を決め、全成分で肌に合うかを見る</text>
+
+  <!-- ① どのくらい使うか -->
+  <rect x="20" y="100" width="560" height="250" rx="14" fill="#eef5ff" stroke="#8fb4e8" stroke-width="2"/>
+  <rect x="40" y="118" width="300" height="40" rx="20" fill="#2f6fdb"/>
+  <text x="190" y="145" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">① どのくらい使うか</text>
+  <rect x="40" y="176" width="255" height="156" rx="10" fill="#ffffff" stroke="#8fb4e8" stroke-width="1.5"/>
+  <text x="167" y="206" text-anchor="middle" font-size="16" fill="#374151">毎日・朝晩に使う</text>
+  <path d="M157 222 L167 238 L177 222 Z" fill="#2f6fdb"/>
+  <text x="167" y="270" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">大袋・箱入り</text>
+  <text x="167" y="302" text-anchor="middle" font-size="15" fill="#374151">1枚あたりが安くなりやすい</text>
+  <rect x="305" y="176" width="255" height="156" rx="10" fill="#ffffff" stroke="#8fb4e8" stroke-width="1.5"/>
+  <text x="432" y="206" text-anchor="middle" font-size="16" fill="#374151">週に数回・持ち歩く</text>
+  <path d="M422 222 L432 238 L442 222 Z" fill="#2f6fdb"/>
+  <text x="432" y="270" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">個包装</text>
+  <text x="432" y="302" text-anchor="middle" font-size="15" fill="#374151">開封後の期限を気にしない</text>
+
+  <!-- ② 全成分で確かめる -->
+  <rect x="20" y="366" width="560" height="220" rx="14" fill="#eefaf2" stroke="#86c99f" stroke-width="2"/>
+  <rect x="40" y="384" width="300" height="40" rx="20" fill="#1f8a4c"/>
+  <text x="190" y="411" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">② 全成分で確かめる</text>
+  <text x="44" y="458" font-size="17" fill="#1f2937"><tspan font-weight="700">アルコールが苦手</tspan>：「エタノール」が無いか</text>
+  <text x="44" y="490" font-size="17" fill="#1f2937"><tspan font-weight="700">香りが苦手</tspan>：「香料」が無いか</text>
+  <text x="44" y="522" font-size="17" fill="#1f2937"><tspan font-weight="700">パラベンを避けたい</tspan>：「〇〇パラベン」が無いか</text>
+  <text x="44" y="554" font-size="17" fill="#1f2937"><tspan font-weight="700">初めての銘柄</tspan>：腕の内側で試してから顔に</text>
+
+  <!-- ③ 何枚入りを買うか -->
+  <rect x="20" y="602" width="560" height="200" rx="14" fill="#fff4ea" stroke="#f0b27a" stroke-width="2"/>
+  <rect x="40" y="620" width="300" height="40" rx="20" fill="#d9701f"/>
+  <text x="190" y="647" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">③ 何枚入りを買うか</text>
+  <text x="44" y="694" font-size="17" fill="#1f2937"><tspan font-weight="700">毎日1枚</tspan>：30〜50枚の袋で1〜2か月</text>
+  <text x="44" y="726" font-size="17" fill="#1f2937"><tspan font-weight="700">朝晩2枚</tspan>：30〜50枚の袋で2〜4週間</text>
+  <text x="44" y="758" font-size="17" fill="#1f2937"><tspan font-weight="700">大袋は開封後に使い切れる量</tspan>を目安にする</text>
+
+  <!-- 共通 -->
+  <rect x="20" y="818" width="560" height="62" rx="14" fill="#f3f4f6" stroke="#d1d5db" stroke-width="2"/>
+  <text x="300" y="855" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">どれを選んでも：表示の時間で、乾く前にはがす</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640" width="600" height="640" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>粉ミルク1缶・1袋が何日もつかの目安</title>
+  <rect width="600" height="640" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#1f2937">1缶・1袋が何日もつか</text>
+  <text x="300" y="74" text-anchor="middle" font-size="16" fill="#6b7280">調乳濃度13%（すりきり1さじ約2.6gで20mL）で計算</text>
+
+  <!-- 軸 -->
+  <text x="30" y="118" font-size="15" font-weight="700" fill="#374151">1日に飲む量</text>
+  <line x1="170" y1="128" x2="170" y2="520" stroke="#9ca3af" stroke-width="1.5"/>
+  <!-- 30日の線: 0日=170, 1日=11px → 30日=500 -->
+  <line x1="500" y1="128" x2="500" y2="520" stroke="#d9701f" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="500" y="118" text-anchor="middle" font-size="14" font-weight="700" fill="#d9701f">開缶後1か月</text>
+
+  <!-- 800mL -->
+  <text x="30" y="166" font-size="16" fill="#1f2937">800mL</text>
+  <rect x="170" y="148" width="85" height="22" rx="4" fill="#2f6fdb"/>
+  <text x="263" y="165" font-size="14" fill="#1f2937">大缶 約8日</text>
+  <rect x="170" y="174" width="42" height="18" rx="4" fill="#86c99f"/>
+  <text x="220" y="188" font-size="13" fill="#374151">袋 約4日</text>
+
+  <!-- 500mL -->
+  <text x="30" y="246" font-size="16" fill="#1f2937">500mL</text>
+  <rect x="170" y="228" width="136" height="22" rx="4" fill="#2f6fdb"/>
+  <text x="314" y="245" font-size="14" fill="#1f2937">大缶 約12日</text>
+  <rect x="170" y="254" width="68" height="18" rx="4" fill="#86c99f"/>
+  <text x="246" y="268" font-size="13" fill="#374151">袋 約6日</text>
+
+  <!-- 300mL -->
+  <text x="30" y="326" font-size="16" fill="#1f2937">300mL</text>
+  <rect x="170" y="308" width="226" height="22" rx="4" fill="#2f6fdb"/>
+  <text x="404" y="325" font-size="14" fill="#1f2937">大缶 約20日</text>
+  <rect x="170" y="334" width="113" height="18" rx="4" fill="#86c99f"/>
+  <text x="291" y="348" font-size="13" fill="#374151">袋 約10日</text>
+
+  <!-- 100mL -->
+  <text x="30" y="406" font-size="16" fill="#1f2937">100mL</text>
+  <rect x="170" y="388" width="400" height="22" rx="4" fill="#c7d7f2"/>
+  <text x="178" y="405" font-size="14" font-weight="700" fill="#1f2937">大缶 約60日（1か月で使い切れない）</text>
+  <rect x="170" y="414" width="340" height="18" rx="4" fill="#86c99f"/>
+  <text x="178" y="428" font-size="13" fill="#1f2937">袋 約30日</text>
+
+  <!-- 凡例 -->
+  <rect x="40" y="462" width="18" height="14" fill="#2f6fdb"/>
+  <text x="66" y="474" font-size="14" fill="#374151">大缶（800g）</text>
+  <rect x="200" y="462" width="18" height="14" fill="#86c99f"/>
+  <text x="226" y="474" font-size="14" fill="#374151">詰め替えの1袋（400g）</text>
+  <text x="40" y="502" font-size="13" fill="#6b7280">日数は 内容量÷1日に使う粉の量 の計算値。缶の容量や濃度は銘柄で少し違う</text>
+
+  <rect x="20" y="540" width="560" height="80" rx="14" fill="#fff4ea" stroke="#f0b27a" stroke-width="2"/>
+  <text x="300" y="572" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">完全ミルクなら大缶、母乳が中心なら小さい単位</text>
+  <text x="300" y="600" text-anchor="middle" font-size="15" fill="#374151">開けてから1か月以内に使い切れる量を選ぶ</text>
+</svg>
