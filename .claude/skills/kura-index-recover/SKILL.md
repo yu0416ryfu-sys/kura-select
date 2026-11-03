@@ -6,7 +6,7 @@ description: |
   頼まれた場合、または「未登録の再確認」と頼まれた場合に使う。1回の実行で1記事。
   今の登録状態を URL 検査で確かめ、計画書5の規則で加筆・統合・保留・noindex を判定し、加筆なら
   調査・本文・商品説明の是正・デプロイ・登録リクエスト・14日後と28日後の再確認の予定までを行う。
-  登録済みの記事の保守・加筆は kura-content-improve、効果の判定は kura-weekly-access-review を使う。
+  登録済みの記事の保守・加筆・全面改稿は kura-content-improve（全面改稿モード §9）、効果の判定は kura-weekly-access-review を使う。
 ---
 
 # KuraSelect 未登録記事の復帰
@@ -37,7 +37,7 @@ description: |
 
 | 順 | 条件 | 動き |
 |---|---|---|
-| 1 | `coverageState` が `Submitted and indexed` | **止まる。** 登録済みと報告する。加筆の希望なら `kura-content-improve` を案内する |
+| 1 | `coverageState` が `Submitted and indexed` | **止まる。** 登録済みと報告する。加筆の希望なら `kura-content-improve`、作り直しの希望なら同スキルの全面改稿モード（§9。集客の少ない記事に限る）を案内する |
 | 2 | `coverageState` が noindex の除外（`Excluded by ‘noindex’ tag`）・`data/noindex-articles.json` に記載・`draft: true` | **止まる。** noindex のままでは登録リクエストが拒否される |
 | 3 | 凍結中（`data/measurement-holds.json` の `releaseDate > 今日`。メモリ `project_measurement_holds` も見る）、`docs/TODO.md` §3 で日付つきで止められている、進行中の計画書の測定対象、公開14日以内 | **止まる。** 理由と解禁日を書く |
 | 4 | ログ §6 に同じ記事の行がある | **止まる。** +28日 が空なら「再確認の日まで待つ」と書く。+28日 が埋まっていて未登録なら、統合・noindex・現状維持・再度の加筆のどれにするかを聞く |
