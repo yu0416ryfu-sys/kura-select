@@ -4,7 +4,7 @@ description: "シャンプーを1mLあたりの価格と仕上がりで比較。
 category: "shampoo"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-03"
 products:
   - rank: 1
     name: "ザクロー精炭酸シャンプー 詰替用"
@@ -95,7 +95,7 @@ products:
       - "香りや洗い上がりの好みは分かれる"
     recommendedFor: "シャンプーを容量とケア目的で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s57rn.3rdw600e.g00s57rn.3rdw7060/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finksc%2Fshampoo_d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finksc%2Fi%2F10000367%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/po_shampoo.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inksc/cabinet/flick-1th/n_shampoo.jpg?_ex=128x128"
     genreId: "210677"
   - rank: 4
     name: "ウーマシャンプー プレミアム 300mL"
@@ -171,8 +171,8 @@ products:
     price: 2546
     capacity: "1本"
     pricePerUnit: "約2546円/本"
-    rating: 4.63
-    reviewCount: 470
+    rating: 4.62
+    reviewCount: 471
     features:
       - "頭皮や髪のケアに使えるシャンプー"
       - "容量や仕上がりで選びやすい"

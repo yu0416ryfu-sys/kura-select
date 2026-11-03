@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-03"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -125,7 +125,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3274
+    reviewCount: 3275
     features:
       - "クレンジング兼洗顔として使えるマルチタイプ"
       - "1本500mLの大容量サイズ"
@@ -155,10 +155,10 @@ products:
   - rank: 6
     name: "manyo ピュアクレンジングオイル 200mL"
     brand: "manyo"
-    price: 1400
+    price: 2000
     capacity: "200mL"
     rating: 4.45
-    reviewCount: 1184
+    reviewCount: 1186
     features:
       - "天然由来成分を重視したクレンジングオイル"
       - "400mLの大容量タイプ"
@@ -283,7 +283,7 @@ products:
     price: 4378
     capacity: "100mL"
     rating: 4.57
-    reviewCount: 1702
+    reviewCount: 1703
     features:
       - "発酵オイルを配合したクレンジングオイル"
       - "W洗顔不要でメイクと毛穴汚れを落とす"

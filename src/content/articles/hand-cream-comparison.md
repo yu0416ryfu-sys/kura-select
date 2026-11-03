@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-03"
 products:
   - rank: 1
     name: "ユースキン ハンドクリーム つけかえパウチ 180g"
@@ -105,7 +105,7 @@ products:
     capacity: "80g"
     pricePerUnit: "約31円/g"
     rating: 4.61
-    reviewCount: 1981
+    reviewCount: 1982
     features:
       - "80g入りのジャータイプ（商品区分は化粧品）"
       - "無香料で香りが苦手な方も使いやすい"
@@ -210,7 +210,7 @@ products:
       - "精油の香りがあり、仕事中は残り香が気になるという声がある"
     recommendedFor: "オーガニック・自然派コスメを好む方・ギフト用途を検討している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b072wnfzkl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000265%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/905b072wnfzkl-20.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/allna/top/905b072wnfzkl.jpg?_ex=128x128"
     priceMax: 4400
     genreId: "304759"
   - rank: 8
@@ -219,7 +219,7 @@ products:
     price: 3410
     capacity: "60g"
     rating: 4.57
-    reviewCount: 387
+    reviewCount: 388
     features:
       - "手肌と甘皮まで塗り込むハンドクリーム（商品区分は化粧品）"
       - "カメリア油やシア脂など植物性の油を多く使う処方"
@@ -234,7 +234,7 @@ products:
       - "小麦胚芽油・大豆油・アーモンド油などを含むので成分欄を確認する"
     recommendedFor: "手肌と爪のケアを一緒にしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ptgvn.3rdw63b1.g00ptgvn.3rdw7403/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmahou-soap%2F381899%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmahou-soap%2Fi%2F10000423%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mahou-soap/cabinet/fresh_aroma/handcream/product/product.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mahou-soap/cabinet/fresh_aroma/handcream/product/product-point.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

@@ -4,7 +4,7 @@ description: "パンツ型おむつのBIGサイズを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-11-03"
 draft: false
 products:
   - rank: 1
@@ -36,8 +36,8 @@ products:
     price: 6921
     capacity: "36枚×4袋"
     pricePerUnit: "約48円/枚"
-    rating: 4.75
-    reviewCount: 97
+    rating: 4.76
+    reviewCount: 98
     features:
       - "汗による蒸れを逃がす設計"
       - "12〜22kgのビッグサイズ帯に対応"

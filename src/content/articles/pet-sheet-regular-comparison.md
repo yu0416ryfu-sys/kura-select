@@ -4,7 +4,7 @@ description: "犬猫用ペットシーツのレギュラーサイズを1枚あ�
 category: "pet-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-03"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "レギュラー 1200枚（100枚×12パック）"
     pricePerUnit: "約5.0円/枚"
     rating: 4.61
-    reviewCount: 1559
+    reviewCount: 1560
     features:
       - "薄型のペット用トイレシート"
       - "パック分けされたまとめ買い向け仕様"
@@ -56,7 +56,7 @@ products:
     capacity: "レギュラー 800枚"
     pricePerUnit: "約5.3円/枚"
     rating: 4.5
-    reviewCount: 5654
+    reviewCount: 5655
     features:
       - "日常交換に使いやすい薄型タイプ"
       - "レギュラーサイズを選べるペット用トイレシート"
@@ -70,7 +70,7 @@ products:
       - "購入時にレギュラーサイズを選択しているか確認が必要"
     recommendedFor: "薄型をこまめに交換して使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10025751%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10025751%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo19/r1806_00469.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo20/r1853_00469.jpg?_ex=128x128"
     offers:
       - provider: "amazon"
         label: "Amazon"
@@ -127,29 +127,6 @@ products:
         matchNotes: "capacity不一致: capacity不一致"
     genreId: "409755"
   - rank: 4
-    name: "ペットシーツ 薄型 レギュラー 業務用ケース"
-    brand: "Iampet"
-    price: 4950
-    capacity: "レギュラー 800枚"
-    pricePerUnit: "約6.2円/枚"
-    rating: 4.62
-    reviewCount: 5174
-    features:
-      - "レギュラーサイズのペット用トイレシート"
-      - "薄型のまとめ買い向けタイプ"
-      - "犬や猫のトイレまわりに使える"
-    pros:
-      - "こまめに交換する使い方に合わせやすい"
-      - "大容量でストックを用意しやすい"
-      - "日常使いの候補として比較しやすい"
-    cons:
-      - "吸収量を優先する場合は厚型も比較したい"
-      - "購入時にサイズと枚数を確認する必要がある"
-    recommendedFor: "薄型レギュラーをまとめて備えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t8k9n.3rdw6f51.g00t8k9n.3rdw7950/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiampet%2Fta223-521%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiampet%2Fi%2F10002445%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iampet/cabinet/img/ps_600w.jpg?_ex=128x128"
-    genreId: "409755"
-  - rank: 5
     name: "ペットシーツ 超薄型 レギュラー"
     brand: "ユニフリー"
     price: 4980
@@ -183,7 +160,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pet-studio_4562461715412"
         available: true
     genreId: "409755"
-  - rank: 6
+  - rank: 5
     name: "ペットシーツ 薄型 レギュラー 大容量"
     brand: "Dogland"
     price: 5181
@@ -217,13 +194,36 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pickupplazashop_psar0800"
         available: true
     genreId: "409755"
+  - rank: 6
+    name: "ペットシーツ 薄型 レギュラー 業務用ケース"
+    brand: "Iampet"
+    price: 5500
+    capacity: "レギュラー 800枚"
+    pricePerUnit: "約6.9円/枚"
+    rating: 4.62
+    reviewCount: 5174
+    features:
+      - "レギュラーサイズのペット用トイレシート"
+      - "薄型のまとめ買い向けタイプ"
+      - "犬や猫のトイレまわりに使える"
+    pros:
+      - "こまめに交換する使い方に合わせやすい"
+      - "大容量でストックを用意しやすい"
+      - "日常使いの候補として比較しやすい"
+    cons:
+      - "吸収量を優先する場合は厚型も比較したい"
+      - "購入時にサイズと枚数を確認する必要がある"
+    recommendedFor: "薄型レギュラーをまとめて備えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t8k9n.3rdw6f51.g00t8k9n.3rdw7950/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiampet%2Fta223-521%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiampet%2Fi%2F10002445%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/iampet/cabinet/img/ps_600w.jpg?_ex=128x128"
+    genreId: "409755"
   - rank: 7
     name: "ペットシーツ 薄型 レギュラー"
     brand: "Pet館"
     price: 4480
     capacity: "レギュラー 800枚"
     rating: 4.49
-    reviewCount: 45582
+    reviewCount: 45584
     features:
       - "薄型のペット用トイレシート"
       - "レギュラーサイズを選べる"
@@ -314,7 +314,7 @@ products:
     price: 4650
     capacity: "レギュラー 400枚"
     rating: 4.3
-    reviewCount: 6628
+    reviewCount: 6630
     features:
       - "吸収量を重視した厚型タイプ"
       - "レギュラーサイズを選べるペット用トイレシート"

@@ -4,7 +4,7 @@ description: "使い捨てカイロのおすすめ10選を1個あたり単価で
 category: "kairo"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-03"
 draft: false
 products:
   - rank: 1
@@ -93,8 +93,8 @@ products:
     price: 2850
     capacity: "120個"
     pricePerUnit: "約24円/個"
-    rating: 4.78
-    reviewCount: 122
+    rating: 4.77
+    reviewCount: 123
     features:
       - "約9.6×7cmのミニサイズで衣類に貼るタイプ"
       - "10時間持続タイプ（メーカー表示）"

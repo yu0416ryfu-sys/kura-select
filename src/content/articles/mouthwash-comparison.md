@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-03"
 products:
   - rank: 1
     name: "リステリン トータルケアプラス クリーンミント"
@@ -149,8 +149,8 @@ products:
     price: 1235
     capacity: "1000mL"
     pricePerUnit: "約1.2円/mL"
-    rating: 4.43
-    reviewCount: 77
+    rating: 4.44
+    reviewCount: 78
     features:
       - "4種のエッセンシャルオイルを有効成分とする薬用洗口液"
       - "口臭・歯肉炎の予防など複数の目的に使える多機能タイプ"
@@ -214,9 +214,9 @@ products:
   - rank: 7
     name: "プロフレッシュ 口臭ケア マウスウォッシュ"
     brand: "PROFRESH（プロフレッシュ）"
-    price: 7425
+    price: 8250
     capacity: "500mL×3本"
-    pricePerUnit: "約5.0円/mL"
+    pricePerUnit: "約5.5円/mL"
     rating: 4.72
     reviewCount: 501
     features:
@@ -289,7 +289,7 @@ products:
       - "薄める手間がある"
     recommendedFor: "歯科医院でも扱われる定番品を選びたい方・歯周病予防を重視する方・長く使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fdf2819%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10012094%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg/df2819_1450ppm.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1104_p5100/kirikae2/df2819_1450ppm.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -308,7 +308,7 @@ products:
     price: 2580
     capacity: "300mL"
     rating: 4.6
-    reviewCount: 2949
+    reviewCount: 2951
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"
@@ -322,7 +322,7 @@ products:
       - "ホワイトニング効果は継続使用が前提"
     recommendedFor: "ホワイトニングケアを日常に取り入れたい方・低刺激マウスウォッシュを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b071gypvwv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000116%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/coupon/906b071gypvwv-50.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20261104m/906b071gypvwv-50.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

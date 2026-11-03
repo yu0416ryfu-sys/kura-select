@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-03"
 draft: false
 products:
   - rank: 1
@@ -111,29 +111,6 @@ products:
         updatedAt: "2026-05-19"
     genreId: "212105"
   - rank: 4
-    name: "パッと貼るだけホコリとりフィルター エアコン用 10個セット"
-    brand: "東洋アルミ"
-    price: 5580
-    capacity: "10枚"
-    pricePerUnit: "約558円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "粘着式で工具不要、38×80cmの家庭用標準サイズ"
-      - "防カビ・抗菌・消臭・花粉対策の高機能仕様"
-      - "10枚の大容量セットで長期間の交換ストックが確保できる"
-    pros:
-      - "10枚セットでまとめ買いによりストック切れを防げる"
-      - "防カビ・花粉対策を兼ねた機能性フィルター"
-      - "東洋アルミの品質で信頼性が高い"
-    cons:
-      - "大容量のため保管スペースが必要"
-      - "機能がシンプルな分、特化した付加機能は少ない"
-    recommendedFor: "長期ストックでコスパを重視したい方・まとめ買いで補充の手間を減らしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t9gln.3rdw61c2.g00t9gln.3rdw7522/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffirst34%2Fkaj-250805g0030510%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffirst34%2Fi%2F25127395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/first34/cabinet/image_sku/26032012_set_10/1890.jpg?_ex=128x128"
-    genreId: "101833"
-  - rank: 5
     name: "エアコン内部フィルター ペタらく"
     brand: "ペタらく"
     price: 580
@@ -156,6 +133,29 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ty7xn.3rdw602e.g00ty7xn.3rdw73a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftuhan-ya-2%2F391770%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftuhan-ya-2%2Fi%2F10041601%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tuhan-ya-2/cabinet/tmb/0391770.jpg?_ex=128x128"
     genreId: "212141"
+  - rank: 5
+    name: "パッと貼るだけホコリとりフィルター エアコン用 10個セット"
+    brand: "東洋アルミ"
+    price: 5800
+    capacity: "10枚"
+    pricePerUnit: "約580円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "粘着式で工具不要、38×80cmの家庭用標準サイズ"
+      - "防カビ・抗菌・消臭・花粉対策の高機能仕様"
+      - "10枚の大容量セットで長期間の交換ストックが確保できる"
+    pros:
+      - "10枚セットでまとめ買いによりストック切れを防げる"
+      - "防カビ・花粉対策を兼ねた機能性フィルター"
+      - "東洋アルミの品質で信頼性が高い"
+    cons:
+      - "大容量のため保管スペースが必要"
+      - "機能がシンプルな分、特化した付加機能は少ない"
+    recommendedFor: "長期ストックでコスパを重視したい方・まとめ買いで補充の手間を減らしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t9gln.3rdw61c2.g00t9gln.3rdw7522/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffirst34%2Fkaj-250805g0030510%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffirst34%2Fi%2F25127395%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/first34/cabinet/image_sku/26032012_set_10/1890.jpg?_ex=128x128"
+    genreId: "101833"
   - rank: 6
     name: "東洋アルミ ウイルス対策ホコリとりフィルター エアコン・空気清浄機用 3個"
     brand: "東洋アルミ"

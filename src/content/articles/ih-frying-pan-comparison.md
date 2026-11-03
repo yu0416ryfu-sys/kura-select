@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に7製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-11-03"
 draft: false
 products:
   - rank: 1
@@ -135,9 +135,9 @@ products:
   - rank: 5
     name: "ティファール インジニオ・ネオ IHルージュ・アンリミテッド フライパン 26cm"
     brand: "ティファール"
-    price: 6157
+    price: 6980
     capacity: "1個"
-    pricePerUnit: "約6157円/個"
+    pricePerUnit: "約6980円/個"
     rating: 4.44
     reviewCount: 84
     features:

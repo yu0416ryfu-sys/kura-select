@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-03"
 draft: false
 products:
   - rank: 1
@@ -167,6 +167,40 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_j974081"
         available: true
   - rank: 6
+    name: "エリエール ミチガエル トイレクリーナー 本体 10枚"
+    brand: "大王製紙（エリエール）"
+    price: 251
+    capacity: "10枚"
+    pricePerUnit: "約25円/枚"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "厚手のトイレ用掃除シート"
+      - "本体容器付きタイプ"
+      - "トイレまわりの拭き掃除に使える"
+    pros:
+      - "初めて使うときに選びやすい本体セット"
+      - "厚手シートで広い範囲を拭きやすい"
+      - "容器に保管して取り出しやすい"
+    cons:
+      - "詰め替え用だけを買う場合より容器分の保管場所が必要"
+      - "使用できる場所をパッケージで確認する必要がある"
+    recommendedFor: "本体容器付きの厚手シートから使い始めたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qob6n.3rdw6dbc.g00qob6n.3rdw7ca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fladydrug%2F4902011730739%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fladydrug%2Fi%2F10351168%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ladydrug/cabinet/pic2700/4902011730739_2.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhome-life%2F101-30881.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
+        price: 333
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-30881"
+        available: true
+    genreId: "216022"
+  - rank: 7
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 20枚"
     brand: "花王（クイックル）"
     price: 506
@@ -200,7 +234,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_9q0372"
         available: true
     genreId: "401619"
-  - rank: 7
+  - rank: 8
     name: "トイレクイックル つめかえ用 10枚×12パック"
     brand: "花王（クイックル）"
     price: 3000
@@ -234,7 +268,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_4901301510808"
         available: true
     genreId: "508447"
-  - rank: 8
+  - rank: 9
     name: "トイレクイックル つめかえ用 ジャンボパック 20枚×6個"
     brand: "トイレクイックル（花王）"
     price: 3168
@@ -268,40 +302,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301308566"
         available: true
     genreId: "200821"
-  - rank: 9
-    name: "エリエール ミチガエル トイレクリーナー 本体 10枚"
-    brand: "大王製紙（エリエール）"
-    price: 276
-    capacity: "10枚"
-    pricePerUnit: "約28円/枚"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "厚手のトイレ用掃除シート"
-      - "本体容器付きタイプ"
-      - "トイレまわりの拭き掃除に使える"
-    pros:
-      - "初めて使うときに選びやすい本体セット"
-      - "厚手シートで広い範囲を拭きやすい"
-      - "容器に保管して取り出しやすい"
-    cons:
-      - "詰め替え用だけを買う場合より容器分の保管場所が必要"
-      - "使用できる場所をパッケージで確認する必要がある"
-    recommendedFor: "本体容器付きの厚手シートから使い始めたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qob6n.3rdw6dbc.g00qob6n.3rdw7ca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fladydrug%2F4902011730739%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fladydrug%2Fi%2F10351168%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ladydrug/cabinet/pic2700/4902011730739_2.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhome-life%2F101-30881.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 333
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-30881"
-        available: true
-    genreId: "216022"
   - rank: 10
     name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×4個"
     brand: "花王（クイックル）"
