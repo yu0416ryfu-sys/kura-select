@@ -10,6 +10,8 @@ description: |
 
 既存の `src/content/articles/{slug}-comparison.md` に商品エントリを追加する。
 
+商品ページ・レビューの収集と事実の照合は `../kura-article-create/references/article-research.md`（共通手順）に従い、サブエージェントに任せる。本体は商品説明の執筆と判断だけを行う。
+
 ---
 
 ## 入力形式
@@ -28,7 +30,7 @@ description: |
 1. `data/measurement-holds.json` の `holds[]`（`slug` / `slugs`）に対象記事があり `releaseDate > 今日` なら**編集しない**。解除日を添えてユーザーに確認する（対照群を含むコホート記事も同じ）。施策の中身はメモリ `project_measurement_holds` を見る
 2. `prohibitions[]` の `scope: "products"` に対象記事がある（frosch-vs-yashinomi / joy-vs-cucute / mukokukan-vs-shoshuriki / kireikirei-vs-biore などブランド一騎打ちの vs 記事）なら**商品を追加しない**。`pnpm check-additions` が「商品不足」と出しても無視する
 3. **順位が停滞している記事（GSC で 12〜20位帯）に商品是正を施策として打たない**（2026-08-27 ユーザー判断・案A）。laundry-bleach / sanitary-napkin / fabric-softener は正しい商品是正でも表示・クリックが減った。商品に触ってよいのは、未離陸記事（表示<30 かつクリック0）・リンク切れ差し替え（区分B）・誤表示の修正（区分C）
-4. 凍結対象外でも、実施したら `data/measurement-holds.json` とメモリの両方に記帳が要るか（R3 の判定不能層でなければ要る）を判断する。商品を手動削除したら `data/deleted-products-history.jsonl` にも追記する
+4. 凍結していない記事への商品追加は、それ単独で主指標と成否基準を事前に決めない限り**新しい凍結を起こさず、台帳にも記帳しない**（2026-10-12 決定・CLAUDE.md §5.0.2 / §5.0.3 区分D）。区分C の是正など別の変更と同時に行ったときは、メモリ `project_measurement_holds` の「サイト横断の変更ログ」に起点日つきで注記するだけにする。商品を手動削除したら `data/deleted-products-history.jsonl` にも追記する
 
 ## Step 1: 既存ファイルの確認
 
@@ -46,6 +48,8 @@ MCP不可の場合は対象ファイルを Read して両方を確認する。
 | 確認項目 | 目的 |
 |---------|------|
 | `products[]` の現在の件数・最後の `rank` 番号 | 追加する rank の起点を決める |
+| 既存商品の `features` / `pros` / `cons` / `recommendedFor` | 追加する商品の説明を既存商品と書き分ける（Step 5） |
+| 本文の見出し・図解（`^#{2,3} ` と `<figure>` を grep）と、商品の種類・銘柄を挙げている箇所 | 追加する商品が本文の読み分け・図・場面別の説明と矛盾しないか確かめる（Step 6） |
 | `title` の文字列 | 「N選」「おすすめN選」等の件数表記があれば更新対象 |
 | `description` の文字列 | 件数に言及していれば更新対象 |
 | `updatedAt` | 今日の日付に更新する |
@@ -71,7 +75,7 @@ rg "'{category-slug}'" scripts/update-products.mjs
 
 ## RAG参照
 
-WebFetch前に以下を確認する。
+商品情報の収集（Step 2）の前に以下を確認する。
 
 **MCPが利用可能な場合**
 
@@ -81,7 +85,7 @@ match-decisions + 商品情報の同時取得:
 mcp__kura-content__get_product_context(articleFile, rank または name) を商品ごとに呼ぶ
 ```
 
-rank が不明な場合は name で指定可。WebFetch・カテゴリ適合チェックは省略しない。
+rank が不明な場合は name で指定可。商品情報の収集・カテゴリ適合チェックは省略しない。
 
 capacity-patterns の取得:
 
@@ -100,7 +104,7 @@ MCPが利用できない旨をユーザーへ簡潔に報告してから、既�
 
 **`data/rag/match-decisions.jsonl` が存在する場合**
 対象記事の過去照合判定を参照し、商品ごとの URL 変更履歴・照合の難易度傾向を把握する。
-WebFetch・カテゴリ適合チェックは省略しない。
+商品情報の収集・カテゴリ適合チェックは省略しない。
 
 ```bash
 rg '"articleFile":"src/content/articles/{slug}-comparison.md"' data/rag/match-decisions.jsonl
@@ -123,18 +127,19 @@ rg '"articleFile":"{確認したarticleFile}"' data/rag/capacity-patterns.jsonl
 
 ---
 
-## Step 2: 各URLをWebFetchして商品情報を取得
+## Step 2: 商品情報を集める（サブエージェント）
 
-追加商品URLを順に WebFetch し、各商品について確定する:
+共通手順 §1〜§2 に従い、追加商品のページとレビューをサブエージェント（sonnet）に集めさせる（依頼文は同 §6 の雛形）。**楽天を WebFetch で読まない**（文字化けで誤読する）。結果はスクラッチパッドの `research-<slug>.md` に置かせ、各商品について次を確定する:
 
 | 取得項目 | フィールド |
 |---------|-----------|
 | 正式商品名（楽天ページ上の表記） | `name` |
 | ブランド名 | `brand` |
 | 容量・枚数・個数（セット構成含む） | `capacity` |
-| 商品説明・特徴テキスト | `features` / `pros` / `cons` / `recommendedFor` の生成元 |
+| 商品区分・成分・使用方法・使えない条件 | `features` / `cons` の根拠 |
+| レビューの星1〜3と星5の傾向 | `pros` / `cons` / `recommendedFor` の根拠 |
 
-> `name` と `capacity` はスクリプトで上書きされない。推測せず必ずWebFetchで確認すること。
+> `name` と `capacity` はスクリプトで上書きされない。推測せず、収集ファイルの原文で確定すること。
 
 ---
 
@@ -238,6 +243,8 @@ rg '"articleFile":"{確認したarticleFile}"' data/rag/capacity-patterns.jsonl
 
 ### `features` / `pros` / `cons` 作成ルール
 
+- 書く事実は収集ファイルにあるものだけにする。商品ページで確かめられない仕様は書かない
+- **既存商品との違いが出るように書く。** Step 1 で読んだ既存商品の説明と並べ、どの商品にも当てはまる文（「毎日使いやすい」「コスパが良い」）や既存商品と同じ言い回しを使わない。「この商品を選ぶ理由」が `pros` と `recommendedFor` から読み取れるようにする
 - `features` / `pros` / `cons` / `recommendedFor` には、価格・容量・個数・本数・枚数・単価・レビュー件数・ランキング順位など、更新で変わりうる具体的な数字を書かない
 - 数値情報は `price` / `capacity` / `pricePerUnit` / `rating` / `reviewCount` の各フィールドに閉じ込める
 - 「安い」「大容量」「高評価」など、数値更新で崩れやすい表現は避ける。使う場合は「比較的」「選びやすい」など断定しない表現にする
@@ -271,17 +278,30 @@ rg -o 'item\.rakuten\.co\.jp(%2F|/)[^/&"%]+(%2F|/)[^/&"%]+' src/content/articles
 
 ---
 
-## Step 6: `title` / `description` / `updatedAt` の更新
+## Step 6: 本文との整合を確かめる
+
+追加する商品が、本文の読み分けの節・図解・場面別の説明（「〇タイプに分けられる」「〇〇と〇〇の2系統」など）と矛盾しないか、Step 1 で見た箇所と突き合わせる。
+
+- 矛盾や説明の抜けがあっても、**このスキルでは本文を書き換えない**（本文の変更は `kura-content-improve` の範囲）。箇所と内容を完了報告に書き、直すかをユーザーに聞く
+- ユーザーが直すと決めたら、本文の変更と同じコミットで `pnpm content:stamp` を実行する
+
+## Step 7: `title` / `description` / `updatedAt` の更新
 
 - **title**: 「○選」「おすすめ○選」など件数表記があれば新しい件数に更新（最大60文字）
 - **description**: 件数に言及していれば更新（最大160文字）
 - **updatedAt**: 今日の日付（`YYYY-MM-DD` 形式）に更新
 
+## Step 8: 事実の照合
+
+共通手順 §4 に従い、**説明を書いていない別のサブエージェント**（sonnet 以上）に、追加した商品のエントリ（`name` / `capacity` / `features` / `pros` / `cons` / `recommendedFor`）を収集ファイルと照らして確かめさせる。指摘を本体が直す。
+
 ---
 
-## Step 7: 完了後の案内
+## Step 9: 完了後の案内
 
-作業完了後、ユーザーに以下をそのまま伝える:
+`pnpm update-products` / `pnpm test` / `pnpm build` を実行する場合は、出力の確認をサブエージェント（haiku か sonnet）に任せ、要点だけ報告させてよい。どの担当にも共通手順 §1（本番を開かない／アフィリエイトリンクを踏まない／楽天を WebFetch で読まない）を伝える。
+
+作業完了後、事実照合で直した点と Step 6 の整合の結果を添えて、ユーザーに以下をそのまま伝える:
 
 ```
 追加完了。次の手順:
