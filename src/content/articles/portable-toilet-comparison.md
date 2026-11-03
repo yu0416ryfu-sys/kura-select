@@ -50,17 +50,17 @@ products:
     rating: 4.59
     reviewCount: 27
     features:
-      - "防災士監修で2〜4人世帯の備蓄を想定した構成"
-      - "凝固剤と排便袋がセットになった国産タイプ"
-      - "長期保存に対応し入れ替え頻度を抑えやすい"
+      - "使い捨てパンツ10枚とポケットティッシュが付いた女性向けのセット"
+      - "凝固剤・排便袋・処理袋はすべて日本製で、防災士監修"
+      - "凝固剤はアルミ包装で長期保管に対応"
     pros:
-      - "簡易トイレと持ち運べる携帯タイプがそろう"
-      - "家族向けの備蓄をまとめて用意しやすい"
-      - "国産で品質を重視する人に向く"
+      - "トイレとあわせて身の回りの品も1箱でそろう"
+      - "処理袋つきの2重防臭でにおいを抑えやすい"
+      - "便座にかぶせるだけで取り付けが簡単"
     cons:
-      - "セット構成のぶん収納スペースを取りやすい"
-      - "単身者にはやや多めの容量"
-    recommendedFor: "家族分の防災トイレをまとめて備えたい世帯"
+      - "携帯トイレは付かず、外出先用は別に用意が必要"
+      - "付属品のぶん、凝固剤と袋だけのセットより割高になりやすい"
+    recommendedFor: "女性の家族がいて、トイレと身の回りの品をまとめて備えたい世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t1uon.3rdw6c61.g00t1uon.3rdw7c8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhacono%2Fftl010200102%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhacono%2Fi%2F10000273%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hacono/cabinet/megami/ftl010200102-th1-n.jpg?_ex=128x128"
     genreId: "501137"
