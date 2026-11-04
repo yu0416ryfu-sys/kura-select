@@ -31,7 +31,7 @@ if (!existsSync(ARTICLES)) {
 
 const noindexSlugs = getNoindexArticleSlugs();
 
-// sitemap-0.xml などの本サイトマップに載っている記事 slug（一時サイトマップ sitemap-recrawl.xml は数えない）
+// sitemap-0.xml などの本サイトマップに載っている記事 slug
 const sitemapSlugs = new Set();
 for (const name of readdirSync(DIST)) {
   if (!/^sitemap-\d+\.xml$/.test(name)) continue;

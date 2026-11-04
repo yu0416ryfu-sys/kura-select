@@ -7,8 +7,6 @@ import {
   getPublishedArticleCountByCategory,
   getThinCategorySlugs,
   isThinCategoryUrl,
-  getThinCategoryRecrawlEntries,
-  NOINDEX_DEPLOYED_AT,
   ARTICLES_DIR,
   CATEGORIES_DIR,
 } from "../scripts/lib/thin-categories.mjs";
@@ -163,52 +161,6 @@ describe("isThinCategoryUrl", () => {
   });
 });
 
-describe("getThinCategoryRecrawlEntries", () => {
-  const entries = () => getThinCategoryRecrawlEntries(fxArticles, fxCategories);
-  const lastmodOf = (slug: string) => entries().find((e) => e.slug === slug)?.lastmod;
-
-  it("slug の集合が getThinCategorySlugs と一致する", () => {
-    const slugs = entries().map((e) => e.slug);
-    expect(new Set(slugs)).toEqual(getThinCategorySlugs(fxArticles, fxCategories));
-    expect(slugs.length).toBe(new Set(slugs).size);
-  });
-
-  it("slug 昇順で返す", () => {
-    const slugs = entries().map((e) => e.slug);
-    expect(slugs).toEqual([...slugs].sort());
-  });
-
-  it("記事0本のカテゴリはデプロイ時刻", () => {
-    expect(lastmodOf("empty")).toBe(NOINDEX_DEPLOYED_AT);
-  });
-
-  it("publishedAt の無い記事しか無ければデプロイ時刻", () => {
-    expect(lastmodOf("solo")).toBe(NOINDEX_DEPLOYED_AT);
-  });
-
-  it("デプロイ前・デプロイ当日に公開されたカテゴリはデプロイ時刻（時刻つき）", () => {
-    expect(lastmodOf("old-solo")).toBe("2026-08-14T06:00:00Z");
-    expect(lastmodOf("same-day")).toBe("2026-08-14T06:00:00Z");
-  });
-
-  it("デプロイ後に新設されたカテゴリはその publishedAt", () => {
-    expect(lastmodOf("new-solo")).toBe("2026-09-23");
-  });
-
-  it("draft 記事の publishedAt は使わない", () => {
-    expect(lastmodOf("draft-later")).toBe("2026-09-01");
-  });
-
-  it("ファイル ID と slug が異なっても slug で引ける", () => {
-    expect(lastmodOf("renamed-late-slug")).toBe("2026-09-20");
-    expect(lastmodOf("renamed-late")).toBeUndefined();
-  });
-
-  it("薄くないカテゴリは含まない", () => {
-    expect(lastmodOf("pair")).toBeUndefined();
-  });
-});
-
 // ---------------------------------------------------------------------------
 // 実データに対する検証（sitemap と noindex のドリフト検知）
 //
@@ -256,17 +208,5 @@ describe("実データ", () => {
 
     const counted = [...getPublishedArticleCountByCategory().values()].reduce((a, b) => a + b, 0);
     expect(counted).toBe(published.length);
-  });
-
-  it("一時サイトマップの行が薄いカテゴリと同数で、lastmod が日付か時刻つきでデプロイ時刻以降", () => {
-    const entries = getThinCategoryRecrawlEntries();
-    expect(entries.length).toBe(getThinCategorySlugs().size);
-    const deployed = new Date(NOINDEX_DEPLOYED_AT).getTime();
-    for (const { slug, lastmod } of entries) {
-      // slug をそのまま XML に埋め込むので、エスケープ不要な文字だけであることも確かめる
-      expect(slug).toMatch(/^[a-z0-9-]+$/);
-      expect(lastmod).toMatch(/^\d{4}-\d{2}-\d{2}(T06:00:00Z)?$/);
-      expect(new Date(lastmod).getTime()).toBeGreaterThanOrEqual(deployed);
-    }
   });
 });
