@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 560" width="600" height="560" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>断水時の携帯トイレの付け方</title>
+  <rect width="600" height="560" fill="#ffffff"/>
+  <text x="300" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">袋は2枚。下の袋で便器の水から守る</text>
+  <text x="300" y="68" text-anchor="middle" font-size="15" fill="#6b7280">便器を横から見た図（内閣府・千葉市の資料の手順から作成）</text>
+
+  <!-- 便器の断面 -->
+  <g>
+    <!-- 便座 -->
+    <rect x="70" y="128" width="200" height="14" rx="5" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+    <!-- 便器 -->
+    <path d="M80 142 L260 142 L238 262 Q170 300 102 262 Z" fill="#f9fafb" stroke="#6b7280" stroke-width="3"/>
+    <!-- 便器の水 -->
+    <path d="M112 248 Q170 274 228 248 L232 228 L108 228 Z" fill="#dbeafe"/>
+    <!-- 下の袋（ポリ袋）: 便座の下で便器を覆う -->
+    <path d="M74 140 L90 150 L120 214 Q170 236 220 214 L250 150 L266 140" fill="none" stroke="#2f6fb5" stroke-width="3" stroke-dasharray="7 4"/>
+    <!-- 上の袋（排便袋）: 便座の上からかぶせる -->
+    <path d="M62 122 L66 132 L74 124 L272 124 L274 132 L278 122" fill="none" stroke="#111827" stroke-width="3"/>
+    <path d="M100 126 L128 196 Q170 214 212 196 L240 126" fill="#374151" fill-opacity="0.18" stroke="#111827" stroke-width="3"/>
+    <!-- 凝固剤 -->
+    <circle cx="160" cy="190" r="3" fill="#2f8a57"/><circle cx="172" cy="196" r="3" fill="#2f8a57"/><circle cx="182" cy="188" r="3" fill="#2f8a57"/><circle cx="168" cy="182" r="3" fill="#2f8a57"/>
+  </g>
+  <g font-size="14" fill="#374151">
+    <line x1="232" y1="160" x2="300" y2="104" stroke="#111827" stroke-width="1.5"/>
+    <text x="304" y="100">上: 排便袋（便座の上から）</text>
+    <line x1="246" y1="184" x2="300" y2="190" stroke="#2f6fb5" stroke-width="1.5"/>
+    <text x="304" y="194" fill="#2f6fb5">下: ポリ袋（便座を上げて便器に）</text>
+    <line x1="186" y1="190" x2="300" y2="150" stroke="#2f8a57" stroke-width="1.5"/>
+    <text x="304" y="154" fill="#2f8a57">凝固剤は袋の中にだけ入れる</text>
+    <line x1="226" y1="252" x2="300" y2="240" stroke="#93c5fd" stroke-width="1.5"/>
+    <text x="304" y="244" fill="#1d4ed8">便器の水には触れさせない</text>
+  </g>
+
+  <!-- 手順 -->
+  <g font-size="16" fill="#1f2937">
+    <rect x="30" y="300" width="540" height="232" rx="10" fill="#f9fafb" stroke="#e5e7eb" stroke-width="2"/>
+    <g>
+      <circle cx="62" cy="334" r="14" fill="#2f6fb5"/><text x="62" y="340" text-anchor="middle" fill="#ffffff" font-weight="700">1</text>
+      <text x="88" y="340">便座を上げ、便器にポリ袋をかぶせる</text>
+    </g>
+    <g>
+      <circle cx="62" cy="378" r="14" fill="#2f6fb5"/><text x="62" y="384" text-anchor="middle" fill="#ffffff" font-weight="700">2</text>
+      <text x="88" y="384">便座を下ろし、上から排便袋をかぶせる</text>
+    </g>
+    <g>
+      <circle cx="62" cy="422" r="14" fill="#2f6fb5"/><text x="62" y="428" text-anchor="middle" fill="#ffffff" font-weight="700">3</text>
+      <text x="88" y="428">用を足し、凝固剤を入れる（入れる順は製品の表示どおり）</text>
+    </g>
+    <g>
+      <circle cx="62" cy="466" r="14" fill="#2f6fb5"/><text x="62" y="472" text-anchor="middle" fill="#ffffff" font-weight="700">4</text>
+      <text x="88" y="472">排便袋だけを外し、空気を抜いて口を結ぶ</text>
+    </g>
+    <g>
+      <circle cx="62" cy="510" r="14" fill="#2f6fb5"/><text x="62" y="516" text-anchor="middle" fill="#ffffff" font-weight="700">5</text>
+      <text x="88" y="516">密閉できる容器にしまい、収集の再開まで保管する</text>
+    </g>
+  </g>
+</svg>
