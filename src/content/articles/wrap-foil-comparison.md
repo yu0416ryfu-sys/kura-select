@@ -270,8 +270,8 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j662098/"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
-        price: 1232
+        updatedAt: "2026-11-04"
+        price: 1416
         rating: 4.69
         reviewCount: 676
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_j662098"

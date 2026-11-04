@@ -30,6 +30,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987244600059%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10083919%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/60/4987244600059.jpg?_ex=128x128"
     genreId: "401171"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j303146/"
+        matchStatus: "pending"
+        updatedAt: "2026-11-03"
+        price: 4460
+        rating: 4.65
+        reviewCount: 223
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_j303146"
+        available: true
   - rank: 2
     name: "森永 はぐくみ エコらくパック つめかえ用 400g×2袋"
     brand: "森永乳業"
@@ -53,6 +64,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4902720109109%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10048378%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/59/4902720109109.jpg?_ex=128x128"
     genreId: "401171"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j304388/"
+        matchStatus: "pending"
+        updatedAt: "2026-11-03"
+        price: 4970
+        rating: 4.82
+        reviewCount: 418
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_j304388"
+        available: true
   - rank: 3
     name: "森永 はぐくみ 大缶 800g×2缶"
     brand: "森永乳業"
@@ -76,6 +98,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4902720109123%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10055362%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202512_10/4902720109123.jpg?_ex=128x128"
     genreId: "401171"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902720109123.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-03"
+        price: 4980
+        rating: 4.69
+        reviewCount: 124
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902720109123"
+        available: true
   - rank: 4
     name: "雪印メグミルク ぴゅあ 820g×2缶"
     brand: "雪印ビーンスターク"
@@ -122,6 +155,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987386071243%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10125925%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202407_5/4987386071243.jpg?_ex=128x128"
     genreId: "401171"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987386071243.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-03"
+        price: 6480
+        rating: 4.81
+        reviewCount: 124
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987386071243"
+        available: true
   - rank: 6
     name: "ビーンスターク すこやかM1 800g×2缶"
     brand: "雪印ビーンスターク"
@@ -145,6 +189,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4987493000785%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10054391%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/785/4987493000785.jpg?_ex=128x128"
     genreId: "401171"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4987493000785-73-30000285.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-03"
+        price: 6580
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4987493000785-73-30000285"
+        available: true
   - rank: 7
     name: "明治 ほほえみ 780g×2缶パック"
     brand: "明治"
@@ -167,6 +222,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.3rdw6eed.g00s0vmn.3rdw7144/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4902705129566%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10175119%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/sugito/sugito3/4902705129566_00.jpg?_ex=128x128"
     genreId: "401171"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902705129566-73-30000285.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-03"
+        price: 6380
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902705129566-73-30000285"
+        available: true
   - rank: 8
     name: "森永 E赤ちゃん 大缶 800g"
     brand: "森永乳業"
@@ -190,6 +256,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tngpn.3rdw6074.g00tngpn.3rdw72be/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorinagamilk%2Febaby_kan_1set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorinagamilk%2Fi%2F10000193%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/morinagamilk/cabinet/item/milk/ebaby/ebaby_kan_1set_00_2.jpg?_ex=128x128"
     genreId: "401171"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmorinaga-milk%2Fppeakan0ba00no04.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-03"
+        price: 17531
+        rating: 4.85
+        reviewCount: 39
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/morinaga-milk_ppeakan0ba00no04"
+        available: true
 tags:
   - "粉ミルク おすすめ"
   - "粉ミルク 比較"

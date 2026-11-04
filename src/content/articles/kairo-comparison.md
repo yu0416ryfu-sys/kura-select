@@ -53,6 +53,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pxfkn.3rdw6005.g00pxfkn.3rdw7ac5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkoex%2F1197-4987067829705x8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkoex%2Fi%2F10201605%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkoex/cabinet/1197/5db7672264b2365084_1.jpg?_ex=128x128"
     genreId: "506417"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1197-4987067829705x8.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-04"
+        price: 5573
+        rating: 4.38
+        reviewCount: 8
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-ex_1197-4987067829705x8"
+        available: true
   - rank: 3
     name: "ホッカイロ ぬくぬく日和 貼らないレギュラー 30個入×8個"
     brand: "興和"
@@ -81,7 +92,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1197-4987067829309x8.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-04"
         price: 5573
         rating: 5
         reviewCount: 8
@@ -113,13 +124,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej35309/"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsekichu%2F4582228253988.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
-        price: 2889
+        updatedAt: "2026-11-04"
+        price: 2780
         rating: 0
-        reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ej35309"
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sekichu_4582228253988"
         available: true
   - rank: 5
     name: "アイリスオーヤマ ぽかぽか家族 貼るカイロ レギュラー 120枚"
@@ -147,13 +158,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej35309/"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsekichu%2F4582228253988.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
-        price: 2889
+        updatedAt: "2026-11-04"
+        price: 2780
         rating: 0
-        reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ej35309"
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sekichu_4582228253988"
         available: true
   - rank: 6
     name: "アイリスオーヤマ ぽかぽか家族 貼らないカイロ レギュラー 120枚"
@@ -217,7 +228,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F4970520461383set.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-04"
         price: 6480
         rating: 4.91
         reviewCount: 11

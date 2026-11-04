@@ -90,10 +90,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987072029572.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-19"
+        updatedAt: "2026-11-04"
         price: 562
-        rating: 4.8
-        reviewCount: 25
+        rating: 4.81
+        reviewCount: 26
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987072029572"
         available: true
     genreId: "208216"
@@ -283,7 +283,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmymouthpeace%2F98.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-11-04"
         price: 3780
         rating: 4.36
         reviewCount: 11

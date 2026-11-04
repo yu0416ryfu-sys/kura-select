@@ -4,7 +4,7 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-11-03"
+updatedAt: "2026-11-04"
 draft: false
 products:
   - rank: 1
@@ -150,8 +150,8 @@ products:
     price: 2484
     capacity: "3g×10個×3袋（30個）"
     pricePerUnit: "約83円/個"
-    rating: 4.87
-    reviewCount: 55
+    rating: 4.88
+    reviewCount: 56
     features:
       - "2026年度産新茶使用の静岡緑茶"
       - "三角ティーバッグ形状・カテキン・EGCg含有"

@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-04"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -149,7 +149,7 @@ products:
     capacity: "1550mL×5個（7750mL）"
     pricePerUnit: "約0.64円/mL"
     rating: 4.76
-    reviewCount: 921
+    reviewCount: 922
     features:
       - "除菌もできる濃縮タイプの食器用洗剤"
       - "詰め替え用の超ジャンボサイズ"
@@ -293,9 +293,9 @@ products:
   - rank: 10
     name: "IVORY ウルトラアイボリー 食器用洗剤 クラシック 709mL"
     brand: "IVORY"
-    price: 1005
+    price: 1095
     capacity: "709mL"
-    pricePerUnit: "約1.4円/mL"
+    pricePerUnit: "約1.5円/mL"
     rating: 5
     reviewCount: 1
     features:
@@ -310,8 +310,8 @@ products:
       - "香りの好みが分かれやすい"
       - "国内定番品と比べて詰め替え運用しにくい"
     recommendedFor: "海外ブランドの食器用洗剤を使ってみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F0037000255741%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12410718%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/2022a/37000255741.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sargn.3rdw6a7b.g00sargn.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyrepi-2%2F0037000255741%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmyrepi-2%2Fi%2F10123997%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/myrepi-2/cabinet/2023b/0037000255741.jpg?_ex=128x128"
     genreId: "216012"
     offers:
       - provider: "yahoo"

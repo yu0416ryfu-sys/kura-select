@@ -171,7 +171,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3112833/"
         matchStatus: "matched"
-        updatedAt: "2026-10-27"
+        updatedAt: "2026-11-04"
         price: 4180
         rating: 4.81
         reviewCount: 73
@@ -203,13 +203,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3242257/"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F0693611.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-27"
-        price: 535
-        rating: 4.65
-        reviewCount: 210
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_3242257"
+        updatedAt: "2026-11-04"
+        price: 657
+        rating: 3.8
+        reviewCount: 5
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_0693611"
         available: true
   - rank: 7
     name: "キレイキレイ 薬用泡ハンドソープ 詰替用"
@@ -259,13 +259,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/u864924/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/2787233/"
         matchStatus: "pending"
-        updatedAt: "2026-10-27"
-        price: 1432
-        rating: 4.71
-        reviewCount: 24
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_u864924"
+        updatedAt: "2026-11-04"
+        price: 720
+        rating: 4.69
+        reviewCount: 95
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_2787233"
         available: true
     genreId: "304758"
 tags:

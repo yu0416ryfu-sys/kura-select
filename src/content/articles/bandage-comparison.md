@@ -159,8 +159,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987059002680.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-25"
+        matchStatus: "matched"
+        updatedAt: "2026-11-03"
         price: 778
         rating: 5
         reviewCount: 7
@@ -193,8 +193,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/wxj9152/"
-        matchStatus: "pending"
-        updatedAt: "2026-10-25"
+        matchStatus: "matched"
+        updatedAt: "2026-11-03"
         price: 1071
         rating: 0
         reviewCount: 0
@@ -227,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10092408.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-25"
+        updatedAt: "2026-11-03"
         price: 1022
         rating: 4.93
         reviewCount: 98
@@ -260,13 +260,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3185722/"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987167044763x2.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-25"
-        price: 747
-        rating: 4.5
-        reviewCount: 6
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_3185722"
+        updatedAt: "2026-11-03"
+        price: 545
+        rating: 4.29
+        reviewCount: 7
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987167044763x2"
         available: true
   - rank: 9
     name: "白十字 ファミリーケア ワンタッチパット Mサイズ 22枚"
@@ -295,7 +295,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987603464520.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-25"
+        updatedAt: "2026-11-03"
         price: 580
         rating: 0
         reviewCount: 0

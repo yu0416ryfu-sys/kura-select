@@ -30,6 +30,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2F014000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10421459%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/paper/paper02/014000_1n2.jpg?_ex=128x128"
     genreId: "303145"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fofficetrust%2F014000.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-04"
+        price: 3979
+        rating: 4.68
+        reviewCount: 1891
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/officetrust_014000"
+        available: true
   - rank: 2
     name: "APP リサイクルコピー用紙 A4 2500枚 500枚×5冊 PPR101"
     brand: "APP"
@@ -53,6 +64,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t3ztn.3rdw6b30.g00t3ztn.3rdw7dc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F7263846%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10155208%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/10063456/7263846.jpg?_ex=128x128"
     genreId: "303145"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7263846.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-04"
+        price: 2720
+        rating: 4.54
+        reviewCount: 13
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7263846"
+        available: true
   - rank: 3
     name: "カウコレ プレミアム スタンダード高白色 A4 500枚×10冊"
     brand: "カウネット"
@@ -76,6 +98,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qsftn.3rdw6d43.g00qsftn.3rdw7010/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaumall%2F50122592%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaumall%2Fi%2F10027585%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kaumall/cabinet/500_378/a8280931sl.jpg?_ex=128x128"
     genreId: "303145"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaumall%2F50122592.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-04"
+        price: 4510
+        rating: 4.4
+        reviewCount: 55
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaumall_50122592"
+        available: true
   - rank: 4
     name: "Forestway 高白色コピー用紙EX A4 5000枚 500枚×10冊"
     brand: "Forestway"
@@ -99,6 +132,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq8tn.3rdw6841.g00qq8tn.3rdw7945/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocodecow%2F701826%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocodecow%2Fi%2F10049893%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/286/701826.jpg?_ex=128x128"
     genreId: "303145"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F550592.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-04"
+        price: 4598
+        rating: 4.68
+        reviewCount: 3621
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_550592"
+        available: true
   - rank: 5
     name: "Forestway 国産コピー用紙 JPN A4 5000枚 500枚×10冊"
     brand: "Forestway"
@@ -122,6 +166,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq8tn.3rdw6841.g00qq8tn.3rdw7945/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocodecow%2Fr45260%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocodecow%2Fi%2F10146376%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/168/197576.jpg?_ex=128x128"
     genreId: "303145"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fy40138.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-04"
+        price: 4730
+        rating: 4.65
+        reviewCount: 110
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_y40138"
+        available: true
   - rank: 6
     name: "ペーパーワン コピー用紙 A4 2500枚 500枚×5冊 高白色"
     brand: "PaperOne"
@@ -145,6 +200,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2F014001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10423060%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/paper/paper02/014001_1n2.jpg?_ex=128x128"
     genreId: "303145"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fofficetrust%2F014001.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-04"
+        price: 2286
+        rating: 4.56
+        reviewCount: 266
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/officetrust_014001"
+        available: true
   - rank: 7
     name: "Blanco コピー用紙 A4 5000枚 500枚×10冊"
     brand: "Blanco"
@@ -168,6 +234,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qea1n.3rdw6a1a.g00qea1n.3rdw7caf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbungudo%2F9809838%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbungudo%2Fi%2F10006889%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bungudo/cabinet/nikuduke14/7184320ranksa.jpg?_ex=128x128"
     genreId: "303145"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9122182.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-04"
+        price: 5020
+        rating: 4.59
+        reviewCount: 71
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9122182"
+        available: true
   - rank: 8
     name: "スーパーエコー コピー用紙 マルチ対応 A4サイズ 1箱 5000枚 500枚×10冊"
     brand: "キラット"
@@ -191,6 +268,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2F011082%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10000981%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/paper/paper01/011082_1.jpg?_ex=128x128"
     genreId: "303145"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fofficetrust%2F9i0003.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-04"
+        price: 5020
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/officetrust_9i0003"
+        available: true
   - rank: 9
     name: "コピー用紙 ホワイトエコペーパー A4サイズ 1冊 500枚 高白色"
     brand: "キラット"
@@ -214,6 +302,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2F1m4460%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10013905%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/paper/paper01/1m4460_1.jpg?_ex=128x128"
     genreId: "303145"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkilat%2F9i2113.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-04"
+        price: 498
+        rating: 4.28
+        reviewCount: 39
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_9i2113"
+        available: true
   - rank: 10
     name: "王子製紙 リサイクルコピー用紙 Newやまゆり100 A4 500枚×5冊"
     brand: "王子製紙"
@@ -237,6 +336,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq8tn.3rdw6841.g00qq8tn.3rdw7945/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocodecow%2F704935%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocodecow%2Fi%2F10057607%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/334/669281.jpg?_ex=128x128"
     genreId: "303145"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F558458.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-04"
+        price: 2970
+        rating: 4.36
+        reviewCount: 11
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_558458"
+        available: true
 tags:
   - "コピー用紙 おすすめ"
   - "コピー用紙 A4 安い"

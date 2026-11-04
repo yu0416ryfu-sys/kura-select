@@ -4,17 +4,17 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-03"
+updatedAt: "2026-11-04"
 draft: false
 products:
   - rank: 1
     name: "ロイヤルカナン インドア 室内で生活する成猫用 10kg"
     brand: "ロイヤルカナン"
-    price: 13200
+    price: 12990
     capacity: "10kg"
     pricePerUnit: "約1.3円/g"
-    rating: 4.64
-    reviewCount: 399
+    rating: 4.71
+    reviewCount: 38
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"
@@ -27,19 +27,19 @@ products:
       - "サイズや対応条件は購入前に確認したい"
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00re8pn.3rdw67ff.g00re8pn.3rdw7a5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffamilypet%2F52905079%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffamilypet%2Fi%2F10001224%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/familypet/cabinet/asd/item/royalcanin/3182550706940.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qod0n.3rdw6045.g00qod0n.3rdw7a49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhigopet%2F02706940%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhigopet%2Fi%2F10053228%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/higopet/cabinet/02/02706940.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F75320.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
-        price: 13999
+        updatedAt: "2026-11-04"
+        price: 15657
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_75320"
         available: true
-        rating: 4.73
-        reviewCount: 750
+        rating: 4.74
+        reviewCount: 752
     genreId: "565724"
   - rank: 2
     name: "ペットライブラリー ピュアボウル グレインフリー 7歳以上 800g"
@@ -101,12 +101,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687270.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-11-04"
         price: 4006
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687270"
         available: true
         rating: 4.75
-        reviewCount: 881
+        reviewCount: 883
     genreId: "565724"
     pricePerUnit: "約2.0円/g"
   - rank: 4
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftierheim-ps%2Fc-2799-800-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-11-04"
         price: 6000
         rating: 0
         reviewCount: 0
@@ -146,9 +146,9 @@ products:
   - rank: 5
     name: "キアオラ キャットフード カンガルー 2.7kg"
     brand: "キアオラ"
-    price: 10670
+    price: 11528
     capacity: "2.7kg"
-    pricePerUnit: "約4.0円/g"
+    pricePerUnit: "約4.3円/g"
     rating: 4.86
     reviewCount: 7
     features:
@@ -170,8 +170,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetoukoku%2F42.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
-        price: 10670
+        updatedAt: "2026-11-04"
+        price: 11528
         rating: 4.86
         reviewCount: 21
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petoukoku_42"
@@ -227,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4902201210980.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-11-04"
         price: 3207
         rating: 0
         reviewCount: 0
@@ -258,13 +258,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffamilypet%2F52905133.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2Fw-111736-00-00.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-15"
-        price: 5280
-        rating: 4.6
-        reviewCount: 93
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/familypet_52905133"
+        updatedAt: "2026-11-04"
+        price: 5489
+        rating: 4.8
+        reviewCount: 54
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_w-111736-00-00"
         available: true
     priceMax: 21598
     genreId: "565724"
@@ -308,7 +308,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.71
-    reviewCount: 1055
+    reviewCount: 1058
     features:
       - "猫向けのドライフードとして使いやすい設計"
       - "年齢や生活環境に合わせて選びやすいライン"

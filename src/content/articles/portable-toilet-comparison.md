@@ -1,10 +1,10 @@
 ---
-title: "簡易トイレおすすめ9選【2026年】防災・凝固剤タイプを1回単価で比較"
-description: "防災・災害備蓄用の簡易トイレおすすめ9選を1回あたり単価で比較。凝固剤タイプの選び方、保存年数や排便袋の有無、家族人数×日数で必要な回数の考え方まで、備蓄でコスパよく選ぶポイントを解説します。"
+title: "簡易トイレおすすめ8選【2026年】防災・凝固剤タイプを1回単価で比較"
+description: "防災・災害備蓄用の簡易トイレおすすめ8選を1回あたり単価で比較。凝固剤タイプの選び方、保存年数や排便袋の有無、家族人数×日数で必要な回数の考え方まで、備蓄でコスパよく選ぶポイントを解説します。"
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-11-03"
+updatedAt: "2026-11-04"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "100回分"
     pricePerUnit: "約40円/回"
     rating: 4.43
-    reviewCount: 260
+    reviewCount: 261
     features:
       - "1回分ずつ個包装された凝固剤と汚物袋のセット"
       - "短時間で固まる吸水ポリマー処方"
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fozoneassocia%2Ftoilet100.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-04"
         price: 3980
         rating: 4.25
         reviewCount: 208
@@ -42,36 +42,13 @@ products:
         available: true
     genreId: "501137"
   - rank: 2
-    name: "トイレの女神 PREMIUM 簡易トイレ 防災セット 2〜4人世帯向け"
-    brand: "HACONO"
-    price: 7980
-    capacity: "108回分（簡易100回＋携帯8回）"
-    pricePerUnit: "約74円/回"
-    rating: 4.59
-    reviewCount: 27
-    features:
-      - "使い捨てパンツ10枚とポケットティッシュが付いた女性向けのセット"
-      - "凝固剤・排便袋・処理袋はすべて日本製で、防災士監修"
-      - "凝固剤はアルミ包装で長期保管に対応"
-    pros:
-      - "トイレとあわせて身の回りの品も1箱でそろう"
-      - "処理袋つきの2重防臭でにおいを抑えやすい"
-      - "便座にかぶせるだけで取り付けが簡単"
-    cons:
-      - "携帯トイレは付かず、外出先用は別に用意が必要"
-      - "付属品のぶん、凝固剤と袋だけのセットより割高になりやすい"
-    recommendedFor: "女性の家族がいて、トイレと身の回りの品をまとめて備えたい世帯"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t1uon.3rdw6c61.g00t1uon.3rdw7c8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhacono%2Fftl010200102%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhacono%2Fi%2F10000273%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hacono/cabinet/megami/ftl010200102-th1-n.jpg?_ex=128x128"
-    genreId: "501137"
-  - rank: 3
     name: "非常用トイレ 防災セット トイレットペーパー付き"
     brand: "NICE SHOP"
     price: 3960
     capacity: "50回分"
     pricePerUnit: "約79円/回"
     rating: 4.4
-    reviewCount: 1689
+    reviewCount: 1690
     features:
       - "凝固剤入り簡易トイレにトイレットペーパー・カバー・処理袋を同梱"
       - "備蓄用ポリ袋タイプの構成"
@@ -87,13 +64,47 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rteun.3rdw658d.g00rteun.3rdw7974/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnice-shop%2F12-05000002_ha%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnice-shop%2Fi%2F10000198%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nice-shop/cabinet/additional/11868220/11868221/imgrc0108424299.jpg?_ex=128x128"
     genreId: "501137"
+  - rank: 3
+    name: "トイレの女神 PREMIUM 簡易トイレ 女性用 100回分"
+    brand: "HACONO"
+    price: 7980
+    capacity: "100回分"
+    pricePerUnit: "約80円/回"
+    rating: 4.03
+    reviewCount: 33
+    features:
+      - "使い捨てパンツ10枚とポケットティッシュが付いた女性向けのセット"
+      - "凝固剤・排便袋・処理袋はすべて日本製で、防災士監修"
+      - "凝固剤はアルミ包装で長期保管に対応"
+    pros:
+      - "トイレとあわせて身の回りの品も1箱でそろう"
+      - "処理袋つきの2重防臭でにおいを抑えやすい"
+      - "便座にかぶせるだけで取り付けが簡単"
+    cons:
+      - "携帯トイレは付かず、外出先用は別に用意が必要"
+      - "付属品のぶん、凝固剤と袋だけのセットより割高になりやすい"
+    recommendedFor: "女性の家族がいて、トイレと身の回りの品をまとめて備えたい世帯"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t1uon.3rdw6c61.g00t1uon.3rdw7c8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhacono%2Fftl010210105%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhacono%2Fi%2F10000279%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hacono/cabinet/megami-g/gmegami-100-thum1-n.jpg?_ex=128x128"
+    genreId: "501137"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhacono%2Fftl010210102.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-04"
+        price: 7980
+        rating: 3.88
+        reviewCount: 24
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hacono_ftl010210102"
+        available: true
   - rank: 4
     name: "簡易トイレ 半永久保存 非常用トイレセット"
     brand: "RONE_SHOP"
     price: 1280
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7467
+    reviewCount: 7509
     features:
       - "本体50回分に凝固剤10回分を加えた構成"
       - "防漏設計のポリエチレン素材を使用"
@@ -110,6 +121,17 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r1-shop/cabinet/09975530/09975535/csdgai/zt.jpg?_ex=128x128"
     priceMax: 25900
     genreId: "501137"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworldlinkshop%2Fs-ngj-01-bl.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-04"
+        price: 5200
+        rating: 4.4
+        reviewCount: 25
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/worldlinkshop_s-ngj-01-bl"
+        available: true
   - rank: 5
     name: "簡易トイレ 防災士監修 凝固剤 消臭 セット"
     brand: "Taigu"
@@ -134,13 +156,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flucifer%2Fp21615115e6ff.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fulimalie%2F99jun24yjcs02.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-27"
-        price: 2980
-        rating: 4.5
-        reviewCount: 4
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lucifer_p21615115e6ff"
+        updatedAt: "2026-11-04"
+        price: 4980
+        rating: 4.56
+        reviewCount: 105
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ulimalie_99jun24yjcs02"
         available: true
     priceMax: 23750
     genreId: "501137"
@@ -150,7 +172,7 @@ products:
     price: 1580
     capacity: "50回分"
     rating: 4.6
-    reviewCount: 750
+    reviewCount: 751
     features:
       - "凝固剤・ポリエチレン袋・消臭液・吸収シートをまとめた構成"
       - "組み立てが簡単な設計"
@@ -170,10 +192,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoco-yasashisaya%2Fsaimol01.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-27"
-        price: 3780
+        updatedAt: "2026-11-04"
+        price: 3980
         rating: 4.49
-        reviewCount: 785
+        reviewCount: 792
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coco-yasashisaya_saimol01"
         available: true
     priceMax: 27800
@@ -202,46 +224,12 @@ products:
     priceMax: 5000
     genreId: "501137"
   - rank: 8
-    name: "非常用トイレ 100回分 半永久保存 防災トイレ"
-    brand: "Life Reach"
-    price: 7999
-    capacity: "100回分"
-    rating: 4.59
-    reviewCount: 1353
-    features:
-      - "凝固剤と汚物袋がそろった災害用セット"
-      - "超長期保存に対応し入れ替え頻度を抑えやすい"
-      - "個包装で必要な分だけ取り出しやすい"
-    pros:
-      - "100回分でまとまった備蓄を確保しやすい"
-      - "長期保存で買い替えの手間が少ない"
-      - "断水・停電時の在宅避難に使いやすい"
-    cons:
-      - "便座は付属せず既存トイレや簡易便座と併用する"
-      - "凝固スピードや使用感は環境で差が出る"
-    recommendedFor: "長期保存でまとめて備蓄したい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tivgn.3rdw607f.g00tivgn.3rdw7cf0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupplement-life%2F100pol1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupplement-life%2Fi%2F10000035%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/supplement-life/cabinet/plm1/a100.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsupplement-life%2Fps-100.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-27"
-        price: 4999
-        rating: 4.54
-        reviewCount: 629
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/supplement-life_ps-100"
-        available: true
-    priceMax: 55555
-    genreId: "501137"
-  - rank: 9
     name: "簡易トイレ 防災士監修 20回分 コンパクトセット"
     brand: ""
     price: 1580
     capacity: "20回分"
     rating: 4.51
-    reviewCount: 7271
+    reviewCount: 7273
     features:
       - "凝固剤とポリエチレン袋がそろったコンパクト構成"
       - "A4サイズに収まる硬紙パッケージ"

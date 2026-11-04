@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-11-03"
+updatedAt: "2026-11-04"
 draft: false
 products:
   - rank: 1
@@ -45,9 +45,9 @@ products:
   - rank: 2
     name: "マドンナリリ ヘアオイル 100mL"
     brand: "MADONNA LILI"
-    price: 3042
+    price: 2576
     capacity: "100mL"
-    pricePerUnit: "約30円/mL"
+    pricePerUnit: "約26円/mL"
     rating: 0
     reviewCount: 0
     features:
@@ -131,7 +131,7 @@ products:
     price: 2959
     capacity: "150mL"
     rating: 4.56
-    reviewCount: 1136
+    reviewCount: 1137
     features:
       - "全成分はゴマ油・サフラワー油・ヒマワリ種子油・ホホバ種子油など植物オイルが中心で、シリコーンの記載はない"
       - "タオルドライ後のアウトバス、乾いた髪の仕上げ、手や体の保湿に使える"
@@ -190,7 +190,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4599
+    reviewCount: 4602
     features:
       - "ブランシュ・シトラスベール・ジャスミンドレなど、複数の香りから選べる"
       - "ヘアのほか、手・爪・体やバスオイルとしても使えるマルチユースオイル"
@@ -247,8 +247,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6016812.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
-        price: 2570
+        updatedAt: "2026-11-04"
+        price: 2563
         rating: 4.44
         reviewCount: 16
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6016812"
