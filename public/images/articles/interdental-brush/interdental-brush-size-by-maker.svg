@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" width="600" height="440" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>同じサイズ表記でも、同じ太さとは限らない</title>
+  <style>text{paint-order:stroke;stroke:#ffffff;stroke-width:4px;stroke-linejoin:round}</style>
+  <defs><linearGradient id="fade" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#dbeafe" stop-opacity="0"/><stop offset="0.6" stop-color="#dbeafe" stop-opacity="1"/></linearGradient></defs>
+  <rect width="600" height="440" fill="#ffffff"/>
+  <text x="300" y="36" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">同じ記号でも、同じ太さとは限らない</text>
+  <text x="300" y="60" text-anchor="middle" font-size="13" fill="#6b7280">各社が公開している最小通過径（mm）を同じ目盛りに並べた図</text>
+
+  <!-- 0.8mm の強調線 -->
+  <line x1="232.7" y1="84" x2="232.7" y2="330" stroke="#b45309" stroke-width="2" stroke-dasharray="6 4"/>
+  <rect x="160" y="78" width="146" height="22" rx="4" fill="#fff7ed" stroke="#b45309" stroke-width="1"/>
+  <text x="232.7" y="94" text-anchor="middle" font-size="13" font-weight="700" fill="#b45309">0.8mm のブラシ</text>
+
+  <!-- デンタルプロ -->
+  <text x="20" y="124" font-size="14" font-weight="700" fill="#1f2937">デンタルプロ（1つの値で表示）</text>
+  <line x1="110" y1="170" x2="560" y2="170" stroke="#d1d5db" stroke-width="2"/>
+  <g font-size="13" text-anchor="middle" fill="#1f2937">
+    <circle cx="150.9" cy="170" r="7" fill="#2f6fb5"/>
+    <text x="150.9" y="152" font-weight="700">SSSS</text>
+    <text x="150.9" y="194" fill="#374151">0.6</text>
+    <circle cx="191.8" cy="170" r="7" fill="#2f6fb5"/>
+    <text x="191.8" y="152" font-weight="700">SSS</text>
+    <text x="191.8" y="194" fill="#374151">0.7</text>
+    <circle cx="232.7" cy="170" r="8" fill="#b45309"/>
+    <text x="232.7" y="152" font-weight="700" fill="#b45309">SS</text>
+    <text x="232.7" y="194" fill="#b45309">0.8</text>
+    <circle cx="314.5" cy="170" r="7" fill="#2f6fb5"/>
+    <text x="314.5" y="152" font-weight="700">S</text>
+    <text x="314.5" y="194" fill="#374151">1.0</text>
+    <circle cx="396.4" cy="170" r="7" fill="#2f6fb5"/>
+    <text x="396.4" y="152" font-weight="700">M</text>
+    <text x="396.4" y="194" fill="#374151">1.2</text>
+    <circle cx="519.1" cy="170" r="7" fill="#2f6fb5"/>
+    <text x="519.1" y="152" font-weight="700">L</text>
+    <text x="519.1" y="194" fill="#374151">1.5</text>
+  </g>
+
+  <!-- ライオン（歯間用ブラシ） -->
+  <text x="20" y="232" font-size="14" font-weight="700" fill="#1f2937">ライオン システマ歯間用ブラシ（幅で表示。SSS は下限なし）</text>
+  <g font-size="13" text-anchor="middle">
+    <rect x="110" y="250" width="122.7" height="34" fill="url(#fade)"/>
+    <path d="M150 250 H232.7 V284 H150" fill="none" stroke="#2f6fb5" stroke-width="1.5"/>
+    <text x="171.4" y="272" font-weight="700" fill="#1f2937">SSS</text>
+    <text x="171.4" y="304" fill="#374151">〜0.8</text>
+    <rect x="232.7" y="250" width="81.8" height="34" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+    <text x="273.6" y="272" font-weight="700" fill="#b45309">SS</text>
+    <text x="273.6" y="304" fill="#b45309">0.8〜1.0</text>
+    <rect x="314.5" y="250" width="81.9" height="34" fill="#dbeafe" stroke="#2f6fb5" stroke-width="1.5"/>
+    <text x="355.5" y="272" font-weight="700" fill="#1f2937">S</text>
+    <text x="355.5" y="304" fill="#374151">1.0〜1.2</text>
+    <rect x="396.4" y="250" width="122.7" height="34" fill="#dbeafe" stroke="#2f6fb5" stroke-width="1.5"/>
+    <text x="457.8" y="272" font-weight="700" fill="#1f2937">M</text>
+    <text x="457.8" y="304" fill="#374151">1.2〜1.5</text>
+  </g>
+
+  <!-- 目盛り -->
+  <line x1="110" y1="340" x2="560" y2="340" stroke="#374151" stroke-width="2"/>
+  <g font-size="12" text-anchor="middle" fill="#374151">
+    <line x1="150.9" y1="336" x2="150.9" y2="344" stroke="#374151" stroke-width="2"/>
+    <text x="150.9" y="360">0.6</text>
+    <line x1="232.7" y1="336" x2="232.7" y2="344" stroke="#374151" stroke-width="2"/>
+    <text x="232.7" y="360">0.8</text>
+    <line x1="314.5" y1="336" x2="314.5" y2="344" stroke="#374151" stroke-width="2"/>
+    <text x="314.5" y="360">1.0</text>
+    <line x1="396.4" y1="336" x2="396.4" y2="344" stroke="#374151" stroke-width="2"/>
+    <text x="396.4" y="360">1.2</text>
+    <line x1="478.2" y1="336" x2="478.2" y2="344" stroke="#374151" stroke-width="2"/>
+    <text x="478.2" y="360">1.4</text>
+    <line x1="560" y1="336" x2="560" y2="344" stroke="#374151" stroke-width="2"/>
+    <text x="560" y="360">1.6mm</text>
+  </g>
+
+  <text x="300" y="392" text-anchor="middle" font-size="13" font-weight="700" fill="#b45309">0.8mm は、デンタルプロでは SS、ライオンでは SSS と SS の境目にあたる</text>
+  <text x="300" y="416" text-anchor="middle" font-size="12" fill="#6b7280">ブランドを替えるときは、記号ではなく入れたときの感覚で選び直す</text>
+</svg>
