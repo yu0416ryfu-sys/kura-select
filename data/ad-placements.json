@@ -49,6 +49,50 @@
         "creative": "静止画のみ（動画広告は配信しない）",
         "approvedBy": "user 2026-11-06"
       }
+    },
+    {
+      "slug": "joy-vs-cucute-comparison",
+      "kind": "display",
+      "slots": [
+        {
+          "platform": "sp",
+          "spotId": "1951635",
+          "name": "joy-vs-cucute_sp",
+          "size": "300x250",
+          "tag": "<div id=\"im-b9019d66ce8548deaa7aca45a5dd2d04\">\n  <script async src=\"https://imp-adedge.i-mobile.co.jp/script/v1/spot.js?20220104\"></script>\n  <script>(window.adsbyimobile=window.adsbyimobile||[]).push({pid:85693,mid:598073,asid:1951635,type:\"banner\",display:\"inline\",elementid:\"im-b9019d66ce8548deaa7aca45a5dd2d04\"})</script>\n</div>"
+        },
+        {
+          "platform": "pc",
+          "spotId": "1951639",
+          "name": "joy-vs-cucute_pc",
+          "size": "300x250",
+          "tag": "<div id=\"im-b81449bb2d2a44a5b66a2ed49d839082\">\n  <script async src=\"https://imp-adedge.i-mobile.co.jp/script/v1/spot.js?20220104\"></script>\n  <script>(window.adsbyimobile=window.adsbyimobile||[]).push({pid:85693,mid:598072,asid:1951639,type:\"banner\",display:\"inline\",elementid:\"im-b81449bb2d2a44a5b66a2ed49d839082\"})</script>\n</div>"
+        }
+      ],
+      "start": "2026-11-06",
+      "end": null,
+      "endReason": null,
+      "reason": {
+        "window": "2026-10-04..2026-10-30",
+        "organicSessions": 255,
+        "sends": 5,
+        "siteSendRate": 0.114,
+        "prePeriod": "2026-10-08..2026-11-05（10-31 を除く28日）。最後の変更の翌日 10-25 から11日しかないので 10-08〜10-24 の17日を遡って補う。10-23 の本文加筆と 10-24 の title 改稿の前後をまたぐ偏りとして記録（計画書 §4-3）",
+        "psiMobile": {
+          "measuredAt": "2026-11-06",
+          "runs": [
+            89,
+            89
+          ],
+          "baseline": 89,
+          "stopLine": 90,
+          "note": "基準値 90 未満は掲載しない規則（§4-4）に当たったが、ユーザー判断で規則を外して掲載（11-06）。PSI は FCP 0.8〜1.1秒（99〜100点）と 2.7秒（89点）に分かれる"
+        },
+        "freeze": "title 改稿の凍結を判定不能で早期終了（11-05 まで・measurement-holds.json の releaseDate 2026-11-06）",
+        "eps": "2026-10 の発生ベース報酬 ÷ 同月の GA4 送客で固定（初回の合算判定までに算出して記入）",
+        "creative": "静止画のみ（動画広告は配信しない）",
+        "approvedBy": "user 2026-11-06"
+      }
     }
   ]
 }
