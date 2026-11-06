@@ -3,6 +3,7 @@ import fs from "node:fs";
 import path from "node:path";
 import {
   END_REASONS,
+  AD_PLATFORMS,
   isActivePlacement,
   getActivePlacement,
 } from "../scripts/lib/ad-placements.mjs";
@@ -14,6 +15,7 @@ const ARTICLES_DIR = path.resolve("./src/content/articles");
 const LEDGER_PATH = path.resolve("./data/ad-placements.json");
 const REVENUE_PATH = path.resolve("./data/ad-revenue.json");
 const HOLDS_PATH = path.resolve("./data/measurement-holds.json");
+const ADS_TXT_PATH = path.resolve("./public/ads.txt");
 
 type Placement = Record<string, unknown>;
 type Ledger = { network?: unknown; placements?: unknown };
@@ -58,6 +60,49 @@ function expandHolds(holds: Hold[]): { slug: string; startedAt?: string; release
   return out;
 }
 
+/** タグ文字列から i-mobile の pid / asid を取り出す（無ければ undefined） */
+function tagParam(tag: string, key: "pid" | "asid"): string | undefined {
+  return new RegExp(String.raw`[{,]\s*${key}\s*:\s*(\d+)`).exec(tag)?.[1];
+}
+
+/** placements[].slots の検査。spotId は台帳全体で一意 */
+function validateSlots(slots: unknown, label: string, seenSpotIds: Set<string>): string[] {
+  const errors: string[] = [];
+  if (!Array.isArray(slots) || slots.length === 0) return [`${label}: slots が空でない配列でない`];
+  const seenPlatforms = new Set<string>();
+  (slots as Record<string, unknown>[]).forEach((slot, j) => {
+    const sl = `${label}.slots[${j}]`;
+    if (!(AD_PLATFORMS as string[]).includes(slot.platform as string)) {
+      errors.push(`${sl}: platform が sp / pc でない`);
+    } else if (seenPlatforms.has(slot.platform as string)) {
+      errors.push(`${sl}: platform が重複 (${String(slot.platform)})`);
+    } else {
+      seenPlatforms.add(slot.platform as string);
+    }
+    if (!isNonEmptyString(slot.spotId)) {
+      errors.push(`${sl}: spotId が空`);
+    } else if (seenSpotIds.has(slot.spotId)) {
+      errors.push(`${sl}: spotId が重複 (${slot.spotId})`);
+    } else {
+      seenSpotIds.add(slot.spotId);
+    }
+    if (!isNonEmptyString(slot.tag)) {
+      errors.push(`${sl}: tag が空`);
+      return;
+    }
+    const tag = slot.tag;
+    if (isNonEmptyString(slot.spotId) && tagParam(tag, "asid") !== slot.spotId) {
+      errors.push(`${sl}: tag の asid が spotId と一致しない`);
+    }
+    if (!tagParam(tag, "pid")) errors.push(`${sl}: tag に pid が無い`);
+    if (/document\.write/.test(tag)) errors.push(`${sl}: tag が document.write を使っている（差し込み方式では壊れる）`);
+    if (!/<script[^>]*\basync\b[^>]*src="https:\/\//.test(tag)) errors.push(`${sl}: tag が https の async スクリプトでない`);
+    const divId = /^<div id="([^"]+)">/.exec(tag.trim())?.[1];
+    if (!divId || !tag.includes(`elementid:"${divId}"`)) errors.push(`${sl}: tag の div id と elementid が一致しない`);
+  });
+  return errors;
+}
+
 /** data/ad-placements.json の検査。エラー文字列の配列を返す（空なら正常） */
 function validatePlacements(ledger: Ledger, holds: Hold[], articleSlugs: Set<string>): string[] {
   const errors: string[] = [];
@@ -68,7 +113,7 @@ function validatePlacements(ledger: Ledger, holds: Hold[], articleSlugs: Set<str
   }
   const placements = ledger.placements as Placement[];
   const frozen = expandHolds(holds);
-  const seenSlotIds = new Set<string>();
+  const seenSpotIds = new Set<string>();
   const openBySlug = new Map<string, number>();
 
   placements.forEach((p, i) => {
@@ -79,13 +124,7 @@ function validatePlacements(ledger: Ledger, holds: Hold[], articleSlugs: Set<str
       errors.push(`${label}: 記事が存在しない`);
     }
     if (p.kind !== "display") errors.push(`${label}: kind が display でない`);
-    if (!isNonEmptyString(p.slotId)) {
-      errors.push(`${label}: slotId が空`);
-    } else if (seenSlotIds.has(p.slotId)) {
-      errors.push(`${label}: slotId が重複 (${p.slotId})`);
-    } else {
-      seenSlotIds.add(p.slotId);
-    }
+    errors.push(...validateSlots(p.slots, label, seenSpotIds));
 
     const startOk = isRealDate(p.start);
     if (!startOk) errors.push(`${label}: start が実在する YYYY-MM-DD でない`);
@@ -134,24 +173,27 @@ function validateRevenue(revenue: Revenue, ledger: Ledger): string[] {
     return errors;
   }
   const placements = (Array.isArray(ledger.placements) ? ledger.placements : []) as Placement[];
-  const bySlot = new Map<string, Placement>();
-  for (const p of placements) if (isNonEmptyString(p.slotId)) bySlot.set(p.slotId, p);
+  const bySpot = new Map<string, Placement>();
+  for (const p of placements) {
+    if (!Array.isArray(p.slots)) continue;
+    for (const slot of p.slots as Record<string, unknown>[]) if (isNonEmptyString(slot.spotId)) bySpot.set(slot.spotId, p);
+  }
 
   const seen = new Set<string>();
   (revenue.rows as Record<string, unknown>[]).forEach((r, i) => {
-    const label = `rows[${i}](${String(r.date)}/${String(r.slotId)})`;
+    const label = `rows[${i}](${String(r.date)}/${String(r.spotId)})`;
     const dateOk = isRealDate(r.date);
     if (!dateOk) errors.push(`${label}: date が実在する YYYY-MM-DD でない`);
-    const placement = isNonEmptyString(r.slotId) ? bySlot.get(r.slotId) : undefined;
-    if (!placement) errors.push(`${label}: slotId が ad-placements.json に無い`);
+    const placement = isNonEmptyString(r.spotId) ? bySpot.get(r.spotId) : undefined;
+    if (!placement) errors.push(`${label}: spotId が ad-placements.json に無い`);
     if (!Number.isInteger(r.impressions) || (r.impressions as number) < 0) {
       errors.push(`${label}: impressions が 0 以上の整数でない`);
     }
     if (typeof r.revenue !== "number" || !Number.isFinite(r.revenue) || r.revenue < 0) {
       errors.push(`${label}: revenue が 0 以上の有限数でない`);
     }
-    const key = `${String(r.date)}|${String(r.slotId)}`;
-    if (seen.has(key)) errors.push(`${label}: (date, slotId) が重複`);
+    const key = `${String(r.date)}|${String(r.spotId)}`;
+    if (seen.has(key)) errors.push(`${label}: (date, spotId) が重複`);
     seen.add(key);
 
     if (dateOk && placement && isRealDate(placement.start)) {
@@ -172,25 +214,45 @@ const holds = (JSON.parse(fs.readFileSync(HOLDS_PATH, "utf8")) as { holds: Hold[
 const articleSlugs = new Set(listArticleSlugs(ARTICLES_DIR));
 
 describe("実データ: data/ad-placements.json", () => {
-  it("検査にエラーがない（記事の実在・slotId・日付・end/endReason・凍結との衝突）", () => {
+  it("検査にエラーがない（記事の実在・slots・日付・end/endReason・凍結との衝突）", () => {
     expect(validatePlacements(ledger, holds, articleSlugs)).toEqual([]);
+  });
+
+  it("public/ads.txt に台帳のタグの pid がすべて i-mobile の DIRECT 行として載っている", () => {
+    const adsTxt = fs.readFileSync(ADS_TXT_PATH, "utf8");
+    const pids = new Set<string>();
+    for (const p of (ledger.placements ?? []) as Placement[]) {
+      for (const slot of (Array.isArray(p.slots) ? p.slots : []) as Record<string, unknown>[]) {
+        const pid = isNonEmptyString(slot.tag) ? tagParam(slot.tag, "pid") : undefined;
+        if (pid) pids.add(pid);
+      }
+    }
+    for (const pid of pids) {
+      expect(adsTxt.split(/\r?\n/)).toContain(`i-mobile.co.jp, ${pid}, DIRECT`);
+    }
   });
 });
 
 describe("実データ: data/ad-revenue.json", () => {
-  it("検査にエラーがない（slotId・日付・数値・重複・掲載期間内）", () => {
+  it("検査にエラーがない（spotId・日付・数値・重複・掲載期間内）", () => {
     expect(validateRevenue(revenue, ledger)).toEqual([]);
   });
 });
 
 // ---- validatePlacements の単体テスト ----
 
+/** テスト用の i-mobile タグ（実タグと同じ形） */
+const tagOf = (asid: string) =>
+  `<div id="im-${asid}">\n  <script async src="https://imp-adedge.i-mobile.co.jp/script/v1/spot.js?20220104"></script>\n  <script>(window.adsbyimobile=window.adsbyimobile||[]).push({pid:85693,mid:1,asid:${asid},type:"banner",display:"inline",elementid:"im-${asid}"})</script>\n</div>`;
+const spSlot = (spotId: string) => ({ platform: "sp", spotId, tag: tagOf(spotId) });
+const pcSlot = (spotId: string) => ({ platform: "pc", spotId, tag: tagOf(spotId) });
+
 describe("validatePlacements", () => {
   const slugs = new Set(["razor-comparison", "reviews/foo-review"]);
   const base = {
     slug: "razor-comparison",
     kind: "display",
-    slotId: "slot-1",
+    slots: [spSlot("101"), pcSlot("102")],
     start: "2026-11-10",
     end: null,
     endReason: null,
@@ -201,7 +263,7 @@ describe("validatePlacements", () => {
   it("正しい台帳（空・掲載中・終了済み）はエラーなし", () => {
     expect(validatePlacements(make(), [], slugs)).toEqual([]);
     expect(validatePlacements(make(base), [], slugs)).toEqual([]);
-    const ended = { ...base, slug: "reviews/foo-review", slotId: "slot-2", end: "2026-11-20", endReason: "manual" };
+    const ended = { ...base, slug: "reviews/foo-review", slots: [spSlot("201")], end: "2026-11-20", endReason: "manual" };
     expect(validatePlacements(make(base, ended), [], slugs)).toEqual([]);
   });
 
@@ -219,10 +281,36 @@ describe("validatePlacements", () => {
     expect(validatePlacements(make({ ...base, kind: "native" }), [], slugs).join()).toContain("kind");
   });
 
-  it("slotId が空 / 重複", () => {
-    expect(validatePlacements(make({ ...base, slotId: "" }), [], slugs).join()).toContain("slotId が空");
+  it("slots が空 / 配列でない", () => {
+    expect(validatePlacements(make({ ...base, slots: [] }), [], slugs).join()).toContain("slots が空でない配列でない");
+    expect(validatePlacements(make({ ...base, slots: "x" }), [], slugs).join()).toContain("slots が空でない配列でない");
+  });
+
+  it("spotId が空 / 台帳内で重複", () => {
+    expect(validatePlacements(make({ ...base, slots: [{ ...spSlot("101"), spotId: "" }] }), [], slugs).join()).toContain("spotId が空");
     const dup = { ...base, slug: "reviews/foo-review", end: "2026-11-20", endReason: "manual" };
-    expect(validatePlacements(make(base, dup), [], slugs).join()).toContain("slotId が重複");
+    expect(validatePlacements(make(base, dup), [], slugs).join()).toContain("spotId が重複");
+  });
+
+  it("platform が不正 / 重複", () => {
+    expect(
+      validatePlacements(make({ ...base, slots: [{ ...spSlot("101"), platform: "tablet" }] }), [], slugs).join(),
+    ).toContain("platform が sp / pc でない");
+    expect(validatePlacements(make({ ...base, slots: [spSlot("101"), spSlot("103")] }), [], slugs).join()).toContain("platform が重複");
+  });
+
+  it("tag の asid・pid・document.write・async・elementid の検査", () => {
+    const withTag = (tag: string) => make({ ...base, slots: [{ ...spSlot("101"), tag }] });
+    expect(validatePlacements(withTag(""), [], slugs).join()).toContain("tag が空");
+    expect(validatePlacements(withTag(tagOf("999")), [], slugs).join()).toContain("asid が spotId と一致しない");
+    expect(validatePlacements(withTag(tagOf("101").replace("pid:85693,", "")), [], slugs).join()).toContain("pid が無い");
+    expect(
+      validatePlacements(withTag(tagOf("101") + "<script>document.write('x')</script>"), [], slugs).join(),
+    ).toContain("document.write");
+    expect(validatePlacements(withTag(tagOf("101").replace(" async", "")), [], slugs).join()).toContain("async スクリプトでない");
+    expect(
+      validatePlacements(withTag(tagOf("101").replace('elementid:"im-101"', 'elementid:"im-x"')), [], slugs).join(),
+    ).toContain("elementid が一致しない");
   });
 
   it("start が不正 / 実在しない日付", () => {
@@ -258,10 +346,10 @@ describe("validatePlacements", () => {
   });
 
   it("同じ slug で掲載中の行が2行", () => {
-    const second = { ...base, slotId: "slot-2" };
+    const second = { ...base, slots: [spSlot("201")] };
     expect(validatePlacements(make(base, second), [], slugs).join()).toContain("掲載中（end == null）の行が 2 行");
     // 片方が終了済みなら可
-    const ended = { ...base, slotId: "slot-2", end: "2026-11-20", endReason: "manual" };
+    const ended = { ...base, slots: [spSlot("201")], end: "2026-11-20", endReason: "manual" };
     expect(validatePlacements(make(base, ended), [], slugs)).toEqual([]);
   });
 
@@ -322,7 +410,7 @@ describe("validateRevenue", () => {
       {
         slug: "razor-comparison",
         kind: "display",
-        slotId: "slot-1",
+        slots: [spSlot("101"), pcSlot("102")],
         start: "2026-11-10",
         end,
         endReason: end ? "manual" : null,
@@ -330,7 +418,7 @@ describe("validateRevenue", () => {
       },
     ],
   });
-  const row = { date: "2026-11-12", slotId: "slot-1", impressions: 100, revenue: 12.5 };
+  const row = { date: "2026-11-12", spotId: "101", impressions: 100, revenue: 12.5 };
   const make = (...rows: Record<string, unknown>[]): Revenue => ({ network: "i-mobile", rows });
 
   it("前提: テスト用の台帳自体は正しい", () => {
@@ -355,8 +443,9 @@ describe("validateRevenue", () => {
     expect(validateRevenue(make({ ...row, date: "2026-13-01" }), ledgerOf()).join()).toContain("date");
   });
 
-  it("slotId が台帳に無い", () => {
-    expect(validateRevenue(make({ ...row, slotId: "unknown" }), ledgerOf()).join()).toContain("slotId が ad-placements.json に無い");
+  it("spotId が台帳に無い / pc 側の spotId は可", () => {
+    expect(validateRevenue(make({ ...row, spotId: "unknown" }), ledgerOf()).join()).toContain("spotId が ad-placements.json に無い");
+    expect(validateRevenue(make({ ...row, spotId: "102" }), ledgerOf())).toEqual([]);
   });
 
   it("impressions が負数・小数・文字列", () => {
@@ -371,7 +460,7 @@ describe("validateRevenue", () => {
     }
   });
 
-  it("(date, slotId) の重複", () => {
+  it("(date, spotId) の重複", () => {
     expect(validateRevenue(make(row, { ...row }), ledgerOf()).join()).toContain("重複");
     // 日付が違えば可
     expect(validateRevenue(make(row, { ...row, date: "2026-11-13" }), ledgerOf())).toEqual([]);
@@ -407,6 +496,10 @@ describe("isActivePlacement / getActivePlacement", () => {
     expect(getActivePlacement("razor-comparison", "2026-11-09", placements)).toBeUndefined();
     expect(getActivePlacement("ended-comparison", "2026-11-03", placements)).toBeUndefined();
     expect(getActivePlacement("other-comparison", "2026-11-10", placements)).toBeUndefined();
+  });
+
+  it("AD_PLATFORMS は sp / pc", () => {
+    expect([...AD_PLATFORMS].sort()).toEqual(["pc", "sp"]);
   });
 
   it("END_REASONS は計画書の5種", () => {

@@ -415,7 +415,7 @@ const productJsonLds = products
         </div>
 
         <!-- インプレッション広告（data/ad-placements.json で掲載中の記事だけ） -->
-        {adPlacement && <AdSlot slotId={adPlacement.slotId} />}
+        {adPlacement && <AdSlot slots={adPlacement.slots} />}
       </article>
 
       <!-- サイドバー（デスクトップ: 目次+関連記事を一体でスクロール追従。目次のみ内側スクロールで縮む） -->

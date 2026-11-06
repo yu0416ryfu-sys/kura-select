@@ -1,18 +1,22 @@
 ---
-// インプレッション広告の枠（計画書 docs/PLAN_IMPRESSION_ADS_2026-11-03_V3.md §5 #3）。
+// インプレッション広告の枠（計画書 docs/PLAN_IMPRESSION_ADS_2026-11-03_V3.md §5 #3・#4）。
 // data/ad-placements.json で掲載中（start <= ビルド日(JST) かつ end == null）の記事だけに1枠出す。
 // 掲載するかどうかは ArticleLayout.astro が判定し、掲載しない記事ではこのコンポーネント自体を描画しない
 // （描画するとスクリプトが全記事に出るため）。
+// - i-mobile は PC サイトと SP サイトが別登録で、タグを別プラットフォームで使うのは規約違反。
+//   sp / pc のタグをそれぞれ <template> に「そのまま」入れておき、UA で一方だけを枠に差し込む（タグは改変しない）
+// - タグは async で document.write を使わないので、遅延読み込みはせずページの読み込み時に差し込む（計画書 §4-1）
 // - 高さは min-height で固定し、広告が後から入っても CLS を起こさない
-// - 広告タグは枠がビューポートに近づいてから読む（初期表示の CWV を守る）
-// - 自分の閲覧で無効インプレッションを作らないよう、本番ドメイン以外ではタグを読まない
+// - 自分の閲覧で無効インプレッションを作らないよう、本番ドメイン以外ではタグを差し込まない（枠だけ出す）
 // - 下に StickyCta の高さ分の余白を取り、追従バーと重ねない（StickyCta.astro は変えない）
+import type { AdSlotSpec } from "../../../scripts/lib/ad-placements.mjs";
+
 interface Props {
-  /** 台帳 placements[].slotId */
-  slotId: string;
+  /** 台帳 placements[].slots */
+  slots: AdSlotSpec[];
 }
 
-const { slotId } = Astro.props;
+const { slots } = Astro.props;
 ---
 
 <aside aria-label="広告" class="mt-10 pb-24">
@@ -20,30 +24,25 @@ const { slotId } = Astro.props;
   <div
     class="kura-ad-slot min-h-[280px] flex items-center justify-center bg-[var(--color-surface)] rounded-xl overflow-hidden"
     data-ad-network="i-mobile"
-    data-ad-slot-id={slotId}
-  ></div>
+  >
+    {/* <template /> の自己終了タグは Astro コンパイラが無限ループする（2026-11-06）。閉じタグを必ず書く */}
+    {slots.map((slot) => <template data-ad-platform={slot.platform} data-ad-spot-id={slot.spotId} set:html={slot.tag}></template>)}
+  </div>
 </aside>
 
 <script>
-  // 枠が画面の手前 200px まで近づいたら広告タグを読む（1枠1回）
-  const slots = document.querySelectorAll<HTMLElement>(".kura-ad-slot");
+  // i-mobile の SP 判定に合わせ、スマートフォンの UA だけ sp、それ以外（PC・タブレット）は pc
+  const SP_UA = /iPhone|iPod|Android.+Mobile|Windows Phone/i;
   const isProduction = /^(www\.)?kura-select\.com$/.test(location.hostname);
-  if (slots.length > 0 && isProduction && "IntersectionObserver" in window) {
-    const load = (slot: HTMLElement) => {
+  if (isProduction) {
+    const platform = SP_UA.test(navigator.userAgent) ? "sp" : "pc";
+    document.querySelectorAll<HTMLElement>(".kura-ad-slot").forEach((slot) => {
       if (slot.dataset.adLoaded) return;
+      const template = slot.querySelector<HTMLTemplateElement>(`template[data-ad-platform="${platform}"]`);
+      if (!template) return;
       slot.dataset.adLoaded = "true";
-      // i-mobile の広告タグは審査通過後に入れる（計画書 §5 #4）。枠 ID は slot.dataset.adSlotId
-    };
-    const observer = new IntersectionObserver(
-      (entries) => {
-        for (const entry of entries) {
-          if (!entry.isIntersecting) continue;
-          load(entry.target as HTMLElement);
-          observer.unobserve(entry.target);
-        }
-      },
-      { rootMargin: "200px 0px" }
-    );
-    slots.forEach((slot) => observer.observe(slot));
+      // template の中身を複製して差し込む（複製した script は挿入時に実行される）
+      slot.appendChild(template.content.cloneNode(true));
+    });
   }
 </script>

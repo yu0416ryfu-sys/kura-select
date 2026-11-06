@@ -9,12 +9,21 @@
 import adPlacements from "../../data/ad-placements.json" with { type: "json" };
 
 /**
+ * i-mobile の広告スポット。PC サイトと SP サイトが別登録なので、1記事に sp / pc の2つを持つ。
+ * tag は管理画面の「タグ取得」の文字列そのまま（改変禁止）。spotId はタグの asid。
+ * @typedef {{ platform: "sp" | "pc", spotId: string, name?: string, size?: string, tag: string }} AdSlotSpec
+ */
+
+/**
  * @typedef {{
- *   slug: string, kind: string, slotId: string,
+ *   slug: string, kind: string, slots: AdSlotSpec[],
  *   start: string, end: string | null, endReason: string | null,
  *   reason: Record<string, unknown>
  * }} AdPlacement
  */
+
+/** slots[].platform に使える値 */
+export const AD_PLATFORMS = ["sp", "pc"];
 
 /** 外したときの理由（計画書 §5） */
 export const END_REASONS = ["stop-send-rate", "stop-zero-send", "stop-cwv", "stop-search", "manual"];

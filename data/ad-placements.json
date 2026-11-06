@@ -3,8 +3,52 @@
     "インプレッション広告の掲載台帳（計画書 docs/PLAN_IMPRESSION_ADS_2026-11-03_V3.md §5）。掲載する記事の行だけを書く。",
     "掲載中 = start <= ビルド日（JST） かつ end == null。静的サイトなので start の日付だけでは切り替わらない。掲載開始日に台帳をコミットしてデプロイする。",
     "外すときは行を消さず end と endReason（stop-send-rate / stop-zero-send / stop-cwv / stop-search / manual）を入れる。",
-    "凍結中（data/measurement-holds.json の startedAt <= start < releaseDate）の記事には掲載しない。tests/ad-placements.test.ts が検査する。"
+    "凍結中（data/measurement-holds.json の startedAt <= start < releaseDate）の記事には掲載しない。tests/ad-placements.test.ts が検査する。",
+    "slots[] は i-mobile の広告スポット（記事ごと・プラットフォームごとに別枠）。i-mobile は PC サイトと SP サイトが別登録で、タグを別プラットフォームで使うのは規約違反なので、AdSlot.astro が UA で sp / pc の一方だけを差し込む。",
+    "slots[].tag は管理画面の「タグ取得」（https）の文字列をそのまま貼る（タグの改変は規約で禁止）。spotId はタグの asid。"
   ],
   "network": "i-mobile",
-  "placements": []
+  "placements": [
+    {
+      "slug": "kireikirei-vs-biore-comparison",
+      "kind": "display",
+      "slots": [
+        {
+          "platform": "sp",
+          "spotId": "1951620",
+          "name": "kireikirei-vs-biore_sp",
+          "size": "300x250",
+          "tag": "<div id=\"im-79846b9314fa428cac76f81ace3e3525\">\n  <script async src=\"https://imp-adedge.i-mobile.co.jp/script/v1/spot.js?20220104\"></script>\n  <script>(window.adsbyimobile=window.adsbyimobile||[]).push({pid:85693,mid:598073,asid:1951620,type:\"banner\",display:\"inline\",elementid:\"im-79846b9314fa428cac76f81ace3e3525\"})</script>\n</div>"
+        },
+        {
+          "platform": "pc",
+          "spotId": "1951618",
+          "name": "kireikirei-vs-biore_pc",
+          "size": "300x250",
+          "tag": "<div id=\"im-5296f75af96a48278f46960133dd2600\">\n  <script async src=\"https://imp-adedge.i-mobile.co.jp/script/v1/spot.js?20220104\"></script>\n  <script>(window.adsbyimobile=window.adsbyimobile||[]).push({pid:85693,mid:598072,asid:1951618,type:\"banner\",display:\"inline\",elementid:\"im-5296f75af96a48278f46960133dd2600\"})</script>\n</div>"
+        }
+      ],
+      "start": "2026-11-06",
+      "end": null,
+      "endReason": null,
+      "reason": {
+        "window": "2026-10-04..2026-10-30",
+        "organicSessions": 298,
+        "sends": 5,
+        "siteSendRate": 0.114,
+        "psiMobile": {
+          "measuredAt": "2026-11-06",
+          "runs": [
+            89,
+            100
+          ],
+          "baseline": 94.5,
+          "stopLine": 90
+        },
+        "eps": "2026-10 の発生ベース報酬 ÷ 同月の GA4 送客で固定（初回の合算判定までに算出して記入）",
+        "creative": "静止画のみ（動画広告は配信しない）",
+        "approvedBy": "user 2026-11-06"
+      }
+    }
+  ]
 }
