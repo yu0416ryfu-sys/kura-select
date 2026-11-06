@@ -4,15 +4,15 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-03"
+updatedAt: "2026-11-06"
 draft: false
 products:
   - rank: 1
     name: "スマートイン歯間ブラシ Ag 60本×3個"
     brand: "クリエイト"
-    price: 1380
+    price: 1359
     capacity: "60本×3個"
-    pricePerUnit: "約7.7円/本"
+    pricePerUnit: "約7.5円/本"
     rating: 4.79
     reviewCount: 98
     features:
@@ -47,8 +47,8 @@ products:
     price: 400
     capacity: "40本"
     pricePerUnit: "約10円/本"
-    rating: 4.54
-    reviewCount: 116
+    rating: 4.55
+    reviewCount: 117
     features:
       - "ワイヤーを使わないラバー（エラストマー）の歯間ブラシ"
       - "4S-3S / SS-M / M-L の3区分から選び、1パック40本入"
@@ -62,7 +62,7 @@ products:
       - "軸が折れやすい・先が曲がるという声がある"
     recommendedFor: "ゴムの歯間ブラシを本数の多いパックで試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F107212%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10011378%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1104_p5100/kirikae1/107212_sam2.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1104_p5/kirikae1/107212_sam2.jpg?_ex=128x128"
     genreId: "204758"
     offers:
       - provider: "yahoo"

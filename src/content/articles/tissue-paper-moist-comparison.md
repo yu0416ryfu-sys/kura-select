@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌あたりとコ
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-06"
 draft: false
 products:
   - rank: 1
@@ -122,6 +122,29 @@ products:
         available: true
     genreId: "100670"
   - rank: 5
+    name: "鼻セレブ プレミアム ティッシュ 130組×10個"
+    brand: "王子ネピア（鼻セレブ）"
+    price: 5020
+    capacity: "390枚（130組）×10個"
+    pricePerUnit: "約2.6円/組"
+    rating: 4.75
+    reviewCount: 16
+    features:
+      - "ティッシュペーパー本体のまとめ買い候補"
+      - "箱タイプまたはソフトパックで選べる"
+      - "家庭でストックしやすい容量構成"
+    pros:
+      - "日常の消耗品をまとめて比較できる"
+      - "保管場所に合わせて形状を選びやすい"
+      - "家族使いのストック候補になる"
+    cons:
+      - "紙質や肌ざわりは好みが分かれる"
+      - "大容量品は置き場所の確認が必要"
+    recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw89n.3rdw62e9.g00tw89n.3rdw7e13/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeyroom-hida%2Fkeyroom-10000018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeyroom-hida%2Fi%2F10000018%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keyroom-hida/cabinet/11236817/imgrc0085650333.jpg?_ex=128x128"
+    genreId: "100670"
+  - rank: 6
     name: "エリエール 贅沢保湿 ポケットティシュー 14組×4個パック"
     brand: "大王製紙（エリエール）"
     price: 160
@@ -155,29 +178,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4902011714425"
         available: true
     genreId: "505522"
-  - rank: 6
-    name: "鼻セレブ プレミアム ティッシュ 130組×10個"
-    brand: "王子ネピア（鼻セレブ）"
-    price: 6138
-    capacity: "390枚（130組）×10個"
-    pricePerUnit: "約3.1円/組"
-    rating: 4.75
-    reviewCount: 16
-    features:
-      - "ティッシュペーパー本体のまとめ買い候補"
-      - "箱タイプまたはソフトパックで選べる"
-      - "家庭でストックしやすい容量構成"
-    pros:
-      - "日常の消耗品をまとめて比較できる"
-      - "保管場所に合わせて形状を選びやすい"
-      - "家族使いのストック候補になる"
-    cons:
-      - "紙質や肌ざわりは好みが分かれる"
-      - "大容量品は置き場所の確認が必要"
-    recommendedFor: "ティッシュをまとめ買いで備えたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tw89n.3rdw62e9.g00tw89n.3rdw7e13/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeyroom-hida%2Fkeyroom-10000018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeyroom-hida%2Fi%2F10000018%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keyroom-hida/cabinet/11236817/imgrc0085650333.jpg?_ex=128x128"
-    genreId: "100670"
   - rank: 7
     name: "鼻セレブ プレミアム ティッシュ 130組 6個"
     brand: "日本製紙クレシア（鼻セレブ）"

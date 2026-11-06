@@ -4,7 +4,7 @@ description: "敏感肌・赤ちゃん向け柔軟剤を成分・安全性で徹
 category: "fabric-softener"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-11-06"
 products:
   - rank: 1
     name: "さらさ 柔軟剤 詰替 超ジャンボ 1350ml×6袋"
@@ -100,11 +100,11 @@ products:
   - rank: 4
     name: "ナイスアンドクイック ボタニカル 柔軟剤 詰替 ピュアコットンシャボンの香り 1320mL 2個セット"
     brand: "ナイスアンドクイック"
-    price: 2816
+    price: 2675
     capacity: "1320mL×2個"
-    pricePerUnit: "約1.1円/mL"
+    pricePerUnit: "約1.0円/mL"
     rating: 4.86
-    reviewCount: 196
+    reviewCount: 197
     features:
       - "植物由来成分90%以上配合のボタニカル処方"
       - "パラベン・シリコン・合成香料など8つの無添加処方"

@@ -4,7 +4,7 @@ description: "サントリー・アサヒ・エビアンなど人気の天然水
 category: "mineral-water"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-06"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 1880
     capacity: "2L×12本（24L）"
     pricePerUnit: "約78円/L"
-    rating: 4
-    reviewCount: 3
+    rating: 4.25
+    reviewCount: 4
     features:
       - "栃木県産の国産軟水・硬度45mg/Lの超軟水"
       - "赤ちゃんのミルク調乳・離乳食にも適した水質"
@@ -60,7 +60,7 @@ products:
     capacity: "500mL×24本（12L）"
     pricePerUnit: "約104円/L"
     rating: 4.69
-    reviewCount: 2433
+    reviewCount: 2446
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"

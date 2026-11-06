@@ -4,7 +4,7 @@ description: "使い捨て不織布マスクを1枚あたりで比較。大容�
 category: "mask"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-06"
 products:
   - rank: 1
     name: "WEIMALL 不織布カラーマスク 立体3D 50枚"
@@ -107,7 +107,7 @@ products:
       - "密着性はやや低め"
     recommendedFor: "コスパ最優先でまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t7l9n.3rdw6381.g00t7l9n.3rdw7fc7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakakabeshop%2F4967576481694-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakakabeshop%2Fi%2F10009332%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/akakabeshop/cabinet/06449440/06491308/4967576481694_ak5.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/akakabeshop/cabinet/tool108/20261104_112504/000/4967576481694-5.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -126,7 +126,7 @@ products:
     price: 264
     capacity: "50枚"
     rating: 4.2
-    reviewCount: 22247
+    reviewCount: 22249
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -205,7 +205,7 @@ products:
     price: 276
     capacity: "20枚"
     rating: 4.06
-    reviewCount: 9273
+    reviewCount: 9274
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -239,7 +239,7 @@ products:
     price: 2380
     capacity: "120枚"
     rating: 4.19
-    reviewCount: 2742
+    reviewCount: 2743
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"

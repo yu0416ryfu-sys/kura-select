@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-11-06"
 products:
   - rank: 1
     name: "ダウニー サンライズフレッシュ 4L×3本セット"
@@ -95,7 +95,7 @@ products:
       - "香りが強めのため無香料や弱香タイプを好む方には向かない"
     recommendedFor: "大容量でコストを抑えたい方・国内ブランドの柔軟剤を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F4903301335078%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10059158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/4903301335078tn.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/261104/4903301335078.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

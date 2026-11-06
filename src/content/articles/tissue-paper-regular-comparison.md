@@ -4,15 +4,15 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-11-03"
+updatedAt: "2026-11-06"
 draft: false
 products:
   - rank: 1
     name: "スコッティ ティッシュ ホワイトパッケージ 60箱"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5460
+    price: 5090
     capacity: "400枚（200組）×60箱"
-    pricePerUnit: "約0.46円/組"
+    pricePerUnit: "約0.42円/組"
     rating: 4.75
     reviewCount: 553
     features:
@@ -44,11 +44,11 @@ products:
   - rank: 2
     name: "スコッティ ティッシュ 200組 60箱セット"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 5460
+    price: 5090
     capacity: "200組×60箱"
-    pricePerUnit: "約0.46円/組"
+    pricePerUnit: "約0.42円/組"
     rating: 4.69
-    reviewCount: 320
+    reviewCount: 321
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -113,9 +113,9 @@ products:
   - rank: 5
     name: "スコッティ ティッシュペーパー フラワーボックス"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 7699
+    price: 7999
     capacity: "500枚×60箱"
-    pricePerUnit: "約0.51円/組"
+    pricePerUnit: "約0.53円/組"
     rating: 4.71
     reviewCount: 885
     features:
@@ -151,7 +151,7 @@ products:
     capacity: "150組×60箱"
     pricePerUnit: "約0.54円/組"
     rating: 4.55
-    reviewCount: 109
+    reviewCount: 110
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"
@@ -193,9 +193,9 @@ products:
   - rank: 8
     name: "クリネックス ティシュー 180組 5箱×12パック（60箱）"
     brand: "日本製紙クレシア（クリネックス）"
-    price: 6999
+    price: 6699
     capacity: "180組×5箱×12パック（60箱）"
-    pricePerUnit: "約0.65円/組"
+    pricePerUnit: "約0.62円/組"
     rating: 4.65
     reviewCount: 144
     features:

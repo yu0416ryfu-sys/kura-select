@@ -4,7 +4,7 @@ description: "パンツ型おむつのMサイズを1枚あたりの価格で比�
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-10-27"
+updatedAt: "2026-11-06"
 draft: false
 products:
   - rank: 1
@@ -78,7 +78,7 @@ products:
   - rank: 3
     name: "メリーズ パンツ 素肌さらさらエアスルー Mサイズ"
     brand: "花王（メリーズ）"
-    price: 6197
+    price: 6198
     capacity: "62枚×3袋"
     pricePerUnit: "約33円/枚"
     rating: 4.78
@@ -112,7 +112,7 @@ products:
   - rank: 4
     name: "メリーズ パンツ Mサイズ 大容量セット"
     brand: "メリーズ（花王）"
-    price: 12179
+    price: 12180
     capacity: "186枚×2個（6〜11kg）"
     pricePerUnit: "約33円/枚"
     rating: 5
@@ -150,7 +150,7 @@ products:
     capacity: "46枚"
     pricePerUnit: "約39円/枚"
     rating: 4.92
-    reviewCount: 12
+    reviewCount: 13
     features:
       - "メリーズの上位ライン"
       - "肌に触れる面を薄くやわらかく設計"

@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-06"
 products:
   - rank: 1
     name: "クリニカ アドバンテージ ハミガキ クールミント 130g×3本"
@@ -82,7 +82,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 11080
+    reviewCount: 11083
     features:
       - "炭酸カルシウムとヒドロキシアパタイトを研磨剤に使うペースト（化粧品）"
       - "フッ素とラウリル硫酸ナトリウムを使わない処方"
@@ -117,7 +117,7 @@ products:
     capacity: "パウダー5g + ペースト15g（計20g）"
     pricePerUnit: "約16.4円/g"
     rating: 4.19
-    reviewCount: 4754
+    reviewCount: 4755
     features:
       - "キラルンのパウダー5gとペースト15gを試せるサンプルサイズ"
       - "どちらも炭酸カルシウムとヒドロキシアパタイトを研磨剤に使う"
@@ -135,6 +135,41 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/toothpsnew.jpg?_ex=128x128"
     genreId: "204759"
   - rank: 5
+    name: "キラルンパウダー"
+    brand: "RUKEN"
+    price: 1000
+    capacity: "55g"
+    pricePerUnit: "約18円/g"
+    rating: 4.31
+    reviewCount: 3286
+    features:
+      - "炭酸カルシウムとハイドロキシアパタイトを研磨剤に使う粉タイプ（化粧品）"
+      - "フッ素とラウリル硫酸ナトリウムを使わない処方"
+      - "低発泡で、辛すぎないミント味をうたう"
+    pros:
+      - "低発泡で、長めに磨けるとうたう"
+      - "粒子が細かいという声がある"
+      - "フッ素を避けたい人が選びやすい"
+    cons:
+      - "粉がこぼれやすい、容器が使いにくいという声がある"
+      - "1回の量は「適量」で、つけすぎると減りが早い"
+      - "フッ素が入らず、研磨剤入りで、歯に刺激を感じたら使用を中止する案内がある"
+    recommendedFor: "粉タイプの扱いに慣れていて、フッ素なしを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothmini%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000114%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/05964132/item00kirarunpwd.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F008.html"
+        matchStatus: "matched"
+        updatedAt: "2026-11-04"
+        price: 1254
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_008"
+        available: true
+        rating: 4.24
+        reviewCount: 254
+    genreId: "204759"
+  - rank: 6
     name: "だいじょうぶなもの ホワイトニングトゥースペースト シルクパウダー"
     brand: "だいじょうぶなもの"
     price: 1760
@@ -169,41 +204,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_m0090025"
         available: true
     genreId: "204759"
-  - rank: 6
-    name: "キラルンパウダー"
-    brand: "RUKEN"
-    price: 1254
-    capacity: "55g"
-    pricePerUnit: "約23円/g"
-    rating: 4.31
-    reviewCount: 3286
-    features:
-      - "炭酸カルシウムとハイドロキシアパタイトを研磨剤に使う粉タイプ（化粧品）"
-      - "フッ素とラウリル硫酸ナトリウムを使わない処方"
-      - "低発泡で、辛すぎないミント味をうたう"
-    pros:
-      - "低発泡で、長めに磨けるとうたう"
-      - "粒子が細かいという声がある"
-      - "フッ素を避けたい人が選びやすい"
-    cons:
-      - "粉がこぼれやすい、容器が使いにくいという声がある"
-      - "1回の量は「適量」で、つけすぎると減りが早い"
-      - "フッ素が入らず、研磨剤入りで、歯に刺激を感じたら使用を中止する案内がある"
-    recommendedFor: "粉タイプの扱いに慣れていて、フッ素なしを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothmini%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000114%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/05964132/item00kirarunpwd.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F008.html"
-        matchStatus: "matched"
-        updatedAt: "2026-11-04"
-        price: 1254
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_008"
-        available: true
-        rating: 4.24
-        reviewCount: 254
-    genreId: "204759"
   - rank: 7
     name: "アパガードリナメル"
     brand: "アパガード"
@@ -226,7 +226,7 @@ products:
       - "おまけが入っていなかったという声が店のレビューにある"
     recommendedFor: "フッ素ではなく薬用ハイドロキシアパタイトの歯磨き粉を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F84449%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10005817%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1104_p5100/kirikae2/df8853_sam2.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1104_p5/kirikae2/df8853_sam2.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -269,7 +269,7 @@ products:
     price: 2580
     capacity: "120g"
     rating: 4.48
-    reviewCount: 2414
+    reviewCount: 2420
     features:
       - "モノフルオロリン酸ナトリウムなど3つの有効成分を配合した薬用歯磨き（医薬部外品）"
       - "炭酸カルシウムと無水ケイ酸を清掃剤に使う、やや硬めのペースト"
@@ -293,7 +293,7 @@ products:
     price: 2200
     capacity: "50g"
     rating: 4.37
-    reviewCount: 2257
+    reviewCount: 2258
     features:
       - "グリチルリチン酸ジカリウムを有効成分とする薬用ジェル（医薬部外品）"
       - "泡立たないジェルで、清掃剤に炭酸水素Naと含水ケイ酸を使う"

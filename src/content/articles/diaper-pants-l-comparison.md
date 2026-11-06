@@ -4,13 +4,13 @@ description: "パンツ型おむつのLサイズおすすめ7選を1枚あたり
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-06"
 draft: false
 products:
   - rank: 1
     name: "メリーズ パンツ 素肌さらさらエアスルー Lサイズ"
     brand: "花王（メリーズ）"
-    price: 6197
+    price: 6198
     capacity: "54枚×3袋"
     pricePerUnit: "約38円/枚"
     rating: 5
@@ -44,7 +44,7 @@ products:
   - rank: 2
     name: "メリーズ パンツ Lサイズ 大容量セット"
     brand: "メリーズ（花王）"
-    price: 12179
+    price: 12180
     capacity: "162枚×2個（9〜14kg）"
     pricePerUnit: "約38円/枚"
     rating: 4.63

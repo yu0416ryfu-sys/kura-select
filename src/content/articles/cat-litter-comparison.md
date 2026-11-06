@@ -4,7 +4,7 @@ description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペ
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-06"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "7L×6袋（42L）"
     pricePerUnit: "約95円/L"
     rating: 4.25
-    reviewCount: 859
+    reviewCount: 860
     features:
       - "アイリスオーヤマ製のペレットタイプ紙製猫砂"
       - "燃えるゴミとして廃棄可能・トイレへの廃棄にも対応"
@@ -42,6 +42,29 @@ products:
         reviewCount: 32
     genreId: "204174"
   - rank: 2
+    name: "炭の猫砂 まとめ買いセット"
+    brand: "アイリスオーヤマ"
+    price: 2770
+    capacity: "7L×4袋（28L）"
+    pricePerUnit: "約99円/L"
+    rating: 4.35
+    reviewCount: 2247
+    features:
+      - "炭配合の木質系猫砂、固まるタイプ"
+      - "燃えるゴミとして廃棄可能"
+      - "消臭・脱臭機能を備えたベントナイト配合"
+    pros:
+      - "燃えるゴミに出せるため廃棄場所を選ばない"
+      - "大手ブランドで品質が安定しており初めての猫砂にも選びやすい"
+      - "4袋まとめ買いで補充の手間を減らせる"
+    cons:
+      - "炭の色が濃いため汚れの確認がしにくい場合がある"
+      - "鉱物系に比べて固まりがやや柔らかめ"
+    recommendedFor: "大手ブランドの安心感と廃棄のしやすさを重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F661502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10003840%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/jishahin29/523462.jpg?_ex=128x128"
+    genreId: "204174"
+  - rank: 3
     name: "紙でつくったねこ砂"
     brand: "ペッツビレッジクロス"
     price: 5160
@@ -75,7 +98,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101385ku"
         available: true
     genreId: "204174"
-  - rank: 3
+  - rank: 4
     name: "ウッディフレッシュ 鉱物系猫砂 小粒 16L×2袋"
     brand: "ウッディフレッシュ"
     price: 3280
@@ -98,14 +121,14 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzr6n.3rdw64d5.g00qzr6n.3rdw7160/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogland%2F1314970%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogland%2Fi%2F10095023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogland/cabinet/jishahin29/1314970.jpg?_ex=128x128"
     genreId: "204174"
-  - rank: 4
+  - rank: 5
     name: "おからでつくったねこ砂"
     brand: "ペッツビレッジクロス"
     price: 5160
     capacity: "6L×8袋（48L）"
     pricePerUnit: "約108円/L"
     rating: 4.59
-    reviewCount: 3351
+    reviewCount: 3352
     features:
       - "国産おから（大豆粕）由来の植物系猫砂"
       - "トイレに流せる・燃えるゴミに出せる処理方法の選択肢が広い"
@@ -131,29 +154,6 @@ products:
         available: true
         rating: 4.65
         reviewCount: 201
-    genreId: "204174"
-  - rank: 5
-    name: "炭の猫砂 まとめ買いセット"
-    brand: "アイリスオーヤマ"
-    price: 3180
-    capacity: "7L×4袋（28L）"
-    pricePerUnit: "約114円/L"
-    rating: 4.35
-    reviewCount: 2246
-    features:
-      - "炭配合の木質系猫砂、固まるタイプ"
-      - "燃えるゴミとして廃棄可能"
-      - "消臭・脱臭機能を備えたベントナイト配合"
-    pros:
-      - "燃えるゴミに出せるため廃棄場所を選ばない"
-      - "大手ブランドで品質が安定しており初めての猫砂にも選びやすい"
-      - "4袋まとめ買いで補充の手間を減らせる"
-    cons:
-      - "炭の色が濃いため汚れの確認がしにくい場合がある"
-      - "鉱物系に比べて固まりがやや柔らかめ"
-    recommendedFor: "大手ブランドの安心感と廃棄のしやすさを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F661502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10003840%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/jishahin29/523462.jpg?_ex=128x128"
     genreId: "204174"
   - rank: 6
     name: "パインウッド"
@@ -195,7 +195,7 @@ products:
     price: 2680
     capacity: "5L×4袋（20L）"
     rating: 4.61
-    reviewCount: 1971
+    reviewCount: 1972
     features:
       - "ベントナイト鉱物系・ペレットタイプの固まる猫砂"
       - "抗菌・脱臭機能付きで衛生管理を考慮した設計"
@@ -230,7 +230,7 @@ products:
     capacity: "5L×4袋（20L）"
     pricePerUnit: "約176円/L"
     rating: 4.69
-    reviewCount: 2447
+    reviewCount: 2448
     features:
       - "ベントナイト鉱物系・固まるタイプの消臭猫砂"
       - "大手メーカーライオンによる消臭設計"
@@ -263,7 +263,7 @@ products:
     price: 4430
     capacity: "7L×4袋"
     rating: 4.8
-    reviewCount: 54
+    reviewCount: 55
     features:
       - "大豆粕（おから）由来の植物系猫砂"
       - "トイレに流せる・燃えるゴミに出せる"
@@ -286,7 +286,7 @@ products:
     price: 4349
     capacity: "6L×3個（18L）"
     rating: 4.68
-    reviewCount: 2145
+    reviewCount: 2155
     features:
       - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
       - "正規輸入品で無香・芳香のバリエーションあり"

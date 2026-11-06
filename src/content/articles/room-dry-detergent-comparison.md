@@ -4,7 +4,7 @@ description: "部屋干し用の洗濯洗剤とドライマーク用洗剤を容
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-06"
 products:
   - rank: 1
     name: "アタック 抗菌EX 部屋干し用 つめかえ用 2030g"
@@ -312,7 +312,7 @@ products:
     price: 3780
     capacity: "1000ml"
     rating: 4.63
-    reviewCount: 1283
+    reviewCount: 1284
     features:
       - "クリーニング店向けに作られたというおしゃれ着用の液体洗剤（カチオン系）"
       - "ウール・シルク・レーヨン・キュプラなども洗える"

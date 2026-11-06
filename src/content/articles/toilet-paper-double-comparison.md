@@ -4,7 +4,7 @@ description: "ダブルのトイレットペーパーを1mあたりのコスト�
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-06"
 products:
   - rank: 1
     name: "再生紙トイレット12RW ダブル 12ロール×8パック"
@@ -12,8 +12,8 @@ products:
     price: 3200
     capacity: "27.5m×12ロール×8パック"
     pricePerUnit: "約1.2円/m"
-    rating: 4.58
-    reviewCount: 3708
+    rating: 4.59
+    reviewCount: 3712
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -36,7 +36,7 @@ products:
     capacity: "27.5m×12ロール×8パック（96ロール）"
     pricePerUnit: "約1.4円/m"
     rating: 4.7
-    reviewCount: 2648
+    reviewCount: 2651
     features:
       - "古紙パルプを原料にした再生紙のダブル"
       - "マイクロエンボス加工"
@@ -110,40 +110,6 @@ products:
         available: true
     genreId: "501098"
   - rank: 5
-    name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
-    brand: "日本製紙クレシア（スコッティ）"
-    price: 4899
-    capacity: "50m×12ロール×4パック"
-    pricePerUnit: "約2.0円/m"
-    rating: 4.68
-    reviewCount: 209
-    features:
-      - "2倍巻き長尺ダブル・花の香り付き"
-      - "48ロールの大容量まとめ買いパック"
-      - "省スペース設計で収納しやすい"
-    pros:
-      - "ダブルの中では1mあたりコストを抑えやすい"
-      - "まとめ買いで長期間保管できる"
-      - "スコッティブランドで品質安定"
-    cons:
-      - "保管スペースが必要"
-      - "個人宅には多すぎる場合も"
-    recommendedFor: "大家族・まとめ買い派の方・ダブルでもコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fxh278%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10020158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/008/main-xh278.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9620643.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-15"
-        price: 4853
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9620643"
-        available: true
-        rating: 4.77
-        reviewCount: 135
-    genreId: "501098"
-  - rank: 6
     name: "ハロー トイレットペーパー ダブル 2倍巻き"
     brand: "ハロー"
     price: 7261
@@ -177,12 +143,46 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4580287284745"
         available: true
     genreId: "501098"
+  - rank: 6
+    name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 5199
+    capacity: "50m×12ロール×4パック"
+    pricePerUnit: "約2.2円/m"
+    rating: 4.68
+    reviewCount: 209
+    features:
+      - "2倍巻き長尺ダブル・花の香り付き"
+      - "48ロールの大容量まとめ買いパック"
+      - "省スペース設計で収納しやすい"
+    pros:
+      - "ダブルの中では1mあたりコストを抑えやすい"
+      - "まとめ買いで長期間保管できる"
+      - "スコッティブランドで品質安定"
+    cons:
+      - "保管スペースが必要"
+      - "個人宅には多すぎる場合も"
+    recommendedFor: "大家族・まとめ買い派の方・ダブルでもコストを抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.3rdw6af3.g00pui9n.3rdw7b1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fxh278%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10020158%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/008/main-xh278.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9620643.html"
+        matchStatus: "matched"
+        updatedAt: "2026-10-15"
+        price: 4853
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9620643"
+        available: true
+        rating: 4.77
+        reviewCount: 135
+    genreId: "501098"
   - rank: 7
     name: "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール（4ロール×12パック）"
     brand: "スコッティ"
-    price: 10010
+    price: 11077
     capacity: "75m×48ロール（4ロール×12パック）"
-    pricePerUnit: "約2.8円/m"
+    pricePerUnit: "約3.1円/m"
     rating: 0
     reviewCount: 0
     features:

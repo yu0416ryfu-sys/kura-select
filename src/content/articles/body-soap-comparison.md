@@ -4,7 +4,7 @@ description: "ボディソープを1mLあたりのコストで比較。hadakara�
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-06"
 products:
   - rank: 1
     name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
@@ -111,9 +111,9 @@ products:
   - rank: 4
     name: "ダヴ ボディウォッシュ プレミアム モイスチャーケア 詰め替え 3kg"
     brand: "ユニリーバ（ダヴ）"
-    price: 2648
+    price: 2548
     capacity: "3kg"
-    pricePerUnit: "約0.88円/g"
+    pricePerUnit: "約0.85円/g"
     rating: 4.6
     reviewCount: 35
     features:

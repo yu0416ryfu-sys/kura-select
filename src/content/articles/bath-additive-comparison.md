@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バスク�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-06"
 products:
   - rank: 1
     name: "入浴剤 バラエティ詰め合わせ 100個セット"
@@ -36,7 +36,7 @@ products:
     capacity: "100個セット"
     pricePerUnit: "約38円/個"
     rating: 4.56
-    reviewCount: 9972
+    reviewCount: 9973
     features:
       - "日本製の入浴剤を100個詰め合わせた福袋"
       - "商品ページの区分は化粧品"
@@ -129,7 +129,7 @@ products:
     capacity: "150g×6個（900g）"
     pricePerUnit: "約1.6円/g"
     rating: 4.43
-    reviewCount: 4343
+    reviewCount: 4345
     features:
       - "純度99%以上の硫酸マグネシウム配合"
       - "好みの香りを6種類から自由に選べる個包装"
@@ -143,7 +143,7 @@ products:
       - "香り付きのため追い焚き・残り湯使用に注意"
     recommendedFor: "香りを楽しみたい方・エプソムソルト初心者の方・お試しに最適"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tm6bn.3rdw6b3c.g00tm6bn.3rdw7960/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flibertylife%2F201028-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flibertylife%2Fi%2F10000500%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/libertylife/cabinet/sale/tujou/b_epsom_otameshi.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/libertylife/cabinet/sale/marason/b_epsom_otameshi.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -290,7 +290,7 @@ products:
     price: 1380
     capacity: "500ml"
     rating: 4.22
-    reviewCount: 6120
+    reviewCount: 6122
     features:
       - "紀州備長炭の炭焼きで採れた原液の木酢液"
       - "主成分は酢酸で、添加物なしとショップが説明"

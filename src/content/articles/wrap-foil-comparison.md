@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-06"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"
@@ -313,7 +313,7 @@ products:
   - rank: 10
     name: "【ケース販売】サランラップ 業務用 BOXタイプ 30cm×"
     brand: "旭化成（サランラップ）"
-    price: 14190
+    price: 13860
     capacity: "30cm×50m×30本（1500m）"
     rating: 4.83
     reviewCount: 86

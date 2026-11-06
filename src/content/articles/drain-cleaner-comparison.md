@@ -4,7 +4,7 @@ description: "排水口クリーナーを容量あたりのコストで比較。
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-11-06"
 draft: false
 products:
   - rank: 1
@@ -165,7 +165,7 @@ products:
       - "温水の用意と保護具（眼鏡・マスク・手袋）が要り、アルミ製品には使えない"
     recommendedFor: "店舗などで複数の排水管をまとめて手入れする方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quion.3rdw6e7d.g00quion.3rdw731c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F6019094%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosharecafe%2Fi%2F10031246%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/ranking_top3/rank_6019094.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/marsn/marsn_07/rank_6019094.jpg?_ex=128x128"
     genreId: "565623"
   - rank: 7
     name: "ピーピースルーF 600g×2本セット"
@@ -188,7 +188,7 @@ products:
       - "温水の用意と保護具が要り、アルミ製品には使えない"
     recommendedFor: "油汚れの多い排水管を定期的に手入れしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00quion.3rdw6e7d.g00quion.3rdw731c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F6038803%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosharecafe%2Fi%2F10067832%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/ranking_top3/rank_6038803.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osharecafe/cabinet/marsn/marsn_07/rank_6038803.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

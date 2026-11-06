@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-06"
 products:
   - rank: 1
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
@@ -47,8 +47,8 @@ products:
     price: 1210
     capacity: "240g"
     pricePerUnit: "約5.0円/g"
-    rating: 4.72
-    reviewCount: 83
+    rating: 4.73
+    reviewCount: 84
     features:
       - "海泥（含硫ケイ酸Al）入りの石けん系洗顔料"
       - "表示の使用量は約1cmで、240g入り"
@@ -72,7 +72,7 @@ products:
     capacity: "110g"
     pricePerUnit: "約18円/g"
     rating: 4.6
-    reviewCount: 2051
+    reviewCount: 2053
     features:
       - "ベントナイトやカオリンなどのクレイを配合した洗顔料"
       - "泡立てネットで泡立てて使う"
@@ -166,7 +166,7 @@ products:
     capacity: "150g×2点（300g）"
     pricePerUnit: "約21円/g"
     rating: 4.45
-    reviewCount: 3821
+    reviewCount: 3826
     features:
       - "スプレー缶から炭酸泡が出る洗顔・パック兼用品"
       - "泡を顔全体に広げて約1分置き、洗い流す"
@@ -274,7 +274,7 @@ products:
       - "「無添加」の内訳が商品ページに書かれていない"
     recommendedFor: "ネット付きで泥洗顔を始めたい方・すっきりした洗い上がりが好きな方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b01n0bsytw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000261%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/allna/905b01n0bsytw/202509/905b01n0bsytw.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/905b01n0bsytw-20.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

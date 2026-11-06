@@ -3,7 +3,7 @@ title: "キレイキレイとビオレuどっちがいい？【2026年版】殺�
 description: "キレイキレイ（ライオン）とビオレu（花王）のハンドソープはどっちがいい？定番2ブランドの違いを、薬用殺菌成分の位置づけ・泡と液体の選択肢・1mLあたりの単価・肌あたりの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "hand-soap"
 publishedAt: "2026-08-31"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-06"
 articleType: "comparison"
 draft: false
 products:
@@ -96,7 +96,7 @@ products:
       - "液体のため泡立てる手間がかかる"
     recommendedFor: "手洗いの回数が多い家庭や、液体タイプを使い慣れている方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po93n.3rdw6ce8.g00po93n.3rdw7d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F426723%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-order%2Fi%2F10000830%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/2024/426723.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/i-order/cabinet/tn/261104/426723.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

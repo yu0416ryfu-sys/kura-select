@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-06"
 products:
   - rank: 1
     name: "リステリン トータルケアプラス クリーンミント"
@@ -178,40 +178,6 @@ products:
         available: true
     genreId: "208265"
   - rank: 6
-    name: "システマ EX デンタルリンス"
-    brand: "ライオン（システマ）"
-    price: 1230
-    capacity: "900mL"
-    pricePerUnit: "約1.4円/mL"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "歯周病ケアを主目的とした医薬部外品の洗口液"
-      - "長時間抗菌バリア・抗炎症成分配合"
-      - "ノンアルコールタイプとアルコールタイプから選択可能"
-    pros:
-      - "歯周病予防に特化した成分設計で歯茎が気になる方に向く"
-      - "900mLの大容量でコスパよく継続しやすい"
-      - "ポンプ付きで使いやすく衛生的"
-    cons:
-      - "歯周病ケア特化のため口臭予防のみを求める方には方向性が異なる"
-      - "価格は一般的なマウスウォッシュより高め"
-    recommendedFor: "歯周病ケアを重視してマウスウォッシュを選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sr5an.3rdw6882.g00sr5an.3rdw71fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finsair%2F7267910%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finsair%2Fi%2F10054003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/insair/cabinet/tasya113/7267910-p.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7267910f.html"
-        matchStatus: "matched"
-        updatedAt: "2026-06-01"
-        price: 1350
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7267910f"
-        available: true
-    genreId: "208265"
-  - rank: 7
     name: "プロフレッシュ 口臭ケア マウスウォッシュ"
     brand: "PROFRESH（プロフレッシュ）"
     price: 8250
@@ -234,7 +200,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pz2wn.3rdw6ac8.g00pz2wn.3rdw7cbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falpha-net%2F020-prf-0013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falpha-net%2Fi%2F10000004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/alpha-net/cabinet/profresh/imgrc0134851319.jpg?_ex=128x128"
     genreId: "208265"
-  - rank: 8
+  - rank: 7
     name: "ドクターウォッシュ デンタル露ウォッシュ"
     brand: "ビーラッシュストア"
     price: 2970
@@ -268,14 +234,14 @@ products:
         rating: 4.57
         reviewCount: 7
     genreId: "208265"
-  - rank: 9
+  - rank: 8
     name: "コンクールF 100mL"
     brand: "ウエルテック（コンクール）"
     price: 2300
     capacity: "100mL（約700回分）"
     pricePerUnit: "約23円/mL"
     rating: 4.75
-    reviewCount: 635
+    reviewCount: 637
     features:
       - "歯科医院でも販売されている薬用マウスウォッシュ"
       - "殺菌成分グルコン酸クロルヘキシジン配合"
@@ -289,7 +255,7 @@ products:
       - "薄める手間がある"
     recommendedFor: "歯科医院でも扱われる定番品を選びたい方・歯周病予防を重視する方・長く使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fdf2819%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10012094%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1104_p5100/kirikae2/df2819_1450ppm.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1104_p5/kirikae2/df2819_1450ppm.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -302,13 +268,47 @@ products:
         rating: 4.78
         reviewCount: 1469
     genreId: "208265"
+  - rank: 9
+    name: "システマ EX デンタルリンス"
+    brand: "ライオン（システマ）"
+    price: 1230
+    capacity: "900mL"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "歯周病ケアを主目的とした医薬部外品の洗口液"
+      - "長時間抗菌バリア・抗炎症成分配合"
+      - "ノンアルコールタイプとアルコールタイプから選択可能"
+    pros:
+      - "歯周病予防に特化した成分設計で歯茎が気になる方に向く"
+      - "900mLの大容量でコスパよく継続しやすい"
+      - "ポンプ付きで使いやすく衛生的"
+    cons:
+      - "歯周病ケア特化のため口臭予防のみを求める方には方向性が異なる"
+      - "価格は一般的なマウスウォッシュより高め"
+    recommendedFor: "歯周病ケアを重視してマウスウォッシュを選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sr5an.3rdw6882.g00sr5an.3rdw71fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finsair%2F7267910%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finsair%2Fi%2F10054003%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/insair/cabinet/tasya113/7267910-p.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7267910f.html"
+        matchStatus: "matched"
+        updatedAt: "2026-06-01"
+        price: 1350
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7267910f"
+        available: true
+    genreId: "208265"
+    priceMax: 1283
   - rank: 10
     name: "フィス ホワイト 薬用マウスウォッシュ 300mL"
     brand: "WHITH WHITE（フィスホワイト）"
     price: 2580
     capacity: "300mL"
     rating: 4.6
-    reviewCount: 2951
+    reviewCount: 2954
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"
