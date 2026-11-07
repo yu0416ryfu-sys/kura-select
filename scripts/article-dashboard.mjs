@@ -272,9 +272,10 @@ function buildLocalEvents(articles, today) {
   const requests = new Map();
   for (const r of loadImprovementLog(ids)) {
     push(r.id, { date: r.date, kind: 'improve', text: `加筆 ${r.type}: ${r.text}` });
-    const m = /(\d{1,2})-(\d{1,2})/.exec(r.request ?? '');
+    // 「2026-11-02」と「11-02」の両方の書き方がある。年つきを先に見ないと「26-11」を月日と誤読する
+    const m = /(?:(\d{4})-)?(?<!\d)(\d{1,2})-(\d{1,2})(?!\d)/.exec(r.request ?? '');
     if (m) {
-      const d = `${r.date.slice(0, 4)}-${m[1].padStart(2, '0')}-${m[2].padStart(2, '0')}`;
+      const d = `${m[1] ?? r.date.slice(0, 4)}-${m[2].padStart(2, '0')}-${m[3].padStart(2, '0')}`;
       push(r.id, { date: d, kind: 'index', text: 'GSC 登録リクエスト' });
       if (!requests.has(r.id) || requests.get(r.id) < d) requests.set(r.id, d);
     }
