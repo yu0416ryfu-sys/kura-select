@@ -1,0 +1,57 @@
+{
+  "readme": [
+    "送客の弱い高流入記事の2群（広告群・改善群）の割り当て台帳（計画書 docs/PLAN_IMPRESSION_ADS_2026-11-03_V3.md §2）。",
+    "group は ad（インプレッション広告・掲載の実績は data/ad-placements.json）か improve（送客改善・実施は docs/CONTENT_IMPROVEMENT_LOG.md に起点日つきで書く）。",
+    "改善の起点日は CONTENT_IMPROVEMENT_LOG.md の assignedAt 以降で最初の行の日付を使う（ここには書かない）。notBefore は着手してよい最初の日。",
+    "候補の追加は月1回（毎月第1月曜）。すでに群に入っている記事は動かさない。改善群で判定が済んで候補に戻した記事は returnedAt を入れる（行は消さない）。",
+    "excludedDates は計測の混入日（掲載前・施策前の期間から除く）。eps は送客1件あたりの報酬（円）で、広告群の掲載開始時に固定する（未算出なら null）。",
+    "pnpm article-dashboard の「収益化施策」欄がこの台帳を読む。tests/revenue-groups.test.ts が検査する。"
+  ],
+  "plan": "docs/PLAN_IMPRESSION_ADS_2026-11-03_V3.md",
+  "excludedDates": ["2026-10-31"],
+  "eps": null,
+  "selection": {
+    "date": "2026-11-03",
+    "window": "2026-10-04..2026-10-30",
+    "siteSendRate": 0.114,
+    "threshold": 0.034
+  },
+  "members": [
+    {
+      "slug": "kireikirei-vs-biore-comparison",
+      "group": "ad",
+      "assignedAt": "2026-11-03",
+      "selection": { "organicSessions": 298, "sends": 5 },
+      "notBefore": null,
+      "returnedAt": null,
+      "note": null
+    },
+    {
+      "slug": "joy-vs-cucute-comparison",
+      "group": "ad",
+      "assignedAt": "2026-11-03",
+      "selection": { "organicSessions": 255, "sends": 5 },
+      "notBefore": null,
+      "returnedAt": null,
+      "note": "凍結を判定不能で早期終了し 11-06 に掲載（計画書 §4-4 の注記）"
+    },
+    {
+      "slug": "diaper-big-comparison",
+      "group": "improve",
+      "assignedAt": "2026-11-03",
+      "selection": { "organicSessions": 56, "sends": 1 },
+      "notBefore": null,
+      "returnedAt": null,
+      "note": "判定不能で終わる見込みが高い（計画書 §3）。その場合は候補に戻す"
+    },
+    {
+      "slug": "body-soap-comparison",
+      "group": "improve",
+      "assignedAt": "2026-11-03",
+      "selection": { "organicSessions": 76, "sends": 0 },
+      "notBefore": "2026-11-07",
+      "returnedAt": null,
+      "note": "施策の前に localhost で比較表・CTA のリンクに data-ga-* 属性が出ているかを確かめる（送客 0 は計測切れの疑い）"
+    }
+  ]
+}

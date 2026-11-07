@@ -56,8 +56,9 @@ const load = (p) => JSON.parse(fs.readFileSync(p, 'utf8').match(/<script id="dat
 3. クリックの増減が大きい記事 上下各3本（前月分の `clicks` と比べる。**両月とも 10 クリック未満の記事は除く**）
 4. インデックス: `verdict !== 'PASS'` の記事数と、前月から状態が変わった記事
 5. 商品数が前月から変わった記事
+6. 収益化施策（`revenuePlan`・台帳 `data/revenue-groups.json`／計画書 `docs/PLAN_IMPRESSION_ADS_2026-11-03_V3.md`）: 広告群の掲載状態・掲載後の送客（合算判定の 20 まで）・合算判定日、安全装置で送客 0 のブロック（`zeroSendBlock`）、`ad-revenue.json` の記入が止まっていないか（`ads.lastRevenueDate`）、改善群の状態（未着手・測定中・判定日到達）と判定日。**比は途中経過として数字を写すだけ**で、停止や判定はしない（計画書 §3・§4-4 の手順で別に行う）
 
-前月分が無ければ 1・2・4 だけ出す。
+前月分が無ければ 1・2・4・6 だけ出す。
 
 ## 5. 報告
 

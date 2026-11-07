@@ -34,6 +34,7 @@ import {
   toDateString,
   SITE_URL,
 } from './lib/gsc-client.mjs';
+import { buildRevenueGroupStatus, earliestNeededDate } from './lib/revenue-groups.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -302,6 +303,14 @@ function buildLocalEvents(articles, today) {
     }
   }
 
+  // インプレッション広告の掲載・停止（data/ad-placements.json）
+  for (const p of readJson('data/ad-placements.json', { placements: [] }).placements ?? []) {
+    if (!ids.has(p.slug)) continue;
+    const spots = (p.slots ?? []).map((s) => `${s.platform} ${s.spotId}`).join('・');
+    push(p.slug, { date: p.start, kind: 'ad', text: `広告の掲載開始（${spots}）` });
+    if (p.end) push(p.slug, { date: p.end, kind: 'ad', text: `広告の掲載終了（${p.endReason ?? '理由なし'}）` });
+  }
+
   const noindex = new Map();
   for (const n of readJson('data/noindex-articles.json', [])) {
     if (!ids.has(n.slug)) continue;
@@ -534,10 +543,18 @@ async function main() {
   // GA4 は T-1 まで（PV・セッション・イベント数だけ使う。§5.0.2 ルール2）
   const ga4End = addDays(today, -1);
   const ga4SumStart = addDays(ga4End, -(SUMMARY_DAYS - 1));
+  // 収益化施策（広告群・改善群）の台帳。掲載前・施策前の期間まで GA4 を遡って取る
+  const revenueGroups = readJson('data/revenue-groups.json', null);
+  const adPlacements = readJson('data/ad-placements.json', { placements: [] }).placements ?? [];
+  const adRevenueRows = readJson('data/ad-revenue.json', { rows: [] }).rows ?? [];
+  const improveLog = loadImprovementLog(new Set(articles.map((a) => a.id)));
+  const ga4DisplayStart = addDays(ga4End, -(options.days - 1));
+  const ga4Needed = revenueGroups ? earliestNeededDate(revenueGroups, adPlacements, improveLog) : null;
+  const ga4FetchStart = ga4Needed && ga4Needed < ga4DisplayStart ? ga4Needed : ga4DisplayStart;
   let ga4 = null;
   console.log('GA4 を取得中…');
   try {
-    ga4 = await collectGa4(addDays(ga4End, -(options.days - 1)), ga4End);
+    ga4 = await collectGa4(ga4FetchStart, ga4End);
   } catch (error) {
     warnings.push(`GA4 を取得できませんでした: ${error.message}`);
   }
@@ -562,6 +579,22 @@ async function main() {
   for (let d = dailyStart; d <= confirmed; d = addDays(d, 1)) dates.push(d);
   const ga4Dates = [];
   for (let d = addDays(ga4End, -(options.days - 1)); d <= ga4End; d = addDays(d, 1)) ga4Dates.push(d);
+
+  const revenuePlan = revenueGroups
+    ? buildRevenueGroupStatus({
+        groups: revenueGroups,
+        placements: adPlacements,
+        revenueRows: adRevenueRows,
+        improveLog,
+        ga4,
+        paths: new Map(articles.map((a) => [a.id, a.path])),
+        ga4End: ga4 ? ga4End : null,
+        today,
+        activeHold: local.activeHold,
+      })
+    : null;
+  if (!revenueGroups) warnings.push('data/revenue-groups.json が読めないため、収益化施策の欄を出していません');
+  const groupOf = new Map((revenueGroups?.members ?? []).filter((m) => !m.returnedAt).map((m) => [m.slug, m.group]));
 
   const rows = articles.map((a) => {
     const series = gsc.byUrl.get(a.url) ?? [];
@@ -592,7 +625,7 @@ async function main() {
         .filter((p) => p.from != null)
         .map((p) => ({ date: p.date, kind: 'products', text: `商品数 ${p.from} → ${p.count}` })),
     ].sort((x, y) => (x.date < y.date ? 1 : x.date > y.date ? -1 : 0));
-    const actions = events.filter((e) => ['hold', 'improve', 'commit', 'delete', 'noindex'].includes(e.kind));
+    const actions = events.filter((e) => ['hold', 'improve', 'commit', 'delete', 'noindex', 'ad'].includes(e.kind));
 
     const insp = inspection?.get(a.id) ?? null;
     const b = bing?.get(a.url) ?? null;
@@ -614,6 +647,7 @@ async function main() {
       bodyChars: a.bodyChars,
       hold: local.activeHold.get(a.id) ?? null,
       noindex: local.noindex.get(a.id) ?? null,
+      revenueGroup: groupOf.get(a.id) ?? null,
       clicks: cur.clicks,
       clicksPrev: prev.clicks,
       clicksDelta: prev.clicks > 0 ? round((cur.clicks / prev.clicks - 1) * 100, 0) : null,
@@ -669,7 +703,7 @@ async function main() {
 
   mkdirSync(OUTPUT_DIR, { recursive: true });
   const outPath = path.join(OUTPUT_DIR, `articles-${confirmed}.html`);
-  writeFileSync(outPath, renderHtml({ meta, rows }), 'utf8');
+  writeFileSync(outPath, renderHtml({ meta, rows, revenuePlan }), 'utf8');
   console.log(`GSC の最新確定日は ${confirmed}`);
   for (const w of warnings) console.warn(`⚠ ${w}`);
   console.log(`出力: ${path.relative(ROOT, outPath)}（${rows.length}記事）`);
@@ -754,6 +788,21 @@ tr.detail td { background: var(--surface); text-align: left; white-space: normal
 .k-hold { color: var(--warn) !important; } .k-improve { color: var(--accent) !important; } .k-products { color: var(--c-prod) !important; }
 .k-delete, .k-noindex { color: var(--bad) !important; } .k-publish, .k-index { color: var(--good) !important; }
 .note { color: var(--muted); font-size: 11px; padding: 8px 16px; }
+.tag.ad { background: color-mix(in srgb, var(--c-out) 20%, transparent); color: var(--c-out); }
+.tag.imp { background: color-mix(in srgb, var(--accent) 18%, transparent); color: var(--accent); }
+.k-ad { color: var(--c-out) !important; }
+details.plan { margin: 12px 16px 0; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; }
+details.plan > summary { cursor: pointer; padding: 10px 14px; font-weight: 600; }
+details.plan > summary .meta { font-weight: 400; margin-left: 8px; }
+.plan-body { padding: 0 14px 14px; }
+.plan-body h3 { font-size: 13px; margin: 14px 0 6px; }
+.plan-body .pwrap { overflow-x: auto; border: 1px solid var(--border); }
+.plan-body table { min-width: 0; }
+.plan-body td, .plan-body th { cursor: default; position: static; }
+.plan-body td.l { white-space: normal; min-width: 160px; }
+.plan-kpis { display: flex; flex-wrap: wrap; gap: 8px; }
+.plan-kpis .kpi b { font-size: 15px; }
+.plan-body .small { color: var(--muted); font-size: 11px; }
 
 </style>
 </head>
@@ -764,10 +813,12 @@ tr.detail td { background: var(--surface); text-align: left; white-space: normal
   <div id="warnings"></div>
   <div class="kpis" id="kpis"></div>
 </header>
+<details class="plan" id="plan" open></details>
 <div class="controls">
   <input type="search" id="q" placeholder="タイトル・slug・カテゴリ・クエリで絞り込み">
   <select id="type"><option value="">すべての種別</option></select>
   <label><input type="checkbox" id="onlyHold"> 凍結中のみ</label>
+  <label><input type="checkbox" id="onlyGroup"> 広告群・改善群のみ</label>
   <label><input type="checkbox" id="hideNoindex"> noindex を隠す</label>
   <label>スパークライン <select id="sparkMetric">
     <option value="clicks">GSC クリック</option><option value="impr">GSC 表示</option>
@@ -781,7 +832,7 @@ tr.detail td { background: var(--surface); text-align: left; white-space: normal
 <script id="data" type="application/json">${json}</script>
 <script>
 (() => {
-  const { meta, rows } = JSON.parse(document.getElementById('data').textContent);
+  const { meta, rows, revenuePlan } = JSON.parse(document.getElementById('data').textContent);
   const $ = (id) => document.getElementById(id);
   const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
   const num = (v, d = 0) => v == null ? '<span class="na">—</span>' : Number(v).toLocaleString('ja-JP', { minimumFractionDigits: d, maximumFractionDigits: d });
@@ -805,6 +856,80 @@ tr.detail td { background: var(--surface); text-align: left; white-space: normal
     kpi('Bing クリック（28日）', num(total('bingClicks'))),
   ].join('');
 
+  // ---- 収益化施策（広告群・改善群）。閲覧用の途中経過で、停止・判定はここではしない
+  const pct = (v, d = 2) => v == null ? '<span class="na">—</span>' : (v * 100).toFixed(d) + '%';
+  // 窓が短いうちは色を付けない（1〜2日の 0 を「悪化」と読ませないため）
+  const ratioCell = (v, days) => v == null ? '<span class="na">—</span>' : days >= 28 ? '<span class="' + (v >= 1 ? 'up' : 'down') + '">' + v.toFixed(2) + '</span>' : '<span class="na" title="窓が28日未満の途中経過">' + v.toFixed(2) + '</span><div class="small">' + days + '日分</div>';
+  const titleOf = (id) => rows.find((r) => r.id === id)?.title ?? id;
+  const urlOf = (id) => rows.find((r) => r.id === id)?.url ?? '#';
+  const art = (id) => '<a href="' + esc(urlOf(id)) + '" target="_blank" rel="noopener">' + esc(titleOf(id)) + '</a><div class="small">' + esc(id) + '</div>';
+  const win = (s) => s && s.from ? s.from.slice(5) + '〜' + s.to.slice(5) : '';
+  const sendCell = (s) => s && s.pv != null ? num(s.outbound) + ' / ' + num(s.pv) + '<div class="small">' + pct(s.rate) + '・' + win(s) + '</div>' : '<span class="na">—</span>';
+  function renderPlan() {
+    const el = $('plan');
+    if (!revenuePlan) { el.style.display = 'none'; return; }
+    const p = revenuePlan;
+    const c = p.combined;
+    const adState = { live: '<span class="tag ok">掲載中</span>', stopped: '<span class="tag noidx">停止</span>', scheduled: '<span class="tag hold">掲載予定</span>', 'not-started': '<span class="tag hold">未掲載</span>' };
+    const impState = { measuring: '<span class="tag ok">測定中</span>', due: '<span class="tag hold">判定日到達</span>', 'not-started': '<span class="tag hold">未着手</span>', returned: '<span class="tag noidx">候補に戻した</span>' };
+    let h = '<summary>収益化施策（広告群・改善群）<span class="meta">計画書 ' + esc(p.plan ?? '') + '・選定 ' + esc(p.selection?.date ?? '') + '（' + esc(p.selection?.window ?? '') + '・閾値 送客率 ' + pct(p.selection?.threshold, 1) + '）</span></summary><div class="plan-body">';
+
+    h += '<h3>広告群（インプレッション広告・i-mobile）</h3>';
+    if (c) {
+      const sendsTxt = num(c.postSends) + ' / ' + c.targetSends + (c.reachedAt ? '（' + c.reachedAt.slice(5) + ' 到達）' : '');
+      h += '<div class="plan-kpis">'
+        + kpi('掲載後の送客（合算判定まで）', sendsTxt)
+        + kpi('合算判定日（送客20 か +8週の早いほう）', esc(c.judgeDate))
+        + kpi('実測 RPM で閾値見直し（+4週）', esc(c.rpmReviewDate))
+        + kpi('続けるかの判断（+12週）', esc(c.reviewDate))
+        + kpi((c.ratioBasis === 'revenue' ? '総収益/PV の比' : '送客率の比（EPS 未記入・広告収益なし）') + '・途中経過', c.ratio == null ? '—' : c.ratio.toFixed(2) + ' <span class="small">停止線 ' + c.stopRatio + '（判定は ' + c.judgeDate.slice(5) + '）・' + c.ratioArticles + '記事</span>')
+        + kpi('EPS（円/送客）', c.eps == null ? '未記入' : c.eps)
+        + '</div>';
+    }
+    h += '<div class="pwrap"><table><thead><tr><th class="l">記事</th><th class="l">状態</th><th>掲載開始</th><th>掲載日数</th><th>掲載前 送客/PV<span class="sub">送客率・期間</span></th><th>掲載後 送客/PV<span class="sub">送客率・期間</span></th><th>サイト送客率<span class="sub">群を除く 前→後</span></th><th>正規化比<span class="sub">参考</span></th><th>広告 表示/収益<span class="sub">ad-revenue.json</span></th><th>収益/1,000PV</th><th class="l">安全装置<span class="sub">固定4週ごとの送客</span></th><th class="l">PSI モバイル<span class="sub">基準・停止線</span></th></tr></thead><tbody>';
+    for (const a of p.ad) {
+      if (a.state === 'not-started') {
+        h += '<tr><td class="l">' + art(a.slug) + '</td><td class="l">' + adState[a.state] + (a.hold ? ' <span class="tag hold">凍結〜' + fmtDay(a.hold) + '</span>' : '') + '</td><td colspan="10" class="l small">' + esc(a.note ?? '') + '</td></tr>';
+        continue;
+      }
+      const blocks = a.blocks.map((b) => '<span class="tag ' + (b.complete && b.sends === 0 ? 'noidx' : b.complete ? 'ok' : 'hold') + '" title="' + b.from + '〜' + b.to + '">#' + b.n + ' ' + b.sends + (b.complete ? '' : '…') + '</span>').join('') || '<span class="na">—</span>';
+      const psi = a.psi ? num(a.psi.baseline, 1) + ' / ' + a.psi.stopLine + '<div class="small">' + esc((a.psi.runs ?? []).join('・')) + '（' + esc(a.psi.measuredAt ?? '') + '）</div>' : '<span class="na">—</span>';
+      const adsTxt = a.ads.lastRevenueDate ? num(a.ads.impressions) + ' / ¥' + num(a.ads.revenue) + '<div class="small">記入 〜' + a.ads.lastRevenueDate.slice(5) + '</div>' : '<span class="na">未記入</span>';
+      h += '<tr><td class="l">' + art(a.slug) + '</td>'
+        + '<td class="l">' + adState[a.state] + (a.endReason ? ' <span class="small">' + esc(a.end + ' ' + a.endReason) + '</span>' : '') + (a.note ? '<div class="small">' + esc(a.note) + '</div>' : '') + '</td>'
+        + '<td>' + esc(a.start) + '<div class="small">' + esc(a.slots.map((s) => s.platform + ' ' + s.spotId).join(' / ')) + '</div></td>'
+        + '<td>' + num(a.daysLive) + '日</td>'
+        + '<td>' + sendCell(a.pre) + '</td><td>' + sendCell(a.post) + '</td>'
+        + '<td>' + pct(a.sitePre?.rate) + ' → ' + pct(a.sitePost?.rate) + '</td>'
+        + '<td>' + ratioCell(a.normRatio, a.post?.days ?? 0) + '</td>'
+        + '<td>' + adsTxt + '</td><td>' + (a.ads.rpm == null ? '<span class="na">—</span>' : '¥' + a.ads.rpm.toFixed(0)) + '</td>'
+        + '<td class="l">' + blocks + (a.zeroSendBlock ? '<div class="warn">第' + a.zeroSendBlock + 'ブロックで送客 0（§4-4 安全装置）</div>' : '') + '</td>'
+        + '<td class="l">' + psi + '</td></tr>';
+    }
+    h += '</tbody></table></div>';
+
+    h += '<h3>改善群（送客改善・1記事1施策）</h3>';
+    h += '<div class="pwrap"><table><thead><tr><th class="l">記事</th><th class="l">状態</th><th>選定時 送客/セッション</th><th class="l">施策（改善ログ）</th><th>経過</th><th>判定日<span class="sub">一桁なら延長</span></th><th>施策前 送客/PV<span class="sub">送客率・期間</span></th><th>施策後 送客/PV<span class="sub">送客率・期間</span></th><th>サイト送客率<span class="sub">群を除く 前→後</span></th><th>正規化比<span class="sub">参考</span></th><th class="l">メモ</th></tr></thead><tbody>';
+    for (const m of p.improve) {
+      const stateTxt = impState[m.state] + (m.hold ? ' <span class="tag hold">凍結〜' + fmtDay(m.hold) + '</span>' : '') + (m.state === 'not-started' && m.notBefore ? '<div class="small">' + esc(m.notBefore) + ' 以降</div>' : '');
+      const sel = m.selection ? num(m.selection.sends) + ' / ' + num(m.selection.organicSessions) : '—';
+      const started = m.startedAt != null && m.state !== 'returned';
+      h += '<tr><td class="l">' + art(m.slug) + '</td><td class="l">' + stateTxt + '</td><td>' + sel + '</td>'
+        + '<td class="l">' + (m.startedAt ? esc(m.startedAt) + ' <span class="small">' + esc(m.actionType ?? '') + '</span>' : '<span class="na">—</span>') + '</td>'
+        + '<td>' + (started ? m.elapsedDays + ' / 28日' : '<span class="na">—</span>') + '</td>'
+        + '<td>' + (started ? esc(m.judgeDate) + '<div class="small">延長 ' + esc(m.extendDate) + '</div>' : '<span class="na">—</span>') + '</td>'
+        + '<td>' + (started ? sendCell(m.pre) : '<span class="na">—</span>') + '</td><td>' + (started ? sendCell(m.post) : '<span class="na">—</span>') + '</td>'
+        + '<td>' + (started ? pct(m.sitePre?.rate) + ' → ' + pct(m.sitePost?.rate) : '<span class="na">—</span>') + '</td>'
+        + '<td>' + (started ? ratioCell(m.normRatio, m.post?.days ?? 0) : '<span class="na">—</span>') + '</td>'
+        + '<td class="l small">' + esc(m.note ?? '') + '</td></tr>';
+    }
+    h += '</tbody></table></div>';
+    h += '<p class="small">送客 = GA4 の楽天・Amazon・Yahoo・サービスのクリックイベント、PV = screenPageViews（T-1 を含む）。掲載前・施策前の期間は開始日の前日から遡って28日（混入日 ' + esc(p.excludedDates.join('・')) + ' を除く）。サイト送客率は広告群・改善群を除いた記事の 送客÷PV。'
+      + '正規化比 = (記事の後/前の送客率) ÷ (サイトの後/前の送客率)。途中経過の参考値で、停止・判定は計画書 §3・§4-4 の手順で別に行う。</p></div>';
+    el.innerHTML = h;
+  }
+  renderPlan();
+
   const types = [...new Set(rows.map((r) => r.articleType).filter(Boolean))].sort();
   $('type').innerHTML += types.map((t) => '<option>' + esc(t) + '</option>').join('');
 
@@ -818,7 +943,7 @@ tr.detail td { background: var(--surface); text-align: left; white-space: normal
   };
   const cols = [
     { key: 'title', label: '記事', cls: 'l title', html: (r) => '<a href="' + esc(r.url) + '" target="_blank" rel="noopener" onclick="event.stopPropagation()">' + esc(r.title) + '</a><span class="id">' + esc(r.id) + '</span>' },
-    { key: 'status', label: '状態', cls: 'l', sort: (r) => (r.hold ? 2 : 0) + (r.noindex ? 1 : 0), html: (r) => (r.hold ? '<span class="tag hold">凍結〜' + fmtDay(r.hold) + '</span>' : '') + (r.noindex ? '<span class="tag noidx">noindex</span>' : '') },
+    { key: 'status', label: '状態', cls: 'l', sort: (r) => (r.hold ? 2 : 0) + (r.noindex ? 1 : 0) + (r.revenueGroup ? 4 : 0), html: (r) => (r.revenueGroup === 'ad' ? '<span class="tag ad">広告群</span>' : r.revenueGroup === 'improve' ? '<span class="tag imp">改善群</span>' : '') + (r.hold ? '<span class="tag hold">凍結〜' + fmtDay(r.hold) + '</span>' : '') + (r.noindex ? '<span class="tag noidx">noindex</span>' : '') },
     { key: 'spark', label: '日次推移', sub: '直近' + meta.dates.length + '日', cls: 'l', nosort: true, html: (r) => spark(r) },
     { key: 'clicks', label: 'クリック', sub: 'GSC 28日', html: (r) => num(r.clicks) },
     { key: 'clicksDelta', label: '前28日比', sub: '%', html: (r) => r.clicksDelta == null ? num(null) : '<span class="' + (r.clicksDelta >= 0 ? 'up' : 'down') + '">' + (r.clicksDelta > 0 ? '+' : '') + r.clicksDelta + '%</span>' },
@@ -934,9 +1059,9 @@ tr.detail td { background: var(--surface); text-align: left; white-space: normal
   }
 
   function detail(r) {
-    const evs = r.events.filter((e) => ['hold', 'improve', 'products', 'delete', 'noindex', 'publish', 'index', 'commit'].includes(e.kind));
-    const kindLabel = { hold: '測定施策', improve: '加筆', products: '商品数', delete: '商品削除', noindex: 'noindex', publish: '公開', index: '登録依頼', commit: 'コミット' };
-    const markers = r.events.filter((e) => ['hold', 'improve', 'delete', 'noindex', 'index'].includes(e.kind));
+    const evs = r.events.filter((e) => ['hold', 'improve', 'products', 'delete', 'noindex', 'publish', 'index', 'commit', 'ad'].includes(e.kind));
+    const kindLabel = { hold: '測定施策', improve: '加筆', products: '商品数', delete: '商品削除', noindex: 'noindex', publish: '公開', index: '登録依頼', commit: 'コミット', ad: '広告' };
+    const markers = r.events.filter((e) => ['hold', 'improve', 'delete', 'noindex', 'index', 'ad'].includes(e.kind));
     const facts = [
       ['カテゴリ', r.category], ['種別', r.articleType], ['frontmatter 更新日', r.updatedAt],
       ['前28日 クリック/表示', r.clicksPrev + ' / ' + r.impressionsPrev], ['前28日 順位', r.positionPrev ?? '—'],
@@ -958,6 +1083,7 @@ tr.detail td { background: var(--surface); text-align: left; white-space: normal
     const type = $('type').value;
     return rows.filter((r) => {
       if ($('onlyHold').checked && !r.hold) return false;
+      if ($('onlyGroup').checked && !r.revenueGroup) return false;
       if ($('hideNoindex').checked && r.noindex) return false;
       if (type && r.articleType !== type) return false;
       if (q && ![r.title, r.id, r.category, r.topQuery].some((s) => String(s ?? '').toLowerCase().includes(q))) return false;
@@ -989,7 +1115,7 @@ tr.detail td { background: var(--surface); text-align: left; white-space: normal
     open.has(id) ? open.delete(id) : open.add(id);
     render();
   });
-  for (const id of ['q', 'type', 'onlyHold', 'hideNoindex', 'sparkMetric']) $(id).addEventListener('input', render);
+  for (const id of ['q', 'type', 'onlyHold', 'onlyGroup', 'hideNoindex', 'sparkMetric']) $(id).addEventListener('input', render);
   render();
 })();
 </script>
