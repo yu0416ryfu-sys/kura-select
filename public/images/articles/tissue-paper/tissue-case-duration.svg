@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="600" height="420" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>60箱入りのケースが何か月もつか</title>
+  <rect width="600" height="420" fill="#ffffff"/>
+  <text x="300" y="42" text-anchor="middle" font-size="25" font-weight="700" fill="#1f2937">60箱は何か月もつ？</text>
+  <text x="300" y="72" text-anchor="middle" font-size="16" fill="#6b7280">1箱がなくなる日数 × 60 で計算（同じ箱を使い続けた場合）</text>
+  <!-- 目盛り: 0〜30か月を 150〜570px（1か月＝14px） -->
+  <g stroke="#e5e7eb" stroke-width="1">
+    <line x1="150" y1="100" x2="150" y2="340"/>
+    <line x1="318" y1="100" x2="318" y2="340"/>
+    <line x1="486" y1="100" x2="486" y2="340"/>
+  </g>
+  <g font-size="14" fill="#6b7280" text-anchor="middle">
+    <text x="150" y="362">0</text>
+    <text x="318" y="362">1年</text>
+    <text x="486" y="362">2年</text>
+  </g>
+  <g font-size="17" font-weight="700" fill="#1f2937" text-anchor="end">
+    <text x="138" y="136">1箱を3日</text>
+    <text x="138" y="196">1箱を5日</text>
+    <text x="138" y="256">1箱を1週間</text>
+    <text x="138" y="316">1箱を2週間</text>
+  </g>
+  <!-- 約6か月=84px / 約10か月=140px / 約14か月=193px / 約28か月=386px -->
+  <rect x="150" y="114" width="83" height="32" rx="4" fill="#eef5fc" stroke="#2f6fb5" stroke-width="2"/>
+  <rect x="150" y="174" width="138" height="32" rx="4" fill="#eef5fc" stroke="#2f6fb5" stroke-width="2"/>
+  <rect x="150" y="234" width="193" height="32" rx="4" fill="#edf7f1" stroke="#2f8a57" stroke-width="2"/>
+  <rect x="150" y="294" width="386" height="32" rx="4" fill="#edf7f1" stroke="#2f8a57" stroke-width="2"/>
+  <g font-size="16" font-weight="700">
+    <text x="243" y="136" fill="#1f4f87">約6か月</text>
+    <text x="298" y="196" fill="#1f4f87">約10か月</text>
+    <text x="353" y="256" fill="#1f6b43">約1年2か月</text>
+  </g>
+  <text x="343" y="316" font-size="16" font-weight="700" fill="#1f6b43" text-anchor="middle">約2年4か月</text>
+  <text x="300" y="398" text-anchor="middle" font-size="15" fill="#6b7280">使い切るのが遅い家ほど保管が長くなる。湿気とにおいを避けて置く</text>
+</svg>
