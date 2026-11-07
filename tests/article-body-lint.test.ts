@@ -184,8 +184,8 @@ describe("lintArticleBody（統合: 全記事）", () => {
   // 7月初旬の回復再判定後に順次浄化し、このリストから外す。詳細は
   // docs/IMPLEMENTATION_PLAN_BODY_NUMERIC_SINGLE_SOURCE.md / メモリ参照。
   // 測定凍結中のため table-composition の是正を保留している記事。解除日を過ぎたら直してここから外す。
-  // tissue-paper: 「## 上部の3商品の読み方…」（凍結は data/measurement-holds.json で 2026-11-07 解除）
-  const COMPOSITION_EXEMPT = new Set(["tissue-paper-comparison.md:table-composition"]);
+  // （2026-11-07 に tissue-paper を是正して空になった）
+  const COMPOSITION_EXEMPT = new Set<string>();
 
   it("記事ファイルが取得できている", () => {
     expect(files.length).toBeGreaterThan(0);
