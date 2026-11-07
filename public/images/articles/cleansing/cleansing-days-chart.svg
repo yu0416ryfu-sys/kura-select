@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" width="600" height="480" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>クレンジング1本で何日もつか</title>
+  <rect width="600" height="480" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">クレンジング1本は何日もつか</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">夜に1日1回使った場合の計算（端数は切り捨て）</text>
+
+  <!-- 基線 -->
+  <line x1="196" y1="100" x2="196" y2="436" stroke="#d1d5db" stroke-width="1"/>
+
+  <!-- 200mL -->
+  <text x="184" y="124" text-anchor="end" font-size="16" fill="#374151">200mL</text>
+  <text x="184" y="144" text-anchor="end" font-size="16" fill="#374151">1回2mL</text>
+  <rect x="196" y="114" width="117" height="30" rx="4" fill="#2f6f9f"/>
+  <text x="323" y="136" font-size="18" font-weight="700" fill="#1f2937">100日</text>
+
+  <text x="184" y="180" text-anchor="end" font-size="16" fill="#374151">200mL</text>
+  <text x="184" y="200" text-anchor="end" font-size="16" fill="#374151">1回4mL</text>
+  <rect x="196" y="170" width="58" height="30" rx="4" fill="#2f6f9f"/>
+  <text x="264" y="192" font-size="18" font-weight="700" fill="#1f2937">50日</text>
+
+  <text x="184" y="236" text-anchor="end" font-size="16" fill="#374151">200mL</text>
+  <text x="184" y="256" text-anchor="end" font-size="16" fill="#374151">1回6mL</text>
+  <rect x="196" y="226" width="39" height="30" rx="4" fill="#2f6f9f"/>
+  <text x="245" y="248" font-size="18" font-weight="700" fill="#1f2937">33日</text>
+
+  <!-- 480mL -->
+  <text x="184" y="292" text-anchor="end" font-size="16" fill="#374151">480mL</text>
+  <text x="184" y="312" text-anchor="end" font-size="16" fill="#374151">1回2mL</text>
+  <rect x="196" y="282" width="280" height="30" rx="4" fill="#d9822b"/>
+  <text x="486" y="304" font-size="18" font-weight="700" fill="#1f2937">240日</text>
+
+  <text x="184" y="348" text-anchor="end" font-size="16" fill="#374151">480mL</text>
+  <text x="184" y="368" text-anchor="end" font-size="16" fill="#374151">1回4mL</text>
+  <rect x="196" y="338" width="140" height="30" rx="4" fill="#d9822b"/>
+  <text x="346" y="360" font-size="18" font-weight="700" fill="#1f2937">120日</text>
+
+  <text x="184" y="404" text-anchor="end" font-size="16" fill="#374151">480mL</text>
+  <text x="184" y="424" text-anchor="end" font-size="16" fill="#374151">1回6mL</text>
+  <rect x="196" y="394" width="93" height="30" rx="4" fill="#d9822b"/>
+  <text x="299" y="416" font-size="18" font-weight="700" fill="#1f2937">80日</text>
+
+  <text x="300" y="464" text-anchor="middle" font-size="15" fill="#6b7280">1回の量はポンプや押し方で変わります。自分の量を測って当てはめてください</text>
+</svg>
