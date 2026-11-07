@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 470" width="600" height="470" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>年齢で変わるのは、フッ素の濃度と使う量</title>
+  <rect width="600" height="470" fill="#ffffff"/>
+  <text x="300" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">年齢で変わるのは、濃度と量</text>
+  <text x="300" y="58" text-anchor="middle" font-size="12.5" fill="#6b7280">4学会「フッ化物配合歯磨剤の推奨される利用方法」（2023年）から作成</text>
+
+  <!-- 列1: 歯が生えてから2歳 -->
+  <g>
+    <rect x="16" y="76" width="180" height="300" rx="10" fill="#f0f7ff" stroke="#93c5fd" stroke-width="1.5"/>
+    <rect x="16" y="76" width="180" height="40" rx="10" fill="#2f6fb5"/>
+    <rect x="16" y="104" width="180" height="12" fill="#2f6fb5"/>
+    <text x="106" y="102" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">歯が生えてから2歳</text>
+    <text x="106" y="146" text-anchor="middle" font-size="12" fill="#374151">フッ素の濃度</text>
+    <text x="106" y="172" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2937">900〜1000ppm</text>
+    <!-- 歯ブラシ -->
+    <rect x="36" y="206" width="70" height="8" rx="4" fill="#9ca3af"/>
+    <rect x="106" y="198" width="66" height="16" rx="3" fill="#e5e7eb" stroke="#9ca3af"/>
+    <ellipse cx="166" cy="194" rx="4" ry="3.5" fill="#2f6fb5"/>
+    <text x="106" y="246" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">米粒程度</text>
+    <text x="106" y="266" text-anchor="middle" font-size="13" fill="#374151">（1〜2mm 程度）</text>
+    <line x1="36" y1="284" x2="176" y2="284" stroke="#bfdbfe"/>
+    <text x="106" y="308" text-anchor="middle" font-size="13" fill="#374151">磨いたあとは</text>
+    <text x="106" y="328" text-anchor="middle" font-size="13" fill="#374151">ティッシュなどで</text>
+    <text x="106" y="348" text-anchor="middle" font-size="13" fill="#374151">軽く拭き取ってもよい</text>
+  </g>
+
+  <!-- 列2: 3〜5歳 -->
+  <g>
+    <rect x="210" y="76" width="180" height="300" rx="10" fill="#f0f7ff" stroke="#93c5fd" stroke-width="1.5"/>
+    <rect x="210" y="76" width="180" height="40" rx="10" fill="#2f6fb5"/>
+    <rect x="210" y="104" width="180" height="12" fill="#2f6fb5"/>
+    <text x="300" y="102" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">3〜5歳</text>
+    <text x="300" y="146" text-anchor="middle" font-size="12" fill="#374151">フッ素の濃度</text>
+    <text x="300" y="172" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2937">900〜1000ppm</text>
+    <rect x="230" y="206" width="70" height="8" rx="4" fill="#9ca3af"/>
+    <rect x="300" y="198" width="66" height="16" rx="3" fill="#e5e7eb" stroke="#9ca3af"/>
+    <rect x="344" y="189" width="18" height="9" rx="4.5" fill="#2f6fb5"/>
+    <text x="300" y="246" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">グリーンピース程度</text>
+    <text x="300" y="266" text-anchor="middle" font-size="13" fill="#374151">（5mm 程度）</text>
+    <line x1="230" y1="284" x2="370" y2="284" stroke="#bfdbfe"/>
+    <text x="300" y="308" text-anchor="middle" font-size="13" fill="#374151">磨いたら軽く吐き出す</text>
+    <text x="300" y="328" text-anchor="middle" font-size="13" fill="#374151">うがいは</text>
+    <text x="300" y="348" text-anchor="middle" font-size="13" fill="#374151">少量の水で1回だけ</text>
+  </g>
+
+  <!-- 列3: 6歳〜 -->
+  <g>
+    <rect x="404" y="76" width="180" height="300" rx="10" fill="#fff7ed" stroke="#fdba74" stroke-width="1.5"/>
+    <rect x="404" y="76" width="180" height="40" rx="10" fill="#b45309"/>
+    <rect x="404" y="104" width="180" height="12" fill="#b45309"/>
+    <text x="494" y="102" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">6歳〜大人</text>
+    <text x="494" y="146" text-anchor="middle" font-size="12" fill="#374151">フッ素の濃度</text>
+    <text x="494" y="172" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2937">1400〜1500ppm</text>
+    <rect x="424" y="206" width="70" height="8" rx="4" fill="#9ca3af"/>
+    <rect x="494" y="198" width="66" height="16" rx="3" fill="#e5e7eb" stroke="#9ca3af"/>
+    <rect x="494" y="189" width="66" height="9" rx="4.5" fill="#b45309"/>
+    <text x="494" y="246" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">歯ブラシ全体</text>
+    <text x="494" y="266" text-anchor="middle" font-size="13" fill="#374151">（1.5〜2cm 程度）</text>
+    <line x1="424" y1="284" x2="564" y2="284" stroke="#fed7aa"/>
+    <text x="494" y="308" text-anchor="middle" font-size="13" fill="#374151">磨いたら軽く吐き出す</text>
+    <text x="494" y="328" text-anchor="middle" font-size="13" fill="#374151">うがいは</text>
+    <text x="494" y="348" text-anchor="middle" font-size="13" fill="#374151">少量の水で1回だけ</text>
+  </g>
+
+  <!-- 共通 -->
+  <rect x="16" y="392" width="568" height="62" rx="8" fill="#f9fafb" stroke="#d1d5db"/>
+  <text x="300" y="417" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">どの年齢も、寝る前を含めて1日2回磨く</text>
+  <text x="300" y="440" text-anchor="middle" font-size="12.5" fill="#374151">1000ppmを超える歯磨き粉には「6歳未満への使用を控える」表示があります</text>
+</svg>
