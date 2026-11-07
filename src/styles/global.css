@@ -6,7 +6,7 @@
   --color-border: #e2e8f0;
   --color-text: #0f172a;
   --color-text-sub: #475569;
-  --color-primary: #0ea5e9;
+  --color-primary: #0369a1; /* リンク・Yahoo! ボタン等。白背景で 5.93:1（2026-11-07 #0ea5e9 から変更） */
   --color-primary-strong: #0369a1; /* 本文の見出し装飾・リスト記号。白背景で 5.93:1 */
   --color-accent: #10b981;
   --color-warning: #f59e0b;

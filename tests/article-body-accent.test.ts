@@ -33,6 +33,13 @@ describe("記事本文の青アクセント", () => {
     expect(contrast(strong, readToken("--color-surface"))).toBeGreaterThanOrEqual(4.5);
   });
 
+  // リンク色のコントラスト修正（計画書 IMPLEMENTATION_PLAN_LINK_COLOR_CONTRAST_2026-11-07.md §7）
+  it("--color-primary は白と surface に対して 4.5:1 以上", () => {
+    const primary = readToken("--color-primary");
+    expect(contrast(primary, "#ffffff")).toBeGreaterThanOrEqual(4.5);
+    expect(contrast(primary, readToken("--color-surface"))).toBeGreaterThanOrEqual(4.5);
+  });
+
   it("ArticleLayout の本文コンテナに article-body クラスがある", () => {
     expect(layout).toMatch(/<div class="article-body [^"]*"[^>]*>\s*<slot \/>/);
   });
