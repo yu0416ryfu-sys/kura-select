@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1000" width="600" height="1000" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>除菌スプレーの選び方（使う場所から）</title>
+  <rect width="600" height="1000" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">除菌スプレーの選び方</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">使う場所で成分が決まり、表示で確かめる</text>
+
+  <!-- A 手指 -->
+  <rect x="20" y="100" width="560" height="190" rx="14" fill="#eef5ff" stroke="#8fb4e8" stroke-width="2"/>
+  <rect x="40" y="116" width="220" height="38" rx="19" fill="#2f6fdb"/>
+  <text x="150" y="142" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">人の手指に使う</text>
+  <text x="40" y="186" font-size="19" font-weight="700" fill="#1f2937">→ 手指消毒用のアルコール</text>
+  <text x="40" y="218" font-size="16" fill="#374151">確かめる表示：「医薬品」「医薬部外品」の区分</text>
+  <text x="40" y="244" font-size="16" fill="#374151">濃度が vol%（体積）か重量%か</text>
+  <text x="40" y="270" font-size="15" fill="#6b7280">キッチン用や除菌消臭用は、手には使わない</text>
+
+  <!-- B キッチン -->
+  <rect x="20" y="306" width="560" height="190" rx="14" fill="#f0faf3" stroke="#8cc9a0" stroke-width="2"/>
+  <rect x="40" y="322" width="300" height="38" rx="19" fill="#2f8f57"/>
+  <text x="190" y="348" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">調理台・食卓・調理器具</text>
+  <text x="40" y="392" font-size="19" font-weight="700" fill="#1f2937">→ キッチン用のアルコール</text>
+  <text x="40" y="424" font-size="16" fill="#374151">確かめる表示：使い方（拭くか・置くか）</text>
+  <text x="40" y="450" font-size="16" fill="#374151">使えないもの（塗装面・アクリル・白木・銅や鉄など）</text>
+  <text x="40" y="476" font-size="15" fill="#6b7280">引火するので、火を止めてから使い、使う付近では火を使わない</text>
+
+  <!-- C 次亜塩素酸水 -->
+  <rect x="20" y="512" width="560" height="216" rx="14" fill="#fff7ea" stroke="#e8b86a" stroke-width="2"/>
+  <rect x="40" y="528" width="400" height="38" rx="19" fill="#c27a12"/>
+  <text x="240" y="554" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">アルコールを避けたい物の表面</text>
+  <text x="40" y="598" font-size="19" font-weight="700" fill="#1f2937">→ 次亜塩素酸水</text>
+  <text x="40" y="630" font-size="16" fill="#374151">確かめる表示：有効塩素濃度（ppm）・pH・使用期限</text>
+  <text x="40" y="656" font-size="16" fill="#374151">汚れを落とし、十分な量でぬらしてから拭き取る</text>
+  <text x="40" y="682" font-size="15" fill="#6b7280">光と時間で弱まるので、遮光の容器で冷暗所に置く</text>
+  <text x="40" y="708" font-size="15" fill="#6b7280">次亜塩素酸ナトリウム（塩素系漂白剤）とは別のもの</text>
+
+  <!-- D 布・靴 -->
+  <rect x="20" y="744" width="560" height="190" rx="14" fill="#f5f0ff" stroke="#b49be0" stroke-width="2"/>
+  <rect x="40" y="760" width="300" height="38" rx="19" fill="#6d4bb8"/>
+  <text x="190" y="786" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">靴・布・マスクのにおい</text>
+  <text x="40" y="830" font-size="19" font-weight="700" fill="#1f2937">→ 除菌消臭用のスプレー</text>
+  <text x="40" y="862" font-size="16" fill="#374151">確かめる表示：成分（アルコールか、それ以外か）</text>
+  <text x="40" y="888" font-size="16" fill="#374151">水に弱い素材・人や肌に吹かない、などの注意</text>
+  <text x="40" y="914" font-size="15" fill="#6b7280">衣類や布製品が中心なら、布用の消臭スプレーも候補</text>
+
+  <text x="300" y="970" text-anchor="middle" font-size="15" fill="#6b7280">人のいる部屋での空間噴霧（空中に向けて吹く）は推奨されていない</text>
+</svg>

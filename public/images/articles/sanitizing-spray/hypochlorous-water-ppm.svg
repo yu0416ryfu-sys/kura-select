@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640" width="600" height="640" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>次亜塩素酸水の濃度表示の読み方</title>
+  <rect width="600" height="640" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#1f2937">次亜塩素酸水の濃度表示の読み方</text>
+  <text x="300" y="76" text-anchor="middle" font-size="16" fill="#6b7280">物の拭き掃除の目安は、有効塩素濃度 80ppm 以上</text>
+
+  <!-- 目盛り -->
+  <rect x="40" y="130" width="520" height="34" rx="6" fill="#f3f4f6" stroke="#d1d5db"/>
+  <rect x="40" y="130" width="91" height="34" rx="6" fill="#e5e7eb"/>
+  <rect x="248" y="130" width="312" height="34" rx="0" fill="#fde7c2"/>
+  <line x1="131" y1="118" x2="131" y2="176" stroke="#6b7280" stroke-width="2"/>
+  <line x1="248" y1="110" x2="248" y2="184" stroke="#c27a12" stroke-width="3"/>
+  <line x1="300" y1="118" x2="300" y2="176" stroke="#6b7280" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="40" y="200" font-size="14" fill="#6b7280">0</text>
+  <text x="131" y="200" text-anchor="middle" font-size="15" font-weight="700" fill="#374151">35</text>
+  <text x="248" y="200" text-anchor="middle" font-size="17" font-weight="700" fill="#c27a12">80</text>
+  <text x="300" y="104" text-anchor="middle" font-size="15" font-weight="700" fill="#374151">100</text>
+  <text x="560" y="200" text-anchor="end" font-size="14" fill="#6b7280">200ppm</text>
+
+  <text x="40" y="232" font-size="15" fill="#374151">35ppm 以上：生成装置から直接、流水でかけ流すとき</text>
+  <text x="40" y="258" font-size="15" fill="#c27a12" font-weight="700">80ppm 以上：ボトルの液で拭き掃除をするとき</text>
+  <text x="40" y="284" font-size="15" fill="#374151">100ppm 以上：粉末（ジクロロイソシアヌル酸ナトリウム）を溶かしたタイプ</text>
+
+  <!-- 読み方 -->
+  <rect x="20" y="314" width="560" height="98" rx="12" fill="#fff7ea" stroke="#e8b86a" stroke-width="2"/>
+  <text x="40" y="346" font-size="17" font-weight="700" fill="#1f2937">「製造時 ○ppm」と書かれていたら</text>
+  <text x="40" y="374" font-size="15" fill="#374151">光・熱・時間で濃度は下がっていく。使用期限の表示を見て、</text>
+  <text x="40" y="398" font-size="15" fill="#374151">期限内に使い切れる量だけ買い、遮光の容器で冷暗所に置く</text>
+
+  <rect x="20" y="428" width="560" height="98" rx="12" fill="#eef5ff" stroke="#8fb4e8" stroke-width="2"/>
+  <text x="40" y="460" font-size="17" font-weight="700" fill="#1f2937">「原液 ○ppm」と書かれていたら</text>
+  <text x="40" y="488" font-size="15" fill="#374151">薄めて使う前提かどうかを、届いたラベルの使用方法で確かめる。</text>
+  <text x="40" y="512" font-size="15" fill="#374151">希釈用の製品は、表示どおりに薄める</text>
+
+  <rect x="20" y="542" width="560" height="74" rx="12" fill="#f9fafb" stroke="#d1d5db" stroke-width="2"/>
+  <text x="40" y="572" font-size="15" fill="#374151">あわせて見る表示：pH（酸性度）・使用方法・使用期限</text>
+  <text x="40" y="598" font-size="15" fill="#374151">汚れが残っていると弱まるので、先に汚れを落としてから使う</text>
+</svg>
