@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" width="600" height="700" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
-  <title>体重4kgの猫1頭で、袋を使い切るまでの日数</title>
+  <title>体重4kgの猫1匹で、袋を使い切るまでの日数</title>
   <rect width="600" height="700" fill="#ffffff"/>
-  <text x="300" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">猫1頭で、袋を使い切るまでの日数</text>
+  <text x="300" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">猫1匹で、袋を使い切るまでの日数</text>
   <text x="300" y="70" text-anchor="middle" font-size="16" fill="#6b7280">体重4kgの成猫が1日55〜60g食べる場合</text>
   <rect x="214.7" y="100" width="32.7" height="462" fill="#e6f4ea"/>
   <text x="231" y="118" text-anchor="middle" font-size="14" font-weight="700" fill="#2e7d4f">開封後</text>
@@ -36,7 +36,7 @@
   <text x="409" y="590" text-anchor="middle" font-size="13" fill="#6b7280">120</text>
   <text x="473.7" y="590" text-anchor="middle" font-size="13" fill="#6b7280">150</text>
   <text x="538.4" y="590" text-anchor="middle" font-size="13" fill="#6b7280">180日</text>
-  <text x="300" y="628" text-anchor="middle" font-size="16" fill="#374151">2頭なら日数はおよそ半分、3頭なら3分の1になる</text>
+  <text x="300" y="628" text-anchor="middle" font-size="16" fill="#374151">2匹なら日数はおよそ半分、3匹なら3分の1になる</text>
   <text x="300" y="656" text-anchor="middle" font-size="13" fill="#6b7280">1日の量はロイヤルカナン インドア・インドア 7+・ニュートロ・ねこままちょいすの</text>
   <text x="300" y="676" text-anchor="middle" font-size="13" fill="#6b7280">給与量の表（体重4kgの欄）から計算。目安の幅はロイヤルカナン・ヒルズの FAQ</text>
 </svg>
