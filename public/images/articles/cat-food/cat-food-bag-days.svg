@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" width="600" height="700" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>体重4kgの猫1頭で、袋を使い切るまでの日数</title>
+  <rect width="600" height="700" fill="#ffffff"/>
+  <text x="300" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">猫1頭で、袋を使い切るまでの日数</text>
+  <text x="300" y="70" text-anchor="middle" font-size="16" fill="#6b7280">体重4kgの成猫が1日55〜60g食べる場合</text>
+  <rect x="214.7" y="100" width="32.7" height="462" fill="#e6f4ea"/>
+  <text x="231" y="118" text-anchor="middle" font-size="14" font-weight="700" fill="#2e7d4f">開封後</text>
+  <text x="231" y="136" text-anchor="middle" font-size="14" font-weight="700" fill="#2e7d4f">1〜1.5か月</text>
+  <line x1="150" y1="146" x2="150" y2="568" stroke="#9ca3af" stroke-width="1.5"/>
+  <text x="138" y="173" text-anchor="end" font-size="18" font-weight="700" fill="#1f2937">500g</text>
+  <rect x="150" y="150" width="19.4" height="34" rx="4" fill="#2f6fb5"/>
+  <text x="177" y="173" font-size="16" fill="#374151">約8〜9日</text>
+  <text x="138" y="235" text-anchor="end" font-size="18" font-weight="700" fill="#1f2937">800g</text>
+  <rect x="150" y="212" width="32.4" height="34" rx="4" fill="#2f6fb5"/>
+  <text x="256" y="235" font-size="16" fill="#374151">約13〜15日</text>
+  <text x="138" y="297" text-anchor="end" font-size="18" font-weight="700" fill="#1f2937">2kg</text>
+  <rect x="150" y="274" width="77.7" height="34" rx="4" fill="#2f6fb5"/>
+  <text x="256" y="297" font-size="16" fill="#374151">約33〜36日</text>
+  <text x="138" y="359" text-anchor="end" font-size="18" font-weight="700" fill="#1f2937">2.7kg</text>
+  <rect x="150" y="336" width="105.7" height="34" rx="4" fill="#d9701f"/>
+  <text x="264" y="359" font-size="16" fill="#374151">約45〜49日</text>
+  <text x="138" y="421" text-anchor="end" font-size="18" font-weight="700" fill="#1f2937">3.5kg</text>
+  <rect x="150" y="398" width="138.1" height="34" rx="4" fill="#d9701f"/>
+  <text x="296" y="421" font-size="16" fill="#374151">約58〜64日</text>
+  <text x="138" y="483" text-anchor="end" font-size="18" font-weight="700" fill="#1f2937">4kg</text>
+  <rect x="150" y="460" width="157.5" height="34" rx="4" fill="#d9701f"/>
+  <text x="316" y="483" font-size="16" fill="#374151">約67〜73日</text>
+  <text x="138" y="545" text-anchor="end" font-size="18" font-weight="700" fill="#1f2937">10kg</text>
+  <rect x="150" y="522" width="392.8" height="34" rx="4" fill="#d9701f"/>
+  <text x="530" y="545" text-anchor="end" font-size="16" font-weight="700" fill="#ffffff">約167〜182日</text>
+  <line x1="150" y1="568" x2="560" y2="568" stroke="#9ca3af" stroke-width="1.5"/>
+  <text x="150" y="590" text-anchor="middle" font-size="13" fill="#6b7280">0</text>
+  <text x="214.7" y="590" text-anchor="middle" font-size="13" fill="#6b7280">30</text>
+  <text x="279.5" y="590" text-anchor="middle" font-size="13" fill="#6b7280">60</text>
+  <text x="344.2" y="590" text-anchor="middle" font-size="13" fill="#6b7280">90</text>
+  <text x="409" y="590" text-anchor="middle" font-size="13" fill="#6b7280">120</text>
+  <text x="473.7" y="590" text-anchor="middle" font-size="13" fill="#6b7280">150</text>
+  <text x="538.4" y="590" text-anchor="middle" font-size="13" fill="#6b7280">180日</text>
+  <text x="300" y="628" text-anchor="middle" font-size="16" fill="#374151">2頭なら日数はおよそ半分、3頭なら3分の1になる</text>
+  <text x="300" y="656" text-anchor="middle" font-size="13" fill="#6b7280">1日の量はロイヤルカナン インドア・インドア 7+・ニュートロ・ねこままちょいすの</text>
+  <text x="300" y="676" text-anchor="middle" font-size="13" fill="#6b7280">給与量の表（体重4kgの欄）から計算。目安の幅はロイヤルカナン・ヒルズの FAQ</text>
+</svg>
