@@ -9,7 +9,7 @@
   ],
   "plan": "docs/PLAN_IMPRESSION_ADS_2026-11-03_V3.md",
   "excludedDates": ["2026-10-31"],
-  "eps": null,
+  "eps": 20.87,
   "selection": {
     "date": "2026-11-03",
     "window": "2026-10-04..2026-10-30",
