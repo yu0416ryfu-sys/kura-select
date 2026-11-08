@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-08",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。凍結の対象・起点日・解除日（releaseDate）はこのファイルが唯一の正（2026-09-15 改定）。",
     "施策の中身・判定根拠・経緯の正はローカルのメモリ project_measurement_holds。機械判定（scripts/check-internal-links.mjs など）もこのファイルを読む。施策を打ったら両者を必ず同時に更新する。",
@@ -142,25 +142,6 @@
       ],
       "simultaneous": true,
       "note": "cohort-02 施策群の解除日（10-09）に実施。区分D＋title/description 変更の同時実施なので施策型の判定には使わない。R3 非該当（baseline-2026-10-06: クリック47・表示1323・順位9.3）。r6 Dove 330g×18袋・r7 カウブランド 450mL は pricePerUnit 未設定のまま（capacity-review 10-08: multiple capacity variant。カウブランドは【2-6個】の選択式出品で価格が容量と対応しない疑い）＝区分A/B の範囲で別途。前窓は 10-12 に取る cohort-02 後窓（09-11〜10-08）の baseline を流用。起点はデプロイ日（JST） ｜10-22: JSON-LD から売り手宣言を除去（計画書2 第1段・区分C・全記事）。判定時に併記 ｜10-24: 記事本文の見出し・リスト記号に青アクセント（CSS のみ・全記事・title/description/本文/商品は不変）。判定時に併記 ｜10-27: サイト全体の購入ボタン順変更（Amazon を最安の次の2番目へ・SERP 非露出・送客は指標にしていないので凍結は起こさない。docs/IMPLEMENTATION_PLAN_AMAZON_SECOND_2026-10-25.md）。判定時に併記 ｜10-31: 記事テンプレの横あふれ修正（CSS クラスのみ・全記事・title/description/本文/商品は不変。SERP 非露出。docs/IMPLEMENTATION_PLAN_ARTICLE_GRID_OVERFLOW_2026-10-31.md）。判定時に併記 ｜11-01: PC の比較表の列統合（容量・コスパを1列に・クラスと PC 用テーブルの見出しのみ・全比較記事。title/description/本文/商品は不変。SERP 非露出。docs/IMPLEMENTATION_PLAN_COMPARISON_TABLE_COLUMNS_2026-11-01.md）。判定時に併記 ｜11-03: sitemap の記事 lastmod を内容の更新日に変更（計画書5 Part A・525891c1・全記事。frontmatter・title/description/本文/商品・画面表示は不変。lastmod が毎週の価格同期日から内容の更新日に戻るので、クロール頻度に作用しうる）。判定時に併記"
-    },
-    {
-      "slug": "water-filter-cartridge-comparison",
-      "releaseDate": "2026-11-09",
-      "releaseLabel": "2026-11-08",
-      "targetType": "new-article",
-      "startedAt": "2026-10-25",
-      "searchNeed": "ブリタのポット型浄水器を使っていて交換用カートリッジを買い足したい人が、純正品と互換品のどれが1個あたり安いか・自分のポットに合うかを知りたくて「ブリタ カートリッジ 互換」「浄水器カートリッジ おすすめ」「マクストラ カートリッジ 安い」などで検索している。GSC では受け皿が無く表示は測れていない（試験枠: Google トレンド「浄水器カートリッジ」過去90日横ばい・楽天「ポット型 浄水器 カートリッジ」2,846件）。新記事が受ければ、カートリッジ系クエリの順位帯と表示/日に出るはず",
-      "measures": [
-        "カートリッジ系クエリ（「カートリッジ」または「マクストラ」を含むクエリ）の順位帯",
-        "表示/日",
-        "インデックス登録（lastCrawlTime）"
-      ],
-      "actions": [
-        "新規記事公開（試験枠・6選＝純正2・互換4・マクストラ規格に限定・カテゴリ mineral-water に同居）＋water-server-buyout の本文から被リンク1本"
-      ],
-      "simultaneous": false,
-      "note": "2026-10-25 ユーザー承認（kura-article-recommend の試験枠で採択。10-17 の「10月は新規を出さない」判断をユーザーが上書き）。判定は公開2週後の順位帯＝判定日 2026-11-08（カートリッジ系クエリのどれかで10位以内なら離陸）。試験枠の2週判定は6本たまったら本線と比較する。起点日は main への push 日。push が 10-25 より後になったら startedAt・releaseDate をずらす ｜10-27: サイト全体の購入ボタン順変更（Amazon を最安の次の2番目へ・SERP 非露出・送客は指標にしていないので凍結は起こさない。docs/IMPLEMENTATION_PLAN_AMAZON_SECOND_2026-10-25.md）。判定時に併記 ｜10-29: r2 の互換10個セット出品終了→同ショップ同一品の8個セットへ差し替え（区分D・内容量変更。ユーザー明示判断で「2施策同時」扱い。単価順2位のまま）。同日、被リンク元 water-server-buyout から puriot CUTE を削除し4→3機種に改稿（本記事へのリンクは維持）。判定時に併記 ｜10-31: 記事テンプレの横あふれ修正（CSS クラスのみ・全記事・title/description/本文/商品は不変。SERP 非露出。docs/IMPLEMENTATION_PLAN_ARTICLE_GRID_OVERFLOW_2026-10-31.md）。判定時に併記 ｜11-01: PC の比較表の列統合（容量・コスパを1列に・クラスと PC 用テーブルの見出しのみ・全比較記事。title/description/本文/商品は不変。SERP 非露出。docs/IMPLEMENTATION_PLAN_COMPARISON_TABLE_COLUMNS_2026-11-01.md）。判定時に併記 ｜11-03: sitemap の記事 lastmod を内容の更新日に変更（計画書5 Part A・525891c1・全記事。frontmatter・title/description/本文/商品・画面表示は不変。lastmod が毎週の価格同期日から内容の更新日に戻るので、クロール頻度に作用しうる）。判定時に併記",
-      "source": "project_measurement_holds"
     },
     {
       "slug": "copy-paper-comparison",
