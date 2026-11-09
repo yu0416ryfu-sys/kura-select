@@ -4,7 +4,7 @@ description: "手拭き用ペーパータオルのおすすめ10選を、1枚（
 category: "kitchen-paper"
 publishedAt: "2026-10-14"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "200枚×49袋"
     pricePerUnit: "約0.54円/枚"
     rating: 4.77
-    reviewCount: 284
+    reviewCount: 287
     features:
       - "小判サイズの1枚もの（シングル）"
       - "国産の業務用ペーパータオル"
@@ -71,7 +71,7 @@ products:
     capacity: "200枚×30袋（6000枚）"
     pricePerUnit: "約0.65円/枚"
     rating: 4.62
-    reviewCount: 321
+    reviewCount: 322
     features:
       - "中判サイズの1枚もの（シングル）"
       - "業務用・家庭用兼用のエコタイプ"
@@ -265,7 +265,7 @@ products:
     capacity: "200組×10袋"
     pricePerUnit: "約1.8円/組"
     rating: 4.72
-    reviewCount: 373
+    reviewCount: 374
     features:
       - "中判の2枚重ね・ソフトタイプ"
       - "厚手で蛍光染料不使用"

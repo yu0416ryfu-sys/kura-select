@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 draft: false
 products:
   - rank: 1
@@ -167,6 +167,40 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_j974081"
         available: true
   - rank: 6
+    name: "トイレクイックル つめかえ用 10枚×12パック"
+    brand: "花王（クイックル）"
+    price: 2800
+    capacity: "10枚×12パック（120枚）"
+    pricePerUnit: "約23円/枚"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "トイレ用の掃除シート"
+      - "詰め替えやまとめ買い向けタイプ"
+      - "便器や便座まわりの拭き掃除向け"
+    pros:
+      - "日常掃除用をストックしやすい"
+      - "用途や香り違いで選びやすい"
+      - "流せるタイプを比較しやすい"
+    cons:
+      - "一度に流せる枚数を守る必要がある"
+      - "乾燥しにくい保管方法を確認したい"
+    recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00usdzn.3rdw6099.g00usdzn.3rdw7f54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosdmarket%2Fny0100264%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosdmarket%2Fi%2F10000286%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osdmarket/cabinet/imgrc0106901187.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F4901301510808.html"
+        matchStatus: "matched"
+        updatedAt: "2026-09-19"
+        price: 3036
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_4901301510808"
+        available: true
+    genreId: "508447"
+  - rank: 7
     name: "エリエール ミチガエル トイレクリーナー 本体 10枚"
     brand: "大王製紙（エリエール）"
     price: 251
@@ -200,7 +234,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-30881"
         available: true
     genreId: "216022"
-  - rank: 7
+  - rank: 8
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 20枚"
     brand: "花王（クイックル）"
     price: 506
@@ -234,48 +268,14 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_jww8043"
         available: true
     genreId: "401619"
-  - rank: 8
-    name: "トイレクイックル つめかえ用 10枚×12パック"
-    brand: "花王（クイックル）"
-    price: 3000
-    capacity: "10枚×12パック（120枚）"
-    pricePerUnit: "約25円/枚"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "トイレ用の掃除シート"
-      - "詰め替えやまとめ買い向けタイプ"
-      - "便器や便座まわりの拭き掃除向け"
-    pros:
-      - "日常掃除用をストックしやすい"
-      - "用途や香り違いで選びやすい"
-      - "流せるタイプを比較しやすい"
-    cons:
-      - "一度に流せる枚数を守る必要がある"
-      - "乾燥しにくい保管方法を確認したい"
-    recommendedFor: "トイレ掃除シートを枚数や香りで比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00usdzn.3rdw6099.g00usdzn.3rdw7f54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosdmarket%2Fny0100264%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fosdmarket%2Fi%2F10000286%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/osdmarket/cabinet/imgrc0106901187.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsudareyosizu%2F4901301510808.html"
-        matchStatus: "matched"
-        updatedAt: "2026-09-19"
-        price: 3036
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_4901301510808"
-        available: true
-    genreId: "508447"
   - rank: 9
     name: "トイレクイックル つめかえ用 ジャンボパック 20枚×6個"
     brand: "トイレクイックル（花王）"
     price: 3168
     capacity: "20枚×6個（120枚）"
     pricePerUnit: "約26円/枚"
-    rating: 4.5
-    reviewCount: 2
+    rating: 4.67
+    reviewCount: 3
     features:
       - "トイレに流せる厚手の掃除シート"
       - "本体ケースに詰め替えて使うタイプ"
@@ -305,7 +305,7 @@ products:
   - rank: 10
     name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×4個"
     brand: "花王（クイックル）"
-    price: 2283
+    price: 2339
     capacity: "16枚×4個（64枚）"
     rating: 0
     reviewCount: 0
@@ -324,7 +324,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5nyn.3rdw649e.g00u5nyn.3rdw7766/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnrfonline%2Fnrfc62ee2607a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnrfonline%2Fi%2F10119823%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nrfonline/cabinet/onesell660/nrfc62ee2607a.jpg?_ex=128x128"
     genreId: "401619"
-    pricePerUnit: "約36円/枚"
+    pricePerUnit: "約37円/枚"
 tags:
   - "トイレ掃除シート おすすめ"
   - "トイレ掃除シート コスパ"

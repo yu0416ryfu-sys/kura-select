@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 products:
   - rank: 1
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
@@ -48,7 +48,7 @@ products:
     capacity: "240g"
     pricePerUnit: "約5.0円/g"
     rating: 4.73
-    reviewCount: 84
+    reviewCount: 85
     features:
       - "海泥（含硫ケイ酸Al）入りの石けん系洗顔料"
       - "表示の使用量は約1cmで、240g入り"
@@ -72,7 +72,7 @@ products:
     capacity: "110g"
     pricePerUnit: "約18円/g"
     rating: 4.6
-    reviewCount: 2053
+    reviewCount: 2055
     features:
       - "ベントナイトやカオリンなどのクレイを配合した洗顔料"
       - "泡立てネットで泡立てて使う"
@@ -166,7 +166,7 @@ products:
     capacity: "150g×2点（300g）"
     pricePerUnit: "約21円/g"
     rating: 4.45
-    reviewCount: 3826
+    reviewCount: 3827
     features:
       - "スプレー缶から炭酸泡が出る洗顔・パック兼用品"
       - "泡を顔全体に広げて約1分置き、洗い流す"
@@ -259,7 +259,7 @@ products:
     price: 2200
     capacity: "130g"
     rating: 4.62
-    reviewCount: 1269
+    reviewCount: 1270
     features:
       - "ベントナイト入りの泥洗顔で、洗浄の主体は石けん系"
       - "泡立てネットが付いている"

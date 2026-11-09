@@ -4,7 +4,7 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 draft: false
 products:
   - rank: 1
@@ -48,7 +48,7 @@ products:
     capacity: "40本"
     pricePerUnit: "約10円/本"
     rating: 4.55
-    reviewCount: 117
+    reviewCount: 118
     features:
       - "ワイヤーを使わないラバー（エラストマー）の歯間ブラシ"
       - "4S-3S / SS-M / M-L の3区分から選び、1パック40本入"

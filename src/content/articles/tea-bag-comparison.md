@@ -4,7 +4,7 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-09"
 draft: false
 products:
   - rank: 1
@@ -36,8 +36,8 @@ products:
     price: 3326
     capacity: "54袋×10袋（540袋）"
     pricePerUnit: "約6.2円/袋"
-    rating: 4.63
-    reviewCount: 8
+    rating: 4.67
+    reviewCount: 9
     features:
       - "1L用ピッチャー対応サイズ"
       - "カフェインゼロ・まとめ買いセット"

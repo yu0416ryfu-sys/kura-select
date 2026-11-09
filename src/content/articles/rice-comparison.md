@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 products:
   - rank: 1
     name: "国内産 ブレンド米 白米 10kg（訳あり）"
@@ -109,6 +109,40 @@ products:
         reviewCount: 120
     genreId: "201184"
   - rank: 4
+    name: "令和7年産 無洗米 茨城県産コシヒカリ 10kg"
+    brand: "ミツハシライス"
+    price: 6010
+    capacity: "10kg"
+    features:
+      - "洗米不要で炊飯前の手間を減らしやすい"
+      - "茨城県産コシヒカリの10kgセット"
+      - "5kg袋を複数で管理しやすい構成"
+    pros:
+      - "毎日食べるお米をまとめて備えやすい"
+      - "無洗米なので忙しい日の炊飯に向いている"
+      - "定番銘柄を選びたい家庭に合わせやすい"
+    cons:
+      - "白米を研ぐ工程にこだわりたい方には合わない場合がある"
+      - "開封後は湿気と高温を避けて保管したい"
+    recommendedFor: "無洗米の手軽さとコシヒカリの定番感を両立したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ssfqn.3rdw6d1d.g00ssfqn.3rdw78d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsese-koreachiba%2Fkome7-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsese-koreachiba%2Fi%2F10002321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rating: 4.13
+    reviewCount: 8
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sese-koreachiba/cabinet/07436295/imgrc0100227991.jpg?_ex=128x128"
+    pricePerUnit: "約601円/kg"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurunavi%2F1670297.html"
+        matchStatus: "pending"
+        updatedAt: "2026-09-01"
+        price: 15000
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/furunavi_1670297"
+        available: true
+        rating: 0
+        reviewCount: 0
+    genreId: "201184"
+  - rank: 5
     name: "令和8年産 無洗米 新潟産コシヒカリ 10kg"
     brand: "ミツハシライス"
     price: 6200
@@ -142,7 +176,7 @@ products:
         rating: 4.93
         reviewCount: 15
     genreId: "201184"
-  - rank: 5
+  - rank: 6
     name: "無洗米 富山県産コシヒカリ 10kg"
     brand: "ヤマトライス"
     price: 7280
@@ -164,40 +198,6 @@ products:
     reviewCount: 152
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/tym/koshi/bg/000324-2_.jpg?_ex=128x128"
     pricePerUnit: "約728円/kg"
-    genreId: "201184"
-  - rank: 6
-    name: "令和7年産 無洗米 茨城県産コシヒカリ 10kg"
-    brand: "ミツハシライス"
-    price: 8380
-    capacity: "10kg"
-    features:
-      - "洗米不要で炊飯前の手間を減らしやすい"
-      - "茨城県産コシヒカリの10kgセット"
-      - "5kg袋を複数で管理しやすい構成"
-    pros:
-      - "毎日食べるお米をまとめて備えやすい"
-      - "無洗米なので忙しい日の炊飯に向いている"
-      - "定番銘柄を選びたい家庭に合わせやすい"
-    cons:
-      - "白米を研ぐ工程にこだわりたい方には合わない場合がある"
-      - "開封後は湿気と高温を避けて保管したい"
-    recommendedFor: "無洗米の手軽さとコシヒカリの定番感を両立したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ssfqn.3rdw6d1d.g00ssfqn.3rdw78d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsese-koreachiba%2Fkome7-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsese-koreachiba%2Fi%2F10002321%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    rating: 4.13
-    reviewCount: 8
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sese-koreachiba/cabinet/07436295/imgrc0100227991.jpg?_ex=128x128"
-    pricePerUnit: "約838円/kg"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffurunavi%2F1670297.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
-        price: 15000
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/furunavi_1670297"
-        available: true
-        rating: 0
-        reviewCount: 0
     genreId: "201184"
   - rank: 7
     name: "令和7年 佐渡産コシヒカリ 2kg"

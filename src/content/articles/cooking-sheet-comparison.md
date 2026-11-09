@@ -1,10 +1,10 @@
 ---
-title: "クッキングシート コスパ比較【2026年版】8選"
+title: "クッキングシート コスパ比較【2026年版】7選"
 description: "クッキングシートを1mあたりの価格で比較。家庭用と業務用の違い、トースターやフライパンで使えるか、何メートルで何か月もつかをメーカーの表示と計算で整理します。"
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 products:
   - rank: 1
     name: "フジ クッキングシート 業務用 33cm×30m"
@@ -205,7 +205,7 @@ products:
     price: 1980
     capacity: "100枚入り"
     rating: 4.7
-    reviewCount: 230
+    reviewCount: 231
     features:
       - "PFASフリー・ノンフッ素と表示された未晒（無漂白）のシート"
       - "1枚30×40cmのカット済みで、切らずに使える"
@@ -222,29 +222,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/newbigace/cabinet/biiino/item/s-image/imgrc0190907654.jpg?_ex=128x128"
     genreId: "401532"
     priceMax: 2700
-  - rank: 8
-    name: "白クッキングシート 33cm×30m"
-    brand: "UACJ製箔"
-    price: 1109
-    capacity: "33cm×30m"
-    rating: 5
-    reviewCount: 1
-    features:
-      - "UACJ製箔の両面シリコーン樹脂加工耐油紙"
-      - "耐熱250℃（20分）の表示"
-      - "1本・10本・20本から選べる白色のロール"
-    pros:
-      - "オーブン・電子レンジ・蒸し物・煮付けに使える"
-      - "商品名に日本製の表示がある"
-      - "本数をまとめて買える"
-    cons:
-      - "使い捨て設計で繰り返し使えるタイプよりコストがかかる"
-      - "30m巻でストックスペースが必要"
-    recommendedFor: "業務用ロールを本数をまとめて買いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6j6n.3rdw6b39.g00r6j6n.3rdw7ef8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuroya-shop%2F10004703%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukuroya-shop%2Fi%2F10004703%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fukuroya-shop/cabinet/02093156/02990298/03176211/imgrc0106122030.jpg?_ex=128x128"
-    priceMax: 17732
-    genreId: "401532"
 tags:
   - "クッキングシート おすすめ"
   - "クッキングシート コスパ"

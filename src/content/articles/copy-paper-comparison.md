@@ -1,10 +1,10 @@
 ---
-title: "コピー用紙おすすめ10選【2026年】A4を1枚単価で比較｜高白色・再生紙の選び方"
-description: "A4コピー用紙のおすすめ10選を、高白色・標準白色・再生紙に分けて1枚単価で比較。白色度と紙厚の見方、月の枚数から逆算する冊数、法人限定や送料別で失敗しない買い方、履歴書や両面印刷に使えるかまで解説します。"
+title: "コピー用紙おすすめ9選【2026年】A4を1枚単価で比較｜高白色・再生紙の選び方"
+description: "A4コピー用紙のおすすめ9選を、高白色・標準白色・再生紙に分けて1枚単価で比較。白色度と紙厚の見方、月の枚数から逆算する冊数、法人限定や送料別で失敗しない買い方、履歴書や両面印刷に使えるかまで解説します。"
 category: "copy-paper"
 publishedAt: "2026-10-31"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 draft: false
 products:
   - rank: 1
@@ -184,7 +184,7 @@ products:
     capacity: "500枚×5冊（2500枚）"
     pricePerUnit: "約0.96円/枚"
     rating: 4.63
-    reviewCount: 259
+    reviewCount: 260
     features:
       - "10冊入りと同じ銘柄の5冊入り"
       - "白色度92%で、PEFC認証材を使った用紙"
@@ -246,40 +246,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9122182"
         available: true
   - rank: 8
-    name: "スーパーエコー コピー用紙 マルチ対応 A4サイズ 1箱 5000枚 500枚×10冊"
-    brand: "キラット"
-    price: 4799
-    capacity: "500枚×10冊（5000枚）"
-    pricePerUnit: "約0.96円/枚"
-    rating: 4.71
-    reviewCount: 76
-    features:
-      - "白色度86%・坪量67g/m²・紙厚93μm（商品ページ表記）"
-      - "自然な白さの標準白色タイプ"
-      - "高速コピー機やインクジェットプリンターにも対応と案内されたマルチ用紙"
-    pros:
-      - "真っ白より落ち着いた紙色が好みの人に合う"
-      - "文字が中心の社内資料を大量に刷る職場で使いやすい"
-      - "レーザーとインクジェットの両方がある環境で1種類にまとめやすい"
-    cons:
-      - "写真やグラフの発色を重視するなら高白色タイプのほうが向く"
-      - "標準白色でも単価は高白色タイプと変わらないことがある"
-    recommendedFor: "文字中心の書類を、自然な白さの紙で刷りたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2F011082%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10000981%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/paper/paper01/011082_1.jpg?_ex=128x128"
-    genreId: "303145"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fofficetrust%2F9i0003.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 5020
-        rating: 0
-        reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/officetrust_9i0003"
-        available: true
-  - rank: 9
     name: "コピー用紙 ホワイトエコペーパー A4サイズ 1冊 500枚 高白色"
     brand: "キラット"
     price: 498
@@ -313,7 +279,7 @@ products:
         reviewCount: 39
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kilat_9i2113"
         available: true
-  - rank: 10
+  - rank: 9
     name: "王子製紙 リサイクルコピー用紙 Newやまゆり100 A4 500枚×5冊"
     brand: "王子製紙"
     price: 3051

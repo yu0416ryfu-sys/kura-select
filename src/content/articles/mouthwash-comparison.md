@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 products:
   - rank: 1
     name: "リステリン トータルケアプラス クリーンミント"
@@ -206,8 +206,8 @@ products:
     price: 2970
     capacity: "330mL"
     pricePerUnit: "約9.0円/mL"
-    rating: 4.68
-    reviewCount: 177
+    rating: 4.69
+    reviewCount: 178
     features:
       - "植物由来成分を中心にした低刺激処方"
       - "パラベンフリー・アルコールフリーで敏感な方にも対応"
@@ -240,8 +240,8 @@ products:
     price: 2300
     capacity: "100mL（約700回分）"
     pricePerUnit: "約23円/mL"
-    rating: 4.75
-    reviewCount: 637
+    rating: 4.74
+    reviewCount: 639
     features:
       - "歯科医院でも販売されている薬用マウスウォッシュ"
       - "殺菌成分グルコン酸クロルヘキシジン配合"
@@ -308,7 +308,7 @@ products:
     price: 2580
     capacity: "300mL"
     rating: 4.6
-    reviewCount: 2954
+    reviewCount: 2959
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"

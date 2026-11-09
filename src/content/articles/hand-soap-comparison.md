@@ -4,7 +4,7 @@ description: "ハンドソープはどれが殺菌力とコスパを両立する
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 products:
   - rank: 1
     name: "ビオレu 薬用 泡ハンドソープ つめかえ用 2L"
@@ -284,8 +284,8 @@ products:
     brand: "サラヤ（ハンドラボ）"
     price: 578
     capacity: "300mL"
-    rating: 4.86
-    reviewCount: 56
+    rating: 4.89
+    reviewCount: 55
     features:
       - "医薬部外品の薬用処方で殺菌・消毒に対応した泡ハンドソープ"
       - "たっぷり泡立つポンプ設計で手洗いしやすい"

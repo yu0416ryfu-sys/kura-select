@@ -4,7 +4,7 @@ description: "ボディソープを1mLあたりのコストで比較。hadakara�
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 products:
   - rank: 1
     name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
@@ -158,7 +158,7 @@ products:
     capacity: "115g"
     pricePerUnit: "約12円/g"
     rating: 4.79
-    reviewCount: 356
+    reviewCount: 357
     features:
       - "ボディソープとして使える洗浄料"
       - "継続利用しやすい定番構成"

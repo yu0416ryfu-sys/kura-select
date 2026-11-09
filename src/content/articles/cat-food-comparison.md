@@ -4,17 +4,17 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 draft: false
 products:
   - rank: 1
     name: "ロイヤルカナン インドア 室内で生活する成猫用 10kg"
     brand: "ロイヤルカナン"
-    price: 12990
+    price: 12983
     capacity: "10kg"
     pricePerUnit: "約1.3円/g"
-    rating: 4.71
-    reviewCount: 38
+    rating: 4.73
+    reviewCount: 829
     features:
       - "生後12か月から7歳までの、室内で暮らす成猫用の総合栄養食"
       - "10kgの1袋。小分けされていなかったという購入者の声がある"
@@ -26,8 +26,8 @@ products:
       - "体重4kgの猫1匹だと使い切るまで約半年かかり、開封後1〜1.5か月の目安を大きく超える"
       - "7歳を過ぎたらインドア 7+ をメーカーがすすめている"
     recommendedFor: "室内で暮らす成猫が4匹前後いて、インドアを食べ慣れている家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qod0n.3rdw6045.g00qod0n.3rdw7a49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhigopet%2F02706940%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhigopet%2Fi%2F10053228%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/higopet/cabinet/02/02706940.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fw-105176-00-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10013214%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/rinji/w-105176-00-00.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -201,7 +201,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2614円/個"
     rating: 4.65
-    reviewCount: 921
+    reviewCount: 923
     features:
       - "16種類から1つを選ぶ出品（インドア・グレインフリー・7歳以上・子ねこ用など）"
       - "内容量は種類によって1.6kg・2kg・2.2kg"
@@ -233,7 +233,7 @@ products:
     price: 5759
     capacity: "3.5kg"
     rating: 4.82
-    reviewCount: 154
+    reviewCount: 155
     features:
       - "7歳以上の、室内で暮らす中高齢猫用の総合栄養食"
       - "3.5kgのジッパー付きの袋。2個・4個のセットも選べる"
@@ -299,7 +299,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.72
-    reviewCount: 1072
+    reviewCount: 1078
     features:
       - "12種類から1つを選ぶ出品で、どれも2kg"
       - "室内猫アダルト・子猫用・エイジングケア・穀物フリー・毛玉ケア・減量用などがある"

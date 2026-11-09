@@ -4,7 +4,7 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 draft: false
 products:
   - rank: 1
@@ -286,7 +286,7 @@ products:
     capacity: "4枚×10袋（40枚）"
     pricePerUnit: "約59円/枚"
     rating: 4.65
-    reviewCount: 1094
+    reviewCount: 1095
     features:
       - "ポリプロピレン・ポリエステル製のヘアキャッチャー"
       - "台所・浴室どちらの排水口にも対応"

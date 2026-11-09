@@ -4,7 +4,7 @@ description: "乳児用粉ミルクのおすすめ8選を、大缶と詰め替�
 category: "baby-formula"
 publishedAt: "2026-11-02"
 articleType: "comparison"
-updatedAt: "2026-11-02"
+updatedAt: "2026-11-09"
 draft: false
 products:
   - rank: 1
@@ -48,7 +48,7 @@ products:
     capacity: "400g×2袋（800g）"
     pricePerUnit: "約3.1円/g"
     rating: 4.7
-    reviewCount: 97
+    reviewCount: 98
     features:
       - "400gの袋を専用ケースに袋ごと入れて使う詰め替えタイプ。中身は大缶と同じ"
       - "専用ケースへ入れたあとは1か月以内に使い切るよう表示"
@@ -239,8 +239,8 @@ products:
     price: 4555
     capacity: "800g"
     pricePerUnit: "約5.7円/g"
-    rating: 4.81
-    reviewCount: 37
+    rating: 4.82
+    reviewCount: 38
     features:
       - "すべての牛乳たんぱく質を酵素で分解したペプチドミルク（ミルクアレルギー疾患用ではない）"
       - "栄養成分は「はぐくみ」と同じで、乳児用調製粉乳として許可を受けているとメーカーが説明"

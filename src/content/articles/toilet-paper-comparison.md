@@ -1,10 +1,10 @@
 ---
-title: "トイレットペーパー シングル コスパ最強ランキング【2026年版】おすすめ10選"
-description: "シングルのトイレットペーパーを1mあたりの単価で徹底比較。長尺・芯なし・まとめ買い・箱買いの人気10選をコスパ最強ランキングで紹介。選び方のポイントも解説します。"
+title: "トイレットペーパー シングル コスパ最強ランキング【2026年版】おすすめ9選"
+description: "シングルのトイレットペーパーを1mあたりの単価で徹底比較。長尺・芯なし・まとめ買い・箱買いの人気9選をコスパ最強ランキングで紹介。選び方のポイントも解説します。"
 category: "toilet-paper"
 publishedAt: "2024-11-01"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 products:
   - rank: 1
     name: "コアユース シングル 芯なし"
@@ -13,7 +13,7 @@ products:
     capacity: "170m×48ロール"
     pricePerUnit: "約0.61円/m"
     rating: 4.52
-    reviewCount: 2049
+    reviewCount: 2055
     features:
       - "芯なしのロングタイプで交換の手間を減らしやすい"
       - "再生紙を使用した家庭用にも業務用にも使える仕様"
@@ -81,7 +81,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.69円/m"
     rating: 4.71
-    reviewCount: 99
+    reviewCount: 100
     features:
       - "芯なし設計でゴミが出にくい環境配慮型"
       - "150mの長尺ロールで交換頻度を減らせる"
@@ -115,7 +115,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.71円/m"
     rating: 4.78
-    reviewCount: 1083
+    reviewCount: 1084
     features:
       - "太穴コアレスのシングルトイレットペーパー"
       - "再生紙を使用した長巻きタイプ"
@@ -138,7 +138,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.73円/m"
     rating: 4.67
-    reviewCount: 2870
+    reviewCount: 2872
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
@@ -165,47 +165,13 @@ products:
         matchNotes: "capacity不一致: capacity不一致"
     genreId: "501098"
   - rank: 6
-    name: "ワンタッチ 再生紙 トイレットペーパー シングル 芯なし"
-    brand: "ワンタッチ"
-    price: 5964
-    capacity: "170m×48ロール"
-    pricePerUnit: "約0.73円/m"
-    rating: 4.59
-    reviewCount: 1041
-    features:
-      - "再生紙を使用した芯なしのシングルタイプ"
-      - "長巻き仕様でロール交換の頻度を抑えやすい"
-      - "業務用と家庭用のどちらにも使いやすい構成"
-    pros:
-      - "芯ゴミを減らしたい家庭に取り入れやすい"
-      - "まとめ買いで補充の手間を減らしやすい"
-      - "シンプルな日用品として継続購入しやすい"
-    cons:
-      - "紙質のやわらかさを重視する方は好みが分かれる"
-      - "芯ありタイプに慣れていると終盤の使用感を確認したい"
-    recommendedFor: "芯なし長巻きのコスパを重視してまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r90rn.3rdw6d63.g00r90rn.3rdw7ade/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwakuwaku-kobe%2F10000005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwakuwaku-kobe%2Fi%2F10000005%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wakuwaku-kobe/cabinet/toipe_ippann/03375414/imgrc0080421778.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujisanwa%2Fsanwa170ms6r.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 5350
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fujisanwa_sanwa170ms6r"
-        available: true
-    genreId: "501098"
-  - rank: 7
     name: "トーヨ クリーンテックス シングル 個包装"
     brand: "トーヨ"
     price: 3980
     capacity: "110m×45ロール"
     pricePerUnit: "約0.80円/m"
     rating: 4.72
-    reviewCount: 1111
+    reviewCount: 1112
     features:
       - "国産のシングルトイレットペーパー"
       - "個包装で保管時の衛生面に配慮しやすい"
@@ -233,14 +199,14 @@ products:
         matchStatus: "review"
         matchNotes: "capacity不一致: capacity不一致"
     genreId: "501098"
-  - rank: 8
+  - rank: 7
     name: "Comfy 芯なし トイレットペーパー シングル"
     brand: "イトマン"
     price: 4400
     capacity: "150m×36ロール"
     pricePerUnit: "約0.81円/m"
     rating: 4.62
-    reviewCount: 764
+    reviewCount: 765
     features:
       - "芯なしの長巻きシングルトイレットペーパー"
       - "個包装で分けて保管しやすい"
@@ -266,14 +232,14 @@ products:
         matchStatus: "review"
         matchNotes: "capacity不一致: 商品名トークン不一致"
     genreId: "501098"
-  - rank: 9
+  - rank: 8
     name: "無漂白 トイレットペーパー シングル 無包装"
     brand: "牧製紙"
     price: 5610
     capacity: "100m×60ロール"
     pricePerUnit: "約0.94円/m"
-    rating: 4.54
-    reviewCount: 808
+    rating: 4.55
+    reviewCount: 809
     features:
       - "無漂白の再生紙を使用したシングルタイプ"
       - "無包装でフィルムごみを減らせるシンプル仕様"
@@ -300,13 +266,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/maki-seishi_mori100ms60"
         available: true
     genreId: "501098"
-  - rank: 10
+  - rank: 9
     name: "スマートエール 消臭機能付き シングル 芯なし"
     brand: "アイリスプラザ"
     price: 2880
     capacity: "250m×16ロール"
     rating: 4.6
-    reviewCount: 444
+    reviewCount: 445
     features:
       - "パルプを使用した消臭機能付きのシングルタイプ"
       - "芯なしの長巻き仕様で省スペースに保管しやすい"

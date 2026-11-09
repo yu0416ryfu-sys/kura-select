@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -159,7 +159,7 @@ products:
     price: 2000
     capacity: "200mL"
     rating: 4.45
-    reviewCount: 1186
+    reviewCount: 1187
     features:
       - "大豆油・ヘーゼルナッツ種子油などの植物油を主成分にしたオイルタイプ（化粧品・韓国製）"
       - "公式店の出品で、200mLを2個・4個のセットから選ぶ形式（同じページに洗顔料など別の商品も並ぶ）"
@@ -253,7 +253,7 @@ products:
     price: 2300
     capacity: "200mL"
     rating: 4.69
-    reviewCount: 574
+    reviewCount: 576
     features:
       - "ドクダミエキスを配合したオイルタイプ（化粧品・韓国製）"
       - "本体・リフィル・セットから選べる（リフィルは使用期限が1年以上残ったものを発送）"
@@ -288,7 +288,7 @@ products:
     price: 4378
     capacity: "100mL"
     rating: 4.57
-    reviewCount: 1705
+    reviewCount: 1704
     features:
       - "乳酸桿菌／豆乳発酵液などを配合したオイルタイプ（日本製・化粧品）"
       - "W洗顔不要・マツエクOKの表示"

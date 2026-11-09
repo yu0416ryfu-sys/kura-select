@@ -4,7 +4,7 @@ description: "歯ブラシを1本あたりのコストで徹底比較。Shu&Shu�
 category: "toothpaste"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 products:
   - rank: 1
     name: "Shu&Shu 歯ブラシ"
@@ -58,7 +58,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約62円/本"
     rating: 4.46
-    reviewCount: 2425
+    reviewCount: 2426
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -113,7 +113,7 @@ products:
     capacity: "10本（約10ヶ月分）"
     pricePerUnit: "約140円/本"
     rating: 4.69
-    reviewCount: 2295
+    reviewCount: 2298
     features:
       - "歯科医院でも採用される定番ブラシ"
       - "PBT毛材で耐久性が高くヘタりにくい"
@@ -146,8 +146,8 @@ products:
     price: 1570
     capacity: "10本"
     pricePerUnit: "約157円/本"
-    rating: 4.86
-    reviewCount: 14
+    rating: 4.88
+    reviewCount: 16
     features:
       - "歯科専売のガム・ウェルプラス #226（S／M）"
       - "歯周ケア向けの定番シリーズ"

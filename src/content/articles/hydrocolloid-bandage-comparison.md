@@ -4,7 +4,7 @@ description: "ハイドロコロイド絆創膏のおすすめ7選を1枚あた�
 category: "bandage"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-11-09"
 draft: false
 products:
   - rank: 1
@@ -183,8 +183,8 @@ products:
     price: 1493
     capacity: "20枚（10枚入×2コセット）"
     pricePerUnit: "約75円/枚"
-    rating: 4.56
-    reviewCount: 81
+    rating: 4.54
+    reviewCount: 82
     features:
       - "水仕事を想定したハイドロコロイドパッド"
       - "指に巻きやすい細長い形状"

@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バスク�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 products:
   - rank: 1
     name: "入浴剤 バラエティ詰め合わせ 100個セット"
@@ -159,9 +159,8 @@ products:
   - rank: 6
     name: "ミネラル鉱泉浴"
     brand: "SMC"
-    price: 8800
+    price: 4400
     capacity: "1L"
-    pricePerUnit: "約8800円/L"
     rating: 4.66
     reviewCount: 1576
     features:
@@ -192,6 +191,7 @@ products:
         reviewCount: 3
         matchNotes: "リンク切れ(404)"
     genreId: "101838"
+    priceMax: 8800
   - rank: 7
     name: "きき湯 炭酸湯 360g×3（1種類を選べる）"
     brand: "バスクリン（きき湯）"
@@ -221,7 +221,7 @@ products:
     price: 2300
     capacity: "750g（30回分）"
     rating: 4.68
-    reviewCount: 7171
+    reviewCount: 7172
     features:
       - "水素化ホウ素Na・炭酸水素Naなどを配合した水素入浴料"
       - "無香料の国産品で、商品区分は化粧品"
@@ -256,7 +256,7 @@ products:
     price: 1300
     capacity: "26個"
     rating: 4.65
-    reviewCount: 141
+    reviewCount: 142
     features:
       - "1包20gの個包装バスパウダー（26個か400個を選ぶ）"
       - "ほんのり甘いいちごの香りとピンクレッドの湯色"

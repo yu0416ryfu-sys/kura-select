@@ -4,7 +4,7 @@ description: "毎日使える大容量シートマスクのおすすめ8選を1�
 category: "sheet-mask"
 publishedAt: "2026-11-02"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約18円/枚"
     rating: 4.56
-    reviewCount: 984
+    reviewCount: 985
     features:
       - "チャック付きの大袋に入った化粧品区分のマスク"
       - "香料・着色料・アルコールなどを使わない処方と表示"
@@ -129,7 +129,7 @@ products:
     capacity: "21枚×2袋（42枚）"
     pricePerUnit: "約50円/枚"
     rating: 4.54
-    reviewCount: 8511
+    reviewCount: 8512
     features:
       - "5種のヒト型セラミドなど12種の美容成分を配合と表示"
       - "香料・パラベン・アルコールなど7つを使わない処方と表示"
@@ -175,7 +175,7 @@ products:
     capacity: "32枚×2個（64枚）"
     pricePerUnit: "約69円/枚"
     rating: 5
-    reviewCount: 2
+    reviewCount: 3
     features:
       - "化粧水タイプの大容量ボックス（フタ付き）が2個。区分は化粧品"
       - "セラミドNP・NG・APを配合。全成分にエタノールと香料の表示がない"

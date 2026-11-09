@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-11-03"
+updatedAt: "2026-11-09"
 draft: false
 products:
   - rank: 1
@@ -264,8 +264,8 @@ products:
     brand: "新北九州工業"
     price: 548
     capacity: "1枚"
-    rating: 4.88
-    reviewCount: 8
+    rating: 4.89
+    reviewCount: 9
     features:
       - "粘着シール付きで工具不要、フレームなしで貼るだけの家庭用フィルター"
       - "サイズ 38×80cm、標準的な家庭用エアコンに対応"

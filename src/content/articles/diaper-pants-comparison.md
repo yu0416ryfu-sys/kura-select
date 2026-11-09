@@ -4,7 +4,7 @@ description: "夜用パンツタイプのおむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-09"
 products:
   - rank: 1
     name: "マミーポコ 夜用パンツ ビッグより大きいサイズ"
@@ -112,6 +112,40 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/worldglobal_20260619202540-00444"
         available: true
   - rank: 4
+    name: "パンパース おやすみパンツ XL-XXL 46枚×2"
+    brand: "パンパース"
+    price: 7088
+    capacity: "46枚×2（92枚・12〜28kg）"
+    pricePerUnit: "約77円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "16時間吸収の表示（回数の表示はなし）"
+      - "男の子用・女の子用に分かれていない商品"
+      - "ビッグ（XL）〜ビッグ大（XXL）の表記"
+    pros:
+      - "性別を問わず選べるので、きょうだいで使い回しやすい"
+      - "ずり落ちを防ぐ、すきま防止設計をうたっている"
+      - "1袋単位で試しやすい"
+    cons:
+      - "「○回分」の表示がなく、他ブランドと吸収量を直接比べにくい"
+      - "2026年10月下旬のリニューアルで呼び名が変わり、ショップによって表記が異なる場合がある"
+    recommendedFor: "ビッグより大きいサイズの夜用パンツを男女兼用で探している方・オヤスミマン以外も試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rjgtn.3rdw6c98.g00rjgtn.3rdw7688/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworld-depo%2Fm-ctc-180289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworld-depo%2Fi%2F15628477%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/world-depo/cabinet/13369056/180289.jpg?_ex=128x128"
+    genreId: "205198"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-cost-shop%2Fco80348.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-04"
+        price: 6298
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-cost-shop_co80348"
+        available: true
+  - rank: 5
     name: "オヤスミマン 男の子 ビッグ以上 夜用"
     brand: "ユニ・チャーム（ムーニー）"
     price: 5181
@@ -144,7 +178,7 @@ products:
         matchStatus: "matched"
         updatedAt: "2026-05-29"
     genreId: "205198"
-  - rank: 5
+  - rank: 6
     name: "オヤスミマン 女の子 ビッグ以上 夜用"
     brand: "ユニ・チャーム"
     price: 5181
@@ -177,40 +211,6 @@ products:
         matchStatus: "matched"
         updatedAt: "2026-05-27"
     genreId: "205198"
-  - rank: 6
-    name: "パンパース おやすみパンツ XXL 40枚×2"
-    brand: "パンパース"
-    price: 7382
-    capacity: "40枚×2（80枚）"
-    pricePerUnit: "約92円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "16時間吸収の表示（回数の表示はなし）"
-      - "男の子用・女の子用に分かれていない商品"
-      - "ビッグ（XL）〜ビッグ大（XXL）の表記"
-    pros:
-      - "性別を問わず選べるので、きょうだいで使い回しやすい"
-      - "ずり落ちを防ぐ、すきま防止設計をうたっている"
-      - "1袋単位で試しやすい"
-    cons:
-      - "「○回分」の表示がなく、他ブランドと吸収量を直接比べにくい"
-      - "2026年10月下旬のリニューアルで呼び名が変わり、ショップによって表記が異なる場合がある"
-    recommendedFor: "ビッグより大きいサイズの夜用パンツを男女兼用で探している方・オヤスミマン以外も試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rjgtn.3rdw6c98.g00rjgtn.3rdw7688/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworld-depo%2Fm-ctc-80348%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworld-depo%2Fi%2F15582710%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/world-depo/cabinet/13369056/80348.jpg?_ex=128x128"
-    genreId: "205198"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-cost-shop%2Fco80348.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 6298
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-cost-shop_co80348"
-        available: true
 tags:
   - "パンツ型おむつ"
   - "紙おむつ コスパ"

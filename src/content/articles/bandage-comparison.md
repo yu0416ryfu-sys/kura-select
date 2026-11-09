@@ -1,36 +1,13 @@
 ---
-title: "絆創膏おすすめ9選【2026年】コスパ最強を1枚単価で比較"
-description: "絆創膏（ばんそうこう）のおすすめ9選を1枚あたりの単価で比較。業務用の大容量から低刺激の素肌タイプ、関節向けの伸縮タイプ、水に強い防水タイプまで、大人の普段使い向けに枚数・素材・防水性で選ぶポイントを解説します。"
+title: "絆創膏おすすめ8選【2026年】コスパ最強を1枚単価で比較"
+description: "絆創膏（ばんそうこう）のおすすめ8選を1枚あたりの単価で比較。業務用の大容量から低刺激の素肌タイプ、関節向けの伸縮タイプ、水に強い防水タイプまで、大人の普段使い向けに枚数・素材・防水性で選ぶポイントを解説します。"
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 draft: false
 products:
   - rank: 1
-    name: "絆創膏 Mサイズ 100枚×20個 業務用 ベイシア"
-    brand: "ベイシア"
-    price: 2780
-    capacity: "2000枚（100枚×20個）"
-    pricePerUnit: "約1.4円/枚"
-    rating: 4.86
-    reviewCount: 7
-    features:
-      - "Mサイズの標準的な救急ばんそうこう"
-      - "100枚×20個のケース単位パック"
-      - "シンプルな無地タイプ"
-    pros:
-      - "1枚あたりの単価を大きく抑えやすいまとめ買い向き"
-      - "家庭・職場・学校の常備ストックに使いやすい"
-      - "個包装で持ち運びや配布もしやすい"
-    cons:
-      - "入数が多く保管スペースを取る"
-      - "サイズはMの単一展開で使い分けには不向き"
-    recommendedFor: "とにかく単価を抑えたい方・大量に常備したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.3rdw6eed.g00s0vmn.3rdw7144/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4562378460849%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10027893%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/newthumbnail/4562378460849_00.jpg?_ex=128x128"
-    genreId: "568428"
-  - rank: 2
     name: "エルモ 救急バン 徳用 Mサイズ 100枚"
     brand: "エルモ（日進医療器）"
     price: 188
@@ -64,7 +41,7 @@ products:
         reviewCount: 12
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10008242"
         available: true
-  - rank: 3
+  - rank: 2
     name: "ケアレージュ 救急バン Mサイズ 100枚"
     brand: "ケアレージュ（CARELAGE）"
     price: 310
@@ -98,7 +75,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fines-f_4560309820687"
         available: true
-  - rank: 4
+  - rank: 3
     name: "リバテープ 救急ばんそうこう Mサイズ 100枚"
     brand: "リバテープ製薬"
     price: 390
@@ -132,7 +109,7 @@ products:
         reviewCount: 53
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_3331455"
         available: true
-  - rank: 5
+  - rank: 4
     name: "キズリバテープ ウレタンタイプ 伸縮自在 ST60 60枚"
     brand: "キズリバテープ（共立薬品工業）"
     price: 778
@@ -166,14 +143,14 @@ products:
         reviewCount: 7
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987059002680"
         available: true
-  - rank: 6
+  - rank: 5
     name: "バンドエイド 超フィット Mサイズ 100枚"
     brand: "バンドエイド（BAND-AID）"
     price: 1530
     capacity: "100枚"
     pricePerUnit: "約15円/枚"
-    rating: 4.48
-    reviewCount: 33
+    rating: 4.5
+    reviewCount: 34
     features:
       - "伸縮性の高いポリウレタンエラストマー素材"
       - "通気性があり素肌に近い色味"
@@ -200,7 +177,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_wxj9152"
         available: true
-  - rank: 7
+  - rank: 6
     name: "ニチバン ケアリーヴ 素肌タイプ Mサイズ 100枚"
     brand: "ニチバン（ケアリーヴ）"
     price: 1650
@@ -234,6 +211,40 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10092408"
         available: true
     genreId: "402796"
+  - rank: 7
+    name: "ケアリーヴ 防水タイプ Mサイズ 40枚"
+    brand: "ニチバン（ケアリーヴ）"
+    price: 1007
+    capacity: "40枚"
+    pricePerUnit: "約25円/枚"
+    rating: 4.79
+    reviewCount: 19
+    features:
+      - "水は通さず蒸気は通す特殊伸縮テープ"
+      - "パッドに手を触れずに貼れるセパレーター"
+      - "キズ口につきにくいやさしいパッド"
+    pros:
+      - "水仕事やシャワーの多い日でも使いやすい"
+      - "白くふやけにくく貼っていても目立ちにくい"
+      - "曲げてもフィットしやすくゴワつきにくい"
+    cons:
+      - "標準タイプより1枚あたりの単価は上がりやすい"
+      - "防水性を保つには貼る前に水気を拭き取る必要がある"
+    recommendedFor: "水回りで使う防水タイプを別枠で確保したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fk414910h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10043804%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/770/4987167044770.jpg?_ex=128x128"
+    genreId: "568428"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987167044763x2.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-03"
+        price: 545
+        rating: 4.29
+        reviewCount: 7
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987167044763x2"
+        available: true
   - rank: 8
     name: "白十字 ファミリーケア ワンタッチパット Mサイズ 22枚"
     brand: "白十字（ファミリーケア）"
@@ -268,40 +279,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4987603464520"
         available: true
     genreId: "204748"
-  - rank: 9
-    name: "ケアリーヴ 防水タイプ Mサイズ 40枚"
-    brand: "ニチバン（ケアリーヴ）"
-    price: 1060
-    capacity: "40枚"
-    pricePerUnit: "約27円/枚"
-    rating: 4.79
-    reviewCount: 19
-    features:
-      - "水は通さず蒸気は通す特殊伸縮テープ"
-      - "パッドに手を触れずに貼れるセパレーター"
-      - "キズ口につきにくいやさしいパッド"
-    pros:
-      - "水仕事やシャワーの多い日でも使いやすい"
-      - "白くふやけにくく貼っていても目立ちにくい"
-      - "曲げてもフィットしやすくゴワつきにくい"
-    cons:
-      - "標準タイプより1枚あたりの単価は上がりやすい"
-      - "防水性を保つには貼る前に水気を拭き取る必要がある"
-    recommendedFor: "水回りで使う防水タイプを別枠で確保したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fk414910h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10043804%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/770/4987167044770.jpg?_ex=128x128"
-    genreId: "568428"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987167044763x2.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-03"
-        price: 545
-        rating: 4.29
-        reviewCount: 7
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987167044763x2"
-        available: true
 tags:
   - "絆創膏 おすすめ"
   - "絆創膏 コスパ"

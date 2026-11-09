@@ -4,7 +4,7 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-09"
 draft: false
 products:
   - rank: 1
@@ -78,9 +78,9 @@ products:
   - rank: 3
     name: "スクラビングバブル 流せるトイレブラシ 本体+替え16個"
     brand: "スクラビングバブル"
-    price: 1583
+    price: 1425
     capacity: "本体+替え16個"
-    pricePerUnit: "約99円/個"
+    pricePerUnit: "約89円/個"
     rating: 4.5
     reviewCount: 2
     features:
@@ -149,7 +149,7 @@ products:
     price: 1298
     capacity: "24個"
     rating: 4.73
-    reviewCount: 112
+    reviewCount: 113
     features:
       - "付替ブラシ24個入りの標準サイズ"
       - "ホワイトブロッサムの香り付きタイプ"
