@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 660" width="600" height="660" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>シャンプーの選び方の図</title>
+  <rect width="600" height="660" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">気になること、洗い方、量の順</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">迷ったら、容器の区分の表示から確かめる</text>
+
+  <!-- 手順1 -->
+  <rect x="20" y="96" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="120" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">1. いちばん気になることは？</text>
+
+  <rect x="20" y="144" width="178" height="124" rx="10" fill="#e6f0f7"/>
+  <text x="109" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">フケ・かゆみ</text>
+  <text x="109" y="206" text-anchor="middle" font-size="16" fill="#374151">「医薬部外品」</text>
+  <text x="109" y="230" text-anchor="middle" font-size="16" fill="#374151">「薬用」の表示を</text>
+  <text x="109" y="254" text-anchor="middle" font-size="16" fill="#374151">見る</text>
+
+  <rect x="211" y="144" width="178" height="124" rx="10" fill="#e5f3ea"/>
+  <text x="300" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">ハリ・コシ・切れ毛</text>
+  <text x="300" y="206" text-anchor="middle" font-size="16" fill="#374151">化粧品の表示の</text>
+  <text x="300" y="230" text-anchor="middle" font-size="16" fill="#374151">「はり・こし」</text>
+  <text x="300" y="254" text-anchor="middle" font-size="16" fill="#374151">「切毛を防ぐ」</text>
+
+  <rect x="402" y="144" width="178" height="124" rx="10" fill="#fdf0d5"/>
+  <text x="491" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">べたつき・におい</text>
+  <text x="491" y="206" text-anchor="middle" font-size="16" fill="#374151">替える前に</text>
+  <text x="491" y="230" text-anchor="middle" font-size="16" fill="#374151">すすぎと</text>
+  <text x="491" y="254" text-anchor="middle" font-size="16" fill="#374151">2度洗いを見直す</text>
+
+  <!-- 手順2 -->
+  <rect x="20" y="290" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="314" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">2. いつ・どう洗う？</text>
+
+  <rect x="20" y="338" width="178" height="124" rx="10" fill="#e6f0f7"/>
+  <text x="109" y="370" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">朝に手早く</text>
+  <text x="109" y="400" text-anchor="middle" font-size="16" fill="#374151">缶から泡で出る</text>
+  <text x="109" y="424" text-anchor="middle" font-size="16" fill="#374151">タイプや</text>
+  <text x="109" y="448" text-anchor="middle" font-size="16" fill="#374151">2in1</text>
+
+  <rect x="211" y="338" width="178" height="124" rx="10" fill="#e5f3ea"/>
+  <text x="300" y="370" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">夜にゆっくり</text>
+  <text x="300" y="400" text-anchor="middle" font-size="16" fill="#374151">ボトルの液体。</text>
+  <text x="300" y="424" text-anchor="middle" font-size="16" fill="#374151">数分おく使い方の</text>
+  <text x="300" y="448" text-anchor="middle" font-size="16" fill="#374151">商品も候補</text>
+
+  <rect x="402" y="338" width="178" height="124" rx="10" fill="#fdf0d5"/>
+  <text x="491" y="370" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">1本で済ませたい</text>
+  <text x="491" y="400" text-anchor="middle" font-size="16" fill="#374151">コンディショナー</text>
+  <text x="491" y="424" text-anchor="middle" font-size="16" fill="#374151">なしで使えると</text>
+  <text x="491" y="448" text-anchor="middle" font-size="16" fill="#374151">案内する商品</text>
+
+  <!-- 手順3 -->
+  <rect x="20" y="484" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="508" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">3. どれくらいの量を買う？</text>
+
+  <rect x="20" y="532" width="178" height="100" rx="10" fill="#e6f0f7"/>
+  <text x="109" y="564" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">初めて使う</text>
+  <text x="109" y="594" text-anchor="middle" font-size="16" fill="#374151">小さいサイズで</text>
+  <text x="109" y="618" text-anchor="middle" font-size="16" fill="#374151">合うか確かめる</text>
+
+  <rect x="211" y="532" width="178" height="100" rx="10" fill="#e5f3ea"/>
+  <text x="300" y="564" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">1人で毎日</text>
+  <text x="300" y="594" text-anchor="middle" font-size="16" fill="#374151">250〜300mLで</text>
+  <text x="300" y="618" text-anchor="middle" font-size="16" fill="#374151">約25〜50日</text>
+
+  <rect x="402" y="532" width="178" height="100" rx="10" fill="#fdf0d5"/>
+  <text x="491" y="564" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">合うと分かった</text>
+  <text x="491" y="594" text-anchor="middle" font-size="16" fill="#374151">詰め替えや</text>
+  <text x="491" y="618" text-anchor="middle" font-size="16" fill="#374151">大容量でまとめる</text>
+</svg>

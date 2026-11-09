@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 620" width="600" height="620" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>区分ごとに表示できる効能の図</title>
+  <rect width="600" height="620" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">区分で、言えることが決まる</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">厚生労働省の通知と業界団体の指針から</text>
+
+  <!-- 化粧品 -->
+  <rect x="20" y="96" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="120" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">化粧品のシャンプー</text>
+  <rect x="20" y="142" width="560" height="120" rx="10" fill="#e6f0f7"/>
+  <text x="40" y="172" font-size="16" fill="#374151">「頭皮、毛髪を清浄にする」「フケ、カユミを抑える」</text>
+  <text x="40" y="198" font-size="16" fill="#374151">「毛髪にはり、こしを与える」「裂毛、切毛、枝毛を防ぐ」</text>
+  <text x="40" y="224" font-size="16" fill="#374151">など、決められた効能の範囲の中だけ</text>
+  <text x="40" y="250" font-size="16" font-weight="700" fill="#b42318">育毛はうたえない</text>
+
+  <!-- 薬用シャンプー -->
+  <rect x="20" y="280" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="304" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">薬用シャンプー（医薬部外品）</text>
+  <rect x="20" y="326" width="560" height="120" rx="10" fill="#e5f3ea"/>
+  <text x="40" y="356" font-size="16" fill="#374151">「ふけ・かゆみを防ぐ」「毛髪・頭皮の汗臭を防ぐ」</text>
+  <text x="40" y="382" font-size="16" fill="#374151">「毛髪・頭皮を清浄にする」「すこやかに保つ」</text>
+  <text x="40" y="408" font-size="16" fill="#374151">「毛髪をしなやかにする」の5つ。有効成分を表示する</text>
+  <text x="40" y="434" font-size="16" font-weight="700" fill="#b42318">この5つに育毛は入っていない</text>
+
+  <!-- 育毛剤 -->
+  <rect x="20" y="464" width="560" height="36" rx="18" fill="#374151"/>
+  <text x="300" y="488" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">育毛剤・養毛剤（医薬部外品）</text>
+  <rect x="20" y="510" width="560" height="94" rx="10" fill="#fdf0d5"/>
+  <text x="40" y="540" font-size="16" fill="#374151">「育毛」「薄毛」「脱毛の予防」「発毛促進」など</text>
+  <text x="40" y="566" font-size="16" fill="#374151">頭皮につける液剤・エアゾール剤で、</text>
+  <text x="40" y="592" font-size="16" font-weight="700" fill="#1f2937">洗い流すシャンプーとは別の製品</text>
+</svg>
