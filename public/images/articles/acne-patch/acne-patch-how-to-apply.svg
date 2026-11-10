@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 860" width="600" height="860" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>ニキビパッチの貼り方とはがし方</title>
+  <rect width="600" height="860" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">貼り方とはがし方</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">商品の表示にある手順の例。表示が違えば表示に従う</text>
+
+  <g>
+    <rect x="20" y="100" width="560" height="110" rx="12" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+    <circle cx="62" cy="155" r="24" fill="#2f6fb5"/>
+    <text x="62" y="163" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">1</text>
+    <text x="104" y="146" font-size="20" font-weight="700" fill="#1f2937">洗って、水気をしっかりとる</text>
+    <text x="104" y="180" font-size="17" fill="#374151">化粧水・乳液を塗らないよう書く商品もある</text>
+  </g>
+  <g>
+    <rect x="20" y="222" width="560" height="110" rx="12" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+    <circle cx="62" cy="277" r="24" fill="#2f6fb5"/>
+    <text x="62" y="285" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">2</text>
+    <text x="104" y="268" font-size="20" font-weight="700" fill="#1f2937">フィルムからはがす</text>
+    <text x="104" y="302" font-size="17" fill="#374151">表示の例：パッチの真ん中に手が触れないように</text>
+  </g>
+  <g>
+    <rect x="20" y="344" width="560" height="110" rx="12" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+    <circle cx="62" cy="399" r="24" fill="#2f6fb5"/>
+    <text x="62" y="407" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">3</text>
+    <text x="104" y="390" font-size="20" font-weight="700" fill="#1f2937">真ん中を合わせて貼り、押さえる</text>
+    <text x="104" y="424" font-size="17" fill="#374151">表示の例：指で5秒ほど押して密着させる</text>
+  </g>
+  <g>
+    <rect x="20" y="466" width="560" height="110" rx="12" fill="#eef8f1" stroke="#93c9a4" stroke-width="2"/>
+    <circle cx="62" cy="521" r="24" fill="#2f8a4f"/>
+    <text x="62" y="529" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">4</text>
+    <text x="104" y="512" font-size="20" font-weight="700" fill="#1f2937">白くふくらんだら替えどき</text>
+    <text x="104" y="546" font-size="17" fill="#374151">夜用は朝はがす。はがしたものは貼り直さない</text>
+  </g>
+  <g>
+    <rect x="20" y="588" width="560" height="110" rx="12" fill="#eef8f1" stroke="#93c9a4" stroke-width="2"/>
+    <circle cx="62" cy="643" r="24" fill="#2f8a4f"/>
+    <text x="62" y="651" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">5</text>
+    <text x="104" y="634" font-size="20" font-weight="700" fill="#1f2937">端から、ゆっくりはがす</text>
+    <text x="104" y="668" font-size="17" fill="#374151">表示の例：うまくはがれないときは水かぬるま湯で濡らす</text>
+  </g>
+  <g>
+    <rect x="20" y="710" width="560" height="130" rx="12" fill="#fdf0ee" stroke="#e3a197" stroke-width="2"/>
+    <circle cx="62" cy="775" r="24" fill="#b84a3a"/>
+    <text x="62" y="783" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">!</text>
+    <text x="104" y="758" font-size="20" font-weight="700" fill="#1f2937">赤み・かゆみ・はれが出たら</text>
+    <text x="104" y="792" font-size="17" fill="#374151">使うのをやめて、皮膚科に相談する</text>
+    <text x="104" y="820" font-size="15" fill="#6b7280">貼った形に丸く赤くなったときも同じ</text>
+  </g>
+</svg>

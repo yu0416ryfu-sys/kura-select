@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 940" width="600" height="940" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>ニキビパッチの選び方：いつ・どこに貼るか</title>
+  <rect width="600" height="940" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">ニキビパッチの選び方</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">貼ってよい状態か → いつ貼るか → どこに貼るか</text>
+
+  <!-- 0. 貼らない -->
+  <rect x="20" y="100" width="560" height="150" rx="14" fill="#fdf0ee" stroke="#e3a197" stroke-width="2"/>
+  <rect x="40" y="118" width="150" height="40" rx="20" fill="#b84a3a"/>
+  <text x="115" y="145" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">まず確かめる</text>
+  <text x="40" y="190" font-size="19" fill="#374151">赤く腫れて痛い・膿が広がっている・</text>
+  <text x="40" y="216" font-size="19" fill="#374151">自分で潰した・傷がある</text>
+  <text x="340" y="216" font-size="19" font-weight="700" fill="#8f3426">→ 貼らない</text>
+  <text x="40" y="240" font-size="15" fill="#6b7280">「傷、はれもの…には使用しない」の表示も。腫れや痛みは皮膚科へ</text>
+
+  <line x1="300" y1="250" x2="300" y2="272" stroke="#9ca3af" stroke-width="3"/>
+  <path d="M290 268 L300 282 L310 268 Z" fill="#9ca3af"/>
+
+  <!-- 1. いつ貼るか -->
+  <rect x="20" y="288" width="560" height="350" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <rect x="40" y="306" width="150" height="40" rx="20" fill="#2f6fb5"/>
+  <text x="115" y="333" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">いつ貼る？</text>
+
+  <rect x="40" y="362" width="520" height="80" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="58" y="394" font-size="20" font-weight="700" fill="#1f2937">昼・上からメイクする</text>
+  <text x="58" y="424" font-size="17" fill="#374151">使い方に「上からメイクできる」とあるもの</text>
+
+  <rect x="40" y="454" width="520" height="80" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="58" y="486" font-size="20" font-weight="700" fill="#1f2937">夜・クリームを塗ってから</text>
+  <text x="58" y="516" font-size="17" fill="#374151">クリームの上に貼る夜用シート（クリームは別売りも）</text>
+
+  <rect x="40" y="546" width="520" height="80" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="58" y="578" font-size="20" font-weight="700" fill="#1f2937">どちらも</text>
+  <text x="58" y="608" font-size="17" fill="#374151">貼る前の準備・貼る時間は、その商品の表示に従う</text>
+
+  <line x1="300" y1="638" x2="300" y2="660" stroke="#9ca3af" stroke-width="3"/>
+  <path d="M290 656 L300 670 L310 656 Z" fill="#9ca3af"/>
+
+  <!-- 2. どこに貼るか -->
+  <rect x="20" y="676" width="560" height="244" rx="14" fill="#eef8f1" stroke="#93c9a4" stroke-width="2"/>
+  <rect x="40" y="694" width="150" height="40" rx="20" fill="#2f8a4f"/>
+  <text x="115" y="721" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">どこに貼る？</text>
+
+  <rect x="40" y="750" width="250" height="100" rx="10" fill="#ffffff" stroke="#93c9a4" stroke-width="1.5"/>
+  <text x="165" y="784" text-anchor="middle" font-size="18" fill="#374151">小鼻・口のまわり</text>
+  <circle cx="125" cy="820" r="10" fill="none" stroke="#2f8a4f" stroke-width="3"/>
+  <text x="182" y="828" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">10mm</text>
+
+  <rect x="310" y="750" width="250" height="100" rx="10" fill="#ffffff" stroke="#93c9a4" stroke-width="1.5"/>
+  <text x="435" y="784" text-anchor="middle" font-size="18" fill="#374151">額・頬・あご</text>
+  <circle cx="392" cy="820" r="12" fill="none" stroke="#2f8a4f" stroke-width="3"/>
+  <text x="452" y="828" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">12mm</text>
+
+  <text x="300" y="892" text-anchor="middle" font-size="17" font-weight="700" fill="#22663a">よく使うサイズの枚数で比べる</text>
+</svg>
