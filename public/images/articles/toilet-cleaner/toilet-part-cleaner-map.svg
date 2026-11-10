@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 980" width="600" height="980" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>トイレの場所ごとに使う洗剤</title>
+  <rect width="600" height="980" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">トイレの場所ごとに使う洗剤</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">便器と、便座・ノズル・タンクは分けて考える</text>
+
+  <rect x="20" y="100" width="560" height="160" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <rect x="40" y="116" width="200" height="38" rx="19" fill="#2f6fb5"/>
+  <text x="140" y="142" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">便器の内側（陶器）</text>
+  <text x="40" y="186" font-size="17" fill="#374151">トイレ用洗剤を表示どおりに。使える液性は機種で違う</text>
+  <text x="40" y="214" font-size="17" fill="#374151">研磨剤入りや業務用の強い洗剤は使わない</text>
+  <text x="40" y="242" font-size="17" font-weight="700" fill="#1f4f87">洗ったら3分以内に流し、便座とフタは開けておく</text>
+
+  <rect x="20" y="276" width="560" height="160" rx="14" fill="#fdf6e9" stroke="#e3bf7a" stroke-width="2"/>
+  <rect x="40" y="292" width="470" height="38" rx="19" fill="#a8700f"/>
+  <text x="275" y="318" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">便座・フタ・温水洗浄便座の本体（プラスチック）</text>
+  <text x="40" y="362" font-size="17" fill="#374151">酸性・アルカリ性の洗剤は、割れの原因になる</text>
+  <text x="40" y="390" font-size="17" font-weight="700" fill="#7a5209">薄めた台所用中性洗剤か、便座用の</text>
+  <text x="40" y="418" font-size="17" font-weight="700" fill="#7a5209">中性クリーナーで拭く</text>
+
+  <rect x="20" y="452" width="560" height="132" rx="14" fill="#f5f6f7" stroke="#c9ced4" stroke-width="2"/>
+  <rect x="40" y="468" width="250" height="38" rx="19" fill="#4b5563"/>
+  <text x="165" y="494" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">ノズル・操作部・スイッチ</text>
+  <text x="40" y="538" font-size="17" fill="#374151">液を直接スプレーしない（故障の原因）</text>
+  <text x="40" y="566" font-size="17" font-weight="700" fill="#374151">柔らかい布やペーパーに含ませて拭く</text>
+
+  <rect x="20" y="600" width="560" height="132" rx="14" fill="#fdecec" stroke="#e57373" stroke-width="2"/>
+  <rect x="40" y="616" width="130" height="38" rx="19" fill="#b42318"/>
+  <text x="105" y="642" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">タンクの中</text>
+  <text x="40" y="686" font-size="17" font-weight="700" fill="#b42318">酸性・アルカリ性の洗剤や芳香洗浄剤を入れない</text>
+  <text x="40" y="714" font-size="17" fill="#374151">樹脂やゴムの部品を傷め、水漏れのおそれがある</text>
+
+  <rect x="20" y="748" width="560" height="132" rx="14" fill="#edf7f1" stroke="#8fc9a8" stroke-width="2"/>
+  <rect x="40" y="764" width="150" height="38" rx="19" fill="#2f8a5b"/>
+  <text x="115" y="790" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">アラウーノ</text>
+  <text x="40" y="834" font-size="17" fill="#374151">アルコールや柑橘系の香りの洗剤など、使えない洗剤がある</text>
+  <text x="40" y="862" font-size="17" fill="#374151">便座・便ふたには酸やアルカリ性の洗剤を使わない</text>
+
+  <text x="300" y="930" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">迷ったら、便器の取扱説明書で使える洗剤を確かめる</text>
+</svg>
