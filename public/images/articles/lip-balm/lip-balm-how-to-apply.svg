@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>リップクリームの塗り方：繰り出す長さと塗る向き</title>
+  <rect width="600" height="720" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">リップクリームの塗り方</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">キュレルの使い方の手順と、各商品の表示から</text>
+
+  <g>
+    <rect x="20" y="100" width="560" height="130" rx="12" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+    <circle cx="62" cy="165" r="24" fill="#2f6fb5"/>
+    <text x="62" y="173" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">1</text>
+    <text x="104" y="146" font-size="20" font-weight="700" fill="#1f2937">繰り出すのは表示どおり</text>
+    <text x="104" y="176" font-size="17" fill="#374151">アベンヌ 1〜2mm・ファンケル 2mm程度</text>
+    <text x="104" y="202" font-size="17" fill="#374151">キュレル・ちふれ 2〜3mm。出しすぎると折れる</text>
+  </g>
+  <g>
+    <rect x="20" y="242" width="560" height="100" rx="12" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+    <circle cx="62" cy="292" r="24" fill="#2f6fb5"/>
+    <text x="62" y="300" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">2</text>
+    <text x="104" y="284" font-size="20" font-weight="700" fill="#1f2937">唇に当てて少し温める</text>
+    <text x="104" y="314" font-size="17" fill="#374151">やわらかくしてから塗る（硬い冬は特に）</text>
+  </g>
+  <g>
+    <rect x="20" y="354" width="560" height="100" rx="12" fill="#eef8f1" stroke="#93c9a4" stroke-width="2"/>
+    <circle cx="62" cy="404" r="24" fill="#2f8a4f"/>
+    <text x="62" y="412" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">3</text>
+    <text x="104" y="396" font-size="20" font-weight="700" fill="#1f2937">上から下へ、縦に塗る</text>
+    <text x="104" y="426" font-size="17" fill="#374151">力を入れず、薄く</text>
+  </g>
+  <g>
+    <rect x="20" y="466" width="560" height="100" rx="12" fill="#eef8f1" stroke="#93c9a4" stroke-width="2"/>
+    <circle cx="62" cy="516" r="24" fill="#2f8a4f"/>
+    <text x="62" y="524" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">4</text>
+    <text x="104" y="508" font-size="20" font-weight="700" fill="#1f2937">口角から中心へなじませる</text>
+    <text x="104" y="538" font-size="17" fill="#374151">最後に唇を合わせてなじませる</text>
+  </g>
+  <g>
+    <rect x="20" y="578" width="560" height="122" rx="12" fill="#fdf6e9" stroke="#e2c17f" stroke-width="2"/>
+    <circle cx="62" cy="639" r="24" fill="#a8741a"/>
+    <text x="62" y="647" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">!</text>
+    <text x="104" y="626" font-size="20" font-weight="700" fill="#1f2937">使ったあとは</text>
+    <text x="104" y="656" font-size="17" fill="#374151">最後までくり下げる（ちふれの表示）</text>
+    <text x="104" y="682" font-size="15" fill="#6b7280">キャップを開けるときはダイヤルを回さない</text>
+  </g>
+</svg>

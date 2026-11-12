@@ -56,8 +56,8 @@
     "contentUpdatedAt": "2026-10-02"
   },
   "body-lotion-comparison": {
-    "hash": "21779626b85d37f7b3ef425f893f5d84115159dec64d774d3d357f0810c872fb",
-    "contentUpdatedAt": "2026-10-30"
+    "hash": "eb87ee0f093bbc420b630f65cc83c3557e9d2f8b8649269de2b0f3bf96b7a80d",
+    "contentUpdatedAt": "2026-11-12"
   },
   "body-sheet-comparison": {
     "hash": "35c97877bba4f9bec6b62d77a37ca9776371a8935d76e462878c656e19f73a67",
@@ -314,6 +314,10 @@
   "lint-roller-comparison": {
     "hash": "6ddf453a3bb3b8f0e2eeb262739e5e1855aaf00efa9df8a2da8f1b85a2dc719b",
     "contentUpdatedAt": "2026-10-11"
+  },
+  "lip-balm-comparison": {
+    "hash": "ed746083c103bee9bbbf7f4b86a684e7296453ed1cd9de082f36e73f1998ec1d",
+    "contentUpdatedAt": "2026-11-12"
   },
   "mask-comparison": {
     "hash": "5c1d8f139b678245bf282a8f74bc68aeb7cddc268680ff7d7cf7079c0c4df86b",

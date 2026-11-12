@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>リップクリームの選び方：治す必要があるか・スーッとする感じ・本数</title>
+  <rect width="600" height="900" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">リップクリームの選び方</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">治す必要があるか → スーッとする感じ → 本数</text>
+
+  <!-- 0. まず確かめる -->
+  <rect x="20" y="100" width="560" height="176" rx="14" fill="#fdf0ee" stroke="#e3a197" stroke-width="2"/>
+  <rect x="40" y="118" width="150" height="40" rx="20" fill="#b84a3a"/>
+  <text x="115" y="145" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">まず確かめる</text>
+  <text x="40" y="190" font-size="18" fill="#374151">割れて血が出る・ただれ・口角が切れている</text>
+  <text x="40" y="216" font-size="18" fill="#374151">塗ったら赤く腫れた・かゆい</text>
+  <text x="40" y="246" font-size="18" font-weight="700" fill="#8f3426">→ この記事のリップでは足りない</text>
+  <text x="40" y="268" font-size="15" fill="#6b7280">かぶれたら使うのをやめる。治すなら医薬品か皮膚科へ</text>
+
+  <line x1="300" y1="276" x2="300" y2="298" stroke="#9ca3af" stroke-width="3"/>
+  <path d="M290 294 L300 308 L310 294 Z" fill="#9ca3af"/>
+
+  <!-- 1. スーッとする感じ -->
+  <rect x="20" y="314" width="560" height="356" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <rect x="40" y="332" width="210" height="40" rx="20" fill="#2f6fb5"/>
+  <text x="145" y="359" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">スーッとする感じは？</text>
+
+  <rect x="40" y="388" width="520" height="80" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="58" y="420" font-size="20" font-weight="700" fill="#1f2937">好き</text>
+  <text x="58" y="450" font-size="17" fill="#374151">有効成分がメントール・カンフルの薬用リップ</text>
+
+  <rect x="40" y="480" width="520" height="92" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="58" y="512" font-size="20" font-weight="700" fill="#1f2937">苦手・しみる・無香料がいい</text>
+  <text x="58" y="540" font-size="17" fill="#374151">メントール・カンフルの入っていない薬用リップ</text>
+  <text x="58" y="562" font-size="17" fill="#374151">か、有効成分のない化粧品のリップ</text>
+
+  <rect x="40" y="584" width="520" height="72" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="58" y="614" font-size="18" font-weight="700" fill="#1f2937">日中、外にいる時間が長いなら</text>
+  <text x="58" y="642" font-size="17" fill="#374151">SPF・PAの表示があるもの</text>
+
+  <line x1="300" y1="670" x2="300" y2="692" stroke="#9ca3af" stroke-width="3"/>
+  <path d="M290 688 L300 702 L310 688 Z" fill="#9ca3af"/>
+
+  <!-- 2. 本数 -->
+  <rect x="20" y="708" width="560" height="172" rx="14" fill="#eef8f1" stroke="#93c9a4" stroke-width="2"/>
+  <rect x="40" y="726" width="150" height="40" rx="20" fill="#2f8a4f"/>
+  <text x="115" y="753" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">何本買う？</text>
+  <text x="40" y="798" font-size="18" fill="#374151">置き場所が1か所 → 1本ずつ</text>
+  <text x="40" y="828" font-size="18" fill="#374151">家・かばん・職場など2〜3か所 → セット</text>
+  <text x="40" y="860" font-size="15" fill="#6b7280">セットは合計のgで比べ、1本ずつ開ける</text>
+</svg>

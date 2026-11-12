@@ -438,6 +438,8 @@ faqs:
 
 かゆみや赤みが強い、ひび割れが治らない、といった場合は、保湿剤だけで様子を見ずに皮膚科を受診してください。
 
+唇の乾燥対策は、[リップクリームの比較](/articles/lip-balm-comparison/)で、薬用と化粧品の違いや、スーッとする成分の入っていないものの見分け方をまとめています。
+
 出典: [気象庁「平年値（統計期間1991〜2020年）」東京](https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_ym.php?prec_no=44&block_no=47662&year=&month=&day=&view=)／[メディカルノート「皮脂欠乏症の原因には何があるの？」（監修: 安部正敏医師）](https://medicalnote.jp/contents/200828-004-NN)
 
 
