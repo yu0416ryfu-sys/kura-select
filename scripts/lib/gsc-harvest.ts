@@ -250,6 +250,12 @@ export interface HarvestMeta {
   /** 同・表示回数の合計 */
   excludedFragmentImpressions?: number;
   siteUrl?: string;
+  /** データ期間に重なった Google 側の変動（status.search.google.com）。CLAUDE.md §5.0.2 ルール6 */
+  searchStatus?: {
+    available: boolean;
+    verdict: string;
+    overlaps: Array<{ title: string; overlapStart: string; overlapEnd: string; overlapDays: number }>;
+  };
 }
 
 /** ページ単位の刈り取りレポート（Markdown）を組み立てる */
@@ -267,6 +273,14 @@ export function buildHarvestReport(
   lines.push(`取得時刻: ${meta.fetchedAt}`);
   lines.push(`取得行数: ${meta.totalRows} 行`);
   lines.push(`最小表示回数: ${meta.minImpressions}`);
+  if (meta.searchStatus) {
+    const overlapText = meta.searchStatus.overlaps
+      .map((o) => `${o.title}（${o.overlapStart}〜${o.overlapEnd}・${o.overlapDays}日）`)
+      .join(" / ");
+    lines.push(
+      `Google 検索ステータス: ${meta.searchStatus.verdict}${overlapText ? `（${overlapText}）` : ""}`,
+    );
+  }
   lines.push("");
 
   const bandCount = (band: HarvestBand) =>

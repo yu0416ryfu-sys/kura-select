@@ -333,6 +333,39 @@ describe("buildDigest", () => {
     expect(buildDigest(snapshot)).toContain("正規化子");
   });
 
+  it("Google 検索ステータスは §1 の前に出し、古いスナップショット（項目なし）では出さない", () => {
+    expect(buildDigest(snapshot)).not.toContain("Google 検索の公式ステータス");
+    const digest = buildDigest({
+      ...snapshot,
+      searchStatus: {
+        available: true,
+        source: "live",
+        asOf: "2026-08-21",
+        incidents: [
+          {
+            id: "aug-spam",
+            title: "August 2026 spam update",
+            service: "Ranking",
+            kind: "spam-update",
+            statusImpact: "SERVICE_INFORMATION",
+            severity: "low",
+            beginUtc: "2026-08-18T16:27:00+00:00",
+            endUtc: "2026-08-21T08:49:00+00:00",
+            beginDate: "2026-08-18",
+            endDate: "2026-08-21",
+            firstText: "",
+            url: "https://status.search.google.com/",
+          },
+        ],
+      },
+    });
+    const statusAt = digest.indexOf("## 0-1. Google 検索の公式ステータス");
+    expect(statusAt).toBeGreaterThan(0);
+    expect(statusAt).toBeLessThan(digest.indexOf("## 1. サイト全体"));
+    expect(digest).toContain("| 今週窓 |");
+    expect(digest).toContain("August 2026 spam update");
+  });
+
   it("GA4 / Bing が取れなかった場合は理由を出す", () => {
     const digest = buildDigest(snapshot);
     expect(digest).toContain("鍵が無い");

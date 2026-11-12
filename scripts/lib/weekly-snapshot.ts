@@ -10,6 +10,11 @@
 
 import { formatCohortCrawlSection, type CohortCrawlStatus } from './cohort-crawl.ts';
 import { excludeFragmentPages, isFragmentPage } from "./gsc-pages.ts";
+import {
+  formatSearchStatusSection,
+  type DateWindow,
+  type SearchStatusIncident,
+} from "./google-search-status.ts";
 
 /** クリック実数がこの値未満の比較は判定に使わない（CLAUDE.md §10「実数一桁は判定しない」） */
 export const JUDGEABLE_MIN_CLICKS = 10;
@@ -344,6 +349,15 @@ export interface SnapshotForDigest {
     error?: string;
     statuses: CohortCrawlStatus[];
   };
+  /** Google 検索の公式ステータス（status.search.google.com）。古いスナップショットには無い */
+  searchStatus?: {
+    available: boolean;
+    source?: "live" | "cache";
+    error?: string;
+    asOf: string;
+    incidents: SearchStatusIncident[];
+    holds?: Array<{ slug: string; label: string; window: DateWindow }>;
+  };
 }
 
 /**
@@ -388,6 +402,24 @@ export function buildDigest(
     lines.push("");
     lines.push(`⚠️ 確認できなかった: ${snapshot.cohortCrawl.error}`);
     lines.push("");
+  }
+
+  if (snapshot.searchStatus) {
+    lines.push(
+      ...formatSearchStatusSection({
+        available: snapshot.searchStatus.available,
+        error: snapshot.searchStatus.error,
+        source: snapshot.searchStatus.source,
+        asOf: snapshot.searchStatus.asOf,
+        incidents: snapshot.searchStatus.incidents,
+        windows: [
+          { label: "今週窓", ...windows.current },
+          { label: "前週窓", ...windows.previous },
+          { label: "直近28日窓", ...windows.month },
+        ],
+        holds: snapshot.searchStatus.holds,
+      }),
+    );
   }
 
   lines.push("## 1. サイト全体（GSC・`dimensions: []`）");

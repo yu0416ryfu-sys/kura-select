@@ -45,6 +45,8 @@ import {
   selectCohortCrawlTargets,
   evaluateCohortCrawl,
 } from './lib/cohort-crawl.ts';
+import { findOverlaps, holdWindows, toJstDate } from './lib/google-search-status.ts';
+import { loadSearchStatus } from './lib/google-search-status-store.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_DIR = path.resolve(__dirname, '../reports/weekly');
@@ -615,6 +617,35 @@ async function main() {
     }
   }
 
+  // Google 検索の公式ステータス（コアアップデート・障害など）と窓の重なり（CLAUDE.md §5.0.2 ルール6）
+  const status = await loadSearchStatus();
+  if (status.source === 'cache' && status.error) {
+    console.warn(`⚠️ Google 検索ステータスを取得できず、保存分で判定します: ${status.error}`);
+  }
+  const asOf = toJstDate(new Date().toISOString());
+  let holdRows = [];
+  try {
+    holdRows = holdWindows(JSON.parse(readFileSync(HOLDS_PATH, 'utf8')).holds ?? []);
+  } catch (error) {
+    console.warn(`⚠️ 凍結台帳を読めませんでした: ${error.message}`);
+  }
+  const searchStatus = {
+    available: status.available,
+    source: status.source,
+    error: status.error,
+    asOf,
+    incidents: status.incidents,
+    overlaps: {
+      current: findOverlaps(status.incidents, windows.current, asOf),
+      previous: findOverlaps(status.incidents, windows.previous, asOf),
+      month: findOverlaps(status.incidents, windows.month, asOf),
+    },
+    holds: holdRows.map((h) => ({ ...h, overlaps: findOverlaps(status.incidents, h.window, asOf) })),
+  };
+  for (const o of searchStatus.overlaps.month) {
+    console.log(`Google 検索ステータス: ${o.title}（${o.overlapStart}〜${o.overlapEnd}）が直近28日窓に重なる`);
+  }
+
   const snapshot = {
     generatedAt: new Date().toISOString(),
     siteUrl: SITE_URL,
@@ -634,6 +665,7 @@ async function main() {
     ga4,
     bing,
     cohortCrawl,
+    searchStatus,
   };
 
   mkdirSync(OUTPUT_DIR, { recursive: true });

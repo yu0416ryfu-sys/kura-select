@@ -33,6 +33,8 @@ import {
   buildHarvestReport,
   DEFAULT_MIN_IMPRESSIONS,
 } from './lib/gsc-harvest.ts';
+import { findOverlaps, formatOverlap, toJstDate, windowVerdict } from './lib/google-search-status.ts';
+import { loadSearchStatus } from './lib/google-search-status-store.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_DIR = path.resolve(__dirname, '../reports/gsc-harvest');
@@ -153,6 +155,27 @@ async function main() {
     `✓ サイト合計（dimensions: []）: クリック ${siteTotals.clicks} / 表示 ${siteTotals.impressions}`,
   );
 
+  // ベースラインの窓に Google 側の変動（コアアップデート・障害など）が重なっていないかを記録する（CLAUDE.md §5.0.2 ルール6）
+  const status = await loadSearchStatus();
+  const asOf = toJstDate(new Date().toISOString());
+  const overlaps = status.available
+    ? findOverlaps(status.incidents, { start: range.startDate, end: range.endDate }, asOf)
+    : [];
+  const searchStatus = {
+    available: status.available,
+    source: status.source,
+    error: status.error,
+    asOf,
+    verdict: status.available ? windowVerdict(overlaps) : '確認できず',
+    overlaps,
+  };
+  if (!status.available) {
+    console.warn(`⚠️ Google 検索ステータスを確認できませんでした: ${status.error}`);
+  } else {
+    console.log(`✓ Google 検索ステータス: ${searchStatus.verdict}`);
+    for (const o of overlaps) console.log(`  ・${formatOverlap(o)}`);
+  }
+
   const runDate = toDateString(new Date());
   const meta = {
     startDate: range.startDate,
@@ -165,6 +188,7 @@ async function main() {
     excludedFragmentRows,
     excludedFragmentImpressions,
     siteUrl: SITE_URL,
+    searchStatus,
   };
 
   mkdirSync(OUTPUT_DIR, { recursive: true });
