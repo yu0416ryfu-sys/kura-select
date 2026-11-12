@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 820" width="600" height="820" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>ソフトパックティッシュの置き場所：向く場所・工夫が要る場所・避ける場所</title>
+  <rect width="600" height="820" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">ソフトパックの置き場所</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">箱が入らない場所で使い、紙が傷む場所は避ける</text>
+
+  <!-- 向く -->
+  <rect x="20" y="100" width="560" height="250" rx="14" fill="#eef8f1" stroke="#93c9a4" stroke-width="2"/>
+  <rect x="40" y="118" width="250" height="40" rx="20" fill="#2f8a4f"/>
+  <text x="165" y="145" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">向く：箱が入らない場所</text>
+  <text x="40" y="196" font-size="19" fill="#374151">・引き出しの中</text>
+  <text x="40" y="230" font-size="19" fill="#374151">・車のシートポケット、グローブボックス</text>
+  <text x="40" y="264" font-size="19" fill="#374151">・洗面台の扉の裏</text>
+  <text x="40" y="298" font-size="19" fill="#374151">・ベッドサイドの隙間、カバンの中</text>
+
+  <line x1="300" y1="350" x2="300" y2="372" stroke="#9ca3af" stroke-width="3"/>
+  <path d="M290 368 L300 382 L310 368 Z" fill="#9ca3af"/>
+
+  <!-- 工夫 -->
+  <rect x="20" y="388" width="560" height="170" rx="14" fill="#fdf6e9" stroke="#e2bd75" stroke-width="2"/>
+  <rect x="40" y="406" width="300" height="40" rx="20" fill="#a86b12"/>
+  <text x="190" y="433" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">工夫が要る：何度も引き出す所</text>
+  <text x="40" y="482" font-size="19" fill="#374151">・リビングやダイニングのテーブル</text>
+  <text x="40" y="516" font-size="19" fill="#374151">・残りが減ると出にくい → ケースに入れる</text>
+  <text x="40" y="542" font-size="16" fill="#6b7280">その場所だけ箱ティッシュにする手もある</text>
+
+  <line x1="300" y1="558" x2="300" y2="580" stroke="#9ca3af" stroke-width="3"/>
+  <path d="M290 576 L300 590 L310 576 Z" fill="#9ca3af"/>
+
+  <!-- 避ける -->
+  <rect x="20" y="596" width="560" height="204" rx="14" fill="#fdf0ee" stroke="#e3a197" stroke-width="2"/>
+  <rect x="40" y="614" width="220" height="40" rx="20" fill="#b84a3a"/>
+  <text x="150" y="641" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">避ける：紙が傷む所</text>
+  <text x="40" y="690" font-size="19" fill="#374151">・直射日光が当たる所（ダッシュボードの上など）</text>
+  <text x="40" y="724" font-size="19" fill="#374151">・水がかかる所（濡れて乾くと紙がくっつく）</text>
+  <text x="40" y="758" font-size="19" fill="#374151">・湿気の多い所、においの強い物のそば</text>
+  <text x="40" y="786" font-size="16" fill="#6b7280">紙は周りの湿気やにおいを吸う（メーカーの案内）</text>
+</svg>

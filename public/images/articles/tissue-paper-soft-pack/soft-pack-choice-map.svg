@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>ソフトパックティッシュの選び方：量・1枚の大きさ・置き場所</title>
+  <rect width="600" height="900" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">ソフトパックティッシュの選び方</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">量をそろえる → 1枚の大きさ → 置き場所</text>
+
+  <!-- 1. 量 -->
+  <rect x="20" y="100" width="560" height="220" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <rect x="40" y="118" width="210" height="40" rx="20" fill="#2f6fb5"/>
+  <text x="145" y="145" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">① 量を「組」でそろえる</text>
+  <rect x="40" y="174" width="520" height="56" rx="10" fill="#ffffff" stroke="#8db6e3" stroke-width="1.5"/>
+  <text x="300" y="210" text-anchor="middle" font-size="21" font-weight="700" fill="#1f2937">1パックの組数 × 個数 ＝ 総組数</text>
+  <text x="40" y="262" font-size="18" fill="#374151">「400枚（200組）」は200組。枚ではなく組で比べる</text>
+  <text x="40" y="294" font-size="18" fill="#374151">1パックは150組・200組・240組と商品で違う</text>
+
+  <line x1="300" y1="320" x2="300" y2="342" stroke="#9ca3af" stroke-width="3"/>
+  <path d="M290 338 L300 352 L310 338 Z" fill="#9ca3af"/>
+
+  <!-- 2. 1枚の大きさ -->
+  <rect x="20" y="358" width="560" height="220" rx="14" fill="#eef8f1" stroke="#93c9a4" stroke-width="2"/>
+  <rect x="40" y="376" width="230" height="40" rx="20" fill="#2f8a4f"/>
+  <text x="155" y="403" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">② 1枚の大きさを見る</text>
+  <text x="40" y="450" font-size="18" fill="#374151">パッケージのシート寸法（mm）を見る</text>
+  <text x="40" y="482" font-size="18" fill="#374151">ソフトパック同士でも、1枚の面積は</text>
+  <text x="40" y="508" font-size="18" fill="#374151">商品によって1割ほど違う</text>
+  <text x="40" y="548" font-size="18" font-weight="700" fill="#1f6b3b">1組の値段が近いなら、シートの大きい方が紙は多い</text>
+
+  <line x1="300" y1="578" x2="300" y2="600" stroke="#9ca3af" stroke-width="3"/>
+  <path d="M290 596 L300 610 L310 596 Z" fill="#9ca3af"/>
+
+  <!-- 3. 置き場所 -->
+  <rect x="20" y="616" width="560" height="200" rx="14" fill="#fdf6e9" stroke="#e2bd75" stroke-width="2"/>
+  <rect x="40" y="634" width="270" height="40" rx="20" fill="#a86b12"/>
+  <text x="175" y="661" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">③ 置き場所を決めてから買う</text>
+  <text x="40" y="708" font-size="18" fill="#374151">5個入りの包みは高さ約22〜33cm（表示）</text>
+  <text x="40" y="740" font-size="18" fill="#374151">90個なら、包み18個分の場所が要る</text>
+  <text x="40" y="780" font-size="18" fill="#374151">直射日光・湿気・においの強い物のそばは避ける</text>
+
+  <rect x="20" y="836" width="560" height="48" rx="10" fill="#f3f4f6"/>
+  <text x="300" y="867" text-anchor="middle" font-size="17" fill="#374151">値段は1組あたりに直して、ページ上部の比較表で比べる</text>
+</svg>
