@@ -17,6 +17,8 @@ import {
   isMultiMeasureVariantItemName,
   isSalesQuantityVariantItemName,
   hasVariantPriceRange,
+  pickSalePriceRange,
+  RAKUTEN_PRICE_RANGE_ELEMENTS,
   mergeExistingMeasureWithSalesQuantity,
   isSameMeasureBaseWithExistingQuantity,
   isCutNotationOfSameCapacity,
@@ -1166,6 +1168,35 @@ describe("hasVariantPriceRange", () => {
     expect(hasVariantPriceRange(1740, undefined)).toBe(false);
     expect(hasVariantPriceRange(0, 4980)).toBe(false);
     expect(hasVariantPriceRange(Number.NaN, 4980)).toBe(false);
+  });
+});
+
+describe("pickSalePriceRange", () => {
+  it("販売期間外の選択肢（Min1）を使わず、販売期間中の Min2/Max2 を返す（フルールの実例）", () => {
+    const r = pickSalePriceRange({ itemPriceMin1: 1600, itemPriceMin2: 5980, itemPriceMax1: 6480, itemPriceMax2: 6480 } as never);
+    expect(r).toEqual({ priceMin: 5980, priceMax: 6480 });
+    expect(hasVariantPriceRange(r.priceMin, r.priceMax)).toBe(true);
+  });
+  it("販売中の選択肢が1点なら帯にならない", () => {
+    const r = pickSalePriceRange({ itemPriceMin1: 1000, itemPriceMin2: 1980, itemPriceMax2: 1980 } as never);
+    expect(r).toEqual({ priceMin: 1980, priceMax: 1980 });
+    expect(hasVariantPriceRange(r.priceMin, r.priceMax)).toBe(false);
+  });
+  it("Min2/Max2 が無ければ Min1 に戻さず null", () => {
+    expect(pickSalePriceRange({ itemPriceMin1: 1600, itemPriceMax1: 6480 } as never)).toEqual({ priceMin: null, priceMax: null });
+  });
+  it("片方だけ有効なら、もう片方は null", () => {
+    expect(pickSalePriceRange({ itemPriceMin2: 5980 })).toEqual({ priceMin: 5980, priceMax: null });
+  });
+  it.each([0, -100, Number.NaN, Number.POSITIVE_INFINITY, "6480", null, undefined])("正の有限数でない値 %s は null", (v) => {
+    expect(pickSalePriceRange({ itemPriceMin2: v, itemPriceMax2: v })).toEqual({ priceMin: null, priceMax: null });
+  });
+  it("item が null/undefined なら両方 null", () => {
+    expect(pickSalePriceRange(null)).toEqual({ priceMin: null, priceMax: null });
+    expect(pickSalePriceRange(undefined)).toEqual({ priceMin: null, priceMax: null });
+  });
+  it("API に要求する項目は Min2/Max2", () => {
+    expect([...RAKUTEN_PRICE_RANGE_ELEMENTS]).toEqual(["itemPriceMin2", "itemPriceMax2"]);
   });
 });
 

@@ -9,7 +9,7 @@ import {
   extractAllProductsData, extractProductSnapshotByRank, extractArticleTitle,
   extractArticleCategory, extractCapacityFromItemName, calcPricePerUnit,
   getArticleTargetUnit, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName,
-  hasVariantPriceRange,
+  hasVariantPriceRange, RAKUTEN_PRICE_RANGE_ELEMENTS, pickSalePriceRange,
 } from './lib/frontmatter.ts';
 import { toRakutenUrlKey } from './lib/rakuten-url.ts';
 import {
@@ -58,7 +58,7 @@ const params = new URLSearchParams({
   applicationId: env.RAKUTEN_APPLICATION_ID,
   affiliateId: env.PUBLIC_RAKUTEN_AFFILIATE_ID ?? '',
   keyword, hits, sort: '-reviewCount', imageFlag: '1', formatVersion: '2',
-  elements: 'itemName,itemPrice,itemPriceMin1,itemPriceMax1,itemUrl,affiliateUrl,mediumImageUrls,reviewCount,reviewAverage,shopName,shopUrl',
+  elements: 'itemName,itemPrice,' + RAKUTEN_PRICE_RANGE_ELEMENTS.join(',') + ',itemUrl,affiliateUrl,mediumImageUrls,reviewCount,reviewAverage,shopName,shopUrl',
 });
 const res = await fetch('https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20260401?' + params, {
   headers: { accessKey: env.RAKUTEN_ACCESS_KEY, Origin: 'https://yu0416ryfu-sys.github.io', Referer: 'https://yu0416ryfu-sys.github.io/' },
@@ -78,7 +78,8 @@ for (const item of data.Items ?? []) {
   if (/ふるさと納税|寄付|寄附|返礼品/.test(item.itemName ?? '')) continue;
   const key = toRakutenUrlKey(item.itemUrl) ?? toRakutenUrlKey(item.affiliateUrl);
   if (key && usedKeys.has(key)) continue;
-  const variantRange = hasVariantPriceRange(item.itemPriceMin1, item.itemPriceMax1);
+  const { priceMin, priceMax } = pickSalePriceRange(item);
+  const variantRange = hasVariantPriceRange(priceMin, priceMax);
   const variantName = isMultiMeasureVariantItemName(item.itemName) || isSalesQuantityVariantItemName(item.itemName);
   if (!allowVariant && (variantRange || variantName)) continue;
   const candidate = { name: item.itemName, price: item.itemPrice, reviewCount: item.reviewCount, rating: item.reviewAverage ? Number(item.reviewAverage) : null };
@@ -91,7 +92,7 @@ for (const item of data.Items ?? []) {
   shown++;
   console.log('--- 候補' + shown + ' [score ' + scored.score + '] ' + (variantRange ? '⚠価格帯 ' : '') + (variantName ? '⚠選択式 ' : ''));
   console.log('name      : ' + item.itemName);
-  console.log('price     : ' + item.itemPrice + '（min ' + item.itemPriceMin1 + ' / max ' + item.itemPriceMax1 + '）');
+  console.log('price     : ' + item.itemPrice + '（min ' + priceMin + ' / max ' + priceMax + '）');
   console.log('capacity  : ' + (capacity ?? '-') + ' / 単位許可: ' + (unitOk === null ? '判定不能' : unitOk));
   console.log('perUnit   : ' + (capacity && item.itemPrice ? calcPricePerUnit(item.itemPrice, capacity, targetUnit) : '-'));
   console.log('review    : ' + item.reviewCount + '件 / ' + item.reviewAverage);

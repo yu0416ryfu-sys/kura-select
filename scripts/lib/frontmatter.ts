@@ -499,6 +499,25 @@ export function isSalesQuantityVariantItemName(itemName: string): boolean {
 }
 
 /**
+ * 楽天 API で価格帯を取る項目。Min1/Max1 は販売期間外の選択肢を含み、もう買えない値段が帯に出るため
+ * 販売期間中の選択肢だけを数える Min2/Max2 を使う（実測と理由: docs/IMPLEMENTATION_PLAN_rakuten-sale-price-range.md）。
+ */
+export const RAKUTEN_PRICE_RANGE_ELEMENTS = ['itemPriceMin2', 'itemPriceMax2'] as const;
+
+/**
+ * 楽天 API の商品1件から、販売期間中の選択肢の最安・最高を返す。
+ * 正の有限数でなければ null（Min1 へは戻さない。null なら呼び出し側は帯を観測できなかったものとして扱う）。
+ */
+export function pickSalePriceRange(item: {
+  itemPriceMin2?: unknown;
+  itemPriceMax2?: unknown;
+} | null | undefined): { priceMin: number | null; priceMax: number | null } {
+  const toPrice = (v: unknown): number | null =>
+    typeof v === 'number' && Number.isFinite(v) && v > 0 ? v : null;
+  return { priceMin: toPrice(item?.itemPriceMin2), priceMax: toPrice(item?.itemPriceMax2) };
+}
+
+/**
  * 楽天の容量選択式商品名かどうかを判定する。
  * 例: "2kg 5kg 10kg" は価格が最小容量側を指すことがあるため自動単価更新を避ける。
  */
@@ -564,7 +583,7 @@ function isConsistentCapacityBreakdown(totals: number[], multipliers: Set<number
  * ただし "5g×150個 750g×3袋" のような内訳表記は変種ではないので除外する。
  */
 /**
- * 楽天 API の itemPriceMin1 / itemPriceMax1 が異なる＝購入時の選択肢で価格が変わる商品。
+ * 販売期間中の選択肢の最安・最高（pickSalePriceRange）が異なる＝購入時の選択肢で価格が変わる商品。
  * この場合 itemPrice は**最安バリアントの価格**を返すため、記事 capacity（多くは
  * 最大構成）と組み合わせると単価が実態より安く表示される。商品名から変種を
  * 読み取れないケース（"96枚" とだけ書かれた 96枚×12個 の出品など）も拾えるので、

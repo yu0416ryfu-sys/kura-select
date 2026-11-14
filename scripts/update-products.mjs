@@ -19,7 +19,7 @@
 import { readFileSync, writeFileSync, appendFileSync, readdirSync, existsSync, mkdirSync, renameSync } from 'fs';
 import { resolve, join, basename, dirname } from 'path';
 import { spawnSync } from 'child_process';
-import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, hasVariantPriceRange, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isCutNotationOfSameCapacity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, isProductManagedArticle, isRankedArticle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
+import { extractProductNames, buildSearchKeyword, updateProductInFrontmatter, extractProductSnapshot, extractProductSnapshotByRank, extractProductCapacity, extractProductRakutenUrl, extractCapacityTotal, normalizeCapacityTotal, calcPricePerUnit, getArticleTargetUnit, extractCapacityFromItemName, analyzeCapacityFromItemName, isMultiMeasureVariantItemName, isSalesQuantityVariantItemName, hasVariantPriceRange, RAKUTEN_PRICE_RANGE_ELEMENTS, pickSalePriceRange, mergeExistingMeasureWithSalesQuantity, isSameMeasureBaseWithExistingQuantity, isCutNotationOfSameCapacity, isSalesQuantityCapacity, hasMeasureCapacity, isLikelySalesQuantityCapacityMisread, removeProductFromFrontmatter, reorderProductsByPricePerUnit, syncPricePerUnitWithPolicy, limitProductsByRank, syncTitleProductCount, updateUpdatedAt, fixNameCapacityConflicts, extractAllProductsData, extractArticleTitle, extractArticleCategory, extractArticleType, isProductManagedArticle, isRankedArticle, buildArticleSearchKeyword } from './lib/frontmatter.ts';
 import { PAIR_AS_ONE_USE_ARTICLES } from '../src/lib/capacity.ts';
 import { applyAiCapacityToContent, buildProcessedAiCapacityFrozenProduct, buildCapacityReviewInputItem, computePendingFinalization, isSameRakutenItemUrl, parseJsonlPreservingRaw } from './lib/ai-capacity.ts';
 import { markProviderOffersForReview } from './lib/yahoo-offers.ts';
@@ -1116,7 +1116,7 @@ async function fetchRakutenItem(shopCode, itemCode, productName) {
     sort: '-reviewCount',
     formatVersion: '2',
     elements: [
-      'itemName', 'itemPrice', 'itemPriceMin1', 'itemPriceMax1', 'itemUrl', 'affiliateUrl',
+      'itemName', 'itemPrice', ...RAKUTEN_PRICE_RANGE_ELEMENTS, 'itemUrl', 'affiliateUrl',
       'mediumImageUrls', 'reviewCount', 'reviewAverage',
       'shopName', 'shopUrl', 'genreId',
     ].join(','),
@@ -1180,8 +1180,7 @@ async function fetchRakutenItem(shopCode, itemCode, productName) {
   return {
     name: target.itemName,
     price: target.itemPrice ?? null,
-    priceMin: target.itemPriceMin1 ?? null,
-    priceMax: target.itemPriceMax1 ?? null,
+    ...pickSalePriceRange(target),
     rating: target.reviewAverage ? Number(target.reviewAverage) : null,
     reviewCount: target.reviewCount ? Number(target.reviewCount) : null,
     itemUrl: target.itemUrl,
@@ -1247,7 +1246,7 @@ async function fetchRakutenItemFallback(shopCode, itemCode, productName) {
       sort,
       formatVersion: '2',
       elements: [
-        'itemName', 'itemPrice', 'itemPriceMin1', 'itemPriceMax1', 'itemUrl', 'affiliateUrl',
+        'itemName', 'itemPrice', ...RAKUTEN_PRICE_RANGE_ELEMENTS, 'itemUrl', 'affiliateUrl',
         'mediumImageUrls', 'reviewCount', 'reviewAverage',
         'shopName', 'shopUrl', 'genreId',
       ].join(','),
@@ -1284,8 +1283,7 @@ async function fetchRakutenItemFallback(shopCode, itemCode, productName) {
     return {
       name: target.itemName,
       price: target.itemPrice ?? null,
-      priceMin: target.itemPriceMin1 ?? null,
-      priceMax: target.itemPriceMax1 ?? null,
+      ...pickSalePriceRange(target),
       rating: target.reviewAverage ? Number(target.reviewAverage) : null,
       reviewCount: target.reviewCount ? Number(target.reviewCount) : null,
       itemUrl: target.itemUrl,
@@ -1316,7 +1314,7 @@ async function fetchRakutenSearch(keyword, { excludeUrlKeys = new Set() } = {}) 
     sort: '-reviewCount', // レビュー件数の多い順（人気順）
     formatVersion: '2',  // 改善版レスポンス形式
     elements: [
-      'itemName', 'itemPrice', 'itemPriceMin1', 'itemPriceMax1', 'itemUrl', 'affiliateUrl',
+      'itemName', 'itemPrice', ...RAKUTEN_PRICE_RANGE_ELEMENTS, 'itemUrl', 'affiliateUrl',
       'mediumImageUrls', 'reviewCount', 'reviewAverage',
       'shopName', 'shopUrl', 'genreId',
     ].join(','),
@@ -1389,9 +1387,8 @@ async function fetchRakutenSearch(keyword, { excludeUrlKeys = new Set() } = {}) 
   return {
     name: item.itemName,
     price: item.itemPrice ?? null,
-    // 価格帯（選択式）判定に使う。無いと clearVariantPrice が誤発火して是正を巻き戻す
-    priceMin: item.itemPriceMin1 ?? null,
-    priceMax: item.itemPriceMax1 ?? null,
+    // 価格帯（選択式）判定に使う。販売期間中の選択肢の値が無いと帯を観測できず、既存の priceMax を残す
+    ...pickSalePriceRange(item),
     rating: item.reviewAverage ? Number(item.reviewAverage) : null,
     reviewCount: item.reviewCount ? Number(item.reviewCount) : null,
     itemUrl: item.itemUrl,
@@ -1447,7 +1444,7 @@ async function fetchRakutenSearchMany(keyword, hits = 30, page = 1) {
     sort: '-reviewCount',
     formatVersion: '2',
     elements: [
-      'itemName', 'itemPrice', 'itemPriceMin1', 'itemPriceMax1', 'itemUrl', 'affiliateUrl',
+      'itemName', 'itemPrice', ...RAKUTEN_PRICE_RANGE_ELEMENTS, 'itemUrl', 'affiliateUrl',
       'mediumImageUrls', 'reviewCount', 'reviewAverage',
       'shopName', 'shopUrl', 'genreId',
     ].join(','),
@@ -1485,8 +1482,7 @@ async function fetchRakutenSearchMany(keyword, hits = 30, page = 1) {
     .map(item => ({
       name: item.itemName,
       price: item.itemPrice ?? null,
-      priceMin: item.itemPriceMin1 ?? null,
-      priceMax: item.itemPriceMax1 ?? null,
+      ...pickSalePriceRange(item),
       rating: item.reviewAverage ? Number(item.reviewAverage) : null,
       reviewCount: item.reviewCount ? Number(item.reviewCount) : null,
       itemUrl: item.itemUrl,
@@ -2420,6 +2416,10 @@ async function processArticle(file, articlesDir, zeroState, progress, index, { b
       const canObserveRange = data.priceMin != null && data.priceMax != null;
       if (canObserveRange && !isVariantPriceRange && beforeSnapshot?.priceMax != null) {
         updates.clearVariantPrice = true;
+      }
+      if (!canObserveRange && beforeSnapshot?.priceMax != null) {
+        // 販売期間中の最安・最高（Min2/Max2）が欠けた。priceMax は据え置くが、price は itemPrice で更新されうる
+        console.warn(`  ⚠ 価格帯の商品だが販売期間中の最安・最高を取得できず priceMax を据え置き: ${name}`);
       }
 
       // 機能3: 容量差異の自動修正
