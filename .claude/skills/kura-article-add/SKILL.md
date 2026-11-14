@@ -182,6 +182,15 @@ rg '"articleFile":"{確認したarticleFile}"' data/rag/capacity-patterns.jsonl
 - カテゴリ境界が曖昧で、記事側に入れるべきか判断が割れる商品
 - 入力元が `check-additions` 由来か判断できない候補
 
+### 価格帯の出品（選択式）は避ける
+
+同じページで個数・容量・セット数を選べて、選択肢ごとに値段が違う出品は、比較表で価格が「最安〜最高」の幅になり、単価が出ない（`src/lib/price.ts` の `isVariantPricedProduct`）。
+
+- 同じ商品に選択肢の無い出品（1種類だけの出品）があれば、そちらを選ぶ。別のショップでもよい
+- 価格帯の出品は、同じ商品が選択式でしか売られていないときだけ使う。使うときは完了報告に「価格帯で単価が出ない」と書く
+- 見分け方: 商品ページの選択肢で値段が変わるか。色やにおいを選ぶだけで値段が同じなら価格帯にはならないので、使ってよい
+- 代わりの出品は `node --experimental-strip-types scripts/find-replacement.mjs --slug=<slug（-comparison を除く）> --rank=<順位> --keyword="<商品名>"` でも探せる（価格帯・選択式は既定で候補から外れる）
+
 ---
 
 ## Step 4: `name` フィールドの正規化
