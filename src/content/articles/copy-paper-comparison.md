@@ -4,7 +4,7 @@ description: "A4コピー用紙のおすすめ9選を、高白色・標準白色
 category: "copy-paper"
 publishedAt: "2026-10-31"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -47,8 +47,8 @@ products:
     price: 2220
     capacity: "500枚×5冊（2500枚）"
     pricePerUnit: "約0.89円/枚"
-    rating: 4.51
-    reviewCount: 145
+    rating: 4.5
+    reviewCount: 147
     features:
       - "古紙パルプ配合率70%の再生紙（商品ページ表記）"
       - "グリーン購入法適合の表示がある"
@@ -184,7 +184,7 @@ products:
     capacity: "500枚×5冊（2500枚）"
     pricePerUnit: "約0.96円/枚"
     rating: 4.63
-    reviewCount: 260
+    reviewCount: 261
     features:
       - "10冊入りと同じ銘柄の5冊入り"
       - "白色度92%で、PEFC認証材を使った用紙"

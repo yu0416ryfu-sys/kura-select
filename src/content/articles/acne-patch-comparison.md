@@ -4,7 +4,7 @@ description: "VT・G9SKIN・夜用タイプなど人気ニキビパッチを1枚
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -28,7 +28,7 @@ products:
       - "最大12mmのため、それより広い範囲はおおえない"
     recommendedFor: "2サイズを同じくらい使い、枚数の多い1袋を常備したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s493n.3rdw6de5.g00s493n.3rdw7c07/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskingarden%2F10005759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskingarden%2Fi%2F10010234%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/skingarden/cabinet/event/13668656/kami-spot.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/skingarden/cabinet/04401049/g9skin/08446006/imgrc0131554880.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -49,7 +49,7 @@ products:
     capacity: "144枚"
     pricePerUnit: "約14円/枚"
     rating: 4.68
-    reviewCount: 1071
+    reviewCount: 1073
     features:
       - "VT PRO CICA クリアスポットパッチ 48枚入りの3個セット（計144枚）"
       - "1個に10mm×18枚・12mm×30枚の2サイズ入り。素材はハイドロコロイド"
@@ -196,7 +196,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnaturelab-store%2F4580173961293.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-03"
+        updatedAt: "2026-11-14"
         price: 550
         rating: 0
         reviewCount: 2
@@ -278,7 +278,7 @@ products:
     price: 880
     capacity: "48枚"
     rating: 4.51
-    reviewCount: 1565
+    reviewCount: 1569
     features:
       - "1個48枚（10mm×18枚・12mm×30枚）の2サイズ入り。素材はハイドロコロイド"
       - "ツボクサ由来の成分配合とうたう化粧品（韓国製）。全成分にアシアチコシド・マデカシン酸・アシアチン酸"

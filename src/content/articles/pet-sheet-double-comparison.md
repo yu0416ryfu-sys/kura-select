@@ -4,7 +4,7 @@ description: "ペットシーツのダブル（スーパーワイド）サイズ
 category: "pet-sheet"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "スーパーワイド 204枚"
     pricePerUnit: "約22円/枚"
     rating: 4.56
-    reviewCount: 15047
+    reviewCount: 15080
     features:
       - "スーパーワイドサイズのペットシーツ（薄型・厚型を選べる）"
       - "大型犬や多頭飼いのトイレまわりに使いやすい"
@@ -28,7 +28,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s5lzn.3rdw67b4.g00s5lzn.3rdw7923/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fryouhin-monogatari%2F10000024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fryouhin-monogatari%2Fi%2F10000024%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ryouhin-monogatari/cabinet/sale/salethumb/petsheets-s_sale.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ryouhin-monogatari/cabinet/renewal2025/thumbnail_sheet2/petsheets-small_main.jpg?_ex=128x128"
     genreId: "409755"
   - rank: 2
     name: "薄型ペットシーツ スーパーワイド"
@@ -139,7 +139,7 @@ products:
     capacity: "スーパーワイド 100枚（25枚×4パック）"
     pricePerUnit: "約44円/枚"
     rating: 4.35
-    reviewCount: 1860
+    reviewCount: 1863
     features:
       - "スーパーワイド（60×90cm）の厚型設計"
       - "ポリエチレン素材で吸収力・防水性を両立"
@@ -196,7 +196,7 @@ products:
     capacity: "超大判 64枚（16枚×4袋）"
     pricePerUnit: "約78円/枚"
     rating: 4.72
-    reviewCount: 128
+    reviewCount: 129
     features:
       - "超大判（98×128cm）サイズ、104g/枚の吸収量"
       - "体重40kg以下の超大型犬にも対応する最大サイズ"
@@ -241,7 +241,7 @@ products:
     price: 3680
     capacity: "60×60cm 300枚"
     rating: 4.41
-    reviewCount: 1535
+    reviewCount: 1544
     features:
       - "60×60cmの大判サイズ、6層構造で吸収量140cc"
       - "PPE素材使用、1枚あたり約60gの重量"

@@ -4,7 +4,7 @@ description: "ラップ・アルミホイルを1mあたりの価格で徹底比�
 category: "wrap-foil"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "NEWクレラップ ミニミニ 15cm"
@@ -67,10 +67,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F71920-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 2580
         rating: 5
-        reviewCount: 6
+        reviewCount: 7
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_71920-1"
         available: true
     genreId: "100633"
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9649965.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 1379
         rating: 5
         reviewCount: 3
@@ -249,7 +249,7 @@ products:
     capacity: "22cm×50m×3本"
     pricePerUnit: "約13円/m"
     rating: 4.73
-    reviewCount: 82
+    reviewCount: 83
     features:
       - "食品用ラップフィルムの定番ブランド"
       - "中皿サイズに使いやすい幅"
@@ -270,10 +270,10 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j662098/"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 1416
         rating: 4.69
-        reviewCount: 676
+        reviewCount: 678
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_j662098"
         available: true
   - rank: 9

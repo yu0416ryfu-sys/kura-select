@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -149,7 +149,7 @@ products:
     capacity: "1550mL×5個（7750mL）"
     pricePerUnit: "約0.64円/mL"
     rating: 4.76
-    reviewCount: 922
+    reviewCount: 924
     features:
       - "除菌もできる濃縮タイプの食器用洗剤"
       - "詰め替え用の超ジャンボサイズ"
@@ -226,8 +226,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frecommendo%2Fte-4901301510778.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-31"
+        matchStatus: "matched"
+        updatedAt: "2026-11-14"
         price: 5181
         rating: 0
         reviewCount: 0
@@ -318,8 +318,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbackyard%2Fkf741.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
-        price: 1896
+        updatedAt: "2026-11-14"
+        price: 1765
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/backyard_kf741"

@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット"
@@ -215,8 +215,8 @@ products:
     brand: "from COCORO"
     price: 550
     capacity: "48ml"
-    rating: 4.27
-    reviewCount: 259
+    rating: 4.28
+    reviewCount: 260
     features:
       - "フッ素無添加の泡歯磨き粉（医薬部外品。有効成分は CPC とグリチルリチン酸ジカリウム）。ぶどう味・48mL"
       - "メーカーの目安は3歳から。付属のU字型歯ブラシ「ゆらしー」は2〜7歳向け"

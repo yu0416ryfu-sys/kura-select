@@ -4,7 +4,7 @@ description: "過炭酸ナトリウムとオキシクリーンは何が違う？
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "3kg"
     pricePerUnit: "約0.38円/g"
     rating: 4.78
-    reviewCount: 852
+    reviewCount: 853
     features:
       - "過炭酸ナトリウム100%の大容量パック"
       - "洗濯槽掃除と衣類の漂白を想定した汎用タイプ"
@@ -48,7 +48,7 @@ products:
     capacity: "4.5kg"
     pricePerUnit: "約0.48円/g"
     rating: 4.84
-    reviewCount: 795
+    reviewCount: 797
     features:
       - "過炭酸ナトリウム100%の特大サイズ"
       - "洗濯槽掃除と浸け置き洗いを想定した容量"
@@ -82,7 +82,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.52円/g"
     rating: 4.71
-    reviewCount: 971
+    reviewCount: 973
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "添加物を加えていないシンプルな組成"
@@ -110,45 +110,11 @@ products:
         available: true
     genreId: "564510"
   - rank: 4
-    name: "国産 過炭酸ナトリウム 酸素系漂白剤 3kg"
-    brand: "アレスヘルスケア"
-    price: 1991
-    capacity: "3kg"
-    pricePerUnit: "約0.66円/g"
-    rating: 4.77
-    reviewCount: 921
-    features:
-      - "国内製造の過炭酸ナトリウム"
-      - "粉末タイプの酸素系漂白剤"
-      - "衣類と洗濯槽の両方を想定した汎用タイプ"
-    pros:
-      - "国内製造を選びたい場合の候補になる"
-      - "レビュー数が多く使用例を参考にしやすい"
-      - "大容量で用途を絞らずに使える"
-    cons:
-      - "同じ過炭酸ナトリウムでも輸入品より単価は上がりやすい"
-      - "スプーンなしの構成があるため商品ページの確認が要る"
-    recommendedFor: "国内製造にこだわりたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qa34n.3rdw6dcf.g00qa34n.3rdw74c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fares-hc%2F700056%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fares-hc%2Fi%2F10000097%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ares-hc/cabinet/00480640/katansan3image-1000.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fares%2F700056.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-31"
-        price: 1991
-        rating: 4.66
-        reviewCount: 77
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ares_700056"
-        available: true
-    genreId: "568344"
-  - rank: 5
     name: "オキシクリーン マルチパーパスクリーナー 5.26kg"
     brand: "OxiClean（アメリカ版）"
-    price: 3450
+    price: 3390
     capacity: "5.26kg"
-    pricePerUnit: "約0.66円/g"
+    pricePerUnit: "約0.64円/g"
     rating: 4.53
     reviewCount: 192
     features:
@@ -177,14 +143,48 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/butterflyeffectllc_46"
         available: true
     genreId: "210182"
+  - rank: 5
+    name: "国産 過炭酸ナトリウム 酸素系漂白剤 3kg"
+    brand: "アレスヘルスケア"
+    price: 1991
+    capacity: "3kg"
+    pricePerUnit: "約0.66円/g"
+    rating: 4.77
+    reviewCount: 921
+    features:
+      - "国内製造の過炭酸ナトリウム"
+      - "粉末タイプの酸素系漂白剤"
+      - "衣類と洗濯槽の両方を想定した汎用タイプ"
+    pros:
+      - "国内製造を選びたい場合の候補になる"
+      - "レビュー数が多く使用例を参考にしやすい"
+      - "大容量で用途を絞らずに使える"
+    cons:
+      - "同じ過炭酸ナトリウムでも輸入品より単価は上がりやすい"
+      - "スプーンなしの構成があるため商品ページの確認が要る"
+    recommendedFor: "国内製造にこだわりたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qa34n.3rdw6dcf.g00qa34n.3rdw74c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fares-hc%2F700056%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fares-hc%2Fi%2F10000097%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ares-hc/cabinet/00480640/katansan3image-1000.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fares%2F700056.html"
+        matchStatus: "matched"
+        updatedAt: "2026-11-14"
+        price: 1991
+        rating: 4.66
+        reviewCount: 77
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ares_700056"
+        available: true
+    genreId: "568344"
   - rank: 6
     name: "国産 過炭酸ナトリウム 酸素系漂白剤 900g"
     brand: "アレスヘルスケア"
     price: 638
     capacity: "900g"
     pricePerUnit: "約0.71円/g"
-    rating: 4.81
-    reviewCount: 416
+    rating: 4.82
+    reviewCount: 420
     features:
       - "国内製造の過炭酸ナトリウム"
       - "少量から試せる小容量パッケージ"
@@ -204,10 +204,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fares%2F700181001.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 638
         rating: 4.86
-        reviewCount: 42
+        reviewCount: 43
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ares_700181001"
         available: true
     genreId: "564510"

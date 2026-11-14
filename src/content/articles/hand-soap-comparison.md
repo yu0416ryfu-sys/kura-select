@@ -4,7 +4,7 @@ description: "ハンドソープはどれが殺菌力とコスパを両立する
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "ビオレu 薬用 泡ハンドソープ つめかえ用 2L"
@@ -47,7 +47,7 @@ products:
     capacity: "4800ml"
     pricePerUnit: "約0.87円/mL"
     rating: 4.72
-    reviewCount: 438
+    reviewCount: 439
     features:
       - "薬用タイプの泡ハンドソープ"
       - "シトラスフルーティの香り"
@@ -272,7 +272,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fj0030009.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-31"
+        updatedAt: "2026-11-14"
         price: 1254
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_j0030009"
         available: true
@@ -284,8 +284,8 @@ products:
     brand: "サラヤ（ハンドラボ）"
     price: 578
     capacity: "300mL"
-    rating: 4.89
-    reviewCount: 55
+    rating: 4.82
+    reviewCount: 56
     features:
       - "医薬部外品の薬用処方で殺菌・消毒に対応した泡ハンドソープ"
       - "たっぷり泡立つポンプ設計で手洗いしやすい"

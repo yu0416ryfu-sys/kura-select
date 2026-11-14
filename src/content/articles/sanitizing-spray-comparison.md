@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/nj04120/"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 3640
         rating: 4.88
         reviewCount: 8
@@ -69,8 +69,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10130857.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
-        price: 421
+        updatedAt: "2026-11-14"
+        price: 420
         rating: 4.67
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10130857"
@@ -211,12 +211,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188318706.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 1100
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188318706"
         available: true
         rating: 4.43
-        reviewCount: 35
+        reviewCount: 37
     genreId: "208238"
   - rank: 8
     name: "シュシュキッキ 除菌消臭ミスト 携帯サイズ"
@@ -246,7 +246,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-lensstyle%2Fsaruo-20.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-lensstyle_saruo-20"
         available: true

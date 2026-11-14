@@ -4,7 +4,7 @@ description: "日焼け止めを1mLあたりのコストで徹底比較。ビオ
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -65,19 +65,19 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301298706.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimejiryutsuu%2F103-4901301298706.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 920
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301298706"
+        updatedAt: "2026-11-14"
+        price: 962
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himejiryutsuu_103-4901301298706"
         available: true
         rating: 0
-        reviewCount: 1
+        reviewCount: 0
     genreId: "503054"
   - rank: 3
     name: "ビオレUV アクアリッチ ウォータリーエッセンス 120g"
     brand: "花王（ビオレ）"
-    price: 1243
+    price: 1229
     capacity: "120g"
     pricePerUnit: "約10円/g"
     rating: 4.63
@@ -149,7 +149,7 @@ products:
     capacity: "35g"
     pricePerUnit: "約73円/g"
     rating: 3.97
-    reviewCount: 12948
+    reviewCount: 12949
     features:
       - "UVケアに使える日焼け止め・化粧下地"
       - "BBクリームタイプで化粧下地を兼ねられる"
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flesthemo%2Fbb-cream.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 2560
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lesthemo_bb-cream"
         available: true
@@ -243,14 +243,14 @@ products:
       - "肌に合うか確認が必要"
     recommendedFor: "日焼け止めを使用感と用途で比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn2mn.3rdw6125.g00qn2mn.3rdw7702/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsangakushop%2Frarossyu35%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsangakushop%2Fi%2F10000773%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sangakushop/cabinet/cmp/rakuten_sale/bin_1104maracpn_179.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sangakushop/cabinet/lrp/03044hqs_p01.jpg?_ex=128x128"
     genreId: "503054"
   - rank: 9
     name: "レステモ ノンケミカル UVミルク"
     brand: "レステモ"
-    price: 2480
+    price: 2580
     capacity: "50mL"
-    pricePerUnit: "約50円/mL"
+    pricePerUnit: "約52円/mL"
     rating: 4.33
     reviewCount: 2400
     features:
@@ -266,7 +266,7 @@ products:
       - "専用クレンジングの要否は表示を確認したい"
     recommendedFor: "紫外線吸収剤を避けたい方・家族で共用したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdaen.3rdw686c.g00qdaen.3rdw7002/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flesthemo%2Fuv50g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flesthemo%2Fi%2F10000061%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/uvmilk_03_2480y.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/uvmilk_01_01_3500px.jpg?_ex=128x128"
     genreId: "503054"
   - rank: 10
     name: "ラブミータッチ シルキーUVミルク 50g"
@@ -274,7 +274,7 @@ products:
     price: 3499
     capacity: "50g"
     rating: 4.84
-    reviewCount: 3997
+    reviewCount: 4007
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -294,7 +294,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmedlf%2F20094-025.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-25"
+        updatedAt: "2026-11-14"
         price: 3499
         rating: 4.75
         reviewCount: 16

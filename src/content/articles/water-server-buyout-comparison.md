@@ -4,7 +4,7 @@ description: "卓上浄水ウォーターサーバーのおすすめ3選を、�
 category: "mineral-water"
 publishedAt: "2026-09-30"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -37,7 +37,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約80300円/個"
     rating: 4.48
-    reviewCount: 273
+    reviewCount: 277
     features:
       - "冷水・常温・お湯に加え、中間の温度も選べる操作パネル"
       - "ポット型と共通のマクストラプロ カートリッジを使う"
@@ -51,7 +51,7 @@ products:
       - "アース線の接続が必要で、コンセントの形によっては工事がいる"
     recommendedFor: "ブリタのポット型を使っていて、冷温水に広げたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tbsun.3rdw6e8c.g00tbsun.3rdw7800/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fcube%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbrita%2Fi%2F10000291%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/brita/cabinet/thum/261104_mt/cube.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/brita/cabinet/thum/thumb_01/cube.jpg?_ex=128x128"
     genreId: "559934"
   - rank: 3
     name: "puriot ES 浄水型ウォーターサーバー PES-2400"

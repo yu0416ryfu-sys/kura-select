@@ -4,7 +4,7 @@ description: "レンジフードフィルター（換気扇フィルター）の
 category: "range-hood-filter"
 publishedAt: "2026-10-05"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -105,8 +105,8 @@ products:
     price: 9180
     capacity: "29.7cm×34cm 18枚"
     pricePerUnit: "約510円/枚"
-    rating: 4.66
-    reviewCount: 704
+    rating: 4.67
+    reviewCount: 706
     features:
       - "6枚入りの袋を3袋まとめたセット"
       - "不燃性ガラス繊維タイプ（メーカー表示）"
@@ -129,7 +129,7 @@ products:
     capacity: "29.7cm×34cm 6枚"
     pricePerUnit: "約543円/枚"
     rating: 4.73
-    reviewCount: 679
+    reviewCount: 681
     features:
       - "R型相当の中サイズ（約29.7cm×34cm）"
       - "不燃性ガラス繊維を使う中サイズ（メーカー表示）"
@@ -148,9 +148,9 @@ products:
   - rank: 7
     name: "ダスキン レンジフードフィルター ガラス繊維タイプ RF297S 10枚"
     brand: "ダスキン"
-    price: 8190
+    price: 8690
     capacity: "29.7cm×34cm 10枚"
-    pricePerUnit: "約819円/枚"
+    pricePerUnit: "約869円/枚"
     rating: 4.75
     reviewCount: 48
     features:

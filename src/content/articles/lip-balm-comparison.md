@@ -30,6 +30,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987241105106%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10077967%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202509_5/4987241105106.jpg?_ex=128x128"
     genreId: "405206"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987241105106.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-14"
+        price: 149
+        rating: 4.71
+        reviewCount: 124
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987241105106"
+        available: true
   - rank: 2
     name: "無印良品 薬用リップクリーム 敏感肌用 5.3g"
     brand: "無印良品"
@@ -53,6 +64,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tpdhn.3rdw659f.g00tpdhn.3rdw7ee0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmujirushi-ryohin%2F4547315822782%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmujirushi-ryohin%2Fi%2F10004874%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mujirushi-ryohin/cabinet/item18/4547315822782.jpg?_ex=128x128"
     genreId: "405206"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/aa84821/"
+        matchStatus: "pending"
+        updatedAt: "2026-11-14"
+        price: 580
+        rating: 4.44
+        reviewCount: 36
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_aa84821"
+        available: true
   - rank: 3
     name: "メンソレータム リップベビーナチュラル 無香料 4g×3本"
     brand: "メンソレータム"
@@ -99,6 +121,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10054928%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10011504%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/shouhin73/10054928.jpg?_ex=128x128"
     genreId: "405206"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901301251589.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-14"
+        price: 656
+        rating: 4.87
+        reviewCount: 47
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901301251589"
+        available: true
   - rank: 5
     name: "ユリアージュ モイストリップ 無香料 4g"
     brand: "ユリアージュ"
@@ -122,6 +155,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4987316092676%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10048599%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/36/4987316092676.jpg?_ex=128x128"
     genreId: "405206"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987316092676.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-14"
+        price: 763
+        rating: 4.88
+        reviewCount: 33
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987316092676"
+        available: true
   - rank: 6
     name: "アベンヌ 薬用リップケア モイスト 4g"
     brand: "アベンヌ"
@@ -145,6 +189,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4964259087907%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11052811%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/907/4964259087907.jpg?_ex=128x128"
     genreId: "405206"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwlb%2Fav057.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-14"
+        price: 968
+        rating: 5
+        reviewCount: 7
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wlb_av057"
+        available: true
   - rank: 7
     name: "ちふれ 薬用リップクリーム 2.0g×3本セット"
     brand: "ちふれ"
@@ -191,6 +246,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qy5un.3rdw6b7b.g00qy5un.3rdw754e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdhcshop%2F8000000013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdhcshop%2Fi%2F10000625%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dhcshop/cabinet/white/8000000013.jpg?_ex=128x128"
     genreId: "405206"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8366417/"
+        matchStatus: "pending"
+        updatedAt: "2026-11-14"
+        price: 738
+        rating: 4.66
+        reviewCount: 149
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_8366417"
+        available: true
   - rank: 9
     name: "ファンケル リップクリーム 1.9g"
     brand: "ファンケル"

@@ -4,7 +4,7 @@ description: "使い捨てカイロのおすすめ10選を1個あたり単価で
 category: "kairo"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -57,8 +57,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1197-4987067829705x8.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        matchStatus: "matched"
+        updatedAt: "2026-11-14"
         price: 5573
         rating: 4.38
         reviewCount: 8
@@ -92,7 +92,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1197-4987067829309x8.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 5573
         rating: 5
         reviewCount: 8
@@ -105,7 +105,7 @@ products:
     capacity: "120個"
     pricePerUnit: "約24円/個"
     rating: 4.77
-    reviewCount: 123
+    reviewCount: 124
     features:
       - "約9.6×7cmのミニサイズで衣類に貼るタイプ"
       - "10時間持続タイプ（メーカー表示）"
@@ -124,13 +124,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsekichu%2F4582228253988.html"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej35309/"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 2780
+        updatedAt: "2026-11-14"
+        price: 2889
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sekichu_4582228253988"
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ej35309"
         available: true
   - rank: 5
     name: "アイリスオーヤマ ぽかぽか家族 貼るカイロ レギュラー 120枚"
@@ -139,7 +139,7 @@ products:
     capacity: "120個"
     pricePerUnit: "約25円/個"
     rating: 4.75
-    reviewCount: 157
+    reviewCount: 161
     features:
       - "ぽかぽか家族シリーズの衣類に貼るレギュラーサイズ"
       - "12時間持続タイプ（メーカー表示）"
@@ -158,13 +158,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsekichu%2F4582228253988.html"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ej35309/"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 2780
+        updatedAt: "2026-11-14"
+        price: 2889
         rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sekichu_4582228253988"
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ej35309"
         available: true
   - rank: 6
     name: "アイリスオーヤマ ぽかぽか家族 貼らないカイロ レギュラー 120枚"
@@ -228,7 +228,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flivingut%2F4970520461383set.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 6480
         rating: 4.91
         reviewCount: 11

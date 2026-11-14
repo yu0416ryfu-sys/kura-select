@@ -4,7 +4,7 @@ description: "乳児用粉ミルクのおすすめ8選を、大缶と詰め替�
 category: "baby-formula"
 publishedAt: "2026-11-02"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -34,9 +34,9 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j303146/"
-        matchStatus: "pending"
-        updatedAt: "2026-11-03"
-        price: 4460
+        matchStatus: "matched"
+        updatedAt: "2026-11-14"
+        price: 4580
         rating: 4.65
         reviewCount: 223
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_j303146"
@@ -47,8 +47,8 @@ products:
     price: 2480
     capacity: "400g×2袋（800g）"
     pricePerUnit: "約3.1円/g"
-    rating: 4.7
-    reviewCount: 98
+    rating: 4.71
+    reviewCount: 99
     features:
       - "400gの袋を専用ケースに袋ごと入れて使う詰め替えタイプ。中身は大缶と同じ"
       - "専用ケースへ入れたあとは1か月以内に使い切るよう表示"
@@ -67,13 +67,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j304388/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/9634209/"
         matchStatus: "pending"
-        updatedAt: "2026-11-03"
-        price: 4970
-        rating: 4.82
-        reviewCount: 418
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_j304388"
+        updatedAt: "2026-11-14"
+        price: 2598
+        rating: 4.72
+        reviewCount: 256
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_9634209"
         available: true
   - rank: 3
     name: "森永 はぐくみ 大缶 800g×2缶"
@@ -103,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902720109123.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-03"
+        updatedAt: "2026-11-14"
         price: 4980
         rating: 4.69
         reviewCount: 124
@@ -132,14 +132,25 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4903050509638%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10038142%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/638/4903050509638.jpg?_ex=128x128"
     genreId: "401171"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903050509638.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-14"
+        price: 4000
+        rating: 4.84
+        reviewCount: 19
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903050509638"
+        available: true
   - rank: 5
     name: "アイクレオ バランスミルク 800g×2缶"
     brand: "江崎グリコ"
     price: 6350
     capacity: "800g×2缶（1600g）"
     pricePerUnit: "約4.0円/g"
-    rating: 4.71
-    reviewCount: 17
+    rating: 4.72
+    reviewCount: 18
     features:
       - "0か月から1歳頃まで。標準調乳濃度12.7%"
       - "体内でDHAに変わるα-リノレン酸を含むエゴマ油を配合（DHAそのものは原材料に無い）"
@@ -159,11 +170,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987386071243.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-03"
+        matchStatus: "matched"
+        updatedAt: "2026-11-14"
         price: 6480
         rating: 4.81
-        reviewCount: 124
+        reviewCount: 128
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987386071243"
         available: true
   - rank: 6
@@ -172,8 +183,8 @@ products:
     price: 6500
     capacity: "800g×2缶（1600g）"
     pricePerUnit: "約4.1円/g"
-    rating: 4.22
-    reviewCount: 9
+    rating: 4.3
+    reviewCount: 10
     features:
       - "0か月から1歳の誕生日頃まで。消費者庁許可の特別用途食品（乳児用調製粉乳）"
       - "2026年7月のリニューアルでポリアミン・アラキドン酸などを新たに配合と表示"
@@ -193,8 +204,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4987493000785-73-30000285.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-03"
+        matchStatus: "matched"
+        updatedAt: "2026-11-14"
         price: 6580
         rating: 0
         reviewCount: 2
@@ -225,13 +236,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902705129566-73-30000285.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10183592.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-03"
-        price: 6380
+        updatedAt: "2026-11-14"
+        price: 23698
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4902705129566-73-30000285"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10183592"
         available: true
   - rank: 8
     name: "森永 E赤ちゃん 大缶 800g"
@@ -260,11 +271,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmorinaga-milk%2Fppeakan0ba00no04.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-03"
+        matchStatus: "matched"
+        updatedAt: "2026-11-14"
         price: 17531
         rating: 4.85
-        reviewCount: 39
+        reviewCount: 41
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/morinaga-milk_ppeakan0ba00no04"
         available: true
 tags:

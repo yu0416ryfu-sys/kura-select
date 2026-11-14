@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ8選を1枚あた�
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -171,7 +171,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/wxj9152/"
         matchStatus: "matched"
-        updatedAt: "2026-11-03"
+        updatedAt: "2026-11-14"
         price: 1071
         rating: 0
         reviewCount: 0
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10092408.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-03"
+        updatedAt: "2026-11-14"
         price: 1022
         rating: 4.93
         reviewCount: 98
@@ -212,40 +212,6 @@ products:
         available: true
     genreId: "402796"
   - rank: 7
-    name: "ケアリーヴ 防水タイプ Mサイズ 40枚"
-    brand: "ニチバン（ケアリーヴ）"
-    price: 1007
-    capacity: "40枚"
-    pricePerUnit: "約25円/枚"
-    rating: 4.79
-    reviewCount: 19
-    features:
-      - "水は通さず蒸気は通す特殊伸縮テープ"
-      - "パッドに手を触れずに貼れるセパレーター"
-      - "キズ口につきにくいやさしいパッド"
-    pros:
-      - "水仕事やシャワーの多い日でも使いやすい"
-      - "白くふやけにくく貼っていても目立ちにくい"
-      - "曲げてもフィットしやすくゴワつきにくい"
-    cons:
-      - "標準タイプより1枚あたりの単価は上がりやすい"
-      - "防水性を保つには貼る前に水気を拭き取る必要がある"
-    recommendedFor: "水回りで使う防水タイプを別枠で確保したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fk414910h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10043804%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/770/4987167044770.jpg?_ex=128x128"
-    genreId: "568428"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987167044763x2.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-03"
-        price: 545
-        rating: 4.29
-        reviewCount: 7
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987167044763x2"
-        available: true
-  - rank: 8
     name: "白十字 ファミリーケア ワンタッチパット Mサイズ 22枚"
     brand: "白十字（ファミリーケア）"
     price: 580
@@ -272,13 +238,47 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987603464520.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-03"
+        updatedAt: "2026-11-14"
         price: 580
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4987603464520"
         available: true
     genreId: "204748"
+  - rank: 8
+    name: "ケアリーヴ 防水タイプ Mサイズ 40枚"
+    brand: "ニチバン（ケアリーヴ）"
+    price: 1041
+    capacity: "40枚"
+    pricePerUnit: "約26円/枚"
+    rating: 4.79
+    reviewCount: 19
+    features:
+      - "水は通さず蒸気は通す特殊伸縮テープ"
+      - "パッドに手を触れずに貼れるセパレーター"
+      - "キズ口につきにくいやさしいパッド"
+    pros:
+      - "水仕事やシャワーの多い日でも使いやすい"
+      - "白くふやけにくく貼っていても目立ちにくい"
+      - "曲げてもフィットしやすくゴワつきにくい"
+    cons:
+      - "標準タイプより1枚あたりの単価は上がりやすい"
+      - "防水性を保つには貼る前に水気を拭き取る必要がある"
+    recommendedFor: "水回りで使う防水タイプを別枠で確保したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pl1pn.3rdw619a.g00pl1pn.3rdw796f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkocom%2Fk414910h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkocom%2Fi%2F10043804%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkocom/cabinet/770/4987167044770.jpg?_ex=128x128"
+    genreId: "568428"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10053802.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-14"
+        price: 498
+        rating: 4
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10053802"
+        available: true
 tags:
   - "絆創膏 おすすめ"
   - "絆創膏 コスパ"

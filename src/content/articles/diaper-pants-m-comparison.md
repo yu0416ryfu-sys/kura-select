@@ -34,8 +34,8 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/p648079/"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
-        price: 5600
+        updatedAt: "2026-11-14"
+        price: 4884
         rating: 4.78
         reviewCount: 296
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_p648079"
@@ -69,7 +69,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftravel-depart%2Fc144.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 6861
         rating: 0
         reviewCount: 0
@@ -102,8 +102,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Freonstyle%2Fa4901301422057.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
-        price: 5970
+        updatedAt: "2026-11-14"
+        price: 5860
         rating: 4.83
         reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/reonstyle_a4901301422057"
@@ -136,8 +136,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443502-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
-        price: 13423
+        updatedAt: "2026-11-14"
+        price: 12498
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_4901301443502-2"
@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/au51038/"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 7122
         rating: 4.92
         reviewCount: 12
@@ -205,7 +205,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2873284013.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 6593
         rating: 4.2
         reviewCount: 5
@@ -237,13 +237,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhcvalor%2Fvh-4987176136138.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzaccaya%2F4987176136152.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-26"
-        price: 2494
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hcvalor_vh-4987176136138"
+        updatedAt: "2026-11-14"
+        price: 1380
+        rating: 5
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/zaccaya_4987176136152"
         available: true
 tags:
   - "パンツ型おむつ おすすめ"

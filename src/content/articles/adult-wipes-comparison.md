@@ -4,7 +4,7 @@ description: "介護用・大人用おしりふきのおすすめ9選を1枚あ�
 category: "adult-wipes"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -28,7 +28,7 @@ products:
       - "厚手タイプに比べると拭き心地はあっさりめ"
     recommendedFor: "無香料・ノンアルコールを重視する方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F87062%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10003006%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1104_p5/kirikae2/87062.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/shohin08/87062.jpg?_ex=128x128"
     genreId: "214947"
     offers:
       - provider: "yahoo"
@@ -48,7 +48,7 @@ products:
     capacity: "72枚×10パック（720枚）"
     pricePerUnit: "約4.1円/枚"
     rating: 4.61
-    reviewCount: 76
+    reviewCount: 77
     features:
       - "ヒアルロン酸配合の弱酸性シート"
       - "ノンアルコール・無香料で肌への刺激に配慮"

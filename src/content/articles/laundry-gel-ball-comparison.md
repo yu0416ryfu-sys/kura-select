@@ -4,7 +4,7 @@ description: "ジェルボール洗剤を1個あたりのコストで比較し�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -13,7 +13,7 @@ products:
     capacity: "83個"
     pricePerUnit: "約24円/個"
     rating: 4.94
-    reviewCount: 17
+    reviewCount: 18
     features:
       - "洗浄・消臭・防菌・柔軟の4層構造ジェルボール"
       - "香りを抑えた微香タイプで衣類に匂いを残しにくい"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987176194398.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 1986
         rating: 4.75
         reviewCount: 8
@@ -46,8 +46,8 @@ products:
     price: 2997
     capacity: "89個"
     pricePerUnit: "約34円/個"
-    rating: 4.84
-    reviewCount: 75
+    rating: 4.82
+    reviewCount: 78
     features:
       - "部屋干し時の生乾き臭に狙いを定めた処方"
       - "汗をかいた衣類・運動着の皮脂汚れに対応"
@@ -65,13 +65,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176284914.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F2620600.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 2997
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4987176284914"
+        updatedAt: "2026-11-14"
+        price: 3190
+        rating: 4.77
+        reviewCount: 13
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_2620600"
         available: true
     genreId: "210182"
   - rank: 3
@@ -98,13 +98,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4987176284556-73-30001986.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987176284556.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 2838
+        updatedAt: "2026-11-14"
+        price: 2580
         rating: 0
         reviewCount: 2
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4987176284556-73-30001986"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987176284556"
         available: true
     pricePerUnit: "約35円/個"
     genreId: "210182"
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176284648.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 640
         rating: 0
         reviewCount: 0

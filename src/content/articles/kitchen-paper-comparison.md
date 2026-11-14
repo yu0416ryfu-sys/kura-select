@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-10-29"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "ネピア 激吸収 キッチンタオル 4ロール×12パック（100カット）"
@@ -117,7 +117,7 @@ products:
     capacity: "70カット×16ロール（1120枚）"
     pricePerUnit: "約5.1円/枚"
     rating: 4.6
-    reviewCount: 217
+    reviewCount: 218
     features:
       - "独自のフェルト構造で圧倒的な吸水力"
       - "1枚で雑巾1枚分の吸水量"
@@ -160,7 +160,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901670117899x24.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 4280
         rating: 0
         reviewCount: 2

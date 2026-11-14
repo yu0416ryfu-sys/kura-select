@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -125,7 +125,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3276
+    reviewCount: 3282
     features:
       - "クレンジング兼洗顔の1本（W洗顔不要の表示・日本製・化粧品）"
       - "ポンプ式で1プッシュ約3mL、メイクを落とすときは2〜3プッシュ"
@@ -146,20 +146,20 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true
         rating: 4.94
-        reviewCount: 477
+        reviewCount: 478
     genreId: "405091"
   - rank: 6
     name: "manyo ピュアクレンジングオイル 200mL"
     brand: "manyo"
     price: 2000
     capacity: "200mL"
-    rating: 4.45
-    reviewCount: 1187
+    rating: 4.46
+    reviewCount: 1188
     features:
       - "大豆油・ヘーゼルナッツ種子油などの植物油を主成分にしたオイルタイプ（化粧品・韓国製）"
       - "公式店の出品で、200mLを2個・4個のセットから選ぶ形式（同じページに洗顔料など別の商品も並ぶ）"
@@ -181,10 +181,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkscojp%2F960120670.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 2380
         rating: 4.46
-        reviewCount: 68
+        reviewCount: 70
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kscojp_960120670"
         available: true
     genreId: "405061"
@@ -268,7 +268,7 @@ products:
       - "濃いメイクや重ね付けのマスカラは残るという声がある"
     recommendedFor: "さっぱりした洗い上がりが好きな方・ナチュラルメイクの方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6mzn.3rdw632b.g00u6mzn.3rdw764e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00061/anua00061_30.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00061/oil_new_thum.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -288,7 +288,7 @@ products:
     price: 4378
     capacity: "100mL"
     rating: 4.57
-    reviewCount: 1704
+    reviewCount: 1707
     features:
       - "乳酸桿菌／豆乳発酵液などを配合したオイルタイプ（日本製・化粧品）"
       - "W洗顔不要・マツエクOKの表示"

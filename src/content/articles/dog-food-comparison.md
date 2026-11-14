@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -114,9 +114,9 @@ products:
   - rank: 4
     name: "ロイヤルカナン ミニ インドア アダルト 2kg×6個"
     brand: "ロイヤルカナン"
-    price: 18954
+    price: 17323
     capacity: "2kg×6個"
-    pricePerUnit: "約1580円/kg"
+    pricePerUnit: "約1444円/kg"
     rating: 5
     reviewCount: 1
     features:
@@ -132,13 +132,13 @@ products:
       - "6個セットのため保管スペースが必要になる"
     recommendedFor: "室内で暮らす小型犬を長く飼っている方・開封後の鮮度を優先したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pyyln.3rdw6e5d.g00pyyln.3rdw7543/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkoji%2F3182550746076-s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkoji%2Fi%2F10048489%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/koji/cabinet/1104/folder1/3182550746076-s.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/koji/cabinet/1115/folder1/3182550746076-s.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoji%2F3182550746076-s.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-11-14"
         price: 17226
         rating: 0
         reviewCount: 1
@@ -171,8 +171,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
-        price: 4766
+        updatedAt: "2026-11-14"
+        price: 5140
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
         rating: 4.59
@@ -206,7 +206,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F0813369001904.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-11-14"
         price: 5830
         rating: 4.74
         reviewCount: 103
@@ -241,12 +241,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-11-14"
         price: 9534
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
         rating: 4.72
-        reviewCount: 182
+        reviewCount: 186
     genreId: "565715"
   - rank: 8
     name: "ナチュラルハーベスト メンテナンス ラム (大粒) ドッグフード 犬 ドライフード"
@@ -254,7 +254,7 @@ products:
     price: 3080
     capacity: "1.1kg"
     rating: 4.77
-    reviewCount: 2525
+    reviewCount: 2526
     features:
       - "1歳以上の成犬からシニア犬用の総合栄養食（原産国アメリカ）"
       - "原材料の先頭はラム・ラムミール"
@@ -274,7 +274,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjohn-coco%2Fnhd0100260-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-11-14"
         price: 3080
         rating: 4.79
         reviewCount: 24
@@ -309,7 +309,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600a.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-11-14"
         price: 3000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600a"
         available: true

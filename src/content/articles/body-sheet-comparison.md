@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -193,7 +193,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fecomarche%2F100003175.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 660
         rating: 4.2
         reviewCount: 5
@@ -203,9 +203,9 @@ products:
   - rank: 7
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
-    price: 2041
+    price: 2059
     capacity: "30枚"
-    pricePerUnit: "約68円/枚"
+    pricePerUnit: "約69円/枚"
     rating: 4.81
     reviewCount: 21
     features:
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188322109.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 1780
         rating: 4.2
         reviewCount: 5

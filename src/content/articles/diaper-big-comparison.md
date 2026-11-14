@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhashbaby%2Fw875019-1008--.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
+        updatedAt: "2026-11-14"
         price: 12051
         rating: 0
         reviewCount: 0

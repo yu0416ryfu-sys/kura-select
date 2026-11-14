@@ -4,7 +4,7 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fippo0709%2F10073035-03-01.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-11-14"
         price: 1489
         rating: 4.6
         reviewCount: 5
@@ -62,14 +62,14 @@ products:
       - "軸が折れやすい・先が曲がるという声がある"
     recommendedFor: "ゴムの歯間ブラシを本数の多いパックで試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F107212%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10011378%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1104_p5/kirikae1/107212_sam2.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/13453622/107212_sam2.jpg?_ex=128x128"
     genreId: "204758"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F107212.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 200
         rating: 4.45
         reviewCount: 55
@@ -102,8 +102,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901616216099.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
-        price: 250
+        updatedAt: "2026-11-14"
+        price: 247
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901616216099"
         available: true
         rating: 4.83
@@ -159,7 +159,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-27"
+        updatedAt: "2026-11-14"
         price: 263
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
         available: true
@@ -193,12 +193,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4973227306025.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-11-14"
         price: 289
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4973227306025"
         available: true
-        rating: 4.73
-        reviewCount: 22
+        rating: 4.74
+        reviewCount: 23
     genreId: "204758"
   - rank: 7
     name: "GUM 歯間ブラシ L字型 10本×4セット"
@@ -251,10 +251,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fi-ha%2F24000005.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 1950
         rating: 4.79
-        reviewCount: 387
+        reviewCount: 389
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/i-ha_24000005"
         available: true
 tags:

@@ -4,7 +4,7 @@ description: "ボディソープを1mLあたりのコストで比較。hadakara�
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakakabeshop%2F4903301291305-12.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 7480
         rating: 0
         reviewCount: 1
@@ -43,11 +43,11 @@ products:
   - rank: 2
     name: "キュレル ボディウォッシュ ポンプ 420mL"
     brand: "花王（キュレル）"
-    price: 768
+    price: 767
     capacity: "420mL"
     pricePerUnit: "約1.8円/mL"
-    rating: 4.67
-    reviewCount: 12
+    rating: 4.62
+    reviewCount: 13
     features:
       - "セラミド機能成分配合で肌のバリア機能を守る処方"
       - "無香料・無着色・アルコールフリーの低刺激設計"
@@ -81,7 +81,7 @@ products:
     capacity: "400mL×3袋（約300回分）"
     pricePerUnit: "約2.8円/mL"
     rating: 4.78
-    reviewCount: 98
+    reviewCount: 99
     features:
       - "製薬会社開発の薬用処方"
       - "植物性アミノ酸系洗浄成分100%"
@@ -178,7 +178,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhealingvillage%2Fmndmrw-kbwt0.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 1398
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/healingvillage_mndmrw-kbwt0"
         available: true

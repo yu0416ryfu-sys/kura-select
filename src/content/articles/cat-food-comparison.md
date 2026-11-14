@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "10kg"
     pricePerUnit: "約1.3円/g"
     rating: 4.73
-    reviewCount: 829
+    reviewCount: 830
     features:
       - "生後12か月から7歳までの、室内で暮らす成猫用の総合栄養食"
       - "10kgの1袋。小分けされていなかったという購入者の声がある"
@@ -201,7 +201,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2614円/個"
     rating: 4.65
-    reviewCount: 923
+    reviewCount: 926
     features:
       - "16種類から1つを選ぶ出品（インドア・グレインフリー・7歳以上・子ねこ用など）"
       - "内容量は種類によって1.6kg・2kg・2.2kg"
@@ -266,7 +266,7 @@ products:
     price: 6476
     capacity: "4kg"
     rating: 4.66
-    reviewCount: 723
+    reviewCount: 724
     features:
       - "室内で暮らす成猫用（生後12か月〜7歳）。10kgの袋と同じインドア"
       - "4kgの単品か2個セットを選ぶ"
@@ -299,7 +299,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.72
-    reviewCount: 1078
+    reviewCount: 1085
     features:
       - "12種類から1つを選ぶ出品で、どれも2kg"
       - "室内猫アダルト・子猫用・エイジングケア・穀物フリー・毛玉ケア・減量用などがある"

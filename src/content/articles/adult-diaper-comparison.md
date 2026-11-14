@@ -4,7 +4,7 @@ description: "大人用紙おむつ・尿とりパッドのおすすめ10選を1
 category: "adult-diaper"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "ひまわり にっこり緑茶パッド 2回吸収 300枚"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F10004173.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-03"
+        updatedAt: "2026-11-14"
         price: 7304
         rating: 4.77
         reviewCount: 94
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00170.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-03"
+        updatedAt: "2026-11-14"
         price: 7722
         rating: 4.5
         reviewCount: 102
@@ -135,7 +135,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5817.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-03"
+        updatedAt: "2026-11-14"
         price: 6336
         rating: 4.51
         reviewCount: 81
@@ -149,7 +149,7 @@ products:
     capacity: "66枚"
     pricePerUnit: "約69円/枚"
     rating: 4.75
-    reviewCount: 708
+    reviewCount: 709
     features:
       - "男女共用の長時間用の尿とりパッド（約6回分）"
       - "販売ページの大きさは約30×63cm（表記に揺れあり）"
@@ -165,6 +165,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pve3n.3rdw6e49.g00pve3n.3rdw72d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhimawari-kaigo%2F10005075%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhimawari-kaigo%2Fi%2F10005075%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/himawari-kaigo/cabinet/kami/g019453case-2024.jpg?_ex=128x128"
     genreId: "201540"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/u943229/"
+        matchStatus: "pending"
+        updatedAt: "2026-11-14"
+        price: 6720
+        rating: 4.59
+        reviewCount: 29
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_u943229"
+        available: true
   - rank: 6
     name: "サルバ フレーヌケア ナイトロング 30枚×3袋（90枚）"
     brand: "サルバ"
@@ -205,8 +216,8 @@ products:
     price: 6336
     capacity: "88枚"
     pricePerUnit: "約72円/枚"
-    rating: 4.74
-    reviewCount: 282
+    rating: 4.75
+    reviewCount: 283
     features:
       - "男女兼用のパンツタイプ（Lサイズ・適合ウエスト80〜115cm）"
       - "約2回分の薄型吸収体・全面通気構造"
@@ -226,7 +237,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5819.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-03"
+        updatedAt: "2026-11-14"
         price: 6336
         rating: 4.68
         reviewCount: 75
@@ -282,7 +293,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkomamono%2Fxins-rps2t-m20-6.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-25"
+        updatedAt: "2026-11-14"
         price: 9080
         rating: 4.33
         reviewCount: 3

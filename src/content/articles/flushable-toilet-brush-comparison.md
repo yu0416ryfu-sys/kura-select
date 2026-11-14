@@ -4,7 +4,7 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/6172915/"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 2577
         rating: 4.58
         reviewCount: 104
@@ -68,8 +68,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaya-to%2F20260917004134-01434.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-04"
-        price: 2334
+        updatedAt: "2026-11-14"
+        price: 2018
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/maya-to_20260917004134-01434"
@@ -78,9 +78,9 @@ products:
   - rank: 3
     name: "スクラビングバブル 流せるトイレブラシ 本体+替え16個"
     brand: "スクラビングバブル"
-    price: 1425
+    price: 1583
     capacity: "本体+替え16個"
-    pricePerUnit: "約89円/個"
+    pricePerUnit: "約99円/個"
     rating: 4.5
     reviewCount: 2
     features:
@@ -101,13 +101,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftomopoko%2Fb0cshz6q7n.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhatuki%2Fhb00001454.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 1500
-        rating: 4.45
-        reviewCount: 11
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tomopoko_b0cshz6q7n"
+        updatedAt: "2026-11-14"
+        price: 2090
+        rating: 4.86
+        reviewCount: 14
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hatuki_hb00001454"
         available: true
   - rank: 4
     name: "スクラビングバブル 流せるトイレブラシ 本体+替え4個"
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F9612078018.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 579
         rating: 0
         reviewCount: 2
@@ -163,7 +163,7 @@ products:
       - "大容量パックより1個あたりは高くなりやすい"
     recommendedFor: "香りを選んで補充したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0ifn.3rdw6cd5.g00u0ifn.3rdw7e49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsevensails%2Fsruwhb12p2p1198636157%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsevensails%2Fi%2F10000236%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sevensails/cabinet/entryp10/scraentryp10/imgrc0128970344.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sevensails/cabinet/motogazou/sukuramoto/imgrc0128754555.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

@@ -4,7 +4,7 @@ description: "重曹・セスキ炭酸ソーダ・クエン酸などのナチュ
 category: "natural-cleaning"
 articleType: "comparison"
 publishedAt: "2026-06-09"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "22.5kg"
     pricePerUnit: "約355円/kg"
     rating: 4.85
-    reviewCount: 578
+    reviewCount: 579
     features:
       - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
       - "4.5kg×5袋の小分けパッケージによる大容量セット"
@@ -48,7 +48,7 @@ products:
     capacity: "15kg"
     pricePerUnit: "約362円/kg"
     rating: 4.85
-    reviewCount: 716
+    reviewCount: 721
     features:
       - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
       - "5kg×3袋の小分けパッケージによる大容量セット"
@@ -116,7 +116,7 @@ products:
     capacity: "5kg"
     pricePerUnit: "約438円/kg"
     rating: 4.8
-    reviewCount: 1008
+    reviewCount: 1010
     features:
       - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
       - "宅配便で届く業務用サイズのパッケージ"
@@ -221,7 +221,7 @@ products:
       - "配送方法によって受け取り条件が異なるため注文時の確認が必要"
     recommendedFor: "配送方法を選びつつ少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2F10000018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000018%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sesuki_950.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sesuki-950gt.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -264,7 +264,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.79円/g"
     rating: 4.78
-    reviewCount: 1323
+    reviewCount: 1324
     features:
       - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
       - "メール便配送に対応した小容量パッケージ"
@@ -278,7 +278,7 @@ products:
       - "使用量が多い家庭では買い足しの頻度が上がりやすい"
     recommendedFor: "セスキ炭酸ソーダを少量から試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qwojn.3rdw6a14.g00qwojn.3rdw7cba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2Fsesuki%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10000484%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sesuki_950m.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/01359158/r-sesuki-950gm.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

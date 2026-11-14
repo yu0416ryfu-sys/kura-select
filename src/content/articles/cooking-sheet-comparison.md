@@ -4,7 +4,7 @@ description: "クッキングシートを1mあたりの価格で比較。家庭�
 category: "cooking-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "フジ クッキングシート 業務用 33cm×30m"
@@ -65,13 +65,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackage-marche%2F51849.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fec-try%2F4901670103113.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 9440
-        rating: 5
-        reviewCount: 14
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/package-marche_51849"
+        updatedAt: "2026-11-14"
+        price: 550
+        rating: 4.91
+        reviewCount: 11
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ec-try_4901670103113"
         available: true
     genreId: "401532"
   - rank: 3
@@ -80,8 +80,8 @@ products:
     price: 759
     capacity: "15m"
     pricePerUnit: "約51円/m"
-    rating: 4.85
-    reviewCount: 20
+    rating: 4.86
+    reviewCount: 21
     features:
       - "家庭用より長い30cm×15mのロール"
       - "日本製の両面シリコーン加工耐油紙で耐熱250℃（20分）の表示"
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujinamisquare%2F100020900.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 4950
         rating: 0
         reviewCount: 0
@@ -219,7 +219,7 @@ products:
       - "保管や取り出しに工夫がいるというレビューがある"
     recommendedFor: "切る手間を省きたい方、PFASフリー表示の無漂白シートを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ukv2n.3rdw65ce.g00ukv2n.3rdw7589/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnewbigace%2Fcompass1717137133%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnewbigace%2Fi%2F10000026%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/newbigace/cabinet/biiino/item/s-image/imgrc0190907654.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/newbigace/cabinet/biiino/item/main-image/cs3040-main261110.jpg?_ex=128x128"
     genreId: "401532"
     priceMax: 2700
 tags:

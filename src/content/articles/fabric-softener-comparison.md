@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "ダウニー サンライズフレッシュ 4L×3本セット"
@@ -13,7 +13,7 @@ products:
     capacity: "4L×3本（12L）"
     pricePerUnit: "約0.58円/mL"
     rating: 4.72
-    reviewCount: 110
+    reviewCount: 111
     features:
       - "洗濯時に使う柔軟仕上げ剤"
       - "継続利用しやすい定番構成"
@@ -67,8 +67,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fririnana%2F13ca849f60f.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
-        price: 1944
+        updatedAt: "2026-11-14"
+        price: 1913
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ririnana_13ca849f60f"
@@ -80,8 +80,8 @@ products:
     price: 2599
     capacity: "4L"
     pricePerUnit: "約0.65円/mL"
-    rating: 4.73
-    reviewCount: 41
+    rating: 4.74
+    reviewCount: 42
     features:
       - "業務用4Lの大容量詰め替えでコスパ重視の購入に向く"
       - "長時間香りが続く処方と香りサラッ機能を組み合わせた設計"
@@ -115,7 +115,7 @@ products:
     capacity: "1300mL×6個（7800mL）"
     pricePerUnit: "約0.75円/mL"
     rating: 4.77
-    reviewCount: 321
+    reviewCount: 323
     features:
       - "家庭用の詰め替えパウチをケース単位でまとめた構成"
       - "アロマオイル配合で香りの立ち上がりを設計したシリーズ"
@@ -135,7 +135,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4903301375111.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-23"
+        updatedAt: "2026-11-14"
         price: 5180
         rating: 0
         reviewCount: 0
@@ -148,8 +148,8 @@ products:
     price: 1280
     capacity: "1350mL"
     pricePerUnit: "約0.95円/mL"
-    rating: 4.53
-    reviewCount: 17
+    rating: 4.56
+    reviewCount: 18
     features:
       - "植物由来成分を使い、着色料を配合しない処方"
       - "ピュアソープの香りで香り立ちを控えめにまとめている"
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987176184580.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 1281
         rating: 4.96
         reviewCount: 27
@@ -203,7 +203,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4902135322537-73-30000839.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 1160
         rating: 4.8
         reviewCount: 5
@@ -260,7 +260,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone%2F1898619600.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 1350
         rating: 0
         reviewCount: 0
@@ -306,8 +306,8 @@ products:
     brand: "花王（ハミング）"
     price: 1113
     capacity: "2000mL"
-    rating: 4.97
-    reviewCount: 32
+    rating: 4.94
+    reviewCount: 33
     features:
       - "肌へのやさしさを重視した素肌おもいシリーズの詰め替えパウチ"
       - "香りの強さを抑えたタイプで、無香料の選択肢もある"

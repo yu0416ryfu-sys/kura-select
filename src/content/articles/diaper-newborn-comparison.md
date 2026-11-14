@@ -4,7 +4,7 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-10-23"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "ムーニー マシュマロ肌ごこち 新生児 テープ"
@@ -274,7 +274,7 @@ products:
     capacity: "36枚（サイズ1・2〜4kg）"
     pricePerUnit: "約89円/枚"
     rating: 4.74
-    reviewCount: 68
+    reviewCount: 69
     features:
       - "オーガニック系のプレミアム紙おむつ"
       - "テープ/パンツの案内がある海外ブランド"
@@ -288,7 +288,7 @@ products:
       - "取扱店が限られやすい"
     recommendedFor: "素材感やプレミアム感を重視したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qcnfn.3rdw6f9c.g00qcnfn.3rdw70c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu684137%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10037852%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/natural-living/cabinet/spr/1/1/118753296834.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/natural-living/cabinet/spr/1/1/118753296834_2.jpg?_ex=128x128"
     genreId: "205198"
   - rank: 10
     name: "パンパース テープ新生児 144枚"

@@ -4,7 +4,7 @@ description: "洗濯洗剤は液体・粉末・ジェルボールのどれがコ
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -91,7 +91,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301452429x8.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 3960
         rating: 4.78
         reviewCount: 9
@@ -100,11 +100,11 @@ products:
   - rank: 4
     name: "アタックZERO つめかえ用 2300g"
     brand: "アタック（花王）"
-    price: 2356
+    price: 2333
     capacity: "2300g"
     pricePerUnit: "約1.0円/g"
-    rating: 4.78
-    reviewCount: 32
+    rating: 4.79
+    reviewCount: 33
     features:
       - "濃縮タイプの液体洗剤"
       - "部屋干しの臭い対策をうたうシリーズ"
@@ -148,7 +148,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7280528f.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 3980
         rating: 0
         reviewCount: 0
@@ -182,7 +182,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkarimerobox%2Ftoys-n-b0h37z9x9j.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 3990
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/karimerobox_toys-n-b0h37z9x9j"
         available: true
@@ -195,8 +195,8 @@ products:
     price: 2380
     capacity: "760g×2個"
     pricePerUnit: "約1.6円/g"
-    rating: 4.44
-    reviewCount: 18
+    rating: 4.37
+    reviewCount: 19
     features:
       - "液体タイプの衣料用洗剤"
       - "肌へのやさしさを重視したシリーズ"
@@ -216,8 +216,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnicobase%2F2nico-4987176352453.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        matchStatus: "matched"
+        updatedAt: "2026-11-14"
         price: 2772
         rating: 0
         reviewCount: 0
@@ -250,7 +250,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fg0290005set.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 4367
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_g0290005set"
         available: true

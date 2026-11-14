@@ -4,7 +4,7 @@ description: "保存袋・フリーザーバッグを1枚あたりのコスト�
 category: "wrap-foil"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "システムポリマー XP-11 スライダー付ジッパー保存袋"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakibaoo%2F4997495112409.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 182
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/akibaoo_4997495112409"
         available: true
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbungubin%2Fka0046.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 128
         rating: 0
         reviewCount: 0
@@ -237,7 +237,7 @@ products:
     price: 574
     capacity: "10枚〜50枚（サイズ・枚数選択可）"
     rating: 4.77
-    reviewCount: 177
+    reviewCount: 179
     features:
       - "アルミ素材により防湿・遮光・防臭効果を発揮"
       - "マチ付き構造で自立可能な設計"

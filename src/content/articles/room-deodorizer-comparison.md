@@ -4,7 +4,7 @@ description: "消臭剤のおすすめ8選をコスパで徹底比較。リセ�
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "ハルの消臭剤 消臭ビーズ 詰替用"
@@ -13,7 +13,7 @@ products:
     capacity: "4kg"
     pricePerUnit: "約1265円/kg"
     rating: 4.79
-    reviewCount: 3091
+    reviewCount: 3094
     features:
       - "部屋や玄関などのニオイ対策に使える"
       - "置き型・スプレー・詰替などから選べる"
@@ -91,10 +91,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fbs02.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 6204
-        rating: 4.67
-        reviewCount: 461
+        rating: 4.66
+        reviewCount: 463
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_bs02"
         available: true
     genreId: "401619"
@@ -224,8 +224,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworldglobal%2F20260619202540-00359.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 944
+        updatedAt: "2026-11-14"
+        price: 1287
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/worldglobal_20260619202540-00359"
@@ -258,7 +258,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fhs01.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 1485
         rating: 4.74
         reviewCount: 57

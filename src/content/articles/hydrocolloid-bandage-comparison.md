@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnisshodrug%2F4955574823646.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 2598
         rating: 0
         reviewCount: 0
@@ -170,8 +170,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901730240017.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-27"
-        price: 1191
+        updatedAt: "2026-11-14"
+        price: 1266
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901730240017"
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/h219465/"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 1495
         rating: 4.75
         reviewCount: 57
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop-ni%2F34901730077002.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-23"
+        updatedAt: "2026-11-14"
         price: 1329
         rating: 0
         reviewCount: 0

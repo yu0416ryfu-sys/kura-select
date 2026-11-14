@@ -4,7 +4,7 @@ description: "ウェットティッシュのおすすめ8選を1枚あたり単�
 category: "tissue-paper"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "レック 水99.9％ 手口ふき"
@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe242.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 2390
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e242"
         available: true
         rating: 4.67
-        reviewCount: 1073
+        reviewCount: 1074
     genreId: "505416"
   - rank: 2
     name: "シルコット ピュアウォーター ウェットティッシュ 詰替 58枚×8個"
@@ -81,7 +81,7 @@ products:
     capacity: "43枚×8個×4個（1376枚）"
     pricePerUnit: "約3.8円/枚"
     rating: 4.76
-    reviewCount: 249
+    reviewCount: 251
     features:
       - "ノンアルコールタイプの除菌ウェットティッシュ詰替"
       - "ワンプッシュで開閉できる取り出し口設計"
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100996.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 4620
         rating: 4.88
         reviewCount: 17
@@ -190,14 +190,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4903301291022.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4903301129479.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
-        price: 205
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4903301291022"
+        updatedAt: "2026-11-14"
+        price: 246
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4903301129479"
         available: true
         rating: 0
-        reviewCount: 1
+        reviewCount: 0
     genreId: "505522"
   - rank: 7
     name: "アイリスオーヤマ 除菌ウェットティッシュ 60枚×48個"

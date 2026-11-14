@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ8選を1回�
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fozoneassocia%2Ftoilet100.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 3980
         rating: 4.25
         reviewCount: 208
@@ -91,11 +91,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhacono%2Fftl010210102.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        matchStatus: "matched"
+        updatedAt: "2026-11-14"
         price: 7980
-        rating: 3.88
-        reviewCount: 24
+        rating: 3.96
+        reviewCount: 27
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hacono_ftl010210102"
         available: true
   - rank: 4
@@ -104,7 +104,7 @@ products:
     price: 1280
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7667
+    reviewCount: 7732
     features:
       - "1箱は凝固剤60袋（50袋＋10袋）と黒い汚物袋60枚、防臭袋5枚"
       - "凝固剤1袋で500mlの水が約30秒で固まる表示"
@@ -156,13 +156,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fulimalie%2F99jun24yjcs02.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenton-store%2Fportabletoilet01f2.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 4980
-        rating: 4.56
-        reviewCount: 105
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ulimalie_99jun24yjcs02"
+        updatedAt: "2026-11-14"
+        price: 5122
+        rating: 4.68
+        reviewCount: 111
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenton-store_portabletoilet01f2"
         available: true
     priceMax: 23750
     genreId: "501137"
@@ -192,10 +192,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoco-yasashisaya%2Fsaimol01.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 3980
         rating: 4.49
-        reviewCount: 792
+        reviewCount: 797
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coco-yasashisaya_saimol01"
         available: true
     priceMax: 27800
@@ -205,8 +205,8 @@ products:
     brand: "アクアタルク"
     price: 1800
     capacity: "50回分"
-    rating: 4.45
-    reviewCount: 4100
+    rating: 4.46
+    reviewCount: 4104
     features:
       - "粉の凝固剤ではなく、吸水ポリマーのシートに吸わせるタイプ"
       - "通常版の50回分は吸水シート60枚と汚物袋20枚の構成"
@@ -223,13 +223,24 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aquatalk/cabinet/shin/sheetoilet20-100/ssam3.jpg?_ex=128x128"
     priceMax: 5000
     genreId: "501137"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faquatalk%2F10000314.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-14"
+        price: 3000
+        rating: 4.34
+        reviewCount: 382
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/aquatalk_10000314"
+        available: true
   - rank: 8
     name: "簡易トイレ 防災士監修 20回分 コンパクトセット"
     brand: ""
     price: 1580
     capacity: "20回分"
-    rating: 4.5
-    reviewCount: 7300
+    rating: 4.51
+    reviewCount: 7312
     features:
       - "凝固剤（10g入り）20回分・排泄用袋20枚・便座カバー1枚・防臭袋2枚・手袋50枚"
       - "20回分の箱は約19.5×30.5×3.2cmの薄い硬紙箱"
@@ -247,13 +258,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcenturyshop%2Fportable-toilet.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyandk%2Fportable-toilet.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-27"
+        updatedAt: "2026-11-14"
         price: 3480
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/centuryshop_portable-toilet"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yandk_portable-toilet"
         available: true
     priceMax: 28800
     genreId: "501137"

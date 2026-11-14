@@ -4,7 +4,7 @@ description: "食洗機用洗剤を1回あたりのコストで徹底比較。�
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "緑の魔女 食洗機用洗剤 800g"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8811720/"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 840
         rating: 0
         reviewCount: 2
@@ -135,8 +135,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkiiroihachi%2Fyahoo20250603-b07bbljjxx.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
-        price: 2667
+        updatedAt: "2026-11-14"
+        price: 2606
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kiiroihachi_yahoo20250603-b07bbljjxx"
@@ -203,12 +203,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430777537x3.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-14"
         price: 1705
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430777537x3"
         available: true
-        rating: 4.83
-        reviewCount: 12
+        rating: 4.77
+        reviewCount: 13
     genreId: "216012"
   - rank: 7
     name: "キュキュット 食器洗い乾燥機専用 粉末タイプ 詰替 800g×3セット"
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fecomarche%2F100000017.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 1210
         rating: 0
         reviewCount: 1
@@ -294,7 +294,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fs0270032.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 2970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_s0270032"
         available: true
@@ -308,7 +308,7 @@ products:
     capacity: "450個"
     pricePerUnit: "約12円/個"
     rating: 4.81
-    reviewCount: 239
+    reviewCount: 241
     features:
       - "タブレットタイプの食洗機用洗剤"
       - "大容量のビッグパック3袋セット"

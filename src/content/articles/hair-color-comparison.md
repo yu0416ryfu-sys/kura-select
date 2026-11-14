@@ -4,7 +4,7 @@ description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あ�
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -37,7 +37,7 @@ products:
     capacity: "100g×2袋"
     pricePerUnit: "約7.9円/g"
     rating: 4.42
-    reviewCount: 3182
+    reviewCount: 3183
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -56,11 +56,11 @@ products:
   - rank: 3
     name: "エムズハーブカラートリートメント彩 500g"
     brand: "スリアン"
-    price: 5940
+    price: 6600
     capacity: "500g"
-    pricePerUnit: "約12円/g"
+    pricePerUnit: "約13円/g"
     rating: 4.54
-    reviewCount: 713
+    reviewCount: 714
     features:
       - "トリートメントしながら白髪に色を入れるカラートリートメントタイプ"
       - "500g入りで継続使用しやすい大容量"
@@ -93,8 +93,8 @@ products:
     price: 5478
     capacity: "350g"
     pricePerUnit: "約16円/g"
-    rating: 4.27
-    reviewCount: 3125
+    rating: 4.28
+    reviewCount: 3135
     features:
       - "洗いながら染めるクリームシャンプータイプ"
       - "白髪染め・トリートメント機能を兼ねる"
@@ -108,7 +108,7 @@ products:
       - "色味の出方に個人差がある"
     recommendedFor: "毎日のケアで少しずつ白髪を目立たなくしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s6b6n.3rdw6797.g00s6b6n.3rdw7ada/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fibiki-kenkyujyo%2Faz-711%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fibiki-kenkyujyo%2Fi%2F10000575%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ibiki-kenkyujyo/cabinet/08691637/1_260911_50off.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ibiki-kenkyujyo/cabinet/08691637/0711_01.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -151,7 +151,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.51
-    reviewCount: 2768
+    reviewCount: 2771
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -174,7 +174,7 @@ products:
     capacity: "3個"
     pricePerUnit: "約5808円/個"
     rating: 4.53
-    reviewCount: 1737
+    reviewCount: 1739
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

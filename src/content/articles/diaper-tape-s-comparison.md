@@ -4,7 +4,7 @@ description: "Sサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "ムーニー テープ Sサイズ"
@@ -115,7 +115,7 @@ products:
     capacity: "54枚×4個セット"
     pricePerUnit: "約33円/枚"
     rating: 4.75
-    reviewCount: 538
+    reviewCount: 539
     features:
       - "低刺激処方で敏感肌向けに配慮"
       - "安心設計のテープタイプ"
@@ -215,8 +215,8 @@ products:
     brand: "P&G（パンパース）"
     price: 7180
     capacity: "74枚×4袋（296枚）"
-    rating: 4.7
-    reviewCount: 71
+    rating: 4.71
+    reviewCount: 72
     features:
       - "世界No.1シェアの信頼ブランド"
       - "肌のpHバランスを考慮した処方"
@@ -230,7 +230,7 @@ products:
       - "4袋での枚数が他社より少ない（74枚×4袋）"
     recommendedFor: "産院でパンパースを使っていた方・世界基準の品質を求める方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7252901%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10193037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/09483188/12470037/imgrc0140407660.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tasya108/imgrc0116993733.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -242,7 +242,6 @@ products:
         available: true
         rating: 4.79
         reviewCount: 140
-    priceMax: 8980
     genreId: "205198"
 tags:
   - "Sサイズ おむつ"

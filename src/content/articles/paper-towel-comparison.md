@@ -4,7 +4,7 @@ description: "手拭き用ペーパータオルのおすすめ10選を、1枚（
 category: "kitchen-paper"
 publishedAt: "2026-10-14"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "200枚×49袋"
     pricePerUnit: "約0.54円/枚"
     rating: 4.77
-    reviewCount: 287
+    reviewCount: 288
     features:
       - "小判サイズの1枚もの（シングル）"
       - "国産の業務用ペーパータオル"
@@ -58,7 +58,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-miyaco%2F2012611.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 5060
         rating: 4.33
         reviewCount: 27
@@ -92,8 +92,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhanico%2F1228689.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
-        price: 3970
+        updatedAt: "2026-11-14"
+        price: 3770
         rating: 4.58
         reviewCount: 43
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hanico_1228689"
@@ -121,41 +121,18 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q242n.3rdw6f72.g00q242n.3rdw7b52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitoman%2Fex_towel%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fitoman%2Fi%2F10000303%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/itoman/cabinet/papertowel/ittoco_50200006/50200006.jpg?_ex=128x128"
     genreId: "568271"
-  - rank: 5
-    name: "ペーパータオル レナージュ レギュラー 中判 200枚×30パック"
-    brand: "太洋紙業"
-    price: 4600
-    capacity: "200枚×30パック"
-    pricePerUnit: "約0.77円/枚"
-    rating: 4.67
-    reviewCount: 401
-    features:
-      - "中判（レギュラー）の1枚もの"
-      - "日本製の業務用ペーパータオル"
-      - "同じシリーズに小判のエコノミーもある"
-    pros:
-      - "レビューが多く、使っている人の評価を参考にしやすい"
-      - "洗面所・トイレ・キッチンの手拭きに幅広く使える"
-      - "中判ホルダーの定番サイズで補充に迷わない"
-    cons:
-      - "小判ホルダーでは使えない"
-      - "顔を拭くような柔らかさを求める用途には向かない"
-    recommendedFor: "中判ホルダーで、評価の定まった定番品を選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq8tn.3rdw6841.g00qq8tn.3rdw7945/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocodecow%2F773072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocodecow%2Fi%2F10021998%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/095/773072.jpg?_ex=128x128"
-    genreId: "568271"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F529287.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgion%2Ft4970570444213.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 4598
-        rating: 4.5
-        reviewCount: 34
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_529287"
+        updatedAt: "2026-11-14"
+        price: 4740
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/gion_t4970570444213"
         available: true
-  - rank: 6
+  - rank: 5
     name: "業務用 ペーパータオル 中判 ピュアソフトREG 200枚×30袋"
     brand: "ピュアソフト"
     price: 4785
@@ -183,11 +160,45 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-miyaco%2F2012621.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-14"
         price: 4785
         rating: 4.11
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-miyaco_2012621"
+        available: true
+  - rank: 6
+    name: "ペーパータオル レナージュ レギュラー 中判 200枚×30パック"
+    brand: "太洋紙業"
+    price: 4910
+    capacity: "200枚×30パック"
+    pricePerUnit: "約0.82円/枚"
+    rating: 4.67
+    reviewCount: 401
+    features:
+      - "中判（レギュラー）の1枚もの"
+      - "日本製の業務用ペーパータオル"
+      - "同じシリーズに小判のエコノミーもある"
+    pros:
+      - "レビューが多く、使っている人の評価を参考にしやすい"
+      - "洗面所・トイレ・キッチンの手拭きに幅広く使える"
+      - "中判ホルダーの定番サイズで補充に迷わない"
+    cons:
+      - "小判ホルダーでは使えない"
+      - "顔を拭くような柔らかさを求める用途には向かない"
+    recommendedFor: "中判ホルダーで、評価の定まった定番品を選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qq8tn.3rdw6841.g00qq8tn.3rdw7945/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocodecow%2F773072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocodecow%2Fi%2F10021998%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/095/773072.jpg?_ex=128x128"
+    genreId: "568271"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F529287.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-14"
+        price: 4598
+        rating: 4.5
+        reviewCount: 34
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_529287"
         available: true
   - rank: 7
     name: "クレシア EFハンドタオル スリムEX ソフトタイプ200 小判 200組×36袋"
@@ -219,7 +230,7 @@ products:
     capacity: "200組×30パック"
     pricePerUnit: "約0.98円/組"
     rating: 4.76
-    reviewCount: 351
+    reviewCount: 353
     features:
       - "中判（レギュラーサイズ）の2枚重ね・ソフトタイプ"
       - "牛乳パック類を配合した再生紙（商品ページ表記）"
@@ -238,11 +249,11 @@ products:
   - rank: 9
     name: "エルフォーレ ペーパータオルダブル 中判 200組×30パック"
     brand: "大王製紙（エリエール）"
-    price: 5947
+    price: 6210
     capacity: "200組×30パック"
-    pricePerUnit: "約0.99円/組"
-    rating: 4.75
-    reviewCount: 28
+    pricePerUnit: "約1.0円/組"
+    rating: 4.76
+    reviewCount: 29
     features:
       - "中判の2枚重ね・ソフトタイプ"
       - "エリエールの業務用エルフォーレシリーズ"

@@ -5,7 +5,7 @@ category: "tissue-paper"
 publishedAt: "2026-04-29"
 articleType: "comparison"
 ranking: false
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-14"
 products:
   - rank: 1
     name: "スコッティ ティッシュペーパー フラワーボックス"
@@ -73,8 +73,8 @@ products:
     price: 4980
     capacity: "150組×100個（15000組）"
     pricePerUnit: "約0.33円/組"
-    rating: 4
-    reviewCount: 5
+    rating: 3.5
+    reviewCount: 6
     features:
       - "家庭用に使いやすいティッシュペーパー"
       - "箱タイプ・ソフトパックを選べる"
