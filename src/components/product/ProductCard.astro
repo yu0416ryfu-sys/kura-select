@@ -133,7 +133,7 @@ const rankColor = rankColors[product.rank] ?? "bg-[var(--color-surface)] text-[v
 
       {product.rating !== undefined && (
         <div class="flex items-center gap-1.5 mt-1.5">
-          <div class="flex" aria-label={`評価 ${product.rating}点`}>
+          <div class="flex" role="img" aria-label={`評価 ${product.rating}点`}>
             {Array.from({ length: 5 }, (_, i) => (
               <svg
                 class={`w-3.5 h-3.5 ${i < Math.round(product.rating!) ? "text-[var(--color-warning)]" : "text-gray-300"}`}
