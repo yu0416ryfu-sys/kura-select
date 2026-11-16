@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-16",
   "readme": [
     "効果測定中で編集してはいけない対象の台帳。凍結の対象・起点日・解除日（releaseDate）はこのファイルが唯一の正（2026-09-15 改定）。",
     "施策の中身・判定根拠・経緯の正はローカルのメモリ project_measurement_holds。機械判定（scripts/check-internal-links.mjs など）もこのファイルを読む。施策を打ったら両者を必ず同時に更新する。",
@@ -142,64 +142,6 @@
       ],
       "simultaneous": true,
       "note": "cohort-02 施策群の解除日（10-09）に実施。区分D＋title/description 変更の同時実施なので施策型の判定には使わない。R3 非該当（baseline-2026-10-06: クリック47・表示1323・順位9.3）。r6 Dove 330g×18袋・r7 カウブランド 450mL は pricePerUnit 未設定のまま（capacity-review 10-08: multiple capacity variant。カウブランドは【2-6個】の選択式出品で価格が容量と対応しない疑い）＝区分A/B の範囲で別途。前窓は 10-12 に取る cohort-02 後窓（09-11〜10-08）の baseline を流用。起点はデプロイ日（JST） ｜10-22: JSON-LD から売り手宣言を除去（計画書2 第1段・区分C・全記事）。判定時に併記 ｜10-24: 記事本文の見出し・リスト記号に青アクセント（CSS のみ・全記事・title/description/本文/商品は不変）。判定時に併記 ｜10-27: サイト全体の購入ボタン順変更（Amazon を最安の次の2番目へ・SERP 非露出・送客は指標にしていないので凍結は起こさない。docs/IMPLEMENTATION_PLAN_AMAZON_SECOND_2026-10-25.md）。判定時に併記 ｜10-31: 記事テンプレの横あふれ修正（CSS クラスのみ・全記事・title/description/本文/商品は不変。SERP 非露出。docs/IMPLEMENTATION_PLAN_ARTICLE_GRID_OVERFLOW_2026-10-31.md）。判定時に併記 ｜11-01: PC の比較表の列統合（容量・コスパを1列に・クラスと PC 用テーブルの見出しのみ・全比較記事。title/description/本文/商品は不変。SERP 非露出。docs/IMPLEMENTATION_PLAN_COMPARISON_TABLE_COLUMNS_2026-11-01.md）。判定時に併記 ｜11-03: sitemap の記事 lastmod を内容の更新日に変更（計画書5 Part A・525891c1・全記事。frontmatter・title/description/本文/商品・画面表示は不変。lastmod が毎週の価格同期日から内容の更新日に戻るので、クロール頻度に作用しうる）。判定時に併記"
-    },
-    {
-      "slug": "copy-paper-comparison",
-      "releaseDate": "2026-11-15",
-      "releaseLabel": "2026-11-14",
-      "targetType": "new-article",
-      "startedAt": "2026-10-31",
-      "searchNeed": "自宅や小さな事務所でコピー用紙を買い足したい人が、A4の箱入りでどれが1枚あたり安いか・白さや再生紙の違い・何冊買えばよいかを知りたくて「コピー用紙 おすすめ」「コピー用紙 A4 安い」「コピー用紙 比較」などで検索している。GSC では受け皿が無く表示は測れていない（試験枠: Google トレンド「コピー用紙」90日 横ばい・楽天 554,718件・テーマ語のクエリ0行）。関連語は a4・サイズ・コンビニなど買う場所と規格が中心で、選択系は弱い（「安い」が25語中24位）ので、Google より Bing の単語クエリで順位が付く可能性がある。",
-      "measures": [
-        "コピー用紙系クエリ（「コピー用紙」「PPC用紙」「A4 用紙」を含むクエリ）の順位帯",
-        "Bing の単語クエリ「コピー用紙」の順位",
-        "表示/日",
-        "インデックス登録（lastCrawlTime）"
-      ],
-      "actions": [
-        "新規記事公開（試験枠・10選＝高白色・標準白色・再生紙・国産・1冊売り。A4 の白い普通紙で個人宅に届く出品に限定・カテゴリ copy-paper を新設）＋ballpoint-pen の本文から被リンク1本"
-      ],
-      "simultaneous": false,
-      "note": "2026-10-31 ユーザー承認（kura-article-recommend の試験枠で採択・本線は通過0本）。判定は公開2週後の順位帯＝判定日 2026-11-14（コピー用紙系クエリのどれかで10位以内なら離陸。Google で表示が立たなければ Bing の単語クエリ順位で見る）。試験枠の2週判定は6本たまったら本線と比較する。起点日は main への push 日。push が 10-31 より後になったら startedAt・releaseDate をずらす ｜10-31: 記事テンプレの横あふれ修正（CSS クラスのみ・全記事・title/description/本文/商品は不変。SERP 非露出。docs/IMPLEMENTATION_PLAN_ARTICLE_GRID_OVERFLOW_2026-10-31.md）。判定時に併記 ｜11-01: PC の比較表の列統合（容量・コスパを1列に・クラスと PC 用テーブルの見出しのみ・全比較記事。title/description/本文/商品は不変。SERP 非露出。docs/IMPLEMENTATION_PLAN_COMPARISON_TABLE_COLUMNS_2026-11-01.md）。判定時に併記 ｜11-03: sitemap の記事 lastmod を内容の更新日に変更（計画書5 Part A・525891c1・全記事。frontmatter・title/description/本文/商品・画面表示は不変。lastmod が毎週の価格同期日から内容の更新日に戻るので、クロール頻度に作用しうる）。判定時に併記 ｜11-06: r8 スーパーエコー A4 5000枚（onestep/011082）が出品終了・同一商品は訳あり品のみのため、ユーザー判断で削除（区分D・2施策同時。10選→9選。次回 update-products で適用）。判定時に併記",
-      "source": "project_measurement_holds"
-    },
-    {
-      "slug": "sheet-mask-comparison",
-      "releaseDate": "2026-11-17",
-      "releaseLabel": "2026-11-16",
-      "targetType": "new-article",
-      "startedAt": "2026-11-02",
-      "simultaneous": false,
-      "source": "project_measurement_holds",
-      "searchNeed": "毎日のスキンケアにシートマスクを使いたい人が、大容量の袋や箱でどれが1枚あたり安いか・肌に合うか（アルコールや香料の有無）・何枚入りを買えば使い切れるかを知りたくて「シートマスク おすすめ」「シートマスク 大容量」「シートマスク 毎日」などで検索している。GSC では受け皿が無く表示は測れていない（試験枠: Google トレンド「シートマスク」90日 横ばい・前年同期 -2%・楽天 79,662件・テーマ語のクエリ0行）。新記事が受ければ、シートマスク系クエリの順位帯と表示/日に出るはず",
-      "measures": [
-        "シートマスク系クエリ（「シートマスク」「フェイスマスク」「フェイスパック」を含むクエリ）の順位帯",
-        "表示/日",
-        "インデックス登録（lastCrawlTime）"
-      ],
-      "actions": [
-        "新規記事公開（試験枠・8選＝大袋・箱・分割袋・個包装。顔用の洗い流さないタイプで30枚以上に限定・カテゴリ sheet-mask を新設）＋cotton の本文から被リンク1本"
-      ],
-      "note": "2026-11-02 ユーザー承認（kura-article-recommend の試験枠で採択・本線は通過0本）。ユーザー指示で 11-02（月曜）に push。判定は公開2週後の順位帯＝判定日 2026-11-16（シートマスク系クエリのどれかで10位以内なら離陸）。試験枠の2週判定は6本たまったら本線と比較する ｜11-03: sitemap の記事 lastmod を内容の更新日に変更（計画書5 Part A・525891c1・全記事。frontmatter・title/description/本文/商品・画面表示は不変。lastmod が毎週の価格同期日から内容の更新日に戻るので、クロール頻度に作用しうる）。判定時に併記"
-    },
-    {
-      "slug": "baby-formula-comparison",
-      "releaseDate": "2026-11-17",
-      "releaseLabel": "2026-11-16",
-      "targetType": "new-article",
-      "startedAt": "2026-11-02",
-      "simultaneous": false,
-      "source": "project_measurement_holds",
-      "searchNeed": "粉ミルクを使っている・使い始める保護者が、大缶や詰め替えでどれが1gあたり安いか・1缶が何日もつか・銘柄を替えてよいかを知りたくて「粉ミルク おすすめ」「粉ミルク 比較」「粉ミルク 大缶」などで検索している。GSC では受け皿が無く表示は測れていない（試験枠: Google トレンド「粉ミルク」90日 横ばい・前年同期 -1%・楽天 26,291件・テーマ語のクエリ0行）。新記事が受ければ、粉ミルク系クエリの順位帯と表示/日に出るはず",
-      "measures": [
-        "粉ミルク系クエリ（「粉ミルク」「育児用ミルク」または主要銘柄名を含むクエリ）の順位帯",
-        "表示/日",
-        "インデックス登録（lastCrawlTime）"
-      ],
-      "actions": [
-        "新規記事公開（試験枠・8選＝0か月からの乳児用の大缶・詰め替え。フォローアップ・アレルギー用・キューブ・スティック・液体は除外・カテゴリ baby-formula を新設）＋diaper-tape-s の本文から被リンク1本"
-      ],
-      "note": "2026-11-02 ユーザー承認（kura-article-recommend の試験枠で採択・本線は通過0本）。ユーザー指示で 11-02（月曜）に push。判定は公開2週後の順位帯＝判定日 2026-11-16（粉ミルク系クエリのどれかで10位以内なら離陸）。健康に関わる題材なので効果の断定を避け、調乳の決まりは厚労省・消費者庁を出典にした。試験枠の2週判定は6本たまったら本線と比較する ｜11-03: sitemap の記事 lastmod を内容の更新日に変更（計画書5 Part A・525891c1・全記事。frontmatter・title/description/本文/商品・画面表示は不変。lastmod が毎週の価格同期日から内容の更新日に戻るので、クロール頻度に作用しうる）。判定時に併記"
     },
     {
       "slug": "lip-balm-comparison",
