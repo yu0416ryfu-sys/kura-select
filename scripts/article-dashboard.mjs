@@ -887,14 +887,14 @@ details.plan > summary .meta { font-weight: 400; margin-left: 8px; }
         + kpi('EPS（円/送客）', c.eps == null ? '未記入' : c.eps)
         + '</div>';
     }
-    h += '<div class="pwrap"><table><thead><tr><th class="l">記事</th><th class="l">状態</th><th>掲載開始</th><th>掲載日数</th><th>掲載前 送客/PV<span class="sub">送客率・期間</span></th><th>掲載後 送客/PV<span class="sub">送客率・期間</span></th><th>サイト送客率<span class="sub">群を除く 前→後</span></th><th>正規化比<span class="sub">参考</span></th><th>広告 表示/収益<span class="sub">ad-revenue.json</span></th><th>収益/1,000PV</th><th class="l">安全装置<span class="sub">固定4週ごとの送客</span></th><th class="l">PSI モバイル<span class="sub">基準・停止線</span></th></tr></thead><tbody>';
+    h += '<div class="pwrap"><table><thead><tr><th class="l">記事</th><th class="l">状態</th><th>掲載開始</th><th>掲載日数</th><th>掲載前 送客/PV<span class="sub">送客率・期間</span></th><th>掲載後 送客/PV<span class="sub">送客率・期間</span></th><th>サイト送客率<span class="sub">群を除く 前→後</span></th><th>正規化比<span class="sub">参考</span></th><th>広告 表示/収益<span class="sub">ad-revenue.json</span></th><th>収益/1,000PV</th><th class="l">安全装置<span class="sub">固定4週ごとの送客</span></th><th class="l">PSI モバイル<span class="sub">掲載前の点数・停止条件</span></th></tr></thead><tbody>';
     for (const a of p.ad) {
       if (a.state === 'not-started') {
         h += '<tr><td class="l">' + art(a.slug) + '</td><td class="l">' + adState[a.state] + (a.hold ? ' <span class="tag hold">凍結〜' + fmtDay(a.hold) + '</span>' : '') + '</td><td colspan="10" class="l small">' + esc(a.note ?? '') + '</td></tr>';
         continue;
       }
       const blocks = a.blocks.map((b) => '<span class="tag ' + (b.complete && b.sends === 0 ? 'noidx' : b.complete ? 'ok' : 'hold') + '" title="' + b.from + '〜' + b.to + '">#' + b.n + ' ' + b.sends + (b.complete ? '' : '…') + '</span>').join('') || '<span class="na">—</span>';
-      const psi = a.psi ? num(a.psi.baseline, 1) + ' / ' + a.psi.stopLine + '<div class="small">' + esc((a.psi.runs ?? []).join('・')) + '（' + esc(a.psi.measuredAt ?? '') + '）</div>' : '<span class="na">—</span>';
+      const psi = a.psi ? num(a.psi.baseline, 1) + ' / ' + esc(a.psi.stopRule ?? String(a.psi.stopLine ?? '—')) + '<div class="small">' + esc((a.psi.runs ?? []).join('・')) + '（' + esc(a.psi.measuredAt ?? '') + '）</div>' : '<span class="na">—</span>';
       const adsTxt = a.ads.lastRevenueDate ? num(a.ads.impressions) + ' / ¥' + num(a.ads.revenue) + '<div class="small">記入 〜' + a.ads.lastRevenueDate.slice(5) + '</div>' : '<span class="na">未記入</span>';
       h += '<tr><td class="l">' + art(a.slug) + '</td>'
         + '<td class="l">' + adState[a.state] + (a.endReason ? ' <span class="small">' + esc(a.end + ' ' + a.endReason) + '</span>' : '') + (a.note ? '<div class="small">' + esc(a.note) + '</div>' : '') + '</td>'
