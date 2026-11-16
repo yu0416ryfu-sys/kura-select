@@ -4,7 +4,7 @@ description: "使い捨て手袋を1枚あたりのコストで徹底比較。�
 category: "disposable-gloves"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 products:
   - rank: 1
     name: "PVC手袋 粉なし 2000枚（100枚×20箱）"
@@ -178,7 +178,7 @@ products:
   - rank: 6
     name: "ニトリル手袋 パウダーフリー 1000枚"
     brand: "明成"
-    price: 650
+    price: 9500
     capacity: "1000枚"
     rating: 4.75
     reviewCount: 415
@@ -248,8 +248,8 @@ products:
     brand: "TKJP"
     price: 890
     capacity: "100枚"
-    rating: 4.57
-    reviewCount: 3851
+    rating: 4.58
+    reviewCount: 3855
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -272,7 +272,7 @@ products:
     price: 890
     capacity: "100枚"
     rating: 4.7
-    reviewCount: 1586
+    reviewCount: 1592
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"

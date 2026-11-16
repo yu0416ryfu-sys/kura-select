@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バスク�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 products:
   - rank: 1
     name: "入浴剤 バラエティ詰め合わせ 100個セット"
@@ -221,7 +221,7 @@ products:
     price: 2300
     capacity: "750g（30回分）"
     rating: 4.68
-    reviewCount: 7173
+    reviewCount: 7174
     features:
       - "水素化ホウ素Na・炭酸水素Naなどを配合した水素入浴料"
       - "無香料の国産品で、商品区分は化粧品"
@@ -236,7 +236,7 @@ products:
       - "機種によっては使えない場合があり、給湯器の説明書の確認が必要"
     recommendedFor: "無香料の粉末タイプを試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00szo9n.3rdw677a.g00szo9n.3rdw7c42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuisosum-shop%2Fhakusui%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuisosum-shop%2Fi%2F10000001%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suisosum-shop/cabinet/h_/pc_01/750g/hakusui_sa_46.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suisosum-shop/cabinet/h_/pc_01/750g/imgrc0126319185.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

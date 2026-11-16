@@ -4,7 +4,7 @@ description: "ボディソープを1mLあたりのコストで比較。hadakara�
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 products:
   - rank: 1
     name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
@@ -43,7 +43,7 @@ products:
   - rank: 2
     name: "キュレル ボディウォッシュ ポンプ 420mL"
     brand: "花王（キュレル）"
-    price: 767
+    price: 768
     capacity: "420mL"
     pricePerUnit: "約1.8円/mL"
     rating: 4.62

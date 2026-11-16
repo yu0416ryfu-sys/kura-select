@@ -4,7 +4,7 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 draft: false
 products:
   - rank: 1
@@ -175,7 +175,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4901609015456"
         available: true
-    priceMax: 9999
+    priceMax: 1979
     genreId: "215999"
 tags:
   - "流せるトイレブラシ おすすめ"

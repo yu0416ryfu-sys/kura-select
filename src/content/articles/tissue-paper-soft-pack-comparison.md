@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 draft: false
 products:
   - rank: 1
@@ -208,7 +208,7 @@ products:
   - rank: 8
     name: "フルール ソフトパックティッシュ 200組×80個"
     brand: "フルール"
-    price: 1600
+    price: 5980
     capacity: "200組×80個"
     rating: 4.66
     reviewCount: 1313

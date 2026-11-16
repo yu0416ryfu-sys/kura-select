@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -125,7 +125,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3282
+    reviewCount: 3283
     features:
       - "クレンジング兼洗顔の1本（W洗顔不要の表示・日本製・化粧品）"
       - "ポンプ式で1プッシュ約3mL、メイクを落とすときは2〜3プッシュ"
@@ -288,7 +288,7 @@ products:
     price: 4378
     capacity: "100mL"
     rating: 4.57
-    reviewCount: 1707
+    reviewCount: 1709
     features:
       - "乳酸桿菌／豆乳発酵液などを配合したオイルタイプ（日本製・化粧品）"
       - "W洗顔不要・マツエクOKの表示"

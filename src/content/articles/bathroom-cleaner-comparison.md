@@ -4,7 +4,7 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -77,9 +77,9 @@ products:
   - rank: 3
     name: "バスマジックリン エアジェット 除菌EX ハーバルクリアの香り つめかえ用"
     brand: "花王（バスマジックリン）"
-    price: 752
+    price: 745
     capacity: "1000mL"
-    pricePerUnit: "約0.75円/mL"
+    pricePerUnit: "約0.74円/mL"
     rating: 4.68
     reviewCount: 22
     features:

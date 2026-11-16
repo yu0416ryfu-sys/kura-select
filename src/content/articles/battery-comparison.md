@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 draft: false
 products:
   - rank: 1
@@ -82,7 +82,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約64円/本"
     rating: 4.66
-    reviewCount: 1248
+    reviewCount: 1249
     features:
       - "10年長期保存対応のパナソニック製アルカリ電池"
       - "1パック4本×5パック構成で使いやすい量を分割して管理できる"
@@ -282,10 +282,10 @@ products:
   - rank: 9
     name: "BIGCAPA basic アルカリ乾電池 選べる40本セット"
     brand: "BIGCAPA"
-    price: 800
+    price: 1000
     capacity: "40本"
     rating: 4.63
-    reviewCount: 1199
+    reviewCount: 1202
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"

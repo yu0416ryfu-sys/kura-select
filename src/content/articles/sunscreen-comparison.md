@@ -4,7 +4,7 @@ description: "日焼け止めを1mLあたりのコストで徹底比較。ビオ
 category: "sunscreen"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 products:
   - rank: 1
     name: "ロート製薬 スキンアクア スーパーモイスチャージェル ポンプ SPF50+ PA"
@@ -143,6 +143,40 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ohgiri-store_allie7667"
         available: true
   - rank: 5
+    name: "ラブミータッチ シルキーUVミルク 50g"
+    brand: "ラブミータッチ"
+    price: 3499
+    capacity: "50g"
+    rating: 4.84
+    reviewCount: 4008
+    features:
+      - "楽天市場で取り扱いのある追加候補"
+      - "日用品として使いやすい定番タイプ"
+      - "既存比較にない選択肢を補える構成"
+    pros:
+      - "まとめ買い候補として比較しやすい"
+      - "用途や好みに合わせて選びやすい"
+      - "既存商品と価格帯を比べやすい"
+    cons:
+      - "サイズや仕様は購入前に確認が必要"
+      - "ショップにより在庫や配送条件が変わる"
+    recommendedFor: "既存候補以外も比較して選びたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugd0n.3rdw6460.g00ugd0n.3rdw79b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthe-beautopia%2F20094-025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthe-beautopia%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/the-beautopia/cabinet/item/lovme/silky_uv/imgrc0127171164.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmedlf%2F20094-025.html"
+        matchStatus: "matched"
+        updatedAt: "2026-11-14"
+        price: 3499
+        rating: 4.75
+        reviewCount: 16
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/medlf_20094-025"
+        available: true
+    genreId: "503054"
+    pricePerUnit: "約70円/g"
+  - rank: 6
     name: "レステモ 美白BBクリーム"
     brand: "レステモ"
     price: 2560
@@ -176,7 +210,7 @@ products:
         rating: 4.27
         reviewCount: 150
     genreId: "567445"
-  - rank: 6
+  - rank: 7
     name: "ラロッシュポゼ UVイデアXL"
     brand: "ラロッシュポゼ"
     price: 4070
@@ -199,7 +233,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qi2mn.3rdw6aae.g00qi2mn.3rdw7998/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpycno%2Frarossyu35%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpycno%2Fi%2F10000752%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pycno/cabinet/lrp/idea_hqs.jpg?_ex=128x128"
     genreId: "503054"
-  - rank: 7
+  - rank: 8
     name: "ラロッシュポゼ UVイデアXL BB"
     brand: "ラロッシュポゼ"
     price: 4070
@@ -222,7 +256,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn2mn.3rdw6125.g00qn2mn.3rdw7702/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsangakushop%2Frarossyu-bb-kit%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsangakushop%2Fi%2F10000726%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sangakushop/cabinet/lrp/rarossyu-bb-kit_hqs2.jpg?_ex=128x128"
     genreId: "216307"
-  - rank: 8
+  - rank: 9
     name: "ラロッシュポゼ UVイデアXL 色なし"
     brand: "ラロッシュポゼ"
     price: 4070
@@ -245,7 +279,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qn2mn.3rdw6125.g00qn2mn.3rdw7702/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsangakushop%2Frarossyu35%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsangakushop%2Fi%2F10000773%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sangakushop/cabinet/lrp/03044hqs_p01.jpg?_ex=128x128"
     genreId: "503054"
-  - rank: 9
+  - rank: 10
     name: "レステモ ノンケミカル UVミルク"
     brand: "レステモ"
     price: 2580
@@ -267,40 +301,6 @@ products:
     recommendedFor: "紫外線吸収剤を避けたい方・家族で共用したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qdaen.3rdw686c.g00qdaen.3rdw7002/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flesthemo%2Fuv50g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flesthemo%2Fi%2F10000061%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lesthemo/cabinet/shg/uvmilk_01_01_3500px.jpg?_ex=128x128"
-    genreId: "503054"
-  - rank: 10
-    name: "ラブミータッチ シルキーUVミルク 50g"
-    brand: "ラブミータッチ"
-    price: 3499
-    capacity: "50g"
-    rating: 4.84
-    reviewCount: 4007
-    features:
-      - "楽天市場で取り扱いのある追加候補"
-      - "日用品として使いやすい定番タイプ"
-      - "既存比較にない選択肢を補える構成"
-    pros:
-      - "まとめ買い候補として比較しやすい"
-      - "用途や好みに合わせて選びやすい"
-      - "既存商品と価格帯を比べやすい"
-    cons:
-      - "サイズや仕様は購入前に確認が必要"
-      - "ショップにより在庫や配送条件が変わる"
-    recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugd0n.3rdw6460.g00ugd0n.3rdw79b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthe-beautopia%2F20094-025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthe-beautopia%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/the-beautopia/cabinet/item/lovme/silky_uv/imgrc0127171164.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmedlf%2F20094-025.html"
-        matchStatus: "matched"
-        updatedAt: "2026-11-14"
-        price: 3499
-        rating: 4.75
-        reviewCount: 16
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/medlf_20094-025"
-        available: true
-    priceMax: 13629
     genreId: "503054"
 tags:
   - "日焼け止め おすすめ"

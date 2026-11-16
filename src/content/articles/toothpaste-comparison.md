@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 products:
   - rank: 1
     name: "クリニカ アドバンテージ ハミガキ クールミント 130g×3本"
@@ -226,7 +226,7 @@ products:
       - "おまけが入っていなかったという声が店のレビューにある"
     recommendedFor: "フッ素ではなく薬用ハイドロキシアパタイトの歯磨き粉を選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F84449%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10005817%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/13453622/df8853_sam2.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1115_100b/kirikae2/df8853_sam2.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -269,7 +269,7 @@ products:
     price: 2580
     capacity: "120g"
     rating: 4.48
-    reviewCount: 2433
+    reviewCount: 2434
     features:
       - "モノフルオロリン酸ナトリウムなど3つの有効成分を配合した薬用歯磨き（医薬部外品）"
       - "炭酸カルシウムと無水ケイ酸を清掃剤に使う、やや硬めのペースト"
@@ -309,7 +309,7 @@ products:
     recommendedFor: "泡立たないジェルで歯ぐきと着色の手入れを考えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rx8qn.3rdw6a27.g00rx8qn.3rdw73bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshizenshop%2Fshiroewhitening%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshizenshop%2Fi%2F10000095%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shizenshop/cabinet/04836660/shiroe_260525.jpg?_ex=128x128"
-    priceMax: 10300
+    priceMax: 3700
     genreId: "204759"
 tags:
   - "歯磨き粉"

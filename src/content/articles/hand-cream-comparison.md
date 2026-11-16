@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 products:
   - rank: 1
     name: "ユースキン ハンドクリーム つけかえパウチ 180g"
@@ -81,7 +81,7 @@ products:
     capacity: "35g"
     pricePerUnit: "約19円/g"
     rating: 4.51
-    reviewCount: 429
+    reviewCount: 430
     features:
       - "成分表示はシア脂のみの精製シアバター"
       - "無香料を含む複数の香りから選べる"
@@ -105,7 +105,7 @@ products:
     capacity: "80g"
     pricePerUnit: "約31円/g"
     rating: 4.61
-    reviewCount: 1985
+    reviewCount: 1986
     features:
       - "80g入りのジャータイプ（商品区分は化粧品）"
       - "無香料で香りが苦手な方も使いやすい"
@@ -210,7 +210,7 @@ products:
       - "精油の香りがあり、仕事中は残り香が気になるという声がある"
     recommendedFor: "オーガニック・自然派コスメを好む方・ギフト用途を検討している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b072wnfzkl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000265%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/allna/top/905b072wnfzkl.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/ts/905b072wnfzkl-20.jpg?_ex=128x128"
     priceMax: 4400
     genreId: "304759"
   - rank: 8

@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ8選を1回�
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 draft: false
 products:
   - rank: 1
@@ -101,10 +101,10 @@ products:
   - rank: 4
     name: "簡易トイレ 半永久保存 非常用トイレセット"
     brand: "RONE_SHOP"
-    price: 1280
+    price: 3680
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7732
+    reviewCount: 7737
     features:
       - "1箱は凝固剤60袋（50袋＋10袋）と黒い汚物袋60枚、防臭袋5枚"
       - "凝固剤1袋で500mlの水が約30秒で固まる表示"
@@ -138,7 +138,7 @@ products:
     price: 2980
     capacity: "120回分（100回＋20回）"
     rating: 4.32
-    reviewCount: 175
+    reviewCount: 176
     features:
       - "1箱は凝固剤（6g入り）50袋＋10袋・汚物袋60枚・防臭袋5枚・ポリ手袋120枚"
       - "15年保存と防災士監修の表示あり"
@@ -239,8 +239,8 @@ products:
     brand: ""
     price: 1580
     capacity: "20回分"
-    rating: 4.51
-    reviewCount: 7312
+    rating: 4.5
+    reviewCount: 7314
     features:
       - "凝固剤（10g入り）20回分・排泄用袋20枚・便座カバー1枚・防臭袋2枚・手袋50枚"
       - "20回分の箱は約19.5×30.5×3.2cmの薄い硬紙箱"

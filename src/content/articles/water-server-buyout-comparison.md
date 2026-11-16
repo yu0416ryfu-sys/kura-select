@@ -4,7 +4,7 @@ description: "卓上浄水ウォーターサーバーのおすすめ3選を、�
 category: "mineral-water"
 publishedAt: "2026-09-30"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 draft: false
 products:
   - rank: 1
@@ -37,7 +37,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約80300円/個"
     rating: 4.48
-    reviewCount: 277
+    reviewCount: 278
     features:
       - "冷水・常温・お湯に加え、中間の温度も選べる操作パネル"
       - "ポット型と共通のマクストラプロ カートリッジを使う"

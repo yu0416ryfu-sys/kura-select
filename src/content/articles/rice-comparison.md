@@ -4,7 +4,7 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 products:
   - rank: 1
     name: "国内産 ブレンド米 白米 10kg（訳あり）"
@@ -59,7 +59,7 @@ products:
     recommendedFor: "産地重視で新潟県産コシヒカリを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q4ksn.3rdw606a.g00q4ksn.3rdw7324/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhseason%2Fmnnk005-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhseason%2Fi%2F10000180%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 4.64
-    reviewCount: 3559
+    reviewCount: 3560
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hseason/cabinet/00208353/04348418/muniigata_10k.jpg?_ex=128x128"
     pricePerUnit: "約550円/kg"
     offers:
@@ -161,7 +161,7 @@ products:
     recommendedFor: "新潟県産コシヒカリを無洗米で使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3eon.3rdw616f.g00q3eon.3rdw7349/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakizawa%2F2019090073%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftakizawa%2Fi%2F10000227%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 4.88
-    reviewCount: 153
+    reviewCount: 154
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/takizawa/cabinet/syouhinn/08533100/musenmai10kgver3.jpg?_ex=128x128"
     pricePerUnit: "約620円/kg"
     offers:
@@ -202,7 +202,7 @@ products:
   - rank: 7
     name: "令和7年 佐渡産コシヒカリ 2kg"
     brand: "食の宝島佐渡"
-    price: 3640
+    price: 4280
     capacity: "2kg"
     features:
       - "佐渡産コシヒカリの2kg商品"
@@ -231,7 +231,7 @@ products:
         available: true
         rating: 0
         reviewCount: 0
-    priceMax: 21160
+    priceMax: 8480
     genreId: "201184"
   - rank: 8
     name: "秋田県産 あきたこまち 18kg〜20kg"
@@ -239,7 +239,7 @@ products:
     price: 9980
     capacity: "18kg〜20kg"
     rating: 4.74
-    reviewCount: 45857
+    reviewCount: 45859
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

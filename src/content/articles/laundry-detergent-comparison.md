@@ -4,7 +4,7 @@ description: "洗濯洗剤は液体・粉末・ジェルボールのどれがコ
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -104,7 +104,7 @@ products:
     capacity: "2300g"
     pricePerUnit: "約1.0円/g"
     rating: 4.79
-    reviewCount: 33
+    reviewCount: 34
     features:
       - "濃縮タイプの液体洗剤"
       - "部屋干しの臭い対策をうたうシリーズ"

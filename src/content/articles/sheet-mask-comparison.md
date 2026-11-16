@@ -4,7 +4,7 @@ description: "毎日使える大容量シートマスクのおすすめ8選を1�
 category: "sheet-mask"
 publishedAt: "2026-11-02"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 draft: false
 products:
   - rank: 1
@@ -60,7 +60,7 @@ products:
     capacity: "40枚"
     pricePerUnit: "約25円/枚"
     rating: 4.51
-    reviewCount: 269
+    reviewCount: 270
     features:
       - "国産の100%コットンシートと表示"
       - "無香料・無着色・無鉱物油と表示。全成分にエタノールを含む"
@@ -175,7 +175,7 @@ products:
     capacity: "21枚×2袋（42枚）"
     pricePerUnit: "約99円/枚"
     rating: 4.54
-    reviewCount: 8515
+    reviewCount: 8516
     features:
       - "5種のヒト型セラミドなど12種の美容成分を配合と表示"
       - "香料・パラベン・アルコールなど7つを使わない処方と表示"

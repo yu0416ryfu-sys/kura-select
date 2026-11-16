@@ -4,7 +4,7 @@ description: "手拭き用ペーパータオルのおすすめ10選を、1枚（
 category: "kitchen-paper"
 publishedAt: "2026-10-14"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-15"
 draft: false
 products:
   - rank: 1
@@ -105,7 +105,7 @@ products:
     capacity: "200枚×30パック"
     pricePerUnit: "約0.74円/枚"
     rating: 4.7
-    reviewCount: 254
+    reviewCount: 255
     features:
       - "中判（レギュラーサイズ）の1枚もの・ハードタイプ"
       - "エンボス加工つき"
