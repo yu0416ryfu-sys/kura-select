@@ -5,5 +5,246 @@
     "spotId は data/ad-placements.json の placements[].slots[].spotId と一致させる（1記事に sp / pc の2行）。revenue は円。同じ date・spotId の行は1つだけ。"
   ],
   "network": "i-mobile",
-  "rows": []
+  "rows": [
+    {
+      "date": "2026-11-06",
+      "spotId": "1951618",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-06",
+      "spotId": "1951620",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-06",
+      "spotId": "1951635",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-06",
+      "spotId": "1951639",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-07",
+      "spotId": "1951618",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-07",
+      "spotId": "1951620",
+      "impressions": 4,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-07",
+      "spotId": "1951635",
+      "impressions": 3,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-07",
+      "spotId": "1951639",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-08",
+      "spotId": "1951618",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-08",
+      "spotId": "1951620",
+      "impressions": 6,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-08",
+      "spotId": "1951635",
+      "impressions": 2,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-08",
+      "spotId": "1951639",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-09",
+      "spotId": "1951618",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-09",
+      "spotId": "1951620",
+      "impressions": 9,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-09",
+      "spotId": "1951635",
+      "impressions": 7,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-09",
+      "spotId": "1951639",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-10",
+      "spotId": "1951618",
+      "impressions": 1,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-10",
+      "spotId": "1951620",
+      "impressions": 7,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-10",
+      "spotId": "1951635",
+      "impressions": 12,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-10",
+      "spotId": "1951639",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-11",
+      "spotId": "1951618",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-11",
+      "spotId": "1951620",
+      "impressions": 8,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-11",
+      "spotId": "1951635",
+      "impressions": 9,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-11",
+      "spotId": "1951639",
+      "impressions": 1,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-12",
+      "spotId": "1951618",
+      "impressions": 5,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-12",
+      "spotId": "1951620",
+      "impressions": 3,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-12",
+      "spotId": "1951635",
+      "impressions": 4,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-12",
+      "spotId": "1951639",
+      "impressions": 2,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-13",
+      "spotId": "1951618",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-13",
+      "spotId": "1951620",
+      "impressions": 11,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-13",
+      "spotId": "1951635",
+      "impressions": 6,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-13",
+      "spotId": "1951639",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-14",
+      "spotId": "1951618",
+      "impressions": 1,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-14",
+      "spotId": "1951620",
+      "impressions": 10,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-14",
+      "spotId": "1951635",
+      "impressions": 11,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-14",
+      "spotId": "1951639",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-15",
+      "spotId": "1951618",
+      "impressions": 0,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-15",
+      "spotId": "1951620",
+      "impressions": 17,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-15",
+      "spotId": "1951635",
+      "impressions": 6,
+      "revenue": 0
+    },
+    {
+      "date": "2026-11-15",
+      "spotId": "1951639",
+      "impressions": 0,
+      "revenue": 0
+    }
+  ]
 }
