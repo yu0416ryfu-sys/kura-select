@@ -5,7 +5,6 @@
 import {
   getLowestOffer,
   getRakutenFallbackOffer,
-  getRakutenRating,
   type OfferProvider,
   type ProductWithOffers,
 } from "./offers";
@@ -19,8 +18,8 @@ export interface JsonLdProduct extends ProductWithOffers {
   recommendedFor: string;
   imageUrl?: string;
   priceMax?: number;
+  /** 入口条件（未定義なら Product を出さない）にだけ使う。JSON-LD には出さない */
   rating?: number;
-  reviewCount?: number;
 }
 
 export interface JsonLdService {
@@ -34,11 +33,20 @@ export interface JsonLdContext {
   jsonLdProviders: readonly OfferProvider[];
 }
 
-/** Product JSON-LD。出力できない商品（rating 未定義・offer なし）は null */
+/**
+ * Product JSON-LD。出力できない商品（rating 未定義・offer なし）は null。
+ *
+ * aggregateRating は出さない（2026-11-18 構造化データ是正 第2段）。楽天の評価は他サイトのレビューで、
+ * Google のレビュー スニペットの指針は他サイトのレビューを自サイトのマークアップに載せることを認めていない。
+ * 他サイトのレビューを aggregateRating で再追加しないこと。
+ */
 export function buildProductJsonLd(
   p: JsonLdProduct,
   ctx: JsonLdContext
 ): Record<string, unknown> | null {
+  // rating 未定義で null を返す入口条件は、aggregateRating を外した後も残す。
+  // 外すと評価のない商品が新たに Product として出て、Product の件数が変わるため（第2段 §0.4）。
+  // 入口条件の見直しは別件。
   if (p.rating === undefined) return null;
 
   // JSON-LD は楽天・Yahoo のみ（Amazon は 24h 鮮度を SSG で保証できないため除外）
@@ -53,7 +61,7 @@ export function buildProductJsonLd(
   }
   if (!jsonLdOffer) return null;
 
-  const ld: Record<string, unknown> = {
+  return {
     "@context": "https://schema.org",
     "@type": "Product",
     name: p.name,
@@ -85,19 +93,6 @@ export function buildProductJsonLd(
             url: jsonLdOffer.url,
           },
   };
-
-  // 楽天評価を出せるときだけキーを付ける（undefined のキーを JSON.stringify で落とす挙動に頼らない）
-  const r = getRakutenRating(p);
-  if (r) {
-    ld.aggregateRating = {
-      "@type": "AggregateRating",
-      ratingValue: r.rating,
-      reviewCount: r.reviewCount,
-      bestRating: 5,
-      worstRating: 1,
-    };
-  }
-  return ld;
 }
 
 /**

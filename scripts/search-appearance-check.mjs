@@ -9,7 +9,8 @@
 //   reports/gsc-appearance/appearance-<start>_<end>.{json,md}
 //
 // 用途: 構造化データ是正（docs/IMPLEMENTATION_PLAN_STRUCTURED_DATA_FIX_2026-10-07.md）の
-// 第1段で商品スニペットが残っているかの監視と、第2段（aggregateRating）の判断材料。
+// 第1段で商品スニペットが残っているかの監視と、第2段（aggregateRating の削除）実施後の記録
+// （docs/IMPLEMENTATION_PLAN_STRUCTURED_DATA_FIX_STAGE2_2026-11-18.md §3。判定には使わない）。
 //
 // API の制約: searchAppearance 次元は他の次元と同じリクエストで併用できない。
 // そのため ①サイト合計 ②見え方別の合計 ③見え方でフィルタした page 次元 の順に取る。

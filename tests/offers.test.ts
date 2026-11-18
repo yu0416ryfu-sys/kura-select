@@ -14,7 +14,6 @@ import {
   buildYahooSearchUrl,
   buildAmazonSearchUrl,
   getAmazonSearchFallbackOffer,
-  getRakutenRating,
   sortOffersByPriceForDisplay,
   PROVIDER_META,
 } from "../src/lib/offers";
@@ -42,25 +41,6 @@ describe("offers helper", () => {
       url: rakutenUrl,
       imageUrl: "https://example.com/image.jpg",
       available: true,
-    });
-  });
-
-  it("returns Rakuten rating only when both rating and reviewCount exist", () => {
-    expect(getRakutenRating({ rating: 4.6, reviewCount: 80 })).toEqual({
-      rating: 4.6,
-      reviewCount: 80,
-    });
-    expect(getRakutenRating({ rating: 4.6 })).toBeNull();
-    expect(getRakutenRating({ reviewCount: 80 })).toBeNull();
-  });
-
-  it("suppresses Rakuten rating when reviewCount is 0 or rating is out of range", () => {
-    expect(getRakutenRating({ rating: 4.6, reviewCount: 0 })).toBeNull();
-    expect(getRakutenRating({ rating: 0, reviewCount: 80 })).toBeNull();
-    expect(getRakutenRating({ rating: 5.5, reviewCount: 80 })).toBeNull();
-    expect(getRakutenRating({ rating: 1, reviewCount: 1 })).toEqual({
-      rating: 1,
-      reviewCount: 1,
     });
   });
 

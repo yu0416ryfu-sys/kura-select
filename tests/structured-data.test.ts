@@ -136,28 +136,12 @@ describe("buildProductJsonLd: 売り手宣言を出さない", () => {
   });
 });
 
-describe("buildProductJsonLd: aggregateRating", () => {
-  it("rating はあるが楽天評価を出せない（reviewCount 0）なら Product は出し、aggregateRating のキーだけ付けない", () => {
-    const ld = buildProductJsonLd(product({ reviewCount: 0 }), ctx);
-    expect(ld).not.toBeNull();
-    expect(Object.keys(ld!)).not.toContain("aggregateRating");
-  });
-
-  it("rating が範囲外ならキーを付けない", () => {
-    const ld = buildProductJsonLd(product({ rating: 0 }), ctx);
-    expect(ld).not.toBeNull();
-    expect(Object.keys(ld!)).not.toContain("aggregateRating");
-  });
-
-  it("楽天評価があれば値を出す", () => {
+describe("buildProductJsonLd: aggregateRating を出さない", () => {
+  it("楽天の評価・件数があっても aggregateRating のキーは無く、Product は出る", () => {
     const ld = buildProductJsonLd(product({ rating: 4.5, reviewCount: 100 }), ctx);
-    expect(ld!.aggregateRating).toEqual({
-      "@type": "AggregateRating",
-      ratingValue: 4.5,
-      reviewCount: 100,
-      bestRating: 5,
-      worstRating: 1,
-    });
+    expect(ld).not.toBeNull();
+    expect(ld!["@type"]).toBe("Product");
+    expect(Object.keys(ld!)).not.toContain("aggregateRating");
   });
 });
 
