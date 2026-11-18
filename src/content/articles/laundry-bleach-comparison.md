@@ -4,7 +4,7 @@ description: "衣料用漂白剤を1回あたりのコストで徹底比較。�
 category: "laundry-detergent"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-18"
 products:
   - rank: 1
     name: "ワイドハイター つめかえ用 720ml"
@@ -33,10 +33,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4901301745910-73-30000846.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
-        price: 220
-        rating: 4.8
-        reviewCount: 15
+        updatedAt: "2026-11-17"
+        price: 228
+        rating: 4.81
+        reviewCount: 16
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/joshin_4901301745910-73-30000846"
         available: true
     genreId: "564510"
@@ -69,8 +69,8 @@ products:
     price: 3960
     capacity: "900ml×6セット（5400ml）"
     pricePerUnit: "約0.73円/ml"
-    rating: 4.64
-    reviewCount: 42
+    rating: 4.65
+    reviewCount: 43
     features:
       - "衣料用の酸素系漂白剤"
       - "液体または粉末タイプの洗濯向け設計"
@@ -90,7 +90,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F574939.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-17"
         price: 3960
         rating: 0
         reviewCount: 0
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4978951060458.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-27"
+        updatedAt: "2026-11-17"
         price: 991
         rating: 0
         reviewCount: 0
@@ -226,10 +226,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F757037000915.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-27"
-        price: 3398
+        updatedAt: "2026-11-17"
+        price: 3298
         rating: 4.9
-        reviewCount: 39
+        reviewCount: 40
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_757037000915"
         available: true
     genreId: "210182"

@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Freonstyle%2F4901301243935.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
-        price: 1400
+        updatedAt: "2026-11-17"
+        price: 1430
         rating: 4.76
-        reviewCount: 49
+        reviewCount: 50
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/reonstyle_4901301243935"
         available: true
     genreId: "204748"
@@ -68,8 +68,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2874540019.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
-        price: 578
+        updatedAt: "2026-11-17"
+        price: 514
         rating: 4.83
         reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2874540019"
@@ -100,13 +100,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos00871.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawarikikaku%2F4-kireikireix1.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
-        price: 2459
-        rating: 4.76
-        reviewCount: 37
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos00871"
+        updatedAt: "2026-11-17"
+        price: 2440
+        rating: 4.83
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/himawarikikaku_4-kireikireix1"
         available: true
     genreId: "304758"
   - rank: 4
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301446404.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-27"
+        updatedAt: "2026-11-17"
         price: 1149
         rating: 0
         reviewCount: 0
@@ -171,7 +171,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3112833/"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 4180
         rating: 4.81
         reviewCount: 73
@@ -205,7 +205,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903301282228.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 481
         rating: 0
         reviewCount: 1
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/2787233/"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 720
         rating: 4.69
         reviewCount: 95

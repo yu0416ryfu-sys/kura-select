@@ -34,8 +34,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4903111176076.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        matchStatus: "matched"
+        updatedAt: "2026-11-17"
         price: 1240
         rating: 4.75
         reviewCount: 4
@@ -70,7 +70,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/un83825/"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-17"
         price: 6300
         rating: 0
         reviewCount: 0
@@ -105,8 +105,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworldglobal%2F20260619202540-00444.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 1638
+        updatedAt: "2026-11-17"
+        price: 1668
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/worldglobal_20260619202540-00444"
@@ -137,13 +137,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-cost-shop%2Fco80348.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgyy-shop%2F80289-pampers-oyasumi-pants-xl-12-17kg-48px2.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 6298
+        updatedAt: "2026-11-17"
+        price: 6380
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-cost-shop_co80348"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/gyy-shop_80289-pampers-oyasumi-pants-xl-12-17kg-48px2"
         available: true
   - rank: 5
     name: "オヤスミマン 男の子 ビッグ以上 夜用"

@@ -4,16 +4,16 @@ description: "お米を1kgあたりの価格で比較。無洗米・コシヒカ
 category: "rice"
 publishedAt: "2026-05-09"
 articleType: "comparison"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-18"
 products:
   - rank: 1
     name: "国内産 ブレンド米 白米 10kg（訳あり）"
     brand: "安齋商店"
-    price: 4080
+    price: 4180
     capacity: "10kg"
-    pricePerUnit: "約408円/kg"
+    pricePerUnit: "約418円/kg"
     rating: 4.39
-    reviewCount: 16101
+    reviewCount: 16102
     features:
       - "国内産の複数原料米（ブレンド米）"
       - "通常の精米（無洗米ではない）"
@@ -239,7 +239,7 @@ products:
     price: 9980
     capacity: "18kg〜20kg"
     rating: 4.74
-    reviewCount: 45859
+    reviewCount: 45860
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

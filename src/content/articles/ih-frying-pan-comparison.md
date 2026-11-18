@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に7製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-18"
 draft: false
 products:
   - rank: 1
@@ -55,13 +55,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco3/item/ua39639/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco3/item/ua39643/"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
-        price: 2443
+        updatedAt: "2026-11-17"
+        price: 2697
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco3_ua39639"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco3_ua39643"
         available: true
     genreId: "215927"
   - rank: 3
@@ -159,10 +159,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F3168430321212.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 5018
-        rating: 4.5
-        reviewCount: 4
+        rating: 4.4
+        reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_3168430321212"
         available: true
     genreId: "215927"
@@ -195,7 +195,7 @@ products:
     price: 1998
     capacity: "1個"
     rating: 4.5
-    reviewCount: 338
+    reviewCount: 339
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -215,7 +215,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/wkj6918/"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 6180
         rating: 0
         reviewCount: 0

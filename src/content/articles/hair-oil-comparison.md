@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-18"
 draft: false
 products:
   - rank: 1
@@ -117,7 +117,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6067551.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-27"
+        updatedAt: "2026-11-17"
         price: 1070
         rating: 0
         reviewCount: 0
@@ -131,7 +131,7 @@ products:
     price: 2959
     capacity: "150mL"
     rating: 4.56
-    reviewCount: 1143
+    reviewCount: 1145
     features:
       - "全成分はゴマ油・サフラワー油・ヒマワリ種子油・ホホバ種子油など植物オイルが中心で、シリコーンの記載はない"
       - "タオルドライ後のアウトバス、乾いた髪の仕上げ、手や体の保湿に使える"
@@ -190,7 +190,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4698
+    reviewCount: 4723
     features:
       - "ブランシュ・シトラスベール・ジャスミンドレなど、複数の香りから選べる"
       - "ヘアのほか、手・爪・体やバスオイルとしても使えるマルチユースオイル"
@@ -241,13 +241,13 @@ products:
       - "本体の容量によっては詰め替え1袋が入りきらないという声がある"
     recommendedFor: "髪が太くまとまりにくい人・しっとりした質感が好みの人・香り付きヘアオイルが苦手な人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pixzn.3rdw6fcd.g00pixzn.3rdw761f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymsk%2F597910%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymsk%2Fi%2F10000461%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymsk/cabinet/itemimg/12091989/597910_1_2603.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymsk/cabinet/itemimg/thumb_logo/597910_1_2603.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6016812.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 2563
         rating: 4.44
         reviewCount: 16
@@ -261,7 +261,7 @@ products:
     price: 3300
     capacity: "50mL"
     rating: 4.59
-    reviewCount: 2554
+    reviewCount: 2555
     features:
       - "タオルドライした髪に使い、乾かしたあとの髪にも重ねづけできるヘアオイル"
       - "1プッシュ0.2ccのポンプで、ボブ〜セミロングは1回3〜4プッシュ、毎日1回で50mLが約60日の目安"

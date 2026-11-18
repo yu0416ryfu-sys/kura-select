@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-18"
 draft: false
 products:
   - rank: 1
@@ -44,9 +44,9 @@ products:
   - rank: 2
     name: "ビオレu お風呂で使ううるおいミルク 無香料 300mL"
     brand: "花王（ビオレu）"
-    price: 655
+    price: 610
     capacity: "300mL"
-    pricePerUnit: "約2.2円/mL"
+    pricePerUnit: "約2.0円/mL"
     rating: 3.75
     reviewCount: 4
     features:
@@ -306,7 +306,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F56770.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 2280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_56770"
         available: true

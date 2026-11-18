@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j303146/"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 4580
         rating: 4.65
         reviewCount: 223
@@ -68,8 +68,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/9634209/"
-        matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        matchStatus: "matched"
+        updatedAt: "2026-11-17"
         price: 2598
         rating: 4.72
         reviewCount: 256
@@ -103,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902720109123.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 4980
         rating: 4.69
         reviewCount: 124
@@ -135,13 +135,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903050509638.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903050509638x2.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
-        price: 4000
-        rating: 4.84
-        reviewCount: 19
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903050509638"
+        updatedAt: "2026-11-17"
+        price: 7900
+        rating: 4.88
+        reviewCount: 32
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903050509638x2"
         available: true
   - rank: 5
     name: "アイクレオ バランスミルク 800g×2缶"
@@ -171,10 +171,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987386071243.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 6480
         rating: 4.81
-        reviewCount: 128
+        reviewCount: 129
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987386071243"
         available: true
   - rank: 6
@@ -205,7 +205,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjoshin%2F4987493000785-73-30000285.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 6580
         rating: 0
         reviewCount: 2
@@ -236,13 +236,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10183592.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkusurinofukutaro%2F10183591.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
-        price: 23698
+        updatedAt: "2026-11-17"
+        price: 6188
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10183592"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kusurinofukutaro_10183591"
         available: true
   - rank: 8
     name: "森永 E赤ちゃん 大缶 800g"

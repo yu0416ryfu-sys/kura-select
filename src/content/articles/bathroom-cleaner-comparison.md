@@ -4,7 +4,7 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-18"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -65,21 +65,21 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/x627331/"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4903301333470.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
-        price: 468
-        rating: 4.67
-        reviewCount: 150
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_x627331"
+        updatedAt: "2026-11-17"
+        price: 544
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4903301333470"
         available: true
     genreId: "216017"
   - rank: 3
     name: "バスマジックリン エアジェット 除菌EX ハーバルクリアの香り つめかえ用"
     brand: "花王（バスマジックリン）"
-    price: 745
+    price: 803
     capacity: "1000mL"
-    pricePerUnit: "約0.74円/mL"
+    pricePerUnit: "約0.80円/mL"
     rating: 4.68
     reviewCount: 22
     features:
@@ -238,8 +238,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkuraorishop1%2F496841d4cedfd259.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        matchStatus: "matched"
+        updatedAt: "2026-11-17"
         price: 4067
         rating: 0
         reviewCount: 0
@@ -272,8 +272,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fprema%2F00701665.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        matchStatus: "matched"
+        updatedAt: "2026-11-17"
         price: 1650
         rating: 0
         reviewCount: 2

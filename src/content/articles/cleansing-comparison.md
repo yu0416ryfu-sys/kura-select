@@ -4,7 +4,7 @@ description: "クレンジングを1mLあたりのコストで徹底比較。DHC
 category: "cleansing"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-18"
 products:
   - rank: 1
     name: "レステモ クレンジングオイル プロサイズ 480mL"
@@ -88,7 +88,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdhc%2F8000023597.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-17"
         price: 2717
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dhc_8000023597"
         available: true
@@ -125,7 +125,7 @@ products:
     capacity: "500mL"
     pricePerUnit: "約32円/mL"
     rating: 4.93
-    reviewCount: 3283
+    reviewCount: 3285
     features:
       - "クレンジング兼洗顔の1本（W洗顔不要の表示・日本製・化粧品）"
       - "ポンプ式で1プッシュ約3mL、メイクを落とすときは2〜3プッシュ"
@@ -146,7 +146,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true
@@ -159,7 +159,7 @@ products:
     price: 2000
     capacity: "200mL"
     rating: 4.46
-    reviewCount: 1188
+    reviewCount: 1189
     features:
       - "大豆油・ヘーゼルナッツ種子油などの植物油を主成分にしたオイルタイプ（化粧品・韓国製）"
       - "公式店の出品で、200mLを2個・4個のセットから選ぶ形式（同じページに洗顔料など別の商品も並ぶ）"
@@ -181,7 +181,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkscojp%2F960120670.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 2380
         rating: 4.46
         reviewCount: 70
@@ -253,7 +253,7 @@ products:
     price: 2300
     capacity: "200mL"
     rating: 4.69
-    reviewCount: 576
+    reviewCount: 577
     features:
       - "ドクダミエキスを配合したオイルタイプ（化粧品・韓国製）"
       - "本体・リフィル・セットから選べる（リフィルは使用期限が1年以上残ったものを発送）"
@@ -288,7 +288,7 @@ products:
     price: 4378
     capacity: "100mL"
     rating: 4.57
-    reviewCount: 1709
+    reviewCount: 1710
     features:
       - "乳酸桿菌／豆乳発酵液などを配合したオイルタイプ（日本製・化粧品）"
       - "W洗顔不要・マツエクOKの表示"

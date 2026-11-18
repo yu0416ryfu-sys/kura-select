@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-18"
 draft: false
 products:
   - rank: 1
@@ -51,29 +51,6 @@ products:
         available: true
     genreId: "100670"
   - rank: 2
-    name: "ネピア ソフトパックティッシュ 200組 5パック×18個"
-    brand: "王子ネピア"
-    price: 6480
-    capacity: "200組×5パック×18個"
-    pricePerUnit: "約0.36円/組"
-    rating: 4.63
-    reviewCount: 8
-    features:
-      - "1パック200組（400枚）の2枚重ね・5パック×18個の90パック"
-      - "シートは よこ174×たて190mm"
-      - "フレッシュパルプ100%・FSC認証紙（メーカーの表示）"
-    pros:
-      - "箱をたたんで捨てる手間がない"
-      - "1パック200組で、150組の商品より入れ替えが少ない"
-      - "90パックをまとめて届けてもらえる"
-    cons:
-      - "シートはこの記事の他社品より小さめ（表示）"
-      - "段ボールが重く、届いた量の置き場所が要る"
-    recommendedFor: "200組のソフトパックを長くまとめてストックしたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7254701%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10195100%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tasya80/b_7253224.jpg?_ex=128x128"
-    genreId: "100670"
-  - rank: 3
     name: "ネピア ソフトパックティッシュ 240組 80パック"
     brand: "王子ネピア"
     price: 7120
@@ -95,12 +72,12 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7258440%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10195102%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tasya80/7258440_s.jpg?_ex=128x128"
     genreId: "100670"
-  - rank: 4
+  - rank: 3
     name: "ネピア ソフトパックティッシュ 240組 80パック（5パック×16個）"
     brand: "王子ネピア"
-    price: 7120
+    price: 7720
     capacity: "240組×80パック"
-    pricePerUnit: "約0.37円/組"
+    pricePerUnit: "約0.40円/組"
     rating: 5
     reviewCount: 1
     features:
@@ -117,13 +94,36 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7258440%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10216545%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya113/7258440.jpg?_ex=128x128"
     genreId: "100670"
+  - rank: 4
+    name: "ネピア ソフトパックティッシュ 200組 5パック×18個"
+    brand: "王子ネピア"
+    price: 5980
+    capacity: "200組×5パック×18個"
+    rating: 4.6
+    reviewCount: 10
+    features:
+      - "1パック200組（400枚）の2枚重ね・5パック×18個の90パック"
+      - "シートは よこ174×たて190mm"
+      - "フレッシュパルプ100%・FSC認証紙（メーカーの表示）"
+    pros:
+      - "箱をたたんで捨てる手間がない"
+      - "1パック200組で、150組の商品より入れ替えが少ない"
+      - "90パックをまとめて届けてもらえる"
+    cons:
+      - "シートはこの記事の他社品より小さめ（表示）"
+      - "段ボールが重く、届いた量の置き場所が要る"
+    recommendedFor: "200組のソフトパックを長くまとめてストックしたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7254701%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10195100%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tooitsuka1/7254701.jpg?_ex=128x128"
+    genreId: "100670"
+    priceMax: 6480
   - rank: 5
     name: "ネピア ソフトパックティッシュ 200組 90個"
     brand: "王子ネピア"
     price: 5980
     capacity: "200組×90個"
     rating: 4.67
-    reviewCount: 45
+    reviewCount: 46
     features:
       - "1パック200組（400枚）の2枚重ね・5パック単位"
       - "同じページで80個と90個を選ぶ出品"
@@ -152,7 +152,7 @@ products:
   - rank: 6
     name: "ネピア ソフトパックティッシュ 200組 80パック"
     brand: "王子ネピア"
-    price: 5820
+    price: 5980
     capacity: "200組×80パック"
     rating: 5
     reviewCount: 1
@@ -169,16 +169,16 @@ products:
       - "シートはこの記事の他社品より小さめ（表示）"
     recommendedFor: "200組のソフトパックを80個でまとめて買いたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qxfgn.3rdw6456.g00qxfgn.3rdw7878/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetanmin%2F7254701%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetanmin%2Fi%2F10091285%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetanmin/cabinet/anminshohin/7254701.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetanmin/cabinet/tooitsuka1/7254701.jpg?_ex=128x128"
     priceMax: 6480
     genreId: "100670"
   - rank: 7
     name: "Smart Yell ソフトパックティッシュ 150組×50個"
     brand: "スマートエール"
-    price: 3050
+    price: 2640
     capacity: "150組×50個（7500組）"
     rating: 4.57
-    reviewCount: 870
+    reviewCount: 873
     features:
       - "スマートエールのソフトパック・1パック150組（300枚）"
       - "5パック×10個の50パック（同じページで90個も選べる）"
@@ -203,7 +203,7 @@ products:
         matchedCapacity: "150組 5P×5セット（25個）"
         matchNotes: "入数違い採用（楽天は150組×50個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
-    priceMax: 4980
+    priceMax: 4301
     genreId: "100670"
   - rank: 8
     name: "フルール ソフトパックティッシュ 200組×80個"
@@ -211,7 +211,7 @@ products:
     price: 5980
     capacity: "200組×80個"
     rating: 4.66
-    reviewCount: 1313
+    reviewCount: 1312
     features:
       - "1パック200組（400枚）・5個×16パックの80個"
       - "シートは189×195mmで、この記事の中では大きめ"

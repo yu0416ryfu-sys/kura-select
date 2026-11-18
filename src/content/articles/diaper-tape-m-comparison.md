@@ -4,37 +4,14 @@ description: "Mサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-18"
 products:
   - rank: 1
-    name: "メリーズファストプレミアム テープ Mサイズ"
-    brand: "花王（メリーズ）"
-    price: 7280
-    capacity: "192枚（48枚×4袋・Mサイズ・6〜11kg）"
-    pricePerUnit: "約38円/枚"
-    rating: 4.48
-    reviewCount: 48
-    features:
-      - "ファストプレミアムテクノロジーで素早い吸収"
-      - "弾力素材で活動的な動きに対応"
-      - "48枚×4袋の梱販売で毎日の在庫を確保しやすい"
-    pros:
-      - "4袋セットで約1週間分を一度に確保できて便利"
-      - "高い吸収速度で動きが活発になったMサイズ時期に適応"
-      - "メリーズファストプレミアムラインの定番セット"
-    cons:
-      - "4袋セットのため初期購入の負担が大きい"
-      - "個別枚数での柔軟な購入ができない"
-    recommendedFor: "Mサイズで吸収速度を重視したい方・まとめ買いが可能な家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7195766%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10190454%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tenposupport06/12820999/imgrc0130809075.jpg?_ex=128x128"
-    genreId: "205198"
-  - rank: 2
     name: "ムーニー 低刺激であんしん テープ Mサイズ"
     brand: "ユニ・チャーム（ムーニー）"
-    price: 1840
+    price: 1655
     capacity: "46枚"
-    pricePerUnit: "約40円/枚"
+    pricePerUnit: "約36円/枚"
     rating: 4.5
     reviewCount: 4
     features:
@@ -63,6 +40,29 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2871709013"
         available: true
+  - rank: 2
+    name: "メリーズファストプレミアム テープ Mサイズ"
+    brand: "花王（メリーズ）"
+    price: 7280
+    capacity: "192枚（48枚×4袋・Mサイズ・6〜11kg）"
+    pricePerUnit: "約38円/枚"
+    rating: 4.48
+    reviewCount: 48
+    features:
+      - "ファストプレミアムテクノロジーで素早い吸収"
+      - "弾力素材で活動的な動きに対応"
+      - "48枚×4袋の梱販売で毎日の在庫を確保しやすい"
+    pros:
+      - "4袋セットで約1週間分を一度に確保できて便利"
+      - "高い吸収速度で動きが活発になったMサイズ時期に適応"
+      - "メリーズファストプレミアムラインの定番セット"
+    cons:
+      - "4袋セットのため初期購入の負担が大きい"
+      - "個別枚数での柔軟な購入ができない"
+    recommendedFor: "Mサイズで吸収速度を重視したい方・まとめ買いが可能な家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7195766%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10190454%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tenposupport06/12820999/imgrc0130809075.jpg?_ex=128x128"
+    genreId: "205198"
   - rank: 3
     name: "メリーズ エアスルー テープ Mサイズ"
     brand: "花王（メリーズ）"

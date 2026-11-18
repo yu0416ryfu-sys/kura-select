@@ -4,7 +4,7 @@ description: "リップクリームのおすすめ10選を、薬用（医薬部�
 category: "lip-balm"
 publishedAt: "2026-11-12"
 articleType: "comparison"
-updatedAt: "2026-11-12"
+updatedAt: "2026-11-18"
 draft: false
 products:
   - rank: 1
@@ -173,7 +173,7 @@ products:
     capacity: "4g"
     pricePerUnit: "約303円/g"
     rating: 4.67
-    reviewCount: 179
+    reviewCount: 180
     features:
       - "医薬部外品。有効成分は酢酸DL-α-トコフェロール・グリチルレチン酸ステアリル"
       - "アベンヌ温泉水（整肌成分）・ミツロウ・シア脂・植物性スクワランを配合"
@@ -264,7 +264,7 @@ products:
     capacity: "1.9g"
     pricePerUnit: "約521円/g"
     rating: 4.7
-    reviewCount: 388
+    reviewCount: 389
     features:
       - "化粧品。無色・無香料のスティック"
       - "防腐剤・合成香料・合成色素・石油系界面活性剤・紫外線吸収剤を使っていないと表示"

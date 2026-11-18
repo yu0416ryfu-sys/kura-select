@@ -4,7 +4,7 @@ description: "毎日使える大容量シートマスクのおすすめ8選を1�
 category: "sheet-mask"
 publishedAt: "2026-11-02"
 articleType: "comparison"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-18"
 draft: false
 products:
   - rank: 1
@@ -53,6 +53,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fa003223385594%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10130526%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/884/4971710382884.jpg?_ex=128x128"
     genreId: "503020"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/9824670/"
+        matchStatus: "pending"
+        updatedAt: "2026-11-18"
+        price: 980
+        rating: 4.39
+        reviewCount: 551
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_9824670"
+        available: true
   - rank: 3
     name: "Premium Resbro 5GF Smooth Face Mask 40枚"
     brand: "SPC"
@@ -76,6 +87,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u2e3n.3rdw6d78.g00u2e3n.3rdw71a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurabeautylab%2Fspc_00008_04_01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurabeautylab%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurabeautylab/cabinet/08666114/resbro.jpg?_ex=128x128"
     genreId: "503020"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbijinsyokunin%2F5gf-40-mail.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-18"
+        price: 1160
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/bijinsyokunin_5gf-40-mail"
+        available: true
   - rank: 4
     name: "クリアターン 超濃厚保湿マスク EX 40枚入"
     brand: "コーセーコスメポート"
@@ -99,6 +121,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe471987h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10569106%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/926/4971710387926.jpg?_ex=128x128"
     genreId: "503020"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3432411/"
+        matchStatus: "pending"
+        updatedAt: "2026-11-18"
+        price: 898
+        rating: 4.44
+        reviewCount: 437
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_3432411"
+        available: true
   - rank: 5
     name: "エビス ウルオイート モイスチャーフェイスマスクN 108枚"
     brand: "エビス化粧品"
@@ -175,7 +208,7 @@ products:
     capacity: "21枚×2袋（42枚）"
     pricePerUnit: "約99円/枚"
     rating: 4.54
-    reviewCount: 8516
+    reviewCount: 8517
     features:
       - "5種のヒト型セラミドなど12種の美容成分を配合と表示"
       - "香料・パラベン・アルコールなど7つを使わない処方と表示"
@@ -191,6 +224,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po0zn.3rdw627e.g00po0zn.3rdw7621/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fpdm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10005100%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/plus04/3gfmask02-2_01.jpg?_ex=128x128"
     genreId: "503020"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fluire%2Fpxed12.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-18"
+        price: 4160
+        rating: 4.61
+        reviewCount: 173
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/luire_pxed12"
+        available: true
 tags:
   - "シートマスク おすすめ"
   - "シートマスク 大容量"

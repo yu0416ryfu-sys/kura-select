@@ -4,7 +4,7 @@ description: "アイムス・ニュートロ・国産無添加など人気ドラ
 category: "dog-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-18"
 draft: false
 products:
   - rank: 1
@@ -35,12 +35,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos01590.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-05"
-        price: 6169
+        updatedAt: "2026-11-17"
+        price: 5690
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tokimekiya777_cos01590"
         available: true
-        rating: 4.53
-        reviewCount: 38
+        rating: 4.55
+        reviewCount: 40
     genreId: "565715"
   - rank: 2
     name: "アイムス 成犬用 体重管理 チキン 5kg"
@@ -70,7 +70,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkohnan-eshop%2F0019014614196.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-11-17"
         price: 4378
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kohnan-eshop_0019014614196"
         available: true
@@ -132,13 +132,13 @@ products:
       - "6個セットのため保管スペースが必要になる"
     recommendedFor: "室内で暮らす小型犬を長く飼っている方・開封後の鮮度を優先したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pyyln.3rdw6e5d.g00pyyln.3rdw7543/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkoji%2F3182550746076-s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkoji%2Fi%2F10048489%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/koji/cabinet/1115/folder1/3182550746076-s.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/koji/cabinet/1118/folder1/3182550746076-s.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkoji%2F3182550746076-s.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 17226
         rating: 0
         reviewCount: 1
@@ -171,12 +171,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2F1096dog%2F50663.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 5140
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/1096dog_50663"
         available: true
-        rating: 4.59
-        reviewCount: 17
+        rating: 4.61
+        reviewCount: 18
     genreId: "565715"
     pricePerUnit: "約1689円/kg"
   - rank: 6
@@ -206,10 +206,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdogparadise-2%2F0813369001904.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 5830
-        rating: 4.74
-        reviewCount: 103
+        rating: 4.7
+        reviewCount: 105
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/dogparadise-2_0813369001904"
         available: true
     genreId: "565715"
@@ -241,7 +241,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F259137.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 9534
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_259137"
         available: true
@@ -274,7 +274,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjohn-coco%2Fnhd0100260-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 3080
         rating: 4.79
         reviewCount: 24
@@ -288,7 +288,7 @@ products:
     price: 3000
     capacity: "1kg"
     rating: 4.72
-    reviewCount: 2583
+    reviewCount: 2585
     features:
       - "国産の総合栄養食で、注文を受けてから製造し工場から届ける"
       - "防腐剤や抗酸化剤などの化学的な添加物は使っていないと販売ページに書かれている（ビタミン・ミネラルは補充）"
@@ -309,7 +309,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetnext%2Fg3600a.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-17"
         price: 3000
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petnext_g3600a"
         available: true

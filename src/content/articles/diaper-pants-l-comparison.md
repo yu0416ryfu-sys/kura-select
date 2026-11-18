@@ -4,7 +4,7 @@ description: "パンツ型おむつのLサイズおすすめ7選を1枚あたり
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-18"
 draft: false
 products:
   - rank: 1
@@ -68,8 +68,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443519-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
-        price: 13423
+        updatedAt: "2026-11-17"
+        price: 12498
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/try3_4901301443519-2"
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111127986x4.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-17"
         price: 7720
         rating: 0
         reviewCount: 2
@@ -178,6 +178,40 @@ products:
         available: true
     genreId: "205198"
   - rank: 6
+    name: "ナチュラルムーニーマン パンツ Lサイズ"
+    brand: "ナチュラルムーニー（ユニ・チャーム）"
+    price: 6947
+    capacity: "36枚×4個（9kg〜14kg）"
+    pricePerUnit: "約48円/枚"
+    rating: 4.65
+    reviewCount: 55
+    features:
+      - "オーガニックコットンを表面シートに使うライン"
+      - "低刺激設計をうたうナチュラル系"
+      - "まとめ買いセット"
+    pros:
+      - "肌の弱い子に選びやすい素材"
+      - "素材にこだわりたい家庭の常用候補になる"
+      - "まとめ買いで買い足しの頻度が下がる"
+    cons:
+      - "標準ラインより価格帯がかなり高い"
+      - "取り扱い店舗が限られる"
+    recommendedFor: "素材にこだわってLサイズのパンツ型を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4903111243099x4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10054907%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202603_4/4903111243099.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111243099x4.html"
+        matchStatus: "matched"
+        updatedAt: "2026-11-17"
+        price: 7720
+        rating: 4.83
+        reviewCount: 126
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111243099x4"
+        available: true
+    genreId: "205198"
+  - rank: 7
     name: "メリーズ パンツ ファーストプレミアム Lサイズ"
     brand: "花王（メリーズ）"
     price: 1807
@@ -209,40 +243,6 @@ products:
         rating: 5
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901301396556"
-        available: true
-    genreId: "205198"
-  - rank: 7
-    name: "ナチュラルムーニーマン パンツ Lサイズ"
-    brand: "ナチュラルムーニー（ユニ・チャーム）"
-    price: 7720
-    capacity: "36枚×4個（9kg〜14kg）"
-    pricePerUnit: "約54円/枚"
-    rating: 4.65
-    reviewCount: 55
-    features:
-      - "オーガニックコットンを表面シートに使うライン"
-      - "低刺激設計をうたうナチュラル系"
-      - "まとめ買いセット"
-    pros:
-      - "肌の弱い子に選びやすい素材"
-      - "素材にこだわりたい家庭の常用候補になる"
-      - "まとめ買いで買い足しの頻度が下がる"
-    cons:
-      - "標準ラインより価格帯がかなり高い"
-      - "取り扱い店舗が限られる"
-    recommendedFor: "素材にこだわってLサイズのパンツ型を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4903111243099x4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10054907%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/202603_4/4903111243099.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111243099x4.html"
-        matchStatus: "matched"
-        updatedAt: "2026-11-14"
-        price: 7720
-        rating: 4.83
-        reviewCount: 126
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111243099x4"
         available: true
     genreId: "205198"
 tags:

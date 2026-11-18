@@ -4,7 +4,7 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-18"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "60本×3個"
     pricePerUnit: "約7.5円/本"
     rating: 4.79
-    reviewCount: 98
+    reviewCount: 99
     features:
       - "金属ワイヤーを使わないゴム（ラバー）タイプで、ブラシはエラストマー"
       - "SSS-S（極細）と SS-M（細い）から選び、組み合わせでも注文できる"
@@ -62,7 +62,7 @@ products:
       - "軸が折れやすい・先が曲がるという声がある"
     recommendedFor: "ゴムの歯間ブラシを本数の多いパックで試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F107212%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10011378%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1115_100b/kirikae1/107212_sam2.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1119_p10/kirikae1/107212_sam2.jpg?_ex=128x128"
     genreId: "204758"
     offers:
       - provider: "yahoo"
@@ -206,8 +206,8 @@ products:
     price: 1980
     capacity: "10本×4セット"
     pricePerUnit: "約50円/本"
-    rating: 4.65
-    reviewCount: 23
+    rating: 4.67
+    reviewCount: 24
     features:
       - "L字型で、SSSS〜L の6サイズから1つ選べる"
       - "ステンレスのワイヤーにナイロンの毛。毛に抗菌剤（クロルヘキシジン）"
@@ -229,8 +229,8 @@ products:
     price: 1800
     capacity: "4本×4個"
     pricePerUnit: "約113円/本"
-    rating: 4.87
-    reviewCount: 95
+    rating: 4.88
+    reviewCount: 96
     features:
       - "L字型（110°のアングル・85mm のホルダー）"
       - "「超合金SAワイヤー」を採用し、4S〜LL から選べる"
