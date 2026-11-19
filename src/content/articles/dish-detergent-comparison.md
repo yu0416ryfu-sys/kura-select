@@ -4,7 +4,7 @@ description: "食器用洗剤を1mLあたりの単価で徹底比較。ジョイ
 category: "dish-detergent"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 products:
   - rank: 1
     name: "ライオン チャーミーグリーン 業務用 詰め替え 4L コック付き"
@@ -293,9 +293,9 @@ products:
   - rank: 10
     name: "IVORY ウルトラアイボリー 食器用洗剤 クラシック 709mL"
     brand: "IVORY"
-    price: 1095
+    price: 1780
     capacity: "709mL"
-    pricePerUnit: "約1.5円/mL"
+    pricePerUnit: "約2.5円/mL"
     rating: 5
     reviewCount: 1
     features:
@@ -310,8 +310,8 @@ products:
       - "香りの好みが分かれやすい"
       - "国内定番品と比べて詰め替え運用しにくい"
     recommendedFor: "海外ブランドの食器用洗剤を使ってみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sargn.3rdw6a7b.g00sargn.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyrepi-2%2F0037000255741%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmyrepi-2%2Fi%2F10123997%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/myrepi-2/cabinet/2023b/0037000255741.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2hqn.3rdw6518.g00r2hqn.3rdw7197/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finterior-palette%2F0037000255741%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finterior-palette%2Fi%2F10020984%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/interior-palette/cabinet/maker_kep1/0037000255741.jpg?_ex=128x128"
     genreId: "216012"
     offers:
       - provider: "yahoo"

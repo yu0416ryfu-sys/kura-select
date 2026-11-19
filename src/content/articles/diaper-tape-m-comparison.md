@@ -4,9 +4,43 @@ description: "Mサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 products:
   - rank: 1
+    name: "メリーズ エアスルー テープ Mサイズ 52枚"
+    brand: "花王（メリーズ）"
+    price: 1487
+    capacity: "52枚"
+    pricePerUnit: "約29円/枚"
+    rating: 5
+    reviewCount: 1
+    features:
+      - "通気性を重視したエアスルー設計のテープタイプ"
+      - "Mサイズ（6〜11kg）対応のテープ型"
+      - "楽天24ベビー館の単一規格ページ"
+    pros:
+      - "蒸れやすい時期でも快適さを重視して選べる"
+      - "1パック単位で買えるので試しやすい"
+      - "メリーズの定番ラインとして合わせやすい"
+    cons:
+      - "ファストプレミアムとは設計の方向性が異なる"
+      - "大容量セットでのまとめ買いには向かない"
+    recommendedFor: "通気性を重視してMサイズのメリーズを試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqszn.3rdw6b20.g00rqszn.3rdw7361/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4901301437716%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsukiyo%2Fi%2F10547481%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0092/4901301437716_1.jpg?_ex=128x128"
+    genreId: "205198"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2875571012.html"
+        matchStatus: "matched"
+        updatedAt: "2026-11-14"
+        price: 8712
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2875571012"
+        available: true
+  - rank: 2
     name: "ムーニー 低刺激であんしん テープ Mサイズ"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1655
@@ -40,7 +74,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2871709013"
         available: true
-  - rank: 2
+  - rank: 3
     name: "メリーズファストプレミアム テープ Mサイズ"
     brand: "花王（メリーズ）"
     price: 7280
@@ -63,40 +97,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7195766%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10190454%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tenposupport06/12820999/imgrc0130809075.jpg?_ex=128x128"
     genreId: "205198"
-  - rank: 3
-    name: "メリーズ エアスルー テープ Mサイズ"
-    brand: "花王（メリーズ）"
-    price: 2297
-    capacity: "52枚"
-    pricePerUnit: "約44円/枚"
-    rating: 0
-    reviewCount: 0
-    features:
-      - "通気性を重視したエアスルー設計のテープタイプ"
-      - "Mサイズ（6〜11kg）対応のテープ型"
-      - "楽天24ベビー館の単一規格ページ"
-    pros:
-      - "蒸れやすい時期でも快適さを重視して選べる"
-      - "1パック単位で買えるので試しやすい"
-      - "メリーズの定番ラインとして合わせやすい"
-    cons:
-      - "ファストプレミアムとは設計の方向性が異なる"
-      - "大容量セットでのまとめ買いには向かない"
-    recommendedFor: "通気性を重視してMサイズのメリーズを試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4901301437716%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10045200%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/716/4901301437716.jpg?_ex=128x128"
-    genreId: "205198"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2875571012.html"
-        matchStatus: "matched"
-        updatedAt: "2026-11-14"
-        price: 8712
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2875571012"
-        available: true
   - rank: 4
     name: "パンパース さらさらケア テープ Mサイズ"
     brand: "P&G（パンパース）"

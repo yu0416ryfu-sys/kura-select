@@ -47,7 +47,7 @@ products:
     capacity: "30mL"
     pricePerUnit: "約110円/mL"
     rating: 4.4
-    reviewCount: 2165
+    reviewCount: 2166
     features:
       - "ジェルクリームタイプのワキ向けデオドラント"
       - "子どもから大人まで使いやすい設計"
@@ -80,8 +80,8 @@ products:
     price: 3300
     capacity: "30mL"
     pricePerUnit: "約110円/mL"
-    rating: 4.51
-    reviewCount: 435
+    rating: 4.52
+    reviewCount: 436
     features:
       - "ロールオンで塗れるジェルクリームタイプ"
       - "手を汚しにくくワキへ直塗りしやすい"
@@ -129,7 +129,7 @@ products:
       - "初回は単品で試したい方には量が多い"
     recommendedFor: "無香料のロールオン制汗剤をまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sx68n.3rdw6b00.g00sx68n.3rdw7236/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenbasket%2Fuk-perspirexcom20ml-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenbasket%2Fi%2F10000042%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/product_uk/ukproduct/perspirexnew/imgrc0106450064.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/img-up_1_1514/856203_dec_x1q5jx.jpg?_ex=128x128"
     genreId: "507856"
   - rank: 5
     name: "パースピレックス オリジナル 20mL×2個 2個セット"
@@ -152,7 +152,7 @@ products:
       - "初めて使う場合はまとめ買いが多く感じる"
     recommendedFor: "無香料の海外ロールオン制汗剤を継続したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sx68n.3rdw6b00.g00sx68n.3rdw7236/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenbasket%2Fuk-perspirexorg20ml-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenbasket%2Fi%2F10000046%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/product_uk/ukproduct/perspirexnew/imgrc0106450056.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/greenbasket/cabinet/img-up_1_1514/856205_dec_523gvm.jpg?_ex=128x128"
     genreId: "507856"
   - rank: 6
     name: "パースピレックス オリジナル ロールオン"

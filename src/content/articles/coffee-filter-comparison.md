@@ -4,7 +4,7 @@ description: "コーヒーフィルターを1枚あたりのコストで徹底�
 category: "coffee-filter"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-19"
 draft: false
 products:
   - rank: 1
@@ -237,9 +237,9 @@ products:
   - rank: 8
     name: "ドリップバッグフィルター 1杯用 200枚"
     brand: "国内メーカー品"
-    price: 2690
+    price: 2790
     capacity: "200枚"
-    pricePerUnit: "約13円/枚"
+    pricePerUnit: "約14円/枚"
     rating: 4.76
     reviewCount: 83
     features:
@@ -289,7 +289,7 @@ products:
       - "3枚入りのため在庫管理と使い回しのローテーションが必要"
     recommendedFor: "エコ志向の方・繰り返し使えるフィルターでコストを抑えたい方・リネン素材の風合いを楽しみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q24rn.3rdw6a1d.g00q24rn.3rdw78a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fultramix%2Fif-filter-mx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fultramix%2Fi%2F10036045%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ultramix/cabinet/item17/if-filter-mx_1.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ultramix/cabinet/img-up_1_98/15327_dec_7oun1p.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

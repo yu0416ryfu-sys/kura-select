@@ -257,7 +257,7 @@ products:
     price: 4480
     capacity: "レギュラー 800枚"
     rating: 4.46
-    reviewCount: 8645
+    reviewCount: 8646
     features:
       - "レギュラーサイズのペット用トイレシート"
       - "薄型のまとめ買い向けタイプ"
@@ -283,7 +283,7 @@ products:
         reviewCount: 2601
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_55102162ku"
         available: true
-    priceMax: 9280
+    priceMax: 8900
     genreId: "409755"
   - rank: 9
     name: "小林薬品 RABLISS 薄型ペットシーツ レギュラー 800枚"

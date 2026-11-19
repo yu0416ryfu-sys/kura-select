@@ -237,11 +237,11 @@ products:
   - rank: 9
     name: "洗濯槽快 2個入 ホタテ貝殻素材"
     brand: "くらし快適ショップ"
-    price: 1210
+    price: 1155
     capacity: "2個入り（新ネット付）"
-    pricePerUnit: "約605円/個"
-    rating: 4.3
-    reviewCount: 187
+    pricePerUnit: "約578円/個"
+    rating: 4.33
+    reviewCount: 409
     features:
       - "ホタテ貝殻を原料とした天然素材系クリーナー"
       - "カビ防止・除菌・消臭の3つの機能を持つ"
@@ -254,8 +254,8 @@ products:
       - "ホタテ貝殻素材の効果には個人差がある"
       - "まとめ買いより割高になる場合がある"
     recommendedFor: "天然素材クリーナーを初めて試したい方・少量から始めたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbcon.3rdw6193.g00rbcon.3rdw7b41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikaiteki-shop%2F10000098%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikaiteki-shop%2Fi%2F10010198%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikaiteki-shop/cabinet/10000098-umimamo.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbcon.3rdw6193.g00rbcon.3rdw7b41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikaiteki-shop%2F10000770%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikaiteki-shop%2Fi%2F10010285%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikaiteki-shop/cabinet/10000770-umimamo.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

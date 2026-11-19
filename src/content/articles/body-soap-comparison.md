@@ -7,11 +7,11 @@ articleType: "comparison"
 updatedAt: "2026-11-19"
 products:
   - rank: 1
-    name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
+    name: "hadakara ボディソープ サラサラfeel 詰め替え 大型 750mL×2袋"
     brand: "ライオン（hadakara）"
-    price: 1333
-    capacity: "800mL"
-    pricePerUnit: "約1.7円/mL"
+    price: 2420
+    capacity: "750mL×2袋（1500mL）"
+    pricePerUnit: "約1.6円/mL"
     rating: 4.51
     reviewCount: 195
     features:
@@ -26,8 +26,8 @@ products:
       - "泡立ちにはスポンジ等が必要"
       - "さっぱり派にはやや保湿感が強い"
     recommendedFor: "保湿重視の方・乾燥肌の方・コスパと保湿を両立したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qs40n.3rdw6e75.g00qs40n.3rdw7092/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fladies-online-shop%2F10021895%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fladies-online-shop%2Fi%2F10021895%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ladies-online-shop/cabinet/okashi/mo58077154.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ushqn.3rdw6c96.g00ushqn.3rdw7735/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorinomiyakkoonline%2Fhsbst-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorinomiyakkoonline%2Fi%2F10000306%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/morinomiyakkoonline/cabinet/imgrc0155160637.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

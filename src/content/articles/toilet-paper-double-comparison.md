@@ -246,13 +246,13 @@ products:
         available: true
     genreId: "501098"
   - rank: 9
-    name: "（まとめ）日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり "
+    name: "スコッティ フラワーパック 3倍長持ち ダブル 芯あり 4ロール"
     brand: "スコッティ"
-    price: 5420
+    price: 595
     capacity: "75m×4ロール"
-    pricePerUnit: "約18円/m"
-    rating: 4
-    reviewCount: 1
+    pricePerUnit: "約2.0円/m"
+    rating: 4.75
+    reviewCount: 8
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -265,8 +265,8 @@ products:
       - "サイズや対応条件は購入前に確認したい"
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s8xpn.3rdw6071.g00s8xpn.3rdw797d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-easu%2Fds-2361245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshop-easu%2Fi%2F10928586%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shop-easu/cabinet/dsproducts/846/0002361245-1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F862-7317%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10592313%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin800/862-7317.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

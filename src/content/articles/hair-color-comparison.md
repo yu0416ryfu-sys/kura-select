@@ -56,9 +56,9 @@ products:
   - rank: 3
     name: "エムズハーブカラートリートメント彩 500g"
     brand: "スリアン"
-    price: 6600
+    price: 5940
     capacity: "500g"
-    pricePerUnit: "約13円/g"
+    pricePerUnit: "約12円/g"
     rating: 4.54
     reviewCount: 714
     features:
@@ -88,13 +88,47 @@ products:
         reviewCount: 48
     genreId: "507833"
   - rank: 4
+    name: "バランローズ KUROクリームシャンプー ナチュラルブラック 400g"
+    brand: "楽天市場"
+    price: 5808
+    capacity: "400g"
+    rating: 4
+    reviewCount: 2
+    features:
+      - "対象カテゴリの商品として比較しやすい基本仕様"
+      - "まとめ買いやストックに使いやすい構成"
+      - "用途や好みに合わせて選びやすいタイプ"
+    pros:
+      - "既存候補と比較して選択肢を広げやすい"
+      - "ストックや日常使いの候補として検討しやすい"
+      - "用途や好みに合わせて比較表で確認しやすい"
+    cons:
+      - "サイズや対応条件は購入前に確認したい"
+      - "価格や在庫は更新時点で変わる可能性がある"
+    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r7crn.3rdw610a.g00r7crn.3rdw7f87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhands-net%2F4560253331994%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhands-net%2Fi%2F12184411%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hands-net/cabinet/94/03/4560253331994-1.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsakura-place%2F10008554.html"
+        matchStatus: "matched"
+        updatedAt: "2026-11-17"
+        price: 5808
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sakura-place_10008554"
+        available: true
+        rating: 4.42
+        reviewCount: 1896
+    genreId: "507833"
+    pricePerUnit: "約15円/g"
+  - rank: 5
     name: "クリームシャンプー Mee color 白髪染め"
     brand: "Mee color（ミーカラー）"
     price: 5478
     capacity: "350g"
     pricePerUnit: "約16円/g"
     rating: 4.28
-    reviewCount: 3147
+    reviewCount: 3148
     features:
       - "洗いながら染めるクリームシャンプータイプ"
       - "白髪染め・トリートメント機能を兼ねる"
@@ -108,7 +142,7 @@ products:
       - "色味の出方に個人差がある"
     recommendedFor: "毎日のケアで少しずつ白髪を目立たなくしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s6b6n.3rdw6797.g00s6b6n.3rdw7ada/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fibiki-kenkyujyo%2Faz-711%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fibiki-kenkyujyo%2Fi%2F10000575%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ibiki-kenkyujyo/cabinet/08691637/0711_01.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ibiki-kenkyujyo/cabinet/08691637/1_260911_50off.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -121,7 +155,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ibiki-kenkyujyo_az711"
         available: true
     genreId: "507833"
-  - rank: 5
+  - rank: 6
     name: "リーゼ 泡ヘアカラー 3個セット"
     brand: "花王（リーゼ）"
     price: 2904
@@ -144,7 +178,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rirmn.3rdw6865.g00rirmn.3rdw7be3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakarie%2F7279161%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakarie%2Fi%2F10170268%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/akarie/cabinet/tasya120/7279161-e.jpg?_ex=128x128"
     genreId: "101878"
-  - rank: 6
+  - rank: 7
     name: "2個セット KUROクリームシャンプー (400g×2) 白髪染め シャンプー トリ"
     brand: "2個セット"
     price: 11616
@@ -167,7 +201,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvonn.3rdw6ebb.g00pvonn.3rdw720c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008571%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005224%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/10008571.jpg?_ex=128x128"
     genreId: "507833"
-  - rank: 7
+  - rank: 8
     name: "3個セット KUROクリームシャンプー (400g×3) 白髪染め シャンプー トリ"
     brand: "楽天市場"
     price: 17424
@@ -190,7 +224,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvonn.3rdw6ebb.g00pvonn.3rdw720c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008572%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005225%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/10008572.jpg?_ex=128x128"
     genreId: "507833"
-  - rank: 8
+  - rank: 9
     name: "ヘアボーテエクラ ボタニカルエアカラーフォームEX 2本セット"
     brand: "フューチャーラボ（ヘアボーテエクラ）"
     price: 11000
@@ -213,40 +247,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rso1n.3rdw62e6.g00rso1n.3rdw78e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkirei-mitsuketa%2Fshb_0002132%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkirei-mitsuketa%2Fi%2F10016287%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kirei-mitsuketa/cabinet/hb_22/shb_0002132_1.jpg?_ex=128x128"
     genreId: "210724"
-  - rank: 9
-    name: "白髪染め シャンプー トリートメント KUROクリームシャンプー 400g 単品 バ"
-    brand: "楽天市場"
-    price: 2640
-    capacity: "400g"
-    rating: 4.38
-    reviewCount: 8636
-    features:
-      - "対象カテゴリの商品として比較しやすい基本仕様"
-      - "まとめ買いやストックに使いやすい構成"
-      - "用途や好みに合わせて選びやすいタイプ"
-    pros:
-      - "既存候補と比較して選択肢を広げやすい"
-      - "ストックや日常使いの候補として検討しやすい"
-      - "用途や好みに合わせて比較表で確認しやすい"
-    cons:
-      - "サイズや対応条件は購入前に確認したい"
-      - "価格や在庫は更新時点で変わる可能性がある"
-    recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvonn.3rdw6ebb.g00pvonn.3rdw720c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008554%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005223%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/slide/09073883/imgrc0114819933.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsakura-place%2F10008554.html"
-        matchStatus: "matched"
-        updatedAt: "2026-11-17"
-        price: 5808
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sakura-place_10008554"
-        available: true
-        rating: 4.42
-        reviewCount: 1896
-    genreId: "507833"
-    priceMax: 5808
   - rank: 10
     name: "白髪染め レフィーネ ヘッドスパ トリートメント カラー 300g 1本or2本セッ"
     brand: "白髪染め"

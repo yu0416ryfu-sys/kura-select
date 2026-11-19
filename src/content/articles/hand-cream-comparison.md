@@ -81,7 +81,7 @@ products:
     capacity: "35g"
     pricePerUnit: "約19円/g"
     rating: 4.52
-    reviewCount: 432
+    reviewCount: 433
     features:
       - "成分表示はシア脂のみの精製シアバター"
       - "無香料を含む複数の香りから選べる"
@@ -140,7 +140,7 @@ products:
     capacity: "40g"
     pricePerUnit: "約39円/g"
     rating: 4.54
-    reviewCount: 830
+    reviewCount: 831
     features:
       - "40gのチューブでポーチに収まりやすい"
       - "プチギフト・プレゼント用途に対応したパッケージ"

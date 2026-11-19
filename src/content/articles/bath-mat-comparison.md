@@ -79,11 +79,11 @@ products:
   - rank: 3
     name: "今治タオル レオン バスマット"
     brand: "今治タオル"
-    price: 2290
+    price: 1980
     capacity: "42×67cm 1枚"
-    pricePerUnit: "約2290円/枚"
+    pricePerUnit: "約1980円/枚"
     rating: 4.61
-    reviewCount: 2156
+    reviewCount: 2157
     features:
       - "今治タオルブランド認定の綿100%バスマット（約42×67cm・約305g）"
       - "日本製（愛媛県今治市）"
@@ -98,7 +98,7 @@ products:
       - "厚手で乾きにくい・硬めという声もある"
     recommendedFor: "家族で使えるしっかりした綿のマットがほしい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r0pnn.3rdw6bf8.g00r0pnn.3rdw7fc4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcyberl2010%2F0215-0212-0101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcyberl2010%2Fi%2F10000622%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cyberl2010/cabinet/01635375/colormat300pix6.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cyberl2010/cabinet/cartsale/lebm_18_3.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -186,7 +186,7 @@ products:
     price: 1170
     capacity: "40×60cm 1枚"
     rating: 4.34
-    reviewCount: 1104
+    reviewCount: 1105
     features:
       - "マイクロファイバーのマット（素材表示はポリエステル、裏面はTRP樹脂）"
       - "40×60cm・50×80cmと、それぞれ毛足短めのタイプがある"
@@ -268,7 +268,7 @@ products:
     price: 2070
     capacity: "60×40cm / 70×50cm"
     rating: 4.43
-    reviewCount: 2740
+    reviewCount: 2741
     features:
       - "珪藻土パウダーを使った、やわらかいソフトタイプ（硬い板ではない）"
       - "厚さ5mm・60×40cmと70×50cm"

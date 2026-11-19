@@ -302,40 +302,6 @@ products:
         available: true
     genreId: "507854"
     priceMax: 15550
-  - rank: 10
-    name: "ビオレ さらさらパウダーシート 無香料"
-    brand: "花王（ビオレ）"
-    price: 1000
-    capacity: "30枚"
-    rating: 5
-    reviewCount: 2
-    features:
-      - "厚手のメッシュシートでしっかり拭き取れる設計"
-      - "皮脂や汗のベタつきを拭き取るボディシート"
-      - "香りが残らない無香性タイプ"
-    pros:
-      - "香りが苦手な人や香水と併用したい人でも使いやすい"
-      - "厚手で1枚で広い範囲を拭きやすい"
-      - "ビジネスシーンでも香りを気にせず使える"
-    cons:
-      - "香りでリフレッシュしたい人には物足りない"
-      - "厚手のぶん1袋の枚数は控えめ"
-    recommendedFor: "香りを残したくない方・オフィスで使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uso0n.3rdw6c16.g00uso0n.3rdw73a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsasaya-halo%2Fcompass1775955499%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsasaya-halo%2Fi%2F10000058%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sasaya-halo/cabinet/compass1785600442.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffukuei%2F612-8545-103.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-31"
-        price: 1314
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fukuei_612-8545-103"
-        available: true
-    priceMax: 1500
-    genreId: "101882"
 tags:
   - "汗拭きシート おすすめ"
   - "ボディシート コスパ"

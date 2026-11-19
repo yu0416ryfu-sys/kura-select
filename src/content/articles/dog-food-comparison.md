@@ -114,9 +114,9 @@ products:
   - rank: 4
     name: "ロイヤルカナン ミニ インドア アダルト 2kg×6個"
     brand: "ロイヤルカナン"
-    price: 17323
+    price: 18954
     capacity: "2kg×6個"
-    pricePerUnit: "約1444円/kg"
+    pricePerUnit: "約1580円/kg"
     rating: 5
     reviewCount: 1
     features:
@@ -268,7 +268,7 @@ products:
       - "容量を選ぶ販売ページで、比較表の価格と単価は1.1kgのもの"
     recommendedFor: "中型〜大型犬の成犬・シニアに、ラムを主原料にした大粒のフードを選びたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q2ujn.3rdw6097.g00q2ujn.3rdw7276/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falbiot%2Fnh_main_4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falbiot%2Fi%2F10000275%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/n_nh/nh-dry/nh-ml-pkimgomk.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/albiot/cabinet/event-bn/pb-omake/nh-ml-pb.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

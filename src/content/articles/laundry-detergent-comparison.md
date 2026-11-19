@@ -98,40 +98,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301452429x8"
         available: true
   - rank: 4
-    name: "アリエール 液体 詰め替え 超ジャンボ 1000g×4セット"
-    brand: "アリエール（P&G）"
-    price: 4078
-    capacity: "1000g×4個"
-    pricePerUnit: "約1.0円/g"
-    rating: 4.62
-    reviewCount: 669
-    features:
-      - "液体タイプの衣料用洗剤"
-      - "超ジャンボサイズの詰め替え用を複数袋まとめた構成"
-      - "香り・タイプを選んで購入できる"
-    pros:
-      - "まとめ買いで買い足しの手間を減らせる"
-      - "1袋ずつ開封できるので保管しやすい"
-      - "家庭用の定番ブランドで使い方に迷いにくい"
-    cons:
-      - "複数袋分の置き場所が必要"
-      - "選ぶタイプによって香りや得意な汚れが違う"
-    recommendedFor: "家族の洗濯物が多く、定番の液体洗剤をまとめて買っておきたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405421%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11279561%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/421/405421.jpg?_ex=128x128"
-    genreId: "210182"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7280528f.html"
-        matchStatus: "matched"
-        updatedAt: "2026-11-14"
-        price: 3980
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7280528f"
-        available: true
-  - rank: 5
     name: "アタックZERO つめかえ用 2300g"
     brand: "アタック（花王）"
     price: 2425
@@ -154,42 +120,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301466211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10042602%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/211/4901301466211.jpg?_ex=128x128"
     genreId: "210182"
-  - rank: 6
-    name: "アリエール 部屋干し 除菌プラス 詰め替え 超ジャンボ 1kg×6袋"
-    brand: "アリエール（P&G）"
-    price: 8921
-    capacity: "1kg×6袋"
-    pricePerUnit: "約1.5円/g"
-    rating: 4.75
-    reviewCount: 16
-    features:
-      - "国内シェアトップクラスの液体洗剤"
-      - "詰め替えタイプで経済的"
-      - "超ジャンボサイズで買い替え頻度が下がる"
-      - "1種類を選べる（タイプが選択可）"
-    pros:
-      - "アリエールは洗浄力の高さで支持者が多いブランド"
-      - "詰め替え用なのでゴミが少なくエコ"
-      - "まとめ買いで単価を抑えられる"
-    cons:
-      - "1回あたりのコストはやや高め"
-      - "4本分の保管スペースが必要"
-    recommendedFor: "洗浄力・ブランド信頼性を重視する方・詰め替え派"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7260889%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10217201%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/7280531.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkarimerobox%2Ftoys-n-b0h37z9x9j.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-19"
-        price: 3990
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/karimerobox_toys-n-b0h37z9x9j"
-        available: true
-        rating: 0
-        reviewCount: 0
-    genreId: "210182"
-  - rank: 7
+  - rank: 5
     name: "大人のさらさ 詰替 超特大 760g×2セット"
     brand: "さらさ（P&G）"
     price: 2380
@@ -223,7 +154,41 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nicobase_2nico-4987176352453"
         available: true
-  - rank: 8
+  - rank: 6
+    name: "アリエール 液体 詰め替え 超ジャンボ 1000g×3袋"
+    brand: "アリエール（P&G）"
+    price: 4910
+    capacity: "1000g×3袋（3000g）"
+    pricePerUnit: "約1.6円/g"
+    rating: 4.4
+    reviewCount: 5
+    features:
+      - "液体タイプの衣料用洗剤"
+      - "超ジャンボサイズの詰め替え用を複数袋まとめた構成"
+      - "香り・タイプを選んで購入できる"
+    pros:
+      - "まとめ買いで買い足しの手間を減らせる"
+      - "1袋ずつ開封できるので保管しやすい"
+      - "家庭用の定番ブランドで使い方に迷いにくい"
+    cons:
+      - "複数袋分の置き場所が必要"
+      - "選ぶタイプによって香りや得意な汚れが違う"
+    recommendedFor: "家族の洗濯物が多く、定番の液体洗剤をまとめて買っておきたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7260888%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10217200%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/7280525.jpg?_ex=128x128"
+    genreId: "210182"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7280528f.html"
+        matchStatus: "matched"
+        updatedAt: "2026-11-14"
+        price: 3980
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7280528f"
+        available: true
+  - rank: 7
     name: "海へ Fukii 詰替 380g"
     brand: "がんこ本舗"
     price: 2552
@@ -257,7 +222,7 @@ products:
         rating: 4.78
         reviewCount: 9
     genreId: "210182"
-  - rank: 9
+  - rank: 8
     name: "海へ Fukii 詰替 380g×3個セット"
     brand: "がんこ本舗"
     price: 7656
@@ -291,6 +256,41 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/okinawangirls_umihe-fukii3"
         available: true
     genreId: "210182"
+  - rank: 9
+    name: "アリエールジェル 除菌プラス 詰め替え 超ジャンボ 1000g"
+    brand: "アリエール（P&G）"
+    price: 1430
+    capacity: "1000g"
+    rating: 4.75
+    reviewCount: 16
+    features:
+      - "国内シェアトップクラスの液体洗剤"
+      - "詰め替えタイプで経済的"
+      - "超ジャンボサイズで買い替え頻度が下がる"
+      - "1種類を選べる（タイプが選択可）"
+    pros:
+      - "アリエールは洗浄力の高さで支持者が多いブランド"
+      - "詰め替え用なのでゴミが少なくエコ"
+      - "まとめ買いで単価を抑えられる"
+    cons:
+      - "1回あたりのコストはやや高め"
+      - "4本分の保管スペースが必要"
+    recommendedFor: "洗浄力・ブランド信頼性を重視する方・詰め替え派"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00twmvn.3rdw689a.g00twmvn.3rdw7498/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fselectkoh%2Fwho953%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fselectkoh%2Fi%2F10001120%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/selectkoh/cabinet/11307696/13007661/who953_fv.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkarimerobox%2Ftoys-n-b0h37z9x9j.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-19"
+        price: 3990
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/karimerobox_toys-n-b0h37z9x9j"
+        available: true
+        rating: 0
+        reviewCount: 0
+    genreId: "210182"
+    priceMax: 6940
   - rank: 10
     name: "ナノックス ワン スタンダード 詰め替え 1400g×6袋セット"
     brand: "ライオン（ナノックス ワン）"

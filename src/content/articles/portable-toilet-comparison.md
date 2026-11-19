@@ -104,7 +104,7 @@ products:
     price: 3680
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7796
+    reviewCount: 7803
     features:
       - "1箱は凝固剤60袋（50袋＋10袋）と黒い汚物袋60枚、防臭袋5枚"
       - "凝固剤1袋で500mlの水が約30秒で固まる表示"
@@ -206,7 +206,7 @@ products:
     price: 1800
     capacity: "50回分"
     rating: 4.46
-    reviewCount: 4108
+    reviewCount: 4109
     features:
       - "粉の凝固剤ではなく、吸水ポリマーのシートに吸わせるタイプ"
       - "通常版の50回分は吸水シート60枚と汚物袋20枚の構成"
@@ -240,7 +240,7 @@ products:
     price: 1580
     capacity: "20回分"
     rating: 4.5
-    reviewCount: 7326
+    reviewCount: 7328
     features:
       - "凝固剤（10g入り）20回分・排泄用袋20枚・便座カバー1枚・防臭袋2枚・手袋50枚"
       - "20回分の箱は約19.5×30.5×3.2cmの薄い硬紙箱"
@@ -254,7 +254,7 @@ products:
       - "製造国の表示が販売ページに見当たらない"
     recommendedFor: "1人暮らしの備えや、まず少ない回数で使い方を試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u49fn.3rdw6725.g00u49fn.3rdw7bf8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiromifashionhouse%2Fmkhrm60f%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiromifashionhouse%2Fi%2F10005004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiromifashionhouse/cabinet/12169031/12169039/imgrc0130480880.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiromifashionhouse/cabinet/12169031/12169039/imgrc0133129252.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

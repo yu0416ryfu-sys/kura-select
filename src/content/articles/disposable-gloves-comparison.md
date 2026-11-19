@@ -112,9 +112,9 @@ products:
   - rank: 4
     name: "ウイルカット プラスチックグローブ 100枚"
     brand: "ウイルカット"
-    price: 1159
+    price: 1040
     capacity: "100枚"
-    pricePerUnit: "約12円/枚"
+    pricePerUnit: "約10円/枚"
     rating: 4.75
     reviewCount: 266
     features:
@@ -248,8 +248,8 @@ products:
     brand: "TKJP"
     price: 890
     capacity: "100枚"
-    rating: 4.57
-    reviewCount: 3862
+    rating: 4.58
+    reviewCount: 3864
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"

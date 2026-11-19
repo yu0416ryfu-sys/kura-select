@@ -4,7 +4,7 @@ description: "リップクリームのおすすめ10選を、薬用（医薬部�
 category: "lip-balm"
 publishedAt: "2026-11-12"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 draft: false
 products:
   - rank: 1
@@ -101,11 +101,11 @@ products:
   - rank: 4
     name: "キュレル リップケアクリーム 4.2g"
     brand: "キュレル"
-    price: 682
+    price: 768
     capacity: "4.2g"
-    pricePerUnit: "約162円/g"
-    rating: 4.62
-    reviewCount: 50
+    pricePerUnit: "約183円/g"
+    rating: 4.8
+    reviewCount: 10
     features:
       - "医薬部外品。有効成分はグリチルレチン酸ステアリル"
       - "セラミド機能成分（ヘキサデシロキシPGヒドロキシエチルヘキサデカナミド）を配合"
@@ -118,8 +118,8 @@ products:
       - "硬めでツヤは出ないという声があり、ツヤを求める人には物足りない"
       - "UVカットの表示はない"
     recommendedFor: "スーッとせず、成分表示に香料のない薬用リップを、1本ずつ買って毎日使いたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10054928%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10011504%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/shouhin73/10054928.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2wen.3rdw6cec.g00r2wen.3rdw7a93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsokunou%2F4901301251589%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsokunou%2Fi%2F10005460%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sokunou/cabinet/img00/4901301251589.jpg?_ex=128x128"
     genreId: "405206"
     offers:
       - provider: "yahoo"

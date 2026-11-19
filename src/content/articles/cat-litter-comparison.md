@@ -230,7 +230,7 @@ products:
     capacity: "5L×4袋（20L）"
     pricePerUnit: "約176円/L"
     rating: 4.69
-    reviewCount: 2460
+    reviewCount: 2461
     features:
       - "ベントナイト鉱物系・固まるタイプの消臭猫砂"
       - "大手メーカーライオンによる消臭設計"
@@ -258,6 +258,40 @@ products:
         reviewCount: 127
     genreId: "204174"
   - rank: 9
+    name: "エバークリーン 無香タイプ 6L×3箱"
+    brand: "EVER CLEAN"
+    price: 4997
+    capacity: "6L×3箱（18L）"
+    rating: 4.66
+    reviewCount: 184
+    features:
+      - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
+      - "正規輸入品で無香・芳香のバリエーションあり"
+      - "優れた固まり性能と消臭力で海外でも評価実績のあるブランド"
+    pros:
+      - "細粒タイプで猫が掘りやすく自然な使用感を好む猫に向く"
+      - "固まりがしっかりしており処理時に崩れにくい"
+      - "香りのバリエーションから好みに応じて選びやすい"
+    cons:
+      - "鉱物系のため重量があり保管・廃棄場所の確保が必要"
+      - "他の国産品と比べてやや価格帯が上がる場合がある"
+    recommendedFor: "海外ブランドの細粒鉱物系で固まり性能を重視する方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pxxxn.3rdw6036.g00pxxxn.3rdw72f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftomcat%2Fec604021%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftomcat%2Fi%2F10018743%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tomcat/cabinet/sale/sale01/limited/ec604021.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F100142.html"
+        matchStatus: "matched"
+        updatedAt: "2026-11-18"
+        price: 5499
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_100142"
+        available: true
+        rating: 4.66
+        reviewCount: 725
+    genreId: "204174"
+    pricePerUnit: "約278円/L"
+  - rank: 10
     name: "トフカスサンドK おから猫砂"
     brand: "クリーンビート"
     price: 4430
@@ -279,40 +313,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F9871988%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10183945%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/11375185/11760512/imgrc0105024504.jpg?_ex=128x128"
     priceMax: 4659
-    genreId: "204174"
-  - rank: 10
-    name: "エバークリーン"
-    brand: "EVER CLEAN"
-    price: 4349
-    capacity: "6L×3個（18L）"
-    rating: 4.68
-    reviewCount: 2192
-    features:
-      - "ベントナイト鉱物系・細粒タイプの固まる猫砂"
-      - "正規輸入品で無香・芳香のバリエーションあり"
-      - "優れた固まり性能と消臭力で海外でも評価実績のあるブランド"
-    pros:
-      - "細粒タイプで猫が掘りやすく自然な使用感を好む猫に向く"
-      - "固まりがしっかりしており処理時に崩れにくい"
-      - "香りのバリエーションから好みに応じて選びやすい"
-    cons:
-      - "鉱物系のため重量があり保管・廃棄場所の確保が必要"
-      - "他の国産品と比べてやや価格帯が上がる場合がある"
-    recommendedFor: "海外ブランドの細粒鉱物系で固まり性能を重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pq2rn.3rdw6833.g00pq2rn.3rdw7f8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurosu%2F10014271%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurosu%2Fi%2F10014271%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurosu/cabinet/rakulogo/rakulogo22/r2055_00232.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F100142.html"
-        matchStatus: "matched"
-        updatedAt: "2026-11-18"
-        price: 5499
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_100142"
-        available: true
-        rating: 4.66
-        reviewCount: 725
-    priceMax: 7290
     genreId: "204174"
 tags:
   - "猫砂 おすすめ"

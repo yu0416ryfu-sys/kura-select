@@ -13,7 +13,7 @@ products:
     capacity: "6個（約6ヶ月分）"
     pricePerUnit: "約183円/個"
     rating: 4.78
-    reviewCount: 9906
+    reviewCount: 9907
     features:
       - "3層構造で泡立ち・水切れ・耐久性を両立"
       - "楽天レビュー数トップクラスの圧倒的人気"
@@ -48,7 +48,7 @@ products:
     capacity: "6個"
     pricePerUnit: "約183円/個"
     rating: 4.76
-    reviewCount: 1461
+    reviewCount: 1463
     features:
       - "ポリウレタンフォーム＋ナイロン不織布＋ポリエステルの3素材構造"
       - "ブラック・グレー・ホワイトのモノトーン3色展開"
@@ -71,7 +71,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約220円/個"
     rating: 4.76
-    reviewCount: 499
+    reviewCount: 500
     features:
       - "天然素材のセルロース＋綿で環境にやさしい"
       - "速乾性が高く雑菌が繁殖しにくい"
@@ -203,11 +203,11 @@ products:
   - rank: 7
     name: "サンサンスポンジ 8個セット"
     brand: "ダイニチ"
-    price: 3073
+    price: 2765
     capacity: "8個（4個×2組）"
-    pricePerUnit: "約384円/個"
+    pricePerUnit: "約346円/個"
     rating: 4.81
-    reviewCount: 2655
+    reviewCount: 2656
     features:
       - "全9色から選べるモノトーン系カラー展開"
       - "長持ちしやすい設計の食器洗いスポンジ"
@@ -221,7 +221,7 @@ products:
       - "厚みや硬さの好みは分かれやすい"
     recommendedFor: "カラー展開を楽しみながらまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r384n.3rdw62f6.g00r384n.3rdw76df/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdainichi-corp%2F10000025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdainichi-corp%2Fi%2F10000058%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dainichi-corp/cabinet/12515904/imgrc0111723413.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dainichi-corp/cabinet/14263350/imgrc0124813364.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
