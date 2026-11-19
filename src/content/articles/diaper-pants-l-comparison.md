@@ -34,8 +34,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F67491.html"
         matchStatus: "matched"
-        updatedAt: "2026-09-16"
-        price: 5980
+        updatedAt: "2026-11-18"
+        price: 5780
         rating: 5
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_67491"
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443519-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 12498
         rating: 0
         reviewCount: 1
@@ -136,7 +136,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111127986x4.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 7720
         rating: 0
         reviewCount: 2
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903111243099x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 7720
         rating: 4.83
         reviewCount: 126

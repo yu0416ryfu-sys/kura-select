@@ -4,7 +4,7 @@ description: "トイレ掃除シートを1枚あたりのコストで比較。�
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-19"
 draft: false
 products:
   - rank: 1
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwagonsale%2F4988787090024-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 1780
         rating: 4.47
         reviewCount: 49
@@ -160,7 +160,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j974081/"
         matchStatus: "pending"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 640
         rating: 4.04
         reviewCount: 56
@@ -221,13 +221,13 @@ products:
       - "使用できる場所をパッケージで確認する必要がある"
     recommendedFor: "本体容器付きの厚手シートから使い始めたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qob6n.3rdw6dbc.g00qob6n.3rdw7ca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fladydrug%2F4902011730739%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fladydrug%2Fi%2F10351168%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ladydrug/cabinet/pic2700/4902011730739_2.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ladydrug/cabinet/pic2700/4902011730739_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhome-life%2F101-30881.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 333
         rating: 0
         reviewCount: 0
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/jww8080/"
         matchStatus: "pending"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 1620
         rating: 0
         reviewCount: 0

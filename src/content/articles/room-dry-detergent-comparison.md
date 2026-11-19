@@ -4,7 +4,7 @@ description: "部屋干し用の洗濯洗剤とドライマーク用洗剤を容
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-19"
 products:
   - rank: 1
     name: "アタック 抗菌EX 部屋干し用 つめかえ用 2030g"
@@ -42,7 +42,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsgline%2Fkao-attack-heya-2130g-4.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-19"
         price: 5460
         rating: 4.86
         reviewCount: 14
@@ -174,7 +174,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhibec8129%2Fpre-mb.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-19"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hibec8129_pre-mb"
         available: true
@@ -211,7 +211,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約8.0円/g"
     rating: 4.68
-    reviewCount: 569
+    reviewCount: 570
     features:
       - "ドライマーク衣類を洗える中性の液体洗剤（毛・絹・綿・麻・合成繊維用）"
       - "販売ページで1000gの高級洗剤より洗浄力・柔らかさを低く表示したスタンダードタイプ"
@@ -265,7 +265,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffafa-online%2F622008a.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 1694
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/fafa-online_622008a"
         available: true

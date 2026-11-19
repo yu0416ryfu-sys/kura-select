@@ -4,7 +4,7 @@ description: "リーゼ・ヘアボーテなど市販の白髪染めを1回あ�
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 draft: false
 products:
   - rank: 1
@@ -37,7 +37,7 @@ products:
     capacity: "100g×2袋"
     pricePerUnit: "約7.9円/g"
     rating: 4.42
-    reviewCount: 3183
+    reviewCount: 3184
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -80,7 +80,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpeacehair%2Fsai500gset.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-27"
+        updatedAt: "2026-11-19"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/peacehair_sai500gset"
         available: true
@@ -94,7 +94,7 @@ products:
     capacity: "350g"
     pricePerUnit: "約16円/g"
     rating: 4.28
-    reviewCount: 3146
+    reviewCount: 3147
     features:
       - "洗いながら染めるクリームシャンプータイプ"
       - "白髪染め・トリートメント機能を兼ねる"
@@ -114,10 +114,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fibiki-kenkyujyo%2Faz711.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-27"
+        updatedAt: "2026-11-19"
         price: 5478
         rating: 4.18
-        reviewCount: 1190
+        reviewCount: 1219
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ibiki-kenkyujyo_az711"
         available: true
     genreId: "507833"
@@ -151,7 +151,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.51
-    reviewCount: 2773
+    reviewCount: 2774
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -174,7 +174,7 @@ products:
     capacity: "3個"
     pricePerUnit: "約5808円/個"
     rating: 4.53
-    reviewCount: 1743
+    reviewCount: 1744
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"

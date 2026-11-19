@@ -4,7 +4,7 @@ description: "洗濯槽クリーナーを1回あたりのコストで徹底比�
 category: "washing-machine-cleaner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 products:
   - rank: 1
     name: "過炭酸ナトリウム 酸素系漂白剤 950g"
@@ -13,7 +13,7 @@ products:
     capacity: "950g"
     pricePerUnit: "約0.63円/g"
     rating: 4.76
-    reviewCount: 2198
+    reviewCount: 2199
     features:
       - "過炭酸ナトリウム100%の酸素系漂白剤"
       - "pH10.5のアルカリ性で汚れに働きかける"
@@ -33,12 +33,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann1.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 598
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann1"
         available: true
         rating: 4.56
-        reviewCount: 2096
+        reviewCount: 2097
     genreId: "564510"
   - rank: 2
     name: "オキシクリーン マルチパーパスクリーナー 5.26kg（コストコ版）"
@@ -274,7 +274,7 @@ products:
     price: 1584
     capacity: "1個"
     rating: 4.72
-    reviewCount: 491
+    reviewCount: 492
     features:
       - "縦型洗濯機向けの塩素系クリーナー"
       - "強力洗浄をうたう業務用レベル設計"

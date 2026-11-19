@@ -4,7 +4,7 @@ description: "父の日に贈りやすい実用ギフトを比較。名入れボ
 category: "gift"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-19"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4955287917984.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-19"
         price: 3800
         rating: 0
         reviewCount: 0
@@ -44,9 +44,9 @@ products:
   - rank: 2
     name: "刺繍ネクタイ 名入れ"
     brand: "104 TENFOUR"
-    price: 2580
+    price: 2980
     capacity: "1本（ポリエステル100%）"
-    pricePerUnit: "約2580円/本"
+    pricePerUnit: "約2980円/本"
     rating: 5
     reviewCount: 3
     features:
@@ -158,13 +158,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fstore-goods%2Fab-80004.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaido-selection%2F014-209.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-27"
-        price: 4980
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/store-goods_ab-80004"
+        updatedAt: "2026-11-19"
+        price: 4880
+        rating: 4.67
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/maido-selection_014-209"
         available: true
     genreId: "408907"
   - rank: 7

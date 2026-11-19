@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F10004173.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 7304
         rating: 4.77
         reviewCount: 94
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00170.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 7722
         rating: 4.5
         reviewCount: 102
@@ -135,7 +135,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5817.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 6336
         rating: 4.51
         reviewCount: 81
@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/u943229/"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 6720
         rating: 4.59
         reviewCount: 29
@@ -237,7 +237,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5819.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 6336
         rating: 4.68
         reviewCount: 75
@@ -293,7 +293,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkomamono%2Fxins-rps2t-xl20-6.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 10200
         rating: 4.67
         reviewCount: 3
@@ -329,7 +329,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Fxy146.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 3599
         rating: 4.44
         reviewCount: 50

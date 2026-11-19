@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4903301333470.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 544
         rating: 0
         reviewCount: 0
@@ -239,7 +239,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkuraorishop1%2F496841d4cedfd259.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 4067
         rating: 0
         reviewCount: 0
@@ -273,7 +273,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fprema%2F00701665.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 1650
         rating: 0
         reviewCount: 2

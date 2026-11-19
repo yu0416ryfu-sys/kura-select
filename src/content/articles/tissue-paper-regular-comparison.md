@@ -4,17 +4,40 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 draft: false
 products:
   - rank: 1
+    name: "スコッティ ティッシュ 200組 60箱セット"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 5090
+    capacity: "200組×60箱"
+    pricePerUnit: "約0.42円/組"
+    rating: 4.69
+    reviewCount: 325
+    features:
+      - "1箱400枚（200組）の2枚重ね"
+      - "5箱パック×12の60箱入り"
+      - "「やわらかく、すべすべした肌ざわり」と販売ページで説明"
+    pros:
+      - "送料無料で60箱がまとめて届く"
+      - "5箱パックがコンパクトで保管しやすいという声が多い"
+      - "同じスコッティ 200組を別の店と見比べて選べる"
+    cons:
+      - "箱に紙がぎっしり詰まっていて最初の数枚が破れるという声がある"
+      - "置き配できないと言われたという声がある（できたという声もある）"
+    recommendedFor: "定番のスコッティをケースでまとめ買いしたい家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7162877%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077529%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7162877.jpg?_ex=128x128"
+    genreId: "100670"
+  - rank: 2
     name: "スコッティ ティッシュ ホワイトパッケージ 60箱"
     brand: "日本製紙クレシア（スコッティ）"
     price: 5460
     capacity: "400枚（200組）×60箱"
     pricePerUnit: "約0.46円/組"
     rating: 4.75
-    reviewCount: 557
+    reviewCount: 558
     features:
       - "1箱400枚（200組）の2枚重ね"
       - "5箱パック×12の60箱入り"
@@ -34,35 +57,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkyoto23%2F10001789.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 7153
         rating: 4.58
         reviewCount: 36
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kyoto23_10001789"
         available: true
-    genreId: "100670"
-  - rank: 2
-    name: "スコッティ ティッシュ 200組 60箱セット"
-    brand: "日本製紙クレシア（スコッティ）"
-    price: 5460
-    capacity: "200組×60箱"
-    pricePerUnit: "約0.46円/組"
-    rating: 4.69
-    reviewCount: 325
-    features:
-      - "1箱400枚（200組）の2枚重ね"
-      - "5箱パック×12の60箱入り"
-      - "「やわらかく、すべすべした肌ざわり」と販売ページで説明"
-    pros:
-      - "送料無料で60箱がまとめて届く"
-      - "5箱パックがコンパクトで保管しやすいという声が多い"
-      - "同じスコッティ 200組を別の店と見比べて選べる"
-    cons:
-      - "箱に紙がぎっしり詰まっていて最初の数枚が破れるという声がある"
-      - "置き配できないと言われたという声がある（できたという声もある）"
-    recommendedFor: "定番のスコッティをケースでまとめ買いしたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7162877%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077529%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7162877.jpg?_ex=128x128"
     genreId: "100670"
   - rank: 3
     name: "スコッティ ティッシュ 200組 60箱"
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flefutur%2Fscottie500.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 6520
         rating: 0
         reviewCount: 1

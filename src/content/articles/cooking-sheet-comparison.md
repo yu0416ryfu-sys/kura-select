@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpackage-marche%2F51849.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 9780
         rating: 5
         reviewCount: 14
@@ -101,8 +101,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901670109634.html"
         matchStatus: "matched"
-        updatedAt: "2026-06-18"
-        price: 702
+        updatedAt: "2026-11-18"
+        price: 677
         rating: 4
         reviewCount: 4
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/y-kojima_4901670109634"
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujinamisquare%2F100020900.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 4950
         rating: 0
         reviewCount: 0

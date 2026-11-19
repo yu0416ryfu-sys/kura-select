@@ -4,7 +4,7 @@ description: "ブリタのポット型浄水器に使えるマクストラ規格
 category: "mineral-water"
 publishedAt: "2026-10-25"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 draft: false
 products:
   - rank: 1
@@ -82,8 +82,8 @@ products:
     price: 2980
     capacity: "6個"
     pricePerUnit: "約497円/個"
-    rating: 3.25
-    reviewCount: 8
+    rating: 3.44
+    reviewCount: 9
     features:
       - "マクストラ規格のポット型浄水器向けの互換カートリッジ"
       - "本体の材質が商品ページに明記されている"
@@ -117,7 +117,7 @@ products:
     capacity: "8個"
     pricePerUnit: "約1079円/個"
     rating: 4.78
-    reviewCount: 27096
+    reviewCount: 27122
     features:
       - "ブリタ公式ショップが販売する日本仕様の純正カートリッジ"
       - "マクストラプロ規格のポット型浄水器に差し込んで使う"

@@ -146,7 +146,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftwentycompany%2Fpincher-mcb.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 15980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/twentycompany_pincher-mcb"
         available: true
@@ -181,10 +181,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkscojp%2F960120670.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 2380
-        rating: 4.46
-        reviewCount: 70
+        rating: 4.45
+        reviewCount: 71
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kscojp_960120670"
         available: true
     genreId: "405061"

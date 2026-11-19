@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4903111176076.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 1240
         rating: 4.75
         reviewCount: 4
@@ -70,7 +70,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/un83825/"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 6300
         rating: 0
         reviewCount: 0
@@ -103,13 +103,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworldglobal%2F20260619202540-00444.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b07xg3nh7t-20260421.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
-        price: 1668
+        updatedAt: "2026-11-18"
+        price: 1687
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/worldglobal_20260619202540-00444"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nirvanashop_s-b07xg3nh7t-20260421"
         available: true
   - rank: 4
     name: "パンパース おやすみパンツ XL-XXL 46枚×2"
@@ -138,8 +138,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgyy-shop%2F80289-pampers-oyasumi-pants-xl-12-17kg-48px2.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-17"
+        matchStatus: "matched"
+        updatedAt: "2026-11-18"
         price: 6380
         rating: 0
         reviewCount: 0

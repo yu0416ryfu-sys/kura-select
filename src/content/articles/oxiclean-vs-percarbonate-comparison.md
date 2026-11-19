@@ -4,7 +4,7 @@ description: "過炭酸ナトリウムとオキシクリーンは何が違う？
 category: "laundry-detergent"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann3k.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 1130
         rating: 4.71
         reviewCount: 245
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann5k.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 1480
         rating: 4.77
         reviewCount: 262
@@ -102,10 +102,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fkatannsann1.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 598
         rating: 4.56
-        reviewCount: 2096
+        reviewCount: 2097
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichiga_katannsann1"
         available: true
     genreId: "564510"
@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fares%2F700056.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 1991
         rating: 4.66
         reviewCount: 77
@@ -271,7 +271,7 @@ products:
   - rank: 9
     name: "オキシクリーン 1500g 無香料 粉末タイプ"
     brand: "グラフィコ（日本版）"
-    price: 1540
+    price: 1525
     capacity: "1500g"
     rating: 4.53
     reviewCount: 1084

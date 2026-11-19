@@ -4,7 +4,7 @@ description: "毎日使える大容量シートマスクのおすすめ8選を1�
 category: "sheet-mask"
 publishedAt: "2026-11-02"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 draft: false
 products:
   - rank: 1
@@ -57,8 +57,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/9824670/"
-        matchStatus: "pending"
-        updatedAt: "2026-11-18"
+        matchStatus: "matched"
+        updatedAt: "2026-11-19"
         price: 980
         rating: 4.39
         reviewCount: 551
@@ -208,7 +208,7 @@ products:
     capacity: "21枚×2袋（42枚）"
     pricePerUnit: "約99円/枚"
     rating: 4.54
-    reviewCount: 8517
+    reviewCount: 8518
     features:
       - "5種のヒト型セラミドなど12種の美容成分を配合と表示"
       - "香料・パラベン・アルコールなど7つを使わない処方と表示"

@@ -33,13 +33,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987241105106.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frakuwel%2F4987241105106.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
-        price: 149
-        rating: 4.71
-        reviewCount: 124
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987241105106"
+        updatedAt: "2026-11-19"
+        price: 205
+        rating: 4.6
+        reviewCount: 5
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rakuwel_4987241105106"
         available: true
   - rank: 2
     name: "無印良品 薬用リップクリーム 敏感肌用 5.3g"
@@ -68,8 +68,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/aa84821/"
-        matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        matchStatus: "matched"
+        updatedAt: "2026-11-19"
         price: 580
         rating: 4.44
         reviewCount: 36
@@ -125,9 +125,9 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901301251589.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-14"
-        price: 656
+        matchStatus: "matched"
+        updatedAt: "2026-11-19"
+        price: 681
         rating: 4.87
         reviewCount: 47
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901301251589"
@@ -158,13 +158,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987316092676.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdrug-yanagawa%2F4987316092676-mail-free.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
-        price: 763
-        rating: 4.88
-        reviewCount: 33
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987316092676"
+        updatedAt: "2026-11-19"
+        price: 890
+        rating: 4.72
+        reviewCount: 46
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/drug-yanagawa_4987316092676-mail-free"
         available: true
   - rank: 6
     name: "アベンヌ 薬用リップケア モイスト 4g"
@@ -193,8 +193,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwlb%2Fav057.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        matchStatus: "matched"
+        updatedAt: "2026-11-19"
         price: 968
         rating: 5
         reviewCount: 7
@@ -250,8 +250,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8366417/"
-        matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        matchStatus: "matched"
+        updatedAt: "2026-11-19"
         price: 738
         rating: 4.66
         reviewCount: 149

@@ -3,7 +3,7 @@ title: "キレイキレイとビオレuどっちがいい？【2026年版】殺�
 description: "キレイキレイ（ライオン）とビオレu（花王）のハンドソープはどっちがいい？定番2ブランドの違いを、薬用殺菌成分の位置づけ・泡と液体の選択肢・1mLあたりの単価・肌あたりの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "hand-soap"
 publishedAt: "2026-08-31"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-19"
 articleType: "comparison"
 draft: false
 products:
@@ -218,7 +218,7 @@ products:
     capacity: "4800ml"
     pricePerUnit: "約0.87円/mL"
     rating: 4.72
-    reviewCount: 439
+    reviewCount: 440
     features:
       - "殺菌成分を配合した医薬部外品の薬用泡タイプ"
       - "シトラスフルーティの香り"
@@ -259,13 +259,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/2787233/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/9836705/"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
-        price: 720
-        rating: 4.69
-        reviewCount: 95
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_2787233"
+        updatedAt: "2026-11-19"
+        price: 479
+        rating: 4.5
+        reviewCount: 127
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_9836705"
         available: true
     genreId: "304758"
 tags:

@@ -4,14 +4,14 @@ description: "シングルのトイレットペーパーを1mあたりの単価�
 category: "toilet-paper"
 publishedAt: "2024-11-01"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 products:
   - rank: 1
     name: "コアユース 無包装 シングル 芯なし"
     brand: "春日製紙"
-    price: 5135
+    price: 4825
     capacity: "170m×48ロール"
-    pricePerUnit: "約0.63円/m"
+    pricePerUnit: "約0.59円/m"
     rating: 4.6
     reviewCount: 848
     features:
@@ -35,7 +35,7 @@ products:
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fikurun0810%2F101436.html"
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ikurun0810_101436"
         available: true
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         matchStatus: "matched"
         rating: 0
         reviewCount: 1
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Febarabo%2Febr-ppr-core-p2009.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 6675
         rating: 0
         reviewCount: 1
@@ -259,10 +259,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaki-seishi%2Fmori100ms60.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-29"
+        updatedAt: "2026-11-19"
         price: 5810
-        rating: 4.7
-        reviewCount: 27
+        rating: 4.71
+        reviewCount: 28
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/maki-seishi_mori100ms60"
         available: true
     genreId: "501098"

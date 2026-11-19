@@ -4,7 +4,7 @@ description: "洗濯洗剤は液体・粉末・ジェルボールのどれがコ
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -64,29 +64,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sskikaku/cabinet/imgrc0122421950.jpg?_ex=128x128"
     genreId: "210182"
   - rank: 3
-    name: "アタックZERO つめかえ用 2300g"
-    brand: "アタック（花王）"
-    price: 2238
-    capacity: "2300g"
-    pricePerUnit: "約0.97円/g"
-    rating: 4.79
-    reviewCount: 34
-    features:
-      - "濃縮タイプの液体洗剤"
-      - "部屋干しの臭い対策をうたうシリーズ"
-      - "詰め替え用の大きめサイズ"
-    pros:
-      - "1回に使う量が少なく、ボトルへの詰め替え回数を減らしやすい"
-      - "ドラム式・縦型のどちらでも使いやすい液体タイプ"
-      - "ドラッグストアでも見かける定番ブランドで選びやすい"
-    cons:
-      - "詰め替え用なので、本体ボトルを別に用意する必要がある"
-      - "香りの好みは実際に使って確かめたい"
-    recommendedFor: "部屋干しが多く、定番ブランドの液体洗剤を詰め替えで使い続けたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301466211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10042602%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/211/4901301466211.jpg?_ex=128x128"
-    genreId: "210182"
-  - rank: 4
     name: "アタック 高活性バイオパワー つめかえ用 750g×8パック"
     brand: "アタック（花王）"
     price: 5900
@@ -114,13 +91,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301452429x8.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-19"
         price: 3960
         rating: 4.78
         reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301452429x8"
         available: true
-  - rank: 5
+  - rank: 4
     name: "アリエール 液体 詰め替え 超ジャンボ 1000g×4セット"
     brand: "アリエール（P&G）"
     price: 4078
@@ -154,6 +131,29 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7280528f"
         available: true
+  - rank: 5
+    name: "アタックZERO つめかえ用 2300g"
+    brand: "アタック（花王）"
+    price: 2425
+    capacity: "2300g"
+    pricePerUnit: "約1.1円/g"
+    rating: 4.79
+    reviewCount: 34
+    features:
+      - "濃縮タイプの液体洗剤"
+      - "部屋干しの臭い対策をうたうシリーズ"
+      - "詰め替え用の大きめサイズ"
+    pros:
+      - "1回に使う量が少なく、ボトルへの詰め替え回数を減らしやすい"
+      - "ドラム式・縦型のどちらでも使いやすい液体タイプ"
+      - "ドラッグストアでも見かける定番ブランドで選びやすい"
+    cons:
+      - "詰め替え用なので、本体ボトルを別に用意する必要がある"
+      - "香りの好みは実際に使って確かめたい"
+    recommendedFor: "部屋干しが多く、定番ブランドの液体洗剤を詰め替えで使い続けたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301466211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10042602%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/211/4901301466211.jpg?_ex=128x128"
+    genreId: "210182"
   - rank: 6
     name: "アリエール 部屋干し 除菌プラス 詰め替え 超ジャンボ 1kg×6袋"
     brand: "アリエール（P&G）"
@@ -182,7 +182,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkarimerobox%2Ftoys-n-b0h37z9x9j.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-19"
         price: 3990
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/karimerobox_toys-n-b0h37z9x9j"
         available: true
@@ -217,7 +217,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnicobase%2F2nico-4987176352453.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-19"
         price: 2772
         rating: 0
         reviewCount: 0
@@ -250,7 +250,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fg0290005set.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-19"
         price: 4367
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_g0290005set"
         available: true

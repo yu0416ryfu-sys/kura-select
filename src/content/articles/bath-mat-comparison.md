@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 draft: false
 products:
   - rank: 1
@@ -48,7 +48,7 @@ products:
     capacity: "45×65cm 1枚"
     pricePerUnit: "約1000円/枚"
     rating: 4.4
-    reviewCount: 1383
+    reviewCount: 1384
     features:
       - "綿100%の双糸を使ったタオル地（約45×65cm）"
       - "立体感のあるドット柄をジャガードで織ったデザイン"
@@ -83,7 +83,7 @@ products:
     capacity: "42×67cm 1枚"
     pricePerUnit: "約2290円/枚"
     rating: 4.61
-    reviewCount: 2155
+    reviewCount: 2156
     features:
       - "今治タオルブランド認定の綿100%バスマット（約42×67cm・約305g）"
       - "日本製（愛媛県今治市）"
@@ -186,7 +186,7 @@ products:
     price: 1170
     capacity: "40×60cm 1枚"
     rating: 4.34
-    reviewCount: 1102
+    reviewCount: 1104
     features:
       - "マイクロファイバーのマット（素材表示はポリエステル、裏面はTRP樹脂）"
       - "40×60cm・50×80cmと、それぞれ毛足短めのタイプがある"
@@ -221,7 +221,7 @@ products:
     price: 1999
     capacity: "40×60cm / 50×80cm 1枚"
     rating: 4.64
-    reviewCount: 3336
+    reviewCount: 3337
     features:
       - "マイクロファイバー素材で、従来の約2倍のボリュームの起毛"
       - "「1秒吸水」「標準バスマットの10倍」の表示（試験の条件は記載なし）"
@@ -268,7 +268,7 @@ products:
     price: 2070
     capacity: "60×40cm / 70×50cm"
     rating: 4.43
-    reviewCount: 2741
+    reviewCount: 2740
     features:
       - "珪藻土パウダーを使った、やわらかいソフトタイプ（硬い板ではない）"
       - "厚さ5mm・60×40cmと70×50cm"
@@ -283,7 +283,7 @@ products:
       - "硬い珪藻土ほど吸わない、表面の生地がはがれたという声もある"
     recommendedFor: "珪藻土の冷たさや割れが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u2t0n.3rdw6d5c.g00u2t0n.3rdw74d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneo-lifestyle%2Fbmt001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneo-lifestyle%2Fi%2F10000083%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-lifestyle/cabinet/zaka01/09054478/09779292/bmt001.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-lifestyle/cabinet/zaka01/09054478/09779292/bmt001_cp.jpg?_ex=128x128"
     priceMax: 3480
     genreId: "100650"
 tags:

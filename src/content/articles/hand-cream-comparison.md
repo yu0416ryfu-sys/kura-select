@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 products:
   - rank: 1
     name: "ユースキン ハンドクリーム つけかえパウチ 180g"
@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4987353190618.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-19"
         price: 1211
-        rating: 4.67
-        reviewCount: 9
+        rating: 4.7
+        reviewCount: 10
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4987353190618"
         available: true
   - rank: 2
@@ -81,7 +81,7 @@ products:
     capacity: "35g"
     pricePerUnit: "約19円/g"
     rating: 4.52
-    reviewCount: 431
+    reviewCount: 432
     features:
       - "成分表示はシア脂のみの精製シアバター"
       - "無香料を含む複数の香りから選べる"
@@ -126,10 +126,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenman-hompo%2Fth003.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-19"
         price: 2500
         rating: 4.61
-        reviewCount: 378
+        reviewCount: 379
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenman-hompo_th003"
         available: true
     genreId: "304759"
@@ -182,12 +182,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F3303a.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-19"
         price: 253
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_3303a"
         available: true
-        rating: 4.25
-        reviewCount: 12
+        rating: 4.36
+        reviewCount: 14
     priceMax: 374
     genreId: "304759"
   - rank: 7
@@ -210,7 +210,7 @@ products:
       - "精油の香りがあり、仕事中は残り香が気になるという声がある"
     recommendedFor: "オーガニック・自然派コスメを好む方・ギフト用途を検討している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b072wnfzkl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000265%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/allna/top/905b072wnfzkl.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/905b072wnfzkl-20.jpg?_ex=128x128"
     priceMax: 4400
     genreId: "304759"
   - rank: 8
@@ -296,12 +296,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeautyhoney%2Fm-c-lt-040.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-19"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beautyhoney_m-c-lt-040"
         available: true
         rating: 4.69
-        reviewCount: 735
+        reviewCount: 736
     priceMax: 1480
     genreId: "304759"
 tags:

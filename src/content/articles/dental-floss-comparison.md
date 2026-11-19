@@ -4,7 +4,7 @@ description: "デンタルフロスを1回あたりのコストで比較した�
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 products:
   - rank: 1
     name: "REACH リーチ デンタルフロス 55ヤード 6個入り"
@@ -68,7 +68,7 @@ products:
     capacity: "30m×6個（360回）"
     pricePerUnit: "約4.4円/回"
     rating: 4.89
-    reviewCount: 136
+    reviewCount: 137
     features:
       - "マイクロファイバーを使ったロール型フロス"
       - "アンワックスとミントワックスがある"

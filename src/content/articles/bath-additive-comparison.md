@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バスク�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 products:
   - rank: 1
     name: "入浴剤 バラエティ詰め合わせ 100個セット"
@@ -36,7 +36,7 @@ products:
     capacity: "100個セット"
     pricePerUnit: "約40円/個"
     rating: 4.56
-    reviewCount: 9973
+    reviewCount: 9975
     features:
       - "日本製の入浴剤を100個詰め合わせた福袋"
       - "商品ページの区分は化粧品"
@@ -115,7 +115,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fearth2001%2Fwp-003.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 2139
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/earth2001_wp-003"
         available: true
@@ -149,7 +149,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flibertylife%2Fb-epsom-05.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/libertylife_b-epsom-05"
         available: true
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuisosum%2Fh-and-750.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 3800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/suisosum_h-and-750"
         available: true
@@ -256,7 +256,7 @@ products:
     price: 1300
     capacity: "26個"
     rating: 4.65
-    reviewCount: 142
+    reviewCount: 143
     features:
       - "1包20gの個包装バスパウダー（26個か400個を選ぶ）"
       - "ほんのり甘いいちごの香りとピンクレッドの湯色"
@@ -276,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F123636322.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 1300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_123636322"
         available: true

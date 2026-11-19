@@ -4,7 +4,7 @@ description: "おむつ・生ゴミ用の防臭袋おすすめ9選をコスパ�
 category: "deodorizing-bag"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 draft: false
 products:
   - rank: 1
@@ -48,7 +48,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.77
-    reviewCount: 838
+    reviewCount: 839
     features:
       - "本来は食パン用のポリプロピレン製袋"
       - "厚みのあるPP素材で口を結んで密閉しやすい"
@@ -68,10 +68,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamazenyamaya%2F49017554468143.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 1100
         rating: 4.86
-        reviewCount: 240
+        reviewCount: 241
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamazenyamaya_49017554468143"
         available: true
     genreId: "550088"
@@ -173,7 +173,7 @@ products:
     capacity: "100枚×2個（200枚）"
     pricePerUnit: "約9.1円/枚"
     rating: 4.86
-    reviewCount: 502
+    reviewCount: 503
     features:
       - "シリーズ最小クラスの寸法"
       - "2個パックで1つを持ち歩き用に分けられる構成"
@@ -193,7 +193,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b012a.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 1815
         rating: 4.91
         reviewCount: 138
@@ -227,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b002a.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 1909
         rating: 4.86
         reviewCount: 787
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnioi-byebye-shop%2Fsk6588.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 2227
         rating: 0
         reviewCount: 2
@@ -295,7 +295,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbos-shop%2Fbos-b003a.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 1375
         rating: 4.83
         reviewCount: 397

@@ -4,7 +4,7 @@ description: "ボディソープを1mLあたりのコストで比較。hadakara�
 category: "body-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-19"
 products:
   - rank: 1
     name: "hadakara ボディソープ 保湿+サラサラ仕上がりタイプ 詰め替え 大容量 800mL"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakakabeshop%2F4903301291305-12.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 7480
         rating: 0
         reviewCount: 1
@@ -43,7 +43,7 @@ products:
   - rank: 2
     name: "キュレル ボディウォッシュ ポンプ 420mL"
     brand: "花王（キュレル）"
-    price: 768
+    price: 767
     capacity: "420mL"
     pricePerUnit: "約1.8円/mL"
     rating: 4.62
@@ -158,7 +158,7 @@ products:
     capacity: "115g"
     pricePerUnit: "約12円/g"
     rating: 4.79
-    reviewCount: 357
+    reviewCount: 358
     features:
       - "ボディソープとして使える洗浄料"
       - "継続利用しやすい定番構成"
@@ -178,7 +178,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhealingvillage%2Fmndmrw-kbwt0.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-18"
         price: 1398
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/healingvillage_mndmrw-kbwt0"
         available: true
@@ -234,7 +234,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/1408417/"
         matchStatus: "matched"
-        updatedAt: "2026-10-26"
+        updatedAt: "2026-11-18"
         price: 609
         rating: 4.58
         reviewCount: 153

@@ -4,7 +4,7 @@ description: "柔軟剤を容量あたりの単価で徹底比較。消臭・香
 category: "fabric-softener"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 products:
   - rank: 1
     name: "ダウニー サンライズフレッシュ 4L×3本セット"
@@ -182,8 +182,8 @@ products:
     price: 1428
     capacity: "1500mL"
     pricePerUnit: "約0.95円/mL"
-    rating: 4.85
-    reviewCount: 91
+    rating: 4.84
+    reviewCount: 92
     features:
       - "香料・着色料・抗菌剤・シリコンを配合しない無添加設計"
       - "香りを付けない無香料タイプの濃縮柔軟剤"

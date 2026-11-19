@@ -4,7 +4,7 @@ description: "キッチンシンクの排水口ネット（水切りネット）
 category: "drain-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 draft: false
 products:
   - rank: 1
@@ -272,7 +272,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ax13762/"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-19"
         price: 698
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ax13762"
         available: true
@@ -300,13 +300,13 @@ products:
       - "深型の排水口にはサイズが合わない場合がある"
     recommendedFor: "台所と浴室の両方で使い分けたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0hgn.3rdw611d.g00u0hgn.3rdw71b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fla-kurasu%2Fbt-et-186930-10s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fla-kurasu%2Fi%2F10000124%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/la-kurasu/cabinet/item/maker_bonstar/imgrc0109734399.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/la-kurasu/cabinet/item/event/bt-et-186930-10s1121.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fstrade-web%2F3s450309-10m.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-19"
         price: 2200
         rating: 0
         reviewCount: 0

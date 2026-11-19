@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 products:
   - rank: 1
     name: "クリニカ アドバンテージ ハミガキ クールミント 130g×3本"
@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F65916.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 1322
         rating: 0
         reviewCount: 0
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/1898149/"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 740
         rating: 4.58
         reviewCount: 26
@@ -78,9 +78,9 @@ products:
   - rank: 3
     name: "キラルンペースト 100g"
     brand: "RUKEN"
-    price: 694
+    price: 649
     capacity: "100g"
-    pricePerUnit: "約6.9円/g"
+    pricePerUnit: "約6.5円/g"
     rating: 4.3
     reviewCount: 11092
     features:
@@ -97,13 +97,13 @@ products:
       - "泡が少なく、磨いた感じが物足りないという声がある"
     recommendedFor: "フッ素なしで、泡立ちの少ないペーストを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/paste_ok_08.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/50off_toothp_02.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F007.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 1298
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_007"
         available: true
@@ -162,7 +162,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F008.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-19"
         price: 1254
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_008"
         available: true
@@ -284,7 +284,7 @@ products:
       - "注文者の名前で発送されて驚いたという声がある"
     recommendedFor: "フッ素入りの薬用ペーストで着色の手入れも考えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b07qzwqjrm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/whith/top/00/906b07qzwqjrm.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/timesale/ts/906b07qzwqjrm-50.jpg?_ex=128x128"
     priceMax: 6840
     genreId: "204759"
   - rank: 10

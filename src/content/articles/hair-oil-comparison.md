@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-19"
 draft: false
 products:
   - rank: 1
@@ -166,7 +166,7 @@ products:
     price: 630
     capacity: "20mL"
     rating: 4.71
-    reviewCount: 2016
+    reviewCount: 2017
     features:
       - "全成分はホホバ種子油のみ。脱色せず脱臭したゴールデンタイプで、着色料・香料無添加、防腐剤フリー"
       - "20mLの遮光プラボトルから1000mLまで、サイズと容器を選べる"
@@ -190,7 +190,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4723
+    reviewCount: 4727
     features:
       - "ブランシュ・シトラスベール・ジャスミンドレなど、複数の香りから選べる"
       - "ヘアのほか、手・爪・体やバスオイルとしても使えるマルチユースオイル"
@@ -226,7 +226,7 @@ products:
     price: 1100
     capacity: "75mL"
     rating: 4.75
-    reviewCount: 2941
+    reviewCount: 2942
     features:
       - "水を加えないアウトバストリートメント。全成分の先頭はシクロペンタシロキサン・ジメチコンで、海藻エキスやオリーブ果実油を配合"
       - "無香料・無着色で、防腐剤無添加"
@@ -241,7 +241,7 @@ products:
       - "本体の容量によっては詰め替え1袋が入りきらないという声がある"
     recommendedFor: "髪が太くまとまりにくい人・しっとりした質感が好みの人・香り付きヘアオイルが苦手な人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pixzn.3rdw6fcd.g00pixzn.3rdw761f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fymsk%2F597910%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fymsk%2Fi%2F10000461%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymsk/cabinet/itemimg/thumb_logo/597910_1_2603.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ymsk/cabinet/itemimg/12091650/597910_1_2603.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
