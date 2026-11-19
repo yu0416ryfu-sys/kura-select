@@ -117,7 +117,7 @@ GSC にクエリが少ない記事は、購入者レビューとメーカーの 
 
 ## 7. 確認してデプロイする
 
-1. **事実の照合**: 別のサブエージェントに、本文の断定を §5 のファイルと出典に照らして確かめさせる。商品に関する記述、数値、薬機法に触れる表現を優先する。指摘を直す
+1. **事実の照合**: `../kura-article-create/references/article-research.md` §4 に従い（依頼文は同ファイル §6 の照合の雛形。収集ファイルは §5 で置いたファイル）、本文を書いていない別のサブエージェントに、本文の断定を §5 のファイルに付いた原文と照らして確かめさせる。商品に関する記述、数値、薬機法に触れる表現を優先する。指摘を直す
 2. `data/content-dates.json` があれば `pnpm content:stamp` を実行する。`pnpm test` と `pnpm build` を通す。`pnpm preview` の localhost で、幅 375px の表示（図・表のあふれ）を確認する
 3. `git status --short` と `git log origin/main..HEAD --oneline` を見る。**`git add` は対象ファイルを名指しする**（記事 MD・図・リンク元の記事・あれば `data/content-dates.json`）。ほかのセッションの作業を含めない
    - 件名は「<slug> に <何を> を加筆し、<是正内容> を是正」
