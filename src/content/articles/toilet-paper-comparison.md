@@ -43,9 +43,9 @@ products:
   - rank: 2
     name: "コアユース シングル 芯なし"
     brand: "コアユース"
-    price: 5440
+    price: 4950
     capacity: "170m×48ロール"
-    pricePerUnit: "約0.67円/m"
+    pricePerUnit: "約0.61円/m"
     rating: 4.52
     reviewCount: 2059
     features:
@@ -138,7 +138,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.73円/m"
     rating: 4.67
-    reviewCount: 2879
+    reviewCount: 2880
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
@@ -269,7 +269,7 @@ products:
   - rank: 9
     name: "スマートエール 消臭機能付き シングル 芯なし"
     brand: "アイリスプラザ"
-    price: 2981
+    price: 2880
     capacity: "250m×16ロール"
     rating: 4.6
     reviewCount: 450
@@ -287,7 +287,7 @@ products:
     recommendedFor: "省スペースで長巻きロールを備えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7253225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10216050%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11514673/7253225.jpg?_ex=128x128"
-    priceMax: 3780
+    priceMax: 3650
     genreId: "501098"
 tags:
   - "トイレットペーパー"

@@ -82,7 +82,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約6.5円/g"
     rating: 4.3
-    reviewCount: 11092
+    reviewCount: 11093
     features:
       - "炭酸カルシウムとヒドロキシアパタイトを研磨剤に使うペースト（化粧品）"
       - "フッ素とラウリル硫酸ナトリウムを使わない処方"
@@ -284,7 +284,7 @@ products:
       - "注文者の名前で発送されて驚いたという声がある"
     recommendedFor: "フッ素入りの薬用ペーストで着色の手入れも考えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b07qzwqjrm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/timesale/ts/906b07qzwqjrm-50.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20261119m/906b07qzwqjrm-50.jpg?_ex=128x128"
     priceMax: 6840
     genreId: "204759"
   - rank: 10

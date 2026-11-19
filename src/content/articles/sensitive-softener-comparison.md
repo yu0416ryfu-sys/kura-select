@@ -100,9 +100,9 @@ products:
   - rank: 4
     name: "ナイスアンドクイック ボタニカル 柔軟剤 詰替 ピュアコットンシャボンの香り 1320mL 2個セット"
     brand: "ナイスアンドクイック"
-    price: 2816
+    price: 2675
     capacity: "1320mL×2個"
-    pricePerUnit: "約1.1円/mL"
+    pricePerUnit: "約1.0円/mL"
     rating: 4.86
     reviewCount: 199
     features:

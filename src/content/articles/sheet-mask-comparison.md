@@ -156,6 +156,40 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/motebeauty/cabinet/i/17/3843.jpg?_ex=128x128"
     genreId: "503020"
   - rank: 6
+    name: "プリュ セラミド3GF ディープモイストマスク 21枚入×2"
+    brand: "PLuS"
+    price: 2080
+    capacity: "21枚×2袋（42枚）"
+    pricePerUnit: "約50円/枚"
+    rating: 4.54
+    reviewCount: 8518
+    features:
+      - "5種のヒト型セラミドなど12種の美容成分を配合と表示"
+      - "香料・パラベン・アルコールなど7つを使わない処方と表示"
+      - "横長ワイドのレーヨンシート。開封後90日以内が目安"
+    pros:
+      - "厚手で乾きにくく、液がたっぷりという声がある"
+      - "残った液を首や腕にも使えると案内している"
+      - "開封後の目安の日数が書かれていて、使い切る計画を立てやすい"
+    cons:
+      - "シートが硬く、浮いたりずり落ちたりするという声がある"
+      - "全成分にピーナッツ油を含むので、気になる人は成分を確かめたい"
+    recommendedFor: "液の多い厚手のマスクで、乾燥しやすい時期をしのぎたい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po0zn.3rdw627e.g00po0zn.3rdw7621/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fpdm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10005100%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/plus04/3gfmask02-2_off50.jpg?_ex=128x128"
+    genreId: "503020"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fluire%2Fpxed12.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-18"
+        price: 4160
+        rating: 4.61
+        reviewCount: 173
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/luire_pxed12"
+        available: true
+  - rank: 7
     name: "DERMAL エッセンスシートマスク 100枚 個包装"
     brand: "DERMAL"
     price: 5380
@@ -178,7 +212,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r97bn.3rdw60e8.g00r97bn.3rdw72a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-cueb%2Fdermal-100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-cueb%2Fi%2F10000020%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/a-cueb/cabinet/dermal/dermal100_sn.jpg?_ex=128x128"
     genreId: "503020"
-  - rank: 7
+  - rank: 8
     name: "ルルルン プレシャス GREEN 32枚入×2セット"
     brand: "ルルルン"
     price: 4400
@@ -201,40 +235,6 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F643924%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11411837%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/924/643924.jpg?_ex=128x128"
     genreId: "503020"
-  - rank: 8
-    name: "プリュ セラミド3GF ディープモイストマスク 21枚入×2"
-    brand: "PLuS"
-    price: 4160
-    capacity: "21枚×2袋（42枚）"
-    pricePerUnit: "約99円/枚"
-    rating: 4.54
-    reviewCount: 8518
-    features:
-      - "5種のヒト型セラミドなど12種の美容成分を配合と表示"
-      - "香料・パラベン・アルコールなど7つを使わない処方と表示"
-      - "横長ワイドのレーヨンシート。開封後90日以内が目安"
-    pros:
-      - "厚手で乾きにくく、液がたっぷりという声がある"
-      - "残った液を首や腕にも使えると案内している"
-      - "開封後の目安の日数が書かれていて、使い切る計画を立てやすい"
-    cons:
-      - "シートが硬く、浮いたりずり落ちたりするという声がある"
-      - "全成分にピーナッツ油を含むので、気になる人は成分を確かめたい"
-    recommendedFor: "液の多い厚手のマスクで、乾燥しやすい時期をしのぎたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po0zn.3rdw627e.g00po0zn.3rdw7621/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fpdm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10005100%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/plus04/3gfmask02-2_01.jpg?_ex=128x128"
-    genreId: "503020"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fluire%2Fpxed12.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-18"
-        price: 4160
-        rating: 4.61
-        reviewCount: 173
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/luire_pxed12"
-        available: true
 tags:
   - "シートマスク おすすめ"
   - "シートマスク 大容量"

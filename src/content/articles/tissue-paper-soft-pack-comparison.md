@@ -54,9 +54,9 @@ products:
   - rank: 2
     name: "ネピア ソフトパックティッシュ 240組 80パック（5パック×16個）"
     brand: "王子ネピア"
-    price: 7720
+    price: 7120
     capacity: "240組×80パック"
-    pricePerUnit: "約0.40円/組"
+    pricePerUnit: "約0.37円/組"
     rating: 5
     reviewCount: 1
     features:

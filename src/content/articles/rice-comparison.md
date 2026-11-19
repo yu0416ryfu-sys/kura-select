@@ -13,7 +13,7 @@ products:
     capacity: "10kg"
     pricePerUnit: "約418円/kg"
     rating: 4.39
-    reviewCount: 16102
+    reviewCount: 16101
     features:
       - "国内産の複数原料米（ブレンド米）"
       - "通常の精米（無洗米ではない）"
