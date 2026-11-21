@@ -35,6 +35,7 @@ import {
   SITE_URL,
 } from './lib/gsc-client.mjs';
 import { buildRevenueGroupStatus, earliestNeededDate } from './lib/revenue-groups.mjs';
+import { parseImprovementLog } from './lib/rotation-candidates.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -97,7 +98,7 @@ function countProductsFast(text) {
   return (fm.match(/^ {2}- rank:/gm) ?? []).length;
 }
 
-function loadArticles() {
+export function loadArticles() {
   const articles = [];
   for (const file of listArticleFiles(ARTICLES_DIR)) {
     const text = readFileSync(file, 'utf8');
@@ -230,26 +231,11 @@ function readJson(rel, fallback) {
   }
 }
 
-/** 改善ログの slug は「-comparison」を省いた短縮形なので記事 ID に寄せる */
-function resolveLogSlug(slug, ids) {
-  for (const candidate of [slug, `${slug}-comparison`]) if (ids.has(candidate)) return candidate;
-  for (const id of ids) if (id.endsWith(`/${slug}`)) return id;
-  return null;
-}
-
+// 改善ログのパース（slug の短縮形の寄せを含む）は scripts/lib/rotation-candidates.mjs へ移した
 function loadImprovementLog(ids) {
   const p = path.join(ROOT, 'docs/CONTENT_IMPROVEMENT_LOG.md');
   if (!existsSync(p)) return [];
-  const rows = [];
-  for (const line of readFileSync(p, 'utf8').split(/\r?\n/)) {
-    const cells = line.split('|').map((s) => s.trim());
-    // | 日付 | 記事 | 型 | 内容 | コミット | 登録リクエスト |
-    if (cells.length < 8 || !/^\d{4}-\d{2}-\d{2}$/.test(cells[1])) continue;
-    const id = resolveLogSlug(cells[2], ids);
-    if (!id) continue;
-    rows.push({ date: cells[1], id, type: cells[3], text: cells[4], request: cells[6] });
-  }
-  return rows;
+  return parseImprovementLog(readFileSync(p, 'utf8'), ids);
 }
 
 function buildLocalEvents(articles, today) {
@@ -397,7 +383,7 @@ async function collectInspection(auth, articles) {
 
 // ---------------------------------------------------------------- GA4
 
-async function collectGa4(start, end) {
+export async function collectGa4(start, end) {
   const resolved = resolveServiceAccountKey();
   if (!resolved) throw new Error(missingKeyMessage());
   const auth = new google.auth.GoogleAuth({
@@ -464,7 +450,8 @@ function parseWcfDate(value) {
   return new Date(Number(match[1])).toISOString().slice(0, 10);
 }
 
-async function collectBing(start, end) {
+/** GetPageStats の全行を { date, page, clicks, impressions } で返す（日付で切らない。date が読めない行は捨てる） */
+export async function fetchBingPageStatsRows() {
   const apiKey = process.env.BING_WEBMASTER_API_KEY;
   if (!apiKey) throw new Error('BING_WEBMASTER_API_KEY が未設定です（.env）');
   const url = new URL(`${BING_API_BASE}/GetPageStats`);
@@ -474,15 +461,28 @@ async function collectBing(start, end) {
   if (!res.ok) throw new Error(`Bing API GetPageStats が ${res.status} を返しました`);
   const json = await res.json();
   const rows = json?.d ?? json;
-  const out = new Map();
+  const out = [];
   for (const row of Array.isArray(rows) ? rows : []) {
     const date = parseWcfDate(row?.Date);
-    if (!date || date < start || date > end) continue;
-    const page = String(row.Query ?? row.Url ?? '');
-    const cur = out.get(page) ?? { clicks: 0, impressions: 0 };
-    cur.clicks += Number(row.Clicks ?? 0);
-    cur.impressions += Number(row.Impressions ?? 0);
-    out.set(page, cur);
+    if (!date) continue;
+    out.push({
+      date,
+      page: String(row.Query ?? row.Url ?? ''),
+      clicks: Number(row.Clicks ?? 0),
+      impressions: Number(row.Impressions ?? 0),
+    });
+  }
+  return out;
+}
+
+export async function collectBing(start, end) {
+  const out = new Map();
+  for (const row of await fetchBingPageStatsRows()) {
+    if (row.date < start || row.date > end) continue;
+    const cur = out.get(row.page) ?? { clicks: 0, impressions: 0 };
+    cur.clicks += row.clicks;
+    cur.impressions += row.impressions;
+    out.set(row.page, cur);
   }
   return out;
 }
@@ -1125,7 +1125,12 @@ details.plan > summary .meta { font-weight: 400; margin-left: 8px; }
 `;
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exit(1);
-});
+// import されたときは main を走らせない（scripts/rotation-candidates.mjs が関数だけを使う）。
+// 小文字化は Windows のドライブ文字（c: / C:）の違いで起動しなくなるのを防ぐため
+const invokedPath = process.argv[1] ? path.resolve(process.argv[1]) : '';
+if (invokedPath.toLowerCase() === fileURLToPath(import.meta.url).toLowerCase()) {
+  main().catch((error) => {
+    console.error(error);
+    process.exit(1);
+  });
+}

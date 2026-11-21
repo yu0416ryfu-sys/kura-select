@@ -1,0 +1,8 @@
+{
+  "readme": "記事の入れ替えの季節品リスト（入れ替え計画書 docs/IMPLEMENTATION_PLAN_ARTICLE_ROTATION_2026-10-13.md §2.2 から 2026-11-21 に移した。正はこのファイル）。pnpm rotation:candidates が M3（保留）の判定に読む。外す判断は removeJudge の月次に、需要月の全期間で行う。季節品の noindex はユーザー確認が必須。",
+  "items": [
+    { "slug": "father-day-gift-comparison", "demandMonths": [5, 6], "prepDate": "03-01", "removeJudge": "7月の第1月曜" },
+    { "slug": "mosquito-repellent-liquid-comparison", "demandMonths": [4, 5, 6, 7, 8], "prepDate": "02-01", "removeJudge": "9月の第1月曜" },
+    { "slug": "portable-toilet-comparison", "demandMonths": [7, 8], "prepDate": "05-01", "removeJudge": "9月の第1月曜", "note": "8月の送客全体の17%を出した記事" }
+  ]
+}

@@ -112,6 +112,7 @@ pnpm test                   # Vitest（変更後は必ずグリーンを確認�
 pnpm update-products        # 楽天 API から商品データを更新（:dry で dry-run）
 pnpm check-additions        # 商品追加候補レポート
 pnpm check-replacements     # 商品入れ替え候補レポート
+pnpm rotation:candidates    # 記事の入れ替えで外す記事の候補（M0〜M4）を reports/rotation/ に出す（読むだけ）
 pnpm check-internal-links   # 内部リンク点検（凍結台帳を参照）
 pnpm inject-faqs            # frontmatter の faqs を反映
 pnpm export-ai-rag          # data/rag/ を再生成

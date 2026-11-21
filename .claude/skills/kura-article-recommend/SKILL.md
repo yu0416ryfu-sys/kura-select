@@ -19,6 +19,7 @@ KuraSelectの新規比較記事候補を、思いつきではなく既存コン�
 5. `reports/addition-candidates-*.md` / `reports/addition-urls-*.md` / `reports/toAI/` は最新または関連ジャンルだけを確認する。`reports/` はコミット対象外なので編集しない。
 6. **GSC で需要を実測する。** `mcp__gsc__gsc_search_analytics` を `dimensions:["query"]`・`rowLimit: 5000`・直近28日で投げ（既定の100行だと少ない表示のクエリが落ちる。返った行が5000ちょうどなら打ち切りの可能性を提案に書く）、候補ジャンルの指名クエリが既存記事で表示を拾っているかを見る（窓の終端は `dimensions:["date"]` で実測した確定日まで。CLAUDE.md §5.0.2 のルール1）。最新の `reports/gsc-harvest/harvest-*.md` があれば先に読む。
 7. `docs/CONTENT_IMPROVEMENT_LOG.md` §4（新規記事の種）で判断が「kura-article-recommend へ回す」の種を見る（`kura-trend-topics` が記録する SNS・世間の話題由来のジャンル）。**既存の採択基準（vs 記事の2条件・vs 以外は表示30以上・受け皿が無ければ0扱い）と月の新規枠はそのまま適用し、種であることを理由に基準を緩めない。** 受け皿の無い話題は表示が立たず本線では見送りになるのが普通で、種は需要が育ったジャンルを見逃さないための記録にすぎない。本線で落ちた種は、下の「試験枠」の条件で別に評価してよい（試験枠の条件も緩めない）。docs/ が無い環境（別 PC）では飛ばしてよい。
+8. `docs/ROTATION_LESSONS.md`（記事の入れ替えの教訓。`kura-article-rotation` が書く）があれば読み、候補の「注意点」に関係する教訓を書く。**教訓を理由に基準を緩めない**（基準の見直しは `kura-article-rotation` §10 でユーザーが決める）。docs/ が無い環境では飛ばしてよい。
 
 ## vs 記事（ブランド一騎打ち）の採択基準（必須）
 

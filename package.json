@@ -37,6 +37,7 @@
     "gsc:harvest": "node --experimental-strip-types scripts/gsc-harvest.mjs",
     "gsc:appearance": "node --experimental-strip-types scripts/search-appearance-check.mjs",
     "article-dashboard": "node scripts/article-dashboard.mjs",
+    "rotation:candidates": "node --experimental-strip-types scripts/rotation-candidates.mjs",
     "weekly:snapshot": "node --experimental-strip-types scripts/weekly-snapshot.mjs",
     "search-status": "node --experimental-strip-types scripts/google-search-status.mjs",
     "cohort:crawl-check": "node --experimental-strip-types scripts/cohort-crawl-check.mjs",
