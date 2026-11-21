@@ -22,6 +22,7 @@ import {
   classifyRotationCandidates,
   parseImprovementLog,
   parseRecoverPending,
+  parseTrialFailures,
   selectLatestBingWeeks,
   sumByArticleId,
 } from './lib/rotation-candidates.mjs';
@@ -68,7 +69,10 @@ function renderMarkdown(payload) {
   lines.push(
     `- Bing: ${payload.windows.bing.weeks.length ? payload.windows.bing.weeks.join('・') : 'なし'} の週（${payload.windows.bing.weeks.length} 週${payload.windows.bing.scale && payload.windows.bing.scale !== 1 ? `・4週あたりに ×${payload.windows.bing.scale.toFixed(2)} で換算` : ''}）`,
   );
-  lines.push(`- 対象: 公開 ${payload.rules.minAgeDays} 日以上・GSC 表示 ${payload.rules.maxImpressions} 未満・noindex でない`, '');
+  lines.push(
+    `- 対象: 公開 ${payload.rules.minAgeDays} 日以上（試験枠で2週判定が ❌・暫定でない記事は ${payload.rules.trialFailedMinAgeDays} 日以上）・GSC 表示 ${payload.rules.maxImpressions} 未満・noindex でない`,
+    '',
+  );
   if (payload.warnings.length) {
     lines.push('## 警告', '');
     for (const w of payload.warnings) lines.push(`- ${w}`);
@@ -169,6 +173,12 @@ async function main() {
     warnings.push('docs/CONTENT_IMPROVEMENT_LOG.md がありません（全行を判定保留にしました）');
   }
 
+  // 試験枠で2週判定が ❌（暫定でない）の記事は公開28日から対象にする。ログが無ければ通常の60日に戻るだけ
+  const rotationLogPath = path.join(ROOT, 'docs/ROTATION_LOG.md');
+  let trialFailed = new Set();
+  if (existsSync(rotationLogPath)) trialFailed = parseTrialFailures(readFileSync(rotationLogPath, 'utf8'));
+  else warnings.push('docs/ROTATION_LOG.md がありません（試験枠の28日の条件を使わず、全記事を公開60日で見ました）');
+
   const rows = classifyRotationCandidates({
     today,
     articles,
@@ -180,6 +190,7 @@ async function main() {
     seasonal,
     improvements,
     recoverPending,
+    trialFailed,
   });
 
   const payload = {
@@ -187,7 +198,7 @@ async function main() {
     today,
     confirmed,
     windows: { gsc: `${start}〜${confirmed}`, ga4: `${start}〜${confirmed}`, bing: bingWindow },
-    rules: { minAgeDays: 60, maxImpressions: 10, bingAddThreshold: 100 },
+    rules: { minAgeDays: 60, trialFailedMinAgeDays: 28, maxImpressions: 10, bingAddThreshold: 100 },
     missing: {
       ga4: outbound === null,
       bing: bingImpressions === null,

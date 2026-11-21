@@ -11,6 +11,8 @@ export const ROTATION_MIN_AGE_DAYS = 60; // 公開から60日以上
 export const ROTATION_MAX_IMPRESSIONS = 10; // GSC 28日の表示が10未満
 export const ROTATION_BING_ADD_THRESHOLD = 100; // M2: Bing 4週の表示 ≥ 100
 export const ROTATION_RECENT_IMPROVEMENT_DAYS = 28; // M0: 加筆から28日以内
+// 試験枠で2週判定が ❌（暫定でない）の記事は、公開28日から対象にする（2026-11-21 ユーザー決定・案B）
+export const ROTATION_TRIAL_FAILED_MIN_AGE_DAYS = 28;
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 
@@ -78,6 +80,31 @@ export function parseRecoverPending(text, ids) {
 }
 
 /**
+ * docs/ROTATION_LOG.md の「**新規記事**」の表から、試験枠で2週判定が ❌ かつ暫定でない記事 ID を返す。
+ * 表の列: | 公開日 | 記事 | 型 | 採択時の表示・測ったクエリ | 2週後の順位帯 |
+ * 暫定（コアアップデートと重なった判定）は取り直して確定するまで早く外さない。
+ * 表が見つからなければ空の Set（公開60日の通常の条件に戻るだけで、早く外す向きには働かない）。
+ */
+export function parseTrialFailures(text) {
+  const out = new Set();
+  const lines = String(text ?? '').split(/\r?\n/);
+  const start = lines.findIndex((line) => line.trim() === '**新規記事**');
+  if (start < 0) return out;
+  for (let i = start + 1; i < lines.length; i += 1) {
+    const line = lines[i].trim();
+    if (line.startsWith('**') || /^#/.test(line)) break; // 次の表・節に入ったら終わり
+    if (!line.startsWith('|')) continue;
+    const cells = line.split('|').map((s) => s.trim());
+    const slug = cells[2]?.match(/^`([^`]+)`$/)?.[1];
+    if (!slug) continue;
+    const type = cells[3] ?? '';
+    const verdict = cells[5] ?? '';
+    if (type.includes('試験枠') && verdict.startsWith('❌') && !verdict.includes('暫定')) out.add(slug);
+  }
+  return out;
+}
+
+/**
  * GSC の page・GA4 の pagePath・Bing のページ URL を記事 ID に寄せて合計する。
  * 絶対 URL（http/https・www の有無）とパスを受け付け、`#` 以降・`?` 以降・末尾スラッシュを落とす。
  * `reviews/` 配下の ID はそのまま残す。記事 URL でない行は捨てる。
@@ -125,6 +152,7 @@ export function selectLatestBingWeeks(rows, confirmedDate, n = 4) {
  * @param {Set<string>} input.seasonal                 data/rotation-seasonal.json
  * @param {{ id: string, date: string }[] | null} input.improvements  null＝改善ログなし
  * @param {Set<string> | null} input.recoverPending    null＝改善ログなし
+ * @param {Set<string>} [input.trialFailed]            試験枠で2週判定が ❌（暫定でない）。公開28日から対象にする
  * @returns {object[]} 対象の行だけ。GSC の表示の少ない順
  */
 export function classifyRotationCandidates(input) {
@@ -139,6 +167,7 @@ export function classifyRotationCandidates(input) {
     seasonal,
     improvements,
     recoverPending,
+    trialFailed = new Set(),
   } = input;
   const recentFrom = addDays(today, -ROTATION_RECENT_IMPROVEMENT_DAYS);
   const lastImprovement = new Map();
@@ -155,7 +184,8 @@ export function classifyRotationCandidates(input) {
     if (gsc >= ROTATION_MAX_IMPRESSIONS) continue;
     if (noindexed.has(id)) continue;
     // 公開日なしは年齢の条件を飛ばして対象に入れ、下で hold にする
-    if (ageDays !== null && ageDays < ROTATION_MIN_AGE_DAYS) continue;
+    const minAge = trialFailed.has(id) ? ROTATION_TRIAL_FAILED_MIN_AGE_DAYS : ROTATION_MIN_AGE_DAYS;
+    if (ageDays !== null && ageDays < minAge) continue;
 
     const bing = bingImpressions === null ? null : bingImpressions.has(id) ? bingImpressions.get(id) : '行なし';
     const row = {
@@ -168,6 +198,7 @@ export function classifyRotationCandidates(input) {
       verdict: '',
       reason: '',
       verdictIfBingZero: null,
+      trialFailed: trialFailed.has(id),
     };
     const set = (verdict, reason) => {
       row.verdict = verdict;

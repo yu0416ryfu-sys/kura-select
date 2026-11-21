@@ -4,6 +4,7 @@ import {
   classifyRotationCandidates,
   parseImprovementLog,
   parseRecoverPending,
+  parseTrialFailures,
   resolveLogSlug,
   selectLatestBingWeeks,
   sumByArticleId,
@@ -44,6 +45,38 @@ describe("classifyRotationCandidates: 対象の条件", () => {
   });
   it("noindex 済みは返さない", () => {
     expect(classifyRotationCandidates(baseInput({ noindexed: new Set(["a-comparison"]) }))).toHaveLength(0);
+  });
+  it("試験枠で ❌ の記事は公開27日は返さない／28日は返す（ほかの記事は60日のまま）", () => {
+    const at = (days: number, trialFailed: Set<string>) =>
+      classifyRotationCandidates(baseInput({ articles: [{ id: "a-comparison", publishedAt: addDays(TODAY, -days) }], trialFailed }));
+    expect(at(27, new Set(["a-comparison"]))).toHaveLength(0);
+    const [row] = at(28, new Set(["a-comparison"]));
+    expect(row.verdict).toBe("M4");
+    expect(row.trialFailed).toBe(true);
+    expect(at(28, new Set())).toHaveLength(0);
+  });
+});
+
+describe("parseTrialFailures", () => {
+  const text = [
+    "**新規記事**",
+    "| 公開日 | 記事 | 型 | 採択時の表示・測ったクエリ | 2週後の順位帯 |",
+    "|---|---|---|---|---|",
+    "| 10-14 | `paper-towel-comparison` | 比較記事（前借り） | 未測定 | ❌未離陸（境界） |",
+    "| 10-25 | `water-filter-cartridge-comparison` | 比較記事（試験枠） | なし | ❌未離陸（0行） |",
+    "| 11-02 | `sheet-mask-comparison` | 比較記事（試験枠） | なし | ❌未離陸・⚠️暫定（取り直し） |",
+    "| 11-02 | `baby-formula-comparison` | 比較記事（試験枠） | なし | ✅離陸・⚠️暫定 |",
+    "| 11-12 | `lip-balm-comparison` | 比較記事（試験枠・11月3本目） | なし | 11-28 判定 |",
+    "**外した記事**",
+    "| 実施日 | 記事 | 区分 | 備考 |",
+    "|---|---|---|---|",
+    "| 10-17 | `razor-comparison` | 試験枠 | ❌ |",
+  ].join("\n");
+  it("試験枠・❌・暫定でない記事だけを返し、次の表は読まない", () => {
+    expect([...parseTrialFailures(text)]).toEqual(["water-filter-cartridge-comparison"]);
+  });
+  it("表が無ければ空の Set", () => {
+    expect(parseTrialFailures("# なし").size).toBe(0);
   });
 });
 
