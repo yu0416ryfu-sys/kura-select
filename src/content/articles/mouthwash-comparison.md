@@ -7,13 +7,13 @@ articleType: "comparison"
 updatedAt: "2026-11-22"
 products:
   - rank: 1
-    name: "リステリン トータルケアプラス クリーンミント"
+    name: "薬用リステリン トータルケアプラス 1000mL×4本"
     brand: "LISTERINE（リステリン）"
-    price: 5965
-    capacity: "6000ml"
-    pricePerUnit: "約0.99円/ml"
-    rating: 4.78
-    reviewCount: 368
+    price: 3400
+    capacity: "1000mL×4本（4000mL）"
+    pricePerUnit: "約0.85円/mL"
+    rating: 5
+    reviewCount: 3
     features:
       - "多機能タイプの薬用マウスウォッシュ"
       - "クリーンミント味の液体タイプ"
@@ -26,8 +26,8 @@ products:
       - "刺激が強めで人によって好みが分かれる"
       - "大容量で保管スペースを取りやすい"
     recommendedFor: "多機能タイプをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F70697%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10924600%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/697/70697.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u679n.3rdw6354.g00u679n.3rdw7de8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmart-in%2F4901730250054-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmart-in%2Fi%2F10021520%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mart-in/cabinet/sku-pro_04/4901730250054-001.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -41,39 +41,38 @@ products:
         available: true
     genreId: "208265"
   - rank: 2
-    name: "薬用リステリン トータルケアゼロプラス ノンアルコール 1000mL×6本"
+    name: "薬用リステリン トータルケアプラス 1000mL"
     brand: "ジョンソン・エンド・ジョンソン（リステリン）"
-    price: 5965
-    capacity: "1000mL×6本（6000mL）"
-    pricePerUnit: "約0.99円/mL"
-    rating: 4.76
-    reviewCount: 261
+    price: 896
+    capacity: "1000mL"
+    pricePerUnit: "約0.90円/mL"
+    rating: 5
+    reviewCount: 3
     features:
-      - "ノンアルコール処方で刺激を抑えながら殺菌"
-      - "バクテリアフィルムに作用する7種の機能性成分配合"
-      - "クリーンミントの爽快な後味"
+      - "4種のエッセンシャルオイルを有効成分とする薬用洗口液"
+      - "口臭・歯肉炎の予防など複数の目的に使える多機能タイプ"
+      - "液体だから歯ブラシが届かない場所もケア"
     pros:
-      - "刺激が苦手な方もリステリンの殺菌力を体感できる"
-      - "6本まとめ買いで長期間の使用コストを抑えられる"
-      - "リステリンブランドの信頼性とノンアルコールの低刺激を両立"
+      - "1000mLの単品なので、まとめ買い前のお試しにも向く"
+      - "エッセンシャルオイル配合の定番ブランド"
+      - "1本単位で買えるので保管場所を取りにくい"
     cons:
-      - "アルコール配合タイプと比べると爽快感がやや控えめ"
-      - "6本セットのため保管スペースが必要"
-    recommendedFor: "リステリンを試したいがアルコール刺激が不安な方・まとめ買いでコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F70696%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10924599%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/696/70696.jpg?_ex=128x128"
+      - "刺激が強く、初心者には辛い"
+      - "アルコール配合で口が乾燥しやすい"
+    recommendedFor: "口臭・虫歯予防を徹底したい方・刺激に慣れている方・コスパ重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pukun.3rdw6576.g00pukun.3rdw7b9c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpureco%2Fprc-s-8650620476%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpureco%2Fi%2F10086144%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pureco/cabinet/prc-s-865000/prc-s-8650620476.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F89403.html"
-        matchStatus: "review"
-        updatedAt: "2026-08-09"
-        price: 4021
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_89403"
-        available: false
-        rating: 5
-        reviewCount: 5
-        matchNotes: "capacity不一致: capacity不一致"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180740-6.html"
+        matchStatus: "matched"
+        updatedAt: "2026-10-27"
+        price: 5098
+        rating: 4.63
+        reviewCount: 8
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4901730180740-6"
+        available: true
     genreId: "208265"
   - rank: 3
     name: "モンダミン プレミアムケア ゴールドミント"
@@ -144,38 +143,39 @@ products:
         reviewCount: 0
     genreId: "208265"
   - rank: 5
-    name: "薬用リステリン トータルケアプラス クリーンミント味 1000mL"
+    name: "薬用リステリン トータルケアゼロプラス 1000mL×6本"
     brand: "ジョンソン・エンド・ジョンソン（リステリン）"
-    price: 1235
-    capacity: "1000mL"
+    price: 7267
+    capacity: "1000mL×6本（6000mL）"
     pricePerUnit: "約1.2円/mL"
-    rating: 4.44
-    reviewCount: 78
+    rating: 3
+    reviewCount: 2
     features:
-      - "4種のエッセンシャルオイルを有効成分とする薬用洗口液"
-      - "口臭・歯肉炎の予防など複数の目的に使える多機能タイプ"
-      - "液体だから歯ブラシが届かない場所もケア"
+      - "ノンアルコール処方で刺激を抑えながら殺菌"
+      - "バクテリアフィルムに作用する7種の機能性成分配合"
+      - "クリーンミントの爽快な後味"
     pros:
-      - "1000mLの単品なので、まとめ買い前のお試しにも向く"
-      - "エッセンシャルオイル配合の定番ブランド"
-      - "1本単位で買えるので保管場所を取りにくい"
+      - "刺激が苦手な方もリステリンの殺菌力を体感できる"
+      - "6本まとめ買いで長期間の使用コストを抑えられる"
+      - "リステリンブランドの信頼性とノンアルコールの低刺激を両立"
     cons:
-      - "刺激が強く、初心者には辛い"
-      - "アルコール配合で口が乾燥しやすい"
-    recommendedFor: "口臭・虫歯予防を徹底したい方・刺激に慣れている方・コスパ重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901730160476%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10784829%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/476/4901730160476.jpg?_ex=128x128"
+      - "アルコール配合タイプと比べると爽快感がやや控えめ"
+      - "6本セットのため保管スペースが必要"
+    recommendedFor: "リステリンを試したいがアルコール刺激が不安な方・まとめ買いでコストを抑えたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901730160766-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10652354%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/201806a/4901730160766.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180740-6.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-27"
-        price: 5098
-        rating: 4.63
-        reviewCount: 8
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4901730180740-6"
-        available: true
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F89403.html"
+        matchStatus: "review"
+        updatedAt: "2026-08-09"
+        price: 4021
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_89403"
+        available: false
+        rating: 5
+        reviewCount: 5
+        matchNotes: "capacity不一致: capacity不一致"
     genreId: "208265"
   - rank: 6
     name: "システマ EX デンタルリンス"

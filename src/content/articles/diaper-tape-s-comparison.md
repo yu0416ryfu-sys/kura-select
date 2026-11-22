@@ -41,13 +41,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_hk42805"
         available: true
   - rank: 2
-    name: "ムーニー マシュマロ肌ごこち テープ Sサイズ 大容量"
+    name: "ムーニー マシュマロ肌ごこち テープ Sサイズ 70枚×4袋"
     brand: "ユニ・チャーム（ムーニー）"
-    price: 7084
-    capacity: "70枚×4パック"
+    price: 6920
+    capacity: "70枚×4袋（280枚）"
     pricePerUnit: "約25円/枚"
-    rating: 4.58
-    reviewCount: 55
+    rating: 5
+    reviewCount: 1
     features:
       - "マシュマロのようなやさしい肌触り"
       - "モレ安心設計でテープタイプの安心感"
@@ -60,8 +60,8 @@ products:
       - "単品と比べると割高の場合がある"
       - "在庫スペースの確保が必要"
     recommendedFor: "ムーニーブランドを愛用している家庭・大量買いで在庫確保したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F100642%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10001856%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/moony/100642.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uwbxn.3rdw670f.g00uwbxn.3rdw7299/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaikichi0713%2Fmny-tape%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaikichi0713%2Fi%2F10000000%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daikichi0713/cabinet/imgrc0132255856.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -73,7 +73,7 @@ products:
         available: true
         rating: 4.75
         reviewCount: 56
-    genreId: "205198"
+    genreId: "551689"
   - rank: 3
     name: "ムーニー マシュマロ肌ごこち モレ安心 テープ S 70枚"
     brand: "ユニ・チャーム（ムーニー）"

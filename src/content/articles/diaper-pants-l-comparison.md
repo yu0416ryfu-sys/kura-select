@@ -1,6 +1,6 @@
 ---
-title: "パンツ型おむつ Lサイズ おすすめ7選【2026年】1枚単価で比較"
-description: "パンツ型おむつのLサイズおすすめ7選を1枚あたりの価格で比較。使用期間が長いLサイズのまとめ買いの考え方、保育園用の選び方、フィット調整のコツを解説します。"
+title: "パンツ型おむつ Lサイズ おすすめ6選【2026年】1枚単価で比較"
+description: "パンツ型おむつのLサイズおすすめ6選を1枚あたりの価格で比較。使用期間が長いLサイズのまとめ買いの考え方、保育園用の選び方、フィット調整のコツを解説します。"
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
@@ -144,40 +144,6 @@ products:
         available: true
     genreId: "205198"
   - rank: 5
-    name: "パンパース パンツ さらさらケア スーパージャンボ L 44枚×4袋"
-    brand: "P&G（パンパース）"
-    price: 7791
-    capacity: "44枚×4袋（176枚）"
-    pricePerUnit: "約44円/枚"
-    rating: 4.53
-    reviewCount: 57
-    features:
-      - "9〜14kgのLサイズ帯に対応"
-      - "男女共用の吸収体配置"
-      - "単袋で扱いやすいスーパージャンボ"
-    pros:
-      - "1袋から試しやすい"
-      - "保管場所を取りにくい"
-      - "他ラインとの比較に使いやすい"
-    cons:
-      - "まとめ買いより1枚あたりの負担が大きい"
-      - "買い足しの頻度が上がる"
-    recommendedFor: "まずは1袋でブランドを試したいLサイズ帯の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhson.3rdw6ad0.g00qhson.3rdw7574/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperkid%2F4902430148887-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuperkid%2Fi%2F10022840%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/superkid/cabinet/04424974/imgrc0145070191.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4902430148887.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-25"
-        price: 1848
-        rating: 4.63
-        reviewCount: 27
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4902430148887"
-        available: true
-    genreId: "205198"
-  - rank: 6
     name: "ナチュラルムーニーマン パンツ Lサイズ"
     brand: "ナチュラルムーニー（ユニ・チャーム）"
     price: 6947
@@ -211,7 +177,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903111243099x4"
         available: true
     genreId: "205198"
-  - rank: 7
+  - rank: 6
     name: "メリーズ パンツ ファーストプレミアム Lサイズ"
     brand: "花王（メリーズ）"
     price: 1807

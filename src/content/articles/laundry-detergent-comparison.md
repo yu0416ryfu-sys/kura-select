@@ -41,13 +41,13 @@ products:
         reviewCount: 13
     genreId: "210182"
   - rank: 2
-    name: "トップ クリアリキッド抗菌 詰替 超特大 900g×6個セット"
+    name: "トップ クリアリキッド抗菌 詰替 超特大 900g×12個"
     brand: "トップ（ライオン）"
-    price: 3280
-    capacity: "900g×6個"
-    pricePerUnit: "約0.61円/g"
-    rating: 4.75
-    reviewCount: 4
+    price: 6000
+    capacity: "900g×12個（10800g）"
+    pricePerUnit: "約0.56円/g"
+    rating: 5
+    reviewCount: 5
     features:
       - "液体タイプの衣料用洗剤"
       - "抗菌・部屋干し向けをうたう商品"
@@ -60,8 +60,8 @@ products:
       - "複数袋分の置き場所が必要"
       - "香りが控えめなので、香りを重視する方には物足りないことがある"
     recommendedFor: "部屋干しが多く、香りより抗菌を優先してまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00us33n.3rdw6ffe.g00us33n.3rdw7df9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsskikaku%2F4903301365570-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsskikaku%2Fi%2F10000023%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sskikaku/cabinet/imgrc0122421950.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.3rdw6eed.g00s0vmn.3rdw7144/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4903301365570-12%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10175198%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/lion/4903301365570-12_00.jpg?_ex=128x128"
     genreId: "210182"
   - rank: 3
     name: "アタック 高活性バイオパワー つめかえ用 750g×8パック"
@@ -155,13 +155,13 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nicobase_2nico-4987176352453"
         available: true
   - rank: 6
-    name: "アリエール 液体 詰め替え 超ジャンボ 1000g×3袋"
+    name: "アリエールミライ 超濃縮 詰め替え 超ジャンボ 800g×3個"
     brand: "アリエール（P&G）"
-    price: 4910
-    capacity: "1000g×3袋（3000g）"
-    pricePerUnit: "約1.6円/g"
-    rating: 4.4
-    reviewCount: 5
+    price: 6100
+    capacity: "800g×3個（2400g）"
+    pricePerUnit: "約2.5円/g"
+    rating: 5
+    reviewCount: 4
     features:
       - "液体タイプの衣料用洗剤"
       - "超ジャンボサイズの詰め替え用を複数袋まとめた構成"
@@ -174,8 +174,8 @@ products:
       - "複数袋分の置き場所が必要"
       - "選ぶタイプによって香りや得意な汚れが違う"
     recommendedFor: "家族の洗濯物が多く、定番の液体洗剤をまとめて買っておきたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7260888%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10217200%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/7280525.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7267707%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10220286%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11514673/imgrc0098684912.jpg?_ex=128x128"
     genreId: "210182"
     offers:
       - provider: "yahoo"

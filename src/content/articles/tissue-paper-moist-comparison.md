@@ -264,8 +264,8 @@ products:
     price: 798
     capacity: "2個パック"
     pricePerUnit: "約399円/個"
-    rating: 4.74
-    reviewCount: 163
+    rating: 4.72
+    reviewCount: 164
     features:
       - "ティッシュペーパー本体のまとめ買い候補"
       - "箱タイプまたはソフトパックで選べる"

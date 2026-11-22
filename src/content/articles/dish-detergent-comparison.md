@@ -166,12 +166,12 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/030/405030.jpg?_ex=128x128"
     genreId: "216012"
   - rank: 6
-    name: "食器用洗剤 JOY キッチン用洗剤 プロフェッショナル 除菌ジョイコンパクト 業"
+    name: "ジョイ プロフェッショナル 除菌ジョイコンパクト 業務用 4L"
     brand: "P&G（ジョイ）"
     price: 2810
     capacity: "4L"
-    rating: 4.76
-    reviewCount: 68
+    rating: 4.41
+    reviewCount: 37
     features:
       - "コンパクト処方で少量でもよく落ちる"
       - "食洗機非対応・手洗い専用設計"
@@ -184,8 +184,8 @@ products:
       - "キュキュットより若干価格が高め"
       - "香りが強めと感じる方も"
     recommendedFor: "洗浄力最優先の方・油の多い料理をする方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7269456%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10221021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasyakura/7269456.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7269456%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10092406%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09344783/7269456.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

@@ -1,6 +1,6 @@
 ---
 title: "食器用スポンジ・キッチンスポンジ コスパ比較【2026年版】1個単価と耐久性"
-description: "食器用スポンジ・キッチンスポンジを1個あたりで比較。ダスキン、パックス、マーナなど7選を耐久性・泡立ち・交換頻度で整理し、食器洗い用に選びやすく解説します。"
+description: "食器用スポンジ・キッチンスポンジを1個あたりで比較。ダスキン、パックス、マーナなど6選を耐久性・泡立ち・交換頻度で整理し、食器洗い用に選びやすく解説します。"
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
@@ -133,40 +133,6 @@ products:
         available: true
     genreId: "401520"
   - rank: 5
-    name: "LA CORVETTE ベジタブルスポンジ 3個入り"
-    brand: "LA CORVETTE"
-    price: 880
-    capacity: "3個"
-    pricePerUnit: "約293円/個"
-    rating: 4.49
-    reviewCount: 37
-    features:
-      - "再生木材由来のセルロース素材でノンケミカル設計"
-      - "ザラザラ面で食器の汚れを効率よく除去できる"
-      - "プラスチック不使用のエコロジカルなスポンジ"
-    pros:
-      - "天然素材で環境負荷を最小限に抑えられる"
-      - "吸水性と耐久性を両立した実用的な設計"
-      - "3個入りで衛生的な頻繁な交換がしやすい"
-    cons:
-      - "ザラザラ面でデリケートなコーティングを傷つけないよう注意が必要"
-      - "価格はページ確認が必要"
-    recommendedFor: "自然派志向の方・プラスチックフリーの生活を実践したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf6in.3rdw6cdf.g00qf6in.3rdw72b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmugigokoro%2F3182614073001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmugigokoro%2Fi%2F10003672%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mugigokoro/cabinet/lacorvette/lacor-vegesp-700.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funmaison%2F19311003.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-27"
-        price: 880
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/unmaison_19311003"
-        available: true
-        rating: 0
-        reviewCount: 1
-    genreId: "401520"
-  - rank: 6
     name: "マーナ おさかなスポンジ 選べる5個セット"
     brand: "MARNA（マーナ）"
     price: 1683
@@ -200,7 +166,7 @@ products:
         rating: 4.65
         reviewCount: 20
     genreId: "401520"
-  - rank: 7
+  - rank: 6
     name: "サンサンスポンジ 8個セット"
     brand: "ダイニチ"
     price: 2765

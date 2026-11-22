@@ -8,13 +8,13 @@ updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
-    name: "ペットシーツ 薄型 レギュラー 業務用"
+    name: "モビィ 超薄型 ペットシーツ レギュラー 1200枚"
     brand: "HAMI PET"
-    price: 5980
-    capacity: "レギュラー 1200枚（100枚×12パック）"
-    pricePerUnit: "約5.0円/枚"
-    rating: 4.61
-    reviewCount: 1566
+    price: 4780
+    capacity: "レギュラー 1200枚"
+    pricePerUnit: "約4.0円/枚"
+    rating: 4.65
+    reviewCount: 626
     features:
       - "薄型のペット用トイレシート"
       - "パック分けされたまとめ買い向け仕様"
@@ -27,8 +27,8 @@ products:
       - "保管場所をあらかじめ確保したい"
       - "吸収量を優先する場合は厚型も比較したい"
     recommendedFor: "交換頻度が高く、まとめてストックしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u5tcn.3rdw6b04.g00u5tcn.3rdw7baa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkingbridge%2Fpdt007%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkingbridge%2Fi%2F10000147%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kingbridge/cabinet/08719472/08755630/pdt007.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.3rdw6eed.g00s0vmn.3rdw7144/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4582439462469v%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10124737%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/10031801/4582439462469v_new.jpg?_ex=128x128"
     offers:
       - provider: "amazon"
         label: "Amazon"

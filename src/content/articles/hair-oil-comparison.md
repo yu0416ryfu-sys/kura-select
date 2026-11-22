@@ -43,11 +43,46 @@ products:
         available: true
     genreId: "210695"
   - rank: 2
+    name: "YOLU ディープナイトリペアヘアオイル 80mL"
+    brand: "YOLU（I-ne）"
+    price: 1599
+    capacity: "80mL"
+    rating: 3
+    reviewCount: 1
+    features:
+      - "就寝前のケア向けのオイル。洗い流す必要はなく、タオルドライした髪にも乾いた髪にも使える"
+      - "水溶性コラーゲンと加水分解ヒアルロン酸を配合し、ポリクオタニウム-61で髪をコーティングして睡眠中の摩擦を軽減するとうたう"
+      - "パラベン・アルコール・合成着色料フリー。全成分の先頭はジメチコンで、シリコーンを含む"
+    pros:
+      - "夜のお風呂上がりに使い、翌朝はそのまま過ごせる"
+      - "髪の長さ別のプッシュ数と1回のmLをメーカーが示していて、量を決めやすい"
+      - "1本と2本から選べて、メーカーから詰め替え用も出ている"
+    cons:
+      - "ヘア専用で、体には使えない"
+      - "シリコーンを避けたい人には向かない"
+      - "この出品はレビューが少なく、傾向までは読み取れない"
+    recommendedFor: "夜のお風呂上がりにケアしたい人・カラーやブリーチの髪が気になる人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tx3yn.3rdw685a.g00tx3yn.3rdw7345/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoemondou%2F4582521686018-0834%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyoemondou%2Fi%2F10009494%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yoemondou/cabinet/11727699/imgrc0111218199.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6067551.html"
+        matchStatus: "matched"
+        updatedAt: "2026-11-22"
+        price: 1070
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6067551"
+        available: true
+    genreId: "507825"
+    pricePerUnit: "約20円/mL"
+  - rank: 3
     name: "マドンナリリ ヘアオイル 100mL"
     brand: "MADONNA LILI"
-    price: 3042
+    price: 3840
     capacity: "100mL"
-    pricePerUnit: "約30円/mL"
+    pricePerUnit: "約38円/mL"
     rating: 0
     reviewCount: 0
     features:
@@ -63,10 +98,10 @@ products:
       - "楽天の商品ページの説明文に、全成分と使用方法の記載が見当たらない"
       - "追跡番号なしのメール便で届く"
     recommendedFor: "軽い仕上がりを好む人・ドライヤー前と仕上げの両方に1本で使いたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uv5fn.3rdw6da4.g00uv5fn.3rdw7cbd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhousing-reformfair%2Fb07gp854c1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhousing-reformfair%2Fi%2F10123292%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/housing-reformfair/cabinet/rakuv269_0005/b07gp854c100.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uv5fn.3rdw6da4.g00uv5fn.3rdw7cbd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhousing-reformfair%2Fb08svn8ww7%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhousing-reformfair%2Fi%2F10122546%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/housing-reformfair/cabinet/rakuv269_0005/b08svn8ww700.jpg?_ex=128x128"
     genreId: "568579"
-  - rank: 3
+  - rank: 4
     name: "精製ホホバオイル クリア"
     brand: "自然化粧品研究所"
     price: 1189
@@ -90,41 +125,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/naturalcosmetic/cabinet/jojobaoil-mk2.jpg?_ex=128x128"
     priceMax: 20790
     genreId: "216461"
-  - rank: 4
-    name: "YOLU ディープナイトリペアヘアオイル"
-    brand: "YOLU（I-ne）"
-    price: 1580
-    capacity: "80mL"
-    rating: 4.78
-    reviewCount: 9
-    features:
-      - "就寝前のケア向けのオイル。洗い流す必要はなく、タオルドライした髪にも乾いた髪にも使える"
-      - "水溶性コラーゲンと加水分解ヒアルロン酸を配合し、ポリクオタニウム-61で髪をコーティングして睡眠中の摩擦を軽減するとうたう"
-      - "パラベン・アルコール・合成着色料フリー。全成分の先頭はジメチコンで、シリコーンを含む"
-    pros:
-      - "夜のお風呂上がりに使い、翌朝はそのまま過ごせる"
-      - "髪の長さ別のプッシュ数と1回のmLをメーカーが示していて、量を決めやすい"
-      - "1本と2本から選べて、メーカーから詰め替え用も出ている"
-    cons:
-      - "ヘア専用で、体には使えない"
-      - "シリコーンを避けたい人には向かない"
-      - "この出品はレビューが少なく、傾向までは読み取れない"
-    recommendedFor: "夜のお風呂上がりにケアしたい人・カラーやブリーチの髪が気になる人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tcy9n.3rdw634b.g00tcy9n.3rdw774c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcreidea-coms%2F10002224%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcreidea-coms%2Fi%2F10002237%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/creidea-coms/cabinet/cosme/09681884/4582521688104-m.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6067551.html"
-        matchStatus: "matched"
-        updatedAt: "2026-11-22"
-        price: 1070
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6067551"
-        available: true
-    priceMax: 2780
-    genreId: "507825"
   - rank: 5
     name: "N. ポリッシュオイル"
     brand: "ナプラ"

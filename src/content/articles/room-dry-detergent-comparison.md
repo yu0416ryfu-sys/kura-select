@@ -92,6 +92,29 @@ products:
         updatedAt: "2026-07-16T00:00:00.000Z"
     genreId: "210182"
   - rank: 3
+    name: "アリエール 超抗菌ジェル 部屋干しプラス 詰め替え 超ジャンボ 1.16kg"
+    brand: "P&G（アリエール）"
+    price: 1990
+    capacity: "1.16kg"
+    pricePerUnit: "約1.7円/g"
+    rating: 4.4
+    reviewCount: 5
+    features:
+      - "18時間抗菌をうたう部屋干し用の液体洗剤（全ての菌の増殖を抑えるわけではない旨の注記あり）"
+      - "酵素と蛍光増白剤を配合"
+      - "縦型・ドラム式・すすぎ1回に対応し、洗濯槽の防カビもうたう（カビは除去しない旨の注記あり）"
+    pros:
+      - "ジェルボールと違い、洗濯物の量に合わせて量を調整できる液体タイプ"
+      - "詰め替えのまとめ買いができる"
+      - "厚手のタオルやパーカーの生乾き臭への消臭をうたう"
+    cons:
+      - "蛍光増白剤入りのため、きなりや淡色の綿・麻には色合いが変わる場合がある"
+      - "楽天の商品ページに使用量の目安が無く、パッケージで確かめる必要がある"
+    recommendedFor: "液体で量を調整しながら部屋干し対策をしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ui14n.3rdw6d1a.g00ui14n.3rdw7de6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fears%2F4987176165459%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fears%2Fi%2F10002974%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ears/cabinet/goq008/4361_1.jpg?_ex=128x128"
+    genreId: "210182"
+  - rank: 4
     name: "トップ スーパーナノックス ニオイ専用 部屋干し 詰め替え 1510g×6個セット"
     brand: "ライオン（トップ スーパーナノックス）"
     price: 18800
@@ -123,29 +146,6 @@ products:
         matchedCapacity: "1510g×2個"
         matchNotes: "入数違い採用（楽天は1510g×6個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
-    genreId: "210182"
-  - rank: 4
-    name: "アリエール 液体 部屋干しプラス 詰め替え 超ジャンボ 1.21kg（超ジャンボサイズ）"
-    brand: "P&G（アリエール）"
-    price: 4910
-    capacity: "1.21kg（超ジャンボサイズ）"
-    pricePerUnit: "約4.1円/g"
-    rating: 4.4
-    reviewCount: 5
-    features:
-      - "18時間抗菌をうたう部屋干し用の液体洗剤（全ての菌の増殖を抑えるわけではない旨の注記あり）"
-      - "酵素と蛍光増白剤を配合"
-      - "縦型・ドラム式・すすぎ1回に対応し、洗濯槽の防カビもうたう（カビは除去しない旨の注記あり）"
-    pros:
-      - "ジェルボールと違い、洗濯物の量に合わせて量を調整できる液体タイプ"
-      - "詰め替えのまとめ買いができる"
-      - "厚手のタオルやパーカーの生乾き臭への消臭をうたう"
-    cons:
-      - "蛍光増白剤入りのため、きなりや淡色の綿・麻には色合いが変わる場合がある"
-      - "楽天の商品ページに使用量の目安が無く、パッケージで確かめる必要がある"
-    recommendedFor: "液体で量を調整しながら部屋干し対策をしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7260888%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10217200%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/7280525.jpg?_ex=128x128"
     genreId: "210182"
   - rank: 5
     name: "ハイベック プレミアムドライ"
@@ -188,7 +188,7 @@ products:
     capacity: "1000g"
     pricePerUnit: "約6.4円/g"
     rating: 4.7
-    reviewCount: 660
+    reviewCount: 661
     features:
       - "ドライマーク衣類を洗える中性の液体洗剤（毛・絹・綿・麻・合成繊維用）"
       - "柿渋由来のカキタンニンを配合し、販売ページで「部屋干しOK」と表示"

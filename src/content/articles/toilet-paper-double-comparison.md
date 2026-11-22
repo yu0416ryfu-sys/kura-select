@@ -82,7 +82,7 @@ products:
     capacity: "75m×4ロール×12袋"
     pricePerUnit: "約1.9円/m"
     rating: 4.63
-    reviewCount: 1549
+    reviewCount: 1550
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

@@ -4,7 +4,7 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -191,11 +191,11 @@ products:
   - rank: 7
     name: "カビキラー 特大サイズ 本体 1000g"
     brand: "ジョンソン（カビキラー）"
-    price: 702
+    price: 856
     capacity: "1000g"
-    pricePerUnit: "約0.70円/g"
-    rating: 4
-    reviewCount: 2
+    pricePerUnit: "約0.86円/g"
+    rating: 5
+    reviewCount: 1
     features:
       - "強力な塩素系成分でカビの根まで除去"
       - "スプレーして5分待つだけで黒カビを漂白"
@@ -208,9 +208,9 @@ products:
       - "塩素系のため刺激臭が強い"
       - "換気が必須で安全面に注意が必要"
     recommendedFor: "黒カビに悩んでいる方・ゴムパッキンのカビを取りたい方・強力なカビ取りが必要な方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r8mvn.3rdw64c9.g00r8mvn.3rdw71c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F4901609000148%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F10901289%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r-kojima/cabinet/n0000000129/4901609000148_1.jpg?_ex=128x128"
-    genreId: "216027"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qml9n.3rdw6b88.g00qml9n.3rdw74eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoukaikenbi%2Fpal-4901609000148%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoukaikenbi%2Fi%2F10004425%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/soukaikenbi/cabinet/20230426planet/4901609000148.jpg?_ex=128x128"
+    genreId: "216017"
   - rank: 8
     name: "エコメイト 風呂釜クリーナー 6個セット"
     brand: "木村石鹸工業"

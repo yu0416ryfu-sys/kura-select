@@ -42,13 +42,13 @@ products:
         available: true
     genreId: "205194"
   - rank: 2
-    name: "ムーニー おしりふき やわらか素材 詰め替え"
+    name: "ムーニー おしりふき やわらか素材 つめかえ用 76枚×32個"
     brand: "ムーニー"
-    price: 3740
-    capacity: "76枚×32個"
-    pricePerUnit: "約1.5円/枚"
-    rating: 4.75
-    reviewCount: 20
+    price: 4232
+    capacity: "76枚×32個（2432枚）"
+    pricePerUnit: "約1.7円/枚"
+    rating: 3.6
+    reviewCount: 5
     features:
       - "カシミヤタッチ素材で柔らかく肌にやさしい"
       - "純水99%配合で不純物が少ない"
@@ -63,8 +63,8 @@ products:
       - "パッケージが大きく置き場所の確保が必要"
       - "配送時に重くなりやすい"
     recommendedFor: "毎日大量に使う方、長く使い続けたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F100695%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10001904%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/care/100695.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F566556%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11195080%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/556/566556.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -171,40 +171,6 @@ products:
         available: true
     genreId: "505416"
   - rank: 6
-    name: "レックダイレクト おしりふき 厚手 水99.9% 54枚×15個"
-    brand: "レック"
-    price: 1899
-    capacity: "54枚×15個（810枚）"
-    pricePerUnit: "約2.3円/枚"
-    rating: 4.63
-    reviewCount: 3986
-    features:
-      - "99.9%の純水成分で肌に優しい"
-      - "厚手シートで吸収性が優れている"
-      - "日本製で品質管理が厳格"
-    pros:
-      - "ネット限定デザインでかわいい"
-      - "水分たっぷりで１枚でしっかり拭ける"
-      - "大容量パックで送料無料"
-    cons:
-      - "ネット限定デザインで汎用性が限定的"
-      - "配送に時間がかかる場合がある"
-    recommendedFor: "ネット限定商品を好む方、大容量ながら肌への優しさを求める家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2Fe170_999atsu15p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10001750%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00975.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe170.html"
-        matchStatus: "matched"
-        updatedAt: "2026-11-22"
-        price: 2110
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e170"
-        available: true
-        rating: 4.71
-        reviewCount: 979
-    genreId: "205194"
-  - rank: 7
     name: "トイレに流せるおしりナップ ふんわり厚手 72枚×20個"
     brand: "ピジョン"
     price: 3414
@@ -238,6 +204,40 @@ products:
         reviewCount: 119
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/pigeon-shop_1039900"
         available: true
+  - rank: 7
+    name: "レック 水99.9% 水分たっぷりおしりふき 厚手 54枚×3個"
+    brand: "レック"
+    price: 438
+    capacity: "54枚×3個（162枚）"
+    pricePerUnit: "約2.7円/枚"
+    rating: 0
+    reviewCount: 0
+    features:
+      - "99.9%の純水成分で肌に優しい"
+      - "厚手シートで吸収性が優れている"
+      - "日本製で品質管理が厳格"
+    pros:
+      - "ネット限定デザインでかわいい"
+      - "水分たっぷりで１枚でしっかり拭ける"
+      - "大容量パックで送料無料"
+    cons:
+      - "ネット限定デザインで汎用性が限定的"
+      - "配送に時間がかかる場合がある"
+    recommendedFor: "ネット限定商品を好む方、大容量ながら肌への優しさを求める家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qpdqn.3rdw67a5.g00qpdqn.3rdw7b85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F261-7891%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10651777%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin200_06/261-7891.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flecdirect%2Fe170.html"
+        matchStatus: "matched"
+        updatedAt: "2026-11-22"
+        price: 2110
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/lecdirect_e170"
+        available: true
+        rating: 4.71
+        reviewCount: 979
+    genreId: "112779"
   - rank: 8
     name: "おしり拭き 流せる シート 純水99.9% W保湿成分配合"
     brand: "Lec.Be"

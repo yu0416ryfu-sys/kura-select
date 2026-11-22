@@ -1,35 +1,35 @@
 ---
-title: "コーヒーフィルター コスパ最強ランキング【2026年版】1枚あたり最安で比較10選"
-description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒー・KONO・珈琲考具など人気10選を漂白タイプ・形状・コスパで解説します。"
+title: "コーヒーフィルター コスパ最強ランキング【2026年版】1枚あたり最安で比較9選"
+description: "コーヒーフィルターを1枚あたりのコストで徹底比較。メリタ・カリタ・ハリオ・キーコーヒー・KONO・珈琲考具など人気9選を漂白タイプ・形状・コスパで解説します。"
 category: "coffee-filter"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
-    name: "ドルフィン コーヒーフィルター 2-4杯用 耳付き"
-    brand: "カナエ紙工"
-    price: 145
-    capacity: "100枚（2-4杯用）"
-    pricePerUnit: "約1.4円/枚"
-    rating: 4.57
-    reviewCount: 7
+    name: "キーコーヒー コーヒーフィルター 無漂白 2〜4人用 100枚"
+    brand: "キーコーヒー"
+    price: 228
+    capacity: "100枚（2〜4人用）"
+    pricePerUnit: "約2.3円/枚"
+    rating: 0
+    reviewCount: 0
     features:
-      - "使いやすい耳付きのハーフムーンカット形状"
-      - "無漂白タイプのペーパーフィルター"
-      - "2-4杯用サイズで家庭やオフィスの需要に向く"
+      - "台形型・無漂白パルプ100%の自然素材フィルター"
+      - "タブ付き設計で取り出しやすく衛生的"
+      - "キーコーヒー公式ショップで安心購入可能"
     pros:
-      - "耳付き設計でドリッパーにセットしやすい"
-      - "無漂白でコーヒー本来の風味を引き出しやすい"
-      - "定番形状で幅広いドリッパーに合わせやすい"
+      - "無漂白でエコ志向・自然素材へのこだわりに応える"
+      - "タブ付きで指を汚さず1枚ずつ取り出せる"
+      - "老舗コーヒーブランドの品質保証"
     cons:
-      - "専門メーカー品に比べて知名度は低め"
-      - "特殊形状のドリッパーへの適合は購入前に確認したい"
-    recommendedFor: "耳付きで使いやすい無漂白フィルターを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4975810182344%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10006503%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pp/imgrc0070407812.jpg?_ex=128x128"
-    genreId: "566122"
+      - "無漂白のため若干紙の色が出る場合がある"
+      - "ホワイトタイプと比較して好みが分かれる"
+    recommendedFor: "エコ志向の方・自然素材にこだわりたい方・キーコーヒーブランドを信頼している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5iyn.3rdw6232.g00q5iyn.3rdw7569/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeycomr%2Ftb530000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeycomr%2Fi%2F10000907%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keycomr/cabinet/item/10613868/tb530000.jpg?_ex=128x128"
+    genreId: "201402"
   - rank: 2
     name: "ハリオ V60 ペーパーフィルター みさらし 100枚"
     brand: "ハリオ"
@@ -302,29 +302,6 @@ products:
         rating: 5
         reviewCount: 5
     genreId: "566122"
-  - rank: 10
-    name: "キーコーヒー コーヒーフィルター 無漂白 100枚"
-    brand: "キーコーヒー"
-    price: 184
-    capacity: "-"
-    pricePerUnit: "-"
-    rating: 4.92
-    reviewCount: 13
-    features:
-      - "台形型・無漂白パルプ100%の自然素材フィルター"
-      - "タブ付き設計で取り出しやすく衛生的"
-      - "キーコーヒー公式ショップで安心購入可能"
-    pros:
-      - "無漂白でエコ志向・自然素材へのこだわりに応える"
-      - "タブ付きで指を汚さず1枚ずつ取り出せる"
-      - "老舗コーヒーブランドの品質保証"
-    cons:
-      - "無漂白のため若干紙の色が出る場合がある"
-      - "ホワイトタイプと比較して好みが分かれる"
-    recommendedFor: "エコ志向の方・自然素材にこだわりたい方・キーコーヒーブランドを信頼している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prckn.3rdw63f4.g00prckn.3rdw7c9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonestep%2Fcf0475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonestep%2Fi%2F10348950%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/onestep/cabinet/syoku/syoku11/cf0475.jpg?_ex=128x128"
-    genreId: "566123"
 tags:
   - "コーヒーフィルター おすすめ"
   - "コーヒーフィルター コスパ"

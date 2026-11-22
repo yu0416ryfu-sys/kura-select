@@ -14,7 +14,7 @@ products:
     capacity: "50枚"
     pricePerUnit: "約18円/枚"
     rating: 4.56
-    reviewCount: 988
+    reviewCount: 989
     features:
       - "チャック付きの大袋に入った化粧品区分のマスク"
       - "香料・着色料・アルコールなどを使わない処方と表示"

@@ -8,13 +8,13 @@ updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
-    name: "アイリスオーヤマ 紙の猫砂 7L×6袋"
+    name: "アイリスオーヤマ 紙の猫砂 KMN-70N 7L×6袋"
     brand: "アイリスオーヤマ"
     price: 3980
     capacity: "7L×6袋（42L）"
     pricePerUnit: "約95円/L"
-    rating: 4.25
-    reviewCount: 860
+    rating: 3.77
+    reviewCount: 30
     features:
       - "アイリスオーヤマ製のペレットタイプ紙製猫砂"
       - "燃えるゴミとして廃棄可能・トイレへの廃棄にも対応"
@@ -27,8 +27,8 @@ products:
       - "鉱物系に比べて固まりの硬さが弱い場合がある"
       - "好みによっては紙製特有の使用感が気になる場合がある"
     recommendedFor: "軽量で廃棄しやすい大手ブランドの紙製猫砂を探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2Fa533439%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10002747%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/11076425/11076426/a533439.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzr6n.3rdw64d5.g00qzr6n.3rdw7160/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogland%2Fa533439%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogland%2Fi%2F10024193%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogland/cabinet/jishahin19/a533439.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -133,13 +133,13 @@ products:
         reviewCount: 201
     genreId: "204174"
   - rank: 5
-    name: "炭の猫砂 まとめ買いセット"
+    name: "アイリスオーヤマ 炭の猫砂 SNS-70 7L×4袋"
     brand: "アイリスオーヤマ"
     price: 3180
     capacity: "7L×4袋（28L）"
     pricePerUnit: "約114円/L"
-    rating: 4.35
-    reviewCount: 2247
+    rating: 4.4
+    reviewCount: 10
     features:
       - "炭配合の木質系猫砂、固まるタイプ"
       - "燃えるゴミとして廃棄可能"
@@ -152,8 +152,8 @@ products:
       - "炭の色が濃いため汚れの確認がしにくい場合がある"
       - "鉱物系に比べて固まりがやや柔らかめ"
     recommendedFor: "大手ブランドの安心感と廃棄のしやすさを重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pr3zn.3rdw6223.g00pr3zn.3rdw78bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdog-kan%2F661502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdog-kan%2Fi%2F10003840%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dog-kan/cabinet/jishahin29/523462.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzr6n.3rdw64d5.g00qzr6n.3rdw7160/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogland%2F661502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogland%2Fi%2F10020205%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogland/cabinet/wh3/1523462.jpg?_ex=128x128"
     genreId: "204174"
   - rank: 6
     name: "パインウッド"

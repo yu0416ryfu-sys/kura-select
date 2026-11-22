@@ -4,17 +4,17 @@ description: "ハイドロコロイド絆創膏のおすすめ7選を1枚あた�
 category: "bandage"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
-    name: "リーダー ハイドロ救急バン Mサイズ 100枚"
+    name: "リーダー ハイドロ救急バン Mサイズ 徳用 100枚"
     brand: "リーダー（日進医療器）"
-    price: 2637
+    price: 2823
     capacity: "100枚"
-    pricePerUnit: "約26円/枚"
+    pricePerUnit: "約28円/枚"
     rating: 5
-    reviewCount: 3
+    reviewCount: 1
     features:
       - "透明度の高いハイドロコロイド素材の救急バン"
       - "薄いウレタンフィルムをベースにしたやわらかい素材"
@@ -27,8 +27,8 @@ products:
       - "使用頻度が低い家庭では使い切る前に期限が来るおそれがある"
       - "貼る前に手で温めるひと手間がある"
     recommendedFor: "ハイドロコロイドを家族で日常的に使う方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F103-4955574823646%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10412235%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/zz/4955574823646.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qxvfn.3rdw628f.g00qxvfn.3rdw7bb0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobe-menken%2F4955574823646-1ni%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkobe-menken%2Fi%2F10200012%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-menken/cabinet/4955574823646.jpg?_ex=128x128"
     genreId: "204748"
     offers:
       - provider: "yahoo"

@@ -4,17 +4,17 @@ description: "使い捨ての流せるトイレブラシを1個あたりのコ�
 category: "flushable-toilet-brush"
 publishedAt: "2026-06-12"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
-    name: "スクラビングバブル 流せるトイレブラシ 替え72個"
+    name: "スクラビングバブル 流せるトイレブラシ 替え 24個×3袋"
     brand: "スクラビングバブル"
-    price: 3370
+    price: 2720
     capacity: "72個（24個×3袋）"
-    pricePerUnit: "約47円/個"
-    rating: 4.83
-    reviewCount: 75
+    pricePerUnit: "約38円/個"
+    rating: 4.73
+    reviewCount: 74
     features:
       - "本体を持っている人向けの付替ブラシのみ"
       - "24個入りが3袋の大容量まとめ買いパック"
@@ -27,8 +27,8 @@ products:
       - "本体は付属しないため別途用意が必要"
       - "袋数が多く保管場所を取りやすい"
     recommendedFor: "リピート用にまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugi2n.3rdw6154.g00ugi2n.3rdw7474/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkankosp%2F2500010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkankosp%2Fi%2F10000030%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kankosp/cabinet/bc/item/brush/imgrc0106916153.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405545%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11284640%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/545/405545.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

@@ -122,13 +122,13 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amart-e/cabinet/08990542/26100274-3.jpg?_ex=128x128"
     genreId: "565623"
   - rank: 5
-    name: "パイプユニッシュPRO 400g×8本"
+    name: "パイプユニッシュ PRO 凝縮パワージェル 400g×5本"
     brand: "ジョンソン"
-    price: 3080
-    capacity: "400g×8本（3200g）"
-    pricePerUnit: "約0.96円/g"
-    rating: 0
-    reviewCount: 0
+    price: 2268
+    capacity: "400g×5本（2000g）"
+    pricePerUnit: "約1.1円/g"
+    rating: 4
+    reviewCount: 2
     features:
       - "パイプユニッシュPRO（400g）の8本セット"
       - "高粘度の塩素系ジェル"
@@ -141,8 +141,8 @@ products:
       - "トイレのつまりには使えない"
       - "8本を使い切るまでの置き場所が要る"
     recommendedFor: "排水口クリーナーをまとめて備えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qrr5n.3rdw688d.g00qrr5n.3rdw7b60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-hyottokomrkt%2F76523%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-hyottokomrkt%2Fi%2F10004938%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-hyottokomrkt/cabinet/costco/2026/13427333/py1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901609000926_2000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F11845695%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/a/4901609000926.jpg?_ex=128x128"
     genreId: "565623"
   - rank: 6
     name: "ピーピースルーF 600g×12本セット"

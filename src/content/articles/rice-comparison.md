@@ -75,40 +75,6 @@ products:
         reviewCount: 637
     genreId: "201184"
   - rank: 3
-    name: "令和7年産 無洗米 三重県産コシヒカリ 10kg"
-    brand: "ハーベストシーズン"
-    price: 5580
-    capacity: "10kg"
-    pricePerUnit: "約558円/kg"
-    rating: 4.61
-    reviewCount: 4527
-    features:
-      - "家庭用に使いやすい米商品"
-      - "まとめ買いやギフトに対応"
-      - "容量で比較しやすい"
-    pros:
-      - "日常の主食として使いやすい"
-      - "まとめ買いに向く"
-      - "用途に合わせて選べる"
-    cons:
-      - "精米時期や保存方法の確認が必要"
-      - "銘柄の好みは分かれる"
-    recommendedFor: "お米を容量と用途で比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q4ksn.3rdw606a.g00q4ksn.3rdw7324/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhseason%2Fmnek005-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhseason%2Fi%2F10000078%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hseason/cabinet/00208353/04331240/mumiekoshi10k2026.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffuchigami%2Fhino-kp30.html"
-        matchStatus: "pending"
-        updatedAt: "2026-09-01"
-        price: 9340
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fuchigami_hino-kp30"
-        available: true
-        rating: 4.59
-        reviewCount: 120
-    genreId: "201184"
-  - rank: 4
     name: "令和7年産 無洗米 茨城県産コシヒカリ 10kg"
     brand: "ミツハシライス"
     price: 6010
@@ -142,7 +108,7 @@ products:
         rating: 0
         reviewCount: 0
     genreId: "201184"
-  - rank: 5
+  - rank: 4
     name: "令和8年産 無洗米 新潟産コシヒカリ 10kg"
     brand: "ミツハシライス"
     price: 6200
@@ -161,7 +127,7 @@ products:
     recommendedFor: "新潟県産コシヒカリを無洗米で使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q3eon.3rdw616f.g00q3eon.3rdw7349/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakizawa%2F2019090073%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftakizawa%2Fi%2F10000227%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     rating: 4.88
-    reviewCount: 156
+    reviewCount: 157
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/takizawa/cabinet/syouhinn/08533100/musenmai10kgver3.jpg?_ex=128x128"
     pricePerUnit: "約620円/kg"
     offers:
@@ -176,7 +142,7 @@ products:
         rating: 4.93
         reviewCount: 15
     genreId: "201184"
-  - rank: 6
+  - rank: 5
     name: "無洗米 富山県産コシヒカリ 10kg"
     brand: "ヤマトライス"
     price: 7280
@@ -199,7 +165,7 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/yamatorice/cabinet/tym/koshi/bg/000324-2_.jpg?_ex=128x128"
     pricePerUnit: "約728円/kg"
     genreId: "201184"
-  - rank: 7
+  - rank: 6
     name: "令和7年 佐渡産コシヒカリ 2kg"
     brand: "食の宝島佐渡"
     price: 4280
@@ -233,7 +199,7 @@ products:
         reviewCount: 0
     priceMax: 8480
     genreId: "201184"
-  - rank: 8
+  - rank: 7
     name: "秋田県産 あきたこまち 18kg〜20kg"
     brand: "秋田県産あきたこまち"
     price: 9980

@@ -4,7 +4,7 @@ description: "IH対応フライパンを26cm中心に7製品比較。軽量タ�
 category: "cooking-pot"
 publishedAt: "2026-06-06"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
@@ -138,8 +138,8 @@ products:
     price: 6980
     capacity: "1個"
     pricePerUnit: "約6980円/個"
-    rating: 4.44
-    reviewCount: 84
+    rating: 4.67
+    reviewCount: 3
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -152,8 +152,8 @@ products:
       - "サイズや仕様は購入前に確認が必要"
       - "ショップにより在庫や配送条件が変わる"
     recommendedFor: "既存候補以外も比較して選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q1q9n.3rdw69c5.g00q1q9n.3rdw75df/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbellevie-harima%2Ft-fal-158%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbellevie-harima%2Fi%2F10154937%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bellevie-harima/cabinet/0000/tfal1012/s1/t-fal-158_s1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q0n1n.3rdw6d9c.g00q0n1n.3rdw734a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaily-3%2Ftfa3114-26%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaily-3%2Fi%2F10334842%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/daily-3/cabinet/tfa/tfa3114-26.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

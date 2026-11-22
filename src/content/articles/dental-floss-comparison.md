@@ -4,7 +4,7 @@ description: "デンタルフロスを1回あたりのコストで比較した�
 category: "toothpaste"
 publishedAt: "2026-05-03"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 products:
   - rank: 1
     name: "REACH リーチ デンタルフロス 55ヤード 6個入り"
@@ -173,13 +173,13 @@ products:
         available: true
     genreId: "208218"
   - rank: 7
-    name: "ライオン クリニカ アドバンテージ フロス Y字タイプ"
+    name: "ライオン クリニカ アドバンテージ フロス Y字タイプ 18本"
     brand: "ライオン（クリニカ）"
-    price: 292
+    price: 260
     capacity: "18本（18回）"
-    pricePerUnit: "約16円/回"
-    rating: 4.95
-    reviewCount: 21
+    pricePerUnit: "約14円/回"
+    rating: 4.67
+    reviewCount: 9
     features:
       - "Y字フォルダー付きで奥歯にも届きやすい"
       - "フロスの太さが変化する特殊繊維で汚れをかき出す"
@@ -192,8 +192,8 @@ products:
       - "1本使い切りのため糸タイプよりコストが高め"
       - "大量ごみが出やすい"
     recommendedFor: "奥歯のケアをしっかりしたい方・フロス初心者の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4903301203896%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10013302%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/pic201404/4903301203896_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4903301203896%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10072841%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/15/4903301203896.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -204,7 +204,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk13773-a2603"
         available: false
         matchNotes: "capacity不一致: capacity不一致"
-    genreId: "204758"
+    genreId: "208218"
   - rank: 8
     name: "DENT.EX ウルトラフロスS 10本入×10パック"
     brand: "ライオン（DENT.EX）"

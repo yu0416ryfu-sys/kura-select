@@ -4,7 +4,7 @@ description: "Mサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 products:
   - rank: 1
     name: "メリーズ エアスルー テープ Mサイズ 52枚"
@@ -98,11 +98,11 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tenposupport06/12820999/imgrc0130809075.jpg?_ex=128x128"
     genreId: "205198"
   - rank: 4
-    name: "パンパース さらさらケア テープ Mサイズ"
+    name: "パンパース さらさらケア テープ Mサイズ 50枚"
     brand: "P&G（パンパース）"
-    price: 2710
-    capacity: "62枚"
-    pricePerUnit: "約44円/枚"
+    price: 2112
+    capacity: "50枚"
+    pricePerUnit: "約42円/枚"
     rating: 5
     reviewCount: 2
     features:
@@ -117,8 +117,8 @@ products:
       - "素材にこだわる方にはプレミアムラインのほうが合う場合がある"
       - "セット販売のような大量確保には向かない"
     recommendedFor: "日常使いのコスパを意識してMサイズのパンパースを選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4987176203281%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10042777%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/281/4987176203281.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987176404312%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11432065%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/312/4987176404312.jpg?_ex=128x128"
     genreId: "205198"
     offers:
       - provider: "yahoo"
@@ -132,12 +132,12 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mvtokai-yho_baby039"
         available: true
   - rank: 5
-    name: "パンパース はじめての肌へのいちばん テープ Mサイズ 56枚"
+    name: "パンパース はじめての肌へのいちばん テープ M 56枚×2個"
     brand: "P&G（パンパース）"
-    price: 2514
-    capacity: "56枚"
-    rating: 5
-    reviewCount: 3
+    price: 5355
+    capacity: "56枚×2個（112枚）"
+    rating: 0
+    reviewCount: 0
     features:
       - "ネット状の肌触りで蒸れにくく快適"
       - "パラベン・アルコール無添加の低刺激処方"
@@ -150,8 +150,8 @@ products:
       - "さらさらケアと比べて価格が高め"
       - "さらさらケアほど大容量セットがない"
     recommendedFor: "Mサイズでも品質重視で選びたい方・Sサイズ時代からパンパース派の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4987176341518%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10051186%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/518/4987176341518.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uz7yn.3rdw6c7a.g00uz7yn.3rdw79c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fminnanookusuri%2F1758977245-2-a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fminnanookusuri%2Fi%2F10024614%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/minnanookusuri/cabinet/14257185/1758977245-2-a.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -164,7 +164,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_anu1891"
         available: true
     genreId: "205198"
-    pricePerUnit: "約45円/枚"
+    pricePerUnit: "約48円/枚"
   - rank: 6
     name: "グーンプラス 肌の贅沢 テープ Mサイズ"
     brand: "GOO.N（大王製紙）"

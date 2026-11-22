@@ -4,16 +4,16 @@ description: "食洗機用洗剤を1回あたりのコストで徹底比較。�
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-22"
 products:
   - rank: 1
-    name: "緑の魔女 食洗機用洗剤 800g"
+    name: "緑の魔女 オートキッチン 食洗機用洗剤 800g"
     brand: "ミマスクリーンケア"
     price: 588
     capacity: "800g"
     pricePerUnit: "約0.73円/g"
-    rating: 4.47
-    reviewCount: 59
+    rating: 4.73
+    reviewCount: 11
     features:
       - "食器洗い乾燥機専用の洗剤"
       - "継続利用しやすい定番構成"
@@ -26,8 +26,8 @@ products:
       - "対応機種や投入量を確認したい"
       - "購入時は最新の販売条件を確認したい"
     recommendedFor: "食洗機の運用に合わせて選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F9847343%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10096247%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya114/9847343.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F9847343%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10060369%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/tasya37/9847343-p.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

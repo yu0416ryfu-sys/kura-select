@@ -79,11 +79,11 @@ products:
   - rank: 4
     name: "野田琺瑯 ココナベ 個々鍋 大 KO-21 IH対応"
     brand: "野田琺瑯"
-    price: 3630
+    price: 3443
     capacity: "21.5cm / 約0.98L"
-    pricePerUnit: "約3704円/L"
-    rating: 4.84
-    reviewCount: 45
+    pricePerUnit: "約3513円/L"
+    rating: 4.25
+    reviewCount: 4
     features:
       - "IH100V・200V・ガス火に対応するホーロー製の一人鍋"
       - "外径約21.5×高さ11.5cm・容量0.98L・約815g"
@@ -96,9 +96,9 @@ products:
       - "ホーロー製のため落下・衝撃には注意が必要"
       - "空焚きは避ける必要がある"
     recommendedFor: "見た目にこだわりながら一人鍋を楽しみたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ps1gn.3rdw6ea1.g00ps1gn.3rdw70d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshokki%2Fkokonabe002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshokki%2Fi%2F10010755%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/shokki/cabinet/noda/imgrc0073680268.jpg?_ex=128x128"
-    genreId: "215913"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rtxzn.3rdw6243.g00rtxzn.3rdw73ad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffavoritestyle%2F00004054%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffavoritestyle%2Fi%2F10003875%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/favoritestyle/cabinet/save_image13/00004054_01m.jpg?_ex=128x128"
+    genreId: "101857"
   - rank: 5
     name: "ジオ・プロダクト 片手鍋 16cm GEO-16N"
     brand: "宮崎製作所"

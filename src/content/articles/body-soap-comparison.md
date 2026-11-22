@@ -43,11 +43,11 @@ products:
   - rank: 2
     name: "キュレル ボディウォッシュ ポンプ 420mL"
     brand: "花王（キュレル）"
-    price: 767
+    price: 898
     capacity: "420mL"
-    pricePerUnit: "約1.8円/mL"
-    rating: 4.62
-    reviewCount: 13
+    pricePerUnit: "約2.1円/mL"
+    rating: 4.75
+    reviewCount: 8
     features:
       - "セラミド機能成分配合で肌のバリア機能を守る処方"
       - "無香料・無着色・アルコールフリーの低刺激設計"
@@ -60,8 +60,8 @@ products:
       - "1mLあたりのコストは大容量詰め替えと比べて高め"
       - "洗浄力は控えめで脂性肌の方には物足りない場合がある"
     recommendedFor: "乾燥肌・敏感肌の方・家族全員で低刺激のボディソープを使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10084454%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10031009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/shouhin56/4901301289353.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r2wen.3rdw6cec.g00r2wen.3rdw7a93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsokunou%2F4901301289353%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsokunou%2Fi%2F10010817%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sokunou/cabinet/img07/4901301289353.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

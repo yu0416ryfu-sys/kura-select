@@ -47,7 +47,7 @@ products:
     capacity: "170m×48ロール"
     pricePerUnit: "約0.60円/m"
     rating: 4.52
-    reviewCount: 2059
+    reviewCount: 2060
     features:
       - "芯なしのロングタイプで交換の手間を減らしやすい"
       - "再生紙を使用した家庭用にも業務用にも使える仕様"

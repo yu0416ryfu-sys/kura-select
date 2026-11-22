@@ -1,5 +1,5 @@
 ---
-title: "トイレ掃除シート コスパ比較【2026年版】流せるタイプ10選"
+title: "トイレ掃除シート コスパ比較【2026年版】流せるタイプ9選"
 description: "トイレ掃除シートを1枚あたりのコストで比較。流せるタイプや厚手タイプの違い、用途に合った選び方を解説します。"
 category: "toilet-cleaner"
 publishedAt: "2026-06-02"
@@ -110,29 +110,6 @@ products:
         available: true
     genreId: "508447"
   - rank: 4
-    name: "激落ちくん 節水トイレクリーナー 流せるシート"
-    brand: "レック（LEC）"
-    price: 2508
-    capacity: "288枚"
-    pricePerUnit: "約8.7円/枚"
-    rating: 4.58
-    reviewCount: 55
-    features:
-      - "トイレに流せる掃除シート"
-      - "特許製法をうたう厚手シート"
-      - "まとめ買い向けの多パック"
-    pros:
-      - "使ったあとそのまま流せて手軽"
-      - "厚手でしっかり拭きやすい"
-      - "まとめ買いでストックしやすい"
-    cons:
-      - "一度に大量に流さない使い方が必要"
-      - "便器・配管の仕様確認が必要"
-    recommendedFor: "流せるトイレ掃除シートをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pv4jn.3rdw6071.g00pv4jn.3rdw781b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2F4573177599661-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10002537%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/c/c01292_6.jpg?_ex=128x128"
-    genreId: "508447"
-  - rank: 5
     name: "激落ちくん 流せる除菌トイレクリーナー 大判"
     brand: "激落ちくん（レック）"
     price: 298
@@ -166,7 +143,7 @@ products:
         reviewCount: 56
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_j974081"
         available: true
-  - rank: 6
+  - rank: 5
     name: "トイレクイックル つめかえ用 10枚×12パック"
     brand: "花王（クイックル）"
     price: 2800
@@ -200,7 +177,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sudareyosizu_4901301510808"
         available: true
     genreId: "508447"
-  - rank: 7
+  - rank: 6
     name: "エリエール ミチガエル トイレクリーナー 本体 10枚"
     brand: "大王製紙（エリエール）"
     price: 251
@@ -234,7 +211,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/home-life_101-30881"
         available: true
     genreId: "216022"
-  - rank: 8
+  - rank: 7
     name: "トイレクイックル トイレ掃除シート ジャンボパック 詰め替え 20枚"
     brand: "花王（クイックル）"
     price: 506
@@ -268,7 +245,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_jww8080"
         available: true
     genreId: "401619"
-  - rank: 9
+  - rank: 8
     name: "トイレクイックル つめかえ用 ジャンボパック 20枚×6個"
     brand: "トイレクイックル（花王）"
     price: 3168
@@ -302,7 +279,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901301308566"
         available: true
     genreId: "200821"
-  - rank: 10
+  - rank: 9
     name: "トイレクイックル ストロング プレミアムローズ 詰替 16枚×4個"
     brand: "花王（クイックル）"
     price: 2611

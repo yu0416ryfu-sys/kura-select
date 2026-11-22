@@ -52,15 +52,15 @@ products:
         matchNotes: "capacity不一致: capacity不一致"
     genreId: "100670"
   - rank: 2
-    name: "ネピア ソフトパックティッシュ 240組 80パック（5パック×16個）"
+    name: "ネピア ソフトパックティッシュ 240組 25パック（5パック×5個）"
     brand: "王子ネピア"
-    price: 7120
-    capacity: "240組×80パック"
-    pricePerUnit: "約0.37円/組"
-    rating: 5
-    reviewCount: 1
+    price: 5000
+    capacity: "240組×25パック（6000組）"
+    pricePerUnit: "約0.83円/組"
+    rating: 0
+    reviewCount: 0
     features:
-      - "1パック240組（480枚）の2枚重ね・5パック×16個の80パック"
+      - "1パック240組（480枚）の2枚重ね・5パック×5個の25パック"
       - "シートは よこ174×たて190mm（200組と同じ）"
       - "フレッシュパルプ100%・FSC認証紙（メーカーの表示）"
     pros:
@@ -70,9 +70,9 @@ products:
       - "5パックの包みの高さが表示で約33cmと、200組より高い"
       - "シートはこの記事の他社品より小さめ（表示）"
     recommendedFor: "1パックの量が多いソフトパックで入れ替えを減らしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7258440%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10216545%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/tasya113/7258440.jpg?_ex=128x128"
-    genreId: "100670"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u86dn.3rdw6459.g00u86dn.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpippi-store%2F7lvyenu7hbg4ggursbs4q3wade%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpippi-store%2Fi%2F10783059%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pippi-store/cabinet/12166924/37269783_1.jpg?_ex=128x128"
+    genreId: "112779"
   - rank: 3
     name: "ネピア ソフトパックティッシュ 200組 5パック×18個"
     brand: "王子ネピア"
@@ -156,8 +156,8 @@ products:
     brand: "スマートエール"
     price: 2640
     capacity: "150組×50個（7500組）"
-    rating: 4.57
-    reviewCount: 873
+    rating: 4.74
+    reviewCount: 19
     features:
       - "スマートエールのソフトパック・1パック150組（300枚）"
       - "5パック×10個の50パック（同じページで90個も選べる）"
@@ -170,8 +170,8 @@ products:
       - "開封口が開けにくいという声がある"
       - "1パック150組で、200組の商品より入れ替えが多い"
     recommendedFor: "まず少なめの量でソフトパックのまとめ買いを試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.3rdw6e00.g00qhoan.3rdw73e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F7185802-cp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10207887%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/11848367/7185802-cp.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzvkn.3rdw6b15.g00qzvkn.3rdw7644/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fl-plus%2F7185802%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fl-plus%2Fi%2F10229220%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/l-plus/cabinet/tooitsuka1/7185802-cp.jpg?_ex=128x128"
     offers:
       - provider: "amazon"
         label: "Amazon（150組×25個）"
@@ -190,7 +190,7 @@ products:
     price: 5980
     capacity: "200組×80個"
     rating: 4.66
-    reviewCount: 1313
+    reviewCount: 1314
     features:
       - "1パック200組（400枚）・5個×16パックの80個"
       - "シートは189×195mmで、この記事の中では大きめ"
@@ -274,7 +274,7 @@ faqs:
 ### 同じ中身の出品を見分ける
 
 - <strong>ネピアの200組</strong>：「5パック×18個」「90個」「80パック」の出品は、どれもJANコードとシートの寸法が同じでした。違いは個数とショップです。同じページで80個と90個を選ぶ出品もあるので、注文するときに個数を確かめてください
-- <strong>ネピアの240組</strong>：2つのショップの「240組 80パック」は、JANコードも中身も同じです
+- <strong>ネピアの240組</strong>：5パック入りの包みを5個まとめた、25パックの出品です
 - <strong>スマートエール</strong>：同じページで50個と90個を選ぶ出品です
 - <strong>フルール</strong>：アウトレット品の出品で、輸送用の段ボールに傷や変形があり、中身は問題ないと書かれています。販売元は丸紅フォレストリンクスです
 
@@ -301,7 +301,7 @@ faqs:
 |---|---|---|
 | ネピア 200組×90個 | 約17.4×9.5×27.5cm × 18 | 約82L |
 | ネピア 200組×80個 | 約17.4×9.5×27.5cm × 16 | 約73L |
-| ネピア 240組×80個 | 約17.4×9.5×33cm × 16 | 約87L |
+| ネピア 240組×25個 | 約17.4×9.5×33cm × 5 | 約27L |
 | スマートエール 150組×50個 | 約19.5×9×22.5cm × 10 | 約39L |
 | フルール 200組×80個 | 19×10×27.5cm × 16 | 約84L |
 
@@ -321,11 +321,11 @@ faqs:
 
 | 1パックの組数 × 個数 | 総組数 |
 |---|---|
+| 240組 × 25個 | 6,000組 |
 | 150組 × 50個 | 7,500組 |
 | 150組 × 100個 | 15,000組 |
 | 200組 × 80個 | 16,000組 |
 | 200組 × 90個 | 18,000組 |
-| 240組 × 80個 | 19,200組 |
 
 値段をこの総組数で割ると、1組あたりの値段になります。ページ上部の比較表（自動更新）は、この計算をした単価を表示しています。ただし、同じページで個数や色を選ぶ出品は、価格を「最安〜最高」の幅で表示し、単価は出していません。その場合は、選ぶ個数の値段を上の総組数で割って比べてください。
 
@@ -339,11 +339,11 @@ faqs:
 
 | 総組数 | 1日10組 | 1日20組 | 1日40組 |
 |---|---|---|---|
+| 6,000組 | 600日（約1.6年） | 300日（約0.8年） | 150日（約0.4年） |
 | 7,500組 | 750日（約2.1年） | 375日（約1.0年） | 188日（約0.5年） |
 | 15,000組 | 1,500日（約4.1年） | 750日（約2.1年） | 375日（約1.0年） |
 | 16,000組 | 1,600日（約4.4年） | 800日（約2.2年） | 400日（約1.1年） |
 | 18,000組 | 1,800日（約4.9年） | 900日（約2.5年） | 450日（約1.2年） |
-| 19,200組 | 1,920日（約5.3年） | 960日（約2.6年） | 480日（約1.3年） |
 
 使う量は家庭で大きく違います。4人家族（花粉症の家族あり）で200組×80個が9か月から1年ほどもつという声もあれば、3年はもちそうという声もありました。まず1パックが何日でなくなるかを測ると、何個買えばよいかが決めやすくなります。
 

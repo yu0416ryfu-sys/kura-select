@@ -4,43 +4,9 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-22"
 products:
   - rank: 1
-    name: "ムーニー マシュマロ肌ごこち 新生児 テープ"
-    brand: "ムーニー（moony）"
-    price: 1629
-    capacity: "76枚"
-    pricePerUnit: "約21円/枚"
-    rating: 4.84
-    reviewCount: 25
-    features:
-      - "新生児〜5000g向けのテープタイプ"
-      - "やわらかな肌ざわりを意識した設計"
-      - "モレ安心をうたうおむつ"
-    pros:
-      - "新生児期のデリケートな肌に使いやすい"
-      - "テープタイプで寝たままでも替えやすい"
-      - "一般的に入手しやすい定番ブランド"
-    cons:
-      - "成長に合わせてサイズ変更が必要"
-      - "体型によってフィット感の好みが分かれる"
-    recommendedFor: "新生児期のテープおむつを探している家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4903111137800%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10045142%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/800/4903111137800.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100639.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-08"
-        price: 1804
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100639"
-        available: true
-    genreId: "205198"
-  - rank: 2
     name: "ムーニー マシュマロ肌ごこち テープ 新生児"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1518
@@ -72,6 +38,40 @@ products:
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100637"
+        available: true
+    genreId: "205198"
+  - rank: 2
+    name: "ムーニー マシュマロ肌ごこち 新生児 テープ 76枚"
+    brand: "ムーニー（moony）"
+    price: 1930
+    capacity: "76枚（新生児・〜5000g）"
+    pricePerUnit: "約25円/枚"
+    rating: 4.67
+    reviewCount: 3
+    features:
+      - "新生児〜5000g向けのテープタイプ"
+      - "やわらかな肌ざわりを意識した設計"
+      - "モレ安心をうたうおむつ"
+    pros:
+      - "新生児期のデリケートな肌に使いやすい"
+      - "テープタイプで寝たままでも替えやすい"
+      - "一般的に入手しやすい定番ブランド"
+    cons:
+      - "成長に合わせてサイズ変更が必要"
+      - "体型によってフィット感の好みが分かれる"
+    recommendedFor: "新生児期のテープおむつを探している家庭"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4903111137800%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10023825%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/800/4903111137800.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100639.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-08"
+        price: 1804
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100639"
         available: true
     genreId: "205198"
   - rank: 3
