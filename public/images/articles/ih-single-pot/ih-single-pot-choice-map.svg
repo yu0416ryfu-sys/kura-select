@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" width="600" height="760" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>一人用のIH対応鍋の選び方（使う場所・入れる量・卓上IHの条件の順）</title>
+  <rect width="600" height="760" fill="#ffffff"/>
+  <text x="300" y="38" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">一人用のIH対応鍋の選び方</text>
+  <text x="300" y="66" text-anchor="middle" font-size="15" fill="#6b7280">上から順に決めると、形・大きさ・確かめることが決まる</text>
+
+  <!-- 質問1 -->
+  <rect x="60" y="88" width="480" height="52" rx="10" fill="#fff7ed" stroke="#d9701f" stroke-width="2"/>
+  <text x="300" y="121" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">① どこで使う？</text>
+
+  <line x1="300" y1="140" x2="300" y2="156" stroke="#9ca3af" stroke-width="2"/>
+  <line x1="150" y1="156" x2="450" y2="156" stroke="#9ca3af" stroke-width="2"/>
+  <line x1="150" y1="156" x2="150" y2="170" stroke="#9ca3af" stroke-width="2"/>
+  <line x1="450" y1="156" x2="450" y2="170" stroke="#9ca3af" stroke-width="2"/>
+
+  <rect x="24" y="170" width="252" height="100" rx="10" fill="#eff6ff" stroke="#2f6fb5" stroke-width="2"/>
+  <text x="150" y="196" text-anchor="middle" font-size="15" fill="#374151">食卓で囲む</text>
+  <text x="150" y="224" text-anchor="middle" font-size="18" font-weight="700" fill="#2f6fb5">両手の卓上鍋</text>
+  <text x="150" y="252" text-anchor="middle" font-size="14" fill="#374151">鍋敷きに置いて取り分けやすい</text>
+
+  <rect x="324" y="170" width="252" height="100" rx="10" fill="#eff6ff" stroke="#2f6fb5" stroke-width="2"/>
+  <text x="450" y="196" text-anchor="middle" font-size="15" fill="#374151">コンロで作って器によそう</text>
+  <text x="450" y="224" text-anchor="middle" font-size="18" font-weight="700" fill="#2f6fb5">片手鍋</text>
+  <text x="450" y="252" text-anchor="middle" font-size="14" fill="#374151">汁物・麺・煮物に毎日使える</text>
+
+  <line x1="300" y1="270" x2="300" y2="292" stroke="#9ca3af" stroke-width="2"/>
+
+  <!-- 質問2 -->
+  <rect x="60" y="292" width="480" height="52" rx="10" fill="#fff7ed" stroke="#d9701f" stroke-width="2"/>
+  <text x="300" y="325" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">② どれくらい入れる？</text>
+
+  <line x1="300" y1="344" x2="300" y2="358" stroke="#9ca3af" stroke-width="2"/>
+  <line x1="150" y1="358" x2="450" y2="358" stroke="#9ca3af" stroke-width="2"/>
+  <line x1="150" y1="358" x2="150" y2="372" stroke="#9ca3af" stroke-width="2"/>
+  <line x1="450" y1="358" x2="450" y2="372" stroke="#9ca3af" stroke-width="2"/>
+
+  <rect x="24" y="372" width="252" height="118" rx="10" fill="#f0fdf4" stroke="#2e7d4f" stroke-width="2"/>
+  <text x="150" y="398" text-anchor="middle" font-size="15" fill="#374151">具材少なめ・収納を優先</text>
+  <text x="150" y="428" text-anchor="middle" font-size="20" font-weight="700" fill="#2e7d4f">16cm前後</text>
+  <text x="150" y="456" text-anchor="middle" font-size="13" fill="#6b7280">土鍋の目安では</text>
+  <text x="150" y="476" text-anchor="middle" font-size="14" fill="#374151">1人用＝5号（約15cm）</text>
+
+  <rect x="324" y="372" width="252" height="118" rx="10" fill="#f0fdf4" stroke="#2e7d4f" stroke-width="2"/>
+  <text x="450" y="398" text-anchor="middle" font-size="15" fill="#374151">野菜たっぷり・しめの麺まで</text>
+  <text x="450" y="428" text-anchor="middle" font-size="20" font-weight="700" fill="#2e7d4f">18cm前後</text>
+  <text x="450" y="456" text-anchor="middle" font-size="13" fill="#6b7280">土鍋の目安では</text>
+  <text x="450" y="476" text-anchor="middle" font-size="14" fill="#374151">1〜2人用＝6号（約18cm）</text>
+
+  <text x="300" y="516" text-anchor="middle" font-size="14" fill="#374151">どちらも、煮こぼれを避けるなら満水容量の7割以下で（野田琺瑯の案内）</text>
+
+  <line x1="300" y1="526" x2="300" y2="542" stroke="#9ca3af" stroke-width="2"/>
+
+  <!-- 質問3 -->
+  <rect x="60" y="542" width="480" height="52" rx="10" fill="#fff7ed" stroke="#d9701f" stroke-width="2"/>
+  <text x="300" y="575" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">③ 卓上IH（1口）で使うなら、買う前に見る</text>
+
+  <line x1="300" y1="594" x2="300" y2="608" stroke="#9ca3af" stroke-width="2"/>
+
+  <rect x="40" y="608" width="520" height="136" rx="10" fill="#f9fafb" stroke="#6b7280" stroke-width="2"/>
+  <text x="64" y="638" font-size="15" fill="#1f2937">・鍋底の直径が12cm以上（上限は機種により20〜26cm）</text>
+  <text x="64" y="668" font-size="15" fill="#1f2937">・底が平らで、反りが小さい（約3mm以上は使わない）</text>
+  <text x="64" y="698" font-size="15" fill="#1f2937">・材質が説明書の「使える鍋」に合う（IH対応の表示も見る）</text>
+  <text x="64" y="728" font-size="15" fill="#1f2937">・届いたら水を入れて置き、火力表示の点灯で確かめる</text>
+</svg>
