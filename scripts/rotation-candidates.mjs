@@ -19,6 +19,7 @@ import { loadHolds, todayJst } from './lib/measurement-holds.ts';
 import { getNoindexArticleSlugs } from './lib/noindex-articles.mjs';
 import {
   addDays,
+  assessBingFetchHealth,
   classifyRotationCandidates,
   parseImprovementLog,
   parseRecoverPending,
@@ -70,6 +71,15 @@ function renderMarkdown(payload) {
     `- Bing: ${payload.windows.bing.weeks.length ? payload.windows.bing.weeks.join('・') : 'なし'} の週（${payload.windows.bing.weeks.length} 週${payload.windows.bing.scale && payload.windows.bing.scale !== 1 ? `・4週あたりに ×${payload.windows.bing.scale.toFixed(2)} で換算` : ''}）`,
   );
   lines.push(
+    `- Bing の取得: ${
+      payload.missing.bing
+        ? '取得失敗（M2 は全行 hold）'
+        : payload.windows.bing.health.healthy
+          ? '正常（行なしは表示0とみなす）'
+          : `異常の疑い（${payload.windows.bing.health.reasons.join('／')}）・行なしは M2-hold`
+    }`,
+  );
+  lines.push(
     `- 対象: 公開 ${payload.rules.minAgeDays} 日以上（試験枠で2週判定が ❌・暫定でない記事は ${payload.rules.trialFailedMinAgeDays} 日以上）・GSC 表示 ${payload.rules.maxImpressions} 未満・noindex でない`,
     '',
   );
@@ -90,7 +100,7 @@ function renderMarkdown(payload) {
       `| \`${r.id}\` | ${fmt(r.publishedAt)} | ${fmt(r.ageDays)} | ${fmt(r.gsc)} | ${fmt(r.outbound)} | ${fmt(r.bing)} | ${r.verdict} | ${r.reason} | ${fmt(r.verdictIfBingZero)} |`,
     );
   }
-  lines.push('', '`M4` だけが noindex 候補。`hold` は取得できなかったデータがあるので noindex に回さない。`M2-hold` の「表示0とみなした判定」は、前回の月次でも Bing 行なしだった記事にだけ使う（スキル `kura-article-rotation` §3-3）。');
+  lines.push('', '`M4` だけが noindex 候補。`hold` は取得できなかったデータがあるので noindex に回さない。`M2-hold` は Bing の取得に異常の疑いがある回だけに出る。「表示0とみなした判定」は、前回の月次でも Bing 行なしだった記事にだけ使う（スキル `kura-article-rotation` §3-3）。');
   return `${lines.join('\n')}\n`;
 }
 
@@ -141,13 +151,18 @@ async function main() {
   // Bing は確定日以前で最新の4週の行を使う（固定の28日窓だと最新週が未公開の日に3週分になる）
   console.log('Bing を取得中…');
   let bingImpressions = null;
-  let bingWindow = { weeks: [], scale: 0 };
+  let bingWindow = { weeks: [], scale: 0, health: { healthy: false, reasons: ['未取得'] } };
+  // noindex 済みの記事にも Bing の行は残るので、実在する記事に数える
+  const noindexed = getNoindexArticleSlugs();
+  const knownArticleIds = new Set([...articles.map((a) => a.id), ...noindexed]);
   try {
     const rows = await fetchBingPageStatsRows();
     if (!rows.length) throw new Error('GetPageStats の応答が0行でした');
     const picked = selectLatestBingWeeks(rows, confirmed, BING_WEEKS);
     if (!picked.weeks.length) throw new Error(`確定日 ${confirmed} 以前の週の行がありません`);
-    bingWindow = { weeks: picked.weeks, scale: picked.scale };
+    const health = assessBingFetchHealth(picked, knownArticleIds, BING_WEEKS);
+    bingWindow = { weeks: picked.weeks, scale: picked.scale, health };
+    if (!health.healthy) warnings.push(`Bing の取得に異常の疑い（行なしは M2-hold にしました）: ${health.reasons.join('／')}`);
     if (picked.weeks.length < BING_WEEKS) {
       warnings.push(`Bing の週が ${picked.weeks.length} 週しかないため、4週あたりに換算しました（×${picked.scale.toFixed(2)}）`);
     }
@@ -185,8 +200,9 @@ async function main() {
     gscImpressions,
     outbound,
     bingImpressions,
+    bingHealthy: bingWindow.health.healthy,
     frozen,
-    noindexed: getNoindexArticleSlugs(),
+    noindexed,
     seasonal,
     improvements,
     recoverPending,

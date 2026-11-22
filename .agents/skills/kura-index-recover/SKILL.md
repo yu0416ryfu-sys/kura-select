@@ -28,7 +28,7 @@ description: |
 
 1. `gsc_index_status` で `coverageState` と `lastCrawlTime` を取る
 2. 確定日を `gsc_search_analytics`（`dimensions:["date"]`・直近10日）で実測し、直近28日の表示をページで絞って取る（終端は確定日）
-3. Bing を `bing_page_stats` で取る。`startDate`＝確定日の27日前・`endDate`＝確定日・`rowLimit: 400`・`sortBy: "Impressions"` を指定し、対象 URL の週次の行を足す。**行が無いときは「未取得」と書き、0 と扱わない**
+3. Bing を `bing_page_stats` で取る。`startDate`＝下の JSON の `windows.bing.weeks` の最初の週・`endDate`＝最後の週・`rowLimit: 400`・`sortBy: "Impressions"` を指定し、返った行のうち `Date` が `windows.bing.weeks` のどれかに当たる行だけで対象 URL の行を足す（その中に行が無いことを「行なし」とする）。CLI の `selectLatestBingWeeks` は確定日以前で最新の4週を日付の窓で切らずに選ぶので、確定日の27日前で切ると、確定日が土曜で前日の金曜の週が未公開の日に最も古い週（確定日−29）の行が返らないため。返った `rowCount` が `rowLimit` を超えたら、表示の少ない行が切れているので、`rowLimit` を `rowCount` 以上にして取り直す。**行が無いときは、取得全体が正常かを CLI の判定で確かめる。** 同じ GSC 確定日の `reports/rotation/candidates-<確定日>.json` を開き（無ければ `pnpm rotation:candidates` を回す。外部 API を読んで `reports/rotation/` に書くだけで、記事も `data/` も書かない）、`windows.bing.health.healthy` が `true` なら「行なし・取得は正常＝表示0」と書く。JSON が既にあれば回さず、それを読む（回し直すと `today` が変わり、入れ替えの回の根拠の出力が変わりうる）。`false` か、JSON の確定日が今回の確定日と違えば「未取得」と書き、0 と扱わない。条件を手で当てない（窓の切り方と `rowLimit` の打ち切りで CLI と判定が分かれるため。基準は `kura-article-rotation` と同じ。2026-11-22 決定）
 4. `src/content/articles/<article.id>.md` の frontmatter（`publishedAt`・`draft`・商品数）を読む
 
 ## 2. 判定する

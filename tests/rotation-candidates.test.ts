@@ -1,6 +1,8 @@
 import { describe, it, expect } from "vitest";
 import {
   addDays,
+  articleIdFromUrl,
+  assessBingFetchHealth,
   classifyRotationCandidates,
   parseImprovementLog,
   parseRecoverPending,
@@ -120,6 +122,23 @@ describe("classifyRotationCandidates: M1〜M4", () => {
   });
   it("Bing 取得失敗は hold", () => {
     expect(verdictOf({ bingImpressions: null })).toBe("hold");
+  });
+  it("取得が正常なら Bing 行なしは M4（季節品は M3）・bing は '行なし'・verdictIfBingZero は null", () => {
+    const [row] = classifyRotationCandidates(baseInput({ bingImpressions: new Map(), bingHealthy: true }));
+    expect(row.verdict).toBe("M4");
+    expect(row.bing).toBe("行なし");
+    expect(row.verdictIfBingZero).toBeNull();
+    expect(row.reason).toContain("取得は正常・表示0とみなす");
+    const [seasonalRow] = classifyRotationCandidates(
+      baseInput({ bingImpressions: new Map(), bingHealthy: true, seasonal: new Set(["a-comparison"]) }),
+    );
+    expect(seasonalRow.verdict).toBe("M3");
+  });
+  it("bingHealthy: false を明示しても行なしは M2-hold", () => {
+    expect(verdictOf({ bingImpressions: new Map(), bingHealthy: false })).toBe("M2-hold");
+  });
+  it("Bing 取得失敗（null）は bingHealthy: true でも hold", () => {
+    expect(verdictOf({ bingImpressions: null, bingHealthy: true })).toBe("hold");
   });
   it("季節品は M3、どれにも当たらなければ M4", () => {
     expect(verdictOf({ seasonal: new Set(["a-comparison"]) })).toBe("M3");
@@ -246,6 +265,109 @@ describe("sumByArticleId", () => {
       { key: "https://www.kura-select.com/", value: 5 },
     ]);
     expect([...map.entries()]).toEqual([["reviews/b-review", 1]]);
+  });
+});
+
+describe("articleIdFromUrl", () => {
+  it("絶対 URL・パス・末尾スラッシュなし・# と ? つき・reviews/ 配下を記事 ID に寄せる", () => {
+    expect(articleIdFromUrl("https://www.kura-select.com/articles/a-comparison/")).toBe("a-comparison");
+    expect(articleIdFromUrl("/articles/a-comparison")).toBe("a-comparison");
+    expect(articleIdFromUrl("/articles/a-comparison/#x")).toBe("a-comparison");
+    expect(articleIdFromUrl("/articles/a-comparison/?utm=1")).toBe("a-comparison");
+    expect(articleIdFromUrl("/articles/reviews/b-review/")).toBe("reviews/b-review");
+  });
+  it("記事でない URL は null", () => {
+    expect(articleIdFromUrl("https://www.kura-select.com/")).toBeNull();
+    expect(articleIdFromUrl("/category/x/")).toBeNull();
+    expect(articleIdFromUrl("/articles/")).toBeNull();
+    expect(articleIdFromUrl(undefined)).toBeNull();
+  });
+});
+
+describe("assessBingFetchHealth", () => {
+  const WEEKS = ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-13"];
+  const IDS = Array.from({ length: 20 }, (_, i) => `a${i}-comparison`);
+  const SITE = "https://www.kura-select.com";
+  type Row = { date: string; page: string; impressions: number };
+  /** 正常な入力: 4週・各週20本の実在記事（表示5）・a0 は表示1・トップとカテゴリの行が1行ずつ */
+  function healthyPicked(): { rows: Row[]; weeks: string[] } {
+    const rows: Row[] = [];
+    for (const date of WEEKS) {
+      for (const id of IDS) rows.push({ date, page: `${SITE}/articles/${id}/`, impressions: id === "a0-comparison" ? 1 : 5 });
+    }
+    rows.push({ date: WEEKS[0], page: `${SITE}/`, impressions: 30 });
+    rows.push({ date: WEEKS[0], page: `${SITE}/category/laundry-detergent/`, impressions: 3 });
+    return { rows, weeks: [...WEEKS] };
+  }
+  const known = new Set(IDS);
+  const withRow = (row: Row) => {
+    const p = healthyPicked();
+    p.rows.push(row);
+    return assessBingFetchHealth(p, known);
+  };
+
+  it("既定の入力は正常（トップ・カテゴリの行があっても）", () => {
+    expect(assessBingFetchHealth(healthyPicked(), known)).toEqual({ healthy: true, reasons: [] });
+  });
+  it("3週しかなければ異常", () => {
+    const p = healthyPicked();
+    p.weeks = WEEKS.slice(1);
+    p.rows = p.rows.filter((r) => r.date !== WEEKS[0]);
+    const out = assessBingFetchHealth(p, known);
+    expect(out.healthy).toBe(false);
+    expect(out.reasons.join()).toContain("週が 3 週");
+  });
+  it("ある週の記事が19本なら異常で、その週の日付が理由に出る", () => {
+    const p = healthyPicked();
+    p.rows = p.rows.filter((r) => !(r.date === WEEKS[2] && r.page.includes("a19-comparison")));
+    const out = assessBingFetchHealth(p, known);
+    expect(out.healthy).toBe(false);
+    expect(out.reasons.join()).toContain(WEEKS[2]);
+  });
+  it("同じ週の同じ記事が2行あっても1本と数える（20行でも19本なら異常）", () => {
+    const p = healthyPicked();
+    p.rows = p.rows.filter((r) => !(r.date === WEEKS[2] && r.page.includes("a19-comparison")));
+    p.rows.push({ date: WEEKS[2], page: "/articles/a0-comparison", impressions: 1 });
+    expect(assessBingFetchHealth(p, known).healthy).toBe(false);
+  });
+  it("記事でない URL は数えない（記事19本＋カテゴリ1行の週は異常）", () => {
+    const p = healthyPicked();
+    p.rows = p.rows.filter((r) => !(r.date === WEEKS[1] && r.page.includes("a19-comparison")));
+    p.rows.push({ date: WEEKS[1], page: `${SITE}/category/x/`, impressions: 2 });
+    expect(assessBingFetchHealth(p, known).healthy).toBe(false);
+  });
+  it("記事の行の表示が全部3以上なら異常（トップ・カテゴリだけが表示1でも異常）", () => {
+    const p = healthyPicked();
+    p.rows = p.rows.map((r) => (r.page.includes("/articles/") ? { ...r, impressions: 3 } : { ...r, impressions: 1 }));
+    const out = assessBingFetchHealth(p, known);
+    expect(out.healthy).toBe(false);
+    expect(out.reasons.join()).toContain("表示 2 以下");
+  });
+  it("picked が空でも例外を投げず異常", () => {
+    expect(assessBingFetchHealth({ rows: [], weeks: [] }, known).healthy).toBe(false);
+  });
+  it("記事に寄せられない記事らしい URL（大文字・%2F・壊れたエンコード）は異常", () => {
+    for (const page of ["/Articles/foo/", "/articles%2Ffoo", "/Articles/%E3"]) {
+      const out = withRow({ date: WEEKS[0], page, impressions: 1 });
+      expect(out.healthy, page).toBe(false);
+      expect(out.reasons.join(), page).toContain("記事に寄せられない");
+    }
+  });
+  it("記事一覧ページの行は数えない", () => {
+    for (const page of [`${SITE}/articles/`, "/articles", "/articles/?ref=x"]) {
+      expect(withRow({ date: WEEKS[0], page, impressions: 1 }).healthy, page).toBe(true);
+    }
+  });
+  it("/articles/%E3 は id %E3 になり「実在しない記事 ID」で異常", () => {
+    const out = withRow({ date: WEEKS[0], page: "/articles/%E3", impressions: 1 });
+    expect(out.healthy).toBe(false);
+    expect(out.reasons.join()).toContain("実在しない記事 ID");
+  });
+  it("articleIds に無い記事 ID の行があれば異常・articleIds 未指定でも異常", () => {
+    const out = withRow({ date: WEEKS[0], page: "/articles/foo-comparison-old/", impressions: 1 });
+    expect(out.healthy).toBe(false);
+    expect(out.reasons.join()).toContain("実在しない記事 ID");
+    expect(assessBingFetchHealth(healthyPicked(), undefined).healthy).toBe(false);
   });
 });
 

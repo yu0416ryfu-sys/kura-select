@@ -56,7 +56,7 @@ description: |
 
 1. `pnpm rotation:candidates` を実行し、`reports/rotation/candidates-<確定日>.md` を読む。試験枠で2週判定が ❌（暫定でない）の記事は、公開60日を待たず**公開28日から**対象に入る（`docs/ROTATION_LOG.md` の新規記事の表を CLI が読む・2026-11-21 ユーザー決定）。暫定の ❌ は取り直して確定するまで60日のまま
 2. `M4` の行が noindex 候補。`hold` の行は理由（取得失敗・改善ログなし）を §6 で伝え、noindex に回さない
-3. `M2-hold`（Bing 行なし）の行は、前回の月次でも行なしだった記事に限り、その行の `verdictIfBingZero`（表示0とみなした判定）を使ってよい（2回続けて行なしなら表示0とみなす）。1回目は保留。「前回も行なし」は、前回の `reports/rotation/candidates-*.json` の `bing` が `'行なし'` か、`docs/ROTATION_LOG.md` に「Bing 行なしで M2 判定保留」と記録があること（CLI 導入前の 11-02・11-21 の回は ROTATION_LOG の記録で数える）
+3. Bing の行が無い記事は、レポート冒頭の「Bing の取得」が正常なら、CLI が表示0とみなして M3/M4 を出す（理由欄に「取得は正常・表示0とみなす」。2026-11-22 決定。行なしが続いた回数で決める 2026-11-21 のルールを置き換えた）。取得に異常の疑いがある回だけ `M2-hold` になり、その行は、前回の月次でも行なしだった記事に限り `verdictIfBingZero`（表示0とみなした判定）を使ってよい。1回目は保留。「前回も行なし」は、前回の `reports/rotation/candidates-*.json` の `bing` が `'行なし'` か、`docs/ROTATION_LOG.md` に「Bing 行なしで M2 判定保留」と記録があること
 4. 季節品（`M3`）は、`data/rotation-seasonal.json` の外す判断の月に当たるときだけ、入れ替え計画書 §2.2 の季節品の手順で判断する。季節品の noindex は §6 で必ずユーザーに確かめる
 
 ## 4. 枠の計算

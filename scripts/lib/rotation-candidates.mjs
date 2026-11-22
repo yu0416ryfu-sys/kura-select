@@ -13,6 +13,9 @@ export const ROTATION_BING_ADD_THRESHOLD = 100; // M2: Bing 4週の表示 ≥ 10
 export const ROTATION_RECENT_IMPROVEMENT_DAYS = 28; // M0: 加筆から28日以内
 // 試験枠で2週判定が ❌（暫定でない）の記事は、公開28日から対象にする（2026-11-21 ユーザー決定・案B）
 export const ROTATION_TRIAL_FAILED_MIN_AGE_DAYS = 28;
+// Bing の取得が正常かどうかの目安（運用値・統計的な根拠なし。11-22 の実測: 週あたり記事 47〜55 本・表示1の行が10行）
+export const ROTATION_BING_MIN_ARTICLES_PER_WEEK = 20;
+export const ROTATION_BING_SMALL_ROW_MAX = 2;
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 
@@ -105,6 +108,15 @@ export function parseTrialFailures(text) {
 }
 
 /**
+ * URL・パスを記事 ID に寄せる。記事 URL でなければ null（sumByArticleId と同じ変換）。
+ * noindex-articles.mjs の articleSlugFromUrl は `#`・`?` を落とさない別の変換なので使い回さない。
+ */
+export function articleIdFromUrl(key) {
+  const cleaned = String(key ?? '').replace(/[#?].*$/, '');
+  return cleaned.match(/^(?:https?:\/\/[^/]+)?\/articles\/(.+?)\/?$/)?.[1] ?? null;
+}
+
+/**
  * GSC の page・GA4 の pagePath・Bing のページ URL を記事 ID に寄せて合計する。
  * 絶対 URL（http/https・www の有無）とパスを受け付け、`#` 以降・`?` 以降・末尾スラッシュを落とす。
  * `reviews/` 配下の ID はそのまま残す。記事 URL でない行は捨てる。
@@ -114,8 +126,7 @@ export function parseTrialFailures(text) {
 export function sumByArticleId(entries) {
   const out = new Map();
   for (const { key, value } of entries ?? []) {
-    const cleaned = String(key ?? '').replace(/[#?].*$/, '');
-    const id = cleaned.match(/^(?:https?:\/\/[^/]+)?\/articles\/(.+?)\/?$/)?.[1];
+    const id = articleIdFromUrl(key);
     if (!id) continue;
     out.set(id, (out.get(id) ?? 0) + Number(value ?? 0));
   }
@@ -140,6 +151,56 @@ export function selectLatestBingWeeks(rows, confirmedDate, n = 4) {
 }
 
 /**
+ * パスに articles を含むか（大文字小文字・パーセントエンコードを問わない）。デコードできない URL も含むとみなす。
+ * 記事一覧ページ（/articles/・src/pages/articles/index.astro）は記事ではないが正しい URL なので除く。
+ */
+function looksLikeArticleUrl(page) {
+  const path = String(page ?? '').replace(/[#?].*$/, '').replace(/^https?:\/\/[^/]+/, '');
+  if (/^\/articles\/?$/.test(path)) return false;
+  let s = path;
+  try {
+    s = decodeURIComponent(s);
+  } catch {
+    return true; // 壊れたエンコードは照合漏れの疑いとして数える
+  }
+  return /articles/i.test(s);
+}
+
+/**
+ * 選んだ Bing の行から、その回の取得が正常かどうかを判定する。
+ * 正常なら、行の無い記事は「表示0」とみなしてよい。
+ * 計画書: docs/IMPLEMENTATION_PLAN_ROTATION_BING_NO_ROW_2026-11-22.md §4-1
+ * @param {{ rows: {date:string, page:string, impressions:number}[], weeks: string[] }} picked  selectLatestBingWeeks の戻り値
+ * @param {Set<string>} articleIds  実在する記事 ID（draft を除いた全記事と noindex 済みの記事）
+ * @param {number} [n=4]  必要な週数
+ * @returns {{ healthy: boolean, reasons: string[] }}  reasons は異常の理由（正常なら空）
+ */
+export function assessBingFetchHealth(picked, articleIds, n = 4) {
+  const reasons = [];
+  const weeks = picked?.weeks ?? [];
+  const rows = picked?.rows ?? [];
+  const known = articleIds ?? new Set();
+  if (weeks.length !== n) reasons.push(`週が ${weeks.length} 週（${n} 週必要）`);
+  const articleRows = rows.map((r) => ({ ...r, id: articleIdFromUrl(r.page) })).filter((r) => r.id);
+  for (const week of weeks) {
+    // 記事 URL だけを数える（トップ・カテゴリは除く）。同じ週の同じ記事は1本と数える
+    const ids = new Set(articleRows.filter((r) => r.date === week).map((r) => r.id));
+    if (ids.size < ROTATION_BING_MIN_ARTICLES_PER_WEEK) {
+      reasons.push(`${week} の週の記事が ${ids.size} 本（${ROTATION_BING_MIN_ARTICLES_PER_WEEK} 本未満）`);
+    }
+  }
+  if (!articleRows.some((r) => Number.isFinite(r.impressions) && r.impressions <= ROTATION_BING_SMALL_ROW_MAX)) {
+    reasons.push(`表示 ${ROTATION_BING_SMALL_ROW_MAX} 以下の記事の行が無い（少ない行が落ちている疑い）`);
+  }
+  // URL の表記ゆれによる照合漏れの疑い（10-11 の型）
+  const unmapped = rows.filter((r) => !articleIdFromUrl(r.page) && looksLikeArticleUrl(r.page));
+  if (unmapped.length) reasons.push(`記事に寄せられない記事らしい URL が ${unmapped.length} 行（例: ${unmapped[0].page}）`);
+  const unknown = articleRows.filter((r) => !known.has(r.id));
+  if (unknown.length) reasons.push(`実在しない記事 ID の行が ${unknown.length} 行（例: ${unknown[0].id}）`);
+  return { healthy: reasons.length === 0, reasons };
+}
+
+/**
  * M0〜M4 を当てる。入力のどれかが null（取得失敗）なら、その条件に頼る判定を保留にする。
  * @param {object} input
  * @param {string} input.today                         'YYYY-MM-DD'（JST）
@@ -147,6 +208,7 @@ export function selectLatestBingWeeks(rows, confirmedDate, n = 4) {
  * @param {Map<string, number>} input.gscImpressions   確定日までの28日・見出しアンカー行を除く。キーなし＝0
  * @param {Map<string, number> | null} input.outbound  GA4 送客イベントの合計（28日）。null＝取得失敗
  * @param {Map<string, number> | null} input.bingImpressions  Bing 4週の表示。null＝取得失敗。キーなし＝行なし
+ * @param {boolean} [input.bingHealthy]                assessBingFetchHealth(...).healthy。true のときだけ行なしを表示0とみなす
  * @param {Set<string> | null} input.frozen            凍結中。null＝凍結台帳を読めない
  * @param {Set<string>} input.noindexed                data/noindex-articles.json
  * @param {Set<string>} input.seasonal                 data/rotation-seasonal.json
@@ -162,6 +224,7 @@ export function classifyRotationCandidates(input) {
     gscImpressions,
     outbound,
     bingImpressions,
+    bingHealthy = false, // true のときだけ、行なしを表示0とみなす（未指定は安全側の保留）
     frozen,
     noindexed,
     seasonal,
@@ -217,8 +280,16 @@ export function classifyRotationCandidates(input) {
     else if (outbound === null) set('hold', 'GA4 取得失敗');
     else if (row.outbound >= 1) set('M1', `送客 ${row.outbound} 件`);
     else if (bing === null) set('hold', 'Bing 取得失敗');
-    else if (bing === '行なし') {
-      set('M2-hold', 'Bing 行なし');
+    else if (bing === '行なし' && bingHealthy === true) {
+      const v = afterM2();
+      set(
+        v,
+        v === 'M3'
+          ? 'Bing 行なし（取得は正常・表示0とみなす）・季節品（季節品の手順で判断）'
+          : 'Bing 行なし（取得は正常・表示0とみなす）・noindex 候補',
+      );
+    } else if (bing === '行なし') {
+      set('M2-hold', 'Bing 行なし（取得の健全性が未確認か異常）');
       row.verdictIfBingZero = afterM2();
     } else if (bing >= ROTATION_BING_ADD_THRESHOLD) set('M2', `加筆候補（Bing ${bing}）`);
     else if (afterM2() === 'M3') set('M3', '季節品（季節品の手順で判断）');
