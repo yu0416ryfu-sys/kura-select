@@ -72,8 +72,12 @@
     "contentUpdatedAt": "2026-11-19"
   },
   "cat-food-comparison": {
-    "hash": "10ab2a8d683579f4c612bd7b6e1e26bfcc43273ca1ef7df8eaca83da08b252f2",
-    "contentUpdatedAt": "2026-11-08"
+    "hash": "98e00ad67a72b431ca4ce5737f122a7b45845cdde1c14df60252593296162a96",
+    "contentUpdatedAt": "2026-11-22"
+  },
+  "cat-liquid-treat-comparison": {
+    "hash": "94995e761abcedafc3850c8b9043e4f9985cf34fcee3d163f9933a878f7796fa",
+    "contentUpdatedAt": "2026-11-22"
   },
   "cat-litter-comparison": {
     "hash": "c414797f501fe33edba023003938f135b2b06d294e2342256296305cdb5f5880",
