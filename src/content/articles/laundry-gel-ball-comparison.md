@@ -270,7 +270,7 @@ products:
   - rank: 9
     name: "ボールド ジェルボール4in1 ホワイトムスク＆フローラル 詰め替え 65個"
     brand: "P&G（ボールド）"
-    price: 5056
+    price: 5311
     capacity: "65個"
     rating: 5
     reviewCount: 2
@@ -300,7 +300,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/worldglobal_20250727090631-01056"
         available: true
     genreId: "210182"
-    pricePerUnit: "約78円/個"
+    pricePerUnit: "約82円/個"
   - rank: 10
     name: "アリエール ジェルボール 部屋干し＆スポーツ 詰め替え テラジャンボ"
     brand: "P&G（アリエール）"

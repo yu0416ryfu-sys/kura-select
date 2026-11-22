@@ -4,16 +4,16 @@ description: "ハンドソープはどれが殺菌力とコスパを両立する
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 products:
   - rank: 1
     name: "ビオレu 薬用 泡ハンドソープ つめかえ用 2L"
     brand: "花王（ビオレu）"
-    price: 1350
+    price: 1495
     capacity: "2L"
-    pricePerUnit: "約0.68円/mL"
-    rating: 4.66
-    reviewCount: 244
+    pricePerUnit: "約0.75円/mL"
+    rating: 4.54
+    reviewCount: 13
     features:
       - "素肌と同じ弱酸性で肌にやさしい"
       - "SPT（肌清浄化技術）で汚れをすっきり落とす"
@@ -26,8 +26,8 @@ products:
       - "キレイキレイに比べると若干割高"
       - "泡の密度がやや軽め"
     recommendedFor: "敏感肌の方・小さな子どもがいる家庭・保湿も重視する方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqo7n.3rdw69f3.g00rqo7n.3rdw7041/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famuse37%2F901009864%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famuse37%2Fi%2F10047232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amuse37/cabinet/img50/901009864.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u679n.3rdw6354.g00u679n.3rdw7de8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmart-in%2F4901301243935-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmart-in%2Fi%2F10010582%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mart-in/cabinet/sku-pro_01/4901301243935-001.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -39,7 +39,7 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/seisen-online_0547268-2"
         available: true
-    genreId: "204748"
+    genreId: "304758"
   - rank: 2
     name: "キレイキレイ 薬用泡ハンドソープ 詰替用"
     brand: "キレイキレイ（Kirei Kirei）"

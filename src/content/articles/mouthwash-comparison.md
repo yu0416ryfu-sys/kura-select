@@ -41,40 +41,6 @@ products:
         available: true
     genreId: "208265"
   - rank: 2
-    name: "薬用リステリン トータルケアプラス 1000mL"
-    brand: "ジョンソン・エンド・ジョンソン（リステリン）"
-    price: 896
-    capacity: "1000mL"
-    pricePerUnit: "約0.90円/mL"
-    rating: 5
-    reviewCount: 3
-    features:
-      - "4種のエッセンシャルオイルを有効成分とする薬用洗口液"
-      - "口臭・歯肉炎の予防など複数の目的に使える多機能タイプ"
-      - "液体だから歯ブラシが届かない場所もケア"
-    pros:
-      - "1000mLの単品なので、まとめ買い前のお試しにも向く"
-      - "エッセンシャルオイル配合の定番ブランド"
-      - "1本単位で買えるので保管場所を取りにくい"
-    cons:
-      - "刺激が強く、初心者には辛い"
-      - "アルコール配合で口が乾燥しやすい"
-    recommendedFor: "口臭・虫歯予防を徹底したい方・刺激に慣れている方・コスパ重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pukun.3rdw6576.g00pukun.3rdw7b9c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpureco%2Fprc-s-8650620476%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpureco%2Fi%2F10086144%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pureco/cabinet/prc-s-865000/prc-s-8650620476.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180740-6.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-27"
-        price: 5098
-        rating: 4.63
-        reviewCount: 8
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4901730180740-6"
-        available: true
-    genreId: "208265"
-  - rank: 3
     name: "モンダミン プレミアムケア ゴールドミント"
     brand: "アース製薬（モンダミン）"
     price: 1047
@@ -108,7 +74,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901080248619"
         available: true
     genreId: "208265"
-  - rank: 4
+  - rank: 3
     name: "GUM デンタルリンス ナイトケア ナイトハーブ 900mL"
     brand: "サンスター（GUM）"
     price: 1024
@@ -141,6 +107,40 @@ products:
         available: true
         rating: 0
         reviewCount: 0
+    genreId: "208265"
+  - rank: 4
+    name: "薬用リステリン トータルケアプラス 1500mL"
+    brand: "ジョンソン・エンド・ジョンソン（リステリン）"
+    price: 1587
+    capacity: "1500mL"
+    pricePerUnit: "約1.1円/mL"
+    rating: 4.41
+    reviewCount: 17
+    features:
+      - "4種のエッセンシャルオイルを有効成分とする薬用洗口液"
+      - "口臭・歯肉炎の予防など複数の目的に使える多機能タイプ"
+      - "液体だから歯ブラシが届かない場所もケア"
+    pros:
+      - "1000mLの単品なので、まとめ買い前のお試しにも向く"
+      - "エッセンシャルオイル配合の定番ブランド"
+      - "1本単位で買えるので保管場所を取りにくい"
+    cons:
+      - "刺激が強く、初心者には辛い"
+      - "アルコール配合で口が乾燥しやすい"
+    recommendedFor: "口臭・虫歯予防を徹底したい方・刺激に慣れている方・コスパ重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901730200189%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11113425%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/189/4901730200189.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180740-6.html"
+        matchStatus: "matched"
+        updatedAt: "2026-10-27"
+        price: 5098
+        rating: 4.63
+        reviewCount: 8
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4901730180740-6"
+        available: true
     genreId: "208265"
   - rank: 5
     name: "薬用リステリン トータルケアゼロプラス 1000mL×6本"

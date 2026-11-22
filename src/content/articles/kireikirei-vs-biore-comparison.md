@@ -3,45 +3,11 @@ title: "キレイキレイとビオレuどっちがいい？【2026年版】殺�
 description: "キレイキレイ（ライオン）とビオレu（花王）のハンドソープはどっちがいい？定番2ブランドの違いを、薬用殺菌成分の位置づけ・泡と液体の選択肢・1mLあたりの単価・肌あたりの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "hand-soap"
 publishedAt: "2026-08-31"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 articleType: "comparison"
 draft: false
 products:
   - rank: 1
-    name: "ビオレu 薬用 泡ハンドソープ つめかえ用 2L"
-    brand: "花王（ビオレu）"
-    price: 1350
-    capacity: "2L"
-    pricePerUnit: "約0.68円/mL"
-    rating: 4.66
-    reviewCount: 244
-    features:
-      - "素肌と同じ弱酸性設計の泡ハンドソープ"
-      - "殺菌成分を配合した薬用タイプ"
-      - "本体容器に移して使う大容量の詰め替え仕様"
-    pros:
-      - "泡タイプの詰め替えをまとめて確保したい家庭に向く"
-      - "弱酸性で家族みんなで使いやすい"
-      - "花王ブランドで店頭・通販ともに入手しやすい"
-    cons:
-      - "保管スペースを取るサイズ感"
-      - "詰め替え用のため泡ポンプ容器が別途必要"
-    recommendedFor: "家族の人数が多く、泡タイプをまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqo7n.3rdw69f3.g00rqo7n.3rdw7041/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famuse37%2F901009864%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famuse37%2Fi%2F10047232%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/amuse37/cabinet/img50/901009864.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Freonstyle%2F4901301243935.html"
-        matchStatus: "matched"
-        updatedAt: "2026-11-17"
-        price: 1430
-        rating: 4.76
-        reviewCount: 50
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/reonstyle_4901301243935"
-        available: true
-    genreId: "204748"
-  - rank: 2
     name: "ビオレu 泡ハンドソープ つめかえ用 770mL"
     brand: "花王（ビオレu）"
     price: 550
@@ -75,6 +41,40 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2874540019"
         available: true
     pricePerUnit: "約0.71円/mL"
+  - rank: 2
+    name: "ビオレu 薬用 泡ハンドソープ つめかえ用 2L"
+    brand: "花王（ビオレu）"
+    price: 1495
+    capacity: "2L"
+    pricePerUnit: "約0.75円/mL"
+    rating: 4.54
+    reviewCount: 13
+    features:
+      - "素肌と同じ弱酸性設計の泡ハンドソープ"
+      - "殺菌成分を配合した薬用タイプ"
+      - "本体容器に移して使う大容量の詰め替え仕様"
+    pros:
+      - "泡タイプの詰め替えをまとめて確保したい家庭に向く"
+      - "弱酸性で家族みんなで使いやすい"
+      - "花王ブランドで店頭・通販ともに入手しやすい"
+    cons:
+      - "保管スペースを取るサイズ感"
+      - "詰め替え用のため泡ポンプ容器が別途必要"
+    recommendedFor: "家族の人数が多く、泡タイプをまとめ買いしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u679n.3rdw6354.g00u679n.3rdw7de8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmart-in%2F4901301243935-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmart-in%2Fi%2F10010582%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mart-in/cabinet/sku-pro_01/4901301243935-001.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Freonstyle%2F4901301243935.html"
+        matchStatus: "matched"
+        updatedAt: "2026-11-17"
+        price: 1430
+        rating: 4.76
+        reviewCount: 50
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/reonstyle_4901301243935"
+        available: true
+    genreId: "304758"
   - rank: 3
     name: "キレイキレイ 薬用ハンドソープ 業務用 4L"
     brand: "ライオン（キレイキレイ）"

@@ -61,7 +61,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約12円/g"
     rating: 4.54
-    reviewCount: 714
+    reviewCount: 715
     features:
       - "化粧品のマニキュアタイプ染毛料で、髪の表面に色をつける（HC染料・塩基性染料・天然色素）"
       - "パラフェニレンジアミンなどの酸化染料は使っていないと表示"
@@ -130,7 +130,7 @@ products:
     capacity: "350g"
     pricePerUnit: "約16円/g"
     rating: 4.28
-    reviewCount: 3156
+    reviewCount: 3159
     features:
       - "シャンプー・トリートメント・白髪染めを1本にしたクリームシャンプー（350g）"
       - "塩基性染料・HC染料に炭を配合（成分表示）"
@@ -208,7 +208,7 @@ products:
     capacity: "3個"
     pricePerUnit: "約5808円/個"
     rating: 4.53
-    reviewCount: 1746
+    reviewCount: 1747
     features:
       - "KUROクリームシャンプー400gの3本セット（メーカー公式店）"
       - "黒3本・茶3本・黒2本と茶1本・茶2本と黒1本の4通りから選べる"

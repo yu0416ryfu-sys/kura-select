@@ -190,7 +190,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4749
+    reviewCount: 4751
     features:
       - "ブランシュ・シトラスベール・ジャスミンドレなど、複数の香りから選べる"
       - "ヘアのほか、手・爪・体やバスオイルとしても使えるマルチユースオイル"
