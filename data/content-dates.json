@@ -184,8 +184,12 @@
     "contentUpdatedAt": "2026-11-09"
   },
   "dog-food-comparison": {
-    "hash": "8b623c5e245696d61e26c0b3832b2b7ce702ce1ab785ebf71e657aae1d13596e",
-    "contentUpdatedAt": "2026-11-08"
+    "hash": "839edad3acb072919802f7c67d61d42c50bb35f8bedbb4c2c200010cff49e26b",
+    "contentUpdatedAt": "2026-11-22"
+  },
+  "dog-jerky-comparison": {
+    "hash": "2e73eaaf597ecf0dfa735ad3f2a249341cf38eb7b5af90fb242bd0fcb5d0eb2c",
+    "contentUpdatedAt": "2026-11-22"
   },
   "drain-cleaner-comparison": {
     "hash": "fe4b997ddf532f1f6e7c80b78897329f01448e2a5c54eb6d59cebe08d3ba3c98",
