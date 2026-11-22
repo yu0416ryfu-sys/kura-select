@@ -6,5 +6,6 @@
   { "slug": "razor-comparison", "reason": "計画書5 Part B 規則5（クロール済み・未登録）", "date": "2026-10-17" },
   { "slug": "insect-repellent-comparison", "reason": "記事の入れ替え M4（GSC 28日表示2・Bing 4週表示12・送客0。夏の需要期 06〜08月も表示ほぼ0）", "date": "2026-11-21" },
   { "slug": "father-day-gift-comparison", "reason": "季節品の外す判断（2026年分を遅れて実施・ユーザー判断）。需要期 05-16〜06-30 の GSC 表示7（28日あたり約4）・送客0。Bing は需要期のデータなし。2027-03-01 に解除するか判断", "date": "2026-11-21" },
-  { "slug": "reviews/shampoo-pantene-damage-care-review", "reason": "記事の入れ替え M4（GSC 28日表示0・Bing 4週は行なしが 11-02 から3回続き表示0とみなす・送客0）", "date": "2026-11-21" }
+  { "slug": "reviews/shampoo-pantene-damage-care-review", "reason": "記事の入れ替え M4（GSC 28日表示0・Bing 4週は行なしが 11-02 から3回続き表示0とみなす・送客0）", "date": "2026-11-21" },
+  { "slug": "diaper-pants-m-comparison", "reason": "記事の入れ替え M4（GSC 28日表示3・Bing 4週は行なし2回目で、URL 検査で Bing 登録済みを確認し表示0とみなす・送客0）", "date": "2026-11-22" }
 ]
