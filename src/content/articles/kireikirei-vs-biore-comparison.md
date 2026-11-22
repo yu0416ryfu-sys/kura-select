@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawarikikaku%2F4-kireikireix1.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-22"
         price: 2440
         rating: 4.83
         reviewCount: 6
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301446404.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-22"
         price: 1149
         rating: 0
         reviewCount: 0
@@ -171,7 +171,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3112833/"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-22"
         price: 4180
         rating: 4.81
         reviewCount: 73
@@ -203,13 +203,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903301282228.html"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3242257/"
         matchStatus: "pending"
-        updatedAt: "2026-11-17"
-        price: 481
-        rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903301282228"
+        updatedAt: "2026-11-22"
+        price: 535
+        rating: 4.65
+        reviewCount: 210
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_3242257"
         available: true
   - rank: 7
     name: "キレイキレイ 薬用泡ハンドソープ 詰替用"
@@ -259,13 +259,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/9836705/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/2787233/"
         matchStatus: "pending"
-        updatedAt: "2026-11-19"
-        price: 479
-        rating: 4.5
-        reviewCount: 127
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_9836705"
+        updatedAt: "2026-11-22"
+        price: 720
+        rating: 4.69
+        reviewCount: 95
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_2787233"
         available: true
     genreId: "304758"
 tags:

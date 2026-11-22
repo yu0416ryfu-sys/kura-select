@@ -4,7 +4,7 @@ description: "衣類・布用消臭スプレーを1プッシュあたりのコ�
 category: "sanitizing-spray"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 products:
   - rank: 1
     name: "ファブリーズ W除菌+消臭 詰め替え 1280ml×2セット"
@@ -70,7 +70,7 @@ products:
     capacity: "370mL"
     pricePerUnit: "約1.6円/mL"
     rating: 4.8
-    reviewCount: 45
+    reviewCount: 44
     features:
       - "W除菌・消臭機能とフレグランスを兼ね備えたファブリックミスト"
       - "オーガニック植物エキス配合のクラシックフローラルの香り"

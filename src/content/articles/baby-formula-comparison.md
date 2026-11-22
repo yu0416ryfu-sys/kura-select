@@ -4,7 +4,7 @@ description: "乳児用粉ミルクのおすすめ8選を、大缶と詰め替�
 category: "baby-formula"
 publishedAt: "2026-11-02"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
@@ -48,7 +48,7 @@ products:
     capacity: "400g×2袋（800g）"
     pricePerUnit: "約3.1円/g"
     rating: 4.71
-    reviewCount: 99
+    reviewCount: 100
     features:
       - "400gの袋を専用ケースに袋ごと入れて使う詰め替えタイプ。中身は大缶と同じ"
       - "専用ケースへ入れたあとは1か月以内に使い切るよう表示"
@@ -236,13 +236,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwellness-web%2F10183591.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkusurinofukutaro%2F10183591.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-22"
         price: 6188
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/wellness-web_10183591"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kusurinofukutaro_10183591"
         available: true
   - rank: 8
     name: "森永 E赤ちゃん 大缶 800g"
@@ -250,8 +250,8 @@ products:
     price: 4555
     capacity: "800g"
     pricePerUnit: "約5.7円/g"
-    rating: 4.82
-    reviewCount: 38
+    rating: 4.79
+    reviewCount: 39
     features:
       - "すべての牛乳たんぱく質を酵素で分解したペプチドミルク（ミルクアレルギー疾患用ではない）"
       - "栄養成分は「はぐくみ」と同じで、乳児用調製粉乳として許可を受けているとメーカーが説明"
@@ -272,10 +272,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmorinaga-milk%2Fppeakan0ba00no04.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
-        price: 17531
-        rating: 4.85
-        reviewCount: 41
+        updatedAt: "2026-11-22"
+        price: 15960
+        rating: 4.86
+        reviewCount: 43
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/morinaga-milk_ppeakan0ba00no04"
         available: true
 tags:

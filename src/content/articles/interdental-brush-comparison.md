@@ -4,7 +4,7 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
@@ -35,8 +35,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fippo0709%2F10073035-03-01.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
-        price: 1489
+        updatedAt: "2026-11-22"
+        price: 1392
         rating: 4.6
         reviewCount: 5
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ippo0709_10073035-03-01"
@@ -69,10 +69,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F107212.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-22"
         price: 200
         rating: 4.45
-        reviewCount: 55
+        reviewCount: 56
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/d-fit_107212"
         available: true
   - rank: 3
@@ -102,8 +102,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901616216099.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
-        price: 245
+        updatedAt: "2026-11-22"
+        price: 254
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901616216099"
         available: true
         rating: 4.83
@@ -159,8 +159,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
-        price: 263
+        updatedAt: "2026-11-22"
+        price: 267
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
         available: true
         rating: 0
@@ -169,9 +169,9 @@ products:
   - rank: 6
     name: "デンタルプロ 歯間ブラシ L字型 SS 10本入"
     brand: "デンタルプロ"
-    price: 288
+    price: 319
     capacity: "10本"
-    pricePerUnit: "約29円/本"
+    pricePerUnit: "約32円/本"
     rating: 5
     reviewCount: 2
     features:
@@ -251,7 +251,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fi-ha%2F24000005.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-22"
         price: 1950
         rating: 4.79
         reviewCount: 389

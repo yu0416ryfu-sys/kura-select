@@ -4,7 +4,7 @@ description: "入れ歯洗浄剤のおすすめ9選を1錠あたりの単価で�
 category: "denture-cleaner"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-22"
 products:
   - rank: 1
     name: "スッキリデント 部分入れ歯総入れ歯兼用 120錠"
@@ -200,34 +200,11 @@ products:
         available: true
     genreId: "208216"
   - rank: 7
-    name: "ロートピカ 義歯洗浄剤 6箱セット"
-    brand: "松風"
-    price: 5738
-    capacity: "28錠+4包×6箱"
-    pricePerUnit: "約34円/錠"
-    rating: 4.75
-    reviewCount: 63
-    features:
-      - "歯科医院でも扱われる義歯洗浄剤"
-      - "毎日用の錠剤タイプと週1回用の顆粒タイプを組み合わせ"
-      - "まとめ買いに向く複数箱セット"
-    pros:
-      - "毎日ケアと週次ケアを使い分けやすい"
-      - "セット買いで補充の手間を減らしやすい"
-      - "歯科専売品として選びやすい安心感がある"
-    cons:
-      - "2種類の使い分けを覚える必要がある"
-      - "保管スペースをやや確保したい"
-    recommendedFor: "毎日ケアと週次ケアを分けて丁寧に手入れしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F7171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10004542%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1119_p10/kirikae2/25930_7171_sam.jpg?_ex=128x128"
-    genreId: "208216"
-  - rank: 8
     name: "フィジオクリーン キラリ錠剤 30錠 6箱"
     brand: "ニッシン"
-    price: 6095
+    price: 5600
     capacity: "30錠×6箱"
-    pricePerUnit: "約34円/錠"
+    pricePerUnit: "約31円/錠"
     rating: 4.73
     reviewCount: 41
     features:
@@ -255,6 +232,29 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/todaysun_2022yr12mt18daywq069ic09f694wp2"
         available: true
+    genreId: "208216"
+  - rank: 8
+    name: "ロートピカ 義歯洗浄剤 6箱セット"
+    brand: "松風"
+    price: 5738
+    capacity: "28錠+4包×6箱"
+    pricePerUnit: "約34円/錠"
+    rating: 4.75
+    reviewCount: 63
+    features:
+      - "歯科医院でも扱われる義歯洗浄剤"
+      - "毎日用の錠剤タイプと週1回用の顆粒タイプを組み合わせ"
+      - "まとめ買いに向く複数箱セット"
+    pros:
+      - "毎日ケアと週次ケアを使い分けやすい"
+      - "セット買いで補充の手間を減らしやすい"
+      - "歯科専売品として選びやすい安心感がある"
+    cons:
+      - "2種類の使い分けを覚える必要がある"
+      - "保管スペースをやや確保したい"
+    recommendedFor: "毎日ケアと週次ケアを分けて丁寧に手入れしたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F7171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10004542%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1119_p10/kirikae2/25930_7171_sam.jpg?_ex=128x128"
     genreId: "208216"
   - rank: 9
     name: "スマイルクリーナータブレット 90錠"

@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バスク�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 products:
   - rank: 1
     name: "入浴剤 バラエティ詰め合わせ 100個セット"
@@ -129,7 +129,7 @@ products:
     capacity: "150g×6個（900g）"
     pricePerUnit: "約1.6円/g"
     rating: 4.43
-    reviewCount: 4349
+    reviewCount: 4350
     features:
       - "純度99%以上の硫酸マグネシウム配合"
       - "好みの香りを6種類から自由に選べる個包装"
@@ -149,7 +149,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flibertylife%2Fb-epsom-05.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-22"
         price: 1480
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/libertylife_b-epsom-05"
         available: true
@@ -162,7 +162,7 @@ products:
     price: 4400
     capacity: "1L"
     rating: 4.66
-    reviewCount: 1576
+    reviewCount: 1577
     features:
       - "60種類以上の鉱物ミネラルをうたう液体の入浴剤"
       - "無香料・無着色"
@@ -221,7 +221,7 @@ products:
     price: 2300
     capacity: "750g（30回分）"
     rating: 4.68
-    reviewCount: 7179
+    reviewCount: 7181
     features:
       - "水素化ホウ素Na・炭酸水素Naなどを配合した水素入浴料"
       - "無香料の国産品で、商品区分は化粧品"
@@ -242,7 +242,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsuisosum%2Fh-and-750.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-22"
         price: 3800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/suisosum_h-and-750"
         available: true
@@ -276,7 +276,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyuyanotemiyage%2F123636322.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-22"
         price: 1300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yuyanotemiyage_123636322"
         available: true

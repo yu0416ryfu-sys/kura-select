@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 products:
   - rank: 1
     name: "クリニカ アドバンテージ ハミガキ クールミント 130g×3本"
@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F65916.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-22"
         price: 1322
         rating: 0
         reviewCount: 0
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/1898149/"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-22"
         price: 740
         rating: 4.58
         reviewCount: 26
@@ -78,11 +78,11 @@ products:
   - rank: 3
     name: "キラルンペースト 100g"
     brand: "RUKEN"
-    price: 649
+    price: 1298
     capacity: "100g"
-    pricePerUnit: "約6.5円/g"
+    pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 11093
+    reviewCount: 11099
     features:
       - "炭酸カルシウムとヒドロキシアパタイトを研磨剤に使うペースト（化粧品）"
       - "フッ素とラウリル硫酸ナトリウムを使わない処方"
@@ -97,18 +97,18 @@ products:
       - "泡が少なく、磨いた感じが物足りないという声がある"
     recommendedFor: "フッ素なしで、泡立ちの少ないペーストを探している方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qk8an.3rdw62a6.g00qk8an.3rdw7d28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fru-collagen%2Ftoothp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fru-collagen%2Fi%2F10000131%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/50off_toothp_02.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/ru-collagen/cabinet/kilalun_n/paste_ok_08.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F007.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-22"
         price: 1298
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_007"
         available: true
         rating: 4.3
-        reviewCount: 1084
+        reviewCount: 1086
     genreId: "204759"
   - rank: 4
     name: "キラルン 2点ミニセット パウダー5g＋ペースト15g"
@@ -117,7 +117,7 @@ products:
     capacity: "パウダー5g + ペースト15g（計20g）"
     pricePerUnit: "約16.4円/g"
     rating: 4.19
-    reviewCount: 4757
+    reviewCount: 4758
     features:
       - "キラルンのパウダー5gとペースト15gを試せるサンプルサイズ"
       - "どちらも炭酸カルシウムとヒドロキシアパタイトを研磨剤に使う"
@@ -141,7 +141,7 @@ products:
     capacity: "55g"
     pricePerUnit: "約18円/g"
     rating: 4.31
-    reviewCount: 3286
+    reviewCount: 3287
     features:
       - "炭酸カルシウムとハイドロキシアパタイトを研磨剤に使う粉タイプ（化粧品）"
       - "フッ素とラウリル硫酸ナトリウムを使わない処方"
@@ -162,7 +162,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F008.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-22"
         price: 1254
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_008"
         available: true
@@ -269,7 +269,7 @@ products:
     price: 2580
     capacity: "120g"
     rating: 4.48
-    reviewCount: 2436
+    reviewCount: 2438
     features:
       - "モノフルオロリン酸ナトリウムなど3つの有効成分を配合した薬用歯磨き（医薬部外品）"
       - "炭酸カルシウムと無水ケイ酸を清掃剤に使う、やや硬めのペースト"
@@ -293,7 +293,7 @@ products:
     price: 2200
     capacity: "50g"
     rating: 4.37
-    reviewCount: 2261
+    reviewCount: 2262
     features:
       - "グリチルリチン酸ジカリウムを有効成分とする薬用ジェル（医薬部外品）"
       - "泡立たないジェルで、清掃剤に炭酸水素Naと含水ケイ酸を使う"

@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
@@ -117,7 +117,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6067551.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-22"
         price: 1070
         rating: 0
         reviewCount: 0
@@ -166,7 +166,7 @@ products:
     price: 630
     capacity: "20mL"
     rating: 4.71
-    reviewCount: 2017
+    reviewCount: 2018
     features:
       - "全成分はホホバ種子油のみ。脱色せず脱臭したゴールデンタイプで、着色料・香料無添加、防腐剤フリー"
       - "20mLの遮光プラボトルから1000mLまで、サイズと容器を選べる"
@@ -190,7 +190,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4731
+    reviewCount: 4749
     features:
       - "ブランシュ・シトラスベール・ジャスミンドレなど、複数の香りから選べる"
       - "ヘアのほか、手・爪・体やバスオイルとしても使えるマルチユースオイル"
@@ -247,7 +247,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6016812.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-22"
         price: 2563
         rating: 4.44
         reviewCount: 16

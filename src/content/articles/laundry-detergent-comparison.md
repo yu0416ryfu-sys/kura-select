@@ -4,7 +4,7 @@ description: "洗濯洗剤は液体・粉末・ジェルボールのどれがコ
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -91,7 +91,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301452429x8.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-22"
         price: 3960
         rating: 4.78
         reviewCount: 9
@@ -100,11 +100,11 @@ products:
   - rank: 4
     name: "アタックZERO つめかえ用 2300g"
     brand: "アタック（花王）"
-    price: 2425
+    price: 2483
     capacity: "2300g"
     pricePerUnit: "約1.1円/g"
-    rating: 4.79
-    reviewCount: 34
+    rating: 4.77
+    reviewCount: 35
     features:
       - "濃縮タイプの液体洗剤"
       - "部屋干しの臭い対策をうたうシリーズ"
@@ -148,7 +148,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnicobase%2F2nico-4987176352453.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-22"
         price: 2772
         rating: 0
         reviewCount: 0

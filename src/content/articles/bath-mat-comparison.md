@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
@@ -34,10 +34,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftaorunomori%2F10001288.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
+        updatedAt: "2026-11-22"
         price: 990
         rating: 4.43
-        reviewCount: 205
+        reviewCount: 206
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/taorunomori_10001288"
         available: true
     genreId: "100650"
@@ -118,7 +118,7 @@ products:
     capacity: "50×80cm 1枚"
     pricePerUnit: "約6050円/枚"
     rating: 4.65
-    reviewCount: 1254
+    reviewCount: 1255
     features:
       - "アクリル100%の吸水繊維「乾度良好」（抗菌防臭加工）"
       - "約50×80cmの大判で、高さ約29mmの厚手"
@@ -186,7 +186,7 @@ products:
     price: 1170
     capacity: "40×60cm 1枚"
     rating: 4.34
-    reviewCount: 1105
+    reviewCount: 1107
     features:
       - "マイクロファイバーのマット（素材表示はポリエステル、裏面はTRP樹脂）"
       - "40×60cm・50×80cmと、それぞれ毛足短めのタイプがある"
@@ -244,7 +244,7 @@ products:
     price: 7480
     capacity: "1枚"
     rating: 4.59
-    reviewCount: 29449
+    reviewCount: 29450
     features:
       - "国産珪藻土・消石灰・パルプ繊維などの板状バスマット（約42.5×57.5cm・厚さ9mm・約1.8kg）"
       - "日本製・発売開始以来アスベスト不使用"
@@ -268,7 +268,7 @@ products:
     price: 2070
     capacity: "60×40cm / 70×50cm"
     rating: 4.43
-    reviewCount: 2741
+    reviewCount: 2742
     features:
       - "珪藻土パウダーを使った、やわらかいソフトタイプ（硬い板ではない）"
       - "厚さ5mm・60×40cmと70×50cm"

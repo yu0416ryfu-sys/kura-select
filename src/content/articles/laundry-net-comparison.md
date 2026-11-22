@@ -4,15 +4,15 @@ description: "洗濯ネットおすすめ10選をコスパ・用途別に比較�
 category: "laundry-net"
 publishedAt: "2026-05-29"
 articleType: "comparison"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
     name: "洗濯ネット 10枚入 ブラジャー専用"
     brand: "家具ドキッ"
-    price: 1580
+    price: 1399
     capacity: "10枚（13×10cm）"
-    pricePerUnit: "約158円/枚"
+    pricePerUnit: "約140円/枚"
     rating: 0
     reviewCount: 0
     features:

@@ -4,7 +4,7 @@ description: "A4コピー用紙のおすすめ9選を、高白色・標準白色
 category: "copy-paper"
 publishedAt: "2026-10-31"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
@@ -34,11 +34,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fofficetrust%2F014000.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        matchStatus: "matched"
+        updatedAt: "2026-11-22"
         price: 3979
         rating: 4.68
-        reviewCount: 1891
+        reviewCount: 1911
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/officetrust_014000"
         available: true
   - rank: 2
@@ -48,7 +48,7 @@ products:
     capacity: "500枚×5冊（2500枚）"
     pricePerUnit: "約0.89円/枚"
     rating: 4.51
-    reviewCount: 148
+    reviewCount: 150
     features:
       - "古紙パルプ配合率70%の再生紙（商品ページ表記）"
       - "グリーン購入法適合の表示がある"
@@ -116,7 +116,7 @@ products:
     capacity: "500枚×10冊（5000枚）"
     pricePerUnit: "約0.92円/枚"
     rating: 4.59
-    reviewCount: 1576
+    reviewCount: 1577
     features:
       - "ISO白色度約93%・坪量約68g/m²・紙厚約94μm（商品ページ表記）"
       - "コピー用紙の中ではやや厚めの紙厚"
@@ -184,7 +184,7 @@ products:
     capacity: "500枚×5冊（2500枚）"
     pricePerUnit: "約0.96円/枚"
     rating: 4.63
-    reviewCount: 262
+    reviewCount: 263
     features:
       - "10冊入りと同じ銘柄の5冊入り"
       - "白色度92%で、PEFC認証材を使った用紙"

@@ -4,14 +4,14 @@ description: "歯ブラシを1本あたりのコストで徹底比較。Shu&Shu�
 category: "toothpaste"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 products:
   - rank: 1
     name: "FEED Shu&Shu 大人用歯ブラシアソート 20本 M"
     brand: "Ciメディカル"
-    price: 1200
+    price: 1080
     capacity: "20本"
-    pricePerUnit: "約60円/本"
+    pricePerUnit: "約54円/本"
     rating: 5
     reviewCount: 1
     features:
@@ -35,7 +35,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約62円/本"
     rating: 4.46
-    reviewCount: 2432
+    reviewCount: 2433
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -57,7 +57,7 @@ products:
     capacity: "50本"
     pricePerUnit: "約73円/本"
     rating: 4.66
-    reviewCount: 1313
+    reviewCount: 1316
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -113,7 +113,7 @@ products:
     capacity: "10本（約10ヶ月分）"
     pricePerUnit: "約140円/本"
     rating: 4.69
-    reviewCount: 2312
+    reviewCount: 2316
     features:
       - "歯科医院でも採用される定番ブラシ"
       - "PBT毛材で耐久性が高くヘタりにくい"
@@ -202,7 +202,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmymouthpeace%2F145.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-22"
         price: 2898
         rating: 4.89
         reviewCount: 18
@@ -214,8 +214,8 @@ products:
     price: 3026
     capacity: "10本"
     pricePerUnit: "約303円/本"
-    rating: 4.75
-    reviewCount: 8
+    rating: 4.78
+    reviewCount: 9
     features:
       - "歯科専売のルシェロ B-10（ベーシックタイプ）"
       - "ラウンド毛の3列植毛"
@@ -236,7 +236,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitem-for-life%2Fruscello-b10m-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-22"
         price: 2580
         rating: 4.89
         reviewCount: 27

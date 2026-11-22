@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftabemore%2Flr6n-03ns4.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-22"
         price: 1250
         rating: 4.79
         reviewCount: 160
@@ -44,7 +44,7 @@ products:
   - rank: 2
     name: "富士通 アルカリ乾電池 プレミアムS 単3形 16本"
     brand: "富士通（FDK）"
-    price: 960
+    price: 963
     capacity: "16本"
     pricePerUnit: "約60円/本"
     rating: 0
@@ -69,7 +69,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisiadenki%2F4976680250058.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-22"
         price: 1188
         rating: 0
         reviewCount: 0
@@ -82,7 +82,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約64円/本"
     rating: 4.66
-    reviewCount: 1249
+    reviewCount: 1251
     features:
       - "10年長期保存対応のパナソニック製アルカリ電池"
       - "1パック4本×5パック構成で使いやすい量を分割して管理できる"
@@ -102,12 +102,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftop1-price%2F20161219-16denchi.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
-        price: 1280
+        updatedAt: "2026-11-22"
+        price: 1270
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/top1-price_20161219-16denchi"
         available: true
         rating: 4.51
-        reviewCount: 3534
+        reviewCount: 3535
     genreId: "212634"
   - rank: 4
     name: "Panasonic アルカリ乾電池 単3形 20本パック"
@@ -170,12 +170,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodmedia-wholesale%2F20180822-000006.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-20"
+        updatedAt: "2026-11-22"
         price: 1699
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodmedia-wholesale_20180822-000006"
         available: true
-        rating: 4.84
-        reviewCount: 44
+        rating: 4.85
+        reviewCount: 46
     genreId: "212634"
   - rank: 6
     name: "エネボルト 充電池 単3 単4 セット 16本 ケース付 充電 電池 充電電池 充電"
@@ -204,12 +204,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset92116.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-15"
+        updatedAt: "2026-11-22"
         price: 3150
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_set92116"
         available: true
         rating: 4.46
-        reviewCount: 2186
+        reviewCount: 2190
     genreId: "566792"
   - rank: 7
     name: "充電池 単3 単4 16本 セット エネボルト 電池 2150mAh 950mAh "
@@ -238,12 +238,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fset92116.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-25"
+        updatedAt: "2026-11-22"
         price: 3150
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_set92116"
         available: true
         rating: 4.46
-        reviewCount: 2185
+        reviewCount: 2190
     genreId: "566792"
   - rank: 8
     name: "単3電池 8本セット 繰り返し使う 充電池約1000回繰り返し使える enelong"
@@ -271,11 +271,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoroya%2Fev30008.html"
-        matchStatus: "pending"
-        updatedAt: "2026-07-10"
+        matchStatus: "matched"
+        updatedAt: "2026-11-22"
         price: 3100
         rating: 4.41
-        reviewCount: 557
+        reviewCount: 561
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coroya_ev30008"
         available: true
     genreId: "566792"
@@ -284,8 +284,8 @@ products:
     brand: "BIGCAPA"
     price: 1000
     capacity: "40本"
-    rating: 4.63
-    reviewCount: 1208
+    rating: 4.64
+    reviewCount: 1209
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"

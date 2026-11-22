@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ8選を1回�
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
@@ -104,7 +104,7 @@ products:
     price: 3680
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7803
+    reviewCount: 7848
     features:
       - "1箱は凝固剤60袋（50袋＋10袋）と黒い汚物袋60枚、防臭袋5枚"
       - "凝固剤1袋で500mlの水が約30秒で固まる表示"
@@ -172,7 +172,7 @@ products:
     price: 1580
     capacity: "50回分"
     rating: 4.6
-    reviewCount: 751
+    reviewCount: 752
     features:
       - "凝固剤50回分・黒の排泄用袋50枚・便座カバー2枚・防臭袋5枚・手袋100枚（50組）"
       - "15年保存と防災士監修の表示あり"
@@ -228,7 +228,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faquatalk%2F10000314.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-22"
         price: 3000
         rating: 4.34
         reviewCount: 382
@@ -240,7 +240,7 @@ products:
     price: 1580
     capacity: "20回分"
     rating: 4.5
-    reviewCount: 7328
+    reviewCount: 7356
     features:
       - "凝固剤（10g入り）20回分・排泄用袋20枚・便座カバー1枚・防臭袋2枚・手袋50枚"
       - "20回分の箱は約19.5×30.5×3.2cmの薄い硬紙箱"
@@ -258,13 +258,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyandk%2Fportable-toilet.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkouseisyouten%2Fdzcsh735he.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-19"
-        price: 3480
+        updatedAt: "2026-11-22"
+        price: 1180
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yandk_portable-toilet"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kouseisyouten_dzcsh735he"
         available: true
     priceMax: 28800
     genreId: "501137"

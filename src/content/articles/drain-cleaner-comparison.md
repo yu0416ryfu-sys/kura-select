@@ -4,7 +4,7 @@ description: "排水口クリーナーを容量あたりのコストで比較。
 category: "drain-cleaner"
 publishedAt: "2026-06-03"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
@@ -57,7 +57,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fatlife%2F101-12085.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-22"
         price: 331
         rating: 0
         reviewCount: 1
@@ -147,9 +147,9 @@ products:
   - rank: 6
     name: "ピーピースルーF 600g×12本セット"
     brand: "和協産業"
-    price: 21800
+    price: 21200
     capacity: "600g×12本（7200g）"
-    pricePerUnit: "約3.0円/g"
+    pricePerUnit: "約2.9円/g"
     rating: 4.67
     reviewCount: 6
     features:
@@ -170,9 +170,9 @@ products:
   - rank: 7
     name: "ピーピースルーF 600g×2本セット"
     brand: "和協産業"
-    price: 4110
+    price: 3970
     capacity: "600g×2本（1200g）"
-    pricePerUnit: "約3.4円/g"
+    pricePerUnit: "約3.3円/g"
     rating: 4.58
     reviewCount: 363
     features:
@@ -194,8 +194,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6038803.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
-        price: 3750
+        updatedAt: "2026-11-22"
+        price: 3740
         rating: 4.66
         reviewCount: 325
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6038803"
@@ -262,10 +262,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6017917.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-02"
+        updatedAt: "2026-11-22"
         price: 2290
         rating: 4.35
-        reviewCount: 822
+        reviewCount: 826
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/osharecafe_6017917"
         available: true
     genreId: "101839"

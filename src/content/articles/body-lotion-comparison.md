@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
@@ -277,7 +277,7 @@ products:
       - "価格や在庫は更新時点で変わる可能性がある"
     recommendedFor: "選択肢を増やして用途に合う商品を比較したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tds4n.3rdw67bf.g00tds4n.3rdw7dc8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuishodo-pharma%2F4987314009041%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuishodo-pharma%2Fi%2F10000040%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suishodo-pharma/cabinet/mamafy/milkylotion/milky310310_thm-new.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/suishodo-pharma/cabinet/mamafy/milkylotion/milky310310_thm-p10.jpg?_ex=128x128"
     priceMax: 7920
     genreId: "205205"
   - rank: 10

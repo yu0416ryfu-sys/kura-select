@@ -4,7 +4,7 @@ description: "蚊・マダニ対策の虫除けスプレーをコスパ・成分
 category: "insect-repellent"
 publishedAt: "2026-05-22"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
@@ -239,6 +239,17 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hibanonnon-a-2-p/thum/hibanonnon-a-2-p.jpg?_ex=128x128"
     priceMax: 15288
     genreId: "401642"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbrhouse%2F4573331719959-2.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-22"
+        price: 7460
+        rating: 4.67
+        reviewCount: 3
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/brhouse_4573331719959-2"
+        available: true
   - rank: 8
     name: "アンチバグ プレミアム"
     brand: "AROMICstyle"
@@ -279,7 +290,7 @@ products:
     price: 1386
     capacity: "100ml"
     rating: 4.53
-    reviewCount: 1554
+    reviewCount: 1553
     features:
       - "ディート不使用・天然成分配合の赤ちゃんから使える虫よけスプレー"
       - "1本・3本・10本セットから選べる購入方法"

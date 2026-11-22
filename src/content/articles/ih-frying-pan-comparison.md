@@ -57,8 +57,8 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco3/item/ua39643/"
         matchStatus: "pending"
-        updatedAt: "2026-11-19"
-        price: 2697
+        updatedAt: "2026-11-22"
+        price: 2508
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco3_ua39643"
@@ -159,7 +159,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F3168430321212.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-22"
         price: 5018
         rating: 4.4
         reviewCount: 5

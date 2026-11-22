@@ -4,7 +4,7 @@ description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹
 category: "contact-lens"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 products:
   - rank: 1
     name: "ロートCキューブ ソフトワン モイストa"
@@ -104,7 +104,7 @@ products:
     capacity: "355mL×12本"
     pricePerUnit: "約1.1円/mL"
     rating: 4.81
-    reviewCount: 3031
+    reviewCount: 3032
     features:
       - "ソフトコンタクトレンズ用の洗浄・保存液セット"
       - "ボシュロムのレニューフレッシュを大容量で用意できる"
@@ -206,7 +206,7 @@ products:
     capacity: "355mL×4本"
     pricePerUnit: "約1.6円/mL"
     rating: 4.74
-    reviewCount: 1928
+    reviewCount: 1929
     features:
       - "レニューフレッシュを試しやすい本数でそろえられるセット"
       - "ソフトレンズの洗浄・すすぎ・消毒・保存に対応"

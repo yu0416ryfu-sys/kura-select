@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
@@ -101,8 +101,8 @@ products:
     brand: "王子ネピア"
     price: 5980
     capacity: "200組×90個"
-    rating: 4.67
-    reviewCount: 46
+    rating: 4.66
+    reviewCount: 47
     features:
       - "1パック200組（400枚）の2枚重ね・5パック単位"
       - "同じページで80個と90個を選ぶ出品"
@@ -190,7 +190,7 @@ products:
     price: 5980
     capacity: "200組×80個"
     rating: 4.66
-    reviewCount: 1312
+    reviewCount: 1313
     features:
       - "1パック200組（400枚）・5個×16パックの80個"
       - "シートは189×195mmで、この記事の中では大きめ"

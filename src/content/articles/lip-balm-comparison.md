@@ -158,13 +158,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdrug-yanagawa%2F4987316092676-mail-free.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdrug-yanagawa%2F4987316092676-mail.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-19"
-        price: 890
-        rating: 4.72
-        reviewCount: 46
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/drug-yanagawa_4987316092676-mail-free"
+        updatedAt: "2026-11-22"
+        price: 752
+        rating: 4.89
+        reviewCount: 19
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/drug-yanagawa_4987316092676-mail"
         available: true
   - rank: 6
     name: "アベンヌ 薬用リップケア モイスト 4g"
@@ -194,7 +194,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwlb%2Fav057.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-22"
         price: 968
         rating: 5
         reviewCount: 7
@@ -251,7 +251,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8366417/"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-22"
         price: 738
         rating: 4.66
         reviewCount: 149

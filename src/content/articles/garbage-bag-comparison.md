@@ -4,7 +4,7 @@ description: "ゴミ袋はどれがコスパよくお得？45L・20Lの人気8�
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 products:
   - rank: 1
     name: "TANOSEE　ゴミ袋エコノミー　乳白半透明"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7661730.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-22"
         price: 7656
         rating: 4.7
         reviewCount: 46
@@ -231,7 +231,7 @@ products:
       - "薄手を求める方には厚すぎる場合がある"
     recommendedFor: "45Lの丈夫なゴミ袋をまとめ買いしたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00umsyn.3rdw6998.g00umsyn.3rdw7ed2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeiyoujitsugyou%2Fk2404%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeiyoujitsugyou%2Fi%2F10000041%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keiyoujitsugyou/cabinet/11482914/13224248/imgrc0128933675.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keiyoujitsugyou/cabinet/11482914/13224248/1i.jpg?_ex=128x128"
     priceMax: 5600
     genreId: "216044"
 tags:

@@ -4,7 +4,7 @@ description: "卓上浄水ウォーターサーバーのおすすめ3選を、�
 category: "mineral-water"
 publishedAt: "2026-09-30"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-22"
 draft: false
 products:
   - rank: 1
@@ -59,8 +59,8 @@ products:
     price: 88000
     capacity: "1個"
     pricePerUnit: "約88000円/個"
-    rating: 0
-    reviewCount: 0
+    rating: 4
+    reviewCount: 1
     features:
       - "水道水を注ぐタンク式で、冷水・温水・常温水の3温度が出る"
       - "コンプレッサー式の冷水とヒーター式の温水を内蔵"
