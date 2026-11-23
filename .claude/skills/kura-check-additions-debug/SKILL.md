@@ -4,7 +4,7 @@ description: |
   KuraSelect の `pnpm check-additions` が出力した商品追加候補の不具合を調査し、
   `scripts/update-products.mjs` の候補生成・カテゴリ判定・重複判定・容量抽出まわりを改善するスキル。
   候補にカテゴリ外商品が混ざる、正しい商品が除外される、追加候補が0件になる、
-  reports/addition-urls-*.md の精度を上げたい場合に使う。
+  reports/toAI/kura-article-add/addition-urls-*.md の精度を上げたい場合に使う。
   kura-article-add が check-additions 由来候補のカテゴリ外混入を検知した場合にも使う。
 ---
 
@@ -15,7 +15,7 @@ description: |
 ## 入力として見るもの
 
 - 対象記事: `src/content/articles/{slug}-comparison.md`
-- 不適切候補の例: `reports/addition-urls-*.md` のURL・商品名
+- 不適切候補の例: `reports/toAI/kura-article-add/addition-urls-*.md` のURL・商品名
 - 期待カテゴリ: 記事frontmatterの `category`
 - `kura-article-add` のカテゴリ適合チェックで除外された候補がある場合、その商品名・URL・除外理由・レポート診断行
 
@@ -43,7 +43,7 @@ description: |
 
    存在しない場合はスキップする。
 
-2. `reports/addition-candidates-*.md` と `reports/addition-urls-*.md` を確認する。
+2. `reports/toAI/kura-article-add/addition-candidates-*.md` と `reports/toAI/kura-article-add/addition-urls-*.md` を確認する。
 3. `scripts/update-products.mjs` の以下を順に疑う。
    - `CATEGORY_SEARCH_RULES`: 検索語、include、exclude、units、minScore
    - `checkAdditionCandidateCategory`: カテゴリ語必須・除外語判定
@@ -62,8 +62,8 @@ corepack pnpm exec node scripts/update-products.mjs --check-additions --file={sl
 
 確認するもの:
 
-- `reports/addition-urls-YYYY-MM-DD.md` にカテゴリ外商品が残っていない
-- `reports/addition-candidates-YYYY-MM-DD.md` の「判定」行にカテゴリ語・除外語の根拠が出ている
+- `reports/toAI/kura-article-add/addition-urls-YYYY-MM-DD-<対象>.md` にカテゴリ外商品が残っていない
+- `reports/toAI/kura-article-add/addition-candidates-YYYY-MM-DD-<対象>.md` の「判定」行にカテゴリ語・除外語の根拠が出ている
 - 正しい候補が「URL違い同一商品」や「カテゴリ外」で誤除外されていない
 
 最後に必ず実行する。

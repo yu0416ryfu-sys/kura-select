@@ -19,7 +19,7 @@ description: |
 ユーザーから以下を受け取る:
 - **対象ファイル**: `src/content/articles/{slug}-comparison.md` のパス
 - **追加商品URL**: ランク番号と `item.rakuten.co.jp` URLのペア（1件以上）
-- または **追加候補レポート/JSONL**: `reports/addition-urls-*.md`、`reports/addition-candidates-*.md`、またはそれを加工したJSONLの商品候補
+- または **追加候補レポート/JSONL**: `reports/toAI/kura-article-add/addition-urls-<日付>-<対象>.md`、`reports/toAI/kura-article-add/addition-candidates-<日付>-<対象>.md`（`<対象>` は記事名。全記事なら `all`）、またはそれを加工したJSONLの商品候補
 
 ---
 
@@ -162,7 +162,7 @@ rg '"articleFile":"{確認したarticleFile}"' data/rag/capacity-patterns.jsonl
 
 ### check-additions 由来候補でカテゴリ外を検知した場合
 
-入力元が `pnpm check-additions` の出力、`reports/addition-urls-*.md`、`reports/addition-candidates-*.md`、またはそれを加工したJSONLの場合、カテゴリ外商品は単に除外して終わらせない。
+入力元が `pnpm check-additions` の出力、`reports/toAI/kura-article-add/addition-urls-*.md`、`reports/toAI/kura-article-add/addition-candidates-*.md`、またはそれを加工したJSONLの場合、カテゴリ外商品は単に除外して終わらせない。
 
 以下を控える:
 

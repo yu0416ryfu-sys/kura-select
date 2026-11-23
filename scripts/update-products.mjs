@@ -28,6 +28,7 @@ import { stripCapacityForKeyword, buildProductMatchSearchKeywords, createCandida
 import { CATEGORY_SEARCH_RULES, getAdditionSearchRule, resolveArticleSearchRule, checkAdditionCandidateCategory, getAdditionCandidateDiagnostics, scoreAdditionCandidate, isAllowedCapacityUnit, getPriceFrozenVariantNameReason } from './lib/search-rules.ts';
 import { isLikelySameProductName } from './lib/product-name-match.ts';
 import { appendPriceHistorySnapshot } from './lib/price-history.ts';
+import { capacityInputPath, additionReportPaths } from './lib/report-paths.ts';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const VERBOSE = process.argv.includes('--verbose');
@@ -295,12 +296,10 @@ function appendJsonlIfMissing(filePath, item) {
 }
 
 function appendCapacityReviewItem(item) {
-  const today = todayJst();
-  const legacyPath = resolve(process.cwd(), 'reports', `ai-capacity-input-${today}.jsonl`);
-  const aiPath = resolve(process.cwd(), 'reports/toAI/kura-capacity-ai', `capacity-input-${today}.jsonl`);
-  appendJsonlIfMissing(legacyPath, item);
-  appendJsonlIfMissing(aiPath, item);
-  return { legacyPath, aiPath };
+  // 読む側（RAG・商品名の集約・MCP）は直下の1本だけを読むので、そこにだけ追記する
+  const jsonlPath = capacityInputPath(resolve(process.cwd(), 'reports'), todayJst());
+  appendJsonlIfMissing(jsonlPath, item);
+  return { jsonlPath };
 }
 
 function writeProductMatchReport(items) {
@@ -2009,9 +2008,8 @@ async function checkAdditions() {
   const reportsDir = resolve(process.cwd(), 'reports/toAI/kura-article-add');
   if (!existsSync(reportsDir)) mkdirSync(reportsDir, { recursive: true });
 
-  const ts = Date.now();
-  const outPath = join(reportsDir, `addition-candidates-${today}-${ts}.md`);
-  const urlsOutPath = join(reportsDir, `addition-urls-${today}-${ts}.md`);
+  // 同じ日・同じ対象（--file=）で回し直したら上書きする。記事ごとの結果は別ファイルで残る
+  const { candidatesPath: outPath, urlsPath: urlsOutPath } = additionReportPaths(reportsDir, today, FILE_FILTER);
   const summary = sections.length > 0
     ? `追加候補あり記事: ${sections.length} 件`
     : needsAdditions === 0
