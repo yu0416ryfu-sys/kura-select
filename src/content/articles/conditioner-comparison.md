@@ -4,7 +4,7 @@ description: "コンディショナーを1mLあたりのコストで徹底比較
 category: "conditioner"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-23"
 products:
   - rank: 1
     name: "エッセンシャル しっとりまとまる コンディショナー 詰替 1080mL"
@@ -46,8 +46,8 @@ products:
     price: 6600
     capacity: "1800mL×4セット"
     pricePerUnit: "約0.92円/mL"
-    rating: 4.25
-    reviewCount: 4
+    rating: 4.2
+    reviewCount: 5
     features:
       - "地肌までさっぱりすすげる軽い使い心地"
       - "指どおりよく仕上がり毎日の使用に向く"

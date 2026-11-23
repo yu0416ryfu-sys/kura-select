@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-23"
 draft: false
 products:
   - rank: 1
@@ -190,7 +190,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4751
+    reviewCount: 4757
     features:
       - "ブランシュ・シトラスベール・ジャスミンドレなど、複数の香りから選べる"
       - "ヘアのほか、手・爪・体やバスオイルとしても使えるマルチユースオイル"
@@ -226,7 +226,7 @@ products:
     price: 1100
     capacity: "75mL"
     rating: 4.75
-    reviewCount: 2943
+    reviewCount: 2945
     features:
       - "水を加えないアウトバストリートメント。全成分の先頭はシクロペンタシロキサン・ジメチコンで、海藻エキスやオリーブ果実油を配合"
       - "無香料・無着色で、防腐剤無添加"

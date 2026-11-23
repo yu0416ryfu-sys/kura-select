@@ -4,7 +4,7 @@ description: "ヘアボーテ・レフィーネ・KUROなど市販の白髪染�
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-23"
 draft: false
 products:
   - rank: 1
@@ -130,7 +130,7 @@ products:
     capacity: "350g"
     pricePerUnit: "約16円/g"
     rating: 4.28
-    reviewCount: 3159
+    reviewCount: 3162
     features:
       - "シャンプー・トリートメント・白髪染めを1本にしたクリームシャンプー（350g）"
       - "塩基性染料・HC染料に炭を配合（成分表示）"
@@ -186,7 +186,7 @@ products:
     capacity: "2個"
     pricePerUnit: "約5808円/個"
     rating: 4.51
-    reviewCount: 2776
+    reviewCount: 2777
     features:
       - "KUROクリームシャンプー400gの2本セット（メーカー公式店）"
       - "ナチュラルブラック2本・ダークブラウン2本・各色1本から選べる"
@@ -207,8 +207,8 @@ products:
     price: 17424
     capacity: "3個"
     pricePerUnit: "約5808円/個"
-    rating: 4.53
-    reviewCount: 1747
+    rating: 4.52
+    reviewCount: 1748
     features:
       - "KUROクリームシャンプー400gの3本セット（メーカー公式店）"
       - "黒3本・茶3本・黒2本と茶1本・茶2本と黒1本の4通りから選べる"

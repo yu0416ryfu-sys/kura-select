@@ -4,7 +4,7 @@ description: "コンタクトレンズ洗浄液を1mLあたりのコストで徹
 category: "contact-lens"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-23"
 products:
   - rank: 1
     name: "ロートCキューブ ソフトワン モイストa"
@@ -12,8 +12,8 @@ products:
     price: 3290
     capacity: "500mL×6本"
     pricePerUnit: "約1.1円/mL"
-    rating: 4.84
-    reviewCount: 470
+    rating: 4.85
+    reviewCount: 471
     features:
       - "ソフトコンタクトレンズ用の洗浄・保存液"
       - "モイストタイプを複数本まとめて備えられる"

@@ -4,7 +4,7 @@ description: "伊藤園・はくばくなど人気麦茶ティーバッグを1�
 category: "tea-bag"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-23"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 224
     capacity: "52袋"
     pricePerUnit: "約4.3円/袋"
-    rating: 4.75
-    reviewCount: 12
+    rating: 4.69
+    reviewCount: 13
     features:
       - "ほうじ香ばしく飲みやすい風味"
       - "1袋9gのコンパクトサイズ"

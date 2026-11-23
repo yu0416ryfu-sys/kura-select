@@ -4,7 +4,7 @@ description: "犬用の無添加ジャーキーのおすすめ8選を1gあたり
 category: "dog-treat"
 publishedAt: "2026-11-22"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-23"
 draft: false
 products:
   - rank: 1
@@ -154,7 +154,7 @@ products:
     capacity: "30g×3パック（90g）"
     pricePerUnit: "約17円/g"
     rating: 4.84
-    reviewCount: 492
+    reviewCount: 493
     features:
       - "原材料は馬肉だけ"
       - "加工は日本、原料産地はカナダ・南米・ヨーロッパと分けて表示"

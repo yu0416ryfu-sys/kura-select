@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-23"
 draft: false
 products:
   - rank: 1
@@ -299,7 +299,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.72
-    reviewCount: 1101
+    reviewCount: 1103
     features:
       - "12種類から1つを選ぶ出品で、どれも2kg"
       - "室内猫アダルト・子猫用・エイジングケア・穀物フリー・毛玉ケア・減量用などがある"

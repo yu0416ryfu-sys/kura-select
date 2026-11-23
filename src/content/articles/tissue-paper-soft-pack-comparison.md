@@ -4,7 +4,7 @@ description: "箱なしで省スペースなソフトパックティッシュを
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-23"
 draft: false
 products:
   - rank: 1
@@ -190,7 +190,7 @@ products:
     price: 5980
     capacity: "200組×80個"
     rating: 4.66
-    reviewCount: 1314
+    reviewCount: 1315
     features:
       - "1パック200組（400枚）・5個×16パックの80個"
       - "シートは189×195mmで、この記事の中では大きめ"

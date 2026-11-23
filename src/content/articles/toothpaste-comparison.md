@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-23"
 products:
   - rank: 1
     name: "クリニカ アドバンテージ ハミガキ クールミント 130g×3本"
@@ -82,7 +82,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 11099
+    reviewCount: 11101
     features:
       - "炭酸カルシウムとヒドロキシアパタイトを研磨剤に使うペースト（化粧品）"
       - "フッ素とラウリル硫酸ナトリウムを使わない処方"
@@ -211,7 +211,7 @@ products:
     capacity: "120g"
     pricePerUnit: "約24円/g"
     rating: 4.6
-    reviewCount: 829
+    reviewCount: 830
     features:
       - "薬用ハイドロキシアパタイトを配合した薬用ハミガキ（医薬部外品）"
       - "全成分にフッ素の記載はない"

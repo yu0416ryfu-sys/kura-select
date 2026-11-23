@@ -4,7 +4,7 @@ description: "VT・G9SKIN・夜用タイプなど人気ニキビパッチを1枚
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-23"
 draft: false
 products:
   - rank: 1
@@ -278,7 +278,7 @@ products:
     price: 880
     capacity: "48枚"
     rating: 4.51
-    reviewCount: 1579
+    reviewCount: 1580
     features:
       - "1個48枚（10mm×18枚・12mm×30枚）の2サイズ入り。素材はハイドロコロイド"
       - "ツボクサ由来の成分配合とうたう化粧品（韓国製）。全成分にアシアチコシド・マデカシン酸・アシアチン酸"

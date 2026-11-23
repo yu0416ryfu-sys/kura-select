@@ -4,7 +4,7 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-23"
 draft: false
 products:
   - rank: 1
@@ -237,9 +237,9 @@ products:
   - rank: 10
     name: "スコッティ カシミヤ ティッシュペーパー"
     brand: "日本製紙クレシア（スコッティ）"
-    price: 6952
+    price: 3476
     capacity: "220組×20箱"
-    pricePerUnit: "約1.6円/組"
+    pricePerUnit: "約0.79円/組"
     rating: 4.83
     reviewCount: 273
     features:

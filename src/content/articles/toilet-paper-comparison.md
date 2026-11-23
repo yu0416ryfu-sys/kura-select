@@ -4,7 +4,7 @@ description: "シングルのトイレットペーパーを1mあたりの単価�
 category: "toilet-paper"
 publishedAt: "2024-11-01"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-23"
 products:
   - rank: 1
     name: "コアユース 無包装 シングル 芯なし"
@@ -138,7 +138,7 @@ products:
     capacity: "150m×48ロール"
     pricePerUnit: "約0.73円/m"
     rating: 4.67
-    reviewCount: 2882
+    reviewCount: 2883
     features:
       - "芯なしの長巻きタイプで交換頻度を抑えやすい"
       - "個包装仕様で保管時に汚れを防ぎやすい"
@@ -271,8 +271,8 @@ products:
     brand: "アイリスプラザ"
     price: 2880
     capacity: "250m×16ロール"
-    rating: 4.6
-    reviewCount: 450
+    rating: 4.61
+    reviewCount: 451
     features:
       - "パルプを使用した消臭機能付きのシングルタイプ"
       - "芯なしの長巻き仕様で省スペースに保管しやすい"
