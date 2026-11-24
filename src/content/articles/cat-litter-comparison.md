@@ -4,7 +4,7 @@ description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペ
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-11-23"
+updatedAt: "2026-11-24"
 draft: false
 products:
   - rank: 1
@@ -68,10 +68,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101385ku.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-24"
         price: 5160
-        rating: 4.3
-        reviewCount: 100
+        rating: 4.27
+        reviewCount: 103
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101385ku"
         available: true
     genreId: "204174"
@@ -105,7 +105,7 @@ products:
     capacity: "6L×8袋（48L）"
     pricePerUnit: "約108円/L"
     rating: 4.59
-    reviewCount: 3356
+    reviewCount: 3358
     features:
       - "国産おから（大豆粕）由来の植物系猫砂"
       - "トイレに流せる・燃えるゴミに出せる処理方法の選択肢が広い"
@@ -125,12 +125,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101386ku.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-24"
         price: 5160
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101386ku"
         available: true
         rating: 4.65
-        reviewCount: 201
+        reviewCount: 202
     genreId: "204174"
   - rank: 5
     name: "アイリスオーヤマ 炭の猫砂 SNS-70 7L×4袋"
@@ -155,6 +155,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qzr6n.3rdw64d5.g00qzr6n.3rdw7160/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdogland%2F661502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdogland%2Fi%2F10020205%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dogland/cabinet/wh3/1523462.jpg?_ex=128x128"
     genreId: "204174"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F1523462.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-24"
+        price: 2860
+        rating: 4.23
+        reviewCount: 31
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_1523462"
+        available: true
   - rank: 6
     name: "パインウッド"
     brand: "スノーフレーク"
@@ -250,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903351011250x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-24"
         price: 3180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903351011250x4"
         available: true

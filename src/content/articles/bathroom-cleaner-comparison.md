@@ -4,7 +4,7 @@ description: "お風呂用洗剤を容量あたりのコストで比較。最安
 category: "bathroom-cleaner"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-23"
+updatedAt: "2026-11-24"
 products:
   - rank: 1
     name: "ライオン おふろのルック つめかえ用 350ml"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4903301333470.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-24"
         price: 544
         rating: 0
         reviewCount: 0
@@ -77,9 +77,9 @@ products:
   - rank: 3
     name: "バスマジックリン エアジェット 除菌EX ハーバルクリアの香り つめかえ用"
     brand: "花王（バスマジックリン）"
-    price: 766
+    price: 803
     capacity: "1000mL"
-    pricePerUnit: "約0.77円/mL"
+    pricePerUnit: "約0.80円/mL"
     rating: 4.68
     reviewCount: 22
     features:
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301453242.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-24"
         price: 765
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301453242"
         available: true
@@ -273,7 +273,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fprema%2F00701665.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-24"
         price: 1650
         rating: 0
         reviewCount: 2

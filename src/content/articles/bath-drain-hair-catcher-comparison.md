@@ -4,7 +4,7 @@ description: "浴室排水口ヘアキャッチャーを1個あたりのコス�
 category: "bath-drain-hair-catcher"
 publishedAt: "2026-06-04"
 articleType: "comparison"
-updatedAt: "2026-11-23"
+updatedAt: "2026-11-24"
 draft: false
 products:
   - rank: 1
@@ -36,8 +36,8 @@ products:
     price: 1580
     capacity: "1個"
     pricePerUnit: "約1580円/個"
-    rating: 4.23
-    reviewCount: 967
+    rating: 4.22
+    reviewCount: 968
     features:
       - "ステンレス製の排水口ゴミ受け"
       - "排水口ネット付きのセット"
@@ -129,7 +129,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約2530円/個"
     rating: 4.63
-    reviewCount: 5483
+    reviewCount: 5488
     features:
       - "浴室排水口向けのステンレス製"
       - "マグネット式のヘアーキャッチャー"

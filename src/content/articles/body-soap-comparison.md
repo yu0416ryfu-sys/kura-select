@@ -31,13 +31,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fakakabeshop%2F4903301291305-12.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fasu-com%2F3739-009461.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-18"
-        price: 7480
+        updatedAt: "2026-11-24"
+        price: 2149
         rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/akakabeshop_4903301291305-12"
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/asu-com_3739-009461"
         available: true
     genreId: "100962"
   - rank: 2
@@ -67,10 +67,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901301289353.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-29"
-        price: 767
-        rating: 4.67
-        reviewCount: 24
+        updatedAt: "2026-11-24"
+        price: 797
+        rating: 4.68
+        reviewCount: 25
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901301289353"
         available: true
     genreId: "100962"
@@ -178,7 +178,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhealingvillage%2Fmndmrw-kbwt0.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-24"
         price: 1398
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/healingvillage_mndmrw-kbwt0"
         available: true

@@ -4,7 +4,7 @@ description: "ジェルボール洗剤を1個あたりのコストで比較し�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-11-23"
+updatedAt: "2026-11-24"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -33,10 +33,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987176194398.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-24"
         price: 1986
-        rating: 4.75
-        reviewCount: 8
+        rating: 4.78
+        reviewCount: 9
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4987176194398"
         available: true
     genreId: "210182"
@@ -46,8 +46,8 @@ products:
     price: 2997
     capacity: "89個"
     pricePerUnit: "約34円/個"
-    rating: 4.82
-    reviewCount: 83
+    rating: 4.83
+    reviewCount: 86
     features:
       - "部屋干し時の生乾き臭に狙いを定めた処方"
       - "汗をかいた衣類・運動着の皮脂汚れに対応"
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176284914.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-24"
         price: 2997
         rating: 0
         reviewCount: 0
@@ -100,7 +100,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987176284556.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-24"
         price: 2580
         rating: 0
         reviewCount: 2
@@ -192,7 +192,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176284648.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-24"
         price: 640
         rating: 0
         reviewCount: 0
@@ -226,7 +226,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987176292735.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-24"
         price: 3380
         rating: 0
         reviewCount: 0
@@ -270,7 +270,7 @@ products:
   - rank: 9
     name: "ボールド ジェルボール4in1 ホワイトムスク＆フローラル 詰め替え 65個"
     brand: "P&G（ボールド）"
-    price: 5056
+    price: 5311
     capacity: "65個"
     rating: 5
     reviewCount: 2
@@ -293,14 +293,14 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fworldglobal%2F20250727090631-01056.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
-        price: 4446
+        updatedAt: "2026-11-24"
+        price: 4633
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/worldglobal_20250727090631-01056"
         available: true
     genreId: "210182"
-    pricePerUnit: "約78円/個"
+    pricePerUnit: "約82円/個"
   - rank: 10
     name: "アリエール ジェルボール 部屋干し＆スポーツ 詰め替え テラジャンボ"
     brand: "P&G（アリエール）"

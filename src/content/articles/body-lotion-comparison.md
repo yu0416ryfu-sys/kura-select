@@ -4,7 +4,7 @@ description: "毎日のボディケアに使うローション・ボディミル
 category: "body-lotion"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-11-23"
+updatedAt: "2026-11-24"
 draft: false
 products:
   - rank: 1
@@ -159,10 +159,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbettysbeauty%2F10910012.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-25"
-        price: 1464
+        updatedAt: "2026-11-24"
+        price: 1521
         rating: 4.5
-        reviewCount: 151
+        reviewCount: 152
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/bettysbeauty_10910012"
         available: true
     genreId: "216670"
@@ -263,7 +263,7 @@ products:
     price: 3080
     capacity: "350ml"
     rating: 4.75
-    reviewCount: 670
+    reviewCount: 672
     features:
       - "全身の保湿に使いやすいローションタイプ"
       - "ポンプや大容量など日常使いしやすい設計"
@@ -306,7 +306,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokokaranet%2F56770.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-24"
         price: 2280
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kokokaranet_56770"
         available: true

@@ -4,7 +4,7 @@ description: "食洗機用洗剤を1回あたりのコストで徹底比較。�
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-24"
 products:
   - rank: 1
     name: "緑の魔女 オートキッチン 食洗機用洗剤 800g"
@@ -217,7 +217,7 @@ products:
     capacity: "800g×3セット（2400g）"
     pricePerUnit: "約1.1円/g"
     rating: 4.73
-    reviewCount: 350
+    reviewCount: 351
     features:
       - "食洗機用の洗剤本体"
       - "タブレットや粉末など食洗機向けの形状"

@@ -30,6 +30,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4973210991221%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10018386%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/59/4973210991221.jpg?_ex=128x128"
     genreId: "200829"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanosinia%2F233086.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-23"
+        price: 1745
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanosinia_233086"
+        available: true
   - rank: 2
     name: "ピジョン ミルクポン 哺乳びん消毒液 1000mL"
     brand: "ピジョン"
@@ -53,6 +64,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qvyfn.3rdw6a92.g00qvyfn.3rdw717f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4902508120883%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10085928%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/60/4902508120883.jpg?_ex=128x128"
     genreId: "553404"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ja58744/"
+        matchStatus: "pending"
+        updatedAt: "2026-11-23"
+        price: 863
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ja58744"
+        available: true
   - rank: 3
     name: "ミルトン 液体タイプ 450mL"
     brand: "杏林製薬"
@@ -76,6 +98,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q46yn.3rdw6757.g00q46yn.3rdw76e0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdrugpure%2F10002613_so%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdrugpure%2Fi%2F10228284%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/drugpure/cabinet/kihon22/4987060007490.jpg?_ex=128x128"
     genreId: "553385"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdrugpure%2F4987060007490-1ketp.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-23"
+        price: 1037
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/drugpure_4987060007490-1ketp"
+        available: true
   - rank: 4
     name: "ピジョン ミルクポンS 哺乳びん除菌料 60包"
     brand: "ピジョン"
@@ -99,6 +132,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgivn.3rdw6956.g00tgivn.3rdw72f6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpigeon-shop%2F1024295%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpigeon-shop%2Fi%2F10001818%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pigeon-shop/cabinet/thumb/thumb/1024295.jpg?_ex=128x128"
     genreId: "207748"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902508121019.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-23"
+        price: 1681
+        rating: 4.6
+        reviewCount: 5
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902508121019"
+        available: true
   - rank: 5
     name: "ピジョン ミルクポンW 洗える除菌料 40包"
     brand: "ピジョン"
@@ -122,6 +166,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tgivn.3rdw6956.g00tgivn.3rdw72f6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpigeon-shop%2F1033731%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpigeon-shop%2Fi%2F10002020%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pigeon-shop/cabinet/thumb/thumb4/1033731th.jpg?_ex=128x128"
     genreId: "207748"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft1436-01a.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-23"
+        price: 1617
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/online-3_t1436-01a"
+        available: true
   - rank: 6
     name: "チュチュ つけるだけ タブレット 72錠"
     brand: "ジェクス"
@@ -145,6 +200,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pjnkn.3rdw6424.g00pjnkn.3rdw7ec8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjex%2F1215822%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjex%2Fi%2F10001585%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jex/cabinet/tukerudaket/1215822_01.jpg?_ex=128x128"
     genreId: "207748"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjex%2F1215822-3.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-23"
+        price: 5441
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/jex_1215822-3"
+        available: true
   - rank: 7
     name: "ミルトンCP タブレット 60錠"
     brand: "杏林製薬"

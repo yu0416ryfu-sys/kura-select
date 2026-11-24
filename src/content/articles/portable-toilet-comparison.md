@@ -4,7 +4,7 @@ description: "防災・災害備蓄用の簡易トイレおすすめ8選を1回�
 category: "portable-toilet"
 publishedAt: "2026-07-10"
 articleType: "comparison"
-updatedAt: "2026-11-23"
+updatedAt: "2026-11-24"
 draft: false
 products:
   - rank: 1
@@ -92,8 +92,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhacono%2Fftl010210102.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
-        price: 7980
+        updatedAt: "2026-11-24"
+        price: 7182
         rating: 3.96
         reviewCount: 27
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hacono_ftl010210102"
@@ -104,7 +104,7 @@ products:
     price: 3680
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7861
+    reviewCount: 7877
     features:
       - "1箱は凝固剤60袋（50袋＋10袋）と黒い汚物袋60枚、防臭袋5枚"
       - "凝固剤1袋で500mlの水が約30秒で固まる表示"
@@ -158,10 +158,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftenton-store%2Fportabletoilet01f2.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-24"
         price: 5122
         rating: 4.68
-        reviewCount: 111
+        reviewCount: 113
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenton-store_portabletoilet01f2"
         available: true
     priceMax: 23750
@@ -192,10 +192,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcoco-yasashisaya%2Fsaimol01.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-24"
         price: 3980
         rating: 4.49
-        reviewCount: 797
+        reviewCount: 800
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/coco-yasashisaya_saimol01"
         available: true
     priceMax: 27800
@@ -228,7 +228,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Faquatalk%2F10000314.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-24"
         price: 3000
         rating: 4.34
         reviewCount: 382
@@ -240,7 +240,7 @@ products:
     price: 1580
     capacity: "20回分"
     rating: 4.5
-    reviewCount: 7367
+    reviewCount: 7371
     features:
       - "凝固剤（10g入り）20回分・排泄用袋20枚・便座カバー1枚・防臭袋2枚・手袋50枚"
       - "20回分の箱は約19.5×30.5×3.2cmの薄い硬紙箱"
@@ -260,7 +260,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkouseisyouten%2Fdzcsh735he.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-24"
         price: 1180
         rating: 0
         reviewCount: 0

@@ -4,7 +4,7 @@ description: "犬猫用ペットシーツのレギュラーサイズを1枚あ�
 category: "pet-sheet"
 publishedAt: "2026-05-31"
 articleType: "comparison"
-updatedAt: "2026-11-23"
+updatedAt: "2026-11-24"
 draft: false
 products:
   - rank: 1
@@ -223,7 +223,7 @@ products:
     price: 4480
     capacity: "レギュラー 800枚"
     rating: 4.49
-    reviewCount: 45626
+    reviewCount: 45628
     features:
       - "薄型のペット用トイレシート"
       - "レギュラーサイズを選べる"
@@ -314,7 +314,7 @@ products:
     price: 4650
     capacity: "レギュラー 400枚"
     rating: 4.3
-    reviewCount: 6641
+    reviewCount: 6643
     features:
       - "吸収量を重視した厚型タイプ"
       - "レギュラーサイズを選べるペット用トイレシート"

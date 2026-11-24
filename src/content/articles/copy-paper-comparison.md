@@ -4,7 +4,7 @@ description: "A4コピー用紙のおすすめ9選を、高白色・標準白色
 category: "copy-paper"
 publishedAt: "2026-10-31"
 articleType: "comparison"
-updatedAt: "2026-11-23"
+updatedAt: "2026-11-24"
 draft: false
 products:
   - rank: 1
@@ -116,7 +116,7 @@ products:
     capacity: "500枚×10冊（5000枚）"
     pricePerUnit: "約0.92円/枚"
     rating: 4.59
-    reviewCount: 1577
+    reviewCount: 1578
     features:
       - "ISO白色度約93%・坪量約68g/m²・紙厚約94μm（商品ページ表記）"
       - "コピー用紙の中ではやや厚めの紙厚"
@@ -137,10 +137,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F550592.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        updatedAt: "2026-11-24"
         price: 4598
         rating: 4.68
-        reviewCount: 3621
+        reviewCount: 3622
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_550592"
         available: true
   - rank: 5
@@ -170,8 +170,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fy40138.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        matchStatus: "matched"
+        updatedAt: "2026-11-24"
         price: 4730
         rating: 4.65
         reviewCount: 110
@@ -184,7 +184,7 @@ products:
     capacity: "500枚×5冊（2500枚）"
     pricePerUnit: "約0.96円/枚"
     rating: 4.63
-    reviewCount: 263
+    reviewCount: 265
     features:
       - "10冊入りと同じ銘柄の5冊入り"
       - "白色度92%で、PEFC認証材を使った用紙"
@@ -204,11 +204,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fofficetrust%2F014001.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        matchStatus: "matched"
+        updatedAt: "2026-11-24"
         price: 2286
-        rating: 4.56
-        reviewCount: 266
+        rating: 4.57
+        reviewCount: 267
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/officetrust_014001"
         available: true
   - rank: 7
@@ -237,13 +237,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9122182.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F9831988.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 5020
-        rating: 4.59
-        reviewCount: 71
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9122182"
+        updatedAt: "2026-11-24"
+        price: 5980
+        rating: 4.87
+        reviewCount: 15
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_9831988"
         available: true
   - rank: 8
     name: "コピー用紙 ホワイトエコペーパー A4サイズ 1冊 500枚 高白色"
@@ -272,8 +272,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkilat%2F9i2113.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        matchStatus: "matched"
+        updatedAt: "2026-11-24"
         price: 498
         rating: 4.28
         reviewCount: 39
@@ -306,8 +306,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F558458.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        matchStatus: "matched"
+        updatedAt: "2026-11-24"
         price: 2970
         rating: 4.36
         reviewCount: 11

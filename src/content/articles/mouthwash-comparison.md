@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-24"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス 1000mL×4本"
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4901616010888.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-24"
         price: 1058
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4901616010888"
         available: true
@@ -134,13 +134,14 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fliroha-store%2F4901730180740-6.html"
-        matchStatus: "matched"
+        matchStatus: "review"
         updatedAt: "2026-10-27"
         price: 5098
         rating: 4.63
         reviewCount: 8
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/liroha-store_4901730180740-6"
-        available: true
+        available: false
+        matchNotes: "capacity不一致: capacity不一致"
     genreId: "208265"
   - rank: 5
     name: "薬用リステリン トータルケアゼロプラス 1000mL×6本"
@@ -261,7 +262,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichinan25%2Fdr-wash.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-24"
         price: 2970
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nichinan25_dr-wash"
         available: true
@@ -275,7 +276,7 @@ products:
     capacity: "100mL（約700回分）"
     pricePerUnit: "約23円/mL"
     rating: 4.75
-    reviewCount: 644
+    reviewCount: 645
     features:
       - "歯科医院でも販売されている薬用マウスウォッシュ"
       - "殺菌成分グルコン酸クロルヘキシジン配合"
@@ -308,7 +309,7 @@ products:
     price: 2580
     capacity: "300mL"
     rating: 4.6
-    reviewCount: 2974
+    reviewCount: 2976
     features:
       - "ホワイトニング成分配合でセルフケアに対応"
       - "ノンアルコール処方で低刺激"

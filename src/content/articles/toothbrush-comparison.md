@@ -4,7 +4,7 @@ description: "歯ブラシを1本あたりのコストで徹底比較。Shu&Shu�
 category: "toothpaste"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-23"
+updatedAt: "2026-11-24"
 products:
   - rank: 1
     name: "FEED Shu&Shu 大人用歯ブラシアソート 20本 M"
@@ -35,7 +35,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約62円/本"
     rating: 4.46
-    reviewCount: 2433
+    reviewCount: 2435
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -202,10 +202,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmymouthpeace%2F145.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-24"
         price: 2898
         rating: 4.89
-        reviewCount: 18
+        reviewCount: 19
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mymouthpeace_145"
         available: true
   - rank: 8
@@ -236,7 +236,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitem-for-life%2Fruscello-b10m-10.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-24"
         price: 2580
         rating: 4.89
         reviewCount: 27

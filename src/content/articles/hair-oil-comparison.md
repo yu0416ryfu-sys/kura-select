@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-11-23"
+updatedAt: "2026-11-24"
 draft: false
 products:
   - rank: 1
@@ -131,7 +131,7 @@ products:
     price: 2959
     capacity: "150mL"
     rating: 4.56
-    reviewCount: 1145
+    reviewCount: 1146
     features:
       - "全成分はゴマ油・サフラワー油・ヒマワリ種子油・ホホバ種子油など植物オイルが中心で、シリコーンの記載はない"
       - "タオルドライ後のアウトバス、乾いた髪の仕上げ、手や体の保湿に使える"
@@ -190,7 +190,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4757
+    reviewCount: 4768
     features:
       - "ブランシュ・シトラスベール・ジャスミンドレなど、複数の香りから選べる"
       - "ヘアのほか、手・爪・体やバスオイルとしても使えるマルチユースオイル"
@@ -226,7 +226,7 @@ products:
     price: 1100
     capacity: "75mL"
     rating: 4.75
-    reviewCount: 2945
+    reviewCount: 2946
     features:
       - "水を加えないアウトバストリートメント。全成分の先頭はシクロペンタシロキサン・ジメチコンで、海藻エキスやオリーブ果実油を配合"
       - "無香料・無着色で、防腐剤無添加"
@@ -247,7 +247,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6016812.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-24"
         price: 2563
         rating: 4.44
         reviewCount: 16

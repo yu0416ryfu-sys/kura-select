@@ -4,7 +4,7 @@ description: "Panasonic・富士通など主要ブランドの乾電池を1本�
 category: "battery"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-23"
+updatedAt: "2026-11-24"
 draft: false
 products:
   - rank: 1
@@ -184,7 +184,7 @@ products:
     capacity: "16本"
     pricePerUnit: "約186円/本"
     rating: 4.45
-    reviewCount: 671
+    reviewCount: 672
     features:
       - "対象カテゴリの商品として比較しやすい基本仕様"
       - "まとめ買いやストックに使いやすい構成"
@@ -285,7 +285,7 @@ products:
     price: 1000
     capacity: "40本"
     rating: 4.63
-    reviewCount: 1210
+    reviewCount: 1212
     features:
       - "単3×40本・単4×40本・単3×20本+単4×20本から選べる構成"
       - "5年保存対応のアルカリ電池でコスパ重視の設計"

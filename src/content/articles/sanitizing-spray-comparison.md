@@ -4,7 +4,7 @@ description: "除菌スプレー・アルコールを1mLあたりのコストで
 category: "sanitizing-spray"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-24"
 products:
   - rank: 1
     name: "カビキラー アルコール除菌 キッチン用 詰め替え用【カビキラー】[アルコールスプ"
@@ -12,8 +12,8 @@ products:
     price: 1130
     capacity: "（1260mL）"
     pricePerUnit: "約0.90円/mL"
-    rating: 4.65
-    reviewCount: 20
+    rating: 4.67
+    reviewCount: 21
     features:
       - "成分は発酵エタノール・クエン酸ナトリウム・乳酸・精製水（濃度の表示なし）"
       - "「100％食品に使える原料」でつくられ、食器にかかっても安心と表示"
@@ -34,8 +34,8 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/nj04120/"
         matchStatus: "pending"
-        updatedAt: "2026-11-18"
-        price: 3640
+        updatedAt: "2026-11-24"
+        price: 4497
         rating: 4.88
         reviewCount: 8
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_nj04120"
@@ -67,13 +67,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10130857.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4902424441727.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-18"
-        price: 420
-        rating: 4.67
-        reviewCount: 9
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tsuruha_10130857"
+        updatedAt: "2026-11-24"
+        price: 419
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4902424441727"
         available: true
     genreId: "208238"
   - rank: 3
@@ -211,7 +211,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhisamitsukenkou%2F4987188318706.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-24"
         price: 1100
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/hisamitsukenkou_4987188318706"
         available: true
@@ -246,7 +246,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-lensstyle%2Fsaruo-20.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-24"
         price: 550
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-lensstyle_saruo-20"
         available: true

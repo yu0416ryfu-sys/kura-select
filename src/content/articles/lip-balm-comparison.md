@@ -4,7 +4,7 @@ description: "リップクリームのおすすめ10選を、薬用（医薬部�
 category: "lip-balm"
 publishedAt: "2026-11-12"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-24"
 draft: false
 products:
   - rank: 1
@@ -158,13 +158,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdrug-yanagawa%2F4987316092676-mail.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4987316092676.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-22"
-        price: 752
-        rating: 4.89
-        reviewCount: 19
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/drug-yanagawa_4987316092676-mail"
+        updatedAt: "2026-11-24"
+        price: 763
+        rating: 4.88
+        reviewCount: 33
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4987316092676"
         available: true
   - rank: 6
     name: "アベンヌ 薬用リップケア モイスト 4g"
@@ -194,7 +194,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fwlb%2Fav057.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-24"
         price: 968
         rating: 5
         reviewCount: 7
@@ -230,7 +230,7 @@ products:
     capacity: "1.5g"
     pricePerUnit: "約513円/g"
     rating: 4.63
-    reviewCount: 191
+    reviewCount: 192
     features:
       - "医薬部外品。有効成分は甘草由来成分誘導体（成分名は商品ページに記載なし）"
       - "オリーブバージンオイル・アロエエキスを配合"
@@ -251,7 +251,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/8366417/"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-24"
         price: 738
         rating: 4.66
         reviewCount: 149

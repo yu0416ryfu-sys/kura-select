@@ -4,7 +4,7 @@ description: "犬用の無添加ジャーキーのおすすめ8選を1gあたり
 category: "dog-treat"
 publishedAt: "2026-11-22"
 articleType: "comparison"
-updatedAt: "2026-11-23"
+updatedAt: "2026-11-24"
 draft: false
 products:
   - rank: 1
@@ -61,7 +61,7 @@ products:
     capacity: "50g"
     pricePerUnit: "約12円/g"
     rating: 4.78
-    reviewCount: 81
+    reviewCount: 82
     features:
       - "兵庫県産の鹿肉を薄くスライスし、そのまま乾燥したと説明"
       - "酸化防止剤・防腐剤を使っていないと表示"

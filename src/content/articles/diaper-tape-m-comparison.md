@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2875571012.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-24"
         price: 8712
         rating: 0
         reviewCount: 0
@@ -66,13 +66,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2871709013.html"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/p633769/"
         matchStatus: "pending"
-        updatedAt: "2026-11-14"
-        price: 1980
-        rating: 0
-        reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2871709013"
+        updatedAt: "2026-11-24"
+        price: 1990
+        rating: 4.5
+        reviewCount: 6
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_p633769"
         available: true
   - rank: 3
     name: "メリーズファストプレミアム テープ Mサイズ"

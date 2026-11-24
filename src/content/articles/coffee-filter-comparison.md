@@ -30,6 +30,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5iyn.3rdw6232.g00q5iyn.3rdw7569/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeycomr%2Ftb530000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeycomr%2Fi%2F10000907%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/keycomr/cabinet/item/10613868/tb530000.jpg?_ex=128x128"
     genreId: "201402"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fminakuru%2F4901372279703.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-24"
+        price: 149
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/minakuru_4901372279703"
+        available: true
   - rank: 2
     name: "ハリオ V60 ペーパーフィルター みさらし 100枚"
     brand: "ハリオ"
