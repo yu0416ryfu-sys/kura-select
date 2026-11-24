@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" width="600" height="760" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>綿棒は「誰に・何に使うか」で選ぶ</title>
+  <rect width="600" height="760" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">綿棒は「誰に・何に使うか」で選ぶ</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">単価は、同じタイプの中だけで比べる</text>
+
+  <rect x="20" y="100" width="560" height="140" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <text x="40" y="136" font-size="20" font-weight="700" fill="#1f4f87">大人の耳の入り口・身のまわりのお手入れ</text>
+  <text x="40" y="172" font-size="22" font-weight="700" fill="#1f2937">ふつうの太さの白い綿棒</text>
+  <text x="40" y="204" font-size="17" fill="#374151">抗菌の表示と、フタ付きのケースかで選ぶ</text>
+  <text x="40" y="228" font-size="15" fill="#6b7280">掲載品はどれも紙軸（1点は軸の記載なし）</text>
+
+  <rect x="20" y="260" width="560" height="140" rx="14" fill="#fdf6ec" stroke="#e7b874" stroke-width="2"/>
+  <text x="40" y="296" font-size="20" font-weight="700" fill="#8a5a14">赤ちゃんの鼻・耳の入り口</text>
+  <text x="40" y="332" font-size="22" font-weight="700" fill="#1f2937">スリム（細め）の赤ちゃん用</text>
+  <text x="40" y="364" font-size="17" fill="#374151">奥まで入れない・子どもが動かないときに使う</text>
+  <text x="40" y="388" font-size="15" fill="#6b7280">粘着綿棒・オイル綿棒は別の商品（この記事では比べていない）</text>
+
+  <rect x="20" y="420" width="560" height="140" rx="14" fill="#f1f1f4" stroke="#9ca3af" stroke-width="2"/>
+  <text x="40" y="456" font-size="20" font-weight="700" fill="#374151">取れた汚れを目で確かめたい</text>
+  <text x="40" y="492" font-size="22" font-weight="700" fill="#1f2937">黒い綿棒・波型（スパイラル）</text>
+  <text x="40" y="524" font-size="17" fill="#374151">片側だけ波型か、両側とも波型かが商品で違う</text>
+  <text x="40" y="548" font-size="15" fill="#6b7280">抗菌の表示がある商品と無い商品がある</text>
+
+  <rect x="20" y="580" width="560" height="156" rx="14" fill="#fdeeee" stroke="#e39a9a" stroke-width="2"/>
+  <text x="40" y="616" font-size="20" font-weight="700" fill="#9b2c2c">傷口・粘膜・治療中の部分</text>
+  <text x="40" y="652" font-size="22" font-weight="700" fill="#1f2937">綿棒を使わない</text>
+  <text x="40" y="684" font-size="17" fill="#374151">使用上の注意に書いている商品がある</text>
+  <text x="40" y="708" font-size="17" fill="#374151">傷の手当ては、医師や薬剤師に相談する</text>
+</svg>
